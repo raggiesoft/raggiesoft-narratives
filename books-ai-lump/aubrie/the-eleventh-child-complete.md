@@ -5064,9 +5064,9 @@ Sitting on the accessible platform, Jordan was frozen solid. In the terrifying a
 
 #### 3:00 PM — Halftime
 
-The halftime whistle blew, and the **CPI Marching Forgers**—one of the premier collegiate marching bands in the country—marched onto the turf to a scattering of polite, deflated applause. All around the bowl, the aisles were clogged with thousands of frustrated alumni and students heading for the exits, disgusted by the 24–0 first-half rout.
+The halftime whistle blew, and the three-hundred-piece **CPI Marching Forgers**—one of the premier collegiate marching bands in the country—marched onto the turf to a scattering of polite, deflated applause. Over the stadium PA system, the announcer's voice boomed across the concrete bowl, introducing the Marching Forgers' 2014 Homecoming field show: a three-song brass-and-percussion tribute to CPI's most legendary alumni, **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**, featuring marching-band arrangements of [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine), [**"Progress Street: Where the Fire Began"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-01-progress-street-where-the-fire-began), and [**"Electric Color"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-electric-color). All around the bowl, the aisles were clogged with thousands of frustrated alumni and students heading for the exits, disgusted by the 24–0 first-half rout.
 
-For Jordan, the brass fanfare on the field was nothing more than distant, garbled static behind his earmuffs. His gaze remained locked on the glowing numerals of the scoreboard: **HOME: 0 — VISITOR: 24**.
+For Jordan—who had grown up in near-total isolation in Virginia Beach where his mother banned popular music and had never heard a single note of **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** in his life—the sweeping 300-horn brass fanfares of *"The Stardust Engine"* and *"Progress Street: Where the Fire Began"* on the field below were nothing more than distant, garbled static behind his earmuffs. His gaze remained locked on the glowing numerals of the scoreboard: **HOME: 0 — VISITOR: 24**.
 
 His newfound confidence had shattered into fragments. In his trauma-wired mind, the symbolic force of his abuser's city had marched right into his sanctuary and crushed it without breaking a sweat. The humiliation felt like proof of his deepest nightmare: that his independence was a fragile illusion, that he wasn't safe, and that his mother's reach was still all-powerful. Pale and trembling, his hands locked onto his armrests as his rocking accelerated in rising panic.
 
@@ -5090,7 +5090,7 @@ Jordan looked down at Aubrie and Madison kneeling in front of him, and then up a
 
 #### 3:20 PM — The Retreat
 
-Even inside the human ring of his friends, the pounding bass of the halftime show and the press of the stadium concourse were pushing Jordan closer and closer to the edge. His rocking hadn't stopped, and his eyes remained wide and unfocused behind his glasses, trapped in the suffocating conviction that his mother's world was closing in on him.
+Down on the turf, the **CPI Marching Forgers** wheeled into their final formation and launched into the soaring brass-and-percussion finale of [**"Electric Color"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-electric-color). Yet even inside the human ring of his friends, the pounding bass of the halftime show and the press of the stadium concourse were pushing Jordan closer and closer to the edge. His rocking hadn't stopped, and his eyes remained wide and unfocused behind his glasses, trapped in the suffocating conviction that his mother's world was closing in on him.
 
 "Okay, we're done. We're getting him out of here," Mark said, his voice a low, decisive command. Nobody hesitated for a second. The game no longer existed; their sole priority was extracting Jordan back to Bennett Hall.
 
@@ -19804,19 +19804,21 @@ Aubrie Jean leaned over his shoulder, resting her cheek against his temple as Ma
 
 ## Live at the Crucible & Senior Commencement
 
-### Part 1: The Crucible Shuttle, Forger Tailgate, & Ignition
+### Part 1: The Crucible Shuttle & The Forger Nation Tailgate
 
 **Date:** 2016-05-21 15:00
 
+![Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a maroon Electric Color concert shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Cooper near an Engine Room Records filming notice sign.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/forger-nation-tailgate-plaza.jpg)
+
 May 2016 arrived in Blacksburg in a burst of warm Appalachian sunshine, blooming dogwoods, and the bittersweet magic of the end of Sophomore Year.
 
-Six days earlier, on Friday, May 13, 2016, the entire household had cheered until their voices were hoarse as **Isabel Dawson** walked across the CPI Spring Commencement stage in her maroon-and-orange regalia, officially graduating *cum laude* with her Bachelor of Science in Hospitality and Tourism Management. With her residence-hall duties in `Allegheny Commons` formally concluded and her full-time hospitality management position at the **Inn at CPI and Conference Center** beginning in June, the remaining boxes from `Apartment 101` had been moved permanently into `414 Geneva Street`—and would soon move with the whole family into the nearly completed U.S. 11 compound at the start of July.
+Eight days earlier, on Friday, May 13, 2016, the entire household had cheered until their voices were hoarse as **Isabel Dawson** walked across the CPI Spring Commencement stage in her maroon-and-orange regalia, officially graduating *cum laude* with her Bachelor of Science in Hospitality and Tourism Management. With her residence-hall duties in `Allegheny Commons` formally concluded and her full-time hospitality management position at the **Inn at CPI and Conference Center** beginning in June, the remaining boxes from `Apartment 101` had been moved permanently into `414 Geneva Street`—and would soon move with the whole family into the nearly completed U.S. 11 compound at the start of July.
 
-Now, on Saturday afternoon, May 21, 2016, at `15:00`, all sixteen members of their extended family stood on the sunny front lawn of `414 Geneva Street`, dressed in their concert best and wearing their commemorative gold-foil ticket stubs in clear lanyards around their necks:
+Now, on Saturday afternoon, May 21, 2016, at `15:00`, all sixteen members of their extended family stood on the sunny front lawn of `414 Geneva Street`, dressed in their concert best and wearing their commemorative `$5.00` gold-foil ticket stubs in clear lanyards around their necks:
 * **Jordan** sat in his `Vanguard Pro` in a vintage-style `1987 Electric Color` tour T-shirt that **Daniel** and **Laura Brooks** had brought him from Bluefield, with his custom high-fidelity `Vibe-Filter` acoustic earpieces tucked securely into his ears and his over-ear defenders clipped to his push-handles just in case.
 * Around him stood all eight women of his constellation—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, and **Megan**—alongside **Mark**, **Hannah**, **Daniel**, **Laura**, **Elana**, **Stephen**, and eighteen-month-old **Stella**, who was sporting tiny baby-sized pink earmuffs and a miniature `FORGER NATION` jersey in her folding stroller.
 
-"Nobody is driving anywhere near Stadium Woods today," Mark said with a grin as the sixteen of them made the short one-block walk down the hill from `414 Geneva Street` to the **Christiansburg Transit Center**, where the Park & Ride lot had been transformed into a sea of maroon and orange. "Blue Ridge Transit suspends regular route numbers for Tier 1 stadium events and runs sixty-foot articulated shuttles straight from here at the Christiansburg Transit Center to the Crucible Bus Loop!"
+"Nobody is driving anywhere near Stadium Woods today," Mark said with a grin as the sixteen of them made the short one-block walk down the hill from `414 Geneva Street` to the **Christiansburg Transit Center**, where the Park & Ride lot had been transformed into a sea of Foundry Maroon and Molten Orange. "Blue Ridge Transit suspends regular route numbers for Tier 1 stadium events and runs sixty-foot articulated shuttles straight from here at the Christiansburg Transit Center to the Crucible Bus Loop!"
 
 Right on cue, an articulated **Blue Ridge Transit** shuttle pulled up to the Christiansburg Transit Center curb. Its destination sign alternated between two messages:
 
@@ -19834,18 +19836,30 @@ The pneumatic doors hissed open, the front suspension kneeled to the curb, and t
 
 <aac>"Yes sir! Section 104, Row A! Thank you for the lift!"</aac> Jordan tapped on his `mPad` as he rolled smoothly up the ramp and locked his `Vanguard Pro` into the forward securement bay right next to Stella’s folded stroller.
 
-As the sixty-foot articulated coach glided up U.S. Route 460 Business into Blacksburg and turned onto the dedicated transit-only lane leading into the **Crucible Bus Loop**, Jordan looked out the wide panoramic window. Along the side streets, private lawn lots were waving cardboard signs reading **`CONCERT PARKING $50 CASH ONLY — FULL`**, while frustrated out-of-town SUVs sat bumper-to-bumper in the heat. Meanwhile, their BRT shuttle breezed right past the traffic cones along the busway and dropped them off less than two hundred feet from the accessible west entrance of Gate 1.
+Every seat and standing handrail on the sixty-foot coach quickly filled with CPI students and alumni wearing maroon jerseys and vintage band shirts. As the shuttle glided up U.S. Route 460 Business into Blacksburg and turned onto the dedicated transit-only lane leading into the **Crucible Bus Loop**, Jordan looked out the wide window. Along the side streets, private lawn lots were waving hand-painted cardboard signs reading **`CONCERT PARKING $50 CASH ONLY — FULL`**, while frustrated out-of-town SUVs sat bumper-to-bumper in the heat.
 
-Outside the stadium, the atmosphere was nothing like the chaotic, drunken frenzy that had terrified Jordan during the October 2014 Homecoming game.
+"And that," **Zoë** noted dryly, adjusting her glasses as their shuttle breezed right past the gridlock along the coned-off busway, "is a fifty-dollar tax on poor logistical planning. Fare-free municipal transit wins again."
 
-Instead, the tree-lined plazas around **The Crucible** felt like a massive, joyful family reunion spanning three generations of **Forger Nation**. Alumni from the Class of `'87`, `'88`, and `'89` were grilling burgers alongside current CPI undergraduates; acoustic guitars and portable speakers were playing tracks from [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color), [***Neon Hearts***](https://music.raggiesoft.com/artists/the-stardust-engine/1989-neon-hearts), [***Hard Reset***](https://music.raggiesoft.com/artists/the-stardust-engine/1997-hard-reset), and [***Progress Street***](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street); and families with kids were trading stories about the first time they had heard **Cassidy** and **Ryan O'Connell** sing.
+---
 
-At the entrance to the Gate 1 accessible tunnel, large A-frame placards bore the silver emblem of **Engine Room Records**:
+The shuttle dropped them off less than two hundred feet from the accessible west entrance of Gate 1. Outside the stadium, the atmosphere was nothing like the chaotic, drunken frenzy that had terrified Jordan during the September 2014 Homecoming game.
+
+Instead, the tree-lined plazas around **The Crucible** felt like a massive, joyful homecoming spanning three generations of **Forger Nation**. Because tonight was the final night of the 2015–2016 ***Reignition* World Tour**, **Engine Room Records** had cordoned off the entire South Endzone concourse lawn for the **Forger Nation Tailgate Plaza**—accessible exclusively to fans whose tickets were bound to a student, faculty, or alumni `Poly Pass`.
+
+At the entrance to the plaza and the Gate 1 accessible tunnel, large silver-and-black A-frame placards bore the emblem of **Engine Room Records**:
 
 > **NOTICE OF FILMING AND LIVE AUDIO RECORDING**<br>
-> Tonight's performance by **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** at **The Crucible** is being recorded on 96kHz/24-bit multitrack audio and 4K cinema cameras for the upcoming live album and concert film, ***Live at the Crucible***. By entering these premises, you consent to be part of Blacksburg music history.
+> Tonight's performance by **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** at **The Crucible** is being recorded on 96kHz/24-bit multitrack audio and 4K cinema cameras for the upcoming live album and concert film, [***Live at the Crucible***](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible). By entering these premises, you consent to be part of Blacksburg music history.
 
-As the sixteen of them passed through the accessible security lane—where the ushers handed every person an addressable LED wristband synchronized to the stage lighting console—they rolled down the wide, cool concrete ramp of the field-level tunnel.
+One by one, the sixteen of them tapped their `Poly Pass` cards (and guest passes) against the green optical pedestals. Inside the **Forger Nation Tailgate Plaza**, there was no pushing, no scalper chaos, and no sensory crush—just wide, level pathways, shaded picnic tables, acoustic guitars, and a long row of local Blacksburg food trucks that **Holly O'Connell** had subsidized so every plate was five dollars flat.
+
+"Smell that hickory smoke," **Mark** breathed, leading the group straight toward the flagship **`Smokin' Anvil BBQ`** pit trailer. "Pulled pork platters, hushpuppies, and sweet tea before a rock show. Does it get any better than this?"
+
+While Mark, Daniel, and Stephen carried over trays piled high with hickory-smoked pulled pork sandwiches, mac-and-cheese, and cold lemonade to a shaded accessible table, a two-person documentary film crew wearing black **`ENGINE ROOM FILMS`** vests strolled past, capturing B-roll of the three-generation crowd. Spotting Jordan’s vintage `1987 Electric Color` shirt next to Daniel’s original 1989 tour button and little Stella’s tiny pink ear defenders, the camerawoman smiled and gave them a thumbs-up, filming a warm five-second panning shot as Jordan grinned and raised his lemonade cup alongside Aubrie Jean and Madison.
+
+---
+
+At `18:00`, as the gates to the stadium bowl officially opened, the sixteen of them passed through the accessible security lane—where the ushers handed every person an addressable white LED wristband synchronized to the stage lighting console—and rolled down the wide, cool concrete ramp of the Gate 1 field-level tunnel.
 
 Jordan’s heart beat a little faster as the tunnel opened onto the bright green expanse of the stadium floor.
 
@@ -19855,9 +19869,9 @@ Date: 05-21-2016
 Time: 18:15:09
 Thread 3 (Jordan.OS) & Thread 1 (Self)
 Event: Crossing the Threshold of The Crucible (Historical Trauma Site -> Sanctuary Site).
-Hypothesis: Entering the physical stadium bowl where Jordan experienced his severe October 2014 Homecoming sensory crash (`System.Crash`) will trigger a transient autonomic memory spike.
+Hypothesis: Entering the physical stadium bowl where Jordan experienced his severe September 2014 Homecoming sensory crash (`System.Crash`) will trigger a transient autonomic memory spike.
 Analysis:
-- Prior State (October 2014): Alone in a crowd of 65,000 without acoustic attenuation, without AAC fluency, and carrying unresolved legacy trauma.
+- Prior State (September 2014): Trapped in a 24-0 halftime rout against VDU ("Norfolk") without acoustic attenuation, without AAC fluency, and carrying unresolved legacy trauma as the CPI Marching Forgers played "Electric Color".
 - Current State (May 2016): Surrounded by 15 fiercely protective family members in Accessible Field-Level Section 104, Row A (Seats 1–16); equipped with -18 dB linear-response Vibe-Filter acoustic earpieces; healed post-CABG sternum; zero ambiguity of belonging.
 - Observed Biometrics: Brief HR elevation to 86 BPM at tunnel exit, followed by immediate stabilization at 76 BPM as Aubrie Jean and Megan take his hands.
 Conclusion: The Crucible has been successfully overwritten in Jordan.OS memory architecture. 05-21-2016 18:15:09
@@ -19865,49 +19879,253 @@ Conclusion: The Crucible has been successfully overwritten in Jordan.OS memory a
 
 `Section 104, Row A` was an elevated, zero-obstruction concrete terrace positioned directly at the front edge of the lower bowl on the fifty-yard line, looking straight across the field toward the massive custom stage framed by twin orbital truss towers and a 120-foot curved LED starfield screen.
 
-Jordan locked his brakes in `Seat 1`, with **Aubrie Jean** in `Seat 2`, **Madison** in `Seat 3`, and **Megan** in `Seat 4`, followed in an unbroken row by **Mark**, **Hannah**, **Daniel**, **Laura**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Elana**, **Stephen**, and **Stella**.
+Jordan locked his wheel brakes in `Seat 1`, with **Aubrie Jean** in `Seat 2`, **Madison** in `Seat 3`, and **Megan** in `Seat 4`, followed in an unbroken row by **Mark**, **Hannah**, **Daniel**, **Laura**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Elana**, **Stephen**, and **Stella**.
 
-Jordan looked up at the towering limestone stands rising against the golden early-evening sky of Blacksburg. Then he looked down the row at the fifteen people laughing and passing around soft pretzels and lemonade beside him. He tapped his `mPad`:
+Jordan looked up at the towering limestone stands rising against the golden early-evening sky of Blacksburg. Then he looked down the row at the fifteen people laughing and adjusting their concert lanyards beside him. He tapped his `mPad`:
 
-<aac>"In October 2014, I thought I was too broken to ever be inside this stadium. Tonight I am in Row A with everyone I love."</aac>
+<aac>"In September 2014, I had to be carried out of this stadium at halftime because I thought my mother's world was going to crush me. Tonight I am in Row A with everyone I love."</aac>
 
-Daniel leaned across Mark’s shoulder, his eyes glistening behind his glasses as he clapped a warm hand on Jordan’s armrest. "You were never broken, Jordan. You just needed the right crew—and the right soundtrack."
+Daniel leaned across Mark’s shoulder, his eyes glistening behind his glasses as he clapped a warm hand on Jordan’s armrest. "You were never broken, Jordan. You just needed the right crew—and the right night to take this house back."
+
+### Part 2: Act I: The Anvil Strike & The Marching Forgers
+
+**Date:** 2016-05-21 19:55
+
+![From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zoë Wren Brooks, and Mark Cooper cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/act-i-ignition-marching-forgers.jpg)
+
+At `19:55`, as twilight deepened into a clear, indigo Appalachian night over the Blue Ridge Mountains, the giant steel-truss camera jibs along the field perimeter swung into position.
+
+Sweeping smoothly along the fifty-yard line in front of `Section 104, Row A`, a twenty-four-foot counterweighted cinema crane glided three feet above the front railing, its wide-angle 4K lens banking across the accessible terrace.
+
+Two seats down in the neighboring row behind them, a middle-aged man in a pressed golf polo—clearly an out-of-town guest who had been brought along by a relative rather than a CPI alumnus—scowled and waved a hand irritably at the passing boom arm.
+
+"Are they seriously going to swing that camera rig right in front of our faces all night?" the man grumbled loudly. "I paid to watch a concert, not stare at the back of a camera crane!"
+
+Before Mark or Daniel could even turn around, **Madison** spun in `Seat 3`, her maroon `FORGER NATION` earrings catching the stadium lights and her face splitting into a radiant, unapologetic grin.
+
+"Are you kidding?!" Madison beamed at him, throwing one arm around **Aubrie Jean**’s shoulder and the other around **Jordan**’s push-handle as the camera lens swept back across their row. "That's the **Engine Room Films** crew shooting [***Live at the Crucible***](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible)! Every time that crane passes `Section 104`, we're getting immortalized on the concert Blu-ray forever! We're Forger Nation—*smile for the camera!*"
+
+Right on cue, as the red tally light on the matte box blinked directly in front of `Row A`, Madison, Aubrie Jean, Megan, Zoë, Lauren, Sarah, Jessica, Isabel, Mark, and Hannah all threw up their hands in the CPI *Forger Hammer* salute while Jordan grinned from ear to ear and raised his glowing wristband toward the lens. Even the grumbling guy behind them couldn't help cracking a sheepish smile and raising his cup.
 
 ---
 
-As twilight deepened into a clear, indigo Appalachian night at `20:00`, every stadium floodlight inside **The Crucible** suddenly cut to black.
+At `20:00` on the dot, every floodlight inside **The Crucible** cut to pitch black.
 
-Sixty-five thousand voices erupted into a deafening roar—softened by Jordan’s `Vibe-Filter` earpieces into a warm, thrilling ocean wave that vibrated right through the aluminum frame of his `Vanguard Pro` without a trace of pain.
+Sixty-five thousand voices erupted into a deafening roar—softened by Jordan’s linear-response `Vibe-Filter` earpieces into a warm, thrilling ocean wave that vibrated right through the titanium frame of his `Vanguard Pro` without a trace of pain.
 
-Across the pitch-black stadium bowl, all sixty-five thousand wrist-worn LED bands began to pulse in a slow, synchronous heartbeat of deep cosmic violet. On the 120-foot curved screen behind the stage, telemetry coordinates ticked upward like an Apollo launch console—counting up from `1986` to `2016` while the unmistakable, low-frequency analog synthesizer drone of [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine) rolled across the valley.
+For thirty years—ever since five CPI freshmen in a Progress Street garage won a 1986 student contest with a raw four-track cassette tape that sixteen-year-old **Holly O'Connell** protected with her famous `$1.00` Perpetual Mutual Cross-License—there had been only one way on Earth to hear [**"Ignition: The Forger's Call"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-01-ignition-the-forgers-call): you had to stand inside **The Crucible** on a CPI football Saturday. The band had never once played it on a concert stage, and they had never released a live concert recording of it.
 
-Then **Tyler Wright**’s drums detonated like a Saturn V booster ignition. **Evan Wright**’s bass locked into the driving pulse, **Holly O'Connell**’s towering `Roland Juno-106` and `Prophet-5` synth brass blazed across the night sky, and **Ryan O'Connell**’s shimmering guitar riff tore through the darkness as he and **Cassidy O'Connell** stepped up to the front microphones together.
+Until tonight.
 
-"GOOD EVENING, BLACKSBURG!" Cassidy’s voice soared across The Crucible, clear and electric and full of tears of joy. "IT TOOK US THIRTY YEARS, BUT WE ARE HOME!"
+Through the pitch-black stadium bowl, the massive field-level gates at the North and South tunnels swung wide. Marching down the wide sidelines and up the flanking stage ramps in locked six-to-five military precision came all **three hundred uniformed members of the CPI Marching Forgers**—thirty gleaming brass sousaphones, rows of trumpets, mellophones, and trombones, and **"The Engine Room"** Kevlar snare and bass drum battery—filling the upper tiers of the stadium stage.
 
-Beside Jordan, Daniel and Laura were on their feet cheering like twenty-year-olds; Mark had his arm around Hannah; and all eight women of the Pact were singing every single word of the 1986 anthem at the top of their lungs while Jordan’s hands danced across his `mPad` and his push-rims to the beat, his face glowing under the starlight of sixty-five thousand synchronized lights.
+Then, echoing across the dark valley like the heartbeat of a foundry, came the solitary, earth-shaking strike of a fifteen-ton iron anvil:
 
-### Part 2: Electric Color in the Dark & The Departure Loop
+***CLANG!***
 
-**Date:** 2016-05-21 20:30
+Across all sixty-five thousand seats, every LED wristband flashed molten orange on the strike.
 
-For two and a half hours, **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** turned **The Crucible** into the center of the universe.
+***CLANG!***
 
-After opening the night with a four-song spectacle where all three hundred members of the **CPI Marching Forgers** joined the band on the massive multi-tiered stadium stage—[**"Ignition: The Forger's Call"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible), the CPI fight song **"CPI Tech Triumph"**, the live concert debut of [**"Saturday Night Lights: The Crucible"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-06-saturday-night-lights-the-crucible), and [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine)—the band tore through thirty years of studio history, from [**"Dancing in the Neon"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-04-dancing-in-the-neon), [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds), and [**"Neon Hearts"**](https://music.raggiesoft.com/artists/the-stardust-engine/1989-neon-hearts?track=1-01-neon-hearts) to the defiant roar of [**"Hard Reset"**](https://music.raggiesoft.com/artists/the-stardust-engine/1997-hard-reset?track=1-02-hard-reset), [**"Escape Velocity (Ad Astra)"**](https://music.raggiesoft.com/artists/the-stardust-engine/1996-ad-astra-single?track=1-01-escape-velocity-ad-astra), [**"Midnight Drivers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2001-midnight-drivers?track=1-06-midnight-drivers), and the triumphant comeback anthems of 2015's ***Reignition***. During [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds), **Aubrie Jean** stood directly behind Jordan’s wheelchair with her arms wrapped around his chest and her chin resting on his shoulder, swaying with **Madison**, **Megan**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** while **Daniel** and **Laura** danced slow and close in the aisle beside **Mark** and **Hannah**, and little **Stella** slept peacefully in **Stephen** and **Elana**’s arms under her pink ear defenders.
+Sixty-five thousand pairs of boots began to stomp the concrete-and-steel bleachers in unison—*BOOM-BOOM-CLAP! BOOM-BOOM-CLAP!*—until the entire limestone bowl of **The Crucible** registered on the campus seismograph in `Derring Hall`.
 
-At `22:35`, the band launched into what the entire sixty-five-thousand-person stadium assumed was the final song of the night: [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-11-last-bus-home-lights-out-on-progress-street), the nostalgic 2004 sign-off where **Ryan**, **Cassidy**, **Evan**, and **Tyler** traditionally powered down their studio switches one by one and said goodnight to Blacksburg.
+In `Seat 1`, Jordan felt the rhythmic 120-BPM vibration travel straight up from the concrete terrace through his caster forks and into his chest. Twenty months ago, the roar of this stadium had terrified him into silence. Now, with **Aubrie Jean**’s left hand laced through his fingers and **Mark** and **Daniel** stomping the concrete beside his right wheel, the thunder of the stadium felt like sixty-five thousand friends standing guard around his chair.
 
-As the final warm chord of *"Last Bus Home: Lights Out on Progress Street"* faded out and the stage lights clicked off to pitch black—just like the literal *"Lights Out"* of the song's title—thousands of fans in the upper decks cheered, hugged, and began reaching for their jackets, convinced the concert was officially over.
+Stage pyrotechnics detonated in twin columns of Foundry Maroon and Molten Orange as **Tyler Wright**’s double-kick drums and **The Engine Room**’s thirty Kevlar marching snares slammed in together, **Evan Wright**’s bass locked into the heavy industrial groove, **Cassidy O'Connell**’s `Prophet-5` synthesizer brass blazed across the night sky, and **Ryan O'Connell** rolled forward to the center microphone in his manual wheelchair, his custom electric guitar screaming out the iconic 1986 riff of [**"Ignition: The Forger's Call"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-01-ignition-the-forgers-call).
+
+"STRIKE THE IRON! LIGHT THE FLAME!" Cassidy roared into the microphone as all three hundred Marching Forgers raised their horns to the stars and blew the roof off the valley. "THIS IS THE CRUCIBLE! CALL OUR NAME!"
+
+Without pausing for a single breath as the final pyrotechnic burst of *"Ignition"* echoed off the upper deck, Tyler counted off four crisp snare rimshots—and the four members of **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** fused with all three hundred **CPI Marching Forgers** to tear straight into Track 2: the official university fight song, [**"CPI Tech Triumph: The Marching Forgers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-02-cpi-tech-triumph-the-marching-forgers).
+
+Every student, professor, and alumnus in the stadium knew every syllable by heart. Down the entire sixteen-seat length of `Section 104, Row A`, Aubrie Jean, Madison, Megan (Class of `'10`), Isabel (freshly minted Class of `'16`), Zoë, Lauren, Sarah, Jessica, Mark, and Hannah linked shoulders, spelling out **`C-P-I! FORGERS!`** at the top of their lungs while Jordan’s left hand pumped in the air and his right hand tapped the preset cheer button Mark had programmed onto his `mPad`:
+
+<aac>"GO FORGERS!"</aac>
+
+As the fight song crashed to a triumphant brass finish, the stadium lights shifted from Foundry Maroon to deep cosmic violet. On the 120-foot curved LED screen behind the Marching Forgers, orbital telemetry coordinates ticked upward from `1986` to `2016` while the unmistakable low-frequency analog synthesizer drone of Track 3—[**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-03-the-stardust-engine), the very first song Ryan, Cassidy, Evan, and Tyler had ever written together at CPI in 1986 celebrating their love of the cosmos and the rockets that take you there—rolled across the stadium.
+
+When all three hundred brass horns of the **CPI Marching Forgers** joined Cassidy’s `Roland Juno-106` synthesizer fanfare and Ryan’s soaring guitar lead on the chorus, Jordan’s eyes shone behind his glasses.
+
+At halftime of the September 2014 Homecoming game, the **CPI Marching Forgers** had played *"The Stardust Engine"* on this exact turf while Jordan sat frozen in terror staring at a `24–0` scoreboard. Tonight, hearing the Marching Forgers play *"The Stardust Engine"* alongside Ryan, Cassidy, Evan, and Tyler while he sang along with his family in `Row A`, the first piece of that September 2014 ghost dissolved into the warm night air.
+
+As the final brass chord of *"The Stardust Engine"* rang out across the valley, Ryan and Cassidy saluted the three hundred student musicians:
+
+"Give it up for our alma mater's pride and joy—the three-hundred-strong **CPI Marching Forgers**!" Cassidy cheered as the stadium roared and the marching band filed proudly down the flanking ramps and exited through the North Field Tunnel—seemingly done for the night.
+
+### Part 3: Acts II & III: Fifty-Two to Nothing & The Vault
+
+**Date:** 2016-05-21 20:25
+
+![Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 — VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Cooper claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zoë Wren Brooks cheer wildly around him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/fifty-two-to-nothing-scoreboard.jpg)
+
+With the **CPI Marching Forgers** off the stage, the core four-piece band—**Ryan O'Connell**, **Cassidy O'Connell**, **Evan Wright**, and **Tyler Wright**—shifted into high gear for **Act II: The Reignition & Freedom Era Rock Block**.
+
+There was no opening act tonight, no filler, and no pacing back. From the opening countdown of [**"Main Engine Start"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-04-main-engine-start) (from 2015's [***Reignition***](https://music.raggiesoft.com/artists/the-stardust-engine/2015-reignition)) straight into the industrial-rock roar of 1997's [**"Hard Reset"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-05-hard-reset), the band played with the ferocity of four people who knew this was their final night as a touring band and refused to leave a single ounce of energy in the tank.
+
+When Cassidy stepped out from behind her synthesizer stack with a wireless mic for Track 6—[**"Not Your Doll"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-06-not-your-doll), the defiant 1989 anthem tearing apart Apex Records' attempt to package her as a corporate pop mascot—and followed it immediately with the raw, unvarnished grit of 1995's [**"Static"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-07-static) (from [***The Warehouse Tapes***](https://music.raggiesoft.com/artists/the-stardust-engine/1995-the-warehouse-tapes)) and the highway pulse of 2001's [**"Midnight Drivers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-08-midnight-drivers), Jordan watched Ryan O'Connell on the giant side IMAG screens in complete awe.
+
+Seated in a custom-cambered black manual wheelchair built for the stage, Ryan didn't just play lead guitar—he commanded the entire sixty-five-thousand-seat stadium from his chair, spinning effortlessly on his rear wheels during his guitar solos and locking eyes with Evan and Tyler on the drum riser. For Jordan, watching a man in a manual wheelchair headline a sold-out football stadium while sixty-five thousand people screamed his name was a revelation he could feel in his bones.
+
+Then came Track 9.
+
+As the final chord of *"Midnight Drivers"* faded out, Ryan wheeled to the front edge of the stage and pointed the neck of his guitar straight across the stadium bowl toward the towering **North End Zone LED Scoreboard**—the exact scoreboard that had displayed **`HOME: 0 — VISITOR: 24`** (and finally **`38–0`**) when **Virginia Dominion University (`VDU`)** from Norfolk had routed CPI on Homecoming Saturday in September 2014 and triggered Jordan’s catastrophic stadium collapse.
+
+"Hey, Forger Nation," Ryan said into his microphone, a wicked, knowing grin spreading across his face as the crowd began to buzz. "Two autumns ago, in September 2014, a certain football team from down in Norfolk walked into this house on Homecoming and put an ugly number up on that North End Zone board. And then last October, when our guys traveled down Interstate 64 to Norfolk for *their* Homecoming... their student section had the nerve to print up ten thousand T-shirts with that old score on their chests."
+
+Sixty-five thousand CPI fans booed in gleeful, unified indignation.
+
+In `Section 104, Row A, Seat 1`, **Mark** grabbed **Jordan**’s right shoulder, his eyes wide with excitement. "J—look up at the North End Zone board!"
+
+High above the Gothic limestone arches of the North End Zone, the giant stadium scoreboard suddenly flickered to life. For two seconds, it displayed the ghostly, hated numerals from September 2014:
+
+```
+HOME: 0 — VISITOR: 38
+```
+
+And then, on a thunderous marching snare roll from **Tyler Wright**, digital flames of Foundry Maroon and Molten Orange shattered the old numbers off the screen, replacing them in thirty-foot-tall blazing gold digits with the final score from October 2015 in Norfolk:
+
+```
+CPI FORGERS: 52 — VDU ADMIRALS: 0
+```
+
+"How'd those T-shirts look by the fourth quarter, Forger Nation?!" **Cassidy** roared into her mic as the stadium erupted into one of the loudest ovations of the entire two-hour show. "This is [**'Fifty-Two to Nothing: The Norfolk Reckoning'**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-09-fifty-two-to-nothing-the-norfolk-reckoning)!"
+
+```
+ZOË.Systems.Logs.KernelLog:
+Date: 05-21-2016
+Time: 20:48:14
+Thread 3 (Jordan.OS) & Thread 4 (Mark)
+Event: Live Performance of "Fifty-Two to Nothing: The Norfolk Reckoning" & North End Zone Scoreboard Overwrite.
+Analysis:
+- Legacy Trauma Address 0x02 (September 27, 2014: VDU 38, CPI 0 on the North End Zone Scoreboard) has been visually and acoustically targeted by The Stardust Engine.
+- North End Zone LED Matrix now displays: "CPI FORGERS: 52 — VDU ADMIRALS: 0".
+- Acoustic SPL at Section 104, Row A: 106 dB (attenuated to a comfortable 88 dB via Jordan's Vibe-Filter earpieces).
+- Jordan.OS Response: Zero flinch. Zero rocking stim. Right fist raised toward the North End Zone scoreboard alongside Mark Cooper.
+Conclusion: Legacy Trauma Address 0x02 permanently purged and overwritten. 05-21-2016 20:48:14
+```
+
+As Tyler’s thunderous marching snare cadence and Ryan’s stomping arena riff shook the stadium floor, Jordan looked straight up at the glowing **`52 — 0`** numerals on the North End Zone scoreboard that had haunted his nightmares Freshman Fall.
+
+With **Aubrie Jean**, **Madison**, **Megan**, **Zoë**, and **Mark** cheering wildly around his wheelchair, Jordan raised his right fist high into the warm May night as sixty-five thousand Forgers roared the chorus in unison:
+
+> *"You wore the old numbers on your Homecoming chest*<br>
+> *Thought you broke the anvil and put the forge to rest*<br>
+> *Now look up at the board where the coastal winds blow—*<br>
+> ***FIFTY-TWO TO NOTHING! PUT IT ON THE BOARD!***"*
+
+---
+
+Without letting the momentum drop, the stage lights shifted into deep metallic silver and orbital blue for **Act III: The Vault (*Lost Sounds*) & Twin Moons Cosmic Block**.
+
+For the die-hard fans like **Daniel Brooks** and **Mark** who knew every B-side and liner note in the catalog, Act III was pure gold:
+* First, the band tore into two buried Apex-era gems rescued on 2007's archival compilation [***Lost Sounds***](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds)—the razor-sharp legal-and-artistic rebellion of [**"The Contract"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-10-the-contract) (celebrating Holly O'Connell's voiding of the predatory 1986–1991 Apex Records contract) and [**"Steel and Synthetics"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-11-steel-and-synthetics).
+* Then, as the 120-foot curved LED screen transformed the entire stadium into a weightless orbital starfield, they bridged both halves of their 2003 *Twin Moons* concept project—floating through the atmospheric, cosmic beauty of [**"Moon 1: Tidal Lock"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-12-moon-1-tidal-lock) (from [***Sanctuary [Zero-G]***](https://music.raggiesoft.com/artists/the-stardust-engine/2003-sanctuary-zero-g)) before slamming seamlessly into the high-friction highway rescue anthem of [**"Mayday: The Intercept"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-13-mayday-the-intercept) (from [***Mile Marker 98***](https://music.raggiesoft.com/artists/the-stardust-engine/2003-mile-marker-98)), telling the story of how their family intercepted the darkness after Ryan’s 1990 Des Moines bus crash and brought everyone home alive.
+
+As the final guitar harmonic of *"Mayday: The Intercept"* echoed into the night at `21:15`, the towering stadium light rigs slowly dimmed to black.
+
+### Part 4: Acts IV & V: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights
+
+**Date:** 2016-05-21 21:15
+
+![Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL • AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/brothers-keeper-acoustic-spotlight.jpg)
+
+At the midpoint of the concert, **Evan Wright** unstrapped his bass, **Tyler Wright** stepped down from the drum riser, and the twin cousins gave **Ryan** and **Cassidy** a warm hug before walking off into the wings.
+
+Across the massive stadium stage, every towering amplifier stack and orbital truss light went dark—leaving only two solitary, warm golden spotlights shining down at the front lip of center stage: **Ryan O'Connell** in his manual wheelchair holding an acoustic guitar, **Cassidy O'Connell** seated beside him at a gleaming black grand piano, and two microphones.
+
+In `Section 104, Row A`, **Daniel Brooks**’s breath caught. "No way... they're playing [***Our Own Frequency***](https://music.raggiesoft.com/artists/the-stardust-engine/2008-our-own-frequency) live."
+
+Recorded in complete secrecy in the living room of their Blacksburg house during the middle of the band's decade-long Burnout Hiatus in 2008, *Our Own Frequency* had never been toured, promoted, or played in front of a live audience—Ryan and Cassidy had simply uploaded it to the Engine Room Records website on a Tuesday morning with a one-sentence note: *"We're still here, and we're okay."*
+
+In the hushed stillness of the sixty-five-thousand-seat stadium, brother and sister opened **Act IV** with the gentle acoustic guitar and piano harmonies of Track 14, [**"Our Own Frequency"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-14-our-own-frequency), turning the loudest football stadium in America into an intimate Blacksburg living room.
+
+When the final chord of *"Our Own Frequency"* faded into pin-drop silence, Ryan rested his hands on the mahogany body of his acoustic guitar and leaned closer to his microphone.
+
+"This next song is the centerpiece of *Our Own Frequency*," Ryan said softly, his voice echoing clearly off the quiet limestone stands, "and it's the most private song Cassidy and I have ever written. People look up at a stage and see two hours of lights and guitars. They don't see what T-ten paralysis actually takes behind closed doors. They don't see Cassidy and Evan and Tyler helping me through my daily care and toileting routines, or stretching my legs every morning so they don't atrophy. They don't see how we push the bed against the wall at night so I can sleep on the inside, and my sister sleeps on the outside edge as a human bed rail so I don't roll off in the dark."
+
+Beside him at the grand piano, Cassidy smiled tenderly through her glasses and spoke into her mic:
+
+"And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does."
+
+Down in `Section 104, Row A`, nobody moved a muscle.
+
+**Jordan** felt a lump rise in his throat so thick he could barely swallow. On his left, **Aubrie Jean**’s fingers tightened warmly around his hand; on his right, **Madison** and **Megan** leaned against his shoulder and armrest; and down the row, **Mark**, **Hannah**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** were all looking at Jordan with shining, misty eyes. Every single thing Ryan and Cassidy were describing on that stage—stretching legs in the morning, helping with daily care without a shred of shame, building a human bed-rail in the dark so someone you love never falls, and anchoring each other when sensory overload hits `100`—was the exact life they had built together in `Suite 214/216` and on `Geneva Street`.
+
+Up on stage, Ryan took a slow breath.
+
+"Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when I was twenty-two in nineteen-ninety," Ryan continued, his voice honest and steady. "Twenty-six years later... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. Tonight is the final stop of the *Reignition* tour... and tonight is the last concert a touring Stardust Engine will ever play."
+
+An audible gasp rippled across sixty-five thousand people inside **The Crucible**. Around the stadium, thousands of fans put their hands over their mouths in heartbreak, thinking they were witnessing the band's farewell show—before a warm, deeply respectful wave of supportive applause rose from the field to thank Ryan for everything he had given them.
+
+And then Cassidy leaned forward into her piano microphone, her eyes sparkling behind her glasses:
+
+"Wait—don't be sad! We aren't retiring!" Cassidy called out over the murmur. "If touring the world is too hard on Ryan, then the world can come to Blacksburg! To give the **Town of Blacksburg** and **CPI** time to build this right, starting in **August 2017**, we're launching the annual **Forger Nation Summer Festival**! A massive CPI Open House for incoming and prospective freshmen, the biggest downtown Blacksburg block party of the summer with stages for signed and unsigned bands, and every single year we'll close the festival right here inside **The Crucible** with fireworks—and sleep in our own beds on Progress Street every night!"
+
+For ten full seconds, the roar that erupted inside **The Crucible** was deafening—sorrow turning instantaneously into pure, roof-shaking euphoria as the 120-foot curved LED screen behind the piano lit up in warm gold lettering:
+
+```
+THE FORGER NATION SUMMER FESTIVAL
+CPI OPEN HOUSE • DOWNTOWN BLACKSBURG BLOCK PARTY • THE CRUCIBLE RESIDENCY
+INAUGURAL WEEKEND: AUGUST 2017
+```
+
+"They're staying home in Blacksburg forever!" **Mark** cheered, wiping his eyes and grinning at Jordan. "Every August, right here in our backyard!"
+
+As the cheers gently hushed back to pin-drop silence, Ryan whispered, *"This is 'Brother's Keeper,'" *and Cassidy’s fingers began the delicate, melancholy grand-piano intro of Track 15, [**"Brother's Keeper"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-15-brothers-keeper), joined seconds later by Ryan’s steady, comforting fingerpicked acoustic guitar:
+
+> *"They look at the chair and they think it's weak*<br>
+> *They whisper their pity whenever we speak*<br>
+> *But they don't see the mornings, the stretches and pain*<br>
+> *The quiet routines keeping us sane*<br>
+> *Sleeping on the edge, a human bed rail*<br>
+> *Catching the other whenever we fail..."*
+
+When Ryan and Cassidy harmonized on the chorus—*"We trade all the armor, we trade all the scars / We built our own world underneath all the stars / When the body won't work, we become our own feet / When the pressure is heavy, we make it retreat"*—Jordan tapped his `mPad` softly so only Aubrie Jean, Madison, and Megan beside him could hear:
+
+<aac>"That song is us."</aac>
+
+"Every single word of it, J," Aubrie Jean whispered, kissing his temple as sixty-five thousand fans held up quiet white phone lights across the dark stadium bowl for Track 16, [**"Safe Person"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-16-safe-person), completing the three-song *Our Own Frequency* acoustic trilogy to a deeply moved standing ovation.
+
+---
+
+As the ovation for *"Safe Person"* swelled across the valley, **Evan** and **Tyler** walked back out onto the stage and strapped on their electric bass and drum kit to launch **Act V: Full-Band Electric Return, Saturday Night Lights & The Homecoming Sprint**.
+
+Because 1989's *"If You Walked Away"* had been permanently retired from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, Track 17—[**"Echoes in the Wire"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-17-echoes-in-the-wire) (from 1997's [***Hard Reset***](https://music.raggiesoft.com/artists/the-stardust-engine/1997-hard-reset))—held the emotional power-ballad spotlight, starting at Cassidy’s grand piano before Evan, Tyler, and Ryan’s full electric stadium rig roared back to life.
+
+And then, at Track 18, history was made inside **The Crucible**.
+
+Although the studio recording of [**"Saturday Night Lights: The Crucible"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-18-saturday-night-lights-the-crucible) (from 2004's [***Progress Street***](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street)) had been played over the stadium PA between the third and fourth quarters of every CPI home football game since October 8, 2004, **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** had made a sacred vow never to perform the song on a concert stage anywhere outside Blacksburg.
+
+Tonight, standing inside the stadium the song was named for, they played **"Saturday Night Lights: The Crucible"** live for the very first time in history.
+
+From the first ringing guitar chords, all sixty-five thousand people in the lower bowl and upper decks jumped in unison, turning the entire stadium into a sea of flashing maroon and orange wristbands as the band sprinted headlong through the final stretch of Act V:
+* Track 19: [**"Progress Street: Where the Fire Began"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-19-progress-street-where-the-fire-began)—the exact middle song the **CPI Marching Forgers** had played during the 2014 Homecoming halftime show, now belted out by the entire stadium in full celebration.
+* Track 20: The shimmering 1989 synth-rock title track [**"Neon Hearts"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-20-neon-hearts).
+* Track 21: [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-21-my-anchor-holds)—the sweeping 1987 ballad that Jordan and Aubrie Jean had already chosen for their wedding processional two months from now. During the entire song, Aubrie Jean stood directly behind Jordan’s wheelchair with her arms wrapped around his chest and her chin resting on his shoulder, swaying with **Madison**, **Megan**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**, while **Daniel** and **Laura** danced slow and close in the aisle beside **Mark** and **Hannah**, and little **Stella** slept peacefully in **Stephen** and **Elana**’s arms under her pink ear defenders.
+* Track 22: The triumphant 2015 comeback opener [**"Reignition: Lights Up on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-22-reignition-lights-up-on-progress-street).
+
+Finally, at `22:35`, the band launched into Track 23—what the entire sixty-five-thousand-person stadium assumed was the closing song of the night: [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-23-last-bus-home-lights-out-on-progress-street), the nostalgic 2004 sign-off where Ryan, Cassidy, Evan, and Tyler traditionally powered down their studio switches one by one and said goodnight to Forger Nation.
+
+As Cassidy sang softly, *"Lights out on Progress Street... goodnight, Forger Nation,"* Ryan reached over and flipped the main toggle switch on his amplifier rack.
+
+Every light on the stage clicked off to pitch black.
+
+### Part 5: Act VI: Electric Color (Live at the Crucible) & The Departure Loop
+
+**Date:** 2016-05-21 22:40
+
+![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Cooper.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/electric-color-rainbow-reclamation.jpg)
+
+As the final warm chord of [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-23-last-bus-home-lights-out-on-progress-street) faded out and the stage lights clicked off to pitch black—just like the literal *"Lights Out"* of the song's title—thousands of fans in the upper decks cheered, hugged, and began reaching for their jackets, convinced the two-hour concert was officially over.
 
 Except the house floodlights inside **The Crucible** didn't come back on.
 
-Instead, through the darkness of the wide stage wings, Jordan and Mark spotted movement.
+Instead, through the darkness of the wide stage wings, **Jordan** and **Mark** spotted movement.
 
-Filing up the massive flanking ramps in silent, six-to-five military precision, all three hundred members of the **CPI Marching Forgers**—complete with **"The Engine Room"** Kevlar snare battery and thirty gleaming sousaphones—were marching back onto the tiered stadium stage in the dark to join the band, taking the exact positions they had held during the four-song opening act of the show!
+Filing up the massive flanking ramps in silent, six-to-five military precision, all three hundred members of the **CPI Marching Forgers**—complete with **"The Engine Room"** Kevlar snare battery and thirty gleaming sousaphones—were marching back onto the tiered stadium stage in the dark to join the band, taking the exact positions they had held during Act I!
 
-"Wait a second—it was a false ending!" Daniel gasped, grabbing Mark's shoulder in `Seat 7` and adjusting his glasses in disbelief. "*Last Bus Home* wasn't the closer! The Marching Forgers are coming back up on stage with the band!"
+"Wait a second—it was a false ending!" **Daniel** gasped, grabbing Mark's shoulder in `Seat 7` and adjusting his glasses in disbelief. "*Last Bus Home* wasn't the closer! The Marching Forgers are coming back up on stage with the band!"
 
-Nobody in the stadium knew—because **Holly O'Connell** had backed the Marching Forgers with a `$300,000` collective student escrow (*"The Forger Pot"*) conditioned on zero leaks before `11:00 PM`, and **Cassidy O'Connell** had stripped the vocal melody out of the rehearsal scores under the decoy title *"Exercise 87-B: The Anvil Finale"*.
+Nobody in the stadium knew what was coming—because **Holly O'Connell** had backed all three hundred student musicians of the Marching Forgers with a `$300,000` collective student escrow (*"The Forger Pot"*) conditioned on zero leaks before `11:00 PM`, and **Cassidy O'Connell** had stripped the vocal melody out of the rehearsal scores all semester under the decoy title *"Exercise 87-B: The Anvil Finale"*.
 
 Out on the darkened stage, a single, echoing piano chord rang out across the roar of the crowd.
 
@@ -19922,7 +20140,7 @@ What erupted from the stage at `0:23` of [**"Electric Color (Live at the Crucibl
 
 For a full minute and seventeen seconds (`0:23–1:40`), **Ryan**, **Cassidy**, **Evan**, and **Tyler** fused with all three hundred members of the **CPI Marching Forgers** in a colossal, earth-shaking **1980s Album-Oriented Rock (Stadium Rock)** overture—towering analog synthesizer swells, a dramatic false start, disjointed tension-building syncopations, blistering twin-lead arena-rock guitars, heavy palm-muted stadium riffs, and a wall of three hundred collegiate brass horns and Kevlar marching snares.
 
-In `Section 104, Row A, Seat 1`, Jordan looked over at Mark and Daniel with wide, thrilled eyes. Not a single person in the lower bowl knew what song this was! For twenty-nine years—ever since Apex Records forced the band into a 1987 Dance Synth-Pop arrangement—they had never once played a stadium-rock overture like this.
+In `Section 104, Row A, Seat 1`, Jordan looked over at Mark and Daniel with wide, thrilled eyes. Not a single person in the lower bowl knew what song this was! For twenty-nine years—ever since Apex Records had forced the band into a 1987 Dance Synth-Pop arrangement—they had never once played a stadium-rock overture like this.
 
 Then, at `1:36`, the entire wall of distorted guitars, analog synths, and three hundred brass horns **cut out completely**.
 
@@ -19946,7 +20164,7 @@ At `1:56`, even Tyler’s kick drum dropped out completely, leaving Cassidy’s 
 > *But now the noise is turning into a song*<br>
 > *And I finally feel like I belong"*
 
-And at `2:12`, when the full 1980s Arena Rock band slammed in at maximum power, all sixty-five thousand LED wristbands across **The Crucible** exploded into a breathtaking, sweeping rainbow wave—electric cyan, magenta, solar gold, emerald, and ultraviolet rippling from the field floor all the way up to the top rim of the stadium under the stars:
+And at `2:12`, when the full 1980s Arena Rock band and all three hundred **CPI Marching Forgers** slammed in at maximum power, all sixty-five thousand LED wristbands across **The Crucible** exploded into a breathtaking, sweeping rainbow wave—electric cyan, magenta, solar gold, emerald, and ultraviolet rippling from the field floor all the way up to the top rim of the stadium under the stars:
 
 > *"Oh, I'm seeing in electric color*<br>
 > *Finding a rhythm I never knew*<br>
@@ -19957,7 +20175,10 @@ And at `2:12`, when the full 1980s Arena Rock band slammed in at maximum power, 
 
 In `Section 104, Row A, Seat 1`, tears spilled freely down **Jordan**’s cheeks—not the terrified, suffocating tears of a system crash, and not the agonizing tears of a hospital bed, but the bright, overflowing tears of a twenty-year-old young man whose healed heart was beating strong and free inside his chest.
 
-He remembered sitting in the Brooks family basement on Geneva Street in January 2015, watching Daniel lower the diamond stylus onto the 1987 vinyl LP of [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) for the very first time—hearing the words *"The city sounds were just a buzz in my ear / A static station I could never quite hear / But now the noise is turning into a song / And I finally feel like I belong"*. He remembered how sharply it had stung later that same night when Mark accidentally played the 2005 [***Live in Norfolk***](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk?track=1-14-electric-color) version and Cassidy’s shout of *"Norfolk!"* had triggered every raw memory of Hampton Roads and the `38–0` Homecoming rout—and how Mark had knelt beside his wheelchair and promised him that one day, they would sit together in the front row at **The Crucible** while Cassidy shouted **"Blacksburg!"** and **"CPI!"** to overwrite that Norfolk recording forever. He remembered lying in the CVICU at Carilion Roanoke Memorial Hospital seven months ago, listening to Aubrie Jean and his family promise him that he was going to make it back to Blacksburg.
+Every piece of the circle had finally closed:
+* He remembered September 27, 2014—when the three-hundred-piece **CPI Marching Forgers** had played *"Electric Color"* at halftime on this exact field while he was trapped in a `24–0` Homecoming meltdown and had to be evacuated from the stadium before the song even finished.
+* He remembered January 18, 2015 in the Brooks family basement on Geneva Street—watching Daniel lower the diamond stylus onto the 1987 vinyl LP of [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) for the very first time, and how sharply it had stung later that night when Mark accidentally played the 2005 [***Live in Norfolk***](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk?track=1-14-electric-color) version and Cassidy’s shout of *"Norfolk!"* had triggered every raw memory of Hampton Roads—and how Mark had knelt beside his wheelchair and promised him that one day, they would sit together in the front row at **The Crucible** while Cassidy shouted **"Blacksburg!"** and **"CPI!"** to overwrite that Norfolk recording forever.
+* And he remembered lying in the CVICU at Carilion Roanoke Memorial Hospital seven months ago, listening to **Aubrie Jean** and his family promise him that he was going to make it back to Blacksburg.
 
 Now, after Evan’s heavy bass groove drove through the Bridge (`2:36–2:52`), the music cut out completely at `2:53` to a deafening stadium roar. Cassidy looked out across her alma mater, her voice ringing off the limestone walls:
 
@@ -19998,15 +20219,17 @@ When the final brass chord and gong strike of [**"Electric Color (Live at the Cr
 
 Rolling smoothly out through the level Gate 1 accessible tunnel onto the dedicated **Crucible Bus Loop**, Jordan and Mark stopped in their tracks with matching transit-geek grins.
 
-Lined up stem-to-stern along the illuminated concrete boarding island was a joint-agency fleet staged by **Blue Ridge Transit** and **Bluewater Transit**:
+Down at the far south end of the loop (Sector 8), a long, frustrated queue of out-of-town fans was waiting in line for a single regional **Roanoke Transit Authority (`RTA`) *Roanoke Express*** bus that only ran once an hour up Interstate 81.
 
-Up at Sector 1, a **Bluewater Transit** commuter coach sat idling with its destination sign reading:
+In sharp contrast, right in the prime center of the boarding island stood a joint-agency high-capacity fleet staged side-by-side by **Blue Ridge Transit** and **Bluewater Transit**:
+
+Up at Sector 1, a gleaming **Bluewater Transit** regional coach sat idling with its destination sign reading:
 
 ```
 MAROON EXPRESS ... BLUEWATER via CBURG TRANS CTR
 ```
 
-And directly in front of them at Sector 4, a pair of articulated **Blue Ridge Transit** shuttles waited with their doors open and kneeling ramps deployed, their destination signs cycling between:
+And directly in front of them at Sector 4, a continuous bank of articulated **Blue Ridge Transit** shuttles waited with their doors open and kneeling ramps deployed, their destination signs cycling between:
 
 ```
 CBURG TRANS CTR
@@ -20022,9 +20245,9 @@ FORGERS SHUTTLE
 
 <aac>"Best transit system in the Commonwealth,"</aac> Jordan tapped happily on his `mPad` as he rolled up the ramp and locked his `Vanguard Pro` into the forward bay. <aac>"And the best night of Sophomore Year."</aac>
 
-As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the **Christiansburg Transit Center**—one short block from `414 Geneva Street`—Aubrie Jean sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while Mark leaned across the aisle toward Hannah and Jordan with a quiet, meaningful smile.
+As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the **Christiansburg Transit Center**—one short block from `414 Geneva Street`—**Aubrie Jean** sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while **Mark** leaned across the aisle toward **Hannah** and Jordan with a quiet, meaningful smile.
 
-"Next stop," Mark said softly over the gentle hum of the hybrid-electric drivetrain, "July first move-in at the U.S. 11 compound. And then July sixteenth... the Double Wedding, and a quick trip across the street to the Montgomery County Courthouse."
+"Next stop," Mark said softly over the gentle hum of the bus, "July first move-in at the U.S. 11 compound. And then July sixteenth... the Double Wedding, and a quick trip across the street to the Montgomery County Courthouse."
 
 Jordan looked down at his `Poly Pass` lanyard resting against his commemorative *Live at the Crucible* ticket stub—one of the last big nights he would ever wear the name `Jordan Fuller`—and squeezed Aubrie Jean’s hand with a full, peaceful smile.
 
