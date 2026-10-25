@@ -34,19 +34,21 @@ Suno's AI is extremely good at detecting and blocking prompts that infringe on c
     *   *GOOD:* "A bright, 80s synth-rock song with a catchy keyboard riff and a clean drum machine beat."
 
 ### Rule 4: Guide the AI's Pronunciation (The Phonetic Trick)
-The AI is a "blank slate" and will often mispronounce local names, acronyms, or ambiguous words. You must "walk" it through the pronunciation by spelling words phonetically.
-*   **CPI:** "See-Pea-Eye"
-*   **Staunton:** "Stan-ten"
-*   **CP87A:** "Cee Pea eighty seven ay"
+The AI is a "blank slate" and will often mispronounce local names, acronyms, or ambiguous words. You must "walk" it through the pronunciation by spelling words phonetically inside the Suno Lyrics box (while keeping the canonical spelling in the official `lyrics/*.md` files).
+*   **CPI:** `"See-Pea-Eye"`
+*   **Norfolk (Virginia):** `"Nor-phuk"` (Prevents Suno from pronouncing the silent `"L"` and `"O"` as `"Nor-folk"`, while bypassing Suno's profanity filter on `"fuk"`).
+*   **Reignition:** `"Ree-ignition"` (Without the phonetic `"Ree-"` prefix and hyphen, Suno's grapheme-to-phoneme tokenizer reads `"Reig-"` like `"reign"` and mispronounces the word as `"reg-nition"`).
+*   **Staunton:** `"Stan-ten"`
+*   **CP87A:** `"Cee Pea eighty seven ay"`
 
 ---
 
 
-### Rule 5: Use a "Clean" Styles Prompt
+### Rule 5: Use a "Clean" Styles Prompt & Always Include "Exclude Styles"
 Suno treats every prompt as new. It has no memory of previous songs.
 *   **BAD:** "Make this one sound like 'Clerical Error' but heavier."
 *   **GOOD:** "Cinematic Piano Ballad, heavy industrial rock, musical battle..."
-*   **Strategy:** Every Styles prompt must be 100% self-contained and include all the necessary instructions.
+*   **Strategy:** Every Styles prompt must be 100% self-contained and include all the necessary instructions, paired with an explicit **Exclude Styles** block (`modern pop, hip hop, rap, lo-fi...` for rock tracks, or `drums, percussion, bass guitar, electric guitar, heavy distortion, brass section...` when generating stripped-back acoustic tracks like Act IV of *Live at the Crucible*).
 
 ### Rule 6: The "Clash" vs. "Harmony" Problem (For Duets)
 By default, Suno will try to make two singers sound "good" together (harmony). If you want a conflict (like our "Meltdown" song), you must be explicit.
