@@ -67,8 +67,6 @@ Mr. Vance didn't intrude on the conversation. He simply maintained the perimeter
 
 For now, the environment was perfectly controlled. The affection was genuine, the connection was real, and the sensory overload of the high school was held safely at bay. Matt relaxed into the embrace, letting himself enjoy the simplicity of the moment, looking forward to the movie tonight.
 
----
-
 ***
 
 #### 12:45 PM — 6th Period Lunch
@@ -114,8 +112,6 @@ Courtney giggled, her attention snapping immediately back to Matt, the tension o
 She reached across the table again, her hand resting warmly over his wrist. Her smile was genuine, untroubled, and entirely focused on the promise of the evening ahead.
 
 For Matt, the 6th period ecosystem was operating flawlessly. The noise, the architectural hazards, the clinical requirements—all of it was being managed, absorbed, and filtered out. In this exact moment, surrounded by the chaos of Northwood High, he was just a guy looking forward to taking a girl to the movies.
-
----
 
 ***
 
@@ -220,8 +216,6 @@ Once they were both clean, the dressing routine began. Sarah carefully maneuvere
 
 With the medical and physical prep work complete, Sarah finally transferred Matt into his manual wheelchair. She grabbed the handles, pushed him out of the sanctuary of their bedroom, and rolled him down the hall into the living room.
 
----
-
 ***
 
 #### 9:15 AM — The Breakfast Spread
@@ -255,8 +249,6 @@ Matt looked at the food, then up at his sister and his cousin. The crushing weig
 
 "Alright then," Linda smiled, gesturing to the massive spread of food. "Eat up, everyone!"
 
----
-
 ***
 
 #### 1:15 PM — The Stadium Seating
@@ -288,8 +280,6 @@ Since Shiloh lived in Charlottesville and only made the drive down to Virginia B
 "You got it, buddy," Shiloh smiled, leaning over the back of his chair to press a kiss to his temple. "You couldn't get rid of me if you tried."
 
 With their concession haul secured and their seating arrangement established, Sarah pushed the heavy auditorium door open, and the three of them rolled into the dim, air-conditioned cavern to watch *The Paradigm*.
-
----
 
 ***
 
@@ -335,8 +325,6 @@ After surviving the final drop, the track took one last hard curve to the right,
 
 The sequence culminated with the massive, neon-glowing Majesty Cinemas logo filling the screen. A sharp, futuristic chime echoed through the subwoofers as the crown on the logo shined brilliantly, right before the screen finally faded to black to start the feature presentation.
 
----
-
 ***
 
 #### 2:15 PM — The Simulation
@@ -360,8 +348,6 @@ Sarah let out a long breath, staring blankly at the scrolling credits before tur
 Shiloh was still chewing on a sour gummy, her eyes wide. "I feel like I need to go home and unplug my computer. Just in case."
 
 Matt couldn't articulate the complex, racing thoughts swirling through his head. He didn't reach for his travel keyboard to type out an intellectual analysis of the film's systemic themes. Instead, he simply looked at his sister and his cousin, his eyes bright with adrenaline, and let out a soft, happy hum. It was, without question, the greatest birthday of his life.
-
----
 
 ***
 
@@ -394,8 +380,6 @@ Sarah laughed, immediately understanding the request. Since she had sat up front
 Sarah looked over at Shiloh, casually tossing her the keys. "You drive us home," she said with a tired, affectionate smile. "I need a break in the back seat anyway."
 
 Shiloh caught the keys smoothly out of the air, shooting Matt a warm grin. "You got it, Boss."
-
----
 
 ### Part 2: The Legal Baseline & The Triad
 
@@ -499,8 +483,6 @@ Matt let out a massive, shuddering breath. The low hum in his chest faded, repla
 
 "Good," Vance smiled, standing back up and grabbing the handles of the wheelchair. "Let's get to third period. I think we've had enough hallway drama for one morning."
 
----
-
 ***
 
 #### 10:20 AM — The Principal's Office
@@ -543,8 +525,6 @@ Bernard picked up the receiver of his desk phone. "Let me page Mr. Harrison. I�
 
 Once the call was made, Matt offered a bright, thankful hum. Vance exchanged a heavy, knowing nod with the principal before unlocking the wheelchair brakes. He pushed Matt back out into the now-empty hallway, heading safely toward third period, leaving Bernard Morgan alone in his office to initiate what would undoubtedly be a catastrophic phone call to Courtney Evans' mother.
 
----
-
 ***
 
 #### The Phone Call — Interlude – The Phone Call
@@ -574,8 +554,6 @@ Bernard hung up the phone and looked across the desk.
 
 ![Courtney sitting alone in the ISS trailer]({{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-evans-iss.jpg#fullwidth)
 <div class="text-muted small mt-2 text-center fst-italic">Courtney is escorted to the suspension trailers, her social standing completely erased.</div>
-
----
 
 ***
 
@@ -608,8 +586,6 @@ The sophomores scattered instantly, terrified of the Culinary Warden's "Shadow L
 Vance chuckled softly, tapping Matt's shoulder. "Eat in peace, buddy. We've got a perimeter."
 
 Matt offered a soft, grateful hum. He slowly began to eat, heavily insulated by the combined protection of his towering paraprofessional and the terrifying cafeteria supervisor. He only had to survive seventh period. Then, at 1:50 PM—ten minutes before the two thousand students rushed the main doors—he would get his early dismissal and board the quiet, air-conditioned safety of the special needs bus. Home, and the grounding safety of Sarah and his mother, was only a few hours away.
-
----
 
 ***
 
@@ -649,8 +625,6 @@ Mrs. Evans put the pen down and turned to Courtney.
 
 Courtney stood up, her legs trembling. She didn't say a word as she walked past her brothers and followed her mother out of the trailer. As the heavy metal door slammed shut behind them, the suffocating silence of the car ride home began. The Illusion was over; the reckoning had begun.
 
----
-
 ***
 
 #### 4:00 PM — The Charlottesville Plan
@@ -684,8 +658,6 @@ He wouldn't just be surviving high school anymore. He wouldn't have to worry abo
 "You hear that, buddy?" Sarah beamed, leaning down and pressing a tight, affectionate kiss to the side of his head. "We're going to build our own kingdom."
 
 Matt closed his eyes, leaning deeply into his sister’s embrace. Graduation couldn't come fast enough.
-
----
 
 ### Part 2: The Final Transfer
 

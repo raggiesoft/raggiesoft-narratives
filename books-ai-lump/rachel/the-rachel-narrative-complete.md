@@ -28906,7 +28906,7 @@ The Base Camp was secure.
 
 ### Part 1: Friday Arrival, The Commonwealth Mall Curb, & The ADA Suite at The Hotel at Poly
 
-**Date:** 2016-02-12 16:00
+**Date:** 2016-02-12 at 16:00 America/New_York
 
 #### 4:00 PM — Arrival at The Hotel at Poly
 
@@ -28928,7 +28928,7 @@ And there was no way I was missing **`SAACURC`**.
 
 "Zero strain, Bug," I promised, slipping on my winter gloves as Rachel rested her left hand lightly on my right push-handle—not because I needed pushing on flat brick, but because having her within arm's reach is how the two of us have anchored our perimeter for our entire lives.
 
----
+***
 
 #### 4:25 PM — The Commonwealth Mall Curb & The Unspoken Nod
 
@@ -28968,7 +28968,7 @@ Rachel and I had no idea who he or his friends were—just a group of local CPI 
 
 When I glanced across the sidewalk, he happened to look over at me in my manual chair at the exact same second—and for half a heartbeat, the young woman with the brown side-braid walking right beside his chair looked vaguely like someone Rachel and I might have passed a dozen times in the corridors of **Emerald Creek Mall** back home in Chesapeake growing up without ever knowing her name. We exchanged a quick, friendly grin and a knowing wave in passing as he guided his power chair smoothly up the front ramp of the **Blue Ridge Transit Route 1** articulated coach with his friends, while Rachel and I crossed the street into **Kincaid Student Center** with our VDU delegation to grab our `SAACURC` registration packets and head back to **The Hotel at Poly**.
 
----
+***
 
 #### 8:30 PM — The Two-Bed Rotation Protocol
 
@@ -28998,7 +28998,7 @@ Rachel laughed softly, switching off the overhead lamp and climbing under the co
 
 ### Part 2: Saturday at SAACURC: The Clothespin Gauntlet & The GIH Pilot Roundtable
 
-**Date:** 2016-02-13 09:00
+**Date:** 2016-02-13 at 09:00 America/New_York
 
 #### 9:00 AM — The Clothespin Gauntlet & The Cloud Drive
 
@@ -29020,7 +29020,7 @@ As VDU RHA's elected **Director of Operations**, I don't believe in letting conf
 
 Throughout the Saturday morning program blocks, as our VDU delegates split up across the second- and third-floor breakout rooms of Kincaid Student Center to attend sessions on hall council budgeting, campus transit advocacy, and resident retention, their notes flowed straight into my cloud drive in real time. From my laptop, I organized and tagged each report so that when we returned to Norfolk on Monday, every dorm president at VDU would receive a clean, actionable briefing packet.
 
----
+***
 
 #### 2:15 PM — CPI's Gender-Inclusive Housing Proposal & VDU's Pilot
 
@@ -29044,7 +29044,7 @@ Beside me, Rachel picked up the thread seamlessly, her voice calm, articulate, a
 
 Across the room, the CPI RHA presenters and half a dozen visiting delegations applauded, jotting down VDU's Fall 2015–Spring 2016 retention numbers to take back to their own campus housing committees.
 
----
+***
 
 #### 9:45 PM — Rotating to the Door Bed
 
@@ -29066,7 +29066,7 @@ One more morning of parliamentary sessions, lunch, and the awards ceremony tomor
 
 ### Part 3: Sunday Wrap-Up: Closing Lunch, Awards Ceremony, & Home to Norfolk
 
-**Date:** 2016-02-14 11:30
+**Date:** 2016-02-14 at 11:30 America/New_York
 
 #### 11:30 AM — The Closing Banquet & Awards Ceremony
 
@@ -29086,7 +29086,7 @@ By longstanding conference ground rules, **the host school (`Commonwealth Polyte
 
 Our entire VDU table—including Kyleen—erupted into cheers and table-drumming. As I wheeled my blue manual chair up the side accessible ramp to accept the engraved wooden plaque alongside Rachel, a dozen delegates from CPI, Radford, Shenandoah Valley University, and across the region clapped and waved their `Chesapeake Teal` VDU clothespins in the air.
 
----
+***
 
 #### 1:45 PM — Loading the Van & Eastbound Down the Mountain
 

@@ -16584,12 +16584,7 @@ Leo’s eyes lit up. He grabbed his wheels.
 
 ***
 
-#### 10:00 AM — Scene
-
-location: "Unknown"
-end_time: ""
----
-
+#### 09:15 AM — The Concourse Tunnel Connection
 
 December 29, 2005
 
@@ -16737,7 +16732,7 @@ They turned back toward the hotel, leaving the depths of the Bull Run behind, kn
 
 ***
 
-#### 10:00 AM — The Quiet Harbor
+#### 10:45 AM — The Quiet Harbor
 
 December 29, 2005 Narraganset Esplanade Station - Concourse Level 10:45 AM
 
@@ -16791,7 +16786,7 @@ They sat there for a long time, sipping chocolate and watching the lonely Red Li
 
 ***
 
-#### 10:00 AM — The Blue Line Run
+#### 11:15 AM — The Blue Line Run
 
 The cabin fever had reached critical mass. The "Orange Army" of snowplows was entertaining, but watching from a window wasn't enough. Leo needed to feel movement.
 
@@ -16884,7 +16879,7 @@ As they boarded the return train to Narraganset Esplanade, Leo looked back at th
 
 ***
 
-#### 10:00 AM — The Restoration
+#### 12:15 PM — The Restoration
 
 The **Blue Line** train hissed to a halt at the end of the line.
 
@@ -22639,7 +22634,7 @@ They walked out of the shop, leaving the cold coffee and the half-eaten donuts b
 
 ***
 
-#### 7:00 AM — The Flight Risk
+#### 9:00 AM — The Flight Risk
 
 The courtroom was tense.
 
@@ -22734,9 +22729,7 @@ The doors swung shut. The State Prosecutor looked at his empty table, then at th
 
 ***
 
-#### 7:00 AM — The Identity Crisis
-
-#### December 18, 2006 Iron County Superior Court - Witness Room 10:30 AM
+#### 10:30 AM — The Identity Crisis (Iron County Superior Court Witness Room)
 
 The hearing was over. Viktor Krov was in federal custody.
 
@@ -22804,7 +22797,7 @@ Then she looked at the Fortress crew. The people who had saved her.
 
 ***
 
-#### 7:00 AM — The Identity Protocol
+#### 11:30 AM — The Identity Protocol
 
 The FBI agents had left with their prisoner. The door was closed.
 

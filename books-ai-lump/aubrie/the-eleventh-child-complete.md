@@ -10445,7 +10445,7 @@ Meeting Daniel's eyes and placing his palm flat on the yellow legal pad, Jordan 
 
 **Date:** 2015-01-17 at 09:00 America/New_York
 
-#### 9:00 AM — Operation 'File First' and the Geneva Street ID
+#### 9:00 AM — Operation 'File First'
 
 Saturday morning in Blacksburg was crisp and bright, the kind of January cold that turned breath into white plumes along the paths bordering **Commonwealth Green**. By nine o'clock, **Jordan**, **Zoë**, **Aubrie Jean**, and **Madison** were already inside the second-floor computer lab of **Keystone Hall**, where the university's accounting department ran its annual Volunteer Income Tax Assistance—VITA—clinic.
 
@@ -10484,7 +10484,9 @@ A laser printer beside the desk whirred to life and spat out the stamped Form 88
 
 "You're locked in," David said with a grin, handing the warm sheet of paper directly to Jordan. "Your refund is set for direct deposit into your standalone credit union account, and as of nine-twenty-four this morning, nobody on earth can claim you as their dependent."
 
----
+***
+
+#### 9:45 AM — The Christiansburg DMV & The Geneva Street ID
 
 Thirty minutes later, on their drive down to Christiansburg, **Daniel** made a scheduled ten-minute stop at the **Commonwealth of Virginia Department of Motor Vehicles (DMV) Customer Service Center**.
 
@@ -10656,6 +10658,8 @@ Yet as the cassette deck clicked silent, **Mark** and **Daniel** exchanged a qui
 ### Part 3: Electric Color
 
 **Date:** 2015-01-18 at 23:15 America/New_York
+
+#### January 18, 2015 • 11:15 PM — *Electric Color* on Vinyl
 
 **Daniel Brooks** reached into the front slot of the walnut vinyl crate and pulled out a pristine original **1987 LP** whose sleeve shimmered with neon teal, magenta, and violet light over a deep-space starfield.
 
@@ -11320,7 +11324,9 @@ Just then, Jordan's laptop chimed with two incoming campus emails—one from **D
 >
 > *Keep your shields locked and stay safe this week. Zoë and Mark will record Tuesday and Thursday's lectures on the Roman Republic for you. See you all after Spring Break.*
 
----
+***
+
+#### March 2, 2015 • 6:30 PM — Checked In at The Hotel at Poly
 
 An hour later, inside the quiet, plushly carpeted ground-floor accessible suite of **The Hotel at Poly**—with the curtains drawn, room-service dinner trays set out on the table by **Owen** and **Caleb**, and **Aubrie Jean** and **Madison** curled warmly on either side of him on the king-sized hotel bed—Jordan looked around their temporary fortress.
 
@@ -11530,7 +11536,9 @@ Looking up at Daniel, Mark, and the women of his Constellation with a fierce gli
 
 <aac>There is only one real test for this chair. Take me up to Bennett Hall. I want to climb the exterior hill from the first-floor inner quad up to Washington Street.</aac>
 
----
+***
+
+#### March 16, 2015 • 2:15 PM — Conquering the Bennett Hall Hillside
 
 Thirty minutes later back on campus in **Blacksburg**, Daniel parked the accessible ramp-equipped transit van—which he had leased for the spring and summer so Jordan could roll straight inside without transferring—along **Washington Street SW** outside the second-floor entrance of **Bennett Hall**.
 
@@ -11587,7 +11595,9 @@ Jordan grinned and tapped his **Pinnacle Vanguard Pro** keyboard:
 
 The entire back row chuckled, and Dr. Gable flashed a rare, proud smile before launching into the morning's lecture on Julius Caesar's bridging of the Rhine.
 
----
+***
+
+#### March 17, 2015 • 2:00 PM — Pluto, Charon, and the Kuiper Belt
 
 That afternoon in **Kepler Hall**, after **Dr. Alistair** had similarly welcomed Jordan and Aubrie Jean back to **PHYS 102** and handed back their latest exam (99/100 for Jordan, 98/100 for Aubrie Jean), the two of them rolled upstairs into the darkened planetarium dome for **ASTR 204: Observational Astrophysics**.
 
@@ -11629,7 +11639,9 @@ Grinning as he unwrapped his sandwich, Jordan tapped a quick key:
 
 "Nothing," **Hannah** said softly, leaning over to kiss his cheek. "Just watching a guy who owns his whole life order lunch."
 
----
+***
+
+#### March 18, 2015 • 9:30 PM — Night of the Constellation Pact
 
 That evening back in **Bennett Hall**, after homework was finished and **Mark** and **Hannah** had retired into **Room 216** for the night, the connecting bathroom door clicked shut and the **six women of the Constellation Pact**—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica**—gathered with **Jordan** inside **Room 214**.
 
@@ -15617,6 +15629,8 @@ Jordan closed his eyes and kissed her back—steady, tender, and completely unhu
 
 **Date:** 2015-08-20 at 09:30 America/New_York
 
+#### 9:30 AM — Angles, Leverage, and the Bed-Frame Fulcrum Lift
+
 At nine-thirty on Thursday morning—the final quiet day before CPI's campus erupted into the controlled chaos of Freshman Move-In Friday—**Isabel Dawson** returned to the walk-out basement at **414 Geneva Street** dressed in flexible athletic leggings, running sneakers, and a soft grey t-shirt with her long dark hair tied back in a practical ponytail.
 
 Last night had been about tears, relief, and a first kiss eleven months in the making.
@@ -15675,7 +15689,9 @@ Breathing slightly hard, Jordan looked down at his neatly dressed legs and then 
 
 Isabel clapped her palm against his, laughing with bright, genuine delight. "Angles and leverage! That was incredible, Jordan!"
 
----
+***
+
+#### 10:15 AM — Welcomed into the No-Jealousy Pact
 
 Ten minutes later, after Jordan had transferred into his matte-black ***S.S. Freedom*** (`Titan-X350`) power chair and **Mark** and **Hannah** had headed upstairs to help **Daniel** check the fluid levels in the family vans, the six women of the **Constellation Pact**—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica**—gathered around the center queen bed and the sectional sofa with Jordan and Isabel.
 
@@ -15721,6 +15737,8 @@ Still glowing bright pink, Isabel looked down at Jordan's hand resting warmly ov
 
 ![Outside the modern Ironstone entrance of New River Hall at Commonwealth Polytechnic Institute on Freshman Move-In Friday, Jordan Fuller in his matte-black S.S. Freedom power wheelchair and Senior RA Isabel Dawson in her maroon-and-white CPI polo welcome incoming freshman Systems Architects Elana Grace Dawson (in her sip-and-puff power chair) and Stephen Dawson alongside Stella, their twenty-eight-inch silver-dapple American Miniature Horse wearing her burgundy service harness and four non-slip neoprene campus boots.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p004/new-river-hall-welcoming.jpg)
 
+#### 10:00 AM — New River Hall Room 323 & Forge Market
+
 On Friday morning, **August 21, 2015**—one calendar year minus a day since **Jordan Fuller** had been abandoned at the curb of **Washington Street SW** with a single suitcase and a broken manual wheelchair—Commonwealth Polytechnic Institute erupted into the brass-band fanfare and orange-vested bustle of **Freshman Move-In Friday**.
 
 Only this year, **Bennett Hall ("The Old Lady on the Hill")** sat behind a perimeter of chain-link construction fencing as university crews prepared the historic building for demolition and replacement. And this year, Jordan and his found family weren't frightened freshmen trying to survive Day One.
@@ -15751,7 +15769,9 @@ Instead of a shared hallway bath, `Room 323` featured a **private, fully ADA-acc
 
 <aac>That's the rule at CPI now,</aac> Jordan typed with a quiet smile. <aac>The building adapts to the students—not the other way around.</aac>
 
----
+***
+
+#### 11:30 AM — Allegheny Commons Apartment 101
 
 Once Elana, Stephen, and Stella were unpacked and settled in **New River Hall**, Isabel invited Jordan, the Constellation Pact, and her family to walk five minutes across the upper quad to see *her* new home for her Junior/Senior RA rotation: **`Allegheny Commons Apartments`**.
 
@@ -19523,7 +19543,7 @@ Later that night, at ten-thirty, when the basement door clicked open and **Aubri
 
 ### The Friday Arrival & The Bus to Christiansburg
 
-**Date:** 2016-02-12 16:15
+**Date:** 2016-02-12 at 16:15 America/New_York
 
 #### 4:15 PM — Two Different Branches on College Avenue
 
@@ -19550,7 +19570,7 @@ Across the street at the entrance to **Kincaid Student Center**, a massive maroo
 
 "And thank goodness for that," **Mark** chuckled, wrapping an arm around **Hannah**’s shoulders. "Hearing about those thirty-five-foot Gamble Aria shuttle buses in Harrisonburg last spring was plenty of conference excitement for me!"
 
----
+***
 
 #### 4:25 PM — Passing Ships at the Commonwealth Mall Curb
 
@@ -19609,7 +19629,9 @@ As the bus pulled away from the **Commonwealth Mall** curb behind the departing 
 
 ### Part 1: The Electric Alert & The 10:00 AM Rush
 
-**Date:** 2016-02-19 10:00
+**Date:** 2016-02-16 at 19:00 America/New_York
+
+#### February 16, 2016 • 7:00 PM — The Electric Alert
 
 On the evening of Tuesday, February 16, 2016—just two days after the `SAACURC` conference wrapped up at `Kincaid Student Center`—the walk-out basement of `414 Geneva Street` was warm and quiet. Outside, a cold February drizzle pattered against the windows, while inside, **Jordan** sat in his `Vanguard Pro` manual wheelchair beside **Aubrie Jean** and **Madison** at the dining table, reviewing his Sophomore Spring astrophysics problem set alongside **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, **Megan**, **Mark**, and **Hannah**.
 
@@ -19679,7 +19701,9 @@ Jordan tapped `Speak` on his `mPad`, beaming up at them:
 * **Cell Gamma (`Zoë Wren Brooks` — CPI `Poly Pass` #3)**: `4 Tickets` in the next four contiguous seats of Section 104, Row A for **Zoë**, **Lauren**, **Sarah**, and **Jessica Gallagher**.
 * **Cell Delta (`Isabel Dawson` — CPI `Poly Pass` #4)**: `4 Tickets` (`2` Power Wheelchair Spaces + `1` Service Animal / Companion Bay + `1` Companion Seat) on the outer aisle of Section 104, Row A for **Isabel**, **Elana**, **Stephen**, and **Stella**.
 
----
+***
+
+#### February 19, 2016 • 9:50 AM — The 10:00 AM Presale Rush
 
 By `09:50 AM` on Friday, February 19, 2016, the four cell leads were positioned at their terminals logged into the **CPI Campus Events Portal**.
 
@@ -19717,7 +19741,9 @@ Aubrie Jean and Megan both leaned down and kissed either side of his cheeks at t
 
 ### Part 2: The Letter From Home & The Box Office Confrontation
 
-**Date:** 2016-02-24 14:30
+**Date:** 2016-02-22 at 10:00 America/New_York
+
+#### February 22, 2016 • 7:00 PM — An Open Letter to Blacksburg & Forger Nation
 
 On Monday, February 22, 2016, at `10:00 AM`, the remaining general-public allocation for **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**'s *Live at the Crucible* went on sale via **TicketSphere** at a flat `$45.00` per ticket and sold out all sixty-five thousand seats in less than four minutes.
 
@@ -19748,7 +19774,9 @@ Jordan stared down at the five signatures at the bottom of the screen. His throa
 
 <aac>"They never forgot what it felt like to be twenty years old in Blacksburg. We HAVE to go to Gate 1 on Wednesday afternoon and get the ceremonial ticket stubs for all sixteen of us—especially for Daniel and Laura!"</aac>
 
----
+***
+
+#### February 24, 2016 • 2:30 PM — The Gate 1 Box Office Confrontation
 
 On Wednesday afternoon, February 24, 2016, at `14:30`, the sun broke through the crisp mountain clouds as **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Isabel**, and **Mark** made the walk down Washington Street toward **Gate 1 of The Crucible** so the four `Poly Pass` cell leads could pick up all sixteen embossed souvenir tickets.
 
@@ -19806,13 +19834,15 @@ Aubrie Jean leaned over his shoulder, resting her cheek against his temple as Ma
 
 ### Part 1: The Crucible Shuttle & The Forger Nation Tailgate
 
-**Date:** 2016-05-21 15:00
+**Date:** 2016-05-21 at 15:00 America/New_York
 
 ![Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a maroon Electric Color concert shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Cooper near an Engine Room Records filming notice sign.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/forger-nation-tailgate-plaza.jpg)
 
+#### 3:00 PM — The Crucible Shuttle
+
 May 2016 arrived in Blacksburg in a burst of warm Appalachian sunshine, blooming dogwoods, and the bittersweet magic of the end of Sophomore Year.
 
-Eight days earlier, on Friday, May 13, 2016, the entire household had cheered until their voices were hoarse as **Isabel Dawson** walked across the CPI Spring Commencement stage in her maroon-and-orange regalia, officially graduating *cum laude* with her Bachelor of Science in Hospitality and Tourism Management. With her residence-hall duties in `Allegheny Commons` formally concluded and her full-time hospitality management position at the **Inn at CPI and Conference Center** beginning in June, the remaining boxes from `Apartment 101` had been moved permanently into `414 Geneva Street`—and would soon move with the whole family into the nearly completed U.S. 11 compound at the start of July.
+Eight days earlier, on Friday, May 13, 2016, the entire household had cheered until their voices were hoarse as **Isabel Dawson** walked across the CPI Spring Commencement stage in her maroon-and-orange regalia, officially graduating *cum laude* with her Bachelor of Science in Human Development on the Pre-Occupational Therapy and Nursing track. With her Senior Resident Advisor duties in `Allegheny Commons` formally concluded and her post-graduation clinical rehabilitation position in the New River Valley beginning in June, the remaining boxes from `Apartment 101` had been moved permanently into `414 Geneva Street`—and would soon move with the whole family into the nearly completed U.S. 11 compound at the start of July.
 
 Now, on Saturday afternoon, May 21, 2016, at `15:00`, all sixteen members of their extended family stood on the sunny front lawn of `414 Geneva Street`, dressed in their concert best and wearing their commemorative `$5.00` gold-foil ticket stubs in clear lanyards around their necks:
 * **Jordan** sat in his `Vanguard Pro` in a vintage-style `1987 Electric Color` tour T-shirt that **Daniel** and **Laura Brooks** had brought him from Bluefield, with his custom high-fidelity `Vibe-Filter` acoustic earpieces tucked securely into his ears and his over-ear defenders clipped to his push-handles just in case.
@@ -19840,7 +19870,9 @@ Every seat and standing handrail on the sixty-foot coach quickly filled with CPI
 
 "And that," **Zoë** noted dryly, adjusting her glasses as their shuttle breezed right past the gridlock along the coned-off busway, "is a fifty-dollar tax on poor logistical planning. Fare-free municipal transit wins again."
 
----
+***
+
+#### 3:45 PM — The Forger Nation Tailgate Plaza
 
 The shuttle dropped them off less than two hundred feet from the accessible west entrance of Gate 1. Outside the stadium, the atmosphere was nothing like the chaotic, drunken frenzy that had terrified Jordan during the September 2014 Homecoming game.
 
@@ -19857,7 +19889,9 @@ One by one, the sixteen of them tapped their `Poly Pass` cards (and guest passes
 
 While Mark, Daniel, and Stephen carried over trays piled high with hickory-smoked pulled pork sandwiches, mac-and-cheese, and cold lemonade to a shaded accessible table, a two-person documentary film crew wearing black **`ENGINE ROOM FILMS`** vests strolled past, capturing B-roll of the three-generation crowd. Spotting Jordan’s vintage `1987 Electric Color` shirt next to Daniel’s original 1989 tour button and little Stella’s tiny pink ear defenders, the camerawoman smiled and gave them a thumbs-up, filming a warm five-second panning shot as Jordan grinned and raised his lemonade cup alongside Aubrie Jean and Madison.
 
----
+***
+
+#### 6:00 PM — Section 104, Row A
 
 At `18:00`, as the gates to the stadium bowl officially opened, the sixteen of them passed through the accessible security lane—where the ushers handed every person an addressable white LED wristband synchronized to the stage lighting console—and rolled down the wide, cool concrete ramp of the Gate 1 field-level tunnel.
 
@@ -19889,9 +19923,11 @@ Daniel leaned across Mark’s shoulder, his eyes glistening behind his glasses a
 
 ### Part 2: Act I: The Anvil Strike & The Marching Forgers
 
-**Date:** 2016-05-21 19:55
+**Date:** 2016-05-21 at 19:55 America/New_York
 
 ![From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zoë Wren Brooks, and Mark Cooper cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/act-i-ignition-marching-forgers.jpg)
+
+#### 7:55 PM — Smile for the Camera (Engine Room Films)
 
 At `19:55`, as twilight deepened into a clear, indigo Appalachian night over the Blue Ridge Mountains, the giant steel-truss camera jibs along the field perimeter swung into position.
 
@@ -19907,7 +19943,9 @@ Before Mark or Daniel could even turn around, **Madison** spun in `Seat 3`, her 
 
 Right on cue, as the red tally light on the matte box blinked directly in front of `Row A`, Madison, Aubrie Jean, Megan, Zoë, Lauren, Sarah, Jessica, Isabel, Mark, and Hannah all threw up their hands in the CPI *Forger Hammer* salute while Jordan grinned from ear to ear and raised his glowing wristband toward the lens. Even the grumbling guy behind them couldn't help cracking a sheepish smile and raising his cup.
 
----
+***
+
+#### 8:00 PM — Act I: The Anvil Strike & The CPI Marching Forgers
 
 At `20:00` on the dot, every floodlight inside **The Crucible** cut to pitch black.
 
@@ -19953,9 +19991,11 @@ As the final brass chord of *"The Stardust Engine"* rang out across the valley, 
 
 ### Part 3: Acts II & III: Fifty-Two to Nothing & The Vault
 
-**Date:** 2016-05-21 20:25
+**Date:** 2016-05-21 at 20:25 America/New_York
 
 ![Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 — VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Cooper claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zoë Wren Brooks cheer wildly around him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/fifty-two-to-nothing-scoreboard.jpg)
+
+#### 8:25 PM — Act II: Not Your Doll & Fifty-Two to Nothing
 
 With the main body of the **CPI Marching Forgers** filing into the tunnel (leaving their twenty-piece **Lead Brass & Drumline Honor Guard** stationed at attention along the front lip of the turf), the core four-piece band—**Ryan O'Connell**, **Cassidy O'Connell**, **Evan Wright**, and **Tyler Wright**—and their five-piece stadium touring section on the stage-left auxiliary riser (**"The Orbital Crew"**: longtime touring guitarist **Marcus Vance** on rhythm guitar and 12-string acoustic so Ryan could rip into his lead solos without ever using a pre-recorded backing track, second drummer/percussionist **Darius "Doc" Holloway** locking into dual-kit stadium grooves with Tyler in the classic Chester Thompson / Phil Collins tradition, auxiliary keyboardist **Claire Lindqvist** holding down the analog `Oberheim OB-Xa` synth beds whenever Cassidy stepped out front with a wireless mic or moved to the grand piano, and CPI Jazz faculty soloists **Prof. Julian Vance** on trumpet/flugelhorn and **Elena Rostova** on tenor/baritone sax) shifted into high gear for **Act II: The Reignition & Freedom Era Rock Block**.
 
@@ -20045,7 +20085,9 @@ With **Aubrie Jean**, **Madison**, **Megan**, **Zoë**, and **Mark** cheering wi
 > *Now look up at the board where the coastal winds blow—*<br>
 > ***FIFTY-TWO TO NOTHING! PUT IT ON THE BOARD!***"*
 
----
+***
+
+#### 8:55 PM — Act III: The Vault (*Lost Sounds*) & Twin Moons Cosmic Block
 
 Without letting the momentum drop, the stage lights shifted into deep metallic silver and orbital blue for **Act III: The Vault (*Lost Sounds*) & Twin Moons Cosmic Block**.
 
@@ -20057,9 +20099,11 @@ As the final guitar harmonic of *"Mayday: The Intercept"* echoed into the night 
 
 ### Part 4: Acts IV & V: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights
 
-**Date:** 2016-05-21 21:15
+**Date:** 2016-05-21 at 21:15 America/New_York
 
 ![Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL • AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/brothers-keeper-acoustic-spotlight.jpg)
+
+#### 9:15 PM — Act IV: *Our Own Frequency*, The Summer Festival Announcement, & *Brother's Keeper*
 
 At the midpoint of the concert, **Evan Wright** unstrapped his bass, **Tyler Wright** stepped down from the drum riser, and the twin cousins—along with all five members of the **Orbital Crew** touring section (**Marcus Vance**, **Darius "Doc" Holloway**, **Claire Lindqvist**, **Julian Vance**, and **Elena Rostova**)—gave **Ryan** and **Cassidy** a warm hug before walking off into the wings.
 
@@ -20118,7 +20162,9 @@ When Ryan and Cassidy harmonized on the chorus—*"We trade all the armor, we tr
 
 "Every single word of it, J," Aubrie Jean whispered, kissing his temple as sixty-five thousand fans held up quiet white phone lights across the dark stadium bowl for Track 16, [**"Safe Person"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-16-safe-person), completing the three-song *Our Own Frequency* acoustic trilogy to a deeply moved standing ovation.
 
----
+***
+
+#### 9:45 PM — Act V: *Saturday Night Lights: The Crucible* & *Last Bus Home*
 
 As the ovation for *"Safe Person"* swelled across the valley, **Evan** and **Tyler** walked back out onto the stage and strapped on their electric bass and drum kit to launch **Act V: Full-Band Electric Return, Saturday Night Lights & The Homecoming Sprint**.
 
@@ -20144,9 +20190,11 @@ Every light on the stage clicked off to pitch black.
 
 ### Part 5: Act VI: Electric Color (Live at the Crucible) & The Departure Loop
 
-**Date:** 2016-05-21 22:40
+**Date:** 2016-05-21 at 22:40 America/New_York
 
 ![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Cooper.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/electric-color-rainbow-reclamation.jpg)
+
+#### 10:40 PM — Act VI: *Electric Color (Live at the Crucible)*
 
 As the final warm chord of [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-23-last-bus-home-lights-out-on-progress-street) faded out and the stage lights clicked off to pitch black—just like the literal *"Lights Out"* of the song's title—thousands of fans in the upper decks cheered, hugged, and began reaching for their jackets, convinced the two-hour concert was officially over.
 
@@ -20246,7 +20294,9 @@ As the sustained stadium power chord, blaring 300-horn brass chord, and heavy go
 > *"Thank you Forger Nation! Thank you Blacksburg!*<br>
 > *We love you! We're home! Goodnight!"*
 
----
+***
+
+#### 10:50 PM — The Crucible Bus Loop & The Ride Home
 
 When the final brass chord and gong strike of [**"Electric Color (Live at the Crucible)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=electric-color-live-at-the-crucible) faded into the warm May night at `22:50`, the sixteen of them didn't have to fight a single stair or a single traffic jam.
 
@@ -20290,7 +20340,7 @@ Jordan looked down at his `Poly Pass` lanyard resting against his commemorative 
 
 ### The U.S. 11 Compound & The Sunken Sanctuary
 
-**Date:** 2016-07-01 11:00
+**Date:** 2016-07-01 at 11:00 America/New_York
 
 On Friday morning, July 1, 2016—sixteen months after **Zoë** had first rendered the 3D architectural wireframe on the dining room table at `414 Geneva Street`, and eight months after **Jordan** had whispered *"Let's build our sanctuary"* in `CVICU Room 412`—the custom-built **Kelly–Cooper–Brooks Compound** along the U.S. Route 11 corridor stood finished under the bright July sun.
 
@@ -20354,7 +20404,9 @@ For nineteen years and eleven months, the name `Aubrey Jordan Fuller` had been a
 
 ### Part 1: The Morning Of, The Gathering, & The Vows
 
-**Date:** 2016-07-16 07:30
+**Date:** 2016-07-16 at 07:30 America/New_York
+
+#### 7:30 AM — The Morning Of & The Route 3 Wedding Coach
 
 Saturday, July 16, 2016 dawned clear and golden over the Blue Ridge Mountains.
 
@@ -20392,7 +20444,9 @@ JUST MARRIED!
 
 "All aboard for the Courthouse and the Conservatory!" the driver beamed as the ramp deployed to the curb.
 
----
+***
+
+#### 1:30 PM — The Ceremony of the Constellation & The Double Wedding Vows
 
 At `13:30`, the sunlit glass-and-limestone atrium of the **Old Town Ballroom & Conservatory**—located directly across Main Street from the **Montgomery County Courthouse** in downtown Christiansburg—was filled to capacity with everyone who had ever stood in Jordan, Aubrie Jean, Mark, and Hannah’s corner.
 
@@ -20475,7 +20529,9 @@ And before a single champagne glass was poured for the reception, **Daniel Brook
 
 ### Part 2: The Legal Seal, The Reception, & The First Night
 
-**Date:** 2016-07-16 14:45
+**Date:** 2016-07-16 at 14:45 America/New_York
+
+#### 2:45 PM — Chamber B: The Legal Seal (`Jordan Shawn Kelly`)
 
 At `14:45` on Saturday afternoon, July 16, 2016, downtown traffic on Main Street in Christiansburg came to a delighted halt as the courthouse deputies waved a wedding procession across the sunlit crosswalk.
 
@@ -20527,7 +20583,9 @@ Resting his forearm steadily on the accessible tabletop, Jordan placed the nib o
 
 Everyone in Chamber B—including the Chief Deputy Clerk—burst into applause. Mark pulled Jordan into a fierce one-armed hug, Daniel shook his hand with shining eyes, and Aubrie Jean kissed his cheek, whispering against his ear, *"Hello, Mr. Jordan Shawn Kelly."*
 
----
+***
+
+#### 3:12 PM — The Grand Ballroom Reception & *Just Us*
 
 At `15:12`, the wedding party walked right back across Main Street into the vestibule of the **Old Town Ballroom**, where all two hundred wedding guests had just taken their seats around the candlelit reception tables inside the Grand Ballroom.
 
@@ -20553,7 +20611,9 @@ During the dinner toasts, **Daniel Brooks** raised his glass to the two brothers
 
 "Medical textbooks can explain how a saphenous vein or a mammary artery graft restores blood flow to the myocardium," Dr. Thorne told the hushed ballroom, looking straight at Jordan and Aubrie Jean at the head table. "What medical textbooks cannot explain—until you meet this family—is how eight women, a brother, and a sister-in-law can stand around a hospital bed in Roanoke and will a young man back from the edge of eternity. To **Jordan Shawn Kelly** and **Aubrie Jean Kelly**, and to **Mark and Hannah Cooper**: may your hearts beat strong for eighty years to come."
 
----
+***
+
+#### 10:45 PM — Return to the Sunken Sanctuary
 
 At `22:45`, under a shower of biodegradable starlight confetti outside the Old Town Ballroom, the newlyweds waved goodbye to their parents and guests—and walked fifty feet down Main Street to the **Blue Ridge Transit Route 3** stop for the last northbound run of the night.
 
