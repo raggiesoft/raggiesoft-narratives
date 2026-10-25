@@ -16055,7 +16055,7 @@ A soft knock sounded at the door, and **Dr. Evelyn Vance, MD** stepped inside wi
 
 "Chaotic," Isabel admitted with a small laugh, glancing at Aubrie Jean. "I'm a fourth-year Nursing and Pre-OT senior at CPI with clinical rotations and rehab practicum labs, I'm the Senior Resident Advisor for Allegheny Commons with rotating late-night duty shifts where I can get called out of bed at two in the morning for a building alarm, and I split my free evenings between my campus apartment and our household here on Geneva Street in Christiansburg."
 
-Dr. Vance nodded thoughtfully. "With a rotating on-call schedule and two different sleeping locations, a daily oral contraceptive pill can be a source of constant stress—especially progestin-only or low-dose pills where missing your time window by even a few hours while you're handling a `2:00 AM` dorm lockout can compromise your protection, or where you accidentally leave your pill pack at one house when you're staying at the other."
+Dr. Vance nodded thoughtfully. "With a rotating on-call schedule and spending your evenings down in Christiansburg before heading back to campus at night, a daily oral contraceptive pill can be a source of constant stress—especially progestin-only or low-dose pills where missing your time window by even a few hours while you're handling a `2:00 AM` dorm lockout can compromise your protection, or where you accidentally leave your pill pack at one house when you're at the other."
 
 "That was my exact worry," Isabel said earnestly. "I don't want any chance of human error, and as a Senior RA with freshmen and sophomores knocking on my apartment door all day, I also really like the privacy of not having a pill pack sitting on my nightstand. At the same time, I'm needle-tolerant, and I'd rather not go through an invasive intrauterine procedure right in the middle of the first month of classes."
 
@@ -16063,7 +16063,7 @@ Dr. Vance nodded thoughtfully. "With a rotating on-call schedule and two differe
 
 Isabel leaned forward attentively. "How effective is it?"
 
-"With on-time quarterly injections every twelve weeks, **`Depo-Vanguard 150`** is over `99.8%` effective—virtually identical to an implant or IUD, with zero daily maintenance," Dr. Vance explained. "Once you receive the injection today, you are completely covered through the end of November. There are no pills to remember during late-night RA duty, nothing to pack in your overnight bag between campus and Christiansburg, and after the second or third dose, most women experience significantly lighter periods or stop having menstrual cramping altogether."
+"With on-time quarterly injections every twelve weeks, **`Depo-Vanguard 150`** is over `99.8%` effective—virtually identical to an implant or IUD, with zero daily maintenance," Dr. Vance explained. "Once you receive the injection today, you are completely covered through the end of November. There are no pills to remember during late-night RA duty, nothing to carry back and forth in your bag between campus and Christiansburg, and after the second or third dose, most women experience significantly lighter periods or stop having menstrual cramping altogether."
 
 "What is the waiting period before it takes full effect?" Aubrie Jean asked gently from the companion chair.
 
@@ -16096,7 +16096,7 @@ Across the basement living room, **Jordan** looked up from his **Pinnacle Vangua
 
 **Date:** 2015-09-15 at 20:30 America/New_York
 
-By **Tuesday, September 15, 2015**, the mandatory seven-day clinical effectiveness window for **Isabel's** first injection of **The Shot** (`Depo-Vanguard 150`) was four days in the rearview mirror, and she had arranged for her co-RA at Allegheny Commons to cover the evening duty desk until `11:30 PM` so she could spend the entire evening at Geneva Street before returning to `Apartment 101` for her mandatory weeknight Senior RA in-building overnight residency.
+By **Tuesday, September 15, 2015**, the mandatory seven-day clinical effectiveness window for **Isabel's** first injection of **The Shot** (`Depo-Vanguard 150`) was four days in the rearview mirror, and **Henry Walsh** down the hall in `Apartment 115` had happily volunteered to cover the evening half of her rotating Tuesday on-call shift at Allegheny Commons until `11:30 PM` so she could spend the entire evening at Geneva Street before returning to `Apartment 101` for the overnight half of her duty rotation.
 
 Earlier that afternoon on campus, **Madison** had casually offered that the group could walk Jordan over to `Allegheny Commons, Apartment 101` after dinner so Isabel and Jordan could have her private Senior RA apartment all to themselves.
 
@@ -16159,7 +16159,7 @@ Seeing Isabel tucked under Jordan's left arm with a radiant, peaceful glow on he
 
 "Welcome home, Isabel," Aubrie Jean whispered softly.
 
-Isabel laced her fingers with Aubrie Jean's right over Jordan's heart, closed her eyes, and smiled—savoring every remaining minute of the warm quiet together before **Mark** drove her back up to `Allegheny Commons` at `11:15 PM` to sign in for her mandatory weeknight Senior RA overnight building coverage.
+Isabel laced her fingers with Aubrie Jean's right over Jordan's heart, closed her eyes, and smiled—savoring every remaining minute of the warm quiet together before **Mark** drove her back up to `Allegheny Commons` at `11:15 PM` to relieve Henry for the overnight half of her rotating duty shift.
 
 "I'm home," Isabel whispered back.
 
@@ -17706,7 +17706,7 @@ The night before open-heart surgery was a blur of broken, twenty-minute naps pun
 
 At `5:20 AM` on **Monday, November 16, 2015**, the hallway door of the pre-op suite swung quietly open.
 
-Having rolled out of **414 Geneva Street** at `4:15 AM` sharp in the freezing pre-dawn dark, **Daniel**, **Laura**, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Sarah**, **Jessica**, and **Isabel**—joined from the Roanoke hotel and apartments by **Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, **Liam**, **Ben Carter**, and **Henry Walsh**—slipped into the room and the adjoining corridor in hushed, protective waves so every single person could say goodbye before the `6:00 AM` surgical transport.
+Having rolled out of **414 Geneva Street** at `4:15 AM` sharp in the freezing pre-dawn dark, **Daniel**, **Laura**, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Sarah**, and **Jessica**—joined from the Roanoke hotel, apartments, and **Henry Walsh's** `4:00 AM` Blacksburg pickup from `Allegheny Commons` by **Isabel**, **Henry Walsh**, **Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, **Liam**, and **Ben Carter**—slipped into the room and the adjoining corridor in hushed, protective waves so every single person could say goodbye before the `6:00 AM` surgical transport.
 
 At `5:40 AM`, the cardiothoracic anesthesiologist, **Dr. Hayes**, stepped to the bedside in surgical scrubs and a bouffant cap, followed by two OR transport nurses.
 
@@ -17897,7 +17897,7 @@ Inside the warm, quiet sanctuary of **Room 618**, it was just **Jordan** and **Z
 
 #### 5:30 PM — The Incentive Spirometer (1,500 Milliliters)
 
-While the unseasonable November blizzard howled against the double-paned glass of **Room 618** in Roanoke—and while thirty-five miles southwest, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Mark**, and **Hannah** caught the final packed **`Blue Ridge Transit`** bus off the CPI campus and made it safely into the basement sanctuary at **414 Geneva Street** five minutes before transit service was suspended—**Zoë Wren Brooks** ran the Roanoke outpost with quiet, loving precision.
+While the unseasonable November blizzard howled against the double-paned glass of **Room 618** in Roanoke—and while thirty-five miles southwest, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Mark**, and **Hannah** caught the final packed **`Blue Ridge Transit`** bus off the CPI campus and made it safely into the basement sanctuary at **414 Geneva Street** five minutes before transit service was suspended (while **Isabel** and **Henry** held down the snowed-in **Allegheny Commons** campus sanctuary with **Elana**, **Stephen**, and **Stella**)—**Zoë Wren Brooks** ran the Roanoke outpost with quiet, loving precision.
 
 At `5:30 PM`, she picked up the clear plastic cylinder sitting on **Jordan's** over-bed tray: his **incentive spirometer**.
 
@@ -17931,7 +17931,7 @@ True to the nurse's word, his stomach handled the clear liquids without a single
 
 Before they took a single bite, Zoë propped her laptop up on the rolling over-bed table and dialed **`InfoLink Messenger`**.
 
-Instantly, the screen lit up with the warm, glowing chaos of the **414 Geneva Street** dining table—where **Daniel**, **Laura**, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** were sitting down to their own blizzard dinner with the webcam placed right at the head of the table so Jordan and Zoë had a virtual seat with the family.
+Instantly, the screen lit up with a three-way conference window: the warm, glowing chaos of the **414 Geneva Street** dining table—where **Daniel**, **Laura**, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, and **Jessica** were sitting down to their blizzard dinner—alongside **Isabel** and **Henry** dialing in from **Apartment 101** at snowed-in **Allegheny Commons** with **Elana**, **Stephen**, and **Stella**, giving Jordan and Zoë a virtual seat with the entire family.
 
 *"Look who's eating real food!"* Madison cheered through the speakers as everyone raised their forks in a toast to Room 618, and for the next forty-five minutes, the thirty-five miles of snowbound highway vanished completely as they shared dinner, laughed about the blizzard, and celebrated Jordan's first real meal in five days.
 
@@ -18141,19 +18141,21 @@ Second, as `9:30 PM` arrived and Jordan looked wistfully toward the massive cust
 
 "Understood, Mr. Brooks," the seven women answered in unison.
 
-By unanimous agreement of the Pact, **Aubrie Jean**—his original anchor from Room 214—took the first night home in the king bed on Friday, curling up carefully along Jordan's right side with her hand resting lightly over his palm while Madison, Zoë, Lauren, Sarah, Jessica, and Isabel settled onto the neighboring queen beds, wrapping Jordan in a quiet, safe dark that finally smelled like home.
+By unanimous agreement of the Pact, **Aubrie Jean**—his original anchor from Room 214—took the first night home in the king bed on Friday, curling up carefully along Jordan's right side with her hand resting lightly over his palm after **Isabel** (who was on weekend Senior RA duty at Allegheny Commons Friday and Saturday nights) kissed Jordan goodnight and rode back up to campus with Henry, Garrett, and Kelsey, while Madison, Zoë, Lauren, Sarah, and Jessica settled onto the neighboring queen beds, wrapping Jordan in a quiet, safe dark that finally smelled like home.
 
 ***
 
-#### November 22, 2015 • 9:30 PM — Isabel's Turn in the King Bed (The Sternal Watch)
+#### November 22, 2015 • 9:30 PM — Isabel's First Night at Geneva Street (The Sternal Watch)
 
 After **Aubrie Jean** took Friday night and **Madison** took Saturday night on the one-partner sternal rotation, **Sunday evening, November 22, 2015**, arrived.
 
-Up on campus at **Allegheny Commons**, CPI Housing & Residence Life had consolidated Thanksgiving-week duty coverage so that **Isabel** was officially off overnight call starting Sunday night at `8:00 PM`. By `8:30 PM`, she was down in the walk-out basement at **414 Geneva Street** in her soft maroon CPI Nursing t-shirt and plaid pajama pants, helping **Lauren** and **Hannah** finish Jordan's evening sponge-bath protocol and getting him settled against the wedge pillows in the center of the custom king-sized bed with his red plush **heart pillow** resting beside his left elbow.
+Up on campus, the pre-Thanksgiving exodus was already underway—her younger sister **Elana**, cousin **Stephen**, and **Stella** had been picked up from New River Hall by their parents for the holiday week, and **Isabel's** weekend Senior RA duty rotation at **Allegheny Commons** had officially ended at `6:00 PM`. For the very first time in her entire life, Isabel didn't have to catch an evening ride back to `Apartment 101` to sleep.
 
-At `9:30 PM`, as the basement lamps were dimmed for the night, Isabel automatically picked up her pillow from the foot of the adjacent queen bed where she had slept on Friday and Saturday nights.
+At `7:30 PM`, she walked down the basement stairs at **414 Geneva Street** carrying a packed overnight duffel bag over her shoulder—ready to spend her very first night ever under the Geneva Street roof. After helping **Lauren** and **Hannah** with Jordan's `8:30 PM` sponge-bath protocol and getting him settled against the wedge pillows in the center of the custom king-sized bed in his soft button-front flannel pajamas, Isabel changed into her maroon CPI Nursing t-shirt and plaid pajama pants.
 
-"Hold it right there, Izzy," **Aubrie Jean** said warmly, stepping into her path with a knowing smile while **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** gathered around. "Where do you think you're going with that pillow? Friday was my night, and Saturday was Madi's. Tonight is *your* turn in the king bed with Jordan."
+At `9:30 PM`, as the basement lamps were dimmed for the night, Isabel naturally walked over to set her overnight bag and pillow down at the foot of the adjacent queen bed, assuming **Zoë** or **Lauren** was next in line for the king bed.
+
+"Hold it right there, Izzy," **Aubrie Jean** said warmly, stepping into her path with a knowing smile while **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** gathered around. "Where do you think you're going with that pillow? Tonight is your very first time ever spending the night here at Geneva Street—which means tonight is *your* turn in the king bed with Jordan."
 
 Isabel froze in the middle of the basement carpet, clutching the pillow against her stomach like a ballistic shield as a wave of bright crimson shot from her collarbone all the way to the tips of her ears.
 
@@ -18169,7 +18171,7 @@ ZOË.Systems.Logs.KernelLog: Thread 2 (Observers) — Paradox Detected in Agent(
 
 Isabel buried her scarlet face halfway into her pillow and let out a muffled, mortified groan.
 
-"Because I've never actually *slept* in a bed with him before!" Isabel confessed breathlessly, peeking over the top of the pillow at Jordan and the six grinning women. "On that Tuesday night in September, Mark had to drive me back to Apartment 101 at eleven-fifteen so I wouldn't violate Senior RA weeknight building curfew! And on the weekend nights I've stayed over since then, by the time the six of you piled into the king bed, I always got nervous that I'd toss and turn and kick somebody in my sleep, so I snuck over to the queen bed! I've slept by myself in a Twin XL dorm bed my entire life—and now my very first time sleeping through the night with Jordan is when he has *freshly wired open-heart surgery stitches* in his chest! What if I roll over at three in the morning and my elbow hits his sternum?!"
+"Because I've never actually *spent the night* here or *slept* in a bed with him before!" Isabel confessed breathlessly, peeking over the top of the pillow at Jordan and the six grinning women. "Every single evening this semester—even that Tuesday night in September after we made love—I always went back to Apartment 101 to sleep! I've slept by myself in a single bed my entire life—and now my very first time ever spending the night at Geneva Street and falling asleep beside Jordan is when he has *freshly wired open-heart surgery stitches* in his chest! What if I toss and turn at three in the morning and my elbow hits his sternum?!"
 
 From the center of the king bed, **Jordan's** eyes softened with pure, overwhelming affection. Reaching for his **mPad** on the nightstand, he tapped:
 
