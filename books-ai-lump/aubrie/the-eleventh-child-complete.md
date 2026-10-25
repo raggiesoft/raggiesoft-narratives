@@ -4924,13 +4924,13 @@ Jordan smiled, caught up in the momentum of the room. He, too, was eager to watc
 
 <aac>It is weird,</aac> Jordan's laptop synthesized in its clear Australian voice. <aac>Why does everyone just call them Norfolk? Is that the VDU mascot's name or something?</aac>
 
-Aubrie laughed lightly, assuming he was just asking about the sports shorthand rather than the geography—after all, he had grown up in Virginia Beach, right next door to her own hometown of Chesapeake.
+Aubrie laughed lightly, assuming he was just asking about the sports shorthand rather than the geography—after all, he had grown up in Virginia Beach, right next door to the **Emerald Creek** neighborhood of **Chesapeake** where she had grown up.
 
 "No, J, 'Norfolk' is just the city where Virginia Dominion University is located," Aubrie explained warmly, turning back from the mirror. "It's like how opposing teams probably just call us 'Blacksburg.'"
 
 Then, completely unintentionally, she supplied the final, devastating piece of the puzzle.
 
-"It's right next door to Virginia Beach, and right next to Chesapeake where I'm from," she added casually. "It's all part of Hampton Roads."
+"It's right next door to Virginia Beach, and right next to the Emerald Creek area of Chesapeake where I'm from," she added casually. "It's all part of Hampton Roads."
 
 The words hit Jordan with the force of a physical blow.
 
@@ -10745,9 +10745,15 @@ Jordan took a long, shaky breath against Aubrie’s collarbone, his fingers slow
 
 <aac>I know it is not the band's fault, and I know you did not mean to upset me, Mark. It just hurt when she shouted "Norfolk!" and "Thank you, Norfolk!" inside my song. In my head, Norfolk means Hampton Roads, my mother's house, and the 38-0 Homecoming game. I wanted "Electric Color" to belong to Blacksburg and to us—not to where I came from.</aac>
 
+Sitting right beside him on the sofa, **Aubrie Jean** gently cupped Jordan’s cheek with her right hand, her warm hazel eyes meeting his behind his glasses.
+
+"Hey, Jordan... look at me for a second," Aubrie Jean said softly. "Remember where I grew up? I'm from the **Emerald Creek** area of **Chesapeake**—right there in Hampton Roads, fifteen minutes down Interstate 64 from the Norfolk Prism Arena and right across the city line from Virginia Beach. Growing up in Emerald Creek, whenever my parents took me to **Emerald Creek Mall** off Volvo Parkway and Eden Way, the echoing food court and *The Starcade* were always so loud that I had to wear my headphones just to keep from hitting sensory 100—probably walking right past dozens of other kids and families from Norfolk and Chesapeake without ever knowing their names. And you know what my dad used to play for me in the car on the drive home from Emerald Creek Mall to help me decompress? **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**."
+
+She squeezed his fingers warmly. "Your mother doesn't own Hampton Roads, Jordan. Hampton Roads didn't just have that gray house in Virginia Beach—it also had my house in Emerald Creek. And both of us left Hampton Roads behind and came up Interstate 81 to the mountains of **Blacksburg** to find each other."
+
 **Daniel Brooks** walked over from the vinyl shelves and crouched beside Mark in front of Jordan’s chair, resting a warm, fatherly hand on Jordan’s arm.
 
-"Look at the back cover of that 2005 album for a second, son," Daniel said gently, holding up the sleeve of [***Live in Norfolk***](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk) so Jordan could read the date and subtitle: **October 29, 2005 — The Final Show Before the Burnout Hiatus**. "Listen to what Cassidy actually said in that intro right before she sang: *'Before we head back home to the mountains to rest for a while... we've got one last song left in the tank.'* They weren't staying in Norfolk, Jordan. By October 2005, **Ryan**, **Cassidy**, **Evan**, and **Tyler** were completely exhausted from nineteen years of non-stop world tours. That night at the Prism Arena was the night they walked off the road, got on their tour bus, drove straight up Interstate 81 out of Hampton Roads, and came **home to Blacksburg** for nine years to heal."
+"And Aubrie Jean is right about the band, too, son—look at the back cover of that 2005 album for a second," Daniel said gently, holding up the sleeve of [***Live in Norfolk***](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk) so Jordan could read the date and subtitle: **October 29, 2005 — The Final Show Before the Burnout Hiatus**. "Listen to what Cassidy actually said in that intro right before she sang: *'Before we head back home to the mountains to rest for a while... we've got one last song left in the tank.'* They weren't staying in Norfolk, Jordan. By October 2005, **Ryan**, **Cassidy**, **Evan**, and **Tyler** were completely exhausted from nineteen years of non-stop world tours. That night at the Prism Arena was the night they walked off the road, got on their tour bus, drove straight up Interstate 81 out of Hampton Roads—just like you and Aubrie Jean did—and came **home to Blacksburg** for nine years to heal."
 
 Jordan blinked behind his glasses, looking closely at the 2005 liner notes in Daniel’s hands. Even the band had left Norfolk behind to come home to the mountains of Blacksburg!
 
@@ -19580,7 +19586,7 @@ via BUSINESS 460 & PEPPER PLAZA
 
 As the sixty-foot *Prairie Coachworks* articulated coach kneeled its front air suspension and deployed its flip-out wheelchair ramp onto the **Commonwealth Mall** sidewalk with a smooth pneumatic hiss, both Jordan (in his power chair, *S.S. Freedom*) and the visiting VDU student in the blue manual wheelchair happened to glance toward the two transit buses at the exact same second.
 
-Neither of them knew who the other was—just a CPI student in a power chair catching his Friday afternoon bus home to Christiansburg with his family, and a visiting VDU RHA delegate in a temporary post-surgical manual chair arriving with his sister for `SAACURC`—but as their eyes briefly met across the salted brick sidewalk, they exchanged a warm, knowing nod and a friendly wave in passing.
+Neither of them knew who the other was—just a CPI student in a power chair catching his Friday afternoon bus home to Christiansburg with his family, and a visiting VDU RHA delegate in a temporary post-surgical manual chair arriving with his sister for `SAACURC`—but as their eyes briefly met across the salted brick sidewalk, they exchanged a warm, knowing nod and a friendly wave in passing. Standing right beside Jordan's chair, **Aubrie Jean**—who had grown up in the **Emerald Creek** area of **Chesapeake** right next door to Norfolk—caught a fleeting, half-familiar sense of *déjà vu* as she glanced at the two VDU delegates in their `Chesapeake Teal` parkas, wondering for half a second if she had ever walked past them years ago in the corridors or bookstore of **Emerald Creek Mall** back home in Hampton Roads, before the moment passed into the crisp mountain air.
 
 ```
 ZOË.Systems.Logs.ActionLog:

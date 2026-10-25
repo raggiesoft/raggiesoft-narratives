@@ -306,7 +306,8 @@
 | The Narragansett Catch | Generic Fast-Casual Seafood | The premier mall food court destination for fast-casual New England seafood. |
 | Agent Sterling | James Bond / 007 | The iconic British superspy film franchise. The character is known as Agent Sterling (Operative 008). |
 | Kensington-Royce | Rolls-Royce | The ultra-luxury British automobile manufacturer. |
-| Tidewater Square Mall | Chesapeake Square Mall | The mall located in Chesapeake, VA. |
+| Tidewater Square Mall | Chesapeake Square Mall | The mall located in Western Branch, Chesapeake, VA. |
+| Emerald Creek / Emerald Creek Mall | Greenbrier / Greenbrier Mall | The neighborhood and major regional shopping mall in Chesapeake, VA (hometown neighborhood of Aubrie Jean Kelly in `/books/aubrie`, and frequent mall setting in `/books/rachel` and `/books/paige`). |
 
 ### International Landmarks, Museums, Transit, & Cultural Venues (Universal Across All Narratives)
 
