@@ -20538,7 +20538,7 @@ FORGERS SHUTTLE
 
 As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the **Christiansburg Transit Center**—one short block from `414 Geneva Street`—**Aubrie Jean** sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while **Mark** leaned across the aisle toward **Hannah** and Jordan with a quiet, meaningful smile.
 
-"Next stop," Mark said softly over the gentle hum of the bus, "July first move-in at the U.S. 11 compound. And then July sixteenth... the Double Wedding, and a quick trip across the street to the Montgomery County Courthouse."
+"Next stop," Mark said softly over the gentle hum of the bus, "Friday, July first move-in at the U.S. 11 compound. And then Friday, July fifteenth... the Double Wedding, and a quick trip across the street while the Montgomery County Courthouse is open."
 
 Jordan looked down at his `Poly Pass` lanyard resting against his commemorative *Live at the Crucible* ticket stub—one of the last big nights he would ever wear the name `Jordan Fuller`—and squeezed Aubrie Jean’s hand with a full, peaceful smile.
 
@@ -20591,13 +20591,13 @@ Conclusion: Physical architecture is now 100% aligned with family emotional arch
 
 From the edge of the hardwood transfer deck, **Daniel Brooks** smiled warmly, holding up a crisp manila legal portfolio stamped with the seal of the **Circuit Court of Montgomery County, Virginia**.
 
-"And speaking of architecture lining up, Jordan," Daniel said, tapping the folder in his hand as **Mark** and **Hannah** stood beside him with matching grins, "I just came from the Montgomery County Courthouse in downtown Christiansburg—right across Main Street from the **Old Town Ballroom & Conservatory** where you and Aubrie Jean, and Mark and Hannah, are getting married two weeks from tomorrow."
+"And speaking of architecture lining up, Jordan," Daniel said, tapping the folder in his hand as **Mark** and **Hannah** stood beside him with matching grins, "I just came from the Montgomery County Courthouse in downtown Christiansburg—right across Main Street from the **Old Town Ballroom & Conservatory** where you and Aubrie Jean, and Mark and Hannah, are getting married two weeks from today on **Friday, July 15**."
 
 Jordan sat up against the velvet bolsters between Aubrie Jean and Madison, his eyes wide with curiosity. He tapped his `mPad`:
 
-<aac>"Did the Circuit Court Clerk approve the schedule for Saturday, July sixteenth?"</aac>
+<aac>"Did the Circuit Court Clerk approve the Friday afternoon docket for July fifteenth?"</aac>
 
-"Better than approved," Daniel beamed, opening the folder to show the docket confirmation signed by **Judge Warren T. Aldridge**—the very same Montgomery County Circuit Court Judge who had dismissed Aubrie Sinclair’s fraudulent guardianship petition with prejudice ten months earlier, and who had presided over the unsealing of the `CP87A` birth-certificate records. "Even though Saturday is normally a non-judicial day, Judge Aldridge and the Chief Deputy Clerk offered to open Chamber B at `2:45 PM` on Saturday, July 16, 2016, specifically for our family."
+"Approved and locked in," Daniel beamed, opening the folder to show the docket confirmation signed by **Judge Warren T. Aldridge**—the very same Montgomery County Circuit Court Judge who had dismissed Aubrie Sinclair’s fraudulent guardianship petition with prejudice ten months earlier, and who had presided over the unsealing of the `CP87A` birth-certificate records. "Scheduling the Double Wedding on a Friday meant the Courthouse and the Clerk's Office are open for normal judicial hours—and Judge Aldridge cleared Chamber B at `2:45 PM` on Friday, July 15, 2016, specifically for our family."
 
 Mark grinned, counting off the timeline on his fingers:
 1. "`1:30 PM`: The Double Wedding Ceremony right across the street at the Old Town Ballroom & Conservatory—where Hannah and I say our vows, you and Aubrie Jean say your vows, I offer you `Shawn`, and Aubrie Jean offers you `Kelly`."
@@ -20645,17 +20645,17 @@ Aubrie Jean leaned in to kiss Jordan's lips, then reached out her arms as Madiso
 
 ***
 
-#### July 2–15, 2016 — The All-Hands Wedding Blueprint: Everyone Pitches In
+#### July 2–14, 2016 — The All-Hands Wedding Blueprint: Everyone Pitches In
 
-Over the next fourteen days leading up to **Saturday, July 16, 2016**, the dining room table at the U.S. 11 Compound transformed into an all-hands **Double Wedding Command Center**.
+Over the next two weeks leading up to **Friday, July 15, 2016**, the dining room table at the U.S. 11 Compound transformed into an all-hands **Double Wedding Command Center**.
 
 Neither **Jordan and Aubrie Jean** nor **Mark and Hannah** wanted a sterile, outsourced event run by strangers in headsets who didn't understand sensory pacing, wheelchair turning radii, or the unique architecture of their blended family. Instead, every single person in the household took ownership of a piece of the wedding—turning the two-week countdown into a joyful, collaborative labor of love:
 
 1. **Zoë Wren Brooks (Master Logistics & Timeline Architecture)**:
-   Zoë engineered the master `Wedding.Logistics.Schedule` in `.NET`, breaking Saturday, July 16 down into stress-free, sensory-buffered intervals with built-in quiet recovery blocks for Jordan. She mapped out the exact 30-minute venue transformation window (`12:30 PM – 1:00 PM`) at the **Old Town Ballroom & Conservatory**, assigning clear zones so the room could be set up with zero chaos before the doors opened.
+   Zoë engineered the master `Wedding.Logistics.Schedule` in `.NET`, breaking Friday, July 15 down into stress-free, sensory-buffered intervals with built-in quiet recovery blocks for Jordan. She mapped out the exact 30-minute venue transformation window (`12:30 PM – 1:00 PM`) at the **Old Town Ballroom & Conservatory**, assigning clear zones so the room could be set up with zero chaos before the doors opened.
 
-2. **Mark Anderson, Hannah Parker, & Jordan (Transit Coordination & The Altar `mPad` Mount)**:
-   Rather than renting cramped stretch limousines that would separate Jordan from the wedding party, **Mark** and **Jordan** rolled down to the **Blue Ridge Transit** operations depot on Cambria Street to meet with the dispatch supervisor and their favorite Saturday Route 3 operator. Together, they arranged for the scheduled `11:45 AM` northbound and `10:45 PM` last-run Route 3 coaches to serve as the wedding party's official transportation—complete with custom destination headsigns (`ROUTE 3 C-BURG` / `JUST MARRIED!`). Back in the compound workshop, Mark and Hannah also machined a sleek, low-profile anodized dress bracket for Jordan’s `Vanguard Pro` so his `mPad` would sit at a comfortable, unobtrusive angle during the vows without blocking his charcoal three-piece suit or Aubrie Jean's hands.
+2. **Mark Anderson, Hannah Parker, & Jordan (Route 3 Transit Timing & The Altar `mPad` Mount)**:
+   Rather than renting cramped stretch limousines or a special paratransit van that would separate Jordan from the wedding party, **Jordan** insisted on riding the regular weekday **Blue Ridge Transit Route 3** city bus right from the new shelter at the end of their driveway—taking the scheduled `11:45 AM` run toward the **Christiansburg Pepper Plaza Transit Center** and downtown Main Street, and the `10:45 PM` final evening run home. He didn't want a chartered bus or a special favor; he wanted to take himself to his own wedding on the public transit system that had given him his independence. Back in the compound workshop, Mark and Hannah also machined a sleek, low-profile anodized dress bracket for Jordan’s `Vanguard Pro` so his `mPad` would sit at a comfortable, unobtrusive angle during the vows without blocking his charcoal three-piece suit or Aubrie Jean's hands.
 
 3. **Sarah Braithwaite & Mark (Conservatory Acoustics & Direct `mPad` Audio Integration)**:
    Because the **Old Town Ballroom & Conservatory** featured a vaulted glass-and-limestone atrium where a small tablet speaker could easily get lost, **Sarah** and **Mark** visited the venue with a portable digital mixer and a balanced direct-input (`DI`) wireless transmitter for Jordan’s `mPad`. They tuned the room's equalization curve so that when Jordan tapped his vows in his `Sydney` voice, the audio would flow directly through the conservatory's warm acoustic array at the exact same natural volume and warmth as Aubrie Jean's, Mark's, and Hannah's wireless lapel microphones.
@@ -20671,21 +20671,21 @@ Neither **Jordan and Aubrie Jean** nor **Mark and Hannah** wanted a sterile, out
    ***"Choose a seat, not a side. We're all family here."***
 
 7. **Daniel & Laura Brooks, Caleb Brooks, and Elana, Stephen, & Stella (Courthouse Logistics, Cargo Van, & Flower Girl Rehearsals)**:
-   While **Daniel** finalized the Saturday afternoon docket (`CL16-001104`) with **Judge Aldridge**'s clerk and **Laura** coordinated the conservatory terrace hors d'oeuvres with **Aubrie Jean's parents (the Kellys)**, **Hannah's parents (the Parkers)**, and **Mark's parents (the Andersons)**, Jordan's older brother **Caleb Brooks** volunteered the Brooks family cargo van to haul all the floral arrangements, sound gear, guest book, and signage to the ballroom ahead of the bus. And out on the wide West Wing hallway every afternoon, **Elana** and **Stephen** practiced guiding twenty-month-old **Stella** down a forty-foot runner with her satin basket of rose petals—until the little girl giggled with delight every time she reached Jordan's wheelchair at the end of the hall.
+   While **Daniel** finalized the Friday afternoon docket (`CL16-001104`) with **Judge Aldridge**'s clerk and **Laura** coordinated the conservatory terrace hors d'oeuvres with **Aubrie Jean's parents (the Kellys)**, **Hannah's parents (the Parkers)**, and **Mark's parents (the Andersons)**, Jordan's older brother **Caleb Brooks** volunteered the Brooks family cargo van to haul all the floral arrangements, sound gear, guest book, and signage to the ballroom ahead of the bus. And out on the wide first-floor hallway every afternoon, **Elana** and **Stephen** practiced guiding twenty-month-old **Stella** down a forty-foot runner with her satin basket of rose petals—until the little girl giggled with delight every time she reached Jordan's wheelchair at the end of the hall.
 
-By Friday night, July 15, 2016, every centerpiece was misted in the cooler, every suit and gown was steamed and hanging in the cedar closets, and every member of the family went to sleep knowing that the wedding tomorrow wasn't just an event they were attending—it was a sanctuary they had built with their own hands.
+By Thursday night, July 14, 2016, every centerpiece was misted in the cooler, every suit and gown was steamed and hanging in the cedar closets, and every member of the family went to sleep knowing that the wedding tomorrow wasn't just an event they were attending—it was a sanctuary they had built with their own hands.
 
 ## The Double Wedding & The Legal Seal
 
 ### Part 1: The Morning Of, The Final Touches, The Gathering, & The Vows
 
-**Date:** 2016-07-16 at 07:00 America/New_York
+**Date:** 2016-07-15 at 07:00 America/New_York
 
-![Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on July 16, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Anderson stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Parker in her ivory lace gown.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/double-wedding-conservatory-vows.jpg)
+![Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on Friday, July 15, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Anderson stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Parker in her ivory lace gown.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/double-wedding-conservatory-vows.jpg)
 
 #### 7:00 AM — The Morning Of, The Cereal Bowl of Normalcy, & The Route 3 Coach
 
-Saturday, July 16, 2016 dawned clear and golden over the Blue Ridge Mountains.
+Friday, July 15, 2016 dawned clear and golden over the Blue Ridge Mountains.
 
 Up on the second floor in the **Anderson Suite**, **Hannah Parker** woke first at `07:00 AM`, far too excited to sleep another minute. Slipping quietly out from under the covers so **Mark** could catch twenty more minutes of rest, she pulled on her silk robe and padded downstairs to the first-floor communal kitchen—where the rich aroma of fresh-ground dark roast coffee was already drifting from the island. **Daniel** and **Laura Brooks**, up early from their first-floor Grandparents' Suite, were already at the stove, smiling warmly as they handed Hannah the first mug of the morning.
 
@@ -20719,19 +20719,11 @@ At `11:30 AM`, Jordan’s older brother **Caleb Brooks** backed the Brooks famil
 
 "Why don't we just order a stretch limo or a luxury shuttle van for the rest of us?" Madison had teased playfully earlier in the week—and Jordan had shaken his head with a resolute grin.
 
-He didn't want a special paratransit van or a hired chauffeur. At `11:45 AM`, Jordan unlocked his brakes, rolled himself down the zero-grade heated walkway to their covered **Blue Ridge Transit Route 3** shelter, and glided proudly up the deployed ramp of the freshly washed forty-foot **Blue Ridge Transit** coach driven by their favorite regular Saturday operator—who had decorated the interior handrails with white silk ribbons and programmed the exterior amber LED headsign to cycle between:
+He didn't want a special paratransit van or a hired chauffeur. At `11:45 AM`, Jordan unlocked his brakes and rolled down the zero-grade heated walkway with his family to the newly paved **Blue Ridge Transit Route 3** shelter at the end of their property. As the **Blue Ridge Transit Route 3** bus—a standard thirty-five-foot city coach running its regular weekday route between Christiansburg and Radford with its amber LED headsign reading `ROUTE 3 CHRISTIANSBURG / PEPPER PLAZA`—approached along U.S. Route 11 and hissed to a stop, Jordan felt a surge of quiet pride.
 
-```
-ROUTE 3 C-BURG
-```
+He maneuvered his `Vanguard Pro` up the deployed ramp and into the forward securement bay with a practiced ease he hadn't possessed just two short years ago. He didn't need a special ride. He didn't need a favor. He was taking himself to his own wedding.
 
-and:
-
-```
-JUST MARRIED!
-```
-
-As Jordan clicked his `Vanguard Pro` into the forward securement bay surrounded by his brides, his brother, and his constellation, his chest swelled with quiet pride. He didn't need a favor. He didn't need to be carried. He was taking himself to his own wedding.
+His family filed in behind him, their happy chatter filling the front of the bus as it pulled away from their home and headed toward the **Christiansburg Pepper Plaza Transit Center** and downtown Main Street, with Jordan looking out the sunlit window and his hand held firmly in Aubrie Jean's. He was independent. He was free. And he was surrounded by everyone he loved.
 
 ***
 
@@ -20811,14 +20803,14 @@ Then came the seven women of the Pact—walking one by one in sweeping midnight-
 
 ```
 ZOË.Systems.Logs.EmotionalStateLog:
-Date: 07-16-2016
+Date: 07-15-2016
 Time: 13:48:12
 Thread 1 (Self), Thread 3 (Jordan.OS), & Thread 4 (Mark)
 Event: The Ceremony of the Constellation & Dual Bridal Procession.
 Analysis:
 - All 7 Pact bridesmaids (Lauren, Sarah, Jessica, Zoë, Isabel, Megan, Madison) have completed the ceremonial affirmation.
 - Jordan.OS Biometrics: Heart Rate 84 BPM. Sternal graft perfusion: Optimal. Ocular moisture: 100% across entire front row (including Dr. Aris Thorne).
-- Next Sequence: Entrance of Hannah Ashlee Parker and Aubrie Jean Kelly. 07-16-2016 13:48:12
+- Next Sequence: Entrance of Hannah Ashlee Parker and Aubrie Jean Kelly. 07-15-2016 13:48:12
 ```
 
 The string quartet swelled into the chorus of *"My Anchor Holds"* as the double doors opened once more.
@@ -20871,13 +20863,13 @@ And before a single champagne glass was poured for the reception, **Daniel Brook
 
 ### Part 2: The Legal Seal, The Reception, & The First Night
 
-**Date:** 2016-07-16 at 14:45 America/New_York
+**Date:** 2016-07-15 at 14:45 America/New_York
 
-![Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on July 16, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Anderson and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg)
+![Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on Friday, July 15, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Anderson and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg)
 
 #### 2:45 PM — Chamber B: The Legal Seal (`Jordan Shawn Kelly`)
 
-At `14:45` on Saturday afternoon, July 16, 2016, downtown traffic on Main Street in Christiansburg came to a delighted halt as the courthouse deputies waved a wedding procession across the sunlit crosswalk.
+At `14:45` on Friday afternoon, July 15, 2016, downtown traffic on Main Street in Christiansburg came to a delighted halt as the courthouse deputies waved a wedding procession across the sunlit crosswalk.
 
 Rolling at the front of the group in his charcoal three-piece suit was **Jordan**, holding **Aubrie Jean**’s hand as she walked beside his `Vanguard Pro` with the train of her ivory lace gown gathered gracefully over her arm. Right beside them walked **Mark** and **Hannah Anderson**, followed by **Daniel** and **Laura Brooks**, the **Kelly**, **Parker**, and **Anderson** parents, **Elana**, **Stephen**, and **Stella**, and all seven midnight-blue-gowned women of the Pact: **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, and **Megan**.
 
@@ -20901,11 +20893,11 @@ In the quiet courtroom, Jordan sat tall in his `Vanguard Pro`, his left hand cla
 
 <aac>"Your Honor, of my own free will, I ask this Court to change my full legal name to Jordan Shawn Kelly."</aac>
 
-"The Petition is granted," Judge Aldridge declared, signing his name across the bottom of the Final Order with a decisive stroke of his fountain pen and striking his gavel once—a gentle, resonant tap against the walnut block. "From this sixteenth day of July, two thousand and sixteen, forward, the Commonwealth of Virginia recognizes you for all legal, civil, and vital purposes solely as **Jordan Shawn Kelly**."
+"The Petition is granted," Judge Aldridge declared, signing his name across the bottom of the Final Order with a decisive stroke of his fountain pen and striking his gavel once—a gentle, resonant tap against the walnut block. "From this fifteenth day of July, two thousand and sixteen, forward, the Commonwealth of Virginia recognizes you for all legal, civil, and vital purposes solely as **Jordan Shawn Kelly**."
 
 ```
 ZOË.Systems.Logs.KernelLog:
-Date: 07-16-2016
+Date: 07-15-2016
 Time: 14:54:00
 Thread 3 (Jordan.OS) & Thread 1 (Self)
 Priority: PERMANENT SYSTEM UPDATE
@@ -20914,7 +20906,7 @@ Action:
 - Deprecated Identifier Purged: "Aubrey Jordan Fuller" (Legacy Script Terminated; 0 Remaining References).
 - Primary Identity Key Committed: "Jordan Shawn Kelly".
 - Vital Records Status: Amended Virginia Birth Certificate & Marriage License Countersigned under "Jordan Shawn Kelly".
-Conclusion: The Eleventh Child is no longer a footnote in someone else's ledger. He is the author of his own name. 07-16-2016 14:54:00
+Conclusion: The Eleventh Child is no longer a footnote in someone else's ledger. He is the author of his own name. 07-15-2016 14:54:00
 ```
 
 At the clerk’s table, the Chief Deputy Clerk pressed the heavy brass embossing seal of the Commonwealth of Virginia onto four certified copies of the Final Order, an immediately issued amended Virginia birth certificate reading **`JORDAN SHAWN KELLY`**, and the official Commonwealth of Virginia Marriage Register.
@@ -20959,11 +20951,11 @@ During the dinner toasts, **Daniel Brooks** raised his glass to the two brothers
 
 #### 10:45 PM — Return to the Sunken Sanctuary
 
-At `22:45`, under a shower of biodegradable starlight confetti outside the Old Town Ballroom, the newlyweds waved goodbye to their parents and guests—and walked fifty feet down Main Street to the **Blue Ridge Transit Route 3** stop for the last northbound run of the night.
+At `22:45`, under a shower of biodegradable starlight confetti outside the Old Town Ballroom, the newlyweds waved goodbye to their parents and guests—and walked down to catch the last **Blue Ridge Transit Route 3** bus of the evening.
 
-Waiting at the curb under the warm amber streetlamps was their forty-foot **Blue Ridge Transit** coach, its interior lights dimmed to a gentle evening glow as Jordan, Aubrie Jean, Mark, Hannah, Madison, Zoë, Lauren, Sarah, Jessica, Isabel, and Megan boarded together.
+The regular thirty-five-foot **Route 3** coach hummed quietly as it carried them home along the dark ribbon of U.S. Route 11. The boisterous energy of the reception had faded, replaced by a comfortable, contented exhaustion as outside the bus windows, the warm July night air was filled with the song of crickets.
 
-Fifteen minutes later, the bus glided to a smooth halt right in front of their covered shelter at the **U.S. 11 Compound**.
+Fifteen minutes later, the bus glided to a smooth halt right in front of their covered shelter at the **U.S. 11 Compound**, where **Caleb Brooks**—having already driven the van back with the decorations—was waiting for them at the end of the driveway as the bus pulled away.
 
 Inside the quiet, softly lit house, Mark and Hannah hugged them all goodnight on the first floor before heading upstairs hand-in-hand to the second-floor **Anderson Suite**.
 
