@@ -19989,7 +19989,7 @@ As the final brass chord of *"The Stardust Engine"* rang out across the valley, 
 
 "Give it up for our alma mater's pride and joy—the three-hundred-strong **CPI Marching Forgers**!" Cassidy cheered as the stadium roared and the marching band filed proudly down the flanking ramps and exited through the North Field Tunnel—seemingly done for the night.
 
-### Part 3: Acts II, III & IV: Fifty-Two to Nothing, Escape Velocity (Ad Astra) & The Twin Moons
+### Part 3: Act II: Not Your Doll, Fifty-Two to Nothing & The Vault
 
 **Date:** 2016-05-21 at 20:25 America/New_York
 
@@ -20037,6 +20037,10 @@ Sixty-five thousand voices—and Jordan’s `mPad` speaker—roared back as one:
 For nineteen years inside the `Fort Norfolk Compound`, **Aubrie Sinclair** had treated Jordan like a silent, programmable possession who wasn't allowed to have a voice, a choice, or a life of his own. Watching **Cassidy O'Connell** stand front and center before sixty-five thousand people and shatter every cage ever built around her—before following it immediately with the raw, unvarnished grit of 1995's [**"Static"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-07-static) (from [***The Warehouse Tapes***](https://music.raggiesoft.com/artists/the-stardust-engine/1995-the-warehouse-tapes)) and the highway pulse of 2001's [**"Midnight Drivers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-08-midnight-drivers)—Jordan watched Cassidy and Ryan on stage in complete awe.
 
 Seated in a custom-cambered black manual wheelchair built for the stage, Ryan didn't just play lead guitar—he commanded the entire sixty-five-thousand-seat stadium from his chair, spinning effortlessly on his rear wheels during his guitar solos and locking eyes with Evan and Tyler on the drum riser. For Jordan, watching a man in a manual wheelchair headline a sold-out football stadium while sixty-five thousand people screamed his name was a revelation he could feel in his bones.
+
+***
+
+#### 8:45 PM — The North End Zone Scoreboard Overwrite & *The Vault*
 
 Then came Track 9.
 
@@ -20087,71 +20091,154 @@ With **Aubrie Jean**, **Madison**, **Megan**, **Zoë**, and **Mark** cheering wi
 
 To close out **Act II**, the band reached into 2007's archival vault compilation [***Lost Sounds***](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds) for two high-voltage live rarities—Track 10, [**"The Contract"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-10-the-contract) (dedicated to younger sister and CEO **Holly O'Connell** watching from the stage-right monitor bunker), and Track 11, [**"Steel and Synthetics"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-11-steel-and-synthetics), ending on a massive ten-second guitar-and-synthesizer power chord before a digital power-down sweep cut every stadium floodlight tower to pitch black.
 
-***
+### Part 4: Acts III & IV: Escape Velocity (Ad Astra), Cosmic Tidal Lock & Mile Marker 98
 
-#### 8:55 PM — Act III: *Cosmic Tidal Lock* & The 13-Minute Live Premiere of *Escape Velocity (Ad Astra)*
+**Date:** 2016-05-21 at 20:55 America/New_York
 
-In the sudden, breathless darkness of **The Crucible**, sixty-five thousand people looked up at the open Appalachian night sky above the stadium rim.
+![Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst Gibson Les Paul from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg)
 
-Down in `Section 104, Row A, Seat 7`, **Daniel Brooks** gripped the aluminum handrail with both hands as a low, sub-bass analog synthesizer drone and haunting woodwind line drifted out across the field.
+#### 8:55 PM — Act III: *Cosmic Tidal Lock* & The Unthinkable Live Premiere of *Escape Velocity (Ad Astra)*
 
-"Wait... listen to that woodwind and vocalise," Daniel whispered, his voice trembling with disbelief. "They didn't play this in Norfolk in 2005, and it wasn't even written yet in Chicago in 1990. Guys... **Cassidy** is playing the full four-movement suite of [**'Escape Velocity (Ad Astra)'**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=escape-velocity-ad-astra-live-at-the-crucible)!"
+In the sudden, breathless darkness of **The Crucible**, all four towering stadium floodlight banks remained completely extinguished. Sixty-five thousand people looked up at the open Appalachian night sky above the limestone arches, waiting to see what would follow the blistering hard-rock sprint of Act II.
 
-Originally written and recorded by Cassidy in 1995 during the darkest financial depths of the band's Wilderness Years ([***The Warehouse Tapes***](https://music.raggiesoft.com/artists/the-stardust-engine/1995-the-warehouse-tapes)) and later immortalized on Disc 2 (*The Twin Moons*) of 1997's [***Hard Reset***](https://music.raggiesoft.com/artists/the-stardust-engine/1997-hard-reset), **"Escape Velocity (Ad Astra)"** was Cassidy O'Connell's thirteen-minute progressive symphonic rock autobiography—and tonight inside The Crucible would become the **only recorded live concert performance of the suite in the band's entire history**.
+Out on the darkened stage, touring keyboardist **Claire Lindqvist** remained stationed inside the wraparound `Oberheim` and `Juno` synthesizer fortress on the auxiliary riser—while **Cassidy O'Connell** walked all the way out to the front-center lip of the stadium stage, holding a wireless handheld microphone in both hands.
 
-Sequenced in **Astrophysical Launch Order** to open **Act III: *Cosmic Tidal Lock (Moon 1 — Cassidy's Zero-G Orbit)***—first achieving the `11.2 km/s` escape velocity required to break free of terrestrial gravity before coasting to *Apoapsis* and locking into *Moon 1: Tidal Lock*—the thirteen-minute-and-three-second journey unfolded across the stadium like a living rock symphony:
+Then, drifting out across the quiet turf at `0:00`, a low sub-bass analog synthesizer drone and a haunting, lonely woodwind line began to weave through the night air—joined seconds later (`0:28`) by Cassidy’s soaring, operatic wordless vocalise echoing off the upper decks.
 
-* **Movement I — *The Cage* (`0:00–2:38`)**: Beneath cold, claustrophobic searchlights that boxed Cassidy inside her wraparound keyboard rig like a courtroom witness stand, Cassidy’s operatic wordless vocalise gave way to a blistering 16th-note synthesizer arpeggiator and double-kick prog-rock gallop as she confronted the suffocating trauma of the 1992 *Friction* trial and the tabloid media that had turned her into a "victim-saint":
-  > *"The Shark was right, the nuke went off!*<br>
-  > *We won the battle, but at what cost?!*<br>
-  > *We're radioactive, we're litigious!*<br>
-  > *We're just the joke, the victim-saints!*<br>
-  > *I'm trapped inside this Wilderness!*<br>
-  > *This Fortress built on bitterness!*<br>
-  > *This isn't freedom... this is a cell... this righteous hell..."*
-* **Movement II — *Ignition (Ad Astra)* (`2:38–6:30`)**: Out of the dark pulsing sequencer of *The Cage*, **Ryan O'Connell** and **Marcus Vance** ignited the boosters. Twin pillars of crimson and gold stage light shot straight up into the sky as Cassidy belted the high-velocity launch chorus—*"I'm climbing! Climbing! Past the point of no return! / Ad astra! (To the stars!)"*—trading rapid-fire synthesizer and electric guitar arpeggios with Ryan until the rocket boosters hit maximum G-force and **cut off abruptly at `06:30` (Main Engine Cutoff)** to a deafening mid-song eruption of sixty-five thousand cheering Forgers.
-* **Movement III — *The Cosmos* (`6:30–10:45`)**: As the mid-song applause dissolved into weightless, liquid `Oberheim` and `Juno` pads, overhead planetarium lasers and all sixty-five thousand `Engine Room` LED wristbands transformed the dark bowl of The Crucible into a swirling deep-space nebula of reds, blues, and purples. Floating in the zero-gravity silence of the stadium, Cassidy sang the celestial chorus (*"I'm loved by the sun! I'm held by the void! / An orbit just begun! A life not destroyed!"*) before her voice rose into the bridge that defined the very name of **The Stardust Engine** back in 1986:
-  > *"I see the colors of the nebula*<br>
-  > *A place I've only seen in dreams*<br>
-  > *The reds, the blues, the purples call*<br>
-  > *Flowing in majestic streams...*<br>
-  > *This is the place I was meant to be!*<br>
-  > *This is the Stardust that is me!*<br>
-  > *The cosmos and the rocket's fire!*<br>
-  > *My one, my only true desire!*<br>
-  > *Loved by the sun!"*
-* **Movement IV — *Re-entry (The New World)* (`10:45–13:03`)**: Guided home by Ryan’s soaring guitar lead, the full band and **The Orbital Crew** locked into a warm, triumphant stadium-rock groove as the spacecraft plunged back through the atmosphere and splashed down on the coast of a healed new world (*"The Cage is broken, the victim-saint is gone! / A new clean script is in my head! / The friction burned away in the fire! / Leaving only my true desire!"*). At the climax (`11:57`), all sixty-five thousand fans in The Crucible roared ***"HELD BY THE SUN!"*** at the top of their lungs before the band rode three final cries of ***"Ad astra!"*** into a crashing stadium chord at `12:56`.
+Down in `Section 104, Row A, Seat 7`, **Daniel Brooks** froze, his hands gripping the aluminum terrace rail so tightly his knuckles turned white.
 
-As sixty-five thousand people rose to their feet in a thunderous standing ovation that shook the concrete floor, Cassidy stood behind her synthesizers with tears shining behind her glasses, leaned into her microphone at `12:58`, and whispered a breathless, deeply moved:
+"No way..." Daniel breathed, his eyes wide behind his glasses as he turned toward **Mark**, **Zoë**, and **Jordan**. "Are you hearing that woodwind and vocalise?! Do you realize what she's opening with?!"
+
+"Wait—that's the opening movement of [**'Escape Velocity (Ad Astra)'**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=escape-velocity-ad-astra-live-at-the-crucible)!" **Mark** gasped, his jaw dropping. "How is that even possible?! The studio version is **fifteen minutes and thirty-three seconds long**!"
+
+Across every section of **The Crucible**, a wave of stunned, electric disbelief rippled through sixty-five thousand fans as the realization sank in.
+
+Nobody—not even the most obsessive collectors on the Forger Nation forums—had ever expected to hear **"Escape Velocity (Ad Astra)"** performed at a live concert. Originally composed and recorded by Cassidy in 1995 during the darkest financial depths of the band's Wilderness Years ([***The Warehouse Tapes***](https://music.raggiesoft.com/artists/the-stardust-engine/1995-the-warehouse-tapes)) and unleashed in full fidelity as the centerpiece of Disc 2 (*The Twin Moons*) on 1997's [***Hard Reset***](https://music.raggiesoft.com/artists/the-stardust-engine/1997-hard-reset), the studio recording clocked in at a monumental **`15:33`**—a four-movement progressive symphonic rock autobiography that conventional concert wisdom said was simply too long and too intricate for a live stadium show. It hadn't even been written yet when the band recorded 1990's [***Live in Chicago***](https://music.raggiesoft.com/artists/the-stardust-engine/1990-live-in-chicago), and it had been left off the tighter two-hour amphitheater setlist of 2005's [***Live in Norfolk***](https://music.raggiesoft.com/artists/the-stardust-engine/2005-live-in-norfolk).
+
+Tonight inside **The Crucible** would become the **only live performance of *"Escape Velocity (Ad Astra)"* in the band's entire history**—and instead of hiding behind a wall of keyboards, **Cassidy O'Connell** was standing front and center at the edge of the stage to command every single second of its **thirteen-minute-and-three-second (`13:03`)** live stadium arrangement.
+
+```
+ZOË.Systems.Logs.EmotionalStateLog:
+Date: 05-21-2016
+Time: 20:56:12
+Thread 1 (Self) & Thread 3 (Jordan.OS)
+Event: Unannounced Live Stadium Premiere of "Escape Velocity (Ad Astra)" (Track 12 — Act III: Cosmic Tidal Lock).
+Analysis:
+- Studio Benchmark (1995 The Warehouse Tapes / 1997 Hard Reset Disc 2): 15:33.00 (4 Movements).
+- Live Crucible Arrangement: 13:03.17 — sequenced in Astrophysical Launch Order to achieve 11.2 km/s terrestrial escape velocity before coasting to Apoapsis and locking into Moon 1: Tidal Lock.
+- Historical Setlist Probability Prior to 20:55:00: < 0.01% (Zero prior live album appearances; universally assumed unplayable in a stadium format).
+- Stage Blocking: Claire Lindqvist assigned to primary synth matrix; Cassidy O'Connell positioned at front-center stage lip with handheld vocal telemetry.
+Conclusion: Maximum narrative and musical payoff achieved. Initiating 13-minute multi-movement acoustic observation. 05-21-2016 20:56:12
+```
+
+Sequenced at the very top of **Act III: *Cosmic Tidal Lock (Moon 1 — Cassidy's Zero-G Orbit)*** so the concert vessel would physically break free of Earth's gravity before coasting into deep space, all four movements unfolded across the dark Blacksburg valley like a living rock symphony:
+
+##### Movement I — *The Cage* (`0:00–2:38`)
+
+At `1:06`, the gentle woodwind intro shattered into a blistering 16th-note analog synthesizer arpeggiator and **Tyler Wright**’s driving double-kick prog-rock gallop. Cold, claustrophobic white searchlights dropped from the overhead truss to box Cassidy in at the front lip of the stage like a courtroom witness stand as she confronted the suffocating trauma of the 1992 *Friction* trial and the tabloid media circus that had tried to reduce her entire life to a "victim-saint":
+
+> *"The Shark was right, the nuke went off!*<br>
+> *We won the battle, but at what cost?!*<br>
+> *We're radioactive, we're litigious!*<br>
+> *We're just the joke, the victim-saints!*<br>
+> *I'm trapped inside this Wilderness!*<br>
+> *This Fortress built on bitterness!*<br>
+> *This isn't freedom... this is a cell...*<br>
+> *This righteous hell..."*
+
+In `Section 104, Row A, Seat 1`, **Jordan**’s breath caught as Cassidy sang the quiet, trembling bridge at `2:12`—*"The fight is over, the dragon's slain / So why am I still in chains?"* Every survivor of a long war knew that terrifying moment after the battle ended when the courtroom gavel fell, the doors unlocked, and you had to figure out how to stop living inside the fortress of what had been done to you.
+
+##### Movement II — *Ignition (Ad Astra)* (`2:38–6:30`)
+
+At `2:38`, the cage doors blew off their hinges.
+
+Out of a dark, pulsing bass sequencer, **Ryan O'Connell** wheeled his chair right up beside Cassidy at center stage and locked into a roaring, high-G launch riff with **Marcus Vance** as twin pillars of crimson and solar-gold stage light shot straight up into the Appalachian sky. Striding across the stage edge with her microphone, Cassidy belted the explosive launch chorus:
+
+> *"I'm climbing! Climbing! Past the point of no return!*<br>
+> *The engines screaming, watch the bridges burn!*<br>
+> *Pushing through the max-Q, the violent shake!*<br>
+> *Every single promise that I had to break!*<br>
+> *I'm reaching for the sky, I'm breaking the hold!*<br>
+> *A story that has never been told!*<br>
+> *Escape velocity! I'm finally free!*<br>
+> *Ad astra! (To the stars!)*<br>
+> *That's where I'll be!"*
+
+For nearly two full minutes (`4:15–5:52`), Ryan’s screaming sunburst Les Paul and Claire and Cassidy’s dual analog synthesizers traded breathtaking, high-velocity progressive rock solos while the telemetry counter on the 120-foot screen climbed past `11.2 km/s`.
+
+Then, as Cassidy hit the soaring high note of *"Into the silent, endless night!"* (`6:18`), the rocket boosters reached Main Engine Cutoff—and at **`6:30`**, every guitar, bass, and drum on stage cut to sudden, weightless silence as sixty-five thousand people erupted into a deafening mid-song ovation that echoed across the mountains!
+
+##### Movement III — *The Cosmos* (`6:30–10:45`)
+
+As the mid-song roar of the crowd dissolved into liquid, zero-gravity `Oberheim` pads and a slow, floating bass pulse from **Evan Wright**, the 120-foot curved LED wall behind the stage—and all sixty-five thousand synchronized `Engine Room` wristbands across the stadium bowl—bloomed into a breathtaking, three-dimensional deep-space nebula of crimson reds, sapphire blues, ultraviolet purples, and radiant solar gold.
+
+![Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst Gibson Les Paul from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg#fullwidth)
+
+Standing front and center in the glow of sixty-five thousand stars, Cassidy looked up at the glowing stadium tiers and sang the weightless cosmic chorus—*"I'm loved by the sun! I'm held by the void! / An orbit just begun! A life not destroyed!"*—before her voice rose at `8:56` into the sacred bridge that explained the true 1986 origin of **The Stardust Engine**'s name:
+
+> *"I see the colors of the nebula*<br>
+> *A place I've only seen in dreams*<br>
+> *The reds, the blues, the purples call*<br>
+> *Flowing in majestic streams...*<br>
+> *This is the place I was meant to be!*<br>
+> *This is the Stardust that is me!*<br>
+> *The cosmos and the rocket's fire!*<br>
+> *My one, my only true desire!*<br>
+> *Loved by the sun!"*
+
+Beside Jordan in `Section 104, Row A`, **Aubrie Jean** wiped a tear from her cheek and held her glowing violet-and-gold wristband up beside Jordan’s. At `9:48`, Ryan closed his eyes in his wheelchair and played a long, weeping, David Gilmour-style zero-gravity guitar solo that seemed to hang suspended in the mountain air without a single tether to the ground.
+
+##### Movement IV — *Re-entry (The New World)* (`10:45–13:03`)
+
+At `10:45`, the spacecraft angled its heat shield homeward.
+
+With a crisp, syncopated acoustic-and-electric groove from Ryan, Evan, Tyler, and **The Orbital Crew**, the band locked into the triumphant fourth movement as the vessel plunged back through the atmosphere and splashed down in the warm ocean of a healed new world:
+
+> *"The Cage is broken, the victim-saint is gone!*<br>
+> *A new clean script is in my head!*<br>
+> *The friction burned away in the fire!*<br>
+> *Leaving only my true desire!*<br>
+> *I'm not escaping anymore!*<br>
+> *I'm coming home to a brand new shore!"*
+
+At **`11:57`**, Cassidy held her microphone out with both hands toward the stands, and all sixty-five thousand fans in **The Crucible**—along with Jordan’s `mPad` and everyone in `Row A`—roared the four words back at the top of their lungs:
+
+> **`"HELD BY THE SUN!"`**
+
+Riding a massive, joyous stadium-rock outro through three final cries of ***"Ad astra!"*** (`12:24–12:48`), the entire nine-piece band slammed down on a final crashing chord at `12:56`.
+
+For a full minute, the sixty-five-thousand-seat stadium shook with a standing ovation so loud it registered on the campus seismographs in Derring Hall. Standing at the front lip of the stage with tears shining behind her rectangular glasses, Cassidy raised a hand to her heart, leaned into her microphone at **`12:58`**, and whispered a breathless, overwhelmed:
 
 > *"Thank you so much..."*
 
-In `Section 104, Row A`, **Zoë Wren Brooks** adjusted her glasses, recognizing the exact cadence of Cassidy's voice from the archival 1990 *Live in Chicago* tape of *"If You Walked Away"*—except tonight, twenty-six years later, the girl who had once been pushed to the brink of an autistic burnout breakdown on stage was standing in her hometown stadium in pure, unbreakable joy.
+In `Section 104, Row A`, **Zoë Wren Brooks** adjusted her glasses, recognizing the exact cadence of Cassidy's voice from the archival 1990 *Live in Chicago* tape of *"If You Walked Away"*—except tonight, twenty-six years later, the woman who had once been pushed to the brink of an autistic burnout breakdown by a predatory record label had just performed her fifteen-minute-and-thirty-three-second magnum opus front and center in her hometown stadium in pure, unbreakable joy.
 
-Having achieved escape velocity on Track 12, the vessel coasted seamlessly through the rest of **Act III: *Cosmic Tidal Lock***:
-* Track 13 & Track 14: The twin progressive space-rock instrumentals [**"Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=apoapsis-live-at-the-crucible) and [**"Second Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=second-apoapsis-live-at-the-crucible), where Evan’s melodic fretless bass and Ryan’s volume-pedal guitar swells floated across the planetarium laser canopy.
-* Track 15: [**"The Spectrum (True Color)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=the-spectrum-true-color-live-at-the-crucible)—the sweeping space-rock reimagining of *"Electric Color"* (*"And we are seeing the true spectrum! / A billion stars burning ultraviolet and blue"*), foreshadowing the secret AOR finale waiting at the end of the night.
-* Track 16: The signature cosmic anthem [**"Moon 1: Tidal Lock"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-12-moon-1-tidal-lock) (from 1997's *Hard Reset* and 2003's [***Sanctuary [Zero-G]***](https://music.raggiesoft.com/artists/the-stardust-engine/2003-sanctuary-zero-g)), locking the entire stadium into Cassidy’s weightless orbit: *"No matter how I turn, no matter where I fly / You are the only anchor in my sky / Yeah, I'm in a tidal lock with you!"*
+##### Orbiting *Moon 1: Cosmic Tidal Lock* (`Tracks 13–16`)
+
+Having achieved escape velocity on Track 12, the concert vessel coasted seamlessly through the rest of **Act III: *Cosmic Tidal Lock (Moon 1)***:
+* **Track 13 & Track 14**: The twin progressive space-rock instrumentals [**"Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=apoapsis-live-at-the-crucible) and [**"Second Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=second-apoapsis-live-at-the-crucible), where Evan’s melodic fretless bass, Cassidy’s shimmering analog synth arpeggios, and Ryan’s volume-pedal guitar swells floated weightlessly beneath the planetarium laser canopy.
+* **Track 15**: [**"The Spectrum (True Color)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=the-spectrum-true-color-live-at-the-crucible)—the sweeping space-rock reimagining of *"Electric Color"* (*"And we are seeing the true spectrum! / A billion stars burning ultraviolet and blue"*), foreshadowing the secret AOR finale waiting at the end of the night.
+* **Track 16**: The signature cosmic anthem [**"Moon 1: Tidal Lock"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-12-moon-1-tidal-lock) (from 1997's *Hard Reset* and 2003's [***Sanctuary [Zero-G]***](https://music.raggiesoft.com/artists/the-stardust-engine/2003-sanctuary-zero-g)), locking the entire sixty-five-thousand-seat stadium into Cassidy’s weightless orbit: *"No matter how I turn, no matter where I fly / You are the only anchor in my sky / Yeah, I'm in a tidal lock with you!"*
 
 ***
 
 #### 9:28 PM — Act IV: *Roche Limit & Mile Marker 98* (Moon 2 — Ryan's Heavy-Friction Orbit)
 
-As the last shimmering synthesizer pad of *"Moon 1: Tidal Lock"* faded into the starfield, the indigo planetarium lasers suddenly flashed emergency crimson—and **Ryan O'Connell** took the helm for **Act IV: *Roche Limit & Mile Marker 98***, a matching five-song hard-rock counterbalance drawn from Disc 2 of *Hard Reset* and his 2003 solo-led concept album [***Mile Marker 98***](https://music.raggiesoft.com/artists/the-stardust-engine/2003-mile-marker-98):
+As the last shimmering synthesizer pad of *"Moon 1: Tidal Lock"* faded into the starfield, the indigo planetarium lasers suddenly flashed emergency crimson—and **Ryan O'Connell** wheeled forward to take the helm for **Act IV: *Roche Limit & Mile Marker 98***, a matching five-song hard-rock counterbalance drawn from Disc 2 of *Hard Reset* and his 2003 solo-led concept album [***Mile Marker 98***](https://music.raggiesoft.com/artists/the-stardust-engine/2003-mile-marker-98):
 
-* Track 17: [**"Moon 2: Roche Limit"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=moon-2-roche-limit-live-at-the-crucible), shattering the zero-gravity calm with pounding double-kit drums and Ryan’s aggressive, overdriven guitar riff as he sang of crossing the gravitational threshold where a satellite is torn apart by tidal forces.
-* Track 18: The visceral title cut [**"Impact (Mile Marker 98)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=impact-mile-marker-98-live-at-the-crucible), translating the freezing night of December 10, 1990 outside Des Moines—when a speeding car clipped the band's 1988 Holt Freighter van near Mile Marker 98 and left twenty-two-year-old Ryan with a complete T10 spinal cord injury—into a catastrophic collision in a cosmic debris field (*"At Mile Marker 98, I lost the throne! / We're barely alive, but we survived the night!"*).
-* Track 19: [**"Mayday: The Intercept"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-13-mayday-the-intercept), the explosive arena-rock rescue anthem celebrating how Cassidy, Holly, Evan, and Tyler tracked his telemetry through the darkness and pulled the Engine from the fire.
-* Track 20: [**"Star City: Orbital Ward"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=star-city-orbital-ward-live-at-the-crucible), introduced by the calm voice of the Engine Room Records Planetarium Narrator over a rhythmic heartbeat monitor before Ryan launched into a heavy, stomping 1980s hard-rock chronicle of **"Protocol T-10"**—running his life on a four-hour catheterization and hydration clock, shifting his weight every fifteen minutes in his wheelchair, and relying on Evan and Tyler's synchronized "Freight Dog" lifts.
-* Track 21: [**"Twin Moons: Touchdown"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=twin-moons-touchdown-live-at-the-crucible), the triumphant sibling duet uniting both halves of the *Twin Moons* project—Ryan’s heavy distorted guitar and Cassidy’s sweeping analog synthesizers locking into unison (*"The Engine and the Anchor locking into the groove / We finally found the gravity, we're ready to move! / Touchdown!"*) to bring the spacecraft safely down on solid ground in Blacksburg.
+* **Track 17 — [*"Moon 2: Roche Limit"*](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=moon-2-roche-limit-live-at-the-crucible)**: Shattering the zero-gravity calm with pounding double-kit drums from Tyler and Doc Holloway and an aggressive, overdriven guitar riff, Ryan sang of crossing the astrophysical Roche limit—the gravitational threshold where an orbiting body is torn apart by tidal forces (*"Inside the Roche limit, the hull begins to tear / Searching for a frequency in the freezing air!"*).
+* **Track 18 — [*"Impact (Mile Marker 98)"*](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=impact-mile-marker-98-live-at-the-crucible)**: With the 120-foot screen displaying a blinding snowstorm morphing into a high-velocity asteroid debris field, Ryan tore into the visceral title track of *Mile Marker 98*, translating the freezing night of December 10, 1990 on Interstate 80 outside Des Moines—when a speeding car clipped the band's 1988 Holt Freighter van near Mile Marker 98 and left twenty-two-year-old Ryan with a complete T10 spinal cord injury—into a catastrophic collision in deep space (*"At Mile Marker 98, I lost the throne! / We're barely alive, but we survived the night!"*).
+* **Track 19 — [*"Mayday: The Intercept"*](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-13-mayday-the-intercept)**: The explosive arena-rock rescue anthem celebrating how Cassidy, Holly, Evan, and Tyler refused to let the crash end their brother's life, locking onto his emergency beacon and pulling the Engine from the wreckage.
+* **Track 20 — [*"Star City: Orbital Ward"*](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=star-city-orbital-ward-live-at-the-crucible)**: Introduced by the calm voice of the Engine Room Records Planetarium Narrator over a rhythmic medical heartbeat monitor (*"In the aftermath of a catastrophic impact, survival is no longer a matter of velocity, but of protocol..."*), Ryan launched into a heavy, stomping 1980s hard-rock chronicle of **"Protocol T-10"**—running his life on a strict four-hour intermittent catheterization and hydration clock, shifting his weight every fifteen minutes in his manual chair to prevent pressure sores, and relying on Evan and Tyler's synchronized "Freight Dog" lifts whenever a stage or tour bus lacked a ramp.
+* **Track 21 — [*"Twin Moons: Touchdown"*](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=twin-moons-touchdown-live-at-the-crucible)**: The triumphant sibling duet uniting both halves of the *Twin Moons* project—Ryan’s heavy distorted Gibson Les Paul and Cassidy’s sweeping analog synthesizers locking into unison (*"The Engine and the Anchor locking into the groove / We finally found the gravity, we're ready to move! / Touchdown!"*) to bring the spacecraft safely down on solid ground in Blacksburg.
 
 As the final chord of *"Twin Moons: Touchdown"* faded into a warm synthesizer drone and the Planetarium Narrator spoke across the PA—*"Atmospheric entry complete. Gravity is stable... The simulation is now concluded. Please exit safely, and welcome home"*—the towering stadium light rigs slowly dimmed to black.
 
-### Part 4: Acts V & VI: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights
+### Part 5: Acts V & VI: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights
 
 **Date:** 2016-05-21 at 21:50 America/New_York
 
-![Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL • AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/brothers-keeper-acoustic-spotlight.jpg)
+![Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL • AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/brothers-keeper-acoustic-spotlight.jpg)
 
 #### 9:50 PM — Act V: *Our Own Frequency*, The Summer Festival Announcement, & *Brother's Keeper*
 
@@ -20238,11 +20325,11 @@ As Cassidy sang softly, *"Lights out on Progress Street... goodnight, Forger Nat
 
 Every light on the stage clicked off to pitch black.
 
-### Part 5: Act VII: Electric Color (Live at the Crucible) & The Departure Loop
+### Part 6: Act VII: Electric Color (Live at the Crucible) & The Departure Loop
 
 **Date:** 2016-05-21 at 22:40 America/New_York
 
-![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Cooper.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/electric-color-rainbow-reclamation.jpg)
+![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Cooper.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/electric-color-rainbow-reclamation.jpg)
 
 #### 10:40 PM — Act VII: *Electric Color (Live at the Crucible)*
 
