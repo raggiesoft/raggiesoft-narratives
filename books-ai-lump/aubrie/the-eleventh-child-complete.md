@@ -19864,7 +19864,7 @@ The pneumatic doors hissed open, the front suspension kneeled to the curb, and t
 
 "Afternoon, folks!" the BRT operator beamed, tipping his cap to Jordan and Mark—both of whom were well-known regulars to almost every driver on the Christiansburg and Blacksburg routes. "All sixteen of you headed up to see **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**?"
 
-<aac>"Yes sir! Section 104, Row A! Thank you for the lift!"</aac> Jordan tapped on his `mPad` as he rolled smoothly up the ramp and locked his `Vanguard Pro` into the forward securement bay right next to Stella’s folded stroller.
+<aac>"Yes sir! Section 104, Row A! Thank you for the lift!"</aac> Jordan tapped on his `mPad`. Pivoting his `Vanguard Pro` 180 degrees on the wide concrete sidewalk so his back faced the open bus doors—a veteran transit technique he had taught himself over the past year so his large rear drive wheels could climb the incline first and glide straight into the wheelchair bay without having to execute a tight multi-point U-turn between the front wheel wells—Jordan gripped his push-rims, backed himself smoothly up the ramp, and locked into the forward securement bay right next to Stella’s folded stroller.
 
 Every seat and standing handrail on the sixty-foot coach quickly filled with CPI students and alumni wearing maroon jerseys and vintage band shirts. As the shuttle glided up U.S. Route 460 Business into Blacksburg and turned onto the dedicated transit-only lane leading into the **Crucible Bus Loop**, Jordan looked out the wide window. Along the side streets, private lawn lots were waving hand-painted cardboard signs reading **`CONCERT PARKING $50 CASH ONLY — FULL`**, while frustrated out-of-town SUVs sat bumper-to-bumper in the heat.
 
@@ -19915,6 +19915,8 @@ Conclusion: The Crucible has been successfully overwritten in Jordan.OS memory a
 
 Jordan locked his wheel brakes in `Seat 1`, with **Aubrie Jean** in `Seat 2`, **Madison** in `Seat 3`, and **Megan** in `Seat 4`, followed in an unbroken row by **Mark**, **Hannah**, **Daniel**, **Laura**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Elana**, **Stephen**, and **Stella**.
 
+![At 6:00 PM golden hour inside The Crucible stadium from the Section 104, Row A accessible terrace behind the front railing, Jordan Fuller sits happily in his manual wheelchair wearing a maroon CPI shirt, rectangular glasses, and a gold ticket lanyard alongside Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson looking across the green turf toward the concert stage on the front-left.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/section-104-row-a-arrival.jpg#fullwidth)
+
 Jordan looked up at the towering limestone stands rising against the golden early-evening sky of Blacksburg. Then he looked down the row at the fifteen people laughing and adjusting their concert lanyards beside him. He tapped his `mPad`:
 
 <aac>"In September 2014, I had to be carried out of this stadium at halftime because I thought my mother's world was going to crush me. Tonight I am in Row A with everyone I love."</aac>
@@ -19961,23 +19963,60 @@ Filing down the wide sidelines and climbing the flanking stage ramps in locked s
 
 "No way!" **Daniel** gasped, standing up in `Seat 7` and adjusting his glasses in disbelief. "Why is the entire marching band coming out on stage before the band even takes the field?!"
 
-Before anyone in `Row A` could guess, a solitary, earth-shaking sound echoed across the dark valley like the heartbeat of a foundry—the unmistakable strike of a fifteen-ton iron anvil:
+Over a faint, warm analog synthesizer pad humming from **Cassidy O'Connell**’s center-stage riser, a solitary spotlight illuminated **Ryan O'Connell** as he rolled his manual wheelchair out to the front edge of the stage. When Ryan leaned into the center microphone, his gravelly voice echoed intimately across the sixty-five-thousand-seat valley:
 
-***CLANG!***
+> *"Thirty years ago... We were just five kids in a garage on Progress Street. We didn't have a record deal... We didn't have a tour bus... All we had was a cassette tape... and an idea."*
 
-Across all sixty-five thousand seats, every white wristband suddenly flashed molten orange on the strike.
+Across `Section 104, Row A`, **Mark** grabbed **Daniel**’s sleeve with wide eyes as Ryan’s voice rose to a commanding roar:
 
-***CLANG!***
+> *"We entered a contest to write a song for this stadium. We wanted to make something loud enough... To scare the HELL out of anyone who dared to come into our house!"*
 
-Sixty-five thousand CPI students and alumni didn't need a prompt. Recognising the sacred pre-game cadence of every football Saturday in Blacksburg, sixty-five thousand pairs of boots began to stomp the concrete-and-steel bleachers in unison—*BOOM-BOOM-CLAP! BOOM-BOOM-CLAP!*—until the entire limestone bowl of **The Crucible** shook under Jordan’s wheels.
+The entire stadium bowl erupted in a tidal wave of cheers as Ryan grinned out at the sea of maroon and burnt orange:
 
-In `Seat 1`, Jordan felt the rhythmic 120-BPM vibration travel straight up from the concrete terrace through his caster forks and into his chest. Twenty months ago, the roar of this stadium had terrified him into silence. Now, with **Aubrie Jean**’s left hand laced through his fingers and **Mark** and **Daniel** stomping the concrete beside his right wheel, the thunder of the stadium felt like sixty-five thousand friends standing guard around his chair.
+> *"For thirty years... you guys have been stomping your feet to our song every single Saturday. So tonight... for the 30th Anniversary... Let's see if we can break the seismographs!"*
 
-Stage pyrotechnics detonated in twin columns of Foundry Maroon and Molten Orange as **Tyler Wright**’s double-kick drums and **The Engine Room**’s thirty Kevlar marching snares slammed in together, **Evan Wright**’s bass locked into the heavy industrial groove, **Cassidy O'Connell**’s analog synthesizer brass blazed across the night sky, and **Ryan O'Connell** rolled forward to the center microphone in his manual wheelchair, his custom electric guitar screaming out the iconic 1986 stadium entrance riff of [**"Ignition: The Forger's Call"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-01-ignition-the-forgers-call).
+**Tyler Wright** unleashed a massive, thundering drum fill across his double-kick kit, and Ryan threw his head back and screamed into the microphone:
 
-"Are you kidding me?!" Daniel yelled over the roar to Mark and Jordan, his face lit up like a freshman again. "For thirty years you could only hear the stadium tape of *'Ignition'* at football games! They've NEVER played it live at a concert before!"
+***"IGNITION!"***
 
-"STRIKE THE IRON! LIGHT THE FLAME!" Cassidy roared into the microphone as all three hundred Marching Forgers raised their horns to the stars and blew the roof off the valley. "THIS IS THE CRUCIBLE! CALL OUR NAME!"
+Sixty-five thousand voices roared back as one:
+
+***"IGNITION!"***
+
+Then came the solitary, earth-shaking sound that echoed across the dark valley like the heartbeat of a foundry—Tyler’s sledgehammer striking the salvaged steel brake-drum anvil (`TING...`) followed by the synchronized stomp of sixty-five thousand pairs of boots on the galvanized steel bleachers of **The Anvil** (`BOOM!`):
+
+***TING... BOOM!***
+
+Across all sixty-five thousand seats, every white wristband flashed molten orange on the strike.
+
+***TING... BOOM!***
+
+In `Seat 1`, Jordan felt the heavy, slow-stomping industrial riff and the rhythmic vibration travel straight up from the concrete terrace through his caster forks and into his chest. Twenty months ago, the roar of this stadium had terrified him into silence. Now, with **Aubrie Jean**’s left hand laced through his fingers and **Mark** and **Daniel** stomping the concrete beside his right wheel, the thunder of the stadium felt like sixty-five thousand friends standing guard around his chair.
+
+Stage pyrotechnics detonated in twin columns of Foundry Maroon and Molten Orange as **Tyler Wright**’s double-kick drums and **The Engine Room**’s thirty Kevlar marching snares slammed in together, **Evan Wright**’s bass locked into the heavy industrial groove, **Cassidy O'Connell**’s analog synthesizer brass blazed across the night sky, and **Ryan O'Connell**’s custom sunburst guitar screamed out the iconic 1986 stadium entrance riff of [**"Ignition: The Forger's Call"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-01-ignition-the-forgers-call) ([1986 Progress Street Cassette Demo](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds?track=1-14-ignition-the-forgers-call-1986-cassette-demo)):
+
+> *"The lights go dark... the tension builds...*
+> *A single pounding heavy sound...*
+> *The hammer striking on the steel...*
+> *It shakes the air... it shakes the ground!*
+> *The pressure's on... the time is now...*
+> *We're here to forge our name!*
+> *The spark is lit... the fire burns—"*
+
+Ryan leaned into the microphone and shouted a ferocious live ad-lib straight at the scoreboard above the South End Zone:
+
+> ***"We're taking the Anchor BACK to the Mountains!"***
+
+"Are you kidding me?!" Daniel yelled over the roar to Mark and Jordan, his face lit up like a freshman again. "For thirty years you could only hear the 1986 cassette tape of *'Ignition'* over the stadium PA at football games! They've NEVER played it live at a concert before!"
+
+> *"IGNITION!"*
+> ***"IGNITION!"***
+> *"This is the Forger's Call!*
+> *IGNITION!"*
+> ***"IGNITION!"***
+> *"We're standing ten feet tall!*
+> *We are the hammer, we're the flame—*
+> *This is our house, this is our game!"*
 
 As the final pyrotechnic burst of *"Ignition"* echoed off the upper deck, Jordan half-expected the marching band to wave and file back down the ramps—but Tyler didn't even pause for a breath. He snapped four crisp snare rimshots, and the four members of **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)** fused with all three hundred **CPI Marching Forgers** to tear straight into the official university fight song, [**"CPI Tech Triumph: The Marching Forgers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-02-cpi-tech-triumph-the-marching-forgers).
 
@@ -19990,6 +20029,8 @@ As the fight song crashed to a triumphant brass finish, the stadium lights shift
 Jordan’s breath caught as he recognized the opening notes of [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-03-the-stardust-engine)—the very first song Ryan, Cassidy, Evan, and Tyler had ever written together at CPI in 1986 celebrating their love of the cosmos and the rockets that take you there.
 
 When all three hundred brass horns of the **CPI Marching Forgers** joined Cassidy’s analog synthesizer fanfare and Ryan’s soaring guitar lead on the chorus, Jordan’s eyes shone behind his glasses.
+
+![On stage inside The Crucible during 'The Stardust Engine', Ryan O'Connell plays a soaring lead on his sunburst Les Paul electric guitar from his manual wheelchair on stage-left while Cassidy O'Connell sings and plays her wraparound analog synthesizer rig at center-right, backed by Evan Wright, Tyler Wright, and the 300 uniformed brass and percussionists of the CPI Marching Forgers under deep cosmic-violet nebula projections.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/stardust-engine-300-marching-forgers.jpg#fullwidth)
 
 At halftime of the September 2014 Homecoming game, the **CPI Marching Forgers** had played *"The Stardust Engine"* on this exact turf while Jordan sat frozen in terror staring at a `24–0` scoreboard. Tonight, hearing the Marching Forgers play *"The Stardust Engine"* alongside Ryan, Cassidy, Evan, and Tyler while he sang along with his family in `Row A`, the first piece of that September 2014 ghost dissolved into the warm night air.
 
@@ -20250,7 +20291,7 @@ Instead, a canopy of cool indigo planetarium lasers fanned out overhead from the
 
 "Wait a second," **Mark** whispered to Jordan and Daniel as the second instrumental flowed directly into the sweeping cosmic chords of [**"The Spectrum (True Color)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=the-spectrum-true-color-live-at-the-crucible)—*"And we are seeing the true spectrum! / A billion stars burning ultraviolet and blue"*—before locking into the signature weightless chorus of [**"Moon 1: Tidal Lock"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-12-moon-1-tidal-lock). "They launched into space with *'Escape Velocity'*, and now they're playing Cassidy's entire *Moon 1* orbit in order!"
 
-"And look—they played *'The Spectrum'* instead of the 1987 pop version of *'Electric Color'*," Daniel nodded knowingly as sixty-five thousand fans swayed under the indigo laser canopy, singing along to *"Moon 1: Tidal Lock"*: *"No matter how I turn, no matter where I fly / You are the only anchor in my sky / Yeah, I'm in a tidal lock with you!"*
+"And look—they played *'The Spectrum'* instead of *'Electric Color'*," Daniel nodded knowingly as sixty-five thousand fans swayed under the indigo laser canopy, singing along to *"Moon 1: Tidal Lock"*: *"No matter how I turn, no matter where I fly / You are the only anchor in my sky / Yeah, I'm in a tidal lock with you!"*
 
 Jordan rested his head back slightly against his headrest, letting the cool indigo starlight and the gentle sway of **Aubrie Jean** and **Madison** beside him wash over his chair.
 
@@ -20261,6 +20302,8 @@ Every indigo planetarium laser overhead flashed emergency crimson.
 A low, urgent klaxon warning tone echoed across the stadium bowl, **Tyler Wright** and **Doc Holloway** slammed into a violent, pounding double-kit drumbeat, and **Ryan O'Connell** wheeled forward to the center microphone, tearing into the aggressive, overdriven guitar riff of [**"Moon 2: Roche Limit"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=moon-2-roche-limit-live-at-the-crucible)—*"Inside the Roche limit, the hull begins to tear / Searching for a frequency in the freezing air!"*
 
 "Now Ryan's answering Cassidy's orbit with *Moon 2* and [***Mile Marker 98***](https://music.raggiesoft.com/artists/the-stardust-engine/2003-mile-marker-98)!" Daniel gasped.
+
+![During 'Moon 2: Roche Limit' inside The Crucible, Ryan O'Connell sits front and center in his manual wheelchair playing an aggressive riff on his sunburst Les Paul electric guitar while Cassidy O'Connell plays her synthesizer rig behind him and the 120-foot curved LED screen displays a fracturing moon glowing with molten-gold and crimson fissures under emergency crimson planetarium lasers.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/roche-limit-twin-moons-touchdown.jpg#fullwidth)
 
 Before the crowd could even catch its breath, the 120-foot curved screen behind the band dissolved into a blinding Iowa snowstorm that morphed into a high-velocity asteroid debris field as Ryan launched straight into [**"Impact (Mile Marker 98)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=impact-mile-marker-98-live-at-the-crucible)—translating the freezing night of December 10, 1990 on Interstate 80 outside Des Moines, when a speeding car clipped the band's tour van near Mile Marker 98 and left twenty-two-year-old Ryan with a complete T10 spinal cord injury, into a catastrophic collision in deep space (*"At Mile Marker 98, I lost the throne! / We're barely alive, but we survived the night!"*).
 
@@ -20355,6 +20398,8 @@ From the lower bowl to the top rim of the upper decks, sixty-five thousand peopl
 Then the stage lights softened to warm candlelight gold, and Cassidy began the sweeping 1987 piano ballad [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-21-my-anchor-holds)—the exact song Jordan and **Aubrie Jean** had chosen for their wedding processional two months from now.
 
 Throughout the entire song, Aubrie Jean stood directly behind Jordan’s wheelchair with her arms wrapped warmly around his chest and her chin resting on his shoulder, swaying with **Madison**, **Megan**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**, while **Daniel** and **Laura** danced slow and close in the aisle beside **Mark** and **Hannah**, and little **Stella** slept peacefully in **Stephen** and **Elana**’s arms under her pink ear defenders.
+
+![During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, Jordan Fuller sits peacefully in his wheelchair at the Section 104, Row A railing while Aubrie Jean Kelly wraps her arms warmly around his shoulders beside Madison Scott, Zoë Wren Brooks, and Mark Anderson.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/my-anchor-holds-section-104.jpg#fullwidth)
 
 After one more explosive burst of fireworks on the comeback anthem [**"Reignition: Lights Up on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-22-reignition-lights-up-on-progress-street), the clock on the stadium fascia ticked past `10:35 PM`, and the band eased into the warm, nostalgic groove of [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-23-last-bus-home-lights-out-on-progress-street).
 
@@ -20516,9 +20561,9 @@ BLUEWATER via CBURG TRANS CTR
 
 Continuing up the island to **Sector 4**, they reached the **Blue Ridge Transit** queue, where articulated shuttles were loading thousands of CPI students and Christiansburg residents with clockwork precision:
 
-To their left, an articulated bus idled with its sign cycling between **`FOXRIDGE`** and **`FORGERS SHUTTLE`** (*"Shuttle to Foxridge. GO FORGERS!"*). Ahead of them, another coach loaded a crowd bound for **`HETHWOOD`** / **`FORGERS SHUTTLE`** (*"Shuttle to Hethwood. GO FORGERS!"*).
+To their left, an articulated bus idled with its sign cycling between **`FOXRIDGE`** and **`GO FORGERS!`** (*"Shuttle to Foxridge. GO FORGERS!"*). Ahead of them, another coach loaded a crowd bound for **`HETHWOOD`** / **`GO FORGERS!`** (*"Shuttle to Hethwood. GO FORGERS!"*).
 
-And directly in front of them at the curb, an articulated **Blue Ridge Transit** shuttle waited with its kneeling ramp already deploying and its destination sign cycling between:
+And directly in front of them at the curb, an articulated **Blue Ridge Transit** shuttle waited with its front-door kneeling ramp already deploying and its destination sign alternating between:
 
 ```
 CBURG TRANS CTR
@@ -20527,14 +20572,16 @@ CBURG TRANS CTR
 and:
 
 ```
-FORGERS SHUTTLE
+GO FORGERS!
 ```
 
 *"Shuttle to Christiansburg Transit Center. GO FORGERS!"*
 
 "Look at that dispatch headway, J!" Mark grinned as the transit supervisors waved their sixteen-person group straight onto the waiting articulated coach. "Sub-ninety-second bus loading for sixty-five thousand people, while the `$50` cash parking lots haven't even made it out of the first row yet!"
 
-<aac>"Best transit system in the Commonwealth,"</aac> Jordan tapped happily on his `mPad` as he rolled up the ramp and locked his `Vanguard Pro` into the forward bay. <aac>"And the best night of Sophomore Year."</aac>
+<aac>"Best transit system in the Commonwealth,"</aac> Jordan tapped happily on his `mPad`. Turning his chair around on the wide concrete island at the base of the front-door ramp, he gripped his push-rims and backed his `Vanguard Pro` smoothly up the incline in reverse—rolling straight back into the forward wheelchair securement bay in one effortless motion without having to wrestle a multi-point U-turn inside the crowded vestibule. <aac>"And the best night of Sophomore Year."</aac>
+
+![At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, Jordan Fuller backs his manual wheelchair smoothly up the front-door low-floor ramp in reverse into a white-and-maroon Blue Ridge Transit articulated shuttle displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on its amber LED destination sign, smiling toward Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/crucible-bus-loop-forgers-shuttle.jpg#fullwidth)
 
 As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the **Christiansburg Transit Center**—one short block from `414 Geneva Street`—**Aubrie Jean** sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while **Mark** leaned across the aisle toward **Hannah** and Jordan with a quiet, meaningful smile.
 
