@@ -19955,6 +19955,10 @@ Jordan looked up at the towering limestone stands rising against the golden earl
 
 Daniel leaned across Mark’s shoulder, his eyes glistening behind his glasses as he clapped a warm hand on Jordan’s armrest. "You were never broken, Jordan. You just needed the right crew—and the right night to take this house back."
 
+***
+
+> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read this exact `15:00–19:30` pre-show window from backstage inside the South End Zone locker room in [**The Stardust Engine — Book 6, Chapter 1, Part 1: *Protocol T-10, The $15M Lockout & Operation Anvil***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-1-protocol-t-10-the-15m-lockout-operation-anvil) (or in the [**Cosmic Novel Reader at `stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
+
 ### Part 2: The Anvil Strike & The Marching Forgers
 
 **Date:** 2016-05-21 at 19:55 America/New_York
@@ -20069,6 +20073,10 @@ At halftime of the September 2014 Homecoming game, the **CPI Marching Forgers** 
 As the final brass chord of *"The Stardust Engine"* rang out across the valley, Ryan and Cassidy saluted the three hundred student musicians:
 
 "Give it up for our alma mater's pride and joy—the three-hundred-strong **CPI Marching Forgers**!" Cassidy cheered as the stadium roared and the marching band filed proudly down the flanking ramps, waving to the lower bowl as they disappeared back into the North Field Tunnel.
+
+***
+
+> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Act I from onstage as Ryan spots Jordan in `Section 104, Row A, Seat 1` on the camera-crane monitor and rolls out into the spotlight in [**The Stardust Engine — Book 6, Chapter 1, Part 2: *Act I: The Anvil Strike & The Marching Forgers***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-2-act-i-the-anvil-strike-the-marching-forgers) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
 
 ### Part 3: Not Your Doll & Fifty-Two to Nothing
 
@@ -20185,6 +20193,10 @@ When the stadium finally finished roaring the `52–0` chorus, Cassidy walked ov
 "This next one is from the *Lost Sounds* vault—for our little sister Holly, who took a one-dollar bill in nineteen eighty-six and saved our lives!" Cassidy called out, launching the band into two blistering rarities from [***Lost Sounds***](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds): [**"The Contract"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-10-the-contract) and [**"Steel and Synthetics"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-11-steel-and-synthetics).
 
 On the final ten-second guitar-and-synthesizer chord of *"Steel and Synthetics"*, a deep, sub-bass power-down sweep echoed through the stadium PA—and every floodlight tower around **The Crucible** abruptly plunged into total darkness.
+
+***
+
+> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Act II from onstage as Ryan points his guitar neck at the North End Zone scoreboard for *"Fifty-Two to Nothing"* and salutes Jordan in `Section 104, Row A, Seat 1` in [**The Stardust Engine — Book 6, Chapter 1, Part 3: *Act II: The Orbital Crew, Not Your Doll & Fifty-Two to Nothing***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-3-act-ii-the-orbital-crew-not-your-doll-fifty-two-to-nothing) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
 
 ### Part 4: Escape Velocity (Ad Astra), Tidal Lock & Mile Marker 98
 
@@ -20346,6 +20358,10 @@ From `Seat 1`, Jordan gripped his armrests, completely transfixed, as Ryan’s h
 
 As the final chord of *"Twin Moons: Touchdown"* faded into a warm synthesizer drone and the planetarium narrator’s voice echoed softly across the bowl—*"Atmospheric entry complete. Gravity is stable... The simulation is now concluded. Please exit safely, and welcome home"*—the towering stadium light rigs slowly dimmed to black.
 
+***
+
+> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Acts III & IV from onstage as Ryan triggers the `06:30` Main Engine Cutoff of *"Ad Astra"* and leads the *Mile Marker 98* counterbalance in [**The Stardust Engine — Book 6, Chapter 1, Part 4: *Acts III & IV: Ad Astra, Cosmic Tidal Lock & Mile Marker 98***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-4-acts-iii-iv-ad-astra-cosmic-tidal-lock-mile-marker-98) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
+
 ### Part 5: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights
 
 **Date:** 2016-05-21 at 21:50 America/New_York
@@ -20442,6 +20458,10 @@ In `Seat 1`, Jordan felt a warm, peaceful glow settle over his chest. They had h
 As Cassidy sang softly into her microphone, *"Lights out on Progress Street... goodnight, Forger Nation,"* Ryan reached over and flipped the main toggle switch on his amplifier rack.
 
 Every light on the stage clicked off to pitch black.
+
+***
+
+> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Acts V & VI from center stage as Ryan locks his wheelchair brakes flush against Cassidy's piano bench to introduce *"Brother's Keeper"* and spots Jordan and Aubrie Jean during *"My Anchor Holds"* in [**The Stardust Engine — Book 6, Chapter 1, Part 5: *Acts V & VI: Brother's Keeper, The Summer Festival & Saturday Night Lights***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-5-acts-v-vi-brother-s-keeper-the-summer-festival-saturday-night-lights) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
 
 ### Part 6: Electric Color (Live at the Crucible) & The Ride Home
 
@@ -20620,6 +20640,10 @@ As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided d
 "Next stop," Mark said softly over the gentle hum of the bus, "Friday, July first move-in at the U.S. 11 compound. And then Friday, July fifteenth... the Double Wedding, and a quick trip across the street while the Montgomery County Courthouse is open."
 
 Jordan looked down at his `Poly Pass` lanyard resting against his commemorative *Live at the Crucible* ticket stub—one of the last big nights he would ever wear the name `Jordan Fuller`—and squeezed Aubrie Jean’s hand with a full, peaceful smile.
+
+***
+
+> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Act VII from onstage as 300 CPI Marching Forgers silently file out in the dark for the `1:40` reveal of *"Electric Color"* and Ryan spots Jordan boarding the Blue Ridge Transit shuttle in reverse before returning home to Progress Street in [**The Stardust Engine — Book 6, Chapter 1, Part 6: *Act VII: Electric Color & Lights Out on Progress Street***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-6-act-vii-electric-color-lights-out-on-progress-street) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
 
 # Summer 2016
 

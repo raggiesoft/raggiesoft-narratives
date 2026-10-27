@@ -151,6 +151,10 @@ In the front row of the trumpet section, a senior squad leader grinned from ear 
 
 "In 1980s Stadium Rock," Cassidy smiled. "Let's go blow the roof off the valley."
 
+***
+
+> **Companion Perspective (*The Eleventh Child* — Jordan Fuller's POV):** Read this exact `15:00–19:30` pre-show window from the Crucible Shuttle, the Forger Nation Tailgate Plaza, and `Section 104, Row A, Seat 1` in [**The Eleventh Child — Spring Semester 2016, Part 1: *The Crucible Shuttle & The Forger Nation Tailgate***](https://books.raggiesoft.com/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-1-the-crucible-shuttle-the-forger-nation-tailgate) • Explore the band's full cosmic archive at [**`stardust.raggiesoft.com`**](https://stardust.raggiesoft.com).
+
 ### Part 2: Act I: The Anvil Strike & The Marching Forgers
 
 **Date:** 2016-05-21 at 19:55 America/New_York
@@ -243,6 +247,10 @@ As the final chord echoed across the Blue Ridge foothills and the 300 Marching F
 
 *Just wait until 10:45,* he thought.
 
+***
+
+> **Companion Perspective (*The Eleventh Child* — Jordan Fuller's POV):** Read Act I (`19:55–20:25`) from the front railing of `Section 104, Row A, Seat 1` as the camera crane sweeps overhead and the 300 CPI Marching Forgers take the stage in [**The Eleventh Child — Spring Semester 2016, Part 2: *The Anvil Strike & The Marching Forgers***](https://books.raggiesoft.com/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-2-the-anvil-strike-the-marching-forgers) • Explore the band's full cosmic archive at [**`stardust.raggiesoft.com`**](https://stardust.raggiesoft.com).
+
 ### Part 3: Act II: The Orbital Crew, Not Your Doll & Fifty-Two to Nothing
 
 **Date:** 2016-05-21 at 20:25 America/New_York
@@ -316,6 +324,10 @@ Closing out Act II, the band dug deep into their 2007 archival compilation [**Lo
 And on the final crashing downbeat of *"Steel and Synthetics"*, the master lighting relay inside the stadium press box threw its main breaker switch.
 
 All four towering stadium floodlight banks went completely dark.
+
+***
+
+> **Companion Perspective (*The Eleventh Child* — Jordan Fuller's POV):** Read Act II (`20:25–20:55`) from `Section 104, Row A, Seat 1` as Jordan watches the `0–38` September 2014 scoreboard trauma permanently overwritten by **`CPI 52 — VDU 0`** in [**The Eleventh Child — Spring Semester 2016, Part 3: *Not Your Doll & Fifty-Two to Nothing***](https://books.raggiesoft.com/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-3-not-your-doll-fifty-two-to-nothing) • Explore the band's full cosmic archive at [**`stardust.raggiesoft.com`**](https://stardust.raggiesoft.com).
 
 ### Part 4: Acts III & IV: Ad Astra, Cosmic Tidal Lock & Mile Marker 98
 
@@ -415,6 +427,10 @@ There was no self-pity in the way Ryan played it—only forty-eight-year-old mus
 
 Finally, as Cassidy stepped up beside his wheelchair for the closing sibling duet of [**"Twin Moons: Touchdown"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=twin-moons-touchdown-live-at-the-crucible), Ryan locked his distorted Les Paul into unison with her analog synth brass (*"The Engine and the Anchor locking into the groove / We finally found the gravity, we're ready to move! / Touchdown!"*), bringing both Twin Moons down out of the freezing vacuum of space and landing them safely on solid ground in Blacksburg.
 
+***
+
+> **Companion Perspective (*The Eleventh Child* — Jordan Fuller's POV):** Read Acts III & IV (`20:55–21:50`) from `Section 104, Row A, Seat 1` as 65,000 wristbands turn the stadium bowl into a living deep-space nebula for *"Escape Velocity (Ad Astra)"* and *"Mile Marker 98"* in [**The Eleventh Child — Spring Semester 2016, Part 4: *Escape Velocity (Ad Astra), Tidal Lock & Mile Marker 98***](https://books.raggiesoft.com/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-4-escape-velocity-ad-astra-tidal-lock-mile-marker-98) • Explore the band's full cosmic archive at [**`stardust.raggiesoft.com`**](https://stardust.raggiesoft.com).
+
 ### Part 5: Acts V & VI: Brother's Keeper, The Summer Festival & Saturday Night Lights
 
 **Date:** 2016-05-21 at 21:50 America/New_York
@@ -497,6 +513,10 @@ Ryan reached back toward the standby toggle switch on his amplifier head.
 "Goodnight, Forger Nation," Ryan said softly into his microphone. "We love you."
 
 He flipped the switch down with an audible *CLICK*, and every stage light, floodlight tower, and Jumbotron screen inside **The Crucible** cut to pitch black.
+
+***
+
+> **Companion Perspective (*The Eleventh Child* — Jordan Fuller's POV):** Read Acts V & VI (`21:50–22:40`) from `Section 104, Row A, Seat 1` as Jordan listens to Ryan's speech before *"Brother's Keeper"* and sways in Aubrie Jean's arms during their wedding processional song *"My Anchor Holds"* in [**The Eleventh Child — Spring Semester 2016, Part 5: *Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights***](https://books.raggiesoft.com/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-5-brother-s-keeper-the-summer-festival-announcement-saturday-night-lights) • Explore the band's full cosmic archive at [**`stardust.raggiesoft.com`**](https://stardust.raggiesoft.com).
 
 ### Part 6: Act VII: Electric Color & Lights Out on Progress Street
 
@@ -590,4 +610,8 @@ Cassidy clicked off the bedside lamp, climbed onto the outside edge of the mattr
 Listening to the crickets outside the open bedroom window on **Progress Street**, Ryan closed his eyes and smiled.
 
 "Goodnight, Cass. We're home."
+
+***
+
+> **Companion Perspective (*The Eleventh Child* — Jordan Fuller's POV):** Read Act VII (`22:40–23:30`) from `Section 104, Row A, Seat 1` as Jordan and his friends try to guess the 77-second overture before the `1:40` reveal of *"Electric Color"* and board the Blue Ridge Transit articulated shuttle at the Crucible Bus Loop in [**The Eleventh Child — Spring Semester 2016, Part 6: *Electric Color (Live at the Crucible) & The Ride Home***](https://books.raggiesoft.com/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-6-electric-color-live-at-the-crucible-the-ride-home) • Explore the band's full cosmic archive at [**`stardust.raggiesoft.com`**](https://stardust.raggiesoft.com).
 
