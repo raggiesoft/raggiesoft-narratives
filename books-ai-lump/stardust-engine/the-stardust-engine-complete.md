@@ -99,7 +99,7 @@ For the past year—right after finishing Ryan's sci-fi concept album [**Mile Ma
 
 Back in 1986, when they were undergrads at CPI, Ryan and Cassidy had written *"Sanctuary in the Storm"* and *"Not Her"* about a pair of fictional fraternal twins at CPI—**John and Erin**—who both used power wheelchairs to climb the steep **Ironstone** hills between the **Commonwealth Green**, **Faraday Hall**, and **Kincaid Hall**. When Apex Records had rejected both duets in 1987 because the label executives refused to let a brother and sister sing heavy, protective rock songs about surviving a manipulative partner, the masters had gone into Holly's vault.
 
-Now, fourteen years after the 1990 crash in Iowa had put Ryan into a wheelchair of his own, he understood John and Erin's world on campus down to the millimeter.
+Now, fourteen years after the December 10, 1990 crash on Interstate 81 at Mile Marker 98 had put Ryan into a wheelchair of his own, he understood John and Erin's world on campus down to the millimeter.
 
 He knew what it felt like to watch the five o'clock **Blue Ridge Transit** articulated buses line up bumper-to-bumper in the rain beneath the vaulted stone arch of **The Keystone Bridge** along **Commonwealth Mall**. He knew how a manipulative partner like **Valerie**—whom John meets when a student organizer at a Kincaid Hall speed-dating mixer accidentally skips from Track 3 (*"Seconds Into Forever"*) to Track 4 (*"Thunder in the Rain"*)—could slowly isolate someone in a wheelchair by controlling their schedule, their phone, and their transportation.
 
@@ -164,9 +164,9 @@ All Ryan knew on that rainy June afternoon in 2004 was that if even one brother 
 
 At `15:00` on Saturday, May 21, 2016, the digital aviation chronometer mounted to the corner of **Ryan O'Connell**'s guitar tech bench inside the South End Zone visiting locker room of **The Crucible** chimed twice.
 
-Ryan didn't need to look up from the fretboard of his 1986 Heritage Cherry Sunburst Gibson Les Paul Standard to know what the chime meant. Twenty-five years and five months after the black ice at **Mile Marker 98** outside Des Moines had severed his spinal cord at the tenth thoracic vertebra, his body didn't run on rock-and-roll time anymore. It ran on **Protocol T-10**.
+Ryan didn't need to look up from the fretboard of his 1986 Heritage Cherry Sunburst Gibson Les Paul Standard to know what the chime meant. Twenty-five years and five months after the black ice on **Interstate 81** at **Mile Marker 98** near Newbern, Virginia had severed his spinal cord at the tenth thoracic vertebra, his body didn't run on rock-and-roll time anymore. It ran on **Protocol T-10**.
 
-"Three o'clock, Ry," **Cassidy** said softly from the corner of the concrete locker room, setting down her thermos of warm lemon-and-honey tea beside her Roland Jupiter-8 flight case. Even at forty-nine—dressed in her vintage maroon **CPI Class of 1989** alumni T-shirt with her black leather stage jacket draped over the back of her chair—his older sister still had that quiet, watchful radar that never turned off around him. "Four hours to the seven-o'clock pre-launch check. Have you finished the electrolyte bottle?"
+"Three o'clock, Ry," **Cassidy** said softly from the corner of the concrete locker room, setting down her thermos of warm lemon-and-honey tea beside her Roland Jupiter-8 flight case. Even at fifty—dressed in her vintage maroon **CPI Class of 1989** alumni T-shirt with her black leather stage jacket draped over the back of her chair—his younger sister still had that quiet, watchful radar that never turned off around him. "Four hours to the seven-o'clock pre-launch check. Have you finished the electrolyte bottle?"
 
 "Last ounce right here," Ryan said, smiling as he set his polishing cloth across the guitar strings, drained the measured sixteen-ounce bottle of water, and pressed his palms down against the anodized push-rims of his titanium manual wheelchair to lift his hips clear of the cushion for fifteen seconds.
 
@@ -204,7 +204,7 @@ When the double doors opened and Ryan rolled in alongside Cassidy and Holly, thr
 
 "**Marching Forgers**, ten-hut!" Director of Athletic Bands **Dr. Arthur Vance** called from the podium before smiling warmly down at the trio. "Class of '89, the field is yours."
 
-Ryan wheeled up to the front of the formation beside Cassidy, looking out at three hundred nineteen- and twenty-year-old college kids who were the exact age he, Cassidy, Evan, and Tyler had been when they recorded a four-track cassette in a cold garage on Progress Street thirty years ago.
+Ryan wheeled up to the front of the formation beside Cassidy, looking out at three hundred college students who were the exact age he, Cassidy, and their twin cousins Evan and Tyler had been when they recorded a four-track cassette in a cold garage on Progress Street thirty years ago.
 
 "First of all," Ryan said, his voice carrying clearly across the silent practice hall, "thank you for sharing your house with us tonight. Every stadium we've played on this tour has had a bigger press box or a fancier VIP lounge, and none of them—not one—sounds like **The Crucible** when the sun goes down and the brass line hits the tunnel."
 
@@ -260,7 +260,7 @@ Seeing another manual wheelchair user right at the fifty-yard line of The Crucib
 
 At `19:59`, **Evan** bumped his fist against Ryan's shoulder, **Tyler** twirled his hickory drumsticks before climbing onto the center drum riser, and **Cassidy** kissed Ryan's temple before stepping out into the dark toward her wraparound analog synthesizer rig.
 
-"Have fun out there, little brother," she whispered.
+"Have fun out there, big brother," she whispered.
 
 ***
 
@@ -405,7 +405,7 @@ On a thunderous dual-kit drum detonation from Tyler and Doc Holloway, twin fount
 > *I'M HERE TO MAKE A CHOICE—*
 > *AND I'M GONNA MAKE YOU HEAR MY VOICE!"*
 
-Sitting two feet to her left, watching his big sister command sixty-five thousand people at the front edge of the stage without a keyboard rack to hide behind, Ryan grinned so wide his cheeks hurt. When they dropped the guitars out to pounding dual stadium drums on the breakdown and Cassidy yelled, *"Let me hear every voice in The Crucible tonight—if nobody owns you, scream it back to me!"*, sixty-five thousand voices thundered back as one:
+Sitting two feet to her left, watching his younger sister command sixty-five thousand people at the front edge of the stage without a keyboard rack to hide behind, Ryan grinned so wide his cheeks hurt. When they dropped the guitars out to pounding dual stadium drums on the breakdown and Cassidy yelled, *"Let me hear every voice in The Crucible tonight—if nobody owns you, scream it back to me!"*, sixty-five thousand voices thundered back as one:
 
 > **`"NOT YOUR DOLL!"`**
 
@@ -559,7 +559,7 @@ As the final golden chord faded into the Appalachian night and the stadium shook
 
 > *"Thank you so much..."*
 
-Twenty-six years ago at the Rosemont Horizon on *Live in Chicago*, she had whispered those exact four words at the end of *"If You Walked Away"* when she was twenty-three years old, exhausted to the point of collapse, and terrified of being abandoned. Tonight, at forty-eight, surrounded by sixty-five thousand people who loved her for exactly who she was, those same four words sounded like pure victory.
+Twenty-six years ago at the Rosemont Horizon on *Live in Chicago*, she had whispered those exact four words at the end of *"If You Walked Away"* when she was twenty-four years old, exhausted to the point of collapse, and terrified of being abandoned. Tonight, at fifty, surrounded by sixty-five thousand people who loved her for exactly who she was, those same four words sounded like pure victory.
 
 Without breaking the deep-space atmosphere, a canopy of cool indigo planetarium lasers fanned out overhead as the band glided upward through the two interlocking instrumental movements of **The Apoapsis Suite**—[**"Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=apoapsis-live-at-the-crucible) and [**"Second Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=second-apoapsis-live-at-the-crucible)—into the sweeping vocal horizon of [**"The Spectrum (True Color)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=the-spectrum-true-color-live-at-the-crucible) (*"And we are seeing the true spectrum! / A billion stars burning ultraviolet and blue"*) and the indigo planetarium calm of [**"Moon 1: Tidal Lock"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-12-moon-1-tidal-lock) (*"No matter how I turn, no matter where I fly / You are the only anchor in my sky / Yeah, I'm in a tidal lock with you!"*).
 
@@ -577,7 +577,7 @@ Ryan unlocked his brakes, rolled all the way out to the front-center edge of the
 
 For the next twenty-five minutes, it was Ryan's turn to steer the ship.
 
-Where Cassidy's *Moon 1* used the astrophysics of a tidal lock to celebrate unbreakable stability, Ryan used the **Roche limit**—the gravitational distance at which a moon is torn apart by tidal forces—to confront the night of December 10, 1990 head-on. Tearing through [**"Moon 2: Roche Limit"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=moon-2-roche-limit-live-at-the-crucible) (*"We crossed the Roche Limit! / Tearing me apart, tearing me apart!"*) and straight into the visceral title cut of his 2003 concept album, [**"Impact (Mile Marker 98)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=impact-mile-marker-98-live-at-the-crucible), Ryan leaned into his center microphone while the 120-foot screen behind him dissolved from a blinding Iowa snowstorm into a high-velocity asteroid debris field:
+Where Cassidy's *Moon 1* used the astrophysics of a tidal lock to celebrate unbreakable stability, Ryan used the **Roche limit**—the gravitational distance at which a moon is torn apart by tidal forces—to confront the night of December 10, 1990 head-on. Tearing through [**"Moon 2: Roche Limit"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=moon-2-roche-limit-live-at-the-crucible) (*"We crossed the Roche Limit! / Tearing me apart, tearing me apart!"*) and straight into the visceral title cut of his 2003 concept album, [**"Impact (Mile Marker 98)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=impact-mile-marker-98-live-at-the-crucible), Ryan leaned into his center microphone while the 120-foot screen behind him dissolved from a blinding Interstate 81 snowstorm into a high-velocity asteroid debris field:
 
 > *"I was holding the controls, trying to beat the storm*
 > *Trying to keep the Freighter steady, trying to keep it warm*
@@ -586,7 +586,7 @@ Where Cassidy's *Moon 1* used the astrophysics of a tidal lock to celebrate unbr
 > *At Mile Marker 98, I lost the throne!*
 > *We're barely alive, but we survived the night!"*
 
-There was no self-pity in the way Ryan played it—only forty-eight-year-old muscle, calloused fingertips, and the roar of twin drum kits as Cassidy, Evan, and Tyler answered his distress beacon on [**"Mayday: The Intercept"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-13-mayday-the-intercept). Then, over a rhythmic hospital heartbeat monitor and the calm voice of the Planetarium Narrator (*"Welcome back to the Engine Room Records Planetarium. Following the fragmentation event, the central engine has been salvaged and transported to the Star City Orbital Ward. Diagnostics indicate a complete and permanent severing of the T-10 power conduit. In the aftermath of a catastrophic impact, survival is no longer a matter of velocity, but of protocol..."*), Ryan tore into the heavy, stomping hard-rock groove of [**"Star City: Orbital Ward"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=star-city-orbital-ward-live-at-the-crucible), translating his recovery at Star City General Hospital, his strict four-hour **Protocol T-10** clock, and Evan and Tyler's synchronized *"Freight Dog"* twin-lifts into an orbital rescue mission.
+There was no self-pity in the way Ryan played it—only fifty-two-year-old muscle, calloused fingertips, and the roar of twin drum kits as Cassidy, Evan, and Tyler answered his distress beacon on [**"Mayday: The Intercept"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-13-mayday-the-intercept). Then, over a rhythmic hospital heartbeat monitor and the calm voice of the Planetarium Narrator (*"Welcome back to the Engine Room Records Planetarium. Following the fragmentation event, the central engine has been salvaged and transported to the Star City Orbital Ward. Diagnostics indicate a complete and permanent severing of the T-10 power conduit. In the aftermath of a catastrophic impact, survival is no longer a matter of velocity, but of protocol..."*), Ryan tore into the heavy, stomping hard-rock groove of [**"Star City: Orbital Ward"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=star-city-orbital-ward-live-at-the-crucible), translating his recovery at Star City General Hospital, his strict four-hour **Protocol T-10** clock, and Evan and Tyler's synchronized *"Freight Dog"* twin-lifts into an orbital rescue mission.
 
 Finally, as the red warning lasers melted into warm golden sunlight and Cassidy stepped up beside his wheelchair for the closing sibling duet of [**"Twin Moons: Touchdown"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=twin-moons-touchdown-live-at-the-crucible), Ryan locked his distorted Les Paul into unison with her analog synth brass (*"The Engine and the Anchor locking into the groove / We finally found the gravity, we're ready to move! / Touchdown!"*), bringing both Twin Moons down out of the freezing vacuum of space and landing them safely on solid ground in Blacksburg as the Planetarium Narrator concluded:
 
@@ -632,7 +632,7 @@ Beside Ryan on the piano bench, Cassidy smiled tenderly through her glasses and 
 
 Ryan took a slow breath.
 
-"Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when I was twenty-two in nineteen-ninety," Ryan continued, his voice honest and steady. "Twenty-six years later... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. Tonight is the final stop of the *Reignition* tour... and tonight is the last concert a touring Stardust Engine will ever play."
+"Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when I was twenty-six in nineteen-ninety," Ryan continued, his voice honest and steady. "Twenty-six years later... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. Tonight is the final stop of the *Reignition* tour... and tonight is the last concert a touring Stardust Engine will ever play."
 
 An audible, collective gasp rippled across sixty-five thousand people inside **The Crucible**, followed by a warm, deeply respectful wave of supportive applause rising from the turf.
 
