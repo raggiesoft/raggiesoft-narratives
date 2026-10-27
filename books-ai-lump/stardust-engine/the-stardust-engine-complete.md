@@ -42,11 +42,14 @@ Ryan glanced down at the heavy black rubber power cord running from his amplifie
 
 Cassidy's voice soared to the top of her register over the pounding drums:
 
-> *"Through the fire! Through the storm!*
-> *Into the cosmos, we are reborn!*
-> *AD ASTRA! WE ARE FREE!"*
+> *"I'm climbing! Climbing! Past the point of no return!*
+> *I'm flying! Flying! With the fire I let burn!*
+> *Just a signal, a distant light! Burning through the endless night!*
+> *Ad astra! (To the stars!)*
+> *Ad astra!*
+> *Into the silent, endless night!"*
 
-On the final downbeat of *"FREE!"*, Ryan didn't touch his volume knob. Still holding the screaming high note on the neck of his Les Paul with his left hand, he leaned down over his right wheel, wrapped his right fist around the thick rubber AC plug of his amplifier, and yanked it straight out of the wall socket.
+On the final downbeat of *"night!"*, Ryan didn't touch his volume knob. Still holding the screaming high note on the neck of his Les Paul with his left hand, he leaned down over his right wheel, wrapped his right fist around the thick rubber AC plug of his amplifier, and yanked it straight out of the wall socket.
 
 *POP—KZZZZT—*
 
@@ -56,14 +59,90 @@ The red pilot light on the amplifier head died instantly, leaving only the faint
 
 Across the room, Cassidy opened her eyes behind the glass of her synth rack. A slow, radiant grin broke across her face—the first unguarded smile Ryan had seen on his sister's face since the morning the federal judge had banged the gavel in 1992. She didn't stop playing. Her fingers glided across the keys as her voice rose again, clear and unburdened in the zero-gravity hush:
 
-> *"Look at the stars... no more cages, no more bars...*
+> *"I see the colors of the nebula*
+> *A place I've only seen in dreams*
+> *The reds, the blues, the purples call*
+> *Flowing in majestic streams...*
+> *This is the place I was meant to be!*
 > *This is the Stardust that is me!*
 > *The cosmos and the rocket's fire!*
-> *My one, my only true desire!"*
+> *My one, my only true desire!*
+> *Loved by the sun!"*
 
 Sitting in his chair with the warm brass prongs of the unplugged power cord resting in his lap, Ryan let out a long, quiet breath and looked over at Holly standing in the control-room doorway with her yellow legal pad tucked under her arm. They didn't have a major label anymore. They didn't have radio promotion or tour buses or a million-dollar marketing budget, and the multi-state lottery ticket sitting on the kitchen counter wouldn't be drawn for another nine months.
 
 They didn't need any of it. Listening to Cassidy's voice echo off the cinder-block walls of the warehouse, Ryan knew that one day—whether it took two years or twenty—they were going to play *Ad Astra* under the open stars inside **The Crucible**, and sixty-five thousand people were going to hear his sister fly.
+
+## Chapter 2: Writing Before the Distance on Progress Street (2004)
+
+### Two Blocks from Commonwealth Mall
+
+**Date:** 2004-06-14 at 16:30 America/New_York
+
+#### 4:30 PM — Two Blocks Down the Sidewalk
+
+Summer rain drummed steadily against the porch roof on **Progress Street NE**, washing the yellow oak pollen down the gutter toward **Commonwealth Mall** two blocks away.
+
+At the kitchen table, **Ryan O'Connell** sat in his manual wheelchair with an unplugged Stratocaster resting across his lap and a lined yellow notebook open beside his coffee mug. Across the table, **Cassidy** had her round reading glasses perched on the bridge of her nose, arranging five index cards in a row between her Roland synthesizer chord charts and a printed booklet proof from **Ocean View Archives**.
+
+For the past year—right after finishing Ryan's sci-fi concept album [**Mile Marker 98**](https://music.raggiesoft.com/artists/the-stardust-engine/2003-mile-marker-98)—the four of them had been recording their 2004 hometown tribute album, [**Progress Street**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street). Most of the record was a love letter to Blacksburg and **Commonwealth Polytechnic Institute (CPI)**: the fourth-quarter roar of [**"Saturday Night Lights: The Crucible"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-01-saturday-night-lights-the-crucible), the cinder-block garage memories of [**"Progress Street: Where the Fire Began"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-02-progress-street-where-the-fire-began), and the warm porch-light sign-off of [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-12-last-bus-home-lights-out-on-progress-street).
+
+ tucked right into the heart of the album, however, was a story that Ryan and Cassidy had been carrying in pieces since 1986.
+
+"Look at the five-song sequence now," Cassidy said softly, tapping the index cards in chronological order across the oak table:
+
+1. [**"Seconds Into Forever"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-03-seconds-into-forever) (*Progress Street*, Track 3)
+2. [**"Thunder in the Rain"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-04-thunder-in-the-rain) (*Progress Street*, Track 4)
+3. [**"Before the Distance"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-08-before-the-distance) (*Progress Street*, Track 8)
+4. [**"Sanctuary in the Storm"**](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds?track=1-13-sanctuary-in-the-storm) (1986 vault master, slated for [**Lost Sounds**](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds))
+5. [**"Not Her"**](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds?track=1-14-not-her) (1986 vault master, slated for [**Lost Sounds**](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds))
+
+Back in 1986, when they were undergrads at CPI, Ryan and Cassidy had written *"Sanctuary in the Storm"* and *"Not Her"* about a pair of fictional fraternal twins at CPI—**John and Erin**—who both used power wheelchairs to climb the steep **Ironstone** hills between the **Commonwealth Green**, **Faraday Hall**, and **Kincaid Hall**. When Apex Records had rejected both duets in 1987 because the label executives refused to let a brother and sister sing heavy, protective rock songs about surviving a manipulative partner, the masters had gone into Holly's vault.
+
+Now, fourteen years after the 1990 crash in Iowa had put Ryan into a wheelchair of his own, he understood John and Erin's world on campus down to the millimeter.
+
+He knew what it felt like to watch the five o'clock **Blue Ridge Transit** articulated buses line up bumper-to-bumper in the rain beneath the vaulted stone arch of **The Keystone Bridge** along **Commonwealth Mall**. He knew how a manipulative partner like **Valerie**—whom John meets when a student organizer at a Kincaid Hall speed-dating mixer accidentally skips from Track 3 (*"Seconds Into Forever"*) to Track 4 (*"Thunder in the Rain"*)—could slowly isolate someone in a wheelchair by controlling their schedule, their phone, and their transportation.
+
+And he knew what it meant to have a twin sister who refused to let the steel bus doors close on her brother.
+
+ Ryan looked down at his yellow legal pad, where he and Cassidy had written out the chorus of [**"Before the Distance"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-08-before-the-distance):
+
+> *"When the steel doors close and the platform clears*
+> *You can hear the truth grinding in the gears*
+> *Heed the warning hiding in his eyes*
+> *Before the distance leaves your soul behind*
+> *Trust the silence when he calls your name*
+> *'Cause once it's gone, nothing stays the same"*
+
+"In the booklet novella," Ryan said, tracing the chord changes on the neck of his Stratocaster, "when Valerie tries to force John up the front wheelchair ramp of the southbound Route 1 bus at Commonwealth Mall to isolate him for the weekend, Erin doesn't just stand under The Keystone Bridge and watch him leave. She drives her power chair straight out into the rain, locks her brakes across the bottom of the aluminum bus ramp to block it, and tells him: *'Don't get on that bus, John. Come home with me instead. Progress Street is two blocks away.'*"
+
+Across the table, Cassidy's eyes shone behind her glasses.
+
+"And when Valerie tries to grab John's sleeve," Cassidy added, reading from her draft of Chapter 3, "Erin angles her frame at forty-five degrees to lock a physical perimeter on the sidewalk until the bus doors close without him, and they roll the two blocks down the sidewalk together to their apartment on Progress Street NE."
+
+"And then in Chapter 4 the next spring," Ryan grinned, tapping the card for [**"Not Her"**](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds?track=1-14-not-her), "when that slick senior from the business school tries to box Erin's chair into the alcove outside Kincaid Hall Auditorium with his boot on the ramp, John recognizes the exact same script Valerie used on him, shifts his power chair into high gear, and puts two hundred and fifty pounds of steel between the guy and his sister."
+
+> *"I know your game, I know your kind*
+> *The little traps you leave behind*
+> *You think she's weak, a fragile prey*
+> *But you're not taking her away*
+> *I've walked through fire, I've paid the cost*
+> *And I won't let another light be lost*
+> *Not her. Not today."*
+
+**Evan** and **Tyler** walked into the kitchen from the back studio hallway, shaking the June rain off their jackets.
+
+"Holly just approved the liner-note booklet layout for *Progress Street*," Evan said, pouring a cup of coffee and looking over Ryan's shoulder at the manuscript pages titled [***Before the Distance: The Story of John & Erin***](https://books.raggiesoft.com/erin). "And she says when we put out the *Lost Sounds* compilation in a couple of years, we'll remaster *'Sanctuary in the Storm'* and *'Not Her'* from the 1986 two-inch tapes so fans have all five songs of John and Erin's story together."
+
+Ryan looked out the kitchen window toward the wet sidewalk of **Progress Street NE**, leading two blocks southwest toward the stone arches of **Commonwealth Mall**.
+
+He had no way of knowing that two years from now, in November 2006, a young woman named **Jessica Miller** riding a commuter train north from Kent Station to Seattle King Street Station would hear *"Before the Distance"* through her headphones, remember reading the story of John and Erin, and realize in horror that she had just let the steel train doors close while her brother **Michael** was still standing on the platform with his abuser.
+
+All Ryan knew on that rainy June afternoon in 2004 was that if even one brother or sister out there heard *"Before the Distance"* and stepped in front of the ramp before the doors closed, every note on *Progress Street* would have been worth writing.
+
+***
+
+> **Read the Complete Companion Story (*Before the Distance: The Story of John & Erin*):** Experience all four chapters of John and Erin's story at Commonwealth Polytechnic Institute in [**Before the Distance: The Story of John & Erin (`books.raggiesoft.com/erin`)**](https://books.raggiesoft.com/erin) and stream the 5-song soundtrack at [**`music.raggiesoft.com/playlists/john-and-erin`**](https://music.raggiesoft.com/playlists/john-and-erin).
 
 # Book 5: Burnout Hiatus, Our Own Frequency & The $150M Refusal (2005–2014)
 
@@ -187,63 +266,91 @@ At `19:59`, **Evan** bumped his fist against Ryan's shoulder, **Tyler** twirled 
 
 #### 8:00 PM — Act I, Track 1: *"Ignition: The Forger's Call"*
 
-At `20:00` on the dot, the house PA faded out, and a single crisp white spotlight cut through the twilight onto the front-left lip of the stage.
+At `20:00` on the dot, every floodlight tower inside **The Crucible** cut to pitch black.
 
-Ryan released his wheel locks, gave two strong, smooth pushes on his titanium handrims, and rolled out alone to the edge of the stage deck.
+The roar that rose from sixty-five thousand throats in the sudden darkness didn't just hit Ryan's ears; it vibrated straight up through the caster forks of his wheelchair and into his ribs. Through the darkness of the stadium bowl, the massive field-level gates at the North and South tunnels swung wide, and all **three hundred uniformed members of the CPI Marching Forgers**—thirty gleaming brass sousaphones, rows of trumpets, mellophones, and trombones, and **"The Engine Room"** Kevlar snare and bass drum battery—filed up the flanking stage ramps in locked six-to-five military precision to fill the upper tiers of the stadium stage.
 
-The roar that rose from the sixty-five thousand throats inside **The Crucible** didn't just hit his ears; it vibrated straight up through the caster forks of his wheelchair and into his ribs. Down in the North End Zone, the galvanized steel bleachers of **The Anvil** were already shaking under thousands of stomping boots.
+Over a faint, warm analog synthesizer pad humming from Cassidy's center-stage riser, a solitary crisp white spotlight cut through the dark onto the front-left lip of the stage.
 
-Ryan rolled right up to his lowered boom microphone, resting his right palm over the strings of his Les Paul as he looked up at the steepest stands in college football.
+Ryan released his wheel locks, gave two strong, smooth pushes on his titanium handrims, and rolled out to his lowered boom microphone at the edge of the stage deck. Resting his right palm over the strings of his Les Paul as he looked up at the steepest stands in college football, Ryan leaned into the microphone, his gravelly voice echoing intimately across the sixty-five-thousand-seat valley:
 
-"Good evening, Blacksburg!" Ryan called out, his voice echoing off the Ironstone walls across the valley. "Good evening, **Commonwealth Polytechnic Institute**! Are there any **Forgers** in the house tonight?!"
+> *"Thirty years ago... We were just five kids in a garage on Progress Street. We didn't have a record deal... We didn't have a tour bus... All we had was a cassette tape... and an idea."*
 
-The stadium answered with a deafening wall of sound (`"LET'S GO! FORGERS!"`).
+Across the dark bowl, sixty-five thousand people leaned forward as Ryan's voice rose to a commanding roar:
 
-"Thirty years ago this fall," Ryan said, smiling as the cameras projected his face across the 120-foot curved LED screen and the North End Zone Jumbotron, "four freshmen and sophomores in a cold garage on **Progress Street** entered a student cassette contest to write a new entrance theme for the CPI football team. Our sixteen-year-old sister **Holly** wrote a one-dollar contract at the kitchen table so nobody could ever take that song away from this school—and for the last thirty years, the only way to hear [**'Ignition: The Forger's Call'**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-01-ignition-the-forgers-call) was to walk through those gates on a Saturday night."
+> *"We entered a contest to write a song for this stadium. We wanted to make something loud enough... To scare the HELL out of anyone who dared to come into our house!"*
 
-Ryan lifted his left hand on the neck of his guitar and looked toward the South End Zone tunnel, where three hundred pairs of white spats and brass bells gleamed in the dark.
+The entire stadium erupted in a tidal wave of cheers as Ryan grinned out at the sea of Foundry Maroon and Molten Orange:
 
-"Well, tonight is Saturday night in Blacksburg! And we brought three hundred of our closest friends from the **CPI Marching Forgers** to help us open the show! **Crucible—kill the lights!**"
+> *"For thirty years... you guys have been stomping your feet to our song every single Saturday. So tonight... for the 30th Anniversary... Let's see if we can break the seismographs!"*
 
-Every floodlight tower in the stadium snapped to black.
+Back on the center riser, **Tyler** unleashed a massive, thundering drum fill across his double-kick kit, and Ryan threw his head back and screamed into the microphone:
 
-In the pitch dark, back on the center riser, Tyler brought a two-pound forged-iron mallet down onto his unmuffled steel brake drum.
+***"IGNITION!"***
 
-*CLANG!*
+Sixty-five thousand voices roared back as one:
 
-Across the entire stadium—led by the student section in **The Anvil**—sixty-five thousand fans slammed their right boots down onto the steel bleachers and concrete decks on the upbeat (**The Stomp**).
+***"IGNITION!"***
 
-*CLANG!* (*BOOM!*)
-*CLANG!* (*BOOM!*)
+In the dark, Tyler brought his forged-iron sledgehammer down onto his unmuffled steel brake-drum anvil (`TING...`), and across the entire stadium—led by the student section in **The Anvil**—sixty-five thousand fans slammed their right boots down onto the galvanized steel bleachers and concrete decks on the upbeat (`BOOM!`):
 
-Ryan felt the stage deck flexing half an inch beneath his wheelchair tires—knowing that half a mile away in **Copernicus Hall**, the Geosciences seismographs were already spiking in the green. On the fourth anvil strike, Ryan raked his pick across the open E5 power chord of his Les Paul as Cassidy unleashed the roaring brass-synth fanfare and all three hundred members of the **CPI Marching Forgers** charged up the field ramps onto the stage deck!
+***TING... BOOM!***
 
-Pyrotechnic columns of Molten Orange fire shot fifty feet into the night sky behind the stage truss as Ryan, Cassidy, Evan, Tyler, and three hundred collegiate horns locked into the heavy 128 BPM groove:
+***TING... BOOM!***
 
-> **RYAN & CASSIDY:** *"Hear the hammer hit the steel! Feel the mountain start to reel!"*
+Ryan felt the stage deck flexing half an inch beneath his wheelchair tires—knowing that half a mile away in **Copernicus Hall**, the Geosciences seismographs were already spiking in the green. As pyrotechnic columns of Foundry Maroon and Molten Orange shot fifty feet into the night sky behind the stage truss, Tyler's double-kick drums and **The Engine Room**'s thirty Kevlar marching snares slammed into the heavy, slow-stomping `82 BPM` industrial groove, Evan's bass locked in beneath Cassidy's blazing analog synthesizer brass, and Ryan screamed out the iconic 1986 stadium entrance riff of [**"Ignition: The Forger's Call"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-01-ignition-the-forgers-call):
+
+> *"The lights go dark... the tension builds...*
+> *A single pounding heavy sound...*
+> *The hammer striking on the steel...*
+> *It shakes the air... it shakes the ground!*
+> *The pressure's on... the time is now...*
+> *We're here to forge our name!*
+> *The spark is lit... the fire burns—"*
+
+Leaning into his center microphone, Ryan shouted a ferocious live ad-lib straight at the scoreboard above the South End Zone:
+
+> ***"We're taking the Anchor BACK to the Mountains!"***
+
+And all sixty-five thousand Forgers thundered the chorus back across the night sky:
+
+> **RYAN & CASSIDY:** *"IGNITION!"*
 > **65,000 FORGERS:** ***"IGNITION!"***
-> **RYAN & CASSIDY:** *"From the foundry to the sky, let the molten embers fly!"*
-> **65,000 FORGERS:** ***"IGNITION! THIS IS OUR HOUSE!"***
+> **RYAN & CASSIDY:** *"This is the Forger's Call! IGNITION!"*
+> **65,000 FORGERS:** ***"IGNITION!"***
+> **RYAN & CASSIDY:** *"We're standing ten feet tall!*
+> *We are the hammer, we're the flame—*
+> *This is our house, this is our game!"*
 
 ***
 
 #### 8:05 PM — Act I, Tracks 2 & 3: *"CPI Tech Triumph"* & *"The Stardust Engine"*
 
-The instant the final E-major chord of *"Ignition"* rang out, Drum Major **Sarah Jenkins** blew four piercing blasts on her silver whistle (`Tweet-Tweet-Tweet-Tweet!`), and **"The Engine Room"**—the high-tension Kevlar marching snare line—ripped straight into the 138 BPM roll-off of [**"CPI Tech Triumph: The Marching Forgers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-02-cpi-tech-triumph-the-marching-forgers).
+The instant the final pyrotechnic burst of *"Ignition"* echoed off the upper deck, Tyler snapped four crisp snare rimshots as Drum Major **Sarah Jenkins** blew four piercing blasts on her silver whistle (`Tweet-Tweet-Tweet-Tweet!`), and **"The Engine Room"**—the high-tension Kevlar marching snare line—ripped straight into the `138 BPM` roll-off of [**"CPI Tech Triumph: The Marching Forgers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-02-cpi-tech-triumph-the-marching-forgers).
 
-Grinning over at Evan as his cousin locked his four-string bass into the sousaphone bassline, Ryan doubled the century-old 1912 fight song melody on overdriven electric guitar while sixty-five thousand students and alumni clapped in unbroken time and spelled out the call-and-response across the night sky:
+Grinning over at Evan as his cousin locked his four-string bass into the thirty-sousaphone bassline, Ryan doubled the century-old 1912 fight song melody on overdriven electric guitar while sixty-five thousand students and alumni clapped in unbroken time and spelled out the call-and-response across the night sky:
 
 > **65,000 FORGERS:** ***"C! — P! — I! FORGERS! FIGHT! FORGERS! WIN! CPI!"***
 
 And instead of marching off the field when the fight song ended, all three hundred Marching Forgers held their formation across the wide stage wings.
 
-Across center stage, Cassidy's fingers dropped onto her analog synthesizer manual, and the shimmering, cosmic 1986 arpeggio of [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-03-the-stardust-engine) cascaded across the stadium as the 120-foot curved LED wall dissolved from maroon-and-orange flames into a deep-space violet nebula.
+"Keep the Marching Forgers right here with us!" Cassidy called into her microphone as the stadium lights shifted from Foundry Maroon to deep cosmic violet.
+
+Ryan rolled forward to his mic, looking out at the sea of glowing faces as orbital telemetry coordinates ticked upward from `1986` to `2016` across the 120-foot curved LED wall behind them.
+
+"Thirty years ago in 1986," Ryan shouted over the roar, "Evan and Tyler walked into our basement and we wrote our very first song together about the cosmos and the rockets that get you there! Let's hear it, CPI!"
+
+Across center stage, Cassidy's fingers dropped onto her analog synthesizer manual, and the shimmering, cosmic 1986 arpeggio of [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-03-the-stardust-engine) cascaded across the stadium.
 
 Looking across the stage at his sister, Ryan felt a lump rise in his throat. Thirty years ago, when the four of them had written this song in 1986, they had been too scared to even play it for a talent scout, so they had taken its name as their band name instead—**Stardust** for their love of the cosmos, and **Engine** for the rockets to get you there. Later, when Apex Records signed them, the label's marketing department had twisted that name into a cheap corporate gimmick, branding Cassidy as their *"Stardust"* and Ryan as their *"Engine"*.
 
-Tonight, backed by three hundred brass and percussion players from their own alma mater, there were no corporate gimmicks left—only the song that had started it all. When Cassidy's vocal soared into the chorus (*"We are the Stardust Engine, burning through the night!"*) and three hundred collegiate trumpets, mellophones, and trombones answered her synthesizer hook in a wall of live brass, Ryan leaned back against his backrest and bent the twentieth fret of his Les Paul toward the Blacksburg stars.
+Tonight, backed by three hundred brass and percussion players from their own alma mater, there were no corporate gimmicks left—only the song that had started it all. When Cassidy's vocal soared into the chorus (*"We are the Stardust Engine! / Racing through the night / We're burning on the fuel of a brand new light!"*) and three hundred collegiate trumpets, mellophones, and trombones answered her synthesizer hook in a wall of live brass, Ryan leaned back against his backrest and bent the twentieth fret of his Les Paul toward the Blacksburg stars.
 
-As the final chord echoed across the Blue Ridge foothills and the 300 Marching Forgers marched down the ramps into the South End Zone tunnel to a standing ovation—leaving everyone in the stadium convinced the marching band's guest appearance for the night was over—Ryan caught Cassidy's eye across the stage and winked.
+As the final chord echoed across the Blue Ridge foothills, Cassidy saluted the three hundred student musicians:
+
+"Give it up for our alma mater's pride and joy—the three-hundred-strong **CPI Marching Forgers**!" Cassidy cheered as the stadium roared and the marching band filed proudly down the flanking ramps into the tunnel—leaving everyone in the stadium convinced the marching band's guest appearance for the night was over.
+
+Across the stage deck, Ryan caught Cassidy's eye and winked.
 
 *Just wait until 10:45,* he thought.
 
@@ -267,59 +374,75 @@ As the main body of the **CPI Marching Forgers** filed into the South End Zone t
 
 "Before we go any further tonight," Ryan told the sixty-five thousand fans filling the bowl, "there's a rule the four of us made in 1986 that we've never broken: **you will never hear a pre-recorded backing track at a Stardust Engine show.** Every synth pad, every harmony, every horn blast, and every drum fill you hear tonight is played live by human hands! Make some noise for our **Orbital Crew**—**Marcus Vance** on rhythm guitar and twelve-string, **Darius 'Doc' Holloway** on second kit and percussion, **Claire Lindqvist** on auxiliary analog synthesizers, and straight out of the CPI Music Department faculty, **Professor Julian Vance** on trumpet and **Elena Rostova** on saxophone!"
 
-The student section roared for their own faculty professors as Tyler and Doc locked their double drum kits into the 142 BPM countdown pulse of [**"Main Engine Start"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-04-main-engine-start), with all sixty-five thousand fans counting down from ten to liftoff before the band tore straight into the 1997 title anthem [**"Hard Reset"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-05-hard-reset).
+The student section roared for their own faculty professors as a rocket-launch countdown clock flashed across the 120-foot screen behind them.
+
+"There's no opening act tonight, Blacksburg, and we aren't pacing ourselves!" Ryan called out, grinning into his center mic. "Hold onto your seats! *Guidance is internal. T-minus ten... nine... eight... Seven... six... Main Engine Start! Four... three... two... one... Zero! Liftoff!*"
+
+Tyler and Doc locked their double drum kits into the explosive `142 BPM` pulse of [**"Main Engine Start"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-04-main-engine-start), with all sixty-five thousand fans counting down from ten to liftoff before the band tore straight into the heavy, grinding industrial-rock thunder of 1997's [**"Hard Reset"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-05-hard-reset).
 
 As the final chord of *"Hard Reset"* rang out, Ryan watched **Cassidy** do something she always savored on this tour.
 
-Stepping out from behind her wraparound synthesizer fortress—leaving Claire Lindqvist to carry the main keyboard patch—Cassidy shrugged on her black leather jacket over her maroon CPI Class of 1989 shirt, lifted the chrome microphone off its stand, and strode all the way out to the front lip of the stage directly beside Ryan's wheelchair.
+Stepping out from behind her wraparound synthesizer fortress—leaving Claire Lindqvist to carry the main keyboard patch—Cassidy shrugged on her studded black leather biker jacket over her maroon CPI Class of 1989 shirt, strode all the way out to the front-center lip of the stadium stage directly beside Ryan's wheelchair, and gripped the chrome stand microphone with both hands.
 
-"When we signed our first record contract in 1987," Cassidy said into the mic, her voice steady and edged with steel, "a room full of executives in Los Angeles told me to smile pretty, wear pastel pink, sing the heartbreak lyrics they bought for me, and let them call me their *'Stardust'* doll while they called my brother their *'Engine'*."
+Above the stage, the 120-foot curved LED wall flickered with a giant, glossy 1980s neon-pink porcelain doll mask bound in golden chains.
 
-Across the stadium, a chorus of boos greeted the memory of Apex Records.
+"Back in nineteen eighty-seven," Cassidy's voice rang out across the stadium—raw, fierce, and razor-sharp, "a record executive in a three-thousand-dollar suit looked at my brother and me and decided that a girl from Blacksburg wasn't allowed to play heavy rock and roll! They pointed at Ryan and called him the *Engine*... and they pointed at me, handed me a pink plastic script, and told me to smile, stay quiet behind the keyboards, and be their little *Stardust*! Well, tonight I'm standing front and center in our house—and nobody puts a cage around this voice ever again!"
 
-"Well, in 1996, we bought back every single master tape we ever made," Cassidy said, gripping the tilted mic stand with both hands as the 120-foot curved LED wall behind them lit up with a towering, glossy neon-pink porcelain doll mask. "And this is what I told them on the way out the door!"
+On a thunderous dual-kit drum detonation from Tyler and Doc Holloway, twin fountains of white-hot gold and crimson pyrotechnic sparks erupted thirty feet into the night air along the stage edge—Ryan feeling the wave of heat across his forearms—while the porcelain doll mask on the 120-foot screen shattered into roaring flames behind bold rock lettering reading **`NOT YOUR DOLL`**, and Ryan and Marcus Vance locked into the crunching, palm-muted twin-guitar riff of [**"Not Your Doll"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-06-not-your-doll):
 
-Ryan stomped his distortion channel and ripped into the snarling, palm-muted hard-rock riff of [**"Not Your Doll"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-06-not-your-doll).
+> *"You painted on a smile and you locked the door*
+> *Said a girl shouldn't roar on the stadium floor*
+> *You wanted sugar-coated, polite and tame*
+> *While you cashed every check written out in our name!*
+> *Tear up the contract, shatter the glass!*
+> *Watch your little empire crumble and pass!*
+> *I'm stepping out from behind the keys—*
+> *Down on the front line, off of my knees!*
+> *'CAUSE I'M NOT YOUR DOLL!*
+> *I'M NOT YOUR PRETTY TOY!*
+> *I'M NOT JUST A PICTURE FOR A POSTER BOY!*
+> *I'M NOT YOUR DOLL!*
+> *I'M HERE TO MAKE A CHOICE—*
+> *AND I'M GONNA MAKE YOU HEAR MY VOICE!"*
 
-On the downbeat of the chorus, twin columns of gold and crimson flame erupted along the front edge of the stage—Ryan feeling the wave of heat across his forearms—while the porcelain doll mask on the 120-foot screen shattered into a million shards of fire:
+Sitting two feet to her left, watching his big sister command sixty-five thousand people at the front edge of the stage without a keyboard rack to hide behind, Ryan grinned so wide his cheeks hurt. When they dropped the guitars out to pounding dual stadium drums on the breakdown and Cassidy yelled, *"Let me hear every voice in The Crucible tonight—if nobody owns you, scream it back to me!"*, sixty-five thousand voices thundered back as one:
 
-> *"I am NOT your doll! I am NOT your toy!*
-> *I don't sing on command for a corporate boy!*
-> *Cut the painted strings, watch the plastic burn—*
-> *This is MY voice now, and I wait my turn—NEVERMORE!"*
-
-Sitting two feet to her left, watching his big sister command sixty-five thousand people at the front edge of the stage without a keyboard rack to hide behind, Ryan grinned so wide his cheeks hurt as he traded blistering guitar licks against Elena Rostova's baritone sax.
+> **`"NOT YOUR DOLL!"`**
 
 ***
 
 #### 8:40 PM — *"Fifty-Two to Nothing: The Norfolk Reckoning"*
 
-After dedicating 1995's [**"Static"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-07-static) to the Class of '89 dormitory cassette-traders and saluting Evan and Tyler's decades behind the wheel on Interstate 81 with 2001's [**"Midnight Drivers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-08-midnight-drivers), Ryan rolled forward to the center microphone as twilight settled into deep Appalachian night.
+After tearing straight into the gritty garage-rock pulse of 1995's [**"Static"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-07-static) and saluting Evan and Tyler's decades behind the wheel on Interstate 81 with 2001's [**"Midnight Drivers"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-08-midnight-drivers)—Ryan spinning effortlessly on his rear wheels during his guitar solo—Ryan rolled forward to the center microphone as twilight settled into deep Appalachian night.
 
-He looked up toward the towering North End Zone scoreboard above **The Anvil**.
+He pointed the neck of his sunburst Les Paul straight across the stadium bowl toward the towering **North End Zone LED Scoreboard** above **The Anvil**.
 
-Every CPI alumnus and student in the building knew the ugly scar from two autumns ago—September 2014, when the **Virginia Dominion University (VDU) Admirals** had walked into The Crucible on Homecoming Saturday and humiliated the Forgers `38–0` in a relentless rainstorm. Ryan, Cassidy, Evan, Tyler, and Holly had watched that game from the Alumni Box, and they had been in the stands down in Norfolk a year later when CPI went into VDU's house and settled the ledger in blood and iron: **52–0**.
+Every CPI alumnus and student in the building knew the ugly scar from two autumns ago—September 2014, when the **Virginia Dominion University (`VDU`) Admirals** had walked into The Crucible on Homecoming Saturday and humiliated the Forgers `38–0` in a relentless rainstorm. Ryan, Cassidy, Evan, Tyler, and Holly had watched that game from the Alumni Box, and they had been in the stands down in Norfolk a year later when CPI went into VDU's house and settled the ledger in blood and iron: **52–0**.
 
-"Two years ago," Ryan growled into the microphone, pointing the headstock of his sunburst Les Paul straight up at the North End Zone scoreboard, "a football team from down by the coast came into our house on Homecoming and put a number up on that board that made every Forger in this valley sick to their stomach!"
+"Hey, Forger Nation," Ryan said into his microphone, a wicked, knowing grin spreading across his face as the crowd began to buzz. "Two autumns ago, in September 2014, a certain football team from down in Norfolk walked into this house on Homecoming and put an ugly number up on that North End Zone board. And then last October, when our guys traveled down Interstate 64 to Norfolk for *their* Homecoming... their student section had the nerve to print up ten thousand T-shirts with that old score on their chests."
 
-Sixty-five thousand fans jeered at the memory.
+Sixty-five thousand CPI fans booed in gleeful, unified indignation.
 
-"Well, last fall, Coach Miller and the boys took a bus down to Norfolk and settled the bill with interest!" Ryan shouted over the rising roar. "And tonight, we're putting the real score up on that board permanently! This is [**'Fifty-Two to Nothing: The Norfolk Reckoning'**](https://music.raggiesoft.com/artists/the-stardust-engine/2015-reignition?track=1-06-fifty-two-to-nothing-the-norfolk-reckoning)!"
-
-As Tyler and Doc slammed into the bone-rattling stadium stomp and the twenty-piece Marching Forgers brass honor guard blasted the low trombone riff, the massive North End Zone scoreboard flashed a glitching graphic of **`CPI 0 — VDU 38`**—and then obliterated it in a digital explosion of Foundry Maroon and Molten Orange flames, locking in thirty-foot-tall glowing numerals:
+High above the Gothic limestone arches of the North End Zone, the giant stadium scoreboard flickered to life, displaying the ghostly, hated numerals from September 2014 (`HOME: 0 — VISITOR: 38`)—and then, on a thunderous marching snare roll from Tyler, digital flames of Foundry Maroon and Molten Orange shattered the old numbers off the screen, locking in thirty-foot-tall blazing gold digits:
 
 > **`CPI FORGERS: 52 — VDU ADMIRALS: 0`**
+
+"How'd those T-shirts look by the fourth quarter, Forger Nation?!" Cassidy roared into her mic as the stadium erupted into one of the loudest ovations of the night. "This is [**'Fifty-Two to Nothing: The Norfolk Reckoning'**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-09-fifty-two-to-nothing-the-norfolk-reckoning)!"
 
 The roar inside The Crucible was so loud it nearly clipped Ryan's custom in-ear monitors. As he wheeled over toward the stage-right ramp during the second chorus, his eyes swept across the accessible terrace at `Section 104, Row A, Seat 1`.
 
 There, backlit by the molten-orange glow of the field LEDs, the young man in the manual wheelchair with the rectangular glasses had his right fist raised high in the air toward the `52–0` scoreboard, shouting every word of the chorus at the top of his lungs while his friends clapped his shoulders and cheered around him:
 
 > **65,000 FORGERS:** ***"FIFTY-TWO TO NOTHING! PUT IT ON THE BOARD!***
-> ***THE FORGERS CAME COLLECTING WITH THE HAMMER AND THE SWORD!"***
+> ***HEAR THE MIGHTY THUNDER OF THE FORGER CHORD!***
+> ***YOU WORE THE OLD NUMBERS ON YOUR HOMECOMING CHEST—***
+> ***TILL THE MOUNTAINS CAME DOWN AND PUT THE TALK TO REST!"***
 
 Ryan didn't know the kid's name, and he didn't know what that `38–0` afternoon in 2014 had cost him—but seeing the look of pure, weightless liberation on that young man's face as he stared up at `52–0`, Ryan lifted his right hand off his guitar strings for two beats and pointed a salute straight across the turf toward `Section 104, Row A, Seat 1`.
 
-Closing out Act II, the band dug deep into their 2007 archival compilation [**Lost Sounds**](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds)—playing [**"The Contract"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-10-the-contract) while Ryan wheeled over to the stage-left wing to salute **Holly**, who shook her head and laughed behind her clipboard, followed by the high-voltage synth-and-guitar duel of [**"Steel and Synthetics"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-11-steel-and-synthetics).
+When the stadium finally finished roaring the `52–0` chorus, Cassidy walked over toward the stage-right wing and pointed down into the monitor bunker, where **Holly** stood in her tailored maroon blazer beside the recording engineers.
+
+"This next one is from the *Lost Sounds* vault—for our little sister Holly, who took a one-dollar bill in nineteen eighty-six and saved our lives!" Cassidy called out, launching the band into two blistering rarities from their 2007 archival compilation [**Lost Sounds**](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds): [**"The Contract"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-10-the-contract)—while Holly shook her head and laughed behind her clipboard—followed by the high-voltage synth-and-guitar duel of [**"Steel and Synthetics"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-11-steel-and-synthetics).
 
 And on the final crashing downbeat of *"Steel and Synthetics"*, the master lighting relay inside the stadium press box threw its main breaker switch.
 
@@ -343,71 +466,110 @@ In the sudden, breathless blackness after *"Steel and Synthetics"*, the open-air
 
 On the darkened stage deck, under dim blue work lights while his guitar tech swapped his standard sunburst Les Paul for his sustain-modified 1987 Custom tuned for **Act III: *Cosmic Tidal Lock***, **Ryan** looked across the stage at **Cassidy**.
 
-In twenty-one years since Cassidy had written her four-movement progressive rock autobiography in that unheated Blacksburg warehouse in 1995, [**"Escape Velocity (Ad Astra)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=escape-velocity-ad-astra-live-at-the-crucible)—commonly known to Stardust Engine fans simply as ***"Ad Astra"*** when referring to it informally—had never appeared on a live album. It hadn't existed yet when they recorded 1990's *Live in Chicago*, and they had omitted it from the tighter two-hour waterfront amphitheater setlist of 2005's *Live in Norfolk*. Tonight, sequenced in true astrophysical launch order to open the ten-song **Twin Moons** live suite, was the definitive live concert recording of the most important piece of music his sister had ever created.
+In twenty-one years since Cassidy had written her four-movement progressive rock autobiography in that unheated Blacksburg warehouse in 1995, [**"Escape Velocity (Ad Astra)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=escape-velocity-ad-astra-live-at-the-crucible)—commonly known to Stardust Engine fans simply as ***"Ad Astra"*** when referring to it informally—had never been performed at a live concert. It hadn't existed yet when they recorded 1990's *Live in Chicago*, and they had omitted it from the tighter two-hour waterfront amphitheater setlist of 2005's *Live in Norfolk*. Tonight, sequenced in true astrophysical launch order to open the ten-song **Twin Moons** live suite, was the definitive live concert debut of the most important piece of music his sister had ever created.
 
-A warm, resonant voice echoed from the overhead surround speakers across the pitch-black stadium—the **Engine Room Records Planetarium Narrator**:
+Nobody said a word into the microphones.
 
-> *"Good evening, Forger Nation, and welcome to the Engine Room Records Planetarium. Tonight, we leave the heavy gravity of Earth behind. To enter a stable Cosmic Tidal Lock, a vessel must first achieve escape velocity—eleven point two kilometers per second. Prepare for main engine start."*
+Out on the auxiliary riser, Claire Lindqvist stayed behind the main wraparound synthesizer rig while Cassidy walked out alone to the very center edge of the stage in the dark, holding a wireless handheld microphone in both hands.
 
-Six narrow, surgical white searchlight beams dropped straight down from the overhead lighting grid, forming the glowing bars of a cage around Cassidy at her grand piano and synthesizer rig for ***Part I: The Cage (`00:00–03:15`)***.
+A low sub-bass synthesizer drone and a lonely, haunting woodwind melody began to drift out across the silent turf—followed seconds later by Cassidy raising the microphone to her lips and singing a soaring, wordless operatic vocalise (*"Ahhhh-ahhh-ahhhhhh... Oooooh-ahhhhh-ahhhhhh..."*) that echoed off the upper decks into the mountain night.
 
-As Cassidy struck the ominous, tolling minor piano chords, Ryan watched her shoulders tighten with the memory of the 1992 New York federal courtroom—where Apex Records' attorneys had tried to weaponize their own contracts to seize every song they had ever written, and where their trial counsel had been forced to detonate Holly's **1986 `$1.00` Cross-License** like a legal nuclear warhead, saving CPI's rights while burning the band's commercial catalog to ash:
+From his chair on stage-left, Ryan heard a wave of stunned, electric murmurs ripple through sixty-five thousand fans across **The Crucible** as the entire stadium realized at once what song they were hearing—and wondered whether Cassidy was only singing a short sixty-second prelude or if the band was actually about to play the entire four-part epic live.
+
+Then the gentle woodwind shattered into a blistering 16th-note analog synthesizer pulse and Tyler's driving double-kick drums.
+
+Cold, stark white searchlights dropped straight down from the overhead lighting grid, boxing Cassidy in at the front lip of the stage like the glowing bars of a courtroom cage for ***Part I: The Cage***. Standing completely exposed at the edge of the stage without a keyboard in front of her, Cassidy tore into the opening verses with raw, trembling intensity—remembering the 1992 New York federal courtroom where their trial counsel had been forced to detonate Holly's **1986 `$1.00` Cross-License** like a legal nuclear warhead, saving CPI's rights while burning the band's commercial catalog to ash:
 
 > *"The Shark was right, the nuke went off!*
 > *We won the battle, but at what cost?!*
-> *Sitting in the rubble of a four-year war,*
-> *Locked behind a heavy, iron courtroom door!"*
+> *We're radioactive, we're litigious!*
+> *We're just the joke, the victim-saints!*
+> *I'm trapped inside this Wilderness!*
+> *This Fortress built on bitterness!*
+> *This isn't freedom... this is a cell...*
+> *This righteous hell..."*
 
-At `03:15`, on the downbeat of ***Part II: Ignition (Ad Astra) (`03:15–06:30`)***, the white searchlight bars shattered outward into a blinding horizon of molten gold and indigo laser light.
+As the heavy drums dropped away, Cassidy's voice softened to a quiet, aching confession in the dark (*"The fight is over, the dragon's slain / So why am I still in chains?"*) before a dark, pulsing bass sequencer began to throb through the stadium floor.
 
-Ryan locked his left elbow against his ribs, kicked in his dual-stack tube overdrive, and drove the climbing `11.2 km/s` guitar riff alongside Marcus Vance while Tyler, Doc Holloway, and Evan pushed the twin-engine rhythm section into a relentless vertical ascent. Every time Cassidy belted *"AD ASTRA! TO THE STARS!"*, sixty-five thousand voices in the dark bowl thundered the words back at the sky.
+On the downbeat of ***Part II: Ignition (Ad Astra)***, the white searchlight cage snapped off and shattered outward into twin pillars of crimson and solar-gold light.
 
-*Six minutes and twenty-five seconds.*
+Ryan unlocked his brakes, wheeled his manual chair right up beside his sister at center stage, and kicked in his dual-stack tube overdrive—driving the climbing `11.2 km/s` guitar riff alongside Marcus Vance while Tyler, Doc Holloway, and Evan pushed the twin-engine rhythm section into a relentless vertical ascent:
 
-Ryan looked across the stage at Cassidy. Back in 1995 in the warehouse, he had leaned over his wheel and physically yanked the AC power plug out of the wall socket to create the sudden, violent silence of **Main Engine Cutoff (MECO)**. Tonight, wired into the stadium master relay switch at his pedalboard, Ryan held the screaming high note on the twentieth fret as Cassidy sang:
+> *"I'm climbing! Climbing! Past the point of no return!*
+> *The engines screaming, watch the bridges burn!*
+> *Pushing through the max-Q, the violent shake!*
+> *Every single promise that I had to break!*
+> *I'm reaching for the sky, I'm breaking the hold!*
+> *A story that has never been told!*
+> *Escape velocity! I'm finally free!*
+> *Ad astra! (To the stars!)*
+> *That's where I'll be!"*
 
-> *"Through the fire! Through the storm!*
-> *Into the cosmos, we are reborn!*
-> *AD ASTRA! WE ARE FREE!"*
+After trading breathless, high-velocity guitar and synthesizer solos with Claire Lindqvist while the 120-foot screen behind them showed the horizon of the Earth curving away into the black of space, Ryan looked across the stage at Cassidy. Back in 1995 in the warehouse, he had leaned over his wheel and physically yanked the AC power plug out of the wall socket to create the sudden, violent silence of **Main Engine Cutoff (MECO)**. Tonight, wired into the stadium master relay switch at his pedalboard, Ryan held the screaming high note on the twentieth fret as Cassidy sang:
 
-At `06:30` on the dot, Ryan stomped his master kill-switch.
+> *"I'm climbing! Climbing! Past the point of no return!*
+> *I'm flying! Flying! With the fire I let burn!*
+> *Just a signal, a distant light! Burning through the endless night!*
+> *Ad astra! (To the stars!)*
+> *Ad astra!*
+> *Into the silent, endless night!"*
+
+Ryan stomped his master kill-switch.
 
 *POP—KZZZZT—*
 
-Every amplifier and stage spot cut to instantaneous, dead silence.
+Every amplifier, bass, and drum on stage cut to instantaneous, dead silence.
 
-For one heartbeat, the vacuum of space hung over the stadium—and then thirty thousand people in the stands who didn't realize the four-movement suite was only halfway through erupted into a deafening standing ovation, cheering and whistling in the dark because they thought the song was over.
+For one heartbeat, the vacuum of space hung over the stadium—and then sixty-five thousand people in the stands erupted into a deafening roar, half the crowd leaping to their feet cheering in the dark because they thought the band had just brought a six-minute concert arrangement of the song to a triumphant finish.
 
-Sitting in the dark on stage-left, Ryan grinned across the deck at Evan. Holding his finger over the twelfth fret of his fretless bass, Evan waited five seconds for the wave of applause to crest, and then let a single, liquid harmonic bloom across the dark bowl to open ***Part III: The Cosmos (`06:30–10:45`)***.
+Out on the darkened stage, neither Cassidy nor Ryan moved an inch to take a bow. Holding his finger over the twelfth fret of his fretless bass, Evan waited for the wave of applause to crest, and then let a slow, floating fretless bass pulse and liquid, zero-gravity synthesizer pads swell underneath the cheering stadium to open ***Part III: The Cosmos***.
 
 At that exact millisecond, the infrared DMX transmitters atop the press box fired.
 
 Across all sixty-five thousand seats of **The Crucible**, every complementary LED wristband lit up at once—transforming the entire human bowl of the stadium into a living, breathing deep-space nebula of swirling crimson reds, sapphire blues, ultraviolet purples, and solar gold.
 
-Even from the stage, looking out from the center of a sixty-five-thousand-star galaxy, Ryan felt his breath catch. Using his volume pedal and an EBow so the attack of his pick completely disappeared, Ryan floated weightless, violin-like guitar swells beneath Cassidy's voice as she stepped out to the center edge of the stage, looked up at the glowing nebula of her alma mater, and sang the words that defined their 1986 origin:
+Even from the stage, looking out from the center of a sixty-five-thousand-star galaxy, Ryan felt his breath catch. Using his volume pedal and an EBow so the attack of his pick completely disappeared, Ryan floated weightless, violin-like guitar swells beneath Cassidy's voice as she sang the cosmic chorus (*"I'm loved by the sun! I'm held by the void! / An orbit just begun! A life not destroyed!"*) before rising into the bridge that defined their 1986 origin:
 
-> *"Look at the stars... no more cages, no more bars...*
+> *"I see the colors of the nebula*
+> *A place I've only seen in dreams*
+> *The reds, the blues, the purples call*
+> *Flowing in majestic streams...*
+> *This is the place I was meant to be!*
 > *This is the Stardust that is me!*
 > *The cosmos and the rocket's fire!*
-> *My one, my only true desire!"*
+> *My one, my only true desire!*
+> *Loved by the sun!"*
 
-When the full band crashed back in at `10:45` for the triumphant splashdown of ***Part IV: Re-entry (The New World) (`10:45–13:03`)***, all sixty-five thousand Forgers raised their glowing wrists toward the stage and roared the closing line in a single, earth-shaking voice:
+When the floating nebula pads finally gave way to a crisp, syncopated acoustic-and-electric groove for the triumphant splashdown of ***Part IV: Re-entry (The New World)***, the entire stadium surged back to life as Cassidy sang:
+
+> *"The Cage is broken, the victim-saint is gone!*
+> *A new clean script is in my head!*
+> *The friction burned away in the fire!*
+> *Leaving only my true desire!*
+> *I'm not escaping anymore!*
+> *I'm coming home to a brand new shore!"*
+
+Stepping right up to the front edge of the stage, Cassidy held her microphone out with both hands toward the stands—and all sixty-five thousand Forgers raised their glowing wrists toward the stage and roared the four words back in a single, earth-shaking voice:
 
 > **65,000 FORGERS:** ***"HELD BY THE SUN!"***
 
-As the final golden chord faded into the Appalachian night and the stadium shook with the longest ovation of the evening, Ryan watched Cassidy lower her forehead to her microphone, let out a shaky, radiant breath, and whisper into the live pickup:
+Riding a joyous, full-band stadium-rock outro (*"I'm held by the void! My orbit has begun! / A life is not destroyed! / Ad astra! Ad astra! Ad astra!"*), the entire nine-piece band slammed down together on a massive final chord.
 
-*"Thank you so much..."*
+As the final golden chord faded into the Appalachian night and the stadium shook with a minute-long standing ovation, Ryan watched Cassidy raise a hand to her heart, lower her forehead to her microphone, and whisper a breathless, overwhelmed:
 
-Twenty-six years ago at the Rosemont Horizon on *Live in Chicago*, she had whispered those exact four words at the end of *"If You Walked Away"* when she was twenty-three years old, exhausted to the point of collapse, and terrified of being abandoned. Tonight, at forty-nine, surrounded by sixty-five thousand people who loved her for exactly who she was, those same four words sounded like pure victory.
+> *"Thank you so much..."*
 
-Without breaking the deep-space atmosphere, the band glided upward through the two interlocking instrumental movements of **The Apoapsis Suite**—[**"Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=apoapsis-live-at-the-crucible) and [**"Second Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=second-apoapsis-live-at-the-crucible)—into the sweeping vocal horizon of [**"The Spectrum (True Color)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=the-spectrum-true-color-live-at-the-crucible) and the indigo planetarium calm of [**"Moon 1: Tidal Lock"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-12-moon-1-tidal-lock).
+Twenty-six years ago at the Rosemont Horizon on *Live in Chicago*, she had whispered those exact four words at the end of *"If You Walked Away"* when she was twenty-three years old, exhausted to the point of collapse, and terrified of being abandoned. Tonight, at forty-eight, surrounded by sixty-five thousand people who loved her for exactly who she was, those same four words sounded like pure victory.
+
+Without breaking the deep-space atmosphere, a canopy of cool indigo planetarium lasers fanned out overhead as the band glided upward through the two interlocking instrumental movements of **The Apoapsis Suite**—[**"Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=apoapsis-live-at-the-crucible) and [**"Second Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=second-apoapsis-live-at-the-crucible)—into the sweeping vocal horizon of [**"The Spectrum (True Color)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=the-spectrum-true-color-live-at-the-crucible) (*"And we are seeing the true spectrum! / A billion stars burning ultraviolet and blue"*) and the indigo planetarium calm of [**"Moon 1: Tidal Lock"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-12-moon-1-tidal-lock) (*"No matter how I turn, no matter where I fly / You are the only anchor in my sky / Yeah, I'm in a tidal lock with you!"*).
 
 ***
 
 #### 9:25 PM — Act IV: *Roche Limit & Mile Marker 98*
 
-And then, as the last tranquil indigo chord of Cassidy's *"Moon 1: Tidal Lock"* faded into the dark, the Planetarium Narrator's voice returned—urgent and sharp—as crimson emergency lasers sliced across the stadium bowl:
+And then, as the last tranquil indigo synthesizer pad of Cassidy's *"Moon 1: Tidal Lock"* faded into the starfield, every indigo planetarium laser overhead flashed emergency crimson.
+
+A low, urgent klaxon warning tone echoed across the stadium bowl as the **Engine Room Records Planetarium Narrator**'s voice cut through the dark:
 
 > *"Warning: Gravitational anomaly detected. Secondary satellite has crossed the Roche limit. Structural failure imminent. Brace for impact."*
 
@@ -415,17 +577,20 @@ Ryan unlocked his brakes, rolled all the way out to the front-center edge of the
 
 For the next twenty-five minutes, it was Ryan's turn to steer the ship.
 
-Where Cassidy's *Moon 1* used the astrophysics of a tidal lock to celebrate unbreakable stability, Ryan used the **Roche limit**—the gravitational distance at which a moon is torn apart by tidal forces—to confront the night of December 10, 1990 head-on. Tearing through [**"Moon 2: Roche Limit"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=moon-2-roche-limit-live-at-the-crucible) and straight into the visceral title cut of his 2003 concept album, [**"Impact (Mile Marker 98)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=impact-mile-marker-98-live-at-the-crucible), Ryan leaned into his center microphone while the 120-foot screen behind him flashed highway hazard beacons dissolving into a tumbling spacecraft hull:
+Where Cassidy's *Moon 1* used the astrophysics of a tidal lock to celebrate unbreakable stability, Ryan used the **Roche limit**—the gravitational distance at which a moon is torn apart by tidal forces—to confront the night of December 10, 1990 head-on. Tearing through [**"Moon 2: Roche Limit"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=moon-2-roche-limit-live-at-the-crucible) (*"We crossed the Roche Limit! / Tearing me apart, tearing me apart!"*) and straight into the visceral title cut of his 2003 concept album, [**"Impact (Mile Marker 98)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=impact-mile-marker-98-live-at-the-crucible), Ryan leaned into his center microphone while the 120-foot screen behind him dissolved from a blinding Iowa snowstorm into a high-velocity asteroid debris field:
 
-> *"Doing forty in the snow with the hazard beacons on,*
-> *One reckless shadow in the mirror and the highway's gone!*
+> *"I was holding the controls, trying to beat the storm*
+> *Trying to keep the Freighter steady, trying to keep it warm*
+> *Running forty through the dark, the hazard beacons bright...*
 > *We hit a massive fragment in the great unknown—*
 > *At Mile Marker 98, I lost the throne!*
 > *We're barely alive, but we survived the night!"*
 
-There was no self-pity in the way Ryan played it—only forty-eight-year-old muscle, calloused fingertips, and the roar of twin drum kits as Cassidy, Evan, and Tyler answered his distress beacon on [**"Mayday: The Intercept"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-13-mayday-the-intercept) and the heavy power-ballad pulse of [**"Star City: Orbital Ward"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=star-city-orbital-ward-live-at-the-crucible), translating his recovery at Star City General Hospital and Evan and Tyler's synchronized *"Freight Dog"* twin-lifts into an orbital rescue mission.
+There was no self-pity in the way Ryan played it—only forty-eight-year-old muscle, calloused fingertips, and the roar of twin drum kits as Cassidy, Evan, and Tyler answered his distress beacon on [**"Mayday: The Intercept"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-13-mayday-the-intercept). Then, over a rhythmic hospital heartbeat monitor and the calm voice of the Planetarium Narrator (*"Welcome back to the Engine Room Records Planetarium. Following the fragmentation event, the central engine has been salvaged and transported to the Star City Orbital Ward. Diagnostics indicate a complete and permanent severing of the T-10 power conduit. In the aftermath of a catastrophic impact, survival is no longer a matter of velocity, but of protocol..."*), Ryan tore into the heavy, stomping hard-rock groove of [**"Star City: Orbital Ward"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=star-city-orbital-ward-live-at-the-crucible), translating his recovery at Star City General Hospital, his strict four-hour **Protocol T-10** clock, and Evan and Tyler's synchronized *"Freight Dog"* twin-lifts into an orbital rescue mission.
 
-Finally, as Cassidy stepped up beside his wheelchair for the closing sibling duet of [**"Twin Moons: Touchdown"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=twin-moons-touchdown-live-at-the-crucible), Ryan locked his distorted Les Paul into unison with her analog synth brass (*"The Engine and the Anchor locking into the groove / We finally found the gravity, we're ready to move! / Touchdown!"*), bringing both Twin Moons down out of the freezing vacuum of space and landing them safely on solid ground in Blacksburg.
+Finally, as the red warning lasers melted into warm golden sunlight and Cassidy stepped up beside his wheelchair for the closing sibling duet of [**"Twin Moons: Touchdown"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=twin-moons-touchdown-live-at-the-crucible), Ryan locked his distorted Les Paul into unison with her analog synth brass (*"The Engine and the Anchor locking into the groove / We finally found the gravity, we're ready to move! / Touchdown!"*), bringing both Twin Moons down out of the freezing vacuum of space and landing them safely on solid ground in Blacksburg as the Planetarium Narrator concluded:
+
+> *"Atmospheric entry complete. Gravity is stable... The simulation is now concluded. Please exit safely, and welcome home."*
 
 ***
 
@@ -449,66 +614,93 @@ His guitar tech handed him his acoustic cedar-top dreadnought and quietly steppe
 
 For the first time all night, there were no drum kits, no synthesizer stacks, and no hundred-watt tube amplifiers. Just a brother and a sister sitting together in the middle of a sixty-five-thousand-seat stadium as if they were back in their living room on **Progress Street**.
 
-"In the autumn of 2008," Cassidy said softly into her piano microphone, her voice carrying across a stadium so hushed you could hear the May breeze rustling the flags atop the press box, "three years into our hiatus, Ryan and I set up two microphones in our living room here in Blacksburg. We didn't tell the press. We didn't book a tour. We just recorded an acoustic album called [**Our Own Frequency**](https://music.raggiesoft.com/artists/the-stardust-engine/2008-our-own-frequency) and uploaded it on a Tuesday morning with a one-sentence note: *'We're still here, and we're okay.'* We've never played any of these songs in front of a live audience before tonight."
+"Evan and Tyler are gonna take five backstage for a little bit," Cassidy said softly into her piano microphone, her voice carrying across a stadium so hushed you could hear the May breeze rustling the flags atop the press box. "Back in two thousand and eight, right in the middle of our ten-year hiatus, Ryan and I couldn't face the cameras or the stadiums anymore. So we locked the front door of our house right down the road on Progress Street, sat down in the living room with just an acoustic guitar, a piano, and two microphones, and recorded an album we never toured."
 
-Sitting shoulder-to-shoulder with his sister, Ryan fingerpicked the warm, intimate acoustic intro of [**"Our Own Frequency"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-14-our-own-frequency), their voices blending in the effortless sibling harmony they had shared since they were children.
+"We just uploaded it on a Tuesday morning with one sentence: *'We're still here, and we're okay,'*" Ryan added into his boom mic, smiling out at the quiet dark. "We never thought we'd play these songs in a stadium... but tonight, sixty-five thousand of you feel just like our living room."
 
-When the final acoustic harmonic faded into the quiet night air, Ryan rested his forearm along the curve of his cedar-top guitar and looked up at the sixty-five thousand people sitting in the dark around them. His throat felt dry, his heart beating a steady, honest `76 BPM` against his ribs. For all the years he had written songs about rockets, Roche limits, and orbital wards to explain what had happened to him on December 10, 1990, tonight—in their own house—he wanted to drop the metaphors completely.
+Sitting shoulder-to-shoulder with his sister, Ryan fingerpicked the warm, intimate acoustic intro of [**"Our Own Frequency"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-14-our-own-frequency) (*"Just the piano and the six-string strum / Before the noise and the kingdom come / No one to tell us how the story ends / Just a brother and a sister and the time we spend / On our own frequency / Just you and me"*), their voices blending in the effortless sibling harmony they had shared since they were children.
 
-"Twenty-five years ago," Ryan said quietly into his microphone, "after a car clipped our van in the snow at **Mile Marker 98** outside Des Moines and left me paralyzed from the waist down at T10, I wrote a lot of loud rock songs about starships and debris fields because it was easier than talking about what everyday life actually looks like when your legs don't work anymore."
+When the final acoustic harmonic faded into pin-drop silence, Ryan rested his forearm along the curve of his acoustic guitar and looked up at the sixty-five thousand people sitting in the dark around them. His heart beat a steady, honest `76 BPM` against his ribs.
 
-Across the stadium, not a single person made a sound. Down in `Section 104, Row A, Seat 1`, Ryan could see the young man in the manual wheelchair leaning forward with his hands resting on his handrims, listening intently.
+"Earlier in *Star City: Orbital Ward*, we sang about the four-hour clock and the maintenance protocols in sci-fi metaphors," Ryan said softly, his voice echoing clearly off the quiet limestone stands. "This next song is the centerpiece of [**Our Own Frequency**](https://music.raggiesoft.com/artists/the-stardust-engine/2008-our-own-frequency), and it's the most private song Cassidy and I have ever written—without any metaphors at all. People look up at a stage and see two hours of lights and guitars. They don't see what T-ten paralysis actually takes behind closed doors. They don't see Cassidy and Evan and Tyler helping me through my daily care and toileting routines, or stretching my legs every morning so they don't atrophy. They don't see how we push the bed against the wall at night so I can sleep on the inside, and my sister sleeps on the outside edge as a human bed rail so I don't roll off in the dark."
 
-"The truth," Ryan continued, his voice steady and unashamed, "is that the hardest part of a spinal cord injury isn't the two hours you spend on stage under the spotlights. It's the other twenty-two hours of the day—what doctors call **ADLs**, Activities of Daily Living. It's the strict four-hour hydration and catheterization clock we call **Protocol T-10** so my kidneys stay safe. It's Cassidy and Evan and Tyler stretching my legs every single morning so the muscle spasms don't lock up my hips. It's pushing my chair up steep hotel ramps in strange cities. And at night, when the bed in a hotel room or at home is pushed flush against the wall, it's me sleeping on the inside against the wall and my big sister Cassidy sleeping on the outside edge of the mattress—acting as a **human bed-rail** so I don't roll off onto the floor in the middle of the night."
+Across the stadium, not a single person made a sound. Down in `Section 104, Row A, Seat 1`, Ryan could see the young man in the manual wheelchair leaning forward with his hands resting on his handrims, listening intently while his friends stood close around his chair.
 
-A soft, emotional murmur rippled through the sixty-five thousand Forgers in the stands. Beside him on the piano bench, Cassidy reached over with her left hand and squeezed Ryan's fingers once before resting her hand on his shoulder.
+Beside Ryan on the piano bench, Cassidy smiled tenderly through her glasses and spoke into her mic:
 
-"In 2008, we wrote a song called [**'Brother's Keeper'**](https://music.raggiesoft.com/artists/the-stardust-engine/2008-our-own-frequency?track=1-05-brothers-keeper) about what my sister and my cousins do for me every single day, and how I try to be Cassidy's anchor when the noise and the lights of the world get too loud for her," Ryan said. He took a deep breath. "I'm forty-eight years old now. Twenty-six years after that crash in Iowa, the physical toll of managing those daily routines on buses, airplanes, and hotel rooms across the world has gotten too hard on my body, and too hard on the people I love. And so I want you to hear it from us first: **tonight is the last concert a touring Stardust Engine will ever play.**"
+"And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does."
 
-An audible, collective gasp rose from sixty-five thousand throats across the stadium bowl.
+Ryan took a slow breath.
 
-Instantly, Cassidy leaned into her piano microphone with a warm, reassuring smile.
+"Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when I was twenty-two in nineteen-ninety," Ryan continued, his voice honest and steady. "Twenty-six years later... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. Tonight is the final stop of the *Reignition* tour... and tonight is the last concert a touring Stardust Engine will ever play."
 
-"Wait—don't panic!" Cassidy said, laughing softly through the emotion in her voice. "We aren't breaking up, and we aren't retiring from music! We're just done living out of suitcases on the road. If you want to hear The Stardust Engine play live from now on... you're going to have to come visit us at home in Blacksburg!"
+An audible, collective gasp rippled across sixty-five thousand people inside **The Crucible**, followed by a warm, deeply respectful wave of supportive applause rising from the turf.
 
-A sudden, thunderous roar of relief and joy erupted across the stadium as the 120-foot curved screen behind them illuminated in warm gold lettering:
+Instantly, Cassidy leaned forward into her piano microphone, her eyes sparkling behind her glasses:
 
-> **`THE FORGER NATION SUMMER FESTIVAL • BLACKSBURG, VIRGINIA • LAUNCHING AUGUST 2017`**
+"Wait—don't be sad! We aren't retiring!" Cassidy called out over the murmur. "If touring the world is too hard on Ryan, then the world can come to Blacksburg! To give the **Town of Blacksburg** and **CPI** time to build this right, starting in **August 2017**, we're launching the annual **Forger Nation Summer Festival**! A massive CPI Open House for incoming and prospective freshmen, the biggest downtown Blacksburg block party of the summer with stages for signed and unsigned bands, and every single year we'll close the festival right here inside **The Crucible** with fireworks—and sleep in our own beds on Progress Street every night!"
 
-"To give the Town of Blacksburg and **Commonwealth Polytechnic Institute** a full year to plan the logistics," Cassidy announced over the cheering crowd, "starting on the **first weekend of August 2017**, Engine Room Records and CPI are launching the annual **Forger Nation Summer Festival** right here at home! Every August, we're turning all of campus into a university-wide CPI Open House, turning downtown Blacksburg and Progress Street into a massive three-day street festival for both signed and unsigned bands, and every Saturday night of Festival Weekend, **The Stardust Engine** will take this stage inside **The Crucible** for our permanent annual homecoming concert and fireworks!"
+For ten full seconds, a thunderous roar of relief and joy erupted across the stadium as the 120-foot curved LED screen behind the piano illuminated in warm gold lettering:
 
-The ovation lasted for nearly two full minutes before settling back into a reverent, pin-drop hush as Ryan's fingers began to pluck the tender acoustic arpeggio of [**"Brother's Keeper"**](https://music.raggiesoft.com/artists/the-stardust-engine/2008-our-own-frequency?track=1-05-brothers-keeper).
+```
+THE FORGER NATION SUMMER FESTIVAL
+CPI OPEN HOUSE • DOWNTOWN BLACKSBURG BLOCK PARTY • THE CRUCIBLE RESIDENCY
+INAUGURAL WEEKEND: AUGUST 2017
+```
 
-One by one across the darkened stadium, sixty-five thousand fans raised quiet white phone lights into the air—not the programmed computer wristbands, just sixty-five thousand human hands holding up a warm sea of candlelight while Ryan and Cassidy sang their most private truth to their hometown family, flowing directly into 2008's [**"Safe Person"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-16-safe-person) and a stripped-down acoustic grand piano and fingerpicked guitar rendition of 2015's [**"Still Your Safe Person"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=still-your-safe-person-live-at-the-crucible):
+As the cheers gently hushed back to pin-drop silence, Ryan whispered into his microphone, *"This is 'Brother's Keeper,'"* and Cassidy's fingers began the delicate, melancholy grand-piano intro of [**"Brother's Keeper"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-15-brothers-keeper), joined seconds later by Ryan's steady, comforting fingerpicked acoustic guitar:
 
-> *"Still your safe person, after all these years,*
-> *Still the quiet harbor when the world appears.*
-> *Through the stadium thunder and the bright marquee,*
-> *You can drop the armor when you look at me."*
+> *"They look at the chair and they think it's weak*
+> *They whisper their pity whenever we speak*
+> *But they don't see the mornings, the stretches and pain*
+> *The quiet routines keeping us sane*
+> *Sleeping on the edge, a human bed rail*
+> *Catching the other whenever we fail..."*
+
+One by one across the darkened stadium, sixty-five thousand fans raised quiet white phone lights into the air—not the programmed computer wristbands, just sixty-five thousand human hands holding up a warm sea of candlelight while Ryan and Cassidy harmonized on the chorus (*"We trade all the armor, we trade all the scars / We built our own world underneath all the stars / When the body won't work, we become our own feet / When the pressure is heavy, we make it retreat"*), flowing directly into 2008's [**"Safe Person"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-16-safe-person).
+
+As the final chord of *"Safe Person"* lingered in the quiet night air, Cassidy smiled across the piano at Ryan.
+
+"On *Reignition*, we recorded the sequel to *'Safe Person'* with the full stadium band," Cassidy told the crowd softly, "but since we're still sitting here in our living room with you guys, Ryan and I wanted to strip this one all the way down to just the piano and the six-string."
+
+Without a single drum or electric amplifier, brother and sister sang the stripped-down acoustic grand-piano and fingerpicked guitar rendition of 2015's [**"Still Your Safe Person"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=still-your-safe-person-live-at-the-crucible):
+
+> *"When the static hits a hundred and the room begins to spin*
+> *I am still your safe person—let the quiet in!*
+> *Put your headphones on or lean against my shoulder tight*
+> *I will hold the perimeter throughout the longest night!"*
 
 ***
 
-#### 10:10 PM — Act VI: *Saturday Night Lights* & The False Ending
+#### 10:15 PM — Act VI: *Saturday Night Lights* & The False Ending
 
-When **Evan**, **Tyler**, and the **Orbital Crew** walked back out onto the stage deck at `22:10` to open **Act VI: *The Homecoming Sprint***, Ryan swapped his acoustic guitar back for his sunburst Les Paul.
+When **Evan**, **Tyler**, and the **Orbital Crew** walked back out onto the stage deck at `22:15` to open **Act VI: *The Homecoming Sprint***, Ryan swapped his acoustic guitar back for his sunburst Les Paul.
 
 Because 1989's *"If You Walked Away"* had been permanently banned from every Stardust Engine setlist after the 1990 crash to protect Cassidy from autistic sensory and abandonment overload, they opened the full-band electric return with 1997's [**"Echoes in the Wire"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-17-echoes-in-the-wire).
 
-And the instant *"Echoes in the Wire"* ended, all four massive **Ironstone** stadium floodlight towers high above the east and west rims blazed back on at one hundred percent power—bathing the turf and the stands in the unmistakable, electric daylight of a fourth-quarter Saturday night in Blacksburg.
+And the instant *"Echoes in the Wire"* ended, all four massive **Ironstone** stadium floodlight towers high above the east and west rims blazed back on at one hundred percent power—bathing the turf and the stands in the unmistakable, electric daylight of a fourth-quarter Saturday night in Blacksburg as Ryan wheeled to the front of the stage and struck a ringing stadium guitar chord.
 
-"Back in October 2004," Ryan shouted into his microphone as sixty-five thousand fans shielded their eyes and roared at the sudden stadium floodlights, "we gave the athletic department the studio master of a song from our *Progress Street* album to play over the PA between the third and fourth quarters! And we made a vow twelve years ago that we would **only** ever play this song live when we were standing inside **The Crucible**! For the very first time on a concert stage—this is [**'Saturday Night Lights: The Crucible'**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-18-saturday-night-lights-the-crucible)!"
+"Back in two thousand and four," Ryan shouted into his microphone as sixty-five thousand fans leaped to their feet and roared at the sudden stadium floodlights, "we gave this next track to the university to play over the stadium speakers between the third and fourth quarters! We made a promise twelve years ago that we would **never** play this song live at a concert unless we were standing right here inside **The Crucible**! Blacksburg—welcome to the fourth quarter!"
 
-The entire stadium turned into a fourth-quarter pep rally as sixty-five thousand people jumped in unison (`"GO FORGERS! GO CPI!"`), rolling straight into a jubilant hometown sprint: [**"Progress Street: Where the Fire Began"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-19-progress-street-where-the-fire-began), [**"Neon on the Huckleberry Trail"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=neon-on-the-huckleberry-trail-live-at-the-crucible)—celebrating the paved rail-trail between Blacksburg and Christiansburg where the family pushed Ryan's chair at twilight while the stadium floodlights glowed like neon over the valley—and the 1980s arena-rock punch of 1989's [**"Neon Hearts"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-20-neon-hearts).
+"Hold those four fingers up, Forger Nation!" Cassidy shouted, raising four fingers toward the night sky. "Let's light up the mountains!"
 
-When Cassidy's warm grand piano intro opened 1987's [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-21-my-anchor-holds) under candlelight-gold and starlight-white beams, Ryan glanced out toward `Section 104, Row A, Seat 1` while playing the soaring guitar melody. There at the terrace railing, the blonde woman in the orange scarf had her arms wrapped warmly around the shoulders of the young man in the wheelchair, her cheek resting against his temple as sixty-five thousand voices sang the chorus back to the stage.
+The entire stadium turned into a fourth-quarter pep rally for the live concert debut of [**"Saturday Night Lights: The Crucible"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-18-saturday-night-lights-the-crucible) as sixty-five thousand people jumped in unison (`"GO FORGERS! GO CPI!"`), rolling straight into [**"Progress Street: Where the Fire Began"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-19-progress-street-where-the-fire-began).
 
-After the triumphant charge of [**"Reignition: Lights Up on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-22-reignition-lights-up-on-progress-street), the band slowed the tempo down for what everyone in the stadium believed was the final song of the night: 2004's [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-23-last-bus-home-lights-out-on-progress-street).
+As the final chord of *"Progress Street"* rang out, Marcus Vance handed Ryan a shimmering twelve-string electric guitar.
+
+"When we're home in Blacksburg and the sun starts going down behind the mountains," Ryan called out with a grin, "there's one place the four of us always go—six miles of paved rail-trail between here and Christiansburg, with the Crucible tower lights glowing like neon in the evening sky! This is [**'Neon on the Huckleberry Trail'**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=neon-on-the-huckleberry-trail-live-at-the-crucible)!"
+
+Trading joyous vocal verses with Cassidy (*"Race you back to Progress Street!"* / *"You're on, Cass!"*), the band sprinted straight into the 1980s arena-rock punch of 1989's [**"Neon Hearts"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-20-neon-hearts).
+
+When Cassidy's warm grand piano intro opened 1987's [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-21-my-anchor-holds) under candlelight-gold and starlight-white beams, Ryan glanced out toward `Section 104, Row A, Seat 1` while playing the soaring guitar melody. There at the terrace railing, the blonde woman in the orange scarf stood directly behind the young man's wheelchair with her arms wrapped warmly around his chest and her chin resting on his shoulder, swaying with their friends as sixty-five thousand voices sang the chorus back to the stage.
+
+Then, with Ryan's spoken grin (*"Good morning, Forger Nation"*) and Cassidy's shout (*"The switches are back on! Let's go!"*), the band unleashed one more explosive burst of fireworks on the comeback anthem [**"Reignition: Lights Up on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-22-reignition-lights-up-on-progress-street) before slowing the tempo down at `22:35` for what everyone in the stadium believed was the final song of the night: 2004's [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-23-last-bus-home-lights-out-on-progress-street).
 
 One by one, the stage lights dimmed until only a single porch-light amber spot remained over Cassidy's piano and Ryan's chair. As the drums and bass faded to a lone upright piano chord, Cassidy leaned into her mic:
 
 *"Lights out on Progress Street..."*
 
-Ryan reached back toward the standby toggle switch on his amplifier head.
+Ryan reached back toward the main toggle switch on his amplifier rack.
 
 "Goodnight, Forger Nation," Ryan said softly into his microphone. "We love you."
 
@@ -536,46 +728,86 @@ Not a single brass player bumped a bell. Not a single snare drummer clicked a st
 
 After ninety seconds of darkness, **Cassidy** pressed a single, warm, sustained chord on her grand piano.
 
-A lone white spotlight bloomed over her at center stage. Across the stadium, people who had stepped into the aisles froze in their tracks and turned back toward the stage.
+A lone white spotlight bloomed over her at center stage. Across the stadium, people who had stepped into the aisles froze in their tracks and turned back toward the stage as Cassidy looked up at the sixty-five thousand faces rising into the Blacksburg sky:
 
-"Wait a second..." Cassidy said into her microphone, a mischievous grin in her voice as sixty-five thousand fans roared with laughter and excitement. "You didn't really think we were going to leave our own house on a slow song, did you?!"
+> *"Blacksburg! We've been all over the world... but there is no better feeling...*
+> *Than ending this entire tour... right here at home, in the Crucible!*
+> *Are you with us one last time Forger Nation?*
+> *Let's go!"*
 
-The stadium erupted.
-
-"Twenty-nine years ago," Cassidy called out over the sustained piano chord, "when we were sophomores right here at **CPI**, we wrote a song in our garage on **Progress Street**. When our old record label released it in 1987, they stripped out Ryan's rock guitars, replaced Tyler's drums with a drum machine, and turned it into a dance-pop single. For twenty-nine years, you've only ever heard their version. Tonight—with a little help from three hundred of our friends—we're going to play it the way it always sounded in our heads!"
-
-In the dark behind her, Drum Major **Sarah Jenkins** blew her silver whistle (`Tweet-Tweet-Tweet-Tweet!`), **"The Engine Room"** snare battery ripped into a blistering 126 BPM Kevlar roll-off, and every bank of stadium floodlights blasted on in blinding white and gold!
-
-At `0:23`, Ryan kicked in his dual-stack tube overdrive and unleashed the towering, seventy-seven-second **1980s Album-Oriented Rock (AOR)** guitar-and-300-horn brass overture that Cassidy had disguised all semester in the Marching Forgers' folders as ***'Exercise 87-B: The Anvil Finale'***.
+At `0:23`, every bank of stadium floodlights blasted on in blinding white and gold as Ryan, Cassidy, Evan, and Tyler fused with all three hundred members of the **CPI Marching Forgers** to unleash the towering, seventy-seven-second **1980s Album-Oriented Rock (AOR)** guitar-and-300-horn brass overture that Cassidy had disguised all semester in the Marching Forgers' folders as ***'Exercise 87-B: The Anvil Finale'***.
 
 It was one of the most fun seventy-seven seconds of Ryan's entire life.
 
-Because the roaring, Van Halen-meets-Journey stadium rock guitar fanfare and three-hundred-piece collegiate brass counter-melody sounded nothing like the glossy 1987 synth-pop radio single, Ryan could look right out across the front rows and `Section 104, Row A` and watch sixty-five thousand die-hard fans grinning in total bewilderment—leaning over to their friends and mouthing *"Wait, is this a brand-new song?!"*
+Because the roaring, Van Halen-meets-Journey stadium rock guitar fanfare—complete with a dramatic false start, choppy tension-building syncopations, blistering twin-lead arena-rock guitars, and a three-hundred-piece collegiate brass counter-melody—sounded nothing like the glossy 1987 synth-pop radio single that Apex Records had manufactured when they stripped out Ryan's rock guitars and replaced Tyler's drums with a drum machine, nobody in the building had any idea what song they were playing. Ryan could look right out across the front rows and `Section 104, Row A` and watch sixty-five thousand die-hard fans grinning in total bewilderment—leaning over to their friends and shouting *"What song is this?! Is it a brand-new song?!"*
 
-Forty seconds passed. Then sixty seconds. Then seventy-five seconds, as Ryan climbed the fretboard in a screaming dual-lead harmony with Marcus Vance and all three hundred Marching Forgers hit a colossal, stadium-shaking brass crescendo at `1:39`—
+Forty seconds passed. Then sixty seconds. Then seventy-five seconds, as Ryan climbed the fretboard in a screaming dual-lead harmony with Marcus Vance and all three hundred Marching Forgers hit a colossal, stadium-shaking brass crescendo—
 
-And at **`1:40` on the dot**, every guitar, synthesizer, and horn on the stage dropped out completely.
+And at **`1:40` on the dot**, every guitar, synthesizer, and horn on the stage cut out completely.
 
-Only Tyler's heavy, booming 1980s arena kick drum and snare backbeat remained (*BOOM—CRACK! BOOM—CRACK!*).
+In the sudden silence of the sixty-five-thousand-seat fortress, only Tyler's isolated, chest-rattling kick drum kept pounding (*BOOM... BOOM... BOOM...*).
 
-Stepping up to her microphone at the front edge of the stage, Cassidy smiled out at sixty-five thousand people and sang the seven words every Forger in the valley knew by heart:
+Stepping up to her microphone at the front edge of the stage, Cassidy smiled out at sixty-five thousand people and sang the first four lines:
 
-> *"Woke up this morning, the world was gray..."*
+> *"Woke up this morning, the world was gray*
+> *Didn't know the colors had all faded away*
+> *Been living in a room with the curtains drawn tight*
+> *Then you flipped a switch and turned on the light"*
 
 The sound of sixty-five thousand people realizing at the exact same second that they were listening to [**"Electric Color"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=electric-color-live-at-the-crucible)—reclaimed at last as a full-throttle **1980s Stadium Rock** anthem—was the single loudest human sound Ryan O'Connell had ever heard on Planet Earth.
 
-And on the downbeat of the first chorus at `2:12`, the DMX transmitters fired the final command of the night.
+Suddenly, even Tyler's kick drum dropped out completely, leaving Cassidy's soaring voice completely unaccompanied against the roar of sixty-five thousand people across the dark valley:
+
+> *"The city sounds were just a buzz in my ear*
+> *A static station I could never quite hear*
+> *But now the noise is turning into a song*
+> *And I finally feel like I belong"*
+
+And when the full 1980s Arena Rock band and all three hundred **CPI Marching Forgers** slammed in together on the chorus at maximum power, the DMX transmitters fired the final command of the night.
 
 Across all sixty-five thousand seats of **The Crucible**, every LED wristband exploded into a sweeping, thirty-tier rainbow wave of electric cyan, magenta, solar gold, emerald green, and ultraviolet purple—while Ryan's overdriven Les Paul, Cassidy's soaring vocals, Evan and Tyler's thunderous rhythm section, and three hundred CPI Marching Forgers shook the Gothic limestone walls to their foundations:
 
-> **65,000 FORGERS:** ***"LIVING IN ELECTRIC COLOR! SHINING THROUGH THE NIGHT!***
-> ***WE DON'T NEED NO OTHER—BLINDED BY THE LIGHT!"***
+> *"Oh, I'm seeing in electric color*
+> *Finding a rhythm I never knew*
+> *Dancing in a brand new summer*
+> *My whole world feels bright and new*
+> *It's an electric-colored feeling*
+> *And it all started with you!"*
 
-Rolling right up to the front edge of the stage during his `3:35` guitar solo as rainbow confetti cannons and fifty-foot golden Roman candles erupted from the stadium roof catwalks, Ryan looked out across the fifty-yard line toward `Section 104, Row A, Seat 1`.
+After Evan's heavy bass groove drove through the bridge, the music cut out completely to a deafening stadium roar at `2:53`. Looking out across her alma mater, Cassidy's voice rang off the Ironstone walls:
 
-Down at the terrace railing, bathed in falling rainbow confetti and the glow of sixty-five thousand wristbands, the young man in the manual wheelchair had both hands raised high toward the sky, laughing through happy tears behind his rectangular glasses while his blonde partner and his friends danced and sang around his chair.
+> *"Can you feel that, CPI?*
+> *That's the sound of a new world.*
+> *No more gray.*
+> *Just... color.*
+> *Here comes the solo!"*
 
-*Yeah,* Ryan thought, bending the final soaring note of his solo toward the Appalachian stars as sixty-five thousand Forgers sang them home. *That's why we never gave up.*
+Rolling right up to the front edge of the stage at `3:07`, Ryan unleashed a massive, screaming stadium guitar solo from his wheelchair that handed off seamlessly into Cassidy's sweeping analog synthesizer solo before Cassidy called out, *"Sing it with me Blacksburg! One last time!"*
+
+When the band stripped the instrumentation back down to Tyler's isolated kick drum at `4:05`, Cassidy held her microphone out toward the stands:
+
+> *"Just you! Let me hear you sing it!"*
+> **65,000 FORGERS:** ***"Oh-oh-oh! Electric Color!"***
+> *"I can't hear you! For the end of the tour!"*
+> **65,000 FORGERS:** ***"Oh-oh-oh! Electric Color!"***
+
+Looking out across the fifty-yard line toward `Section 104, Row A, Seat 1`, Ryan saw the young man in the manual wheelchair with both hands raised high into the glowing rainbow air, laughing through happy tears behind his rectangular glasses while his blonde partner and his friends linked arms around his chair.
+
+Cassidy roared **`"COME ON!"`**—and the full rock band fused with all three hundred members of the **CPI Marching Forgers** in a colossal brass-section swell, drumline explosion, rainbow confetti cannons, and fifty-foot golden Roman candles as sixty-five thousand voices belted the final chorus into the Appalachian night:
+
+> **65,000 FORGERS:** ***"OH, I'M SEEING IN ELECTRIC COLOR***
+> ***FINDING A RHYTHM I NEVER KNEW***
+> ***DANCING IN A BRAND NEW SUMMER***
+> ***MY WHOLE WORLD FEELS BRIGHT AND NEW***
+> ***IT'S AN ELECTRIC-COLORED FEELING***
+> ***AND IT ALL STARTED WITH YOU!"***
+
+*Yeah,* Ryan thought, hitting the final sustained stadium power chord alongside three hundred blaring horns and a heavy gong strike. *That's why we never gave up.*
+
+As the five-minute-and-twenty-six-second chord echoed across the valley under a sky full of maroon, orange, and rainbow fireworks, Cassidy's voice rang out over the cheering stadium one final time:
+
+> *"Thank you Forger Nation! Thank you Blacksburg!*
+> *We love you! We're home! Goodnight!"*
 
 ***
 

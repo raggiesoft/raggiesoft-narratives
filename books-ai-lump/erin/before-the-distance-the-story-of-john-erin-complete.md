@@ -26,7 +26,7 @@ They rolled side by side into the Second-Floor Lounge. The student activities vo
 
 At the front of the room, a sophomore wearing a CPI Student Activities polo stood behind a rolling media cart equipped with a dual-deck AudioStar CD system and two amplified PA speakers.
 
-"Alright, everyone, welcome!" the organizer called out into a handheld microphone, tapping the grille twice. "Instead of using an obnoxious kitchen timer or a whistle to signal the end of each rotation, we're keeping things civilized tonight. Every round is timed to Track 3 here—*Seconds Into Forever*. It's an eighty-five-BPM power ballad, and it runs exactly three minutes and zero seconds. When the synth pad fades out at the end of the song, you thank your partner and rotate one table to the left!"
+"Alright, everyone, welcome!" the organizer called out into a handheld microphone, tapping the grille twice. "Instead of using an obnoxious kitchen timer or a whistle to signal the end of each rotation, we're keeping things civilized tonight. Every round is timed to Track 3 on the new [**Progress Street**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street) CD by CPI's own [**The Stardust Engine**](https://stardust.raggiesoft.com)—[**'Seconds Into Forever'**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-03-seconds-into-forever). It's an eighty-five-BPM power ballad, and it runs exactly three minutes and zero seconds. When the synth pad fades out at the end of the song, you thank your partner and rotate one table to the left!"
 
 He pressed play on the first round. Warm, sparkling synthesizer pads and clean electric guitar arpeggios floated out of the speakers:
 
@@ -59,7 +59,7 @@ Unlike the previous three students, who had glanced nervously at their name tags
 
 "I traded numbers with two girls in line so I wouldn't have to wait," Valerie replied without missing a beat, flashing a sharp, magnetic smile that made John's pulse jump. "Everyone else in this room is making small talk about syllabus week. You've been actually listening to every person who sat down in front of you. You're rare, John."
 
-Up at the front media cart, the student organizer was juggling a stack of sign-in clipboards with one hand while reaching blindly for the "|<<" restart button on the AudioStar CD player with the other. In his rush, his thumb missed the back button by half an inch and jammed down hard on ">>|" instead—skipping right past Track 3 and landing on Track 4.
+Up at the front media cart, the student organizer was juggling a stack of sign-in clipboards with one hand while reaching blindly for the `|<<` restart button on the AudioStar CD player with the other. In his rush, his thumb missed the back button by half an inch and jammed down hard on `>>|` instead—skipping right past Track 3 and landing on Track 4, [**"Thunder in the Rain"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-04-thunder-in-the-rain).
 
 For ten seconds, a lush, cinematic analog brass-synth swell filled the lounge. Half the room assumed it was an extended intro to the ballad.
 
@@ -117,7 +117,14 @@ Erin's jaw tightened as two figures finally appeared through the mist at the bot
 
 John's power wheelchair was climbing the grade toward The Keystone Bridge at half its normal speed. Even from forty feet away, Erin could see why: Valerie was walking right beside his left wheel, one hand clamped tightly around the upright frame of his backrest while the other held a single black umbrella angled entirely over her own head, leaving cold rainwater to drip steadily off the rims of John's tortoiseshell glasses.
 
-As they rolled beneath the vaulted Ironstone arch of The Keystone Bridge beside the roaring curbside line of buses, Erin felt a cold knot twist in her stomach.
+As they rolled beneath the vaulted Ironstone arch of The Keystone Bridge beside the roaring curbside line of buses, Erin felt a cold knot twist in her stomach. Through the open window of the Kincaid Hall student lounge above them, the mid-tempo synth heartbeat and dramatic drums of [**"Before the Distance"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-08-before-the-distance) drifted out into the November mist:
+
+> *"I saw the shadow falling across your face*
+> *A quiet surrender in a crowded place*
+> *You wore a mask, but the edges were frayed*
+> *Lost in the rules of a game that we played*
+> *I should have reached out, I should have stood tall*
+> *But I let the silence echo down the hall..."*
 
 John looked hollowed out. Dark, bruised shadows hung beneath his eyes. His shoulders were hunched inward over his armrests, his gaze fixed on the wet concrete three feet ahead of his front casters—a quiet surrender in a crowded place. He wore a polite, practiced smile as he looked up at Erin, but the edges of the mask were completely frayed.
 
@@ -149,9 +156,16 @@ For three seconds, Erin sat frozen under the stone arch of The Keystone Bridge, 
 
 Then John looked back at her as Valerie nudged his backrest toward the open front door of the bus.
 
-His glasses were fogged at the edges, his shoulders hunched against the freezing Blacksburg rain, his right hand limp and motionless beside his controller. In his eyes was a silent, drowning plea—a man about to be swallowed by the distance the second those steel bus doors closed behind him.
+His glasses were fogged at the edges, his shoulders hunched against the freezing Blacksburg rain, his right hand limp and motionless beside his controller. In his eyes was a silent, drowning plea—a man about to be swallowed by the distance the second those steel bus doors closed behind him:
 
-*Not tonight,* Erin thought. *Not my brother.*
+> *"When the steel doors close and the platform clears*
+> *You can hear the truth grinding in the gears*
+> *Heed the warning hiding in his eyes*
+> *Before the distance leaves your soul behind*
+> *Trust the silence when he calls your name*
+> *'Cause once it's gone, nothing stays the same..."*
+
+*Not tonight,* Erin thought. *Logic is a cage when the danger is real—you can't code the panic, you can't fake what you feel. Whatever it costs me, I'm taking him back.*
 
 Before John's front casters could touch the bottom lip of the aluminum bus ramp, Erin pushed her joystick forward. Her dual electric motors engaged with a deep, authoritative hum. She drove straight out from beneath the bridge arch across the rain-slicked sidewalk of Commonwealth Mall, cutting across the concrete at a sharp angle and locking her brakes directly between John's footrests and the deployed front ramp of the bus.
 
@@ -235,7 +249,15 @@ Under the dry shelter of the porch awning, Erin reached into John's side pocket,
 
 "Out of range," Erin said softly, tucking the silent phone into her pouch and unlocking the front door.
 
-Inside, the apartment was warm and quiet, smelling of cinnamon, dry wool, and safe harbor. As the heavy deadbolt clicked shut behind them, sealing out the November gale, John let out a long, shuddering breath and rested his forehead against his sister's shoulder.
+Inside, the apartment was warm and quiet, smelling of cinnamon, dry wool, and safe harbor. On the bookshelf stereo by the window, the dramatic grand piano and shimmering synthesizer pads of [**"Sanctuary in the Storm"**](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds?track=1-13-sanctuary-in-the-storm) played softly in the warm room:
+
+> *"You are my sanctuary in the storm*
+> *A fire here to keep me safe and warm*
+> *When the thunder rolls and the cold winds blow*
+> *I'll never let you go*
+> *We are a sanctuary in the storm..."*
+
+As the heavy deadbolt clicked shut behind them, sealing out the November gale, John let out a long, shuddering breath and rested his forehead against his sister's shoulder.
 
 "You stood right in front of the ramp for me," John whispered, his voice thick as his eyes stung behind his wet glasses. "When she kept insisting I get on that bus... you locked the whole sidewalk down."
 
@@ -259,33 +281,52 @@ As John rounded the Ironstone pillar at the end of the breezeway, the low murmur
 
 John stopped his chair in the shadow of the archway. Every nerve in his body went ice-cold, and then white-hot.
 
-He knew that cadence. He knew the exact melody of that counterfeit concern—the flattering smile, the subtle poison designed to make love look like a burden and family look like a cage.
+He knew that cadence. He knew the exact melody of [**"Not Her"**](https://music.raggiesoft.com/artists/the-stardust-engine/2007-lost-sounds?track=1-14-not-her)—that easy charm, that practiced smile, the subtle poison designed to make love look like a burden and family look like a cage:
 
-In the recessed alcove by the elevator, Erin sat in her power wheelchair with her back flush against the Ironstone wall. Standing directly in front of her footrests was Marcus Vance, a senior from the business school wearing a tailored charcoal coat. He had planted one polished leather boot on the base of the concrete ramp and rested his left hand on the top edge of the wall beside Erin's shoulder, effectively boxing her chair into the narrow corner so she couldn't pivot without clipping his shins.
+> *"I see you move, I see your style*
+> *That easy charm, that practiced smile*
+> *You think you're clever, think you're slick*
+> *You've got your whole routine down to a trick*
+> *You see a quiet, gentle soul*
+> *Another prize to make you whole*
+> *But I've seen that look in someone's eyes before*
+> *And I won't let you walk through that door..."*
 
-"I told you, Marcus, I'm heading home with John," Erin said. Her voice was steady, but John knew his sister better than anyone alive—he saw the way her right thumb was tensed against her joystick, searching for a three-inch clearance that wasn't there. "Please step back from my footrests so I can turn around."
+In the recessed alcove by the elevator, Erin sat in her power wheelchair with her back flush against the Ironstone wall. Standing directly in front of her footrests was Garrett Sterling, a senior from the business school wearing a tailored charcoal coat. He had planted one polished leather boot on the base of the concrete ramp and rested his left hand on the top edge of the wall beside Erin's shoulder, effectively boxing her chair into the narrow corner so she couldn't pivot without clipping his shins.
 
-"I'm just saying, you let him keep you on a short leash," Marcus said, leaning in another inch with a slow, patronizing grin that expected compliance. "Just five minutes, Erin. Tell me why you're always running away when someone tries to—"
+"I told you, Garrett, I'm heading home with John," Erin said. Her voice was steady, but John knew his sister better than anyone alive—he saw the way her right thumb was tensed against her joystick, searching for a three-inch clearance that wasn't there. "Please step back from my footrests so I can turn around."
+
+"I'm just saying, you let him keep you on a short leash," Garrett said, leaning in another inch with a slow, patronizing grin that expected compliance. "Just five minutes, Erin. Tell me why you're always running away when someone tries to—"
 
 "She said step back."
 
 John's voice cut across the Ironstone colonnade like a steel cable snapping under tension.
 
-He didn't keep his chair in indoor low-speed mode. He thumbed his controller to its highest outdoor climbing gear and drove straight up the concrete incline into the alcove. The heavy front anti-tip rollers and steel footplate of his power wheelchair surged into the narrow gap between Marcus and Erin's chair, forcing Marcus to stumble backward half a pace or lose his ankles to two hundred and fifty pounds of rolling steel and battery torque.
+He didn't keep his chair in indoor low-speed mode. He thumbed his controller to its highest outdoor climbing gear and drove straight up the concrete incline into the alcove. The heavy front anti-tip rollers and steel footplate of his power wheelchair surged into the narrow gap between Garrett and Erin's chair, forcing Garrett to stumble backward half a pace or lose his ankles to two hundred and fifty pounds of rolling steel and battery torque.
 
-John locked his brakes at a forty-five-degree angle directly in front of his twin sister, placing the full frame of his chair as a physical barricade between Marcus and Erin.
+John locked his brakes at a forty-five-degree angle directly in front of his twin sister, placing the full frame of his chair as a physical barricade between Garrett and Erin.
 
-Marcus blinked, the slick smile vanishing into a flush of startled irritation. "Hey—watch where you're driving that thing, man. Erin and I were just having a private conversation."
+Garrett blinked, the slick smile vanishing into a flush of startled irritation. "Hey—watch where you're driving that thing, man. Erin and I were just having a private conversation."
 
 "No, you weren't," John said. He didn't raise his voice, and he didn't look away. Behind the lenses of his glasses, his eyes were steady and surgical. "You were blocking her turning radius with your boot, putting your hand over her exit path, and trying to sell her the oldest lie in the book—that the people who protect her are the ones holding her back."
 
-Marcus let out a sharp, defensive laugh, glancing toward the empty hallway. "You're paranoid, O'Connell. I was just offering your sister a ride home."
+Garrett let out a sharp, defensive laugh, glancing toward the empty hallway. "You're paranoid, man. I was just offering your sister a ride home."
 
-"I know exactly what you were offering," John said. "I've heard that script word for word. I know how it starts, I know how the flattery works, and I know what happens the moment the door closes. You can try that routine in a mirror, Marcus, or you can walk out of this building right now. Because you will never get within ten feet of my sister again. Not tonight. Not ever. Not her."
+"I know exactly what you were offering," John said:
+
+> *"I know your game, I know your kind*
+> *The little traps you leave behind*
+> *You think she's weak, a fragile prey*
+> *But you're not taking her away*
+> *I've walked through fire, I've paid the cost*
+> *And I won't let another light be lost*
+> *Not her. Not today."*
+
+"I've heard that script word for word," John continued, his voice cold iron. "I know how it starts, I know how the flattery works, and I know what happens the moment the door closes. You can try that routine in a mirror, Garrett, or you can walk out of this building right now. Because you will never get within ten feet of my sister again. Not tonight. Not ever. Not her."
 
 For three seconds, the only sound in the east colonnade was the low, twin hum of two power wheelchair converters idling in unison. Behind John's shoulder, Erin maneuvered her chair out of the corner until her wheel aligned parallel with his—a solid, two-wide phalanx of steel and shared resolve.
 
-Marcus looked at John's unblinking stare, then at Erin's cold, steady gaze beside him. Whatever easy target he had imagined existed in this alcove was gone. Mutters of face-saving bravado died in his throat; he adjusted the lapels of his coat, turned on his heel, and walked briskly out the side exit into the rain.
+Garrett looked at John's unblinking stare, then at Erin's cold, steady gaze beside him. Whatever easy target he had imagined existed in this alcove was gone. Mutters of face-saving bravado died in his throat; he adjusted the lapels of his coat, turned on his heel, and walked briskly out the side exit into the rain.
 
 The heavy glass door swung shut behind him.
 
@@ -296,4 +337,10 @@ For a long moment, neither twin spoke. Then Erin exhaled, reached across the gap
 "He was standing in the ADA turning lane," John replied, the tension in his jaw finally softening as he handed her one of the warm paper cups of apple cider from his tray. "Come on, Erin. Home's only two blocks down the sidewalk."
 
 Side by side, their electric motors humming in matched harmony, John and Erin rolled out under the Ironstone arches of the Kincaid colonnade and down the wet sidewalk from Commonwealth Mall to Progress Street NE—together, and all the way home.
+
+***
+
+> **Companion Perspectives Across the Universe:**
+> * **The Stardust Engine (`books.raggiesoft.com/stardust-engine` & `stardust.raggiesoft.com`)**: Read how **Ryan and Cassidy O'Connell** wrote and recorded the five-song *John & Erin* story on Progress Street in [**The Stardust Engine — Book 4, Chapter 2: *Writing Before the Distance on Progress Street (2004)***](https://books.raggiesoft.com/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1996-2005/chapter-2-writing-before-the-distance-on-progress-street-2004/part-1-two-blocks-from-commonwealth-mall), and explore the full 5-song soundtrack playlist at [**`music.raggiesoft.com/playlists/john-and-erin`**](https://music.raggiesoft.com/playlists/john-and-erin).
+> * **The Sound of Distant Thunder (`books.raggiesoft.com/michael`)**: Read how **Jessica Miller** listens to *"Before the Distance"* on her commuter train from Kent Station to Seattle King Street Station in November 2006 and realizes she and her brother **Michael** are living out the exact story of John and Erin in [**The Sound of Distant Thunder (`books/michael`)**](https://books.raggiesoft.com/michael).
 
