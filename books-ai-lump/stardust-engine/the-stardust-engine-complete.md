@@ -853,9 +853,26 @@ Across the room, Cassidy opened her eyes behind the glass of her synth rack. A s
 > *My one, my only true desire!*
 > *Loved by the sun!"*
 
+Watching his twenty-nine-year-old sister behind the glass, Ryan felt a familiar ache of fierce affection in his chest.
+
+Other bands in 1995 were throwing their vintage analog synthesizers into dumpsters, chasing the bleak, distorted grunge and cynical alternative rock that commercial radio programmers demanded. Neither Ryan nor Cassidy had the slightest interest in chasing the nineties. Both of them were autistic; the warm, soaring 1980s analog synth-rock and progressive stadium sound they had built together in 1986 wasn't a passing fashion trend to them—it was their **routine**. It was the predictable, mathematical harmonic architecture where both of their nervous systems felt safe.
+
+And for Cassidy, it went even deeper. Because of her autism, Cassidy had never lost the unguarded, wide-eyed wonder of a teenager staring up at a planetarium dome. No matter how many years passed or how brutally the adult world had tried to break her in 1992, she would always have that pure, child-like wonder—a teenage girl at heart living inside a grown woman's body.
+
+That child-like wonder was the entire reason a complex, fifteen-minute, four-movement progressive rock suite like **"Escape Velocity (Ad Astra)"** meant the world to her. In Cassidy's mind, the song wasn't a metaphor. It was her literal autobiography told as an interstellar voyage: breaking out of the claustrophobic courtroom cage of 1992 (*Movement I: The Cage*), firing the twin boosters past `11.2 kilometers per second` (*Movement II: Ignition*), drifting weightless through the ultraviolet and crimson clouds of a deep-space nebula (*Movement III: The Cosmos*), and finally descending through a golden atmosphere in **Movement IV: *Re-entry (The New World)***.
+
+As Evan's fretless bass glided into the crisp, syncopated pulse of *Movement IV* and Cassidy's hands shifted to the bright, sunlit bell tones of the final movement, Ryan knew what his sister was seeing behind her closed eyelids. In her mind, *Movement IV* was quite literally **the landing on a distant exoplanet**—stepping out onto an untouched, sunlit alien shore where no record executive, no courtroom lawyer, and no sensory violence could ever touch her again. Because this song was her life story, it meant everything to Cassidy to finally see what that distant planet looked like:
+
+> *"The Cage is broken, the victim-saint is gone!*
+> *A new clean script is in my head!*
+> *The friction burned away in the fire!*
+> *Leaving only my true desire!*
+> *I'm not escaping anymore!*
+> *I'm coming home to a brand new shore!"*
+
 Sitting in his chair with the warm brass prongs of the unplugged power cord resting in his lap, Ryan let out a long, quiet breath and looked over at Holly standing in the control-room doorway with her yellow legal pad tucked under her arm. They didn't have a major label anymore. They didn't have commercial radio promotion or tour buses or a million-dollar marketing budget—only a drafty warehouse, a secondhand tape machine, and the five of them.
 
-They didn't need any of it. Listening to Cassidy's voice echo off the cinder-block walls of the warehouse, Ryan made himself a quiet promise right there on the concrete floor: one day, no matter what it took, they were going to play *Ad Astra* under the open stars inside **The Crucible**, and sixty-five thousand people were going to hear his sister fly.
+They didn't need any of it. Listening to Cassidy's voice echo off the cinder-block walls as her ship touched down on that distant world inside her head, Ryan made himself a quiet promise right there on the concrete floor: one day, no matter what it took, they were going to play *Ad Astra* under the open stars inside **The Crucible**, and sixty-five thousand people were going to watch his sister land on her new world.
 
 ## Chapter 2: Writing Before the Distance on Progress Street (2004)
 
@@ -1532,7 +1549,9 @@ Even from the stage, looking out from the center of a sixty-five-thousand-star g
 > *My one, my only true desire!*
 > *Loved by the sun!"*
 
-When the floating nebula pads finally gave way to a crisp, syncopated acoustic-and-electric groove for the triumphant splashdown of ***Part IV: Re-entry (The New World)***, the entire stadium surged back to life as Cassidy sang:
+When the floating nebula pads finally gave way to a crisp, syncopated acoustic-and-electric groove for the triumphant touchdown of ***Part IV: Re-entry (The New World)***, the 120-foot curved LED wall behind the stage descended through golden clouds onto the sunlit horizon of a distant, Earth-like exoplanet—two sister moons hanging in a turquoise sky above an untouched shoreline.
+
+Looking at Cassidy's shining eyes as she turned briefly toward the giant screen, Ryan felt a lump rise in his throat. Even at forty-nine, his sister's autism meant she still carried the pure, unguarded, child-like wonder of the teenager who had first stared up at the stars from the roof of Aunt Martha's house in 1986. That teenage wonder inside a grown woman's body was why the band had never abandoned their 1980s cosmic synth-prog sound—it was the unchanging routine that kept both Ryan and Cassidy anchored—and it was why *Movement IV* meant the world to her. In Cassidy's mind, the fourth movement of her autobiography was quite literally **landing on that distant planet**, and tonight, thanks to the visual artists she had worked with for months, she was finally seeing the horizon of her planet rendered thirty feet high in front of sixty-five thousand people as she sang:
 
 > *"The Cage is broken, the victim-saint is gone!*
 > *A new clean script is in my head!*
@@ -2218,9 +2237,9 @@ At the high-rise express bank, Frost made a grand show of badging them into the 
 
 Inside the brass-paneled elevator car stood a silver-haired gentleman in his seventies wearing a classic Savile Row pinstripe suit and reading *The Financial Daily* on a tablet. Ryan spun his Veloce neatly into the rear corner and locked his brakes—*click-clack*—while Cassidy stood beside him with her palm resting on his shoulder.
 
-Looking up at the etched brass plaque above the floor indicator, Cassidy pointed innocently at the corporate crest.
+Looking up at the etched brass plaque above the floor indicator, fifty-one-year-old Cassidy tilted her head with the wide-eyed, unguarded curiosity of a teenager. Because of her autism, time had never hardened Cassidy into a cynical industry veteran; inside a middle-aged woman's body lived the exact same teenage girl full of child-like wonder who had fallen in love with rockets and analog synthesizers in 1986.
 
-"Your website calls this building the *'Omni-Compound,'*" Cassidy said, her voice bright with genuine curiosity. "Do you own the whole forty-story tower? Like how we own our Warehouse on Progress Street?"
+"Your website calls this building the *'Omni-Compound,'*" Cassidy said innocently, pointing at the corporate crest. "Do you own the whole forty-story tower? Like how we own our Warehouse on Progress Street?"
 
 Frost let out a dry, patronizing chuckle, looking at Holly instead of Cassidy as if apologizing for a child speaking out of turn.
 
@@ -2236,13 +2255,21 @@ Across the car, Ryan saw Holly's knuckles tighten on the handle of her Florentin
 
 From the opposite corner of the elevator, the silver-haired man in the pinstripe suit lowered his tablet and stared straight at Frost.
 
-"Tenant," the older man said loudly. "They rent, young lady. Just like the espresso kiosk in the lobby."
+"Tenant," the older man said loudly. "They rent, young lady. Just like the coffee shop downstairs."
 
-Frost turned a blotchy crimson. "Arthur, please, I was simplifying for the—"
+Frost turned a blotchy crimson. "Arthur, please, I was simplifying for the..." He gestured vaguely toward Cassidy.
 
-"For the talent?" **Arthur Vane**, Chairman of the Board and owner of the building's master trust, cut in coldly. "The woman asked a perfectly straightforward question, Frost. If you put your name on the front of a building, you ought to own the hinges." Vane offered Cassidy a respectful nod as the elevator chimed at the **38th Floor**. "They don't own the tower, ma'am. They just pay the highest electric bill."
+"For the talent?" **Arthur Vane**, Chairman of Omni-Global's Board of Directors, cut in coldly. "The woman asked a valid question, Frost. If you put your name on the door, you should probably own the hinges."
 
-As Vane stepped out onto the 38th floor, he paused at the threshold, looked directly at Holly, and muttered, "Give him hell, counselor."
+Arthur looked kindly at Cassidy. "They don't own the building, young lady. They just pay the most for the electricity."
+
+Cassidy blinked behind her rectangular glasses, then offered Arthur a small, shy smile. "Oh. That makes sense. Thank you."
+
+"And while I have you, Frost, the law partners at *Sterling & Associates* on the 38th floor are filing another noise complaint," Arthur continued, turning his glare back to his VP of Acquisitions. "If I hear one more of your morning 'team-building chants' through the ceiling, I'm billing Omni-Global for my migraine medication."
+
+As the elevator chimed at the **38th Floor**, Arthur stepped out, paused at the threshold, looked directly back at Holly, and muttered:
+
+"Give him hell, young lady."
 
 Thirty seconds later, the doors slid open on the **40th Floor** penthouse reception atrium—a freezing expanse of white marble and harsh blue LED strips.
 
@@ -2316,13 +2343,15 @@ On the screen, a cartoon digital scalpel sliced vertically through Cassidy's wav
 
 Beside Ryan, a wooden conference chair scraped violently across the parquet floor.
 
+To Jameson Frost, those five minutes of floating analog synthesizers were dead air on a spreadsheet. To Cassidy—whose autism meant she had never lost the pure, child-like wonder of a teenage girl staring up at the stars inside a fifty-one-year-old woman's body—that 1980s cosmic progressive rock suite was the unchanging routine and safe harbor that held her and Ryan's world together. **"Escape Velocity (Ad Astra)"** wasn't a commercial product; it was a literal voyage through the cosmos where *Movement III* carried her through the deep-space nebula so that in **Movement IV: *Re-entry (The New World)*** her ship could quite literally touch down on a distant planet in her mind. Because that song was her autobiography, seeing what that distant planet looked like meant the entire world to her—and Frost's digital scalpel had just severed the voyage before her ship could ever reach the planet.
+
 "No," Cassidy whispered, her voice pitching high and thin.
 
 "Cassidy, sweetheart, I know you're attached to the old arrangement—" Frost began.
 
-*"NO!"* Cassidy screamed, slamming both hands over her noise-canceling headphones. "You can't cut the middle! The middle is the escape! It's not an asset—it's *me*!"
+*"NO!"* Cassidy screamed, slamming both hands over her noise-canceling headphones. "You can't cut the middle! The middle is how I get to the planet! It's not an asset—it's *me*!"
 
-Shoving back from the mahogany table in blind panic, Cassidy lost her center of gravity. Her heavy conference chair tipped backward and hit the parquet floor with a gunshot *CRACK*. Curl into a tight ball on the floorboards with her hands clamped over her ears, Cassidy began to wail in raw, catastrophic sensory and emotional overload:
+Shoving back from the mahogany table in blind panic, Cassidy lost her center of gravity. Her heavy conference chair tipped backward and hit the parquet floor with a gunshot *CRACK*. Curled into a tight ball on the floorboards with her hands clamped over her ears, Cassidy began to wail in raw, catastrophic sensory and emotional overload:
 
 ***"THEY ARE GOING TO RIP MY BABY APART! RYAN! THEY'RE CUTTING IT! THEY'RE CUTTING ME!"***
 
@@ -2334,11 +2363,11 @@ Ryan didn't look at the screen. His voice dropped to a quiet, absolute command:
 
 "Evan. Tyler. **Wall.**"
 
-In less than half a second, Evan and Tyler Wright rose as one, stepped left in locked synchronization, and planted their broad, suit-clad shoulders directly between the Omni-Global executives and their cousin—forming an impenetrable human wall that completely cut off Frost's line of sight.
+In less than half a second, Evan and Tyler Wright rose as one, stepped left in locked synchronization, and planted their broad shoulders directly between the Omni-Global executives and their cousin—forming an impenetrable human wall that completely cut off Frost's line of sight.
 
 Behind the **Ironhead Wall**, Ryan spun his Carbon-Fiber Veloce 180 degrees, locked both brakes hard, and reached down to take Cassidy's wrists.
 
-"Cass, look at me—look at the wheels," Ryan whispered fiercely, hauling his sister up off the floor onto his lap and wrapping both arms around her shoulders in a maximum-compression deep-pressure hold as she buried her face against his neck. "The red section is safe. My brakes are locked. He can't touch a single note."
+"Cass, look at me—look at the wheels," Ryan whispered fiercely, hauling his sister up off the floor onto his lap and wrapping both arms around her shoulders in a maximum-compression deep-pressure hold as she buried her face against his neck. "The red section is safe. The planet is still there. My brakes are locked. He can't touch a single note."
 
 On the other side of Evan and Tyler's backs, Frost sputtered at Holly. "This is absurd! We are discussing a nine-figure acquisition and she's having a tantrum! Your shareholders will sue you for fiduciary negligence if you walk away from our money! We'll pull your credit lines!"
 
@@ -2366,15 +2395,25 @@ Frost stared down at the paper, his voice cracking as he read:
 
 "It's a lock," Holly corrected. "And you just broke your foot kicking the door."
 
-At that exact moment, the heavy double doors at the rear of Conference Room A swung open. Nineteen-year-old receptionist **Jessica Miller** rolled her manual wheelchair straight into the boardroom—and walking directly beside her with his silver cane was Board Chairman **Arthur Vane**.
+At that exact moment, the heavy double doors at the rear of Conference Room A swung open. Nineteen-year-old receptionist **Jessica Miller** rolled her manual wheelchair straight into the boardroom, pale but determined—and walking directly beside her, leaning heavily on his silver cane, was Board Chairman **Arthur Vane**.
 
-"Ms. Miller came down to the 38th floor and reported a Code Red in Conference Room A," Vane said, his gravelly voice lethal as he looked past Evan and Tyler's shoulders toward Cassidy resting against Ryan's chest. "My fifteen-year-old granddaughter Sarah is autistic, Frost. When the world breaks her, she sounds exactly like that. And what is this document on the table?"
+Frost spun around. "Arthur? What are you doing here?"
 
-Vane picked up the yellowed 1992 Operating Agreement, adjusted his spectacles, read **Clause 88**, and looked up at Holly with genuine respect.
+Arthur Vane ignored him. He looked past the screen directly at the wall of Evan and Tyler, hearing the ragged sobbing of the woman curled on Ryan's lap.
 
-"Scorched earth," Vane murmured.
+"Ms. Miller came down to the 38th floor and told me there was a Code Red in Conference Room A," Vane said, his gravelly voice terrifyingly calm as his cane clicked across the parquet floor. "She came to get me because she recognized the sound, Frost. And so do I. My granddaughter's name is Sarah. She turned fifteen last week. She's autistic. And when she is in pain—when the world is breaking her—she sounds exactly like that."
 
-"We prefer *Safe Harbor*, Mr. Vane," Holly replied, sliding the 1992 agreement back into her briefcase and zipping it shut. "Strike One was the airport car. Strike Two was your receptionist. Strike Three was the song. Omni-Global is out."
+"Arthur, please," Frost pleaded, wiping sweat from his forehead. "It's a negotiation! We applied pressure to the asset, and she became emotional! I didn't know she was disabled—"
+
+"You didn't know because you didn't look," Vane snapped, his eyes cold. "You saw a wheelchair and saw an inconvenience. You saw a woman crying and saw leverage. And what is this document in your hand?"
+
+"That," Holly said, "is why Omni-Global will never own my company, Mr. Vane. Ask him what he just read."
+
+Vane put on his spectacles, picked up the yellowed 1992 Operating Agreement, read **Clause 88**, and closed the folder slowly.
+
+"Clause 88," Vane murmured. "Scorched earth." He turned his icy glare back on Frost. "You tried to buy a family that owns their own masters, carries zero debt, and travels with their own security detail—and you did it by insulting the composer, terrorizing a disabled woman, and ignoring a Poison Pill that would have bankrupted us."
+
+"We prefer *Safe Harbor*, Mr. Vane," Holly replied, sliding the 1992 agreement back into her briefcase and snapping it shut. "Strike One was the airport car. Strike Two was your receptionist. Strike Three was the song. Omni-Global is out."
 
 Vane pointed his cane at the side hallway. "My office, Frost. Now."
 
@@ -2404,7 +2443,7 @@ Holly didn't turn right toward the service corridor. She chose the audience.
 
 As the overhead security camera (`CAM_04 [10:25:02 AM]`) captured the exact split-second decision, Holly took her first determined stride straight forward toward the crowded, open-plan 40th-floor bullpen, her black hard-shell briefcase in hand, while Evan and Tyler stepped out of the doorway carrying their sobbing cousin between them. A heartbeat later, Ryan's hands dropped to his push-rims, pivoting his chair forward to roll right behind his family down the center aisle of the bullpen—forcing every junior VP and analyst in the building to witness the human cost of Jameson Frost's business model.
 
-Beside the front reception desk, while Arthur Vane's voice thundered through his closed office door (*"Get out of my building, Frost—your badge is already deactivated!"*), Holly stopped the formation where nineteen-year-old **Jessica Miller** was trembling in her manual wheelchair.
+Beside the front reception desk, while Arthur Vane's voice thundered through his closed office door (*"You cost this company its soul, Frost—David gets your office, and you're fired effective immediately! Clear your desk, Security is coming up—and HR, change Jessica Miller's status from Unpaid Intern to salaried Junior Associate, retroactive to her start date!"*), Holly stopped the formation where nineteen-year-old **Jessica Miller** was trembling in her manual wheelchair.
 
 "Grab your backpack, Jessica," Holly said warmly. "You're coming to lunch with us."
 
