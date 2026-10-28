@@ -2170,7 +2170,7 @@ With a practiced lift-and-swing transfer, Ryan moved from his Carbon-Fiber Veloc
 
 ![Photorealistic boardroom scene in Conference Room A on the 40th floor of Omni-Global Media HQ in Century City showing 54-year-old Ryan O'Connell (with silver-grey hair, rectangular glasses, and trimmed greying beard, seated in his manual wheelchair wearing a midnight-blue The Stardust Engine polo), 51-year-old Cassidy O'Connell (in a matching midnight-blue polo and glasses), and 49-year-old Holly O'Connell (in a charcoal suit with the yellowed 1992 Clause 88 binder across from an OFFER contract folder), backed by 51-year-old identical twin cousins Evan (in a CPI maroon polo) and Tyler Wright (in a burnt-orange polo) with arms crossed facing three silver-haired corporate executives.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c002/p001/150-million-refusal.jpg)
 
-![Photorealistic hallway scene outside Conference Room A beneath a glowing EXIT sign showing identical twins Evan and Tyler Wright protectively escorting a sobbing Cassidy O'Connell out through the wood-paneled doors while 54-year-old silver-haired Ryan O'Connell rolls alongside in his manual wheelchair looking up at his sister with fierce concern and Holly O'Connell strides ahead in her charcoal business suit carrying her brown leather briefcase.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c002/p001/cassidy-extraction.jpg)
+![Photorealistic hallway scene outside Conference Room A beneath a glowing <EXIT sign showing identical twins Evan (maroon shirt) and Tyler Wright (burnt-orange shirt) physically carrying a sobbing, glasses-free Cassidy O'Connell off the floor on a black conference chair cushion, while 54-year-old silver-haired Ryan O'Connell—positioned on the left toward the service corridor while waiting for Holly's routing call—looks across at Holly as she takes her first stride straight forward toward the open bullpen carrying her black hard-shell briefcase, a split second before Ryan grabs his push-rims to pivot and follow her.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c002/p001/cassidy-extraction.jpg)
 
 #### Part 1 & 2: The LATA Rapid 720 & The Century City Lobby
 
@@ -2398,7 +2398,11 @@ Effortlessly, the six-foot-three twins lifted Cassidy completely off the floor o
 
 "Let's go," Holly said.
 
-In the vestibule outside Conference Room A, Holly didn't turn right toward the unmarked `SERVICE ONLY` freight elevator door that her Tier 1 Landlord badge could have unlocked in a second. Instead, she walked straight ahead down the center aisle of the open-plan 40th-floor bullpen, with Evan and Tyler carrying their sobbing cousin directly behind her and Ryan rolling beside them as rear guard—forcing every junior VP and analyst in the building to witness the human cost of Jameson Frost's business model.
+In the wood-paneled vestibule outside Conference Room A, beneath the glowing `<EXIT` sign pointing right toward the unmarked `SERVICE ONLY` freight elevator corridor, Ryan angled his wheelchair slightly toward the service hall and looked across at Holly, waiting for her call on how they were exiting the building. Her Tier 1 Landlord badge could have unlocked that private freight elevator in a second, letting them slip down to the loading dock unseen.
+
+Holly didn't turn right toward the service corridor. She chose the audience.
+
+As the overhead security camera (`CAM_04 [10:25:02 AM]`) captured the exact split-second decision, Holly took her first determined stride straight forward toward the crowded, open-plan 40th-floor bullpen, her black hard-shell briefcase in hand, while Evan and Tyler stepped out of the doorway carrying their sobbing cousin between them. A heartbeat later, Ryan's hands dropped to his push-rims, pivoting his chair forward to roll right behind his family down the center aisle of the bullpen—forcing every junior VP and analyst in the building to witness the human cost of Jameson Frost's business model.
 
 Beside the front reception desk, while Arthur Vane's voice thundered through his closed office door (*"Get out of my building, Frost—your badge is already deactivated!"*), Holly stopped the formation where nineteen-year-old **Jessica Miller** was trembling in her manual wheelchair.
 
