@@ -6207,19 +6207,19 @@ As they rolled south from the **Pendleton Library** trailhead along the ten-foot
 
 Unlike a city street, there were no cars, no curbs, no diesel exhaust, and no steep cross-slopes—just smooth, level black asphalt winding along the gentle grade where the old **Huckleberry Train** had rolled for half a century, bordered by weathered wooden split-rail fences, grazing cattle in rolling green pastures, and a blazing autumn canopy of crimson sugar maples and burnt-orange oaks overhead.
 
-At **`5:30 PM`**, as the air turned crisp (`48°F`) and woodsmoke curled in a silver wisp from a farmhouse chimney across the pasture, Mark glanced fifty yards down the paved path toward Christiansburg—and stopped talking mid-sentence.
+At **`5:30 PM`**, with the valley dressed in its autumn dress as the air turned crisp (`48°F`) and woodsmoke curled in a silver wisp from a farmhouse chimney across the pasture, Mark glanced fifty yards down the paved path toward Christiansburg—and stopped talking mid-sentence.
 
-Coming northbound up the Huckleberry Trail straight toward them were two figures moving side by side at an easy, rhythmic pace: a woman in her mid-forties with glasses and a maroon CPI jacket riding a vintage touring bicycle with a glowing front dynamo lamp, and right beside her, a man in a matte-black titanium manual wheelchair pushing his handrims with effortless, powerful strokes through the golden leaves.
+Coming northbound up the Huckleberry Trail straight toward them were five figures moving together at an easy, unhurried pace: a woman in her mid-forties with glasses and a maroon CPI jacket pushing a man in a matte-black titanium manual wheelchair, while another woman and two tall identical twin men walked side by side right alongside them through the golden leaves.
 
 Madison’s breath caught in her throat. She whispered so softly only their group could hear:
 
 *"Wait... is that—"*
 
-"Shh—yep," Mark whispered back with a proud local’s grin, keeping his voice low and his stride completely natural. "That’s **Ryan and Cassidy O'Connell**. **The Stardust Engine**. They live right here in Blacksburg on **Progress Street**, and they swim down at the Aquatic Center all the time. Remember the rule of the Huckleberry Trail: out here, they aren’t rock stars. They’re our neighbors. Don't stare, don't pull out a phone, and don't ask for an autograph—just give 'em a neighbor's wave."
+"Shh—yep," Mark whispered back with a proud local’s grin, keeping his voice low and his stride completely natural. "That’s **Ryan and Cassidy O'Connell**, and **Holly**, **Evan**, and **Tyler**. **The Stardust Engine**. They live right here in Blacksburg on **Progress Street**, and they swim down at the Aquatic Center all the time. Remember the rule of the Huckleberry Trail: out here, they aren’t rock stars. They’re our neighbors. Don't stare, don't pull out a phone, and don't ask for an autograph—just give 'em a neighbor's wave."
 
-Behind his rectangular glasses, **Jordan** blinked in quiet curiosity. Having grown up in near-total isolation in Virginia Beach where his mother banned secular and popular music, Jordan had **no clue** who **The Stardust Engine** were in October 2014; he had never heard their songs, and the band name meant nothing to him yet.
+Behind his rectangular glasses, **Jordan** blinked in quiet curiosity. Having grown up in near-total isolation in Virginia Beach where his mother banned secular and popular music, Jordan had **no clue** who **The Stardust Engine** was; he had never heard their songs, and the band name meant nothing to him.
 
-Instead, what caught Jordan’s eyes—and warmed his chest—was something much simpler: the sight of another man in a manual wheelchair out here on the six-mile mountain path, pushing his handrims with confident, athletic grace beside his sister’s bicycle while his neighbors treated him with effortless, unbothered respect.
+Instead, what caught Jordan’s eyes—and warmed his chest—was something much simpler: the sight of another man in a manual wheelchair out here on the six-mile mountain path, rolling through the autumn leaves with his sister pushing his chair and his family walking alongside him while their neighbors treated them with effortless, unbothered respect.
 
 As the distance between them closed between the split-rail pasture fences, Ryan O'Connell looked directly across the asphalt at Jordan’s manual wheelchair, noticed Jordan’s maroon CPI hoodie and his gloved hands on his handrims, and broke into a warm, genuine smile.
 
@@ -6227,17 +6227,11 @@ Jordan smiled back and raised his right hand from his handrim in a quiet, respec
 
 Ryan tapped two fingers to his temple in a fellow wheelchair user’s salute. "Evening, guys! Beautiful night for a roll!"
 
-"Evening!" Mark nodded warmly with a smile, while Aubrie Jean, Madison, Zoë, Lauren, Hannah, Sarah, Jessica, and Isabel waved back as Cassidy chimed her brass bicycle bell in a cheerful *ring-ring* and the brother and sister rolled smoothly past them toward campus.
+"Evening!" Mark nodded warmly with a smile, while Aubrie Jean, Madison, Zoë, Lauren, Hannah, Sarah, Jessica, and Isabel waved back as Cassidy, Holly, Evan, and Tyler smiled and offered a friendly hello, the two groups passing each other smoothly along the leaf-strewn path.
 
-Less than a minute later, after Jordan and his friends turned around to head back north toward **Pendleton Library** behind them, the sun dipped low behind **Price Mountain’s crest**—and up ahead against the darkening purple sky, all four massive **Ironstone** floodlight towers of **The Crucible** flickered on in the night, painting the valley in electric light.
+A minute later, as Jordan and his friends turned around to head back north toward **Pendleton Library** at the end of their loop, the sun dipped low behind **Price Mountain’s crest**—and up ahead against the darkening purple sky, all four massive **Ironstone** floodlight towers of **The Crucible** flickered on in the night, painting the valley in electric light.
 
-Two hundred yards ahead of them under a crimson maple tree, Jordan and Aubrie Jean saw the woman pause her bicycle beside her brother’s wheelchair for a minute, singing something softly into the autumn breeze while tapping her handlebars—before standing up on her pedals and calling back over her shoulder with a laugh that carried down the quiet trail:
-
-***"Race you back to Progress Street!"***
-
-***"You're on, Cass!"***
-
-Listening to the laughter of brother and sister echo down the six-mile path under the glowing stadium towers, Jordan reached up from his left handrim and took Aubrie Jean’s hand. Three months would pass before **Daniel Brooks** placed a 1987 vinyl record called [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) onto the turntable in his Christiansburg basement and Jordan realized who the friendly wheelchair user on the bike path actually was—and neither Jordan nor Aubrie Jean had any way of knowing that they had just witnessed the birth of [**"Neon on the Huckleberry Trail"**](https://music.raggiesoft.com/artists/the-stardust-engine/2015-reignition?track=1-08-neon-on-the-huckleberry-trail), or that nineteen months later inside **The Crucible**, sixty-five thousand **Forgers** would roar that exact song back to the stage as their own.
+With his muscles still loose and warm from the `95.5°F` therapy pool and the crisp mountain breeze cooling his face, Jordan reached up from his left handrim and took Aubrie Jean’s hand as they rolled back toward campus together under the autumn stars.
 
 ## The Thanksgiving Exodus & Sanctuary on Geneva Street
 
@@ -10782,7 +10776,7 @@ Yet as the cassette deck clicked silent, **Mark** and **Daniel** exchanged a qui
 
 "This, Jordan," Daniel said gently, walking over to the sofa and holding the twelve-inch jacket out so Jordan could trace the embossed lettering with his fingertips, "is the crown jewel of Blacksburg. Five students right here at **Commonwealth Polytechnic Institute**—brother and sister **Ryan** and **Cassidy O'Connell**, their twin cousins **Evan** and **Tyler Wright**, and their cousin **Holly O'Connell**—started this band in an unheated garage at Progress and Turner in 1986 because of their shared love of the cosmos and the rockets that take you there. They named themselves after the very first song they wrote together: **[The Stardust Engine](https://music.raggiesoft.com/artists/the-stardust-engine)**. And in the summer of 1987, they released this album: [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color)."
 
-Behind his glasses, Jordan's eyes widened in sudden recognition as he connected the names Daniel had just spoken to the October sunset on the **Huckleberry Trail** three months earlier—the friendly man in the matte-black manual wheelchair and his sister on the vintage touring bicycle who had given him a fellow wheelchair user's salute between the split-rail pasture fences!
+Behind his glasses, Jordan's eyes widened in sudden recognition as he connected the names Daniel had just spoken to the October sunset on the **Huckleberry Trail** three months earlier—the friendly man in the matte-black manual wheelchair whose sister was pushing his chair while their family walked alongside them between the split-rail pasture fences!
 
 Across the room, **Mark** switched on the dedicated tube pre-amp, slid the black 1987 vinyl LP out of its inner sleeve, set it onto the turntable platter, brushed the microgrooves with a carbon-fiber brush, and carefully lowered the diamond stylus onto Track One: [**"Electric Color"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-electric-color).
 
@@ -20580,7 +20574,7 @@ Two rows behind `Section 104, Row A`, the out-of-town visitor in the light-blue 
 
 He didn't know. Someone not familiar with the region couldn't know. **But Forgers? They knew.**
 
-Every student in **Jordan**’s row knew the six-mile paved path winding from the **Pendleton Library** lawn past the cattle pastures and Price Mountain all the way to **Christiansburg**—the exact trail where Jordan pushed his `Vanguard Pro` alongside **Aubrie Jean**, **Madison**, and **Mark** on crisp autumn evenings at five-thirty, and where students in CPI hoodies jogged past Cassidy on her bicycle and Ryan in his manual chair with nothing more than a polite neighbor's wave.
+Every student in **Jordan**’s row knew the six-mile paved path winding from the **Pendleton Library** lawn past the cattle pastures and Price Mountain all the way to **Christiansburg**—the exact trail where Jordan pushed his `Vanguard Pro` alongside **Aubrie Jean**, **Madison**, and **Mark** on crisp autumn evenings at five-thirty, and where students in CPI hoodies jogged past Cassidy pushing Ryan's manual wheelchair while Holly, Evan, and Tyler walked alongside them with nothing more than a polite neighbor's wave.
 
 And right down the `Row A` terrace railing to Jordan’s right stood **Walter Pendleton**—better known to three generations of Montgomery County families simply as ***"Santa Walt"***, the locally famous real-bearded Mall Santa at the **New River Valley Mall** in Christiansburg. Because a genuine, chest-length Mall Santa beard takes all twelve months of the year to maintain, eighty-year-old Walt never shaved it in the off-season; he simply traded his red velvet suit for a maroon tweed flat cap and his vintage cream-and-maroon `CPI CLASS OF 1956` letterman cardigan, meaning **Zoë**, **Hannah**, and **Mark** had grown up sitting on his knee for Christmas photos in the nineties and **Stephen** and **Elana** had just taken little **Stella** to see him five months ago. When Cassidy sang the closing lines of the first verse—*"Six miles of asphalt from the library lawn / Where the old Huckleberry train used to roll on"*—**Santa Walt** wiped a joyful tear from his rosy cheek with his white handkerchief and beamed through his round wire-rimmed spectacles at **Daniel** and **Stephen**, remembering the actual slow-chugging **Huckleberry Train** he had ridden up the mountain from Christiansburg's Cambria Depot as a CPI undergraduate before its final whistle in 1958.
 
