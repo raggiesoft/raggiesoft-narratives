@@ -12,7 +12,7 @@ summary: "Complete in-universe campus guide to Commonwealth Polytechnic Institut
 
 **Commonwealth Polytechnic Institute (CPI)**—universally known across the New River Valley as **Poly** and home to the **CPI Forgers**—is a major public land-grant research university located on a high plateau in **Blacksburg, Montgomery County, Virginia**, nestled between the Blue Ridge and Allegheny mountains at an elevation of 2,080 feet.
 
-Founded in **1872**, CPI serves as the central geographic anchor for both [***The Eleventh Child: The Story of Jordan***](https://books.raggiesoft.com/aubrie) (`2014–2016`) and the origin story of [**The Stardust Engine**](https://stardust.raggiesoft.com), whose five founding members—brother and sister **Ryan and Cassidy O'Connell**, their twin cousins **Evan and Tyler Wright**, and their cousin **Holly O'Connell**—formed their band in an unheated garage at the corner of Progress and Turner Streets while studying at CPI in **1986**.
+Founded in **1872**, CPI serves as the central geographic anchor for both [***The Eleventh Child: The Story of Jordan***](https://books.raggiesoft.com/aubrie) (`2014–2016`) and the origin story of [**The Stardust Engine**](https://stardust.raggiesoft.com), whose five founding members—siblings **Ryan, Cassidy, and Holly O'Connell** and their twin cousins **Evan and Tyler Wright**—formed their band in an unheated garage at the corner of Progress and Turner Streets while studying at CPI in **1986**.
 
 ---
 

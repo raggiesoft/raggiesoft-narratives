@@ -16,7 +16,7 @@ Before [**The Stardust Engine**](https://stardust.raggiesoft.com) became the fla
 
 ## 1. The True Meaning of "The Stardust Engine" (`1986`)
 
-In the fall of **1986**, when twin cousins **Evan and Tyler Wright** transferred to CPI to join brother and sister **Ryan and Cassidy O'Connell** and their cousin **Holly O'Connell**, the very first song the four musicians wrote together was an anthemic synth-and-guitar odyssey titled **[*"The Stardust Engine"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine)**.
+In the fall of **1986**, when twin cousins **Evan and Tyler Wright** transferred to CPI to join siblings **Ryan, Cassidy, and Holly O'Connell**, the very first song the four musicians wrote together was an anthemic synth-and-guitar odyssey titled **[*"The Stardust Engine"*](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine)**.
 
 At first, the band was almost too nervous to shop that song around to record labels—because it was so deeply personal to who they were as CPI science and engineering students. The title celebrated their two greatest shared passions:
 * **"Stardust":** Their awe for the cosmos, stellar nucleosynthesis, and deep-space astrophysics.
