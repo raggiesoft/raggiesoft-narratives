@@ -378,11 +378,15 @@ Beside Ryan in the wing, **Holly** stood next to the **Engine Room Films** mobil
 
 "Look at Camera Three on the accessible terrace at `Section 104, Row A`," Cassidy whispered, leaning a hand gently on the push-handle of Ryan's chair as she looked at the monitor.
 
-On the high-definition screen, the crane lens was gliding three feet above the front railing of `Section 104, Row A`. Right in `Seat 1`, a young man in a custom manual wheelchair—wearing rectangular glasses, a vintage maroon *Electric Color* shirt, and a gold-foil ticket lanyard—was grinning from ear to ear and waving up at the camera alongside a radiant blonde woman in an orange scarf, a tall blonde friend with a pink ribbon in her hair, an athletic guy in a maroon polo, and a dark-haired girl holding a digital tablet.
+On the high-definition screen, the crane lens was gliding three feet above the front railing of `Section 104, Row A`. Right in `Seat 1`, a young man in a custom manual wheelchair—wearing rectangular glasses, a Foundry Maroon `CPI` shirt, and a gold-foil ticket lanyard—was grinning from ear to ear and waving up at the camera alongside a radiant blonde woman in an orange scarf, a tall blonde friend with a pink ribbon in her hair, an athletic guy in a maroon polo, and a dark-haired girl holding a digital tablet.
 
-Seeing another manual wheelchair user right at the fifty-yard line of The Crucible—surrounded by people who clearly loved him fiercely, without an ounce of fear or overwhelm in his eyes—made something warm tighten in Ryan's chest. He remembered how terrifying noisy stadiums had been in 1991 during his first year in a chair, when every stairwells-only concourse and steep ramp felt like enemy territory.
+Ryan did a double-take at the screen, a warm grin breaking across his face.
 
-"Put a flag on that timecode for the Blu-ray edit," Ryan told the video director softly. "That kid in `Section 104,Seat 1` goes in the opening montage."
+"Wait a second, Cass," Ryan said softly, leaning closer to the monitor. "That's the kid from the **Huckleberry Trail**—the freshman in the manual chair who waved to us between the pastures back in October '14, right before you wrote *'Huckleberry Trail'*!"
+
+Ryan had never gotten the young man's name that afternoon on the trail, and because of the unwritten rule of Blacksburg, nobody had stopped to make introductions. Yet seeing that same manual wheelchair user sitting right at the fifty-yard line of **The Crucible** nineteen months later—surrounded by people who clearly loved him fiercely, without an ounce of fear or overwhelm in his eyes—made something warm tighten in Ryan's chest. More than anything, Ryan realized, he wanted to actually meet that kid one day—not as a musician meeting a fan, but simply to say hello and talk shop with another manual wheelchair user in town.
+
+"Put a flag on that timecode for the Blu-ray edit," Ryan told the video director softly, making a mental note to keep his eye on `Section 104, Row A, Seat 1` all night. "That kid in `Section 104, Seat 1` goes in the opening montage."
 
 At `19:59`, **Evan** bumped his fist against Ryan's shoulder, **Tyler** twirled his hickory drumsticks before climbing onto the center drum riser, and **Cassidy** kissed Ryan's temple before stepping out into the dark toward her wraparound analog synthesizer rig.
 
@@ -1004,9 +1008,11 @@ With its amber LED destination sign dimmed to **`OUT OF SERVICE // PROGRESS STRE
 
 Right at the front bay of the lead articulated shuttle, under the warm amber streetlamps, Ryan spotted the same young man in the manual wheelchair from `Section 104, Row A, Seat 1`—laughing with the transit supervisor in the high-visibility vest before smoothly spinning his chair 180 degrees and backing up the low-floor front ramp in reverse with two effortless, confident pulls on his handrims, followed closely by his blonde partner and his three friends.
 
-"Hey, Cass," Ryan said softly, touching his sister's arm in the forward lounge seat beside his wheelchair bay and nodding toward the bus window. "Look who's on the lead shuttle."
+"Hey, Cass," Ryan said softly, touching his sister's arm in the forward lounge seat beside his wheelchair bay and nodding toward the bus window. "Look who's on the lead shuttle. That's the kid from `Section 104, Row A`—the one we passed on the Huckleberry Trail."
 
-Cassidy smiled warmly as the sixty-foot articulated bus knelt, retracted its front ramp, and pulled smoothly out into the night. "He belongs right in the front row next August."
+Cassidy smiled warmly as the sixty-foot articulated bus knelt, retracted its front ramp, and pulled smoothly out into the night. "Look at that reverse ramp climb. He handles his chair almost as well as you do, big brother."
+
+"I never did get his name," Ryan mused, watching the amber taillights of the Blue Ridge Transit shuttle turn out of the loop. "One of these days, I'd really like to meet him. Just to sit down and talk with another wheelchair user around here."
 
 Six minutes later, Tyler turned the thirty-foot **Prairie Coachworks** shuttle onto the quiet, tree-lined pavement of **Progress Street NE**, pulled alongside the curb in front of the house they had refused `$150,000,000` to leave, and knelt the front air suspension with a gentle hiss—deploying the front-door flip-out aluminum ADA ramp directly onto their own sidewalk in five seconds flat.
 
