@@ -10,9 +10,13 @@ title: "The Stardust Engine"
 
 **Date:** 1986-10-18 at 21:30 America/New_York
 
-#### October 18, 1986 — The Cinder-Block Garage on Progress Street
+#### October 18, 1986 — Aunt Clara's House & The Garage on Progress Street
 
-The unheated two-car cinder-block garage behind their rented student house on **Progress Street NE** smelled of damp autumn oak leaves, warm vacuum tubes, and burnt coffee, and nineteen-year-old **Ryan O'Connell** wouldn't have traded it for the finest recording studio on earth.
+The unheated two-car cinder-block garage behind **Aunt Clara Wright's** 1900s wood-frame farmhouse on **Progress Street NE** smelled of damp autumn oak leaves, warm vacuum tubes, and burnt coffee, and twenty-two-year-old **Ryan O'Connell** wouldn't have traded it for the finest recording studio on earth.
+
+When Ryan, his younger sister **Cassidy**, and their identical twin maternal cousins **Evan** and **Tyler Wright** had all enrolled together as incoming freshmen in **Commonwealth Polytechnic Institute's Class of '89** the previous autumn—with sixteen-year-old youngest sister **Holly O'Connell** dual-enrolled at Blacksburg High School in the mornings and taking undergraduate business and contract law classes at CPI in the afternoons—none of them had wanted to be split up across separate freshman dormitories on campus.
+
+Fortunately, Evan and Tyler's mother—**Aunt Clara Wright**, maternal aunt to Ryan, Cassidy, and Holly—owned the two-story farmhouse on Progress Street two blocks north of **Commonwealth Mall**. By serving as their **live-in landlord** and signing a formal **`$1.00`-a-year family lease** that fifteen-year-old Holly had typed up at the kitchen table in August 1985, Aunt Clara had allowed all five of them to legitimately check the *"Residing Locally with an Immediate Adult Relative"* exemption on CPI's housing affidavit—bypassing the mandatory Freshman Dormitory Requirement so the entire family unit could live under one roof while rehearsing in the detached cinder-block garage out back.
 
 Across the cracked concrete floor, his younger sister **Cassidy** stood behind a two-tier aluminum keyboard stand in an oversized maroon **`CPI`** sweatshirt, her fingers flying across an eight-voice analog polysynth while their identical twin maternal cousins, **Evan** and **Tyler Wright**, locked into a driving 138-BPM rhythm section that rattled the frosted glass panes of the overhead garage door.
 
@@ -172,17 +176,17 @@ Inside the warehouse, twenty-two-year-old **Holly O'Connell** didn't yell. She s
 
 ***
 
-#### October 15, 1992 – 1995 — Buying Progress Street Outright & *The Warehouse Tapes*
+#### October 15, 1992 – 1995 — Returning Home to Progress Street & *The Warehouse Tapes*
 
 They didn't spend one more night in the Beverly Hills mansion.
 
-Within two hours of rolling out of the downtown Los Angeles warehouse, Ryan, Cassidy, Holly, Evan, and Tyler drove back up Coldwater Canyon, packed their suitcases and instruments out of the ground-floor dining room, left the mansion keys on the marble foyer table, and headed straight east toward Interstate 40 and Interstate 81—not stopping until the green highway sign for **Blacksburg / Christiansburg** rose against the autumn ridges of the Blue Ridge Mountains.
+Within two hours of rolling out of the downtown Los Angeles warehouse, Ryan, Cassidy, Holly, Evan, and Tyler drove back up Coldwater Canyon, packed their suitcases and instruments out of the ground-floor dining room, left the mansion keys on the marble foyer table, and headed straight east toward Interstate 40 and Interstate 81—not stopping until the green highway sign for **Blacksburg / Christiansburg** rose against the autumn ridges of the Blue Ridge Mountains and they rolled up the wooden ramp of **Aunt Clara's** farmhouse on **Progress Street NE**.
 
 When photographer Kevin Mitchell's sworn deposition (*Evidence #94-C*) forced Apex Records into a total courtroom surrender—voiding the recording contract, surrendering 100% of the band's master tapes, and paying punitive settlement damages just to keep Mitchell off the witness stand—the family didn't look at real estate in Los Angeles, New York, or Nashville.
 
-Instead, Holly walked down to the bank on Main Street in Blacksburg, used their settlement check to buy their off-campus college rental house on **Progress Street NE** outright in cash, and founded **Engine Room Records, LLC**.
+Instead, Holly used their settlement check to found **Engine Room Records, LLC** right there in Blacksburg (before purchasing the Progress Street property outright from Aunt Clara in 1996 to gut-renovate the farmhouse with a three-stop hydraulic elevator and custom wraparound porch ramp).
 
-While the major-label industry blacklisted them across commercial radio from 1993 to 1995, the five of them knocked out the basement walls underneath the Progress Street living room to build **Stardust Studios**, rented an industrial cinder-block warehouse on the edge of town for full-stage rehearsals, and dubbed thousands of underground cassettes by hand—**The Warehouse Tapes**—passing them from dorm room to dorm room across CPI until every student in Blacksburg knew that **The Stardust Engine** had come home for good.
+While the major-label industry blacklisted them across commercial radio from 1993 to 1995, the five of them rented an industrial cinder-block warehouse on the edge of town for full-stage rehearsals and dubbed thousands of underground cassettes by hand—**The Warehouse Tapes**—passing them from dorm room to dorm room across CPI until every student in Blacksburg knew that **The Stardust Engine** had come home for good.
 
 # Book 4: Ad Astra, Hard Reset & The Stadium Years (1996–2005)
 
@@ -1378,7 +1382,7 @@ Ryan threw his head back and roared with laughter, while Cassidy, Holly, Evan, a
 
 "Every single second!" **Cassidy** agreed fervently, adjusting her dry glasses. "Everything was plastic, the air tasted like eight lanes of freeway smog, the mansion had twenty marble steps at the front door with zero wheelchair ramps so Evan and Tyler had to haul Ryan's chair up and down the stairs every day, and most of all—it wasn't Blacksburg. It wasn't home."
 
-"And yes," **Holly** grinned, pointing her thumb north toward Blacksburg, "when we say **Progress Street**, we mean *the* **Progress Street** right here in Blacksburg—two blocks north of **Commonwealth Mall**! The five of us rented that exact off-campus house together as CPI undergrads in 1985 and started the band in the unheated cinder-block garage out back. When we walked out on Apex in 1992 after Ryan's wreck on I-81, we bought that house on Progress Street outright in cash, turned the basement into **Stardust Studios**, and never left."
+"And yes," **Holly** grinned, pointing her thumb north toward Blacksburg, "when we say **Progress Street**, we mean *the* **Progress Street** right here in Blacksburg—two blocks north of **Commonwealth Mall**! That 1900s farmhouse originally belonged to **Aunt Clara Wright**—Evan and Tyler's mom, and Ryan's, Cassidy's, and my maternal aunt. When the guys and Cass started as CPI freshmen in the fall of 1985 and I was only sixteen years old in dual enrollment, Aunt Clara served as our live-in landlord and leased the house to us for one dollar a year so we could legitimately check the 'Living with a Local Relative' box on CPI's housing form and skip the freshman dorms! We started the band in her unheated cinder-block garage out back, fled straight back there from Beverly Hills in 1992, and bought the house outright from Aunt Clara in 1996 to gut-renovate it with a three-stop hydraulic elevator and wraparound ramp."
 
 "Why on earth would I want to sit in a mansion in Beverly Hills," Ryan smiled, looking straight across at Jordan from his chair, "when I can live on **Progress Street** with my sisters and my cousins, roll six miles down the **Huckleberry Trail** under the autumn leaves without a single person hassling us, and pay thirty bucks a month for a Town of Christiansburg non-resident pass to soak in a ninety-five-point-five-degree therapy pool?"
 
