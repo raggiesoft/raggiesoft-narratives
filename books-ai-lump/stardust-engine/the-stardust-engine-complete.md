@@ -236,11 +236,11 @@ Behind Ryan’s wheelchair, Cassidy slowed her steps to a halt beneath a crimson
 
 Ryan braked his handrims and glanced back over his shoulder at her. "Everything okay, Cass?"
 
-Behind her glasses, Cassidy’s eyes were fixed on the glowing stadium towers rising above the golden leaves and the quiet paved rail bed stretching back toward Christiansburg. Her right hand was already tapping a buoyant, `124 BPM` eighth-note rhythm against the left push-handle of Ryan’s chair.
+Behind her glasses, Cassidy’s eyes were fixed on the glowing stadium towers rising above the golden leaves and the quiet paved rail bed stretching back toward the pastures where the ten CPI students had just passed them with nothing more than a warm neighbor's wave. Her right hand was already tapping a buoyant, `124 BPM` eighth-note rhythm against the left push-handle of Ryan’s chair.
 
-"Ry," Cassidy whispered, her voice catching with a sudden, luminous smile. "Listen to the cadence of your wheels on the leaves."
+"Ry," Cassidy whispered, her voice catching with a sudden, luminous smile. "Those kids in the hoodies back by the pasture—and that boy in the manual chair who waved to you without asking for a thing. Listen to the cadence of your wheels on the leaves. We need to write a thank-you song for our neighbors."
 
-She sang it softly into the cool October wind—an effortless, soaring `D Major` melody that sounded like 1980s analog synth bells and a chorused twelve-string guitar waiting to be born:
+She sang it softly into the cool October wind—an effortless, soaring `D Major` melody that began with the exact time they had stepped onto the trail at `5:30 PM`:
 
 > *"October five-thirty and the air turns crisp*
 > *Woodsmoke curling in a silver wisp*
@@ -249,9 +249,14 @@ She sang it softly into the cool October wind—an effortless, soaring `D Major`
 > *You're pushing on your hand-rims at an easy pace*
 > *With the mountain wind cooling off your face*
 > *Six miles of asphalt from the library lawn*
-> *Where the old Huckleberry train used to roll on..."*
+> *Where the old Huckleberry train used to roll on*
+>
+> *No studio clocks and no city stress*
+> *Just the valley dressed in its autumn dress*
+> *Watch the sun dip low behind Price Mountain's crest*
+> *In the quiet corner that we love the best!"*
 
-Ryan, Evan, Tyler, and Holly looked at Cassidy in quiet awe. Without needing a guitar in his hands, Ryan heard the pre-chorus and the chorus rising right out of the valley around them, and he sang the next lines back to his sister in close sibling harmony while Evan and Tyler tapped the beat against their thighs:
+Ryan, Evan, Tyler, and Holly looked at Cassidy in quiet awe. Without needing a guitar in his hands, Ryan heard the chorus and the second verse—about the cattle pastures and the students in their hoodies who had just given them a neighbor's wave—rising right out of the valley around them, and he sang the lines back to his sister in close sibling harmony while Evan and Tyler tapped the beat against their thighs:
 
 > *"Chasing the neon on the Huckleberry Trail!*
 > *Where the twilight glows and the shadows sail!*
@@ -260,7 +265,16 @@ Ryan, Evan, Tyler, and Holly looked at Cassidy in quiet awe. Without needing a g
 > *See the stadium towers flicker on in the night*
 > *Painting the valley in electric light!*
 > *Every autumn evening tells the same old tale*
-> *We're home together on the Huckleberry Trail!"*
+> *We're home together on the Huckleberry Trail!*
+>
+> *Passing by the pastures where the cattle graze*
+> *Wrapped inside the amber of the college days*
+> *Students in their hoodies jogging two by two*
+> *Nodding with a smile as we roll on through*
+> *No autographs asked, just a neighbor's wave*
+> *In the mountain sanctuary that our hometown gave*
+> *Thirty years of music and we still belong*
+> *To the winding path where we wrote this song!"*
 
 Cassidy’s face lit up with pure, unburdened joy. She pulled her voice recorder out of her jacket pocket, hit `RECORD` so they wouldn't lose a single note of the arrangement before reaching the **Pendleton Library** lawn, and tucked it back into her zip pocket.
 
@@ -1028,9 +1042,88 @@ Listening to the crickets outside the open bedroom window on **Progress Street**
 
 "Goodnight, Cass. We're home."
 
-And the very next afternoon—with zero tour flights to catch and the rest of their lives ahead of them in Blacksburg—all five of them clipped their **`$30.00/month` Town of Christiansburg Non-Resident** barcode keytags onto their swim bags, rolled six miles south down the **Huckleberry Trail** to the **Blue Ridge Regional Aquatic Center**, swam forty-five minutes of laps in **The Forger Natatorium**, and floated side by side in the `95.5°F` waters of **The Cove**.
-
 ***
 
 > **Companion Perspective (*The Eleventh Child* — Jordan Fuller's POV):** Read Act VII (`22:40–23:30`) from `Section 104, Row A, Seat 1` as Jordan and his friends try to guess the 77-second overture before the `1:40` reveal of *"Electric Color"* and board the Blue Ridge Transit articulated shuttle at the Crucible Bus Loop in [**The Eleventh Child — Spring Semester 2016, Part 7: *Electric Color (Live at the Crucible) & The Ride Home***](https://books.raggiesoft.com/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-7-electric-color-live-at-the-crucible-the-ride-home) • Explore the band's full cosmic archive at [**`stardust.raggiesoft.com`**](https://stardust.raggiesoft.com).
+
+### Part 8: The Morning After: 95.5°F at the Blue Ridge Regional Aquatic Center
+
+**Date:** 2016-05-22 at 14:00 America/New_York
+
+#### Sunday, May 22, 2016 • 2:00 PM — The Morning After *Live at the Crucible*
+
+On any other world tour between 1987 and 2005, the Sunday afternoon after athree-hour stadium show meant waking up stiff and exhausted in a hotel bed four hundred miles away, transferring onto a cold shower bench in an unfamiliar bathroom, and spending four hours on an interstate highway before the next arena load-in.
+
+On **Sunday, May 22, 2016**, **Ryan O'Connell** woke up in his own bed on **Progress Street NE** to the smell of **Evan** making buttermilk pancakes in the kitchen and the sound of Blacksburg songbirds outside the window.
+
+Even so, playing thirty-four songs across three hours from a manual wheelchair the night before had left every muscle in Ryan’s triceps, shoulders, latissimus dorsi, and lower back aching with deep post-concert fatigue.
+
+"Come on, big brother," **Cassidy** said at `13:30`, holding up five swim bags with their blue plastic **`$30.00/month` Town of Christiansburg Non-Resident** barcode keytags clipped to the zippers. "You gave sixty-five thousand people everything in your tank last night. Today belongs to **The Cove**."
+
+At `14:00`, after scanning their five non-resident keytags at the front counter of the **Blue Ridge Regional Aquatic Center** off **Mill Lane NE** in **Christiansburg** and changing in the private accessible **Family Changing Suites**, Ryan transferred out of his matte-black titanium everyday wheelchair onto one of the facility’s white waterproof PVC transfer chairs.
+
+As Cassidy pushed his waterproof transfer chair through the glass doors into the warm, humid alcove of **The Cove**—the facility’s **`95.5°F`** warm-water therapy pool—Ryan noticed another dry manual wheelchair (`a black Pinnacle Vanguard Pro`) parked neatly against the tiled wall right next to where Evan parked Ryan’s dry titanium chair.
+
+And down in the steaming `95.5°F` water along the north hydrotherapy bench, surrounded by a close-knit group of college friends, was the exact young man from `Section 104, Row A, Seat 1`—and from `5:30 PM` on the **Huckleberry Trail** back in October 2014.
+
+With his rectangular polycarbonate glasses held in place by a black neoprene sport strap, the young man was floating weightlessly in the `95.5°F` water while two young women—the blonde woman who had held him during *"My Anchor Holds"* last night (**Aubrie Jean**) and their tall blonde friend (**Madison**)—gently supported his hips and shoulders in the warm buoyancy, slowly guiding his legs through a careful series of range-of-motion stretches to ease his post-concert muscle tone.
+
+Ryan didn't say a word at first. Rolling down the zero-depth ramp into the `95.5°F` water, he let Cassidy, Evan, Tyler, and Holly ease him off the PVC transfer chair and spend ten quiet minutes stretching his own legs and working the three-hour guitar-strap knots out of his shoulders in the warm hydrotherapy jets.
+
+Watching the two groups across the thirty-foot therapy pool, Ryan felt a quiet pull in his chest. Here were two families doing the exact same unglamorous, loving physical work in `95.5°F` municipal water so two manual wheelchair users could live without pain.
+
+***
+
+#### 2:25 PM — Roommate Fluency
+
+Once Cassidy and Evan finished stretching his legs and Ryan was floating comfortably along the submerged stainless-steel handrail, Ryan looked across the warm water and caught the young man’s eye.
+
+Ryan drifted smoothly along the handrail until he was six feet away, with Cassidy, Holly, Evan, and Tyler floating right behind him.
+
+"Hey, man—sorry to interrupt your stretch," Ryan said politely in a low, conversational voice, speaking directly to the young man. "Were you sitting right in the front row of `Section 104` at **The Crucible** last night... and wait a second, were you the guy in the manual chair who waved to us on the **Huckleberry Trail** back in October at five-thirty?"
+
+Behind his water-spotted glasses, the young man’s eyes went wide with pure, unguarded shock—as if he couldn't quite believe that Ryan O'Connell was floating in a municipal therapy pool in Christiansburg asking to talk to him.
+
+Ryan noticed the young man’s mouth open slightly, saw the involuntary tension catch in his jaw and throat, and saw his eyes dart helplessly toward the dry changing-room corridor—unable to speak a word out loud and suddenly unsure what to do.
+
+Before a single second of embarrassment could settle over him, the blonde woman at his left shoulder (**Aubrie Jean**) and the tall blonde woman at his right (**Madison**) moved with a quiet, practiced grace that Ryan recognized in his bones.
+
+Feeling two quick taps of the young man’s fingers against her underwater forearm and checking his eyes first for permission, the blonde woman smiled warmly at Ryan and Cassidy.
+
+"He’s saying a huge *yes* to both," she said gently. "This is my fiancé, **Jordan**. I'm **Aubrie Jean**, this is **Madison**—the three of us have been roommates in Bennett Hall since freshman year—and these are our family, **Mark**, **Zoë**, **Lauren**, **Hannah**, **Sarah**, **Jessica**, and **Isabel**. Jordan’s cerebral palsy makes speaking out loud really tough, so he uses an AAC tablet for his voice, and we had to lock it in the dry locker so the pool water wouldn't fry the electronics."
+
+Beside Ryan in the warm water, Cassidy let out a soft, deeply moved breath, her eyes shining behind her fogged lenses. For thirty years, whenever autistic sensory overload or a crowded press room made Cassidy’s own words lock up in her throat, Ryan had stood at her shoulder and done the exact same thing Aubrie Jean and Madison were doing for Jordan right now.
+
+"You never have to apologize for that around us, Jordan," Ryan said immediately, reaching his right hand across the surface of the `95.5°F` water. "I'm Ryan, this is my sister Cass, our cousin Holly, and our cousins Evan and Tyler. It is really, really good to finally meet you, man. Just point, nod, or let Aubrie Jean and Madison translate—we speak roommate fluently in this family."
+
+The tension melted right out of Jordan’s shoulders. Smiling from ear to ear, Jordan shook Ryan’s hand firmly—and then lifted his right hand out of the water and tapped two fingers to his temple in the exact fellow-wheelchair-user salute he had given Ryan on the **Huckleberry Trail** in October 2014, before tapping his chest and making a series of expressive hand gestures toward Mark and the trail.
+
+Without missing a beat, **Madison** watched Jordan’s hands and eyes and translated with a warm grin, glancing at Jordan as he nodded eagerly:
+
+"He’s saying that back in October 2014 when we passed you guys on the Huckleberry Trail, he had zero clue who **The Stardust Engine** was! He grew up in a house where he wasn't allowed to listen to music, so when Mark whispered your names on the trail, it meant nothing to him—he was just happy to see another guy in a manual chair out on the path!"
+
+"And now he’s tapping my arm to add the second part," **Aubrie Jean** laughed softly, reading Jordan’s quick hand sign. "Three months after that walk on the trail, in January 2015, Zoë’s dad **Daniel** put the 1987 vinyl LP of *Electric Color* on his turntable in Christiansburg—and the second Daniel said your names, Jordan realized you were the brother and sister from the Huckleberry Trail!"
+
+Ryan threw his head back and laughed out loud, splashing the warm water with his palm while Evan, Tyler, and Holly grinned from ear to ear.
+
+"Are you serious?!" Ryan said, looking at Jordan with a huge grin. "Man, you have no idea how much I love hearing that! Because I'll tell you a secret, Jordan: that October evening at five-thirty when you and your friends walked past us in your CPI hoodies by the cattle pastures? When you looked over at my chair and just gave me a regular neighbor's wave without anybody pulling out a camera or treating us like a circus act—that exact moment was why Cass stopped us under the maple tree five minutes later and sang the opening lines of [***'Neon on the Huckleberry Trail'***](https://music.raggiesoft.com/artists/the-stardust-engine/2015-reignition?track=1-08-neon-on-the-huckleberry-trail)!"
+
+Jordan’s eyes went wide behind his glasses, pointing a finger at himself and his friends in amazement.
+
+"You guys!" Cassidy beamed, nodding enthusiastically beside Ryan. "When I sang *'October five-thirty and the air turns crisp'* and *'Students in their hoodies jogging two by two / Nodding with a smile as we roll on through / No autographs asked, just a neighbor's wave'*—that was literally you and your family! That’s why Ryan recognized you on the camera monitor in `Section 104, Row A` before the show last night!"
+
+For the next twenty minutes in the `95.5°F` water of **The Cove**, Ryan got the exact conversation he had wished for when he watched the Blue Ridge Transit shuttle pull away from the Crucible Bus Loop the night before.
+
+He didn't have to be a rock star, and Jordan didn't have to be a fan. Floating in the warm municipal therapy pool on their `$30.00/month` Town of Christiansburg non-resident passes—with Aubrie Jean and Madison effortlessly interpreting Jordan’s gestures and nods—two manual wheelchair users simply talked shop:
+
+* Ryan told Jordan how impressed he and Cassidy had been watching him spin his `Vanguard Pro` 180 degrees at the **Crucible Bus Loop** at `10:50 PM` last night and climb the steep **Blue Ridge Transit** articulated bus ramp in reverse in two pulls flat (*"I told Cass on our shuttle home that anybody who backs up a kneeling bus ramp that clean has serious chair skills"*).
+* Jordan—through Madison and Aubrie Jean—told Ryan and Cassidy how `95.5°F` in **The Cove** was the only place in Montgomery County where gravity let go of his cerebral palsy spasticity after three hours in a stadium seat, and how he and Aubrie Jean were getting married on July 15 with a string quartet playing [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) as their processional.
+
+When it was time to roll back up the zero-depth ramp toward the changing suites at `15:00`, Ryan floated over and bumped his fist warmly against Jordan’s fist above the `95.5°F` water.
+
+"Congratulations on the wedding, Jordan and Aubrie Jean," Ryan smiled. "We swim down here on Tuesdays and Thursdays whenever we're not locked in the basement studio. Next time we see you guys in **The Cove** or out on the **Huckleberry Trail**—at least now I finally know your name."
+
+***
+
+> **Companion Perspective (*The Eleventh Child* — Jordan Fuller's POV):** Read this Sunday afternoon therapy-pool meeting from Jordan's perspective—without his AAC tablet in the humid natatorium while his original Room 214 roommates Aubrie Jean and Madison interpret his non-verbal cues for Ryan and Cassidy—in [**The Eleventh Child — Spring Semester 2016, Part 8: *The Cove (95.5°F): Two Wheelchairs at the Blue Ridge Regional Aquatic Center***](https://books.raggiesoft.com/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-8-the-cove-95-5-f-two-wheelchairs-at-the-blue-ridge-regional-aquatic-center) • Explore the band's full cosmic archive at [**`stardust.raggiesoft.com`**](https://stardust.raggiesoft.com).
 
