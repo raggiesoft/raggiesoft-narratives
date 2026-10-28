@@ -2,71 +2,483 @@
 title: "The Stardust Engine"
 ---
 
-# Book 1: CPI & Electric Color (1986–1989)
+# Book 1: Analog Heart & Teenager in the Valley (1978–1989)
 
-## Chapter 1: Progress Street & The Forger's Call (1986)
+## Chapter 1: The Noise Floor (September 1978)
 
-### Progress Street, 'Ignition,' & The Apex Signing (1986–1989)
+### High Fidelity, Safe Harbor & The Circuit
 
-**Date:** 1986-10-18 at 21:30 America/New_York
+**Date:** 1978-09-05 at 08:00 America/New_York
 
-#### October 18, 1986 — Aunt Clara's House & The Garage on Progress Street
+#### September 5, 1978 (`08:00 AM`) — High Fidelity (Blacksburg High School)
 
-The unheated two-car cinder-block garage behind **Aunt Clara Wright's** 1900s wood-frame farmhouse on **Progress Street NE** smelled of damp autumn oak leaves, warm vacuum tubes, and burnt coffee, and twenty-two-year-old **Ryan O'Connell** wouldn't have traded it for the finest recording studio on earth.
+The world did not sound like people said it did.
 
-When Ryan, his younger sister **Cassidy**, and their identical twin maternal cousins **Evan** and **Tyler Wright** had all enrolled together as incoming freshmen in **Commonwealth Polytechnic Institute's Class of '89** the previous autumn—with sixteen-year-old youngest sister **Holly O'Connell** dual-enrolled at Blacksburg High School in the mornings and taking undergraduate business and contract law classes at CPI in the afternoons—none of them had wanted to be split up across separate freshman dormitories on campus.
+To **Ryan O’Connell**, the world was not made of words or conversations. It was made of frequencies.
 
-Fortunately, Evan and Tyler's mother—**Aunt Clara Wright**, maternal aunt to Ryan, Cassidy, and Holly—owned the two-story farmhouse on Progress Street two blocks north of **Commonwealth Mall**. By serving as their **live-in landlord** and signing a formal **`$1.00`-a-year family lease** that fifteen-year-old Holly had typed up at the kitchen table in August 1985, Aunt Clara had allowed all five of them to legitimately check the *"Residing Locally with an Immediate Adult Relative"* exemption on CPI's housing affidavit—bypassing the mandatory Freshman Dormitory Requirement so the entire family unit could live under one roof while rehearsing in the detached cinder-block garage out back.
+Standing at the edge of the bus loop, clutching the strap of a canvas messenger bag that felt like sandpaper against his neck, Ryan cataloged the sonic landscape of his first day of high school. It was a war zone:
+* **`60 Hertz`:** The aggressive hum of the streetlamp buzzing overhead, signaling a failing ballast.
+* **`1200 Hertz`:** The squeal of the bus brakes, a high-pitched shriek that felt like a needle in his molars.
+* **Low-Frequency Rumble:** The idling diesel engines, vibrating through the soles of his sneakers and up his shinbones.
 
-Across the cracked concrete floor, his younger sister **Cassidy** stood behind a two-tier aluminum keyboard stand in an oversized maroon **`CPI`** sweatshirt, her fingers flying across an eight-voice analog polysynth while their identical twin maternal cousins, **Evan** and **Tyler Wright**, locked into a driving 138-BPM rhythm section that rattled the frosted glass panes of the overhead garage door.
+He was fourteen years old. He was tall for his age, gangly, with hair that refused to lie flat. He looked ordinary enough from the curb, but inside, he was redlining.
 
-Two weeks earlier, the four of them had entered the **Commonwealth Polytechnic Institute** student union cassette contest with a blistering three-minute stadium rock anthem they had tracked on a borrowed four-track reel-to-reel machine: [**"Ignition"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-the-forgers-call?track=1-01-ignition). They had recorded it simply hoping to win fifty dollars in campus bookstore credit and maybe hear their tape played over the PA system inside **The Crucible** before Saturday afternoon kickoff.
+"Ryan?"
 
-Instead, that afternoon, a courier envelope from Los Angeles had landed on their front porch on Progress Street.
+His mother’s voice cut through the mix. **Sarah O’Connell** was leaning out the window of their station wagon. She looked worried—she always looked worried when it came to him. In 1978, nobody in Montgomery County had a clinical word for how Ryan's brain wired sound and touch together; adults only had euphemisms: *High-strung. Particular. Sensitive.*
 
-Someone in the A&R department at **Apex Records** had heard a dubbed copy of the CPI student contest cassette. They wanted to fly out to Blacksburg to sign the band.
+"You have your lunch?" she asked.
 
-"Wait—play that bridge chord again, Cass," Ryan said, stepping away from his dual-stack tube amplifier with his cherry-sunburst solid-body electric guitar slung over his shoulder. "The F-sharp minor into the D major lift. Right where the booster stage separates."
+Ryan nodded. He couldn't speak. The transition from the safety of the car to the chaos of the sidewalk required all of his processing power.
 
-Cassidy adjusted her round wire-rimmed glasses, her face glowing in the amber LEDs of her synthesizer rack, and pressed the sustain pedal. A lush, brassy wave of sawtooth harmonics filled the tiny Blacksburg garage, sounding less like a college rehearsal space and more like the view out the viewport of an orbital command module two hundred miles above the Blue Ridge Mountains.
+"Okay. Go get 'em, tiger."
 
-"Listen to how the guitar overtones lock right into the synth filter when you hold the fifth," Cassidy whispered, her eyes wide with the pure, unfiltered joy of discovery. "Ry, what are we going to call this one?"
+He forced a smile—a mechanical lifting of the corners of his mouth that he had practiced in the bathroom mirror—and turned toward the building.
 
-Ryan looked down at the yellow spiral notebook resting on top of his amplifier, where he and Cassidy had been sketching lyrics between their Tuesday/Thursday engineering and astronomy lectures on **Commonwealth Green**.
+**Blacksburg High School** loomed like a fortress of red brick and concrete. To anyone else, it was just a school. To Ryan, it was a sensory thresher.
 
-"We wrote it about the two things the four of us have been obsessed with since we were kids," Ryan said quietly. "The wonder of the cosmos—and the rockets it takes to get you there. Let's call it [**'The Stardust Engine'**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine)."
+He walked into the main hallway, and the volume spiked. It wasn't just auditory; it was physical. The air was thick with the smell of floor wax, cheap perfume, and locker-room humidity. Hundreds of bodies collided, shouted, and slammed metal locker doors.
 
-Behind the drum kit, Tyler spun a hickory stick between his knuckles and grinned at his twin brother Evan. "Forget just calling the song that, Ry. That's the name of the band."
+*Clang. Slam. Laugh. Shout. Clang.*
+
+It was arrhythmic. Chaotic. There was no tempo.
+
+Ryan kept his head down, counting his steps. *One, two, three, four. One, two, three, four.* If he could impose a `4/4` time signature on the walk to his homeroom, he wouldn't drown.
+
+He reached his locker—Number `304`. He dialed the combination: `12-24-36`. Multiples of twelve. Good numbers. The locker opened with a satisfying metallic click.
+
+He placed his lunch inside and took a breath, pressing his forehead against the cool steel of the locker door. The metal vibrated slightly. Everything in the building was vibrating.
+
+"Hey! Watch it, freak!"
+
+Someone slammed into his shoulder. Ryan stumbled, his hip checking the locker frame hard. A senior in a varsity jacket pushed past him, laughing with a friend.
+
+Ryan didn't retaliate. He didn't even look up. He just felt the phantom impact on his shoulder, the lingering tactile burn. The chaotic noise of the hallway surged—a wall of white noise that threatened to swallow him whole.
+
+He needed a filter. He needed an EQ pedal for reality.
+
+He closed his eyes tight, right there in the middle of the hallway traffic. He pictured a studio mixing console in his mind—a trick he had taught himself over the summer:
+* **Fader 1 (`Voices`):** He slid the mental fader down. The shouting became a murmur.
+* **Fader 2 (`Lockers`):** He dipped the mids. The metallic clanging lost its bite.
+* **Fader 3 (`The Hum`):** He boosted this one.
+
+He focused on the building's ventilation system—the deep, steady drone of the massive HVAC fans on the roof. It was a constant **B-flat**. A steady, unwavering note.
+
+*Hmmmmmmmmmmmmmm.*
+
+Ryan latched onto that B-flat. It was safe. It was predictable. It was the anchor.
+
+He opened his eyes. The hallway was still chaotic, but the B-flat gave him a path to walk on. He pulled a spiral notebook out of his bag. It wasn't for schoolwork; the cover was drawn over in black marker with star charts and guitar wiring schematics he was teaching himself from library books. On the back cover, he had written two words in block letters:
+
+**`PROJECT AETHELGARD`**
+
+He didn't know what he would use the name for—he just liked the sound of the words. They sounded like a place where the noise didn't hurt.
+
+The bell rang—a harsh, dissonant electric buzzer that made Ryan flinch violently.
+
+The B-flat vanished. The chaos returned. Ryan O’Connell took a deep breath, gripped his notebook like a shield, and walked into the noise floor of the ninth grade.
 
 ***
 
-#### November 1986 — Sixteen-Year-Old Holly's `$1.00` Cross-License
+#### September 5, 1978 (`03:45 PM`) — Safe Harbor (The O'Connell Driveway)
 
-Before the A&R representatives from **Apex Records** ever stepped foot in Montgomery County, sixteen-year-old **Holly O'Connell**—the youngest of the three O'Connell siblings, who had skipped a grade in high school and spent her evenings reading contract law treatises at the **Pendleton Library** while her brother, sister, and cousins rehearsed—sat all five of them down at the scratched formica kitchen table on Progress Street.
+The school bus—a rattling yellow cage on wheels—screeched to a halt. To Ryan, the brakes didn't just squeal; they screamed at a frequency that felt like a drill bit boring directly into his molars.
 
-"Read Clause 14 of Apex's standard recording agreement," Holly said, tapping a yellow highlighter against the boilerplate legal packet the label had sent ahead by overnight mail. "They call it a *Controlled Composition & Work-for-Hire Assignment*. If you sign their contract as individuals, Apex owns your band name, your songwriting masters, and your arrangements forever, while charging every penny of studio time, travel, and promotion back against your royalties as recoupable debt."
+Ryan didn't say goodbye to anyone. He didn't look at the other kids. He gripped the strap of his canvas bag, kept his head down, and launched himself out of the folding doors the second they opened.
 
-"Can we ask them to strike Clause 14?" Evan asked, frowning over his mug of tea.
+He landed on the cracked pavement of his street as the bus pulled away, taking the cloud of diesel fumes and the roar of shouting teenagers with it.
 
-"They're a major label in Los Angeles; they'll never strike it if we ask," Holly replied calmly, pulling a three-page document she had typed on an electric typewriter at the Montgomery County Courthouse law library out of her backpack. "We don't ask them. Tonight—forty-eight hours before Apex's lawyers arrive—you four are executing a Virginia general partnership agreement and a **Perpetual Mutual Cross-License** with me as your business manager, for one dollar of consideration."
+Ryan stood still for a second, recalibrating:
+* **Heart Rate:** `110 BPM` (Too fast).
+* **Shoulders:** Tensed to the ears.
+* **Social Battery:** Depleted.
 
-She slid a crisp **`$1.00`** bill across the formica table.
+To anyone else, the seven hours spent at school were just education. To Ryan, they were wasted time. Every minute he spent in that building, navigating the chaotic noise and confusing social cues, was a minute he wasn't with his sisters. It felt inefficient. It felt like bleeding.
 
-"Under this prior instrument," Holly explained, her voice steady beyond her sixteen years, "every composition, arrangement, and trademark created by Ryan, Cassidy, Evan, and Tyler is irrevocably vested in our family partnership first, with an automatic reversion trigger if any third-party licensee ever commits a material breach of fiduciary duty or personal safety. When Apex signs you on Thursday, they can only take an interest subject to our prior recorded cross-license."
+He turned toward the house. On the front porch, sitting on the top step like two sentries guarding a cathedral, were his sisters.
 
-Ryan looked at his sixteen-year-old little sister, then exchanged a glance with Cassidy, Evan, and Tyler. Without hesitation, all four of them picked up their pens, signed the family partnership deed, and taped the `$1.00` bill inside the front cover of Holly's ledger.
+**Cassidy** (age 11) was wearing oversized stereo headphones plugged into nothing—just wearing them to muffle the wind. **Holly** (age 9) had a notebook on her lap and was organizing a pile of driveway stones by size and color.
+
+Ryan let out a breath he felt like he had been holding since homeroom. The mask dropped. The stoic, silent "High School Freshman" act evaporated.
+
+He didn't walk up the driveway. He ran.
+
+"Ryan!" Holly shouted, abandoning her rock collection.
+
+She hit him at full speed before he even reached the bottom step. Small for nine, she was a dense little projectile of affection, wrapping her arms around his waist and burying her face in his flannel shirt.
+
+Ryan dropped his bag on the grass and slumped into the hug, wrapping his long, lanky arms around her and resting his chin on the top of her head.
+
+*Pressure. Squeeze. Grounding.*
+
+"Did you survive?" Holly asked, her voice muffled by his shirt.
+
+"Barely," Ryan groaned. "The cafeteria smells like wet cardboard and shouting."
+
+Cassidy stood up from the step. She didn't run; she drifted down to them, sliding under Ryan’s left arm to sandwich him and pressing her forehead against his shoulder with her eyes closed.
+
+"You're vibrating," Cassidy noted softly. "Like a struck bell."
+
+"Too much treble today," Ryan whispered, tightening the huddle.
+
+He stood there on the front lawn with his eyes closed, holding his sisters. This wasn't just affection; it was a recharge cycle. Without them, he felt like he would float away into the static. With them, he had gravity. Every second of school was simply the price he paid to get back to this huddle.
+
+"Come on," Holly commanded, pulling back while keeping hold of his hand. "Mom's at the store. We have the perimeter."
+
+"Perimeter secure?" Ryan asked, a small smile finally breaking through the exhaustion.
+
+"Secure," Holly nodded seriously. "I made peanut-butter toast. And Cass set up the station."
+
+They walked inside as an entangled knot of limbs. Ryan kicked off his sneakers at the door, tossed his bag into the corner, and headed straight to the brown-and-orange shag carpet of the living room floor.
+
+Cassidy had dragged the family’s heavy console record player onto the rug. Propped up against the sofa was the sleeve of the biggest sci-fi movie soundtrack of 1977: ***"SOLARIS VANGUARD: Original Motion Picture Score"*** by Marek Solnik.
+
+Ryan lay flat on his back, staring at the textured ceiling. Cassidy lay down right beside him, shoulder to shoulder, mirroring his posture. Holly flopped across both of their stomachs like a living weighted blanket.
+
+"Side A, Track 1?" Cassidy asked.
+
+"Please," Ryan said. "I need the Overture."
+
+Cassidy dropped the needle.
+
+The *Solaris Overture* blasted out of the console speakers—beginning with a single piercing brass fanfare followed by the swell of a hundred strings. It was loud, but it was *good* loud. It was organized. It was heroic. It was math made into emotion.
+
+Ryan felt Holly’s weight rising and falling with his breath and the warmth of Cassidy’s arm pressed against his side.
+
+"I hate ninth grade," Ryan told the ceiling as the music washed over him.
+
+"We know," Holly said, picking at a loose thread on his flannel shirt. "But you're home now."
+
+"Yeah," Ryan whispered, his breathing finally syncing with the tempo of the orchestra. "I'm home."
+
+For the next twenty minutes, nobody moved and nobody spoke. They simply lay in **The Pile**, letting the space-opera symphony reset their nervous systems.
 
 ***
 
-#### 1987–1989 — *Electric Color*, *Neon Hearts*, & The Apex Gimmick
+#### September 9, 1978 (`10:15 AM`) — The Circuit (The O'Connell Garage)
 
-When [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) was released in the spring of **1987**, followed by their sophomore album [***Neon Hearts***](https://music.raggiesoft.com/artists/the-stardust-engine/1989-neon-hearts) in **1989** right as Ryan, Cassidy, Evan, and Tyler graduated from CPI, the songs they had written in the Progress Street garage—[**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds), [**"Saturday Night Lights"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-02-saturday-night-lights), and [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine)—exploded across college and rock radio.
+That Saturday morning, the garage door stood open, framing a square of bright Virginia autumn sunlight. Dust motes danced in the beam, while fourteen-year-old Ryan sat in the cool shadows near the workbench.
 
-Yet behind the scenes, a five-year cold war had already begun between the Progress Street house and Apex's marketing tower in Los Angeles.
+Taped to the bare drywall behind him was a stark black movie poster featuring a single vertical black rectangle hovering above a glowing gas giant:
 
-Apex's executives didn't care about orbital mechanics, analog synthesizers, or the quiet sanctuary of the Blue Ridge Mountains. Looking for a cheap 1980s MTV marketing hook, Apex's publicity department twisted the band's name into a tacky corporate persona gimmick—printing promotional posters that branded Cassidy as their ***"Stardust"*** and Ryan as their ***"Engine"***, while pressuring them during the 1989 *Neon Hearts* sessions to record manufactured, slickly produced pop heartbreak ballads like [**"If You Walked Away"**](https://music.raggiesoft.com/artists/the-stardust-engine/1989-neon-hearts?track=1-04-if-you-walked-away).
+> **THE JUPITER HORIZON**
+> *A Film by Anton Vane*
 
-Every single member of the family hated the gimmick. To Ryan, Cassidy, Evan, Tyler, and Holly, *"Stardust"* and *"Engine"* were never nicknames for two people—they were the cosmos and the rockets that carried all five of them together. Whenever a tour leg ended, they ignored Apex's invitations to relocate to California and drove straight back to their rented wood-frame house on **Progress Street** in Blacksburg, where the neighbors waved from their front porches and nobody cared whether their faces were on a magazine cover.
+Ryan loved the film not for the plot, but for the sound design—or rather, the lack of it. In Vane's vision of deep space, there were no screeching bus brakes and no shouting cafeterias. There was only the steady hum of the spacecraft hull, the rhythmic breathing of the astronaut, and the calm, logical voice of the `NEXUS` shipboard computer. It was the only movie that sounded like the inside of Ryan's head when he felt safe.
+
+Right now, he was building his own clean signal.
+
+He sat cross-legged on the concrete floor, surrounded by the disassembled wiring of a secondhand mail-order electric guitar. To solder the loose input jack without his hands shaking, Ryan needed physical stability—so the three of them had formed a human workbench:
+* **Holly** (9) sat tucked inside the diamond shape of Ryan's crossed legs, her back pressed firmly against his chest while she read an issue of *The Mutants* comic book using his knees as armrests.
+* **Cassidy** (11) lay on her stomach perpendicular to him, her head resting on his left thigh, watching his fingers work with unblinking intensity.
+* **Ryan** worked over the top of Holly’s head, holding the hot soldering iron in his right hand and the spool of rosin-core solder in his left, his arms forming a protective cage around his youngest sister.
+
+"Don't move, Hols," Ryan murmured as the tip of the iron glowed orange. "Molten solder."
+
+"I'm a rock," Holly replied without looking up from her comic book, leaning back harder against his sternum to increase the deep-pressure input.
+
+Ryan exhaled. The steady weight against his chest slowed his heart rate and locked his wrists still.
+
+"The ground wire was loose," Ryan explained to Cassidy, tapping the open input jack. "That's why it buzzes. It's 'dirty' noise. We want 'clean' noise. Like the Slab."
+
+"The Slab doesn't make noise," Cassidy whispered, referencing the monolith artifact from *The Jupiter Horizon*. "It just transmits."
+
+"Exactly," Ryan said. "Pure signal. Zero static."
+
+He touched the hot iron to the lug. A wisp of pine-scented rosin smoke curled upward—*sizzle*—and the joint fused into a bright, permanent silver bead.
+
+"Ryan!"
+
+Heavy bicycle tires crunched on the gravel driveway outside. Ryan flinched at the sudden sound, his arms instinctively tightening around Holly as his ten-year-old identical twin maternal cousins—**Evan and Tyler Wright**, who would turn eleven on Halloween—rolled into the garage and dropped their bikes on the grass. Even at ten, while Ryan was all wire and bone, the Wright twins were dense muscle in matching striped t-shirts and dirt-stained jeans.
+
+"Mom made chocolate-chip cookies," Tyler announced, pulling a plastic container out of his basket. "And Dad said we could look at the amplifier."
+
+The twins stopped and looked down at the three O'Connells on the floor. Most ten-year-old boys in 1978 would have teased them or asked why Ryan was hugging his sisters while fixing electronics. The Wright twins didn't blink. They were family.
+
+"Formation Alpha?" Evan asked, noting how Holly was wedged into Ryan’s lap.
+
+"Stabilizers engaged," Ryan confirmed, blowing on the cooling solder joint. "I needed the weight. My hands were shaking."
+
+Evan nodded seriously; he understood mechanics. "You need a clamp. Holly is a clamp."
+
+"Exactly," Ryan said. "Grab the amp in the corner, Ev. Don't drop it—it has glass vacuum tubes inside."
+
+Evan walked over, lifted the small tweed practice amplifier effortlessly, and set it down gently beside the guitar.
+
+"Can we plug it in?" Tyler asked, bouncing on the balls of his sneakers like a drummer waiting for a kit.
+
+"We have to test the circuit," Ryan said.
+
+Without asking Holly or Cassidy to move, Ryan reached over Holly’s shoulder, picked up the reassembled electric guitar, plugged the quarter-inch patch cable into the freshly soldered jack, and flipped the toggle switch.
+
+The red jewel pilot light glowed to life. A low, warm sixty-cycle hum filled the garage, and Ryan strummed an open **E-major** chord.
+
+It didn't buzz or crackle. It rang out clean, chiming, and bright off the concrete walls.
+
+"Whoa," Tyler whispered.
+
+"It sounds like the vacuum of space," Cassidy said, her ear three inches from the guitar body. "Only musical."
+
+Ryan rested his chin on top of Holly’s head and strummed the chord again, feeling the resonant vibration travel through the wood of the guitar, into his chest, and through his sisters.
+
+"Can I hit something?" Tyler asked, picking up a plastic-handled screwdriver.
+
+"Don't hit the guitar," Ryan said, pointing to an empty five-gallon paint bucket in the corner. "Hit the bucket."
+
+Tyler flipped the bucket upside down, tapped the plastic rim with the screwdriver handle—*Thud*—and stomped the concrete floor with his sneaker—*Stomp*.
+
+*Thud... Stomp. Thud... Stomp.*
+
+Evan picked up a steel ruler from the workbench and twanged the overhanging edge against the wood—*Boing*—providing a rhythmic bass note.
+
+Ryan closed his eyes, feeling the grounding warmth of his sisters and the steady pulse of his cousins, and began to strum in `4/4` time with Tyler’s stomping. For the first time in his life, it was a sound Ryan controlled—a frequency that held everyone he loved inside the same circuit.
+
+"We need a name," Holly said, turning the page of her comic book without flinching at the volume.
+
+"For the song?" Evan asked.
+
+"For the noise," Holly said.
+
+Ryan looked up at the black poster of *The Jupiter Horizon* on the wall, then down at his sisters and cousins in the sunlit garage.
+
+"Right now, let's just make it loud," Ryan grinned, turning the amplifier knob up to `10`. "Open the blast doors, Nexus. Hit it."
+
+## Chapter 2: The Analog Years & The Sonic Signature (1979–1985)
+
+### The Analog Years & The Sonic Signature (1979–1985)
+
+**Date:** 1979-02-12 at 05:45 America/New_York
+
+#### February 12, 1979 (`05:45 EST`) — Part 1: The Closed Circuit (`124 Draper Road`)
+
+The house on Draper Road breathed in shifts. With ten people and one bathroom under a single roof, oxygen and floor space were finite resources.
+
+In the back bedroom, the air was heavy with the smell of sleep and damp wool. It was a logistical puzzle of a room, a space designed for two but housing three. Against the north wall, ten-year-old **Holly O'Connell** slept in a twin bed squeezed so tightly into the corner that the drywall was polished smooth by her shoulders. Pushed against the south wall radiator for thermal efficiency sat the full-sized mattress.
+
+Fifteen-year-old **Ryan O'Connell** lay awake, his mind already operating like a blueprint. He stared at the water stain on the ceiling plaster, tracing the branching geometry of the roof leak and calculating how many more freeze-thaw cycles the lath could take before it sagged. Beside him, **Cassidy** shifted.
+
+Even in sleep, twelve-year-old Cassidy's body was a study in competing tensions. Her cerebral palsy meant her muscles didn't always obey the signals her brain sent down the line. In the dark, she made a soft, tight keening sound in her throat—searching for an anchor in the dark.
+
+Ryan didn't speak. He rolled onto his side, pressed his spine firmly against hers, and hooked his ankle over her calf. It wasn't just an embrace; it was calculated deep-pressure input. Within three breaths, Cassidy's chest rose and fell in lockstep with his. The keening stopped.
+
+This was the System.
+
+The bedroom door creaked open an inch. **Tyler Wright** stood in the hall. Even at twelve, he and his identical twin brother **Evan** were built like dense, kinetic blocks of granite that seemed to occupy twice the cubic footage of ordinary sixth-graders.
+
+"Bathroom's clear," Tyler whispered. "Two minutes before Dad gets up. Move."
+
+Ryan sat up. Leaving the warm cocoon of the quilt for the biting draft of the floorboards was a shock to the lungs; the aging Victorian rental near the edge of the **Commonwealth Polytechnic Institute (CPI)** campus leaked heat through every window sash.
+
+"Cass," Ryan whispered, tapping her shoulder three times in their set sequence: *Wake. Orient. Move.*
+
+Cassidy's eyes opened wide, taking in the dim gray light, the clank of the steam radiator, and the rough wool of the blanket. "Cold," she murmured.
+
+"I know," Ryan said, offering logistics instead of platitudes. "Wool socks first, then the floor. Holly, you're up."
+
+Holly was already sliding out from under her quilt with the quiet efficiency of a drill sergeant. In a ten-person house, if you missed your two-minute bathroom window, you washed at the kitchen sink.
+
+Out in the narrow hallway, they slipped past the adult bedrooms—Ryan, Cassidy, and Holly's parents, **Daniel and Sarah O'Connell**, in one room; Evan and Tyler's parents, **Uncle Jack and Aunt Martha Wright**, in the next—while **Nana Rose** slept in the converted downstairs sewing room so she wouldn't have to climb the stairs. Ryan guided Cassidy down the hall by her left elbow rather than her hand, acting as a steady counterweight to the pull in her left leg while his eyes automatically cataloged every curled rug edge along the floorboards.
+
+By `06:30 EST`, the kitchen was a haze of skillet smoke and instant coffee. Ryan's mother Sarah stood at the stove flipping eggs in cast iron, while **Aunt Martha** worked an assembly line across the counter: two slices of white bread, bologna, yellow mustard, brown paper sack. Repeat eight times.
+
+"Evan, quit shoving your brother," Uncle Jack said from the table without looking up from *The Valley Register*. "We roll in ten minutes. The Holt station wagon needs five minutes to warm the choke."
+
+Ryan guided Cassidy into her kitchen chair, felt the back left leg wobble against the linoleum, and pulled a folded square of cereal-box cardboard from his shirt pocket—he always carried shims—wedging it beneath the leg until the frame locked level.
+
+"Eat," Ryan said, sliding a plate of scrambled eggs in front of her.
+
+Cassidy stared at the plate. Her nose wrinkled slightly and her fingers curled inward against her palms. The wet, uneven texture was wrong for her today. Without a word, ten-year-old Holly reached across the oilcloth table, picked up Cassidy's plate of eggs, and swapped it with her own bowl of thick, predictable oatmeal. Cassidy's shoulders dropped half an inch, and she picked up her spoon.
+
+"Field trip today," Evan announced around a mouthful of toast. "Science museum down in Roanoke."
+
+"Did you get the permission slip signed?" Sarah asked from the stove.
+
+"Yeah. Costs two dollars."
+
+The kitchen went quiet except for the hiss of the skillet. Two dollars was a gallon of whole milk and a loaf of bread, or a new spark plug for the Holt wagon.
+
+"We've got it covered, Mom," Ryan said evenly.
+
+Sarah turned, her spatula pausing mid-air. "From where?"
+
+"Fixed Mrs. Gable's toaster element after school yesterday," Ryan lied smoothly. He hadn't fixed a toaster; he and Holly had spent two hours behind the CPI dormitory dumpsters fishing returnable glass soda bottles out of the snow and hauling them to the grocery counter for the nickel deposits.
+
+Uncle Jack lowered his newspaper an inch and gave Ryan a slow nod. "Good man."
+
+***
+
+#### February 12, 1979 (`16:00 EST`) — Holloway's Music & Pawn (`202 South Main Street`)
+
+The world outside `124 Draper Road` was not engineered for them. It was built for people who took concrete steps two at a time and didn't flinch when a transit bus vented its air brakes.
+
+By four o'clock that afternoon, wet Virginia snow was turning the downtown sidewalks into gray slush. Ryan, Evan, Tyler, and Holly stood outside the plate-glass window of **Holloway's Music & Pawn** at `202 South Main Street`, while Cassidy sat perched on the warm hood of the idling station wagon watching snowflakes melt against her knitted mittens.
+
+"Six-inch step," Ryan noted, eyeing the entrance. A chipped concrete lip led to a heavy aluminum door with an over-torqued hydraulic closer.
+
+"I've got the door," Evan said.
+
+"I've got the sidewalk block," Tyler added.
+
+Twelve-year-old Evan threw his shoulder against the heavy glass door and pinned it wide open, while Tyler planted his boots in the threshold like a human bollard to keep passing pedestrians from bumping his cousin.
+
+"Ready, Cass?" Ryan asked.
+
+She slid off the hood and took Ryan's rigid right forearm like a handrail while Holly paced half a step off her left hip as a spotter. Together, the five of them crossed into the shop.
+
+Inside, the air smelled of solder flux, valve oil, and dusty vacuum tubes. Mr. Holloway looked up from his ledger behind the counter, saw five kids in hand-me-down winter coats tracking slush onto his floorboards, and scowled.
+
+"Don't touch the guitars," Holloway barked. "And wipe your boots on the mat."
+
+"We're looking at keyboards," ten-year-old Holly replied, squaring her shoulders with the brisk authority of an auditor despite the fact that the five of them had exactly four dollars and twelve cents pooled in Ryan's coat pocket.
+
+Cassidy didn't even hear the shopkeeper. Her eyes were locked onto the low display shelf at the back of the aisle, where a battered **Vektron Z-1** analog synthesizer sat with a missing slider cap and its red power LED glowing like a beacon. A crate of fifty pounds of used vinyl records blocked the narrow aisle in front of it.
+
+Ryan glanced at his cousins and gave a single nod. Without asking permission, Evan and Tyler gripped the handles of the record crate, hoisted it clear off the floorboards, and set it two feet to the left.
+
+Cassidy stepped up to the low shelf. Her hands trembled slightly as she hovered her fingers above the black-and-white keys—and then she pressed down a full **C-major seventh** chord.
+
+Warm, shimmering analog sawtooth oscillator waves rolled out of the practice amp, filling the dusty pawn shop with a sound that sounded like deep space. Instantly, Cassidy's jaw unclenched. Her shoulders dropped two full inches, the spasticity draining out of her posture as the sustain held.
+
+"She's good," Ryan whispered.
+
+"She's better than good," Holly whispered back, her eyes narrowing at the **`$150.00`** price tag hanging from the pitch wheel. "We need a savings plan."
+
+"We're going to need a bigger bank," Ryan murmured, looking from the synthesizer to the slushy six-inch concrete step outside the front glass. "And one day, we're going to need a business of our own—and a coach with a hydraulic lift so nobody ever has to ask permission to get through the door."
+
+In the backseat of the station wagon on the drive home, as the heater core finally began to blow warm air, Cassidy hummed the C-major seventh progression under her breath. Ryan reached across the seat and took her hand. She squeezed his fingers three times.
+
+*Safe. Here. Us.*
+
+***
+
+#### December 12, 1985 (`01:15 EST`) — Part 2: The Sonic Signature (`Progress Street NE`)
+
+Six years later, finals week at **Commonwealth Polytechnic Institute** was a test of structural endurance.
+
+In August 1985, when eighteen-year-old **Cassidy**, eighteen-year-old twins **Evan and Tyler**, and sixteen-year-old early-admitted freshman **Holly** joined twenty-one-year-old **Ryan** at CPI, the university housing office had initially tried to assign the incoming freshmen to standard multi-story residence halls across campus. The family hadn't hesitated for a second.
+
+Evan and Tyler's mother, **Aunt Martha Wright**, owned a classic two-story wood-frame farmhouse with a full concrete basement on **Progress Street NE**, three blocks off the CPI campus boundary. That August, Aunt Martha had moved her own rocking chair and tea kettle into the upstairs front bedroom as their official **live-in landlord**, signing a formal **`$1.00-a-year` family lease** at the kitchen table. Because CPI's housing regulations exempted incoming freshmen who lived locally with an immediate adult relative, living with Aunt Martha on Progress Street NE meant sixteen-year-old Holly and eighteen-year-old Cassidy, Evan, and Tyler could bypass the freshman dormitories completely—keeping the five of them under one roof where the kitchen was quiet, the basement was theirs, and Aunt Martha kept a pot of chicken noodle soup on the stove during exams.
+
+At `01:15 AM` on December 12, 1985, while Aunt Martha slept upstairs with her foam earplugs in, the concrete basement of the **Progress Street NE** house was vibrating.
+
+They had been rehearsing for three straight hours after Ryan finished his Structural Engineering problem set, bleeding off the stress of finals week until the basement air smelled of warm amplifier tubes and damp concrete.
+
+"It's still too flat," Ryan said, muting his guitar strings with his palm and raking a hand through his hair. "The verse chugs fine, Ev, but when we hit the chorus, it just sits on the launchpad. It doesn't have liftoff."
+
+"The chord progression is solid," Evan said, resting his forearm across the body of his four-string bass. "A-major to E-major. It's wide open."
+
+"It's wide open, but it isn't accelerating," Ryan replied, turning toward the keyboard stand.
+
+Cassidy was slumped slightly over the battered **Vektron Z-1** they had finally bought out of Holloway's pawn shop window after pooling six months of lawn-mowing, bottle-deposit, and amplifier-repair money. Her left shoulder was tight from a long day of walking across the icy CPI campus, and she was resting her chin lightly on the top octave.
+
+"Cass?" Ryan asked gently.
+
+"I hear what's missing in my head, Ry," Cassidy murmured. "My left hand is just dragging a little tonight."
+
+"Then don't play a fast run," Ryan said, stepping over to her rig. "Play a signal. Listen to the vocal line: *'We're burning on the fuel of a brand new light.'* That's the pilot calling the tower. What's the ship's computer say back?"
+
+Cassidy lifted her chin and looked at the glowing red LED patches on the Vektron Z-1. "A confirmation code."
+
+"Exactly," Ryan said. "You're the pilot; the synth is the spacecraft. You declare the trajectory, and the ship answers *affirmative*."
+
+Cassidy reached up and flipped a metal toggle switch on the Vektron's front panel to **`Brass_Lead_04`**—a bright, punchy dual-oscillator analog brass patch that cut like a laser beam. She leaned into her vocal microphone, her voice clear and resonant despite the late hour:
+
+*"We're burning on the fuel of a brand new light..."*
+
+The instant the word *light* left her lips, her right hand snapped down onto the upper keys in a triumphant, four-note staccato fanfare:
+
+***Ba-da-DA-da!***
+
+Ryan froze in the middle of the basement floor.
+
+"Play that again," Ryan breathed.
+
+Cassidy sat up straight, the fatigue vanishing from her eyes as the discovery locked into place.
+
+*"Turning our future on, shining so bright!"*
+
+***Ba-da-DA-da!***
+
+The four-note brass hook punched straight through the middle of the room—bright, defiant, and unmistakably hers.
+
+"That's it!" Ryan grinned, swinging his guitar back into position. "Ty, give me four-on-the-floor on the kick drum. Don't overcomplicate the fills—just drive the hull forward. Ev, lock onto the root eighth notes!"
+
+Tyler stomped the kick pedal—*Thump. Thump. Thump. Thump.*—and the five of them launched into [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine) from the top.
+
+When the chorus hit the concrete walls of the Progress Street basement, the room pressurized:
+
+> *"We are the Stardust Engine!*  
+> *Racing through the night!*  
+> *We're burning on the fuel of a brand new light!"*  
+> *(**Ba-da-DA-da!**)*  
+> *"We are the Stardust Engine!*  
+> *Yeah, we're taking flight!*  
+> *Turning our future on, shining so bright!"*  
+> *(**Ba-da-DA-da!**)*
+
+Ryan was laughing out loud as he drove the rhythm chords, watching his sister command the room with four brass notes that turned a basement jam into a launch sequence.
+
+When the final E-major chord rang out and decayed into the hum of the basement dehumidifier, sixteen-year-old **Holly** stood up from the bottom step of the basement stairs, her accounting ledger clutched against her CPI sweatshirt.
+
+"Nobody touches a single note of that arrangement," Holly said, her voice ringing through the quiet basement. "That's the flagship. That's the name on the bass drum, and that's the name on the partnership papers."
+
+"**The Stardust Engine**," Ryan said, wiping the sweat from his forehead and reaching over to give Cassidy's shoulder a steady, grounding squeeze. "Systems nominal, Cass."
+
+Cassidy smiled up at him, her fingers still resting on the Vektron keys. "Systems nominal, Ry."
+
+## Chapter 3: 'Ignition,' The $1.00 Cross-License & The Apex Years (1986–1989)
+
+### 'Ignition,' The $1.00 Cross-License & The Apex Years (1986–1989)
+
+**Date:** 1986-11-14 at 19:30 America/New_York
+
+#### Spring – Autumn 1986 — *"Ignition"* at Kincaid Hall
+
+In the spring of **1986**, when the **Commonwealth Polytechnic Institute** Student Union posted flyers across the **Ironstone** arches of **Kincaid Hall** for the annual campus Battle of the Bands, Ryan, Cassidy, Evan, and Tyler decided to hold their namesake anthem—[**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine)—in reserve until they had a real twenty-four-track studio capable of doing Cassidy's synthesizer orchestration justice.
+
+Instead, they walked onto the **Kincaid Hall** ballroom stage with a blistering, high-voltage hard-rock opener they had built in Aunt Martha's basement called [**"Ignition"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-ignition).
+
+From the moment Tyler counted off the opening drum fill and Cassidy's bright analog brass locked onto Ryan's driving rhythm guitar, the four hundred CPI engineering and architecture students packed into Kincaid Commons went wild. The student radio station dubbed the four-track cassette off the mixing board, and within three weeks, *"Ignition"* was playing out of open dormitory windows all the way across **Commonwealth Green**.
+
+In October 1986, a regional college-radio promotion rep passed that four-track cassette to an A&R scout at **Apex Records** in Los Angeles. Two weeks later, a courier envelope with a Sunset Boulevard return address landed on the front porch of **Aunt Martha Wright's** farmhouse on **Progress Street NE**.
+
+***
+
+#### November 14, 1986 (`19:30 EST`) — The `$1.00` Kitchen-Table Cross-License
+
+The night before Apex Records' East Coast A&R representative flew into Roanoke to sign the band to a multi-album recording contract, seventeen-year-old **Holly O'Connell** cleared the dinner dishes off Aunt Martha's oak kitchen table on **Progress Street NE**, set down five silver dollars from her pocket, and laid out a four-page legal instrument she had drafted using reference volumes from the **Pendleton Library** stacks.
+
+Ryan picked up his copy and squinted at the heading: **`MUTUAL PARTNERSHIP & PERPETUAL INTELLECTUAL PROPERTY CROSS-LICENSE AGREEMENT`**.
+
+"What's this, Hols?" Ryan asked, tapping the page. "Apex's contract is sitting in the living room."
+
+"Apex's contract is sixty-two pages of California boilerplate written by lawyers who think five college kids from Montgomery County don't know what a controlled-composition clause is," Holly said, uncapping her fountain pen while Aunt Martha poured five mugs of hot chocolate at the stove. "If we sign Apex's paper tomorrow morning as individuals without a prior recorded Virginia partnership instrument in place, Apex can try to claim they own the trademark to **The Stardust Engine**, split us up, or hold our songs hostage if a session ever goes sideways."
+
+She pointed to **Paragraph 4** on page three.
+
+"We sign this tonight in front of a Montgomery County notary—five equal partners, one dollar of consideration each," Holly explained, her dark eyes steady. "It vests 100% of our band name, our logos, and our compositions in the five of us jointly and severally, and it states explicitly that any third-party recording license we grant tomorrow is strictly conditional upon the preservation of the five-member family unit and our mutual dignity. If any label ever commits a material breach or tries to force one of us to do something unlawful, their license to our name and our catalog terminates automatically."
+
+Evan looked at his twin brother and grinned. "Remind me never to get on the wrong side of your little sister, Ry."
+
+"Sign on the line, Ev," Ryan said, exchanging a proud look with Cassidy before picking up the pen. "And pass the silver dollar."
+
+***
+
+#### 1987–1989 — *Electric Color*, *Neon Hearts*, and Coming Home to Progress Street
+
+When their debut album, [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color), hit record stores in the summer of **1987**—opening with [**"Ignition"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-01-ignition) as Track 1 and closing with their beloved anthem [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine) as Track 13—followed two years later by 1989's [***Neon Hearts***](https://music.raggiesoft.com/artists/the-stardust-engine/1989-neon-hearts), the band discovered two things very quickly about major-label fame.
+
+First, they loved playing for live crowds, building bigger analog synthesizer rigs, and watching arena audiences sing back the lyrics they had written in a Blacksburg basement.
+
+Second, they **hated** the Los Angeles music machine.
+
+Without asking the band, Apex Records' marketing department took the band's name—which Ryan, Cassidy, Evan, and Tyler had chosen to celebrate their genuine love of the cosmos (*"Stardust"*) and the rocket propulsion systems that carry humanity there (*"Engine"*)—and turned it into a cheap 1980s magazine gimmick, plastering posters with Cassidy billed as *"Stardust"* and Ryan billed as *"The Engine."* Every time a press agent used the nicknames, Ryan's jaw tightened and Cassidy rolled her eyes behind her keyboard stack.
+
+Worse still, Apex's executives kept asking when the band was going to move permanently to Hollywood and start going to Sunset Strip industry parties.
+
+The answer was always the same: **never**.
+
+The moment a tour leg or a studio mixing block wrapped, Ryan, Cassidy, Holly, Evan, and Tyler caught the first flight back to Virginia, drove straight up Route 460 into the New River Valley, and carried their duffle bags back through the front door of **Aunt Martha's** farmhouse on **Progress Street NE**—where they were just five CPI students who shoveled their aunt's front walk when it snowed, drank hot chocolate with milk at the kitchen table, and slept under their own roof.
 
 # Book 2: Live in Chicago & Mile Marker 98 (1990)
 
@@ -104,89 +516,287 @@ At `08:00 AM` on his fourth day in the step-down ward, **Cassidy**, twenty-year-
 
 Beside the bed, Evan and Tyler held up the carpenter's tape measure.
 
-"We already measured every doorway in the Progress Street house," Evan said, his voice steady and matter-of-fact. "Thirty-six inches clear from the front porch through the kitchen, the hallway, and the bathroom. Ty and I spent all day yesterday building a twelve-foot pressure-treated timber wheelchair ramp over the front steps on Progress Street at a 1:12 grade, and we lowered your workbench and amp heads in the garage so every knob sits at forty-two inches off the floor."
+"We already measured every doorway in Aunt Martha's house on Progress Street NE," Evan said, his voice steady and matter-of-fact. "Thirty-six inches clear from the front porch through the kitchen, the hallway, and the first-floor bathroom. Aunt Martha already cleared out the downstairs front room for you and Cass so you don't have to touch the stairs, Ty and I spent all day yesterday building a twelve-foot pressure-treated timber wheelchair ramp over the front porch steps at a 1:12 grade, and we lowered your workbench and amp heads in the garage so every knob sits at forty-two inches off the floor."
 
 "And as soon as you're cleared for outpatient rehab," Tyler added, tapping a commercial driver's manual tucked under his arm, "Evan, Holly, and I are all testing for our **Class A Commercial Driver's Licenses** with Passenger and Airbrake endorsements. Never again does an outside charter driver hired by a record label sit behind the wheel of a vehicle carrying our family."
 
-When Ryan was discharged from Star City General in his first ultralight manual wheelchair that spring and rolled up the wooden ramp onto the porch on **Progress Street** in Blacksburg, he learned everything from the ground up: fifteen-minute weight-shift pressure reliefs, transferring from his chair to the studio bench, and reverse-climbing steep curb cuts so his front casters wouldn't catch.
+When Ryan was discharged from Star City General in his first ultralight manual wheelchair that spring and rolled up the wooden ramp onto the porch of **Aunt Martha's** farmhouse on **Progress Street NE** in Blacksburg, he learned everything from the ground up: fifteen-minute weight-shift pressure reliefs, transferring from his chair to the studio bench, and reverse-climbing steep curb cuts so his front casters wouldn't catch. Every time they encountered a building in town without a ramp, Evan and Tyler locked hands beneath Ryan's frame—his "Human Ramp"—and whenever the dark nights after the crash made his chest tighten, Cassidy was right there beside him on the first floor as his human guardrail.
 
 In Blacksburg, surrounded by his sisters, his cousins, and Montgomery County neighbors who treated him like the exact same CPI kid who had lived on the block since 1985, Ryan healed.
 
 Twelve hundred miles to the west, however, **Apex Records** was waiting for the third album owed under their contract—and the executives in Los Angeles had no intention of letting the band stay in Virginia.
 
-# Book 3: The Friction Catastrophe & The Warehouse Tapes (1992–1995)
+# Book 3: The Friction Narrative & The Warehouse Tapes (1992–1995)
 
-## Chapter 1: The Cage & The Warehouse Tapes (1992–1995)
+## Chapter 1: The Beverly Hills Mansion & The Hostage Photo (September 1992)
 
-### The Beverly Hills Mansion Trap, The Friction Catastrophe & The Warehouse Tapes (1992–1995)
+### The Beverly Hills Mansion & The Hostage Photo (September 1992)
 
-**Date:** 1992-10-14 at 08:15 America/Los_Angeles
+**Date:** 1992-09-18 at 08:30 America/Los_Angeles
 
-#### September – October 1992 — The Recoupable Golden Cage in Beverly Hills
+#### September 1992 — Why Can't We Just Stay Home with Aunt Martha?
 
-If anyone watching MTV in the autumn of **1992** had driven past the tall wrought-iron security gates off Coldwater Canyon in **Beverly Hills, California**, they would have assumed **The Stardust Engine** was living the ultimate rock-and-roll fantasy.
+Sitting at the bottom of twenty slick travertine marble steps inside a gated Mediterranean villa off Coldwater Canyon in **Beverly Hills, California**, twenty-eight-year-old **Ryan O'Connell** gripped the push-rims of his manual wheelchair and asked the exact same question all five of them had been asking for three straight weeks.
 
-To force the band out of Blacksburg to record and promote their third studio album, ***Friction***, **Apex Records** had leased a sprawling, gated Mediterranean villa in the Beverly Hills hills—and every single member of the O'Connell and Wright family **despised** it with every fiber of their being.
+"Explain to me again why we have to be in this house," Ryan said, staring up at the sweeping spiral staircase that cut him off from every single bedroom on the second floor. "Our house on **Progress Street NE** suits us just fine. We have the wooden ramp Evan and Ty built on the front porch. We have the basement studio. We're happy living with **Aunt Martha**. Why on earth did Apex drag us out to a rented mansion in Beverly Hills?"
 
-First, there was the financial fraud disguised as luxury. As twenty-two-year-old **Holly O'Connell** pointed out the moment she audited Apex's monthly accounting statement at the dining room table, the label wasn't paying for the mansion out of generosity. Under standard major-label accounting, 100% of the **`$25,000-a-month` Beverly Hills lease**, the security gate guards, and the daily catering trays were being charged directly back to the band as a **recoupable advance expense**—designed to trap the five of them in perpetual unrecouped debt to Apex while keeping them isolated two thousand miles away from their Virginia support system.
+At the far end of the echoing marble dining table, twenty-three-year-old **Holly O'Connell**—a Second-Year (`2L`) law student who had taken a one-week leave from her fall classes in Virginia to audit the session—tapped her pen against Apex Records' monthly accounting ledger.
 
-Second—and far worse—was the physical reality of the house itself.
+"Because Aunt Martha charges us one dollar a year and bakes us cornbread, Ry," Holly said grimly. "Whereas Apex Records is charging **`$25,000 a month`** for this Beverly Hills lease—plus the gate guards, the pool service, and the catering—directly back against our recoupable artist royalties. Every week they keep us out here in California is another twenty-five thousand dollars of artificial debt they can hold over our heads."
 
-The newly hired Apex executive overseeing the project, **Julian Vance**, hadn't even bothered to read the medical file from Ryan's December 1990 highway crash at Mile Marker 98 before ordering the travel department to lease the Beverly Hills compound. The gated mansion was a monument to hostile, inaccessible excess:
-* **Twenty slick travertine marble steps** curved up from the circular cobblestone driveway to the heavy carved front doors, with **zero wheelchair ramps** anywhere on the property.
-* Inside, the ground floor was broken up by sunken conversation pits bordered by sharp brass steps, narrow antique doorways that scraped the push-rims of Ryan's manual wheelchair, and a sweeping spiral staircase leading to all five upstairs bedrooms.
-* Every single morning and evening for six straight weeks, **Evan** and **Tyler Wright** had to grip the frame of Ryan's manual wheelchair and haul their cousin up and down the twenty marble steps by hand while Ryan held onto the side rails, his jaw clenched against the indignity of a house that treated his chair like an intrusion.
-* Refusing to sleep upstairs while Ryan was stranded on the first floor, **Cassidy, Holly, Evan, and Tyler** dragged the mattresses down the spiral staircase on their very first night in California and camped together on the floor of the formal dining room beside Ryan's chair.
+Every member of the family despised the Beverly Hills mansion.
 
-Outside the wrought-iron gates, the air tasted like hot asphalt and eight lanes of 405 Freeway exhaust. Whenever they tried to roll down to a corner market for groceries, tabloid photographers jumped out from behind the manicured hedges shoving flashbulbs in their faces, and every label executive who stopped by the house spoke in fake, syrupy industry platitudes.
+First, the newly assigned Apex executive overseeing their third studio album, **Julian Vance**, hadn't bothered to check whether the property was wheelchair-accessible before ordering the travel department to lease it. Twenty marble steps separated the cobblestone driveway from the heavy carved front doors, with **zero wheelchair ramps** anywhere on the grounds. Inside, the ground floor was broken up by sunken conversation pits rimmed with sharp brass steps and narrow antique doorways that scraped Ryan's knuckles.
 
-Sitting on the cold marble terrace on the evening of **October 13, 1992**, looking out over the smoggy orange haze of the Los Angeles basin while Cassidy practiced the melancholy chord progression of [**"Atmosphere"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-09-atmosphere) on a portable keyboard inside, Ryan rested his chin on his hand and felt a homesickness so sharp it ached in his chest.
+Refusing to sleep upstairs in the luxury suites while Ryan was stranded on the ground level, **Cassidy, Holly, Evan, and Tyler** had dragged five mattresses down the spiral staircase on their very first night in Beverly Hills and camped together on the floor of the formal dining room beside Ryan's chair. Every morning and evening, **Evan** and **Tyler** locked their forearms beneath Ryan's frame and carried their cousin up and down the twenty front steps by hand.
 
-"I hate this place, Cass," Ryan said quietly when his sister stepped out onto the terrace with two mugs of hot tea. "The marble echoes every time my tires turn. You can't see a single star through the smog. It's not the Blue Ridge. It's not **Progress Street**. It's not home."
+Second, Julian Vance had spent the entire month obsessed with a woman none of them had ever met: pop megastar **Cydele**.
 
-"One more day, Ry," Cassidy promised softly, leaning down to rest her cheek against the top of his head. "Tomorrow morning is the album cover photo shoot at the downtown warehouse. As soon as it's over, we pack our bags, we hand the keys to the gate guard, and we go home to Blacksburg."
+Earlier that autumn, Cydele had dominated every television network and tabloid rack in America with her explicit, boundary-pushing 1992 shock-value album ***Sanctuary*** and its accompanying coffee-table photography book. Back at Apex Towers, Julian Vance had looked at the runaway sales numbers for Cydele's *Sanctuary*, looked at The Stardust Engine's upcoming third album—which Ryan and Cassidy had titled ***Friction*** as a hard science-fiction concept piece about the atmospheric re-entry of a spacecraft hull—and decided he wanted a piece of Cydele's shock-value pie.
 
 ***
 
-#### October 14, 1992 (`09:30 AM`) — The *Friction* Catastrophe (`"SHE'S MY SISTER!"`)
+#### September 18, 1992 (`13:30 PST`) — Part 1: Cartoons in the Cold Warehouse
 
-At `09:30 AM` the next morning, shivering inside an unheated Los Angeles warehouse studio while a rolling television cart played cartoons in the corner to pass the time, the five of them waited for **Julian Vance** to arrive.
+The downtown Los Angeles warehouse was freezing.
 
-When Vance had first pitched the album title ***Friction*** over the telephone in August, Ryan and Cassidy had believed Apex was finally letting them make a hard science-fiction concept record about the thermal atmospheric re-entry of a spacecraft hull. Cassidy had even hand-painted a concept cover showing a shuttle wreathed in plasma fire re-entering Earth's atmosphere.
+It wasn't an "artistic" cold; it was a damp, miserable, concrete-and-steel cold. Autumn rain hammered against the corrugated metal roof overhead, a deafening drumline that drowned out the traffic from the Los Angeles street outside.
 
-They had no idea that Vance—desperate to compete with the explicit shock-value pop campaigns dominating the 1992 charts—had looked at a 1989 *Neon Hearts* promotional photo of Ryan and Cassidy, assumed the two attractive co-leads were a romantic couple rather than brother and sister, and hadn't even known Ryan was paralyzed.
+For the first two hours after they arrived at noon, while the lighting crew argued over power cables across the cavernous room, Ryan, Cassidy, Evan, Tyler, and Holly had huddled together on packing blankets in the green room corner around a rolling twenty-inch television cart with a built-in VCR. Someone from a previous commercial shoot had left a VHS cassette of ***Toon Brigade Against Trouble***—the Saturday-morning crossover special where half a dozen cartoon mascots teamed up to lecture kids about saying no to drugs—sitting on top of the television.
 
-When Julian Vance strode onto the warehouse floor at `10:15 AM`, took one disgusted look at Ryan's manual wheelchair, and tossed Cassidy's spacecraft painting onto a folding table as *"childish,"* the temperature in the room dropped twenty degrees.
+None of the five of them paid the slightest bit of attention to the special's preachy *"Just Say No"* lecture; their fuel had always been hot chocolate made with whole milk, and the idea of touching street drugs was as foreign to them as jumping out of an airplane without a parachute. They simply crowded around the glowing CRT screen grinning like kids in their Draper Road living room because it was a rare chance to see all of their favorite Saturday-morning cartoon characters sharing the same screen while they waited for the photo shoot to start.
 
-Refusing to abandon his fabricated shock campaign, Vance turned to commercial photographer **Kevin Mitchell**, crossed out the word *SIMULATED* on the storyboard sheet, and ordered Ryan and Cassidy to set up for **"Shot 12"**—demanding that the two of them perform an explicit, sexualized pose together on the studio floor.
+Then the assistant director called them onto the concrete floor, and the warmth vanished.
 
-For two seconds, the silence in the warehouse was absolute.
+Ryan sat in his manual wheelchair under a single, buzzing halogen floodlight, his breath pluming white in the damp air. Wardrobe had forced him into a stiff, brand-new black leather jacket that smelled of chemical dye. It felt cheap and wrong, like a Halloween costume. He hated it.
 
-Cassidy went dead white, her hands trembling so violently she nearly dropped her folder of sheet music.
+"Engine! More grit!" **Julian Vance** shouted from behind the camera tripod. "Give me primal! Prowl! Yes!"
 
-Inside Ryan's chest, five years of Apex's corporate manipulation, six weeks of being trapped in a wheelchair-hostile Beverly Hills mansion, and the sheer revulsion of what Vance had just demanded of his little sister detonated all at once. Gripping his push-rims with white knuckles, Ryan roared across the concrete warehouse floor at the top of his lungs—a sound so raw and terrifying that photographer Kevin Mitchell dropped his primary camera lens onto the concrete, shattering the glass into a hundred pieces:
+Ryan rolled forward and planted his palms on the prop piano—a gutted wooden shell painted flat black—trying not to crack the dummy keys under his fingers. His jaw ached from clenching his teeth every time Julian yelled *"Engine."* Taking the name of their 1986 song about rockets and turning it into a lazy corporate nickname made his skin crawl.
 
-***"SHE'S MY SISTER!"***
+Across the concrete floor, twenty-five-year-old **Cassidy** was shivering violently in a thin black silk slip dress wardrobe had handed her ten minutes earlier. At five-foot-nine, she was what Julian kept calling his *"model-ready asset."* She was also a classically trained synthesist with cerebral palsy whose muscle tone seized up in damp cold, and she looked utterly miserable. Every time Julian called her *"Stardust,"* she stared fixed at the floor.
 
-Mitchell grabbed his camera bag, left his lighting umbrellas standing on the floor, and fled straight to his car—waiting down the block only long enough to make sure the family got out safely before driving to the Hollywood Police Precinct to give a sworn statement to detectives.
+Twenty feet away, **Evan** and **Tyler** sat side by side on a steel road case like two coiled springs, their eyes tracking every move Julian made.
 
-Inside the warehouse, twenty-two-year-old **Holly O'Connell** didn't yell. She snapped open her leather briefcase, pulled out a certified copy of the **November 1986 `$1.00` Perpetual Mutual Cross-License**, and slapped it into Julian Vance's chest.
+In the shadows near the loading bay door, twenty-three-year-old **Holly** stood with a legal pad braced against her forearm. To Julian Vance, five-foot-four Holly in her sensible cardigan and flat shoes was the plain, unmarketable *"girl next door"*—an annoying family appendage he ignored completely. He had no idea he was looking at a woman who had just finished at the top of her class in Contracts I and Criminal Law. She was watching the steel stopwatch clipped to her legal pad. Every minute past `4:00 PM` was union and contractual overtime.
 
-"Under Paragraph 4 of our prior recorded 1986 Virginia partnership cross-license," Holly said, her voice colder than January ice on the New River, "Apex Records' material breach and unlawful coercion immediately terminates your license to the name **The Stardust Engine** and every composition we have ever written. This session is over. This album is dead. And by five o'clock tomorrow afternoon, the Superior Court of California will have a temporary restraining order sealing every reel of tape in this building."
+"Alright, that's a wrap on the solo portraits!" **Kevin Mitchell**, the nervous freelance photographer hired for the day—a soft-spoken father of two whose regular job was shooting children's toy spreads and family apparel for the ***Summit Wishbook*** holiday catalog—called out from behind his medium-format camera. "Let's... let's take five. We're setting up the lighting umbrellas for the duo series next."
 
 ***
 
-#### October 15, 1992 – 1995 — Returning Home to Progress Street & *The Warehouse Tapes*
+#### September 18, 1992 (`16:05 PST`) — Part 2: The "Dirty Mirror"
 
-They didn't spend one more night in the Beverly Hills mansion.
+The four musicians huddled together instantly between the road cases, forming a tight human windbreak the way they had on freezing Blacksburg bus stops since 1978. Cassidy pressed her forehead into Ryan's shoulder, her teeth chattering, and Ryan wrapped both arms around her back, rubbing her upper arms briskly through his leather sleeves to chafe warmth back into her muscles. Holly stepped into the circle and unscrewed the red plastic cup from the top of the stainless-steel thermos in her legal bag, filling the corner with the rich steam of hot cocoa made with whole milk on the Beverly Hills stove that morning.
 
-Within two hours of rolling out of the downtown Los Angeles warehouse, Ryan, Cassidy, Holly, Evan, and Tyler drove back up Coldwater Canyon, packed their suitcases and instruments out of the ground-floor dining room, left the mansion keys on the marble foyer table, and headed straight east toward Interstate 40 and Interstate 81—not stopping until the green highway sign for **Blacksburg / Christiansburg** rose against the autumn ridges of the Blue Ridge Mountains and they rolled up the wooden ramp of **Aunt Clara's** farmhouse on **Progress Street NE**.
+A young production assistant scurried across the concrete floor carrying a silver catering tray.
 
-When photographer Kevin Mitchell's sworn deposition (*Evidence #94-C*) forced Apex Records into a total courtroom surrender—voiding the recording contract, surrendering 100% of the band's master tapes, and paying punitive settlement damages just to keep Mitchell off the witness stand—the family didn't look at real estate in Los Angeles, New York, or Nashville.
+"Mr. Vance wanted to make sure you were... comfortable before the next setup," the PA murmured, staring at his sneakers so he wouldn't have to meet their eyes.
 
-Instead, Holly used their settlement check to found **Engine Room Records, LLC** right there in Blacksburg (before purchasing the Progress Street property outright from Aunt Clara in 1996 to gut-renovate the farmhouse with a three-stop hydraulic elevator and custom wraparound porch ramp).
+On the silver tray sat an unopened bottle of champagne, four glass flutes, and an ornate vintage pocket mirror covered in four neat lines of fine white powder beside a tightly rolled hundred-dollar bill.
 
-While the major-label industry blacklisted them across commercial radio from 1993 to 1995, the five of them rented an industrial cinder-block warehouse on the edge of town for full-stage rehearsals and dubbed thousands of underground cassettes by hand—**The Warehouse Tapes**—passing them from dorm room to dorm room across CPI until every student in Blacksburg knew that **The Stardust Engine** had come home for good.
+Ryan, Cassidy, Evan, Tyler, and Holly stared down at the silver tray in baffled silence.
+
+Ryan frowned. When Ryan's brain was cold, tired, and overloaded by buzzing floodlights, it defaulted to literal, mechanical problem-solving. He looked at the pocket mirror, and all he registered was an optical surface that hadn't been wiped down before leaving the prop closet.
+
+"What is this?" Ryan asked, pointing a calloused guitar finger at the pocket mirror. "It's filthy."
+
+"Sir... the... this is for—" the PA stammered.
+
+"It's covered in plaster dust," Ryan said, his voice flat with impatience. His sister was freezing, it was past four o'clock, and the label was wasting time with dirty props. He reached out and picked up a clean white cocktail napkin from the corner of the tray.
+
+"Ryan, don't—" Holly started, her eyes widening as she recognized what was on the glass, but Ryan's hand was already moving.
+
+With a single, fastidious sweep of the cocktail napkin, Ryan wiped the pocket mirror completely clean, sweeping all five hundred dollars of Julian Vance's high-grade Peruvian cocaine into the paper square, crumpled it into a neat ball, and tossed it straight into the plastic trash barrel beside the road case—right on top of the wet coffee grounds and used paper towels.
+
+The production assistant let out a tiny, strangled squeak.
+
+"There," Ryan said, setting the gleaming pocket mirror back on the tray. "It's clean. Now can we please get some space heaters over here? My sister is freezing."
+
+***
+
+#### September 18, 1992 (`16:17 PST`) — Part 3: The System Crash (`"SHE'S! MY! SISTER!"`)
+
+Thirty seconds later, **Julian Vance** stood over the plastic trash barrel, staring down into the wet coffee grounds.
+
+Ryan looked up at the executive. Neither he nor Cassidy nor the twins were glaring at Julian in rock-and-roll defiance; they were looking at the trembling, red-faced man in his expensive Italian suit with genuine, bewildered concern. Holding the red plastic cup from Holly's thermos in both hands, Ryan wheeled half a turn forward and held the steaming mug out toward him.
+
+"You look cold, Mr. Vance," Ryan said earnestly. "Here. Holly brought hot chocolate."
+
+Something behind Julian Vance's eyes snapped.
+
+His face turned a dangerous, mottled purple. With a wild backhand swing, Julian slapped the plastic cup out of Ryan's hand. Dark brown cocoa splashed across the gray concrete floor and spattered across the front caster fender of Ryan's wheelchair, steaming in the damp warehouse air.
+
+"Get the hell on set," Julian hissed, his voice shaking. "Now."
+
+Julian spun on his heel and stalked toward the camera tripod. "Give me the shot list."
+
+Photographer **Kevin Mitchell** flinched, clutching his aluminum clipboard against his chest. "Mr. Vance, we haven't even discussed the framing for the—"
+
+"I said give it to me!"
+
+Julian ripped the aluminum clipboard out of Kevin's hands, yanked the cap off a thick black permanent marker—letting the plastic cap clatter across the concrete—and flipped to the back page of the storyboard.
+
+It was **Shot 12**—the centerpiece concept Julian had secretly drafted to out-shock **Cydele's *Sanctuary***:
+
+> `SHOT 12: CASSIDY / RYAN. "THE LOVERS." ACTION: FULL SIMULATED INTERCOURSE (RYAN ON TOP). NOTE: ATMOSPHERIC. HEAT. TENSION.`
+
+With a violent, screeching squeak of felt against paper that echoed off the corrugated steel roof, Julian drove the broad black chisel tip of the marker through the word **`SIMULATED`**, scrubbing it back and forth so hard the paper tore under the nib.
+
+He marched back across the concrete floor and stopped directly in front of Ryan's wheelchair.
+
+Ryan was leaning down with a clean napkin, wiping a splash of spilled hot chocolate off his right wheel fender. When he looked up, he saw Julian's eyes track slowly down over his paralyzed legs, over the aluminum push-rims, and across the frame of the chair. Julian's upper lip curled into a cold, predatory sneer of pure disgust.
+
+Julian shoved the aluminum clipboard hard into Ryan's chest.
+
+"We're skipping the warm-up," Julian said, his voice dropping to a low, venomous rasp. "You want to act like children drinking cocoa and watching cartoons? Fine. Now you're going to act like adults. Read the direction. Do it on the floor right now—or I put all five of you in default for two million dollars in unrecouped studio debt before you even reach the airport."
+
+Ryan looked down at the clipboard resting against his leather jacket.
+
+He blinked at the torn black ink smudge, then read the remaining typed words:
+
+> `SHOT 12: CASSIDY / RYAN. THE LOVERS. FULL [█████████] INTERCOURSE.`
+
+For three seconds, Ryan's brain stalled completely. He stared at the letters, his engineering mind frantically searching for a technical definition that made sense. *Intercourse? Like social discourse? Like two spacecraft docking in orbit?*
+
+Then Ryan looked up into Julian Vance's eyes. He saw the sneer. He glanced across the concrete floor at Cassidy, who was standing under the buzzing floodlight in her thin black slip dress, hugging her shivering arms around her ribs, completely unaware of what was written on the page.
+
+The realization hit Ryan with the physical violence of the tractor-trailer on Interstate 81.
+
+It wasn't a metaphor.
+
+Ryan's right hand began to shake so hard the aluminum clip rattled against the steel armrest of his wheelchair. Twenty-five hundred miles from the Blue Ridge Mountains, the family fortress they had built since `124 Draper Road` was under direct, vile assault.
+
+Ryan looked up at Julian Vance, his pupils blown wide with adrenaline, and a roar tore straight up from the bottom of his lungs—a raw, guttural sound of biological revulsion that echoed off the steel rafters like a shotgun blast:
+
+***"SHE'S! MY! SISTER!"***
+
+Behind the tripod, photographer **Kevin Mitchell** went dead white and immediately clapped the black plastic lens cap over his camera lens.
+
+By the loading bay door, **Holly O'Connell** clicked her ballpoint pen shut.
+
+Ryan heard the sharp metallic click in the stunned silence. He saw Holly glance down at the stopwatch clipped to her legal pad—**`4:17 PM`**—look once at Ryan's shaking hands, look once at Cassidy frozen in horror under the light, and then lock her eyes onto the clipboard in Ryan's lap.
+
+Holly didn't scream, and she didn't run. She picked up her leather legal bag and walked across the concrete floor—the steady, rhythmic click of her low heels cutting through the dead quiet of the warehouse as she stepped straight between Julian Vance and her brother's wheelchair, reached down, and took the marked-up clipboard sheet out of Ryan's hands as **Exhibit A**.
+
+## Chapter 2: The Subpoena, The Felony Trial & The Wilderness (1992–1995)
+
+### The Subpoena, The Felony Trial & The Wilderness (1992–1995)
+
+**Date:** 1992-09-19 at 09:00 America/Los_Angeles
+
+#### September 19, 1992 (`09:00 PST`) — Part 1: The War Room (`David Gideon's Office`)
+
+At nine o'clock the next morning, Ryan sat beside Cassidy, Evan, and Tyler in the Century City conference room of California entertainment attorney **David Gideon**, wrapping his cold fingers around a paper cup of vending-machine hot chocolate while twenty-three-year-old **Holly** sat at the head of the glass table.
+
+None of them had slept more than two hours. The night before, immediately after rolling out of the downtown warehouse, they had driven back up Coldwater Canyon to the rented Beverly Hills mansion, packed every suitcase and guitar case out of the ground-floor dining room, stacked the house keys on the marble foyer table, and checked into two ground-floor rooms at a roadside motel near the airport so Ryan wouldn't have to look at those twenty marble steps for one more hour.
+
+David Gideon was pacing the length of the carpet, holding the original torn storyboard sheet Holly had taken from the warehouse clip in a clear plastic sleeve.
+
+"It's a tactical nuclear weapon, Holly," Gideon said, his voice electric. "Combined with Paragraph 4 of your 1986 Virginia partnership cross-license, this is a one-phone-call execution. Apex CEO Marcus Thorne will have no choice but to sign over 100% of your master tapes for *Electric Color* and *Neon Hearts*, void every penny of the two-million-dollar recoupable debt, including that ridiculous Beverly Hills mansion lease, and release you unconditionally just to keep this sheet of paper out of the newspapers. It's a clean, private, surgical kill. I'm calling Thorne's office right now."
+
+Gideon reached for his desk speakerphone. Before his hand touched the receiver, the console rang.
+
+"David Gideon," he answered briskly.
+
+Ryan watched the entertainment lawyer's face. Within five seconds, every trace of courtroom swagger drained out of Gideon's expression, replaced by pale, slack-jawed shock.
+
+"I... yes," Gideon said slowly into the receiver. "Yes, I represent the O'Connell and Wright family. Wait—a detective? At three-seventeen this morning?"
+
+Gideon set the handset back on the cradle and looked across the glass table at Holly and Ryan.
+
+"That," Gideon said quietly, "was not Marcus Thorne."
+
+"Who was it, David?" Holly asked, her spine stiffening.
+
+"That was the Los Angeles County District Attorney's Office—Sex Crimes Division," Gideon said. "Someone else went to the police before the sun came up, Holly."
+
+Ryan felt Cassidy's hand tighten around his forearm.
+
+"The freelance photographer from yesterday's shoot—**Kevin Mitchell**, the man who shoots the children's Christmas spreads for the *Summit Wishbook*," Gideon explained, reading from the notepad where he had jotted the prosecutor's message. "He didn't go home last night. He couldn't live with what he watched Julian Vance try to do to a brother and sister. At **`3:17 AM`**, he walked into the LAPD's Hollywood Precinct shaking so badly he could barely hold his camera bag. He handed the desk sergeant his driver's license, his *Summit Wishbook* business card, and a photocopy he'd made of the Shot 12 storyboard with the word `SIMULATED` scratched out in black marker."
+
+A heavy silence fell over the conference room.
+
+"We did close the civil exit with Marcus Thorne's general counsel twenty minutes ago by fax—Apex has already voided the two-million-dollar debt and signed over your master tapes in terror," Gideon said grimly. "But the quiet, private exit is gone, Holly. This isn't a civil contract dispute anymore. They've frozen Julian's assets, they're convening a Grand Jury, and a detective is on his way to this office right now. You aren't just contract litigants anymore. You're the subpoenaed complaining witnesses in a public felony prosecution."
+
+That evening, after giving their initial sworn statements to the LAPD detectives, the five of them boarded a red-eye flight east out of Los Angeles, drove up Interstate 81 into the autumn mist of the Blue Ridge Mountains, and rolled Ryan's wheelchair up the wooden ramp onto the front porch of **Aunt Martha Wright's** farmhouse on **Progress Street NE**—where Aunt Martha was waiting at the door with a quilt for Cassidy and a fresh pot of cocoa on the stove.
+
+***
+
+#### Spring 1994 — Part 2: The Press Coverage & "The Second Violation" (`People v. Julian`)
+
+For eighteen months between the autumn of 1992 and the spring of **1994**, Holly fought with everything she had to keep her brother and sister out of the tabloid meat grinder. It was the one battle even **"The Shark"** couldn't win.
+
+When the criminal trial of ***People v. Julian*** opened at the Clara Shortridge Foltz Criminal Justice Center in downtown Los Angeles in **1994**, the mainstream record industry—terrified of being painted with the same brush—leaked every detail to the reporters to cast Julian Vance as a lone, rogue monster.
+
+Sitting in their motel room in Los Angeles the morning before they were scheduled to take the witness stand, Ryan looked down at the two newspapers Evan had picked up from the lobby newsstand—the mainstream broadsheet on the left, and the screaming supermarket tabloid on the right:
+
+> **`LOS ANGELES TIMES`**  
+> **'INCEST ALBUM COVER' AT CENTER OF APEX EXEC'S TRIAL**  
+> *LOS ANGELES — A former Apex Records executive is on trial for felony solicitation in a case that prosecutors are calling a "vindictive" and "predatory" act of artistic coercion gone criminal. At the center of the prosecution's case is "People's Exhibit A," a storyboard sheet for an unreleased 1992 album, Friction, by the Virginia-based band The Stardust Engine. Prosecutors allege that after frontman Ryan O'Connell, 28, innocently wiped a pocket mirror clean of what he believed was "dust" and offered the executive hot chocolate from a thermos, a humiliated Julian angrily crossed out the word "simulated" on a shot list calling for an explicit pose between the band's two lead singers—who, prosecutors repeatedly stressed to the jury, are brother and sister...*
+
+> **`NATIONAL INVESTIGATOR — "WORLD EXCLUSIVE" (CIRCA 1994)`**  
+> **'HE ORDERED US TO COMMIT INCEST!'**  
+> **INSIDE THE SICK 'ALBUM COVER' PLOT THAT TOOK DOWN L.A.'S MOST HATED EXEC!**  
+> **'CLEAN' ROCK FAMILY (THEY DRINK HOT CHOCOLATE!) REFUSED 'COCAINE-FUELED' PREDATOR'S 'SICK FANTASY'!**  
+> *In bombshell testimony this week, star witness Kevin Mitchell broke down on the stand: "I shoot the Summit Wishbook! I shoot children on Santa's lap! I was horrified! He lied to all of us!" Meanwhile, the defense's claim that the executive "didn't know they were siblings" was blasted by prosecutors, who confirmed through manager Holly O'Connell that the executive had dined with the band's parents at their Virginia home...*
+
+Ryan folded the newspapers shut and pushed them into the wastebasket so Cassidy wouldn't have to look at the headlines.
+
+Even though every newspaper and tabloid in America was taking the band's side against Julian, the criminal trial itself felt like a **second violation**.
+
+Under subpoena, their private family life in Blacksburg was dragged onto the public record. From the front row of the gallery, Ryan gripped the armrests of his wheelchair so hard his knuckles turned white as he watched Cassidy walk up to the witness box and take the oath.
+
+On cross-examination, Julian's defense attorney stepped up to the lectern and tried to paint twenty-seven-year-old Cassidy as a jaded rock-and-roll provocateur.
+
+"Ms. O'Connell," the defense attorney sneered, glancing toward the press rows, "is it not true that while on tour and at home, you, your brother Ryan, and your sister Holly routinely... slept in the same bed?"
+
+A collective gasp rippled across the courtroom gallery. Half a dozen courtroom sketch artists and tabloid reporters scribbled furiously on their pads.
+
+On the witness stand, Cassidy's hands trembled once on the wooden rail—and then her voice came out through the microphone, shaking slightly but colder than Blue Ridge sleet:
+
+"We were a family of five sharing a Motel 6 room with two double beds," Cassidy said, staring straight through the defense attorney. "It's called *logistics*. You should try it."
+
+An hour later, the bailiff opened the low wooden gate beside the witness stand, and Ryan rolled his manual wheelchair into the box.
+
+The Deputy District Attorney walked up and handed him the clear plastic evidence sleeve containing **People's Exhibit A**.
+
+"Mr. O'Connell," the prosecutor asked quietly, "is this the document you were handed on the afternoon of September 18, 1992?"
+
+"Yes," Ryan said into the microphone.
+
+"And what is this mark here on Shot 12?"
+
+"That," Ryan said, his eyes fixed on the torn black marker line, "is where he crossed out the word *'simulated.'*"
+
+"And what was your immediate reaction upon reading that direction, Mr. O'Connell?"
+
+Ryan looked across the courtroom at the twelve jurors. Then he looked over at the defense table, where Julian Vance sat sweating in an ill-fitting gray suit, refusing to meet his eyes.
+
+"I told him," Ryan said, his voice low, steady, and ringing through every corner of the courtroom, "that she was my sister."
+
+***
+
+#### 1994–1996 — Part 3: The Forger Nation Shield & The Wilderness
+
+The jury took less than four hours to return the verdict: **guilty on two felony counts**. Julian Vance was sentenced to state prison and lifetime registration as a sex offender.
+
+In the eyes of the law, **The Stardust Engine** had won a total victory. They owned 100% of their master recordings, they owed zero debt to Apex Records, and the man who had tried to break them was behind bars.
+
+Yet when Ryan, Cassidy, Holly, Evan, and Tyler flew back to Virginia and rolled up the ramp of **Aunt Martha's** house on **Progress Street NE**, they discovered that in the eyes of the mainstream commercial music industry, they were now completely **radioactive**.
+
+No major label in New York or Los Angeles would touch them—not because they had done anything wrong, but for two cold, corporate reasons:
+1. **The "Victim-Saints" Label**: To commercial radio programmers and MTV executives, they were no longer the synth-rock band that wrote *"Ignition"*—they were *"the hot-chocolate family from the incest-solicitation trial."* No corporate marketing department knew how to put them on a billboard without reminding the public of the trial.
+2. **Fear of "The Shark"**: Every executive in Hollywood now knew that the quiet twenty-five-year-old woman carrying the leather briefcase—newly minted attorney **Holly O'Connell, Esq.**—had used a four-page kitchen-table cross-license and a marked-up clipboard to vaporize a two-million-dollar contract and put an A&R vice president in state prison. The other Julians of the industry were terrified of them.
+
+Outside the New River Valley, they were Untouchables.
+
+Inside **Blacksburg, Virginia**, however, it was a completely different story.
+
+To the **Forger Nation**—the tens of thousands of **Commonwealth Polytechnic Institute** students, faculty, alumni, and Montgomery County neighbors—the trial wasn't a salacious Hollywood scandal. It was a coastal corporate predator attacking *their* kids from down on Route 460 and Progress Street.
+
+When Holly incorporated **Engine Room Records, LLC** in Blacksburg and opened a local **Series A** private placement to build an independent recording bunker where no outside label could ever touch her family again, CPI alumni engineers, local business owners, and fellow **Forgers** didn't just invest—they poured capital into the company as an act of war, building a financial fortress around the five of them (and enabling the family in 1996 to purchase the **Progress Street NE** property outright from Aunt Martha so they could install a three-stop hydraulic elevator and turn the house into their permanent barrier-free sanctuary).
+
+From **1994 to 1996**, exiled from commercial radio inside their Blacksburg rehearsal warehouse with nothing but their instruments, their early web server (`TheStardustEngine.com`), the **Warehouse Tapes** cassettes they dubbed by hand for CPI dorm rooms, and an ocean of pure, white-hot rage—rage at Julian, rage at the tabloids for the second violation of the trial, and rage at an industry that wouldn't just let them be musicians—Ryan retuned his guitars down to Drop-D, Evan and Tyler locked in like a hydraulic stamping press, and the five of them forged the brutal, cathartic industrial-metal fire that would erupt in 1997 as [***Hard Reset***](https://music.raggiesoft.com/artists/the-stardust-engine/1997-hard-reset).
 
 # Book 4: Ad Astra, Hard Reset & The Stadium Years (1996–2005)
 
@@ -245,7 +855,7 @@ Across the room, Cassidy opened her eyes behind the glass of her synth rack. A s
 
 Sitting in his chair with the warm brass prongs of the unplugged power cord resting in his lap, Ryan let out a long, quiet breath and looked over at Holly standing in the control-room doorway with her yellow legal pad tucked under her arm. They didn't have a major label anymore. They didn't have commercial radio promotion or tour buses or a million-dollar marketing budget—only a drafty warehouse, a secondhand tape machine, and the five of them.
 
-They didn't need any of it. Listening to Cassidy's voice echo off the cinder-block walls of the warehouse, Ryan knew that one day—whether it took two years or twenty—they were going to play *Ad Astra* under the open stars inside **The Crucible**, and sixty-five thousand people were going to hear his sister fly.
+They didn't need any of it. Listening to Cassidy's voice echo off the cinder-block walls of the warehouse, Ryan made himself a quiet promise right there on the concrete floor: one day, no matter what it took, they were going to play *Ad Astra* under the open stars inside **The Crucible**, and sixty-five thousand people were going to hear his sister fly.
 
 ## Chapter 2: Writing Before the Distance on Progress Street (2004)
 
@@ -384,7 +994,7 @@ The late-October air had turned crisp (`48°F`), carrying the sweet, unmistakabl
 
 Two miles north of the Christiansburg ridge, where the trail leveled out between weathered wooden split-rail fences and rolling green pastures dotted with grazing cattle, a group of ten **CPI** undergrads in maroon and orange hoodies came walking and rolling southbound from the direction of campus.
 
-Right at the front of their group was a tall, broad-shouldered freshman guy with a local's easy stride (**Mark Anderson**, who had grown up right down the hill in Radford), walking beside an eighteen-year-old freshman in a black manual wheelchair wearing new rectangular polycarbonate glasses and a maroon CPI hoodie (**Jordan Fuller**), with a blonde young woman (**Aubrie Jean Kelly**) walking close at his left shoulder and their friends (**Madison**, **Zoë**, **Lauren**, **Hannah**, **Sarah**, **Jessica**, and **Isabel**) chatting warmly around them.
+Right at the front of their group was a tall, broad-shouldered freshman guy with a New River Valley local's easy stride, walking beside an eighteen-year-old freshman in a black manual wheelchair wearing rectangular glasses and a maroon CPI hoodie, with a blonde young woman walking close at his left shoulder and seven of their friends chatting warmly around them.
 
 Noticeably, the tall kid from Radford spotted the five of them first. His eyes widened for a fraction of a second in quiet recognition—and then, adhering to the unwritten law of the New River Valley, he didn't point, didn't shout, and didn't reach for a camera.
 
@@ -1382,7 +1992,7 @@ Ryan threw his head back and roared with laughter, while Cassidy, Holly, Evan, a
 
 "Every single second!" **Cassidy** agreed fervently, adjusting her dry glasses. "Everything was plastic, the air tasted like eight lanes of freeway smog, the mansion had twenty marble steps at the front door with zero wheelchair ramps so Evan and Tyler had to haul Ryan's chair up and down the stairs every day, and most of all—it wasn't Blacksburg. It wasn't home."
 
-"And yes," **Holly** grinned, pointing her thumb north toward Blacksburg, "when we say **Progress Street**, we mean *the* **Progress Street** right here in Blacksburg—two blocks north of **Commonwealth Mall**! That 1900s farmhouse originally belonged to **Aunt Clara Wright**—Evan and Tyler's mom, and Ryan's, Cassidy's, and my maternal aunt. When the guys and Cass started as CPI freshmen in the fall of 1985 and I was only sixteen years old in dual enrollment, Aunt Clara served as our live-in landlord and leased the house to us for one dollar a year so we could legitimately check the 'Living with a Local Relative' box on CPI's housing form and skip the freshman dorms! We started the band in her unheated cinder-block garage out back, fled straight back there from Beverly Hills in 1992, and bought the house outright from Aunt Clara in 1996 to gut-renovate it with a three-stop hydraulic elevator and wraparound ramp."
+"And yes," **Holly** grinned, pointing her thumb north toward Blacksburg, "when we say **Progress Street**, we mean *the* **Progress Street** right here in Blacksburg—two blocks north of **Commonwealth Mall**! That 1900s farmhouse originally belonged to **Aunt Martha Wright**—Evan and Tyler's mom, and Ryan's, Cassidy's, and my maternal aunt. When the guys and Cass started as CPI freshmen in the fall of 1985 and I was only sixteen years old in dual enrollment, Aunt Martha served as our live-in landlord and leased the house to us for one dollar a year so we could legitimately check the 'Living with a Local Relative' box on CPI's housing form and skip the freshman dorms! We started the band in her basement and unheated cinder-block garage out back, fled straight back there from Beverly Hills in 1992, and bought the house outright from Aunt Martha in 1996 to gut-renovate it with a three-stop hydraulic elevator and wraparound ramp."
 
 "Why on earth would I want to sit in a mansion in Beverly Hills," Ryan smiled, looking straight across at Jordan from his chair, "when I can live on **Progress Street** with my sisters and my cousins, roll six miles down the **Huckleberry Trail** under the autumn leaves without a single person hassling us, and pay thirty bucks a month for a Town of Christiansburg non-resident pass to soak in a ninety-five-point-five-degree therapy pool?"
 
@@ -1411,4 +2021,819 @@ When they finally rolled out through the automatic sliding glass doors into the 
 ***
 
 > **Companion Perspective (*The Eleventh Child* — Jordan Fuller's POV):** Read this Sunday afternoon therapy-pool icebreaker and dry-lobby conversation from Jordan's perspective in [**The Eleventh Child — Spring Semester 2016, Part 8: *The Cove (95.5°F): Two Wheelchairs at the Blue Ridge Regional Aquatic Center***](https://books.raggiesoft.com/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-8-the-cove-95-5-f-two-wheelchairs-at-the-blue-ridge-regional-aquatic-center) • Explore the band's full cosmic archive at [**`stardust.raggiesoft.com`**](https://stardust.raggiesoft.com).
+
+# Book 7: The Nine-Figure Refusal & The Transfer Protocol (September 2018)
+
+## Chapter 1: The Approach Vector (September 13, 2018)
+
+### The Approach Vector (September 13, 2018)
+
+**Date:** 2018-09-13 at 08:30 America/Los_Angeles
+
+#### September 13, 2018 (`08:30 PST`) — Part 1 & 2: Wheels Down at Valley Regional
+
+The tires of the Gateway Airlines jet touched down on the sun-bleached tarmac of the San Fernando Valley with a sharp chirp of rubber.
+
+Across the aisle, fifty-one-year-old **Tyler Wright** checked his watch. "Wheels down. `08:30`. We're green on the timeline."
+
+None of the five of them unbuckled to grab overhead bags or crowd the narrow aisle. They waited. That was the protocol: the general passengers deplaned first; the Engine moved last.
+
+In the window seat, fifty-four-year-old **Ryan O'Connell** looked out at the heat shimmer rising off the Valley Regional tarmac. He wasn't thinking about tomorrow morning's meeting with **Omni-Global Media Corporation** in Century City. He was thinking about the Hilltop Observatory and the Pacific Ocean.
+
+"Vacation mode active," Ryan murmured.
+
+"Not yet," forty-nine-year-old **Holly O'Connell** said from the aisle seat, already in full CEO mode as she scrolled through her phone to verify their hotel reservation. "We survive tomorrow morning's boardroom gauntlet first. Then we can be tourists."
+
+Between them, fifty-one-year-old **Cassidy** adjusted her glasses, her left leg bouncing slightly against the cabin floor. She reached over and brushed her thumb three times across the cuff of Ryan's blazer.
+
+"I'm good, Cass," Ryan said softly, covering her hand with his. "Systems nominal."
+
+When the cabin aisle cleared, the lead flight attendant stepped forward with a smile. "We have the narrow aisle chair ready for you at the bulkhead, Mr. O'Connell."
+
+"No need," **Evan Wright** said, standing up and filling the aisle like a granite boulder. "We gate-checked the Carbon. Just bring his frame to the forward cabin door."
+
+Valley Regional was Ryan's favorite airport on the West Coast for one specific engineering reason: **no jetways**. Instead of steep, flexing telescopic bridges with bone-jarring steel lips, the regional terminal used a wide, gentle metal switchback ramp that rolled straight down onto the tarmac.
+
+At the cabin threshold, Ryan transferred from the aircraft seat into his custom matte-black **Carbon-Fiber Veloce** ultralight manual wheelchair, felt the seat lock click home, caught his push-rims, and rolled smoothly down the switchback ramp into the warm California morning.
+
+"Temperature is already climbing," Holly noted, stepping onto the asphalt behind him. "It's going to hit ninety by noon. Hydrate."
+
+Ryan pulled his water bottle from the side frame pouch without breaking his stroke. "Way ahead of you."
+
+Behind him, the formation locked in automatically. Cassidy stepped up to his right hip and rested her left hand lightly on his right push-handle. She wasn't pushing him—Ryan never needed pushing on level ground—she was using the rigid carbon-fiber frame of his chair as a rolling stabilizer for her own cerebral palsy gait. It was a symbiotic machine they had perfected over twenty-seven years: Ryan provided the lateral stability and forward momentum; Cassidy provided the high-angle spotter checks, her slight limp syncing effortlessly with the rhythm of his strokes.
+
+Flanked by Evan and Tyler hauling the five heavy **Titan Cases**, they crossed the open-air baggage claim toward the passenger pickup curb.
+
+"We should have just told Jameson Frost *'No'* over the phone from Blacksburg," Ryan said, scanning the concrete island. "We came out here to see the Space Shuttle *Horizon* at the science center, not sit in a Century City boardroom."
+
+"We're here to do both," Holly replied briskly. "We take the forty-five-minute meeting so Omni-Global's board can't claim we refused to listen, we reject their offer because their debt-to-equity ratio is a dumpster fire, and then we spend two weeks eating street tacos. That's efficiency."
+
+***
+
+#### September 13, 2018 (`08:50 PST`) — Part 3 & 4: Strike One at the Curb & The SCR Strategy
+
+"Mr. Wright? The O'Connell party?"
+
+A chauffeur in a black bespoke suit stepped out from behind a concrete support column holding a gleaming **mPad**.
+
+"I'm Marcus," the driver said, flashing a rehearsed service-industry smile. "Mr. Jameson Frost arranged for your ground transport. He wanted to make sure you were taken care of in style."
+
+Marcus flipped the mPad around to display the digital welcome placard.
+
+The screen did not say *The Stardust Engine*, and it did not say *Engine Room Records*. In bold gold lettering, it read:
+
+> **`WELCOME MR. & MRS. O'CONNELL`**
+
+On the concrete curb, the warm morning air dropped to absolute zero.
+
+Beside Ryan's right wheel, Cassidy flinched as if she had been struck across the face. Her left hand jerked off Ryan's push-handle, and she stumbled half a step backward, her balance wavering without the carbon-fiber anchor.
+
+"No," Cassidy whispered, her breath hitching in her throat as her eyes went wide with the ghost of a freezing Los Angeles warehouse in September 1992. "No. Not again. I'm not... he's my..."
+
+Evan and Tyler Wright dropped the heavy Titan Cases onto the concrete sidewalk with a simultaneous *THUD* that sounded like an artillery shell and stepped shoulder-to-shoulder into the chauffeur's personal space.
+
+"Turn that screen off," Tyler growled.
+
+"Excuse me?" Marcus stammered, taking a hurried step back against the fender of an idling black **Regency Sovereign** luxury SUV. "Mr. Frost's office said the couple would be arriving with their security team and—"
+
+"I am his *sister*," Cassidy choked out, her hands trembling at her sides.
+
+Ryan locked his brakes and stared up at the driver, every trace of vacation warmth vanishing from his eyes.
+
+"You have exactly five seconds," Ryan said, his voice dangerously quiet, "to delete that file off your tablet."
+
+"I—I don't understand," Marcus stammered, looking frantically between Ryan's wheelchair and Cassidy's shaking hands. "Mr. Frost's assistant was very specific. He said Mr. Ryan O'Connell and his wife Cassidy—"
+
+Holly O'Connell stepped calmly between her twin cousins, plucked the mPad straight out of Marcus's hands, deleted the welcome graphic with two sharp taps of her fingernail, and handed the tablet back to him.
+
+"Jameson Frost," Holly said, her voice like crushed glass, "didn't do his homework. He looked at a publicity photo and assumed. You can call Mr. Frost right now and inform him that his research department just cost him **Strike One** before we even left the airport—and Engine Room plays by three-strike rules."
+
+"Ms. O'Connell, please," Marcus pleaded, gesturing nervously toward the lifted black Regency Sovereign SUV idling at the red curb. "The vehicle is already paid for. It's the Sovereign Executive Package. Mr. Frost wanted to give the... the two of you a luxury ride into town."
+
+Ryan let out a short, dry bark of a laugh.
+
+"A lifted truck with a twenty-four-inch running board step and marshmallow air suspension," Ryan said, eyeing the massive SUV. "He booked a climbing wall for a T10 paraplegic and a motion-sickness sensory chamber for my sister."
+
+Ryan spun his Carbon-Fiber Veloce 180 degrees on the concrete and reached out his right hand. "Cass. Link up. Stable platform."
+
+Cassidy took a shaky breath, stepped forward, and wrapped her fingers back around his push-handle.
+
+"We're taking the train," Ryan said.
+
+"Sir! The SUV!" Marcus called after them.
+
+"Tell Jameson we'll see him at nine-forty tomorrow morning," Tyler called back over his shoulder, hoisting two Titan Cases as the five of them crossed the crosswalk toward the **Regional Intermodal Transportation Center**. "Maybe."
+
+On the level concrete platform of the **SCR (Southland Commuter Rail) Ventura County Line**, the double-decker silver commuter train rumbled to a stop. The automatic gap-filler bridge slid out flush with the platform edge, and Ryan rolled straight into the lower-level wheelchair bay, locking his brakes with a crisp *clack*. Cassidy sat on the priority bench immediately to his right, keeping one hand anchored on the tubing of his backrest.
+
+"He thinks we're married, Ry," Cassidy whispered, staring down at the rubber floor mat. "Just like Julian in '92."
+
+"He's a lazy suit who looked at a thirty-year-old promo picture and wrote a story in his head, Cass," Ryan said firmly, covering her hand on the frame. "And unlike 1992, we own the company, we own the masters, and we brought the wall."
+
+***
+
+#### September 13, 2018 (`10:45 PST`) — Part 5, 6 & 7: Base of Operations & The Guardrail Protocol
+
+At **Los Angeles Union Station**, they transferred seamlessly downstairs to the **LATA Rail** heavy-rail subway, rode three stops into the financial district, and rolled two blocks down the sunlit sidewalk—not to the glass luxury tower where Omni-Global had tried to book them under a corporate master account, but to **The Metropolitan Suites**, an extended-stay residential hotel with hardwood floors and full kitchens.
+
+At the front desk, Holly pulled out her own matte-black **Engine Room Records** corporate debit card and paid in full upfront for two adjoining suites: the **Barracks** (a two-double room by the main door where Evan and Tyler immediately stowed the Titan Cases and established the outer perimeter) and the **Command Center** (a wide-open accessible king suite with hardwood floors and a full kitchenette).
+
+"Omni offered to comp the penthouse at the Grand Monarch," Evan noted as they rode the elevator up to the fourth floor.
+
+"The Grand Monarch," Holly replied evenly, "is billed to a master account controlled by Jameson Frost. The second we tell him *'No'* tomorrow morning, a petty man like Frost would cancel the reservation and have hotel security lock our keycards before we got back down the elevator. We pay for the ground we stand on."
+
+Inside the Command Center suite, Ryan rolled straight into the bathroom for the **"Iron Dome Check"**—verifying the stud-reinforced grab bars, the roll-in shower transfer bench, and the under-sink knee clearance where he could handle his daily catheterization and bowel routines in complete dignity.
+
+"Green light," Ryan called out, rolling back into the main room. "Bathroom passes inspection."
+
+In the center of the main bedroom stood a single, massive California King bed.
+
+To an outsider, three adult siblings in their late forties and fifties sharing a single king mattress might have looked unusual. To Ryan, Cassidy, and Holly, it was **Standard Operating Procedure**.
+
+Cassidy pressed her palm against the center of the mattress. "Firm," she noted approvingly. "Low motion transfer."
+
+She set her noise-canceling headphones and sensory kit on the left nightstand. Holly set her encrypted phone and yellow legal pad on the right nightstand. And in the center of the mattress, they arranged Ryan's pillows.
+
+With a practiced lift-and-swing transfer, Ryan moved from his Carbon-Fiber Veloce onto the mattress and positioned his paralyzed legs down the center line. Because his T10 spinal cord injury left him with zero proprioception below his navel, sleeping alone in an unfamiliar hotel bed without side rails meant a nocturnal clonus spasm could pitch him onto the hardwood floor without waking him until impact. With Holly sleeping on his right and Cassidy sleeping on his left, his sisters were his **human guardrails**—and for Cassidy, the steady, familiar rise and fall of her brother's ribs was the anchor that quieted every unfamiliar city sound in the night.
+
+"Rest up today," Ryan said, leaning back against the pillows as Holly stocked the full-sized refrigerator with bottled water and yogurt. "Tomorrow morning at nine-forty, we find out what Jameson Frost actually wants."
+
+## Chapter 2: Omni-Global Media, Clause 88 & The Twin Protocol (September 14–19, 2018)
+
+### Omni-Global Media, Clause 88 & The Twin Protocol (September 14–19, 2018)
+
+**Date:** 2018-09-14 at 09:35 America/Los_Angeles
+
+##Part 1 & 2: The LATA Rapid 720 & The Century City Lobby
+
+At `09:35 AM`, the massive sixty-foot red-and-silver articulated **LATA Rapid 720** bus thundered down Avenue of the Stars, scattering the quiet of the luxury valet driveway at `2000 Avenue of the Stars` as it pulled to the curb directly in front of the forty-story glass atrium of **Omni-Global Media Corporation**.
+
+The air suspension knelt with a loud hydraulic hiss, the front doors folded wide, and the mechanical wheelchair ramp deployed onto the polished granite sidewalk with a crisp metallic *clack*.
+
+As Ryan rolled down the ramp in his matte-black **Carbon-Fiber Veloce**—wearing his midnight-blue **Stardust Engine** polo with Cassidy's left hand anchored on his right push-handle, Holly striding ahead in a bespoke slate-gray blazer carrying her Florentine leather briefcase, and Evan and Tyler flanking the perimeter—Ryan glanced up through the floor-to-ceiling lobby glass.
+
+Standing twenty feet inside the glass beside two junior executives was a man in an expensive bespoke suit and cufflinks—**Jameson Frost**, Omni-Global's Vice President of Acquisitions. Frost was staring out the window at Ryan's wheelchair with his mouth slightly open, the color draining from his face as if he had been expecting the standing twenty-two-year-old guitarist from a 1989 *Neon Hearts* promotional poster.
+
+When the five of them glided through the automatic glass doors into the refrigerated silence of the atrium, Frost snapped his jaw shut, pasted on a porcelain smile, and marched straight past Holly without even glancing at her.
+
+In Frost's mind, six-foot-three **Tyler Wright** in his dark sunglasses had to be the "Alpha" running the organization. Frost thrust out his right hand toward the drummer.
+
+"Tyler," Frost boomed with forced boardroom camaraderie. "Great to finally—"
+
+Tyler didn't move a muscle. He kept both hands tucked inside his trouser pockets and stared down at Frost through his dark lenses in total silence for three agonizing seconds, as if a stranger had tried to hand him a coupon on the street.
+
+"Mr. Frost!"
+
+Holly's voice rang out from behind Frost's left shoulder—bright, airy, and razor-sharp. She shifted her leather briefcase to her left hand and extended her right, forcing the executive to pivot awkwardly on his heel.
+
+"I am so sorry to keep you waiting," Holly said, locking his hand in an iron grip. "I'm Holly. We saw you staring out the window as our bus pulled up! Wasn't that sweet of you to watch for us?"
+
+Frost yanked his hand back, his irritation flaring. "I wasn't waving, Ms. O'Connell. I was wondering why my chauffeur called yesterday to say you left a ninety-thousand-dollar Regency Sovereign SUV idling at the airport curb—and why you just stepped off a city bus in front of our valet stand. Rejecting our car service wasn't just rude; it was unnecessary."
+
+Holly's polite smile didn't budge, though her eyes narrowed half a millimeter.
+
+"On the contrary, Jameson," Holly said, gesturing toward Ryan's wheelchair and Cassidy's hand on the push-handle. "It was a medical and engineering necessity. Your lifted SUV is a climbing wall; Ryan doesn't climb. And the soft air suspension on a Regency Sovereign in stop-and-go freeway traffic is a vestibular sensory nightmare for Cassidy. The **LATA Rapid 720** has a zero-step hydraulic ramp for the chair and a rigid multi-axle chassis for stability. We didn't reject your luxury, Jameson. We rejected your logistics. They were incompetent."
+
+Frost blinked, suddenly realizing that if he mocked the bus one word further, he would be publicly mocking a paraplegic man and a woman with cerebral palsy in his own lobby.
+
+"Right," Frost muttered, clearing his throat and gesturing toward the express elevator bank. "Efficiency. After you."
+
+"Clear," Tyler said quietly, stepping aside to open the lane for Ryan and Cassidy.
+
+As Ryan rolled past the executive, he tapped his carbon-fiber push-rim and offered Frost a calm, level smile. "Smooth terrazzo floors in here, Mr. Frost. Much better than the SUV."
+
+***
+
+#### Part 3 & 4: Strike Two in the Elevator & Jessica Miller at the Desk
+
+At the high-rise express bank, Frost made a grand show of badging them into the penthouse lift for the **40th Floor**.
+
+Inside the brass-paneled elevator car stood a silver-haired gentleman in his seventies wearing a classic Savile Row pinstripe suit and reading *The Financial Daily* on a tablet. Ryan spun his Veloce neatly into the rear corner and locked his brakes—*click-clack*—while Cassidy stood beside him with her palm resting on his shoulder.
+
+Looking up at the etched brass plaque above the floor indicator, Cassidy pointed innocently at the corporate crest.
+
+"Your website calls this building the *'Omni-Compound,'*" Cassidy said, her voice bright with genuine curiosity. "Do you own the whole forty-story tower? Like how we own our Warehouse on Progress Street?"
+
+Frost let out a dry, patronizing chuckle, looking at Holly instead of Cassidy as if apologizing for a child speaking out of turn.
+
+"It's... nuanced, sweetheart," Frost said in a slow, syrupy voice. "We are the anchor tenants with exterior signage rights. We lease our strategic real estate to maintain capital liquidity. You wouldn't understand institutional portfolio management."
+
+Beside Ryan's shoulder, Cassidy flinched at the *"you're stupid"* tone—the exact same condescension Julian Vance had used in 1992. Without a word, she tapped Ryan's right shoulder three times: *Tap. Tap. Tap.*
+
+Ryan didn't look at Frost. He lifted his right hand off his push-rim and covered his sister's trembling fingers against his shoulder—warm, heavy, and immovable.
+
+"We're good, Cass," Ryan murmured under his breath. "Solid ground. I've got you."
+
+Across the car, Ryan saw Holly's knuckles tighten on the handle of her Florentine briefcase. *Strike One: "Mr. & Mrs. O'Connell" at the airport. Strike Two: Belittling the Composer.*
+
+From the opposite corner of the elevator, the silver-haired man in the pinstripe suit lowered his tablet and stared straight at Frost.
+
+"Tenant," the older man said loudly. "They rent, young lady. Just like the espresso kiosk in the lobby."
+
+Frost turned a blotchy crimson. "Arthur, please, I was simplifying for the—"
+
+"For the talent?" **Arthur Vane**, Chairman of the Board and owner of the building's master trust, cut in coldly. "The woman asked a perfectly straightforward question, Frost. If you put your name on the front of a building, you ought to own the hinges." Vane offered Cassidy a respectful nod as the elevator chimed at the **38th Floor**. "They don't own the tower, ma'am. They just pay the highest electric bill."
+
+As Vane stepped out onto the 38th floor, he paused at the threshold, looked directly at Holly, and muttered, "Give him hell, counselor."
+
+Thirty seconds later, the doors slid open on the **40th Floor** penthouse reception atrium—a freezing expanse of white marble and harsh blue LED strips.
+
+Behind the curved reception desk sat a nineteen-year-old woman in an oversized blazer with the sleeves rolled up, typing rapidly at a workstation terminal. She was sitting in a clunky, standard-issue hospital manual wheelchair positioned behind the desk cutout.
+
+Frost didn't say good morning. Without breaking stride, he snapped his fingers twice—*Snap! Snap!*—right near the young woman's head.
+
+The sharp acoustic spike made the young woman flinch violently, her hands flying up to rip off her telephone headset as her shoulders hunched in classic autistic sensory startle.
+
+"Mr. Frost! I—"
+
+"Conference Room A," Frost barked without looking at her. "Get the pitch deck on the main wall and bring a pitcher of tap water. Don't waste the bottled Voss."
+
+"Y-yes, sir," she stammered, unlocking her clunky manual brakes. "Mr. Sterling is in there checking the projector, the HDMI handshake was—"
+
+Frost stopped and looked down at her wheelchair with theatrical exhaustion. "Ashley, I don't need the IT excuses, and if you can manage to carry a glass pitcher without running anybody over, that would be fantastic."
+
+The young woman's face burned scarlet as she gripped her armrests to ground herself. "It's... it's **Jessica**, sir," she whispered.
+
+Frost rolled his eyes and turned back toward Holly with a smirk. "Interns. Impossible to find help these days, right, Holly?"
+
+Holly stopped dead in the center of the marble floor, walked straight past Frost, and set her briefcase gently on the edge of the reception desk.
+
+"Hi, Jessica," Holly said, her voice warm and genuine. "I'm Holly."
+
+Jessica looked up behind her glasses, startled—and then her eyes widened as she looked past Holly and saw Ryan rolling up beside the desk in his matte-black Carbon-Fiber Veloce.
+
+"You're..." Jessica breathed, glancing from her own heavy steel frame to Ryan's custom carbon-fiber rig. "You're Ryan O'Connell."
+
+Ryan spun his chair parallel to her desk so they were completely at eye level.
+
+"Good workstation geometry, Jessica," Ryan said warmly, nodding at her desk clearance. "You keeping your elbows tucked on the push-stroke?"
+
+Jessica nodded rapidly. "Yes, sir. My joints sublux if I over-extend... I can walk short distances across a room, just not down long corridors."
+
+"Ambulatory user," Ryan said with an approving nod. "Smart energy conservation. Never let a standing person tell you to burn your joints when the wheels do the job."
+
+Holly reached into her blazer pocket, slid a heavy enamel **Engine Room Records** gear-and-heart lapel pin across the marble desk, and smiled. "Don't worry about his water pitcher, Jessica—we brought our own bottles. And if Brett can't figure out an HDMI cable, that's his problem."
+
+As Frost impatiently called from the boardroom doors, Ryan gave Jessica a crisp two-finger salute from his brow. "Lock the brakes, Jessica. Hold your ground."
+
+***
+
+#### Part 5: The Boardroom, The Mutilation of *"Ad Astra"* & Clause 88
+
+Inside **Conference Room A**, Frost dimmed the lights and launched into his presentation in front of a slide reading **`OMNI-GLOBAL + ENGINE ROOM: SYNERGY IN MOTION`**.
+
+Sitting at the mahogany table, Ryan kept his left hand resting on his carbon-fiber wheel rim, rocking the tire one millimeter forward and back—*click, click, click*—using the subtle mechanical feedback to ground himself against the overpowering stench of Frost's cologne and the hum of the ceiling projector. Beside him, Holly wrote a single line at the top of her yellow legal pad:
+
+`Buzzword Count: 1. Liquidity Plan: 0.`
+
+For fifteen minutes, Frost paced the room preaching *"Vertical Integration"*—proposing to dump **Mirage's** classic industrial record *Static & Silence* into discount department-store bargain bins, bragging inaccurately about how Holly had acquired **The Winter Palace's** *Upon This Winter's Night* out of *Aurora Audio's* Chapter 7 liquidation (which Holly had actually rescued so Mirage frontman Julian Croft wouldn't see his favorite winter album go out of print), and offering to turn **The Arctic Symphony Project** into a year-round television commercial factory.
+
+Then Frost circled back to the head of the table, looked down at Ryan's wheelchair, and softened his voice into the patronizing tone of a hospital visitor.
+
+"And for you, Ryan," Frost said softly. "You're fifty-four. Why are you still grinding on tour buses and worrying about whether tour insurance covers your... medical condition? We're offering you the **Dignity of Rest**. A **`$150 million`** buyout of Engine Room's catalog. You retire today, and we optimize the assets—starting with your crown jewel: [**'Ad Astra'**](https://music.raggiesoft.com/artists/the-stardust-engine/2006-escape-velocity?track=1-08-escape-velocity-ad-astra)."
+
+Ryan's left hand froze on his push-rim.
+
+At Holly's deceptive prompt—*"Show us how much synergy you can generate, Mr. Frost"*—assistant **Brett Sterling** clicked to the next slide.
+
+On the wall screen appeared the fifteen-minute, four-movement waveform of Cassidy's 2006 magnum opus, [**"Escape Velocity (Ad Astra)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2006-escape-velocity?track=1-08-escape-velocity-ad-astra). Frost aimed his red laser pointer directly at **Section C**—minutes `07:00` through `12:00`, the soaring, zero-gravity ambient synthesizer and guitar movement where Cassidy had translated floating free of the trauma of 1992 into pure sound.
+
+"In the streaming economy, minutes seven through twelve are what we call *Churn Valley*," Frost chuckled dismissively. "Five minutes of slow synth pads with no drum beat? A commuter on a train isn't waiting five minutes for the hook. So our algorithm team did this."
+
+Frost clicked the remote.
+
+On the screen, a cartoon digital scalpel sliced vertically through Cassidy's waveform at `07:00` and `12:00`. Section C turned bright red, vanished into a trash icon, and the two outer ends snapped together with a loud cartoon *CLICK*.
+
+"We cut the fat," Frost beamed. "We turn a fifteen-minute prog suite into a three-minute streaming single: ***'Ad Astra (The Velocity Edit)'***!"
+
+Beside Ryan, a wooden conference chair scraped violently across the parquet floor.
+
+"No," Cassidy whispered, her voice pitching high and thin.
+
+"Cassidy, sweetheart, I know you're attached to the old arrangement—" Frost began.
+
+*"NO!"* Cassidy screamed, slamming both hands over her noise-canceling headphones. "You can't cut the middle! The middle is the escape! It's not an asset—it's *me*!"
+
+Shoving back from the mahogany table in blind panic, Cassidy lost her center of gravity. Her heavy conference chair tipped backward and hit the parquet floor with a gunshot *CRACK*. Curl into a tight ball on the floorboards with her hands clamped over her ears, Cassidy began to wail in raw, catastrophic sensory and emotional overload:
+
+***"THEY ARE GOING TO RIP MY BABY APART! RYAN! THEY'RE CUTTING IT! THEY'RE CUTTING ME!"***
+
+"Good grief," Frost sneered, stepping back in disgust. "Get a grip, it's just a song—"
+
+That was the last sentence Jameson Frost ever spoke as the person in charge of the room.
+
+Ryan didn't look at the screen. His voice dropped to a quiet, absolute command:
+
+"Evan. Tyler. **Wall.**"
+
+In less than half a second, Evan and Tyler Wright rose as one, stepped left in locked synchronization, and planted their broad, suit-clad shoulders directly between the Omni-Global executives and their cousin—forming an impenetrable human wall that completely cut off Frost's line of sight.
+
+Behind the **Ironhead Wall**, Ryan spun his Carbon-Fiber Veloce 180 degrees, locked both brakes hard, and reached down to take Cassidy's wrists.
+
+"Cass, look at me—look at the wheels," Ryan whispered fiercely, hauling his sister up off the floor onto his lap and wrapping both arms around her shoulders in a maximum-compression deep-pressure hold as she buried her face against his neck. "The red section is safe. My brakes are locked. He can't touch a single note."
+
+On the other side of Evan and Tyler's backs, Frost sputtered at Holly. "This is absurd! We are discussing a nine-figure acquisition and she's having a tantrum! Your shareholders will sue you for fiduciary negligence if you walk away from our money! We'll pull your credit lines!"
+
+Holly O'Connell didn't raise her voice.
+
+"Sit down, Jameson," Holly ordered.
+
+Frost blinked and sank into his chair as Holly picked up the presentation remote, clicked **Back** until the uncut fifteen-minute waveform of *"Ad Astra"* filled the wall, and turned to Frost's pale assistant.
+
+"Brett," Holly said coolly, "tell Mr. Frost what you found when you pulled Engine Room Records, LLC's Uniform Commercial Code filings this morning."
+
+Brett swallowed hard. "Zero active liens, Ms. O'Connell. Zero lines of credit. Zero mortgages. Zero debt."
+
+"We pay cash, Jameson," Holly said, stepping up to the mahogany table and ticking off her credentials on her fingers. "You read *'Band Manager'* on a dossier and didn't bother to check the licenses behind my name: **Juris Doctor** admitted in Virginia, New York, Delaware, and California; **Enrolled Agent**; **Certified Forensic Accountant**; **Chartered Financial Analyst**; and a **Master's in Quantitative Finance**. Last night I pulled Omni-Global's 10-K filings from the federal securities archive. You are drowning in **`$400 million`** of high-interest debt service, you barely made Q2 payroll, and your '$150 million cash offer' is a leveraged buyout borrowing against *our* debt-free balance sheet to pay your own bondholders. Meanwhile, yesterday morning before our flight, I wired **`$2.4 million` in cash** to **Sainte-Claire Coachworks** in Québec for our newest barrier-free custom motorcoach—title in hand."
+
+Holly reached into her Florentine briefcase, pulled out a yellowed, typewritten corporate instrument dated **October 1992**, and spun it across the mahogany table so it stopped directly under Frost's sweating palm.
+
+"Read **Clause 88** of the *Engine Room Records, LLC Operating Agreement* out loud, Jameson," Holly commanded.
+
+Frost stared down at the paper, his voice cracking as he read:
+
+> *"Clause 88: In the event that Engine Room Records, LLC is acquired by, merged with, or sold to any publicly traded entity without the unanimous written consent of all five founding family members, ALL master recording rights, publishing rights, and intellectual property shall immediately and automatically revert to the individual creating Artists, rendering the acquired Company assets null and void."*
+
+"It's a Poison Pill," Frost whispered, the blood draining from his face.
+
+"It's a lock," Holly corrected. "And you just broke your foot kicking the door."
+
+At that exact moment, the heavy double doors at the rear of Conference Room A swung open. Nineteen-year-old receptionist **Jessica Miller** rolled her manual wheelchair straight into the boardroom—and walking directly beside her with his silver cane was Board Chairman **Arthur Vane**.
+
+"Ms. Miller came down to the 38th floor and reported a Code Red in Conference Room A," Vane said, his gravelly voice lethal as he looked past Evan and Tyler's shoulders toward Cassidy resting against Ryan's chest. "My fifteen-year-old granddaughter Sarah is autistic, Frost. When the world breaks her, she sounds exactly like that. And what is this document on the table?"
+
+Vane picked up the yellowed 1992 Operating Agreement, adjusted his spectacles, read **Clause 88**, and looked up at Holly with genuine respect.
+
+"Scorched earth," Vane murmured.
+
+"We prefer *Safe Harbor*, Mr. Vane," Holly replied, sliding the 1992 agreement back into her briefcase and zipping it shut. "Strike One was the airport car. Strike Two was your receptionist. Strike Three was the song. Omni-Global is out."
+
+Vane pointed his cane at the side hallway. "My office, Frost. Now."
+
+***
+
+#### Part 6–11: The Escape to Westwood, Chapter 11 & The Twin Protocol
+
+Out in the 40th-floor hallway, while Arthur Vane's voice thundered through his closed oak office door (*"Get out of my building, Frost—your badge is already deactivated!"*), Holly stopped beside the reception desk where nineteen-year-old **Jessica Miller** was staring nervously at the silent phones.
+
+"Grab your backpack, Jessica," Holly said warmly. "You're coming to lunch with us."
+
+"Tacos," Ryan added, rolling up beside her chair. "Our treat. You need to clear the static out of your system."
+
+Junior Associate **David**—who had watched the boardroom meltdown in silent sympathy—walked them down the elevator to the lobby. As the floor numbers ticked down, David looked quietly at Ryan and Cassidy.
+
+"My six-year-old son's name is Toby," David said softly. "He's autistic, and he builds cardboard Saturn V rockets in our living room. In this building, they teach you to ignore pain and 'optimize the asset.' I didn't know you could lock the wheels and fight back like that."
+
+"You always lock the wheels and hold the line, David," Ryan said, while Holly wrote out four VIP access passes—including Quiet Room credentials—for their upcoming **Anaheim Colosseum** show under David and Toby's names. As the elevator reached the ground floor, David's phone chimed with an internal HR memo from Arthur Vane confirming that Frost had been fired on the spot and that Vane had ordered HR to pay Jessica's back wages in full.
+
+Outside, Ryan and Jessica rolled across Avenue of the Stars side by side, boarded the westbound **LATA Rapid 720** down Wilshire Boulevard, and claimed the wooden patio table at **Tacos Tu Madre** in Westwood over foil-wrapped al pastor tacos, street corn, and glass bottles of Mexican cola.
+
+Midway through lunch, every phone on the patio table buzzed simultaneously with a breaking alert from *The Financial Daily*:
+
+> **`BREAKING: OMNI-GLOBAL MEDIA FILES CHAPTER 11 BANKRUPTCY.`**  
+> *Chairman Arthur Vane announces immediate court-supervised restructuring; VP of Acquisitions Jameson Frost ousted effective immediately.*
+
+Two seconds later, Jessica's phone chimed with an automated text message:
+
+<sms>SENDER: Omni-Global HR [Automated] — Due to Chapter 11 corporate restructuring, the Fall Internship Program is suspended effective immediately. Do not report to the office.</sms>
+
+Jessica went pale, staring at her screen. "My fall stipend is gone. ULA classes start Monday, and I have a `$4,200` tuition balance due on the twenty-fourth or the bursar drops my schedule."
+
+"Don't panic yet," Holly said, her eyes narrowing as she pulled up the Southern District of New York bankruptcy docket on her phone. "First, show us where you go when the city gets too loud."
+
+Twenty minutes later, after riding the **Pacific Blue Bus** west to the ocean bluffs of **Palisades Park** in Santa Monica, Jessica parked her manual chair beside Ryan's overlooking the Pacific surf.
+
+"I come here on Sundays with **Justin**," Jessica said softly. "My fraternal twin brother. He's non-verbal and communicates through an AAC app on his **mPad Mini**. I saw the King bed setup when you showed me the photo of your suite—how Ryan sleeps in the center with you and Cassidy as guardrails. Justin and I have the exact same protocol. We've shared a room and a King bed since we were little: if I'm not beside him for tactile grounding, he can't sleep; if he isn't beside me, I get panic attacks. That's why we couldn't live in the ULA freshman dorms."
+
+Cassidy stopped rocking on the bench and looked at Jessica with shining eyes. "Like a weighted blanket that breathes."
+
+"Where is Justin working right now?" Ryan asked.
+
+"At the **Launchpad Gift Shop** inside the **Pacific Science Center**," Jessica said.
+
+At `3:00 PM`, after riding the **LATA Rail Expo Line** to the science center and slipping inside ahead of three aggressive paparazzi lenses Evan and Tyler spotted tailing them from the platform, Cassidy suddenly stopped outside the glass entrance of the **Launchpad Gift Shop**.
+
+She tilted her headphones back and smiled. "Listen. Track 13."
+
+Ryan locked his brakes and listened.
+
+Drifting from behind the gift shop counter was a remarkably precise, rhythmic humming:
+
+*Hum-hum-hummm...* (*We are the Stardust Engine!*)  
+*Hum-hum-hummm...* (*Racing through the night!*)  
+*Hum-hum-hum-hum-hum-hummm...* (*We're burning on the fuel of a brand new light!*)
+
+And then the pitch jumped an octave into a crisp, staccato four-note vocal imitation of Cassidy's `Vektron Z-1` analog brass patch:
+
+***Da-da-DA-da!***
+
+Behind the counter stood a nineteen-year-old young man with Jessica's exact eyes, wearing a blue museum vest reading **`JUSTIN — AAC USER (I LISTEN & TYPE)`** while aligning space shuttle model boxes in millimeter-perfect symmetry to the beat of their 1987 song.
+
+Jessica rolled up and tapped the display glass three times—*Tap. Tap. Tap.*
+
+Justin stopped humming immediately, stepped around the counter gate, and knelt beside his sister's wheelchair, wrapping her in a calibrated, high-pressure grounding hug before standing up, spotting Evan, Tyler, Holly, and Ryan, and pulling out his **mPad Mini**:
+
+<aac>"You are early. You are supposed to be at Omni-Global. Why is there a security detail blocking the door?"</aac>
+
+"Omni-Global filed Chapter 11, J," Jessica said. "And this is—"
+
+Justin's eyes locked onto the embroidered silver rocket-and-gear crest over the heart of Ryan's midnight-blue polo shirt. His fingers blurred across the glass of his mPad Mini:
+
+<aac>"The Gear and Rocket. You are The Stardust Engine. You heard me humming Track 13 from 'Electric Color' (1987). And you play the Vektron brass response."</aac>
+
+Cassidy beamed at him. "Brand new light. Shining so bright."
+
+Outside the gift shop glass, a paparazzo's camera flash popped in the rotunda. Without hesitating, Justin tapped his screen:
+
+<aac>"Paparazzi count: Three at North Entrance, two at South. Follow me. Officer Miller (no relation) prefers classical music and finds rock stars 'unnecessary.'"</aac>
+
+Moving with the precision of a veteran stage manager, Justin walked out into the rotunda, showed his mPad screen to a burly sixty-year-old museum guard named Officer Miller—who promptly stepped squarely in front of the shouting photographers demanding to see their Space Shuttle tickets (*"Stardust what? Is that a cartoon? Move along before I call the real police!"*)—and badged Ryan, Cassidy, Holly, Evan, Tyler, and Jessica straight through an alarmed employee patio door directly onto the **LATA Rail Expo Line** platform with three minutes to spare!
+
+As Ryan and his family disembarked at **Westwood / Rancho Park Station** at `4:00 PM` to transfer back to Santa Monica while Jessica and Justin rode one more stop home to tell their parents **Robert and Ellen Miller** about the canceled Omni-Global stipend, Holly handed Jessica her heavy embossed business card (`HOLLY O'CONNELL — CEO, Engine Room Records, LLC, Blacksburg, VA`).
+
+"Watch your email tonight, Jessica," Ryan promised from the platform. "We aren't done."
+
+***
+
+#### Part 12 & 13: The Canfield Suite War Room (`7:00 PM`)
+
+By `7:00 PM` that evening, inside **The Canfield Suite** on the top floor of the **Santa Monica Proper Hotel**, Ryan sat in his wheelchair at the dining table across from Holly, who had her laptop flanked by two **mPads** displaying the 400-page Southern District of New York bankruptcy filing: **`IN RE OMNI-GLOBAL MEDIA, INC. (CASE NO. 18-10452)`**.
+
+"Arthur Vane is filing a **Section 363 Motion** for an immediate distressed asset sale," Holly said, turning one of the mPads toward Ryan to show **`SCHEDULE A: NON-CORE ASSETS IDENTIFIED FOR IMMEDIATE DISPOSITION`**. "Look at Item 14 and Item 40."
+
+Ryan leaned forward and read the two entries:
+* **`ASSET ID: OGM-L-224 ("The Sun-Ray Catalog")`**: The shell company holding the dormant B-side publishing rights to **Mirage's** *Static & Silence*.
+* **`ASSET ID: OGM-RE-009 (Van Nuys / Burbank Archive Facility)`**: The commercial warehouse lease housing Omni-Global's **Legacy Physical Media Archive (1985–2005)**—five thousand original two-inch analog master tapes of every independent band the conglomerate had swallowed and shelved in the nineties.
+
+"If Vane rejects the warehouse lease or auctions it to a liquidator, those analog master tapes go in a dumpster," Ryan said quietly. "We need someone on the ground in Los Angeles who knows Omni-Global's internal asset codes to watch the court docket, and we need a systems architect who can catalog five thousand reels of tape—and guide us through the L.A. transit grid for the next two weeks."
+
+"Already typing," Holly smiled.
+
+On her laptop screen, Ryan read the email over her shoulder as Holly formatted the offer to cover Jessica and Justin's `$4,200` ULA tuition gap on the spot:
+
+> **From:** Holly O'Connell, CEO — Engine Room Records<br>
+> **To:** Jessica Miller<br>
+> **Subject:** Consulting Opportunity — Los Angeles (West Coast Bankruptcy Analyst & Local Transit Guide)<br>
+>
+> Dear Jessica,
+>
+> I hope you and Justin made it home safely. I have been reviewing the Omni-Global Chapter 11 filings this evening, and there are specific catalog and archival assets buried in the schedules (`OGM-L-224` and `OGM-RE-009`) that Engine Room Records intends to acquire via Section 363 sale.
+>
+> I need a local analyst in Los Angeles who knows Omni-Global's internal asset codes to monitor the court docket. I would like to offer you a remote contract position as **West Coast Bankruptcy Analyst** at a **`$1,500/month` retainer** (first month payable immediately upon signing tomorrow morning).
+>
+> Additionally, Tyler and Ryan were deeply impressed with Justin's tactical extraction at the museum today. We are in Santa Monica for 14 days and rely on public transit to avoid paparazzi. We would like to hire Justin as our **Local Transit & Logistics Guide** at the exact same **`$1,500/month` rate** (also payable immediately upon signing).
+>
+> If you and Justin are interested, please meet us for hot chocolate tomorrow morning at **`10:00 AM`** on the patio at **Dogtown Coffee** on Main Street in Santa Monica. Please bring your parents—I imagine they will have questions.
+>
+> Warm regards,  
+> **Holly O'Connell, J.D., CFA**  
+> Chief Executive Officer, Engine Room Records
+
+Holly clicked **Send**.
+
+Less than four minutes later, Holly's inbox chimed with Jessica's breathless reply: *We'll be there at 9:56 AM with our Mom and Dad! Dad just put his budget legal pad away!*
+
+## Chapter 3: The Summit, The Retrofit & The Sting Operation (September 14–25, 2018)
+
+### The Summit, The Retrofit & The Sting Operation (September 14–25, 2018)
+
+**Date:** 2018-09-14 at 09:56 America/Los_Angeles
+
+#### September 14, 2018 (`09:56 PST`) — Part 1–4: The Cocoa Protocol at Dogtown Coffee
+
+Morning marine-layer fog still hung cool and gray over Main Street in Santa Monica when Ryan spotted a clean, well-kept beige 2009 **Takamura Estate** minivan with peeling clear-coat on the hood parallel-parking down the block from the patio of **Dogtown Coffee**.
+
+From the head of the fortified patio table—flanked by Cassidy in her soft hoodie on his right, Holly with a leather contract portfolio on his left, and Evan and Tyler on the outer corners—Ryan watched a father in his late forties (**Robert Miller**) step out of the driver's side, open the sliding door, and unfold Jessica's manual wheelchair from the rear cargo well with the smooth muscle memory of a parent who had performed the transfer a thousand times. Beside him, **Ellen Miller** smoothed her blouse nervously, while **Justin** stepped onto the sidewalk, glanced up at the Main Street sign, and tapped his **mPad Mini** as the family walked up to the patio railing at `09:56 AM`:
+
+<aac>"We are 4 minutes early. On time is late. Early is on time."</aac>
+
+"Welcome," Holly said warmly, rising to shake hands with Robert and Ellen while gesturing to the wide opening beside Ryan's chair. "We saved the level spot on the end for Jessica."
+
+On the wooden table in front of the five members of **The Stardust Engine**, there wasn't a single cup of coffee. Instead, five oversized ceramic mugs of steaming hot chocolate topped with whipped cream sat warming their hands.
+
+When the waiter stepped up to take the Millers' order—black coffee for Robert, hot tea for Ellen—he glanced at Jessica and Justin. "And for the two of you?"
+
+"Hot chocolate," Ryan cut in gently with a grin. "Trust me, they make it with real melted ganache here. It's structural."
+
+Justin looked across the table at Ryan and tapped his screen:
+
+<aac>"Why no caffeine?"</aac>
+
+Ryan lifted his ceramic mug with both hands. "Caffeine makes Cassidy's muscle tone jittery, and I have enough lower-limb spasticity below T10 without pouring stimulants on the fire. So our tour protocol since 1978 has been hot chocolate. It's the great equalizer."
+
+Justin nodded once in immediate approval and sat down.
+
+When the waiter set down the leather check presenter a moment later, Robert automatically reached for his back pocket—only for Holly to slide her matte-black corporate card into the folder first.
+
+"I can pay for my family's breakfast, Ms. O'Connell," Robert said, his fatherly pride prickling slightly.
+
+"I'm renting your children's brains for the next two weeks, Robert," Holly replied with a warm but final smile. "Buy me a cup of cocoa when they graduate. Today, Engine Room pays."
+
+Opening her slim leather folder, Holly laid out two clean consulting agreements in front of Robert and Ellen:
+* **Contract A — West Coast Bankruptcy Analyst (`Jessica Miller`)**: Monitoring the Omni-Global Chapter 11 docket from home and flagging **The Sun-Ray Catalog (`OGM-L-224`)** and the **Van Nuys / Burbank Archive (`OGM-RE-009`)** before they hit the Section 363 auction block.
+* **Contract B — Local Transit & Logistics Guide (`Justin Miller`)**: Routing the band across Los Angeles for fourteen days exclusively via public transit to evade paparazzi and freeway gridlock.
+
+"The first `$3,000` combined retainer check is cut right here in the folder," Holly said, sliding the check across to Jessica. "You can pay the ULA bursar in full on Monday morning."
+
+Ellen looked around the table at the five musicians sipping hot chocolate—seeing immediately that they weren't treating her twins like charity cases, but recruiting them as specialists. "And you're sure you want Justin handling your transit schedules? He can be... very strict about departure times."
+
+"We live by strict schedules," Evan said around a mouthful of whipped cream. "If Justin says the bus leaves at `10:42`, we're on the curb at `10:41`."
+
+Justin tapped his mPad Mini:
+
+<aac>"10:40. Always leave a two-minute buffer for wheelchair ramp deployment and four-point securement."</aac>
+
+Ryan laughed out loud. "See? He's already out-scheduling Tyler."
+
+Robert smiled for the first time all week, picked up Holly's pen, and signed as witness on both contracts. "Alright. You have your consultants. Just have them home before ten o'clock, or you answer to my wife."
+
+***
+
+#### September 14, 2018 (`10:48 PST`) — Part 5–7: Pacific Blue Bus Route 3, Builder's Depot & The Retrofit
+
+Ten minutes later, aboard the **Pacific Blue Bus (Route 3)** rolling north up Lincoln Boulevard toward **Builder's Depot**, Ryan and Jessica sat locked in the twin forward wheelchair bays while Justin stood by the farebox monitoring the stop sequence on his mPad Mini:
+
+<aac>"Builder's Depot in 4 stops. Rear door exit is optimal for traffic clearance; front ramp for chairs."</aac>
+
+Jessica looked across the center aisle at Ryan's gloved hands resting on his Carbon-Fiber Veloce rims. "Ryan, I still don't understand. Why are we going to a hardware warehouse? You're staying in the Penthouse Suite at the Santa Monica Proper. Doesn't a five-star hotel already have everything?"
+
+"Even five-star hotels are designed by standing architects who have never spent twenty-four hours in a chair, Jessica," Ryan said evenly over the hum of the diesel engine. "The roll-in shower bench is always too slick. The handheld showerhead hose is five feet long instead of eight, so you can't reach it seated. And the blackout curtains always leave a half-inch gap at the drywall that shoots a laser beam of sunlight straight across the room."
+
+In the window seat behind Ryan, Cassidy pulled her hood tighter and nodded vigorously. "The sunlight gap is sharp," Cassidy murmured. "It buzzes."
+
+"So we never wait around complaining to hotel maintenance," Ryan said. "We carry a load-in retrofit kit, and we hack the room ourselves. Rule number one of the Engine: we adapt the environment to us; we never adapt ourselves to a broken environment."
+
+Inside **Builder's Depot**, Justin glanced once at the overhead hanging signs and triangulated the fastener aisle in three seconds flat:
+
+<aac>"Adhesives and Fasteners: Aisle 14, Left Side, Bin 6. Matte-black gaffer tape, industrial Velcro, and 12-inch heavy-duty zip ties."</aac>
+
+While Justin and Evan took a flatbed cart down Aisle 14, Ryan, Jessica, Cassidy, and Holly rolled toward Plumbing in Aisle 22—where an aproned store associate named Steve stepped into their path wearing a syrupy, patronizing smile and speaking in a high, slow voice:
+
+"Can I help you folks find... the elevators? Or the accessible restroom?"
+
+Ryan locked his brakes and looked evenly at the man's nametag. "We're buying a universal brass diverter valve and an eight-foot reinforced PVC shower hose, Steve."
+
+"Oh, well, plumbing fittings are pretty complicated, maybe I should call someone to—"
+
+"Steve," Holly said pleasantly, stepping forward in her tailored blazer, "we are purchasing hardware, not browsing. Please step aside; you are creating an aisle bottleneck."
+
+As Steve blinked and stepped out of the way, Ryan glanced back over his shoulder at Jessica, who was staring in amazement at how neither Ryan nor Holly had apologized for taking up space. "Come on, Jessica—we're burning daylight!"
+
+By `12:30 PM` back in **The Canfield Suite**, the penthouse had been transformed into a precision fortress: Evan stood on a chair sealing the curtain edges with matte-black gaffer tape, Tyler torqued down the eight-foot handheld shower hose in the bathroom, and Justin methodically mounted every television and climate-control remote to the side of the nightstands with squares of industrial Velcro—*Snap!*—until Cassidy stopped rocking on the sofa and exhaled in relief.
+
+"Quiet," Cassidy whispered. "The room is quiet now."
+
+<aac>"Visual entropy reduced. System stabilized."</aac>
+
+At the dining table, Jessica suddenly sat bolt upright behind her laptop, where she was logged into the SDNY bankruptcy court docket.
+
+"Holly—new filing twenty minutes ago," Jessica called out, her voice sharpening into full analyst mode. "**Motion to Reject Unexpired Leases of Non-Residential Real Property.** They're rejecting the lease on **Warehouse 4B in Van Nuys** and **The Burbank Archive Facility (`OGM-RE-009`)**!"
+
+Ryan spun his chair around from the bathroom doorway. "The Burbank Archive is where Omni-Global stores the two-inch analog master tapes for **Mirage** and twenty years of nineties bands. If the court approves lease rejection, the commercial landlord can padlock the doors or dumpster the reels by Monday."
+
+***
+
+#### September 14, 2018 (`12:45 PST`) — Part 8 & 9: The Ghost Truck & The Richter Reality Check
+
+Before Holly could answer, Cassidy suddenly stopped sorting her color-coded stack of laminate passes on the carpet near the balcony door.
+
+She tilted her head and pressed both palms flat against the floorboards.
+
+"Truck," Cassidy whispered. "Big truck coming."
+
+"We're on the seventh floor, Cass," Tyler said from the kitchenette counter. "No trucks up here."
+
+"Under the road," Cassidy insisted. "Grinding."
+
+Two seconds later, the seventh-floor suite hiccuped.
+
+It wasn't a rolling wave; it was a single, sharp vertical *THUMP*, as if a giant fist had struck the underside of the hotel foundation. The floor gave a brisk half-inch lateral shimmy, and the crystal chandelier above the dining table chimed once.
+
+Because Ryan's brakes were locked tight, the jolt traveled straight up the rigid carbon-fiber frame of his Veloce and pitched his torso forward. Without abdominal core innervation below T10 to catch himself, Ryan threw both hands out and caught his armrests just before his chest hit his knees, while the vibration set off a mild clonus tremor in his paralyzed calves.
+
+"Perimeter!" Evan barked, snapping into a defensive stance with Tyler as both twins scanned the ceiling expecting a crane collapse.
+
+In the center of the suite, neither Jessica nor Justin had even blinked.
+
+Jessica typed four letters into her browser bar, hit Enter, and looked up calmly. "That wasn't a truck. That was the **Newport-Inglewood Fault**. USGS says Magnitude `2.8`, three miles offshore."
+
+Justin tapped his mPad Mini, the synthesized voice utterly deadpan:
+
+<aac>"Minor tectonic pressure release. Background noise. If the locals do not look up from their phones, do not react, or you will look like tourists."</aac>
+
+Ryan reached down, pressed his palms firmly against his knees to stop the clonus bounce, and let out a dry chuckle as Tyler admitted they had been picturing the 1989 and 1994 highway collapses from television. Setting his mPad flat on the oak table, Justin translated California seismology into studio audio engineering terms for the band:
+
+<aac>"The Richter scale is logarithmic, like decibels. A Magnitude 2.8 is the bass player checking his tuning—a small delivery van. A Magnitude 6.8 is thirty-two thousand times more energy—the full amplifier stack blowing out the windows. Today was a sound check. Do not worry unless the drummer kicks in."</aac>
+
+"And if the drummer *does* kick in before Thursday?" Ryan asked.
+
+Justin pointed immediately to the heavy solid-oak dining table:
+
+<aac>"Under the table. Lock your brakes. Hold the frame."</aac>
+
+"Copy that, Systems Architect," Ryan grinned.
+
+***
+
+#### September 25, 2018 (`19:30 PST`) — Part 10 & 11: The Section 363 Sting & Engine Room Jurisdiction
+
+Eleven days later—at `7:30 PM` on Tuesday, **September 25, 2018**, two evenings before their scheduled flight home to Virginia—the living room of the Miller family apartment (`Unit 3B`) in Westwood smelled of takeout pepperoni pizza and high-voltage anticipation.
+
+Robert and Ellen Miller sat nervously on the sofa while Cassidy sat on the rug gently moving a red laser dot across the carpet for **Fader**, the Millers' tabby cat. Evan and Tyler flanked the front hallway, Ryan sat parked at the dining table with a slice of pizza, and Holly stood directly behind Jessica's wheelchair as Jessica's fingers hovered over her laptop keyboard.
+
+In the kitchen, sipping coffee out of ceramic mugs, stood **Sergeant Ruiz and Officer Klein** of the **Los Angeles Police Department**, retained on official civil standby by Holly's legal team.
+
+"If I download **`MASTER INVENTORY: BURBANK ARCHIVE (ASSET ID: OGM-RE-009)`** using my old credential token," Jessica whispered, "it will trip Omni-Global's automated data-exfiltration alarm at headquarters."
+
+"That's the entire point, Analyst," Holly said calmly. "We want their liquidation fixers to show up at your door in front of two badged LAPD officers. Hit Enter."
+
+Jessica pressed **Enter**. The progress bar flashed to `100%`.
+
+Exactly twelve minutes later, at `7:42 PM`, heavy fists pounded on the apartment door.
+
+*"Robert Miller! Open up! Corporate Asset Recovery!"*
+
+At Holly's nod, Tyler unlocked the deadbolt and swung the door wide. Two corporate "Fixers" in cheap suits stood in the hallway waving a tablet—and froze when they found themselves staring into the broad chests of Evan and Tyler Wright.
+
+"We have digital confirmation of trade-secret theft from this IP address!" the lead Fixer barked, pointing past the twins at Jessica's wheelchair. "Hand over that laptop right now or we call the police!"
+
+"No need to call," Holly said pleasantly, stepping into the doorway as **Sergeant Ruiz** walked out of the kitchen adjusting his duty belt. "We invited them for coffee."
+
+"She just stole the Burbank Archive inventory!" the Fixer protested to the sergeant.
+
+Holly reached inside her slate-gray blazer, pulled out a certified federal court order bearing the gold seal of the **United States Bankruptcy Court for the Southern District of New York**, and slapped it squarely against the Fixer's chest.
+
+"She didn't steal it—she was auditing *my* property at my instruction," Holly said, her voice dropping to arctic ice. "Read the caption: **`ORDER APPROVING SECTION 363 SALE OF ASSETS — SOLD TO: ENGINE ROOM RECORDS, LLC — ASSET ID: OGM-RE-009 (BURBANK ARCHIVE FACILITY & ALL CONTENTS) & OGM-L-224 (SUN-RAY CATALOG)`**. I bought the warehouse lease at three o'clock this afternoon. I bought the shelving. I bought every reel of master tape inside it. And I bought the database."
+
+Holly took one step forward, ticking off her fingers a millimeter from the trembling Fixer's nose.
+
+"My name is **Holly O'Connell, J.D., Esq.**—admitted to the Bar in Virginia, New York, Delaware, and California; **Enrolled Agent**; **Certified Forensic Accountant**; **Certified Blockchain Security Professional**; **Chartered Financial Analyst**; and **Master of Quantitative Finance**. So when I inform you that you are currently committing **Tortious Interference with a Federal Bankruptcy Asset Sale** and **Harassment of a Corporate Officer**, you can be 100% certain I know the California Penal Code sections by heart. Sergeant Ruiz, please remove these trespassers from my employee's hallway."
+
+"You heard Counselor," Sergeant Ruiz said, resting his palm on his baton as the two Fixers backed down the stairwell and bolted.
+
+When Tyler bolted the door shut behind them, Robert Miller let out a long, shaky breath and looked at Holly. "Once your band flies back to Virginia on Thursday morning, Ms. O'Connell... Omni-Global's restructuring lawyers are still going to come after Jessica with nuisance subpoenas in California, aren't they?"
+
+"They'll try if she stays in the Ninth Circuit," Holly said honestly, sitting down across from Robert and Ellen and sliding a thick maroon-and-orange **Commonwealth Polytechnic Institute** transfer and housing folder across the dining table. "Which is why we want to hire both Jessica and Justin full-time—and bring them home with us to **Engine Room Jurisdiction** in **Blacksburg, Virginia**."
+
+Justin stepped away from the front window and tapped his mPad Mini:
+
+<aac>"Threat assessment in Los Angeles: High. In Virginia, Holly O'Connell is the home team."</aac>
+
+"If they live in our barrier-free apartment suite inside the Warehouse on Progress Street, work at Engine Room headquarters, and transfer into **CPI** for the Spring semester on a full Engine Room scholarship that pays off every penny of their existing student loans," Holly explained gently to Robert and Ellen, "any lawyer who wants to serve them a piece of paper has to file in Montgomery County, Virginia—where I will bury them in motions before they clear Roanoke."
+
+Robert looked from Evan and Tyler guarding his front door, to Ryan sitting eye-to-eye with his daughter, to Cassidy gently petting **Fader** on the carpet, and finally to Jessica and Justin's shining eyes.
+
+"You fly out Thursday morning?" Robert asked quietly. "And there's room for the cat?"
+
+"Thursday morning," Ryan promised, reaching across the table to shake Robert's hand. "And we never leave family behind."
+
+Justin typed a final line on his mPad Mini:
+
+<aac>"Assets secured. Fader carrier prepped. Protocol: Virginia."</aac>
+
+## Chapter 4: The Transfer Protocol (September 27, 2018)
+
+### The Transfer Protocol (September 27, 2018)
+
+**Date:** 2018-09-27 at 17:50 America/New_York
+
+#### September 27, 2018 (`17:50 EDT`) — Part 1: Descent into the Blue Ridge
+
+The evening approach into Roanoke was nothing like the descent into Los Angeles. There was no endless grid of amber freeway interchanges, no brown smog layer choking the horizon, and no stack of wide-body jets holding over the ocean.
+
+Outside the cabin windows rose the ancient, timbered ridges of the **Blue Ridge Mountains**, dark green and gold in the late-September dusk as the Gateway Airlines jet banked left to line up with the valley floor. The landing gear deployed with a mechanical *thud-hiss* that vibrated through the floorboards.
+
+In the aisle seat of Row 2, **Ryan O'Connell** pressed his right palm firmly against his knee to ground the mild altitude-pressure spasm in his paralyzed legs and glanced back at Row 4.
+
+Behind Evan and Tyler in Row 3—who were already sitting with their arms crossed like a breaching team waiting for the cabin chime—nineteen-year-old **Justin Miller** had the **Roanoke Valley Transit (RVT)** route map overlaid with real-time altitude telemetry on his dimmed **mPad Mini**, while **Fader** the cat slept curled inside his airline carrier beneath **Jessica's** seat.
+
+Justin tapped his screen and held it angled so both Jessica and Ryan could read the mission clock:
+
+<aac>"Landing at 5:50 PM. Taxi time estimate: 4 minutes. We have 21 minutes to deplane, claim baggage, and reach the curb. Target: Route 25 Bus. Departs 6:15 PM. Connects to the 6:45 PM Pulse at Third Street Station."</aac>
+
+"That's a tight connection, J," Jessica whispered, adjusting her glasses. "If the baggage carousel is slow or the gate check takes too long—"
+
+<aac>"Variables accounted for. Ryan has Pre-Board priority; our Carbon and manual frames are at the forward door; and the Ironhead twins have cleared the lane."</aac>
+
+"We're also fine because I called RVT dispatch from our layover in Nashville," Holly added calmly from the Row 2 window seat without looking up from her tablet.
+
+The jet flared over the runway threshold, touched down with a crisp chirp of rubber at **`5:50 PM`**, and roared under reverse thrust to make the midfield taxiway turnout.
+
+"Wheels down, five-fifty on the nose," Ryan called back to Row 4. "Justin, are we green for the transit link?"
+
+Justin checked his GPS groundspeed, calculated the rollout distance to the gate, and held up a single crisp thumb: *Green.*
+
+***
+
+#### September 27, 2018 (`18:10 EDT`) — Part 2 & 3: The Third Street Station Pulse (`180 Seconds`)
+
+At `6:10 PM`, the seven of them burst through the terminal sliding doors into the cool Virginia mountain evening just as a 35-foot low-floor bus rounded the loop with its destination sign reading **`25 — AIRPORT / VALLEY VIEW`**.
+
+The suspension knelt with a hydraulic hiss, the front ramp deployed, and Ryan and Jessica rolled directly into the twin forward securement bays—brakes locked, elbows tucked, four-point straps clicked home in thirty seconds flat.
+
+Holly stepped up to the farebox with a crisp ten-dollar bill and four ones from her travel envelope. "Seven passengers to **Third Street Station**—two dollars local fare each, plus seven paper transfers for the `6:45 PM` **Roanoke Express**."
+
+"You'll hit the Pulse right on the button, hon," the cheerful driver smiled, tearing off seven paper transfer slips and handing them to Tyler. "We dock at `6:40`. I'll radio dispatch right now and let the Express driver in Bay 4 know he has two wheelchairs incoming so he can have his hydraulic lift open and waiting."
+
+At **`6:40 PM`**, the Route 25 bus rolled into **Third Street Station** in downtown Roanoke as a dozen city buses converged simultaneously around the open-air transfer island in a synchronized clockwork choreography: arriving together at `:40` past the hour, exchanging passengers across the concrete platform for five minutes, and departing together at `:45`.
+
+Justin watched the synchronized docking lineup through the window, his fingers flying across his mPad Mini:
+
+<aac>"Pulse system. Synchronized multi-route arrival. Highly efficient. Five-minute transfer window—do not loiter."</aac>
+
+The instant the Route 25 ramp hit the concrete, Evan and Tyler cleared a lane straight across the platform to **Bay 4**, where a massive high-floor highway motorcoach idled with its amber LED sign glowing:
+
+> **`ROANOKE EXPRESS — BLACKSBURG / CPI`**
+
+"Transferring from the 25!" the Express driver called out warmly, already standing beside the open mid-ship hydraulic wheelchair lift door. "You folks made it with three minutes to spare—let's get these chairs aboard!"
+
+One after another, the heavy industrial lift raised Ryan's Carbon-Fiber Veloce and Jessica's manual chair up into the warm coach cabin while Tyler fed the seven paper transfer slips plus seven crisp one-dollar upgrade bills into the farebox. As Jessica locked her brakes beside Ryan's chair, the digital station clock clicked to **`6:45 PM`**, the coach doors hissed shut, and the highway cruiser rumbled out of Bay 4 toward Interstate 81.
+
+"Route: **Roanoke Express**," the automated cabin speaker chimed as the coach accelerated up the highway on-ramp. "Service to **Blacksburg** and **CPI**."
+
+***
+
+#### September 27, 2018 (`19:15 EDT`) — Part 4 & 5: The Christiansburg Timepoint Hold & CPI Transit Center
+
+As the heavy diesel engine roared up the long mountain grade of **Interstate 81 South** toward the Allegheny plateau, Justin watched the GPS speedometer on his dimmed mPad Mini and tapped a note as the coach signaled right for **Exit 118B**:
+
+<aac>"Exiting interstate. Diverting to secondary commuter stops: the Christiansburg loop."</aac>
+
+"Good eye," Ryan said across the aisle, shifting his weight slightly on his cushion. "The Express sweeps the Christiansburg park-and-ride lots before climbing the final ridge to campus."
+
+At **Falling Branch Park and Ride**, a single tired student in a maroon CPI engineering hoodie climbed aboard into the quiet cabin while late-September crickets chirped outside. Five minutes later, the coach pulled up to the curb at **New River Plaza**—Christiansburg's main shopping center and transfer hub for **Blue Ridge Transit Route 1**.
+
+The doors folded open onto a completely empty sidewalk. Nobody was waiting to board, and nobody pulled the stop cord to exit.
+
+Yet the driver didn't close the doors. He leaned back in his seat, glanced at his dashboard chronometer, and waited in silence as twenty seconds ticked by.
+
+Jessica glanced curiously at her brother. "Why aren't we moving? The intersection light is green."
+
+Justin stared at the driver's dashboard clock with deep, reverent focus and tapped his mPad Mini:
+
+<aac>"Holding for timepoint. He is respecting the published schedule."</aac>
+
+"Exactly," Ryan nodded, smiling toward the open doorway. "A real transit system never leaves a timepoint early. If the timetable says `7:25`, you hold until `7:25:00` even if the curb is empty. Reliability over speed."
+
+On the exact stroke of `7:25:00`, the driver muttered, *"Clear,"* closed the doors, and merged onto the **US-460 Bypass** for the final climb into Blacksburg.
+
+At **`7:45 PM`**, as the glowing campus skyline of limestone and gray **Ironstone** rose on the hill to their right, the coach exited onto Prices Fork Road, turned onto West Campus Drive, and pulled into the bustling **Commonwealth Polytechnic Institute Transit Center** surrounded by sixty-foot articulated **Blue Ridge Transit** buses flashing `1 FALLING BRANCH` and `1 CPI TRANS CTR`.
+
+As the hydraulic lift lowered Ryan and Jessica onto the crisp autumn sidewalk—twenty degrees cooler than Los Angeles and smelling of fallen oak leaves and mountain stone—Holly unzipped a garment bag and handed Jessica and Justin matching insulated bomber jackets embroidered with the silver **Engine Room Records** rocket-and-gear crest.
+
+"Welcome to campus," Holly said.
+
+Ryan pointed north toward the traffic signal at the edge of the transit loop. "That light is **Turner Street**. Four-tenths of a mile on level concrete sidewalk straight to our front door. Let's roll."
+
+***
+
+#### September 27, 2018 (`20:00 EDT`) — Part 6 & 7: Forgertown, Progress Street NE & Suite B
+
+As the seven of them rolled down the wide sidewalk of Turner Street past glowing pizza parlors and late-night copy shops toward the intersection of **Progress Street NE**, Jessica noticed something that made her blink in disbelief.
+
+Dozens of college students were walking past them under the streetlights. A trio of undergrads in maroon CPI hoodies walked right past **Ryan O'Connell**—one of the most recognizable rock musicians on the planet—and nobody screamed. Nobody shoved a camera lens in his face. One of the students simply smiled, tapped his fist twice over his heart, and said quietly:
+
+"Evening, Forgers."
+
+"Evening, guys," Ryan replied warmly, returning the two-tap salute.
+
+Jessica stared after them as they walked on. "They... they didn't mob you. In Los Angeles, we needed a security guard just to get out of a gift shop."
+
+"We aren't in Los Angeles anymore, Jessica," Tyler said, grinning under the streetlights. "We're in **Forgertown**."
+
+Holly pointed south, where the floodlit concrete rim of the sixty-five-thousand-seat football stadium—**The Crucible**—rose against the starry mountain sky.
+
+"In 1986, we wrote [**'Ignition'**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-the-forgers-call?track=1-01-ignition-the-forgers-call) right down the street," Holly said softly. "When the team runs out of the tunnel at The Crucible, sixty-five thousand people jump until the seismographs in the geology building register an earthquake. Here in Blacksburg, we aren't tabloid celebrities—we're **Class of '89 Alumni** and neighbors. The town *is* our perimeter."
+
+At the corner of **Progress Street NE**, Tyler placed his palm against the biometric reader beside the heavy steel door plated **`ERR — LOGISTICS & DISTRIBUTION`**. With a soft *beep-click-thunk*, the acoustic door swung wide, and Ryan led them inside.
+
+The door sealed behind them with a quiet pneumatic hush, and Jessica's jaw dropped.
+
+Instead of a cold industrial warehouse, they rolled onto heated, mirror-polished concrete floors inside a warm, timber-and-brick Great Room that looked like a cross between a world-class recording facility and a Blue Ridge mountain lodge—complete with wheelchair-height chef's kitchen counters, a sunken leather lounge served by a gentle 1:12 integrated ramp, and a glass-walled central courtyard planted with ferns and Japanese maples open to the stars overhead.
+
+Justin stopped his suitcase and looked up at the parallel conduit runs and cloud-suspended acoustic baffles along the ceiling, tapping his mPad Mini:
+
+<aac>"Full acoustic treatment. Zero slapback echo. Zero 60-hertz transformer hum. Sensory-friendly."</aac>
+
+"Cassidy engineered the room acoustics herself," Ryan said proudly. "Zero noise floor. Just the signal."
+
+Leading them down the threshold-free east corridor, Holly badged open a wide oak door marked **`SUITE B`**.
+
+Inside lay a spacious, barrier-free apartment suite with a roll-in spa shower, a full kitchenette, a dedicated litter and climbing alcove for **Fader**, and—anchored safely in the quiet interior corner of the bedroom area—a single, massive **California King bed** flanked by two nightstands wired with high-amperage charging ports for medical gear and **mPads**.
+
+"We set up the room to match your **Twin Protocol** from Santa Monica," Holly said gently. "Shared sleeping surface, firm mattress for transfers, grounding proximity."
+
+Jessica rolled into the center of the bedroom, her eyes filling with tears as she remembered how ULA housing had forced her and Justin into separate twin beds divided by a bolted desk that they had to secretly shove together every night. Here on **Progress Street NE**, nobody made them explain or ask for a waiver.
+
+"Proximity stabilizes the system," Ryan said from the open doorway. "Touch that wall switch beside the high window, Jessica."
+
+Jessica reached up and flipped the toggle. Instantly, the frosted privacy film on the high smart-glass window turned crystal clear—revealing the illuminated gray **Ironstone** towers and arched windows of a grand campus building just four hundred yards across the lane, glowing with studying students in the autumn night.
+
+"That," Ryan said, rolling up beside her chair and pointing through the glass, "is **Kincaid Hall**—the CPI Student Center. Bowling lanes, ballroom—where we played *'Ignition'* for the first time in 1986—student organizations, and a late-night burrito counter that got me through Structural Engineering. You can roll from your front door to class in five minutes flat. Welcome to the Forger Nation, Jessica."
+
+In the center of the living area, Justin set Fader's carrier down, looked once around the silent, step-free suite, looked at Ryan and Holly, and gave a single, definitive nod before tapping one word on his **mPad Mini**:
+
+<aac>"Acceptable."</aac>
+
+Ryan grinned and spun his Carbon-Fiber Veloce toward the studio wing. "Glad it meets spec, Systems Architect. Get some rest, you two. Tomorrow morning, we start cataloging the Burbank master tapes—and we get to work."
 
