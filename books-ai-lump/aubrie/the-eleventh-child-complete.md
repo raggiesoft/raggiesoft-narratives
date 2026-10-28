@@ -4756,6 +4756,106 @@ It was a mirror of the grounding deep pressure Aubrie and Lauren had given him, 
 
 Lying there in the quiet dark, held closely by one of his best friends while his girlfriend slept peacefully just six feet away, Jordan felt his heart rate slow into a steady, rhythmic calm. After eighteen years of isolation and terror in the dark, his nights were now guarded by a rotating constellation of people who loved him simply for who he was. He closed his eyes and drifted effortlessly into a dreamless sleep.
 
+### Part 8: The Standing Man's Raincoat & A Manual Chair in the Storm
+
+**Date:** 2014-09-24 at 14:45 America/New_York
+
+#### September 24, 2014 • 2:45 PM — What His Mother Packed
+
+When **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** had rolled into **Archer Hall** at one-thirty on Wednesday afternoon, the sky above the Blue Ridge plateau had been a deceptively calm slate gray.
+
+By the time their lecture let out at `14:45` and the nine of them reached the ground-floor vestibule doors facing **Commonwealth Green**, a cold, driving late-September mountain deluge had swallowed the campus whole. Sheets of forty-eight-degree rain lashed sideways across the brick walkways, turning the gutters along the quad into rushing brown streams and drumming furiously against the glass entrance doors.
+
+"Whoa," **Madison** breathed, peering out through the vestibule glass as gusts of wind sent crimson and yellow maple leaves plastering against the wet **Ironstone** columns. "That is a real mountain downpour."
+
+"Good thing we stays on campus between here and **Bennett Hall**," **Mark** said, pulling three compact umbrellas from the side pockets of their backpacks. "Jordan, did your mom pack a raincoat in your trunk?"
+
+Sitting in the clunky, forty-five-pound institutional manual hospital wheelchair he had brought from Virginia Beach, Jordan nodded. Before he could put on a jacket, however, he faced the first ruthless reality of being a non-verbal wheelchair user in a storm: his voice wasn't waterproof.
+
+Looking down at his **`Pinnacle Vanguard Pro`** laptop resting on his lap, Jordan typed one quick sentence before the damp vestibule air could reach the keyboard:
+
+<aac>I have to put my computer inside my backpack so the rain doesn't ruin it, and take my hearing aids off so they don't get wet.</aac>
+
+"Smart call, J," **Aubrie Jean** said immediately, kneeling beside his left wheel while **Zoë** opened the waterproof padded compartment of his backpack and stored both his laptop and his digital behind-the-ear hearing aids inside a dry microfiber pouch. "Don't worry about not having your keyboard between here and Bennett Hall—Madison and I are right beside your shoulders. Just tap our wrists or nod if you need anything at all."
+
+From the bottom compartment of his bag, Aubrie Jean pulled out the folded navy-blue nylon raincoat that **Aubrie Sinclair** had packed for him in Virginia Beach and helped Jordan slip his arms through the sleeves.
+
+The moment they zipped the coat up over his chest, **Lauren** and **Hannah** exchanged a troubled frown.
+
+It wasn't a wheelchair poncho or a seated rain cape. It was a stiff, off-the-rack **standing man's raincoat**—bought from a department store rack by a mother who had never once consulted an occupational therapist, never asked how a wheelchair user stays dry outdoors, and never intended for her son to roll anywhere on his own anyway.
+
+Because Jordan was seated at a ninety-degree angle in his wheelchair instead of standing upright, the long, stiff bottom hem of the raincoat couldn't hang straight down. Instead, the heavy waterproof nylon bunched up awkwardly across his thighs and folded into a deep, rigid trough right across his waist and lap, while the stiff cuffs stopped two inches short of his wrists, leaving his bare hands completely exposed.
+
+Neither Jordan nor his friends realized until they pushed open the exterior doors of **Archer Hall** just how cruel that design flaw truly was.
+
+***
+
+#### 2:52 PM — Zero Friction on Wet Chrome
+
+The instant they stepped out from under the stone portico of Archer Hall onto the exposed walkway bordering **Commonwealth Green**, the sideways mountain wind caught the rain and drove it straight into their faces.
+
+**Aubrie Jean** and **Madison** walked close at Jordan's left and right shoulders, angling their compact umbrellas as low over his head and chest as they could, while **Mark** and **Lauren** walked half a step behind his rear wheels ready to spot him.
+
+Wanting desperately to push his own chair across the quad like any other college student rather than making his friends do all the work in the freezing rain, Jordan gripped the bare chrome-plated steel handrims of his hospital wheelchair and pushed forward.
+
+Within thirty feet, everything went wrong at once.
+
+First came the **tires and handrims**. Because the cheap institutional hospital wheelchair had no fender splash-guards over its twenty-four-inch rear wheels, every single rotation of the solid rubber tires lifted a ribbon of gritty, ice-cold puddle water off the asphalt and flung it straight up against Jordan's bare hands, wrists, and coat sleeves. Worse still, bare wet skin on wet chrome-plated steel had **zero friction**. As the walkway tilted upward on even a gentle three-degree grade across the green, Jordan's freezing, rain-slicked palms slipped straight off the wet metal handrims. His knuckles scraped raw against the cold steel tire brackets, the chair stalled, and the heavy frame immediately started to roll backward down the wet concrete.
+
+Second—and far more miserable—came **the standing man's raincoat**.
+
+Every drop of rain that blew past the umbrellas and hit the front of Jordan's chest ran straight down the waterproof nylon jacket. On a standing person, that water would have dripped off the bottom hem onto the sidewalk. On a seated wheelchair user wearing a standing coat, the bunched-up fabric folds at Jordan's waist acted like a funnel and a catch-basin.
+
+Within ninety seconds, a freezing, deep puddle of forty-eight-degree rainwater had collected right in the trough of his lap. With nowhere else to go, the icy water seeped straight through the front zipper placket, soaking completely through his denim jeans, his underwear, and the cracked vinyl-and-foam cushion of the hospital chair underneath him.
+
+Sitting in an expanding pool of freezing water with his hands slipping helplessly off the wet chrome handrims, his hearing aids packed away in the muffled roar of the rain, and his laptop zipped inside his backpack where he couldn't even type *I'm soaking wet and my hands can't grip the wheels*, Jordan felt a wave of humiliating helplessness tighten around his throat. His jaw clenched to hold back a shiver as his wet right hand slipped off the chrome rim for the fourth time in ten yards.
+
+Right beside his left shoulder, **Aubrie Jean** looked down—and saw everything in a single glance.
+
+She saw Jordan's raw, red knuckles slipping off the slick wet chrome. She saw the dark, freezing puddle of water pooled in the bunched-up folds of the standing raincoat across his lap. And when she met Jordan's eyes behind his rain-speckled glasses, she read the silent distress in his gaze and the two tight taps of his freezing fingers against the armrest without needing a single word from a computer screen.
+
+"Stop, guys—hold up!" Aubrie Jean called out over the drum of the rain, dropping her left hand immediately to cover Jordan's freezing left hand while **Madison** reached down on his right side and gently lifted his wet right hand off the slick chrome rim.
+
+"Mark, Lauren," Madison said urgently, translating Jordan's silent cues on the spot as Jordan looked up at her with grateful, shivering relief, "his hands are freezing and slipping right off the wet metal, and look at his coat—the water is funneling straight down the front and pooling in his lap!"
+
+**Mark** looked down at the bunched-up department-store raincoat and the bare chrome wheels, and a flash of quiet, protective anger crossed his face—not at Jordan, but at the woman in Virginia Beach who had sent a paralyzed eighteen-year-old to the mountains with a standing person's raincoat and an unguarded hospital chair.
+
+"Hands off the rims and tuck 'em straight inside your coat against your ribs, J," Mark said firmly and warmly, stepping squarely behind the rear push-handles while **Lauren** gripped the left handle beside him. "We've got the drive wheels the rest of the way. Aubrie, Mads, bring your umbrellas down right in front of his knees to block the wind spray. Let's get him inside **Bennett Hall** right now."
+
+Jordan didn't fight them. Tucking his raw, freezing hands beneath his forearms, he leaned back as Mark and Lauren powered the heavy hospital chair briskly across the rest of the quad and straight into the ground-floor inner-quad lobby of **Eleanor Bennett Commonwealth Hall**, taking the interior elevator up to the dry second-floor hallway and unlocking **Room 214**.
+
+***
+
+#### 3:08 PM — Never Sitting in a Cold Puddle Again
+
+The second the heavy oak door of **Room 214** clicked shut behind them, the full extent of what the standing raincoat had done became clear.
+
+Jordan was shivering so hard his teeth were chattering. When **Mark** and **Lauren** helped **Aubrie Jean** and **Madison** unzip the navy-blue nylon jacket and peel it off his shoulders, the entire lap and seat of Jordan's denim jeans—from his belt line down to mid-thigh—were sopping wet with icy rainwater, and the vinyl cushion of the hospital wheelchair had a quarter-inch puddle sitting in the depressed center crease.
+
+"That coat is an absolute trap," **Hannah** said, horrified as she pressed a dry bath towel against the soaked seat of the chair after Mark and Aubrie Jean lifted Jordan onto the dry lower bunk. "It literally funneled every drop of rain off his chest straight into his lap!"
+
+"Because it was built for someone standing on two feet," **Zoë** said, her voice clipped with clinical precision as she knelt to retrieve Jordan's laptop and hearing aids from the dry inner compartment of his backpack. "A standard bipedal rain jacket creases horizontally at the hip flexor when seated at ninety degrees, creating a hydrostatic reservoir directly over the groin andischial tuberosities. Furthermore, anodized or chrome handrims lose approximately eighty-two percent of their dry coefficient of friction when wet."
+
+While Mark, Hannah, Lauren, Sarah, Jessica, and Zoë stepped through the connecting bathroom into **Room 216** so Jordan could get warm, **Aubrie Jean** and **Madison** moved with the practiced, sisterly tenderness that had defined Room 214 since their second night on campus.
+
+Working quickly and gently, they helped Jordan out of his freezing, waterlogged jeans, socks, and damp shirt, dried his chilled skin and raw knuckles with warm bath towels, and helped him dress in his softest grey fleece sweatpants, thick wool socks, and a dry maroon **CPI Forgers** hoodie. Wrapping a thick comforter around his shoulders on the lower bunk while the hospital chair cushion dried by the radiator, Aubrie Jean sat right beside him and held his hands between hers until the shivering stopped, while Madison handed him his dry hearing aids and set his **`Pinnacle Vanguard Pro`** on his lap.
+
+Jordan slipped his hearing aids back over his ears and typed with fingers that were finally warming up:
+
+<aac>Thank you for reading my eyes out there on the walkway when I didn't have my voice. I felt so stupid not being able to push my own wheels in the rain.</aac>
+
+"Hey—don't you dare call yourself stupid, Jordan Fuller," Madison said fiercely, sitting on the edge of the mattress on his other side and resting her hand on his shoulder. "Nobody on earth could push bare wet chrome rims uphill in forty-eight-degree rain! And that coat your mother bought wasn't made for a wheelchair."
+
+From the doorway of the connecting bathroom, **Zoë** walked back in holding her tablet turned toward the bunk.
+
+"I have already rectified the equipment deficit," Zoë announced calmly, pointing to two confirmed overnight supply orders on her screen. "First: a contoured **Wheelchair Rain Cape** engineered specifically for seated posture—cut full-length in the front to drape completely over the knees, shins, and footplate so rainwater sheds directly onto the pavement, and tailored short in the back above the push-handles so fabric never pools in the lap or entangles in the axles. Second: a pair of high-friction **neoprene rubberized wheelchair push-gloves** with textured silicone palms designed to grip wet metal handrims."
+
+Zoë glanced down at the stiff navy-blue standing raincoat lying crumpled by the radiator.
+
+"As for that garment," Zoë added dryly, "it is going straight into the campus clothing donation bin outside Kincaid Hall as soon as the rain stops."
+
+Leaning his head against Aubrie Jean's shoulder while Madison tucked the warm comforter around his knees, Jordan let out a long, grateful breath as the steady drum of autumn rain tapped harmlessly against the window glass of Room 214.
+
 ## Homecoming & The Safe Harbor
 
 ### Part 1: The Door Decorating Contest & Game Day
@@ -11607,7 +11707,7 @@ Madison reached out and squeezed Jordan’s hand through her tears.
 
 ## The S.S. Freedom & Closing the Old Lady
 
-### Part 1: Three Hundred and Fifty Pounds of Freedom & Stripping Room 214
+### Part 1: Three Hundred and Fifty Pounds of Freedom & Maiden Voyage of the S.S. Freedom
 
 **Date:** 2015-03-16 at 13:30 America/New_York
 
@@ -11768,7 +11868,116 @@ Even within the narrow footprint of a 1960s dormitory room, there was no rush, n
 
 When they finally drifted off to sleep after midnight—with **Sarah** and **Jessica** curled bare and warm against Jordan's left and right sides on **Bed A** for their long-promised overnight turn, **Aubrie Jean** and **Madison** reaching across the narrow aisle from the lower bunk (**Bed B**) to hold his hands, and **Zoë** and **Lauren** nestled up on the top bunk (**Bed C**)—Jordan rested his palm lightly over the center of his chest, remembering the sacred **Heart-Hum** name (*The Key*) that **Bob** and **Emily** had given him in Bluewater, and drifted into a deep, peaceful sleep.
 
+### Part 2: Wet-Weather Rigging & Piloting the S.S. Freedom Through the Storm
+
+**Date:** 2015-04-09 at 14:45 America/New_York
+
+#### April 9, 2015 • 2:45 PM — The Archer Hall Vestibule
+
+When **Dr. Marcus Gable** dismissed **HIST 115** at quarter to three on Thursday afternoon, the rumble of spring thunder was already echoing across the limestone arches of **Commonwealth Polytechnic Institute**.
+
+By the time **Jordan**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica** rode the elevator down to the ground-floor vestibule of **Archer Hall**—the exact same stone entryway where a late-September storm had trapped Jordan in his mother's hospital wheelchair and a standing man's raincoat seven months earlier—a torrential April mountain downpour was hammering **Commonwealth Green**.
+
+Sheets of rain cascaded off the slate eaves in silver curtains, turning the brick and asphalt walkways into gleaming dark mirrors and sending rivers of water rushing down the twelve-degree hillside grade beside **Eleanor Bennett Commonwealth Hall** across the quad.
+
+Seven months ago, standing inside this exact vestibule and staring out at the pouring rain had filled Jordan's chest with dread. Back then, stepping out into the storm had meant losing his voice inside a backpack, watching his bare hands slip helplessly off freezing wet chrome handrims, and sitting in an icy puddle of water funneled straight into his lap by a standing person's coat while Mark and Lauren pushed him from behind.
+
+Today, sitting in the contoured biomechanical cockpit of his three-hundred-and-fifty-pound matte-black ***S.S. Freedom*** (`Vanguard Titan-X350`), Jordan didn't feel a trace of fear.
+
+Instead, he tapped two keys on his **`Pinnacle Vanguard Pro`**:
+
+<aac>Initiating Wet-Weather Rigging Protocol. Let's button up the ship.</aac>
+
+"Aye-aye, Captain," **Mark** grinned, unzipping the dedicated weather-gear saddlebag mounted behind the headrest of the *S.S. Freedom* while **Aubrie Jean**, **Madison**, and **Zoë** stepped into position with the effortless synchronization of a pit crew.
+
+Because a Group 3 complex rehab power wheelchair relies on high-amperage brushless motors, electromagnetic braking, and sensitive Hall-effect electronics, driving safely through a mountain rainstorm required protecting three specific systems before crossing the threshold:
+
+##### 1. The R-Net Joystick Rain Gauntlet
+While the undercarriage, sealed AGM battery boxes, and dual four-pole center-drive motors of the *Vanguard Titan-X350* were sealed to `IPX4` splash-resistant tolerances, the proportional **R-Net color LCD joystick module** on Jordan's right armrest was the neural heart of the chair. If rainwater ran down the stainless-steel joystick shaft past the rubber gaiter boot or seeped behind the mode buttons, moisture could short the circuit board and trigger an emergency controller lockup.
+
+From the rear saddlebag, **Mark** pulled out the custom **Joystick Rain Gauntlet** that **Marcus Vance** at Blue Ridge Complex Rehab had delivered with the chair: a domed, heavy-gauge medical silicone and crystal-clear polycarbonate weather hood with a watertight neoprene wrist cuff.
+
+Sliding the gauntlet over the right armrest module and snapping the waterproof gasket collar snugly behind the mounting bracket, Mark checked the seal as Jordan slid his right hand through the dry neoprene cuff. Through the crystal-clear top window, the glowing R-Net color LCD screen was 100% visible, and Jordan's fingers rested completely dry over the soft-touch joystick ball inside the sheltered dome.
+
+##### 2. Securing the Voice & The Contoured Wheelchair Rain Cape
+Next, **Zoë** placedJordan's digital behind-the-ear hearing aids into their desiccant hard case inside his dry backpack, snapped the waterproof polycarbonate storm shell over his **`Pinnacle Vanguard Pro`**, and swung the articulating mounting arm flat against his lap so it would sit completely sheltered underneath his outer shell.
+
+Then **Aubrie Jean** and **Madison** unfolded Jordan's charcoal-and-maroon **Contoured Wheelchair Rain Cape** (`Gore-Tex 3-Layer Seated Mobility Shell`).
+
+Unlike the standing person's raincoat that had turned his lap into a freezing catch-basin in September, this garment had been engineered from the ground up for a seated power-chair user:
+* **Full-Length Weighted Front Apron:** The seamless front panel draped smoothly from Jordan's chin all the way over his knees, shins, and the front lip of the *S.S. Freedom*'s aluminum footplate, held taut by an elastic under-footplate stirrup so every drop of rainwater shed straight onto the pavement ahead of the front casters without a single crease where water could pool.
+* **High-Cut Back & Sealed Armrest Pass-Throughs:** In the back, the cape was tailored short to seal cleanly over the top of the backrest frame—leaving the breathable charcoal ballistic-mesh upholstery and Jordan's **fluid-cell memory cushion** 100% bone-dry inside the cockpit while keeping fabric completely clear of the six suspension wheels.
+* **Over-the-Gauntlet Sleeve Seal:** The right sleeve cuff cinched neatly over the collar of the clear Joystick Rain Gauntlet, forming a continuous waterproof seal from Jordan's hood down to his joystick fingertips.
+
+##### 3. `Profile 2: Wet-Weather Traction` & Amber-White Path-Lights
+Inside the dry silicone gauntlet, Jordan tapped the mode button on his R-Net controller twice, stepping the drive computer down from `Profile 3 (Sidewalk Cruise)` to **`Profile 2 (Wet-Weather / Low-Acceleration Torque)`**.
+
+On wet concrete, slick painted crosswalk stripes, and rain-polished **Ironstone** flagstones, sudden bursts of torque or abrupt electromagnetic braking can cause power-chair drive tires to break traction. In `Profile 2`, the controller automatically softened the initial acceleration ramp by forty percent and stretched out the regenerative deceleration curve so that releasing the joystick brought the three-hundred-and-fifty-pound chassis to a velvet-smooth, non-skid stop even on a twelve-degree wet grade.
+
+With a flick of his index finger inside the gauntlet, Jordan toggled the auxiliary lighting switch. Instantly, the **integrated amber-and-white LED fender path-lights** tucked into the *S.S. Freedom*'s matte-black front fenders blazed to life, casting two crisp, high-visibility beams across the vestibule glass.
+
+> `[ZOË.Systems.Logs // 2015-04-09 14:51:18 EDT]`<br>
+> `VESSEL: Vanguard Titan-X350 ("S.S. Freedom") — Wet-Weather Configuration`<br>
+> `CONTROLLER_PROTECTION: Silicone/Polycarbonate Joystick Gauntlet Sealed (Ingress Risk: 0.0%)`<br>
+> `DRIVE_PROFILE: Profile 2 (Low-Torque Wet Traction / Extended Regenerative Braking)`<br>
+> `LIGHTING: Dual Amber/White Fender LEDs Active. Cleared for Archer-to-Bennett Campus Crossing.`
+
 ***
+
+#### 2:52 PM — Roommate Fluency in the Downpour
+
+**Lauren** hit the interior handicap door button, and the nine of them stepped out of **Archer Hall** into the roaring April rain to cross campus back home to **Bennett Hall**.
+
+Nobody stood behind Jordan's backrest. Nobody had to push.
+
+Popping open their wide, wind-vented maroon **CPI** golf umbrellas, **Aubrie Jean** and **Madison** took their familiar positions right beside Jordan's left and right wheels, while **Mark**, **Hannah**, **Zoë**, **Lauren**, **Sarah**, and **Jessica** walked alongside them.
+
+As the *S.S. Freedom*'s six independent suspension wheels rolled out onto the rain-swept walkway of **Commonwealth Green**, the difference from September took Jordan's breath away.
+
+Heavy raindrops drummed against the hood of his contoured wheelchair cape and streamed cleanly down the taut, angled front apron straight past his footplate onto the asphalt. Beneath the cape, his jeans, his lap, and his fluid-cell seat cushion were completely warm and dry. Inside the transparent silicone gauntlet, his right hand was toasty warm as he guided the joystick with two fingers, the amber-and-white LED fender lights slicing through the grey curtain of rain and reflecting off the wet puddles ahead.
+
+Halfway across the green, as a gust of wind sent a miniature waterfall splashing off the branches of an old oak tree, Jordan wanted to make a joke—even with his laptop folded dry underneath his rain cape.
+
+He glanced up at **Aubrie Jean** on his left and **Madison** on his right, grinned behind his glasses, tapped two fingers twice against his left knee under the cape where Aubrie Jean could see the motion, pointed his left thumb back toward Archer Hall, and gave an exaggerated shiver followed by a triumphant thumbs-up toward his dry lap.
+
+Having lived with Jordan in **Room 214** every single day for eight months, Aubrie Jean and Madison didn't need a synthesizer voice to understand every syllable.
+
+"He’s saying," **Madison** laughed out loud over the drum of the rain, grinning down at Jordan as he nodded enthusiastically, *"Remember back in September when that awful standing raincoat turned my lap into a swimming pool on this exact sidewalk?"*
+
+"And the thumbs-up means," **Aubrie Jean** added warmly, squeezing his left shoulder as she matched his stride beside his wheel, *"Zero leaks in the hull today—100% dry in the captain's chair!"*
+
+Jordan beamed from ear to ear, giving them both a single confirming nod.
+
+***
+
+#### 3:00 PM — Climbing the Wet Bennett Hall Hillside
+
+At the eastern edge of the residential quad, they reached the bottom of the steep, twelve-degree paved hillside walkway rising alongside the gray **Ironstone** and brick facade of **Eleanor Bennett Commonwealth Hall** up to the second-floor **Washington Street SW** entrance.
+
+Rainwater was sheeting down the twelve-degree asphalt slope like a shallow mountain creek, dotted with slick wet maple blossoms.
+
+Keeping the R-Net controller in **`Profile 2 (Wet-Weather Traction)`**, Jordan eased the joystick smoothly forward inside the dry silicone gauntlet.
+
+The dual four-pole center-drive motors hummed with steady, governed torque. With three hundred and fifty pounds of low-center-of-gravity mass pressing the deep-tread pneumatic drive tires into the wet asphalt and the six-wheel suspension keeping every tire planted firmly on the grade, the *S.S. Freedom* didn't slip a single millimeter.
+
+Amber and white fender LEDs glowing brightly through the mist, Jordan drove straight up the rain-slicked twelve-degree hill at a rock-steady three and a half miles per hour while Aubrie Jean, Madison, Mark, Hannah, Zoë, Lauren, Sarah, and Jessica walked beside his wheels all the way to the top of the ridge.
+
+At the **Washington Street SW** entrance, **Sarah** tapped her **Poly Pass** against the exterior reader, pressed the automatic door actuator, and held the vestibule open as Jordan glided smoothly across the threshold into the warm, dry second-floor corridor of **Bennett Hall**.
+
+Outside the door of **Room 214**, the nine of them executed the final step of their wet-weather drill in ninety seconds flat:
+1. **Mark** and **Lauren** grabbed the two dedicated dark-grey microfiber wheel towels hanging inside the suite closet and wiped down the *S.S. Freedom*'s six rubber tires, caster forks, and lower frame rails so no mud or moisture sat on the wheel bearings.
+2. **Aubrie Jean** and **Madison** unsnapped the wet **Wheelchair Rain Cape** from the footplate and backrest—shaking the water beads off into the tiled shower room—and removed the **Silicone Joystick Gauntlet** from the right armrest.
+3. **Zoë** unfolded the dry **`Pinnacle Vanguard Pro`** mounting arm back into position and handed Jordan his behind-the-ear hearing aids.
+
+Rolling into the cozy warmth of **Room 214** while the April thunderstorm raged outside the casement window, Jordan looked down at his dry jeans, his dry fleece hoodie, his warm hands, and his bone-dry seat cushion, and typed a single line to the room:
+
+<aac>Not a single drop of water in the cockpit. Best pit crew in Blacksburg.</aac>
+
+### Part 3: Stripping Room 214, A Long Hug in the Hallway & Ready for the World
+
+**Date:** 2015-05-15 at 11:00 America/New_York
+
+![In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg)
 
 #### May 15, 2015 • 11:00 AM — Stripping Room 214
 
@@ -11796,11 +12005,7 @@ Out in the second-floor hallway, a polite knock sounded against the open oak doo
 
 "Ready for the last checkout inspection in the history of the Old Lady?" Kelsey asked warmly, her eyes misty as she looked around the spotless, swept floors of Room 216 and Room 214. "Let me sign off Mark, Hannah, Sarah, and Jessica's rooms first, and then we'll take the final cart down to Daniel's trailer."
 
-### Part 2: A Long Hug in the Hallway & Ready for the World
-
-**Date:** 2015-05-15 at 11:20 America/New_York
-
-![In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg)
+***
 
 #### 11:20 AM — A Very Long Hug in the Second-Floor Hallway
 
@@ -16384,6 +16589,71 @@ Seeing Isabel tucked under Jordan's left arm with a radiant, peaceful glow on he
 Isabel laced her fingers with Aubrie Jean's right over Jordan's heart, closed her eyes, and smiled—savoring every remaining minute of the warm quiet together before **Mark** drove her back up to `Allegheny Commons` at `11:15 PM` to relieve Henry for the overnight half of her rotating duty shift.
 
 "I'm home," Isabel whispered back.
+
+### Part 6: The Keystone Bridge in the Rain & Route 1 Home to Geneva Street
+
+**Date:** 2015-09-29 at 16:30 America/New_York
+
+#### September 29, 2015 • 4:30 PM — Beneath The Keystone Bridge
+
+By late afternoon on Tuesday, September 29, 2015, the outer rainbands of an early-autumn Atlantic low-pressure system had pinned themselves against the eastern face of the Blue Ridge Mountains, drenching Montgomery County in a steady, forty-nine-degree downpour.
+
+Now that the ten of them lived off-campus in the walk-out basement sanctuary at **414 Geneva Street** in Christiansburg for their sophomore year, a rainy Tuesday afternoon meant navigating the busiest transit bottleneck in the New River Valley: the five o'clock **Blue Ridge Transit** curbside lineup along **Commonwealth Mall** directly beneath **The Keystone Bridge**.
+
+At `16:30`, **Jordan** rolled the ***S.S. Freedom*** (`Vanguard Titan-X350`) out of **Walton Hall** alongside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—already rigged in full wet-weather trim with his charcoal-and-maroon **Contoured Wheelchair Rain Cape** snapped taut over his footplate, the transparent **Silicone Joystick Rain Gauntlet** sealed over his right-hand R-Net module, his **`mPad`** AAC tablet tucked dry inside its polycarbonate shell under the front apron of his cape, and his amber-and-white LED fender lights cutting through the silver sheets of rain.
+
+As they reached the dry, vaulted **Ironstone** archway beneath **The Keystone Bridge** spanning **Commonwealth Mall**, **Isabel** hurried down the stone steps from **Kincaid Hall** in her maroon CPI Nursing clinical scrubs and hooded rain jacket, shaking out her umbrella with a bright, relieved smile.
+
+"Made it with two minutes to spare before the `:45` pulse!" Isabel beamed, leaning down to kiss Jordan's cheek before stepping right beside **Aubrie Jean** and **Madison** at his left wheel. "How's the joystick seal holding up in this wind?"
+
+Inside the clear silicone gauntlet on his right armrest, Jordan wiggled his dry fingers over the joystick ball, glanced up at Aubrie Jean and Madison, tapped his left hand twice against his dry knee underneath the rain cape, and gestured toward the glowing amber destination signs of the sixty-foot articulated **Blue Ridge Transit** buses rumbling down **Commonwealth Mall**.
+
+"He’s saying his right hand is warmer than ours," **Aubrie Jean** laughed, translating without missing a beat as Jordan nodded with a grin, "and he’s betting **Route 1** pulls up three buses back in the queue so we get to practice a wet-curb sprint."
+
+"Please no," **Madison** groaned playfully, holding her umbrella steady against the wind tunnel beneath the stone bridge arch. "If I have to sprint in wet sneakers past three articulated diesel buses, somebody is carrying me up the stairs at Geneva Street!"
+
+***
+
+#### 4:42 PM — Wet-Aluminum Ramp Traction on *Route 1*
+
+Right on cue at `16:42`, a sixty-foot articulated **Blue Ridge Transit** low-floor coach rounded the corner from Main Street, its windshield wipers sweeping furiously and its overhead amber LED sign glowing through the mist:
+
+**`1 PEPPER PLAZA / CHRISTIANSBURG`**
+
+Because **Commonwealth Mall** had no dedicated bus bays, the sixty-foot coach pulled into the granite curb two bus-lengths behind the front of the arch. Instantly, **Mark** and **Lauren** led the way along the wet concrete sidewalk while Jordan glided smoothly behind them in **`Profile 2 (Wet-Weather Traction)`**, his amber fender LEDs alerting soaked students under their umbrellas to part cleanly along the walkway.
+
+At the granite curb, the **Blue Ridge Transit** driver hit the pneumatic suspension switch. With a loud *hiss* of compressed air, the front of the coach kneeled four inches toward the sidewalk, the dual-leaf front doors folded inward, and the yellow-bordered aluminum **ADA wheelchair ramp** flipped out onto the wet concrete.
+
+For a power wheelchair weighing three hundred and fifty pounds plus its rider, boarding a wet aluminum bus ramp in a downpour is one of the trickiest maneuvers in daily transit: wet diamond-plate aluminum is slick, and if a driver hits the ramp too fast or applies too much initial torque, the drive tires can spin on the metal lip.
+
+Jordan didn't rush.
+
+Keeping the R-Net controller in **`Profile 2`** so the motor torque stayed smooth and governed, he squared the *S.S. Freedom*'s front casters dead-center with the yellow safety curbs of the ramp, eased the joystick forward two millimeters inside his silicone gauntlet, and let the six-wheel independent suspension walk the heavy frame steadily up the wet aluminum incline into the warm, brightly lit vestibule of the bus.
+
+Inside the front wheelchair securement bay, the non-slip rubber transit flooring was slick with water tracked in by dozens of umbrellas. Because `Profile 2` stretched out the electromagnetic braking curve, when Jordan centered the joystick inside the bay, the *S.S. Freedom* didn't jerk or slide—it settled to a dead-level stop between the floor anchor tracks.
+
+In ten seconds flat, **Mark** and **Jessica** snapped the four retractable Q'Straint floor hooks onto the *S.S. Freedom*'s integrated transit tie-down brackets while **Aubrie Jean** and **Isabel** unbuttoned the neck clasp of Jordan's rain cape, shook the water droplets onto the floor drain, and flipped up his dry **`mPad`** screen so he had his voice back for the twenty-minute ride down the mountain to Christiansburg.
+
+<aac>Four-point securement locked in ten seconds,</aac> Jordan's tablet announced warmly over the hum of the bus heater as the doors hissed shut and the coach pulled away from Commonwealth Mall. <aac>And nobody had to sprint more than forty feet, Madison.</aac>
+
+"Victory!" Madison cheered from the fold-down perimeter seat beside him, resting her head against his dry shoulder while Isabel laced her fingers through his left hand.
+
+***
+
+#### 5:15 PM — The Geneva Street Ramp & Warm Cider
+
+Twenty-five minutes later in **Christiansburg**, after hopping off at the **Pepper Plaza** transfer hub and rolling the three blocks down the sidewalk to **414 Geneva Street** (where **Daniel** had installed a covered timber canopy and non-slip textured grit strips along the exterior walk-out basement ramp over the summer), the ten of them glided straight down the sheltered ramp to the basement patio doors.
+
+Just inside the tiled mudroom vestibule of the walk-out basement sanctuary, their rainy-day home protocol ran like clockwork:
+* **Lauren**, **Hannah**, and **Mark** hung all nine wet umbrellas and rain jackets on the wall-mounted drying rack over the boot tray and used the stack of warm microfiber shop towels to wipe down the *S.S. Freedom*'s six wet tires, caster forks, and tie-down brackets.
+* **Aubrie Jean**, **Madison**, and **Isabel** unclipped Jordan's **Contoured Wheelchair Rain Cape** and **Silicone Joystick Gauntlet**, hanging both on the heated towel rail by the bathroom door, and checked his clothes and seat cushion—confirming that from his collar to his wool socks, he was 100% warm and dry.
+* Upstairs at the top of the interior basement steps, the door opened and **Laura Brooks** walked down carrying a steaming ceramic pitcher of spiced hot apple cider and a tray of ten warm cinnamon rolls fresh from the oven.
+
+"I heard the ramp door open!" Laura smiled warmly, setting the tray down on the low coffee table as the ten of them gathered around the plush sectional sofa under the amber string lights while the rain drummed against the glass patio doors outside. "How did the *S.S. Freedom* handle the monsoon up on campus?"
+
+Jordan rolled up to his open bay beside the sofa, took a warm mug of spiced cider with Aubrie Jean on his left and Isabel on his right, and tapped his screen with a contented smile:
+
+<aac>Hull integrity 100%, Mom. Best captain's cape and best family in the valley.</aac>
 
 ## The Paper Invasion (Notice CP87A) & Fall Break 2015
 

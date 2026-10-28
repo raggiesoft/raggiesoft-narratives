@@ -103,7 +103,7 @@ Cold November rain slanted sideways across Commonwealth Mall, drumming against a
 
 Along Commonwealth Mall, catching a bus at five o'clock on a weekday evening was an absolute logistical nightmare. Every single Blue Ridge Transit route staged bumper-to-bumper along the open curb between Kincaid Hall and Pendleton Library, their forty- and sixty-foot diesel engines idling in a deafening, exhaust-choked line while delivery vans, soaked pedestrians, and bicycles fought for every inch of wet asphalt.
 
-Erin sat in her power wheelchair on the sidewalk just inside the dry stone shadow of The Keystone Bridge's northern arch, her maroon CPI windbreaker zipped to her chin and her hands tucked into fleece-lined gloves. The twins' accessible ground-floor apartment on Progress Street NE was only two blocks away—a five-minute roll down the sidewalk—and John had promised to meet her here after his afternoon lab so they could head home together. Yet every thirty seconds, Erin's eyes flicked from the chaotic wall of glowing amber LED bus headboards lining the Commonwealth Mall curb down the long, wet concrete incline leading up from Faraday Hall and the Commonwealth Green.
+Erin sat in her power wheelchair on the sidewalk just inside the dry stone shadow of The Keystone Bridge's northern arch, rigged properly for the Blacksburg storm: her contoured maroon CPI wheelchair rain cape was snapped taut over her knees and footplate to keep her seat cushion bone-dry, and her right hand was tucked inside the clear silicone joystick rain gauntlet sealed over her armrest controller so rainwater couldn't short the electronics. The twins' accessible ground-floor apartment on Progress Street NE was only two blocks away—a five-minute roll down the sidewalk—and John had promised to meet her here after his afternoon lab so they could head home together. Yet every thirty seconds, Erin's eyes flicked from the chaotic wall of glowing amber LED bus headboards lining the Commonwealth Mall curb down the long, wet concrete incline leading up from Faraday Hall and the Commonwealth Green.
 
 It had been sixty-two days since the speed-dating mixer in Kincaid Hall.
 
@@ -115,7 +115,7 @@ First came the canceled Friday dinners on Progress Street NE—always explained 
 
 Erin's jaw tightened as two figures finally appeared through the mist at the bottom of the rain-slicked pedestrian walk from the Commonwealth Green.
 
-John's power wheelchair was climbing the grade toward The Keystone Bridge at half its normal speed. Even from forty feet away, Erin could see why: Valerie was walking right beside his left wheel, one hand clamped tightly around the upright frame of his backrest while the other held a single black umbrella angled entirely over her own head, leaving cold rainwater to drip steadily off the rims of John's tortoiseshell glasses.
+John's power wheelchair was climbing the grade toward The Keystone Bridge at half its normal speed. Even from forty feet away, Erin could see why: Valerie was walking right beside his left wheel, one hand clamped tightly around the upright frame of his backrest while the other held a single black umbrella angled entirely over her own head—leaving cold rainwater to drip steadily off the rims of John's tortoiseshell glasses, pool in his unprotected lap, and splash dangerously across his uncovered right-hand joystick controller because Valerie hadn't even let him stop in the Faraday Hall vestibule to put on his wheelchair rain cape or his silicone joystick gauntlet.
 
 As they rolled beneath the vaulted Ironstone arch of The Keystone Bridge beside the roaring curbside line of buses, Erin felt a cold knot twist in her stomach. Through the open window of the Kincaid Hall student lounge above them, the mid-tempo synth heartbeat and dramatic drums of [**"Before the Distance"**](https://music.raggiesoft.com/artists/the-stardust-engine/2004-progress-street?track=1-08-before-the-distance) drifted out into the November mist:
 
@@ -233,7 +233,9 @@ For the first time in two months, the fog inside John's head cleared completely.
 
 "Go catch your bus, Valerie," John said quietly.
 
-He reached across the gap between their armrests and clasped Erin's gloved hand firmly in his. With his right thumb, he pushed his joystick forward.
+Before pushing forward into the rain, Erin reached into her side saddlebag, pulled out her spare clear silicone joystick rain gauntlet and John's folded wheelchair rain cape from his rear pouch, wiped the water droplets off his controller housing with a dry microfiber cloth, and snapped the waterproof cover over his right armrest in ten seconds flat so his joystick wouldn't short out on the roll home.
+
+Then John reached across the gap between their armrests and clasped Erin's hand firmly in his. Switching both controllers into low-torque wet-weather traction mode, he pushed his joystick forward inside the dry silicone hood.
 
 Together, wheel to wheel on the wide brick-and-concrete sidewalk, John and Erin rolled out from beneath The Keystone Bridge, turning their backs on the Commonwealth Mall bus line and heading northeast toward Progress Street NE.
 
