@@ -20372,7 +20372,7 @@ As the final chord of *"Twin Moons: Touchdown"* faded into a warm synthesizer dr
 
 > **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Acts III & IV from onstage as Ryan triggers the `06:30` Main Engine Cutoff of *"Ad Astra"* and leads the *Mile Marker 98* counterbalance in [**The Stardust Engine — Book 6, Chapter 1, Part 4: *Acts III & IV: Ad Astra, Cosmic Tidal Lock & Mile Marker 98***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-4-acts-iii-iv-ad-astra-cosmic-tidal-lock-mile-marker-98) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
 
-### Part 5: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights
+### Part 5: Our Own Frequency, Brother's Keeper & The Summer Festival Announcement
 
 **Date:** 2016-05-21 at 21:50 America/New_York
 
@@ -20447,7 +20447,15 @@ When Ryan and Cassidy harmonized on the chorus—*"We trade all the armor, we tr
 
 ***
 
-#### 10:15 PM — *Saturday Night Lights* & *Last Bus Home*
+> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Act V from center stage as Ryan locks his wheelchair brakes flush against Cassidy's piano bench to introduce *"Brother's Keeper"* and unveil the *Forger Nation Summer Festival* in [**The Stardust Engine — Book 6, Chapter 1, Part 5: *Act V: Our Own Frequency, Brother's Keeper & The Summer Festival***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-5-act-v-our-own-frequency-brother-s-keeper-the-summer-festival) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
+
+### Part 6: Neon on the Huckleberry Trail, Saturday Night Lights & My Anchor Holds
+
+**Date:** 2016-05-21 at 22:15 America/New_York
+
+![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, a bearded 80-year-old 1956 CPI alumnus in a maroon flat cap wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg)
+
+#### 10:15 PM — *Saturday Night Lights* & *Progress Street*
 
 As the ovation for *"Still Your Safe Person"* swelled across the valley, **Evan**, **Tyler**, and the touring musicians walked back out onto the stage and strapped on their electric instruments. Starting softly at Cassidy’s grand piano before the full electric stadium rig roared back to life, the band soared through the emotional power ballad [**"Echoes in the Wire"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-17-echoes-in-the-wire).
 
@@ -20461,25 +20469,37 @@ And the instant *"Echoes in the Wire"* ended, all four massive **Ironstone** sta
 
 From the lower bowl to the top rim of the upper decks, sixty-five thousand people jumped in unison (`"GO FORGERS! GO CPI!"`) as the band sprinted headlong through a joyous hometown celebration. Without a single lull, *"Saturday Night Lights"* poured straight into [**"Progress Street: Where the Fire Began"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-19-progress-street-where-the-fire-began)—the middle song the **CPI Marching Forgers** had played during the 2014 Homecoming halftime show, now belted out by Jordan’s entire row in pure triumph.
 
-As the final chord of *"Progress Street"* rang out, **Marcus Vance** handed **Ryan** a shimmering twelve-string electric guitar.
+***
 
-"When we're home in Blacksburg and the sun starts going down behind the mountains," Ryan called out over the twelve-string arpeggios, "there's one place the four of us always go—six miles of paved rail-trail between here and Christiansburg, with **The Crucible** tower lights glowing like neon in the evening sky!"
+#### 10:24 PM — *Neon on the Huckleberry Trail* (*"Huckleberry Trail"*)
 
-"Now, if you're visiting from out of town tonight, you might not know what the Huckleberry is all about!" **Cassidy** laughed into her microphone. "But if you're from Blacksburg or Christiansburg, or if you're a Forger who's walked that path from the **Pendleton Library** lawn—or if you're old-school enough to remember the actual **Huckleberry Train**—this one belongs to you!"
+As the final chord of *"Progress Street"* rang out, **Marcus Vance** walked over and handed **Ryan** a shimmering twelve-string electric guitar.
 
-"Wait—no way!" **Mark** gasped, grabbing **Hannah**’s arm the instant Ryan struck that first chorused twelve-string chord and Cassidy’s analog synth bells chimed in at 124 BPM. "Are they seriously playing ***'Huckleberry Trail'*** right now?!"
+Neither Ryan nor Cassidy said a single word into their microphones. There was no spoken introduction, no setup, and no warning.
+
+Instead, Ryan simply struck that first chorused twelve-string chord—and Cassidy’s warm analog synth bells chimed in at `124 BPM`.
+
+For two full seconds, all sixty-five thousand people inside **The Crucible** froze in **stunned disbelief** that **The Stardust Engine** was playing something so hyperlocal at a stadium concert.
+
+"Wait—no way!" **Mark** gasped, grabbing **Hannah**’s arm before Cassidy even opened her mouth. "Are they seriously playing ***'Huckleberry Trail'*** right now?!"
+
+And then, as **Evan**’s breezy eighth-note bassline and **Tyler**’s crisp gated-reverb drums kicked in and the 120-foot curved LED screen behind the band illuminated with a blazing October sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences, disbelief exploded into a deafening, sixty-five-thousand-voice roar of cheers!
 
 What happened next during [**"Neon on the Huckleberry Trail"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=neon-on-the-huckleberry-trail-live-at-the-crucible)—known affectionately to every local and Forger simply as ***"Huckleberry Trail"***—turned an unannounced deep cut into the emotional standout number of the entire night: **because to the residents and Forgers inside The Crucible, it was HOME.**
 
-Two rows behind `Section 104, Row A`, the out-of-town visitor in the golf polo who had driven into Blacksburg for the weekend blinked in total confusion, looking left and right down his row and wondering what on earth was going on as sixty-five thousand people stayed on their feet and lost their minds over a song about a local rail-trail.
+Two rows behind `Section 104, Row A`, the out-of-town visitor in the light-blue golf polo and cap who had driven into Blacksburg for the weekend blinked in total confusion, looking left and right down his row and wondering what on earth was going on as sixty-five thousand people stayed on their feet and cheered their hearts out over a song about a local rail-trail.
 
 He didn't know. Someone not familiar with the region couldn't know. **But Forgers? They knew.**
 
-Every student in **Jordan**’s row knew the six-mile paved path winding from the **Pendleton Library** lawn past the cattle pastures and Price Mountain all the way to **Christiansburg**—the exact trail where Jordan pushed his `Vanguard Pro` alongside **Aubrie Jean**, **Madison**, and **Mark** on crisp autumn evenings at five-thirty. And across the aisle from `Section 104`, when Cassidy sang the closing lines of the first verse—*"Six miles of asphalt from the library lawn / Where the old Huckleberry train used to roll on"*—a silver-haired gentleman in a vintage `CPI CLASS OF 1956` letterman cardigan wiped a tear from his cheek and beamed at **Daniel** and **Stephen**, remembering the actual slow-chugging **Huckleberry Train** that had carried students and coal up the mountain from Christiansburg's Cambria Depot until 1958.
+Every student in **Jordan**’s row knew the six-mile paved path winding from the **Pendleton Library** lawn past the cattle pastures and Price Mountain all the way to **Christiansburg**—the exact trail where Jordan pushed his `Vanguard Pro` alongside **Aubrie Jean**, **Madison**, and **Mark** on crisp autumn evenings at five-thirty, and where students in CPI hoodies jogged past Cassidy on her bicycle and Ryan in his manual chair with nothing more than a polite neighbor's wave. And across the aisle from `Section 104`, when Cassidy sang the closing lines of the first verse—*"Six miles of asphalt from the library lawn / Where the old Huckleberry train used to roll on"*—a bearded eighty-year-old gentleman in a maroon flat cap and a vintage `CPI CLASS OF 1956` letterman cardigan wiped a tear from his cheek with his handkerchief and beamed through his round wire-rimmed glasses at **Daniel** and **Stephen**, remembering the actual slow-chugging **Huckleberry Train** that had carried students and coal up the mountain from Christiansburg's Cambria Depot until 1958.
 
-By the second chorus, the sixty-five-thousand-voice roar of students, Blacksburg and Christiansburg locals, and three generations of CPI alumni was so thunderous that Cassidy called out, *"Take it, Forger Nation! It's yours!"* and stepped completely back from her microphone alongside Ryan—letting the stadium claim the song forever:
+By the second chorus, the sixty-five-thousand-voice roar of students, Blacksburg and Christiansburg locals, and three generations of CPI alumni cheering them on and singing every word was so thunderous that Cassidy called out:
 
-![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, an 80-year-old 1956 CPI alumnus wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Madison Scott's hand alongside Aubrie Jean Kelly, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/neon-on-the-huckleberry-trail-crucible.jpg#fullwidth)
+***"Take it, Forger Nation! It's yours!"***
+
+With her right hand pressed over her heart and her left arm raised wide toward the stands, Cassidy stepped completely back from her microphone alongside Ryan—letting the stadium claim the song forever:
+
+![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, a bearded 80-year-old 1956 CPI alumnus in a maroon flat cap wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg#fullwidth)
 
 > **65,000 FORGERS:** ***"CHASING THE NEON ON THE HUCKLEBERRY TRAIL!***<br>
 > ***WHERE THE TWILIGHT GLOWS AND THE SHADOWS SAIL!***<br>
@@ -20490,19 +20510,23 @@ By the second chorus, the sixty-five-thousand-voice roar of students, Blacksburg
 > ***EVERY AUTUMN EVENING TELLS THE SAME OLD TALE***<br>
 > ***WE'RE HOME TOGETHER ON THE HUCKLEBERRY TRAIL!"***
 
+***
+
+#### 10:29 PM — *Neon Hearts*, *My Anchor Holds* & *Last Bus Home*
+
 As Cassidy and Ryan traded their grinning sign-off (*"Race you back to Progress Street!"* / *"You're on, Cass!"*) to a deafening hometown ovation, the band tore straight into the soaring 1989 synth-rock chorus of [**"Neon Hearts"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-20-neon-hearts).
 
 Then the stage lights softened to warm candlelight gold, and Cassidy began the sweeping 1987 piano ballad [**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-21-my-anchor-holds)—the exact song Jordan and **Aubrie Jean** had chosen for their wedding processional two months from now.
 
 Throughout the entire song, Aubrie Jean stood directly behind Jordan’s wheelchair with her arms wrapped warmly around his chest and her chin resting on his shoulder, swaying with **Madison**, **Megan**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**, while **Daniel** and **Laura** danced slow and close in the aisle beside **Mark** and **Hannah**, and little **Stella** slept peacefully in **Stephen** and **Elana**’s arms under her pink ear defenders.
 
-![During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, Jordan Fuller sits peacefully in his wheelchair at the Section 104, Row A railing while Aubrie Jean Kelly wraps her arms warmly around his shoulders beside Madison Scott, Zoë Wren Brooks, and Mark Anderson.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/my-anchor-holds-section-104.jpg#fullwidth)
+![During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, Jordan Fuller sits peacefully in his wheelchair at the Section 104, Row A railing while Aubrie Jean Kelly wraps her arms warmly around his shoulders beside Madison Scott, Zoë Wren Brooks, and Mark Anderson.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/my-anchor-holds-section-104.jpg#fullwidth)
 
 After one more explosive burst of fireworks on the comeback anthem [**"Reignition: Lights Up on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-22-reignition-lights-up-on-progress-street) (*"Good morning, Forger Nation."* / *"The switches are back on! Let's go!"*), the clock on the stadium fascia ticked past `10:35 PM`, and the band eased into the warm, nostalgic groove of [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-23-last-bus-home-lights-out-on-progress-street).
 
 Every Stardust Engine fan in the building knew what *"Last Bus Home"* meant: since 2004, it had always been the final goodnight song of the show, where Ryan, Cassidy, Evan, and Tyler powered down their stage switches one by one before the house lights came up.
 
-In `Seat 1`, Jordan felt a warm, peaceful glow settle over his chest. They had heard *"The Stardust Engine"* and *"Progress Street"* tonight, and even if the band hadn't played the 1987 pop version of *"Electric Color"*—which everyone knew they hated because of Apex Records, and which they had already nodded to earlier during the space set with *"The Spectrum (True Color)"*—this night had already given him back everything he had lost in September 2014.
+In `Seat 1`, Jordan felt a warm, peaceful glow settle over his chest. They had heard *"The Stardust Engine"*, *"Progress Street"*, and *"Huckleberry Trail"* tonight, and even if the band hadn't played the 1987 pop version of *"Electric Color"*—which everyone knew they hated because of Apex Records, and which they had already nodded to earlier during the space set with *"The Spectrum (True Color)"*—this night had already given him back everything he had lost in September 2014.
 
 As Cassidy sang softly into her microphone, *"Lights out on Progress Street..."*, Ryan spoke quietly into his mic (*"Goodnight, Forger Nation. We love you."*) and reached over to flip the main toggle switch on his amplifier rack.
 
@@ -20510,13 +20534,13 @@ Every light on the stage clicked off to pitch black.
 
 ***
 
-> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Acts V & VI from center stage as Ryan locks his wheelchair brakes flush against Cassidy's piano bench to introduce *"Brother's Keeper"* and spots Jordan and Aubrie Jean during *"My Anchor Holds"* in [**The Stardust Engine — Book 6, Chapter 1, Part 5: *Acts V & VI: Brother's Keeper, The Summer Festival & Saturday Night Lights***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-5-acts-v-vi-brother-s-keeper-the-summer-festival-saturday-night-lights) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
+> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Act VI from onstage as Ryan strikes the unannounced opening twelve-string chord of *"Neon on the Huckleberry Trail"* and watches sixty-five thousand Forgers go from stunned disbelief to claiming the song as their own in [**The Stardust Engine — Book 6, Chapter 1, Part 6: *Act VI: Neon on the Huckleberry Trail & Saturday Night Lights***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-6-act-vi-neon-on-the-huckleberry-trail-saturday-night-lights) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
 
-### Part 6: Electric Color (Live at the Crucible) & The Ride Home
+### Part 7: Electric Color (Live at the Crucible) & The Ride Home
 
 **Date:** 2016-05-21 at 22:40 America/New_York
 
-![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/electric-color-rainbow-reclamation.jpg)
+![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p007/electric-color-rainbow-reclamation.jpg)
 
 #### 10:40 PM — The False Ending & *Electric Color*
 
@@ -20682,7 +20706,7 @@ GO FORGERS!
 
 <aac>"Best transit system in the Commonwealth,"</aac> Jordan tapped happily on his `mPad`. Turning his chair around on the wide concrete island at the base of the front-door ramp, he gripped his push-rims and backed his `Vanguard Pro` smoothly up the incline in reverse—rolling straight back into the forward wheelchair securement bay in one effortless motion without having to wrestle a multi-point U-turn inside the crowded vestibule. <aac>"And the best night of Sophomore Year."</aac>
 
-![At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, Jordan Fuller backs his manual wheelchair smoothly up the front-door low-floor ramp in reverse into a white-and-maroon Blue Ridge Transit articulated shuttle displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on its amber LED destination sign, smiling toward Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/crucible-bus-loop-forgers-shuttle.jpg#fullwidth)
+![At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, Jordan Fuller backs his manual wheelchair smoothly up the front-door low-floor ramp in reverse into a white-and-maroon Blue Ridge Transit articulated shuttle displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on its amber LED destination sign, smiling toward Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p007/crucible-bus-loop-forgers-shuttle.jpg#fullwidth)
 
 As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the **Christiansburg Transit Center**—one short block from `414 Geneva Street`—**Aubrie Jean** sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while **Mark** leaned across the aisle toward **Hannah** and Jordan with a quiet, meaningful smile.
 
@@ -20692,7 +20716,7 @@ Jordan looked down at his `Poly Pass` lanyard resting against his commemorative 
 
 ***
 
-> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Act VII from onstage as 300 CPI Marching Forgers silently file out in the dark for the `1:40` reveal of *"Electric Color"* and Ryan spots Jordan boarding the Blue Ridge Transit shuttle in reverse before returning home to Progress Street in [**The Stardust Engine — Book 6, Chapter 1, Part 6: *Act VII: Electric Color & Lights Out on Progress Street***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-6-act-vii-electric-color-lights-out-on-progress-street) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
+> **Companion Perspective (*The Stardust Engine* — Ryan O'Connell's POV):** Read Act VII from onstage as 300 CPI Marching Forgers silently file out in the dark for the `1:40` reveal of *"Electric Color"* and Ryan spots Jordan boarding the Blue Ridge Transit shuttle in reverse before returning home to Progress Street in [**The Stardust Engine — Book 6, Chapter 1, Part 7: *Act VII: Electric Color & Lights Out on Progress Street***](https://books.raggiesoft.com/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-7-act-vii-electric-color-lights-out-on-progress-street) (or at [**`stardust.raggiesoft.com/novel`**](https://stardust.raggiesoft.com/novel)).
 
 # Summer 2016
 
