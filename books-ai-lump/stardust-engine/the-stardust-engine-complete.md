@@ -2030,6 +2030,8 @@ When they finally rolled out through the automatic sliding glass doors into the 
 
 **Date:** 2018-09-13 at 08:30 America/Los_Angeles
 
+![Photorealistic scene outside Valley Regional Airport on a sunny Southern California afternoon showing 54-year-old Ryan O'Connell—with wavy silver-grey hair, rectangular glasses, and a trimmed greying beard—rolling in his matte-black carbon-fiber manual wheelchair across the yellow ADA tactile platform ramp toward the level-boarding doors of a double-decker SCR commuter train, flanked by Cassidy, Holly carrying her Florentine leather briefcase, and twin cousins Evan and Tyler Wright pulling black equipment cases, while a bewildered chauffeur in a black suit stands beside a lifted black SUV holding a placard reading MR. & MRS. O'CONNELL.]({{CDN}}/raggiesoft-books/images/scenes/scenes/stardust-engine/e007/c001/p001/valley-regional-scr-commuter-train.jpg)
+
 #### September 13, 2018 (`08:30 PST`) — Part 1 & 2: Wheels Down at Valley Regional
 
 The tires of the Gateway Airlines jet touched down on the sun-bleached tarmac of the San Fernando Valley with a sharp chirp of rubber.
@@ -2166,7 +2168,11 @@ With a practiced lift-and-swing transfer, Ryan moved from his Carbon-Fiber Veloc
 
 **Date:** 2018-09-14 at 09:35 America/Los_Angeles
 
-##Part 1 & 2: The LATA Rapid 720 & The Century City Lobby
+![Photorealistic boardroom scene in Conference Room A on the 40th floor of Omni-Global Media HQ in Century City showing 54-year-old Ryan O'Connell (with silver-grey hair, rectangular glasses, and trimmed greying beard, seated in his manual wheelchair wearing a midnight-blue The Stardust Engine polo), 51-year-old Cassidy O'Connell (in a matching midnight-blue polo and glasses), and 49-year-old Holly O'Connell (in a charcoal suit with the yellowed 1992 Clause 88 binder across from an OFFER contract folder), backed by 51-year-old identical twin cousins Evan (in a CPI maroon polo) and Tyler Wright (in a burnt-orange polo) with arms crossed facing three silver-haired corporate executives.]({{CDN}}/raggiesoft-books/images/scenes/scenes/stardust-engine/e007/c002/p001/150-million-refusal.jpg)
+
+![Photorealistic hallway scene outside Conference Room A beneath a glowing EXIT sign showing identical twins Evan and Tyler Wright protectively escorting a sobbing Cassidy O'Connell out through the wood-paneled doors while 54-year-old silver-haired Ryan O'Connell rolls alongside in his manual wheelchair looking up at his sister with fierce concern and Holly O'Connell strides ahead in her charcoal business suit carrying her brown leather briefcase.]({{CDN}}/raggiesoft-books/images/scenes/scenes/stardust-engine/e007/c002/p001/cassidy-extraction.jpg)
+
+#### Part 1 & 2: The LATA Rapid 720 & The Century City Lobby
 
 At `09:35 AM`, the massive sixty-foot red-and-silver articulated **LATA Rapid 720** bus thundered down Avenue of the Stars, scattering the quiet of the luxury valet driveway at `2000 Avenue of the Stars` as it pulled to the curb directly in front of the forty-story glass atrium of **Omni-Global Media Corporation**.
 
@@ -2501,6 +2507,10 @@ Less than four minutes later, Holly's inbox chimed with Jessica's breathless rep
 
 **Date:** 2018-09-14 at 09:56 America/Los_Angeles
 
+![Photorealistic morning scene on the foggy outdoor wooden patio of Dogtown Coffee in Santa Monica showing 54-year-old silver-haired Ryan O'Connell in his manual wheelchair, 19-year-old Jessica Miller in her manual wheelchair beside him, Cassidy O'Connell, Holly O'Connell, and Robert Miller clinking steaming ceramic mugs of hot chocolate topped with whipped cream while 19-year-old Justin Miller stands in the center holding up his mPad Mini displaying the corporate organizational chart.]({{CDN}}/raggiesoft-books/images/scenes/scenes/stardust-engine/e007/c003/p001/dogtown-coffee-cocoa-protocol.jpg)
+
+![Photorealistic scene inside The Jessica Miller Center showing silver-haired Jameson Frost sitting across a table from 19-year-old twins Jessica Miller (in her manual wheelchair wearing a black The Stardust Engine t-shirt) and Justin Miller (standing beside her holding his mPad Mini in a matching The Stardust Engine t-shirt).]({{CDN}}/raggiesoft-books/images/scenes/scenes/stardust-engine/e007/c003/p001/frost-interview.jpg)
+
 #### September 14, 2018 (`09:56 PST`) — Part 1–4: The Cocoa Protocol at Dogtown Coffee
 
 Morning marine-layer fog still hung cool and gray over Main Street in Santa Monica when Ryan spotted a clean, well-kept beige 2009 **Takamura Estate** minivan with peeling clear-coat on the hood parallel-parking down the block from the patio of **Dogtown Coffee**.
@@ -2698,6 +2708,8 @@ Justin typed a final line on his mPad Mini:
 ### The Transfer Protocol (September 27, 2018)
 
 **Date:** 2018-09-27 at 17:50 America/New_York
+
+![Photorealistic autumn dusk scene inside the step-free Great Room of Suite B on Progress Street NE in Blacksburg showing 54-year-old silver-haired Ryan O'Connell in his matte-black carbon-fiber manual wheelchair alongside Cassidy and Holly O'Connell warmly welcoming 19-year-old twins Jessica Miller (in her manual wheelchair wearing a black-and-silver Engine Room Records bomber jacket) and Justin Miller (holding his mPad Mini tablet while one-eared tabby cat Fader rubs against his shin), with the illuminated Gothic gray Ironstone towers of Kincaid Hall glowing through the floor-to-ceiling window behind them.]({{CDN}}/raggiesoft-books/images/scenes/scenes/stardust-engine/e007/c004/p001/progress-street-suite-b-welcome.jpg)
 
 #### September 27, 2018 (`17:50 EDT`) — Part 1: Descent into the Blue Ridge
 
