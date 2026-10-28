@@ -6,13 +6,183 @@ title: "The Stardust Engine"
 
 ## Chapter 1: Progress Street & The Forger's Call (1986)
 
+### Progress Street, 'Ignition,' & The Apex Signing (1986–1989)
+
+**Date:** 1986-10-18 at 21:30 America/New_York
+
+#### October 18, 1986 — The Cinder-Block Garage on Progress Street
+
+The unheated two-car cinder-block garage behind their rented student house on **Progress Street NE** smelled of damp autumn oak leaves, warm vacuum tubes, and burnt coffee, and nineteen-year-old **Ryan O'Connell** wouldn't have traded it for the finest recording studio on earth.
+
+Across the cracked concrete floor, his younger sister **Cassidy** stood behind a two-tier aluminum keyboard stand in an oversized maroon **`CPI`** sweatshirt, her fingers flying across an eight-voice analog polysynth while their identical twin maternal cousins, **Evan** and **Tyler Wright**, locked into a driving 138-BPM rhythm section that rattled the frosted glass panes of the overhead garage door.
+
+Two weeks earlier, the four of them had entered the **Commonwealth Polytechnic Institute** student union cassette contest with a blistering three-minute stadium rock anthem they had tracked on a borrowed four-track reel-to-reel machine: [**"Ignition"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-the-forgers-call?track=1-01-ignition). They had recorded it simply hoping to win fifty dollars in campus bookstore credit and maybe hear their tape played over the PA system inside **The Crucible** before Saturday afternoon kickoff.
+
+Instead, that afternoon, a courier envelope from Los Angeles had landed on their front porch on Progress Street.
+
+Someone in the A&R department at **Apex Records** had heard a dubbed copy of the CPI student contest cassette. They wanted to fly out to Blacksburg to sign the band.
+
+"Wait—play that bridge chord again, Cass," Ryan said, stepping away from his dual-stack tube amplifier with his cherry-sunburst solid-body electric guitar slung over his shoulder. "The F-sharp minor into the D major lift. Right where the booster stage separates."
+
+Cassidy adjusted her round wire-rimmed glasses, her face glowing in the amber LEDs of her synthesizer rack, and pressed the sustain pedal. A lush, brassy wave of sawtooth harmonics filled the tiny Blacksburg garage, sounding less like a college rehearsal space and more like the view out the viewport of an orbital command module two hundred miles above the Blue Ridge Mountains.
+
+"Listen to how the guitar overtones lock right into the synth filter when you hold the fifth," Cassidy whispered, her eyes wide with the pure, unfiltered joy of discovery. "Ry, what are we going to call this one?"
+
+Ryan looked down at the yellow spiral notebook resting on top of his amplifier, where he and Cassidy had been sketching lyrics between their Tuesday/Thursday engineering and astronomy lectures on **Commonwealth Green**.
+
+"We wrote it about the two things the four of us have been obsessed with since we were kids," Ryan said quietly. "The wonder of the cosmos—and the rockets it takes to get you there. Let's call it [**'The Stardust Engine'**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine)."
+
+Behind the drum kit, Tyler spun a hickory stick between his knuckles and grinned at his twin brother Evan. "Forget just calling the song that, Ry. That's the name of the band."
+
+***
+
+#### November 1986 — Sixteen-Year-Old Holly's `$1.00` Cross-License
+
+Before the A&R representatives from **Apex Records** ever stepped foot in Montgomery County, sixteen-year-old **Holly O'Connell**—the youngest of the three O'Connell siblings, who had skipped a grade in high school and spent her evenings reading contract law treatises at the **Pendleton Library** while her brother, sister, and cousins rehearsed—sat all five of them down at the scratched formica kitchen table on Progress Street.
+
+"Read Clause 14 of Apex's standard recording agreement," Holly said, tapping a yellow highlighter against the boilerplate legal packet the label had sent ahead by overnight mail. "They call it a *Controlled Composition & Work-for-Hire Assignment*. If you sign their contract as individuals, Apex owns your band name, your songwriting masters, and your arrangements forever, while charging every penny of studio time, travel, and promotion back against your royalties as recoupable debt."
+
+"Can we ask them to strike Clause 14?" Evan asked, frowning over his mug of tea.
+
+"They're a major label in Los Angeles; they'll never strike it if we ask," Holly replied calmly, pulling a three-page document she had typed on an electric typewriter at the Montgomery County Courthouse law library out of her backpack. "We don't ask them. Tonight—forty-eight hours before Apex's lawyers arrive—you four are executing a Virginia general partnership agreement and a **Perpetual Mutual Cross-License** with me as your business manager, for one dollar of consideration."
+
+She slid a crisp **`$1.00`** bill across the formica table.
+
+"Under this prior instrument," Holly explained, her voice steady beyond her sixteen years, "every composition, arrangement, and trademark created by Ryan, Cassidy, Evan, and Tyler is irrevocably vested in our family partnership first, with an automatic reversion trigger if any third-party licensee ever commits a material breach of fiduciary duty or personal safety. When Apex signs you on Thursday, they can only take an interest subject to our prior recorded cross-license."
+
+Ryan looked at his sixteen-year-old little sister, then exchanged a glance with Cassidy, Evan, and Tyler. Without hesitation, all four of them picked up their pens, signed the family partnership deed, and taped the `$1.00` bill inside the front cover of Holly's ledger.
+
+***
+
+#### 1987–1989 — *Electric Color*, *Neon Hearts*, & The Apex Gimmick
+
+When [***Electric Color***](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color) was released in the spring of **1987**, followed by their sophomore album [***Neon Hearts***](https://music.raggiesoft.com/artists/the-stardust-engine/1989-neon-hearts) in **1989** right as Ryan, Cassidy, Evan, and Tyler graduated from CPI, the songs they had written in the Progress Street garage—[**"My Anchor Holds"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds), [**"Saturday Night Lights"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-02-saturday-night-lights), and [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine)—exploded across college and rock radio.
+
+Yet behind the scenes, a five-year cold war had already begun between the Progress Street house and Apex's marketing tower in Los Angeles.
+
+Apex's executives didn't care about orbital mechanics, analog synthesizers, or the quiet sanctuary of the Blue Ridge Mountains. Looking for a cheap 1980s MTV marketing hook, Apex's publicity department twisted the band's name into a tacky corporate persona gimmick—printing promotional posters that branded Cassidy as their ***"Stardust"*** and Ryan as their ***"Engine"***, while pressuring them during the 1989 *Neon Hearts* sessions to record manufactured, slickly produced pop heartbreak ballads like [**"If You Walked Away"**](https://music.raggiesoft.com/artists/the-stardust-engine/1989-neon-hearts?track=1-04-if-you-walked-away).
+
+Every single member of the family hated the gimmick. To Ryan, Cassidy, Evan, Tyler, and Holly, *"Stardust"* and *"Engine"* were never nicknames for two people—they were the cosmos and the rockets that carried all five of them together. Whenever a tour leg ended, they ignored Apex's invitations to relocate to California and drove straight back to their rented wood-frame house on **Progress Street** in Blacksburg, where the neighbors waved from their front porches and nobody cared whether their faces were on a magazine cover.
+
 # Book 2: Live in Chicago & Mile Marker 98 (1990)
 
 ## Chapter 1: Mile Marker 98 (December 10, 1990)
 
+### Mile Marker 98 & Protocol T-10 (1990)
+
+**Date:** 1990-12-10 at 23:42 America/New_York
+
+#### October 12 – December 10, 1990 — From *Live in Chicago* to Mile Marker 98
+
+On the night of **October 12, 1990**, standing at the front edge of the sold-out stage in Chicago while eighteen thousand fans roared back the chorus of [**"Ignition"**](https://music.raggiesoft.com/artists/the-stardust-engine/1990-live-in-chicago?track=1-01-ignition-live-in-chicago) for the live concert recording of [***Live in Chicago***](https://music.raggiesoft.com/artists/the-stardust-engine/1990-live-in-chicago), twenty-three-year-old **Ryan O'Connell** felt invincible.
+
+Fifty-nine days later, on the freezing night of **December 10, 1990**, that invincibility ended in three seconds of black ice and tearing steel at **Mile Marker 98**.
+
+Apex Records' tour accounting department had refused to pay for the veteran winter mountain driver Holly had requested for the final December leg home to Virginia, hiring a cut-rate charter contractor instead. At `11:42 PM`, as snow blinded the windshield on the dark highway grade, the exhausted charter driver slammed the airbrakes on a sheet of black ice.
+
+Sitting awake in the front lounge of the coach with his acoustic guitar across his knees while Cassidy slept in the bunk behind him, Ryan saw the guardrail rushing toward the glass. He threw himself across the aisle to brace the bunk bulkhead door so Cassidy wouldn't be thrown into the forward stairwell when the coach rolled.
+
+He heard the screech of the tires, the violent crunch of the steel frame, and a white-hot snap in the middle of his spine—and then the world went silent beneath the falling snow.
+
+***
+
+#### Winter 1991 — Star City General & Protocol T-10
+
+When Ryan woke up under the fluorescent lights of the surgical intensive care unit at **Star City General Hospital**, the orthopedic trauma surgeon didn't sugarcoat the MRI scans: a complete **T10 thoracic spinal cord injury**. Everything above his navel—his arms, his hands, his fretboard calluses, his lungs, his voice—was 100% intact. Below his tenth thoracic vertebra, he would never walk again.
+
+For forty-eight hours, lying flat on his back listening to the rhythmic hiss of the hospital monitors, Ryan stared at the acoustic guitar case leaning against the corner wall and wondered if **The Stardust Engine** was over.
+
+His family didn't let that thought survive past the third morning.
+
+At `08:00 AM` on his fourth day in the step-down ward, **Cassidy**, twenty-year-old **Holly** (now in her first year of law school), and twenty-three-year-old twins **Evan** and **Tyler** walked into his hospital room carrying a portable four-track cassette deck, a pair of studio headphones, a carpenter's tape measure, and a thick three-ring binder labeled **`PROTOCOL T-10`**.
+
+"Don't even think about saying it, Ry," Cassidy said fiercely, sitting on the edge of his hospital mattress and wrapping her arms around his shoulders so tightly he could feel her heartbeat against his collarbone. "Your hands are right here. Your voice is right here. You are my brother, and we don't play a single note without you."
+
+Beside the bed, Evan and Tyler held up the carpenter's tape measure.
+
+"We already measured every doorway in the Progress Street house," Evan said, his voice steady and matter-of-fact. "Thirty-six inches clear from the front porch through the kitchen, the hallway, and the bathroom. Ty and I spent all day yesterday building a twelve-foot pressure-treated timber wheelchair ramp over the front steps on Progress Street at a 1:12 grade, and we lowered your workbench and amp heads in the garage so every knob sits at forty-two inches off the floor."
+
+"And as soon as you're cleared for outpatient rehab," Tyler added, tapping a commercial driver's manual tucked under his arm, "Evan, Holly, and I are all testing for our **Class A Commercial Driver's Licenses** with Passenger and Airbrake endorsements. Never again does an outside charter driver hired by a record label sit behind the wheel of a vehicle carrying our family."
+
+When Ryan was discharged from Star City General in his first ultralight manual wheelchair that spring and rolled up the wooden ramp onto the porch on **Progress Street** in Blacksburg, he learned everything from the ground up: fifteen-minute weight-shift pressure reliefs, transferring from his chair to the studio bench, and reverse-climbing steep curb cuts so his front casters wouldn't catch.
+
+In Blacksburg, surrounded by his sisters, his cousins, and Montgomery County neighbors who treated him like the exact same CPI kid who had lived on the block since 1985, Ryan healed.
+
+Twelve hundred miles to the west, however, **Apex Records** was waiting for the third album owed under their contract—and the executives in Los Angeles had no intention of letting the band stay in Virginia.
+
 # Book 3: The Friction Catastrophe & The Warehouse Tapes (1992–1995)
 
 ## Chapter 1: The Cage & The Warehouse Tapes (1992–1995)
+
+### The Beverly Hills Mansion Trap, The Friction Catastrophe & The Warehouse Tapes (1992–1995)
+
+**Date:** 1992-10-14 at 08:15 America/Los_Angeles
+
+#### September – October 1992 — The Recoupable Golden Cage in Beverly Hills
+
+If anyone watching MTV in the autumn of **1992** had driven past the tall wrought-iron security gates off Coldwater Canyon in **Beverly Hills, California**, they would have assumed **The Stardust Engine** was living the ultimate rock-and-roll fantasy.
+
+To force the band out of Blacksburg to record and promote their third studio album, ***Friction***, **Apex Records** had leased a sprawling, gated Mediterranean villa in the Beverly Hills hills—and every single member of the O'Connell and Wright family **despised** it with every fiber of their being.
+
+First, there was the financial fraud disguised as luxury. As twenty-two-year-old **Holly O'Connell** pointed out the moment she audited Apex's monthly accounting statement at the dining room table, the label wasn't paying for the mansion out of generosity. Under standard major-label accounting, 100% of the **`$25,000-a-month` Beverly Hills lease**, the security gate guards, and the daily catering trays were being charged directly back to the band as a **recoupable advance expense**—designed to trap the five of them in perpetual unrecouped debt to Apex while keeping them isolated two thousand miles away from their Virginia support system.
+
+Second—and far worse—was the physical reality of the house itself.
+
+The newly hired Apex executive overseeing the project, **Julian Vance**, hadn't even bothered to read the medical file from Ryan's December 1990 highway crash at Mile Marker 98 before ordering the travel department to lease the Beverly Hills compound. The gated mansion was a monument to hostile, inaccessible excess:
+* **Twenty slick travertine marble steps** curved up from the circular cobblestone driveway to the heavy carved front doors, with **zero wheelchair ramps** anywhere on the property.
+* Inside, the ground floor was broken up by sunken conversation pits bordered by sharp brass steps, narrow antique doorways that scraped the push-rims of Ryan's manual wheelchair, and a sweeping spiral staircase leading to all five upstairs bedrooms.
+* Every single morning and evening for six straight weeks, **Evan** and **Tyler Wright** had to grip the frame of Ryan's manual wheelchair and haul their cousin up and down the twenty marble steps by hand while Ryan held onto the side rails, his jaw clenched against the indignity of a house that treated his chair like an intrusion.
+* Refusing to sleep upstairs while Ryan was stranded on the first floor, **Cassidy, Holly, Evan, and Tyler** dragged the mattresses down the spiral staircase on their very first night in California and camped together on the floor of the formal dining room beside Ryan's chair.
+
+Outside the wrought-iron gates, the air tasted like hot asphalt and eight lanes of 405 Freeway exhaust. Whenever they tried to roll down to a corner market for groceries, tabloid photographers jumped out from behind the manicured hedges shoving flashbulbs in their faces, and every label executive who stopped by the house spoke in fake, syrupy industry platitudes.
+
+Sitting on the cold marble terrace on the evening of **October 13, 1992**, looking out over the smoggy orange haze of the Los Angeles basin while Cassidy practiced the melancholy chord progression of [**"Atmosphere"**](https://music.raggiesoft.com/artists/the-stardust-engine/2011-starfield-calibration?track=1-09-atmosphere) on a portable keyboard inside, Ryan rested his chin on his hand and felt a homesickness so sharp it ached in his chest.
+
+"I hate this place, Cass," Ryan said quietly when his sister stepped out onto the terrace with two mugs of hot tea. "The marble echoes every time my tires turn. You can't see a single star through the smog. It's not the Blue Ridge. It's not **Progress Street**. It's not home."
+
+"One more day, Ry," Cassidy promised softly, leaning down to rest her cheek against the top of his head. "Tomorrow morning is the album cover photo shoot at the downtown warehouse. As soon as it's over, we pack our bags, we hand the keys to the gate guard, and we go home to Blacksburg."
+
+***
+
+#### October 14, 1992 (`09:30 AM`) — The *Friction* Catastrophe (`"SHE'S MY SISTER!"`)
+
+At `09:30 AM` the next morning, shivering inside an unheated Los Angeles warehouse studio while a rolling television cart played cartoons in the corner to pass the time, the five of them waited for **Julian Vance** to arrive.
+
+When Vance had first pitched the album title ***Friction*** over the telephone in August, Ryan and Cassidy had believed Apex was finally letting them make a hard science-fiction concept record about the thermal atmospheric re-entry of a spacecraft hull. Cassidy had even hand-painted a concept cover showing a shuttle wreathed in plasma fire re-entering Earth's atmosphere.
+
+They had no idea that Vance—desperate to compete with the explicit shock-value pop campaigns dominating the 1992 charts—had looked at a 1989 *Neon Hearts* promotional photo of Ryan and Cassidy, assumed the two attractive co-leads were a romantic couple rather than brother and sister, and hadn't even known Ryan was paralyzed.
+
+When Julian Vance strode onto the warehouse floor at `10:15 AM`, took one disgusted look at Ryan's manual wheelchair, and tossed Cassidy's spacecraft painting onto a folding table as *"childish,"* the temperature in the room dropped twenty degrees.
+
+Refusing to abandon his fabricated shock campaign, Vance turned to commercial photographer **Kevin Mitchell**, crossed out the word *SIMULATED* on the storyboard sheet, and ordered Ryan and Cassidy to set up for **"Shot 12"**—demanding that the two of them perform an explicit, sexualized pose together on the studio floor.
+
+For two seconds, the silence in the warehouse was absolute.
+
+Cassidy went dead white, her hands trembling so violently she nearly dropped her folder of sheet music.
+
+Inside Ryan's chest, five years of Apex's corporate manipulation, six weeks of being trapped in a wheelchair-hostile Beverly Hills mansion, and the sheer revulsion of what Vance had just demanded of his little sister detonated all at once. Gripping his push-rims with white knuckles, Ryan roared across the concrete warehouse floor at the top of his lungs—a sound so raw and terrifying that photographer Kevin Mitchell dropped his primary camera lens onto the concrete, shattering the glass into a hundred pieces:
+
+***"SHE'S MY SISTER!"***
+
+Mitchell grabbed his camera bag, left his lighting umbrellas standing on the floor, and fled straight to his car—waiting down the block only long enough to make sure the family got out safely before driving to the Hollywood Police Precinct to give a sworn statement to detectives.
+
+Inside the warehouse, twenty-two-year-old **Holly O'Connell** didn't yell. She snapped open her leather briefcase, pulled out a certified copy of the **November 1986 `$1.00` Perpetual Mutual Cross-License**, and slapped it into Julian Vance's chest.
+
+"Under Paragraph 4 of our prior recorded 1986 Virginia partnership cross-license," Holly said, her voice colder than January ice on the New River, "Apex Records' material breach and unlawful coercion immediately terminates your license to the name **The Stardust Engine** and every composition we have ever written. This session is over. This album is dead. And by five o'clock tomorrow afternoon, the Superior Court of California will have a temporary restraining order sealing every reel of tape in this building."
+
+***
+
+#### October 15, 1992 – 1995 — Buying Progress Street Outright & *The Warehouse Tapes*
+
+They didn't spend one more night in the Beverly Hills mansion.
+
+Within two hours of rolling out of the downtown Los Angeles warehouse, Ryan, Cassidy, Holly, Evan, and Tyler drove back up Coldwater Canyon, packed their suitcases and instruments out of the ground-floor dining room, left the mansion keys on the marble foyer table, and headed straight east toward Interstate 40 and Interstate 81—not stopping until the green highway sign for **Blacksburg / Christiansburg** rose against the autumn ridges of the Blue Ridge Mountains.
+
+When photographer Kevin Mitchell's sworn deposition (*Evidence #94-C*) forced Apex Records into a total courtroom surrender—voiding the recording contract, surrendering 100% of the band's master tapes, and paying punitive settlement damages just to keep Mitchell off the witness stand—the family didn't look at real estate in Los Angeles, New York, or Nashville.
+
+Instead, Holly walked down to the bank on Main Street in Blacksburg, used their settlement check to buy their off-campus college rental house on **Progress Street NE** outright in cash, and founded **Engine Room Records, LLC**.
+
+While the major-label industry blacklisted them across commercial radio from 1993 to 1995, the five of them knocked out the basement walls underneath the Progress Street living room to build **Stardust Studios**, rented an industrial cinder-block warehouse on the edge of town for full-stage rehearsals, and dubbed thousands of underground cassettes by hand—**The Warehouse Tapes**—passing them from dorm room to dorm room across CPI until every student in Blacksburg knew that **The Stardust Engine** had come home for good.
 
 # Book 4: Ad Astra, Hard Reset & The Stadium Years (1996–2005)
 
@@ -69,7 +239,7 @@ Across the room, Cassidy opened her eyes behind the glass of her synth rack. A s
 > *My one, my only true desire!*
 > *Loved by the sun!"*
 
-Sitting in his chair with the warm brass prongs of the unplugged power cord resting in his lap, Ryan let out a long, quiet breath and looked over at Holly standing in the control-room doorway with her yellow legal pad tucked under her arm. They didn't have a major label anymore. They didn't have radio promotion or tour buses or a million-dollar marketing budget, and the multi-state lottery ticket sitting on the kitchen counter wouldn't be drawn for another nine months.
+Sitting in his chair with the warm brass prongs of the unplugged power cord resting in his lap, Ryan let out a long, quiet breath and looked over at Holly standing in the control-room doorway with her yellow legal pad tucked under her arm. They didn't have a major label anymore. They didn't have commercial radio promotion or tour buses or a million-dollar marketing budget—only a drafty warehouse, a secondhand tape machine, and the five of them.
 
 They didn't need any of it. Listening to Cassidy's voice echo off the cinder-block walls of the warehouse, Ryan knew that one day—whether it took two years or twenty—they were going to play *Ad Astra* under the open stars inside **The Crucible**, and sixty-five thousand people were going to hear his sister fly.
 
@@ -1204,9 +1374,9 @@ Suddenly, Jordan’s fingers flew across his **`mPad`** screen, and the crisp Au
 
 Ryan threw his head back and roared with laughter, while Cassidy, Holly, Evan, and Tyler lost it completely beside him.
 
-"Beverly Hills?!" Ryan laughed, slapping his armrest as Jordan’s friends grinned around them. "Oh, man, Jordan—that is the best question anybody has asked me in twenty years! I'll tell you the god's honest truth: back in 1989, when we were still stuck on **Apex Records**, the label executives *did* rent a massive gated mansion for us out in Beverly Hills while we were cutting our third record. And we hated every single minute of it!"
+"Beverly Hills?!" Ryan laughed, slapping his armrest as Jordan’s friends grinned around them. "Oh, man, Jordan—that is the best question anybody has asked me in twenty years! I'll tell you the god's honest truth: back in 1992, when we were still stuck on **Apex Records** after *Electric Color* and *Neon Hearts*, the label executives *did* rent a massive gated mansion for us out in Beverly Hills while we were out in L.A. cutting our third project, *Friction*—and billed every dime of the lease back to our recoupable advance! And we hated every single minute of it!"
 
-"Every single second!" **Cassidy** agreed fervently, adjusting her dry glasses. "Everything was plastic, the air tasted like eight lanes of freeway smog, every house had twenty marble steps with zero wheelchair ramps, and you couldn't step onto a sidewalk without paparazzi jumping out of the bushes!"
+"Every single second!" **Cassidy** agreed fervently, adjusting her dry glasses. "Everything was plastic, the air tasted like eight lanes of freeway smog, the mansion had twenty marble steps at the front door with zero wheelchair ramps so Evan and Tyler had to haul Ryan's chair up and down the stairs every day, and most of all—it wasn't Blacksburg. It wasn't home."
 
 "And yes," **Holly** grinned, pointing her thumb north toward Blacksburg, "when we say **Progress Street**, we mean *the* **Progress Street** right here in Blacksburg—two blocks north of **Commonwealth Mall**! The five of us rented that exact off-campus house together as CPI undergrads in 1985 and started the band in the unheated cinder-block garage out back. When we walked out on Apex in 1992 after Ryan's wreck on I-81, we bought that house on Progress Street outright in cash, turned the basement into **Stardust Studios**, and never left."
 
