@@ -222,6 +222,7 @@
 |Major League Baseball|Federated Baseball League (FBL)|Professional baseball league.|
 |Boston Red Sox|Boston Beacons|FBL Baseball team. Plays at **Back Bay Park**, where fans belt the eighth-inning horn hook of *"Sweet Evangeline"*.|
 |Fenway Park|Back Bay Park|Historic Boston ballpark and home of the FBL's Boston Beacons.|
+|Rosemont Horizon / Allstate Arena (Chicago)|The Midwest Horizon Arena *(commonly called "Midwest Horizon")*|18,000-seat indoor arena outside Chicago, Illinois near O'Hare Airport. Site of The Stardust Engine's *Live in Chicago* recording during the 1989–1990 *Neon Hearts* Tour, where they opened in a strict 30-minute support slot for headlining family friends (who wanted The Stardust Engine to jam with them on stage to close the night, only for Apex Records executives to forbid it).|
 |"Sweet Caroline" (Neil Diamond)|"Sweet Evangeline"|Iconic eighth-inning horn-hook ballpark singalong at Back Bay Park.|
 |Heisman Trophy|The Gridiron Trophy|Premier collegiate football individual player award.|
 |New York Yankees|Empire City Emperors|FBL Baseball team.|

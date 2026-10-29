@@ -490,7 +490,7 @@ The moment a tour leg or a studio mixing block wrapped, Ryan, Cassidy, Holly, Ev
 
 #### October 12 – December 10, 1990 — From *Live in Chicago* to Mile Marker 98
 
-On the night of **October 12, 1990**, standing at the front edge of the sold-out stage in Chicago while eighteen thousand fans roared back the chorus of [**"Ignition"**](https://music.raggiesoft.com/artists/the-stardust-engine/1990-live-in-chicago?track=1-01-ignition-live-in-chicago) for the live concert recording of [***Live in Chicago***](https://music.raggiesoft.com/artists/the-stardust-engine/1990-live-in-chicago), twenty-three-year-old **Ryan O'Connell** felt invincible.
+On the night of **October 12, 1990**, standing at the front edge of the sold-out stage at **The Midwest Horizon Arena** (*Midwest Horizon*) in Chicago while eighteen thousand fans roared back the chorus of [**"The Stardust Engine"**](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago?track=1-01-the-stardust-engine-live-in-chicago) for the live concert recording of [***Live in Chicago***](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago), twenty-three-year-old **Ryan O'Connell** felt invincible.
 
 Fifty-nine days later, on the freezing night of **December 10, 1990**, that invincibility ended in three seconds of black ice and tearing steel at **Mile Marker 98**.
 
@@ -1570,7 +1570,7 @@ As the final golden chord faded into the Appalachian night and the stadium shook
 
 > *"Thank you so much..."*
 
-Twenty-six years ago at the Rosemont Horizon on *Live in Chicago*, she had whispered those exact four words at the end of *"If You Walked Away"* when she was twenty-four years old, exhausted to the point of collapse, and terrified of being abandoned. Tonight, at fifty, surrounded by sixty-five thousand people who loved her for exactly who she was, those same four words sounded like pure victory.
+Twenty-six years ago at Midwest Horizon on *Live in Chicago*, she had whispered those exact four words at the end of *"If You Walked Away"* when she was twenty-four years old, exhausted to the point of collapse, and terrified of being abandoned. Tonight, at fifty, surrounded by sixty-five thousand people who loved her for exactly who she was, those same four words sounded like pure victory.
 
 Without breaking the deep-space atmosphere, a canopy of cool indigo planetarium lasers fanned out overhead as the band glided upward through the two interlocking instrumental movements of **The Apoapsis Suite**—[**"Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=2-02-apoapsis) and [**"Second Apoapsis"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=2-03-second-apoapsis)—into the sweeping vocal horizon of [**"The Spectrum (True Color)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=2-04-the-spectrum-true-color) (*"And we are seeing the true spectrum! / A billion stars burning ultraviolet and blue"*) and the indigo planetarium calm of [**"Moon 1: Tidal Lock"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=2-05-moon-1-tidal-lock) (*"No matter how I turn, no matter where I fly / You are the only anchor in my sky / Yeah, I'm in a tidal lock with you!"*).
 
