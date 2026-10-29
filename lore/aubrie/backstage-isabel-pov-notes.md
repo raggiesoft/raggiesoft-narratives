@@ -5,9 +5,9 @@
 ---
 
 ## 1. Move-In Friday: *"The Awkward Outlet"* from Isabel Dawson's POV (`August 22, 2014 — 13:00 EST`)
-- **Corresponding Main-Novel Scene:** [`raggiesoft-narratives/books/aubrie/e001/c003/s003.md`](../../books/aubrie/e001/c003/s003.md) (*"The Awkward Outlet"*, locked strictly to Aubrey's POV).
+- **Corresponding Main-Novel Scene:** [`raggiesoft-narratives/books/aubrie/e002/c003/s003.md`](../../books/aubrie/e002/c003/s003.md) (*"The Awkward Outlet"*, locked strictly to Aubrey's POV).
 - **Why This Cannot Be Shown in Aubrey's POV:**
-  - In `e001/c003/s003.md`, eighteen-year-old Aubrey Fuller **does not know that he has bilateral progressive sensorineural hearing loss** (because his anti-doctor mother, Aubrie Sinclair, never had his hearing or vision tested).
+  - In `e002/c003/s003.md`, eighteen-year-old Aubrey Fuller **does not know that he has bilateral progressive sensorineural hearing loss** (because his anti-doctor mother, Aubrie Sinclair, never had his hearing or vision tested).
   - Locked inside Aubrey's POV with the solid-core oak fire door of `Room 214` shut, Aubrey hears nothing in the hallway at all—the first thing he registers is the sudden change in air pressure and the draft across his neck when the motorized door swings inward, causing him to turn around in his wheelchair and see Isabel waving in the doorway.
 - **What Actually Happened in the Corridor (Isabel's POV — CPI Residence Life Two-Knock Welfare-Check Protocol):**
   1. **The Friday Early-Arrival Check-In Clipboard:** At `1:00 PM` on Friday, August 22, 2014, 2nd-Floor Female RA **Isabel Claire Dawson** (`Room 215`) is walking her early-arrival check-in rounds on the second floor of Bennett Hall wearing her official two-tone Chicago Maroon, white, and Burnt Orange CPI Residence Life Student Staff polo shirt, pinned nametag, and RA duty lanyard. Her clipboard lists a single Friday early arrival for `Room 214, Bed A`: **`Aubrey Fuller`** (whom the front desk logged as having checked in earlier that day).
@@ -26,18 +26,18 @@
 
 ---
 
-## 2. Post-Courtroom Roadmap (`e005/c002`): Isabel's Confession, ADL Training, and the No Jealousy Pact (`August 2015`)
-- **Timeline Placement:** Immediately following the triumphant conclusion of Jordan's guardianship/conservatorship hearing in Courtroom 3B ([`e005/c001/s006.md`](../../books/aubrie/e005/c001/s006.md)), now that Aubrie Sinclair has been permanently stripped of any legal threat and remanded for civil contempt.
+## 2. Post-Courtroom Roadmap (`e006/c002`): Isabel's Confession, ADL Training, and the No Jealousy Pact (`August 2015`)
+- **Timeline Placement:** Immediately following the triumphant conclusion of Jordan's guardianship/conservatorship hearing in Courtroom 3B ([`e006/c001/s006.md`](../../books/aubrie/e006/c001/s006.md)), now that Aubrie Sinclair has been permanently stripped of any legal threat and remanded for civil contempt.
 - **Core Narrative Beats to Write Next:**
-  1. **Isabel Admits the Truth:** After months of blushing, secret smiles, almost-slips on the Singapore video call (*"how madly in l— ... in luck!"*), and the powerful reunion hug at Gate 4 of `ROA` ([`e004/c010/s004.md`](../../books/aubrie/e004/c010/s004.md)), **Isabel Claire Dawson** finally admits out loud to Jordan (and the found family) what everyone has already figured out: **she is madly in love with Jordan**.
+  1. **Isabel Admits the Truth:** After months of blushing, secret smiles, almost-slips on the Singapore video call (*"how madly in l— ... in luck!"*), and the powerful reunion hug at Gate 4 of `ROA` ([`e005/c010/s004.md`](../../books/aubrie/e005/c010/s004.md)), **Isabel Claire Dawson** finally admits out loud to Jordan (and the found family) what everyone has already figured out: **she is madly in love with Jordan**.
   2. **Welcoming Isabel & Teaching Her Jordan's ADLs:** The found family warmly welcomes Isabel into their inner circle and teaches her hands-on how they perform **Jordan's Activities of Daily Living (`ADLs`)** with him—respecting his 100% cognitive sovereignty, consent cues, and the `45-degree` two-person transfer and personal care routines he trusts them with.
   3. **Aubrie Explains the Full Scope of the No Jealousy Pact (and Isabel's Reaction):**
      - **Aubrie Jean Kelly** sits down with Isabel and openly reassures her that not only is she completely okay with Isabel loving Jordan and joining their **No Jealousy Pact**, **Aubrie also candidly admits that the No Jealousy Pact includes being allowed to have sex with Jordan**.
      - **Isabel's Reaction:** This revelation causes **Isabel to blush furiously**—she can barely believe her ears! While Isabel is 100% comfortable and certain about the **romance, emotional devotion, and ADL care** part of loving Jordan, she asks for a little time to think and process because she is struggling to wrap her head around the concept that the No Jealousy Pact includes full sexual intimacy with Jordan alongside his pact.
 
-- **Music & Trigger Exclusion Rule (`e005/c002/s002.md`):**
+- **Music & Trigger Exclusion Rule (`e006/c002/s002.md`):**
   - **CRITICAL EXCLUSION**: **NEVER** reference, suggest, or model any track on REO Speedwagon's *"Can't Fight This Feeling"*—it is a massive real-life autistic trigger and must be avoided at all costs.
 
-- **Music & Trigger Exclusion Rule (`e005/c002/s002.md`):**
+- **Music & Trigger Exclusion Rule (`e006/c002/s002.md`):**
   - **CRITICAL EXCLUSION**: **NEVER** reference, suggest, or model any track on REO Speedwagon's *"Can't Fight This Feeling"*—it is a massive real-life autistic trigger and must be avoided at all costs.
 

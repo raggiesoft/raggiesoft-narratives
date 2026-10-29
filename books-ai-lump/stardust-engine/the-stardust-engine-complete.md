@@ -1161,9 +1161,9 @@ Down here in **The Cove**, wrapped in ninety-five-point-five-degree water with h
 
 **Date:** 2016-05-21 at 15:00 America/New_York
 
-![Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, students and alumni wearing maroon CPI shirts and gold-foil ticket lanyards gather around Smokin' Anvil BBQ tents and an Engine Room Records filming notice sign.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/forger-nation-tailgate-plaza.jpg)
+![Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, students and alumni wearing maroon CPI shirts and gold-foil ticket lanyards gather around Smokin' Anvil BBQ tents and an Engine Room Records filming notice sign.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p001/forger-nation-tailgate-plaza.jpg)
 
-![At 6:00 PM golden hour inside The Crucible stadium, fans fill the Section 104, Row A accessible terrace behind the front railing looking across the green turf toward the massive concert stage on the front-left.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/section-104-row-a-arrival.jpg)
+![At 6:00 PM golden hour inside The Crucible stadium, fans fill the Section 104, Row A accessible terrace behind the front railing looking across the green turf toward the massive concert stage on the front-left.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p001/section-104-row-a-arrival.jpg)
 
 #### 3:00 PM — Protocol T-10 & The Four-Hour Clock
 
@@ -1243,9 +1243,9 @@ In the front row of the trumpet section, a senior squad leader grinned from ear 
 
 **Date:** 2016-05-21 at 19:55 America/New_York
 
-![From the Section 104, Row A accessible terrace inside The Crucible at night, fans cheer up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/act-i-ignition-marching-forgers.jpg)
+![From the Section 104, Row A accessible terrace inside The Crucible at night, fans cheer up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p002/act-i-ignition-marching-forgers.jpg)
 
-![On stage inside The Crucible during 'The Stardust Engine', Ryan O'Connell plays a soaring lead on his sunburst electric guitar from his manual wheelchair on stage-left while Cassidy O'Connell sings and plays her wraparound analog synthesizer rig at center-right, backed by Evan Wright, Tyler Wright, and the 300 uniformed brass and percussionists of the CPI Marching Forgers under deep cosmic-violet nebula projections.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/stardust-engine-300-marching-forgers.jpg)
+![On stage inside The Crucible during 'The Stardust Engine', Ryan O'Connell plays a soaring lead on his sunburst electric guitar from his manual wheelchair on stage-left while Cassidy O'Connell sings and plays her wraparound analog synthesizer rig at center-right, backed by Evan Wright, Tyler Wright, and the 300 uniformed brass and percussionists of the CPI Marching Forgers under deep cosmic-violet nebula projections.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p002/stardust-engine-300-marching-forgers.jpg)
 
 #### 7:55 PM — Five Minutes to Ignition
 
@@ -1371,9 +1371,9 @@ Across the stage deck, Ryan caught Cassidy's eye and winked.
 
 **Date:** 2016-05-21 at 20:25 America/New_York
 
-![Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 — VDU 0' while down on the Section 104, Row A accessible terrace, fans cheer wildly.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/fifty-two-to-nothing-scoreboard.jpg)
+![Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 — VDU 0' while down on the Section 104, Row A accessible terrace, fans cheer wildly.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p003/fifty-two-to-nothing-scoreboard.jpg)
 
-![Cassidy O'Connell stands fiercely at the front edge of The Crucible stadium stage in a black leather jacket over a maroon CPI Alumni shirt, gripping a tilted microphone stand and belting 'Not Your Doll' while Ryan O'Connell shreds on his sunburst electric guitar from his manual wheelchair beside her and crimson pyrotechnics erupt behind them.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/not-your-doll-cassidy-front-and-center.jpg)
+![Cassidy O'Connell stands fiercely at the front edge of The Crucible stadium stage in a black leather jacket over a maroon CPI Alumni shirt, gripping a tilted microphone stand and belting 'Not Your Doll' while Ryan O'Connell shreds on his sunburst electric guitar from his manual wheelchair beside her and crimson pyrotechnics erupt behind them.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p003/not-your-doll-cassidy-front-and-center.jpg)
 
 #### 8:25 PM — Zero Backing Tracks & *"Not Your Doll"*
 
@@ -1465,9 +1465,9 @@ All four towering stadium floodlight banks went completely dark.
 
 **Date:** 2016-05-21 at 20:55 America/New_York
 
-![Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg)
+![Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg)
 
-![During 'Moon 2: Roche Limit' inside The Crucible, Ryan O'Connell sits front and center in his manual wheelchair playing an aggressive riff on his sunburst electric guitar while Cassidy O'Connell plays her synthesizer rig behind him and the 120-foot curved LED screen displays a fracturing moon glowing with molten-gold and crimson fissures under emergency crimson planetarium lasers.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/roche-limit-twin-moons-touchdown.jpg)
+![During 'Moon 2: Roche Limit' inside The Crucible, Ryan O'Connell sits front and center in his manual wheelchair playing an aggressive riff on his sunburst electric guitar while Cassidy O'Connell plays her synthesizer rig behind him and the 120-foot curved LED screen displays a fracturing moon glowing with molten-gold and crimson fissures under emergency crimson planetarium lasers.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p004/roche-limit-twin-moons-touchdown.jpg)
 
 #### 8:55 PM — Act III: *"Escape Velocity (Ad Astra)"*
 
@@ -1611,7 +1611,7 @@ Finally, as the red warning lasers melted into warm golden sunlight and Cassidy 
 
 **Date:** 2016-05-21 at 21:50 America/New_York
 
-![Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL • AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/brothers-keeper-acoustic-spotlight.jpg)
+![Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL • AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p005/brothers-keeper-acoustic-spotlight.jpg)
 
 #### 9:50 PM — Act V: *Our Own Frequency* & *"Brother's Keeper"*
 
@@ -1687,9 +1687,9 @@ Without a single drum or electric amplifier, brother and sister sang the strippe
 
 **Date:** 2016-05-21 at 22:15 America/New_York
 
-![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg)
+![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg)
 
-![During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, fans in Section 104, Row A hold each other close along the terrace railing.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/my-anchor-holds-section-104.jpg)
+![During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, fans in Section 104, Row A hold each other close along the terrace railing.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p006/my-anchor-holds-section-104.jpg)
 
 #### 10:15 PM — Act VI: *Saturday Night Lights* & *Progress Street*
 
@@ -1739,7 +1739,7 @@ Sixty-five thousand people across the lower bowl, **The Anvil**, and the upper d
 
 Both of them stepped back from their microphones completely—Ryan just chiming the twelve-string chords from his wheelchair and Cassidy pressing her right hand over her heart while sixty-five thousand voices across three generations of Blacksburg and Christiansburg history carried the entire chorus across the dark valley under the shimmering autumn-gold stadium floodlight towers:
 
-![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg#fullwidth)
+![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg#fullwidth)
 
 > **65,000 FORGERS:** ***"CHASING THE NEON ON THE HUCKLEBERRY TRAIL!***
 > ***WHERE THE TWILIGHT GLOWS AND THE SHADOWS SAIL!***
@@ -1778,9 +1778,9 @@ He flipped the switch down with an audible *CLICK*, and every stage light, flood
 
 **Date:** 2016-05-21 at 22:40 America/New_York
 
-![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p007/electric-color-rainbow-reclamation.jpg)
+![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p007/electric-color-rainbow-reclamation.jpg)
 
-![At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, white-and-maroon Blue Ridge Transit articulated shuttles displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on their amber LED destination signs board students and alumni for the ride home.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p007/crucible-bus-loop-forgers-shuttle.jpg)
+![At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, white-and-maroon Blue Ridge Transit articulated shuttles displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on their amber LED destination signs board students and alumni for the ride home.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p007/crucible-bus-loop-forgers-shuttle.jpg)
 
 #### 10:40 PM — Operation Anvil & The `1:40` Reveal of *"Electric Color"*
 

@@ -2,6 +2,340 @@
 title: "The Eleventh Child"
 ---
 
+# The Eleventh Child, The Virginia Beach Years
+
+## The Ninth-Grade Loophole & The Quiet Corner
+
+### Part 1: The Ninth-Grade Loophole & The Opt-Out Stamp
+
+**Date:** 2010-09-07 at 08:00 America/New_York
+
+![Inside the Virginia Beach high school administrative guidance office at 8:20 AM on September 7, 2010, Aubrie Renee Sinclair in her crisp slate-blue collared blouse and dark navy slacks stands rigidly at the front counter sliding a notarized exemption form toward the hesitant guidance secretary and assistant principal while checking the green Family Life Education opt-out sheet, as Aubrey sits quietly beside the counter in his manual wheelchair looking down at his hands.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p001/the-ninth-grade-loophole.jpg)
+
+#### 8:00 AM — The End of the Kitchen Table
+
+For nine years, school had been the laminate kitchen table in the back of the single-family suburban house in Virginia Beach.
+
+From the autumn he turned five until the summer he turned fourteen, Aubrey had never set foot inside a classroom. Every August, his mother had mailed a single sheet of paper—a *Notice of Intent to Provide Home Instruction*—to the Virginia Beach City Public Schools central office, stacked mail-order workbooks on the counter beside the refrigerator, and kept the front blinds drawn tight.
+
+At age five, when he had outgrown his toddler stroller and his stiff, uncooperative legs had buckled and collapsed beneath him every time she yanked him up by the arm and ordered him to walk across the linoleum, she hadn't taken him to a doctor. Aubrie Sinclair did not believe in doctors, and she did not believe in vaccines. To her, doctors were arrogant meddlers looking for excuses to label children and take them away from their mothers, and every struggle Aubrey had—from the way his legs refused to hold his weight to the way no spoken words ever came out of his throat—was simply stubbornness and a prolonged act of laziness.
+
+She had homeschooled him through elementary and middle school for one overriding reason: in Virginia, any child entering public Kindergarten or elementary school for the first time was required by law to submit a comprehensive physical examination signed by a licensed physician. Had a doctor ever put a stethoscope to five-year-old Aubrey's chest, tested the tone in his legs, held an eye chart across a room, or checked his immunization record, her entire private world would have collapsed in a single afternoon. Instead, because she got tired of physically dragging his dead weight through grocery store aisles—and knew a store manager or neighbor would eventually call Child Protective Services if they saw a five-year-old boy collapsing onto the floor—she had walked into a retail medical-supply pharmacy and paid cash out of pocket for a heavy, adult-sized, off-the-shelf manual wheelchair that required no prescription at all. Outside the house, the chair kept strangers from asking questions. Inside the house, she still berated him every single day for sitting in it.
+
+By the summer of 2010, however, the kitchen table had reached its limit.
+
+For one thing, fourteen-year-old Aubrey had quietly taught himself every math and science textbook in the house by holding the pages two inches from his nose until the black ink came into focus, and his mother could no longer understand—much less grade—the Algebra II and chemistry problems he worked out in his notebooks. For another, a homeschooled student in Virginia could not be awarded a state-accredited Advanced Studies Diploma or an official high school class rank—the exact pieces of paper required to make state universities hand out full-ride scholarships. And perhaps most decisively of all, Aubrie Sinclair was tired of being trapped in the house all day when a yellow county school bus with a hydraulic wheelchair lift could pick him up at the curb at seven-fifteen every morning and give her seven hours of free, taxpayer-funded supervision.
+
+And because he was entering public school for the first time in the ninth grade rather than Kindergarten or elementary school, the statutory window requiring a physician's school-entrance physical exam had legally expired.
+
+***
+
+#### 8:20 AM — The Guidance Office Stack
+
+The administrative office at the front of the high school smelled of floor wax, hot photocopier toner, and damp September humidity.
+
+Parked beside the counter in his heavy pharmacy wheelchair with his plastic budget laptop zipped inside the backpack hanging from his push handles, Aubrey kept his eyes down on the speckled gray linoleum tiles. Beyond arm's length, the framed banners on the far wall and the faces of the secretaries behind the counter dissolved into soft, indistinct smears of color, while the ringing telephones and hallway bells blended into a thick, muffled underwater hum. He didn't know that other fourteen-year-olds could read the posters across the room or hear crisp consonants down a hallway; to him, that blurry, muffled static was simply how distance worked.
+
+Across the laminate counter, Mrs. Vance, the ninth-grade guidance secretary, was paging through Aubrey's thin manila enrollment folder with a deeply furrowed brow. Beside her stood Mr. Henderson, the assistant principal in charge of student services.
+
+"Ms. Sinclair," Mrs. Vance said hesitantly, tapping a yellow checklist clipped to the inside of the folder. "We have your eighth-grade home-instruction transcript and your proof of Virginia Beach residency, and we've assigned Aubrey to a front-row wheelchair table in all of his ninth-grade honors sections. But his health folder is completely empty. There's no School Entrance Health Form `MCH 213G`, no pediatrician's physical, and zero immunization dates on file."
+
+Aubrie Sinclair didn't flinch. Standing tall and rigid in a crisp slate-blue blouse with her dark brown hair pulled tightly back into a severe low bun, she opened her structured shoulder purse and slid a single sheet of paper across the counter like a playing card. At the bottom of the page gleamed the raised embossed seal and black ink stamp of a bank notary.
+
+"That is Commonwealth of Virginia Form `CRE-1`, Certificate of Religious Exemption," his mother said, her voice brisk, clipped, and rehearsed to razor perfection. "Under Virginia Code Section `22.1-271.2(C)`, my notarized signature certifying that the administration of immunizing agents conflicts with my religious tenets exempts my son from every vaccination requirement in this building. And before you ask for a doctor's signature on a physical examination form, I suggest you read Virginia Code Section `22.1-270`. A physical examination by a physician is required *only* for students entering a public preschool, kindergarten, or elementary school. Aubrey is entering the ninth grade. No physical examination is required by law, and none will be provided."
+
+Mrs. Vance blinked, looking helplessly up at Mr. Henderson.
+
+Mr. Henderson cleared his throat, shifting his weight as he glanced down at Aubrey's manual wheelchair and the backpack holding his laptop. "Technically, Ms. Sinclair, you're correct about the ninth-grade statutory threshold on the entrance physical and the `CRE-1` religious exemption. However, given that Aubrey uses a wheelchair and communicates by typing on a computer rather than speaking aloud, our special education coordinator would normally convene a multidisciplinary team to conduct an Individualized Education Program evaluation—including a speech-language assessment, a school psychologist evaluation, and a routine vision and hearing screening by the school nurse—"
+
+"You will do no such thing," Aubrie Sinclair snapped, her voice dropping ten degrees as she pulled a second pre-printed sheet from her folder and slapped it down next to the first. "Under federal IDEA regulations, `34 CFR § 300.300(b)`, a school division may not conduct an initial evaluation or provide special education services without the written consent of the parent. I am formally refusing consent for any psychological, medical, speech, or special-education evaluation of my son, and I am opting him out of all school nurse vision and hearing screenings under Section `22.1-273`."
+
+She leaned slightly across the counter, her cold dark brown eyes locking onto the assistant principal.
+
+"My son is not intellectually disabled, Mr. Henderson. I have taught him myself for nine years. Put his table at the front of the room near a wall outlet so his computer doesn't die, let him type his answers, and give him his tests on paper. He will get straight A's in every single class you put him in, he will raise your school's standardized test averages, and he will never cause you a single second of disciplinary trouble. All you have to do is leave him alone."
+
+Mr. Henderson looked from the notarized legal citations on the counter to the quiet, motionless fourteen-year-old boy in the wheelchair, and then to the clock on the wall—where thirty more first-day registration problems were waiting in the hallway outside. An honors student who would score a hundred percent on his Standards of Learning exams and required zero special-education budget was the path of least resistance.
+
+"A basic observational Section 504 classroom accommodation for front-row wheelchair seating and typed responses doesn't require a medical evaluation," Mr. Henderson conceded, signing his initials at the bottom of the routing slip. "We can put that in place today."
+
+"Good," Aubrie Sinclair said coldly. Then she reached for the final document in the welcome packet—the pale green **Virginia Family Life Education (`FLE`) Parental Notification & Opt-Out Form**—and uncapped her pen.
+
+With hard, slashing strokes that dug into the paper beneath it, she checked the box opting Aubrey out of every single Family Life, human reproduction, bodily autonomy, and health education unit from ninth grade through graduation, signed her name across the bottom line, and shoved the green sheet back across the counter.
+
+"And he will not sit through a single minute of your Family Life classes," she declared, her lip curling with distaste. "That curriculum is completely *inappropriate*. My son does not need his head filled with filth about human bodies or relationships. Whenever his health class starts those units, you will put him in the library by himself with his math textbooks. Do we understand each other?"
+
+"Yes, ma'am," Mrs. Vance murmured, stamping **RECEIVED — OPT-OUT ON FILE** across the top of the green form with a heavy *thud*. "We'll note on his schedule that he goes to the library for independent study during all Family Life modules."
+
+Aubrie Sinclair snapped her purse shut, gripped the push handles of Aubrey's wheelchair, and spun him toward the hallway door without once asking him what he thought.
+
+Sitting rigid between the metal armrests as the heavy office door swung shut behind them, Aubrey stared down at his knuckles in his lap. He didn't know what vaccines were. He didn't know what Family Life Education was. All he knew was that for the next four years, his job was to sit six feet from the whiteboard, hold his books two inches from his face, get a hundred percent on every test, and remain completely invisible.
+
+### Part 2: The Opt-Out Library & The Girl with Hazel Eyes
+
+**Date:** 2012-03-14 at 10:15 America/New_York
+
+![In the quiet sunlit back corner of the Virginia Beach high school library behind the reference bookshelves, Aubrey sits in his manual wheelchair with his plastic laptop plugged into the baseboard outlet while Jessamine 'Jess' Mercer sits across the oak table in her sage-green cardigan with noise-dampening headphones around her neck, smiling warmly with her hazel eyes as she slides a small square note across the wood toward him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p002/the-opt-out-library-jess.jpg)
+
+#### 10:15 AM — The Laminated Pass
+
+For a year and a half, Aubrey Fuller had been the ghost with the `4.0` grade point average.
+
+Every weekday morning at seven-fifteen, the yellow Virginia Beach school bus lowered its hydraulic platform at the curb in front of the house, and every afternoon at two-forty-five, it brought him back. In between, he existed inside a six-foot bubble at the very front of each classroom. Because his small wheelchair-accessible table was parked right against the front wall beside the teacher's lectern and wall outlet, he could squint hard enough to make out the largest dry-erase marker letters on the whiteboard, and he taught himself the rest by holding his AP Chemistry, Calculus, and World History textbooks two inches from his nose.
+
+He never raised his hand. He never spoke. When a teacher called on him or checked his homework, he typed a concise, grammatically flawless line into `Quantum WritePad` on his heavy plastic laptop—whose aging battery could barely hold a charge for twenty minutes away from the wall socket—and turned the screen toward the teacher's desk. Because he scored a `100` on every quiz and exam, the teachers loved having him on their rosters, and the administration held him up on paper as a shining triumph while never asking a single question about his life at home.
+
+To the other sixteen-year-olds in the building, however, he might as well have been furniture.
+
+In the hallways between bells, the roaring tide of two thousand teenagers was a terrifying, blurry wall of noise and slamming lockers that made his chest ache and his hands grip his wheel rims until his fingers went white. At lunch, rather than endure the deafening echo chamber of the cafeteria, he parked his chair in the alcove outside his chemistry teacher's locked lab and ate the cold peanut-butter sandwich from his backpack in silence.
+
+Then came the second Wednesday of March during his sophomore year.
+
+At the start of second-period Tenth-Grade Health and Driver's Education Theory—a classroom course where his mother had already forbidden him from ever filling out a learner's permit application—Coach Miller walked over to Aubrey's front-row table carrying a yellow laminated hall pass before he even switched on the overhead projector.
+
+"Alright, Fuller," Coach Miller said in a low voice, setting the pass beside Aubrey's closed laptop. "We're starting the three-week Family Life Education module today. Your mom's opt-out form is flagged in the system, so you're assigned to independent study in the library during second period through the end of the month. Head on down."
+
+Aubrey gave a small nod, slipped the laminated pass onto his lap, and wheeled himself out into the quiet, empty corridor after the tardy bell rang.
+
+***
+
+#### 10:25 AM — Behind the Reference Stacks
+
+The high school library was the only room in the entire building that didn't hurt his ears.
+
+Wait-high oak bookshelves lined the carpeted floor, absorbing the hum of the ventilation ducts, and the main tables near the circulation desk were occupied by a senior English class working on research papers. After signing the clipboard on the low counter by the entrance, Aubrey wheeled past the main reading area toward the far back corner behind the tall encyclopedic reference stacks—a secluded nook with a single rectangular oak table, a wall outlet beside the baseboard, and tall windows looking out onto a quiet courtyard of pine trees.
+
+For the past three semesters, whenever he had been opted out of a health unit or a school nurse screening, that back corner table had been completely empty.
+
+Today, someone was already sitting there.
+
+At the far end of the oak table sat a girl about his own age. She had her knees drawn up slightly on her chair, a thick Latin grammar textbook propped open against a spiral notebook, and a pair of soft foam ear defenders resting around her neck over a loose, sage-green knit cardigan. Even before Aubrey rolled close enough for her features to sharpen out of the blur, he noticed the way she was gently tapping the eraser of her pencil against her thumb in a steady, rhythmic four-count—calming herself down from the morning hallway rush the exact same way Aubrey sometimes tapped his fingers against his wheelchair frame.
+
+Hearing the quiet *creak* of his heavy pharmacy wheelchair's rubber tires on the carpet, she looked up.
+
+Aubrey froze, his hands clamping instinctively onto his wheel rims to stop himself and turn around. In his experience, whenever a classmate noticed him approaching an occupied table, they either stared awkwardly at his chair, talked to him in a loud, slow, singsong voice as if he were four years old, or suddenly remembered they needed to sit somewhere else.
+
+The girl didn't do any of those things.
+
+She didn't stare at his wheelchair, and she didn't recoil. Instead, she looked quietly at the yellow laminated pass sitting on his lap, then at the wall outlet beside the table leg nearest her, and shifted her backpack off the tabletop to clear the space directly across from the socket.
+
+Slowly, cautiously, Aubrey released his wheel locks and rolled up to the open end of the oak table.
+
+Now that she was less than three feet away across the narrow wood, her face came into clear, sharp focus for him. Like Aubrey himself, she had a slightly heavier, softly rounded build—something that made both of them automatic targets for cruel whispers in the hallways and gym classes—and she wore a loose, comfortable sage-green knit cardigan over a cream cotton tee that didn't cling or pinch. She had soft chestnut-brown hair with neat bangs framing her forehead and a small tortoiseshell clip holding one side back behind her ear, and she was looking at him with the warmest, kindest **hazel eyes** he had ever seen—flecked with soft green and amber gold under the window light.
+
+Better still, she didn't force him to hold her gaze. As soon as she saw him blink and look down at the wood grain of the table, she softened her posture and looked down at her spiral notebook too, taking all the pressure out of the air between them.
+
+Instead of speaking out loud and breaking the library silence, she tore a clean corner of lined paper from the back of her notebook, wrote two lines in neat, rounded cursive with her mechanical pencil, and slid the paper across the oak tabletop until it stopped two inches from Aubrey's right hand.
+
+Aubrey leaned forward slightly so the penciled words came into focus:
+
+*Hi. I'm Jessamine. Are you hiding from second period too? The gym bleachers were way too loud today.*
+
+Aubrey stared at the little square of paper. His heart gave a strange, startled thump against his ribs. Nobody at this school had ever passed him a note. Nobody had ever admitted that the building was too loud for them, too.
+
+Carefully, he lifted his heavy plastic laptop out of his bag, plugged the thick black power brick into the wall outlet beside his wheel so the worn battery wouldn't die on him, and pressed the power button. While `Quantum OS 7 Home Basic` wheezed to life, he reached up and pressed the physical mute button above the keyboard so `SimpleSpeak`'s grating, robotic `"Quantum David"` voice couldn't make a sound.
+
+He opened a blank `Quantum WritePad` document, zoomed the font size up to `28-point` so he could see his own letters without pressing his nose to the glass, and typed with rapid, practiced strokes before angling the screen forty-five degrees across the table toward her:
+
+<aac>Hi. I'm Aubrey. My mother opted me out of the Health unit. I didn't know anyone else came back here.</aac>
+
+Jessamine leaned in slightly to read his screen. A genuine, unhurried smile curved the corners of her mouth—not a polite smile of pity, but the delighted smile of someone who had just discovered a fellow traveler speaking her native language.
+
+She pulled the slip of notebook paper back, wrote beneath her first sentence, and slid it back across the wood:
+
+*I have a library study pass for second period every day this semester. Is it okay if we share the table? I promise I'm quiet.*
+
+Aubrey looked from the neat cursive on the paper up to her warm hazel eyes. For the first time since he had rolled through the front doors of the high school eighteen months ago, the tight, cold knot in the center of his chest loosened just a fraction.
+
+He turned back to his keyboard and typed:
+
+<aac>I would really like that. Quiet is my favorite thing.</aac>
+
+***
+
+#### 10:50 AM — The Name Only He Could Use
+
+By Friday of that first week, second period in the back corner behind the reference stacks had become the single hour of the day Aubrey lived for.
+
+They didn't need spoken words. While the rest of the school roared outside the library walls, Aubrey and Jessamine sat three feet apart at the oak table beside the courtyard window, passing her spiral notebook and turning his muted laptop screen back and forth in a seamless, silent rhythm.
+
+He learned that Jessamine was sixteen—born in the exact same year he was—and that she loved Latin etymology and constellations because stars and dead languages followed clear, honest rules instead of confusing social games. He also learned, in a quiet exchange of notebook pages on Thursday afternoon, that one of the reasons she had smiled at him the very first day he rolled into the back corner was that she struggled with her weight too. In a school obsessed with varsity athletics and beach bodies, where she had spent years trying and failing to lose weight while eating lunch alone to avoid the stares in the cafeteria, seeing another quiet soul who struggled with his weight made her feel less alone the moment he parked his chair across from her. When she noticed how close he had to hold his AP Chemistry textbook to his face to read the periodic table, she didn't tease him or ask prying questions; she simply started writing her notebook messages to him in larger, darker block letters with a black felt-tip pen so he could read them right where they lay on the wood without having to strain his neck.
+
+And she was funny. When two boys at the main library tables fifty feet away got shushed by the librarian for arguing over a sports magazine, Jessamine slid her notebook across the table with a deadpan Latin translation written in big black marker:
+
+*Homo sapiens garrulus: The loud-mouthed human. Native habitat: everywhere except this corner.*
+
+A tiny, silent shake of laughter vibrated in Aubrey's shoulders—a feeling so unfamiliar it almost startled him. His fingers flew across his keyboard:
+
+<aac>You are much nicer to talk to than anyone else in this school, Jessamine. Wait—is it okay if I type Jess for short, or do you prefer Jessamine?</aac>
+
+Jessamine read the screen. For a second, her cheeks turned a faint pink above the collar of her sage-green cardigan. She looked down at her notebook, uncapped her black felt-tip pen, and wrote slowly and carefully before sliding the page back to him:
+
+*Actually, I hate it when teachers or kids at school try to shorten my name without asking. Everyone else has to call me Jessamine. But you asked first. So you're allowed to call me Jess. Just you.*
+
+Aubrey stared down at the bold black letters on the lined paper: *So you're allowed to call me Jess. Just you.*
+
+Nobody in his entire life had ever given him something that belonged solely to him—not a room door he was allowed to close, not a choice in what he wore or ate, not even his own first name, which his mother had stamped onto him as an extension of herself. Now, sitting in the quiet light behind the reference stacks, the girl with the warm hazel eyes had handed him a secret name that belonged to him alone.
+
+Looking up at her, Aubrey let a real, unguarded smile touch his face, and typed two words onto the glowing screen:
+
+<aac>Thank you, Jess.</aac>
+
+### Part 3: Two Inches Apart
+
+**Date:** 2012-05-18 at 10:20 America/New_York
+
+![Jessamine Mercer and Aubrey sitting across the sunlit oak library table beside an open star atlas and spiral notebook, smiling gently at each other as their hands rest flat on the polished wood separated by a deliberate two-inch gap of safe space without touching.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p003/two-inches-apart.jpg)
+
+#### 10:20 AM — The Unspoken Rule of Touch
+
+Even after the three-week Family Life module ended in April, Aubrey found a way to keep coming back to the reference stacks.
+
+Because he had already finished every worksheet and problem set for his fourth-quarter honors classes weeks ahead of the syllabus, his sixth-period study hall teacher—grateful to have one less chair to squeeze into an overcrowded classroom—gladly signed a permanent library pass allowing Aubrey to spend his daily study period in the back corner of the media center. And by switching her own independent study block with the guidance office, Jessamine made sure she was waiting at the oak table by the courtyard window every single afternoon at one-thirty.
+
+Outside the walls of the library, they had to be ghosts.
+
+Aubrey knew, with a bone-deep survival instinct honed over sixteen years, that his mother could never find out Jessamine existed. Whenever Aubrie Sinclair came to the school front office to drop off a form or pick him up early, her cold dark eyes scanned the corridor like a searchlight for anything she hadn't authorized. To his mother, friends were "bad influences" and girls were "predators" who would either mock him or try to take him away from her. So in the hallways between bells, Aubrey and Jessamine never walked together, never waved when the afternoon school buses lined up along the curb, and never left a single trace where his mother could see it.
+
+Inside the quiet sanctuary behind the reference stacks, however, they had forty-five minutes every afternoon where the rest of the world ceased to exist.
+
+It was there, on a warm Friday in mid-May, that Aubrey learned the difference between his mother's hands and Jess's.
+
+They were looking at an oversized hardcover star atlas that Jessamine had checked out from the science shelf—tracing the winter and summer constellations across the glossy dark-blue pages while Aubrey held a magnifying sheet over the star labels. As Jessamine reached across the open binding to point out the binary star Albireo in the constellation Cygnus, her sleeve brushed unexpectedly against Aubrey's right forearm.
+
+Aubrey didn't mean to react.
+
+Before his conscious mind even registered that it was Jess, sixteen years of muscle memory fired all at once. In his house in Virginia Beach, a hand brushing his arm without warning meant he was about to be yanked sideways out of his wheelchair by his armpits, or scrubbed raw with a coarse washcloth in a scalding tub while his mother barked at him to hold still.
+
+His entire torso jerked violently backward against the canvas backrest of his chair, his shoulders hunching up toward his ears as his eyes squeezed shut in an automatic brace for pain.
+
+When no pain came, Aubrey opened his eyes, his breath shallow and fast.
+
+Jessamine had pulled her hand all the way back to her own side of the oak table. She wasn't angry, and she didn't look offended. Her warm hazel eyes were wide with gentle concern, and both of her hands were resting flat and still on her own notebook where he could clearly see them.
+
+She picked up her black felt-tip pen, wrote on the open page, and nudged the notebook only halfway across the table so she wouldn't invade his space:
+
+*I'm so sorry, Aubrey. I moved too fast and startled you. I won't ever touch you without asking first.*
+
+Shame burned hotly across Aubrey's cheeks. He hated how broken his reflexes were. He hated that even with the one person in the world he trusted, his body reacted like a cornered animal. His fingers trembled slightly as he typed into `Quantum WritePad`:
+
+<aac>It wasn't your fault, Jess. I'm sorry I flinched. I'm just not used to people touching me nicely. At home, when someone grabs my arm, it usually hurts. And if someone tries to hug me or hold me down, I panic.</aac>
+
+Jessamine read the words on his screen twice. Her expression softened with a deep, quiet understanding that required zero explanation. Being autistic herself, she knew what it felt like when the sensory rules of your own body were ignored by the people around you—and looking at the way Aubrey's shoulders were still tensed inside his navy-blue pocket t-shirt, she understood far more than he realized about what his life in that house must be like.
+
+She wrote again in her bold, clear block letters:
+
+*Then we make a rule right now: no hugging, no holding hands, and no surprise touches. Ever. You are a hundred percent in charge of your own space.*
+
+Then, very slowly and deliberately, Jessamine placed her left hand flat on the oak tabletop—resting completely still on the smooth wood, two inches away from the edge of Aubrey's notebook, clearly on her own side of the line.
+
+She wrote one more line with her right hand and set the pen down:
+
+*To be honest, I really wanted to hold your hand and give you a hug, because I like you so much. But I can see how scared your body is of being touched, and I never want you to be scared around me. So I'm going to keep my hand right here on my side of the table, two inches away. We don't have to touch at all to be together.*
+
+***
+
+#### 10:35 AM — Two Inches of Safe Air
+
+Aubrey looked down at her hand resting on the sunlit oak table, two inches away from his own.
+
+Part of him—the part that had spent sixteen years starved of gentle warmth—wished he knew how to reach across those two inches of polished wood and hold her hand the way normal teenagers in the hallways did. But even looking at the gap made his heart race with conditioned terror, his muscles still locked under the shadow of his mother's hands.
+
+And Jessamine didn't ask him to cross it. She didn't inch her fingers closer, and she didn't look disappointed. Those two inches of empty air between their hands weren't a wall shutting her out; they were a promise that she would protect his peace even from her own wish to hold him.
+
+Slowly, Aubrey rested his right hand on his own side of the table, two inches from hers—as close as his terrified nervous system knew how to get without touching.
+
+Across that tiny, sacred gap of sunlit wood, Jessamine smiled at him—warm, patient, and completely content. Nothing hurt. Nobody shouted. Nobody grabbed him. And for the first time in sixteen years, someone cared about him enough to keep her hands still so he could breathe.
+
+Reaching over to his keyboard with his left hand, Aubrey typed one finger at a time:
+
+<aac>Even if I'm too scared to hold your hand or hug you... are you still my girlfriend, Jess?</aac>
+
+Looking across the table at him, Jessamine's hazel eyes shone bright in the afternoon light. Without crossing the two-inch line between their left hands, she picked up the felt-tip pen with her right hand and wrote in big, unmistakable black letters at the bottom of the page:
+
+*Yes, Aubrey. I'm your girlfriend, and you're my boyfriend. And I'll wait as many years as it takes until you're not scared anymore.*
+
+### Part 4: The Landline Tirade & The Lie
+
+**Date:** 2012-06-04 at 15:45 America/New_York
+
+![Inside the dimly lit suburban kitchen in Virginia Beach with the window blinds drawn shut, Aubrie Renee Sinclair stands coldly by the counter holding the beige corded telephone receiver to her ear and clutching Jessamine's torn slip of notebook paper beside Aubrey's confiscated laptop, while Aubrey sits defeated in his manual wheelchair beside the kitchen table where his school backpack and folders have been dumped out.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p004/the-landline-tirade.jpg)
+
+#### 3:45 PM — The Folded Square of Paper
+
+The mistake happened on the first Monday of June, four days before the end of sophomore year.
+
+With final exams starting on Tuesday, sixth-period library study passes were ending for the summer. For eleven weeks, Aubrey knew, he would be locked back inside the single-family suburban house in Virginia Beach with the blinds drawn, cut off from the school library and cut off from Jess. He had no cell phone, and the desktop internet connection at home was password-locked by his mother whenever she wasn't standing directly behind his chair.
+
+Before the afternoon bell rang in the library, Jessamine had set a small, tightly folded square of lined notebook paper on the oak tabletop two inches from Aubrey's hand so he could pick it up himself without being touched.
+
+Inside, written in her familiar bold black felt-tip letters so he could read it easily, was a seven-digit Virginia Beach landline telephone number and two short sentences:
+
+*In case your mom ever goes out for errands this summer and you can use the house phone, or just so you can look at this and remember I'm thinking about you when the Perseid meteor shower peaks in August. I'll be waiting at our table on the first day of Junior Year. — Your Jess*
+
+On the school bus ride home, Aubrey had tucked the folded square of paper deep into the zippered front pencil pouch of his backpack, beneath two spare erasers and a broken plastic ruler. He planned to wait until that night—after his mother dumped him onto his mattress and shut his bedroom door—to slip the paper under his pillow where he could hold it two inches from his eyes in the dark.
+
+He never got the chance.
+
+At three-forty-five, ten minutes after the yellow bus dropped him off at the driveway and his mother wheeled him into the kitchen, Aubrie Sinclair unhooked his backpack from the back of his manual wheelchair and upended the entire bag onto the kitchen table to dig out his final exam schedule and textbook return slips.
+
+"Honestly, Aubrey, why do they send home ten pounds of useless paper every June," she muttered, shaking out his chemistry binder and unzipping the front pencil pouch.
+
+Out tumbled the two erasers, the broken ruler, and the neatly folded square of lined notebook paper.
+
+Aubrey's heart stopped dead in his chest.
+
+Sitting three feet from the kitchen table with his wheelchair brakes locked and his heavy plastic laptop shut on the counter beside the toaster—completely out of reach—he couldn't even make a sound to warn her off. All he could do was watch in paralyzed horror as his mother's thin fingers picked up the folded square and unfolded it.
+
+For five seconds, the kitchen was so quiet Aubrey could hear the ticking of the battery-powered clock above the stove.
+
+As Aubrie Sinclair read the bold black handwriting and the words *— Your Jess*, every trace of color drained from her sharp, angular cheekbones, leaving two spots of livid red burning above her jaw. Slowly, her cold dark brown eyes lifted from the paper and bored straight into Aubrey.
+
+"What is this?" she whispered, her voice dangerously low as she held the paper up between two fingers like a dead insect. "Who is *Jess*?"
+
+Aubrey shrank back against the canvas upholstery of his wheelchair, shaking his head mutely, his chest heaving as terror clamped around his ribs.
+
+"Look at me when I am speaking to you, Aubrey!" she shrieked, slamming her open palm down onto the laminate tabletop so hard the salt shaker jumped. "You have been sneaking around behind my back in that school?! While I work myself to the bone taking care of you, you've been passing notes with some little predator in the library?!"
+
+***
+
+#### 3:52 PM — The Kitchen Wall Phone
+
+She didn't let him reach his laptop to explain. She didn't want an explanation.
+
+Snatching the corded landline handset off the kitchen wall cradle, Aubrie Sinclair jabbed the ten digits written on the notebook paper with vicious, stabbing strikes of her index finger and pressed the receiver hard against her ear, pacing two steps across the linoleum while the line rang on the other end.
+
+Sitting trapped in his wheelchair, Aubrey let out a low, desperate, wordless groan in his throat, shaking his head frantically and reaching one trembling hand toward her sleeve to beg her to hang up. She slapped his hand away without even looking down.
+
+"Hello? Is this the Mercer residence?" Aubrie Sinclair's voice snapped into the receiver—loud, nasal, and dripping with righteous venom. "Yes, this is Aubrie Sinclair. I am the mother of Aubrey Fuller, the disabled boy in a wheelchair at your daughter's high school, and I am holding a note in my hand that your daughter *Jessamine* slipped into my son's backpack today!"
+
+Across the kitchen, tears spilled hot and fast down Aubrey's cheeks as he listened to the one-sided slaughter of the only friendship he had ever known.
+
+"Don't you dare take that tone with me, ma'am!" his mother barked into the phone, cutting off the stunned silence of Jessamine's mother on the other end of the line. "My son cannot speak, he cannot walk, and he has the mind of a sheltered child! Your daughter is a manipulative little predator who has been cornering a helpless disabled boy in the school library when no teachers were watching! Oh, I know exactly what girls like her are up to—trying to take advantage of a vulnerable boy for attention!"
+
+Aubrey rocked back and forth in his chair, a ragged, guttural sob tearing out of his chest as he pressed both palms hard over his ears, trying to block out the sound of his mother's voice.
+
+"You listen to me, and you listen to me very carefully!" Aubrie Sinclair shouted into the mouthpiece, her knuckles white around the plastic handset. "Your daughter is to stay away from my son! She is not to sit near him, she is not to look at him in the hallway, and she is never to write to him again! Tomorrow morning I am calling the high school principal to make sure they are never placed in the same classroom or library period for the rest of high school—and if your daughter comes within twenty feet of my son again, I will call the police and file harassment charges against your entire family! Do you understand me?!"
+
+*SLAM.*
+
+She smashed the receiver down onto the wall cradle so violently the bell inside the phone chimed.
+
+Then she whirled around, marched across the linoleum, and planted both hands on the armrests of Aubrey's wheelchair, leaning her face six inches from his tear-stained cheeks so he couldn't even blur her out.
+
+"And as for *you*!" she hissed, tearing Jessamine's note into tiny confetti scraps right in front of his face and throwing the pieces into the kitchen trash can. "What is wrong with you, Aubrey?! Do you have any idea what happens when a boy touches a girl or holds her hand and sneaks around with her?! Do you know how easy it is for a boy to get a girl pregnant?!"
+
+Aubrey froze, staring up at her through a blur of tears, his sixteen-year-old mind—starved of every single health and biology class—completely defenseless against the lie.
+
+"That's right!" she snarled, seizing on the sheer terror in his wide green eyes. "Talking to a girl like that, holding her hand, letting her hug you or touch you—that is how girls trap boys and get pregnant! You can't even stand up on your own two feet! You can't even dress yourself or wash yourself in the bathtub without me! How on earth could a helpless burden like you ever take care of a baby?! You were about to ruin her life and ruin mine!"
+
+Aubrey curled inward in his wheelchair, his chest hitching in silent, suffocating terror as the lie sank deep into his bones. He and Jess had never even touched—he had been too terrified even to hold her hand across the library table—and yet in his mind, his mother hadn't just punished him; she had stopped him from destroying Jess's life simply by sitting near her and talking to her. He believed every word of it. He was dangerous. He was a burden. Even sitting two inches from Jess at a library table had been a terrible, shameful risk that could have ruined her forever.
+
+"Nobody out there is ever going to put up with the work you take except your mother," Aubrie Sinclair said coldly, straightening up and smoothing the front of her blouse as she looked down at the broken, trembling boy in the chair. "You don't need friends, Aubrey, and you certainly don't need girls. You belong right here with me."
+
+When Junior Year began that September, the back corner table behind the reference stacks was empty. Whether Jessamine's terrified parents had pulled her out of those study blocks or the guidance office had walled their schedules onto opposite floors of the building after his mother's threats, Aubrey never saw those warm hazel eyes in the high school hallways again.
+
+For the next two years, he kept his head down, stared only at his textbooks two inches from his nose, never let another human being come within arm's reach, and graduated number one in his class in total, unbroken silence.
+
 # The Eleventh Child, Off to College
 
 ## The Administrative Prelude & Early Move-In
@@ -10,7 +344,7 @@ title: "The Eleventh Child"
 
 **Date:** 2014-08-20 at 08:00 America/New_York
 
-![Inside the dim hallway of the Sinclair house in Virginia Beach with the window blinds drawn shut, Aubrie Renee Sinclair—with Aubrey's packed gym bag slung over her shoulder—possessively straightens the collar of eighteen-year-old Aubrey Fuller's navy polo shirt as he sits motionless in his manual wheelchair with his backpack zipped shut on the floor beside him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p001/an-extension-of-me.jpg)
+![Inside the dim hallway of the Sinclair house in Virginia Beach with the window blinds drawn shut, Aubrie Renee Sinclair—with Aubrey's packed gym bag slung over her shoulder—possessively straightens the collar of eighteen-year-old Aubrey Fuller's navy polo shirt as he sits motionless in his manual wheelchair with his backpack zipped shut on the floor beside him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/p001/an-extension-of-me.jpg)
 
 The heavy zipper of the canvas gym bag rasped shut across the living room, the metallic sound dull and underwater through the static in Aubrey's ears.
 
@@ -38,7 +372,7 @@ Aubrey gripped the cold metal armrests, staring into the gray blur of the hallwa
 
 **Date:** 2014-08-20 at 10:00 America/New_York
 
-![Inside the front cabin of her sedan driving westbound along U.S. Route 460 across Southside Virginia, Aubrie Renee Sinclair grips the steering wheel and glares sideways in cold disapproval as eighteen-year-old Aubrey Fuller hunches inches from his bulky laptop in the passenger seat, squinting intensely to type his response.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p002/the-drive-route-460.jpg)
+![Inside the front cabin of her sedan driving westbound along U.S. Route 460 across Southside Virginia, Aubrie Renee Sinclair grips the steering wheel and glares sideways in cold disapproval as eighteen-year-old Aubrey Fuller hunches inches from his bulky laptop in the passenger seat, squinting intensely to type his response.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/p002/the-drive-route-460.jpg)
 
 #### 10:00 AM — The Drive
 
@@ -82,7 +416,7 @@ He hated it—a quiet, desperate revulsion that burned in his chest every single
 
 **Date:** 2014-08-21 at 11:00 America/New_York
 
-![Inside the Office of Educational Accessibility in Callahan Hall, counselor Ms. Higgins leans warmly across her desk to hand a Monday appointment card directly to eighteen-year-old Aubrey Fuller in his manual wheelchair while his mother, Aubrie Renee Sinclair, stands rigidly behind his chair clutching her purse in cold disapproval.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p003/educational-accessibility-higgins.jpg)
+![Inside the Office of Educational Accessibility in Callahan Hall, counselor Ms. Higgins leans warmly across her desk to hand a Monday appointment card directly to eighteen-year-old Aubrey Fuller in his manual wheelchair while his mother, Aubrie Renee Sinclair, stands rigidly behind his chair clutching her purse in cold disapproval.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/p003/educational-accessibility-higgins.jpg)
 
 #### 11:00 AM — The Poly Pass
 
@@ -154,7 +488,7 @@ Aubrey took the card, his blurry vision making out the bold numbers, and slipped
 
 **Date:** 2014-08-21 at 15:00 America/New_York
 
-![Inside the rustic timber dining room of the Hickory Barrel Old Country Store, eighteen-year-old Aubrey Fuller leans forward from his manual wheelchair to point his index finger at the fine print on the laminated menu for the waitress, right as his mother Aubrie Renee Sinclair reaches across the wooden table to fold the menu shut over his hand with a dismissive smile.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p004/hickory-barrel-all-the-way.jpg)
+![Inside the rustic timber dining room of the Hickory Barrel Old Country Store, eighteen-year-old Aubrey Fuller leans forward from his manual wheelchair to point his index finger at the fine print on the laminated menu for the waitress, right as his mother Aubrie Renee Sinclair reaches across the wooden table to fold the menu shut over his hand with a dismissive smile.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/p004/hickory-barrel-all-the-way.jpg)
 
 The drive back down the highway to Christiansburg took less than twenty minutes. Aubrie Sinclair exited onto Roanoke Street, turned into the Merit Inn, and pulled the car right up to the concrete curb directly in front of their first-floor room's exterior door.
 
@@ -224,7 +558,7 @@ At eight o'clock, Aubrie Sinclair clicked off the motel television, stood up fro
 
 Before he could unlock his own brakes, she kicked the wheel locks loose with the toe of her shoe and shoved his chair toward the bathroom. With a dull *thud*, the front footrests and side frames jammed hard against the narrow wooden doorjamb.
 
-The room was not wheelchair accessible. Just as she had deliberately requested a single king bed instead of two doubles at the front office, his mother had refused to ask for an ADA-accessible room when she booked their stay. To Aubrie Sinclair, who didn't believe in doctors or vaccines and had never once taken him to a physician in his entire life, every single struggle he had—from his silence to his stiff, uncooperative legs—was just stubbornness and a prolonged act of laziness. The only reason he even had the heavy, off-the-shelf pharmacy wheelchair he sat in was because when he had outgrown a toddler stroller before Kindergarten, his legs had buckled and collapsed every time she tried to force him to walk; she had bought the cheap retail chair solely because she got tired of dragging his weight and knew the elementary school would call Child Protective Services if he kept collapsing on the floor. Behind closed doors, however, she still treated the chair like a dramatic prop he didn't actually need. As a result, the motel bathroom doorway was barely twenty-four inches wide, leaving his wheelchair completely stranded out on the worn carpet.
+The room was not wheelchair accessible. Just as she had deliberately requested a single king bed instead of two doubles at the front office, his mother had refused to ask for an ADA-accessible room when she booked their stay. To Aubrie Sinclair, who didn't believe in doctors or vaccines and had never once taken him to a physician in his entire life, every single struggle he had—from his silence to his stiff, uncooperative legs—was just stubbornness and a prolonged act of laziness. Even though he genuinely needed a wheelchair because his legs could not bear his weight at all, the only reason he even had the heavy, off-the-shelf pharmacy wheelchair he sat in was because when he had outgrown a toddler stroller at age five, his legs had buckled and collapsed every time she tried to force him to stand; she had homeschooled him through elementary and middle school to avoid mandatory school-entry doctor physicals and bought the cheap retail chair out of pocket solely because she got tired of dragging his dead weight through stores where onlookers might call Child Protective Services. Behind closed doors, however, she still treated the chair like a dramatic prop he didn't actually need. As a result, the motel bathroom doorway was barely twenty-four inches wide, leaving his wheelchair completely stranded out on the worn carpet.
 
 She didn't ask if he was ready, and she didn't explain how she was going to move him. She never had. Reaching down, she yanked his right arm over her shoulder, clamped her hands under his ribs, and hauled him bodily out of the chair. Because his legs couldn't bear his weight at all, his feet dragged helplessly across the raised metal threshold strip as she muscled and lugged him into the cramped, brightly lit bathroom.
 
@@ -316,7 +650,7 @@ With hours of darkness still stretching between him and nine o'clock tomorrow mo
 
 **Date:** 2014-08-22 at 07:30 America/New_York
 
-![Standing at the open hallway doorway of Bennett Hall Room 214, Aubrie Renee Sinclair puts on a bright, theatrical smile and waves goodbye for the hallway while leaving eighteen-year-old Aubrey Fuller stranded in his manual wheelchair beside a bare wooden desk, unmade dorm mattresses, his zipped backpack on the floor, and his unopened cardboard mailroom box.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p007/a-real-college-kid-room-214.jpg)
+![Standing at the open hallway doorway of Bennett Hall Room 214, Aubrie Renee Sinclair puts on a bright, theatrical smile and waves goodbye for the hallway while leaving eighteen-year-old Aubrey Fuller stranded in his manual wheelchair beside a bare wooden desk, unmade dorm mattresses, his zipped backpack on the floor, and his unopened cardboard mailroom box.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/p007/a-real-college-kid-room-214.jpg)
 
 When pale gray morning light finally leaked around the edges of the Merit Inn curtains at seven-thirty, the syrupy, possessive warmth from the night before had vanished from Aubrie Sinclair's demeanor as if it had never existed.
 
@@ -396,7 +730,7 @@ He didn't know for certain. But sitting there in the stillness of his own room, 
 
 **Date:** 2014-08-22 at 09:15 America/New_York
 
-![Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg)
+![Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c003/s003/isabel-greets-aubrey.jpg)
 
 #### 9:15 AM — Room 214
 
@@ -514,7 +848,7 @@ Defeated, he transferred from his wheelchair back to his bed. Still fully clothe
 
 **Date:** 2014-08-23 at 10:30 America/New_York
 
-![Aubrie Jean Kelly stepping through the open doorway of Bennett Hall Room 214 carrying canvas move-in bags and a storage tote while a startled Aubrey pushes himself upright on his low dorm bed beside his manual wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s002/clerical-error.jpg)
+![Aubrie Jean Kelly stepping through the open doorway of Bennett Hall Room 214 carrying canvas move-in bags and a storage tote while a startled Aubrey pushes himself upright on his low dorm bed beside his manual wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s002/clerical-error.jpg)
 
 Around mid-morning, the electronic reader outside Room 214 chirped as a Poly Pass tapped against it. Because the card belonged to a standard residential student rather than someone registered with the Office of Educational Accessibility, the motorized opener stayed silent; instead, the heavy latch clicked unlocked and the wooden door was pushed wide open by hand. A sudden bar of corridor light spilled across the dim linoleum floor.
 
@@ -548,7 +882,7 @@ The three names hit him with the force of a physical blow. His breath caught in 
 
 **Date:** 2014-08-23 at 10:35 America/New_York
 
-![Inside Bennett Hall Room 214 under the glaring fluorescent ceiling light, Aubrey sits in his manual wheelchair with both hands clamped tightly over his ears in a severe autistic meltdown as Aubrie Jean Kelly steps calmly toward him and Madison Scott enters the doorway carrying a cardboard move-in box.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s003/system-crash.jpg)
+![Inside Bennett Hall Room 214 under the glaring fluorescent ceiling light, Aubrey sits in his manual wheelchair with both hands clamped tightly over his ears in a severe autistic meltdown as Aubrie Jean Kelly steps calmly toward him and Madison Scott enters the doorway carrying a cardboard move-in box.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s003/system-crash.jpg)
 
 For a single, suspended heartbeat, the quiet room held still. Then everything crashed in on him at once.
 
@@ -576,7 +910,7 @@ He squeezed his eyes shut, and a loud, piercing cry tore involuntarily from his 
 
 **Date:** 2014-08-23 at 10:40 America/New_York
 
-![Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s004/aubrie-first-hug.jpg)
+![Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s004/aubrie-first-hug.jpg)
 
 #### 10:40 AM — The Anchor Holds
 
@@ -604,7 +938,7 @@ He couldn't stop rocking. Ragged, shuddering cries continued to tear from his ch
 
 Aubrie stopped a step away from his wheelchair, careful not to crowd him or touch him without warning. "This isn't a trap, Aubrey. You have a choice," she murmured softly. "Is it okay if I put my hand on your shoulder?"
 
-Slowly, fighting through the blinding static and the sheer terror gripping his chest, Aubrey managed a short, sharp nod.
+Beneath the roaring static in his ears, her patient question—and the fact that she had stopped and waited for his permission instead of grabbing him—echoed a distant, buried memory from the high school library in Virginia Beach two years earlier. Back when he was sixteen, Jess had been the very first crack in his mother's armor, keeping her hand two inches away on the oak tabletop and proving to him that a girl his own age could be gentle, patient, and kind. Had Jess never been that distant light at the end of the tunnel of his nightmare, Aubrey would have been far too terrified of human contact to let anyone near him now. Instead, holding onto that tiny spark of trust Jess had planted in him, Aubrey fought through the blinding static gripping his chest and managed a short, sharp nod.
 
 Aubrie Jean reached out and placed her hand firmly and steadily on his shoulder. The solid, warm pressure cut through a fraction of the spinning chaos in his head. His shoulders shuddered violently under her palm, and he gave another, almost desperate nod—a silent, wordless plea for more grounding before he floated away entirely.
 
@@ -690,7 +1024,7 @@ Zoë turned back to Kelsey, her posture decisive. "We'll tough it out. For two w
 
 **Date:** 2014-08-23 at 11:50 America/New_York
 
-![Inside Room 214 of Eleanor Bennett Hall on freshman move-in weekend, eighteen-year-old Jordan Fuller sits in his manual wheelchair with his silver laptop resting on his lap and breaks into a relieved, hopeful smile as he claims the name Jordan and reveals he is an Astrophysics major, while Aubrie Jean Kelly leans forward from the lower wooden bunk bed with a brilliant grin of shared excitement, surrounded warmly by Madison Grace Miller at the desk and Zoë Wren Brooks, Lauren Elizabeth Taylor, and Hannah Marie Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s006/a-joke-that-stuck.jpg)
+![Inside Room 214 of Eleanor Bennett Hall on freshman move-in weekend, eighteen-year-old Jordan Fuller sits in his manual wheelchair with his silver laptop resting on his lap and breaks into a relieved, hopeful smile as he claims the name Jordan and reveals he is an Astrophysics major, while Aubrie Jean Kelly leans forward from the lower wooden bunk bed with a brilliant grin of shared excitement, surrounded warmly by Madison Grace Miller at the desk and Zoë Wren Brooks, Lauren Elizabeth Taylor, and Hannah Marie Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s006/a-joke-that-stuck.jpg)
 
 #### 11:50 AM — A Joke That Stuck
 
@@ -2793,7 +3127,7 @@ Like all undergraduates at CPI, Jordan was required to complete two credits of H
 
 If she had bothered to look, she would have realized she had just enrolled her heavily sheltered, medically isolated son in *Dimensions of Human Sexuality*.
 
-For eighteen years, Aubrie Sinclair had religiously signed the opt-out forms for every single public school Family Life and sexual education module. Now, thanks to her own careless rushing, the university was about to give him a comprehensive, college-level education on the exact subject she had spent his entire life trying to hide from him.
+For eighteen years—first by homeschooling him through elementary and middle school, and then by religiously signing the parental opt-out forms for every single high school Family Life and sexual education module—Aubrie Sinclair had kept him in total darkness about basic human biology. Now, thanks to her own careless rushing, the university was about to give him a comprehensive, college-level education on the exact subject she had spent his entire life trying to hide from him.
 
 "Jordan!"
 
@@ -2895,7 +3229,7 @@ When the legal pad finally made its way back to Dr. Evans, Jordan pushed his whe
 
 Dr. Evans adjusted her glasses and read the bright green text.
 
-<aac>Professor Evans, you said to let you know if we grew up extremely sheltered. My mother opted me out of every Family Life and health class since the fourth grade. She told me the human body was shameful. I don't know what any of the diagrams on the syllabus mean. I don't know any of the slang. I don't know how any of this works. I am completely lost.</aac>
+<aac>Professor Evans, you said to let you know if we grew up extremely sheltered. My mother homeschooled me until ninth grade and opted me out of every high school Family Life and health class. She told me the human body was shameful. I don't know what any of the diagrams on the syllabus mean. I don't know any of the slang. I don't know how any of this works. I am completely lost.</aac>
 
 The easy, amused energy in the office instantly vanished. Dr. Evans read the paragraph twice. When she looked up at Jordan, her eyes were filled with profound, quiet compassion.
 
@@ -3646,7 +3980,7 @@ Jordan looked down at the signed slip of paper in his hand—the official medica
 
 **Date:** 2014-08-29 at 14:25 America/New_York
 
-![Seated upright in his wheelchair in the accessible front bay of a Blue Ridge Transit bus bathed in golden late-afternoon Virginia sunlight, Jordan Fuller wears his brand-new rectangular eyeglasses, behind-the-ear digital hearing aids, and maroon CPI T-shirt while holding his CPI Poly Pass and looking out the wide panoramic window in awe at the soaring gray Ironstone collegiate-gothic towers of Commonwealth Polytechnic Institute and the Blue Ridge Mountains in 20/20 high definition, as Aubrie Jean Kelly, Madison Grace Miller, and Zoë Wren Brooks smile beside him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg)
+![Seated upright in his wheelchair in the accessible front bay of a Blue Ridge Transit bus bathed in golden late-afternoon Virginia sunlight, Jordan Fuller wears his brand-new rectangular eyeglasses, behind-the-ear digital hearing aids, and maroon CPI T-shirt while holding his CPI Poly Pass and looking out the wide panoramic window in awe at the soaring gray Ironstone collegiate-gothic towers of Commonwealth Polytechnic Institute and the Blue Ridge Mountains in 20/20 high definition, as Aubrie Jean Kelly, Madison Grace Miller, and Zoë Wren Brooks smile beside him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c009/s005/ride-home-in-high-definition.jpg)
 
 #### 2:25 PM — The Audiologist's Verdict
 
@@ -4511,7 +4845,7 @@ By a quarter to eight, the initial burst of cheering had settled into a warm, pe
 
 **Date:** 2014-09-19 at 20:00 America/New_York
 
-![Inside Bennett Hall Room 214 with the corridor door swung open inward and the Simplex fire alarm strobe flashing, Isabel Dawson—wearing a neon-yellow high-visibility vest over her sweater and blue jeans—crouches at eye level holding open the official CPI EHS log folder to promise a tearful Jordan he is safe as he begins loosening his grip on his desk, while Madison supports an upset Aubrie near the doorway.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/fire-drill.jpg)
+![Inside Bennett Hall Room 214 with the corridor door swung open inward and the Simplex fire alarm strobe flashing, Isabel Dawson—wearing a neon-yellow high-visibility vest over her sweater and blue jeans—crouches at eye level holding open the official CPI EHS log folder to promise a tearful Jordan he is safe as he begins loosening his grip on his desk, while Madison supports an upset Aubrie near the doorway.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c012/s003/fire-drill.jpg)
 
 The clock hit 8:00 PM.
 
@@ -4620,7 +4954,7 @@ He didn't reach for his backpack to pull out his laptop. Instead, with a shaky, 
 
 Isabel wasn't expecting it, and for a split second she froze—momentarily caught off guard as his trembling arms wrapped around her neck. Yet almost immediately, her wide eyes softened with deep, quiet understanding. She recognized the unspoken weight of a trauma survivor behind how terrified he had been of leaving that locked room, and she knew that this sudden embrace was Jordan's wordless way of telling her that he was adding her to his small circle of trusted people. Setting her EHS log folder and two-way radio down beside her knee, she wrapped her arms around Jordan's shoulders in a warm, steady, protective hug, holding him patiently while a few more quiet sobs shuddered through his frame and began to subside.
 
-![Outside the three-story 1980s Bennett Hall Addition on the Washington Street sidewalk after the fire drill all-clear, Jordan leans forward from his manual wheelchair and pulls a momentarily surprised, deeply moved Isabel Dawson—crouching in her high-visibility vest over her sweater and blue jeans—into a grateful hug as he adds her to his circle of Safe People.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/jordan-hugs-isabel-outside.jpg#fullwidth)
+![Outside the three-story 1980s Bennett Hall Addition on the Washington Street sidewalk after the fire drill all-clear, Jordan leans forward from his manual wheelchair and pulls a momentarily surprised, deeply moved Isabel Dawson—crouching in her high-visibility vest over her sweater and blue jeans—into a grateful hug as he adds her to his circle of Safe People.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c012/s003/jordan-hugs-isabel-outside.jpg#fullwidth)
 
 "You're safe here, Jordan," Isabel murmured softly, rubbing his back gently until his breathing steadied a fraction before easing back with a warm smile. "Always. Anytime something feels scary or overwhelming in this building, Henry and I have your back."
 
@@ -5777,7 +6111,7 @@ Jordan’s fingers didn't slow down. Looking straight at his mPhone through his 
 
 "Oh, I see how it is!" Aubrie Sinclair hissed through the speaker. "Then you're just trying to trap him! You know how easy it is for a boy to get a girl pregnant! He can't even walk or take care of himself—how on earth could he ever take care of a baby?! You are ruining your lives!"
 
-It was her ultimate, undefeated psychological weapon—the exact lie she had used two summers ago after Jessamine’s kiss on the boardwalk to lock him inside her house in terror.
+It was her ultimate, undefeated psychological weapon—the exact lie she had used two years ago in high school after discovering he and Jessamine had been sitting together and passing notes in the school library, terrifying him into believing that even talking to a girl, holding her hand, or hugging her would get her pregnant and ruin her life.
 
 Except the sheltered sixteen-year-old boy she had programmed to believe that lie didn't live here anymore.
 
@@ -5787,7 +6121,7 @@ A low, rumbling sound of pure disgust vibrated in Jordan’s chest—eighteen ye
 
 For four full seconds, there was nothing but dead silence on the phone line.
 
-What his mother didn't know—what she could never have anticipated—was that Dr. Evans’s human sexuality course and the fearless, loving women standing around his wheelchair had already given Jordan the complete, honest education she had so viciously denied him since the fourth grade. In the safety of this very suite, they had already dismantled her lies piece by piece. Her ultimate weapon was completely useless.
+What his mother didn't know—what she could never have anticipated—was that Dr. Evans’s human sexuality course and the fearless, loving women standing around his wheelchair had already given Jordan the complete, honest education she had so viciously denied him throughout his homeschooled childhood and high school years. In the safety of this very suite, they had already dismantled her lies piece by piece. Her ultimate weapon was completely useless.
 
 Realizing her psychological hold over him was shattering in real time, Aubrie Sinclair lost her composure completely—and over the phone, the group heard the loud, metallic rattle of her yanking furiously on the locked exterior handle of the Washington Street entrance Doors.
 
@@ -5801,7 +6135,7 @@ Realizing her psychological hold over him was shattering in real time, Aubrie Si
 
 **Date:** 2014-10-18 at 09:30 America/New_York
 
-![Inside the locked dorm sanctuary of Bennett Hall Room 214 on an October morning, eighteen-year-old Jordan Fuller sits upright in his manual wheelchair wearing his maroon CPI hoodie with his black laptop angled toward his face as he presses the execute key to declare 'I'm staying here,' surrounded in a fiercely protective circle by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Lauren, and Hannah.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c007/p003/the-choice-bennett-hall.jpg)
+![Inside the locked dorm sanctuary of Bennett Hall Room 214 on an October morning, eighteen-year-old Jordan Fuller sits upright in his manual wheelchair wearing his maroon CPI hoodie with his black laptop angled toward his face as he presses the execute key to declare 'I'm staying here,' surrounded in a fiercely protective circle by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Lauren, and Hannah.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c007/p003/the-choice-bennett-hall.jpg)
 
 Less than ninety seconds after Zoë alerted the first-floor front desk, **Kelsey Brennan**, **Isabel Dawson**, and **Henry Walsh** stepped out through the lower-level exterior glass doors of Bennett Hall onto the brick inner-quad walkway—pulling the heavy doors firmly shut behind them until the magnetic locks clicked—and intercepted **Aubrie Sinclair** twenty feet before she could even reach the card reader.
 
@@ -7525,7 +7859,7 @@ Beside the bed, **Zoë**, **Lauren**, **Hannah**, and **Aubrie Jean** froze, exc
 
 Sitting against his pillows with his chest aching and his skin burning with a 102.4°F fever, the puzzle pieces of eighteen years clicked together in Jordan’s mind with sickening clarity.
 
-The mysterious clipboards his mother had always snatched away from nurses and signed herself at pediatric offices. The days in elementary and middle school when he had been rolled into the empty library while the rest of his class lined up at the school nurse’s office. The terrifying bouts of preventable childhood fevers that his mother had used as "proof" that his body was too fragile and broken to ever survive in the outside world without her total control.
+The notarized exemption forms his mother had slapped onto the high school registrar's counter when he entered public school for the first time in ninth grade after nine years of homeschooling. The days in high school when he had been rolled into the quiet back corner of the library while the rest of his class lined up at the school nurse’s office or sat through Family Life health units. The terrifying bouts of preventable childhood fevers at home in Virginia Beach that his mother had used as "proof" that his body was too fragile and broken to ever survive in the outside world without her total control.
 
 It hadn't been bad luck. It hadn't been a weak constitution.
 
@@ -8158,7 +8492,7 @@ The ramp and the Route 11 estate were the physical fortress. Securing Jordan a c
 
 **Date:** 2014-12-21 at 12:20 America/New_York
 
-![At 12:20 PM EST (True Solar Noon) on the Winter Solstice inside the sunlit Brooks dining room on Geneva Street with deep snowbanks sparkling outside the bay windows, nineteen-year-old birthday astrophysicists Jordan Fuller and Aubrie Jean Kelly sit side by side holding hands in front of their dark-chocolate deep-space nebula cake decorated with gold celestial lines, two binary golden shooting stars, and nineteen flickering golden candles, while Zoë Wren Brooks, Madison Grace Miller, Lauren Elizabeth Taylor, Hannah Marie Brooks, and Daniel and Laura Brooks cheer and clap around the table.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/s008/solar-noon-winter-solstice.jpg)
+![At 12:20 PM EST (True Solar Noon) on the Winter Solstice inside the sunlit Brooks dining room on Geneva Street with deep snowbanks sparkling outside the bay windows, nineteen-year-old birthday astrophysicists Jordan Fuller and Aubrie Jean Kelly sit side by side holding hands in front of their dark-chocolate deep-space nebula cake decorated with gold celestial lines, two binary golden shooting stars, and nineteen flickering golden candles, while Zoë Wren Brooks, Madison Grace Miller, Lauren Elizabeth Taylor, Hannah Marie Brooks, and Daniel and Laura Brooks cheer and clap around the table.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/s008/solar-noon-winter-solstice.jpg)
 
 On Sunday morning, December 21st—the **Winter Solstice**—the Brooks basement hummed with joyful, conspiratorial energy before the sun had even cleared the crest of the Blue Ridge.
 
@@ -8685,7 +9019,7 @@ Click by click, the basement lamps went dark, a soft chorus of *"Goodnight, guys
 
 **Date:** 2014-12-25 at 08:00 America/New_York
 
-![On Christmas morning inside the warm, fairy-lit Brooks living room on Geneva Street, nineteen-year-old Jordan Fuller sits in his wheelchair in maroon flannel pajamas and touches his red-and-cream velvet Christmas stocking embroidered with JORDAN in gold thread hanging on the built-in oak bookshelf as Laura Brooks guides his hand, Daniel Brooks rests a fatherly hand on his shoulder, Madison Grace Miller kneels warmly beside his wheel, and Aubrie Jean Kelly and Zoë Wren Brooks look on tenderly beside the glowing Christmas tree.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s001/stockings-on-the-bookshelf.jpg)
+![On Christmas morning inside the warm, fairy-lit Brooks living room on Geneva Street, nineteen-year-old Jordan Fuller sits in his wheelchair in maroon flannel pajamas and touches his red-and-cream velvet Christmas stocking embroidered with JORDAN in gold thread hanging on the built-in oak bookshelf as Laura Brooks guides his hand, Daniel Brooks rests a fatherly hand on his shoulder, Madison Grace Miller kneels warmly beside his wheel, and Aubrie Jean Kelly and Zoë Wren Brooks look on tenderly beside the glowing Christmas tree.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c004/s001/stockings-on-the-bookshelf.jpg)
 
 #### 8:00 AM — Stockings on the Bookshelf
 
@@ -9255,7 +9589,7 @@ As the front door of the Brooks house opened to the welcoming cheers of **Mark**
 
 **Date:** 2014-12-27 at 08:00 America/New_York
 
-![Inside the barrier-free living room of the Dawson home in Charlottesville with smooth oak hardwood floors, Jordan Fuller in his manual wheelchair and Isabel Dawson in a cream cable-knit sweater warmly greet Isabel's seventeen-year-old sister Elana Grace Dawson (in her rugged matte-charcoal heavy-duty sip-and-puff power chair with her mPad angled toward her) and seventeen-year-old cousin Stephen Dawson (in his compact joystick power chair, holding Elana's hand) alongside Stella, their silver-dapple miniature service horse in a maroon biothane harness and indoor rubber hoof boots.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/p001/dawson-sanctuary-elana-stephen-stella.jpg)
+![Inside the barrier-free living room of the Dawson home in Charlottesville with smooth oak hardwood floors, Jordan Fuller in his manual wheelchair and Isabel Dawson in a cream cable-knit sweater warmly greet Isabel's seventeen-year-old sister Elana Grace Dawson (in her rugged matte-charcoal heavy-duty sip-and-puff power chair with her mPad angled toward her) and seventeen-year-old cousin Stephen Dawson (in his compact joystick power chair, holding Elana's hand) alongside Stella, their silver-dapple miniature service horse in a maroon biothane harness and indoor rubber hoof boots.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c004/p001/dawson-sanctuary-elana-stephen-stella.jpg)
 
 #### 8:00 AM — Gridlock on I-81 & The Route 460 Pivot
 
@@ -9990,7 +10324,7 @@ Now, he was ready for **Spring Semester 2015**.
 
 **Date:** 2015-01-11 at 13:05 America/New_York
 
-![Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg)
+![Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c001/s003/isabel-hugs-jordan.jpg)
 
 #### 1:05 PM — The Sunday Maroon Express
 
@@ -10202,7 +10536,7 @@ Behind the counter, Kelsey let out a quiet, amused giggle at her Junior RA’s e
 
 **Date:** 2015-01-11 at 14:40 America/New_York
 
-![Inside Bennett Hall Suite 214/216 during Spring Semester unpacking, eighteen-year-old Jordan Fuller sits in his manual wheelchair wearing his maroon CPI sweatshirt with his black laptop angled toward his face, beaming with radiant joy through happy tears as Aubrie Jean Kelly kneels to embrace him and Madison Scott, Zoë Wren Brooks, Lauren, and Hannah surround him in a tearful group hug.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/p002/this-side-of-heaven-suite-214.jpg)
+![Inside Bennett Hall Suite 214/216 during Spring Semester unpacking, eighteen-year-old Jordan Fuller sits in his manual wheelchair wearing his maroon CPI sweatshirt with his black laptop angled toward his face, beaming with radiant joy through happy tears as Aubrie Jean Kelly kneels to embrace him and Madison Scott, Zoë Wren Brooks, Lauren, and Hannah surround him in a tearful group hug.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c001/p002/this-side-of-heaven-suite-214.jpg)
 
 #### 2:40 PM — Introducing Garrett to Suite 214/216
 
@@ -11394,7 +11728,7 @@ Isabel laughed as she dropped into a window seat behind the front wheel well—a
 
 **Date:** 2015-02-15 at 18:30 America/New_York
 
-![Inside Bennett Hall Room 214 after returning from the CACUHO conference, Resident Advisor Isabel Dawson—her woven conference lanyard covered in dozens of brightly painted wooden clothespins—blushes warmly as she kneels beside Jordan's wheelchair to clip a hand-painted neon-teal clothespin onto his laptop bag while Kelsey Brennan, Garrett Reynolds, Aubrie Jean Kelly, and Madison Scott smile fondly behind them.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c004/p003/hey-cacuho-clothespins-roanoke.jpg)
+![Inside Bennett Hall Room 214 after returning from the CACUHO conference, Resident Advisor Isabel Dawson—her woven conference lanyard covered in dozens of brightly painted wooden clothespins—blushes warmly as she kneels beside Jordan's wheelchair to clip a hand-painted neon-teal clothespin onto his laptop bag while Kelsey Brennan, Garrett Reynolds, Aubrie Jean Kelly, and Madison Scott smile fondly behind them.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c004/p003/hey-cacuho-clothespins-roanoke.jpg)
 
 At six-thirty on Sunday evening, just as the nine residents of **Suite 214/216** were finishing a Sunday study block across the desks and lower bunks of **Room 214**, footsteps and laughter echoed down the second-floor hallway outside their door, followed by a familiar, cheerful two-beat knock.
 
@@ -11727,7 +12061,7 @@ Madison reached out and squeezed Jordan’s hand through her tears.
 
 **Date:** 2015-03-16 at 13:30 America/New_York
 
-![Beaming with triumphant confidence, nineteen-year-old Jordan Fuller drives his brand-new 350-pound matte-black Vanguard Titan-X350 all-terrain power wheelchair (S.S. Freedom, with six suspension wheels, glowing white LED fender path-lights, and his laptop mounted on a swing-away arm) effortlessly up the steep twelve-degree paved hillside walkway alongside the gray Ironstone facade of Eleanor Bennett Hall while Aubrie Jean Kelly, Madison Grace Miller, and Zoë Wren Brooks walk beside him and Resident Advisors Isabel Dawson and Garrett Reynolds cheer from the top of the ridge.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c010/s001/ss-freedom-hill-climb.jpg)
+![Beaming with triumphant confidence, nineteen-year-old Jordan Fuller drives his brand-new 350-pound matte-black Vanguard Titan-X350 all-terrain power wheelchair (S.S. Freedom, with six suspension wheels, glowing white LED fender path-lights, and his laptop mounted on a swing-away arm) effortlessly up the steep twelve-degree paved hillside walkway alongside the gray Ironstone facade of Eleanor Bennett Hall while Aubrie Jean Kelly, Madison Grace Miller, and Zoë Wren Brooks walk beside him and Resident Advisors Isabel Dawson and Garrett Reynolds cheer from the top of the ridge.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s001/ss-freedom-hill-climb.jpg)
 
 #### March 16, 2015 • 1:30 PM — Three Hundred and Fifty Pounds of Freedom
 
@@ -11993,7 +12327,7 @@ Rolling into the cozy warmth of **Room 214** while the April thunderstorm raged 
 
 **Date:** 2015-05-15 at 11:00 America/New_York
 
-![In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg)
+![In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c011/s002/isabel-goodbye-hug.jpg)
 
 #### May 15, 2015 • 11:00 AM — Stripping Room 214
 
@@ -12063,7 +12397,7 @@ Isabel froze.
 
 Her breath caught audibly in her throat, and a deep, rosy blush rose up her neck into her cheeks. She looked down at the yellow RCR clipboard in her hand, and then looked back at Jordan—her lips parting slightly as her right hand came up to touch the collar of her shirt, as if she were suddenly flustered by a rush of emotion she wasn't ready to put into words.
 
-![At the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard—blushing rosy pink with one hand touching her collar and smiling through bright, emotional tears.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-move-out-secret.jpg#fullwidth)
+![At the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard—blushing rosy pink with one hand touching her collar and smiling through bright, emotional tears.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c011/s002/isabel-move-out-secret.jpg#fullwidth)
 
 Then Isabel glanced down at the white embroidered **CPI HOUSING & RESIDENCE LIFE — RESIDENT ADVISOR** lettering on the left chest of the two-tone maroon-and-white Student Staff athletic polo shirt she still had tucked into her belted khaki pants, looked at the black electronic **Poly Pass** card reader glowing green directly underneath the **ROOM 214** sign on the cinderblock wall where she was still officially on duty until five o'clock, and looked back at Jordan, who was flying across the oceans in eight days to see the world.
 
@@ -12279,7 +12613,7 @@ With his right hand resting securely on the joystick, Jordan steered his heavy-d
 
 **Date:** 2015-05-23 at 07:30 America/New_York
 
-![Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville—who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c001/s004/isabel-roa-video-message.jpg)
+![Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville—who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c001/s004/isabel-roa-video-message.jpg)
 
 #### 7:30 AM — The Ten-Thousand Foot Rule
 
@@ -13159,7 +13493,7 @@ Even after flying overnight across the Atlantic, Jordan didn't feel trapped, exh
 
 **Date:** 2015-06-02 at 13:00 Atlantic/Reykjavik
 
-![In the steaming 100-degree milky-turquoise geothermal mineral waters of Iceland's Azure Lagoon (Heiðrúnarlón) surrounded by moss-crusted black volcanic basalt cliffs and billowing white steam, nineteen-year-old Jordan Fuller floats weightlessly on his back with white silica mud stripes on his cheeks and an expression of pure, uninhibited joy as Aubrie Jean Kelly, Madison Grace Miller, Zoë Wren Brooks, Lauren Elizabeth Taylor, Sarah Braithwaite, and Jessica Gallagher support him in a warm, protective circle.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c007/s001/azure-lagoon-zero-gravity.jpg)
+![In the steaming 100-degree milky-turquoise geothermal mineral waters of Iceland's Azure Lagoon (Heiðrúnarlón) surrounded by moss-crusted black volcanic basalt cliffs and billowing white steam, nineteen-year-old Jordan Fuller floats weightlessly on his back with white silica mud stripes on his cheeks and an expression of pure, uninhibited joy as Aubrie Jean Kelly, Madison Grace Miller, Zoë Wren Brooks, Lauren Elizabeth Taylor, Sarah Braithwaite, and Jessica Gallagher support him in a warm, protective circle.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c007/s001/azure-lagoon-zero-gravity.jpg)
 
 #### June 2, 2015 • 1:00 PM — Zero Gravity in the Azure Lagoon
 
@@ -13529,7 +13863,7 @@ After lunch at a step-free pub patio near St. James's Park, Daniel looked over a
 
 **Date:** 2015-06-08 at 15:00 Europe/London
 
-![On pedestrian Carnaby Street in Soho, London beneath the WELCOME TO CARNABY STREET arch, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face outside a classic vinyl record shop with wooden LP crates, surrounded by Zoë Wren Brooks, Aubrie Jean Kelly, Madison Scott, and Daniel and Laura Brooks pointing up toward their old third-floor flat window.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c004/p002/carnaby-street-soho-record-shop.jpg)
+![On pedestrian Carnaby Street in Soho, London beneath the WELCOME TO CARNABY STREET arch, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face outside a classic vinyl record shop with wooden LP crates, surrounded by Zoë Wren Brooks, Aubrie Jean Kelly, Madison Scott, and Daniel and Laura Brooks pointing up toward their old third-floor flat window.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c004/p002/carnaby-street-soho-record-shop.jpg)
 
 #### June 8, 2015 • 3:00 PM — Carnaby Street and the Hollow Square
 
@@ -13724,7 +14058,7 @@ Jordan looked from the nineteenth-century bronze gears of Babbage's engine down 
 
 **Date:** 2015-06-11 at 08:30 Europe/London
 
-![On the waterfront plaza at Pier Head in Liverpool, Merseyside, England, with the historic Three Graces and Liver Bird clock towers rising behind them, nineteen-year-old Jordan Fuller sits parked dead-center in his matte-black S.S. Freedom power wheelchair in front of the large WELCOME TO LIVERPOOL sign while Australian suitemate Sarah Braithwaite laughs uproariously and gives an exaggerated thumbs-down beside Aubrie Jean Kelly, Madison Grace Miller, Zoë Wren Brooks (shading her eyes looking for kangaroos), tall Jessica Gallagher, Lauren Elizabeth Taylor, and Hannah Marie Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg)
+![On the waterfront plaza at Pier Head in Liverpool, Merseyside, England, with the historic Three Graces and Liver Bird clock towers rising behind them, nineteen-year-old Jordan Fuller sits parked dead-center in his matte-black S.S. Freedom power wheelchair in front of the large WELCOME TO LIVERPOOL sign while Australian suitemate Sarah Braithwaite laughs uproariously and gives an exaggerated thumbs-down beside Aubrie Jean Kelly, Madison Grace Miller, Zoë Wren Brooks (shading her eyes looking for kangaroos), tall Jessica Gallagher, Lauren Elizabeth Taylor, and Hannah Marie Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c014/s002/wrong-liverpool-pier-head.jpg)
 
 #### June 11, 2015 • 8:30 AM — Passenger Assist at London Euston
 
@@ -14086,7 +14420,7 @@ Jordan parked his chair at the very apex of the `451.2-meter` highest point mark
 
 **Date:** 2015-07-04 at 09:45 Asia/Tokyo
 
-![On elevated Platform 18 at Tokyo Station behind the yellow tactile warning blocks as the gentle music-box Hassha melody chimes overhead, a courteous Nippon Rail attendant in a navy-blue uniform and pristine white gloves bows respectfully beside the yellow-and-aluminum boarding ramp at Car 11 of a gleaming white-and-blue N700A Series Bullet Train (Hikari Star Super Express), welcoming nineteen-year-old Jordan Fuller in his matte-black S.S. Freedom power wheelchair while Zoë Wren Brooks rests a grounding hand on his shoulder alongside Aubrie Jean Kelly and Madison Grace Miller.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c021/s001/tokyo-shinkansen-hassha-melody.jpg)
+![On elevated Platform 18 at Tokyo Station behind the yellow tactile warning blocks as the gentle music-box Hassha melody chimes overhead, a courteous Nippon Rail attendant in a navy-blue uniform and pristine white gloves bows respectfully beside the yellow-and-aluminum boarding ramp at Car 11 of a gleaming white-and-blue N700A Series Bullet Train (Hikari Star Super Express), welcoming nineteen-year-old Jordan Fuller in his matte-black S.S. Freedom power wheelchair while Zoë Wren Brooks rests a grounding hand on his shoulder alongside Aubrie Jean Kelly and Madison Grace Miller.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c021/s001/tokyo-shinkansen-hassha-melody.jpg)
 
 #### July 4, 2015 • 9:45 AM — The Hassha Melody on the Bullet Train Platform
 
@@ -14299,7 +14633,7 @@ Once the rest of the family settled into the adjoining cabins and stepped up to 
 
 **Date:** 2015-07-08 at 19:05 Asia/Tokyo
 
-![Inside the barrier-free upper-deck stateroom of Ferry Hoshizora sailing across Japan's Seto Inland Sea at twilight, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face, eyes closed in profound relief as Zoë Wren Brooks and Aubrie Jean Kelly wrap him in grounding bilateral compression.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c006/p002/ferry-hoshizora-threat-level-zero.jpg)
+![Inside the barrier-free upper-deck stateroom of Ferry Hoshizora sailing across Japan's Seto Inland Sea at twilight, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face, eyes closed in profound relief as Zoë Wren Brooks and Aubrie Jean Kelly wrap him in grounding bilateral compression.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c006/p002/ferry-hoshizora-threat-level-zero.jpg)
 
 At seven-oh-five in the evening, the massive hull of the **`Ferry Hoshizora`** glided smoothly out of Osaka Port, the deep, steady hum of its twin marine engines vibrating reassuringly beneath the thick tires of Jordan's 350-pound power chair. Outside the glass, the evening air was warm and golden, and the vast, tranquil, island-dotted expanse of the **Seto Inland Sea** stretched out toward the western horizon.
 
@@ -14547,7 +14881,7 @@ Sitting together in the shade of the lotus arbor before Monday's return voyage a
 
 **Date:** 2015-07-15 at 16:30 Asia/Singapore
 
-![On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing solar arbors and glass conservatory domes of the Marina Bay Botanical Sanctuaries illuminated in teal, violet, and gold across the water behind them, 19-year-old Zoë Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZOË.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zoë's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg)
+![On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing solar arbors and glass conservatory domes of the Marina Bay Botanical Sanctuaries illuminated in teal, violet, and gold across the water behind them, 19-year-old Zoë Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZOË.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zoë's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c008/s003/zoe-disclosure-singapore.jpg)
 
 #### July 15, 2015 • 4:30 PM — The Garden Terminal and Smart Card Number Six
 
@@ -14738,7 +15072,7 @@ From fifty-five stories in the air, the entire island city-state and the equator
 
 **Date:** 2015-07-17 at 21:00 Asia/Singapore
 
-![Inside their Marina Bay accessible suite in Singapore at night with the illuminated city skyline glowing behind the windows, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI polo and holding up his blue MerlionLink transit smart card toward the foreground video-call tablet (angled toward the group so only its matte-black rear casing faces the viewer) while Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Lauren, and Hannah laugh warmly around him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c007/p002/singapore-three-continent-call.jpg)
+![Inside their Marina Bay accessible suite in Singapore at night with the illuminated city skyline glowing behind the windows, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI polo and holding up his blue MerlionLink transit smart card toward the foreground video-call tablet (angled toward the group so only its matte-black rear casing faces the viewer) while Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Lauren, and Hannah laugh warmly around him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c007/p002/singapore-three-continent-call.jpg)
 
 #### July 17, 2015 • 9:00 PM — The Three-Continent Video Call
 
@@ -14844,7 +15178,7 @@ Ten minutes later—after **Jessica** effortlessly scooped Jordan out of his pow
 
 **Date:** 2015-07-19 at 09:30 Australia/Sydney
 
-![On the sunny suburban rail platform at Liverpool Station, New South Wales, Australia beneath towering eucalyptus gum trees and silver double-decker Waratah trains, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI fleece with his black laptop angled toward his face in front of the orange-and-white LIVERPOOL STATION sign while Australian suitemate Sarah Braithwaite grins and gives a triumphant thumbs-up alongside Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, tall Jessica Gallagher, Lauren, and Hannah.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/p001/right-liverpool-station-nsw.jpg)
+![On the sunny suburban rail platform at Liverpool Station, New South Wales, Australia beneath towering eucalyptus gum trees and silver double-decker Waratah trains, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI fleece with his black laptop angled toward his face in front of the orange-and-white LIVERPOOL STATION sign while Australian suitemate Sarah Braithwaite grins and gives a triumphant thumbs-up alongside Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, tall Jessica Gallagher, Lauren, and Hannah.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c008/p001/right-liverpool-station-nsw.jpg)
 
 #### July 19, 2015 • 9:30 AM — Southern Cross Airways and Smart Card Number Seven
 
@@ -15110,7 +15444,7 @@ True to Bec's word, welded seamlessly onto the wide, shaded timber-and-steel ver
 
 **Date:** 2015-08-05 at 06:15 Australia/Darwin
 
-![At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s002/outback-frost-tires.jpg)
+![At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c010/s002/outback-frost-tires.jpg)
 
 #### August 5, 2015 • 6:15 AM — Twenty-Eight Degrees at Dawn (Frost on the Tires)
 
@@ -15282,7 +15616,7 @@ Yet sitting here under the winter stars of the Australian Outback with red Peter
 
 **Date:** 2015-08-17 at 18:30 America/New_York
 
-![Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson—who kneels before him in blue jeans and a maroon CPI T-shirt with a deep rosy crimson blush and happy tears glistening on her cheeks—while Henry Walsh, Aubrie Jean Kelly, and Zoë Wren Brooks look on from a few steps back with warm, knowing smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s004/roa-gate-hug.jpg)
+![Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson—who kneels before him in blue jeans and a maroon CPI T-shirt with a deep rosy crimson blush and happy tears glistening on her cheeks—while Henry Walsh, Aubrie Jean Kelly, and Zoë Wren Brooks look on from a few steps back with warm, knowing smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c010/s004/roa-gate-hug.jpg)
 
 Thirty-five hours.
 
@@ -15716,7 +16050,7 @@ Ms. Gable rose with icy calm. "Objection, Your Honor. Counsel is testifying—an
 
 **Date:** 2015-08-18 at 13:30 America/New_York
 
-![Inside Courtroom 3B of the Montgomery County Courthouse in Christiansburg, Judge Harrison strikes his wooden gavel from the bench to dismiss the guardianship petition with prejudice while a uniformed Montgomery County Sheriff's deputy places steel handcuffs around the wrists of a stunned Aubrie Sinclair at the petitioner's table, as nineteen-year-old Jordan Fuller sits tall, composed, and sovereign in his matte-black S.S. Freedom power wheelchair in a navy suit and maroon tie beside attorney Ms. Helen Gable and his supportive gallery phalanx (Aubrie Jean Kelly, Zoë Wren Brooks, Madison Grace Miller, Isabel Dawson, and Henry Walsh).]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c001/s006/the-gavel-and-the-handcuffs.jpg)
+![Inside Courtroom 3B of the Montgomery County Courthouse in Christiansburg, Judge Harrison strikes his wooden gavel from the bench to dismiss the guardianship petition with prejudice while a uniformed Montgomery County Sheriff's deputy places steel handcuffs around the wrists of a stunned Aubrie Sinclair at the petitioner's table, as nineteen-year-old Jordan Fuller sits tall, composed, and sovereign in his matte-black S.S. Freedom power wheelchair in a navy suit and maroon tie beside attorney Ms. Helen Gable and his supportive gallery phalanx (Aubrie Jean Kelly, Zoë Wren Brooks, Madison Grace Miller, Isabel Dawson, and Henry Walsh).]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c001/s006/the-gavel-and-the-handcuffs.jpg)
 
 After a brief noon recess—during which **Jordan** rested his tired eyes in the attorney consultation room while **Aubrie**, **Zoë**, and **Isabel** brought him warm broth, grilled chicken, and a fresh cup of green tea—the courtroom reconvened at one-thirty for closing arguments and the court's ruling.
 
@@ -15884,7 +16218,7 @@ Jordan rolled his chair right up beside her, reached out with his right hand, an
 
 **Date:** 2015-08-19 at 19:30 America/New_York
 
-![Inside the walk-out basement sanctuary at 414 Geneva Street under warm amber fairy lights and Blue Ridge twilight, twenty-one-year-old Isabel Dawson kneels on the carpet beside Jordan Fuller's wheelchair with her palms framing his clean-shaven jaw right before their first romantic kiss, while Jordan holds her close and Aubrie Jean Kelly, Madison Scott, and Zoë Wren Brooks watch with warm, zero-jealousy smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p002/secret-everyone-already-knew.jpg)
+![Inside the walk-out basement sanctuary at 414 Geneva Street under warm amber fairy lights and Blue Ridge twilight, twenty-one-year-old Isabel Dawson kneels on the carpet beside Jordan Fuller's wheelchair with her palms framing his clean-shaven jaw right before their first romantic kiss, while Jordan holds her close and Aubrie Jean Kelly, Madison Scott, and Zoë Wren Brooks watch with warm, zero-jealousy smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c002/p002/secret-everyone-already-knew.jpg)
 
 After a boisterous dinner upstairs around the main dining table—where **Daniel** and **Laura Brooks** toasted the courtroom victory with sparkling apple cider and **Isabel's** warm Blacksburg turnovers disappeared in less than ten minutes—the younger generation headed back down to the walk-out basement sanctuary for tea.
 
@@ -16069,7 +16403,7 @@ Still glowing bright pink, Isabel looked down at Jordan's hand resting warmly ov
 
 **Date:** 2015-08-21 at 10:00 America/New_York
 
-![Outside the modern Ironstone entrance of New River Hall at Commonwealth Polytechnic Institute on Freshman Move-In Friday, Jordan Fuller in his matte-black S.S. Freedom power wheelchair and Senior RA Isabel Dawson in her maroon-and-white CPI polo welcome incoming freshman Systems Architects Elana Grace Dawson (in her sip-and-puff power chair) and Stephen Dawson alongside Stella, their twenty-eight-inch silver-dapple American Miniature Horse wearing her burgundy service harness and four non-slip neoprene campus boots.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p004/new-river-hall-welcoming.jpg)
+![Outside the modern Ironstone entrance of New River Hall at Commonwealth Polytechnic Institute on Freshman Move-In Friday, Jordan Fuller in his matte-black S.S. Freedom power wheelchair and Senior RA Isabel Dawson in her maroon-and-white CPI polo welcome incoming freshman Systems Architects Elana Grace Dawson (in her sip-and-puff power chair) and Stephen Dawson alongside Stella, their twenty-eight-inch silver-dapple American Miniature Horse wearing her burgundy service harness and four non-slip neoprene campus boots.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c002/p004/new-river-hall-welcoming.jpg)
 
 #### 10:00 AM — New River Hall Room 323 & Forge Market
 
@@ -16355,7 +16689,7 @@ They had found their new normal.
 
 **Date:** 2015-08-26 at 19:30 America/New_York
 
-![Around the oak dining table at 414 Geneva Street in Christiansburg, Zoë Wren Brooks (with lavender hair and cyan code reflected in her glasses) and Jordan Fuller (in his S.S. Freedom power wheelchair beside her) co-design the linear-type compiler for Fin# to enforce the First Law of Thermodynamics on double-entry accounting, while Daniel Brooks stands proudly behind Zoë and Aubrie Jean Kelly and Mark look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c001/p003/birth-of-finsharp.jpg)
+![Around the oak dining table at 414 Geneva Street in Christiansburg, Zoë Wren Brooks (with lavender hair and cyan code reflected in her glasses) and Jordan Fuller (in his S.S. Freedom power wheelchair beside her) co-design the linear-type compiler for Fin# to enforce the First Law of Thermodynamics on double-entry accounting, while Daniel Brooks stands proudly behind Zoë and Aubrie Jean Kelly and Mark look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c001/p003/birth-of-finsharp.jpg)
 
 By Wednesday evening of their first week back at CPI—**August 26, 2015**—the **`6:00 AM` Blue Ridge Transit Route 1** commute had settled into a smooth, frictionless routine. Two mornings in a row, Jordan had rolled *S.S. Freedom* straight up the low-floor pneumatic kneel ramp at the Christiansburg Transit Center, rode forty-five minutes up Business 460 in a warm cabin, waited a mere fifteen minutes at **Commonwealth Mall**, and rolled across the street into **Kincaid Commons** the second the magnetic locks clicked open at `7:00 AM`.
 
@@ -16845,7 +17179,7 @@ Cocooned between Aubrie Jean, Madison, and Isabel, Jordan was completely mesmeri
 
 **Date:** 2015-11-13 at 09:32 America/New_York
 
-![Inside the back accessible row of the Walton Hall lecture auditorium at CPI, nineteen-year-old Jordan Fuller slumps in acute cardiac distress in his matte-black S.S. Freedom power wheelchair clutching his sternum beside a dropped water bottle, while Mark drops to one knee to steady his shoulder, Aubrie Jean Kelly holds his hand in terror, Madison Scott wipes his brow, Zoë Wren Brooks urgently calls 911 dispatch, and Lauren and Hannah clear the lecture hall aisle behind them.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c003/p001/walton-hall-stemi-emergency.jpg)
+![Inside the back accessible row of the Walton Hall lecture auditorium at CPI, nineteen-year-old Jordan Fuller slumps in acute cardiac distress in his matte-black S.S. Freedom power wheelchair clutching his sternum beside a dropped water bottle, while Mark drops to one knee to steady his shoulder, Aubrie Jean Kelly holds his hand in terror, Madison Scott wipes his brow, Zoë Wren Brooks urgently calls 911 dispatch, and Lauren and Hannah clear the lecture hall aisle behind them.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c003/p001/walton-hall-stemi-emergency.jpg)
 
 #### 9:32 AM — Friday, 9:32 AM (The Attack)
 
@@ -17655,7 +17989,7 @@ Lauren looked up from the sofa, forcing a brave, watery smile through her exhaus
 
 **Date:** 2015-11-13 at 21:00 America/New_York
 
-![Inside dimly lit Room 312 at New River Valley Medical Center at midnight under the cyan glow of the cardiac telemetry monitor, Aubrie Jean Kelly leans tenderly over the lowered hospital bed rail in her flannel pajamas to bury her face in Jordan Fuller's shoulder as Jordan holds her close with his left arm.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c003/p005/midnight-vitals-first-watch.jpg)
+![Inside dimly lit Room 312 at New River Valley Medical Center at midnight under the cyan glow of the cardiac telemetry monitor, Aubrie Jean Kelly leans tenderly over the lowered hospital bed rail in her flannel pajamas to bury her face in Jordan Fuller's shoulder as Jordan holds her close with his left arm.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c003/p005/midnight-vitals-first-watch.jpg)
 
 #### 9:00 PM — The First Watch
 
@@ -18451,7 +18785,7 @@ Instantly, the screen lit up with a three-way conference window: the warm, glowi
 
 **Date:** 2015-11-18 at 21:30 America/New_York
 
-![Inside sixth-floor Room 618 at Star City General Hospital in Roanoke as November snow swirls outside the dark window and the cardiac telemetry monitor displays 88 BPM Normal Sinus Rhythm, Zoë Wren Brooks in her CPI hoodie and flannel pajama pants leans gently over the lowered bed rail to cup Jordan Fuller's cheek for their very first romantic kiss under Protocol: Intimacy.v2 while Jordan rests his hands lightly on his red plush heart pillow.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c005/p003/cvicu-romance-intimacy-v2.jpg)
+![Inside sixth-floor Room 618 at Star City General Hospital in Roanoke as November snow swirls outside the dark window and the cardiac telemetry monitor displays 88 BPM Normal Sinus Rhythm, Zoë Wren Brooks in her CPI hoodie and flannel pajama pants leans gently over the lowered bed rail to cup Jordan Fuller's cheek for their very first romantic kiss under Protocol: Intimacy.v2 while Jordan rests his hands lightly on his red plush heart pillow.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c005/p003/cvicu-romance-intimacy-v2.jpg)
 
 By `9:30 PM`, the dinner trays had been cleared, the nine o'clock vitals check and medications were finished, the video call had ended with a chorus of goodnights, and the main overhead lights in **Room 618** were dimmed, leaving only the soft amber glow of the bedside lamp and the quiet, hypnotic swirl of snowflakes brushing against the sixth-floor windowpane.
 
@@ -18564,7 +18898,7 @@ Now, after the post-operative diuresis had flushed out the excess fluid from the
 
 **Date:** 2015-11-20 at 10:30 America/New_York
 
-![In the warm amber glow of a bedside Himalayan salt lamp in the Geneva Street walk-out basement sanctuary, twenty-one-year-old Isabel Dawson lies cautiously along the far right edge of the king-sized bed on her very first night ever spending the night at Geneva Street, blushing warmly as Jordan Fuller—propped on wedge pillows in button-front flannel pajamas with his red plush heart pillow and a protective gray bolster pillow behind them—reaches across the sheet to hold her hand.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c006/p001/isabel-first-night-sternal-watch.jpg)
+![In the warm amber glow of a bedside Himalayan salt lamp in the Geneva Street walk-out basement sanctuary, twenty-one-year-old Isabel Dawson lies cautiously along the far right edge of the king-sized bed on her very first night ever spending the night at Geneva Street, blushing warmly as Jordan Fuller—propped on wedge pillows in button-front flannel pajamas with his red plush heart pillow and a protective gray bolster pillow behind them—reaches across the sheet to hold her hand.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c006/p001/isabel-first-night-sternal-watch.jpg)
 
 #### November 20, 2015 • 10:30 AM — The Discharge Argument
 
@@ -18895,7 +19229,7 @@ All Saturday morning, he refused to watch movies, working instead for two focuse
 
 **Date:** 2015-11-29 at 19:00 America/New_York
 
-![At the sunlit oak dining table in the 414 Geneva Street walk-out basement on December 1, 2015, twenty-seven-year-old Megan Brooks leans over from her dining chair to share a warm, lingering morning work-buddy hug with Jordan Fuller—who sits upright in his S.S. Freedom power wheelchair holding his red plush heart pillow—behind two identical cardiac-healthy breakfast plates of egg whites and whole-wheat toast with grape jelly.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c007/p001/megan-jordan-work-buddies.jpg)
+![At the sunlit oak dining table in the 414 Geneva Street walk-out basement on December 1, 2015, twenty-seven-year-old Megan Brooks leans over from her dining chair to share a warm, lingering morning work-buddy hug with Jordan Fuller—who sits upright in his S.S. Freedom power wheelchair holding his red plush heart pillow—behind two identical cardiac-healthy breakfast plates of egg whites and whole-wheat toast with grape jelly.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c007/p001/megan-jordan-work-buddies.jpg)
 
 #### November 29, 2015 • 7:00 PM — The Caregiver Handoff (Enter Megan)
 
@@ -19290,7 +19624,7 @@ Jordan tilted his head curiously.
 
 **Date:** 2015-12-09 at 08:00 America/New_York
 
-![Inside a Walton Hall classroom at Commonwealth Polytechnic Institute in front of a projected CPI Campus Accessibility GIS Map, Jordan Fuller sits upright in his fourteen-pound brushed-titanium Shuttlecraft Galileo manual wheelchair in an Oxford shirt and navy sweater vest, hugging his red plush heart pillow with his left arm while tapping his mPad held at eye level by Hannah Parker, as teammates Zoë Wren Brooks and Mark stand proudly behind him and Isabel Dawson, Madison Scott, and Aubrie Jean Kelly applaud.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c008/p001/walton-hall-comeback-presentation.jpg)
+![Inside a Walton Hall classroom at Commonwealth Polytechnic Institute in front of a projected CPI Campus Accessibility GIS Map, Jordan Fuller sits upright in his fourteen-pound brushed-titanium Shuttlecraft Galileo manual wheelchair in an Oxford shirt and navy sweater vest, hugging his red plush heart pillow with his left arm while tapping his mPad held at eye level by Hannah Parker, as teammates Zoë Wren Brooks and Mark stand proudly behind him and Isabel Dawson, Madison Scott, and Aubrie Jean Kelly applaud.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c008/p001/walton-hall-comeback-presentation.jpg)
 
 #### 8:00 AM — Morning Prep on Geneva Street
 
@@ -19380,7 +19714,7 @@ As Jordan watched his friends hurry down the hallway with their backpacks, wavin
 
 **Date:** 2015-12-09 at 10:05 America/New_York
 
-![Inside Megan Brooks's parked sedan outside Walton Hall on a crisp December morning, twenty-seven-year-old Megan leans across to rest her forehead tenderly against nineteen-year-old Jordan Fuller's and locks both of her hands firmly around his hands—carefully protecting the red plush cardiac heart pillow buckled over his healing sternum—as she anchors him safely through his post-op sensory crash while his closed mPad rests in its matte-black cover on the console.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c008/p002/megan-grounding-jordan-parked-sedan.jpg)
+![Inside Megan Brooks's parked sedan outside Walton Hall on a crisp December morning, twenty-seven-year-old Megan leans across to rest her forehead tenderly against nineteen-year-old Jordan Fuller's and locks both of her hands firmly around his hands—carefully protecting the red plush cardiac heart pillow buckled over his healing sternum—as she anchors him safely through his post-op sensory crash while his closed mPad rests in its matte-black cover on the console.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c008/p002/megan-grounding-jordan-parked-sedan.jpg)
 
 Outside **Walton Hall**, the crisp December air was alive with the mid-morning class change as **Megan** wheeled **Jordan** down the brick walkway to her parked sedan.
 
@@ -19534,7 +19868,7 @@ Ducking out of the mixer at `8:45 PM`, Megan drove straight back down `I-81 Sout
 
 **Date:** 2015-12-25 at 21:30 America/New_York
 
-![On Boxing Day morning in the sunlit walk-out basement sanctuary at 414 Geneva Street, twenty-seven-year-old Megan Brooks wraps her arms lovingly around Jordan Fuller's neck on the sectional sofa for their very first romantic kiss, surrounded by a cheering, zero-jealousy semicircle of Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Isabel Dawson, and Lauren Barnes.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p001/boxing-day-megan-first-kiss.jpg)
+![On Boxing Day morning in the sunlit walk-out basement sanctuary at 414 Geneva Street, twenty-seven-year-old Megan Brooks wraps her arms lovingly around Jordan Fuller's neck on the sectional sofa for their very first romantic kiss, surrounded by a cheering, zero-jealousy semicircle of Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Isabel Dawson, and Lauren Barnes.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c009/p001/boxing-day-megan-first-kiss.jpg)
 
 #### December 25, 2015 • 9:30 PM — The Christmas Night Invitation
 
@@ -19748,7 +20082,7 @@ Taking a deep breath, twenty-seven-year-old Megan pulled her pajama top over her
 
 **Date:** 2015-12-27 at 19:30 America/New_York
 
-![In the glowing walk-out basement sanctuary at 414 Geneva Street on December 27, 2015, newly named Jordan Shawn Kelly sits on the sectional sofa flanked by his bride-to-be Aubrie Jean Kelly and Megan Brooks while Mark stands beside them with one hand on Jordan's shoulder and his other arm around Hannah Parker to celebrate their Double Wedding engagement, surrounded by cheering Madison, Zoë, Isabel, Lauren, Sarah, and Jessica and watched proudly from the stairs by Daniel and Laura Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p002/jordan-shawn-kelly-double-wedding.jpg)
+![In the glowing walk-out basement sanctuary at 414 Geneva Street on December 27, 2015, newly named Jordan Shawn Kelly sits on the sectional sofa flanked by his bride-to-be Aubrie Jean Kelly and Megan Brooks while Mark stands beside them with one hand on Jordan's shoulder and his other arm around Hannah Parker to celebrate their Double Wedding engagement, surrounded by cheering Madison, Zoë, Isabel, Lauren, Sarah, and Jessica and watched proudly from the stairs by Daniel and Laura Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c009/p002/jordan-shawn-kelly-double-wedding.jpg)
 
 #### 7:30 PM — A Legal Firewall for Jordan
 
@@ -20235,7 +20569,7 @@ Aubrie Jean leaned over his shoulder, resting her cheek against his temple as Ma
 
 **Date:** 2016-05-21 at 15:00 America/New_York
 
-![Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a Foundry Maroon CPI shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson near an Engine Room Records filming notice sign.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/forger-nation-tailgate-plaza.jpg)
+![Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a Foundry Maroon CPI shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson near an Engine Room Records filming notice sign.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p001/forger-nation-tailgate-plaza.jpg)
 
 #### 3:00 PM — The Crucible Shuttle
 
@@ -20316,7 +20650,7 @@ Conclusion: The Crucible has been successfully overwritten in Jordan.OS memory a
 
 Jordan locked his wheel brakes in `Seat 1`, with **Aubrie Jean** in `Seat 2`, **Madison** in `Seat 3`, and **Megan** in `Seat 4`, followed in an unbroken row by **Mark**, **Hannah**, **Daniel**, **Laura**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Elana**, **Stephen**, and **Stella**.
 
-![At 6:00 PM golden hour inside The Crucible stadium from the Section 104, Row A accessible terrace behind the front railing, Jordan Fuller sits happily in his manual wheelchair wearing a maroon CPI shirt, rectangular glasses, and a gold ticket lanyard alongside Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson looking across the green turf toward the concert stage on the front-left.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/section-104-row-a-arrival.jpg#fullwidth)
+![At 6:00 PM golden hour inside The Crucible stadium from the Section 104, Row A accessible terrace behind the front railing, Jordan Fuller sits happily in his manual wheelchair wearing a maroon CPI shirt, rectangular glasses, and a gold ticket lanyard alongside Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson looking across the green turf toward the concert stage on the front-left.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p001/section-104-row-a-arrival.jpg#fullwidth)
 
 Jordan looked up at the towering limestone stands rising against the golden early-evening sky of Blacksburg. Then he looked down the row at the fifteen people laughing and adjusting their concert lanyards beside him. He tapped his `mPad`:
 
@@ -20332,7 +20666,7 @@ Daniel leaned across Mark’s shoulder, his eyes glistening behind his glasses a
 
 **Date:** 2016-05-21 at 19:55 America/New_York
 
-![From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zoë Wren Brooks, and Mark Anderson cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/act-i-ignition-marching-forgers.jpg)
+![From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zoë Wren Brooks, and Mark Anderson cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p002/act-i-ignition-marching-forgers.jpg)
 
 #### 7:55 PM — Smile for the Camera
 
@@ -20441,7 +20775,7 @@ Jordan’s breath caught as a low, familiar analog synthesizer arpeggio rolled a
 
 When all three hundred brass horns of the **CPI Marching Forgers** joined Cassidy’s soaring vocal (*"We are the Stardust Engine! / Racing through the night / We're burning on the fuel of a brand new light!"*) and Ryan’s lead guitar on the chorus, Jordan’s eyes shone behind his glasses.
 
-![On stage inside The Crucible during 'The Stardust Engine', Ryan O'Connell plays a soaring lead on his sunburst electric guitar from his manual wheelchair on stage-left while Cassidy O'Connell sings and plays her wraparound analog synthesizer rig at center-right, backed by Evan Wright, Tyler Wright, and the 300 uniformed brass and percussionists of the CPI Marching Forgers under deep cosmic-violet nebula projections.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/stardust-engine-300-marching-forgers.jpg#fullwidth)
+![On stage inside The Crucible during 'The Stardust Engine', Ryan O'Connell plays a soaring lead on his sunburst electric guitar from his manual wheelchair on stage-left while Cassidy O'Connell sings and plays her wraparound analog synthesizer rig at center-right, backed by Evan Wright, Tyler Wright, and the 300 uniformed brass and percussionists of the CPI Marching Forgers under deep cosmic-violet nebula projections.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p002/stardust-engine-300-marching-forgers.jpg#fullwidth)
 
 At halftime of the September 2014 Homecoming game, the **CPI Marching Forgers** had marched onto this exact turf while Jordan sat frozen in terror staring at a `24–0` scoreboard before having to be evacuated from the stadium. Tonight, hearing the three-hundred-piece Marching Forgers play *"The Stardust Engine"* alongside Ryan, Cassidy, Evan, and Tyler while he sang along with his family in `Row A`, that September 2014 halftime ghost dissolved into the warm night air.
 
@@ -20457,7 +20791,7 @@ As the final brass chord of *"The Stardust Engine"* rang out across the valley, 
 
 **Date:** 2016-05-21 at 20:25 America/New_York
 
-![Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 — VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Anderson claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zoë Wren Brooks cheer wildly around him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/fifty-two-to-nothing-scoreboard.jpg)
+![Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 — VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Anderson claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zoë Wren Brooks cheer wildly around him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p003/fifty-two-to-nothing-scoreboard.jpg)
 
 #### 8:25 PM — Not Your Doll
 
@@ -20485,7 +20819,7 @@ On a thunderous dual-kit drum detonation from **Tyler Wright** and **Darius "Doc
 
 "That's [**'Not Your Doll'**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-06-not-your-doll)!" **Daniel** shouted over the roar as **Laura** threw her fist in the air beside him.
 
-![Cassidy O'Connell takes the stage front and center at the lip of The Crucible stage in a fitted black leather jacket over a maroon CPI rock tee, gripping a tilted chrome stand microphone with both hands and belting with fierce hard-rock intensity as Ryan O'Connell shreds his electric guitar in his manual wheelchair to her left, twin fountains of gold and crimson pyrotechnic sparks erupt along the stage edge, and the 120-foot curved LED screen shatters a neon-pink doll mask into roaring flames reading NOT YOUR DOLL.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/not-your-doll-cassidy-front-and-center.jpg#fullwidth)
+![Cassidy O'Connell takes the stage front and center at the lip of The Crucible stage in a fitted black leather jacket over a maroon CPI rock tee, gripping a tilted chrome stand microphone with both hands and belting with fierce hard-rock intensity as Ryan O'Connell shreds his electric guitar in his manual wheelchair to her left, twin fountains of gold and crimson pyrotechnic sparks erupt along the stage edge, and the 120-foot curved LED screen shatters a neon-pink doll mask into roaring flames reading NOT YOUR DOLL.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p003/not-your-doll-cassidy-front-and-center.jpg#fullwidth)
 
 Tilting the chrome microphone stand at a defiant angle at the very edge of the stage—channeling pure, unvarnished hard-rock ferocity—Cassidy tore into the verses with a grit-soaked rock belt that shook the limestone arches of **The Crucible**:
 
@@ -20581,7 +20915,7 @@ On the final ten-second guitar-and-synthesizer chord of *"Steel and Synthetics"*
 
 **Date:** 2016-05-21 at 20:55 America/New_York
 
-![Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg)
+![Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg)
 
 #### 8:55 PM — Escape Velocity (Ad Astra)
 
@@ -20656,7 +20990,7 @@ Across the 120-foot curved LED wall behind the stage—and across all sixty-five
 
 "Oh, my God," Daniel breathed, his voice cracking as he wiped his eyes behind his glasses. "That was just Main Engine Cutoff. We're in orbit. They're playing the whole epic!"
 
-![Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg#fullwidth)
+![Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg#fullwidth)
 
 Standing front and center in the glow of sixty-five thousand stars, Cassidy looked up at the glowing tiers of her alma mater and sang the weightless cosmic chorus—*"I'm loved by the sun! I'm held by the void! / An orbit just begun! A life not destroyed!"*—before her voice rose into the bridge that every lifelong fan knew by heart:
 
@@ -20726,7 +21060,7 @@ A low, urgent klaxon warning tone echoed across the stadium bowl as the **Engine
 
 "Now Ryan's answering Cassidy's orbit with *Moon 2* and [***Mile Marker 98***](https://music.raggiesoft.com/artists/the-stardust-engine/2003-mile-marker-98)!" Daniel gasped.
 
-![During 'Moon 2: Roche Limit' inside The Crucible, Ryan O'Connell sits front and center in his manual wheelchair playing an aggressive riff on his sunburst electric guitar while Cassidy O'Connell plays her synthesizer rig behind him and the 120-foot curved LED screen displays a fracturing moon glowing with molten-gold and crimson fissures under emergency crimson planetarium lasers.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/roche-limit-twin-moons-touchdown.jpg#fullwidth)
+![During 'Moon 2: Roche Limit' inside The Crucible, Ryan O'Connell sits front and center in his manual wheelchair playing an aggressive riff on his sunburst electric guitar while Cassidy O'Connell plays her synthesizer rig behind him and the 120-foot curved LED screen displays a fracturing moon glowing with molten-gold and crimson fissures under emergency crimson planetarium lasers.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p004/roche-limit-twin-moons-touchdown.jpg#fullwidth)
 
 Before the crowd could even catch its breath, the 120-foot curved screen behind the band dissolved into a blinding Interstate 81 snowstorm that morphed into a high-velocity asteroid debris field as Ryan launched straight into [**"Impact (Mile Marker 98)"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=2-07-impact-mile-marker-98)—translating the freezing night of December 10, 1990 on Interstate 81 Northbound near Newbern, Virginia, when a speeding car clipped the band's tour van at Mile Marker 98 and left twenty-six-year-old Ryan with a complete T10 spinal cord injury, into a catastrophic collision in deep space (*"I was holding the controls, trying to beat the storm / Trying to keep the Freighter steady, trying to keep it warm / Running forty through the dark, the hazard beacons bright... We hit a massive fragment in the great unknown / At Mile Marker 98, I lost the throne! / We're barely alive, but we survived the night!"*).
 
@@ -20745,7 +21079,7 @@ As the final chord of *"Twin Moons: Touchdown"* faded into a warm synthesizer dr
 
 **Date:** 2016-05-21 at 21:50 America/New_York
 
-![Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL • AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/brothers-keeper-acoustic-spotlight.jpg)
+![Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL • AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p005/brothers-keeper-acoustic-spotlight.jpg)
 
 #### 9:50 PM — *Our Own Frequency* & *Brother's Keeper*
 
@@ -20822,7 +21156,7 @@ When Ryan and Cassidy harmonized on the chorus—*"We trade all the armor, we tr
 
 **Date:** 2016-05-21 at 22:15 America/New_York
 
-![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg)
+![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg)
 
 #### 10:15 PM — *Saturday Night Lights* & *Progress Street*
 
@@ -20876,7 +21210,7 @@ The sixty-five-thousand-voice roar of students, Blacksburg and Christiansburg lo
 
 With her right hand pressed over her heart and her left arm raised wide toward the stands, Cassidy stepped completely back from her microphone alongside Ryan—letting the stadium claim the song forever:
 
-![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg#fullwidth)
+![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg#fullwidth)
 
 > **65,000 FORGERS:** ***"CHASING THE NEON ON THE HUCKLEBERRY TRAIL!***<br>
 > ***WHERE THE TWILIGHT GLOWS AND THE SHADOWS SAIL!***<br>
@@ -20897,7 +21231,7 @@ Then the stage lights softened to warm candlelight gold, and Cassidy began the s
 
 Throughout the entire song, Aubrie Jean stood directly behind Jordan’s wheelchair with her arms wrapped warmly around his chest and her chin resting on his shoulder, swaying with **Madison**, **Megan**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**, while **Daniel** and **Laura** danced slow and close in the aisle beside **Mark** and **Hannah**, and little **Stella** slept peacefully in **Stephen** and **Elana**’s arms under her pink ear defenders.
 
-![During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, Jordan Fuller sits peacefully in his wheelchair at the Section 104, Row A railing while Aubrie Jean Kelly wraps her arms warmly around his shoulders beside Madison Scott, Zoë Wren Brooks, and Mark Anderson.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/my-anchor-holds-section-104.jpg#fullwidth)
+![During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, Jordan Fuller sits peacefully in his wheelchair at the Section 104, Row A railing while Aubrie Jean Kelly wraps her arms warmly around his shoulders beside Madison Scott, Zoë Wren Brooks, and Mark Anderson.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p006/my-anchor-holds-section-104.jpg#fullwidth)
 
 After one more explosive burst of fireworks on the comeback anthem [**"Reignition: Lights Up on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=3-11-reignition-lights-up-on-progress-street) (*"Good morning, Forger Nation."* / *"The switches are back on! Let's go!"*), the clock on the stadium fascia ticked past `10:35 PM`, and the band eased into the warm, nostalgic groove of [**"Last Bus Home: Lights Out on Progress Street"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=3-12-last-bus-home-lights-out-on-progress-street).
 
@@ -20917,7 +21251,7 @@ Every light on the stage clicked off to pitch black.
 
 **Date:** 2016-05-21 at 22:40 America/New_York
 
-![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p007/electric-color-rainbow-reclamation.jpg)
+![During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p007/electric-color-rainbow-reclamation.jpg)
 
 #### 10:40 PM — The False Ending & *Electric Color*
 
@@ -21084,7 +21418,7 @@ GO FORGERS!
 
 <aac>"Best transit system in the Commonwealth,"</aac> Jordan tapped happily on his `mPad`. Turning his chair around on the wide concrete island at the base of the front-door ramp, he gripped his push-rims and backed ***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`) smoothly up the incline in reverse—rolling straight back into the forward wheelchair securement bay in one effortless motion without having to wrestle a multi-point U-turn inside the crowded vestibule. <aac>"And the best night of Sophomore Year."</aac>
 
-![At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, Jordan Fuller backs his manual wheelchair smoothly up the front-door low-floor ramp in reverse into a white-and-maroon Blue Ridge Transit articulated shuttle displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on its amber LED destination sign, smiling toward Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c004/p007/crucible-bus-loop-forgers-shuttle.jpg#fullwidth)
+![At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, Jordan Fuller backs his manual wheelchair smoothly up the front-door low-floor ramp in reverse into a white-and-maroon Blue Ridge Transit articulated shuttle displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on its amber LED destination sign, smiling toward Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p007/crucible-bus-loop-forgers-shuttle.jpg#fullwidth)
 
 As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the **Christiansburg Transit Center**—one short block from `414 Geneva Street`—**Aubrie Jean** sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while **Mark** leaned across the aisle toward **Hannah** and Jordan with a quiet, meaningful smile.
 
@@ -21256,7 +21590,7 @@ When they finally rolled out through the automatic sliding glass doors into the 
 
 **Date:** 2016-07-01 at 11:00 America/New_York
 
-![Inside the sunlit custom-built West Wing master bedroom of the U.S. Route 11 Compound on July 1, 2016, Jordan Fuller sits happily near the center of the recessed fifteen-foot-by-fifteen-foot Sunken Sanctuary mattress looking at his mPad at zero elevation delta from his parked titanium Vanguard Pro wheelchair, surrounded on the velvet-bolstered mattress by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks (holding her tablet), Megan Brooks, Isabel Dawson, Lauren Barnes, Sarah Braithwaite, and Jessica Gallagher, while Daniel Brooks stands on the flush hardwood transfer deck holding the Montgomery County Circuit Court docket folder beside Laura Brooks, Mark Anderson, and Hannah Parker.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c001/p001/sunken-sanctuary-commissioning.jpg)
+![Inside the sunlit custom-built West Wing master bedroom of the U.S. Route 11 Compound on July 1, 2016, Jordan Fuller sits happily near the center of the recessed fifteen-foot-by-fifteen-foot Sunken Sanctuary mattress looking at his mPad at zero elevation delta from his parked titanium Vanguard Pro wheelchair, surrounded on the velvet-bolstered mattress by Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks (holding her tablet), Megan Brooks, Isabel Dawson, Lauren Barnes, Sarah Braithwaite, and Jessica Gallagher, while Daniel Brooks stands on the flush hardwood transfer deck holding the Montgomery County Circuit Court docket folder beside Laura Brooks, Mark Anderson, and Hannah Parker.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e009/c001/p001/sunken-sanctuary-commissioning.jpg)
 
 #### 11:00 AM — The U.S. 11 Compound & The Sunken Sanctuary
 
@@ -21387,7 +21721,7 @@ By Thursday night, July 14, 2016, every centerpiece was misted in the cooler, ev
 
 **Date:** 2016-07-15 at 07:00 America/New_York
 
-![Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on Friday, July 15, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Anderson stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Parker in her ivory lace gown.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/double-wedding-conservatory-vows.jpg)
+![Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on Friday, July 15, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Anderson stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Parker in her ivory lace gown.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e009/c002/p001/double-wedding-conservatory-vows.jpg)
 
 #### 7:00 AM — The Morning Of, The Cereal Bowl of Normalcy, & The Route 3 Coach
 
@@ -21435,7 +21769,7 @@ His family filed in behind him—each of them flashing their CPI **`Poly Pass`**
 
 #### 12:30 PM — The Final Touches: All-Hands Venue Setup
 
-![Inside the sunlit conservatory atrium of the Old Town Ballroom thirty minutes before doors open, Zoë coordinates the venue setup with her tablet while Hannah tests a gold pen on the guest book beside the "Choose a seat, not a side. We're all family here" sign, Lauren and Megan arrange and photograph the centerpieces, and Jordan watches happily from his wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/wedding-final-touches-all-hands-setup.jpg)
+![Inside the sunlit conservatory atrium of the Old Town Ballroom thirty minutes before doors open, Zoë coordinates the venue setup with her tablet while Hannah tests a gold pen on the guest book beside the "Choose a seat, not a side. We're all family here" sign, Lauren and Megan arrange and photograph the centerpieces, and Jordan watches happily from his wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e009/c002/p001/wedding-final-touches-all-hands-setup.jpg)
 
 At `12:30 PM`—thirty minutes before the conservatory doors opened to guests—the wedding party met **Caleb** at the **Old Town Ballroom & Conservatory**, located directly across Main Street from the **Montgomery County Courthouse** in downtown Christiansburg.
 
@@ -21571,7 +21905,7 @@ And before a single champagne glass was poured for the reception, **Daniel Brook
 
 **Date:** 2016-07-15 at 14:45 America/New_York
 
-![Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on Friday, July 15, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Anderson and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg)
+![Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on Friday, July 15, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Anderson and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e009/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg)
 
 #### 2:45 PM — Chamber B: The Legal Seal (`Jordan Shawn Kelly`)
 
@@ -21736,7 +22070,7 @@ and:
 3 via LEE HWY
 ```
 
-![At 10:30 PM on Friday night, July 15, 2016, under the warm amber streetlamps of Main Street in downtown Christiansburg after the wedding reception, newlywed Jordan Shawn Kelly in his charcoal three-piece wedding suit, midnight-blue silk tie, and white rose boutonniere smoothly backs his manual wheelchair up the front-door ramp in reverse onto a Blue Ridge Transit low-floor city bus whose amber LED destination sign alternates between '3 RADFORD' and '3 via LEE HWY', smiling toward his bride Aubrie Jean Kelly in her ivory lace wedding gown, Mark and Hannah Anderson, and the midnight-blue-gowned bridesmaids on the brick sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/route-3-lee-hwy-wedding-chariot.jpg#fullwidth)
+![At 10:30 PM on Friday night, July 15, 2016, under the warm amber streetlamps of Main Street in downtown Christiansburg after the wedding reception, newlywed Jordan Shawn Kelly in his charcoal three-piece wedding suit, midnight-blue silk tie, and white rose boutonniere smoothly backs his manual wheelchair up the front-door ramp in reverse onto a Blue Ridge Transit low-floor city bus whose amber LED destination sign alternates between '3 RADFORD' and '3 via LEE HWY', smiling toward his bride Aubrie Jean Kelly in her ivory lace wedding gown, Mark and Hannah Anderson, and the midnight-blue-gowned bridesmaids on the brick sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e009/c002/p002/route-3-lee-hwy-wedding-chariot.jpg#fullwidth)
 
 With a gentle pneumatic hiss, the bus knelt at the front curb and the folding front doors swung wide.
 
@@ -21821,4 +22155,301 @@ He scooted to the center of the vast expanse of memory foam, grounding himself i
 On the flush oak nightstand beside his parked `Vanguard Pro` rested the embossed gold seal of the Circuit Court of Montgomery County, Virginia: **`JORDAN SHAWN KELLY`**.
 
 It was his first night as a married man, and for the first time in twenty years of life, every piece of his name, his body, his journey, and his home belonged to him. Jordan closed his eyes, listened to the steady, peaceful breathing of the eight women he loved, and drifted into the deepest, safest sleep of his life.
+
+# Fall Semester 2016
+
+## A Familiar Face & The Hug Four Years in the Making
+
+### Part 1: The Hallway Freeze & The Fortress of Proof
+
+**Date:** 2016-08-22 at 08:50 America/New_York
+
+![In the sunlit ground-floor corridor of Carter Hall outside Room 108 on the first morning of Fall Semester 2016, twenty-year-old transfer student Jessamine 'Jess' Mercer stands frozen against the oak doorway wall clutching her backpack straps in startled, fearful hesitation, while six feet away Jordan Shawn Kelly sits in his matte-black manual wheelchair wearing his rectangular prescription glasses and maroon CPI polo with his tablet on his lap, smiling reassuringly beside his wife Aubrie Jean Kelly as she extends a calm, welcoming hand.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e010/c001/p001/the-hallway-freeze.jpg)
+
+#### 8:50 AM — Outside Room 108, Carter Hall
+
+Monday, August 22, 2016—the first morning of Junior Year at Commonwealth Polytechnic Institute—began in the sunlit ground-floor corridor of **Carter Hall**.
+
+Parked near the open doorway of `Room 108` for their `9:00 AM` shared humanities elective, **`LATN 101: Elementary Latin I`**, **Jordan Shawn Kelly** sat comfortably in his `Vanguard Pro` manual wheelchair, his prescription glasses resting cleanly on the bridge of his nose and his behind-the-ear hearing aids calibrated to the gentle morning hum of the hallway. Five weeks after his wedding and legal name change in Christiansburg, his left hand—wearing his gold wedding band matching the gold wedding band on his wife's left ring finger—was laced effortlessly with the right hand of his wife, **Aubrie Jean Kelly**, while **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Hannah**, and **Mark** stood in a relaxed semicircle around his chair trading predictions about the upcoming Forgers football opener.
+
+Then a new student walked around the corner from the main stairwell, glancing anxiously up at the brass room numbers above the doors.
+
+She was twenty years old, about five-foot-four with a softly rounded, slightly heavier build, wearing a cozy dusty-teal knit pullover sweater layered over a white crew-neck tee, medium-wash blue jeans, canvas sneakers, and a dark backpack slung over her right shoulder. Neat bangs framed her forehead beneath soft chestnut-brown hair held back on the sides with tortoiseshell barrette clips.
+
+As she checked the placard beside `Room 108`, her gaze shifted toward the circle of students gathered by the doorway—and locked directly onto Jordan.
+
+She stopped dead in her tracks.
+
+Across twelve feet of polished terrazzo floor, Jordan looked up into those warm, welcoming **hazel eyes**—flecked with the exact same green and amber gold he had last seen across an oak library table in Virginia Beach four years ago. Her face was a little more mature now, but the quiet kindness in her expression was unmistakable.
+
+For two full seconds, Jordan’s breath caught in his chest, his fingers tightening around Aubrie Jean’s hand.
+
+"Aubrey...?" the young woman whispered, the name slipping past her lips in stunned, hopeful disbelief before she could stop herself.
+
+Then, in the blink of an eye, the color drained from her cheeks.
+
+The memory of June 4, 2012—the memory of **Aubrie Renee Sinclair**’s shrieking, venomous voice coming through the Mercer family's kitchen telephone, calling her a manipulative predator and threatening to call the police and press harassment charges against her parents if she ever came within twenty feet of her son again—slammed into **Jessamine Mercer** like a physical blow.
+
+Her hands clamped with white-knuckled terror onto the straps of her backpack. She took two rapid, stumbling steps backward against the brick hallway wall, her wide hazel eyes darting frantically toward both ends of the Carter Hall corridor as if she half-expected Aubrie Sinclair to come storming around the corner at any second.
+
+"I—I'm sorry!" Jessamine stammered, her voice trembling so badly it barely carried over the hallway chatter as she pressed her back flat against the wall, terrified to come an inch closer and terrified even to speak to him. "I didn't know you were here—I'll drop the class—I won't come near you, I promise, I don't want to get you in trouble or make your mother call the police—"
+
+She spun half-around, ready to bolt back toward the stairwell.
+
+Around Jordan’s wheelchair, the entire circle went dead silent, instantly recognizing the sheer, conditioned terror in the stranger's voice.
+
+Jordan didn't let her run. Releasing Aubrie Jean’s hand for a second, he drove both push-rims forward two paces—stopping six feet away so he wouldn't crowd her against the wall—and typed at lightning speed into his `mPad` so that the warm Australian voice of `Sydney` spoke clearly into the quiet corridor:
+
+<aac>Jess! Please stop—don't run away! It's really you! And you're not in trouble—my mother isn't here!</aac>
+
+At the sound of the nickname that **only he** had ever been allowed to use—*Jess*—Jessamine froze mid-step. Slowly, she turned her head back toward him, her hazel eyes glistening with unshed tears and utter confusion as she looked from the sleek tablet mounted on his chair to his glasses, his hearing aids, and the eight protective faces standing behind him.
+
+"You... you're allowed to talk to me?" Jessamine whispered, her voice shaking as she hugged her elbows tightly against her dusty-teal sweater, careful to keep ten feet of empty floor between them. "Where is she? If she finds out I'm even in the same building as you, she'll—"
+
+**Aubrie Jean Kelly** stepped gently forward beside Jordan’s left wheel—keeping her posture open, calm, and completely non-threatening as she spoke in a warm, steady voice.
+
+"Jessamine," Aubrie Jean said softly, "she isn't anywhere near this campus. And she can never hurt him—or you—ever again."
+
+Jessamine blinked rapidly, looking at the young woman with the long brown side braid standing beside his wheelchair. "Who... who are you?"
+
+"I'm Aubrie Jean Kelly," she said with a gentle smile, resting her hand lightly on Jordan’s shoulder. "I'm his wife. And I need you to hear me very clearly: **he has cut his mother completely out of his life.**"
+
+```
+ZOË.Systems.Logs.KernelLog:
+Date: 08-22-2016
+Time: 08:54:12
+Thread 3 (Jordan) & Thread 2 (Observers)
+Event: Unscheduled Historical Identity Collision Outside Carter Hall Room 108 (LATN 101).
+Subject Identified: Jessamine Mercer ("Jess" — High School Sanctuary Archive, Virginia Beach, 2012).
+Observed Subject State: Acute defensive flight response triggered by residual maternal threat conditioning (Sinclair Landline Incident, 06-04-2012).
+Action: Deploying immediate legal and physical reassurance protocol prior to 09:00 bell. 08-22-2016 08:54:12
+```
+
+Inside the two minutes before the nine o'clock bell, right there in the quiet alcove outside `Room 108`, Aubrie Jean and Zoë gave Jessamine the clear, factual truth that lifted four years of terror off her shoulders:
+* How Jordan had stood up to his mother during Freshman Fall and served her with a permanent university and police No-Contact Directive;
+* How his mother had filed a fraudulent adult guardianship petition against him the following summer, only for **Judge Warren T. Aldridge** of the Montgomery County Circuit Court to **dismiss her case with prejudice** (`Final Order CL15-000842`) and refer her for felony perjury;
+* And how, five weeks ago on July 15, 2016, in that exact same courthouse across Main Street from their wedding ceremony, he had legally terminated the birth name his mother had used to own him—becoming **Jordan Shawn Kelly**.
+
+Jessamine stared from Aubrie Jean to Zoë, and then back down at Jordan, her hand rising slowly to cover her mouth as four years of fear began to crack apart.
+
+"Jordan..." she breathed, testing the sound of his real name on her tongue for the very first time. "Your name is Jordan Shawn Kelly? And she really can't touch you anymore?"
+
+Jordan nodded, his eyes shining brightly behind his glasses as a huge, unguarded smile broke across his face:
+
+<aac>I am Jordan Shawn Kelly now, Jess. She has zero power over me. And this is my family—my wife Aubrie Jean, and Madison, Zoë, Lauren, Sarah, Jessica, Hannah, and Mark.</aac>
+
+"And since the professor just walked in," **Hannah** added with a warm, welcoming smile, gesturing toward the open doorway of `Room 108`, "it looks like you're in our Latin class, Jessamine. Come sit with us."
+
+Still dazed—and still carefully keeping a respectful two-foot buffer around Jordan’s chair so she wouldn't accidentally brush against him—Jessamine nodded slowly, wiping a tear from her cheek with the sleeve of her sweater.
+
+"I'd like that," she whispered. "I'd like that a lot."
+
+***
+
+#### 9:55 AM — The Cosmic Coincidence
+
+For the next fifty minutes, as the professor walked the class through the syllabus and first-declension Latin nouns—the exact dead language Jessamine had studied beside Aubrey at that corner library table in 2012—Jordan could barely keep from smiling at his keyboard. Sitting at the accessible table at the front of the room with Aubrie Jean on his left and Jessamine one seat over on his right, his past and his present were sitting in the same row.
+
+When class let out at `9:50 AM` and the group filed back into the Carter Hall corridor, **Mark**, **Hannah**, **Zoë**, **Madison**, **Lauren**, **Sarah**, and **Jessica** paused by the main doors before heading toward their ten o'clock classes.
+
+"All right, J, we'll see you and Aubrie at Kincaid for lunch at noon," Mark said, giving Jordan’s shoulder a warm squeeze and offering Jessamine a friendly nod. "Really great meeting you, Jessamine."
+
+Soon only Jordan, Aubrie Jean, and Jessamine were left in the hallway. Already bracing himself for her to walk away, Jordan turned his chair toward her and typed:
+
+<aac>I still can't believe you're at CPI, Jess. I transferred in as a junior from Tidewater Community College, right? Which way is your next class?</aac>
+
+"Yeah, I finished my associate's degree in Virginia Beach first so my parents wouldn't worry," Jessamine explained softly, shifting her backpack strap on her shoulder and pointing down the main quad walkway toward the science complex. "My next lecture is at ten-thirty in Copernicus Hall. Stellar Astrophysics."
+
+Jordan and Aubrie Jean both froze, staring at her, and then looked at each other in stunned delight.
+
+<aac>No way! With Dr. Alistair at 10:30?!</aac> Jordan typed so fast his fingers nearly tripped over the keys. <aac>And the Tuesday morning observatory lab section?!</aac>
+
+"Yes!" Jessamine gasped, her hazel eyes going wide as a real smile broke through her shyness. "You're both Astrophysics majors?!"
+
+"We sure are," Aubrie Jean laughed warmly, stepping beside Jessamine—though noticing how Jessamine still instinctively kept her hands tucked close to her own sides, Aubrie Jean didn't grab her arm without asking. "Come on, walk with us to Copernicus Hall! You're sitting with us!"
+
+### Part 2: His Wife's Insistence & The Hug Four Years in the Making
+
+**Date:** 2016-08-22 at 10:25 America/New_York
+
+![At a quiet corner oak table inside Kincaid Hall, as twenty-year-old Jessamine 'Jess' Mercer sits with a tear rolling down her cheek still keeping her hand two inches away on the wood, Jordan's wife Aubrie Jean Kelly—wearing her matching gold wedding band—leans warmly between them and uses both of her hands to guide Jessamine's hand directly into Jordan Shawn Kelly's open palm while Jordan smiles reassuringly with his matching gold wedding band visible on his left hand.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e010/c001/p002/hold-his-hand-kincaid.jpg)
+
+#### 10:25 AM — The Canceled Lecture & The Two-Inch Reflex
+
+When the three of them reached the ground-floor lecture hall in **Copernicus Hall** at `10:25 AM`, a single sheet of departmental stationery was taped to the glass door:
+
+> **`ASTR 305: STELLAR ASTROPHYSICS (DR. ALISTAIR)`**  
+> *Monday, August 22 lecture is canceled due to faculty illness. Please download Syllabus v1.2 from the course portal. Regular lectures resume Wednesday at 10:30 AM.*
+
+"Oh, look at that," **Aubrie Jean** said, leaning in to read the notice. "Dr. Alistair is out sick today. That gives us a whole free hour before lunch."
+
+Jordan’s face lit up. Turning his `Vanguard Pro` toward **Jessamine**, he typed eagerly into `NeoEdit`:
+
+<aac>We can actually talk! Let's go grab a quiet table at Kincaid Hall and get coffee or tea.</aac>
+
+Immediately, Jessamine’s smile faltered. She glanced nervously at Aubrie Jean, then at the gold wedding band on Jordan’s left hand, and took a small half-step back.
+
+"Oh, no, I shouldn't..." Jessamine said quietly, her voice tight with anxious hesitation. "I mean, you two are newlyweds. You're *married*. I don't want to intrude on your free block."
+
+Aubrie Jean let out a warm, genuine laugh that dismissed the idea on the spot. "Intrude? Jessamine, you are the first real friend Jordan ever had in his life! You aren't intruding—you're catching up after four stolen years. We insist. Come on, Kincaid Hall is right across the quad."
+
+Ten minutes later, the three of them were settled at a quiet corner table on the main level of **Kincaid Hall**, tucked away from the midday foot traffic with three warm cups from the café counter.
+
+As Jordan told her the rest of what had happened over the past two years—including the Homecoming Humiliation in Fall 2015, his sudden heart attack at nineteen, and the quadruple open-heart bypass surgery (`CABG`) that **Dr. Aris Thorne** had performed to save his life—Jessamine’s hazel eyes filled with tears.
+
+Her left hand lifted instinctively from her lap, reaching halfway across the oak tabletop toward Jordan’s hand—wanting desperately to comfort him—and then **stopped dead in midair**.
+
+Pulling her fingers back as if the wood were hot, Jessamine set her hand down flat on her own side of the table—**exactly two inches away** from Jordan’s right wrist.
+
+Jordan looked down at that two-inch gap of polished oak between their hands. It was the exact same two-inch line from the high school library in May 2012.
+
+"I'm sorry," Jessamine whispered, her voice thick with emotion as she looked down at her own hand resting two inches from his. "I almost forgot. I remember our rule from the library, Jordan—no hugging, no holding hands, and no surprise touches so you never have to be scared. And... and even if you weren't scared anymore, you're a married man now, and your wife is sitting right here. I would never cross that line."
+
+Sitting right beside Jordan’s wheelchair, **Aubrie Jean Kelly** looked at the two inches of empty table between Jessamine’s trembling fingers and her husband’s hand.
+
+She understood everything in a single heartbeat.
+
+For four years, this gentle, loyal young woman had carried two heavy locks around her heart: first, the memory of a sixteen-year-old boy who flinched in terror if a sleeve brushed his arm because his mother only ever touched him in anger; and second, the ironclad social rule that you never hold the hand of another woman's husband.
+
+Slowly, with infinite tenderness, Aubrie Jean leaned forward.
+
+With her left hand, she gently took Jessamine’s hand off the table. With her right hand, she lifted Jordan’s hand.
+
+And right in front of both of them, **Jordan’s wife placed Jessamine’s hand directly into her husband's palm, and deliberately laced their fingers together.**
+
+***
+
+#### 10:48 AM — "Please, You're His Friend: Hold His Hand!"
+
+Jessamine gasped softly, her entire body freezing in stunned disbelief.
+
+She was holding a married man's hand—and **his wife** was keeping her own warm hands wrapped gently around both of theirs, beaming at her with pure, luminous joy.
+
+"Aubrie..." Jessamine breathed, her hazel eyes wide and shimmering with tears as her brain struggled to process what was happening. "What are you doing? You're his *wife*..."
+
+"I am his wife," Aubrie Jean said, her voice clear, warm, and absolute. "And as his wife, I am insisting. Please, Jessamine—you are his friend. **Hold his hand!**"
+
+"But—aren't you jealous?" Jessamine stammered.
+
+"Not even a little bit," Aubrie Jean smiled, gently lifting her own hands away so Jessamine could feel Jordan’s fingers holding hers all on his own. "Four years ago in that high school library, you wanted to hold his hand so badly, and you kept your fingers two inches away on the table because you loved him enough to protect him when he was terrified of being touched. Well, he isn't terrified anymore, Jessamine. We spent the last two years teaching his body that touch from people who love him never hurts. Look at his hand."
+
+Jessamine looked down.
+
+Jordan wasn't flinching. His shoulders weren't hunched toward his ears, and his eyes weren't squeezed shut bracing for pain. Instead, his warm fingers were closed securely, gently, and willingly around hers—closing the two-inch gap after one thousand, five hundred and fifty-seven days.
+
+A single tear spilled over Jessamine’s eyelashes and splashed onto the back of their joined hands. Slowly, experimentally, she squeezed his fingers back.
+
+"You're really not scared anymore?" she whispered, looking up into Jordan’s green eyes.
+
+Keeping his left hand laced with hers, Jordan used his right hand on the keyboard of his `Pinnacle Vanguard Pro` and typed into `NeoEdit`:
+
+<aac>I am not scared at all, Jess. Holding your hand feels wonderful.</aac>
+
+Then Jordan looked over at Aubrie Jean. His wife gave him a radiant, encouraging nod and stepped half a pace back to clear the space beside his wheelchair.
+
+Keeping hold of Jessamine’s hand, Jordan unlocked the brakes of his `Vanguard Pro`, rolled back eighteen inches from the edge of the corner table so there was nothing between them, and locked his wheels again.
+
+Then he let go of her hand just long enough to type one more sentence onto the glowing screen—and lifted **both of his arms wide open** toward her:
+
+<aac>And I don't want to wait another day for the rest of it, either. Come here, Jess. Please hug me.</aac>
+
+Jessamine’s breath hitched in a ragged sob. She looked once more at Aubrie Jean, who smiled through her own misting eyes and nodded warmly:
+
+"Go on, Jessamine," Aubrie Jean whispered. "Hug him tightly. You've both waited four years for this."
+
+The last wall inside Jessamine Mercer shattered.
+
+Slipping out of her chair, Jessamine dropped to her knees right beside Jordan’s wheelchair, threw both arms around his shoulders, and pulled him into a fierce, tight embrace—burying her face against the collar of his shirt as four years of grief, fear, and loneliness poured out in quiet, shaking sobs.
+
+Jordan wrapped both arms tightly around her back, resting his cheek against her soft chestnut hair as his own silent tears dampened the shoulder of her dusty-teal sweater. It was the hug she had wanted to give him since they were sixteen years old—**the hug four years in the making**—and right beside them, his wife rested a warm, protective left hand with her gold wedding band over Jordan’s shoulder, openly crying tears of pure, overflowing joy as she watched her husband reunite with the very first person who had ever liked him.
+
+![Inside the sunlit Kincaid Hall lounge, Jessamine Mercer kneels beside Jordan Shawn Kelly's manual wheelchair and wraps both arms tightly around his shoulders in a tearful, joyful embrace—the hug four years in the making—as Jordan hugs her warmly back and his wife Aubrie Jean Kelly stands beside them crying happy tears while resting a loving, supportive left hand with her gold wedding band on Jordan's shoulder.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e010/c001/p002/the-hug-four-years-in-the-making.jpg#fullwidth)
+
+"Thank you so much, Jessamine," Aubrie Jean whispered through her happy tears, her voice trembling with gratitude as she looked down at the girl who had been the very first crack in the armor of Aubrie Sinclair. "When I walked into Room 214 on move-in day two years ago, Jordan was having a terrifying sensory meltdown all alone in the dark. If you had never shown him that kindness in high school—if you hadn't sat with him at that library table and been the distant light at the end of the tunnel of his nightmare—he would have been far too terrified to ever accept my hug in Room 214. You proved to him that a girl our age could be gentle and safe. You kept his heart alive long enough for him to reach us."
+
+### Part 3: The Separation Crash, The Forge Hall Extraction, & The New Social Script
+
+**Date:** 2016-08-22 at 12:00 America/New_York
+
+#### 12:00 PM — Integrating the Original Survivor
+
+At noon, when **Mark**, **Hannah**, **Madison**, **Zoë**, **Lauren**, **Sarah**, and **Jessica Gallagher** arrived at the corner booth in **Kincaid Hall** for lunch, **Madison** stopped mid-sentence with a bright grin—noticing that **Jordan** and **Jessamine** were sitting side-by-side with their fingers tightly laced on top of the table while **Aubrie Jean** sat on Jordan’s other side holding his left hand.
+
+Jessamine tensed slightly, a flush rising up her neck as her old high school social scripts braced for judgment from his friends.
+
+Instead, nobody blinked. In this family, seeing Jordan openly hold hands with someone he loved was the most natural sight in the world.
+
+With Jessamine’s hand still securely in his, Jordan typed out the full story for the table—explaining how Jess had been his very first friend and secret girlfriend in the back corner of their Virginia Beach high school library in 2012, how she was also autistic and had understood his silence and his struggles with his weight without ever judging him, how she had kept her hand two inches away on the table because he was too terrified to be touched, and how his mother had destroyed their world with that vicious landline call.
+
+When he finished, the entire table was silent for three seconds. This wasn't just a new classmate; this was the original survivor of **Aubrie Renee Sinclair**’s cruelty.
+
+"Oh, Jessamine," **Hannah** said softly, reaching across the table to pat her free hand with fierce, sisterly warmth. "I am so sorry you carried that fear by yourself for four years. You're with us now."
+
+For the rest of Monday afternoon, the ten of them moved across campus as a single unit—from lunch at Kincaid Commons to a shared afternoon study block on the fourth floor of **Pendleton Library**. For five straight hours, Jordan never let go of Jessamine’s hand for more than a minute at a time.
+
+***
+
+#### 5:05 PM — The Separation Crash at Commonwealth Mall
+
+At `5:05 PM`, as the afternoon shadows lengthened across **Commonwealth Mall**, the group arrived at the central transit loop where the **Blue Ridge Transit** express buses lined up for the evening run to Christiansburg.
+
+Jessamine, who had been assigned to a triple room on campus in **Forge Hall**—one of the newer residence halls built after Bennett Hall was retired—looked toward the dorm quad and gently began to slip her fingers out of Jordan’s hand.
+
+"Well," Jessamine said softly, offering a brave smile, "this was the best day I've had in four years, Jordan. I'll see you and Aubrie in Intermediate Japanese and Latin tomorrow—"
+
+The sensation of her fingers sliding out of his palm tripped an old, buried landmine inside Jordan’s nervous system.
+
+His brain didn't register a temporary Monday evening goodbye on a college sidewalk. To the sixteen-year-old boy still wired inside his amygdala, Jessamine letting go of his hand and walking away meant June 4, 2012 was happening all over again—it meant his mother was slamming the kitchen phone down, and Jess was vanishing for another four years.
+
+Jordan’s hand clamped down around her fingers with a sudden, white-knuckled grip.
+
+A low, ragged hum vibrated deep in his chest, and his torso began to rock sharply back and forth against the backrest of his `Vanguard Pro`. Tears spilled instantly behind his glasses as his breathing spiked into shallow, panicked gasps.
+
+"Jordan?" Jessamine gasped, her eyes widening in alarm as she knelt halfway down beside his wheel.
+
+**Mark** and **Hannah** exchanged an immediate, urgent look. Even though Jordan was nine months post-op from his November 2015 open-heart `CABG` surgery and cleared from acute sternal precautions, a violent full-body meltdown that strained his healed median sternotomy was something the family never let escalate unchecked.
+
+"J, breathe—don't tense your chest, buddy, you're safe," Mark said firmly, resting a steadying hand on his shoulder while **Madison** and **Zoë** stepped in to form their quiet visual shield against the crowded bus platform.
+
+With his eyes squeezed shut and his left hand clutching Jessamine’s fingers like a lifeline, Jordan tapped three frantic words on his `mPad`:
+
+<aac>She's leaving again. Please don't let her disappear.</aac>
+
+**Aubrie Jean Kelly** didn't hesitate for a single second. Stepping right beside Jessamine, Jordan’s wife rested her hand gently on Jessamine’s arm.
+
+"He can't say goodbye tonight, Jessamine—his nervous system thinks June 2012 is repeating itself," Aubrie Jean said with calm, absolute clarity. "So don't say goodbye. Come home with us to Christiansburg tonight. Just pack an overnight bag from your dorm and ride the `6:15` bus with us so his brain can see you're still here when he wakes up."
+
+"To... to your *house*?" Jessamine stammered, looking from Aubrie Jean to Jordan’s tear-streaked face. Then she thought of her room in Forge Hall—the blaring bass speakers, the messy floor, and her two cold, cliquey roommates who barely acknowledged she existed. "Okay," Jessamine said, placing her other hand warmly over Jordan’s trembling wrist. "Okay, Jordan. Look at me—I'm not leaving. I'm coming home with you."
+
+Almost instantly, the violent rocking in Jordan’s shoulders slowed, and he let out a long, shuddering breath of pure relief.
+
+***
+
+#### 5:25 PM — Forge Hall & The Sunken Sanctuary Override
+
+Escorted by the entire circle, Jessamine led them across campus to **Forge Hall** to grab an overnight bag. Even in the five minutes it took **Hannah** and **Madison** to help her pack her toiletries, laptop, and clothes for Tuesday, the whole group saw why Jessamine had been dreading going back: loud music was pounding from a Bluetooth speaker, clothes were strewn across the floor, and her two roommates didn't even look up from their phones except to scoff when she said she was staying with friends for the night.
+
+By `6:45 PM`, after riding the `6:15` express bus down to Christiansburg—with Jordan transferring onto the cushioned bench seat right beside Jessamine so he could hold her hand the entire ride—the group walked up the illuminated driveway on **Geneva Street**, where **Daniel**, **Laura**, and **Megan Brooks** welcomed Jessamine into the dining room like she had been part of the family for years.
+
+The real test for Jessamine’s rule-bound autistic mind came on **Tuesday afternoon and Tuesday night (`August 23, 2016`)**.
+
+When Jordan, Aubrie Jean, and Madison walked Jessamine back up to her Forge Hall room on Tuesday afternoon so she could grab the rest of her textbooks for the week, Jessamine unlocked the door and froze in horror on the threshold: in the dark, stale room with bass music thumping, both of her roommates were in their beds openly cheating on their boyfriends with two other guys, completely trashing the shared room without a shred of respect for Jessamine’s space.
+
+Shaking and humiliated in the hallway outside, Jessamine slammed the door shut and whispered through tears, *"I can't go back in there. I never want to go back to that room again."*
+
+"You're not," **Aubrie Jean** promised her fiercely, pulling out her `mPhone` and messaging the family chat.
+
+Fifteen minutes later, **Daniel** and **Laura Brooks** pulled up to the Forge Hall curb in the family van. With **Mark** and **Daniel** booming into the room like a pair of drill sergeants—giving the mortified roommates and their guests sixty seconds to get decent and clear the room—the Constellation descended like a surgical extraction team, packing every single item Jessamine owned into the van in under ten minutes while Daniel arranged her off-campus housing release.
+
+That night, down in the quiet, cedar-and-slate warmth of **The Sunken Sanctuary** on Geneva Street, Jessamine stood by the sectional sofa clutching her pillow and crying softly—her mind locked in a painful cognitive short-circuit between the ugly betrayal she had just witnessed in Forge Hall and the sight of the massive, fifteen-foot custom sunken bed where **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, and **Megan** were gathering around Jordan for the night.
+
+"I can't get into that bed, Aubrie," Jessamine whispered, trembling as Aubrie Jean walked up the gentle wooden ramp to take her hands. "That's your marriage bed, with your husband. What my roommates were doing today was cheating—it was a betrayal. I could never do that to you."
+
+Aubrie Jean held both of Jessamine’s hands and looked straight into her hazel eyes.
+
+"Look at me, Jessamine," Aubrie Jean said softly, giving her autistic mind the explicit, unambiguous logical override she needed. "What you saw in Forge Hall today was lying, secrecy, and a violation of consent. Nothing in this room is a secret, and nothing happens without unanimous consent. I am Jordan’s wife. He is my husband, and he is also the man who waited four years just to hold your hand again. We don't want you out on the sofa alone—we want you right here in the sanctuary with us, where you're safe and where he knows you aren't gone."
+
+Leading Jessamine gently down the ramp onto the soft expanse of the fifteen-foot mattress, Aubrie Jean sat right beside her and placed Jessamine’s hand into Jordan’s—while **Hannah**, before heading upstairs with Mark, gently explained the one sacred physical rule of the bed: protecting Jordan’s healed open-heart sternotomy with calm, gentle weight and zero sudden pulling on his chest or arms.
+
+Then, surrounded by the quiet, fiercely loving women of the Constellation, Jessamine lay down beside Jordan on the vast blue mattress and let herself wrap her arms around him—holding him through the night in the sanctuary where neither of them would ever have to be afraid again.
 

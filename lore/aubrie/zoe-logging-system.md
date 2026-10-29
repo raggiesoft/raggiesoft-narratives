@@ -19,8 +19,8 @@ In *The Eleventh Child: The Story of Jordan*, the three autistic core members of
 3. **Zoë Wren Brooks (`ZOË.Systems.Logs` — Systemic & Procedural Order Architecture)**:
    * Zoë’s cognitive distress (`CPU_Load` spikes and processor overheating) is triggered when a system is **inefficient, illogical, unscripted, or chaotic**.
    * Coding **`Fin#` (`Financial Sharp`)** and architecting cryptographic compliance rules (`Z-SOX-302` / `Z-SOX-404`) regulates and calms her because it is a system of pure, deterministic order.
-   * **Origin of `Fin#` — `Vectron Energy Corp.` (`"Question The Rules"`, `e005/c003/s004.md`):**
-     * In the first week of Sophomore Year (`Wednesday, August 26, 2015`, `e005/c003/s004.md`), while studying corporate governance and the **Sarbanes-Oxley Act of 2002 (`SOX`)** with her father **Daniel Brooks, CPA** and **Jordan**, Zoë watches an archival `1997–2001` television commercial from **`Vectron` / `Vectron Energy Corp.`** (in-universe counterpart to *Enron Corp.*), whose public TV campaign slogan was ***"Question The Rules."***
+   * **Origin of `Fin#` — `Vectron Energy Corp.` (`"Question The Rules"`, `e006/c003/s004.md`):**
+     * In the first week of Sophomore Year (`Wednesday, August 26, 2015`, `e006/c003/s004.md`), while studying corporate governance and the **Sarbanes-Oxley Act of 2002 (`SOX`)** with her father **Daniel Brooks, CPA** and **Jordan**, Zoë watches an archival `1997–2001` television commercial from **`Vectron` / `Vectron Energy Corp.`** (in-universe counterpart to *Enron Corp.*), whose public TV campaign slogan was ***"Question The Rules."***
      * **The `1997–2001` Public Energy-Trading Pitch:** On television, Vectron used *"Question The Rules"* to champion electricity and natural gas utility deregulation and its online commodity platform **`VectronOnline`**—arguing that for ninety years, regulated regional utility monopolies had enforced an archaic "rule" that factories, hospitals, and cities had zero choice who supplied their electricity and that megawatts, natural gas pipeline capacity, fiber-optic broadband bandwidth, and weather risk couldn't be traded dynamically in real time like wheat or stocks.
      * **Zoë's Epiphany (`Regulatory Rules vs. The First Law of Thermodynamics`):** Zoë realizes that while you *can* question outdated regulatory monopoly rules about *who routes the megawatts*, **Vectron's executives tried to "Question The Rules" of mathematical conservation itself**—using mark-to-market accounting and off-balance-sheet Special Purpose Entities (`SPEs`) to create revenue out of thin air and make billions in debt vanish. Because standard programming languages (`Quantum Sharp` / `C#`, `Java`, `COBOL`, and spreadsheets) store money as a mutable `decimal` or `float` with no physical conservation law attached to its type, nothing stops a program from creating or destroying value. With Jordan's astrophysics insight (`First Law of Thermodynamics: energy can neither be created nor destroyed, only transferred`), Zoë begins designing **`Fin#` (`Financial Sharp`)**—a `Quantum Sharp` (`C#`)-derived language where money is a **non-creatable, non-destructible linear resource type** (`ledger decimal`) that can only be transferred atomically between a strongly-typed `Debit<TAccount>` and `Credit<TAccount>`. If anyone tries to "Question The Rules" of double-entry conservation in `Fin#`, the code refuses to compile (`FIN0001: ConservationOfCapitalViolationException`).
    * Consequently, Zoë’s brain continuously translates ambiguous human social dynamics, physical touch, medical emergencies, and her own emotions into **deterministic C#/.NET namespaces, threads, protocols, axioms, and log entries**.
@@ -29,14 +29,14 @@ In *The Eleventh Child: The Story of Jordan*, the three autistic core members of
 * **Lifelong Diagnosis (Officially Diagnosed at Age 3)**:
   * Unlike Jordan (whose mother refused all medical care and left him undiagnosed), **Zoë Wren Brooks was formally diagnosed as autistic when she was three years old** in London by paediatric specialists at Great Ormond Street with the full, loving support of her parents (**Daniel and Laura Brooks**).
   * Zoë has **always** known she is autistic, and she has **always** processed her internal thoughts through her `ZOË.Systems.Logs` runtime architecture.
-* **Freshman Year (`2014–2015`, `e001`–`e003`) — Pre-Disclosure (NO `ZOË.Systems.Logs` Blocks)**:
-  * Throughout **all of Freshman Year (`2014–2015`, `e001`–`e003`, including Fall Break `October 2014`, Winter Break `December 2014`, and Spring Semester `2015`)**, **Zoë has simply not yet decided to disclose her autism diagnosis to her found family**.
-  * Do **NOT** insert `ZOË.Systems.Logs.*` blocks anywhere in Freshman Year (`e001`–`e003`).
-* **Summer 2015 World Trek Disclosure in Singapore (`e004/c008/s003.md`, July 16, 2015)**:
+* **Freshman Year (`2014–2015`, `e002`–`e004`) — Pre-Disclosure (NO `ZOË.Systems.Logs` Blocks)**:
+  * Throughout **all of Freshman Year (`2014–2015`, `e002`–`e004`, including Fall Break `October 2014`, Winter Break `December 2014`, and Spring Semester `2015`)**, **Zoë has simply not yet decided to disclose her autism diagnosis to her found family**.
+  * Do **NOT** insert `ZOË.Systems.Logs.*` blocks anywhere in Freshman Year (`e002`–`e004`).
+* **Summer 2015 World Trek Disclosure in Singapore (`e005/c008/s003.md`, July 16, 2015)**:
   * Surrounded by the deterministic, barrier-free urban and transit architecture of **Singapore**, Zoë officially discloses to Jordan, Aubrie, and the found family that she is autistic (and was diagnosed when she was 3 years old), contrasting the three autistic architectures in the house (Jordan's `Jordan.OS` rule/trauma-script architecture, Aubrie's sensory-volume `100` architecture, and her own `ZOË.Systems.Logs` systemic/procedural order architecture).
-  * `ZOË.Systems.Logs.*` first appears on-page in **`e004/c008/s003.md` (*"ZOË.Systems.Logs (Diagnosed at Three)"*)** and **`e004/c008/s004.md` (*"The Three-Continent Video Call"*)**, and continues through Sophomore Year (`e005+`).
+  * `ZOË.Systems.Logs.*` first appears on-page in **`e005/c008/s003.md` (*"ZOË.Systems.Logs (Diagnosed at Three)"*)** and **`e005/c008/s004.md` (*"The Three-Continent Video Call"*)**, and continues through Sophomore Year (`e006+`).
 * **Porting Override for `aubrie-old.docx` (`Part 37: The Missing Social Script`)**:
-  * When referencing or adapting scenes from `aubrie-old.docx` (`paragraphs 3150–3165`, where the old draft had Zoë ask *"am I autistic, too?"*), **always follow the updated canon**: Zoë is **not** discovering or wondering for the first time whether she is autistic—she was officially diagnosed at age 3 and already shared her diagnosis and `ZOË.Systems.Logs` architecture with the family in Singapore (`e004/c008/s003.md`).
+  * When referencing or adapting scenes from `aubrie-old.docx` (`paragraphs 3150–3165`, where the old draft had Zoë ask *"am I autistic, too?"*), **always follow the updated canon**: Zoë is **not** discovering or wondering for the first time whether she is autistic—she was officially diagnosed at age 3 and already shared her diagnosis and `ZOË.Systems.Logs` architecture with the family in Singapore (`e005/c008/s003.md`).
 
 ---
 
@@ -154,7 +154,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 #### 4. Hostile External Threats (`Hostile_Agent.*` — Blocked by System Firewall)
 * **`Hostile_Agent.AubrieSinclair`** — **Aubrie Renee Sinclair** (Jordan’s abusive biological mother; origin of `AubrieSinclair.LegacyScript.dll`; permanently blocked via FERPA lockdown, Trespass Bar, and Permanent Protective Order).
 * **`Hostile_Agent.Davies`** — **Mr. Davies** (Aubrie Sinclair’s legal counsel during the fraudulent competency/guardianship petition in Montgomery County Circuit Court).
-* **`Hostile_Agent.TomLawson`** — **Tom Lawson** (Westgate Hall resident and former CPI lacrosse player flagged as an ideological/ableist boundary violator; barred from Bennett Hall in `e001/c007/s007.md`, cut from the lacrosse team, and pulls an academic no-call, no-show without officially dropping his classes or moving out of his dorm room).
+* **`Hostile_Agent.TomLawson`** — **Tom Lawson** (Westgate Hall resident and former CPI lacrosse player flagged as an ideological/ableist boundary violator; barred from Bennett Hall in `e002/c007/s007.md`, cut from the lacrosse team, and pulls an academic no-call, no-show without officially dropping his classes or moving out of his dorm room).
 * **`Hostile_Agent.Alex`** — **Alex** (Megan Brooks’s toxic former coworker in Book 2).
 
 ### D. Canonical Geographic, Campus, & Transit Nodes (`Node(...)` & `[...]`)
@@ -173,11 +173,11 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
   * **`Node(Geneva.Street)`** — The Brooks family compound in Christiansburg, VA (containing sub-nodes **`'Basement_Pact_Suite'`** and **`'Anderson_Suite'`**).
   * **`Node(Bluewater.Sanctuary)`** — The Scott family mountain retreat in Bluewater, VA.
   * **`Node(Star City.Roanoke)`** / **`Node(Montgomery_Regional.Hospital)`** — Regional medical center nodes.
-  * **`Node(Montgomery_County.Circuit_Court)`** — Christiansburg courthouse node (`e005`).
-  * **`Node(Christiansburg.Pepper_Plaza)`** — **Pepper Plaza Transit Center** (small multi-bay local bus transit facility across from the Montgomery County Courthouse and Montgomery Vision and Hearing Clinic in downtown Christiansburg; `e001/c009`).
+  * **`Node(Montgomery_County.Circuit_Court)`** — Christiansburg courthouse node (`e006`).
+  * **`Node(Christiansburg.Pepper_Plaza)`** — **Pepper Plaza Transit Center** (small multi-bay local bus transit facility across from the Montgomery County Courthouse and Montgomery Vision and Hearing Clinic in downtown Christiansburg; `e002/c009`).
   * **`Node(Christiansburg.Strickland_Farm)`** — **Strickland Farm Shopping Center** (*"Strickland Farms"*, in-universe *Spradlin Farm Shopping Center* across North Franklin Street from **New River Valley Mall**, housing **`LensWorks Optical`**, **`Commonwealth Wireless`**, and **`Blue Tech`**).
   * **`Node(Christiansburg.New_River_Valley_Mall)`** — **New River Valley Mall** & **New River Valley Mall Transit Center** (in-universe *Uptown Christiansburg* indoor regional shopping mall and transit hub).
-  * **`Node(Exit_118C.Merit_Inn)`** — Legacy trauma-origin node on Roanoke Street in Christiansburg (`e001/c001`–`c002`).
+  * **`Node(Exit_118C.Merit_Inn)`** — Legacy trauma-origin node on Roanoke Street in Christiansburg (`e002/c001`–`c002`).
 * **Transit Vector Nodes**:
   * **`'Blue_Ridge_Transit.Route1'`** — Local Progress Street / Main Street accessible bus vector.
   * **`'Blue_Ridge_Transit.Maroon_Express'`** — Campus express transit vector.
@@ -187,7 +187,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
   * **`Node(Reykjavik.Iceland)`** — Leg 2: Accessible geothermal lagoons and Reykjavik sanctuary, Iceland.
   * **`Node(London.Carnaby_Street)`** & **`Node(Liverpool.Merseyside)`** — Leg 3: Brooks family ancestral flat in Soho/Westminster, London, UK, and side trip to Liverpool, Merseyside.
   * **`Node(Tokyo.Japan)`**, **`Node(Osaka.Japan)`**, & **`Node(Seto_Inland_Sea.Ferry_Hoshizora)`** — Leg 4: Tokyo, the Brooks family former neighborhood in Osaka, and the overnight RORO car ferry *Ferry Hoshizora* across the Seto Inland Sea to Beppu.
-  * **`Node(Singapore.Changi_SIN)`** & **`Node(Singapore.Marina_Bay)`** — Leg 5: Singapore Changi Airport, Marina Bay Botanical Sanctuaries, and Marina Bay accessible family suites (where Zoë discloses her age-3 autism diagnosis in `e004/c027/s002.md`).
+  * **`Node(Singapore.Changi_SIN)`** & **`Node(Singapore.Marina_Bay)`** — Leg 5: Singapore Changi Airport, Marina Bay Botanical Sanctuaries, and Marina Bay accessible family suites (where Zoë discloses her age-3 autism diagnosis in `e005/c027/s002.md`).
   * **`Node(Sydney.Liverpool_NSW)`** — Leg 6: Braithwaite family home in Liverpool / Sydney, NSW, Australia.
   * **`Node(Petermann.Gallagher_Roadhouse)`** — Leg 7: Gallagher’s Roadhouse in the Red Centre near Uluru, Northern Territory, Australia.
 
