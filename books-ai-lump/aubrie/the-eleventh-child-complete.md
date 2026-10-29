@@ -108,7 +108,7 @@ For the past three semesters, whenever he had been opted out of a health unit or
 
 Today, someone was already sitting there.
 
-At the far end of the oak table sat a girl about his own age. She had her knees drawn up slightly on her chair, a thick Latin grammar textbook propped open against a spiral notebook, and a pair of soft foam ear defenders resting around her neck over a loose, sage-green knit cardigan. Even before Aubrey rolled close enough for her features to sharpen out of the blur, he noticed the way she was gently tapping the eraser of her pencil against her thumb in a steady, rhythmic four-count—calming herself down from the morning hallway rush the exact same way Aubrey sometimes tapped his fingers against his wheelchair frame.
+At the far end of the oak table sat a girl about his own age. She had her knees drawn up slightly on her chair, a beginner's Japanese character workbook propped open beside a star atlas and a spiral notebook, and a pair of soft foam ear defenders resting around her neck over a loose, sage-green knit cardigan. Even before Aubrey rolled close enough for her features to sharpen out of the blur, he noticed the way she was gently tapping the eraser of her pencil against her thumb in a steady, rhythmic four-count—calming herself down from the morning hallway rush the exact same way Aubrey sometimes tapped his fingers against his wheelchair frame.
 
 Hearing the quiet *creak* of his heavy pharmacy wheelchair's rubber tires on the carpet, she looked up.
 
@@ -158,11 +158,11 @@ By Friday of that first week, second period in the back corner behind the refere
 
 They didn't need spoken words. While the rest of the school roared outside the library walls, Aubrey and Jessamine sat three feet apart at the oak table beside the courtyard window, passing her spiral notebook and turning his muted laptop screen back and forth in a seamless, silent rhythm.
 
-He learned that Jessamine was sixteen—born in the exact same year he was—and that she loved Latin etymology and constellations because stars and dead languages followed clear, honest rules instead of confusing social games. He also learned, in a quiet exchange of notebook pages on Thursday afternoon, that one of the reasons she had smiled at him the very first day he rolled into the back corner was that she struggled with her weight too. In a school obsessed with varsity athletics and beach bodies, where she had spent years trying and failing to lose weight while eating lunch alone to avoid the stares in the cafeteria, seeing another quiet soul who struggled with his weight made her feel less alone the moment he parked his chair across from her. When she noticed how close he had to hold his AP Chemistry textbook to his face to read the periodic table, she didn't tease him or ask prying questions; she simply started writing her notebook messages to him in larger, darker block letters with a black felt-tip pen so he could read them right where they lay on the wood without having to strain his neck.
+He learned that Jessamine was sixteen—born in the exact same year he was—and that she was teaching herself Japanese characters and constellation charts in her spare time because stars and visual *kanji* radicals followed clear, honest rules instead of confusing social games. She showed him in her notebook how the boxy symbol for the sun (`日`) and the crescent symbol for the moon (`月`) joined together side by side to mean *bright* (`明`), and how the characters for *star* and *sky* (`星空`) meant *starry sky*. He also learned, in a quiet exchange of notebook pages on Thursday afternoon, that one of the reasons she had smiled at him the very first day he rolled into the back corner was that she struggled with her weight too. In a school obsessed with varsity athletics and beach bodies, where she had spent years trying and failing to lose weight while eating lunch alone to avoid the stares in the cafeteria, seeing another quiet soul who struggled with his weight made her feel less alone the moment he parked his chair across from her. When she noticed how close he had to hold his AP Chemistry textbook to his face to read the periodic table, she didn't tease him or ask prying questions; she simply started writing her notebook messages to him in larger, darker block letters with a black felt-tip pen so he could read them right where they lay on the wood without having to strain his neck.
 
-And she was funny. When two boys at the main library tables fifty feet away got shushed by the librarian for arguing over a sports magazine, Jessamine slid her notebook across the table with a deadpan Latin translation written in big black marker:
+And she was funny. When two boys at the main library tables fifty feet away got shushed by the librarian for arguing over a sports magazine, Jessamine slid her notebook across the table with a deadpan Japanese vocabulary entry written in big black marker:
 
-*Homo sapiens garrulus: The loud-mouthed human. Native habitat: everywhere except this corner.*
+*Urusai ningen (うるさい人間): The loud, noisy human. Native habitat: everywhere except this corner.*
 
 A tiny, silent shake of laughter vibrated in Aubrey's shoulders—a feeling so unfamiliar it almost startled him. His fingers flew across his keyboard:
 
@@ -22170,17 +22170,17 @@ It was his first night as a married man, and for the first time in twenty years 
 
 ![In the sunlit ground-floor corridor of Carter Hall outside Room 108 on the first morning of Fall Semester 2016, twenty-year-old transfer student Jessamine 'Jess' Mercer stands frozen against the oak doorway wall clutching her backpack straps in startled, fearful hesitation, while six feet away Jordan Shawn Kelly sits in his matte-black manual wheelchair wearing his rectangular prescription glasses and maroon CPI polo with his tablet on his lap, smiling reassuringly beside his wife Aubrie Jean Kelly as she extends a calm, welcoming hand.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e010/c001/p001/the-hallway-freeze.jpg)
 
-#### 8:50 AM — Outside Room 108, Carter Hall
+#### 8:50 AM — Outside Room 104, Carter Hall
 
 Monday, August 22, 2016—the first morning of Junior Year at Commonwealth Polytechnic Institute—began in the sunlit ground-floor corridor of **Carter Hall**.
 
-Parked near the open doorway of `Room 108` for their `9:00 AM` shared humanities elective, **`LATN 101: Elementary Latin I`**, **Jordan Shawn Kelly** sat comfortably in his `Vanguard Pro` manual wheelchair, his prescription glasses resting cleanly on the bridge of his nose and his behind-the-ear hearing aids calibrated to the gentle morning hum of the hallway. Five weeks after his wedding and legal name change in Christiansburg, his left hand—wearing his gold wedding band matching the gold wedding band on his wife's left ring finger—was laced effortlessly with the right hand of his wife, **Aubrie Jean Kelly**, while **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Hannah**, and **Mark** stood in a relaxed semicircle around his chair trading predictions about the upcoming Forgers football opener.
+Parked near the open doorway of `Room 104` for their shared intermediate foreign language block, **`JAPN 201: Intermediate Japanese I`**, **Jordan Shawn Kelly** sat comfortably in his `Vanguard Pro` manual wheelchair, his prescription glasses resting cleanly on the bridge of his nose and his behind-the-ear hearing aids calibrated to the gentle morning hum of the hallway. Because Jordan was never alone in a single class at CPI—and because **Zoë Wren Brooks**, who had lived in Osaka, Japan for four years as a child and spoke Japanese at a near-native level, had coached and tutored the entire family through `JAPN 101` and `JAPN 102` during their sophomore year—the whole circle was right there with him. Five weeks after his wedding and legal name change in Christiansburg, Jordan's left hand—wearing his gold wedding band matching the gold wedding band on his wife's left ring finger—was laced effortlessly with the right hand of his wife, **Aubrie Jean Kelly**, while **Zoë**, **Madison**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Hannah**, and **Mark** stood in a relaxed semicircle around his chair reviewing their first-week *kanji* flashcards and trading predictions about the upcoming Forgers football opener.
 
-Then a new student walked around the corner from the main stairwell, glancing anxiously up at the brass room numbers above the doors.
+Then a new transfer student walked around the corner from the main stairwell, glancing anxiously up at the brass room numbers above the doors.
 
 She was twenty years old, about five-foot-four with a softly rounded, slightly heavier build, wearing a cozy dusty-teal knit pullover sweater layered over a white crew-neck tee, medium-wash blue jeans, canvas sneakers, and a dark backpack slung over her right shoulder. Neat bangs framed her forehead beneath soft chestnut-brown hair held back on the sides with tortoiseshell barrette clips.
 
-As she checked the placard beside `Room 108`, her gaze shifted toward the circle of students gathered by the doorway—and locked directly onto Jordan.
+As she checked the placard beside `Room 104`, her gaze shifted toward the circle of students gathered by the doorway—and locked directly onto Jordan.
 
 She stopped dead in her tracks.
 
@@ -22223,15 +22223,15 @@ ZOË.Systems.Logs.KernelLog:
 Date: 08-22-2016
 Time: 08:54:12
 Thread 3 (Jordan) & Thread 2 (Observers)
-Event: Unscheduled Historical Identity Collision Outside Carter Hall Room 108 (LATN 101).
+Event: Unscheduled Historical Identity Collision Outside Carter Hall Room 104 (JAPN 201: Intermediate Japanese I).
 Subject Identified: Jessamine Mercer ("Jess" — High School Sanctuary Archive, Virginia Beach, 2012).
 Observed Subject State: Acute defensive flight response triggered by residual maternal threat conditioning (Sinclair Landline Incident, 06-04-2012).
 Action: Deploying immediate legal and physical reassurance protocol prior to 09:00 bell. 08-22-2016 08:54:12
 ```
 
-Inside the two minutes before the nine o'clock bell, right there in the quiet alcove outside `Room 108`, Aubrie Jean and Zoë gave Jessamine the clear, factual truth that lifted four years of terror off her shoulders:
+Inside the two minutes before the nine o'clock bell, right there in the quiet alcove outside `Room 104`, Aubrie Jean and Zoë gave Jessamine the clear, factual truth that lifted four years of terror off her shoulders:
 * How Jordan had stood up to his mother during Freshman Fall and served her with a permanent university and police No-Contact Directive;
-* How his mother had filed a fraudulent adult guardianship petition against him the following summer, only for **Judge Warren T. Aldridge** of the Montgomery County Circuit Court to **dismiss her case with prejudice** (`Final Order CL15-000842`) and refer her for felony perjury;
+* How his mother had filed a fraudulent adult guardianship petition against him the following summer, only for the Montgomery County Circuit Court to **dismiss her case with prejudice** and remand her into custody for civil contempt and felony perjury;
 * And how, five weeks ago on July 15, 2016, in that exact same courthouse across Main Street from their wedding ceremony, he had legally terminated the birth name his mother had used to own him—becoming **Jordan Shawn Kelly**.
 
 Jessamine stared from Aubrie Jean to Zoë, and then back down at Jordan, her hand rising slowly to cover her mouth as four years of fear began to crack apart.
@@ -22242,7 +22242,7 @@ Jordan nodded, his eyes shining brightly behind his glasses as a huge, unguarded
 
 <aac>I am Jordan Shawn Kelly now, Jess. She has zero power over me. And this is my family—my wife Aubrie Jean, and Madison, Zoë, Lauren, Sarah, Jessica, Hannah, and Mark.</aac>
 
-"And since the professor just walked in," **Hannah** added with a warm, welcoming smile, gesturing toward the open doorway of `Room 108`, "it looks like you're in our Latin class, Jessamine. Come sit with us."
+"And since our sensei just walked in," **Zoë** added with a warm, welcoming smile in her crisp London cadence, gesturing toward the open doorway of `Room 104`, "it appears you are in our Intermediate Japanese section, Jessamine. I lived in Osaka for four years as a child and serve as Jordan's official note-taker and our family's Japanese tutor—come sit at our table."
 
 Still dazed—and still carefully keeping a respectful two-foot buffer around Jordan’s chair so she wouldn't accidentally brush against him—Jessamine nodded slowly, wiping a tear from her cheek with the sleeve of her sweater.
 
@@ -22252,25 +22252,25 @@ Still dazed—and still carefully keeping a respectful two-foot buffer around Jo
 
 #### 9:55 AM — The Cosmic Coincidence
 
-For the next fifty minutes, as the professor walked the class through the syllabus and first-declension Latin nouns—the exact dead language Jessamine had studied beside Aubrey at that corner library table in 2012—Jordan could barely keep from smiling at his keyboard. Sitting at the accessible table at the front of the room with Aubrie Jean on his left and Jessamine one seat over on his right, his past and his present were sitting in the same row.
+For the next fifty minutes, as the instructor walked the class through the `JAPN 201` syllabus and intermediate *kanji* compounds—the exact language Jessamine had begun teaching herself from a workbook at that corner library table in 2012 before completing her elementary Japanese sequence at community college—Jordan could barely keep from smiling at his keyboard. Using the Japanese Input Method Editor (`IME`) that Zoë had configured inside `NeoEdit`, Jordan typed the two characters Jessamine had once drawn for him in high school—`星空` (*hoshizora*, "starry sky")—and angled his screen slightly so she could see them. Sitting at the accessible table at the front of the room surrounded by Aubrie Jean, Zoë, and the rest of his family on one side and Jessamine one seat over on his right, his past and his present were sitting in the same row.
 
-When class let out at `9:50 AM` and the group filed back into the Carter Hall corridor, **Mark**, **Hannah**, **Zoë**, **Madison**, **Lauren**, **Sarah**, and **Jessica** paused by the main doors before heading toward their ten o'clock classes.
+When class let out at `9:50 AM` and the group filed back into the Carter Hall corridor, **Mark**, **Hannah**, **Zoë**, **Madison**, **Lauren**, **Sarah**, and **Jessica** paused by the main doors before heading toward their ten o'clock classes across the quad.
 
-"All right, J, we'll see you and Aubrie at Kincaid for lunch at noon," Mark said, giving Jordan’s shoulder a warm squeeze and offering Jessamine a friendly nod. "Really great meeting you, Jessamine."
+"All right, J, we'll see you and Aubrie at Kincaid for lunch at noon," Mark said, giving Jordan’s shoulder a warm squeeze and offering Jessamine a friendly nod. "Really great meeting you, Jessamine. And Zoë's evening Japanese study sessions are legendary—you're officially invited."
 
-Soon only Jordan, Aubrie Jean, and Jessamine were left in the hallway. Already bracing himself for her to walk away, Jordan turned his chair toward her and typed:
+Because Jordan and Aubrie Jean were both Astrophysics majors who registered for every single lecture and lab section together so Jordan was never alone in class, the two of them remained in the Carter Hall foyer with Jessamine. Already bracing himself for her to walk away toward another part of campus, Jordan turned his chair toward her and typed:
 
-<aac>I still can't believe you're at CPI, Jess. I transferred in as a junior from Tidewater Community College, right? Which way is your next class?</aac>
+<aac>I still can't believe you're at CPI, Jess. Did you transfer in as a junior from Community College of Hampton Roads? Which way is your next class?</aac>
 
-"Yeah, I finished my associate's degree in Virginia Beach first so my parents wouldn't worry," Jessamine explained softly, shifting her backpack strap on her shoulder and pointing down the main quad walkway toward the science complex. "My next lecture is at ten-thirty in Copernicus Hall. Stellar Astrophysics."
+"Yeah, I finished my associate's degree and my first two semesters of Japanese at CCHR in Virginia Beach first so my parents wouldn't worry," Jessamine explained softly, shifting her backpack strap on her shoulder and pointing down the main quad walkway toward the science complex. "My next lecture is at ten-thirty in Copernicus Hall. Stellar Astrophysics."
 
 Jordan and Aubrie Jean both froze, staring at her, and then looked at each other in stunned delight.
 
-<aac>No way! With Dr. Alistair at 10:30?!</aac> Jordan typed so fast his fingers nearly tripped over the keys. <aac>And the Tuesday morning observatory lab section?!</aac>
+<aac>No way! ASTR 305 with Dr. Alistair at 10:30?!</aac> Jordan typed so fast his fingers nearly tripped over the keys. <aac>And the Tuesday afternoon observatory lab section?!</aac>
 
 "Yes!" Jessamine gasped, her hazel eyes going wide as a real smile broke through her shyness. "You're both Astrophysics majors?!"
 
-"We sure are," Aubrie Jean laughed warmly, stepping beside Jessamine—though noticing how Jessamine still instinctively kept her hands tucked close to her own sides, Aubrie Jean didn't grab her arm without asking. "Come on, walk with us to Copernicus Hall! You're sitting with us!"
+"We sure are—Jordan and I take every single Astrophysics class and lab together," Aubrie Jean laughed warmly, stepping beside Jessamine—though noticing how Jessamine still instinctively kept her hands tucked close to her own sides, Aubrie Jean didn't grab her arm without asking. "Come on, walk with us to Copernicus Hall! Between Intermediate Japanese with our whole family and Stellar Astrophysics with the two of us, you're sitting right with us all semester!"
 
 ### Part 2: His Wife's Insistence & The Hug Four Years in the Making
 
@@ -22299,7 +22299,7 @@ Aubrie Jean let out a warm, genuine laugh that dismissed the idea on the spot. "
 
 Ten minutes later, the three of them were settled at a quiet corner table on the main level of **Kincaid Hall**, tucked away from the midday foot traffic with three warm cups from the café counter.
 
-As Jordan told her the rest of what had happened over the past two years—including the Homecoming Humiliation in Fall 2015, his sudden heart attack at nineteen, and the quadruple open-heart bypass surgery (`CABG`) that **Dr. Aris Thorne** had performed to save his life—Jessamine’s hazel eyes filled with tears.
+As Jordan told her the rest of what had happened over the past two years—including the Homecoming Humiliation during his freshman fall in September 2014, his sudden heart attack at nineteen in November 2015, and the quadruple open-heart bypass surgery (`CABG`) that **Dr. Aris Thorne** had performed to save his life—Jessamine’s hazel eyes filled with tears.
 
 Her left hand lifted instinctively from her lap, reaching halfway across the oak tabletop toward Jordan’s hand—wanting desperately to comfort him—and then **stopped dead in midair**.
 
@@ -22407,7 +22407,7 @@ At `5:05 PM`, as the afternoon shadows lengthened across **Commonwealth Mall**, 
 
 Jessamine, who had been assigned to a triple room on campus in **Forge Hall**—one of the newer residence halls built after Bennett Hall was retired—looked toward the dorm quad and gently began to slip her fingers out of Jordan’s hand.
 
-"Well," Jessamine said softly, offering a brave smile, "this was the best day I've had in four years, Jordan. I'll see you and Aubrie in Intermediate Japanese and Latin tomorrow—"
+"Well," Jessamine said softly, offering a brave smile, "this was the best day I've had in four years, Jordan. I'll see you and Aubrie in Stellar Astrophysics and Intermediate Japanese—"
 
 The sensation of her fingers sliding out of his palm tripped an old, buried landmine inside Jordan’s nervous system.
 
@@ -22441,7 +22441,7 @@ Almost instantly, the violent rocking in Jordan’s shoulders slowed, and he let
 
 Escorted by the entire circle, Jessamine led them across campus to **Forge Hall** to grab an overnight bag. Even in the five minutes it took **Hannah** and **Madison** to help her pack her toiletries, laptop, and clothes for Tuesday, the whole group saw why Jessamine had been dreading going back: loud music was pounding from a Bluetooth speaker, clothes were strewn across the floor, and her two roommates didn't even look up from their phones except to scoff when she said she was staying with friends for the night.
 
-By `6:45 PM`, after riding the `6:15` express bus down to Christiansburg—with Jordan transferring onto the cushioned bench seat right beside Jessamine so he could hold her hand the entire ride—the group walked up the illuminated driveway on **Geneva Street**, where **Daniel**, **Laura**, and **Megan Brooks** welcomed Jessamine into the dining room like she had been part of the family for years.
+By `6:45 PM`, after riding the bus down to Christiansburg and transferring to **Route 3** along **Lee Highway**—with Jordan sitting right beside Jessamine in the forward bay so he could hold her hand the entire ride—the group rolled up the zero-grade heated walkway of the **U.S. Route 11 Compound**, where **Daniel**, **Laura**, **Megan Brooks**, and **Isabel Dawson** welcomed Jessamine into the first-floor communal dining room like she had been part of the family for years.
 
 The real test for Jessamine’s rule-bound autistic mind came on **Tuesday afternoon and Tuesday night (`August 23, 2016`)**.
 
@@ -22453,15 +22453,15 @@ Shaking and humiliated in the hallway outside, Jessamine slammed the door shut a
 
 Fifteen minutes later, **Daniel** and **Laura Brooks** pulled up to the Forge Hall curb in the family van. With **Mark** and **Daniel** booming into the room like a pair of drill sergeants—giving the mortified roommates and their guests sixty seconds to get decent and clear the room—the Constellation descended like a surgical extraction team, packing every single item Jessamine owned into the van in under ten minutes while Daniel arranged her off-campus housing release.
 
-That night, down in the quiet, cedar-and-slate warmth of **The Sunken Sanctuary** on Geneva Street, Jessamine stood by the sectional sofa clutching her pillow and crying softly—her mind locked in a painful cognitive short-circuit between the ugly betrayal she had just witnessed in Forge Hall and the sight of the massive, fifteen-foot custom sunken bed where **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, and **Megan** were gathering around Jordan for the night.
+That night, down in the quiet basement **Pact Wing** of the U.S. Route 11 Compound inside **The Sunken Sanctuary**, Jessamine stood on the level hardwood transfer deck clutching her pillow and crying softly—her mind locked in a painful cognitive short-circuit between the ugly betrayal she had just witnessed in Forge Hall and the sight of the massive, fifteen-foot-by-fifteen-foot recessed mattress where **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, and **Megan** were gathering around Jordan for the night.
 
-"I can't get into that bed, Aubrie," Jessamine whispered, trembling as Aubrie Jean walked up the gentle wooden ramp to take her hands. "That's your marriage bed, with your husband. What my roommates were doing today was cheating—it was a betrayal. I could never do that to you."
+"I can't step onto that bed, Aubrie," Jessamine whispered, trembling as Aubrie Jean stepped onto the flush hardwood transfer deck to take her hands. "That's your marriage bed, with your husband. What my roommates were doing today was cheating—it was a betrayal. I could never do that to you."
 
 Aubrie Jean held both of Jessamine’s hands and looked straight into her hazel eyes.
 
 "Look at me, Jessamine," Aubrie Jean said softly, giving her autistic mind the explicit, unambiguous logical override she needed. "What you saw in Forge Hall today was lying, secrecy, and a violation of consent. Nothing in this room is a secret, and nothing happens without unanimous consent. I am Jordan’s wife. He is my husband, and he is also the man who waited four years just to hold your hand again. We don't want you out on the sofa alone—we want you right here in the sanctuary with us, where you're safe and where he knows you aren't gone."
 
-Leading Jessamine gently down the ramp onto the soft expanse of the fifteen-foot mattress, Aubrie Jean sat right beside her and placed Jessamine’s hand into Jordan’s—while **Hannah**, before heading upstairs with Mark, gently explained the one sacred physical rule of the bed: protecting Jordan’s healed open-heart sternotomy with calm, gentle weight and zero sudden pulling on his chest or arms.
+Leading Jessamine gently off the flush transfer deck onto the soft expanse of the fifteen-foot recessed mattress, Aubrie Jean sat right beside her and placed Jessamine’s hand into Jordan’s—while **Hannah**, before heading upstairs to the second-floor Anderson Wing with Mark, gently explained the one sacred physical rule of the bed: protecting Jordan’s healed open-heart sternotomy with calm, gentle weight and zero sudden pulling on his chest or arms.
 
-Then, surrounded by the quiet, fiercely loving women of the Constellation, Jessamine lay down beside Jordan on the vast blue mattress and let herself wrap her arms around him—holding him through the night in the sanctuary where neither of them would ever have to be afraid again.
+Then, surrounded by the quiet, fiercely loving women of the Constellation, Jessamine lay down beside Jordan on the vast midnight-indigo mattress and let herself wrap her arms around him—holding him through the night in the sanctuary where neither of them would ever have to be afraid again.
 
