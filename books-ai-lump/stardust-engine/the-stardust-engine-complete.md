@@ -718,6 +718,8 @@ Looking up into her brother's eyes as his arms tightened around her, Cassidy gav
 
 **Date:** 1990-12-10 at 23:42 America/New_York
 
+![December 14, 1990 (DEC 14 '90) at Star City General Hospital in Roanoke: on the first night Ryan is cleared for an overnight visitor, twenty-three-year-old Cassidy O'Connell (in her Burnt Orange CPI sweatshirt) sits on the edge of twenty-six-year-old Ryan's hospital bed beside her brown vinyl sleeper-recliner and folded patchwork quilt, wrapping her arms around his shoulders and kissing his cheek while Ryan closes his eyes in quiet relief as snow falls outside the night window.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-14-90-cassidy-overnight-anchor.jpg)
+
 #### December 10, 1990 (`23:42 EST`) — Mile Marker 98 (Interstate 81 Northbound, Newbern, VA)
 
 Fourteen months after that night backstage at **The Midwest Horizon Arena** in Chicago—having kept his vow to Cassidy through every remaining tour stop of 1989 and 1990 by flatly refusing to put *"If You Walked Away"* back on the setlist despite every angry memo from Los Angeles—twenty-six-year-old **Ryan O'Connell** had both hands locked at ten-and-two on the steering wheel of the family's **1988 Holt Freighter** touring van, heading north on **Interstate 81** after a small club gig in **Wytheville, Virginia**.
@@ -772,11 +774,13 @@ Below his waist, however, there was terrifying proprioceptive silence. Lying fla
 
 His sister refused to let him drift.
 
-Refusing every offer to go back to Blacksburg to sleep in a real bed, twenty-three-year-old **Cassidy** planted herself in the vinyl bedside recliner in the corner of his ICU bay. Whenever the middle-of-the-night panic made Ryan's heart rate spike on the bedside monitor, Cassidy crossed the dim floor, carefully worked her arms around the top edge of his rigid plastic torso shell, and pressed her chest and cheek tightly against his shoulders and collarbone—anchoring the broken Engine with the only gravity his nervous system could still feel.
+The moment Ryan was moved out of the Surgical ICU to the step-down room on the evening of **December 14, 1990** and cleared to have a single overnight family member, twenty-three-year-old **Cassidy** didn't have to be asked twice. Refusing every offer to go back to Blacksburg to sleep in a real bed, she carried a folded patchwork quilt from home into the room, planted it on the brown vinyl bedside sleeper-recliner, and refused to leave his side. Whenever the middle-of-the-night panic made Ryan's chest tighten in the dark, Cassidy climbed onto the edge of the mattress in her Burnt Orange **`CPI`** sweatshirt, wrapped both arms around his shoulders, and pressed her cheek against his temple—anchoring the broken Engine with the only gravity his nervous system could still feel.
+
+![December 14, 1990 (DEC 14 '90) at Star City General Hospital in Roanoke: on the first night Ryan is cleared for an overnight visitor, twenty-three-year-old Cassidy O'Connell (in her Burnt Orange CPI sweatshirt) sits on the edge of twenty-six-year-old Ryan's hospital bed beside her brown vinyl sleeper-recliner and folded patchwork quilt, wrapping her arms around his shoulders and kissing his cheek while Ryan closes his eyes in quiet relief as snow falls outside the night window.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-14-90-cassidy-overnight-anchor.jpg#fullwidth)
 
 ***
 
-#### December 18, 1990 (`DEC 18 '90`) — Part 3: Eight Days Post-Crash & The First Wheelchair Lap
+#### December 18–19, 1990 (`DEC 18 '90` & `DEC 19 '90`) — Part 3: The First Wheelchair Lap & The Family Circle
 
 Eight days after the crash—on the snowy morning of **December 18, 1990**—the attending neurosurgeon examined the surgical incision down Ryan's mid-back, checked the X-rays of the `T8–T12` titanium rods, and signed the chart clearing Ryan to transfer out of the hospital mattress into a wheelchair for a short fifteen-minute lap around the fifth-floor step-down medical ward.
 
@@ -790,7 +794,11 @@ Across the room, however, **Cassidy** and twenty-one-year-old **Holly**—both w
 
 Before they rolled toward the hallway door, Holly and Cassidy leaned in on either side of his chair, wrapping their arms tightly across his chest and shoulders while twenty-two-year-old **Evan** raised Uncle Jack's 35mm point-and-shoot camera at the foot of the bed. Ryan loathed the chair with every fiber of his being—but with his sisters' arms locked around his neck and their cheeks pressed against his temples, he pushed through the ache in his back and smiled into the lens as the camera shutter clicked, stamping **`DEC 18 '90`** in red quartz digits across the bottom corner of the frame.
 
-![Ryan O'Connell in his hospital wheelchair at Star City General Hospital on December 18, 1990, hugged by his sisters Holly and Cassidy in their orange CPI shirts while snow falls over downtown Roanoke outside the window.]({{CDN}}/stardust-engine/images/story/crash-of-1990.jpg#fullwidth)
+![Ryan O'Connell in his hospital wheelchair at Star City General Hospital on December 18, 1990, hugged by his sisters Holly and Cassidy in their orange CPI shirts while snow falls over downtown Roanoke outside the window.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-18-90-first-wheelchair-lap.jpg#fullwidth)
+
+More than anything in the world, what kept Ryan going through every painful transfer and surgical dressing change was having his family around him. The very next afternoon—**December 19, 1990 (`DEC 19 '90`)**, once the nurses let him pull his own warm Foundry Maroon crew-neck sweatshirt over his hospital clothes—Cassidy and Holly climbed onto the left and right edges of his mattress with Holly's new black three-ring **`PROTOCOL T-10`** binder resting on her knee, while Evan and Tyler stood right behind them in their winter flannel shirts with their hands resting on their cousins' shoulders, forming a five-person fortress against the snowy Roanoke sky outside.
+
+![December 19, 1990 (DEC 19 '90) at Star City General Hospital: twenty-six-year-old Ryan O'Connell sits propped up in bed in a comfortable maroon sweatshirt surrounded by his family in their twenties—Cassidy (23) on his left, Holly (21) on his right holding the black three-ring Protocol T-10 binder, and identical twenty-two-year-old twin cousins Evan and Tyler Wright standing behind them in plaid flannel shirts.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-19-90-family-circle-protocol-t10.jpg#fullwidth)
 
 ***
 
