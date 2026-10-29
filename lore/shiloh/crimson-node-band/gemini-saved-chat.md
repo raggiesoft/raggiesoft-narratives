@@ -7798,7 +7798,7 @@ Here is the filenames we have of the different songs. I need an album.json and a
 
 
 
-michael@Michaels-MacBook-Pro ~ % cd /Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/crimson-node/master-wav/studio
+michael@Michaels-MacBook-Pro ~ % cd /Users/michael/Developer/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/crimson-node/master-wav/studio
 
 michael@Michaels-MacBook-Pro studio % ls -la
 

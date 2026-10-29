@@ -10,6 +10,8 @@ title: "The Eleventh Child"
 
 **Date:** 2014-08-20 at 08:00 America/New_York
 
+![Inside the dim hallway of the Sinclair house in Virginia Beach with the window blinds drawn shut, Aubrie Renee Sinclair—with Aubrey's packed gym bag slung over her shoulder—possessively straightens the collar of eighteen-year-old Aubrey Fuller's navy polo shirt as he sits motionless in his manual wheelchair with his backpack zipped shut on the floor beside him.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p001/an-extension-of-me.jpg)
+
 The heavy zipper of the canvas gym bag rasped shut across the living room, the metallic sound dull and underwater through the static in Aubrey's ears.
 
 He sat parked in his basic manual wheelchair near the front hallway, his hands resting motionless on his knees. Two hours remained before they were scheduled to pull out of the driveway and begin the drive west, yet he had not packed a single item himself. He hadn't been allowed to. Because his folded wheelchair took up nearly the entire trunk of his mother's sedan, his heavy dorm essentials—his pillows, blankets, sheets, and towels—had already been boxed up and mailed ahead to the dormitory's mail room earlier in the week. For the drive itself, they were bringing only his backpack and a single gym bag, and from the folded stacks of plain shirts in the duffel to the spare packages of snacks and sandwiches wedged into his backpack's side pockets, every square inch had been selected, counted, and arranged by his mother.
@@ -36,6 +38,8 @@ Aubrey gripped the cold metal armrests, staring into the gray blur of the hallwa
 
 **Date:** 2014-08-20 at 10:00 America/New_York
 
+![Inside the front cabin of her sedan driving westbound along U.S. Route 460 across Southside Virginia, Aubrie Renee Sinclair grips the steering wheel and glares sideways in cold disapproval as eighteen-year-old Aubrey Fuller hunches inches from his bulky laptop in the passenger seat, squinting intensely to type his response.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p002/the-drive-route-460.jpg)
+
 #### 10:00 AM — The Drive
 
 The journey began on a Wednesday in late August. Rather than taking Interstate 64 all the way north to Staunton, Aubrie Sinclair had exited at the Bowers Hill interchange in Chesapeake and steered the car onto U.S. Route 460 West—turning the trip from the flat, humid landscape of Hampton Roads to the rolling hills of the New River Valley into a grueling, seven-hour marathon across Southside Virginia. Aubrey sat silently in the passenger seat, watching the world change outside his window as they rolled westbound through an endless succession of small towns toward Lynchburg, Bedford, and Roanoke. Beyond the glass, the passing scenery was a constant, impressionistic blur of green and gray—just the way distant things had always looked to him—forcing him to squint until a dull, familiar ache began to throb behind his eyes.
@@ -46,13 +50,13 @@ Beside him, his mother, Aubrie Sinclair, filled the car with a steady stream of 
 
 She completely refused to acknowledge the reality of his silence. For eighteen years, Aubrie Sinclair maintained the insistence that his inability to speak was simply a behavioral choice—a prolonged act of stubborn defiance, fueled by a desire to simply not talk to her. Having been sheltered from the outside world his entire life, Aubrey didn't even have a name for why words wouldn't come out of his mouth, or why his legs required a chair; he only knew that in his mother's house, both were treated as personal failings.
 
-With a heavy, resigned exhale, Aubrey reached down to the floorboard and hauled his battered laptop onto his lap. It was a massive, obsolete machine running Quantum OS 7 Home Basic, its cooling fan instantly whirring to life with a strained whine. His mother's jaw tightened visibly. She despised the machine, viewing it as an enabling crutch for his "attitude," but she tolerated it reluctantly because it was the only way she could force a response from him.
+With a heavy, resigned exhale, Aubrey reached down to the floorboard and hauled his battered laptop onto his lap. It was a massive, obsolete machine running Quantum OS 7 Home Basic, its cooling fan instantly whirring to life with a strained whine. Even after charging all night in Virginia Beach, the worn-out battery only held ten or fifteen minutes of power at most—and his mother would certainly never have bought a twelve-volt car adapter for a machine she despised, viewing it as an enabling crutch for his "attitude" that she tolerated only when she wanted to force a response from him.
 
 He hunched awkwardly over the keyboard, leaning his face mere inches from the dim display—the only distance at which letters ever resolved out of a gray smear. Slowly, he typed a single sentence and pressed the execute key.
 
 <aac>I am listening,</aac> the operating system's built-in text-to-speech engine announced, the voice a flat, robotic, and heavily digitized monotone.
 
-"Well, you could just open your mouth and say it," she muttered, turning her eyes back to the road.
+"Well, you could just open your mouth and say it," she muttered, turning her eyes back to the road as Aubrey immediately shut the laptop lid to save the few remaining minutes of battery for tomorrow on campus.
 
 Once they reached Roanoke, his mother—unfamiliar with the area and blindly following the prompts on her dashboard GPS—merged off Route 460 onto Interstate 581 North, taking the short freeway spur up to Interstate 81 South for the final stretch up Christiansburg Mountain before pulling off the highway at Exit 118C onto Roanoke Street. As she signaled and turned into the entrance of the Merit Inn—a two-story roadside motel sitting right next door to a Hickory Barrel Old Country Store—a long white-and-green city bus with a glowing amber 4 on its front sign rumbled past them along Roanoke Street. After stopping briefly at the front office to pick up the room key, his mother drove the car around the asphalt lot and parked directly in front of their first-floor room's exterior door. Aubrey wheeled himself across the narrow concrete walk with his backpack resting on his lap while his mother slung his gym bag and her own small overnight bag over her shoulder behind him, his head pounding, longing for a quiet space to rest his aching eyes and ears.
 
@@ -77,6 +81,8 @@ He hated it—a quiet, desperate revulsion that burned in his chest every single
 ### Part 3: The Poly Pass & Educational Accessibility
 
 **Date:** 2014-08-21 at 11:00 America/New_York
+
+![Inside the Office of Educational Accessibility in Callahan Hall, counselor Ms. Higgins leans warmly across her desk to hand a Monday appointment card directly to eighteen-year-old Aubrey Fuller in his manual wheelchair while his mother, Aubrie Renee Sinclair, stands rigidly behind his chair clutching her purse in cold disapproval.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p003/educational-accessibility-higgins.jpg)
 
 #### 11:00 AM — The Poly Pass
 
@@ -116,7 +122,7 @@ To Aubrey, her voice was a dull, muffled hum. He leaned forward in his wheelchai
 
 Aubrey hauled his heavy laptop onto his lap to reply. He hunched awkwardly over the keyboard, bringing his face mere inches from the dim screen. He squinted intensely, his eyes straining just to make out the letters on the keys. Ms. Higgins watched this process closely, a slight frown creasing her forehead as she noted his extreme proximity to the monitor and the stiff, strained way his fingers struck the keys.
 
-Before Aubrey could finish typing his response, the screen flickered and went entirely black. The old battery had died.
+Before Aubrey could finish typing his response, the screen flickered and went entirely black. Between the brief boot-up in the car yesterday and the two minutes at the ID counter this morning, the ten-to-fifteen-minute reserve of the worn-out battery had finally died completely.
 
 Aubrey froze, a familiar spike of panic hitting his chest. He braced himself for his mother's inevitable, exasperated sigh. But it didn't come from across the desk.
 
@@ -147,6 +153,8 @@ Aubrey took the card, his blurry vision making out the bold numbers, and slipped
 ### Part 4: All the Way
 
 **Date:** 2014-08-21 at 15:00 America/New_York
+
+![Inside the rustic timber dining room of the Hickory Barrel Old Country Store, eighteen-year-old Aubrey Fuller leans forward from his manual wheelchair to point his index finger at the fine print on the laminated menu for the waitress, right as his mother Aubrie Renee Sinclair reaches across the wooden table to fold the menu shut over his hand with a dismissive smile.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p004/hickory-barrel-all-the-way.jpg)
 
 The drive back down the highway to Christiansburg took less than twenty minutes. Aubrie Sinclair exited onto Roanoke Street, turned into the Merit Inn, and pulled the car right up to the concrete curb directly in front of their first-floor room's exterior door.
 
@@ -308,6 +316,8 @@ With hours of darkness still stretching between him and nine o'clock tomorrow mo
 
 **Date:** 2014-08-22 at 07:30 America/New_York
 
+![Standing at the open hallway doorway of Bennett Hall Room 214, Aubrie Renee Sinclair puts on a bright, theatrical smile and waves goodbye for the hallway while leaving eighteen-year-old Aubrey Fuller stranded in his manual wheelchair beside a bare wooden desk, unmade dorm mattresses, his zipped backpack on the floor, and his unopened cardboard mailroom box.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c001/p007/a-real-college-kid-room-214.jpg)
+
 When pale gray morning light finally leaked around the edges of the Merit Inn curtains at seven-thirty, the syrupy, possessive warmth from the night before had vanished from Aubrie Sinclair's demeanor as if it had never existed.
 
 She was brisk, clipped, and all business—a woman with a schedule to keep and a long drive back to Virginia Beach ahead of her. Without a word about how tightly she had held him in the dark, she hauled Aubrey out from under the sheets, dragged him into the narrow bathroom for a rushed morning cleanup, and pulled a fresh polo shirt and jeans onto him while his skin still stung faintly beneath the cotton. His heavy laptop remained zipped inside his backpack in the corner, its battery still completely dead.
@@ -368,13 +378,19 @@ Instead, she walked back to the open doorway, turned around, and put on a bright
 
 "I'm so proud of you—a real college kid now!" she announced, her voice carrying that practiced, theatrical warmth she always used when other people might be within earshot. "An adult, living on your own!"
 
-Then she stepped half a pace back across the threshold, her smile flattening as her eyes locked onto him in the chair.
+Sitting in his chair beside the bare wooden desk with his hands clasped in his lap, Aubrey didn't even turn his head to look back at her. He didn't want to.
+
+She stepped half a pace back across the threshold, her theatrical smile flattening as she stared at the back of his shoulder.
 
 "You keep that cell phone charged and right in your pocket, Aubrey," she said in a low, clipped voice. "When I call you, I expect you to pick up on the first ring. Do you understand me?"
 
-Voiceless without his laptop, Aubrey gave a single, stiff nod.
+Voiceless without his laptop—and still refusing to look at her—Aubrey gave a single, stiff nod toward the floor.
 
-Satisfied, his mother gave a brisk wave, turned on her heel, and marched back down the tiled corridor toward the Washington Street atrium doors. As the ten-second hold-open timer expired, the motorized arm above the doorframe whirred softly, pulling the heavy wooden door of Room 214 shut until the electronic lock clicked into place automatically.
+Satisfied, his mother gave a brisk wave for the benefit of the corridor, turned on her heel, and marched back toward the Washington Street atrium doors. As the ten-second hold-open timer expired, the motorized arm above the doorframe whirred softly, pulling the heavy wooden door of Room 214 shut until the electronic lock clicked into place automatically.
+
+Listening to her footsteps fade away for the first time in eighteen years, Aubrey let out a long, slow breath into the quiet room. The mattress behind him was bare, his box of bedding was still taped shut on the floor, and he had no idea yet how he was going to manage the days ahead—but as the silence settled around him, a single question rose in his chest: *now that she's gone, will I be better off?*
+
+He didn't know for certain. But sitting there in the stillness of his own room, he sure hoped so.
 
 ### Part 8: Room 214 & The Awkward Outlet
 
@@ -1203,7 +1219,7 @@ The seven of them filed into the cramped room. Mark, Hannah, Lauren, and Zoë fo
 
 A sudden, urgent pressure hit Jordan. A sudden flush of embarrassment creeping up his neck, he looked toward the connecting bathroom door. He hurriedly pulled his heavy laptop onto his lap, popping the lid open to type out a request for assistance.
 
-He got as far as typing <aac>I need to use—</aac> before the screen flickered, froze, and went completely black. The ruined battery had died yet again.
+He got as far as typing <aac>I need to use—</aac> before the screen flickered, froze, and went completely black. After being unplugged from his desk to go to the dining hall, the ruined battery's meager ten-to-fifteen-minute reserve had died yet again.
 
 Jordan froze, panic and mortification flooding his face. He gestured helplessly toward the dead machine and then pointed toward the bathroom door, completely unable to voice his urgent need.
 

@@ -1,7 +1,7 @@
 # Zoë Wren Brooks — Autistic Cognitive Logging System (`ZOË.Systems.Logs`)
 
 > **CANONICAL NARRATIVE & PARSER SPECIFICATION (`/books/aubrie`)**
-> This document defines the exact structural, grammatical, and psychological rules for **Zoë Wren Brooks’s** internal thought-processing logs (`ZOË.Systems.Logs.*`), as well as how they are parsed and syntax-highlighted by [`stardust-parsedown.php`](file:///Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft.com/subdomains/books/includes/classes/stardust-parsedown.php) and [`oliver.php`](file:///Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft.com/subdomains/books/sophia/oliver.php).
+> This document defines the exact structural, grammatical, and psychological rules for **Zoë Wren Brooks’s** internal thought-processing logs (`ZOË.Systems.Logs.*`), as well as how they are parsed and syntax-highlighted by [`stardust-parsedown.php`](file:///Users/michael/Developer/raggiesoft-servers/raggiesoft.com/subdomains/books/includes/classes/stardust-parsedown.php) and [`oliver.php`](file:///Users/michael/Developer/raggiesoft-servers/raggiesoft.com/subdomains/books/sophia/oliver.php).
 
 ---
 
@@ -244,7 +244,7 @@ To ensure every log line is 100% consistent with Zoë’s voice AND triggers eve
 
 ## 6. Markdown Authoring & Parser Reference (`stardust-parsedown.php` & `oliver.php`)
 
-[`StardustParsedown`](file:///Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft.com/subdomains/books/includes/classes/stardust-parsedown.php) and [`oliver.php`](file:///Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft.com/subdomains/books/sophia/oliver.php) automatically detect and highlight Zoë’s logs using any of three Markdown patterns:
+[`StardustParsedown`](file:///Users/michael/Developer/raggiesoft-servers/raggiesoft.com/subdomains/books/includes/classes/stardust-parsedown.php) and [`oliver.php`](file:///Users/michael/Developer/raggiesoft-servers/raggiesoft.com/subdomains/books/sophia/oliver.php) automatically detect and highlight Zoë’s logs using any of three Markdown patterns:
 
 ### Option A: Zero-Config Consecutive Paragraphs (Recommended)
 Simply write consecutive `ZOË.Systems.Logs.*` lines in Markdown. `StardustParsedown` automatically groups consecutive log lines into a single `.zoe-kernel-log` diagnostic console with numbered lines (`01`, `02`, ...) and full token highlighting:
