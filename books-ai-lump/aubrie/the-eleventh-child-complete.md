@@ -18,15 +18,15 @@ For nine years, school had been the laminate kitchen table in the back of the si
 
 From the autumn he turned five until the summer he turned fourteen, Aubrey had never set foot inside a classroom. Every August, his mother had mailed a single sheet of paper—a *Notice of Intent to Provide Home Instruction*—to the Virginia Beach City Public Schools central office, stacked mail-order workbooks on the counter beside the refrigerator, and kept the front blinds drawn tight.
 
-At age five, when he had outgrown his toddler stroller and his stiff, uncooperative legs had buckled and collapsed beneath him every time she yanked him up by the arm and ordered him to walk across the linoleum, she hadn't taken him to a doctor. Aubrie Sinclair did not believe in doctors, and she did not believe in vaccines. To her, doctors were arrogant meddlers looking for excuses to label children and take them away from their mothers, and every struggle Aubrey had—from the way his legs refused to hold his weight to the way no spoken words ever came out of his throat—was simply stubbornness and a prolonged act of laziness.
+At age five, when he had outgrown his toddler stroller and his stiff, uncooperative legs had buckled and collapsed beneath him every time she yanked him up by the arm and ordered him to walk across the linoleum, she hadn't taken him to a doctor. As his mother had told him across the kitchen table more times than he could count, she did not believe in doctors, and she did not believe in vaccines. To her, doctors were arrogant meddlers looking for excuses to label children and take them away from their mothers, and every struggle Aubrey had—from the way his legs refused to hold his weight to the way no spoken words ever came out of his throat—was simply stubbornness and a prolonged act of laziness.
 
-She had homeschooled him through elementary and middle school for one overriding reason: in Virginia, any child entering public Kindergarten or elementary school for the first time was required by law to submit a comprehensive physical examination signed by a licensed physician. Had a doctor ever put a stethoscope to five-year-old Aubrey's chest, tested the tone in his legs, held an eye chart across a room, or checked his immunization record, her entire private world would have collapsed in a single afternoon. Instead, because she got tired of physically dragging his dead weight through grocery store aisles—and knew a store manager or neighbor would eventually call Child Protective Services if they saw a five-year-old boy collapsing onto the floor—she had walked into a retail medical-supply pharmacy and paid cash out of pocket for a heavy, adult-sized, off-the-shelf manual wheelchair that required no prescription at all. Outside the house, the chair kept strangers from asking questions. Inside the house, she still berated him every single day for sitting in it.
+She had kept him out of public school through elementary and middle school because, as she had explained whenever she filled out the August home-instruction forms, any child entering public Kindergarten or elementary school in Virginia for the first time was required by law to turn in a physical examination signed by a doctor. Instead, because she had gotten tired of dragging his dead weight through grocery store aisles—and snapped at him that store managers or neighbors would call Child Protective Services if they saw him collapsing on the floor—she had walked into a retail medical-supply pharmacy and paid cash for a heavy, adult-sized, off-the-shelf manual wheelchair that didn't require a doctor's prescription. Outside the house, the chair kept strangers from asking questions. Inside the house, she still berated him every single day for sitting in it.
 
-By the summer of 2010, however, the kitchen table had reached its limit.
+By the summer of 2010, however, Aubrey could tell the kitchen table had reached its limit.
 
-For one thing, fourteen-year-old Aubrey had quietly taught himself every math and science textbook in the house by holding the pages two inches from his nose until the black ink came into focus, and his mother could no longer understand—much less grade—the Algebra II and chemistry problems he worked out in his notebooks. For another, a homeschooled student in Virginia could not be awarded a state-accredited Advanced Studies Diploma or an official high school class rank—the exact pieces of paper required to make state universities hand out full-ride scholarships. And perhaps most decisively of all, Aubrie Sinclair was tired of being trapped in the house all day when a yellow county school bus with a hydraulic wheelchair lift could pick him up at the curb at seven-fifteen every morning and give her seven hours of free, taxpayer-funded supervision.
+For one thing, fourteen-year-old Aubrey had quietly taught himself every math and science textbook in the house by holding the pages two inches from his nose until the black ink came into focus, and his mother had started losing her temper whenever she could no longer understand—much less grade—the Algebra II and chemistry problems he worked out in his notebooks. For another, she had spent the entire summer talking about how a homeschooled student in Virginia could not get a state-accredited Advanced Studies Diploma or an official high school class rank—the exact pieces of paper she said he needed so state universities would hand out full-ride scholarships—and how a yellow county school bus with a wheelchair lift could pick him up at the curb at seven-fifteen every morning so she wouldn't be stuck in the house watching him all day.
 
-And because he was entering public school for the first time in the ninth grade rather than Kindergarten or elementary school, the statutory window requiring a physician's school-entrance physical exam had legally expired.
+And as his mother had triumphantly pointed out while reading the state code book at the kitchen table in August, because he was entering public school for the first time in the ninth grade rather than Kindergarten or elementary school, the rule requiring a doctor's school-entrance physical exam no longer applied.
 
 ***
 
@@ -54,7 +54,7 @@ She leaned slightly across the counter, her cold dark brown eyes locking onto th
 
 "My son is not intellectually disabled, Mr. Henderson. I have taught him myself for nine years. Put his table at the front of the room near a wall outlet so his computer doesn't die, let him type his answers, and give him his tests on paper. He will get straight A's in every single class you put him in, he will raise your school's standardized test averages, and he will never cause you a single second of disciplinary trouble. All you have to do is leave him alone."
 
-Mr. Henderson looked from the notarized legal citations on the counter to the quiet, motionless fourteen-year-old boy in the wheelchair, and then to the clock on the wall—where thirty more first-day registration problems were waiting in the hallway outside. An honors student who would score a hundred percent on his Standards of Learning exams and required zero special-education budget was the path of least resistance.
+From his wheelchair beside the counter, Aubrey watched the blurry shape of Mr. Henderson look from the notarized legal citations on the laminate down to Aubrey's chair, then up at the wall clock and out toward the hallway window, where a crowd of impatient parents was still waiting in line on the first morning of school. Letting out a slow breath, the assistant principal reached for his pen.
 
 "A basic observational Section 504 classroom accommodation for front-row wheelchair seating and typed responses doesn't require a medical evaluation," Mr. Henderson conceded, signing his initials at the bottom of the routing slip. "We can put that in place today."
 
@@ -220,7 +220,7 @@ Shame burned hotly across Aubrey's cheeks. He hated how broken his reflexes were
 
 <aac>It wasn't your fault, Jess. I'm sorry I flinched. I'm just not used to people touching me nicely. At home, when someone grabs my arm, it usually hurts. And if someone tries to hug me or hold me down, I panic.</aac>
 
-Jessamine read the words on his screen twice. Her expression softened with a deep, quiet understanding that required zero explanation. Being autistic herself, she knew what it felt like when the sensory rules of your own body were ignored by the people around you—and looking at the way Aubrey's shoulders were still tensed inside his navy-blue pocket t-shirt, she understood far more than he realized about what his life in that house must be like.
+Jessamine read the words on his screen twice. She didn't ask him to explain what he meant, and she didn't look at him with pity. Instead, her hazel eyes softened with a quiet, immediate understanding, her gaze resting briefly on the way Aubrey's shoulders were still hunched tight inside his navy-blue pocket t-shirt before she reached for her pen.
 
 She wrote again in her bold, clear block letters:
 
@@ -254,6 +254,10 @@ Looking across the table at him, Jessamine's hazel eyes shone bright in the afte
 
 *Yes, Aubrey. I'm your girlfriend, and you're my boyfriend. And I'll wait as many years as it takes until you're not scared anymore.*
 
+Before Aubrey could even finish reading the line, Jessamine added one more sentence underneath it, her cheeks warming slightly as she nudged the notebook half an inch closer to his side of the wood:
+
+*I've already told my mom and dad all about how smart and kind you are, too. They know we have to keep it a secret from your mom right now so you don't get in trouble, but my parents said they're ready to meet you whenever we ever get the chance.*
+
 ### Part 4: The Landline Tirade & The Lie
 
 **Date:** 2012-06-04 at 15:45 America/New_York
@@ -268,9 +272,9 @@ With final exams starting on Tuesday, sixth-period library study passes were end
 
 Before the afternoon bell rang in the library, Jessamine had set a small, tightly folded square of lined notebook paper on the oak tabletop two inches from Aubrey's hand so he could pick it up himself without being touched.
 
-Inside, written in her familiar bold black felt-tip letters so he could read it easily, was a seven-digit Virginia Beach landline telephone number and two short sentences:
+Inside, written in her familiar bold black felt-tip letters so he could read it easily, was a seven-digit Virginia Beach landline telephone number and three short sentences:
 
-*In case your mom ever goes out for errands this summer and you can use the house phone, or just so you can look at this and remember I'm thinking about you when the Perseid meteor shower peaks in August. I'll be waiting at our table on the first day of Junior Year. — Your Jess*
+*My mom and dad said they are ready to meet you whenever you want, or if your mom ever goes out for errands this summer and you can use the house phone to call me. Even if you can't call, keep this so you can look at it and remember I'm thinking about you when the Perseid meteor shower peaks in August. I'll be waiting at our table on the first day of Junior Year. — Your Jess*
 
 On the school bus ride home, Aubrey had tucked the folded square of paper deep into the zippered front pencil pouch of his backpack, beneath two spare erasers and a broken plastic ruler. He planned to wait until that night—after his mother dumped him onto his mattress and shut his bedroom door—to slip the paper under his pillow where he could hold it two inches from his eyes in the dark.
 
@@ -22361,11 +22365,19 @@ The last wall inside Jessamine Mercer shattered.
 
 Slipping out of her chair, Jessamine dropped to her knees right beside Jordan’s wheelchair, threw both arms around his shoulders, and pulled him into a fierce, tight embrace—burying her face against the collar of his shirt as four years of grief, fear, and loneliness poured out in quiet, shaking sobs.
 
-Jordan wrapped both arms tightly around her back, resting his cheek against her soft chestnut hair as his own silent tears dampened the shoulder of her dusty-teal sweater. It was the hug she had wanted to give him since they were sixteen years old—**the hug four years in the making**—and right beside them, his wife rested a warm, protective left hand with her gold wedding band over Jordan’s shoulder, openly crying tears of pure, overflowing joy as she watched her husband reunite with the very first person who had ever liked him.
+Jordan wrapped both arms tightly around her back—the gleaming gold wedding band on his left ring finger resting in plain sight against the back of her sweater—pressing his cheek against her soft chestnut hair as his own silent tears fell. It was the hug she had wanted to give him since they were sixteen years old—**the hug four years in the making**—and right beside them, his wife rested her warm, protective left hand with its matching gold wedding band over Jordan’s shoulder, openly crying tears of pure, overflowing joy as she watched her husband reunite with the very first person who had ever liked him.
 
-![Inside the sunlit Kincaid Hall lounge, Jessamine Mercer kneels beside Jordan Shawn Kelly's manual wheelchair and wraps both arms tightly around his shoulders in a tearful, joyful embrace—the hug four years in the making—as Jordan hugs her warmly back and his wife Aubrie Jean Kelly stands beside them crying happy tears while resting a loving, supportive left hand with her gold wedding band on Jordan's shoulder.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e010/c001/p002/the-hug-four-years-in-the-making.jpg#fullwidth)
+![Inside the sunlit Kincaid Hall lounge, Jessamine Mercer kneels beside Jordan Shawn Kelly's manual wheelchair and wraps both arms tightly around his shoulders in a tearful, joyful embrace—the hug four years in the making—as Jordan hugs her warmly back with his gold wedding band clearly visible on his left ring finger and his wife Aubrie Jean Kelly stands beside them crying happy tears while resting a loving, supportive left hand with her matching gold wedding band on Jordan's shoulder.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e010/c001/p002/the-hug-four-years-in-the-making.jpg#fullwidth)
 
 "Thank you so much, Jessamine," Aubrie Jean whispered through her happy tears, her voice trembling with gratitude as she looked down at the girl who had been the very first crack in the armor of Aubrie Sinclair. "When I walked into Room 214 on move-in day two years ago, Jordan was having a terrifying sensory meltdown all alone in the dark. If you had never shown him that kindness in high school—if you hadn't sat with him at that library table and been the distant light at the end of the tunnel of his nightmare—he would have been far too terrified to ever accept my hug in Room 214. You proved to him that a girl our age could be gentle and safe. You kept his heart alive long enough for him to reach us."
+
+Still kneeling beside Jordan's wheelchair with her arms around his neck, Jessamine looked up through her tears—from the gold wedding band on Jordan's left finger to the matching gold band on Aubrie Jean's left hand resting right beside hers on Jordan's shoulder.
+
+"I missed him so much, Aubrie," Jessamine sobbed quietly. "For four years I never stopped caring about him."
+
+Aubrie Jean smiled through the glistening tear tracks on her cheeks, reaching down with her right hand to gently stroke Jessamine's hair while keeping her wedding-ringed left hand resting warmly over Jordan's shoulder and Jessamine's arm.
+
+"Yes, Jessamine—you are absolutely welcome to hug this married man," Aubrie Jean said softly, her hazel eyes shining with unwavering warmth. "I am his wife, and I am telling you right now that it's okay. And more than that: you are welcome to tell him that you love him. You are welcome to have a relationship with him. You don't have to lock your heart away anymore, and you never have to choose between being in his life and respecting our marriage. I am right here, I am encouraging you, and I am giving you my full blessing."
 
 ### Part 3: The Separation Crash, The Forge Hall Extraction, & The New Social Script
 
