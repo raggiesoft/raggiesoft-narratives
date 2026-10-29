@@ -2982,6 +2982,10 @@ Beside Ryan, Cassidy lifted her head from his shoulder, her eyes shining with pu
 
 "Exactly like a spaceship, Cass," Holly said softly, saving the **ARTS Head-End Power (`HEP`)** mechanical specifications to her encrypted drive as **Unit 03** merged onto northbound Interstate 81 toward **Progress Street**. "Next time we cross this country, we're bringing our own bedroom on the rails."
 
+None of the five of them knew it yet as the thirty-foot shuttle hummed past the Christiansburg exits toward home—not even Ryan—but that Thursday afternoon descent into Roanoke-Blacksburg Regional Airport would be the **very last time the family ever boarded an airplane**.
+
+For Ryan's sake—to protect his fifty-four-year-old rotator cuffs and spare his spine from ever enduring another grueling stadium tour cycle—the road war was officially over. There would be **no more world tours**. There would be **no more sold-out arena or stadium shows** after 2016's *Live at the Crucible*. They would keep writing and recording studio albums together inside the warm, zero-threshold sanctuary of **Stardust Studios** on **Progress Street NE** for years to come—and from this autumn onward, the annual free **Blacksburg Summer Festival** on **The Commonwealth Green** at CPI, just ten minutes down the street aboard their **Prairie Coachworks RLFD30** low-floor shuttle, would be the **only way in the world to ever see The Stardust Engine perform live again**.
+
 ## Chapter 4: The Jessica Miller Center & The Frost Interview (December 2018–February 2019)
 
 ### The Jessica Miller Center & The Frost Interview (December 2018–February 2019)
@@ -3033,22 +3037,24 @@ Under **The Miller Standard**, Jessica and Justin inverted the entire three-floo
 
 ***
 
-#### February 14, 2019 (`10:00 PST`) — Part 2: Dedication Day & The "Cultural Fit" Assessment
+#### February 14, 2019 (`10:00 PST` / `13:00 EST`) — Part 2: Dedication Day & The "Cultural Fit" Assessment
 
-On Valentine's Day—**February 14, 2019**—the five members of **The Stardust Engine** were back in Century City for the official ribbon-cutting of **The Jessica Miller Center**.
+On Valentine's Day—**February 14, 2019**—**The Jessica Miller Center** officially opened its doors on **Floors 38, 39, and 40** of `2000 Avenue of the Stars`.
 
-In the warm, cork-floored lobby of Floor 38, Ryan rolled his Carbon-Fiber Veloce up beside the brushed-brass dedication plaque that Holly had mounted beneath the new `The Jessica Miller Center.` wall sign:
+Three thousand miles to the east, inside the warm control room of **Stardust Studios** on **Progress Street NE** in Blacksburg, the five members of **The Stardust Engine** gathered around the 85-inch 4K studio telemetry monitor with mugs of hot chocolate in their hands. True to the quiet vow Holly had made after their September 2018 flight into Roanoke, none of them had set foot on an airplane—while Holly's railcar engineers were still drafting the structural blueprints for their custom 480-volt `HEP` private railcar, the family stayed safely grounded at home in the New River Valley, where the annual free **Blacksburg Summer Festival** on **The Commonwealth Green** was now the only stage on Earth where the band still played live.
+
+On the studio screen in Blacksburg, twenty-year-old **Jessica Miller** rolled her titanium manual wheelchair up beside the brushed-brass dedication plaque that Holly had commissioned and mounted beneath the new `The Jessica Miller Center.` cork wall sign on Floor 38:
 
 > *"This center is named in honor of **Jessica Miller**, whose competence was ignored because she sat down, and whose dignity was violated because she asked for accommodation."*  
 > — **Holly O'Connell, CEO • February 14, 2019**
 
-"Not bad for an unpaid intern they tried to hide behind a four-foot mahogany desk," Ryan said softly, bumping his right push-rim against Jessica's left wheel.
+"Not bad for an unpaid intern they tried to hide behind a four-foot mahogany desk," Ryan said warmly over the encrypted studio audio link from Blacksburg, smiling at Jessica and Justin on the high-definition feed.
 
-"Wait until ten-thirty," Holly said, glancing at her watch with a wicked glint behind her glasses. "Someone scheduled an appointment with the new Executive Director through the public portal without bothering to read whose name is on the building."
+"Wait until ten-thirty Pacific," Holly said from beside Ryan's wheelchair in the Blacksburg control room, glancing at her watch with a wicked glint behind her glasses as she switched the secondary monitor to the Floor 38 intake cameras. "Someone scheduled an appointment with the new Executive Director through the public portal without bothering to read whose name is on the building."
 
- Ryan raised an eyebrow. "Frost?"
+Ryan raised an eyebrow. "Frost?"
 
-"In the flesh," Holly replied, gesturing toward the glass conference partition where she, Ryan, Cassidy, Evan, and Tyler could watch the intake corridor over the internal audio feed. "It's been five months since I filed the **Triple Tap** on September 14—**SEC Form TCR** for the `$400 million` off-balance-sheet Ponzi scheme, **IRS Form 3949-A** for fraudulent real-estate depreciation, and **U.S. Postal Inspection Service Form 8165** for sending fraudulent prospectus mailers across state lines to our Virginia address. Because the DOJ hasn't unsealed the criminal indictments yet, Jameson Frost still thinks he's a free man looking for his next C-suite gig."
+"In the flesh," Holly replied, tapping the audio mixer so she, Ryan, Cassidy, Evan, and Tyler could watch and listen to the Floor 38 intake suite in real time from Virginia. "It's been five months since I filed the **Triple Tap** on September 14—**SEC Form TCR** for the `$400 million` off-balance-sheet Ponzi scheme, **IRS Form 3949-A** for fraudulent real-estate depreciation, and **U.S. Postal Inspection Service Form 8165** for sending fraudulent prospectus mailers across state lines to our Virginia address. Because the DOJ hasn't unsealed the criminal indictments yet, Jameson Frost still thinks he's a free man looking for his next C-suite gig."
 
 Down in the ground-floor lobby of `2000 Avenue of the Stars`, **Jameson Frost** strode toward the security turnstiles in a `$3,000` silk suit, reaching instinctively for his hip before remembering that Holly O'Connell had stripped his badge five months earlier.
 
@@ -3100,5 +3106,5 @@ Beside the desk, Justin tapped a final sentence on his **mPad Mini**, letting th
 
 "The interview is over, Jameson," Jessica said, pointing toward the glass door with her free hand. "Go home. Spend time with your family while you still can."
 
-Behind the one-way observation glass down the hall, Ryan O'Connell grinned, exchanged a quiet high-five with Evan and Tyler, and rested his hand over Cassidy's as they watched Jameson Frost stumble back into the Floor 38 elevator—just cargo on the way down.
+Three thousand miles away in the warm control room on **Progress Street NE** in Blacksburg, Ryan O'Connell grinned at the studio monitor, exchanged a quiet high-five with Evan and Tyler, and rested his hand over Cassidy's as they watched Jameson Frost stumble back into the Floor 38 elevator—just cargo on the way down.
 
