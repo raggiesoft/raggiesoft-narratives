@@ -375,56 +375,58 @@ Cassidy was slumped slightly over the battered **Vektron Z-1** they had finally 
 
 "I hear what's missing in my head, Ry," Cassidy murmured. "My left hand is just dragging a little tonight."
 
-"Then don't play a fast run," Ryan said, stepping over to her rig. "Play a signal. Listen to the vocal line: *'We're burning on the fuel of a brand new light.'* That's the pilot calling the tower. What's the ship's computer say back?"
+"Then don't play a fast two-handed run," Ryan said, stepping over to her rig. "Make it a call and response between your voice and the synthesizer. Listen to the chorus line: *'We're burning on the fuel of a brand new light.'* That's the pilot calling the tower—a vocal call straight out into the dark. What does the ship's computer say back?"
 
-Cassidy lifted her chin and looked at the glowing red LED patches on the Vektron Z-1. "A confirmation code."
+Cassidy lifted her chin and looked at the glowing red LED patches on the Vektron Z-1. "A confirmation code. A leitmotif response."
 
-"Exactly," Ryan said. "You're the pilot; the synth is the spacecraft. You declare the trajectory, and the ship answers *affirmative*."
+"Exactly," Ryan said. "You're the pilot; the synth is the spacecraft. You make the vocal call at the top of the phrase, we open up a four-second pocket in the rhythm guitars, and your synthesizer answers *affirmative*."
 
-Cassidy reached up and flipped a metal toggle switch on the Vektron's front panel to **`Brass_Lead_04`**—a bright, punchy dual-oscillator analog brass patch that cut like a laser beam. She leaned into her vocal microphone, her voice clear and resonant despite the late hour:
+Cassidy reached up and flipped a metal toggle switch on the Vektron's front panel to **`Brass_Lead_04`**—a bright, punchy dual-oscillator analog brass patch that cut like a laser beam. She leaned into her vocal microphone, her voice clear, soaring, and resonant despite the late hour:
 
-*"We're burning on the fuel of a brand new light..."*
+*"We're burning on the fuel of a brand new light—Yeah-eh-eh!"*
 
-The instant the word *light* left her lips, her right hand snapped down onto the upper keys in a triumphant, four-note staccato fanfare:
+The instant her soaring wordless vocal call echoed off the basement ceiling, her right hand snapped down onto the upper keys in a triumphant, ascending-and-descending staccato brass leitmotif response:
 
-***Ba-da-DA-da!***
+***Ba-da-DA-da-DAAA!***
 
-Ryan froze in the middle of the basement floor.
+Ryan froze in the middle of the basement floor. The hair on his forearms stood straight up.
 
-"Play that again," Ryan breathed.
+"Play the second half of the chorus," Ryan breathed.
 
-Cassidy sat up straight, the fatigue vanishing from her eyes as the discovery locked into place.
+Cassidy sat up straight behind the keyboard tier, the fatigue vanishing from her eyes as the call-and-response locked into place between her throat and her fingertips.
 
 *"Turning our future on, shining so bright!"*
 
-***Ba-da-DA-da!***
+Again, right on the tail of her vocal call, her right hand fired the gleaming analog synthesizer response—a sparkling melodic turnaround that answered her voice like a living heartbeat inside the machine:
 
-The four-note brass hook punched straight through the middle of the room—bright, defiant, and unmistakably hers.
+***Ba-da-DA-da-DAAA!***
 
-"That's it!" Ryan grinned, swinging his guitar back into position. "Ty, give me four-on-the-floor on the kick drum. Don't overcomplicate the fills—just drive the hull forward. Ev, lock onto the root eighth notes!"
+The brass synth leitmotif punched straight through the middle of the room—joyful, defiant, and unmistakably hers. It wasn't just a keyboard fill anymore; that vocal call and synthesizer leitmotif response was the literal heart of the song.
 
-Tyler stomped the kick pedal—*Thump. Thump. Thump. Thump.*—and the five of them launched into [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine) from the top.
+"That's it!" Ryan grinned, swinging his guitar back into position. "Ty, give me four-on-the-floor on the kick drum, and leave that four-second pocket wide open after *'brand new light'* and *'shining so bright'* so Cass's call and synth response sit right on top of the mix! Ev, lock onto the root eighth notes!"
 
-When the chorus hit the concrete walls of the Progress Street basement, the room pressurized:
+Tyler stomped the kick pedal—*Thump. Thump. Thump. Thump.*—and the four of them launched into [**"The Stardust Engine"**](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine) from the top.
+
+When the chorus hit the concrete walls of the Progress Street basement, the room pressurized around Cassidy's voice and her Vektron Z-1:
 
 > *"We are the Stardust Engine!*  
 > *Racing through the night!*  
 > *We're burning on the fuel of a brand new light!"*  
-> *(**Ba-da-DA-da!**)*  
+> *(**Cassidy's Vocal Call $\rightarrow$ Vektron Z-1 Synth Leitmotif Response: Ba-da-DA-da-DAAA!**)*  
 > *"We are the Stardust Engine!*  
 > *Yeah, we're taking flight!*  
 > *Turning our future on, shining so bright!"*  
-> *(**Ba-da-DA-da!**)*
+> *(**Vektron Z-1 Synth Leitmotif Turnaround: Ba-da-DA-da-DAAA!**)*
 
-Ryan was laughing out loud as he drove the rhythm chords, watching his sister command the room with four brass notes that turned a basement jam into a launch sequence.
+Ryan was laughing out loud as he drove the rhythm chords, watching his eighteen-year-old sister command the room. From that night forward, that chorus call-and-response—her soaring vocal call answered immediately by her synthesizer's gleaming leitmotif—became Cassidy's deepest musical pride and joy: the exact four seconds where her voice and her machine spoke to each other and turned a basement jam into an interstellar launch sequence.
 
 When the final E-major chord rang out and decayed into the hum of the basement dehumidifier, sixteen-year-old **Holly** stood up from the bottom step of the basement stairs, her accounting ledger clutched against her CPI sweatshirt.
 
-"Nobody touches a single note of that arrangement," Holly said, her voice ringing through the quiet basement. "That's the flagship. That's the name on the bass drum, and that's the name on the partnership papers."
+"Nobody ever touches a single note of that call-and-response," Holly said, her voice ringing through the quiet basement. "That leitmotif is the heart of the song. That's the flagship, that's the name on the bass drum, and that's the name on the partnership papers."
 
 "**The Stardust Engine**," Ryan said, wiping the sweat from his forehead and reaching over to give Cassidy's shoulder a steady, grounding squeeze. "Systems nominal, Cass."
 
-Cassidy smiled up at him, her fingers still resting on the Vektron keys. "Systems nominal, Ry."
+Cassidy smiled up at him, her eyes shining as her fingers rested proudly on the Vektron keys. "Systems nominal, Ry."
 
 ## Chapter 3: 'Ignition,' The $1.00 Cross-License & The Apex Years (1986–1989)
 
@@ -546,19 +548,23 @@ Ryan stepped up to the center-stage vocal microphone, planted his sneakers wide,
 
 Tyler cracked four rimshots, and they launched into Track 1: [**"The Stardust Engine"**](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago?track=1-01-the-stardust-engine-live-in-chicago).
 
-For the first forty-five seconds, locked inside the roar of his own stage monitor wedge, Ryan felt the familiar surge of electricity as Evan's bass and Tyler's double-kick drums drove the opening verses.
+For the first fifty seconds, locked inside the roar of his own stage monitor wedge, Ryan felt the familiar surge of electricity as Evan's bass and Tyler's double-kick drums drove the opening verses: *"We found the fire in the wires / We found the heart in the machine..."*
 
-Then they hit the first chorus and the call-and-response guitar-and-synthesizer solo—and Ryan heard the slapback echo returning off the rear concrete wall of the eighteen-thousand-seat arena.
+Then they hit the first chorus (`01:19`)—*"We are the Stardust Engine! / Racing through the night / We're burning on the fuel of a brand new light!"*
 
-His stomach dropped into ice water.
+Right on the tail of *"brand new light!"* (`01:29`), Ryan opened up the rhythm pocket and listened for Cassidy's pride and joy: the soaring vocal call and gleaming analog synthesizer leitmotif response (*Ba-da-DA-da-DAAA!*) that she had written in the Progress Street NE basement in December 1985—the four-second dialogue between her voice and her Vektron synth that gave *"The Stardust Engine"* its heart.
 
-In the house PA speakers hanging from the ceiling trusses, his distorted rhythm guitar and Tyler's snare drum were blasting at full volume—**but Cassidy's upper synthesizer tier was completely gone.**
+Instead, when the slapback echo returned off the rear concrete wall of the eighteen-thousand-seat arena, Ryan's stomach dropped into ice water.
 
-Ten feet to his left, Ryan could see Cassidy's fingers flying across the top keyboard manual, playing the bright, soaring cosmic bell-synth leitmotif that gave the song its heart and its name. It was coming through their onstage floor wedges just fine, which meant her keyboard rack was working perfectly. Out at the Front-of-House console, the label's engineer had deliberately buried her *"Stardust"* synthesizer channel in the main mix—stripping away the progressive space-rock orchestration so they sounded like a generic, stripped-down commercial rock act.
+In the house PA speakers hanging from the ceiling trusses, his distorted rhythm guitar and Tyler's snare drum were blasting at full volume—**but Cassidy's chorus call-and-response was completely gone.**
 
-Ryan's jaw clenched so hard his molars ached. Over on the drum riser, Tyler heard the hollow house slapback at the exact same second.
+Ten feet to his left, Ryan could see Cassidy's right hand striking the upper keyboard manual on cue after *"brand new light!"* and *"shining so bright!"*, playing the bright, brassy cosmic leitmotif response with everything she had. It was coming through their onstage floor wedges just fine, which meant her keyboard rack was working perfectly. Out at the Front-of-House console—and inside the twenty-four-track remote recording truck rolling tape out in the loading dock—the label's engineer had deliberately buried her synthesizer channel and bulldozed the chorus pocket with dry, chugging guitars, erasing the very call-and-response that was Cassidy's greatest musical pride and joy.
 
-When Cassidy finished introducing Track 2 ([**"Neon Hearts"**](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago?track=1-02-neon-hearts-live-in-chicago)) and Tyler counted off the beat, the twins didn't play it at the polite studio tempo. Furious at the sabotaged house mix and at Pembrook standing in the Stage-Right wing tapping his gold watch under the exit sign, Evan and Tyler pushed the rhythm section fifteen beats per minute faster—tearing through *"Neon Hearts"* and straight into Track 3 ([**"Dancing in the Neon"**](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago?track=1-03-dancing-in-the-neon-live-in-chicago)) with the raw, snarling ferocity of a Blacksburg garage band trying to break out of a cage.
+Across the deck, Cassidy heard the hollow, synthless house slapback bouncing off the back of the arena at the exact same second (`02:04`). Dependent on the acoustic return of her synthesizer leitmotif to orient her timing under the roaring stage lights, she visibly faltered in the middle of the second verse—her vocal phrasing scrambling and repeating the verse lines (*"They tried to ground us, keep us small..."*) in momentary disorientation as she looked across the stage at Ryan in heartbreak and confusion before Ryan, Evan, and Tyler locked the downbeat hard to pull her into the second chorus and the guitar solo (`02:46`, where her sparkling synthesizer duet was likewise completely muted from the house mix).
+
+Ryan's jaw clenched so hard his molars ached. Over on the drum riser, Tyler was glaring daggers toward the Front-of-House pit.
+
+When Cassidy finished introducing Track 2 ([**"Neon Hearts"**](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago?track=1-02-neon-hearts-live-in-chicago)) and Tyler counted off the beat, the twins didn't play it at the polite studio tempo. Furious at the sabotaged house mix that had stripped Cassidy's beloved leitmotif out of their signature song—and furious at Pembrook standing in the Stage-Right wing tapping his gold watch under the exit sign—Evan and Tyler pushed the rhythm section fifteen beats per minute faster, tearing through *"Neon Hearts"* and straight into Track 3 ([**"Dancing in the Neon"**](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago?track=1-03-dancing-in-the-neon-live-in-chicago)) with the raw, snarling ferocity of a Blacksburg garage band trying to break out of a cage.
 
 Across the deck behind her three-tier synthesizer rig, however, Cassidy wasn't angry. She was drowning.
 
@@ -732,11 +738,11 @@ Ryan wouldn't let anyone else take the wheel. He knew the tractor-trailers on I-
 
 Behind him, under the dim amber glow of the middle bench's map light, twenty-three-year-old **Cassidy** and twenty-one-year-old **Holly** were looking through the courier packet from **Apex Records** that had been waiting for them before the show.
 
-Spread across their laps were the two newest insults from Sunset Boulevard. The first was a promotional sleeve of [***Live in Chicago***](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago): not only had Apex pressed the lopsided, synth-buried Chicago Front-of-House board tape without letting Ryan or Cassidy near the mixing console, their Los Angeles art department had commissioned a hand-airbrushed pastel-pink and electric-cyan illustration for the cover where Evan and Tyler were reduced to nameless dark silhouettes in pink dry-ice fog while Ryan and Cassidy—dressed in a pastel color-block windbreaker and an acid-wash denim jacket they didn't even own—were painted beneath three glowing neon hearts like a married couple singing a romantic power ballad.
+Spread across their laps were the two newest insults from Sunset Boulevard. The first was a finished promotional copy of [***Live in Chicago***](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago). Earlier that evening, when they had popped the promotional cassette into the van's dashboard deck before leaving Wytheville, listening to Track 1 ([**"The Stardust Engine"**](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago?track=1-01-the-stardust-engine-live-in-chicago)) had broken the entire family's heart—and it had shattered Cassidy's most of all. During every chorus of their signature song, right after *"We're burning on the fuel of a brand new light"* and *"Turning our future on, shining so bright"*, you were supposed to hear Cassidy's soaring vocal call answered immediately by her synthesizer's gleaming brass leitmotif response (*Ba-da-DA-da-DAAA!*)—the four-second musical heartbeat she had created in the Progress Street NE basement in 1985 that was her deepest pride and joy. On the *Live in Chicago* master tape, Apex's engineers had erased it completely, burying her synthesizer channel under dry, chugging guitars so her instrument didn't answer her voice at all. Worse still, to package that gutted recording, the label's Los Angeles art department had commissioned a hand-airbrushed pastel-pink and electric-cyan illustration for the cover where Evan and Tyler were reduced to nameless dark silhouettes in pink dry-ice fog while Ryan and Cassidy—dressed in a pastel color-block windbreaker and an acid-wash denim jacket they didn't even own—were painted beneath three glowing neon hearts like a married couple singing a romantic power ballad.
 
-The second item in the folder explained why Apex had forced that cover onto them. Stamped **`SPRING 1991 PROMOTIONAL ROUTING — REGIONAL SHOPPING CENTER ATRIUM SERIES`**, Arthur Pembrook's newest mandate proposed pulling the four **Commonwealth Polytechnic Institute** graduates off concert stages and sending them on a thirty-city **suburban shopping-mall food-court tour**—playing twenty-minute Saturday afternoon sets over a pre-recorded DAT backing tape between the indoor fountain and the escalator while Evan and Tyler weren't even allowed to bring live drums or bass amplifiers into the retail concourse.
+The second item in the folder explained why Apex had stripped Cassidy's progressive synthesizer leitmotif out of the mix and forced that hand-drawn teen-pop cover onto them. Stamped **`SPRING 1991 PROMOTIONAL ROUTING — REGIONAL SHOPPING CENTER ATRIUM SERIES`**, Arthur Pembrook's newest mandate proposed pulling the four **Commonwealth Polytechnic Institute** graduates off concert stages and sending them on a thirty-city **suburban shopping-mall food-court tour**—playing twenty-minute Saturday afternoon sets over a pre-recorded DAT backing tape between the indoor fountain and the escalator while Evan and Tyler weren't even allowed to bring live drums or bass amplifiers into the retail concourse.
 
-In the middle bench seat, looking down at that grotesque pastel cover and the list of echoing, fluorescent shopping-mall atriums, Cassidy was crying quietly.
+In the middle bench seat, brokenhearted over the erased chorus call-and-response of her favorite song and staring down at that grotesque pastel cover and the list of echoing shopping-mall atriums, Cassidy was crying quietly.
 
 Holly had both arms wrapped tightly around Cassidy's shoulders, holding her sister against her coat and comforting her as best as she could—even though Holly knew, with an ache in her chest, that the person Cassidy really wanted to hold her and anchor her right now was Ryan. From the rear bench seat right behind them, twenty-two-year-old twins **Evan** and **Tyler** leaned forward over the seatback, whispering steady, gentle words of comfort to their cousin.
 
@@ -1666,11 +1672,11 @@ Ryan rolled forward to his mic, looking out at the sea of glowing faces as orbit
 
 "Thirty years ago in 1986," Ryan shouted over the roar, "Evan and Tyler walked into our basement and we wrote our very first song together about the cosmos and the rockets that get you there! Let's hear it, CPI!"
 
-Across center stage, Cassidy's fingers dropped onto her analog synthesizer manual, and the shimmering, cosmic 1986 arpeggio of [**"The Stardust Engine"**](https://music.raggiesoft.com/artists/the-stardust-engine/2016-live-at-the-crucible?track=1-03-the-stardust-engine) cascaded across the stadium.
+Across center stage, Cassidy's fingers dropped onto her analog synthesizer manual, and the shimmering, cosmic 1985 arpeggio of [**"The Stardust Engine"**](https://music.raggiesoft.com/the-stardust-engine/2016-live-at-the-crucible?track=1-03-the-stardust-engine) cascaded across the stadium.
 
-Looking across the stage at his sister, Ryan felt a lump rise in his throat. Thirty years ago, when the four of them had written this song in 1986, they had been too scared to even play it for a talent scout, so they had taken its name as their band name instead—**Stardust** for their love of the cosmos, and **Engine** for the rockets to get you there. Later, when Apex Records signed them, the label's marketing department had twisted that name into a cheap corporate gimmick, branding Cassidy as their *"Stardust"* and Ryan as their *"Engine"*.
+Looking across the stage at his sister, Ryan felt a lump rise in his throat. Thirty years ago in December 1985, when the four of them had constructed this song in the basement on Progress Street NE, Cassidy had created the chorus vocal call and synthesizer leitmotif response (*"You're the pilot; the synth is the spacecraft. You make the vocal call, and the ship answers affirmative"*) that gave the song its heart and gave their band its name—**Stardust** for their love of the cosmos, and **Engine** for the rockets to get you there. In 1989, when Apex Records had muted her beloved chorus leitmotif response out of the [*Live in Chicago*](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago?track=1-01-the-stardust-engine-live-in-chicago) board mix and twisted their band name into a cheap corporate gimmick, it had broken Cassidy's heart—until the family reclaimed it at full arena volume on 1999's [*Hard Reset Live*](https://music.raggiesoft.com/the-stardust-engine/1999-hard-reset-live?track=1-01-the-stardust-engine).
 
-Tonight, backed by three hundred brass and percussion players from their own alma mater, there were no corporate gimmicks left—only the song that had started it all. When Cassidy's vocal soared into the chorus (*"We are the Stardust Engine! / Racing through the night / We're burning on the fuel of a brand new light!"*) and three hundred collegiate trumpets, mellophones, and trombones answered her synthesizer hook in a wall of live brass, Ryan leaned back against his backrest and bent the twentieth fret of his electric guitar toward the Blacksburg stars.
+Tonight, backed by three hundred brass and percussion players from their own alma mater, that 1985 basement call-and-response reached its ultimate stadium apotheosis. When Cassidy's voice soared into the chorus—*"We are the Stardust Engine! / Racing through the night / We're burning on the fuel of a brand new light!"*—and she sent her wordless soprano vocal call ringing into the Blacksburg night (`01:44`, `02:42`, `04:00`), her analog synthesizer didn't answer alone: **the entire trumpet and horn section of the 300-strong CPI Marching Forgers blasted the staccato brass leitmotif response (*Ba-da-DA-da-DAAA!*) in thunderous unison with her keys**, shaking the Ironstone walls of The Crucible as Ryan leaned back against his wheelchair backrest and bent the twentieth fret of his electric guitar toward the stars.
 
 As the final chord echoed across the Blue Ridge foothills, Cassidy saluted the three hundred student musicians:
 
