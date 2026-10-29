@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/david-meredith/David and Meredith - AI Conversation.md",
+                "file": "file:/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/suno-prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "David and Meredith - AI Conversation"
+              "title": "suno-prompts"
             }
           },
           {
@@ -242,7 +242,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e890d18cc4e4511",
+  "active": "b4a1c51f1be497a1",
   "lastOpenFiles": [
     "books-ai-lump/stardust-engine/stardust-engine-pandoc-text.md",
     "books-ai-lump/stardust-engine/stardust-engine-pandoc.md",
