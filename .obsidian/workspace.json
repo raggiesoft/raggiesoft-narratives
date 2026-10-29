@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/suno-prompts.md",
+                "file": "lore/david-meredith/David and Meredith - AI Conversation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "suno-prompts"
+              "title": "David and Meredith - AI Conversation"
             }
           },
           {
@@ -244,6 +244,7 @@
   },
   "active": "b4a1c51f1be497a1",
   "lastOpenFiles": [
+    "file:/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/suno-prompts.md",
     "books-ai-lump/stardust-engine/stardust-engine-pandoc-text.md",
     "books-ai-lump/stardust-engine/stardust-engine-pandoc.md",
     "books-ai-lump/aubrie/aubrie-pandoc-text.md",
@@ -269,7 +270,6 @@
     "books/aubrie/e007/c004/p003.md",
     "books/aubrie/e004/c010/s004.md",
     "books/aubrie/e004/c010/s003.md",
-    "books/aubrie/e004/c010/s002.md",
     "books/aubrie/e004/c010/ovab.json",
     "books/aubrie/e004/c010",
     "books/aubrie/e004/c009/ovab.json",
