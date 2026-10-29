@@ -2988,7 +2988,7 @@ Beside Ryan, Cassidy lifted her head from his shoulder, her eyes shining with pu
 
 **Date:** 2019-02-14 at 10:00 America/Los_Angeles
 
-![Photorealistic scene inside Jameson Frost's former 40th-floor corner office at 2000 Avenue of the Stars—now reborn as Zone C of The Quiet Floor—during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) leading 51-year-old Cassidy O'Connell (reaching up in wide-eyed child-like wonder toward the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair smiling up at his sister, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-former-office-quiet-floor.jpg)
+![Photorealistic scene inside Jameson Frost's former 40th-floor corner office at 2000 Avenue of the Stars—now reborn as Zone C of The Quiet Floor—during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair gesturing to introduce the room and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) alongside 51-year-old Cassidy O'Connell (resting her hand on Ryan's shoulder to ground herself as they smile at each other in front of the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-former-office-quiet-floor.jpg)
 
 ![Twenty-year-old Executive Director Jessica Miller seated comfortably in her titanium manual wheelchair wearing blue jeans, sneakers, black-framed glasses, and a black The Stardust Engine t-shirt, holding her mPad angled toward herself in front of the warm cork-paneled wall reading 'The Jessica Miller Center.' on Floor 38 of 2000 Avenue of the Stars in Century City, Los Angeles.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/jessica-miller.jpg)
 
@@ -3068,13 +3068,13 @@ The massive mahogany power desk was gone. The low-slung leather chairs designed 
 
 In its place stood a living, twelve-foot-tall biophilic wall of lush emerald pillow moss, cascading Boston ferns, and trailing green foliage fed by a silent, zero-splash capillary water drip. Curved natural-oak acoustic sanctuary alcoves with soft sage cushions sat spaced along the perimeter with sixty-inch wheelchair turning circles between them, ready to welcome every janitor, mailroom clerk, and warehouse coordinator in `2000 Avenue of the Stars` as soon as the doors opened at ten o'clock.
 
-Beside Ryan's right wheel, fifty-one-year-old **Cassidy** slowly let go of his push-handle.
+Beside Ryan's right wheel, fifty-one-year-old **Cassidy** stepped into the center of Frost's former office. Her cerebral palsy gait was completely relaxed—zero spasticity, zero tremor—as she brushed her fingertips across the cool, velvety green moss growing over the exact spot where Jameson Frost's desk had once stood, then stepped back to Ryan's side and rested her left hand on his shoulder to ground herself.
 
-Her cerebral palsy gait was completely relaxed—zero spasticity, zero tremor—as she walked three steps into the center of Frost's former office. Behind her glasses, her eyes went wide with that unguarded, teenage wonder that forty years of life had never taken from her. She reached out her right hand and gently brushed her fingertips across the cool, velvety green moss growing over the exact spot where Jameson Frost's desk had once stood.
+Behind her glasses, her eyes shone with that unguarded, teenage wonder that forty years of life had never taken from her as she looked down at her brother with a radiant smile while Jessica gestured proudly toward the living wall from her wheelchair.
 
-"Ry," Cassidy whispered, turning back toward her brother with a radiant smile. "Look at it. He tried to cut the bridge to the planet out of my song... and Jessica grew the planet right inside his office."
+"Ry," Cassidy whispered. "Look at it. He tried to cut the bridge to the planet out of my song... and Jessica grew the planet right inside his office."
 
-Ryan rolled up beside his sister, his throat tightening as he looked from the living green walls out toward the sunlit hills. "Movement IV," Ryan murmured softly. "*Re-entry: The New World.*"
+Ryan looked up at his sister, his throat tightening with emotion as he smiled back at her in the warm glow of the constellation ceiling. "Movement IV," Ryan murmured softly. "*Re-entry: The New World.*"
 
 Beside them, Justin tapped his **mPad Mini**, keeping the volume low for the quiet zone:
 
