@@ -782,9 +782,21 @@ Holly smiled, a glint of pure excitement in her eyes as she tapped the second ha
 
 ***
 
-#### Waking Up at Sunset: The Day Inside the Night
+#### The Family Stateroom: Two King Beds & Waking Up at Sunset
 
-Eight hours later—after Holly closed the *U.S.S. Aethelgard*'s polarized viewport shutters, dimmed the cabin lights to a soothing amber glow, and let all five of them sleep deeply in the quiet bunk lounge from Orbital Hour 16 to Orbital Hour 24—the shipboard coffee maker chimed at **`Stardate 49601.50`**.
+Twenty minutes later, after locking the aft cargo ramp and running through Ryan's evening **Protocol T-10** check, the five of them gathered in the heart of their home away from home: the *U.S.S. Aethelgard*'s **Family Stateroom**.
+
+When Ryan and Holly had drawn up the interior deck plans for the cruiser beneath The Fortress in Blacksburg, they had rejected the standard spacecraft layout of five cramped, isolated solo cabins. Since the days of sharing one bathroom at `124 Draper Road`, camping together on the dining-room floor of the inaccessible Beverly Hills mansion in 1992, and sharing two beds in roadside motels across America, the five of them slept best when they were in the same room.
+
+Instead of separate bunks, the *Aethelgard*'s main living quarters had been built as a single spacious, warm wood-and-brushed-titanium stateroom furnished with **two custom King-sized beds** anchored side-by-side beneath the polarized starboard viewport.
+
+On the right-hand King bed, **Tyler and Evan Wright** kicked off their slippers, pulled the quilt up over their shoulders, and were asleep within ninety seconds.
+
+On the left-hand King bed—with Ryan's ultralight manual wheelchair parked and locked flush against the transfer side of the mattress—the three O'Connell siblings settled into their lifelong **Three-Sibling Guardrail Protocol**. **Ryan** lay in the center of the King mattress, with **Cassidy** tucked in close on his left side and **Holly** tucked in close on his right side, his two sisters acting as warm, living **human bed rails**. Because Ryan had zero sensation or motor control below his `T10` injury line, having Holly on one side and Cassidy on the other meant an involuntary nighttime leg spasm could never pitch him toward the edge of the mattress—and more importantly, it gave both Ryan and Cassidy the continuous, reassuring deep-pressure anchor that let their nervous systems drop straight into restorative sleep without needing cold hospital rails.
+
+Holly tapped the master environmental switch on the headboard to close the polarized viewport shutters against the lingering afternoon sun of Solis-V, dimming the stateroom to a soothing amber glow. Within five minutes, all five of them were breathing in slow, synchronized peace from Orbital Hour 16 to Orbital Hour 24.
+
+Eight hours later, the shipboard coffee maker chimed softly at **`Stardate 49601.50`**.
 
 Rested, refreshed, and holding fresh mugs of hot cocoa and coffee, the five of them gathered in the aft cargo bay as Holly pressed the hatch control to lower the stern ramp.
 
@@ -961,4 +973,438 @@ Because the benign halobacterial brine had a specific gravity of `1.031` and Cae
 Fifty yards out in the bay, a pair of Vesperan **Chorus-Rays** glided lazily beneath the surface, sending a warm, purring F-sharp major triad rippling through the water against their ribs.
 
 Floating on his back between Cassidy and Holly while Tyler and Evan saw who could tread water the highest in point-eight-eight gravity, Ryan looked up past the open cargo ramp of the *U.S.S. Aethelgard*—their home, their studio, and their sanctuary—toward the golden rings of Vespera arching across the sky of a world where the five of them finally belonged.
+
+## Chapter 6: The Singing Lava-Tubes & The 95.5°F Obsidian Cove (Stardate 49602.3)
+
+### The Singing Lava-Tubes & The 95.5°F Obsidian Cove
+
+**Stardate:** 49602.3 • **Harmonic Cycle:** Second Vesperan Orbit • Crown Light Sun-Cycle (120.0 BPM Lock) • **Chronometer:** HC 08:15 (The Basalt Causeway)
+
+![Photorealistic widescreen view on Caelum-IV where a wide, smooth black-basalt lava-tube cavern lined with glowing violet and cyan piezoelectric quartz crystals opens out onto a terraced geothermal caldera filled with steaming turquoise-and-violet mineral water under the ringed gas giant Vespera. On the smooth basalt causeway beside the lower lagoon, youthful 1996-era Ryan O'Connell sits in his manual wheelchair with rear push-handles holding an acoustic guitar, while Cassidy O'Connell rests one hand on his push-handle for balance and dips a handheld hydro-chemical sensor probe into the steaming 95.5°F pool as Holly, Tyler, and Evan check the telemetry.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e002-c006-p001-singing-lava-tube-and-cove.jpg)
+
+Back on Earth, "unspoiled wilderness" almost always meant a place where Ryan O'Connell's manual wheelchair was not invited.
+
+Ever since the December 10, 1990 crash on Interstate 81 had severed his spinal cord at the tenth thoracic vertebra, leaving the pavement in Virginia meant dealing with tree roots that jammed his five-inch front casters, muddy ruts that spun his rear tires, or steep gravel switchbacks that turned a ten-minute walk into an exhausting war of attrition. Apart from the old railroad bed between Christiansburg and Blacksburg—where the nineteenth-century Huckleberry Train had left behind a gentle, level six-mile corridor along the ridge—nature on Earth didn't build trails at a one-to-twenty grade.
+
+On the afternoon of their second orbit on Caelum-IV (**`Stardate 49602.3`**), **Tyler** and **Evan Wright** came trotting back down the eastern headland of Sanctuary Bay with twin grins that meant they had found something extraordinary.
+
+"Ry, Cass—grab your scanner and the acoustic guitar," Tyler called out, tapping the topographical map on Holly's MagnaPad as he caught his breath. "You two aren't going to believe what's behind the Myco-Tower grove. This moon built its own Huckleberry Trail."
+
+Fifteen minutes later, dressed in their lightweight slate-and-teal field survey gear with fresh water bottles clipped to Ryan's frame, the five of them rolled and walked past the giant bioluminescent mushroom canopies at the eastern corner of the beach.
+
+Ryan stopped at the base of the ridge and whistled softly.
+
+Winding up from the coastal terrace into the inland hills was a twelve-foot-wide ribbon of dark, vitrified **pahoehoe ferro-basalt**—an ancient, low-viscosity lava flow that had cooled millions of years ago under Caelum-IV's gentle **`0.88G` (`8.63 m/s²`)** gravity. Because the molten rock had been rich in iron and magnesium and had flowed down a shallow volcanic shelf without turbulent gas bubbles, it had solidified into a continuous, seamless stone causeway with a natural satin-matte texture and a steady **four-percent (`1:25`) incline**.
+
+"Structural LiDAR puts the surface roughness at less than point-eight millimeters," **Holly** reported, walking on Ryan's right side with her MagnaPad angled toward her eyes as she monitored the grade telemetry. "Zero cross-slope, zero loose scree, and no fissures wider than a pencil lead for at least two kilometers inland."
+
+Beside Ryan's left wheel, **Cassidy** rested her right hand lightly on the contoured black rubber **push-handle** rising from Ryan's wheelchair backrest, using her brother's sturdy titanium frame like a rolling walker to steady her cerebral palsy limp on the incline. Ryan wrapped his palms around his anodized push-rims and gave two long, smooth strokes.
+
+In `0.88G`, climbing a four-percent grade felt almost like rolling on flat hardwood back in Studio A. Beneath Ryan's tires and Cassidy's red canvas sneakers, the thin border of subterranean mycelial veins along the edges of the basalt ribbon pulsed in warm crimson and cyan—lighting up twenty feet ahead of their wheels like runway markers guiding them up the hill.
+
+***
+
+#### The Cathedral Tube: A Forty-Five-Second Natural Delay Line
+
+Half a mile up the basalt causeway, the open sky of Vespera's rings met the sheer face of an inland volcanic ridge—and right in the center of the cliff stood a vaulted, thirty-foot archway where the ancient lava river had drained out from beneath its own cooled crust, leaving behind a colossal subterranean **lava-tube tunnel**.
+
+"Hold up at the threshold," Holly said immediately, raising her right hand as the five of them stopped twenty feet outside the arch. "Rule number one: we don't roll into an enclosed subterranean cavity until the sensors clear the air and the roof. On Earth, volcanic lava tubes can trap heavier-than-air carbon dioxide pockets or hydrogen sulfide gas."
+
+While Ryan set his wheel locks and Cassidy kept her hand resting comfortably on his left push-handle, Evan stepped up to the mouth of the archway and aimed the *Aethelgard*'s long-range laser spectrometer and ultrasonic structural probe down the length of the tunnel.
+
+Ten seconds later, the telemetry link on Holly's pad chimed emerald green:
+
+```
+SUBTERRANEAN CAVITY ASSAY // EAST RIDGE LAVA TUBE ("THE CATHEDRAL TUBE")
+Tunnel Dimensions: 9.4m Width x 8.8m Vaulted Arch x 410m Length (Open Both Ends)
+Airflow & Gas Composition: Laminar Through-Draft (21.8% O2 / 0.04% CO2 / 0.000 ppm H2S or Radon)
+Structural Integrity: Vitrified Basalt Arch Reinforced by Piezoelectric Quartz Ribs (Zero Spalling)
+Acoustic Reverberation Time (RT60): 45.2 Seconds (Harmonic Sympathetic Delay)
+HUMAN ENTRY VERDICT: 100% SAFE & BREATHABLE
+```
+
+"Wait a second," Ryan said, squinting at the bottom line of the telemetry readout as he unlocked his brakes. "Did that just say the `RT60` reverb time inside that tunnel is *forty-five seconds*?"
+
+"Look at the walls inside," Cassidy breathed, her eyes wide behind her glasses as they rolled across the threshold into the cool, luminous shade of the tube.
+
+They didn't even need to turn on their headlamps.
+
+Stretching four hundred meters through the heart of the ridge, the arched black-basalt ceiling and walls of **The Cathedral Tube** were lined with thousands of natural, hexagonal columns of translucent **piezoelectric quartz and lavender bio-silica crystals**—ranging from finger-sized needles near the floor to six-foot organ-pipe formations along the crown of the vault. And as the gentle coastal breeze flowed through the open tunnel toward the inland valley beyond, the crystals glowed with a soft, breathing violet-and-cyan luminescence.
+
+Halfway down the smooth stone floor of the tube, Ryan braked his wheelchair to a stop. He unlatched the lightweight carbon-fiber travel case strapped behind his backrest, lifted out his six-string acoustic guitar, and settled the spruce-and-mahogany body high against his chest above his `T10` sensory line.
+
+"Cass," Ryan whispered, looking up at his sister standing beside his left wheel. "Give me a vocal call after I hit the chord."
+
+Ryan brushed his thumb across all six strings in a single, unhurried **F-sharp major ninth** chord, and then muted the strings completely with his palm.
+
+Instead of dying away after two seconds the way a chord did in a normal room, the sound rose into the vaulted crystal ceiling and **came alive**.
+
+As the acoustic pressure wave struck the hexagonal quartz and bio-silica columns, the piezoelectric lattice converted the sound into a shimmering wave of cyan light that raced down the four-hundred-meter tunnel at the speed of sound—and simultaneously reflected the chord back and forth between the tuned crystal ribs like a multi-head analog tape delay set to `120.0 BPM` dotted eighth notes.
+
+*Shimmer... Shimmer... Shimmer... Shimmer...*
+
+Right into the pocket of the living crystal echo, Cassidy rested her left hand on Ryan's push-handle, tilted her head back toward the glowing vault, and sang a soaring, wordless three-note melody—*Ah-ah-AAAH!*
+
+Instantly, the six-foot crystal flutes along the crown of the cavern lit up in warm golden-violet fire and sang her exact three notes back to her—not as a muddy cave echo, but separated into a three-part choir of octave, fifth, and major third that hung suspended in the air for forty-five full seconds while Cassidy laughed out loud in pure, unguarded wonder.
+
+"We don't even need a rackmount digital reverb unit out here," Evan whispered in awe, looking up as the last golden shimmer slowly faded down the far end of the tube. "The mountain is an analog studio."
+
+***
+
+#### The 95.5°F Obsidian Cove: Thermal Sanctuary
+
+Following the smooth basalt floor out the far eastern portal of The Cathedral Tube, the five of them emerged into a hidden, sun-warmed amphitheater—and stopped dead in their tracks.
+
+Tucked into a horseshoe-shaped volcanic caldera sheltered by towering lavender bio-silica fronds and overlooking the distant purple sea was a cascading series of **terraced black-obsidian geothermal pools**. Ribbons of white mineral steam curled lazily into the golden-violet sky under the rings of Vespera as crystal-clear turquoise and amethyst water spilled from one natural stone basin into the next.
+
+For Ryan, the sight of steaming water in the middle of a volcanic caldera triggered two thoughts at once: how incredible that warm water would feel against his back—and how dangerous geothermal vents could be.
+
+Below his tenth thoracic vertebra (`T10`), Ryan's autonomic nervous system could no longer regulate body temperature properly (`poikilothermia`), and because he had zero pain or temperature sensation below his navel, stepping or rolling into water that was even ten degrees too hot could severely scald his legs before his brain ever registered a warning. And on Earth, volcanic hot springs were often laced with sulfuric acid or heavy metals.
+
+"Nobody touches the water until the probe clears it," Holly said, already unclipping the tethered **hydro-chemical and thermal sensor probe** from her MagnaPad. "Tyler, check the upper source vent with the infrared thermometer first."
+
+Tyler aimed his non-contact infrared scanner at the highest steaming basin fifty yards up the terrace. "Upper source vent is bubbling at a hundred and six point two degrees Fahrenheit—a little hot for a long soak. Let's check the big lower lagoon right here by the causeway."
+
+Right beside the smooth basalt path where Ryan's wheels rested, the lowest and widest of the geothermal basins formed a forty-foot-wide crescent lagoon. Where the ancient pahoehoe lava had flowed into the basin, it had formed a natural, wide, gently sloping stone shelf with a rounded lip submerged eighteen inches beneath the water—almost identical to a wheelchair transfer bench.
+
+Holding Ryan's left push-handle with her left hand to steady her balance, Cassidy leaned over the smooth obsidian coping and lowered the stainless-steel tip of the hydro-chemical probe into the clear turquoise-and-violet water of the lower lagoon.
+
+On Holly's MagnaPad, the telemetry lines stabilized and flashed bright emerald green:
+
+```
+GEOTHERMAL HYDRO-CHEMICAL ASSAY // LOWER OBSIDIAN COVE LAGOON
+Thermal Equilibrium: 35.28°C (95.5°F — Constant Tidal-Flex Thermal Buffer)
+pH Balance: 7.92 (Silky Alkaline Mineral Buffer)
+Dissolved Minerals: Magnesium Bicarbonate, Calcium Silicate & Trace Lithium (Zero Sulfur/Acid)
+Toxicity / Heavy Metal Screen: 0.000 ppm (Zero Arsenic, Mercury, or Hydrogen Sulfide)
+Microbial Screen: 100% Benign Thermophilic Cyan-Halobacteria (Non-Pathogenic)
+PROTOCOL T-10 SKIN & THERMAL SAFETY VERDICT: 100% OPTIMAL FOR HUMAN IMMERSION
+```
+
+Ryan stared at the temperature readout on Holly's screen, a slow grin spreading across his face.
+
+"**Ninety-five point five degrees Fahrenheit**," Ryan read aloud, shaking his head in disbelief. "With dissolved magnesium and a natural zero-depth basalt transfer shelf. Did this planet read my physical therapy chart from Star City General?"
+
+"Vespera's gravitational tidal flexing heats the deep aquifer at a constant rate," Cassidy explained happily, her eyes sparkling behind her glasses as she coiled the probe cable back onto its spool, "and by the time the water cascades down through the three upper cooling terraces into this lower lagoon, the thermal exchange locks it at ninety-five point five degrees year-round!"
+
+Twenty minutes later—after changing into their swimsuits on the warm, dry basalt terrace with their usual effortless family closeness—all five of them were soaking in the steaming `95.5°F` mineral water of **The Obsidian Cove**.
+
+Backed up against a natural underwater shelf where a gentle, warm mineral current bubbled against his shoulder blades and lower back, Ryan felt the `95.5°F` magnesium-rich water melt every trace of spasticity and spinal tension out of his frame. Beside him, Cassidy rested her head back against the smooth obsidian coping as the warm thermal water relaxed the cerebral palsy tightness in her calves and ankles, while Holly, Tyler, and Evan floated in a circle around them, watching the golden rings of Vespera shimmer through the rising ribbons of warm mist.
+
+## Chapter 7: Warm Ring-Shadow Rain, Sanctuary Hot Chocolate & The Family Stateroom (Stardate 49602.6)
+
+### Warm Ring-Shadow Rain, Sanctuary Hot Chocolate & The Family Stateroom
+
+**Stardate:** 49602.6 • **Harmonic Cycle:** Second Vesperan Orbit • Early Ring-Night Shower (120.0 BPM Lock) • **Chronometer:** HC 18:20 (First Raindrop on the West Headland)
+
+![Photorealistic widescreen interior view inside the warm wood-and-titanium Family Stateroom aboard the U.S.S. Aethelgard at night while warm violet rain falls against the panoramic viewport overlooking the ringed gas giant Vespera. Inside the shared room are two side-by-side King-sized beds: on the left King bed, youthful 1996-era Ryan O'Connell in navy pajamas sits propped against the pillows in the middle holding a mug of hot chocolate, flanked closely by his sisters Cassidy (on his left) and Holly (on his right) in cozy pajamas acting as his human bed rails, with Ryan's manual wheelchair and its rear push-handles parked right beside the bed; on the right King bed, identical twins Tyler and Evan Wright relax in pajamas with mugs of hot cocoa.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e002-c007-p001-warm-rain-and-family-stateroom.jpg)
+
+For nearly six years since December 10, 1990, the sound of sudden rain hitting the leaves overhead had meant one thing to the O'Connell and Wright family: *get Ryan under a roof immediately*.
+
+Back in Montgomery County, Virginia, a sudden forty-one-degree mountain rainstorm was not a minor inconvenience for a man with a complete **T10 spinal cord injury**. Below his tenth thoracic vertebra, Ryan's autonomic nervous system could neither shiver to generate heat nor constrict blood vessels efficiently against cold water (`T10 poikilothermia`)—and because he had zero temperature sensation below his navel, freezing rain soaking into his trousers or his wheelchair's pressure-relief gel cushion could drop his core temperature into hypothermia or trigger a dangerous **Autonomic Dysreflexia** blood-pressure spike before he ever felt his legs getting cold. Worse still, cold rain turned anodized metal push-rims as slick as wet glass.
+
+So at **`Stardate 49602.6`**—when the five of them were a quarter-mile down the western headland among the towering forty-foot **Bio-Silica Resonance Fronds** and a bank of deep violet clouds drifted across the golden face of Vespera—the first heavy *plop* of a raindrop hitting the basalt path triggered six years of instant muscle memory.
+
+"Rain!" **Evan** called out, immediately reaching into the pack strapped behind Ryan's backrest for the folded waterproof seated rain cape. "Ty, grab the microfiber wheel towels! Hols, how fast can we roll back to the cargo ramp?"
+
+"Three minutes if we take the straight shoreline track," **Holly** said, already stepping closer to Ryan's right wheel while **Cassidy** tightened her left hand on Ryan's rubberized rear **push-handle**.
+
+Ryan had his hands poised on his push-rims to spin the chair around toward the *U.S.S. Aethelgard*—and then he stopped.
+
+A second heavy raindrop, and then a dozen more, had just splashed directly across the bare skin of his forearms and the back of his neck.
+
+Ryan didn't flinch. He looked down at his arm, blinked behind his rain-speckled glasses, and held his right palm flat out toward the sky.
+
+"Hold on, Ev," Ryan said slowly, a look of utter bewilderment crossing his face. "Put the rain cape away. Feel that."
+
+Cassidy held out her free right hand beside Ryan's shoulder as the shower opened up into a gentle, steady curtain of silver-violet drops.
+
+The water falling from the sky wasn't forty-one degrees. It wasn't even cool.
+
+It felt like stepping under a warm, tropical shower head.
+
+At the same instant, Holly looked down at the meteorological telemetry scrolling across her MagnaPad:
+
+```
+ATMOSPHERIC PRECIPITATION ASSAY // SANCTUARY BAY WEST HEADLAND
+Precipitation Temperature: 27.8°C (82.0°F — Warmed by Vesperan Thermal Ocean Currents)
+Rainwater pH & Purity: 7.40 pH Distilled Marine Condensation (Zero Acid / Zero Particulates)
+Wind Velocity: 4.2 mph Laminar Breeze (Zero Wind Chill)
+T10 POIKILOTHERMIA / HYPOTHERMIA RISK: 0.00% (WARMER THAN CABIN AMBIENT)
+```
+
+"Eighty-two degrees Fahrenheit!" Holly read aloud, laughing in amazement as she lowered her hood and let the warm drops splash against her cheeks. "Because Vespera's tidal flexing keeps the ocean currents warm and there are no polar cold fronts on this hemisphere, the rain condenses at eighty-two degrees!"
+
+And before anyone could answer her, the forest around them began to play.
+
+***
+
+#### The Four-Hundred-Foot Marimba in the Sky
+
+As the warm, eighty-two-degree raindrops fell through the canopy of the western grove, they struck thousands of hollow, curved **Bio-Silica Resonance Fronds** arching forty feet above the purple sand.
+
+Because every crystalline stalk and feathery pinna in the grove had grown in mathematical harmonic ratios tuned to `92.50 Hz`, `138.75 Hz`, and `185.00 Hz`, the raindrops didn't make the chaotic white-noise hiss of rain hitting oak leaves on Earth.
+
+Every single raindrop that struck a hollow bio-silica frond rang out like a soft, felt-tipped mallet striking a rosewood **marimba bar** or a tuned glass wind chime.
+
+*Plink-tonk... ding-dong-thrum... plink-tonk-chime...*
+
+Within ten seconds, all five of them were standing and sitting in the middle of a four-hundred-foot-wide, three-dimensional acoustic percussion orchestra. High overhead, tiny droplets pattering against the thin upper pinnae sparkled in sixteenth-note arpeggios of F-sharp major and C-sharp fifth; lower down, heavier drops dripping onto the broad basal arches boomed in warm, resonant bass notes that vibrated right through the titanium frame of Ryan's chair.
+
+Nobody ran for shelter.
+
+Sitting in his manual wheelchair with his high-friction textured push-rims warm and grippy under his thumbs and his seat cushion protected by its breathable waterproof membrane cover, Ryan tilted his head back toward the glowing violet canopy and let the eighty-two-degree rain wash over his face. Right beside his left wheel, Cassidy held onto his rear push-handle and spun half a circle in her red sneakers, her cerebral palsy muscles completely loose and relaxed in the warm shower as she sang a counter-melody to the marimba trees.
+
+"Look at you, Ry!" Tyler grinned, holding both arms out as the warm rain soaked his crew shirt. "Not a single shiver!"
+
+"For six years," Ryan said softly, wiping a warm drop from his glasses with a huge grin, "every time the sky turned gray, I had to go inside. Out here, the rain is an eighty-two-degree concert."
+
+***
+
+#### "Scan First, Trust Second": Brewing Sanctuary Hot Chocolate
+
+On their unhurried roll back along the edge of the eastern Myco-Tower grove as the warm shower tapered off into a fragrant mist, Evan and Tyler paused beside a cluster of low, umbrella-sheltered understory trees whose bark smelled unmistakably like roasted hazelnuts and dark cocoa.
+
+Hanging beneath the dry canopy of the lower Myco-Towers were clusters of ribbed, mahogany-colored seed pods (**Vesperan Velvet-Pods**), right beside smooth-barked root nodules that wept a thick, ivory-white sap into natural basalt cups.
+
+"Tell me my nose isn't lying to me," Evan said, sniffing the air two inches from one of the mahogany pods without touching it. "That smells exactly like the cocoa tin in Aunt Martha's pantry on Progress Street."
+
+"Into the sample bag first," Holly said, holding open a sterile collection pouch. "Nobody tastes a microgram until the ship's mass spectrometer clears the chemistry."
+
+Ten minutes later, inside the warm, dry galley of the *U.S.S. Aethelgard*—after drying off with fresh towels in the crew locker bay and slipping into their soft, dry cotton-and-flannel evening pajamas—the five of them gathered around the laboratory analyzer counter while Holly and Cassidy ran a full molecular chromatography and chirality scan on the roasted interior nibs of the **Velvet-Pods** and the creamy **Myco-Root Nectar**.
+
+On the bulkhead screen, the chemical breakdown lit up in bright emerald green:
+
+```
+CULINARY BOTANICAL ASSAY // VESPERAN VELVET-POD & MYCO-ROOT NECTAR
+Chirality Profile: 100% D-Carbohydrate & L-Amino Acid Compatible (Human Digestible)
+Aromatic Compounds: Natural Vanillin, Methyl-Pyrazines & Cocoa-Ester Analogs
+Alkaloid / Toxin Screen: 0.000 ppm (Zero Toxic Alkaloids, Zero Theobromine Cardiac Spike)
+Myco-Root Nectar Emulsion: 3.6% Benign Plant Lipid, Rich in Calcium & Magnesium
+HUMAN CONSUMPTION VERDICT: 100% SAFE & NUTRITIOUS
+```
+
+"Zero toxic alkaloids, zero cardiac stimulants, and three-point-six percent natural lipid emulsion—the exact fat content of whole milk," Cassidy beamed, reading the screen over Holly's shoulder. "We don't even have to ration our Earth cocoa tins anymore!"
+
+Fifteen minutes later, a rich, velvety pot of **Sanctuary Hot Chocolate**—whisked on the galley induction stove from stone-ground Velvet-Pod nibs and warm Myco-Root milk—was ladled into five ceramic mugs.
+
+***
+
+#### The Family Stateroom: Two King Beds & Human Bed Rails
+
+Carrying their steaming mugs down the wide, zero-threshold companionway, the five of them retired for the night into the heart of their home aboard the *U.S.S. Aethelgard*: **The Family Stateroom**.
+
+To an outsider, it might have seemed unusual that a star-cruiser large enough to cross twelve hundred light-years had been built with only **one** bedroom for all five crew members. To Ryan, Cassidy, Holly, Tyler, and Evan, sleeping in separate rooms would have felt like being stranded in deep space alone.
+
+Ever since childhood at `124 Draper Road`, through their college years under Aunt Martha's roof on **Progress Street NE**, and across a hundred tour-stop motels, the five of them had always slept in one shared room. The *Aethelgard*'s Family Stateroom was the ultimate expression of that lifelong closeness: a spacious, acoustically hushed cabin paneled in warm Appalachian cherry wood and brushed titanium, looking out through a wide starboard viewport at the golden rings of Vespera while the last drops of warm eighty-two-degree rain sparkled against the glass.
+
+Side by side across the cabin floor sat **two custom King-sized beds** built on low, transfer-height platforms.
+
+On the right-hand King bed, **Tyler and Evan Wright** propped two pillows behind their backs in their comfortable crew pajama shirts and lounge trousers, cradling their mugs of Sanctuary Hot Chocolate after a full day of scouting trails and climbing ridges.
+
+On the left-hand King bed, **Ryan** rolled his manual wheelchair right up alongside the mattress, locked his brakes (leaving the wheelchair and its rear push-handles parked within easy reach right beside the bed), and transferred smoothly onto the center of the quilt.
+
+As soon as Ryan was settled in the middle of the King bed in his navy flannel pajamas, **Cassidy** climbed in on his left side and **Holly** climbed in on his right side—executing their lifelong **Three-Sibling Guardrail Protocol** where Ryan's two sisters slept on either side of him as warm, living **human bed rails**.
+
+Because Ryan had zero sensation or motor control below his `T10` injury line, an unexpected nighttime leg spasm on an open mattress could easily roll him toward the edge without him feeling it until he fell; and after Star City General Hospital in 1991, Ryan had sworn he would never sleep behind cold metal hospital bed rails again. With Cassidy tucked in close along his left hip and Holly tucked in close along his right, Ryan was completely bracketed in safety—and Cassidy, whose cerebral palsy muscles and autistic sensory system always quieted down the moment she felt her older brother's spine beside hers, had her Safe Person right at her shoulder all night long.
+
+"Toast to the first rainstorm we didn't have to run from," Tyler said from the right-hand King bed, raising his ceramic mug across the narrow aisle between the two mattresses.
+
+"And to ninety-five-point-five degrees in the Obsidian Cove," Evan added, clinking his mug against his twin brother's.
+
+Sitting in the center of the left-hand King bed with Cassidy leaning warmly against his left shoulder and Holly resting her head against his right shoulder, Ryan took a slow sip of the rich, warm Sanctuary Hot Chocolate and looked out the viewport at the glowing rings of Vespera.
+
+"And to home," Ryan said softly.
+
+## Chapter 8: Syzygy Low Tide & The Three-Hour Glass Reef Window (Stardate 49603.1)
+
+### Syzygy Low Tide & The Three-Hour Glass Reef Window
+
+**Stardate:** 49603.1 • **Harmonic Cycle:** Third Vesperan Orbit • Lumen–Umbra Vertical Syzygy (120.0 BPM Lock) • **Chronometer:** HC 03:00 (Tide Recession & Protocol T-10 Sync)
+
+![Photorealistic widescreen view on Caelum-IV during Syzygy Low Tide, where the purple ocean has receded half a mile to expose a mirror-smooth seabed plaza of amethyst and cyan bio-silica crystal dotted with glowing spiral tide-pools under the vertically aligned shepherd moons Lumen and Umbra in front of Vespera's golden rings. Youthful 1996-era Ryan O'Connell propels his manual wheelchair with his hands on the wheel rims while Cassidy O'Connell walks right beside him resting her hand on his wheelchair push-handle like a walker; Tyler and Evan Wright kneel by a glowing spiral crystal pool with a boom microphone, and Holly O'Connell checks her MagnaPad.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e002-c008-p001-syzygy-glass-reef.jpg)
+
+Every logistics plan Holly O'Connell had written since January 1991—whether for a courtroom recess in Los Angeles, a cross-country highway run, or an extra-vehicular survey on a moon twelve hundred light-years from Virginia—was built around the **Four-Hour Clock** of **Protocol T-10**.
+
+Because Ryan's tenth thoracic spinal cord injury meant his brain could no longer feel when his bladder was reaching capacity, four hours was the ironclad outer boundary between clean intermittent catheterization (`IC`) checks, punctuated every fifteen minutes by Cassidy's silent tap on his shoulder reminding him to press down on his push-rims and lift his hips clear of the seat cushion for thirty seconds.
+
+So on the morning of their third forty-eight-hour orbit around Vespera (**`Stardate 49603.1`**), when the *U.S.S. Aethelgard*'s orbital tide computer chimed with an astronomical alignment alert, Holly couldn't help smiling at how neatly the cosmos had synchronized itself to her brother's binder.
+
+Out beyond the open cargo hatch, in the golden-violet sky beneath the colossal arch of Vespera's icy rings, the two pearl-bright shepherd moons—**Lumen** and **Umbra**—were gliding into an exact vertical line directly above the center of Sanctuary Bay.
+
+> **GRAVITATIONAL & TIDAL TELEMETRY // U.S.S. AETHELGARD — COMMAND LOG**<br>
+> **Stardate:** **`49603.1`** (`Orbit 3` • `Lumen–Umbra 2:1 Orbital Resonance Syzygy`)<br>
+> **Tidal Phenomenon:** **Syzygy Low Tide** — Combined gravitational vector pulls Sanctuary Bay's halobacterial ocean seaward by **820 meters (`0.51 miles`)**.<br>
+> **Safe Excursion Window:** **`180.0 Minutes` (`3.0 Hours` — Strict Hard-Stop at `T+150 Minutes`)**<br>
+> **Exposed Seabed Substrate:** Vitrified Bio-Silica & Aragonite Reef Plate (`6.4 kg/cm²` Bearing Capacity — Zero Slip)
+
+"Look at the tide line," **Tyler** called from the foot of the titanium landing ramp, shading his eyes as he looked out across the bay. "The ocean isn't just dropping—it's rolling out like a purple stage curtain."
+
+All five of them watched from the ramp threshold in quiet amazement.
+
+Pulled seaward by the combined gravitational tug of **Lumen** and **Umbra** locking into vertical syzygy beneath Vespera, the luminous violet surf of Sanctuary Bay was receding smoothly and without turbulence down a half-mile-wide gentle slope—revealing a vast underwater plaza that had been hidden twenty feet beneath the waves since they landed.
+
+It wasn't mud, wet kelp, or jagged coral.
+
+Stretching half a mile out toward the deeper reef wall was a seamless, mirror-flat pavement of **iridescent amethyst and cyan bio-silica crystal**—a living geological terrace grown layer by microscopic layer over millions of years by symbiotic reef-building microbes. And recessed into that gleaming crystal floor every fifty yards were wide, shallow **spiral tide-pool basins** shaped like the logarithmic spiral of a nautilus shell or the grooves of a giant vinyl record, glowing from within in concentric rings of cyan and magenta light.
+
+"Wait until we verify the friction coefficient before anyone steps off the basalt sand," Holly said automatically, stepping down to the newly exposed border where the dark purple beach met the gleaming crystal reef plate.
+
+She knelt on one knee and pressed the penetrometer and surface-friction pad of her field sensor unit flat against the wet amethyst crystal.
+
+To her surprise, the surface wasn't slimy or slick like wet terrestrial rock. The microscopic crystalline lattice of the bio-silica reef was textured like fine-grit diamond hone—draining surface water instantly through micro-capillary pores while offering higher tire and boot traction than dry brushed concrete.
+
+"Bearing capacity is six point four kilograms per square centimeter, and wet dynamic friction is point-eight-five," Holly announced, looking back at Ryan and Cassidy with a nod of approval. "Zero algae slime, zero sharp spines, and zero chemical irritants in the tide pools. We have a strict three-hour window before the moons separate and the tide rolls back in. Protocol T-10 clock is freshly reset at zero-zero, so our hard turn-around mark is two hours and thirty minutes."
+
+"Two hours and thirty minutes," Ryan agreed, tapping his wristwatch synchronous timer as Cassidy stepped up beside his left wheel and took hold of the contoured black rubber **push-handle** rising from his backrest. "Let's go see what the ocean left on the floor."
+
+***
+
+#### Rolling on the Bottom of the Sea
+
+Rolling out onto the exposed **Glass Reef** at `0.88G` felt like gliding across the surface of a giant violet mirror floating in space.
+
+Because a millimeter-thin film of clear mineral water still shimmered inside the micro-channels of the crystal pavement, the entire half-mile plaza reflected the sky above—so that as Ryan propelled his manual wheelchair forward with smooth strokes of his palms on the push-rims and Cassidy walked right beside him using his push-handle like a rolling walker to steady her cerebral palsy limp, it looked as though they were rolling directly across the golden rings of Vespera and the twin silver spheres of **Lumen** and **Umbra**.
+
+Two hundred yards out from the dry beach, **Evan** and **Tyler** stopped beside the largest of the recessed **spiral crystal tide-pools** and waved Ryan, Cassidy, and Holly over.
+
+"Cass, Ry—listen to the pool," Evan said quietly, kneeling on the crystal rim as he and Tyler unfolded a compact tripod boom stand and aimed a directional condenser microphone toward the center of the glowing spiral basin.
+
+Ryan braked his wheels six inches from the rim of the shallow spiral pool, and Cassidy leaned slightly forward while keeping her left hand anchored on Ryan's push-handle.
+
+The water inside the spiral basin wasn't sitting still.
+
+Driven by the `2.000 Hz` (`120.0 BPM`) micro-seismic pulse of the moon's crust and the laminar breeze blowing across the raised spiral flutes of the crystal rim, a continuous, delicate standing wave was circulating around the logarithmic spiral from the outer edge to the glowing cyan center. And as the water glided through the microscopic ridges milled into the crystal wall of the basin, the tide pool **sang**.
+
+Out of the water rose a multi-layered, contrapuntal choir of deep sub-bass fifths (`F#1` and `C#2`), warm mid-range cello-like overtones, and shimmering high bell harmonics.
+
+"I know that chord progression," Ryan whispered, his eyes widening behind his glasses as his fingers unconsciously traced the intervals against his push-rim. "That's the exact four-part phrase the **Vesperan Chorus-Rays** sang when they breached outside the reef on Orbit One—except there are dozens of older variations layered underneath it."
+
+Cassidy's breath caught as she read the high-resolution acoustic spectrogram on her handheld unit, then looked over at Holly's MagnaPad.
+
+"It's a biological phonograph," Cassidy said, her voice trembling with pure awe. "When the Chorus-Rays swim over this reef at high tide and sing into the water, the acoustic pressure waves guide how the bio-silica microbes deposit new crystal layers along the spiral walls—literally etching the waveform into the stone! And when Syzygy Low Tide exposes the basins to the breeze every forty-eight hours, the wind and water trace the spiral grooves and play the ocean's memory back to the sky."
+
+For the next ninety minutes out on the gleaming crystal seabed—pausing every fifteen minutes on the dot when Cassidy gave Ryan's left shoulder a single gentle tap so he could lock his elbows and lift his torso clear of the cushion for thirty seconds—the five of them recorded the ancient harmonic archive of the **Glass Reef**.
+
+At `T+140 minutes`, ten minutes ahead of Holly's hard turn-around mark, the two shepherd moons overhead began to drift out of vertical alignment. Far out at the seaward lip of the reef, a gentle, two-inch ribbon of royal-purple foam began its slow, rhythmic return across the crystal plaza at a leisurely walking pace.
+
+"Time to head up the ramp, team," Holly called out, stowing the digital recorder packs into the cargo pouch as Tyler and Evan folded the microphone tripod.
+
+With Cassidy's right hand resting lightly on Ryan's rear push-handle and Ryan's palms driving the anodized push-rims across the mirror-smooth amethyst crystal, the five of them rolled and walked unhurriedly back up onto the dark basaltic beach—reaching the open cargo ramp of the *U.S.S. Aethelgard* with thirty-five minutes to spare on both the returning violet tide and **Protocol T-10**.
+
+## Chapter 9: The Mother-Grove Amphitheater & The Unburied Leitmotif (Stardate 49603.5)
+
+### The Mother-Grove Amphitheater & The Unburied Leitmotif
+
+**Stardate:** 49603.5 • **Harmonic Cycle:** Third Vesperan Orbit • Full Vespera Ring-Night (120.0 BPM Lock) • **Chronometer:** HC 25:10 (Following the Converging Veins)
+
+![Photorealistic widescreen view inside the natural tiered black-basalt Mother-Grove Amphitheater on Caelum-IV during Golden-Violet Ring-Night under the giant illuminated disk and rings of Vespera. Encircled by towering 100-foot glowing lavender Bio-Silica Resonance Fronds and giant bioluminescent Myco-Towers with crimson-and-cyan mycelial veins converging across the smooth stone floor, youthful 1996-era Cassidy O'Connell sings into a vintage microphone while playing her analog synthesizer rig beside Ryan O'Connell in his manual wheelchair playing his cherry-sunburst electric guitar, backed by Evan on bass, Tyler on drums, and Holly at the field mixing console as golden-and-cyan acoustic shimmer waves ripple up the crystal fronds.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e002-c009-p001-mother-grove-amphitheater.jpg)
+
+In December 1985, down in the damp concrete basement of **Aunt Martha Wright's** farmhouse on **Progress Street NE** in Blacksburg, eighteen-year-old Cassidy O'Connell had flipped a toggle switch on a secondhand **Vektron Z-1** synthesizer and created the four seconds of music that meant more to her than anything else she had ever written.
+
+It was a call-and-response in the chorus of [**"The Stardust Engine"**](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-01-the-stardust-engine): right after her soaring vocal call—*"We're burning on the fuel of a brand new light!"* and *"Turning our future on, shining so bright!"*—Ryan, Evan, and Tyler opened up a four-second pocket in the rhythm section so Cassidy's right hand could fire back a gleaming, chime-like electric-piano synthesizer leitmotif response:
+
+***Ba-da-DA-da-DAAA!***
+
+To Cassidy, that four-second dialogue between her voice and her synthesizer was the literal heart of the band: the human pilot calling out into the dark, and the spacecraft answering *affirmative*.
+
+And four years later—on October 14, 1989 at **The Midwest Horizon Arena** in Chicago, preserved forever on the gut-wrenching master tape of [***Live in Chicago***](https://music.raggiesoft.com/the-stardust-engine/1990-live-in-chicago)—Apex Records' engineers had deliberately muted her synthesizer channel in the house PA and on the twenty-four-track recording truck, burying her beloved chorus leitmotif under dry guitars until she had broken down crying in Ryan's arms backstage.
+
+Even after they won their masters back, some small, quiet part of Cassidy had always wondered if there was a stage big enough in the universe where her synthesizer leitmotif could ring out at full volume without anyone ever reaching for a mute button.
+
+On the night side of their third forty-eight-hour orbit on Caelum-IV (**`Stardate 49603.5`**, right as the sun **Solis-V** dipped below the horizon and **Full Vespera** blazed overhead in twenty-four hours of Golden-Violet Ring-Night), the mycelial network beneath their feet showed them where to bring their instruments.
+
+***
+
+#### Where All the Veins Converge: The Mother-Grove
+
+For three orbits, **Holly** had been mapping the subterranean **crimson-and-cyan mycelial root matrix** across the peninsula on her MagnaPad.
+
+"Look at the vector map," Holly said as the five of them stood by the eastern trailhead with the *U.S.S. Aethelgard*'s motorized, low-profile acoustic gear cart hitched behind Tyler and Evan's survey packs. "Every single mycelial pathway from the crescent beach, the Cathedral Lava-Tube, and the Obsidian Cove converges half a kilometer further up the basalt causeway inside a circular depression in the highland ridge."
+
+"A central hub," **Ryan** said, gripping his anodized push-rims as Cassidy rested her right hand lightly on his left rear **push-handle** to steady her cerebral palsy gait for the gentle climb. "Let's go meet the main board."
+
+Following the twelve-foot-wide ribbon of smooth volcanic basalt up the gentle four-percent incline under the golden lantern of Full Vespera, they passed through a natural stone cleft between two basalt bluffs—and stepped out onto the floor of **The Mother-Grove Amphitheater**.
+
+Every single one of them stopped breathing for a second.
+
+Carved by ancient volcanic cooling into a natural, three-hundred-foot-wide semicircular bowl with curved, tiered basalt ledges rising up the surrounding hillsides like stadium seating, the canyon looked like an untouched, living twin of **The Crucible** back at Commonwealth Polytechnic Institute.
+
+Except instead of concrete bleachers and steel floodlight towers, the rim of the amphitheater was crowned by the oldest and tallest flora on the peninsula: hundred-foot-tall **Elder Bio-Silica Resonance Fronds** that arched toward the stars like cathedral spires of glowing amethyst crystal, alternating with colossal fifty-foot **Myco-Tower** canopies whose undersides pulsed in warm magenta and violet bioluminescence.
+
+And across the dead-flat, circular black-basalt floor at the center of the amphitheater, thousands of subterranean **crimson-and-cyan mycelial veins** converged into a giant, glowing geometric rose right beneath Ryan's four wheelchair tires and Cassidy's red canvas sneakers.
+
+> **ACOUSTIC & BIOSPHERIC TELEMETRY // THE MOTHER-GROVE AMPHITHEATER**<br>
+> **Stardate:** **`49603.5`** (`Third Orbit Ring-Night` • `Full Vespera Zenith`)<br>
+> **Natural Geometry:** 100m Semicircular Parabolic Basalt Bowl (`Zero Slapback Flutter — Pure Harmonic Focus`)<br>
+> **Perimeter Flora:** 30-Meter Elder Bio-Silica Resonance Fronds (`Tuned Across 4 Octaves`) + Giant Bioluminescent Myco-Towers<br>
+> **Biospheric Status:** **Central Node of "The Weave"** — Waiting at `120.000 BPM` (`2.000 Hz`)
+
+"Holly," Ryan said softly, looking around the glowing canyon walls as the crimson and cyan veins beneath his wheels pulsed in a slow, welcoming `120.0 BPM` heartbeat. "Tell me the battery cells on the field mixer are at a hundred percent."
+
+"One hundred percent, plus solar-inductive charge from the ship's bus," Holly grinned, already unlatching the compact field mixing console on its waist-high road case at the starboard edge of the stone stage. "And I promise you right now, Cass: nobody in this canyon is touching your fader."
+
+***
+
+#### The Unburied Leitmotif
+
+Within fifteen minutes, the center of the Mother-Grove looked like Aunt Martha's basement on Progress Street NE transplanted beneath the rings of another world.
+
+In the center-left of the glowing mycelial floor stood **Cassidy** behind her portable two-tier analog synthesizer keyboard stand, with a vintage silver condenser microphone angled at her lips. Two feet to her right sat **Ryan** in his ultralight manual wheelchair (with its rear push-handles rising behind his shoulders and the right armrest unbolted for picking clearance), his cherished cherry-sunburst **Sainte-Claire** solid-body electric guitar strapped high across his chest above his `T10` line. To their left stood **Evan** with his sunburst four-string electric bass, and right behind them sat **Tyler** behind his portable acoustic drum kit.
+
+Above them, spanning thirty degrees of the night sky, the ringed gas giant **Vespera** hung crowned in a luminous halo of golden-violet ringlight.
+
+Ryan looked across the two feet of glowing basalt between his wheelchair and Cassidy's keyboard tier.
+
+"What do you say, Cass?" Ryan asked quietly. "Track 13—the way we wrote it in the basement in December '85, and the way Chicago was supposed to hear it."
+
+Cassidy looked at her older brother, then down at the black-and-white keys of her synthesizer. She reached up and switched the lead patch to **`Chime_EP_Lead_04`**—the bright, chime-like electric-piano bell-synthesizer lead layered over a warm analog sawtooth pad.
+
+"Hit it, Ty," Cassidy said, her voice clear and steady.
+
+Tyler clicked his hickory drumsticks four times against the rim—*One, two, three, four!*—locked dead onto the planet's `120.0 BPM` pulse, and the four of them launched into [**"The Stardust Engine"**](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-01-the-stardust-engine).
+
+As Evan's driving eighth-note bassline and Ryan's crisp, overdriven rhythm guitar rolled across the basalt floor, the subterranean mycelial veins beneath their cables lit up in a synchronous wave of crimson and electric cyan, carrying the rhythm straight up the trunks of the surrounding Myco-Towers.
+
+Then they hit the first chorus.
+
+Cassidy leaned into the condenser microphone, her eyes fixed on the blazing rings of Vespera above the canyon rim, and sang with all the unguarded joy in her soul:
+
+> *"We are the Stardust Engine!*  
+> *Racing through the night!*  
+> *We're burning on the fuel of a brand new light—Yeah-eh-eh!"*
+
+Right on the tail of *"brand new light!"*, Ryan, Evan, and Tyler opened up the four-second pocket wide—and Cassidy's right hand snapped down onto the upper keys to fire her gleaming chime-synth leitmotif response:
+
+***Ba-da-DA-da-DAAA!***
+
+This time, there was no hostile engineer at a Front-of-House board to mute her channel.
+
+As the bright, chime-like synthesizer melody rang out from the field speakers at the center of the bowl, **the entire Mother-Grove Amphitheater answered her**.
+
+All around the three-hundred-foot canyon rim, the hundred-foot crystal spires of the **Elder Bio-Silica Resonance Fronds** caught the exact fundamental frequencies of Cassidy's synthesizer patch. Excited into immediate sympathetic resonance, the towering lavender crystal flutes lit up from base to tip in cascading ribbons of golden and cyan light—and sang her four-second leitmotif straight back across the valley at the volume of a sixty-five-thousand-seat stadium:
+
+***BA-DA-DA-DA-DAAA!***
+
+Cassidy gasped in sheer, breathless delight as the living canyon held her synthesizer melody in the air above them, wrapping her keyboard rig and Ryan's wheelchair inside a cathedral of shimmering crystal brass and bell overtones.
+
+She didn't falter for a millisecond. Beaming through happy tears behind her glasses, she sang the second half of the chorus into the glowing night:
+
+> *"We are the Stardust Engine!*  
+> *Yeah, we're taking flight!*  
+> *Turning our future on, shining so bright!"*
+
+And as her right hand struck the turnaround on the keys, the hundred-foot crystal fronds of Caelum-IV roared the confirmation code back to the stars together with her:
+
+***BA-DA-DA-DA-DAAA!***
+
+Over by the mixing console, Holly had both hands raised in the air, laughing through tears of fierce pride as the meter bridge glowed solid green. On the drum riser, Tyler was grinning so hard he nearly dropped a stick, while Evan leaned back beside Ryan's wheel as Ryan stepped into the guitar solo—playing side by side with Cassidy's sparkling synthesizer duet while the entire living valley harmonized every bend and every note.
+
+When the final E-major chord rang out across the Mother-Grove and echoed for forty-five seconds up into the golden rings of Vespera, Cassidy stepped out from behind her keyboard tier, walked the two steps over to Ryan's wheelchair, and wrapped her arms around her brother's shoulders while resting her hand on his push-handle.
+
+"Did you hear that, Ry?" Cassidy whispered, her face radiant in the bioluminescent glow of the canyon. "The whole planet played the call-and-response with me."
+
+Ryan reached up and squeezed her hand tightly against his shoulder, looking up at the hundred-foot crystal fronds still humming softly in the key of E major under the rings of Vespera.
+
+"Nobody's ever muting your channel again, Cass," Ryan said softly. "Welcome to our home stage."
 

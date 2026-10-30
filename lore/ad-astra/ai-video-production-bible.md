@@ -31,7 +31,14 @@
      - **Launch & Shipboard Studio (`e001`):** Maroon-and-orange `CPI` ringer t-shirts, blue jeans/khakis, canvas sneakers, and open olive/charcoal flight jackets.
      - **Planetary Exploration (`e002`):** Sleek futuristic deep-space survey outfits—charcoal, slate-blue, and silver technical tunics, field vests with glowing cyan status badges, and utility trousers/shorts (matching `e001-c001-p001-caelum-iv-landing.jpg`).
      - **Shipboard Off-Duty & Swimming:** Casual loungewear or swimming attire.
-   - **Ryan's T10 Paraplegia ADLs (`Protocol T-10`) & Changing Routine:** All four family members (Cassidy, Holly, Tyler, and Evan) were trained by the rehabilitation nurses at **Star City General Hospital** in Roanoke (`Jan–Feb 1991`) and are fully comfortable helping Ryan with his **Activities of Daily Living (`ADLs`)** (getting dressed/changed, 15-minute weight-shift spot checks, transfers, and 4-hour intermittent catheterization / toileting routines). Ryan prefers **Cassidy** to help him with getting changed and toileting routines because he knows **he is her autistic safe person** (and she has served as his `Protocol T-10` Spotter since December 1990). When getting changed in the locker bay or stripping down to swim in the purple ocean, the five family members have **zero need for privacy from one another**.
+   - **Ryan's T10 Paraplegia ADLs (`Protocol T-10`), Changing Routine & Visual Dignity Rule (CRITICAL SAFETY RULE):**
+     - **Narrative Prose Canon:** All four family members (Cassidy, Holly, Tyler, and Evan) were trained by the rehabilitation nurses at **Star City General Hospital** in Roanoke (`Jan–Feb 1991`) and are fully comfortable helping Ryan with his **Activities of Daily Living (`ADLs`)** (getting dressed/changed, 15-minute weight-shift spot checks, transfers, and 4-hour intermittent catheterization / toileting routines). Ryan prefers **Cassidy** to help him with getting changed and toileting routines because he knows **he is her autistic safe person** (and she has served as his `Protocol T-10` Spotter since December 1990). When getting changed in the locker bay or stripping down to swim in the purple ocean, the five family members have **zero need for privacy from one another**.
+     - **Strict Visual Safety & Dignity Rule for AI Image/Video Generation:** **NEVER** generate images or video keyframes depicting ADLs, toileting routines, or getting changed/undressed in progress. This both strictly complies with safety guidelines and preserves Ryan's dignity at all times. In all visual renders, characters must already be fully and modestly dressed for the scene (e.g., in their survey outfits, `CPI` shirts, modest athletic swimwear already in the water/by the shore, or cozy flannel/cotton pajamas in the Family Stateroom).
+
+5. **The Family Stateroom (`Two King Beds` & Human Bed Rails Canon):**
+   - The *U.S.S. Aethelgard* is the family's home away from home, and all **five** crew members sleep together in **one shared room** (**The Family Stateroom**), furnished with **two side-by-side King-sized beds** beneath a panoramic viewport overlooking Vespera (`e002-c007-p001-warm-rain-and-family-stateroom.jpg`):
+     - **King Bed 1 (The Three-Sibling Guardrail Protocol):** **Ryan** sleeps in the center of the first King bed, with **Cassidy** on one side of him and **Holly** on the other side of him acting as warm, living **human bed rails** (so an involuntary nighttime leg spasm below `T10` can never roll Ryan off the edge of the mattress without needing cold hospital rails, and so Ryan and Cassidy have continuous deep-pressure grounding through the night). Ryan's empty manual wheelchair (with its rear push-handles) is always parked and locked flush beside the transfer edge of his bed.
+     - **King Bed 2 (The Wright Twins):** **Tyler and Evan** sleep in the second King bed right beside them in the same room.
 
 ---
 
@@ -74,4 +81,33 @@
     - `/raggiesoft-assets/raggiesoft-books/images/scenes/ad-astra/e002-c002-p001-acoustic-forest-shore.jpg`
     - `/raggiesoft-assets/raggiesoft-books/images/scenes/ad-astra/e002-c004-p001-umbral-hush-ring-night.jpg`
   - **Visual Action:** The aft cargo ramp lowers onto the firm purple basaltic beach in **`0.88G`**. Ryan propels his wheelchair down the ramp onto the purple sand while Cassidy walks beside him steadying her gait on his push-handle. As Ryan's tires and Cassidy's shoes touch the coastal soil, crimson-and-cyan bioluminescent mycelial veins light up beneath them, the 40-foot lavender bio-silica fronds chime in pure fifths, and Vesperan Chorus-Rays breach in the bay under the giant golden rings of Vespera.
+
+---
+
+## 3. Episodic Short Film Storyboards: Exploring Caelum-IV (`Book 1: Sanctuary on Caelum-IV`, Chapters 4–9)
+
+1. **Episode 1 — *The 48-Hour Orbit & The Umbral Hush* (`books/ad-astra/e002/c004` • `Stardate 49601.5`):**
+   - **Key Visual Reference:** `/raggiesoft-assets/raggiesoft-books/images/scenes/ad-astra/e002-c004-p001-umbral-hush-ring-night.jpg`
+   - **Synopsis:** Adapting from a 24-hour Earth circadian rhythm to Caelum-IV's **48.0-hour tidally locked orbit** around Vespera (`24h Sun-Cycle` + `24h Golden-Violet Ring-Night`), sleeping in the **Family Stateroom** (Two King Beds) from Orbital Hour 16 to 24, waking up at sunset for a full waking day inside Ring-Night, and witnessing the 90-minute **Umbral Hush** eclipse when the entire biosphere lights up at `120.0 BPM`.
+
+2. **Episode 2 — *`0.88G` Calibration, Water Scans & Swimming in the Purple Sea* (`books/ad-astra/e002/c005` • `Stardate 49602.1`):**
+   - **Key Visual Reference:** `/raggiesoft-assets/raggiesoft-books/images/scenes/ad-astra/e002-c005-p001-purple-ocean-swim-and-scan.jpg`
+   - **Synopsis:** Experiencing the biomechanical relief of **`0.88G` (`8.63 m/s²`)** on their bodies (Ryan recalibrating his `1.00G` curb-wheelie torque, Cassidy walking two miles with reduced cerebral palsy spasticity while holding Ryan's push-handles, everyone gaining half an inch in spinal height), running scientific assays on the purple halobacterial ocean (`78.4°F`, `3.82%` mineral brine) and glowing **Lantern-Berries** ("Scan First, Trust Second"), and swimming weightlessly together in the buoyant amethyst bay.
+
+3. **Episode 3 — *The Singing Lava-Tubes & The `95.5°F` Obsidian Cove* (`books/ad-astra/e002/c006` • `Stardate 49602.3`):**
+   - **Key Visual Reference:** `/raggiesoft-assets/raggiesoft-books/images/scenes/ad-astra/e002-c006-p001-singing-lava-tube-and-cove.jpg`
+   - **Synopsis:** Rolling inland up a ribbon-smooth pahoehoe basalt causeway (`1:25` grade—an alien mirror of the **Huckleberry Trail**), passing through **The Cathedral Tube** (a piezoelectric quartz and bio-silica lava tube with a 45.2-second harmonic tape-delay reverb), and scanning a terraced geothermal caldera whose lower zero-depth lagoon is buffered at a constant **`95.5°F`** (`pH 7.92`)—giving Ryan and Cassidy their own natural open-air **Warm Water Therapy Cove**.
+
+4. **Episode 4 — *Warm Ring-Shadow Rain, Sanctuary Hot Chocolate & The Family Stateroom* (`books/ad-astra/e002/c007` • `Stardate 49602.6`):**
+   - **Key Visual Reference:** `/raggiesoft-assets/raggiesoft-books/images/scenes/ad-astra/e002-c007-p001-warm-rain-and-family-stateroom.jpg`
+   - **Synopsis:** Unlearning the fear of `41°F` mountain rain (`T10 poikilothermia`) when Sanctuary's rain falls at a tropical **`82.0°F`** and turns the 40-foot Bio-Silica Resonance Fronds into a giant marimba orchestra; scanning native **Vesperan Velvet-Pods** and **Myco-Root Nectar** to brew **Sanctuary Hot Chocolate**; and curling up with mugs of cocoa in the **Family Stateroom** (Ryan in the center of King Bed 1 flanked by Cassidy and Holly as his human bed rails; Tyler and Evan on King Bed 2).
+
+5. **Episode 5 — *Syzygy Low Tide & The Three-Hour Glass Reef Window* (`books/ad-astra/e002/c008` • `Stardate 49603.1`):**
+   - **Key Visual Reference:** `/raggiesoft-assets/raggiesoft-books/images/scenes/ad-astra/e002-c008-p001-syzygy-glass-reef.jpg`
+   - **Synopsis:** When shepherd moons **Lumen** and **Umbra** align vertically beneath Vespera's rings, the purple ocean recedes half a mile for a strict **three-hour window** synchronized to Ryan's **Protocol T-10** clock—exposing the mirror-smooth **Glass Reef**, whose spiral crystal tide-pools act as biological phonographs replaying the contrapuntal songs of the **Vesperan Chorus-Rays**.
+
+6. **Episode 6 — *The Mother-Grove Amphitheater & The Unburied Leitmotif* (`books/ad-astra/e002/c009` • `Stardate 49603.5`):**
+   - **Key Visual Reference:** `/raggiesoft-assets/raggiesoft-books/images/scenes/ad-astra/e002-c009-p001-mother-grove-amphitheater.jpg`
+   - **Synopsis:** Following the converging crimson-and-cyan mycelial veins inland during Ring-Night to a natural tiered basalt canyon amphitheater ringed by 100-foot Elder Bio-Silica Fronds (a living mirror of **The Crucible**), where Cassidy performs her cherished December 1985 **Progress Street NE** chorus vocal call and chime-synth leitmotif response (*Ba-da-DA-da-DAAA!*—the part erased on *Live in Chicago*), and the entire living planet echoes her synthesizer leitmotif back across the valley at stadium volume.
+
 
