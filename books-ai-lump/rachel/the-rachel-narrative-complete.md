@@ -27680,7 +27680,7 @@ I sat down at the end of a long laminate table near the vending machines, pullin
 
 I looked up.
 
-Standing beside the table was a young woman about my age with warm eyes, dark hair, and a heavy textbook stack balanced against her hip—the top spine stamped with **NUCLEAR MEDICINE TECHNOLOGY**.
+Standing beside the table was a young woman in a pale butter-yellow crew-neck t-shirt with straight, shoulder-length chestnut-auburn hair, light freckles across the bridge of her nose, and hazel-green eyes behind thin-rimmed rectangular glasses, hugging a massive grey-and-burgundy hardcover textbook against her chest stamped with **NUCLEAR MEDICINE**.
 
 "No," I said quickly, shifting my backpack off the floor so she could reach the wall socket. "Go right ahead."
 
@@ -27690,7 +27690,7 @@ She plugged in her laptop brick, sat down diagonally across from me, and didn't 
 
 "Michael," I replied, my posture still slightly braced.
 
-Within ten minutes of talking, something remarkable happened to my internal telemetry: the defensive alarm bells stopped ringing. Heather wasn't loud, she wasn't aggressive, and she wasn't running a social angle. She was sharp, focused on her rigorous Nuclear Medicine pre-clinicals, and spoke with an easy, grounded kindness that treated my quiet, hyper-literal answers as completely normal rather than weird. When I mentioned how much I loved mapping transit routes and computer hardware, she didn't roll her eyes or talk down to me the way Delores used to; she actually listened, laughed at my dry jokes, and treated me like someone worth knowing.
+Within ten minutes of talking, something remarkable happened to my internal telemetry: the defensive alarm bells stopped ringing. Heather wasn't loud, she wasn't aggressive, and she wasn't running a social angle. She mentioned that she and her twin sister had originally started community college up in Charlottesville a few years back before taking time off and relocating down to Virginia Beach so she could finish her Nuclear Medicine Technology degree at CCHR. She was sharp, focused on her rigorous pre-clinicals, and spoke with an easy, grounded kindness that treated my quiet, hyper-literal answers as completely normal rather than weird. When I mentioned how much I loved mapping transit routes and computer hardware, she didn't roll her eyes or talk down to me the way Delores used to; she actually listened, laughed at my dry jokes, and treated me like someone worth knowing.
 
 For a guy whose self-worth had been systematically shredded in a filthy house in Kent nine months earlier, being looked at by a peer on campus as a genuinely good, worthwhile person felt like cold water in a desert.
 
@@ -27824,7 +27824,7 @@ Over the past seven months, Heather had mentioned plenty of times that she had a
 
 At 7:58 AM, right on schedule, I saw a familiar figure walking up the sidewalk from Susquehanna Drive toward the bus shelter.
 
-She had Heather's exact posture, Heather's exact dark hair, and was wearing Heather's familiar navy-blue CCHR windbreaker with a heavy backpack slung over one shoulder.
+She had Heather's exact posture, Heather's exact straight shoulder-length chestnut-auburn hair, and was wearing Heather's familiar navy-blue CCHR windbreaker with a heavy backpack slung over one shoulder.
 
 "Morning, Heather," I smiled, stepping out from under the shelter awning and opening my arms for our routine morning greeting.
 
@@ -27850,7 +27850,7 @@ From right behind the frosted plexiglass panel of the bus shelter, a burst of un
 
 The woman locking me in the bear hug laughed too—a slightly richer, louder cadence—and finally released my ribs, stepping back half a pace with a triumphant grin on her face.
 
-At the exact same moment, a second woman with the exact same face, the exact same dark hair, and an identical backpack stepped out from behind the bus shelter, wiping tears of laughter from her eyes.
+At the exact same moment, a second woman with the exact same angular oval face, the exact same straight chestnut-auburn hair, and thin-rimmed glasses stepped out from behind the bus shelter, wiping tears of laughter from her hazel-green eyes.
 
 I stared from left to right, blinking rapidly as two identical faces grinned back at me in stereo at the corner of Princess Anne and Susquehanna.
 
@@ -27966,7 +27966,7 @@ She hadn't just walked away from the hug at Susquehanna Drive. In the twenty min
 
 No conversation. No explanation. No closure.
 
-In software engineering, when a program encounters a fatal error that no routine was written to catch, the system throws an **Unhandled Exception** and terminates on the spot—Echoing the exact hollow, synthesized devastation that [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) had captured on [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state), [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception), and [*"Paired Devices"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-10-paired-devices).
+In software engineering, when a program encounters a fatal error that no routine was written to catch, the system throws an **Unhandled Exception** and terminates on the spot—echoing the exact hollow, synthesized devastation that Charlottesville synth-rock band [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) had captured seven years earlier on [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state), [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception), and [*"Paired Devices"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-10-paired-devices). I had no way of knowing then that the exact same woman who had just walked away from me at the corner of Princess Anne and Susquehanna Drive—now preparing to take her newly completed Nuclear Medicine credentials back to a hospital in Charlottesville—was the very same former Charlottesville Community College student whose sudden 2002 bus-stop vanishing act had inspired those songs in the first place. Having never fixed the silent-overload flaw in her own operating system, she had simply repeated the exact same crash on a different coast.
 
 For twenty-one months, she had been my first non-family Safe Person after Kent—the person who had convinced me it was safe to take the armor off on campus, the person I had ridden a bus in circles forty minutes a day just to sit beside. And in thirty seconds on a suburban sidewalk, she had deleted me like a corrupted file.
 
