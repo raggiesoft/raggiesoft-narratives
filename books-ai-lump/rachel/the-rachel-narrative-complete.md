@@ -27622,6 +27622,8 @@ Before April called the floor to attention, she walked over to the wooden belt r
 
 Our fingers remembered the exact folding geometry of the knot. Wrapping the heavy midnight-blue cotton around my waist—carefully positioning the knot just above the old surgical scar tissue in my abdominal fascia—sent a wave of quiet pride through my chest. Beside me, Rachel smoothed the ends of her belt, her dark eyes shining.
 
+![Michael and Rachel in their Midnight Blue Belts at the Lynnhaven Academy of Seondu]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/adult_michael_and_rachel_lynnhaven_dojang.jpg)
+
 For the next hour, there were no screaming children, no freezing linoleum tiles, and zero fear of impact. April tailored every single drill around *Tongje*—absolute biomechanical control—and our specific cerebral palsy neurology. When we practiced *Poomsae* (forms), she emphasized slow, deep stances that stretched our high-tone calves and hamstrings without triggering a spastic lock. When Rachel executed her final *Momtong Jireugi* (middle punch), her *Kihap* rang off the rafters with fearless, resonant power.
 
 By the time April called *"Geuman!"* at 8:30 PM and we bowed out, our muscles were trembling with the clean, honest exhaustion of an athlete's workout rather than the rigid tension of survival.
@@ -27720,6 +27722,8 @@ A few minutes later, Heather would walk up the sidewalk from Susquehanna Drive, 
 
 When the inbound **CVTA Route 25** bus pulled up a few minutes later, we climbed aboard together and sat side-by-side for the twenty-minute ride back to CCHR.
 
+![Michael and Heather Bouchard riding CVTA Route 25 together to CCHR]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg)
+
 And every afternoon, when our classes wrapped up for the day, we ran the exact algorithm in reverse. Instead of walking five minutes across Buckner Boulevard to my townhouse, I walked with Heather to the CCHR Transit Loop, hopped aboard the outbound **CVTA Route 25** bus with her, and rode the twenty minutes out to **Susquehanna Drive**. We stepped off together, crossed the street together to the inbound side so she wouldn't have to cross traffic alone, and stood by the stop until it was time for her to walk down Susquehanna Drive toward her house while I caught the next inbound Route 25 bus twenty minutes back to CCHR and walked across Buckner Boulevard home.
 
 On paper, I was spending eighty minutes a day riding a municipal bus in circles when I lived across the street from the college.
@@ -27748,6 +27752,30 @@ The reason I didn't understand the question was simple: whenever I was sitting w
 
 "You're my favorite," I told her simply as we packed up our trays. "Out of all my friends here, you're my favorite."
 
+Ten minutes later, as we were still sitting at our round laminate table in the student lounge, the double doors swung open and Rachel walked in from her morning general-education lecture, her canvas messenger bag slung over her shoulder. She spotted me immediately and walked over, pushing her rectangular glasses up the bridge of her nose.
+
+"Hey, Bear," Rachel said, before turning a warm, curious smile toward the other side of the table.
+
+"Heather, this is my sister, Rachel," I said proudly. "Bug, this is Heather."
+
+"It's really good to finally meet you," Rachel said, pulling out the third chair and sitting down with us. "Michael hasn't stopped talking about how much fun the Route 25 bus loop is now."
+
+"He's a pretty good bus navigator," Heather replied with a genuine smile, adjusting her thin-rimmed glasses and resting her hands on the cover of her thick *Nuclear Medicine* textbook.
+
+For the next fifteen minutes, the three of us talked easily at the table. I could see Rachel's analytical eyes quietly observing the dynamic—noting how relaxed my shoulders were and how Heather treated me without a single trace of pity or condescension. Wanting to welcome Heather into our world, Rachel decided to make a calculated tactical move. She knew that if a guy invited a female classmate back to his house first, a guarded young woman might understandably feel nervous or put on the spot—whereas if Rachel extended the very first invitation herself, woman-to-woman, it might break the ice and reassure Heather that our home was completely safe.
+
+"Hey, Heather," Rachel offered warmly as the wall clock neared twelve-fifty. "Our townhouse is literally right across Buckner Boulevard—less than a five-minute walk from the bus loop. If you ever want to get away from the fluorescent lights in here between classes, or come over for dinner with us sometime, you should come hang out at our place."
+
+A flicker of quiet, guarded hesitation crossed Heather's hazel-green eyes. Her smile stayed polite and appreciative, Set firmly behind an invisible perimeter wall.
+
+"Thank you, Rachel—that's really sweet of you," Heather said gently, hugging her *Nuclear Medicine* textbook a fraction closer to her pale yellow tee. "I'd love to sometime, honestly, but my clinical study blocks and lab prep are so packed this semester that if I leave campus before my afternoon bus home, I'll fall behind on my charts."
+
+![Rachel meets Heather Bouchard in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg)
+
+Rachel caught the boundary immediately. She didn't press, guilt-trip, or make it awkward for a single second.
+
+"Totally fair," Rachel said with an easy, respectful nod as she stood up to head toward her afternoon shift at *The Spot*. "Nuclear Medicine sounds intense. It was really nice meeting you, Heather."
+
 ***
 
 #### 1:00 PM — The Comfort Object & The Verbal Shield
@@ -27760,7 +27788,7 @@ To my traumatized, pre-diagnostic brain, holding her tightly wasn't about seduct
 
 Yet beneath that warmth, our friendship operated inside a rigid, invisible architecture that I privately came to think of as **The Shallow End**—governed by three non-negotiable rules of engagement:
 
-**Rule One was the Spatial Firewall.** Our entire world existed strictly on the CCHR campus and the seats of CVTA Route 25 between Monday and Friday. Whenever I casually invited her to walk five minutes across Buckner Boulevard to hang out with Rachel and me at 3701 Canadian Arch, or suggested getting dinner on a weekend, Heather politely deflected, citing her grueling Nuclear Medicine study load. At the time, I didn't realize how mercifully that boundary was protecting me: after nearly drowning in Delores's suffocating, twenty-four-hour-a-day domestic trap in Norfolk and Kent, Heather's campus-only boundary kept me safely in the shallow end of the pool where my healing processor couldn't get overwhelmed.
+**Rule One was the Spatial Firewall.** Our entire world existed strictly on the CCHR campus and the seats of CVTA Route 25 between Monday and Friday. Even after Rachel thoughtfully extended that very first invitation woman-to-woman in the student lounge to break the ice—and whenever I casually invited her afterward to walk five minutes across Buckner Boulevard to hang out at 3701 Canadian Arch or grab dinner on a weekend—Heather always politely declined, keeping a strict separation between campus and home. At the time, I didn't realize how mercifully that boundary was protecting me: after nearly drowning in Delores's suffocating, twenty-four-hour-a-day domestic trap in Norfolk and Kent, Heather's campus-only boundary kept me safely in the shallow end of the pool where my healing processor couldn't get overwhelmed.
 
 **Rule Two was the Touch Tightrope and the Cuddle Ban.** Deep-pressure hugs standing in the hallway or by the Susquehanna bus shelter were welcomed and reciprocated—but holding hands and cuddling were strictly off-limits. It was a razor-thin tightrope. Every so often, if we were sitting side-by-side on a bench and a standard hug lingered a second too long or my arm rested at the wrong angle, Heather's posture would suddenly stiffen, her processor anxiously misinterpreting a hug as a "cuddle." The instant I felt her tense up, I would immediately pull my arms back, give her six inches of air, and apologize so she knew her physical boundary was absolute law.
 
@@ -27852,6 +27880,8 @@ The woman locking me in the bear hug laughed too—a slightly richer, louder cad
 
 At the exact same moment, a second woman with the exact same angular oval face, the exact same straight chestnut-auburn hair, and thin-rimmed glasses stepped out from behind the bus shelter, wiping tears of laughter from her hazel-green eyes.
 
+![Hailey and Heather Bouchard pulling the April Fools' Day Twin Magic prank on Michael at the Susquehanna Drive bus stop]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg)
+
 I stared from left to right, blinking rapidly as two identical faces grinned back at me in stereo at the corner of Princess Anne and Susquehanna.
 
 "Happy April Fools' Day, Michael!" the real Heather laughed, walking up beside her sister and nudging her shoulder. "Meet my twin sister, Hailey."
@@ -27894,6 +27924,8 @@ Heather turned away from the glass and looked at me. In the blue underwater ligh
 
 She didn't wait for me to ask. She stepped straight into my space and wrapped her arms around my waist, resting her cheek against my chest in a long, deep, unhurried hug right there in front of the sharks and sea turtles.
 
+![Michael and Heather Bouchard sharing a grounding deep-pressure hug inside the Chesapeake Bay Aquarium tunnel]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/chesapeake_bay_aquarium_hug.jpg)
+
 I wrapped my arms around her shoulders, holding her close, breathing in the cool marine air and feeling the steady, grounding pressure against my sternum. Nobody was rushing to a lab exam. Nobody was watching the clock for the afternoon Route 25 departure. For one quiet, shining afternoon under the blue glass of the **Chesapeake Bay Aquarium**, the Spatial Firewall had vanished, and I genuinely believed we had built a friendship strong enough to last the rest of our lives.
 
 ## Unhandled Exception & The Living Firewall
@@ -27929,6 +27961,8 @@ Her face was completely blank—drained of every trace of the warmth that had an
 "Heather?" I blinked, my arms freezing halfway open as a cold spike of confusion shot through my chest.
 
 "No," she said. Her voice was flat, clipped, and ice-cold—the voice of a complete stranger. "I don't want a hug. I have to go."
+
+![Heather Bouchard stepping back and refusing Michael's goodbye hug at Princess Anne & Susquehanna Drive]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_bus_stop_cutoff.jpg)
 
 Before my processor could even parse the syntax of what had just happened, she spun on her heel, turned her back to me on the sidewalk of Susquehanna Drive, and walked rapidly away down the residential street without looking back once.
 

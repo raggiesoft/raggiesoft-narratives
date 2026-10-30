@@ -4136,7 +4136,7 @@ After relying on the Pacific Northwest as a legally shielded sanctuary during th
 
 - **The First-Floor Retrofit:** The downstairs bathroom is structurally expanded to be fully wheelchair accessible, sacrificing a portion of the living room square footage. This guarantees that when Jessica visits from the West Coast, she always has a seamless, barrier-free home.
 
-- **The Open-Door Policy:** The neurotypical concept of privacy is entirely absent within the townhouse. Michael and Rachel maintain an open-door policy. They change together without looking away, maintaining an absolute, unfiltered vulnerability that proves their environment is completely threat-free.
+- **The Open-Door Policy:** The neurotypical concept of privacy is entirely absent within the townhouse. Michael and Rachel maintain an open-door policy. They change together without looking away, and when it is just the two of them in the townhouse, they typically sleep fully undressed cuddled up together—a practical sensory and medical baseline that regulates body temperature if they overheat and eases their cerebral palsy spasticity while maintaining an absolute, unfiltered vulnerability that proves their environment is completely threat-free.
 
 - **Bedroom 1 (The Master / Primary Anchor):** This room houses a King-sized bed and serves as their primary sleeping quarters. They share this bed every night, relying on the deep physical pressure and proximity to regulate their nervous systems.
 
@@ -4181,8 +4181,17 @@ After establishing their townhouse in Virginia Beach, Michael and Rachel discove
 
 - **The First Night:** They sleep in the King bed of the new townhouse, officially establishing their permanent, adult Base Camp with April standing guard just one wall away.
 
+- **Two Years of Breathing Room & The Shallow End (`April 2007 – May 2009`):** Before the rest of the pack converges on Virginia Beach, Michael and Rachel spend two restorative years settling into `3701 Canadian Arch`, earning their **Midnight Blue Belts (*Nam-saek tti*)** at Master April's *Lynnhaven Academy of Seondu*, and taking classes at the **Community College of Hampton Roads (CCHR)**.
+  - **Heather Bouchard & The Engineered CVTA Route 25 Loop (`August 2007 – May 2009`):** In August 2007, Michael meets 22-year-old Nuclear Medicine student **Heather Bouchard** (who previously attended Charlottesville Community College in `2000–2002` alongside her identical twin sister **Hailey Bouchard** before relocating to Virginia Beach to complete her formal clinical degree at CCHR). Though Michael lives a five-minute walk across Buckner Boulevard from CCHR, he engineers a daily 40-minute transit loop—catching **CVTA Route 25** outbound from CCHR twenty minutes out to **Princess Anne & Susquehanna Drive** every morning, crossing the street to meet Heather at her stop so they can ride in together, and reversing the trip every afternoon—strictly to spend an extra forty minutes a day with his campus Safe Person.
+  - **"Mask, What Mask?" & The Rules of the Shallow End:** Pre-diagnosis, Michael tells classmates *"Mask? What mask?"* and calls Heather *"my favorite"* friend because he never has to mask around her. Their friendship operates under three strict boundaries:
+    1. **The Spatial Firewall:** Strictly weekday CCHR campus and Route 25 only. Rachel meets Heather in the CCHR student lounge and makes the very first invitation for Heather to visit `3701 Canadian Arch` (hoping a woman-to-woman offer will break the ice and make her feel safe), which Heather politely declines.
+    2. **The Touch Tightrope & Cuddle Ban:** Long, deep-pressure *"Best Friend Hugs"* function as sensory regulation, while hand-holding and cuddling are strictly off-limits.
+    3. **The Verbal Shield (*"I do not love you"*):** Whenever Heather panics that their closeness might become romantic, Michael looks her dead in the eyes and promises, *"Heather, I promise you: I do not love you,"* which immediately calms her down.
+  - **Twin Magic (`April 1, 2008`) & The Chesapeake Bay Aquarium (`July 18, 2008`):** Michael never meets Heather's identical twin **Hailey Bouchard** until April Fools' Day 2008 at the Susquehanna Drive bus stop, when Hailey (wearing Heather's navy CCHR windbreaker without glasses) ambushes him with a bone-crushing bear hug before the real Heather steps out laughing from behind the shelter. Their sole off-campus outing takes place in July 2008 at the **Chesapeake Bay Aquarium**.
+  - **The Susquehanna Cutoff (`May 8, 2009`):** Exhausted by her own unarticulated neurological limits at the end of her clinical rotations, Heather abruptly steps back from Michael's routine goodbye hug at Princess Anne & Susquehanna Drive, walks away without looking back, and silently blocks him on *Orbit*—an `Unhandled Exception` that would have shattered him years earlier, but is immediately caught and regulated by Rachel (via their Open-Door Policy and the Full decoy bed) and Master April.
 
-- **The Online Network:** Settling into their new office, Michael and Rachel log onto their social networking profiles. While rebuilding their digital footprints, a familiar name pops up in their friend requests: Ashley.
+
+- **The Online Network (`May 2009`):** Three days after the Susquehanna cutoff, while in their upstairs Command Center, Michael and Rachel log onto their social networking profiles and receive an urgent message from a familiar name: Ashley.
 
 - **The Discovery:** They reconnect with their childhood best friend and former Sentinel. Through private messages, the horrific reality of Ashley's life is revealed. She is married, but her husband is a manipulative monster who has been actively cheating on her. She has the undeniable, court-admissible proof, but she feels trapped and isolated.
 
@@ -4201,7 +4210,7 @@ After establishing their townhouse in Virginia Beach, Michael and Rachel discove
 
 Before detailing the protocol, the biological reality of the Pack must be established:
 
-- **Michael and Rachel:** Neurodivergent. Though entirely unaware of the medical terminology in 2007, both are autistic. They operate on a shared neurological wavelength that demands strict routines, spatial security, and sensory regulation. (They will finally receive their official medical validation in 2008 at ages 23 and 21 during a highly unorthodox joint diagnostic appointment).
+- **Michael and Rachel:** Neurodivergent. Though entirely unaware of the medical terminology in 2007, both are autistic. They operate on a shared neurological wavelength that demands strict routines, spatial security, and sensory regulation. (They will finally receive their official medical validation in June 2009 at ages 25 and 23 during a highly unorthodox joint diagnostic appointment).
 
 - **Ashley:** Neurotypical. Her participation in this extreme, unconventional physical closeness is not driven by an autistic sensory need, but by profound trauma recovery and absolute Pack loyalty.
 
