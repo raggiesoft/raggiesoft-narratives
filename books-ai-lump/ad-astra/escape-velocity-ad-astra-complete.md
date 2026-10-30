@@ -305,7 +305,7 @@ Laughing through happy tears, Cassidy pushed off gently with the toe of her snea
 
 "Group hug at Continuum Factor eight-point-four," Tyler grinned, wrapping his arm around Cassidy and Ryan while Evan slung his arm across Holly's shoulder. "Try serving a subpoena out here, Los Angeles."
 
-### Part 2: Days 2–3 in the Continuum: Pilot Shift Swaps, Onboard Studio Jam & Calibrating to 0.90G
+### Part 2: Days 2–3 in the Continuum: Pilot Shift Swaps, Onboard Studio Jam & Calibrating to 0.88G
 
 **Date:** 1996-07-18 at 14:00 America/New_York
 
@@ -333,7 +333,7 @@ Every time the eight-hour watch chime sounded on the bridge, the twins turned th
 
 #### The Studio in the Stars
 
-While the ship cruised smoothly through the second day of the nebula corridor, Holly brought the aft **Observation & Recording Studio Lounge** back to a comfortable **`0.90G`** practice gravity so the band could test their acoustic instruments and finish rehearsing the live arrangement of *"Escape Velocity (Ad Astra)"* before reaching their new home.
+While the ship cruised smoothly through the second day of the nebula corridor, Holly brought the aft **Observation & Recording Studio Lounge** back to a comfortable **`0.88G`** practice gravity so the band could test their acoustic instruments and finish rehearsing the live arrangement of *"Escape Velocity (Ad Astra)"* before reaching their new home.
 
 The aft lounge had been acoustically engineered just like Studio A back at The Fortress—except instead of brick walls and buzzing fluorescent ballasts, the entire port bulkhead was a massive double-paned panoramic viewport looking straight out into a swirling cathedral of crimson, gold, and purple interstellar clouds. Mounted on the starboard wall above the acoustic baffling hung their woven black-and-neon banner bearing the rocket-and-gear emblem of **The Stardust Engine**.
 
@@ -355,7 +355,7 @@ Evan slid into the warm, melodic bassline, and Ryan leaned forward against his s
 
 ***
 
-#### Day 3: Calibrating to 0.90G & Retiring Earth's Calendar
+#### Day 3: Calibrating to 0.88G & Retiring Earth's Calendar
 
 On the final hour of the third day (`July 19, 1996`, Shipboard Elapsed Time `71:48`), a soft amber chime sounded from the forward astrogation console.
 
@@ -366,12 +366,12 @@ Inside the cockpit, Evan and Tyler strapped into the twin forward leather seats,
 > **GRAVITATIONAL & ATMOSPHERIC ENTRY PROFILE // CAELUM-IV ("SANCTUARY")**<br>
 > **Primary Body:** Vespera (*Kepler-442c*) — Golden-Banded Super-Jovian Gas Giant<br>
 > **Orbital Configuration:** 1:1 Synchronous Tidal Lock (`1 Full Orbit = 48.0 Earth Hours`)<br>
-> **Natural Surface Gravity:** **`0.90G` (`8.83 m/s²` — Exactly 90.0% of Earth Standard Gravity)**<br>
-> **Biomechanical Impact:** Full vestibular stability with a **10% buoyant reduction in joint load** for Cassidy's cerebral palsy gait and **10% reduced rolling resistance** for Ryan's manual wheelchair.
+> **Natural Surface Gravity:** **`0.88G` (`8.63 m/s²` — Exactly 88.0% of Earth Standard Gravity)**<br>
+> **Biomechanical Impact:** Full vestibular stability with a **12% buoyant reduction in joint and stretch-reflex load** for Cassidy's cerebral palsy gait and **12% reduced rolling resistance and spinal compression** for Ryan's manual wheelchair.
 
-"Caelum-IV has a natural surface gravity of **point-nine-zero Earth G**," Holly announced, locking the ship's internal artificial gravity deck plates permanently at **`0.90G`** to match the surface outside. "Ninety percent of Earth's pull. And because Caelum-IV is tidally locked to Vespera in a **forty-eight-hour orbit**, one full day-and-night cycle down on that beach is going to last forty-eight hours—twenty-four hours of sunlight followed by twenty-four hours of golden-violet ring-night."
+"Caelum-IV has a natural surface gravity of **point-eight-eight Earth G**," Holly announced, locking the ship's internal artificial gravity deck plates permanently at **`0.88G`** to match the surface outside. "Eighty-eight percent of Earth's pull—one percent for every key on Cassidy's grand piano. And because Caelum-IV is tidally locked to Vespera in a **forty-eight-hour orbit**, one full day-and-night cycle down on that beach is going to last forty-eight hours—twenty-four hours of sunlight followed by twenty-four hours of golden-violet ring-night."
 
-As the deck plates locked at `0.90G`, both Ryan and Cassidy felt the gentle ten-percent lift immediately: ten percent less downward compression on Ryan's spine inside his six-point harness, and ten percent less spastic pull on Cassidy's knees as she stood beside his chair.
+As the deck plates locked at `0.88G`, both Ryan and Cassidy felt the gentle twelve-percent lift immediately: twelve percent less downward compression on Ryan's T10 spine inside his six-point harness, and twelve percent less spastic pull on Cassidy's knees as she stood beside his chair.
 
 Up at the port helm, Tyler gripped the deceleration throttles alongside Evan as the countdown reached zero.
 
@@ -389,9 +389,84 @@ On the master bulkhead chronometer, Earth's calendar of July 1996 winked out for
 
 ### Aft Cargo Hatch Open
 
-**Stardate:** 49601.0 • **Harmonic Cycle:** Vespera Zenith • Lumen–Umbra First Conjunction (120.0 BPM Lock) • **Chronometer:** HC 00:00 (Hatch Unseal)
+**Stardate:** 49601.0 • **Harmonic Cycle:** Vespera Zenith • Lumen–Umbra First Conjunction (120.0 BPM Lock) • **Chronometer:** HC 00:00 (Touchdown, Hailing Silence & Breathability Scan)
 
 ![Widescreen view from inside the open cargo hatch of the star-cruiser U.S.S. Aethelgard looking out onto the purple-sand beach and violet ocean of Caelum-IV. On the left, pilot twin Tyler/Evan Wright stands beside lead guitarist Ryan O'Connell in his custom manual wheelchair at the top of the landing ramp. Beside Ryan, lead vocalist Cassidy O'Connell holds a handheld frequency scanner and points out toward the bay in curiosity. On the right, manager Holly O'Connell stands by the starboard telemetry console with a datapad, keeping clear line-of-sight with her siblings. Outside, lavender bio-silica fronds and giant bioluminescent mushroom canopies frame a sky dominated by the ringed gas giant Vespera, its shepherd moons Lumen and Umbra, and the golden twilight of the orange dwarf star Solis-V.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e001-c001-p001-caelum-iv-landing.jpg)
+
+Before anyone on board the *U.S.S. Aethelgard* touched the release lever for the aft cargo hatch, there were two questions the sensors had to answer: *Is anyone else down here?* and *Can we breathe the air without dying?*
+
+Up on the flight deck, sixty seconds after the cruiser's landing struts settled onto the dark purple shoreline of Caelum-IV with a gentle hydraulic sigh, Holly O'Connell keyed the planetary and subspace hailing transceiver across every civilian, scientific, and deep-space survey band in the directory.
+
+"All stations on Caelum-IV or in Vesperan orbit," Holly spoke clearly into the overhead boom mic, her eyes tracking the wide-band radio waterfall on the starboard telemetry display. "This is the independent acoustic survey vessel *U.S.S. Aethelgard*, registry `ERR-NCC-1996`, set down on the southern crescent bay at thirty-four degrees north latitude. We are a peaceful family scientific and musical expedition of five crew. If any outpost, orbital relay, or survey team reads this transmission, please respond on standard hailing frequencies."
+
+She released the transmit key.
+
+Inside the cabin, the five of them listened.
+
+On Earth—and even in high lunar orbit—opening a wide-band radio receiver meant getting hit with a wall of carrier waves, automated weather beacons, military encrypted bursts, and commercial satellite chatter. Here, twelve hundred light-years from Virginia, the receiver didn't even hiss with sixty-cycle electrical static. Across three thousand megahertz of spectrum, nothing answered back except the faint, rhythmic electromagnetic whisper of the ringed gas giant hanging overhead.
+
+"Nothing on VHF, UHF, or subspace," Evan Wright reported from the starboard astrogation console, glancing over at his twin brother Tyler in the port pilot's seat. "Not a beacon, not an automated orbital buoy, not a single metallic transponder return on the whole hemisphere."
+
+"Did the long-range catalog probes miss this moon?" Tyler asked, leaning forward to tap the passive radar sweep.
+
+"The automated Kepler survey telescope flagged the system's spectral lines from Earth orbit," Holly said quietly, staring at the completely blank hailing log with a mixture of awe and quiet realization, "but no ship has ever dropped out of warp here. Guys... I don't think there's an outpost on the other side of the continent. I think we're the first human beings who have ever been on this world."
+
+Nobody cheered like conquerors planting a flag, because conquest had never been the point of building the *Aethelgard* beneath the Fortress in Blacksburg. They hadn't crossed twelve hundred light-years to claim territory or strip-mine a moon. They had come out of pure curiosity—and to find a quiet place where the five of them could live, breathe, and make music together with the *U.S.S. Aethelgard* as their permanent home.
+
+"Okay," Ryan O'Connell said from his manual wheelchair in the center deck station, his hands resting calmly on his anodized push-rims. "If we're the first humans in the room, rule number one applies before we touch that cargo hatch: *we don't guess what's outside the hull*. Hols, Cass—is the air out there breathable, or are we putting on EVA helmets?"
+
+"Running the external intake sniffers and laser mass-spectrometer array now," Cassidy said, stepping over beside Holly's console and opening the atmospheric intake valve embedded in the cruiser's dorsal hull spine.
+
+Outside the sealed bulkheads, a micro-liter sample of Caelum-IV's coastal air was drawn into the optical analysis chamber. On the main telemetry screen, the chromatography bars climbed across the grid as the spectrometer tested for oxygen partial pressure, carbon dioxide, carbon monoxide, hydrogen sulfide, cyanide compounds, heavy-metal vapors, and biological pathogens.
+
+For twenty seconds, the only sound in the cabin was the quiet hum of the analyzer pump. Then the diagnostic bar at the top of Holly's console flashed solid emerald green:
+
+```
+EXTERNAL ATMOSPHERIC ASSAY // CAELUM-IV SOUTHERN CRESCENT BAY
+Barometric Pressure: 1.04 bar (105.4 kPa — Sea-Level Optimal)
+Gas Composition: 76.4% N2 | 21.8% O2 | 1.2% Ar | 0.56% H2O | 0.04% CO2
+Chemical Toxicity Index: 0.000 ppm (Zero CO, H2S, HCN, SO2, or Halogens)
+Biological / Spore Hazard: NEGATIVE (Benign Halobacterial Marine Aerosol Only)
+Human Breathability Verdict: 100% SAFE FOR UNASSISTED RESPIRATION
+```
+
+"Twenty-one point eight percent oxygen at one point zero four bar," Holly exhaled, a genuine smile breaking across her face as she looked back at Ryan, Cassidy, Tyler, and Evan. "Zero neurotoxins, zero corrosive gases, zero pathogenic spores, and seventy-two degrees Fahrenheit on the beach. We don't need helmets, we don't need rebreathers, and we don't need pressure suits."
+
+"What about surface gravity?" Tyler asked, unclipping his five-point flight harness and standing up from the port helm seat. "The ship's deck plates are still running at `1.00G` Earth standard, right?"
+
+"They were until three seconds ago," Holly said, sliding the artificial gravity potentiometer down until it locked to the external planetary accelerometer reading. "I just matched the cabin deck plates to Caelum-IV's natural surface gravity so our inner ears don't get a surprise on the ramp: **`0.88G` (`8.63 m/s²`)**—eighty-eight percent of Earth's gravity."
+
+Cassidy's eyes lit up behind her glasses as she felt twelve percent of the downward weight vanish from her calves and ankles. "Point-eight-eight G," she whispered, taking an experimental step across the deck and marveling at how much less her left foot dragged. "Eighty-eight percent—just like the eighty-eight keys on my piano."
+
+***
+
+#### The Crew Locker Bay: Changing for a New World
+
+"Before we lower the stern ramp," Holly said, glancing down at the maroon `CPI` alumni sweatshirts and T-shirts they had all worn during the three-day warp transit from Virginia, "let's switch into our field survey gear in the aft locker bay. We don't know if the coastal breeze picks up after sunset or if the brush along the headland is damp, and I want everyone in abrasion-resistant layers with telemetry transponders in the collars."
+
+The five of them moved aft into the warm, well-lit crew locker bay just forward of the cargo hold—Ryan propelling his manual wheelchair effortlessly with his hands on the push-rims while Cassidy walked right beside him, resting her right hand on the contoured black rubber **push-handle** rising from Ryan's backrest like a rolling walker to steady her cerebral palsy limp.
+
+Inside the locker bay, nobody looked for a privacy curtain or stepped out into the corridor while the others changed.
+
+For the O'Connell siblings and the Wright twins, the concept of needing privacy from one another while getting dressed or undressed had vanished six years ago in the autumn of 1990, the day sixteen-year-old Ryan was discharged from Roanoke Memorial Hospital with a complete **T10 spinal cord injury**. Back then, before Ryan came home to Blacksburg, the rehabilitation nurses had trained all four of them—Holly, Cassidy, Tyler, and Evan—in every single detail of Ryan's **Activities of Daily Living (`ADLs`)**: lower-body dressing, skin-pressure checks, sliding-board and pivot transfers, and his daily toileting and catheterization routines. Any one of the four could assist Ryan smoothly and without a second thought if he needed an extra pair of hands.
+
+Over the years, though, an unspoken rhythm had settled in naturally: whenever Ryan needed help with his toileting routine before a long excursion or getting changed into reinforced field trousers, he preferred **Cassidy**. It wasn't because Holly, Tyler, or Evan were any less gentle; it was because Ryan knew that **he was Cassidy's autistic safe person**. In a chaotic universe—and especially after the trauma they had survived together in 1992—having a concrete, practical task where her older brother trusted her completely kept Cassidy grounded, calm, and anchored right beside him.
+
+While Tyler, Evan, and Holly casually pulled off their maroon `CPI` shirts at the starboard lockers and stepped into their sleek, weather-resistant deep-space survey outfits—Holly zipping up her fitted teal-and-slate survey jumpsuit with the glowing cyan status badge on the shoulder, and the twins pulling on their slate-gray survey jackets over dark utility tunics—Ryan and Cassidy completed their familiar pre-excursion routine at the wide padded transfer bench along the port bulkhead.
+
+After a quick, matter-of-fact stop in the adjacent accessible head module so Ryan didn't have to worry about his bladder schedule during their first hours exploring the beach, Ryan transferred smoothly back onto the locker bench using his upper-body strength while Cassidy knelt beside his legs to help guide the reinforced knees and ankle cuffs of his charcoal-and-slate survey trousers over his paralyzed lower limbs, checking automatically to make sure every seam lay completely flat against his skin so nothing would chafe while he sat in his chair.
+
+"Left cuff is flat, zero seam bunching behind the knee," Cassidy murmured, smoothing the fabric and lacing his black survey boots with practiced, gentle precision before looking up at her brother with a warm smile. "Ready for the transfer, Ry."
+
+"Thanks, Cass," Ryan said softly, resting a hand briefly on the top of her head before planting one palm on the bench and the other on the rigid titanium frame of his wheelchair to swing himself cleanly back into his contoured seat cushion. He pulled on his matching charcoal-and-slate survey jacket over a breathable dark crew shirt, while Cassidy slipped out of her `CPI` tee right beside his wheel and zipped up her fitted slate-blue expedition jacket.
+
+"All five transponders online and synced to the ship's main computer," Holly announced, checking her ruggedized MagnaPad as Tyler handed Cassidy her handheld acoustic spectrometer. "Remember: we treat the *Aethelgard* as our house, we stay on open comms, and we scan everything before we touch it. Ready to open the front door?"
+
+Ryan wrapped his hands around his push-rims as Cassidy rested her left hand on his rear push-handle. "Open her up, Hols."
+
+***
+
+#### Aft Cargo Hatch Open
 
 The first thing Cassidy O'Connell noticed when the aft cargo hatch of the *U.S.S. Aethelgard* unsealed was not the color of the sky, nor the impossible geometry of the ringed gas giant hanging stationary above the bay. It was the absence of sixty-cycle hum.
 
@@ -406,12 +481,12 @@ Here, twelve hundred light-years beyond the reach of any subpoena, the air did n
 > **Primary Body:** Vespera (*Kepler-442c*) — Golden-Banded Silicate & Ammonia Super-Jovian<br>
 > **Landing World:** Caelum-IV (Logged by Crew as *"Aethelgard's Shore"* / *"Sanctuary"*)<br>
 > **Orbital Configuration:** 1:1 Synchronous Tidal Lock outside Vespera's Outer Radiation Belt (`1 Full Orbit = 48.0 Earth Hours`)<br>
-> **Surface Gravity:** **`0.90G` (`8.83 m/s²` — 90.0% of Earth Standard Gravity)**<br>
+> **Surface Gravity:** **`0.88G` (`8.63 m/s²` — 88.0% of Earth Standard Gravity)**<br>
 > **Local Time Standard:** Earth 24-hour rotation suspended. One full Caelum-IV orbital day equals **48.0 hours** (**24.0 hours of Solis-V daylight** + **24.0 hours of Golden-Violet Ring-Night**), measured in Stardate millicycles (`.000`–`.999`) and **Harmonic Cycles (`HC`)** locked to the biosphere's **120.0 BPM (`2.000 Hz`)** pulse.
 
 As the massive hydraulic actuators along the *Aethelgard*'s stern bulkhead exhaled a slow plume of condensed nitrogen, the steel ramp descended in a smooth, zero-lip arc. Inside the open cargo bay, the four of them stood framed in silhouette against the flood of warm golden-violet twilight pouring in from the shoreline.
 
-On the far left by the port jump-seat bulkhead, Evan Wright had unclipped his five-point flight harness thirty seconds after he and his twin brother Tyler brought the cruiser down through Vespera's upper ring-scatter. Tyler was still doing a final pass on the forward helm diagnostics, his voice crackle-free in their open comms, while Evan stood at ease in his charcoal-and-slate flight jacket just behind Ryan's left shoulder. Evan didn't hover—nobody in this family hovered over Ryan—but his boot was braced two inches from the cargo-bay tie-down track, ready in case the unfamiliar **`0.90G` surface gravity** of a new moon tried to pull a surprise on the ramp incline.
+On the far left by the port jump-seat bulkhead, Evan Wright stood at ease in his slate-and-charcoal survey jacket just behind Ryan's left shoulder, while his twin brother Tyler monitored the final ramp-lock telemetry from the forward bridge comms before joining them on the deck. Evan didn't hover—nobody in this family hovered over Ryan—but his boot was braced two inches from the cargo-bay tie-down track, ready in case the unfamiliar **`0.88G` surface gravity** of a new moon tried to pull a surprise on the ramp incline.
 
 Beside Evan, centered at the threshold where the brushed titanium deck plates met the top of the ramp, Ryan O'Connell sat in his custom ultra-lightweight manual wheelchair. Right after touchdown, he had popped the center rotary quick-release puck of his six-point flight harness and stowed the padded Kevlar straps neatly into the recessed holsters behind his backrest, leaving his shoulders and torso completely unencumbered for the surface. His hands rested lightly on the anodized push-rims, his thumbs feeling the subtle vibration traveling up through the frame from the hull struts. He wore no hospital wristband and none of the defensive tension that had locked his shoulders during the final years of *The Cage*. He was simply looking out at the horizon, his dark eyes wide and unguarded as the breeze off the bay lifted the collar of his jacket.
 
@@ -501,13 +576,13 @@ Cassidy stepped back up two paces to Ryan's left side and rested her right hand 
 
 The moment Ryan's front pneumatic casters rolled off the beveled titanium lip of the *U.S.S. Aethelgard*'s ramp and touched the surface of Caelum-IV, his hands—and Cassidy's hand resting lightly on his left rear push-handle—told them both everything they needed to know.
 
-Through the anodized aluminum push-rims of his chair, the ground felt like a freshly swept hardwood stage floor laid over solid granite—and in Caelum-IV's natural **`0.90G` (`8.83 m/s²`)** gravity, ten percent of Earth's familiar downward drag had simply vanished. There was no lateral fishtailing, no sudden resistance trying to pitch his chest forward, and no grinding crunch of loose silica fighting his bearings. Instead, the dark purple basaltic crust yielded by less than a sixteenth of an inch under his rear tires—just enough to leave two clean, parallel tracks in the damp mineral sand—and then returned his kinetic energy with a buoyant, effortless glide.
+Through the anodized aluminum push-rims of his chair, the ground felt like a freshly swept hardwood stage floor laid over solid granite—and in Caelum-IV's natural **`0.88G` (`8.63 m/s²`)** gravity, twelve percent of Earth's familiar downward drag had simply vanished. There was no lateral fishtailing, no sudden resistance trying to pitch his chest forward, and no grinding crunch of loose silica fighting his bearings. Instead, the dark purple basaltic crust yielded by less than a sixteenth of an inch under his rear tires—just enough to leave two clean, parallel tracks in the damp mineral sand—and then returned his kinetic energy with a buoyant, effortless glide.
 
-Right beside his left wheel, Cassidy let out a soft breath of amazement as her red canvas sneakers met the purple sand. On Earth, walking across a beach had always been a nightmare for her cerebral palsy; loose sand shifted unpredictably under her ankles and exaggerated her limp within ten yards. Here, between the firm, slate-smooth basaltic crust, the gentle ten-percent lift of `0.90G` easing the spastic tension in her calves, and her right hand steadying her balance on Ryan's rubberized wheelchair push-handle like a rolling walker while Ryan propelled them forward with his own hands on the push-rims, she glided down to the water's edge without a single stumble.
+Right beside his left wheel, Cassidy let out a soft breath of amazement as her red canvas sneakers met the purple sand. On Earth, walking across a beach had always been a nightmare for her cerebral palsy; loose sand shifted unpredictably under her ankles and exaggerated her limp within ten yards. Here, between the firm, slate-smooth basaltic crust, the gentle twelve-percent lift of `0.88G` easing the spastic tension in her calves, and her right hand steadying her balance on Ryan's rubberized wheelchair push-handle like a rolling walker while Ryan propelled them forward with his own hands on the push-rims, she glided down to the water's edge without a single stumble.
 
 Ryan gave the push-rims two long, smooth strokes pitched to match Cassidy's stride, bringing them both to a gentle stop less than three feet from the violet surf.
 
-Behind them, footsteps rang on the metal ramp as Tyler Wright trotted down from the forward flight deck to join Evan and Holly on the shoreline. In the moon's point-nine Earth gravity, every stride had a subtle, unhurried spring to it—close enough to Earth that their balance was second nature, yet light enough that Tyler and Evan practically glided across the purple sand as their boots touched down. For a full ten beats of the planet's quiet pulse, nobody spoke. Tyler and Evan fanned out to Ryan's left toward the rocky outcroppings while Holly stepped up beside Cassidy on the right, letting Ryan and Cassidy share the center of the bay together.
+Behind them, footsteps rang on the metal ramp as Tyler Wright trotted down from the forward flight deck to join Evan and Holly on the shoreline. In the moon's point-eight-eight Earth gravity, every stride had a subtle, unhurried spring to it—close enough to Earth that their balance was second nature, yet light enough that Tyler and Evan practically glided across the purple sand as their boots touched down. For a full ten beats of the planet's quiet pulse, nobody spoke. Tyler and Evan fanned out to Ryan's left toward the rocky outcroppings while Holly stepped up beside Cassidy on the right, letting Ryan and Cassidy share the center of the bay together.
 
 > **PLANETARY SURVEY LOG // U.S.S. AETHELGARD — BOTANICAL & GEOTECHNICAL TELEMETRY**<br>
 > **Stardate:** **49601.4** (`Movement IV` • `Epoch 96` • `Orbital Millicycle 001.4`)<br>
@@ -673,13 +748,13 @@ They weren't running from *The Cage* anymore. They were home.
 
 Sixteen hours after the *U.S.S. Aethelgard* touched down on the purple basaltic sand of Sanctuary Bay, **Evan Wright** fell asleep in the middle of a bass chord.
 
-He didn't mean to. The five of them were sitting around the open aft cargo ramp enjoying mugs of Holly's whole-milk hot chocolate after spending a glorious first day mapping the western bio-silica grove, testing soil samples, and trading acoustic phrases with the Chorus-Rays in the bay. One second Evan was leaning back against the port hydraulic strut plucking a slow, melodic F-sharp minor groove on his four-string bass; the next second, his chin dropped onto his maroon `CPI` collar, his fingers went still on the strings, and a soft snore drifted out into the twilight air.
+He didn't mean to. The five of them were sitting around the open aft cargo ramp enjoying mugs of Holly's whole-milk hot chocolate after spending a glorious first day mapping the western bio-silica grove, testing soil samples, and trading acoustic phrases with the Chorus-Rays in the bay. One second Evan was leaning back against the port hydraulic strut plucking a slow, melodic F-sharp minor groove on his four-string bass; the next second, his chin dropped onto the slate collar of his survey jacket, his fingers went still on the strings, and a soft snore drifted out into the twilight air.
 
 Three feet away, sitting on an overturned aluminum road case, his twin brother **Tyler** blinked heavily, rubbed his eyes with the heels of both palms, and let out a yawn so wide his jaw clicked.
 
 "Okay," Tyler mumbled, squinting out past the landing ramp toward the western headland. "Somebody explain this to my brain before I face-plant into the hot cocoa. My stomach says it's two in the morning in Blacksburg. Why is the sun still thirty degrees above the trees?"
 
-Standing beside Ryan's manual wheelchair—her right hand resting comfortably on the contoured black rubber **push-handle** of Ryan's backrest to take the weight off her left leg—**Cassidy O'Connell** felt the exact same tug behind her eyelids. Even in Caelum-IV's gentle **`0.90G`** gravity, sixteen straight hours of walking, scanning, and singing had brought out the familiar end-of-day stiffness in her cerebral palsy muscles, and every cell in her twenty-two-year-old body was ready for a pillow.
+Standing beside Ryan's manual wheelchair—her right hand resting comfortably on the contoured black rubber **push-handle** of Ryan's backrest to take the weight off her left leg—**Cassidy O'Connell** felt the exact same tug behind her eyelids. Even in Caelum-IV's gentle **`0.88G`** gravity, sixteen straight hours of walking, scanning, and singing had brought out the familiar end-of-day stiffness in her cerebral palsy muscles, and every cell in her twenty-two-year-old body was ready for a pillow.
 
 Yet outside the cargo hatch, the K-type orange dwarf star **Solis-V** was still shining warmly in the western sky, bathing the violet ocean in late-afternoon amber gold.
 
@@ -773,4 +848,117 @@ Ryan reached back with his left hand from the push-rim and covered Cassidy's fin
 "That was Earth's dark, Cass," Ryan said softly, looking up with his sisters and his cousins at the blazing golden ring-corona encircling Vespera in the center of the night sky. "Out here, even when the sun hides behind a giant, the whole world turns on the lights so you can see where you're going."
 
 When the ninety-minute **Umbral Hush** ended and Full Vespera emerged once more in golden splendor for the final hours of Ring-Night (`Hours 37.5–40.0`), the five of them rolled and walked back up the titanium ramp of the *U.S.S. Aethelgard*—Ryan propelling his wheels while Cassidy steadied her happy, tired stride on his push-handles—ready for their second eight-hour sleep of the orbit (`Hours 40–48`), knowing that when they opened their eyes again at **`Stardate 49602.0`**, the sun would be rising over Sanctuary Bay to begin Orbit Two.
+
+## Chapter 5: 0.88G Calibration, Water Scans & The Purple Sea (Stardate 49602.1)
+
+### 0.88G Calibration, Water Scans & The Purple Sea
+
+**Stardate:** 49602.1 • **Harmonic Cycle:** Second Vesperan Orbit • Rising Solis Sun-Cycle (120.0 BPM Lock) • **Chronometer:** HC 02:10 (0.88G Wheelie Calibration)
+
+![Photorealistic widescreen view on the purple-sand beach of Caelum-IV beside the open landing ramp of the U.S.S. Aethelgard. Mid-20s Ryan O'Connell in his manual wheelchair with rear push-handles, Cassidy O'Connell resting her left hand on his push-handle for balance while holding a tethered hydro-chemical sensor probe in the glowing violet surf, Holly O'Connell reading the emerald SAFE assay on her MagnaPad, and twins Tyler and Evan Wright scanning a coastal shrub of glowing golden-violet Lantern-Berries.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e002-c005-p001-purple-ocean-swim-and-scan.jpg)
+
+On the morning of their second forty-eight-hour orbit around Vespera—**`Stardate 49602.1`**, as the orange dwarf star **Solis-V** climbed back into the eastern sky above Sanctuary Bay—Ryan O'Connell nearly popped a wheelie into orbit.
+
+He hadn't meant to show off. He was rolling down the *U.S.S. Aethelgard*'s titanium ramp in a breathable charcoal crew tee and slate cargo shorts, approaching a three-inch ridge of compacted basalt where the tide line met the upper terrace. Back in Blacksburg, after six years of living in a manual wheelchair with a complete **T10 spinal cord injury**, Ryan's shoulders, lats, and triceps knew the exact newton-meters of torque required to lift his front casters three inches off a curb in Earth's `1.00G` (`9.81 m/s²`) gravity.
+
+Without thinking, his hands snapped forward on the anodized push-rims with his habitual Blacksburg curb-pop force.
+
+In Caelum-IV's natural **`0.88G` (`8.63 m/s²`)** surface gravity, twelve percent of the weight holding his front frame down wasn't there.
+
+Instead of lifting three inches, Ryan's front casters shot nearly seven inches into the golden-violet morning air. For half a heartbeat he hung balanced on his rear axles at a steep thirty-five-degree angle before his veteran wheelchair reflexes kicked in—feathering backward a fraction of an inch on the push-rims to set the front tires down on the basalt ridge with a soft, controlled *thock*.
+
+Right beside his left wheel, **Cassidy**, who had paused for a second to adjust the strap of her acoustic scanner before taking hold of his rear push-handle, blinked behind her round glasses.
+
+"Did you just try to jump the tide pool like Evil Knievel, Ry?" she asked.
+
+Ryan looked down at his hands on the push-rims, then burst out laughing. "Muscle memory," he admitted, testing a much gentler flick of his wrists that lifted his front casters a textbook two inches off the sand and set them right back down. "Six years of pushing against nine-point-eight meters per second squared on Earth. Out here at point-eight-eight G, my arms think I'm twelve percent stronger than I was on Tuesday."
+
+"Wait until you hear what the medical bay laser gauge said twenty minutes ago," **Holly** called out, walking down the ramp in a lightweight teal survey tunic and rolled-up khaki field trousers with her ruggedized MagnaPad tucked under her arm. "Because our spines aren't being compressed by full Earth gravity anymore, every single one of our intervertebral discs expanded overnight. Tyler and Evan are half an inch taller, Ryan's seated torso height is up four-tenths of an inch, and I am officially five-foot-four-and-a-half."
+
+"Five-foot-four-and-a-half!" **Tyler Wright** cheered from the foot of the ramp, where he and his twin brother **Evan** were wearing sleeveless athletic crew shirts and light cargo shorts in the warm seventy-six-degree morning breeze. To prove Holly's point, Tyler flipped a hickory drumstick into the air with his usual wrist snap. Instead of slapping back into his palm on the familiar Earth beat, the stick rose four inches higher and floated at the apex of its arc for a noticeably longer fraction of a second before dropping back into his hand. "Man, our drum fills are going to have hang-time."
+
+Evan grinned and hopped vertically off a low basalt boulder onto the purple sand. In `0.88G`, the landing had none of the heavy, heel-jarring thud of Earth—just a gentle, buoyant bounce that made his knees feel like coiled springs.
+
+Yet for Ryan and Cassidy, that subtle twelve-percent grace of Caelum-IV's gravity was more than a parlor trick. It was physical relief they could feel in their bones.
+
+Sitting in his chair, Ryan realized that the dull, constant compression ache that usually settled into his mid-back right above his T10 injury level after a long day had completely vanished. And when Cassidy stepped up beside his left wheel and rested her right hand lightly on the contoured black rubber **push-handle** of his backrest, her stride across the firm purple sand was the smoothest it had ever been in her life. She still walked with her noticeable cerebral palsy limp—and she still used Ryan's wheelchair frame like a rolling walker to keep her balance steady as Ryan propelled them both with his hands on the push-rims—but at `0.88G`, the hypertonic stretch-reflex in her calves and hamstrings was twelve percent quieter. She had walked nearly two miles along the shoreline yesterday without a single muscle spasm.
+
+***
+
+#### "Scan First, Trust Second": Testing the Purple Sea & The Lantern-Berries
+
+At the water's edge, gentle waves of luminous, jewel-toned violet lapped against the dark purple sand, sparkling under the golden rings of Vespera.
+
+"Man, look at how clear that water is," Evan said, squatting a few feet back from the foam line and wiping his forehead with the back of his wrist. "It looks like warm amethyst glass. Can we go swimming?"
+
+"Nobody puts a toe in that water yet," Holly said immediately, holding up a finger as Ryan rolled to a stop beside Evan with Cassidy's hand resting on his push-handle. "We're twelve hundred light-years from the nearest hospital, and we are the first human beings on this moon. For all we know right now, that purple water could be acidic, or full of neurotoxic dinoflagellates, or hiding something with teeth under the drop-off. And the same rule goes for those berries Tyler is staring at."
+
+Thirty feet up the beach, where the basaltic sand met the dark mycelial soil of the eastern ridge, **Tyler** had stopped in front of a cluster of low, silver-leaved coastal shrubs. Hanging from the branches were dozens of plump, translucent berries the size of plums that glowed from within in a warm gradient of amber gold and violet—pulsing faintly in time with the planet's `120.0 BPM` harmonic clock.
+
+"I wasn't going to eat one!" Tyler protested, holding both hands up around his handheld bio-scanner like a boy caught near a cookie jar. "I remember freshman biology at CPI, Hols. Alien biochemistry can have left-handed amino acids or cyanide glycosides. I'm scanning it first."
+
+"Good," Holly smiled, stepping down to the water's edge beside Ryan and Cassidy while unclipping the tethered **hydro-chemical immersion probe** from the side of her MagnaPad. "Cass, Ry—let's run the full water assay first while Tyler and Evan scan the fruit."
+
+Holding Ryan's left push-handle with her left hand for balance, Cassidy knelt slightly at the edge of the firm purple sand and lowered the stainless-steel sensor tip of the tethered probe into the violet surf.
+
+Right away, the *U.S.S. Aethelgard*'s main telemetry processor began crunching the chemical, biological, and acoustic sonar returns from the bay. Ryan leaned slightly to his right in his chair so he, Cassidy, and Holly could watch the readout scrolling across the MagnaPad screen together:
+
+```
+HYDRO-CHEMICAL & BIOLOGICAL ASSAY // SANCTUARY BAY SURF ZONE
+Water Temperature: 25.8°C (78.4°F — Tropical Warm Thermal Current)
+pH Balance: 7.82 (Mildly Alkaline — Identical to Earth Marine Baseline)
+Salinity & Specific Gravity: 3.82% Benign Mineral Brine (1.031 g/cm³ — High Buoyancy)
+Microbial Profile: 100% Benign Halobacteria & Retinal Phytoplankton (Bacteriorhodopsin)
+Toxin / Irritant Screen: 0.000 ppm (Zero Neurotoxins, Saxitoxins, Heavy Metals, or Stinging Nematocysts)
+Wide-Band Sonar Sweep (500m Radius): Zero Predatory Fauna (Only Filter-Feeding Vesperan Chorus-Rays)
+HUMAN IMMERSION & SWIM VERDICT: 100% SAFE & NON-TOXIC
+```
+
+"Look at that," Cassidy breathed, her eyes shining behind her glasses as the bottom banner of Holly's pad lit up in solid emerald green. "Seventy-eight point four degrees, pH seven-point-eight, zero toxins, zero stinging organisms, and zero predators anywhere in the bay. The purple color is purely benign retinal halobacteria—and the mineral salinity is three-point-eight percent, which means the water is even more buoyant than the ocean back home."
+
+Up by the coastal shrubs, Tyler's handheld molecular scanner chimed with an identical two-tone emerald confirmation.
+
+"And the **Lantern-Berries** just passed the chirality and toxin screen!" Tyler called out, walking down the firm sand with Evan as he held up the molecular readout and a handful of the glowing golden-violet fruit. "Right-handed `D-glucose` and `D-fructose` sugars—one hundred percent compatible with human digestive enzymes. High potassium, natural vitamin C, zero alkaloids, and zero heavy metals."
+
+Holly double-checked the molecular spectrogram on her own pad, nodded once in satisfaction, and took one of the warm, glowing berries from Tyler's palm. She sliced it into five neat wedges with her pocket utility knife and handed one to Ryan, Cassidy, Tyler, and Evan.
+
+On the count of three, all five of them tasted their first native food grown beneath another star.
+
+It burst on the tongue like a cross between a ripe Virginia peach and wild blackberry honey, with a crisp, refreshing mineral finish that left a faint, pleasant warmth at the back of the throat.
+
+"Okay," Evan declared, reaching immediately for a second berry. "Earth apples are officially obsolete."
+
+***
+
+#### Swimming in the Purple Sea: Zero Need for Privacy
+
+With the hydro-chemical probe still glowing bright green on the starboard ramp console, Ryan looked out at the warm, seventy-eight-degree amethyst waves rolling gently onto the firm purple sand.
+
+In the six years since the icy crash at Mile Marker 98 had left him paralyzed from the T10 level down, swimming in an ocean on Earth had been almost impossible. Loose quartz sand trapped his wheelchair casters a hundred yards from the water, and violent Atlantic shore-breaks tried to flip him over Before he could ever reach waist-deep surf.
+
+Here, the compacted basaltic sand rolled right down into a calm, glass-smooth violet bay that was warm, buoyant, and completely safe.
+
+"What do you say, Cass?" Ryan asked, looking up at his younger sister beside his wheel. "Want to go for a swim?"
+
+Cassidy's whole face lit up. "Yes!"
+
+Nobody walked back inside the ship or looked for a private changing room to put on their swimsuits.
+
+Among the five of them—Ryan, Cassidy, Holly, Tyler, and Evan—there was zero need for privacy when getting changed or going swimming, and there hadn't been since Ryan was discharged from the hospital in 1990. When you grow up as siblings and cousins who survived a life-altering spinal cord injury together at sixteen, the human body stops being something awkward to hide behind closed doors. Every single one of the four—Cassidy, Holly, Tyler, and Evan—knew how to help Ryan with his **T10 paraplegia Activities of Daily Living (`ADLs`)**, from lower-body dressing and transfers to his daily toileting and catheter routines, without a second of hesitation or fuss.
+
+Right there on the warm, sunlit titanium deck of the *Aethelgard*'s open cargo ramp, while Holly tossed five clean towels and a stack of dry nylon swim trunks and two-piece athletic swimsuits out of the deck locker, Tyler and Evan kicked off their sneakers and changed into their swim trunks in thirty seconds flat. Beside them, Holly slipped out of her survey tunic and trousers into her navy two-piece swimsuit, tying her auburn hair back into a high ponytail.
+
+At the lower edge of the ramp—where the beveled titanium plate sat two inches above the warm purple sand—Ryan and Cassidy went through their familiar, effortless routine. After Cassidy double-checked Ryan's pre-swim bladder prep in the aft head module just inside the hatch so he could swim as long as he wanted without a care, Ryan transferred smoothly onto the padded lower ramp bench. While Cassidy changed into her violet athletic swimsuit right beside him, she knelt on the warm metal to help Ryan slide his cargo shorts off his paralyzed legs and pull on his charcoal swim trunks—making sure the waistband drawstring was tied flat and secure so the surf wouldn't tug at it.
+
+"Drawstring is flat, pocket zippers closed," Cassidy said matter-of-factly, giving his knee a gentle pat as she stood up and took hold of his wheelchair's rear push-handle. "Let's roll right down to the water line."
+
+Ryan swung himself back into his wheelchair seat for the twenty-foot roll across the firm purple sand, his hands driving the push-rims while Cassidy steadied her cerebral palsy gait on his push-handles. Two feet from the gentle violet surf, Ryan locked both rear brakes so the tide wouldn't nudge his empty chair, lowered himself smoothly from the seat cushion onto the smooth, slate-firm purple sand with one push of his arms, and scooted the last twenty-four inches into the warm amethyst water alongside Cassidy, Holly, Tyler, and Evan.
+
+The moment the seventy-eight-degree purple water closed around Ryan's shoulders, he let out a long, quiet breath of pure joy.
+
+Because the benign halobacterial brine had a specific gravity of `1.031` and Caelum-IV pulled at `0.88G`, the water cradled all five of them like warm velvet. Ryan didn't have to fight to keep his paralyzed lower body from dragging along the bottom; his legs floated effortlessly right at the surface in the violet shimmer while Cassidy floated on her back beside him, her cerebral palsy muscles completely relaxed and weightless in the gentle swell.
+
+Fifty yards out in the bay, a pair of Vesperan **Chorus-Rays** glided lazily beneath the surface, sending a warm, purring F-sharp major triad rippling through the water against their ribs.
+
+Floating on his back between Cassidy and Holly while Tyler and Evan saw who could tread water the highest in point-eight-eight gravity, Ryan looked up past the open cargo ramp of the *U.S.S. Aethelgard*—their home, their studio, and their sanctuary—toward the golden rings of Vespera arching across the sky of a world where the five of them finally belonged.
 
