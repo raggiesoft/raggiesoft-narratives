@@ -218,6 +218,7 @@
 |The Smithsonian|The Finch Endowment|Founded by Lord Alistair Finch.|
 |The Breakers / Vanderbilts|Stanton's Reach / The Stantons|Gilded Age mansion and the associated wealthy family.|
 |Mystic Aquarium|Coastal Wonders Marine Center|Marine aquarium.|
+|Virginia Aquarium & Marine Science Center|Chesapeake Bay Aquarium|Marine aquarium and coastal science center in Virginia Beach, VA.|
 |Busch Gardens (Williamsburg)|Brewster Gardens: The Old World|Also known as The Old Country. Attractions: The Loch Serpent (Ness Monster), The Iron Aeronaut (Questor), The Shadow Wolf (Big Bad Wolf), The Siege Engine (Battering Ram), The Imperial Rapids (Roman Rapids), The Aquitaine Motorway (Le Mans).|
 |Water Country USA|Tidal Springs|Water park.|
 |D.A.R.E.|Project S.T.E.P.|School-based anti-drug program.|
