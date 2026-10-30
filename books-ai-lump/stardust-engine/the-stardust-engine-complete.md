@@ -1127,7 +1127,7 @@ When Holly incorporated **Engine Room Records, LLC** in Blacksburg and opened a 
 
 From **1994 to 1996**, exiled from commercial radio inside their Blacksburg rehearsal warehouse with nothing but their instruments, their early web server (`TheStardustEngine.com`), the **Warehouse Tapes** cassettes they dubbed by hand for CPI dorm rooms, and an ocean of pure, white-hot rage—rage at Julian, rage at the tabloids for the second violation of the trial, and rage at an industry that wouldn't just let them be musicians—Ryan retuned his guitars down to Drop-D, Evan and Tyler locked in like a hydraulic stamping press, and the five of them forged the brutal, cathartic industrial-metal fire that would erupt in 1997 as [***Hard Reset***](https://music.raggiesoft.com/artists/the-stardust-engine/1997-hard-reset).
 
-# Book 4: Ad Astra, Hard Reset & The Stadium Years (1996–2005)
+# Book 4: Ad Astra, Hard Reset & The Stadium Years (1995–2004)
 
 ## Chapter 1: Escape Velocity (Ad Astra) & Main Engine Cutoff (1995–1997)
 
@@ -1203,7 +1203,163 @@ Sitting in his chair with the warm brass prongs of the unplugged power cord rest
 
 They didn't need any of it. Listening to Cassidy's voice echo off the cinder-block walls as her ship touched down on that distant world inside her head, Ryan made himself a quiet promise right there on the concrete floor: one day, no matter what it took, they were going to play *Ad Astra* under the open stars inside **The Crucible**, and sixty-five thousand people were going to watch his sister land on her new world.
 
-## Chapter 2: Writing Before the Distance on Progress Street (2004)
+## Chapter 2: Job Shadowing the Manager — A Day in the Life of Holly O'Connell (October 18, 2002)
+
+### Job Shadowing the Manager — A Day in the Life of Holly O'Connell
+
+**Date:** 2002-10-18 at 07:15 America/New_York
+
+![Photorealistic widescreen view inside Holly O'Connell's sunlit glass-walled corner office at The Fortress on Industrial Park Road in Blacksburg, Virginia in October 2002. Holly O'Connell (in a tailored charcoal blazer over a maroon CPI shirt, wearing glasses) sits at her oak desk surrounded by legal binders, tour-advancing blueprints, and a speakerphone, while Ryan O'Connell (in his manual wheelchair with rear push-handles), Cassidy O'Connell (resting her hand on Ryan's push-handle), and twin cousins Evan and Tyler Wright lean in with coffee mugs and notepads as they job-shadow her for the day.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e004/c002/p001/holly-band-manager-job-shadow.jpg)
+
+#### 7:15 AM — The Kitchen-Table Coup on Progress Street NE
+
+On Friday morning, October 18, 2002, thirty-eight-year-old **Ryan O'Connell** propelled his manual wheelchair down the wide oak hallway of **Aunt Martha Wright's** farmhouse on **Progress Street NE**, while thirty-five-year-old **Cassidy** walked beside his left wheel with her right hand resting lightly on his rubberized rear **push-handle** like a rolling walker to steady her morning cerebral palsy stiffness. Right behind them came their thirty-four-year-old twin cousins, **Evan and Tyler Wright**, still wearing flannel pajama pants and rubbing sleep from their eyes.
+
+It was the first full week of autumn break after the summer stadium leg of the [***Midnight Drivers***](https://music.raggiesoft.com/the-stardust-engine/2001-midnight-drivers) tour, and none of the four musicians had an alarm set before seven.
+
+Yet when Ryan rolled through the kitchen doorway, the pot of Kona coffee was already half empty, and their thirty-three-year-old little sister **Holly** was sitting at the far end of the oak kitchen table—already dressed in a crisp charcoal blazer over her maroon **CPI** ringer t-shirt, her shoulder-length brown hair tied back in a neat ponytail, her glasses perched on her nose, and three color-coded legal binders spread open in front of her beside a stack of arena CAD blueprints and a silent pager.
+
+Ryan braked his wheels beside the stove, looked at Cassidy, Evan, and Tyler, and then looked back at Holly.
+
+"Holly," Ryan said softly. "How long have you been awake?"
+
+"Since five-forty-five," Holly said cheerfully without looking up from the redline contract in her hand. "Tokyo and London clear their sync licensing queues before six Eastern, and I wanted to get the quarterly mechanical royalty audits for **Fractured Prisms** and **The Paper Wall** reconciled before we head over to **The Fortress** at eight."
+
+Ryan exchanged a long, quiet look with Cassidy, Evan, and Tyler.
+
+For sixteen years—ever since a seventeen-year-old Holly had sat at this exact oak table in 1986 and drafted the `$1.00` partnership cross-license that saved their songs, and ever since a twenty-three-year-old Holly had walked into an Apex Records warehouse in Los Angeles in 1992 with a federal subpoena to rescue her brother and sister—the four musicians of **The Stardust Engine** had lived inside a bubble of almost miraculous peace.
+
+Whenever Ryan and Cassidy walked into Studio A, the room was already warm, quiet, and set up to the millimeter. Whenever they arrived at a stadium or a hotel, the wheelchair ramps were already laser-level, the green rooms were already heated to exactly seventy degrees, the fluorescent bulbs that triggered Cassidy's sensory migraines were already unscrewed, and the hotel suites already had two King beds side-by-side in one room. And whenever a predatory promoter, a tabloid reporter, or a corporate lawyer tried to get near them, the threat mysteriously vanished before Ryan or Cassidy ever heard a word about it.
+
+"That's it," Ryan announced, locking his right wheel with a decisive *click*. "Cass, Ev, Ty—go grab a notepad and put your shoes on. Today, the band is officially off duty."
+
+Holly blinked behind her glasses, her yellow highlighter hovering an inch above the contract. "Wait—what? I blocked out Studio A from one to five this afternoon so you and Cass could work on the synth transitions for [***Sanctuary (Zero-G)***](https://music.raggiesoft.com/the-stardust-engine/2003-sanctuary-zero-g) and [***Mile Marker 98***](https://music.raggiesoft.com/the-stardust-engine/2003-mile-marker-98)."
+
+"The synthesizers aren't going anywhere," Cassidy said warmly, squeezing Ryan's left push-handle as she smiled at her younger sister. "For sixteen years, you've watched every rehearsal, every soundcheck, and every recording session we've ever played. We don't even know half of what you actually do all day to take care of us."
+
+"Today is Take Your Band to Work Day," Tyler grinned, pouring four mugs of coffee. "All four of us are job-shadowing the Manager from start to finish."
+
+***
+
+#### 8:00 AM — The Morning Firewall: Triage at The Fortress
+
+At eight o'clock sharp, after rolling two blocks over to **Industrial Park Road** aboard their custom low-floor shuttle, Ryan, Cassidy, Evan, and Tyler pulled four chairs into a semicircle around Holly's oak desk inside her sunlit, glass-walled corner office on the second floor of **The Fortress**—looking out across the street toward the cream-and-maroon *Stalwart* buses of the **Blue Ridge Transit** garage.
+
+"All right," Holly laughed, shaking her head as she set a legal pad in front of each of them. "If you four are shadowing **Artists First Management, LLC** and **Engine Room Records, LLC**, Rule Number One of morning triage is no talking while the speakerphone is live."
+
+For the next two hours, Ryan sat with his hands resting on his wheel push-rims and watched his little sister operate like an air-traffic controller during a hurricane.
+
+Before 8:45 AM, she had cleared thirty-eight overnight emails and faxes. At 8:50 AM, the red line on her speakerphone blinked: a senior booking producer from a major New York network morning television show.
+
+*"Holly, darling, we're ready to lock The Stardust Engine into the November Sweeps plaza concert series,"* the television producer boomed through the speaker. *"Load-in at Rockefeller Plaza is 4:15 AM, live hit at 6:40 AM, full winter outdoor truss with high-output xenon strobe cannons—"*
+
+"I'm going to stop you right there, Greg," Holly said, her voice polite, crisp, and forged out of pure titanium. "Did your production office read Sections 2A and 4C of the **Engine Room Mandatory Accessibility & Sensory Rider** I faxed you on Tuesday?"
+
+*"Well, sure, the legal department glanced at it, but for live network television—"*
+
+"It's not a suggestion, Greg; it's a condition precedent," Holly said calmly. "Section 2A: zero strobe lighting above three flashes per second, and zero unshielded arc-discharge ballast hum. My sister Cassidy is autistic and has spastic diplegic cerebral palsy; high-frequency strobes are a medical hazard. Section 4C: zero call times prior to 9:00 AM local time, and zero outdoor stages below 62 degrees Fahrenheit. My brother Ryan has a complete T10 thoracic spinal cord injury. Below T10, the human body cannot regulate its core temperature in thirty-four-degree November wind, and his morning **Protocol T-10** medical routine requires ninety uninterrupted minutes before transit. If you want a pre-recorded afternoon satellite feed from our soundstage in Blacksburg at two o'clock, we'd love to do it. Otherwise, it's a hard pass."
+
+When Holly hung up the phone, Evan whistled softly under his breath. "How many calls like that do you field in a week, Holls?"
+
+"About fifteen," Holly said matter-of-factly, already stamping **REJECTED — RIDER NON-COMPLIANCE** on the booking sheet and dropping it into the out-tray. "If I told you guys about every producer who wanted a 4:00 AM load-in or a strobe-light stage, Ryan would feel guilty about his T10 routine and Cass would feel guilty about her sensory threshold. Neither of you ever has anything to apologize for. My job is to be the bad guy at 8:50 AM so you two never have to think about it."
+
+Ten minutes later, at 9:05 AM, Ryan watched Holly take two back-to-back sync licensing calls for **Engine Room Records, LLC**:
+
+1. On Call #1, a Hollywood music supervisor offered **$300,000** upfront to use [**"Escape Velocity (Ad Astra)"**](https://music.raggiesoft.com/the-stardust-engine/1996-ad-astra-single?track=1-01-escape-velocity-ad-astra) in a summer blockbuster—on the condition that the film editors be allowed to cut the five-minute zero-gravity bridge (*Movement III: The Cosmos*) down to twelve seconds. Holly didn't even blink: *"Clause 88 of our master license prohibits any surgical edit, time-compression, or structural truncation of the composition. The four movements stay whole or the song stays in the vault. Have a good morning."*
+2. On Call #2 three minutes later, a public high-school science teacher from Bluefield, West Virginia called nervously to ask how much it would cost to play the full fifteen-minute-and-thirty-three-second suite of *"Escape Velocity (Ad Astra)"* inside their school's inflatable portable planetarium dome for ninth-grade astronomy classes. Holly's entire face softened into a warm smile: *"For a public school planetarium? One dollar in perpetuity, and I'm overnighting you the 24-bit master CD and the full printed sheet music at our expense today."*
+
+Beside Ryan's wheelchair, Cassidy had both hands pressed over her heart, her eyes shining behind her glasses.
+
+***
+
+#### 10:30 AM — Advancing the Venue & The Class A CDL Pre-Trip
+
+At 10:30 AM, Holly pulled the blue architectural blueprints across her desk and dialed the production manager of a 22,000-seat arena in Charlotte to **"advance"** an upcoming charity benefit show.
+
+Ryan had rolled onto a hundred stages over the past decade without ever thinking twice about why the ramps always felt as smooth as Aunt Martha's porch. Listening to Holly advance the show line by line, he finally saw why:
+
+> **ARTISTS FIRST MANAGEMENT, LLC // LIVE VENUE ADVANCE CHECKLIST**<br>
+> **1. Stage Access Geometry (`Section 1A`):** Certified `1:12` maximum slope (`4.76°` incline), minimum `48-inch` clear width (so Ryan O'Connell's manual wheelchair and Cassidy O'Connell walking beside him holding his left rear push-handle can ascend side-by-side), zero-threshold transition plates flush to `< 0.125 inches`, and 2-inch anodized edge curbs.<br>
+> **2. Backstage Green Room & `Protocol T-10` Sanctuary (`Section 3B`):** Private, lockable ground-level room within `50 feet` of Stage Left ramp; independent HVAC thermostat locked at **`70.0°F ± 2.0°F`**; private flat-floor accessible restroom (`60-inch` turning circle, grab bars, sterile catheterization prep counter); 100% incandescent or warm solid-state lighting (`Zero 60-Hz fluorescent magnetic ballasts`).<br>
+> **3. Hotel Suite Configuration (`Section 5A`):** Single contiguous suite floorplan modified prior to arrival with **two King-sized beds side-by-side in the primary bedroom** (`Three-Sibling Guardrail Protocol` for Ryan, Cassidy, and Holly + Twin Bed 2 for Evan and Tyler) and roll-in shower clearance.
+
+"Don't just tell me the carpenter says the ramp looks flat, Mark," Holly told the Charlotte production manager over the speakerphone, tapping her silver scale ruler against the blueprint. "Put a four-foot spirit level and a tape measure on the ramp toe plate and email me the digital photo by 4:00 PM today. Last year in Atlanta, a local crew left a three-quarter-inch steel lip at the bottom of the stage ramp that would have caught my brother's front caster or tripped my sister's right foot. Send me the photo, and I'll countersign the deposit release."
+
+At 11:45 AM, Holly stood up, grabbed her heavy keyring and a pair of leather work gloves off the wall hook, and led the four of them downstairs to the heated indoor motorcoach bay of **The Fortress**.
+
+Parked gleaming under the bay lights sat **Unit 01** of their newly commissioned **Stardust Strategic Assets, LLC** accessible fleet: their forty-five-foot, tri-axle **2002 Sainte-Claire 45H3** interstate motorcoach—christened ***"The Iron Horse"***—wrapped in Obsidian Midnight and Cosmic Nebula livery.
+
+Ever since the December 10, 1990 black-ice crash on Interstate 81 at Mile Marker 98, the family had sworn they would never put their lives in the hands of a sleep-deprived outside charter driver again. Just like Evan and Tyler, Holly had studied the commercial driver manuals between law school exams and earned her **Virginia Class A Commercial Driver's License (CDL) with Passenger and Airbrake endorsements**.
+
+Ryan and Cassidy watched from the bay floor as their five-foot-five little sister climbed into the driver's bucket seat of the 45-foot motorcoach, keyed the ignition, and ran the full DOT airbrake pre-trip check with Tyler holding the clipboard outside—verifying the governor cut-out at `125 PSI`, timing the static pressure drop to less than `2 PSI` in sixty seconds, and then stepping back outside to cycle the custom mid-ship **60-inch vertical hydraulic wheelchair platform lift** and inspect the four-point floor tie-down tracks inside the barrier-free main lounge.
+
+"Lift cycle time is fourteen point two seconds, zero hydraulic weep, and all four L-track ratchet straps are torqued to spec," Holly announced, wiping a speck of grease off her glove.
+
+Tyler looked at his twin brother and shook his head in pure admiration. "Remind me never to challenge our little sister to a CDL backing rodeo."
+
+***
+
+#### 2:00 PM — Studio A, The Vault & The Silent Amber Timer
+
+After lunch, they followed Holly into the control room of **Studio A** inside The Fortress, where she spent two hours wearing her third hat of the day: **Executive Producer and Master Archivist of Engine Room Records, LLC**.
+
+While Evan and Tyler helped her inventory the climate-controlled two-inch magnetic tape vault (`65.0°F`, `45% relative humidity`), Holly opened a series of thick, linen-bound leather ledgers on the mixing console desk to show Ryan and Cassidy how every note they played was preserved.
+
+Inside the ledgers were complete, timestamped patch maps for every track on their catalog—from the exact voice parameters of Cassidy's December 1985 **Vektron Z-1** chime-synth lead on [**"The Stardust Engine"**](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-13-the-stardust-engine) to the bias voltages on Ryan's dual-stack tube amplifiers during the November 1995 recording of [**"Escape Velocity (Ad Astra)"**](https://music.raggiesoft.com/the-stardust-engine/1996-ad-astra-single?track=1-01-escape-velocity-ad-astra)—alongside certified copies of every Library of Congress `Form PA` and `Form SR` copyright certificate and their 1986 `$1.00` equal-share family split sheets.
+
+Then Cassidy noticed a small, matte-black dual digital countdown box Velcroed to the wooden meter bridge right beside Holly's talkback microphone button.
+
+Unlike a studio stopwatch that counted *up*, this box had two silent amber LED readouts counting *down*:
+- **Channel A:** **`00:15:00`** (with a soft, silent amber pulse every fifteen minutes)
+- **Channel B:** **`04:00:00`** (currently sitting at `01:42:18`)
+
+Cassidy tilted her head behind her glasses. "Holly? Why do you have a fifteen-minute timer and a four-hour timer taped next to the talkback button?"
+
+For the first time all day, the fearless General Counsel of *Engine Room Records, LLC* blushed pink to the tips of her ears.
+
+"Because both of you are autistic and get completely lost in hyperfocus whenever you start tracking a song," Holly admitted softly, looking from Ryan to Cassidy. "When the two of you get locked into a fifteen-minute suite in the live room, four hours feel like ten minutes to you. If nobody watches the clock, Ryan forgets to do his fifteen-minute wheelchair pressure-relief push-ups and his four-hour **Protocol T-10** catheterization window, and Cassidy stays standing at the keyboard tier until her cerebral palsy leg spasms lock up her calves."
+
+Ryan stared at the little black timer box on the meter bridge, a sudden lump rising in his throat.
+
+He thought back over the past ten years of marathon studio sessions—how every fifteen minutes, right at the end of a guitar take, Holly's cheerful voice would casually pop onto the talkback headphones (*"Hold thirty seconds while I recalibrate Channel 4—Ry, shift your weight and grab a sip of water!"*), and how every four hours on the dot, Holly would announce (*"Tape reels are warm, twenty-minute break in the green room!"*).
+
+He had always thought she was checking tape bias.
+
+In reality, for ten straight years, his little sister had been silently counting every fifteen-minute weight shift and every four-hour `Protocol T-10` medical window from behind the control-room glass—disguising his spinal cord care and Cassidy's cerebral palsy rest breaks as technical studio pauses so neither of them ever felt like a patient inside their own recording studio.
+
+Ryan wheeled forward until his front casters touched the base of the mixing console, reached up, and took Holly's hand in both of his.
+
+"You've been running `Protocol T-10` on the meter bridge this whole time," Ryan whispered, his voice thick with emotion.
+
+Holly squeezed his fingers back, her eyes bright behind her glasses. "You're my big brother, Ry, and Cass is my big sister. Keeping the Engine and the Stardust safe is the whole point of the company."
+
+***
+
+#### 8:30 PM — Off the Clock: The Little Sister Behind the Armor
+
+At 7:30 PM, when they returned home to the farmhouse on **Progress Street NE**, Holly reached for her laptop bag to review a Delaware real-estate trust filing after dinner.
+
+She never got the zipper open.
+
+Moving in four-part harmony, Evan gently lifted the laptop bag off her shoulder, Tyler clicked the latch shut and locked it inside the hallway closet, Cassidy guided Holly by the elbow to the head of the oak kitchen table, and Ryan rolled over to the oven in his wheelchair to pull out a bubbling pan of homemade four-cheese lasagna they had prepped the night before.
+
+"Hey!" Holly protested, laughing as Cassidy tucked a cloth napkin into the collar of her blazer and set a steaming mug of hot chocolate with extra marshmallows in front of her. "I still have two pages of the Charlotte venue addendum to initial!"
+
+"The Manager is officially off the clock," Ryan said firmly, setting the lasagna pan on the cast-iron trivet while Evan and Tyler brought out garlic bread and salad. "Union rules, Counselor. Section 1A of the Big Brother Rider."
+
+After dinner, out in the living room, Ryan, Cassidy, Evan, and Tyler picked up two acoustic guitars, an acoustic bass, and a pair of brushes on a snare pad, and played a quiet, four-part living-room arrangement of [**"My Anchor Holds"**](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-05-my-anchor-holds) for an audience of one—watching their thirty-three-year-old sister curl her legs up on the sofa in her oversized maroon CPI flannel pajamas, sipping her hot chocolate with her eyes shining in the lamp glow.
+
+At 10:30 PM, after Cassidy helped Ryan through his evening `Protocol T-10` routine and Ryan transferred into the center of the downstairs **King bed**, Cassidy climbed onto his right side and pulled the quilt up over all three pillows.
+
+A moment later, the bedroom light clicked off, and **Holly**—the relentless entertainment lawyer, Class A CDL driver, Executive Producer, and CEO who spent sixteen hours a day standing between her family and the sharpest teeth of the world—climbed onto the left side of the King mattress.
+
+Out of the tailored blazer and away from the speakerphone, she wasn't a corporate titan anymore. She was just Holly—their twenty-something little sister at heart—curling warmly against Ryan's left shoulder as his left-side human bed rail while her hand reached across his chest to hold Cassidy's fingers.
+
+Within ninety seconds, her breathing slowed into deep, even sleep.
+
+Lying in the dark between his two sisters on Progress Street NE, Ryan listened to the October wind rustling the oak leaves outside the window and smiled to himself. Let the rest of the music industry brag about their hotshot Los Angeles managers. **The Stardust Engine** had Holly O'Connell—and nobody on Earth was ever touching his family on her watch.
+
+## Chapter 3: Writing Before the Distance on Progress Street (2004)
 
 ### Two Blocks from Commonwealth Mall
 
