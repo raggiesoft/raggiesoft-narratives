@@ -10,6 +10,8 @@ title: "Escape Velocity: Ad Astra"
 
 **Date:** 1996-07-16 at 21:30 America/New_York
 
+![Photorealistic widescreen view inside Subterranean Launch Silo Alpha 200 feet beneath Industrial Park Road in Blacksburg. The star-cruiser U.S.S. Aethelgard rests on hydraulic launch cradles over a misting flame trench as camouflaged quarry blast doors part overhead toward the starry Virginia night sky. In the foreground, mid-20s Ryan O'Connell propels his manual wheelchair toward the open aft boarding ramp with his hands on the wheel push-rims while his sister Cassidy O'Connell—who has cerebral palsy—holds onto the ergonomic rear push-handles of Ryan's wheelchair like a walker to steady her gait, followed by Holly O'Connell with her MagnaPad and twin cousins Tyler and Evan Wright in maroon CPI shirts.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e001-c001-p001-subterranean-silo-alpha.jpg)
+
 The fluorescent ballast above the mixing desk in Studio A hummed at sixty cycles per second—a cold, relentless B-natural flat that had been drilling into the back of Cassidy O'Connell's skull for four years.
 
 *The walls are cold, the air is thin. The noise outside is closing in.*
@@ -77,25 +79,33 @@ At the stern of the *Aethelgard*, the wide aft cargo hatch stood open, its zero-
 
 ***
 
-#### Boarding & The Multipoint Flight Harness
+#### Boarding, The Walker Handles & The Multipoint Flight Harness
 
-They crossed the cavernous hangar deck together, the echo of four pairs of boots and the quiet purr of Ryan's high-pressure wheelchair tires rising toward the vaulted limestone roof. Up the wide aft cargo ramp they went, passing the amber-lit starboard telemetry console where Holly immediately docked her MagnaPad to initialize the pre-launch environmental seal.
+As the elevator gate slid open onto the expansive ferro-concrete floor of Silo Alpha, Cassidy stepped out beside Ryan's chair and reached naturally for the pair of contoured, black-rubberized **push-handles** extending from the top of Ryan's titanium backrest uprights.
 
-From the aft cargo bay, a wide, obstacle-free companionway with flush brushed-titanium deck plates led straight forward to the main bridge and cockpit—designed from the very first blueprint with zero stairs, zero raised bulkhead coamings, and thirty-eight-inch clear pocket doors that parted automatically as Ryan's front casters approached.
+To an outsider who didn't know the O'Connell siblings, it might have looked at first glance as though Cassidy were preparing to push her brother. In truth, it was the exact opposite.
+
+Ryan's upper body was a powerhouse—six years of propelling a manual wheelchair across campus hills, loading docks, and arena ramps had given him the shoulders and forearms of a rower, and he never needed anyone to push him on flat ground or a standard ADA incline. The ergonomic rear push-handles bolted to his frame existed strictly for **Cassidy**. Born with mild spastic diplegic **cerebral palsy**, Cassidy walked with a noticeable, asymmetric limp that grew tighter whenever she was tired, cold, or crossing long stretches of hard concrete. By resting her hands lightly on Ryan's rear push-handles while Ryan propelled his own wheels forward with smooth, measured strokes of his palms on the anodized push-rims, Cassidy was able to use her brother's moving wheelchair like a steady, precision-balanced rolling walker.
+
+He was the Engine; she was the Anchor. Even crossing a hangar floor, they moved as a single unit.
+
+Together, the five of them crossed the subterranean launch bay—Ryan's hands driving the push-rims at a comfortable, unhurried pace matched to Cassidy's stride as she steadied her limp on his push-handles, Holly walking a half-step to their right checking pre-flight pressure curves on her MagnaPad, and Tyler and Evan following right behind with their flight bags and aluminum road cases. Up the wide, zero-lip aft cargo ramp of the *U.S.S. Aethelgard* they went, the gentle incline grooved with high-traction non-slip ribs so Cassidy's red canvas sneakers never slipped a millimeter while Ryan rolled them both smoothly inside.
+
+From the aft cargo bay, a wide, obstacle-free companionway with flush diamond-plate titanium decking led straight forward to the main bridge and cockpit—designed from the very first blueprint with zero stairs, zero raised bulkhead coamings, and thirty-eight-inch clear pocket doors that parted automatically as Ryan's front casters approached.
 
 Inside the forward cockpit, the geometry was built around the five-member family like a custom-tailored recording studio.
 
-Ahead of them stretched a panoramic, octagonal forward viewport framed by overhead status matrices and environmental bus breakers. Flanking the glowing cyan-and-amber center command pedestal were two high-back, contoured charcoal leather flight seats fitted with five-point aviation harnesses: **Port Helm** on the left for Tyler, and **Starboard Astrogation** on the right for Evan. Just aft of the center pedestal, where a traditional captain's chair would have been bolted on an older vessel, the deck plates featured a precision-machined **Four-Point Magnetic & Mechanical Wheelchair Docking Lock** flanked by two swiveling jump-seats for Cassidy and Holly.
+Ahead of them stretched a panoramic, octagonal forward viewport framed by overhead status matrices, steel grab rails, and environmental bus breakers. Flanking the glowing cyan-and-amber center command console were two high-back, contoured charcoal leather flight seats fitted with five-point aviation harnesses and dual sidestick controls: **Port Seat (Pilot)** and **Starboard Seat (Copilot & Astrogation)**. Because both **Tyler** and **Evan Wright** were equally rated at the helm, the twins took turns swapping who flew as Pilot and who ran astrogation and engine trim as Copilot on every watch shift. Tonight, for the Blacksburg launch, Tyler was taking the left seat as Pilot while Evan took the right seat as Copilot.
 
-Ryan rolled smoothly into the center command position between Tyler and Evan's stations. As his rear wheels settled over the recessed titanium channels, two padded pneumatic clamps rose half an inch from the deck and engaged the frame hubs of his chair with a solid, reassuring *clack-lock*.
+Centered between and slightly behind the twin pilot chairs—with an unobstructed view straight out the octagonal viewport—was Ryan's command station.
 
-"`WHEELCHAIR FRAME LOCK: ENGAGED — RATED 18.0G LATERAL / 24.0G AXIAL`," the center console chimed in a warm, low-glare amber readout.
+Ryan rolled into the center position while Cassidy shifted her left hand from his push-handle up to the overhead steel grab bar welded above the viewport frame. Because atmospheric breakaway and high-G emergency maneuvers would subject the ship to intense multi-axis forces, two simple straps were never going to be enough. Evan knelt briskly on the diamond-plate deck and hooked a **Four-Point Heavy-Duty Ratchet Tie-Down System**—two high-tensile floor straps angling forward from the front frame uprights and two matching ratchet straps angling aft from the rear axle locks—into recessed L-track anchor fittings milled directly into the ship's structural hull ribs. With four crisp clicks of the ratchets, the wheelchair frame was tensioned rock-solid to the deck in all four quadrants.
 
-"Let's get your harness rigged before we seal the outer hatch, Ry," Evan said, stepping over from the starboard seat before strapping himself in.
+"`FOUR-POINT DECK TIE-DOWNS: LOCKED — RATED 18.0G LATERAL / 24.0G AXIAL`," the center console chimed in a warm, low-glare amber readout.
 
-Because atmospheric breakaway and high-G emergency maneuvers would subject everyone on the flight deck to heavy chest-to-back acceleration—and because a sudden inertial shear in orbit could pitch an unrestrained rider out of a manual seat—Ryan and the CPI mechanical engineering team had designed a custom **Six-Point Quick-Release Flight Harness System** integrated directly into the high-tensile backrest and frame uprights of his flight wheelchair.
+"Floor straps are tight on all four corners, Ry," Evan said, patting Ryan's knee before climbing into the starboard Copilot seat and buckling his own five-point harness. "Let's rig your six-point."
 
-Ryan reached over his shoulders first, pulling down the twin padded Kevlar-weave shoulder straps while Evan handed him the left and right pelvic lap belts from the lower frame anchors. Unlike restrictive medical straps—which Ryan had refused to let near his body since leaving the Roanoke rehab ward in 1990—this was pure aerospace hardware: matte-black anodized aluminum cam-lock buckles modeled after sprint-car and orbital shuttle crew restraints, complete with a single center-chest rotary quick-release puck that Ryan could pop open with a quarter-turn of his own wrist whenever he wanted.
+Integrated into the reinforced backrest and frame uprights of Ryan's wheelchair was a custom **Six-Point Quick-Release Aerospace Flight Harness**—twin wide padded shoulder straps dropping over his maroon `CPI` ringer tee, left and right pelvic lap belts, and dual anti-submarine leg straps, all converging into a heavy-duty machined aluminum **center-chest rotary quick-release puck** that Ryan could pop open himself with a quarter-turn of his wrist.
 
 *Click. Click. Click. Click.*
 
@@ -117,19 +127,19 @@ For the first time since 1992, the air inside the cabin didn't smell like courth
 
 **Date:** 1996-07-16 at 23:45 America/New_York
 
-![Forward cockpit of the star-cruiser U.S.S. Aethelgard looking out through the octagonal forward viewport toward a glowing crimson-and-violet nebula and ringed exoplanet. Twin high-back leather flight seats with multipoint harnesses flank the glowing cyan and amber center helm console.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e001-c002-p001-aethelgard-cockpit.jpg)
+![Photorealistic widescreen view inside the forward cockpit of the U.S.S. Aethelgard during orbital ascent. Identical twin cousins Tyler and Evan Wright sit in the Port (Pilot) and Starboard (Copilot) leather flight seats wearing 5-point harnesses with their hands on dual flight sticks. Centered between them on the diamond-plate deck, mid-20s Ryan O'Connell sits in his manual wheelchair anchored by four heavy-duty floor ratchet tie-down straps and a 6-point aerospace chest harness over his maroon CPI shirt. Beside him, Cassidy O'Connell holds the overhead grab rail while steadying her left hand on Ryan's wheelchair push-handle, and Holly O'Connell monitors telemetry on her MagnaPad as Earth's blue horizon curves below the crimson-and-violet starfield.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e001-c002-p001-aethelgard-cockpit.jpg)
 
 On the center pedestal of the *U.S.S. Aethelgard*'s cockpit, the dark ambient idle of the pre-flight board was suddenly cut by a rapid, sixteenth-note pulse—a driving, crystal-locked `120.0 BPM` sequencer clock that lit the cyan and amber telemetry rings from port to starboard.
 
 > **LAUNCH TELEMETRY // U.S.S. AETHELGARD (REGISTRY: ERR-NCC-1996)**<br>
 > **Departure Vector:** Subterranean Launch Silo Alpha (`37.218° N, 80.413° W` — Industrial Park Road, Blacksburg, VA)<br>
-> **Flight Deck Crew:** Tyler Wright (Port Helm) • Evan Wright (Starboard Astrogation) • Ryan O'Connell (Center Command Lock) • Cassidy O'Connell (Acoustic Comms) • Holly O'Connell (Flight Systems & Telemetry)<br>
+> **Flight Deck Crew:** Tyler Wright (Port Seat — Pilot, Watch 1) • Evan Wright (Starboard Seat — Copilot, Watch 1) • Ryan O'Connell (Center Command Lock — 4-Point Deck Tie-Downs & 6-Point Harness) • Cassidy O'Connell (Acoustic Comms) • Holly O'Connell (Flight Systems & Telemetry)<br>
 > **Primary Propulsion:** Twin Acoustic-Fusion Boosters (`Crimson-Phase Plasma Injection`)<br>
 > **Target Trajectory:** Trans-Orbital Escape Vector $\rightarrow$ Deep-Space Continuum Insertion Point (`Kepler-442c` Beacon)
 
 From the center command lock between the twin high-back leather pilot seats, Ryan O'Connell felt the vibration before it ever reached the speakers.
 
-Through the four titanium floor locks gripping the frame of his manual wheelchair, and through the snug Kevlar weave of his six-point flight harness across his chest and hips, the ship felt like an extension of his own spine. For six years since the rain-slicked asphalt of Route 460 at Mile Marker 98, the world had tried to tell him that mobility was something measured by what his legs couldn't do. Sitting here at the heart of the *Aethelgard*'s bridge—his left hand resting on the auxiliary throttle trim, his right hand hovering over the acoustic phase bus—he wasn't a passenger being carried anywhere. He was wired directly into forty thousand pounds of thrust.
+Through the **four heavy-duty ratchet tie-down straps** anchoring the front and rear frame of his manual wheelchair to the diamond-plate titanium deck, and through the snug Kevlar weave of his **six-point aerospace flight harness** buckled at the center of his chest over his maroon `CPI` ringer tee, the ship felt like an extension of his own spine. For six years since the rain-slicked asphalt of Route 460 at Mile Marker 98, the world had tried to tell him that mobility was something measured by what his legs couldn't do. Sitting here at the heart of the *Aethelgard*'s bridge—his hands resting securely on his push-rims and auxiliary armrest toggles while Cassidy stood to his left with her right hand gripping the overhead steel grab rail and her left hand resting firmly on his wheelchair's rubberized rear push-handle to brace her cerebral palsy stance—Ryan wasn't a passenger being carried anywhere. He and his sister were wired directly into forty thousand pounds of thrust.
 
 "Silo acoustic dampeners flooding now," Holly called from the starboard systems console, her fingers flying across the glowing cyan touch-matrix as cooling water and nitrogen foam cascaded into the subterranean flame trench beneath the ship's tail. "Blue Ridge Transit just logged their final midnight route check across the street. Industrial Park Road is completely clear of surface traffic."
 
@@ -215,23 +225,25 @@ Ryan looked out through the forward viewport at the tiny blue marble receding be
 
 ## Movement III: The Cosmos (Zero-G Hugs & The Nebula Stream)
 
-### Zero-G Hugs & The Nebula Stream at Continuum Factor 8.4
+### Part 1: Day 1 in the Continuum: Zero-G Hugs & Unbuckling the Tether
 
 **Date:** 1996-07-17 at 00:15 America/New_York
 
+![Photorealistic widescreen view inside the panoramic observation lounge of the U.S.S. Aethelgard during faster-than-light transit with artificial gravity set to 0.00G. On the diamond-plate deck in the lower foreground, Ryan's empty manual wheelchair (with its rear push-handles) remains anchored to the floor by four heavy-duty ratchet tie-down straps while its unbuckled 6-point harness straps float upward. Floating weightlessly in mid-air above the empty wheelchair in front of three panoramic nebula windows, mid-20s Ryan O'Connell shares a joyful zero-gravity group hug with his sisters Cassidy and Holly and his twin cousins Tyler and Evan in their maroon CPI shirts as guitar picks and sheet music drift around them.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e001-c003-p001-zero-g-family-hug.jpg)
+
 Twelve thousand kilometers above the night side of Earth, the forward collector ring of the *U.S.S. Aethelgard* began to glow with a soft, crystalline cyan light.
 
-Inside the cockpit, the sharp, driving telemetry of the launch sequence had given way to the vast, sweeping harmonic pads of **Movement III**. On the center console between Tyler and Evan's seats, the **Harmonic Continuum Drive** displayed a rising lattice of overtone ratios—locking the ship's field coils onto the twelve-hundred-light-year navigational corridor toward **Kepler-442c**.
+Inside the cockpit, the sharp, driving telemetry of the launch sequence had given way to the vast, sweeping harmonic pads of **Movement III**. On the center console between Tyler's Port Pilot seat and Evan's Starboard Copilot seat, the **Harmonic Continuum Drive** displayed a rising lattice of overtone ratios—locking the ship's field coils onto the twelve-hundred-light-year navigational corridor toward **Kepler-442c**.
 
 > **FTL PROPULSION LOG // U.S.S. AETHELGARD (REGISTRY: ERR-NCC-1996)**<br>
 > **Drive Architecture:** **Harmonic Continuum Field Coils** (Non-Relativistic Spatial Metric Folding)<br>
 > **Cruising Velocity:** **Continuum Factor 8.4** (`1,200 Light-Years` / `72.0 Hours Shipboard Proper Time`)<br>
-> **Time-Dilation Differential:** `0.0000%` (Zero Relativistic Shear Inside Continuum Envelope)<br>
+> **Helm Watch Rotation:** Watch 1 (`Hours 00–08`): Tyler Wright (Pilot) / Evan Wright (Copilot)<br>
 > **Deck Plate Gravity:** Transitioning from **`1.00G` (`9.81 m/s²`)** $\rightarrow$ **`0.00G` (`Zero-G Sanctuary Mode`)**
 
-"Continuum field geometry is phase-locked," Evan announced from Starboard Astrogation, his eyes reflecting the violet-and-gold trajectory spline curving across his monitor. "No gravitational mass shadows along the corridor. Course laid in: bearing mark two-one-four by zero-zero-eight."
+"Continuum field geometry is phase-locked," Evan announced from the right-hand Copilot seat, his eyes reflecting the violet-and-gold trajectory spline curving across his monitor. "No gravitational mass shadows along the corridor. Course laid in: bearing mark two-one-four by zero-zero-eight."
 
-In the port seat, Tyler rested his right hand on the twin FTL engagement throttles and glanced back over his shoulder toward the center wheelchair lock.
+In the left-hand Pilot seat, Tyler rested his right hand on the twin FTL engagement throttles and glanced back over his shoulder toward the center wheelchair lock.
 
 "Your call, Captain," Tyler said with a quiet smile.
 
@@ -247,102 +259,121 @@ Rather than slamming through normal space like a battering ram, the Continuum co
 
 *I see the colors of the nebula / A place I've only seen in dreams / The reds, the blues, the purples call / Flowing in majestic streams.*
 
-"Cruising velocity stable at Continuum Factor eight-point-four," Holly reported from the starboard console, setting her MagnaPad down into its magnetic cradle. "Estimated transit to the Vespera system is seventy-two hours shipboard time. Autonavigation is locked in, and the inertial envelope is smooth as glass."
+"Cruising velocity stable at Continuum Factor eight-point-four," Holly reported from the starboard console, clipping her MagnaPad into its flush bulkhead cradle. "Estimated transit to the Vespera system is seventy-two hours shipboard time. Autonavigation is locked in for the next eight hours, and the inertial envelope is smooth as glass."
 
-She turned in her seat and looked at Ryan, her expression softening.
+Letting out a long breath, the five of them moved aft into the *Aethelgard*'s wide **Panoramic Observation & Studio Lounge**—Ryan propelling his manual wheelchair along the diamond-plate corridor while Cassidy walked right behind his left shoulder, resting both hands lightly on Ryan's rubberized rear push-handles like a walker to steady her cerebral palsy limp after the high-G climb out of Earth's gravity well.
 
-"Deck plates are currently holding at one-point-zero Earth gravity, Ry," Holly said gently. "Do you want to keep Earth's weight on the floor, or do you want me to turn it off?"
+Inside the observation lounge, where three floor-to-ceiling silica-quartz viewports looked out directly into the swirling pink, gold, and cyan ribbons of the Continuum stream, Evan and Tyler knelt beside Ryan's wheels and hooked the lounge's **four-point floor ratchet tie-down straps** onto his front and rear frame anchors so the chair itself wouldn't drift when they cut the deck plates.
+
+Holly stood by the environmental control bus on the bulkhead and looked at her brother and sister, her expression softening.
+
+"Deck plates are currently holding at one-point-zero Earth gravity, Ry," Holly said gently. "Do you two want to keep Earth's weight on the floor, or do you want me to turn it off?"
 
 ***
 
-#### Unbuckling the Tether in Zero-G
+#### Floating Above the Chair
 
-For six years—two thousand one hundred and ninety days since the rainy night a reckless driver had run them off Route 460 at Mile Marker 98—gravity had been a negotiation Ryan could never take a break from.
+For six years—two thousand one hundred and ninety days since the rainy night a reckless driver had run them off Route 460 at Mile Marker 98—gravity had been a negotiation Ryan could never take a break from. And for Cassidy's entire twenty-two years of life, Earth's `1.00G` pull had been the invisible force that tightened the spastic diplegia in her calves and made every long hallway a careful calculation of balance against her brother's push-handles.
 
-Even on his strongest days, even with custom titanium wheelchairs, transfer boards, and upper-body strength built from thousands of miles of pushing, Earth's `1.00G` pull was relentless. It compressed his spine into his seat cushion after twelve-hour studio sessions. It turned a four-inch concrete curb into a wall. And whenever the people he loved most in the world stood up to hug him, they always had to bend down over his armrests, angling their shoulders around his push-rims and brake levers so they wouldn't catch a jacket zipper or put awkward pressure on his knees.
-
-Ryan looked down at the matte-black rotary quick-release puck of his six-point flight harness resting against his sternum.
+Ryan looked down at the machined aluminum rotary quick-release puck of his six-point flight harness resting against the `CPI` lettering on his chest. Then he looked up at Cassidy standing beside his left wheel.
 
 "Turn it off, Hols," Ryan whispered. "All the way to zero."
 
-Holly smiled, turned to the environmental control panel on the starboard bulkhead, and slid the master **Artificial Gravity Deck Plate** fader smoothly down from `1.00G` through `0.50G`, `0.20G`, and into the glowing cyan detent marked **`0.00G — SANCTUARY ZERO-G`**.
+Holly smiled, reached up to the environmental panel, and slid the master **Artificial Gravity Deck Plate** fader smoothly down from `1.00G` through `0.50G`, `0.20G`, and into the glowing cyan detent marked **`0.00G — SANCTUARY ZERO-G`**.
 
-A soft three-note chime echoed through the cabin.
+A soft three-note chime echoed through the lounge.
 
-Across the cockpit, loose jacket drawstrings and the braided headphone cable coiled beside the mixing bus rose lazily into the air. In the port and starboard seats, Tyler, Evan, Cassidy, and Holly popped their five-point seat buckles and floated an inch above their leather cushions.
+Across the room, a pair of tortoise-shell guitar picks and two loose sheets of handwritten chord charts rose lazily out of the studio tray and drifted into the air. Beside the console, Cassidy's red canvas sneakers lifted half an inch off the diamond-plate floor. A startled gasp of pure delight escaped her lips as the lifelong tension in her knees and ankles simply let go—no limp, no fear of tripping, and no floor pulling at her joints.
 
-In the center command lock, Ryan's wheelchair remained firmly clamped to the titanium deck channels by its magnetic floor locks—which meant the chair itself stayed anchored like a solid launchpad while Ryan reached up with his right hand, gripped the center rotary puck of his six-point harness, and turned it forty-five degrees counter-clockwise.
+Down in the center of the deck, Ryan's manual wheelchair remained securely anchored to all four corners of the floor by its heavy-duty ratchet tie-down straps. Reaching up with his right hand, Ryan gripped the center rotary puck of his **six-point harness** and turned it forty-five degrees counter-clockwise.
 
 *Click.*
 
-All six harness tangs released at once.
+All six harness straps released at once, their unbuckled nylon ends floating weightlessly upward above the backrest and push-handles like ribbons in slow motion.
 
-Ryan didn't have to brace his triceps on his armrests or execute a seated transfer. He simply pushed lightly with two fingers against the anodized push-rims of his chair—and rose weightlessly into the center of the cabin.
+Ryan didn't have to brace his triceps on his armrests or execute a seated transfer. He simply pushed lightly with two fingers against the anodized push-rims of his chair—and floated completely out of his wheelchair into the center of the cabin.
 
 *I'm floating now, the engine's off / The silence is a holy sound / The rage is gone, the fear is lost / In this new universe I've found.*
 
-A quiet, breathless laugh escaped Ryan's throat as his boots drifted clear of the footrest plate. For the first time since he was eighteen years old, there was zero pressure on his lower back, zero weight pressing his hips into a cushion, and zero separation between where he stood and where his family stood. He floated upright in the warm violet-and-crimson light of the nebula streaming past the forward viewport—six feet tall again, suspended eye-to-eye with the four people who had carried him through the fire.
+A quiet, breathless laugh escaped Ryan's throat as his sneakers drifted two feet above the empty seat cushion below him. For the first time since he was eighteen years old, there was zero pressure on his lower back, zero weight pressing his hips into a frame, and zero height difference between him and the people he loved. He hovered upright in front of the glowing middle viewport—eye-to-eye with his sisters and his cousins in the streaming light of the nebula.
 
-Cassidy was the first to reach him.
+Cassidy didn't need a walker in zero gravity, and Ryan didn't need wheels.
 
-She didn't have to lean down over an armrest or twist sideways around a wheel. She simply pushed off gently from the port console, drifted straight into the center of the cabin, and wrapped both arms all the way around Ryan's neck as Ryan wrapped his arms tightly around her waist and shoulders—pulling his little sister into a full, unbroken, weightless embrace as they rotated slowly together in mid-air.
+Laughing through happy tears, Cassidy pushed off gently with the toe of her sneaker, glided straight to Ryan's right side, and threw her arms around his chest as Holly floated in from his left and wrapped her arms around his shoulders. A second later, Tyler and Evan launched themselves weightlessly from the side bulkheads to bracket their cousins on either end—all five of them linked together in a single, beaming, mid-air embrace two feet above Ryan's anchored empty wheelchair while the pink, gold, and cyan currents of the Continuum blazed past the panoramic glass behind them.
 
-"I've got you, Ry," Cassidy whispered against his collar, her voice thick with happy tears. "Look at us. Not a single stone pulling us down."
+"Look at us, Ry!" Cassidy laughed, her cheek pressed against her brother's shoulder at exact eye level as a stray guitar pick tumbled weightlessly past Evan's elbow. "No curbs, no stairs, and no gravity!"
 
-"Not a single one, Cass," Ryan murmured, holding her close for a long, unhurried moment before Holly drifted over from the starboard bulkhead and wrapped her arms around both of them at once.
+"Group hug at Continuum Factor eight-point-four," Tyler grinned, wrapping his arm around Cassidy and Ryan while Evan slung his arm across Holly's shoulder. "Try serving a subpoena out here, Los Angeles."
 
-Holly—who had spent the last six years carrying the weight of every contract, every hospital bill, every ramp inspection, and every legal battle on her own shoulders—rested her forehead against Ryan's temple at exact eye level, her eyes squeezed shut as she held her brother and sister in the middle of the starlight.
+### Part 2: Days 2–3 in the Continuum: Pilot Shift Swaps, Onboard Studio Jam & Calibrating to 0.90G
 
-Then two pairs of strong hands caught their shoulders from either side as Tyler and Evan floated out of the forward helm seats and piled into the embrace—all five of them linked together in a single, floating circle in the center of the cockpit while the crimson, blue, and purple currents of the Continuum glided past the glass.
+**Date:** 1996-07-18 at 14:00 America/New_York
 
-"Group hug in zero-G," Evan grinned, his arm slung squarely across Ryan's shoulders while Tyler's hand gripped Ryan's forearm. "Try putting *that* in a courtroom deposition, Los Angeles."
+![Photorealistic widescreen view inside the onboard recording studio lounge of the U.S.S. Aethelgard during faster-than-light transit. Through the large panoramic windows on the left, a glowing crimson, gold, and violet nebula streams past in deep space. On the diamond-plate studio deck, mid-20s Ryan O'Connell sits in his manual wheelchair (secured by four floor ratchet tie-down straps and a 6-point harness, with rear push-handles) playing his cherry-sunburst solid-body electric guitar. Beside his wheelchair stands Cassidy O'Connell in her maroon CPI shirt and jeans, singing into a vintage condenser microphone while resting one hand lightly on Ryan's wheelchair push-handle for balance, as twins Evan and Tyler Wright play electric bass and drums and Holly O'Connell watches by the console.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e001-c003-p002-onboard-studio-jam.jpg)
+
+By the afternoon of their second shipboard day inside the Harmonic Continuum, life aboard the *U.S.S. Aethelgard* had settled into the warm, effortless rhythm of a Progress Street house party moving at a hundred and forty thousand times the speed of light.
+
+Up in the forward cockpit, **Tyler** and **Evan Wright** had established a strict, eight-hour watch rotation at the helm—not only so one twin was always fresh at the controls while the other slept or played music aft, but because neither brother was ever willing to let the other claim permanent seniority as Pilot-in-Command.
+
+> **HELM WATCH LOG // U.S.S. AETHELGARD — 72-HOUR CONTINUUM TRANSIT**<br>
+> **Watch 1 (`Day 1 • 00:00–08:00`):** Pilot (Port Seat): **Tyler Wright** • Copilot (Starboard Seat): **Evan Wright**<br>
+> **Watch 2 (`Day 1 • 08:00–16:00`):** Pilot (Port Seat): **Evan Wright** • Copilot (Starboard Seat): **Holly O'Connell**<br>
+> **Watch 3 (`Day 2 • 08:00–16:00`):** Pilot (Port Seat): **Evan Wright** • Copilot (Starboard Seat): **Tyler Wright**<br>
+> **Watch 4 (`Day 3 • Approach & Re-entry`):** Pilot (Port Seat): **Tyler Wright** • Copilot (Starboard Seat): **Evan Wright**
+
+Every time the eight-hour watch chime sounded on the bridge, the twins turned the seat-swap into a theatrical event.
+
+"Port seat is mine for the afternoon shift, little brother," Evan announced at the start of Watch 3, tapping Tyler on the shoulder with a sealed zero-G thermal sip-pouch of Holly's whole-milk hot chocolate.
+
+"You're four minutes younger than me, Ev," Tyler shot back, unclipping his five-point harness and executing a practiced half-gravity hop over the center console as Evan slid into the left-hand Pilot seat and adjusted the dual sidesticks to his grip. "And don't touch my trim presets on the Continuum coils—I've got her purring within point-zero-two hertz of pure F-sharp."
+
+"Please," Evan grinned, buckling his five-point harness in the Pilot chair while Tyler strapped into the Starboard Copilot station and took a long sip of hot cocoa. "Wait until you feel how smooth I bank us around the Cygnus dust filament."
 
 ***
 
-#### The Solo in the Nebula Stream
+#### The Studio in the Stars
 
-On the second day of the seventy-two-hour transit—with the cabin still set to `0.00G` Sanctuary Mode so they could drift freely between the cockpit and the aft acoustic lounge—Ryan unlatched the pressurized carbon-fiber case anchored to the port bulkhead and floated his cherry-sunburst **Sainte-Claire** solid-body electric guitar out into the air.
+While the ship cruised smoothly through the second day of the nebula corridor, Holly brought the aft **Observation & Recording Studio Lounge** back to a comfortable **`0.90G`** practice gravity so the band could test their acoustic instruments and finish rehearsing the live arrangement of *"Escape Velocity (Ad Astra)"* before reaching their new home.
 
-He didn't even need a guitar strap to hold the mahogany weight against his collarbone; in zero gravity, the instrument hovered effortlessly at chest height while he clipped a coiled wireless transmitter into the output jack, braced the heel of his left boot lightly against a padded handrail next to the panoramic viewport, and switched on the cabin's studio monitor array.
+The aft lounge had been acoustically engineered just like Studio A back at The Fortress—except instead of brick walls and buzzing fluorescent ballasts, the entire port bulkhead was a massive double-paned panoramic viewport looking straight out into a swirling cathedral of crimson, gold, and purple interstellar clouds. Mounted on the starboard wall above the acoustic baffling hung their woven black-and-neon banner bearing the rocket-and-gear emblem of **The Stardust Engine**.
 
-Beside him, Cassidy floated with one hand resting lightly on the upper viewport frame, her eyes following a thirty-light-year ribbon of ionized hydrogen and violet dust unfurling across the dark.
+In the center of the diamond-plate studio stage, Ryan rolled his manual wheelchair into position over the floor tracks. Even during a calm faster-than-light cruise, shipboard safety came first: Tyler and Evan hooked all **four heavy-duty ratchet tie-down straps** (two front, two rear) to Ryan's frame hubs, and Ryan clicked the four outer tangs of his **six-point flight harness** into the center chest buckle over his maroon `CPI` ringer tee, leaving his shoulders and arms completely free to play his cherry-sunburst **Sainte-Claire** solid-body electric guitar.
 
-Ryan touched the strings.
+Beside Ryan's left wheel stood Cassidy in her maroon `CPI` tee, blue jeans, and red canvas sneakers.
 
-What poured through the *Aethelgard*'s cabin wasn't the jagged, defensive distortion of *The Cage*, and it wasn't the desperate, white-knuckle sprint of launch. It was the long, soaring, bell-clear guitar melody of **Movement III**—every bent note sustaining endlessly against the warm analog synth pad, full of pure, unguarded hope as the red, blue, and purple nebula currents washed across the glass.
+She positioned her vintage silver condenser microphone stand just inches from the front left corner of Ryan's chair. That way, while her right hand held the microphone stand at the vocal phrasing of **Movement III**, her left hand could rest effortlessly on the contoured rubberized **push-handle** rising from the left upright of Ryan's wheelchair backrest—giving her cerebral palsy stance a rock-solid anchor bolted directly to the deck of the starship whenever she leaned into a high note.
 
-*I'm loved by the sun / I'm held by the void / An orbit just begun / A life not destroyed... And the stars are singing / A song I understand / I'm finally, finally / Reaching for your hand.*
+Behind them, Evan strapped on his sunburst four-string electric bass, Tyler took his seat behind the acoustic drum kit (securely clamped to a shock-isolated riser), and Holly leaned against the studio mixing console with her MagnaPad in hand, bathing the stage in warm amber spotlighting that blended into the violet glow of the nebula outside.
+
+"Tape machines rolling at thirty inches per second," Holly called out, tapping the digital-to-analog sync lock on the board. "Movement III into Movement IV transition—take one in deep space."
+
+Tyler clicked his drumsticks four times at `120.0 BPM`.
+
+Evan slid into the warm, melodic bassline, and Ryan leaned forward against his six-point harness, his fingers dancing across the rosewood fretboard of his *Sainte-Claire* as the soaring, bell-clear guitar solo of Movement III filled the cabin. Right beside his shoulder, with her hand steadying her balance on his wheelchair's push-handle, Cassidy lifted her chin toward the glowing crimson-and-violet nebula streaming past the glass and sang with an unguarded power she had never been able to reach on Earth:
+
+*I see the colors of the nebula / A place I've only seen in dreams / The reds, the blues, the purples call / Flowing in majestic streams... This is the place I was meant to be / This is the Stardust that is me!*
 
 ***
 
-#### Seventy-Two Hours Later: Calibrating to 0.90G
+#### Day 3: Calibrating to 0.90G & Retiring Earth's Calendar
 
-On the final hour of the third day, a soft amber chime sounded from the forward astrogation console.
+On the final hour of the third day (`July 19, 1996`, Shipboard Elapsed Time `71:48`), a soft amber chime sounded from the forward astrogation console.
 
-Ahead of the *Aethelgard*'s bow, the prismatic tunnel of the Harmonic Continuum was beginning to open toward a warm, golden K-type star system.
+With the instruments safely stowed back inside their padded bulkhead lockers, the five of them returned to the forward cockpit—Ryan propelling his chair up the central companionway while Cassidy walked right behind him with both hands resting lightly on his push-handles like a rolling walker, steadying her stride all the way to the bridge.
 
-"Approaching the outer heliosphere of **Solis-V**," Evan called out, floating back into the starboard astrogation seat and buckling his five-point harness across his chest. "We're twelve minutes from Continuum drop-out at **Vespera**."
-
-"Bringing deck plates back online for atmospheric entry," Holly announced from the environmental board. She glanced over at Ryan as he floated smoothly back down into his anchored manual wheelchair in the center command lock and latched his guitar safely back into its bulkhead rack. "Listen up, everyone: I'm not setting the deck plates back to `1.00G` Earth standard."
-
-She tapped the planetary survey readout on her MagnaPad, projecting a crisp green gravitational profile of Vespera's outermost rocky moon:
+Inside the cockpit, Evan and Tyler strapped into the twin forward leather seats, Ryan locked his wheelchair into the **four-point floor ratchet tie-downs** and cinched his **six-point chest harness** snug, Cassidy gripped the overhead steel grab rail beside Ryan's left push-handle, and Holly called up the planetary entry profile on her starboard MagnaPad.
 
 > **GRAVITATIONAL & ATMOSPHERIC ENTRY PROFILE // CAELUM-IV ("SANCTUARY")**<br>
-> **Planetary Mass & Radius:** `0.86 Earth Masses` • `0.98 Earth Radii`<br>
+> **Primary Body:** Vespera (*Kepler-442c*) — Golden-Banded Super-Jovian Gas Giant<br>
+> **Orbital Configuration:** 1:1 Synchronous Tidal Lock (`1 Full Orbit = 48.0 Earth Hours`)<br>
 > **Natural Surface Gravity:** **`0.90G` (`8.83 m/s²` — Exactly 90.0% of Earth Standard Gravity)**<br>
-> **Biomechanical Impact:** Full inner-ear vestibular stability with a gentle **10% buoyant stride reduction** for walking crew and **10% reduced rolling resistance / axial spine load** for manual wheelchair propulsion.
+> **Biomechanical Impact:** Full vestibular stability with a **10% buoyant reduction in joint load** for Cassidy's cerebral palsy gait and **10% reduced rolling resistance** for Ryan's manual wheelchair.
 
-"Caelum-IV has a natural surface gravity of **point-nine-zero Earth G**," Holly explained, a warm smile touching her lips as she slid the deck-plate fader up from `0.00G` and locked it precisely at **`0.90G`**. "Ninety percent of Earth's pull. It's close enough to home that our inner ears, our muscles, and our coffee cups work completely naturally—you won't go floating off into the bushes if you sneeze—but every step you take on the beach is going to have a gentle, ten-percent buoyant bounce to it, and Ryan's chair is going to roll ten percent lighter on every push."
+"Caelum-IV has a natural surface gravity of **point-nine-zero Earth G**," Holly announced, locking the ship's internal artificial gravity deck plates permanently at **`0.90G`** to match the surface outside. "Ninety percent of Earth's pull. And because Caelum-IV is tidally locked to Vespera in a **forty-eight-hour orbit**, one full day-and-night cycle down on that beach is going to last forty-eight hours—twenty-four hours of sunlight followed by twenty-four hours of golden-violet ring-night."
 
-As the artificial gravity plates hummed softly up to `0.90G`, Ryan settled gently back onto the contoured cushion of his wheelchair.
+As the deck plates locked at `0.90G`, both Ryan and Cassidy felt the gentle ten-percent lift immediately: ten percent less downward compression on Ryan's spine inside his six-point harness, and ten percent less spastic pull on Cassidy's knees as she stood beside his chair.
 
-He felt the difference immediately. His shoulders rested naturally, his hands sat squarely on the push-rims, and his boots rested securely on the footplate—yet that last ten percent of nagging downward compression that Earth had always pressed into his lower vertebrae simply wasn't there. He felt light, balanced, and grounded all at once.
-
-Reaching over his shoulders, Ryan pulled the padded straps of his **six-point flight harness** down across his chest and snapped all four tangs firmly into the center rotary buckle for atmospheric entry.
-
-"Six-point harness locked and green at point-nine G," Ryan confirmed, giving the straps a solid check.
-
-Up at the port helm, Tyler gripped the deceleration throttles as the countdown reached zero.
+Up at the port helm, Tyler gripped the deceleration throttles alongside Evan as the countdown reached zero.
 
 "Dropping out of the Continuum in three... two... one... *Mark.*"
 
@@ -374,9 +405,9 @@ Here, twelve hundred light-years beyond the reach of any subpoena, the air did n
 > **Assigned Epoch:** **Stardate 49601.0** (`Movement IV` • `Epoch 96` • `Orbital Millicycle 001.0`)<br>
 > **Primary Body:** Vespera (*Kepler-442c*) — Golden-Banded Silicate & Ammonia Super-Jovian<br>
 > **Landing World:** Caelum-IV (Logged by Crew as *"Aethelgard's Shore"* / *"Sanctuary"*)<br>
-> **Orbital Configuration:** 1:1 Synchronous Tidal Lock outside Vespera's Outer Radiation Belt<br>
+> **Orbital Configuration:** 1:1 Synchronous Tidal Lock outside Vespera's Outer Radiation Belt (`1 Full Orbit = 48.0 Earth Hours`)<br>
 > **Surface Gravity:** **`0.90G` (`8.83 m/s²` — 90.0% of Earth Standard Gravity)**<br>
-> **Local Time Standard:** Earth 24-hour rotation suspended. Shipboard chronometers locked to Caelum-IV's **120.0 BPM (`2.000 Hz`)** biospheric harmonic pulse and the transit conjunctions of inner shepherd moons **Lumen** and **Umbra**.
+> **Local Time Standard:** Earth 24-hour rotation suspended. One full Caelum-IV orbital day equals **48.0 hours** (**24.0 hours of Solis-V daylight** + **24.0 hours of Golden-Violet Ring-Night**), measured in Stardate millicycles (`.000`–`.999`) and **Harmonic Cycles (`HC`)** locked to the biosphere's **120.0 BPM (`2.000 Hz`)** pulse.
 
 As the massive hydraulic actuators along the *Aethelgard*'s stern bulkhead exhaled a slow plume of condensed nitrogen, the steel ramp descended in a smooth, zero-lip arc. Inside the open cargo bay, the four of them stood framed in silhouette against the flood of warm golden-violet twilight pouring in from the shoreline.
 
@@ -410,7 +441,7 @@ Dominating the upper left quadrant of the sky—so immense that it felt less lik
 
 Ryan's eyes followed the curve of the giant's rings, where two smaller, pearl-bright spheres hung like suspended notes on a musical staff. "Tidal lock," he murmured, the physics clicking immediately in the part of his brain that had spent years calculating phase relationships and delay-line ratios in the studio. "Just like the Moon and Earth—and just like the *Twin Moons* concept we sketched on the back of that tour bus legal pad."
 
-"Exactly like that," Holly said softly. "Because Caelum-IV rotates once on its axis for every single orbit it makes around Vespera, Vespera never rises and it never sets. On this hemisphere, that ringed giant will hang in that exact spot above the coastline forever. There is no midnight here, and there is no harsh, blinding noon—only the slow, golden-violet ringlight shifting as we carry this shore around Vespera, while those two inner shepherd moons, **Lumen** and **Umbra**, cross the rings and pull a gentle harmonic tide across the water."
+"Exactly like that," Holly said softly. "Because Caelum-IV rotates once on its axis for every single **forty-eight-hour orbit** it makes around Vespera, Vespera never rises and it never sets. On this hemisphere, that ringed giant will hang in that exact spot above the coastline forever. Instead of an Earth twenty-four-hour clock, each forty-eight-hour orbit gives us **twenty-four hours of warm sunlight** as we swing past Solis-V, followed by **twenty-four hours of luminous Golden-Violet Ring-Night** when we pass behind Vespera and its fully sunlit face shines down on the bay like a giant lantern."
 
 Cassidy lowered her pointing hand just enough to check the decimal readout scrolling across the corner of her handheld scanner: **`STARDATE 49601.0 // HC 00:19`**.
 
@@ -458,7 +489,7 @@ Here, on a moon twelve hundred light-years from Progress Street, the planet itse
 
 Up on the flight deck, Tyler Wright's voice came back over the cargo bay speakers, warm and grinning. *"Locked, chocked, and humming in F-sharp minor, Ry. Take her down the ramp."*
 
-Ryan released his wheel locks with two crisp clicks, leaned forward, and rolled out of the *U.S.S. Aethelgard* into the golden-violet light of Sanctuary.
+Cassidy stepped back up two paces to Ryan's left side and rested her right hand lightly on the black-rubberized **push-handle** rising from Ryan's wheelchair backrest, using her brother's sturdy frame like a rolling walker to steady her cerebral palsy limp down the incline. Ryan released his wheel locks with two crisp clicks, wrapped his palms around his push-rims, and rolled them both smoothly out of the *U.S.S. Aethelgard* into the golden-violet light of Sanctuary.
 
 ## Chapter 2: The Acoustic Forest & Basaltic Shore (Stardate 49601.4)
 
@@ -466,13 +497,17 @@ Ryan released his wheel locks with two crisp clicks, leaned forward, and rolled 
 
 **Stardate:** 49601.4 • **Harmonic Cycle:** Vespera Zenith • Lumen Ring-Shadow Transit (120.0 BPM Lock) • **Chronometer:** HC 00:39 (First Tire Track)
 
-The moment Ryan's front pneumatic casters rolled off the beveled titanium lip of the *U.S.S. Aethelgard*'s ramp and touched the surface of Caelum-IV, his hands told him everything he needed to know.
+![Photorealistic widescreen view on the dark purple-black basaltic beach of Caelum-IV beside the violet ocean under the ringed gas giant Vespera. Mid-20s Ryan O'Connell propels his manual wheelchair across the firm purple sand with his hands on the push-rims while his sister Cassidy O'Connell walks right beside him, resting one hand on Ryan's wheelchair push-handle like a walker to steady her cerebral palsy gait and holding a frequency scanner in her other hand. Beneath Ryan's tires and Cassidy's red sneakers, subterranean mycelial veins glow in crimson and cyan, flanked by 40-foot lavender bio-silica resonance fronds on the left and glowing violet Myco-Towers on the right.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e002-c002-p001-acoustic-forest-shore.jpg)
+
+The moment Ryan's front pneumatic casters rolled off the beveled titanium lip of the *U.S.S. Aethelgard*'s ramp and touched the surface of Caelum-IV, his hands—and Cassidy's hand resting lightly on his left rear push-handle—told them both everything they needed to know.
 
 Through the anodized aluminum push-rims of his chair, the ground felt like a freshly swept hardwood stage floor laid over solid granite—and in Caelum-IV's natural **`0.90G` (`8.83 m/s²`)** gravity, ten percent of Earth's familiar downward drag had simply vanished. There was no lateral fishtailing, no sudden resistance trying to pitch his chest forward, and no grinding crunch of loose silica fighting his bearings. Instead, the dark purple basaltic crust yielded by less than a sixteenth of an inch under his rear tires—just enough to leave two clean, parallel tracks in the damp mineral sand—and then returned his kinetic energy with a buoyant, effortless glide.
 
-He gave the push-rims two long, powerful strokes, accelerating down the gentle slope of the crescent beach until his front casters stopped less than three feet from the violet surf.
+Right beside his left wheel, Cassidy let out a soft breath of amazement as her red canvas sneakers met the purple sand. On Earth, walking across a beach had always been a nightmare for her cerebral palsy; loose sand shifted unpredictably under her ankles and exaggerated her limp within ten yards. Here, between the firm, slate-smooth basaltic crust, the gentle ten-percent lift of `0.90G` easing the spastic tension in her calves, and her right hand steadying her balance on Ryan's rubberized wheelchair push-handle like a rolling walker while Ryan propelled them forward with his own hands on the push-rims, she glided down to the water's edge without a single stumble.
 
-Behind him, footsteps rang on the metal ramp as Tyler Wright trotted down from the forward flight deck to join Evan, Cassidy, and Holly on the shoreline. In the moon's point-nine Earth gravity, every stride had a subtle, unhurried spring to it—close enough to Earth that their balance was second nature, yet light enough that Tyler and Evan practically glided across the purple sand as their boots touched down. For a full ten beats of the planet's quiet pulse, nobody spoke. None of the four people walking behind Ryan crowded his chair or reached for his push-handles. They simply fanned out along the tide line on either side of him—Tyler and Evan to his left toward the rocky outcroppings, Cassidy and Holly to his right—letting Ryan have the center of the bay to himself.
+Ryan gave the push-rims two long, smooth strokes pitched to match Cassidy's stride, bringing them both to a gentle stop less than three feet from the violet surf.
+
+Behind them, footsteps rang on the metal ramp as Tyler Wright trotted down from the forward flight deck to join Evan and Holly on the shoreline. In the moon's point-nine Earth gravity, every stride had a subtle, unhurried spring to it—close enough to Earth that their balance was second nature, yet light enough that Tyler and Evan practically glided across the purple sand as their boots touched down. For a full ten beats of the planet's quiet pulse, nobody spoke. Tyler and Evan fanned out to Ryan's left toward the rocky outcroppings while Holly stepped up beside Cassidy on the right, letting Ryan and Cassidy share the center of the bay together.
 
 > **PLANETARY SURVEY LOG // U.S.S. AETHELGARD — BOTANICAL & GEOTECHNICAL TELEMETRY**<br>
 > **Stardate:** **49601.4** (`Movement IV` • `Epoch 96` • `Orbital Millicycle 001.4`)<br>
@@ -538,15 +573,13 @@ Thermal / Chemical Threat Index: 0.00% (Non-Defensive / Non-Toxic)
 Propagation Velocity: 12.4 Meters/Second (Directed Toward Coastline)
 ```
 
-"You didn't hurt it, Hols," Cassidy said, her voice catching with wonder as she knelt beside the glowing edge of the soil. "It's a mycelial neural network connecting every Myco-Tower along the eastern ridge. The filaments are piezoelectric—when they feel the weight of a footstep, they convert that mechanical pressure into a harmless four-millivolt bio-electric pulse."
+"You didn't hurt it, Hols," Cassidy said, her voice catching with wonder as she rested her left hand on Ryan's wheelchair push-handle and walked alongside him as Ryan pivoted his chair smoothly across the firm purple sand. Together, brother and sister moved fifteen feet across the beach—Ryan's palms driving the push-rims while Cassidy steadied her limp on his push-handle—until Ryan's front casters and Cassidy's red canvas sneakers rested right at the border where the compacted basalt met the dark mycelial soil.
 
-Ryan spun his left wheel backward and his right wheel forward, pivoting his chair smoothly on the firm purple sand, and rolled fifteen feet across the beach until his front casters rested right at the border where the compacted basalt met the dark mycelial soil.
+Carefully, Ryan eased his front wheels two inches over the threshold as Cassidy stepped onto the moss-soft earth beside him.
 
-Carefully, he eased his front wheels two inches over the threshold.
+Instantly, the soil beneath Ryan's casters and Cassidy's sneakers bloomed with a ring of warm crimson light, followed half a beat later by sweeping cyan traces that recognized the exact wheelbase spacing of Ryan's chair and the rhythmic cadence of Cassidy's steps beside it. Unlike the single circular pulse under Holly's boot, the mycelial network beneath Ryan and Cassidy pulsed in an intertwined, symmetrical double-ring—mapping the four contact points of Ryan's manual wheelchair and Cassidy's footsteps steadied against his push-handle as a single, welcome visitor—and sent a ribbon of cyan light racing down the coastline toward the bay.
 
-Instantly, the soil beneath his front casters bloomed with a ring of warm crimson light, followed half a beat later by two longer cyan traces that recognized the exact wheelbase spacing of his chair. Unlike the single circular pulse under Holly's boot, the mycelial network beneath Ryan's tires pulsed in a paired, symmetrical double-ring—mapping the four contact points of his manual wheelchair as a single, welcome visitor—and sent a ribbon of cyan light racing down the coastline toward the bay.
-
-"It's not an alarm," Ryan said softly, watching the crimson and cyan veins pulse beneath his wheels in exact time with the `120.0 BPM` indicator on Holly's pad. "It's a handshake. It's telling the rest of the bay that someone just rolled into the room."
+"It's not an alarm," Ryan said softly, watching the crimson and cyan veins pulse beneath his wheels and Cassidy's sneakers in exact time with the `120.0 BPM` indicator on Holly's pad. "It's a handshake. It's telling the rest of the bay that we just rolled into the room."
 
 ## Chapter 3: Hailing Frequencies at 120 BPM (Stardate 49601.8)
 
@@ -629,4 +662,115 @@ They weren't running from *The Cage* anymore. They were home.
 
 > **CAPTAIN'S PERSONAL DEDICATION // ARCHIVE ADDENDUM (`STARDATE 49601.8`)**<br>
 > *Recorded in the permanent navigation archive of the U.S.S. Aethelgard in memory of the Captain of the NCC-1701-D—who taught a generation watching weeknight television with their families that the cosmos is not a dark wilderness to be feared or conquered, but a sanctuary of reason, empathy, and wonder waiting to be heard. Second star to the right, and straight on 'til morning. Engage.*
+
+## Chapter 4: The 48-Hour Orbit (Stardate 49601.5)
+
+### The 48-Hour Orbit: Sun-Cycle, Ring-Night & The Umbral Hush
+
+**Stardate:** 49601.5 • **Harmonic Cycle:** 48-Hour Vesperan Orbital Cycle • Transition from Sun-Cycle (.0–.5) to Ring-Night (.5–.99) • **Chronometer:** HC 16:00 (Circadian Wall)
+
+![Photorealistic widescreen view on the purple-sand beach of Caelum-IV during the Umbral Hush eclipse at the center of the 24-hour Ring-Night. Overhead, the orange sun is hidden directly behind the dark disk of the gas giant Vespera, rimming the giant planet in a blazing 360-degree halo of backlit golden-and-violet rings. Along the shoreline, the 40-foot lavender bio-silica fronds, giant Myco-Tower mushroom canopies, crimson-and-cyan mycelial root veins, and two breaching Vesperan Chorus-Rays glow in full bioluminescence around mid-20s Ryan O'Connell in his manual wheelchair, Cassidy O'Connell resting her hand on his wheelchair push-handle like a walker, Holly O'Connell, and twins Tyler and Evan Wright.]({{CDN}}/raggiesoft-books/images/scenes/ad-astra/e002-c004-p001-umbral-hush-ring-night.jpg)
+
+Sixteen hours after the *U.S.S. Aethelgard* touched down on the purple basaltic sand of Sanctuary Bay, **Evan Wright** fell asleep in the middle of a bass chord.
+
+He didn't mean to. The five of them were sitting around the open aft cargo ramp enjoying mugs of Holly's whole-milk hot chocolate after spending a glorious first day mapping the western bio-silica grove, testing soil samples, and trading acoustic phrases with the Chorus-Rays in the bay. One second Evan was leaning back against the port hydraulic strut plucking a slow, melodic F-sharp minor groove on his four-string bass; the next second, his chin dropped onto his maroon `CPI` collar, his fingers went still on the strings, and a soft snore drifted out into the twilight air.
+
+Three feet away, sitting on an overturned aluminum road case, his twin brother **Tyler** blinked heavily, rubbed his eyes with the heels of both palms, and let out a yawn so wide his jaw clicked.
+
+"Okay," Tyler mumbled, squinting out past the landing ramp toward the western headland. "Somebody explain this to my brain before I face-plant into the hot cocoa. My stomach says it's two in the morning in Blacksburg. Why is the sun still thirty degrees above the trees?"
+
+Standing beside Ryan's manual wheelchair—her right hand resting comfortably on the contoured black rubber **push-handle** of Ryan's backrest to take the weight off her left leg—**Cassidy O'Connell** felt the exact same tug behind her eyelids. Even in Caelum-IV's gentle **`0.90G`** gravity, sixteen straight hours of walking, scanning, and singing had brought out the familiar end-of-day stiffness in her cerebral palsy muscles, and every cell in her twenty-two-year-old body was ready for a pillow.
+
+Yet outside the cargo hatch, the K-type orange dwarf star **Solis-V** was still shining warmly in the western sky, bathing the violet ocean in late-afternoon amber gold.
+
+At the starboard telemetry console, **Holly O'Connell** suppressed a yawn of her own and tapped the orbital chronometer on her MagnaPad:
+
+> **ORBITAL CHRONOMETER & CIRCADIAN LOG // CAELUM-IV ("SANCTUARY")**<br>
+> **Current Stardate:** **`49601.33`** (`Orbital Hour 16.0 of 48.0`)<br>
+> **Tidally Locked Rotation Period:** **`48.0 Earth Hours` per Full Revolution around Vespera**<br>
+> **Phase 1 — The Sun-Cycle (`Stardate .00` to `.50` • `Hours 00–24`):** 24.0 continuous hours of direct **Solis-V** sunlight (*Rising Solis* $\rightarrow$ *Crown Light* $\rightarrow$ *Golden Dusk*).<br>
+> **Phase 2 — The Ring-Cycle (`Stardate .50` to `.99` • `Hours 24–48`):** 24.0 continuous hours of **Golden-Violet Ring-Night** illuminated by *"Full Vespera,"* centered around the 90-minute **Umbral Hush** eclipse (`.85`–`.90`).
+
+"Welcome to a **forty-eight-hour tidally locked orbit**," Holly said, holding up her pad so Tyler, Ryan, and Cassidy could see the two twenty-four-hour halves of Caelum-IV's orbital ring around Vespera. "Back on Earth, the planet spun once every twenty-four hours: sixteen hours of daylight to be awake, and eight hours of night to sleep. Here, Caelum-IV is tidally locked to Vespera, and it takes **forty-eight hours** to swing all the way around the giant."
+
+Ryan looked up at the golden-ringed gas giant hanging stationary overhead, then over at the orange sun lingering above the lavender fronds. "Twenty-four hours of daylight, followed by twenty-four hours of night," Ryan said, the math clicking cleanly in his head even through his yawns. "Which means one full Caelum-IV orbit is **two complete twenty-four-hour human sleep cycles**."
+
+"Exactly," Holly nodded. "Right now we're at Hour Sixteen of the **Sun-Cycle** (`Stardate 49601.33`). Our bodies have been awake for sixteen hours, so our twenty-four-hour circadian clocks need their eight hours of sleep. The catch is that Solis-V isn't going to set for another eight hours."
+
+Tyler nudged his sleeping twin brother's boot with his sneaker. "Wake up, Ev. Holly says we have to go to bed while the sun is still out, like we're five years old in the middle of July."
+
+"I'm awake, I was just resting my optic nerves," Evan mumbled, blinking groggily as he unstrapped his bass and stood up. "Wait—if we sleep for the next eight hours from Hour Sixteen to Hour Twenty-Four... what happens when we wake up?"
+
+Holly smiled, a glint of pure excitement in her eyes as she tapped the second half of the orbital ring.
+
+"When we wake up eight hours from now at **`Stardate 49601.50`**, Solis-V will be dipping below the horizon," Holly said. "Which means our entire next sixteen-hour waking day is going to happen during the **twenty-four-hour Ring-Night**."
+
+***
+
+#### Waking Up at Sunset: The Day Inside the Night
+
+Eight hours later—after Holly closed the *U.S.S. Aethelgard*'s polarized viewport shutters, dimmed the cabin lights to a soothing amber glow, and let all five of them sleep deeply in the quiet bunk lounge from Orbital Hour 16 to Orbital Hour 24—the shipboard coffee maker chimed at **`Stardate 49601.50`**.
+
+Rested, refreshed, and holding fresh mugs of hot cocoa and coffee, the five of them gathered in the aft cargo bay as Holly pressed the hatch control to lower the stern ramp.
+
+Cassidy stood beside Ryan's left wheel, both of her hands resting lightly on the rubberized **push-handles** of Ryan's manual wheelchair while Ryan sat with his palms poised on his anodized push-rims.
+
+As the titanium ramp descended to the purple sand, every single one of them stopped talking at once.
+
+During the eight hours they had been asleep inside the ship, Caelum-IV had carried Sanctuary Bay around the trailing limb of Vespera onto the night side facing away from the star **Solis-V**.
+
+Just above the western grove of bio-silica fronds, the last sliver of the orange sun was vanishing beneath the horizon. On Earth, that would have meant the encroaching darkness of night.
+
+On Caelum-IV, the sky above the bay was brighter, richer, and more breathtaking than afternoon.
+
+Because Sanctuary Bay was now positioned directly between Vespera and the deep-space stars behind them, they were looking straight up at the **fully illuminated daylight hemisphere of Vespera (*"Full Vespera"*)**. The colossal super-Jovian gas giant—three times the width of Saturn and spanning nearly thirty degrees of the sky—blazed overhead like an immense, swirling lantern of spun gold, amber silicate bands, and ivory storms. Stretching from horizon to horizon, Vespera's razor-thin icy rings caught the direct light of the hidden sun and reflected a warm, shadowless **golden-violet Ring-Light** down across the purple ocean—twenty times brighter than the fullest harvest moon on Earth.
+
+"I take back everything I said about going to bed early," Evan whispered, stepping down the ramp beside Tyler. "We get to spend a whole sixteen-hour day awake inside *this*?"
+
+"Look at the water, Ry," Cassidy breathed.
+
+She didn't let go of Ryan's push-handles as they started down the ramp together. Even after eight hours of rest, Cassidy's cerebral palsy gave her stride that familiar, slight asymmetry whenever she stepped from metal onto sand—and having Ryan's sturdy titanium frame and rubberized push-handles right under her fingers meant she didn't have to look down at her feet or worry about her balance for a single second. Ryan matched his push-strokes on the wheel rims to her exact cadence, rolling them smoothly out onto the firm basaltic beach under the golden dome of Full Vespera.
+
+For the next eleven hours of their **Ring-Night Waking Day** (`Stardate 49601.50` to `49601.73`), they lived a complete, unhurried day beneath a sunless sky lit entirely by a ringed giant. They set up portable acoustic microphones along the tide line, ate lunch on the warm basaltic terrace while the shepherd moons **Lumen** and **Umbra** cast twin silver reflections across the amethyst waves, and discovered that without the direct glare of a star overhead, the air temperature remained a balmy, constant seventy-two degrees carried by the warm oceanic currents.
+
+And then, at **Orbital Hour 36 (`Stardate 49601.75`)**—right in the middle of their afternoon during Ring-Night—Holly's MagnaPad chimed with a soft cyan alert.
+
+***
+
+#### The Umbral Hush (Orbital Hour 36.0)
+
+"Everyone look up at Vespera's eastern limb," Holly called out, walking over to stand beside Ryan and Cassidy near the water's edge. "We're entering the **Umbral Hush**."
+
+Cassidy steadied her left hand on Ryan's push-handle and tilted her glasses up toward the zenith.
+
+As Caelum-IV reached the exact midpoint of its night-side orbit directly behind Vespera, the giant planet's bulk moved squarely in front of the distant orange sun **Solis-V**.
+
+Over the course of ten minutes, a sweeping curtain of deep indigo shadow glided across the golden ammonia bands of Full Vespera until the planet's central disk went completely dark—an immense, velvet-black sphere hanging in the center of the starry cosmos.
+
+Yet the sky did not go dark.
+
+As Solis-V slipped directly behind the center of Vespera, the star's rays refracted through Vespera's upper atmosphere and illuminated the entire circumference of the giant's icy ring system from behind—turning the dark planet into a cosmic eye ringed by a **blazing, 360-degree halo of golden-and-violet fire**.
+
+And the instant the direct sunlight was eclipsed by Vespera's shadow, **Caelum-IV answered**.
+
+> **BIOSPHERIC ECLIPSE TELEMETRY // THE UMBRAL HUSH (`STARDATE 49601.85`)**<br>
+> **Eclipse Duration:** `90.0 Minutes` (`Orbital Hours 36.0–37.5` of `48.0`)<br>
+> **Sky Illumination:** Backlit Circumferential Ring Corona + Dual Crescent Shepherd Moons<br>
+> **Biospheric Response:** **100% Full-Spectrum Bioluminescent Activation (`120.0 BPM` Synchronized)**
+
+All around Sanctuary Bay, a living symphony of light woke up at once.
+
+To their left along the western headland, the forty-foot crystal stalks of the **Bio-Silica Resonance Fronds** began to glow from within like towering flutes of translucent amethyst and neon lavender, their harmonic fifths (`92.50 Hz` and `138.75 Hz`) humming softly in the eclipse breeze. To their right along the eastern ridge, the thirty-foot umbrella canopies of the **Myco-Towers** lit up like a forest of floating violet and magenta lanterns.
+
+Beneath Ryan's four wheelchair tires and Cassidy's red canvas sneakers, the subterranean **mycelial root veins** blazed to life in a vast, geometric tapestry of warm crimson and electric cyan that stretched all the way down the crescent beach. And out in the bay, answering the glowing shoreline, two Vesperan **Chorus-Rays** breached in unison above the purple surf—their twenty-foot pectoral wings trailing ribbons of sparkling cyan bioluminescence against the backlit golden halo of Vespera's rings.
+
+Cassidy tightened her fingers gently around Ryan's left push-handle, her breath catching as the bioluminescent light reflected off her glasses and Ryan's frames.
+
+"For four years in that courtroom and that basement," Cassidy whispered, her voice barely above the `120.0 BPM` hum of the glowing forest, "we thought the dark was something that trapped you."
+
+Ryan reached back with his left hand from the push-rim and covered Cassidy's fingers where they rested on his push-handle.
+
+"That was Earth's dark, Cass," Ryan said softly, looking up with his sisters and his cousins at the blazing golden ring-corona encircling Vespera in the center of the night sky. "Out here, even when the sun hides behind a giant, the whole world turns on the lights so you can see where you're going."
+
+When the ninety-minute **Umbral Hush** ended and Full Vespera emerged once more in golden splendor for the final hours of Ring-Night (`Hours 37.5–40.0`), the five of them rolled and walked back up the titanium ramp of the *U.S.S. Aethelgard*—Ryan propelling his wheels while Cassidy steadied her happy, tired stride on his push-handles—ready for their second eight-hour sleep of the orbit (`Hours 40–48`), knowing that when they opened their eyes again at **`Stardate 49602.0`**, the sun would be rising over Sanctuary Bay to begin Orbit Two.
 
