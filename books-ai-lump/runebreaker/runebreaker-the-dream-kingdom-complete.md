@@ -63,6 +63,8 @@ Ocea buried her fingers into the fabric of her twin brother's shirt as the purpl
 
 ### Part 3: Static and Pixels
 
+**Harmonic Cycle:** 28th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 21:05
+
 There was no floor, no ceiling, and no air—only a roaring tunnel of static and pixels hurtling past at impossible speed.
 
 Ocea clung to Tay's hand with everything she had as they tumbled through the fractured boundary between worlds. Around them, ribbons of hexadecimal code braided themselves into glowing stone battlements, and sixteen-bit synth arpeggios vibrated directly through her ribs like a second heartbeat. The air tasted of burning ozone and cold subterranean stone. Every time she blinked, her own fingers flickered between solid skin and shimmering matrices of golden light.
@@ -89,6 +91,8 @@ A final shockwave of violet static slammed into Ocea's chest, severing the last 
 
 ### Part 4: Ocea's Theme (Barefoot on the Crystal Grass)
 
+**Harmonic Cycle:** 28th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 22:10
+
 Ocea woke to the sensation of cool, dewy blades of grass tickling the soles of her bare feet.
 
 She gasped, pushing herself up on her palms and blinking against a sky that could never have belonged to Earth. Overhead, sweeping curtains of emerald and turquoise aurora light rippled across a velvet canopy of oversized, jewel-bright stars. Floating islands of mossy stone drifted lazily across the horizon, tethered to the earth below by cascading waterfalls that dissolved into glowing mist before they ever touched the ground.
@@ -113,6 +117,8 @@ In the valley just below the ridge, the warm amber lanterns of a small, timber-f
 
 ### Part 1: The Crystal Plains
 
+**Harmonic Cycle:** 29th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 08:30
+
 Morning broke across the Dream Kingdom not with a single rising sun, but with a choir of prismatic light refracting through miles of towering, translucent quartz monoliths.
 
 Ocea shielded her eyes with her forearm as she crested the high meadow ridge, the hem of her faded blue jeans brushing against clusters of bell-shaped wildflowers that chimed in soft major chords whenever the wind stirred them. Beneath her bare feet, the stone pathways of the Crystal Plains were surprisingly smooth and warm, heated by veins of liquid golden mana flowing just beneath the translucent surface like glowing circuit traces on a motherboard.
@@ -132,6 +138,8 @@ With a sharp *pop*, the rune dissolved, and a three-inch patch of grey stone ins
 Ahead, nestled inside a natural amphitheater of giant, sky-piercing mana crystals that acted as a shield against the creeping purple blight, rose the thatched roofs, spinning waterwheels, and cobblestone lanes of Sanctuary Village. Ocea broke into a jog, following the singing stone road down toward the gates.
 
 ### Part 2: Sanctuary Village
+
+**Harmonic Cycle:** 29th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 11:15
 
 Stepping through the timber arch of Sanctuary Village felt like walking into the warmest town theme of an RPG after hours in the wilderness. The air smelled of fresh-baked hearth bread, roasted chestnuts, and sweet pine resin. A gentle melody of wooden flutes and plucked acoustic strings drifted from an open-air pavilion near the central fountain, where villagers in embroidered linen tunics and cloaks of woven moss gathered to trade mana vials and bundles of glowing herbs.
 
@@ -156,6 +164,8 @@ A plan clicked together in Ocea's mind. Fighting her way through the outer perim
 After asking the guardhouse watchman—who gladly waved her permission to take the abandoned rag—Ocea yanked the scratchy wool tunic off the clothesline, folded it tightly, and stuffed it into the bottom of her new canvas satchel before racing up the steps toward the observatory.
 
 ### Part 3: The Crystal Sage
+
+**Harmonic Cycle:** 29th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 14:00
 
 The interior of the Crystal Sage's observatory looked like a cross between an medieval alchemist's tower and an electronics repair shop. Towering brass astrolabes and rotating quartz prisms shared workbench space with spools of copper wire, glass vacuum tubes filled with dancing golden fireflies, and ancient scrying monitors humming in resonant sixteen-bit harmony.
 
@@ -183,6 +193,8 @@ The Crystal Sage stared down at the jagged piece of painted summer-camp clay. Sl
 
 ### Part 4: Half a Medallion
 
+**Harmonic Cycle:** 29th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 15:20
+
 "They always think the code is written in stone!" the Crystal Sage laughed, practically dancing across the laboratory as he unlocked a heavy chest of polished star-metal. As he lifted the lid, a groovy, energetic rhythm seemed to pulse through the observatory's sound-crystals—a fuzzy sixteen-bit organ groove and a driving bassline that made the glass vials on the shelves clink in time. "The Wizard thinks because you only hold half a medallion, your variable is incomplete!"
 
 From the velvet lining of the chest, the Sage lifted a sleek, fingerless gauntlet crafted from lightweight silver-gold alloy and translucent crystal conduits. Unlike bulky medieval armor, it was compact—designed to strap cleanly over a bare forearm like a piece of retro-futuristic arcade hardware.
@@ -205,6 +217,8 @@ Ocea snapped her eyes open. A dazzling stream of warm, golden pixel light erupte
 
 ### Part 5: Sanctuary Inn
 
+**Harmonic Cycle:** 29th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 21:30
+
 That evening, the innkeeper of the Sanctuary Inn refused to accept a single coin for the corner room under the eaves, insisting that anyone brave enough to walk toward the Obsidian Spire deserved the softest feather mattress in the valley.
 
 Ocea sat curled up on the wide window seat, her bare feet warmed by a braided wool rug as she looked out past the village's glowing blue crystal barrier toward the dark northern horizon. Downstairs in the common room, a gentle, looping lullaby of acoustic guitar and soft wooden flute drifted up through the floorboards—the universal sound of a safe save point before the final dungeon.
@@ -222,6 +236,8 @@ She blew out the brass oil lamp on the nightstand, climbed beneath the warm quil
 ## Chapter 3: The Analog Jammer – 30th Day of the Last Frost, Year 404 EC
 
 ### Part 1: Glitch Phantoms
+
+**Harmonic Cycle:** 30th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 13:15
 
 Five miles north of Sanctuary Village, the singing turquoise quartz of the plains abruptly gave way to the Jagged Wastes—a scarred expanse of grey basalt and exposed copper cabling where the Grand Wizard's formatting spells had already stripped the land to its raw wireframe bones.
 
@@ -244,6 +260,8 @@ The remaining two phantoms converged from left and right in an erratic pincer at
 Breathing hard, Ocea lowered her glowing gauntlet and looked up at the towering iron gates of the Citadel just ahead.
 
 ### Part 2: The Iron Sentinels
+
+**Harmonic Cycle:** 30th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 17:40
 
 *CLANG. CLANG. CLANG.*
 
@@ -268,6 +286,8 @@ To keep the stiff blue cuffs of her denim jeans from giving her away beneath the
 Clutching the fire-engine red half of the clay medallion in her pocket to track her brother's faint blue signal, Ocea slipped down into the dungeon dark.
 
 ### Part 3: Tay's Theme (The Hollow Apprentice)
+
+**Harmonic Cycle:** 30th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 19:30
 
 Inside the windowless stone box that served as his quarters, Tay sat on the edge of the narrow wooden cot, staring without blinking at the cracked glass screen of a gutted scrying terminal on the floor.
 
@@ -297,6 +317,8 @@ For a terrifying second, Tay thought his fractured mind had finally snapped and 
 
 ### Part 4: The Grand Decree
 
+**Harmonic Cycle:** 30th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 21:15
+
 High atop the vaulted pinnacle of the Obsidian Spire, the Grand Wizard stood before the Great Directory—a towering, thirty-foot wall of suspended purple runes and cascading hexadecimal crystal matrices that governed every river, mountain, and heartbeat in the Dream Kingdom.
 
 As he swept his gauntleted hands across the console, distorted chiptune power chords and thundering stadium-rock percussion reverberated through the vaulted stone rafters like an imperial anthem. For four hundred and four years of the Era of the Crystal, this realm had been plagued by the insufferable noise of free will—unpredictable villagers, messy analog emotions, and chaotic little glitches that refused to stay within their assigned memory addresses.
@@ -316,6 +338,8 @@ Still, a flicker of telemetry on the lower dungeon board caught the Wizard's eye
 Either way, an unscheduled late-night inspection was in order. Sweeping his shadow-woven cloak behind him, the Grand Wizard stepped onto the descending iron lift and headed down into the dungeons.
 
 ### Part 5: Golden Data
+
+**Harmonic Cycle:** 30th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 23:42
 
 Ocea shifted her weight on the unforgiving wooden slats of the tiny cot, her shoulder pressing against the rough, heavy fabric of Tay's drab grey tunic. The basement closet was a windowless, suffocating box, smelling of ozone, damp stone, and the metallic tang of obsolete magical tech piled haphazardly on the floor. A gutted, heavy scrying terminal sat in the corner, its cracked glass screen staring blankly at them, a graveyard of multicolored wires spilling from its beige casing.
 
@@ -338,6 +362,8 @@ Tay stiffened instantly, the scroll snapping shut in his hands. The heavy iron h
 Ocea didn't hesitate. She threw herself off the cot, scrambling desperately across the cold stone floor and wedging herself tightly behind a towering stack of cardboard boxes and cracked magical hardware. She curled into a ball, pressing her back against the gutted scrying terminal, praying its ambient static would act as an analog jammer to mask the golden glow of her magic before the door swung open.
 
 ### Part 6: The Sabotaged Scroll
+
+**Harmonic Cycle:** 30th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 23:45
 
 Ocea clamped her hands over her mouth, her knees pressed hard against her chest behind the cracked beige casing of the scrying terminal. The heavy oak door didn't just open; it exploded inward, the iron hinges groaning under the violent force of the Grand Wizard's entry.
 
@@ -389,6 +415,8 @@ The anger in Tay's eyes flickered, the dark purple dimming just a fraction as a 
 
 ### Part 7: Fractures in the Armor
 
+**Harmonic Cycle:** 30th Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 23:55
+
 The tiny wooden cot creaked in protest as they both climbed onto the thin, lumpy mattress. It was impossibly cramped, significantly narrower than the cozy sofa bed they used to share back home in 1992 when thunderstorms rolled over their neighborhood. Forced to lie on her side, Ocea instinctively slid her arm around Tay's waist, pressing her face against the rough, cold fabric of his grey henchman tunic.
 
 She felt the immediate, violent flinch in his muscles. His spine went entirely rigid, his body language screaming the harsh, defensive distance the Grand Wizard had drilled into him. Yet, as the seconds ticked by in the suffocating silence of the dungeon closet, Tay didn't pull away. He didn't brush her arm off. Beneath the layers of manufactured malice, Ocea felt the frantic, uneven thumping of his heart. As her palm rested lightly near his chest—right where she knew he kept his ocean-blue half of their clay medallion hidden—she sensed the agonizing war tearing him apart.
@@ -410,6 +438,8 @@ Then, Ocea felt it. The cold, unyielding armor of dark magic radiating from him 
 ## Chapter 4: The Ghost and the Gate – 31st Day of the Last Frost, Year 404 EC
 
 ### Part 1: Supposed to Be Dead
+
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 00:03
 
 The darkness of the basement closet was absolute, heavy and suffocating. Ocea lay perfectly still on her side, her arm still draped cautiously across her twin brother's waist. Though the sputtering purple torches had died, the room was anything but peaceful. Beneath the rough grey fabric of his tunic, Tay was vibrating.
 
@@ -434,6 +464,8 @@ The words hung in the suffocating air, chilling Ocea to the bone. The Grand Wiza
 Ocea pulled him a fraction of an inch closer on the cramped mattress. She finally understood the magnitude of the danger they were in. She was supposed to be a corpse, a tragic memory used to fuel Tay's dark magic. Remaining alive—and keeping him tethered to the light—was the most dangerous rebellion in the entire Dream Kingdom.
 
 ### Part 2: Shield of Normalcy
+
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 00:15
 
 "I can't sleep in this," Ocea whispered into the suffocating darkness, shifting uncomfortably on the narrow mattress.
 
@@ -463,6 +495,8 @@ Tay shivered in the damp, freezing air of the dungeon closet, wrapping his arms 
 
 ### Part 3: A Little Bit Like Home
 
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 00:20
+
 Ocea shifted again on the lumpy mattress, suppressing a frustrated groan. The heavy, stiff denim of her jeans immediately bunched up around her knees, the thick seams digging painfully into her skin. Beside her, Tay was equally restless, his legs twitching in the cramped space. Denim was meant for concerts and hanging out back in 1992, not for sleeping on a wooden board in a dungeon.
 
 She could feel his hesitation radiating in the pitch-black room. Ocea knew her brother well. On a humid summer night back home, he wouldn't have thought twice about sleeping in just his boxers. But here, in this suffocating closet, he was remaining stubbornly, uncomfortably fully clothed. He was enduring the stiff fabric because he was trying to be respectful of her, desperately trying to maintain some illusion of propriety when the Grand Wizard had already stripped them of all their privacy and dignity.
@@ -484,6 +518,8 @@ When Ocea finally slid back down onto the mattress, wearing only her oversized, 
 Ocea reached out in the dark, her hand finding his arm. She rested her head against his shoulder, finally comfortable enough to let her own exhaustion pull her under. The room was still a freezing, windowless prison, but for the first time since she had arrived in this nightmare, it felt just a little bit like home.
 
 ### Part 4: Dungeon Escape
+
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 06:30
 
 A piercing, sixteen-bit klaxon shattered the silence of the basement closet, and the heavy iron hinges of the oak door flared to a blinding, incandescent crimson.
 
@@ -514,6 +550,8 @@ Then the music of their escape cut out completely, replaced by a low, bone-rattl
 
 ### Part 5: Guardian of the Gate
 
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 07:10
+
 The iron portcullis slammed down with a deafening crash, and from the shadowed vault above dropped the *Guardian of the Gate*—a thirty-foot colossus of fused obsidian armor, six mechanical arms, and a roaring furnace of compressed purple runes in its chest.
 
 High atop the interior balcony overlooking the courtyard stood the Grand Wizard, his crimson eyes blazing with cold fury as dissonant, overwhelming brass synths reverberated off the fortress walls.
@@ -539,6 +577,8 @@ Ocea tried to push herself up on trembling arms, summoning one last desperate sp
 As iron-gauntleted wardens dragged her backward away from Tay's outstretched hand, the world around Ocea dissolved into static and darkness.
 
 ### Part 6: Game Over (The Spark in the Dark)
+
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 08:45
 
 A slow, descending sixteen-bit arpeggio—like the sound of a console losing power—echoed softly through the windowless stone holding cell high in the eastern tower.
 
@@ -574,6 +614,8 @@ Ocea stood up on her bare feet, brushed the dungeon dust off her shoulders, and 
 
 ### Part 7: The Corrupted Ceremony
 
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 10:00
+
 The bronze doors of the Grand Cathedral swung open, and a slow, stately sixteen-bit ceremonial march began to echo from the towering pipe-organ crystals lining the nave.
 
 With every step Ocea took down the central aisle between ranks of motionless Iron Sentinels, the traditional wedding-march melody detuned further—warping into eerie, out-of-time synth church bells and a heavy, oppressive bassline. Above the high altar hung the Great Directory, pulsing with angry purple runes that were ninety-nine percent compiled.
@@ -601,6 +643,8 @@ Ocea vaulted straight up the altar steps, dodging between the swinging halberds 
 "Wake up, Player One!" Ocea shouted over the roar of the cathedral. "I'm right here!"
 
 ### Part 8: The Wizard's Ruin
+
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 10:20
 
 The moment Ocea's palm struck his chest, a tidal wave of warm, golden light surged straight into Tay's heart, and the freezing purple cage inside his skull shattered into a million pieces.
 
@@ -632,6 +676,8 @@ Before the shockwave could throw Ocea off balance, Tay stepped in and wrapped bo
 
 ### Part 9: The Wizard's Lair
 
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 10:45
+
 They landed side by side on a wide, hexagonal platform of translucent crystal suspended above the swirling purple vortex of the Spire's reactor core.
 
 Across the chasm, hovering inside a storm of shattered directory slates and crackling violet lightning, the Grand Wizard tore off his tattered outer cloak. An explosive sixteen-bit drum fill echoed through the chamber, kicking off a blistering, fast-paced battle rhythm where a bright, fiery lead synth and a deep, resonant sapphire bassline traded solos in real time.
@@ -651,6 +697,8 @@ With a final synchronized strike—Tay launching a sapphire uppercut wave while 
 The fast battle tempo abruptly ground to a halt, slowing into a low, menacing, unresolved chord as the shattered halves of the Wizard's staff fell into the purple abyss below.
 
 ### Part 10: The True Form
+
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 11:15
 
 A terrifying, massive wall of sixteen-bit sound erupted from the abyss beneath the platform, shaking the entire Obsidian Spire to its foundations as gothic choir synths and a relentless, driving dark waltz filled the air.
 
@@ -678,6 +726,8 @@ With a deafening, glass-shattering crescendo, the dark music fractured into a mi
 
 ### Part 11: The Grand Decree (Reprise)
 
+**Harmonic Cycle:** 31st Day of the Last Frost, Year 404 of the Era of the Crystal • **Chronometer:** 11:45
+
 The roaring stadium drums and distorted power chords were gone. In their place played only a slow, distorted, broken sixteen-bit music box, plucking out the melody of *The Grand Decree* in a mournful, halting waltz that missed beats like a dying battery.
 
 Collapsed upon the last fragment of the central altar, reduced once more to a fading silhouette of tattered shadow, the Grand Wizard stared down at his own hands in disbelief.
@@ -699,6 +749,8 @@ With a final, drawn-out glitching chord that snapped into complete, tranquil sil
 ## Chapter 1: Save State – 1st Day of the First Dawn, Year 1 RR
 
 ### Part 1: Dawn of the New Era
+
+**Harmonic Cycle:** 1st Day of the First Dawn, Year 1 of the Era of the Restored Realm • **Chronometer:** 12:15
 
 Where the black needle of the Obsidian Spire had stood for generations, a towering fountain of living turquoise crystal now rose into a cloudless azure sky, ringing with the triumphant sixteen-bit horns and sweeping orchestral strings of a world reborn.
 

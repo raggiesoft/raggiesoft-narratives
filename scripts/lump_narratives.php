@@ -148,6 +148,8 @@ foreach ($narrativeDirs as $narrativeDir) {
                 
                 $title = '';
                 $date = '';
+                $stardate = '';
+                $realmTime = '';
                 $time = '';
                 $timezone = '';
                 $sceneImages = [];
@@ -157,6 +159,8 @@ foreach ($narrativeDirs as $narrativeDir) {
                     $frontmatter = $matches[1];
                     if (preg_match('/^title:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $title = trim($m[1]);
                     if (preg_match('/^date:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $date = trim($m[1]);
+                    if (preg_match('/^stardate:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $stardate = trim($m[1]);
+                    if (preg_match('/^realm_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $realmTime = trim($m[1]);
                     if (preg_match('/^time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1]);
                     if (empty($time) && preg_match('/^start_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1]);
                     if (preg_match('/^timezone:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $timezone = trim($m[1]);
@@ -227,6 +231,18 @@ foreach ($narrativeDirs as $narrativeDir) {
                         $datetimeStr .= " " . $timezone;
                     }
                     $masterContent .= $datetimeStr . "\n\n";
+                } elseif (!empty($stardate) || !empty($realmTime)) {
+                    $cosmicSegments = [];
+                    if (!empty($stardate)) {
+                        $cosmicSegments[] = "**Stardate:** " . $stardate;
+                    }
+                    if (!empty($realmTime)) {
+                        $cosmicSegments[] = "**Harmonic Cycle:** " . $realmTime;
+                    }
+                    if (!empty($time)) {
+                        $cosmicSegments[] = "**Chronometer:** " . $time;
+                    }
+                    $masterContent .= implode(" • ", $cosmicSegments) . "\n\n";
                 }
                 
                 // Inject YAML frontmatter `image:` (single Hero Image or Hero Image Carousel slides)
