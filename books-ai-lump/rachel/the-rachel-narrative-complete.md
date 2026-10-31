@@ -27630,7 +27630,7 @@ By the time April called *"Geuman!"* at 8:30 PM and we bowed out, our muscles we
 
 ***
 
-#### 9:45 PM — Skin-to-Skin & The Lifelong Anchor
+#### 9:45 PM — Skin-to-Skin & Holding the Perimeter
 
 Back inside 3701 Canadian Arch, with the front deadbolt locked and every upstairs doorway standing wide open under the Open-Door Policy, the warm coastal humidity of the April night settled over the second floor.
 
@@ -27648,11 +27648,9 @@ The relief was immediate and profound. Without a single layer of fabric between 
 
 I lay in the dark, listening to the gentle whir of the ceiling fan and feeling the slow, rhythmic rise and fall of Rachel's ribs against mine.
 
-In the quiet of our own home—with no emergencies on the horizon, no predators at the door, and months of open runway ahead of us—a truth I had been circling since we left Washington settled permanently into my chest.
+With Kristin and Jessica still three thousand miles away on the West Coast, it was just the two of us back home in Virginia Beach now. And without ever needing to make a grand speech about it, I understood what my little sister was doing for me.
 
-Delores had tried to turn the phrase *"the rest of my life"* into a prison sentence.
-
-But lying here skin-to-skin with Rachel, realizing that we had built a home where we could breathe, train, work, and exist without a single mask between us, I knew that my little sister wasn't just my anchor or my roommate. She was my life partner. Whatever else the outside world brought to our doorstep as we started classes across the street at CCHR, this bed, this open-door sanctuary, and this bond were the permanent center of gravity.
+After everything Delores and Brandi had put me through in Washington, Rachel knew I wasn't ready to navigate a conventional relationship on my own yet. So right here, in this quiet season of rebuilding—wearing a simple silver wedding band on her left ring finger whenever we stepped outside to make it look to the world like she was spoken for—Rachel was simply willing to be my female partner just while I got myself back on my feet. Whatever else the outside world brought to our doorstep as I started classes across the street at CCHR, she was going to hold this home, this bed, and my heart steady until I was whole again.
 
 ## The Route 25 Loop & The Shallow End
 
@@ -27680,7 +27678,7 @@ When the 12:00 PM bus rumbled into the CCHR bay and hissed to a stop, a familiar
 
 "You can't go wrong with a square burger and a chocolate shake," Ms. Doris chuckled, easing the bus out of the campus loop as Rachel and I took the forward-facing bench just behind the front wheel well on the passenger side.
 
-The moment we sat down, Rachel automatically tucked herself flush against my right side, linking both her arms through mine and resting her head comfortably against my shoulder. On the ring finger of her left hand rested the simple silver wedding band she wore whenever we went out in public—not because she was married or dating anyone, but as part of her promise: a quiet, deliberate shield to make it look to the outside world like she was already spoken for, when at this point in time the only man in her life was her older brother.
+The moment we sat down, Rachel automatically tucked herself flush against my right side, linking both her arms through mine and resting her head comfortably against my shoulder. On the ring finger of her left hand rested the simple silver wedding band she wore whenever we went out in public—not because she was married or dating anyone, but as part of her promise: a quiet, deliberate shield to make it look to the outside world like she was already spoken for. At this point in time, back home from Washington with Kristin and Jessica still on the West Coast, the only man in Rachel's life was her older brother—and she was simply willing to step in and be my female partner just while I got myself back on my feet.
 
 Across the aisle from us, sitting near the front on the driver's side, were two other passengers who had already been on board when the bus pulled into the loop: an older woman in her fifties and her daughter—a young woman in her early twenties with straight, shoulder-length chestnut-auburn hair, light freckles across the bridge of her nose, and hazel-green eyes behind thin-rimmed rectangular glasses. To any stranger glancing across the aisle at Rachel's wedding band and the way she was cuddled up against my shoulder, the two of us easily looked like a young married couple.
 
