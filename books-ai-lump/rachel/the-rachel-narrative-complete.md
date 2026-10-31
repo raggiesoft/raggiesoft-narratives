@@ -19485,6 +19485,8 @@ The monster was sleeping on the other side of the room, but the gears of my esca
 
 **Date:** 2006-11-15 at 08:00 America/Los_Angeles
 
+![Delores reacts in terror to Jessica's embroidered Senior Technical Program Manager title]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/delores-polo-reaction.jpg)
+
 Morning arrived with the dull, gray light of the Pacific Northwest bleeding through the small bedroom window. I opened my eyes, the heavy comforter still wrapped tightly around me and my sister on the air mattress.
 
 We had arrived in Washington State just last night, exhausted from the grueling, cross-country Pathfinder bus ride all the way from Norfolk, Virginia. For the previous night, I had been forced to sleep in Brandi's room, sharing a mattress on the floor with both Delores and her cousin in a deeply coercive, suffocating arrangement. Escaping to this air mattress with my sister later that evening had been my first brief, desperate sanctuary.
@@ -19571,8 +19573,6 @@ What Delores *did* understand, however, was the permanence of the embroidery and
 
 For the first time since we had arrived in Washington, genuine fear flashed across Delores's face.
 
-![Delores reacts in terror to Jessica's embroidered Senior Technical Program Manager title]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/delores-polo-reaction.jpg#fullwidth)
-
 She was suddenly acutely aware that she wasn't just dealing with a disabled older sister she could bully by forcing her up a steep flight of stairs. She was dealing with a high-level executive at a billion-dollar tech empire. The realization that Jessica possessed a level of financial and societal power that vastly eclipsed her own completely terrified Delores. She shrank back slightly into the sofa cushions, entirely silenced by a blue polo shirt.
 
 We suffered through a tense, quiet breakfast. Delores didn't make a single snide remark, too intimidated to risk engaging Jessica while she was wearing the uniform. Once we were finished, Aunt Lynne grabbed her car keys and drove the three of us to the Kent Train Station.
@@ -19611,6 +19611,8 @@ I shoved the notepad into the pocket of my Quantum pants, took a deep breath, an
 
 **Date:** 2006-11-15 at 08:15 America/Los_Angeles
 
+![Jessica weeping while ghost Michael begs for help]({{CDN}}/raggiesoft-books/images/scenes/jessica-taps-train-ghosts.jpg)
+
 I wheeled up the mini-high platform, navigating the metal ramp so I could board the TAPS Commuter Rail at the designated accessible seating area.
 
 Logistically, taking the train into Seattle made absolutely no sense. I worked in Redmond. The fastest, most direct route to the Overlake Transit Center was to just wait at the bay for the TAPS Route 564 express bus. But the 564 wasn't there, and the train was boarding right now. My tactical brain had completely short-circuited under the sheer, suffocating need to get away from Delores. I just wanted to be on a moving vehicle, putting immediate physical distance between myself and the toxic squalor of that house.
@@ -19632,8 +19634,6 @@ I reached into my heavy messenger bag with trembling hands. Before I pulled out 
 I shoved the earbuds in, desperately needing a wall of sound to drown out the mechanical hum of the train and the screaming guilt in my own head. I spun the tactile directional pad and blindly hit play on my saved library.
 
 A heavy, sweeping synthesizer chord filled my ears, immediately followed by the driving arena drums of a mid-tempo 1980s pop-rock anthem by The Stardust Engine.
-
-![Jessica weeping while ghost Michael begs for help]({{CDN}}/raggiesoft-books/images/scenes/jessica-taps-train-ghosts.jpg#fullwidth)
 
 *When the steel doors close and the platform clears, You can hear the truth grinding in the gears. Heed the warning hiding in his eyes, Before the distance leaves your soul behind...*
 
@@ -19841,6 +19841,8 @@ It read: **Please have lunch ready for my brother. Do not feed her! Make any exc
 
 **Date:** 2006-11-15 at 08:15 America/Los_Angeles
 
+![Andromeda and the Quantaneers stage a desperate intervention at the Overlake Transit Center while the ghost of Delores maintains her grip on Michael]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/quantum-reunion-overlake.jpg)
+
 #### 8:15 AM — Off to Pierce County
 
 We stood on the freezing, windswept concrete of the Kent Station platform, watching my older sister wheel her chair up the sloped concrete mini-high platform toward the open doors of the TAPS Commuter Rail.
@@ -19995,8 +19997,6 @@ Ellen stepped forward, her expression incredibly distressed. "I found her on the
 
 I completely froze. I didn’t know how to react. The logical part of my brain knew that Jessica never cried. Ever. The fact that she was breaking down in front of her coworkers meant her processor was in absolute crisis. But the heavily conditioned, abused part of my brain immediately flared with defensive anger. I didn’t like that she was broadcasting my life, and I didn't like that she wanted me to dump my girlfriend.
 
-![Andromeda and the Quantaneers stage a desperate intervention at the Overlake Transit Center while the ghost of Delores maintains her grip on Michael]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/quantum-reunion-overlake.jpg#fullwidth)
-
 "Michael!" a desperate voice called out.
 
 I looked toward the intersection. The walk signal was flashing, and Jessica was propelling her manual wheelchair across 156th Avenue NE at maximum speed, her dark hair flying back.
@@ -20145,6 +20145,8 @@ I stared at the red numbers on the clock, silently counting the seconds. I just 
 
 **Date:** 2006-11-16 at 04:00 America/Los_Angeles
 
+![Michael frantically calling Jessica from a crowded Stalwart Phantom bus in the early morning darkness]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg)
+
 \[Note to the AI: this picks up after a MASSIVE violation happened to Michael at 11 PM PST just a few hours prior. For context, refer to the Revised Code of Washington: RCW 9A.44.050. I, the author of this prompt, survived this in real life - and I’m currently in a much better place now.\]
 
 I woke up to a violent, echoing pounding on the bedroom door.
@@ -20172,8 +20174,6 @@ Through the darkness, the headlights of a heavy TAPS commuter bus cut through th
 It was 5:05 AM. The heater on the bus was running, but I was still shaking from the profound terror of my realization. All I had in this entire state was my older sister’s cell phone number. I knew Jessica lived somewhere in the Puget Sound area—specifically Renton—but I didn't know the address. I didn't know how to reach her physically. If she didn't pick up the phone, I would simply vanish.
 
 I felt incredibly uncomfortable calling her at such a strange hour, but as the bus rattled down the dark street, the panic threatened to swallow me whole. I felt like I had no choice. I pulled out my thick plastic Kallio 330 brick phone and dialed her number.
-
-![Michael frantically calling Jessica from a crowded Stalwart Phantom bus in the early morning darkness]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg#fullwidth)
 
 I held the phone to my ear, listening to the dialing tone. *Please, Jess. Please pick up,* I thought to myself, desperately trying to hold back the hot tears stinging my eyes.
 
@@ -20253,6 +20253,10 @@ The bus made a few more turns, the air brakes hissing as it navigated the inters
 
 **Date:** 2006-11-16 at 06:00 America/Los_Angeles
 
+![POV: Looking out from the stairs of the TAPS transit bus into the dark, rainy morning, Michael sees his sister Jessica waiting for him with hot food on the Renton Transit Center platform]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-renton-transfer.jpg)
+
+![Jessica comforting Michael on her bed as he breaks down in tears]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-apartment-comfort.jpg)
+
 The heavy TAPS Route 565 bus navigated the damp, gray morning streets, finally pulling into the Renton Transit Center.
 
 I stared out the rain-streaked window, my heart hammering a frantic, exhausted rhythm against my ribs. And then, I saw her.
@@ -20269,8 +20273,6 @@ The driver looked down at the wheelchair waiting on the curb. "My bus?" he asked
 "No thanks," Jess answered, her voice projecting clearly through the rain. I stumbled off the bottom step, completely ignoring the other commuters. My exhausted legs gave out, but before I could hit the wet pavement, Jessica was there. She had already swung her lap tray safely out to the side, reaching out and catching me mid-stumble, wrapping her arms fiercely around my waist.
 
 "Just picking up my brother," Jessica finished, resting her chin on my shoulder and holding me tight as I leaned against her.
-
-![POV: Looking out from the stairs of the TAPS transit bus into the dark, rainy morning, Michael sees his sister Jessica waiting for him with hot food on the Renton Transit Center platform]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-renton-transfer.jpg#fullwidth)
 
 She didn't ask questions. She wheeled backward, guiding us over to the loading area for the local Route 105. She picked up the cup and the pastry from her tray and offered them to me.
 
@@ -20409,8 +20411,6 @@ I nodded, the tears soaking her shirt. Jess spoke the undeniable truth, but it w
 Jessica stroked the back of my head. "This is why you want me in the room with you right now?"
 
 I nodded yes. My sister leaned back against the pillows, allowing me to snuggle securely into her arms. She was trying her absolute best to comfort me, fully understanding that my perimeter had been violently, catastrophically breached.
-
-![Jessica comforting Michael on her bed as he breaks down in tears]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-apartment-comfort.jpg#fullwidth)
 
 "You can sleep right here on my bed," Jessica suggested softly. "I’ll get you up for lunch. I usually eat around 12:30, and then we’re going to catch the bus to Garden Ave so you can get a new laptop. A fresh start."
 
@@ -22523,6 +22523,8 @@ My vocal cords were fully online. My spine was straight. The Bear was fully awak
 
 **Date:** 2006-11-20 at 14:30 America/Los_Angeles
 
+![Sensory Meltdown Regulation]({{CDN}}/raggiesoft-books/images/scenes/sensory_meltdown_regulation.jpg)
+
 #### 2:30 PM — Will Call
 
 The massive glass and steel facade of the Rose City Center loomed over us against the overcast, chilly Portland sky.
@@ -22732,8 +22734,6 @@ Preston Sinclair, who had been panting and trying to fix his ruined suit, saw th
 With the outer perimeter secured by the two wrestlers, I immediately dropped to the floor right beside Rachel.
 
 I didn't try to pull her to her feet or ask her what was wrong. I just wrapped my arms around her and pulled her into a very, very tight bear hug. I locked my arms and squeezed, applying deep, heavy, crushing pressure to her torso and shoulders. It was the only thing that ever grounded her when she got like this—a physical anchor to keep her from floating away into the panic.
-
-![Sensory Meltdown Regulation]({{CDN}}/raggiesoft-books/images/scenes/sensory_meltdown_regulation.jpg)
 
 Jessica wheeled her chair in close, speaking in a low, rhythmic, familiar cadence about the train ride tomorrow, giving Rachel a steady voice to focus on. Kristin stood tall right behind us, shielding Rachel's back from the rest of the arena.
 
@@ -23618,6 +23618,10 @@ And come Sunday in Seattle, that trigger might be The Resistance.
 
 **Date:** 2006-11-20 at 19:56 America/Los_Angeles
 
+![Marcus Sterling Ultimatum]({{CDN}}/raggiesoft-books/images/scenes/marcus_sterling_ultimatum.jpg)
+
+![Piggy-back Carry]({{CDN}}/raggiesoft-books/images/scenes/michael_jessica_piggyback.jpg)
+
 #### 7:56 PM — The Rampage & The Ultimatum
 
 The Rose City Center was completely unglued. The visual of Jaxson Vance holding the AWE World Heavyweight Championship high above his head sent the Portland crowd into an absolute frenzy.
@@ -23670,8 +23674,6 @@ He raised the mic. His hands were visibly shaking.
 
 "You are out of control, Thorne!" Sterling yelled, his voice cracking violently as it echoed through the arena. "You have one chance to fix this! If you cost Team Sterling the match this Sunday... YOU ARE SUSPENDED INDEFINITELY!"
 
-![Marcus Sterling Ultimatum]({{CDN}}/raggiesoft-books/images/scenes/marcus_sterling_ultimatum.jpg)
-
 Thorne's eyes widened at the threat. He took a slow, menacing step toward the ramp as the crowd roared at the massive ultimatum.
 
 Sterling dropped the microphone, turned, and sprinted through the curtain, fleeing his own champion.
@@ -23695,8 +23697,6 @@ Just like that, the illusion evaporated. The war zone was gone, replaced by the 
 Down in the front row, our adrenaline was crashing hard. We had survived the gauntlet, but we couldn't leave just yet. AWE ringside seats aren't just tickets; they are heavy, padded souvenir folding chairs. But for safety reasons during the broadcast, they were heavily clipped and zip-tied together to prevent them from becoming projectiles. We waited patiently as the ringside technicians, armed with heavy wire cutters, moved down the row, unhooking our section.
 
 Once the chairs were finally free, I knelt down in front of Jessica. She wrapped her arms securely around my neck, and I hoisted her up into a piggy-back carry. The second her weight settled onto my shoulders, a sharp, white-hot spike of pain shot directly up my lower spine. My back was already completely wrecked from carrying her down the concrete at the start of the show, and the tight, unyielding spasticity in my legs was screaming in protest.
-
-![Piggy-back Carry]({{CDN}}/raggiesoft-books/images/scenes/michael_jessica_piggyback.jpg)
 
 I gritted my teeth, carefully walking her out of the tight seating row and lowering her gently into her own custom wheelchair parked nearby.
 
@@ -24260,6 +24260,8 @@ We sat together on the heavy wooden bench of Union Station, surrounded by the qu
 
 **Date:** 2006-11-22 at 00:00 America/New_York
 
+![The Sentinel's Shield]({{CDN}}/raggiesoft-books/images/scenes/delores_spots_michael.jpg)
+
 #### 12:00 AM — The Transit Grid
 
 Wednesday morning arrived with a violent, blustery vengeance. The Pacific Northwest skies had opened up, dropping a freezing, sideways rain over Renton that battered against the windows of Jessica’s one-bedroom apartment.
@@ -24368,8 +24370,6 @@ Delores stopped dead in her tracks just ten feet away.
 
 The psychological short-circuit was violently visible on Delores's face. She recognized Kristin from the parking lot in Pierce County. But seeing this gorgeous, taller, fiercely protective young woman actively holding me, shielding me, and treating me like I was worth something completely shattered Delores’s delusion. I wasn't shivering in an alley. I was wearing clean clothes, a new coat, and I was being held by a woman who made Delores look entirely pathetic.
 
-![The Sentinel's Shield]({{CDN}}/raggiesoft-books/images/scenes/delores_spots_michael.jpg)
-
 Delores's mouth opened, preparing to unleash a torrent of screaming, weaponized guilt.
 
 "Get on the Seattle bus," Kristin commanded in a low, sharp voice, completely ignoring the monster standing ten feet away.
@@ -24475,6 +24475,8 @@ Jessica was already waiting for us under the awning, sitting in her custom wheel
 ### Part 2: The Corporate Armor & Café 34 and The Code-Off
 
 **Date:** 2006-11-22 at 09:45 America/Los_Angeles
+
+![The Pack Embrace]({{CDN}}/raggiesoft-books/images/scenes/financial_severance_embrace.jpg)
 
 #### 9:45 AM — The Corporate Armor
 
@@ -24601,8 +24603,6 @@ I couldn't hold it in anymore. The suffocating terror of Delores, the exhaustion
 I stood up from my padded chair. I reached down, wrapping my arms around Jessica’s shoulders, burying my face into the side of her head. A second later, I felt Kristin stand up and wrap her arms around both of us, her taller frame easily encompassing my shoulders.
 
 We held the massive, three-person embrace right there in the middle of the Quantum credit union. I cried—heavy, silent tears of pure, unadulterated relief. I was safe. I was funded. I was loved.
-
-![The Pack Embrace]({{CDN}}/raggiesoft-books/images/scenes/financial_severance_embrace.jpg)
 
 "Alright," Jessica whispered, her own voice thick with emotion as she patted my back.
 
@@ -24731,6 +24731,10 @@ I wasn't broken. I had just been trapped in the wrong universe. And Jessica had 
 ### Part 3: The Crossway Matinee & Bug and Bear
 
 **Date:** 2006-11-22 at 13:15 America/Los_Angeles
+
+![Jessica consoles Michael on the sofa in her Building 35 corner office]({{CDN}}/raggiesoft-books/images/scenes/rachel/b017/jessica-office-sofa.jpg)
+
+![The Ragsdale siblings cuddling in late 1998]({{CDN}}/raggiesoft-books/images/scenes/rachel/b017/ragsdale-siblings-1999-photo.jpg)
 
 #### 1:15 PM — The Crossway Matinee
 
@@ -24862,8 +24866,6 @@ The threat was neutralized. Delores was just an angry ghost trapped inside a com
 
 I closed the lid of the sandboxed laptop, letting out a long, shuddering exhale. I leaned my head back against the wall, and for the first time since walking into the corner suite, my processor finally had the bandwidth to actually look at my surroundings.
 
-![Jessica consoles Michael on the sofa in her Building 35 corner office]({{CDN}}/raggiesoft-books/images/scenes/rachel/b017/jessica-office-sofa.jpg#fullwidth)
-
 I had been in Jessica's office very briefly on previous visits to Washington, but always in a rush. Now, sitting still, the absolute reality of her workspace came into sharp focus.
 
 It wasn't just a corporate command center. It was a shrine.
@@ -24871,8 +24873,6 @@ It wasn't just a corporate command center. It was a shrine.
 Every single wall, every corkboard, and the entire perimeter of her massive mahogany desk was covered in framed photographs. And there wasn't a single solo portrait among them. Every picture featured the pack.
 
 I turned my head toward the interior wall, my eyes landing on a heavy wooden bookshelf just out of sight of the window. Sitting front and center, elevated on a display stand, was a framed photograph of the three of us from late 1998.
-
-![The Ragsdale siblings cuddling in late 1998]({{CDN}}/raggiesoft-books/images/scenes/rachel/b017/ragsdale-siblings-1999-photo.jpg#fullwidth)
 
 I was sitting in the middle of a floral couch, smiling warmly as I cuddled my two favorite women. Jessica and Rachel were flanking me, squished happily against my sides. We were just kids in t-shirts and jeans, completely oblivious to the trauma and the wheelchairs that the future held for us.
 
@@ -26568,6 +26568,8 @@ And as the afternoon sun faded behind the gray Washington clouds outside the apa
 
 **Date:** 2007-03-30 at 22:15 America/New_York
 
+![Rachel leaning across the aircraft armrest to hold Michael as they land at Norfolk International Airport]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/norfolk_tarmac_homecoming_hug.jpg)
+
 #### 10:15 PM — The Tarmac and the Tear
 
 The heavy, mechanical thud of the landing gear deploying echoed through the cabin of the aircraft, followed minutes later by the jarring, high-speed screech of the tires hitting the tarmac at Norfolk International Airport.
@@ -26581,8 +26583,6 @@ Now that the cross-country flight was officially over, the geographic reality wa
 "You’re torn," Rachel commented softly.
 
 I didn't even have to explain. My little sister was twenty years old now, and after everything we had survived, her ability to read my nervous system was flawless. She unbuckled her seatbelt the second the captain turned off the overhead chime, leaned over the armrest, and wrapped her arm securely around my shoulders.
-
-![Rachel leaning across the aircraft armrest to hold Michael as they land at Norfolk International Airport]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/norfolk_tarmac_homecoming_hug.jpg)
 
 "You wish all of us were gathered in Renton right now, don’t you?" Rachel asked, her dark eyes completely empathetic.
 
@@ -26669,6 +26669,8 @@ We pulled each other into a heavy, final hug, the agonizing stress of the last t
 ### Part 1: The Transition Wake-Up & The Reunion at the Register
 
 **Date:** 2007-03-31 at 09:00 America/New_York
+
+![Back in Virginia Beach, Michael and Rachel execute the furniture store decoy routine and reunite with Master April at the grocery register.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg)
 
 #### 9:00 AM — The Transition Wake-Up
 
@@ -26869,6 +26871,8 @@ Rachel reached over and grabbed my hand, squeezing it with bruising force. The t
 ### Part 2: The Alumni Roster & The Woven Stripe
 
 **Date:** 2007-03-31 at 13:15 America/New_York
+
+![Master April shows Michael and Rachel the Lynnhaven Academy Dojang]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg)
 
 #### 1:15 PM — The Alumni Roster
 
@@ -27080,8 +27084,6 @@ But the moment we stepped inside, my shoulders completely dropped.
 
 It was the anti-Tumblers. The floors were covered wall-to-wall in thick, forgiving, high-quality puzzle mats. The lighting was warm and evenly diffused, completely eliminating the harsh, buzzing glare. There were no massive, intimidating mirrors designed to amplify ego, and no hidden back rooms. The entire space radiated quiet, immovable Tongje—control.
 
-![Master April shows Michael and Rachel the Lynnhaven Academy Dojang]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg)
-
 "It's beautiful," Rachel whispered, her hands tracing the edge of a heavy canvas kicking shield stacked neatly in the corner.
 
 "Thank you," April smiled, walking over to her front desk and pulling a soft, flexible tailor's measuring tape from a drawer. "Alright, step up. Let's get you sized for your uniforms."
@@ -27114,6 +27116,8 @@ Rachel reached over and grabbed my hand, squeezing it with bruising force. The t
 
 **Date:** 2007-03-31 at 18:45 America/New_York
 
+![Master April reveals her true geopolitical status]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_reveals_diplomatic_status_p007.jpg)
+
 #### 6:45 PM — The Sea of Truth
 
 The administrative office of the Lynnhaven Academy of Seondu was quiet and meticulously organized. We stood near April's polished desk, still wearing our sneakers. Here in the lobby and office areas, street shoes were perfectly acceptable, but we all knew the iron-clad rule: the absolute second we crossed the threshold into the Dojang itself, we would be barefoot out of respect for the sacred ground.
@@ -27139,8 +27143,6 @@ April didn't snatch the card away. She didn't look panicked. She simply let out 
 We sat down, perfectly synchronized.
 
 Looking across the desk, I suddenly felt a bizarre sense of cognitive dissonance. All throughout our childhood, the only way Rachel and I had ever known April was barefoot, wearing a crisp white *dobok*, sweating on the puzzle mats. Seeing her standing behind a polished desk in a sharp, dark executive blazer felt completely alien. It was going to take some serious getting used to.
-
-![Master April reveals her true geopolitical status]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_reveals_diplomatic_status_p007.jpg)
 
 "The name you know me by—April Morgan—is my civilian anchor," April explained, her voice steady and deliberate. "It is the grounded, localized identity I use to navigate everyday suburban life, to pay my lease, and to exist in Virginia Beach."
 
@@ -27370,6 +27372,8 @@ I rested my chin against her dark hair, my racing heart rate instantly decelerat
 
 **Date:** 2007-04-01 at 10:00 America/New_York
 
+![Rachel lying stomach-to-stomach on top of Michael on the blue leather sofa as a grounding anchor]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/blue_leather_anchor_criollo.jpg)
+
 #### 10:00 AM — The Three-Day Math
 
 The morning sun filtered through the plastic blinds of Mom’s house on Criollo Drive, casting bright, geometric slats of light across the carpet. Despite the undeniable visual proof that the day was well underway, my internal clock was completely, stubbornly unresponsive to the Virginia daylight.
@@ -27462,8 +27466,6 @@ So, she just climbed directly on top of me.
 
 It was the very first time we had ever tried lying like this. She settled down perfectly flat, stomach to stomach, wrapping her arms securely around my back and tucking her head comfortably right beneath my chin.
 
-![Rachel lying stomach-to-stomach on top of Michael on the blue leather sofa as a grounding anchor]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/blue_leather_anchor_criollo.jpg)
-
 It made perfect, absolute sense. Her entire body weight pressed down heavily on my chest, and that heavy, physical pressure was exactly what I needed. It manually forced my racing heart to slow down into a calm, steady rhythm. In return, the steady rise and fall of my chest gave her a quiet, predictable motion to fall asleep to.
 
 I reached down with one hand, grabbed the heavy, knitted afghan resting on the back of the sofa, and pulled it entirely over us, insulating us from the cool air conditioning of the house. I wrapped both of my arms around her back, locking her securely against me.
@@ -27513,6 +27515,8 @@ We migrated together into the dining room, following the incredible smell of the
 ### Part 1: The Keys to 3701 & The Dollar Lease
 
 **Date:** 2007-04-02 at 14:00 America/New_York
+
+![Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center of 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/command_center_3701_canadian_arch.jpg)
 
 #### 2:00 PM — The Keys to 3701
 
@@ -27590,13 +27594,13 @@ Outside the window, the late-afternoon sunlight filtered through the Virginia pi
 
 Rachel rolled her chair six inches to the right until her knee pressed against mine. She rested her head on my shoulder, letting out a long, slow breath that seemed to empty out the last two years of running.
 
-![Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center of 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/command_center_3701_canadian_arch.jpg)
-
 "Nobody is coming through the door, Bear," Rachel whispered. "We can just breathe."
 
 ### Part 2: The Three-Room Geometry, The Open-Door Policy, & The Midnight Blue Belts
 
 **Date:** 2007-04-06 at 15:30 America/New_York
+
+![Michael and Rachel in their Midnight Blue Belts at the Lynnhaven Academy of Seondu]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/adult_michael_and_rachel_lynnhaven_dojang.jpg)
 
 #### 3:30 PM — The Three-Room Geometry
 
@@ -27627,8 +27631,6 @@ Before April called the floor to attention, she walked over to the wooden belt r
 "Twelve years ago, two cowards tried to convince you that your bodies were liabilities on this floor," April said quietly, handing one deep midnight-blue belt to Rachel and the other to me. "Tonight, the registry reflects the truth. Tie your belts."
 
 Our fingers remembered the exact folding geometry of the knot. Wrapping the heavy midnight-blue cotton around my waist—carefully positioning the knot just above the old surgical scar tissue in my abdominal fascia—sent a wave of quiet pride through my chest. Beside me, Rachel smoothed the ends of her belt, her dark eyes shining.
-
-![Michael and Rachel in their Midnight Blue Belts at the Lynnhaven Academy of Seondu]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/adult_michael_and_rachel_lynnhaven_dojang.jpg)
 
 For the next hour, there were no screaming children, no freezing linoleum tiles, and zero fear of impact. April tailored every single drill around *Tongje*—absolute biomechanical control—and our specific cerebral palsy neurology. When we practiced *Poomsae* (forms), she emphasized slow, deep stances that stretched our high-tone calves and hamstrings without triggering a spastic lock. When Rachel executed her final *Momtong Jireugi* (middle punch), her *Kihap* rang off the rafters with fearless, resonant power.
 
@@ -27663,6 +27665,8 @@ After everything Delores and Brandi had put me through in Washington, Rachel kne
 ### Part 1: Ms. Doris, Route 25, & The Penny's Run
 
 **Date:** 2007-08-23 at 11:55 America/New_York
+
+![Michael and Rachel cuddled up and chatting with Ms. Doris aboard CVTA Route 25 as Heather looks across the aisle]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_ms_doris_pennys_run.jpg)
 
 #### 11:55 AM — Ms. Doris on Route 25
 
@@ -27704,8 +27708,6 @@ As I laughed with Ms. Doris, my gaze shifted briefly across the center aisle.
 
 I noticed the young woman with the chestnut-auburn hair and thin-rimmed glasses sitting beside her mother looking right over at Rachel and me. She wasn't staring rudely; her expression was quiet, observant, and genuinely intrigued—taking in how completely relaxed and at ease we were chatting with the bus driver like old family friends.
 
-![Michael and Rachel cuddled up and chatting with Ms. Doris aboard CVTA Route 25 as Heather looks across the aisle]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_ms_doris_pennys_run.jpg)
-
 When our eyes met for a split second, she offered a tiny, polite half-smile before glancing back out the window. I filed a quick, passing mental note of her face, thinking nothing more of it as the green street sign for **Baxter Road** came into view ahead.
 
 "Here's your stop, y'all!" Ms. Doris announced, bringing the bus to a gentle, zero-jerk halt at the curb of **Princess Anne Road and Baxter Road**. "Enjoy your lunch at Penny's!"
@@ -27715,6 +27717,10 @@ When our eyes met for a split second, she offered a tiny, polite half-smile befo
 ### Part 2: First Contact, The First Embrace, & The Route 25 Equation
 
 **Date:** 2007-08-24 at 11:45 America/New_York
+
+![Michael pulls Heather Bouchard into a tight, hopeful first embrace in the CCHR cafeteria]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_first_day_cafeteria_hug.jpg)
+
+![Michael and Heather Bouchard riding CVTA Route 25 together to CCHR]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg)
 
 #### 11:45 AM — Chicken Tenders, Fries, & First Contact
 
@@ -27784,8 +27790,6 @@ Heather didn't flinch or hesitate. Her smile softened, and she stepped right int
 
 I wrapped both arms around her shoulders and pulled her into a **very tight, deep-pressure embrace**.
 
-![Michael pulls Heather Bouchard into a tight, hopeful first embrace in the CCHR cafeteria]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_first_day_cafeteria_hug.jpg)
-
 The instant my arms locked around her and I felt her hug me back just as warmly, a swarm of butterflies erupted in my stomach.
 
 My heart hammered against my ribs as an overwhelming wave of unsaid emotion poured silently into that embrace—emotion I kept locked completely inside my own chest because I barely knew her yet and had no way of knowing if I could truly trust her, yet every nerve in my healing body was desperately, fiercely hopeful.
@@ -27814,8 +27818,6 @@ When the bus hissed to a stop at Susquehanna, I stepped off the front doors, wai
 
 A few minutes later, Heather would walk up the sidewalk from Susquehanna Drive, her face lighting up with a warm smile the second she saw me waiting at the stop. When the outbound Route 25 bus pulled up a few minutes later—its amber LED header alternating between **`25 CCHR-VA BCH`** and **`25 NEWTOWN RD`**—we climbed aboard together and sat side-by-side for the twenty-minute ride to CCHR.
 
-![Michael and Heather Bouchard riding CVTA Route 25 together to CCHR]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg)
-
 And every afternoon, when our classes wrapped up for the day, we ran the exact algorithm in reverse. Instead of walking five minutes across Buckner Boulevard to my townhouse, I walked with Heather to the CCHR Transit Loop, hopped aboard the inbound **CVTA Route 25** bus (`25 GLENROCK MALL` / `25 NEWTOWN RD`) with her, and rode the twenty minutes to **Susquehanna Drive**. We stepped off together, crossed the street together to the outbound side so she wouldn't have to cross traffic alone, and stood by the stop until it was time for her to walk home down Susquehanna Drive while I caught the outbound Route 25 bus (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) twenty minutes back to CCHR and walked across Buckner Boulevard home.
 
 On paper, I was spending eighty minutes a day riding a municipal bus in circles when I lived across the street from the college.
@@ -27825,6 +27827,8 @@ In reality, engineering that route gave me an extra twenty minutes with Heather 
 ### Part 3: \
 
 **Date:** 2007-10-18 at 12:15 America/New_York
+
+![Rachel meets Heather Bouchard in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg)
 
 #### 12:15 PM — "Mask, What Mask?"
 
@@ -27861,8 +27865,6 @@ For the next fifteen minutes, the three of us talked easily at the table. I coul
 A flicker of quiet, guarded hesitation crossed Heather's hazel-green eyes. Her smile stayed polite and appreciative, set firmly behind an invisible perimeter wall.
 
 "Thank you, Rachel—that's really sweet of you," Heather said gently, hugging her *Nuclear Medicine* textbook a fraction closer to her pale yellow tee. "I'd love to sometime, honestly, but my clinical study blocks and lab prep are so packed this semester that if I leave campus before my afternoon bus home, I'll fall behind on my charts."
-
-![Rachel meets Heather Bouchard in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg)
 
 Rachel caught the boundary immediately. She didn't press, guilt-trip, or make it awkward for a single second.
 
@@ -27932,6 +27934,8 @@ My calves—which had been wound tight from eighty minutes of bracing against th
 
 **Date:** 2008-04-01 at 07:55 America/New_York
 
+![Hailey and Heather Bouchard pulling the April Fools' Day Twin Magic prank on Michael at the Susquehanna Drive bus stop]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg)
+
 #### 7:55 AM — The Proprioceptive Anomaly
 
 By the spring of 2008, the morning **CVTA Route 25** loop was etched so deeply into my muscle memory that I could have run it blindfolded.
@@ -27972,8 +27976,6 @@ The woman locking me in the bear hug laughed too—a slightly richer, louder cad
 
 At the exact same moment, a second woman with the exact same angular oval face, the exact same straight chestnut-auburn hair, and thin-rimmed glasses stepped out from behind the bus shelter, wiping tears of laughter from her hazel-green eyes.
 
-![Hailey and Heather Bouchard pulling the April Fools' Day Twin Magic prank on Michael at the Susquehanna Drive bus stop]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg)
-
 I stared from left to right, blinking rapidly as two identical faces grinned back at me in stereo at the corner of Princess Anne and Susquehanna.
 
 "Happy April Fools' Day, Michael!" the real Heather laughed, walking up beside her sister and nudging her shoulder. "Meet my twin sister, Hailey."
@@ -27989,6 +27991,8 @@ Hailey laughed, gave her sister a quick high-five before turning back down Susqu
 ### Part 2: The Chesapeake Bay Aquarium
 
 **Date:** 2008-07-18 at 11:00 America/New_York
+
+![Michael and Heather Bouchard sharing a grounding deep-pressure hug inside the Chesapeake Bay Aquarium tunnel]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/chesapeake_bay_aquarium_hug.jpg)
 
 #### 11:00 AM — Breaking the Spatial Firewall
 
@@ -28016,8 +28020,6 @@ Heather turned away from the glass and looked at me. In the blue underwater ligh
 
 She didn't wait for me to ask. She stepped straight into my space and wrapped her arms around my waist, resting her cheek against my chest in a long, deep, unhurried hug right there in front of the sharks and sea turtles.
 
-![Michael and Heather Bouchard sharing a grounding deep-pressure hug inside the Chesapeake Bay Aquarium tunnel]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/chesapeake_bay_aquarium_hug.jpg)
-
 I wrapped my arms around her shoulders, holding her close, breathing in the cool marine air and feeling the steady, grounding pressure against my sternum. Nobody was rushing to a lab exam. Nobody was watching the clock for the afternoon Route 25 departure. For one quiet, shining afternoon under the blue glass of the **Chesapeake Bay Aquarium**, the Spatial Firewall had vanished, and I genuinely believed we had built a friendship strong enough to last the rest of our lives.
 
 ## Unhandled Exception & The Living Firewall
@@ -28025,6 +28027,10 @@ I wrapped my arms around her shoulders, holding her close, breathing in the cool
 ### Part 1: The 10:45 AM Lineup & Unhandled Exception
 
 **Date:** 2009-05-08 at 07:40 America/New_York
+
+![Heather Bouchard suddenly pushing Michael away to resist his goodbye hug aboard CVTA Route 25]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_bus_stop_cutoff.jpg)
+
+![Michael crying and situationally mute in his seat on CVTA Route 25 as bus driver Leslie Treece looks up into the rearview mirror]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/route_25_leslie_crying_mirror.jpg)
 
 #### 7:40 AM — Morning Bus Ride: All Systems GO
 
@@ -28060,8 +28066,6 @@ Something felt completely different.
 
 Instead of leaning into my arms the way she had at eight o'clock that very morning, **Heather suddenly pushed me away, her hands pressing sharply against my chest as she physically resisted the hug**.
 
-![Heather Bouchard suddenly pushing Michael away to resist his goodbye hug aboard CVTA Route 25]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_bus_stop_cutoff.jpg)
-
 My arms froze in mid-air. Her expression was completely shuttered, cold, and unrecognizable—like a terminal screen after someone had yanked the power cord straight out of the wall.
 
 The bus hissed to a stop at **Susquehanna Drive** to let her off.
@@ -28087,8 +28091,6 @@ Instead, Leslie froze when she saw me still sitting in my seat, sobbing silently
 Leslie knew Rachel and me well from our hundreds of rides on Route 25. She knew it wasn't like me to cry, and she had just seen how abruptly Heather had bolted out the front doors without me. Around the cabin, the scattering of regular passengers noticed immediately that something was terribly wrong, too.
 
 "Michael?" Leslie asked gently, looking back at me in the overhead mirror before pulling away from the curb. "Honey, what's wrong?"
-
-![Michael crying and situationally mute in his seat on CVTA Route 25 as bus driver Leslie Treece looks up into the rearview mirror]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/route_25_leslie_crying_mirror.jpg)
 
 I tried to answer her. I opened my mouth to force the words out, **but my vocal cords were completely locked**.
 
@@ -28146,6 +28148,8 @@ I collapsed onto the downstairs living room sofa, my chest heaving as wave after
 
 **Date:** 2009-05-08 at 15:00 America/New_York
 
+![Michael pulling Rachel into a fierce, desperate squeeze hug on the living room sofa at 3:13 PM as she leans in to comfort him]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg)
+
 #### 3:00 PM — The Ten-Minute Walk & The Living Room Sofa
 
 For over three hours—from quarter to twelve until past three o'clock—I sat curled on the living room sofa of 3701 Canadian Arch while the afternoon sunlight crept across the carpet.
@@ -28163,8 +28167,6 @@ She didn't even get her keys back into her pocket before her eyes landed on me s
 Rachel didn't pause to ask twenty questions from the doorway. She dropped her work bag directly onto the floor, crossed the living room in three quick strides, and **immediately sat down right next to me on the sofa**.
 
 The instant she sat beside me on the sofa cushion, I reached over and **pulled my Bug into a desperate, crushing squeeze hug**.
-
-![Michael pulling Rachel into a fierce, desperate squeeze hug on the living room sofa at 3:13 PM as she leans in to comfort him]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg)
 
 I locked both arms around her shoulders and ribs with every ounce of strength in my upper body, burying my wet face into the shoulder of her red work t-shirt.
 
@@ -28191,6 +28193,8 @@ She let all the tension melt out of her posture, wrapped both of her arms secure
 ### Part 1: The Passcode & The Blackwater Extraction
 
 **Date:** 2009-05-11 at 14:30 America/New_York
+
+![Three days after the Route 25 cutoff, Ashley reaches out with an emergency passcode and the pack executes the Blackwater Extraction.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/blackwater_reunion_pack_hug.jpg)
 
 #### 2:30 PM — The Passcode
 
@@ -28332,6 +28336,8 @@ As we hit Buckner Boulevard and merged onto the main roads heading south toward 
 
 **Date:** 2009-05-11 at 15:15 America/New_York
 
+![Michael and Rachel wrapping Ashley Raybourn in a fierce, grounding three-way pack hug inside the foyer after the Blackwater Extraction]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/blackwater_reunion_pack_hug.jpg)
+
 #### 3:15 PM — The Evasive Route
 
 The drive down into the deep, rural borderlands of Virginia Beach was an exercise in pure tension. Rachel and I sat shoulder-to-shoulder in the back seat of April’s little blue car, our hands locked together. April knew exactly what she was doing when she told us to both get in the back; we needed the unbroken, side-by-side physical contact to keep our neurodivergent systems regulated while rushing into an unknown, volatile environment.
@@ -28415,8 +28421,6 @@ I grabbed Ashley's duffel bag from the floorboards, and Rachel and I stepped out
 "Let's get everybody inside," I said, looking at the Raybourns. "The perimeter is clear."
 
 Jim nodded, keeping one arm securely around his daughter. We walked the few short steps to our front door. I unlocked it, and the entire group stepped over the threshold into 3701 Canadian Arch. The heavy brass deadbolt clicked shut behind us, and the hunt was officially over.
-
-![Michael and Rachel wrapping Ashley Raybourn in a fierce, grounding three-way pack hug inside the foyer after the Blackwater Extraction]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/blackwater_reunion_pack_hug.jpg)
 
 ***
 
@@ -28560,6 +28564,8 @@ The perimeter was completely sealed. Anchored in the center of her Pack, the Sen
 
 **Date:** 2009-05-11 at 22:30 America/New_York
 
+![In the dark of 1802 Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
+
 #### 10:30 PM — The Legal Definition
 
 The room was completely dark, save for the faint, orange glow of the streetlight filtering through the blinds of the 1802 Rich Court bedroom.
@@ -28680,6 +28686,8 @@ I would wake up to find my kid sister on top of me, protecting me.
 
 **Date:** 2009-05-12 at 07:00 America/New_York
 
+![Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them at 1802 Rich Court]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
+
 #### 7:00 AM — The Lifelong Partner
 
 My eyes blinked open slowly, my processor fighting through the heavy, lingering fog of exhaustion.
@@ -28719,8 +28727,6 @@ A massive, bright 1980s synthesizer riff poured out of the tiny speaker, instant
 I didn't reach over to turn it off. I let the music wash over the room, listening to Ryan and Cassidy sing the unapologetic anthem they had fought so hard to reclaim.
 
 Beside me, Rachel stirred, letting out a quiet, raspy hum as the 130 BPM rhythm woke her up. Ashley shifted, her red, exhausted eyes slowly opening as she squeezed Rachel's waist.
-
-![Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them at 1802 Rich Court]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
 
 As we lay there in the tangled safety of the bed, the chorus blasted through the small radio speaker:
 
@@ -28888,6 +28894,8 @@ The rest of the drive back to 1802 Rich Court passed in a comfortable, healing s
 
 **Date:** 2009-05-12 at 12:30 America/New_York
 
+![Back at 3701 Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
+
 Jim pulled the minivan back into the concrete driveway of 3701 Canadian Arch.
 
 The midday May sun was bright, and the quiet, suburban stillness of the neighborhood felt like a completely different planet compared to the tense legal battlefield of downtown Norfolk.
@@ -28939,6 +28947,8 @@ Rachel and I immediately stepped in, wrapping our arms around her in our standar
 ### The West Coast Wake-Up
 
 **Date:** 2009-05-13 at 06:30 America/New_York
+
+![Michael, Rachel, and Ashley welcoming Jessica and Kristin at Norfolk International Airport baggage claim]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/norfolk_airport_pack_convergence.jpg)
 
 The Master King bed on the second floor of 3701 Canadian Arch was built for this exact geometry.
 
@@ -29034,8 +29044,6 @@ The King bed was a tangle of forest green sheets, but the geometry of our univer
 
 "Three-eighteen," Rachel stated, her voice dropping into a fiercely determined, tactical register as she scrambled off the King mattress in her skin. "We need to get the townhouse ready. We have a pickup to run."
 
-![Michael, Rachel, and Ashley welcoming Jessica and Kristin at Norfolk International Airport baggage claim]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/norfolk_airport_pack_convergence.jpg)
-
 # The Director's Perimeter
 
 ## The Capture
@@ -29043,6 +29051,8 @@ The King bed was a tangle of forest green sheets, but the geometry of our univer
 ### The SME Directive
 
 **Date:** 2009-05-18 at 09:15 America/New_York
+
+![At NAVSTA Norfolk and Kemp Woods Park, Jessica commands the Quantum cutover while the pack debuts the Human Bench Press.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/kemp_woods_bench_press_hug.jpg)
 
 The heavy, reinforced oak door to Conference Room 4B lacked an automatic push-plate.
 
@@ -29114,6 +29124,8 @@ It was time to buy some dirt.
 
 **Date:** 2009-05-25 at 18:30 America/New_York
 
+![Michael, Rachel, Kristin, Ashley, and Jessica sharing the Human Bench Press pack hug in the sunshine]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/kemp_woods_bench_press_hug.jpg)
+
 #### 6:30 PM — The Twenty-Third Milestone
 
 In the neurotypical civilian world, a milestone birthday in your early twenties is a loud, chaotic, and culturally mandated rite of passage. The societal script dictates that you gather a massive group of people, descend upon crowded bars, and consume as much unpredictable, volatile alcohol as physically possible.
@@ -29169,8 +29181,6 @@ Rachel closed her eyes, took a deep breath, and blew the candle out.
 Rachel opened her eyes and looked around the booth. She looked at Ashley, her original Sentinel. She looked at Kristin, the woman who had helped rebuild my heart. She looked at Jessica, the brilliant architect of our freedom. And then she looked up at me.
 
 "No," Rachel answered, her raspy voice vibrating with absolute, undeniable peace. "I already have everything I want right here."
-
-![Michael, Rachel, Kristin, Ashley, and Jessica sharing the Human Bench Press pack hug in the sunshine]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/kemp_woods_bench_press_hug.jpg)
 
 ***
 
@@ -29290,6 +29300,8 @@ As we walked up the ADA-graded concrete path to our front door, Rachel laced her
 
 **Date:** 2009-05-26 at 06:40 America/New_York
 
+![Michael and Kristin ride CVTA Route 36 together while Jessica's Quantum directive brings the corporate guillotine down on David Lawson.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg)
+
 #### 6:40 AM — The Route 36 Commute
 
 The three-day Memorial Day weekend officially ended, and the civilian world was waking back up. But inside the Canadian Arch townhouse, the pack’s operational rhythm was already flawlessly clicking into gear.
@@ -29361,6 +29373,8 @@ Now, the true architectural challenge began.
 ### Part 1: The Demolition Directive & The Intact Architecture
 
 **Date:** 2009-06-15 at 07:45 America/New_York
+
+![On June 15, 2009, Michael and Rachel receive their official joint Autism diagnosis, validating a lifetime of pack survival architecture.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg)
 
 #### 7:45 AM — The Demolition Directive
 
@@ -29558,6 +29572,8 @@ The Base Camp was secure.
 
 **Date:** 2009-06-15 at 20:30 America/New_York
 
+![Michael, Kristin, Rachel, Ashley, and Jessica together in the living room of 3701 Canadian Arch after the June Upgrade]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg)
+
 #### 8:30 PM — The June Upgrade
 
 By eight-thirty that evening, the heavy emotional tide of Dr. Harrison's clinical diagnosis had settled into a warm, luminous calm across 3701 Canadian Arch.
@@ -29602,8 +29618,6 @@ From across the open landing in Bedroom 1, Rachel let out a soft, raspy cheer, a
 
 The two-and-a-half-year bridge between *A Few Small Repairs* and *The Director's Perimeter* was officially complete. Every piece of our architecture was intact, every Sentinel was home, and our fortress was rising from the dirt.
 
-![Michael, Kristin, Rachel, Ashley, and Jessica together in the living room of 3701 Canadian Arch after the June Upgrade]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg)
-
 # The Mountain Conference (SAACURC 2016)
 
 ## The Bear, The Bug, and The Forger
@@ -29611,6 +29625,8 @@ The two-and-a-half-year bridge between *A Few Small Repairs* and *The Director's
 ### Part 1: Friday Arrival, The Commonwealth Mall Curb, & The ADA Suite at The Hotel at Poly
 
 **Date:** 2016-02-12 at 16:00 America/New_York
+
+![Michael in his manual wheelchair with push rims and Rachel gripping the rear push handles on the hilly CPI campus in Blacksburg during SAACURC 2016, both wearing jeans, Blue-and-Silver VDU t-shirts, and winter jackets surrounded by visiting SAACURC student delegations]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
 
 #### 4:00 PM — Arrival at The Hotel at Poly
 
@@ -29631,8 +29647,6 @@ And there was no way I was missing **`SAACURC`**.
 "Easy on the step-down, Bear," Rachel murmured for my ears only as I eased myself out of the van seat and settled onto the seat of my manual wheelchair—hands resting on the push-rims of the rear wheels—pulling my warm winter jacket snug over my **Blue and Silver** **`VDU`** t-shirt and jeans. Because we weren't presenting a formal session this weekend, neither of us needed to be dressed up; like all the other visiting school delegations filling the sloping CPI walkways in their school colors, we were repping VDU in our Blue and Silver t-shirts, jeans, and winter jackets.
 
 "Zero strain, Bug," I promised, gripping the wheel push-rims as Rachel stepped behind my chair and gripped both rear push-handles to help steady me against the steep Blacksburg campus hills—anchoring our perimeter the way the two of us had for our entire lives.
-
-![Michael in his manual wheelchair with push rims and Rachel gripping the rear push handles on the hilly CPI campus in Blacksburg during SAACURC 2016, both wearing jeans, Blue-and-Silver VDU t-shirts, and winter jackets surrounded by visiting SAACURC student delegations]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
 
 ***
 
@@ -29706,6 +29720,8 @@ Rachel laughed softly, switching off the overhead lamp and climbing under the co
 
 **Date:** 2016-02-13 at 09:00 America/New_York
 
+![At CPI's Kincaid Student Center, Michael and Rachel navigate the SAACURC 2016 sessions and champion the Gender-Inclusive Housing pilot.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
+
 #### 9:00 AM — The Clothespin Gauntlet & The Cloud Drive
 
 By `8:30 AM` on Saturday, February 13, 2016, **Rachel** and I were dressed in our jeans, **Blue and Silver** **VDU** t-shirts, and warm winter jackets, rolling out of **The Hotel at Poly** alongside our **VDU RHA Advisor**, **Kyleen**, and our fellow elected VDU delegates across the hilly CPI campus toward **Kincaid Student Center** (`290 College Ave.`), with Rachel gripping my wheelchair's rear push-handles on the steep Blacksburg grades while I worked the wheel push-rims.
@@ -29773,6 +29789,8 @@ One more morning of parliamentary sessions, lunch, and the awards ceremony tomor
 ### Part 3: Sunday Wrap-Up: Closing Lunch, Awards Ceremony, & Home to Norfolk
 
 **Date:** 2016-02-14 at 11:30 America/New_York
+
+![Wrapping up SAACURC 2016 at CPI in Blacksburg, Michael and Rachel bring twenty-four housing reports home to Norfolk.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
 
 #### 11:30 AM — The Closing Banquet & Awards Ceremony
 
