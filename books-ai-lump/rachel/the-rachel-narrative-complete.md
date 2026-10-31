@@ -26582,6 +26582,8 @@ Now that the cross-country flight was officially over, the geographic reality wa
 
 I didn't even have to explain. My little sister was twenty years old now, and after everything we had survived, her ability to read my nervous system was flawless. She unbuckled her seatbelt the second the captain turned off the overhead chime, leaned over the armrest, and wrapped her arm securely around my shoulders.
 
+![Rachel leaning across the aircraft armrest to hold Michael as they land at Norfolk International Airport]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/norfolk_tarmac_homecoming_hug.jpg)
+
 "You wish all of us were gathered in Renton right now, don’t you?" Rachel asked, her dark eyes completely empathetic.
 
 I let out a slow, shaky breath, leaning my weight into her grounding pressure. "Yeah. I do."
@@ -27460,6 +27462,8 @@ So, she just climbed directly on top of me.
 
 It was the very first time we had ever tried lying like this. She settled down perfectly flat, stomach to stomach, wrapping her arms securely around my back and tucking her head comfortably right beneath my chin.
 
+![Rachel lying stomach-to-stomach on top of Michael on the blue leather sofa as a grounding anchor]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/blue_leather_anchor_criollo.jpg)
+
 It made perfect, absolute sense. Her entire body weight pressed down heavily on my chest, and that heavy, physical pressure was exactly what I needed. It manually forced my racing heart to slow down into a calm, steady rhythm. In return, the steady rise and fall of my chest gave her a quiet, predictable motion to fall asleep to.
 
 I reached down with one hand, grabbed the heavy, knitted afghan resting on the back of the sofa, and pulled it entirely over us, insulating us from the cool air conditioning of the house. I wrapped both of my arms around her back, locking her securely against me.
@@ -27585,6 +27589,8 @@ Nothing happened.
 Outside the window, the late-afternoon sunlight filtered through the Virginia pines along Buckner Boulevard. Inside, the townhouse was quiet, cool, and completely threat-free.
 
 Rachel rolled her chair six inches to the right until her knee pressed against mine. She rested her head on my shoulder, letting out a long, slow breath that seemed to empty out the last two years of running.
+
+![Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center of 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/command_center_3701_canadian_arch.jpg)
 
 "Nobody is coming through the door, Bear," Rachel whispered. "We can just breathe."
 
@@ -28410,6 +28416,8 @@ I grabbed Ashley's duffel bag from the floorboards, and Rachel and I stepped out
 
 Jim nodded, keeping one arm securely around his daughter. We walked the few short steps to our front door. I unlocked it, and the entire group stepped over the threshold into 3701 Canadian Arch. The heavy brass deadbolt clicked shut behind us, and the hunt was officially over.
 
+![Michael and Rachel wrapping Ashley Raybourn in a fierce, grounding three-way pack hug inside the foyer after the Blackwater Extraction]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/blackwater_reunion_pack_hug.jpg)
+
 ***
 
 #### 4:00 PM — The Paper Trail
@@ -28711,6 +28719,8 @@ A massive, bright 1980s synthesizer riff poured out of the tiny speaker, instant
 I didn't reach over to turn it off. I let the music wash over the room, listening to Ryan and Cassidy sing the unapologetic anthem they had fought so hard to reclaim.
 
 Beside me, Rachel stirred, letting out a quiet, raspy hum as the 130 BPM rhythm woke her up. Ashley shifted, her red, exhausted eyes slowly opening as she squeezed Rachel's waist.
+
+![Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them at 1802 Rich Court]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
 
 As we lay there in the tangled safety of the bed, the chorus blasted through the small radio speaker:
 
@@ -29024,6 +29034,8 @@ The King bed was a tangle of forest green sheets, but the geometry of our univer
 
 "Three-eighteen," Rachel stated, her voice dropping into a fiercely determined, tactical register as she scrambled off the King mattress in her skin. "We need to get the townhouse ready. We have a pickup to run."
 
+![Michael, Rachel, and Ashley welcoming Jessica and Kristin at Norfolk International Airport baggage claim]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/norfolk_airport_pack_convergence.jpg)
+
 # The Director's Perimeter
 
 ## The Capture
@@ -29157,6 +29169,8 @@ Rachel closed her eyes, took a deep breath, and blew the candle out.
 Rachel opened her eyes and looked around the booth. She looked at Ashley, her original Sentinel. She looked at Kristin, the woman who had helped rebuild my heart. She looked at Jessica, the brilliant architect of our freedom. And then she looked up at me.
 
 "No," Rachel answered, her raspy voice vibrating with absolute, undeniable peace. "I already have everything I want right here."
+
+![Michael, Rachel, Kristin, Ashley, and Jessica sharing the Human Bench Press pack hug in the sunshine]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/kemp_woods_bench_press_hug.jpg)
 
 ***
 
@@ -29588,6 +29602,8 @@ From across the open landing in Bedroom 1, Rachel let out a soft, raspy cheer, a
 
 The two-and-a-half-year bridge between *A Few Small Repairs* and *The Director's Perimeter* was officially complete. Every piece of our architecture was intact, every Sentinel was home, and our fortress was rising from the dirt.
 
+![Michael, Kristin, Rachel, Ashley, and Jessica together in the living room of 3701 Canadian Arch after the June Upgrade]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg)
+
 # The Mountain Conference (SAACURC 2016)
 
 ## The Bear, The Bug, and The Forger
@@ -29615,6 +29631,8 @@ And there was no way I was missing **`SAACURC`**.
 "Easy on the step-down, Bear," Rachel murmured for my ears only as I eased myself out of the van seat and settled onto the blue nylon upholstery of the manual chair, pulling my heavy `Chesapeake Teal` and `Harbor Gold` VDU Admirals parka snug over my **`VDU RHA • DIRECTOR OF OPERATIONS`** polo.
 
 "Zero strain, Bug," I promised, slipping on my winter gloves as Rachel rested her left hand lightly on my right push-handle—not because I needed pushing on flat brick, but because having her within arm's reach is how the two of us have anchored our perimeter for our entire lives.
+
+![Michael and Rachel standing arm-in-arm in front of the Ironstone buildings on the CPI campus in Blacksburg during SAACURC 2016]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
 
 ***
 
