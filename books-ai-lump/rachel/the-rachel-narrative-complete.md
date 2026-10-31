@@ -27656,51 +27656,145 @@ But lying here skin-to-skin with Rachel, realizing that we had built a home wher
 
 ## The Route 25 Loop & The Shallow End
 
-### Part 1: First Contact & The Engineered Route 25 Commute
+### Part 1: Ms. Doris, The Stalwart Advantage, & The Penny's Run
 
-**Date:** 2007-08-24 at 07:35 America/New_York
+**Date:** 2007-08-23 at 11:55 America/New_York
 
-#### 7:35 AM — Crossing Buckner Boulevard
+#### 11:55 AM — The 30-Foot Stalwart on Route 25
 
-Five months of uninterrupted peace inside 3701 Canadian Arch had done what no hospital or courtroom ever could: it had given Rachel and me time to simply exist.
+Five months of uninterrupted peace inside 3701 Canadian Arch had done what no hospital or courtroom ever could: it had given Rachel and me time to simply breathe.
 
-All through the spring and summer of 2007, our lives ran on a quiet, self-contained clock. On May 25, we celebrated a peaceful, alcohol-free twenty-first birthday for Rachel with Mom and Master April. During the week, Rachel worked her daytime shifts at *The Spot* on Holland Road while I rebuilt my physical stamina and worked through coding tutorials in the Command Center. Every Friday night, we stepped barefoot onto the puzzle mats at the *Lynnhaven Academy of Seondu* under April's watchful eye. And every night, with every interior door in the townhouse standing wide open, Rachel and I got changed together and slept fully undressed in the center of the King bed—letting direct skin-to-skin contact keep us from overheating in the sticky Tidewater summer while calming the spastic tone in our legs.
+All through the spring and summer of 2007, our lives ran on a quiet, self-contained clock. On May 25, we celebrated a peaceful, alcohol-free twenty-first birthday for Rachel at the townhouse with Mom and Master April. During the week, Rachel worked her daytime shifts at *The Spot* on Holland Road while I rebuilt my physical stamina and worked through coding tutorials in the upstairs Command Center. Every Friday night, we stepped barefoot onto the puzzle mats at the *Lynnhaven Academy of Seondu* in our Midnight Blue Belts under April's watchful eye. And every night, with every interior door in the townhouse standing wide open, Rachel and I got changed together and slept fully undressed cuddled up in the center of the King bed—letting direct skin-to-skin contact keep us from overheating in the sticky Tidewater summer while calming the spastic tone in our legs.
 
-Inside our townhouse, my nervous system was completely regulated.
+Because neither Rachel nor I drove, the **Coastal Virginia Transit Authority (`CVTA`)** was our lifeline across Virginia Beach.
 
-Outside our townhouse, however, my social confidence was still a cratered battlefield.
+On Thursday, August 23, 2007—the final day of summer break before my Fall semester classes started at the **Community College of Hampton Roads (`CCHR`)**—Rachel had the afternoon off from *The Spot*. Around noon, the two of us walked across **Buckner Boulevard** to the **CCHR Transit Loop** to catch **CVTA Route 25** inbound toward the intersection of **Princess Anne Road and Baxter Road** so we could grab lunch together at **Penny's**.
 
-On Friday, August 24, 2007—the opening week of the Fall semester at **Community College of Hampton Roads (`CCHR`)**—I kissed Rachel goodbye before her morning shift at *The Spot*, slung my backpack over my shoulder, and walked down our concrete driveway.
+Unlike the high-frequency forty-foot buses that prowled the busy corridors of Norfolk and Virginia Beach Boulevard, the suburban stretch of **CVTA Route 25** ran strictly once every hour on weekdays from `6:00 AM` to `6:00 PM`, served by a compact, boxy **30-foot Stalwart Advantage** low-floor coach whose amber LED destination sign above the windshield alternated between **`25 GLENROCK MALL`** and **`25 NEWTOWN RD`** on inbound runs away from CCHR, and between **`25 CCHR-VA BCH`** and **`25 NEWTOWN RD`** on outbound runs back to campus.
 
-Technically, my commute to college was the easiest transit equation in the city of Virginia Beach. All I had to do was walk to the end of Canadian Arch, wait for the pedestrian walk signal at **Buckner Boulevard**, and cross the street. The sprawling brick campus of CCHR sat directly across the asphalt from our neighborhood.
+When the 12:00 PM bus rumbled into the CCHR bay and hissed to a stop, a familiar face beamed down at us from behind the oversized steering wheel: **Doris Hooks**—known affectionately to every regular rider on Route 25 simply as **Ms. Doris**.
 
-Yet as I stepped into the crowded student lounge of the Science and Allied Health building that first Friday morning, the phantom static of November 2006 hummed sharply behind my ribs. Apart from Rachel, Jessica, Kristin, Mom, and Master April, my traumatized processor still treated unfamiliar women in the civilian world with deep, reflexive suspicion. Delores and Brandi had taught my nervous system that letting an outsider get close meant getting trapped behind a locked door.
+"Well, look who's out enjoying the sunshine!" Ms. Doris called out warmly as the folding front doors swung open. "How are my two favorite passengers doing today?"
 
-I sat down at the end of a long laminate table near the vending machines, pulling my notebook out of my bag and trying to make myself as invisible as possible.
+"Doing great, Ms. Doris," I grinned, flashing my CVTA pass before Rachel flashed hers right behind me. "Heading up to Princess Anne and Baxter to get some Penny's before classes start tomorrow."
 
-"Excuse me—is anyone using this outlet?"
+"You can't go wrong with a square burger and a chocolate shake," Ms. Doris chuckled, easing the 30-foot Stalwart Advantage out of the campus loop as Rachel and I took the forward-facing bench just behind the front wheel well on the passenger side.
 
-I looked up.
+The moment we sat down, Rachel automatically tucked herself flush against my right side, linking both her arms through mine and resting her head comfortably against my shoulder.
 
-Standing beside the table was a young woman in a pale butter-yellow crew-neck t-shirt with straight, shoulder-length chestnut-auburn hair, light freckles across the bridge of her nose, and hazel-green eyes behind thin-rimmed rectangular glasses, hugging a massive grey-and-burgundy hardcover textbook against her chest stamped with **NUCLEAR MEDICINE**.
+Across the aisle from us, sitting near the front on the driver's side, were two other passengers who had already been on board when the bus pulled into the loop: an older woman in her fifties and her daughter—a young woman in her early twenties with straight, shoulder-length chestnut-auburn hair, light freckles across the bridge of her nose, and hazel-green eyes behind thin-rimmed rectangular glasses.
 
-"No," I said quickly, shifting my backpack off the floor so she could reach the wall socket. "Go right ahead."
+As the 30-foot Stalwart hummed smoothly down the tree-lined suburban corridor, Rachel and I chatted easily with Ms. Doris the way we had all summer.
 
-She plugged in her laptop brick, sat down diagonally across from me, and didn't immediately bury her face in her screen the way ninety percent of commuters did. Instead, she offered a genuine, unhurried smile.
+"Are you ready for the campus crowds tomorrow, Michael?" Ms. Doris asked, glancing up into her wide convex interior mirror while keeping her hands steady at ten and two.
 
-"Thanks. I'm Heather," she said. "Heather Bouchard."
+"As ready as I'll ever be," I replied, resting my hand over Rachel's forearm. "Honestly, even with classes starting up, Rachel and I are just glad to be back home in Virginia. Those years we spent out in Washington State felt like they lasted a century. Being back in Virginia Beach where we belong still feels like a dream some mornings."
 
-"Michael," I replied, my posture still slightly braced.
+"Virginia Beach is glad to have you back, honey," Ms. Doris said softly, her eyes crinkling warmly in the overhead mirror as she looked at Rachel cuddled up against my shoulder. "I tell you what—in twenty years of driving a bus, it does my heart good seeing a brother and sister stick together and look out for each other the way you two do. Most siblings your age barely remember to call each other on holidays, and here you two are, thick as thieves every single day."
 
-Within ten minutes of talking, something remarkable happened to my internal telemetry: the defensive alarm bells stopped ringing. Heather wasn't loud, she wasn't aggressive, and she wasn't running a social angle. She mentioned that she and her twin sister had originally started community college up in Charlottesville a few years back before taking time off and relocating down to Virginia Beach so she could finish her Nuclear Medicine Technology degree at CCHR. She was sharp, focused on her rigorous pre-clinicals, and spoke with an easy, grounded kindness that treated my quiet, hyper-literal answers as completely normal rather than weird. When I mentioned how much I loved mapping transit routes and computer hardware, she didn't roll her eyes or talk down to me the way Delores used to; she actually listened, laughed at my dry jokes, and treated me like someone worth knowing.
+"He's my anchor, Ms. Doris," Rachel rasped with a quiet, contented smile against my sleeve. "He's stuck with me."
 
-For a guy whose self-worth had been systematically shredded in a filthy house in Kent nine months earlier, being looked at by a peer on campus as a genuinely good, worthwhile person felt like cold water in a desert.
+"Best deal in the world," I agreed.
+
+As I laughed with Ms. Doris, my gaze shifted briefly across the center aisle.
+
+I noticed the young woman with the chestnut-auburn hair and thin-rimmed glasses sitting beside her mother looking right over at Rachel and me. She wasn't staring rudely; her expression was quiet, observant, and genuinely intrigued—taking in how completely relaxed and at ease we were chatting with the bus driver like old family friends.
+
+![Michael and Rachel cuddled up and chatting with Ms. Doris aboard CVTA Route 25 as Heather looks across the aisle]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_ms_doris_pennys_run.jpg)
+
+When our eyes met for a split second, she offered a tiny, polite half-smile before glancing back out the window. I filed a quick, passing mental note of her face, thinking nothing more of it as the green street sign for **Baxter Road** came into view ahead.
+
+"Here's your stop, y'all!" Ms. Doris announced, bringing the 30-foot Stalwart Advantage to a gentle, zero-jerk halt at the curb of **Princess Anne Road and Baxter Road**. "Enjoy your lunch at Penny's!"
+
+"Thanks, Ms. Doris! See you tomorrow!" I called out, holding Rachel's hand to steady her down the front step before we walked across the sunny parking lot toward the red-and-yellow sign of Penny's.
+
+### Part 2: First Contact, The First Embrace, & The Route 25 Equation
+
+**Date:** 2007-08-24 at 11:45 America/New_York
+
+#### 11:45 AM — Chicken Tenders, Fries, & First Contact
+
+The next morning—Friday, August 24, 2007—was officially the first day of the Fall semester at the **Community College of Hampton Roads (`CCHR`)**.
+
+Rachel had kissed me goodbye at seven-thirty that morning to catch her bus to her daytime shift at *The Spot* on Holland Road, leaving me to navigate the opening-day crowds of CCHR on my own.
+
+Inside 3701 Canadian Arch, my nervous system was completely regulated. Outside our townhouse, however, my social confidence was still a cratered battlefield. Apart from Rachel, Jessica, Kristin, Mom, and Master April, my traumatized processor still treated unfamiliar people in the civilian world with deep, reflexive caution. After what Delores and Brandi had done to me in Norfolk and Kent nine months earlier, being alone in a loud, crowded building full of strangers made the phantom static hum behind my ribs.
+
+At 11:45 AM, after surviving my morning orientation lecture, I walked into the bustling CCHR campus cafeteria and stood in line near the grill counter, keeping my eyes fixed on the overhead menu board while waiting to order lunch.
+
+"Excuse me?" a quiet, friendly voice asked right behind my shoulder.
+
+I turned around.
+
+Standing right behind me in the cafeteria line was the exact same young woman with straight, shoulder-length chestnut-auburn hair, light freckles, and thin-rimmed rectangular glasses who had been sitting across the aisle from Rachel and me on Ms. Doris's bus the day before.
+
+"Do you ride the bus?" she asked, tilting her head with a warm, curious smile. "You look really familiar."
+
+"Yes," I answered, my defensive tension easing a notch as I recognized her immediately from Route 25. "That was me and my sister Rachel on Ms. Doris's bus yesterday heading to Penny's. We take the bus everywhere—neither of us drives, by choice."
+
+"I knew that was you!" she smiled, visibly relieved that she hadn't walked up to the wrong person on the first day of school. "My mom and I were riding Route 25 yesterday so I could learn the stops before classes started today."
+
+The line moved forward to the grill station. I ordered my plate—**chicken tenders and fries**, grabbing a couple of small cups of **mayonnaise for the chicken tenders** and **ketchup for the fries**, plus a fountain **cola**—paid the cashier, and carried my tray out into the main dining room. I found an empty table near the windows, sat down, and began setting out my dipping cups.
+
+Less than two minutes later, I saw her step away from the cashier station carrying her own tray with a **burger, fries, and a cola**. She scanned the crowded cafeteria, spotted me sitting alone by the window, and walked straight over to my table.
+
+"Mind if I sit with you?" she asked.
+
+"Not at all," I said, gesturing to the chair across from me. "Please."
+
+She set her tray down, sat across from me, and held out her hand.
+
+"I'm Heather," she said. "Heather Bouchard."
+
+"Michael," I replied, shaking her hand. "Michael Ragsdale."
+
+Within five minutes of talking over my chicken tenders dipped in mayo and her burger and fries, something remarkable happened to my internal telemetry: the defensive alarm bells stopped ringing completely. Heather wasn't loud, she wasn't aggressive, and she wasn't running a social angle. She explained that she and her identical twin sister had originally attended Charlottesville Community College a few years back before relocating down to Virginia Beach so she could complete her Nuclear Medicine Technology degree at CCHR.
+
+Halfway through our fries and colas, we both pulled our folded paper CCHR class schedules out of our backpacks and slid them across the laminate tabletop to compare them.
+
+"Wait a second—look at Monday, Wednesday, Friday at ten o'clock," Heather pointed out, her hazel-green eyes lighting up behind her glasses. "ENG 111, Section 04?"
+
+I looked down at my own printout.
+
+"ENG 111, Section 04," I read aloud, grinning. "We're in the exact same English class starting Monday."
+
+"Thank goodness," she laughed, pulling out a pen and a notebook page so we could trade phone numbers, email addresses, and *Orbit* profiles right there at the table. "Now I already know at least one person in that room."
 
 ***
 
-#### 8:10 AM — The Route 25 Equation
+#### 12:45 PM — The Most Important Moment of the Day
 
-By the third week of the semester, I had learned that Heather didn't drive to campus. Every weekday morning and afternoon, she commuted to CCHR on **CVTA Route 25**, boarding near her home at the intersection of **Princess Anne Road and Susquehanna Drive**—roughly a twenty-minute bus ride away.
+By twelve-forty-five, our trays were empty and the wall clock above the cafeteria doors signaled that our lunch break was over.
+
+Heather had to walk out to the CCHR Transit Loop to catch the hourly 1:00 PM **CVTA Route 25** bus home, and I had to walk across the quad to my afternoon **Math class**—a subject I despised with every fiber of my being.
+
+We picked up our trays, dropped them off at the dish-return window, and stepped out into the quieter vestibule just outside the cafeteria doors where our paths split.
+
+"Good luck in Math," Heather said warmly, shifting her backpack strap over her shoulder. "I'll see you Monday morning in English."
+
+I stood there looking at her. For the past hour, this girl had treated me like a normal, funny, worthwhile human being. She hadn't mocked the way I talked, she hadn't looked at me with pity, and she had actively chosen to sit with me in a crowded room.
+
+Before my overthinking processor could talk me out of it, I took half a step forward and reached out my arms, silently offering her a hug.
+
+Heather didn't flinch or hesitate. Her smile softened, and she stepped right into my arms.
+
+I wrapped both arms around her shoulders and pulled her into a **very tight, deep-pressure embrace**.
+
+![Michael pulls Heather Bouchard into a tight, hopeful first embrace in the CCHR cafeteria]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_first_day_cafeteria_hug.jpg)
+
+The instant my arms locked around her and I felt her hug me back just as warmly, a swarm of butterflies erupted in my stomach.
+
+My heart hammered against my ribs as an overwhelming wave of unsaid emotion poured silently into that embrace—emotion I kept locked completely inside my own chest because I barely knew her yet and had no way of knowing if I could truly trust her, yet every nerve in my healing body was desperately, fiercely hopeful.
+
+*Could I really be happy again after what Delores did to me?* I wondered silently as I held her close for three grounding seconds. *Will Heather treat me properly?*
+
+When we finally stepped back and she waved goodbye toward the bus loop, I walked toward my hated afternoon Math lecture with my chest feeling lighter than it had in two years.
+
+***
+
+#### 8:00 AM (September 2007) — The Engineered Route 25 Equation
+
+Over the next two weeks of the Fall semester, I learned the exact rhythm of Heather's commute. Every weekday morning and afternoon, she rode Ms. Doris's **30-foot Stalwart Advantage** on **CVTA Route 25**, boarding near her family's house at the intersection of **Princess Anne Road and Susquehanna Drive**—roughly a twenty-minute bus ride from CCHR.
 
 My analytical brain, always looking for ways to optimize a schedule around the people I cared about, immediately ran the transit math.
 
@@ -27708,35 +27802,29 @@ Logically, I had zero practical reason to ever step foot on a bus to get to CCHR
 
 But I didn't care about commute efficiency. I cared about time.
 
-So I engineered a loop.
+So I engineered a loop around Route 25's hourly `6:00 AM` to `6:00 PM` weekday schedule.
 
-Every weekday morning, forty-five minutes before our first classes started, I walked out of 3701 Canadian Arch, crossed Buckner Boulevard onto the CCHR campus, and bypassed the classroom buildings entirely—walking straight to the sprawling **CCHR Transit Loop**. When the outbound **CVTA Route 25** bus rumbled into the bay, I flashed my CVTA pass, climbed aboard, and rode twenty minutes out from campus to **Princess Anne Road & Susquehanna Drive**.
+Every weekday morning before classes, I walked out of 3701 Canadian Arch, crossed Buckner Boulevard onto the CCHR campus, and walked straight to the **CCHR Transit Loop**. When the inbound **30-foot Stalwart Advantage** on **CVTA Route 25**—its amber LED destination sign alternating between **`25 GLENROCK MALL`** and **`25 NEWTOWN RD`**—rumbled into the bay, I flashed my CVTA pass, said good morning to Ms. Doris, and rode twenty minutes from campus to **Princess Anne Road & Susquehanna Drive**.
 
-When the bus hissed to a stop at Susquehanna, I stepped off the front doors, waited for the traffic gap, and crossed the street to the inbound bus shelter on the opposite side of Princess Anne Road.
+When the bus hissed to a stop at Susquehanna, I stepped off the front doors, waited for the traffic gap, and crossed the street to the outbound bus shelter on the opposite side of Princess Anne Road to wait for her.
 
-A few minutes later, Heather would walk up the sidewalk from Susquehanna Drive, her heavy Nuclear Medicine backpack slung over her shoulder, her face lighting up with a warm smile the second she saw me waiting at the stop.
+A few minutes later, Heather would walk up the sidewalk from Susquehanna Drive, her face lighting up with a warm smile the second she saw me waiting at the stop. When the outbound **30-foot Stalwart Advantage** pulled up a few minutes later—its amber LED header alternating between **`25 CCHR-VA BCH`** and **`25 NEWTOWN RD`**—we climbed aboard together and sat side-by-side for the twenty-minute ride to CCHR.
 
-"Morning, Michael," she would say, stepping under the shelter beside me.
+![Michael and Heather Bouchard riding the 30-foot Stalwart Advantage on CVTA Route 25 together to CCHR]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg)
 
-"Morning, Heather," I grinned.
+And every afternoon, when our classes wrapped up for the day, we ran the exact algorithm in reverse. Instead of walking five minutes across Buckner Boulevard to my townhouse, I walked with Heather to the CCHR Transit Loop, hopped aboard the inbound **CVTA Route 25** bus (`25 GLENROCK MALL` / `25 NEWTOWN RD`) with her, and rode the twenty minutes to **Susquehanna Drive**. We stepped off together, crossed the street together to the outbound side so she wouldn't have to cross traffic alone, and stood by the stop until it was time for her to walk home down Susquehanna Drive while I caught the outbound Route 25 bus (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) twenty minutes back to CCHR and walked across Buckner Boulevard home.
 
-When the inbound **CVTA Route 25** bus pulled up a few minutes later, we climbed aboard together and sat side-by-side for the twenty-minute ride back to CCHR.
+On paper, I was spending eighty minutes a day riding a 30-foot municipal bus in circles when I lived across the street from the college.
 
-![Michael and Heather Bouchard riding CVTA Route 25 together to CCHR]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg)
+In reality, engineering that route gave me an extra twenty minutes with Heather every morning and another twenty minutes with her every afternoon—forty minutes of quiet, judgment-free companionship that made me feel like I was finally learning how to be part of the world again.
 
-And every afternoon, when our classes wrapped up for the day, we ran the exact algorithm in reverse. Instead of walking five minutes across Buckner Boulevard to my townhouse, I walked with Heather to the CCHR Transit Loop, hopped aboard the outbound **CVTA Route 25** bus with her, and rode the twenty minutes out to **Susquehanna Drive**. We stepped off together, crossed the street together to the inbound side so she wouldn't have to cross traffic alone, and stood by the stop until it was time for her to walk down Susquehanna Drive toward her house while I caught the next inbound Route 25 bus twenty minutes back to CCHR and walked across Buckner Boulevard home.
-
-On paper, I was spending eighty minutes a day riding a municipal bus in circles when I lived across the street from the college.
-
-In reality, those forty minutes of bus seats alongside her—twenty minutes in the morning, twenty minutes in the afternoon—were the highlight of my campus day. After two years of being screamed at, isolated, and treated like garbage by Delores, sitting next to Heather Bouchard as the Virginia Beach pine trees rolled past the window of Route 25 made me feel like I was finally learning how to be part of the world again.
-
-### Part 2: \
+### Part 3: \
 
 **Date:** 2007-10-18 at 12:15 America/New_York
 
 #### 12:15 PM — "Mask, What Mask?"
 
-By mid-October 2007, Heather and I had become an inseparable fixture of the weekday CCHR grid. Between our morning ride in from Susquehanna Drive on **CVTA Route 25**, our overlapping breaks between classes in the student lounge, and our afternoon bus ride back out to Princess Anne & Susquehanna, we spent nearly every waking weekday hour together.
+By mid-October 2007, Heather and I had become an inseparable fixture of the weekday CCHR grid. Between our morning ride in from Susquehanna Drive on the 30-foot **Stalwart Advantage** serving **CVTA Route 25**, our Monday-Wednesday-Friday English class together, our overlapping breaks in the student lounge, and our afternoon bus ride back out to Princess Anne & Susquehanna, we spent nearly every waking weekday hour together.
 
 In the autumn of 2007, I did not yet have a medical diagnosis for how my brain worked. I didn't know the clinical phrase *Autism Spectrum*, and I had never heard the neurological term *Autistic Masking*.
 
@@ -27766,7 +27854,7 @@ For the next fifteen minutes, the three of us talked easily at the table. I coul
 
 "Hey, Heather," Rachel offered warmly as the wall clock neared twelve-fifty. "Our townhouse is literally right across Buckner Boulevard—less than a five-minute walk from the bus loop. If you ever want to get away from the fluorescent lights in here between classes, or come over for dinner with us sometime, you should come hang out at our place."
 
-A flicker of quiet, guarded hesitation crossed Heather's hazel-green eyes. Her smile stayed polite and appreciative, Set firmly behind an invisible perimeter wall.
+A flicker of quiet, guarded hesitation crossed Heather's hazel-green eyes. Her smile stayed polite and appreciative, set firmly behind an invisible perimeter wall.
 
 "Thank you, Rachel—that's really sweet of you," Heather said gently, hugging her *Nuclear Medicine* textbook a fraction closer to her pale yellow tee. "I'd love to sometime, honestly, but my clinical study blocks and lab prep are so packed this semester that if I leave campus before my afternoon bus home, I'll fall behind on my charts."
 
@@ -27812,7 +27900,7 @@ Only in the upside-down logic of two guarded, neurodivergent twenty-somethings c
 
 #### 9:30 PM — The True Deep End at 3701 Canadian Arch
 
-At four-thirty that afternoon, after riding **CVTA Route 25** out to **Susquehanna Drive** with Heather, crossing Princess Anne Road together, sharing our careful goodbye hug, and riding the inbound Route 25 bus twenty minutes back to the CCHR loop, I walked across Buckner Boulevard and unlocked the front door of 3701 Canadian Arch.
+At four-thirty that afternoon, after riding **CVTA Route 25** out to **Susquehanna Drive** with Heather, crossing Princess Anne Road together, sharing our careful goodbye hug, and riding the outbound Route 25 bus (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) twenty minutes back to the CCHR loop, I walked across Buckner Boulevard and unlocked the front door of 3701 Canadian Arch.
 
 The contrast between the tightrope of the campus shallow end and the interior of our townhouse was immediate.
 
@@ -27844,9 +27932,9 @@ My calves—which had been wound tight from eighty minutes of bracing against th
 
 By the spring of 2008, the morning **CVTA Route 25** loop was etched so deeply into my muscle memory that I could have run it blindfolded.
 
-On Tuesday morning, April 1, 2008, I walked out of 3701 Canadian Arch at seven-thirty, crossed Buckner Boulevard to the CCHR Transit Loop, and boarded the outbound Route 25 bus. For twenty minutes, I watched the familiar strip malls and pine groves roll past the window until the operator called out **Princess Anne Road and Susquehanna Drive**.
+On Tuesday morning, April 1, 2008, I walked out of 3701 Canadian Arch at seven-thirty, crossed Buckner Boulevard to the CCHR Transit Loop, and boarded the inbound 30-foot **Stalwart Advantage** on Route 25 (`25 GLENROCK MALL` / `25 NEWTOWN RD`). For twenty minutes, I watched the familiar strip malls and pine groves roll past the window until Ms. Doris called out **Princess Anne Road and Susquehanna Drive**.
 
-I stepped off the front doors into the crisp April morning air, waited for the traffic signal to clear, and crossed the wide asphalt of Princess Anne Road to the inbound bus shelter on the opposite curb.
+I stepped off the front doors into the crisp April morning air, waited for the traffic signal to clear, and crossed the wide asphalt of Princess Anne Road to the outbound bus shelter on the opposite curb.
 
 Over the past seven months, Heather had mentioned plenty of times that she had an identical twin sister named **Hailey**. Because Hailey's classes and pre-service social work hours ran on a completely different schedule from Heather's Nuclear Medicine track—and because Rule One of the Shallow End meant I never went past the Susquehanna Drive bus stop to their house—I had never once met Hailey in person. To my brain, "Heather's twin" was purely an abstract data point.
 
@@ -27888,11 +27976,11 @@ I stared from left to right, blinking rapidly as two identical faces grinned bac
 
 "We call it Twin Magic," Hailey beamed, offering me a cheerful wave now that she wasn't crushing my ribcage. "Heather told me how much you like big hugs, so I figured if I was going to impersonate her for thirty seconds at the bus stop, I should really commit to the bit."
 
-"You committed *way* too hard," Heather teased her sister, still laughing as the rumble of the inbound **CVTA Route 25** diesel engine approached down Princess Anne Road. "He figured out you weren't me in like three seconds flat just from how hard you squeezed him!"
+"You committed *way* too hard," Heather teased her sister, still laughing as the rumble of the outbound **CVTA Route 25** diesel engine (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) approached down Princess Anne Road. "He figured out you weren't me in like three seconds flat just from how hard you squeezed him!"
 
 "Hey, I took it as a compliment," I laughed, my heart rate finally settling back to baseline as the sheer absurdity and warmth of the prank washed over me. "My visual cortex was completely fooled, Hailey, I'll give you that. My ribs are the only reason I caught the switch."
 
-Hailey laughed, gave her sister a quick high-five before turning back down Susquehanna Drive toward her own car, and Heather and I climbed aboard the inbound Route 25 bus together, still grinning all the way back to CCHR.
+Hailey laughed, gave her sister a quick high-five before turning back down Susquehanna Drive toward her own car, and Heather and I climbed aboard the outbound Route 25 bus together, still grinning all the way back to CCHR.
 
 ### Part 2: The Chesapeake Bay Aquarium
 
@@ -27904,7 +27992,7 @@ For nearly eleven months, the first rule of the Shallow End had never once bent:
 
 Then came Friday, July 18, 2008.
 
-In the middle of the blistering Virginia Beach summer session—between her Nuclear Medicine clinical prep and my summer coursework—Heather agreed to do something she had never done before. For one afternoon, she stepped outside the weekday campus perimeter and went with me on an off-campus outing to the **Chesapeake Bay Aquarium**.
+In the middle of the blistering Virginia Beach summer—with no textbooks, no school bags, and no classes for the day—Heather agreed to do something she had never done before. For one afternoon, she stepped outside the weekday campus perimeter and went with me on an off-campus outing to the **Chesapeake Bay Aquarium**. Rachel would have loved to come with us, too, but she was scheduled for a full Friday shift at *The Spot*, leaving just the two of us—two best friends enjoying a summer day off together.
 
 To anyone else, a Friday afternoon trip to the local aquarium was a casual summer hangout. To my processor, it felt like landing on the moon.
 
@@ -27944,11 +28032,11 @@ And right up until Friday, May 8, 2009—the final Friday of the Spring 2009 sem
 
 There was no argument. There was no awkwardness. There wasn't a single warning flare on my radar to indicate that behind her calm, polite exterior, the crushing pressure of her Nuclear Medicine hospital clinicals and the daily emotional investment of our campus routine had silently pushed her internal battery to the breaking point—or that she completely lacked the emotional vocabulary to simply ask for a pause.
 
-At 3:45 PM that Friday afternoon, we walked out of the Science building together in the warm May sunshine, boarded the outbound **CVTA Route 25** bus at the CCHR loop, and sat in our usual forward-facing row. We talked normally as the bus rumbled down the familiar twenty-minute corridor toward Princess Anne Road.
+At 3:45 PM that Friday afternoon, we walked out of the Science building together in the warm May sunshine, boarded the inbound 30-foot **Stalwart Advantage** on **CVTA Route 25** (`25 GLENROCK MALL` / `25 NEWTOWN RD`) at the CCHR loop, and sat in our usual forward-facing row. We talked normally as the bus rumbled down the familiar twenty-minute corridor toward Princess Anne Road.
 
-When the operator called **Susquehanna Drive**, we stood up, stepped down the front steps onto the concrete, waited for the traffic signal, and crossed Princess Anne Road together to the inbound bus shelter—just as we had done hundreds of times over the last two years.
+When the operator called **Susquehanna Drive**, we stood up, stepped down the front steps onto the concrete, waited for the traffic signal, and crossed Princess Anne Road together to the outbound bus shelter—just as we had done hundreds of times over the last two years.
 
-The outbound bus pulled away, leaving us standing on the quiet sidewalk at the corner of Susquehanna Drive.
+The inbound bus pulled away toward Newtown Road and Glenrock Mall, leaving us standing on the quiet sidewalk at the corner of Susquehanna Drive.
 
 I turned toward her, smiling, and opened my arms for our routine afternoon goodbye hug before she walked down the block toward her house.
 
@@ -27966,9 +28054,9 @@ Her face was completely blank—drained of every trace of the warmth that had an
 
 Before my processor could even parse the syntax of what had just happened, she spun on her heel, turned her back to me on the sidewalk of Susquehanna Drive, and walked rapidly away down the residential street without looking back once.
 
-I stood completely paralyzed at the inbound bus stop on Princess Anne Road.
+I stood completely paralyzed at the outbound bus stop on Princess Anne Road.
 
-Five minutes later, the inbound **CVTA Route 25** bus pulled up to the curb and hissed open its doors. Operating on pure, numb autopilot, I climbed aboard and sat down in the row we had shared every morning for two years. For the entire twenty-minute ride back to the CCHR Transit Loop, I stared at the empty blue vinyl seat beside me, my heart hammering against my ribs as my analytical brain frantically searched the last forty-eight hours of memory logs for a mistake, a misstep, or a broken rule.
+Five minutes later, the outbound **CVTA Route 25** bus (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) pulled up to the curb and hissed open its doors. Operating on pure, numb autopilot, I climbed aboard and sat down in the row we had shared every morning for two years. For the entire twenty-minute ride back to the CCHR Transit Loop, I stared at the empty blue vinyl seat beside me, my heart hammering against my ribs as my analytical brain frantically searched the last forty-eight hours of memory logs for a mistake, a misstep, or a broken rule.
 
 I came up with nothing.
 
