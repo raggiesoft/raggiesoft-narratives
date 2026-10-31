@@ -29620,19 +29620,19 @@ At `4:00 PM`, Kyleen pulled the van under the brick porte-cochère of **The Hote
 
 As the van doors opened, I waited while two of our fellow elected VDU delegates unfolded my blue-upholstered manual wheelchair and set it on the dry brick pavement beside the running board.
 
-I am not normally a wheelchair user—standing up, I'm `5'7"`, the exact same height as my sister **Rachel** (*my Bug*)—and I definitely wasn't planning on spending a cold February weekend in the Blue Ridge Mountains on four wheels. Three weeks earlier, however, I had undergone a planned surgery back in Hampton Roads. My surgeon had cleared me to travel with the VDU delegation only on the strict condition that I not walk campus distances or stand in long conference registration lines while my incisions and soft tissue finished healing.
+I am not normally a wheelchair user—standing up, I'm `5'7"`, the exact same height as my sister **Rachel** (*my Bug*)—and I definitely wasn't planning on spending a cold February weekend in the Blue Ridge Mountains on four wheels. Three weeks earlier, however, I had undergone elective foot surgery back in Hampton Roads—bilateral Achilles heel cord lengthening in both feet. My surgeon had cleared me to travel with the VDU delegation only on the strict condition that I use a manual wheelchair and not walk the steep campus hills of Blacksburg or stand in long conference registration lines while both of my Achilles tendons and incisions finished healing.
 
 And there was no way I was missing **`SAACURC`**.
 
 **`SAACURC`** (*the South Atlantic Affiliate of College and University Residence Halls*) is the student-governed **Residence Hall Association (`RHA`)** conference for our region. Before we pulled out of Norfolk this morning, **Kyleen**—who, as a full-time Residence Life staff member, also attends **`CACUHO`**, a separate professional housing conference that Rachel and I had never even heard of because professional housing staff and student-governed RHAs are run by two completely separate entities that don't intermingle—had reminded our van that at `SAACURC`, the students run the floor. At VDU, **every single RHA position is elected directly by on-campus residents**:
 * Back in the fall election, VDU's on-campus residents had elected me **Director of Operations** for the VDU Residence Hall Association. My job is the structural backbone of our organization: I build and standardize the meeting minutes templates, keep our RHA cloud storage drive organized with military-grade folder taxonomy, and receive and audit the weekly operational reports from the Hall Councils of every single residence hall across the VDU campus.
-* And sitting right beside me in the van—bundled up in her matching **`Chesapeake Teal`** (`#005F6A`) and **`Harbor Gold`** (`#D4AF37`) **VDU Admirals** winter coat and knit scarf—was my Bug, **Rachel**, whom VDU's on-campus residents had elected **RHA Secretary**. Between my cloud-drive architecture and Rachel's live transcription speed, the two of us ran VDU RHA's documentation like a Swiss watch.
+* And sitting right beside me in the van—wearing jeans and a **Blue and Silver** **Virginia Dominion University (`VDU`)** t-shirt under her warm winter jacket—was my Bug, **Rachel**, whom VDU's on-campus residents had elected **RHA Secretary**. Between my cloud-drive architecture and Rachel's live transcription speed, the two of us ran VDU RHA's documentation like a Swiss watch.
 
-"Easy on the step-down, Bear," Rachel murmured for my ears only as I eased myself out of the van seat and settled onto the blue nylon upholstery of the manual chair, pulling my heavy `Chesapeake Teal` and `Harbor Gold` VDU Admirals parka snug over my **`VDU RHA • DIRECTOR OF OPERATIONS`** polo.
+"Easy on the step-down, Bear," Rachel murmured for my ears only as I eased myself out of the van seat and settled onto the seat of my manual wheelchair—hands resting on the push-rims of the rear wheels—pulling my warm winter jacket snug over my **Blue and Silver** **`VDU`** t-shirt and jeans. Because we weren't presenting a formal session this weekend, neither of us needed to be dressed up; like all the other visiting school delegations filling the sloping CPI walkways in their school colors, we were repping VDU in our Blue and Silver t-shirts, jeans, and winter jackets.
 
-"Zero strain, Bug," I promised, slipping on my winter gloves as Rachel rested her left hand lightly on my right push-handle—not because I needed pushing on flat brick, but because having her within arm's reach is how the two of us have anchored our perimeter for our entire lives.
+"Zero strain, Bug," I promised, gripping the wheel push-rims as Rachel stepped behind my chair and gripped both rear push-handles to help steady me against the steep Blacksburg campus hills—anchoring our perimeter the way the two of us had for our entire lives.
 
-![Michael and Rachel standing arm-in-arm in front of the Ironstone buildings on the CPI campus in Blacksburg during SAACURC 2016]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
+![Michael in his manual wheelchair with push rims and Rachel gripping the rear push handles on the hilly CPI campus in Blacksburg during SAACURC 2016, both wearing jeans, Blue-and-Silver VDU t-shirts, and winter jackets surrounded by visiting SAACURC student delegations]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
 
 ***
 
@@ -29682,7 +29682,7 @@ By `8:30 PM` on Friday night, after a casual pizza dinner with our VDU delegatio
 
 Because Kyleen had noted my temporary post-surgical wheelchair on VDU's housing manifest, **The Hotel at Poly** had assigned Rachel and me one of their spacious ground-floor **ADA Accessible Double-Queen Rooms**—complete with a thirty-six-inch zero-threshold entry door, wide turning clearances around the furniture, a roll-in shower with fold-down teak bench, and **two Queen-sized beds** standing side by side against the padded headboard wall.
 
-As soon as the heavy hotel door clicked shut and I threw the deadbolt and night latch, Rachel kicked off her winter boots, peeled off her `Chesapeake Teal` coat, and looked at the two identical, tightly made Queen beds with an amused little smile.
+As soon as the heavy hotel door clicked shut and I threw the deadbolt and night latch, Rachel kicked off her winter shoes, peeled off her winter jacket over her Blue and Silver VDU t-shirt, and looked at the two identical, tightly made Queen beds with an amused little smile.
 
 "Just like home, Bear," she whispered.
 
@@ -29708,7 +29708,7 @@ Rachel laughed softly, switching off the overhead lamp and climbing under the co
 
 #### 9:00 AM — The Clothespin Gauntlet & The Cloud Drive
 
-By `8:30 AM` on Saturday, February 13, 2016, **Rachel** and I were bundled up in our **`Chesapeake Teal`** and **`Harbor Gold`** **VDU Admirals** layers, rolling out of **The Hotel at Poly** alongside our **VDU RHA Advisor**, **Kyleen**, and our fellow elected VDU delegates toward **Kincaid Student Center** (`290 College Ave.`).
+By `8:30 AM` on Saturday, February 13, 2016, **Rachel** and I were dressed in our jeans, **Blue and Silver** **VDU** t-shirts, and warm winter jackets, rolling out of **The Hotel at Poly** alongside our **VDU RHA Advisor**, **Kyleen**, and our fellow elected VDU delegates across the hilly CPI campus toward **Kincaid Student Center** (`290 College Ave.`), with Rachel gripping my wheelchair's rear push-handles on the steep Blacksburg grades while I worked the wheel push-rims.
 
 If you have never experienced a **`SAACURC`** (*South Atlantic Affiliate of College and University Residence Halls*) Saturday morning opening roll call, the sensory volume hits you the second the automatic glass doors of the student center slide open.
 
@@ -29716,11 +29716,11 @@ Because `SAACURC` is the student-governed **Residence Hall Association (`RHA`)**
 
 The rules of the Clothespin Game are simple: every school delegation brings hundreds of hand-painted wooden clothespins decorated with their school colors, mascot, and `"HEY SAACURC!"` slogans. You try to clip your school's clothespins onto the back of another delegate's lanyard, collar, or backpack strap without them noticing—or trade pins face-to-face to break the ice between parliamentary sessions and program blocks.
 
-Because I was sitting at forty-two inches of eye-level height in my blue-upholstered manual wheelchair while recovering from my surgery, my `Chesapeake Teal` winter parka and push-handles were prime real estate. Before we even cleared the main atrium lobby outside the Commonwealth Ballroom, three delegates from **Radford University** (who had driven the fifteen minutes up from Radford for the day) and four delegates from **CPI's RHA** had traded pins with Rachel and me until my lanyard looked like a wooden bandolier.
+Because I was sitting at forty-two inches of eye-level height in my manual wheelchair while recovering from my bilateral Achilles heel cord lengthening foot surgery, my winter jacket and push-handles were prime real estate. Before we even cleared the main atrium lobby outside the Commonwealth Ballroom, three delegates from **Radford University** (who had driven the fifteen minutes up from Radford for the day) and four delegates from **CPI's RHA** had traded pins with Rachel and me until my lanyard looked like a wooden bandolier.
 
-"How's the leg and the core holding up, Michael?" Kyleen asked, checking in with me as we reached the VDU delegation table near the accessible front aisle of the ballroom.
+"How are the feet and Achilles holding up, Michael?" Kyleen asked, checking in with me as we reached the VDU delegation table near the accessible front aisle of the ballroom.
 
-"Solid, Kyleen," I answered, locking my wheel brakes and popping open my laptop on the table beside Rachel’s notebook. "Zero pain as long as I'm not hiking up the Commonwealth Green grade on foot."
+"Solid, Kyleen," I answered, locking my wheel brakes and popping open my laptop on the table beside Rachel’s notebook. "Zero pain as long as I'm on wheels and not hiking up the Commonwealth Green hills on foot."
 
 As VDU RHA's elected **Director of Operations**, I don't believe in letting conference takeaways vanish into a pile of crumpled paper handouts at the bottom of a backpack. Before we had even left Norfolk on Friday morning, I had built a dedicated **`SAACURC 2016 — Blacksburg`** directory tree inside our VDU RHA cloud storage drive—complete with standardized Google Docs meeting-minutes templates pre-formatted for **Rachel** (our elected **RHA Secretary**) and sub-folders mapped to every single dorm Hall Council across VDU's campus.
 
@@ -29756,7 +29756,7 @@ Across the room, the CPI RHA presenters and half a dozen visiting delegations ap
 
 By the time Saturday's evening banquet, roll-call skits, and regional caucus meetings wrapped up inside **Kincaid Student Center** at `9:30 PM`, the mountain temperature outside had dropped into the low twenties, turning the remaining edges of the melted snowbanks along College Avenue into glittering frost.
 
-Back inside the warm, quiet sanctuary of **Room 114** at **The Hotel at Poly**, I locked the wheels of my blue manual chair, shed my `Chesapeake Teal` and `Harbor Gold` parka, and plugged both of our phones and my laptop into the desk power strip after verifying that every Saturday breakout report was cleanly filed in the VDU RHA cloud drive.
+Back inside the warm, quiet sanctuary of **Room 114** at **The Hotel at Poly**, I locked the wheels of my manual chair, shed my winter jacket, and plugged both of our phones and my laptop into the desk power strip after verifying that every Saturday breakout report was cleanly filed in the VDU RHA cloud drive.
 
 Rachel came out of the accessible bathroom in her soft flannel sleep shirt and warm socks, looking over at the two Queen beds.
 
@@ -29782,15 +29782,15 @@ After loading our overnight luggage into the back of the VDU university van unde
 
 While the Saturday schedule at `SAACURC` is all about program sessions, policy roundtables, and trading `"HEY SAACURC!"` clothespins across three floors of breakout rooms, Sunday morning is when the regional student boardroom wraps up its legislative resolutions—including passing the regional student endorsement modeled on **CPI's Gender-Inclusive Housing (`GIH`) proposal** and **VDU's Fall 2015–Spring 2016 GIH pilot**—before all the delegations gather in the **Commonwealth Ballroom** at `11:30 AM` for the **Closing Lunch and Awards Ceremony**.
 
-Sitting at our **VDU Admirals** table near the accessible front aisle in our `Chesapeake Teal` and `Harbor Gold` sweaters, Rachel and I shared plates of warm roasted chicken, mashed potatoes, and rolls while the regional executive board stepped up to the podium to present the weekend's recognition plaques.
+Sitting at our **VDU** table near the accessible front aisle in our **Blue and Silver** VDU t-shirts, jeans, and winter jackets, Rachel and I shared plates of warm roasted chicken, mashed potatoes, and rolls while the regional executive board stepped up to the podium to present the weekend's recognition plaques.
 
 By longstanding conference ground rules, **the host school (`Commonwealth Polytechnic Institute`) is never eligible to win any awards** at the conference for conflict-of-interest reasons—meaning all of the competitive `SAACURC` plaques were up for grabs among the visiting delegations elected by their on-campus peers:
 * The **Radford University** delegation took home the *Regional Spirit Award* for the loudest roll-call chant of the weekend.
 * **Shenandoah Valley University (`SVU`)** from Harrisonburg won the *Student Advocacy & Program of the Year Award* for their campus-wide hall council sustainability initiative.
 * And when the Regional Communications Coordinator stepped up to announce the ***SAACURC Operational & Documentation Excellence Recognition***—honoring the visiting delegation with the best-organized parliamentary reporting and hall-council information architecture—she smiled right down toward our table:
-  *"Presented to the elected **Director of Operations** and **Secretary** of the **Virginia Dominion University Admirals Residence Hall Association**—**Michael Ragsdale** and **Rachel Ragsdale**!"*
+  *"Presented to the elected **Director of Operations** and **Secretary** of the **Virginia Dominion University Residence Hall Association**—**Michael Ragsdale** and **Rachel Ragsdale**!"*
 
-Our entire VDU table—including Kyleen—erupted into cheers and table-drumming. As I wheeled my blue manual chair up the side accessible ramp to accept the engraved wooden plaque alongside Rachel, a dozen delegates from CPI, Radford, Shenandoah Valley University, and across the region clapped and waved their `Chesapeake Teal` VDU clothespins in the air.
+Our entire VDU table—including Kyleen—erupted into cheers and table-drumming. As I wheeled my manual chair up the side accessible ramp to accept the engraved wooden plaque alongside Rachel, a dozen delegates from CPI, Radford, Shenandoah Valley University, and across the region clapped and waved their Blue and Silver VDU clothespins in the air.
 
 ***
 
