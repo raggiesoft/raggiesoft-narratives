@@ -10082,7 +10082,7 @@ I took a deep, shaky breath, nodding. *Open door. Merry Christmas. Light hug. Br
 
 **Date:** 1999-12-25 at 12:00 America/New_York
 
-![Fourteen-year-old Michael and fourteen-year-old Bonnie Reed in her gray drumset sweatshirt sharing a fierce deep-pressure Christmas Day 1999 hug in front of the glowing Christmas tree and brick fireplace at 1852 Delaney Street while Ashley Raybourn smiles with her yellow disposable camera.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_bonnie_hug.jpg)
+![Fourteen-year-old Michael on the left and fourteen-year-old Bonnie Reed in a heather-gray long-sleeved shirt on the right standing side-by-side with Michael's arm around Bonnie's shoulder and Bonnie's hands resting in front of her waist, posing for the camera in front of the Christmas tree in the right corner of the living room beside the brick fireplace on Christmas Day 1999.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_bonnie_hug.jpg)
 
 #### 12:00 PM — The First Crush
 
