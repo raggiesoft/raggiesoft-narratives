@@ -27800,9 +27800,37 @@ When we finally stepped back and she waved goodbye toward the bus loop, I walked
 
 ***
 
-#### 8:00 AM (September 2007) — The Engineered Route 25 Equation
+#### 3:15 PM — Telling Rachel Everything
 
-Over the next two weeks of the Fall semester, I learned the exact rhythm of Heather's commute. Every weekday morning and afternoon, she rode **CVTA Route 25**, boarding near her family's house at the intersection of **Princess Anne Road and Susquehanna Drive**—roughly a twenty-minute bus ride from CCHR.
+My afternoon Math lecture let out at two o'clock, and by two-fifteen I had walked the five minutes across Buckner Boulevard and unlocked the front door of 3701 Canadian Arch.
+
+For the next hour, I paced between the kitchen and the living room with Shadow trotting happily at my heels, practically vibrating with excitement as I waited for Rachel to finish her daytime shift at *The Spot*.
+
+At `3:13 PM`—roughly an hour after I had gotten home—I heard Rachel's key turn in the deadbolt. The front door swung open, and my sister stepped into the foyer in her red *Spot* polo shirt and tan khakis, unclipping her nametag with a tired sigh that vanished the instant she saw the look on my face.
+
+"Whoa," Rachel smiled, dropping her canvas bag by the coat rack and pushing her black-framed glasses up the bridge of her nose. "Okay, Bear, spill. Your face hasn't looked that bright after a math class since the seventh grade."
+
+I pulled her into a quick, tight welcome-home hug right there in the living room before launching into the full report.
+
+"Remember the girl with the glasses and the chestnut hair sitting across the aisle from us with her mom on Ms. Doris's bus yesterday when we were heading to Penny's?" I asked, the words tumbling out at double speed.
+
+"Yeah," Rachel nodded, walking with me into the kitchen as she grabbed a glass of water. "The one whose mom was asking Ms. Doris how Route 25 worked. Why?"
+
+"Her name is Heather—Heather Bouchard!" I said, grinning from ear to ear. "She walked right up to me in the cafeteria line at lunch today because she recognized us from the bus yesterday. She got a burger and fries, saw me sitting by the window with my chicken tenders, and came right over to sit with me for the whole lunch hour. We compared schedules and found out we're in the exact same Monday-Wednesday-Friday English class starting Monday morning—and right before she left to catch the one o'clock bus and I went to Math, I offered her a hug outside the cafeteria and she hugged me right back!"
+
+Rachel leaned back against the kitchen counter, her warm dark eyes softening behind her glasses as she listened to every detail. After everything she had watched me survive in Norfolk and Kent—after months of watching me flinch whenever a stranger got too close in public—hearing that I had made a real friend on my very first day of college on my own made her smile widen with genuine pride.
+
+"That's awesome, Bear," Rachel said warmly, reaching out to squeeze my forearm. "Seriously, I'm really happy for you. She sounds really sweet."
+
+"I want you to meet her, Bug," I said immediately. "On Monday, after Heather and I finish our ten o'clock English class, we're going to eat lunch together at CCHR before her afternoon labs. Your Monday shift at *The Spot* doesn't start until the afternoon, right? Can you walk over to campus and have lunch with us on Monday so you can meet her?"
+
+"Wild horses couldn't stop me," Rachel promised without a second's hesitation. "Tell me what table you guys are at on Monday and I'll be there at noon."
+
+***
+
+#### 8:00 AM — The Engineered Route 25 Equation
+
+Once that first Monday rolled around, I quickly learned the exact rhythm of Heather's weekday commute. Every morning and afternoon, she rode **CVTA Route 25**, boarding near her family's house at the intersection of **Princess Anne Road and Susquehanna Drive**—roughly a twenty-minute bus ride from CCHR.
 
 My analytical brain, always looking for ways to optimize a schedule around the people I cared about, immediately ran the transit math.
 
@@ -27824,13 +27852,41 @@ On paper, I was spending eighty minutes a day riding a municipal bus in circles 
 
 In reality, engineering that route gave me an extra twenty minutes with Heather every morning and another twenty minutes with her every afternoon—forty minutes of quiet, judgment-free companionship that made me feel like I was finally learning how to be part of the world again.
 
-### Part 3: \
+### Part 3: Monday Lunch, \
 
-**Date:** 2007-10-18 at 12:15 America/New_York
+**Date:** 2007-08-27 at 12:00 America/New_York
 
-![Rachel meets Heather Bouchard in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg)
+![Rachel meets Heather Bouchard over Monday lunch in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg)
 
-#### 12:15 PM — "Mask, What Mask?"
+#### 12:00 PM — Monday Lunch: Rachel Meets Heather
+
+On Monday morning, August 27, 2007—just three days after our first meeting in the cafeteria line—Heather and I sat side-by-side through our first ten o'clock lecture in `ENG 111, Section 04`, and then walked over to the CCHR student lounge and dining area at noon to eat lunch together.
+
+Right on schedule, as Heather and I were sitting at a round laminate table with our lunches and her thick *Nuclear Medicine* textbook resting beside her tray, the double doors swung open. Rachel walked in after finishing her morning general-education class, her canvas messenger bag slung over her shoulder. She spotted us immediately and walked over, pushing her thick black-framed glasses up the bridge of her nose.
+
+"Hey, Bear," Rachel said warmly, before turning a bright, friendly smile toward the other side of the table.
+
+"Heather, this is my sister, Rachel," I said proudly. "Bug, this is Heather."
+
+"It's really good to finally meet you," Rachel said, pulling out the third chair and sitting down with us to join our Monday lunch. "When I got home from work on Friday afternoon, Michael couldn't stop talking about how the two of you recognized each other from Ms. Doris's Route 25 bus and ended up in the exact same English class."
+
+"It was a pretty lucky coincidence," Heather replied with a genuine smile, adjusting her thin-rimmed glasses. "And he's a really good bus navigator."
+
+For the next forty-five minutes over lunch, the three of us talked easily at the table. I could see Rachel's analytical eyes quietly observing the dynamic—noting how relaxed my shoulders were and how Heather treated me without a single trace of pity or condescension. Wanting to welcome Heather into our world right from the start, Rachel decided to make a calculated tactical move. She knew that if a guy invited a female classmate back to his house first, a guarded young woman might understandably feel nervous or put on the spot—whereas if Rachel extended the very first invitation herself, woman-to-woman, it might break the ice and reassure Heather that our home was completely safe.
+
+"Hey, Heather," Rachel offered warmly as the wall clock neared twelve-fifty. "Our townhouse is literally right across Buckner Boulevard—less than a five-minute walk from the bus loop. If you ever want to get away from the fluorescent lights in here between classes, or come over for dinner with us sometime, you should come hang out at our place."
+
+A flicker of quiet, guarded hesitation crossed Heather's hazel-green eyes. Her smile stayed polite and appreciative, set firmly behind an invisible perimeter wall.
+
+"Thank you, Rachel—that's really sweet of you," Heather said gently, hugging her *Nuclear Medicine* textbook a fraction closer to her pale yellow tee. "I'd love to sometime, honestly, but my clinical study blocks and lab prep are so packed this semester that if I leave campus before my afternoon bus home, I'll fall behind on my charts."
+
+Rachel caught the boundary immediately. She didn't press, guilt-trip, or make it awkward for a single second.
+
+"Totally fair," Rachel said with an easy, respectful nod as she stood up to head toward her afternoon shift at *The Spot*. "Nuclear Medicine sounds intense. It was really nice meeting you, Heather."
+
+***
+
+#### 12:30 PM (October 2007) — "Mask, What Mask?"
 
 By mid-October 2007, Heather and I had become an inseparable fixture of the weekday CCHR grid. Between our morning ride in from Susquehanna Drive on **CVTA Route 25**, our Monday-Wednesday-Friday English class together, our overlapping breaks in the student lounge, and our afternoon bus ride back out to Princess Anne & Susquehanna, we spent nearly every waking weekday hour together.
 
@@ -27847,28 +27903,6 @@ Heather laughed softly over her lunch container, shaking her head with warm amus
 The reason I didn't understand the question was simple: whenever I was sitting with Heather on campus—just like whenever I was home with Rachel across the street—I wasn't wearing one. For the first time in my adult life, I had found someone outside my family circle who didn't require me to run an exhausting translation script just to be tolerated. Because I didn't have the clinical term *Safe Person* in my vocabulary yet, I used the only label my twenty-three-year-old brain had available.
 
 "You're my favorite," I told her simply as we packed up our trays. "Out of all my friends here, you're my favorite."
-
-Ten minutes later, as we were still sitting at our round laminate table in the student lounge, the double doors swung open and Rachel walked in from her morning general-education lecture, her canvas messenger bag slung over her shoulder. She spotted me immediately and walked over, pushing her rectangular glasses up the bridge of her nose.
-
-"Hey, Bear," Rachel said, before turning a warm, curious smile toward the other side of the table.
-
-"Heather, this is my sister, Rachel," I said proudly. "Bug, this is Heather."
-
-"It's really good to finally meet you," Rachel said, pulling out the third chair and sitting down with us. "Michael hasn't stopped talking about how much fun the Route 25 bus loop is now."
-
-"He's a pretty good bus navigator," Heather replied with a genuine smile, adjusting her thin-rimmed glasses and resting her hands on the cover of her thick *Nuclear Medicine* textbook.
-
-For the next fifteen minutes, the three of us talked easily at the table. I could see Rachel's analytical eyes quietly observing the dynamic—noting how relaxed my shoulders were and how Heather treated me without a single trace of pity or condescension. Wanting to welcome Heather into our world, Rachel decided to make a calculated tactical move. She knew that if a guy invited a female classmate back to his house first, a guarded young woman might understandably feel nervous or put on the spot—whereas if Rachel extended the very first invitation herself, woman-to-woman, it might break the ice and reassure Heather that our home was completely safe.
-
-"Hey, Heather," Rachel offered warmly as the wall clock neared twelve-fifty. "Our townhouse is literally right across Buckner Boulevard—less than a five-minute walk from the bus loop. If you ever want to get away from the fluorescent lights in here between classes, or come over for dinner with us sometime, you should come hang out at our place."
-
-A flicker of quiet, guarded hesitation crossed Heather's hazel-green eyes. Her smile stayed polite and appreciative, set firmly behind an invisible perimeter wall.
-
-"Thank you, Rachel—that's really sweet of you," Heather said gently, hugging her *Nuclear Medicine* textbook a fraction closer to her pale yellow tee. "I'd love to sometime, honestly, but my clinical study blocks and lab prep are so packed this semester that if I leave campus before my afternoon bus home, I'll fall behind on my charts."
-
-Rachel caught the boundary immediately. She didn't press, guilt-trip, or make it awkward for a single second.
-
-"Totally fair," Rachel said with an easy, respectful nod as she stood up to head toward her afternoon shift at *The Spot*. "Nuclear Medicine sounds intense. It was really nice meeting you, Heather."
 
 ***
 
