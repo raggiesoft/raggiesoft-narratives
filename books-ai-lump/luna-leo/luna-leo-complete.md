@@ -1095,7 +1095,7 @@ Luna and Leo nodded, understanding the explanation, though maybe feeling a tiny 
 
 Back in the apartment later that day, the energy from the classic rock discoveries in the car still lingered. Luna and Leo seemed magnetically drawn to the turntable and Stella's box of records. Seeing their continued interest, Leo used his device to type, <aac>"More music?"</aac> while Luna looked hopefully at Stella.  
 
-Stella smiled. "Still hooked, huh?" She went back to her box of LPs, thoughtfully flipping through them. She paused, pulling out an album with a simple, somewhat abstract cover featuring figures holding lights. "Okay," she said, holding it up. "This one is special to me. Origin, '...And Only Three Remained...' This was the very first record album I ever bought with my own allowance money. Saved up for weeks."
+Stella smiled. "Still hooked, huh?" She went back to her box of LPs, thoughtfully flipping through them. She paused, pulling out an album with a simple, somewhat abstract cover featuring figures holding lights. "Okay," she said, holding it up. "This one is special to me. Fractured Prisms, '...And Only Three Remained...' This was the very first record album I ever bought with my own allowance money. Saved up for weeks."
 
 She slid the vinyl out. "I showed you how to start at the beginning of a side," she said, placing the record on the turntable. "But sometimes you want to play a specific song that's not the first one. See these smoother, wider bands between the groups of grooves? Those usually separate the songs."
 
@@ -1109,13 +1109,13 @@ After a brief moment of silence, the gentle, instantly recognizable keyboard int
 
 **Date:** 1999-10-23 at 15:00 America/New_York
 
-The final notes of "Wherever You Go" faded. Luna and Leo were clearly impressed and, through words and Leo's device, asked for more Origin.  
+The final notes of "Wherever You Go" faded. Luna and Leo were clearly impressed and, through words and Leo's device, asked for more Fractured Prisms.  
 
-Stella agreed, moving from the turntable to a cassette deck. She played music from the Origin album "We Don’t Move" for them. The twins listened, their excitement growing. When that tape finished, Stella put in another cassette, this one "Unseen Force." Again, the twins enjoyed it and indicated they wanted still more.
+Stella agreed, moving from the turntable to a cassette deck. She played music from the Fractured Prisms album "We Don’t Move" for them. The twins listened, their excitement growing. When that tape finished, Stella put in another cassette, this one "Unseen Force." Again, the twins enjoyed it and indicated they wanted still more.
 
-Seeing their sustained interest, Stella returned to the record player and put on the self-titled "Origin" album from 1983 (the one with the shapes on the cover). She cued up the track "Only Work to Do." As this particular song played, something clicked powerfully for both Luna and Leo. They were completely captivated.
+Seeing their sustained interest, Stella returned to the record player and put on the "Carnaby Street" album by Fractured Prisms from 1983 (the one with the shapes on the cover). She cued up the track "Only Work to Do." As this particular song played, something clicked powerfully for both Luna and Leo. They were completely captivated.
 
-This song, "Only Work to Do," became their instant favorite. It was the moment Origin transformed from a band they were curious about into *their* favorite band. Stella recognized this shift and, over the following weeks, made sure to play other key albums like "Noble" and "Sequence" for them, further cementing their new musical passion.
+This song, "Only Work to Do," became their instant favorite. It was the moment Fractured Prisms transformed from a band they were curious about into *their* favorite band. Stella recognized this shift and, over the following weeks, made sure to play other key albums like "Noble" and "Sequence" for them, further cementing their new musical passion.
 
 ## Friday Night Lights
 
@@ -10239,7 +10239,7 @@ It was his turn. He hoped that what he had typed on his AAC would be good enough
 
 The raw, honest sadness in his final sentences hung in the air for a moment. The professor's kind expression softened with a deep, compassionate understanding. "Thank you, Leo," he said gently. "We're very glad to have you with us." He then looked to Luna. "And... Porter, Luna?"
 
-Luna gave her brother's arm a quick, supportive squeeze before speaking, her own voice clear and warm. "Hi, I'm Luna Porter. As Leo said, we're from Virginia Beach, and I'm his twin. I guess my favorite book is probably The Stand by Sebastian Crowe. I also love Origin, and I play the tenor saxophone and the flute".
+Luna gave her brother's arm a quick, supportive squeeze before speaking, her own voice clear and warm. "Hi, I'm Luna Porter. As Leo said, we're from Virginia Beach, and I'm his twin. I guess my favorite book is probably The Stand by Sebastian Crowe. I also love Fractured Prisms, and I play the tenor saxophone and the flute".
 
 "Excellent," the professor said with a nod, making a note. "A family of musicians, then. Welcome, Luna." He then moved on to the next name on his list, the get-to-know-you session continuing its steady, alphabetical march around the room.
 
@@ -12823,7 +12823,7 @@ Luna rested her forehead lightly against his shoulder. Let the darkness try. Let
 
 Saturday morning sunlight streamed into the newly reorganized bedroom, illuminating the deep blue of the comforter and the fresh paint on the walls. For the first time since his return, Leo woke without a jolt of terror or disorientation. He was simply... waking up. He was in his new bed, which was just as soft and comfortable as he remembered . To his left, Olivia was still fast asleep, her breathing a quiet, steady rhythm in the peaceful room.
 
-He looked around their shared space. His new dresser stood against one wall, with the Origin poster hanging proudly above it. Across the room was Olivia's matching dresser, with the large mirror mounted over it. The shelves by the window held a few of his favorite books and the small decorations they had picked out. This was real. This was their room.
+He looked around their shared space. His new dresser stood against one wall, with the Fractured Prisms poster hanging proudly above it. Across the room was Olivia's matching dresser, with the large mirror mounted over it. The shelves by the window held a few of his favorite books and the small decorations they had picked out. This was real. This was their room.
 
 A few moments later, Olivia stirred, her eyes fluttering open. She blinked a few times, then a soft, sleepy smile touched her lips as she saw him watching her. "Morning," she whispered, her voice husky.
 
@@ -13039,7 +13039,7 @@ He didn't feel the need to move or speak. For a long time, he just lay there, so
 
 Olivia woke next, her movements slow and careful so as not to disturb him. She saw his eyes were open and gave him a soft, sleepy smile that asked a silent question: *You okay?* He gave the smallest, almost imperceptible nod. *Okay now.*
 
-There was no rush to start the day. The frantic energy of Black Friday was a distant memory. Today was for healing. One by one, the sisters woke, and the four of them remained on the bed, a quiet island in the morning light. No one pushed him to talk or get up. Luna simply reached for one of her music players and a headphone splitter, and soon the quiet, intricate melodies of an Origin album filled their shared space, another layer of calming, familiar sensory input.
+There was no rush to start the day. The frantic energy of Black Friday was a distant memory. Today was for healing. One by one, the sisters woke, and the four of them remained on the bed, a quiet island in the morning light. No one pushed him to talk or get up. Luna simply reached for one of her music players and a headphone splitter, and soon the quiet, intricate melodies of a Fractured Prisms album filled their shared space, another layer of calming, familiar sensory input.
 
 Stella, sensing he might need it, gently began to rub his back in slow, steady circles, the firm, predictable pressure a grounding force. Olivia mirrored the action on his arm, her touch just as steady and reassuring. They didn't speak; they simply offered comfort, letting him regulate himself at his own pace.
 

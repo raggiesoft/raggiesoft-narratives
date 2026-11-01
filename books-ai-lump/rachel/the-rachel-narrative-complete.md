@@ -10,6 +10,8 @@ title: "The Rachel Narrative"
 
 **Date:** 1990-12-01 at 09:00 America/New_York
 
+![Six-year-old Michael playing Stone Age Sports on the living room CRT television with four-year-old Rachel anchored beside him and cousin Maria cheering over his shoulder in December 1990.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/stone_age_sports_1990.jpg)
+
 The house on Delaney Street vibrated with the frantic, overlapping energy of a Saturday morning cartoon. The bright, chaotic synthesizer intro of the *Puppet Pals* theme song played on a loop from the television, battling against the noise of the crowded room.
 
 Christmas meant the Virginia Beach house was suddenly overflowing with extended family. My cousin Janette, who was two years older than me, tried to organize the chaos. Her younger sisters, Maria—who was exactly my age—and Katherine, who was just three, tore across the carpet. With my older sister Jess and our toddler sister Rachel added to the mix, the living room felt less like a house and more like an active containment zone for little kids.
@@ -39,6 +41,8 @@ Maria dropped the Light-Blaster on the carpet and leaned over my shoulder to wat
 ### Sanctuary & The New Arrangement
 
 **Date:** 1993-12-22 at 21:30 America/New_York
+
+![Eight-year-old Michael and six-year-old Rachel hugging under the heavy quilt in the bottom bunk while thirteen-year-old Jessica smiles down from the top bunk in December 1993.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/bottom_bunk_sanctuary_1993.jpg)
 
 #### 9:30 PM — Sanctuary
 
@@ -113,6 +117,8 @@ I let my eyes drift shut. Let Joey have the room down the hall. I had found a ne
 ### Part 1: The Discovery & The Neon Quarter
 
 **Date:** 1993-12-23 at 07:00 America/New_York
+
+![Eight-year-old Michael and six-year-old Rachel playing side-by-side at an arcade cabinet inside The Neon Quarter while thirteen-year-old Jessica stands protective watch behind them.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/neon_quarter_arcade_1993.jpg)
 
 #### 7:00 AM — The Discovery
 
@@ -316,6 +322,8 @@ I wrapped my hand around the red plastic ball of the joystick. The bright, 8-bit
 
 **Date:** 1993-12-23 at 14:30 America/New_York
 
+![Tom Ragsdale driving his compact red pickup truck while eight-year-old Michael holds six-year-old Rachel on his lap singing along to the radio and thirteen-year-old Jessica smiles from the passenger seat.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/izumi_bantam_cab_1993.jpg)
+
 #### 2:30 PM — Not Proper
 
 The heavy brass tokens eventually ran out, and Jessica signaled that our time in the quiet, mechanical sanctuary of The Neon Quarter was over.
@@ -485,6 +493,8 @@ With a heavy sigh, Dad parallel parked the Bantam against the curb, cut the engi
 ### Part 1: The Safe Harbor & The Pal and the Perimeter
 
 **Date:** 1995-08-11 at 16:55 America/New_York
+
+![Master April Mercer kneeling on colorful foam puzzle mats in her Lynnhaven garage dojang to guide ten-year-old Michael and eight-year-old Rachel as they hold hands, with ten-year-old Ashley Raybourn watching warmly.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/aprils_garage_open_gym_1995.jpg)
 
 #### 4:55 PM — The Safe Harbor
 
@@ -734,6 +744,8 @@ I squeezed Rachel's shoulder, and she squeezed my hand back. We were exhausted, 
 
 **Date:** 1995-08-11 at 18:25 America/New_York
 
+![Ten-year-old Ashley Raybourn wrapping Michael and Rachel in a fierce three-way hug on the Delaney Street front lawn at golden hour while Tom Ragsdale, Jim Raybourn, and Melissa smile in the driveway.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/ashley_pickup_hug_1995.jpg)
+
 #### 6:25 PM — The Perimeter Secured
 
 Dad pulled the truck into the driveway of our Delaney Street house and killed the engine.
@@ -850,13 +862,17 @@ The perimeter was locked tight, and the pack was safe.
 
 **Date:** 1995-08-12 at 09:00 America/New_York
 
+![Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/brown_belt_testing_1995.jpg)
+
+![Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/master_april_hugging_michael_and_rachel.jpg)
+
 #### 9:00 AM — The Inventory
 
 The main gymnastics floor of Tidewater Tumblers & Martial Arts didn’t feel like a gymnastics floor today.
 
 The spring floor was cleared. The balance beams were pushed back. The tumbling tracks were rolled tight against the wall. Down the center of the room, lines of students stood barefoot on the open mat space, their crisp white *doboks* bright under the fluorescent lights, every single chest bearing the embroidered Pinnacle Mastery School of Karate patch.
 
-At the very front, the hierarchy was visually absolute. Master Ray, the 46-year-old franchise owner, stood in his white uniform with the midnight blue collar, his 3rd Dan belt tied perfectly. Beside him stood Curtis, 34 years old, wearing the exact same 2nd Dan uniform, his jaw already tight with anticipation.
+At the very front, the hierarchy was visually absolute. Master Ray Shackford, the 46-year-old franchise owner, stood in his white uniform with the midnight blue collar, his 3rd Dan belt tied perfectly. Beside him stood Curtis Maddox, 34 years old, wearing the 2nd Dan uniform, his jaw already tight with anticipation. For the past two years, Tidewater Tumblers had been a safe, predictable second home for Rachel and me because our classes were always taught by April, Master Ray, or Rhonda. Curtis had spent those years solely as an adult student—taught by April, Ray, and the other instructors—and had only recently applied for and received a junior teaching role at Tidewater Tumblers as part of fulfilling his instructional requirement to test for his 3rd Dan today.
 
 And slightly offset from them both was 22-year-old April.
 
@@ -1164,7 +1180,7 @@ In the massive mirror, I watched myself fail.
 
 "No, no, no," a sharp, grating voice snapped from the corner of the room.
 
-Master Ray had stepped out to take a phone call, leaving us to the enforcer. Master Curtis stepped onto the floor, his arms crossed over his chest. He was Master Ray's subordinate, and he carried a deep, resentful arrogance. To him, the ADA didn't exist. There was no such thing as a neurological delay or a motor-planning deficit. There was only discipline, and there was weakness.
+Master Ray Shackford had stepped out to take a phone call in the front office, leaving us to his newly hired subordinate. Master Curtis Maddox stepped onto the floor, his arms crossed over his chest. For the first two years Rachel and I had trained at Tidewater Tumblers, we had never once thought about leaving; Master Ray, Master April, and Rhonda had always treated the mat with respect. But Curtis—an adult student who had been taught by April, Ray, and the others—had recently applied for and been granted a teaching slot on the afternoon schedule as part of preparing to test for his 3rd Dan. Since Saturday's failed promotion exam, he carried a deep, venomous resentment. To him, the ADA didn't exist. There was no such thing as a neurological delay or a motor-planning deficit. There was only discipline, and there was weakness.
 
 "You're a brown belt, Michael," Master Curtis sneered, pacing slowly down the line of students. "You still can't even execute an *Idan Ap Chagi*—the jumping front kick—from the green belt curriculum, and now you're freezing on Basic Form V. You have no coordination. You're completely stiff. Do it again."
 
@@ -1279,6 +1295,8 @@ I looked at Rachel. The bubble had popped. The reality of how dangerous this roo
 ### Part 2: Breaking the Silence & The Top Row
 
 **Date:** 1995-08-15 at 16:55 America/New_York
+
+![Ten-year-old Michael and eight-year-old Rachel sitting anchored in the ninety-degree corner of the top row of the wooden observation deck bleachers overlooking the gymnastics floor below as Rachel speaks to Michael.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/bleachers_top_row_anchor_1995.jpg)
 
 #### 4:55 PM — Breaking the Silence
 
@@ -2082,6 +2100,8 @@ Rachel wiggled happily, tapping a rapid, joyful beat against my forearm. Between
 
 **Date:** 1995-08-16 at 19:00 America/New_York
 
+![Ten-year-old Michael and eight-year-old Rachel holding hands on the bottom bunk in their pajamas as Bear and Bug while fourteen-year-old Jessica sits cross-legged with a flashlight guarding the closed bedroom door.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/bear_and_bug_bunk_fortress_1995.jpg)
+
 #### 7:00 PM — Shore Power
 
 Dad walked through the front door right at seven o'clock, still wearing his *Baja Taco* manager's uniform, completely exhausted but smiling the second he saw the energy in the house. Mom had gotten home from the mall at five and had immediately taken over the kitchen.
@@ -2854,7 +2874,7 @@ Mom was standing by the trunk. When she saw her fourteen-year-old and twelve-yea
 
 "Mom, they're hurt," Jessica panted, carefully turning sideways so I could slide off her back and onto the soft fabric of the car seat. "Master Curtis hurt them."
 
-"Oh, stop being so dramatic, Jessica," Mom dismissed, waving her hand as Janette gently lowered a weeping Rachel into the seat beside me. "Dad already talked to Master Ray. He warned us they were going to be sore tonight. It was a tough conditioning class."
+"Oh, stop being so dramatic, Jessica," Mom dismissed, waving her hand as Janette gently lowered a weeping Rachel into the seat beside me. "Your father already warned me they were going to be sore tonight now that they moved up to the brown belt curriculum. It was just a tough conditioning class."
 
 "Mom, no, you don't understand—" Janette pleaded, her voice cracking.
 
@@ -3482,11 +3502,17 @@ It was warm. The floor was lined with thick, forgiving foam puzzle mats. The hea
 
 But at 5:15 PM, the meticulous, predictable routine of the class was completely off-balance.
 
-April stood at the edge of the puzzle mats in her crisp, solid midnight blue *dobok*, checking the digital watch on her wrist. The two gold bars embroidered on her belt—denoting her rank as a 4th Dan *Sabomnim*—caught the warm overhead light. Her brow furrowed with genuine concern. Two of her absolute most punctual, routine-oriented students were missing. Michael and Rachel were always early to Open Gym. To them, missing a designated class time was a catastrophic break in their schedule.
+April stood at the edge of the puzzle mats in her crisp, solid midnight blue *dobok*, checking the digital watch on her wrist. The two gold bars embroidered on her belt—denoting her rank as a 4th Dan *Sabomnim*—caught the warm overhead light. Her brow was furrowed with a sickening, suffocating dread that had been gnawing at her stomach since last night.
 
-Furthermore, Drew—a six-year-old white belt—was also missing.
+Just after six-thirty on Thursday evening, Master Ray Shackford had called her home telephone in a state of white-hot fury and utter horror. Ray had taken Thursday off, leaving Megan—his college-age receptionist—at the front desk while newly hired instructor Curtis Maddox ran the afternoon classes. Moments before calling April, Megan had gotten Ray on the speakerphone with a frantic mother named Claire Hayes, whose six-year-old white belt, Drew, had come out of Curtis's five o'clock class with a massive barefoot bruise crushed into his abdomen. Ray had exploded in fury at what Curtis had done, immediately offered to pay one hundred percent of Drew's emergency room costs, and ordered Megan to lock every single facility record in the safe and call the police.
 
-April tapped her bare foot against the mat, a heavy, unsettling knot forming in her stomach. She walked over to the wall-mounted phone near the garage door and pulled the receiver off the hook. She dialed the Delaney Street house, expecting to hear Ellen’s stressed voice apologizing for a flat tire or a late departure.
+As soon as Ray got off the phone with Drew's mother, he had immediately called April and told her *everything* he knew. At that point, all Ray knew was what Megan and Drew's mother had just told him on the speakerphone—including one terrifying detail Claire had shouted into the receiver: that on her way to the bathroom with Drew, she had seen an older boy practically carrying a crying little girl off the mats while she clutched her ribs.
+
+All day Friday, April had prayed that the two children Drew's mother had seen weren't Michael and Rachel. Two of her absolute most punctual, routine-oriented students were supposed to be here at five o'clock sharp. To them, missing a designated Friday Open Gym was unthinkable.
+
+Now it was 5:15 PM, and neither Michael and Rachel nor six-year-old Drew were on her mats.
+
+April tapped her bare foot against the foam, her heart hammering against her ribs. She walked over to the wall-mounted phone near the garage door and pulled the receiver off the hook. She dialed the Delaney Street house, praying to hear Ellen’s voice apologizing for traffic.
 
 The phone rang twice.
 
@@ -3494,55 +3520,45 @@ The phone rang twice.
 
 It wasn't Ellen. It was Jessica. And her voice wasn't just stressed; it was a tight, vibrating wire of absolute, lethal fury, completely devoid of its usual pragmatic calm.
 
-"Hey, Jess, it's April," she said, her grip tightening on the receiver. "Class started fifteen minutes ago. I was just checking to see if Michael and Rachel were on their way? It's really unlike them to miss Open Gym."
+"Jess, it's April," she breathed, her grip tightening on the receiver as the puzzle pieces from Ray's phone call began locking into a nightmare. "Please tell me Michael and Rachel are here with you. Master Ray called me last night right after he got off the phone with Drew's mother. He told me Curtis stepped on little Drew, and that Drew's mother saw an older boy carrying a little girl out of the hallway—"
 
 A heavy, suffocating silence fell over the line.
 
-"They aren't coming to Open Gym, April," Jessica said. The sheer, freezing coldness in the fourteen-year-old's voice sent a physical chill down April's spine. "They are in a double trauma bay at the Children's Hospital."
+"It was them, April," Jessica said. The sheer, freezing coldness in the fourteen-year-old's voice sent a physical chill straight down April's spine. "They aren't coming to Open Gym. They are in a double trauma bay at the Children's Hospital."
 
-April stopped breathing. Her eyes widened, instantly scanning the colorful foam mats of her garage as if the floor had suddenly dropped out from under her. "What?! A car accident? Jess, what happened? Are they okay?!"
+April stopped breathing. Even with Ray's warning from the night before, hearing it confirmed made her knees go weak. "Oh, my God. Jess... how bad is it?"
 
-"They aren't okay," Jessica snapped, her voice finally cracking under the sheer weight of the horror. "Curtis crushed them."
+"Curtis crushed them," Jessica snapped, her voice finally cracking under the sheer weight of the horror. "He made the five o'clock class do leg lifts yesterday. And while they were on the floor, he walked down the line and stepped directly onto their stomachs with his full body weight. Then he walked back up the line and lingered on Rachel and Michael just to punish Rachel for talking on Tuesday. Michael's abdominal fascia is completely torn. Rachel's ribs are cracked and her spleen is bleeding. And little Drew is up in the ICU fighting for his life."
 
-"What do you mean, Curtis crushed them?" April demanded, pure confusion warring with the rising panic.
+The plastic phone receiver nearly slipped from April's hand.
 
-"He made the class do leg lifts yesterday," Jessica explained, every word dripping with venom. "And while they were on the floor, he walked down the line. He used his full body weight and stepped directly onto their stomachs. He lingered on Rachel just to hurt her. Michael's abdominal fascia is completely torn. Rachel's spleen is bleeding. And little Drew is up in the ICU because his organs were crushed."
+The horror of what Ray had reported last night combined with Jessica's words in a blinding shockwave.
 
-The plastic phone receiver slipped in April's hand.
+April knew Curtis had an ego problem—she and Master Scott had failed him on his 3rd Dan exam just five days ago for insolence—and she knew he ran the "Iron Shirt Underground" conditioning sessions with consenting adult black belts. Ray and April had taught Curtis when he was coming up through the ranks, and Ray had only recently approved Curtis's application for a junior teaching role so he could log his required instructional hours for 3rd Dan. Neither she nor Ray had ever imagined that a grown man would bring blunt-force stepping onto a children's floor, let alone use his heel to take revenge on an eight-year-old girl and her disabled brother.
 
-The cognitive dissonance was an absolute, blinding shockwave. April's brain desperately tried to process the physical mechanics of what Jessica had just described.
+"He targeted them because of Tuesday," April whispered, the blood completely draining from her face.
 
-She knew about the stepping drills. She knew Curtis ran the "Iron Shirt Underground" fight club. She knew he frequently walked across the stomachs of the adult black belts and the adult red belts—both men and women—to test their conditioning. It was a brutal, extreme practice, but it was strictly, implicitly isolated to the adults who actively opted into that underground madness.
-
-To bring that kind of blunt-force trauma onto the children's mats wasn't just breaking a rule; it was a psychotic escalation. Curtis hadn't twisted a standard Dojang warmup. He had taken a lethal, adult-only pain-tolerance ritual and deliberately weaponized it against kindergartners and disabled children.
-
-"He stepped on the kids?" April whispered, the blood completely draining from her face.
-
-He didn't just break the cardinal rule of the dojang by bringing an adult underground fighting technique onto the children's mats. He had weaponized a drill that Michael and Rachel believed was safe. The 2nd Dan instructor, who seethed every time he had to bow to her, had stolen her innovation, stripped away the safety, and used it to brutalize her students.
-
-"Dr. Young called the police," Jessica continued, her voice hardening back into a tactical, protective shield. "Curtis was arrested an hour ago. Janette and I are leaving for the hospital right now."
+"Dr. Young called the police this morning," Jessica continued, her voice hardening back into a tactical, protective shield. "And Ray Shackford already handed all the gym's records over to the detectives. Curtis was arrested an hour ago. Janette and I are leaving for the hospital right now."
 
 The line clicked dead.
 
 April slowly lowered the receiver back onto the wall hook. Her hands were shaking violently.
 
-Her analytical brain instantly jumped to Master Ray. Ray was the franchise owner; he was a 3rd Dan and responsible for everything that happened under the Pinnacle Mastery banner. But a second later, the logistical reality of the week clicked into place. Ray wasn't at Tidewater Tumblers on Thursdays or Fridays. He always took the end of the week off, leaving Megan—his college-age assistant—to run the front desk.
+She thought of Master Ray, who had been beside himself with fury and grief when he called her last night, swearing he would testify against Curtis in court and pay every penny of Drew's ER bill even if it bankrupted Tidewater Tumblers. And she thought of Michael's determined attempts to perfect his forms on her garage mats, and Rachel's dark, quiet eyes trusting the adults in uniform to keep her safe.
 
-Which meant Ray had absolutely no clue. He was likely sitting at home, completely oblivious to the fact that his 2nd Dan enforcer had just hospitalized three children, or that detectives were currently swarming his facility.
+She looked down at her own solid midnight blue *dobok*. She stared at the gold embroidery of the crest on her chest. *Pinnacle Mastery School of Karate.* Even though Master Scott and Master Ray were honorable men who were just as horrified by Curtis's atrocity as she was, Curtis Maddox had worn that exact same patch while crushing three children.
 
-April looked out at the bright, safe puzzle mats of her garage. She thought about Michael's rigid, eager attempts to perfect his forms, and Rachel's dark, quiet eyes watching her every move. Jessica wouldn't lie about something like this. It was real.
+A hot, blinding wave of disgust surged up her throat. Right now, she had a garage full of kids staring at her, waiting for Open Gym to start. If she panicked or broke down in front of them, she would shatter the sanctuary she had built. But the second this hour ended, she was stripping this uniform off before walking into Children's Hospital—and she was going to invoke her full authority as a *Sunhoe Sabomnim* to see Curtis Maddox permanently stricken and excommunicated from the Art.
 
-She looked down at her own solid midnight blue *dobok*. She stared at the gold embroidery of the crest on her chest. Lynnhaven Academy of Seondu. Bounded by the same governing body in Korea as Tidewater Tumblers via Pinnacle Mastery School of Karate.
-
-A hot, blinding wave of disgust surged up her throat. But she didn't take the uniform off. She respected Master Scott, and she respected the traditional Korean lineage too much to discard the *dobok* because of one monster's actions. And more importantly, she had a garage full of kids staring at her right now, waiting for class to start. If she panicked, if she ripped her belt off and started screaming, she would shatter the sanctuary she had built for them.
-
-April closed her eyes, took a deep, shuddering breath, and manually locked her terror away in a vault. She forced a steady, reassuring smile onto her face and turned back to the mats.
+April closed her eyes, took a deep, shuddering breath, and manually locked her grief away in a vault. She forced a steady, reassuring smile onto her face and turned back to the mats.
 
 "Alright, everyone," April called out, her voice remarkably steady as she stepped back onto the foam. "Let's get lined up. We have a lot of forms to cover today."
 
 ### Part 3: The Ultimate Bow & The Perimeter
 
 **Date:** 1995-08-18 at 18:45 America/New_York
+
+![Master April Mercer bowing deeply in respect at the foot of Michael and Rachel's adjacent hospital beds as they hold hands across the gap and Tom and Ellen Ragsdale watch with gratitude.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/hospital_sabomnim_bow_1995.jpg)
 
 #### 6:45 PM — The Ultimate Bow
 
@@ -3704,7 +3720,7 @@ Mom and Dad were sitting in two plastic chairs pulled close together near the fo
 
 Dad let out a long, ragged exhale. "How do we fix it?"
 
-"We can't fix Thursday," Mom said, her tone suddenly hardening into that fierce, protective steel she had found in Dr. Young's office. "But we control every single day after it. We don't just pull them out of that gym. We sue Master Ray into the ground. We make sure Curtis rots in a cell. We burn the entire illusion down so they know we are fighting for them."
+"We can't fix Thursday," Mom said, her tone suddenly hardening into that fierce, protective steel she had found in Dr. Young's office. "But we control every single day after it. We don't just pull them out of that gym. Even with Ray Shackford cooperating with the police, we sue Tidewater Tumblers' commercial insurance policy for every cent it holds. We make sure Curtis Maddox rots in a cell. We burn the entire illusion down so they know we are fighting for them."
 
 Dad lifted his head, his jaw setting into a rigid, absolute vow. "Whatever it takes."
 
@@ -4270,15 +4286,15 @@ Dad saw the cold, impenetrable wall his children had built, and he didn't try to
 
 He tapped the pen against the yellow paper.
 
-"Tomorrow is Monday," Dad stated. "The world goes back to work. At eight o'clock in the morning, your mother is calling the school district to establish your homebound instruction. At eight-thirty, she is calling the three most vicious personal injury lawyers in the region to file the civil lawsuits against Master Ray."
+"Tomorrow is Monday," Dad stated. "The world goes back to work. At eight o'clock in the morning, your mother is calling the school district to establish your homebound instruction. At eight-thirty, she is calling the three most vicious personal injury lawyers in the region to file the civil lawsuits against Tidewater Tumblers."
 
 Dad paused, looking at the top of the legal pad, his jaw setting into a hard, unforgiving line.
 
-"And at nine o'clock," Dad continued, "I am driving to the Chesapeake courthouse. Detective Harris called me late last night. Master Curtis and Master Ray have been sitting in a concrete cell at the city jail since Friday. Tomorrow morning, they have to stand in front of a judge in handcuffs and ask for bail."
+"And at nine o'clock," Dad continued, "I am driving to the Chesapeake courthouse. Detective Harris called me late last night. Master Curtis Maddox has been sitting in a concrete cell at the city jail since Friday, and Master Ray Shackford has already handed over every single facility record and given a sworn statement against him. Tomorrow morning, Curtis has to stand in front of a judge in handcuffs and ask for bail."
 
 Rachel’s breath hitched. Her eyes darted toward Dad, the mention of the monster piercing through her silent armor.
 
-"They aren't getting out," Dad promised her, his voice dropping into a lethal, absolute vow. "The detective submitted your medical records. The judge is going to read exactly what they did to your spleen, and what they did to your brother's stomach, and what they did to little Drew. The District Attorney is going to ask the judge to deny their bond completely. And I am going to sit in the front row of that courtroom and watch them get sent right back to their cages."
+"He isn't getting out," Dad promised her, his voice dropping into a lethal, absolute vow. "The detective submitted your medical records, and Ray Shackford is going to be sitting right there at the courthouse ready to testify against Curtis for the District Attorney. The judge is going to read exactly what Curtis did to your spleen, and what he did to your brother's stomach, and what he did to little Drew. The District Attorney is going to ask the judge to deny his bond completely. And I am going to sit in the front row of that courtroom and watch him get sent right back to his cage."
 
 ***
 
@@ -4448,7 +4464,7 @@ Katherine gasped, her hands flying to her own stomach in reflex. "But he's big!"
 
 Aunt Janet gripped the edge of the kitchen counter, her knuckles turning white. The sheer, senseless cruelty of it was impossible to digest. A martial arts instructor—a man entrusted with the safety of children—had nearly crushed an eight-year-old girl to death purely to punish her for calling him mean.
 
-"I don't understand how Master Ray could let that happen," Aunt Janet whispered, her voice shaking with rage. "He owns the school. Master Curtis works for him. How could they—"
+"I still can't wrap my head around how Master Curtis could do that inside Master Ray's school," Aunt Janet whispered, her voice shaking with rage. "Ray Shackford owns the building. Curtis Maddox worked for him. How could Master Curtis—"
 
 "Stop."
 
@@ -4456,19 +4472,19 @@ Dad’s voice wasn't loud, but it cut through the kitchen like a steel blade.
 
 He looked at Aunt Janet, then at Mom, and finally at Grandma Loretta. His jaw was set in a rigid, unforgiving line.
 
-"We are not calling them that anymore," Dad stated, his tone carrying the weight of an absolute, permanent law. "Never again."
+"We are not calling Curtis that anymore," Dad stated, his tone carrying the weight of an absolute, permanent law. "Never again."
 
-Aunt Janet blinked. "Calling them what?"
+Aunt Janet blinked. "Calling him what?"
 
-"Master," Dad replied, the word dripping with profound disgust. "A Master is a teacher. A Master is someone who builds children up, who teaches them discipline and protects them. The man who crushed my children is a monster. And the man who stood by and watched him do it is a coward."
+"Master," Dad replied, the word dripping with profound disgust. "A Master is a teacher. A Master is someone who builds children up, who teaches them discipline and protects them. Ray Shackford wasn't even in the building on Thursday—he only just put Curtis on the teaching rotation so Curtis could get his hours in before his 3rd Dan test, and the second Ray found out what Curtis did, he had his front desk girl lock every record in the safe for the police and called April himself. Ray is testifying against him."
 
 Dad looked around the kitchen, ensuring the entire extended pack understood the new rule of engagement.
 
-"They lost the right to those titles the second that bare foot touched my son's stomach," Dad declared fiercely. "From this moment forward, in this house, and in that courtroom, they are just Curtis and Ray. Nothing more. They are just two abusive men who are going to pay for what they broke."
+"But the man who crushed my children is a monster, and he lost the right to any title the second that bare foot touched my son's stomach," Dad declared fiercely. "From this moment forward, in this house, and in that courtroom, he is just Curtis. Nothing more. And even with Ray cooperating with the police and covering Drew's ER bill, Tidewater Tumblers is the facility that put Curtis in front of our kids. Their commercial insurance policy is going to pay for every single cent of what he broke."
 
 Grandma Loretta slowly nodded, a terrifying, matriarchal fire lighting up in her eyes. She reached out and squeezed Dad’s forearm.
 
-"Just Curtis and Ray," Grandma Loretta agreed, her voice hardening into stone. She looked at Mom. "I am staying the night. Since Michael is downstairs, I will sleep in his empty bed upstairs. Tomorrow morning, when you pick up that telephone to call those lawyers, I am going to sit right next to you at this table. And we are going to take everything they have."
+"Just Curtis," Grandma Loretta agreed, her voice hardening into stone. She looked at Mom. "I am staying the night. Since Michael is downstairs, I will sleep in his empty bed upstairs. Tomorrow morning, when you pick up that telephone to call those lawyers, I am going to sit right next to you at this table. And we are going to make sure that facility never opens its doors again."
 
 ***
 
@@ -4662,6 +4678,8 @@ The pack was holding the line.
 
 **Date:** 1995-08-21 at 07:00 America/New_York
 
+![Tom Ragsdale, Master April Mercer, and Dr. Allison Evans sitting shoulder-to-shoulder in the front row of the Chesapeake Courthouse gallery while Master Ray Shackford bows his head in remorse from the prosecution witness side.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/chesapeake_courthouse_gavel_1995.jpg)
+
 #### 7:00 AM — The Weight of September
 
 The gray, early morning light of Monday filtered through the living room blinds, signaling the start of the first official weekday of our new reality.
@@ -4732,55 +4750,41 @@ He wasn't sitting alone.
 
 To his right sat Dr. Allison Evans, dressed in a sharp, charcoal-gray suit, representing the absolute, unforgiving authority of the medical community. To his left sat Master April. She wasn't wearing her *dobok*—she refused to wear the uniform of a crime scene into a courtroom—but dressed in a crisp blouse and slacks, she radiated the quiet, lethal discipline of a true *Sabomnim*. They formed an impenetrable, silent wall of protection around Dad.
 
-The courtroom was heavily air-conditioned, the dark oak paneling and high ceilings giving the room a cold, unforgiving authority. The three of them sat perfectly still. They didn't look at the other families in the gallery. They kept their eyes locked firmly on the heavy wooden doors leading to the holding cells.
+The courtroom was heavily air-conditioned, the dark oak paneling and high ceilings giving the room a cold, unforgiving authority. The three of them sat perfectly still.
+
+Just across the center aisle, sitting beside the Commonwealth's Attorney's witness coordinator, was Master Ray Shackford.
+
+He wasn't in handcuffs—because the moment Megan had gotten him on the phone on Friday morning, Ray had immediately ordered her to lock every attendance roster and liability ledger inside the office safe for the police, promised Drew's mother he would personally cover 100% of Drew's emergency room costs, and called Master April to report everything he knew. Yet sitting there in a dark suit, Ray looked completely destroyed. His eyes were bloodshot, his shoulders slumped under the crushing moral weight of knowing that an adult student he and April had helped train—a newly hired 2nd Dan instructor he had only recently added to the teaching rotation to prepare for his 3rd Dan exam—had turned his dojang into a crime scene while he was away from the building.
+
+Ray looked across the aisle, his eyes finding the front row.
+
+He saw Dad’s stone-cold expression. He saw Dr. Evans, the pediatric specialist who shared his commercial walkway. And then, he saw Master April—the 4th Dan *Sunhoe Sabomnim* who outranked him, sitting shoulder-to-shoulder with the family his facility had failed. Ray’s face immediately crumpled. He stood up slightly, bowing his head in a deep, trembling gesture of agonizing remorse, mouthing the words, *I'm so sorry, Tom.* He looked like a man who had woken up to realize his life's work—his business, his school, his standing before the Grandmasters in Korea—was rightfully over because he had trusted a monster with a whistle.
+
+Dad gave a single, grim, silent nod of acknowledgment—recognizing that Ray had stood up to do the right thing the moment the truth came out—before locking his eyes firmly back on the heavy wooden doors leading to the holding cells.
 
 At exactly nine o'clock, the bailiff called the room to order, and the judge took the bench.
 
-The first of the two hearings belonged to Ray.
+The heavy wooden doors opened.
 
-When the heavy wooden doors opened and the bailiff led Ray into the courtroom, the man looked completely destroyed. He was wearing a standard, county-issued orange jumpsuit, his hands cuffed in front of him. The "Pillar of the Community"—the man who sponsored Little League teams and hosted summer cookouts—was gone.
+Curtis Maddox walked into the courtroom.
 
-Ray looked out into the gallery, his eyes finding the front row.
-
-He saw Dad’s stone-cold glare. He saw Dr. Evans, the pediatric specialist who shared his commercial walkway, staring at him with absolute disgust. And then, he saw Master April. The 4th Dan who outranked him, sitting shoulder-to-shoulder with the family he had failed. Ray’s face immediately crumpled. He mouthed the words, *I'm so sorry*, his expression twisting with genuine, agonizing remorse. He looked like a man who had finally woken up from a nightmare to realize he had lost everything—his business, his reputation, his freedom—because he had blindly trusted a monster.
-
-Dad didn't blink. He didn't nod. Ray's remorse meant absolutely nothing to a father whose children were trapped on a mattress with torn fasciae and bleeding organs.
-
-Ray's defense attorney stood up and immediately tried to play the community card. He argued that Ray was a local business owner with deep roots, that he wasn't a flight risk, and that the events of Thursday were a tragic, isolated anomaly caused by a rogue employee. He formally requested that Ray be released on his own recognizance or granted a low bond.
-
-The District Attorney didn't even raise his voice. He simply stood up and read the medical summary of the three children sent to the emergency room. He detailed a six-year-old boy waking up in the ICU without a spleen. He detailed my torn abdominal wall. He detailed Rachel's cracked ribs.
-
-"Your Honor," the DA stated coldly, "the defendant owned the facility. He collected the tuition. He was the absolute authority in that building, and his gross, willful negligence allowed an unregulated fight club to operate under the guise of a children's martial arts class. The Commonwealth considers him an ongoing danger to the safety of the children in this city."
-
-The judge looked down at Ray, his expression hardening into concrete.
-
-"Tears do not un-rupture a child's organs, sir," the judge rebuked, his voice echoing sharply through the quiet courtroom. "Bail is denied. The defendant is remanded to the custody of the City Jail pending trial."
-
-Ray slumped forward, quietly sobbing as the bailiffs led him back through the heavy wooden doors.
-
-There was a brief recess. Dad, April, and Dr. Evans didn't move a single muscle. They waited.
-
-Ten minutes later, the doors opened again.
-
-Curtis walked into the courtroom.
-
-Unlike Ray, Curtis did not look broken. Even in handcuffs and a county jumpsuit, he stood with his shoulders pulled back, his chin raised in a posture of arrogant defiance. He looked at the judge with the irritated expression of a man who believed he was being severely inconvenienced by people who simply didn't understand his genius.
+Even in handcuffs and a county-issued orange jumpsuit, Curtis did not look broken. He stood with his shoulders pulled back, his chin raised in a posture of arrogant defiance. He looked at the judge with the irritated expression of a man who believed he was being severely inconvenienced by people who simply didn't understand his genius.
 
 Then, Curtis glanced at the gallery.
 
-His smug expression faltered for a fraction of a second. He saw Dad, but more importantly, he saw April sitting right beside him. The twenty-two-year-old woman he despised—the Master who outranked him and refused to validate his ego—was actively conspiring with the family he had tried to break. April didn't glare. She just looked at him with the cold, clinical apathy of someone observing a caged animal.
+His smug expression faltered for a fraction of a second. He saw Dad, and beside him, he saw April—the twenty-two-year-old woman he despised, the Master who outranked him and had failed him on his 3rd Dan exam. Worse, across the aisle, he saw Master Ray Shackford sitting with the prosecution's witness team, staring at him with pure, undisguised fury and revulsion. April didn't glare; she just looked at Curtis with the cold, clinical apathy of someone observing a caged animal.
 
-His public defender stepped up to the podium, attempting to frame the entire horrifying ordeal as a strict disciplinary exercise that had been blown out of proportion.
+Curtis's defense attorney stepped up to the podium, attempting to frame the entire horrifying ordeal as a strict disciplinary exercise that had been blown out of proportion.
 
 "Your Honor, my client is a traditional martial arts instructor," the defender argued, clearly struggling to minimize the charges. "He employs tough love. He was conditioning his students. He firmly believes that the injuries, while unfortunate, are the result of the students' lack of physical preparation, not malicious intent."
 
 Curtis actually nodded in agreement, a smug, justified look crossing his face again. He genuinely refused to believe he had done anything wrong. In his twisted reality, he hadn't sent three children to the hospital; the children were just weak.
 
-The District Attorney practically vibrated with rage as he approached the bench. He didn't just have medical charts this time. Thanks to the Norfolk and Chesapeake police, he had an arsenal.
+The District Attorney practically vibrated with rage as he approached the bench. He didn't just have medical charts this time. Thanks to the Norfolk and Chesapeake police—and the immediate, unhesitating cooperation of the school's owner and regional Masters—he had an arsenal.
 
-"Your Honor, the defense’s claim of 'tough love' is an absolute fabrication," the DA countered, his voice booming through the courtroom. "Over the weekend, a key witness—an adult student named David Miller—provided a full confession regarding the defendant's actions. We also have sworn affidavits from top-ranking regional martial arts experts explicitly condemning the defendant's actions as malicious."
+"Your Honor, the defense’s claim of 'tough love' is an absolute fabrication," the DA countered, his voice booming through the courtroom. He read the devastating medical summary first: a six-year-old boy waking up in the pediatric ICU without a spleen, my torn abdominal wall, and Rachel's cracked ribs and Grade III splenic laceration. "Over the weekend, an adult student named David Miller provided a full confession regarding the defendant's actions. Furthermore, the owner of Tidewater Tumblers, Mr. Ray Shackford, immediately impounded and surrendered every facility record to Chesapeake detectives and is here today as a witness for the Commonwealth—explicitly testifying under oath that breaking children in half and stepping on their abdomens is an atrocity that has zero place in martial arts. We also have sworn affidavits from top-ranking regional martial arts experts condemning the defendant's actions as malicious."
 
-The DA gestured sharply toward the front row. Curtis's eyes darted to April, the realization of her involvement hitting his ego like a sledgehammer.
+The DA gestured sharply toward April and Ray. Curtis's eyes darted between them, the realization that his own headmaster and the *Sunhoe Sabomnim* had united to bury him hitting his ego like a sledgehammer.
 
 "Furthermore," the DA continued, pulling a thick manila folder from his briefcase and dropping it onto the judge's desk, "on Friday afternoon, tactical units executed a search warrant on an offsite warehouse operated by the defendant. Inside, detectives located a journal written in the defendant's own hand. In it, he explicitly details his premeditated intent to, quote, 'crush the defiance' out of an eight-year-old girl and her brother simply because the child used her voice."
 
@@ -4790,9 +4794,9 @@ The color completely drained from the judge's face. He looked up from the folder
 
 "You call this discipline?" the judge asked, his voice a lethal, quiet whisper that carried to the very back of the room. "You target an eight-year-old girl, you shatter her internal organs, and you call it conditioning?"
 
-"They are soft!" Curtis suddenly snapped, his narcissistic God complex overriding his lawyer's desperate attempts to keep him quiet. He strained against his handcuffs, glaring at the judge, completely unable to stop himself from performing for April and Dad in the front row. "I was making them strong! They disrespected the Dojang! You coddle them, and they stay weak!"
+"They are soft!" Curtis suddenly snapped, his narcissistic God complex overriding his lawyer's desperate attempts to keep him quiet. He strained against his handcuffs, glaring at the judge, completely unable to stop himself from performing for April, Ray, and Dad in the gallery. "I was making them strong! They disrespected the Dojang! You coddle them, and they stay weak!"
 
-The courtroom erupted into shocked murmurs. Dad's hands curled into massive, white-knuckled fists on the wooden bench, his jaw locked so tight his teeth ached. Beside him, Dr. Evans shook her head in sheer horror, while April remained perfectly, chillingly still.
+The courtroom erupted into shocked murmurs. Across the aisle, Ray Shackford buried his face in his hands in horror. Dad's hands curled into massive, white-knuckled fists on the wooden bench, his jaw locked so tight his teeth ached. Beside him, Dr. Evans shook her head in sheer disgust, while April remained perfectly, chillingly still.
 
 The judge slammed his gavel down with the force of a gunshot.
 
@@ -4804,9 +4808,9 @@ The judge didn't even look at his paperwork. He delivered the ruling with absolu
 
 Bailiffs immediately flanked Curtis, grabbing his arms and aggressively dragging him toward the holding doors. Curtis fought them the entire way, still shouting about weakness and discipline until the heavy oak doors slammed shut behind him, cutting his voice off completely.
 
-Dad sat in the gallery for a long moment, the absolute silence of the courtroom washing over him. The monsters were locked in their cages. The first major victory of the war had been won.
+Dad sat in the gallery for a long moment, the absolute silence of the courtroom washing over him. The monster was locked in his cage. The first major victory of the war had been won.
 
-Dad stood up, adjusted his tie, and looked at the two women who had flanked him. He gave them both a slow, deeply respectful nod, then walked out of the courtroom to find a payphone. He had to call Mom. It was her turn to unleash hell.
+Dad stood up, adjusted his tie, and looked at the two women who had flanked him, and at Ray Shackford standing somberly by the prosecutor's table ready to sign the final witness statements. Dad gave them a slow, deeply respectful nod, then walked out of the courtroom to find a payphone. He had to call Mom.
 
 ### Part 2: The War Room & The Meltdown
 
@@ -4874,15 +4878,15 @@ Back in the kitchen, the wall phone suddenly rang, shattering the tense silence.
 
 Mom snatched the receiver off the cradle before the first ring even finished. "Hello?"
 
-"They're caged," Dad's deep, gravelly voice came through the line, echoing from a payphone in the Chesapeake courthouse lobby. "The judge denied bail for both of them. Remanded to the city jail until trial."
+"He's caged," Dad's deep, gravelly voice came through the line, echoing from a payphone in the Chesapeake courthouse lobby. "The judge denied bail for Curtis Maddox. Remanded to the city jail without bond until trial. Ray Shackford was right there in court testifying against him."
 
 Mom closed her eyes, a massive wave of relief washing over her face. She looked at Grandma Loretta and gave a sharp, definitive nod.
 
 "Good," Mom breathed, her voice trembling just slightly before she locked it down into cold steel. "Come home, Tom. We have work to do."
 
-Mom hung up the phone and looked across the table at her mother. The criminal justice system was doing its job. Ray and Curtis were locked in concrete cells. Now, it was time to destroy them financially.
+Mom hung up the phone and looked across the table at her mother. The criminal justice system was doing its job. Curtis Maddox was locked in a concrete cell. Now, it was time to go after the commercial liability insurance policy of Tidewater Tumblers and make sure that facility was shut down forever.
 
-"Alright," Grandma Loretta stated, pulling a thick, yellow telephone directory onto the table. "No more playing nice. We don't want a settler, Ellen. We want a shark."
+"Alright," Grandma Loretta stated, pulling a thick, yellow telephone directory onto the table. "Even if Ray Shackford is cooperating, his insurance company's lawyers won't hand over a two-million-dollar policy without a fight. We don't want a settler, Ellen. We want a shark."
 
 "I'm calling Drew's mother first," Mom said, picking up the receiver again and dialing the number she had exchanged in the Children's Hospital waiting room on Friday.
 
@@ -4892,23 +4896,23 @@ A moment later, a quiet, exhausted voice answered. "Hello?"
 
 "He's... he's stable," Drew's mother replied, her voice echoing slightly from what sounded like a hospital corridor. "He's still in the pediatric ICU. The surgeons said taking the spleen out saved his life, but he's in so much pain, Ellen. He's only six."
 
-"I know, Claire. I know," Mom soothed. "Tom just called me from the courthouse. The judge denied bail. Curtis and Ray are locked up."
+"I know, Claire. I know," Mom soothed. "Tom just called me from the courthouse. The judge denied bail. Curtis is locked up, and Ray Shackford testified against him."
 
 A shaky sob of relief came through the phone line.
 
-"Claire, listen to me," Mom continued, her tone shifting from comforting to tactical. "The criminal trial is going to put them in prison. But that doesn't pay for Drew's ICU bed. That doesn't pay for my children's homebound care. Ray owns that building, and he holds a massive commercial liability insurance policy on Tidewater Tumblers."
+"Claire, listen to me," Mom continued, her tone shifting from comforting to tactical. "The criminal trial is going to put Curtis in prison, and I know Ray promised to pay Drew's initial ER costs out of pocket. But that doesn't pay for Drew's lifelong follow-up care, and it doesn't pay for my children's months of homebound care. Tidewater Tumblers holds a massive commercial liability insurance policy."
 
-"We signed waivers, Ellen," Claire whispered, the same fear that Ray had tried to rely on creeping into her voice. "Ray's lawyer said we can't sue."
+"We signed waivers, Ellen," Claire whispered, the lingering fear of corporate insurance adjusters creeping into her voice. "What if the insurance company says we can't sue?"
 
-"Ray's lawyer is a liar," Mom stated fiercely. "You cannot waive gross criminal negligence. I am finding a personal injury lawyer this morning. We are not doing this separately. We are forming a coalition. I want your permission to give the attorney your contact information so we can hit them with a unified, devastating civil suit."
+"No insurance company on earth can hide behind a waiver when an employee commits aggravated malicious wounding on children," Mom stated fiercely. "And Ray Shackford already handed over every record in the safe and isn't contesting fault. I am finding a personal injury lawyer this morning. We are not doing this separately. We are forming a coalition. I want your permission to give the attorney your contact information so we can hit the Tidewater Tumblers insurance carrier with a unified, devastating civil claim and liquidate the facility."
 
-There was a brief silence on the other end of the line, followed by a deep, shuddering breath. The fear was replaced by a mother's unyielding anger.
+There was a brief silence on the other end of the line, followed by a deep, shuddering breath. The fear was replaced by a mother's unyielding resolve.
 
-"Do it," Claire agreed. "Take everything they have."
+"Do it," Claire agreed. "Shut those doors forever."
 
 Mom hung up the phone. She looked at Grandma Loretta, who had the yellow pages open to the 'Attorneys' section, her finger resting on a full-page, aggressive advertisement for one of the most notoriously vicious litigation firms in the Hampton Roads area.
 
-"Call them," Grandma Loretta ordered, tapping the page. "Tell them we have three hospitalized children, a confessed witness, a denied bail hearing, and a commercial insurance policy ripe for the taking."
+"Call them," Grandma Loretta ordered, tapping the page. "Tell them we have three hospitalized children, a confessed witness, the facility owner testifying for the prosecution, a denied bail hearing, and a commercial insurance policy ripe for the taking."
 
 Mom picked up the receiver and started dialing. The Monday war was escalating, and the Ragsdale pack was taking no prisoners.
 
@@ -4958,7 +4962,7 @@ But we couldn't. The panic was a runaway train. We were drowning in the trauma, 
 
 Just as the chaos reached a fever pitch, the front door lock clicked, and the heavy oak door swung open.
 
-Dad walked in, still wearing his sharp court suit, his tie loosened. He had just returned from watching the judge lock Curtis and Ray in their cages.
+Dad walked in, still wearing his sharp court suit, his tie loosened. He had just returned from watching the judge lock Curtis Maddox in his cage.
 
 He dropped his keys on the entryway table. He took one look at the living room—the crying, the panic, Mom physically holding Rachel flat to protect her spleen—and he didn't ask a single question.
 
@@ -5286,35 +5290,35 @@ Dad immediately turned and walked into the kitchen, shutting the heavy door behi
 
 Inside the kitchen, Grandma Loretta had her pen poised over the yellow legal pad. The speakerphone was on, picking up the cold, calculating voice of the most ruthless personal injury litigator in Hampton Roads.
 
-*"Mrs. Ragsdale, Mr. Ragsdale, and Sarah,"* Mr. Vance’s voice crackled through the speaker. He didn't sound sympathetic; he sounded like a shark that had just smelled blood in the water. *"I have reviewed the hospital records you faxed, and I’ve spoken with Detective Harris regarding the criminal charges against Ray and Curtis. We are not aiming for a settlement. We are aiming for total financial annihilation."*
+*"Mrs. Ragsdale, Mr. Ragsdale, and Claire,"* Mr. Vance’s voice crackled through the speaker. He didn't sound sympathetic; he sounded like a shark that had just smelled blood in the water. *"I have reviewed the hospital records you faxed, and I’ve spoken with Detective Harris regarding the criminal charges against Curtis Maddox and the sworn statements provided by Ray Shackford. We are not aiming for a nuisance settlement from the insurance carrier. We are aiming for the full policy limits and the complete liquidation of Tidewater Tumblers, LLC."*
 
 "Tell us the strategy, Mr. Vance," Mom demanded, sitting at the table.
 
-"First thing tomorrow morning, my firm is filing an emergency ex parte injunction in civil court," Vance explained smoothly. "We are freezing every single business and personal asset tied to Ray and his LLC. He will not be able to move a dime or hide his money in offshore accounts. We lock his wallet before he even makes bail."
+"First thing tomorrow morning, my firm is filing an emergency civil injunction," Vance explained smoothly. "We are freezing every personal asset belonging to Curtis Maddox and placing a receivership lien on Tidewater Tumblers, LLC. To Mr. Shackford's credit, his personal attorney already contacted my office an hour ago: Mr. Shackford has already paid Drew's initial emergency room deductible out of pocket, he is testifying for the Commonwealth against Maddox, and he has formally instructed his commercial insurance carrier not to contest liability."
 
-"And the commercial insurance?" Dad asked, his arms crossed over his chest.
+"And the commercial insurance company?" Dad asked, his arms crossed over his chest.
 
-"Already subpoenaed," Vance replied. "He carries a two-million-dollar umbrella liability policy. Ray’s criminal defense attorney is going to argue that you signed waivers. My counter-argument is that liability waivers do not cover gross criminal negligence, negligent hiring, and the operation of an unregulated, off-book fighting ring involving minors. The waivers are dead paper."
+"Already subpoenaed," Vance replied. "Tidewater Tumblers carries a two-million-dollar umbrella liability policy. The insurance carrier's adjusters might normally try to argue that you signed routine sports waivers, or that Maddox was acting outside the scope of his employment. My counter-argument—backed by Mr. Shackford's own admissions of negligent hiring and supervision when he placed Maddox on the teaching rotation—is that liability waivers are dead paper in the face of aggravated malicious wounding of minors."
 
-*"I want those doors locked forever,"* Sarah's voice came through the conference line, trembling with the rage of a mother whose six-year-old was missing an organ. *"I don't want another child to ever walk into Suite A."*
+*"I want those doors locked forever,"* Claire's voice came through the conference line, trembling with the grief of a mother whose six-year-old was missing an organ. *"Even if Mr. Shackford is doing the right thing now, I can't bear the thought of that gym staying open. I don't want another child to ever walk into Suite A."*
 
-"You'll get it, Sarah," Mr. Vance promised with absolute, chilling confidence. "He doesn't own the building—he’s just a commercial leaseholder—so we can't seize the real estate. But we are going to pierce the corporate veil. We aren't just suing the LLC; we are suing Ray personally. By the time I am done with him, we will bankrupt his company and strip him of his personal wealth to pay your children's medical bills and lifelong pain and suffering."
+"You'll get it, Claire," Mr. Vance promised with absolute confidence. "Mr. Shackford doesn't own the building—Tidewater Tumblers is just a commercial leaseholder—and he has already agreed to surrender the LLC's assets into the settlement trust and dissolve the company. Between the receivership freeze and the termination of the business, the LLC will default on its commercial lease by the end of the month."
 
-Vance paused, letting the reality of the financial execution settle in.
+Vance paused, letting the reality of the closure settle in.
 
-"He will default on that lease by the end of the month," Vance continued. "The property manager will evict him, and the court will seize the assets inside to pay our judgments. The bank will foreclose on the mats, the signage, and the gymnastics equipment. Tidewater Tumblers will be completely liquidated."
+"The property manager will formally evict the corporate entity, and the receivership will liquidate the mats, the signage, and the gymnastics equipment to add to your children's medical trust," Vance continued. "Tidewater Tumblers will be completely dismantled and closed forever."
 
-Mom looked at Dad, then at Grandma Loretta. The medical reality Nurse Brenda had just delivered in the living room meant Michael and Rachel's lives were permanently altered. The least Ray and Curtis could do was pay for it with their entire empire.
+Mom looked at Dad, then at Grandma Loretta. The medical reality Nurse Brenda had just delivered in the living room meant Michael and Rachel's lives were permanently altered. Curtis Maddox was going to prison, and the facility where he had hurt them would be wiped off the map.
 
-"Draft the filings, Mr. Vance," Mom ordered coldly. "Burn it all to the ground."
+"Draft the filings, Mr. Vance," Mom ordered coldly. "Shut it down."
 
-"Consider the match lit, Mrs. Ragsdale. I'll see you in court."
+"Consider it done, Mrs. Ragsdale. I'll see you in court."
 
 The line clicked dead.
 
-Mom slowly hung up the receiver. The Monday War was officially over. The criminal justice system had their bodies, and the civil courts were about to take their money.
+Mom slowly hung up the receiver. The Monday War was officially over. The criminal justice system had Curtis Maddox in a cage, Ray Shackford was testifying for the prosecution, and the civil courts were dismantling the facility brick by brick.
 
-In the living room, surrounded by the fierce loyalty of our sisters and the protective weight of our dogs, we grieved the permanent loss of our martial arts journey. But in the kitchen, the adults had ensured that the monsters who took it from us would never have a Dojang again.
+In the living room, surrounded by the fierce loyalty of our sisters and the protective weight of our dogs, we grieved the permanent loss of our martial arts journey. But in the kitchen, the adults had ensured that the monster who took it from us would never step onto a mat again.
 
 ***
 
@@ -5401,6 +5405,8 @@ Let the four months begin.
 ### Part 1: The Transfer of Trust & The First Lift
 
 **Date:** 1995-08-22 at 08:30 America/New_York
+
+![Michael and Rachel propped up on the Delaney Street living room pull-out sofa bed holding hands over a three-pillow divider while Grandma Loretta knits and Jessica and Janette sit on the floor mattresses.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/living_room_base_camp_1995.jpg)
 
 #### 8:30 AM — The Transfer of Trust
 
@@ -6000,6 +6006,8 @@ Rachel reached her hand out across the pillow wall, finding mine. We laced our f
 
 **Date:** 1995-08-27 at 14:30 America/New_York
 
+![Michael and Rachel resting on the living room pull-out sofa bed holding hands over the pillows while the family dogs Baby and Archie lie on guard beside the floor mattress and Uncle Jim reads in the armchair.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/canine_guard_sanctuary_1995.jpg)
+
 #### 2:30 PM — The Canine Guard
 
 The living room remained wrapped in a thick, exhausted silence. The physical threat of the meltdown had passed, but the psychological fallout was absolute.
@@ -6592,6 +6600,8 @@ The first day of fifth grade was in the books. The tutor was safe. The system wo
 
 **Date:** 1995-09-05 at 12:10 America/New_York
 
+![Master April Mercer sitting in street clothes at the foot of the living room sofa bed reading from The Way of Seondu to Michael, Rachel, Jessica, and Janette.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/way_of_seondu_lesson_1995.jpg)
+
 #### 12:10 PM — The Afternoon Rest
 
 With the front door safely locked and Mrs. Higgins gone, the rigid academic posture of the living room immediately dissolved.
@@ -6738,15 +6748,15 @@ This whole time, Jessica and Janette stayed right at their posts as sentinels, w
 
 Once we were both flat on the mattress again, Jim retreated to the kitchen.
 
-"Sabomnim?" I asked quietly, testing the new, safe title. "What is going to happen to Ray and Curtis?"
+"Sabomnim?" I asked quietly, testing the new, safe title. "What is going to happen to Master Ray and Curtis?"
 
-"Your parents are handling the police and the American lawsuits," April said, leaning forward. "But as a *Sunhoe Sabomnim*, I am the Voice of Korea. I am handling the art. I have compiled a massive dossier of everything Curtis did. I am submitting it to Grandmaster Lee Dong-won to have them completely excommunicated."
+"Your parents are handling the police and the American lawsuits, and Master Ray is testifying against Curtis in court," April said, leaning forward. "But as a *Sunhoe Sabomnim*, I am the Voice of Korea. I am handling the art. I have compiled a massive dossier of everything Curtis Maddox did—along with Master Ray Shackford's full confession of his own failure as a headmaster in hiring Curtis onto the teaching schedule. I am submitting it to Grandmaster Lee Dong-won in Seoul: Master Ray will face formal sanctions from the Grandmasters and lose his school charter, and Curtis will be completely excommunicated."
 
 Rachel frowned behind the pillows, her brow furrowing in confusion.
 
 "What does excommunicated mean?" I asked for her. "We've never heard that word."
 
-"It means they are erased," April stated, her voice forged from cold steel. "The Grandmasters will strike their names from the international registry. They will be stripped of their Dan ranks and their titles. They will never be allowed to wear a black belt, and they will be banned from every sanctioned Dojang in the world. They won't just go to jail; they will lose the art forever."
+"It means Curtis is erased," April stated, her voice forged from cold steel. "In Korea, it is called *Pamyun*. The Grandmasters will strike Curtis Maddox's name from the international registry. He will be stripped of his 2nd Dan rank and his belts. He will never be allowed to wear a black belt, and he will be banned from every sanctioned Dojang in the world. While Master Ray is accepting the Grandmasters' formal sanctions with honor and helping the police put Curtis away, Curtis won't just go to prison—he will lose the art forever."
 
 The finality of the word hung in the air. Erased. It was exactly what they deserved.
 
@@ -6944,6 +6954,8 @@ The chill in the air was still there, but it didn't matter anymore. The chimney 
 
 **Date:** 1995-10-04 at 16:00 America/New_York
 
+![Tom Ragsdale showing Michael and Rachel a Polaroid photograph of the evicted, empty Tidewater Tumblers storefront while Ellen, Grandma Loretta, Jessica, and Janette celebrate behind him.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/eviction_polaroid_closure_1995.jpg)
+
 #### 4:00 PM — The Wednesday Rhythm
 
 By the first week of October, the Base Camp had settled into a highly disciplined, mechanical rhythm. The suffocating terror of August had slowly been replaced by the predictable, operational grind of the Homebound schedule.
@@ -6956,7 +6968,7 @@ At the dark-stained wooden table in the dining room, Jessica and Janette were qu
 
 On the sofa bed, I was lying perfectly flat against the mattress, staring up at the popcorn ceiling. Beside me, Rachel was doing the same. Our hands were laced tightly together over the massive, three-pillow barrier, maintaining our physical anchor. Baby was wedged heavily against the left side of the mattress, his deep, rhythmic snores vibrating gently through the floorboards.
 
-The house was safe, but the invisible, psychological shadow of the Lair still lingered in the back of our minds. Ray and Curtis were in jail, but as long as the Tidewater Tumblers suite on Professional Place still existed—as long as the mats where we had been crushed were still unrolled—the monsters still had a home base.
+The house was safe, but the invisible, psychological shadow of the Lair still lingered in the back of our minds. Curtis Maddox was in jail and Master Ray had surrendered the business, but as long as the Tidewater Tumblers suite on Professional Place still existed—as long as the mats where we had been crushed were still unrolled—the nightmare still had a physical address.
 
 At four-fifteen, the heavy deadbolt on the front door clicked open.
 
@@ -6976,11 +6988,11 @@ Mom stepped out of the kitchen, wiping her hands on a dish towel. Grandma Lorett
 
 Dad stepped up to the foot of the sofa bed. He looked down at Rachel and me, trapped in our heavy white medical binders.
 
-"Base camp," Dad said gently, waiting until he had our full, undivided attention. "Mr. Vance called me at the restaurant today. The civil injunction he filed against Ray completely froze his bank accounts. He couldn't pay his commercial lease for September, and he couldn't pay it for October."
+"Base camp," Dad said gently, waiting until he had our full, undivided attention. "Mr. Vance called me at the restaurant today. Following the receivership freeze on Tidewater Tumblers, LLC, the company officially defaulted on its commercial lease for September and October."
 
 Rachel’s hand tightened around mine. The adult financial logistics were complex, but she was tracking his tone perfectly.
 
-"The property management company down in Chesapeake didn't wait," Dad continued, his voice hardening into steel. "They executed a complete commercial eviction this morning. And because of the lawsuit Mom started, the bank seized everything inside to pay for your medical bills."
+"The property management company down in Chesapeake didn't wait," Dad continued, his voice hardening into steel. "They executed a complete commercial eviction of the LLC this morning. And everything inside the gym was liquidated to go straight into the medical settlement trust Mom and Drew's mother set up."
 
 Mom let out a sharp, breathless gasp. Her hands flew to her mouth, tears of pure, vindicated rage instantly springing to her eyes. The Monday War she had waged from the kitchen telephone—the relentless coalition she had built with Drew's mother and the other families—had finally delivered the killing blow.
 
@@ -7028,11 +7040,11 @@ Dad looked back at her, his expression a fortress of absolute protection.
 
 In the dining room, Jessica let out a fierce, triumphant laugh, high-fiving Janette so hard the sound echoed off the dark-stained table. The teenage guard didn't just feel safe; they felt victorious.
 
-Mom walked up to Dad and threw her arms around his neck, burying her face in his shoulder. She had spent weeks coordinating with Mr. Vance, navigating the ruthless legal strategy, and fighting the bureaucracy of the insurance companies. Seeing the fluorescent orange sticker on the glass was the ultimate validation that her maternal fury had successfully burned Ray's empire to the ground.
+Mom walked up to Dad and threw her arms around his neck, burying her face in his shoulder. She had spent weeks coordinating with Mr. Vance, navigating the ruthless legal strategy, and fighting the bureaucracy of the insurance companies. Seeing the fluorescent orange sticker on the glass was the ultimate validation that her maternal fury had permanently closed the facility where her children were hurt.
 
-"We got them, Tom," Mom whispered fiercely, wiping her eyes. "We took it all."
+"It's finally closed, Tom," Mom whispered fiercely, wiping her eyes. "The doors are locked forever."
 
-"We took it all," Dad agreed, kissing the side of her head.
+"Locked forever," Dad agreed, kissing the side of her head.
 
 Dad pulled back and handed the Polaroid to Jessica. "Jess, take this. Pin it to the corkboard in the kitchen. Right next to the emergency numbers. I want it visible."
 
@@ -7101,6 +7113,8 @@ The adults stayed in the dining room. The acoustic bleed continued to drift over
 ### Part 1: The Midnight Blue Shield & The Shadow Arts
 
 **Date:** 1995-10-20 at 16:30 America/New_York
+
+![Master April Mercer in her new midnight-blue Lynnhaven Academy of Seondu dobok guiding Michael and Rachel through seated upper-body martial arts blocks on the living room sofa bed.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/midnight_blue_shield_shadow_arts_1995.jpg)
 
 #### 4:30 PM — The Midnight Blue Shield
 
@@ -7461,6 +7475,8 @@ I bumped my shoulder gently against the pillows, matching her brilliant smile. "
 ### The Friday Commute & Deploying Base Camp
 
 **Date:** 1999-05-14 at 15:40 America/New_York
+
+![Fourteen-year-old Michael with his bass drum mallets, fourteen-year-old Ashley Raybourn with her snare drumsticks, and twelve-year-old Rachel with her percussion mallets standing in a tight three-person perimeter in the Morrison Middle School band room.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/morrison_band_room_perimeter_1999.jpg)
 
 #### 3:40 PM — The Friday Commute
 
@@ -7835,6 +7851,8 @@ None of us liked him anyway. Our perimeter was closed, the toxic middle school e
 ### Part 2: The Loch Serpent & Heart Attack Hill
 
 **Date:** 1999-05-15 at 09:15 America/New_York
+
+![Eighth-graders Michael, Ashley Raybourn, and Bonnie Reed standing together on the stone footbridge at Brewster Gardens with the bright yellow interlocking loops of The Loch Serpent roller coaster rising behind them.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/brewster_gardens_loch_serpent_1999.jpg)
 
 #### 9:15 AM — The Loch Serpent
 
@@ -8672,6 +8690,8 @@ As the heavy velvet curtains closed behind us, cutting off the noise of the crow
 
 **Date:** 1999-05-15 at 20:30 America/New_York
 
+![Eighth-grade percussionists Michael, Ashley Raybourn, and Bonnie Reed in their white Morrison Middle School band polos proudly holding the Outstanding Percussion Section trophy on the Sovereign Palace Theater amphitheater stage.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/sovereign_palace_trophy_1999.jpg)
+
 #### 8:30 PM — The Mathematics of Victory
 
 By the time the sun fully set and the massive amphitheater lights of *The Sovereign Palace Theater* flared to life, my internal processor was completely, blissfully offline.
@@ -9229,6 +9249,8 @@ The house was fractured, and our older sister was miles away in a hospital bed w
 ### The Daytime Warden & The Logic Blueprint
 
 **Date:** 1999-11-27 at 08:00 America/New_York
+
+![Fourteen-year-old Michael and twelve-year-old Rachel sitting under a patchwork quilt in pajamas holding hands as their dogs Baby and Archie rest across their shins and their father Tom checks in from the bedroom doorway.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/november_1999_pack_bed_vigil.jpg)
 
 #### 8:00 AM — The Daytime Warden
 
@@ -10560,6 +10582,8 @@ She cracked her knuckles, pushed her tinted glasses up her nose, and turned back
 
 **Date:** 1999-12-25 at 22:30 America/New_York
 
+![Christmas night 1999 in the Delaney Street living room as Jessica in her manual wheelchair holds Michael's hand beside the illuminated Christmas tree while Rachel and Ashley sit on the pull-out sofa bed with Archie and Baby resting on the carpet.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_living_room_fortress.jpg)
+
 By 10:30 PM, the acoustic assault of the extended family finally began to recede.
 
 The mass exodus was a slow, chaotic procedure of locating winter coats, exchanging plastic leftover containers in the galley kitchen, and corralling exhausted cousins. The front door of 1852 Delaney Street opened and closed in a steady rhythm, letting the freezing Virginia air sweep across the dark blue polyester carpet.
@@ -10755,6 +10779,8 @@ She hadn't just fixed the code. She had beaten the machine.
 ### Part 1: The Desktop Under the Stairs & The Long-Distance Loophole
 
 **Date:** 2000-04-21 at 16:00 America/New_York
+
+![Fifteen-year-old Michael at the beige CRT desktop computer under the oak staircase at 1852 Delaney Street while nineteen-year-old Jessica in her manual wheelchair holds her university admissions brochure and thirteen-year-old Rachel looks on.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b006/desktop_under_the_stairs_2000.jpg)
 
 #### 4:00 PM — The Desktop Under the Stairs
 
@@ -11179,6 +11205,8 @@ And as the bus pulled into the hotel parking lot, we both desperately believed t
 ### Part 2: The Lido Deck
 
 **Date:** 2000-05-04 at 20:00 America/New_York
+
+![Nineteen-year-old Jessica smiling triumphantly in the warm indoor Atlanta hotel pool as fifteen-year-old Michael stands right beside her in the water, with Jessica's manual wheelchair parked poolside.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b006/atlanta_lido_deck_pool_2000.jpg)
 
 After a long, uneventful dinner at the massive cafeteria, we finally made it back to the Atlanta hotel. Jessica looked at me, the cold determination returning.
 
@@ -12020,6 +12048,8 @@ Back on the East Coast, fast food was strictly segmented. Burger places sold bur
 
 **Date:** 2000-08-18 at 08:00 America/Los_Angeles
 
+![Nineteen-year-old Jessica propelling her manual wheelchair across the sunlit red-brick plaza of Northwest Pacific University in Seattle flanked by fifteen-year-old Michael and thirteen-year-old Rachel, with Ellen and Aunt Janet walking behind them.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b007/seattle_campus_red_square_2000.jpg)
+
 #### 8:00 AM — The ADA Fortress
 
 Friday morning broke with the bright, sharp clarity unique to the Pacific Northwest. Our internal clocks were still violently protesting, but the adrenaline of Move-In Day overrode the fatigue.
@@ -12363,6 +12393,8 @@ The sun would come up. We would walk back to the engineering quad. We would see 
 ### Part 1: The Reassembled Pack & The Saltwater Grid
 
 **Date:** 2000-08-19 at 07:00 America/Los_Angeles
+
+![Jessica in her manual wheelchair, Rachel, Michael, Tom, and Ellen standing together at the railing on the open sun deck of the Bremerton ferry crossing Puget Sound with the Seattle skyline in the distance.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b007/bremerton_ferry_sun_deck_2000.jpg)
 
 #### 7:00 AM — The Reassembled Pack
 
@@ -13068,6 +13100,8 @@ The Delaney Street house was broken, and our parents had officially surrendered 
 
 **Date:** 2001-08-13 at 13:00 America/New_York
 
+![Sixteen-year-old Michael and fourteen-year-old Rachel holding blue yarn mallets behind the front sideline marimba on the Northwood High School marching band field as sixteen-year-old Ashley Raybourn stands watch behind her vibraphone with her mallets.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b008/northwood_pit_ensemble_2001.jpg)
+
 #### 1:00 PM — The Afternoon Metronome
 
 When we finally emerged from the dark, quiet alcove of the stage doors at one o'clock, the Virginia Beach heat hit us like a physical wall. The humidity had peaked, turning the air thick and heavy, but the suffocating weather was nothing compared to the absolute, crushing relief I felt when I looked across the practice field.
@@ -13438,6 +13472,8 @@ I slid over and put my arm firmly around my kid sister, pulling her securely aga
 
 **Date:** 2001-08-18 at 08:30 America/New_York
 
+![Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their loyal dogs Archie and Baby.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg)
+
 #### 8:30 AM — The Elephant in the Room
 
 I woke up to the heavy, rhythmic thumping of a dog’s tail hitting the side of the sofa bed.
@@ -13621,6 +13657,8 @@ I reached out and ended the call, cutting off the painful static. I couldn't lis
 ### Rachel's Fury & The Push-Button Lock
 
 **Date:** 2001-09-04 at 17:30 America/New_York
+
+![Sixteen-year-old Michael and fourteen-year-old Rachel sitting together on the bottom bunk in Rachel's locked bedroom holding hands with the cordless telephone on speakerphone connected to Jessica in Seattle.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b010/push_button_lock_speakerphone_2001.jpg)
 
 #### 5:30 PM — Rachel's Fury
 
@@ -14351,6 +14389,8 @@ The heavy lock clicked into place, and the house was suddenly, terrifyingly sile
 ### Arrival at PDX & Sibling Cuddles
 
 **Date:** 2001-11-17 at 14:30 America/New_York
+
+![Sixteen-year-old Michael stepping out of the Portland International Airport arrivals concourse into a joyful three-way Thanksgiving embrace with fourteen-year-old Rachel and twenty-year-old Jessica in her manual wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b011/pdx_airport_reunion_2001.jpg)
 
 #### 2:30 PM — Arrival at PDX
 
@@ -15598,6 +15638,8 @@ She turned around, walked directly into the living room, and booted up her Super
 
 **Date:** 2001-11-22 at 13:30 America/New_York
 
+![Sixteen-year-old Michael and fourteen-year-old Rachel sitting cross-legged on the carpet playing co-op Gorilla Kingdom on the Super Nova 16 console while twenty-year-old Jessica watches warmly from her manual wheelchair at the dining table.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b011/thanksgiving_gorilla_kingdom_2001.jpg)
+
 #### 1:30 PM — The 101% Secret
 
 The apartment was filled with the heavy, savory aroma of roasting turkey, creating a thick blanket of sensory comfort over the living room. Jessica was sitting at the dining table with a thick university textbook spread open, enjoying the profound luxury of a quiet afternoon.
@@ -15809,6 +15851,8 @@ The divorce had tried to destroy us, and the legal system had tried to tear us a
 ### Part 1: The First Class Algorithm & The Aisle Transfer
 
 **Date:** 2001-12-22 at 06:00 America/New_York
+
+![Fourteen-year-old Rachel gripping the push-handles of twenty-year-old Jessica's manual wheelchair as her engine and anchor through the Seattle-Tacoma International Airport concourse on their way to board their First Class Christmas flight.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b012/seatac_concourse_wheelchair_engine_2001.jpg)
 
 #### 6:00 AM — The First Class Algorithm
 
@@ -16442,6 +16486,8 @@ I nodded, my dark eyes locked onto the screen.
 
 **Date:** 2001-12-22 at 21:30 America/New_York
 
+![Sixteen-year-old Michael dropping to his knees on the Norfolk International Airport terminal carpet to wrap twenty-year-old Jessica in her manual wheelchair and fourteen-year-old Rachel in a joyful three-way Christmas reunion hug while Ellen watches.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b012/norfolk_airport_christmas_reunion_2001.jpg)
+
 #### 9:30 PM — Sibling Reunification
 
 The digital clock mounted high on the terminal wall flipped to 9:30 PM.
@@ -16801,6 +16847,8 @@ It was just Mom, me, Rachel, and Jessica. The perimeter was perfectly secured, t
 ### Part 1: The Last Morning & The Baldwin Briefing
 
 **Date:** 2003-07-14 at 07:30 America/New_York
+
+![Eighteen-year-old Ashley Raybourn wrapping eighteen-year-old Michael in a steady, protective Sentinel hug on the bottom mattress of the nearly empty Delaney Street bedroom on moving morning.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/last_morning_delaney_sentinel_hug_2003.jpg)
 
 #### 7:30 AM — The Last Morning
 
@@ -17968,6 +18016,8 @@ I closed my eyes, listening to the quiet morning sounds of the neighborhood and 
 
 **Date:** 2004-09-02 at 08:00 America/New_York
 
+![Nineteen-year-old Michael kneeling in the sunlit late-summer grass outside his Greenway Court apartment in Norfolk with a gentle hand resting on the neck of his loyal one-eyed black Lab Archie.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b014/greenway_court_archie_walk_2004.jpg)
+
 #### 8:00 AM — The Last of the Pack
 
 The silence inside Unit A5 was heavy and absolute.
@@ -19096,6 +19146,8 @@ We had missed the southbound commuter train by exactly five minutes.
 ### Part 2: King Street Station & Pizza Diplomacy
 
 **Date:** 2006-11-14 at 16:15 America/Los_Angeles
+
+![Twenty-one-year-old Michael standing under the wrought-iron awning outside the brick clocktower entrance of Seattle's King Street Station in the misty November dusk, calling his sister Jessica on his silver flip phone.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/king_street_station_arrival_2006.jpg)
 
 #### 4:15 PM — King Street Station
 
@@ -24734,7 +24786,7 @@ I wasn't broken. I had just been trapped in the wrong universe. And Jessica had 
 
 ![Jessica consoles Michael on the sofa in her Building 35 corner office]({{CDN}}/raggiesoft-books/images/scenes/rachel/b017/jessica-office-sofa.jpg)
 
-![The Ragsdale siblings cuddling in late 1998]({{CDN}}/raggiesoft-books/images/scenes/rachel/b017/ragsdale-siblings-1999-photo.jpg)
+![The Ragsdale siblings cuddling on the floral sofa in December 1998 wearing matching The Stardust Engine: Hard Reset Tour '98 t-shirts]({{CDN}}/raggiesoft-books/images/scenes/rachel/b017/ragsdale-siblings-1998-photo.jpg)
 
 #### 1:15 PM — The Crossway Matinee
 
@@ -24874,7 +24926,7 @@ Every single wall, every corkboard, and the entire perimeter of her massive maho
 
 I turned my head toward the interior wall, my eyes landing on a heavy wooden bookshelf just out of sight of the window. Sitting front and center, elevated on a display stand, was a framed photograph of the three of us from late 1998.
 
-I was sitting in the middle of a floral couch, smiling warmly as I cuddled my two favorite women. Jessica and Rachel were flanking me, squished happily against my sides. We were just kids in t-shirts and jeans, completely oblivious to the trauma and the wheelchairs that the future held for us.
+I was sitting in the middle of a floral couch, smiling warmly as I cuddled my two favorite women. Jessica and Rachel were flanking me, squished happily against my sides. We were just kids in jeans and our matching black *The Stardust Engine: Hard Reset Tour '98* t-shirts from the Virginia Beach Amphitheater show that summer, completely oblivious to the trauma and the wheelchairs that the future held for us.
 
 The absolute centerpiece of her desk, however—the very first thing anyone saw when they crossed the threshold of the glass door—was a massive, prominently displayed silver frame sitting squarely on the mahogany. It was a photo of the three of us, captured in mid-scream. It was the exact moment Jessica had opened the envelope confirming she had won the full-ride scholarship to Northwest Pacific University, securing her guaranteed employment track at Quantum. Rachel and I were practically tackling her, our faces illuminated with absolute, life-altering triumph.
 

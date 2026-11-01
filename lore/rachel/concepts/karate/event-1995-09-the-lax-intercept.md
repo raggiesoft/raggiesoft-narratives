@@ -3,13 +3,13 @@ title: The LAX Intercept Attempt
 type: legal-event
 date: 1995-09
 location: Los Angeles International Airport (LAX)
-participants: ["[[char-003-april-mercer]]", "Defense Counsel for Ray/Curtis", "U.S. Marshals"]
+participants: ["[[char-003-april-mercer]]", "Defense Counsel for Curtis Maddox & Insurer Counsel", "U.S. Marshals"]
 jurisdiction_conflict: American Civil Court vs. The Vienna Convention
 outcome: Complete Defense Failure
 ---
 
-*   **The Panic:** During the criminal discovery phase, Master Ray's high-priced corporate defense attorneys realize that Master April has compiled a massive, damning disciplinary dossier regarding the events of August 17th. 
-*   **The Subpoena:** Knowing this dossier contains translated police reports, medical evidence, and a formal petition to excommunicate the facility's leadership, the defense lawyers panic. They secure an emergency, ex parte subpoena *duces tecum* from a Virginia judge to legally seize her documents before they can be submitted to any governing body.
+*   **The Panic:** During the discovery phase, Curtis Maddox's defense attorneys and the commercial insurance carrier's corporate counsel realize that Master April has compiled a massive, damning disciplinary dossier regarding the events of August 17th (backed by Master Ray Shackford's full cooperation and sworn statements). 
+*   **The Subpoena:** Knowing this dossier contains translated police reports, medical evidence, and a formal petition to excommunicate Curtis Maddox and revoke the facility's charter, the defense lawyers panic. They secure an emergency, ex parte subpoena *duces tecum* from a Virginia judge to legally seize her documents before they can be submitted to any governing body.
 *   **The Ignorance:** The lawyers view April merely as a disgruntled former employee and a twenty-two-year-old civilian. They are completely unaware of her geopolitical registration as Lee Hae-jin, a State Agent of the Republic of Korea.
 
 *   **The Route:** April opts to maintain the chain of custody herself. She departs Norfolk International Airport (ORF) to fly cross-country to Los Angeles International Airport (LAX), intending to board a transpacific flight directly to Incheon International (ICN) in Seoul. 

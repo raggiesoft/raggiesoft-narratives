@@ -8,7 +8,7 @@ Her hands were gripping the steering wheel so tightly her knuckles were stark wh
 
 She was driving down Volvo Parkway, but her mind was completely disconnected from the road. The tears were flowing hot and fast down her cheeks, blurring the streetlights into jagged streaks of red and yellow.
 
-She had left the heavy brass keys to Tidewater Tumblers lying right on the cold linoleum floor of the Dojang. She didn't care that she hadn't officially locked the front doors or set the alarm. She didn't care if Master Ray tried to call her house to scream at her about abandoning her shift. She was never, ever going back to that building.
+She had locked every attendance roster, liability waiver, and employment file inside the heavy steel office safe just as Master Ray Shackford had ordered her to do on the phone, and she had handed the keys to Tidewater Tumblers directly to Sergeant Gable so the police could seal the crime scene. Even though Master Ray had been furious at Curtis Maddox and had stood behind her 100%, she knew she could never step foot inside that building again.
 
 A choked, jagged sob tore out of her throat.
 
@@ -16,21 +16,21 @@ She thought about the little boy's stomach. The sheer, horrific geometry of that
 
 *How could I not know?* she agonized, hitting her steering wheel with the palm of her hand. *How could I sit ten feet away and not hear them?*
 
-But the darkest, most nauseating thought wasn't about tonight. It was about the past.
+But the darkest, most nauseating thought was how fast a sanctuary could be corrupted.
 
-Megan wiped her eyes roughly, her breath catching as a flood of childhood memories suddenly turned completely toxic.
+Megan wiped her eyes roughly, her breath catching as a flood of childhood memories collided with tonight's horror.
 
 Ten years ago, she had been a Tidewater Tumblers kid.
 
-She remembered the smell of the chalk dust, the bright blue spring floors, and the upbeat pop music playing over the speakers while she practiced her back handsprings and vault routines. She remembered feeling so safe, so strong, and so proud in that building.
+She remembered the smell of the chalk dust, the bright blue spring floors, and the upbeat pop music playing over the speakers while she practiced her back handsprings and vault routines. She remembered feeling so safe, so strong, and so proud in that building under Master Ray Shackford and Master April.
 
-And Master Curtis had been there back then, too.
+And Curtis Maddox had started out as an adult student here, taught by April, Ray, and the other instructors—only recently applying for and receiving a junior teaching role as part of getting ready to test for his 3rd Dan.
 
 A fresh wave of nausea rolled over her, forcing her to roll down the driver's side window to let the cold, wet air hit her face.
 
-*Was he doing it back then?* The thought made her skin crawl. While she had been out on the main floor, laughing with her friends and sticking her gymnastics landings, had Curtis been in that back room, behind the closed blinds, crushing the breath out of children? Had there been kids limping out into the lobby holding their ribs back in 1985, while she was too young and too self-absorbed to notice?
+In just a matter of weeks on the Thursday rotation, while Ray was away from the building, Curtis had turned the back room behind the closed blinds into his own sadistic proving ground—taking his rage at failing his 3rd Dan test out on defenseless children.
 
-The absolute, profound betrayal of her childhood sanctuary shattered her. The Dojang wasn't just a place where a bad thing happened tonight; it was a predator's hunting ground that had been operating in plain sight for a decade.
+The absolute, profound violation of her childhood sanctuary shattered her.
 
 Megan pulled her car into the driveway of her apartment complex, slammed the gear shift into park, and dropped her head onto the steering wheel, weeping uncontrollably into the dark.
 
@@ -71,13 +71,13 @@ Once the team was out in the muggy August night, standing under the awning, Gabl
 
 He inserted Megan’s brass key into the lock and threw the deadbolt. The heavy metallic *click* echoed across the empty plaza.
 
-But a simple lock wasn't enough. Tidewater Tumblers was an active crime scene, and Master Ray could not be allowed back inside to tamper with the floor wax or sanitize the Dojang before the detectives arrived with a full search warrant in the morning.
+But a simple lock wasn't enough. Tidewater Tumblers was an active crime scene, and Curtis Maddox—who still carried an instructor's key on his keyring—could not be allowed to sneak back inside overnight to tamper with the floor wax or sanitize the Dojang before the detectives executed their arrest and search warrants in the morning.
 
 Gable walked over to the trunk of his police cruiser. He pulled out a thick roll of red and white, tamper-evident tape printed with the words: **CRIME SCENE - DO NOT CROSS - POLICE SEAL**.
 
 He walked back to the entrance and stretched the heavy adhesive tape horizontally across the seam of the double glass doors, pressing it firmly against the handles and the glass. He ran a second strip vertically, creating a massive, highly visible cross that physically and legally sealed the threshold.
 
-If Master Ray, or anyone else, tried to put a key in that door and break the tape, they would be immediately arrested for tampering with a crime scene.
+If Curtis Maddox, or any of his adult "Iron Shirt" disciples, tried to put a key in that door and break the tape, they would be immediately arrested for tampering with a crime scene.
 
 Gable stepped back, looking up at the cheerful, brightly colored "Tidewater Tumblers & Martial Arts" sign glowing above the strip mall unit.
 
