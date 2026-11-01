@@ -3568,7 +3568,7 @@ April closed her eyes, took a deep, shuddering breath, and manually locked her g
 
 **Date:** 1995-08-18 at 18:45 America/New_York
 
-![Master April Mercer bowing deeply in respect at the foot of Michael and Rachel's adjacent hospital beds as they hold hands across the gap and Tom and Ellen Ragsdale watch with gratitude.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/hospital_sabomnim_bow_1995.jpg)
+![Master April Mercer in a soft blue t-shirt, dark denim jeans, and glasses bowing deeply in respect at the foot of Michael and Rachel's adjacent hospital beds as they hold hands across the gap and Tom and Ellen Ragsdale watch with gratitude.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/hospital_sabomnim_bow_1995.jpg)
 
 #### 6:45 PM — The Ultimate Bow
 
