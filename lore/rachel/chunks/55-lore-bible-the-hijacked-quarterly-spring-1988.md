@@ -24,4 +24,4 @@
 
 - They all thought they were being judged by the ultimate authority. They didn't realize they were just background extras.
 
-- Grandmaster Lee Dong-won watched the color belts with polite, passive observation. But the second Master Scott called the 4th Poom candidates to the floor and fifteen-year-old April stepped onto the center mat, the 10th Dan leaned slightly forward. The polite observation vanished, replaced by the absolute, piercing focus of the Creator evaluating his successor.
+- Grandmaster Lee Dong-won watched the color belts with polite, passive observation. But the second Master Scott called the 4th Poom candidates to the floor, formally yielded the *Gwonhan* to the 10th Dan, and fifteen-year-old April stepped onto the center mat, the Grandmaster himself administered the test—leaning slightly forward as polite observation vanished, replaced by the absolute, piercing focus of the Creator evaluating his successor.

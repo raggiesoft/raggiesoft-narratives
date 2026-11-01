@@ -14,7 +14,7 @@ In Seondu, the physical Dojang floor during a testing cycle is considered sacred
 
 - Regardless of their actual Dan rank, the Emissary completely outranks whoever normally administers the testing.
 
-- Example: Even though Master Scott is a 7th Dan, he must formally yield the floor, bow, and surrender total administrative control to Master April, a 22-year-old 4th Dan, because she wears the silver thread. Scott cannot issue a final grade; he can only offer his assessment and formally defer to her for the verdict. All official verdicts must then be rendered in Korean.
+- Example: Even though Master Scott is a 7th Dan, he must formally yield the floor, bow, and surrender total administrative control to Master April, a 22-year-old 4th Dan, because she wears the silver thread. Because testing is conducted bracket by bracket on the gymnastics spring floor (each color belt class and belt-with-stripe class testing as a class, followed by each individual *Poom* candidate, and then each individual *Dan* candidate), whoever is in charge of the test (Master Scott) must repeat the formal *Gwonhan* announcement before every single color belt class, every *Poom* candidate, and every *Dan* candidate presented throughout the day. Scott cannot issue a final grade; he can only offer his assessment and formally defer to her for the verdict. All official verdicts must then be rendered in Korean.
 
 ## Level 3: The Supreme Council (The Grandmasters)
 
@@ -22,4 +22,4 @@ In Seondu, the physical Dojang floor during a testing cycle is considered sacred
 
 - If a 7th, 8th, 9th Dan Grandmaster of the Council, or the 10th Dan himself, steps onto the mat, they outrank absolutely everyone in the room—including the *Sunhoe Sabomnim*.
 
-- In this incredibly rare event, the Emissary instantly relinquishes command of the floor. The Emissary drops back into a subservient role, acting exclusively as the Grandmaster's translator, shield, and facilitator. The absolute, unquestionable power of the *Art* reverts directly to the Creator, and even the Voice of Korea must bow and wait for their command.
+- In this incredibly rare event (such as during fifteen-year-old April's 4th *Poom* test in Spring 1988), whoever is in charge yields the floor to the Grandmaster (and any Emissary present also relinquishes command of the floor). The Grandmaster himself administers the test, and the absolute, unquestionable power of the *Art* reverts directly to the Creator.

@@ -2,9 +2,9 @@
 
 ## Facility & Affiliation
 
-- **Tidewater Tumblers & Martial Arts:** The dual-purpose gymnastics and Dojang facility (equivalent to Ocean Tumblers). It operates as a franchised branch of Pinnacle Mastery School of Karate (established in 1982).
+- **Tidewater Tumblers & Martial Arts:** The dual-purpose gymnastics and Dojang facility at 912 Professional Place in Chesapeake, Virginia (equivalent to the original Ocean Tumblers facility). Originally opened as a gymnastics center in the late 1970s (featuring late-1970s wood panel backing on the walls of its second-floor observation deck bleachers overlooking the main gymnastics spring floor), the facility received its license to operate as a franchised branch of Pinnacle Mastery School of Karate in 1982.
 
-- **The Regional Testing Center:** Because Master Ray signed the very first franchise agreement with Pinnacle in 1982, Tidewater Tumblers serves as the official regional testing hub for all Pinnacle branches in the Hampton Roads area. Belt tests are held on the main gymnastics floor.
+- **The Regional Testing Center:** Because Master Ray signed the very first franchise agreement with Pinnacle in 1982, Tidewater Tumblers serves as the official regional testing hub for all Pinnacle branches in the Hampton Roads area. Quarterly belt tests are held on the main gymnastics spring floor while parents and observers sit in the second-floor observation deck bleachers above. Testing is conducted strictly by belt class in rank order—every color belt class and belt-with-stripe class (White Belts, White Belts with stripe, Yellow Belts, Purple Belts, Green Belts, Green Belts with stripe, etc.) tests as a class, followed by individual *Poom* candidates, and finally individual *Dan* candidates.
 
 - **Professional Place:** The street location of the facility in Chesapeake, Virginia.
 

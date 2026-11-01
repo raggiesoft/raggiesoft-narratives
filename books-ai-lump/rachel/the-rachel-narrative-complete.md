@@ -862,15 +862,15 @@ The perimeter was locked tight, and the pack was safe.
 
 **Date:** 1995-08-12 at 09:00 America/New_York
 
-![Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/brown_belt_testing_1995.jpg)
+![On the blue gymnastics spring floor at Tidewater Tumblers beneath the second-floor observation deck bleachers, 7th Dan Regional Director Master Scott formally yields the Gwonhan to 22-year-old Sunhoe Sabomnim Master April Mercer as ten-year-old Michael and eight-year-old Rachel test for their Brown Belts.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/brown_belt_testing_1995.jpg)
 
-![Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/master_april_hugging_michael_and_rachel.jpg)
+![On the blue gymnastics spring floor at Tidewater Tumblers beneath the second-floor observation deck bleachers, 7th Dan Regional Director Master Scott formally yields the Gwonhan to 22-year-old Sunhoe Sabomnim Master April Mercer as ten-year-old Michael and eight-year-old Rachel test for their Brown Belts.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/master_april_hugging_michael_and_rachel.jpg)
 
 #### 9:00 AM — The Inventory
 
 The main gymnastics floor of Tidewater Tumblers & Martial Arts didn’t feel like a gymnastics floor today.
 
-The spring floor was cleared. The balance beams were pushed back. The tumbling tracks were rolled tight against the wall. Down the center of the room, lines of students stood barefoot on the open mat space, their crisp white *doboks* bright under the fluorescent lights, every single chest bearing the embroidered Pinnacle Mastery School of Karate patch.
+Originally opened as a gymnastics school in the late 1970s at 912 Professional Place before receiving its license to operate the Pinnacle Mastery School of Karate in 1982, the massive warehouse arena served as the regional testing center for every branch in Hampton Roads. The rebounding gymnastics spring floor was cleared. The balance beams were pushed back. The tumbling tracks were rolled tight against the wall. High above the Dojang doors, the second-floor observation deck—lined with three tiers of bleachers against its original late-1970s wood-paneled wall backing—was packed shoulder-to-shoulder with parents, siblings, and observers looking down over the balcony railing, including Mom, Dad, Jessica, Janette, and Ashley Raybourn sitting right in the front row. Down the center of the spring floor below, lines of students stood barefoot on the open blue mats, their crisp white *doboks* bright under the fluorescent lights, every single chest—except Curtis's—bearing the embroidered 1982 Pinnacle Mastery School of Karate patch.
 
 At the very front, the hierarchy was visually absolute. Master Ray Shackford, the 46-year-old franchise owner, stood in his white uniform with the midnight blue collar, his 3rd Dan belt tied perfectly. Beside him stood Curtis Maddox, 34 years old, wearing the 2nd Dan uniform, his jaw already tight with anticipation. For the past two years, Tidewater Tumblers had been a safe, predictable second home for Rachel and me because our classes were always taught by April, Master Ray, or Rhonda. Curtis had spent those years solely as an adult student—taught by April, Ray, and the other instructors—and had only recently applied for and received a junior teaching role at Tidewater Tumblers as part of fulfilling his instructional requirement to test for his 3rd Dan today.
 
@@ -880,9 +880,9 @@ She was the only person in the building authorized to wear the solid midnight bl
 
 Then, the side door opened. A flash of solid yellow.
 
-The chatter in the bleachers died so fast it was like someone pulled the plug on the building. Master Scott had arrived.
+The chatter in the second-floor observation deck bleachers died so fast it was like someone pulled the plug on the building. Master Scott had arrived.
 
-He didn’t rush. He didn’t posture. The 7th Dan Regional Director just walked onto the floor like gravity had decided to take a human form.
+He didn’t rush. He didn’t posture. The 7th Dan Regional Director just walked onto the gymnastics spring floor like gravity had decided to take a human form.
 
 "*Cha-ryeot!*" Master Ray snapped the command before anyone else could even inhale.
 
@@ -890,23 +890,23 @@ Heels clicked together. Hands slapped flat against thighs. Silence. Scott return
 
 And then his gaze stopped on the cluster of adult black belts. Specifically, on Curtis, who stood slightly too tall, his chin slightly too high, practically vibrating with the need to be perceived as a lethal weapon.
 
-Scott didn't issue the command to start. He didn't even address the students yet.
+In a live testing environment, the schedule was strictly segmented by belt rank. Every color belt rank—and every belt-with-stripe rank—tested together as a class: first all the White Belts as a class, then the White Belts with a stripe, then the Yellow Belts, the Yellow Belts with a stripe, the Purple Belts, the Purple Belts with a stripe, the Green Belts, the Green Belts with a stripe, and so on through the Brown and Red belt classes. Once every color belt class had been examined, the Junior Black Belt (*Poom*) candidates were presented individually, followed at the very end by the Adult Black Belt (*Dan*) candidates.
 
-Instead, the 7th Dan Regional Director took a deliberate step backward.
+In the rigid, ancient structure of our art, the governing body in Seoul was comprised strictly of 7th, 8th, and 9th Dan Grandmasters. And sitting at the absolute pinnacle was Grandmaster Lee Dong-won, a man who had earned the leadership of the entire organization, making him the only living practitioner permitted to hold the supreme rank of 10th Dan—the same Grandmaster who had personally traveled to this exact gymnastics floor in 1988 to administer April's own 4th *Poom* examination himself.
 
-In the rigid, ancient structure of our art, the governing body in Seoul was comprised strictly of 7th, 8th, and 9th Dan Grandmasters. And sitting at the absolute pinnacle was Grandmaster Lee Dong-won, a man who had earned the leadership of the entire organization, making him the only living practitioner permitted to hold the supreme rank of 10th Dan.
+Master Scott knew the rules of the testing floor hierarchy flawlessly. Normally, as the 7th Dan Regional Director for the Pinnacle karate school chain, Scott was the one in charge of administering the examinations. However, whenever a *Sunhoe Sabomnim* was physically present on a live testing floor, whoever held rank in charge of the test was required by unyielding protocol to formally yield the *Gwonhan*—the supreme jurisdiction of the mat—to the Voice of Korea. And because each rank bracket constituted a distinct official examination on the ledger in Seoul, that formal transfer of authority had to be announced aloud for *every single color belt class*, *every single Poom candidate*, and *every single Dan candidate* presented throughout the day.
 
-Master Scott knew the rules of the hierarchy flawlessly. In a sanctioned testing environment, the *Sunhoe Sabomnim* was the direct proxy for the 10th Dan himself. They outranked everyone in the room.
+Master Ray called the first bracket—the White Belt class—out onto the center of the blue gymnastics spring floor.
 
-Scott turned toward the twenty-two-year-old woman with the silver embroidery. He brought his heels together and executed a deep, formal, ninety-degree bow.
+Scott didn't issue the command to start. Instead, the 7th Dan Regional Director took a deliberate step backward. He turned toward the twenty-two-year-old woman with the silver embroidery, brought his heels together, and executed a deep, formal, ninety-degree bow.
 
-"As tradition dictates," Master Scott announced, his voice carrying clearly across the silent Dojang, "the highest authority on a testing floor is the Voice of Korea. *Sunhoe Sabomnim*, you hold the *Gwonhan*. The floor is yours to administer the examinations."
+"As tradition dictates," Master Scott announced, his voice carrying clearly across the silent Dojang up to the parents in the second-floor bleachers, "the highest authority on a testing floor is the Voice of Korea. *Sunhoe Sabomnim*, you hold the *Gwonhan*. The floor is yours to administer the examinations."
 
-The room went dead silent. A ripple of awe passed through the parents in the bleachers.
+The room went dead silent. A ripple of awe passed through the parents and observers in the upstairs observation deck bleachers.
 
 Down the line, a visible, rigid twitch seized Curtis’s jaw. The 7th Dan Regional Director—a man Curtis worshipped—had just formally and publicly submitted to a woman twelve years his junior, explicitly recognizing her absolute jurisdiction.
 
-April returned Master Scott's bow with absolute, clinical respect. She turned her attention to the lines of anxious students, her posture radiating quiet, immovable strength. The power dynamic in the room wasn't dictated by the men who owned the building; it was dictated by the art itself.
+April returned Master Scott's bow with clinical respect. She turned her attention to the line of anxious White Belts, her posture radiating quiet, immovable strength. The power dynamic in the room wasn't dictated by the men who owned the building; it was dictated by the art itself.
 
 *"Sijak,"* April commanded. Begin.
 
@@ -914,9 +914,17 @@ April returned Master Scott's bow with absolute, clinical respect. She turned he
 
 #### 10:15 AM — The Physicality of Spirit
 
-When the Green Belts with stripes were called forward, the tension in the room spiked. This was the test for the Brown tti—the gateway to the advanced ranks.
+For the next hour and fifteen minutes, the ritual repeated with mathematical, uncompromising precision across the gymnastics spring floor.
 
-Master April stepped to the center of the mat, her clipboard resting against her forearm. She wasn't just standing off to the side; as the *Sunhoe Sabomnim*, she was actively commanding the floor. But even with the silver embroidery of her absolute authority catching the fluorescent light, her presence remained a quiet, steady anchor for the neurodivergent kids in the line.
+As the White Belts with a stripe were presented as a class, Master Scott stepped back, bowed to April, and declared across the silent arena: *"As tradition dictates, the highest authority on a testing floor is the Voice of Korea. Sunhoe Sabomnim, you hold the Gwonhan. The floor is yours to administer the examinations."* When the Yellow Belts lined up, he bowed and announced it again. When the Purple Belts and the Purple Belts with a stripe took the floor, he announced it again. When the solid Green Belts took the floor, he announced it again. With every single repetition echoing up to the second-floor observation deck bleachers, Curtis Maddox's face grew darker and more rigid on the sidelines, forced to listen to his idol publicly yield the floor to the twenty-two-year-old Emissary over and over again.
+
+Then the Green Belts with stripes were called forward onto the spring floor, and the tension in the room spiked. This was our bracket—the test for the solid Brown *tti*, the gateway to the advanced ranks.
+
+Rachel and I stepped out onto the blue gymnastics floor with our class and snapped to attention. Before a single technique could be called, Master Scott once again stepped back, turned toward April, brought his heels together, and executed the formal ninety-degree bow.
+
+"As tradition dictates," Master Scott announced, his voice carrying clearly across the silent Dojang, "the highest authority on a testing floor is the Voice of Korea. *Sunhoe Sabomnim*, you hold the *Gwonhan*. The floor is yours to administer the examinations."
+
+Master April returned his bow and stepped to the center of the mat, her clipboard resting against her forearm. She wasn't just standing off to the side; as the *Sunhoe Sabomnim*, she was actively commanding the floor. But even with the silver embroidery of her absolute authority catching the fluorescent light, her presence remained a quiet, steady anchor for the neurodivergent kids in the line.
 
 April watched us perform Basic Form IV. She didn’t react to mistakes like they were sins. She watched the recovery. She watched the work.
 
@@ -1008,13 +1016,15 @@ Curtis’s hands balled into fists against his thighs. In his twisted, toxic min
 
 #### 11:45 AM — The 3rd Dan Disaster
 
-When the Dan candidates were called, the energy in the room shifted drastically. Master Ray called Master Curtis forward, hoping for a smooth, impressive display to secure the Dojang's reputation.
+After our promotion to Brown Belt, the remaining Brown and Red belt classes completed their examinations, followed by the individual Junior Black Belt (*Poom*) candidates—and for every single class and every single *Poom* candidate presented on the gymnastics spring floor, Master Scott stepped back, bowed to April, and repeated the exact same formal transfer of the *Gwonhan*.
 
-Curtis walked out like he owned the floor. He bowed to the flags. He turned and bowed deeply to Master Scott. And then, in a petty, calculated display of ego, he offered only the most rigid, minimalistic head-jerk to the twenty-two-year-old woman sitting beside him, pointedly ignoring the intricate silver embroidery down her lapel that officially marked her as a *Sunhoe Sabomnim*.
+Finally, when the adult *Dan* candidates were called, the energy in the room shifted drastically. Master Ray called Master Curtis forward, hoping for a smooth, impressive display to secure the Dojang's reputation.
 
-Scott caught the disrespect instantly. Instead of issuing the command to begin, the 7th Dan Regional Director took a deliberate step backward. He turned toward April, brought his heels together, and executed a formal, respectful bow.
+Curtis walked out like he owned the floor. He bowed to the flags. He turned and bowed deeply to Master Scott. And then, in a petty, calculated display of ego, he offered only the most rigid, minimalistic head-jerk to the twenty-two-year-old woman standing beside him, pointedly ignoring the intricate silver embroidery down her lapel that officially marked her as a *Sunhoe Sabomnim*.
 
-"As tradition dictates," Master Scott announced, his voice carrying clearly across the silent Dojang, "the highest authority on a testing floor is the Voice of Korea. *Sunhoe Sabomnim*, you hold the *Gwonhan*. The floor is yours to administer this examination."
+Scott caught the disrespect instantly. Just as he had done for every single color belt class and every single *Poom* candidate all morning, the 7th Dan Regional Director refused to issue the command to begin. Instead, he took a deliberate step backward, turned toward April, brought his heels together, and executed a formal, respectful bow.
+
+"As tradition dictates," Master Scott announced, his voice carrying clearly across the silent Dojang, "the highest authority on a testing floor is the Voice of Korea. *Sunhoe Sabomnim*, you hold the *Gwonhan*. The floor is yours to administer the examinations."
 
 The room went dead silent.
 
@@ -1296,7 +1306,7 @@ I looked at Rachel. The bubble had popped. The reality of how dangerous this roo
 
 **Date:** 1995-08-15 at 16:55 America/New_York
 
-![Ten-year-old Michael and eight-year-old Rachel sitting anchored in the ninety-degree corner of the top row of the wooden observation deck bleachers overlooking the gymnastics floor below as Rachel speaks to Michael.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/bleachers_top_row_anchor_1995.jpg)
+![Ten-year-old Michael and eight-year-old Rachel in their white doboks and Brown belts sitting anchored on the top row at the far right end of the second-floor observation deck bleachers against the late-1970s wood-paneled corner wall overlooking the gymnastics spring floor below.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/bleachers_top_row_anchor_1995.jpg)
 
 #### 4:55 PM — Breaking the Silence
 
@@ -1452,13 +1462,13 @@ We were sitting barefoot on the freezing linoleum, covered in sweat, wearing rid
 
 We didn't stay in the Dojang a second longer than we had to. We shoved our heavy, sweaty sparring gear into our canvas bags and climbed the metal stairs to the second-floor observation deck.
 
-The observation deck was a long, narrow balcony overlooking the massive gymnastics floor. It was lined with three tiers of wooden bleacher seating, but it was a completely hostile design. There were no backrests. To sit on the first or second row meant sitting completely unsupported, forcing your core to constantly balance while kids kicked the wood behind you. I absolutely hated it.
+The observation deck was a long, narrow balcony overlooking the massive gymnastics floor. Because the gymnastics school had originally opened in the late 1970s at 912 Professional Place—several years before Master Ray signed the license to operate the Pinnacle Mastery School of Karate in 1982—the second-floor walls behind the bleachers still had their original 1970s wood panel backing. The balcony was lined with three tiers of bleacher seating, but it was a completely hostile design. There were no backrests on the lower rows. To sit on the first or second row meant sitting completely unsupported, forcing your core to constantly balance while kids kicked the risers behind you. I absolutely hated it.
 
-I led Rachel straight to the top row, navigating all the way to the far right corner.
+I led Rachel straight to the top row, navigating all the way to the far right end of the bleachers.
 
-This was our spot. Up here, my back was pressed flat against the painted cinderblock wall, and my right shoulder was flush against the side wall. It was a perfect, 90-degree corner of solid, unmoving architecture.
+This was our spot. Up here, my back was pressed flat against the 1970s wood panel backing on the wall, and my right shoulder was flush against the wood-paneled corner wall to our right. It was a perfect, 90-degree corner of solid, unmoving architecture overlooking the gymnastics floor below.
 
-Rachel immediately dropped her gym bag and climbed up beside me. She didn't hesitate. She wedged herself perfectly into my right side, turning slightly so she could press her back against my chest. I reached my right arm around her torso, locking my hand securely over her stomach to hold her in place.
+Rachel immediately dropped her gym bag and climbed up beside me. She didn't hesitate. She wedged herself perfectly against my side, turning slightly so she could press her back against my chest. I reached my arm around her torso, locking my hand securely over her stomach to hold her in place.
 
 It used to be just a mechanical workaround to survive loud places like Dad's truck or the mall, but sitting here overlooking the cavernous gym, I realized something had shifted. I loved it. I loved the solid, grounding weight of her against my chest. I loved that out of everyone in the world, I was the structure that made her feel safe. It was comfortable, and my racing heart finally began to slow down.
 
@@ -2466,7 +2476,7 @@ Jessica smiled, then turned to me. "And you got great air on that jump today, Mi
 
 We piled into Aunt Janet's station wagon and made the short drive to Tidewater Tumblers.
 
-The facility was massive. The front half of the warehouse-sized building was dedicated entirely to the gymnastics and dance programs, filled with the constant, echoing sounds of spring floors, chalk-dusted uneven bars, and the heavy thuds of dismounts. Tucked all the way in the back of the building, separated by a set of heavy double doors, was the martial arts dojang.
+The facility was massive. Originally opened as a gymnastics school in the late 1970s at 912 Professional Place before adding its licensed Pinnacle Mastery School of Karate branch in 1982, the front half of the warehouse-sized building was dedicated entirely to the gymnastics and dance programs, filled with the constant, echoing sounds of spring floors, chalk-dusted uneven bars, and the heavy thuds of dismounts. Tucked all the way in the back of the building, separated by a set of heavy double doors, was the martial arts dojang.
 
 Because our class didn't start until five o'clock, Rachel and I had a heavily established, three-hour waiting routine.
 
@@ -2474,13 +2484,13 @@ We walked into the main lobby with the girls, the blast of air conditioning hitt
 
 Rachel and I bypassed the floor entirely and headed for the metal stairs.
 
-We climbed up to the second-floor observation deck, a long stretch of aluminum bleachers that overlooked the entire gymnastics training area. We walked past the clusters of waiting parents and headed straight for the top row, making our way to the absolute furthest right corner of the deck.
+We climbed up to the second-floor observation deck, a long stretch of bleachers backed by late-1970s wood paneling that overlooked the entire gymnastics training area below. We walked past the clusters of waiting parents and headed straight for the top row, making our way to the absolute furthest right end of the bleachers.
 
 It was our designated spot.
 
-I sat down first, sliding all the way over until my left shoulder and back were pressed firmly into the solid, ninety-degree inside corner of the drywall. It provided the perfect physical anchor. Rachel immediately climbed up onto the bleacher next to me and sat on my right.
+I sat down first, sliding all the way over until my back and shoulder were pressed firmly into the solid, ninety-degree inside corner of the 1970s wood-paneled wall at the far right end of the top row. It provided the perfect physical anchor. Rachel immediately climbed up onto the top row of the bleachers next to me.
 
-She didn't hesitate. She tucked her knees up slightly, leaned her weight heavily against my right side, and wrapped her arm around my stomach. I rested my arm over her shoulders, pulling her close into a secure, comfortable cuddle.
+She didn't hesitate. She tucked her knees up slightly, leaned her weight heavily against my side, and wrapped her arm around my stomach. I rested my arm over her shoulders, pulling her close into a secure, comfortable cuddle.
 
 Down below, the two o'clock buzzer blared through the facility.
 
@@ -2744,7 +2754,7 @@ Climbing required us to lift our knees, and lifting our knees required us to eng
 
 Every single step was an absolute, agonizing chore. I had to grab the cold metal handrail with both hands and pull my upper body weight upward, dragging my heavy legs up one step at a time to keep my stomach from violently seizing. Beside me, Rachel was doing the same, her face completely drained of color. She was taking tiny, shuddering breaths, terrified to expand her lungs as she painstakingly dragged her bare feet up the metal treads beside me.
 
-It felt like it took an eternity, but we finally reached the absolute top row of the wooden bleachers, navigating all the way to our designated sanctuary in the far right corner. My back hit the painted cinderblock, and my right shoulder pressed flush against the side wall.
+It felt like it took an eternity, but we finally reached the absolute top row of the bleachers, navigating all the way to our designated sanctuary at the far right end. My back hit the 1970s wood panel backing on the wall, and my shoulder pressed flush against the wood-paneled corner wall.
 
 Normally, this was the part of the routine where Rachel would wedge herself into the space next to my right side. But today, the baseline was completely shattered.
 
@@ -2792,7 +2802,7 @@ Normally, that sound was our starter pistol. It was the cue for Rachel and me to
 
 But tonight, we didn't move an inch.
 
-I stayed firmly planted against the cold cinderblock wall in the top corner of the observation deck. Rachel was completely curled up in my lap, her knees pulled tight against my chest. She was weeping into the collar of my *dobok*, her small frame shuddering with every breath. I kept my arms locked tightly around her, resting my chin on top of her head. My leg was entirely numb from the circulation being cut off, and the localized, bruised ache in my stomach throbbed with every heartbeat, but I wasn't letting her go.
+I stayed firmly planted against the 1970s wood-paneled corner wall on the top row at the far right end of the observation deck bleachers. Rachel was completely curled up in my lap, her knees pulled tight against my chest. She was weeping into the collar of my *dobok*, her small frame shuddering with every breath. I kept my arms locked tightly around her, resting my chin on top of her head. My leg was entirely numb from the circulation being cut off, and the localized, bruised ache in my stomach throbbed with every heartbeat, but I wasn't letting her go.
 
 Down below, the gymnastics floor rapidly emptied out.
 
@@ -10072,6 +10082,8 @@ I took a deep, shaky breath, nodding. *Open door. Merry Christmas. Light hug. Br
 
 **Date:** 1999-12-25 at 12:00 America/New_York
 
+![Fourteen-year-old Michael and fourteen-year-old Bonnie Reed in her gray drumset sweatshirt sharing a fierce deep-pressure Christmas Day 1999 hug in front of the glowing Christmas tree and brick fireplace at 1852 Delaney Street while Ashley Raybourn smiles with her yellow disposable camera.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_bonnie_hug.jpg)
+
 #### 12:00 PM — The First Crush
 
 At exactly noon, the doorbell rang.
@@ -10230,7 +10242,7 @@ Mom pulled the car up to the curb, and I handed Ashley the stack of wrapped gift
 
 "Merry Christmas, Michael. Merry Christmas, Rachel!" Ashley cheered, hopping out of the car. She waved as she walked up her driveway, officially clocking out of Sentinel duty so she could spend the rest of Christmas Day with her own family.
 
-As Mom steered the sedan away from Rich Court and merged onto the main road, Tom, Ellen, Jessica, Michael, and Rachel officially headed to Grandma Loretta's house to
+As Mom steered the sedan away from Rich Court and merged onto the main road, Tom, Ellen, Jessica, Michael, and Rachel officially headed to Grandma Loretta's house to survive the afternoon holiday gauntlet.
 
 ***
 
