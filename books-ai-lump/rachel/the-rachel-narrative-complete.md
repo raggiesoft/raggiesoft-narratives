@@ -6006,7 +6006,7 @@ Rachel reached her hand out across the pillow wall, finding mine. We laced our f
 
 **Date:** 1995-08-27 at 14:30 America/New_York
 
-![Michael and Rachel resting on the living room pull-out sofa bed holding hands over the pillows while the family dogs Baby and Archie lie on guard beside the floor mattress and Uncle Jim reads in the armchair.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/canine_guard_sanctuary_1995.jpg)
+![Michael and Rachel resting on the living room pull-out sofa bed holding hands over the pillows while their purebred black Labs—massive Great Dane-sized Baby and average-sized Archie—lie on guard beside Jessica's floor mattress and Uncle Jim reads in the armchair.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/canine_guard_sanctuary_1995.jpg)
 
 #### 2:30 PM — The Canine Guard
 
@@ -7476,7 +7476,7 @@ I bumped my shoulder gently against the pillows, matching her brilliant smile. "
 
 **Date:** 1999-05-14 at 15:40 America/New_York
 
-![Fourteen-year-old Michael with his bass drum mallets, fourteen-year-old Ashley Raybourn with her snare drumsticks, and twelve-year-old Rachel with her percussion mallets standing in a tight three-person perimeter in the Morrison Middle School band room.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/morrison_band_room_perimeter_1999.jpg)
+![Eighth-grade percussionists Michael with his concert bass drum mallets, Ashley Raybourn with her snare drumsticks, and Bonnie Reed with her percussion mallets standing together in the Morrison Middle School eighth-grade band room.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/morrison_band_room_perimeter_1999.jpg)
 
 #### 3:40 PM — The Friday Commute
 
@@ -8045,6 +8045,8 @@ I pressed my foot on the gas pedal, the car lurching forward onto the scenic tra
 ### Part 3: Josephine’s and the Ghost & The Translation in the Grand Hall
 
 **Date:** 1999-05-15 at 12:30 America/New_York
+
+![Inside a corner booth at Josephine's ice cream parlor at Brewster Gardens with waffle-cone bowls on the table, fourteen-year-old Ashley Raybourn explains the 1995 history across the table while fourteen-year-old Bonnie Reed sits beside Michael and presses her hand firmly onto his knee in grounding solidarity.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/josephines_ice_cream_booth_1999.jpg)
 
 #### 12:30 PM — Josephine’s and the Ghost
 
@@ -9250,7 +9252,7 @@ The house was fractured, and our older sister was miles away in a hospital bed w
 
 **Date:** 1999-11-27 at 08:00 America/New_York
 
-![Fourteen-year-old Michael and twelve-year-old Rachel sitting under a patchwork quilt in pajamas holding hands as their dogs Baby and Archie rest across their shins and their father Tom checks in from the bedroom doorway.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/november_1999_pack_bed_vigil.jpg)
+![Fourteen-year-old Michael and twelve-year-old Rachel sitting under a patchwork quilt in pajamas holding hands as their purebred black Labs—massive Great Dane-sized Baby and average-sized Archie—rest on the bed and their father Tom checks in from the bedroom doorway.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/november_1999_pack_bed_vigil.jpg)
 
 #### 8:00 AM — The Daytime Warden
 
@@ -10582,7 +10584,7 @@ She cracked her knuckles, pushed her tinted glasses up her nose, and turned back
 
 **Date:** 1999-12-25 at 22:30 America/New_York
 
-![Christmas night 1999 in the Delaney Street living room as Jessica in her manual wheelchair holds Michael's hand beside the illuminated Christmas tree while Rachel and Ashley sit on the pull-out sofa bed with Archie and Baby resting on the carpet.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_living_room_fortress.jpg)
+![Christmas night 1999 in the Delaney Street living room as Jessica in her manual wheelchair holds Michael's hand beside the illuminated Christmas tree while Rachel and Ashley sit on the pull-out sofa bed with their purebred black Labs Baby and Archie resting on the carpet.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_living_room_fortress.jpg)
 
 By 10:30 PM, the acoustic assault of the extended family finally began to recede.
 
@@ -13472,7 +13474,7 @@ I slid over and put my arm firmly around my kid sister, pulling her securely aga
 
 **Date:** 2001-08-18 at 08:30 America/New_York
 
-![Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their loyal dogs Archie and Baby.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg)
+![Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their purebred black Labs Baby and Archie.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg)
 
 #### 8:30 AM — The Elephant in the Room
 
