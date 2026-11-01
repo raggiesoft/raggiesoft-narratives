@@ -24,7 +24,7 @@ Ten years ago, she had been a Tidewater Tumblers kid.
 
 She remembered the smell of the chalk dust, the bright blue spring floors, and the upbeat pop music playing over the speakers while she practiced her back handsprings and vault routines. She remembered feeling so safe, so strong, and so proud in that building under Master Ray Shackford and Master April.
 
-And Curtis Maddox had started out as an adult student here, taught by April, Ray, and the other instructors—only recently applying for and receiving a junior teaching role as part of getting ready to test for his 3rd Dan.
+And Curtis Maddox had started out as an adult student in the network, taught by April, Ray, and the other instructors. Under curriculum rules, Junior Instructors started teaching just before they tested for 2nd Dan—and Curtis had served as the Junior Instructor at Tidewater Tumblers' Virginia Beach location for nearly two years before only recently rotating to the Chesapeake location on Thursdays ahead of his 3rd Dan test.
 
 A fresh wave of nausea rolled over her, forcing her to roll down the driver's side window to let the cold, wet air hit her face.
 

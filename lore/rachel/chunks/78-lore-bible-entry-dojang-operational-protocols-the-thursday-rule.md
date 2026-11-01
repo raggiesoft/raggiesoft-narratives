@@ -1,8 +1,10 @@
 # Lore Bible Entry: Dojang Operational Protocols & The Thursday Rule
 
-## The Master Ray Factor
+## The Master Ray Factor & The Chesapeake Rotation
 
-- **Tuesday vs. Thursday:** Stepping Drills *never* happen on Tuesdays. Master Ray is physically present in the facility, and his discovery of the unsanctioned Iron Shirt rituals would mean immediate termination and legal liability for Curtis. Thursdays are Curtis's domain, granting him the autonomy to run the floor how he sees fit.
+- **From Virginia Beach to Chesapeake:** Under curriculum rules, Junior Instructors begin teaching just before they test for 2nd Dan. Since 1993, Curtis Maddox had served as the Junior Instructor at Tidewater Tumblers' **Virginia Beach location**, only recently rotating to the **Chesapeake flagship location (`912 Professional Place`)** ahead of his August 1995 3rd Dan exam (which is why Michael and Rachel never encountered him as their instructor during their first two years at Chesapeake).
+
+- **Tuesday vs. Thursday:** Because Curtis had been a known student since 1988 and had passed a clean criminal background check when entering the Junior Instructor program, Master Ray Shackford trusted him completely. Stepping Drills *never* happen on Tuesdays when Master Ray is physically present in the Chesapeake building, because Ray's discovery of the unsanctioned Iron Shirt rituals would mean immediate termination for Curtis. However, Ray takes Thursdays off, mistakenly leaving a 2nd Dan junior instructor with unsupervised autonomy over the Chesapeake floor behind closable lobby blinds.
 
 ## The Russian Roulette of the Blinds
 

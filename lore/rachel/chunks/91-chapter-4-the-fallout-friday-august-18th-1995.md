@@ -160,7 +160,7 @@ Sergeant Gable and Detective Harris were standing just outside the threshold, ho
 
 Harris stepped forward, studying the forty-six-year-old martial arts master carefully. "Mr. Shackford. Megan told us you told her to call 9-1-1 and preserve every record in the building."
 
-"I did," Ray answered, his jaw trembling with barely contained rage and remorse. "Curtis Maddox was an adult student here—April, the other instructors, and I taught him for years. He only recently applied for and received a junior teaching role on Thursdays as part of preparing to test for his 3rd Dan. If I had had any idea he was running sadistic conditioning drills behind closed blinds—let alone stepping on children—I would have thrown him out of this building myself."
+"I did," Ray answered, his jaw trembling with barely contained rage and remorse. "Curtis Maddox was an adult student here—April, the other instructors, and I taught him for years. Junior Instructors start teaching just before they test for 2nd Dan, and when I ran his Virginia State Police criminal background check back then, it came back completely clean because I had no idea he was running a secret offsite club with consenting adults. He had been the Junior Instructor at our Virginia Beach location, and only recently started coming over here to the Chesapeake location on Thursdays ahead of his 3rd Dan test. Because I knew him, I trusted him—and I never should have left a 2nd Dan junior instructor unsupervised on Thursdays behind closed blinds. If I had had any idea he was running sadistic conditioning drills—let alone stepping on children—I would have thrown him out of this building myself."
 
 "Do you know how badly those children were hurt, Mr. Shackford?" Harris asked grimly.
 

@@ -24,6 +24,6 @@
 
 ## IV. The Blindness and The Ledger
 
-- **Ray's Cowardice:** Master Ray is fully aware that his head instructor is out of uniform, but he says nothing. Ray is intimidated by Curtis and doesn't want to risk a confrontation over a piece of embroidered cloth, once again proving his gross negligence as a franchise owner.
+- **Ray's Blind Spot:** Because Curtis had served as a Junior Instructor at Tidewater Tumblers' Virginia Beach satellite location since just before his 2nd Dan test and only recently rotated to the Chesapeake floor on Thursdays (when Ray is off) ahead of his 3rd Dan exam, Ray never saw Curtis's unpatched Thursday training uniform—highlighting the fatal danger of Ray leaving a 2nd Dan junior instructor unsupervised.
 
 - **April's Evidence:** Just like the unauthorized blue trim on his lapel, the missing patch does not go unnoticed by the *Sunhoe Sabomnim*. When April stands on the testing floor, she sees exactly what Curtis is doing. It is yet another massive, structural violation of *Seonduwon* protocol that she quietly files away into the devastating excommunication dossier she is building against him.

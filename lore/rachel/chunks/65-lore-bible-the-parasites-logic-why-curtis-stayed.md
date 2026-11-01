@@ -8,15 +8,15 @@ Curtis’s ultimate source of power and ego-validation wasn't the official Dojan
 
 - If Curtis left to join a smaller, unknown gym, his supply of potential disciples would instantly dry up. He stayed because Master Ray’s massive marketing budget inadvertently funded his cult recruitment.
 
-## 2. The Perfect Host (Master Ray’s Negligence)
+## 2. The Misplaced Trust (How Curtis Slipped Past Master Ray’s Vetting)
 
-Predators require specific environments to thrive, and Master Ray provided the absolute perfect cover.
+Predators require specific environments to thrive, and Curtis exploited his six-and-a-half-year history inside the Tidewater Tumblers network to lull Master Ray Shackford into a false sense of security.
 
-- Ray was a businessman who cared more about enrollment checks and insurance liability than the day-to-day philosophical purity of the *Art*.
+- **The Clean 1993 Background Check:** Under curriculum protocol, Junior Instructors begin their teaching rotation just before they test for 2nd Dan. When Curtis entered the Junior Instructor program in 1993, Master Ray ran a standard Virginia State Police criminal background check. Because Curtis's offsite *Iron Shirt Underground* consisted exclusively of consenting adult Red and Black belts bound by the "First Rule" of silence—with zero police reports, arrests, or paper trails—the background check came back 100% clean.
 
-- Ray took Thursdays off, giving Curtis complete, unsupervised autonomy over the building.
+- **The Virginia Beach Buffer (`1993–Summer 1995`):** For nearly two years, Curtis served as the Junior Instructor at Tidewater Tumblers' **Virginia Beach satellite location**, while Michael and Rachel trained safely at the **Chesapeake headquarters (`912 Professional Place`)** under Master Ray and Master April.
 
-- Curtis knew that if he transferred to another Dojang run by a stricter, more observant Master, his brutal conditioning drills and closed-blinds policies would be shut down immediately. Ray’s willful blindness was a luxury Curtis could not afford to lose.
+- **The Chesapeake Transfer & The Thursday Vacuum (`Summer 1995`):** Ahead of his August 1995 **3rd Dan** examination, Curtis was rotated to the Chesapeake headquarters to log lead-instructional hours on Thursdays. Because Ray had known Curtis as a student since 1988 and had received zero complaints from his time at the Virginia Beach branch, Ray trusted him implicitly—taking Thursdays off and handing a 2nd Dan junior instructor unsupervised autonomy over a combined floor of adults and young children behind closable lobby blinds.
 
 ## 3. The Geographic Prestige
 

@@ -14,7 +14,9 @@ These are the absolute, final decrees rendered at the conclusion of an examinati
 
 - **Bulhapgyeok (불합격):** Fail / Rejected. A devastating decree. It means the student has not only failed the physical mechanics but has failed the philosophical requirements of the rank.
 
-- **Pamyun (파문):** Excommunication / Banishment. The ultimate, nuclear verdict. This is the exact decree handed down in November to erase Master Ray and Master Curtis from the international registry. It translates to being officially cast out of the martial lineage.
+- **Pamyun (파문):** Excommunication / Banishment. The ultimate, nuclear verdict. This is the exact decree handed down in November to draw a heavy black line through Curtis Maddox's name in the international registry, stripping his *Dan* ranks *ab initio* and casting him out of the martial lineage forever.
+
+- **Gyun-chaek & Kwanjangnim Gwonhan Park-tal (견책 / 관장님 권한 박탈):** Institutional Censure & Revocation of Headmaster Authority. Handed down to Master Ray Shackford in November: because Ray had run a clean criminal background check on Curtis, had zero knowledge of the offsite *Iron Shirt Underground*, and acted with immediate honor to protect the evidence, pay Drew's emergency room costs, and testify against Curtis in court, Ray is spared *Pamyun* and retains his personal *Dan* history, but permanently surrenders his *Dojang* charter and his license to teach or test students for having left a 2nd Dan junior instructor unsupervised on Thursdays.
 
 ## II. Floor Commands (명령 - Myeongryeong)
 

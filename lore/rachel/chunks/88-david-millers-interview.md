@@ -114,11 +114,11 @@ Carter stopped writing. He stared at David, processing the sheer level of sociop
 
 David shook his head, offering a dark, hollow laugh.
 
-"Because of Master Ray," David answered simply. "Ray owns the facility. On Tuesdays, he is physically in the building. Sometimes he's in the office, sometimes he's walking the floor. If Ray walked in and saw Curtis using his students as human stepping stones—especially the kids—he'd lose his mind. He doesn't know a thing about the warehouse, and he doesn't know a thing about the adult conditioning we do. If he knew, he'd fire Curtis to protect his insurance policy."
+"Because of Master Ray," David answered simply. "Ray owns the facility. Under our curriculum rules, Junior Instructors start teaching just before they test for 2nd Dan. Curtis had been the Junior Instructor at Tidewater Tumblers' Virginia Beach location since just before his 2nd Dan test, and he only recently started coming over to the Chesapeake location ahead of his 3rd Dan exam. Because Ray has known Curtis since he was a white belt and ran a background check on him that came back clean—since none of us in the offsite adult group ever went to the cops—Ray trusted him. On Tuesdays, Ray is physically in the Chesapeake building. Sometimes he's in the office, sometimes he's walking the floor. If Ray walked in and saw Curtis using his students as human stepping stones—especially the kids—he'd lose his mind. He doesn't know a thing about the warehouse, and he doesn't know a thing about the adult conditioning we do. If he knew, he'd fire Curtis on the spot."
 
 David leaned back in his chair, completely exhausted.
 
-"But Thursdays..." David murmured. "Ray takes Thursdays off. On Thursdays, Curtis is the only master in the building. He closes those lobby blinds, and the room belongs to him. He waited until Thursday because he knew there wasn't a single person in that building with the authority to stop him."
+"But Thursdays..." David murmured. "Ray takes Thursdays off. On Thursdays, Curtis is the only instructor in the Chesapeake building. He closes those lobby blinds, and the room belongs to him. He waited until Thursday because he knew there wasn't a single person in that building with the authority to stop him."
 
 Detective Carter made another note on his yellow legal pad, drawing a heavy box around the word *Thursday*.
 
@@ -312,7 +312,7 @@ Carter pulled it out and flipped it open. At first glance, it looked like a stan
 
 Harris stepped over, shining his Maglite onto the pages.
 
-The top of the page was underlined three times: The Ragsdales. It was a meticulous, two-year ledger of every perceived slight, every minor imperfection, and every moment of "disrespect" from Michael and Rachel. No other students were mentioned in this section. It was entirely dedicated to the siblings.
+The top of the page was underlined three times: The Ragsdales. It was a meticulous ledger of every perceived slight, every minor imperfection, and every moment of "disrespect" from Michael and Rachel—starting with watching them pass their quarterly belt tests on the Chesapeake regional floor over the past two years, and intensifying sharply over the past few weeks after Curtis rotated from the Virginia Beach branch into the Chesapeake Thursday schedule ahead of his 3rd Dan test. No other students were mentioned in this section. It was entirely dedicated to the siblings.
 
 The text was physically disturbing to look at. The pen had been pressed so hard into the paper that it tore through in places. It was a torrential stream of venom, filled with vicious profanity and derogatory slurs. He detailed his absolute disgust for Michael's physical limitations, and his seething hatred for Rachel's silent stoicism.
 

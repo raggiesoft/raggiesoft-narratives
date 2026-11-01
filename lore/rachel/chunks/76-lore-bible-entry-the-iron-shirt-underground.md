@@ -10,9 +10,9 @@
 
 ## The "First Rule" & Dojang Dynamics
 
-- **Plausible Deniability:** Master Ray (the owner) is a businessman concerned with insurance and reputation. If he knew about this barefoot Fight Club, he would fire Curtis immediately. The Iron Shirts know this and actively protect the secret.
+- **How It Slipped Past Master Ray's Background Check:** Under curriculum rules, Junior Instructors start teaching just before they test for 2nd Dan. When Curtis entered the Junior Instructor program in 1993 and was assigned to Tidewater Tumblers' **Virginia Beach satellite location**, Master Ray Shackford ran a standard Virginia State Police criminal background check. Because the *Iron Shirt Underground* was an unrecorded, offsite club of consenting adults who viewed absorbing pain in silence as a badge of honor—with zero police reports, arrests, or paper trails—the background check came back 100% clean. If Ray had ever learned about this barefoot Fight Club, he would have fired Curtis immediately, which is why the Iron Shirts actively protected the secret.
 
-- **The Silent Mafia:** During regular Tuesday and Thursday classes, the Iron Shirts act as a complicit, silent mafia. They communicate in subtle nods and arrogant glances, viewing everyone else—especially children and lower belts—as weak.
+- **The Silent Mafia:** When Curtis rotated from the Virginia Beach branch to the **Chesapeake headquarters (`912 Professional Place`)** ahead of his August 1995 3rd Dan test, several of his adult Iron Shirt disciples followed him to the Tuesday and Thursday evening classes. During regular classes, the Iron Shirts act as a complicit, silent mafia, communicating in subtle nods and arrogant glances and viewing everyone else—especially children and lower belts—as weak.
 
 - **The Trap of Complicity:** When Curtis applies these extreme rituals to kids on the Dojang floor (like the leg-lift drill), the adults are paralyzed. If they step out of line to stop him, they have to explain *how* they know what he is doing, which violates the First Rule and exposes the entire cult. Their addiction to the secret group outweighs their moral obligation to protect children.
 
