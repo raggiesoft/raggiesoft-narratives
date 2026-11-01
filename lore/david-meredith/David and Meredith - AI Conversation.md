@@ -1738,7 +1738,7 @@ Here is exactly how the Everetts went from being the "new arrivals" to earning p
 
 - **The Mantle:** Right next to the cousins' school portraits sits a framed photo of Thomas Everett in his pristine Navy dress uniform. The Delaney parents display it with the exact same immense pride as if he were their own brother or son.
     
-- **The Candid Hallway:** The hallway leading to David and Kate’s rooms features a massive corkboard of candid photos. Dead center is a Polaroid of Hannah and David asleep in his bed, their heads resting near each other, looking completely at peace. It is the ultimate visual proof of her status as the Trusted Anomaly.
+- **The Candid Hallway:** The hallway leading to David and Kate’s rooms features a massive corkboard of candid photos. Dead center is an instant photograph of Hannah and David asleep in his bed, their heads resting near each other, looking completely at peace. It is the ultimate visual proof of her status as the Trusted Anomaly.
     
 - **The Deployment Anchor:** During the months Tom was deployed on a ship out of Norfolk, he sent postcards and photos back to Virginia. Those photos aren't tucked in a drawer; they are magnetized to the Delaney refrigerator, a daily reminder to Hannah that she is home, and a daily reminder to the family of the man standing watch across the world.
     
@@ -1800,7 +1800,7 @@ For half of Hannah's freshman year, her father is 9,000 miles away on a classifi
 
 - Connor doesn't know what Diego Garcia is. He doesn't know what a Family Care Plan is. And he certainly doesn't care.
     
-- When Connor begins dating Kate in 2002, he hears the family talk about the months Hannah lived there. He sees the candid Polaroid in the hallway of Hannah and David sleeping in the same bed.
+- When Connor begins dating Kate in 2002, he hears the family talk about the months Hannah lived there. He sees the candid instant photograph in the hallway of Hannah and David sleeping in the same bed.
     
 - Connor’s narcissistic brain filters out all the military context. All he sees is: _David’s girlfriend got to live here, sleep in his bed, and have unrestricted access to the house. Why am I being forced to sit in the living room while a parent watches me?_
     

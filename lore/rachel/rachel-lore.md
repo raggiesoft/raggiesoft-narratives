@@ -727,7 +727,7 @@ The Focus: The day after Labor Day. Jessica and Janette gear up and walk the thr
 The Focus: The transition of the seasons. A professional sweep arrives to clean the front-wall fireplace. Dad establishes the absolute safety perimeter with the fire extinguisher, reinforcing to the pack that the Base Camp is being fortified for the long, cold winter ahead.
 
 
-The Focus: Closure on the Monday War. After weeks of relentless litigation from Mom and Mr. Vance, the legal hammer finally drops. Dad comes home from his shift and shows the pack a local newspaper clipping or polaroid: Tidewater Tumblers has a massive commercial eviction notice on the glass, and the suite is empty. It provides a massive psychological victory for Rachel and Michael—visual proof that the adults kept their promise and the monster’s lair has been completely dismantled.
+The Focus: Closure on the Monday War. After weeks of relentless litigation from Mom and Mr. Vance, the legal hammer finally drops. Dad comes home from his shift and shows the pack a local newspaper clipping or instant photograph: Tidewater Tumblers has a massive commercial eviction notice on the glass, and the suite is empty. It provides a massive psychological victory for Rachel and Michael—visual proof that the adults kept their promise and the monster’s lair has been completely dismantled.
 
 
 The Focus: The first major pack celebration on the floor. It reinforces the pack's absolute reliance on each other and gives Jessica a moment of recognition for her fierce role as the Lead Guard.
@@ -3127,7 +3127,7 @@ The beam of Harris’s flashlight swept across the right wall, and the seasoned 
 
 It was a shrine.
 
-The entire expanse of the drywall was covered in photographs. They were a mix of candid polaroids snapped in the Tidewater Tumblers lobby, official Dojang portrait shots, and photos cut out from the local newspaper's sports section.
+The entire expanse of the drywall was covered in photographs. They were a mix of candid instant photos snapped in the Tidewater Tumblers lobby, official Dojang portrait shots, and photos cut out from the local newspaper's sports section.
 
 Every single photograph was of a female student.
 
@@ -3548,7 +3548,7 @@ For the next thirty minutes, Megan stayed in the doorway, answering every questi
 
 She detailed the exact shape, color, and size of the barefoot bruise she had seen on six-year-old Drew's stomach.
 
-Finally, one of the officers walked in carrying a heavy, black Polaroid camera from the cruiser. The bright, sharp *crack* of the flash illuminated the Dojang as he began photographing the hard floor, the heavy wooden grab bars, and the drawn blinds—documenting the architectural trap Curtis had utilized.
+Finally, one of the officers walked in carrying a heavy, black instant camera from the cruiser. The bright, sharp *crack* of the flash illuminated the Dojang as he began photographing the hard floor, the heavy wooden grab bars, and the drawn blinds—documenting the architectural trap Curtis had utilized.
 
 "Alright, Megan," Sergeant Gable said, closing his notebook with a soft snap. He looked at the pale, exhausted twenty-year-old college student with genuine, professional respect. "You've given us everything we need to lock down this building and start pulling warrants. You don't need to stay here while the crime scene techs arrive. Go home. Try to get some rest."
 

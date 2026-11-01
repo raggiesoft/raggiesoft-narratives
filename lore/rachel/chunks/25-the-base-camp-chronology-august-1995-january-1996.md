@@ -18,7 +18,7 @@ The Focus: The transition of the seasons. A professional sweep arrives to clean 
 
 ## 5. The Foreclosure (Wednesday, October 4, 1995)
 
-The Focus: Closure on the Monday War. After weeks of relentless litigation from Mom and Mr. Vance, the legal hammer finally drops. Dad comes home from his shift and shows the pack a local newspaper clipping or polaroid: Tidewater Tumblers has a massive commercial eviction notice on the glass, and the suite is empty. It provides a massive psychological victory for Rachel and Michael—visual proof that the adults kept their promise and the monster’s lair has been completely dismantled.
+The Focus: Closure on the Monday War. After weeks of relentless litigation from Mom and Mr. Vance, the legal hammer finally drops. Dad comes home from his shift and shows the pack a local newspaper clipping or instant photograph: Tidewater Tumblers has a massive commercial eviction notice on the glass, and the suite is empty. It provides a massive psychological victory for Rachel and Michael—visual proof that the adults kept their promise and the monster’s lair has been completely dismantled.
 
 ## 6. Jessica’s 15th Birthday (Saturday, October 14, 1995)
 

@@ -268,7 +268,7 @@ The beam of Harris’s flashlight swept across the right wall, and the seasoned 
 
 It was a shrine.
 
-The entire expanse of the drywall was covered in photographs. They were a mix of candid polaroids snapped in the Tidewater Tumblers lobby, official Dojang portrait shots, and photos cut out from the local newspaper's sports section.
+The entire expanse of the drywall was covered in photographs. They were a mix of candid instant photos snapped in the Tidewater Tumblers lobby, official Dojang portrait shots, and photos cut out from the local newspaper's sports section.
 
 Every single photograph was of a female student.
 

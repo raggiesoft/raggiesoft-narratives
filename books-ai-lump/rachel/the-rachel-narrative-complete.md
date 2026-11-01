@@ -6964,7 +6964,7 @@ The chill in the air was still there, but it didn't matter anymore. The chimney 
 
 **Date:** 1995-10-04 at 16:00 America/New_York
 
-![Tom Ragsdale showing Michael and Rachel a Polaroid photograph of the evicted, empty Tidewater Tumblers storefront while Ellen, Grandma Loretta, Jessica, and Janette celebrate behind him.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/eviction_polaroid_closure_1995.jpg)
+![Tom Ragsdale holding a small instant photograph angled toward Michael and Rachel so they can see the evicted, empty Tidewater Tumblers storefront while Ellen, Grandma Loretta, Jessica, and Janette celebrate behind them.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b003/eviction_instant_photo_closure_1995.jpg)
 
 #### 4:00 PM — The Wednesday Rhythm
 
@@ -7008,7 +7008,7 @@ Mom let out a sharp, breathless gasp. Her hands flew to her mouth, tears of pure
 
 Dad reached into the white envelope. He didn't pull out a dense legal document. He knew that for an eight-year-old and a ten-year-old, legal jargon meant nothing. They needed visual, undeniable proof.
 
-He pulled out a glossy Polaroid photograph and leaned forward, holding it out over the foot of the bed so we didn't have to engage our cores to see it.
+He pulled out a glossy instant photograph and leaned forward, holding it out over the foot of the bed so we didn't have to engage our cores to see it.
 
 "Look," Dad commanded softly.
 
@@ -7016,13 +7016,13 @@ He pulled out a glossy Polaroid photograph and leaned forward, holding it out ov
 
 #### 4:25 PM — Visual Proof
 
-I focused my eyes on the square photograph.
+I focused my eyes on the square instant photograph.
 
 It was a perfectly centered shot of the commercial building down on Professional Place. But it didn't look like the regional testing hub anymore.
 
 The large, backlit "Tidewater Tumblers" sign that used to hang over the door had been completely removed, leaving nothing but a dirty, rectangular shadow on the brick facade. The glass windows, which used to proudly display the Pinnacle Mastery class schedules and the martial arts decals, were completely bare.
 
-Taped directly to the center of the front glass door was a massive, fluorescent orange piece of paper. Even from the Polaroid, the bold, block letters were unmistakable: **NOTICE OF EVICTION AND SEIZURE OF ASSETS.**
+Taped directly to the center of the front glass door was a massive, fluorescent orange piece of paper. Even from the small instant photo, the bold, block letters were unmistakable: **NOTICE OF EVICTION AND SEIZURE OF ASSETS.**
 
 But the most powerful detail of the photograph was what was missing. Through the bare glass windows, I could see the interior of the suite. The heavy canvas punching bags were gone. The training mirrors had been stripped from the walls. The gymnastics floor where the regional belt tests were held was completely barren.
 
@@ -7034,7 +7034,7 @@ I stared at the photograph, the reality of it hitting my chest like a physical s
 
 I turned my head to the left, looking over the pillow barrier.
 
-Rachel was staring at the Polaroid. Her dark eyes were wide, tracing the empty concrete floor where she had lost her voice. She stared at the bright orange eviction notice.
+Rachel was staring at the instant photograph. Her dark eyes were wide, tracing the empty concrete floor where she had lost her voice. She stared at the bright orange eviction notice.
 
 For the last six weeks, her nervous system had been trapped in a state of hyper-vigilant terror, convinced that the world outside the living room was still operating exactly as it had on Thursday night. But looking at the photograph, the final, terrifying anchor of her PTSD was cleanly severed.
 
@@ -7056,9 +7056,9 @@ Mom walked up to Dad and threw her arms around his neck, burying her face in his
 
 "Locked forever," Dad agreed, kissing the side of her head.
 
-Dad pulled back and handed the Polaroid to Jessica. "Jess, take this. Pin it to the corkboard in the kitchen. Right next to the emergency numbers. I want it visible."
+Dad pulled back and handed the instant photo to Jessica. "Jess, take this. Pin it to the corkboard in the kitchen. Right next to the emergency numbers. I want it visible."
 
-Jessica took the photograph like it was a war trophy. She marched into the galley kitchen, retrieved a red push-pin, and drove it firmly through the top of the Polaroid, locking the image of the empty, defeated suite onto the wall.
+Jessica took the photograph like it was a war trophy. She marched into the galley kitchen, retrieved a red push-pin, and drove it firmly through the top border of the instant photograph, locking the image of the empty, defeated suite onto the wall.
 
 On the sofa bed, Rachel reached her pale hand across the pillows. I laced my fingers through hers.
 
