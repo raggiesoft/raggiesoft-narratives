@@ -9406,6 +9406,8 @@ She opened her eyes, forced her hands back onto the plastic keyboard, and contin
 
 **Date:** 1999-12-24 at 08:30 America/New_York
 
+![Nineteen-year-old Jessica with bilateral lower-leg orthopedic casts resting on the deployed floral-print pull-out sofa bed alongside fourteen-year-old Michael and twelve-year-old Rachel in the 1852 Delaney Street living room, with her manual wheelchair parked beside the bed and purebred black Labs Baby and Archie on the dark blue carpet.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/december_1999_jessica_sofa_bed_base_camp.jpg)
+
 #### 8:30 AM — The Accessibility Calculation
 
 The morning routine at 1852 Delaney Street operated with rigid, mechanical precision.
@@ -13314,11 +13316,11 @@ I closed my eyes, letting the safety of the perimeter finally pull my exhausted 
 
 The heavy trunk of the sedan slammed shut, the metallic thud echoing over the roar of jet engines at the Norfolk International Airport drop-off curb.
 
-"Now remember, you two," Mom said, pulling the handle of her rolling suitcase up. "No visitors. Except maybe your father, if he wants to stop by."
+"Now remember, you two," Mom said, pulling the handle of her rolling suitcase up. "No visitors while I'm in San Francisco. And absolutely no throwing parties. Except maybe your father, if he wants to stop by."
 
-"We know," Rachel huffed, her hands shoved deep into the pockets of her jacket. We had gone over this exact list of rules for the millionth time since Mom announced her two-week work trip.
+"We know," Rachel huffed, her hands shoved deep into the pockets of her jacket. We had gone over this exact list of rules for the millionth time since Mom announced her two-week corporate training trip to San Francisco—not that either of us would ever want to throw a party anyway.
 
-"Don’t worry, Mom. No visitors," I said, leaning against the side of the car. "Rachel and I will be fine. And we probably won’t see Dad. He never seems to have time for us beyond demanding that you hold up your end of the bargain."
+"Don’t worry, Mom. No visitors, and definitely no parties," I said, leaning against the side of the car. "Rachel and I will be fine. And we probably won’t see Dad. He never seems to have time for us beyond demanding that you hold up your end of the bargain."
 
 The "bargain" was the nightmare hanging over our heads. The legal separation paperwork had been filed back in August, and the negotiated terms were a death sentence to our ecosystem: Dad would take Rachel, and Mom would take me. They were legally going to split us up. The only thing keeping Rachel in the house right now was the logistical reprieve that Dad was still renting a single room and had nowhere to put her.
 
@@ -13384,7 +13386,7 @@ The choice seemed easy: one of the places had a smaller line, and the best part?
 
 We grabbed our tray, loading it up with a pair of hot dogs, the massive root beer floats, and a giant, salty soft pretzel to split down the middle. I handed the cashier the twenty-dollar bill I had brought, slipping the change—a five and three crumpled singles—into my pocket.
 
-We found a quiet table near the edge of the food court balcony, facing away from the center of the room. Down below, the mall was a chaotic blur of echoing voices, bright neon signs, and rushing crowds. My brain started to buzz with the noise, the sheer volume of data threatening to overwhelm my system, but then Rachel leaned over, bumping her shoulder firmly against mine to grab her half of the pretzel. That simple, heavy pressure grounded me instantly.
+We found a quiet table near the edge of the food court balcony, facing away from the center of the room. Down below in the central atrium of Emerald Creek Mall, twin chrome banks of escalators carried a steady stream of Friday afternoon shoppers up and down between the first and second floors. High overhead, bouncing off the vaulted skylights above the concourse, the mall's PA speakers were playing a nostalgic 1980s New Wave radio block—specifically Bobby Vanguard's 1982 synth-pop staple *"Moving Up the Escalator."* The bouncy, driving analog synthesizer hook and lyrics about gliding up the gleaming escalators of the modern suburban mall and watching the neon storefronts drift by provided an unexpectedly fitting soundtrack to the chaotic blur of echoing voices, bright neon signs, and rushing crowds below. My brain started to buzz with the noise, the sheer volume of data threatening to overwhelm my system, but then Rachel leaned over, bumping her shoulder firmly against mine to grab her half of the pretzel. That simple, heavy pressure grounded me instantly.
 
 After we finished our food, my sister really wanted to show me the stores. But thankfully, she had zero interest in the brightly lit, heavily perfumed clothing boutiques or the endless racks of shoes—the smells and the glaring lights were too abrasive for either of us. Instead, she steered me directly toward the large bookstore at the end of the concourse. The quiet, carpeted aisles were an absolute relief. We spent twenty minutes just standing shoulder-to-shoulder in the science fiction section, reading the backs of paperbacks and talking about the predictable, structured worlds inside them instead of the one falling apart at home.
 
@@ -13502,7 +13504,7 @@ For the first time in over a year, I didn't wake up bracing for the sound of our
 
 "Morning," I whispered back, letting my head fall back onto the pillow.
 
-We lay there in the quiet for a few more minutes, letting our brains slowly boot up and process the massive shift in reality. It was Saturday. Mom was in another state. Dad had moved into his rented room two days ago. For the next two weeks, we had absolute, unsupervised control over our physical environment.
+We lay there in the quiet for a few more minutes, letting our brains slowly boot up and process the massive shift in reality. It was Saturday. Mom was three thousand miles away in San Francisco for two weeks of training. Dad had moved into his rented room two days ago. For the next two weeks, we had absolute, unsupervised control over our physical environment.
 
 "You know," I said quietly, staring up at the popcorn ceiling, "if this was a movie, or if we were normal teenagers, there’s a whole script for what we are supposed to be doing today."
 

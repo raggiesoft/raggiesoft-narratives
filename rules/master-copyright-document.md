@@ -182,6 +182,8 @@
 |The Who|The Mods|Known for the "Maximum Rock" Tour.|
 |Donna Summer|Gloria Day|Disco/Pop vocalist.|
 |Darlene Love|Darla Vance|Pop/Holiday vocalist.|
+|Robert Hazard (and the Heroes)|Bobby Vanguard (and the Heroes)|1980s Philadelphia New Wave / synth-pop artist.|
+|"Escalator of Life" (1982)|"Moving Up the Escalator" (*"Concourse of Life"*, 1982)|Iconic 1982 New Wave synth-pop anthem about riding the gleaming escalators of the modern suburban shopping mall (featured at **Emerald Creek Mall** in `/books/rachel`).|
 |"All Alone on Christmas"|"Solo on Christmas Eve"|Holiday song.|
 |"The Bitch is Back"|"The Bitch is on the Loose"|Rock song.|
 |Sony Walkman|AudioStar|Portable cassette player.|
