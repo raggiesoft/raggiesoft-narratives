@@ -18080,6 +18080,8 @@ I closed my eyes, listening to the quiet morning sounds of the neighborhood and 
 
 ![Nineteen-year-old Michael kneeling in the sunlit late-summer grass outside his Greenway Court apartment in Norfolk with a gentle hand resting on the neck of his loyal one-eyed black Lab Archie.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b014/greenway_court_archie_walk_2004.jpg)
 
+![Inside the crowded Roper Performing Arts Center lobby in Downtown Norfolk on September 2, 2004, nineteen-year-old Michael stands solo in the ticket line with his heavy black backpack as Delores turns around with an eager smile while her mother Robyn nudges her elbow.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b014/roper_theater_ticket_line_2004.jpg)
+
 #### 8:00 AM — The Last of the Pack
 
 The silence inside Unit A5 was heavy and absolute.
@@ -18280,6 +18282,8 @@ Delores clapped her hands, looking over at me with a bright, energized smile. Th
 
 **Date:** 2004-09-02 at 21:00 America/New_York
 
+![Outside 801 Greenway Court at night beside Robyn's dark blue minivan, Delores pulls nineteen-year-old Michael into a fierce, heavy goodbye hug that tricks his deep-pressure sensory receptors into thinking she is safe.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b014/greenway_court_delores_first_hug_2004.jpg)
+
 The credits began to roll, and the house lights of the Roper Performing Arts Center flickered back on, breaking the heavy, polarized spell of the documentary.
 
 As the crowd slowly started to filter out of the aisles, Robyn stepped down from the row behind us. She gently tapped her daughter's shoulder and offered another one of those quiet, encouraging murmurs.
@@ -18384,6 +18388,8 @@ I hung up the phone. The crushing isolation of the apartment suddenly didn't mat
 
 **Date:** 2006-11-08 at 18:00 America/New_York
 
+![Inside the cramped bedroom of the Westbreeze Apartments in Portsmouth, twenty-one-year-old Michael sits exhausted on the edge of the mattress as Delores leans against the closed bedroom door with a manic, possessive grin announcing her 'surprise' trip.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/westbreeze_the_pitch_2006.jpg)
+
 The walls of the Westbreeze Apartments in Portsmouth were incredibly thin. I was sitting on the edge of the mattress in the small bedroom I shared with Delores, trying to block out the ambient noise of her mother, Robyn, moving around in the kitchen. 
 
 Robyn had welcomed me into their apartment with open arms, and I took that welcome entirely at face value. Because they told me I was welcome, I believed I was welcome. As far as I knew, I was a permanent, equal member of the household. I had absolutely no idea that I wasn't on the lease, or that my complete lack of legal rights made me incredibly vulnerable. To my literal, system-oriented brain, we were simply a family sharing a space. 
@@ -18433,6 +18439,8 @@ I thought it was just a vacation. I had absolutely no idea she was packing for a
 ### The Deception at Churchland Square & Interstate 81
 
 **Date:** 2006-11-11 at 08:30 America/New_York
+
+![In the damp gray morning parking lot of Churchland Square, Michael braces his stiff right leg as he hauls two massive rolling suitcases out of the open liftgate of Robyn's dark blue minivan while Delores watches calculatingly.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b015/churchland_square_suitcases_2006.jpg)
 
 #### 8:30 AM — The Deception at Churchland Square
 
@@ -22296,6 +22304,8 @@ We laid there in the dark, the laughter slowly fading into the heavy, comfortabl
 ### Part 1: The Morning Deployment
 
 **Date:** 2006-11-20 at 06:00 America/Los_Angeles
+
+![Inside the Portland hotel room at 6:00 AM, Rachel hooks her arm securely around Michael's waist and rests her chin on his shoulder at the mahogany desk as Michael works on his 17-inch laptop ('The Extraction Rig').]({{CDN}}/raggiesoft-books/images/scenes/rachel/b016/portland_hotel_extraction_rig_2006.jpg)
 
 The sharp, rhythmic electronic beeping of the hotel alarm clock shattered the heavy, insulated silence of the third-floor room.
 
@@ -27872,7 +27882,7 @@ She set her tray down, sat across from me, and held out her hand.
 
 "Michael," I replied, shaking her hand. "Michael Ragsdale."
 
-Within five minutes of talking over my chicken tenders dipped in mayo and her burger and fries, something remarkable happened to my internal telemetry: the defensive alarm bells stopped ringing completely. Heather wasn't loud, she wasn't aggressive, and she wasn't running a social angle. She explained that she and her identical twin sister had originally attended Charlottesville Community College a few years back before relocating down to Virginia Beach so she could complete her Nuclear Medicine Technology degree at CCHR.
+Within five minutes of talking over my chicken tenders dipped in mayo and her burger and fries, something remarkable happened to my internal telemetry: the defensive alarm bells stopped ringing completely. Heather wasn't loud, she wasn't aggressive, and she wasn't running a social angle. She explained that she had originally attended Charlottesville Community College a few years back before relocating down to Virginia Beach so she could complete her Nuclear Medicine Technology degree at CCHR.
 
 Halfway through our fries and colas, we both pulled our folded paper CCHR class schedules out of our backpacks and slid them across the laminate tabletop to compare them.
 
@@ -27982,6 +27992,8 @@ In reality, engineering that route gave me an extra twenty minutes with Heather 
 
 ![Rachel meets Heather Bouchard over Monday lunch in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg)
 
+![Michael and Heather Bouchard walking side-by-side across the autumn brick quad of CCHR talking and laughing with effortless, unmasked warmth]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_quad_unmasked_walk_2007.jpg)
+
 #### 12:00 PM — Monday Lunch: Rachel Meets Heather
 
 On Monday morning, August 27, 2007—just three days after our first meeting in the cafeteria line—Heather and I sat side-by-side through our first ten o'clock lecture in `ENG 111, Section 04`, and then walked over to the CCHR student lounge and dining area at noon to eat lunch together.
@@ -28090,13 +28102,15 @@ My calves—which had been wound tight from eighty minutes of bracing against th
 
 ## Twin Magic & The Chesapeake Bay Aquarium
 
-### Part 1: Twin Magic at Susquehanna Drive
+### Part 1: Twin Magic at Susquehanna Drive & The Hidden Birth Mark
 
 **Date:** 2008-04-01 at 07:55 America/New_York
 
-![Hailey and Heather Bouchard pulling the April Fools' Day Twin Magic prank on Michael at the Susquehanna Drive bus stop]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg)
+![At the Susquehanna Drive bus stop, Hailey Bouchard (looking 100% identical to Heather with the same face, glasses, and chestnut-auburn hair) pulls Michael into a hug that he calmly accepts—until the real Heather walks up beside the shelter laughing and Michael's eyes widen in stunned confusion.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg)
 
-#### 7:55 AM — The Proprioceptive Anomaly
+![Aboard the outbound CVTA Route 25 bus, Heather smiles warmly and lifts the hair at her upper forehead hairline with her fingers to show Michael the tiny hidden freckle ('birth mark') that her identical twin Hailey does not have.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/heather_forehead_birthmark_checksum_2008.jpg)
+
+#### 7:55 AM — Twin Magic at Susquehanna Drive
 
 By the spring of 2008, the morning **CVTA Route 25** loop was etched so deeply into my muscle memory that I could have run it blindfolded.
 
@@ -28104,49 +28118,67 @@ On Tuesday morning, April 1, 2008, I walked out of 3701 Canadian Arch at seven-t
 
 I stepped off the front doors into the crisp April morning air, waited for the traffic signal to clear, and crossed the wide asphalt of Princess Anne Road to the outbound bus shelter on the opposite curb.
 
-Over the past seven months, Heather had mentioned plenty of times that she had an identical twin sister named **Hailey**. Because Hailey's classes and pre-service social work hours ran on a completely different schedule from Heather's Nuclear Medicine track—and because Rule One of the Shallow End meant I never went past the Susquehanna Drive bus stop to their house—I had never once met Hailey in person. To my brain, "Heather's twin" was purely an abstract data point.
+Over the past seven months of riding the bus together, eating lunch together, and sitting side-by-side in class, Heather had kept her off-campus home life behind the strict perimeter of the Shallow End—and she had carefully kept one massive biographical detail completely up her sleeve. As far as my processor knew, there was only one Heather Bouchard in the universe.
 
-At 7:58 AM, right on schedule, I saw a familiar figure walking up the sidewalk from Susquehanna Drive toward the bus shelter.
+At 7:58 AM, right on schedule, I saw her walking up the sidewalk from Susquehanna Drive toward the bus shelter.
 
-She had Heather's exact posture, Heather's exact straight shoulder-length chestnut-auburn hair, and was wearing Heather's familiar navy-blue CCHR windbreaker with a heavy backpack slung over one shoulder.
+She had Heather's exact angular oval face, Heather's exact straight shoulder-length chestnut-auburn hair, Heather's exact thin-rimmed rectangular glasses, and was wearing Heather's familiar navy-blue CCHR windbreaker with a backpack slung over her shoulder.
 
-"Morning, Heather," I smiled, stepping out from under the shelter awning and opening my arms for our routine morning greeting.
+"Morning, Heather," I smiled, stepping out from under the shelter awning.
 
-She didn't say a word—she just smiled brightly, stepped straight into my perimeter, and threw both arms around my torso.
+She didn't say a word—she just smiled warmly, stepped right up to me, and pulled me into a big morning hug.
 
-The instant her arms locked around my back, my internal sensory telemetry stalled completely.
+I didn't question it for a single microsecond. Why would I? My best friend was hugging me at our usual bus stop at seven-fifty-eight in the morning. I simply accepted the hug, wrapping my arms calmly around the back of her navy-blue windbreaker and resting my chin over her shoulder the way I did every weekday morning.
 
-For seven months, my nervous system had mapped the exact physics of a Heather Bouchard hug. Heather's hugs were warm and grounding, yes, but they were always carefully calibrated—gentle, measured, and subtly guarded around the edges so she never crossed her own invisible tripwire into "cuddling."
+And then, while my arms were still wrapped around her, I heard a second set of footsteps walk up the concrete sidewalk right behind the glass panel of the bus shelter—followed by a bright, unmistakable burst of laughter.
 
-This hug was not calibrated at all.
+"Having fun, Michael?" a very familiar voice asked.
 
-The woman in my arms slammed into my chest with the unapologetic, high-impact velocity of a freight train and squeezed my ribs in an absolute, bone-crushing, deep-pressure bear hug. There was zero hesitation, zero guardedness, and easily twice the muscular force Heather ever used. She lifted up slightly onto her toes, locking her forearms behind my shoulder blades and compressing my sternum so hard that the air whooshed out of my lungs.
+My head snapped to the left.
 
-My brain threw a massive `DATA MISMATCH` exception.
+Standing five feet away beside the edge of the bus shelter—with the exact same angular oval face, the exact same hazel-green eyes behind thin-rimmed rectangular glasses, and the exact same straight shoulder-length chestnut-auburn hair—was **Heather**.
 
-Visually, the person hugging me was 100% Heather Bouchard.
+My brain threw a complete, catastrophic `SYSTEM HALT`.
 
-Proprioceptively—to a guy who had spent his entire life reading the exact pressure signatures of his sisters and Master April—this was a completely different human being.
+I froze with my arms still wrapped around the girl in the navy-blue windbreaker, my eyes darting rapidly back and forth between the identical face inches from my shoulder and the identical face grinning at me from the sidewalk.
 
-"Wait a second—" I gasped, my hands hovering in mid-air against the back of the navy-blue windbreaker as my processor furiously tried to reconcile the impossible physics. "Why is the compression geometry completely different?!"
+"Wait... what?!" I stammered, my processor completely locking up as I tried to figure out how my best friend was standing in two places at the exact same time. "How—what is going on?!"
 
-From right behind the frosted plexiglass panel of the bus shelter, a burst of unmistakable, musical laughter rang out across the sidewalk.
+Both of them burst out laughing in stereo. The girl in my arms finally stepped back half a pace, grinning ear-to-ear as the real Heather walked up and stood right beside her shoulder-to-shoulder. Looking at the two of them side-by-side in the morning sunlight, it was like staring into an optical mirror.
 
-The woman locking me in the bear hug laughed too—a slightly richer, louder cadence—and finally released my ribs, stepping back half a pace with a triumphant grin on her face.
+"Happy April Fools' Day, Michael!" Heather laughed, nudging her sister's arm. "Surprise—I have an identical twin sister. This is Hailey."
 
-At the exact same moment, a second woman with the exact same angular oval face, the exact same straight chestnut-auburn hair, and thin-rimmed glasses stepped out from behind the bus shelter, wiping tears of laughter from her hazel-green eyes.
+"We call it Twin Magic," Hailey beamed, offering me a cheerful wave. "Heather told me how you guys always hug at the bus stop every morning, so we wanted to see if you'd just hug me back without noticing until she walked out."
 
-I stared from left to right, blinking rapidly as two identical faces grinned back at me in stereo at the corner of Princess Anne and Susquehanna.
+"I had no idea you even *had* a twin!" I laughed, shaking my head in sheer disbelief as my heart rate finally settled back down to baseline. "I just thought my best friend was hugging me! You guys look completely identical—nobody on earth could tell the two of you apart!"
 
-"Happy April Fools' Day, Michael!" the real Heather laughed, walking up beside her sister and nudging her shoulder. "Meet my twin sister, Hailey."
+***
 
-"We call it Twin Magic," Hailey beamed, offering me a cheerful wave now that she wasn't crushing my ribcage. "Heather told me how much you like big hugs, so I figured if I was going to impersonate her for thirty seconds at the bus stop, I should really commit to the bit."
+#### 8:05 AM — The Birth Mark Under the Hairline
 
-"You committed *way* too hard," Heather teased her sister, still laughing as the rumble of the outbound **CVTA Route 25** diesel engine (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) approached down Princess Anne Road. "He figured out you weren't me in like three seconds flat just from how hard you squeezed him!"
+A minute later, the rumble of the outbound **CVTA Route 25** diesel engine (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) approached down Princess Anne Road. Hailey gave her sister a quick high-five and headed back down Susquehanna Drive toward her own car, while Heather and I climbed aboard the bus and settled side-by-side onto our usual blue vinyl bench seat.
 
-"Hey, I took it as a compliment," I laughed, my heart rate finally settling back to baseline as the sheer absurdity and warmth of the prank washed over me. "My visual cortex was completely fooled, Hailey, I'll give you that. My ribs are the only reason I caught the switch."
+As the bus pulled away from the curb, I looked over at Heather, still grinning and shaking my head at how thoroughly the two of them had gotten me.
 
-Hailey laughed, gave her sister a quick high-five before turning back down Susquehanna Drive toward her own car, and Heather and I climbed aboard the outbound Route 25 bus together, still grinning all the way back to CCHR.
+"Seriously, Heather," I said as the pine trees rolled past the window, "if Hailey ever shows up on campus wearing your jacket, my visual cortex has zero defense against that. You two have the exact same face, the exact same hair, and the exact same glasses. How does anybody ever tell you apart?"
+
+Heather smiled—a quiet, genuinely fond expression—and turned slightly toward me on the bench seat.
+
+"There is one way," she said softly. "Almost nobody knows about it, because you can't see it at a quick glance."
+
+Reaching up with two fingers of her right hand, Heather gently lifted and parted the straight chestnut-auburn hair right at the top of her forehead where her bangs met her scalp.
+
+Tucked right up against her hairline—completely invisible whenever her hair hung naturally—was a tiny, solitary brown **freckle**.
+
+"See this right here?" Heather asked quietly, pointing to the tiny spot hidden at the edge of her hairline. "It's my birth mark. Hailey doesn't have it."
+
+I leaned in just enough to see the tiny freckle against her skin, my analytical brain immediately logging the detail like a sacred hardware checksum.
+
+"Hailey doesn't have that at all?" I asked.
+
+"Not a trace," Heather smiled, letting her fingers go so her chestnut-auburn hair fell smoothly back into place—instantly making the tiny freckle vanish from sight again. "It's completely covered by my hairline unless I brush my hair back. So if you ever want to be one hundred percent sure you're hugging me and not Hailey... now you know."
+
+"Logged and verified," I smiled, feeling a warm surge of quiet gratitude in my chest. She hadn't just pulled a harmless April Fools' prank with her sister; she had trusted me with the one tiny, hidden key that proved who she really was.
 
 ### Part 2: The Chesapeake Bay Aquarium
 
@@ -28191,6 +28223,8 @@ I wrapped my arms around her shoulders, holding her close, breathing in the cool
 ![Heather Bouchard suddenly pushing Michael away to resist his goodbye hug aboard CVTA Route 25]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_bus_stop_cutoff.jpg)
 
 ![Michael crying and situationally mute in his seat on CVTA Route 25 as bus driver Leslie Treece looks up into the rearview mirror]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/route_25_leslie_crying_mirror.jpg)
+
+![Outside the Leisure Inn on Greenwich Road, kind Scottish bus operator Moira Deesenburg waves a heartbroken, tearful Michael past the farebox into the front row of outbound CVTA Route 25 to get him home to Rachel]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/route_25_moira_greenwich_road_2009.jpg)
 
 #### 7:40 AM — Morning Bus Ride: All Systems GO
 
