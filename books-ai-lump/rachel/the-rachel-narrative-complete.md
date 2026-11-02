@@ -30034,7 +30034,7 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 **Date:** 2024-04-19 at 17:31 America/New_York
 
-![Rachel holding Michael on the living room sofa at 3701 Canadian Arch—the only person in his life who carries the secret of how deeply the memory of Heather still hurts him]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg)
+![At the 2017 Fairlawn Recreation Center Scan Station under the soaring glulam timber roof, Michael in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the high counter while coworker Ms. Susan reaches for the handheld two-way radio]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg)
 
 #### 5:15 PM — The 2017 Building & The Vault Only Rachel Holds
 
@@ -30177,7 +30177,7 @@ I had forgotten about **Twin B**.
 
 **Date:** 2026-08-11 at 19:29 America/New_York
 
-![Flashback to the April 1, 2008 Twin Magic prank at Susquehanna Drive—the last time Michael had seen Hailey Bouchard before her unexpected August 11, 2026 scan at Fairlawn Recreation Center]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg)
+![At 7:29 PM on August 11, 2026, Michael stands frozen behind the Fairlawn Recreation Center Adjacent Register in his royal blue polo shirt as Hailey Bouchard ('Twin B') scans her Adult Resident Annual pass across the high counter, presenting a 1:1 identical facial match for Heather after eighteen years]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/aug_2026_hailey_digital_ambush_729pm.jpg)
 
 #### 6:45 PM — Running the Desk & The Hopper Audit
 
@@ -30262,7 +30262,7 @@ I needed an ironclad operational firewall.
 
 **Date:** 2026-08-15 at 21:30 America/New_York
 
-![Flashback to April 1, 2008 on outbound CVTA Route 25 when Heather lifted her bangs to show Michael her tiny hairline freckle—a visual checksum impossible to see across the 2026 Fairlawn Rec Center front desk until the barcode scans]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/heather_forehead_birthmark_checksum_2008.jpg)
+![In the upstairs Command Center at night, Michael and Rachel sit side by side in their adjacent desk chairs with Rachel's hand resting warmly on Michael's forearm as they engineer the three-layer Code Susquehanna Firewall together]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/aug_2026_command_center_code_susquehanna_firewall.jpg)
 
 #### 9:30 PM — The Secret Debrief with Rachel & The 88 MPH Paradox
 
@@ -30334,11 +30334,11 @@ Exactly twenty-nine days later came **Friday, October 2, 2026**.
 
 ## 7:16 PM: Unhandled Exception (October 2, 2026)
 
-### Code Susquehanna — Twin A, The Desk Speaker, & Holding the Line at Status Yellow
+### Part 1: 7:16 PM: Code Susquehanna — Twin A & 'Unhandled Exception' on the Desk Speaker
 
 **Date:** 2026-10-02 at 19:16 America/New_York
 
-![Rachel holding Michael in a grounding sibling hug at home—the only person in the world who knows what happened at 7:16 PM on October 2, 2026 when Heather scanned in at Fairlawn Recreation Center]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg)
+![At 7:16 PM on Friday, October 2, 2026, Heather Bouchard ('Twin A') is held up in a brief check-in bottleneck at the Fairlawn Recreation Center Scan Station while coworker Tyler checks in a patron and Michael stands composed in his royal blue polo shirt beside the front desk employee speaker]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/oct_2026_716pm_unhandled_exception_bottleneck.jpg)
 
 #### 7:15 PM — Forty-Five Minutes to Close
 
@@ -30394,13 +30394,17 @@ And right behind that ache, my polite, chronological, rule-following autistic br
 
 > *`Good night Heather, and belated happy birthday.`*
 
-I caught that string in RAM half a second before it could anywhere near my vocal cords and **quarantined it immediately**.
+I caught that string in RAM half a second before it could get anywhere near my vocal cords and **quarantined it immediately**.
 
 *Absolutely not,* my internal firewall answered. *She terminated those privileges at Princess Anne & Susquehanna Drive on May 8, 2009. Keep your mouth shut. Stay in the Corporate We.*
 
-***
+### Part 2: 7:20 PM – 8:00 PM: Status Yellow, The Back Office Count, & The Deliberate Look Away
 
-#### 7:20 PM – 8:00 PM — Status Yellow, The Back Office Count, & The Deliberate Look Away
+**Date:** 2026-10-02 at 19:20 America/New_York
+
+![At 8:00 PM Friday closing time at Fairlawn Recreation Center, Michael and Tyler stand behind the Front Desk in their royal blue polo shirts as Heather Bouchard walks out from behind the Weight Room wall toward the glass exit doors, recognizing Michael at the desk and deliberately averting her gaze]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/oct_2026_800pm_mutual_avoidance_exit.jpg)
+
+#### 7:20 PM — Holding the Line at Status Yellow
 
 Here is the difference between **April 2024** and **October 2, 2026**:
 
@@ -30408,9 +30412,9 @@ In April 2024—and even during the first three seconds of Hailey's ambush on Au
 
 At **`7:20 PM`** on **Friday, October 2, 2026**, four minutes after Heather walked behind the solid wall into the Weight Room, my **`Code Susquehanna`** firewall held the line squarely at **Status Yellow**.
 
-My heart rate was elevated and the flood of `2008` memories hurt like hell, but my hands were steady, my voice was online, and instead of feeling like a helpless twenty-one-year-old crying on the Route 25 bus in 2009, I felt grounded, forty-four minutes away from clocking out, and—if I'm being completely honest—more than a little **annoyed** that she had walked in with forty-four minutes left on a Friday night after a year of peace and quiet.
+My heart rate was elevated and the flood of `2008` memories hurt like hell, but my hands were steady, my voice was online, and instead of feeling like a helpless twenty-one-year-old crying on the Route 25 bus in 2009, I felt grounded, forty minutes away from closing the building, and—if I'm being completely honest—more than a little **annoyed** that she had walked in with forty-four minutes left on a Friday night after a year of peace and quiet.
 
-I picked up my water bottle, took a slow sip of cold water to stimulate my vagus nerve and regulate my breathing, and turned calmly to **Tyler** at `7:20 PM`.
+I picked up my water bottle from the counter, took a slow sip of cold water to stimulate my vagus nerve and regulate my breathing, and turned calmly to **Tyler** at `7:20 PM`.
 
 "Hey Tyler," I said in a level, conversational, slightly exasperated present-tense voice, "my ex is here. Heather, who just checked in."
 
@@ -30420,6 +30424,10 @@ Because Heather had gone straight behind the solid rear structural wall of the F
 
 For the next twenty-five minutes, I ran the Front Desk without missing a beat.
 
+***
+
+#### 7:45 PM – 8:00 PM — The Back Office Count & The Deliberate Look Away
+
 At **`7:45 PM`**—fifteen minutes before our `8:00 PM` Friday public close—I executed the standard Friday evening closing sweep protocol: leaving Tyler to staff the front counter and greet exiting patrons, I stepped through the door behind the desk into the **Back Office**.
 
 Inside the quiet bunker, I unlocked the cash register tills, counted down the twenty-, ten-, five-, and one-dollar bills, balanced the credit-card batch totals, and completed the Friday night closing report.
@@ -30428,7 +30436,7 @@ At **`7:59 PM`**, with the register tills balanced and locked in the safe, I ste
 
 At **`8:00 PM`**, **Heather** walked out from behind the Weight Room wall heading for the front exit doors.
 
-As she crossed the lobby commons toward the sliding glass doors, she glanced over toward the Front Desk, **recognized that I was standing behind the counter—and deliberately looked away**, fixing her eyes straight ahead on the parking lot as she stepped out through the glass doors into the October night.
+As she crossed the bamboo-accented lobby commons beneath the soaring glulam timber roof beams toward the sliding glass doors, she glanced over toward the Front Desk, **recognized that I was standing behind the counter—and deliberately looked away**, fixing her eyes straight ahead on the parking lot as she stepped out through the glass doors into the October night.
 
 Watching her deliberately avert her gaze as she walked out, the last remaining piece of the puzzle clicked into place with quiet, mathematical finality.
 
@@ -30436,13 +30444,17 @@ It wasn't just me maintaining a firewall anymore. **The avoidance was 100% mutua
 
 She knew who worked the Front Desk at Fairlawn Recreation Center. She knew what she had done at the Susquehanna Drive bus stop on May 8, 2009. Neither of us was ever going to agitate the other; neither of us was ever going to speak a personal word across that counter; and we had reached a permanent, silent, professional stalemate—she as a visiting member with a grandfathered Month-to-Month card, and I as the Duty Supervisor running my building.
 
-***
+### Part 3: 9:00 PM: The Only Vault in the Universe
 
-#### 9:00 PM — The Only Vault in the Universe
+**Date:** 2026-10-02 at 21:00 America/New_York
 
-By **`8:15 PM`**, Tyler and I locked the front doors, set the building perimeter alarms, and walked out into the crisp October evening air.
+![At 9:00 PM in the upstairs Command Center, Rachel stands between their adjacent computer desks and pulls Michael—still in his royal blue work polo shirt—into a deep, grounding Bear and Bug hug as he rests his forehead against her shoulder]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/oct_2026_900pm_rachel_only_vault_hug.jpg)
 
-When I walked through our front door at home a little before **`9:00 PM`**, the house was warm and bright. Outwardly, to anyone else in our home, I looked like I had just finished any ordinary Friday closing shift at the recreation center.
+#### 9:00 PM — Coming Home to the Vault
+
+By **`8:15 PM`**, Tyler and I locked the front doors of the **Fairlawn Recreation Center**, set the building perimeter alarms, and walked out into the crisp October evening air.
+
+When I walked through our front door at home a little before **`9:00 PM`**—still wearing my royal blue work polo shirt—the house was warm and bright. Outwardly, to anyone else in our home, I looked like I had just finished any ordinary Friday closing shift at the recreation center.
 
 And just like always, I didn't breathe a single word of it to anyone else.
 
