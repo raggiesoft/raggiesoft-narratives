@@ -30302,13 +30302,20 @@ Twice in my twenties, I had stepped outside the protective perimeter of my famil
 
 After May 8, 2009, walking into a college lecture hall or sitting alone at a campus table felt like stepping onto a live minefield. Every time a classroom door swung open under harsh fluorescent lights, or a stranger sat down next to me unannounced, my nervous system flashed back to Delores's suffocating grip and the cold shock of Heather's hands pushing against my chest on Route 25.
 
-I didn't want to navigate campus alone ever again. **I wanted Rachel at my side as much as possible.**
+Still haunted by the ghosts of both **Delores** and **Heather**, I looked at the wreckage of those years and realized the truth that had been standing right in front of me my entire life:
 
-And my Bug didn't hesitate for a single heartbeat.
+Every time I had gone searching out in the world for someone else to hold onto, I had ended up shattered—when **the someone I had been searching for had been right there beside me from the very beginning.**
 
-Starting the very next semester back at **`CCHR`**, Rachel and I locked our academic tracks together into a single, synchronized unit. We declared the exact same transferable degree program—the **Associate of Science (`A.S.`) in Computer Information Systems**—and registered for the exact same course sections at the exact same hours so that we walked into every building together, sat side-by-side at adjacent desks in every lecture and lab, and ate every lunch together.
+**Rachel**—my Bug—had been with me since the start:
+* Back in **August 1995**, after the Thursday night assault at the dojo, [we were side-by-side on the living room sofa Base Camp together](https://books.raggiesoft.com/rachel/base-camp/the-first-sunday/living-room-base-camp), holding onto each other through the dark.
+* All through our childhood and teen years on Delaney Street, [we shared the lower bunk in Rachel and Jessica's bedroom more often than not](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement), curling up together beneath the top bunk where nobody could reach us.
+* And from the very moment we were reunited after Delores left me for dead in Washington—and especially after Heather pushed me away and vanished—**I had not left my little sister's side for any reason.**
 
-Now, transferring into **Virginia Dominion University (`VDU`)** as upperclassmen in **Fall 2015**, we brought that exact same two-person academic perimeter with us.
+I didn't want a girlfriend, and Rachel didn't want a boyfriend. Both of us had quietly, permanently decided that **this was all we wanted: each other.** I was choosing the one person who had never once let me go—my Bug.
+
+Starting the very next semester back at **`CCHR`**, Rachel and I locked our lives and our academic tracks together into a single, unbroken unit. We lived together. We slept in the same bed every single night. And we declared the exact same transferable degree program—the **Associate of Science (`A.S.`) in Computer Information Systems**—registering for the exact same course sections at the exact same hours so that we walked into every building together, sat side-by-side at adjacent desks in every lecture and lab, and ate every lunch together. Literally the **only** hours we ever spent apart were when we clocked in at our respective jobs—and the minute our shifts ended, we came straight back to each other.
+
+Now, transferring into **Virginia Dominion University (`VDU`)** as upperclassmen in **Fall 2015**, we brought that exact same inseparable bond with us.
 
 ![Michael and Rachel sitting side-by-side at adjacent computer workstations in their VDU Information Systems & Technology classroom, holding hands with their fingers laced together between their keyboards]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_ist_shared_academic_track_classroom.jpg)
 
@@ -30518,9 +30525,21 @@ Rachel kicked off her winter sneakers, peeled off her winter jacket over her roy
 
 Rachel climbed right into the left Queen bed beside me, pulling the white hotel comforter up over our jeans and loungewear as she tucked her head onto my shoulder and laced her fingers tightly through mine, leaving the second Queen bed across the nightstand completely empty.
 
-"My arms and calves are already voting for flat Norfolk," Rachel laughed softly against my shoulder as the radiator hummed against the twenty-degree mountain night outside.
+Looking down at my sister curled warm and safe against my chest in the amber glow of the hotel bedside lamp, a slow, soaring late-eighties power ballad began playing inside my audio hyperphantasia—the warm piano chords and aching synth swell of [*"If You Walked Away"*](https://music.raggiesoft.com/the-stardust-engine/1989-neon-hearts?track=1-04-if-you-walked-away) and [*"My Anchor Holds"*](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) by [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine):
 
-"Hold on to me, Madame Secretary," I murmured, kissing the top of her head as our shared **`IST`** cloud-drive folders finished syncing on my laptop across the room. "Tomorrow is full `SAACURC`."
+> *"I'm holding on, I'm holding tight / Don't let me go into the night..."*
+
+For so much of my twenties, haunted by the ghosts of **Delores** and **Heather**, I had wondered why every attempt to find someone out in the world had left me bleeding on the floor—until I finally opened my eyes and realized **that the someone I had been searching for was right there.**
+
+She had been right here beside me since the very beginning.
+
+We were together on [the living room sofa Base Camp in August 1995](https://books.raggiesoft.com/rachel/base-camp/the-first-sunday/living-room-base-camp) when we couldn't even walk across the room alone. We had shared [the lower bunk in Rachel and Jessica's room](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement) on Delaney Street more nights than not. And from the moment we were reunited after Delores left me for dead in Washington, I had never left my little sister's side for any reason. Now we lived together, we attended every single class together, we ran VDU's RHA documentation together, and the only time we ever separated was when we went to our respective jobs.
+
+Sitting here in **Room 114** at **The Hotel at Poly** with our fingers laced together on the comforter and the second Queen bed sitting untouched across the room, both of us knew in our bones that this was all we wanted: **each other.** Out of everyone in the world, I was picking the one person who had been there since the very beginning—my Bug.
+
+"My arms and calves are already voting for flat Norfolk," Rachel laughed softly against my shoulder as the radiator hummed against the twenty-degree mountain night outside, tightening her hand around mine so I could feel every beat of her pulse. "But as long as I'm in whichever bed you're in, I'm home."
+
+"Hold on to the night with me, Bug," I murmured, wrapping my left arm around her shoulders and kissing the top of her head. "You're all I've ever needed. Tomorrow is full `SAACURC`."
 
 ### Part 2: Saturday at SAACURC: Visiting School Colors, The Clothespin Gauntlet, & The GIH Pilot Roundtable
 
