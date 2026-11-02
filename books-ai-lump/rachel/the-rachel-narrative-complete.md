@@ -30026,6 +30026,217 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 "Sunday night is Bedroom A's full bed, Madame Secretary," I whispered back. "Wake me up when we hit the Hampton Roads Bridge-Tunnel."
 
+# Thanksgiving in Luray & The Court Square Crosswalk (November 2017)
+
+## Thanksgiving in the Page Valley: U.S. Route 211, Dinner with Terry, & The Single-Queen Sanctuary
+
+### Borrowing Mom's Car, Thanksgiving with Terry in Luray, & The Single-Queen Bed on US-211
+
+**Date:** 2017-11-23 at 14:30 America/New_York
+
+![On Thanksgiving afternoon in November 2017 in Luray, Virginia, Michael and Rachel hold hands with their fingers laced together as their friend Terry welcomes them onto her porch with the Blue Ridge Mountains rising in the background]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_luray_thanksgiving_terry_us211_motel.jpg)
+
+#### 2:30 PM — Borrowing Mom's Car & Thanksgiving with Terry in Luray
+
+Back in **2016**, after my bilateral Achilles heel cord lengthening surgery had fully healed, **Mom (`Ellen`)** had paid for **Rachel** and me to take adult **Behind-the-Wheel** driving lessons so both of us could finally earn our **Virginia Driver's Licenses**—and the day we passed, Mom added both of us as listed drivers on her auto insurance policy so we were allowed to borrow her car.
+
+At our family home on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, **Ashley** was the only one of the five of us who owned a car of her own (since **Jessica** was medically prohibited from driving and held a Virginia State ID, and **Kristin** also held a Virginia State ID and preferred taking the **CVTA** bus or getting rides with Ashley simply because she didn't like to drive). For everyday errands around Hampton Roads when Ashley was at work, Rachel and I still rode the bus—but whenever we had a special out-of-town trip, Mom happily lent us her car.
+
+And for **Thanksgiving Weekend 2017**, Rachel and I had a road trip we had been looking forward to all autumn: driving up to **Luray, Virginia**, nestled in the Page Valley between the Blue Ridge Mountains and Massanutten Mountain, to spend Thanksgiving with our friend **Terry**.
+
+Leaving Virginia Beach early Thursday morning in Mom's car—trading off behind the wheel on **Interstate 64 West** past Richmond and Charlottesville, heading north on **Interstate 81** to New Market, and climbing **U.S. Route 211 East (`US-211`)** over the winding switchbacks of Massanutten Mountain at New Market Gap—Rachel and I rolled into **Luray** under crisp, sunlit November skies.
+
+Walking up **Terry's** front walk at **`2:30 PM`** carrying a pair of fresh bakery pies from Virginia Beach, **Rachel and I held hands with our fingers laced together** the way we do everywhere we go.
+
+"You two made great time!" Terry beamed, swinging her front door open as the warm scent of roasting turkey, sage stuffing, and spiced apple cider spilled out onto the porch. "How was the climb over `211`?"
+
+"Smooth sailing the whole way," I smiled as Terry pulled first Rachel and then me into a warm holiday hug. "Zero holiday backups on `64` or `81`, and the view coming down New Market Gap into the valley was incredible."
+
+For the next six hours, the three of us had the kind of low-sensory, relaxed Thanksgiving that Rachel's and my nervous systems thrive on: sitting around Terry's dining table eating turkey, mashed potatoes, stuffing, and pie; laughing over old stories; and taking a late-afternoon walk through downtown Luray along the Hawksbill Creek greenway while the late November sun dropped behind the silhouette of the Blue Ridge.
+
+***
+
+#### 9:30 PM — The Chain Motel on `US-211` & One Queen Bed
+
+By **`9:30 PM`**, after helping Terry load the dishwasher and promising to meet her on Friday morning to explore Luray, Rachel and I drove five minutes down **U.S. Route 211** to the roadside chain motel where we had booked our room for Thursday, Friday, and Saturday nights.
+
+Back in [**February 2016** at `SAACURC` in Blacksburg](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly), when our university delegation advisor had booked our room block at *The Hotel at Poly*, the hotel had placed us in a two-queen ADA room where we rotated beds each night so housekeeping wouldn't ask questions.
+
+When **Rachel and I** book a motel room for ourselves on our own dime, however, we don't book two beds.
+
+We booked a room with a **single Queen bed**.
+
+By thirty and twenty-eight years old, after everything the two of us had survived together since [Delaney Street](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement), neither Rachel nor I cared one bit about what the outside world considered "proper." We just wanted each other.
+
+Stepping inside our ground-floor room off `US-211` and flipping the deadbolt and security latch into place, we settled straight into the same unbroken baseline we live by at home:
+* **The [Open-Door Policy](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts):** Even in a motel room away from home, the bathroom door stayed propped wide open so neither of us ever lost our visual or acoustic line of sight.
+* **Zero Privacy & Zero Distance:** Between Bear and Bug, there is no privacy and zero need to ever turn away from each other while getting ready for bed.
+* **Skin-to-Skin Grounding:** And just as we had done every night for years, we climbed into that single Queen bed together to sleep **skin-to-skin**, pulling the heavy motel comforter and blankets up over our shoulders against the crisp thirty-degree mountain night outside.
+
+As Rachel tucked her head beneath my chin with her chest pressed warm against mine and our legs tangled together in the quiet dark off `US-211`, my heart rate slowed to a calm, steady beat.
+
+"Happy Thanksgiving, Bear," Rachel whispered against my collarbone.
+
+"Happy Thanksgiving, Bug," I murmured, wrapping both arms securely around her back.
+
+## The Sunday Return: Exit 251, Court Square (US-11 at US-33), & The Call to Mom
+
+### Part 1: The VDOT Message Board (MM 244), Exit 251 onto Southbound US-11, & Rear-Ended at the Harrisonburg Courthouse Crosswalk
+
+**Date:** 2017-11-26 at 13:15 America/New_York
+
+![At Court Square in Downtown Harrisonburg where US-33 meets US-11 beside the historic courthouse, a Rockingham County Sheriff's Deputy with flashing blue lights takes a statement from two grateful crosswalk pedestrians and Michael and Rachel behind Ellen's rear-ended car while the panicked at-fault driver stands nearby]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_harrisonburg_courthouse_crosswalk_deputy.jpg)
+
+#### 1:15 PM — The VDOT Message Board (`Milepost 244`) & Taking `Exit 251`
+
+On the **Sunday after Thanksgiving—November 26, 2017**—**Rachel** and I checked out of our motel on `US-211`, met **Terry** for one last warm goodbye hug over coffee and pancakes in Luray, and loaded our weekend bags into the trunk of **Mom (`Ellen`)'s** car for the drive back to Virginia Beach.
+
+I took the driver's seat for the first leg down the Shenandoah Valley while Rachel rode shotgun, her left hand resting across the center console with her fingers laced through my right hand whenever I didn't need both hands on the wheel for the mountain curves.
+
+Climbing west out of the Page Valley on **U.S. Route 211** over Massanutten Mountain, we merged smoothly onto **Interstate 81 South (`I-81 South`)** at New Market, planning to cruise straight down `I-81 South` to **`I-64 East`** at Staunton and take `I-64` all the way home to Hampton Roads.
+
+Because it was the Sunday afternoon after Thanksgiving, `I-81 South` was packed with holiday travelers and eighteen-wheelers rolling through Rockingham County.
+
+Just north of **Harrisonburg**, an overhead amber LED **VDOT (`Virginia Department of Transportation`)** highway message board flashed across the southbound lanes:
+
+```
+CRASH AHEAD I-81 SOUTH
+AT MILEPOST 244
+EXPECT MAJOR DELAYS
+```
+
+My internal route map immediately calculated the bypass.
+
+"Milepost `244` is right in the middle of the Harrisonburg stretch," I told Rachel, glancing at the navigation map as brake lights began stacking up on the horizon ahead of us. "If we bail off right here at **`Exit 251`**, we can hang a left onto **southbound U.S. Route 11 (`US-11`)**, cruise straight down Main Street through Harrisonburg parallel to the interstate, and hop right back onto `I-81 South` past the wreck."
+
+"Smart call, Bear," Rachel agreed, checking the right-hand mirror for me. "Beats sitting in dead-stopped interstate traffic for an hour."
+
+I hit my turn signal, glided up the off-ramp at **`Exit 251`**, and hung a smooth **left turn onto southbound `U.S. Route 11` (`North Main Street`)** heading toward **Downtown Harrisonburg**.
+
+***
+
+#### 1:32 PM — Where `US-33` Meets `US-11` at the Courthouse (`25 MPH`)
+
+Cruising south on **`US-11` (`Main Street`)** into the historic center of **Downtown Harrisonburg**, the four-lane commercial strip narrowed into a brick-lined small-town main street where the posted speed limit dropped to **`25 MPH`**.
+
+Right ahead of us rose the massive, ornate limestone clock tower of the **Rockingham County Courthouse** at **Court Square**—the exact downtown intersection where **U.S. Route 33 (`Market Street`) meets U.S. Route 11 (`Main Street`)**.
+
+Rolling southbound on **`US-11`** at twenty miles an hour as we approached the **Courthouse Square** crosswalk, I spotted **two pedestrians** standing at the curb waiting to cross the street in front of the courthouse.
+
+Checking my speed in the `25 MPH` zone, I eased my right foot smoothly onto the brake pedal, brought Mom's car to a complete, lawful stop in front of the white crosswalk stripes, kept my foot planted firmly on the brake, and smiled through the windshield as I **waved the two pedestrians across**.
+
+The two pedestrians smiled back, gave a thank-you wave, and stepped out into the crosswalk in front of our hood.
+
+One second later—
+
+*CRUNCH.*
+
+A violent jolt slammed straight into the rear bumper of Mom's car, pitching Rachel and me forward against our locked shoulder belts before slapping the backs of our heads against the headrests.
+
+Because my right foot had been pressed firmly down on the brake pedal while waving the pedestrians across, Mom's car held its ground instead of lurching forward into the crosswalk where the two pedestrians were walking.
+
+"Bug! Are you okay?! Are you hurt?!" I gasped, my heart rocketing into my throat as I threw the gearshift into `PARK`, switched on the four-way hazard flashers, and reached across the console with both hands to check on my sister.
+
+"I'm okay, Bear—I'm not hurt, my seatbelt caught me," Rachel breathed, her eyes wide behind her glasses as she squeezed my hands back just as urgently. "Are *you* okay? How's your neck and your ankle?"
+
+"I'm okay," I said, though my pulse was already hammering at a hundred and forty beats a minute as I looked up into the rearview mirror.
+
+Directly behind our rear bumper sat the car that had just plowed into us on southbound `US-11`—and through their windshield, I could see the driver hurriedly fumbling to drop the **cell phone** they had been holding to their ear while driving through a `25 MPH` downtown crosswalk zone without paying attention!
+
+***
+
+#### 1:35 PM — "Please Don't Call the Police!" & The Deputy Rolling By
+
+Rachel and I unbuckled and stepped out onto the pavement of **Court Square** together to inspect the back of Mom's car. The rear bumper cover was deeply creased and scuffed and the trunk lid had a dent above the latch, while on the sidewalk beside the courthouse, the **two pedestrians** I had waved across hurried back over toward us, looking genuinely shaken on our behalf.
+
+"Are you two alright?!" one of the pedestrians asked immediately. "You stopped completely for us and waved us across—the person behind you was talking on their phone and didn't even look up!"
+
+Before I could even reach into my pocket for my phone, the other driver scrambled out of their car, looking frantic.
+
+"Hey—listen, please don't call the police!" the driver pleaded, holding both hands up and patting their pockets nervously. "We don't need to call this in! I have insurance, I promise—I just can't find my policy number right now! Just let me give you my name and number and we can handle this without a report!"
+
+Rachel and I stared at the driver as they kept repeating that they *"had insurance"* but *"just couldn't find the policy number"* and begged us not to call `911`.
+
+We didn't even have to dial.
+
+Because we were standing at the intersection of **`US-11` and `US-33`** directly in front of the **Rockingham County Courthouse**, a **Rockingham County Sheriff's Deputy** happened to be rolling right past Court Square in his patrol cruiser on completely unrelated business.
+
+The deputy saw the two cars stopped at the crosswalk with hazard lights blinking, saw the bumper damage, flipped on his blue light bar, pulled his cruiser straight over to the curb, and stepped out, asking calmly:
+
+"Everybody alright here? Looks like you folks just had a collision—let me be of assistance."
+
+The instant the Sheriff's Deputy stepped onto the asphalt with his ticket book and clipboard, **the driver who had rear-ended us visibly panicked**—all the color draining from their face as they realized there was no way out of an official state crash report now.
+
+And right beside the deputy, the **two pedestrians** we had waved across didn't walk away. Both of them stayed right there at the courthouse curb until the deputy took their full eyewitness statements:
+
+"Deputy," the first pedestrian said clearly, pointing to the marked crosswalk stripes on `US-11`, "this young man came to a complete stop at the crosswalk and waved the two of us across the street. If he hadn't stopped with his foot on the brake, that car behind him would have hit *us*. The driver behind him was talking on a cell phone and never even slowed down."
+
+"Thank you both for staying," the deputy nodded, writing down both witnesses' names and phone numbers onto his report before taking my Virginia driver's license, Mom's vehicle registration, and Mom's insurance card, and then walking back to deal with the shaken driver behind us.
+
+### Part 2: Scared of Getting in Trouble, Calling Ellen, & Rejoining I-81 South at Exit 243
+
+**Date:** 2017-11-26 at 14:05 America/New_York
+
+![Parked near Court Square in Harrisonburg inside Ellen's car, Rachel holds Michael's trembling hand across the center console as a visibly anxious Michael talks to Mom (Ellen) on speakerphone with the Sheriff's Deputy's crash report resting on the dash]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_calling_ellen_harrisonburg_nervous_wreck.jpg)
+
+#### 2:05 PM — Cleared by the Deputy, Terrified to Call Mom
+
+Twenty-five minutes later, the **Rockingham County Sheriff's Deputy** walked back up to my window and handed back my Virginia driver's license, Mom's registration, and Mom's insurance card, along with the official **Virginia Police Crash Report (`FR300P`)** information exchange slip.
+
+"You're one hundred percent in the clear, son," the deputy told me kindly, resting a hand on the roof of Mom's car. "Between the two pedestrian witnesses at the crosswalk and the physical evidence on the pavement, you have zero fault on this report. I checked your rear bumper, your exhaust, and your brake lights and turn signals—you're gonna need body-shop work on the rear bumper and trunk, but the car is completely roadworthy and safe for the two of you to drive back to Virginia Beach."
+
+"Thank you, Deputy," I managed to say, my voice tight as I took the crash report slip.
+
+Once the deputy pulled back into traffic and the other vehicle cleared the lane, I steered Mom's car into a legal parking space just off **South Main Street (`US-11`)** so we could catch our breath and call **Mom (`Ellen`)**.
+
+The moment I shifted into `PARK`, the adrenaline keeping my hands steady evaporated—and **I turned into an absolute nervous wreck**.
+
+Logically, my thirty-year-old brain knew what the Sheriff's Deputy had just said: I had obeyed the `25 MPH` speed limit, I had stopped lawfully at a crosswalk for two pedestrians, two independent witnesses had vouched for me, and the police report placed `100%` of the fault on the distracted driver behind us.
+
+Emotionally, however, twenty-plus years of [childhood trauma from Delaney Street](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-first-sunday)—where any dented bumper, spilled glass, or accident in the house meant an explosion of rage—were screaming inside **both** of our nervous systems at once.
+
+Sitting beside me in the passenger seat, **Rachel** was biting her lower lip, her shoulders pulled tight up toward her ears as she looked at the deputy's crash slip in my shaking hand.
+
+Even with an official Sheriff's report clearing us, **we were both scared to death that we were going to get in trouble**—because Mom had trusted us to borrow her car for Thanksgiving, and her car had just gotten into a rear-end collision two hundred miles from home.
+
+"Bear," Rachel whispered, her own voice trembling slightly as she reached across the center console with both hands and wrapped her fingers tightly around my shaking left hand, "we have to call Mom. Here—hold onto my hand while it rings. We'll tell her together."
+
+***
+
+#### 2:12 PM — The Phone Call & Rejoining `I-81 South` at `Exit 243`
+
+With Rachel gripping my left hand like a lifeline, I tapped **Mom (`Ellen`)'s** number on my phone and put it on speaker.
+
+It rang twice before she picked up.
+
+*"Hey, Michael! How's the drive back from Luray going?"*
+
+My throat was so dry my voice cracked on the first syllable.
+
+"Mom—I'm so sorry, please don't be mad at us," I blurted out in one rushed, trembling breath, staring down at the steering wheel while Rachel squeezed my fingers. "We're in Downtown Harrisonburg and we're both okay, nobody is hurt, and I have a police report from a Sheriff's Deputy saying it wasn't my fault at all—we got off `I-81` at `Exit 251` onto `US-11` because a VDOT sign said there was a wreck at Milepost `244`, and the speed limit on Main Street by the courthouse is `25`, and I stopped at a crosswalk to wave two pedestrians across, and the driver behind us was on their cell phone and rear-ended your car! The deputy looked at it and said the lights work and it's safe to drive home, and the two pedestrians stayed and gave a statement to the deputy, I swear I was completely stopped—"
+
+*"Michael! Sweetheart, stop—take a breath!"* Mom's voice came through the speakerphone without a single trace of anger—only pure, immediate maternal relief. *"First of all: are you and Rachel sure neither of you is hurt? How are your necks?"*
+
+"We're both okay, Mom," Rachel answered softly beside me, leaning close to the speaker. "Our seatbelts caught us right away, and the deputy checked on us on the spot."
+
+*"Thank goodness,"* Mom exhaled warmly over the line. *"Michael, listen to me: nobody is in trouble, and I am not mad at either of you for one second! You stopped for pedestrians in a crosswalk—that is literally what you are supposed to do. A car bumper is just plastic and metal; that is what insurance is for. You two are the only thing that matters to me."*
+
+Hearing Mom say *"Nobody is in trouble, and I am not mad at either of you"* caused a ten-ton weight to drop right off my chest. Beside me, Rachel let out a long, shaky sigh of relief, leaning across the console to press her cheek against my shoulder while I wiped a hot breath of relief from my eyes.
+
+*"Stay on `US-11` until you're past that interstate backup,"* Mom told us gently, *"take your time driving down the mountain to `I-64`, and text me when you stop for dinner. We'll just give the deputy's report number to the insurance company tomorrow morning."*
+
+"Okay, Mom. Thank you. Love you," I said, my voice finally steadying again.
+
+Before I put the car back in gear, Rachel wrapped both arms around my neck across the center console in a long, deep-pressure **Bear and Bug** hug, holding me tight until the last tremor left my hands.
+
+"We're okay, Bear," Rachel whispered against my ear. "Mom's not mad, nobody got hurt, and you saved those two pedestrians."
+
+"Let's go home, Bug," I breathed, hugging her back before we buckled our seatbelts and laced our fingers back together across the console.
+
+Pulling out of the parking space, I stayed on **southbound U.S. Route 11 (`South Main Street`)** through the south side of Harrisonburg—completely bypassing the `I-81` wreck at Milepost `244`—and smoothly **rejoined `Interstate 81 South` at `Exit 243`**, continuing south to **`I-64 East`** to head home to **Moosewood Drive**.
+
+*(And sure enough, when Mom's insurance adjuster ran the Sheriff's Deputy's crash report the next week, the real reason the other driver had panicked and claimed they "couldn't find their policy number" came out immediately: **they were completely uninsured.** Because the deputy's report and the two crosswalk witnesses proved I was `0%` at fault, Mom's **Uninsured Motorist** coverage fixed her bumper without a single surcharge—and both Rachel and I kept our spotless **`+5` Virginia DMV Safe Driving Points** all the way into [February 2020 when we bought our own car](https://books.raggiesoft.com/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-2-the-cashier-s-check-joint-virginia-title-vsa-17a-driving-our-avalon-home)).*
+
 # The 2020 Horizon Avalon (February 2020)
 
 ## Anchor Federal Credit Union & The Five Accounts
@@ -30383,14 +30594,10 @@ Because Virginia auto insurance underwriters run every adult living at the physi
 
 Why did I still have all **`+5` Safe Driving Points** despite having been involved in one collision since 2016?
 
-Because the **only** collision Rachel and I had ever been in was `100%` **Not-At-Fault**—and it was a masterclass in both highway irony and instant karma:
-* Rachel and I had been driving southbound on **Interstate 81 (`I-81 South`)** through the Shenandoah Valley when a crash ahead backed up `I-81` southbound at **Harrisonburg, Virginia**.
-* To detour around the `I-81` collision, I got off the interstate and took **U.S. Route 11 South (`Main Street`)** through **Downtown Harrisonburg**, where the speed limit drops to **`25 MPH`**.
-* Right where **U.S. Route 33 (`Market Street`) meets U.S. Route 11 (`Main Street`)** at the historic **Rockingham County Courthouse** on Court Square, I came to a complete, lawful stop at a marked crosswalk in the `25 MPH` zone to let **two pedestrians** cross the street.
-* A driver behind us—**talking on a cell phone and not paying attention**—failed to stop and **rear-ended us** right there at the courthouse crosswalk! (We had literally gotten off `I-81 South` to go around a collision, only to get hit while stopped for pedestrians at `US-11` and `US-33`!).
-* When the other driver stepped out, it turned out they were **uninsured**, and they immediately started begging Rachel and me **not to call the police**.
-* Right in the middle of the uninsured driver begging us not to call it in, a **Rockingham County Sheriff's Deputy** happened to be rolling right past the courthouse on unrelated business, **saw the collision**, flipped on his lights, pulled over to the curb, and offered to be of assistance!
-* Because the Sheriff's Deputy wrote an airtight Virginia crash report on the spot documenting that I was lawfully stopped at a `25 MPH` crosswalk for two pedestrians when rear-ended by a distracted, uninsured driver on a cell phone, the claim was paid under Virginia's **Uninsured Motorist (`UM / UMPD`)** coverage with **`0%` fault**, preserving my **`+5` Safe Driving Points** alongside Rachel's **`+5`**—and making sure we kept full **Uninsured Motorist** protection on our new Avalon from day one.
+Because [the **only** collision Rachel and I had ever been in—on the **Sunday after Thanksgiving in November 2017** in **Downtown Harrisonburg**](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-1-the-vdot-message-board-mm-244-exit-251-onto-southbound-us-11-rear-ended-at-the-harrisonburg-courthouse-crosswalk) while driving home from visiting our friend **Terry** in **Luray**—was `100%` **Not-At-Fault**:
+* After detouring off **`I-81 South` at `Exit 251`** onto **southbound `U.S. Route 11` (`Main Street`)** to avoid a wreck at Milepost `244`, I had come to a complete, lawful stop in the **`25 MPH`** zone where **`US-33` meets `US-11` at the Rockingham County Courthouse** and waved **two pedestrians** across the crosswalk—when a driver behind us talking on a cell phone rear-ended Mom's car.
+* When the other driver claimed they had insurance *"but couldn't find their policy number"* and begged us not to call the police, a **Rockingham County Sheriff's Deputy** happened to roll right past the courthouse on unrelated business, pulled over, and took eyewitness statements from the two pedestrians who stayed on the sidewalk to back me up.
+* And once the insurance adjusters ran the deputy's report ([after Rachel and I survived our nervous phone call to Mom before rejoining `I-81 South` at `Exit 243`](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-2-scared-of-getting-in-trouble-calling-ellen-rejoining-i-81-south-at-exit-243)), it turned out the other driver had panicked because they were **completely uninsured**—meaning Mom's **Uninsured Motorist (`UM / UMPD`)** coverage paid for the bumper repair with **`0%` fault**, preserving my **`+5` Safe Driving Points** alongside Rachel's **`+5`** and making sure we kept full **Uninsured Motorist** protection on our new Avalon from day one.
 
 Within two minutes, the insurance binder and temporary Virginia insurance cards arrived in Denise's email inbox and on both of our phones (allowing Mom to finally drop us from her car's rated driver list now that we had our own insured sedan).
 
