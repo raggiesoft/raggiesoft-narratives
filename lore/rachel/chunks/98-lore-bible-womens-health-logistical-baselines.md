@@ -27,3 +27,9 @@
 - **The Rationale:** While Jessica is not paralyzed and retains movement in her legs, her inability to bear weight means that every restroom visit requires a manual transfer from her wheelchair. Managing a monthly menstrual cycle adds an exhausting, repetitive layer of physical logistics, extra transfers, and general inconvenience to her daily routine. By using continuous birth control to suppress her cycle entirely, she actively reclaims that physical energy. For Jessica, it isn't about treating an underlying condition; it is a purely practical, calculated quality-of-life decision.
 
 - **The Professional Benefit:** As a high-powered project manager at Quantum (currently deployed to Naval Station Norfolk), this medical accommodation eliminates unpredictable physical interruptions. It ensures her body's daily logistics are as streamlined, efficient, and fiercely independent as her professional projects, allowing her to navigate corporate environments and travel deployments without unnecessary hassle.
+
+## Kristin (The West Coast Sentinel & Partner's Baseline)
+
+- **The Origin:** Like Ashley, Kristin maintains continuous long-form birth control as part of her standard adult medical routine from her years in Washington State through the permanent relocation to Virginia Beach (`e019` / `e020`).
+
+- **The Rationale:** Following the "June Upgrade" (`June 15, 2009`), Kristin and Ashley openly share the romantic and intimate partner role in Michael's life within the closed five-person household without jealousy or friction. Having all four women in the household on consistent, long-term birth control ensures complete medical predictability, zero reproductive anxiety, and a 100% stable logistical baseline across the entire Moosewood Drive sanctuary.
