@@ -30040,13 +30040,17 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 Back in **January 2020**, sitting at our adjacent desks in the **Command Center** at our single-family home on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)—the custom fortress **Jessica** had built from the ground up for the five of us (**Michael, Rachel, Ashley, Kristin, and Jessica**)—**Rachel** and I had spent a quiet winter evening planning our upcoming **March 2020 Spring Break** trip to Maryland and Washington, D.C. We had booked a hotel in **North Linthicum, Maryland**—about a block from the **STA (`State Transit Administration`)** light rail station—and bought two round-trip **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`**, planning to take the free **BWI Airport Shuttle** over to the airport light rail stop, ride the **STA Light Rail** into Baltimore for a day, and take a **MAC (`Maryland Area Commuter`)** Penn Line train down to **Washington Union Station** for a day in D.C.
 
-Even though our single-family home on **Moosewood Drive** had a wide concrete driveway with plenty of room for another vehicle (unlike our old `2007–2009` two-car townhouse driveway on Canadian Arch), whenever **Jessica** was locked down inside the SCIF at NAVSTA Norfolk or at Quantum East in Town Center and **Kristin** and **Ashley** were at work during the day, Rachel and I had still been relying on **CVTA** buses whenever the two of us went out together on daytime errands.
+At our **Moosewood Drive** house, the five of us had a very specific transportation setup:
+* **Ashley** held a **Virginia Driver's License** and owned her own car, which was parked in our Moosewood Drive driveway.
+* **Kristin** held a **Virginia State ID** and either took the **CVTA** bus or got rides with Ashley—the only thing stopping Kristin from driving was that she simply did not like to drive (nothing was stopping her from taking Behind-the-Wheel lessons if she ever wanted to).
+* **Jessica** was prohibited from driving for medical reasons and also held a **Virginia State ID**.
+* **Rachel and I** had taken our adult **Behind-the-Wheel** lessons back in **2016** (paid for by **Mom / Ellen**) to earn our **Virginia Driver's Licenses**, and Mom had kept both of us listed under the auto insurance policy for her car ever since so that we were allowed to borrow it. Because Mom did not live at our Moosewood Drive address, however, borrowing her car wasn't an everyday option—so whenever Ashley was at work with her car, Rachel and I mainly took the **CVTA** bus or coordinated rides with Ashley.
 
 Then came the first week of **February 2020**—five straight days of standing at **CVTA** stops in sideways forty-degree coastal rain, waiting on delayed bus transfers with heavy bags of groceries cutting into our fingers.
 
 By that Friday night, after Rachel and I peeled off our rain-soaked jackets by the front door of our Moosewood Drive home and sat down at the kitchen table with **Jessica**, **Kristin**, **Ashley**, and **Mom (`Ellen`)**, both Rachel and I had reached the exact same conclusion at the exact same time:
 
-We were thirty-two and thirty years old, we both had clean Virginia driver's licenses, we had plenty of room in the Moosewood Drive driveway, and **we were tired of riding the bus**.
+We were thirty-two and thirty years old, we had held clean Virginia driver's licenses with **`+5` Safe Driving Points** for four years since our 2016 Behind-the-Wheel lessons, we had plenty of room in the Moosewood Drive driveway alongside Ashley's car, and **we were tired of riding the bus**.
 
 "Then we solve the logistics," **Jessica Marie Ragsdale** said immediately from the head of the table, shifting into pure executive problem-solving mode while Kristin and Ashley nodded in full agreement. "You two don't need a car loan or a monthly payment hanging over your heads. I have **`$30,000.00`** in liquid cash ready to transfer so the two of you can buy a brand-new, reliable family sedan outright in cash—titled and insured in both of your names."
 
@@ -30364,14 +30368,31 @@ Walking up to the teller window together with our fingers laced together, Rachel
 
 *(Because a single bank Cashier's Check over `$10,000` is drawn directly on verified credit union funds—unlike walking into a dealership with a duffel bag of hundred-dollar bills—it doesn't even trigger the federal IRS Form 8300 physical-currency reporting paperwork).*
 
-##### Step 3: Binding Joint Virginia Auto Insurance (The Only Two Listed Drivers)
+##### Step 3: Binding Joint Virginia Auto Insurance (`+5` Safe Driving Points, The Moosewood Household Roster, & The Harrisonburg Courthouse Crosswalk)
 When Mom drove us back to **Bayside Horizon** at `4:35 PM`, Rachel and I sat down at Denise's desk and called our auto insurance carrier on speakerphone before entering the business office.
 
-Reading the 2020 Horizon Avalon's seventeen-digit **VIN** off the Buyer's Order, we bound our comprehensive and collision policy effective immediately, listing:
-* **Named Insureds:** **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`** (`Moosewood Drive, Virginia Beach, VA`)
-* **Listed / Rated Drivers on the Vehicle:** Strictly **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`**—brother and sister as the **only two listed drivers** on the policy (since Jessica, Kristin, and Ashley already had their own vehicles and coverage at our Moosewood Drive home).
+Because Virginia auto insurance underwriters run every adult living at the physical **garaging address** (`Moosewood Drive, Virginia Beach, VA`), setting up our policy cleanly came down to three exact rules:
 
-Within two minutes, the insurance binder and temporary Virginia insurance cards arrived in Denise's email inbox and on both of our phones.
+1. **Named Insureds & Only Two Rated Drivers:** **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`** (`Moosewood Drive, Virginia Beach, VA`)—brother and sister as the **only two rated drivers** on the **2020 Horizon Avalon**.
+2. **The Moosewood Drive Household Roster (`Zero Extra Driver Surcharges`):**
+   * **Jessica** (prohibited from driving for medical reasons) and **Kristin** (who chooses not to drive) were listed on the household disclosure as **Non-Licensed Household Residents (`Virginia State ID Only`)**, adding `$0.00` to our premium.
+   * **Ashley**—the only other licensed driver living at our Moosewood Drive address—owned her own car parked in our driveway and carried her own separate auto insurance policy. Under Virginia's **Separately Insured Household Member** rule (`Va. Code § 38.2-2204`), we simply cross-referenced Ashley's active policy number so the underwriter marked her as *Insured Elsewhere / Own Vehicle* (`Non-Rated`).
+3. **Continuous Prior Insurance (`2016–2020` on Mom's Policy) & `+5` Virginia DMV Safe Driving Points:**
+   * Because **Mom (`Ellen`)** had paid for our **Behind-the-Wheel** lessons back in **2016** and kept both Rachel and me listed as insured drivers on her car's policy ever since (even though Mom lived at her own address), we didn't get hit with a *"new uninsured buyer"* surcharge—we had **four years of continuous prior insurance coverage** right out of the gate.
+   * Better yet, when the agent pulled our official Virginia DMV transcripts, **both Rachel and I held the maximum `+5` Safe Driving Points**.
+
+Why did I still have all **`+5` Safe Driving Points** despite having been involved in one collision since 2016?
+
+Because the **only** collision Rachel and I had ever been in was `100%` **Not-At-Fault**—and it was a masterclass in both highway irony and instant karma:
+* Rachel and I had been driving southbound on **Interstate 81 (`I-81 South`)** through the Shenandoah Valley when a crash ahead backed up `I-81` southbound at **Harrisonburg, Virginia**.
+* To detour around the `I-81` collision, I got off the interstate and took **U.S. Route 11 South (`Main Street`)** through **Downtown Harrisonburg**, where the speed limit drops to **`25 MPH`**.
+* Right where **U.S. Route 33 (`Market Street`) meets U.S. Route 11 (`Main Street`)** at the historic **Rockingham County Courthouse** on Court Square, I came to a complete, lawful stop at a marked crosswalk in the `25 MPH` zone to let **two pedestrians** cross the street.
+* A driver behind us—**talking on a cell phone and not paying attention**—failed to stop and **rear-ended us** right there at the courthouse crosswalk! (We had literally gotten off `I-81 South` to go around a collision, only to get hit while stopped for pedestrians at `US-11` and `US-33`!).
+* When the other driver stepped out, it turned out they were **uninsured**, and they immediately started begging Rachel and me **not to call the police**.
+* Right in the middle of the uninsured driver begging us not to call it in, a **Rockingham County Sheriff's Deputy** happened to be rolling right past the courthouse on unrelated business, **saw the collision**, flipped on his lights, pulled over to the curb, and offered to be of assistance!
+* Because the Sheriff's Deputy wrote an airtight Virginia crash report on the spot documenting that I was lawfully stopped at a `25 MPH` crosswalk for two pedestrians when rear-ended by a distracted, uninsured driver on a cell phone, the claim was paid under Virginia's **Uninsured Motorist (`UM / UMPD`)** coverage with **`0%` fault**, preserving my **`+5` Safe Driving Points** alongside Rachel's **`+5`**—and making sure we kept full **Uninsured Motorist** protection on our new Avalon from day one.
+
+Within two minutes, the insurance binder and temporary Virginia insurance cards arrived in Denise's email inbox and on both of our phones (allowing Mom to finally drop us from her car's rated driver list now that we had our own insured sedan).
 
 ##### Step 4: The Business Office & Virginia DMV Form `VSA 17A` (Equal Co-Owners)
 Even when you pay `100%` in cash with zero loan, you still sit down for ten minutes inside the dealership's **Business (`F&I`) Office**—not to sign a loan contract, but to complete the state DMV title, registration, and odometer paperwork.
@@ -30403,9 +30424,7 @@ She handed **one key fob to Rachel**, and **one key fob to me**.
 
 Right there beside the hood of our brand-new royal blue car, Rachel threw both arms around my neck and I wrapped both arms around her waist in a long, tight, full-strength **Bear and Bug** hug while Mom snapped a photo of the two of us on her phone.
 
-For the drive home to **Moosewood Drive**, Mom led the way in her car while I drove the first half and Rachel rode shotgun—and halfway home, just for the sheer joy of it, we pulled into a shopping center lot and swapped seats so Rachel could drive our new Avalon the rest of the way into the Silverleaf neighborhood, turn onto **Moosewood Drive**, and back it smoothly into our wide single-family driveway alongside the rest of our household fleet as **Jessica**, **Kristin**, and **Ashley** came out the front door to cheer and admire our new royal blue sedan.
-
-*(Back when the five of us had been squeezed into the two-car townhouse driveway at [3701 Canadian Arch in 2009](https://books.raggiesoft.com/rachel/the-director-s-perimeter/the-moosewood-anomaly/part-1-the-twenty-third-milestone-the-moosewood-anomaly), we wouldn't even have had a legal parking space for a third car—which made seeing our own royal blue Avalon gleaming in the Moosewood Drive driveway feel all the sweeter).*
+For the drive home to **Moosewood Drive**, Mom led the way in her car while I drove the first half and Rachel rode shotgun—and halfway home, just for the sheer joy of it, we pulled into a shopping center lot and swapped seats so Rachel could drive our new Avalon the rest of the way into the Silverleaf neighborhood, turn onto **Moosewood Drive**, and back it smoothly into our wide single-family driveway right alongside **Ashley's** car as **Jessica**, **Kristin**, and **Ashley** came out the front door to cheer and admire our new royal blue sedan.
 
 Inside on our desks in the **Command Center**, our two **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`** were still waiting for our upcoming **March 2020 Spring Break** trip to North Linthicum, Baltimore, and Washington, D.C.—because we had already paid for those train tickets back in January before we knew we were buying a car, and we had every intention of taking our Spring Break train trip next month.
 
