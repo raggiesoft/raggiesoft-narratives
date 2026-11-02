@@ -81,20 +81,23 @@ function formatEbookFileSize(int $bytes): string {
 function getSeriesEbookSizes(string $bookAssetDir, string $seriesSlug): array {
     clearstatcache();
     $files = [
-        'epub'      => $bookAssetDir . '/' . $seriesSlug . '.epub',
-        'pdf'       => $bookAssetDir . '/' . $seriesSlug . '.pdf',
-        'text_epub' => $bookAssetDir . '/' . $seriesSlug . '-text.epub',
-        'text_pdf'  => $bookAssetDir . '/' . $seriesSlug . '-text.pdf',
+        'epub'       => $bookAssetDir . '/' . $seriesSlug . '.epub',
+        'pdf'        => $bookAssetDir . '/' . $seriesSlug . '.pdf',
+        'text_epub'  => $bookAssetDir . '/' . $seriesSlug . '-text.epub',
+        'text_pdf'   => $bookAssetDir . '/' . $seriesSlug . '-text.pdf',
+        'package_7z' => $bookAssetDir . '/' . $seriesSlug . '-package.7z',
     ];
     $sizes = [
-        'epub'            => '',
-        'pdf'             => '',
-        'text_epub'       => '',
-        'text_pdf'        => '',
-        'epub_bytes'      => 0,
-        'pdf_bytes'       => 0,
-        'text_epub_bytes' => 0,
-        'text_pdf_bytes'  => 0,
+        'epub'             => '',
+        'pdf'              => '',
+        'text_epub'        => '',
+        'text_pdf'         => '',
+        'package_7z'       => '',
+        'epub_bytes'       => 0,
+        'pdf_bytes'        => 0,
+        'text_epub_bytes'  => 0,
+        'text_pdf_bytes'   => 0,
+        'package_7z_bytes' => 0,
     ];
     foreach ($files as $key => $filePath) {
         if (is_file($filePath)) {
