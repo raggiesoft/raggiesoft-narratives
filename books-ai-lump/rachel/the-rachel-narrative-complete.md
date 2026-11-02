@@ -20773,25 +20773,27 @@ Jessica pointed to a massive, imposing glass-and-steel structure looming on our 
 
 I stared up at the tinted windows, completely awestruck, my mind reeling at the fact that I was standing mere yards away from the office of the most powerful tech billionaire on the planet.
 
-"And my department," Jessica said, unlocking her brakes and pointing toward the sleek, multi-story structure right next door, "is right here. Building 35."
+"And my department," Jessica said, unlocking her brakes and pointing toward the sleek, multi-story structure right next door to Building 33 and Building 34, "is right here. Building 35."
 
-I pushed her toward the entrance, the heavy glass sliding open to reveal a sprawling, high-security lobby. Jessica wheeled directly up to the main security desk, completely in her element.
+As I pushed her toward the entrance, she didn't even have to reach for a handicap push-plate: her full-time Quantum **Blue Badge** was coded with an RFID accessibility flag that pinged the proximity reader as we rolled up, automatically triggering the motorized entrance doors to swing open with an extended fifteen-second hold-open timer. We rolled smoothly into a sprawling, high-security lobby. Jessica wheeled directly up to the main security desk, completely in her element.
 
 "Good afternoon, Jessica," the uniformed guard smiled, recognizing her instantly. He looked up at me with polite, calculating scrutiny.
 
-"Afternoon, Dave," Jessica replied, her voice radiating smooth, corporate authority. "I need to get my brother signed in as a visitor for the first time. Just a quick trip up to my office."
+"Afternoon, Dave," Jessica replied, her voice radiating smooth, corporate authority. "I need to get my brother signed in as a visitor for the first time. Just a quick trip back to my office."
 
 I handed over my ID, feeling entirely out of place in my old sneakers and jacket, but standing next to Jessica gave me absolute clearance. The guard printed a sticky visitor badge with my name and the current date, handing it across the counter. I slapped it onto my chest, officially permitted inside the fortress.
 
-We took the elevator up to the Federal Enterprise Solutions floor. The doors opened to a quiet, hyper-focused maze of cubicles and server rooms. As I pushed her through the open-plan bullpen, I immediately noticed the dynamic shift. Junior developers and project managers looked up from their dual monitors, offering respectful nods and quick, deferential greetings of "Afternoon, Jessica" as we passed.
+We didn't have to touch an elevator. As part of her permanent workplace accommodations, Quantum had assigned Jessica's private corner suite on the **ground floor (`1st floor`)** of Building 35 so she had immediate, flat, grade-level access to the courtyard and exits without ever risking being stranded by an elevator outage or fire alarm. As we approached the inner security vestibule of the ground-floor Federal Enterprise Solutions wing, the proximity reader caught her Blue Badge again, automatically unlatching and swinging the heavy glass corridor doors wide open for fifteen seconds.
+
+As I pushed her through the ground-floor bullpen, I immediately noticed the dynamic shift. Junior developers and project managers looked up from their dual monitors, offering respectful nods and quick, deferential greetings of "Afternoon, Jessica" as we passed.
 
 She didn't just work here; she managed these people. She was a commander.
 
-Jessica didn't stop in the bullpen. She guided me down a wide, carpeted corridor toward the executive suites, finally stopping in front of a heavy, frosted glass door.
+Jessica didn't stop in the bullpen. She guided me down a wide, carpeted first-floor corridor toward the corner suites, finally stopping in front of a heavy, frosted-glass door whose motorized actuator clicked and swung open automatically at the proximity of her badge.
 
 Mounted on the wall beside it was a sleek metal plaque bearing her name and her title: *Senior Technical Program Manager*.
 
-She swiped her badge, and the electronic lock clicked. I pushed her into her private office, pulling the heavy door shut behind us to seal the perimeter. I stood there, taking a slow breath. The space was immaculate and commanded absolute respect, featuring a large mahogany desk, a small conference table, and massive whiteboards covered in complex deployment schedules and network architecture diagrams for the Department of Defense.
+I pushed her into her private ground-floor corner office as the motorized door held open for fifteen seconds before sealing the perimeter behind us. I stood there, taking a slow breath. The space was immaculate, Commands-level engineered for her exact sensory and mobility needs, and radiated absolute respect: Facilities had disconnected the harsh overhead fluorescent tubes in favor of warm, steplessly dimmed indirect task lamps; frosted film shielded the interior sidelight glass from hallway glare; and dual matte anti-glare monitors running a high-contrast dark theme were mounted on articulating arms above a motorized roll-under desk, surrounded by a small conference table and massive whiteboards covered in complex deployment schedules and network architecture diagrams for the Department of Defense.
 
 She didn't linger to let me admire the view. She rolled right up to her desk, unlocked the bottom drawer, pulled out a thick, unmarked manila envelope, and slid it seamlessly into her messenger bag.
 
@@ -25025,9 +25027,9 @@ I wrapped my arm around Kristin’s waist, let out a long, shuddering exhale, an
 
 #### 4:00 PM — The Digital Void & The Shrine
 
-We met Jessica in the sprawling, glass-walled lobby of Quantum Building 35 just after four o'clock. She signed us in at the security kiosk, printing two fresh visitor badges before escorting us up to the third floor.
+We met Jessica in the sprawling, glass-walled lobby of Quantum Building 35 just after four o'clock. She signed us in at the security kiosk, printing two fresh visitor badges before escorting us down the ground-floor corridor—her Blue Badge's proximity accessibility flag automatically triggering the motorized corridor and office doors to swing open with a fifteen-second hold timer—straight into her first-floor corner suite.
 
-Her office was a testament to her rank. It wasn't a standard cubicle; it was a private corner suite with massive monitors displaying real-time server loads for the Aegis Protocol matchmaking network.
+Her ground-floor corner office was a testament to both her rank and Quantum's custom ergonomic engineering. It wasn't a standard cubicle; it was a private, de-lamped sanctuary illuminated by warm indirect task lighting, with massive matte anti-glare monitors above her motorized roll-under desk displaying real-time server loads for the Aegis Protocol matchmaking network.
 
 "I have about forty-five minutes of crunch-time fires to put out before the holiday code freeze goes into effect," Jessica said, wheeling behind her massive desk. She pulled a pristine, wiped laptop from a charging rack and handed it to me. "It's sandboxed and off the main corporate network. You can use it to check your email."
 
