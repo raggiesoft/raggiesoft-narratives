@@ -542,26 +542,29 @@ From the bottom step of the open-slatted stairs, Jessica caught my eye and had t
 
 #### 8:45 AM — Three Ragsdales on Dominion Mall
 
-Long before **Rachel** and I ever set foot on the campus of **Virginia Dominion University (`VDU`)** as college students, its wide concrete pedestrian plazas and modern glass-and-concrete buildings in Norfolk were already burned into our permanent spatial memory.
+The morning humidity coming off the Elizabeth River already smelled like warm concrete and salt water when Mom eased our station wagon up to the drop-off curb off Hampton Boulevard.
 
-In the summers when we were kids—beginning in the bright, humid mornings of **July 1994**, five years before [the November 1999 portico accident when nineteen-year-old Jessica fell while hanging Christmas lights](https://books.raggiesoft.com/rachel/high-school/the-holding-pattern/the-daytime-warden-the-logic-blueprint)—**Jessica**, **Rachel**, and I all went to **Youth Summer Camp at Virginia Dominion University**.
+"Stay together, listen to your counselors, and keep your water bottles in your packs," Mom called out through the open passenger window as the three of us stepped onto the wide sidewalk at the edge of Virginia Dominion University. "I'll be right back at this exact loop at four o'clock."
 
-Every weekday morning at `8:45 AM`, after Mom or Dad dropped the three of us off at the check-in curb off Hampton Boulevard and handed us over to our **VDU Summer Camp counselor**, fourteen-year-old **Jessica** stayed right beside seven-year-old **Rachel** and me (at nine) as our counselor led our group of fifteen noisy Hampton Roads campers out onto the broad, light-gray concrete expanse of **Dominion Mall**. Even in the middle of the bustling camp group—all of us wearing matching royal-blue **`VDU SUMMER CAMP`** t-shirts and canvas backpacks—**Rachel and I held hands with our fingers laced tightly together** from check-in all the way across the plaza.
+"We've got it, Mom," fourteen-year-old Jessica promised, adjusting her clear wire-rimmed glasses and settling her canvas backpack over both shoulders. Before the station wagon had even merged back into the Norfolk traffic, my older sister stepped straight into position on my left flank, while seven-year-old Rachel reached up with her right hand and laced her fingers tightly through mine.
+
+It was five years before [the November 1999 portico accident when nineteen-year-old Jessica fell while hanging Christmas lights](https://books.raggiesoft.com/rachel/high-school/the-holding-pattern/the-daytime-warden-the-logic-blueprint), back in the bright, unbroken summers when all three of us walked onto campus on our own two feet. At nine years old, wearing the same royal-blue VDU Summer Camp t-shirt as my sisters, I didn't care how many other kids were milling around the check-in tables; from the moment our shoes touched the pavement until the moment Mom picked us up in the afternoon, Rachel and I kept our hands locked together.
 
 ![Nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica walking with their VDU Youth Summer Camp counselor and fellow campers across the concrete plaza of Dominion Mall at Virginia Dominion University in July 1994]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
 
-"All right, campers, stay together on the mall!" our college-age camp leader called out cheerfully over the rush of the circular plaza fountain, holding up his camp clipboard as we walked past the modern flat-roofed precast-concrete and blue-glass facade of the **University Library** toward **Monarch Commons**. "Morning computer and science lab is straight ahead across **Dominion Mall**, lunch at noon is inside the **Monarch Commons** dining hall, and afternoon swimming and indoor games are over at the **Student Recreation Center**!"
+"All right, campers, stay together on the mall!" our college-age camp counselor called out cheerfully over the rush of the circular plaza fountain, holding his wooden clipboard high in the air as he led our group of fifteen noisy Hampton Roads kids out onto the broad, light-gray concrete expanse of Dominion Mall. "Morning computer and science lab is straight ahead across Dominion Mall, lunch at noon is inside the Monarch Commons dining hall, and afternoon swimming and indoor games are over at the Student Recreation Center!"
 
-For my system-oriented brain—and for Rachel's quiet, observant processor right beside me—walking VDU's urban Norfolk campus every single day with our camp group across our childhood summers was like downloading a high-resolution CAD blueprint straight into long-term memory.
+Most of the other kids in our group simply drifted behind the counselor's lanyard whistle, chattering about cartoons and trading baseball cards without ever looking up at the buildings around them. My brain didn't work that way, and neither did Rachel's or Jessica's.
 
-While the other campers in our group just followed the counselor's lanyard whistle without paying attention to where the buildings were, Jessica, Rachel, and I mapped every single landmark on the VDU grid:
-* We learned the exact diagonal concrete walkways cutting across **Dominion Mall** between **Monarch Commons**, the **University Library**, and the modern glass-walled **Dominion Arts & Letters** building.
-* We memorized where the shaded benches sat under the crape myrtles and live oaks beside the circular fountain when the July coastal humidity spiked past ninety degrees and my calves needed a five-minute rest.
-* And at noon every day, when the camp counselors marched all the age groups into **Monarch Commons** for lunch, fourteen-year-old Jessica got permission from her teen-group leader to walk right over to our table so the three of us ate lunch together as an unbreakable unit before Mom arrived at the afternoon pick-up loop.
+As our sneakers clicked across the expansion joints of the plaza, the three of us quietly treated the urban Norfolk campus like a live architectural blueprint. Walking past the flat-roofed precast-concrete and blue-glass facade of the University Library, Jessica pointed out how the diagonal walkways cut clean geometric shortcuts across Dominion Mall, linking Monarch Commons straight to the glass walls of the Dominion Arts and Letters building. When the mid-morning Tidewater heat climbed past ninety degrees on the walk back from the science lab, we cataloged the exact shaded wooden benches tucked beneath the crape myrtles and live oaks beside the circular fountain—the cool, mist-sprayed perimeters where my tight calves could rest for five minutes before the next activity block.
 
-"When we grow up and go to college," Rachel whispered to me one afternoon as our camp leader lined our group up by the circular fountain for parent pick-up, her small seven-year-old fingers still laced through mine, "we already know where all the buildings are, Bear."
+By noon, when the counselors marched all the different age brackets through the wide glass double doors of Monarch Commons, Jessica didn't stay over on the far side of the cafeteria with the high-school teenagers. Every single day, she got permission from her teen-group leader to carry her plastic lunch tray right over to our table. Sitting across from Rachel and me with our blue camp shirts bunched around our elbows, she traded her extra packet of crackers for my apple slices and quizzed us on which brick-and-glass building sat at each corner of the quad.
 
-"Every single one of them, Bug," I smiled back, never imagining how many miles—and how many years—the three of us would have to cross before Rachel and I finally walked across **Dominion Mall** together again.
+Later that afternoon, as the sun slanted across the water jets of the circular fountain and our counselor lined our group up along the curb for parent pick-up, Rachel leaned her shoulder against my arm. Her small seven-year-old fingers were still laced securely through mine.
+
+"When we grow up and go to college," Rachel whispered, looking back across the wide concrete plaza toward the library and Monarch Commons, "we already know where all the buildings are, Bear."
+
+"Every single one of them, Bug," I said, giving her hand a gentle squeeze as Mom's car pulled into view at the end of the loop—never imagining how many miles, or how many years, the three of us would have to cross before Rachel and I finally walked across Dominion Mall together again.
 
 # The Saltwater Summer
 
@@ -11073,15 +11076,11 @@ She pulled a pen from the desk and grabbed a notepad.
 
 "Perfect," Jessica smiled. "Yes, let's go over the official accommodations."
 
-She began to write rapidly, confirming the parameters of her new, independent life out loud so Rachel and I could hear the fortress being built.
+She began to write rapidly on the lined pad, reading each accommodation aloud as she confirmed the parameters of her new, independent life so Rachel and I could hear the fortress being built in real time.
 
-- "Use of a computer for all class notes, homework, tests, and quizzes. Agreed."
+"Use of a computer for all class notes, homework, tests, and quizzes," Jessica read back, her pen moving briskly across the paper. "Agreed. Authorized to request a designated note-taker for lectures. Excellent."
 
-- "Authorized to request a designated note-taker for lectures. Excellent."
-
-- "Double time on all examinations, including the authorization to use an alternate, distraction-free environment such as the university's testing center. That is completely necessary."
-
-- "And the housing override is approved? The ADA-accessible apartment-style dorm with the single bedroom will be fully covered by the Quantum scholarship."
+She turned to a fresh sheet on the notepad, her voice steady and resolute. "Double time on all examinations, including the authorization to use an alternate, distraction-free environment such as the university's testing center. That is completely necessary. And the housing override is approved? The ADA-accessible apartment-style dorm with the single bedroom will be fully covered by the Quantum scholarship."
 
 Jessica let out a long, shuddering exhale, the tension finally bleeding out of her shoulders. She wasn't going to be trapped in a cramped, inaccessible third-floor room. She had successfully engineered her sanctuary.
 
@@ -16945,33 +16944,31 @@ It was just Mom, me, Rachel, and Jessica. The perimeter was perfectly secured, t
 
 #### 10:15 AM — The Map I Already Knew by Heart
 
-On a crisp Friday morning in **October 2002**, two months into my `2002–2003` senior year at **Northwood High School**, two yellow Virginia Beach school buses rolled up Hampton Boulevard and let our senior field trip group out at the visitor plaza of **Virginia Dominion University (`VDU`)** in Norfolk for our sanctioned college admissions tour.
+The air brakes of the two yellow Virginia Beach city school buses let out a long, pneumatic hiss as they pulled up to the visitor curb off Hampton Boulevard.
 
-Staying right together in a tight semi-circle around our **Northwood High School guidance counselor chaperone**, my classmates and I took the glossy blue-and-silver campus maps handed out by the **VDU Admissions student tour guide**. I folded mine in half and slipped it into my jacket pocket without even needing to glance at the legend.
+"Stay with your group, Northwood seniors!" our guidance counselor chaperone called out from the bottom of the bus steps, checking her clipboard against the crisp October breeze coming off the river. "Take a campus folder from the admissions table and gather around our student ambassador on the plaza!"
 
-I didn't need a map of **Virginia Dominion University**.
+Stepping onto the familiar concrete at the edge of Virginia Dominion University, I accepted one of the glossy blue-and-silver campus maps from the VDU Admissions student tour guide, folded it neatly in half, and slipped it into my jacket pocket without glancing once at the printed legend.
 
-As our VDU tour guide began walking backward down the wide, light-gray concrete pedestrian expanse of **Dominion Mall**—pointing out the modern flat-roofed brick-and-glass overhang of **Monarch Commons**, the precast-concrete and blue-glass facade of the **University Library**, the circular plaza fountain, and the **Student Recreation Center**—every single landmark triggered a flood of childhood memory from [the summers when **Jessica**, **Rachel**, and I had gone to **Youth Summer Camp** here at VDU](https://books.raggiesoft.com/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/dominion-mall-the-summer-camp-map-mapping-vdu-with-rachel-and-jessica).
+I didn't need a map to tell me where I was standing.
+
+As our tour guide began walking backward down the wide, light-gray concrete pedestrian expanse of Dominion Mall—gesturing toward the modern flat-roofed brick-and-glass overhang of Monarch Commons, the precast-concrete and blue-glass facade of the University Library, the circular plaza fountain, and the Student Recreation Center—every building on the grid called up the exact spatial coordinates from [the childhood summers when Jessica, Rachel, and I had attended Youth Summer Camp here together](https://books.raggiesoft.com/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/dominion-mall-the-summer-camp-map-mapping-vdu-with-rachel-and-jessica).
 
 ![Seventeen-year-old Michael standing inside his Northwood High School senior field trip tour group on the concrete plaza of Dominion Mall at Virginia Dominion University in October 2002 as the VDU tour guide points out the modern glass-and-concrete campus buildings]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/oct_2002_vdu_high_school_field_trip_tour_michael.jpg)
 
-Standing right inside our Northwood High School tour group as the guide paused beside the circular fountain, I looked across the concrete plaza and remembered the exact crape myrtle and live oak benches where nine-year-old me and seven-year-old Rachel had sat side by side holding hands while fourteen-year-old Jessica and our camp counselor went over the day's schedule. I remembered the diagonal concrete walkway past the modern glass walls of the library, and the wide glass doors of **Monarch Commons** where Jessica had joined us every day at noon so the three of us could eat camp lunch together.
+Standing inside the semicircle of my Northwood High School classmates where our guide paused beside the circular fountain, I looked across the sun-washed concrete toward the crape myrtles and live oaks. Eight summers ago, nine-year-old me and seven-year-old Rachel had sat side by side on those exact wooden benches with our fingers laced together while fourteen-year-old Jessica stood beside us in her clear wire-rimmed glasses. Just past the fountain ran the diagonal walkway to the glass doors of Monarch Commons, where Jessica had walked over from the teen group every day at noon so the three of us could eat our camp lunches at the same table.
 
-Back then, in July 1994, all three of us had been together on the same coast, under the same roof, walking on our own two feet.
+In July 1994, all three of us had lived under the same roof in Virginia Beach, walking across this plaza together. Now, two months into my senior year of high school, [the divorce had split our family across an entire continent](https://books.raggiesoft.com/rachel/the-divorce/the-departure/the-bright-idea-the-calling-cards). Twenty-one-year-old Jessica and fifteen-year-old Rachel were three thousand miles away in Washington State, while I was seventeen and finishing out my final year at Northwood High here in Hampton Roads.
 
-Now, in October 2002, [the divorce had split our world across an entire continent](https://books.raggiesoft.com/rachel/the-divorce/the-departure/the-bright-idea-the-calling-cards): twenty-one-year-old **Jessica** and fifteen-year-old **Rachel** were three thousand miles away in **Washington State**, while I was seventeen and finishing out my senior year at Northwood High School here in Hampton Roads.
+All around me, my classmates were peppering the VDU student ambassador with questions about SAT score cutoffs, freshman residence hall applications for Fall 2003, and campus meal plans. I kept pace in the center of the group with my hands shoved deep into my jacket pockets, my right hand feeling hollow and phantom-empty without my little sister's fingers laced through mine.
 
-Right beside me in the tour group, my Northwood classmates were asking the VDU ambassador about SAT scores, freshman dormitory applications for Fall 2003, and which meal plans they wanted to pick right after graduation. Keeping pace with the group with my hands tucked into the pockets of my jacket, my right hand felt phantom-empty without my little sister's fingers laced through mine.
+"Hey, Michael, are you putting in an application for next fall?" our Northwood High guidance counselor asked, falling into step beside me as our group followed the tour guide across the plaza toward the library forecourt. "You haven't even looked at your map once. You act like you already know where every building on this mall is."
 
-"Hey, Michael, are you putting in an application for next fall?" our Northwood High guidance counselor asked, walking right beside me as our group followed the tour guide across the concrete plaza toward the library entrance. "You already seem to know where every building on this mall is."
+"I went to summer camp here with my sisters when we were kids," I answered politely, looking up at the blue-glass reflection of the library above us. "We walked this quad every day."
 
-"I went to summer camp here with my sisters when we were kids," I said politely, staying right with the group as we stepped onto the library forecourt. "It's a great school."
+"Well, with your computer grades, you'd fit right in here next autumn," she said encouragingly before moving ahead to corral two seniors who had wandered toward the fountain.
 
-I didn't tell the guidance counselor what my internal processor had already locked in as an unbreakable directive.
-
-Even at seventeen, walking with my Northwood High School class through the October sunlight of Norfolk while my sisters were on the other side of the country, I knew in my bones that I wasn't going straight to a four-year university next fall—and I certainly wasn't moving onto a college campus by myself. Before I ever enrolled at a university for real, **I was going to try to reunite with my family first**.
-
-And if the day ever came when I walked back onto **Dominion Mall** at **Virginia Dominion University** to earn my bachelor's degree, I was only going to do it with **Rachel** walking right beside me.
+I nodded quietly, keeping my true calculation locked inside my chest. Even at seventeen, standing in the October sunlight of Norfolk while my sisters were on the far side of the country, I knew in my bones that I wasn't enrolling at a four-year university next fall—and I certainly wasn't moving onto a college campus alone. Before I ever started a university degree for real, I was going to reunite with my family first. And if the day ever came when I walked back across Dominion Mall to earn a bachelor's degree at Virginia Dominion University, I was only going to do it with Rachel walking right beside me.
 
 ## The Empty Shell
 
@@ -20783,7 +20780,7 @@ As I pushed her toward the entrance, she didn't even have to reach for a handica
 
 I handed over my ID, feeling entirely out of place in my old sneakers and jacket, but standing next to Jessica gave me absolute clearance. The guard printed a sticky visitor badge with my name and the current date, handing it across the counter. I slapped it onto my chest, officially permitted inside the fortress.
 
-We didn't have to touch an elevator. As part of her permanent workplace accommodations, Quantum had assigned Jessica's private corner suite on the **ground floor (`1st floor`)** of Building 35 so she had immediate, flat, grade-level access to the courtyard and exits without ever risking being stranded by an elevator outage or fire alarm. As we approached the inner security vestibule of the ground-floor Federal Enterprise Solutions wing, the proximity reader caught her Blue Badge again, automatically unlatching and swinging the heavy glass corridor doors wide open for fifteen seconds.
+We didn't have to touch an elevator. As part of her permanent workplace accommodations, Quantum had assigned Jessica's private corner suite on the ground floor of Building 35 so she had immediate, flat, grade-level access to the courtyard and exits without ever risking being stranded by an elevator outage or fire alarm. As we approached the inner security vestibule of the ground-floor Federal Enterprise Solutions wing, the proximity reader caught her Blue Badge again, automatically unlatching and swinging the heavy glass corridor doors wide open for fifteen seconds.
 
 As I pushed her through the ground-floor bullpen, I immediately noticed the dynamic shift. Junior developers and project managers looked up from their dual monitors, offering respectful nods and quick, deferential greetings of "Afternoon, Jessica" as we passed.
 
@@ -27777,7 +27774,7 @@ We set up two metal folding tables side-by-side against the back wall. Rachel’
 
 "Okay," Rachel rasped softly, her fingers flying across her laptop keyboard. "My Orbit profile is officially live. I sent you a friend request."
 
-I clicked refresh on my browser, accepted her request instantly, and navigated to my layout settings. I didn't care about gaudy background graphics or auto-playing songs; I cared about the perimeter. I manually dragged Rachel’s profile into the `#1` spot on my "Top 8" grid, placed Jessica at `#2`, and locked Kristin—my West Coast Sentinel and best friend—into `#3`.
+I clicked refresh on my browser, accepted her request instantly, and navigated to my layout settings. I didn't care about gaudy background graphics or auto-playing songs; I cared about the perimeter. I manually dragged Rachel’s profile into the number-one spot on my "Top 8" grid, placed Jessica at number two, and locked Kristin—my West Coast Sentinel and best friend—into number three.
 
 "I'm adding Community College of Hampton Roads to my education section for the fall," I said, saving the changes and leaning back in my chair.
 
@@ -27801,17 +27798,17 @@ Rachel rolled her chair six inches to the right until her knee pressed against m
 
 By Friday afternoon, the temporary green air mattress was deflated, rolled up, and stowed in the hall closet. The Furniture Row delivery crew had just finished bolting the last heavy wooden frame together, and as their box truck rumbled out of the Canadian Arch cul-de-sac, the permanent three-bedroom architecture of 3701 finally clicked into place.
 
-Every square foot of the upstairs floor had been engineered around how our brains and bodies actually operated:
+Every square foot of the upstairs floor had been engineered around how our brains and bodies actually operated.
 
-In **Bedroom 1—The Master and Primary Anchor**—sat our massive, plush King-sized bed, dressed in deep forest green cotton sheets and our heavy astronomy comforter mapped with constellations. It gave us all the surface area we needed to stretch out after long shifts while still keeping us within arm's reach all night.
+In the master bedroom—our primary anchor—sat our massive, plush king-sized bed, dressed in deep forest green cotton sheets and our heavy astronomy comforter mapped with constellations. It gave us all the surface area we needed to stretch out after long shifts while still keeping us within arm's reach all night.
 
-Across the hall in **Bedroom 2—The Command Center**—the flimsy metal folding tables were gone, replaced by two solid, identical oak computer desks positioned flush side-by-side against the back wall so we could study, write code, or browse the grid shoulder-to-shoulder without ever breaking our physical or visual tether.
+Across the hall in the second bedroom—the Command Center—the flimsy metal folding tables were gone, replaced by two solid, identical oak computer desks positioned flush side-by-side against the back wall so we could study, write code, or browse the grid shoulder-to-shoulder without ever breaking our physical or visual tether.
 
-And in **Bedroom 3—The Tactical Decoy and Secondary Anchor**—sat the brand-new Full-sized bed. On paper, it allowed the townhouse to present a "normal" neurotypical layout to the outside world—one bedroom for the brother, one for the sister—if an HVAC technician, an appraiser, or a civilian visitor ever stepped upstairs. In reality, that smaller Full bed was our high-compression backup vault—reserved for nights when our sensory static spiked so high that the spacious King mattress felt too wide, and we needed the narrow geometry of a Full frame to force us tightly together.
+And in the third bedroom—our tactical decoy and secondary anchor—sat the brand-new full-sized bed. On paper, it allowed the townhouse to present a "normal" neurotypical layout to the outside world—one bedroom for the brother, one for the sister—if an HVAC technician, an appraiser, or a civilian visitor ever stepped upstairs. In reality, that smaller full bed was our high-compression backup vault, reserved for nights when our sensory static spiked so high that the spacious king mattress felt too wide, and we needed the narrow geometry of a full frame to force us tightly together.
 
-There was one final, non-negotiable rule that governed the entire second floor: **The Open-Door Policy**.
+There was one final, non-negotiable rule that governed the entire second floor: the Open-Door Policy.
 
-In our townhouse, no interior door was ever closed. The doors to the Master Bedroom, the Command Center, the Decoy Room, and the upstairs bathroom remained permanently swung wide open against their stops. Closed doors belonged to the houses that had hurt us—to [locked rooms in Kent](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) and [childhood hallways where silence hid a threat](https://books.raggiesoft.com/rachel/the-divorce/the-broken-door/rachel-s-fury-the-push-button-lock). Keeping every doorway open meant an unbroken line of sight and an unbroken acoustic corridor across the entire sanctuary.
+In our townhouse, no interior door was ever closed. The doors to the master bedroom, the Command Center, the decoy room, and the upstairs bathroom remained permanently swung wide open against their stops. Closed doors belonged to the houses that had hurt us—to [locked rooms in Kent](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) and [childhood hallways where silence hid a threat](https://books.raggiesoft.com/rachel/the-divorce/the-broken-door/rachel-s-fury-the-push-button-lock). Keeping every doorway open meant an unbroken line of sight and an unbroken acoustic corridor across the entire sanctuary.
 
 ***
 
@@ -27821,7 +27818,7 @@ That Friday night, after Rachel finished her afternoon shift at *The Spot* over 
 
 Stepping onto the thick foam puzzle mats in crisp, freshly pressed white *doboks* felt like reclaiming a piece of our souls that had been [stolen in August 1995](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check).
 
-Before April called the floor to attention, she walked over to the wooden belt rack holding two thick, newly embroidered **Midnight Blue Belts (*Nam-saek tti*)**—our `4th Gup` rank, officially registered with the *Seonduwon* in Seoul under her seal as *Sunhoe Sabomnim* Lee Hae-jin.
+Before April called the floor to attention, she walked over to the wooden belt rack holding two thick, newly embroidered Midnight Blue Belts (*Nam-saek tti*)—our fourth *Gup* rank, officially registered with the *Seonduwon* in Seoul under her seal as *Sunhoe Sabomnim* Lee Hae-jin.
 
 "Twelve years ago, two cowards tried to convince you that your bodies were liabilities on this floor," April said quietly, handing one deep midnight-blue belt to Rachel and the other to me. "Tonight, the registry reflects the truth. Tie your belts."
 
@@ -27865,27 +27862,25 @@ After everything Delores and Brandi had put me through in Washington, Rachel kne
 
 #### 11:55 AM — Ms. Doris on Route 25
 
-Five months of uninterrupted peace inside 3701 Canadian Arch had done what no hospital or courtroom ever could: it had given Rachel and me time to simply breathe.
+The midday August heat shimmered off the asphalt of Buckner Boulevard as Rachel and I crossed from our townhouse at 3701 Canadian Arch onto the quiet concrete bay of the Community College of Hampton Roads transit loop.
 
-All through the spring and summer of 2007, our lives ran on a quiet, self-contained clock. On May 25, we celebrated a peaceful, alcohol-free twenty-first birthday for Rachel at the townhouse with Mom and Master April. During the week, Rachel walked ten minutes down the road to work her daytime shifts at *The Spot* while I rebuilt my physical stamina and worked through coding tutorials in the upstairs Command Center. Every Friday night, we stepped barefoot onto the puzzle mats at the *Lynnhaven Academy of Seondu* in our Midnight Blue Belts under April's watchful eye. And every night, with every interior door in the townhouse standing wide open, Rachel and I got changed together and slept fully undressed cuddled up in the center of the King bed—letting direct skin-to-skin contact keep us from overheating in the sticky Tidewater summer while calming the spastic tone in our legs.
+Five months of uninterrupted peace inside our end-unit sanctuary had done what no hospital or courtroom ever could: it had given my sister and me room to breathe again. All through the spring and summer of 2007, our days had run on a steady, self-contained clock. Back on May 25, we had celebrated a quiet, alcohol-free twenty-first birthday for Rachel at the townhouse with Mom and Master April. During the week, Rachel walked ten minutes down the road to work her daytime shifts at *The Spot* while I rebuilt my physical stamina and worked through programming exercises at our twin oak desks in the upstairs Command Center. Every Friday evening, we stepped barefoot onto the puzzle mats at the Lynnhaven Academy of Seondu in our Midnight Blue Belts under April's watchful eye. And every night, with every interior door in the townhouse standing wide open, Rachel and I changed together and slept fully undressed in the center of the king bed—letting direct skin-to-skin contact keep us from overheating in the sticky Tidewater summer while calming the spastic tone in our legs.
 
-Because neither Rachel nor I drove, the **Coastal Virginia Transit Authority (`CVTA`)** was our lifeline across Virginia Beach.
+Because neither of us drove, the Coastal Virginia Transit Authority buses were our lifeline across Virginia Beach. With my Fall semester classes at CCHR scheduled to start the next morning and Rachel enjoying a Thursday afternoon off from *The Spot*, we had walked over to the campus loop just before noon to catch Route 25 inbound toward the intersection of Princess Anne Road and Baxter Road for lunch at Penny's.
 
-On Thursday, August 23, 2007—the final day of summer break before my Fall semester classes started at the **Community College of Hampton Roads (`CCHR`)**—Rachel had the afternoon off from *The Spot*. Around noon, the two of us walked across **Buckner Boulevard** to the **CCHR Transit Loop** to catch **CVTA Route 25** inbound toward the intersection of **Princess Anne Road and Baxter Road** so we could grab lunch together at **Penny's**.
+In that stretch of suburban Virginia Beach, Route 25 ran once every hour on weekdays from six in the morning until six in the evening, its amber LED destination sign above the windshield alternating between *25 GLENROCK MALL* and *25 NEWTOWN RD* on inbound runs away from campus, and between *25 CCHR-VA BCH* and *25 NEWTOWN RD* on outbound runs back.
 
-In that part of suburban Virginia Beach, **CVTA Route 25** ran strictly once every hour on weekdays from `6:00 AM` to `6:00 PM`, its amber LED destination sign above the windshield alternating between **`25 GLENROCK MALL`** and **`25 NEWTOWN RD`** on inbound runs away from CCHR, and between **`25 CCHR-VA BCH`** and **`25 NEWTOWN RD`** on outbound runs back to campus.
-
-When the 12:00 PM bus rumbled into the CCHR bay and hissed to a stop, a familiar face beamed down at us from behind the steering wheel: **Doris Hooks**—known affectionately to every regular rider on Route 25 simply as **Ms. Doris**.
+When the noon bus rumbled into the bay and hissed to a stop at the curb, a familiar face beamed down at us from behind the wide steering wheel: Doris Hooks—known affectionately to every regular rider on Route 25 simply as Ms. Doris.
 
 "Well, look who's out enjoying the sunshine!" Ms. Doris called out warmly as the folding front doors swung open. "How are my two favorite passengers doing today?"
 
-"Doing great, Ms. Doris," I grinned, flashing my CVTA pass before Rachel flashed hers right behind me. "Heading up to Princess Anne and Baxter to get some Penny's before classes start tomorrow."
+"Doing great, Ms. Doris," I grinned, flashing my transit pass before Rachel showed hers right behind me. "Heading up to Princess Anne and Baxter to get some Penny's before classes start tomorrow."
 
 "You can't go wrong with a square burger and a chocolate shake," Ms. Doris chuckled, easing the bus out of the campus loop as Rachel and I took the forward-facing bench just behind the front wheel well on the passenger side.
 
-The moment we sat down, Rachel automatically tucked herself flush against my right side, linking both her arms through mine and resting her head comfortably against my shoulder. On the ring finger of her left hand rested the simple silver wedding band she wore whenever we went out in public—not because she was married or dating anyone, but as part of her promise: a quiet, deliberate shield to make it look to the outside world like she was already spoken for. At this point in time, back home from Washington with Kristin and Jessica still on the West Coast, the only man in Rachel's life was her older brother—and she was simply willing to step in and be my female partner just while I got myself back on my feet.
+The moment we sat down, Rachel tucked herself flush against my right side, linking both her arms through mine and resting her head comfortably against my shoulder. On the ring finger of her left hand glinted the simple silver wedding band she wore whenever we went out in public—not because she was married or dating anyone, but as part of her quiet, deliberate shield to make it look to the outside world as if she were already spoken for. Back home in Virginia with Kristin and Jessica still three thousand miles away on the West Coast, the only man in Rachel's life was her older brother, and she had stepped in without hesitation to be my partner while I got myself back on my feet.
 
-Across the aisle from us, sitting near the front on the driver's side, were two other passengers who had already been on board when the bus pulled into the loop: an older woman in her fifties and her daughter—a young woman in her early twenties with straight, shoulder-length chestnut-auburn hair, light freckles across the bridge of her nose, and hazel-green eyes behind thin-rimmed rectangular glasses. To any stranger glancing across the aisle at Rachel's wedding band and the way she was cuddled up against my shoulder, the two of us easily looked like a young married couple.
+Across the center aisle from us, seated near the front on the driver's side, were two other passengers who had already been aboard when the bus pulled into the loop: an older woman in her fifties and her daughter—a young woman in her early twenties with straight, shoulder-length chestnut-auburn hair, light freckles across the bridge of her nose, and hazel-green eyes behind thin-rimmed rectangular glasses. To any stranger glancing across the aisle at Rachel's silver band and the way she was curled against my shoulder, the two of us easily looked like a young married couple.
 
 As the bus hummed smoothly down the tree-lined suburban corridor, Rachel and I chatted easily with Ms. Doris the way we had all summer.
 
@@ -27893,7 +27888,7 @@ As the bus hummed smoothly down the tree-lined suburban corridor, Rachel and I c
 
 "As ready as I'll ever be," I replied, resting my hand over Rachel's forearm. "Honestly, even with classes starting up, Rachel and I are just glad to be back home in Virginia. Those years we spent out in Washington State felt like they lasted a century. Being back in Virginia Beach where we belong still feels like a dream some mornings."
 
-"Virginia Beach is glad to have you back, honey," Ms. Doris said softly, her eyes crinkling warmly in the overhead mirror as she looked at Rachel cuddled up against my shoulder. "I tell you what—in twenty years of driving a bus, it does my heart good seeing a brother and sister stick together and look out for each other the way you two do. Most siblings your age barely remember to call each other on holidays, and here you two are, thick as thieves every single day."
+"Virginia Beach is glad to have you back, honey," Ms. Doris said softly, her eyes crinkling warmly in the overhead mirror as she looked at Rachel resting against my shoulder. "I tell you what—in twenty years of driving a bus, it does my heart good seeing a brother and sister stick together and look out for each other the way you two do. Most siblings your age barely remember to call each other on holidays, and here you two are, thick as thieves every single day."
 
 "He's my anchor, Ms. Doris," Rachel rasped with a quiet, contented smile against my sleeve. "He's stuck with me."
 
@@ -27901,13 +27896,13 @@ As the bus hummed smoothly down the tree-lined suburban corridor, Rachel and I c
 
 As I laughed with Ms. Doris, my gaze shifted briefly across the center aisle.
 
-I noticed the young woman with the chestnut-auburn hair and thin-rimmed glasses sitting beside her mother looking right over at Rachel and me. She wasn't staring rudely; her expression was quiet, observant, and genuinely intrigued—taking in how completely relaxed and at ease we were chatting with the bus driver like old family friends.
+The young woman with the chestnut-auburn hair and thin-rimmed glasses sitting beside her mother was looking right over at Rachel and me. She wasn't staring rudely; her expression was quiet, observant, and genuinely intrigued—taking in how completely relaxed and at ease we were chatting with the bus driver like old family friends.
 
-When our eyes met for a split second, she offered a tiny, polite half-smile before glancing back out the window. I filed a quick, passing mental note of her face, thinking nothing more of it as the green street sign for **Baxter Road** came into view ahead.
+When our eyes met for a split second, she offered a tiny, polite half-smile before glancing back out the window. I filed a quick, passing mental note of her face, thinking nothing more of it as the green street sign for Baxter Road came into view ahead.
 
-"Here's your stop, y'all!" Ms. Doris announced, bringing the bus to a gentle, zero-jerk halt at the curb of **Princess Anne Road and Baxter Road**. "Enjoy your lunch at Penny's!"
+"Here's your stop, y'all!" Ms. Doris announced, bringing the bus to a gentle, zero-jerk halt at the curb of Princess Anne Road and Baxter Road. "Enjoy your lunch at Penny's!"
 
-"Thanks, Ms. Doris! See you tomorrow!" I called out, holding Rachel's hand to steady her down the front step before we walked across the sunny parking lot toward the red-and-yellow sign of Penny's.
+"Thanks, Ms. Doris! See you tomorrow!" I called out, holding Rachel's hand to steady her down the front steps before we walked across the sunny parking lot toward the red-and-yellow sign of Penny's.
 
 ### Part 2: First Contact, The First Embrace, & The Route 25 Equation
 
@@ -27919,29 +27914,25 @@ When our eyes met for a split second, she offered a tiny, polite half-smile befo
 
 #### 11:45 AM — Chicken Tenders, Fries, & First Contact
 
-The next morning—Friday, August 24, 2007—was officially the first day of the Fall semester at the **Community College of Hampton Roads (`CCHR`)**.
+The clatter of plastic trays and the echo of two hundred freshman conversations bounced off the linoleum floor of the CCHR campus cafeteria as I stood in line near the grill counter, keeping my eyes fixed on the overhead menu board.
 
-Rachel had kissed me goodbye at seven-forty-five that morning before walking ten minutes down the road to her daytime shift at *The Spot*, leaving me to navigate the opening-day crowds of CCHR on my own.
-
-Inside 3701 Canadian Arch, my nervous system was completely regulated. Outside our townhouse, however, my social confidence was still a cratered battlefield. Apart from Rachel, Jessica, Kristin, Mom, and Master April, my traumatized processor still treated unfamiliar people in the civilian world with deep, reflexive caution. After what Delores and Brandi had done to me in Norfolk and Kent nine months earlier, being alone in a loud, crowded building full of strangers made the phantom static hum behind my ribs.
-
-At 11:45 AM, after surviving my morning orientation lecture, I walked into the bustling CCHR campus cafeteria and stood in line near the grill counter, keeping my eyes fixed on the overhead menu board while waiting to order lunch.
+Rachel had kissed me goodbye at seven-forty-five that Friday morning before walking ten minutes down the road to her daytime shift at *The Spot*, leaving me to navigate the opening-day crowds of the Fall semester on my own. Inside 3701 Canadian Arch, my nervous system was completely regulated. Outside our townhouse, however, my social confidence was still a cratered battlefield. Apart from Rachel, Jessica, Kristin, Mom, and Master April, my processor still treated unfamiliar people in the civilian world with deep, reflexive caution. After what Delores and Brandi had done to me nine months earlier, standing alone in a loud, crowded building full of strangers made a low phantom static hum behind my ribs.
 
 "Excuse me?" a quiet, friendly voice asked right behind my shoulder.
 
 I turned around.
 
-Standing right behind me in the cafeteria line was the exact same young woman with straight, shoulder-length chestnut-auburn hair, light freckles, and thin-rimmed rectangular glasses who had been sitting across the aisle from Rachel and me on Ms. Doris's bus the day before.
+Standing directly behind me in the grill line was the exact same young woman with straight, shoulder-length chestnut-auburn hair, light freckles, and thin-rimmed rectangular glasses who had been sitting across the aisle from Rachel and me on Ms. Doris's bus the day before.
 
 "Do you ride the bus?" she asked with a polite, genuinely curious expression. "You look familiar."
 
 "Yes," I answered, my defensive tension easing a notch as I recognized her immediately from Route 25. "That was me and my sister Rachel on Ms. Doris's bus yesterday heading to Penny's. We take the bus everywhere—neither of us drives, by choice."
 
-"I thought I recognized you," she nodded with a quiet, measured smile, still looking genuinely curious as she glanced toward the grill counter. "My mom and I were riding Route 25 yesterday so I could learn how the bus system worked before classes started today."
+"I thought I recognized you," she nodded with a quiet, measured smile, glancing toward the grill counter. "My mom and I were riding Route 25 yesterday so I could learn how the bus system worked before classes started today."
 
-The line moved forward to the grill station. I ordered my plate—**chicken tenders and fries**, grabbing a couple of small cups of **mayonnaise for the chicken tenders** and **ketchup for the fries**, plus a fountain **cola**—paid the cashier, and carried my tray out into the main dining room. I found an empty table near the windows, sat down, and began setting out my dipping cups.
+The line moved forward to the grill station. I ordered my plate—chicken tenders and fries, grabbing a couple of small plastic cups of mayonnaise for the chicken tenders and ketchup for the fries, plus a fountain cola—paid the cashier, and carried my tray out into the main dining room. I found an empty table near the windows, sat down, and began setting out my dipping cups.
 
-Less than two minutes later, I saw her step away from the cashier station carrying her own tray with a **burger, fries, and a cola**. She scanned the crowded cafeteria, spotted me sitting alone by the window, and walked straight over to my table.
+Less than two minutes later, she stepped away from the cashier station carrying her own tray with a burger, fries, and a cola. She scanned the crowded cafeteria, spotted me sitting alone by the window, and walked straight over to my table.
 
 "Mind if I sit with you?" she asked.
 
@@ -27955,7 +27946,7 @@ She set her tray down, sat across from me, and held out her hand.
 
 Within five minutes of talking over my chicken tenders dipped in mayo and her burger and fries, something remarkable happened to my internal telemetry: the defensive alarm bells stopped ringing completely. Heather wasn't loud, she wasn't aggressive, and she wasn't running a social angle. She explained that she had originally attended Charlottesville Community College a few years back before relocating down to Virginia Beach so she could complete her Nuclear Medicine Technology degree at CCHR.
 
-Halfway through our fries and colas, we both pulled our folded paper CCHR class schedules out of our backpacks and slid them across the laminate tabletop to compare them.
+Halfway through our fries and colas, we both pulled our folded paper class schedules out of our backpacks and slid them across the laminate tabletop to compare them.
 
 "Wait a second—look at Monday, Wednesday, Friday at ten o'clock," Heather pointed out, her hazel-green eyes lighting up behind her glasses. "ENG 111, Section 04?"
 
@@ -27969,9 +27960,7 @@ I looked down at my own printout.
 
 #### 12:45 PM — The Most Important Moment of the Day
 
-By twelve-forty-five, our trays were empty and the wall clock above the cafeteria doors signaled that our lunch break was over.
-
-Heather had to walk out to the CCHR Transit Loop to catch the hourly 1:00 PM **CVTA Route 25** bus home, and I had to walk across the quad to my afternoon **Math class**—a subject I despised with every fiber of my being.
+By twelve-forty-five, our trays were empty and the wall clock above the cafeteria doors signaled that our lunch break was over. Heather had to walk out to the CCHR Transit Loop to catch the hourly one o'clock Route 25 bus home, and I had to walk across the quad to my afternoon Math lecture—a subject I despised with every fiber of my being.
 
 We picked up our trays, dropped them off at the dish-return window, and stepped out into the quieter vestibule just outside the cafeteria doors where our paths split.
 
@@ -27983,37 +27972,31 @@ Before my overthinking processor could talk me out of it, I took half a step for
 
 Heather didn't flinch or hesitate. Her smile softened, and she stepped right into my arms.
 
-I wrapped both arms around her shoulders and pulled her into a **very tight, deep-pressure embrace**.
-
-The instant my arms locked around her and I felt her hug me back just as warmly, a swarm of butterflies erupted in my stomach.
-
-My heart hammered against my ribs as an overwhelming wave of unsaid emotion poured silently into that embrace—emotion I kept locked completely inside my own chest because I barely knew her yet and had no way of knowing if I could truly trust her, yet every nerve in my healing body was desperately, fiercely hopeful.
+I wrapped both arms around her shoulders and pulled her into a tight, deep-pressure embrace. The instant my arms locked around her and I felt her hug me back just as warmly, a swarm of butterflies erupted in my stomach. My heart hammered against my ribs as an overwhelming wave of unsaid emotion poured silently into that embrace—emotion I kept locked completely inside my own chest because I barely knew her yet and had no way of knowing if I could truly trust her, yet every nerve in my healing body was fiercely hopeful.
 
 *Could I really be happy again after what Delores did to me?* I wondered silently as I held her close for three grounding seconds. *Will Heather treat me properly?*
 
-When we finally stepped back and she waved goodbye toward the bus loop, I walked toward my hated afternoon Math lecture with my chest feeling lighter than it had in two years.
+When we finally stepped back and she waved goodbye toward the bus loop, I walked toward my afternoon Math lecture with my chest feeling lighter than it had in two years.
 
 ***
 
 #### 3:15 PM — Telling Rachel Everything
 
-My afternoon Math lecture let out at two o'clock, and by two-fifteen I had walked the five minutes across Buckner Boulevard and unlocked the front door of 3701 Canadian Arch.
+My afternoon Math class let out at two o'clock, and by two-fifteen I had walked the five minutes across Buckner Boulevard and unlocked the front door of 3701 Canadian Arch.
 
 For the next hour, I paced between the kitchen, the living room, and the upstairs Command Center with Shadow trotting happily at my heels, practically vibrating with excitement as I waited for Rachel to finish her daytime shift at *The Spot*.
 
-Upstairs on my half of our side-by-side oak desks sat the 17-inch piano-black laptop that Jessica had bought for me in Washington, humming quietly in sleep mode. Jessica had loaded that machine with a massive arsenal of different software suites—*Quantum Developer Suite Enterprise*, *Quantum Expression Studio*, *Aura Studio Pro 6*, *Vertex Creative Studio – Master Collection*, *Flight Simulator*, and half a dozen other creative and engineering packages—specifically so I could experiment, try out different ideas, and figure out what I wanted to do with my future. Because the honest truth of August 2007 was that, at twenty-three years old, I was still trying to figure out what I wanted and who I even was after Delores had shattered my life.
+Upstairs on my half of our side-by-side oak desks sat the seventeen-inch piano-black laptop that Jessica had bought for me in Washington, humming quietly in sleep mode. Jessica had loaded that machine with a massive arsenal of different software suites—*Quantum Developer Suite Enterprise*, *Quantum Expression Studio*, *Aura Studio Pro 6*, *Vertex Creative Studio – Master Collection*, *Flight Simulator*, and half a dozen other creative and engineering packages—specifically so I could experiment, try out different ideas, and figure out what I wanted to do with my future. Because the honest truth of August 2007 was that, at twenty-three years old, I was still trying to figure out what I wanted and who I even was after Delores had shattered my life.
 
-Every previous female who had ever safely come into my life had been introduced and vetted by a trusted source inside my pack. Back in the eighth grade, **Bonnie** had been introduced to me by **Ashley**. Out in Washington, **Kristin** had been introduced to me by **Rachel**.
+Every previous female who had ever safely come into my life had been introduced and vetted by a trusted source inside my pack. Back in the eighth grade, Bonnie had been introduced to me by Ashley. Out in Washington, Kristin had been introduced to me by Rachel. Before today, the only girl who had ever entered my life without a trusted pack member introducing us first was Delores—when we struck up a conversation in the ticket line outside the Roper Performing Arts Center in Downtown Norfolk in September 2004—and that unvetted leap on my own had spiraled into a two-year nightmare that nearly destroyed me.
 
-Before today, the *only* girl who had ever entered my life without a trusted pack member introducing us first was **Delores**—when we struck up a conversation in the ticket line outside the Roper Performing Arts Center in Downtown Norfolk in September 2004—and that unvetted leap on my own had spiraled into a two-year nightmare that nearly destroyed me.
+Now, for the very first time since that disaster, I had found a girl who might actually be interested in me completely on my own, without help from anyone.
 
-Now, for the very first time since the disaster that was Delores, I had found a girl who might actually be interested in me completely on my own, without help from anyone.
-
-At `3:13 PM`—roughly an hour after I had gotten home—I heard Rachel's key turn in the deadbolt. The front door swung open, and my sister stepped into the foyer in her red *Spot* polo shirt and tan khakis, unclipping her nametag with a tired sigh that vanished the instant she saw the look on my face.
+At 3:13 PM—roughly an hour after I had gotten home—I heard Rachel's key turn in the deadbolt. The front door swung open, and my sister stepped into the foyer in her red *Spot* polo shirt and tan khakis, unclipping her nametag with a tired sigh that vanished the instant she saw the look on my face.
 
 It was the first time I had grinned from ear to ear about a special someone in a very long time.
 
-"Whoa," Rachel smiled, dropping her canvas bag by the coat rack and pushing her black-framed glasses up the bridge of her nose as she took in my ear-to-ear grin. "Okay, Bear, spill. I haven't seen you grin like that in years."
+"Whoa," Rachel smiled, dropping her canvas bag by the coat rack and pushing her black-framed glasses up the bridge of her nose as she took in my expression. "Okay, Bear, spill. I haven't seen you grin like that in years."
 
 I pulled her into a quick, tight welcome-home hug right there in the living room before launching into the full report.
 
@@ -28023,7 +28006,7 @@ I pulled her into a quick, tight welcome-home hug right there in the living room
 
 "Her name is Heather—Heather Bouchard!" I said, still grinning from ear to ear. "She walked right up to me in the cafeteria line at lunch today because she recognized us from the bus yesterday. Nobody introduced us or set it up—we just started talking on our own! She got a burger and fries, saw me sitting by the window with my chicken tenders, and came right over to sit with me for the whole lunch hour. We compared schedules and found out we're in the exact same Monday-Wednesday-Friday English class starting Monday morning—and right before she left to catch the one o'clock bus and I went to Math, I offered her a hug outside the cafeteria and she hugged me right back!"
 
-Rachel leaned back against the kitchen counter, her warm dark eyes softening behind her glasses as she listened to every detail. She knew the history better than anyone on earth. She knew that Bonnie had been introduced by Ashley, that Kristin had been introduced by her, and that the last time I had met a girl on my own without a trusted source was Delores. After watching me spend months trying to piece my identity back together on the laptop Jessica bought me—and watching me flinch whenever a stranger got too close in public—seeing me standing in our kitchen grinning ear-to-ear because I had found a girl on my own made her smile widen with genuine pride.
+Rachel leaned back against the kitchen counter, her warm dark eyes softening behind her glasses as she listened to every detail. She knew the history better than anyone on earth. She knew that Bonnie had been introduced by Ashley, that Kristin had been introduced by her, and that the last time I had met a girl on my own without a trusted source was Delores. After watching me spend months trying to piece my identity back together on the laptop Jessica bought me—and watching me flinch whenever a stranger got too close in public—seeing me standing in our kitchen grinning ear to ear because I had found a girl on my own made her smile widen with genuine pride.
 
 "That's awesome, Bear," Rachel said warmly, reaching out to squeeze my forearm. "Seriously, I'm really happy for you. She sounds really sweet."
 
@@ -28035,27 +28018,23 @@ Rachel leaned back against the kitchen counter, her warm dark eyes softening beh
 
 #### 8:00 AM — The Engineered Route 25 Equation
 
-Once that first Monday rolled around, I quickly learned the exact rhythm of Heather's weekday commute. Every morning and afternoon, she rode **CVTA Route 25**, boarding near her family's house at the intersection of **Princess Anne Road and Susquehanna Drive**—roughly a twenty-minute bus ride from CCHR.
+Once that first Monday rolled around, I quickly learned the exact rhythm of Heather's weekday commute. Every morning and afternoon, she rode CVTA Route 25, boarding near her family's house at the intersection of Princess Anne Road and Susquehanna Drive—roughly a twenty-minute bus ride from CCHR.
 
-My analytical brain, always looking for ways to optimize a schedule around the people I cared about, immediately ran the transit math.
-
-Logically, I had zero practical reason to ever step foot on a bus to get to CCHR. My front door at 3701 Canadian Arch was a five-minute walk across Buckner Boulevard from the campus quad.
+My analytical brain, always looking for ways to optimize a schedule around the people I cared about, immediately ran the transit math. Logically, I had zero practical reason to ever step foot on a bus to get to CCHR. My front door at 3701 Canadian Arch was a five-minute walk across Buckner Boulevard from the campus quad.
 
 But I didn't care about commute efficiency. I cared about time.
 
-So I engineered a loop around Route 25's hourly `6:00 AM` to `6:00 PM` weekday schedule.
+So I engineered a loop around Route 25's hourly six-to-six weekday schedule.
 
-Every weekday morning before classes, I walked out of 3701 Canadian Arch, crossed Buckner Boulevard onto the CCHR campus, and walked straight to the **CCHR Transit Loop**. When the inbound **CVTA Route 25** bus—its amber LED destination sign alternating between **`25 GLENROCK MALL`** and **`25 NEWTOWN RD`**—rumbled into the bay, I flashed my CVTA pass, said good morning to Ms. Doris, and rode twenty minutes from campus to **Princess Anne Road & Susquehanna Drive**.
+Every weekday morning before classes, I walked out of 3701 Canadian Arch, crossed Buckner Boulevard onto the CCHR campus, and walked straight to the CCHR Transit Loop. When the inbound Route 25 bus—its amber LED destination sign alternating between *25 GLENROCK MALL* and *25 NEWTOWN RD*—rumbled into the bay, I flashed my pass, said good morning to Ms. Doris, and rode twenty minutes from campus out to Princess Anne Road and Susquehanna Drive.
 
 When the bus hissed to a stop at Susquehanna, I stepped off the front doors, waited for the traffic gap, and crossed the street to the outbound bus shelter on the opposite side of Princess Anne Road to wait for her.
 
-A few minutes later, Heather would walk up the sidewalk from Susquehanna Drive, her face lighting up with a warm smile the second she saw me waiting at the stop. When the outbound Route 25 bus pulled up a few minutes later—its amber LED header alternating between **`25 CCHR-VA BCH`** and **`25 NEWTOWN RD`**—we climbed aboard together and sat side-by-side for the twenty-minute ride to CCHR.
+A few minutes later, Heather would walk up the sidewalk from Susquehanna Drive, her face lighting up with a warm smile the second she saw me waiting at the stop. When the outbound Route 25 bus pulled up a few minutes later—its amber LED header alternating between *25 CCHR-VA BCH* and *25 NEWTOWN RD*—we climbed aboard together and sat side by side for the twenty-minute ride to CCHR.
 
-And every afternoon, when our classes wrapped up for the day, we ran the exact algorithm in reverse. Instead of walking five minutes across Buckner Boulevard to my townhouse, I walked with Heather to the CCHR Transit Loop, hopped aboard the inbound **CVTA Route 25** bus (`25 GLENROCK MALL` / `25 NEWTOWN RD`) with her, and rode the twenty minutes to **Susquehanna Drive**. We stepped off together, crossed the street together to the outbound side so she wouldn't have to cross traffic alone, and stood by the stop until it was time for her to walk home down Susquehanna Drive while I caught the outbound Route 25 bus (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) twenty minutes back to CCHR and walked across Buckner Boulevard home.
+And every afternoon, when our classes wrapped up for the day, we ran the exact algorithm in reverse. Instead of walking five minutes across Buckner Boulevard to my townhouse, I walked with Heather to the CCHR Transit Loop, hopped aboard the inbound Route 25 bus with her, and rode the twenty minutes to Susquehanna Drive. We stepped off together, crossed the street together to the outbound side so she wouldn't have to cross traffic alone, and stood by the stop until it was time for her to walk home down Susquehanna Drive while I caught the outbound Route 25 bus twenty minutes back to CCHR and walked across Buckner Boulevard home.
 
-On paper, I was spending eighty minutes a day riding a municipal bus in circles when I lived across the street from the college.
-
-In reality, engineering that route gave me an extra twenty minutes with Heather every morning and another twenty minutes with her every afternoon—forty minutes of quiet, judgment-free companionship that made me feel like I was finally learning how to be part of the world again.
+On paper, I was spending eighty minutes a day riding a municipal bus in circles when I lived across the street from the college. In reality, engineering that route gave me an extra twenty minutes with Heather every morning and another twenty minutes with her every afternoon—forty minutes of quiet, judgment-free companionship that made me feel like I was finally learning how to be part of the world again.
 
 ### Part 3: Monday Lunch, 'Mask, What Mask?' & The Rules of the Shallow End
 
@@ -28067,9 +28046,9 @@ In reality, engineering that route gave me an extra twenty minutes with Heather 
 
 #### 12:00 PM — Monday Lunch: Rachel Meets Heather
 
-On Monday morning, August 27, 2007—just three days after our first meeting in the cafeteria line—Heather and I sat side-by-side through our first ten o'clock lecture in `ENG 111, Section 04`, and then walked over to the CCHR student lounge and dining area at noon to eat lunch together.
+The double doors of the CCHR student lounge swung open right at noon on Monday, August 27, just as Heather and I were unpacking our lunch trays at a round laminate table after finishing our first ten o'clock lecture in ENG 111, Section 04.
 
-Right on schedule, as Heather and I were sitting at a round laminate table with our lunches and her thick *Nuclear Medicine* textbook resting beside her tray, the double doors swung open. Rachel walked in after finishing her morning general-education class, her canvas messenger bag slung over her shoulder. She spotted us immediately and walked over, pushing her thick black-framed glasses up the bridge of her nose.
+Rachel walked in after finishing her morning general-education class, her canvas messenger bag slung over her shoulder. She spotted us immediately beside Heather's thick *Nuclear Medicine* textbook and walked straight over, pushing her black-framed glasses up the bridge of her nose.
 
 "Hey, Bear," Rachel said warmly, before turning a bright, friendly smile toward the other side of the table.
 
@@ -28079,7 +28058,7 @@ Right on schedule, as Heather and I were sitting at a round laminate table with 
 
 "It was a pretty lucky coincidence," Heather replied with a genuine smile, adjusting her thin-rimmed glasses. "And he's a really good bus navigator."
 
-For the next forty-five minutes over lunch, the three of us talked easily at the table. I could see Rachel's analytical eyes quietly observing the dynamic—noting how relaxed my shoulders were and how Heather treated me without a single trace of pity or condescension. Wanting to welcome Heather into our world right from the start, Rachel decided to make a calculated tactical move. She knew that if a guy invited a female classmate back to his house first, a guarded young woman might understandably feel nervous or put on the spot—whereas if Rachel extended the very first invitation herself, woman-to-woman, it might break the ice and reassure Heather that our home was completely safe.
+For the next forty-five minutes over lunch, the three of us talked easily at the table. I could see Rachel's analytical eyes quietly observing the dynamic—noting how relaxed my shoulders were and how Heather treated me without a single trace of pity or condescension. Wanting to welcome Heather into our world right from the start, Rachel decided to make a calculated tactical move. She knew that if a guy invited a female classmate back to his house first, a guarded young woman might understandably feel nervous or put on the spot—whereas if Rachel extended the very first invitation herself, woman to woman, it might break the ice and reassure Heather that our home was completely safe.
 
 "Hey, Heather," Rachel offered warmly as the wall clock neared twelve-fifty. "Our townhouse is literally right across Buckner Boulevard—less than a five-minute walk from the bus loop. If you ever want to get away from the fluorescent lights in here between classes, or come over for dinner with us sometime, you should come hang out at our place."
 
@@ -28097,7 +28076,7 @@ Rachel caught the boundary immediately. She didn't press, guilt-trip, or make it
 
 #### 12:30 PM (October 2007) — "Mask, What Mask?"
 
-By mid-October 2007, Heather and I had become an inseparable fixture of the weekday CCHR grid. Between our morning ride in from Susquehanna Drive on **CVTA Route 25**, our Monday-Wednesday-Friday English class together, our overlapping breaks in the student lounge, and our afternoon bus ride back out to Princess Anne & Susquehanna, we spent nearly every waking weekday hour together.
+By mid-October, Heather and I had become an inseparable fixture of the weekday CCHR grid. Between our morning ride in from Susquehanna Drive on Route 25, our Monday-Wednesday-Friday English class together, our overlapping breaks in the student lounge, and our afternoon bus ride back out to Princess Anne and Susquehanna, we spent nearly every waking weekday hour together.
 
 In the autumn of 2007, I did not yet have a medical diagnosis for how my brain worked. I didn't know the clinical phrase *Autism Spectrum*, and I had never heard the neurological term *Autistic Masking*.
 
@@ -28117,43 +28096,35 @@ The reason I didn't understand the question was simple: whenever I was sitting w
 
 #### 1:00 PM — The Comfort Object & The Verbal Shield
 
-Because my nervous system relied so heavily on proprioceptive input to stay grounded under the harsh fluorescent lights and echoing hallways of CCHR, physical touch quickly became the anchor of our friendship.
-
-Between classes, and every afternoon after we hopped off **CVTA Route 25** at **Princess Anne & Susquehanna Drive** and crossed the street together, Heather let me wrap my arms around her in long, tight, deep-pressure *"Best Friend Hugs."*
+Because my nervous system relied so heavily on proprioceptive input to stay grounded under the harsh fluorescent lights and echoing hallways of CCHR, physical touch quickly became the anchor of our friendship. Between classes, and every afternoon after we hopped off Route 25 at Princess Anne and Susquehanna Drive and crossed the street together, Heather let me wrap my arms around her in long, tight, deep-pressure hugs.
 
 To my traumatized, pre-diagnostic brain, holding her tightly wasn't about seduction; it was pure sensory regulation. It functioned the exact same way a child holds onto a favorite stuffed animal—an immediate, warm somatic reset that quieted the buzzing static in my chest and proved I wasn't repulsive or broken after what Delores had done to me.
 
-Yet beneath that warmth, our friendship operated inside a rigid, invisible architecture that I privately came to think of as **The Shallow End**—governed by three non-negotiable rules of engagement:
+Yet beneath that warmth, our friendship operated inside a rigid, invisible architecture that I privately came to think of as the Shallow End—governed by three unspoken rules of engagement.
 
-**Rule One was the Spatial Firewall.** Our entire world existed strictly on the CCHR campus and the seats of CVTA Route 25 between Monday and Friday. Even after Rachel thoughtfully extended that very first invitation woman-to-woman over our Monday lunch to break the ice—and whenever I casually invited her afterward to walk five minutes across Buckner Boulevard to hang out at 3701 Canadian Arch—Heather always declined, keeping a strict separation between campus and home. I had no idea *why* she drew that line so firmly—only that she simply wasn't ready to visit my house, and that if I wanted to be her friend, I had to respect that boundary without question. At the time, I didn't realize how mercifully that firewall was protecting me too: after nearly drowning in Delores's suffocating, twenty-four-hour-a-day domestic trap in Norfolk and Kent, Heather's campus-only boundary kept me safely in the shallow end of the pool where my healing processor couldn't get overwhelmed.
+The first rule was a spatial firewall. Our entire world existed strictly on the CCHR campus and the seats of Route 25 between Monday and Friday. Even after Rachel thoughtfully extended that very first invitation woman to woman over our Monday lunch to break the ice—and whenever I casually invited her afterward to walk five minutes across Buckner Boulevard to hang out at 3701 Canadian Arch—Heather always declined, keeping a strict separation between campus and home. I had no idea why she drew that line so firmly, only that she wasn't ready to visit my house, and that if I wanted to be her friend, I had to respect that boundary without question. At the time, I didn't realize how mercifully that firewall was protecting me too: after nearly drowning in Delores's suffocating, twenty-four-hour-a-day domestic trap in Norfolk and Kent, Heather's campus-only boundary kept me safely in the shallow end of the pool where my healing processor couldn't get overwhelmed.
 
-**Rule Two was the Touch Tightrope and the Cuddle Ban.** Deep-pressure hugs standing in the hallway or by the Susquehanna bus shelter were welcomed and reciprocated—but holding hands and cuddling were strictly off-limits. It was a razor-thin tightrope. Every so often, if we were sitting side-by-side on a bench and a standard hug lingered a second too long or my arm rested at the wrong angle, Heather's posture would suddenly stiffen, her processor anxiously misinterpreting a hug as a "cuddle." The instant I felt her tense up, I would immediately pull my arms back, give her six inches of air, and apologize so she knew her physical boundary was absolute law.
+The second rule was a razor-thin touch tightrope. Deep-pressure hugs standing in the hallway or by the Susquehanna bus shelter were welcomed and reciprocated, but holding hands and cuddling were strictly off-limits. Every so often, if we were sitting side by side on a bench and a standard hug lingered a second too long or my arm rested at the wrong angle, Heather's posture would suddenly stiffen, her processor anxiously misinterpreting a hug as a cuddle. The instant I felt her tense up, I would immediately pull my arms back, give her six inches of air, and apologize so she knew her physical boundary was absolute law.
 
-**Rule Three was the Verbal Shield.**
-
-To every other student and professor walking past us on the CCHR quad, Heather and I looked like an inseparable couple. We rode the bus together, ate together, studied together, and hugged for long stretches before every class. One afternoon outside the Science building, when she half-jokingly asked what I would do if another girl on campus asked me out on a date, I didn't even blink.
+The third rule was the verbal shield. To every other student and professor walking past us on the CCHR quad, Heather and I looked like an inseparable couple. We rode the bus together, ate together, studied together, and hugged for long stretches before every class. One afternoon outside the Science building, when she half-jokingly asked what I would do if another girl on campus asked me out on a date, I didn't even blink.
 
 "I'd turn her down," I answered with deadpan, fierce loyalty. "I don't have time for a girlfriend right now. Spending my campus days with you is way more important to me."
 
-Yet despite that total, unwavering devotion, any hint that my feelings might cross into romantic love triggered an immediate, visible wave of panic in her eyes. For reasons she never fully articulated, the weight of romantic expectation terrified her.
+Yet despite that total, unwavering devotion, any hint that my feelings might cross into romantic love triggered an immediate, visible wave of panic in her eyes. For reasons she never fully articulated, the weight of romantic expectation terrified her. So my analytical brain engineered the ultimate paradoxical shield to protect her peace of mind. Whenever she looked anxious that our closeness was blurring the line, I would stop walking, look her dead in the eyes with every ounce of sincerity in my soul, and deliver the exact verbal reassurance she needed to hear.
 
-So my analytical brain engineered the ultimate paradoxical shield to protect her peace of mind.
+"Heather, I promise you: I do not love you."
 
-Whenever she looked anxious that our closeness was blurring the line, I would stop walking, look her dead in the eyes with every ounce of sincerity in my soul, and deliver the exact verbal reassurance she needed to hear:
-
-"Heather, I promise you: **I do not love you.**"
-
-Only in the upside-down logic of two guarded, neurodivergent twenty-somethings could looking your closest friend in the eyes and saying *"I do not love you"* serve as the highest possible proof of devotion. The moment I said the words, the panic would melt out of her shoulders, she would let out a relieved breath, and she would step right back in for one of our long, deep-pressure hugs.
+Only in the upside-down logic of two guarded, neurodivergent twenty-somethings could looking your closest friend in the eyes and saying *I do not love you* serve as the highest possible proof of devotion. The moment I said the words, the panic would melt out of her shoulders, she would let out a relieved breath, and she would step right back in for one of our long, deep-pressure hugs.
 
 ***
 
 #### 9:30 PM — The True Deep End at 3701 Canadian Arch
 
-At four-thirty that afternoon, after riding **CVTA Route 25** out to **Susquehanna Drive** with Heather, crossing Princess Anne Road together, sharing our careful goodbye hug, and riding the outbound Route 25 bus (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) twenty minutes back to the CCHR loop, I walked across Buckner Boulevard and unlocked the front door of 3701 Canadian Arch.
+At four-thirty that afternoon, after riding Route 25 out to Susquehanna Drive with Heather, crossing Princess Anne Road together, sharing our careful goodbye hug, and riding the outbound bus twenty minutes back to the CCHR loop, I walked across Buckner Boulevard and unlocked the front door of 3701 Canadian Arch.
 
 The contrast between the tightrope of the campus shallow end and the interior of our townhouse was immediate.
 
-Upstairs, every single bedroom door stood wide open under our **Open-Door Policy**. Rachel was sitting at the left-hand oak desk in the Command Center, still wearing her red *Spot* t-shirt and tan khakis from her shift, reviewing her own schedule while a playlist from [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street) played softly through her desktop speakers.
+Upstairs, every single bedroom door stood wide open under our Open-Door Policy. Rachel was sitting at the left-hand oak desk in the Command Center, still wearing her red *Spot* t-shirt and tan khakis from her shift, reviewing her own schedule while a playlist from [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street) played softly through her desktop speakers.
 
 "Hey, Bear," Rachel rasped warmly, rolling her chair back and holding her arms out the second my footsteps reached the top of the stairs. "How was the Route 25 loop?"
 
@@ -28161,11 +28132,9 @@ Upstairs, every single bedroom door stood wide open under our **Open-Door Policy
 
 Here, there was no countdown timer on the hug. There was no panic about whether an embrace was accidentally turning into a cuddle, and no need to recite a disclaimer to keep the other person from bolting.
 
-After dinner, when the October chill outside met the warm central heating upstairs and our legs began aching from a full day of concrete sidewalks and retail floors, Rachel and I walked into the Master Bedroom together. Without a word of self-consciousness, we stripped completely out of our day clothes side-by-side, dropping my jeans and her khakis into the laundry basket before climbing fully undressed beneath the forest green sheet and astronomy comforter of the King bed.
+After dinner, when the October chill outside met the warm central heating upstairs and our legs began aching from a full day of concrete sidewalks and retail floors, Rachel and I walked into the Master Bedroom together. Without a word of self-consciousness, we stripped completely out of our day clothes side by side, dropping my jeans and her khakis into the laundry basket before climbing fully undressed beneath the forest green sheet and astronomy comforter of the king bed.
 
-Rachel immediately pressed her bare torso flush against mine, hooking her leg over my hip and tucking her head beneath my chin.
-
-My calves—which had been wound tight from eighty minutes of bracing against the swaying floor of the Route 25 bus—slowly uncoiled against the warm, steady pressure of her skin.
+Rachel immediately pressed her bare torso flush against mine, hooking her leg over my hip and tucking her head beneath my chin. My calves—which had been wound tight from eighty minutes of bracing against the swaying floor of the Route 25 bus—slowly uncoiled against the warm, steady pressure of her skin.
 
 "Heather's a good friend, Bug," I murmured into the dark, resting my hand securely against Rachel's back. "Being around her on campus makes me feel like I'm not broken anymore. Even with all the rules."
 
@@ -28183,13 +28152,13 @@ My calves—which had been wound tight from eighty minutes of bracing against th
 
 #### 7:55 AM — Twin Magic at Susquehanna Drive
 
-By the spring of 2008, the morning **CVTA Route 25** loop was etched so deeply into my muscle memory that I could have run it blindfolded.
+The folding front doors of the inbound Route 25 bus hissed open at the corner of Princess Anne Road and Susquehanna Drive, letting in a rush of crisp Tuesday morning air.
 
-On Tuesday morning, April 1, 2008, I walked out of 3701 Canadian Arch at seven-thirty, crossed Buckner Boulevard to the CCHR Transit Loop, and boarded the inbound **CVTA Route 25** bus (`25 GLENROCK MALL` / `25 NEWTOWN RD`). For twenty minutes, I watched the familiar strip malls and pine groves roll past the window until Ms. Doris called out **Princess Anne Road and Susquehanna Drive**.
+"Have a good morning, Michael!" Ms. Doris called out from the driver's seat as I stepped down onto the curb.
 
-I stepped off the front doors into the crisp April morning air, waited for the traffic signal to clear, and crossed the wide asphalt of Princess Anne Road to the outbound bus shelter on the opposite curb.
+"See you in ten minutes, Ms. Doris!" I waved back.
 
-Over the past seven months of riding the bus together, eating lunch together, and sitting side-by-side in class, Heather had kept her off-campus home life behind the strict perimeter of the Shallow End—and she had carefully kept one massive biographical detail completely up her sleeve. As far as my processor knew, there was only one Heather Bouchard in the universe.
+By the first morning of April 2008, the weekday bus loop was etched so deeply into my muscle memory that I could have run it blindfolded. I waited at the corner for the traffic signal to clear, crossed the wide asphalt of Princess Anne Road to the outbound bus shelter on the opposite curb, and adjusted my backpack straps. Over the past seven months of riding the bus together, eating lunch together, and sitting side by side in class, Heather had kept her off-campus home life behind the strict perimeter of the Shallow End—and she had carefully kept one massive biographical detail completely up her sleeve. As far as my processor knew, there was only one Heather Bouchard in the universe.
 
 At 7:58 AM, right on schedule, I saw her walking up the sidewalk from Susquehanna Drive toward the bus shelter.
 
@@ -28207,15 +28176,15 @@ And then, while my arms were still wrapped around her, I heard a second set of f
 
 My head snapped to the left.
 
-Standing five feet away beside the edge of the bus shelter—with the exact same angular oval face, the exact same hazel-green eyes behind thin-rimmed rectangular glasses, and the exact same straight shoulder-length chestnut-auburn hair—was **Heather**.
+Standing five feet away beside the edge of the bus shelter—with the exact same angular oval face, the exact same hazel-green eyes behind thin-rimmed rectangular glasses, and the exact same straight shoulder-length chestnut-auburn hair—was Heather.
 
-My brain threw a complete, catastrophic `SYSTEM HALT`.
+My brain threw a complete, catastrophic system halt.
 
 I froze with my arms still wrapped around the girl in the navy-blue windbreaker, my eyes darting rapidly back and forth between the identical face inches from my shoulder and the identical face grinning at me from the sidewalk.
 
-"Wait... what?!" I stammered, my processor completely locking up as I tried to figure out how my best friend was standing in two places at the exact same time. "How—what is going on?!"
+"Wait... what?!" I stammered, my processor locking up completely as I tried to figure out how my best friend was standing in two places at the exact same time. "How—what is going on?!"
 
-Both of them burst out laughing in stereo. The girl in my arms finally stepped back half a pace, grinning ear-to-ear as the real Heather walked up and stood right beside her shoulder-to-shoulder. Looking at the two of them side-by-side in the morning sunlight, it was like staring into an optical mirror.
+Both of them burst out laughing in stereo. The girl in my arms finally stepped back half a pace, grinning from ear to ear as the real Heather walked up and stood right beside her shoulder to shoulder. Looking at the two of them side by side in the morning sunlight, it was like staring into an optical mirror.
 
 "Happy April Fools' Day, Michael!" Heather laughed, nudging her sister's arm. "Surprise—I have an identical twin sister. This is Hailey."
 
@@ -28227,7 +28196,7 @@ Both of them burst out laughing in stereo. The girl in my arms finally stepped b
 
 #### 8:05 AM — The Birth Mark Under the Hairline
 
-A minute later, the rumble of the outbound **CVTA Route 25** diesel engine (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) approached down Princess Anne Road. Hailey gave her sister a quick high-five and headed back down Susquehanna Drive toward her own car, while Heather and I climbed aboard the bus and settled side-by-side onto our usual blue vinyl bench seat.
+A minute later, the rumble of the outbound Route 25 diesel engine approached down Princess Anne Road. Hailey gave her sister a quick high-five and headed back down Susquehanna Drive toward her own car, while Heather and I climbed aboard the bus and settled side by side onto our usual blue vinyl bench seat.
 
 As the bus pulled away from the curb, I looked over at Heather, still grinning and shaking my head at how thoroughly the two of them had gotten me.
 
@@ -28237,9 +28206,7 @@ Heather smiled—a quiet, genuinely fond expression—and turned slightly toward
 
 "There is one way," she said softly. "Almost nobody knows about it, because you can't see it at a quick glance."
 
-Reaching up with two fingers of her right hand, Heather gently lifted and parted the straight chestnut-auburn hair right at the top of her forehead where her bangs met her scalp.
-
-Tucked right up against her hairline—completely invisible whenever her hair hung naturally—was a tiny, solitary brown **freckle**.
+Reaching up with two fingers of her right hand, Heather gently lifted and parted the straight chestnut-auburn hair right at the top of her forehead where her bangs met her scalp. Tucked right up against her hairline—completely invisible whenever her hair hung naturally—was a tiny, solitary brown freckle.
 
 "See this right here?" Heather asked quietly, pointing to the tiny spot hidden at the edge of her hairline. "It's my birth mark. Hailey doesn't have it."
 
@@ -28259,19 +28226,13 @@ I leaned in just enough to see the tiny freckle against her skin, my analytical 
 
 #### 11:00 AM — Breaking the Spatial Firewall
 
-For nearly eleven months, the first rule of the Shallow End had never once bent: Heather and I existed strictly within the boundaries of the CCHR campus and the seats of **CVTA Route 25**.
+The heavy glass entrance doors of the Chesapeake Bay Aquarium swung shut behind us, cutting off the blinding ninety-four-degree coastal glare of July in a single breath.
 
-Then came Friday, July 18, 2008.
+For nearly eleven months, the first rule of the Shallow End had never once bent: Heather and I had existed strictly within the boundaries of the CCHR campus and the seats of Route 25. Then, on this blistering Friday morning in the middle of summer—with no textbooks, no school bags, and no classes on the calendar—Heather had agreed to step outside the weekday campus perimeter and spend the afternoon with me at the aquarium. Rachel would have loved to come with us, too, but she was scheduled for a full Friday shift at *The Spot*, leaving just the two of us enjoying a summer day off together. To anyone else, an afternoon trip to the local aquarium was a casual hangout; to my processor, it felt like landing on the moon.
 
-In the middle of the blistering Virginia Beach summer—with no textbooks, no school bags, and no classes for the day—Heather agreed to do something she had never done before. For one afternoon, she stepped outside the weekday campus perimeter and went with me on an off-campus outing to the **Chesapeake Bay Aquarium**. Rachel would have loved to come with us, too, but she was scheduled for a full Friday shift at *The Spot*, leaving just the two of us—two best friends enjoying a summer day off together.
+Inside the main concourse, the environment shifted immediately into an acoustic and visual sanctuary. The interior galleries were cool, air-conditioned, and dimly lit, illuminated almost entirely by the deep, shifting sapphire and emerald glow of the massive saltwater habitats. The harsh clatter of the outside world gave way to the low, rhythmic hum of industrial filtration pumps and the gentle rush of recirculating water.
 
-To anyone else, a Friday afternoon trip to the local aquarium was a casual summer hangout. To my processor, it felt like landing on the moon.
-
-The moment we stepped through the entrance of the **Chesapeake Bay Aquarium** and left the blinding, ninety-four-degree coastal glare behind, the environment shifted into an acoustic and visual sanctuary. The interior galleries were cool, air-conditioned, and dimly lit, illuminated almost entirely by the deep, shifting sapphire and emerald glow of the massive saltwater habitats. The harsh clatter of the outside world was replaced by the low, rhythmic hum of industrial filtration pumps and the gentle rush of recirculating water.
-
-We walked slowly side-by-side down the wide, sloped ramps, pausing in front of the Chesapeake Bay Light Tower tank and the sprawling Red Sea tunnel.
-
-Without the fluorescent glare of the CCHR hallways or the ticking clock of a fifty-minute lecture break hanging over her head, Heather looked more relaxed than I had ever seen her. She leaned close to the thick acrylic glass, her eyes wide with genuine wonder as a massive loggerhead sea turtle glided lazily past her shoulder, followed by a squadron of cownose rays banking in slow, synchronized formation through the blue water.
+We walked slowly side by side down the wide, sloped ramps, pausing in front of the Chesapeake Bay Light Tower tank and the sprawling Red Sea tunnel. Without the fluorescent glare of the CCHR hallways or the ticking clock of a fifty-minute lecture break hanging over her head, Heather looked more relaxed than I had ever seen her. She leaned close to the thick acrylic glass, her eyes wide with genuine wonder as a massive loggerhead sea turtle glided lazily past her shoulder, followed by a squadron of cownose rays banking in slow, synchronized formation through the blue water.
 
 "Look at the way they move," Heather whispered, pointing up as a ray passed directly over our heads through the curved acrylic ceiling of the tunnel. "It looks like they're flying in zero gravity."
 
@@ -28283,7 +28244,7 @@ Heather turned away from the glass and looked at me. In the blue underwater ligh
 
 She didn't wait for me to ask. She stepped straight into my space and wrapped her arms around my waist, resting her cheek against my chest in a long, deep, unhurried hug right there in front of the sharks and sea turtles.
 
-I wrapped my arms around her shoulders, holding her close, breathing in the cool marine air and feeling the steady, grounding pressure against my sternum. Nobody was rushing to a lab exam. Nobody was watching the clock for the afternoon Route 25 departure. For one quiet, shining afternoon under the blue glass of the **Chesapeake Bay Aquarium**, the Spatial Firewall had vanished, and I genuinely believed we had built a friendship strong enough to last the rest of our lives.
+I wrapped my arms around her shoulders, holding her close, breathing in the cool marine air and feeling the steady, grounding pressure against my sternum. Nobody was rushing to a lab exam. Nobody was watching the clock for the afternoon Route 25 departure. For one quiet, shining afternoon under the blue glass of the Chesapeake Bay Aquarium, the spatial firewall had vanished, and I genuinely believed we had built a friendship strong enough to last the rest of our lives.
 
 ## Unhandled Exception & The Living Firewall
 
@@ -28299,17 +28260,11 @@ I wrapped my arms around her shoulders, holding her close, breathing in the cool
 
 #### 7:40 AM — Morning Bus Ride: All Systems GO
 
-For twenty-one months—four consecutive semesters from August 2007 through May 2009—I never broke a single rule of the Shallow End.
+The morning sunshine of Friday, May 8, 2009—the final day of Spring semester exams at CCHR—warmed the blue vinyl bench seat of the outbound Route 25 bus as Heather sat down right beside me at the Susquehanna Drive stop.
 
-On Friday, May 8, 2009—the last day of Final Exams for the Spring 2009 semester at CCHR—the morning bus ride ran with **all systems GO**.
+For twenty-one consecutive months across four semesters, I had never broken a single rule of the Shallow End, and this morning ran with all systems go. I had walked across Buckner Boulevard from 3701 Canadian Arch to the CCHR Transit Loop, ridden the inbound Route 25 bus twenty minutes out to Princess Anne Road and Susquehanna Drive, and crossed the street to the outbound shelter to meet her. Right on schedule, Heather had walked up from Susquehanna Drive, smiled when she saw me, and climbed aboard the outbound bus beside me.
 
-Situation normal.
-
-I walked across Buckner Boulevard from 3701 Canadian Arch to the CCHR Transit Loop, boarded the inbound **CVTA Route 25** bus (`25 GLENROCK MALL` / `25 NEWTOWN RD`), and rode the twenty minutes out to **Princess Anne Road and Susquehanna Drive**. I stepped off, crossed Princess Anne Road to the outbound shelter, and waited for Heather.
-
-Right on schedule, she walked up from Susquehanna Drive and smiled when she saw me. When the outbound Route 25 bus (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) pulled up to the curb, we climbed aboard together for the return trip to CCHR.
-
-Everything was completely normal. As always, Heather sat right down at my side on our usual blue vinyl bench seat, and the instant she sat next to me, I quickly pulled her into a warm morning hug—just as I did every single morning once she sat beside me on the bus. She leaned into the embrace, hugged me back without a trace of hesitation, and chatted with me all the way back to campus before heading off to take her last Final Exam of the semester.
+The instant she settled onto our usual blue vinyl bench seat, I reached over and pulled her into a warm morning hug—just as I did every single weekday morning once she sat next to me on the bus. She leaned into the embrace, hugged me back without a trace of hesitation, and chatted easily with me all the way back to campus before heading off to take her last final exam of the semester.
 
 There was not a single warning flare on my radar.
 
@@ -28317,49 +28272,45 @@ There was not a single warning flare on my radar.
 
 #### 10:34 AM — The 10:45 AM Lineup & The Push Away
 
-At **10:34 AM**, now that she had finished her last Final Exam of the Spring 2009 semester, Heather came and found me on campus so we could wait together for the **10:45 AM lineup** at the CCHR Transit Loop.
+At 10:34 AM, fresh out of her final exam room, Heather came and found me on campus so we could walk out together to the CCHR Transit Loop for the 10:45 AM bus lineup.
 
-Together, we walked out to the CCHR bus stop and climbed aboard the 10:45 AM inbound **CVTA Route 25** bus (`25 GLENROCK MALL` / `25 NEWTOWN RD`). Behind the wheel was one of our regular drivers, **Leslie Treece**, with a light scattering of regular midday passengers sitting here and there down the cabin.
+Behind the wheel of the 10:45 AM inbound Route 25 bus sat one of our regular drivers, Leslie Treece, with a light scattering of midday passengers seated here and there down the cabin. Heather and I climbed aboard and took our usual bench seat together. As the bus pulled out of the campus loop into the bright May morning, a quiet, heavy ache settled into my chest only because the spring semester was officially over and I knew how much I was going to miss our daily weekday routine. While the pine groves rolled past the window, we talked quietly about the upcoming summer.
 
-Heather and I sat together side-by-side on our usual bench seat. As the bus pulled out of the campus loop into the May sunshine, a quiet, heavy ache settled into my chest because the semester was officially over and I knew how much I was going to miss our daily routine. As the pine trees rolled past the window, we talked about the upcoming summer.
-
-Then the bus slowed as we approached the stop for **Princess Anne Road and Susquehanna Drive**.
+Then the bus slowed as we approached the stop for Princess Anne Road and Susquehanna Drive.
 
 Just like I always did before her stop, I turned on the bench seat and reached out to pull her into our goodbye hug.
 
 Something felt completely different.
 
-Instead of leaning into my arms the way she had at eight o'clock that very morning, **Heather suddenly pushed me away, her hands pressing sharply against my chest as she physically resisted the hug**.
+Instead of leaning into my arms the way she had at eight o'clock that very morning, Heather suddenly pushed me away, her hands pressing sharply against my chest as she physically resisted the embrace.
 
-My arms froze in mid-air. Her expression was completely shuttered, cold, and unrecognizable—like a terminal screen after someone had yanked the power cord straight out of the wall.
+My arms froze in mid-air. Her expression was shuttered, cold, and unrecognizable—like a terminal screen after someone had yanked the power cord straight out of the wall.
 
-The bus hissed to a stop at **Susquehanna Drive** to let her off.
+The air brakes hissed as the bus came to a stop at Susquehanna Drive.
 
 Without a single word of explanation, without a goodbye, and without looking back once, Heather stood up from our bench, walked briskly to the front doors, and stepped off the bus.
 
-I didn't get up. I stayed frozen in my seat on the bus, staring at the empty blue vinyl cushion beside me as my processor threw a catastrophic syntax error.
+I didn't get up. I stayed frozen in my seat, staring at the empty blue vinyl cushion beside me as my processor threw a catastrophic syntax error.
 
 *What happened?*
 
-I didn't understand. Three hours ago, she had sat beside me on this exact route and hugged me like she always did. Twenty minutes ago, she had sought me out after her final exam so we could ride the 10:45 AM bus together. I hadn't broken a single rule.
+I couldn't make the math reconcile. Three hours ago, she had sat beside me on this exact route and hugged me the way she always did. Twenty minutes ago, she had come looking for me after her final exam so we could ride the 10:45 AM bus together. I hadn't broken a single rule.
 
-The hollow, synthesized ache that [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) had immortalized on [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) slammed into my sternum with the force of a physical blow. Right there in my seat on Route 25, my vision blurred behind my glasses, my chest convulsed, and **I started to cry**.
+The hollow, synthesized ache that [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) had immortalized on [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) slammed into my sternum with the force of a physical blow. Right there in my seat on Route 25, my vision blurred behind my glasses, my chest convulsed, and I started to cry.
 
 ***
 
 #### 11:06 AM — Leslie Treece, Situational Mutism, & Moira Deesenburg
 
-Up front, the bus driver, **Leslie Treece**, pulled the lever to close the folding doors once Heather was off the bus and glanced up into her wide interior rearview mirror—expecting to see an empty bench where Heather and I always got off together at Susquehanna Drive.
+Up front, Leslie Treece pulled the lever to close the folding doors once Heather stepped off the bus and glanced up into her wide interior rearview mirror—expecting to see an empty bench where Heather and I always got off together at Susquehanna Drive.
 
-Instead, Leslie froze when she saw me still sitting in my seat, sobbing silently with my shoulders shaking.
+Instead, Leslie froze when she saw me still sitting alone on the bench, sobbing silently with my shoulders shaking.
 
-Leslie knew Rachel and me well from our hundreds of rides on Route 25. She knew it wasn't like me to cry, and she had just seen how abruptly Heather had bolted out the front doors without me. Around the cabin, the scattering of regular passengers noticed immediately that something was terribly wrong, too.
+Leslie knew Rachel and me well from our hundreds of rides on Route 25. She knew it wasn't like me to cry, and she had just witnessed how abruptly Heather had bolted out the front doors without me. Around the cabin, the handful of regular passengers noticed immediately that something was terribly wrong, too.
 
 "Michael?" Leslie asked gently, looking back at me in the overhead mirror before pulling away from the curb. "Honey, what's wrong?"
 
-I tried to answer her. I opened my mouth to force the words out, **but my vocal cords were completely locked**.
-
-I was completely **situationally mute**—though at the time, even as an autistic adult, I did not yet have the clinical vocabulary for what I had or the words to explain why acute emotional shock had physically severed the connection between my brain and my voice. All I could do was sit there shaking as tears ran down my face.
+I tried to answer her. I opened my mouth to force the words out, but my vocal cords were completely locked. Acute emotional shock had severed the connection between my brain and my voice, leaving me situationally mute—though at the time, even as an autistic adult, I did not yet have the clinical vocabulary for what was happening to me. All I could do was sit there shaking as tears ran down my face.
 
 Seeing that I couldn't speak, one of the regular passengers seated a row across the aisle spoke up gently on my behalf.
 
@@ -28369,27 +28320,21 @@ Leslie's expression softened with immediate maternal resolve in the mirror.
 
 "Hang on, sweetheart," Leslie told me soothingly. "I've got you. Just stay right there."
 
-Instead of leaving me stranded on the side of Princess Anne Road, Leslie drove the inbound Route 25 bus all the way up to the **Leisure Inn on Greenwich Road**—the turnaround transfer point near Newtown Road where the inbound and outbound buses crossed paths.
-
-Bringing the bus to a smooth stop outside the **Leisure Inn**, Leslie set the parking brake, stepped out of the driver's seat, and walked back to take my elbow—**gently helping me step off the bus** onto the sidewalk so that I could catch the return-trip outbound **CVTA Route 25** (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) that was due in five minutes.
+Instead of leaving me stranded on the shoulder of Princess Anne Road, Leslie drove the inbound Route 25 bus all the way up to the Leisure Inn on Greenwich Road—the turnaround transfer point near Newtown Road where the inbound and outbound buses crossed paths. Bringing the bus to a smooth stop outside the Leisure Inn, she set the parking brake, stepped out of the driver's seat, and walked back to take my elbow, gently helping me step off the bus onto the sidewalk so I could catch the return-trip outbound Route 25 that was due in five minutes.
 
 "The other 25 will be right here in five minutes, Michael," Leslie told me softly, squeezing my arm before she had to continue her run. "Go straight home to your sister, okay?"
 
-I gave a tiny, trembling nod, wiping my face with my sleeve as I stood by the sign on Greenwich Road.
+I gave a tiny, trembling nod, wiping my face with my sleeve as I stood by the bus sign on Greenwich Road.
 
-Five minutes later, right on schedule, the outbound **CVTA Route 25** bus (`25 CCHR-VA BCH` / `25 NEWTOWN RD`) pulled up to the curb outside the **Leisure Inn**.
+Five minutes later, right on schedule, the outbound Route 25 bus pulled up to the curb outside the Leisure Inn. The folding doors hissed open, revealing Moira Deesenburg—a warm, sharp-eyed Scottish operator who regularly drove the opposite half of the Route 25 rotation.
 
-The folding doors hissed open, revealing **Moira Deesenburg**—a warm, sharp-eyed **Scottish** operator who regularly drove the opposite half of the Route 25 rotation.
-
-Moira did not know the story of what had just happened at Susquehanna Drive. Nobody had radioed ahead to explain why I was standing alone at Greenwich Road at eleven-twenty in the morning.
-
-Yet the instant I stepped onto her bus with my red, swollen eyes and hitching breath, **Moira immediately noticed something was wrong**. She could see with one look that I was hurting badly—and that I needed to get home. **NOW.**
+Moira did not know the story of what had just happened at Susquehanna Drive. Nobody had radioed ahead to explain why I was standing alone on Greenwich Road at eleven-twenty in the morning. Yet the instant I stepped onto her bus with my red, swollen eyes and hitching breath, Moira immediately saw that I was hurting badly—and that I needed to get home now.
 
 "Oh, laddie," Moira murmured in her thick, gentle Scottish brogue, waving her hand over the farebox so I wouldn't have to fumble for my pass. "Come on in. Sit yourself right down here in the front row where I can keep an eye on you. We'll have you back to campus in no time."
 
-For the entire ride back down Princess Anne Road toward CCHR, I stared blindly at the floor between my shoes, my chest aching as the empty seat beside me felt like an open wound.
+For the entire ride back down Princess Anne Road toward CCHR, I stared blindly at the ribbed rubber floor between my shoes, my chest aching while the empty seat beside me felt like an open wound.
 
-When Moira finally eased the bus into the **CCHR Transit Loop** around **11:40 AM** and set the brake, I stood up on shaking legs and stepped up to the white standee line beside her seat. My throat was still raw and constricted, but I forced a broken, raspy whisper out so she wouldn't worry.
+When Moira finally eased the bus into the CCHR Transit Loop around 11:40 AM and set the parking brake, I stood up on shaking legs and stepped to the white standee line beside her seat. My throat was still raw and constricted, but I forced a broken, raspy whisper out so she wouldn't worry.
 
 "My... my friend Heather," I choked out, my voice cracking. "She... she just pushed me away and left me suddenly."
 
@@ -28401,13 +28346,11 @@ Moira looked up at me with profound, heartfelt sympathy in her eyes.
 
 #### 11:45 AM — Stuck Alone at 3701 Canadian Arch
 
-I stepped off the CCHR bus stop, walked across the **Buckner Boulevard** crosswalk on pure numb autopilot, and unlocked the front door of **3701 Canadian Arch**.
+I stepped off the CCHR bus loop, walked across the Buckner Boulevard crosswalk on pure numb autopilot, and unlocked the front door of 3701 Canadian Arch.
 
-The moment the front door clicked shut behind me, the silence of the townhouse hit me like a ton of bricks.
+The moment the latch clicked shut behind me, the silence of the townhouse hit me like a physical weight. It wasn't even noon yet on a Friday. Rachel was at her daytime shift at *The Spot*, and she wouldn't be off work for more than three hours.
 
-It wasn't even noon yet on a Friday. **Rachel was at her daytime shift at *The Spot*, and she wouldn't be off work for a few more hours.**
-
-I collapsed onto the downstairs living room sofa, my chest heaving as wave after wave of tears soaked my collar. The three-bedroom townhouse was completely quiet around me. I was stuck alone for the next three hours—and my shattered, dysregulated nervous system needed someone. *Anyone.* Who could comfort me.
+I collapsed onto the downstairs living room sofa, my chest heaving as wave after wave of tears soaked my collar. The three-bedroom townhouse stood completely quiet around me while I sat trapped inside my own skin for the next three hours, my shattered nervous system aching for someone—anyone—who could hold the perimeter together until my sister came home.
 
 ### Part 2: 3:13 PM: Refusing to Let Go
 
@@ -28417,37 +28360,29 @@ I collapsed onto the downstairs living room sofa, my chest heaving as wave after
 
 #### 3:00 PM — The Ten-Minute Walk & The Living Room Sofa
 
-For over three hours—from quarter to twelve until past three o'clock—I sat curled on the living room sofa of 3701 Canadian Arch while the afternoon sunlight crept across the carpet.
+For over three hours—from quarter to twelve until past three o'clock—I sat curled on the living room sofa of 3701 Canadian Arch while the afternoon sunlight crept slowly across the carpet.
 
-Every time I closed my eyes, my brain replayed the exact physical sensation of [Heather's hands pushing against my chest on Route 25](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception), followed by the sight of her walking out the front doors at Susquehanna Drive without looking back. When I had briefly stumbled upstairs to check *Orbit* on my computer, the stark white **`PROFILE UNAVAILABLE`** banner had confirmed the worst: she had completely erased me from her life without a single word of explanation.
+Every time I closed my eyes, my brain replayed the exact physical sensation of [Heather's hands pushing against my chest on Route 25](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception), followed by the sight of her walking out the front doors at Susquehanna Drive without looking back. When I had briefly stumbled upstairs to check *Orbit* on my desktop computer, the stark white *PROFILE UNAVAILABLE* banner had confirmed the worst: she had completely erased me from her life without a single word of explanation.
 
-At **3:00 PM**, Rachel clocked out from her daytime shift at *The Spot* and started the ten-minute walk home toward Canadian Arch.
+Down the road at 3:00 PM, Rachel clocked out from her daytime shift at *The Spot* and started the ten-minute walk home toward Canadian Arch.
 
-At **3:13 PM**, I heard her key slide into the front deadbolt.
+At 3:13 PM, I heard her key slide into the front deadbolt.
 
-The front door swung open, and Rachel stepped into the foyer in her red *Spot* t-shirt—with her **`RACHEL`** nametag still pinned to her chest—tan khaki pants, and sneakers.
+The front door swung open, and Rachel stepped into the foyer in her red *Spot* t-shirt—with her *RACHEL* nametag still pinned to her chest—tan khaki pants, and sneakers. She didn't even get her keys back into her pocket before her eyes landed on me sitting in my t-shirt and blue jeans on the living room sofa with tears streaming down my red, swollen face.
 
-She didn't even get her keys back into her pocket before her eyes landed on me sitting in my t-shirt and blue jeans on the living room sofa with tears streaming down my red, swollen face.
+Rachel didn't pause to ask twenty questions from the doorway. She dropped her work bag directly onto the floor, crossed the living room in three quick strides, and sat down right next to me on the sofa.
 
-Rachel didn't pause to ask twenty questions from the doorway. She dropped her work bag directly onto the floor, crossed the living room in three quick strides, and **immediately sat down right next to me on the sofa**.
+The instant the cushion dipped under her weight, I reached over and pulled my Bug into a desperate, crushing hug.
 
-The instant she sat beside me on the sofa cushion, I reached over and **pulled my Bug into a desperate, crushing squeeze hug**.
+I locked both arms around her shoulders and ribs with every ounce of strength in my upper body, burying my wet face into the shoulder of her red work shirt. Rachel knew instantly that something was catastrophically wrong—not just because I was crying, but because of the sheer, vise-like force of my grip. Even by the standard of our lifelong deep-pressure pack hugs, I was holding my kid sister far more tightly than I ever held her on a normal day.
 
-I locked both arms around her shoulders and ribs with every ounce of strength in my upper body, burying my wet face into the shoulder of her red work t-shirt.
-
-Rachel knew instantly that something was catastrophically wrong—not just because I was crying, but because of the sheer, vise-like force of my grip. Even by the standard of our lifelong deep-pressure pack hugs, I was holding my kid sister far more tightly than I ever held her on a normal day.
-
-And **I refused to let go of her**.
+And I refused to let go of her.
 
 Every raw, traumatized circuit in my brain was gripped by a primal, suffocating terror: *if I loosened my arms even half an inch—if I let go of her for a single second—she would stand up and walk away from me the exact same way Heather had just walked away from me on the bus.*
 
-Rachel felt the trembling desperation in my arms and understood the math without needing me to say a single word.
+Rachel felt the trembling desperation in my arms and understood the math without needing me to say a single word. She didn't complain that I was squeezing the breath out of her ribs. She didn't tap my arm to ask for air, and she didn't try to shift away to look at my face. She simply accepted that her brother needed to hold onto her for a good long while.
 
-She didn't complain that I was squeezing the breath out of her ribs. She didn't tap my arm to ask for air, and she didn't try to shift away to look at my face.
-
-**Rachel simply accepted that her brother needed to hug her and hold onto her for a good long while.**
-
-She let all the tension melt out of her posture, wrapped both of her arms securely around my waist, and **leaned completely into the hug**—resting her cheek against my shoulder and simply allowing me to hold onto her as tightly as I needed while I cried into her shirt for a long, unbroken stretch of time.
+Letting all the tension melt out of her posture, Rachel wrapped both of her arms securely around my waist and leaned completely into the embrace—resting her cheek against my shoulder and allowing me to hold onto her as tightly as I needed while I cried into her shirt for a long, unbroken stretch of time.
 
 "I've got you, Bear," Rachel whispered softly against my neck, her hand rubbing a slow, steady circle across my trembling back so my body could feel that she wasn't going anywhere. "Hold on as long as you need. I'm right here. I am never letting go."
 
@@ -28463,49 +28398,45 @@ She let all the tension melt out of her posture, wrapped both of her arms secure
 
 #### 2:30 PM — The Passcode
 
-By Monday afternoon, May 11, 2009—seventy-two hours after [Heather Bouchard had walked away from the Susquehanna Drive bus stop](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception) and erased two years of weekday history without a single word—the initial shockwave of the crash had settled into a quiet, bruised ache behind my ribs.
+With every interior doorway upstairs at 3701 Canadian Arch standing wide open under our Open-Door Policy, the quiet hum of our desktop cooling fans was the only sound in the townhouse as Rachel and I sat shoulder to shoulder at our twin oak desks in the Command Center.
 
-For the first time in four semesters, I hadn't walked across Buckner Boulevard to the CCHR Transit Loop that morning. Classes were over for the spring term, and the Route 25 loop was officially dead.
+Seventy-two hours after [Heather Bouchard had walked away from the Susquehanna Drive bus stop](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception) and erased two years of weekday history without a single word, the initial shockwave of the crash had settled into a quiet, bruised ache behind my ribs. For the first time in four semesters, I hadn't walked across Buckner Boulevard to the CCHR Transit Loop that Monday morning. Classes were over for the spring term, and the Route 25 loop was officially dead.
 
-Instead, Rachel and I were sitting shoulder-to-shoulder at our twin oak desks in the Command Center upstairs at 3701 Canadian Arch. With every interior doorway standing wide open under our Open-Door Policy, the quiet hum of our desktop cooling fans was the only sound in the townhouse.
+On my monitor, the familiar blue-and-white interface of *Orbit* was open. I had just finished cleaning up my Top 8 grid—deleting the dead, broken slot that had once pointed to Heather's profile and locking my true perimeter back into place: Rachel at number one, Jessica at number two, and Kristin at number three.
 
-On my monitor, the familiar blue-and-white interface of **Orbit** was open. I had just finished cleaning up my "Top 8" grid—deleting the dead, broken slot that had once pointed to Heather's profile and locking my true perimeter back into place: Rachel at `#1`, Jessica at `#2`, and Kristin at `#3`.
-
-As I clicked the **Save Changes** button, a small, bright orange envelope icon flashed in the top right corner of my screen.
-
-**\[1\] New Friend Request & Private Message.**
+As I clicked the *Save Changes* button, a small, bright orange envelope icon flashed in the top right corner of my screen: a new friend request and private message.
 
 I clicked the icon, my brain instantly shifting into its defensive, analytical mode. After Friday afternoon's digital ambush, my firewall was on hair-trigger alert.
 
-The request was from a user named **Ashley Lawson**.
+The request was from a user named Ashley Lawson.
 
-My eyes scanned the profile data. Location: Virginia Beach, VA. But there was no face attached to the account. Instead of a photograph, her profile picture was just a generic, low-resolution image of a rainstorm over a dark ocean.
+My eyes scanned the profile data. Her location read Virginia Beach, Virginia, but there was no face attached to the account. Instead of a photograph, her profile picture was a generic, low-resolution image of a rainstorm over a dark ocean.
 
-My finger hovered over the mouse. I didn't know anyone named Ashley Lawson. To my highly guarded nervous system, anonymous accounts were an immediate threat. I didn't allow strangers into my perimeter, digital or physical. I moved the cursor directly toward the **Deny** and **Delete** buttons.
+My finger hovered over the mouse. I didn't know anyone named Ashley Lawson. To my guarded nervous system, anonymous accounts were an immediate threat; I didn't allow strangers into my perimeter, digital or physical. I moved the cursor directly toward the *Deny* and *Delete* buttons.
 
-But before I clicked, my eyes caught the bold text of the private message's subject line.
+Before I clicked, my eyes caught the subject line of the private message.
 
-My hand completely froze on the mouse. My heart slammed against my ribs so hard it echoed in my ears.
+My hand froze on the mouse. My heart slammed against my ribs so hard it echoed in my ears.
 
-**Subject: [The Third Sister of the Blue Kicking Pads](https://books.raggiesoft.com/rachel/base-camp/the-consecration-friday-october-20th-1995/part-1-the-midnight-blue-shield-the-shadow-arts)**
+The subject line read: *[The Third Sister of the Blue Kicking Pads](https://books.raggiesoft.com/rachel/base-camp/the-consecration-friday-october-20th-1995/part-1-the-midnight-blue-shield-the-shadow-arts).*
 
-"Rachel," I gasped, the air completely vanishing from my lungs.
+"Rachel," I gasped, the air vanishing from my lungs.
 
-My sister instantly sensed the spike in my heart rate. She shoved her rolling chair backward, scraping the casters against the carpet, and leaned entirely into my personal space to read my monitor.
+My sister instantly sensed the spike in my heart rate. She shoved her rolling chair backward, scraping the casters against the carpet, and leaned into my personal space to read my monitor.
 
 "Oh my god," Rachel breathed, her hands flying to her mouth.
 
 I didn't hesitate. I clicked the message open.
 
-**Michael,**
-
-**Please don't delete this. I know you don't recognize the last name, and I know I don't have my face as my picture. I can't. My husband monitors the computer when he's home, and I have to be careful.**
-
-**I searched for you on a whim. I saw Northwood High and CCHR listed on your profile, and when I clicked your page, I saw Rachel sitting right there in your \#1 spot. You two are still together. You kept the pack together.**
-
-**I am so sorry I fell out of touch after the custody nightmare separated you guys. I made some massive mistakes. I married a man named David Lawson. I thought he was safe, but he's a monster, Michael. He's incredibly controlling, and I have undeniable, court-admissible proof that he has been cheating on me for months.** **I have the evidence to destroy him in a divorce, but I am completely trapped in this RV with him. I have nowhere to go. I saw your little green 'Online Now' dot glowing, and I knew you were sitting at your desk right now. I don't have a perimeter anymore. I don't have a Sentinel.**
-
-**I know it's been years, but... are you and Rachel still in Virginia? Please tell me you're close.**
+> *Michael,*
+>
+> *Please don't delete this. I know you don't recognize the last name, and I know I don't have my face as my picture. I can't. My husband monitors the computer when he's home, and I have to be careful.*
+>
+> *I searched for you on a whim. I saw Northwood High and CCHR listed on your profile, and when I clicked your page, I saw Rachel sitting right there in your #1 spot. You two are still together. You kept the pack together.*
+>
+> *I am so sorry I fell out of touch after the custody nightmare separated you guys. I made some massive mistakes. I married a man named David Lawson. I thought he was safe, but he's a monster, Michael. He's incredibly controlling, and I have undeniable, court-admissible proof that he has been cheating on me for months. I have the evidence to destroy him in a divorce, but I am completely trapped in this RV with him. I have nowhere to go. I saw your little green 'Online Now' dot glowing, and I knew you were sitting at your desk right now. I don't have a perimeter anymore. I don't have a Sentinel.*
+>
+> *I know it's been years, but... are you and Rachel still in Virginia? Please tell me you're close.*
 
 I stared at the screen, the glowing text burning into my retinas.
 
@@ -28513,17 +28444,17 @@ Three days after a fair-weather campus friend had bolted at the first sign of he
 
 I didn't consult Rachel. I didn't need to. Our pack protocols had been hardwired into our neurology for over a decade. When a Sentinel calls for extraction, the perimeter opens. Period.
 
-My fingers hit the keyboard, bypassing standard greetings entirely. I typed out a response fueled by pure, unadulterated pack loyalty.
+My fingers hit the keyboard, bypassing standard greetings entirely as I typed out a response fueled by pure pack loyalty.
 
-**Ashley,**
-
-**Rachel and I live in an end-unit townhouse right across the street from CCHR. And our only next-door neighbor is Master April. The perimeter is perfectly secure.**
-
-**Pack a bag. Get out of that place right now. I am sending you our exact address. The door is unlocked, and we are coming for you.**
+> *Ashley,*
+>
+> *Rachel and I live in an end-unit townhouse right across the street from CCHR. And our only next-door neighbor is Master April. The perimeter is perfectly secure.*
+>
+> *Pack a bag. Get out of that place right now. I am sending you our exact address. The door is unlocked, and we are coming for you.*
 
 I hit send, the confirmation flashing on the screen.
 
-I pushed my chair back and looked at Rachel. Her dark eyes were burning with a fierce, absolute determination. She was already standing up.
+I pushed my chair back and looked at Rachel. Her dark eyes were burning with fierce, absolute determination. She was already standing up.
 
 "I'll go get Master April," Rachel stated, her voice dropping into its most practical, combat-ready register. "She's coming home."
 
@@ -28531,31 +28462,29 @@ I pushed my chair back and looked at Rachel. Her dark eyes were burning with a f
 
 #### 2:45 PM — The Blackwater Extraction
 
-My fingers hammered against the plastic keys of my desktop keyboard. The quiet hum of the Command Center was entirely shattered by the spike of adrenaline flooding my nervous system.
+My fingers hammered against the plastic keys of my desktop keyboard. The quiet hum of the Command Center was shattered by the spike of adrenaline flooding my nervous system.
 
-**Michael:** \> **Where exactly are you? Neither Rachel nor I drive a car right now. I need your address so I can figure out the logistics of getting to you.**
+> *Where exactly are you? Neither Rachel nor I drive a car right now. I need your address so I can figure out the logistics of getting to you.*
 
-The little "User is typing..." indicator blinked rapidly at the bottom of the chat window. A few agonizing seconds later, her response populated on the screen.
+The little *User is typing...* indicator blinked rapidly at the bottom of the chat window. A few agonizing seconds later, her response populated on the screen.
 
-**Ashley:**
+> *I'm at the absolute bottom of the city. 161 Princess Anne Road. The Blackwater Beach RV Resort & Cottages. It's the very last property before you cross the state line into North Carolina and hit the Knotts Island causeway. He bought an RV down here so we would be isolated. Michael, I don't have a car. He took his truck to run errands. I can't even call a cab because I don't have any money, and I don't even have the PIN code to open the electronic security gate at the front of the park.*
 
-**I'm at the absolute bottom of the city. 161 Princess Anne Road. The Blackwater Beach RV Resort & Cottages. It’s the very last property before you cross the state line into North Carolina and hit the Knotts Island causeway. He bought an RV down here so we would be isolated.** \> **Michael, I don't have a car. He took his truck to run errands. I can't even call a cab because I don't have any money, and I don't even have the PIN code to open the electronic security gate at the front of the park.**
-
-My analytical brain instantly pulled up the geographic map of Virginia Beach. The city was massive, and Princess Anne Road stretched all the way down into the rural, marshy borderlands—far south of the suburban Susquehanna Drive bus stop where CVTA Route 25 turned around. Blackwater Beach RV Resort was a solid thirty-minute drive south from Canadian Arch under the best traffic conditions.
+My analytical brain instantly pulled up the geographic map of Virginia Beach. The city was massive, and Princess Anne Road stretched all the way down into the rural, marshy borderlands—far south of the suburban Susquehanna Drive bus stop where Route 25 turned around. Blackwater Beach RV Resort was a solid thirty-minute drive south from Canadian Arch under the best traffic conditions.
 
 While I stared at the screen, Rachel was already executing her part of the protocol.
 
-Downstairs, Rachel grabbed the brass handle of our front door and violently twisted the deadbolt, throwing the heavy door wide open to clear the perimeter.
+Downstairs, Rachel grabbed the brass handle of our front door and twisted the deadbolt, throwing the heavy door wide open to clear the perimeter.
 
-The bright, humid May afternoon air of the neighborhood spilled into our foyer. Standing right on the small patch of concrete that connected our front door to the adjacent unit at 3703, was April. She was wearing running shorts and a light athletic jacket, her face flushed and glistening with sweat as she cooled down from an afternoon jog.
+The bright, humid May afternoon air of the neighborhood spilled into our foyer. Standing right on the small patch of concrete that connected our front door to the adjacent unit at 3703 was April. She was wearing running shorts and a light athletic jacket, her face flushed and glistening with sweat as she cooled down from an afternoon jog.
 
 April smiled, lifting a hand to wave. "Hey, Rach—"
 
 Her greeting died instantly in her throat.
 
-Rachel didn't say a word, but she didn't have to. The non-verbal communication between an autistic pack member and her lifelong protector was instantaneous. Rachel’s posture was completely rigid, her dark eyes wide and fully dilated with the unmistakable, high-voltage intensity of an active crisis.
+Rachel didn't say a word, but she didn't have to. The non-verbal communication between an autistic pack member and her lifelong protector was instantaneous. Rachel's posture was completely rigid, her dark eyes wide and dilated with the unmistakable, high-voltage intensity of an active crisis.
 
-April’s friendly, neighborhood demeanor evaporated in a microsecond. The *Sunhoe Sabomnim* stepped forward, crossing the threshold into 3701 without hesitation.
+April's friendly neighborhood demeanor evaporated in a microsecond. The *Sunhoe Sabomnim* stepped forward, crossing the threshold into 3701 without hesitation.
 
 "What's wrong?" April demanded softly, her voice dropping into an absolute, tactical register.
 
@@ -28565,7 +28494,7 @@ I heard their rapid footsteps pounding up the carpeted stairs. A second later, R
 
 "It's Ashley," I said, my voice tight as I pointed at the glowing LCD monitor. "The Sentinel from the Delaney Street couch. She's trapped in an abusive marriage. She's down at an RV park on the North Carolina border, and she doesn't have a car. And we don't have a car to go get her."
 
-April leaned over my shoulder, her sharp eyes scanning the chat log on Orbit. She read the desperate SOS, the location, and the chilling detail about the security gate.
+April leaned over my shoulder, her sharp eyes scanning the chat log on *Orbit*. She read the desperate SOS, the location, and the chilling detail about the security gate.
 
 "Princess Anne Road," April murmured, her spatial processor verifying the exact same map I had just pulled up in my head. "That's a thirty-minute drive deep into the county."
 
@@ -28581,11 +28510,7 @@ A massive, suffocating weight lifted completely off my chest. The pack wasn't ju
 
 My fingers flew back across the keyboard.
 
-**Michael:**
-
-**Pack one bag. Everything you absolutely need to survive. Walk to the front security gate and slip through to the public side on Princess Anne Road. Do not wait inside the gate.**
-
-**We are leaving Canadian Arch right now. Look for Master April's blue car.**
+> *Pack one bag. Everything you absolutely need to survive. Walk to the front security gate and slip through to the public side on Princess Anne Road. Do not wait inside the gate. We are leaving Canadian Arch right now. Look for Master April's blue car.*
 
 I didn't wait for a reply. I hit send, grabbed my sneakers from the floor, and bolted downstairs with Rachel right behind me.
 
@@ -29611,19 +29536,13 @@ Over the holiday weekend, she had run the property records through Quantum's hig
 
 Jessica wasn't going to negotiate. She was going to drop a financial guillotine.
 
-She drafted a formal, legally binding purchase offer to the listing agent, structuring the terms with absolute, predatory precision:
-
-- **The Price:** A flat, non-negotiable offer of **\$115,000**.
-
-- **The Financing:** 100% Liquid Cash. She attached a certified proof-of-funds letter from the [Quantum Employees Federal Credit Union](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off). There would be no mortgage contingency and no appraisal bottleneck.
-
-- **The Timeline:** A 10-Day Expedited Close.
+She drafted a formal, legally binding purchase offer to the listing agent, structuring the terms with absolute, predatory precision. For the purchase price, she put down a flat, non-negotiable offer of \$115,000, backed by 100% liquid cash and a certified proof-of-funds letter from the [Quantum Employees Federal Credit Union](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off) so there would be no mortgage contingency and no appraisal bottleneck—all locked to a ten-day expedited close.
 
 To ensure the bank’s asset manager didn't even attempt to counter-offer or spark a bidding war, Jessica deployed the ultimate, irresistible sweeteners.
 
 She formally waived her right to any structural or environmental inspections. She was bulldozing the house to the foundation anyway, so she didn't care about the black mold or the sinking roof. Buying it strictly "As-Is" entirely removed the bank's liability. Next, she included a clause stating she would absorb the cost of the industrial dumpsters required to empty the property of any abandoned debris, saving the lender thousands in immediate sanitation fees.
 
-Finally, the anchor. She authorized a **\$25,000 non-refundable Earnest Money Deposit**, to be wired directly to the escrow company by 2:00 PM today. If she walked away, the bank kept twenty-five grand for absolutely nothing.
+Finally, she set the anchor: a \$25,000 non-refundable earnest money deposit, to be wired directly to the escrow company by 2:00 PM today. If she walked away, the bank kept twenty-five grand for absolutely nothing.
 
 It was a flawless, frictionless, cash-heavy exit strategy for a bank drowning in toxic subprime assets. No asset manager in the bleeding housing market of May 2009 could legally justify turning it down.
 
@@ -29893,21 +29812,19 @@ The two-and-a-half-year bridge between [*A Few Small Repairs*](https://books.rag
 
 #### 8:15 AM — The Building 35 Pipeline & The Rotor Wash
 
-The crisp, freezing February air of the Pacific Northwest bit at our cheeks as the articulated **TAPS (`Transit Authority of the Puget Sound`)** express bus hissed to a halt at the **Overlake Transit Center**, lowering its mechanical ramp onto the damp concrete.
+The crisp, freezing February air of the Pacific Northwest bit at our cheeks as the articulated Transit Authority of the Puget Sound express bus hissed to a halt at the Overlake Transit Center, lowering its mechanical ramp onto the damp concrete.
 
-It had been nearly five years since our pack had [demolished the rotting foreclosed house on Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach to build our permanent East Coast sanctuary, and over seven years since [Jessica, Kristin, and I had packed up the Chambers Creek Estates house in Lakewood](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-4-the-southern-base-camp) to bring our family home to Hampton Roads. Even though **Jessica** now commanded Quantum's East Coast Department of Defense integration from the twenty-first floor of the Armada Hoffler Tower and the SCIF vault at NAVSTA Norfolk, there was one corporate milestone on the West Coast she refused to watch over a remote video feed.
+It had been nearly five years since our pack had [demolished the rotting foreclosed house on Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach to build our permanent East Coast sanctuary, and over seven years since [Jessica, Kristin, and I had packed up the Chambers Creek Estates house in Lakewood](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-4-the-southern-base-camp) to bring our family home to Hampton Roads. Even though Jessica now commanded Quantum's East Coast Department of Defense integration from the twenty-first floor of the Armada Hoffler Tower and the SCIF vault at NAVSTA Norfolk, there was one corporate milestone on the West Coast she refused to watch over a remote video feed.
 
-Today—Friday, February 14, 2014—thirty-six-year-old **Cassandra Vance** was officially taking the crown as President and Chief Executive Officer of **Quantum Corporation**.
+On this Valentine's Day morning, thirty-six-year-old Cassandra Vance was officially taking the crown as President and Chief Executive Officer of Quantum Corporation. And because our five-person perimeter never split up for cross-country deployments, all five of us had flown out to Seattle together.
 
-And because our five-person perimeter never split up for cross-country deployments, all five of us had flown out to Seattle together.
+Jessica rolled smoothly down the bus ramp in her ultralight titanium manual wheelchair, her custom rose-amber tinted wire-rimmed prescription glasses cutting the pale winter glare off the wet pavement and her Quantum Blue Badge lanyard resting against the lapel of her tailored charcoal blazer. At twenty-nine years old, I stepped off the ramp right behind her chair with twenty-seven-year-old Rachel anchored flush against my left side, her gloved hand tucked securely into the crook of my elbow. Kristin laced her fingers warmly through my right hand, while Ashley took point on Jessica's left flank as we crossed onto the sprawling, pine-lined walkways of the Redmond campus.
 
-Jessica rolled smoothly down the bus ramp in her ultralight titanium manual wheelchair, her custom rose-amber tinted wire-rimmed prescription glasses cutting the pale winter glare off the wet pavement and her **Quantum Blue Badge** lanyard resting against the lapel of her tailored charcoal blazer. At twenty-nine years old, I stepped off the ramp right behind her chair with twenty-seven-year-old **Rachel** (*my Bug*) anchored flush against my left side, her gloved hand tucked securely into the crook of my elbow. My girlfriend **Kristin Connely** laced her fingers warmly through my right hand, while **Ashley Raybourn** took point on Jessica's left flank as we crossed onto the sprawling, pine-lined walkways of the Redmond campus.
-
-"Look at you five," Kristin smiled, her breath misting in the cold air as we passed the familiar brick-and-glass facade of **Building 35**, sitting right next door to **Building 34** and **Building 33**. "Seven years in Virginia Beach and we still hit the Overlake transfer window like we never left Puget Sound."
+"Look at you five," Kristin smiled, her breath misting in the cold air as we passed the familiar brick-and-glass facade of Building 35, sitting right next door to Building 34 and Building 33. "Seven years in Virginia Beach and we still hit the Overlake transfer window like we never left Puget Sound."
 
 "Muscle memory doesn't expire, Kristin," Jessica said, glancing fondly toward the ground-floor entrance of Building 35—where her [motorized, Blue Badge-triggered first-floor corner suite](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-3-the-broil-s-run-the-corporate-perimeter) had served as our sanctuary during the darkest week of November 2006. "Besides, Cassandra would never let me live it down if she found out I took a rental car onto her grid."
 
-During her years as a Senior Technical Program Manager in Building 35—before the Navy captured her as a Subject Matter Expert on the East Coast—Jessica had been one of Cassandra Vance's primary "ground truth" contacts on the engineering floor. While other Building 33 executives hid behind six layers of sanitized slide decks, Cassandra had routinely used her manual power-assist wheelchair to roll across NE 40th Street into Building 35 unannounced. She would roll straight through Jessica's motorized ground-floor office door, lock her brakes across from Jessica's roll-under cockpit desk, and ask the blunt operational questions no Vice President dared to answer honestly: *Is this deployment schedule actually achievable for your teams, or is management lying to me on paper?*
+During her years as a Senior Technical Program Manager in Building 35—before the Navy captured her as a Subject Matter Expert on the East Coast—Jessica had been one of Cassandra Vance's primary ground-truth contacts on the engineering floor. While other Building 33 executives hid behind six layers of sanitized slide decks, Cassandra had routinely used her manual power-assist wheelchair to roll across NE 40th Street into Building 35 unannounced. She would roll straight through Jessica's motorized ground-floor office door, lock her brakes across from Jessica's roll-under cockpit desk, and ask the blunt operational questions no Vice President dared to answer honestly: *Is this deployment schedule actually achievable for your teams, or is management lying to me on paper?*
 
 They were two women who had both survived catastrophic, feet-first bilateral axial load injuries in their teens, who both navigated a standing corporate world from custom manual wheelchairs, and who both operated with zero tolerance for institutional friction.
 
@@ -29915,7 +29832,7 @@ Suddenly, a low, rhythmic thudding vibrated through the soles of my winter boots
 
 Rachel's head snapped up beside my shoulder, her sharp acoustic processor locking onto the sound before the rest of the commuters on the walkway even noticed it. "Bear... those aren't news choppers. Those are heavy twin-engine transports."
 
-We paused near the plaza bordering **Building 33** and looked up. Banking sharply over the mist-shrouded evergreens were two massive, twin-engine commercial transport helicopters descending directly toward the elevated concrete of the Quantum executive helipad.
+We paused near the plaza bordering Building 33 and looked up. Banking sharply over the mist-shrouded evergreens were two massive, twin-engine commercial transport helicopters descending directly toward the elevated concrete of the Quantum executive helipad.
 
 Jessica shaded her tinted glasses with one hand, a slow, knowing smile spreading across her face as the twin aircraft flared their rotors and touched down in a roaring cloud of rotor wash.
 
@@ -29927,15 +29844,15 @@ Jessica shaded her tinted glasses with one hand, a slow, knowing smile spreading
 
 #### 9:00 AM — The William Keswick Auditorium & The Brass Master Key
 
-By 8:50 AM, the **William Keswick Auditorium** deep inside the architectural heart of Building 33 was packed to its structural capacity—a sea of thousands of developers, QA testers, and program managers wearing Quantum Blue Badges, humming with an electric, once-in-a-generation anticipation.
+By 8:50 AM, the William Keswick Auditorium deep inside the architectural heart of Building 33 was packed to its structural capacity—a sea of thousands of developers, QA testers, and program managers wearing Quantum Blue Badges, humming with an electric, once-in-a-generation anticipation.
 
-Up in the very front rows—rows `A` through `C`, which Cassandra had personally ordered Executive Security to clear and consolidate so no one in her family would be separated into general VIP seating—sat the unified **Vance-Whitaker** and Virginia packs. From our vantage point, we could see Cassandra's twenty-nine-year-old brother and Licensed Practical Nurse, **David Vance**, standing beside his wife **Liz** and their twenty-seven-year-old sister **Casey**, right alongside their parents **Wendy and Tom Vance**, Liz's parents **Mr. and Mrs. Carter**, fifty-one-year-old Ruby Mountain Matriarch **Victoria Vance**, thirty-eight-year-old industrial engineer **Morgan Foster**, and twenty-nine-year-old **Johnny Vance**—whose manual wheelchair was locked in the front center aisle between his twin sister **Amanda** and Casey.
+Up in the very front rows—rows A through C, which Cassandra had personally ordered Executive Security to clear and consolidate so no one in her family would be separated into general VIP seating—sat the unified Vance-Whitaker and Virginia packs. From our vantage point, we could see Cassandra's twenty-nine-year-old brother and Licensed Practical Nurse, David Vance, standing beside his wife Liz and their twenty-seven-year-old sister Casey, right alongside their parents Wendy and Tom Vance, Liz's parents Mr. and Mrs. Carter, fifty-one-year-old Ruby Mountain matriarch Victoria Vance, thirty-eight-year-old industrial engineer Morgan Foster, and twenty-nine-year-old Johnny Vance—whose manual wheelchair was locked in the front center aisle between his twin sister Amanda and Casey.
 
-Halfway back in the tiered amphitheater, Jessica parked her manual wheelchair in the wide, level ADA cut-out of the middle aisle. Rachel sat pressed flush against my left hip on the contiguous companion bench, Kristin held my right hand, and Ashley sat on Rachel's left, our five-person perimeter seamlessly intact. A few rows behind us near the rear accessible tier, forty-one-year-old **Jessica Taylor**—the legendary cross-platform architect who had built the 1997 bridge between Quantum and MagnaByte—sat in her state-of-the-art power wheelchair beside thirty-five-year-old twin senior architects **Kelly and Ryan Madsen**.
+Halfway back in the tiered amphitheater, Jessica parked her manual wheelchair in the wide, level ADA cut-out of the middle aisle. Rachel sat pressed flush against my left hip on the contiguous companion bench, Kristin held my right hand, and Ashley sat on Rachel's left, our five-person perimeter seamlessly intact. A few rows behind us near the rear accessible tier, forty-one-year-old Jessica Taylor—the legendary cross-platform architect who had built the 1997 bridge between Quantum and MagnaByte—sat in her state-of-the-art power wheelchair beside thirty-five-year-old twin senior architects Kelly and Ryan Madsen.
 
 At 9:00 AM sharp, the house lights dimmed, and the massive high-definition Quantum emblem illuminated the screen behind the stage.
 
-Outgoing CEO **Steven "Steve" Ballantine** didn't walk out from the wings—he erupted onto the stage like a human lightning bolt.
+Outgoing CEO Steven "Steve" Ballantine didn't walk out from the wings—he erupted onto the stage like a human lightning bolt.
 
 Clapping his hands and pacing the floorboards with the bombastic, kinetic intensity that had carried Quantum through fourteen years of post-antitrust warfare, Steve was already sweating through his crisp dress shirt before he grabbed the microphone off the stand.
 
@@ -29947,7 +29864,7 @@ The entire amphitheater went feral, thousands of engineers leaping to their feet
 
 Steve stopped dead center on the stage, his chest heaving and his eyes shining with fierce, paternal pride.
 
-"Today, my mandate is complete," Steve announced, his voice resonating to the back wall. "I am stepping down, but I am leaving you in the hands of the most brilliant, ground-level operator this industry has ever seen. She knows this machine because she built the infrastructure you rely on every single day! Please welcome... your new Chief Executive Officer... **CASSANDRA VANCE!**"
+"Today, my mandate is complete," Steve announced, his voice resonating to the back wall. "I am stepping down, but I am leaving you in the hands of the most brilliant, ground-level operator this industry has ever seen. She knows this machine because she built the infrastructure you rely on every single day! Please welcome... your new Chief Executive Officer... Cassandra Vance!"
 
 From the side of the stage, Cassandra rolled her custom manual wheelchair out into the spotlight. Wearing a razor-sharp dark corporate blazer, her posture immaculate and her expression radiating unshakeable calm, she met Steve at center stage.
 
@@ -29955,17 +29872,17 @@ Reaching into his suit jacket pocket, Steve Ballantine produced a heavy, ceremon
 
 The auditorium came completely unglued.
 
-Rachel, Kristin, Ashley, and I rose to our feet immediately beside Jessica's wheelchair, clapping until our palms stung as a deafening, five-minute standing ovation rolled across the amphitheater. Across the entire packed auditorium, the only three people who remained seated were the ones whose physical architecture required it: **Johnny Vance** down in the front row, **Jessica Ragsdale** right beside me in the middle aisle—her hands applauding fiercely in front of her blazer while a proud, emotional shine lit her eyes behind her rose-amber tinted lenses—and **Jessica Taylor** in her power chair near the back.
+Rachel, Kristin, Ashley, and I rose to our feet immediately beside Jessica's wheelchair, clapping until our palms stung as a deafening, five-minute standing ovation rolled across the amphitheater. Across the entire packed auditorium, the only three people who remained seated were the ones whose physical architecture required it: Johnny Vance down in the front row, Jessica Ragsdale right beside me in the middle aisle—her hands applauding fiercely in front of her blazer while a proud, emotional shine lit her eyes behind her rose-amber tinted lenses—and Jessica Taylor in her power chair near the back.
 
 Cassandra didn't wave like a politician. She waited patiently until the roar finally subsided, locked the brakes on her manual wheelchair dead center on the stage, and refused the podium entirely.
 
 "Thank you, Steve," Cassandra's voice rang out—cool, precise, and carrying effortless authority. "And thank you, Quantum."
 
-In the hush that followed, Cassandra reached into her blazer pocket and held up a sleek, glass-and-aluminum **MagnaByte mPhone** for the cameras. A ripple of stunned murmurs swept through the traditionalist suits in the upper balconies, while Jessica grinned knowingly beside me.
+In the hush that followed, Cassandra reached into her blazer pocket and held up a sleek, glass-and-aluminum MagnaByte mPhone for the cameras. A ripple of stunned murmurs swept through the traditionalist suits in the upper balconies, while Jessica grinned knowingly beside me.
 
 "I carry an mPhone today because the war for the hardware is over," Cassandra declared, officially pivoting Quantum to cross-platform enterprise software, cloud pipelines, and developer tools that ran on every device on Earth regardless of the logo stamped on the glass. "But we are only able to execute this pivot because of the foundation that was laid for us years ago. And I want to acknowledge the architects who poured that concrete."
 
-Looking out into the legacy engineering section, Cassandra publicly honored **Jessica Taylor** for her 1997 cross-platform work on *Aurora Presenter*, and then called out thirty-five-year-old twins **Kelly and Ryan Madsen**—the two former eighteen-year-old interns who had survived a toxic corporate disaster at *Aurora Systems* to become senior architects at Quantum.
+Looking out into the legacy engineering section, Cassandra publicly honored Jessica Taylor for her 1997 cross-platform work on *Aurora Presenter*, and then called out thirty-five-year-old twins Kelly and Ryan Madsen—the two former eighteen-year-old interns who had survived a toxic corporate disaster at *Aurora Systems* to become senior architects at Quantum.
 
 Then Cassandra rested her hands on the push-rims of her wheelchair, her dark eyes sweeping from her family in the front three rows up across the thousands of engineers filling the tiers.
 
@@ -29985,7 +29902,7 @@ Beside me in the middle aisle, Jessica tapped her hand once against the titanium
 
 Instead of retreating to a closed-door VIP luncheon on the top floor of Building 33 after the handover broadcast, [Cassandra Vance](https://books.raggiesoft.com/quantum-directive-3-casey/book-5-the-sovereign-ascension/chapter-2-the-after-party/part-1-the-food-truck-festival-the-transit-pledge) turned the entire Redmond campus into an open-air street fair.
 
-Dozens of local Seattle and Eastside food trucks formed a giant ring around the forested courtyards between **Buildings 33, 34, and 35**, their generators humming in the crisp February sunshine as the aroma of pulled-pork barbecue, gourmet tacos, Korean bulgogi, and artisanal grilled cheese drifted past heated outdoor pavilions and roaring fire pits. Every single meal and drink tab across the campus was covered by Quantum, and every deployment deadline had been suspended for the afternoon.
+Dozens of local Seattle and Eastside food trucks formed a giant ring around the forested courtyards between Buildings 33, 34, and 35, their generators humming in the crisp February sunshine as the aroma of pulled-pork barbecue, gourmet tacos, Korean bulgogi, and artisanal grilled cheese drifted past heated outdoor pavilions and roaring fire pits. Every single meal and drink tab across the campus was covered by Quantum, and every deployment deadline had been suspended for the afternoon.
 
 As our pack rolled out of Building 33 into the main courtyard, we actually saw a senior Public Relations director—flanked by a corporate photographer carrying a massive telephoto lens—hurry up to Cassandra's wheelchair and beg her to stage a photo-op handing out burgers from a food truck window.
 
@@ -29993,7 +29910,7 @@ Cassandra stopped her chair and shut him down in a single sentence that carried 
 
 Thirty minutes later, while Rachel, Kristin, Ashley, and I were carrying trays of smoked brisket and grilled cheese back toward the central plaza with Jessica rolling beside us, we passed the fifty-person line for the most popular pulled-pork sandwich truck on campus.
 
-Parked halfway back in the queue—chatting casually with her brother **David**, her sister-in-law **Liz**, and her younger sister **Casey**, who was snapping candid photos with a digital camera—sat the newly crowned CEO of a trillion-dollar tech empire.
+Parked halfway back in the queue—chatting casually with her brother David, her sister-in-law Liz, and her younger sister Casey, who was snapping candid photos with a digital camera—sat the newly crowned CEO of a trillion-dollar tech empire.
 
 Right in front of us, a twenty-two-year-old junior developer in a heavy fleece pullover turned around, realized he was standing directly in front of Cassandra Vance, and nearly dropped his laptop bag.
 
@@ -30009,11 +29926,11 @@ As the disarmed junior developer stepped back into place, Jessica looked over at
 
 #### 1:15 PM — The Zero-Proof Pavilion & The Sibling Anchor
 
-While the standard beer-and-wine tents were set up on the far side of the lawn, the gravitational center of our afternoon was the **Zero-Proof Pavilion** near the heart of the courtyard.
+While the standard beer-and-wine tents were set up on the far side of the lawn, the gravitational center of our afternoon was the Zero-Proof Pavilion near the heart of the courtyard.
 
-Outfitted with a high-end craft mocktail bar, simmering kettles of spiced apple cider, and dark-roast espresso machines, the pavilion had been built specifically because Cassandra's daily nerve-blockers and anti-spasticity medications (`Baclofen` and `Gabapentin`) for her bilateral axial load injuries strictly prohibited alcohol. It was the exact same zero-alcohol baseline our own pack maintained—and the exact same dry perimeter kept by **Victoria Vance's** Ruby Mountain Vanguard, who stood nearby sipping hot spiced ciders around **Johnny** and **Amanda**.
+Outfitted with a high-end craft mocktail bar, simmering kettles of spiced apple cider, and dark-roast espresso machines, the pavilion had been built specifically because Cassandra's daily nerve-blockers and anti-spasticity medications—Baclofen and Gabapentin—for her bilateral axial load injuries strictly prohibited alcohol. It was the exact same zero-alcohol baseline our own pack maintained, and the exact same dry perimeter kept by Victoria Vance's Ruby Mountain Vanguard, who stood nearby sipping hot spiced ciders around Johnny and Amanda.
 
-At a long, low-top wooden table near the edge of the heated pavilion, Cassandra parked her manual wheelchair right next to **Jessica's**.
+At a long, low-top wooden table near the edge of the heated pavilion, Cassandra parked her manual wheelchair right next to Jessica's.
 
 Seeing the two of them side by side was like looking at mirror images forged on opposite sides of the country. Both women had survived devastating feet-first falls in their youth—Jessica from our portico roof in Virginia Beach in November 1999, Cassandra during her own axial load trauma—and both commanded massive technical architectures from custom manual wheelchairs. As they sipped their hot spiced ciders, their conversation flowed effortlessly from optimizing Quantum's cross-coastal server latency to comparing the torque tolerances of commercial-grade articulated laptop mounting arms for their chairs.
 
@@ -30023,9 +29940,9 @@ Clustered a few feet from Jessica's right wheel, Kristin, Ashley, and I stood wa
 
 "Copy that, Bug," I laughed, kissing the top of her head while Kristin and Ashley grinned.
 
-Before we could head for the dessert trucks, a sleek power wheelchair glided smoothly up to the wooden table, flanked by thirty-five-year-old twin senior architects **Kelly and Ryan Madsen**.
+Before we could head for the dessert trucks, a sleek power wheelchair glided smoothly up to the wooden table, flanked by thirty-five-year-old twin senior architects Kelly and Ryan Madsen.
 
-"Cassandra," forty-one-year-old **Jessica Taylor** greeted warmly, locking her power chair beside the table.
+"Cassandra," forty-one-year-old Jessica Taylor greeted warmly, locking her power chair beside the table.
 
 "Jessica," Cassandra smiled, gesturing toward the open bench across from her and Jessica Ragsdale. "Kelly, Ryan. Please, sit down."
 
@@ -30039,17 +29956,17 @@ Even from three paces away, my own autistic processor recognized the exact physi
 
 Nobody at our table flinched, judged, or offered hollow corporate platitudes.
 
-And **Ryan Madsen** moved with the instantaneous, hardwired reflex of a lifelong sibling anchor.
+And Ryan Madsen moved with the instantaneous, hardwired reflex of a lifelong sibling anchor.
 
 Without saying a word, Ryan stepped directly behind his twin sister's chair, wrapped both arms firmly around her torso and beneath her arms, and pulled her back flush against his chest—applying steady, full-body deep pressure while resting his chin atop her head like a human weighted blanket.
 
-Beside me, Rachel's fingers tightened around my forearm in silent, profound recognition. It was the exact same hold—the exact same *Bear and Bug* deep-pressure grounding and [Human Bench Press](https://books.raggiesoft.com/rachel/the-director-s-perimeter/the-capture/the-sme-directive) that Rachel, Kristin, Ashley, and I used whenever my own processor redlined. A few feet to our left, **David Vance**—his hand resting on his leather LPN medical kit—gave a slow, quiet nod of absolute solidarity.
+Beside me, Rachel's fingers tightened around my forearm in silent, profound recognition. It was the exact same hold—the exact same *Bear and Bug* deep-pressure grounding and [Human Bench Press](https://books.raggiesoft.com/rachel/the-director-s-perimeter/the-capture/the-sme-directive) that Rachel, Kristin, Ashley, and I used whenever my own processor redlined. A few feet to our left, David Vance—his hand resting on his leather LPN medical kit—gave a slow, quiet nod of absolute solidarity.
 
 Under the steady mechanical pressure of her twin brother's embrace, Kelly's ragged breathing gradually slowed. When the tremors eased, Ryan gave her shoulders one final grounding squeeze and sat back down beside her, keeping his arm pressed firmly against hers.
 
 "Take your time, Kelly," Cassandra said gently.
 
-Taking a steadying breath, Kelly told the entire story—from **Evan Rothwell's** unhinged 1997 memo plotting to abduct Jessica Taylor from MagnaByte, to how Rothwell had taken a brilliant eighteen-year-old C++ engineer and forced her to sit at the front reception desk sorting mail and answering phones.
+Taking a steadying breath, Kelly told the entire story—from Evan Rothwell's unhinged 1997 memo plotting to abduct Jessica Taylor from MagnaByte, to how Rothwell had taken a brilliant eighteen-year-old C++ engineer and forced her to sit at the front reception desk sorting mail and answering phones.
 
 Then Kelly's voice dropped into a cold, trembling whisper.
 
@@ -30057,7 +29974,7 @@ Then Kelly's voice dropped into a cold, trembling whisper.
 
 Dead silence fell over the wooden table.
 
-For me—standing there between Rachel, Kristin, and Ashley after surviving [Delores and Brandi's violation in Blacksburg](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit)—and for Ashley, who had survived David Lawson's degradation, Kelly's words hit like cold iron. At the table, **Jessica Ragsdale's** jaw tightened in fierce, visceral disgust behind her tinted glasses, while **David and Liz Vance** exchanged a look of pure protective fury.
+For me—standing there between Rachel, Kristin, and Ashley after surviving [Delores and Brandi's violation in Blacksburg](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit)—and for Ashley, who had survived David Lawson's degradation, Kelly's words hit like cold iron. At the table, Jessica Ragsdale's jaw tightened in fierce, visceral disgust behind her tinted glasses, while David and Liz Vance exchanged a look of pure protective fury.
 
 Cassandra Vance sat completely still, her dark eyes flashing with glacial executive rage at a ghost from 1997.
 
@@ -30077,7 +29994,7 @@ As a single tear of relief slipped down Kelly's cheek and Ryan laced his fingers
 
 We spent the rest of the crisp winter afternoon soaking in the cross-pollination of the two worlds Cassandra had brought together.
 
-Near one of the stone fire pits, Jessica and I listened in fascination as **Morgan Foster**—Ruby Mountain's thirty-eight-year-old Lead Industrial Engineer in her heavy canvas jacket—casually explained to three stunned Quantum cloud architects how she powered the mountain's localized Quantum OS server cluster off-grid using a salvaged, retrofitted **1903 steam boiler** turbine so winter blizzards could never sever their network. A few yards away, Kelly and Ryan Madsen walked over to introduce themselves respectfully to **Johnny Vance** and his protective perimeter of **Amanda, Sarah, and Ashleigh**.
+Near one of the stone fire pits, Jessica and I listened in fascination as Morgan Foster—Ruby Mountain's thirty-eight-year-old Lead Industrial Engineer in her heavy canvas jacket—casually explained to three stunned Quantum cloud architects how she powered the mountain's localized Quantum OS server cluster off-grid using a salvaged, retrofitted 1903 steam boiler turbine so winter blizzards could never sever their network. A few yards away, Kelly and Ryan Madsen walked over to introduce themselves respectfully to Johnny Vance and his protective perimeter of Amanda, Sarah, and Ashleigh.
 
 As the late-afternoon sun dipped below the Pacific Northwest evergreens at 4:45 PM, casting a cool golden twilight across the courtyard before we headed back to the Overlake bus bays, Cassandra wheeled her manual chair up to the central fire pit and took a wireless microphone from the campus events crew.
 
@@ -30091,7 +30008,7 @@ Beside me, Jessica smiled—remembering every rainy Pacific Northwest winter aft
 
 The roar that erupted from the junior developers, QA testers, senior architects, and program managers shook the pine trees around the courtyard.
 
-As we walked alongside Jessica's wheelchair back toward the **Overlake Transit Center** to catch our evening TAPS bus—Rachel's arm looped securely through mine, Kristin's hand warm in my right pocket, and Ashley walking flank beside Jessica—I looked back at the glowing glass towers of Buildings 33, 34, and 35.
+As we walked alongside Jessica's wheelchair back toward the Overlake Transit Center to catch our evening bus—Rachel's arm looped securely through mine, Kristin's hand warm in my right pocket, and Ashley walking flank beside Jessica—I looked back at the glowing glass towers of Buildings 33, 34, and 35.
 
 Whether on Moosewood Drive in Virginia Beach or in the courtyards of Redmond, the law of our universe was finally proven: when the people who actually understand the weight of a wheelchair and the sanctity of a sibling anchor hold the keys to the fortress, nobody gets left behind in the rain.
 
@@ -30107,64 +30024,65 @@ Whether on Moosewood Drive in Virginia Beach or in the courtyards of Redmond, th
 
 #### 1:30 PM — Testing Our Childhood Memory on Dominion Mall
 
-In the years since **Jessica** had finished building our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, the five of us—**Rachel**, **Ashley**, **Kristin**, **Jessica**, and I—had settled into the safest, most unshakable home perimeter of our lives. **Moosewood Drive** was, and would always remain, **Rachel's and my permanent legal residence**.
+The steady, rhythmic splash of water against concrete reached our ears before the trees even cleared.
 
-During our years in ["The Shallow End" at the **Community College of Hampton Roads (`CCHR`)**](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end), Rachel and I had methodically knocked out semester after semester of transferable college coursework right across Buckner Boulevard from home—aligning our schedules after May 2009 so we took every single class together side-by-side and earned our transferable **Associate of Science (`A.S.`) degrees in Computer Information Systems**. By the end of the **Spring 2015 semester**, we were ready to go back to school at a four-year university—specifically **Virginia Dominion University (`VDU`)** up in **Norfolk**—to earn our **Bachelor of Science (`B.S.`) degrees in Information Systems & Technology (`IST`)** together, and we also wanted to try out the on-campus living experience together.
+A warm May breeze drifted off the Elizabeth River, carrying the brackish scent of Norfolk tidewater across the wide, sun-bleached pedestrian expanse of Dominion Mall. Up ahead, our undergraduate tour guide walked backward in a royal-blue Virginia Dominion University polo shirt, gesturing toward the surrounding brick academic buildings for the dozen high school juniors and transfer prospects trailing behind him.
 
-Ahead of officially deciding to commit to VDU for the upcoming Fall 2015 semester, however, Rachel and I signed up for a Friday afternoon **Spring Campus Tour** on **May 1, 2015**.
+At the back of the group, Rachel and I barely needed to listen to the pitch. Our fingers were laced tightly together between us, her palm warm and steady against mine as we stepped out from beneath the shade of the live oaks and looked across the open plaza.
 
-Our main reason for taking the tour wasn't to hear the admissions sales pitch—it was to see if we could still remember where everything was on campus.
+"There's the diagonal walkway to the circular fountain outside Monarch Commons," Rachel whispered, a quiet grin tugging at the corners of her mouth behind her rounded glasses before the tour guide even reached the intersection. "And right past those crape myrtles is the dining hall where Jessica used to walk over from the teen camp group at noon so the three of us could eat lunch together."
 
-As kids back in the 1990s, [**Jessica**, **Rachel**, and I had all gone to **Youth Summer Camp at VDU**](https://books.raggiesoft.com/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/dominion-mall-the-summer-camp-map-mapping-vdu-with-rachel-and-jessica), spending weeks walking these exact Norfolk plazas together. Later, [when I was a senior at Northwood High School and Rachel and Jessica were out in Washington State](https://books.raggiesoft.com/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-with-northwood-high-the-promise-to-reunite-first), I had walked these same walkways on high school field trips to VDU, promising myself that I would reunite with my family before I ever came back here for college.
+"And the University Library and the Student Recreation Center are straight down the concrete mall past the lawn," I replied softly, squeezing her hand. "Not a single walkway has moved."
 
-Sure enough, the moment Rachel and I stepped out onto the wide concrete pedestrian expanse of **Dominion Mall** on that sunny May afternoon—holding hands with our fingers laced tightly together in the tour group—**we remembered everything from our childhood**.
+That was the real reason the two of us had signed up for this Friday afternoon Spring Campus Tour at the end of our final semester at the community college. We weren't here for the admissions brochure; we were here to test our memory and see if the campus still felt like the map stored inside our heads.
 
-"There's the diagonal walkway to the circular fountain outside **Monarch Commons**," Rachel whispered, grinning behind her rounded glasses before the student tour guide even reached the intersection. "And right past those crape myrtles and live oaks is the dining commons where Jessica used to walk over from the teen camp group at noon so the three of us could eat lunch together."
+More than twenty years had passed since those humid July mornings in the nineties when [Jessica, Rachel, and I had all gone to Youth Summer Camp at VDU](https://books.raggiesoft.com/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/dominion-mall-the-summer-camp-map-mapping-vdu-with-rachel-and-jessica), tracing these exact concrete squares in oversized camp t-shirts. Years later, [when I was a senior at Northwood High School and Rachel and Jessica were out in Washington State](https://books.raggiesoft.com/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-with-northwood-high-the-promise-to-reunite-first), I had stood on this same pavement during a senior class field trip with a hollow ache in my chest, silently promising myself that I would bring my family back together before I ever set foot here as a university student.
 
-"And the **University Library** and **Student Recreation Center** are right down the concrete mall past the lawn," I smiled, squeezing her hand. More than twenty years after our first summer camp mornings on this plaza, our internal campus map hadn't lost a single coordinate.
+Now, that promise was fulfilled in full. Back home in Virginia Beach, the custom single-family sanctuary Jessica had built for the five of us—Rachel, Ashley, Kristin, Jessica, and me—on [Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) stood as our unshakable fortress. Moosewood Drive was, and would always remain, Rachel's and my permanent legal residence. And across the patient, methodical years we had spent in ["The Shallow End" at the Community College of Hampton Roads](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end) right across Buckner Boulevard from home, Rachel and I had aligned our schedules after May 2009 so we took every single course side by side, completing our transferable Associate of Science degrees in Computer Information Systems together.
+
+We were finally ready to step up to Virginia Dominion University to earn our Bachelor of Science degrees in Information Systems and Technology together. And as we followed the tour group across the flat, sun-warmed concrete of Dominion Mall, we knew we wanted to try out the on-campus living experience together, too—if VDU's housing rules had a way to keep a brother and sister under the same roof.
 
 ***
 
 #### 2:30 PM — The Dorm Front Desk RA & The VDU Housing Staffer
 
-Toward the end of the tour, our student guide led the group into the lobby of one of the residence halls so prospective students could see on-campus housing.
+Toward the end of the afternoon loop, our student guide held open the heavy glass doors of one of the residence halls and ushered the group into the air-conditioned lobby so prospective students could see how on-campus housing worked.
 
-Right beside the front desk stood a new blue-and-gold tabletop placard that immediately caught both of our eyes:
+While the high school students crowded around the tour guide near the elevator bank, a crisp blue-and-gold tabletop placard resting on the edge of the front reception counter caught both of our eyes at the exact same moment.
 
-> **COMING FALL 2015: GENDER-INCLUSIVE HOUSING (`GIH`) PILOT PROGRAM**
-> *Ask VDU Housing & Residence Life about upperclass mixed-gender roommate options for the 2015–2016 academic year.*
+*COMING FALL 2015: GENDER-INCLUSIVE HOUSING (GIH) PILOT PROGRAM. Ask VDU Housing & Residence Life about upperclass mixed-gender roommate options for the 2015–2016 academic year.*
 
-Rachel and I looked at the sign, looked at each other, and walked straight up to the **student Resident Assistant (`RA`)** sitting behind the dorm's front desk, our fingers still laced together.
+Rachel and I stared at the placard, looked at each other with a sudden spark of recognition, and walked straight up to the student Resident Assistant sitting behind the dorm's front desk, our fingers still laced tightly together.
 
-"Excuse me," I said warmly. "We just saw the sign for the Gender-Inclusive Housing Pilot Program. My sister Rachel and I are brother and sister, and we're looking at transferring in from `CCHR` this fall."
+"Excuse me," I said warmly as the student worker looked up from his logbook. "We just saw the sign for the Gender-Inclusive Housing Pilot Program. My sister Rachel and I are brother and sister, and we're looking at transferring in from the Community College of Hampton Roads this fall."
 
-"We'd want to live together on campus," Rachel added, smiling across the counter. "How does signing up for the GIH pilot work?"
+"We'd want to live together on campus," Rachel added, smiling across the laminate counter. "How does signing up for the pilot work?"
 
-The RA at the dorm desk glanced down for a second at our joined hands, looked up at our faces, and gave us a polite, apologetic smile.
+The RA glanced down for half a second at our joined hands resting against the edge of the counter, looked back up at our matching smiles, and offered an apologetic grin.
 
-"Honestly, since it's a brand-new pilot program going live for the very first time this upcoming Fall semester—and we're just wrapping up Spring semester right now—they haven't trained the dorm desk RAs on the portal details yet," the RA admitted, gesturing toward the adjacent **VDU Housing & Residence Life** administrative desk across the lobby. "Let me walk you right over to the full-time Housing staffer at the main desk—she has all the Fall 2015 GIH Pilot binders right in front of her."
+"Honestly, since it's a brand-new pilot program going live for the very first time this upcoming fall—and we're just wrapping up the spring semester right now—they haven't trained the dorm desk RAs on the portal steps yet," he admitted, gesturing across the lobby toward the main administrative counter for VDU Housing and Residence Life. "Let me walk you right over to the full-time Housing staffer at the main desk. She has all the Fall 2015 GIH Pilot binders right in front of her."
 
 ![Michael and Rachel holding hands at the VDU Housing desk during their May 2015 tour as the Housing staffer goes over the Dominion Village floor plans and Fall 2015 GIH Pilot rules]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/may_2015_vdu_spring_tour_housing_desk_gih_inquiry.jpg)
 
-A moment later, Rachel and I were standing across the counter from the full-time **VDU Housing staffer**, who pulled out the official **Fall 2015 Gender-Inclusive Housing Pilot Program** packet and four laminated architectural floor plan sheets for **Dominion Village** (`1 Bed / 1 Bath`, `2 Bed / 2 Bath`, `4 Bed / 2 Bath Version A`, and `4 Bed / 2 Bath Version B`).
+A moment later, Rachel and I stood side by side at the main Housing counter as a full-time administrator in a VDU lanyard pulled open a thick navy binder. She slid out the official Fall 2015 Gender-Inclusive Housing Pilot Program packet along with four laminated architectural floor plan sheets for the Dominion Village apartment complex—one for a one-bedroom, one-bath unit, one for a two-bedroom, two-bath unit, and two versions of a four-bedroom, two-bath suite—angling the diagrams across the counter toward our eyes.
 
-"First off, since both of you are transferring in with that many credits from the **Community College of Hampton Roads (`CCHR`)**, you won't be classified as freshmen," the Housing staffer explained brightly. "That means you bypass the freshman corridor dorms completely and qualify for our upperclass apartments in **Dominion Village** on your very first try."
+"First off, since both of you are transferring in with completed associate degrees from the Community College of Hampton Roads, you won't be classified as freshmen," the Housing staffer explained brightly, tapping the top of the packet. "That means you bypass the traditional freshman corridor dorms completely and qualify for our upperclass apartments in Dominion Village right out of the gate."
 
-"And we can share an apartment together as brother and sister under the GIH Pilot?" I asked.
+"And we can share an apartment together as brother and sister under the GIH Pilot?" I asked, my heart picking up speed.
 
-"Yes! That's exactly what the new Fall 2015 GIH Pilot Program allows," she confirmed, tapping the floor plan sheets angled toward us on the counter. "Now, let me go over the official university occupancy rules with you. Even under Gender-Inclusive Housing, VDU Housing strictly requires **one student per bedroom (`1 student = 1 private bedroom`)**. So a single student can select a `1 Bed / 1 Bath` unit, two students in a GIH roommate pair must select a **`2 Bed / 2 Bath`** unit where each of you is assigned to your own private bedroom and bathroom (`Bedroom 1` and `Bedroom 2`), or four students can share a `4 Bed / 2 Bath` unit."
+"Yes, that is exactly what the new Fall 2015 pilot allows," she confirmed warmly. "Instead of separating roommates strictly by legal sex on the housing portal, any two or four upperclass students who mutually request each other—including opposite-sex siblings—can opt into a Gender-Inclusive Housing apartment together. Now, let me go over the university occupancy rules with you. Even under Gender-Inclusive Housing, VDU strictly requires one student per bedroom—one student equals one private bedroom on the lease roster. A single student living alone selects a one-bedroom, one-bath unit. Two students in a GIH roommate pair must select a two-bedroom, two-bath unit where each of you is assigned to your own private bedroom and en-suite bathroom, Bedroom 1 and Bedroom 2. Or four students can share a four-bedroom, two-bath unit."
 
-Rachel and I looked down at the **`1 Bed / 1 Bath`** floor plan sheet sitting right next to the **`2 Bed / 2 Bath`** sheet.
+Rachel and I looked down at the laminated floor plan for the one-bedroom, one-bath apartment sitting right beside the two-bedroom, two-bath sheet.
 
-We both knew the university rules—and we also both knew the unspoken truth that we obviously couldn't say out loud to a VDU Housing administrator: **if VDU had let the two of us pick the `1 Bed / 1 Bath` unit and just share one bed the way we do every single night at home on Moosewood Drive, we would have gladly picked the `1 Bed / 1 Bath` unit on the spot.**
+Neither of us said a word for a beat, because we were both thinking the exact same thing—a quiet, unmistakable truth that we obviously could not say out loud to a university administrator. If VDU's rules had allowed two people to pick the one-bedroom, one-bath unit and simply share the single bed the way we slept together every night back home on Moosewood Drive, we would have pointed to that one-bedroom sheet on the spot without a second thought.
 
-Since you can't tell a university housing staffer *"We actually want one bedroom so we can sleep in the same bed together,"* Rachel and I kept our faces completely composed and nodded in polite, textbook agreement.
+Since you cannot look a college housing official in the eye and tell her, *We actually only want one bedroom so we can sleep in the same bed together every night,* Rachel and I kept our expressions textbook-composed and nodded in polite agreement.
 
-"That makes total sense," I said smoothly, giving Rachel's hand a subtle, knowing squeeze beside the counter. "Having our own `2 Bed / 2 Bath` apartment on the ground floor where we each have our own bedroom sounds great."
+"That makes total sense," I said smoothly, giving Rachel's hand a subtle, knowing squeeze beside the counter. "Having our own two-bedroom, two-bath apartment on the ground floor where we each have our own assigned bedroom sounds great."
 
-"We'll sign up for the GIH Pilot and request a ground-floor `2 Bed / 2 Bath` unit as soon as we submit our deposit tonight," Rachel smiled.
+"We'll opt into the GIH Pilot and request a ground-floor two-bedroom, two-bath unit in Dominion Village as soon as we submit our enrollment deposit tonight," Rachel added with a bright, easy smile.
 
-Walking back out onto the sunny red-brick plaza we had known since childhood summer camp, our decision was `100%` locked in: we were officially going to **Virginia Dominion University**.
+When we pushed back out through the glass doors onto the sunlit red-brick walkways we had known since childhood summer camp, the breeze off the river felt electric. Rachel leaned her shoulder into mine as we walked down Dominion Mall toward the parking garage, our decision completely locked in. Come August, we were officially going to Virginia Dominion University.
 
 ### Part 2: Move-In Day at 1016 Hampton House ('Building 2'), The 2 Bed / 2 Bath Floor Plan, & Alternating Beds
 
@@ -30172,59 +30090,63 @@ Walking back out onto the sunny red-brick plaza we had known since childhood sum
 
 ![Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (1016 Hampton House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
 
-#### 2:00 PM — `1016 Hampton House` (Or as Everyone Calls It: `"Building 2"`)
+#### 2:00 PM — 1016 Hampton House (Or as Everyone Calls It: "Building 2")
 
-On **Saturday afternoon, August 22, 2015**, **Ashley** and **Kristin** helped **Rachel** and me load our suitcases, textbooks, and bedding into Ashley's car at [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) (which remained our permanent legal residence) and drove us up to Norfolk to move into our new **ground-floor `2 Bed / 2 Bath` upperclass on-campus apartment** at **Virginia Dominion University**.
+"We've got two more ground-floor check-ins heading into Building 2!"
 
-When we pulled up to the curb along West 45th Street in **Dominion Village**, we looked up at our assigned three-story red-brick and cream-stucco apartment building.
+The voice crackled over a handheld walkie-talkie as a student volunteer in a sweat-darkened staff shirt waved a rolling laundry cart down the sidewalk of West 45th Street. Behind us, the trunk of Ashley's sedan popped open with a metallic thunk. After helping Rachel and me load our suitcases, laundry baskets, and quilted bedding back home at [Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)—which remained our permanent legal residence—Ashley and Kristin had driven us up to Norfolk into the humid August bustle of Dominion Village move-in day.
+
+Stepping onto the curb, I laced my left hand through Rachel's right hand and looked up at the three-story red-brick and cream-stucco apartment building rising in front of us.
 
 ![Michael and Rachel walking hand-in-hand up the front walkway to the double entry doors of 1016 Hampton House ("Building 2") at Virginia Dominion University on move-in day in August 2015]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_1016_hampton_house_building_2_exterior.jpg)
 
-Directly over the glass double front doors, framed by white pilasters and a triangular pediment, the black architectural lettering read:
+Directly above the glass double entry doors, framed by white classical pilasters and a crisp triangular pediment, black architectural lettering spelled out the formal address: *1016 Hampton House*.
 
-```
-    1016
-Hampton House
-```
+On every campus map and housing assignment email we had received over the summer, the building was officially listed as Hampton House. Yet within thirty seconds of walking up the front path to collect our room packets at the folding check-in table, Rachel and I realized that nobody who actually worked at Virginia Dominion University ever used that name. Every Housing coordinator and Resident Assistant directing carts along the sidewalk referred to the structure simply as "Building 2."
 
-Officially, on campus maps and plaques, the building was named **`Hampton House`**. Within thirty seconds of walking up the front path to check in at the move-in table, however, Rachel and I noticed that every single VDU Housing staffer and Resident Assistant on the sidewalk—talking into their walkie-talkies and directing carts—referred to it simply as **`"Building 2"`** (*"We've got a ground-floor check-in heading into Building 2"*).
+"Building 2 it is," Rachel murmured beside me, adjusting her glasses with a quiet smile as the staffer handed us our room keys and encoded our official student ID cards, the Dominion Pass. To our operational brains, "Building 2" was cleaner, faster, and matched the live radio traffic around us—so from that first Saturday afternoon onward, Building 2 was the only name we ever called it.
 
-To our operational brains, `"Building 2"` was cleaner, faster, and what the staff actually called it—so from that first afternoon onward, Rachel and I simply called it **`Building 2`** instead of the formal *Hampton House* name printed over the front door.
-
-**Building 2** was **three stories tall (`3 floors`) with no elevators**, and unlike a traditional freshman dorm, it had **no central dorm lobby or front desk** inside—just a straight ground-floor interior hallway behind those glass double doors that led directly from one exterior entrance to the other. Because Rachel and I were assigned to the **ground floor (`1st floor`)**, we didn't have to haul a single box up a flight of stairs, and right down our first-floor hallway was the communal laundry room for the entire building: **five washers and six dryers** operated by laundry credits loaded onto our official VDU student ID cards, the **`Dominion Pass`**.
+Dragging our first rolling cart through the double doors with Ashley and Kristin right behind us, I took in the layout of the building. Building 2 was three stories tall with no elevators, and unlike a traditional freshman residence hall, it had no central lobby or reception desk inside—just a straight ground-floor interior hallway running directly from one exterior entrance to the other. Because Rachel and I had requested and received a ground-floor apartment on the first floor, we didn't have to haul a single box or suitcase up a stairwell. Even better, right down our first-floor corridor sat the communal laundry room serving all three floors of the building, lined with five washers on one side and six dryers on the other, all operated by laundry credits loaded onto our Dominion Pass cards.
 
 ***
 
-#### 4:15 PM — Inside Our `2 Bed / 2 Bath` Apartment & Alternating Between Bedroom 1 and Bedroom 2
+#### 4:15 PM — Inside Our 2 Bed / 2 Bath Apartment & Alternating Between Bedroom 1 and Bedroom 2
 
-When we tapped our **`Dominion Pass`** cards against our apartment's front **`ENTRY`** door off the ground-floor hallway of **Building 2** and stepped inside, we saw immediately why skipping freshman classification with our `CCHR` credits was such a win:
+When I tapped my Dominion Pass against the electronic reader beside our apartment's front entry door and pushed it open, a wave of crisp, freshly conditioned air greeted us—and we saw immediately why bypassing the freshman dorms with our community college transfer credits was such a triumph.
 
 ![Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Building 2 (Hampton House) at Virginia Dominion University (VDU)]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_2bed_2bath_floorplan.jpg)
 
-* **The Entry, Kitchen, & Dining Area:** Stepping through the front **`ENTRY`** door at the bottom center of the floor plan, to the **left** was our full **`KITCHEN`**—complete with a four-burner stove and oven, refrigerator, a pantry closet on the far left wall, and a peninsula counter with the kitchen sink—while to the **right** of the entry sat a square four-chair **dining table**.
-* **The Central Living Room:** Beyond the kitchen sink peninsula and dining table opened the central **`LIVING ROOM`**, furnished with a three-cushion sofa against the back wall, a coffee table, a side end table, and two armchairs facing each other.
-* **The Two Locked Maintenance-Access-Only Utility Closets (`X` and `●`):** Built into the apartment's structure were two locked **VDU Facilities Maintenance Access Only** utility closets:
-  1. In the back-right corner of the **Living Room** right beside the sofa was the utility closet marked **`X`** on the floor plan, which housed the apartment's **HVAC system**.
-  2. Tucked between the **Kitchen** sink peninsula and Bedroom 1's closet was the utility closet marked with a **circle (`●`)** on the floor plan, which housed the apartment's **hot water heater**.
-* **Symmetric Split-Wing `2 Bed / 2 Bath` Suite (`Bedroom 1: Michael` & `Bedroom 2: Rachel`):** Opening symmetrically off the left and right walls of the Living Room were our two private bedroom-and-bathroom wings:
-  * **`BEDROOM 1` (Left Wing — Michael's Room):** Furnished with a **full-sized bed** beneath the window, a nightstand in the left corner, a study desk, chair, and dresser along the right wall, a **`CLOSET WITH DOORS`**, and its own private en-suite **`BATH`** (`Bath 1`: vanity sink, toilet, and full bathtub/shower).
-  * **`BEDROOM 2` (Right Wing — Rachel's Room):** A mirror-image suite across the Living Room, furnished with a **full-sized bed** beneath the window, a nightstand in the right corner, a study desk, chair, and dresser along the left wall, a **`CLOSET WITH DOORS`**, and its own private en-suite **`BATH`** (`Bath 2`: vanity sink, toilet, and full bathtub/shower).
+We stepped directly into the front entry vestibule at the bottom center of the layout. Immediately to our left opened a full apartment kitchen equipped with a four-burner stove and oven, a full-sized refrigerator, a pantry closet tucked into the far left wall, and an angled peninsula counter holding the double kitchen sink. Opposite the kitchen on the right side of the entry stood a square wooden dining table surrounded by four chairs.
+
+Past the kitchen peninsula and the dining table, the space widened into a central living room furnished with a three-cushion sofa against the back wall, a rectangular coffee table, a side end table, and two upholstered armchairs angled toward each other. Built into the walls were two locked utility doors stamped *VDU Facilities Maintenance Access Only*—one in the back-right corner of the living room right beside the sofa, marked with an *X* on the floor plan posted inside the entry to house the apartment's HVAC unit, and a second utility closet tucked between the kitchen sink peninsula and the left bedroom closet, marked with a circle on the diagram to house the hot water heater.
+
+Opening symmetrically off the left and right walls of the central living room were the two private bedroom wings required by the university's one-student-per-bedroom rule. On the left wing was Bedroom 1, my assigned room, furnished with a full-sized bed beneath the front window, a nightstand in the corner, a study desk, chair, and dresser along the interior wall, a double-door closet, and my own private en-suite bathroom complete with a vanity sink, toilet, and full tub and shower. Across the living room on the right wing sat Bedroom 2, Rachel's assigned room—an exact mirror-image suite with its own full-sized bed under the window, nightstand, desk, dresser, closet, and private en-suite bathroom.
+
+"Okay, this puts every freshman dorm in Virginia to shame," Ashley laughed, setting a stack of folded towels on the kitchen peninsula while Kristin helped us wrestle two mattress toppers out of their plastic zip-bags.
+
+For the next two hours, the four of us worked in the easy, practiced rhythm of our pack—wiping down shelves, organizing plates and cookware in the kitchen cabinets, hanging our shirts in both closets, and making up both full-sized beds with clean sheets and comforters so the apartment looked completely settled. By four-fifteen, after Ashley and Kristin pulled both of us into tight goodbye hugs at the front door and headed back toward Virginia Beach for the week, the apartment fell quiet.
 
 ![Michael and Rachel holding hands inside the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 with Bedroom 1 open on the left wall and Bedroom 2 open on the right wall]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
 
-As soon as Ashley and Kristin hugged us goodbye for the week and we propped both interior bedroom doors (`Bedroom 1` and `Bedroom 2`) and both en-suite bathroom doors wide open under our lifelong [**Open-Door Policy**](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts), Rachel and I stood barefoot in the middle of our living room in our new royal-blue **`VDU`** t-shirts, holding hands with our fingers laced together and grinning from ear to ear.
+Following our lifelong [Open-Door Policy](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts), Rachel and I propped the doors of Bedroom 1, Bedroom 2, and both en-suite bathrooms wide open so there wasn't a single closed barrier anywhere inside our perimeter. Then we kicked off our shoes and stood barefoot in the center of the living room in our matching royal-blue VDU t-shirts, lacing our fingers together and grinning from ear to ear.
 
-Just as we had silently thought at the Housing desk back in May, neither of us had the slightest intention of sleeping in separate bedrooms.
+Just as we had silently agreed at the Housing counter back in May, neither of us had the slightest intention of sleeping in separate bedrooms.
 
-Looking from the open doorway of **`Bedroom 1`** on the left wall to the open doorway of **`Bedroom 2`** on the right wall—and then glancing at the locked **`X` (`HVAC`)** and **`●` (`Hot Water Heater`)** maintenance closets—my operational brain immediately set up our campus-housing protocol.
+I glanced from the open doorway of Bedroom 1 on my left to the open doorway of Bedroom 2 on my right, and then let my gaze linger for a second on the locked HVAC closet beside the sofa and the hot water heater closet near the kitchen peninsula. My operational processor immediately flagged a variable we needed to account for.
 
-"Wait a second, Bug," I said, looking from my full-sized bed in `Bedroom 1` to her full-sized bed in `Bedroom 2`. "Between monthly Residence Life health-and-safety inspections and VDU Facilities technicians coming in to change the HVAC filter in the `X` closet or check the hot water heater in the circle closet, staff are going to walk right past both open bedroom doors. If `Bedroom 1` looks lived-in while `Bedroom 2`'s full bed sits untouched with museum-tight sheets for sixteen weeks straight, somebody might start asking nosy questions."
+"Wait a second, Bug," I said, turning toward her while keeping both of her hands in mine. "Between monthly Residence Life health-and-safety inspections and VDU Facilities technicians unlocking this apartment to swap the HVAC filter in that back closet or check the hot water heater by the kitchen, university staff are going to walk right between both open bedroom doors."
 
-Rachel laughed softly, her eyes sparkling behind her rounded glasses. "So how does the future Director of Operations solve that?"
+Rachel tilted her head, her warm brown eyes sparkling behind her glasses as she followed my line of sight. "And if Bedroom 1 looks slept-in every day while my full bed in Bedroom 2 sits untouched with museum-tight hospital corners for sixteen weeks straight, somebody with a clipboard might start asking nosy questions."
 
-"We alternate every single night," I grinned. "We make up both full-sized beds with our sheets and comforters. On odd nights, we share my full-sized bed in **`Bedroom 1`**. On even nights, we share your full-sized bed in **`Bedroom 2`**. Both bedrooms always look naturally, equally lived-in, both mattresses wear evenly, and we never spend a single night apart."
+"Exactly," I grinned.
 
-"Approved unanimously," Rachel whispered, stepping up to kiss my cheek.
+"So how does the future Director of Operations solve that?" she asked, stepping closer so her toes brushed mine on the carpet.
+
+"We alternate every single night," I said, looking between the two open wings. "Both beds are already made up with our sheets and quilts. On odd nights—starting tonight—we share my full-sized bed in Bedroom 1. On even nights, we share your full-sized bed in Bedroom 2. Both bedrooms stay naturally, equally lived-in, both mattresses wear evenly, and we never spend a single night apart."
+
+Rachel laughed softly, rising onto her tiptoes to press a warm kiss to my cheek.
+
+"Approved unanimously, Bear," she whispered. "Odd night starts tonight."
 
 ### Part 3: The Only GIH Pair in Building 2 (Hampton House), The RA's Look in the Hallway, & The 1st-Floor Laundry Room
 
@@ -30232,25 +30154,35 @@ Rachel laughed softly, her eyes sparkling behind her rounded glasses. "So how do
 
 ![Walking down the ground-floor interior hallway of Building 2 (1016 Hampton House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
 
-#### 7:30 PM — The Only GIH Participants in All of Building 2 (`Hampton House`)
+#### 7:30 PM — The Only GIH Participants in All of Building 2 (Hampton House)
 
-Because the **Fall 2015 semester** was the very first time **Virginia Dominion University (`VDU`)** had ever launched **Gender-Inclusive Housing (`GIH`)** on a Pilot Program basis, **Rachel** and I weren't just the first GIH applicants in our hallway—we were the **only GIH participants in the entirety of `Building 2` (`1016 Hampton House`)**.
+Three brisk knocks echoed against our apartment's front entry door, followed by the muffled voice of our building Resident Assistant calling out from the ground-floor hallway.
 
-Every single other apartment across all three floors of **Building 2**—whether it was a single-resident `1 Bed / 1 Bath` unit, another `2 Bed / 2 Bath` unit, or one of the four-student `4 Bed / 2 Bath (Version A or Version B)` suites—was still occupied under traditional single-sex housing assignments.
+"Residence Life! Start-of-semester room condition forms!"
+
+On the living room sofa, Rachel was curled comfortably against my left side with her legs tucked under a throw blanket, her head resting on my shoulder while we reviewed our Tuesday night reading schedule on my laptop. When the knock sounded, neither of us scrambled to sit at opposite ends of the couch. I simply set the laptop on the coffee table, kept my right hand laced through Rachel's left hand until we stood up together, and walked over to open the door with her right beside me.
+
+Our floor RA—a junior engineering major named Marcus who wore a navy Residence Life polo and carried a thick aluminum clipboard—started to launch into his rehearsed welcome speech before his eyes landed on the two of us standing together in the entryway.
+
+"Hey guys, I just need both roommates to sign off on the—" Marcus paused mid-sentence, blinking down at his roster sheet and then back up at the two of us.
+
+Because the Fall 2015 semester was the very first time Virginia Dominion University had ever launched Gender-Inclusive Housing on a pilot basis, Rachel and I weren't just the first GIH pair on our floor. As Marcus had mentioned at the Sunday night floor meeting, we were the only Gender-Inclusive Housing participants in the entirety of Building 2—1016 Hampton House. Every single other apartment across all three floors of the building, whether it was a single-resident one-bedroom, one-bath unit—the layout Rachel and I would have gladly chosen if university occupancy rules had allowed two people to share a one-bedroom apartment—another two-bedroom unit, or one of the four-student, four-bedroom suites, was still occupied under traditional single-sex housing assignments.
 
 ![VDU Dominion Village 1 Bed / 1 Bath Floor Plan — the unit Michael and Rachel would have gladly picked if university occupancy rules had allowed two people to share a 1-bedroom apartment]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_1bed_1bath_floorplan.jpg)
 
-During those first few days at the start of the Fall 2015 semester, it took **VDU Housing & Residence Life**—and especially the Resident Assistants (`RAs`) assigned to **Building 2**—a few days to wrap their brains around seeing the two of us together.
+On Marcus's clipboard roster, our ground-floor two-bedroom, two-bath apartment clearly listed two upperclass transfer students sharing the exact same surname: *Bedroom 1: Ragsdale, Michael* and *Bedroom 2: Ragsdale, Rachel*. And when we had introduced ourselves at the Sunday floor meeting, we had told him plainly that we were brother and sister.
 
-On the official Building 2 clipboard roster, our ground-floor `2 Bed / 2 Bath` apartment listed two upperclass transfer students with the exact same last name:
-* **`Bedroom 1:`** `RAGSDALE, MICHAEL`
-* **`Bedroom 2:`** `RAGSDALE, RACHEL`
+Yet as Rachel and I stepped back to let him verify the apartment numbers and leaned naturally into each other's side—my arm slipping around her waist while her hand found mine automatically—Marcus's eyes flicked from our joined hands to his clipboard, then to the two wide-open bedroom doors on either side of the living room, and back to our faces.
 
-And as we had told Housing from day one, we were **brother and sister**.
+"Everything in Bedroom 1 and Bedroom 2 is in great shape," I said warmly, taking the pen from his hand and signing my name on the Bedroom 1 line before passing the clipboard to Rachel, who signed neatly on the Bedroom 2 line without ever stepping out of the curve of my arm.
 
-Yet every time Rachel and I stepped out of our apartment door into the ground-floor corridor of **Building 2**, or sat together on the living room sofa when an RA knocked with start-of-semester paperwork, **we held hands with our fingers laced tightly together and cuddled like a romantic couple**.
+"Awesome. Uh—thank you both," Marcus managed, offering a slightly dazed nod as he tore off the yellow carbon copy and handed it to me. "Let me know if you guys need anything this week."
 
-That contrast produced one of the funniest recurring sights of our first week in **Building 2**.
+When the front door clicked shut behind him, Rachel looked up at me through her glasses, her shoulders shaking with silent laughter.
+
+"I think we just broke his processor, Bear," she whispered.
+
+"Wait until we go down the hall with the laundry basket in twenty minutes," I grinned, kissing her forehead.
 
 ![Michael and Rachel walking hand-in-hand down the ground-floor hallway of Building 2 (Hampton House) toward the 1st-floor laundry room while the building RA stops in his tracks with a stunned look on his face]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
 
@@ -30258,27 +30190,33 @@ That contrast produced one of the funniest recurring sights of our first week in
 
 #### 8:00 PM — The Look on the RA's Face & The 1st-Floor Laundry Room
 
-At `8:00 PM` on Tuesday evening, August 25, 2015, right at the start of the semester, Rachel and I stepped out into the first-floor hallway of **Building 2** to run our first load of laundry.
+Half an hour later, at eight o'clock on Tuesday evening, Rachel and I gathered our first load of sheets and towels from the weekend, tucked a bottle of detergent into our plastic laundry basket, and stepped out into the ground-floor corridor of Building 2.
 
-I carried our laundry basket balanced against my right hip, while my left hand was laced tightly through Rachel's right hand as she leaned her shoulder affectionately against mine, the two of us smiling into each other's eyes the way we always do.
-
-Because **Building 2 (`Hampton House`)** was three stories tall with **no elevators** and **no central dorm lobby**, the **laundry room for the entire building** was located right there on our **1st floor**—equipped with **five washers and six dryers** operated by **laundry credits** loaded onto our **`Dominion Pass`** student ID cards.
-
-Right as we reached the open doorway of the 1st-floor laundry room and Rachel raised her **`Dominion Pass`** toward the wall-mounted card reader, the **Building 2 RA** walked down the ground-floor corridor on his start-of-semester rounds holding his roster clipboard.
-
-Out of the corner of my eye, I saw him stop dead in his tracks in the middle of the hallway.
-
-The look on his face was priceless: eyes wide, mouth slightly open, staring from our tightly laced hands to the way Rachel was leaning into my chest, and then back down at his clipboard where `RAGSDALE, MICHAEL` and `RAGSDALE, RACHEL`—the **only GIH participants in the entirety of Hampton House / Building 2**—were clearly listed as brother and sister. You could almost see his brain buffering in real time as he tried to compute how a brother and sister could look and act more like a deeply in-love couple than any boyfriend and girlfriend on campus.
-
-Neither Rachel nor I missed a beat or let go of each other's hand for a second.
+Because Building 2 was three stories tall with no elevators and no central dorm lobby, the communal laundry room for the entire building sat right down our first-floor hallway—a huge ergonomic bonus for us, while the four-student suites on the second and third floors had to carry their hampers down the stairwell.
 
 ![VDU Dominion Village 4 Bed / 2 Bath Version A Floor Plan]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_4bed_2bath_version_a_floorplan.jpg)
 
 ![VDU Dominion Village 4 Bed / 2 Bath Version B Floor Plan]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_4bed_2bath_version_b_floorplan.jpg)
 
-We stepped inside the laundry room, loaded our clothes and sheets into two of the **five washers** opposite the row of **six dryers**, and tapped our **`Dominion Pass`** cards to deduct the laundry credits and start the wash cycle.
+I balanced the laundry basket against my right hip, leaving my left hand free to lace tightly through Rachel's right hand. As we strolled down the brightly lit corridor toward the hum of the machines, Rachel leaned her head affectionately against my shoulder, the two of us smiling into each other's eyes and murmuring softly about tomorrow morning's first lecture.
 
-By the end of that first week, the RAs and Housing staff in **Building 2** had finally gotten used to us—realizing that while the building's only GIH pair held hands everywhere they went and cuddled on the couch like a couple, we were also the quietest, most organized upperclassmen in the building. And the very next morning, as we walked out of Building 2 onto the flat concrete walkways of **Dominion Mall** for our first day of upperclass lectures, our shared academic track put that exact same partnership to work inside the classroom.
+Right as we reached the open doorway of the first-floor laundry room and Rachel raised her Dominion Pass toward the wall-mounted card reader to check our laundry credit balance, the stairwell door at the far end of the hall swung open. Marcus stepped out into the ground-floor corridor on the final leg of his start-of-semester rounds, clipboard tucked under his arm.
+
+Out of the corner of my eye, I saw him stop dead in his tracks in the middle of the hallway.
+
+The look on his face was priceless. His eyes went wide and his mouth parted slightly as his gaze traveled from our tightly interlaced fingers to the way Rachel was leaning warmly against my chest, and then down to the clipboard in his hands where *Ragsdale, Michael* and *Ragsdale, Rachel*—the only Gender-Inclusive Housing pair in all of Building 2—were unmistakably recorded as brother and sister. You could practically watch the gears turning behind his eyes in real time as he tried to compute how a brother and sister could walk down a dorm hallway looking and acting more like a deeply in-love couple than any boyfriend and girlfriend on campus.
+
+Neither Rachel nor I missed a beat, and neither of us loosened our grip on the other's hand for a single second.
+
+"Evening, Marcus," I called out cheerfully over my shoulder as Rachel's Dominion Pass beeped green against the reader.
+
+"Have a good night!" Rachel added with a bright, unbothered smile.
+
+"Uh—good night, guys!" Marcus stammered, blinking twice before continuing down the hall toward the exit doors.
+
+Inside the warm laundry room, which smelled of clean cotton and dryer sheets, Rachel and I loaded our clothes and sheets into two of the five front-loading washers lined up opposite the row of six dryers. We tapped our Dominion Pass cards to deduct the laundry credits, pressed start, and leaned back against the folding counter side by side while the water began to fill the drums.
+
+By the time that first week of the semester wrapped up, the RAs and Housing staff in Building 2 had finally gotten used to the sight of us—realizing that while the building's only GIH pair held hands everywhere they went and cuddled on the living room sofa like a couple, we were also the quietest, most organized upperclassmen on the roster. And the very next morning, as we stepped out of Building 2 onto the flat concrete walkways of Dominion Mall for our first full day of university lectures, that exact same inseparable partnership carried straight into the classroom.
 
 ### Part 4: Our Shared Academic Track: Information Systems & Technology, Haunted by the Past, & Sitting Side-by-Side
 
@@ -30288,60 +30226,51 @@ By the end of that first week, the RAs and Housing staff in **Building 2** had f
 
 #### 9:30 AM — Why I Need My Bug at My Side in Every Class
 
-When **Rachel** and I stepped out of **Building 2 (`1016 Hampton House`)** at `9:10 AM` on **Wednesday, August 26, 2015** for our first full day of upperclass lectures at **Virginia Dominion University (`VDU`)**, our course schedules printed inside our backpacks didn't just overlap.
+The heavy wooden door at the front of the second-floor lecture lab swung open with a sharp pneumatic hiss, and under the glare of the overhead fluorescent tubes, my chest automatically tightened.
 
-They were identical down to the last five-digit course registration number (`CRN`).
+We had walked out of Building 2 at nine-ten that Wednesday morning for our first full day of upperclass lectures at Virginia Dominion University, crossing the flat concrete of Dominion Mall in our matching royal-blue VDU t-shirts and jeans. Inside our backpacks, the printed course schedules we carried didn't merely overlap—they were identical down to the last five-digit course registration number.
 
-There was a deep, unshakable reason why Rachel and I shared every single class—and why I wanted my sister right at my side as much as humanly possible whenever I set foot on a college campus.
+As a cluster of unfamiliar transfer juniors filed noisy into the computer lab, I reached my right hand across the narrow laminated gap between Workstations 14 and 15 in the middle row.
 
-Even at twenty-seven years old, **I was still haunted by my past.**
+Without even needing to look down from her monitor, Rachel slid her left hand away from her mouse and laced her warm fingers tightly through mine, resting our joined hands right on the desk surface between our keyboards. Instantly, the defensive static spiking in my chest quieted back to zero.
 
-Twice in my twenties, I had stepped outside the protective perimeter of my family and trusted someone on my own:
-1. First, in **September 2004**, I had struck up a conversation on my own in a ticket line in Downtown Norfolk with [**Delores**](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line)—an unvetted leap that had spiraled into two years of isolation, manipulation, and abuse across Norfolk and Washington State that nearly destroyed me before Jessica and Rachel pulled me out.
-2. Second, in **August 2007**, when I first enrolled at the [**Community College of Hampton Roads (`CCHR`)**](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2-first-contact-the-first-embrace-the-route-25-equation) while Rachel was taking morning general-education classes on a separate schedule and working afternoon shifts at *The Spot*, I had met **Heather Bouchard** on my own in the cafeteria line and in `ENG 111`. For four consecutive semesters (`August 2007 – May 2009`), I had built my entire weekday campus routine around riding **CVTA Route 25** with Heather—until [the morning of **Friday, May 8, 2009**](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception), when she finished her last final exam, rode the `10:45 AM` bus with me to **Princess Anne Road & Susquehanna Drive**, suddenly shoved my arms away when I reached for our routine goodbye hug, stepped off the bus without a single word of explanation, and erased me from her life forever.
+"I'm right here, Bear," Rachel murmured softly, leaning her shoulder against mine for a second as she glanced toward the wide windows overlooking the live oaks on Dominion Mall. "Nobody's sitting between us."
 
-After May 8, 2009, walking into a college lecture hall or sitting alone at a campus table felt like stepping onto a live minefield. Every time a classroom door swung open under harsh fluorescent lights, or a stranger sat down next to me unannounced, my nervous system flashed back to Delores's suffocating grip and the cold shock of Heather's hands pushing against my chest on Route 25.
+There was a deep, unshakable reason why Rachel and I shared every single class—and why I needed my sister right at my side as much as humanly possible whenever I set foot on a college campus. Even at twenty-seven years old, I was still haunted by my past.
 
-Still haunted by the ghosts of both **Delores** and **Heather**, I looked at the wreckage of those years and realized the truth that had been standing right in front of me my entire life:
+Twice in my twenties, I had stepped outside the protective perimeter of my family and trusted someone on my own. The first time had been back in September 2004, when I struck up a conversation alone in a ticket line in Downtown Norfolk with [Delores](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line)—an unvetted leap that had spiraled into two years of isolation, manipulation, and abuse across Norfolk and Washington State that nearly destroyed me before Jessica and Rachel pulled me out of the wreckage. The second time had started in August 2007, when I first enrolled at the [Community College of Hampton Roads](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2-first-contact-the-first-embrace-the-route-25-equation) while Rachel was taking morning general-education classes on a separate schedule and working afternoon shifts at *The Spot*. Meeting Heather Bouchard on my own in the cafeteria line and in first-year English, I had built my entire weekday campus routine across four consecutive semesters around riding CVTA Route 25 beside her—until [the morning of Friday, May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception), when she finished her last final exam, rode the ten-forty-five bus with me to Princess Anne Road and Susquehanna Drive, suddenly shoved my arms away when I reached for our routine goodbye hug, stepped off the bus without a single word of explanation, and erased me from her life forever.
 
-Every time I had gone searching out in the world for someone else to hold onto, I had ended up shattered—when **the someone I had been searching for had been right there beside me from the very beginning.**
+After that Friday morning in May 2009, walking into a college lecture hall alone or having a stranger drop into an adjacent chair unannounced felt like stepping onto a live minefield. Every harsh slam of a classroom door made my nervous system flash back to Delores's suffocating grip and the cold shock of Heather's hands shoving against my chest on Route 25.
 
-**Rachel**—my Bug—had been with me since the start:
-* Back in **August 1995**, after the Thursday night assault at the dojo, [we were side-by-side on the living room sofa Base Camp together](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-3-safe-harbor-the-art-of-letting-go), holding onto each other through the dark.
-* All through our childhood and teen years on Delaney Street, [we shared the lower bunk in Rachel and Jessica's bedroom more often than not](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement), curling up together beneath the top bunk where nobody could reach us.
-* And from the very moment we were reunited after Delores left me for dead in Washington—and especially after Heather pushed me away and vanished—**I had not left my little sister's side for any reason.**
+Looking at the wreckage of those years, I had finally woken up to the truth that had been standing right in front of me my entire life. Every time I had gone searching out in the world for someone else to hold onto, I had ended up shattered—when the someone I had been searching for had been right there beside me from the very beginning.
 
-I didn't want a girlfriend, and Rachel didn't want a boyfriend. Both of us had quietly, permanently decided that **this was all we wanted: each other.** I was choosing the one person who had never once let me go—my Bug.
+Rachel—my Bug—had been with me through all of it. Back in August 1995, in the aftermath of the Thursday night horror at the dojo, [we were side-by-side on the living room sofa Base Camp together](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-3-safe-harbor-the-art-of-letting-go), holding onto each other through the dark when neither of us could cross the room alone. All through our childhood and teenage years on Delaney Street, [we shared the lower bunk in Rachel and Jessica's bedroom more often than not](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement), curling up together beneath the low wooden slats of the top bunk where the outside world couldn't reach us. And from the moment we were reunited after Delores left me for dead in Washington—and especially after Heather pushed me away and vanished—I had never left my little sister's side for any reason.
 
-Starting the very next semester back at **`CCHR`**, Rachel and I locked our lives and our academic tracks together into a single, unbroken unit. We lived together. We slept in the same bed every single night. And we declared the exact same transferable degree program—the **Associate of Science (`A.S.`) in Computer Information Systems**—registering for the exact same course sections at the exact same hours so that we walked into every building together, sat side-by-side at adjacent desks in every lecture and lab, and ate every lunch together. Literally the **only** hours we ever spent apart were when we clocked in at our respective jobs—and the minute our shifts ended, we came straight back to each other.
+I didn't want a girlfriend, and Rachel didn't want a boyfriend. Both of us had quietly, permanently decided that this was all we wanted: each other. I was choosing the one person who had never once let me go.
 
-Now, transferring into **Virginia Dominion University (`VDU`)** as upperclassmen in **Fall 2015**, we brought that exact same inseparable bond with us.
+Starting the very next semester back at the community college, Rachel and I had locked our lives and our academic tracks into a single, unbroken unit. We lived together, we slept in the same bed every night, and we declared the exact same transferable Associate of Science degree in Computer Information Systems—registering for the exact same course sections at the exact same hours so that we walked into every building together, sat at adjacent desks in every lecture and lab, and ate every lunch side by side. The only hours we ever spent apart were when we clocked in at our respective part-time jobs, and the minute our shifts ended, we came straight back to each other. Now, transferring into Virginia Dominion University as upperclassmen, we had brought that exact same unbreakable perimeter straight into Norfolk.
 
 ![Michael and Rachel sitting side-by-side at adjacent computer workstations in their VDU Information Systems & Technology classroom, holding hands with their fingers laced together between their keyboards]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_ist_shared_academic_track_classroom.jpg)
 
 ***
 
-#### 9:35 AM — Bachelor of Science in Information Systems & Technology (`B.S. in IST`)
+#### 9:35 AM — Bachelor of Science in Information Systems & Technology (B.S. in IST)
 
-At VDU, both Rachel and I officially declared the **Bachelor of Science in Information Systems & Technology (`B.S. in IST`)**—a degree track that fit both of our brains like a custom-tailored glove.
+At nine-thirty-five, our professor stepped up to the podium at the front of the lab and tapped the projector remote, illuminating the course header for IST 301: Enterprise Systems and Cloud Infrastructure Architecture.
 
-Where a pure theoretical math program would have drowned us in abstract proofs, VDU's **Information Systems & Technology** curriculum blended the exact disciplines that Rachel and I already lived and breathed at our side-by-side desks at home on Moosewood Drive:
-* **`IST 301` — Enterprise Systems & Cloud Infrastructure Architecture:** Designing structured, fault-tolerant cloud storage hierarchies, role-based access controls, and standardized directory taxonomies.
-* **`IST 315` — Relational Database Management & Information Modeling:** Structuring clean schemas, audit logs, and zero-redundancy data records.
-* **`IST 330` — Network Operations & Systems Administration:** Understanding how enterprise networks, routing tables, and operational hardware stay online under load.
-* **`IST 340` — Systems Analysis, Operations Management, & Technical Documentation:** Transforming messy human meetings and organizational workflows into crystal-clear standard operating procedures (`SOPs`), structured minutes, and executive briefing packets.
+While I kept my right hand laced through Rachel's left hand on the desk between our keyboards, the two of us used our outer hands to scroll through the syllabus on our widescreen terminals. At VDU, both Rachel and I had officially declared the Bachelor of Science in Information Systems and Technology—an upper-division curriculum that fit both of our analytical brains like a custom-tailored glove.
 
-Walking into the second-floor computer lab at `9:25 AM` in our matching royal-blue **`VDU`** t-shirts and jeans, Rachel and I bypassed the single seats on the aisle and claimed **Workstations 14 and 15** side-by-side in the middle row, with wide windows overlooking the live oaks and flat concrete expanse of **Dominion Mall**.
+Where a purely abstract math degree would have buried us in theoretical proofs detached from real-world operations, VDU's Information Systems and Technology program blended the exact four disciplines that Rachel and I already lived and breathed at our side-by-side desks at home on Moosewood Drive. Right now at nine-thirty, we were starting with IST 301, learning how to design fault-tolerant cloud storage hierarchies, role-based access controls, and standardized directory taxonomies. Later that morning we had IST 315, Relational Database Management and Information Modeling, where we structured clean schemas, audit logs, and zero-redundancy data records. On Tuesday and Thursday mornings we took IST 330, Network Operations and Systems Administration, tracing how enterprise networks, routing tables, and operational hardware stay online under heavy load; and in the afternoons we sat together in IST 340, Systems Analysis, Operations Management, and Technical Documentation, turning messy human meetings and organizational workflows into crystal-clear standard operating procedures, structured minutes, and executive briefing packets.
 
-As soon as we logged into our widescreen terminals with our VDU credentials and pulled up the `IST 301` syllabus, I reached my right hand across the narrow gap between our keyboards.
+"Look at the semester capstone for IST 301 and IST 340," Rachel whispered, nudging my elbow gently as she pointed toward the bottom of her screen with her right index finger. "Team of two: design and deploy a live multi-tier cloud documentation repository and relational reporting schema for a campus organization."
 
-Without even needing to look down, Rachel slid her left hand away from her mouse and laced her warm fingers tightly through mine, resting our joined hands right on the desk between our monitors.
+I grinned, squeezing her fingers between our keyboards. "I think I know who my capstone partner is."
 
-Instantly, the background static in my chest quieted to zero. With Rachel sitting ten inches to my right—her shoulder brushing mine whenever we leaned in to compare a cloud-directory diagram or a database schema, and her hand anchored securely in mine—the ghosts of Delores and Heather couldn't touch me.
+"Locked in through graduation, Bear," she smiled back.
 
-In fact, our shared **Information Systems & Technology** coursework quickly spilled over into campus leadership. Six weeks into the Fall 2015 semester, when the on-campus residents of **Dominion Village** and the VDU residence halls saw how effortlessly the two of us organized apartment feedback and structured hall council spreadsheets, they democratically elected me **VDU Residence Hall Association (`RHA`) Director of Operations** and elected Rachel **RHA Secretary**—setting the two of us up to represent VDU together at the **`SAACURC` 2016 Regional Student Leadership Conference** up at **Commonwealth Polytechnic Institute (`CPI`)** in Blacksburg in February.
+With Rachel sitting ten inches to my right—her shoulder brushing mine whenever we leaned in to compare a cloud-directory tree or a database entity diagram, and her hand anchored securely in mine—the ghosts of Delores and Heather couldn't touch me. Even better, our shared Information Systems and Technology coursework quickly spilled over into campus leadership. Six weeks into that Fall 2015 semester, when our fellow on-campus residents across Dominion Village and the VDU residence halls saw how effortlessly the two of us organized building feedback and structured hall council spreadsheets for our capstone project, they democratically elected me Director of Operations for the VDU Residence Hall Association and elected Rachel as RHA Secretary—setting the two of us up to represent VDU together at the SAACURC 2016 Regional Student Leadership Conference up at Commonwealth Polytechnic Institute in Blacksburg come February.
 
-Before we could head up into the Blue Ridge Mountains in February, however, there was one piece of long-overdue medical hardware maintenance my ankles needed first.
+Before we could roll up into the Blue Ridge Mountains in February, however, there was one piece of long-overdue medical hardware maintenance my ankles needed first.
 
 ## Bilateral Achilles Heel Cord Lengthening & Cleared for CPI
 
@@ -30353,31 +30282,25 @@ Before we could head up into the Blue Ridge Mountains in February, however, ther
 
 #### 10:30 AM — Tight Heel Cords & Why Rachel Stubbornly Waited for Me
 
-For as long as I could remember, both of my ankles had carried a quiet biomechanical limitation: congenital tightness in my bilateral **Achilles heel cords** (*gastrocnemius-soleus / tendo-Achilles contracture*).
+The white butcher paper crinkled beneath my jeans as I shifted my weight on the edge of the padded bench in Exam Room 3, letting both of my bare feet hang clear of the chrome step-stool.
 
-Whenever I stood or walked long distances, my tight Achilles tendons pulled upward on my calcaneus bones, fighting against flat-footed contact with the ground and limiting my **ankle dorsiflexion**—the upward hinging motion of the foot toward the shin.
+Standing right beside my left knee with her fingers laced tightly through mine, Rachel watched over the rims of her glasses as my orthopedic surgeon knelt on his rolling stool, cradled my right heel in one gloved palm, and guided the ball of my foot gently upward toward my shin.
 
-In everyday walking around the flat sidewalks of Virginia Beach or the hallways of `CCHR` and `VDU`, I had compensated for it my whole life. Where tight Achilles heel cords became a hard mechanical blocker, however, was behind the steering wheel of an automobile.
+"Look at that angle, Bear," Rachel whispered, a sudden grin breaking across her face as my ankle hinged smoothly past ninety degrees without my calf muscle locking into a knot. "Your heel didn't even try to fight him."
 
-To drive a car safely, your right heel has to stay planted on the floorboard while your ankle hinges smoothly upward into dorsiflexion to lift off the accelerator, pivot across to the service brake, and modulate pedal pressure without your calf muscle locking up or forcing you to lift your entire leg off the floor. With my heel cords as tight as bowstrings, my orthopedic specialist had been honest with me: until I underwent **bilateral Achilles heel cord lengthening surgery** and completed post-operative physical therapy, my ankles weren't ready for the pedal demands of driving.
+For as long as I could remember, both of my ankles had carried that quiet biomechanical limitation: congenital tightness in my bilateral Achilles heel cords—what my chart formally labeled a *gastrocnemius-soleus* or *tendo-Achilles* contracture. Whenever I stood or walked long distances, those tight tendons pulled upward on my calcaneus bones, fighting against flat-footed contact with the floor and restricting my ankle dorsiflexion, the upward hinging motion of the foot toward the shin.
 
-And that medical fact explained something else about our household that outsiders never quite understood.
+Across the flat concrete sidewalks of Virginia Beach and the level hallways of the community college and Virginia Dominion University, I had compensated for that tightness my entire life. Where tight heel cords became an impassable mechanical wall, however, was behind the steering wheel of a car. To drive safely, your right heel has to stay planted on the floorboard while your ankle hinges smoothly upward into dorsiflexion to lift off the accelerator, pivot across to the service brake, and modulate pedal pressure without your calf seizing up or forcing you to lift your entire leg into the air. With my heel cords strung as tight as bowstrings, my orthopedic specialist had been straightforward with me from the beginning: until I underwent bilateral Achilles heel cord lengthening surgery and completed post-operative physical therapy, my ankles simply weren't mechanically ready for driving pedals.
 
-By early 2016, I was twenty-eight years old and **Rachel** was twenty-six, and neither of us had a Virginia Learner's Permit or a Driver's License yet.
+That single medical reality explained something else about our household that outsiders never quite understood. By early 2016, I was twenty-eight years old and Rachel was twenty-six, and neither of us had a Virginia Learner's Permit or a Driver's License yet.
 
-Now, **Rachel could have gotten her Learner's Permit and Driver's License at any time over the last ten years.** Her ankles were completely healthy, her vision with her glasses was crystal clear, and **Mom (`Ellen`)** or **Ashley** would have happily taken her to the DMV whenever she asked.
+Rachel could have gotten her Learner's Permit and Driver's License at any time over the past ten years. Her ankles were completely healthy, her vision through her glasses was crystal clear, and our mom, Ellen, or Ashley would have gladly driven her over to the Department of Motor Vehicles the moment she asked. Yet every single time the subject of driving lessons had come up across our twenties, Rachel had folded her arms with that immovable Ragsdale stubbornness and refused to go without me.
 
-Every single time the subject of driving lessons came up over the years, however, **Rachel stubbornly refused to go without me.**
+*Bear and I do everything together,* she had insisted every time someone brought it up. *I'm not getting my permit while Michael has to sit on the sidelines waiting on his ankles. The day Michael's surgeon clears him to drive, we are walking into the DMV holding hands and getting our Learner's Permits together.*
 
-*"Bear and I do everything together,"* Rachel had insisted every time, folding her arms with that unmistakable Ragsdale stubbornness that no force on earth could budge. *"I'm not getting my permit while Michael has to sit on the sidelines waiting on his ankles. The day Michael's surgeon clears him to drive, we're walking into the DMV holding hands and getting our Learner's Permits together."*
+So in late January 2016—timed carefully between the start of our Spring 2016 semester at VDU and summer break so that my tendons would be one hundred percent healed and cleared for driving pedals by June—I had checked into the outpatient orthopedic surgery center here in Hampton Roads and undergone elective bilateral Achilles heel cord lengthening in both feet. Through the first three weeks of recovery—first resting back home at our permanent family residence on [Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) under the watchful care of Rachel, Kristin, Ashley, Jessica, and Mom, and then transitioning back to our ground-floor two-bedroom apartment in Building 2 at VDU, where living on the first floor meant zero stairs to climb between the sidewalk and our beds—Rachel had never left my side for a second.
 
-So in **late January 2016**—timed carefully between the start of our Spring 2016 semester at VDU and our summer break so that my tendons would be 100% healed and cleared for driving by June—I checked into the outpatient orthopedic surgery center in Hampton Roads and underwent **elective bilateral Achilles heel cord lengthening in both feet**.
-
-Through the first three weeks of recovery—first resting back home at our permanent family residence on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) under the care of Rachel, Kristin, Ashley, Jessica, and Mom, and then back at our **ground-floor `2 Bed / 2 Bath` upperclass apartment in Dominion Village at VDU** (where living on the first floor of our three-story building meant zero stairs to climb from the exterior hallway door into our apartment)—Rachel never left my side for a second.
-
-And as the second weekend of February approached, there was one imminent calendar milestone sitting at the top of my mind:
-
-**Friday, February 12 through Sunday, February 14, 2016** was the regional **`SAACURC` 2016 Student Leadership Conference** up in the Blue Ridge Mountains at **Commonwealth Polytechnic Institute (`CPI`)** in **Blacksburg, Virginia**—and as the elected **Director of Operations** and **Secretary** of the **VDU Residence Hall Association**, Rachel and I were scheduled to travel in the fifteen-passenger VDU van with our advisor **Kyleen**.
+Now, on Wednesday morning, February 10, there was an immediate deadline sitting just forty-eight hours away: Friday, February 12 through Sunday, February 14 was the SAACURC 2016 Regional Student Leadership Conference up in the Blue Ridge Mountains at Commonwealth Polytechnic Institute in Blacksburg, where Rachel and I were scheduled to travel in the fifteen-passenger VDU van with our Residence Hall Association advisor, Kyleen.
 
 ![Michael sitting comfortably on the orthopedic exam bench holding Rachel's hand as his surgeon clears him to travel to CPI in Blacksburg using a manual wheelchair]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/feb_2016_achilles_clearance_for_cpi_saacurc_travel.jpg)
 
@@ -30385,29 +30308,29 @@ And as the second weekend of February approached, there was one imminent calenda
 
 #### 11:00 AM — Cleared to Travel to Blacksburg (On One Condition)
 
-At `10:30 AM` on **Wednesday, February 10, 2016**—just forty-eight hours before the VDU van was scheduled to pull out of Norfolk for Blacksburg—Rachel and I sat side by side in Exam Room 3 at the orthopedic clinic in Virginia Beach, holding hands with our fingers laced together while my surgeon examined the healing incisions along the back of both of my lower legs.
+After testing the upward flex of my left ankle to match my right and checking the neat, healing incisions along the back of both lower legs, the surgeon stripped off his exam gloves and picked up his chart with a satisfied nod.
 
-Gently flexing both of my ankles upward while I sat on the edge of the exam bench, the doctor smiled at the improved range of motion already showing in both heel cords.
+"Your incisions are clean, swelling is minimal, and both lengthened tendons are tracking right on schedule, Michael," he said warmly. "In another four months—right around mid-June, once you finish your spring physical therapy strengthening protocol—I'll be able to sign your full, unrestricted medical clearance for driving pedals."
 
-"Your incisions are clean, swelling is minimal, and both lengthened tendons are tracking right on schedule, Michael," the surgeon said, picking up his medical chart. "In another four months—right around mid-June once you finish your spring physical therapy strengthening protocol—I'll be able to sign your full, unrestricted medical clearance for driving pedals."
+Beside the exam bench, Rachel squeezed my fingers tightly and beamed. "You hear that, Bear? Mid-June is officially DMV time."
 
-Beside me, Rachel squeezed my hand and grinned. "You hear that, Bear? Mid-June is DMV time."
+"Count on it, Bug," I grinned back.
 
-"Now, about this weekend's university conference up in Blacksburg," the surgeon continued, looking seriously at the two of us over his glasses. "You are three weeks post-op on both Achilles tendons. You can stand up on your own two feet (`5'7"`) for twenty seconds at a time to transfer into the university van or take a few gentle steps across a flat hotel room floor—**and I am officially clearing you to travel to CPI with your delegation.**"
+"Now, about this weekend's student leadership conference up in Blacksburg," the surgeon continued, looking seriously at the two of us over the top of his glasses. "You are three weeks post-op on both Achilles tendons. You can stand up on your own two feet at your full five-foot-seven height for twenty seconds at a time to transfer into the university van or take a few gentle steps across a flat hotel room floor—and I am officially clearing you to travel to CPI with your delegation."
 
-I let out a huge breath of relief. "Thank you, Doctor!"
+I let out a huge breath of relief that I felt all the way down to my ribs. "Thank you, Doctor."
 
-"Hold on—there is **one strict medical condition**," the surgeon said, pointing his pen toward the folded blue-upholstered **manual wheelchair** with rear push-handles that we had brought into the exam room. "Have either of you ever been up to the campus of Commonwealth Polytechnic Institute in Blacksburg?"
+"Hold on—there is one strict medical condition attached to that signature," the surgeon cautioned, pointing his pen toward the folded, blue-upholstered manual wheelchair with rear push-handles resting against the exam room wall. "Have either of you ever been up to the campus of Commonwealth Polytechnic Institute in Blacksburg?"
 
-"Never," I shook my head. "We looked at the conference campus map online, and it looks huge."
+"Never," I admitted, shaking my head. "We looked at the conference map online last night, and the campus looks massive."
 
-"It's not just huge—it sits on a 2,100-foot mountain plateau full of steep limestone hills and long walkways," the surgeon explained. "If you try to walk the steep hills of Blacksburg or stand in long conference registration lines three weeks after bilateral Achilles surgery, you will over-strain both repairs. So my clearance for this trip is conditional: **on campus and in the conference hallways at CPI, you stay in that manual wheelchair, and you let your sister help steady those rear push-handles on the hills.** Deal?"
+"It isn't just massive—it sits on a twenty-one-hundred-foot mountain plateau full of steep limestone hills and long sloped walkways," the surgeon explained. "If you try to walk the steep hills of Blacksburg or stand in long conference registration lines three weeks after bilateral Achilles surgery, you will over-strain both repairs and set your June driving clearance back. So my sign-off for this trip is conditional: out on the CPI campus and in the conference hallways, you stay in that manual wheelchair, and you let your sister help steady those rear push-handles on the hills. Deal?"
 
-"Deal," I promised immediately.
+"Deal," I promised without hesitation.
 
-"Don't worry, Doctor," Rachel said, resting her free hand on the rear push-handle of the blue wheelchair while keeping her other hand laced tightly through mine. "I'm his RHA Secretary and his perimeter guard. His feet aren't touching a single hill in Blacksburg."
+"Don't worry, Doctor," Rachel said, resting her free hand squarely on the rear push-handle of the blue wheelchair while keeping her other hand laced tightly through mine. "I'm his RHA Secretary and his perimeter guard. His feet aren't touching a single hill in Blacksburg."
 
-With my signed travel clearance tucked into our folder and **Kyleen** notifying **The Hotel at Poly** in Blacksburg to assign Rachel and me a ground-floor **ADA Accessible Double-Queen Room** (`Room 114`), we were officially cleared for [our Friday morning departure to **`SAACURC 2016`**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly)—and the countdown to our June 2016 driving clearance had officially begun.
+With the signed medical travel clearance tucked safely into our binder and Kyleen notifying The Hotel at Poly in Blacksburg to assign Rachel and me a ground-floor ADA accessible double-queen room—Room 114—we were officially cleared for [our Friday morning departure to SAACURC 2016](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly). And even better, the four-month countdown to walking into the Virginia Beach DMV together had officially begun.
 
 # The Mountain Conference (SAACURC 2016)
 
@@ -30421,125 +30344,93 @@ With my signed travel clearance tucked into our folder and **Kyleen** notifying 
 
 #### 4:00 PM — Arrival at The Hotel at Poly
 
-The four-and-a-half-hour drive west from Norfolk up to the 2,100-foot mountain plateau of Blacksburg was a masterclass in Virginia winter geography. When our fifteen-passenger **Virginia Dominion University (`VDU`)** van pulled out of Hampton Roads at eleven-thirty on Friday morning, February 12, 2016, the coastal air was forty-four degrees and damp with salt fog. By the time our **VDU Residence Hall Association (`RHA`) Advisor**, **Kyleen**, steered the van off Interstate 81 onto U.S. Route 460 West and rolled onto the campus of **Commonwealth Polytechnic Institute (`CPI`)**, the temperature was a crisp twenty-nine degrees and patches of mostly melted white snow from a storm two days earlier clung to the shaded grass between the gray Ironstone buildings.
+The heavy passenger door of the fifteen-passenger Virginia Dominion University van slid open under the brick porte-cochère of The Hotel at Poly, and a blast of crisp, twenty-nine-degree mountain air rushed into the warm cabin.
 
-At `4:00 PM`, Kyleen pulled the van under the brick porte-cochère of **The Hotel at Poly**—the university hotel directly adjacent to the CPI campus, where all the visiting school delegations for the **2016 `SAACURC` Regional Student Leadership Conference** were staying for the weekend (unless their campus was right down the road like **Radford University** fifteen minutes away, where driving in for the two-day Saturday–Sunday conference was easy).
+Four and a half hours earlier, when our VDU Residence Hall Association advisor, Kyleen, had steered the van out of Norfolk at eleven-thirty in the morning, the coastal Tidewater air had been forty-four degrees and thick with damp salt fog. Now, after climbing Interstate 81 and U.S. Route 460 West up onto the twenty-one-hundred-foot mountain plateau of Blacksburg, we were surrounded by rough-cut gray Ironstone buildings and patches of mostly melted white snow clinging to the shaded grass from a storm two days earlier. Directly adjacent to the Commonwealth Polytechnic Institute campus, The Hotel at Poly served as the home base for almost every visiting delegation attending the 2016 SAACURC Regional Student Leadership Conference—save for local schools right down the road like Radford University fifteen minutes away, whose delegates could easily commute in for the Saturday and Sunday sessions.
 
-As the van doors opened, I waited while two of our fellow elected VDU delegates unfolded my blue-upholstered manual wheelchair and set it on the dry brick pavement beside the running board.
+"Easy on the step-down, Bear," Rachel murmured for my ears only as two of our fellow elected VDU delegates unfolded my blue-upholstered manual wheelchair and locked its frame on the dry brick pavement beside the running board.
 
-I am not normally a wheelchair user—standing up, I'm `5'7"`, the exact same height as my sister **Rachel** (*my Bug*)—and I definitely wasn't planning on spending a cold February weekend in the Blue Ridge Mountains on four wheels. [Three weeks earlier, however, I had undergone elective foot surgery back in Hampton Roads—bilateral Achilles heel cord lengthening in both feet](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi/bilateral-achilles-heel-cord-lengthening-why-rachel-waited-for-me-cleared-to-travel-to-cpi). My surgeon had cleared me to travel with the VDU delegation only on the strict condition that I use a manual wheelchair and not walk the steep campus hills of Blacksburg or stand in long conference registration lines while both of my Achilles tendons and incisions finished healing.
+I am not normally a wheelchair user—standing up on my own two feet, I am five-foot-seven, the exact same height as my sister—and I certainly hadn't planned on spending a freezing February weekend in the Blue Ridge Mountains on four wheels. [Three weeks earlier, however, I had undergone elective foot surgery back in Hampton Roads—bilateral Achilles heel cord lengthening in both feet](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi/bilateral-achilles-heel-cord-lengthening-why-rachel-waited-for-me-cleared-to-travel-to-cpi). My orthopedic surgeon had cleared me to make the trip only on the strict condition that I stay in the manual wheelchair across campus rather than walking the steep hills of Blacksburg or standing in long registration lines while my tendons and incisions finished healing.
 
-And there was no way I was missing **`SAACURC`**.
+And there was no way on earth either of us was missing SAACURC—the South Atlantic Affiliate of College and University Residence Councils. At VDU, every single Residence Hall Association position is elected directly by on-campus residents. Back in the fall election, our peers across the residence halls had elected me Director of Operations for the VDU RHA. Putting [our shared Bachelor of Science in Information Systems & Technology (IST) coursework](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-4-our-shared-academic-track-information-systems-technology-haunted-by-the-past-sitting-side-by-side) to work, I built and standardized our meeting minutes templates, kept our RHA cloud storage drive organized with clean folder taxonomy, and received and audited the weekly operational reports from the Hall Councils of every single residence hall on campus. Sitting right beside me in the van—wearing jeans and a blue-and-silver VDU t-shirt beneath her open winter jacket—was my Bug, Rachel, whom the residents had elected RHA Secretary. Just as we sat side by side at adjacent workstations in every single IST lecture and computer lab back in Norfolk, the two of us ran VDU's student government documentation like a Swiss watch.
 
-**`SAACURC`** (*the South Atlantic Affiliate of College and University Residence Councils*) is the student-governed **Residence Hall Association (`RHA`)** conference for our region, where the students run the floor. At VDU, **every single RHA position is elected directly by on-campus residents**:
-* Back in the fall election, VDU's on-campus residents had elected me **Director of Operations** for the VDU Residence Hall Association. Putting [our shared **Bachelor of Science in Information Systems & Technology (`IST`)** coursework](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-4-our-shared-academic-track-information-systems-technology-haunted-by-the-past-sitting-side-by-side) to work, I built and standardized our meeting minutes templates, kept our RHA cloud storage drive organized with clean folder taxonomy, and received and audited the weekly operational reports from the Hall Councils of every single residence hall across the VDU campus.
-* And sitting right beside me in the van—wearing jeans and a **Blue and Silver** **Virginia Dominion University (`VDU`)** t-shirt under her warm winter jacket—was my Bug, **Rachel**, whom VDU's on-campus residents had elected **RHA Secretary**. Just as we sat side-by-side at adjacent workstations in every single **`IST`** lecture and computer lab back in Norfolk because I never wanted to navigate a college campus without her beside me, the two of us ran VDU RHA's documentation like a Swiss watch.
+Because we weren't presenting a formal workshop this weekend, neither of us needed business attire; like all the other visiting delegations stepping out of vans and buses around the hotel driveway in their respective school colors, we were proudly repping VDU in our blue-and-silver shirts, jeans, and winter coats.
 
-"Easy on the step-down, Bear," Rachel murmured for my ears only as I eased myself out of the van seat and settled onto the seat of my manual wheelchair—hands resting on the push-rims of the rear wheels—pulling my warm winter jacket snug over my **Blue and Silver** **`VDU`** t-shirt and jeans. Because we weren't presenting a formal session this weekend, neither of us needed to be dressed up; like all the other visiting school delegations arriving on campus in their respective school colors and shirts, we were repping VDU in our Blue and Silver t-shirts, jeans, and winter jackets.
-
-"Zero strain, Bug," I promised, gripping the wheel push-rims as Rachel stepped behind my chair and gripped both rear push-handles.
+"Zero strain, Bug," I promised, easing myself out of the van seat and settling onto the padded canvas of the wheelchair. I rested my palms on the cold metal push-rims of the rear wheels as Rachel stepped smoothly behind my backrest and gripped both rear push-handles.
 
 ***
 
 #### 4:15 PM — Struggling Up the Steep Hills of CPI (And Already Missing Flat VDU)
 
-While Kyleen finished checking our delegation's master room block in at the front desk of **The Hotel at Poly**, the six of us headed across the salted brick plaza toward **Kincaid Student Center** (`290 College Ave.`) to pick up our Friday evening early-bird registration lanyards before dinner.
+While Kyleen stayed inside the lobby of The Hotel at Poly to check in our delegation's master room block, the six of us headed across the salted brick plaza toward Kincaid Student Center at 290 College Avenue to pick up our Friday evening early-bird registration lanyards before dinner.
 
-It took less than ninety seconds for Rachel and me to discover the brutal topographic difference between **Norfolk** and **Blacksburg**.
+It took less than ninety seconds for Rachel and me to discover the brutal topographic difference between Norfolk and Blacksburg.
 
-Back home at **Virginia Dominion University** in Norfolk, our entire coastal Tidewater campus sits right at sea level. **Dominion Mall**, the walkways around **Monarch Commons**, and the sidewalk outside **Building 2 (`1016 Hampton House`)** are pancake-flat concrete from one end of campus to the other.
-
-**Commonwealth Polytechnic Institute**, on the other hand, is carved into a rugged 2,100-foot Appalachian mountain plateau where seemingly every single walkway between the gray **Ironstone** buildings is a steep, relentless uphill climb.
+Back home at Virginia Dominion University in Norfolk, our entire coastal campus sits right at sea level. Dominion Mall, the walkways around Monarch Commons, and the sidewalk outside Building 2—1016 Hampton House—are pancake-flat concrete from one end of campus to the other. Commonwealth Polytechnic Institute, on the other hand, is carved into a rugged Appalachian mountain plateau where seemingly every walkway between the gray Ironstone buildings is a relentless uphill climb.
 
 ![Rachel leaning her body weight forward and straining against the rear push-handles as she struggles to push Michael in his manual wheelchair up a steep limestone hill on the CPI campus in Blacksburg during SAACURC 2016]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_cpi_steep_hill_rachel_struggling_push.jpg)
 
-As soon as our walkway tilted upward toward **Commonwealth Mall**, gravity dug its heels in against my four wheels.
+The second our sidewalk tilted upward toward Commonwealth Mall, gravity dug its heels in against my four wheels.
 
-Because I was three weeks post-op from bilateral Achilles heel cord lengthening surgery in both feet, I couldn't plant my sneakers on the pavement to help push—every ounce of forward momentum had to come from **Rachel** pushing from behind and my upper body cranking the cold metal push-rims.
+Because I was three weeks post-op from bilateral Achilles surgery in both feet, I couldn't plant my sneakers on the pavement to help push. Every ounce of upward momentum had to come from Rachel pushing on the handles behind me and my own upper body hauling on the rear push-rims. Behind my shoulders, I felt Rachel lean her entire five-foot-seven frame forward at a steep diagonal angle into the push-handles, her rubber soles bracing hard against the salted concrete grade as her breath puffed out in white clouds in the twenty-nine-degree mountain air.
 
-Behind my chair, I felt Rachel lean her entire `5'7"` frame forward at a steep diagonal angle into the rear push-handles, her sneakers bracing hard against the salted concrete grade as her breath puffed out in white clouds in the twenty-nine-degree mountain air.
+"Whoa—okay, Bear, whoever built a university on the side of a mountain clearly never pushed a wheelchair up it!" Rachel panted with a strained laugh, her cheeks turning bright pink in the cold wind as she put her shoulders into the handles while I leaned forward in my seat and cranked both wheel push-rims with everything my biceps had.
 
-"Whoa—okay, Bear, whoever built a university on the side of a mountain clearly never pushed a wheelchair up it!" Rachel panted with a strained laugh, her cheeks turning bright pink in the cold air as she put her shoulders into the handles while I leaned forward in my seat and hauled on both wheel push-rims with everything my arms had to keep us moving uphill.
+"My arms are burning already, Bug!" I groaned back, grinning through the burn in my shoulders as we inched up the limestone grade past arriving groups of student delegates wearing Chicago Maroon and Burnt Orange CPI shirts, Purple and Gold SVU shirts, and Red and Navy RADFORD shirts under their winter coats. "Remind me to kiss the flat concrete of Dominion Mall the second we get back to VDU on Sunday night!"
 
-"My arms are burning already, Bug!" I groaned back, grinning through the exertion as we inched up the limestone grade past groups of arriving conference delegates wearing **Chicago Maroon and Burnt Orange `CPI`** shirts, **Purple and Gold `SVU`** shirts, and **Red and Navy `RADFORD`** shirts under their open winter coats. "Remind me to kiss the flat concrete of Dominion Mall the second we get back to VDU on Sunday night!"
-
-"Deal," Rachel gasped, letting out a long breath as we finally crested the top of the incline where the sidewalk leveled out along **Commonwealth Mall**. "I am officially looking forward to going back to flat VDU when this conference is over."
+"Deal," Rachel gasped, letting out a long breath as we finally crested the top of the incline where the sidewalk leveled out along Commonwealth Mall. "I am officially looking forward to going back to flat VDU when this conference is over."
 
 ***
 
 #### 4:25 PM — The Commonwealth Mall Curb & The Unspoken Nod
 
-Catching our breath at the crosswalk along **Commonwealth Mall**, directly beneath the limestone arch of **The Keystone Bridge** across from **Kincaid Hall**, the transit geek in me immediately perked up.
+Catching our breath at the crosswalk along Commonwealth Mall, directly beneath the limestone arch of The Keystone Bridge across from Kincaid Hall, the lifelong transit enthusiast in me immediately perked up.
 
-Along **Commonwealth Mall**, there were no dedicated off-street bus bays—instead, buses from every transit agency in the New River Valley simply pulled up to the long sidewalk curb and lined up nose-to-tail one behind the other.
+Along Commonwealth Mall, there were no dedicated off-street bus bays; instead, buses from every transit agency in the New River Valley simply pulled up to the long sidewalk curb and lined up nose-to-tail one behind the other. Right as we reached the crosswalk, two buses rumbled beneath The Keystone Bridge and glided up to the curb in tandem.
 
-Right as we reached the crosswalk, two buses rumbled under **The Keystone Bridge** and pulled up nose-to-tail along the curb.
+First in line at the curb was a thirty-foot low-floor Radford Transit coach—Unit 104—operating the hourly *Radford Connector* route that exits CPI from Commonwealth Mall, turns right onto Stanger Street, left onto Prices Fork Road, right onto Peppers Ferry Road, left onto U.S. Route 11, crosses the New River Bridge into Radford, and turns left onto West Main Street to terminate at McConnell Transit Center, providing once-hourly local service through Prices Fork, Belview, Centerville, and Fairlawn where rural stop spacing lets it move like an express bus. Above its windshield, the amber LED destination sign cycled crisply between *RADFORD CONNECTOR* and *TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN*.
 
-First in line at the curb was a thirty-foot low-floor **Radford Transit** bus (`Unit 104`)—operating the hourly ***Radford Connector*** route that exits CPI from **Commonwealth Mall**, turns right onto **Stanger Street**, left onto **Prices Fork Road**, right onto **Peppers Ferry Road**, left onto **U.S. Route 11**, crosses the **New River Bridge** into **Radford**, and turns left onto **West Main Street** to terminate at **McConnell Transit Center** (providing once-hourly local service for **Prices Fork**, **Belview**, **Centerville**, and **Fairlawn**, where rural stop spacing lets it move like an express bus). Its amber LED destination sign cycled between:
+Gliding to a smooth halt directly behind the Radford coach came a sixty-foot articulated Blue Ridge Transit bus, its amber sign glowing *1 CBURG TRANS CTR via BUSINESS 460 & PEPPER PLAZA*.
 
-```
-RADFORD CONNECTOR
-```
+Heading toward that Route 1 articulated bus from the campus side of the walkway was a group of CPI students leaving campus for the weekend, with [a guy around our age in a power wheelchair](https://books.raggiesoft.com/stardust-engine) rolling at the center of their circle. Rachel and I had no idea who he or his friends were—just local CPI students catching their Friday afternoon bus down to Christiansburg while we were arriving from Norfolk for SAACURC—but as the articulated coach kneeled its front suspension and deployed its wheelchair ramp onto the concrete curb with a crisp pneumatic hiss, I noticed him tilt his head at the exact same angle I did to admire the two buses lined up along Commonwealth Mall.
 
-and:
-
-```
-TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN
-```
-
-And gliding smoothly to a halt directly behind the *Radford Connector* came a sixty-foot articulated **Blue Ridge Transit (`BRT`)** bus, its destination sign reading:
-
-```
-1 CBURG TRANS CTR
-```
-
-```
-via BUSINESS 460 & PEPPER PLAZA
-```
-
-Heading toward that **Route 1** bus from the campus side of the sidewalk was a group of CPI students leaving campus for the weekend, with [a guy around our age in a **power wheelchair**](https://books.raggiesoft.com/stardust-engine) at the center of their group.
-
-Rachel and I had no idea who he or his friends were—just a group of local CPI students catching their Friday afternoon bus down to Christiansburg while we were arriving from Norfolk for `SAACURC`—but as the articulated bus kneeled its front suspension and deployed its wheelchair ramp onto the curb with a crisp pneumatic hiss, I saw him turn his head at the exact same angle I did to admire the two buses lined up along Commonwealth Mall.
-
-When I glanced across the sidewalk from my chair, he happened to look over at me in my manual wheelchair at the exact same second—and for half a heartbeat, [the young woman with the brown side-braid walking right beside his chair](https://books.raggiesoft.com/beth) looked vaguely like someone Rachel and I might have passed a dozen times in the corridors of **Emerald Creek Mall** back home in Chesapeake growing up without ever knowing her name. We exchanged a quick, friendly grin and a knowing wave in passing as he guided his power chair smoothly up the front ramp of the **Blue Ridge Transit Route 1** articulated coach with his friends, while Rachel and I crossed the street into **Kincaid Student Center** with our VDU delegation to grab our `SAACURC` registration packets and head back to **The Hotel at Poly**.
+When I glanced across the sidewalk from my chair, he happened to look over at me in my manual wheelchair at the exact same second. For half a heartbeat, [the young woman with the brown side-braid walking right beside his chair](https://books.raggiesoft.com/beth) looked vaguely like someone Rachel and I might have passed a dozen times in the corridors of Emerald Creek Mall back home in Chesapeake growing up without ever knowing her name. He and I exchanged a quick, friendly grin and an unspoken wave of mutual recognition before he guided his power chair smoothly up the front ramp of the Blue Ridge Transit coach with his friends, and Rachel and I crossed the street into Kincaid Student Center with our VDU delegation to pick up our conference lanyards.
 
 ***
 
 #### 8:30 PM — Two Queen Beds on VDU's Manifest, One Bed in Private
 
-By `8:30 PM` on Friday night, after a casual pizza dinner with our VDU delegation and Kyleen in the hotel dining lounge, Rachel and I rolled down the quiet first-floor corridor of **The Hotel at Poly** and tapped our keycard against the lock of **Room 114**.
+By eight-thirty that Friday night, after a casual pizza dinner with our delegation and Kyleen in the hotel dining lounge, Rachel and I rolled down the quiet first-floor corridor of The Hotel at Poly and tapped our plastic keycard against the lock of Room 114.
 
-Because `SAACURC 2016` was an official **school-sanctioned VDU trip**—and because Rachel and I were officially registered **Gender-Inclusive Housing (`GIH`) participants** back on campus in Norfolk—VDU's conference room manifest permitted the two of us to share a hotel room together, while **The Hotel at Poly** placed us in one of their ground-floor **ADA Accessible Double-Queen Rooms** furnished with **two Queen-sized beds** standing side by side against the wooden headboard wall.
+Because SAACURC 2016 was an official school-sanctioned university trip—and because Rachel and I were registered Gender-Inclusive Housing participants back on campus in Norfolk—VDU's conference room manifest permitted the two of us to share a hotel room, while The Hotel at Poly assigned us to one of their ground-floor ADA accessible double-queen rooms furnished with two Queen-sized beds standing side by side against the wooden headboard wall.
 
-Just like our `2 Bed / 2 Bath` apartment back in **Building 2 (`1016 Hampton House`)** at VDU, university policy operated on a simple rule: **as far as VDU was concerned, each student got their own bed.**
+Just like our two-bedroom, two-bath apartment back in Building 2 at VDU, university travel rules operated on a simple premise: as far as the school's paperwork was concerned, each student got their own bed.
 
-And of course, in the privacy of our locked hotel room once the door clicked shut and I threw the deadbolt and night latch, neither Rachel nor I had the slightest intention of sleeping in separate beds.
+And in the privacy of our locked hotel room once the heavy door clicked shut and I threw the deadbolt and night latch, neither Rachel nor I had the slightest intention of sleeping in separate beds.
 
 ![Inside Room 114 at The Hotel at Poly, one of the two Queen beds sits untouched while Michael and Rachel cuddle together in the other Queen bed in their Blue and Silver VDU t-shirts with Michael's blue wheelchair parked beside the mattress]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_hotel_at_poly_two_queen_room_sharing_bed.jpg)
 
-Rachel kicked off her winter sneakers, peeled off her winter jacket over her royal-blue **`VDU`** t-shirt, and looked from the first Queen bed on the left to the second Queen bed on the right with a warm, knowing smile.
+Rachel kicked off her winter sneakers, peeled off her fleece-lined coat over her royal-blue VDU t-shirt, and looked from the first Queen bed on the left to the second Queen bed on the right with a warm, knowing smile.
 
-"Two Queen beds on VDU's clipboard, Bear," she whispered, rubbing her shoulders after an afternoon of pushing my chair up Blacksburg's limestone hills, "and one bed for us."
+"Two Queen beds on VDU's clipboard, Bear," she whispered, rolling her shoulders after an afternoon of pushing my chair up Blacksburg's limestone hills, "and one bed for us."
 
-"Same protocol as Building 2 back in Norfolk," I grinned, rolling my blue manual wheelchair up beside the left-hand Queen bed, locking both wheel brakes, and easing myself laterally onto the crisp white hotel comforter so my healing surgical incisions could rest at zero-gravity. "We share the left Queen bed tonight so we're right together the way we always are—and tomorrow night after the Saturday sessions, we'll share the right Queen bed so housekeeping sees both beds used."
+"Same protocol as Building 2 back in Norfolk," I grinned, rolling my blue manual wheelchair up beside the left-hand Queen bed, locking both wheel brakes, and easing myself laterally onto the crisp white hotel comforter so my healing surgical incisions could rest completely unweighted. "We share the left Queen bed tonight so we're right together the way we always are—and tomorrow night after the Saturday sessions, we'll rotate to the right Queen bed so hotel housekeeping sees both beds used."
 
-Rachel climbed right into the left Queen bed beside me, pulling the white hotel comforter up over our jeans and loungewear as she tucked her head onto my shoulder and laced her fingers tightly through mine, leaving the second Queen bed across the nightstand completely empty.
+Rachel climbed right onto the left Queen bed beside me, pulling the white comforter up over our jeans and loungewear as she tucked her head onto my shoulder and laced her fingers tightly through mine, leaving the second Queen bed across the nightstand completely untouched.
 
-Looking down at my sister curled warm and safe against my chest in the amber glow of the hotel bedside lamp, a slow, soaring late-eighties power ballad began playing inside my audio hyperphantasia—the warm piano chords and aching synth swell of [*"If You Walked Away"*](https://music.raggiesoft.com/the-stardust-engine/1989-neon-hearts?track=1-04-if-you-walked-away) and [*"My Anchor Holds"*](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) by [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine):
+Looking down at my sister curled warm and safe against my chest in the soft amber glow of the bedside lamp, a slow, soaring late-eighties power ballad began playing inside my audio hyperphantasia—the warm piano chords and aching synthesizer swell of [*"If You Walked Away"*](https://music.raggiesoft.com/the-stardust-engine/1989-neon-hearts?track=1-04-if-you-walked-away) and [*"My Anchor Holds"*](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) by [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine):
 
 > *"I'm holding on, I'm holding tight / Don't let me go into the night..."*
 
-For so much of my twenties, haunted by the ghosts of **Delores** and **Heather**, I had wondered why every attempt to find someone out in the world had left me bleeding on the floor—until I finally opened my eyes and realized **that the someone I had been searching for was right there.**
+For so much of my twenties, haunted by the ghosts of Delores and Heather, I had wondered why every attempt to find someone out in the world had left me bleeding on the floor—until I finally opened my eyes and realized that the someone I had been searching for had been right here beside me since the very beginning.
 
-She had been right here beside me since the very beginning.
+We had been together on [the living room sofa Base Camp in August 1995](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-3-safe-harbor-the-art-of-letting-go) when neither of us could walk across the room alone. We had shared [the lower bunk in Rachel and Jessica's room](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement) on Delaney Street more nights than not. And from the moment we were reunited after Delores left me for dead in Washington, I had never left my little sister's side for any reason. Now we lived together, we attended every single class together, we ran VDU's RHA documentation together, and the only hours we ever spent apart were when we clocked in at our respective jobs.
 
-We were together on [the living room sofa Base Camp in August 1995](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-3-safe-harbor-the-art-of-letting-go) when we couldn't even walk across the room alone. We had shared [the lower bunk in Rachel and Jessica's room](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement) on Delaney Street more nights than not. And from the moment we were reunited after Delores left me for dead in Washington, I had never left my little sister's side for any reason. Now we lived together, we attended every single class together, we ran VDU's RHA documentation together, and the only time we ever separated was when we went to our respective jobs.
+Lying here in Room 114 at The Hotel at Poly with our fingers laced together on the comforter and the second Queen bed sitting empty across the room, both of us knew in our bones that this was all we wanted: each other. Out of everyone in the world, I was choosing the one person who had been there since the start—my Bug.
 
-Sitting here in **Room 114** at **The Hotel at Poly** with our fingers laced together on the comforter and the second Queen bed sitting untouched across the room, both of us knew in our bones that this was all we wanted: **each other.** Out of everyone in the world, I was picking the one person who had been there since the very beginning—my Bug.
+"My arms and calves are already voting for flat Norfolk," Rachel laughed softly against my collarbone as the radiator hummed against the twenty-degree mountain night outside, tightening her fingers around mine so I could feel every beat of her pulse. "But as long as I'm in whichever bed you're in, I'm home."
 
-"My arms and calves are already voting for flat Norfolk," Rachel laughed softly against my shoulder as the radiator hummed against the twenty-degree mountain night outside, tightening her hand around mine so I could feel every beat of her pulse. "But as long as I'm in whichever bed you're in, I'm home."
-
-"Hold on to the night with me, Bug," I murmured, wrapping my left arm around her shoulders and kissing the top of her head. "You're all I've ever needed. Tomorrow is full `SAACURC`."
+"Hold on to the night with me, Bug," I murmured, wrapping my left arm securely around her shoulders and kissing the top of her head. "You're all I've ever needed. Tomorrow is full SAACURC."
 
 ### Part 2: Saturday at SAACURC: Visiting School Colors, The Clothespin Gauntlet, & The GIH Pilot Roundtable
 
@@ -30549,83 +30440,71 @@ Sitting here in **Room 114** at **The Hotel at Poly** with our fingers laced tog
 
 #### 9:00 AM — School Colors, The Clothespin Gauntlet, & Our IST Cloud Architecture
 
-By `8:30 AM` on Saturday, February 13, 2016, **Rachel** and I were dressed in our jeans, **Blue and Silver** **`VDU`** t-shirts, and warm winter jackets, bracing ourselves for another morning push out of **The Hotel at Poly** alongside our **VDU RHA Advisor**, **Kyleen**, and our fellow elected VDU delegates up the sloping brick walkway into **Kincaid Student Center** (`290 College Ave.`).
+The automatic sliding glass doors of Kincaid Student Center—framed by illuminated overhead exit signs and blue ADA push-button plates—glided open with a soft mechanical whirr, and as my front casters rolled onto the flat, polished terrazzo floor of the main atrium lobby, both Rachel and I let out an audible sigh of relief.
 
-The second the automatic sliding glass doors of **Kincaid Student Center**—complete with their illuminated overhead **`EXIT`** signs and blue ADA push-button door openers—slid open and we rolled onto the flat, polished terrazzo floor of the main atrium lobby, both Rachel and I let out a simultaneous sigh of relief. Built directly into the campus hillside so that both the **1st floor** along College Avenue and the **2nd floor** on the upper quad had ground-level access, the three-story exterior wings and structural piers of **Kincaid Student Center** were clad in rough-cut gray **Ironstone** just like practically every building on the CPI campus—except right here along the front atrium lobby, where a soaring wall of floor-to-ceiling mullioned glass windows poured bright morning sunlight across the floor. Here on the **1st floor** along the right-hand wall sat the wood-and-Ironstone **Welcome Desk**, the **`Poly Pass` ID Office** window, and the Ironstone-framed double doors of the **`Commonwealth Ballroom`**; at the back of the lobby, a **plainly visible three-story glass-and-steel passenger elevator** and a **continuous three-floor open staircase** connected the 1st-floor ground level, the cantilevered **2nd-floor balcony dining mezzanine** (which held the quick-service food court overlooking the atrium right next to the entrance for the full **Kincaid Commons** student cafeteria), and the **3rd-floor balcony** housing the student organization suites and numbered breakout rooms (`Rooms 301–330`). Inside the student center, there were working elevators and level floors instead of mountain hills, and the sensory color palette of **`SAACURC` 2016** was in full swing.
+Thirty-minutes after leaving Room 114 at The Hotel at Poly in our jeans, blue-and-silver VDU t-shirts, and winter jackets alongside our advisor, Kyleen, and our fellow VDU delegates, we had survived the morning climb up the sloping brick walkway to 290 College Avenue. Inside the student center, the mountain wind vanished into warm air and level floors.
 
-Because `SAACURC` is the student-governed **Residence Hall Association (`RHA`)** conference where every single delegate is democratically elected by the on-campus residents of their university, every school delegation in the region showed up proudly repping their respective school colors and bold university t-shirts.
+Built directly into the Blacksburg hillside so that both the first floor along College Avenue and the second floor on the upper quad had ground-level entrances, the three-story exterior wings and interior structural piers of Kincaid Student Center were clad in rough-cut gray Ironstone just like practically every building on the CPI campus—except right here along the front atrium lobby, where a soaring wall of floor-to-ceiling mullioned glass windows poured bright morning sunlight across the stone floor. Along the right-hand wall of the first floor sat the wood-and-Ironstone Welcome Desk, the Poly Pass ID Office window, and the wide Ironstone-framed double doors of the Commonwealth Ballroom. At the back of the lobby, a plainly visible three-story glass-and-steel passenger elevator and a continuous three-floor open staircase connected the first-floor ground level to the cantilevered second-floor balcony dining mezzanine—which held the quick-service food court overlooking the atrium right next to the entrance for the full Kincaid Commons student cafeteria—and the third-floor balcony housing the student organization suites and numbered breakout rooms from Room 301 to Room 330.
 
-Looking around the sunlit atrium from my wheelchair while Rachel stood right beside me with her fingers laced tightly through mine, it felt like a living map of mid-Atlantic college spirit:
-* Our **Virginia Dominion University (`VDU`)** delegation from Norfolk in our **Blue and Silver** **`VDU`** t-shirts;
-* Host-school delegates from **Commonwealth Polytechnic Institute (`CPI`)** in their **Chicago Maroon and Burnt Orange** **`CPI`** t-shirts beneath the hanging `CPI` atrium banners;
-* Delegates from **Shenandoah Valley University (`SVU`)** up in Harrisonburg wearing **Purple and Gold** **`SVU`** t-shirts;
-* Commuting delegates from **Radford University (`RADFORD`)** fifteen minutes down the road wearing **Red and Navy Blue** **`RADFORD`** t-shirts;
-* Delegates from ***The* University of the Piedmont (`UP`)** in Charlottesville wearing **Navy Blue and Old Gold** **`UP`** t-shirts;
-* And delegates from **George Wythe University (`GWU`)** up in Northern Virginia wearing **Forest Green and Gold** **`GWU`** t-shirts.
+Because SAACURC is the student-governed Residence Hall Association conference where every delegate is democratically elected by the on-campus residents of their university, every visiting delegation in the region had showed up proudly wearing their respective school colors and bold university t-shirts. Sitting in my parked blue manual wheelchair while Rachel stood right beside my left wheel with her fingers laced tightly through mine, the sunlit atrium looked like a living map of mid-Atlantic college spirit. All around our Virginia Dominion University delegation in our Blue and Silver VDU t-shirts stood host-school delegates from Commonwealth Polytechnic Institute in their Chicago Maroon and Burnt Orange CPI shirts beneath the hanging atrium banners, Shenandoah Valley University delegates from Harrisonburg in Purple and Gold SVU shirts, commuting delegates from Radford University fifteen minutes down the road in Red and Navy Blue RADFORD shirts, delegates from *The* University of the Piedmont in Charlottesville wearing Navy Blue and Old Gold UP shirts, and George Wythe University delegates from Northern Virginia in Forest Green and Gold GWU shirts.
 
 ![Michael in his parked blue manual wheelchair and Rachel standing beside him holding his hand in their royal-blue VDU t-shirts inside Kincaid Student Center, trading painted wooden clothespins with delegates wearing CPI, SVU, RADFORD, UP, and GWU school shirts]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_kincaid_student_center_school_colors_clothespins.jpg)
 
-Every delegation was playing the conference-wide **Clothespin Game**—bringing hundreds of hand-painted wooden clothespins decorated in their school colors and `"HEY SAACURC!"` slogans to clip onto other delegates' lanyards or trade face-to-face between sessions.
+Every delegation was playing the conference-wide Clothespin Game—carrying canvas bags full of hand-painted wooden clothespins decorated in their school colors and *HEY SAACURC!* slogans to clip onto other delegates' lanyards or trade face-to-face between workshops.
 
-Because `SAACURC` packed hundreds of elected student delegates from across the entire South Atlantic region into **Kincaid Student Center**, the main wave of the crowd was already streaming through the Ironstone-framed double doors of the **`Commonwealth Ballroom`** and riding the glass elevator and three-floor staircase up toward the morning program blocks—which left just enough breathing room on the sunlit 1st-floor terrazzo floor for a friendly circle of delegates in **`CPI`**, **`SVU`**, **`RADFORD`**, **`UP`**, and **`GWU`** shirts to gather right around the two of us to trade pins while I sat parked at forty-two inches of eye-level height in my blue manual wheelchair with my left hand laced through Rachel's right hand. Within ten minutes, both Rachel's lanyard and mine were clipped from top to bottom with Maroon-and-Orange, Purple-and-Gold, Red-and-Navy, Navy-and-Gold, and Green-and-Gold wooden clothespins.
+While the main wave of the hundreds-strong conference crowd streamed through the Ironstone-framed double doors of the Commonwealth Ballroom and rode the glass elevator and three-floor staircase up toward the morning rooms, a friendly circle of delegates in CPI, SVU, RADFORD, UP, and GWU shirts gathered right around the two of us on the sunlit terrazzo floor to trade pins. Seated at forty-two inches of eye-level height in my blue wheelchair with my left hand laced through Rachel's right hand, I traded royal-blue-and-silver VDU pins with my free hand while Rachel clipped incoming Maroon-and-Orange, Purple-and-Gold, Red-and-Navy, Navy-and-Gold, and Green-and-Gold clothespins up and down both of our lanyards.
 
-"How are the feet and Achilles holding up after that hill outside, Michael?" Kyleen asked when we reached the VDU delegation table near the accessible front aisle of the Commonwealth Ballroom.
+"How are the feet and Achilles holding up after that hill outside, Michael?" Kyleen asked when we rolled into the Commonwealth Ballroom and parked at the VDU delegation table along the accessible front aisle.
 
-"My ankles are at zero pain, Kyleen," I answered, locking my wheel brakes and popping open my laptop on the table beside Rachel's notebook, "though I think Rachel's calves and my biceps are ready to file a formal grievance against Blacksburg's elevation."
+"My ankles are at zero pain, Kyleen," I answered, clicking my wheel brakes into place and popping open my laptop on the tablecloth beside Rachel's notebook, "though I think Rachel's calves and my biceps are ready to file a formal grievance against Blacksburg's elevation."
 
-"Can confirm," Rachel laughed, sitting down right next to my chair and reclaiming my hand across the table. "Flat Norfolk cannot come fast enough."
+"Can confirm," Rachel laughed, pulling out the chair right next to my wheelchair and reclaiming my hand across the table. "Flat Norfolk cannot come fast enough."
 
-Once the morning program blocks kicked off, [the **Bachelor of Science in Information Systems & Technology (`IST`)** curriculum](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-4-our-shared-academic-track-information-systems-technology-haunted-by-the-past-sitting-side-by-side) that Rachel and I took side-by-side every day at VDU went into overdrive.
+Once the morning program blocks kicked off, [the Bachelor of Science in Information Systems & Technology (IST) curriculum](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-4-our-shared-academic-track-information-systems-technology-haunted-by-the-past-sitting-side-by-side) that Rachel and I took side by side every day at VDU went into high gear. Because I was still haunted by what had happened to me years earlier when I tried to navigate the outside world without my pack—first with Delores, and then with Heather at the community college—Rachel and I never split up into separate breakout rooms at the conference. Wherever I rolled, my Bug walked right beside me. While our fellow VDU delegates fanned out across the second- and third-floor rooms of Kincaid Student Center, their session notes flowed in real time into the *SAACURC 2016 — Blacksburg* cloud-storage architecture and standardized relational templates that Rachel and I had built using our IST 301 and IST 340 coursework, ensuring that every dorm Hall Council back at VDU would receive a complete, cross-indexed briefing packet on Monday morning.
 
-Because I was still haunted by what had happened to me years ago when I tried to navigate the outside world without my pack—first with Delores, and then with Heather at `CCHR`—Rachel and I never split up into separate breakout rooms at the conference. Wherever I rolled, my Bug was right beside me. While our fellow VDU delegates fanned out across the second- and third-floor breakout rooms of Kincaid Student Center, their session notes flowed in real time into the **`SAACURC 2016 — Blacksburg`** cloud-storage architecture and standardized relational templates that Rachel and I had built using our **`IST 301`** and **`IST 340`** coursework—ensuring that every single dorm Hall Council back at VDU would receive a complete, cross-indexed briefing packet on Monday morning.
-
-When the noon lunch break arrived, all of the visiting `SAACURC` delegations headed up to the **2nd-floor Kincaid dining level** using the temporary conference-encoded **`Poly Pass`** cards we had received in our registration packets—each pre-loaded with **`Forge Dollars`** (`meal credits`) so visiting delegates could swipe in for breakfast, lunch, and dinner at any CPI dining facility across campus. Riding the glass atrium elevator up from the 1st floor to the 2nd floor was completely fine for me as long as I kept one hand wrapped firmly around the brushed-steel handrail inside the elevator cab while looking out over the atrium. Once the elevator doors slid open on the 2nd floor, though, Rachel knew me by heart: because I have always been terrified of heights, she would never let me sit or park anywhere near the glass balcony railing overlooking the lobby drop. Instead, while some delegates headed through the entrance just off to the right for the full all-you-care-to-eat **Kincaid Commons** student cafeteria, Rachel steered us past the quick-service counters (**`Ironstone Grill`** and **`Blue Ridge Bakery`**) to a quiet cluster of interior tables set well back away from the balcony railing, where we ate our burgers and fries side by side with our VDU delegation.
+When the noon lunch break arrived, all of the visiting delegations headed up to the second-floor Kincaid dining level using the temporary conference-encoded Poly Pass cards we had received in our registration packets—each pre-loaded with Forge Dollars meal credits so visiting students could swipe in for breakfast, lunch, and dinner at any CPI dining facility on campus. Riding the glass atrium elevator up from the first floor to the second floor was completely manageable for me as long as I kept one hand wrapped firmly around the brushed-steel interior handrail while looking out over the lobby. The second the elevator doors slid open onto the second-floor mezzanine, however, Rachel knew me by heart: because I have always been terrified of heights, she would never let me sit or park anywhere near the glass balcony railing overlooking the drop to the atrium floor. While part of the crowd filed through the side entrance into the all-you-care-to-eat Kincaid Commons cafeteria, Rachel steered us past the quick-service counters of the Ironstone Grill and Blue Ridge Bakery to a quiet cluster of interior tables set well back from the balcony railing, where we ate our burgers and fries side by side with our VDU delegation.
 
 ***
 
 #### 2:15 PM — CPI's Gender-Inclusive Housing Proposal & VDU's Pilot
 
-For **Rachel** and me, the highlight of Saturday afternoon was riding the glass atrium elevator up to the third-floor breakout corridor for the `2:15 PM` policy roundtable in **Kincaid Room 330**: ***Expanding the Harbor: Gender-Inclusive Housing (`GIH`) Proposals, Pilots, & Apartment-Style Implementation***.
+For Rachel and me, the highlight of Saturday afternoon came when we rode the glass atrium elevator up to the third-floor breakout corridor for the two-fifteen policy roundtable in Kincaid Room 330: *Expanding the Harbor: Gender-Inclusive Housing Proposals, Pilots, & Apartment-Style Implementation*.
 
-The session room was packed with elected RHA executives wearing their **`CPI`**, **`SVU`**, **`RADFORD`**, **`UP`**, and **`GWU`** shirts. At the front projector screen, two elected officers from **CPI's Residence Hall Association** walked the room through **CPI's comprehensive Gender-Inclusive Housing (`GIH`) proposal**—detailing how CPI's initial pilot unit in **2014–2015** had proven to CPI's administration that allowing students of any gender—including siblings, mixed-gender support networks, and students with disabilities—to mutually select into the same suite or apartment dramatically improved student well-being, academic retention, and emotional safety.
+Every chair in Room 330 was filled with elected RHA executives wearing their CPI, SVU, RADFORD, UP, and GWU shirts. At the front projector screen, two elected officers from CPI's Residence Hall Association walked the delegations through CPI's comprehensive Gender-Inclusive Housing proposal—detailing how CPI's initial pilot unit during the 2014–2015 academic year had proven to university administrators that allowing students of any gender, including siblings, mixed-gender support networks, and students with disabilities, to mutually select into the same suite or apartment dramatically improved student well-being, academic retention, and emotional safety. Now, in Spring 2016, CPI's RHA was advancing a formal multi-year expansion proposal to embed Gender-Inclusive Housing permanently across CPI's suite- and apartment-style inventory, and they opened the floor to hear from visiting universities that had launched their own GIH pilots.
 
-Now, in **Spring 2016**, CPI's RHA was reviewing the formal multi-year expansion proposal to embed Gender-Inclusive Housing permanently across CPI's suite- and apartment-style inventory, and they opened the floor to hear from visiting schools that had launched their own GIH pilots.
+Sitting right beside my wheelchair with her left hand resting in mine, Rachel glanced at me with quiet pride in her warm brown eyes and raised her free right hand.
 
-Sitting right next to my wheelchair with her left hand resting in mine, Rachel glanced at me with quiet pride in her warm brown eyes and raised her free hand.
+"Virginia Dominion University RHA," the CPI moderator called out in his Chicago Maroon and Burnt Orange shirt, gesturing toward our table. "You guys launched your GIH pilot this past Fall 2015, right? How is your first spring semester going?"
 
-"Virginia Dominion University RHA," the CPI moderator called out in his Maroon and Burnt Orange shirt, gesturing toward our table. "You guys launched your GIH pilot this past Fall 2015, right? How is your first Spring semester going?"
+"I'm Michael Ragsdale, elected Director of Operations for VDU's RHA, and this is my sister Rachel Ragsdale, our elected RHA Secretary," I said clearly across the conference room, my right palm resting on the push-rim of my blue manual chair while my left hand stayed laced with Rachel's. "Yes—Fall 2015 was the inaugural semester of VDU's Gender-Inclusive Housing pilot down in Norfolk, and this Spring 2016 is our first spring semester under the program. And we aren't just speaking as RHA officers who audit the weekly Hall Council reports from the dorms. Rachel and I actually live in the VDU GIH pilot ourselves, in a ground-floor two-bedroom apartment in Building 2—Hampton House—on campus, and we also share the exact same Information Systems and Technology academic track."
 
-"I'm **Michael Ragsdale**, elected Director of Operations for VDU's RHA, and this is my sister **Rachel Ragsdale**, our elected RHA Secretary," I said clearly across the conference room, my right hand resting on the push-rim of my blue manual chair while my left hand stayed laced with Rachel's. "Yes—**Fall 2015** was the inaugural semester of VDU's Gender-Inclusive Housing pilot in Norfolk, and this **Spring 2016** is our first spring semester under the program. And we aren't just speaking as RHA officers who receive the Hall Council reports from the dorms—Rachel and I actually live in the VDU GIH pilot ourselves, in a **ground-floor two-bedroom apartment** in **Building 2 (`Hampton House`)** on campus, and we also share the exact same **Information Systems & Technology** academic track."
+Beside me, Rachel picked up the thread seamlessly, her voice calm, articulate, and steady as twenty student delegations typed notes into their minutes templates.
 
-Beside me, Rachel picked up the thread seamlessly, her voice calm, articulate, and grounded as twenty RHA delegations took notes in their minutes templates:
+"Before VDU launched the GIH pilot in Fall 2015," Rachel explained, "traditional single-gender housing rules meant that opposite-gender siblings, lifelong best friends, or students who rely on an opposite-gender family member as their primary support anchor in class and at home were forced into separate buildings or pushed off campus entirely. By opening our two-bedroom apartment-style residences to Gender-Inclusive Housing—where every resident opts in voluntarily and mutually selects their apartment-mate—VDU eliminated that barrier overnight. In our Director of Operations reports across all participating VDU buildings this year, roommate conflict mediation requests in GIH apartments are nearly zero, and retention from Fall 2015 into Spring 2016 hit one hundred percent."
 
-"Before VDU launched the GIH pilot in Fall 2015," Rachel explained, "traditional single-gender housing rules meant that opposite-gender siblings, lifelong best friends, or students who rely on an opposite-gender family member as their primary support anchor in class and at home were forced into separate buildings or pushed off campus entirely. By opening our two-bedroom apartment-style dorms to Gender-Inclusive Housing—where every resident opts in voluntarily and mutually selects their apartment-mate—VDU eliminated that barrier overnight. In our Director of Operations reports across all participating VDU dorms this year, roommate conflict mediation requests in GIH apartments are nearly zero, and retention from Fall 2015 into Spring 2016 hit one hundred percent."
+"And looking at CPI's expansion proposal up on the projector," I added, tapping the PDF copy of CPI's draft resolution that I had already downloaded into our VDU RHA cloud drive, "the most important clause you have in Section 4 is decoupling Gender-Inclusive Housing from medical or administrative gatekeeping. When students can simply elect into a two-bedroom apartment together during standard room selection—without having to justify to a committee *why* their sibling or support partner is their safe person—the system actually works for the residents."
 
-"And looking at CPI's GIH proposal on the screen," I added, tapping the PDF copy of CPI's draft resolution that I had already downloaded into our VDU RHA cloud drive, "the most important clause you have in Section 4 is decoupling Gender-Inclusive Housing from medical or administrative gatekeeping. When students can simply elect into a two-bedroom apartment together during standard room selection—without having to justify *why* their sibling or support partner is their safe person—the system actually works for the residents."
-
-Across the room, the CPI RHA presenters and the visiting delegations in their school colors applauded, jotting down VDU's Fall 2015–Spring 2016 retention numbers to take back to their own campus housing committees.
+Across Room 330, the CPI presenters and the visiting delegations in their school colors broke into warm applause, jotting down VDU's Fall 2015 to Spring 2016 retention figures to bring back to their own campus housing boards.
 
 ***
 
 #### 9:45 PM — One More Hill & Rotating to the Second Queen Bed
 
-By the time Saturday's evening banquet, roll-call skits, and regional caucus meetings wrapped up inside **Kincaid Student Center** at `9:30 PM`, the mountain temperature outside had dropped into the low twenties, turning the remaining edges of the melted snowbanks along College Avenue into glittering frost.
+By the time Saturday's evening banquet, roll-call skits, and regional caucus meetings wrapped up inside Kincaid Student Center at nine-thirty that night, the mountain temperature outside had plunged into the low twenties, turning the remaining edges of the melted snowbanks along College Avenue into glittering ribbons of frost.
 
-Pushing back up the outdoor walkway grade from College Avenue to **The Hotel at Poly** in the twenty-two-degree mountain wind took one last heroic effort from Rachel on the push-handles and me on the freezing wheel rims—leaving both of us laughing and groaning as we rolled through the automatic sliding doors of the hotel lobby.
+Pushing back up the outdoor brick grade from College Avenue to The Hotel at Poly in the twenty-two-degree mountain wind took one final, heroic effort from Rachel on the push-handles and me on the freezing metal push-rims—leaving both of us laughing and groaning as we rolled through the automatic sliding doors into the heated hotel lobby.
 
-"One more morning, Bear," Rachel breathed, flexing her fingers as the warm hotel air hit our faces, "and then it's back to sea-level Norfolk."
+"One more morning, Bear," Rachel breathed, flexing her chilled fingers as the warm air hit our faces, "and then it's back to sea-level Norfolk."
 
-Inside the warm, quiet sanctuary of **Room 114** at **The Hotel at Poly**, I locked the wheels of my manual chair, shed my winter jacket, and plugged both of our phones and my laptop into the desk power strip after verifying that every Saturday breakout report was cleanly filed in our VDU RHA cloud drive.
+Inside the quiet sanctuary of Room 114, I locked the wheels of my manual chair, shed my winter coat, and plugged both of our phones and my laptop into the desk power strip after verifying that every Saturday breakout report was cleanly filed inside our VDU RHA cloud repository.
 
-Rachel came out of the accessible bathroom in her royal-blue `VDU` t-shirt and soft flannel sleep pants, looking over at the **two Queen beds** that VDU's school-sanctioned GIH manifest had provided for our room.
+A few minutes later, Rachel stepped out of the accessible bathroom in her royal-blue VDU t-shirt and soft flannel sleep pants, glancing across the carpet at the two Queen beds that VDU's school-sanctioned GIH manifest had provided for our room. The night before—Friday night—we had shared the left-hand Queen bed while leaving the right-hand Queen bed untouched.
 
-Last night—Friday night—we had shared the **left-hand Queen bed** while leaving the right-hand Queen bed untouched.
+Following our standard Building 2 apartment rotation rule so that nobody from hotel housekeeping would ever wonder why two students assigned to a two-bed room left one bed untouched all weekend, Rachel walked straight over to the right-hand Queen bed and folded back the crisp white comforter.
 
-Following our standard VDU two-bedroom apartment rotation rule so that nobody from hotel housekeeping would ever wonder why two students assigned to a two-bed room left one bed untouched all weekend, Rachel walked straight over to the **right-hand Queen bed** and turned down the crisp white comforter.
+"Even night, Bear," Rachel smiled, patting the fresh mattress beside her. "Second Queen bed's turn."
 
-"Even night, Bear," Rachel smiled, patting the mattress beside her. "Second Queen bed's turn."
-
-Grinning, I wheeled over to the edge of the right-hand Queen bed, locked my brakes, and transferred smoothly onto the fresh sheets. As soon as I switched off the bedside lamp, Rachel curled right into my side under the heavy hotel blankets, resting her cheek against my shoulder while the radiator ticked softly in the corner.
+Grinning, I wheeled over to the edge of the right-hand Queen bed, locked my brakes, and transferred smoothly onto the cool sheets. The moment I clicked off the bedside lamp, Rachel curled right into my side beneath the heavy hotel blankets, resting her cheek against my shoulder while the radiator ticked softly against the mountain cold outside.
 
 ### Part 3: Sunday Wrap-Up: Closing Banquet, The SAACURC Documentation Plaque, & Back to Flat VDU
 
@@ -30635,49 +30514,49 @@ Grinning, I wheeled over to the edge of the right-hand Queen bed, locked my brak
 
 #### 11:30 AM — The Closing Banquet & The SAACURC Documentation Plaque
 
-When **Rachel** and I rolled our suitcases out of **Room 114** at **The Hotel at Poly** at `9:00 AM` on Sunday morning, February 14, 2016, both Queen beds behind us looked equally, naturally slept-in—so as far as VDU and the hotel were concerned, each of us had used our own bed—and our VDU RHA cloud storage drive held twenty-four completed, cross-indexed session reports structured with the exact schema design we practiced every week in our shared **Information Systems & Technology (`IST`)** classes back in Norfolk.
+Silverware clinked softly against porcelain plates across the Commonwealth Ballroom as the servers cleared the last of the Sunday banquet lunch, and at the front podium, the regional executive board tapped the microphone to bring the room to order.
 
-After loading our overnight luggage into the back of the VDU university van under **Kyleen**'s supervision, Rachel braced her sneakers against the brick incline one last time to help push my manual wheelchair across **College Avenue** into **Kincaid Student Center** (`290 College Ave.`) for the final morning of **`SAACURC` 2016**.
+At our Virginia Dominion University table along the accessible front aisle, I sat in my parked blue manual wheelchair in my royal-blue-and-silver VDU t-shirt and jeans, finishing the last bite of warm roasted chicken, mashed potatoes, and dinner rolls with my right hand while my left hand stayed laced tightly through Rachel's right hand beside the table. Around us, the ballroom was a vibrant sea of university colors—Maroon and Burnt Orange CPI shirts, Purple and Gold SVU shirts, Red and Navy RADFORD shirts, Navy and Old Gold UP shirts, and Forest Green and Gold GWU shirts, every lanyard heavy with a weekend's worth of painted wooden clothespins.
 
-While the Saturday schedule at `SAACURC` is all about program sessions, policy roundtables, and trading `"HEY SAACURC!"` clothespins across three floors of breakout rooms, Sunday morning is when the regional student boardroom wraps up its legislative resolutions—including passing the regional student endorsement modeled on **CPI's Gender-Inclusive Housing (`GIH`) proposal** and **VDU's Fall 2015–Spring 2016 GIH pilot**—before all the delegations gather in the **Commonwealth Ballroom** at `11:30 AM` for the **Closing Lunch and Awards Ceremony**.
+Two and a half hours earlier, when Rachel and I had rolled our overnight suitcases out of Room 114 at The Hotel at Poly at nine o'clock that morning, both Queen beds behind us had looked equally, naturally slept-in—so as far as VDU and hotel housekeeping were concerned, each of us had used our own bed—and our VDU RHA cloud storage drive held twenty-four completed, cross-indexed session reports structured with the exact schema design we practiced every week in our shared Information Systems and Technology classes back in Norfolk. After loading our bags into the back of the VDU van under Kyleen's supervision and letting Rachel brace her sneakers against the brick incline one last time to push my chair across College Avenue into Kincaid Student Center, we had spent the morning in the regional student boardroom wrapping up the weekend's legislative business—including passing a unanimous regional student endorsement modeled on CPI's Gender-Inclusive Housing expansion proposal and VDU's Fall 2015 to Spring 2016 GIH pilot.
 
-Sitting at our **VDU** table near the accessible front aisle in our **Blue and Silver** **`VDU`** t-shirts and jeans, with my left hand laced through Rachel's right hand, we shared plates of warm roasted chicken, mashed potatoes, and rolls while a sea of student delegates in **Maroon and Burnt Orange `CPI`**, **Purple and Gold `SVU`**, **Red and Navy `RADFORD`**, **Navy and Old Gold `UP`**, and **Forest Green and Gold `GWU`** shirts filled the banquet tables around us.
+Now, as the clock passed eleven-thirty, it was time for the Closing Awards Ceremony.
 
-By longstanding conference ground rules, **the host school (`Commonwealth Polytechnic Institute`) is never eligible to win any awards** at the conference for conflict-of-interest reasons—meaning all of the competitive `SAACURC` plaques were up for grabs among the visiting delegations elected by their on-campus peers:
-* The **Radford University (`RADFORD`)** delegation in their Red and Navy shirts took home the *Regional Spirit Award* for the loudest roll-call chant of the weekend.
-* **Shenandoah Valley University (`SVU`)** from Harrisonburg in their Purple and Gold shirts won the *Student Advocacy & Program of the Year Award* for their campus-wide hall council sustainability initiative.
-* And when the Regional Communications Coordinator stepped up to the podium to announce the ***SAACURC Operational & Documentation Excellence Recognition***—honoring the visiting delegation with the best-organized parliamentary reporting and hall-council information architecture—she smiled right down toward our accessible front table:
-  *"Presented to the elected **Director of Operations** and **Secretary** of the **Virginia Dominion University Residence Hall Association**—**Michael Ragsdale** and **Rachel Ragsdale**!"*
+By longstanding conference ground rules, the host university—Commonwealth Polytechnic Institute—was never eligible to win competitive awards at the conference for conflict-of-interest reasons, which meant every wooden SAACURC plaque on the podium table was up for grabs among the visiting delegations elected by their on-campus peers. First, the Radford University delegation in their Red and Navy shirts jumped to their feet to claim the *Regional Spirit Award* for the loudest roll-call chant of the weekend. A moment later, the Shenandoah Valley University delegation from Harrisonburg in their Purple and Gold shirts walked up to accept the *Student Advocacy & Program of the Year Award* for their campus-wide hall council sustainability initiative.
+
+Then the Regional Communications Coordinator stepped up to the microphone, lifting an engraved walnut-and-brass plaque from the velvet table.
+
+"Our next honor is the *SAACURC Operational & Documentation Excellence Recognition*," she announced into the mic, looking out across the banquet tables, "awarded to the visiting delegation with the best-organized parliamentary reporting, real-time conference minutes, and hall-council information architecture." She smiled right down toward our accessible front table. "And this year, it wasn't even close. Presented to the elected Director of Operations and Secretary of the Virginia Dominion University Residence Hall Association—Michael Ragsdale and Rachel Ragsdale!"
 
 ![Inside the Commonwealth Ballroom during the SAACURC 2016 Sunday Closing Banquet, Michael in his blue manual wheelchair and Rachel standing beside him in matching royal-blue VDU t-shirts look warmly at each other and down at their wooden recognition plaque angled toward their eyes while holding hands as delegates in CPI, SVU, RADFORD, UP, and GWU shirts applaud]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_gih_roundtable_and_closing_award.jpg)
 
-Our entire VDU table—including Kyleen—erupted into cheers and table-drumming. As I wheeled my manual chair up to the side of the stage ramp alongside Rachel and accepted the engraved walnut-and-brass plaque, holding it angled toward our eyes in my right hand while my left hand stayed laced tightly with Rachel's, delegates from **CPI**, **SVU**, **Radford**, **UP**, and **GWU** clapped and cheered across the ballroom.
+Our entire VDU table—including Kyleen—erupted into cheers and table-drumming. Releasing my wheel brakes, I rolled up to the base of the stage ramp with Rachel walking right at my side. As the coordinator handed us the heavy walnut-and-brass plaque, I held it in my right hand angled directly toward Rachel's and my eyes so the two of us could read the engraved brass plate together, while my left hand immediately found Rachel's right hand again as delegations in CPI, SVU, RADFORD, UP, and GWU shirts applauded across the ballroom.
 
-Looking up at my sister standing right beside my chair—the same way she sat right beside me in every single **`IST`** lecture and computer lab back at VDU so the ghosts of my past could never corner me alone—my chest swelled with quiet gratitude.
+Looking up at my sister standing right beside my chair—the exact same way she sat ten inches to my right in every single IST lecture and computer lab back in Norfolk so the ghosts of my past could never corner me alone—my chest swelled with quiet gratitude.
 
-"Our `IST 340` professor is going to love seeing this on Monday morning, Bug," I whispered, smiling up at her as we admired the plaque angled between us.
+"Our IST 340 professor is going to love seeing this on Monday morning, Bug," I whispered, smiling up at her as we admired the brass lettering angled between us.
 
-"Best documentation team in the commonwealth, Bear," Rachel beamed, squeezing my hand.
+"Best documentation team in the commonwealth, Bear," Rachel beamed behind her glasses, squeezing my fingers.
 
 ***
 
 #### 1:45 PM — Leaving the Mountain Hills for Flat VDU
 
-By `1:45 PM`, the last gavel had fallen, the banners were rolled up into their travel tubes, and the Sunday afternoon sunshine was gleaming off the wet grass along **Commonwealth Mall** where Friday's melted snow had almost completely vanished.
+By a quarter to two that Sunday afternoon, the final gavel had fallen, the delegation banners were rolled neatly into their travel tubes, and bright February sunshine gleamed off the damp grass along Commonwealth Mall where Friday's melted snow had almost completely vanished.
 
-As we rolled out of **Kincaid Student Center** toward our waiting VDU van at **The Hotel at Poly**—thankfully going *downhill* this time while Rachel held the rear push-handles to keep my chair from picking up speed on the steep Blacksburg grade—I paused for a second at the **Commonwealth Mall** crosswalk beneath **The Keystone Bridge**.
+As we rolled out of Kincaid Student Center at 290 College Avenue toward our waiting university van at The Hotel at Poly—thankfully heading *downhill* this time while Rachel held firmly onto the rear push-handles to keep my manual chair from picking up speed on the steep Blacksburg grade—we paused for a few seconds at the Commonwealth Mall crosswalk beneath The Keystone Bridge.
 
-Pulling up to the curb right on its `:45` weekend pulse was a **Blue Ridge Transit** articulated bus (`1 CBURG TRANS CTR`), while up ahead a **Radford Transit *Radford Connector*** bus (`TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN`) signaled to turn right onto Stanger Street toward Prices Fork Road, Peppers Ferry Road, and U.S. Route 11.
+Pulling up to the long sidewalk curb right on its forty-five-past-the-hour weekend pulse was a sixty-foot Blue Ridge Transit articulated bus displaying *1 CBURG TRANS CTR* on its amber overhead sign, while just ahead of it a thirty-foot Radford Transit *Radford Connector* coach reading *TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN* blinked its right turn signal to swing onto Stanger Street toward Prices Fork Road, Peppers Ferry Road, and U.S. Route 11.
 
-Watching that sixty-foot **Route 1** articulated coach kneel at the curb, I briefly remembered the CPI student in the power chair we had seen boarding the Christiansburg bus with his friends at that exact spot when we arrived on Friday afternoon, and smiled to myself. Even if we didn't know a single soul on that bus, it was pretty cool seeing how seamlessly the New River Valley's transit network connected the mountain towns together.
+Watching that sixty-foot Route 1 articulated bus kneel its suspension against the curb, I thought back for a moment to the CPI student in the power wheelchair and the young woman with the brown side-braid we had seen boarding the Christiansburg bus at that exact spot when we arrived on Friday afternoon, and smiled to myself. Even though we didn't know a single soul on that bus, there was something deeply comforting about watching how seamlessly the New River Valley's transit network stitched these mountain towns together.
 
-At the curb of **The Hotel at Poly**, I stood up carefully from my blue-upholstered manual wheelchair (`5'7"` on my own two feet for the twenty-second step into the van), eased myself onto the second-row bench seat, and watched our fellow delegates fold the blue wheelchair flat and secure it in the rear cargo bay alongside our suitcases and our new `SAACURC` award plaque.
+At the porte-cochère curb of The Hotel at Poly, I unlocked my brakes, stood up carefully on my own two feet at my full five-foot-seven height for the twenty-second transfer into the fifteen-passenger van, and settled onto the second-row bench seat while our fellow delegates folded the blue manual wheelchair flat and secured it in the rear cargo bay beside our suitcases and our new SAACURC award plaque.
 
-Rachel climbed in right beside me, buckled her seatbelt, and immediately tucked her arm through mine, resting her head on my right shoulder with a long, contented exhale as Kyleen shifted the van into drive and pulled out onto **U.S. Route 460 East** toward **Interstate 81 North** and **Interstate 64 East**.
+Rachel climbed in right beside me, clicked her seatbelt shut, and immediately tucked her left arm through my right, resting her head on my shoulder with a long, contented exhale as Kyleen shifted the van into drive and steered out onto U.S. Route 460 East toward Interstate 81 North and Interstate 64 East.
 
-"Blacksburg is beautiful, Bear," Rachel murmured, lacing her fingers through mine as the steep limestone hills of CPI receded in the side mirrors, "but my legs have never been happier to go back to flat, sea-level VDU."
+"Blacksburg is beautiful, Bear," Rachel murmured, lacing her fingers through mine as the steep limestone hills and gray Ironstone towers of CPI receded in the side mirrors, "but my legs have never been happier to go back to flat, sea-level VDU."
 
-"Amen to that, Bug," I laughed softly, kissing the top of her head and resting my cheek against her hair for the four-and-a-half-hour ride down the mountain to Norfolk—where **Building 2**, our flat concrete walkways on **Dominion Mall**, and our side-by-side workstations in Monday morning's **`IST`** class were waiting for us. "Sunday night is Bedroom 1's full bed, Madame Secretary. Wake me up when we hit the Hampton Roads Bridge-Tunnel."
+"Amen to that, Bug," I laughed softly, kissing the top of her head and resting my cheek against her hair for the four-and-a-half-hour ride down the mountain to Norfolk—where Building 2, our flat concrete walkways on Dominion Mall, and our side-by-side workstations in Monday morning's IST class were waiting for us. "Sunday night is Bedroom 1's full bed, Madame Secretary. Wake me up when we hit the Hampton Roads Bridge-Tunnel."
 
 # Behind the Wheel: 55 MPH on Ferrell Parkway (Summer 2016)
 
@@ -30691,27 +30570,33 @@ Rachel climbed in right beside me, buckled her seatbelt, and immediately tucked 
 
 #### 10:00 AM — Medically Cleared, Why Rachel Waited for Me, & Ellen's Surprise at Moosewood Drive
 
-On the second Tuesday morning of June 2016—four months after **Rachel** and I had rolled across the snowy limestone walkways of Blacksburg in my temporary post-op manual wheelchair for [the **2016 `SAACURC` Regional Student Leadership Conference**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly)—my orthopedic surgeon and physical therapist officially signed my final medical discharge from [my January 2016 bilateral Achilles heel cord lengthening surgery](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi/bilateral-achilles-heel-cord-lengthening-why-rachel-waited-for-me-cleared-to-travel-to-cpi), clearing me for full, unrestricted ankle dorsiflexion and driving pedal operation.
+The cool oak floorboards of our living room on [Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) felt solid and level beneath the bare soles of my feet.
 
-Standing barefoot on the hardwood floor of our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach—our permanent legal residence where we were back home for summer break from [our two-bedroom upperclass GIH apartment at **Virginia Dominion University (`VDU`)**](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-2-move-in-day-at-1016-hampton-house-building-2-the-2-bed-2-bath-floor-plan-alternating-beds)—both of my heels rested flat and level against the boards. Even better, when I planted my right heel on the floor and flexed my foot upward and downward like pressing an imaginary gas and brake pedal, my lengthened Achilles tendon glided smoothly through the full arc of dorsiflexion without a single twinge of tightness or calf cramping.
+I stood near the edge of the kitchen island, planted my right heel against the wood, and flexed my foot upward and downward in a slow, deliberate arc—the exact biomechanical motion of pivoting between an imaginary brake and accelerator pedal. For the first twenty-eight years of my life, spastic cerebral palsy had pulled my calves so tight that my heels refused to rest flat when I tried to hinge my ankles upward. Now, five months after [my January 2016 bilateral Achilles heel cord lengthening surgery](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi/bilateral-achilles-heel-cord-lengthening-why-rachel-waited-for-me-cleared-to-travel-to-cpi) and four months after Rachel and I had navigated the snowy limestone hills of Blacksburg in my temporary post-op manual wheelchair for [the 2016 SAACURC Regional Student Leadership Conference](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly), my lengthened tendons glided through the full range of dorsiflexion without a single twinge of tightness or cramping.
 
-And my medical clearance was the exact signal my sister **Rachel** (*my Bug*) had been stubbornly waiting for.
+"Show me that pivot one more time, Bear," Rachel said, leaning her elbows on the granite counter as she watched my ankle with bright, focused eyes behind her rounded glasses.
 
-Up to this point in our lives—at twenty-eight years old for me and twenty-six for Rachel—neither of us had gotten a Learner's Permit or a Driver's License yet. **Rachel could have gotten her Learner's Permit at any time over the years**, since nothing medical had ever held her back from driving. Every single time the subject had come up, however, **Rachel had stubbornly insisted on waiting until I was medically ready and cleared after my Achilles heel cord surgery—because Bear and Bug do everything together.** She had refused to take a single step toward a driver's license until the two of us could walk into the DMV side by side.
+I kept my heel planted and tapped my forefoot smoothly left and right across the floorboards, then held up the crisp white medical discharge summary my orthopedic surgeon and physical therapist had signed an hour earlier, clearing me for unrestricted ankle dorsiflexion and driving pedal operation.
 
-Around the dining table here at **Moosewood Drive**, where the five of us (**Rachel**, **Ashley**, **Kristin**, **Jessica**, and I) lived together, the household transportation roster was straightforward:
-* **Ashley** held a Virginia Driver's License and owned her own car, parked right outside in the Moosewood Drive driveway.
-* **Jessica** was prohibited from driving for medical reasons and carried a **Virginia Non-Driver State ID card**.
-* **Kristin** also carried a **Virginia Non-Driver State ID card**. Nothing medical or legal stopped Kristin from taking Behind-the-Wheel lessons—she simply did not like to drive, and was completely happy either riding the **Coastal Virginia Transit Authority (`CVTA`)** bus or catching rides with Ashley.
-* And until this summer, Rachel and I had carried **Virginia Non-Driver State ID cards** too, splitting our commutes between transit buses, our VDU campus shuttle, and catching rides with Ashley or our mother **Ellen**.
+"Zero resistance," I grinned. "Heel stays flat the entire time."
 
-When **Mom (Ellen)** stopped by the house on Moosewood Drive after my final orthopedic discharge appointment and saw me pivoting my right foot effortlessly on my heel, she set her purse down on the kitchen island and smiled at the two of us.
+Rachel pushed off the counter, crossed the polished floor in three quick strides, and threw her arms around my neck. I caught her weight immediately, burying my face against her shoulder in a deep, grounding hug.
 
-"Your ankles are finally ready, Michael, and it's time for both of you to have your independence on the road," Mom said. "I'm paying for the two of you to take formal **Adult Behind-the-Wheel** lessons together at a certified driving school here in Virginia Beach. And the day you pass your road tests and get your licenses, I'm adding both of you onto the insurance policy for my car so you can borrow it whenever you need to."
+That piece of paper was the exact signal my little sister had been stubbornly waiting for. At twenty-eight for me and twenty-six for Rachel, neither of us had ever held a learner's permit or a driver's license. Rachel could have gotten her license years ago; nothing medical had ever held her back from sitting behind a steering wheel. Every single time the subject had come up, however, she had refused to take a single step toward driving until I was surgically repaired and medically cleared to learn right beside her. In Rachel's mind, Bear and Bug did everything together, and she was not about to walk into the Department of Motor Vehicles without me at her side.
 
-Rachel's eyes lit up behind her rounded glasses as she squeezed my hand, lacing her fingers tightly through mine. "Wait—really, Mom? Both of us together?"
+Back home here on Moosewood Drive for summer break from [our two-bedroom upperclass GIH apartment at Virginia Dominion University](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-2-move-in-day-at-1016-hampton-house-building-2-the-2-bed-2-bath-floor-plan-alternating-beds), our five-person household had always operated on a simple transportation rhythm. Ashley held a Virginia driver's license and owned her own car, parked right outside in the driveway. Jessica was prohibited from driving for medical reasons and carried a Virginia Non-Driver State ID card, and Kristin carried a Non-Driver State ID card as well—not because anything medical or legal stopped Kristin from taking lessons, but simply because she did not like to drive and was completely content riding the Coastal Virginia Transit Authority bus or catching rides with Ashley. Up until this Tuesday morning, Rachel and I had carried Non-Driver State ID cards too, splitting our commutes between transit buses, our campus shuttle, and rides with Ashley or our mother.
 
-"Both of you together," Mom promised. "Go down to the DMV, upgrade your State IDs to your Virginia Learner's Permits, and I'll write the check to the driving school this afternoon."
+The front door clicked open, and Mom stepped into the foyer, her keys jingling softly in her hand. She paused as she saw me pivot my right foot one more time across the oak floor, then set her purse down on the kitchen island with a warm, unmistakable smile.
+
+"Your ankles are finally ready, Michael," Mom said, looking from my bare feet up to where Rachel and I stood with our shoulders pressed together, "and it is time for both of you to have your independence on the road."
+
+She reached into her purse and drew out her checkbook, resting her palm over it on the granite counter.
+
+"I am paying for the two of you to take formal Adult Behind-the-Wheel lessons together at a certified driving school here in Virginia Beach," Mom told us. "And the day you pass your road tests and get your licenses, I am adding both of you onto the insurance policy for my car so you can borrow it whenever you need to."
+
+Rachel's breath caught. Her eyes lit up behind her glasses as she reached down and squeezed my hand, lacing her fingers tightly through mine. "Wait—really, Mom? Both of us together?"
+
+"Both of you together," Mom promised warmly. "Go down to the DMV, upgrade your State IDs to your Virginia Learner's Permits, and I will write the check to the driving school this afternoon."
 
 ![Michael and Rachel at the Virginia Beach DMV counter holding hands as they receive their temporary Virginia Learner's Permits after passing the two-part knowledge exam on the first try]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_dmv_knowledge_test_first_try_permits.jpg)
 
@@ -30719,32 +30604,37 @@ Rachel's eyes lit up behind her rounded glasses as she squeezed my hand, lacing 
 
 #### 1:15 PM — Ten for Ten at the Virginia Beach DMV
 
-Under Commonwealth of Virginia law (`Va. Code § 46.2-335`), even when an adult hires a commercial DMV-certified driver training school, you cannot legally sit behind the steering wheel of an instruction car on a public street until you hold a valid **Virginia Learner's Permit**.
+The sliding glass doors of the Virginia Beach DMV Customer Service Center parted with a quiet pneumatic hiss, letting us out of the humid June heat and into the cool, fluorescent-lit lobby.
 
-After spending three evenings quizzing each other on the *Virginia Driver's Manual* across the kitchen table at Moosewood Drive, Rachel and I walked through the sliding glass doors of the **Virginia Beach DMV Customer Service Center** on Tuesday afternoon, June 14, 2016, holding hands with our fingers laced together until our ticket number flashed on the overhead LED board.
+Under Virginia law, Va. Code § 46.2-335, even when an adult hires a commercial DMV-certified driver training school, nobody can legally sit behind the steering wheel of an instruction car on a public street without first holding a valid Virginia Learner's Permit. Rachel and I had spent the past three evenings quizzing each other across the kitchen table from the *Virginia Driver's Manual*, and as we walked up to the check-in kiosk, we held hands with our fingers laced tightly together, keeping our nervous systems anchored against the low murmur of the waiting room crowd.
 
-Because both of us already held valid **Virginia Non-Driver State ID cards** with our **Moosewood Drive** residential address verified in the DMV database, the paperwork at the counter was a breeze. We handed over our completed *Driver's License and Learner's Permit Applications (`Form DL 1P`)*, paid the combined Learner's Permit and license fee, and took turns leaning our foreheads against the rubber hood of the tabletop stereoscopic vision screener.
+When our ticket number chimed on the overhead display, we walked side by side to the counter. Because both of us already held valid Virginia Non-Driver State ID cards with our Moosewood Drive residential address verified in the state system, the initial paperwork moved effortlessly. We handed over our completed Driver's License and Learner's Permit Applications on Form DL 1P, paid our combined permit and license fees, and took turns leaning our foreheads against the black rubber hood of the tabletop stereoscopic vision screener.
 
-Looking through our glasses into the illuminated lenses, both Rachel and I read off the tiny `20/40` acuity letter lines and called out the left-and-right peripheral flash strobes (`100°` horizontal field), earning **`Restriction B — Corrective Lenses`** on our applications.
+Peering through my glasses into the illuminated lenses, I read off the tiny 20/40 acuity letter lines and called out the left and right peripheral flash strobes across the hundred-degree horizontal field. Two minutes later, Rachel did the exact same thing beside me, earning both of us Restriction B for corrective lenses on our applications.
 
-"All right, you two," the DMV clerk said, stamping our routing slips and pointing toward the row of numbered computer booths in the quiet testing alcove. "Terminals 4 and 5 for your two-part Knowledge Exam. Remember: Part 1 is ten road signs, and you have to get all ten right—one hundred percent—before the computer will unlock Part 2."
+"All right, you two," the clerk said, stamping our routing slips with a firm thud and pointing toward the row of partitioned computer booths in the quiet testing alcove. "Terminals Four and Five for your two-part Knowledge Exam. Remember: Part One is ten road signs, and you have to get all ten right—one hundred percent—before the computer will unlock Part Two."
 
-Rachel and I walked over to Terminals 4 and 5 side by side, gave each other's hand one last grounding squeeze, and sat down in front of the touchscreens.
+Rachel and I walked over to Terminals Four and Five together. Before we sat down on the vinyl stools, she gave my hand one last slow, grounding squeeze.
 
-The Virginia DMV's **Part 1 Traffic Signs test** is legendary for tripping people up because half the questions strip away the words on the sign and show only a blank geometric shape and color—testing whether you immediately recognize a yellow pennant (*No Passing Zone*), a round yellow disc (*Railroad Crossing Advance Warning*), an orange diamond (*Temporary Work Zone*), a red octagon (*Stop*), or a downward-pointing red-and-white triangle (*Yield*). Miss even one out of the ten (`9/10`), and the terminal locks immediately and makes you come back tomorrow.
+"Ten for ten, Bear," she whispered.
 
-Sitting at Terminal 4 with Rachel right beside me at Terminal 5, I tapped through the ten sign questions methodically, verifying each shape and color before hitting *Confirm*.
-* `Question 10 of 10` $\rightarrow$ **`PASSED — 100% (10/10)`**.
+"Ten for ten, Bug," I whispered back.
 
-Out of the corner of my eye, I saw Rachel's screen flash green at almost the exact same second—she had gone **10-for-10 on the first try** too!
+The Virginia DMV's Part One traffic signs test was notorious for tripping up unprepared applicants because half the questions stripped away every word on the sign and displayed only a blank geometric shape and color. Sitting at Terminal Four with Rachel right beside me at Terminal Five, I focused on the glowing touchscreen, identifying the yellow pennant of a no-passing zone, the round yellow disc of an advance railroad crossing warning, the orange diamond of a temporary work zone, the red octagon of a stop sign, and the downward-pointing red-and-white triangle of a yield sign. If you missed even a single question and scored nine out of ten, the terminal locked on the spot and sent you home until the next business day.
 
-Without missing a beat, both of our screens unlocked **Part 2: General Knowledge (`30 Questions — 80% / 24 Correct Required`)**, covering Virginia right-of-way laws, yielding to pedestrians in crosswalks, stopping for school buses with flashing red lights on undivided highways versus median-divided boulevards, the 3- and 4-second following distance rules, and Virginia's statutory speed limits (`25 MPH` in business and residential zones; `55 MPH` on non-rural highways).
+I tapped my tenth answer and pressed confirm.
 
-Twelve minutes later, my screen flashed **`EXAM COMPLETE — PASSED`**, and thirty seconds after that, Rachel turned toward me with a huge, beaming grin as her screen flashed **`EXAM COMPLETE — PASSED`** on the very first attempt as well.
+The banner across the top of my screen flashed bright green: *Passed — 100% (10/10)*.
 
-We stood up from the booths, immediately laced our fingers back together, and walked back up to the counter where the clerk void-punched our old Non-Driver State IDs, snapped our new permit photos, and handed us our fresh paper temporary **Virginia Learner's Permits** to use while the hard plastic cards mailed out from Richmond.
+Out of the corner of my eye, I saw the monitor at Terminal Five flash the exact same shade of green a half-second later. Rachel glanced over the divider and flashed me a quick, silent thumbs-up. She had gone ten for ten on her first try too.
 
-"Two for two on the first try, Bug," I whispered, kissing the side of her temple as we stepped out into the warm June sunshine.
+Without missing a beat, both of our screens unlocked Part Two, the thirty-question General Knowledge exam requiring at least eighty percent—twenty-four correct answers—to pass. For the next twelve minutes, the alcove was quiet save for the soft tap of our fingertips against the glass as we worked through Virginia right-of-way rules, yielding to pedestrians in crosswalks, stopping for school buses with flashing red lights on undivided highways versus median-divided boulevards, maintaining three- and four-second following distances, and observing Virginia's statutory twenty-five-mile-per-hour business and residential speed limits and fifty-five-mile-per-hour non-rural highway limits.
+
+When I submitted my final question, my screen lit up with the completion banner confirming I had passed. Thirty seconds later, Rachel turned on her stool with a huge, beaming grin as her screen announced she had passed on the very first attempt as well.
+
+We stood up from the booths at the same time, immediately laced our fingers back together, and walked back to the service counter. The clerk void-punched our old Non-Driver State IDs, snapped our new permit portraits in front of the blue backdrop, and handed us our fresh paper temporary Virginia Learner's Permits to carry until the hard plastic cards arrived in the mail from Richmond.
+
+"Two for two on the first try, Bug," I whispered, kissing the side of her temple as we pushed back out through the glass doors into the warm June sunshine.
 
 "Now let's go learn how to drive, Bear," Rachel grinned.
 
@@ -30756,32 +30646,33 @@ We stood up from the booths, immediately laced our fingers back together, and wa
 
 #### 1:00 PM — The Dual-Control Sedan, Three Students Plus the Instructor, & Sibling Pairing
 
-In the Commonwealth of Virginia, an adult holding a Learner's Permit normally has to wait sixty days, log forty-five hours of supervised practice (`Form CSMA 19`), and schedule a formal road test with a state examiner at the DMV.
+A clean white four-door compact sedan pulled up to the curb in front of our house on Moosewood Drive right at one o'clock, the afternoon sunlight glinting off its yellow magnetic *STUDENT DRIVER* roof sign and the stamped Virginia license plates reading VA3-5558 on both its front and rear bumpers.
 
-Because **Mom (Ellen)** had enrolled Rachel and me in a DMV-certified Class B Driver Training School under Virginia's **Adult Behind-the-Wheel Waiver Program (`Va. Code § 46.2-324.1`)**, however, our path was much cleaner: by completing **`7` fifty-minute periods of in-car driving** and **`7` fifty-minute periods of in-car observation**, our driving school instructor would administer our official Virginia Road Skills Test himself on Session 7 and issue our road-test waiver certificates (`Form DTS-D`).
+Rachel squeezed my fingers as we walked down our front path toward the idling car. Normally, an adult holding a Virginia learner's permit had to wait sixty days, log forty-five hours of supervised practice on Form CSMA 19, and book a road test with a state examiner at the DMV. Because Mom had enrolled the two of us in a DMV-certified Class B Driver Training School under Virginia's Adult Behind-the-Wheel Waiver Program, Va. Code § 46.2-324.1, our route to a license was far more direct: once we completed seven fifty-minute periods of in-car driving and seven fifty-minute periods of in-car observation, our instructor would administer our official Virginia Road Skills Test himself on Session Seven and issue our road-test waiver certificates on Form DTS-D.
 
-At our Virginia Beach driving school, every Behind-the-Wheel session ran with **three students plus the instructor** in the car at all times, giving each student roughly an hour behind the steering wheel while the other two logged their observation hours from the back seat. Normally, the school's scheduling worked like a rolling relay: every hour on the hour, whoever was driving would pull up to a student's house to drop off the student whose rotation was finishing and pick up the next student on the manifest—meaning the car almost never had two students getting picked up or dropped off at the same address.
+Through the rear passenger window, I could already see the third student for today's rotation buckled into the back right seat behind the instructor. At our driving school, every session ran with three students plus the instructor in the car at all times, giving each learner roughly an hour behind the wheel while the other two logged their required observation hours from the back seat. For almost every other student on the manifest, that meant a rolling hourly relay across Virginia Beach—every hour on the hour, whoever was driving would pull up to a residential curb to drop off the student whose rotation was ending and pick up the next student on the schedule, so the car almost never had two people getting picked up or dropped off at the same address.
 
-**Rachel and I were the rare exception.** Because we lived under the same roof on **Moosewood Drive** and insisted on taking every single lesson side by side, the two of us permanently occupied two of the car's three student slots together—getting picked up together and dropped off together at our front curb—while the **third student slot** was filled by a rotating cast of fellow Virginia Beach learners across our seven sessions: both male and female, ranging from fifteen-and-a-half-year-old high schoolers holding their very first juvenile learner's permits to fellow adults learning to drive for the first time, whose houses we would drive to at the hour mark for pickups and drop-offs.
+Rachel and I were the rare exception. Because we lived under the same roof on Moosewood Drive and insisted on taking every single lesson together, the two of us permanently occupied two of the sedan's three student slots side by side—getting picked up together and dropped off together at our front curb—while the third student slot rotated across our seven sessions through a changing cast of fellow Virginia Beach learners, both male and female, ranging from fifteen-and-a-half-year-old high schoolers holding their very first juvenile learner's permits to fellow adults learning to drive for the first time.
 
-At `1:00 PM` on Tuesday, June 21, 2016, a clean white four-door compact training sedan—outfitted with Virginia license plates (`VA3-5558`) on both front and rear bumpers, a yellow magnetic **`STUDENT DRIVER`** sign on the roof, a **secondary instructor rearview mirror** mounted on the upper passenger side of the windshield beside the factory center mirror, and a steel **dual-control auxiliary brake pedal** mounted over the front passenger floorboard—pulled up to the curb in front of our house on **Moosewood Drive** with the third student for today's rotation already buckled into the rear passenger-side seat behind the instructor.
+Our instructor rolled down the front passenger window and greeted us with an easy, welcoming nod over his clipboard. "Afternoon, Michael and Rachel. Who's taking the wheel for the first hour?"
 
-Rachel and I walked down our front path holding hands, greeted our instructor, and decided that I would take the first driving hour while Rachel buckled into the **rear driver-side seat directly behind me**—putting her in the exact diagonal line of sight of the instructor's secondary rearview mirror while the third student observed from the rear passenger side.
+"I'll go first," I said, giving Rachel's hand a quick squeeze before we released our fingers at the B-pillar.
 
-Climbing into a driver's seat for the very first time in my life at twenty-eight years old, I ran through the pre-drive cockpit checklist our instructor walked me through:
-1. **Seat Position**: Sliding the seat forward until my newly healed right heel rested comfortably on the floorboard carpet directly between the brake and accelerator pedals, allowing my foot to pivot smoothly between both pedals without lifting my heel.
-2. **Mirrors**: Adjusting the center inside rearview mirror to frame the rear window and angling both power side mirrors outward to minimize the left and right blind spots.
-3. **Seatbelt & Controls**: Clicking my three-point seatbelt across my shoulder, verifying the gear selector was locked in **`P` (`Park`)** with the handbrake set, and placing my hands at **`9 and 3`** on the steering wheel.
+Rachel opened the rear driver-side door and buckled into the back left seat directly behind me, while I opened the front driver's door and climbed behind a steering wheel for the very first time in my life at twenty-eight years old. Looking up at the top of the windshield, I noticed the dual-mirror geometry right away: the factory center rearview mirror framed the rear window and reflected my own eyes, while a secondary instructor rearview mirror mounted beside it on the upper passenger side of the glass angled diagonally across the cabin, framing Rachel's smiling face in the rear driver-side seat right behind my shoulder. Over on the front passenger floorboard, a heavy steel dual-control auxiliary brake pedal sat linked by a cross-shaft to my own brake pedal.
 
-With my right foot pressing the service brake, I shifted into **`D` (`Drive`)**, released the parking brake, and eased my foot off the pedal to feel the car roll forward under idle creep along Moosewood Drive.
+"All right, Michael, let's build your cockpit from the ground up," the instructor said calmly, tapping his pen against his clipboard. "Slide your seat forward until your right heel rests comfortably on the carpet right between the brake and the gas, so you can pivot between both pedals without lifting your heel off the floor."
 
-For the first ten minutes, our instructor watched closely as I navigated the quiet `25 MPH` residential streets out of our neighborhood—coming to smooth, progressive stops behind the white stop lines without jerking the nose of the car, scanning left-right-left before turning, and keeping the sedan centered squarely between the lane markings.
+I pulled the lever beneath the seat cushion and slid forward a notch. Planting my healed right heel on the floorboard mat, I pivoted the ball of my foot from the wide rubber pad of the service brake over to the accelerator and back again. My lengthened Achilles tendon moved smoothly, without a hint of the old spastic resistance. Next, I adjusted the center inside rearview mirror to frame the back glass, angled both power side mirrors outward to trim down the left and right blind spots, clicked my three-point seatbelt across my chest, verified the gear selector was locked in Park with the handbrake set, and settled my hands at nine and three on the steering wheel rim.
 
-I fully expected our first session to stay tucked inside `25 MPH` subdivision streets or an empty shopping center parking lot.
+"How does that ankle feel?" the instructor asked.
 
-Instead, as we approached the traffic signal at the edge of the corridor, our instructor glanced at my steady hands on the wheel, noted how smoothly my right ankle was modulating the brake and throttle, and nodded toward the arterial intersection ahead.
+"Solid," I said, pressing my right foot onto the service brake, shifting the lever into Drive, and releasing the parking brake.
 
-"Your pedal control and lane tracking are really natural, Michael," the instructor said calmly. "Let's take a right onto **Ferrell Parkway** and bring her up to road speed."
+I eased my foot upward off the brake pedal and felt the sedan roll smoothly forward under idle creep along the warm asphalt of Moosewood Drive. For the first ten minutes, our instructor watched quietly as I guided the car through the twenty-five-mile-per-hour residential streets of our neighborhood, feathering the brake pressure right before the car came to rest behind each white stop line so the nose never dipped or jerked, scanning left-right-left at every cross street, and keeping the hood centered cleanly between the curb and the centerline.
+
+I fully expected our first day to stay tucked inside quiet subdivision streets or an empty shopping center lot. Instead, as we rolled up to the traffic signal at the edge of the arterial corridor, our instructor glanced from my steady hands at nine and three down to how smoothly my right ankle was modulating the pedals.
+
+"Your pedal control and lane tracking are really natural, Michael," he said, nodding toward the wide multi-lane intersection ahead. "When the light turns green, let's take a right onto Ferrell Parkway and bring her up to road speed."
 
 ![Michael driving at 55 MPH on Ferrell Parkway merging with Princess Anne Road at the Salem Road interchange during his very first Behind-the-Wheel session while Rachel observes from the back seat]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_ferrell_pkwy_55mph_first_session.jpg)
 
@@ -30789,39 +30680,31 @@ Instead, as we approached the traffic signal at the edge of the corridor, our in
 
 #### 1:20 PM — Hitting 55 MPH on Ferrell Parkway & The Princess Anne / Salem Road Merge
 
-In the back seat directly behind me, I caught Rachel's eyes reflected in the instructor's secondary rearview mirror widening with an excited grin as I signaled right, checked my mirrors and blind spot, and turned the training sedan out onto **Ferrell Parkway** (`State Route 225`).
+In the secondary instructor mirror beside the sun visor, I caught Rachel's eyes widening with an excited grin from the back seat directly behind me as I clicked the right turn signal, checked my mirrors and blind spot, and turned the training sedan out onto Ferrell Parkway, State Route 225.
 
-Anyone who knows Virginia Beach geography knows that **Ferrell Parkway** is no sleepy `25 MPH` subdivision street. Even though it is a tree-lined parkway framed closely on both sides by dense woods and metal W-beam guardrails, the moment you clear the intersection, a black-and-white regulatory sign on the shoulder announces the real-world pace of the corridor:
+Even though Ferrell Parkway was closely framed on both sides by dense walls of green summer trees and steel W-beam guardrails, it was no sleepy neighborhood boulevard. The moment I straightened the wheel out of the turn, a tall black-and-white regulatory sign flashed past on the right shoulder reading *SPEED LIMIT 55*.
 
-```
-SPEED
-LIMIT
- 55
-```
+"Go ahead and bring it all the way up to the posted limit, Michael," the instructor encouraged, his right shoe resting flat on the passenger floorboard well clear of the auxiliary brake pedal. "Keep your eyes looking twelve to fifteen seconds down the roadway, hold your hands steady at nine and three, and let the car settle into fifty-five miles per hour."
 
-"Go ahead and bring it all the way up to the posted limit, Michael," the instructor encouraged, his right foot resting flat on the floorboard well clear of the auxiliary instructor brake. "Keep your eyes looking twelve to fifteen seconds down the roadway, hold your hands steady at nine and three, and let the car settle into **`55 MPH`**."
+I pivoted my right foot onto the accelerator and pressed down in one smooth, continuous squeeze.
 
-I pivoted my healed right ankle onto the accelerator and pressed down smoothly.
+The four-cylinder engine hummed as the speedometer needle swept past thirty-five, forty-five, fifty, and settled dead on fifty-five miles per hour during my very first Behind-the-Wheel session in charge of a car. A surge of pure, focused adrenaline tingled through my chest. At fifty-five miles per hour, the physics of steering changed completely: there were no big arm movements, just a millimeter of fingertip pressure at nine and three guiding the sedan down the center of the lane while the tires sang over the sunlit Virginia Beach asphalt beneath the first overhead aluminum box-truss gantry—where green highway panels announced *Lynnhaven Pkwy East — LEFT EXIT 1/2 MILE* over the left lane and an unnumbered *North / Princess Anne Rd / Salem Rd — EXIT 1/2 MILE* panel over the right.
 
-Watching the speedometer needle climb past `35`... `45`... `50`... and settle dead on **`55 MPH`** during my **very first Behind-the-Wheel session in charge of a car** was an unforgettable rush. At fifty-five miles per hour, the physics of driving change completely: you don't turn the steering wheel with big arm movements—just a millimeter of fingertip pressure at `9 and 3` guides the car cleanly between the lane markings while the tires hum over the Virginia Beach asphalt beneath the first overhead aluminum box-truss sign gantry (`Lynnhaven Pkwy East — LEFT EXIT 1/2 MILE` and the unnumbered `North / Princess Anne Rd / Salem Rd — EXIT 1/2 MILE` panel).
+Seconds later, the tree-lined corridor curved gently to the right and widened into the main interchange split. Ahead of the windshield, the second overhead aluminum truss gantry spanned all lanes with three unnumbered green directional signs: *Lynnhaven Pkwy East — EXIT ONLY* above the far-left exit lane and its yellow crash barrels, *Ferrell Parkway / Princess Anne Rd East* with two downward arrows over the center through-lanes, and the unnumbered *North / Princess Anne Rd / Salem Rd* exit ramp peeling off to the right.
 
-And seconds later came the best part of the corridor.
+"Check your left mirror, quick glance over your left shoulder for your blind spot—remember S.M.O.G., Signal, Mirror, Over-the-shoulder, Go—and merge smoothly with the Princess Anne traffic flow at fifty-five," the instructor guided.
 
-As the tree-lined parkway curved gently to the right and widened for the split, the second overhead aluminum truss gantry spanned the lanes ahead with three unnumbered green directional signs: **`Lynnhaven Pkwy East — EXIT ONLY`** above the left lane and yellow crash barrels, **`Ferrell Parkway / Princess Anne Rd East`** with two downward arrows over the center through-lanes, and the unnumbered **`North / Princess Anne Rd / Salem Rd`** exit ramp peeling off to the right. For a brand-new student driver on Session One, navigating `55 MPH` parkway traffic beneath full overhead directional gantries felt like a true rite of passage.
+I clicked the left turn signal, checked my center mirror, checked my left side mirror, made a crisp over-the-shoulder check past the B-pillar, and glided the sedan seamlessly across the dashed white line into the through-lanes at a steady fifty-five miles per hour without touching the brakes or drifting an inch off center.
 
-"Check your left mirror, quick glance over your left shoulder for your blind spot—**`S.M.O.G.`**: *Signal, Mirror, Over-the-shoulder, Go*—and merge smoothly with the Princess Anne traffic flow at fifty-five," the instructor guided.
+"Textbook highway merge on Day One!" the instructor smiled, jotting a clean checkmark onto his clipboard. "How did fifty-five miles per hour feel?"
 
-I clicked the left turn signal, checked my inside mirror, checked my left side mirror, made a crisp over-the-shoulder blind-spot check past the B-pillar, and glided the sedan seamlessly through the merge at a steady **`55 MPH`** without touching the brakes or drifting an inch out of alignment.
+"Incredible," I breathed, glancing up to catch Rachel beaming from ear to ear in the back seat.
 
-"Text-book highway merge on Day One!" the instructor smiled, jotting a checkmark onto his clipboard. "How did fifty-five miles per hour feel?"
+When my fifty-minute driving block wrapped up at the top of the hour and we pulled up to a residential curb to rotate our third student slot and switch drivers, I shifted the selector into Park, set the handbrake, and stepped out into the afternoon breeze just as Rachel stepped out of the rear driver-side door right behind me. We met beside the center pillar and squeezed each other's hands.
 
-"Incredible," I breathed, glancing up toward the secondary instructor mirror where Rachel was beaming from ear to ear from the rear driver-side seat directly behind me.
+"Fifty-five on Ferrell Parkway is all yours, Bug," I whispered, sliding into the rear driver-side seat for my observation hour while our next third student climbed into the back right seat.
 
-At the end of my first hour behind the wheel, when we pulled up to the curb to switch drivers and rotate the third student slot, I shifted into **`P` (`Park`)**, stepped out of the driver's door as Rachel stepped out of the rear driver-side door right behind me, and gave her hand a tight, warm squeeze as we traded places beside the B-pillar.
-
-"Fifty-five on Ferrell Parkway is all yours, Bug," I whispered, climbing into the back seat behind her for my observation block while our next third student buckled into the rear passenger side.
-
-"Watch and learn, Bear," Rachel whispered back, sliding into the driver's seat, adjusting the seat and mirrors for her frame, and taking her own first-day run right up to **`55 MPH`** along Ferrell Parkway like she had been driving her whole life.
+"Watch and learn, Bear," Rachel whispered back, slipping behind the wheel, adjusting the seat and mirrors for her frame, and taking her own first-day run right up to fifty-five miles per hour along Ferrell Parkway like she had been driving her entire life.
 
 ## The 45 MPH Curves & Passing the Road Test on the First Try
 
@@ -30833,23 +30716,21 @@ At the end of my first hour behind the wheel, when we pulled up to the curb to s
 
 #### 2:00 PM — Trusting the Geometry at 45 MPH: Kempsville Road & Lynnhaven Parkway
 
-Because our very first Behind-the-Wheel session had already introduced **Rachel** and me to `55 MPH` parkway merging where **Ferrell Parkway** meets **Princess Anne Road** and the **Salem Road** exit ramps—and because every hour on the hour our 3-student training car routed us to a different Virginia Beach neighborhood to pick up or drop off the rotating third student in our car (a changing mix of fifteen-year-old high schoolers and fellow adults, both male and female)—our driving school routes across June and July 2016 covered some of the best real-world vehicle-handling classrooms in the city.
+The white training sedan hummed north along Kempsville Road as the multi-lane corridor approached the river crossing between Kemps River Drive and Stratford Chase Drive, where the asphalt bent into a long, pronounced curve with afternoon traffic running right alongside our left fender.
 
-In particular, our driving course regularly routed both of us through two stretches of multi-lane Virginia Beach roadway notorious for their sweeping curves:
-1. **Kempsville Road between Kemps River Drive and Stratford Chase Drive**, where the busy multi-lane corridor bends through a pronounced curve right past the river crossing; and
-2. **Lynnhaven Parkway between South Rosemont Road and Holland Road**, where the divided multi-lane parkway sweeps through long, curving arcs with traffic running right alongside you in the adjacent lane.
+"Look at the regulatory sign on the shoulder, Michael—*SPEED LIMIT 45*," our instructor said from the front passenger seat, tapping his finger lightly against the edge of his clipboard as the bend opened ahead of the windshield. "A lot of new drivers see a curve like this with cars in the next lane, stare straight down at the painted line in front of the hood, and stab at the brake pedal halfway through the turn. That upsets the car's weight balance and makes the steering jerk."
 
-To an inexperienced driver, approaching either of those curves with cars beside you can look intimidating—tempting nervous drivers to stare straight down at the painted lane line right in front of the hood or stab at the brake pedal halfway through the turn, which upsets the car's weight balance and makes the steering feel jerky.
+In the rear driver-side seat directly behind me, Rachel leaned forward slightly to watch my hands at nine and three, while the rotating third student for our afternoon block—a sixteen-year-old high schooler we had picked up twenty minutes earlier on our hourly relay circuit—watched quietly from the rear passenger side.
 
-Right before we entered the curve on **Kempsville Road** between **Kemps River Drive** and **Stratford Chase Drive**—and again when we swept onto **Lynnhaven Parkway** between **South Rosemont Road** and **Holland Road**—our instructor taught Rachel and me the golden rule of roadway geometry:
+"The civil engineers designed the radius and banking of this curve on Kempsville Road between Kemps River Drive and Stratford Chase Drive—just like the sweeping curves over on Lynnhaven Parkway between South Rosemont Road and Holland Road—specifically for forty-five miles per hour," the instructor continued evenly. "If you are doing the posted speed limit of forty-five, you don't need to panic-brake in the bend. Keep your eyes looking far ahead through the exit of the curve where you want the car to go, hold a smooth, steady forty-five on the throttle, and let your hands guide the wheel."
 
-"Look at the speed limit sign, Michael: **`SPEED LIMIT 45`**," he said as we approached the bend. "The civil engineers designed the radius and banking of these curves on Kempsville Road and Lynnhaven Parkway specifically for **forty-five miles per hour**. If you're doing the posted speed limit of `45 MPH`, you don't need to panic-brake in the curve. Keep your eyes looking far ahead through the exit of the bend where you want the car to go, hold a smooth, steady `45 MPH` on the throttle, and let your hands guide the wheel."
+I lifted my gaze past the hood to the far apex of the bend beyond the river bridge and held my right foot steady on the accelerator. With the speedometer needle resting dead on forty-five miles per hour, the training sedan planted its tires cleanly into the subtle banking of the asphalt and tracked between the dashed white lane lines as smoothly as if it were riding on steel rails.
 
-Sure enough, holding the speedometer steady right at **`45 MPH`** with my eyes tracking through the far apex of the curve—first between **Kemps River Drive** and **Stratford Chase Drive** on **Kempsville Road**, and then along the sweeping arcs of **Lynnhaven Parkway** between **South Rosemont Road** and **Holland Road**—the training sedan planted its tires cleanly into the turn and tracked between the white dashed lines like it was riding on steel rails.
+Ten minutes later, when our route turned onto Lynnhaven Parkway between South Rosemont Road and Holland Road, those long, sweeping multi-lane arcs opened up ahead of us. Keeping my eyes fixed twelve seconds down the curving parkway and my ankle relaxed on the throttle at forty-five miles per hour, I guided the car through every arc without a single mid-corner brake tap or steering correction.
 
-When Rachel took the wheel for her fifty-minute half of the route and glided through those exact same `45 MPH` curves on **Lynnhaven Parkway** and **Kempsville Road** without a single mid-corner brake tap or steering wobble, the instructor grinned from the passenger seat:
+When we pulled over at the hour mark to drop off our third student, pick up the next adult learner on the manifest, and swap seats beside the B-pillar, Rachel slid behind the wheel and drove those exact same forty-five-mile-per-hour curves on Lynnhaven Parkway and Kempsville Road with effortless, unhurried precision.
 
-"Most new drivers fight the wheel on those two curves," he said. "You two drive them smoother than people who have had a license for twenty years."
+"Most new drivers fight the wheel on those two stretches," our instructor smiled, shaking his head in admiration as Rachel glided out of the Kempsville bend. "You two drive them smoother than people who have had a license for twenty years."
 
 ![Michael and Rachel holding hands beside the STUDENT DRIVER training sedan as their instructor hands them their signed Behind-the-Wheel Road Test Waiver certificates after both pass on the first try]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jul_2016_kempsville_lynnhaven_curves_and_road_test_pass.jpg)
 
@@ -30857,23 +30738,23 @@ When Rachel took the wheel for her fifty-minute half of the route and glided thr
 
 #### 3:45 PM — Passing the Road Test on the First Try & Going on Mom's Insurance
 
-By Tuesday afternoon, July 19, 2016, Rachel and I had completed all six of our instructional driving and observation sessions—mastering `90-degree` perpendicular parking, `45-degree` angle parking, straight-line backing, 3-point turnabouts, interstate merging on **`I-264`**, the `55 MPH` Ferrell Parkway / Princess Anne Road / Salem Road interchange, and the `45 MPH` curves on Kempsville Road and Lynnhaven Parkway.
+By the time Rachel and I had finished our sixth instructional driving and observation block—having drilled ninety-degree perpendicular parking, forty-five-degree angle parking, straight-line backing, three-point turnabouts, interstate merging on I-264, the fifty-five-mile-per-hour Ferrell Parkway and Princess Anne Road interchange at Salem Road, and the forty-five-mile-per-hour curves on Kempsville Road and Lynnhaven Parkway—Session Seven arrived: our official Commonwealth of Virginia In-Car Road Skills Test.
 
-That meant **Session 7** was our official **Commonwealth of Virginia In-Car Road Skills Test**.
+For fifty minutes while I drove the first test route, and then for fifty minutes while Rachel drove the second test route right after me, the cabin was completely quiet except for our instructor's turn-by-turn directions. Sitting in the front passenger seat with his official DMV evaluation rubric clipped to his board, he graded every pre-drive mirror check, every smooth stop behind a white line, every S.M.O.G. blind-spot check, every curve along Lynnhaven Parkway and Kempsville Road, every highway merge, and every parking maneuver.
 
-For fifty minutes while I drove first, and then for fifty minutes while Rachel drove second, our instructor sat quietly in the passenger seat with his official DMV evaluation rubric on his clipboard—grading every pre-drive mirror check, every complete stop behind a white line, every **`S.M.O.G.`** blind-spot check, every curve on Lynnhaven Parkway and Kempsville Road, every highway merge, and every parking maneuver.
+Not once during my fifty-minute examination, nor once during Rachel's fifty-minute examination after mine, did his right shoe ever move toward the auxiliary passenger brake pedal.
 
-Not once during my fifty-minute test—or during Rachel's fifty-minute test right after mine—did his right foot ever touch the auxiliary passenger brake pedal.
+At a quarter to four, Rachel backed the white training sedan with its VA3-5558 plates cleanly between the painted lines of our final parking space, shifted into Park, and set the handbrake.
 
-When Rachel backed the white training sedan cleanly into the final parking space back at our starting point and shifted into **`P` (`Park`)**, our instructor clicked his pen, signed his name and instructor certification number across the bottom of two official **Adult Behind-the-Wheel Completion & Road Test Waiver Certificates (`Form DTS-D`)**, and turned around in his seat with a broad smile.
+Our instructor clicked his pen, signed his full name and state instructor certification number across the bottom of two embossed Adult Behind-the-Wheel Completion and Road Test Waiver Certificates on Form DTS-D, and turned around in his seat with a broad smile.
 
-"Congratulations, Michael and Rachel," he said, handing us our signed embossed certificates as we stepped out beside the car and laced our fingers together. "You both passed your Virginia Road Skills Test **on the very first try**!"
+"Congratulations, Michael and Rachel," he said, handing us the signed certificates as we stepped out onto the warm pavement beside the car and immediately laced our fingers together. "You both passed your Virginia Road Skills Test on the very first try."
 
-Before the DMV Customer Service Center closed at `5:00 PM`, Rachel and I took our signed `DTS-D` waiver certificates straight back to the counter where we had passed our knowledge exams on the first try five weeks earlier. Handing over our Learner's Permits and our road test waivers, we had our permanent **Virginia Driver's Licenses** (`Class D`, `Restriction B — Corrective Lenses`) issued on the spot—starting our official Virginia DMV driving records at **`0` demerit points** on our way to building `+1` **Safe Driving Point** every clean year (`Va. Code § 46.2-494`).
+With an hour to spare before the Virginia Beach DMV Customer Service Center closed at five o'clock, Rachel and I went straight back to the same counter where we had passed our knowledge exams on the first try five weeks earlier. Handing over our Learner's Permits and our signed Form DTS-D road test waivers, we had our permanent Class D Virginia Driver's Licenses—with Restriction B for corrective lenses—issued on the spot, starting our official Virginia DMV driving records at zero demerit points on our way to earning one positive Safe Driving Point for every clean calendar year under Va. Code § 46.2-494.
 
-That evening back at our house on **Moosewood Drive**, while **Ashley**, **Kristin**, and **Jessica** celebrated with us around the kitchen island, **Mom (Ellen)** called her auto insurance company and added both newly licensed adult kids—**Michael (`Age 28`)** and **Rachel (`Age 26`)**—as listed insured drivers on the policy for her silver sedan.
+Back home on Moosewood Drive that evening, while Ashley, Kristin, and Jessica crowded around the kitchen island to celebrate and inspect our temporary license slips, Mom picked up her phone, called her auto insurance carrier, and added both of her newly licensed adult kids—Michael at twenty-eight and Rachel at twenty-six—as listed insured drivers on the policy for her silver sedan.
 
-While Rachel and I still mostly rode the **CVTA** bus or caught rides with Ashley for our everyday errands around Virginia Beach and Norfolk, having our full Virginia Driver's Licenses in our wallets and being continuously insured on Mom's policy meant that whenever we wanted to borrow Mom's car—whether for a grocery run or [a Thanksgiving road trip up to the Shenandoah Valley to visit our friend Terry in Luray](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/thanksgiving-in-the-page-valley-u-s-route-211-dinner-with-terry-the-single-queen-sanctuary/borrowing-mom-s-car-thanksgiving-with-terry-in-luray-the-single-queen-bed-on-us-211)—the open road was officially ours.
+Even though Rachel and I still rode the CVTA bus or caught rides with Ashley for most of our everyday errands around Virginia Beach and Norfolk, having our full Virginia driver's licenses in our wallets and continuous insurance coverage on Mom's policy meant that whenever we wanted to borrow Mom's car—whether for a quick evening run across town or [a Thanksgiving road trip up to the Shenandoah Valley to visit our friend Terry in Luray](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/thanksgiving-in-the-page-valley-u-s-route-211-dinner-with-terry-the-single-queen-sanctuary/borrowing-mom-s-car-thanksgiving-with-terry-in-luray-the-single-queen-bed-on-us-211)—the open road was officially ours.
 
 # Thanksgiving in Luray & The Court Square Crosswalk (November 2017)
 
@@ -30887,42 +30768,35 @@ While Rachel and I still mostly rode the **CVTA** bus or caught rides with Ashle
 
 #### 2:30 PM — Borrowing Mom's Car & Thanksgiving with Terry in Luray
 
-Back in [**Summer 2016**](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-1-ellen-s-gift-upgrading-from-state-ids-passing-the-dmv-knowledge-test-on-the-first-try), after my bilateral Achilles heel cord lengthening surgery had fully healed, **Mom (`Ellen`)** had paid for **Rachel** and me to take [adult **Behind-the-Wheel** driving lessons](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-2-session-one-fifty-five-miles-per-hour-on-ferrell-parkway) so both of us could finally earn our **Virginia Driver's Licenses**—and [the day we passed our road tests on the first try](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-45-mph-curves-passing-the-road-test-on-the-first-try/45-mph-on-the-kempsville-lynnhaven-curves-passing-the-road-test-on-the-first-try), Mom added both of us as listed drivers on her auto insurance policy so we were allowed to borrow her car.
+Crisp November mountain air rushed into our lungs as Rachel and I stepped out of Mom's borrowed silver sedan in Luray, Virginia, with the blue-grey ridgelines of the Blue Ridge Mountains and Massanutten Mountain framing the Page Valley on either side of us.
 
-At our family home on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, **Ashley** was the only one of the five of us who owned a car of her own (since **Jessica** was medically prohibited from driving and held a Virginia State ID, and **Kristin** also held a Virginia State ID and preferred taking the **CVTA** bus or getting rides with Ashley simply because she didn't like to drive). For everyday errands around Hampton Roads when Ashley was at work, Rachel and I still rode the bus—but whenever we had a special out-of-town trip, Mom happily lent us her car.
+I lifted a pair of white bakery boxes from the back seat while Rachel reached for my free hand, lacing her fingers tightly through mine as we started up the front walk toward our friend Terry's porch. Ever since [we had upgraded our State IDs at the Virginia Beach DMV](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-1-ellen-s-gift-upgrading-from-state-ids-passing-the-dmv-knowledge-test-on-the-first-try), completed [our Adult Behind-the-Wheel lessons](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-2-session-one-fifty-five-miles-per-hour-on-ferrell-parkway), and [passed our road tests on the first try to go onto Mom's auto insurance policy](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-45-mph-curves-passing-the-road-test-on-the-first-try/45-mph-on-the-kempsville-lynnhaven-curves-passing-the-road-test-on-the-first-try), Mom had happily lent us her car whenever we wanted to take an out-of-town trip away from our home on [Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture). We had left Virginia Beach early that Thanksgiving Thursday morning, trading off behind the steering wheel along Interstate 64 West past Richmond and Charlottesville, turning north up Interstate 81 to New Market, and climbing the winding switchbacks of U.S. Route 211 East over New Market Gap before descending into the sunlit valley floor.
 
-And for **Thanksgiving Weekend 2017**, Rachel and I had a road trip we had been looking forward to all autumn: driving up to **Luray, Virginia**, nestled in the Page Valley between the Blue Ridge Mountains and Massanutten Mountain, to spend Thanksgiving with our friend **Terry**.
+Before we even reached the top step, the front door swung open and the warm, savory aroma of roasting turkey, sage stuffing, and spiced apple cider spilled out across the porch.
 
-Leaving Virginia Beach early Thursday morning in Mom's car—trading off behind the wheel on **Interstate 64 West** past Richmond and Charlottesville, heading north on **Interstate 81** to New Market, and climbing **U.S. Route 211 East (`US-211`)** over the winding switchbacks of Massanutten Mountain at New Market Gap—Rachel and I rolled into **Luray** under crisp, sunlit November skies.
+"You two made great time!" Terry beamed, stepping out to pull first Rachel and then me into a warm holiday hug. "How was the climb over 211?"
 
-Walking up **Terry's** front walk at **`2:30 PM`** carrying a pair of fresh bakery pies from Virginia Beach, **Rachel and I held hands with our fingers laced together** the way we do everywhere we go.
+"Smooth sailing the whole way," I smiled, setting the two Virginia Beach bakery pies on the entry table before lacing my fingers right back through Rachel's hand. "Zero holiday backups on 64 or 81, and the view coming down New Market Gap into the valley was incredible."
 
-"You two made great time!" Terry beamed, swinging her front door open as the warm scent of roasting turkey, sage stuffing, and spiced apple cider spilled out onto the porch. "How was the climb over `211`?"
-
-"Smooth sailing the whole way," I smiled as Terry pulled first Rachel and then me into a warm holiday hug. "Zero holiday backups on `64` or `81`, and the view coming down New Market Gap into the valley was incredible."
-
-For the next six hours, the three of us had the kind of low-sensory, relaxed Thanksgiving that Rachel's and my nervous systems thrive on: sitting around Terry's dining table eating turkey, mashed potatoes, stuffing, and pie; laughing over old stories; and taking a late-afternoon walk through downtown Luray along the Hawksbill Creek greenway while the late November sun dropped behind the silhouette of the Blue Ridge.
+For the next six hours, the three of us shared the exact kind of quiet, low-sensory Thanksgiving afternoon that Rachel's and my nervous systems thrived on. We sat around Terry's dining room table over plates of roast turkey, mashed potatoes, herb stuffing, and pie, trading stories and laughing until the late afternoon light turned golden across the hardwood floor. Before dusk settled over the valley, we bundled into our jackets and walked together along the Hawksbill Creek greenway through downtown Luray, watching the late November sun drop behind the dark silhouette of the Blue Ridge.
 
 ***
 
-#### 9:30 PM — The Chain Motel on `US-211` & One Queen Bed
+#### 9:30 PM — The Chain Motel on US-211 & One Queen Bed
 
-By **`9:30 PM`**, after helping Terry load the dishwasher and promising to meet her on Friday morning to explore Luray, Rachel and I drove five minutes down **U.S. Route 211** to the roadside chain motel where we had booked our room for Thursday, Friday, and Saturday nights.
+At half-past nine that night, after helping Terry load the last of the dishes into the dishwasher and promising to meet her again on Friday morning, Rachel and I drove five minutes down U.S. Route 211 to the quiet roadside chain motel where we had reserved our room for the long Thanksgiving weekend.
 
-Back in [**February 2016** at `SAACURC` in Blacksburg](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly), when our university delegation advisor had booked our room block at *The Hotel at Poly*, the hotel had placed us in a two-queen ADA room where we rotated beds each night so housekeeping wouldn't ask questions.
+When our university delegation advisor had booked our hotel block in Blacksburg for [the 2016 SAACURC conference](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly), the conference organizers had assigned us a two-queen room where we rotated beds each night so housekeeping would never ask questions. When Rachel and I booked a motel room for ourselves on our own dime, however, we never booked two beds.
 
-When **Rachel and I** book a motel room for ourselves on our own dime, however, we don't book two beds.
+We booked a ground-floor room with a single Queen bed.
 
-We booked a room with a **single Queen bed**.
+At thirty and twenty-eight years old, after everything the two of us had survived together since [Delaney Street](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement), neither Rachel nor I cared one bit what the outside world considered proper. We only cared about our sanctuary and each other.
 
-By thirty and twenty-eight years old, after everything the two of us had survived together since [Delaney Street](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement), neither Rachel nor I cared one bit about what the outside world considered "proper." We just wanted each other.
+The moment I clicked the deadbolt and flipped the brass security latch across the door, our motel room off U.S. Route 211 operated by the exact same unbroken baseline we lived by at home. Under our [open-door policy](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts), the bathroom door stayed propped wide open as we washed up and brushed our teeth so neither of us ever lost our visual or acoustic line of sight. Between Bear and Bug, there was zero privacy and zero need to ever turn away from each other while getting ready for bed.
 
-Stepping inside our ground-floor room off `US-211` and flipping the deadbolt and security latch into place, we settled straight into the same unbroken baseline we live by at home:
-* **The [Open-Door Policy](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts):** Even in a motel room away from home, the bathroom door stayed propped wide open so neither of us ever lost our visual or acoustic line of sight.
-* **Zero Privacy & Zero Distance:** Between Bear and Bug, there is no privacy and zero need to ever turn away from each other while getting ready for bed.
-* **Skin-to-Skin Grounding:** And just as we had done every night for years, we climbed into that single Queen bed together to sleep **skin-to-skin**, pulling the heavy motel comforter and blankets up over our shoulders against the crisp thirty-degree mountain night outside.
+Outside the window, the Page Valley temperature dipped into the crisp twenties, and we climbed beneath the heavy motel comforter and blankets to sleep skin-to-skin in the center of the single Queen mattress, letting the continuous warmth and deep pressure quiet our minds after the long highway drive.
 
-As Rachel tucked her head beneath my chin with her chest pressed warm against mine and our legs tangled together in the quiet dark off `US-211`, my heart rate slowed to a calm, steady beat.
+Rachel tucked her head beneath my chin with her chest pressed warm against mine and our legs tangled together in the quiet dark. Almost immediately, my heart rate settled into a slow, steady rhythm.
 
 "Happy Thanksgiving, Bear," Rachel whispered against my collarbone.
 
@@ -30936,93 +30810,77 @@ As Rachel tucked her head beneath my chin with her chest pressed warm against mi
 
 ![At Court Square in Downtown Harrisonburg where US-33 meets US-11 beside the historic courthouse, a Rockingham County Sheriff's Deputy with flashing blue lights takes a statement from two grateful crosswalk pedestrians and Michael and Rachel behind Ellen's rear-ended car while the panicked at-fault driver stands nearby]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_harrisonburg_courthouse_crosswalk_deputy.jpg)
 
-#### 1:15 PM — The VDOT Message Board (`Milepost 244`) & Taking `Exit 251`
+#### 1:15 PM — The VDOT Message Board (Milepost 244) & Taking Exit 251
 
-On the **Sunday after Thanksgiving—November 26, 2017**—**Rachel** and I checked out of our motel on `US-211`, met **Terry** for one last warm goodbye hug over coffee and pancakes in Luray, and loaded our weekend bags into the trunk of **Mom (`Ellen`)'s** car for the drive back to Virginia Beach.
+Red brake lights flared across both southbound lanes of Interstate 81 ahead of our windshield as Sunday post-Thanksgiving traffic stacked up between the rolling pastures of Rockingham County.
 
-I took the driver's seat for the first leg down the Shenandoah Valley while Rachel rode shotgun, her left hand resting across the center console with her fingers laced through my right hand whenever I didn't need both hands on the wheel for the mountain curves.
+Rachel and I had checked out of our motel on U.S. Route 211 earlier that morning, shared one last warm hug over coffee and pancakes with Terry in Luray, and climbed back over Massanutten Mountain to merge onto I-81 South at New Market for the drive home to Virginia Beach. I had the wheel for the Shenandoah Valley leg while Rachel rode shotgun, her left hand resting across the center console with her fingers laced loosely through my right hand now that we were out of the mountain switchbacks.
 
-Climbing west out of the Page Valley on **U.S. Route 211** over Massanutten Mountain, we merged smoothly onto **Interstate 81 South (`I-81 South`)** at New Market, planning to cruise straight down `I-81 South` to **`I-64 East`** at Staunton and take `I-64` all the way home to Hampton Roads.
+Just north of Harrisonburg, an overhead amber LED message board maintained by the Virginia Department of Transportation flashed in bright block letters above the highway: *CRASH AHEAD I-81 SOUTH AT MILEPOST 244 — EXPECT MAJOR DELAYS*.
 
-Because it was the Sunday afternoon after Thanksgiving, `I-81 South` was packed with holiday travelers and eighteen-wheelers rolling through Rockingham County.
+My internal route map immediately calculated the parallel bypass through town.
 
-Just north of **Harrisonburg**, an overhead amber LED **VDOT (`Virginia Department of Transportation`)** highway message board flashed across the southbound lanes:
+"Milepost 244 is right in the middle of the Harrisonburg stretch," I told Rachel, nodding toward the sea of glowing red taillights tightening on the horizon ahead of the semi-trucks. "If we bail off right here at Exit 251, we can hang a left onto southbound U.S. Route 11, cruise straight down Main Street through Harrisonburg parallel to the interstate, and hop right back onto I-81 South past the wreck."
 
-```
-CRASH AHEAD I-81 SOUTH
-AT MILEPOST 244
-EXPECT MAJOR DELAYS
-```
+"Smart call, Bear," Rachel agreed, checking the right-hand mirror as I clicked the turn signal. "Beats sitting in dead-stopped interstate traffic for an hour."
 
-My internal route map immediately calculated the bypass.
-
-"Milepost `244` is right in the middle of the Harrisonburg stretch," I told Rachel, glancing at the navigation map as brake lights began stacking up on the horizon ahead of us. "If we bail off right here at **`Exit 251`**, we can hang a left onto **southbound U.S. Route 11 (`US-11`)**, cruise straight down Main Street through Harrisonburg parallel to the interstate, and hop right back onto `I-81 South` past the wreck."
-
-"Smart call, Bear," Rachel agreed, checking the right-hand mirror for me. "Beats sitting in dead-stopped interstate traffic for an hour."
-
-I hit my turn signal, glided up the off-ramp at **`Exit 251`**, and hung a smooth **left turn onto southbound `U.S. Route 11` (`North Main Street`)** heading toward **Downtown Harrisonburg**.
+I eased Mom's silver sedan onto the Exit 251 off-ramp, came to a smooth stop at the top of the ramp, and made a clean left turn onto southbound U.S. Route 11, North Main Street, heading toward Downtown Harrisonburg.
 
 ***
 
-#### 1:32 PM — Circling the One-Way Courthouse Square (`US-11` & `US-33` — `25 MPH`)
+#### 1:32 PM — Circling the One-Way Courthouse Square (US-11 & US-33 — 25 MPH)
 
-Cruising south on **`US-11` (`Main Street`)** into the historic center of **Downtown Harrisonburg**, the street narrowed into a brick-lined downtown district where the posted speed limit dropped to **`25 MPH`**.
+As North Main Street carried us into the historic heart of Downtown Harrisonburg, the brick storefronts closed in on either side of the roadway and the posted speed limit dropped to twenty-five miles per hour.
 
-Right ahead of us rose the ornate limestone clock tower of the **Rockingham County Courthouse** at **Court Square**.
+Directly ahead of us rose the ornate limestone clock tower of the historic Rockingham County Courthouse at Court Square. In the center of town, U.S. Route 11 on Main Street and U.S. Route 33 on Market Street met and split into one-way lanes circling counter-clockwise around all four sides of the courthouse lawn like a square roundabout. To stay on southbound U.S. Route 11, traffic followed the one-way flow around the back of the courthouse before straightening out onto South Main Street.
 
-In Downtown Harrisonburg, **U.S. Route 11 (`Main Street`)** and **U.S. Route 33 (`Market Street`)** meet and split into **one-way streets that circle counter-clockwise around all four sides of the Courthouse**—functioning as a one-way square roundabout with the Courthouse standing in the middle. To stay on **southbound `US-11`**, you follow the one-way lanes circling around behind the Courthouse before exiting onto South Main Street.
+Guiding Mom's car around the counter-clockwise courthouse loop at twenty miles per hour, I scanned the brick sidewalk ahead and spotted two pedestrians standing at the curb waiting to cross at the painted white crosswalk stripes.
 
-Following the one-way flow around the back of the Courthouse at twenty miles an hour to stay on southbound **`US-11`**, I spotted **two pedestrians** standing at the curb waiting to cross at the marked crosswalk.
+I pivoted my right foot smoothly onto the service brake, brought the sedan to a complete, lawful stop several feet back from the crosswalk, kept my foot planted firmly on the brake pedal, and smiled through the windshield as I waved the two pedestrians across.
 
-Checking my speed in the `25 MPH` zone, I eased my right foot smoothly onto the brake pedal, brought Mom's car to a complete, lawful stop in front of the white crosswalk stripes, kept my foot planted firmly on the brake, and smiled through the windshield as I **waved the two pedestrians across**.
+Both pedestrians smiled back, lifted a hand in a thank-you wave, and stepped off the curb into the crosswalk directly in front of our hood.
 
-The two pedestrians smiled back, gave a thank-you wave, and stepped out into the crosswalk in front of our hood.
+One second later, a sudden, heavy impact slammed straight into our rear bumper.
 
-One second later—
+The jolt pitched Rachel and me forward against our locked shoulder harnesses before snapping the backs of our heads against the padded headrests. Because my right foot had remained pressed firmly down on the brake pedal while waving the pedestrians across, Mom's car held its ground on the asphalt instead of lurching forward into the occupied crosswalk.
 
-*CRUNCH.*
+"Bug! Are you okay? Are you hurt?" I gasped, my pulse rocketing into my throat as I shoved the gear selector into Park, hit the red hazard triangle on the dashboard, and reached across the console with both hands to grip my sister's shoulders.
 
-A violent jolt slammed straight into the rear bumper of Mom's car, pitching Rachel and me forward against our locked shoulder belts before slapping the backs of our heads against the headrests.
+"I'm okay, Bear—I'm not hurt, my seatbelt caught me," Rachel breathed, her dark eyes wide behind her glasses as she held onto my forearms just as urgently. "Are *you* okay? How's your neck and your ankle?"
 
-Because my right foot had been pressed firmly down on the brake pedal while waving the pedestrians across, Mom's car held its ground instead of lurching forward into the crosswalk where the two pedestrians were walking.
+"I'm okay," I said, my heart hammering at a hundred and forty beats a minute as I looked up into the center rearview mirror.
 
-"Bug! Are you okay?! Are you hurt?!" I gasped, my heart rocketing into my throat as I threw the gearshift into `PARK`, switched on the four-way hazard flashers, and reached across the console with both hands to check on my sister.
-
-"I'm okay, Bear—I'm not hurt, my seatbelt caught me," Rachel breathed, her eyes wide behind her glasses as she squeezed my hands back just as urgently. "Are *you* okay? How's your neck and your ankle?"
-
-"I'm okay," I said, though my pulse was already hammering at a hundred and forty beats a minute as I looked up into the rearview mirror.
-
-Directly behind our rear bumper sat the car that had just plowed into us on southbound `US-11`—and through their windshield, I could see the driver hurriedly fumbling to drop the **cell phone** they had been holding to their ear while driving through a `25 MPH` downtown crosswalk zone without paying attention!
+Right behind our rear bumper sat the car that had just plowed into us at low speed in a twenty-five-mile-per-hour zone—and through its windshield, I watched the driver frantically fumbling to drop the cell phone they had been holding to their ear instead of watching the road ahead.
 
 ***
 
 #### 1:35 PM — "Please Don't Call the Police!" & The Deputy Rolling By
 
-Rachel and I unbuckled and stepped out onto the pavement of **Court Square** together to inspect the back of Mom's car. The rear bumper cover was deeply creased and scuffed and the trunk lid had a dent above the latch, while on the sidewalk beside the courthouse, the **two pedestrians** I had waved across hurried back over toward us, looking genuinely shaken on our behalf.
+Rachel and I unbuckled and stepped out onto the cool afternoon pavement of Court Square together to inspect the back of Mom's sedan. The rear bumper cover was creased and scuffed and a shallow dent dimpled the trunk lid just above the latch, though the taillights and exhaust pipe were intact. Over on the courthouse sidewalk, the two pedestrians I had waved across hurried right back toward us, their faces pale with concern on our behalf.
 
-"Are you two alright?!" one of the pedestrians asked immediately. "You stopped completely for us and waved us across—the person behind you was talking on their phone and didn't even look up!"
+"Are you two all right?" one of the pedestrians asked immediately. "You stopped completely for us and waved us across—the person behind you was talking on their phone and didn't even look up!"
 
-Before I could even reach into my pocket for my phone, the other driver scrambled out of their car, looking frantic.
+Before I could even slip my hand into my jacket pocket for my phone, the driver behind us scrambled out of their door, holding both hands up and patting their coat pockets in a frantic rush.
 
-"Hey—listen, please don't call the police!" the driver pleaded, holding both hands up and patting their pockets nervously. "We don't need to call this in! I have insurance, I promise—I just can't find my policy number right now! Just let me give you my name and number and we can handle this without a report!"
+"Hey—listen, please don't call the police!" the driver pleaded, their voice tight and rapid. "We don't need to call this in! I have insurance, I promise—I just can't find my policy number right now! Just let me give you my name and phone number and we can handle this between ourselves without a report!"
 
-Rachel and I stared at the driver as they kept repeating that they *"had insurance"* but *"just couldn't find the policy number"* and begged us not to call `911`.
+Rachel and I stared at the driver as they kept repeating that they had insurance—they just couldn't find the policy number—and begged us not to dial nine-one-one.
 
-We didn't even have to dial.
+We didn't have to dial a thing.
 
-Because we were standing at the intersection of **`US-11` and `US-33`** directly in front of the **Rockingham County Courthouse**, a **Rockingham County Sheriff's Deputy** happened to be rolling right past Court Square in his patrol cruiser on completely unrelated business.
+Because we were standing at the junction of U.S. Route 11 and U.S. Route 33 directly beside the Rockingham County Courthouse, a Rockingham County Sheriff's Deputy happened to be rolling right past Court Square in his marked patrol cruiser on completely unrelated business.
 
-The deputy saw the two cars stopped at the crosswalk with hazard lights blinking, saw the bumper damage, flipped on his blue light bar, pulled his cruiser straight over to the curb, and stepped out, asking calmly:
+Spotting the two cars stopped by the crosswalk with four-way hazard flashers blinking and the creased rear bumper on Mom's sedan, the deputy flicked on his overhead blue light bar, pulled his cruiser cleanly against the courthouse curb, and stepped out with his clipboard in hand.
 
-"Everybody alright here? Looks like you folks just had a collision—let me be of assistance."
+"Everybody all right here?" the deputy asked calmly, walking up to our rear quarter-panel. "Looks like you folks just had a collision—let me be of assistance."
 
-The instant the Sheriff's Deputy stepped onto the asphalt with his ticket book and clipboard, **the driver who had rear-ended us visibly panicked**—all the color draining from their face as they realized there was no way out of an official state crash report now.
+The instant the uniformed deputy stepped onto the pavement, all the color drained from the other driver's face. Any hope of talking us out of an official state crash report evaporated on the spot.
 
-And right beside the deputy, the **two pedestrians** we had waved across didn't walk away. Both of them stayed right there at the courthouse curb until the deputy took their full eyewitness statements:
+Even better, neither of the two pedestrians walked away. Both of them stood right beside the deputy at the curb until he opened his pad to take their formal eyewitness statements.
 
-"Deputy," the first pedestrian said clearly, pointing to the marked crosswalk stripes on `US-11`, "this young man came to a complete stop at the crosswalk and waved the two of us across the street. If he hadn't stopped with his foot on the brake, that car behind him would have hit *us*. The driver behind him was talking on a cell phone and never even slowed down."
+"Deputy," the first pedestrian said clearly, pointing to the white crosswalk stripes on U.S. Route 11, "this young man came to a complete stop at the crosswalk and waved the two of us across the street. If he hadn't stopped with his foot firmly on the brake, that car behind him would have knocked him right into us. The driver behind him was talking on a cell phone and never even slowed down."
 
-"Thank you both for staying," the deputy nodded, writing down both witnesses' names and phone numbers onto his report before taking my Virginia driver's license, Mom's vehicle registration, and Mom's insurance card, and then walking back to deal with the shaken driver behind us.
+"Thank you both for staying," the deputy nodded, recording both witnesses' names and phone numbers onto his pad before collecting my Virginia driver's license, Mom's vehicle registration, and Mom's insurance card, and then walking back with his summons book to cite the distracted driver under Va. Code § 46.2-816 for following too closely.
 
 ### Part 2: Scared of Getting in Trouble, Calling Ellen, & Rejoining I-81 South at Exit 243
 
@@ -31032,61 +30890,61 @@ And right beside the deputy, the **two pedestrians** we had waved across didn't 
 
 #### 2:05 PM — Cleared by the Deputy, Terrified to Call Mom
 
-Twenty-five minutes later, the **Rockingham County Sheriff's Deputy** walked back up to my window and handed back my Virginia driver's license, Mom's registration, and Mom's insurance card, along with the official **Virginia Police Crash Report (`FR300P`)** information exchange slip.
+The Rockingham County Sheriff's Deputy walked back up to my open driver's window twenty-five minutes later and handed me back my Virginia driver's license, Mom's vehicle registration, and Mom's insurance card, resting a crisp white Virginia Police Crash Report FR300P information exchange slip on top of the stack.
 
-"You're one hundred percent in the clear, son," the deputy told me kindly, resting a hand on the roof of Mom's car. "Between the two pedestrian witnesses at the crosswalk and the physical evidence on the pavement, you have zero fault on this report. I checked your rear bumper, your exhaust, and your brake lights and turn signals—you're gonna need body-shop work on the rear bumper and trunk, but the car is completely roadworthy and safe for the two of you to drive back to Virginia Beach."
+"You're one hundred percent in the clear, son," the deputy told me kindly, tapping a gloved knuckle against the roof pillar of Mom's sedan. "Between the two pedestrian witnesses at the crosswalk and the physical evidence on the pavement, you have zero fault on this report, and the driver behind you has been cited under Va. Code § 46.2-816. I checked your rear bumper, your exhaust hanger, and all of your brake lights and turn signals—you've got some cosmetic bumper scuffs and a small dent on the trunk lid that'll need a body shop, but the car is completely roadworthy and safe for the two of you to drive back to Virginia Beach."
 
-"Thank you, Deputy," I managed to say, my voice tight as I took the crash report slip.
+"Thank you, Deputy," I managed to say, my throat tight as I took the crash report slip.
 
-Once the deputy pulled back into traffic and the other vehicle cleared the lane, I steered Mom's car into a legal parking space just off **South Main Street (`US-11`)** so we could catch our breath and call **Mom (`Ellen`)**.
+Once the deputy merged his cruiser back into traffic and the other vehicle pulled away from the curb, I steered Mom's car into a legal curbside parking space just off South Main Street on U.S. Route 11 so we could catch our breath and call Mom.
 
-The moment I shifted into `PARK`, the adrenaline keeping my hands steady evaporated—and **I turned into an absolute nervous wreck**.
+The instant I shifted the transmission into Park, the operational adrenaline that had kept my hands steady through the deputy's investigation vanished—and my nervous system went into a full-blown tailspin.
 
-Logically, my thirty-year-old brain knew what the Sheriff's Deputy had just said: I had obeyed the `25 MPH` speed limit, I had stopped lawfully at a crosswalk for two pedestrians, two independent witnesses had vouched for me, and the police report placed `100%` of the fault on the distracted driver behind us.
+Logically, my thirty-year-old brain understood every fact on the paper resting on the dashboard: I had obeyed the twenty-five-mile-per-hour speed limit, I had come to a complete, lawful stop at a marked crosswalk to protect two pedestrians, two independent eyewitnesses had stayed to vouch for me, and the Sheriff's Deputy had placed one hundred percent of the fault on the distracted driver behind us.
 
-Emotionally, however, twenty-plus years of [childhood trauma from Delaney Street](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement)—where any dented bumper, spilled glass, or accident in the house meant an explosion of rage—were screaming inside **both** of our nervous systems at once.
+Emotionally, however, more than twenty years of ingrained [childhood trauma from Delaney Street](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement)—where any dented fender, spilled glass, or unforeseen accident in the house triggered an immediate explosion of paternal rage—were screaming inside both of our bodies at once.
 
-Sitting beside me in the passenger seat, **Rachel** was biting her lower lip, her shoulders pulled tight up toward her ears as she looked at the deputy's crash slip in my shaking hand.
+Sitting beside me in the passenger seat, Rachel was biting her lower lip, her shoulders hiked tight toward her ears as she stared at the deputy's crash slip trembling in my fingers. Even with a state law enforcement report clearing us completely, we were both terrified that we were about to be in terrible trouble because Mom had trusted us to borrow her car for Thanksgiving and we were bringing it home with a scuffed rear bumper two hundred miles from Virginia Beach.
 
-Even with an official Sheriff's report clearing us, **we were both scared to death that we were going to get in trouble**—because Mom had trusted us to borrow her car for Thanksgiving, and her car had just gotten into a rear-end collision two hundred miles from home.
-
-"Bear," Rachel whispered, her own voice trembling slightly as she reached across the center console with both hands and wrapped her fingers tightly around my shaking left hand, "we have to call Mom. Here—hold onto my hand while it rings. We'll tell her together."
+"Bear," Rachel whispered, her own voice quavering slightly as she reached across the center console with both hands and wrapped her warm fingers tightly around my shaking left hand, "we have to call Mom. Here—hold onto my hand while it rings. We'll tell her together."
 
 ***
 
-#### 2:12 PM — The Phone Call & Rejoining `I-81 South` at `Exit 243`
+#### 2:12 PM — The Phone Call & Rejoining I-81 South at Exit 243
 
-With Rachel gripping my left hand like a lifeline, I tapped **Mom (`Ellen`)'s** number on my phone and put it on speaker.
+Gripping Rachel's hand like an anchor, I tapped Mom's name on my phone screen and hit the speaker button.
 
-It rang twice before she picked up.
+The line rang twice in the quiet cabin before she picked up.
 
-*"Hey, Michael! How's the drive back from Luray going?"*
+"Hey, Michael! How's the drive back from Luray going?"
 
-My throat was so dry my voice cracked on the first syllable.
+My mouth was so dry my voice cracked on the first word.
 
-"Mom—I'm so sorry, please don't be mad at us," I blurted out in one rushed, trembling breath, staring down at the steering wheel while Rachel squeezed my fingers. "We're in Downtown Harrisonburg and we're both okay, nobody is hurt, and I have a police report from a Sheriff's Deputy saying it wasn't my fault at all—we got off `I-81` at `Exit 251` onto `US-11` because a VDOT sign said there was a wreck at Milepost `244`, and the speed limit on Main Street by the courthouse is `25`, and I stopped at a crosswalk to wave two pedestrians across, and the driver behind us was on their cell phone and rear-ended your car! The deputy looked at it and said the lights work and it's safe to drive home, and the two pedestrians stayed and gave a statement to the deputy, I swear I was completely stopped—"
+"Mom—I'm so sorry, please don't be mad at us," I blurted out in one rushed, breathless torrent, staring down at the steering wheel emblem while Rachel squeezed my hand with all her strength. "We're in Downtown Harrisonburg and we're both okay, nobody is hurt, and I have a police report from a Sheriff's Deputy saying it wasn't my fault at all—we got off I-81 at Exit 251 onto US-11 because a VDOT sign said there was a wreck at Milepost 244, and the speed limit on Main Street by the courthouse is twenty-five, and I stopped at a crosswalk to wave two pedestrians across, and the driver behind us was on their cell phone and rear-ended your car! The deputy looked at it and said the lights work and it's safe to drive home, and the two pedestrians stayed and gave a statement to the deputy, I swear I was completely stopped—"
 
-*"Michael! Sweetheart, stop—take a breath!"* Mom's voice came through the speakerphone without a single trace of anger—only pure, immediate maternal relief. *"First of all: are you and Rachel sure neither of you is hurt? How are your necks?"*
+"Michael! Sweetheart, stop—take a breath!"
 
-"We're both okay, Mom," Rachel answered softly beside me, leaning close to the speaker. "Our seatbelts caught us right away, and the deputy checked on us on the spot."
+Mom's voice came through the speaker without a single trace of anger—only pure, immediate maternal concern.
 
-*"Thank goodness,"* Mom exhaled warmly over the line. *"Michael, listen to me: nobody is in trouble, and I am not mad at either of you for one second! You stopped for pedestrians in a crosswalk—that is literally what you are supposed to do. A car bumper is just plastic and metal; that is what insurance is for. You two are the only thing that matters to me."*
+"First of all," Mom said gently, "are you and Rachel sure neither of you is hurt? How are your necks?"
 
-Hearing Mom say *"Nobody is in trouble, and I am not mad at either of you"* caused a ten-ton weight to drop right off my chest. Beside me, Rachel let out a long, shaky sigh of relief, leaning across the console to press her cheek against my shoulder while I wiped a hot breath of relief from my eyes.
+"We're both okay, Mom," Rachel answered softly beside me, leaning close to the phone. "Our seatbelts caught us right away, and the deputy checked on us on the spot."
 
-*"Stay on `US-11` until you're past that interstate backup,"* Mom told us gently, *"take your time driving down the mountain to `I-64`, and text me when you stop for dinner. We'll just give the deputy's report number to the insurance company tomorrow morning."*
+"Thank goodness," Mom exhaled warmly over the line. "Michael, listen to me: nobody is in trouble, and I am not mad at either of you for one second. You stopped for pedestrians in a crosswalk—that is literally what you are supposed to do. A car bumper is just plastic and metal; that is what insurance is for. You two are the only thing that matters to me."
+
+Hearing those words—*nobody is in trouble, and I am not mad at either of you*—lifted a ten-ton stone straight off my chest. Beside me, Rachel let out a long, shuddering breath of relief, leaning across the console to press her cheek against my shoulder while I blinked back a hot sting of relief behind my glasses.
+
+"Stay on US-11 until you're past that interstate backup," Mom told us softly, "take your time driving down the mountain to I-64, and text me when you stop for dinner. We'll just give the deputy's report number to the insurance company tomorrow morning."
 
 "Okay, Mom. Thank you. Love you," I said, my voice finally steadying again.
 
-Before I put the car back in gear, Rachel wrapped both arms around my neck across the center console in a long, deep-pressure **Bear and Bug** hug, holding me tight until the last tremor left my hands.
+Before I shifted the car out of Park, Rachel wrapped both arms around my neck across the center console in a long, deep-pressure Bear and Bug hug, holding me tight until the last tremor faded from my hands.
 
-"We're okay, Bear," Rachel whispered against my ear. "Mom's not mad, nobody got hurt, and you saved those two pedestrians."
+"We're okay, Bear," Rachel whispered against my ear. "Mom's not mad, nobody got hurt, and you kept those two pedestrians safe."
 
-"Let's go home, Bug," I breathed, hugging her back before we buckled our seatbelts and laced our fingers back together across the console.
+"Let's go home, Bug," I breathed, hugging her back before we clicked our seatbelts and laced our fingers together across the console.
 
-Pulling out of the parking space, I stayed on **southbound U.S. Route 11 (`South Main Street`)** through the south side of Harrisonburg—completely bypassing the `I-81` wreck at Milepost `244`—and smoothly **rejoined `Interstate 81 South` at `Exit 243`**, continuing south to **`I-64 East`** to head home to **Moosewood Drive**.
-
-*(And sure enough, when Mom's insurance adjuster ran the Sheriff's Deputy's crash report the next week, the real reason the other driver had panicked and claimed they "couldn't find their policy number" came out immediately: **they were completely uninsured.** Because the deputy's report and the two crosswalk witnesses proved I was `0%` at fault, Mom's **Uninsured Motorist** coverage fixed her bumper without a single surcharge—and both Rachel and I kept our spotless **`+5` Virginia DMV Safe Driving Points** all the way into [February 2020 when we bought our own car](https://books.raggiesoft.com/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-2-the-cashier-s-check-joint-virginia-title-vsa-17a-driving-our-avalon-home)).*
+Pulling smoothly out of the parking space onto southbound U.S. Route 11 along South Main Street, we cruised through the south side of Harrisonburg completely clear of the Milepost 244 interstate backup and rejoined Interstate 81 South at Exit 243. As we settled into the right lane toward Interstate 64 East for the peaceful afternoon run back to Moosewood Drive—already agreeing between the two of us that we were going to wire a rear window camera into the back glass to pair with our front dashcam so we would always have video both ahead and behind us on the road, long before [we ever shopped for a car of our own](https://books.raggiesoft.com/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-2-the-cashier-s-check-joint-virginia-title-vsa-17a-driving-our-avalon-home)—Mom's Uninsured Motorist coverage was already set to take care of the scuffed rear bumper once the deputy's report revealed why the other driver had panicked about their missing policy number.
 
 # The 2020 Horizon Avalon (February 2020)
 
@@ -31100,50 +30958,41 @@ Pulling out of the parking space, I stayed on **southbound U.S. Route 11 (`South
 
 #### 9:15 AM — Tired of Waiting for the Bus
 
-Back in **January 2020**, sitting at our adjacent desks in the **Command Center** at our single-family home on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)—the custom fortress **Jessica** had built from the ground up for the five of us (**Michael, Rachel, Ashley, Kristin, and Jessica**)—**Rachel** and I had spent a quiet winter evening planning our upcoming **March 2020 Spring Break** trip to Maryland and Washington, D.C. We had booked a hotel in **North Linthicum, Maryland**—about a block from the **STA (`State Transit Administration`)** light rail station—and bought two round-trip **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`**, planning to take the free **BWI Airport Shuttle** over to the airport light rail stop, ride the **STA Light Rail** into Baltimore for a day, and take a **MAC (`Maryland Area Commuter`)** Penn Line train down to **Washington Union Station** for a day in D.C.
+Cold forty-degree coastal rain dripped from the hems of our soaked winter jackets onto the entryway tile of our home on [Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) as Rachel and I set four heavy plastic grocery bags down by the front door, our fingers red and stiff from standing at wind-whipped Coastal Virginia Transit Authority bus stops for the fifth consecutive afternoon that week.
 
-At our **Moosewood Drive** house, the five of us had a very specific transportation setup:
-* **Ashley** held a **Virginia Driver's License** and owned her own car, which was parked in our Moosewood Drive driveway.
-* **Kristin** held a **Virginia State ID** and either took the **CVTA** bus or got rides with Ashley—the only thing stopping Kristin from driving was that she simply did not like to drive (nothing was stopping her from taking Behind-the-Wheel lessons if she ever wanted to).
-* **Jessica** was prohibited from driving for medical reasons and also held a **Virginia State ID**.
-* **Rachel and I** had taken our [adult **Behind-the-Wheel** lessons back in **2016**](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-2-session-one-fifty-five-miles-per-hour-on-ferrell-parkway) (paid for by **Mom / Ellen**) to earn our **Virginia Driver's Licenses**, and Mom had kept both of us listed under the auto insurance policy for her car ever since so that we were allowed to borrow it. Because Mom did not live at our Moosewood Drive address, however, borrowing her car wasn't an everyday option—so whenever Ashley was at work with her car, Rachel and I mainly took the **CVTA** bus or coordinated rides with Ashley.
+Only a few weeks earlier at our adjacent desks in the Command Center, Rachel and I had spent a cozy winter evening mapping out our upcoming March 2020 Spring Break rail trip to Maryland and Washington, D.C. We had booked our hotel room in North Linthicum, Maryland—a short one-block walk from the State Transit Administration light rail station—and purchased two round-trip ARTS Business Class train tickets from Norfolk to BWI Rail Station, planning to ride the free BWI Airport Shuttle over to the terminal light rail platform, take the STA Light Rail into Baltimore for a day, and catch a Maryland Area Commuter Penn Line train down to Washington Union Station for a day in the capital. Riding intercity trains for a vacation was something we genuinely loved. Standing in sideways February rain waiting on delayed local bus transfers whenever Ashley was at work with her car and Mom was across town with hers, however, had officially worn out its welcome.
 
-Then came the first week of **February 2020**—five straight days of standing at **CVTA** stops in sideways forty-degree coastal rain, waiting on delayed bus transfers with heavy bags of groceries cutting into our fingers.
+Shivering as we hung our wet coats on the hooks and walked into the warm kitchen where Jessica, Kristin, Ashley, and Mom were gathered around the table, Rachel and I looked at each other and reached the exact same conclusion at the exact same moment.
 
-By that Friday night, after Rachel and I peeled off our rain-soaked jackets by the front door of our Moosewood Drive home and sat down at the kitchen table with **Jessica**, **Kristin**, **Ashley**, and **Mom (`Ellen`)**, both Rachel and I had reached the exact same conclusion at the exact same time:
+"I am officially done waiting for the bus in forty-degree rain," Rachel announced, rubbing her chilled hands together as she sat down beside me.
 
-We were thirty-two and thirty years old, we had held clean Virginia driver's licenses with **`+5` Safe Driving Points** for four years since our 2016 Behind-the-Wheel lessons, we had plenty of room in the Moosewood Drive driveway alongside Ashley's car, and **we were tired of riding the bus**.
+"Same here, Bug," I agreed. "We're thirty-two and thirty years old, we've had our Virginia driver's licenses and five Safe Driving Points ever since [our Adult Behind-the-Wheel lessons back in 2016](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-2-session-one-fifty-five-miles-per-hour-on-ferrell-parkway), and there is plenty of room in the driveway right next to Ashley's car."
 
-"Then we solve the logistics," **Jessica Marie Ragsdale** said immediately from the head of the table, shifting into pure executive problem-solving mode while Kristin and Ashley nodded in full agreement. "You two don't need a car loan or a monthly payment hanging over your heads. I have **`$30,000.00`** in liquid cash ready to transfer so the two of you can buy a brand-new, reliable family sedan outright in cash—titled and insured in both of your names."
+At the head of the dining table, Jessica Marie Ragsdale didn't hesitate for a second. Shifting straight into executive problem-solving mode while Kristin and Ashley nodded in immediate support, Jessica rested her hands on the table.
 
-"Wait," Rachel realized aloud, looking across the table. "How do we get a cashier's check from `QEFCU` if their branches are all back in Washington State?"
+"Then we solve the logistics," Jessica said firmly. "You two don't need a car loan or a monthly payment hanging over your heads. I have thirty thousand dollars in liquid cash ready to transfer so the two of you can buy a brand-new, reliable family sedan outright in cash—titled and insured in both of your names."
+
+Rachel's eyes widened, and then her brow furrowed as a practical detail clicked into place. "Wait," she said, looking across the table at Jessica. "How do we get a cashier's check from Quantum Employees Federal Credit Union if all of their physical branches are back in Washington State?"
 
 ***
 
-#### 10:00 AM — From `1-425` to Anchor Federal Credit Union (`AFCU`)
+#### 10:00 AM — From 1-425 to Anchor Federal Credit Union (AFCU)
 
-Back in [**November 2006**](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off), when Rachel and I were living in Washington State, Jessica had walked us across the Overlake campus in Redmond to open our accounts at the **Quantum Employees Federal Credit Union (`QEFCU`)**.
+Rachel had spotted the exact bottleneck. Back in [November 2006](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off), when Jessica had walked us across the Overlake campus in Redmond to open our credit union accounts at QEFCU, having a Redmond-based institution had been effortless. Now that we lived permanently on the East Coast in Virginia Beach, however, QEFCU had zero brick-and-mortar branches anywhere in Virginia; our only ways to reach them were online banking, the mobile app, or dialing their 1-425 area code customer service line back in Washington State. If we walked onto a Virginia Beach dealership lot as cash buyers, we couldn't hand a finance manager a smartphone screen for twenty-six thousand dollars—we needed a local branch five minutes down the boulevard where a teller could print an official cashier's check on the spot once we had an exact Out-the-Door Buyer's Order in hand.
 
-`QEFCU` had been an incredible fortress when we lived in the Puget Sound. Now that we were permanently back home in Virginia Beach, however, `QEFCU` had zero physical brick-and-mortar branches on the East Coast. From Virginia, our only ways to access `QEFCU` were online banking, the mobile app, or calling their **`1-425`** customer service number back in Redmond, Washington.
+"We'll go to my credit union in the morning," Mom said warmly from across the table. "I'll drive you both over in my car."
 
-If you are walking into a Virginia Beach car dealership as a cash buyer, you can't just wave a smartphone app at a finance manager for twenty-six thousand dollars—you need a local brick-and-mortar branch down the street where you can walk up to a teller window and have an official **Cashier's Check** printed on the spot once you know the exact total on the Buyer's Order.
+Mom banked with Anchor Federal Credit Union, a nationwide credit union headquartered in Virginia with brick-and-mortar branches along nearly every major corridor in Virginia Beach and Hampton Roads, across Maryland and D.C., and even back in the Puget Sound near Bellevue and Redmond. Because Mom was already a long-standing member, immediate family sponsorship meant both Rachel and I qualified for full membership on the spot.
 
-"We'll go to my credit union tomorrow morning," **Mom (`Ellen`)** said warmly. "I'll drive you both over in my car."
+At ten o'clock on Saturday morning, February 8, Mom pulled her car into the parking lot of the local Anchor Federal Credit Union branch. Walking from the curb through the glass lobby doors, Rachel and I held hands with our fingers laced tightly together, the way we walked everywhere we went.
 
-Mom banked with **Anchor Federal Credit Union (`AFCU`)**—a massive, nationwide credit union headquartered in Virginia with physical branches on almost every major corridor in Virginia Beach and Hampton Roads, branches across Maryland and D.C., and even branches back in the Puget Sound near Bellevue and Redmond in case we ever visited Washington State again. Because Mom was already an established member, immediate family sponsorship meant both Rachel and I qualified for full membership on the spot.
+Sitting side by side in the upholstered chairs across from a friendly member services representative while Mom sat beside us to sign the family sponsorship line, we laid out the exact five-account structure we needed. First, we opened my individual personal Checking Account and my individual Share Savings Account under my full legal name, Michael Thomas Ragsdale, funding the mandatory five-dollar credit union share deposit to establish my member ownership stake. Second, right alongside mine, we opened Rachel's individual personal Checking Account and her individual Share Savings Account under her full legal name, Rachel Anna Ragsdale, with her own five-dollar share deposit. And third—the centerpiece of the morning—we opened a separate fifth account: a Joint Savings Account titled in both of our full legal names, Michael Thomas Ragsdale and Rachel Anna Ragsdale, giving both brother and sister one hundred percent equal, independent access at any teller window or online portal.
 
-On **Saturday morning, February 8, 2020, at `10:00 AM`**, Mom drove Rachel and me in her car over to the local **Anchor Federal Credit Union** branch. Walking from Mom's car through the glass lobby doors, Rachel and I held hands with our fingers laced together—the way we walk everywhere we go.
+Before we even stood up from the representative's desk, I called Jessica and read off the routing number and our new Joint Savings account number so she could initiate the electronic wire transfer from QEFCU, putting thirty thousand dollars in cleared, liquid cash straight into our shared Anchor Federal reserve.
 
-Sitting side by side across from a friendly member services representative, we set up a clean, five-account architecture:
-1. **Account #1 & #2 (`Michael Thomas Ragsdale` — Individual):** My own personal **Checking Account** and my own **Share Savings Account** (funded with the mandatory `$5.00` credit union share deposit to establish my ownership stake as a member).
-2. **Account #3 & #4 (`Rachel Anna Ragsdale` — Individual):** Rachel's own personal **Checking Account** and her own **Share Savings Account** (`$5.00` share deposit).
-3. **Account #5 (`Michael Thomas Ragsdale AND Rachel Anna Ragsdale` — Joint Car & Emergency Savings):** A separate **Joint Savings Account** opened in **both of our full legal names**, giving both brother and sister `100%` equal, direct access at any teller window or online portal.
+"What about our ARTS Business Class train tickets from Norfolk to BWI next month?" Rachel asked as we climbed back into Mom's sedan with our fresh Anchor Federal debit cards and membership folders tucked safely into her bag.
 
-Before we even stood up from the desk, I read the new routing number and the Joint Savings account number over the phone to **Jessica**, who initiated an electronic transfer from `QEFCU`. By Monday afternoon, **`$30,000.00`** was sitting cleared and liquid inside our joint **Anchor Federal Credit Union** savings account.
-
-"What about our **ARTS Business Class** tickets from Norfolk to BWI next month?" Rachel asked me as we rode back in Mom's car, tucking our new Anchor Federal debit cards and account folders into her bag.
-
-"We keep them," I smiled, lacing my fingers through hers on the back seat. "They're already paid for, and taking the train up to Maryland for Spring Break is going to be way more fun than driving through D.C. traffic anyway."
+"We keep them," I smiled, lacing my fingers through hers on the back seat. "They're already paid for, and taking the train up to North Linthicum, Baltimore, and D.C. for Spring Break is going to be way more fun than fighting capital beltway traffic anyway."
 
 ### Part 2: Command Center Reconnaissance: Comparing Four Family Sedans
 
@@ -31153,30 +31002,31 @@ Before we even stood up from the desk, I read the new routing number and the Joi
 
 #### 2:00 PM — Doing Our Homework Without a Playbook
 
-On **Sunday afternoon, February 9, 2020**, while **Jessica**, **Kristin**, and **Ashley** relaxed in the main living area of our **Moosewood Drive** home and left the car choice completely in our hands, **Rachel** and I pulled our desk chairs together in our **Command Center** to do our research.
+Dual desktop monitors glowed side by side in our Command Center on Moosewood Drive as Rachel rolled her swivel chair right up against mine, opening a fresh college-ruled spiral notebook across the desk between us.
 
-Neither Rachel nor I had ever bought a car from a dealership before, so we approached it the same way we approached every logistics project: with our **`Director of Operations and Secretary`** system, a shared spiral notebook, and **`$30,000.00`** sitting in our joint **Anchor Federal Credit Union** savings account.
+Out in the main living room, Jessica, Kristin, and Ashley were relaxing with afternoon coffee, having left the choice of our new car completely in our hands. Neither Rachel nor I had ever bought an automobile from a dealership before, so we tackled the unfamiliar territory the same way we tackled every logistics mission: with our Director of Operations and Secretary partnership, a shared notepad, and thirty thousand dollars waiting in our joint Anchor Federal Credit Union savings account.
 
-"Okay, Bear," Rachel said, resting her chin in her hand as we pulled up manufacturer spec sheets across our monitors. "Ground rules first. What are we looking for, and how are we making the call?"
+"Okay, Bear," Rachel said, resting her chin in her palm as she angled her glasses toward the manufacturer spec sheets on her screen. "Ground rules first. What are we looking for, and how are we making the call?"
 
-"Rule number one," I said, tapping my pen against the top of our notepad: "This is **our** car—fifty-fifty down the middle. Both of our names go on the title as co-owners, both of our names go on the insurance as the only two drivers, and neither of us says yes to a car unless *both* of us love driving it."
+"Rule number one," I said, clicking my pen and writing across the top line of the page. "This is our car—fifty-fifty down the middle. Both of our names go on the Virginia title as equal co-owners, both of our names go on the insurance policy as the only two drivers, and neither of us says yes to a car unless both of us love driving it."
 
-Rachel smiled and bumped her shoulder against mine. "Agreed. And rule number two: we're both five-foot-seven, and because of your cerebral palsy, we need a driver's seat and pedal layout where your right ankle doesn't get fatigued fighting a stiff brake pedal or a jumpy gas pedal in Virginia Beach traffic."
+Rachel smiled and bumped her shoulder warmly against mine. "Agreed. And rule number two: we're both five-foot-seven, and because of your cerebral palsy, we need a driver's seat and pedal geometry where your right ankle doesn't get fatigued fighting a stiff brake pedal or a jumpy throttle in Virginia Beach traffic."
 
-"And wide visibility with minimal blind spots," I added. "Plus a four-door midsize family sedan with a real trunk—something rock-solid that we can buy brand-new off the lot with plenty of room under our `$30,000` ceiling so we aren't spending every last dollar Jessica put in the account."
+"Plus wide glass sightlines with minimal blind spots," I added, jotting that down beneath her rule, "and a four-door midsize family sedan with a real trunk—something rock-solid that we can buy brand-new off the lot with plenty of breathing room underneath our thirty-thousand-dollar ceiling so we aren't spending every last dollar Jessica wired into the account."
 
 ***
 
 #### 3:15 PM — The Four-Car Shortlist
 
-After two hours of reading reliability ratings, safety crash-test scores, fuel economy numbers, and MSRP sticker prices between `$23,500` and `$26,000`, we narrowed the field down to four midsize four-door family sedans to test-drive around Virginia Beach the following Saturday:
+For the next two hours, the quiet hum of our computer fans mixed with the scratch of my pen on paper as we compared crash-test scores, long-term reliability ratings, highway fuel economy, and factory window-sticker prices between twenty-three thousand five hundred and twenty-six thousand five hundred dollars.
 
-1. **The `2020 Holt Meridian`** (*Holt Automotive* — MSRP `~$24,200`): Clean styling and plenty of local Holt inventory along Virginia Beach Boulevard, though online reviewers had mixed opinions on the cabin ergonomics and the rotary gear dial.
-2. **The `2020 Summit Verve`** (*Vehicles America / Summit Motors* — MSRP `~$24,100`): Competitive sticker price and a roomy back seat, worth testing in person to see how the transmission and pedals felt on the road.
-3. **The `2020 Olympus Regent`** (*Olympus Automobiles Corp.* — MSRP `~$26,400`): Known for a quiet highway ride, though sitting near the upper edge of our target price range before taxes.
-4. **The `2020 Horizon Avalon`** (*Horizon Motors* — MSRP `~$24,600`): Legendary for bulletproof long-term reliability, a smooth naturally aspirated four-cylinder engine with a real automatic transmission (no rubber-band CVT), and high resale value.
+"Look at the local dealership inventory along Virginia Beach Boulevard," Rachel said, scrolling through four open browser tabs and pointing to each cabin photo in turn. "If we narrow our Saturday test-drive route down to four midsize four-door sedans, we can test all of them back-to-back on the same morning."
 
-Looking at the `~$24,000` to `$25,000` MSRP numbers on the websites, the math in our notebook looked completely straightforward: if a car's window sticker said `$24,600`, and we had `$30,000` in cash sitting in **Anchor Federal Credit Union**, we could simply walk onto the dealership lots on Saturday morning, test-drive the cars on our list, tell the salesperson we were paying cash, and pick our favorite.
+We drew four columns across our notebook page to map out the contenders. The first column went to the 2020 Holt Meridian from Holt Automotive, carrying a factory sticker price around twenty-four thousand two hundred dollars; it had clean exterior lines and plenty of inventory at the nearby Colonial Holt lot, though several owner reviews raised questions about how its wide center console and rotary gear dial felt on the driver's knee. The second column went to the 2020 Summit Verve from Vehicles America and Summit Motors at roughly twenty-four thousand one hundred dollars, which offered a competitive sticker price and a generous rear seat, making it worth a road test to see how its continuously variable transmission and pedals responded in stop-and-go traffic.
+
+In the third column, Rachel wrote down the 2020 Olympus Regent from Olympus Automobiles Corporation at around twenty-six thousand four hundred dollars—praised for a quiet highway cabin, even if its sticker sat near the upper edge of our target window before taxes. And in the fourth column, we wrote down the 2020 Horizon Avalon from Horizon Motors at roughly twenty-four thousand six hundred dollars, a sedan famous for bulletproof mechanical longevity, high resale value, and a smooth, naturally aspirated four-cylinder engine paired with a traditional eight-speed stepped automatic transmission rather than a rubber-band CVT.
+
+Looking down at the twenty-four- to twenty-five-thousand-dollar MSRP numbers in our spiral notebook, the arithmetic seemed completely straightforward to our uninitiated eyes. If a car's window sticker said twenty-four thousand six hundred dollars and we had thirty thousand dollars sitting in cash at Anchor Federal Credit Union, we figured we could simply walk onto the dealership lots next Saturday morning, test-drive the cars on our shortlist, tell the salesperson we were paying cash, and drive our favorite one home.
 
 ## The Dealership Gauntlet: 'You and the Missus,' The Four-Square Trap, & The Addendum Markup
 
@@ -31188,43 +31038,41 @@ Looking at the `~$24,000` to `$25,000` MSRP numbers on the websites, the math in
 
 #### 10:15 AM — Fingers Laced Together on the Lot
 
-On **Saturday morning, February 15, 2020**, **Mom (`Ellen`)** drove Rachel and me down Virginia Beach Boulevard in her car for our day of test drives, parking in a visitor space at our first stop—**Colonial Holt Automotive**—and telling us she'd wait comfortably in the customer lounge with her book so the two of us could handle the car shopping ourselves.
+Bright February morning sunlight glinted off rows of polished windshields along Virginia Beach Boulevard as Rachel and I stepped out onto the asphalt lot of Colonial Holt Automotive, holding hands with our fingers laced tightly together the way we walked everywhere we went.
 
-Stepping out into the crisp February sunshine across the asphalt lot toward a row of new **2020 Holt Meridians**, **Rachel and I held hands with our fingers laced tightly together**, just like we do everywhere we go.
+Mom had driven us over in her silver sedan and settled into an armchair inside the customer lounge with her paperback book, leaving the two of us to run our test drives ourselves. As we approached a row of charcoal-grey 2020 Holt Meridians parked near the front of the showroom, a fifty-something salesman in a striped tie spotted our joined hands and strode across the blacktop with a wide grin.
 
-A fifty-something salesman in a striped tie (`Greg`) spotted the two of us walking across his dealership lot hand in hand and strode right up to us beside a charcoal-grey **2020 Holt Meridian**.
+"Good morning, folks!" he beamed, extending a hand toward me as his nametag caught the sun: *Greg*. "Looking for a sharp new family sedan for you and the missus today?"
 
-"Good morning, folks!" Greg beamed. "Looking for a sharp new family sedan for you and the missus today?"
-
-Seeing a thirty-two-year-old man and a thirty-year-old woman walking onto a car lot with their fingers laced together, it was completely understandable that he thought we were husband and wife.
+Seeing a thirty-two-year-old man and a thirty-year-old woman walking onto a dealership lot hand in hand with their fingers interlocked, it was completely understandable that a stranger would assume we were husband and wife.
 
 ***
 
 #### 10:25 AM — Talking Over Half of the Decision
 
-"Actually, we're brother and sister," Rachel said politely, giving my hand a quick squeeze before releasing her fingers to step up to the driver's window of the **Holt Meridian**. "And yes, we're both looking at midsize sedans today. How low does the driver's seat adjust on this trim, and how wide is the sightline past the front A-pillar?"
+"Actually, we're brother and sister," Rachel replied politely, giving my hand a quick squeeze before releasing her fingers to step up beside the driver's window of the nearest Holt Meridian. "And yes, we're both looking at midsize sedans today. How low does the driver's seat adjust on this trim, and how wide is the sightline past the front A-pillar?"
 
-Greg didn't even turn his head toward Rachel.
+Greg didn't even turn his head toward my sister.
 
-He kept his eyes locked `100%` on **my** face, smiled man-to-man at me as if Rachel hadn't spoken a word, and tapped the hood in front of *my* chest.
+He kept his gaze locked squarely on my face, smiled man-to-man at me as though Rachel hadn't spoken a syllable, and slapped his palm lightly against the hood in front of my chest.
 
-"Well, boss," Greg said directly to me, "you're gonna love the cockpit on the `2020 Meridian`. Eight-way power seat for you, plenty of legroom, and a two-liter turbo that really moves when you put your foot down. Let me grab the key fob so *you* can take her out for a spin."
+"Well, boss," Greg said directly to me, "you're gonna love the cockpit on the 2020 Meridian. Eight-way power seat for you, plenty of legroom, and a two-liter turbo that really moves when you put your foot down. Let me grab the key fob so *you* can take her out for a spin."
 
-Rachel and I exchanged a quick, raised-eyebrow glance across the roof of the car.
+Across the roof of the sedan, Rachel and I exchanged a silent, raised-eyebrow look.
 
-When Greg brought the key fob out, Rachel took the driver's seat first while I sat in the front passenger seat and Greg rode in the back. Pulling out onto Virginia Beach Boulevard, Rachel tested the brakes, checked the mirrors, and frowned slightly as her right knee bumped against the wide, flared plastic molding of the center console.
+When Greg returned with the key fob, Rachel deliberately took the driver's seat first while I climbed into the front passenger seat and Greg rode in the rear. Pulling smoothly out onto Virginia Beach Boulevard, Rachel tested the brake pedal feel, checked the side mirrors, and frowned slightly as her right knee bumped against the wide, flared plastic molding of the center console.
 
-"The center console flares out pretty far into the driver's footwell," Rachel observed aloud, glancing toward the rearview mirror to ask Greg a direct technical question. "And the rotary gear dial takes up the middle of the console—is this the same console layout across all the Meridian trims, or just this package? Because it feels a little cramped on the knee, and the rear window angles down pretty sharply."
+"The center console flares out pretty far into the driver's footwell," Rachel observed aloud, glancing up toward the rearview mirror to ask Greg a direct technical question. "And the rotary gear dial takes up the middle of the console—is this the same console molding across all the Meridian trims, or just this package? Because it feels a little cramped against my knee, and the rear window angles down pretty sharply."
 
-From the back seat, Greg let out a dismissive little chuckle—and once again addressed his answer **exclusively to me** in the passenger seat:
+From the back seat, Greg let out a dismissive chuckle—and once again addressed his answer exclusively to me in the passenger seat.
 
-"Tell you what, buddy," Greg said, patting the back of *my* seat as if Rachel were an invisible passenger who had accidentally wandered behind the steering wheel, "once you get the driver's seat set up the way *you* want it for your commute, she'll get used to riding in the passenger seat plenty fast. Women always worry about the console at first until the man of the house gets it home."
+"Tell you what, buddy," Greg said, patting the top of my headrest as if Rachel were an invisible passenger who had somehow wandered behind the steering wheel by mistake, "once you get the driver's seat set up the way *you* want it for your commute, she'll get used to riding in the passenger seat plenty fast. Women always worry about the console at first until the man of the house gets it home."
 
-Halfway through the loop, we pulled into a shopping center lot so I could swap into the driver's seat and test the pedals back to the dealership. Honestly, Rachel was right on the money: the flared console pressed awkwardly against my right shin, and the brake pedal had a grabby, uneven bite at the top of its travel that made my right ankle work harder than it needed to.
+Halfway through the boulevard loop, we pulled into a shopping center lot so I could trade places into the driver's seat and test the pedals on the return leg. Within two blocks, I knew Rachel's assessment had been dead-on: the flared console molding pressed awkwardly against my right shin, and the brake pedal had a grabby, uneven bite at the top of its travel that forced my right ankle to work far harder than it needed to.
 
-More importantly, when we parked back at the dealership and stepped out onto the lot, Greg handed his business card and the spec brochure solely to **me**, turning his shoulder halfway in front of Rachel.
+Worse still, the moment we parked back on the Colonial Holt lot and stepped out onto the asphalt, Greg handed his business card and the glossy spec brochure solely to me, turning his shoulder halfway in front of Rachel to block her out of the circle.
 
-"So, boss," Greg said, looking straight at me, "what do you say we step inside to my desk and see what kind of monthly payment we can put together for you today?"
+"So, boss," Greg said, looking straight into my eyes, "what do you say we step inside to my desk and see what kind of monthly payment we can put together for you today?"
 
 ***
 
@@ -31232,23 +31080,23 @@ More importantly, when we parked back at the dealership and stepped out onto the
 
 My jaw tightened behind my glasses.
 
-I reached out, took Rachel's hand right at my side, and **laced my fingers firmly back through hers**.
+I reached out, took Rachel's hand right at my side, and laced my fingers firmly back through hers.
 
 "No, thank you," I said, keeping my voice level but cold enough to stop Greg mid-step. "We won't be stepping inside."
 
-Greg blinked, his salesman smile faltering. "Oh—did you want to look at a different color on the lot, or step up to the Olympus Regent next door?"
+Greg blinked, his practiced grin faltering. "Oh—did you want to look at a different color on the lot, or step up to the Olympus Regent next door?"
 
 "Neither," I said, looking him dead in the eye. "When we walked onto your lot holding hands, I completely understand why you assumed we were husband and wife. That part is fine. What is *not* fine is that for the last thirty minutes, you have refused to look at my sister, refused to answer a single question she asked you directly, and acted like I'm the sole decision-maker and her opinion on the car doesn't count."
 
-Greg stammered, holding up both hands. "Hey now, fella, I didn't mean anything by—"
+Greg stammered, lifting both palms. "Hey now, fella, I didn't mean anything by—"
 
 "Even if Rachel *were* my wife instead of my sister," I cut him off evenly, "it still wouldn't be 1955. We are buying this car fifty-fifty together. Both of our names are going on the title, both of us are driving it, and her opinion on how this car fits and drives matters every single bit as much as mine. And frankly, she was right about the center console and the rear window anyway."
 
-Rachel squeezed my fingers—that quiet, unmistakable Bear and Bug signal of *Thank you, Bear, let's roll*—and looked at Greg with cool, polite finality.
+Rachel squeezed my fingers—that quiet, unmistakable Bear and Bug signal that meant *Thank you, Bear, let's roll*—and met Greg's eyes with cool, polite finality.
 
 "Thank you for the test drive," Rachel said evenly. "Have a good weekend."
 
-With our fingers still laced tightly together, Rachel and I turned around, walked back into the showroom lounge to collect Mom, and left **Colonial Holt Automotive** in the rearview mirror.
+With our fingers still laced tightly together, Rachel and I turned on our heels, walked back into the showroom lounge to collect Mom, and left Colonial Holt Automotive behind us.
 
 ### Part 2: Stops 2 & 3 (Summit Motors & Coastal Horizon): The Four-Square Financing Trap, Test-Driving the Avalon, & Reverse-Engineering the Out-the-Door Price
 
@@ -31256,98 +31104,73 @@ With our fingers still laced tightly together, Rachel and I turned around, walke
 
 ![At a dealership desk, Michael and Rachel sit side by side examining a Four-Square monthly payment worksheet and a credit application form while a sales manager tries to push them into financing instead of giving a straight cash price]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_dealer2_four_square_financing_trap.jpg)
 
-#### 11:45 AM — Stop 2 (`Summit Motors`): The Four-Square Box & The Fake Credit-Check Rule
+#### 11:45 AM — Stop 2 (Summit Motors): The Four-Square Box & The Fake Credit-Check Rule
 
-Our second stop down the boulevard was **Atlantic Summit Motors**, where **Mom** parked out front while **Rachel** and I walked onto the lot holding hands with our fingers laced together to test-drive the **`2020 Summit Verve`** (alongside taking a quick look at an **Olympus Regent** parked on the adjacent row).
+A young salesman named Tyler met us on the sidewalk outside Atlantic Summit Motors as Rachel and I walked up hand in hand from where Mom had parked her sedan near the showroom entrance.
 
-This time, when the young salesman who greeted us (`Tyler`) saw us holding hands and we introduced ourselves as brother and sister shopping for a shared car, he nodded right away and addressed both of us politely during the test drive.
+When we introduced ourselves as brother and sister shopping fifty-fifty for a shared car, Tyler nodded immediately and treated both of us with polite respect as we checked out an Olympus Regent on the front row and took a 2020 Summit Verve out onto the boulevard for a test drive. The Verve's cabin gave my right knee far more room than the Holt Meridian had, and its rear bench was spacious, though as Rachel and I each drove half the route, both of us noticed that its continuously variable transmission had a rubbery, hesitant lag from a dead stop before lurching forward—forcing my right ankle to constantly micro-adjust the throttle pressure.
 
-The **Summit Verve** itself was an improvement over the Holt Meridian's cramped console, and the back seat was roomy, though as Rachel and I traded off driving half the loop each, both of us noticed that its continuously variable transmission (`CVT`) had a rubbery, hesitant lag from a dead stop before lurching forward—forcing my right foot to constantly micro-adjust the throttle.
+Still, because the Verve's window sticker read twenty-four thousand one hundred dollars, we wanted to see what a real purchase sheet looked like so we could compare numbers in our notebook.
 
-Still, because its window sticker read **`$24,100`**, we wanted to see what a real purchase sheet looked like so we could compare numbers.
+Sitting side by side in the guest chairs across from Tyler's cubicle inside the showroom, Rachel opened our spiral notepad while I laid our cards on the table with complete, unguarded honesty.
 
-Sitting down at Tyler's desk cubicles inside the showroom, Rachel and I laid our cards on the table with complete, naive honesty:
+"We'd like to see what the total price would be on this Verve," I said. "We aren't taking out a loan—we have the money sitting in our joint Anchor Federal Credit Union savings account to buy a car outright in cash."
 
-"We'd like to see what the total price would be on this Verve," I said, while Rachel opened our shared notebook. "We aren't taking out a loan—we have the money sitting in our joint **Anchor Federal Credit Union** savings account to buy a car in cash."
+The instant the word *cash* left my mouth, Tyler's easygoing posture stiffened.
 
-The moment the word **`cash`** left my mouth, Tyler's posture shifted.
+Instead of pulling up an itemized price sheet on his computer screen, he slid open his center desk drawer, pulled out a blank sheet of paper divided by two intersecting black lines into four large squares, and uncapped a thick black felt-tip marker. Across the bottom-right square, he wrote *$389 / MONTH* in two-inch letters, then slid the four-square sheet across the laminate desk alongside two blank Credit Application forms with yellow highlighter streaked across the Social Security Number boxes.
 
-Instead of pulling up an itemized price sheet on his computer, he reached into his desk drawer, pulled out a blank piece of paper divided by two intersecting black lines into **four large boxes**, and wrote **`$389 / MONTH`** in thick black marker in the bottom-right box.
+"Okay, guys," Tyler said, tapping the marker against the bottom-right box. "Before my sales manager can print any pricing numbers, go ahead and fill out these two credit forms with your Social Security numbers, and tell me if three-eighty-nine a month fits your budget."
 
-"Okay, guys," Tyler said, sliding the Four-Square sheet across the desk alongside **two blank Credit Application forms** highlighted at the **`Social Security Number`** line. "Before my sales manager can print any pricing numbers, go ahead and fill out these two credit forms with your Social Security numbers, and tell me if `$389` a month fits your budget."
+Rachel and I both blinked down at the paper.
 
-Rachel and I both blinked at the paper.
+"Wait," Rachel said, setting her pen down on our notebook. "Why would we have a three-hundred-and-eighty-nine-dollar monthly payment—or fill out a credit application with our Social Security numbers—if we are paying for the car in full from our savings account today?"
 
-"Wait," Rachel said, putting her pen down. "Why would we have a `$389` monthly payment—or fill out a credit application with our Social Security numbers—if we're paying for the car in full from our savings account today?"
+Tyler excused himself, hurried up the steps into the glass-walled sales tower, and returned sixty seconds later with his sales manager, Rick, who planted both palms on the edge of the desk with a practiced, high-pressure grin.
 
-Tyler hurried into the glass-walled sales tower and returned sixty seconds later with his **Sales Manager** (`Rick`), who leaned both palms on the edge of the desk with a practiced, high-pressure grin.
+"Here's the thing, folks," Rick said smoothly. "First off, nobody pays cash anymore—if you pay cash, you lose the fifteen-hundred-dollar Summit Finance Rebate! What smart buyers do is finance the car with our lender today at 6.9 percent for seventy-two months, get the rebate, build your credit for four or five months, and then pay it off later. And second, even if you *did* pay cash, federal Patriot Act regulations require us to pull a credit bureau report on both of your Social Security numbers before we can print a price worksheet."
 
-"Here's the thing, folks," Rick said smoothly. "First off, nobody pays cash anymore—if you pay cash, you lose the **`$1,500` Summit Finance Rebate**! What smart buyers do is finance the car with our lender today at `6.9%` for seventy-two months, get the rebate, build your credit for four or five months, and then pay it off later. And second, even if you *did* pay cash, federal Patriot Act regulations require us to pull a credit bureau report on both of your Social Security numbers before we can print a price worksheet."
+Rachel and I looked at each other. Neither of us had ever worked in an auto dealership, but between Jessica's cybersecurity training at home and our own common sense, both of our internal alarm bells rang at the exact same millisecond. A store never needed to run a hard credit inquiry on a buyer's Social Security number when no credit was being extended; once they had two signed credit applications in their system, they could shotgun our credit reports to ten different banks and try to railroad us into a six-year loan.
 
-Rachel and I looked at each other.
-
-Neither of us had ever worked in a car dealership—but between Jessica's cybersecurity training and our own common sense, both of our internal alarm bells went off at the exact same millisecond.
-
-Why would a store need to pull a hard credit inquiry on your Social Security number when you are *not* borrowing a single penny of credit? Because once they have your signed credit application in their computer, they can shotgun your credit report to ten different banks and try to force you into a loan!
-
-"We aren't giving out our Social Security numbers when we aren't applying for a loan," I said firmly, sliding the two blank credit applications right back across the desk.
+"We aren't giving out our Social Security numbers when we aren't applying for a loan," I said firmly, sliding the two blank credit forms right back across the desk toward Rick's hands.
 
 "And if you won't tell us what the car actually costs in dollars without a monthly payment box," Rachel added, closing our spiral notebook with a crisp snap, "then this isn't the dealership for us."
 
-We stood up together, thanked them for the test drive, and walked right out the front doors while Rick called after us from the desk tower.
+We stood up together, thanked them for the test drive, and walked straight out the front glass doors while Rick called after us from the desk tower.
 
 ***
 
-#### 1:15 PM — Stop 3 (`Coastal Horizon`): Falling in Love with the `2020 Horizon Avalon` & Catching the `$3,800` Addendum Trap
+#### 1:15 PM — Stop 3 (Coastal Horizon): Falling in Love with the 2020 Horizon Avalon & Catching the Addendum Trap
 
-Over a quick lunch of burgers and fries with **Mom** before our afternoon stops, Rachel and I debriefed what had just happened at Summit Motors and did ten minutes of targeted searching on our phones.
+Over burgers and fries with Mom at a diner down the street, Rachel and I debriefed what had just happened at Summit Motors and spent ten focused minutes researching dealership finance tactics on our phones.
 
-That was where we finally discovered why the dealerships were fighting our cash so hard—and learned the magic phrase we had been missing all morning:
+Right there at the diner booth, the entire puzzle clicked into place. That four-box sheet Tyler had pulled from his drawer was a classic Four-Square Worksheet designed to hide the actual price of the vehicle behind a monthly payment number, because dealerships made thousands of dollars in back-end bank kickbacks—dealer reserve—and financed service contracts inside the finance office. A cash buyer who refused a loan cut straight into their favorite profit stream. We also confirmed that a buyer paying with a verified bank Cashier's Check never needed a credit pull, and that instead of asking what a car cost, we needed to ask for a printed, itemized Buyer's Order showing the Out-the-Door cash price—the exact bottom-line total including the vehicle, factory freight, Virginia's 4.15 percent Motor Vehicle Sales and Use Tax, DMV title and registration fees, and the dealer processing fee.
 
-1. That four-box sheet Tyler had pulled out of his drawer was called a **Four-Square Worksheet**—a classic dealership tactic designed to hide the actual price of the car behind a monthly payment number. And because dealerships make thousands of dollars in back-end bank kickbacks (*dealer reserve*) and financed add-ons inside the Finance Office, a cash buyer who doesn't take a loan or buy an extended warranty cuts straight into their favorite profit center.
-2. You **never** need a credit check when paying with a bank Cashier's Check.
-3. And instead of asking *"How much is the car?"*, you have to demand a printed, itemized **Buyer's Order** showing the **Out-the-Door (`OTD`) Price**—the exact bottom-line cash number including the vehicle, freight, **Virginia's `4.15%` Motor Vehicle Sales and Use Tax**, Virginia DMV title and registration fees, and the dealer processing fee.
+Armed with our new vocabulary, we rode with Mom to our third dealership of the day, Coastal Horizon, to test-drive the fourth sedan on our shortlist: the 2020 Horizon Avalon.
 
-Armed with our newly discovered playbook, Mom drove us to our third dealership of the day—**Coastal Horizon**—so we could test-drive the fourth car on our shortlist: the **`2020 Horizon Avalon`**.
+From the second Rachel and I climbed into a royal blue 2020 Horizon Avalon on the lot, both of us knew we had found our car.
 
-From the second Rachel and I climbed into a **royal blue `2020 Horizon Avalon`** for the test drive, **both of us knew we had found our car**.
+Rachel drove the first half of the test route while I rode shotgun, and then we swapped seats in a shopping center lot so I could drive the return leg. Everything that had felt awkward on the Holt Meridian and the Summit Verve felt effortless in the Horizon Avalon. The seat height, steering-wheel reach, and wide glass sightlines fit our five-foot-seven frames as though the cabin had been tailored specifically for the two of us. Instead of a grabby turbo or a rubbery CVT, the Avalon's naturally aspirated four-cylinder engine and real eight-speed stepped automatic transmission delivered smooth, linear acceleration. Most importantly for my cerebral palsy, the angle and progressive resistance of the gas and brake pedals let my right heel rest at a natural, relaxed pivot on the floorboard without a trace of ankle fatigue.
 
-Rachel drove the first half of the loop; I drove the second half. Everything that had felt wrong on the Holt Meridian and the Summit Verve felt effortless in the **Horizon Avalon**:
-* The driver's seat height, steering-wheel reach, and side-mirror sightlines fit our `5'7"` frames like the cabin had been tailored specifically for the two of us.
-* Instead of a jumpy turbo or a rubbery CVT, the Avalon's naturally aspirated four-cylinder engine and real eight-speed automatic transmission accelerated with smooth, linear predictability.
-* Most importantly for my **cerebral palsy**, the angle and resistance of the gas and brake pedals allowed my right ankle to rest at a natural, relaxed pivot without a shred of cramping or fatigue.
-
-When we pulled into the shopping center lot halfway through the drive to swap seats, Rachel didn't even wait until we got back to the dealership—she leaned across the center console and wrapped me in a tight, beaming Bear and Bug hug right there in the front seats.
+Before we even pulled out of the shopping center lot after swapping seats, Rachel leaned across the center console and wrapped me in a tight, beaming Bear and Bug hug right there in the front cabin.
 
 "This is the one, Bear," Rachel whispered happily against my shoulder. "I love how it drives."
 
-"Me too, Bug," I grinned, hugging her back just as tightly. "The Horizon Avalon is `100%` our car."
+"Me too, Bug," I grinned, hugging her back just as tightly. "The Horizon Avalon is one hundred percent our car."
 
-When we parked back at **Coastal Horizon**, Rachel and I laced our fingers back together, walked into the showroom feeling genuinely excited, and asked our salesman for a printed, itemized **Out-the-Door Cash Buyer's Order** on the royal blue **2020 Horizon Avalon** whose factory window sticker (`Monroney label`) read **`$24,600`**.
+When we parked back at Coastal Horizon, Rachel and I laced our fingers together, walked into the showroom brimming with excitement, and asked our salesman for a printed, itemized Out-the-Door Cash Buyer's Order on the royal blue 2020 Horizon Avalon whose factory Monroney window sticker read twenty-four thousand six hundred dollars.
 
-The salesman disappeared into the manager's office for fifteen minutes.
+The salesman disappeared into the manager's office for fifteen minutes. When he finally walked back out and laid the printed worksheet on the desk between Rachel and me, my eyes dropped to the bottom-right corner—where the total read well past thirty thousand dollars, blowing right through our entire savings account ceiling.
 
-When he came back and laid the printed sheet on the desk in front of Rachel and me, my eyes dropped to the bottom-right corner—and the total read **`$30,450.00`**, four hundred and fifty dollars over our entire `$30,000` savings account!
+Rachel and I pulled the worksheet between us and audited every line item with the tip of my pen. Right below the twenty-four-thousand-six-hundred-dollar base price of the Avalon, the desk manager had tacked on up to four thousand four hundred and eighty dollars in bogus dealer addendum markups—starting with three thousand eight hundred dollars of pure wax and air across four pre-printed lines: twelve hundred and ninety-five dollars for a Coastal Protection Shield paint and fabric sealant, six hundred and ninety-five dollars for a NitroFill nitrogen tire package, five hundred and ninety-five dollars for VIN window etching, and twelve hundred and fifteen dollars for a mandatory dealer prep and reconditioning fee, all stacked on top of the processing fee, tax, and tags.
 
-Rachel and I pulled the sheet between us and audited every single line item with our pen:
-* Base `2020 Horizon Avalon` (including destination/freight): `$24,600.00`
-* *"Coastal Protection Shield (Paint & Fabric Sealant)"*: **`$1,295.00`**
-* *"NitroFill Performance Tire Package (Nitrogen Air)"*: **`$695.00`**
-* *"Security Plus VIN Window Etching"*: **`$595.00`**
-* *"Mandatory Dealer Prep & Reconditioning Fee"*: **`$1,215.00`**
-* Dealer Processing Fee + Virginia `4.15%` Sales Tax + DMV Tags: **`$2,050.00`**
+"Take off the paint sealant, the nitrogen air in the tires, the window etching, and the dealer prep fee," I said calmly, tapping the four addendum lines with my pen while Rachel leaned in right beside me. "It's a brand-new car—factory pre-delivery inspection is already paid for by Horizon Motors on the invoice, and the atmosphere is already seventy-eight percent nitrogen for free. If you give us a clean Out-the-Door Buyer's Order for the twenty-four-thousand-six-hundred-dollar car plus Virginia tax, DMV tags, and your standard processing fee—around twenty-six thousand six hundred to twenty-six thousand eight hundred and fifty dollars—we will drive five minutes down the boulevard to Anchor Federal Credit Union right now and bring you a Cashier's Check."
 
-Because they knew they weren't going to make a kickback in the Finance Office on a cash deal, the desk manager had packed **`$3,800.00` of pure air and wax** onto the sheet!
+"Sorry, guys," the salesman sighed, pointing to the secondary addendum sticker taped beside the factory window label outside. "My manager says those four protection packages are pre-installed on every car on our lot. We don't sell any Avalon without them—especially on a cash deal."
 
-"Take off the `$1,295` paint sealant, the `$695` nitrogen air in the tires, the `$595` window etching, and the `$1,215` prep fee," I said calmly, pointing to the four bogus lines with my pen while Rachel backed me up right beside me. "It's a brand-new car—factory prep is already included in the Horizon manufacturer invoice, and normal air is already `78%` nitrogen for free. If you give us a clean Out-the-Door Buyer's Order for the `$24,600` car plus Virginia tax, DMV tags, and your standard processing fee—around `$26,650` to `$26,850`—we will drive five minutes down the street to **Anchor Federal Credit Union** right now and bring you a Cashier's Check."
+Rachel and I looked at each other, smiled calmly, and stood up in seamless synchronization. We hadn't fallen for a financing trap, we hadn't handed over our Social Security numbers, we knew the exact make, model, and color we loved, and we knew the fair Out-the-Door math to the dollar.
 
-"Sorry, guys," the salesman sighed, tapping the secondary dealer addendum sticker taped next to the factory window sticker. "My manager says those four protection packages are pre-installed on every car on our lot. We don't sell any Avalon without them—especially on a cash deal."
-
-Rachel and I looked at each other, smiled calmly, and stood up in perfect synchronization.
-
-We hadn't gotten trapped, we hadn't given out our Social Security numbers, we knew the exact model we wanted, and we knew the exact fair Out-the-Door math to the dollar.
-
-"Thank you for your time," Rachel said brightly, lacing her fingers through mine as we turned toward the door. "There's another Horizon dealer twenty minutes across town."
+"Thank you for your time," Rachel said brightly, lacing her fingers through mine as we turned toward the lobby doors. "There's another Horizon dealership twenty minutes across town."
 
 ## Bayside Horizon: Equal Co-Owners, Cashier's Check, & Two Sets of Keys
 
@@ -31359,56 +31182,45 @@ We hadn't gotten trapped, we hadn't given out our Social Security numbers, we kn
 
 #### 3:15 PM — "Brother and Sister, Fifty-Fifty, Cash Out the Door"
 
-By **`3:15 PM`** on Saturday afternoon, **Mom (`Ellen`)** pulled her car into the customer lot of our fourth dealership of the day: **Bayside Horizon**.
+The glass showroom doors of Bayside Horizon slid open at a quarter past three as Rachel and I walked inside from Mom's car, holding hands with our fingers laced tightly together.
 
-Walking through the glass showroom doors together—once again holding hands with our fingers laced together—**Rachel** and I were greeted by a forty-something saleswoman with a warm, no-nonsense smile and a nametag reading **`DENISE CARTER`**.
+A forty-something saleswoman with a warm, no-nonsense smile and a silver nametag reading *Denise Carter* stepped forward to greet us, looking directly into Rachel's eyes and then mine with equal, unhurried attention.
 
-"Good afternoon!" Denise said, looking equally at both of us—meeting Rachel's eyes and then mine—before gesturing toward the showroom floor. "Welcome to Bayside Horizon. What brings the two of you in today?"
+"Good afternoon!" Denise said, gesturing toward the sunlit showroom floor. "Welcome to Bayside Horizon. What brings the two of you in today?"
 
-After three dealerships' worth of field experience since ten o'clock that morning, Rachel and I delivered our opening brief like a seasoned two-person aircrew.
+After five hours and three dealerships' worth of live field experience since ten o'clock that morning, Rachel and I delivered our opening brief like a seasoned two-person flight crew.
 
-"Hi Denise," I said, while Rachel held up our spiral notebook. "First, just so you know up front: we're **brother and sister**—I'm Michael, and this is my sister Rachel—and we are buying a car **fifty-fifty together** as equal co-owners and the only two drivers."
+"Hi, Denise," I said, while Rachel held our spiral notebook ready in her free hand. "First, just so you know up front: we're brother and sister—I'm Michael, and this is my sister Rachel—and we are buying a car fifty-fifty together as equal co-owners and the only two drivers."
 
-"Second," Rachel said, picking up the baton without missing a beat, "we already test-drove several makes and models earlier today and decided we want a **royal blue `2020 Horizon Avalon`** in the standard mid-level trim. And third, we are **100% cash buyers**. We have the funds sitting in our joint **Anchor Federal Credit Union** savings account right down the street. We aren't financing, we aren't filling out a credit application or giving out our Social Security numbers, and we aren't paying for nitrogen tires or paint-protection add-ons. If you have a royal blue `2020 Avalon` on the lot and can give us a straightforward, itemized **Out-the-Door Cash Buyer's Order**—just the car, Virginia tax, DMV title and tags, and your standard processing fee—we will go pick up a Cashier's Check from Anchor Federal Credit Union and buy it from you today."
+"Second," Rachel said, picking up the cadence without missing a beat, "we already test-drove several makes and models earlier today and decided we want a royal blue 2020 Horizon Avalon in the standard mid-level trim. And third, we are one hundred percent cash buyers. We have the funds sitting in our joint Anchor Federal Credit Union savings account right down the street. We aren't financing, we aren't filling out a credit application or giving out our Social Security numbers, and we aren't paying for nitrogen tires or paint-protection add-ons. If you have a royal blue 2020 Avalon on the lot and can give us a straightforward, itemized Out-the-Door Cash Buyer's Order—just the car, Virginia tax, DMV title and tags, and your standard processing fee—we will go pick up a Cashier's Check from Anchor Federal Credit Union and buy it from you today."
 
 Denise paused for two seconds, looked from Rachel to me, and broke into a genuine, refreshing laugh.
 
-"Well," Denise said, "that is the clearest, most organized introduction I have heard all month! Sounds like some of the lots down on the boulevard put the two of you through the ringer this morning."
+"Well," Denise said, "that is the clearest, most organized introduction I have heard all month! Sounds like some of the lots down on the boulevard put the two of you through the wringer this morning."
 
-"You have no idea," Rachel laughed, relaxing her shoulders as I gave her hand a happy squeeze. "The first guy wouldn't even look at me because he thought Michael was my husband, and the third place tried to charge us seven hundred dollars for air in the tires."
+"You have no idea," Rachel laughed, letting her shoulders drop as I gave her fingers a happy squeeze. "The first guy wouldn't even look at me because he thought Michael was my husband, and the third place tried to charge us nearly seven hundred dollars for air in the tires."
 
-"You won't get any of that nonsense at my desk," Denise promised, looking squarely at Rachel and then back to me. "My younger brother and I bought our first car together when we were in our twenties, so I respect the sibling partnership completely. Every question either of you asks gets a straight answer to both of you, and we don't put addendum markups on our cars. Let me pull the keys to a **Royal Blue Metallic `2020 Horizon Avalon`** we just unloaded off the transport truck on Thursday—only four miles on the odometer—so the two of you can inspect and drive the exact vehicle first, and while we're walking out, I'll have my desk manager print your exact Out-the-Door Cash Buyer's Order to the penny."
+"You won't get any of that nonsense at my desk," Denise promised, meeting Rachel's gaze squarely and then looking back to me. "My younger brother and I bought our first car together when we were in our twenties, so I respect the sibling partnership completely. Every question either of you asks gets a straight answer to both of you, and we don't put addendum markups on our cars. Let me pull the keys to a Royal Blue Metallic 2020 Horizon Avalon we just unloaded off the transport carrier on Thursday—only four miles on the odometer—so the two of you can inspect and drive the exact vehicle first, and while we're walking out, I'll have my desk manager print your exact Out-the-Door Cash Buyer's Order to the penny."
 
 ***
 
-#### 3:40 PM — Test-Driving `VIN #4T1...` & The `$26,840.00` Buyer's Order
+#### 3:40 PM — Test-Driving Our Avalon & The $26,840.00 Buyer's Order
 
-True to her word, Denise walked us out to a gleaming **Royal Blue Metallic `2020 Horizon Avalon`** with `4` miles on the digital odometer.
+Out on the back row of the inventory lot, the afternoon light caught the deep metallic flake of a gleaming Royal Blue Metallic 2020 Horizon Avalon with just four miles showing on its digital odometer cluster.
 
-Before we even turned the key, Denise handed one spec sheet to Rachel and a second copy to me. Whenever Rachel asked a question—checking the trunk release, testing the backup camera display, or verifying the spare tire beneath the trunk mat—Denise looked directly into Rachel's eyes and answered her with complete professional respect.
+Before we even pressed the starter button, Denise handed one printed specification sheet to Rachel and a second copy to me. Every single time Rachel asked a question—checking the trunk release button, testing the wide-angle backup camera display, or lifting the carpeted trunk mat to verify the spare tire and jack assembly—Denise looked directly into Rachel's eyes and answered her with complete professional respect.
 
-We took the royal blue Avalon out on a fifteen-minute test loop—Rachel driving the first half, and me driving the second half back to the lot—confirming that our specific car drove every bit as quietly and effortlessly as the one we had tested earlier.
+We took the royal blue Avalon out for a fifteen-minute test loop along the boulevard, with Rachel driving the outbound leg and me driving the return leg back to the lot, confirming that this specific sedan tracked and braked every bit as quietly and effortlessly as the one we had driven earlier.
 
-When we sat down at Denise's desk at **`3:55 PM`** (with Mom smiling proudly from the lounge sofa nearby), there was no Four-Square worksheet and no credit application anywhere in sight.
+When we sat down at Denise's desk at five minutes to four, with Mom smiling proudly from the customer lounge sofa across the showroom, there was no four-square worksheet and no credit application anywhere in sight.
 
-Instead, Denise laid a single, clean, itemized **Retail Buyer's Order (`CASH TRANSACTION`)** right in the center of the desk so both Rachel and I could read it together:
+Instead, Denise placed a single, crisp, itemized Retail Buyer's Order marked *Cash Transaction* squarely in the middle of the desk blotter so both Rachel and I could read every line side by side. Right at the top of the Buyer's Order stood both of our full legal names—Michael Thomas Ragsdale as Co-Buyer One and Rachel Anna Ragsdale as Co-Buyer Two—for the new 2020 Horizon Avalon four-door sedan in Royal Blue Metallic. Beneath the vehicle identification number, the numbers marched down the column with crystal clarity: a selling price of $24,990.00 including factory destination and freight after applying the $500.00 Horizon Customer Cash Incentive, a $699.00 dealer processing fee, $1,066.09 for Virginia's 4.15 percent Motor Vehicle Sales and Use Tax, and $84.91 for the Virginia DMV Certificate of Title, joint registration, and license plates. The line for dealer add-ons and aftermarket packages read $0.00, the amount to be financed read $0.00, and the total Out-the-Door cash price due sat at exactly $26,840.00.
 
-* **Co-Buyer 1:** `MICHAEL THOMAS RAGSDALE`
-* **Co-Buyer 2:** `RACHEL ANNA RAGSDALE`
-* **Vehicle:** `NEW 2020 HORIZON AVALON (4-DOOR SEDAN — ROYAL BLUE METALLIC)`
-* **Selling Price (including Factory Destination & Freight, minus `$500` Horizon Customer Cash Incentive):** **`$24,990.00`**
-* **Dealer Processing Fee:** **`$699.00`**
-* **Virginia `4.15%` Motor Vehicle Sales & Use Tax:** **`$1,066.09`**
-* **Virginia DMV Certificate of Title, Joint Registration, & License Plates:** **`$84.91`**
-* **Dealer Add-Ons / Aftermarket Packages:** **`$0.00`**
-* **TOTAL OUT-THE-DOOR CASH PRICE DUE:** **`$26,840.00`**
-* **AMOUNT TO BE FINANCED:** **`$0.00`**
+Rachel and I verified every line against our notebook calculator. There was not a single hidden fee or bogus markup on the page, and the bottom-line total came in $3,160.00 below the $30,000.00 Jessica had wired into our joint savings account.
 
-Rachel and I checked every single line item against our notebook calculator. Not a single hidden fee, not a single bogus markup, and `$3,160.00` underneath the `$30,000.00` that Jessica had wired into our joint savings account.
+Rachel turned toward me across the desk, her dark brown eyes shining behind her glasses. "What do you say, Co-Owner?"
 
-Rachel looked at me across the desk, her dark brown eyes shining behind her glasses. "What do you say, Co-Owner?"
-
-"Fifty-fifty, Bug," I beamed, reaching across the arm of our chairs to wrap my sister in a tight, celebratory hug right there at Denise's desk. "Let's buy our car."
+"Fifty-fifty, Bug," I beamed, reaching across the arms of our chairs to wrap my sister in a tight, celebratory hug right there in the middle of the showroom. "Let's buy our car."
 
 ### Part 2: The Cashier's Check, Joint Virginia Title (VSA 17A), & Driving Our Avalon Home
 
@@ -31416,77 +31228,53 @@ Rachel looked at me across the desk, her dark brown eyes shining behind her glas
 
 ![In the delivery bay at Bayside Horizon, Michael and Rachel hug tightly beside their new royal blue 2020 Horizon Avalon holding their matching sets of keys while Ellen and saleswoman Denise Carter smile nearby]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_bayside_horizon_two_keys_handover.jpg)
 
-#### 4:15 PM — Closing Our Cash Purchase Step by Step
+#### 4:15 PM — Closing Our Cash Purchase
 
-With our honest **Out-the-Door Buyer's Order** printed on the desk, the closing process moved like clockwork—and Denise walked **Rachel** and me through every step with zero mysteries:
+Pen in hand, I signed my full legal name—Michael Thomas Ragsdale—on the Co-Buyer One line at the bottom of the $26,840.00 Retail Buyer's Order, and then passed the pen across the desk to Rachel, who signed Rachel Anna Ragsdale right beside mine on the Co-Buyer Two line, locking in the exact out-the-door price and our sedan's seventeen-digit vehicle identification number.
 
-##### Step 1: Signing the Buyer's Order & Sending the Car to Detail
-First, Rachel and I both signed the bottom of the **`$26,840.00` Cash Buyer's Order** as equal Co-Buyers (`MICHAEL THOMAS RAGSDALE` and `RACHEL ANNA RAGSDALE`), locking in the exact price and the vehicle's seventeen-digit **VIN**. While Denise sent our royal blue **2020 Horizon Avalon** back to the detail bay to have the protective factory plastic peeled off the seats, the exterior washed, and the gas tank filled to the top, she handed us a signed copy of the Buyer's Order to take to our credit union.
+"While I send your royal blue Avalon back to our detail bay to have the protective factory plastic peeled off the seats, the exterior hand-washed, and the fuel tank topped all the way up," Denise Carter said, handing us a countersigned copy of the Buyer's Order in a crisp folder, "the two of you have plenty of time to run down the street to your credit union before their Saturday lobby closes at five."
 
-##### Step 2: Picking Up the `$26,840.00` Cashier's Check at Anchor Federal Credit Union
-Because car dealerships don't hand over keys on a twenty-six-thousand-dollar personal check (and cap debit card swipes due to merchant processing fees), **Mom (`Ellen`)** drove Rachel and me five minutes down the road to the nearest **Anchor Federal Credit Union (`AFCU`)** branch before the Saturday teller lobby closed at `5:00 PM`.
+Because auto dealerships never release a vehicle on a twenty-six-thousand-dollar personal check and cap debit card swipes due to merchant processing fees, Mom drove Rachel and me five minutes up the boulevard to the nearest Anchor Federal Credit Union branch. Walking up to the teller counter together with our fingers laced tightly together, Rachel and I presented our Virginia driver's licenses, our Anchor Federal member cards, and the signed Bayside Horizon Buyer's Order.
 
-Walking up to the teller window together with our fingers laced together, Rachel and I presented our Virginia driver's licenses, our **Anchor Federal Credit Union** member cards, and the signed Bayside Horizon Buyer's Order. Within three minutes, the teller withdrew **`$26,840.00`** from our **Joint Savings Account** (`MICHAEL THOMAS RAGSDALE AND RACHEL ANNA RAGSDALE`—leaving `$3,160.00` untouched inside the account for insurance and maintenance) and printed a crisp, watermarked **Official Credit Union Cashier's Check** payable to **`BAYSIDE HORIZON`** for **`$26,840.00`**.
+Within three minutes, the teller withdrew $26,840.00 from our Joint Savings Account—leaving $3,160.00 untouched inside the shared account as our dedicated reserve for auto insurance and maintenance—and printed a crisp, watermarked Official Credit Union Cashier's Check payable to Bayside Horizon for exactly $26,840.00. Because a single bank cashier's check over ten thousand dollars is drawn directly on verified credit union funds rather than physical paper currency, it didn't even require the federal IRS Form 8300 cash-reporting paperwork that greenback transactions trigger.
 
-*(Because a single bank Cashier's Check over `$10,000` is drawn directly on verified credit union funds—unlike walking into a dealership with a duffel bag of hundred-dollar bills—it doesn't even trigger the federal IRS Form 8300 physical-currency reporting paperwork).*
+By twenty-five minutes to five, Mom had driven us back to Bayside Horizon, where Rachel and I sat down at Denise's desk and dialed our auto insurance carrier on speakerphone to bind coverage on the Avalon's VIN before stepping into the business office.
 
-##### Step 3: Binding Joint Virginia Auto Insurance (`+5` Safe Driving Points, The Moosewood Household Roster, & The Harrisonburg Courthouse Crosswalk)
-When Mom drove us back to **Bayside Horizon** at `4:35 PM`, Rachel and I sat down at Denise's desk and called our auto insurance carrier on speakerphone before entering the business office.
+Because Virginia auto insurance underwriters run every adult residing at a vehicle's physical garaging address on Moosewood Drive, we walked the underwriting agent cleanly through our household structure. First, we listed Michael Thomas Ragsdale and Rachel Anna Ragsdale as joint Named Insureds and the only two rated drivers on the 2020 Horizon Avalon. Next, for the remaining residents at our Moosewood Drive address, we disclosed Jessica and Kristin as non-licensed household residents carrying Virginia Non-Driver State ID cards only—which added zero dollars to our premium—and provided the active policy number for Ashley's car parked in our driveway so the underwriter could mark her as separately insured on her own vehicle under Virginia's Separately Insured Household Member statute, Va. Code § 38.2-2204.
 
-Because Virginia auto insurance underwriters run every adult living at the physical **garaging address** (`Moosewood Drive, Virginia Beach, VA`), setting up our policy cleanly came down to three exact rules:
+Even better, because Mom had kept both Rachel and me listed as insured drivers on her car's policy continuously ever since [our Adult Behind-the-Wheel lessons back in 2016](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-45-mph-curves-passing-the-road-test-on-the-first-try/45-mph-on-the-kempsville-lynnhaven-curves-passing-the-road-test-on-the-first-try), the underwriting system credited us with four unbroken years of continuous prior insurance coverage right out of the gate. And when the agent pulled our official Virginia DMV driving transcripts, both Rachel and I held the maximum +5 Safe Driving Points.
 
-1. **Named Insureds & Only Two Rated Drivers:** **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`** (`Moosewood Drive, Virginia Beach, VA`)—brother and sister as the **only two rated drivers** on the **2020 Horizon Avalon**.
-2. **The Moosewood Drive Household Roster (`Zero Extra Driver Surcharges`):**
-   * **Jessica** (prohibited from driving for medical reasons) and **Kristin** (who chooses not to drive) were listed on the household disclosure as **Non-Licensed Household Residents (`Virginia State ID Only`)**, adding `$0.00` to our premium.
-   * **Ashley**—the only other licensed driver living at our Moosewood Drive address—owned her own car parked in our driveway and carried her own separate auto insurance policy. Under Virginia's **Separately Insured Household Member** rule (`Va. Code § 38.2-2204`), we simply cross-referenced Ashley's active policy number so the underwriter marked her as *Insured Elsewhere / Own Vehicle* (`Non-Rated`).
-3. **Continuous Prior Insurance (`2016–2020` on Mom's Policy) & `+5` Virginia DMV Safe Driving Points:**
-   * Because **Mom (`Ellen`)** had paid for our [**Behind-the-Wheel** lessons back in **2016**](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-45-mph-curves-passing-the-road-test-on-the-first-try/45-mph-on-the-kempsville-lynnhaven-curves-passing-the-road-test-on-the-first-try) and kept both Rachel and me listed as insured drivers on her car's policy ever since (even though Mom lived at her own address), we didn't get hit with a *"new uninsured buyer"* surcharge—we had **four years of continuous prior insurance coverage** right out of the gate.
-   * Better yet, when the agent pulled our official Virginia DMV transcripts, **both Rachel and I held the maximum `+5` Safe Driving Points**.
+The only collision either of us had ever been involved in—when [we were rear-ended at the Downtown Harrisonburg courthouse crosswalk on the Sunday after Thanksgiving in November 2017](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-1-the-vdot-message-board-mm-244-exit-251-onto-southbound-us-11-rear-ended-at-the-harrisonburg-courthouse-crosswalk) after detouring off I-81 South at Exit 251 onto southbound U.S. Route 11 and stopping in the twenty-five-mile-per-hour zone at Court Square to wave two pedestrians across—sat on the record at zero percent fault. Because the Rockingham County Sheriff's Deputy had taken eyewitness statements from both pedestrians on the spot and cited the distracted driver behind us ([right before Rachel and I survived our anxious phone call to Mom and rejoined I-81 South at Exit 243](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-2-scared-of-getting-in-trouble-calling-ellen-rejoining-i-81-south-at-exit-243)), Mom's Uninsured Motorist coverage had paid for the bumper repair after the other driver turned out to be uninsured, preserving every single one of my +5 Safe Driving Points alongside Rachel's +5 and reminding us to include full Uninsured Motorist coverage on our new Avalon from day one.
 
-Why did I still have all **`+5` Safe Driving Points** despite having been involved in one collision since 2016?
+Two minutes later, the insurance binder and temporary Virginia proof-of-insurance cards pinged into Denise's email inbox and onto both of our phones, freeing Mom to remove us from her own car's rated driver list now that we had a policy of our own.
 
-Because [the **only** collision Rachel and I had ever been in—on the **Sunday after Thanksgiving in November 2017** in **Downtown Harrisonburg**](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-1-the-vdot-message-board-mm-244-exit-251-onto-southbound-us-11-rear-ended-at-the-harrisonburg-courthouse-crosswalk) while driving home from visiting our friend **Terry** in **Luray**—was `100%` **Not-At-Fault**:
-* After detouring off **`I-81 South` at `Exit 251`** onto **southbound `U.S. Route 11` (`Main Street`)** to avoid a wreck at Milepost `244`, I had come to a complete, lawful stop in the **`25 MPH`** zone where **`US-33` meets `US-11` at the Rockingham County Courthouse** and waved **two pedestrians** across the crosswalk—when a driver behind us talking on a cell phone rear-ended Mom's car.
-* When the other driver claimed they had insurance *"but couldn't find their policy number"* and begged us not to call the police, a **Rockingham County Sheriff's Deputy** happened to roll right past the courthouse on unrelated business, pulled over, and took eyewitness statements from the two pedestrians who stayed on the sidewalk to back me up.
-* And once the insurance adjusters ran the deputy's report ([after Rachel and I survived our nervous phone call to Mom before rejoining `I-81 South` at `Exit 243`](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-2-scared-of-getting-in-trouble-calling-ellen-rejoining-i-81-south-at-exit-243)), it turned out the other driver had panicked because they were **completely uninsured**—meaning Mom's **Uninsured Motorist (`UM / UMPD`)** coverage paid for the bumper repair with **`0%` fault**, preserving my **`+5` Safe Driving Points** alongside Rachel's **`+5`** and making sure we kept full **Uninsured Motorist** protection on our new Avalon from day one.
+When we stepped into the dealership's Business Office for the final ten minutes of state paperwork, there was no loan contract on the desk. When the business manager offered the optional extended service plans and tire packages, Rachel and I politely declined in favor of the factory Horizon warranty, and he moved straight to the most important document of the entire day: the Commonwealth of Virginia Department of Motor Vehicles Application for Certificate of Title and Registration, Form VSA 17A.
 
-Within two minutes, the insurance binder and temporary Virginia insurance cards arrived in Denise's email inbox and on both of our phones (allowing Mom to finally drop us from her car's rated driver list now that we had our own insured sedan).
+Leaning in shoulder to shoulder over the desk, Rachel and I verified every letter of our legal co-ownership across the top of the Virginia DMV application. Under Owner's Full Legal Name stood *RAGSDALE, MICHAEL THOMAS*, and right beside it under Co-Owner's Full Legal Name stood *RAGSDALE, RACHEL ANNA*, linked by the joint ownership designation *AND* with Right of Survivorship—meaning both brother and sister held one hundred percent equal legal title to the vehicle, neither sibling's name was subordinate to the other, and both of our signatures would always be legally required to ever sell or transfer the car.
 
-##### Step 4: The Business Office & Virginia DMV Form `VSA 17A` (Equal Co-Owners)
-Even when you pay `100%` in cash with zero loan, you still sit down for ten minutes inside the dealership's **Business (`F&I`) Office**—not to sign a loan contract, but to complete the state DMV title, registration, and odometer paperwork.
-
-When the Business Manager offered us the optional extended warranty and tire-and-wheel service plans, Rachel and I politely said, *"No, thank you, just the factory Horizon warranty,"* and he respected our answer without a second push.
-
-Then came the most important document of the entire day: the **Commonwealth of Virginia Department of Motor Vehicles Application for Certificate of Title and Registration (`Form VSA 17A`)**.
-
-Right across the top of the Virginia DMV form, we verified every letter of our legal co-ownership:
-* **Owner's Full Legal Name:** **`RAGSDALE, MICHAEL THOMAS`**
-* **Co-Owner's Full Legal Name:** **`RAGSDALE, RACHEL ANNA`**
-* **Joint Ownership Designation:** **`AND`** with **Right of Survivorship (`JTWROS`)**—meaning both brother and sister hold `100%` equal legal title to the car, neither sibling's name is subordinate to the other, and **both** of our signatures are legally required to ever sell or transfer the vehicle.
-
-We handed the Business Manager the **`$26,840.00` Anchor Federal Credit Union Cashier's Check**, received our stamped **`PAID IN FULL — BALANCE DUE: $0.00`** receipt, and watched the dealership's online Virginia DMV terminal print our official **Virginia Vehicle Registration Card** right there on the desk—displaying both **`RAGSDALE, MICHAEL THOMAS`** and **`RAGSDALE, RACHEL ANNA`** side by side as the registered owners.
+We signed the VSA 17A title application side by side, handed the business manager our $26,840.00 Anchor Federal Credit Union Cashier's Check, received our stamped receipt reading *PAID IN FULL — BALANCE DUE: $0.00*, and watched the dealership's online DMV terminal print our permanent Virginia Vehicle Registration Card on the spot with both *RAGSDALE, MICHAEL THOMAS* and *RAGSDALE, RACHEL ANNA* printed together as the registered owners.
 
 ***
 
 #### 5:10 PM — Two Sets of Keys & The End of the Bus Era
 
-Out under the bright lights of the delivery bay, our brand-new **royal blue `2020 Horizon Avalon`** was gleaming fresh from the wash bay—with the polished chrome **Horizon Motors** crest (a stylized rising sun and horizon line inside a sleek hexagonal badge) shining at the top of the front grille, our new **front and rear Virginia license plates** freshly bolted onto both bumpers, and our joint registration card tucked neatly inside the glove compartment.
+Out under the bright overhead lights of the delivery bay, our brand-new royal blue 2020 Horizon Avalon gleamed fresh from the wash bay. At the top of its front grille shone the polished chrome Horizon Motors crest—a stylized rising sun and horizon line set inside a sleek hexagonal badge—while our newly issued Virginia license plates sat bolted cleanly onto both the front and rear bumpers and our joint registration card rested inside the glove compartment.
 
-Denise stood by the open driver's door holding two identical black electronic key fobs.
+Denise stood beside the open driver's door holding two identical black electronic key fobs.
 
 She didn't hand both fobs to me.
 
-She handed **one key fob to Rachel**, and **one key fob to me**.
+She placed one key fob into Rachel's hand, and one key fob into mine.
 
 "Congratulations to *both* of you," Denise smiled warmly, shaking Rachel's hand first and then mine. "Safe travels, Co-Owners."
 
-Right there beside the hood of our brand-new royal blue car, Rachel threw both arms around my neck and I wrapped both arms around her waist in a long, tight, full-strength **Bear and Bug** hug while Mom snapped a photo of the two of us on her phone.
+Right there beside the hood of our royal blue sedan, Rachel threw both arms around my neck and I wrapped both arms around her waist in a long, tight, full-strength Bear and Bug hug while Mom snapped a photo of the two of us on her phone.
 
-For the drive home to **Moosewood Drive**, Mom led the way in her car while I drove the first half and Rachel rode shotgun—and halfway home, just for the sheer joy of it, we pulled into a shopping center lot and swapped seats so Rachel could drive our new Avalon the rest of the way into the Silverleaf neighborhood, turn onto **Moosewood Drive**, and back it smoothly into our wide single-family driveway right alongside **Ashley's** car as **Jessica**, **Kristin**, and **Ashley** came out the front door to cheer and admire our new royal blue sedan.
+For the drive home to Moosewood Drive, Mom led the way in her silver sedan while I took the wheel of our Avalon for the first half of the trip with Rachel riding shotgun, her fingers laced through mine across the console. Halfway home, just for the sheer joy of sharing our inaugural run fifty-fifty, we pulled into a shopping center lot and swapped seats so Rachel could drive our new Avalon the rest of the way into the Silverleaf neighborhood, turn smoothly onto Moosewood Drive, and back it into our wide single-family driveway right alongside Ashley's car as Jessica, Kristin, and Ashley stepped out the front door cheering to admire our royal blue sedan.
 
-Inside on our desks in the **Command Center**, our two **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`** were still waiting for our upcoming **March 2020 Spring Break** trip to North Linthicum, Baltimore, and Washington, D.C.—because we had already paid for those train tickets back in January before we knew we were buying a car, and we had every intention of taking our Spring Break train trip next month.
+Back inside on our desks in the Command Center, our two printed ARTS Business Class train tickets from Norfolk to BWI Rail Station were still waiting in their folder for our upcoming March 2020 Spring Break trip to North Linthicum, Baltimore, and Washington, D.C.—because we had already paid for those tickets in January and had every intention of taking our Spring Break train adventure next month.
 
-As Rachel and I hung our matching **Horizon Avalon** key fobs side by side on the key hook by the front door on the evening of **Saturday, February 15, 2020**, and pulled each other into one more tight hug in the hallway, all I knew was that after years of riding `CVTA` buses through summer heatwaves and freezing winter rain, my days as a daily bus rider were officially over—and in just a few weeks, we would be boarding the train for Spring Break.
+As Rachel and I hung our matching Horizon Avalon key fobs side by side on the brass hooks by the front door and pulled each other into one more quiet, grounding hug in the hallway, all I knew was that after years of standing at wind-swept bus stops through summer heatwaves and freezing February rain, our days as daily bus riders were officially over.
 
 # Code Susquehanna
 
@@ -31500,71 +31288,73 @@ As Rachel and I hung our matching **Horizon Avalon** key fobs side by side on th
 
 #### 5:50 PM — Five Minutes Left on the Clock
 
-Sitting in my chair behind the Front Desk at the **Fairlawn Recreation Center** in my royal blue polo shirt and pinned **`MICHAEL`** chest nametag on the late afternoon of **Wednesday, March 13, 2024**, I was ten minutes away from clocking out at **`6:00 PM`**.
+The brass edge of my clipboard clicked softly against the laminate counter as I squared the afternoon check-in sheets into a neat stack. Across the lobby of the Fairlawn Recreation Center, the late-afternoon glare of Wednesday, March 13, 2024 was fading into cool twilight beyond the sliding glass entrance doors.
 
-Outside in the parking lot, my sister **Rachel** was just pulling into a parking space in our shared [**2020 Horizon Avalon**](https://books.raggiesoft.com/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-2-the-cashier-s-check-joint-virginia-title-vsa-17a-driving-our-avalon-home), right on time to pick me up at six o'clock.
+I adjusted the collar of my royal blue staff polo shirt, feeling the familiar weight of the pinned MICHAEL nametag over my chest, and glanced up at the wall clock. Five-fifty. Ten minutes left before my 6:00 PM clock-out.
 
-Our plan for the evening was simple and routine: Rachel had driven our Avalon over to the Rec Center to pick me up, and once I clocked out at `6:00 PM` and walked out to the parking lot, **Rachel was going to slide over into the passenger seat and I was going to take over driving us home**.
+Through the front glass, a pair of familiar headlights swept across the asphalt of the parking lot on Marlborough Drive. My sister Rachel was pulling our shared [2020 Horizon Avalon](https://books.raggiesoft.com/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-2-the-cashier-s-check-joint-virginia-title-vsa-17a-driving-our-avalon-home) into a space halfway down the first row, right on schedule to pick me up at six.
 
-I tidied my clipboard on the counter, glanced at the clock reading **`5:55 PM`**, and thought about what we were having for dinner.
+Our routine for the evening hand-off was already mapped out. Rachel had driven the Avalon over from home to meet me at the end of my shift, and once I signed out at 6:00 PM and walked out to the lot, she was going to unbuckle, slide over into the front passenger seat, and let me take the wheel to drive us home for dinner.
 
-I had forgotten about the one geographic reality sitting **five minutes up the road**.
+I capped my pen, set it beside the register monitor as the clock ticked to 5:55 PM, and wondered what we were pulling out of the kitchen when we got back to Moosewood Drive.
+
+In the quiet comfort of that routine Wednesday evening, I had completely forgotten about the geographic reality sitting five minutes up the road.
 
 ***
 
 #### 5:55 PM — The Ghost of Susquehanna Drive
 
-Five minutes north of the Fairlawn Recreation Center parking lot, just off **Princess Anne Road**, is **Susquehanna Drive**—the exact residential street where, [from **August 24, 2007 to May 8, 2009**, I rode the **CVTA Route 25** bus every weekday morning and afternoon](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2-first-contact-the-first-embrace-the-route-25-equation) to meet my college best friend, **Heather Bouchard**.
+Five minutes north of the Fairlawn Recreation Center parking lot, just off Princess Anne Road, sat Susquehanna Drive—the exact residential street where, [from August 24, 2007 to May 8, 2009, I rode the CVTA Route 25 bus every weekday morning and afternoon](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2-first-contact-the-first-embrace-the-route-25-equation) to meet my college best friend, Heather Bouchard.
 
-In the fifteen years since [Friday, May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—the morning Heather finished her final exam at the **Community College of Hampton Roads (`CCHR`)**, boarded the `10:45 AM` inbound Route 25 bus with me, suddenly pushed my arms away when I reached for our routine goodbye hug at **Princess Anne Road & Susquehanna Drive**, stepped off the bus without a word, and blocked me on *Orbit*—we had learned why we never ran into her around town.
+In the fifteen years since [Friday, May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—the morning Heather finished her final exam at the Community College of Hampton Roads, rode the 10:45 AM inbound Route 25 bus beside me, abruptly pushed my arms away when I reached for our routine goodbye hug at Princess Anne Road and Susquehanna Drive, stepped off the bus without a word, and blocked me on *Orbit*—the reason we never crossed paths around Virginia Beach had quietly sorted itself out.
 
-After completing her Nuclear Medicine Technology credentials at CCHR in May 2009, **Heather (`Twin A`)** had moved back up to **Charlottesville** to work full-time as a hospital **Nuclear Medicine Technologist**. Meanwhile, her identical twin sister, **Hailey (`Twin B`)**, had remained full-time right here in Virginia Beach at their longtime family house on **Susquehanna Drive**.
+After completing her Nuclear Medicine Technology credentials at CCHR in May 2009, Heather—Twin A—had moved two hundred miles away to Charlottesville to work full-time as a hospital Nuclear Medicine Technologist. Her identical twin sister, Hailey—Twin B—had remained here in Virginia Beach, living full-time in their longtime family house on Susquehanna Drive.
 
-Because Heather kept her legal family address anchored to that house on Susquehanna Drive with Hailey—and because she still held a grandfathered **Month-to-Month Auto-Draft Membership** at Fairlawn Recreation Center (a legacy monthly auto-drafting tier from years ago that the city no longer sells to new patrons, which stays active forever as long as the card on file never lapses)—Heather almost never set foot in Fairlawn Rec Center. She was two hundred miles away in a Charlottesville hospital nuclear medicine department.
+Because Heather still kept her legal family address anchored to that house on Susquehanna Drive with Hailey, she had held onto her grandfathered Month-to-Month Auto-Draft Membership at the Fairlawn Recreation Center—a legacy monthly tier from years earlier that the city no longer sold to new patrons, which remained active indefinitely so long as the card on file never lapsed. Almost every week of the year, Heather was two hundred miles northwest in a Charlottesville hospital nuclear medicine department.
 
 Until she drove down to Virginia Beach to visit her twin sister.
 
-At **`5:55 PM`**—literally **five minutes before my `6:00 PM` clock-out**—the automatic sliding glass entrance doors parted.
+At 5:55 PM—five minutes before my 6:00 PM clock-out—the automatic sliding glass entrance doors parted with a low pneumatic hiss.
 
-A thirty-five-year-old woman with straight shoulder-length chestnut-auburn hair, side-swept bangs, and thin-rimmed rectangular glasses stepped up to the **Scan Station** and passed her barcode card beneath the red laser.
+A thirty-five-year-old woman with straight, shoulder-length chestnut-auburn hair, side-swept bangs, and thin-rimmed rectangular glasses stepped up to the Scan Station and passed her barcode card beneath the red laser.
 
 *Beep.*
 
-**`HEATHER BOUCHARD — ACTIVE (MONTH-TO-MONTH)`**
+The check-in monitor flashed green across my desk: *HEATHER BOUCHARD — ACTIVE (MONTH-TO-MONTH)*.
 
-When my eyes saw her face across the counter and registered that name on the check-in monitor for the first time in fifteen years, **my mind went completely haywire**.
+When my eyes lifted from that readout to her face across the counter for the first time in fifteen years, my mind went completely haywire.
 
 It wasn't fear, and it wasn't anger.
 
-It was a violent, unbuffered flood of **what were supposed to be happy memories**—[eating chicken tenders with mayo and fries with ketchup across from her burger and cola in the CCHR cafeteria on August 24, 2007](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end); [laughing with **Ms. Doris** (`Doris Hooks`) on the morning Route 25 bus while three strangers tried to recruit us into a bowling league](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-ms-doris-route-25-the-penny-s-run); walking the CCHR courtyard unmasked for the very first time in my adult life after escaping Washington; [watching Hailey and Heather pull their April Fools' Day 2008 *Twin Magic* prank at the Susquehanna Drive shelter before Heather lifted her chestnut-auburn bangs on the outbound bus to show me the tiny freckle (*"my birth mark"*) hidden right at her upper forehead hairline](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark); [standing together in front of the glowing blue saltwater tunnel at the **Chesapeake Bay Aquarium**](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-2-the-chesapeake-bay-aquarium)—and discovering in a single heartbeat that every single one of those happy memories now **hurt like a knife in my ribs**.
+It was a violent, unbuffered flood of what were supposed to be happy memories—[eating chicken tenders with mayo and fries with ketchup across from her burger and cola in the CCHR cafeteria on August 24, 2007](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end); [laughing with Ms. Doris (Doris Hooks) on the morning Route 25 bus while three strangers tried to recruit us into a bowling league](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-ms-doris-route-25-the-penny-s-run); walking the CCHR courtyard unmasked for the very first time in my adult life after escaping Washington; [watching Hailey and Heather pull their April Fools' Day 2008 *Twin Magic* prank at the Susquehanna Drive shelter before Heather lifted her chestnut-auburn bangs on the outbound bus to show me the tiny freckle (*"my birth mark"*) hidden right at her upper forehead hairline](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark); [standing together in front of the glowing blue saltwater tunnel at the Chesapeake Bay Aquarium](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-2-the-chesapeake-bay-aquarium)—and discovering in a single heartbeat that every single one of those warm memories now hurt like a knife twisted between my ribs.
 
-Inside my head, my **audio hyperphantasia** slammed on at full studio volume, blasting the frantic, clinical synth-pulse of [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) while my heart hammered against my sternum and my hands went ice-cold.
+Inside my skull, my audio hyperphantasia slammed on at full studio volume, blasting the frantic, clinical synth-pulse of [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) while my heart hammered against my sternum and my fingers went ice-cold.
 
-By sheer muscle memory, my outward Front Desk mask held my body upright for the final three hundred seconds of my shift while Heather walked past the desk into the facility.
+By sheer muscle memory, my outward Front Desk mask locked my spine upright for the final three hundred seconds of my shift as Heather walked past the counter into the facility.
 
-At **`6:00 PM`** on the dot, I signed out at the back terminal, grabbed my keys, and walked out through the automatic sliding glass doors into the cool March twilight on legs that felt like lead.
+When the wall clock clicked to 6:00 PM on the dot, I signed out at the back terminal, gripped my keys in a fist to hide the tremor in my hand, and walked out through the sliding glass doors into the cool March twilight on legs that felt like lead.
 
 ***
 
 #### 6:02 PM — Switching the Plan in the Parking Lot
 
-Halfway down the first row of the Fairlawn Recreation Center parking lot, the headlights of our shared car were glowing softly.
+Halfway down the first row of the parking lot, the low-beam headlights of our Horizon Avalon cut through the gathering dusk.
 
-Inside the cabin, **Rachel** saw me walking toward the car and reached down to unbuckle her seatbelt so she could slide over into the passenger seat and let me take the wheel as we had planned.
+Through the windshield, I saw Rachel spot me leaving the building. She reached down to unbuckle her seatbelt, getting ready to slide across the console into the passenger seat so I could take the driver's door as we had planned.
 
-Instead of walking around the hood to the driver's side door, I walked straight to the **front passenger door**, pulled the handle open, and dropped heavily into the passenger seat.
+I didn't walk around the hood toward the driver's side. I walked straight to the front passenger door, pulled the handle open, and dropped heavily into the passenger seat, pulling the door shut behind me.
 
-Rachel paused with her hand on her seatbelt buckle, taking one look at my pale face, my shallow breathing, and the way my hands were trembling against the hem of my royal blue Fairlawn Rec Center polo shirt.
+Rachel froze with her fingers still resting on her seatbelt buckle. In a single glance, she took in my pale face, my shallow breathing, and the way my hands were visibly shaking against the hem of my royal blue Fairlawn Rec Center polo shirt.
 
 "Bear?" Rachel asked immediately, her voice dropping into instant, laser-focused pack alert. "What happened? Are you okay?"
 
-I gripped the passenger door handle with one hand and pressed my other hand against my forehead, my processor spinning so fast I could barely string a sentence together.
+I gripped the molded plastic of the passenger door armrest with my right hand and pressed my left palm against my forehead, my internal processor spinning so fast I could barely string words together.
 
-"I can't drive right now, Bug," I whispered, my voice shaking as I looked across the center console at my sister. "My head is going completely haywire. Will you please drive us home?"
+"I can't drive right now, Bug," I whispered, my voice trembling as I looked across the center console at my sister. "My head is going completely haywire. Will you please drive us home?"
 
-"Of course I'll drive, Bear," Rachel said without a millisecond of hesitation. She clicked her seatbelt right back into the latch, wrapped both hands firmly around the steering wheel, and shifted the car into reverse. As she backed smoothly out of the parking space and steered us out of the Fairlawn Recreation Center lot onto Marlborough Drive, she reached her right hand across the console and took my trembling left hand in hers. "Talk to me when you can. What happened inside?"
+"Of course I'll drive, Bear," Rachel answered without a millisecond of hesitation. She clicked her buckle right back into the latch, wrapped her left hand firmly around the steering wheel, and shifted the Avalon into reverse. As she backed smoothly out of the space and steered us off Marlborough Drive toward Princess Anne Road, she reached her right hand across the center console and closed her warm fingers around my shaking left hand. "Talk to me when you can. What happened inside?"
 
-"At `5:55`," I choked out, staring through the windshield as the streetlamps blurred past, "five minutes before I clocked out... **Heather** walked in. Heather Bouchard scanned in at the front desk."
+"At 5:55," I choked out, staring through the glass as the streetlights blurred past in the March dusk, "five minutes before I clocked out... Heather walked in. Heather Bouchard scanned in at the front desk."
 
 ### Part 2: 6:25 PM: Crying in Rachel's Arms & The Secret Pact
 
@@ -31574,58 +31364,57 @@ I gripped the passenger door handle with one hand and pressed my other hand agai
 
 #### 6:25 PM — "I'm Your Sister, and I'm Right Here"
 
-For the entire drive back from Marlborough Drive to our single-family home on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture), **Rachel** never let go of my hand across the center console.
+The deadbolt of our front door on [Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) slid home with a heavy, solid click, sealing the quiet evening air of the house around us.
 
-She didn't pepper me with questions while my nervous system was redlining, and she didn't turn on the car radio—knowing without asking that my internal **audio hyperphantasia** was already overloading my head. She simply drove us smoothly up Princess Anne Road and through the Silverleaf neighborhood, parked our Avalon in the driveway on **Moosewood Drive** at **`6:22 PM`**—twenty-five minutes before **Jessica**, **Kristin**, and **Ashley** were due back home for the evening—and walked right beside me through the front door with her arm braced around my waist.
+All the way up Princess Anne Road and through the winding streets of the Silverleaf neighborhood, Rachel had never once let go of my hand across the center console. She hadn't peppered me with questions while my nervous system was redlining, and she had left the car stereo completely dark, knowing without asking that my audio hyperphantasia was already overloading my skull. When she pulled the Avalon into our driveway at 6:22 PM—twenty-five minutes before Kristin, Jessica, and Ashley were due home for the evening—she had walked right beside me up the front steps with her arm braced firmly around my waist.
 
-The second the front door clicked shut behind us and the deadbolt slid home inside the quiet sanctuary of the house, the five-minute Front Desk mask I had been white-knuckling since `5:55 PM` shattered into pieces.
+The instant the door clicked shut behind us, the brittle Front Desk mask I had been white-knuckling since 5:55 PM shattered completely.
 
-We didn't even make it to the Command Center.
+We didn't even make it down the hallway to the Command Center. Rachel guided me straight to the living room sofa, pulling me down onto the cushions just as she had done fifteen years earlier in our old Canadian Arch townhouse at [3:13 PM on Friday, May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go), when she had walked through the door in her red *Spot* t-shirt to find me sobbing after Heather pushed me away on the CVTA Route 25 bus at Susquehanna Drive.
 
-Rachel guided me straight over to the living room sofa—pulling me down onto the cushions just like she had done fifteen years earlier back at our old Canadian Arch townhouse at [**`3:13 PM` on Friday, May 8, 2009**](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go), when she had walked through the front door in her red *Spot* t-shirt to find me sobbing after Heather pushed me away on the **CVTA Route 25** bus at Susquehanna Drive.
+Still wearing my royal blue Fairlawn Rec Center polo shirt with the MICHAEL nametag pinned to my chest, I reached for my Bug, buried my face against her shoulder, and broke down crying in her arms.
 
-As soon as we sat down on the cushions, I reached for my Bug, buried my face against her shoulder—still wearing my royal blue Fairlawn Rec Center polo shirt with my **`MICHAEL`** nametag pinned to my chest—and **broke down crying in Rachel's arms**.
+The wave hit me with a force I hadn't felt since I was twenty-one years old.
 
-It hit me with a force I hadn't felt since I was twenty-one years old.
+"It's supposed to be a happy memory, Bug," I sobbed into the cotton of her shirt, locking both arms around her ribs as fifteen years of dammed-up grief tore out of my chest. "All those mornings on the 25 bus... eating lunch together at CCHR... the aquarium... she was my best friend when I didn't even know how to be a person again after Washington. Why does seeing her face make all the happy memories hurt so badly?"
 
-"It's supposed to be a happy memory, Bug," I sobbed into her shirt, locking both arms around her ribs as fifteen years of dammed-up grief poured out of my chest. "All those mornings on the 25 bus... eating lunch together at CCHR... the aquarium... she was my best friend when I didn't even know how to be a person again after Washington. Why does seeing her face make all the happy memories hurt so badly?"
+When Heather had stepped up to that scanner at 5:55 PM, my body hadn't remembered the ending first. For one unguarded split second, my nervous system had remembered the warmth of having my first non-family Safe Person—and had wanted nothing more than to step around the counter and hug my best friend—before the cold, silent wall of May 8, 2009 slammed down all over again.
 
-Because when she stepped up to that scanner at `5:55 PM`, my body hadn't remembered the ending first. For one split second, my body had remembered the warmth of having my first non-family Safe Person—and wanted nothing more than to hug my best friend—before the cold, silent wall of May 8, 2009 slammed down all over again.
+Rachel didn't offer hollow clichés. She didn't tell me that fifteen years was long enough to be over it, and she didn't pull back an inch.
 
-Rachel didn't try to feed me hollow clichés. She didn't tell me *"it was fifteen years ago, you should be over it,"* and she didn't pull back an inch.
+Just as she had done on that Friday afternoon in May 2009, Rachel wrapped both arms tightly around my shoulders and back, pulling me flush against her chest with all of her strength until my trembling frame was completely enclosed in deep, grounding sibling pressure.
 
-Just like she had done at `3:13 PM` on May 8, 2009, **Rachel wrapped both of her arms tightly around my shoulders and back**, pulling me flush against her chest with all of her strength so my trembling body was completely surrounded by deep, grounding sibling pressure.
+"I've got you, Bear," Rachel whispered fiercely against the side of my head, resting her cheek against my hair while her palm rubbed a slow, steady circle across the back of my royal blue work shirt. "I am your sister, and I am right here. I'm right here with you, and I am never letting go."
 
-"I've got you, Bear," Rachel whispered fiercely against the side of my head, resting her cheek against my hair while her hand rubbed a slow, steady circle across the back of my royal blue work shirt. **"I am your sister, and I am right here. I'm right here with you, and I am never letting go."**
-
-For a long, unbroken stretch of time, I just held onto her on the sofa and cried until the crushing vise around my lungs finally began to loosen and my breathing synced to the steady rise and fall of Rachel's chest.
+For a long, unbroken stretch of time in the quiet living room, I held onto her on the sofa and cried until the crushing vise around my lungs finally began to loosen and my ragged breathing synced to the steady rise and fall of Rachel's chest.
 
 ***
 
 #### 6:45 PM — Sealing the Vault Between Bear and Bug
 
-When the heaviest wave finally subsided and I lifted my wet face a few inches from her shoulder, wiping my eyes behind my glasses, a second, urgent realization hit my logical brain.
+By 6:45 PM, when the heaviest wave finally ebbed and we heard the distant hum of evening traffic out on the neighborhood street before Kristin, Jessica, and Ashley arrived home, I lifted my damp face from Rachel's shoulder and wiped my eyes behind my glasses.
 
-I looked straight into Rachel's warm dark brown eyes, my hands still gripping her waist.
+As we stood up from the sofa and stepped into our Command Center so the rest of the household would never walk in on my red eyes in the living room, an urgent realization crystallized in my head. I stopped between our two desks, still holding onto Rachel's wrists, and looked straight into her warm dark brown eyes.
 
 "Bug," I whispered, my voice raw and dead serious, "please—you have to promise me something."
 
-"Anything, Bear," Rachel said softly, brushing a damp strand of hair back from my forehead. "Name it."
+"Anything, Bear," Rachel said softly, reaching up to brush a damp strand of hair back from my forehead. "Name it."
 
-"Please keep this strictly between the two of us," I begged her, my fingers tightening slightly on her sleeves before the rest of our household got home for dinner. "Nobody else in this house can ever know that Heather showed up at the Rec Center tonight, or how badly the memory of her still hurts me. Not **Kristin**, not **Jessica**, and not **Ashley**. Only you."
+"Please keep this strictly between the two of us," I begged her, my fingers tightening gently around her sleeves. "Nobody else in this house can ever know that Heather showed up at the Rec Center tonight, or how badly the memory of her still hurts me. Not Kristin, not Jessica, and not Ashley. Only you."
 
-Rachel looked into my eyes and understood the entire architecture of my heart without needing me to draw a diagram:
-* I don't trust **anyone** else with that memory.
-* I could never tell **Kristin**—or let her see me crying over a girl from 2008—because I love our life together on Moosewood Drive with every ounce of my soul, and I would never, ever want Kristin to feel even a microsecond of doubt or hurt that a scarred corner of my nervous system still grieves the best friend who vanished on a bus fifteen years ago. (When we're in the car and a heavy 2008-era synth-rock track comes over the radio, Kristin—acting as my quiet Co-Administrator—doesn't even press `MUTE`, because muting the sound leaves the song title glowing on the screen; she simply changes the station to another channel, and we never speak Heather's name).
-* And I could never tell **Jessica**, because if Jessica found out that someone from my past had walked into my workplace and left me sobbing on the living room sofa of the Moosewood Drive sanctuary she built for us, Jessica's protective executive instincts would treat Heather like [**Delores**](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) or [**Master Curtis**](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check) and go on the warpath to destroy her. And Heather was *never* an abuser like Delores. She was just an overwhelmed nineteen-year-old Nuclear Medicine student who had given me a two-year sanctuary when I was broken, and then pulled the emergency cord the only way she knew how when her own bandwidth ran out.
+Rachel looked into my eyes and understood the entire architecture of my heart without needing me to explain another word.
 
-Only **Rachel**—my twin-in-spirit, my Bug, who had held me on the sofa on May 8, 2009 and had walked beside me every day since—knew how both truths could live inside my chest at the exact same time.
+I didn't trust anyone else on earth with that memory. I could never tell Kristin—or let her catch me crying over a girl from 2008—because I loved our life together on Moosewood Drive with every ounce of my soul, and I could not bear the thought of Kristin feeling even a microsecond of insecurity or hurt that a scarred corner of my nervous system still grieved the best friend who had vanished off a city bus fifteen years earlier. Whenever we rode together in the car and a heavy 2008-era synth-rock track came over the radio, Kristin—acting as my quiet Co-Administrator—didn't even press the mute button, because muting the audio left the song title glowing on the dashboard display; she simply changed the station to another channel without a word, and we never spoke Heather's name.
 
-Rachel placed both hands on either side of my face, looked me dead in the eyes, and gave me her absolute, unbreakable word:
+And I could never tell Jessica or Ashley. If Jessica or Ashley found out that someone from my past had walked into my workplace and left me sobbing in my work uniform inside the Moosewood Drive sanctuary we had built together, their fiercely protective instincts would immediately classify Heather alongside [Delores](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) or [Master Curtis](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check) and sound every overprotective alarm in the house. Yet Heather had never been a monster like Delores. She had been an overwhelmed nineteen-year-old Nuclear Medicine student who had given me a two-year sanctuary when I was shattered, and who had pulled the emergency cord the only clumsy, silent way she knew how when her own emotional bandwidth ran out.
 
-"This stays locked between you and me forever, Bear," Rachel promised softly. "Not a word to Kristin, not a word to Jessica, not a word to Ashley, not a word to a single soul. Whenever that wave hits you, you bring it straight to me, and I will hold it with you. It's just us."
+Only Rachel—my twin-in-spirit, my Bug, who had held me on the sofa on May 8, 2009 and had walked beside me through every season since—understood how both truths could live inside my chest at the exact same time.
 
-She pulled me back against her shoulder for one more long, quiet squeeze on the living room sofa—officially sealing the vault that only the two of us would ever hold.
+Rachel framed my face between both of her palms, met my eyes without blinking, and gave me her unbreakable word.
+
+"This stays locked between you and me forever, Bear," Rachel promised softly. "Not a word to Kristin, not a word to Jessica, not a word to Ashley, not a word to a single soul. Whenever that wave hits you, you bring it straight to me here in the Command Center, and I will hold it with you. It's just us."
+
+Just as the front door clicked open down the hall and the warm voices of Kristin, Jessica, and Ashley filled the foyer, Rachel pulled me against her shoulder for one more deep, quiet squeeze—sealing the vault that only the two of us would ever hold.
 
 ### Part 3: April 19, 2024: Ms. Susan, The Mutual Double-Take, & Anthony's Tape Review
 
@@ -31635,83 +31424,73 @@ She pulled me back against her shoulder for one more long, quiet squeeze on the 
 
 #### 5:31 PM — The Mutual Double-Take & The Null Zone Behind the Wall
 
-Five weeks after that first Wednesday night in March when Rachel drove us home and sealed our secret pact on the living room sofa, came **Friday, April 19, 2024**.
+The automatic sliding glass entrance doors of the Fairlawn Recreation Center parted with a soft pneumatic whisper, letting in a gust of warm April air as the Friday after-work crowd began trickling in from the parking lot.
 
-At **`5:31 PM`**, the **Fairlawn Recreation Center** Front Desk was humming along in standard Friday evening rhythm—two hours and twenty-nine minutes away from our `8:00 PM` Friday public close.
+It was 5:31 PM on Friday, April 19, 2024—five weeks after that first Wednesday night in March when Rachel had driven us home and sealed our secret pact, and two hours and twenty-nine minutes before our 8:00 PM Friday public close. I was seated in my chair at the Scan Station in my royal blue polo shirt and MICHAEL nametag, watching the check-in monitor while my trusted coworker, Ms. Susan, sat at a register workstation a few feet down the counter.
 
-I was seated in my chair in my royal blue polo shirt and **`MICHAEL`** nametag at the **Scan Station**, checking the monitor as patrons strolled in from the parking lot for their after-work workouts, while my trusted coworker **Ms. Susan** was seated at a register workstation a few feet down the counter.
+A thirty-five-year-old woman in athletic workout gear—angular oval face, straight shoulder-length chestnut-auburn hair, and thin-rimmed rectangular glasses—walked across the lobby to the front counter and reached out to pass her membership card beneath the barcode reader.
 
-The automatic sliding glass entrance doors parted with a soft pneumatic whisper.
-
-A thirty-five-year-old woman in athletic workout gear—angular oval face, straight shoulder-length chestnut-auburn hair, and thin-rimmed rectangular glasses—walked across the lobby up to the front counter and reached out to pass her membership card in front of the barcode reader on the desk.
-
-From where we sit behind the counter, my eyes went straight to her face at the exact same split second her eyes lifted from the barcode scanner to mine.
+From where I sat behind the desk, my eyes went straight to her face at the exact fraction of a second her gaze lifted from the scanner to mine.
 
 *Beep.*
 
-**`HEATHER BOUCHARD — ACTIVE (MONTH-TO-MONTH)`**
+The screen flashed green: *HEATHER BOUCHARD — ACTIVE (MONTH-TO-MONTH)*.
 
 For two full seconds across the laminate counter, time stopped.
 
-Unlike March 13—when the shock had caught me five minutes before clock-out—this was an unmistakable, face-to-face **mutual double-take**.
+Unlike March 13, when the shock had ambushed me five minutes before clock-out while she was already moving past the desk, this was an unmistakable, face-to-face mutual double-take. Behind her thin-rimmed rectangular glasses, Heather's eyes widened slightly—the involuntary micro-expression of someone whose brain had just registered my face and the MICHAEL nametag pinned to my shirt and thought, *Wait—is that who I think it is?*
 
-Behind her thin-rimmed rectangular glasses, Heather's eyes widened by a fraction of an inch—the unmistakable micro-expression of someone whose brain had just registered the face and the **`MICHAEL`** nametag behind the counter and thought, *Wait—is that who I think it is?*
+Inside my chest, before my analytical prefrontal cortex could boot up a single line of logic, my somatic memory fired at full capacity while my internal threat board plunged straight into a Status Black freeze.
 
-And inside my chest, before my analytical prefrontal cortex could even boot up a single line of logic, my somatic memory fired at one hundred percent capacity.
+My body saw my favorite—my 2008 CCHR best friend—and felt a sudden, aching pull to step around the desk and wrap her in one of our long, deep-pressure Best Friend Hugs, just like we used to share every weekday morning at the Susquehanna Drive bus shelter. One millisecond behind that biological urge came the ice-cold wall of [May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—her palms shoving against my chest on Route 25—as my audio hyperphantasia kicked on like a studio master tape inside my skull, blasting the relentless synth-bass and clinical dread of [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node).
 
-My body saw **my favorite**—my 2008 CCHR best friend—and wanted, with a sudden, aching pull in my chest, to step around the desk and pull her into one of our long, deep-pressure *"Best Friend Hugs"* just like we used to do every morning at the Susquehanna Drive bus stop.
+Neither of us spoke a word.
 
-And one millisecond behind that biological urge came the ice-cold wall of [**May 8, 2009**](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—her hands pushing against my chest on Route 25—accompanied by my brain's **audio hyperphantasia** kicking on like a studio master tape in my skull, playing the driving, relentless synth-bass and clinical dread of [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) at full lossless volume inside my head.
+Even as my internal system hit Status Black, the memory of Rachel holding me five weeks earlier—combined with decades of discipline from [Master April's mat](https://books.raggiesoft.com/rachel/the-shallow-end/the-blueprint-and-the-sabomnim/part-3-the-sea-of-truth-the-criollo-drive-ascent) and my Front Desk training—kept my outward mask locked in place. I kept my mouth closed and gave the standard, neutral half-nod of a desk attendant confirming a valid scan.
 
-Neither of us said a word.
+Heather broke eye contact first. She turned cleanly to her right and walked around the corner behind the Front Desk into the Weight Room.
 
-Outwardly, remembering how Rachel had held me five weeks ago and promised she was right behind me, my martial arts discipline from [Master April's mat](https://books.raggiesoft.com/rachel/the-shallow-end/the-blueprint-and-the-sabomnim/part-3-the-sea-of-truth-the-criollo-drive-ascent) and my Front Desk training held my posture completely still. I kept my mouth closed and gave the standard, neutral half-nod of a desk attendant confirming a green scan.
+My heart was hammering against my ribs at a hundred and thirty beats a minute, my fingers tingling with adrenaline as the warmth of 2007 through 2009 and the grief of how it ended collided in my chest. Knowing I still had two and a half hours left on the desk and needing a safety net in case the Status Black freeze pushed me into situational mutism, I forced one slow breath into my lungs and stepped three feet down the counter toward Ms. Susan.
 
-Heather broke eye contact first, turned cleanly to her right, and walked around the corner behind the Front Desk into the **Weight Room**—completely out of sight from where I sat.
+"Ms. Susan," I said quietly, pitching my voice low enough that it stayed strictly between our two chairs, "my ex is here."
 
-My heart was hammering against my ribs at a hundred and thirty beats a minute, my hands tingling with adrenaline as the flood of happy `2007–2009` memories—and the grief of how they ended—washed over me simultaneously.
+In the shorthand of a busy municipal front desk, those two syllables were infinitely faster than trying to explain a two-year pre-diagnostic autistic Safe Person dynamic from college while my pulse was spiking.
 
-Knowing that I still had two and a half hours left on the desk and wanting a safety net in place in case my nervous system tipped toward situational mutism, I took one controlled breath and stepped three feet down the counter toward **Ms. Susan**.
-
-"Ms. Susan," I said quietly, keeping my voice low enough that only she could hear me inside the desk bubble, "my ex is here."
-
-*(In the shorthand of a busy workplace, saying `"my ex"` takes two syllables instead of trying to explain a two-year pre-diagnostic autistic Safe Person dynamic from 2008 while your pulse is spiking).*
-
-Ms. Susan didn't ask a single prying question. Her eyes went immediately to my face, reading the tight stillness in my jaw, and she reached down and **placed her hand on a handheld two-way facility radio** on the counter—keeping it ready right beside her as a quiet fail-safe in case I started to panic and needed immediate backup or a relief rotation off the floor.
+Ms. Susan didn't ask a single prying question. Her eyes went straight to my face, reading the rigid tension in my jaw, and she reached down to rest her hand over the handheld two-way facility radio on the counter—keeping it ready right beside her fingers as a quiet fail-safe in case I began to panic and needed immediate backup or a relief rotation off the floor.
 
 "I've got the radio right here, Michael," Ms. Susan murmured steadily. "Take a breath. Where did she head?"
 
-"Behind the wall," I whispered, nodding toward the wall at our backs. "Into the weight room."
+"Behind the wall," I whispered, nodding toward the solid structural partition at our backs. "Into the weight room."
 
-Because the Weight Room sits directly behind the Front Desk wall—unlike the upstairs track overhead, where a walker doing three miles (`24 laps`) passes through our upper sightline twenty-four separate times—Heather stayed completely out of sight for the entire remainder of her workout.
+Because the solid rear structural wall of the Front Desk separated us completely from the Weight Room—unlike the elevated upstairs track overhead, where a patron walking three miles at twenty-four laps crossed our upper sightline twenty-four separate times—the Weight Room functioned as a one-hundred-percent visual and acoustic Null Zone. Once Heather stepped behind that wall, she vanished completely from my sensory perimeter for the entire remainder of her workout.
 
-Nothing escalated. No scene occurred. I drank cold water at my station, kept my eyes locked on the counter and the registers, and finished the shift without a single outward crack in my professional mask.
+Nothing escalated. No scene occurred. I sipped cold water at my station, kept my eyes anchored to the registers and the counter, and finished the evening without a single outward crack in my professional mask.
 
 ***
 
 #### 7:10 PM — Building Supervisor Anthony's Tape Review & The October 2025 Firewall
 
-Later that evening, after Heather had exited the building and the dinner rush quieted down, our **Building Supervisor**, **Anthony**—the single individual in overall command of the entire Fairlawn Recreation Center—called me into the **Back Office** behind the front desk after Ms. Susan briefly let him know I'd had a rough moment at `5:31 PM`.
+At 7:10 PM, after Heather had exited the building and the Friday dinner rush settled down, our Building Supervisor, Anthony—the administrator in overall command of the Fairlawn Recreation Center—called me into the Back Office behind the front desk after Ms. Susan quietly let him know I had weathered a rough moment at 5:31 PM.
 
-Anthony had pulled up the timestamped `17:31` overhead security camera feed of the Front Desk and Scan Station to make sure there hadn't been a patron disturbance. He tapped the pause key, swiveled his chair around, and looked at me with genuine respect.
+On his desk monitor, Anthony had pulled up the timestamped 17:31 overhead security camera feed of the Front Desk and Scan Station to verify there hadn't been a patron incident. He tapped the spacebar to pause the playback, swiveled his chair around, and looked up at me with genuine respect.
 
-"Michael," Anthony said, nodding toward the monitor, "I just watched the tape from `5:31`. If Ms. Susan hadn't told me you were rattled, I never would have guessed anything happened at all. Your posture didn't flinch, you didn't say a word out of line, and you handled the check-in like a total pro."
+"Michael," Anthony said, nodding toward the screen, "I just watched the tape from 5:31. If Ms. Susan hadn't told me you were rattled, I never would have guessed anything happened at all. Your posture didn't flinch, you didn't say a word out of line, and you handled the check-in like a total pro."
 
-"Thank you, Anthony," I said, letting out a long breath inside the quiet safety of the Back Office bunker. "She didn't do anything wrong—she's a paying member who lives five minutes up the road when she's in town, and she has every right to use the building. And honestly, the architecture of this building did half the work for me: if she shows up and goes straight to the weight room behind the wall where I can't see her, we're fine."
+"Thank you, Anthony," I said, letting out a long breath inside the quiet safety of the Back Office bunker. "She didn't do anything wrong—she's a paying member whose family house is five minutes up the road when she's in town, and she has every right to use the building. Honestly, the architecture of the desk did half the work for me. Once she walks behind the wall into the weight room where I can't see or hear her, we're fine."
 
-I paused, meeting Anthony's eyes with dead-serious clarity so he understood the exact boundary in my head:
+I paused, meeting Anthony's eyes with dead-serious clarity so he understood the exact line in my head.
 
 "Now," I added quietly, "if that had been [my *abuser* from 2005](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line) walking through those front doors? You, Ms. Susan, and I would be having a very, *very* different conversation right now."
 
-Anthony nodded slowly, understanding the distinction immediately. "Understood, Michael. My office door is always open if you ever need five minutes off the desk."
+Anthony nodded slowly, registering the distinction immediately. "Understood, Michael. My office door is always open if you ever need five minutes off the desk."
 
-When I got home to **Moosewood Drive** that Friday night, true to our March 13 pact, I didn't say a word about the `5:31 PM` double-take in front of Kristin, Jessica, or Ashley. Only when **Rachel** and I stepped into our quiet **Command Center**—just the two of us, Bear and Bug—did I let my shoulders drop into her arms while I whispered to her that Heather had walked in again, that we had both recognized each other across the scanner, and that Anthony had commended me for holding my ground on the security tape.
+When I got home to Moosewood Drive that Friday night, Kristin, Jessica, and Ashley were relaxing in the living room. True to our March 13 pact, I greeted them warmly without breathing a word about the 5:31 PM double-take. Only after Rachel and I retreated into our quiet Command Center and shut the door—just Bear and Bug inside our vault—did I let my shoulders drop into my sister's arms, whispering that Heather had walked in again, that we had locked eyes across the scanner, and that Anthony had commended me for holding my ground on the security tape.
 
-Eighteen months later—on **Friday, October 17, 2025, at `1:24 PM`**, during my `11:45 AM – 8:15 PM` shift—Heather scanned into Fairlawn Recreation Center one more time before returning to Charlottesville. That afternoon, I happened to be stationed at the **Far-Left Corner Register** ringing up a patron's transaction—completely shielded by the spatial firewall at the far end of the counter—and didn't even see her face as she slipped behind the wall into the Weight Room.
+Eighteen months later, on Friday, October 17, 2025 at 1:24 PM during my 11:45 AM to 8:15 PM shift, Heather scanned into the Fairlawn Recreation Center one more time before returning to Charlottesville. That afternoon, I happened to be stationed down at the Far-Left Corner Register ringing up a patron's transaction—shielded by the spatial firewall at the far end of the counter—and didn't even see her face before the solid rear wall of the Weight Room swallowed her into the Null Zone.
 
-When ten months passed after October 2025 without a single trace of her in the check-in logs, I genuinely believed the ghost of Susquehanna Drive had gone dormant for good.
+When ten full months passed after October 17, 2025 without a single trace of her in the check-in logs, I genuinely believed the ghost of Susquehanna Drive had gone dormant for good.
 
-I had forgotten about **Twin B**.
+I had forgotten about Twin B.
 
 ## Twin B & The Québécois Firewall (August 2026)
 
@@ -31723,80 +31502,73 @@ I had forgotten about **Twin B**.
 
 #### 6:45 PM — Running the Desk & The Hopper Audit
 
-By **Tuesday, August 11, 2026**, I had been running evening shifts at the **Fairlawn Recreation Center** Front Desk as **Duty Supervisor / Lead Cashier** (`12:45 PM – 9:15 PM` on a Monday–Thursday schedule, where the building closes to the public at **`9:00 PM`**) long enough that the operational rhythm felt like second nature.
+"Excuse me, folks—I'll need both of you to pause right here at the counter for me."
 
-Ten months had passed since Heather's last brief scan back on October 17, 2025. My threat-assessment meter was sitting at a calm, unbothered **Status Green**.
+It was 6:45 PM on Tuesday, August 11, 2026, and I was standing at the center of the Fairlawn Recreation Center Front Desk in my capacity as evening Duty Supervisor and Lead Cashier on the 12:45 PM to 9:15 PM Monday-through-Thursday shift. Ten quiet months had passed since Heather's last scan in October 2025, my internal threat board was sitting at a calm, unbothered Status Green, and two membership hoppers had just tried to drift past the central Scan Station toward the Double Gymnasium without an active pass.
 
-At `6:45 PM`, forty-four minutes before the ambush, I was handling the exact kind of routine front-desk compliance problem that my logical brain thrives on: catching a pair of **membership hoppers** trying to slip past the central **Scan Station** into the Double Gymnasium without an active pass.
+I never yelled at hoppers, and I never went on a power trip. When the pair stopped and turned back toward the counter, I calmly pulled up their profiles in the municipal recreation database and typed a permanent compliance audit note directly onto both accounts—ensuring that whether they walked into Fairlawn or any other recreation center across Virginia Beach tomorrow, every Front Desk supervisor in the city would see the documented paper trail.
 
-I don't yell at hoppers, and I don't go on a power trip. I follow a strict, transparent two-step protocol:
-1. First, I stopped the unauthorized entry at the counter, pulled up their profiles in the municipal recreation database, and typed a permanent **compliance audit note** onto their accounts. That way, whether they walk into Fairlawn or any other recreation center in the city tomorrow, every Front Desk supervisor across Virginia Beach has the documented paper trail.
-2. Second, instead of throwing the book at them with an immediate facility suspension, I offered them **Day Pass mercy**: *"Your membership isn't active right now, and I've documented the stop on your account, but if you'd like to use the gym tonight, I can ring you up for a `\$12` Adult Day Pass right here at the register."*
+Once the compliance note was saved, instead of throwing the book at them with an immediate facility suspension, I offered them Day Pass mercy.
 
-They paid their twelve dollars in paper bills at the register (no coins, as always), thanked me for being fair, and headed into the gym. By `7:25 PM`, the lobby was quiet.
+"Neither of your memberships is active right now, and I've documented the stop on your accounts," I told them in an even, professional tone, gesturing toward my register workstation beside the scanner. "Instead of writing up a suspension tonight, if you'd still like to play ball, I can ring you up for a twelve-dollar Adult Day Pass right here at the register."
 
-I was seated in my chair at the register next to the **Scan Station**, glancing down at my clipboard rather than watching the front doors.
+Both patrons blinked in relief, thanked me for being fair, and handed crisp paper bills across the counter—no coins, as always—before taking their printed receipts into the gymnasium. By 7:25 PM, with an hour and thirty-five minutes remaining before our 9:00 PM Tuesday public close, the lobby had settled into a quiet mid-evening lull.
+
+I sat back down in my chair at the register adjacent to the Scan Station and glanced down at my clipboard rather than watching the front entrance doors.
 
 ***
 
-#### 7:29 PM — The Digital Ambush (`HAILEY BOUCHARD`)
+#### 7:29 PM — The Digital Ambush
 
-At **`7:29 PM`**—one hour and thirty-one minutes before our `9:00 PM` Tuesday close—a patron walked up to the front counter and passed her membership card in front of the barcode reader at the **Scan Station**.
+At 7:29 PM, footsteps approached the front counter and a patron passed a hard-plastic membership card beneath the red laser of the Scan Station.
 
 *Beep.*
 
-Because I wasn't looking at the front doors when she walked in, my eyes went to the check-in monitor first to verify the green scan.
+Because my eyes had been on my clipboard when she walked through the doors, I looked at the check-in monitor first to confirm the green scan.
 
-The screen refreshed with a newly purchased **Virginia Beach Adult Resident Annual Membership (`$120/year`)**, displaying the residential street address on **Susquehanna Drive**—the exact street address from my `2007–2009` CCHR bus loop—and a name I had not seen in eighteen years:
-
-**`HAILEY BOUCHARD — ACTIVE (ADULT RESIDENT ANNUAL)`**
+The screen refreshed with a newly purchased one-hundred-and-twenty-dollar-a-year Virginia Beach Adult Resident Annual Membership, displaying the familiar family street address on Susquehanna Drive—five minutes up the road along my old 2007 to 2009 CCHR bus loop—beneath a first name I had not seen in eighteen years: *HAILEY BOUCHARD — ACTIVE (ADULT RESIDENT ANNUAL)*.
 
 My head snapped up from the monitor toward the counter.
 
-Standing right across the Scan Station counter from my chair was a thirty-seven-year-old woman with an angular oval face, straight shoulder-length chestnut-auburn hair, and thin-rimmed rectangular glasses—a **`100% 1:1` identical hardware match for Heather Bouchard**.
+Standing three feet away across the Scan Station was a thirty-seven-year-old woman with an angular oval face, straight shoulder-length chestnut-auburn hair, and thin-rimmed rectangular glasses—an exact, one-to-one identical visual match for Heather Bouchard.
 
-I had not seen **Hailey (`Twin B`)** in person since [**Tuesday, April 1, 2008**](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark)—the morning of the April Fools' Day *Twin Magic* prank at the **Princess Anne Road & Susquehanna Drive** bus shelter eighteen years ago, when Hailey had walked up in Heather's navy CCHR windbreaker and pulled me into a morning hug that I happily returned before the real Heather stepped out from behind the shelter laughing.
+I had not seen Hailey—Twin B—in person since [Tuesday, April 1, 2008](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark), the morning of the April Fools' Day *Twin Magic* prank at the Princess Anne Road and Susquehanna Drive bus shelter eighteen years earlier, when Hailey had walked up in Heather's navy CCHR windbreaker and pulled me into a morning hug that I had happily returned before the real Heather stepped out from behind the shelter laughing. Later that afternoon on the outbound Route 25 bus, Heather had brushed back her bangs at the top of her forehead to show me the tiny, solitary freckle—her *"birth mark"*—hidden right at her upper hairline that Hailey did not have.
 
-Later that afternoon in 2008 on the outbound Route 25 bus, Heather had brushed back her bangs at the top of her forehead to show me the tiny, solitary freckle—her *"birth mark"*—hidden right at her hairline that Hailey didn't have.
+Across the high counter of the Fairlawn Recreation Center at 7:29 PM on August 11, 2026, that tiny forehead hairline freckle was completely invisible beneath her bangs, and the human amygdala did not pause to parse a first name on a computer monitor when it was staring straight into an identical twin's face three feet away.
 
-But across the counter of the Fairlawn Recreation Center at `7:29 PM` on August 11, 2026, that tiny forehead hairline freckle was completely invisible beneath bangs—and the human amygdala does not stop to check a database string when it is staring into an identical twin's face three feet away.
+For three full seconds in my chair, my brain locked up completely.
 
-For three full seconds in my chair, **my brain completely froze**.
+It was a pure, unbuffered digital ambush. My internal processor spiked straight to one hundred percent capacity, freezing my hands over the register keyboard and locking my vocal cords as eighteen years of compressed memory detonated all at once. In the first fraction of a second, my chest ached with the involuntary somatic pull of 2008—the split-second biological conviction that my college best friend was standing right in front of me and that I just wanted to hug her. In the exact same heartbeat, my logical cortex collided with the monitor readout: *Wait—the screen says HAILEY. That is Twin B. She still lives full-time in the house on Susquehanna Drive five minutes away, and she just bought an Annual Pass.* And roaring over top of both came the sudden studio-volume playback of my audio hyperphantasia, flooding my auditory cortex with [*"Paired Devices"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-10-paired-devices) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) while my heart hammered against my ribs.
 
-It was a pure, unbuffered **Digital Ambush**. My CPU usage spiked straight to `100%`, locking up my vocal cords and freezing my hands over the register keyboard as eighteen years of compressed memory detonated at once:
-* The immediate, involuntary somatic pull in my chest (*My best friend is standing right in front of me—I just want to hug my best friend*).
-* The simultaneous logical collision (*Wait—the monitor says `HAILEY`. That's Twin B. She lives full-time at the house on Susquehanna Drive five minutes away, and she just bought an Annual Pass*).
-* And the roaring internal playback of my **audio hyperphantasia**, cues of [*"Paired Devices"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-10-paired-devices) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) flooding my auditory cortex while my heart hammered against my ribs.
+Hailey didn't say a word. She lowered her membership card from the barcode reader and walked past the counter into the facility.
 
-Hailey didn't say anything; she lowered her hard-plastic membership card from the barcode reader and walked past the desk into the facility.
+Sitting behind the desk with my MICHAEL nametag pinned to my royal blue polo shirt, I felt the edges of my vision narrow as adrenaline flooded my bloodstream. There were ninety-one minutes left before the building closed to the public at 9:00 PM, and I was the Duty Supervisor in command of the front desk. Crashing was not an option.
 
-Sitting behind the counter with my **`MICHAEL`** nametag pinned to my royal blue polo shirt, I felt the edges of my vision narrow as the adrenaline hit my bloodstream. I had ninety-one minutes left before the building closed at `9:00 PM`, and I was the **Duty Supervisor** in charge of the front desk. Crashing was not an option.
-
-I planted both feet flat on the floor beneath my desk chair, forced a slow inhale through my nose, and executed a manual **hard reboot into `"Safe Mode"`**.
+I planted both shoes flat against the floor beneath my chair, forced a slow, deliberate inhale through my nose, and executed a manual hard reboot into Safe Mode.
 
 ***
 
 #### 7:30 PM – 9:00 PM — Safe Mode, The Mezzanine Sightline Lock, & The Back Office Retreat
 
-Running in **Safe Mode** for ninety minutes when your nervous system has just taken a direct hit is an exercise in strict bandwidth rationing.
+Running in Safe Mode for ninety minutes after my nervous system had taken a direct hit was an exercise in strict bandwidth rationing.
 
-First, I locked my **vertical sightlines** horizontally and downward.
+First, I locked my vertical sightlines strictly horizontally and downward.
 
-Unlike Heather—who always walked straight behind the solid rear wall of the Front Desk into the **Weight Room (`100% Null Zone`)**—I had no way of knowing whether Hailey had gone into the Weight Room or climbed the stairs to the second-floor **Mezzanine** to walk the **`8-laps-to-the-mile` indoor track**. If a patron walks three miles (`24 laps`) on that elevated Mezzanine track, they cross the open upper atrium sightline of the Front Desk **twenty-four separate times**.
+Unlike Heather, who had always walked straight behind the solid rear structural wall of the Front Desk into the Weight Room's visual Null Zone, I had no way of knowing whether Hailey had entered the Weight Room or climbed the stairs to the second-floor Mezzanine to walk the eight-laps-to-the-mile indoor track. If a patron walked three miles—twenty-four laps around that elevated Mezzanine track—they crossed the open upper atrium sightline above the Front Desk twenty-four separate times.
 
 So I refused to look up.
 
-For the next seventy-five minutes, I kept my gaze strictly locked on the computer monitors, the cash register keys, the high laminate counter, and the faces of the patrons standing directly in front of me. My outward autistic mask—refined over seventeen years since [**Dr. Harrison** first handed me the Owner's Manual to my brain in June 2009](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)—ran every customer interaction on clean, polite autopilot while my internal processor worked overtime to contain the tremor in my hands.
+For the next seventy-five minutes, I kept my gaze anchored strictly to the computer monitors, the cash register keys, the high laminate counter, and the faces of the patrons standing directly in front of me. My outward autistic mask—honed over the seventeen years since [Dr. Harrison first handed me the Owner's Manual to my brain in June 2009](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)—carried every customer interaction on clean, polite autopilot while my internal processor worked overtime to damp the tremor in my hands.
 
-At **`8:45 PM`**—fifteen minutes before our `9:00 PM` Tuesday close—standard Duty Supervisor closing protocol finally gave me my tactical exit.
+At 8:45 PM—fifteen minutes before our 9:00 PM Tuesday public close—standard Duty Supervisor closing procedure finally gave me my tactical exit.
 
-Turning the front counter over to my closing desk attendant to watch the exit doors, I stepped through the staff door directly behind the desk into the **Back Office**.
+Turning the front counter over to my closing desk attendant to monitor the lobby doors, I stepped through the staff door directly behind the desk into the Back Office.
 
-Inside that quiet, enclosed bunker out of public sightlines, I sat down at the supervisor desk, unlocked the cash drawers, counted down the whole-dollar paper currency tills, and compiled the nightly financial and attendance closing report. Somewhere during that fifteen-minute window between `8:45 PM` and `9:00 PM` while I was safely shielded inside the Back Office, Hailey walked out the front doors and drove back up the road to Susquehanna Drive without my eyes ever having to cross hers again.
+Inside that quiet, enclosed room completely out of public sightlines, I sat down at the supervisor desk, unlocked the cash drawers, counted down the whole-dollar paper currency tills, and compiled the nightly financial and attendance closing report. Somewhere during that fifteen-minute window between 8:45 PM and 9:00 PM while I was shielded inside the Back Office, Hailey walked out the front doors and drove back up Princess Anne Road to Susquehanna Drive without my eyes ever having to cross hers again.
 
-By the time I locked up the front desk and clocked out at **`9:15 PM`**, I had survived the ambush—but as I drove our Avalon home through the warm August dark toward **Moosewood Drive** and **Rachel**, I knew one thing for certain.
+By the time I locked the front doors and clocked out at 9:15 PM, I had survived the ambush. Yet as I steered our Avalon home through the warm August dark toward Moosewood Drive and Rachel, I knew one thing with absolute certainty.
 
-With **Hailey** holding an **Adult Resident Annual Membership** five minutes away on Susquehanna Drive—and **Heather** still holding her grandfathered **Month-to-Month Membership** whenever she visited from Charlottesville—I could no longer rely on luck.
+With Hailey now holding an Adult Resident Annual Membership five minutes away on Susquehanna Drive—and Heather still holding her grandfathered Month-to-Month Membership whenever she drove down from Charlottesville—I could no longer rely on luck.
 
 I needed an ironclad operational firewall.
 
@@ -31808,71 +31580,65 @@ I needed an ironclad operational firewall.
 
 #### 9:30 PM — The Secret Debrief with Rachel & The 88 MPH Paradox
 
-Four nights after Hailey's `7:29 PM` scan—on **Saturday night, August 15, 2026, at `9:30 PM`**—**Rachel** and I were sitting side by side in our quiet **Command Center** at our **Moosewood Drive** home, our chairs pulled close together so her shoulder pressed warmly against mine while **Kristin**, **Jessica**, and **Ashley** were settled in the rest of the house for the night.
+"Tell me what your head is doing, Bear."
 
-Because **Rachel is the only person in the world I trust with the memory of Heather**, our Command Center is the only room on earth where I don't have to pretend that the `2007–2009` chapters of my life are just harmless ancient history.
+Rachel's voice was barely above a murmur inside the quiet glow of our Command Center on Moosewood Drive. It was 9:30 PM on Saturday night, August 15, 2026—four nights after Hailey's Tuesday evening scan—and while Kristin, Jessica, and Ashley were settled into the rest of the house for the night, Rachel had rolled her desk chair flush against mine so her shoulder pressed warmly into my side. She kicked her feet up and rested her hand over my forearm, using the exact same grounding touch she had anchored me with ever since we were six and eight years old.
 
-"Tell me what your head is doing, Bear," Rachel said softly, kicking her feet up and resting her hand over my forearm—the exact same grounding touch she had used ever since we were six and eight years old. "Since Hailey scanned in on Tuesday night, your shoulders have been carrying an extra twenty pounds."
+"Since Hailey scanned in on Tuesday night," Rachel added softly, "your shoulders have been carrying an extra twenty pounds."
 
-I leaned my head back against Rachel's shoulder and let out a long, honest breath.
+Because Rachel was the only person in the world I trusted with the memory of Heather, our Command Center was the one room on earth where I didn't have to pretend that the 2007 to 2009 chapters of my life were harmless ancient history. I leaned my head back against Rachel's shoulder and let out a long, quiet breath.
 
-"It's the paradox, Bug," I whispered. "When Hailey's face popped up on the other side of that counter at `7:29 PM`, for three seconds my body didn't care that it was 2026 or that it was Twin B. My body remembered `2008`—when Heather was *my favorite*, the very first person outside our family who ever let me take my mask off—and all my nervous system wanted was to hug my best friend."
+"It's the paradox, Bug," I whispered. "When Hailey's face popped up on the other side of that counter at 7:29 PM, for three full seconds my body didn't care that it was 2026 or that it was Twin B. My body remembered 2008—when Heather was my favorite, the very first person outside our family who ever let me take my mask off—and all my nervous system wanted was to hug my best friend."
 
-Rachel didn't flinch or judge me. She just squeezed my arm gently, listening.
+Rachel didn't flinch or judge me. She simply squeezed my forearm gently, listening.
 
-"And right behind that," I continued quietly, "is the part that makes me feel crazy if I don't say it out loud to you: **I love my life right now.** If somebody pulled up in the Moosewood Drive driveway tonight in a stainless-steel time machine set to **May 2007** and told me I could hit **`88 MPH`**, go back to CCHR before Fall Semester 2007 ever started, and rewrite the way things ended with Heather on May 8, 2009—I wouldn't even touch the door handle. Because if you go back to 2007 and run over even a single pine tree in the past, you risk altering the timeline from May 2009 onward. And there is zero universe where I would ever risk changing a single variable that [brought **Ashley** home to us on May 11, 2009](https://books.raggiesoft.com/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction), or [brought **Kristin** and **Jessica** across the country to `3701 Canadian Arch`](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), or [built this home for the five of us on **Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)."
+"And right behind that," I continued quietly, "is the part that makes me feel crazy if I don't say it out loud to you. I love my life right now. If somebody pulled up in the Moosewood Drive driveway tonight in a stainless-steel time machine set to May 2007 and told me I could hit eighty-eight miles per hour, go back to CCHR before Fall Semester 2007 ever started, and rewrite the way things ended with Heather on May 8, 2009—I wouldn't even touch the door handle. Because if you go back to 2007 and run over even a single pine tree in the past, you risk altering the timeline from May 2009 onward. And there is zero universe where I would ever risk changing a single variable that [brought Ashley home to us on May 11, 2009](https://books.raggiesoft.com/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction), or [brought Kristin and Jessica across the country to 3701 Canadian Arch](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), or [built this home for the five of us on Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)."
 
-"You don't want 2008 back instead of today, Bear," Rachel said, putting the exact right words to the math in my head the way my Co-Processor always has. "You just hate that a memory that *used* to feel like sunshine now feels like a system crash whenever her face walks through the door. And you don't want to hear the 2009 crash logs."
+"You don't want 2008 back instead of today, Bear," Rachel said, putting the exact right words to the math inside my head the way my Co-Processor always had. "You just hate that a memory that *used* to feel like sunshine now feels like a system crash whenever her face walks through the door. And you don't want to hear the 2009 crash logs."
 
-"Exactly," I said, nodding against her shoulder. "People always say *'Don't you want closure? Don't you want to ask why she pushed you away on the bus?'* **No.** I do *not* want to know why Heather left me in 2009. Nothing she or Hailey could ever say at the Front Desk of the Fairlawn Recreation Center seventeen years later would make May 8, 2009 hurt less—it would only rip the scar tissue wide open while I'm on the clock in uniform with my **`MICHAEL`** nametag on my chest."
+"Exactly," I said, nodding against her shoulder. "People always ask whether you want closure—whether you want to know why someone pushed you away on the bus. No. I do *not* want to know why Heather left me in 2009. Nothing she or Hailey could ever say at the Front Desk of the Fairlawn Recreation Center seventeen years later would make May 8, 2009 hurt less. It would only rip the scar tissue wide open while I'm on the clock in uniform with my MICHAEL nametag pinned to my chest."
 
-"Then we treat the Front Desk like a fortified perimeter," Rachel said calmly, her dark brown eyes locking onto mine as we shifted into pure **Director of Operations and Secretary** problem-solving mode. "What's the vulnerability that caught you off guard on Tuesday?"
+"Then we treat the Front Desk like a fortified perimeter," Rachel said calmly, her dark brown eyes locking onto mine as we shifted into pure Director of Operations and Secretary problem-solving mode. "What was the hardware vulnerability that caught you off guard on Tuesday?"
 
-"The **Identical-Twin Hardware Ambiguity**," I answered immediately. "Back on [April Fools' Day 2008 on the outbound Route 25 bus](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark), Heather lifted her bangs at the top of her forehead and showed me that tiny little freckle—her *'birth mark'*—right at her hairline that Hailey doesn't have. When you're sitting twelve inches apart on a bus bench and she brushes her hair back with her fingers, you can see that checksum. When one of the Bouchard twins walks up to the **Scan Station** at Fairlawn Rec Center in 2026 with her bangs down and the high counter cutting off her lower body and shoes, **my trauma-wired brain cannot play 'Spot the Difference.'** Until that barcode hits the red laser and the monitor prints either **`HEATHER BOUCHARD`** (`Twin A`) or **`HAILEY BOUCHARD`** (`Twin B`), I literally do not know *who* is standing in front of me."
+"The identical-twin ambiguity," I answered immediately. "Back on [April Fools' Day 2008 on the outbound Route 25 bus](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark), Heather lifted her bangs at the top of her forehead and showed me that tiny little freckle—her *'birth mark'*—right at her hairline that Hailey doesn't have. When you're sitting twelve inches apart on a bus bench and she brushes her hair back with her fingers, you can see that checksum. When one of the Bouchard twins walks up to the Scan Station at Fairlawn Rec Center in 2026 with her bangs down and the high counter cutting off her lower body and shoes, my trauma-wired brain cannot play Spot the Difference. Until that barcode hits the red laser and the monitor prints either HEATHER BOUCHARD for Twin A or HAILEY BOUCHARD for Twin B, I literally do not know *who* is standing in front of me."
 
 ***
 
-#### 10:00 PM — The Three-Layer `Code Susquehanna` Firewall
+#### 10:00 PM — The Three-Layer Code Susquehanna Firewall
 
-Sitting right there beside Rachel in the Command Center, I engineered the three-layer operational protocol that I officially filed in my head as **`Code Susquehanna`**:
+As the clock on my desk ticked to 10:00 PM, Rachel and I leaned over the armrest between our chairs and engineered a three-layer operational defense that we quietly christened Code Susquehanna.
 
-##### 1. The Teflon Protocol (Scan Before Speech — Levels 1 to 3)
-Because I cannot visually distinguish `Twin A` from `Twin B` until the barcode scans—and because my nametag (`MICHAEL`) is visible on my shirt if either of them ever decides to initiate social recognition before scanning—I established a strict hardware-first sequence:
-* **Level 1 (Standard Silent Check-In):** If she walks up and scans her card without speaking, I keep my mouth shut or deliver a two-second neutral nod while checking the monitor to identify `Twin A` vs. `Twin B`.
-* **Level 2 (The "Who's Asking?" Pre-Scan Deflection):** If either twin walks up to the counter, sees my nametag, and tries to speak to me *before* scanning (*"Michael? Is that you?"* or *"Hey Michael"*), I do **not** answer the personal prompt while flying blind. Instead, I point directly to the laser scanner with a polite, immovable customer-service smile and say:
-  > *"I'll need you to go ahead and scan your membership card for me first, please."*
-  That forces the barcode onto the screen first—instantly telling my brain whether I am looking at **Heather** or **Hailey**—and buys my prefrontal cortex three full seconds to lock the shield in place.
-* **Level 3 (The Operational Pivot):** Once the scan clears, if she tries to follow up with small talk, I pivot 100% to facility operations:
-  > *"Your scan went through perfectly. Just a reminder that the building closes at 9:00 PM tonight. Have a good workout."*
+"Layer one has to be hardware-first," I told Rachel, tapping my knuckles lightly against the edge of my desk as I mapped out the sequence. "I'm calling it the Teflon Protocol—Scan Before Speech. Because I can't visually distinguish Twin A from Twin B until the barcode clears, and because my MICHAEL nametag is right there on my shirt if either of them ever tries to initiate social recognition before scanning, I never speak first. Level One is the standard silent check-in: if she walks up and scans her card without speaking, I keep my mouth shut or give a two-second neutral nod while checking the monitor to see whether the database logged Twin A or Twin B."
 
-##### 2. The "Corporate We" & Zero-Pronunciation Rule
-Whenever I speak at the desk during a `Code Susquehanna` check-in, the personal pronoun **"I"** is deleted from my vocabulary. I speak strictly in the **"Corporate We"**—as the institutional voice of the **Fairlawn Recreation Center** (*"Welcome back to us"* / *"You're all scanned in with us"*). And under no circumstances do I ever speak the names *"Heather"*, *"Hailey"*, or *"Bouchard"* out loud across the counter.
+"And what if one of them looks at your nametag and speaks to you *before* she scans?" Rachel asked, testing the perimeter for weak points. "What if she walks up and says, *'Michael? Is that you?'* or *'Hey, Michael'* while you're still flying blind?"
 
-##### 3. The Québécois Phonetic Firewall
-To stop my amygdala from hijacking my vocal cords when their last name flashes on the check-in monitor, I built a deliberate linguistic circuit breaker inside my own head.
+"That's Level Two—the pre-scan deflection," I replied. "If either twin tries to speak to me before scanning, I don't answer the personal prompt at all. I point straight to the laser scanner with a polite, immovable customer-service smile and say, *'I'll need you to go ahead and scan your membership card for me first, please.'* That forces the barcode onto the screen first, tells my brain instantly whether I'm looking at Heather or Hailey, and buys my prefrontal cortex three full seconds to lock the shield in place. And if she still tries to follow up with small talk once the scan clears, Level Three is a pure operational pivot: *'Your scan went through perfectly. Just a reminder that the building closes at 9:00 PM tonight. Have a good workout.'*"
 
-Back in Fall 2007 on the CCHR bus, Heather had taught me the casual, Americanized Virginia Beach pronunciation of their family name—the warm, familiar sound associated with every happy memory of `2007–2009`.
+Rachel nodded approvingly. "Clean, polite, and zero personal surface area to grab onto. What about your voice if you have to speak?"
 
-In August 2026, I began training my internal monologue to override that Americanized pronunciation the millisecond **`BOUCHARD`** appeared on the monitor, routing the letters through a formal **Québécois / French-Canadian phonetic register** (alongside practicing formal French greetings like *Bonjour* and *Bienvenue, mademoiselle* in my head). Because translating a surname into formal French-Canadian phonetics requires active prefrontal-cortex computation, it physically starves the amygdala of the bandwidth needed to panic—and if anyone ever heard me pronounce the name that way and corrected me, I already had the ultimate neutral deflection chambered:
-> *"Oh, I'm sorry—I just recognized the French-Canadian last name."*
+"That's layer two," I said. "The Corporate We and the zero-pronunciation rule. Whenever I speak at the desk during a Code Susquehanna check-in, the personal pronoun *'I'* is deleted from my vocabulary. I speak strictly in the Corporate We, as the institutional voice of the Fairlawn Recreation Center—*'Welcome back to us,'* or *'You're all scanned in with us.'* And under no circumstances do I ever speak the names *'Heather,'* *'Hailey,'* or *'Bouchard'* out loud across that counter."
 
-"That's airtight, Bear," Rachel said, pulling me into a tight, proud Bear and Bug hug right there across the arms of our chairs when I finished walking her through all three layers. "Scan first so the monitor tells you which twin is standing there, stay in the Corporate We, route the name through Quebec in your head, and let the wall behind the desk swallow them up."
+"And inside your own head when the name flashes on the monitor?" Rachel asked softly, knowing how fast my internal audio loops could fire.
+
+"Layer three is a Québécois phonetic firewall," I explained. "Back in Fall 2007 on the CCHR bus, Heather taught me the casual, Americanized Virginia Beach pronunciation of their last name—the warm, familiar sound tied to every happy memory from 2007 to 2009. Starting this week, the millisecond those letters appear on the check-in monitor, I'm training my internal monologue to override the Americanized sound and route the surname through a formal Québécois French-Canadian phonetic register, right alongside silent formal French greetings like *Bonjour* and *Bienvenue, mademoiselle*. Translating a surname into formal French-Canadian phonetics forces my prefrontal cortex to do active linguistic math, which physically starves my amygdala of the bandwidth it needs to panic. And if anyone ever heard me pronounce the name that way and corrected me, I already have the ultimate neutral deflection chambered: *'Oh, I'm sorry—I just recognized the French-Canadian last name.'*"
+
+"That's airtight, Bear," Rachel said, pulling me into a tight, proud Bear and Bug hug right across the arms of our desk chairs. "Scan first so the monitor tells you which twin is standing there, stay in the Corporate We, route the name through Quebec in your head, and let the wall behind the desk swallow them up."
 
 ***
 
 #### August 22 & September 3, 2026 — Testing the Shield & Status Green
 
-Eleven days after her first ambush—on **Saturday, August 22, 2026, at `3:02 PM`**—**Hailey (`Twin B`)** scanned into Fairlawn Recreation Center again during our `9:00 AM – 5:00 PM` Saturday shift.
+Eleven days after her first ambush—on Saturday afternoon, August 22, 2026 at 3:02 PM—Hailey scanned into the Fairlawn Recreation Center again during my 9:00 AM to 5:00 PM weekend shift.
 
-This time, the **`Code Susquehanna`** firewall held without a single dropped packet. My brain routed the screen readout through the Québécois phonetic filter, my vertical sightlines stayed locked downward, and my pulse barely ticked above baseline.
+This time, the Code Susquehanna firewall held without a single dropped packet. My internal monologue routed the screen readout straight through the Québécois phonetic filter, my vertical sightlines stayed locked downward on the counter, and my pulse barely ticked above baseline.
 
-Twelve days after that came **Thursday, September 3, 2026**.
+Twelve days after that came Thursday, September 3, 2026.
 
-In the internal calendar of my life, **September 3** is a double-loaded date: it was the legacy date in `2004` when [I first met Delores in the ticket line at the Roper Theater](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line), and it is **Heather and Hailey Bouchard's shared birthday**—born **September 3, 1988**, turning nineteen the week after Heather and I met at CCHR in 2007, and turning **thirty-eight** on September 3, 2026.
+In the internal calendar of my life, September 3 had always been a double-loaded date: it was the legacy date in 2004 when [I first met Delores in the ticket line at the Roper Theater](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line), and it was Heather and Hailey Bouchard's shared birthday—born September 3, 1988, turning nineteen the week after Heather and I first met at CCHR in 2007, and turning thirty-eight on September 3, 2026.
 
-For the first time in seventeen years, **September 3** arrived and passed with my internal status board sitting at **100% Status Green**. Neither twin scanned into the building that Thursday, the date had zero sting in my chest, and when Rachel wrapped me up in a tight hug in the hallway outside our Command Center that night, I genuinely thought the firewall had retired the ghost for good.
+For the first time in seventeen years, September 3 arrived and passed with my internal threat board sitting at one-hundred-percent Status Green. Neither twin scanned into the building that Thursday, the calendar date carried zero sting in my chest, and when Rachel wrapped me up in a tight hug in the hallway outside our Command Center that night, I genuinely believed the firewall had retired the ghost for good.
 
-Exactly twenty-nine days later came **Friday, October 2, 2026**.
+Exactly twenty-nine days later came Friday, October 2, 2026.
 
 ## 7:16 PM: Unhandled Exception (October 2, 2026)
 
@@ -31884,61 +31650,49 @@ Exactly twenty-nine days later came **Friday, October 2, 2026**.
 
 #### 7:15 PM — Forty-Five Minutes to Close
 
-On **Friday evenings**, the **Fairlawn Recreation Center** closes to the public at **`8:00 PM`** (`20:00`), with closing front-desk staff scheduled until **`8:15 PM`**.
+"Last name and date of birth for me?" my coworker Tyler asked politely, his fingers poised over the mPad and keyboard at the Fairlawn Recreation Center Scan Station as a patron who had forgotten his membership card leaned against the front counter.
 
-By **`7:15 PM`** on **Friday, October 2, 2026**, the home stretch of the week was in sight. There were forty-five minutes left on the clock before we locked the sliding glass entrance doors, and thirty minutes left before **`7:45 PM`**—the timestamp when I, as the closing **Duty Supervisor / Lead Cashier**, would step through the door behind the desk into the **Back Office** to count down the whole-dollar paper currency register tills and run the Friday night closing report.
+It was 7:15 PM on Friday, October 2, 2026, and the home stretch of the workweek was right in front of us. On Friday evenings, the recreation center closed to the public at 8:00 PM, with closing front-desk staff scheduled until 8:15 PM. There were forty-five minutes left before we locked the sliding glass entrance doors, and thirty minutes left before 7:45 PM—when I, as the closing Duty Supervisor and Lead Cashier, would step through the door behind the desk into the Back Office to count down the whole-dollar paper currency tills and run the Friday night closing report.
 
-Working the Front Desk alongside me that evening was my coworker **Tyler**.
+Six quiet weeks had passed since Hailey—Twin B—had last scanned into the building on August 22, and almost a full calendar year—three hundred and fifty days—had gone by since Heather—Twin A—had last scanned in on October 17, 2025. My internal board was sitting at an easy, relaxed Status Green.
 
-It had been six weeks since **Hailey (`Twin B`)** had last scanned into the building on August 22, and almost a full calendar year—three hundred and fifty days—since **Heather (`Twin A`)** had last scanned in on October 17, 2025. My internal board was sitting at a relaxed **Status Green**.
+Mounted low inside our workspace behind the Front Desk was a small employee speaker, kept at a volume quiet enough that it never carried into the Double Gymnasium or the Natatorium, playing background streaming tracks strictly within the immediate operational bubble of the desk staff and anyone standing directly at the Scan Station.
 
-Mounted right inside our workspace at the Front Desk is the **low-volume employee speaker**—kept quiet enough that it doesn't broadcast across the Double Gymnasium or the Natatorium, playing background streaming tracks strictly inside the immediate operational bubble of the desk staff and whoever is standing directly at the **Scan Station**.
+While Tyler typed the cardless patron's name and date of birth into the mPad keyboard, creating a brief five-second bottleneck right in front of the barcode reader, the clock ticked to 7:16 PM—forty-four minutes before closing.
 
-At `7:15 PM`, Tyler was seated at the **Scan Station**, using the **`mPad` and keyboard** to type in the name and ask for the **date of birth (`DOB`)** of a patron who had forgotten their membership card, creating a brief, five-second check-in pause right in front of the scanner.
-
-And at **`7:16 PM`**—with forty-four minutes left before closing—the front entrance doors slid open.
+The automatic sliding glass entrance doors parted.
 
 ***
 
-#### 7:16 PM — `Code Susquehanna: Twin A` & *"Unhandled Exception"* on the Speaker
+#### 7:16 PM — Code Susquehanna: Twin A & *"Unhandled Exception"* on the Speaker
 
-A thirty-eight-year-old woman with straight shoulder-length chestnut-auburn hair, thin-rimmed rectangular glasses, and an angular oval face stepped through the front doors and paused right at the **Scan Station**, waiting briefly with her membership card in hand while Tyler finished typing the patron's date of birth on the `mPad` keyboard ahead of her.
+A thirty-eight-year-old woman with straight shoulder-length chestnut-auburn hair, thin-rimmed rectangular glasses, and an angular oval face stepped through the front doors and paused right behind the patron at the Scan Station, waiting quietly in the brief queue with her membership card in her hand while Tyler finished typing on the mPad keyboard.
 
-Because she was paused stationary in the queue three feet from the counter rather than walking briskly past, two things happened simultaneously at **`7:16 PM`**.
+Because she was held stationary in the check-in line three feet from the counter instead of walking briskly past, two things happened simultaneously at 7:16 PM.
 
-First, in a moment of surreal, cosmic irony so sharp that if you put it in a novel a critic would swear you made it up, the low-volume employee speaker mounted right behind the Front Desk transitioned into the unmistakable, urgent electronic pulse of [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node).
+First, in a stroke of surreal cosmic irony, the low-volume employee speaker mounted behind the Front Desk transitioned into the unmistakable, urgent electronic pulse of [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node). Even as my posture locked into focus behind the counter, a dry, dark corner of my mind couldn't help thinking that if the universe was going to cue up a track from [2002 Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) on the desk speaker at the exact second a Bouchard twin stepped up to the scanner, I wished it had picked [*"The Illusion: Syntax Error"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-01-the-illusion-syntax-error) or even [*"Paired Devices"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-10-paired-devices) instead of literally scoring the check-in with *"Unhandled Exception"* in real time.
 
-*(Later that night, when my dark sense of humor finally came back online, I would think to myself that if the universe was going to play a track from [2002 Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) on the front desk speaker at the exact second a Bouchard twin walked up to the scanner, I wished it had been [*"The Illusion: Syntax Error"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-01-the-illusion-syntax-error)—or even [*"Paired Devices"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-10-paired-devices)—instead of literally scoring the scene with **"Unhandled Exception"** in real time).*
-
-Second, the bottleneck cleared. Tyler's patron stepped aside, and the woman in the thin-rimmed rectangular glasses reached forward and passed her barcode under the red laser of the **Scan Station**.
+Second, the bottleneck cleared. Tyler's patron stepped aside toward the gym, and the woman in the thin-rimmed rectangular glasses reached forward and passed her barcode beneath the red laser of the Scan Station.
 
 *Beep.*
 
-Following my **`Code Susquehanna`** training to the letter, I didn't guess which twin was standing there. As she turned and walked past the front desk behind the solid rear structural wall toward the **Weight Room (`100% Null Zone`)**, I glanced down at the check-in log on the monitor to see whether the system had just registered Hailey's Annual Pass or Heather's legacy Month-to-Month card.
+Following my Code Susquehanna protocol to the letter, I didn't try to guess which twin was standing across the counter. As she turned cleanly and walked past the front desk behind the solid rear structural wall into the Weight Room's visual Null Zone, I glanced down at the check-in log on my monitor, routing the surname through my Québécois phonetic filter as I checked whether the database had just registered Hailey's Annual Pass or Heather's legacy Month-to-Month card.
 
-Glowing on the screen was the grandfathered Month-to-Month account:
-
-**`HEATHER BOUCHARD — ACTIVE (MONTH-TO-MONTH)`**
+Glowing on the screen was the grandfathered account: *HEATHER BOUCHARD — ACTIVE (MONTH-TO-MONTH)*.
 
 It wasn't Hailey.
 
-It was **`Twin A`**. **Heather**—down from Charlottesville visiting her twin sister on Susquehanna Drive, walking into the building at `7:16 PM` on a Friday night after almost a full year away.
+It was Twin A—Heather herself, down from Charlottesville visiting her twin sister on Susquehanna Drive, walking into the building at 7:16 PM on a Friday evening after nearly a full year away.
 
-The instant my eyes read **`HEATHER`**, a heavy, aching wave dropped straight through the floor of my stomach.
+The instant my eyes read her first name, a heavy, hollow ache dropped straight through the floor of my stomach.
 
-Seeing Hailey in August had been a hardware shock—a `1:1` visual clone that tricked my optic nerve for three seconds.
+Seeing Hailey in August had been a hardware shock—a one-to-one visual clone that had tricked my optic nerve for three seconds. Seeing Heather's name on that monitor hit an entirely different circuit. As my heart squeezed inside my ribs while [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) pulsed softly from the desk speaker beside my knee, one raw, involuntary thought echoed through my chest: *This is the twin I was so happy with.*
 
-Seeing **`HEATHER BOUCHARD`** on that screen hit an entirely different circuit. Because as my heart squeezed inside my chest while [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) played softly from the desk speaker beside my knee, one raw, involuntary sentence echoed inside my head:
+Right behind that ache, my polite, chronological, rule-following autistic brain—remembering that she had just turned thirty-eight on September 3 four weeks earlier—automatically loaded a conversational string into my outbound vocal buffer for when she walked back out at the 8:00 PM close: *Good night Heather, and belated happy birthday.*
 
-*This is the twin I was so happy with.*
+I caught that string in RAM half a second before it could get anywhere near my vocal cords and quarantined it immediately.
 
-And right behind that ache, my polite, chronological, rule-following autistic brain—remembering that she had just turned thirty-eight on **September 3** four weeks ago—involuntarily loaded a full conversational string into my outbound vocal buffer for when the building closed at `8:00 PM`:
-
-> *`Good night Heather, and belated happy birthday.`*
-
-I caught that string in RAM half a second before it could get anywhere near my vocal cords and **quarantined it immediately**.
-
-*Absolutely not,* my internal firewall answered. *She terminated those privileges at Princess Anne & Susquehanna Drive on May 8, 2009. Keep your mouth shut. Stay in the Corporate We.*
+*Absolutely not,* my internal firewall answered. *She terminated those privileges at Princess Anne and Susquehanna Drive on May 8, 2009. Keep your mouth shut. Stay in the Corporate We.*
 
 ### Part 2: 7:20 PM – 8:00 PM: Status Yellow, The Back Office Count, & The Deliberate Look Away
 
@@ -31948,43 +31702,39 @@ I caught that string in RAM half a second before it could get anywhere near my v
 
 #### 7:20 PM — Holding the Line at Status Yellow
 
-Here is the difference between **April 2024** and **October 2, 2026**:
+I reached for my water bottle on the laminate counter, unscrewed the cap with steady fingers, and took a slow sip of ice-cold water to stimulate my vagus nerve and settle my breathing.
 
-In April 2024—and even during the first three seconds of Hailey's ambush on August 11—my system had teetered on the edge of a **Status Black** freeze.
+The wall clock read 7:20 PM—four minutes after Heather had walked behind the solid rear structural wall into the Weight Room—and as I set the bottle back down beside my monitor, I felt the unmistakable difference between April 2024 and October 2, 2026.
 
-At **`7:20 PM`** on **Friday, October 2, 2026**, four minutes after Heather walked behind the solid wall into the Weight Room, my **`Code Susquehanna`** firewall held the line squarely at **Status Yellow**.
+In April 2024, and even during the first three seconds of Hailey's twin ambush on August 11, my nervous system had teetered on the edge of a Status Black freeze. Tonight, the Code Susquehanna firewall held the line squarely at Status Yellow. My heart rate was elevated and the sudden wave of 2008 memories still ached in my chest, but my hands were steady, my voice was fully online, and instead of feeling like a helpless twenty-one-year-old crying on the Route 25 bus in 2009, I felt grounded, forty minutes away from closing my building, and—if I was being completely honest with myself—more than a little annoyed that she had strolled in with forty-four minutes left on a Friday night after a full year of peace and quiet.
 
-My heart rate was elevated and the flood of `2008` memories hurt like hell, but my hands were steady, my voice was online, and instead of feeling like a helpless twenty-one-year-old crying on the Route 25 bus in 2009, I felt grounded, forty minutes away from closing the building, and—if I'm being completely honest—more than a little **annoyed** that she had walked in with forty-four minutes left on a Friday night after a year of peace and quiet.
+I turned calmly in my chair toward Tyler at the Scan Station.
 
-I picked up my water bottle from the counter, took a slow sip of cold water to stimulate my vagus nerve and regulate my breathing, and turned calmly to **Tyler** at `7:20 PM`.
+"Hey, Tyler," I said in a level, conversational, slightly exasperated voice inside our desk bubble. "The woman in the glasses who scanned in right before you—we have history from college. My ex, Heather, who just checked in."
 
-"Hey Tyler," I said in a level, conversational, slightly exasperated present-tense voice, "my ex is here. Heather, who just checked in."
+Speaking her name out loud to my coworker as a practical supervisor heads-up—rather than treating it like an unspeakable ghost story—anchored me completely in 2026. Tyler nodded immediately, keeping an eye on the main concourse while I kept my sightlines locked horizontally across the desk.
 
-Saying her name out loud to Tyler inside our staff bubble—not as a whispered ghost story, but as a practical supervisor heads-up—anchored me completely in `2026`. Tyler nodded immediately, keeping an eye on the main concourse while I kept my vertical sightlines locked horizontally on the desk.
-
-Because Heather had gone straight behind the solid rear structural wall of the Front Desk into the **Weight Room**, she remained `100%` inside the visual **Null Zone**.
-
-For the next twenty-five minutes, I ran the Front Desk without missing a beat.
+Because Heather had walked straight behind the solid structural wall at the rear of the Front Desk into the Weight Room, she remained one hundred percent inside the visual and acoustic Null Zone. For the next twenty-five minutes, Tyler and I ran the Front Desk without missing a beat.
 
 ***
 
 #### 7:45 PM – 8:00 PM — The Back Office Count & The Deliberate Look Away
 
-At **`7:45 PM`**—fifteen minutes before our `8:00 PM` Friday public close—I executed the standard Friday evening closing sweep protocol: leaving Tyler to staff the front counter and greet exiting patrons, I stepped through the door behind the desk into the **Back Office**.
+At 7:45 PM—fifteen minutes before our 8:00 PM Friday public close—I initiated our standard Friday evening closing sweep. Leaving Tyler at the front counter to monitor the lobby and greet exiting patrons, I stepped through the staff door directly behind the desk into the Back Office.
 
-Inside the quiet bunker, I unlocked the cash register tills, counted down the twenty-, ten-, five-, and one-dollar bills, balanced the credit-card batch totals, and completed the Friday night closing report.
+Inside the quiet, enclosed office, I unlocked the cash register tills, counted down the crisp twenty-, ten-, five-, and one-dollar paper bills, balanced the credit-card batch totals, and compiled the Friday night financial and attendance closing report.
 
-At **`7:59 PM`**, with the register tills balanced and locked in the safe, I stepped back out of the Back Office to the rear of the Front Desk as the `8:00 PM` closing announcement echoed over the building and the last patrons filed out of the Weight Room toward the sliding glass exit doors.
+At 7:58 PM, with the whole-dollar paper tills balanced and locked inside the safe, I stepped back out of the Back Office to the rear of the Front Desk beside Tyler just as the final closing announcement echoed through the building and the last patrons began filing out of the Weight Room toward the front lobby.
 
-At **`8:00 PM`**, **Heather** walked out from the Weight Room heading for the front exit doors.
+At 8:00 PM on the dot, Heather emerged from behind the Weight Room wall, heading across the lobby toward the sliding glass exit doors.
 
-As she crossed the lobby toward the sliding glass doors, she glanced over toward the Front Desk, **recognized that I was behind the counter—and deliberately looked away**, fixing her eyes straight ahead on the parking lot as she stepped out through the glass doors into the October night.
+As she walked past the front concourse, she glanced over toward the Front Desk, recognized me standing behind the counter in my royal blue polo shirt—and deliberately looked away, fixing her gaze straight ahead on the dark parking lot outside as she stepped through the sliding glass doors into the October night.
 
-Watching her deliberately avert her gaze as she walked out, the last remaining piece of the puzzle clicked into place with quiet, mathematical finality.
+Watching her deliberately avert her eyes on the way out the door, the final piece of the equation clicked into place inside my head with quiet, mathematical finality.
 
-It wasn't just me maintaining a firewall anymore. **The avoidance was 100% mutual.**
+It wasn't just me maintaining a firewall anymore. The avoidance was one hundred percent mutual.
 
-She knew who worked the Front Desk at Fairlawn Recreation Center. She knew what she had done at the Susquehanna Drive bus stop on May 8, 2009. Neither of us was ever going to agitate the other; neither of us was ever going to speak a personal word across that counter; and we had reached a permanent, silent, professional stalemate—she as a visiting member with a grandfathered Month-to-Month card, and I as the Duty Supervisor running my building.
+She knew who ran the Front Desk at the Fairlawn Recreation Center, and she knew what she had done at the Susquehanna Drive bus stop on May 8, 2009. Neither of us was ever going to agitate the other, neither of us was ever going to speak a personal word across that counter, and we had arrived at a permanent, silent, professional stalemate—she as a visiting member on a grandfathered Month-to-Month card, and I as the Duty Supervisor in command of my building.
 
 ### Part 3: 9:00 PM: The Only Vault in the Universe
 
@@ -31994,31 +31744,31 @@ She knew who worked the Front Desk at Fairlawn Recreation Center. She knew what 
 
 #### 9:00 PM — Coming Home to the Vault
 
-By **`8:15 PM`**, Tyler and I locked the front doors of the **Fairlawn Recreation Center**, set the building perimeter alarms, and walked out into the crisp October evening air.
+By 8:15 PM, Tyler and I had locked the front entrance doors of the Fairlawn Recreation Center, set the building perimeter alarms, and walked out into the crisp October evening air.
 
-When I pulled into our driveway on **Moosewood Drive** and walked through our front door a little before **`9:00 PM`**—still wearing my royal blue work polo shirt—the house was warm and bright, with **Kristin**, **Jessica**, and **Ashley** relaxing in the main living area. Outwardly, to everyone else in our home, I looked like I had just finished any ordinary Friday closing shift at the recreation center.
+When I pulled into our driveway on Moosewood Drive and stepped through the front door just before 9:00 PM—still wearing my royal blue work polo shirt—the house was warm and bright, with Kristin, Jessica, and Ashley relaxing together in the main living room. Outwardly, to everyone else under our roof, I looked like I had just wrapped up an ordinary Friday night closing shift at the recreation center.
 
-And just like always, I didn't breathe a single word of it to anyone else.
+True to our pact, I greeted them warmly and didn't breathe a single word of what had happened at 7:16 PM.
 
-Ten minutes later, when I stepped into our quiet **Command Center** to set my work keys and water bottle down on my desk, **Rachel** walked in right behind me and softly closed the door half-way.
+Ten minutes later, when I walked down the hall into our quiet Command Center to set my work keys and water bottle on my desk, Rachel stepped in right behind me and softly eased the door halfway shut.
 
-She didn't even need me to open my mouth. After thirty-plus years of operating as two halves of the same nervous system, my Bug took one half-second look at the quiet fatigue around my eyes and knew the exact shape of the wave.
+She didn't even need me to speak first. After more than thirty years of operating as two halves of the same nervous system, my Bug took one half-second look at the quiet fatigue around my eyes and recognized the exact shape of the wave.
 
-"Susquehanna?" Rachel whispered, so softly that the word couldn't travel three feet past my ear.
+"Susquehanna?" Rachel whispered, pitching her voice so softly that the single word couldn't travel three feet past my ear.
 
-"Twin A," I whispered back, my voice finally catching for a fraction of a second now that I was inside the one vault on earth where my armor could come all the way off. "Heather. Walked in at `7:16 PM` with forty-four minutes left before close—after almost a whole year. Got stuck in a bottleneck at the scanner while [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) was literally playing on the front desk speaker."
+"Twin A," I whispered back, my voice finally catching for a fraction of a second now that I was standing inside the one vault on earth where my armor could come all the way off. "Heather. Walked in at 7:16 PM with forty-four minutes left before close—after almost a whole year. Got held up in a bottleneck at the scanner while [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) was literally playing on the front desk speaker."
 
-Rachel's eyes widened slightly at the sheer surreal irony of the song—and then her expression softened into pure, fiercely protective sibling warmth.
+Rachel's eyes widened slightly at the sheer surreal irony of the song title, and then her expression softened into pure, fiercely protective sibling warmth.
 
-She stepped right between my desk chair and hers, opened her arms, and pulled me straight against her chest in a long, heavy, deep-pressure **Bear and Bug** hug.
+She stepped right between my desk chair and hers, opened her arms, and pulled me flush against her chest in a long, heavy, deep-pressure Bear and Bug hug.
 
-That is how Rachel and I have communicated [ever since she was six and I was eight](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement): through hugs. *A lot* of hugs. In our minds, why would we ever fist-bump or high-five when we can just hug each other?
+That was how Rachel and I had communicated [ever since she was six and I was eight](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement): through hugs. A lot of hugs. In our minds, why would we ever fist-bump or high-five when we could just hug each other?
 
-I wrapped both arms tightly around my sister's waist and rested my forehead against her shoulder—not with the [terrified, suffocating panic of May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go) when I was afraid the whole world was going to walk away from me, but with the deep, exhaling relief of a man who had stood at his post, held the line at **Status Yellow**, kept his mouth shut, and come home to the one person who had never let go of him for a single second of his life.
+I wrapped both arms tightly around my sister's waist and rested my forehead against her shoulder—not with the [terrified, suffocating panic of May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go) when I had been afraid the whole world was going to walk away from me, but with the deep, exhaling relief of a man who had stood at his post, held the line at Status Yellow, kept his mouth shut, and come home to the one person who had never let go of him for a single second of his life.
 
-When I finally sank down into my desk chair, Rachel didn't go back to her own chair—she settled right onto my lap and kept both arms locked tightly around my neck and shoulders, because even at thirty-six and thirty-eight years old, to this day Rachel still feels that the safest place in the entire world is sitting on her brother's lap.
+When I finally sank down into my desk chair, Rachel didn't return to her own chair. She settled right onto my lap and kept both arms locked tightly around my neck and shoulders, because even at thirty-six and thirty-eight years old, Rachel still felt that the safest place in the entire world was sitting on her brother's lap.
 
-"You didn't freeze, Bear," Rachel murmured into my hair, her hands pressing steady, rhythmic compression across my upper back as the last of the adrenaline drained out of my muscles. "You held the desk, you didn't give away a single piece of your heart, and she looked away on the way out."
+"You didn't freeze, Bear," Rachel murmured into my hair, her hands pressing steady, rhythmic compression across my upper back as the last of the Friday night adrenaline drained out of my muscles. "You held the desk, you didn't give away a single piece of your heart, and she looked away on the way out."
 
 "Still hurts when all those happy memories hit at once, Bug," I whispered honestly against her shirt.
 
