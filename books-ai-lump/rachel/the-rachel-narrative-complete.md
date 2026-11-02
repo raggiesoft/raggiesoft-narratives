@@ -30026,6 +30026,198 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 "Sunday night is Bedroom A's full bed, Madame Secretary," I whispered back. "Wake me up when we hit the Hampton Roads Bridge-Tunnel."
 
+# Behind the Wheel: 55 MPH on Ferrell Parkway (Summer 2016)
+
+## The DMV Knowledge Test & 55 MPH on Session One
+
+### Part 1: Ellen's Gift, Upgrading from State IDs, & Passing the DMV Knowledge Test on the First Try
+
+**Date:** 2016-06-14 at 10:00 America/New_York
+
+![Michael and Rachel standing side by side at the Virginia Beach DMV counter holding hands with their fingers laced together, smiling warmly as the DMV clerk hands them their temporary Virginia Learner's Permit sheets after both siblings pass the two-part computerized DMV knowledge exam on the first try]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_dmv_knowledge_test_first_try_permits.jpg)
+
+#### 10:00 AM — Healed Ankles & Ellen's Surprise at Moosewood Drive
+
+By the second week of June 2016—four months after **Rachel** and I had rolled across the snowy limestone walkways of Blacksburg in my temporary post-op manual wheelchair for [the **2016 `SAACURC` Regional Student Leadership Conference**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly)—my orthopedic surgeon and physical therapist had officially cleared me from my January bilateral Achilles heel cord lengthening surgery.
+
+Standing barefoot on the hardwood floor of our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, both of my heels rested flat and level against the boards. Even better, when I planted my right heel on the floor and flexed my foot upward and downward like pressing an imaginary gas and brake pedal, my lengthened Achilles tendon glided smoothly through the full arc of dorsiflexion without a single twinge of tightness or calf cramping.
+
+Up to this point in our lives—at twenty-eight years old for me and twenty-six for my sister **Rachel** (*my Bug*)—neither of us had ever gotten a driver's license.
+
+Around the dining table here at **Moosewood Drive**, where the five of us (**Rachel**, **Ashley**, **Kristin**, **Jessica**, and I) lived together when Rachel and I weren't up in Norfolk for classes at **Virginia Dominion University (`VDU`)**, the household transportation roster was straightforward:
+* **Ashley** held a Virginia Driver's License and owned her own car, parked right outside in the Moosewood Drive driveway.
+* **Jessica** was prohibited from driving for medical reasons and carried a **Virginia Non-Driver State ID card**.
+* **Kristin** also carried a **Virginia Non-Driver State ID card**. Nothing medical or legal stopped Kristin from taking Behind-the-Wheel lessons—she simply did not like to drive, and was completely happy either riding the **Coastal Virginia Transit Authority (`CVTA`)** bus or catching rides with Ashley.
+* And until this summer, Rachel and I had carried **Virginia Non-Driver State ID cards** too, splitting our commutes between transit buses, our VDU campus shuttle, and catching rides with Ashley or our mother **Ellen**.
+
+When **Mom (Ellen)** stopped by the house on Moosewood Drive after my final orthopedic discharge appointment and saw me pivoting my right foot effortlessly on my heel, she set her purse down on the kitchen island and smiled at the two of us.
+
+"Your ankles are finally ready, Michael, and it's time for both of you to have your independence on the road," Mom said. "I'm paying for the two of you to take formal **Adult Behind-the-Wheel** lessons together at a certified driving school here in Virginia Beach. And the day you pass your road tests and get your licenses, I'm adding both of you onto the insurance policy for my car so you can borrow it whenever you need to."
+
+Rachel's eyes lit up behind her rounded glasses as she squeezed my hand, lacing her fingers tightly through mine. "Wait—really, Mom? Both of us together?"
+
+"Both of you together," Mom promised. "Go down to the DMV, upgrade your State IDs to your Virginia Learner's Permits, and I'll write the check to the driving school this afternoon."
+
+![Michael and Rachel at the Virginia Beach DMV counter holding hands as they receive their temporary Virginia Learner's Permits after passing the two-part knowledge exam on the first try]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_dmv_knowledge_test_first_try_permits.jpg)
+
+***
+
+#### 1:15 PM — Ten for Ten at the Virginia Beach DMV
+
+Under Commonwealth of Virginia law (`Va. Code § 46.2-335`), even when an adult hires a commercial DMV-certified driver training school, you cannot legally sit behind the steering wheel of an instruction car on a public street until you hold a valid **Virginia Learner's Permit**.
+
+After spending three evenings quizzing each other on the *Virginia Driver's Manual* across the kitchen table at Moosewood Drive, Rachel and I walked through the sliding glass doors of the **Virginia Beach DMV Customer Service Center** on Tuesday afternoon, June 14, 2016, holding hands with our fingers laced together until our ticket number flashed on the overhead LED board.
+
+Because both of us already held valid **Virginia Non-Driver State ID cards** with our **Moosewood Drive** residential address verified in the DMV database, the paperwork at the counter was a breeze. We handed over our completed *Driver's License and Learner's Permit Applications (`Form DL 1P`)*, paid the combined Learner's Permit and license fee, and took turns leaning our foreheads against the rubber hood of the tabletop stereoscopic vision screener.
+
+Looking through our glasses into the illuminated lenses, both Rachel and I read off the tiny `20/40` acuity letter lines and called out the left-and-right peripheral flash strobes (`100°` horizontal field), earning **`Restriction B — Corrective Lenses`** on our applications.
+
+"All right, you two," the DMV clerk said, stamping our routing slips and pointing toward the row of numbered computer booths in the quiet testing alcove. "Terminals 4 and 5 for your two-part Knowledge Exam. Remember: Part 1 is ten road signs, and you have to get all ten right—one hundred percent—before the computer will unlock Part 2."
+
+Rachel and I walked over to Terminals 4 and 5 side by side, gave each other's hand one last grounding squeeze, and sat down in front of the touchscreens.
+
+The Virginia DMV's **Part 1 Traffic Signs test** is legendary for tripping people up because half the questions strip away the words on the sign and show only a blank geometric shape and color—testing whether you immediately recognize a yellow pennant (*No Passing Zone*), a round yellow disc (*Railroad Crossing Advance Warning*), an orange diamond (*Temporary Work Zone*), a red octagon (*Stop*), or a downward-pointing red-and-white triangle (*Yield*). Miss even one out of the ten (`9/10`), and the terminal locks immediately and makes you come back tomorrow.
+
+Sitting at Terminal 4 with Rachel right beside me at Terminal 5, I tapped through the ten sign questions methodically, verifying each shape and color before hitting *Confirm*.
+* `Question 10 of 10` $\rightarrow$ **`PASSED — 100% (10/10)`**.
+
+Out of the corner of my eye, I saw Rachel's screen flash green at almost the exact same second—she had gone **10-for-10 on the first try** too!
+
+Without missing a beat, both of our screens unlocked **Part 2: General Knowledge (`30 Questions — 80% / 24 Correct Required`)**, covering Virginia right-of-way laws, yielding to pedestrians in crosswalks, stopping for school buses with flashing red lights on undivided highways versus median-divided boulevards, the 3- and 4-second following distance rules, and Virginia's statutory speed limits (`25 MPH` in business and residential zones; `55 MPH` on non-rural highways).
+
+Twelve minutes later, my screen flashed **`EXAM COMPLETE — PASSED`**, and thirty seconds after that, Rachel turned toward me with a huge, beaming grin as her screen flashed **`EXAM COMPLETE — PASSED`** on the very first attempt as well.
+
+We stood up from the booths, immediately laced our fingers back together, and walked back up to the counter where the clerk void-punched our old Non-Driver State IDs, snapped our new permit photos, and handed us our fresh paper temporary **Virginia Learner's Permits** to use while the hard plastic cards mailed out from Richmond.
+
+"Two for two on the first try, Bug," I whispered, kissing the side of her temple as we stepped out into the warm June sunshine.
+
+"Now let's go learn how to drive, Bear," Rachel grinned.
+
+### Part 2: Session One: Fifty-Five Miles Per Hour on Ferrell Parkway
+
+**Date:** 2016-06-21 at 13:00 America/New_York
+
+![Michael in the driver's seat of the dual-control driver training sedan with hands at 9 and 3 merging at 55 MPH on Ferrell Parkway at the Princess Anne Road and Salem Road interchange in Virginia Beach, with the driving instructor in the passenger seat and Rachel observing proudly from the back seat]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_ferrell_pkwy_55mph_first_session.jpg)
+
+#### 1:00 PM — The Dual-Control Sedan & Sibling Pairing
+
+In the Commonwealth of Virginia, an adult holding a Learner's Permit normally has to wait sixty days, log forty-five hours of supervised practice (`Form CSMA 19`), and schedule a formal road test with a state examiner at the DMV.
+
+Because **Mom (Ellen)** had enrolled Rachel and me in a DMV-certified Class B Driver Training School under Virginia's **Adult Behind-the-Wheel Waiver Program (`Va. Code § 46.2-324.1`)**, however, our path was much cleaner: by completing **`7` fifty-minute periods of in-car driving** and **`7` fifty-minute periods of in-car observation**, our driving school instructor would administer our official Virginia Road Skills Test himself on Session 7 and issue our road-test waiver certificates (`Form DTS-D`).
+
+Even better, because Virginia's `7 driving + 7 observation` curriculum is built around having **two students in the training car at the same time**, Rachel and I were paired together as driving partners for every single lesson.
+
+At `1:00 PM` on Tuesday, June 21, 2016, a clean white four-door compact training sedan—outfitted with Virginia license plates (`VA3-5558`) on both front and rear bumpers, a yellow magnetic **`STUDENT DRIVER`** sign on the roof, a secondary instructor rearview mirror clipped above the dashboard, and a steel **dual-control auxiliary brake pedal** mounted over the front passenger floorboard—pulled up to the curb in front of our house on **Moosewood Drive**.
+
+Rachel and I walked down our front path holding hands, greeted our instructor, and decided that I would take the first 50-minute driving block while Rachel buckled into the back seat behind the passenger chair for her 50-minute observation block.
+
+Climbing into a driver's seat for the very first time in my life at twenty-eight years old, I ran through the pre-drive cockpit checklist our instructor walked me through:
+1. **Seat Position**: Sliding the seat forward until my newly healed right heel rested comfortably on the floorboard carpet directly between the brake and accelerator pedals, allowing my foot to pivot smoothly between both pedals without lifting my heel.
+2. **Mirrors**: Adjusting the center inside rearview mirror to frame the rear window and angling both power side mirrors outward to minimize the left and right blind spots.
+3. **Seatbelt & Controls**: Clicking my three-point seatbelt across my shoulder, verifying the gear selector was locked in **`P` (`Park`)** with the handbrake set, and placing my hands at **`9 and 3`** on the steering wheel.
+
+With my right foot pressing the service brake, I shifted into **`D` (`Drive`)**, released the parking brake, and eased my foot off the pedal to feel the car roll forward under idle creep along Moosewood Drive.
+
+For the first ten minutes, our instructor watched closely as I navigated the quiet `25 MPH` residential streets out of our neighborhood—coming to smooth, progressive stops behind the white stop lines without jerking the nose of the car, scanning left-right-left before turning, and keeping the sedan centered squarely between the lane markings.
+
+I fully expected our first session to stay tucked inside `25 MPH` subdivision streets or an empty shopping center parking lot.
+
+Instead, as we approached the traffic signal at the edge of the corridor, our instructor glanced at my steady hands on the wheel, noted how smoothly my right ankle was modulating the brake and throttle, and nodded toward the arterial intersection ahead.
+
+"Your pedal control and lane tracking are really natural, Michael," the instructor said calmly. "Let's take a right onto **Ferrell Parkway** and bring her up to road speed."
+
+![Michael driving at 55 MPH on Ferrell Parkway merging with Princess Anne Road at the Salem Road interchange during his very first Behind-the-Wheel session while Rachel observes from the back seat]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_ferrell_pkwy_55mph_first_session.jpg)
+
+***
+
+#### 1:20 PM — Hitting 55 MPH on Ferrell Parkway & The Princess Anne / Salem Road Merge
+
+In the back seat, I caught Rachel's eyes in the rearview mirror widening with an excited grin as I signaled right, checked my mirrors and blind spot, and turned the training sedan out onto **Ferrell Parkway** (`State Route 225`).
+
+Anyone who knows Virginia Beach geography knows that **Ferrell Parkway** is no sleepy suburban side street. The moment you clear the intersection and head west toward **Princess Anne Road**, the wide multi-lane divided parkway opens up like an expressway—and right there on the grass shoulder stood a crisp black-and-white regulatory sign:
+
+```
+SPEED
+LIMIT
+ 55
+```
+
+"Go ahead and bring it all the way up to the posted limit, Michael," the instructor encouraged, his right foot resting flat on the floorboard well clear of the auxiliary instructor brake. "Keep your eyes looking twelve to fifteen seconds down the roadway, hold your hands steady at nine and three, and let the car settle into **`55 MPH`**."
+
+I pivoted my healed right ankle onto the accelerator and pressed down smoothly.
+
+Watching the speedometer needle climb past `35`... `45`... `50`... and settle dead on **`55 MPH`** during my **very first Behind-the-Wheel session in charge of a car** was an unforgettable rush. At fifty-five miles per hour, the physics of driving change completely: you don't turn the steering wheel with big arm movements—just a millimeter of fingertip pressure at `9 and 3` guides the car cleanly along the lane center while the tires hum smoothly over the Virginia Beach asphalt.
+
+And seconds later came the best part of the corridor.
+
+Up ahead, **Ferrell Parkway merges directly with Princess Anne Road (`State Route 165`)**, right where the grade-separated **exit ramps for Salem Road** peel off beneath the sweeping overpass infrastructure. For that quarter-mile stretch—with multi-lane `55 MPH` traffic converging seamlessly, green overhead highway-style directional signs spanning the lanes, and dedicated entrance and exit ramp geometry—driving through the **Ferrell Parkway / Princess Anne Road / Salem Road** junction feels just like piloting a car on a full interstate highway.
+
+"Check your left mirror, quick glance over your left shoulder for your blind spot—**`S.M.O.G.`**: *Signal, Mirror, Over-the-shoulder, Go*—and merge smoothly with the Princess Anne traffic flow at fifty-five," the instructor guided.
+
+I clicked the left turn signal, checked my inside mirror, checked my left side mirror, made a crisp over-the-shoulder blind-spot check past the B-pillar, and glided the sedan seamlessly through the merge at a steady **`55 MPH`** without touching the brakes or drifting an inch out of alignment.
+
+"Text-book highway merge on Day One!" the instructor smiled, jotting a checkmark onto his clipboard. "How did fifty-five miles per hour feel?"
+
+"Incredible," I breathed, glancing into the rearview mirror where Rachel was beaming from ear to ear and giving me a silent thumbs-up from the back seat.
+
+Twenty minutes later, when we pulled into a shopping center parking lot at the fifty-minute mark to switch drivers, I shifted into **`P` (`Park`)**, stepped out of the driver's door as Rachel stepped out of the rear door, and gave her hand a tight, warm squeeze as we passed each other beside the front fender.
+
+"Fifty-five on Ferrell Parkway is all yours, Bug," I whispered.
+
+"Watch and learn, Bear," Rachel whispered back, sliding into the driver's seat, adjusting the seat and mirrors for her frame, and taking her own first-day run right up to **`55 MPH`** along Ferrell Parkway like she had been driving her whole life.
+
+## The 45 MPH Curves & Passing the Road Test on the First Try
+
+### 45 MPH on the Kempsville & Lynnhaven Curves & Passing the Road Test on the First Try
+
+**Date:** 2016-07-19 at 14:00 America/New_York
+
+![Michael and Rachel standing side by side holding hands with their fingers laced together next to the white dual-control STUDENT DRIVER training sedan with Virginia front prop plate VA3-5558 after both passing their Behind-the-Wheel road test on the first try, as the instructor hands them their completion certificates with a sweeping 45 MPH Virginia Beach roadway curve in the background]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jul_2016_kempsville_lynnhaven_curves_and_road_test_pass.jpg)
+
+#### 2:00 PM — Trusting the Geometry at 45 MPH: Kempsville Road & Lynnhaven Parkway
+
+Because our very first Behind-the-Wheel session had already introduced **Rachel** and me to `55 MPH` highway-style merging where **Ferrell Parkway** meets **Princess Anne Road** and the **Salem Road** exit ramps, our driving school routes across the rest of June and July 2016 covered some of the best real-world vehicle-handling classrooms in Virginia Beach.
+
+In particular, our driving course regularly routed both of us through two stretches of multi-lane Virginia Beach roadway notorious for their sweeping curves:
+1. **Kempsville Road between Kemps River Drive and Stratford Chase Drive**, where the busy multi-lane corridor bends through a pronounced curve right past the river crossing; and
+2. **Lynnhaven Parkway between South Rosemont Road and Holland Road**, where the divided multi-lane parkway sweeps through long, curving arcs with traffic running right alongside you in the adjacent lane.
+
+To an inexperienced driver, approaching either of those curves with cars beside you can look intimidating—tempting nervous drivers to stare straight down at the painted lane line right in front of the hood or stab at the brake pedal halfway through the turn, which upsets the car's weight balance and makes the steering feel jerky.
+
+Right before we entered the curve on **Kempsville Road** between **Kemps River Drive** and **Stratford Chase Drive**—and again when we swept onto **Lynnhaven Parkway** between **South Rosemont Road** and **Holland Road**—our instructor taught Rachel and me the golden rule of roadway geometry:
+
+"Look at the speed limit sign, Michael: **`SPEED LIMIT 45`**," he said as we approached the bend. "The civil engineers designed the radius and banking of these curves on Kempsville Road and Lynnhaven Parkway specifically for **forty-five miles per hour**. If you're doing the posted speed limit of `45 MPH`, you don't need to panic-brake in the curve. Keep your eyes looking far ahead through the exit of the bend where you want the car to go, hold a smooth, steady `45 MPH` on the throttle, and let your hands guide the wheel."
+
+Sure enough, holding the speedometer steady right at **`45 MPH`** with my eyes tracking through the far apex of the curve—first between **Kemps River Drive** and **Stratford Chase Drive** on **Kempsville Road**, and then along the sweeping arcs of **Lynnhaven Parkway** between **South Rosemont Road** and **Holland Road**—the training sedan planted its tires cleanly into the turn and tracked between the white dashed lines like it was riding on steel rails.
+
+When Rachel took the wheel for her fifty-minute half of the route and glided through those exact same `45 MPH` curves on **Lynnhaven Parkway** and **Kempsville Road** without a single mid-corner brake tap or steering wobble, the instructor grinned from the passenger seat:
+
+"Most new drivers fight the wheel on those two curves," he said. "You two drive them smoother than people who have had a license for twenty years."
+
+![Michael and Rachel holding hands beside the STUDENT DRIVER training sedan as their instructor hands them their signed Behind-the-Wheel Road Test Waiver certificates after both pass on the first try]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jul_2016_kempsville_lynnhaven_curves_and_road_test_pass.jpg)
+
+***
+
+#### 3:45 PM — Passing the Road Test on the First Try & Going on Mom's Insurance
+
+By Tuesday afternoon, July 19, 2016, Rachel and I had completed all six of our instructional driving and observation sessions—mastering `90-degree` perpendicular parking, `45-degree` angle parking, straight-line backing, 3-point turnabouts, interstate merging on **`I-264`**, the `55 MPH` Ferrell Parkway / Princess Anne Road / Salem Road interchange, and the `45 MPH` curves on Kempsville Road and Lynnhaven Parkway.
+
+That meant **Session 7** was our official **Commonwealth of Virginia In-Car Road Skills Test**.
+
+For fifty minutes while I drove first, and then for fifty minutes while Rachel drove second, our instructor sat quietly in the passenger seat with his official DMV evaluation rubric on his clipboard—grading every pre-drive mirror check, every complete stop behind a white line, every **`S.M.O.G.`** blind-spot check, every curve on Lynnhaven Parkway and Kempsville Road, every highway merge, and every parking maneuver.
+
+Not once during my fifty-minute test—or during Rachel's fifty-minute test right after mine—did his right foot ever touch the auxiliary passenger brake pedal.
+
+When Rachel backed the white training sedan cleanly into the final parking space back at our starting point and shifted into **`P` (`Park`)**, our instructor clicked his pen, signed his name and instructor certification number across the bottom of two official **Adult Behind-the-Wheel Completion & Road Test Waiver Certificates (`Form DTS-D`)**, and turned around in his seat with a broad smile.
+
+"Congratulations, Michael and Rachel," he said, handing us our signed embossed certificates as we stepped out beside the car and laced our fingers together. "You both passed your Virginia Road Skills Test **on the very first try**!"
+
+Before the DMV Customer Service Center closed at `5:00 PM`, Rachel and I took our signed `DTS-D` waiver certificates straight back to the counter where we had passed our knowledge exams on the first try five weeks earlier. Handing over our Learner's Permits and our road test waivers, we had our permanent **Virginia Driver's Licenses** (`Class D`, `Restriction B — Corrective Lenses`) issued on the spot—starting our official Virginia DMV driving records at **`0` demerit points** on our way to building `+1` **Safe Driving Point** every clean year (`Va. Code § 46.2-494`).
+
+That evening back at our house on **Moosewood Drive**, while **Ashley**, **Kristin**, and **Jessica** celebrated with us around the kitchen island, **Mom (Ellen)** called her auto insurance company and added both newly licensed adult kids—**Michael (`Age 28`)** and **Rachel (`Age 26`)**—as listed insured drivers on the policy for her silver sedan.
+
+While Rachel and I still mostly rode the **CVTA** bus or caught rides with Ashley for our everyday errands around Virginia Beach and Norfolk, having our full Virginia Driver's Licenses in our wallets and being continuously insured on Mom's policy meant that whenever we wanted to borrow Mom's car—whether for a grocery run or [a Thanksgiving road trip up to the Shenandoah Valley to visit our friend Terry in Luray](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/thanksgiving-in-luray-with-terry-the-us-211-motel/part-1-borrowing-mom-s-car-thanksgiving-with-terry-in-luray-the-single-queen-bed-on-us-211)—the open road was officially ours.
+
 # Thanksgiving in Luray & The Court Square Crosswalk (November 2017)
 
 ## Thanksgiving in the Page Valley: U.S. Route 211, Dinner with Terry, & The Single-Queen Sanctuary
@@ -30038,7 +30230,7 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 #### 2:30 PM — Borrowing Mom's Car & Thanksgiving with Terry in Luray
 
-Back in **2016**, after my bilateral Achilles heel cord lengthening surgery had fully healed, **Mom (`Ellen`)** had paid for **Rachel** and me to take adult **Behind-the-Wheel** driving lessons so both of us could finally earn our **Virginia Driver's Licenses**—and the day we passed, Mom added both of us as listed drivers on her auto insurance policy so we were allowed to borrow her car.
+Back in [**Summer 2016**](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-1-ellen-s-gift-upgrading-from-state-ids-passing-the-dmv-knowledge-test-on-the-first-try), after my bilateral Achilles heel cord lengthening surgery had fully healed, **Mom (`Ellen`)** had paid for **Rachel** and me to take [adult **Behind-the-Wheel** driving lessons](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-2-session-one-fifty-five-miles-per-hour-on-ferrell-parkway) so both of us could finally earn our **Virginia Driver's Licenses**—and [the day we passed our road tests on the first try](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-45-mph-curves-passing-the-road-test-on-the-first-try/part-1-45-mph-on-the-kempsville-lynnhaven-curves-passing-the-road-test-on-the-first-try), Mom added both of us as listed drivers on her auto insurance policy so we were allowed to borrow her car.
 
 At our family home on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, **Ashley** was the only one of the five of us who owned a car of her own (since **Jessica** was medically prohibited from driving and held a Virginia State ID, and **Kristin** also held a Virginia State ID and preferred taking the **CVTA** bus or getting rides with Ashley simply because she didn't like to drive). For everyday errands around Hampton Roads when Ashley was at work, Rachel and I still rode the bus—but whenever we had a special out-of-town trip, Mom happily lent us her car.
 
@@ -30257,7 +30449,7 @@ At our **Moosewood Drive** house, the five of us had a very specific transportat
 * **Ashley** held a **Virginia Driver's License** and owned her own car, which was parked in our Moosewood Drive driveway.
 * **Kristin** held a **Virginia State ID** and either took the **CVTA** bus or got rides with Ashley—the only thing stopping Kristin from driving was that she simply did not like to drive (nothing was stopping her from taking Behind-the-Wheel lessons if she ever wanted to).
 * **Jessica** was prohibited from driving for medical reasons and also held a **Virginia State ID**.
-* **Rachel and I** had taken our adult **Behind-the-Wheel** lessons back in **2016** (paid for by **Mom / Ellen**) to earn our **Virginia Driver's Licenses**, and Mom had kept both of us listed under the auto insurance policy for her car ever since so that we were allowed to borrow it. Because Mom did not live at our Moosewood Drive address, however, borrowing her car wasn't an everyday option—so whenever Ashley was at work with her car, Rachel and I mainly took the **CVTA** bus or coordinated rides with Ashley.
+* **Rachel and I** had taken our [adult **Behind-the-Wheel** lessons back in **2016**](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-2-session-one-fifty-five-miles-per-hour-on-ferrell-parkway) (paid for by **Mom / Ellen**) to earn our **Virginia Driver's Licenses**, and Mom had kept both of us listed under the auto insurance policy for her car ever since so that we were allowed to borrow it. Because Mom did not live at our Moosewood Drive address, however, borrowing her car wasn't an everyday option—so whenever Ashley was at work with her car, Rachel and I mainly took the **CVTA** bus or coordinated rides with Ashley.
 
 Then came the first week of **February 2020**—five straight days of standing at **CVTA** stops in sideways forty-degree coastal rain, waiting on delayed bus transfers with heavy bags of groceries cutting into our fingers.
 
@@ -30591,7 +30783,7 @@ Because Virginia auto insurance underwriters run every adult living at the physi
    * **Jessica** (prohibited from driving for medical reasons) and **Kristin** (who chooses not to drive) were listed on the household disclosure as **Non-Licensed Household Residents (`Virginia State ID Only`)**, adding `$0.00` to our premium.
    * **Ashley**—the only other licensed driver living at our Moosewood Drive address—owned her own car parked in our driveway and carried her own separate auto insurance policy. Under Virginia's **Separately Insured Household Member** rule (`Va. Code § 38.2-2204`), we simply cross-referenced Ashley's active policy number so the underwriter marked her as *Insured Elsewhere / Own Vehicle* (`Non-Rated`).
 3. **Continuous Prior Insurance (`2016–2020` on Mom's Policy) & `+5` Virginia DMV Safe Driving Points:**
-   * Because **Mom (`Ellen`)** had paid for our **Behind-the-Wheel** lessons back in **2016** and kept both Rachel and me listed as insured drivers on her car's policy ever since (even though Mom lived at her own address), we didn't get hit with a *"new uninsured buyer"* surcharge—we had **four years of continuous prior insurance coverage** right out of the gate.
+   * Because **Mom (`Ellen`)** had paid for our [**Behind-the-Wheel** lessons back in **2016**](https://books.raggiesoft.com/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-45-mph-curves-passing-the-road-test-on-the-first-try/part-1-45-mph-on-the-kempsville-lynnhaven-curves-passing-the-road-test-on-the-first-try) and kept both Rachel and me listed as insured drivers on her car's policy ever since (even though Mom lived at her own address), we didn't get hit with a *"new uninsured buyer"* surcharge—we had **four years of continuous prior insurance coverage** right out of the gate.
    * Better yet, when the agent pulled our official Virginia DMV transcripts, **both Rachel and I held the maximum `+5` Safe Driving Points**.
 
 Why did I still have all **`+5` Safe Driving Points** despite having been involved in one collision since 2016?
