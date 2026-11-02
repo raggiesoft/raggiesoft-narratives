@@ -538,7 +538,7 @@ From the bottom step of the open-slatted stairs, Jessica caught my eye and had t
 
 **Date:** 1994-07-12 at 08:45 America/New_York
 
-![On a sunny July 1994 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica walk right in the middle of their VDU Summer Camp group behind their camp counselor in front of the modern flat-roofed glass-and-brick Student Center and University Library]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
+![On a sunny July 1994 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica in her clear wire-rimmed glasses walk right in the middle of their VDU Summer Camp group behind their camp counselor in front of the modern flat-roofed glass-and-brick Student Center and University Library]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
 
 #### 8:45 AM — Three Ragsdales on Dominion Mall
 
@@ -9367,7 +9367,7 @@ When we finally navigated the sprawling, sterile corridors of Tidewater General 
 
 Mom was sitting in a stiff vinyl chair pulled close to the bed, holding a lukewarm cup of cafeteria coffee. She looked like she hadn't slept a single minute. Lying in the hospital bed, her legs elevated on heavy medical foam wedges and encased in thick "Bulky Jones" splints, was Jessica.
 
-The pragmatic protector of our pack looked incredibly pale, her tinted glasses pushed up on her head as she rubbed her eyes.
+The pragmatic protector of our pack looked incredibly pale, her regular wire-rimmed prescription glasses pushed up on her head as she rubbed her eyes.
 
 "Finally," Jessica groaned, her voice thick and raspy as we walked through the door. Her eyes lit up with profound relief when she saw Rachel and me step into the room, instantly verifying that her Base Camp directives had been followed. "I thought you guys were never getting here."
 
@@ -9459,7 +9459,7 @@ Jessica nodded, digesting the architectural limitation. Without a professional I
 
 When the door clicked shut, the true toll of the effort became instantly visible.
 
-Without Dan in the room to maintain a brave face for, Jessica’s posture sagged against the thin hospital pillow. The glaring, unshielded backlight of the LCD screen was actively triggering her pain response. She pushed her tinted glasses up the bridge of her nose, squinting against the harsh light.
+Without Dan in the room to maintain a brave face for, Jessica’s posture sagged against the thin hospital pillow. Although she had always worn clear prescription glasses since we were kids, the glaring, unshielded backlight of the LCD screen—combined with the harsh overhead hospital fluorescents—was suddenly stabbing straight through her clear lenses and actively triggering a sharp, throbbing pain response behind her eyes. She pushed her glasses up the bridge of her nose, squinting hard against the glare in the first unmistakable warning sign of the secondary concussion and traumatic brain injury transmitted up her spine from the violent kinetic shockwave of her axial load fall—a post-concussive photophobia that, once it fully came to light during her hospital stay, would require her to wear custom tinted prescription glasses permanently for the rest of her life.
 
 I watched my older sister fight a brutal, invisible war. The pulverized bones in her heels were radiating a white-hot agony that the heavy painkillers were barely keeping at bay. The synthetic narcotics were making the room spin, turning her usually razor-sharp thoughts into a sluggish, disjointed mess.
 
