@@ -30038,17 +30038,19 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 #### 9:15 AM — Tired of Waiting for the Bus
 
-Back in **January 2020**, sitting at our adjacent desks in the upstairs **Command Center** at `3701 Canadian Arch`, **Rachel** and I had spent a quiet winter evening planning our upcoming **March 2020 Spring Break** trip to Maryland and Washington, D.C. We had booked a hotel in **North Linthicum, Maryland**—about a block from the **STA (`State Transit Administration`)** light rail station—and bought two round-trip **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`**, planning to take the free **BWI Airport Shuttle** over to the airport light rail stop, ride the **STA Light Rail** into Baltimore for a day, and take a **MAC (`Maryland Area Commuter`)** Penn Line train down to **Washington Union Station** for a day in D.C.
+Back in **January 2020**, sitting at our adjacent desks in the **Command Center** at our single-family home on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)—the custom fortress **Jessica** had built from the ground up for the five of us (**Michael, Rachel, Ashley, Kristin, and Jessica**)—**Rachel** and I had spent a quiet winter evening planning our upcoming **March 2020 Spring Break** trip to Maryland and Washington, D.C. We had booked a hotel in **North Linthicum, Maryland**—about a block from the **STA (`State Transit Administration`)** light rail station—and bought two round-trip **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`**, planning to take the free **BWI Airport Shuttle** over to the airport light rail stop, ride the **STA Light Rail** into Baltimore for a day, and take a **MAC (`Maryland Area Commuter`)** Penn Line train down to **Washington Union Station** for a day in D.C.
+
+Even though our single-family home on **Moosewood Drive** had a wide concrete driveway with plenty of room for another vehicle (unlike our old `2007–2009` two-car townhouse driveway on Canadian Arch), whenever **Jessica** was locked down inside the SCIF at NAVSTA Norfolk or at Quantum East in Town Center and **Kristin** and **Ashley** were at work during the day, Rachel and I had still been relying on **CVTA** buses whenever the two of us went out together on daytime errands.
 
 Then came the first week of **February 2020**—five straight days of standing at **CVTA** stops in sideways forty-degree coastal rain, waiting on delayed bus transfers with heavy bags of groceries cutting into our fingers.
 
-By that Friday night, after Rachel and I peeled off our rain-soaked jackets by the front door and sat down at the kitchen table with **Mom (`Ellen`)** and **Jessica** on speakerphone, both of us had reached the exact same conclusion at the exact same time:
+By that Friday night, after Rachel and I peeled off our rain-soaked jackets by the front door of our Moosewood Drive home and sat down at the kitchen table with **Jessica**, **Kristin**, **Ashley**, and **Mom (`Ellen`)**, both Rachel and I had reached the exact same conclusion at the exact same time:
 
-We were thirty-two and thirty years old, we both had clean Virginia driver's licenses, and **we were tired of riding the bus**.
+We were thirty-two and thirty years old, we both had clean Virginia driver's licenses, we had plenty of room in the Moosewood Drive driveway, and **we were tired of riding the bus**.
 
-"Then we solve the logistics," **Jessica Marie Ragsdale** said immediately over the speakerphone, shifting into pure executive problem-solving mode. "You two don't need a car loan or a monthly payment hanging over your heads. I have **`$30,000.00`** in liquid cash ready to transfer tonight so the two of you can buy a brand-new, reliable family sedan outright in cash—titled and insured in both of your names."
+"Then we solve the logistics," **Jessica Marie Ragsdale** said immediately from the head of the table, shifting into pure executive problem-solving mode while Kristin and Ashley nodded in full agreement. "You two don't need a car loan or a monthly payment hanging over your heads. I have **`$30,000.00`** in liquid cash ready to transfer so the two of you can buy a brand-new, reliable family sedan outright in cash—titled and insured in both of your names."
 
-"Wait," Rachel realized aloud, looking at my phone on the table. "How do we get a cashier's check from `QEFCU` if their branches are all back in Washington State?"
+"Wait," Rachel realized aloud, looking across the table. "How do we get a cashier's check from `QEFCU` if their branches are all back in Washington State?"
 
 ***
 
@@ -30081,11 +30083,11 @@ Before we even stood up from the desk, I read the new routing number and the Joi
 
 **Date:** 2020-02-09 at 14:00 America/New_York
 
-![In their upstairs Command Center on Sunday, February 9, 2020, Michael and Rachel sit side by side comparing specs for four midsize family sedans on their monitors while taking notes in a shared notebook]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_command_center_car_research.jpg)
+![In their Command Center on Moosewood Drive on Sunday, February 9, 2020, Michael and Rachel sit side by side comparing specs for four midsize family sedans on their monitors while taking notes in a shared notebook]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_command_center_car_research.jpg)
 
 #### 2:00 PM — Doing Our Homework Without a Playbook
 
-On **Sunday afternoon, February 9, 2020**, **Rachel** and I pulled our desk chairs together in our upstairs **Command Center** to do our research.
+On **Sunday afternoon, February 9, 2020**, while **Jessica**, **Kristin**, and **Ashley** relaxed in the main living area of our **Moosewood Drive** home and left the car choice completely in our hands, **Rachel** and I pulled our desk chairs together in our **Command Center** to do our research.
 
 Neither Rachel nor I had ever bought a car from a dealership before, so we approached it the same way we approached every logistics project: with our **`Director of Operations and Secretary`** system, a shared spiral notebook, and **`$30,000.00`** sitting in our joint **Anchor Federal Credit Union** savings account.
 
@@ -30366,8 +30368,8 @@ Walking up to the teller window together with our fingers laced together, Rachel
 When Mom drove us back to **Bayside Horizon** at `4:35 PM`, Rachel and I sat down at Denise's desk and called our auto insurance carrier on speakerphone before entering the business office.
 
 Reading the 2020 Horizon Avalon's seventeen-digit **VIN** off the Buyer's Order, we bound our comprehensive and collision policy effective immediately, listing:
-* **Named Insureds:** **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`** (`3701 Canadian Arch, Virginia Beach, VA`)
-* **Listed / Rated Drivers on the Vehicle:** Strictly **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`**—brother and sister as the **only two listed drivers** on the policy.
+* **Named Insureds:** **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`** (`Moosewood Drive, Virginia Beach, VA`)
+* **Listed / Rated Drivers on the Vehicle:** Strictly **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`**—brother and sister as the **only two listed drivers** on the policy (since Jessica, Kristin, and Ashley already had their own vehicles and coverage at our Moosewood Drive home).
 
 Within two minutes, the insurance binder and temporary Virginia insurance cards arrived in Denise's email inbox and on both of our phones.
 
@@ -30401,9 +30403,11 @@ She handed **one key fob to Rachel**, and **one key fob to me**.
 
 Right there beside the hood of our brand-new royal blue car, Rachel threw both arms around my neck and I wrapped both arms around her waist in a long, tight, full-strength **Bear and Bug** hug while Mom snapped a photo of the two of us on her phone.
 
-For the drive home to `3701 Canadian Arch`, Mom led the way in her car while I drove the first half and Rachel rode shotgun—and halfway home, just for the sheer joy of it, we pulled into a shopping center lot and swapped seats so Rachel could drive our new Avalon the rest of the way into our neighborhood and back it into our parking space.
+For the drive home to **Moosewood Drive**, Mom led the way in her car while I drove the first half and Rachel rode shotgun—and halfway home, just for the sheer joy of it, we pulled into a shopping center lot and swapped seats so Rachel could drive our new Avalon the rest of the way into the Silverleaf neighborhood, turn onto **Moosewood Drive**, and back it smoothly into our wide single-family driveway alongside the rest of our household fleet as **Jessica**, **Kristin**, and **Ashley** came out the front door to cheer and admire our new royal blue sedan.
 
-Upstairs on our desks in the Command Center, our two **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`** were still waiting for our upcoming **March 2020 Spring Break** trip to North Linthicum, Baltimore, and Washington, D.C.—because we had already paid for those train tickets back in January before we knew we were buying a car, and we had every intention of taking our Spring Break train trip next month.
+*(Back when the five of us had been squeezed into the two-car townhouse driveway at [3701 Canadian Arch in 2009](https://books.raggiesoft.com/rachel/the-director-s-perimeter/the-moosewood-anomaly/part-1-the-twenty-third-milestone-the-moosewood-anomaly), we wouldn't even have had a legal parking space for a third car—which made seeing our own royal blue Avalon gleaming in the Moosewood Drive driveway feel all the sweeter).*
+
+Inside on our desks in the **Command Center**, our two **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`** were still waiting for our upcoming **March 2020 Spring Break** trip to North Linthicum, Baltimore, and Washington, D.C.—because we had already paid for those train tickets back in January before we knew we were buying a car, and we had every intention of taking our Spring Break train trip next month.
 
 As Rachel and I hung our matching **Horizon Avalon** key fobs side by side on the key hook by the front door on the evening of **Saturday, February 15, 2020**, and pulled each other into one more tight hug in the hallway, all I knew was that after years of riding `CVTA` buses through summer heatwaves and freezing winter rain, my days as a daily bus rider were officially over—and in just a few weeks, we would be boarding the train for Spring Break.
 
@@ -30489,19 +30493,19 @@ I gripped the passenger door handle with one hand and pressed my other hand agai
 
 **Date:** 2024-03-13 at 18:25 America/New_York
 
-![Inside the living room of their townhouse, Michael in his royal blue Fairlawn Rec Center polo shirt cries in Rachel's arms on the sofa as she holds him tightly against her shoulder, promising she is his sister and agreeing to keep the secret strictly between the two of them]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/march_2024_crying_in_rachels_arms_secret_pact.jpg)
+![Inside the living room of their Moosewood Drive home, Michael in his royal blue Fairlawn Rec Center polo shirt cries in Rachel's arms on the sofa as she holds him tightly against her shoulder, promising she is his sister and agreeing to keep the secret strictly between the two of them]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/march_2024_crying_in_rachels_arms_secret_pact.jpg)
 
 #### 6:25 PM — "I'm Your Sister, and I'm Right Here"
 
-For the entire drive back from Marlborough Drive to our townhouse, **Rachel** never let go of my hand across the center console.
+For the entire drive back from Marlborough Drive to our single-family home on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture), **Rachel** never let go of my hand across the center console.
 
-She didn't pepper me with questions while my nervous system was redlining, and she didn't turn on the car radio—knowing without asking that my internal **audio hyperphantasia** was already overloading my head. She simply drove us smoothly through the March evening traffic, parked in front of our townhouse at **`6:22 PM`**, and walked right beside me up the front steps with her arm braced around my waist.
+She didn't pepper me with questions while my nervous system was redlining, and she didn't turn on the car radio—knowing without asking that my internal **audio hyperphantasia** was already overloading my head. She simply drove us smoothly up Princess Anne Road and through the Silverleaf neighborhood, parked our Avalon in the driveway on **Moosewood Drive** at **`6:22 PM`**—twenty-five minutes before **Jessica**, **Kristin**, and **Ashley** were due back home for the evening—and walked right beside me through the front door with her arm braced around my waist.
 
-The second the front door clicked shut behind us and the deadbolt slid home inside the quiet sanctuary of the townhouse, the five-minute Front Desk mask I had been white-knuckling since `5:55 PM` shattered into pieces.
+The second the front door clicked shut behind us and the deadbolt slid home inside the quiet sanctuary of the house, the five-minute Front Desk mask I had been white-knuckling since `5:55 PM` shattered into pieces.
 
-We didn't even make it upstairs.
+We didn't even make it to the Command Center.
 
-Rachel guided me straight over to the living room sofa—the exact same living room spot where, fifteen years earlier at [**`3:13 PM` on Friday, May 8, 2009**](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go), she had walked through the front door in her red *Spot* t-shirt to find me sobbing after Heather pushed me away on the **CVTA Route 25** bus at Susquehanna Drive.
+Rachel guided me straight over to the living room sofa—pulling me down onto the cushions just like she had done fifteen years earlier back at our old Canadian Arch townhouse at [**`3:13 PM` on Friday, May 8, 2009**](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go), when she had walked through the front door in her red *Spot* t-shirt to find me sobbing after Heather pushed me away on the **CVTA Route 25** bus at Susquehanna Drive.
 
 As soon as we sat down on the cushions, I reached for my Bug, buried my face against her shoulder—still wearing my royal blue Fairlawn Rec Center polo shirt with my **`MICHAEL`** nametag pinned to my chest—and **broke down crying in Rachel's arms**.
 
@@ -30531,18 +30535,18 @@ I looked straight into Rachel's warm dark brown eyes, my hands still gripping he
 
 "Anything, Bear," Rachel said softly, brushing a damp strand of hair back from my forehead. "Name it."
 
-"Please keep this strictly between the two of us," I begged her, my fingers tightening slightly on her sleeves. "Nobody else can ever know that Heather showed up at the Rec Center tonight, or how badly the memory of her still hurts me. Not **Kristin**, and not **Jessica**. Only you."
+"Please keep this strictly between the two of us," I begged her, my fingers tightening slightly on her sleeves before the rest of our household got home for dinner. "Nobody else in this house can ever know that Heather showed up at the Rec Center tonight, or how badly the memory of her still hurts me. Not **Kristin**, not **Jessica**, and not **Ashley**. Only you."
 
 Rachel looked into my eyes and understood the entire architecture of my heart without needing me to draw a diagram:
 * I don't trust **anyone** else with that memory.
-* I could never tell **Kristin**—or let her see me crying over a girl from 2008—because I love my life with Kristin with every ounce of my soul, and I would never, ever want Kristin to feel even a microsecond of doubt or hurt that a scarred corner of my nervous system still grieves the best friend who vanished on a bus fifteen years ago. (When we're in the car and a heavy 2008-era synth-rock track comes over the radio, Kristin—acting as my quiet Co-Administrator—doesn't even press `MUTE`, because muting the sound leaves the song title glowing on the screen; she simply changes the station to another channel, and we never speak Heather's name).
-* And I could never tell **Jessica**, because if Jessica found out that someone from my past had walked into my workplace and left me sobbing on the living room sofa, Jessica's protective executive instincts would treat Heather like [**Delores**](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) or [**Master Curtis**](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check) and go on the warpath to destroy her. And Heather was *never* an abuser like Delores. She was just an overwhelmed nineteen-year-old Nuclear Medicine student who had given me a two-year sanctuary when I was broken, and then pulled the emergency cord the only way she knew how when her own bandwidth ran out.
+* I could never tell **Kristin**—or let her see me crying over a girl from 2008—because I love our life together on Moosewood Drive with every ounce of my soul, and I would never, ever want Kristin to feel even a microsecond of doubt or hurt that a scarred corner of my nervous system still grieves the best friend who vanished on a bus fifteen years ago. (When we're in the car and a heavy 2008-era synth-rock track comes over the radio, Kristin—acting as my quiet Co-Administrator—doesn't even press `MUTE`, because muting the sound leaves the song title glowing on the screen; she simply changes the station to another channel, and we never speak Heather's name).
+* And I could never tell **Jessica**, because if Jessica found out that someone from my past had walked into my workplace and left me sobbing on the living room sofa of the Moosewood Drive sanctuary she built for us, Jessica's protective executive instincts would treat Heather like [**Delores**](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) or [**Master Curtis**](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check) and go on the warpath to destroy her. And Heather was *never* an abuser like Delores. She was just an overwhelmed nineteen-year-old Nuclear Medicine student who had given me a two-year sanctuary when I was broken, and then pulled the emergency cord the only way she knew how when her own bandwidth ran out.
 
-Only **Rachel**—my twin-in-spirit, my Bug, who had held me on this exact sofa on May 8, 2009—knew how both truths could live inside my chest at the exact same time.
+Only **Rachel**—my twin-in-spirit, my Bug, who had held me on the sofa on May 8, 2009 and had walked beside me every day since—knew how both truths could live inside my chest at the exact same time.
 
 Rachel placed both hands on either side of my face, looked me dead in the eyes, and gave me her absolute, unbreakable word:
 
-"This stays locked between you and me forever, Bear," Rachel promised softly. "Not a word to Kristin, not a word to Jessica, not a word to a single soul. Whenever that wave hits you, you bring it straight to me, and I will hold it with you. It's just us."
+"This stays locked between you and me forever, Bear," Rachel promised softly. "Not a word to Kristin, not a word to Jessica, not a word to Ashley, not a word to a single soul. Whenever that wave hits you, you bring it straight to me, and I will hold it with you. It's just us."
 
 She pulled me back against her shoulder for one more long, quiet squeeze on the living room sofa—officially sealing the vault that only the two of us would ever hold.
 
@@ -30624,7 +30628,7 @@ I paused, meeting Anthony's eyes with dead-serious clarity so he understood the 
 
 Anthony nodded slowly, understanding the distinction immediately. "Understood, Michael. My office door is always open if you ever need five minutes off the desk."
 
-When I got home that Friday night, true to our March 13 pact, I didn't say a word about the `5:31 PM` double-take in front of anyone else. Only when **Rachel** and I stepped into our quiet upstairs Command Center—just the two of us, Bear and Bug—did I let my shoulders drop into her arms while I whispered to her that Heather had walked in again, that we had both recognized each other across the scanner, and that Anthony had commended me for holding my ground on the security tape.
+When I got home to **Moosewood Drive** that Friday night, true to our March 13 pact, I didn't say a word about the `5:31 PM` double-take in front of Kristin, Jessica, or Ashley. Only when **Rachel** and I stepped into our quiet **Command Center**—just the two of us, Bear and Bug—did I let my shoulders drop into her arms while I whispered to her that Heather had walked in again, that we had both recognized each other across the scanner, and that Anthony had commended me for holding my ground on the security tape.
 
 Eighteen months later—on **Friday, October 17, 2025, at `1:24 PM`**, during my `11:45 AM – 8:15 PM` shift—Heather scanned into Fairlawn Recreation Center one more time before returning to Charlottesville. That afternoon, I happened to be stationed at the **Far-Left Corner Register** ringing up a patron's transaction—completely shielded by the spatial firewall at the far end of the counter—and didn't even see her face as she slipped behind the wall into the Weight Room.
 
@@ -30713,7 +30717,7 @@ Turning the front counter over to my closing desk attendant to watch the exit do
 
 Inside that quiet, enclosed bunker out of public sightlines, I sat down at the supervisor desk, unlocked the cash drawers, counted down the whole-dollar paper currency tills, and compiled the nightly financial and attendance closing report. Somewhere during that fifteen-minute window between `8:45 PM` and `9:00 PM` while I was safely shielded inside the Back Office, Hailey walked out the front doors and drove back up the road to Susquehanna Drive without my eyes ever having to cross hers again.
 
-By the time I locked up the front desk and clocked out at **`9:15 PM`**, I had survived the ambush—but as I rode home through the warm August dark toward **Rachel**, I knew one thing for certain.
+By the time I locked up the front desk and clocked out at **`9:15 PM`**, I had survived the ambush—but as I drove our Avalon home through the warm August dark toward **Moosewood Drive** and **Rachel**, I knew one thing for certain.
 
 With **Hailey** holding an **Adult Resident Annual Membership** five minutes away on Susquehanna Drive—and **Heather** still holding her grandfathered **Month-to-Month Membership** whenever she visited from Charlottesville—I could no longer rely on luck.
 
@@ -30723,11 +30727,11 @@ I needed an ironclad operational firewall.
 
 **Date:** 2026-08-15 at 21:30 America/New_York
 
-![In the upstairs Command Center at night, Michael and Rachel sit side by side in their adjacent desk chairs with Rachel's hand resting warmly on Michael's forearm as they engineer the three-layer Code Susquehanna Firewall together]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/aug_2026_command_center_code_susquehanna_firewall.jpg)
+![In the Command Center at their Moosewood Drive home at night, Michael and Rachel sit side by side in their adjacent desk chairs with Rachel's hand resting warmly on Michael's forearm as they engineer the three-layer Code Susquehanna Firewall together]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/aug_2026_command_center_code_susquehanna_firewall.jpg)
 
 #### 9:30 PM — The Secret Debrief with Rachel & The 88 MPH Paradox
 
-Four nights after Hailey's `7:29 PM` scan—on **Saturday night, August 15, 2026, at `9:30 PM`**—**Rachel** and I were sitting side by side in our quiet upstairs **Command Center**, our chairs pulled close together so her shoulder pressed warmly against mine while the rest of the house was settled for the night.
+Four nights after Hailey's `7:29 PM` scan—on **Saturday night, August 15, 2026, at `9:30 PM`**—**Rachel** and I were sitting side by side in our quiet **Command Center** at our **Moosewood Drive** home, our chairs pulled close together so her shoulder pressed warmly against mine while **Kristin**, **Jessica**, and **Ashley** were settled in the rest of the house for the night.
 
 Because **Rachel is the only person in the world I trust with the memory of Heather**, our Command Center is the only room on earth where I don't have to pretend that the `2007–2009` chapters of my life are just harmless ancient history.
 
@@ -30739,7 +30743,7 @@ I leaned my head back against Rachel's shoulder and let out a long, honest breat
 
 Rachel didn't flinch or judge me. She just squeezed my arm gently, listening.
 
-"And right behind that," I continued quietly, "is the part that makes me feel crazy if I don't say it out loud to you: **I love my life right now.** If somebody pulled up in the driveway tonight in a stainless-steel time machine set to **May 2007** and told me I could hit **`88 MPH`**, go back to CCHR before Fall Semester 2007 ever started, and rewrite the way things ended with Heather on May 8, 2009—I wouldn't even touch the door handle. Because if you go back to 2007 and run over even a single pine tree in the past, you risk altering the timeline from May 2009 onward. And there is zero universe where I would ever risk changing a single variable that [brought **Ashley** home to us on May 11, 2009](https://books.raggiesoft.com/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction), or [brought **Kristin** and **Jessica** across the country to `3701 Canadian Arch`](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), or built the life we have today."
+"And right behind that," I continued quietly, "is the part that makes me feel crazy if I don't say it out loud to you: **I love my life right now.** If somebody pulled up in the Moosewood Drive driveway tonight in a stainless-steel time machine set to **May 2007** and told me I could hit **`88 MPH`**, go back to CCHR before Fall Semester 2007 ever started, and rewrite the way things ended with Heather on May 8, 2009—I wouldn't even touch the door handle. Because if you go back to 2007 and run over even a single pine tree in the past, you risk altering the timeline from May 2009 onward. And there is zero universe where I would ever risk changing a single variable that [brought **Ashley** home to us on May 11, 2009](https://books.raggiesoft.com/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction), or [brought **Kristin** and **Jessica** across the country to `3701 Canadian Arch`](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), or [built this home for the five of us on **Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)."
 
 "You don't want 2008 back instead of today, Bear," Rachel said, putting the exact right words to the math in my head the way my Co-Processor always has. "You just hate that a memory that *used* to feel like sunshine now feels like a system crash whenever her face walks through the door. And you don't want to hear the 2009 crash logs."
 
@@ -30789,7 +30793,7 @@ Twelve days after that came **Thursday, September 3, 2026**.
 
 In the internal calendar of my life, **September 3** is a double-loaded date: it was the legacy date in `2004` when [I first met Delores in the ticket line at the Roper Theater](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line), and it is **Heather and Hailey Bouchard's shared birthday**—born **September 3, 1988**, turning nineteen the week after Heather and I met at CCHR in 2007, and turning **thirty-eight** on September 3, 2026.
 
-For the first time in seventeen years, **September 3** arrived and passed with my internal status board sitting at **100% Status Green**. Neither twin scanned into the building that Thursday, the date had zero sting in my chest, and when Rachel wrapped me up in a tight hug in the upstairs hallway that night, I genuinely thought the firewall had retired the ghost for good.
+For the first time in seventeen years, **September 3** arrived and passed with my internal status board sitting at **100% Status Green**. Neither twin scanned into the building that Thursday, the date had zero sting in my chest, and when Rachel wrapped me up in a tight hug in the hallway outside our Command Center that night, I genuinely thought the firewall had retired the ghost for good.
 
 Exactly twenty-nine days later came **Friday, October 2, 2026**.
 
@@ -30909,17 +30913,17 @@ She knew who worked the Front Desk at Fairlawn Recreation Center. She knew what 
 
 **Date:** 2026-10-02 at 21:00 America/New_York
 
-![At 9:00 PM in the upstairs Command Center, Rachel stands between their adjacent computer desks and pulls Michael—still in his royal blue work polo shirt—into a deep, grounding Bear and Bug hug as he rests his forehead against her shoulder]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/oct_2026_900pm_rachel_only_vault_hug.jpg)
+![At 9:00 PM in the Command Center on Moosewood Drive, Rachel stands between their adjacent computer desks and pulls Michael—still in his royal blue work polo shirt—into a deep, grounding Bear and Bug hug as he rests his forehead against her shoulder]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/oct_2026_900pm_rachel_only_vault_hug.jpg)
 
 #### 9:00 PM — Coming Home to the Vault
 
 By **`8:15 PM`**, Tyler and I locked the front doors of the **Fairlawn Recreation Center**, set the building perimeter alarms, and walked out into the crisp October evening air.
 
-When I walked through our front door at home a little before **`9:00 PM`**—still wearing my royal blue work polo shirt—the house was warm and bright. Outwardly, to anyone else in our home, I looked like I had just finished any ordinary Friday closing shift at the recreation center.
+When I pulled into our driveway on **Moosewood Drive** and walked through our front door a little before **`9:00 PM`**—still wearing my royal blue work polo shirt—the house was warm and bright, with **Kristin**, **Jessica**, and **Ashley** relaxing in the main living area. Outwardly, to everyone else in our home, I looked like I had just finished any ordinary Friday closing shift at the recreation center.
 
 And just like always, I didn't breathe a single word of it to anyone else.
 
-Ten minutes later, when I stepped into the quiet upstairs **Command Center** to set my work keys and water bottle down on my desk, **Rachel** walked in right behind me and softly closed the door half-way.
+Ten minutes later, when I stepped into our quiet **Command Center** to set my work keys and water bottle down on my desk, **Rachel** walked in right behind me and softly closed the door half-way.
 
 She didn't even need me to open my mouth. After thirty-plus years of operating as two halves of the same nervous system, my Bug took one half-second look at the quiet fatigue around my eyes and knew the exact shape of the wave.
 
