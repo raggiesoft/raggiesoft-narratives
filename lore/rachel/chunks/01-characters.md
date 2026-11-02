@@ -12,7 +12,7 @@
 
   - Requires specific sensory decompression to avoid overload, strictly relying on a heavy Case Logic CD binder and a portable Discman.
 
-  - **Trivia:** His first ever "bad word" was belting out Elton John's "The Bitch is Back" in Dad's truck. Because Dad chose the radio station, Michael viewed it as a sanctioned, unpunishable loophole to swear.
+  - **Trivia:** His first ever "bad word" was belting out Arthur Sterling's "The Bitch is on the Loose" on **Rock 107 The Wolf** in Dad's 1989 Izumi Bantam pickup truck (`books/rachel/e001/c003/p002.md`). Because Dad chose the radio station, eight-year-old Michael and six-year-old Rachel viewed it as a sanctioned, unpunishable loophole to swear—which resulted in Ellen sentencing Tom to keep his truck radio locked to **`89.5 FM WCVP` (*Coastal Virginia Public Radio*)**, the NPR and classical station Grandma Loretta listens to daily, whenever the kids are in the vehicle.
 
 ## Rachel Ragsdale
 
@@ -28,7 +28,7 @@
 
   - Has zero concept of neurotypical privacy boundaries when she feels unsafe; proximity to Michael overrides all other social norms.
 
-  - **Trivia:** Exactly like her older brother, her first "bad word" was singing "The Bitch is Back" when the song came on the radio in Dad's truck.
+  - **Trivia:** Exactly like her older brother, her first "bad word" was non-verbally belting out the melody of Arthur Sterling's "The Bitch is on the Loose" when the song came on **Rock 107 The Wolf** in Dad's truck, wedged side-by-side against Michael on the narrow bench seat with his arm wrapped tightly around her shoulders.
 
 ## Jessica (Jess) Ragsdale
 
