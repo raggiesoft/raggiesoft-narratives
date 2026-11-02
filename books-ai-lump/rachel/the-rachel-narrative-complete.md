@@ -532,6 +532,37 @@ Dad blinked, pure horror washing over his face. "Ellen... that's public radio."
 
 From the bottom step of the open-slatted stairs, Jessica caught my eye and had to bite her lip to keep from laughing out loud. Rachel squeezed my hand, completely unbothered by the courtroom drama, and together we headed upstairs toward the quiet sanctuary of the lower bunk—leaving Dad in the foyer to mourn the loss of his classic rock station.
 
+## Summer Camp at Virginia Dominion University
+
+### The Brick Walkways of Summer Camp: Mapping VDU with Rachel and Jessica
+
+**Date:** 1994-07-12 at 08:45 America/New_York
+
+![On a sunny July 1994 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, nine-year-old Michael and seven-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while fourteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
+
+#### 8:45 AM — Three Ragsdales on the Brick Mall
+
+Long before **Rachel** and I ever set foot on the campus of **Virginia Dominion University (`VDU`)** as college students, its sprawling red-brick walkways in Norfolk were already burned into our permanent spatial memory.
+
+In the summers when we were kids—beginning in the bright, humid mornings of **July 1994**, five years before [the November 1999 portico accident when nineteen-year-old Jessica fell while hanging Christmas lights](https://books.raggiesoft.com/rachel/high-school/the-daytime-warden-sunday-november-28-1999/the-daytime-warden-the-logic-blueprint)—**Jessica**, **Rachel**, and I all went to **Youth Summer Camp at Virginia Dominion University**.
+
+Every weekday morning at `8:45 AM`, after Mom dropped the three of us off at the passenger loading loop off Hampton Boulevard, fourteen-year-old **Jessica** took point like a seasoned field commander while seven-year-old **Rachel** and I (at nine) fell into formation right beside her. Even in a crowd of two hundred noisy Hampton Roads camp kids wearing matching royal-blue **`VDU SUMMER CAMP`** t-shirts and canvas backpacks, **Rachel and I held hands with our fingers laced tightly together** from the curb all the way across the quad.
+
+![Nine-year-old Michael, seven-year-old Rachel, and fourteen-year-old Jessica walking together across the red-brick campus quad at Virginia Dominion University Youth Summer Camp in July 1994]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
+
+"Okay, guys, check the camp schedule," Jessica said, holding up our laminated camp map as the morning sun glinted off the broad red-brick pedestrian mall. "Morning computer and science lab is across the main mall in the academic quad, lunch at noon is inside the Student Center dining commons, and afternoon swimming and indoor games are over at the Student Recreation Center."
+
+For my system-oriented brain—and for Rachel's quiet, observant processor right beside me—walking a university campus every single day for weeks of summer camp across our childhood summers was like downloading a high-resolution CAD blueprint straight into long-term memory.
+
+While other kids just followed the camp counselors' flags without paying attention to where they were going, Jessica, Rachel, and I mapped every single landmark on the VDU grid:
+* We learned the exact diagonal brick shortcuts between the **Student Center**, the **University Library**, and the **Academic Quad**.
+* We memorized where the shaded benches sat under the live oaks when the July coastal humidity spiked past ninety degrees and my calves needed a five-minute rest.
+* And at noon every day, regardless of whether the camp split the older teenagers into one activity group and the younger elementary kids into another, fourteen-year-old Jessica marched straight across the Student Center dining commons to sit at our table so the three of us ate lunch together as an unbreakable unit.
+
+"When we grow up and go to college," Rachel whispered to me one afternoon as the three of us walked back past the brick fountains toward the camp pick-up loop, her small seven-year-old fingers still laced through mine, "we already know where all the buildings are, Bear."
+
+"Every single one of them, Bug," I smiled back, never imagining how many miles—and how many years—the three of us would have to cross before Rachel and I finally walked these brick paths together again.
+
 # The Saltwater Summer
 
 ## The Sanctuary – Friday, August 11th, 1995
@@ -9038,37 +9069,6 @@ I let out a long, silent breath, my tense shoulders finally dropping back into t
 
 I stared up at the ceiling, overwhelmingly grateful for my sisters. I didn't have to navigate the exhausting, confusing math of teenage dating alone. The Base Camp would forever remain a sanctuary for blood and Ashley alone, and the perimeter holding it together had never felt stronger.
 
-## Summer Camp at Virginia Dominion University
-
-### The Brick Walkways of Summer Camp: Mapping VDU with Rachel and Jessica
-
-**Date:** 1999-07-12 at 08:45 America/New_York
-
-![On a sunny July 1999 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, eleven-year-old Michael and nine-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while thirteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/jul_1999_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
-
-#### 8:45 AM — Three Ragsdales on the Brick Mall
-
-Long before **Rachel** and I ever set foot on the campus of **Virginia Dominion University (`VDU`)** as college students, its sprawling red-brick walkways in Norfolk were already burned into our permanent spatial memory.
-
-In the summers when we were kids—including the bright, humid mornings of **July 1999**, four months before [the November portico accident that would forever change our oldest sister's life](https://books.raggiesoft.com/rachel/high-school/the-daytime-warden-sunday-november-28-1999/the-daytime-warden-the-logic-blueprint)—**Jessica**, **Rachel**, and I all went to **Youth Summer Camp at Virginia Dominion University**.
-
-Every weekday morning at `8:45 AM`, after Mom dropped the three of us off at the passenger loading loop off Hampton Boulevard, my thirteen-year-old sister **Jessica** took point like a seasoned field commander while nine-year-old **Rachel** and I (at eleven) fell into formation right beside her. Even in a crowd of two hundred noisy Hampton Roads camp kids wearing matching royal-blue **`VDU SUMMER CAMP`** t-shirts and canvas backpacks, **Rachel and I held hands with our fingers laced tightly together** from the curb all the way across the quad.
-
-![Eleven-year-old Michael, nine-year-old Rachel, and thirteen-year-old Jessica walking together across the red-brick campus quad at Virginia Dominion University Youth Summer Camp in July 1999]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/jul_1999_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
-
-"Okay, guys, check the camp schedule," Jessica said, holding up our laminated camp map as the morning sun glinted off the broad red-brick pedestrian mall. "Morning computer and science lab is across the main mall in the academic quad, lunch at noon is inside the Student Center dining commons, and afternoon swimming and indoor games are over at the Student Recreation Center."
-
-For my system-oriented brain—and for Rachel's quiet, observant processor right beside me—walking a university campus every single day for weeks of summer camp was like downloading a high-resolution CAD blueprint straight into long-term memory.
-
-While other kids just followed the camp counselors' flags without paying attention to where they were going, Jessica, Rachel, and I mapped every single landmark on the VDU grid:
-* We learned the exact diagonal brick shortcuts between the **Student Center**, the **University Library**, and the **Academic Quad**.
-* We memorized where the shaded benches sat under the live oaks when the July coastal humidity spiked past ninety degrees and my calves needed a five-minute rest.
-* And at noon every day, regardless of whether the camp split twelve- and thirteen-year-olds into one activity group and nine- to eleven-year-olds into another, Jessica marched straight across the Student Center dining commons to sit at our table so the three of us ate lunch together as an unbreakable unit.
-
-"When we grow up and go to college," Rachel whispered to me one afternoon as the three of us walked back past the brick fountains toward the camp pick-up loop, her small fingers still laced through mine, "we already know where all the buildings are, Bear."
-
-"Every single one of them, Bug," I smiled back, never imagining how many miles—and how many years—the three of us would have to cross before Rachel and I finally walked these brick paths together again.
-
 # High School
 
 ## Marching Band
@@ -16935,6 +16935,46 @@ It was just Mom, me, Rachel, and Jessica. The perimeter was perfectly secured, t
 
 # Michael’s Senior Year
 
+## The High School Field Trip to VDU
+
+### Walking the Old Camp Paths Alone & The Promise to Reunite First
+
+**Date:** 2002-10-18 at 10:15 America/New_York
+
+![On a crisp October 2002 morning at Virginia Dominion University in Norfolk during a high school senior field trip, seventeen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/oct_2002_vdu_high_school_field_trip_tour_michael.jpg)
+
+#### 10:15 AM — The Map I Already Knew by Heart
+
+On a crisp Friday morning in **October 2002**, two months into my `2002–2003` senior year of high school, two yellow school buses rolled up Hampton Boulevard and let our senior class out at the visitor plaza of **Virginia Dominion University (`VDU`)** in Norfolk for our college admissions field trip and campus tour.
+
+When the VDU Admissions ambassadors handed out glossy blue-and-silver campus maps to everyone in our group, I folded mine in half and slipped it straight into my jacket pocket without even looking at it.
+
+I didn't need a map of **Virginia Dominion University**.
+
+As our student tour guide began walking backward down the wide red-brick pedestrian mall—pointing out the **Student Center**, the **University Library**, the lecture halls, and the **Student Recreation Center**—every single brick underfoot triggered a flood of childhood memory from [the summers when **Jessica**, **Rachel**, and I had gone to **Youth Summer Camp** here at VDU](https://books.raggiesoft.com/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica).
+
+![Seventeen-year-old Michael on a senior high school field trip tour at Virginia Dominion University in October 2002, looking across the brick plaza he remembered from childhood summer camps with Rachel and Jessica]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/oct_2002_vdu_high_school_field_trip_tour_michael.jpg)
+
+I remembered the exact oak tree benches where nine-year-old me and seven-year-old Rachel had sat side by side holding hands while fourteen-year-old Jessica read off our morning camp schedule. I remembered the diagonal brick shortcut past the library fountain, and the exact doors of the Student Center dining commons where Jessica had joined us every day at noon so the three of us could eat lunch together.
+
+Back then, in July 1994, all three of us had been together on the same coast, under the same roof, walking on our own two feet.
+
+Now, in October 2002, [the divorce had split our world across an entire continent](https://books.raggiesoft.com/rachel/the-divorce/judgment-day/the-gavel-and-the-split): twenty-one-year-old **Jessica** and fifteen-year-old **Rachel** were three thousand miles away in **Washington State**, while I was seventeen and finishing out my senior year of high school here in Hampton Roads.
+
+Around me on the brick plaza, my high school classmates were chatting excitedly with the tour guide about SAT scores, freshman dormitory applications for Fall 2003, and which meal plans they wanted to pick right after graduation.
+
+Walking quietly at the back edge of the tour group with my hands tucked into the pockets of my flannel shirt, my right hand felt phantom-empty without my little sister's fingers laced through mine.
+
+"Hey, Michael, are you putting in an application for next fall?" one of the guidance counselors asked, falling into step beside me as our group turned toward the library quad. "You already seem to know your way around the whole campus."
+
+"I went to summer camp here with my sisters when we were kids," I said politely, looking across the brick courtyard. "It's a great school."
+
+I didn't tell the guidance counselor what my internal processor had already locked in as an unbreakable directive.
+
+Even at seventeen, walking through the October sunlight of Norfolk while my sisters were on the other side of the country, I knew in my bones that I wasn't going straight to a four-year university next fall—and I certainly wasn't moving onto a college campus by myself. Before I ever enrolled at a university for real, **I was going to try to reunite with my family first**.
+
+And if the day ever came when I walked back onto the brick mall of **Virginia Dominion University** to earn my bachelor's degree, I was only going to do it with **Rachel** walking right beside me.
+
 ## The Empty Shell
 
 ### Part 1: The Last Morning & The Baldwin Briefing
@@ -18100,46 +18140,6 @@ Ashley smiled, listening to Mom's response, and then snapped the phone shut.
 "Nine o'clock," Ashley confirmed. "With a stop for breakfast sandwiches."
 
 I closed my eyes, listening to the quiet morning sounds of the neighborhood and the dogs barking in the field. We had a place to live, we had breakfast on the way, and we were finally going to bring the Delaney Street sofa home.
-
-## The High School Field Trip to VDU
-
-### Walking the Old Camp Paths Alone & The Promise to Reunite First
-
-**Date:** 2003-10-17 at 10:15 America/New_York
-
-![On a crisp October 2003 morning at Virginia Dominion University in Norfolk during a high school senior field trip, eighteen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/oct_2003_vdu_high_school_field_trip_tour_michael.jpg)
-
-#### 10:15 AM — The Map I Already Knew by Heart
-
-On a crisp Friday morning in **October 2003**, two months into my senior year of high school, two yellow school buses rolled up Hampton Boulevard and let our senior class out at the visitor plaza of **Virginia Dominion University (`VDU`)** in Norfolk for our college admissions field trip and campus tour.
-
-When the VDU Admissions ambassadors handed out glossy blue-and-silver campus maps to everyone in our group, I folded mine in half and slipped it straight into my jacket pocket without even looking at it.
-
-I didn't need a map of **Virginia Dominion University**.
-
-As our student tour guide began walking backward down the wide red-brick pedestrian mall—pointing out the **Student Center**, the **University Library**, the lecture halls, and the **Student Recreation Center**—every single brick underfoot triggered a flood of childhood memory from [the summers when **Jessica**, **Rachel**, and I had gone to **Youth Summer Camp** here at VDU](https://books.raggiesoft.com/rachel/middle-school/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica).
-
-![Eighteen-year-old Michael on a senior high school field trip tour at Virginia Dominion University in October 2003, looking across the brick plaza he remembered from childhood summer camps with Rachel and Jessica]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/oct_2003_vdu_high_school_field_trip_tour_michael.jpg)
-
-I remembered the exact oak tree benches where eleven-year-old me and nine-year-old Rachel had sat side by side holding hands while thirteen-year-old Jessica read off our morning camp schedule. I remembered the diagonal brick shortcut past the library fountain, and the exact doors of the Student Center dining commons where Jessica had joined us every day at noon so the three of us could eat lunch together.
-
-Back then, in July 1999, all three of us had been together on the same coast, under the same roof, walking on our own two feet.
-
-Now, in October 2003, [the divorce had split our world across an entire continent](https://books.raggiesoft.com/rachel/the-divorce/judgment-day/the-gavel-and-the-split): **Jessica** and **Rachel** were three thousand miles away in **Washington State**, while I was finishing out my senior year of high school here in Hampton Roads.
-
-Around me on the brick plaza, my high school classmates were chatting excitedly with the tour guide about SAT scores, freshman dormitory applications for Fall 2004, and which meal plans they wanted to pick right after graduation.
-
-Walking quietly at the back edge of the tour group with my hands tucked into the pockets of my flannel shirt, my right hand felt phantom-empty without my little sister's fingers laced through mine.
-
-"Hey, Michael, are you putting in an application for next fall?" one of the guidance counselors asked, falling into step beside me as our group turned toward the library quad. "You already seem to know your way around the whole campus."
-
-"I went to summer camp here with my sisters when we were kids," I said politely, looking across the brick courtyard. "It's a great school."
-
-I didn't tell the guidance counselor what my internal processor had already locked in as an unbreakable directive.
-
-Even at eighteen, walking through the October sunlight of Norfolk while my sisters were on the other side of the country, I knew in my bones that I wasn't going straight to a four-year university next fall—and I certainly wasn't moving onto a college campus by myself. Before I ever enrolled at a university for real, **I was going to try to reunite with my family first**.
-
-And if the day ever came when I walked back onto the brick mall of **Virginia Dominion University** to earn my bachelor's degree, I was only going to do it with **Rachel** walking right beside me.
 
 # Delores
 
@@ -29903,13 +29903,13 @@ Ahead of officially deciding to commit to VDU for the upcoming Fall 2015 semeste
 
 Our main reason for taking the tour wasn't to hear the admissions sales pitch—it was to see if we could still remember where everything was on campus.
 
-As kids back in the 1990s, [**Jessica**, **Rachel**, and I had all gone to **Youth Summer Camp at VDU**](https://books.raggiesoft.com/rachel/middle-school/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica), spending weeks walking these exact Norfolk quads together. Later, [when I was in high school and Rachel and Jessica were out in Washington State](https://books.raggiesoft.com/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-alone-the-promise-to-reunite-first), I had walked these same walkways on high school field trips to VDU, promising myself that I would reunite with my family before I ever came back here for college.
+As kids back in the 1990s, [**Jessica**, **Rachel**, and I had all gone to **Youth Summer Camp at VDU**](https://books.raggiesoft.com/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica), spending weeks walking these exact Norfolk quads together. Later, [when I was in high school and Rachel and Jessica were out in Washington State](https://books.raggiesoft.com/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-alone-the-promise-to-reunite-first), I had walked these same walkways on high school field trips to VDU, promising myself that I would reunite with my family before I ever came back here for college.
 
 Sure enough, the moment Rachel and I stepped out onto the wide red-brick pedestrian mall on that sunny May afternoon—holding hands with our fingers laced tightly together at the back of the tour group—**we remembered everything from our childhood**.
 
 "There's the diagonal shortcut to the library fountain," Rachel whispered, grinning behind her rounded glasses before the student tour guide even reached the intersection. "And right past those live oaks is the Student Center dining commons where Jessica used to march over at noon so the three of us could eat camp lunch together."
 
-"And the Student Recreation Center is right down the brick walk past the quad," I smiled, squeezing her hand. Sixteen years later, our internal campus map hadn't lost a single coordinate.
+"And the Student Recreation Center is right down the brick walk past the quad," I smiled, squeezing her hand. More than twenty years after our first summer camp mornings on this quad, our internal campus map hadn't lost a single coordinate.
 
 ***
 
