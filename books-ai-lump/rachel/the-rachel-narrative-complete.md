@@ -30036,15 +30036,11 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 ![Inside a local Virginia Beach branch of Anchor Federal Credit Union in February 2020, Michael and Rachel sit side by side with Ellen as a member services representative sets up their individual Checking and Share Savings accounts plus a separate Joint Savings account in both siblings' names]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_anchor_fcu_five_accounts.jpg)
 
-#### 9:15 AM — No Crystal Ball & Tired of Waiting for the Bus
+#### 9:15 AM — Tired of Waiting for the Bus
 
-In **January 2020**, nobody had a crystal ball.
+Back in **January 2020**, sitting at our adjacent desks in the upstairs **Command Center** at `3701 Canadian Arch`, **Rachel** and I had spent a quiet winter evening planning our upcoming **March 2020 Spring Break** trip to Maryland and Washington, D.C. We had booked a hotel in **North Linthicum, Maryland**—about a block from the **STA (`State Transit Administration`)** light rail station—and bought two round-trip **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`**, planning to take the free **BWI Airport Shuttle** over to the airport light rail stop, ride the **STA Light Rail** into Baltimore for a day, and take a **MAC (`Maryland Area Commuter`)** Penn Line train down to **Washington Union Station** for a day in D.C.
 
-Sitting at our adjacent desks in the upstairs **Command Center** at `3701 Canadian Arch`, **Rachel** and I had spent a quiet January evening planning our upcoming **March 2020 Spring Break** trip to Maryland and Washington, D.C. We had booked a hotel in **North Linthicum, Maryland**—about a block from the **STA (`State Transit Administration`)** light rail station—and bought two round-trip **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`**, planning to take the free **BWI Airport Shuttle** over to the airport light rail stop, ride the **STA Light Rail** into Baltimore for a day, and take a **MAC (`Maryland Area Commuter`)** Penn Line train down to **Washington Union Station** for a day in D.C.
-
-When we clicked `PURCHASE` on those two **ARTS Business Class** tickets in January, neither of us had any idea that we were less than a month away from buying a car—and nobody on earth knew what March 2020 was about to bring.
-
-What changed our minds about owning a car wasn't a grand prophecy. It was an ordinary, bone-chilling first week of **February 2020** spent standing in sideways forty-degree coastal rain waiting for delayed **CVTA** bus transfers with bags of groceries cutting into our fingers.
+Then came the first week of **February 2020**—five straight days of standing at **CVTA** stops in sideways forty-degree coastal rain, waiting on delayed bus transfers with heavy bags of groceries cutting into our fingers.
 
 By that Friday night, after Rachel and I peeled off our rain-soaked jackets by the front door and sat down at the kitchen table with **Mom (`Ellen`)** and **Jessica** on speakerphone, both of us had reached the exact same conclusion at the exact same time:
 
@@ -30052,7 +30048,7 @@ We were thirty-two and thirty years old, we both had clean Virginia driver's lic
 
 "Then we solve the logistics," **Jessica Marie Ragsdale** said immediately over the speakerphone, shifting into pure executive problem-solving mode. "You two don't need a car loan or a monthly payment hanging over your heads. I have **`$30,000.00`** in liquid cash ready to transfer tonight so the two of you can buy a brand-new, reliable family sedan outright in cash—titled and insured in both of your names."
 
-There was just one banking hurdle we needed to clear first.
+"Wait," Rachel realized aloud, looking at my phone on the table. "How do we get a cashier's check from `QEFCU` if their branches are all back in Washington State?"
 
 ***
 
@@ -30068,7 +30064,7 @@ If you are walking into a Virginia Beach car dealership as a cash buyer, you can
 
 Mom banked with **Anchor Federal Credit Union (`AFCU`)**—a massive, nationwide credit union headquartered in Virginia with physical branches on almost every major corridor in Virginia Beach and Hampton Roads, branches across Maryland and D.C., and even branches back in the Puget Sound near Bellevue and Redmond in case we ever visited Washington State again. Because Mom was already an established member, immediate family sponsorship meant both Rachel and I qualified for full membership on the spot.
 
-On **Saturday morning, February 8, 2020, at `10:00 AM`**, Mom drove Rachel and me in her car over to the local **Anchor Federal Credit Union** branch.
+On **Saturday morning, February 8, 2020, at `10:00 AM`**, Mom drove Rachel and me in her car over to the local **Anchor Federal Credit Union** branch. Walking from Mom's car through the glass lobby doors, Rachel and I held hands with our fingers laced together—the way we walk everywhere we go.
 
 Sitting side by side across from a friendly member services representative, we set up a clean, five-account architecture:
 1. **Account #1 & #2 (`Michael Thomas Ragsdale` — Individual):** My own personal **Checking Account** and my own **Share Savings Account** (funded with the mandatory `$5.00` credit union share deposit to establish my ownership stake as a member).
@@ -30091,9 +30087,7 @@ Before we even stood up from the desk, I read the new routing number and the Joi
 
 On **Sunday afternoon, February 9, 2020**, **Rachel** and I pulled our desk chairs together in our upstairs **Command Center** to do our research.
 
-We didn't have a retired car-dealer grandfather sitting at our kitchen table to teach us insider dealership vocabulary ahead of time. Neither Rachel nor I had ever heard the phrase **"Out-the-Door Price,"** and neither of us knew about dealer holdbacks, Four-Square payment worksheets, or finance-office reserve kickbacks.
-
-What we *did* have was our **`Director of Operations and Secretary`** system, a shared spiral notebook, and **`$30,000.00`** sitting in our joint **Anchor Federal Credit Union** savings account.
+Neither Rachel nor I had ever bought a car from a dealership before, so we approached it the same way we approached every logistics project: with our **`Director of Operations and Secretary`** system, a shared spiral notebook, and **`$30,000.00`** sitting in our joint **Anchor Federal Credit Union** savings account.
 
 "Okay, Bear," Rachel said, resting her chin in her hand as we pulled up manufacturer spec sheets across our monitors. "Ground rules first. What are we looking for, and how are we making the call?"
 
@@ -30114,9 +30108,7 @@ After two hours of reading reliability ratings, safety crash-test scores, fuel e
 3. **The `2020 Olympus Regent`** (*Olympus Automobiles Corp.* — MSRP `~$26,400`): Known for a quiet highway ride, though sitting near the upper edge of our target price range before taxes.
 4. **The `2020 Horizon Avalon`** (*Horizon Motors* — MSRP `~$24,600`): Legendary for bulletproof long-term reliability, a smooth naturally aspirated four-cylinder engine with a real automatic transmission (no rubber-band CVT), and high resale value.
 
-Looking at the `~$24,000` to `$25,000` MSRP numbers on the websites, the math in our heads seemed blissfully simple: if a car's window sticker said `$24,600`, and we had `$30,000` in cash sitting in **Anchor Federal Credit Union**, surely we could just walk onto a dealership lot, test-drive the cars, tell the salesperson we were paying cash, and write a check.
-
-We had no idea what waited for us on the dealership lots the next Saturday morning.
+Looking at the `~$24,000` to `$25,000` MSRP numbers on the websites, the math in our notebook looked completely straightforward: if a car's window sticker said `$24,600`, and we had `$30,000` in cash sitting in **Anchor Federal Credit Union**, we could simply walk onto the dealership lots on Saturday morning, test-drive the cars on our list, tell the salesperson we were paying cash, and pick our favorite.
 
 ## The Dealership Gauntlet: 'You and the Missus,' The Four-Square Trap, & The Addendum Markup
 
@@ -30130,17 +30122,13 @@ We had no idea what waited for us on the dealership lots the next Saturday morni
 
 On **Saturday morning, February 15, 2020**, **Mom (`Ellen`)** drove Rachel and me down Virginia Beach Boulevard in her car for our day of test drives, parking in a visitor space at our first stop—**Colonial Holt Automotive**—and telling us she'd wait comfortably in the customer lounge with her book so the two of us could handle the car shopping ourselves.
 
-Stepping out into the crisp February sunshine across the asphalt lot toward a row of new **2020 Holt Meridians**, **Rachel and I automatically reached for each other's hands, lacing our fingers tightly together**.
+Stepping out into the crisp February sunshine across the asphalt lot toward a row of new **2020 Holt Meridians**, **Rachel and I held hands with our fingers laced tightly together**, just like we do everywhere we go.
 
-We didn't even think about it. Holding hands with our fingers laced together—or wrapping each other in tight hugs—is how Bear and Bug have grounded each other in unfamiliar, high-stimulus environments ever since Rachel was six and I was eight.
+A fifty-something salesman in a striped tie (`Greg`) spotted the two of us walking across his dealership lot hand in hand and strode right up to us beside a charcoal-grey **2020 Holt Meridian**.
 
-So when a fifty-something salesman in a striped tie (`Greg`) spotted a thirty-two-year-old man and a thirty-year-old woman walking across his dealership lot holding hands with their fingers laced together, **it was completely understandable that he assumed we were a married couple**.
+"Good morning, folks!" Greg beamed. "Looking for a sharp new family sedan for you and the missus today?"
 
-"Good morning, folks!" Greg beamed, striding right up to us beside a charcoal-grey **2020 Holt Meridian**. "Looking for a sharp new family sedan for you and the missus today?"
-
-Mistaking us for husband and wife didn't bother me at all. People who don't know us make that assumption all the time when they see us holding hands.
-
-What bothered me—starting less than thirty seconds later—was how he treated Rachel because of it.
+Seeing a thirty-two-year-old man and a thirty-year-old woman walking onto a car lot with their fingers laced together, it was completely understandable that he thought we were husband and wife.
 
 ***
 
@@ -30202,9 +30190,9 @@ With our fingers still laced tightly together, Rachel and I turned around, walke
 
 #### 11:45 AM — Stop 2 (`Summit Motors`): The Four-Square Box & The Fake Credit-Check Rule
 
-Our second stop down the boulevard was **Atlantic Summit Motors**, where **Mom** parked out front while **Rachel** and I walked in to test-drive the **`2020 Summit Verve`** (alongside taking a quick look at an **Olympus Regent** parked on the adjacent lot).
+Our second stop down the boulevard was **Atlantic Summit Motors**, where **Mom** parked out front while **Rachel** and I walked onto the lot holding hands with our fingers laced together to test-drive the **`2020 Summit Verve`** (alongside taking a quick look at an **Olympus Regent** parked on the adjacent row).
 
-This time, the young salesman who greeted us (`Tyler`) listened right away when we introduced ourselves as brother and sister shopping for a shared car, and he treated both of us politely during the test drive.
+This time, when the young salesman who greeted us (`Tyler`) saw us holding hands and we introduced ourselves as brother and sister shopping for a shared car, he nodded right away and addressed both of us politely during the test drive.
 
 The **Summit Verve** itself was an improvement over the Holt Meridian's cramped console, and the back seat was roomy, though as Rachel and I traded off driving half the loop each, both of us noticed that its continuously variable transmission (`CVT`) had a rubbery, hesitant lag from a dead stop before lurching forward—forcing my right foot to constantly micro-adjust the throttle.
 
@@ -30216,7 +30204,7 @@ Sitting down at Tyler's desk cubicles inside the showroom, Rachel and I laid our
 
 The moment the word **`cash`** left my mouth, Tyler's posture shifted.
 
-Instead of pulling up an itemized price sheet on his computer, he reached into his desk drawer, pulled out a blank piece of paper divided by two intersecting black lines into **four large boxes** (the infamous dealership **Four-Square Worksheet**), and wrote **`$389 / MONTH`** in thick black marker in the bottom-right box.
+Instead of pulling up an itemized price sheet on his computer, he reached into his desk drawer, pulled out a blank piece of paper divided by two intersecting black lines into **four large boxes**, and wrote **`$389 / MONTH`** in thick black marker in the bottom-right box.
 
 "Okay, guys," Tyler said, sliding the Four-Square sheet across the desk alongside **two blank Credit Application forms** highlighted at the **`Social Security Number`** line. "Before my sales manager can print any pricing numbers, go ahead and fill out these two credit forms with your Social Security numbers, and tell me if `$389` a month fits your budget."
 
@@ -30230,7 +30218,7 @@ Tyler hurried into the glass-walled sales tower and returned sixty seconds later
 
 Rachel and I looked at each other.
 
-We didn't have a car-dealer grandfather sitting next to us, and we had never worked in a dealership—but between Jessica's cybersecurity training and our own common sense, both of our internal alarm bells went off at the exact same millisecond.
+Neither of us had ever worked in a car dealership—but between Jessica's cybersecurity training and our own common sense, both of our internal alarm bells went off at the exact same millisecond.
 
 Why would a store need to pull a hard credit inquiry on your Social Security number when you are *not* borrowing a single penny of credit? Because once they have your signed credit application in their computer, they can shotgun your credit report to ten different banks and try to force you into a loan!
 
@@ -30248,7 +30236,7 @@ Over a quick lunch of burgers and fries with **Mom** before our afternoon stops,
 
 That was where we finally discovered why the dealerships were fighting our cash so hard—and learned the magic phrase we had been missing all morning:
 
-1. Dealerships make thousands of dollars in back-end bank kickbacks (*dealer reserve*) and financed add-ons inside the Finance Office, so a cash buyer who doesn't take a loan or buy an extended warranty cuts straight into their favorite profit center.
+1. That four-box sheet Tyler had pulled out of his drawer was called a **Four-Square Worksheet**—a classic dealership tactic designed to hide the actual price of the car behind a monthly payment number. And because dealerships make thousands of dollars in back-end bank kickbacks (*dealer reserve*) and financed add-ons inside the Finance Office, a cash buyer who doesn't take a loan or buy an extended warranty cuts straight into their favorite profit center.
 2. You **never** need a credit check when paying with a bank Cashier's Check.
 3. And instead of asking *"How much is the car?"*, you have to demand a printed, itemized **Buyer's Order** showing the **Out-the-Door (`OTD`) Price**—the exact bottom-line cash number including the vehicle, freight, **Virginia's `4.15%` Motor Vehicle Sales and Use Tax**, Virginia DMV title and registration fees, and the dealer processing fee.
 
@@ -30267,11 +30255,11 @@ When we pulled into the shopping center lot halfway through the drive to swap se
 
 "Me too, Bug," I grinned, hugging her back just as tightly. "The Horizon Avalon is `100%` our car."
 
-There was only one problem: **Coastal Horizon** wasn't going to sell it to us honestly.
+When we parked back at **Coastal Horizon**, Rachel and I laced our fingers back together, walked into the showroom feeling genuinely excited, and asked our salesman for a printed, itemized **Out-the-Door Cash Buyer's Order** on the royal blue **2020 Horizon Avalon** whose factory window sticker (`Monroney label`) read **`$24,600`**.
 
-When we walked into the Coastal Horizon showroom and asked our salesman for a printed, itemized **Out-the-Door Cash Buyer's Order** on the royal blue **2020 Horizon Avalon** whose factory window sticker (`Monroney label`) read **`$24,600`**, the salesman disappeared into the manager's office for fifteen minutes.
+The salesman disappeared into the manager's office for fifteen minutes.
 
-When he came back and laid the printed sheet on the desk in front of Rachel and me, the bottom-line total read **`$30,450.00`**—`$450` over our entire `$30,000` savings account!
+When he came back and laid the printed sheet on the desk in front of Rachel and me, my eyes dropped to the bottom-right corner—and the total read **`$30,450.00`**, four hundred and fifty dollars over our entire `$30,000` savings account!
 
 Rachel and I pulled the sheet between us and audited every single line item with our pen:
 * Base `2020 Horizon Avalon` (including destination/freight): `$24,600.00`
@@ -30354,23 +30342,23 @@ Rachel looked at me across the desk, her dark brown eyes shining behind her glas
 
 "Fifty-fifty, Bug," I beamed, reaching across the arm of our chairs to wrap my sister in a tight, celebratory hug right there at Denise's desk. "Let's buy our car."
 
-### Part 2: The Cashier's Check, Joint Virginia Title (VSA 17A), & Driving Home Before the World Changes
+### Part 2: The Cashier's Check, Joint Virginia Title (VSA 17A), & Driving Our Avalon Home
 
 **Date:** 2020-02-15 at 16:15 America/New_York
 
 ![In the delivery bay at Bayside Horizon, Michael and Rachel hug tightly beside their new royal blue 2020 Horizon Avalon holding their matching sets of keys while Ellen and saleswoman Denise Carter smile nearby]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_bayside_horizon_two_keys_handover.jpg)
 
-#### 4:15 PM — How a Real-Life Cash Purchase Closes (Step by Step)
+#### 4:15 PM — Closing Our Cash Purchase Step by Step
 
-Once a dealership accepts that you are a serious cash buyer and prints an honest **Out-the-Door Buyer's Order**, the actual closing process moves like clockwork—and Denise walked **Rachel** and me through every step with zero mysteries:
+With our honest **Out-the-Door Buyer's Order** printed on the desk, the closing process moved like clockwork—and Denise walked **Rachel** and me through every step with zero mysteries:
 
 ##### Step 1: Signing the Buyer's Order & Sending the Car to Detail
-First, **Michael Thomas Ragsdale** and **Rachel Anna Ragsdale** both signed the bottom of the **`$26,840.00` Cash Buyer's Order** as equal Co-Buyers (`Buyer` and `Co-Buyer`), locking in the exact price and the vehicle's seventeen-digit **VIN**. While Denise sent our royal blue **2020 Horizon Avalon** back to the detail bay to have the protective factory plastic peeled off the seats, the exterior washed, and the gas tank filled to the top, she handed us a signed copy of the Buyer's Order to take to our credit union.
+First, Rachel and I both signed the bottom of the **`$26,840.00` Cash Buyer's Order** as equal Co-Buyers (`MICHAEL THOMAS RAGSDALE` and `RACHEL ANNA RAGSDALE`), locking in the exact price and the vehicle's seventeen-digit **VIN**. While Denise sent our royal blue **2020 Horizon Avalon** back to the detail bay to have the protective factory plastic peeled off the seats, the exterior washed, and the gas tank filled to the top, she handed us a signed copy of the Buyer's Order to take to our credit union.
 
 ##### Step 2: Picking Up the `$26,840.00` Cashier's Check at Anchor Federal Credit Union
 Because car dealerships don't hand over keys on a twenty-six-thousand-dollar personal check (and cap debit card swipes due to merchant processing fees), **Mom (`Ellen`)** drove Rachel and me five minutes down the road to the nearest **Anchor Federal Credit Union (`AFCU`)** branch before the Saturday teller lobby closed at `5:00 PM`.
 
-Walking up to the teller window together, Rachel and I presented our Virginia driver's licenses, our **Anchor Federal Credit Union** member cards, and the signed Bayside Horizon Buyer's Order. Within three minutes, the teller withdrew **`$26,840.00`** from our **Joint Savings Account** (`MICHAEL THOMAS RAGSDALE AND RACHEL ANNA RAGSDALE`—leaving `$3,160.00` untouched inside the account for insurance and maintenance) and printed a crisp, watermarked **Official Credit Union Cashier's Check** payable to **`BAYSIDE HORIZON`** for **`$26,840.00`**.
+Walking up to the teller window together with our fingers laced together, Rachel and I presented our Virginia driver's licenses, our **Anchor Federal Credit Union** member cards, and the signed Bayside Horizon Buyer's Order. Within three minutes, the teller withdrew **`$26,840.00`** from our **Joint Savings Account** (`MICHAEL THOMAS RAGSDALE AND RACHEL ANNA RAGSDALE`—leaving `$3,160.00` untouched inside the account for insurance and maintenance) and printed a crisp, watermarked **Official Credit Union Cashier's Check** payable to **`BAYSIDE HORIZON`** for **`$26,840.00`**.
 
 *(Because a single bank Cashier's Check over `$10,000` is drawn directly on verified credit union funds—unlike walking into a dealership with a duffel bag of hundred-dollar bills—it doesn't even trigger the federal IRS Form 8300 physical-currency reporting paperwork).*
 
@@ -30417,9 +30405,7 @@ For the drive home to `3701 Canadian Arch`, Mom led the way in her car while I d
 
 Upstairs on our desks in the Command Center, our two **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`** were still waiting for our upcoming **March 2020 Spring Break** trip to North Linthicum, Baltimore, and Washington, D.C.—because we had already paid for those train tickets back in January before we knew we were buying a car, and we had every intention of taking our Spring Break train trip next month.
 
-As Rachel and I hung our matching **Horizon Avalon** key fobs side by side on the key hook by the front door on the evening of **Saturday, February 15, 2020**, all I knew was that after years of riding `CVTA` buses through heatwaves and freezing rain, my days as a daily bus rider were officially over.
-
-Neither of us had any idea that we had bought our car—and gotten me off the buses—literally weeks before a worldwide pandemic was about to shut down the planet.
+As Rachel and I hung our matching **Horizon Avalon** key fobs side by side on the key hook by the front door on the evening of **Saturday, February 15, 2020**, and pulled each other into one more tight hug in the hallway, all I knew was that after years of riding `CVTA` buses through summer heatwaves and freezing winter rain, my days as a daily bus rider were officially over—and in just a few weeks, we would be boarding the train for Spring Break.
 
 # Code Susquehanna
 
