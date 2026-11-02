@@ -30115,13 +30115,15 @@ I hit my turn signal, glided up the off-ramp at **`Exit 251`**, and hung a smoot
 
 ***
 
-#### 1:32 PM — Where `US-33` Meets `US-11` at the Courthouse (`25 MPH`)
+#### 1:32 PM — Circling the One-Way Courthouse Square (`US-11` & `US-33` — `25 MPH`)
 
-Cruising south on **`US-11` (`Main Street`)** into the historic center of **Downtown Harrisonburg**, the four-lane commercial strip narrowed into a brick-lined small-town main street where the posted speed limit dropped to **`25 MPH`**.
+Cruising south on **`US-11` (`Main Street`)** into the historic center of **Downtown Harrisonburg**, the street narrowed into a brick-lined downtown district where the posted speed limit dropped to **`25 MPH`**.
 
-Right ahead of us rose the massive, ornate limestone clock tower of the **Rockingham County Courthouse** at **Court Square**—the exact downtown intersection where **U.S. Route 33 (`Market Street`) meets U.S. Route 11 (`Main Street`)**.
+Right ahead of us rose the ornate limestone clock tower of the **Rockingham County Courthouse** at **Court Square**.
 
-Rolling southbound on **`US-11`** at twenty miles an hour as we approached the **Courthouse Square** crosswalk, I spotted **two pedestrians** standing at the curb waiting to cross the street in front of the courthouse.
+In Downtown Harrisonburg, **U.S. Route 11 (`Main Street`)** and **U.S. Route 33 (`Market Street`)** meet and split into **one-way streets that circle counter-clockwise around all four sides of the Courthouse**—functioning as a one-way square roundabout with the Courthouse standing in the middle. To stay on **southbound `US-11`**, you follow the one-way lanes circling around behind the Courthouse before exiting onto South Main Street.
+
+Following the one-way flow around the back of the Courthouse at twenty miles an hour to stay on southbound **`US-11`**, I spotted **two pedestrians** standing at the curb waiting to cross at the marked crosswalk.
 
 Checking my speed in the `25 MPH` zone, I eased my right foot smoothly onto the brake pedal, brought Mom's car to a complete, lawful stop in front of the white crosswalk stripes, kept my foot planted firmly on the brake, and smiled through the windshield as I **waved the two pedestrians across**.
 
@@ -30619,7 +30621,7 @@ We handed the Business Manager the **`$26,840.00` Anchor Federal Credit Union Ca
 
 #### 5:10 PM — Two Sets of Keys & The End of the Bus Era
 
-Out under the bright lights of the delivery bay, our brand-new **royal blue `2020 Horizon Avalon`** was gleaming fresh from the wash bay—so fresh that the service tech hadn't even screwed the new license plates onto the bumpers yet, leaving the front grille completely clean for our delivery photo—with our new registration card tucked neatly inside the glove compartment.
+Out under the bright lights of the delivery bay, our brand-new **royal blue `2020 Horizon Avalon`** was gleaming fresh from the wash bay—with the polished chrome **Horizon Motors** crest (a stylized rising sun and horizon line inside a sleek hexagonal badge) shining at the top of the front grille, our new **front and rear Virginia license plates** freshly bolted onto both bumpers, and our joint registration card tucked neatly inside the glove compartment.
 
 Denise stood by the open driver's door holding two identical black electronic key fobs.
 
