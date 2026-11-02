@@ -30030,68 +30030,167 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 ## The Wall Behind the Desk (Spring 2024 – Fall 2025)
 
-### Ms. Susan, The Mutual Double-Take, & The Secret Only Rachel Carries
+### Part 1: 5:55 PM: Five Minutes to Clock-Out & The Parking Lot Hand-Off
 
-**Date:** 2024-04-19 at 17:31 America/New_York
+**Date:** 2024-03-13 at 17:55 America/New_York
 
-![At the 2017 Fairlawn Recreation Center Scan Station under the soaring glulam timber roof, Michael in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the high counter while coworker Ms. Susan reaches for the handheld two-way radio]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg)
+![At 6:02 PM in the 2017 Fairlawn Recreation Center parking lot, Rachel sits in the driver's seat of their shared car looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home instead of taking over the wheel]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/march_2024_parking_lot_rachel_drives_home.jpg)
 
-#### 5:15 PM — The 2017 Building & The Vault Only Rachel Holds
+#### 5:45 PM — The 2017 Building & Five Minutes Left on the Clock
 
 If you grew up in our corner of Virginia Beach during the 1990s or the mid-2000s, the words **Fairlawn Recreation Center** probably still conjure up the old `1977` brick building on Marlborough Drive—the one with the axle-breaking potholes in the parking lot, the temperamental two-lane bowling alley, the strict Men's and Women's locker rooms that had zero family changing spaces, and that massive, unpainted dark-grey concrete spiral ramp helixing up from the first-floor lobby to the second-floor check-in desk and natatorium.
 
 That 1977 building closed its doors for good in **2015** and was torn down to the bare earth. For two years while the city built its replacement on the exact same footprint, Fairlawn's regulars and staff were scattered across neighboring municipal recreation centers around the city. Then, in **June 2017**, the brand-new, **87,116-square-foot Fairlawn Recreation Center** opened its automatic sliding glass doors.
 
-Standing behind the **Front Desk** on a Friday afternoon in April 2024, the 2017 building still feels like an architectural marvel compared to the concrete bunker it replaced. Overhead, heavy glued-laminated timber beams twist and soar across the ceiling in a coastal **"Sand Dune Fence"** and ocean-wave roofline, flooding the bamboo-accented lobby commons with diffused daylight through massive northern glass curtain walls. The old three-story concrete ramp is gone; all of the primary program zones now sit on a unified ground level—including the **Double Gymnasium**, eight multipurpose meeting rooms, a massive modern **Natatorium** (complete with a six-lane 25-meter competition pool, a 25-foot glass rock-climbing wall over the deep end, a zero-depth-entry leisure pool and lazy river, and **three private Assisted Care changing suites** equipped with a toilet, sink, shower, and a small changing chair so opposite-gender family members never have to face the old 1977 locker room barrier again), and a **7,500-square-foot Weight Room and Fitness Center** tucked directly behind the solid rear structural wall of the Front Desk.
+Standing behind the **Front Desk** in my **royal blue polo shirt** and pinned **`MICHAEL`** chest nametag on the late afternoon of **Wednesday, March 13, 2024**, the 2017 building felt like a second home. Overhead, heavy glued-laminated timber beams twisted and soared across the ceiling in a coastal **"Sand Dune Fence"** and ocean-wave roofline, flooding the bamboo-accented lobby commons with diffused daylight through massive northern glass curtain walls. The old three-story concrete ramp was long gone; all of the primary program zones now sat on a unified ground level—including the **Double Gymnasium**, eight multipurpose meeting rooms, a massive modern **Natatorium** (complete with a six-lane 25-meter competition pool, a 25-foot glass rock-climbing wall over the deep end, a zero-depth-entry leisure pool and lazy river, and **three private Assisted Care changing suites** equipped with a toilet, sink, shower, and a small changing chair so opposite-gender family members never had to face the old 1977 locker room barrier again), and a **7,500-square-foot Weight Room and Fitness Center** tucked directly behind the solid rear structural wall of the Front Desk.
 
-Looping above us on the second-floor **Mezzanine** is an elevated **`1/8-mile` (`8 laps to the mile`) indoor walking and jogging track** that winds through the upper volume of the building—cutting past the upper lobby atrium right above the Front Desk, overlooking the Weight Room, running alongside the gym, and passing through an observation gallery over the pool.
+Looping above us on the second-floor **Mezzanine** was an elevated **`1/8-mile` (`8 laps to the mile`) indoor walking and jogging track** that wound through the upper volume of the building—cutting past the upper lobby atrium right above the Front Desk, overlooking the Weight Room, running alongside the gym, and passing through an observation gallery over the pool.
 
-Down here immediately inside the main entrance doors, the **Front Desk** is the bottleneck and command post for the entire building:
-* At the center of the counter sits the **Scan Station**, where members swipe or scan their barcode keytags and membership cards. Because the front counter is built high and solid, it acts as a **physical lower-body blinder**—completely cutting off a patron's lower half and shoes from our line of sight behind the desk and locking eye contact strictly to the patron's upper torso and face.
-* Flanking the Scan Station are our point-of-sale **Cash Registers**—which, in a proud carry-over from 1977, still **do not carry coins**, dealing strictly in whole-dollar paper currency and credit/debit cards: the **Adjacent Register** immediately beside the Scan Station, and the **Far-Left Corner Register** at the far end of the counter, angled away from the scanner and the front doors like a natural spatial firewall.
-* Directly through the staff door behind us is the **Back Office**—an enclosed, windowless administrative bunker completely out of public sightlines where the **Duty Supervisor / Lead Cashier** takes thirty-minute meal breaks, counts down the paper-currency register tills at the end of the night, and compiles the evening closing report.
+Down here immediately inside the main entrance doors, the **Front Desk** was the bottleneck and command post for the entire building:
+* At the center of the counter sat the **Scan Station**, where members swiped or scanned their barcode keytags and membership cards. Because the front counter was built high and solid, it acted as a **physical lower-body blinder**—completely cutting off a patron's lower half and shoes from our line of sight behind the desk and locking eye contact strictly to the patron's upper torso and face.
+* Flanking the Scan Station were our point-of-sale **Cash Registers**—which, in a proud carry-over from 1977, still **did not carry coins**, dealing strictly in whole-dollar paper currency and credit/debit cards: the **Adjacent Register** immediately beside the Scan Station, and the **Far-Left Corner Register** at the far end of the counter, angled away from the scanner and the front doors like a natural spatial firewall.
+* Directly through the staff door behind us was the **Back Office**—an enclosed, windowless administrative bunker completely out of public sightlines where the **Duty Supervisor / Lead Cashier** took thirty-minute meal breaks, counted down the paper-currency register tills at the end of the night, and compiled the evening closing report.
 
-I love working this desk. For my autistic, logistics-wired brain, serving at the Front Desk—and stepping up as the evening **Duty Supervisor / Lead Cashier**—is a system of clean, predictable rules.
+At `5:50 PM` that Wednesday afternoon, I was ten minutes away from clocking out at **`6:00 PM`**.
 
-Except for one geographic reality sitting **five minutes up the road**.
+Outside in the newly resurfaced Fairlawn Recreation Center parking lot, my sister **Rachel** was just pulling into a parking space in the car the two of us now shared, right on time to pick me up at six o'clock.
+
+Our plan for the evening was simple and routine: Rachel had driven our shared car over to the Rec Center to pick me up, and once I clocked out at `6:00 PM` and walked out to the parking lot, **Rachel was going to slide over into the passenger seat and I was going to take over driving us home**.
+
+I tidied my clipboard on the counter, glanced at the clock reading **`5:55 PM`**, and thought about what we were having for dinner.
+
+I had forgotten about the one geographic reality sitting **five minutes up the road**.
+
+***
+
+#### 5:55 PM — The Ghost of Susquehanna Drive
 
 Five minutes north of the Fairlawn Recreation Center parking lot, just off **Princess Anne Road**, is **Susquehanna Drive**—the exact residential street where, from **August 24, 2007 to May 8, 2009**, I rode the **CVTA Route 25** bus every weekday morning and afternoon (`e018: The Shallow End`) to meet my college best friend, **Heather Bouchard**.
 
-In the fifteen years since Friday, May 8, 2009—the morning Heather finished her final exam at the **Community College of Hampton Roads (`CCHR`)**, boarded the `10:45 AM` inbound Route 25 bus with me, suddenly pushed my arms away when I reached for our routine goodbye hug at **Princess Anne Road & Susquehanna Drive**, stepped off the bus without a word, and blocked me on *Orbit*—we had learned through the quiet grapevine of coastal Virginia why we almost never crossed paths with her in Virginia Beach.
+In the fifteen years since Friday, May 8, 2009—the morning Heather finished her final exam at the **Community College of Hampton Roads (`CCHR`)**, boarded the `10:45 AM` inbound Route 25 bus with me, suddenly pushed my arms away when I reached for our routine goodbye hug at **Princess Anne Road & Susquehanna Drive**, stepped off the bus without a word, and blocked me on *Orbit*—we had learned why we never ran into her around town.
 
 After completing her Nuclear Medicine Technology credentials at CCHR in May 2009, **Heather (`Twin A`)** had moved back up to **Charlottesville** to work full-time as a hospital **Nuclear Medicine Technologist**. Meanwhile, her identical twin sister, **Hailey (`Twin B`)**, had remained full-time right here in Virginia Beach at their longtime family house on **Susquehanna Drive**.
 
 Because Heather kept her legal family address anchored to that house on Susquehanna Drive with Hailey—and because she still held a grandfathered **Month-to-Month Auto-Draft Membership** at Fairlawn Recreation Center (a legacy monthly auto-drafting tier from years ago that the city no longer sells to new patrons, which stays active forever as long as the card on file never lapses)—Heather almost never set foot in Fairlawn Rec Center. She was two hundred miles away in a Charlottesville hospital nuclear medicine department.
 
-Until she came down to Virginia Beach to visit her twin sister.
+Until she drove down to Virginia Beach to visit her twin sister.
 
-Five weeks ago—on **Wednesday, March 13, 2024, at `5:55 PM`**, literally five minutes before I was scheduled to clock out at `6:00 PM`—I had been standing behind the Front Desk when that familiar name and face flashed across the Scan Station monitor for the first time in fifteen years.
+At **`5:55 PM`**—literally **five minutes before my `6:00 PM` clock-out**—the automatic sliding glass entrance doors parted.
 
-The shock that hit my chest at `5:55 PM` that Wednesday wasn't fear, and it wasn't anger.
+A thirty-five-year-old woman with straight shoulder-length chestnut-auburn hair, side-swept bangs, and thin-rimmed rectangular glasses stepped up to the **Scan Station** and passed her barcode card beneath the red laser.
 
-It was a sudden, torrential flood of **what were supposed to be happy memories**—eating chicken tenders with mayo and fries with ketchup across from her burger and cola on the first day of Fall Semester 2007; laughing with **Ms. Doris** (`Doris Hooks`) on the morning Route 25 bus while three strangers tried to recruit us into a bowling league; walking the CCHR courtyard unmasked for the very first time in my adult life after escaping Washington; watching Hailey and Heather pull their April Fools' Day 2008 *Twin Magic* prank at the Susquehanna Drive shelter before Heather lifted her chestnut-auburn bangs on the outbound bus to show me the tiny freckle (*"my birth mark"*) hidden right at her upper forehead hairline; standing together in front of the glowing blue saltwater tunnel at the **Chesapeake Bay Aquarium**—and discovering that every single one of those happy memories now **ached like a physical bruise**.
+*Beep.*
 
-And across the entire universe, **there is only ONE person who knows just how badly the memory of Heather still hurts me**.
+**`HEATHER BOUCHARD — ACTIVE (MONTH-TO-MONTH)`**
 
-**Rachel.**
+When my eyes saw her face across the counter and registered that name on the check-in monitor for the first time in fifteen years, **my mind went completely haywire**.
 
-I don't trust *anyone* else with that memory. Not **Kristin**, and not even **Jessica**.
+It wasn't fear, and it wasn't anger.
 
-I would never bring Heather's name up to **Kristin** because I love my life with Kristin with every fiber of my being, and I would rather swallow glass than ever let Kristin feel even a microsecond of insecurity or hurt that a part of my nervous system still grieves the best friend who vanished on a bus in May 2009. (On the rare occasions when we're driving and a heavy synth-rock track with that familiar 2008–2009 cadence comes over the car radio, Kristin—acting as my quiet Co-Administrator—doesn't even hit `MUTE`, because muting the audio still leaves the song title glowing on the dashboard display screen; she simply reaches out and changes the station to a completely different channel without either of us saying a word about *why*).
+It was a violent, unbuffered flood of **what were supposed to be happy memories**—eating chicken tenders with mayo and fries with ketchup across from her burger and cola in the CCHR cafeteria on August 24, 2007; laughing with **Ms. Doris** (`Doris Hooks`) on the morning Route 25 bus while three strangers tried to recruit us into a bowling league; walking the CCHR courtyard unmasked for the very first time in my adult life after escaping Washington; watching Hailey and Heather pull their April Fools' Day 2008 *Twin Magic* prank at the Susquehanna Drive shelter before Heather lifted her chestnut-auburn bangs on the outbound bus to show me the tiny freckle (*"my birth mark"*) hidden right at her upper forehead hairline; standing together in front of the glowing blue saltwater tunnel at the **Chesapeake Bay Aquarium**—and discovering in a single heartbeat that every single one of those happy memories now **hurt like a knife in my ribs**.
 
-And I could never tell **Jessica**, because I know how Jessica's fiercely protective executive brain is wired. If Jessica knew that seeing someone from my past made my chest ache and my throat lock up seventeen years later, she would classify that person in the same threat category as **Delores** or **Master Curtis** and move heaven and earth to crush them.
+Inside my head, my **audio hyperphantasia** slammed on at full studio volume, blasting the frantic, clinical synth-pulse of [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) while my heart hammered against my sternum and my hands went ice-cold.
 
-And Heather was *never* Delores. Heather never hit me, never abused me, never tried to break me. She was a nineteen-year-old Nuclear Medicine student who picked me up after I survived hell, gave me a two-year sanctuary where my autistic mask could come off before I even knew the word *autistic*, and then—when the academic and emotional load exceeded her own bandwidth and she lacked the vocabulary to ask for space—listened to her identical-twin echo chamber and pulled the emergency cord the only way she knew how.
+By sheer muscle memory, my outward Front Desk mask held my body upright for the final three hundred seconds of my shift while Heather walked past the desk into the facility.
 
-Only **Rachel**—my Bug, who walked through the front door of `3701 Canadian Arch` in her red *Spot* t-shirt at **`3:13 PM` on Friday, May 8, 2009** (`e018/c007/p002.md`), sat down beside me on the living room sofa, and let me squeeze her ribs in a vise-like grip for hours because I was terrified that if I let go of her she would walk away too—understands why you can love your present life completely and still feel your heart break all over again when your old best friend walks through a door.
+At **`6:00 PM`** on the dot, I signed out at the back terminal, grabbed my keys, and walked out through the automatic sliding glass doors into the cool March twilight on legs that felt like lead.
 
 ***
 
+#### 6:02 PM — Switching the Plan in the Parking Lot
+
+Halfway down the first row of the Fairlawn Recreation Center parking lot, the headlights of our shared car were glowing softly.
+
+Inside the cabin, **Rachel** saw me walking toward the car and reached down to unbuckle her seatbelt so she could slide over into the passenger seat and let me take the wheel as we had planned.
+
+Instead of walking around the hood to the driver's side door, I walked straight to the **front passenger door**, pulled the handle open, and dropped heavily into the passenger seat.
+
+Rachel paused with her hand on her seatbelt buckle, taking one look at my pale face, my shallow breathing, and the way my hands were trembling against the hem of my royal blue Fairlawn Rec Center polo shirt.
+
+"Bear?" Rachel asked immediately, her voice dropping into instant, laser-focused pack alert. "What happened? Are you okay?"
+
+I gripped the passenger door handle with one hand and pressed my other hand against my forehead, my processor spinning so fast I could barely string a sentence together.
+
+"I can't drive right now, Bug," I whispered, my voice shaking as I looked across the center console at my sister. "My head is going completely haywire. Will you please drive us home?"
+
+"Of course I'll drive, Bear," Rachel said without a millisecond of hesitation. She clicked her seatbelt right back into the latch, wrapped both hands firmly around the steering wheel, and shifted the car into reverse. As she backed smoothly out of the parking space and steered us out of the Fairlawn Recreation Center lot onto Marlborough Drive, she reached her right hand across the console and took my trembling left hand in hers. "Talk to me when you can. What happened inside?"
+
+"At `5:55`," I choked out, staring through the windshield as the streetlamps blurred past, "five minutes before I clocked out... **Heather** walked in. Heather Bouchard scanned in at the front desk."
+
+### Part 2: 6:25 PM: Crying in Rachel's Arms & The Secret Pact
+
+**Date:** 2024-03-13 at 18:25 America/New_York
+
+![Inside the living room of their townhouse, Michael in his royal blue Fairlawn Rec Center polo shirt cries in Rachel's arms on the sofa as she holds him tightly against her shoulder, promising she is his sister and agreeing to keep the secret strictly between the two of them]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/march_2024_crying_in_rachels_arms_secret_pact.jpg)
+
+#### 6:25 PM — "I'm Your Sister, and I'm Right Here"
+
+For the entire drive back from Marlborough Drive to our townhouse, **Rachel** never let go of my hand across the center console.
+
+She didn't pepper me with questions while my nervous system was redlining, and she didn't turn on the car radio—knowing without asking that my internal **audio hyperphantasia** was already overloading my head. She simply drove us smoothly through the March evening traffic, parked in front of our townhouse at **`6:22 PM`**, and walked right beside me up the front steps with her arm braced around my waist.
+
+The second the front door clicked shut behind us and the deadbolt slid home inside the quiet sanctuary of the townhouse, the five-minute Front Desk mask I had been white-knuckling since `5:55 PM` shattered into pieces.
+
+We didn't even make it upstairs.
+
+Rachel guided me straight over to the living room sofa—the exact same living room spot where, fifteen years earlier at **`3:13 PM` on Friday, May 8, 2009** (`e018/c007/p002.md`), she had walked through the front door in her red *Spot* t-shirt to find me sobbing after Heather pushed me away on the **CVTA Route 25** bus at Susquehanna Drive.
+
+As soon as we sat down on the cushions, I reached for my Bug, buried my face against her shoulder—still wearing my royal blue Fairlawn Rec Center polo shirt with my **`MICHAEL`** nametag pinned to my chest—and **broke down crying in Rachel's arms**.
+
+It hit me with a force I hadn't felt since I was twenty-one years old.
+
+"It's supposed to be a happy memory, Bug," I sobbed into her shirt, locking both arms around her ribs as fifteen years of dammed-up grief poured out of my chest. "All those mornings on the 25 bus... eating lunch together at CCHR... the aquarium... she was my best friend when I didn't even know how to be a person again after Washington. Why does seeing her face make all the happy memories hurt so badly?"
+
+Because when she stepped up to that scanner at `5:55 PM`, my body hadn't remembered the ending first. For one split second, my body had remembered the warmth of having my first non-family Safe Person—and wanted nothing more than to hug my best friend—before the cold, silent wall of May 8, 2009 slammed down all over again.
+
+Rachel didn't try to feed me hollow clichés. She didn't tell me *"it was fifteen years ago, you should be over it,"* and she didn't pull back an inch.
+
+Just like she had done at `3:13 PM` on May 8, 2009, **Rachel wrapped both of her arms tightly around my shoulders and back**, pulling me flush against her chest with all of her strength so my trembling body was completely surrounded by deep, grounding sibling pressure.
+
+"I've got you, Bear," Rachel whispered fiercely against the side of my head, resting her cheek against my hair while her hand rubbed a slow, steady circle across the back of my royal blue work shirt. **"I am your sister, and I am right here. I'm right here with you, and I am never letting go."**
+
+For a long, unbroken stretch of time, I just held onto her on the sofa and cried until the crushing vise around my lungs finally began to loosen and my breathing synced to the steady rise and fall of Rachel's chest.
+
+***
+
+#### 6:45 PM — Sealing the Vault Between Bear and Bug
+
+When the heaviest wave finally subsided and I lifted my wet face a few inches from her shoulder, wiping my eyes behind my glasses, a second, urgent realization hit my logical brain.
+
+I looked straight into Rachel's warm dark brown eyes, my hands still gripping her waist.
+
+"Bug," I whispered, my voice raw and dead serious, "please—you have to promise me something."
+
+"Anything, Bear," Rachel said softly, brushing a damp strand of hair back from my forehead. "Name it."
+
+"Please keep this strictly between the two of us," I begged her, my fingers tightening slightly on her sleeves. "Nobody else can ever know that Heather showed up at the Rec Center tonight, or how badly the memory of her still hurts me. Not **Kristin**, and not **Jessica**. Only you."
+
+Rachel looked into my eyes and understood the entire architecture of my heart without needing me to draw a diagram:
+* I don't trust **anyone** else with that memory.
+* I could never tell **Kristin**—or let her see me crying over a girl from 2008—because I love my life with Kristin with every ounce of my soul, and I would never, ever want Kristin to feel even a microsecond of doubt or hurt that a scarred corner of my nervous system still grieves the best friend who vanished on a bus fifteen years ago. (When we're in the car and a heavy 2008-era synth-rock track comes over the radio, Kristin—acting as my quiet Co-Administrator—doesn't even press `MUTE`, because muting the sound leaves the song title glowing on the screen; she simply changes the station to another channel, and we never speak Heather's name).
+* And I could never tell **Jessica**, because if Jessica found out that someone from my past had walked into my workplace and left me sobbing on the living room sofa, Jessica's protective executive instincts would treat Heather like **Delores** or **Master Curtis** and go on the warpath to destroy her. And Heather was *never* an abuser like Delores. She was just an overwhelmed nineteen-year-old Nuclear Medicine student who had given me a two-year sanctuary when I was broken, and then pulled the emergency cord the only way she knew how when her own bandwidth ran out.
+
+Only **Rachel**—my twin-in-spirit, my Bug, who had held me on this exact sofa on May 8, 2009—knew how both truths could live inside my chest at the exact same time.
+
+Rachel placed both hands on either side of my face, looked me dead in the eyes, and gave me her absolute, unbreakable word:
+
+"This stays locked between you and me forever, Bear," Rachel promised softly. "Not a word to Kristin, not a word to Jessica, not a word to a single soul. Whenever that wave hits you, you bring it straight to me, and I will hold it with you. It's just us."
+
+She pulled me back against her shoulder for one more long, quiet squeeze on the living room sofa—officially sealing the vault that only the two of us would ever hold.
+
+### Part 3: April 19, 2024: Ms. Susan, The Mutual Double-Take, & Anthony's Tape Review
+
+**Date:** 2024-04-19 at 17:31 America/New_York
+
+![At the 2017 Fairlawn Recreation Center Scan Station under the soaring glulam timber roof, Michael in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the high counter while coworker Ms. Susan reaches for the handheld two-way radio]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg)
+
 #### 5:31 PM — The Mutual Double-Take & The Null Zone Behind the Wall
 
-At **`5:31 PM`** on **Friday, April 19, 2024**, the Front Desk was humming along in standard Friday evening rhythm—two hours and twenty-nine minutes away from our `8:00 PM` Friday public close.
+Five weeks after that first Wednesday night in March when Rachel drove us home and sealed our secret pact on the living room sofa, came **Friday, April 19, 2024**.
 
-I was standing directly at the central **Scan Station**, checking the monitor as patrons trickled in from the parking lot for their after-work workouts, while my trusted coworker **Ms. Susan** was organizing clipboards a few feet down the counter.
+At **`5:31 PM`**, the **Fairlawn Recreation Center** Front Desk was humming along in standard Friday evening rhythm—two hours and twenty-nine minutes away from our `8:00 PM` Friday public close.
+
+I was standing in my royal blue polo shirt and **`MICHAEL`** nametag directly at the central **Scan Station**, checking the monitor as patrons trickled in from the parking lot for their after-work workouts, while my trusted coworker **Ms. Susan** was organizing clipboards a few feet down the counter.
 
 The automatic sliding glass entrance doors parted with a soft pneumatic whisper.
 
@@ -30105,33 +30204,33 @@ Because the high front desk counter acts as a physical blinder that cuts off the
 
 For two full seconds across the laminate counter, time stopped.
 
-It wasn't a one-sided sighting. Both of us did a visible, startled **mutual double-take**.
+Unlike March 13—when the shock had caught me five minutes before clock-out—this was an unmistakable, face-to-face **mutual double-take**.
 
 Behind her thin-rimmed rectangular glasses, Heather's eyes widened by a fraction of an inch—the unmistakable micro-expression of someone whose brain had just registered the face and the **`MICHAEL`** nametag behind the counter and thought, *Wait—is that who I think it is?*
 
 And inside my chest, before my analytical prefrontal cortex could even boot up a single line of logic, my somatic memory fired at one hundred percent capacity.
 
-My body didn't see a thirty-five-year-old stranger visiting from Charlottesville in 2024. My body saw **my favorite**—my 2008 CCHR best friend—and wanted, with a sudden, aching ferocity that knocked the wind out of my lungs, to step around the desk and pull her into one of our long, deep-pressure *"Best Friend Hugs"* just like we used to do every morning at the Susquehanna Drive bus stop.
+My body saw **my favorite**—my 2008 CCHR best friend—and wanted, with a sudden, aching pull in my chest, to step around the desk and pull her into one of our long, deep-pressure *"Best Friend Hugs"* just like we used to do every morning at the Susquehanna Drive bus stop.
 
-And one millisecond behind that biological urge came the ice-cold wall of **May 8, 2009**—her hands pushing against my chest on Route 25—accompanied by my brain's **audio hyperphantasia** kicking on like a studio master tape in my skull, blasting the driving, relentless synth-bass and clinical dread of [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) at full lossless volume inside my head.
+And one millisecond behind that biological urge came the ice-cold wall of **May 8, 2009**—her hands pushing against my chest on Route 25—accompanied by my brain's **audio hyperphantasia** kicking on like a studio master tape in my skull, playing the driving, relentless synth-bass and clinical dread of [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) at full lossless volume inside my head.
 
 Neither of us said a word.
 
-Outwardly, my decades of martial arts discipline from Master April's mat and my Front Desk training held my posture completely still. I gave the standard, neutral half-nod of a desk attendant confirming a green scan.
+Outwardly, remembering how Rachel had held me five weeks ago and promised she was right behind me, my martial arts discipline from Master April's mat and my Front Desk training held my posture completely still. I kept my mouth closed and gave the standard, neutral half-nod of a desk attendant confirming a green scan.
 
 Heather broke eye contact first, turned cleanly to her right, and walked around the corner **directly behind the solid rear structural wall of the Front Desk** into the **7,500-square-foot Weight Room**.
 
 The instant she stepped behind that wall, she entered the Front Desk's **100% visual `Null Zone`**—completely invisible from where I stood.
 
-My heart was hammering against my ribs at a hundred and thirty beats a minute, my hands tingling with adrenaline as the flood of happy `2007–2009` memories—and the crushing grief of how they ended—washed over me simultaneously.
+My heart was hammering against my ribs at a hundred and thirty beats a minute, my hands tingling with adrenaline as the flood of happy `2007–2009` memories—and the grief of how they ended—washed over me simultaneously.
 
-Knowing that if my nervous system tipped into an autistic overload I might go situationally mute, I took one controlled breath and stepped three feet down the counter toward **Ms. Susan**.
+Knowing that I still had two and a half hours left on the desk and wanting a safety net in place in case my nervous system tipped toward situational mutism, I took one controlled breath and stepped three feet down the counter toward **Ms. Susan**.
 
 "Ms. Susan," I said quietly, keeping my voice low enough that only she could hear me inside the desk bubble, "my ex is here."
 
 *(In the shorthand of a busy workplace, saying `"my ex"` takes two syllables instead of trying to explain a two-year pre-diagnostic autistic Safe Person dynamic from 2008 while your pulse is spiking).*
 
-Ms. Susan didn't ask a single prying question. Her eyes went immediately to my face, reading the tight stillness in my jaw, and she reached down and **picked up a handheld two-way facility radio**—holding it right at her hip as a quiet fail-safe in case I started to panic and needed immediate backup or a relief rotation off the floor.
+Ms. Susan didn't ask a single prying question. Her eyes went immediately to my face, reading the tight stillness in my jaw, and she reached down and **placed her hand on a handheld two-way facility radio** on the counter—keeping it ready right beside her as a quiet fail-safe in case I started to panic and needed immediate backup or a relief rotation off the floor.
 
 "I've got the radio right here, Michael," Ms. Susan murmured steadily. "Take a breath. Where did she head?"
 
@@ -30159,11 +30258,7 @@ I paused, meeting Anthony's eyes with dead-serious clarity so he understood the 
 
 Anthony nodded slowly, understanding the distinction immediately. "Understood, Michael. My office door is always open if you ever need five minutes off the desk."
 
-When I got home that Friday night, I didn't say a word about the `5:31 PM` double-take in front of anyone else. Only when **Rachel** and I stepped into our quiet upstairs Command Center—just the two of us, Bear and Bug—did I let my shoulders drop.
-
-Rachel took one look at my eyes, closed the laptop lid, and pulled me straight into her arms—holding me with the exact same silent, unshakeable deep pressure she had given me at `3:13 PM` on May 8, 2009, while I whispered to her that Heather had walked into the Rec Center and that we had both recognized each other across the scanner.
-
-"You held the line, Bear," Rachel whispered against my collarbone, her arms locked tight around my back so my nervous system could finally power down. "And I've got you right here."
+When I got home that Friday night, true to our March 13 pact, I didn't say a word about the `5:31 PM` double-take in front of anyone else. Only when **Rachel** and I stepped into our quiet upstairs Command Center—just the two of us, Bear and Bug—did I let my shoulders drop into her arms while I whispered to her that Heather had walked in again, that we had both recognized each other across the scanner, and that Anthony had commended me for holding my ground on the security tape.
 
 Eighteen months later—on **Friday, October 17, 2025, at `1:24 PM`**, during my `11:45 AM – 8:15 PM` shift—Heather scanned into Fairlawn Recreation Center one more time before returning to Charlottesville. That afternoon, I happened to be stationed at the **Far-Left Corner Register** ringing up a patron's transaction—completely shielded by the spatial firewall at the far end of the counter—and didn't even see her face as she slipped behind the wall into the Weight Room.
 
