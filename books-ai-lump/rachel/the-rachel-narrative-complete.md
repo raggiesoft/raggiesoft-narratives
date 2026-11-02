@@ -548,7 +548,7 @@ The morning humidity coming off the Elizabeth River already smelled like warm co
 
 "We've got it, Mom," fourteen-year-old Jessica promised, adjusting her clear wire-rimmed glasses and settling her canvas backpack over both shoulders. Before the station wagon had even merged back into the Norfolk traffic, my older sister stepped straight into position on my left flank, while seven-year-old Rachel reached up with her right hand and laced her fingers tightly through mine.
 
-It was five years before [the November 1999 portico accident when nineteen-year-old Jessica fell while hanging Christmas lights](https://books.raggiesoft.com/rachel/high-school/the-holding-pattern/the-daytime-warden-the-logic-blueprint), back in the bright, unbroken summers when all three of us walked onto campus on our own two feet. At nine years old, wearing the same royal-blue VDU Summer Camp t-shirt as my sisters, I didn't care how many other kids were milling around the check-in tables; from the moment our shoes touched the pavement until the moment Mom picked us up in the afternoon, Rachel and I kept our hands locked together.
+Just like [at home in the bottom bunk on Delaney Street](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement), where Rachel and I stayed side by side to keep the static quiet, the three of us operated as a single unit whenever we stepped onto campus. At nine years old, wearing the same royal-blue VDU Summer Camp t-shirt as my sisters, I didn't care how many other kids were milling around the check-in tables; from the moment our shoes touched the pavement until the moment Mom picked us up in the afternoon, Rachel and I kept our hands locked together.
 
 ![Nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica walking with their VDU Youth Summer Camp counselor and fellow campers across the concrete plaza of Dominion Mall at Virginia Dominion University in July 1994]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
 
@@ -562,9 +562,9 @@ By noon, when the counselors marched all the different age brackets through the 
 
 Later that afternoon, as the sun slanted across the water jets of the circular fountain and our counselor lined our group up along the curb for parent pick-up, Rachel leaned her shoulder against my arm. Her small seven-year-old fingers were still laced securely through mine.
 
-"When we grow up and go to college," Rachel whispered, looking back across the wide concrete plaza toward the library and Monarch Commons, "we already know where all the buildings are, Bear."
+"When we grow up and go to college," Rachel whispered, looking back across the wide concrete plaza toward the library and Monarch Commons, "we already know where all the buildings are, Michael."
 
-"Every single one of them, Bug," I said, giving her hand a gentle squeeze as Mom's car pulled into view at the end of the loop—never imagining how many miles, or how many years, the three of us would have to cross before Rachel and I finally walked across Dominion Mall together again.
+"Every single one of them, Rach," I said, giving her hand a gentle squeeze as Mom's station wagon pulled into view at the end of the pick-up loop and fourteen-year-old Jessica waved us toward the curb.
 
 # The Saltwater Summer
 
@@ -2190,7 +2190,7 @@ Rachel wiggled happily, tapping a rapid, joyful beat against my forearm. Between
 
 **Date:** 1995-08-16 at 19:00 America/New_York
 
-![Ten-year-old Michael and eight-year-old Rachel holding hands on the bottom bunk in their pajamas as Bear and Bug while fourteen-year-old Jessica sits cross-legged with a flashlight guarding the closed bedroom door.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/bear_and_bug_bunk_fortress_1995.jpg)
+![Ten-year-old Michael and eight-year-old Rachel holding hands on the bottom bunk in their pajamas while fourteen-year-old Jessica sits cross-legged with a flashlight guarding the closed bedroom door.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b002/bear_and_bug_bunk_fortress_1995.jpg)
 
 #### 7:00 PM — Shore Power
 
@@ -30140,7 +30140,7 @@ Rachel tilted her head, her warm brown eyes sparkling behind her glasses as she 
 
 "Exactly," I grinned.
 
-"So how does the future Director of Operations solve that?" she asked, stepping closer so her toes brushed mine on the carpet.
+"So how do we solve that, Bear?" she asked, stepping closer so her toes brushed mine on the carpet.
 
 "We alternate every single night," I said, looking between the two open wings. "Both beds are already made up with our sheets and quilts. On odd nights—starting tonight—we share my full-sized bed in Bedroom 1. On even nights, we share your full-sized bed in Bedroom 2. Both bedrooms stay naturally, equally lived-in, both mattresses wear evenly, and we never spend a single night apart."
 
@@ -30330,7 +30330,7 @@ I let out a huge breath of relief that I felt all the way down to my ribs. "Than
 
 "Don't worry, Doctor," Rachel said, resting her free hand squarely on the rear push-handle of the blue wheelchair while keeping her other hand laced tightly through mine. "I'm his RHA Secretary and his perimeter guard. His feet aren't touching a single hill in Blacksburg."
 
-With the signed medical travel clearance tucked safely into our binder and Kyleen notifying The Hotel at Poly in Blacksburg to assign Rachel and me a ground-floor ADA accessible double-queen room—Room 114—we were officially cleared for [our Friday morning departure to SAACURC 2016](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly). And even better, the four-month countdown to walking into the Virginia Beach DMV together had officially begun.
+With the signed medical travel clearance tucked safely into our binder and a quick text sent to Kyleen so she could ask The Hotel at Poly in Blacksburg to put Rachel and me in a ground-floor accessible room for the weekend, we walked out of the clinic into the crisp February sunshine—ready for Friday morning's mountain road trip, and four months away from walking into the Virginia Beach DMV together.
 
 # The Mountain Conference (SAACURC 2016)
 
@@ -30754,7 +30754,7 @@ With an hour to spare before the Virginia Beach DMV Customer Service Center clos
 
 Back home on Moosewood Drive that evening, while Ashley, Kristin, and Jessica crowded around the kitchen island to celebrate and inspect our temporary license slips, Mom picked up her phone, called her auto insurance carrier, and added both of her newly licensed adult kids—Michael at twenty-eight and Rachel at twenty-six—as listed insured drivers on the policy for her silver sedan.
 
-Even though Rachel and I still rode the CVTA bus or caught rides with Ashley for most of our everyday errands around Virginia Beach and Norfolk, having our full Virginia driver's licenses in our wallets and continuous insurance coverage on Mom's policy meant that whenever we wanted to borrow Mom's car—whether for a quick evening run across town or [a Thanksgiving road trip up to the Shenandoah Valley to visit our friend Terry in Luray](https://books.raggiesoft.com/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/thanksgiving-in-the-page-valley-u-s-route-211-dinner-with-terry-the-single-queen-sanctuary/borrowing-mom-s-car-thanksgiving-with-terry-in-luray-the-single-queen-bed-on-us-211)—the open road was officially ours.
+Even though Rachel and I still rode the CVTA bus or caught rides with Ashley for most of our everyday errands around Virginia Beach and Norfolk, having our full Virginia driver's licenses in our wallets and continuous insurance coverage on Mom's policy meant that whenever we wanted to borrow Mom's car—whether for a quiet evening run across town or a weekend drive out past the bay—the open road was officially ours.
 
 # Thanksgiving in Luray & The Court Square Crosswalk (November 2017)
 
@@ -30944,7 +30944,7 @@ Before I shifted the car out of Park, Rachel wrapped both arms around my neck ac
 
 "Let's go home, Bug," I breathed, hugging her back before we clicked our seatbelts and laced our fingers together across the console.
 
-Pulling smoothly out of the parking space onto southbound U.S. Route 11 along South Main Street, we cruised through the south side of Harrisonburg completely clear of the Milepost 244 interstate backup and rejoined Interstate 81 South at Exit 243. As we settled into the right lane toward Interstate 64 East for the peaceful afternoon run back to Moosewood Drive—already agreeing between the two of us that we were going to wire a rear window camera into the back glass to pair with our front dashcam so we would always have video both ahead and behind us on the road, long before [we ever shopped for a car of our own](https://books.raggiesoft.com/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-2-the-cashier-s-check-joint-virginia-title-vsa-17a-driving-our-avalon-home)—Mom's Uninsured Motorist coverage was already set to take care of the scuffed rear bumper once the deputy's report revealed why the other driver had panicked about their missing policy number.
+Pulling smoothly out of the parking space onto southbound U.S. Route 11 along South Main Street, we cruised through the south side of Harrisonburg completely clear of the Milepost 244 interstate backup and rejoined Interstate 81 South at Exit 243. As we settled into the right lane toward Interstate 64 East for the peaceful afternoon run back to Moosewood Drive, Rachel and I were already agreeing between the two of us that the very next time we worked on our dashcam setup, we were going to wire a rear window camera into the back glass to pair with the front lens—making sure we always had clear video both ahead of us and behind us on the road.
 
 # The 2020 Horizon Avalon (February 2020)
 
