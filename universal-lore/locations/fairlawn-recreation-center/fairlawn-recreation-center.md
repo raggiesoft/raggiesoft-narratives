@@ -28,18 +28,17 @@ The original building functions as a 1:1 drop-in replacement for the Kempsville 
 
 ---
 
-## The 2017 Building (Active 2017 - Present)
+## The 2017 Building (Active June 2017 - Present)
 
-The original 1977 building closes in 2015. The brand new building opens in 2017, introducing modern amenities that resolve many of the original building's limitations.
+The original 1977 building closes in **2015** and is completely demolished on the same site. Following a two-year, \$32 million ground-up rebuild (`2015–2017`, during which Fairlawn patrons and staff are temporarily displaced to neighboring municipal centers across the city), the brand-new **87,116-square-foot Fairlawn Recreation Center** opens in **June 2017**, modeled 1:1 on the modern 2017 Kempsville Recreation Center in Virginia Beach.
 
-### Assisted Care Facilities
-*   The new building features **3 Assisted Care facilities**.
-*   Each facility includes:
-    *   Toilet
-    *   Sink
-    *   Shower
-    *   A small chair for changing
-*   **Purpose:** The small chair was specifically built and included with a parent (or older sibling/guardian) helping an opposite-gender child in mind, officially resolving the changing room limitation from the 1977 era.
+### Architectural Signature & Core Upgrades
+*   **The "Sand Dune Fence" & Ocean-Wave Timber Roof:** Built with soaring glued-laminated timber (`glulam`) beams that twist and curve across the roofline to evoke coastal sand dunes and ocean waves, paired with massive northern glass walls for natural daylight harvesting, bamboo flooring, and a geothermal HVAC system.
+*   **Single-Level Primary Circulation with Elevated Mezzanine Track:** Replaces the 1977 building's steep three-story concrete helix ramp and key-locked elevator with a unified ground-floor main concourse (housing the Front Desk, Weight Room/Fitness Center, Double Gymnasium, Natatorium, and 8 multipurpose rooms) crowned by a second-floor **Mezzanine** featuring an **elevated 1/8-mile (`8 laps = 1 mile`) indoor walking and jogging track**.
+*   **3 Assisted Care Changing Suites:**
+    *   The 2017 building features **3 dedicated Assisted Care / Family changing rooms** alongside the standard Men's and Women's locker rooms.
+    *   Each private suite includes a **toilet**, **sink**, **roll-in shower**, and a **small changing chair**.
+    *   **Purpose:** The small chair was specifically engineered with a parent, older sibling, or guardian helping an opposite-gender family member in mind—permanently resolving the strict single-gender locker room barrier of the 1977 building.
 
 # Fairlawn Recreation Center
 
@@ -213,11 +212,79 @@ Open to anyone age 9+ unsupervised during Open Gym times.
 Typically used when there's a swimming and diving competition or water
 polo event.
 
-## New Building (Opens in 2017)
+## New Building (Opened June 2017 -- Present)
 
-- Will construct a layout based on the real life Kempsville Recreation
-  Center, the new building which opened in 2017, replacing the original
-  1977 building which closed in 2015
+Modeled 1:1 on the modern **Kempsville Recreation Center** in Virginia Beach (designed by HBA Architecture & Interior Design and Moody Nolan), the **2017 Fairlawn Recreation Center** is an **87,116-square-foot** multigenerational wellness facility built directly on the footprint of the demolished 1977 structure along Marlborough Drive (just off Princess Anne Road, five minutes down the road from the residential **Susquehanna Drive** corridor).
+
+### The 2015–2017 Demolition & Displacement Window
+
+- **2015 Closure & Teardown:** After 38 years of continuous service, the original 1977 brick-and-concrete-ramp building closed in **2015** and was completely demolished.
+- **2015–2017 Patron & Staff Displacement:** During the two-year construction window, Fairlawn's regular patrons and recreation staff were temporarily displaced across neighboring city recreation centers before returning home when the new building opened its doors in **June 2017**.
+
+### Operating Hours & Front-Desk Shift Architecture (2017–2026)
+
+- **Monday -- Thursday:** Open until **9:00 PM** (`21:00`). Closing front-desk staff and the **Duty Supervisor / Lead Cashier** are scheduled until **9:15 PM** (`21:15`), with preliminary register till counts and evening closing prep beginning between `8:30 PM` and `8:45 PM`.
+- **Friday:** Open until **8:00 PM** (`20:00`). Closing staff are scheduled until **8:15 PM** (`20:15`), with the `15-minute` closing sweep and Back Office register countdown initiating promptly at **7:45 PM**.
+- **Saturday:** Open **9:00 AM -- 5:00 PM** (staff scheduled `8:45 AM -- 5:15 PM`).
+- **Sunday:** Open **11:00 AM -- 5:00 PM** (staff scheduled `10:45 AM -- 5:15 PM`).
+
+### Exterior & Structural Design
+
+- **The "Sand Dune Fence" & Ocean-Wave Glulam Roof:** The building's signature architectural element is a sweeping, twisting roof structure framed with heavy glued-laminated timber (`glulam`) beams designed to evoke coastal sand dunes, drift fences, and rolling ocean waves.
+- **Daylight Harvesting & Geothermal HVAC:** Massive northern glass curtain walls flood the lobby commons, natatorium, and fitness zones with diffused natural light while minimizing solar heat gain, supported by bamboo wood accents and a high-efficiency geothermal HVAC plant.
+- **Resurfaced Parking Lot:** The notorious axle-breaking potholes of the 1977 parking lot were completely eliminated during the 2017 site reconstruction.
+
+### First Floor: The Front Desk, Scan Station, & Back Office Complex
+
+Positioned immediately inside the main automatic sliding glass entrance doors, the **Front Desk** serves as the centralized command post and circulation bottleneck for the entire 87,116-square-foot building:
+
+- **The Central Scan Station (The Lower-Body Blinder):**
+  - Located at the primary check-in point of the front desk where patrons scan their barcode membership cards or keytags upon entry.
+  - **Physical Geometry:** Because of the high elevation and solid face of the front desk counter, the counter acts as a **physical lower-body blinder**—completely cutting off a patron's lower body and shoes from the desk staff's field of view and locking eye level strictly to the patron's upper torso, shoulders, and face.
+  - **The Check-In Monitor:** Displays the patron's live profile photo, full legal name (`FIRST LAST`), residential street address, and membership tier the instant a barcode is scanned (or when a staff member performs a manual lookup).
+- **The Cash Registers (Paper Currency & Card Only — Zero Coins):**
+  - Just like the 1977 era, the cash registers at Fairlawn Recreation Center **do not carry coins**; all membership and day-pass fees are rounded to whole dollars and transacted strictly in paper currency or credit/debit cards.
+  - **The Adjacent Register:** Positioned immediately next to the Scan Station. Operating from this terminal gives the **Duty Supervisor / Lead Cashier** a micro-second of physical separation from the scanner queue while maintaining direct visual and operational oversight of the check-in lane.
+  - **The Far-Left Corner Register (The "Spatial Firewall"):** Positioned at the far left end of the front desk counter, furthest from both the Scan Station and the main entrance doors. A cashier actively processing a transaction at this corner terminal is angled away from the check-in bottleneck and out of direct line-of-sight of incoming patrons scanning in at the central station.
+- **The Front Desk Employee Speaker:**
+  - A local, low-volume speaker mounted at the front desk that plays background radio or streaming music strictly within the staff's immediate workspace bubble (audible to employees standing at the desk and patrons paused directly at the Scan Station, without broadcasting over the facility-wide public address system).
+- **The Back Office (The "Safe Bunker"):**
+  - Located directly through the staff door behind the front desk complex, completely shielded from public sightlines.
+  - Serves as the secure administrative bunker where the **Duty Supervisor / Lead Cashier** takes off-the-floor 30-minute meal breaks, counts down the paper-currency register tills at the end of the night (`7:45 PM` on Fridays; `8:30 PM -- 8:45 PM` Monday–Thursday), and compiles the nightly financial and attendance closing report.
+
+### Facility Program Zones & Front-Desk Sightline Geometry
+
+Although the 2017 building was architecturally conceived around open circulation, the actual sightlines from behind the **Front Desk** divide the facility into distinct visibility zones:
+
+1. **The 7,500-Sq-Ft Weight Room & Fitness Center (100% Visual "Null Zone"):**
+   - Located on the first floor **directly behind the solid rear structural wall of the Front Desk** (paired with an enclosed group fitness and dance aerobics studio).
+   - **Sightline Reality:** Once a patron scans in at the Front Desk and walks around the corner behind that solid wall into the Weight Room, they enter a **complete visual blind spot (`Null Zone`)**. It is physically impossible for staff at the Front Desk to see into the Weight Room; the patron remains 100% invisible until they finish their workout and walk back out toward the main exit doors.
+2. **The Modern Natatorium / Aquatic Center (Low-Visibility Zone):**
+   - Located on the ground floor (eliminating the 1977 building's second-floor pool elevation) and separated from the lobby by acoustic glass and locker room corridors:
+     - **6-Lane, 25-Meter Competition Pool:** Equipped with diving areas and a **25-foot-high glass rock-climbing wall** rising directly over the deep end.
+     - **Zero-Depth-Entry Leisure Pool & Lazy River:** Features a sloped beach-style zero-depth entry, coastal Virginia Beach-themed interactive water play structures, and an **aqua-track / lazy river** current channel.
+     - **3 Assisted Care Changing Suites + Men's & Women's Locker Rooms:** Features three private family/guardian Assisted Care changing rooms (each with toilet, sink, roll-in shower, and small changing chair) so opposite-gender siblings, parents, or caregivers can assist one another without ever encountering the 1977 building's single-gender locker room wall.
+3. **The Double Gymnasium (Low-Visibility Zone):**
+   - A full two-court gymnasium (`Gym 1` and `Gym 2`, divisible by a motorized drop-curtain) used for open basketball, adult ball, volleyball, badminton, pickleball, and futsal. Viewed from the Front Desk, the gym floor sits at a low-visibility angle away from the immediate check-in counter.
+4. **The Second-Floor Mezzanine & Elevated 1/8-Mile Indoor Track (Primary Vertical Sightline Hazard):**
+   - The second level of the 2017 building is an open **Mezzanine** dominated by an elevated **1/8-mile (`8 laps = 1 mile`) indoor walking and jogging track**.
+   - **The 24-Pass Sightline Loop:** The elevated track winds dynamically through the upper volume of the building—looping directly past the open upper atrium of the **Front Desk / Lobby Commons**, overlooking the Fitness Center, running alongside the Double Gymnasium, and cutting through an upper observation gallery above the Natatorium.
+   - Because the lobby segment of the Mezzanine track passes directly through the upper vertical field of view of the Front Desk, a patron walking a standard three-mile workout (`24 laps`) crosses the Front Desk's upper sightline **24 separate times**—making vertical sightline discipline (keeping eyes locked horizontally or downward on the monitor, scanner, and counter) essential if a desk employee wishes to avoid looking up at walkers on the Mezzanine.
+5. **Community Wing & Youth Classrooms:**
+   - Includes **8 multipurpose meeting rooms**, catering kitchen facilities, administrative offices, and **3 early-childhood / youth camp classrooms** used for municipal Parks & Recreation programming.
+
+### Modern Front-Desk Operational Protocols (2024–2026)
+
+- **The Legacy Month-to-Month Auto-Draft Anomaly:**
+  - While standard 2025–2026 resident rates are **\$120/year** (`Adult Resident Annual`) or **\$27 for 30 days** (`\$12 Adult Day Pass`), the recreation database still honors a grandfathered **Month-to-Month Auto-Draft Membership** tier from years earlier that the city no longer sells to new patrons. As long as a legacy member keeps their auto-draft card active and never cancels, the Month-to-Month membership stays alive indefinitely; once terminated, it can never be re-purchased.
+- **The "Hopper" Compliance Audit & Day-Pass Mercy Protocol:**
+  - When the **Duty Supervisor / Lead Cashier** catches a non-member attempting to piggyback or "hop" past the Scan Station or into the gym/pool without an active pass, standard enforcement is firm but measured: the supervisor stops the unauthorized entry, logs a permanent compliance note on the individual's profile in the citywide database (establishing a documented paper trail across all municipal recreation centers), and offers a one-time courtesy option to purchase a **\$12 Day Pass** at the register rather than issuing an immediate facility suspension.
+- **The `Code Susquehanna` Personal Sightline & Firewall Protocol (`2024–2026`):**
+  - Engineered by **Michael Ragsdale** during his shifts as Front Desk **Duty Supervisor / Lead Cashier** after discovering that both **Heather Bouchard (`Twin A`)**—now a hospital Nuclear Medicine Technologist living in Charlottesville who retains a grandfathered Month-to-Month membership registered to her family's longtime house on **Susquehanna Drive** five minutes up the road—and her identical twin sister **Hailey Bouchard (`Twin B`)**—who lives full-time at the Susquehanna Drive house and holds an Adult Resident Annual Membership—independently use Fairlawn Recreation Center (`books/rachel/e022`):
+    1. **The Identical-Twin Hardware Check (Scan Before Speech):** Because Heather and Hailey share a `1:1` identical facial geometry and Heather's tiny forehead hairline freckle ("birth mark") is hidden beneath her bangs, Michael's brain cannot visually determine which twin is standing at the counter until the barcode hits the laser scanner. Under the **Teflon Protocol**, if either twin approaches or speaks before scanning, he points directly to the scanner first (*"I'll need you to go ahead and scan your membership card for me first, please"*) so the monitor identifies **`HEATHER BOUCHARD`** (`Twin A`) vs. **`HAILEY BOUCHARD`** (`Twin B`).
+    2. **The "Corporate We" & Zero-Pronunciation Rule:** Speaking strictly as the institutional voice of the recreation center (*"Welcome back to us"* / *"You're all scanned in, have a great workout!"*) while never speaking their first or last names aloud at the desk.
+    3. **The Québécois Phonetic Firewall:** Internally routing the family surname **`Bouchard`** through its formal French-Canadian / Québécois phonetic register rather than the familiar Anglicized pronunciation Heather taught him on the CCHR bus in 2007—engaging the analytical prefrontal cortex to starve the amygdala of panic bandwidth.
+    4. **Null-Zone Routing & Vertical Sightline Lock:** Relying on the solid wall behind the Front Desk to absorb the patron into the Weight Room (`100% Null Zone`), locking vertical sightlines downward away from the `8-laps-to-the-mile` Mezzanine track, and retreating to the **Back Office** at `7:45 PM` (Fridays) or `8:30 PM` (Mon–Thu) to count down the register tills while a co-worker staffs the front counter through closing.
 
 ## Fairlawn Recreation Center: Operational Notes (2007)
 
