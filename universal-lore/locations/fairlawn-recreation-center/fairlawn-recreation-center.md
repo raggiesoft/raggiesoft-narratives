@@ -234,22 +234,30 @@ Modeled 1:1 on the modern **Kempsville Recreation Center** in Virginia Beach (de
 - **Daylight Harvesting & Geothermal HVAC:** Massive northern glass curtain walls flood the lobby commons, natatorium, and fitness zones with diffused natural light while minimizing solar heat gain, supported by bamboo wood accents and a high-efficiency geothermal HVAC plant.
 - **Resurfaced Parking Lot:** The notorious axle-breaking potholes of the 1977 parking lot were completely eliminated during the 2017 site reconstruction.
 
-### First Floor: The Front Desk, Scan Station, & Back Office Complex
+### First Floor: The Wide-Open Lobby, 5-Workstation Seated Front Desk, & Back Office Complex
 
-Positioned immediately inside the main automatic sliding glass entrance doors, the **Front Desk** serves as the centralized command post and circulation bottleneck for the entire 87,116-square-foot building:
+Positioned immediately inside the main automatic sliding glass entrance/exit doors (marked on the interior by a glowing overhead **`EXIT` sign**), the **Front Desk** overlooks a **wide-open, spacious, and inviting lobby concourse** where patrons can circulate freely without crowding near the doors:
 
-- **The Central Scan Station (The Lower-Body Blinder):**
-  - Located at the primary check-in point of the front desk where patrons scan their barcode membership cards or keytags upon entry.
-  - **Physical Geometry:** Because of the high elevation and solid face of the front desk counter, the counter acts as a **physical lower-body blinder**—completely cutting off a patron's lower body and shoes from the desk staff's field of view and locking eye level strictly to the patron's upper torso, shoulders, and face.
-  - **The Check-In Monitor:** Displays the patron's live profile photo, full legal name (`FIRST LAST`), residential street address, and membership tier the instant a barcode is scanned (or when a staff member performs a manual lookup).
-- **The Cash Registers (Paper Currency & Card Only — Zero Coins):**
-  - Just like the 1977 era, the cash registers at Fairlawn Recreation Center **do not carry coins**; all membership and day-pass fees are rounded to whole dollars and transacted strictly in paper currency or credit/debit cards.
-  - **The Adjacent Register:** Positioned immediately next to the Scan Station. Operating from this terminal gives the **Duty Supervisor / Lead Cashier** a micro-second of physical separation from the scanner queue while maintaining direct visual and operational oversight of the check-in lane.
-  - **The Far-Left Corner Register (The "Spatial Firewall"):** Positioned at the far left end of the front desk counter, furthest from both the Scan Station and the main entrance doors. A cashier actively processing a transaction at this corner terminal is angled away from the check-in bottleneck and out of direct line-of-sight of incoming patrons scanning in at the central station.
+- **Uniform ADA Wheelchair-Accessible Counter Height & Seated Workstations:**
+  - **100% Uniform Low Counter Height:** Unlike split-level counters, the entire Front Desk counter is built at a **single, uniform wheelchair-accessible height** from end to end—low enough that a patron in a wheelchair (like **Jessica**) can roll comfortably up to any station on the counter to receive service, while the solid bamboo-paneled front face of the desk still acts as a **physical lower-body blinder** that blocks sightlines to a patron's shoes from behind the counter.
+  - **Seated Workstations (Essential for Michael's Cerebral Palsy):** At the front desk of all municipal recreation centers across the city, **Clerk-Cashiers** and **Duty Supervisors** get to **sit down in ergonomic rolling office chairs** at their workstations rather than standing for hours—a vital everyday ergonomics baseline for **Michael's cerebral palsy**.
+- **The 5-Workstation Front Counter Layout (`2 Cash Registers Left — 1 Center Scan Station — 2 Cash Registers Right`):**
+  - Five computer workstations are spaced evenly along the uniform-height front counter, with all monitors facing inward toward the seated staff:
+  - **The Center Workstation (`Workstation 3` — The Scan Station):**
+    - Sits in the middle of the front counter flanked by two cash registers on either side.
+    - Consists of the same desktop workstation computer as the four registers, **plus a tabletop barcode reader facing the patrons**.
+    - **The Two-Card Hard Plastic Membership Set:** Members are issued a matching set of two hard-plastic barcode cards—a **credit-card-sized membership card** and a **keychain-sized keytag**.
+    - **Check-In Only (Zero Financial Transactions):** The Center Scan Station **cannot process financial transactions of any kind**; it can *only* check members in when they scan their membership card or keytag at the barcode reader.
+    - **The `mPad` & Keyboard Manual Check-In (`Name + Date of Birth`):** For patrons who forgot their physical membership cards, the Scan Station is equipped with an **`mPad` paired with a physical keyboard** where the Clerk-Cashier types in the patron's name and asks for their **date of birth (`DOB`)** to verify their identity and manually check them in.
+  - **The Four Cash Registers (`2 on the Left` and `2 on the Right` of the Scan Station — Paper Currency & Card Only, Zero Coins):**
+    - Two cash register workstations sit to the left of the Center Scan Station (`Workstations 1 & 2`) and two sit to the right (`Workstations 4 & 5`).
+    - All financial transactions (Day Passes, Annual/30-Day Memberships, program registrations) must be rung up at one of these four registers. Just like the 1977 era, the cash registers **do not carry coins**, dealing strictly in whole-dollar paper currency and credit/debit cards.
+    - **The Adjacent Registers (`Workstations 2 & 4`):** Positioned immediately on either side of the Center Scan Station—offering a micro-second physical buffer while allowing the seated **Duty Supervisor / Lead Cashier** to maintain direct oversight of the scanner and `mPad`.
+    - **The Far-Left Corner Register (`Workstation 1` — The "Spatial Firewall"):** Positioned at the far left end of the front counter, furthest from both the Center Scan Station and the automatic front entrance doors. A Clerk-Cashier seated and ringing up a transaction at this far-left terminal is naturally buffered away from the check-in lane.
 - **The Front Desk Employee Speaker:**
-  - A local, low-volume speaker mounted at the front desk that plays background radio or streaming music strictly within the staff's immediate workspace bubble (audible to employees standing at the desk and patrons paused directly at the Scan Station, without broadcasting over the facility-wide public address system).
+  - A local, low-volume speaker mounted at the rear counter of the front desk that plays background radio or streaming music strictly within the staff's immediate workspace bubble (audible to employees seated at the desk and patrons paused directly at the Scan Station, without broadcasting over the facility-wide public address system).
 - **The Back Office (The "Safe Bunker"):**
-  - Located directly through the staff door behind the front desk complex, completely shielded from public sightlines.
+  - Located directly through the staff door centered in the solid wall behind the front desk complex, completely shielded from public sightlines.
   - Serves as the secure administrative bunker where the **Duty Supervisor / Lead Cashier** takes off-the-floor 30-minute meal breaks, counts down the paper-currency register tills at the end of the night (`7:45 PM` on Fridays; `8:30 PM -- 8:45 PM` Monday–Thursday), and compiles the nightly financial and attendance closing report.
 
 ### Facility Program Zones & Front-Desk Sightline Geometry

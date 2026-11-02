@@ -30036,24 +30036,11 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 ![At 6:02 PM in the 2017 Fairlawn Recreation Center parking lot, Rachel sits in the driver's seat of their shared car looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home instead of taking over the wheel]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/march_2024_parking_lot_rachel_drives_home.jpg)
 
-#### 5:45 PM — The 2017 Building & Five Minutes Left on the Clock
+#### 5:50 PM — Five Minutes Left on the Clock
 
-If you grew up in our corner of Virginia Beach during the 1990s or the mid-2000s, the words **Fairlawn Recreation Center** probably still conjure up the old `1977` brick building on Marlborough Drive—the one with the axle-breaking potholes in the parking lot, the temperamental two-lane bowling alley, the strict Men's and Women's locker rooms that had zero family changing spaces, and that massive, unpainted dark-grey concrete spiral ramp helixing up from the first-floor lobby to the second-floor check-in desk and natatorium.
+Sitting in my chair behind the Front Desk at the **Fairlawn Recreation Center** in my royal blue polo shirt and pinned **`MICHAEL`** chest nametag on the late afternoon of **Wednesday, March 13, 2024**, I was ten minutes away from clocking out at **`6:00 PM`**.
 
-That 1977 building closed its doors for good in **2015** and was torn down to the bare earth. For two years while the city built its replacement on the exact same footprint, Fairlawn's regulars and staff were scattered across neighboring municipal recreation centers around the city. Then, in **June 2017**, the brand-new, **87,116-square-foot Fairlawn Recreation Center** opened its automatic sliding glass doors.
-
-Standing behind the **Front Desk** in my **royal blue polo shirt** and pinned **`MICHAEL`** chest nametag on the late afternoon of **Wednesday, March 13, 2024**, the 2017 building felt like a second home. Overhead, heavy glued-laminated timber beams twisted and soared across the ceiling in a coastal **"Sand Dune Fence"** and ocean-wave roofline, flooding the bamboo-accented lobby commons with diffused daylight through massive northern glass curtain walls. The old three-story concrete ramp was long gone; all of the primary program zones now sat on a unified ground level—including the **Double Gymnasium**, eight multipurpose meeting rooms, a massive modern **Natatorium** (complete with a six-lane 25-meter competition pool, a 25-foot glass rock-climbing wall over the deep end, a zero-depth-entry leisure pool and lazy river, and **three private Assisted Care changing suites** equipped with a toilet, sink, shower, and a small changing chair so opposite-gender family members never had to face the old 1977 locker room barrier again), and a **7,500-square-foot Weight Room and Fitness Center** tucked directly behind the solid rear structural wall of the Front Desk.
-
-Looping above us on the second-floor **Mezzanine** was an elevated **`1/8-mile` (`8 laps to the mile`) indoor walking and jogging track** that wound through the upper volume of the building—cutting past the upper lobby atrium right above the Front Desk, overlooking the Weight Room, running alongside the gym, and passing through an observation gallery over the pool.
-
-Down here immediately inside the main entrance doors, the **Front Desk** was the bottleneck and command post for the entire building:
-* At the center of the counter sat the **Scan Station**, where members swiped or scanned their barcode keytags and membership cards. Because the front counter was built high and solid, it acted as a **physical lower-body blinder**—completely cutting off a patron's lower half and shoes from our line of sight behind the desk and locking eye contact strictly to the patron's upper torso and face.
-* Flanking the Scan Station were our point-of-sale **Cash Registers**—which, in a proud carry-over from 1977, still **did not carry coins**, dealing strictly in whole-dollar paper currency and credit/debit cards: the **Adjacent Register** immediately beside the Scan Station, and the **Far-Left Corner Register** at the far end of the counter, angled away from the scanner and the front doors like a natural spatial firewall.
-* Directly through the staff door behind us was the **Back Office**—an enclosed, windowless administrative bunker completely out of public sightlines where the **Duty Supervisor / Lead Cashier** took thirty-minute meal breaks, counted down the paper-currency register tills at the end of the night, and compiled the evening closing report.
-
-At `5:50 PM` that Wednesday afternoon, I was ten minutes away from clocking out at **`6:00 PM`**.
-
-Outside in the newly resurfaced Fairlawn Recreation Center parking lot, my sister **Rachel** was just pulling into a parking space in the car the two of us now shared, right on time to pick me up at six o'clock.
+Outside in the parking lot, my sister **Rachel** was just pulling into a parking space in the car the two of us now shared, right on time to pick me up at six o'clock.
 
 Our plan for the evening was simple and routine: Rachel had driven our shared car over to the Rec Center to pick me up, and once I clocked out at `6:00 PM` and walked out to the parking lot, **Rachel was going to slide over into the passenger seat and I was going to take over driving us home**.
 
@@ -30182,7 +30169,7 @@ She pulled me back against her shoulder for one more long, quiet squeeze on the 
 
 **Date:** 2024-04-19 at 17:31 America/New_York
 
-![At the 2017 Fairlawn Recreation Center Scan Station under the soaring glulam timber roof, Michael in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the high counter while coworker Ms. Susan reaches for the handheld two-way radio]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg)
+![At the Fairlawn Recreation Center Scan Station, Michael seated in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the front counter while coworker Ms. Susan sits beside him at her register]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg)
 
 #### 5:31 PM — The Mutual Double-Take & The Null Zone Behind the Wall
 
@@ -30190,13 +30177,13 @@ Five weeks after that first Wednesday night in March when Rachel drove us home a
 
 At **`5:31 PM`**, the **Fairlawn Recreation Center** Front Desk was humming along in standard Friday evening rhythm—two hours and twenty-nine minutes away from our `8:00 PM` Friday public close.
 
-I was standing in my royal blue polo shirt and **`MICHAEL`** nametag directly at the central **Scan Station**, checking the monitor as patrons trickled in from the parking lot for their after-work workouts, while my trusted coworker **Ms. Susan** was organizing clipboards a few feet down the counter.
+I was seated in my chair in my royal blue polo shirt and **`MICHAEL`** nametag at the **Scan Station**, checking the monitor as patrons strolled in from the parking lot for their after-work workouts, while my trusted coworker **Ms. Susan** was seated at a register workstation a few feet down the counter.
 
 The automatic sliding glass entrance doors parted with a soft pneumatic whisper.
 
-A thirty-five-year-old woman in athletic workout gear—angular oval face, straight shoulder-length chestnut-auburn hair, and thin-rimmed rectangular glasses—walked briskly up to the high front counter and reached out to pass her membership barcode beneath the red laser of the Scan Station.
+A thirty-five-year-old woman in athletic workout gear—angular oval face, straight shoulder-length chestnut-auburn hair, and thin-rimmed rectangular glasses—walked across the lobby up to the front counter and reached out to pass her membership card in front of the barcode reader on the desk.
 
-Because the high front desk counter acts as a physical blinder that cuts off the lower half of every patron's body, my eyes went straight to her face at the exact same split second her eyes lifted from the barcode scanner to mine.
+From where we sit behind the counter, my eyes went straight to her face at the exact same split second her eyes lifted from the barcode scanner to mine.
 
 *Beep.*
 
@@ -30218,9 +30205,7 @@ Neither of us said a word.
 
 Outwardly, remembering how Rachel had held me five weeks ago and promised she was right behind me, my martial arts discipline from Master April's mat and my Front Desk training held my posture completely still. I kept my mouth closed and gave the standard, neutral half-nod of a desk attendant confirming a green scan.
 
-Heather broke eye contact first, turned cleanly to her right, and walked around the corner **directly behind the solid rear structural wall of the Front Desk** into the **7,500-square-foot Weight Room**.
-
-The instant she stepped behind that wall, she entered the Front Desk's **100% visual `Null Zone`**—completely invisible from where I stood.
+Heather broke eye contact first, turned cleanly to her right, and walked around the corner behind the Front Desk into the **Weight Room**—completely out of sight from where I sat.
 
 My heart was hammering against my ribs at a hundred and thirty beats a minute, my hands tingling with adrenaline as the flood of happy `2007–2009` memories—and the grief of how they ended—washed over me simultaneously.
 
@@ -30234,9 +30219,9 @@ Ms. Susan didn't ask a single prying question. Her eyes went immediately to my f
 
 "I've got the radio right here, Michael," Ms. Susan murmured steadily. "Take a breath. Where did she head?"
 
-"Behind the wall," I whispered, nodding toward the solid structural partition at our backs. "Into the weight room."
+"Behind the wall," I whispered, nodding toward the wall at our backs. "Into the weight room."
 
-And because the 2017 Fairlawn Recreation Center's Weight Room sits directly behind that solid wall—unlike the elevated second-floor **Mezzanine track** overhead, where a walker doing three miles (`24 laps`) passes through the Front Desk's upper vertical sightline twenty-four separate times—Heather stayed 100% inside the visual **Null Zone** for the entire remainder of her workout.
+Because the Weight Room sits directly behind the Front Desk wall—unlike the upstairs track overhead, where a walker doing three miles (`24 laps`) passes through our upper sightline twenty-four separate times—Heather stayed completely out of sight for the entire remainder of her workout.
 
 Nothing escalated. No scene occurred. I drank cold water at my station, kept my eyes locked on the counter and the registers, and finished the shift without a single outward crack in my professional mask.
 
@@ -30286,15 +30271,15 @@ I don't yell at hoppers, and I don't go on a power trip. I follow a strict, tran
 1. First, I stopped the unauthorized entry at the counter, pulled up their profiles in the municipal recreation database, and typed a permanent **compliance audit note** onto their accounts. That way, whether they walk into Fairlawn or any other recreation center in the city tomorrow, every Front Desk supervisor across Virginia Beach has the documented paper trail.
 2. Second, instead of throwing the book at them with an immediate facility suspension, I offered them **Day Pass mercy**: *"Your membership isn't active right now, and I've documented the stop on your account, but if you'd like to use the gym tonight, I can ring you up for a `\$12` Adult Day Pass right here at the register."*
 
-They paid their twelve dollars in paper bills at the register (no coins, as always), thanked me for being fair, and headed into the gym. By `7:25 PM`, the lobby commons under the soaring glulam timber roof was quiet, the late-summer coastal evening sunlight slanting through the northern glass walls.
+They paid their twelve dollars in paper bills at the register (no coins, as always), thanked me for being fair, and headed into the gym. By `7:25 PM`, the lobby was quiet.
 
-I was standing at the **Adjacent Register** right beside the central **Scan Station**, glancing down at my clipboard rather than watching the automatic sliding glass entrance doors.
+I was seated in my chair at the register next to the **Scan Station**, glancing down at my clipboard rather than watching the front doors.
 
 ***
 
 #### 7:29 PM — The Digital Ambush (`HAILEY BOUCHARD`)
 
-At **`7:29 PM`**—one hour and thirty-one minutes before our `9:00 PM` Tuesday close—a patron stepped up to the high front counter and passed a barcode card beneath the red laser of the **Scan Station**.
+At **`7:29 PM`**—one hour and thirty-one minutes before our `9:00 PM` Tuesday close—a patron walked up to the front counter and passed her membership card in front of the barcode reader at the **Scan Station**.
 
 *Beep.*
 
@@ -30306,26 +30291,26 @@ The screen refreshed with a newly purchased **Virginia Beach Adult Resident Annu
 
 My head snapped up from the monitor toward the counter.
 
-Standing right across the Scan Station from me was a thirty-seven-year-old woman with an angular oval face, straight shoulder-length chestnut-auburn hair, and thin-rimmed rectangular glasses—a **`100% 1:1` identical hardware match for Heather Bouchard**.
+Standing right across the Scan Station counter from my chair was a thirty-seven-year-old woman with an angular oval face, straight shoulder-length chestnut-auburn hair, and thin-rimmed rectangular glasses—a **`100% 1:1` identical hardware match for Heather Bouchard**.
 
 I had not seen **Hailey (`Twin B`)** in person since **Tuesday, April 1, 2008** (`e018/c006/p001.md`)—the morning of the April Fools' Day *Twin Magic* prank at the **Princess Anne Road & Susquehanna Drive** bus shelter eighteen years ago, when Hailey had walked up in Heather's navy CCHR windbreaker and pulled me into a morning hug that I happily returned before the real Heather stepped out from behind the shelter laughing.
 
 Later that afternoon in 2008 on the outbound Route 25 bus, Heather had brushed back her bangs at the top of her forehead to show me the tiny, solitary freckle—her *"birth mark"*—hidden right at her hairline that Hailey didn't have.
 
-But across the high counter of the Fairlawn Recreation Center at `7:29 PM` on August 11, 2026, that tiny forehead hairline freckle was completely invisible beneath bangs—and the human amygdala does not stop to check a database string when it is staring into an identical twin's face three feet away.
+But across the counter of the Fairlawn Recreation Center at `7:29 PM` on August 11, 2026, that tiny forehead hairline freckle was completely invisible beneath bangs—and the human amygdala does not stop to check a database string when it is staring into an identical twin's face three feet away.
 
-For three full seconds, **my brain completely froze**.
+For three full seconds in my chair, **my brain completely froze**.
 
 It was a pure, unbuffered **Digital Ambush**. My CPU usage spiked straight to `100%`, locking up my vocal cords and freezing my hands over the register keyboard as eighteen years of compressed memory detonated at once:
 * The immediate, involuntary somatic pull in my chest (*My best friend is standing right in front of me—I just want to hug my best friend*).
 * The simultaneous logical collision (*Wait—the monitor says `HAILEY`. That's Twin B. She lives full-time at the house on Susquehanna Drive five minutes away, and she just bought an Annual Pass*).
 * And the roaring internal playback of my **audio hyperphantasia**, cues of [*"Paired Devices"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-10-paired-devices) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) flooding my auditory cortex while my heart hammered against my ribs.
 
-Hailey didn't say anything; she took her membership card back from the scanner slot and walked past the desk into the facility.
+Hailey didn't say anything; she lowered her hard-plastic membership card from the barcode reader and walked past the desk into the facility.
 
-Standing behind the counter with my **`MICHAEL`** nametag pinned to my shirt, I felt the edges of my vision narrow as the adrenaline hit my bloodstream. I had ninety-one minutes left before the building closed at `9:00 PM`, and I was the **Duty Supervisor** in charge of the front desk. Crashing was not an option.
+Sitting behind the counter with my **`MICHAEL`** nametag pinned to my royal blue polo shirt, I felt the edges of my vision narrow as the adrenaline hit my bloodstream. I had ninety-one minutes left before the building closed at `9:00 PM`, and I was the **Duty Supervisor** in charge of the front desk. Crashing was not an option.
 
-I planted both feet flat on the floor behind the counter, forced a slow inhale through my nose, and executed a manual **hard reboot into `"Safe Mode"`**.
+I planted both feet flat on the floor beneath my desk chair, forced a slow inhale through my nose, and executed a manual **hard reboot into `"Safe Mode"`**.
 
 ***
 
@@ -30409,7 +30394,7 @@ Back in Fall 2007 on the CCHR bus, Heather had taught me the casual, Americanize
 In August 2026, I began training my internal monologue to override that Americanized pronunciation the millisecond **`BOUCHARD`** appeared on the monitor, routing the letters through a formal **Québécois / French-Canadian phonetic register** (alongside practicing formal French greetings like *Bonjour* and *Bienvenue, mademoiselle* in my head). Because translating a surname into formal French-Canadian phonetics requires active prefrontal-cortex computation, it physically starves the amygdala of the bandwidth needed to panic—and if anyone ever heard me pronounce the name that way and corrected me, I already had the ultimate neutral deflection chambered:
 > *"Oh, I'm sorry—I just recognized the French-Canadian last name."*
 
-"That's airtight, Bear," Rachel said, tapping her knuckle against my knee with a proud grin when I finished walking her through all three layers. "Scan first so the monitor tells you which twin is standing there, stay in the Corporate We, route the name through Quebec in your head, and let the wall behind the desk swallow them up."
+"That's airtight, Bear," Rachel said, pulling me into a tight, proud Bear and Bug hug right there across the arms of our chairs when I finished walking her through all three layers. "Scan first so the monitor tells you which twin is standing there, stay in the Corporate We, route the name through Quebec in your head, and let the wall behind the desk swallow them up."
 
 ***
 
@@ -30423,7 +30408,7 @@ Twelve days after that came **Thursday, September 3, 2026**.
 
 In the internal calendar of my life, **September 3** is a double-loaded date: it was the legacy date in `2004` when I first met Delores in the ticket line at the Roper Theater, and it is **Heather and Hailey Bouchard's shared birthday**—born **September 3, 1988**, turning nineteen the week after Heather and I met at CCHR in 2007, and turning **thirty-eight** on September 3, 2026.
 
-For the first time in seventeen years, **September 3** arrived and passed with my internal status board sitting at **100% Status Green**. Neither twin scanned into the building that Thursday, the date had zero sting in my chest, and when Rachel gave me a quiet high-five in the hallway that night, I genuinely thought the firewall had retired the ghost for good.
+For the first time in seventeen years, **September 3** arrived and passed with my internal status board sitting at **100% Status Green**. Neither twin scanned into the building that Thursday, the date had zero sting in my chest, and when Rachel wrapped me up in a tight hug in the upstairs hallway that night, I genuinely thought the firewall had retired the ghost for good.
 
 Exactly twenty-nine days later came **Friday, October 2, 2026**.
 
@@ -30447,15 +30432,15 @@ It had been six weeks since **Hailey (`Twin B`)** had last scanned into the buil
 
 Mounted right inside our workspace at the Front Desk is the **low-volume employee speaker**—kept quiet enough that it doesn't broadcast across the Double Gymnasium or the Natatorium, playing background streaming tracks strictly inside the immediate operational bubble of the desk staff and whoever is standing directly at the **Scan Station**.
 
-At `7:15 PM`, Tyler was at the central check-in computer manually looking up and checking in a patron who didn't have their physical barcode card in hand, creating a brief, five-second pedestrian bottleneck right in front of the **Scan Station**.
+At `7:15 PM`, Tyler was seated at the **Scan Station**, using the **`mPad` and keyboard** to type in the name and ask for the **date of birth (`DOB`)** of a patron who had forgotten their membership card, creating a brief, five-second check-in pause right in front of the scanner.
 
-And at **`7:16 PM`**—with forty-four minutes left before closing—the automatic sliding glass entrance doors slid open.
+And at **`7:16 PM`**—with forty-four minutes left before closing—the front entrance doors slid open.
 
 ***
 
 #### 7:16 PM — `Code Susquehanna: Twin A` & *"Unhandled Exception"* on the Speaker
 
-A thirty-eight-year-old woman with straight shoulder-length chestnut-auburn hair, thin-rimmed rectangular glasses, and an angular oval face stepped through the lobby doors and paused right at the **Scan Station**, temporarily held up in place by the bottleneck while Tyler finished manually checking in the patron ahead of her.
+A thirty-eight-year-old woman with straight shoulder-length chestnut-auburn hair, thin-rimmed rectangular glasses, and an angular oval face stepped through the front doors and paused right at the **Scan Station**, waiting briefly with her membership card in hand while Tyler finished typing the patron's date of birth on the `mPad` keyboard ahead of her.
 
 Because she was paused stationary in the queue three feet from the counter rather than walking briskly past, two things happened simultaneously at **`7:16 PM`**.
 
@@ -30529,9 +30514,9 @@ Inside the quiet bunker, I unlocked the cash register tills, counted down the tw
 
 At **`7:59 PM`**, with the register tills balanced and locked in the safe, I stepped back out of the Back Office to the rear of the Front Desk as the `8:00 PM` closing announcement echoed over the building and the last patrons filed out of the Weight Room toward the sliding glass exit doors.
 
-At **`8:00 PM`**, **Heather** walked out from behind the Weight Room wall heading for the front exit doors.
+At **`8:00 PM`**, **Heather** walked out from the Weight Room heading for the front exit doors.
 
-As she crossed the bamboo-accented lobby commons beneath the soaring glulam timber roof beams toward the sliding glass doors, she glanced over toward the Front Desk, **recognized that I was standing behind the counter—and deliberately looked away**, fixing her eyes straight ahead on the parking lot as she stepped out through the glass doors into the October night.
+As she crossed the lobby toward the sliding glass doors, she glanced over toward the Front Desk, **recognized that I was behind the counter—and deliberately looked away**, fixing her eyes straight ahead on the parking lot as she stepped out through the glass doors into the October night.
 
 Watching her deliberately avert her gaze as she walked out, the last remaining piece of the puzzle clicked into place with quiet, mathematical finality.
 
@@ -30565,7 +30550,11 @@ Rachel's eyes widened slightly at the sheer surreal irony of the song—and then
 
 She stepped right between my desk chair and hers, opened her arms, and pulled me straight against her chest in a long, heavy, deep-pressure **Bear and Bug** hug.
 
+That is how Rachel and I have communicated ever since she was six and I was eight: through hugs. *A lot* of hugs. In our minds, why would we ever fist-bump or high-five when we can just hug each other?
+
 I wrapped both arms tightly around my sister's waist and rested my forehead against her shoulder—not with the terrified, suffocating panic of May 8, 2009 when I was afraid the whole world was going to walk away from me, but with the deep, exhaling relief of a man who had stood at his post, held the line at **Status Yellow**, kept his mouth shut, and come home to the one person who had never let go of him for a single second of his life.
+
+When I finally sank down into my desk chair, Rachel didn't go back to her own chair—she settled right onto my lap and kept both arms locked tightly around my neck and shoulders, because even at thirty-six and thirty-eight years old, to this day Rachel still feels that the safest place in the entire world is sitting on her brother's lap.
 
 "You didn't freeze, Bear," Rachel murmured into my hair, her hands pressing steady, rhythmic compression across my upper back as the last of the adrenaline drained out of my muscles. "You held the desk, you didn't give away a single piece of your heart, and she looked away on the way out."
 
