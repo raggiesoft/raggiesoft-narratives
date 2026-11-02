@@ -9038,6 +9038,37 @@ I let out a long, silent breath, my tense shoulders finally dropping back into t
 
 I stared up at the ceiling, overwhelmingly grateful for my sisters. I didn't have to navigate the exhausting, confusing math of teenage dating alone. The Base Camp would forever remain a sanctuary for blood and Ashley alone, and the perimeter holding it together had never felt stronger.
 
+## Summer Camp at Virginia Dominion University
+
+### The Brick Walkways of Summer Camp: Mapping VDU with Rachel and Jessica
+
+**Date:** 1999-07-12 at 08:45 America/New_York
+
+![On a sunny July 1999 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, eleven-year-old Michael and nine-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while thirteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/jul_1999_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
+
+#### 8:45 AM — Three Ragsdales on the Brick Mall
+
+Long before **Rachel** and I ever set foot on the campus of **Virginia Dominion University (`VDU`)** as college students, its sprawling red-brick walkways in Norfolk were already burned into our permanent spatial memory.
+
+In the summers when we were kids—including the bright, humid mornings of **July 1999**, four months before [the November portico accident that would forever change our oldest sister's life](https://books.raggiesoft.com/rachel/high-school/the-daytime-warden-sunday-november-28-1999/the-daytime-warden-the-logic-blueprint)—**Jessica**, **Rachel**, and I all went to **Youth Summer Camp at Virginia Dominion University**.
+
+Every weekday morning at `8:45 AM`, after Mom dropped the three of us off at the passenger loading loop off Hampton Boulevard, my thirteen-year-old sister **Jessica** took point like a seasoned field commander while nine-year-old **Rachel** and I (at eleven) fell into formation right beside her. Even in a crowd of two hundred noisy Hampton Roads camp kids wearing matching royal-blue **`VDU SUMMER CAMP`** t-shirts and canvas backpacks, **Rachel and I held hands with our fingers laced tightly together** from the curb all the way across the quad.
+
+![Eleven-year-old Michael, nine-year-old Rachel, and thirteen-year-old Jessica walking together across the red-brick campus quad at Virginia Dominion University Youth Summer Camp in July 1999]({{CDN}}/raggiesoft-books/images/scenes/rachel/b004/jul_1999_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
+
+"Okay, guys, check the camp schedule," Jessica said, holding up our laminated camp map as the morning sun glinted off the broad red-brick pedestrian mall. "Morning computer and science lab is across the main mall in the academic quad, lunch at noon is inside the Student Center dining commons, and afternoon swimming and indoor games are over at the Student Recreation Center."
+
+For my system-oriented brain—and for Rachel's quiet, observant processor right beside me—walking a university campus every single day for weeks of summer camp was like downloading a high-resolution CAD blueprint straight into long-term memory.
+
+While other kids just followed the camp counselors' flags without paying attention to where they were going, Jessica, Rachel, and I mapped every single landmark on the VDU grid:
+* We learned the exact diagonal brick shortcuts between the **Student Center**, the **University Library**, and the **Academic Quad**.
+* We memorized where the shaded benches sat under the live oaks when the July coastal humidity spiked past ninety degrees and my calves needed a five-minute rest.
+* And at noon every day, regardless of whether the camp split twelve- and thirteen-year-olds into one activity group and nine- to eleven-year-olds into another, Jessica marched straight across the Student Center dining commons to sit at our table so the three of us ate lunch together as an unbreakable unit.
+
+"When we grow up and go to college," Rachel whispered to me one afternoon as the three of us walked back past the brick fountains toward the camp pick-up loop, her small fingers still laced through mine, "we already know where all the buildings are, Bear."
+
+"Every single one of them, Bug," I smiled back, never imagining how many miles—and how many years—the three of us would have to cross before Rachel and I finally walked these brick paths together again.
+
 # High School
 
 ## Marching Band
@@ -18069,6 +18100,46 @@ Ashley smiled, listening to Mom's response, and then snapped the phone shut.
 "Nine o'clock," Ashley confirmed. "With a stop for breakfast sandwiches."
 
 I closed my eyes, listening to the quiet morning sounds of the neighborhood and the dogs barking in the field. We had a place to live, we had breakfast on the way, and we were finally going to bring the Delaney Street sofa home.
+
+## The High School Field Trip to VDU
+
+### Walking the Old Camp Paths Alone & The Promise to Reunite First
+
+**Date:** 2003-10-17 at 10:15 America/New_York
+
+![On a crisp October 2003 morning at Virginia Dominion University in Norfolk during a high school senior field trip, eighteen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/oct_2003_vdu_high_school_field_trip_tour_michael.jpg)
+
+#### 10:15 AM — The Map I Already Knew by Heart
+
+On a crisp Friday morning in **October 2003**, two months into my senior year of high school, two yellow school buses rolled up Hampton Boulevard and let our senior class out at the visitor plaza of **Virginia Dominion University (`VDU`)** in Norfolk for our college admissions field trip and campus tour.
+
+When the VDU Admissions ambassadors handed out glossy blue-and-silver campus maps to everyone in our group, I folded mine in half and slipped it straight into my jacket pocket without even looking at it.
+
+I didn't need a map of **Virginia Dominion University**.
+
+As our student tour guide began walking backward down the wide red-brick pedestrian mall—pointing out the **Student Center**, the **University Library**, the lecture halls, and the **Student Recreation Center**—every single brick underfoot triggered a flood of childhood memory from [the summers when **Jessica**, **Rachel**, and I had gone to **Youth Summer Camp** here at VDU](https://books.raggiesoft.com/rachel/middle-school/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica).
+
+![Eighteen-year-old Michael on a senior high school field trip tour at Virginia Dominion University in October 2003, looking across the brick plaza he remembered from childhood summer camps with Rachel and Jessica]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/oct_2003_vdu_high_school_field_trip_tour_michael.jpg)
+
+I remembered the exact oak tree benches where eleven-year-old me and nine-year-old Rachel had sat side by side holding hands while thirteen-year-old Jessica read off our morning camp schedule. I remembered the diagonal brick shortcut past the library fountain, and the exact doors of the Student Center dining commons where Jessica had joined us every day at noon so the three of us could eat lunch together.
+
+Back then, in July 1999, all three of us had been together on the same coast, under the same roof, walking on our own two feet.
+
+Now, in October 2003, [the divorce had split our world across an entire continent](https://books.raggiesoft.com/rachel/the-divorce/judgment-day/the-gavel-and-the-split): **Jessica** and **Rachel** were three thousand miles away in **Washington State**, while I was finishing out my senior year of high school here in Hampton Roads.
+
+Around me on the brick plaza, my high school classmates were chatting excitedly with the tour guide about SAT scores, freshman dormitory applications for Fall 2004, and which meal plans they wanted to pick right after graduation.
+
+Walking quietly at the back edge of the tour group with my hands tucked into the pockets of my flannel shirt, my right hand felt phantom-empty without my little sister's fingers laced through mine.
+
+"Hey, Michael, are you putting in an application for next fall?" one of the guidance counselors asked, falling into step beside me as our group turned toward the library quad. "You already seem to know your way around the whole campus."
+
+"I went to summer camp here with my sisters when we were kids," I said politely, looking across the brick courtyard. "It's a great school."
+
+I didn't tell the guidance counselor what my internal processor had already locked in as an unbreakable directive.
+
+Even at eighteen, walking through the October sunlight of Norfolk while my sisters were on the other side of the country, I knew in my bones that I wasn't going straight to a four-year university next fall—and I certainly wasn't moving onto a college campus by myself. Before I ever enrolled at a university for real, **I was going to try to reunite with my family first**.
+
+And if the day ever came when I walked back onto the brick mall of **Virginia Dominion University** to earn my bachelor's degree, I was only going to do it with **Rachel** walking right beside me.
 
 # Delores
 
@@ -29816,74 +29887,124 @@ The two-and-a-half-year bridge between [*A Few Small Repairs*](https://books.rag
 
 ## From CCHR to VDU: The Upperclass GIH Pilot Apartment
 
-### Part 1: Upperclass Credits from CCHR & Signing Up for VDU's Gender-Inclusive Housing Pilot in a Heartbeat
+### Part 1: The Spring Campus Tour, Remembering Summer Camp, & Asking Housing About the GIH Pilot
 
-**Date:** 2015-08-22 at 14:00 America/New_York
+**Date:** 2015-05-01 at 13:30 America/New_York
 
-![Michael and Rachel standing side by side holding hands with their fingers laced together in their new 2-bedroom upperclass on-campus apartment at Virginia Dominion University in August 2015, wearing royal-blue and silver VDU t-shirts with both open bedroom doors and full-sized beds visible behind them]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
+![Inside the Virginia Dominion University Housing desk area during their May 2015 campus tour, Michael and Rachel stand side by side holding hands with their fingers laced together as a full-time VDU Housing staffer goes over the Dominion Village floor plans and Fall 2015 Gender-Inclusive Housing Pilot Program rules]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/may_2015_vdu_spring_tour_housing_desk_gih_inquiry.jpg)
 
-#### 2:00 PM — Permanent Residence at Moosewood Drive & Going Back for Our Bachelor's Degrees
+#### 1:30 PM — Testing Our Childhood Memory on the Brick Walkways
 
-In the years since **Jessica** had finished building our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, the five of us—**Rachel**, **Ashley**, **Kristin**, **Jessica**, and I—had settled into the safest, most unshakable home perimeter of our lives.
+In the years since **Jessica** had finished building our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, the five of us—**Rachel**, **Ashley**, **Kristin**, **Jessica**, and I—had settled into the safest, most unshakable home perimeter of our lives. **Moosewood Drive** was, and would always remain, **Rachel's and my permanent legal residence**.
 
-**Moosewood Drive** was, and would always remain, **Rachel's and my permanent legal residence**—the address printed on our Virginia Non-Driver State ID cards, our voter registrations, our medical files, and our credit union accounts.
+During our years in ["The Shallow End" at the **Community College of Hampton Roads (`CCHR`)**](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end), Rachel and I had methodically knocked out semester after semester of transferable college coursework right across Buckner Boulevard from home. By the end of the **Spring 2015 semester**, we were ready to go back to school at a four-year university—specifically **Virginia Dominion University (`VDU`)** up in **Norfolk**—to earn our bachelor's degrees, and we also wanted to try out the on-campus living experience together.
 
-During our years in ["The Shallow End" at the **Community College of Hampton Roads (`CCHR`)**](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end), Rachel and I had methodically knocked out semester after semester of general education and lower-division coursework at our own pace, building up a thick stack of transferable college credits right across Buckner Boulevard without a single sensory overload or bureaucratic ambush.
+Ahead of officially deciding to commit to VDU for the upcoming Fall 2015 semester, however, Rachel and I signed up for a Friday afternoon **Spring Campus Tour** on **May 1, 2015**.
 
-By the spring of **2015**, however, Rachel and I sat down at our dual desks in the Command Center at Moosewood Drive and looked at our `CCHR` transcripts.
+Our main reason for taking the tour wasn't to hear the admissions sales pitch—it was to see if we could still remember where everything was on campus.
 
-We didn't want to stop at community college. Both of us wanted to go back to school at a four-year university—specifically **Virginia Dominion University (`VDU`)** up in **Norfolk**—to earn our bachelor's degrees.
+As kids back in the 1990s, [**Jessica**, **Rachel**, and I had all gone to **Youth Summer Camp at VDU**](https://books.raggiesoft.com/rachel/middle-school/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica), spending weeks walking these exact Norfolk quads together. Later, [when I was in high school and Rachel and Jessica were out in Washington State](https://books.raggiesoft.com/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-alone-the-promise-to-reunite-first), I had walked these same walkways on high school field trips to VDU, promising myself that I would reunite with my family before I ever came back here for college.
 
-And just as importantly: **Rachel and I wanted to try out the on-campus college living experience.**
+Sure enough, the moment Rachel and I stepped out onto the wide red-brick pedestrian mall on that sunny May afternoon—holding hands with our fingers laced tightly together at the back of the tour group—**we remembered everything from our childhood**.
 
-Up to that point, all of our college classes at `CCHR` had been taken as commuters walking across Buckner Boulevard from home. If we were going to try living on a university campus during the Fall and Spring semesters while keeping **Moosewood Drive** as our permanent home base on weekends and breaks, we wanted to experience campus life **together**—and without having to start out in a noisy, crowded freshman hall-bath dorm.
+"There's the diagonal shortcut to the library fountain," Rachel whispered, grinning behind her rounded glasses before the student tour guide even reached the intersection. "And right past those live oaks is the Student Center dining commons where Jessica used to march over at noon so the three of us could eat camp lunch together."
 
-There were two massive pieces of luck that made that possible in the spring of 2015:
-
-1. **Enough `CCHR` Credits to Bypass Freshman Classification:** Because Rachel and I had earned so many transferable credits at the **Community College of Hampton Roads (`CCHR`)**, VDU Admissions did **not** classify either of us as incoming freshmen. We transferred into VDU with **upperclassman credit standing**—which meant we weren't restricted to the crowded freshman corridor dorms! We immediately qualified to apply for VDU's **upperclass on-campus apartments on the very first try**.
-2. **The `2015–2016` VDU Gender-Inclusive Housing (`GIH`) Pilot Program:** Historically, even in upperclass university apartments, traditional state university housing software blocked a brother and sister from being assigned to the same apartment unit because room rosters were strictly segregated by gender (`Male-Only` or `Female-Only` units). Right when we logged into the VDU Housing & Residence Life portal in Spring 2015, however, a banner across the top of the screen caught both of our eyes:
-   > ***NEW FOR 2015–2016: Gender-Inclusive Housing (`GIH`) Pilot Program***
-   > *Virginia Dominion University is launching a campus-wide pilot program allowing upperclass students to mutually select roommates and share multi-bedroom on-campus apartments regardless of gender.*
-
-Rachel and I looked at the screen, looked at each other across our desks, and **signed up in a heartbeat**.
-
-When the **Dominion Village** floor plan selector opened inside the VDU Housing portal, the system displayed four upperclass apartment layouts across the three-story buildings:
-* **`1 Bed / 1 Bath`:** A single-bedroom, single-bathroom apartment with a full kitchen, dining table, living room, and one full-sized bed.
-* **`2 Bed / 2 Bath`:** A split-wing two-bedroom, two-bathroom apartment with a central living room, full kitchen, dining nook, and two private bedroom/bathroom suites (`Bedroom 1` and `Bedroom 2`).
-* **`4 Bed / 2 Bath (Version A & Version B)`:** Two four-bedroom, two-bathroom suite layouts (`Version A` with two bedrooms on each side of a central living room, and `Version B` with four bedrooms lined up along the corridor and an angled corner living room) where pairs of bedrooms shared double-vanity bathrooms.
-
-Now, **the honest truth is that if VDU Housing had let the two of us pick the `1 Bed / 1 Bath` unit, Rachel and I would have gladly picked it.** Neither of us wanted or needed a second bedroom—we had slept in the same bed every night for years, and having a single bedroom with one bed and one bathroom would have matched our real life `100%`.
-
-Because university housing software strictly enforced a `1 student = 1 bedroom slot` occupancy rule on student housing contracts, however, a `1 Bed / 1 Bath` unit could only be leased by a single solo resident. For a two-person roommate pair applying under the new **Gender-Inclusive Housing (`GIH`) Pilot Program**, the **`2 Bed / 2 Bath`** unit was the smallest apartment the portal allowed two people to share—and even better, when our building and room assignment came back from VDU Housing & Residence Life, Rachel and I found out that we were the **very first GIH applicants assigned to our specific building in Dominion Village**.
-
-![Michael and Rachel holding hands inside their new 2-bedroom upperclass on-campus apartment at VDU in August 2015 with both open bedroom doors and full-sized beds visible behind them]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
+"And the Student Recreation Center is right down the brick walk past the quad," I smiled, squeezing her hand. Sixteen years later, our internal campus map hadn't lost a single coordinate.
 
 ***
 
-#### 4:15 PM — Ground-Floor `2 Bed / 2 Bath` in Dominion Village, The `Dominion Pass`, & Alternating Between Bedroom 1 and Bedroom 2
+#### 2:30 PM — The Dorm Front Desk RA & The VDU Housing Staffer
 
-On **Saturday afternoon, August 22, 2015**, **Ashley** and **Kristin** helped Rachel and me load our suitcases, textbooks, and bedding into Ashley's car at Moosewood Drive and drove us up to Norfolk to move into our new **ground-floor `2 Bed / 2 Bath` upperclass on-campus apartment** in **Dominion Village** at **Virginia Dominion University**.
+Toward the end of the tour, our student guide led the group into the lobby of one of the residence halls so prospective students could see on-campus housing.
 
-Our apartment building in **Dominion Village** was **three stories tall (`3 floors`) with no elevators**, and unlike a traditional freshman dorm, it had **no central dorm lobby or front desk**—just a quiet interior hallway with exterior doors at the ends that led directly outside. Because Rachel and I were assigned to the **ground floor (`1st floor`)**, we didn't have to haul a single box up a stairwell, and right down our first-floor hallway was the building's laundry room serving all three floors: **five washers and six dryers** operated by swiping **laundry credits** loaded onto our official VDU student ID cards, the **`Dominion Pass`** (VDU's campus card equivalent to CPI's *Poly Pass*).
+Right beside the front desk stood a new blue-and-gold tabletop placard that immediately caught both of our eyes:
 
-When we tapped our **`Dominion Pass`** cards against our apartment's front **`ENTRY`** door and stepped inside, we saw immediately why skipping freshman classification with our `CCHR` credits was such a win:
+> **COMING FALL 2015: GENDER-INCLUSIVE HOUSING (`GIH`) PILOT PROGRAM**
+> *Ask VDU Housing & Residence Life about upperclass mixed-gender roommate options for the 2015–2016 academic year.*
 
-![Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Dominion Village at Virginia Dominion University (VDU)]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_2bed_2bath_floorplan.jpg)
+Rachel and I looked at the sign, looked at each other, and walked straight up to the **student Resident Assistant (`RA`)** sitting behind the dorm's front desk, our fingers still laced together.
 
-* **The Entry, Kitchen, & Dining Nook:** Stepping through the front **`ENTRY`** door at the bottom center of the apartment, to the **left** was our full **`KITCHEN`**—complete with a four-burner stove and oven, refrigerator, a pantry closet on the far left wall, and a peninsula counter with the kitchen sink—while to the **right** of the entry sat a square four-chair **dining table**.
+"Excuse me," I said warmly. "We just saw the sign for the Gender-Inclusive Housing Pilot Program. My sister Rachel and I are brother and sister, and we're looking at transferring in from `CCHR` this fall."
+
+"We'd want to live together on campus," Rachel added, smiling across the counter. "How does signing up for the GIH pilot work?"
+
+The RA at the dorm desk glanced down for a second at our joined hands, looked up at our faces, and gave us a polite, apologetic smile.
+
+"Honestly, since it's a brand-new pilot program going live for the very first time this upcoming Fall semester—and we're just wrapping up Spring semester right now—they haven't trained the dorm desk RAs on the portal details yet," the RA admitted, gesturing toward the adjacent **VDU Housing & Residence Life** administrative desk across the lobby. "Let me walk you right over to the full-time Housing staffer at the main desk—she has all the Fall 2015 GIH Pilot binders right in front of her."
+
+![Michael and Rachel holding hands at the VDU Housing desk during their May 2015 tour as the Housing staffer goes over the Dominion Village floor plans and Fall 2015 GIH Pilot rules]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/may_2015_vdu_spring_tour_housing_desk_gih_inquiry.jpg)
+
+A moment later, Rachel and I were standing across the counter from the full-time **VDU Housing staffer**, who pulled out the official **Fall 2015 Gender-Inclusive Housing Pilot Program** packet and four laminated architectural floor plan sheets for **Dominion Village** (`1 Bed / 1 Bath`, `2 Bed / 2 Bath`, `4 Bed / 2 Bath Version A`, and `4 Bed / 2 Bath Version B`).
+
+"First off, since both of you are transferring in with that many credits from the **Community College of Hampton Roads (`CCHR`)**, you won't be classified as freshmen," the Housing staffer explained brightly. "That means you bypass the freshman corridor dorms completely and qualify for our upperclass apartments in **Dominion Village** on your very first try."
+
+"And we can share an apartment together as brother and sister under the GIH Pilot?" I asked.
+
+"Yes! That's exactly what the new Fall 2015 GIH Pilot Program allows," she confirmed, tapping the floor plan sheets angled toward us on the counter. "Now, let me go over the official university occupancy rules with you. Even under Gender-Inclusive Housing, VDU Housing strictly requires **one student per bedroom (`1 student = 1 private bedroom`)**. So a single student can select a `1 Bed / 1 Bath` unit, two students in a GIH roommate pair must select a **`2 Bed / 2 Bath`** unit where each of you is assigned to your own private bedroom and bathroom (`Bedroom 1` and `Bedroom 2`), or four students can share a `4 Bed / 2 Bath` unit."
+
+Rachel and I looked down at the **`1 Bed / 1 Bath`** floor plan sheet sitting right next to the **`2 Bed / 2 Bath`** sheet.
+
+We both knew the university rules—and we also both knew the unspoken truth that we obviously couldn't say out loud to a VDU Housing administrator: **if VDU had let the two of us pick the `1 Bed / 1 Bath` unit and just share one bed the way we do every single night at home on Moosewood Drive, we would have gladly picked the `1 Bed / 1 Bath` unit on the spot.**
+
+Since you can't tell a university housing staffer *"We actually want one bedroom so we can sleep in the same bed together,"* Rachel and I kept our faces completely composed and nodded in polite, textbook agreement.
+
+"That makes total sense," I said smoothly, giving Rachel's hand a subtle, knowing squeeze beside the counter. "Having our own `2 Bed / 2 Bath` apartment on the ground floor where we each have our own bedroom sounds great."
+
+"We'll sign up for the GIH Pilot and request a ground-floor `2 Bed / 2 Bath` unit as soon as we submit our deposit tonight," Rachel smiled.
+
+Walking back out onto the sunny red-brick plaza we had known since childhood summer camp, our decision was `100%` locked in: we were officially going to **Virginia Dominion University**.
+
+### Part 2: Move-In Day at 1016 Hampton House ('Building 2'), The 2 Bed / 2 Bath Floor Plan, & Alternating Beds
+
+**Date:** 2015-08-22 at 14:00 America/New_York
+
+![Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (1016 Hampton House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
+
+#### 2:00 PM — `1016 Hampton House` (Or as Everyone Calls It: `"Building 2"`)
+
+On **Saturday afternoon, August 22, 2015**, **Ashley** and **Kristin** helped **Rachel** and me load our suitcases, textbooks, and bedding into Ashley's car at [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) (which remained our permanent legal residence) and drove us up to Norfolk to move into our new **ground-floor `2 Bed / 2 Bath` upperclass on-campus apartment** at **Virginia Dominion University**.
+
+When we pulled up to the curb along West 45th Street in **Dominion Village**, we looked up at our assigned three-story red-brick and cream-stucco apartment building.
+
+![Michael and Rachel walking hand-in-hand up the front walkway to the double entry doors of 1016 Hampton House ("Building 2") at Virginia Dominion University on move-in day in August 2015]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_1016_hampton_house_building_2_exterior.jpg)
+
+Directly over the glass double front doors, framed by white pilasters and a triangular pediment, the black architectural lettering read:
+
+```
+    1016
+Hampton House
+```
+
+Officially, on campus maps and plaques, the building was named **`Hampton House`**. Within thirty seconds of walking up the front path to check in at the move-in table, however, Rachel and I noticed that every single VDU Housing staffer and Resident Assistant on the sidewalk—talking into their walkie-talkies and directing carts—referred to it simply as **`"Building 2"`** (*"We've got a ground-floor check-in heading into Building 2"*).
+
+To our operational brains, `"Building 2"` was cleaner, faster, and what the staff actually called it—so from that first afternoon onward, Rachel and I simply called it **`Building 2`** instead of the formal *Hampton House* name printed over the front door.
+
+**Building 2** was **three stories tall (`3 floors`) with no elevators**, and unlike a traditional freshman dorm, it had **no central dorm lobby or front desk** inside—just a straight ground-floor interior hallway behind those glass double doors that led directly from one exterior entrance to the other. Because Rachel and I were assigned to the **ground floor (`1st floor`)**, we didn't have to haul a single box up a flight of stairs, and right down our first-floor hallway was the communal laundry room for the entire building: **five washers and six dryers** operated by laundry credits loaded onto our official VDU student ID cards, the **`Dominion Pass`**.
+
+***
+
+#### 4:15 PM — Inside Our `2 Bed / 2 Bath` Apartment & Alternating Between Bedroom 1 and Bedroom 2
+
+When we tapped our **`Dominion Pass`** cards against our apartment's front **`ENTRY`** door off the ground-floor hallway of **Building 2** and stepped inside, we saw immediately why skipping freshman classification with our `CCHR` credits was such a win:
+
+![Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Building 2 (Hampton House) at Virginia Dominion University (VDU)]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_2bed_2bath_floorplan.jpg)
+
+* **The Entry, Kitchen, & Dining Area:** Stepping through the front **`ENTRY`** door at the bottom center of the floor plan, to the **left** was our full **`KITCHEN`**—complete with a four-burner stove and oven, refrigerator, a pantry closet on the far left wall, and a peninsula counter with the kitchen sink—while to the **right** of the entry sat a square four-chair **dining table**.
 * **The Central Living Room:** Beyond the kitchen sink peninsula and dining table opened the central **`LIVING ROOM`**, furnished with a three-cushion sofa against the back wall, a coffee table, a side end table, and two armchairs facing each other.
-* **The Two Locked Maintenance-Access-Only Utility Closets (`X` and `●`):** Built into the apartment's core were two locked **VDU Facilities Maintenance Access Only** closets that residents didn't use for storage:
+* **The Two Locked Maintenance-Access-Only Utility Closets (`X` and `●`):** Built into the apartment's structure were two locked **VDU Facilities Maintenance Access Only** utility closets:
   1. In the back-right corner of the **Living Room** right beside the sofa was the utility closet marked **`X`** on the floor plan, which housed the apartment's **HVAC system**.
   2. Tucked between the **Kitchen** sink peninsula and Bedroom 1's closet was the utility closet marked with a **circle (`●`)** on the floor plan, which housed the apartment's **hot water heater**.
-* **Symmetric Split-Wing `2 Bed / 2 Bath` Suite (`Bedroom 1: Michael` & `Bedroom 2: Rachel`):** Opening symmetrically off the left and right walls of the Living Room were our two private bedroom-and-bathroom suites:
+* **Symmetric Split-Wing `2 Bed / 2 Bath` Suite (`Bedroom 1: Michael` & `Bedroom 2: Rachel`):** Opening symmetrically off the left and right walls of the Living Room were our two private bedroom-and-bathroom wings:
   * **`BEDROOM 1` (Left Wing — Michael's Room):** Furnished with a **full-sized bed** beneath the window, a nightstand in the left corner, a study desk, chair, and dresser along the right wall, a **`CLOSET WITH DOORS`**, and its own private en-suite **`BATH`** (`Bath 1`: vanity sink, toilet, and full bathtub/shower).
   * **`BEDROOM 2` (Right Wing — Rachel's Room):** A mirror-image suite across the Living Room, furnished with a **full-sized bed** beneath the window, a nightstand in the right corner, a study desk, chair, and dresser along the left wall, a **`CLOSET WITH DOORS`**, and its own private en-suite **`BATH`** (`Bath 2`: vanity sink, toilet, and full bathtub/shower).
 
-As soon as Ashley and Kristin hugged us goodbye for the week and we propped both interior bedroom doors (`Bedroom 1` and `Bedroom 2`) and both en-suite bathroom doors wide open under our lifelong [**Open-Door Policy**](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts), Rachel and I stood in the middle of our living room in our new **`VDU`** t-shirts, holding hands with our fingers laced together and grinning from ear to ear.
+![Michael and Rachel holding hands inside the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 with Bedroom 1 open on the left wall and Bedroom 2 open on the right wall]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
 
-Of course, Rachel and I had zero intention of sleeping in separate bedrooms. We share a bed every single night.
+As soon as Ashley and Kristin hugged us goodbye for the week and we propped both interior bedroom doors (`Bedroom 1` and `Bedroom 2`) and both en-suite bathroom doors wide open under our lifelong [**Open-Door Policy**](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts), Rachel and I stood barefoot in the middle of our living room in our new royal-blue **`VDU`** t-shirts, holding hands with our fingers laced together and grinning from ear to ear.
 
-Looking from the open doorway of **`Bedroom 1`** on the left wall to the open doorway of **`Bedroom 2`** on the right wall—and then glancing at the locked **`X` (`HVAC`)** and **`●` (`Hot Water Heater`)** maintenance closets—my operational brain immediately spotted a campus-housing edge case.
+Just as we had silently thought at the Housing desk back in May, neither of us had the slightest intention of sleeping in separate bedrooms.
+
+Looking from the open doorway of **`Bedroom 1`** on the left wall to the open doorway of **`Bedroom 2`** on the right wall—and then glancing at the locked **`X` (`HVAC`)** and **`●` (`Hot Water Heater`)** maintenance closets—my operational brain immediately set up our campus-housing protocol.
 
 "Wait a second, Bug," I said, looking from my full-sized bed in `Bedroom 1` to her full-sized bed in `Bedroom 2`. "Between monthly Residence Life health-and-safety inspections and VDU Facilities technicians coming in to change the HVAC filter in the `X` closet or check the hot water heater in the circle closet, staff are going to walk right past both open bedroom doors. If `Bedroom 1` looks lived-in while `Bedroom 2`'s full bed sits untouched with museum-tight sheets for sixteen weeks straight, somebody might start asking nosy questions."
 
@@ -29893,71 +30014,61 @@ Rachel laughed softly, her eyes sparkling behind her rounded glasses. "So how do
 
 "Approved unanimously," Rachel whispered, stepping up to kiss my cheek.
 
-Within six weeks of moving into our upperclass apartment—and loving every minute of on-campus life together—Rachel and I threw our hats into the fall campus elections for the **VDU Residence Hall Association (`RHA`)**, where every single officer position is elected directly by on-campus residents. By October 2015, our fellow residents had elected me **RHA Director of Operations** and Rachel **RHA Secretary**, setting us up to represent VDU at the upcoming regional **`SAACURC` 2016** conference in February.
-
-Before we could head up to the mountains of Blacksburg in February, however, there was one piece of long-overdue medical hardware maintenance my own body needed first.
-
-### Part 2: The Building's First GIH Pair, Double-Takes from Housing, & The 1st-Floor Laundry Room
+### Part 3: The Only GIH Pair in Building 2 (Hampton House), The RA's Look in the Hallway, & The 1st-Floor Laundry Room
 
 **Date:** 2015-08-25 at 19:30 America/New_York
 
-![Walking down the ground-floor interior hallway of their Dominion Village building toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while a VDU Housing RA pauses with a polite double-take]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
+![Walking down the ground-floor interior hallway of Building 2 (1016 Hampton House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
 
-#### 7:30 PM — The First GIH Pair in the Building & Housing's Double-Takes
+#### 7:30 PM — The Only GIH Participants in All of Building 2 (`Hampton House`)
 
-Because the **2015–2016 academic year** was the very first time **Virginia Dominion University (`VDU`)** had ever offered **Gender-Inclusive Housing (`GIH`)**—and only on a carefully monitored **Pilot Program** basis—**Rachel** and I turned out to be the **very first GIH applicants placed in our specific three-story building in Dominion Village**.
+Because the **Fall 2015 semester** was the very first time **Virginia Dominion University (`VDU`)** had ever launched **Gender-Inclusive Housing (`GIH`)** on a Pilot Program basis, **Rachel** and I weren't just the first GIH applicants in our hallway—we were the **only GIH participants in the entirety of `Building 2` (`1016 Hampton House`)**.
 
-Every other unit down our ground-floor hallway, and up on the second and third floors above us (`4 Bed / 2 Bath Version A`, `4 Bed / 2 Bath Version B`, `2 Bed / 2 Bath`, and `1 Bed / 1 Bath` apartments), was still assigned under VDU's traditional single-sex housing rules.
+Every single other apartment across all three floors of **Building 2**—whether it was a single-resident `1 Bed / 1 Bath` unit, another `2 Bed / 2 Bath` unit, or one of the four-student `4 Bed / 2 Bath (Version A or Version B)` suites—was still occupied under traditional single-sex housing assignments.
 
 ![VDU Dominion Village 1 Bed / 1 Bath Floor Plan — the unit Michael and Rachel would have gladly picked if university occupancy rules had allowed two people to share a 1-bedroom apartment]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_1bed_1bath_floorplan.jpg)
 
-For the first few days of Welcome Week in late August 2015, it took **VDU Housing & Residence Life** staff—our building's Resident Assistants (`RAs`) and the complex Hall Director—a little while to get used to seeing the two of us together.
+During those first few days at the start of the Fall 2015 semester, it took **VDU Housing & Residence Life**—and especially the Resident Assistants (`RAs`) assigned to **Building 2**—a few days to wrap their brains around seeing the two of us together.
 
-On paper, when the building staff looked at their printed roster for our ground-floor `2 Bed / 2 Bath` unit, they saw two upperclass transfer students from `CCHR` with the exact same last name:
+On the official Building 2 clipboard roster, our ground-floor `2 Bed / 2 Bath` apartment listed two upperclass transfer students with the exact same last name:
 * **`Bedroom 1:`** `RAGSDALE, MICHAEL`
 * **`Bedroom 2:`** `RAGSDALE, RACHEL`
 
-Naturally, before meeting us in person, the Housing staff assumed that two GIH roommates sharing the surname *Ragsdale* were either a quiet brother and sister keeping to their separate wings of the apartment, or a married couple returning to college.
+And as we had told Housing from day one, we were **brother and sister**.
 
-Then they actually saw us in the hallway.
+Yet every time Rachel and I stepped out of our apartment door into the ground-floor corridor of **Building 2**, or sat together on the living room sofa when an RA knocked with start-of-semester paperwork, **we held hands with our fingers laced tightly together and cuddled like a romantic couple**.
 
-Whenever Rachel and I stepped out our front **`ENTRY`** door into the first-floor corridor—where there was no central dorm lobby or front desk, just the straight interior hallway leading to the exterior doors at either end of the building—**we held hands with our fingers laced tightly together**. When we waited by the bulletin board or sat together on the bench outside in the warm August evening air, Rachel curled right up against my side with her head resting on my shoulder and my arm wrapped securely around her waist, cuddling like a romantic couple.
+That contrast produced one of the funniest recurring sights of our first week in **Building 2**.
 
-And then, when the building RA stopped by our open door on the second evening to hand out our floor welcome packets and casually mentioned, *"Oh, it's so cool that we have a married couple in our first GIH unit!"*, Rachel and I smiled without a shred of embarrassment and answered in stereo:
-
-*"We're brother and sister."*
-
-You could practically see the mental gears spinning behind the RA's eyes for three full seconds as VDU Housing's training manual tried to reconcile *"brother and sister"* with two twenty-somethings who held hands everywhere they walked, finished each other's sentences, and cuddled on the living room sofa like newlyweds.
-
-![Michael and Rachel walking hand-in-hand down the ground-floor hallway of their Dominion Village building toward the 1st-floor laundry room while a VDU Housing staff member gets used to seeing the building's first GIH pair together]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
+![Michael and Rachel walking hand-in-hand down the ground-floor hallway of Building 2 (Hampton House) toward the 1st-floor laundry room while the building RA stops in his tracks with a stunned look on his face]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
 
 ***
 
-#### 8:00 PM — Five Washers, Six Dryers, & The `Dominion Pass`
+#### 8:00 PM — The Look on the RA's Face & The 1st-Floor Laundry Room
 
-By Tuesday night, August 25, 2015—four days after move-in—the initial double-takes from Housing staff had melted into warm, familiar waves whenever they passed us in the corridor. After all, we were quiet, we kept our apartment spotless, and we were the easiest residents on the first floor.
+At `8:00 PM` on Tuesday evening, August 25, 2015, right at the start of the semester, Rachel and I stepped out into the first-floor hallway of **Building 2** to run our first load of laundry.
 
-At `8:00 PM`, after we stripped the sheets off **`Bedroom 1`'s** full-sized bed (where we had slept together on Saturday and Monday nights) and **`Bedroom 2`'s** full-sized bed (where we had slept together on Sunday night) to run our first mid-week laundry cycle, I hoisted the laundry basket onto my left hip while Rachel laced the fingers of her left hand through my right hand.
+I carried our laundry basket balanced against my right hip, while my left hand was laced tightly through Rachel's right hand as she leaned her shoulder affectionately against mine, the two of us smiling into each other's eyes the way we always do.
 
-Because our three-story **Dominion Village** building had **no elevators**, living on the **ground floor (`1st floor`)** came with one massive everyday perk: **the laundry room for the entire building was located right down our 1st-floor hallway.**
+Because **Building 2 (`Hampton House`)** was three stories tall with **no elevators** and **no central dorm lobby**, the **laundry room for the entire building** was located right there on our **1st floor**—equipped with **five washers and six dryers** operated by **laundry credits** loaded onto our **`Dominion Pass`** student ID cards.
 
-While residents living in the `4 Bed / 2 Bath` units up on the second and third floors had to lug heavy hampers down one or two flights of stairs to do their wash, Rachel and I just strolled thirty feet down the level ground-floor corridor.
+Right as we reached the open doorway of the 1st-floor laundry room and Rachel raised her **`Dominion Pass`** toward the wall-mounted card reader, the **Building 2 RA** walked down the ground-floor corridor on his start-of-semester rounds holding his roster clipboard.
+
+Out of the corner of my eye, I saw him stop dead in his tracks in the middle of the hallway.
+
+The look on his face was priceless: eyes wide, mouth slightly open, staring from our tightly laced hands to the way Rachel was leaning into my chest, and then back down at his clipboard where `RAGSDALE, MICHAEL` and `RAGSDALE, RACHEL`—the **only GIH participants in the entirety of Hampton House / Building 2**—were clearly listed as brother and sister. You could almost see his brain buffering in real time as he tried to compute how a brother and sister could look and act more like a deeply in-love couple than any boyfriend and girlfriend on campus.
+
+Neither Rachel nor I missed a beat or let go of each other's hand for a second.
 
 ![VDU Dominion Village 4 Bed / 2 Bath Version A Floor Plan]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_4bed_2bath_version_a_floorplan.jpg)
 
 ![VDU Dominion Village 4 Bed / 2 Bath Version B Floor Plan]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_4bed_2bath_version_b_floorplan.jpg)
 
-Stepping into the bright first-floor laundry room—outfitted with **five washing machines** along the left wall and **six dryers** along the right wall to serve all three floors of the building—we loaded our clothes and sheets into Washers `#1` and `#2`.
+We stepped inside the laundry room, loaded our clothes and sheets into two of the **five washers** opposite the row of **six dryers**, and tapped our **`Dominion Pass`** cards to deduct the laundry credits and start the wash cycle.
 
-Instead of taking quarters, the machines ran on digital **laundry credits** loaded onto our official VDU student ID cards—the **`Dominion Pass`**. Rachel tapped her blue-and-gold **`Dominion Pass`** against the card reader above Washer `#1`, I tapped my **`Dominion Pass`** against Washer `#2`, and both drums locked and began filling with warm water.
+By the end of that first week, the RAs and Housing staff in **Building 2** had finally gotten used to us—realizing that while the building's only GIH pair held hands everywhere they went and cuddled on the couch like a couple, we were also the quietest, most organized upperclassmen in the building. In fact, within six weeks, the residents of **Dominion Village** and the rest of campus would elect me **VDU Residence Hall Association (`RHA`) Director of Operations** and Rachel **RHA Secretary**, setting us up to represent VDU at **`SAACURC` 2016** in February.
 
-As the washers hummed to life, Rachel leaned her back against the front of the folding counter, pulled me close by the waist of my `VDU` t-shirt, and rested her chin against my chest right there under the fluorescent lights of the laundry room.
-
-Out in the first-floor hallway, our building's Hall Director walked past the open laundry room doorway on his evening rounds, glanced in at the two of us cuddling between the five washers and six dryers, paused for half a beat, and then just smiled and gave us a friendly two-finger wave as he kept walking toward the exterior exit doors.
-
-"I think Housing is finally getting used to us, Bear," Rachel whispered, grinning up at me behind her rounded glasses.
-
-"Took them four whole days, Bug," I laughed softly, kissing the top of her head as the spin cycle kicked in. "Tonight's an even date—`Bedroom 2`'s full bed gets the fresh warm sheets first."
+Before we could head up to Blacksburg in February, however, there was one piece of long-overdue medical hardware maintenance my ankles needed first.
 
 ## Bilateral Achilles Heel Cord Lengthening & Cleared for CPI
 
