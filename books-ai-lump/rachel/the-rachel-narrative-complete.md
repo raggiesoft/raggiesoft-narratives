@@ -30026,6 +30026,401 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 "Sunday night is Bedroom A's full bed, Madame Secretary," I whispered back. "Wake me up when we hit the Hampton Roads Bridge-Tunnel."
 
+# The 2020 Horizon Avalon (February 2020)
+
+## Anchor Federal Credit Union & The Five Accounts
+
+### Part 1: January 2020 Train Tickets, The Rainy Bus Stop, & Anchor Federal Credit Union
+
+**Date:** 2020-02-08 at 10:00 America/New_York
+
+![Inside a local Virginia Beach branch of Anchor Federal Credit Union in February 2020, Michael and Rachel sit side by side with Ellen as a member services representative sets up their individual Checking and Share Savings accounts plus a separate Joint Savings account in both siblings' names]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_anchor_fcu_five_accounts.jpg)
+
+#### 9:15 AM — No Crystal Ball & Tired of Waiting for the Bus
+
+In **January 2020**, nobody had a crystal ball.
+
+Sitting at our adjacent desks in the upstairs **Command Center** at `3701 Canadian Arch`, **Rachel** and I had spent a quiet January evening planning our upcoming **March 2020 Spring Break** trip to Maryland and Washington, D.C. We had booked a hotel in **North Linthicum, Maryland**—about a block from the **STA (`State Transit Administration`)** light rail station—and bought two round-trip **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`**, planning to take the free **BWI Airport Shuttle** over to the airport light rail stop, ride the **STA Light Rail** into Baltimore for a day, and take a **MAC (`Maryland Area Commuter`)** Penn Line train down to **Washington Union Station** for a day in D.C.
+
+When we clicked `PURCHASE` on those two **ARTS Business Class** tickets in January, neither of us had any idea that we were less than a month away from buying a car—and nobody on earth knew what March 2020 was about to bring.
+
+What changed our minds about owning a car wasn't a grand prophecy. It was an ordinary, bone-chilling first week of **February 2020** spent standing in sideways forty-degree coastal rain waiting for delayed **CVTA** bus transfers with bags of groceries cutting into our fingers.
+
+By that Friday night, after Rachel and I peeled off our rain-soaked jackets by the front door and sat down at the kitchen table with **Mom (`Ellen`)** and **Jessica** on speakerphone, both of us had reached the exact same conclusion at the exact same time:
+
+We were thirty-two and thirty years old, we both had clean Virginia driver's licenses, and **we were tired of riding the bus**.
+
+"Then we solve the logistics," **Jessica Marie Ragsdale** said immediately over the speakerphone, shifting into pure executive problem-solving mode. "You two don't need a car loan or a monthly payment hanging over your heads. I have **`$30,000.00`** in liquid cash ready to transfer tonight so the two of you can buy a brand-new, reliable family sedan outright in cash—titled and insured in both of your names."
+
+There was just one banking hurdle we needed to clear first.
+
+***
+
+#### 10:00 AM — From `1-425` to Anchor Federal Credit Union (`AFCU`)
+
+Back in **2006** (`e017/c002/p002.md`), when Rachel and I were living in Washington State, Jessica had walked us across the Overlake campus in Redmond to open our accounts at the **Quantum Employees Federal Credit Union (`QEFCU`)**.
+
+`QEFCU` had been an incredible fortress when we lived in the Puget Sound. Now that we were permanently back home in Virginia Beach, however, `QEFCU` had zero physical brick-and-mortar branches on the East Coast. From Virginia, our only ways to access `QEFCU` were online banking, the mobile app, or calling their **`1-425`** customer service number back in Redmond, Washington.
+
+If you are walking into a Virginia Beach car dealership as a cash buyer, you can't just wave a smartphone app at a finance manager for twenty-six thousand dollars—you need a local brick-and-mortar branch down the street where you can walk up to a teller window and have an official **Cashier's Check** printed on the spot once you know the exact total on the Buyer's Order.
+
+"We'll go to my credit union tomorrow morning," **Mom (`Ellen`)** said warmly. "I'll drive you both over in my car."
+
+Mom banked with **Anchor Federal Credit Union (`AFCU`)**—a massive, nationwide credit union headquartered in Virginia with physical branches on almost every major corridor in Virginia Beach and Hampton Roads, branches across Maryland and D.C., and even branches back in the Puget Sound near Bellevue and Redmond in case we ever visited Washington State again. Because Mom was already an established member, immediate family sponsorship meant both Rachel and I qualified for full membership on the spot.
+
+On **Saturday morning, February 8, 2020, at `10:00 AM`**, Mom drove Rachel and me in her car over to the local **Anchor Federal Credit Union** branch.
+
+Sitting side by side across from a friendly member services representative, we set up a clean, five-account architecture:
+1. **Account #1 & #2 (`Michael Thomas Ragsdale` — Individual):** My own personal **Checking Account** and my own **Share Savings Account** (funded with the mandatory `$5.00` credit union share deposit to establish my ownership stake as a member).
+2. **Account #3 & #4 (`Rachel Anna Ragsdale` — Individual):** Rachel's own personal **Checking Account** and her own **Share Savings Account** (`$5.00` share deposit).
+3. **Account #5 (`Michael Thomas Ragsdale AND Rachel Anna Ragsdale` — Joint Car & Emergency Savings):** A separate **Joint Savings Account** opened in **both of our full legal names**, giving both brother and sister `100%` equal, direct access at any teller window or online portal.
+
+Before we even stood up from the desk, I read the new routing number and the Joint Savings account number over the phone to **Jessica**, who initiated an electronic transfer from `QEFCU`. By Monday afternoon, **`$30,000.00`** was sitting cleared and liquid inside our joint **Anchor Federal Credit Union** savings account.
+
+"What about our **ARTS Business Class** tickets from Norfolk to BWI next month?" Rachel asked me as we rode back in Mom's car, tucking our new Anchor Federal debit cards and account folders into her bag.
+
+"We keep them," I smiled, lacing my fingers through hers on the back seat. "They're already paid for, and taking the train up to Maryland for Spring Break is going to be way more fun than driving through D.C. traffic anyway."
+
+### Part 2: Command Center Reconnaissance: Comparing Four Family Sedans
+
+**Date:** 2020-02-09 at 14:00 America/New_York
+
+![In their upstairs Command Center on Sunday, February 9, 2020, Michael and Rachel sit side by side comparing specs for four midsize family sedans on their monitors while taking notes in a shared notebook]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_command_center_car_research.jpg)
+
+#### 2:00 PM — Doing Our Homework Without a Playbook
+
+On **Sunday afternoon, February 9, 2020**, **Rachel** and I pulled our desk chairs together in our upstairs **Command Center** to do our research.
+
+We didn't have a retired car-dealer grandfather sitting at our kitchen table to teach us insider dealership vocabulary ahead of time. Neither Rachel nor I had ever heard the phrase **"Out-the-Door Price,"** and neither of us knew about dealer holdbacks, Four-Square payment worksheets, or finance-office reserve kickbacks.
+
+What we *did* have was our **`Director of Operations and Secretary`** system, a shared spiral notebook, and **`$30,000.00`** sitting in our joint **Anchor Federal Credit Union** savings account.
+
+"Okay, Bear," Rachel said, resting her chin in her hand as we pulled up manufacturer spec sheets across our monitors. "Ground rules first. What are we looking for, and how are we making the call?"
+
+"Rule number one," I said, tapping my pen against the top of our notepad: "This is **our** car—fifty-fifty down the middle. Both of our names go on the title as co-owners, both of our names go on the insurance as the only two drivers, and neither of us says yes to a car unless *both* of us love driving it."
+
+Rachel smiled and bumped her shoulder against mine. "Agreed. And rule number two: we're both five-foot-seven, and because of your cerebral palsy, we need a driver's seat and pedal layout where your right ankle doesn't get fatigued fighting a stiff brake pedal or a jumpy gas pedal in Virginia Beach traffic."
+
+"And wide visibility with minimal blind spots," I added. "Plus a four-door midsize family sedan with a real trunk—something rock-solid that we can buy brand-new off the lot with plenty of room under our `$30,000` ceiling so we aren't spending every last dollar Jessica put in the account."
+
+***
+
+#### 3:15 PM — The Four-Car Shortlist
+
+After two hours of reading reliability ratings, safety crash-test scores, fuel economy numbers, and MSRP sticker prices between `$23,500` and `$26,000`, we narrowed the field down to four midsize four-door family sedans to test-drive around Virginia Beach the following Saturday:
+
+1. **The `2020 Holt Meridian`** (*Holt Automotive* — MSRP `~$24,200`): Clean styling and plenty of local Holt inventory along Virginia Beach Boulevard, though online reviewers had mixed opinions on the cabin ergonomics and the rotary gear dial.
+2. **The `2020 Summit Verve`** (*Vehicles America / Summit Motors* — MSRP `~$24,100`): Competitive sticker price and a roomy back seat, worth testing in person to see how the transmission and pedals felt on the road.
+3. **The `2020 Olympus Regent`** (*Olympus Automobiles Corp.* — MSRP `~$26,400`): Known for a quiet highway ride, though sitting near the upper edge of our target price range before taxes.
+4. **The `2020 Horizon Avalon`** (*Horizon Motors* — MSRP `~$24,600`): Legendary for bulletproof long-term reliability, a smooth naturally aspirated four-cylinder engine with a real automatic transmission (no rubber-band CVT), and high resale value.
+
+Looking at the `~$24,000` to `$25,000` MSRP numbers on the websites, the math in our heads seemed blissfully simple: if a car's window sticker said `$24,600`, and we had `$30,000` in cash sitting in **Anchor Federal Credit Union**, surely we could just walk onto a dealership lot, test-drive the cars, tell the salesperson we were paying cash, and write a check.
+
+We had no idea what waited for us on the dealership lots the next Saturday morning.
+
+## The Dealership Gauntlet: 'You and the Missus,' The Four-Square Trap, & The Addendum Markup
+
+### Part 1: Stop 1 (Holt Automotive): Holding Hands, The 'Husband & Wife' Assumption, & Dismissing Rachel's Voice
+
+**Date:** 2020-02-15 at 10:15 America/New_York
+
+![On the showroom lot at Colonial Holt Automotive, Michael and Rachel stand holding hands with their fingers laced together beside a 2020 Holt Meridian as an older salesman talks exclusively to Michael while brushing off Rachel's questions]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_dealer1_husband_wife_assumption.jpg)
+
+#### 10:15 AM — Fingers Laced Together on the Lot
+
+On **Saturday morning, February 15, 2020**, **Mom (`Ellen`)** drove Rachel and me down Virginia Beach Boulevard in her car for our day of test drives, parking in a visitor space at our first stop—**Colonial Holt Automotive**—and telling us she'd wait comfortably in the customer lounge with her book so the two of us could handle the car shopping ourselves.
+
+Stepping out into the crisp February sunshine across the asphalt lot toward a row of new **2020 Holt Meridians**, **Rachel and I automatically reached for each other's hands, lacing our fingers tightly together**.
+
+We didn't even think about it. Holding hands with our fingers laced together—or wrapping each other in tight hugs—is how Bear and Bug have grounded each other in unfamiliar, high-stimulus environments ever since Rachel was six and I was eight.
+
+So when a fifty-something salesman in a striped tie (`Greg`) spotted a thirty-two-year-old man and a thirty-year-old woman walking across his dealership lot holding hands with their fingers laced together, **it was completely understandable that he assumed we were a married couple**.
+
+"Good morning, folks!" Greg beamed, striding right up to us beside a charcoal-grey **2020 Holt Meridian**. "Looking for a sharp new family sedan for you and the missus today?"
+
+Mistaking us for husband and wife didn't bother me at all. People who don't know us make that assumption all the time when they see us holding hands.
+
+What bothered me—starting less than thirty seconds later—was how he treated Rachel because of it.
+
+***
+
+#### 10:25 AM — Talking Over Half of the Decision
+
+"Actually, we're brother and sister," Rachel said politely, giving my hand a quick squeeze before releasing her fingers to step up to the driver's window of the **Holt Meridian**. "And yes, we're both looking at midsize sedans today. How low does the driver's seat adjust on this trim, and how wide is the sightline past the front A-pillar?"
+
+Greg didn't even turn his head toward Rachel.
+
+He kept his eyes locked `100%` on **my** face, smiled man-to-man at me as if Rachel hadn't spoken a word, and tapped the hood in front of *my* chest.
+
+"Well, boss," Greg said directly to me, "you're gonna love the cockpit on the `2020 Meridian`. Eight-way power seat for you, plenty of legroom, and a two-liter turbo that really moves when you put your foot down. Let me grab the key fob so *you* can take her out for a spin."
+
+Rachel and I exchanged a quick, raised-eyebrow glance across the roof of the car.
+
+When Greg brought the key fob out, Rachel took the driver's seat first while I sat in the front passenger seat and Greg rode in the back. Pulling out onto Virginia Beach Boulevard, Rachel tested the brakes, checked the mirrors, and frowned slightly as her right knee bumped against the wide, flared plastic molding of the center console.
+
+"The center console flares out pretty far into the driver's footwell," Rachel observed aloud, glancing toward the rearview mirror to ask Greg a direct technical question. "And the rotary gear dial takes up the middle of the console—is this the same console layout across all the Meridian trims, or just this package? Because it feels a little cramped on the knee, and the rear window angles down pretty sharply."
+
+From the back seat, Greg let out a dismissive little chuckle—and once again addressed his answer **exclusively to me** in the passenger seat:
+
+"Tell you what, buddy," Greg said, patting the back of *my* seat as if Rachel were an invisible passenger who had accidentally wandered behind the steering wheel, "once you get the driver's seat set up the way *you* want it for your commute, she'll get used to riding in the passenger seat plenty fast. Women always worry about the console at first until the man of the house gets it home."
+
+Halfway through the loop, we pulled into a shopping center lot so I could swap into the driver's seat and test the pedals back to the dealership. Honestly, Rachel was right on the money: the flared console pressed awkwardly against my right shin, and the brake pedal had a grabby, uneven bite at the top of its travel that made my right ankle work harder than it needed to.
+
+More importantly, when we parked back at the dealership and stepped out onto the lot, Greg handed his business card and the spec brochure solely to **me**, turning his shoulder halfway in front of Rachel.
+
+"So, boss," Greg said, looking straight at me, "what do you say we step inside to my desk and see what kind of monthly payment we can put together for you today?"
+
+***
+
+#### 10:45 AM — "She Has an Equal Vote in Everything We Do"
+
+My jaw tightened behind my glasses.
+
+I reached out, took Rachel's hand right at my side, and **laced my fingers firmly back through hers**.
+
+"No, thank you," I said, keeping my voice level but cold enough to stop Greg mid-step. "We won't be stepping inside."
+
+Greg blinked, his salesman smile faltering. "Oh—did you want to look at a different color on the lot, or step up to the Olympus Regent next door?"
+
+"Neither," I said, looking him dead in the eye. "When we walked onto your lot holding hands, I completely understand why you assumed we were husband and wife. That part is fine. What is *not* fine is that for the last thirty minutes, you have refused to look at my sister, refused to answer a single question she asked you directly, and acted like I'm the sole decision-maker and her opinion on the car doesn't count."
+
+Greg stammered, holding up both hands. "Hey now, fella, I didn't mean anything by—"
+
+"Even if Rachel *were* my wife instead of my sister," I cut him off evenly, "it still wouldn't be 1955. We are buying this car fifty-fifty together. Both of our names are going on the title, both of us are driving it, and her opinion on how this car fits and drives matters every single bit as much as mine. And frankly, she was right about the center console and the rear window anyway."
+
+Rachel squeezed my fingers—that quiet, unmistakable Bear and Bug signal of *Thank you, Bear, let's roll*—and looked at Greg with cool, polite finality.
+
+"Thank you for the test drive," Rachel said evenly. "Have a good weekend."
+
+With our fingers still laced tightly together, Rachel and I turned around, walked back into the showroom lounge to collect Mom, and left **Colonial Holt Automotive** in the rearview mirror.
+
+### Part 2: Stops 2 & 3 (Summit Motors & Coastal Horizon): The Four-Square Financing Trap, Test-Driving the Avalon, & Reverse-Engineering the Out-the-Door Price
+
+**Date:** 2020-02-15 at 11:45 America/New_York
+
+![At a dealership desk, Michael and Rachel sit side by side examining a Four-Square monthly payment worksheet and a credit application form while a sales manager tries to push them into financing instead of giving a straight cash price]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_dealer2_four_square_financing_trap.jpg)
+
+#### 11:45 AM — Stop 2 (`Summit Motors`): The Four-Square Box & The Fake Credit-Check Rule
+
+Our second stop down the boulevard was **Atlantic Summit Motors**, where **Mom** parked out front while **Rachel** and I walked in to test-drive the **`2020 Summit Verve`** (alongside taking a quick look at an **Olympus Regent** parked on the adjacent lot).
+
+This time, the young salesman who greeted us (`Tyler`) listened right away when we introduced ourselves as brother and sister shopping for a shared car, and he treated both of us politely during the test drive.
+
+The **Summit Verve** itself was an improvement over the Holt Meridian's cramped console, and the back seat was roomy, though as Rachel and I traded off driving half the loop each, both of us noticed that its continuously variable transmission (`CVT`) had a rubbery, hesitant lag from a dead stop before lurching forward—forcing my right foot to constantly micro-adjust the throttle.
+
+Still, because its window sticker read **`$24,100`**, we wanted to see what a real purchase sheet looked like so we could compare numbers.
+
+Sitting down at Tyler's desk cubicles inside the showroom, Rachel and I laid our cards on the table with complete, naive honesty:
+
+"We'd like to see what the total price would be on this Verve," I said, while Rachel opened our shared notebook. "We aren't taking out a loan—we have the money sitting in our joint **Anchor Federal Credit Union** savings account to buy a car in cash."
+
+The moment the word **`cash`** left my mouth, Tyler's posture shifted.
+
+Instead of pulling up an itemized price sheet on his computer, he reached into his desk drawer, pulled out a blank piece of paper divided by two intersecting black lines into **four large boxes** (the infamous dealership **Four-Square Worksheet**), and wrote **`$389 / MONTH`** in thick black marker in the bottom-right box.
+
+"Okay, guys," Tyler said, sliding the Four-Square sheet across the desk alongside **two blank Credit Application forms** highlighted at the **`Social Security Number`** line. "Before my sales manager can print any pricing numbers, go ahead and fill out these two credit forms with your Social Security numbers, and tell me if `$389` a month fits your budget."
+
+Rachel and I both blinked at the paper.
+
+"Wait," Rachel said, putting her pen down. "Why would we have a `$389` monthly payment—or fill out a credit application with our Social Security numbers—if we're paying for the car in full from our savings account today?"
+
+Tyler hurried into the glass-walled sales tower and returned sixty seconds later with his **Sales Manager** (`Rick`), who leaned both palms on the edge of the desk with a practiced, high-pressure grin.
+
+"Here's the thing, folks," Rick said smoothly. "First off, nobody pays cash anymore—if you pay cash, you lose the **`$1,500` Summit Finance Rebate**! What smart buyers do is finance the car with our lender today at `6.9%` for seventy-two months, get the rebate, build your credit for four or five months, and then pay it off later. And second, even if you *did* pay cash, federal Patriot Act regulations require us to pull a credit bureau report on both of your Social Security numbers before we can print a price worksheet."
+
+Rachel and I looked at each other.
+
+We didn't have a car-dealer grandfather sitting next to us, and we had never worked in a dealership—but between Jessica's cybersecurity training and our own common sense, both of our internal alarm bells went off at the exact same millisecond.
+
+Why would a store need to pull a hard credit inquiry on your Social Security number when you are *not* borrowing a single penny of credit? Because once they have your signed credit application in their computer, they can shotgun your credit report to ten different banks and try to force you into a loan!
+
+"We aren't giving out our Social Security numbers when we aren't applying for a loan," I said firmly, sliding the two blank credit applications right back across the desk.
+
+"And if you won't tell us what the car actually costs in dollars without a monthly payment box," Rachel added, closing our spiral notebook with a crisp snap, "then this isn't the dealership for us."
+
+We stood up together, thanked them for the test drive, and walked right out the front doors while Rick called after us from the desk tower.
+
+***
+
+#### 1:15 PM — Stop 3 (`Coastal Horizon`): Falling in Love with the `2020 Horizon Avalon` & Catching the `$3,800` Addendum Trap
+
+Over a quick lunch of burgers and fries with **Mom** before our afternoon stops, Rachel and I debriefed what had just happened at Summit Motors and did ten minutes of targeted searching on our phones.
+
+That was where we finally discovered why the dealerships were fighting our cash so hard—and learned the magic phrase we had been missing all morning:
+
+1. Dealerships make thousands of dollars in back-end bank kickbacks (*dealer reserve*) and financed add-ons inside the Finance Office, so a cash buyer who doesn't take a loan or buy an extended warranty cuts straight into their favorite profit center.
+2. You **never** need a credit check when paying with a bank Cashier's Check.
+3. And instead of asking *"How much is the car?"*, you have to demand a printed, itemized **Buyer's Order** showing the **Out-the-Door (`OTD`) Price**—the exact bottom-line cash number including the vehicle, freight, **Virginia's `4.15%` Motor Vehicle Sales and Use Tax**, Virginia DMV title and registration fees, and the dealer processing fee.
+
+Armed with our newly discovered playbook, Mom drove us to our third dealership of the day—**Coastal Horizon**—so we could test-drive the fourth car on our shortlist: the **`2020 Horizon Avalon`**.
+
+From the second Rachel and I climbed into a **royal blue `2020 Horizon Avalon`** for the test drive, **both of us knew we had found our car**.
+
+Rachel drove the first half of the loop; I drove the second half. Everything that had felt wrong on the Holt Meridian and the Summit Verve felt effortless in the **Horizon Avalon**:
+* The driver's seat height, steering-wheel reach, and side-mirror sightlines fit our `5'7"` frames like the cabin had been tailored specifically for the two of us.
+* Instead of a jumpy turbo or a rubbery CVT, the Avalon's naturally aspirated four-cylinder engine and real eight-speed automatic transmission accelerated with smooth, linear predictability.
+* Most importantly for my **cerebral palsy**, the angle and resistance of the gas and brake pedals allowed my right ankle to rest at a natural, relaxed pivot without a shred of cramping or fatigue.
+
+When we pulled into the shopping center lot halfway through the drive to swap seats, Rachel didn't even wait until we got back to the dealership—she leaned across the center console and wrapped me in a tight, beaming Bear and Bug hug right there in the front seats.
+
+"This is the one, Bear," Rachel whispered happily against my shoulder. "I love how it drives."
+
+"Me too, Bug," I grinned, hugging her back just as tightly. "The Horizon Avalon is `100%` our car."
+
+There was only one problem: **Coastal Horizon** wasn't going to sell it to us honestly.
+
+When we walked into the Coastal Horizon showroom and asked our salesman for a printed, itemized **Out-the-Door Cash Buyer's Order** on the royal blue **2020 Horizon Avalon** whose factory window sticker (`Monroney label`) read **`$24,600`**, the salesman disappeared into the manager's office for fifteen minutes.
+
+When he came back and laid the printed sheet on the desk in front of Rachel and me, the bottom-line total read **`$30,450.00`**—`$450` over our entire `$30,000` savings account!
+
+Rachel and I pulled the sheet between us and audited every single line item with our pen:
+* Base `2020 Horizon Avalon` (including destination/freight): `$24,600.00`
+* *"Coastal Protection Shield (Paint & Fabric Sealant)"*: **`$1,295.00`**
+* *"NitroFill Performance Tire Package (Nitrogen Air)"*: **`$695.00`**
+* *"Security Plus VIN Window Etching"*: **`$595.00`**
+* *"Mandatory Dealer Prep & Reconditioning Fee"*: **`$1,215.00`**
+* Dealer Processing Fee + Virginia `4.15%` Sales Tax + DMV Tags: **`$2,050.00`**
+
+Because they knew they weren't going to make a kickback in the Finance Office on a cash deal, the desk manager had packed **`$3,800.00` of pure air and wax** onto the sheet!
+
+"Take off the `$1,295` paint sealant, the `$695` nitrogen air in the tires, the `$595` window etching, and the `$1,215` prep fee," I said calmly, pointing to the four bogus lines with my pen while Rachel backed me up right beside me. "It's a brand-new car—factory prep is already included in the Horizon manufacturer invoice, and normal air is already `78%` nitrogen for free. If you give us a clean Out-the-Door Buyer's Order for the `$24,600` car plus Virginia tax, DMV tags, and your standard processing fee—around `$26,650` to `$26,850`—we will drive five minutes down the street to **Anchor Federal Credit Union** right now and bring you a Cashier's Check."
+
+"Sorry, guys," the salesman sighed, tapping the secondary dealer addendum sticker taped next to the factory window sticker. "My manager says those four protection packages are pre-installed on every car on our lot. We don't sell any Avalon without them—especially on a cash deal."
+
+Rachel and I looked at each other, smiled calmly, and stood up in perfect synchronization.
+
+We hadn't gotten trapped, we hadn't given out our Social Security numbers, we knew the exact model we wanted, and we knew the exact fair Out-the-Door math to the dollar.
+
+"Thank you for your time," Rachel said brightly, lacing her fingers through mine as we turned toward the door. "There's another Horizon dealer twenty minutes across town."
+
+## Bayside Horizon: Equal Co-Owners, Cashier's Check, & Two Sets of Keys
+
+### Part 1: Stop 4 (Bayside Horizon): Treating Brother & Sister as Equals & The Clean Out-the-Door Buyer's Order
+
+**Date:** 2020-02-15 at 15:15 America/New_York
+
+![At Bayside Horizon, saleswoman Denise Carter sits across from Michael and Rachel, addressing both brother and sister equally as she reviews a clean, itemized $26,840 Out-the-Door Cash Buyer's Order for their royal blue 2020 Horizon Avalon]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_dealer4_bayside_horizon_equal_respect.jpg)
+
+#### 3:15 PM — "Brother and Sister, Fifty-Fifty, Cash Out the Door"
+
+By **`3:15 PM`** on Saturday afternoon, **Mom (`Ellen`)** pulled her car into the customer lot of our fourth dealership of the day: **Bayside Horizon**.
+
+Walking through the glass showroom doors together—once again holding hands with our fingers laced together—**Rachel** and I were greeted by a forty-something saleswoman with a warm, no-nonsense smile and a nametag reading **`DENISE CARTER`**.
+
+"Good afternoon!" Denise said, looking equally at both of us—meeting Rachel's eyes and then mine—before gesturing toward the showroom floor. "Welcome to Bayside Horizon. What brings the two of you in today?"
+
+After three dealerships' worth of field experience since ten o'clock that morning, Rachel and I delivered our opening brief like a seasoned two-person aircrew.
+
+"Hi Denise," I said, while Rachel held up our spiral notebook. "First, just so you know up front: we're **brother and sister**—I'm Michael, and this is my sister Rachel—and we are buying a car **fifty-fifty together** as equal co-owners and the only two drivers."
+
+"Second," Rachel said, picking up the baton without missing a beat, "we already test-drove several makes and models earlier today and decided we want a **royal blue `2020 Horizon Avalon`** in the standard mid-level trim. And third, we are **100% cash buyers**. We have the funds sitting in our joint **Anchor Federal Credit Union** savings account right down the street. We aren't financing, we aren't filling out a credit application or giving out our Social Security numbers, and we aren't paying for nitrogen tires or paint-protection add-ons. If you have a royal blue `2020 Avalon` on the lot and can give us a straightforward, itemized **Out-the-Door Cash Buyer's Order**—just the car, Virginia tax, DMV title and tags, and your standard processing fee—we will go pick up a Cashier's Check from Anchor Federal Credit Union and buy it from you today."
+
+Denise paused for two seconds, looked from Rachel to me, and broke into a genuine, refreshing laugh.
+
+"Well," Denise said, "that is the clearest, most organized introduction I have heard all month! Sounds like some of the lots down on the boulevard put the two of you through the ringer this morning."
+
+"You have no idea," Rachel laughed, relaxing her shoulders as I gave her hand a happy squeeze. "The first guy wouldn't even look at me because he thought Michael was my husband, and the third place tried to charge us seven hundred dollars for air in the tires."
+
+"You won't get any of that nonsense at my desk," Denise promised, looking squarely at Rachel and then back to me. "My younger brother and I bought our first car together when we were in our twenties, so I respect the sibling partnership completely. Every question either of you asks gets a straight answer to both of you, and we don't put addendum markups on our cars. Let me pull the keys to a **Royal Blue Metallic `2020 Horizon Avalon`** we just unloaded off the transport truck on Thursday—only four miles on the odometer—so the two of you can inspect and drive the exact vehicle first, and while we're walking out, I'll have my desk manager print your exact Out-the-Door Cash Buyer's Order to the penny."
+
+***
+
+#### 3:40 PM — Test-Driving `VIN #4T1...` & The `$26,840.00` Buyer's Order
+
+True to her word, Denise walked us out to a gleaming **Royal Blue Metallic `2020 Horizon Avalon`** with `4` miles on the digital odometer.
+
+Before we even turned the key, Denise handed one spec sheet to Rachel and a second copy to me. Whenever Rachel asked a question—checking the trunk release, testing the backup camera display, or verifying the spare tire beneath the trunk mat—Denise looked directly into Rachel's eyes and answered her with complete professional respect.
+
+We took the royal blue Avalon out on a fifteen-minute test loop—Rachel driving the first half, and me driving the second half back to the lot—confirming that our specific car drove every bit as quietly and effortlessly as the one we had tested earlier.
+
+When we sat down at Denise's desk at **`3:55 PM`** (with Mom smiling proudly from the lounge sofa nearby), there was no Four-Square worksheet and no credit application anywhere in sight.
+
+Instead, Denise laid a single, clean, itemized **Retail Buyer's Order (`CASH TRANSACTION`)** right in the center of the desk so both Rachel and I could read it together:
+
+* **Co-Buyer 1:** `MICHAEL THOMAS RAGSDALE`
+* **Co-Buyer 2:** `RACHEL ANNA RAGSDALE`
+* **Vehicle:** `NEW 2020 HORIZON AVALON (4-DOOR SEDAN — ROYAL BLUE METALLIC)`
+* **Selling Price (including Factory Destination & Freight, minus `$500` Horizon Customer Cash Incentive):** **`$24,990.00`**
+* **Dealer Processing Fee:** **`$699.00`**
+* **Virginia `4.15%` Motor Vehicle Sales & Use Tax:** **`$1,066.09`**
+* **Virginia DMV Certificate of Title, Joint Registration, & License Plates:** **`$84.91`**
+* **Dealer Add-Ons / Aftermarket Packages:** **`$0.00`**
+* **TOTAL OUT-THE-DOOR CASH PRICE DUE:** **`$26,840.00`**
+* **AMOUNT TO BE FINANCED:** **`$0.00`**
+
+Rachel and I checked every single line item against our notebook calculator. Not a single hidden fee, not a single bogus markup, and `$3,160.00` underneath the `$30,000.00` that Jessica had wired into our joint savings account.
+
+Rachel looked at me across the desk, her dark brown eyes shining behind her glasses. "What do you say, Co-Owner?"
+
+"Fifty-fifty, Bug," I beamed, reaching across the arm of our chairs to wrap my sister in a tight, celebratory hug right there at Denise's desk. "Let's buy our car."
+
+### Part 2: The Cashier's Check, Joint Virginia Title (VSA 17A), & Driving Home Before the World Changes
+
+**Date:** 2020-02-15 at 16:15 America/New_York
+
+![In the delivery bay at Bayside Horizon, Michael and Rachel hug tightly beside their new royal blue 2020 Horizon Avalon holding their matching sets of keys while Ellen and saleswoman Denise Carter smile nearby]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/feb_2020_bayside_horizon_two_keys_handover.jpg)
+
+#### 4:15 PM — How a Real-Life Cash Purchase Closes (Step by Step)
+
+Once a dealership accepts that you are a serious cash buyer and prints an honest **Out-the-Door Buyer's Order**, the actual closing process moves like clockwork—and Denise walked **Rachel** and me through every step with zero mysteries:
+
+##### Step 1: Signing the Buyer's Order & Sending the Car to Detail
+First, **Michael Thomas Ragsdale** and **Rachel Anna Ragsdale** both signed the bottom of the **`$26,840.00` Cash Buyer's Order** as equal Co-Buyers (`Buyer` and `Co-Buyer`), locking in the exact price and the vehicle's seventeen-digit **VIN**. While Denise sent our royal blue **2020 Horizon Avalon** back to the detail bay to have the protective factory plastic peeled off the seats, the exterior washed, and the gas tank filled to the top, she handed us a signed copy of the Buyer's Order to take to our credit union.
+
+##### Step 2: Picking Up the `$26,840.00` Cashier's Check at Anchor Federal Credit Union
+Because car dealerships don't hand over keys on a twenty-six-thousand-dollar personal check (and cap debit card swipes due to merchant processing fees), **Mom (`Ellen`)** drove Rachel and me five minutes down the road to the nearest **Anchor Federal Credit Union (`AFCU`)** branch before the Saturday teller lobby closed at `5:00 PM`.
+
+Walking up to the teller window together, Rachel and I presented our Virginia driver's licenses, our **Anchor Federal Credit Union** member cards, and the signed Bayside Horizon Buyer's Order. Within three minutes, the teller withdrew **`$26,840.00`** from our **Joint Savings Account** (`MICHAEL THOMAS RAGSDALE AND RACHEL ANNA RAGSDALE`—leaving `$3,160.00` untouched inside the account for insurance and maintenance) and printed a crisp, watermarked **Official Credit Union Cashier's Check** payable to **`BAYSIDE HORIZON`** for **`$26,840.00`**.
+
+*(Because a single bank Cashier's Check over `$10,000` is drawn directly on verified credit union funds—unlike walking into a dealership with a duffel bag of hundred-dollar bills—it doesn't even trigger the federal IRS Form 8300 physical-currency reporting paperwork).*
+
+##### Step 3: Binding Joint Virginia Auto Insurance (The Only Two Listed Drivers)
+When Mom drove us back to **Bayside Horizon** at `4:35 PM`, Rachel and I sat down at Denise's desk and called our auto insurance carrier on speakerphone before entering the business office.
+
+Reading the 2020 Horizon Avalon's seventeen-digit **VIN** off the Buyer's Order, we bound our comprehensive and collision policy effective immediately, listing:
+* **Named Insureds:** **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`** (`3701 Canadian Arch, Virginia Beach, VA`)
+* **Listed / Rated Drivers on the Vehicle:** Strictly **`Michael Thomas Ragsdale`** and **`Rachel Anna Ragsdale`**—brother and sister as the **only two listed drivers** on the policy.
+
+Within two minutes, the insurance binder and temporary Virginia insurance cards arrived in Denise's email inbox and on both of our phones.
+
+##### Step 4: The Business Office & Virginia DMV Form `VSA 17A` (Equal Co-Owners)
+Even when you pay `100%` in cash with zero loan, you still sit down for ten minutes inside the dealership's **Business (`F&I`) Office**—not to sign a loan contract, but to complete the state DMV title, registration, and odometer paperwork.
+
+When the Business Manager offered us the optional extended warranty and tire-and-wheel service plans, Rachel and I politely said, *"No, thank you, just the factory Horizon warranty,"* and he respected our answer without a second push.
+
+Then came the most important document of the entire day: the **Commonwealth of Virginia Department of Motor Vehicles Application for Certificate of Title and Registration (`Form VSA 17A`)**.
+
+Right across the top of the Virginia DMV form, we verified every letter of our legal co-ownership:
+* **Owner's Full Legal Name:** **`RAGSDALE, MICHAEL THOMAS`**
+* **Co-Owner's Full Legal Name:** **`RAGSDALE, RACHEL ANNA`**
+* **Joint Ownership Designation:** **`AND`** with **Right of Survivorship (`JTWROS`)**—meaning both brother and sister hold `100%` equal legal title to the car, neither sibling's name is subordinate to the other, and **both** of our signatures are legally required to ever sell or transfer the vehicle.
+
+We handed the Business Manager the **`$26,840.00` Anchor Federal Credit Union Cashier's Check**, received our stamped **`PAID IN FULL — BALANCE DUE: $0.00`** receipt, and watched the dealership's online Virginia DMV terminal print our official **Virginia Vehicle Registration Card** right there on the desk—displaying both **`RAGSDALE, MICHAEL THOMAS`** and **`RAGSDALE, RACHEL ANNA`** side by side as the registered owners.
+
+***
+
+#### 5:10 PM — Two Sets of Keys & The End of the Bus Era
+
+Out under the bright lights of the delivery bay, our brand-new **royal blue `2020 Horizon Avalon`** was gleaming fresh from the wash bay—so fresh that the service tech hadn't even screwed the new license plates onto the bumpers yet, leaving the front grille completely clean for our delivery photo—with our new registration card tucked neatly inside the glove compartment.
+
+Denise stood by the open driver's door holding two identical black electronic key fobs.
+
+She didn't hand both fobs to me.
+
+She handed **one key fob to Rachel**, and **one key fob to me**.
+
+"Congratulations to *both* of you," Denise smiled warmly, shaking Rachel's hand first and then mine. "Safe travels, Co-Owners."
+
+Right there beside the hood of our brand-new royal blue car, Rachel threw both arms around my neck and I wrapped both arms around her waist in a long, tight, full-strength **Bear and Bug** hug while Mom snapped a photo of the two of us on her phone.
+
+For the drive home to `3701 Canadian Arch`, Mom led the way in her car while I drove the first half and Rachel rode shotgun—and halfway home, just for the sheer joy of it, we pulled into a shopping center lot and swapped seats so Rachel could drive our new Avalon the rest of the way into our neighborhood and back it into our parking space.
+
+Upstairs on our desks in the Command Center, our two **ARTS Business Class** train tickets from **Norfolk (`NFK`) to `BWI Rail Station`** were still waiting for our upcoming **March 2020 Spring Break** trip to North Linthicum, Baltimore, and Washington, D.C.—because we had already paid for those train tickets back in January before we knew we were buying a car, and we had every intention of taking our Spring Break train trip next month.
+
+As Rachel and I hung our matching **Horizon Avalon** key fobs side by side on the key hook by the front door on the evening of **Saturday, February 15, 2020**, all I knew was that after years of riding `CVTA` buses through heatwaves and freezing rain, my days as a daily bus rider were officially over.
+
+Neither of us had any idea that we had bought our car—and gotten me off the buses—literally weeks before a worldwide pandemic was about to shut down the planet.
+
 # Code Susquehanna
 
 ## The Wall Behind the Desk (Spring 2024 – Fall 2025)
@@ -30034,15 +30429,15 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 **Date:** 2024-03-13 at 17:55 America/New_York
 
-![At 6:02 PM in the 2017 Fairlawn Recreation Center parking lot, Rachel sits in the driver's seat of their shared car looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home instead of taking over the wheel]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/march_2024_parking_lot_rachel_drives_home.jpg)
+![At 6:02 PM in the 2017 Fairlawn Recreation Center parking lot, Rachel sits in the driver's seat of their shared car looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home instead of taking over the wheel]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/march_2024_parking_lot_rachel_drives_home.jpg)
 
 #### 5:50 PM — Five Minutes Left on the Clock
 
 Sitting in my chair behind the Front Desk at the **Fairlawn Recreation Center** in my royal blue polo shirt and pinned **`MICHAEL`** chest nametag on the late afternoon of **Wednesday, March 13, 2024**, I was ten minutes away from clocking out at **`6:00 PM`**.
 
-Outside in the parking lot, my sister **Rachel** was just pulling into a parking space in the car the two of us now shared, right on time to pick me up at six o'clock.
+Outside in the parking lot, my sister **Rachel** was just pulling into a parking space in our shared **2020 Horizon Avalon**, right on time to pick me up at six o'clock.
 
-Our plan for the evening was simple and routine: Rachel had driven our shared car over to the Rec Center to pick me up, and once I clocked out at `6:00 PM` and walked out to the parking lot, **Rachel was going to slide over into the passenger seat and I was going to take over driving us home**.
+Our plan for the evening was simple and routine: Rachel had driven our Avalon over to the Rec Center to pick me up, and once I clocked out at `6:00 PM` and walked out to the parking lot, **Rachel was going to slide over into the passenger seat and I was going to take over driving us home**.
 
 I tidied my clipboard on the counter, glanced at the clock reading **`5:55 PM`**, and thought about what we were having for dinner.
 
@@ -30108,7 +30503,7 @@ I gripped the passenger door handle with one hand and pressed my other hand agai
 
 **Date:** 2024-03-13 at 18:25 America/New_York
 
-![Inside the living room of their townhouse, Michael in his royal blue Fairlawn Rec Center polo shirt cries in Rachel's arms on the sofa as she holds him tightly against her shoulder, promising she is his sister and agreeing to keep the secret strictly between the two of them]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/march_2024_crying_in_rachels_arms_secret_pact.jpg)
+![Inside the living room of their townhouse, Michael in his royal blue Fairlawn Rec Center polo shirt cries in Rachel's arms on the sofa as she holds him tightly against her shoulder, promising she is his sister and agreeing to keep the secret strictly between the two of them]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/march_2024_crying_in_rachels_arms_secret_pact.jpg)
 
 #### 6:25 PM — "I'm Your Sister, and I'm Right Here"
 
@@ -30169,7 +30564,7 @@ She pulled me back against her shoulder for one more long, quiet squeeze on the 
 
 **Date:** 2024-04-19 at 17:31 America/New_York
 
-![At the Fairlawn Recreation Center Scan Station, Michael seated in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the front counter while coworker Ms. Susan sits beside him at her register]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg)
+![At the Fairlawn Recreation Center Scan Station, Michael seated in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the front counter while coworker Ms. Susan sits beside him at her register]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/april_2024_mutual_double_take_scan_station.jpg)
 
 #### 5:31 PM — The Mutual Double-Take & The Null Zone Behind the Wall
 
@@ -30257,7 +30652,7 @@ I had forgotten about **Twin B**.
 
 **Date:** 2026-08-11 at 19:29 America/New_York
 
-![At 7:29 PM on August 11, 2026, Michael stands frozen behind the Fairlawn Recreation Center Adjacent Register in his royal blue polo shirt as Hailey Bouchard ('Twin B') scans her Adult Resident Annual pass across the high counter, presenting a 1:1 identical facial match for Heather after eighteen years]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/aug_2026_hailey_digital_ambush_729pm.jpg)
+![At 7:29 PM on August 11, 2026, Michael stands frozen behind the Fairlawn Recreation Center Adjacent Register in his royal blue polo shirt as Hailey Bouchard ('Twin B') scans her Adult Resident Annual pass across the high counter, presenting a 1:1 identical facial match for Heather after eighteen years]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/aug_2026_hailey_digital_ambush_729pm.jpg)
 
 #### 6:45 PM — Running the Desk & The Hopper Audit
 
@@ -30342,7 +30737,7 @@ I needed an ironclad operational firewall.
 
 **Date:** 2026-08-15 at 21:30 America/New_York
 
-![In the upstairs Command Center at night, Michael and Rachel sit side by side in their adjacent desk chairs with Rachel's hand resting warmly on Michael's forearm as they engineer the three-layer Code Susquehanna Firewall together]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/aug_2026_command_center_code_susquehanna_firewall.jpg)
+![In the upstairs Command Center at night, Michael and Rachel sit side by side in their adjacent desk chairs with Rachel's hand resting warmly on Michael's forearm as they engineer the three-layer Code Susquehanna Firewall together]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/aug_2026_command_center_code_susquehanna_firewall.jpg)
 
 #### 9:30 PM — The Secret Debrief with Rachel & The 88 MPH Paradox
 
@@ -30418,7 +30813,7 @@ Exactly twenty-nine days later came **Friday, October 2, 2026**.
 
 **Date:** 2026-10-02 at 19:16 America/New_York
 
-![At 7:16 PM on Friday, October 2, 2026, Heather Bouchard ('Twin A') is held up in a brief check-in bottleneck at the Fairlawn Recreation Center Scan Station while coworker Tyler checks in a patron and Michael stands composed in his royal blue polo shirt beside the front desk employee speaker]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/oct_2026_716pm_unhandled_exception_bottleneck.jpg)
+![At 7:16 PM on Friday, October 2, 2026, Heather Bouchard ('Twin A') is held up in a brief check-in bottleneck at the Fairlawn Recreation Center Scan Station while coworker Tyler checks in a patron and Michael stands composed in his royal blue polo shirt beside the front desk employee speaker]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/oct_2026_716pm_unhandled_exception_bottleneck.jpg)
 
 #### 7:15 PM — Forty-Five Minutes to Close
 
@@ -30482,7 +30877,7 @@ I caught that string in RAM half a second before it could get anywhere near my v
 
 **Date:** 2026-10-02 at 19:20 America/New_York
 
-![At 8:00 PM Friday closing time at Fairlawn Recreation Center, Michael and Tyler stand behind the Front Desk in their royal blue polo shirts as Heather Bouchard walks out from behind the Weight Room wall toward the glass exit doors, recognizing Michael at the desk and deliberately averting her gaze]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/oct_2026_800pm_mutual_avoidance_exit.jpg)
+![At 8:00 PM Friday closing time at Fairlawn Recreation Center, Michael and Tyler stand behind the Front Desk in their royal blue polo shirts as Heather Bouchard walks out from behind the Weight Room wall toward the glass exit doors, recognizing Michael at the desk and deliberately averting her gaze]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/oct_2026_800pm_mutual_avoidance_exit.jpg)
 
 #### 7:20 PM — Holding the Line at Status Yellow
 
@@ -30528,7 +30923,7 @@ She knew who worked the Front Desk at Fairlawn Recreation Center. She knew what 
 
 **Date:** 2026-10-02 at 21:00 America/New_York
 
-![At 9:00 PM in the upstairs Command Center, Rachel stands between their adjacent computer desks and pulls Michael—still in his royal blue work polo shirt—into a deep, grounding Bear and Bug hug as he rests his forehead against her shoulder]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022/oct_2026_900pm_rachel_only_vault_hug.jpg)
+![At 9:00 PM in the upstairs Command Center, Rachel stands between their adjacent computer desks and pulls Michael—still in his royal blue work polo shirt—into a deep, grounding Bear and Bug hug as he rests his forehead against her shoulder]({{CDN}}/raggiesoft-books/images/scenes/rachel/b023/oct_2026_900pm_rachel_only_vault_hug.jpg)
 
 #### 9:00 PM — Coming Home to the Vault
 
