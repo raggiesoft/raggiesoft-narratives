@@ -29851,25 +29851,36 @@ Rachel and I looked at the screen, looked at each other across our desks, and **
 
 ***
 
-#### 4:15 PM — Moving Into Our 2-Bedroom Upperclass Apartment & The Alternating Bed Rotation Protocol
+#### 4:15 PM — Ground-Floor `2 Bed / 2 Bath` in Dominion Village, The `Dominion Pass`, & Alternating Between Bedroom 1 and Bedroom 2
 
-On **Saturday afternoon, August 22, 2015**, **Ashley** and **Kristin** helped Rachel and me load our suitcases, textbooks, and bedding into Ashley's car at Moosewood Drive and drove us up to Norfolk to move into our new **two-bedroom upperclass on-campus apartment** at **Virginia Dominion University**.
+On **Saturday afternoon, August 22, 2015**, **Ashley** and **Kristin** helped Rachel and me load our suitcases, textbooks, and bedding into Ashley's car at Moosewood Drive and drove us up to Norfolk to move into our new **ground-floor `2 Bed / 2 Bath` upperclass on-campus apartment** in **Dominion Village** at **Virginia Dominion University**.
 
-When we tapped our VDU student ID cards against the electronic lock and stepped inside, we saw immediately why skipping freshman classification with our `CCHR` credits was such a win.
+Our apartment building in **Dominion Village** was **three stories tall (`3 floors`) with no elevators**, and unlike a traditional freshman dorm, it had **no central dorm lobby or front desk**—just a quiet interior hallway with exterior doors at the ends that led directly outside. Because Rachel and I were assigned to the **ground floor (`1st floor`)**, we didn't have to haul a single box up a stairwell, and right down our first-floor hallway was the building's laundry room serving all three floors: **five washers and six dryers** operated by swiping **laundry credits** loaded onto our official VDU student ID cards, the **`Dominion Pass`** (VDU's campus card equivalent to CPI's *Poly Pass*).
 
-Instead of a concrete freshman dormitory corridor with a communal bathroom down the hall, we had our own private front door, our own living room and kitchen, our own private apartment bathroom, and **two private bedrooms (`Bedroom A` and `Bedroom B`)**—each furnished by the university with a **full-sized bed**, a desk, and a dresser.
+When we tapped our **`Dominion Pass`** cards against our apartment's front **`ENTRY`** door and stepped inside, we saw immediately why skipping freshman classification with our `CCHR` credits was such a win:
 
-As soon as Ashley and Kristin hugged us goodbye for the week and we propped both interior bedroom doors and the bathroom door wide open under our lifelong [**Open-Door Policy**](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts), Rachel and I stood in the middle of our living room in our new royal-blue and silver **`VDU`** t-shirts, holding hands with our fingers laced together and grinning from ear to ear.
+![Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Dominion Village at Virginia Dominion University (VDU)]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_2bed_2bath_floorplan.jpg)
+
+* **The Entry, Kitchen, & Dining Nook:** Stepping through the front **`ENTRY`** door at the bottom center of the apartment, to the **left** was our full **`KITCHEN`**—complete with a four-burner stove and oven, refrigerator, a pantry closet on the far left wall, and a peninsula counter with the kitchen sink—while to the **right** of the entry sat a square four-chair **dining table**.
+* **The Central Living Room:** Beyond the kitchen sink peninsula and dining table opened the central **`LIVING ROOM`**, furnished with a three-cushion sofa against the back wall, a coffee table, a side end table, and two armchairs facing each other.
+* **The Two Locked Maintenance-Access-Only Utility Closets (`X` and `●`):** Built into the apartment's core were two locked **VDU Facilities Maintenance Access Only** closets that residents didn't use for storage:
+  1. In the back-right corner of the **Living Room** right beside the sofa was the utility closet marked **`X`** on the floor plan, which housed the apartment's **HVAC system**.
+  2. Tucked between the **Kitchen** sink peninsula and Bedroom 1's closet was the utility closet marked with a **circle (`●`)** on the floor plan, which housed the apartment's **hot water heater**.
+* **Symmetric Split-Wing `2 Bed / 2 Bath` Suite (`Bedroom 1: Michael` & `Bedroom 2: Rachel`):** Opening symmetrically off the left and right walls of the Living Room were our two private bedroom-and-bathroom suites:
+  * **`BEDROOM 1` (Left Wing — Michael's Room):** Furnished with a **full-sized bed** beneath the window, a nightstand in the left corner, a study desk, chair, and dresser along the right wall, a **`CLOSET WITH DOORS`**, and its own private en-suite **`BATH`** (`Bath 1`: vanity sink, toilet, and full bathtub/shower).
+  * **`BEDROOM 2` (Right Wing — Rachel's Room):** A mirror-image suite across the Living Room, furnished with a **full-sized bed** beneath the window, a nightstand in the right corner, a study desk, chair, and dresser along the left wall, a **`CLOSET WITH DOORS`**, and its own private en-suite **`BATH`** (`Bath 2`: vanity sink, toilet, and full bathtub/shower).
+
+As soon as Ashley and Kristin hugged us goodbye for the week and we propped both interior bedroom doors (`Bedroom 1` and `Bedroom 2`) and both en-suite bathroom doors wide open under our lifelong [**Open-Door Policy**](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts), Rachel and I stood in the middle of our living room in our new **`VDU`** t-shirts, holding hands with our fingers laced together and grinning from ear to ear.
 
 Of course, Rachel and I had zero intention of sleeping in separate bedrooms. We share a bed every single night.
 
-Looking through the two open doorways at the identical full-sized beds in `Bedroom A` and `Bedroom B`, however, my operational brain immediately spotted a campus-housing edge case.
+Looking from the open doorway of **`Bedroom 1`** on the left wall to the open doorway of **`Bedroom 2`** on the right wall—and then glancing at the locked **`X` (`HVAC`)** and **`●` (`Hot Water Heater`)** maintenance closets—my operational brain immediately spotted a campus-housing edge case.
 
-"Wait a second, Bug," I said, looking from Bedroom A's mattress to Bedroom B's mattress. "In on-campus housing, Residence Life staff and maintenance conduct periodic health-and-safety room inspections once a month. If an RA or a maintenance tech walks through here in October and sees `Bedroom A` lived in while `Bedroom B`'s bed has sat untouched with crisp, museum-flat sheets since August, somebody might start asking nosy questions about how the GIH pilot is being used."
+"Wait a second, Bug," I said, looking from my full-sized bed in `Bedroom 1` to her full-sized bed in `Bedroom 2`. "Between monthly Residence Life health-and-safety inspections and VDU Facilities technicians coming in to change the HVAC filter in the `X` closet or check the hot water heater in the circle closet, staff are going to walk right past both open bedroom doors. If `Bedroom 1` looks lived-in while `Bedroom 2`'s full bed sits untouched with museum-tight sheets for sixteen weeks straight, somebody might start asking nosy questions."
 
 Rachel laughed softly, her eyes sparkling behind her rounded glasses. "So how does the future Director of Operations solve that?"
 
-"We institute the **Alternating Bed Rotation Protocol**," I grinned. "We make up both full-sized beds with identical sheets and comforters. On odd nights of the calendar, we sleep together in `Bedroom A`'s full bed. On even nights of the calendar, we sleep together in `Bedroom B`'s full bed. Both bedrooms always look naturally, equally lived-in, both mattresses wear evenly, and we never spend a single night apart."
+"We alternate every single night," I grinned. "We make up both full-sized beds with our sheets and comforters. On odd nights, we share my full-sized bed in **`Bedroom 1`**. On even nights, we share your full-sized bed in **`Bedroom 2`**. Both bedrooms always look naturally, equally lived-in, both mattresses wear evenly, and we never spend a single night apart."
 
 "Approved unanimously," Rachel whispered, stepping up to kiss my cheek.
 
@@ -29907,7 +29918,7 @@ Every single time the subject of driving lessons came up over the years, however
 
 So in **late January 2016**—timed carefully between the start of our Spring 2016 semester at VDU and our summer break so that my tendons would be 100% healed and cleared for driving by June—I checked into the outpatient orthopedic surgery center in Hampton Roads and underwent **elective bilateral Achilles heel cord lengthening in both feet**.
 
-Through the first three weeks of recovery—first resting back home at our permanent family residence on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) under the care of Rachel, Kristin, Ashley, Jessica, and Mom, and then back at our ground-level accessible 2-bedroom upperclass apartment at **VDU**—Rachel never left my side for a second.
+Through the first three weeks of recovery—first resting back home at our permanent family residence on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) under the care of Rachel, Kristin, Ashley, Jessica, and Mom, and then back at our **ground-floor `2 Bed / 2 Bath` upperclass apartment in Dominion Village at VDU** (where living on the first floor of our three-story building meant zero stairs to climb from the exterior hallway door into our apartment)—Rachel never left my side for a second.
 
 And as the second weekend of February approached, there was one imminent calendar milestone sitting at the top of my mind:
 
@@ -30025,13 +30036,13 @@ As soon as the heavy hotel door clicked shut and I threw the deadbolt and night 
 
 "Just like home, Bear," she whispered.
 
-Back in Norfolk, this academic year—beginning in [**Fall 2015** when we transferred our upperclass credits from `CCHR` and signed up in a heartbeat for VDU's **Gender-Inclusive Housing (`GIH`)** pilot program](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-1-upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat), and continuing now into our **Spring 2016** semester while keeping [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach as our permanent family residence—Rachel and I lived in a **two-bedroom upperclass on-campus apartment**, where each of the two private bedrooms comes furnished with a **full-sized bed**.
+Back in Norfolk, this academic year—beginning in [**Fall 2015** when we transferred our upperclass credits from `CCHR` and signed up in a heartbeat for VDU's **Gender-Inclusive Housing (`GIH`)** pilot program](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-1-upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat), and continuing now into our **Spring 2016** semester while keeping [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach as our permanent family residence—Rachel and I lived in a **ground-floor `2 Bed / 2 Bath` upperclass on-campus apartment** in **Dominion Village**, where **`Bedroom 1`** (mine) and **`Bedroom 2`** (Rachel's) each came furnished with a **full-sized bed**.
 
 Of course, Rachel and I have never slept in separate rooms—we share a bed every single night.
 
-Early in Fall 2015, however, we realized that if a maintenance technician, a roommate inspection, or a casual visitor ever glanced through the open bedroom doors of our two-bedroom apartment and saw one full-sized bed looking permanently lived-in while the second full-sized bed sat untouched with military-tight corners for sixteen weeks straight, someone might start asking nosy questions.
+Early in Fall 2015, however, we realized that if a Residence Life inspection or a VDU Facilities maintenance technician coming in to service the locked **`X` (`HVAC`)** closet in our living room or the **`●` (`Hot Water Heater`)** closet by our kitchen ever glanced through our open bedroom doors and saw one full-sized bed looking permanently lived-in while the second full-sized bed sat untouched with military-tight corners for sixteen weeks straight, someone might start asking nosy questions.
 
-So, as RHA's **Director of Operations** and **Secretary**, we instituted our **Alternating Bed Rotation Protocol**: on odd nights at VDU, we sleep together in Bedroom A's full-sized bed; on even nights, we sleep together in Bedroom B's full-sized bed. Both bedrooms always look naturally lived-in, both mattresses wear evenly, and we never spend a single night apart.
+So, as RHA's **Director of Operations** and **Secretary**, we instituted our **Alternating Bed Rotation Protocol**: on odd nights at VDU, we sleep together in **`Bedroom 1`'s** full-sized bed; on even nights, we sleep together in **`Bedroom 2`'s** full-sized bed. Both bedrooms always look naturally lived-in, both mattresses wear evenly, and we never spend a single night apart.
 
 And here in Room 114 at **The Hotel at Poly**, with two Queen beds in an ADA room for a two-night Friday-and-Saturday stay, the math was even simpler.
 
@@ -30155,7 +30166,7 @@ Rachel climbed in right beside me, buckled her seatbelt, and immediately tucked 
 
 I checked my mental calendar, kissed the top of my Bug's head, and rested my cheek against her hair for the four-and-a-half-hour ride home to the coast.
 
-"Sunday night is Bedroom A's full bed, Madame Secretary," I whispered back. "Wake me up when we hit the Hampton Roads Bridge-Tunnel."
+"Sunday night is Bedroom 1's full bed, Madame Secretary," I whispered back. "Wake me up when we hit the Hampton Roads Bridge-Tunnel."
 
 # Behind the Wheel: 55 MPH on Ferrell Parkway (Summer 2016)
 
