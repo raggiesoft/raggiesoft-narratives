@@ -30109,7 +30109,7 @@ Whether on Moosewood Drive in Virginia Beach or in the courtyards of Redmond, th
 
 In the years since **Jessica** had finished building our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, the five of us—**Rachel**, **Ashley**, **Kristin**, **Jessica**, and I—had settled into the safest, most unshakable home perimeter of our lives. **Moosewood Drive** was, and would always remain, **Rachel's and my permanent legal residence**.
 
-During our years in ["The Shallow End" at the **Community College of Hampton Roads (`CCHR`)**](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end), Rachel and I had methodically knocked out semester after semester of transferable college coursework right across Buckner Boulevard from home. By the end of the **Spring 2015 semester**, we were ready to go back to school at a four-year university—specifically **Virginia Dominion University (`VDU`)** up in **Norfolk**—to earn our bachelor's degrees, and we also wanted to try out the on-campus living experience together.
+During our years in ["The Shallow End" at the **Community College of Hampton Roads (`CCHR`)**](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end), Rachel and I had methodically knocked out semester after semester of transferable college coursework right across Buckner Boulevard from home—aligning our schedules after May 2009 so we took every single class together side-by-side and earned our transferable **Associate of Science (`A.S.`) degrees in Computer Information Systems**. By the end of the **Spring 2015 semester**, we were ready to go back to school at a four-year university—specifically **Virginia Dominion University (`VDU`)** up in **Norfolk**—to earn our **Bachelor of Science (`B.S.`) degrees in Information Systems & Technology (`IST`)** together, and we also wanted to try out the on-campus living experience together.
 
 Ahead of officially deciding to commit to VDU for the upcoming Fall 2015 semester, however, Rachel and I signed up for a Friday afternoon **Spring Campus Tour** on **May 1, 2015**.
 
@@ -30278,9 +30278,63 @@ Neither Rachel nor I missed a beat or let go of each other's hand for a second.
 
 We stepped inside the laundry room, loaded our clothes and sheets into two of the **five washers** opposite the row of **six dryers**, and tapped our **`Dominion Pass`** cards to deduct the laundry credits and start the wash cycle.
 
-By the end of that first week, the RAs and Housing staff in **Building 2** had finally gotten used to us—realizing that while the building's only GIH pair held hands everywhere they went and cuddled on the couch like a couple, we were also the quietest, most organized upperclassmen in the building. In fact, within six weeks, the residents of **Dominion Village** and the rest of campus would elect me **VDU Residence Hall Association (`RHA`) Director of Operations** and Rachel **RHA Secretary**, setting us up to represent VDU at **`SAACURC` 2016** in February.
+By the end of that first week, the RAs and Housing staff in **Building 2** had finally gotten used to us—realizing that while the building's only GIH pair held hands everywhere they went and cuddled on the couch like a couple, we were also the quietest, most organized upperclassmen in the building. And the very next morning, as we walked out of Building 2 onto the flat concrete walkways of **Dominion Mall** for our first day of upperclass lectures, our shared academic track put that exact same partnership to work inside the classroom.
 
-Before we could head up to Blacksburg in February, however, there was one piece of long-overdue medical hardware maintenance my ankles needed first.
+### Part 4: Our Shared Academic Track: Information Systems & Technology, Haunted by the Past, & Sitting Side-by-Side
+
+**Date:** 2015-08-26 at 09:30 America/New_York
+
+![Inside a modern computer lab and lecture classroom at Virginia Dominion University in Fall 2015, Michael and Rachel sit side-by-side at adjacent computer workstations in matching royal-blue VDU t-shirts and jeans, holding hands with their fingers laced together between their keyboards while looking warmly at each other]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_ist_shared_academic_track_classroom.jpg)
+
+#### 9:30 AM — Why I Need My Bug at My Side in Every Class
+
+When **Rachel** and I stepped out of **Building 2 (`1016 Hampton House`)** at `9:10 AM` on **Wednesday, August 26, 2015** for our first full day of upperclass lectures at **Virginia Dominion University (`VDU`)**, our course schedules printed inside our backpacks didn't just overlap.
+
+They were identical down to the last five-digit course registration number (`CRN`).
+
+There was a deep, unshakable reason why Rachel and I shared every single class—and why I wanted my sister right at my side as much as humanly possible whenever I set foot on a college campus.
+
+Even at twenty-seven years old, **I was still haunted by my past.**
+
+Twice in my twenties, I had stepped outside the protective perimeter of my family and trusted someone on my own:
+1. First, in **September 2004**, I had struck up a conversation on my own in a ticket line in Downtown Norfolk with [**Delores**](https://books.raggiesoft.com/rachel/the-washington-trap)—an unvetted leap that had spiraled into two years of isolation, manipulation, and abuse across Norfolk and Washington State that nearly destroyed me before Jessica and Rachel pulled me out.
+2. Second, in **August 2007**, when I first enrolled at the [**Community College of Hampton Roads (`CCHR`)**](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2-first-contact-the-first-embrace-the-route-25-equation) while Rachel was taking morning general-education classes on a separate schedule and working afternoon shifts at *The Spot*, I had met **Heather Bouchard** on my own in the cafeteria line and in `ENG 111`. For four consecutive semesters (`August 2007 – May 2009`), I had built my entire weekday campus routine around riding **CVTA Route 25** with Heather—until [the morning of **Friday, May 8, 2009**](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception), when she finished her last final exam, rode the `10:45 AM` bus with me to **Princess Anne Road & Susquehanna Drive**, suddenly shoved my arms away when I reached for our routine goodbye hug, stepped off the bus without a single word of explanation, and erased me from her life forever.
+
+After May 8, 2009, walking into a college lecture hall or sitting alone at a campus table felt like stepping onto a live minefield. Every time a classroom door swung open under harsh fluorescent lights, or a stranger sat down next to me unannounced, my nervous system flashed back to Delores's suffocating grip and the cold shock of Heather's hands pushing against my chest on Route 25.
+
+I didn't want to navigate campus alone ever again. **I wanted Rachel at my side as much as possible.**
+
+And my Bug didn't hesitate for a single heartbeat.
+
+Starting the very next semester back at **`CCHR`**, Rachel and I locked our academic tracks together into a single, synchronized unit. We declared the exact same transferable degree program—the **Associate of Science (`A.S.`) in Computer Information Systems**—and registered for the exact same course sections at the exact same hours so that we walked into every building together, sat side-by-side at adjacent desks in every lecture and lab, and ate every lunch together.
+
+Now, transferring into **Virginia Dominion University (`VDU`)** as upperclassmen in **Fall 2015**, we brought that exact same two-person academic perimeter with us.
+
+![Michael and Rachel sitting side-by-side at adjacent computer workstations in their VDU Information Systems & Technology classroom, holding hands with their fingers laced together between their keyboards]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_ist_shared_academic_track_classroom.jpg)
+
+***
+
+#### 9:35 AM — Bachelor of Science in Information Systems & Technology (`B.S. in IST`)
+
+At VDU, both Rachel and I officially declared the **Bachelor of Science in Information Systems & Technology (`B.S. in IST`)**—a degree track that fit both of our brains like a custom-tailored glove.
+
+Where a pure theoretical math program would have drowned us in abstract proofs, VDU's **Information Systems & Technology** curriculum blended the exact disciplines that Rachel and I already lived and breathed at our side-by-side desks at home on Moosewood Drive:
+* **`IST 301` — Enterprise Systems & Cloud Infrastructure Architecture:** Designing structured, fault-tolerant cloud storage hierarchies, role-based access controls, and standardized directory taxonomies.
+* **`IST 315` — Relational Database Management & Information Modeling:** Structuring clean schemas, audit logs, and zero-redundancy data records.
+* **`IST 330` — Network Operations & Systems Administration:** Understanding how enterprise networks, routing tables, and operational hardware stay online under load.
+* **`IST 340` — Systems Analysis, Operations Management, & Technical Documentation:** Transforming messy human meetings and organizational workflows into crystal-clear standard operating procedures (`SOPs`), structured minutes, and executive briefing packets.
+
+Walking into the second-floor computer lab at `9:25 AM` in our matching royal-blue **`VDU`** t-shirts and jeans, Rachel and I bypassed the single seats on the aisle and claimed **Workstations 14 and 15** side-by-side in the middle row, with wide windows overlooking the live oaks and flat concrete expanse of **Dominion Mall**.
+
+As soon as we logged into our widescreen terminals with our VDU credentials and pulled up the `IST 301` syllabus, I reached my right hand across the narrow gap between our keyboards.
+
+Without even needing to look down, Rachel slid her left hand away from her mouse and laced her warm fingers tightly through mine, resting our joined hands right on the desk between our monitors.
+
+Instantly, the background static in my chest quieted to zero. With Rachel sitting ten inches to my right—her shoulder brushing mine whenever we leaned in to compare a cloud-directory diagram or a database schema, and her hand anchored securely in mine—the ghosts of Delores and Heather couldn't touch me.
+
+In fact, our shared **Information Systems & Technology** coursework quickly spilled over into campus leadership. Six weeks into the Fall 2015 semester, when the on-campus residents of **Dominion Village** and the VDU residence halls saw how effortlessly the two of us organized apartment feedback and structured hall council spreadsheets, they democratically elected me **VDU Residence Hall Association (`RHA`) Director of Operations** and elected Rachel **RHA Secretary**—setting the two of us up to represent VDU together at the **`SAACURC` 2016 Regional Student Leadership Conference** up at **Commonwealth Polytechnic Institute (`CPI`)** in Blacksburg in February.
+
+Before we could head up into the Blue Ridge Mountains in February, however, there was one piece of long-overdue medical hardware maintenance my ankles needed first.
 
 ## Bilateral Achilles Heel Cord Lengthening & Cleared for CPI
 
@@ -30346,21 +30400,21 @@ I let out a huge breath of relief. "Thank you, Doctor!"
 
 "Don't worry, Doctor," Rachel said, resting her free hand on the rear push-handle of the blue wheelchair while keeping her other hand laced tightly through mine. "I'm his RHA Secretary and his perimeter guard. His feet aren't touching a single hill in Blacksburg."
 
-With my signed travel clearance tucked into our folder and **Kyleen** notifying **The Hotel at Poly** in Blacksburg to assign Rachel and me a ground-floor **ADA Accessible Double-Queen Room** (`Room 114`), we were officially cleared for [our Friday morning departure to **`SAACURC 2016`**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly)—and the countdown to our June 2016 driving clearance had officially begun.
+With my signed travel clearance tucked into our folder and **Kyleen** notifying **The Hotel at Poly** in Blacksburg to assign Rachel and me a ground-floor **ADA Accessible Double-Queen Room** (`Room 114`), we were officially cleared for [our Friday morning departure to **`SAACURC 2016`**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly)—and the countdown to our June 2016 driving clearance had officially begun.
 
 # The Mountain Conference (SAACURC 2016)
 
 ## The Bear, The Bug, and The Forger
 
-### Part 1: Friday Arrival, The Commonwealth Mall Curb, & The ADA Suite at The Hotel at Poly
+### Part 1: Friday Arrival, Struggling Up the Steep Hills of CPI, & Two Queen Beds at The Hotel at Poly
 
 **Date:** 2016-02-12 at 16:00 America/New_York
 
-![Michael in his manual wheelchair with push rims and Rachel gripping the rear push handles on the hilly CPI campus in Blacksburg during SAACURC 2016, both wearing jeans, Blue-and-Silver VDU t-shirts, and winter jackets surrounded by visiting SAACURC student delegations]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
+![Rachel leaning her body weight forward and straining against the rear push-handles as she struggles to push Michael in his manual wheelchair up a steep limestone hill on the CPI campus in Blacksburg during SAACURC 2016, surrounded by visiting students in their school colors]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_cpi_steep_hill_rachel_struggling_push.jpg)
 
 #### 4:00 PM — Arrival at The Hotel at Poly
 
-The four-and-a-half-hour drive west from Norfolk up to the 2,100-foot plateau of Blacksburg was a masterclass in Virginia winter geography. When our fifteen-passenger **Virginia Dominion University (`VDU`)** van pulled out of Hampton Roads at eleven-thirty on Friday morning, February 12, 2016, the coastal air was forty-four degrees and damp with salt fog. By the time our **VDU Residence Hall Association (`RHA`) Advisor**, **Kyleen**, steered the van off Interstate 81 onto U.S. Route 460 West and rolled onto the campus of **Commonwealth Polytechnic Institute (`CPI`)**, the temperature was a crisp twenty-nine degrees and patches of mostly melted white snow from a storm two days earlier clung to the shaded grass between the gray Ironstone buildings.
+The four-and-a-half-hour drive west from Norfolk up to the 2,100-foot mountain plateau of Blacksburg was a masterclass in Virginia winter geography. When our fifteen-passenger **Virginia Dominion University (`VDU`)** van pulled out of Hampton Roads at eleven-thirty on Friday morning, February 12, 2016, the coastal air was forty-four degrees and damp with salt fog. By the time our **VDU Residence Hall Association (`RHA`) Advisor**, **Kyleen**, steered the van off Interstate 81 onto U.S. Route 460 West and rolled onto the campus of **Commonwealth Polytechnic Institute (`CPI`)**, the temperature was a crisp twenty-nine degrees and patches of mostly melted white snow from a storm two days earlier clung to the shaded grass between the gray Ironstone buildings.
 
 At `4:00 PM`, Kyleen pulled the van under the brick porte-cochère of **The Hotel at Poly**—the university hotel directly adjacent to the CPI campus, where all the visiting school delegations for the **2016 `SAACURC` Regional Student Leadership Conference** were staying for the weekend (unless their campus was right down the road like **Radford University** fifteen minutes away, where driving in for the two-day Saturday–Sunday conference was easy).
 
@@ -30370,23 +30424,47 @@ I am not normally a wheelchair user—standing up, I'm `5'7"`, the exact same he
 
 And there was no way I was missing **`SAACURC`**.
 
-**`SAACURC`** (*the South Atlantic Affiliate of College and University Residence Halls*) is the student-governed **Residence Hall Association (`RHA`)** conference for our region. Before we pulled out of Norfolk this morning, **Kyleen**—who, as a full-time Residence Life staff member, also attends **`CACUHO`**, a separate professional housing conference that Rachel and I had never even heard of because professional housing staff and student-governed RHAs are run by two completely separate entities that don't intermingle—had reminded our van that at `SAACURC`, the students run the floor. At VDU, **every single RHA position is elected directly by on-campus residents**:
-* Back in the fall election, VDU's on-campus residents had elected me **Director of Operations** for the VDU Residence Hall Association. My job is the structural backbone of our organization: I build and standardize the meeting minutes templates, keep our RHA cloud storage drive organized with military-grade folder taxonomy, and receive and audit the weekly operational reports from the Hall Councils of every single residence hall across the VDU campus.
-* And sitting right beside me in the van—wearing jeans and a **Blue and Silver** **Virginia Dominion University (`VDU`)** t-shirt under her warm winter jacket—was my Bug, **Rachel**, whom VDU's on-campus residents had elected **RHA Secretary**. Between my cloud-drive architecture and Rachel's live transcription speed, the two of us ran VDU RHA's documentation like a Swiss watch.
+**`SAACURC`** (*the South Atlantic Affiliate of College and University Residence Councils*) is the student-governed **Residence Hall Association (`RHA`)** conference for our region, where the students run the floor. At VDU, **every single RHA position is elected directly by on-campus residents**:
+* Back in the fall election, VDU's on-campus residents had elected me **Director of Operations** for the VDU Residence Hall Association. Putting [our shared **Bachelor of Science in Information Systems & Technology (`IST`)** coursework](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-4-our-shared-academic-track-information-systems-technology-haunted-by-the-past-sitting-side-by-side) to work, I built and standardized our meeting minutes templates, kept our RHA cloud storage drive organized with clean folder taxonomy, and received and audited the weekly operational reports from the Hall Councils of every single residence hall across the VDU campus.
+* And sitting right beside me in the van—wearing jeans and a **Blue and Silver** **Virginia Dominion University (`VDU`)** t-shirt under her warm winter jacket—was my Bug, **Rachel**, whom VDU's on-campus residents had elected **RHA Secretary**. Just as we sat side-by-side at adjacent workstations in every single **`IST`** lecture and computer lab back in Norfolk because I never wanted to navigate a college campus without her beside me, the two of us ran VDU RHA's documentation like a Swiss watch.
 
-"Easy on the step-down, Bear," Rachel murmured for my ears only as I eased myself out of the van seat and settled onto the seat of my manual wheelchair—hands resting on the push-rims of the rear wheels—pulling my warm winter jacket snug over my **Blue and Silver** **`VDU`** t-shirt and jeans. Because we weren't presenting a formal session this weekend, neither of us needed to be dressed up; like all the other visiting school delegations filling the sloping CPI walkways in their school colors, we were repping VDU in our Blue and Silver t-shirts, jeans, and winter jackets.
+"Easy on the step-down, Bear," Rachel murmured for my ears only as I eased myself out of the van seat and settled onto the seat of my manual wheelchair—hands resting on the push-rims of the rear wheels—pulling my warm winter jacket snug over my **Blue and Silver** **`VDU`** t-shirt and jeans. Because we weren't presenting a formal session this weekend, neither of us needed to be dressed up; like all the other visiting school delegations arriving on campus in their respective school colors and shirts, we were repping VDU in our Blue and Silver t-shirts, jeans, and winter jackets.
 
-"Zero strain, Bug," I promised, gripping the wheel push-rims as Rachel stepped behind my chair and gripped both rear push-handles to help steady me against the steep Blacksburg campus hills—anchoring our perimeter the way the two of us had for our entire lives.
+"Zero strain, Bug," I promised, gripping the wheel push-rims as Rachel stepped behind my chair and gripped both rear push-handles.
+
+***
+
+#### 4:15 PM — Struggling Up the Steep Hills of CPI (And Already Missing Flat VDU)
+
+While Kyleen finished checking our delegation's master room block in at the front desk of **The Hotel at Poly**, the six of us headed across the salted brick plaza toward **Kincaid Student Center** (`290 College Ave.`) to pick up our Friday evening early-bird registration lanyards before dinner.
+
+It took less than ninety seconds for Rachel and me to discover the brutal topographic difference between **Norfolk** and **Blacksburg**.
+
+Back home at **Virginia Dominion University** in Norfolk, our entire coastal Tidewater campus sits right at sea level. **Dominion Mall**, the walkways around **Monarch Commons**, and the sidewalk outside **Building 2 (`1016 Hampton House`)** are pancake-flat concrete from one end of campus to the other.
+
+**Commonwealth Polytechnic Institute**, on the other hand, is carved into a rugged 2,100-foot Appalachian mountain plateau where seemingly every single walkway between the gray **Ironstone** buildings is a steep, relentless uphill climb.
+
+![Rachel leaning her body weight forward and straining against the rear push-handles as she struggles to push Michael in his manual wheelchair up a steep limestone hill on the CPI campus in Blacksburg during SAACURC 2016]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_cpi_steep_hill_rachel_struggling_push.jpg)
+
+As soon as our walkway tilted upward toward **Commonwealth Mall**, gravity dug its heels in against my four wheels.
+
+Because I was three weeks post-op from bilateral Achilles heel cord lengthening surgery in both feet, I couldn't plant my sneakers on the pavement to help push—every ounce of forward momentum had to come from **Rachel** pushing from behind and my upper body cranking the cold metal push-rims.
+
+Behind my chair, I felt Rachel lean her entire `5'7"` frame forward at a steep diagonal angle into the rear push-handles, her sneakers bracing hard against the salted concrete grade as her breath puffed out in white clouds in the twenty-nine-degree mountain air.
+
+"Whoa—okay, Bear, whoever built a university on the side of a mountain clearly never pushed a wheelchair up it!" Rachel panted with a strained laugh, her cheeks turning bright pink in the cold air as she put her shoulders into the handles while I leaned forward in my seat and hauled on both wheel push-rims with everything my arms had to keep us moving uphill.
+
+"My arms are burning already, Bug!" I groaned back, grinning through the exertion as we inched up the limestone grade past groups of arriving conference delegates wearing **Chicago Maroon and Burnt Orange `CPI`** shirts, **Purple and Gold `SVU`** shirts, and **Red and Navy `RADFORD`** shirts under their open winter coats. "Remind me to kiss the flat concrete of Dominion Mall the second we get back to VDU on Sunday night!"
+
+"Deal," Rachel gasped, letting out a long breath as we finally crested the top of the incline where the sidewalk leveled out along **Commonwealth Mall**. "I am officially looking forward to going back to flat VDU when this conference is over."
 
 ***
 
 #### 4:25 PM — The Commonwealth Mall Curb & The Unspoken Nod
 
-While Kyleen finished checking our delegation's master room block in at the front desk of **The Hotel at Poly**, the six of us walked across the salted brick plaza toward **Kincaid Student Center** (`290 College Ave.`) to pick up our Friday evening early-bird registration lanyards before dinner.
+Catching our breath at the crosswalk along **Commonwealth Mall**, directly beneath the limestone arch of **The Keystone Bridge** across from **Kincaid Hall**, the transit geek in me immediately perked up.
 
-Our route took us right past the crosswalk along **Commonwealth Mall**, directly beneath the limestone arch of **The Keystone Bridge** across from **Kincaid Hall**.
-
-Even in the thirty-degree February air, the transit geek in me immediately perked up. Along **Commonwealth Mall**, there were no dedicated off-street bus bays—instead, buses from every transit agency in the New River Valley simply pulled up to the long sidewalk curb and lined up nose-to-tail one behind the other.
+Along **Commonwealth Mall**, there were no dedicated off-street bus bays—instead, buses from every transit agency in the New River Valley simply pulled up to the long sidewalk curb and lined up nose-to-tail one behind the other.
 
 Right as we reached the crosswalk, two buses rumbled under **The Keystone Bridge** and pulled up nose-to-tail along the curb.
 
@@ -30414,63 +30492,73 @@ via BUSINESS 460 & PEPPER PLAZA
 
 Heading toward that **Route 1** bus from the campus side of the sidewalk was a group of CPI students leaving campus for the weekend, with [a guy around our age in a **power wheelchair**](https://books.raggiesoft.com/stardust-engine) at the center of their group.
 
-Rachel and I had no idea who he or his friends were—just a group of local CPI students catching their Friday afternoon bus down to Christiansburg while we were arriving from Norfolk for `SAACURC`—but as the articulated bus kneeled its front suspension and deployed its wheelchair ramp onto the curb with a crisp pneumatic hiss, both the guy in the power chair and I turned our heads at the exact same angle to admire the two buses lined up along Commonwealth Mall.
+Rachel and I had no idea who he or his friends were—just a group of local CPI students catching their Friday afternoon bus down to Christiansburg while we were arriving from Norfolk for `SAACURC`—but as the articulated bus kneeled its front suspension and deployed its wheelchair ramp onto the curb with a crisp pneumatic hiss, I saw him turn his head at the exact same angle I did to admire the two buses lined up along Commonwealth Mall.
 
-When I glanced across the sidewalk, he happened to look over at me in my manual chair at the exact same second—and for half a heartbeat, [the young woman with the brown side-braid walking right beside his chair](https://books.raggiesoft.com/beth) looked vaguely like someone Rachel and I might have passed a dozen times in the corridors of **Emerald Creek Mall** back home in Chesapeake growing up without ever knowing her name. We exchanged a quick, friendly grin and a knowing wave in passing as he guided his power chair smoothly up the front ramp of the **Blue Ridge Transit Route 1** articulated coach with his friends, while Rachel and I crossed the street into **Kincaid Student Center** with our VDU delegation to grab our `SAACURC` registration packets and head back to **The Hotel at Poly**.
+When I glanced across the sidewalk from my chair, he happened to look over at me in my manual wheelchair at the exact same second—and for half a heartbeat, [the young woman with the brown side-braid walking right beside his chair](https://books.raggiesoft.com/beth) looked vaguely like someone Rachel and I might have passed a dozen times in the corridors of **Emerald Creek Mall** back home in Chesapeake growing up without ever knowing her name. We exchanged a quick, friendly grin and a knowing wave in passing as he guided his power chair smoothly up the front ramp of the **Blue Ridge Transit Route 1** articulated coach with his friends, while Rachel and I crossed the street into **Kincaid Student Center** with our VDU delegation to grab our `SAACURC` registration packets and head back to **The Hotel at Poly**.
 
 ***
 
-#### 8:30 PM — The Two-Bed Rotation Protocol
+#### 8:30 PM — Two Queen Beds on VDU's Manifest, One Bed in Private
 
 By `8:30 PM` on Friday night, after a casual pizza dinner with our VDU delegation and Kyleen in the hotel dining lounge, Rachel and I rolled down the quiet first-floor corridor of **The Hotel at Poly** and tapped our keycard against the lock of **Room 114**.
 
-Because Kyleen had noted my temporary post-surgical wheelchair on VDU's housing manifest, **The Hotel at Poly** had assigned Rachel and me one of their spacious ground-floor **ADA Accessible Double-Queen Rooms**—complete with a thirty-six-inch zero-threshold entry door, wide turning clearances around the furniture, a roll-in shower with fold-down teak bench, and **two Queen-sized beds** standing side by side against the padded headboard wall.
+Because `SAACURC 2016` was an official **school-sanctioned VDU trip**—and because Rachel and I were officially registered **Gender-Inclusive Housing (`GIH`) participants** back on campus in Norfolk—VDU's conference room manifest permitted the two of us to share a hotel room together, while **The Hotel at Poly** placed us in one of their ground-floor **ADA Accessible Double-Queen Rooms** furnished with **two Queen-sized beds** standing side by side against the wooden headboard wall.
 
-As soon as the heavy hotel door clicked shut and I threw the deadbolt and night latch, Rachel kicked off her winter shoes, peeled off her winter jacket over her Blue and Silver VDU t-shirt, and looked at the two identical, tightly made Queen beds with an amused little smile.
+Just like our `2 Bed / 2 Bath` apartment back in **Building 2 (`1016 Hampton House`)** at VDU, university policy operated on a simple rule: **as far as VDU was concerned, each student got their own bed.**
 
-"Just like home, Bear," she whispered.
+And of course, in the privacy of our locked hotel room once the door clicked shut and I threw the deadbolt and night latch, neither Rachel nor I had the slightest intention of sleeping in separate beds.
 
-Back in Norfolk, this academic year—beginning in [**Fall 2015** when we transferred our upperclass credits from `CCHR` and signed up in a heartbeat for VDU's **Gender-Inclusive Housing (`GIH`)** pilot program](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-1-upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat), and continuing now into our **Spring 2016** semester while keeping [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach as our permanent family residence—Rachel and I lived in a **ground-floor `2 Bed / 2 Bath` upperclass on-campus apartment** in **Dominion Village**, where **`Bedroom 1`** (mine) and **`Bedroom 2`** (Rachel's) each came furnished with a **full-sized bed**.
+![Inside Room 114 at The Hotel at Poly, one of the two Queen beds sits untouched while Michael and Rachel cuddle together in the other Queen bed in their Blue and Silver VDU t-shirts with Michael's blue wheelchair parked beside the mattress]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_hotel_at_poly_two_queen_room_sharing_bed.jpg)
 
-Of course, Rachel and I have never slept in separate rooms—we share a bed every single night.
+Rachel kicked off her winter sneakers, peeled off her winter jacket over her royal-blue **`VDU`** t-shirt, and looked from the first Queen bed on the left to the second Queen bed on the right with a warm, knowing smile.
 
-Early in Fall 2015, however, we realized that if a Residence Life inspection or a VDU Facilities maintenance technician coming in to service the locked **`X` (`HVAC`)** closet in our living room or the **`●` (`Hot Water Heater`)** closet by our kitchen ever glanced through our open bedroom doors and saw one full-sized bed looking permanently lived-in while the second full-sized bed sat untouched with military-tight corners for sixteen weeks straight, someone might start asking nosy questions.
+"Two Queen beds on VDU's clipboard, Bear," she whispered, rubbing her shoulders after an afternoon of pushing my chair up Blacksburg's limestone hills, "and one bed for us."
 
-So, as RHA's **Director of Operations** and **Secretary**, we instituted our **Alternating Bed Rotation Protocol**: on odd nights at VDU, we sleep together in **`Bedroom 1`'s** full-sized bed; on even nights, we sleep together in **`Bedroom 2`'s** full-sized bed. Both bedrooms always look naturally lived-in, both mattresses wear evenly, and we never spend a single night apart.
+"Same protocol as Building 2 back in Norfolk," I grinned, rolling my blue manual wheelchair up beside the left-hand Queen bed, locking both wheel brakes, and easing myself laterally onto the crisp white hotel comforter so my healing surgical incisions could rest at zero-gravity. "We share the left Queen bed tonight so we're right together the way we always are—and tomorrow night after the Saturday sessions, we'll share the right Queen bed so housekeeping sees both beds used."
 
-And here in Room 114 at **The Hotel at Poly**, with two Queen beds in an ADA room for a two-night Friday-and-Saturday stay, the math was even simpler.
+Rachel climbed right into the left Queen bed beside me, pulling the white hotel comforter up over our jeans and loungewear as she tucked her head onto my shoulder and laced her fingers tightly through mine, leaving the second Queen bed across the nightstand completely empty.
 
-"Window bed tonight for Friday," I said, locking the brakes on my manual wheelchair beside the inner Queen mattress and easing myself laterally onto the crisp white duvet with a relieved sigh as my recovering surgical site settled into zero-gravity comfort. "And tomorrow night after the Saturday conference sessions, we rotate to the door bed so housekeeping sees both Queens used."
+"My arms and calves are already voting for flat Norfolk," Rachel laughed softly against my shoulder as the radiator hummed against the twenty-degree mountain night outside.
 
-Rachel laughed softly, switching off the overhead lamp and climbing under the covers of the window Queen bed right beside me. She tucked her head into the crook of my shoulder, draped her arm carefully across my chest well clear of my healing incisions, and tangled her warm feet with mine.
+"Hold on to me, Madame Secretary," I murmured, kissing the top of her head as our shared **`IST`** cloud-drive folders finished syncing on my laptop across the room. "Tomorrow is full `SAACURC`."
 
-"Cloud drive folders for tomorrow's breakout sessions are synced," I murmured into her hair as the radiator hummed softly against the February mountain cold outside. "Minutes templates are ready. Get some sleep, Bug. Tomorrow is full `SAACURC`."
-
-### Part 2: Saturday at SAACURC: The Clothespin Gauntlet & The GIH Pilot Roundtable
+### Part 2: Saturday at SAACURC: Visiting School Colors, The Clothespin Gauntlet, & The GIH Pilot Roundtable
 
 **Date:** 2016-02-13 at 09:00 America/New_York
 
-![At CPI's Kincaid Student Center, Michael and Rachel navigate the SAACURC 2016 sessions and champion the Gender-Inclusive Housing pilot.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
+![Inside the bright atrium of Kincaid Student Center during SAACURC 2016, Michael sits in his parked blue manual wheelchair and Rachel stands right beside him holding his hand with their fingers laced together in matching royal-blue VDU t-shirts and clothespin-covered lanyards, surrounded by smiling college delegates repping their CPI, SVU, RADFORD, UP, and GWU school colors and shirts]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_kincaid_student_center_school_colors_clothespins.jpg)
 
-#### 9:00 AM — The Clothespin Gauntlet & The Cloud Drive
+#### 9:00 AM — School Colors, The Clothespin Gauntlet, & Our IST Cloud Architecture
 
-By `8:30 AM` on Saturday, February 13, 2016, **Rachel** and I were dressed in our jeans, **Blue and Silver** **VDU** t-shirts, and warm winter jackets, rolling out of **The Hotel at Poly** alongside our **VDU RHA Advisor**, **Kyleen**, and our fellow elected VDU delegates across the hilly CPI campus toward **Kincaid Student Center** (`290 College Ave.`), with Rachel gripping my wheelchair's rear push-handles on the steep Blacksburg grades while I worked the wheel push-rims.
+By `8:30 AM` on Saturday, February 13, 2016, **Rachel** and I were dressed in our jeans, **Blue and Silver** **`VDU`** t-shirts, and warm winter jackets, bracing ourselves for another morning push out of **The Hotel at Poly** alongside our **VDU RHA Advisor**, **Kyleen**, and our fellow elected VDU delegates up the sloping brick walkway into **Kincaid Student Center** (`290 College Ave.`).
 
-If you have never experienced a **`SAACURC`** (*South Atlantic Affiliate of College and University Residence Halls*) Saturday morning opening roll call, the sensory volume hits you the second the automatic glass doors of the student center slide open.
+The second the automatic glass doors of **Kincaid Student Center** slid open and we rolled onto the flat, polished terrazzo floor of the main atrium lobby, both Rachel and I let out a simultaneous sigh of relief: inside the student center, there were elevators and level floors instead of mountain hills, and the sensory color palette of **`SAACURC` 2016** was in full swing.
 
-Because `SAACURC` is the student-governed **Residence Hall Association (`RHA`)** conference, every single student delegate inside Kincaid Student Center had been democratically **elected by the on-campus residents** of their university. That meant two hundred hyper-caffeinated student leaders in full school spirit colors chanting delegation roll-call cheers, waving plush mascots, and playing the conference-wide **Clothespin Game**.
+Because `SAACURC` is the student-governed **Residence Hall Association (`RHA`)** conference where every single delegate is democratically elected by the on-campus residents of their university, every school delegation in the region showed up proudly repping their respective school colors and bold university t-shirts.
 
-The rules of the Clothespin Game are simple: every school delegation brings hundreds of hand-painted wooden clothespins decorated with their school colors, mascot, and `"HEY SAACURC!"` slogans. You try to clip your school's clothespins onto the back of another delegate's lanyard, collar, or backpack strap without them noticing—or trade pins face-to-face to break the ice between parliamentary sessions and program blocks.
+Looking around the sunlit atrium from my wheelchair while Rachel stood right beside me with her fingers laced tightly through mine, it felt like a living map of mid-Atlantic college spirit:
+* Our **Virginia Dominion University (`VDU`)** delegation from Norfolk in our **Blue and Silver** **`VDU`** t-shirts;
+* Host-school delegates from **Commonwealth Polytechnic Institute (`CPI`)** in their **Chicago Maroon and Burnt Orange** **`CPI`** t-shirts beneath the hanging `CPI` atrium banners;
+* Delegates from **Shenandoah Valley University (`SVU`)** up in Harrisonburg wearing **Purple and Gold** **`SVU`** t-shirts;
+* Commuting delegates from **Radford University (`RADFORD`)** fifteen minutes down the road wearing **Red and Navy Blue** **`RADFORD`** t-shirts;
+* Delegates from ***The* University of the Piedmont (`UP`)** in Charlottesville wearing **Navy Blue and Old Gold** **`UP`** t-shirts;
+* And delegates from **George Wythe University (`GWU`)** up in Northern Virginia wearing **Forest Green and Gold** **`GWU`** t-shirts.
 
-Because I was sitting at forty-two inches of eye-level height in my manual wheelchair while recovering from my bilateral Achilles heel cord lengthening foot surgery, my winter jacket and push-handles were prime real estate. Before we even cleared the main atrium lobby outside the Commonwealth Ballroom, three delegates from **Radford University** (who had driven the fifteen minutes up from Radford for the day) and four delegates from **CPI's RHA** had traded pins with Rachel and me until my lanyard looked like a wooden bandolier.
+![Michael in his parked blue manual wheelchair and Rachel standing beside him holding his hand in their royal-blue VDU t-shirts inside Kincaid Student Center, trading painted wooden clothespins with delegates wearing CPI, SVU, RADFORD, UP, and GWU school shirts]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_kincaid_student_center_school_colors_clothespins.jpg)
 
-"How are the feet and Achilles holding up, Michael?" Kyleen asked, checking in with me as we reached the VDU delegation table near the accessible front aisle of the ballroom.
+Every delegation was playing the conference-wide **Clothespin Game**—bringing hundreds of hand-painted wooden clothespins decorated in their school colors and `"HEY SAACURC!"` slogans to clip onto other delegates' lanyards or trade face-to-face between sessions.
 
-"Solid, Kyleen," I answered, locking my wheel brakes and popping open my laptop on the table beside Rachel’s notebook. "Zero pain as long as I'm on wheels and not hiking up the Commonwealth Green hills on foot."
+Because I was parked at forty-two inches of eye-level height in my blue manual wheelchair with my left hand laced through Rachel's right hand, a whole circle of delegates in **`CPI`**, **`SVU`**, **`RADFORD`**, **`UP`**, and **`GWU`** shirts immediately gathered around the two of us to trade pins. Within ten minutes, both Rachel's lanyard and mine were clipped from top to bottom with Maroon-and-Orange, Purple-and-Gold, Red-and-Navy, Navy-and-Gold, and Green-and-Gold wooden clothespins.
 
-As VDU RHA's elected **Director of Operations**, I don't believe in letting conference takeaways vanish into a pile of crumpled paper handouts at the bottom of a backpack. Before we had even left Norfolk on Friday morning, I had built a dedicated **`SAACURC 2016 — Blacksburg`** directory tree inside our VDU RHA cloud storage drive—complete with standardized Google Docs meeting-minutes templates pre-formatted for **Rachel** (our elected **RHA Secretary**) and sub-folders mapped to every single dorm Hall Council across VDU's campus.
+"How are the feet and Achilles holding up after that hill outside, Michael?" Kyleen asked when we reached the VDU delegation table near the accessible front aisle of the Commonwealth Ballroom.
 
-Throughout the Saturday morning program blocks, as our VDU delegates split up across the second- and third-floor breakout rooms of Kincaid Student Center to attend sessions on hall council budgeting, campus transit advocacy, and resident retention, their notes flowed straight into my cloud drive in real time. From my laptop, I organized and tagged each report so that when we returned to Norfolk on Monday, every dorm president at VDU would receive a clean, actionable briefing packet.
+"My ankles are at zero pain, Kyleen," I answered, locking my wheel brakes and popping open my laptop on the table beside Rachel's notebook, "though I think Rachel's calves and my biceps are ready to file a formal grievance against Blacksburg's elevation."
+
+"Can confirm," Rachel laughed, sitting down right next to my chair and reclaiming my hand across the table. "Flat Norfolk cannot come fast enough."
+
+Once the morning program blocks kicked off, [the **Bachelor of Science in Information Systems & Technology (`IST`)** curriculum](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-4-our-shared-academic-track-information-systems-technology-haunted-by-the-past-sitting-side-by-side) that Rachel and I took side-by-side every day at VDU went into overdrive.
+
+Because I was still haunted by what had happened to me years ago when I tried to navigate the outside world without my pack—first with Delores, and then with Heather at `CCHR`—Rachel and I never split up into separate breakout rooms at the conference. Wherever I rolled, my Bug was right beside me. While our fellow VDU delegates fanned out across the second- and third-floor breakout rooms of Kincaid Student Center, their session notes flowed in real time into the **`SAACURC 2016 — Blacksburg`** cloud-storage architecture and standardized relational templates that Rachel and I had built using our **`IST 301`** and **`IST 340`** coursework—ensuring that every single dorm Hall Council back at VDU would receive a complete, cross-indexed briefing packet on Monday morning.
 
 ***
 
@@ -30478,75 +30566,85 @@ Throughout the Saturday morning program blocks, as our VDU delegates split up ac
 
 For **Rachel** and me, the highlight of Saturday afternoon was the `2:15 PM` policy roundtable in **Kincaid Room 230**: ***Expanding the Harbor: Gender-Inclusive Housing (`GIH`) Proposals, Pilots, & Apartment-Style Implementation***.
 
-The session room was packed with elected RHA executives from across Virginia, North Carolina, and Maryland. At the front projector screen, two elected officers from **CPI's Residence Hall Association** walked the room through **CPI's comprehensive Gender-Inclusive Housing (`GIH`) proposal**—detailing how CPI's initial pilot unit in **2014–2015** had proven to CPI's administration that allowing students of any gender—including siblings, mixed-gender support networks, and students with disabilities—to mutually select into the same suite or apartment dramatically improved student well-being, academic retention, and emotional safety.
+The session room was packed with elected RHA executives wearing their **`CPI`**, **`SVU`**, **`RADFORD`**, **`UP`**, and **`GWU`** shirts. At the front projector screen, two elected officers from **CPI's Residence Hall Association** walked the room through **CPI's comprehensive Gender-Inclusive Housing (`GIH`) proposal**—detailing how CPI's initial pilot unit in **2014–2015** had proven to CPI's administration that allowing students of any gender—including siblings, mixed-gender support networks, and students with disabilities—to mutually select into the same suite or apartment dramatically improved student well-being, academic retention, and emotional safety.
 
 Now, in **Spring 2016**, CPI's RHA was reviewing the formal multi-year expansion proposal to embed Gender-Inclusive Housing permanently across CPI's suite- and apartment-style inventory, and they opened the floor to hear from visiting schools that had launched their own GIH pilots.
 
-Rachel glanced at me beside my wheelchair, her warm brown eyes shining with quiet pride, and raised her hand.
+Sitting right next to my wheelchair with her left hand resting in mine, Rachel glanced at me with quiet pride in her warm brown eyes and raised her free hand.
 
-"Virginia Dominion University RHA," the CPI moderator called out, gesturing toward our table. "You guys launched your GIH pilot this past Fall 2015, right? How is your first Spring semester going?"
+"Virginia Dominion University RHA," the CPI moderator called out in his Maroon and Burnt Orange shirt, gesturing toward our table. "You guys launched your GIH pilot this past Fall 2015, right? How is your first Spring semester going?"
 
-"I'm **Michael Ragsdale**, elected Director of Operations for VDU's RHA, and this is my sister **Rachel Ragsdale**, our elected RHA Secretary," I said clearly across the quiet conference room, my hands resting on the push-rims of my blue manual chair. "Yes—**Fall 2015** was the inaugural semester of VDU's Gender-Inclusive Housing pilot in Norfolk, and this **Spring 2016** is our first spring semester under the program. And we aren't just speaking as RHA officers who receive the Hall Council reports from the dorms—Rachel and I actually live in the VDU GIH pilot ourselves, in a **two-bedroom apartment-style residence hall** on campus."
+"I'm **Michael Ragsdale**, elected Director of Operations for VDU's RHA, and this is my sister **Rachel Ragsdale**, our elected RHA Secretary," I said clearly across the conference room, my right hand resting on the push-rim of my blue manual chair while my left hand stayed laced with Rachel's. "Yes—**Fall 2015** was the inaugural semester of VDU's Gender-Inclusive Housing pilot in Norfolk, and this **Spring 2016** is our first spring semester under the program. And we aren't just speaking as RHA officers who receive the Hall Council reports from the dorms—Rachel and I actually live in the VDU GIH pilot ourselves, in a **ground-floor two-bedroom apartment** in **Building 2 (`Hampton House`)** on campus, and we also share the exact same **Information Systems & Technology** academic track."
 
 Beside me, Rachel picked up the thread seamlessly, her voice calm, articulate, and grounded as twenty RHA delegations took notes in their minutes templates:
 
-"Before VDU launched the GIH pilot in Fall 2015," Rachel explained, "traditional single-gender housing rules meant that opposite-gender siblings, lifelong best friends, or students who rely on an opposite-gender family member as their primary support anchor were forced into separate buildings or pushed off campus entirely. By opening our two-bedroom apartment-style dorms to Gender-Inclusive Housing—where every resident opts in voluntarily and mutually selects their apartment-mate—VDU eliminated that barrier overnight. In our Director of Operations reports across all participating VDU dorms this year, roommate conflict mediation requests in GIH apartments are nearly zero, and retention from Fall 2015 into Spring 2016 hit one hundred percent."
+"Before VDU launched the GIH pilot in Fall 2015," Rachel explained, "traditional single-gender housing rules meant that opposite-gender siblings, lifelong best friends, or students who rely on an opposite-gender family member as their primary support anchor in class and at home were forced into separate buildings or pushed off campus entirely. By opening our two-bedroom apartment-style dorms to Gender-Inclusive Housing—where every resident opts in voluntarily and mutually selects their apartment-mate—VDU eliminated that barrier overnight. In our Director of Operations reports across all participating VDU dorms this year, roommate conflict mediation requests in GIH apartments are nearly zero, and retention from Fall 2015 into Spring 2016 hit one hundred percent."
 
 "And looking at CPI's GIH proposal on the screen," I added, tapping the PDF copy of CPI's draft resolution that I had already downloaded into our VDU RHA cloud drive, "the most important clause you have in Section 4 is decoupling Gender-Inclusive Housing from medical or administrative gatekeeping. When students can simply elect into a two-bedroom apartment together during standard room selection—without having to justify *why* their sibling or support partner is their safe person—the system actually works for the residents."
 
-Across the room, the CPI RHA presenters and half a dozen visiting delegations applauded, jotting down VDU's Fall 2015–Spring 2016 retention numbers to take back to their own campus housing committees.
+Across the room, the CPI RHA presenters and the visiting delegations in their school colors applauded, jotting down VDU's Fall 2015–Spring 2016 retention numbers to take back to their own campus housing committees.
 
 ***
 
-#### 9:45 PM — Rotating to the Door Bed
+#### 9:45 PM — One More Hill & Rotating to the Second Queen Bed
 
 By the time Saturday's evening banquet, roll-call skits, and regional caucus meetings wrapped up inside **Kincaid Student Center** at `9:30 PM`, the mountain temperature outside had dropped into the low twenties, turning the remaining edges of the melted snowbanks along College Avenue into glittering frost.
 
-Back inside the warm, quiet sanctuary of **Room 114** at **The Hotel at Poly**, I locked the wheels of my manual chair, shed my winter jacket, and plugged both of our phones and my laptop into the desk power strip after verifying that every Saturday breakout report was cleanly filed in the VDU RHA cloud drive.
+Pushing back up the outdoor walkway grade from College Avenue to **The Hotel at Poly** in the twenty-two-degree mountain wind took one last heroic effort from Rachel on the push-handles and me on the freezing wheel rims—leaving both of us laughing and groaning as we rolled through the automatic sliding doors of the hotel lobby.
 
-Rachel came out of the accessible bathroom in her soft flannel sleep shirt and warm socks, looking over at the two Queen beds.
+"One more morning, Bear," Rachel breathed, flexing her fingers as the warm hotel air hit our faces, "and then it's back to sea-level Norfolk."
 
-Last night—Friday night—we had slept together in the **window Queen bed**.
+Inside the warm, quiet sanctuary of **Room 114** at **The Hotel at Poly**, I locked the wheels of my manual chair, shed my winter jacket, and plugged both of our phones and my laptop into the desk power strip after verifying that every Saturday breakout report was cleanly filed in our VDU RHA cloud drive.
 
-Following our standard VDU two-bedroom apartment rotation rule so that nobody from hotel housekeeping would ever wonder why two siblings checked into a two-bed room left one bed untouched all weekend, Rachel walked straight over to the **door-side Queen bed** and turned down the crisp white comforter.
+Rachel came out of the accessible bathroom in her royal-blue `VDU` t-shirt and soft flannel sleep pants, looking over at the **two Queen beds** that VDU's school-sanctioned GIH manifest had provided for our room.
 
-"Even night, Bear," Rachel smiled, patting the mattress beside her. "Door bed's turn."
+Last night—Friday night—we had shared the **left-hand Queen bed** while leaving the right-hand Queen bed untouched.
 
-Grinning, I wheeled over to the edge of the door-side Queen bed, locked my brakes, and transferred smoothly onto the fresh sheets. As soon as I turned off the bedside lamp, Rachel curled right into my side under the heavy hotel blankets, resting her cheek against my shoulder while the radiator ticked softly in the corner.
+Following our standard VDU two-bedroom apartment rotation rule so that nobody from hotel housekeeping would ever wonder why two students assigned to a two-bed room left one bed untouched all weekend, Rachel walked straight over to the **right-hand Queen bed** and turned down the crisp white comforter.
 
-One more morning of parliamentary sessions, lunch, and the awards ceremony tomorrow—and then we'd be heading back down the mountain to Norfolk.
+"Even night, Bear," Rachel smiled, patting the mattress beside her. "Second Queen bed's turn."
 
-### Part 3: Sunday Wrap-Up: Closing Lunch, Awards Ceremony, & Home to Norfolk
+Grinning, I wheeled over to the edge of the right-hand Queen bed, locked my brakes, and transferred smoothly onto the fresh sheets. As soon as I switched off the bedside lamp, Rachel curled right into my side under the heavy hotel blankets, resting her cheek against my shoulder while the radiator ticked softly in the corner.
+
+### Part 3: Sunday Wrap-Up: Closing Banquet, The SAACURC Documentation Plaque, & Back to Flat VDU
 
 **Date:** 2016-02-14 at 11:30 America/New_York
 
-![Wrapping up SAACURC 2016 at CPI in Blacksburg, Michael and Rachel bring twenty-four housing reports home to Norfolk.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg)
+![Inside the Commonwealth Ballroom at Kincaid Student Center during the SAACURC 2016 Sunday Closing Banquet, Michael in his blue manual wheelchair and Rachel standing right beside him in matching royal-blue VDU t-shirts hold their wooden SAACURC recognition plaque angled toward their own eyes while holding hands as surrounding student delegations in CPI, SVU, RADFORD, UP, and GWU shirts applaud]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_gih_roundtable_and_closing_award.jpg)
 
-#### 11:30 AM — The Closing Banquet & Awards Ceremony
+#### 11:30 AM — The Closing Banquet & The SAACURC Documentation Plaque
 
-When **Rachel** and I rolled our suitcases out of **Room 114** at **The Hotel at Poly** at `9:00 AM` on Sunday morning, February 14, 2016, both Queen beds behind us looked equally, naturally slept-in—mission accomplished—and our VDU RHA cloud storage drive held twenty-four completed, cross-indexed session reports ready for every dorm Hall Council back in Norfolk.
+When **Rachel** and I rolled our suitcases out of **Room 114** at **The Hotel at Poly** at `9:00 AM` on Sunday morning, February 14, 2016, both Queen beds behind us looked equally, naturally slept-in—so as far as VDU and the hotel were concerned, each of us had used our own bed—and our VDU RHA cloud storage drive held twenty-four completed, cross-indexed session reports structured with the exact schema design we practiced every week in our shared **Information Systems & Technology (`IST`)** classes back in Norfolk.
 
-After loading our overnight luggage into the back of the VDU university van under **Kyleen**’s supervision, we crossed **College Avenue** one last time into **Kincaid Student Center** (`290 College Ave.`) for the final morning of **`SAACURC` 2016**.
+After loading our overnight luggage into the back of the VDU university van under **Kyleen**'s supervision, Rachel braced her sneakers against the brick incline one last time to help push my manual wheelchair across **College Avenue** into **Kincaid Student Center** (`290 College Ave.`) for the final morning of **`SAACURC` 2016**.
 
 While the Saturday schedule at `SAACURC` is all about program sessions, policy roundtables, and trading `"HEY SAACURC!"` clothespins across three floors of breakout rooms, Sunday morning is when the regional student boardroom wraps up its legislative resolutions—including passing the regional student endorsement modeled on **CPI's Gender-Inclusive Housing (`GIH`) proposal** and **VDU's Fall 2015–Spring 2016 GIH pilot**—before all the delegations gather in the **Commonwealth Ballroom** at `11:30 AM` for the **Closing Lunch and Awards Ceremony**.
 
-Sitting at our **VDU** table near the accessible front aisle in our **Blue and Silver** VDU t-shirts, jeans, and winter jackets, Rachel and I shared plates of warm roasted chicken, mashed potatoes, and rolls while the regional executive board stepped up to the podium to present the weekend's recognition plaques.
+Sitting at our **VDU** table near the accessible front aisle in our **Blue and Silver** **`VDU`** t-shirts and jeans, with my left hand laced through Rachel's right hand, we shared plates of warm roasted chicken, mashed potatoes, and rolls while a sea of student delegates in **Maroon and Burnt Orange `CPI`**, **Purple and Gold `SVU`**, **Red and Navy `RADFORD`**, **Navy and Old Gold `UP`**, and **Forest Green and Gold `GWU`** shirts filled the banquet tables around us.
 
 By longstanding conference ground rules, **the host school (`Commonwealth Polytechnic Institute`) is never eligible to win any awards** at the conference for conflict-of-interest reasons—meaning all of the competitive `SAACURC` plaques were up for grabs among the visiting delegations elected by their on-campus peers:
-* The **Radford University** delegation took home the *Regional Spirit Award* for the loudest roll-call chant of the weekend.
-* **Shenandoah Valley University (`SVU`)** from Harrisonburg won the *Student Advocacy & Program of the Year Award* for their campus-wide hall council sustainability initiative.
-* And when the Regional Communications Coordinator stepped up to announce the ***SAACURC Operational & Documentation Excellence Recognition***—honoring the visiting delegation with the best-organized parliamentary reporting and hall-council information architecture—she smiled right down toward our table:
+* The **Radford University (`RADFORD`)** delegation in their Red and Navy shirts took home the *Regional Spirit Award* for the loudest roll-call chant of the weekend.
+* **Shenandoah Valley University (`SVU`)** from Harrisonburg in their Purple and Gold shirts won the *Student Advocacy & Program of the Year Award* for their campus-wide hall council sustainability initiative.
+* And when the Regional Communications Coordinator stepped up to the podium to announce the ***SAACURC Operational & Documentation Excellence Recognition***—honoring the visiting delegation with the best-organized parliamentary reporting and hall-council information architecture—she smiled right down toward our accessible front table:
   *"Presented to the elected **Director of Operations** and **Secretary** of the **Virginia Dominion University Residence Hall Association**—**Michael Ragsdale** and **Rachel Ragsdale**!"*
 
-Our entire VDU table—including Kyleen—erupted into cheers and table-drumming. As I wheeled my manual chair up the side accessible ramp to accept the engraved wooden plaque alongside Rachel, a dozen delegates from CPI, Radford, Shenandoah Valley University, and across the region clapped and waved their Blue and Silver VDU clothespins in the air.
+![Inside the Commonwealth Ballroom during the SAACURC 2016 Sunday Closing Banquet, Michael in his blue manual wheelchair and Rachel standing beside him in matching royal-blue VDU t-shirts look warmly at each other and down at their wooden recognition plaque angled toward their eyes while holding hands as delegates in CPI, SVU, RADFORD, UP, and GWU shirts applaud]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_gih_roundtable_and_closing_award.jpg)
+
+Our entire VDU table—including Kyleen—erupted into cheers and table-drumming. As I wheeled my manual chair up to the side of the stage ramp alongside Rachel and accepted the engraved walnut-and-brass plaque, holding it angled toward our eyes in my right hand while my left hand stayed laced tightly with Rachel's, delegates from **CPI**, **SVU**, **Radford**, **UP**, and **GWU** clapped and cheered across the ballroom.
+
+Looking up at my sister standing right beside my chair—the same way she sat right beside me in every single **`IST`** lecture and computer lab back at VDU so the ghosts of my past could never corner me alone—my chest swelled with quiet gratitude.
+
+"Our `IST 340` professor is going to love seeing this on Monday morning, Bug," I whispered, smiling up at her as we admired the plaque angled between us.
+
+"Best documentation team in the commonwealth, Bear," Rachel beamed, squeezing my hand.
 
 ***
 
-#### 1:45 PM — Loading the Van & Eastbound Down the Mountain
+#### 1:45 PM — Leaving the Mountain Hills for Flat VDU
 
 By `1:45 PM`, the last gavel had fallen, the banners were rolled up into their travel tubes, and the Sunday afternoon sunshine was gleaming off the wet grass along **Commonwealth Mall** where Friday's melted snow had almost completely vanished.
 
-As we rolled out of **Kincaid Student Center** toward our waiting VDU van at **The Hotel at Poly**, I paused for a second at the **Commonwealth Mall** crosswalk beneath **The Keystone Bridge**.
+As we rolled out of **Kincaid Student Center** toward our waiting VDU van at **The Hotel at Poly**—thankfully going *downhill* this time while Rachel held the rear push-handles to keep my chair from picking up speed on the steep Blacksburg grade—I paused for a second at the **Commonwealth Mall** crosswalk beneath **The Keystone Bridge**.
 
 Pulling up to the curb right on its `:45` weekend pulse was a **Blue Ridge Transit** articulated bus (`1 CBURG TRANS CTR`), while up ahead a **Radford Transit *Radford Connector*** bus (`TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN`) signaled to turn right onto Stanger Street toward Prices Fork Road, Peppers Ferry Road, and U.S. Route 11.
 
@@ -30554,13 +30652,11 @@ Watching that sixty-foot **Route 1** articulated coach kneel at the curb, I brie
 
 At the curb of **The Hotel at Poly**, I stood up carefully from my blue-upholstered manual wheelchair (`5'7"` on my own two feet for the twenty-second step into the van), eased myself onto the second-row bench seat, and watched our fellow delegates fold the blue wheelchair flat and secure it in the rear cargo bay alongside our suitcases and our new `SAACURC` award plaque.
 
-Rachel climbed in right beside me, buckled her seatbelt, and immediately tucked her arm through mine, resting her head on my right shoulder as Kyleen shifted the van into drive and pulled out onto **U.S. Route 460 East** toward **Interstate 81 North** and **Interstate 64 East**.
+Rachel climbed in right beside me, buckled her seatbelt, and immediately tucked her arm through mine, resting her head on my right shoulder with a long, contented exhale as Kyleen shifted the van into drive and pulled out onto **U.S. Route 460 East** toward **Interstate 81 North** and **Interstate 64 East**.
 
-"Which bedroom is it tonight when we get back to the apartment in Norfolk, Director of Operations?" Rachel whispered, smiling up at me with sleepy, contented eyes as the limestone towers of Blacksburg receded in the side mirrors.
+"Blacksburg is beautiful, Bear," Rachel murmured, lacing her fingers through mine as the steep limestone hills of CPI receded in the side mirrors, "but my legs have never been happier to go back to flat, sea-level VDU."
 
-I checked my mental calendar, kissed the top of my Bug's head, and rested my cheek against her hair for the four-and-a-half-hour ride home to the coast.
-
-"Sunday night is Bedroom 1's full bed, Madame Secretary," I whispered back. "Wake me up when we hit the Hampton Roads Bridge-Tunnel."
+"Amen to that, Bug," I laughed softly, kissing the top of her head and resting my cheek against her hair for the four-and-a-half-hour ride down the mountain to Norfolk—where **Building 2**, our flat concrete walkways on **Dominion Mall**, and our side-by-side workstations in Monday morning's **`IST`** class were waiting for us. "Sunday night is Bedroom 1's full bed, Madame Secretary. Wake me up when we hit the Hampton Roads Bridge-Tunnel."
 
 # Behind the Wheel: 55 MPH on Ferrell Parkway (Summer 2016)
 
@@ -30574,7 +30670,7 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 #### 10:00 AM — Medically Cleared, Why Rachel Waited for Me, & Ellen's Surprise at Moosewood Drive
 
-On the second Tuesday morning of June 2016—four months after **Rachel** and I had rolled across the snowy limestone walkways of Blacksburg in my temporary post-op manual wheelchair for [the **2016 `SAACURC` Regional Student Leadership Conference**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly)—my orthopedic surgeon and physical therapist officially signed my final medical discharge from [my January 2016 bilateral Achilles heel cord lengthening surgery](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi/part-1-bilateral-achilles-heel-cord-lengthening-why-rachel-waited-for-me-cleared-to-travel-to-cpi), clearing me for full, unrestricted ankle dorsiflexion and driving pedal operation.
+On the second Tuesday morning of June 2016—four months after **Rachel** and I had rolled across the snowy limestone walkways of Blacksburg in my temporary post-op manual wheelchair for [the **2016 `SAACURC` Regional Student Leadership Conference**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly)—my orthopedic surgeon and physical therapist officially signed my final medical discharge from [my January 2016 bilateral Achilles heel cord lengthening surgery](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi/part-1-bilateral-achilles-heel-cord-lengthening-why-rachel-waited-for-me-cleared-to-travel-to-cpi), clearing me for full, unrestricted ankle dorsiflexion and driving pedal operation.
 
 Standing barefoot on the hardwood floor of our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach—our permanent legal residence where we were back home for summer break from [our two-bedroom upperclass GIH apartment at **Virginia Dominion University (`VDU`)**](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-1-upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat)—both of my heels rested flat and level against the boards. Even better, when I planted my right heel on the floor and flexed my foot upward and downward like pressing an imaginary gas and brake pedal, my lengthened Achilles tendon glided smoothly through the full arc of dorsiflexion without a single twinge of tightness or calf cramping.
 
@@ -30790,7 +30886,7 @@ For the next six hours, the three of us had the kind of low-sensory, relaxed Tha
 
 By **`9:30 PM`**, after helping Terry load the dishwasher and promising to meet her on Friday morning to explore Luray, Rachel and I drove five minutes down **U.S. Route 211** to the roadside chain motel where we had booked our room for Thursday, Friday, and Saturday nights.
 
-Back in [**February 2016** at `SAACURC` in Blacksburg](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly), when our university delegation advisor had booked our room block at *The Hotel at Poly*, the hotel had placed us in a two-queen ADA room where we rotated beds each night so housekeeping wouldn't ask questions.
+Back in [**February 2016** at `SAACURC` in Blacksburg](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly), when our university delegation advisor had booked our room block at *The Hotel at Poly*, the hotel had placed us in a two-queen ADA room where we rotated beds each night so housekeeping wouldn't ask questions.
 
 When **Rachel and I** book a motel room for ourselves on our own dime, however, we don't book two beds.
 
