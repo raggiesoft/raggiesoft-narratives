@@ -2668,7 +2668,7 @@ Rachel was absolutely terrified. She was only eight years old, so much smaller a
 
 Master Curtis didn't react. He just kept walking, stepping on the next person, and the next, continuing his march down the line through the green and purple belts.
 
-Finally, he reached the white belts at the very end of the line. Drew, being just six years old and a beginner, was the absolute last kid on the floor.
+Finally, he reached the white belts at the very end of the line. [Drew](https://books.raggiesoft.com/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident/part-1-the-core-check-unannounced-arrival), being just six years old and a beginner, was the absolute last kid on the floor.
 
 When Master Curtis's foot came down on the little boy's stomach and his weight shifted, Drew let out a sharp, breathless cry, his legs immediately dropping to the linoleum. The sudden, crushing weight had completely knocked the wind out of him. Drew curled onto his side, gasping and sobbing.
 
@@ -4350,7 +4350,7 @@ Dad paused, looking at the top of the legal pad, his jaw setting into a hard, un
 
 Rachel’s breath hitched. Her eyes darted toward Dad, the mention of the monster piercing through her silent armor.
 
-"He isn't getting out," Dad promised her, his voice dropping into a lethal, absolute vow. "The detective submitted your medical records, and Ray Shackford is going to be sitting right there at the courthouse ready to testify against Curtis for the District Attorney. The judge is going to read exactly what Curtis did to your spleen, and what he did to your brother's stomach, and what he did to little Drew. The District Attorney is going to ask the judge to deny his bond completely. And I am going to sit in the front row of that courtroom and watch him get sent right back to his cage."
+"He isn't getting out," Dad promised her, his voice dropping into a lethal, absolute vow. "The detective submitted your medical records, and Ray Shackford is going to be sitting right there at the courthouse ready to testify against Curtis for the District Attorney. The judge is going to read exactly what Curtis did to your spleen, and what he did to your brother's stomach, and [what he did to little Drew](https://books.raggiesoft.com/drew/book-1-the-hospital-year/chapter-2-the-aftermath/part-2-the-sofa-the-coalition). The District Attorney is going to ask the judge to deny his bond completely. And I am going to sit in the front row of that courtroom and watch him get sent right back to his cage."
 
 ***
 
@@ -9246,7 +9246,7 @@ Jessica blinked slowly, trying to process the sudden administrative pivot. "Scho
 
 "You're a senior," Dad explained, his tone gaining a fraction of its usual deep, steady baritone. "You have graduation requirements. If you're going to be in this bed, and then in a chair, you can't navigate those hallways. I'm going to set up Homebound Instruction for you. The district has to accommodate you."
 
-Rachel and I both looked at him, our processors immediately retrieving the archived data from four years ago. During the aftermath of the 1995 Monday War, when Rachel and I were physically confined to the living room mattresses, Mom had fought the district to send Mrs. Higgins—the Homebound Tutor—directly to our house.
+Rachel and I both looked at him, our processors immediately retrieving the archived data from four years ago. During the aftermath of the [1995 Monday War](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel), when Rachel and I were physically confined to the living room mattresses, Mom had fought the district to [send Mrs. Higgins—the Homebound Tutor—directly to our house](https://books.raggiesoft.com/rachel/base-camp/the-homebound-tutor-tuesday-september-5-1995/part-1-the-first-bell-the-assessment).
 
 "I'll make sure they send the tutors straight to the living room," Dad vowed, his eyes locked on Jessica's face, deliberately avoiding looking at her shattered feet. "We know how the system works. We did it for Michael and Rachel. I'm going to make sure your senior year isn't derailed by this."
 
@@ -11444,7 +11444,7 @@ My nervous system didn't even have time to process the sheer, illogical irony of
 
 The second that angry, adult male voice echoed through the room, the year 2000 was completely vaporized.
 
-The greasy smell of the *Crown Burger* vanished, replaced by the sterile, sweat-stained mats of a martial arts Dojang. The angry dad storming toward me wasn't Paul Wiswell; he was Curtis. My processor initiated a catastrophic, immediate hard-crash. My muscles locked. My vocal cords instantly paralyzed in profound situational mutism. The terror—the sheer, agonizing anticipation of being physically overpowered and stepped on—crushed my chest so tightly I couldn't draw a breath.
+The greasy smell of the *Crown Burger* vanished, replaced by the [sterile, sweat-stained mats of a martial arts Dojang](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check). The angry dad storming toward me wasn't Paul Wiswell; he was Curtis. My processor initiated a catastrophic, immediate hard-crash. My muscles locked. My vocal cords instantly paralyzed in profound situational mutism. The terror—the sheer, agonizing anticipation of being physically overpowered and stepped on—crushed my chest so tightly I couldn't draw a breath.
 
 I was going to fail Rachel again. I was going to be broken again.
 
@@ -11464,7 +11464,7 @@ Mr. Wiswell scoffed, his pride refusing to let him back down or admit his daught
 
 Jim's expression didn't change, but his tone dropped an octave, carrying the absolute, unshakeable weight of a man defending his own blood.
 
-"I have two daughters," Jim replied evenly. "And I have known Michael since he was two years old. When he was a little boy, he spent four months confined to a sofa bed, unable to move, because he took the physical brunt of an adult's rage to protect his little sister. I know exactly what kind of man he is."
+"I have two daughters," Jim replied evenly. "And I have known Michael since he was two years old. [When he was a little boy, he spent four months confined to a sofa bed, unable to move, because he took the physical brunt of an adult's rage to protect his little sister.](https://books.raggiesoft.com/rachel/base-camp/the-marathon-tuesday-august-22-1995/part-1-the-transfer-of-trust-the-first-lift) I know exactly what kind of man he is."
 
 Mr. Wiswell blinked, momentarily derailed by the heavy, unexpected history.
 
@@ -12784,7 +12784,7 @@ More importantly, it meant the room was completely free of Ashley Wiswell.
 
 The clarinets weren't scheduled to join camp until Wednesday, giving me two full days of a secure, predictable environment before I had to deal with the ghost of last October. It had been nearly a year since the terrifying incident with her father, Paul Wiswell, but my nervous system still logged her entire existence as a lethal threat.
 
-After that disastrous trip to Roanoke Rapids, North Carolina—an event that had completely shattered whatever fragile reality Wiswell was operating in—her social standing had plummeted. She spent her days walking the halls of Northwood High with a heavy, defensive chip on her shoulder, convinced that everyone was actively out to get her. She played the victim perfectly, seeing herself in an epic, tragic "her vs. the world" narrative.
+After that [disastrous trip to Roanoke Rapids, North Carolina](https://books.raggiesoft.com/rachel/atlanta-spring-trip/the-roanoke-rapids-collapse/the-crown-burger-trigger)—an event that had completely shattered whatever fragile reality Wiswell was operating in—her social standing had plummeted. She spent her days walking the halls of Northwood High with a heavy, defensive chip on her shoulder, convinced that everyone was actively out to get her. She played the victim perfectly, seeing herself in an epic, tragic "her vs. the world" narrative.
 
 But the math of the situation was entirely different. No one was out to get her. The reality was just cold, hard self-preservation. None of the guys at Northwood wanted to date her, sit with her, or even look in her direction because they were absolutely terrified of her father. Paul Wiswell’s reputation as an unhinged, intimidating force had spread, and no standard-hardware high school boy was going to risk dealing with a man who cornered teenagers. She was isolated by the very shield her father thought he was providing.
 
@@ -12840,7 +12840,7 @@ The wind shifted, carrying a sharp, distinct fragment of Mom’s voice across th
 
 My chest tightened painfully. I knew exactly what she was talking about.
 
-It was a memory from my Freshman year, during the spring band trip to Atlanta. It was Jessica’s senior year, and it was the very first time she had been in a swimming pool since the accident that confined her to a wheelchair. I had helped her into the water. She had been so proud, so desperate for Dad to see her moving her legs around. But Dad had come up with some excuse. He had brushed it off.
+It was a [memory from my Freshman year, during the spring band trip to Atlanta](https://books.raggiesoft.com/rachel/atlanta-spring-trip/arrival-at-the-hotel/part-2-the-lido-deck). It was Jessica’s senior year, and it was the very first time she had been in a swimming pool since [the accident that confined her to a wheelchair](https://books.raggiesoft.com/rachel/high-school/the-concrete-walkway/black-friday-the-empty-house). I had helped her into the water. She had been so proud, so desperate for Dad to see her moving her legs around. But Dad had come up with some excuse. He had brushed it off.
 
 A girl was supposed to look up to her father, and in that moment, Dad hadn't seemed to care that she was fighting to get stronger. Looking back, that exact moment in Atlanta felt like the fracture—the precise beginning of the end of my childhood. And now, standing on the humid grass of the practice field, I was watching the family unit finally, violently tear itself apart.
 
@@ -16936,9 +16936,9 @@ We walked back upstairs, our footsteps echoing far too loudly on the bare wooden
 
 I pushed open the door to the girls' room again. Without the furniture Mom had already packed, the room looked massive and completely wrong. The absence of their things allowed all the phantom memories of our childhood to come flooding back, hitting my system like a physical wave. This house wasn't just wood and drywall. It was the only place we could run to where the world made sense. It had been our literal playground—the place where we mapped out our survival and built a fortress that no one was supposed to be able to destroy.
 
-But the pack had been systematically dismantled. Jessica's departure for NPU in August of 2000 had been a planned, logical extraction. We had time to prepare for it.
+But the pack had been systematically dismantled. [Jessica's departure for NPU in August of 2000](https://books.raggiesoft.com/rachel/seeds-of-a-divorce/the-continental-shift/part-2-the-vanguard-flight-the-sunlit-valley) had been a planned, logical extraction. We had time to prepare for it.
 
-Rachel's departure was a violent, catastrophic fracture. My chest heaved with a sudden, sharp sob as my processor flashed back to September 20th, 2001. As soon as the airspace had cleared after the terror attacks, Dad had forced her onto a flight out of ORF, dragging her all the way to a second-floor walk-up in Vancouver, Washington. The structural integrity of our family hadn't just broken; it had been forcibly torn apart by court papers and bitterness.
+Rachel's departure was a violent, catastrophic fracture. My chest heaved with a sudden, sharp sob as my processor flashed back to [September 20th, 2001. As soon as the airspace had cleared after the terror attacks, Dad had forced her onto a flight out of ORF, dragging her all the way to a second-floor walk-up in Vancouver, Washington](https://books.raggiesoft.com/rachel/the-divorce/the-departure/the-bright-idea-the-calling-cards). The structural integrity of our family hadn't just broken; it had been forcibly torn apart by court papers and bitterness.
 
 I walked over to the closet. Tucked all the way in the back, collecting a thick layer of dust, was the heavy plastic toybox from our childhood.
 
@@ -17012,7 +17012,7 @@ Greg was a practical, neurotypical guy. He wasn't overtly hostile like my father
 
 Ashley and I moved to the end of the short hallway and stepped into the living room. It was painfully small, dominated by a television entertainment center and a standard sofa.
 
-I stared at the sofa for a long moment. It didn't pull out into a bed. The physical, impenetrable barrier of the Monday Wars—the exact piece of furniture we had used to build the Base Camp—was permanently gone.
+I stared at the sofa for a long moment. It didn't pull out into a bed. The physical, impenetrable barrier of the [Monday Wars](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel)—the exact piece of furniture we had used to build the Base Camp—was permanently gone.
 
 Ashley sensed the spike in my internal telemetry. She sat down on the sofa first, pulling me down right next to her. She immediately shifted her weight, pressing her shoulder and hip completely flush against mine, locking in the physical perimeter.
 
@@ -17754,7 +17754,7 @@ The sensory math of my Cerebral Palsy required absolute, unrestricted deep press
 
 She smiled, her eyes tracking toward the back corner of the storage unit. "No, they won't. But that will."
 
-Tucked under a heavy canvas drop cloth was the standard, slightly faded living room sofa from Delaney Street. It wasn't just a piece of furniture. It was the physical barrier from the Monday Wars. It was the exact piece of architecture we had used to build the original Base Camp when the world got too loud.
+Tucked under a heavy canvas drop cloth was the standard, slightly faded living room sofa from Delaney Street. It wasn't just a piece of furniture. It was the physical barrier from the [Monday Wars](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel). It was the exact piece of architecture we had used to build the original Base Camp when the world got too loud.
 
 "The sofa," my chest hitched, a massive wave of restorative relief washing over me. "It pulls out into a queen-sized mattress."
 
@@ -19755,7 +19755,7 @@ I reached into my heavy messenger bag with trembling hands. Before I pulled out 
 
 I shoved the earbuds in, desperately needing a wall of sound to drown out the mechanical hum of the train and the screaming guilt in my own head. I spun the tactile directional pad and blindly hit play on my saved library.
 
-A heavy, sweeping synthesizer chord filled my ears, immediately followed by the driving arena drums of a mid-tempo 1980s pop-rock anthem by The Stardust Engine.
+A heavy, sweeping synthesizer chord filled my ears, immediately followed by the driving arena drums of a [mid-tempo 1980s pop-rock anthem](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-08-before-the-distance) by [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine).
 
 *When the steel doors close and the platform clears, You can hear the truth grinding in the gears. Heed the warning hiding in his eyes, Before the distance leaves your soul behind...*
 
@@ -20912,7 +20912,7 @@ I pulled it out, my eyes widening. *Quantum Developer Suite 2005 Enterprise Edit
 
 I pulled out box after box. The sheer volume of high-end, professional software was staggering.
 
-There was *Quantum Expression Studio* for my full-stack web development. *Quantum Flight Simulator 10* to benchmark the new processor. A flagship DAW, *Aura Studio Pro 6*, to run my massive synthesizer libraries for The Stardust Engine. *CrimsonBurn Ultra 7* for disc authoring. *Elder Tales: Oblivion* and *Iron Crusade 3*.
+There was *Quantum Expression Studio* for my full-stack web development. *Quantum Flight Simulator 10* to benchmark the new processor. A flagship DAW, *Aura Studio Pro 6*, to run my massive synthesizer libraries for [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine). *CrimsonBurn Ultra 7* for disc authoring. *Elder Tales: Oblivion* and *Iron Crusade 3*.
 
 But it was the massive, multi-disc brick sitting at the very bottom of the second bag that made my processor completely freeze.
 
@@ -21246,7 +21246,7 @@ I double-clicked the icon for *Aura Studio Pro 6*.
 
 On my old 110L, launching the massive Digital Audio Workstation took over a minute of agonizing, stuttering load times. On this rig, the MicroFoundry Core 2 Duo processor annihilated the initialization sequence. The software snapped open in seconds.
 
-I navigated to the secondary hard drive, pulling up a heavy synthwave beat I had started producing for *The Stardust Engine* weeks ago. I loaded a half-dozen complex Virtual Studio Technology (VST) synthesizers onto the timeline, fully expecting the CPU to choke on the math.
+I navigated to the secondary hard drive, pulling up a heavy synthwave beat I had started producing for [*The Stardust Engine*](https://music.raggiesoft.com/the-stardust-engine) weeks ago. I loaded a half-dozen complex Virtual Studio Technology (VST) synthesizers onto the timeline, fully expecting the CPU to choke on the math.
 
 I pressed the spacebar.
 
@@ -24698,7 +24698,7 @@ My head literally felt like it was going to explode. My processor catastrophical
 
 I was sitting in this chair entirely penniless just a few minutes ago. I had completely forfeited the joint account funds to maintain my moral high ground, walking away with nothing but the clothes on my back.
 
-I sat frozen, staring at the twenty-six-year-old woman sitting in the wheelchair next to me. The sheer, incomprehensible magnitude of what she had done for me over the last week suddenly crashed over my brain in a tidal wave. She had bought me a ten-pound, top-of-the-line digital sanctuary laptop. She had absorbed me into her apartment. She had paid for us to travel to Portland to sit in the front row for Monday Night WAR. And this Sunday, we were sitting in front-row Ringsider seats for the No Quarter Pay-Per-View at The Emerald Coliseum in Seattle—tickets she had bought months ago at an astronomical premium.
+I sat frozen, staring at the twenty-six-year-old woman sitting in the wheelchair next to me. The sheer, incomprehensible magnitude of what she had done for me over the last week suddenly crashed over my brain in a tidal wave. She had [bought me a ten-pound, top-of-the-line digital sanctuary laptop](https://books.raggiesoft.com/rachel/the-end-of-hell/decompression-day/part-2-forging-the-armor-the-first-citizen). She had absorbed me into her apartment. She had [paid for us to travel to Portland to sit in the front row for Monday Night WAR](https://books.raggiesoft.com/rachel/awe-monday-night-war/awe-monday-night-war/part-1-live-from-portland-the-corporate-meltdown). And this Sunday, we were sitting in front-row Ringsider seats for the No Quarter Pay-Per-View at The Emerald Coliseum in Seattle—tickets she had bought months ago at an astronomical premium.
 
 How did a twenty-six-year-old have this much financial firepower?
 
@@ -24752,7 +24752,7 @@ She turned her chair to face me, her expression a mix of fierce pride and unyiel
 
 She reached out, resting her hand lightly on my arm.
 
-"But you are free of her now. You are protected by this pack, and your perimeter is sealed. You need capital to build your digital infrastructure, fund The Stardust Engine, and actually live your life. The financial restrictions are officially lifted."
+"But you are free of her now. You are protected by this pack, and your perimeter is sealed. You need capital to build your digital infrastructure, fund [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine), and actually live your life. The financial restrictions are officially lifted."
 
 I let out a shaky, amazed laugh, my chest feeling lighter than air.
 
@@ -24998,15 +24998,15 @@ Every single wall, every corkboard, and the entire perimeter of her massive maho
 
 I turned my head toward the interior wall, my eyes landing on a heavy wooden bookshelf just out of sight of the window. Sitting front and center, elevated on a display stand, was a framed photograph of the three of us from late 1998.
 
-I was sitting in the middle of a floral couch, smiling warmly as I cuddled my two favorite women. Jessica and Rachel were flanking me, squished happily against my sides. We were just kids in jeans and our matching black *The Stardust Engine: Hard Reset Tour '98* t-shirts from the Virginia Beach Amphitheater show that summer, completely oblivious to the trauma and the wheelchairs that the future held for us.
+I was sitting in the middle of a floral couch, smiling warmly as I cuddled my two favorite women. Jessica and Rachel were flanking me, squished happily against my sides. We were just kids in jeans and our matching black [*The Stardust Engine: Hard Reset Tour '98*](https://music.raggiesoft.com/the-stardust-engine/1997-hard-reset) t-shirts from the Virginia Beach Amphitheater show that summer, completely oblivious to the trauma and the wheelchairs that the future held for us.
 
-The absolute centerpiece of her desk, however—the very first thing anyone saw when they crossed the threshold of the glass door—was a massive, prominently displayed silver frame sitting squarely on the mahogany. It was a photo of the three of us, captured in mid-scream. It was the exact moment Jessica had opened the envelope confirming she had won the full-ride scholarship to Northwest Pacific University, securing her guaranteed employment track at Quantum. Rachel and I were practically tackling her, our faces illuminated with absolute, life-altering triumph.
+The absolute centerpiece of her desk, however—the very first thing anyone saw when they crossed the threshold of the glass door—was a massive, prominently displayed silver frame sitting squarely on the mahogany. It was a photo of the three of us, captured in mid-scream. It was the [exact moment Jessica had opened the envelope confirming she had won the full-ride scholarship to Northwest Pacific University](https://books.raggiesoft.com/rachel/atlanta-spring-trip/the-catalyst-notification/part-1-the-desktop-under-the-stairs-the-long-distance-loophole), securing her guaranteed employment track at Quantum. Rachel and I were practically tackling her, our faces illuminated with absolute, life-altering triumph.
 
-I stood up slowly, walking over to a large corkboard near the door. Pinned next to a network topology map was a faded, curled photograph from 1993—Rachel and me huddled under the heavy red quilt of the bottom bunk bed on Delaney Street, with a thirteen-year-old Jessica hanging upside down over the mattress to look at us.
+I stood up slowly, walking over to a large corkboard near the door. Pinned next to a network topology map was a faded, curled [photograph from 1993—Rachel and me huddled under the heavy red quilt of the bottom bunk bed on Delaney Street](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement), with a thirteen-year-old Jessica hanging upside down over the mattress to look at us.
 
-Next to it was a photo from 1995. The three of us were squished onto the pull-out sofa bed in our living room, trapped in our rigid medical binders but fiercely holding hands over the pillow wall.
+Next to it was a [photo from 1995. The three of us were squished onto the pull-out sofa bed in our living room, trapped in our rigid medical binders](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel) but fiercely holding hands over the pillow wall.
 
-There were photos of us standing shoulder-to-shoulder before her accident in 1999, and photos taken right after, with Rachel and me flanking her manual wheelchair. There were dozens of them. Everywhere I looked, I saw the exact, unyielding geometry of our survival.
+There were photos of us standing shoulder-to-shoulder before [her accident in 1999](https://books.raggiesoft.com/rachel/high-school/the-concrete-walkway/black-friday-the-empty-house), and [photos taken right after, with Rachel and me flanking her manual wheelchair](https://books.raggiesoft.com/rachel/high-school/christmas-eve/part-1-the-accessibility-calculation-the-honorary-lifters). There were dozens of them. Everywhere I looked, I saw the exact, unyielding geometry of our survival.
 
 The realization hit me with the force of a freight train.
 
@@ -26600,7 +26600,7 @@ I swallowed hard, the suffocating memory of the timeline closing in. "But it onl
 
 Rachel didn't flinch at the admission, and Jessica just rubbed her thumb gently against my collarbone.
 
-"She moved into my small studio apartment in Norfolk right after that," I choked out, my chest heaving. "And it was terrible. It felt completely oppressive. It wasn't like the Summer of the Sentinel."
+"She moved into my small studio apartment in Norfolk right after that," I choked out, my chest heaving. "And it was terrible. It felt completely oppressive. It wasn't like the [Summer of the Sentinel](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line)."
 
 A fresh, jagged wave of grief ripped through my throat as I said the words. The sudden, agonizing realization of how much I missed my childhood best friend hit me like a physical blow. When Ashley Raybourn had moved into my studio apartment in 2004, it had been a sanctuary. Because Ashley was my best friend, sharing a living space and practicing romantic intimacy felt incredibly safe, communicative, and secure.
 
@@ -26616,7 +26616,7 @@ A fresh, jagged wave of grief ripped through my throat as I said the words. The 
 
 I squeezed my eyes shut, the phantom smell of ammonia and squalor burning the back of my nose.
 
-"And then it culminated a few days ago," I sobbed, my entire body trembling against them. "When she dragged me onto that cross-country Pathfinder bus. Kent was an absolute disaster. The house was filthy. There was cat feces everywhere on the floor. When we were waiting at the train station on Thursday morning, my gut instinct was literally screaming at me to ask you if I could just ride the train into Seattle with you."
+"And then it culminated a few days ago," I sobbed, my entire body trembling against them. "When she [dragged me onto that cross-country Pathfinder bus](https://books.raggiesoft.com/rachel/the-end-of-hell/the-departure/the-deception-at-churchland-square-interstate-81). Kent was an absolute disaster. The house was filthy. There was cat feces everywhere on the floor. When we were [waiting at the train station on Thursday morning](https://books.raggiesoft.com/rachel/the-end-of-hell/the-escape-route/part-1-the-kent-station-transfer), my gut instinct was literally screaming at me to ask you if I could just ride the train into Seattle with you."
 
 Jessica let out a sharp, devastated gasp. Her hand tightened violently against my chest.
 
@@ -26624,9 +26624,9 @@ Jessica let out a sharp, devastated gasp. Her hand tightened violently against m
 
 Jessica buried her face against my neck, her own tears mixing with mine.
 
-"I pulled out my Quantum Zephyr media player on the train to try and drown out the guilt," Jessica explained, her voice thick and broken. "And a song by The Stardust Engine came on shuffle. It was called 'Before the Distance.'"
+"[I pulled out my Quantum Zephyr media player on the train](https://books.raggiesoft.com/rachel/the-end-of-hell/the-escape-route/part-2-jessica-s-train-ride) to try and drown out the guilt," Jessica explained, her voice thick and broken. "And a song by [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine) came on shuffle. It was called ['Before the Distance.'](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-08-before-the-distance)"
 
-I knew the track. It was from their 2004 album *Progress Street*, a heavy, dramatic 1980s pop-rock anthem that we had loaded onto our hard drives years ago—along with the short story Ryan and Cassidy O'Connell had published in the album's liner booklet about fraternal twins named John and Erin.
+I knew the track. It was from their 2004 album [*Progress Street*](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street), a heavy, dramatic 1980s pop-rock anthem that we had loaded onto our hard drives years ago—along with the short story Ryan and Cassidy O'Connell had published in the album's liner booklet about [fraternal twins named John and Erin](https://books.raggiesoft.com/erin).
 
 "The lyrics," Jessica sobbed, reciting the exact, soaring words that had broken her firewall.
 
@@ -26644,9 +26644,9 @@ I knew the track. It was from their 2004 album *Progress Street*, a heavy, drama
 *Trust the silence when he calls your name*
 *'Cause once it's gone, nothing stays the same*
 
-"It completely broke me," Jessica wept, clutching my shirt. "The song literally said, 'When the steel doors close and the platform clears.' And the second Cassidy hit the bridge—'I'm turning around, I'm breaking the track, whatever it costs me, I'm taking it back'—I remembered the story in the *Progress Street* booklet. How John met a woman at speed dating in Kincaid Hall when they accidentally played 'Thunder in the Rain' instead of 'Seconds Into Forever,' without realizing she was going to be his abuser. And how his sister Erin met him in the chaotic bus lineup along Commonwealth Mall, saw the shadow on his face, and made the executive decision right before the bus doors closed that John was coming with her."
+"It completely broke me," Jessica wept, clutching my shirt. "The song literally said, 'When the steel doors close and the platform clears.' And the second Cassidy hit the bridge—'I'm turning around, I'm breaking the track, whatever it costs me, I'm taking it back'—I remembered the story in the [*Progress Street*](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street) booklet. [How John met a woman at speed dating in Kincaid Hall](https://books.raggiesoft.com/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder/part-1-the-three-minute-bell) when they accidentally played ['Thunder in the Rain'](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-04-thunder-in-the-rain) instead of ['Seconds Into Forever,'](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-03-seconds-into-forever) without realizing she was going to be his abuser. And [how his sister Erin met him in the chaotic bus lineup along Commonwealth Mall, saw the shadow on his face, and made the executive decision right before the bus doors closed that John was coming with her](https://books.raggiesoft.com/erin/before-the-distance-the-story-of-john-erin/before-the-distance/part-2-when-the-steel-doors-close)."
 
-Jessica's voice cracked, a raw sob tearing through her chest. "I realized on that train that The Stardust Engine's story was literally happening to you and me in real life—except at Kent Station, I did the exact opposite of Erin! I let the steel doors close and left you on the platform with your abuser! I cried, Michael. I sat in that accessible bay and I cried all the way to Seattle King Street Station. I cried on the platform. And I cried all the way across the SR-520 bridge on the 545 express bus to work."
+Jessica's voice cracked, a raw sob tearing through her chest. "I realized on that train that [The Stardust Engine's](https://music.raggiesoft.com/the-stardust-engine) story was literally happening to you and me in real life—except at Kent Station, I did the exact opposite of Erin! I let the steel doors close and left you on the platform with your abuser! I cried, Michael. I sat in that accessible bay and I cried all the way to Seattle King Street Station. I cried on the platform. And I cried all the way across the SR-520 bridge on the 545 express bus to work."
 
 My processor stalled. Jessica *never* cried. The fact that leaving me behind on the Kent platform—and realizing that we were living out the dark inverse of John and Erin's story—had caused her to weep openly on public transit for over an hour proved the absolute, terrifying depth of my danger.
 
@@ -27154,11 +27154,11 @@ Rachel and I sat shoulder-to-shoulder on the couch, our eyes tracking the archit
 
 April sat down in the armchair across from us, handing us the water.
 
-"It has been a very, very long time," April said quietly, her professional demeanor melting into the deep, maternal warmth she had always carried for us. "The last time I saw you, Michael was driving you to the airport in 2001, and the world was falling apart."
+"It has been a very, very long time," April said quietly, her professional demeanor melting into the deep, maternal warmth she had always carried for us. "The last time I saw you, [Michael was driving you to the airport in 2001](https://books.raggiesoft.com/rachel/the-divorce/the-departure/the-bright-idea-the-calling-cards), and the world was falling apart."
 
 "It fell apart," I admitted, taking a sip of the cold water. "Rachel went to Washington to live with Jessica. I stayed here to finish high school. The divorce was..." I swallowed hard, the ghost of the yelling still an unpleasant memory. "It was bad."
 
-"But we survived it," Rachel added, her voice steady and proud. She reached out, lacing her fingers through mine. "Jessica bought an apartment in Federal Way. She retrofitted it. And when Michael turned eighteen, he flew out. We spent the last few years in Washington, building our own routines."
+"But we survived it," Rachel added, her voice steady and proud. She reached out, lacing her fingers through mine. "[Jessica bought an apartment in Federal Way. She retrofitted it. And when Michael turned eighteen, he flew out.](https://books.raggiesoft.com/rachel/michael-s-new-life/a-new-tradition/part-2-the-escrow-anchor-the-regulated-sanctuary) We spent the last few years in Washington, building our own routines."
 
 April listened intently, her eyes reflecting a profound, validating respect. We spent the next two hours filling in the massive gaps. We told her about Jessica’s success at Quantum, the tactical brilliance of our older sister’s planning, and how we eventually realized that the Pacific Northwest would never truly feel like home. We explained the decision to return to the coast, to build our permanent perimeter right here in Virginia Beach.
 
@@ -27326,9 +27326,9 @@ We walked slowly into the room. As we neared the back corner, my eyes locked ont
 
 Sitting on top of the pile were several heavy, blue vinyl kicking shields.
 
-I stopped. Rachel stopped right beside me, her eyes tracing the scuffed blue fabric. Instantly, the memory of our living room on Delaney Street flooded my mind—the two of us, ten and eight years old, taking turns bracing that exact type of pad against our stomachs while the other practiced their kicks.
+I stopped. Rachel stopped right beside me, her eyes tracing the scuffed blue fabric. Instantly, the [memory of our living room on Delaney Street](https://books.raggiesoft.com/rachel/base-camp/the-consecration-friday-october-20th-1995/part-1-the-midnight-blue-shield-the-shadow-arts) flooded my mind—the two of us, ten and eight years old, taking turns bracing that exact type of pad against our stomachs while the other practiced their kicks.
 
-A heavy, suffocating ache bloomed in my chest. The phantom memory of Curtis's heel grinding into my soft tissue flared, a visceral reminder of our permanent, biological limits. My torn abdominal fascia had healed over with rigid scar tissue, and Rachel’s spleen remained irreversibly fragile. The concussive shockwave of holding one of those heavy blue pads, or the rotational torque required to strike it at full power, would cause a catastrophic, lethal rupture. We were permanently banned from impact.
+A heavy, suffocating ache bloomed in my chest. The [phantom memory of Curtis's heel grinding into my soft tissue](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check) flared, a visceral reminder of our permanent, biological limits. My torn abdominal fascia had healed over with rigid scar tissue, and [Rachel’s spleen remained irreversibly fragile](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-long-road/part-1-kehr-s-sign-the-broken-anchor). The concussive shockwave of holding one of those heavy blue pads, or the rotational torque required to strike it at full power, would cause a catastrophic, lethal rupture. We were permanently banned from impact.
 
 Rachel reached out, her fingers lightly brushing the vinyl, a deep sadness washing over her face. We had survived, but a piece of the art we loved had been permanently amputated.
 
@@ -27364,7 +27364,7 @@ Then came the final movement of the sequence—the strike that required the spir
 
 "Momtong Jireugi. Kihap!" April commanded.
 
-In 1995, this was the exact moment Rachel’s situational mutism had locked her jaw shut, leading to the devastating, silent punch that Curtis had weaponized against her. But Rachel was twenty years old now. She had reclaimed her voice at age twelve, shattering the psychological vault door for good.
+[In 1995, this was the exact moment Rachel’s situational mutism had locked her jaw shut](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-enforcer/part-1-the-mirrored-room-the-missing-cup), leading to the devastating, silent punch that Curtis had weaponized against her. But Rachel was twenty years old now. She had [reclaimed her voice at age twelve](https://books.raggiesoft.com/rachel/middle-school/the-old-world-saturday-may-15-1999/part-3-josephine-s-and-the-ghost-the-translation-in-the-grand-hall), shattering the psychological vault door for good.
 
 Rachel chambered her fist at her hip. Her dark eyes burned with absolute, unyielding fire. She drove her fist forward into the empty air, her chest expanding.
 
@@ -27612,7 +27612,7 @@ Mom was standing in the archway of the living room, holding a dish towel. Throug
 
 But the judgment didn't last a single microsecond.
 
-Mom's expression instantly softened, melting into a deep, profound understanding. She remembered the terrified kids huddled on the bottom bunk in 1993. She remembered the medical binders, the trauma of the Dojang, and the desperate, crushing bear hugs we used to literally hold each other together. She recognized that the two adults sleeping on the blue leather sofa weren't violating any boundaries; this was just the natural, necessary evolution of the deep-pressure grounding we had always relied on to survive.
+Mom's expression instantly softened, melting into a deep, profound understanding. She remembered the [terrified kids huddled on the bottom bunk in 1993](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement). She remembered the [medical binders](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel), the [trauma of the Dojang](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check), and the desperate, crushing bear hugs we used to literally hold each other together. She recognized that the two adults sleeping on the blue leather sofa weren't violating any boundaries; this was just the natural, necessary evolution of the deep-pressure grounding we had always relied on to survive.
 
 She smiled softly, turned around, and walked back into the kitchen without saying a single word.
 
@@ -27740,7 +27740,7 @@ And in **Bedroom 3—The Tactical Decoy and Secondary Anchor**—sat the brand-n
 
 There was one final, non-negotiable rule that governed the entire second floor: **The Open-Door Policy**.
 
-In our townhouse, no interior door was ever closed. The doors to the Master Bedroom, the Command Center, the Decoy Room, and the upstairs bathroom remained permanently swung wide open against their stops. Closed doors belonged to the houses that had hurt us—to locked rooms in Kent and childhood hallways where silence hid a threat. Keeping every doorway open meant an unbroken line of sight and an unbroken acoustic corridor across the entire sanctuary.
+In our townhouse, no interior door was ever closed. The doors to the Master Bedroom, the Command Center, the Decoy Room, and the upstairs bathroom remained permanently swung wide open against their stops. Closed doors belonged to the houses that had hurt us—to [locked rooms in Kent](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) and [childhood hallways where silence hid a threat](https://books.raggiesoft.com/rachel/the-divorce/the-broken-door/rachel-s-fury-the-push-button-lock). Keeping every doorway open meant an unbroken line of sight and an unbroken acoustic corridor across the entire sanctuary.
 
 ***
 
@@ -27748,7 +27748,7 @@ In our townhouse, no interior door was ever closed. The doors to the Master Bedr
 
 That Friday night, after Rachel finished her afternoon shift at *The Spot* over on Holland Road, we rode with Master April in her blue sedan to the *Lynnhaven Academy of Seondu* for our first official Friday night closed-door adult alumni session.
 
-Stepping onto the thick foam puzzle mats in crisp, freshly pressed white *doboks* felt like reclaiming a piece of our souls that had been stolen in August 1995.
+Stepping onto the thick foam puzzle mats in crisp, freshly pressed white *doboks* felt like reclaiming a piece of our souls that had been [stolen in August 1995](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check).
 
 Before April called the floor to attention, she walked over to the wooden belt rack holding two thick, newly embroidered **Midnight Blue Belts (*Nam-saek tti*)**—our `4th Gup` rank, officially registered with the *Seonduwon* in Seoul under her seal as *Sunhoe Sabomnim* Lee Hae-jin.
 
@@ -28348,7 +28348,7 @@ I collapsed onto the downstairs living room sofa, my chest heaving as wave after
 
 For over three hours—from quarter to twelve until past three o'clock—I sat curled on the living room sofa of 3701 Canadian Arch while the afternoon sunlight crept across the carpet.
 
-Every time I closed my eyes, my brain replayed the exact physical sensation of Heather's hands pushing against my chest on Route 25, followed by the sight of her walking out the front doors at Susquehanna Drive without looking back. When I had briefly stumbled upstairs to check *Orbit* on my computer, the stark white **`PROFILE UNAVAILABLE`** banner had confirmed the worst: she had completely erased me from her life without a single word of explanation.
+Every time I closed my eyes, my brain replayed the exact physical sensation of [Heather's hands pushing against my chest on Route 25](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception), followed by the sight of her walking out the front doors at Susquehanna Drive without looking back. When I had briefly stumbled upstairs to check *Orbit* on my computer, the stark white **`PROFILE UNAVAILABLE`** banner had confirmed the worst: she had completely erased me from her life without a single word of explanation.
 
 At **3:00 PM**, Rachel clocked out from her daytime shift at *The Spot* and started the ten-minute walk home toward Canadian Arch.
 
@@ -28392,7 +28392,7 @@ She let all the tension melt out of her posture, wrapped both of her arms secure
 
 #### 2:30 PM — The Passcode
 
-By Monday afternoon, May 11, 2009—seventy-two hours after Heather Bouchard had walked away from the Susquehanna Drive bus stop and erased two years of weekday history without a single word—the initial shockwave of the crash had settled into a quiet, bruised ache behind my ribs.
+By Monday afternoon, May 11, 2009—seventy-two hours after [Heather Bouchard had walked away from the Susquehanna Drive bus stop](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception) and erased two years of weekday history without a single word—the initial shockwave of the crash had settled into a quiet, bruised ache behind my ribs.
 
 For the first time in four semesters, I hadn't walked across Buckner Boulevard to the CCHR Transit Loop that morning. Classes were over for the spring term, and the Route 25 loop was officially dead.
 
@@ -28416,7 +28416,7 @@ But before I clicked, my eyes caught the bold text of the private message's subj
 
 My hand completely froze on the mouse. My heart slammed against my ribs so hard it echoed in my ears.
 
-**Subject: The Third Sister of the Blue Kicking Pads**
+**Subject: [The Third Sister of the Blue Kicking Pads](https://books.raggiesoft.com/rachel/base-camp/the-consecration-friday-october-20th-1995/part-1-the-midnight-blue-shield-the-shadow-arts)**
 
 "Rachel," I gasped, the air completely vanishing from my lungs.
 
@@ -28438,7 +28438,7 @@ I didn't hesitate. I clicked the message open.
 
 I stared at the screen, the glowing text burning into my retinas.
 
-Three days after a fair-weather campus friend had bolted at the first sign of her own stress, the girl who had sat on the edge of the Delaney Street pull-out couch in 1995 and sworn to protect us—the woman who had given me my first safe baseline in the summer of 2004—was sitting somewhere in this exact city, terrified and calling for extraction.
+Three days after a fair-weather campus friend had bolted at the first sign of her own stress, the girl who had [sat on the edge of the Delaney Street pull-out couch in 1995 and sworn to protect us](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-sanctuary-friday-august-11th-1995/part-2-the-perimeter-secured-the-core-pack)—the woman who had [given me my first safe baseline in the summer of 2004](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line)—was sitting somewhere in this exact city, terrified and calling for extraction.
 
 I didn't consult Rachel. I didn't need to. Our pack protocols had been hardwired into our neurology for over a decade. When a Sentinel calls for extraction, the perimeter opens. Period.
 
@@ -28694,7 +28694,7 @@ Rachel and I were already waiting by the front door. We had packed with the ruth
 
 Jim Raybourn didn't even put the van in park before we were out the front door, locking the brass deadbolt behind us.
 
-When we climbed into the back of the van, the psychological relief was instantaneous. Driving back to the Raybourns' house meant placing ourselves back under the absolute jurisdiction of Jim. For my nervous system, Jim Raybourn wasn't just Ashley’s dad; he was the ultimate, immovable guardian. He was the man who had physically carried Rachel and me to the bathroom when we were kids, guarding our dignity during the four agonizing months we were confined to the living room sofa. If Jim was on watch, the perimeter was completely impenetrable.
+When we climbed into the back of the van, the psychological relief was instantaneous. Driving back to the Raybourns' house meant placing ourselves back under the absolute jurisdiction of Jim. For my nervous system, Jim Raybourn wasn't just Ashley’s dad; he was the ultimate, immovable guardian. He was the man who had [physically carried Rachel and me to the bathroom when we were kids](https://books.raggiesoft.com/rachel/base-camp/the-marathon-tuesday-august-22-1995/part-1-the-transfer-of-trust-the-first-lift), guarding our dignity during the four agonizing months we were confined to the living room sofa. If Jim was on watch, the perimeter was completely impenetrable.
 
 We navigated the dark Virginia Beach streets, finally pulling into the familiar driveway of 1802 Rich Court.
 
@@ -28724,7 +28724,7 @@ Ashley looked up, locking her red, exhausted eyes directly onto mine.
 
 "I had to tell the doctor my medical history," she whispered, a tear finally spilling over her eyelashes. "You're the only one, Michael. You're the only person I've ever been with. My only baseline for intimacy is still the summer we spent in your studio apartment."
 
-A heavy, profound wave of relief washed through my chest. The Summer of the Sentinel—our three-month, trauma-informed practicum where Ashley had shielded me from the terrifying expectations of the neurotypical dating world—remained entirely uncontaminated.
+A heavy, profound wave of relief washed through my chest. The [Summer of the Sentinel](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line)—our three-month, trauma-informed practicum where Ashley had shielded me from the terrifying expectations of the neurotypical dating world—remained entirely uncontaminated.
 
 Rachel let out a quiet, raspy hum of approval, resting her hand on Ashley's knee. "That is an excellent data point, Ash," Rachel said, her voice entirely practical and deeply supportive. "He didn't contaminate your baseline. He didn't take that from you."
 
@@ -28888,7 +28888,7 @@ My eyes blinked open slowly, my processor fighting through the heavy, lingering 
 
 Before my visual cortex could fully map the room, my nervous system registered the physical data. I couldn't move easily. There was a massive, solid weight pressing down across my entire chest and stomach, pinning me to the mattress.
 
-For a terrifying microsecond, the ghost of Kent flared in my peripheral data. My chest tightened, bracing for the suffocating panic of Delores or Brandi.
+For a terrifying microsecond, the [ghost of Kent](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) flared in my peripheral data. My chest tightened, bracing for the suffocating panic of Delores or Brandi.
 
 But the geometry was completely wrong for a threat. The weight wasn't erratic or coercive; it was steady, warm, and perfectly distributed.
 
@@ -28916,7 +28916,7 @@ Technically, she was still legally Ashley Raybourn Lawson. But we were going to 
 
 Suddenly, the digital alarm clock on the nightstand clicked. Instead of a harsh, blaring buzzer, the FM radio engaged.
 
-A massive, bright 1980s synthesizer riff poured out of the tiny speaker, instantly backed by a booming, gated-reverb snare drum. It was *The Family* by The Stardust Engine.
+A massive, bright 1980s synthesizer riff poured out of the tiny speaker, instantly backed by a booming, gated-reverb snare drum. It was [*The Family*](https://music.raggiesoft.com/the-stardust-engine/1997-hard-reset?track=1-05-the-family) by [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine).
 
 I didn't reach over to turn it off. I let the music wash over the room, listening to Ryan and Cassidy sing the unapologetic anthem they had fought so hard to reclaim.
 
@@ -29078,9 +29078,9 @@ I reached over, taking Ashley's hand and running my thumb over her knuckles. To 
 
 "You never stopped being a Raybourn to us," I told her quietly. "But getting the paperwork fixed is a good tactical move. It clears the board."
 
-"It's a hard reset," Rachel agreed from Ashley's other side, offering a rare, genuine smile. "A brand new scene."
+"It's a [hard reset](https://music.raggiesoft.com/the-stardust-engine/1997-hard-reset?track=1-02-hard-reset)," Rachel agreed from Ashley's other side, offering a rare, genuine smile. "[A brand new scene](https://music.raggiesoft.com/the-stardust-engine/1997-hard-reset?track=1-03-brand-new-scene)."
 
-Ashley let out a soft, watery laugh, recognizing the lyrical callback to *The Stardust Engine* playing on the alarm clock just a few hours ago. She squeezed both of our hands, leaning her weight fully against my shoulder.
+Ashley let out a soft, watery laugh, recognizing the lyrical callback to [*The Stardust Engine*](https://music.raggiesoft.com/the-stardust-engine/1997-hard-reset) playing on the alarm clock just a few hours ago. She squeezed both of our hands, leaning her weight fully against my shoulder.
 
 The rest of the drive back to 1802 Rich Court passed in a comfortable, healing silence. The legal machinery had been activated, the timeline was established, and the heavy, toxic label of her marriage was already marked for deletion. Ashley Elizabeth Raybourn was coming back online.
 
@@ -29192,7 +29192,7 @@ Ashley gasped, her hands flying to her mouth.
 
 "Wait, 'our' flight?" Rachel caught the variable instantly. "Kristin is coming?"
 
-*"Of course Kristin is coming,"* Jessica replied, her tone completely matter-of-fact. *"She just finished her degree in Washington last week. Quantum is covering my entire executive relocation, and I paid for Kristin's First Class ticket and relocation myself. I wasn't going to leave your West Coast Sentinel behind. Especially not after what Rachel told me happened on the Route 25 bus on Friday."*
+*"Of course Kristin is coming,"* Jessica replied, her tone completely matter-of-fact. *"She just finished her degree in Washington last week. Quantum is covering my entire executive relocation, and I paid for Kristin's First Class ticket and relocation myself. I wasn't going to leave your West Coast Sentinel behind. Especially not after what Rachel told me [happened on the Route 25 bus on Friday](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)."*
 
 My throat tightened with a sudden, overwhelming rush of emotion.
 
@@ -29202,7 +29202,7 @@ My throat tightened with a sudden, overwhelming rush of emotion.
 
 "ORF?" I practically shouted, a massive grin breaking across my face. "You land at three-eighteen today?!"
 
-*"We touch down at 3:18 PM,"* Jessica laughed. *"I told you I would never fly us through the Prismatic Corridor at O'Hare again. We bypassed Chicago entirely."*
+*"We touch down at 3:18 PM,"* Jessica laughed. *"I told you I would never [fly us through the Prismatic Corridor at O'Hare](https://books.raggiesoft.com/rachel/the-east-coast/outbound-to-orf/part-3-the-joyful-overload-the-midwestern-sanctuary) again. We bypassed Chicago entirely."*
 
 The absolute magnitude of the data finally settled over the King bed.
 
@@ -29216,7 +29216,7 @@ Suddenly, an architectural memory from April 2007 clicked into place inside my h
 
 Rachel’s jaw dropped. She looked down at the phone, her dark eyes flashing with profound realization. "The platform lift on the stairs. The roll-in shower downstairs."
 
-"Jess," I said into the speakerphone, my voice thick with awe. "When Mom handed us the keys to this townhouse two years ago, she had already gutted the downstairs bathroom for a roll-in shower and bolted an Inclined Platform Lift to the main staircase. She told us it was for whenever you came to visit—or whenever Quantum finally transferred you back to the East Coast."
+"Jess," I said into the speakerphone, my voice thick with awe. "[When Mom handed us the keys to this townhouse two years ago](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), she had already gutted the downstairs bathroom for a roll-in shower and bolted an Inclined Platform Lift to the main staircase. She told us it was for whenever you came to visit—or whenever Quantum finally transferred you back to the East Coast."
 
 A warm, knowing laugh echoed through the phone.
 
@@ -29544,7 +29544,7 @@ She drafted a formal, legally binding purchase offer to the listing agent, struc
 
 - **The Price:** A flat, non-negotiable offer of **\$115,000**.
 
-- **The Financing:** 100% Liquid Cash. She attached a certified proof-of-funds letter from the Quantum Employees Federal Credit Union. There would be no mortgage contingency and no appraisal bottleneck.
+- **The Financing:** 100% Liquid Cash. She attached a certified proof-of-funds letter from the [Quantum Employees Federal Credit Union](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off). There would be no mortgage contingency and no appraisal bottleneck.
 
 - **The Timeline:** A 10-Day Expedited Close.
 
@@ -29612,7 +29612,7 @@ In the neurotypical world, watching a house get violently shredded by heavy mach
 
 "Look at it go," Ashley whispered, her blue eyes shining as the excavator ripped through a load-bearing wall.
 
-For Ashley, the rotting house wasn't just a building; it was a physical manifestation of the squalor and the trapped, suffocating misery she had endured in the RV with David Lawson. Watching it get effortlessly crushed by the steel bucket was a massive, psychological release. The old world was being permanently deleted.
+For Ashley, the rotting house wasn't just a building; it was a physical manifestation of the [squalor and the trapped, suffocating misery she had endured in the RV with David Lawson](https://books.raggiesoft.com/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction). Watching it get effortlessly crushed by the steel bucket was a massive, psychological release. The old world was being permanently deleted.
 
 Kristin stood on my right, her fingers laced firmly through mine. She wasn't watching the house; she was watching us. She saw the heavy, defensive tension bleeding completely out of my shoulders with every crunch of the timber. She gave my hand a deep, grounding squeeze, manually anchoring my nervous system to the present.
 
@@ -29662,7 +29662,7 @@ He didn't start with inkblots or puzzles. He started with the architecture of ou
 
 For the first two hours, he took the collateral history. Jessica, operating with flawless, chronological precision, laid out the timeline of our survival. She didn't use emotional hyperbole; she gave him the raw data.
 
-She explained Rachel's absolute mutism until age eight. She detailed the 1993 bedroom closet—how Rachel and I would retreat into the pitch-black, silent space to escape the agonizing volume of the house. I explained the mechanics of the 1995 Monday War, detailing exactly how we enforced rigid schedules, sensory isolation, and the unyielding physical barrier of the living room sofa bed to keep the static out.
+She explained [Rachel's absolute mutism until age eight](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-enforcer/part-2-breaking-the-silence-the-top-row). She detailed the 1993 bedroom closet—how Rachel and I would retreat into the pitch-black, silent space to escape the agonizing volume of the house. I explained the mechanics of the [1995 Monday War](https://books.raggiesoft.com/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel), detailing exactly how we enforced rigid schedules, sensory isolation, and the unyielding physical barrier of the living room sofa bed to keep the static out.
 
 As the appointment stretched into its third hour, the sheer duration of the clinical inquiry, the unearthing of the Dojang trauma, and the unfamiliar environment began to elevate the sensory static in the room.
 
@@ -29686,7 +29686,7 @@ He didn't look concerned. He looked profoundly validated.
 
 "Deep pressure therapy," the doctor noted quietly, his voice gentle so as not to startle Rachel. "Proprioceptive regulation. It acts as a physical firewall against sensory overload. By burying her face, she's manually shutting off the visual stimuli. How long have you been doing that?"
 
-"Since we were children," I answered honestly, squeezing her tighter. "It's the only thing that turns the noise off."
+"[Since we were children](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement)," I answered honestly, squeezing her tighter. "It's the only thing that turns the noise off."
 
 The doctor closed his notebook. He looked at Jessica, then at Ashley and Kristin, and finally rested his gaze on me and Rachel.
 
@@ -29696,7 +29696,7 @@ He leaned forward, resting his hands on his desk.
 
 "You are both on the Autism Spectrum," the specialist confirmed, handing us the lexicon we had been missing for over two decades. "The sensory gating issues, the executive functioning overload, the early childhood mutism, the exhausting work of *autistic masking* in public versus dropping the mask around a trusted *Safe Person*—it is all completely textbook. What is *not* textbook is how brilliantly you survived it."
 
-As the words *autistic masking* and *Safe Person* echoed across the quiet office, a two-year-old memory from the CCHR student lounge suddenly clicked into focus inside my brain.
+As the words *autistic masking* and *Safe Person* echoed across the quiet office, a [two-year-old memory from the CCHR student lounge](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end) suddenly clicked into focus inside my brain.
 
 *Mask? What mask?*
 
@@ -29714,7 +29714,7 @@ Hearing her cry, the Lead Guard instinct violently flared in my chest. I instinc
 
 The realization hit me with the force of a physical blow. We had the diagnosis. We had the blueprint. We finally knew exactly *why* our brains worked the way they did.
 
-My vision blurred. A tear spilled over my eyelid, tracking hot down my cheek and dropping onto Rachel's hair. I wept right along with her, burying my face into her shoulder. The ghosts of the Dojang and the suffocating terror of the 1995 perimeter couldn't touch us anymore.
+My vision blurred. A tear spilled over my eyelid, tracking hot down my cheek and dropping onto Rachel's hair. I wept right along with her, burying my face into her shoulder. The [ghosts of the Dojang](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check) and the suffocating terror of the [1995 perimeter](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-long-road/part-1-kehr-s-sign-the-broken-anchor) couldn't touch us anymore.
 
 At 7:45 AM, we had torn down the rotting, structural failure of the Moosewood house. By 4:00 PM, we walked out of Suite 410, holding the clinical proof that our own internal architecture was completely, perfectly intact.
 
@@ -29772,7 +29772,7 @@ The Base Camp was secure.
 
 By eight-thirty that evening, the heavy emotional tide of Dr. Harrison's clinical diagnosis had settled into a warm, luminous calm across 3701 Canadian Arch.
 
-Downstairs, Jessica was at the dining table reviewing the foundation blueprints for the newly cleared Moosewood Drive lot, while upstairs, every bedroom doorway stood wide open under our Open-Door Policy. Rachel and Ashley were sitting together on the edge of the Master King bed, folding fresh forest green sheets, their voices humming in a quiet, relaxed cadence.
+Downstairs, Jessica was at the dining table reviewing the foundation blueprints for the newly cleared Moosewood Drive lot, while upstairs, every bedroom doorway stood wide open under our [Open-Door Policy](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts). Rachel and Ashley were sitting together on the edge of the Master King bed, folding fresh forest green sheets, their voices humming in a quiet, relaxed cadence.
 
 Across the hall in the Command Center, Kristin was standing by the window overlooking Buckner Boulevard and the distant lights of the CCHR campus, holding a mug of herbal tea.
 
@@ -29780,9 +29780,9 @@ I walked through the open doorway and stood beside her, looking out at the cross
 
 With Dr. Harrison's clinical vocabulary now installed in my processor, the entire timeline from November 2006 to June 2009 finally made mathematical sense.
 
-Back on that cold November morning in Lakewood two and a half years ago, when Kristin had handed me the keys to our relationship—offering to be my pretend girlfriend, my platonic best friend, or my actual girlfriend—my traumatized processor had still been too raw from Delores's trap to accept a formal romantic label. I had needed the breathing room of Canadian Arch with Rachel, and I had needed the "Shallow End" at CCHR to prove to myself that I could exist on a college campus again.
+Back on [that cold November morning in Lakewood two and a half years ago](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-4-the-southern-base-camp), when Kristin had handed me the keys to our relationship—offering to be my pretend girlfriend, my platonic best friend, or my actual girlfriend—my traumatized processor had still been too raw from [Delores's trap](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) to accept a formal romantic label. I had needed the breathing room of [Canadian Arch with Rachel](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), and I had needed the ["Shallow End" at CCHR](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end) to prove to myself that I could exist on a college campus again.
 
-And through all twenty-one months of that journey—and through the catastrophic Friday afternoon crash when Heather Bouchard had walked away from the Susquehanna Drive bus stop—Kristin had never once wavered. She had never pressured me, never judged my healing timeline, and never demanded a title. When I fell, she and Jessica had flown across an entire continent to lock down my perimeter alongside Rachel and Ashley.
+And through all twenty-one months of that journey—and through the [catastrophic Friday afternoon crash when Heather Bouchard had walked away from the Susquehanna Drive bus stop](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—Kristin had never once wavered. She had never pressured me, never judged my healing timeline, and never demanded a title. When I fell, she and Jessica had flown across an entire continent to lock down my perimeter alongside Rachel and Ashley.
 
 Kristin turned her head, her warm blue eyes meeting mine in the soft glow of the Command Center monitors.
 
@@ -29792,7 +29792,7 @@ Kristin turned her head, her warm blue eyes meeting mine in the soft glow of the
 
 Across the open hallway in the Master Bedroom, Rachel and Ashley paused their folding, watching us with warm, knowing smiles—holding the perimeter without a single ounce of jealousy or friction.
 
-I looked down into Kristin's eyes, remembering the exact promise she had made to me at 5:00 AM on November 25, 2006 in Chambers Creek Estates: *When the day finally comes that we're all together on the same grid and your processor is ready for the upgrade, I'll still be right here.*
+I looked down into Kristin's eyes, remembering the exact promise she had made to me at [5:00 AM on November 25, 2006 in Chambers Creek Estates](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-4-the-southern-base-camp): *When the day finally comes that we're all together on the same grid and your processor is ready for the upgrade, I'll still be right here.*
 
 "Two and a half years ago in Lakewood," I whispered, my thumbs tracing the backs of her hands, "you told me I could set the pace. You let me keep us as platonic best friends while I came back to Virginia Beach to heal, and you never once made me feel guilty for needing that time."
 
@@ -29810,7 +29810,7 @@ Kristin let out a shaky, radiant laugh, tears of pure joy sparkling on her eyela
 
 From across the open landing in Bedroom 1, Rachel let out a soft, raspy cheer, and Ashley clapped her hands quietly before both of them walked across the hall to wrap Kristin and me in a four-person pack embrace right there in the doorway of the Command Center.
 
-The two-and-a-half-year bridge between *A Few Small Repairs* and *The Director's Perimeter* was officially complete. Every piece of our architecture was intact, every Sentinel was home, and our fortress was rising from the dirt.
+The two-and-a-half-year bridge between [*A Few Small Repairs*](https://books.raggiesoft.com/rachel/a-few-small-repairs) and [*The Director's Perimeter*](https://books.raggiesoft.com/rachel/the-director-s-perimeter) was officially complete. Every piece of our architecture was intact, every Sentinel was home, and our fortress was rising from the dirt.
 
 # The Mountain Conference (SAACURC 2016)
 
@@ -29876,11 +29876,11 @@ And gliding smoothly to a halt directly behind the *Radford Connector* came a si
 via BUSINESS 460 & PEPPER PLAZA
 ```
 
-Heading toward that **Route 1** bus from the campus side of the sidewalk was a group of CPI students leaving campus for the weekend, with a guy around our age in a **power wheelchair** at the center of their group.
+Heading toward that **Route 1** bus from the campus side of the sidewalk was a group of CPI students leaving campus for the weekend, with [a guy around our age in a **power wheelchair**](https://books.raggiesoft.com/stardust-engine) at the center of their group.
 
 Rachel and I had no idea who he or his friends were—just a group of local CPI students catching their Friday afternoon bus down to Christiansburg while we were arriving from Norfolk for `SAACURC`—but as the articulated bus kneeled its front suspension and deployed its wheelchair ramp onto the curb with a crisp pneumatic hiss, both the guy in the power chair and I turned our heads at the exact same angle to admire the two buses lined up along Commonwealth Mall.
 
-When I glanced across the sidewalk, he happened to look over at me in my manual chair at the exact same second—and for half a heartbeat, the young woman with the brown side-braid walking right beside his chair looked vaguely like someone Rachel and I might have passed a dozen times in the corridors of **Emerald Creek Mall** back home in Chesapeake growing up without ever knowing her name. We exchanged a quick, friendly grin and a knowing wave in passing as he guided his power chair smoothly up the front ramp of the **Blue Ridge Transit Route 1** articulated coach with his friends, while Rachel and I crossed the street into **Kincaid Student Center** with our VDU delegation to grab our `SAACURC` registration packets and head back to **The Hotel at Poly**.
+When I glanced across the sidewalk, he happened to look over at me in my manual chair at the exact same second—and for half a heartbeat, [the young woman with the brown side-braid walking right beside his chair](https://books.raggiesoft.com/beth) looked vaguely like someone Rachel and I might have passed a dozen times in the corridors of **Emerald Creek Mall** back home in Chesapeake growing up without ever knowing her name. We exchanged a quick, friendly grin and a knowing wave in passing as he guided his power chair smoothly up the front ramp of the **Blue Ridge Transit Route 1** articulated coach with his friends, while Rachel and I crossed the street into **Kincaid Student Center** with our VDU delegation to grab our `SAACURC` registration packets and head back to **The Hotel at Poly**.
 
 ***
 
@@ -30054,7 +30054,7 @@ We were thirty-two and thirty years old, we both had clean Virginia driver's lic
 
 #### 10:00 AM — From `1-425` to Anchor Federal Credit Union (`AFCU`)
 
-Back in **2006** (`e017/c002/p002.md`), when Rachel and I were living in Washington State, Jessica had walked us across the Overlake campus in Redmond to open our accounts at the **Quantum Employees Federal Credit Union (`QEFCU`)**.
+Back in [**November 2006**](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off), when Rachel and I were living in Washington State, Jessica had walked us across the Overlake campus in Redmond to open our accounts at the **Quantum Employees Federal Credit Union (`QEFCU`)**.
 
 `QEFCU` had been an incredible fortress when we lived in the Puget Sound. Now that we were permanently back home in Virginia Beach, however, `QEFCU` had zero physical brick-and-mortar branches on the East Coast. From Virginia, our only ways to access `QEFCU` were online banking, the mobile app, or calling their **`1-425`** customer service number back in Redmond, Washington.
 
@@ -30421,7 +30421,7 @@ As Rachel and I hung our matching **Horizon Avalon** key fobs side by side on th
 
 Sitting in my chair behind the Front Desk at the **Fairlawn Recreation Center** in my royal blue polo shirt and pinned **`MICHAEL`** chest nametag on the late afternoon of **Wednesday, March 13, 2024**, I was ten minutes away from clocking out at **`6:00 PM`**.
 
-Outside in the parking lot, my sister **Rachel** was just pulling into a parking space in our shared **2020 Horizon Avalon**, right on time to pick me up at six o'clock.
+Outside in the parking lot, my sister **Rachel** was just pulling into a parking space in our shared [**2020 Horizon Avalon**](https://books.raggiesoft.com/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-2-the-cashier-s-check-joint-virginia-title-vsa-17a-driving-our-avalon-home), right on time to pick me up at six o'clock.
 
 Our plan for the evening was simple and routine: Rachel had driven our Avalon over to the Rec Center to pick me up, and once I clocked out at `6:00 PM` and walked out to the parking lot, **Rachel was going to slide over into the passenger seat and I was going to take over driving us home**.
 
@@ -30433,9 +30433,9 @@ I had forgotten about the one geographic reality sitting **five minutes up the r
 
 #### 5:55 PM — The Ghost of Susquehanna Drive
 
-Five minutes north of the Fairlawn Recreation Center parking lot, just off **Princess Anne Road**, is **Susquehanna Drive**—the exact residential street where, from **August 24, 2007 to May 8, 2009**, I rode the **CVTA Route 25** bus every weekday morning and afternoon (`e018: The Shallow End`) to meet my college best friend, **Heather Bouchard**.
+Five minutes north of the Fairlawn Recreation Center parking lot, just off **Princess Anne Road**, is **Susquehanna Drive**—the exact residential street where, [from **August 24, 2007 to May 8, 2009**, I rode the **CVTA Route 25** bus every weekday morning and afternoon](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2-first-contact-the-first-embrace-the-route-25-equation) to meet my college best friend, **Heather Bouchard**.
 
-In the fifteen years since Friday, May 8, 2009—the morning Heather finished her final exam at the **Community College of Hampton Roads (`CCHR`)**, boarded the `10:45 AM` inbound Route 25 bus with me, suddenly pushed my arms away when I reached for our routine goodbye hug at **Princess Anne Road & Susquehanna Drive**, stepped off the bus without a word, and blocked me on *Orbit*—we had learned why we never ran into her around town.
+In the fifteen years since [Friday, May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—the morning Heather finished her final exam at the **Community College of Hampton Roads (`CCHR`)**, boarded the `10:45 AM` inbound Route 25 bus with me, suddenly pushed my arms away when I reached for our routine goodbye hug at **Princess Anne Road & Susquehanna Drive**, stepped off the bus without a word, and blocked me on *Orbit*—we had learned why we never ran into her around town.
 
 After completing her Nuclear Medicine Technology credentials at CCHR in May 2009, **Heather (`Twin A`)** had moved back up to **Charlottesville** to work full-time as a hospital **Nuclear Medicine Technologist**. Meanwhile, her identical twin sister, **Hailey (`Twin B`)**, had remained full-time right here in Virginia Beach at their longtime family house on **Susquehanna Drive**.
 
@@ -30455,7 +30455,7 @@ When my eyes saw her face across the counter and registered that name on the che
 
 It wasn't fear, and it wasn't anger.
 
-It was a violent, unbuffered flood of **what were supposed to be happy memories**—eating chicken tenders with mayo and fries with ketchup across from her burger and cola in the CCHR cafeteria on August 24, 2007; laughing with **Ms. Doris** (`Doris Hooks`) on the morning Route 25 bus while three strangers tried to recruit us into a bowling league; walking the CCHR courtyard unmasked for the very first time in my adult life after escaping Washington; watching Hailey and Heather pull their April Fools' Day 2008 *Twin Magic* prank at the Susquehanna Drive shelter before Heather lifted her chestnut-auburn bangs on the outbound bus to show me the tiny freckle (*"my birth mark"*) hidden right at her upper forehead hairline; standing together in front of the glowing blue saltwater tunnel at the **Chesapeake Bay Aquarium**—and discovering in a single heartbeat that every single one of those happy memories now **hurt like a knife in my ribs**.
+It was a violent, unbuffered flood of **what were supposed to be happy memories**—[eating chicken tenders with mayo and fries with ketchup across from her burger and cola in the CCHR cafeteria on August 24, 2007](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end); [laughing with **Ms. Doris** (`Doris Hooks`) on the morning Route 25 bus while three strangers tried to recruit us into a bowling league](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-ms-doris-route-25-the-penny-s-run); walking the CCHR courtyard unmasked for the very first time in my adult life after escaping Washington; [watching Hailey and Heather pull their April Fools' Day 2008 *Twin Magic* prank at the Susquehanna Drive shelter before Heather lifted her chestnut-auburn bangs on the outbound bus to show me the tiny freckle (*"my birth mark"*) hidden right at her upper forehead hairline](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark); [standing together in front of the glowing blue saltwater tunnel at the **Chesapeake Bay Aquarium**](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-2-the-chesapeake-bay-aquarium)—and discovering in a single heartbeat that every single one of those happy memories now **hurt like a knife in my ribs**.
 
 Inside my head, my **audio hyperphantasia** slammed on at full studio volume, blasting the frantic, clinical synth-pulse of [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) while my heart hammered against my sternum and my hands went ice-cold.
 
@@ -30501,7 +30501,7 @@ The second the front door clicked shut behind us and the deadbolt slid home insi
 
 We didn't even make it upstairs.
 
-Rachel guided me straight over to the living room sofa—the exact same living room spot where, fifteen years earlier at **`3:13 PM` on Friday, May 8, 2009** (`e018/c007/p002.md`), she had walked through the front door in her red *Spot* t-shirt to find me sobbing after Heather pushed me away on the **CVTA Route 25** bus at Susquehanna Drive.
+Rachel guided me straight over to the living room sofa—the exact same living room spot where, fifteen years earlier at [**`3:13 PM` on Friday, May 8, 2009**](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go), she had walked through the front door in her red *Spot* t-shirt to find me sobbing after Heather pushed me away on the **CVTA Route 25** bus at Susquehanna Drive.
 
 As soon as we sat down on the cushions, I reached for my Bug, buried my face against her shoulder—still wearing my royal blue Fairlawn Rec Center polo shirt with my **`MICHAEL`** nametag pinned to my chest—and **broke down crying in Rachel's arms**.
 
@@ -30536,7 +30536,7 @@ I looked straight into Rachel's warm dark brown eyes, my hands still gripping he
 Rachel looked into my eyes and understood the entire architecture of my heart without needing me to draw a diagram:
 * I don't trust **anyone** else with that memory.
 * I could never tell **Kristin**—or let her see me crying over a girl from 2008—because I love my life with Kristin with every ounce of my soul, and I would never, ever want Kristin to feel even a microsecond of doubt or hurt that a scarred corner of my nervous system still grieves the best friend who vanished on a bus fifteen years ago. (When we're in the car and a heavy 2008-era synth-rock track comes over the radio, Kristin—acting as my quiet Co-Administrator—doesn't even press `MUTE`, because muting the sound leaves the song title glowing on the screen; she simply changes the station to another channel, and we never speak Heather's name).
-* And I could never tell **Jessica**, because if Jessica found out that someone from my past had walked into my workplace and left me sobbing on the living room sofa, Jessica's protective executive instincts would treat Heather like **Delores** or **Master Curtis** and go on the warpath to destroy her. And Heather was *never* an abuser like Delores. She was just an overwhelmed nineteen-year-old Nuclear Medicine student who had given me a two-year sanctuary when I was broken, and then pulled the emergency cord the only way she knew how when her own bandwidth ran out.
+* And I could never tell **Jessica**, because if Jessica found out that someone from my past had walked into my workplace and left me sobbing on the living room sofa, Jessica's protective executive instincts would treat Heather like [**Delores**](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) or [**Master Curtis**](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check) and go on the warpath to destroy her. And Heather was *never* an abuser like Delores. She was just an overwhelmed nineteen-year-old Nuclear Medicine student who had given me a two-year sanctuary when I was broken, and then pulled the emergency cord the only way she knew how when her own bandwidth ran out.
 
 Only **Rachel**—my twin-in-spirit, my Bug, who had held me on this exact sofa on May 8, 2009—knew how both truths could live inside my chest at the exact same time.
 
@@ -30580,11 +30580,11 @@ And inside my chest, before my analytical prefrontal cortex could even boot up a
 
 My body saw **my favorite**—my 2008 CCHR best friend—and wanted, with a sudden, aching pull in my chest, to step around the desk and pull her into one of our long, deep-pressure *"Best Friend Hugs"* just like we used to do every morning at the Susquehanna Drive bus stop.
 
-And one millisecond behind that biological urge came the ice-cold wall of **May 8, 2009**—her hands pushing against my chest on Route 25—accompanied by my brain's **audio hyperphantasia** kicking on like a studio master tape in my skull, playing the driving, relentless synth-bass and clinical dread of [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) at full lossless volume inside my head.
+And one millisecond behind that biological urge came the ice-cold wall of [**May 8, 2009**](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—her hands pushing against my chest on Route 25—accompanied by my brain's **audio hyperphantasia** kicking on like a studio master tape in my skull, playing the driving, relentless synth-bass and clinical dread of [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) at full lossless volume inside my head.
 
 Neither of us said a word.
 
-Outwardly, remembering how Rachel had held me five weeks ago and promised she was right behind me, my martial arts discipline from Master April's mat and my Front Desk training held my posture completely still. I kept my mouth closed and gave the standard, neutral half-nod of a desk attendant confirming a green scan.
+Outwardly, remembering how Rachel had held me five weeks ago and promised she was right behind me, my martial arts discipline from [Master April's mat](https://books.raggiesoft.com/rachel/the-shallow-end/the-blueprint-and-the-sabomnim/part-3-the-sea-of-truth-the-criollo-drive-ascent) and my Front Desk training held my posture completely still. I kept my mouth closed and gave the standard, neutral half-nod of a desk attendant confirming a green scan.
 
 Heather broke eye contact first, turned cleanly to her right, and walked around the corner behind the Front Desk into the **Weight Room**—completely out of sight from where I sat.
 
@@ -30620,7 +30620,7 @@ Anthony had pulled up the timestamped `17:31` overhead security camera feed of t
 
 I paused, meeting Anthony's eyes with dead-serious clarity so he understood the exact boundary in my head:
 
-"Now," I added quietly, "if that had been my *abuser* from 2005 walking through those front doors? You, Ms. Susan, and I would be having a very, *very* different conversation right now."
+"Now," I added quietly, "if that had been [my *abuser* from 2005](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line) walking through those front doors? You, Ms. Susan, and I would be having a very, *very* different conversation right now."
 
 Anthony nodded slowly, understanding the distinction immediately. "Understood, Michael. My office door is always open if you ever need five minutes off the desk."
 
@@ -30674,7 +30674,7 @@ My head snapped up from the monitor toward the counter.
 
 Standing right across the Scan Station counter from my chair was a thirty-seven-year-old woman with an angular oval face, straight shoulder-length chestnut-auburn hair, and thin-rimmed rectangular glasses—a **`100% 1:1` identical hardware match for Heather Bouchard**.
 
-I had not seen **Hailey (`Twin B`)** in person since **Tuesday, April 1, 2008** (`e018/c006/p001.md`)—the morning of the April Fools' Day *Twin Magic* prank at the **Princess Anne Road & Susquehanna Drive** bus shelter eighteen years ago, when Hailey had walked up in Heather's navy CCHR windbreaker and pulled me into a morning hug that I happily returned before the real Heather stepped out from behind the shelter laughing.
+I had not seen **Hailey (`Twin B`)** in person since [**Tuesday, April 1, 2008**](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark)—the morning of the April Fools' Day *Twin Magic* prank at the **Princess Anne Road & Susquehanna Drive** bus shelter eighteen years ago, when Hailey had walked up in Heather's navy CCHR windbreaker and pulled me into a morning hug that I happily returned before the real Heather stepped out from behind the shelter laughing.
 
 Later that afternoon in 2008 on the outbound Route 25 bus, Heather had brushed back her bangs at the top of her forehead to show me the tiny, solitary freckle—her *"birth mark"*—hidden right at her hairline that Hailey didn't have.
 
@@ -30705,7 +30705,7 @@ Unlike Heather—who always walked straight behind the solid rear wall of the Fr
 
 So I refused to look up.
 
-For the next seventy-five minutes, I kept my gaze strictly locked on the computer monitors, the cash register keys, the high laminate counter, and the faces of the patrons standing directly in front of me. My outward autistic mask—refined over seventeen years since **Dr. Harrison** first handed me the Owner's Manual to my brain in June 2009 (`e020/c001/p001.md`)—ran every customer interaction on clean, polite autopilot while my internal processor worked overtime to contain the tremor in my hands.
+For the next seventy-five minutes, I kept my gaze strictly locked on the computer monitors, the cash register keys, the high laminate counter, and the faces of the patrons standing directly in front of me. My outward autistic mask—refined over seventeen years since [**Dr. Harrison** first handed me the Owner's Manual to my brain in June 2009](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)—ran every customer interaction on clean, polite autopilot while my internal processor worked overtime to contain the tremor in my hands.
 
 At **`8:45 PM`**—fifteen minutes before our `9:00 PM` Tuesday close—standard Duty Supervisor closing protocol finally gave me my tactical exit.
 
@@ -30739,7 +30739,7 @@ I leaned my head back against Rachel's shoulder and let out a long, honest breat
 
 Rachel didn't flinch or judge me. She just squeezed my arm gently, listening.
 
-"And right behind that," I continued quietly, "is the part that makes me feel crazy if I don't say it out loud to you: **I love my life right now.** If somebody pulled up in the driveway tonight in a stainless-steel time machine set to **May 2007** and told me I could hit **`88 MPH`**, go back to CCHR before Fall Semester 2007 ever started, and rewrite the way things ended with Heather on May 8, 2009—I wouldn't even touch the door handle. Because if you go back to 2007 and run over even a single pine tree in the past, you risk altering the timeline from May 2009 onward. And there is zero universe where I would ever risk changing a single variable that brought **Ashley** home to us on May 11, 2009, or brought **Kristin** and **Jessica** across the country to `3701 Canadian Arch`, or built the life we have today."
+"And right behind that," I continued quietly, "is the part that makes me feel crazy if I don't say it out loud to you: **I love my life right now.** If somebody pulled up in the driveway tonight in a stainless-steel time machine set to **May 2007** and told me I could hit **`88 MPH`**, go back to CCHR before Fall Semester 2007 ever started, and rewrite the way things ended with Heather on May 8, 2009—I wouldn't even touch the door handle. Because if you go back to 2007 and run over even a single pine tree in the past, you risk altering the timeline from May 2009 onward. And there is zero universe where I would ever risk changing a single variable that [brought **Ashley** home to us on May 11, 2009](https://books.raggiesoft.com/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction), or [brought **Kristin** and **Jessica** across the country to `3701 Canadian Arch`](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), or built the life we have today."
 
 "You don't want 2008 back instead of today, Bear," Rachel said, putting the exact right words to the math in my head the way my Co-Processor always has. "You just hate that a memory that *used* to feel like sunshine now feels like a system crash whenever her face walks through the door. And you don't want to hear the 2009 crash logs."
 
@@ -30747,7 +30747,7 @@ Rachel didn't flinch or judge me. She just squeezed my arm gently, listening.
 
 "Then we treat the Front Desk like a fortified perimeter," Rachel said calmly, her dark brown eyes locking onto mine as we shifted into pure **Director of Operations and Secretary** problem-solving mode. "What's the vulnerability that caught you off guard on Tuesday?"
 
-"The **Identical-Twin Hardware Ambiguity**," I answered immediately. "Back on April Fools' Day 2008 on the outbound Route 25 bus, Heather lifted her bangs at the top of her forehead and showed me that tiny little freckle—her *'birth mark'*—right at her hairline that Hailey doesn't have. When you're sitting twelve inches apart on a bus bench and she brushes her hair back with her fingers, you can see that checksum. When one of the Bouchard twins walks up to the **Scan Station** at Fairlawn Rec Center in 2026 with her bangs down and the high counter cutting off her lower body and shoes, **my trauma-wired brain cannot play 'Spot the Difference.'** Until that barcode hits the red laser and the monitor prints either **`HEATHER BOUCHARD`** (`Twin A`) or **`HAILEY BOUCHARD`** (`Twin B`), I literally do not know *who* is standing in front of me."
+"The **Identical-Twin Hardware Ambiguity**," I answered immediately. "Back on [April Fools' Day 2008 on the outbound Route 25 bus](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark), Heather lifted her bangs at the top of her forehead and showed me that tiny little freckle—her *'birth mark'*—right at her hairline that Hailey doesn't have. When you're sitting twelve inches apart on a bus bench and she brushes her hair back with her fingers, you can see that checksum. When one of the Bouchard twins walks up to the **Scan Station** at Fairlawn Rec Center in 2026 with her bangs down and the high counter cutting off her lower body and shoes, **my trauma-wired brain cannot play 'Spot the Difference.'** Until that barcode hits the red laser and the monitor prints either **`HEATHER BOUCHARD`** (`Twin A`) or **`HAILEY BOUCHARD`** (`Twin B`), I literally do not know *who* is standing in front of me."
 
 ***
 
@@ -30787,7 +30787,7 @@ This time, the **`Code Susquehanna`** firewall held without a single dropped pac
 
 Twelve days after that came **Thursday, September 3, 2026**.
 
-In the internal calendar of my life, **September 3** is a double-loaded date: it was the legacy date in `2004` when I first met Delores in the ticket line at the Roper Theater, and it is **Heather and Hailey Bouchard's shared birthday**—born **September 3, 1988**, turning nineteen the week after Heather and I met at CCHR in 2007, and turning **thirty-eight** on September 3, 2026.
+In the internal calendar of my life, **September 3** is a double-loaded date: it was the legacy date in `2004` when [I first met Delores in the ticket line at the Roper Theater](https://books.raggiesoft.com/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line), and it is **Heather and Hailey Bouchard's shared birthday**—born **September 3, 1988**, turning nineteen the week after Heather and I met at CCHR in 2007, and turning **thirty-eight** on September 3, 2026.
 
 For the first time in seventeen years, **September 3** arrived and passed with my internal status board sitting at **100% Status Green**. Neither twin scanned into the building that Thursday, the date had zero sting in my chest, and when Rachel wrapped me up in a tight hug in the upstairs hallway that night, I genuinely thought the firewall had retired the ghost for good.
 
@@ -30931,9 +30931,9 @@ Rachel's eyes widened slightly at the sheer surreal irony of the song—and then
 
 She stepped right between my desk chair and hers, opened her arms, and pulled me straight against her chest in a long, heavy, deep-pressure **Bear and Bug** hug.
 
-That is how Rachel and I have communicated ever since she was six and I was eight: through hugs. *A lot* of hugs. In our minds, why would we ever fist-bump or high-five when we can just hug each other?
+That is how Rachel and I have communicated [ever since she was six and I was eight](https://books.raggiesoft.com/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement): through hugs. *A lot* of hugs. In our minds, why would we ever fist-bump or high-five when we can just hug each other?
 
-I wrapped both arms tightly around my sister's waist and rested my forehead against her shoulder—not with the terrified, suffocating panic of May 8, 2009 when I was afraid the whole world was going to walk away from me, but with the deep, exhaling relief of a man who had stood at his post, held the line at **Status Yellow**, kept his mouth shut, and come home to the one person who had never let go of him for a single second of his life.
+I wrapped both arms tightly around my sister's waist and rested my forehead against her shoulder—not with the [terrified, suffocating panic of May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go) when I was afraid the whole world was going to walk away from me, but with the deep, exhaling relief of a man who had stood at his post, held the line at **Status Yellow**, kept his mouth shut, and come home to the one person who had never let go of him for a single second of his life.
 
 When I finally sank down into my desk chair, Rachel didn't go back to her own chair—she settled right onto my lap and kept both arms locked tightly around my neck and shoulders, because even at thirty-six and thirty-eight years old, to this day Rachel still feels that the safest place in the entire world is sitting on her brother's lap.
 
