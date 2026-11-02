@@ -29812,6 +29812,137 @@ From across the open landing in Bedroom 1, Rachel let out a soft, raspy cheer, a
 
 The two-and-a-half-year bridge between [*A Few Small Repairs*](https://books.raggiesoft.com/rachel/a-few-small-repairs) and [*The Director's Perimeter*](https://books.raggiesoft.com/rachel/the-director-s-perimeter) was officially complete. Every piece of our architecture was intact, every Sentinel was home, and our fortress was rising from the dirt.
 
+# The GIH Pilot & The Heel Cord Surgery (2015–2016)
+
+## From CCHR to VDU: The Upperclass GIH Pilot Apartment
+
+### Upperclass Credits from CCHR & Signing Up for VDU's Gender-Inclusive Housing Pilot in a Heartbeat
+
+**Date:** 2015-08-22 at 14:00 America/New_York
+
+![Michael and Rachel standing side by side holding hands with their fingers laced together in their new 2-bedroom upperclass on-campus apartment at Virginia Dominion University in August 2015, wearing royal-blue and silver VDU t-shirts with both open bedroom doors and full-sized beds visible behind them]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
+
+#### 2:00 PM — Permanent Residence at Moosewood Drive & Going Back for Our Bachelor's Degrees
+
+In the years since **Jessica** had finished building our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, the five of us—**Rachel**, **Ashley**, **Kristin**, **Jessica**, and I—had settled into the safest, most unshakable home perimeter of our lives.
+
+**Moosewood Drive** was, and would always remain, **Rachel's and my permanent legal residence**—the address printed on our Virginia Non-Driver State ID cards, our voter registrations, our medical files, and our credit union accounts.
+
+During our years in ["The Shallow End" at the **Community College of Hampton Roads (`CCHR`)**](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end), Rachel and I had methodically knocked out semester after semester of general education and lower-division coursework at our own pace, building up a thick stack of transferable college credits right across Buckner Boulevard without a single sensory overload or bureaucratic ambush.
+
+By the spring of **2015**, however, Rachel and I sat down at our dual desks in the Command Center at Moosewood Drive and looked at our `CCHR` transcripts.
+
+We didn't want to stop at community college. Both of us wanted to go back to school at a four-year university—specifically **Virginia Dominion University (`VDU`)** up in **Norfolk**—to earn our bachelor's degrees.
+
+And just as importantly: before we graduated, **Rachel and I wanted to try out the on-campus college living experience.**
+
+Back in [2004 at CPI in Blacksburg](https://books.raggiesoft.com/rachel/the-freshman/the-setup/part-1-move-in-day), my first attempt at living in a traditional freshman college dorm by myself—separated from Rachel, trapped in a noisy cinderblock hall-bath corridor with a stranger for a roommate while Delores held the strings—had ended in disaster. This time, if we were going to try living on a university campus during the Fall and Spring semesters while keeping **Moosewood Drive** as our permanent home base on weekends and breaks, we were only going to do it **together**.
+
+There were two massive pieces of luck that made that possible in the spring of 2015:
+
+1. **Enough `CCHR` Credits to Bypass Freshman Classification:** Because Rachel and I had earned so many transferable credits at the **Community College of Hampton Roads (`CCHR`)**, VDU Admissions did **not** classify either of us as incoming freshmen. We transferred into VDU with **upperclassman credit standing**—which meant we weren't restricted to the crowded freshman corridor dorms! We immediately qualified to apply for VDU's **upperclass on-campus apartments on the very first try**.
+2. **The `2015–2016` VDU Gender-Inclusive Housing (`GIH`) Pilot Program:** Historically, even in upperclass university apartments, traditional state university housing software blocked a brother and sister from being assigned to the same apartment unit because room rosters were strictly segregated by gender (`Male-Only` or `Female-Only` units). Right when we logged into the VDU Housing & Residence Life portal in Spring 2015, however, a banner across the top of the screen caught both of our eyes:
+   > ***NEW FOR 2015–2016: Gender-Inclusive Housing (`GIH`) Pilot Program***
+   > *Virginia Dominion University is launching a campus-wide pilot program allowing upperclass students to mutually select roommates and share multi-bedroom on-campus apartments regardless of gender.*
+
+Rachel and I looked at the screen, looked at each other across our desks, and **signed up in a heartbeat**.
+
+![Michael and Rachel holding hands inside their new 2-bedroom upperclass on-campus apartment at VDU in August 2015 with both open bedroom doors and full-sized beds visible behind them]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
+
+***
+
+#### 4:15 PM — Moving Into Our 2-Bedroom Upperclass Apartment & The Alternating Bed Rotation Protocol
+
+On **Saturday afternoon, August 22, 2015**, **Ashley** and **Kristin** helped Rachel and me load our suitcases, textbooks, and bedding into Ashley's car at Moosewood Drive and drove us up to Norfolk to move into our new **two-bedroom upperclass on-campus apartment** at **Virginia Dominion University**.
+
+When we tapped our VDU student ID cards against the electronic lock and stepped inside, the difference between an upperclass apartment with my Bug and a freshman dorm room alone was night and day.
+
+Instead of a concrete hallway with a communal bathroom down the hall, we had our own private front door, our own living room and kitchen, our own private apartment bathroom, and **two private bedrooms (`Bedroom A` and `Bedroom B`)**—each furnished by the university with a **full-sized bed**, a desk, and a dresser.
+
+As soon as Ashley and Kristin hugged us goodbye for the week and we propped both interior bedroom doors and the bathroom door wide open under our lifelong [**Open-Door Policy**](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts), Rachel and I stood in the middle of our living room in our new royal-blue and silver **`VDU`** t-shirts, holding hands with our fingers laced together and grinning from ear to ear.
+
+Of course, Rachel and I had zero intention of sleeping in separate bedrooms. We share a bed every single night.
+
+Looking through the two open doorways at the identical full-sized beds in `Bedroom A` and `Bedroom B`, however, my operational brain immediately spotted a campus-housing edge case.
+
+"Wait a second, Bug," I said, looking from Bedroom A's mattress to Bedroom B's mattress. "In on-campus housing, Residence Life staff and maintenance conduct periodic health-and-safety room inspections once a month. If an RA or a maintenance tech walks through here in October and sees `Bedroom A` lived in while `Bedroom B`'s bed has sat untouched with crisp, museum-flat sheets since August, somebody might start asking nosy questions about how the GIH pilot is being used."
+
+Rachel laughed softly, her eyes sparkling behind her rounded glasses. "So how does the future Director of Operations solve that?"
+
+"We institute the **Alternating Bed Rotation Protocol**," I grinned. "We make up both full-sized beds with identical sheets and comforters. On odd nights of the calendar, we sleep together in `Bedroom A`'s full bed. On even nights of the calendar, we sleep together in `Bedroom B`'s full bed. Both bedrooms always look naturally, equally lived-in, both mattresses wear evenly, and we never spend a single night apart."
+
+"Approved unanimously," Rachel whispered, stepping up to kiss my cheek.
+
+Within six weeks of moving into our upperclass apartment—and loving every minute of on-campus life together—Rachel and I threw our hats into the fall campus elections for the **VDU Residence Hall Association (`RHA`)**, where every single officer position is elected directly by on-campus residents. By October 2015, our fellow residents had elected me **RHA Director of Operations** and Rachel **RHA Secretary**, setting us up to represent VDU at the upcoming regional **`SAACURC` 2016** conference in February.
+
+Before we could head up to the mountains of Blacksburg in February, however, there was one piece of long-overdue medical hardware maintenance my own body needed first.
+
+## Bilateral Achilles Heel Cord Lengthening & Cleared for CPI
+
+### Bilateral Achilles Heel Cord Lengthening, Why Rachel Waited for Me, & Cleared to Travel to CPI
+
+**Date:** 2016-02-10 at 10:30 America/New_York
+
+![In a bright orthopedic clinic exam room in early February 2016, Michael sits comfortably on the exam bench while Rachel stands right beside him holding his hand with their fingers laced together, as his orthopedic surgeon smiles with his medical chart and clears Michael to travel to CPI in Blacksburg using the blue manual wheelchair beside the wall]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/feb_2016_achilles_clearance_for_cpi_saacurc_travel.jpg)
+
+#### 10:30 AM — Tight Heel Cords & Why Rachel Stubbornly Waited for Me
+
+For as long as I could remember, both of my ankles had carried a quiet biomechanical limitation: congenital tightness in my bilateral **Achilles heel cords** (*gastrocnemius-soleus / tendo-Achilles contracture*).
+
+Whenever I stood or walked long distances, my tight Achilles tendons pulled upward on my calcaneus bones, fighting against flat-footed contact with the ground and limiting my **ankle dorsiflexion**—the upward hinging motion of the foot toward the shin.
+
+In everyday walking around the flat sidewalks of Virginia Beach or the hallways of `CCHR` and `VDU`, I had compensated for it my whole life. Where tight Achilles heel cords became a hard mechanical blocker, however, was behind the steering wheel of an automobile.
+
+To drive a car safely, your right heel has to stay planted on the floorboard while your ankle hinges smoothly upward into dorsiflexion to lift off the accelerator, pivot across to the service brake, and modulate pedal pressure without your calf muscle locking up or forcing you to lift your entire leg off the floor. With my heel cords as tight as bowstrings, my orthopedic specialist had been honest with me: until I underwent **bilateral Achilles heel cord lengthening surgery** and completed post-operative physical therapy, my ankles weren't ready for the pedal demands of driving.
+
+And that medical fact explained something else about our household that outsiders never quite understood.
+
+By early 2016, I was twenty-eight years old and **Rachel** was twenty-six, and neither of us had a Virginia Learner's Permit or a Driver's License yet.
+
+Now, **Rachel could have gotten her Learner's Permit and Driver's License at any time over the last ten years.** Her ankles were completely healthy, her vision with her glasses was crystal clear, and **Mom (`Ellen`)** or **Ashley** would have happily taken her to the DMV whenever she asked.
+
+Every single time the subject of driving lessons came up over the years, however, **Rachel stubbornly refused to go without me.**
+
+*"Bear and I do everything together,"* Rachel had insisted every time, folding her arms with that unmistakable Ragsdale stubbornness that no force on earth could budge. *"I'm not getting my permit while Michael has to sit on the sidelines waiting on his ankles. The day Michael's surgeon clears him to drive, we're walking into the DMV holding hands and getting our Learner's Permits together."*
+
+So in **late January 2016**—timed carefully between the start of our Spring 2016 semester at VDU and our summer break so that my tendons would be 100% healed and cleared for driving by June—I checked into the outpatient orthopedic surgery center in Hampton Roads and underwent **elective bilateral Achilles heel cord lengthening in both feet**.
+
+Through the first three weeks of recovery—first resting back home at our permanent family residence on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) under the care of Rachel, Kristin, Ashley, Jessica, and Mom, and then back at our ground-level accessible 2-bedroom upperclass apartment at **VDU**—Rachel never left my side for a second.
+
+And as the second weekend of February approached, there was one imminent calendar milestone sitting at the top of my mind:
+
+**Friday, February 12 through Sunday, February 14, 2016** was the regional **`SAACURC` 2016 Student Leadership Conference** up in the Blue Ridge Mountains at **Commonwealth Polytechnic Institute (`CPI`)** in **Blacksburg, Virginia**—and as the elected **Director of Operations** and **Secretary** of the **VDU Residence Hall Association**, Rachel and I were scheduled to travel in the fifteen-passenger VDU van with our advisor **Kyleen**.
+
+![Michael sitting comfortably on the orthopedic exam bench holding Rachel's hand as his surgeon clears him to travel to CPI in Blacksburg using a manual wheelchair]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/feb_2016_achilles_clearance_for_cpi_saacurc_travel.jpg)
+
+***
+
+#### 11:00 AM — Cleared to Travel to Blacksburg (On One Condition)
+
+At `10:30 AM` on **Wednesday, February 10, 2016**—just forty-eight hours before the VDU van was scheduled to pull out of Norfolk for Blacksburg—Rachel and I sat side by side in Exam Room 3 at the orthopedic clinic in Virginia Beach, holding hands with our fingers laced together while my surgeon examined the healing incisions along the back of both of my lower legs.
+
+Gently flexing both of my ankles upward while I sat on the edge of the exam bench, the doctor smiled at the improved range of motion already showing in both heel cords.
+
+"Your incisions are clean, swelling is minimal, and both lengthened tendons are tracking right on schedule, Michael," the surgeon said, picking up his medical chart. "In another four months—right around mid-June once you finish your spring physical therapy strengthening protocol—I'll be able to sign your full, unrestricted medical clearance for driving pedals."
+
+Beside me, Rachel squeezed my hand and grinned. "You hear that, Bear? Mid-June is DMV time."
+
+"Now, about this weekend's university conference up in Blacksburg," the surgeon continued, looking seriously at the two of us over his glasses. "You are three weeks post-op on both Achilles tendons. You can stand up on your own two feet (`5'7"`) for twenty seconds at a time to transfer into the university van or take a few gentle steps across a flat hotel room floor—**and I am officially clearing you to travel to CPI with your delegation.**"
+
+I let out a huge breath of relief. "Thank you, Doctor!"
+
+"Hold on—there is **one strict medical condition**," the surgeon said, pointing his pen toward the folded blue-upholstered **manual wheelchair** with rear push-handles that we had brought into the exam room. "Have you ever walked the campus of Commonwealth Polytechnic Institute in February?"
+
+"I lived there in 2004," I admitted with a wry smile. "It's a 2,100-foot mountain plateau full of steep limestone hills and long walkways."
+
+"Exactly," the surgeon nodded. "If you try to walk the steep hills of Blacksburg or stand in long conference registration lines three weeks after bilateral Achilles surgery, you will over-strain both repairs. So my clearance for this trip is conditional: **on campus and in the conference hallways at CPI, you stay in that manual wheelchair, and you let your sister help steady those rear push-handles on the hills.** Deal?"
+
+"Deal," I promised immediately.
+
+"Don't worry, Doctor," Rachel said, resting her free hand on the rear push-handle of the blue wheelchair while keeping her other hand laced tightly through mine. "I'm his RHA Secretary and his perimeter guard. His feet aren't touching a single hill in Blacksburg."
+
+With my signed travel clearance tucked into our folder and **Kyleen** notifying **The Hotel at Poly** in Blacksburg to assign Rachel and me a ground-floor **ADA Accessible Double-Queen Room** (`Room 114`), we were officially cleared for [our Friday morning departure to **`SAACURC 2016`**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly)—and the countdown to our June 2016 driving clearance had officially begun.
+
 # The Mountain Conference (SAACURC 2016)
 
 ## The Bear, The Bug, and The Forger
@@ -29830,7 +29961,7 @@ At `4:00 PM`, Kyleen pulled the van under the brick porte-cochère of **The Hote
 
 As the van doors opened, I waited while two of our fellow elected VDU delegates unfolded my blue-upholstered manual wheelchair and set it on the dry brick pavement beside the running board.
 
-I am not normally a wheelchair user—standing up, I'm `5'7"`, the exact same height as my sister **Rachel** (*my Bug*)—and I definitely wasn't planning on spending a cold February weekend in the Blue Ridge Mountains on four wheels. Three weeks earlier, however, I had undergone elective foot surgery back in Hampton Roads—bilateral Achilles heel cord lengthening in both feet. My surgeon had cleared me to travel with the VDU delegation only on the strict condition that I use a manual wheelchair and not walk the steep campus hills of Blacksburg or stand in long conference registration lines while both of my Achilles tendons and incisions finished healing.
+I am not normally a wheelchair user—standing up, I'm `5'7"`, the exact same height as my sister **Rachel** (*my Bug*)—and I definitely wasn't planning on spending a cold February weekend in the Blue Ridge Mountains on four wheels. [Three weeks earlier, however, I had undergone elective foot surgery back in Hampton Roads—bilateral Achilles heel cord lengthening in both feet](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi/part-1-bilateral-achilles-heel-cord-lengthening-why-rachel-waited-for-me-cleared-to-travel-to-cpi). My surgeon had cleared me to travel with the VDU delegation only on the strict condition that I use a manual wheelchair and not walk the steep campus hills of Blacksburg or stand in long conference registration lines while both of my Achilles tendons and incisions finished healing.
 
 And there was no way I was missing **`SAACURC`**.
 
@@ -29894,7 +30025,7 @@ As soon as the heavy hotel door clicked shut and I threw the deadbolt and night 
 
 "Just like home, Bear," she whispered.
 
-Back in Norfolk, this academic year—beginning in **Fall 2015** and continuing now into our first **Spring 2016** semester—was the very first year **Virginia Dominion University** had offered **Gender-Inclusive Housing (`GIH`)** as an official campus pilot program. The moment VDU Housing opened the GIH pilot applications last spring, Rachel and I had applied together and secured a **two-bedroom apartment-style dorm** on campus, where each of the two private bedrooms comes furnished with a **full-sized bed**.
+Back in Norfolk, this academic year—beginning in [**Fall 2015** when we transferred our upperclass credits from `CCHR` and signed up in a heartbeat for VDU's **Gender-Inclusive Housing (`GIH`)** pilot program](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-1-upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat), and continuing now into our **Spring 2016** semester while keeping [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach as our permanent family residence—Rachel and I lived in a **two-bedroom upperclass on-campus apartment**, where each of the two private bedrooms comes furnished with a **full-sized bed**.
 
 Of course, Rachel and I have never slept in separate rooms—we share a bed every single night.
 
@@ -30036,15 +30167,17 @@ I checked my mental calendar, kissed the top of my Bug's head, and rested my che
 
 ![Michael and Rachel standing side by side at the Virginia Beach DMV counter holding hands with their fingers laced together, smiling warmly as the DMV clerk hands them their temporary Virginia Learner's Permit sheets after both siblings pass the two-part computerized DMV knowledge exam on the first try]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_dmv_knowledge_test_first_try_permits.jpg)
 
-#### 10:00 AM — Healed Ankles & Ellen's Surprise at Moosewood Drive
+#### 10:00 AM — Medically Cleared, Why Rachel Waited for Me, & Ellen's Surprise at Moosewood Drive
 
-By the second week of June 2016—four months after **Rachel** and I had rolled across the snowy limestone walkways of Blacksburg in my temporary post-op manual wheelchair for [the **2016 `SAACURC` Regional Student Leadership Conference**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly)—my orthopedic surgeon and physical therapist had officially cleared me from my January bilateral Achilles heel cord lengthening surgery.
+On the second Tuesday morning of June 2016—four months after **Rachel** and I had rolled across the snowy limestone walkways of Blacksburg in my temporary post-op manual wheelchair for [the **2016 `SAACURC` Regional Student Leadership Conference**](https://books.raggiesoft.com/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly)—my orthopedic surgeon and physical therapist officially signed my final medical discharge from [my January 2016 bilateral Achilles heel cord lengthening surgery](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi/part-1-bilateral-achilles-heel-cord-lengthening-why-rachel-waited-for-me-cleared-to-travel-to-cpi), clearing me for full, unrestricted ankle dorsiflexion and driving pedal operation.
 
-Standing barefoot on the hardwood floor of our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach, both of my heels rested flat and level against the boards. Even better, when I planted my right heel on the floor and flexed my foot upward and downward like pressing an imaginary gas and brake pedal, my lengthened Achilles tendon glided smoothly through the full arc of dorsiflexion without a single twinge of tightness or calf cramping.
+Standing barefoot on the hardwood floor of our custom single-family sanctuary on [**Moosewood Drive**](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture) in Virginia Beach—our permanent legal residence where we were back home for summer break from [our two-bedroom upperclass GIH apartment at **Virginia Dominion University (`VDU`)**](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-1-upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat)—both of my heels rested flat and level against the boards. Even better, when I planted my right heel on the floor and flexed my foot upward and downward like pressing an imaginary gas and brake pedal, my lengthened Achilles tendon glided smoothly through the full arc of dorsiflexion without a single twinge of tightness or calf cramping.
 
-Up to this point in our lives—at twenty-eight years old for me and twenty-six for my sister **Rachel** (*my Bug*)—neither of us had ever gotten a driver's license.
+And my medical clearance was the exact signal my sister **Rachel** (*my Bug*) had been stubbornly waiting for.
 
-Around the dining table here at **Moosewood Drive**, where the five of us (**Rachel**, **Ashley**, **Kristin**, **Jessica**, and I) lived together when Rachel and I weren't up in Norfolk for classes at **Virginia Dominion University (`VDU`)**, the household transportation roster was straightforward:
+Up to this point in our lives—at twenty-eight years old for me and twenty-six for Rachel—neither of us had gotten a Learner's Permit or a Driver's License yet. **Rachel could have gotten her Learner's Permit at any time over the years**, since nothing medical had ever held her back from driving. Every single time the subject had come up, however, **Rachel had stubbornly insisted on waiting until I was medically ready and cleared after my Achilles heel cord surgery—because Bear and Bug do everything together.** She had refused to take a single step toward a driver's license until the two of us could walk into the DMV side by side.
+
+Around the dining table here at **Moosewood Drive**, where the five of us (**Rachel**, **Ashley**, **Kristin**, **Jessica**, and I) lived together, the household transportation roster was straightforward:
 * **Ashley** held a Virginia Driver's License and owned her own car, parked right outside in the Moosewood Drive driveway.
 * **Jessica** was prohibited from driving for medical reasons and carried a **Virginia Non-Driver State ID card**.
 * **Kristin** also carried a **Virginia Non-Driver State ID card**. Nothing medical or legal stopped Kristin from taking Behind-the-Wheel lessons—she simply did not like to drive, and was completely happy either riding the **Coastal Virginia Transit Authority (`CVTA`)** bus or catching rides with Ashley.
