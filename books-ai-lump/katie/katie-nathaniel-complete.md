@@ -32,9 +32,9 @@ Katie slipped inside, her long, straight platinum-blonde hair swinging past her 
 
 ![Eight-year-old fraternal twins Nathaniel and Katie Prairie sitting side by side on the bedroom carpet in front of their CRT television and cable converter box during their afternoon cartoon block]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/cartoon_afternoon_nathaniel_katie_1994.jpg)
 
-I rushed back across the carpet and pressed the power button on the front of the television and the cable converter box just as the studio logo flashed across the curved glass tube.
+I rushed back across the carpet and pressed the power button on the front of the television and the cable converter box just as the Majestic Studios castle logo and the afternoon cartoon block bumper flashed across the curved glass tube.
 
-The opening brass fanfare of the theme song burst out of the small speaker grille, and instantly, both of us got completely carried away. Katie grabbed both of my hands, and for the next sixty seconds we bounced on the balls of our feet in the middle of the carpet, belting out every single word of the intro theme in unison while the animated title cards rolled across the screen.
+The opening brass fanfare of the *Galactic Samurai Geckos* theme song burst out of the small speaker grille, and instantly, both of us got completely carried away. Katie grabbed both of my hands, and for the next sixty seconds we bounced on the balls of our feet in the middle of the carpet, belting out every single word of the intro theme in unison while the animated title cards rolled across the screen.
 
 Then, just as quickly, the final drumbeat of the opening theme faded out, the episode title card appeared, and the two of us were brought gently back to earth.
 
@@ -82,7 +82,7 @@ By the time our sneakers clicked across the second concrete expansion joint past
 
 At nine-thirty, the counselors ushered us out of the ninety-degree heat into the sixty-eight-degree air conditioning of the university computer lab.
 
-Thirty beige desktop towers and curved CRT monitors lined the walls, their cooling fans humming in a low, steady chord. I loved computers almost as much as I loved our afternoon cartoons, and Katie loved sitting beside me while we took turns with the mouse and keyboard.
+Thirty beige desktop towers running *Quantum OS* and curved CRT monitors lined the walls, their cooling fans humming in a low, steady chord behind rows of mechanical *KeyMech* keyboards. I loved computers almost as much as I loved our afternoon cartoons, and Katie loved sitting beside me while we took turns with the mouse and keyboard.
 
 Counselor Brad, however, still hadn't given up on his clipboard chart.
 
@@ -151,17 +151,17 @@ Katie looked at me as we lowered our arms back into the warm water, a bright, tr
 
 ## Big Family Christmas
 
-### The Newport News Train & The Downstairs Sofa Bed
+### The Newport News ARTS Train & The Downstairs Sofa Bed
 
 **Date:** 1994-12-23 at 18:15 America/New_York
 
 ![On a December 1994 evening in the downstairs living room in Virginia Beach, eight-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved winter flannel pajamas sit side by side under a warm quilt on the unfolded living-room sofa bed holding hands while their cousin Chelsea in flannel pajamas sits near the foot of the bed]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/christmas_1994_newport_news_station_sofa_bed_sanctuary.jpg)
 
-#### 6:15 PM — The Newport News Platform
+#### 6:15 PM — The Newport News ARTS Platform
 
-The evening train pulled into the brick ARTS station in Newport News with a long hiss of air brakes and a cloud of white steam rising into the cold December air.
+The evening train pulled into the brick ARTS—American Rail Transit Service—station in Newport News with a long hiss of air brakes and a cloud of white steam rising into the cold December air.
 
-Up on the concrete platform, Katie and I stood side by side in our winter coats with our hands tucked into our pockets, watching the stainless-steel passenger doors slide open. Moments later, Grandma, our Aunt Elizabeth, and our nine-year-old cousin Chelsea stepped down onto the platform carrying their holiday suitcases, and the whole family crowded together to exchange hugs and greetings.
+Up on the concrete platform, Katie and I stood side by side in our winter coats with our hands tucked into our pockets, watching the stainless-steel ARTS passenger doors slide open. Moments later, Grandma, our Aunt Elizabeth, and our nine-year-old cousin Chelsea stepped down onto the platform carrying their holiday suitcases, and the whole family crowded together to exchange hugs and greetings.
 
 True to form, before we had even walked ten feet past the station canopy toward the parking lot, Aunt Elizabeth wasted no time digging into her coat pocket and lighting up a cigarette.
 
@@ -169,11 +169,11 @@ Beside us, Chelsea immediately scowled and angrily plugged her nose with two fin
 
 "Mom, that's gross," Chelsea stammered, waving a hand in front of her face as all of us were forced to stand on the cold curb waiting before we could load into the vehicles.
 
-"Liz, put that out," our dad snapped, his breath fogging in the December chill as he hefted two suitcases into the trunk. "You know damn well that's not good for you!"
+"Liz, put that out," our dad snapped, his breath fogging in the December chill as he hefted two suitcases into the trunk of our Holt sedan. "You know damn well that's not good for you!"
 
 "Alright, alright," Aunt Liz snapped back, stubbing the cigarette out on the heel of her boot as we sorted ourselves into the two vehicles for the drive back across the Hampton Roads Bridge-Tunnel.
 
-Chelsea climbed into the middle of the back bench seat of the sedan right between Katie and me, while Dad and Aunt Liz sat up front. Behind us, Mom—who was having a rare sober evening so Grandma wouldn't ask questions at the station—drove Grandma in the pickup truck following our taillights down Interstate 64.
+Chelsea climbed into the middle of the back bench seat of the Holt sedan right between Katie and me, while Dad and Aunt Liz sat up front. Behind us, Mom—who was having a rare sober evening so Grandma wouldn't ask questions at the ARTS station—drove Grandma in the pickup truck following our taillights down Interstate 64.
 
 As soon as our sedan cleared the tunnel and turned onto the familiar streets of Virginia Beach, Katie leaned forward slightly to look across Chelsea at me, her eyes bright with holiday excitement.
 
@@ -219,7 +219,7 @@ Before Chelsea could even blink, Katie spun her right back around by the shoulde
 
 "Not a word to anyone," I whispered back, squeezing her hand.
 
-Two minutes later, Chelsea came back out of the hallway wearing her full green flannel pajamas, fuzzy socks, and a sheepish grin, and climbed under the quilt on the far side of the sofa bed. With the living room lamp clicked off and only thecolored lights of the Christmas tree glowing softly in the corner, Katie stayed tucked right against my side—the two of us holding down our downstairs sanctuary while the winter wind rattled the front windows.
+Two minutes later, Chelsea came back out of the hallway wearing her full green flannel pajamas, fuzzy socks, and a sheepish grin, and climbed under the quilt on the far side of the sofa bed. With the living room lamp clicked off and only the colored lights of the Christmas tree glowing softly in the corner, Katie stayed tucked right against my side—the two of us holding down our downstairs sanctuary while the winter wind rattled the front windows.
 
 # Middle School & The Blizzard of '96
 
@@ -235,7 +235,7 @@ Two minutes later, Chelsea came back out of the hallway wearing her full green f
 
 In Virginia Beach, real snow was rare enough that the mere rumor of a winter storm was enough to bring our entire street to a standstill.
 
-On the first Saturday of January 1996, Katie and I stood shoulder to shoulder at my upstairs bedroom window, pressing our palms against the cold wooden sill as we stared out at the residential street below. Outside, the air was bitterly cold, and heavy, slate-gray clouds were rolling in off the Atlantic until the sky looked like brushed steel. Behind us on my bedroom stand, the local Norfolk news station had cut into regular Saturday morning programming, the meteorologist standing in front of a swirling radar map warning all of Hampton Roads to prepare for the Blizzard of '96.
+On the first Saturday of January 1996, Katie and I stood shoulder to shoulder at my upstairs bedroom window, pressing our palms against the cold wooden sill as we stared out at the residential street below. Outside, the air was bitterly cold, and heavy, slate-gray clouds were rolling in off the Atlantic until the sky looked like brushed steel. Behind us on my bedroom stand, the local Norfolk GBS news station had cut into regular Saturday morning programming, the meteorologist standing in front of a swirling radar map warning all of Hampton Roads to prepare for the Blizzard of '96.
 
 "You think we're going to have snow?" Katie asked, her breath fogging a small circle on the glass pane.
 
@@ -315,7 +315,7 @@ Carrying her pillow under her arm in her purple fleece pajamas, Katie crossed th
 
 Middle school had a way of taking kids who had been inseparable since birth and trying to pull them into two completely separate orbits.
 
-For the first month of seventh grade, while I spent my afternoons quiet in my room with my video games, Katie had tried her hardest to fit into the normal middle-school social script—eating lunch with the girls from her English class and going out with a seventh-grade boy named Donnie. And because both of us were stressed out by the louder hallways, the changing class bells, and Mom's drinking getting worse at home, the two of us had fallen into the stupid habit of bickering over small things whenever we passed each other in the upstairs hall.
+For the first month of seventh grade, while I spent my afternoons quiet in my room with my *Nova 64* video games, Katie had tried her hardest to fit into the normal middle-school social script—eating lunch with the girls from her English class and going out with a seventh-grade boy named Donnie. And because both of us were stressed out by the louder hallways, the changing class bells, and Mom's drinking getting worse at home, the two of us had fallen into the stupid habit of bickering over small things whenever we passed each other in the upstairs hall.
 
 On Thursday afternoon, all of that stopped the second I walked up the stairs and heard the sound coming through Katie's bedroom door.
 
@@ -397,11 +397,11 @@ In the quiet kitchen, I made us both thick peanut-butter-and-jelly sandwiches an
 
 "Sure," I replied warmly. "Let's pick something together."
 
-We walked back upstairs to my deep-blue bedroom, picked out a comedy tape from the shelf beneath my television stand, and pushed it into the VCR. As the opening studio credits began to roll across the CRT screen, Katie kicked off her shoes and climbed into my single bed right at my side, resting her head on my shoulder and pulling the blanket across our legs.
+We walked back upstairs to my deep-blue bedroom, picked out our VHS tape of *House Guard 2: Lost in Manhattan* from the shelf beneath my television stand, and pushed it into the VCR. As the opening Majestic Studios credits began to roll across the CRT screen, Katie kicked off her shoes and climbed into my single bed right at my side, resting her head on my shoulder and pulling the blanket across our legs.
 
 Near the end of the movie, when the closing music faded in, I glanced down and saw that my sister was fast asleep against my arm, her breathing slow and completely peaceful after an afternoon of crying her eyes out.
 
-I reached carefully for the remote, clicked the television off, and decided right then to let her sleep.Katie was exhausted, and the last thing I wanted was to wake her up and make her trudge down the hall alone in the dark. Part of me marveled at how natural it felt sharing my narrow bed with my twin sister again—just like we had during the Blizzard of '96 and on the downstairs sofa bed at Christmas. We had chosen this close brother-and-sister bond together, and enjoying the warm, quiet company of the person who mattered most to me in the world, I slid down onto the pillow beside her and let myself drift off to sleep at her side.
+I reached carefully for the remote, clicked the television off, and decided right then to let her sleep. I decided that I would tell her that I didn't mind after we woke up in the morning. Katie was exhausted, and the last thing I wanted was to see her become a grouch because she was woken back up without enough sleep. Part of me marveled at how natural it felt sharing my narrow bed with my twin sister again—just like we had during the Blizzard of '96 and on the downstairs sofa bed at Christmas. We had chosen this close brother-and-sister bond together, and enjoying the warm, quiet company of the person who mattered most to me in the world, I slid down onto the pillow beside her and let myself drift off to sleep at her side.
 
 ## The Pretend Boyfriend & Twins' Day
 
@@ -425,7 +425,7 @@ My sister stirred against the pillow, blinking her blue eyes open in the quiet b
 
 "Yep, and I did not mind," I replied, looking her straight in the eye. "Let's play a game together."
 
-For the first time since Donnie had broken her heart yesterday afternoon, Katie's face lit up with genuine excitement. While she sat up against the headboard, I slipped out of bed, walked across the carpet to the television stand, and powered on my *Nova* video game console. I was still in full protective-brother mode, determined to keep cheering her up until I heard her laugh again.
+For the first time since Donnie had broken her heart yesterday afternoon, Katie's face lit up with genuine excitement. While she sat up against the headboard, I slipped out of bed, walked across the carpet to the television stand, and powered on my *Nova 64* video game console. I was still in full protective-brother mode, determined to keep cheering her up until I heard her laugh again.
 
 Before I picked up the controller, I turned back to face her.
 
