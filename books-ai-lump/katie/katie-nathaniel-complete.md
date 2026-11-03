@@ -685,11 +685,15 @@ That was when we heard a screaming rage echoing down the metal hallway toward ou
 
 "Where is my fucking beer?!"
 
-Our mother had woken up from her drunken nap on our sofa, stormed up to the nearest deck bar, discovered that her keycard had been cut off at the register, and tracked us down the corridor—drunkenly screeching at our visibly upset father.
+Our mother had woken up from her drunken nap on our sofa, stormed up to the nearest deck bar, discovered that her keycard had been cut off at the register, and tracked us down the corridor—drunkenly screeching profanities at our visibly upset father.
 
-Dad wiped his eyes and stood up straight in front of our bench, placing himself squarely between our mother and the two of us.
+Spotting Katie and me sitting on the alcove bench directly beneath the black dome of the stairwell's ceiling security camera, Mom's bloodshot eyes locked onto us.
 
-"I've had enough, and so have the kids," Dad said, his voice steady and resolute. "This cruise was supposed to be family time, and the three of us are tired of your drinking. Nathaniel, Katie, and I are giving you a choice: us, or the alcohol."
+"And you two ungrateful brats!" she slurred loudly, staggering forward toward our bench. "I signed you up for the character meet-and-greet and the dance class, and you ditched them and got your father to cut off my card!"
+
+As she lunged toward our bench and swung her arm wildly in my direction, her balance gave out and she missed completely as Dad surged to his feet and stepped squarely between her and the bench, blocking her path in full view of the ceiling security camera.
+
+"Don't you ever raise a hand toward them!" Dad said, his voice turning to iron as he wiped the last trace of tears from his eyes. "I've had enough, and so have the kids. This cruise was supposed to be family time, and the three of us are tired of your drinking. Nathaniel, Katie, and I are giving you a choice right now: us, or the alcohol."
 
 Mom glared at us and slurred something bitter that none of us could even understand.
 
@@ -717,7 +721,7 @@ Holding onto Dad's arms as our exhausted legs shook beneath us, the three of us 
 
 The Chief Purser glanced down at the black security radio clipped to his lapel, took one look at Dad's raw, red-rimmed eyes and one look at Katie and me struggling to stay upright on our feet, and immediately picked up a brass master key.
 
-"Deck 4 Security just radioed up about the disturbance in the passageway, Mr. Prairie," the Chief Purser said quietly. "We hold two wheelchair-accessible contingency staterooms right off the Deck 6 midship elevators for medical and family safety emergencies. I am placing a confidential Domestic Separation Flag on your manifest right now and moving you, Nathaniel, and Katie into Stateroom 6004. Only your three soda-package keycards will open that door, and our staff is strictly prohibited from disclosing your new cabin number to your wife."
+"Deck 4 Security just radioed up after reviewing the stairwell alcove security camera feed, Mr. Prairie," the Chief Purser said quietly. "Our camera recorded your wife's outburst in the corridor and her attempt to swing at your son on the bench before you stepped in. We hold two wheelchair-accessible contingency staterooms right off the Deck 6 midship elevators for medical and family safety emergencies. I am placing a confidential Domestic Separation Flag on your manifest right now and moving you, Nathaniel, and Katie into Stateroom 6004. Only your three soda-package keycards will open that door, and our staff is strictly prohibited from disclosing your new cabin number to your wife."
 
 Dad let out a long breath of pure relief, then glanced down at Katie's shaking ankles and mine.
 
@@ -735,7 +739,7 @@ At seven-fifteen that evening, while Katie and I were sitting together on the so
 
 Katie's hand tightened around mine on the sofa cushion as we listened.
 
-"Because we have already cleared our final Caribbean port of call and are steaming north," the Chief Purser continued, "she will remain in security custody until we dock at Port Canaveral on Saturday morning, where she will be escorted off the vessel and handed a permanent lifetime ban from *Sunward Cruise Lines*. I also want to assure you, Nathaniel, and Katie that your names are completely clear—none of the three of you are excluded from sailing with us in the future."
+"Because we have already cleared our final Caribbean port of call and are steaming north," the Chief Purser continued, handing Dad a thick, sealed manila envelope, "she will remain in security custody until we dock at Port Canaveral on Saturday morning, where she will be escorted off the vessel and handed a permanent lifetime ban from *Sunward Cruise Lines*. Inside this envelope is a certified copy of our Shipboard Security Incident Report along with a duplicate VHS tape from the Deck 4 stairwell security camera documenting the 3:30 PM corridor incident, in case your family attorney in Virginia needs official documentation. I also want to assure you, Nathaniel, and Katie that your names are completely clear—none of the three of you are excluded from sailing with us in the future."
 
  Dad thanked him quietly and closed the door. Mom had managed to get herself banned from a cruise line yet again—not that Dad, Katie, or I ever wanted to set foot on a cruise ship again in the first place.
 
@@ -869,7 +873,11 @@ When Dad clicked the front deadbolt shut and walked into the living room to chec
 
 Sitting side by side on the crinkly white paper of the padded exam table in our t-shirts and jeans, Katie and I kept our inner hands laced tightly together between our knees while I reached my left hand out to squeeze Dr. Chen's fingers.
 
-Earlier that morning at eight-thirty, while Katie and I sat at the kitchen table eating cereal, we had listened as Dad stood by the kitchen wall phone and kept the first half of his highway vow—calling a family law and divorce attorney's office off Independence Boulevard to schedule an immediate intake appointment for divorce and full custody of the two of us. The moment he hung up with the lawyer's receptionist, Dad dialed Dr. Chen, our Primary Care Physician, and explained how badly our arms and legs had been giving out on the cruise and at the Interstate 95 rest stops. Dr. Chen's nurse had told him to bring both of us straight in at ten o'clock.
+Earlier that morning at eight-thirty, while Katie and I sat at the kitchen table eating cereal with the sealed *Sunward Cruise Lines* manila envelope resting beside the napkin holder, we had listened as Dad stood by the kitchen wall phone and kept the first half of his highway vow—calling a family law and divorce attorney's office off Independence Boulevard.
+
+When Dad told the attorney on the line that he had a certified Shipboard Security Incident Report and a duplicate VHS security camera tape from Deck 4 showing Brenda's corridor outburst and her attempt to swing at me on the bench over the character meet-and-greet, we watched a wave of relief wash across Dad's face. Hanging up the receiver, Dad had turned to Katie and me and explained what the lawyer had just told him: under Virginia law, the one-year separation waiting period only applied to no-fault divorces. Because the ship's security camera had caught her attempt to strike a minor child and her subsequent detention in the brig, Dad qualified to file immediately on fault grounds of cruelty and reasonable apprehension of bodily hurt—allowing the lawyer to petition the Virginia Beach court right away for sole custody of the two of us, exclusive possession of our house, and a protective order without waiting a single year.
+
+The moment he finished writing down our afternoon appointment time with the lawyer, Dad dialed Dr. Chen, our Primary Care Physician, and explained how badly our arms and legs had been giving out on the cruise and at the Interstate 95 rest stops. Dr. Chen's nurse had told him to bring both of us straight in at ten o'clock.
 
 ![Inside their Virginia Beach primary care physician's exam room, sixteen-year-old twins Katie and Nathaniel Prairie sit side by side on the exam table holding hands while their father David watches and Dr. Chen tests Nathaniel's forearm and hand grip strength]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg)
 
