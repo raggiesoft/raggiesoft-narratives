@@ -989,31 +989,31 @@ She tapped a printed medical accommodation packet beside her chart.
 
 A wave of pure, unmistakable relief washed through my chest, and beside me I felt Katie's shoulders drop an inch as she exhaled. We were going to lose the ability to walk—and we weren't going to be able to lift heavy things or push ourselves long distances—but we weren't going to lose our coding, and we weren't going to lose each other.
 
-"Here is what I am ordering starting Monday morning," Dr. Chen said, sliding three signed forms across the desk toward Dad. "First, I have signed a formal Section 504 Medical Mobility Plan for Northwood High School: elevator keys for both twins, a second set of textbooks kept in every classroom so neither of them ever carries a heavy backpack again, and five extra minutes of passing time between blocks so they are never jostled in crowded hallways. Second, I am referring both of them to the seating clinic for lightweight folding wheelchairs fitted with joystick power-assist hub drives—so on days when their legs or arms fatigue, they can glide down the hallway with one finger on a joystick without straining their wrists."
+"Here is what I am ordering starting Monday morning," Dr. Chen said, sliding three signed forms across the desk toward Dad. "First, I have signed a formal Section 504 Medical Mobility Plan for Northwood High School: elevator keys for both twins, a second set of textbooks kept in every classroom so neither of them ever carries a heavy backpack again, and five extra minutes of passing time between blocks so they are never jostled in crowded hallways. Second, I am referring both of them to the seating clinic for compact, portable power wheelchairs with right-hand armrest joysticks that can disassemble to fit in a car trunk—so they can glide down the hallway with one finger on a joystick without ever straining their wrists on manual push rims."
 
 Dad picked up the signed forms with a steady hand and looked at Katie and me with deep, unwavering love.
 
 "Whatever equipment they need, Evelyn, we'll get it," Dad said firmly. Turning to Katie and me, he rested a hand on each of our shoulders. "You two just focus on Junior year, your lunch period together, and your *Quantum Basic* programs. I've got the rest."
 
-### Part 3: Part 3: Two Folding Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15
+### Part 3: Part 3: Two Compact Power Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15
 
 **Date:** 2001-10-06 at 13:10 America/New_York
 
-![At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their lightweight wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914—wearing legacy Tidewater Regional Transit horizontal blue-and-teal stripes with a CVTA logo sticker beside the front door—lowers its front-doorway hydraulic wheelchair step-lift to the curb]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg)
+![At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914—wearing legacy Tidewater Regional Transit horizontal blue-and-green stripes with a CVTA logo sticker beside the front door—lowers its Elevate-U front-stairwell hydraulic wheelchair lift to the sidewalk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg)
 
-#### Saturday, October 6, 2001, 1:10 PM — Two Folding Wheelchairs in the Trunk & Our New House off Military Highway
+#### Saturday, October 6, 2001, 1:10 PM — Two Compact Power Wheelchairs in the Trunk & Our New House off Military Highway
 
-"Pop the two battery packs and footrests off first, press the center axle buttons to pull the four quick-release wheels, pull up on the seat slings to fold both aluminum X-frames flat, and we still have three inches to spare under the trunk hinges," Dad said with a proud grin on the first Saturday of October, wiping his brow as he demonstrated how both of our brand-new **SwiftChair** folding wheelchairs stacked inside the open trunk of our silver-blue **Holt** sedan.
+"Unclip the two under-seat battery boxes first, pull the quick-release pins to lift both padded seats off their posts, fold the backrests and footrests flat, and set the two compact motorized drive bases side by side in the trunk with two inches to spare under the hinges," Dad said with a proud grin on the first Saturday of October, wiping his brow as he demonstrated how both of our brand-new **SwiftChair** compact portable power wheelchairs broke down to fit inside the open trunk of our silver-blue **Holt** sedan.
 
-Standing side by side on the concrete driveway of our new rental house with one hand braced against the rear quarter panel of the car and our inner hands clasped together for balance, Katie and I watched Dad practice the breakdown routine he had timed with his wristwatch all morning.
+Standing side by side on the concrete driveway of our new rental house with one hand braced against the rear quarter panel of the car and our inner hands clasped together for balance, Katie and I watched Dad practice the disassembly routine he had timed with his wristwatch all morning.
 
-Four days earlier, the seating clinic had delivered the two lightweight folding wheelchairs Dr. Chen had prescribed for us—matching anodized-aluminum folding frames fitted with compact joystick power-assist wheel hubs that let us glide down the long hallways of Northwood High School with a feather-light touch of one finger without burning out our wrists or shoulders. Because Dr. Chen had documented our progressive axonal motor neuropathy down to the millimeter, Dad's health insurance had covered ninety percent of the chairs.
+Four days earlier, the seating clinic had delivered the two compact, take-apart power wheelchairs Dr. Chen had prescribed for us—nimble, small-footprint power bases with ten-inch solid drive wheels, under-seat battery packs, and feather-light right-hand armrest joysticks that let us glide down the long hallways of Northwood High School with a gentle nudge of one finger without ever straining our wrists or shoulders on manual hand rims. Because Dr. Chen had documented our progressive axonal motor neuropathy down to the millimeter, Dad's health insurance had covered ninety percent of the chairs.
 
-What health insurance didn't cover, however, was a vehicle to carry them.
+What health insurance didn't cover, however, was a vehicle to carry them assembled.
 
 A full-size conversion van equipped with a hydraulic wheelchair lift or fold-out side ramp cost upwards of thirty-five thousand dollars—an astronomical sum that might as well have been thirty-five million on Dad's tight budget. Between trying to finish his computer science degree at the **Community College of Hampton Roads**, losing Brenda's paycheck—meager as her income had been—and getting stuck with the crushing credit card debt from the seven-day Caribbean cruise that Brenda had booked behind his back, Dad was scraping by to make every dollar count.
 
-Thankfully, while our legs still had enough borrowed time left to bear weight for a ten-second stand-pivot transfer into the back seat of our family **Holt** sedan, we didn't need a lift van yet. Whenever we went somewhere by car, Katie and I would roll right up to the open rear passenger door, lock our wheel brakes, hold onto the doorframe and each other, and pivot onto the back bench seat to buckle our three-point seatbelts while Dad broke both folding chairs down like a pit crew and stowed them in the trunk.
+Thankfully, because the seating clinic had ordered portable take-apart power chairs whose battery packs, seats, and drive bases separated into manageable thirty-five-pound components—and while our legs still had enough borrowed time left to bear weight for a ten-second stand-pivot transfer into the back seat of our family **Holt** sedan—we could still get around by car without a lift van. Whenever we drove somewhere, Katie and I would roll our compact power chairs right up to the open rear passenger door, switch off our joysticks, hold onto the doorframe and each other, and pivot onto the back bench seat to buckle our three-point seatbelts while Dad broke both chairs down like a pit crew and loaded the bases, battery boxes, and folded seats into the trunk.
 
 Even so, Dad had been completely honest with Katie and me around the kitchen table two weeks earlier when he opened his budget ledger.
 
@@ -1025,19 +1025,19 @@ What Dad found was a stroke of pure logistical genius: a small, single-story bri
 
 First, the rent was nearly four hundred dollars a month less than our old mortgage, bringing our monthly bills comfortably inside Dad's budget while he finished school at **CCHR**. Second, every single room in the little house—the living room, the eat-in kitchen, the hallway bathroom with its step-in shower grab bars, and both bedrooms—sat on one flat ground floor, with a gentle aluminum ramp Dad had bolted over the two brick front porch steps. Third, because the house sat just inside the western edge of **Northwood High School's** zoned attendance boundary, Katie and I didn't have to change high schools in the middle of our Junior year, and a lift-equipped Virginia Beach school bus could pick us up right at the end of our driveway every weekday morning.
 
-And fourth—the detail Dad was proudest of as he reassembled our two wheelchairs on the driveway and clicked all four quick-release wheels back onto their axles—was what ran right along the massive eight-lane corridor of **US-13 (Military Highway)** at the end of our block.
+And fourth—the detail Dad was proudest of as he reassembled our two compact power wheelchairs on the driveway, locked the seats onto their posts, and dropped the battery boxes back into place—was what ran right along the massive eight-lane corridor of **US-13 (Military Highway)** at the end of our block.
 
-"Try rolling back into your chairs and let's head out to the corner on Military Highway before the one-twenty-five bus gets here," Dad said, closing the trunk lid of the **Holt** sedan and holding up a yellow-highlighted paper pamphlet folded in his hand. "Since **Route 15** stays strictly out on Military Highway and doesn't turn into the neighborhood streets, I want to show you two how fast we can get out to the main road."
+"Try easing back into your chairs and let's head out to the corner on Military Highway before the one-twenty-five bus gets here," Dad said, closing the trunk lid of the **Holt** sedan and holding up a yellow-highlighted paper pamphlet folded in his hand. "Since **Route 15** stays strictly out on Military Highway and doesn't turn into the neighborhood streets, I want to show you two how fast we can get out to the main road without having to break your power chairs down at all."
 
-Easing off the car fender into our wheelchair seats, Katie and I clicked our lap belts shut, switched on our power-assist hubs, and rolled side by side down the smooth concrete sidewalk behind Dad. In less than three minutes, we turned the corner from our quiet residential block onto the wide sidewalk bordering **Military Highway and Indian River Road**, where four lanes of northbound traffic and four lanes of southbound traffic roared past a raised center median.
+Easing off the car fender into our padded wheelchair seats, Katie and I clicked our lap belts shut, pressed the green power buttons on our armrest joysticks, and hummed side by side down the smooth concrete sidewalk behind Dad. In less than three minutes, we turned the corner from our quiet residential block onto the wide sidewalk bordering **Military Highway and Indian River Road**, where four lanes of northbound traffic and four lanes of southbound traffic roared past a raised center median.
 
 ***
 
 #### Saturday, October 6, 2001, 1:25 PM — Catching CVTA Route 15 on Eight-Lane Military Highway
 
-"Look at the timetable right here under **Military Hwy. & Indian River Rd.**," Dad said over the steady hum of eight-lane highway traffic as the three of us stopped beside the metal bus stop post in the crisp October sunshine, unfolding the printed **CVTA Route 15 — *Naval Base Norfolk / Robert Hall Blvd.*** schedule across our laps so both Katie and I could read it.
+"Look at the timetable right here under **Military Hwy. & Indian River Rd.**," Dad said over the steady hum of eight-lane highway traffic as the three of us stopped beside the metal bus stop post in the crisp October sunshine, unfolding the printed **CVTA Route 15 — *Naval Base Norfolk / Robert Hall Blvd.*** schedule so both Katie and I could read it.
 
-Holding Katie's left hand with my right hand between our two wheelchairs, I leaned in with my sister to follow the yellow highlighter line Dad had drawn across the grid of numbers.
+Holding Katie's left hand with my right hand between our two compact power wheelchairs, I leaned in with my sister to follow the yellow highlighter line Dad had drawn across the grid of numbers.
 
 "Wait a second," Katie said, her eyes widening as she traced the columns from left to right. "It runs every thirty minutes all day Monday through Saturday?"
 
@@ -1047,21 +1047,221 @@ Holding Katie's left hand with my right hand between our two wheelchairs, I lean
 
 "That's the best part," Dad said, pointing to the bold route note printed across the center of the timetable: *On arrival at Old Emerald Creek Rd. and Military Hwy., every other trip will alternate between Robert Hall and Emerald Creek Mall Monday through Saturday.* "Southbound buses leave **Glenrock Mall** at `:15` and `:45` past the hour and get right here to **Military Highway and Indian River Road** ten minutes later, at `:25` and `:55` past every hour. Every bus that stops here at `:25` past the hour—like the `1:25 PM` bus coming down the right-hand lane right now—turns onto the **Emerald Creek Mall** branch and puts us at the mall entrance twenty minutes later at `1:45 PM`. And every bus that stops here at `:55` past the hour goes straight down to **Robert Hall Boulevard** and **Tidewater Square** by `:15` past the next hour."
 
-Right on cue, signaling across the four southbound lanes of **US-13 (Military Highway)** toward our curb was one of the classic forty-foot high-floor workhorses of the fleet: a `900`-series **Beacon V** transit bus (**Fleet `#914`**) that operated alongside the agency's high-floor **MetroCoach** buses. Because **Tidewater Regional Transit (`TRT`)** on the Southside and **Peninsula Transit (`PenTran`)** across the harbor had only merged two years earlier in October 1999 to form the **Coastal Virginia Transit Authority (`CVTA`)**, **Bus `#914`** was still wearing its original 1990s **TRT** paint scheme—a crisp white body banded with horizontal navy-blue and teal-green stripes down its flanks—with a square **`CVTA`** logo vinyl decal sticker applied right next to the front boarding doors below the **`15 EMERALD CREEK MALL`** destination sign.
+Right on cue, signaling across the four southbound lanes of **US-13 (Military Highway)** toward our curb was one of the classic forty-foot high-floor workhorses of the fleet: a `900`-series **Beacon V** transit bus (**Fleet `#914`**) that operated alongside the agency's high-floor **MetroCoach** buses. Because **Tidewater Regional Transit (`TRT`)** on the Southside and **Peninsula Transit (`PenTran`)** across the harbor had only merged two years earlier in October 1999 to form the **Coastal Virginia Transit Authority (`CVTA`)**, **Bus `#914`** was still wearing its original 1990s **TRT** paint scheme—a crisp white body banded with horizontal navy-blue and green stripes down its flanks—with a rectangular **`CVTA`** logo vinyl decal sticker applied right next to the front boarding doors below the **`15 EMERALD CREEK MALL`** destination sign.
 
-![At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their lightweight wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914—wearing legacy Tidewater Regional Transit horizontal blue-and-teal stripes with a CVTA logo sticker beside the front door—lowers its front-doorway hydraulic wheelchair step-lift to the curb]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg)
+![At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914—wearing legacy Tidewater Regional Transit horizontal blue-and-green stripes with a CVTA logo sticker beside the front door—lowers its Elevate-U front-stairwell hydraulic wheelchair lift to the sidewalk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg)
 
-As **Bus `#914`** hissed to a stop parallel to the concrete curb, the bi-fold front doors swung open. Because the `900`-series **Beacon V** was a high-floor bus with three steep steps inside the front doorway, the uniformed operator pulled the parking brake knob, flipped up the two forward priority benches behind the driver's seat, and switched on the electro-hydraulic front-doorway step-lift.
+As **Bus `#914`** hissed to a stop parallel to the concrete curb, the bi-fold front doors swung open. Because the `900`-series **Beacon V** was a true high-floor bus whose main passenger deck sat three full feet above the street at the top of a three-step stairwell, there was no sloped ramp. Instead, standing high up on the elevated driver's platform, the uniformed operator pulled the parking brake knob, flipped up the two forward priority benches behind the driver's area, and switched on the **Elevate-U** electro-hydraulic stairwell wheelchair lift.
 
-"Afternoon, folks! Welcome aboard **The 15**," the operator called out warmly as the three front steps flattened into a solid steel elevator platform with a steady hydraulic whir, lowered all the way down to the concrete sidewalk, and dropped their yellow outer safety barrier lip flush against the curb. "Come on onto the lift one at a time—I've got both wheelchair bays folded up and ready for you!"
+"Afternoon, folks! Welcome aboard **The 15**," the operator called down warmly from the elevated doorway as the three deep front steps flattened into a level horizontal steel elevator platform, telescoped outward on twin vertical hydraulic lift arms with yellow-and-black tubular side handrails, and lowered straight down to rest flat on the concrete sidewalk before dropping the yellow outer safety barrier flap flush against the curb. "Come on onto the elevator platform one at a time—I've got both wheelchair bays folded up and ready for you!"
 
-Katie and I glanced at each other with identical grins. Nobody had to struggle with a car transfer, and Dad didn't have to pop off four wheels or lift forty pounds of folded aluminum into a trunk. Giving Katie's hand a quick squeeze before letting go for thirty seconds, I rolled onto the steel lift platform first; the outer yellow safety barrier flipped up behind my rear wheels, the hydraulic lift raised my chair smoothly three feet up to the high floor of **Bus `#914`**, and I backed neatly into the right-hand securement bay. Seconds later, the lift lowered back down to the sidewalk for Katie and raised her right up to the left-hand bay directly across the aisle from me before folding seamlessly back into front steps so Dad could climb aboard and drop our fares into the farebox.
+Katie and I glanced at each other with identical grins. Nobody had to struggle with a car transfer, and Dad didn't have to unclip battery boxes or lift thirty-five-pound power-chair bases into a trunk. Giving Katie's hand a quick squeeze before letting go for thirty seconds, I nudged my right-hand joystick forward and rolled my compact power chair onto the flat horizontal steel platform between the two side handrails first; the outer yellow safety barrier flipped up behind my rear wheels to lock me in, the twin vertical hydraulic arms raised my chair straight up three feet in the air like an elevator to the high interior floor of **Bus `#914`**, and I backed neatly into the right-hand securement bay. Seconds later, the elevator platform lowered straight back down to the sidewalk for Katie and lifted her power chair right up to the high deck across the aisle from me before folding seamlessly back into three staircase steps so Dad could climb up into the bus and drop our fares into the farebox.
 
-Once the operator had clicked the four-point floor straps onto both of our frames, the front doors hissed shut and **Bus `#914`** merged back into the four southbound lanes of Military Highway.
+Once the operator had clicked the four-point floor straps onto both of our power-chair frames, the front doors hissed shut and **Bus `#914`** merged back into the four southbound lanes of Military Highway.
 
 Across the center aisle of the high-floor bus, Katie reached her left hand out over her armrest, and I reached my right hand out to meet hers, our fingers lacing together in the warm afternoon sunlight streaming through the tall transit windows.
 
-"We don't need a thirty-five-thousand-dollar van to go wherever we want, Nate," Katie said softly over the deep diesel rumble of the **Beacon V** engine as we cruised south toward **Emerald Creek Mall**. "Between the school bus on weekdays, the trunk of Dad's car, and **Route 15** out on Military Highway at the end of our block, we've got the whole city back."
+"We don't need a thirty-five-thousand-dollar van to go wherever we want, Nate," Katie said softly over the deep diesel rumble of the **Beacon V** engine as we cruised south toward **Emerald Creek Mall**. "Between the school bus on weekdays, breaking our chairs down for the trunk of Dad's car, and **Route 15** out on Military Highway at the end of our block, we've got the whole city back."
 
 "And a house with zero stairs," I agreed, squeezing my sister's hand as Dad smiled at the two of us from the seat beside her. "We're going to be just fine."
+
+## Sixteen on Four Wheels & Finding Dates
+
+### Part 1: Part 1: Navigating Northwood High on Four Wheels & The Homecoming Pact
+
+**Date:** 2001-10-15 at 07:10 America/New_York
+
+![Inside the sunlit cafeteria of Northwood High School in Virginia Beach, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side holding hands during their shared Junior-year lunch period]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg)
+
+#### Monday, October 15, 2001, 7:10 AM — Rolling the "Blue Mile" & The Brass Elevator Key
+
+"Keep your speed dial on two until we clear the Commons tiles, Nate, or the vibration is going to rattle our teeth right out of our heads," Katie said with a wry smile on Monday morning as the two of us rolled our compact **SwiftChair** power wheelchairs through the pinned-open double fire doors of **Northwood High School**.
+
+Beneath our ten-inch solid drive wheels, the textured quarry tiles of the Northwood High Commons buzzed like a washboard before giving way to the smooth, polished linoleum of the main academic corridor everyone called the **"Blue Mile."**
+
+It was the start of our second full week navigating eleventh grade on four wheels instead of two feet, and physically, the difference was like night and day.
+
+Back in September, walking from the morning bus loop to first period had left our calves cramping, our knees trembling, and our shoulders aching from the weight of our backpacks before the first bell even rang. Now, thanks to the Section 504 Medical Mobility Plan that Dr. Chen had signed and Dad had walked into the principal's office, neither Katie nor I carried a single textbook between classes. A duplicate set of our Junior-year textbooks sat on a designated shelf in each of our classrooms, and clipped to our lanyard ID badges alongside our house keys were two shiny brass **Vanguard Elevator** keys issued by the school custodian.
+
+Socially, however, showing up to your Junior year of high school in matching power wheelchairs was like dropping a boulder into the middle of a swimming pool.
+
+As Katie and I glided side by side down the right-hand lane of the Blue Mile with our right index fingers resting lightly on our armrest joysticks, the noisy wall of lockers ahead of us reacted the exact same way it had all last week. Conversations dropped to sudden, awkward whispers as we rolled past. Kids who had known us since sixth grade either stared straight down at their sneakers as if looking at a power wheelchair might be rude, or leaped three feet out of our path against the lockers as though we were driving runaway forklifts.
+
+When we reached the B-Wing stairwell at the end of the hall—where two hundred students were jostling up the concrete steps toward the second floor—I pulled my brass key on its retractable lanyard reel, inserted it into the keyhole beside the heavy gray door of the school's service elevator, and turned it clockwise.
+
+With a slow mechanical clunk, the sliding metal door rattled open, releasing the familiar scent of lemon floor wax and damp mop buckets. Katie and I rolled our compact power chairs straight inside side by side, and as the door slid shut, sealing out the roar of the stairwell, Katie reached her left hand across the two inches between our armrests and laced her fingers through mine.
+
+"Did you see Todd Jenkins jump into the water fountain alcove when we turned the corner by the trophy case?" I asked as the old hydraulic elevator groaned upward toward the second floor at roughly half a mile an hour.
+
+"He nearly knocked his own varsity jacket off his shoulder," Katie laughed, squeezing my hand as the floor indicator light blinked from `1` to `2`. "And on Friday in third-period Chemistry, Mrs. Halvorsen talked to me about covalent bonds in a voice so slow and loud you would have thought the battery box under my seat was connected to my eardrums. Remind me again why we used to be afraid of using this elevator?"
+
+"Because we didn't know how nice it was to get to second period without our legs shaking," I said honestly as the elevator chimed and the door rattled open onto the upstairs landing. "See you at eleven-forty at our table?"
+
+"Count on it," Katie smiled, giving my hand one last squeeze before we released our fingers and steered in opposite directions down the hall—Katie toward first-period U.S. History, and me toward first-period English.
+
+***
+
+#### Monday, October 15, 2001, 11:45 AM — The Homecoming Banner & Operation Find-a-Date
+
+"Look up above the courtyard doors, Nate," Katie said four hours later as the two of us steered our compact power wheelchairs around the end of the Fourth-Block cafeteria line and parked side by side at the open end of our sunlit corner table. "When did Student Council put that up?"
+
+I glanced up toward the high steel rafters of the Northwood High Commons, where two seniors on maintenance stepladders had just finished tying off the corners of a thirty-foot purple-and-gold butcher-paper banner painted in bold block letters:
+
+**`NORTHWOOD HIGH HOMECOMING — "UNDER THE AUTUMN STARS" — SATURDAY, NOVEMBER 3`**
+
+Setting our brown paper lunch bags and our spiral *Quantum Basic* coding notebook onto the laminate tabletop in front of our armrests, I clicked my joystick power button off so my chair wouldn't budge if someone bumped it, andKatie did the exact same thing beside me. One of the unexpected perks of using compact power chairs in the cafeteria was that we never had to struggle over the awkward metal bars of the attached cafeteria bench seats anymore; the twin open spaces at the end of the corner table fit our two chairs side by side as if they had been measured with a ruler.
+
+"Three weeks from Saturday," I said, unwrapping the wax paper around my turkey sandwich and handing Katie her apple juice box with the straw already poked through the foil so she didn't have to pinch it. "Are they selling tickets for the dance, or is everybody just going to the football game on Friday night?"
+
+"Both," Katie said, taking a sip of her juice box while her eyes stayed fixed on the purple-and-gold banner across the cafeteria. Around us at the neighboring tables, half the Junior and Senior girls were already huddled in excited circles talking about dress shopping at **Emerald Creek Mall** and who was asking whom to the dance.
+
+For a long moment, Katie was quiet, her left thumb tracing the spiral wire of our coding notebook. Then she turned her head to look at me, a sudden, determined spark in her eyes.
+
+"Nate," Katie said softly beneath the clatter of cafeteria trays, "when was the last time either one of us went on a date?"
+
+I blinked across my sandwich at her. "Unless you count seventh grade when Brandon Miller dumped you in the hallway and I went with you to the middle-school Dinner Dance as your pretend boyfriend so you wouldn't have to sit by yourself... never."
+
+"Exactly," Katie said, leaning an inch closer across our armrests. "That was four years ago, when we were twelve. We're sixteen now, Nate. We're Juniors. And ever since we rolled in here with these power chairs last week, half the school has been looking at the two of us like we're made of spun glass—like our lives are over just because our legs are giving out."
+
+She reached across the space between our chairs and laid her left hand over my right wrist.
+
+"Dr. Chen told us we aren't losing our minds, and we aren't losing our hands," Katie said earnestly. "We have our power chairs so we aren't exhausted at the end of the day anymore. We have a house with zero stairs. And we have **Route 15** stopping right on Military Highway at the end of our street every thirty minutes, which means we can go all the way to **Emerald Creek Mall** or **Glenrock Mall** on a Saturday afternoon without even needing Dad to take time off from studying to drive us."
+
+I looked at my sister's determined face, seeing where she was going before she even finished the sentence. "You want us to try to find dates?"
+
+"Why shouldn't we?" Katie asked, her cheeks flushing slightly pink as she smiled. "Not even necessarily for the whole Homecoming Dance if the gym is too loud and crowded—just a real Saturday afternoon high-school double date at **Emerald Creek Mall**! Think about it: in second-period Computer Lab, you've been helping **Heather Collins** debug her **Quantum Grid** spreadsheets every purple day for a month, and she always smiles and waves at you in the hall. And in third-period Chemistry, my lab partner **Ryan Miller** asked me on Friday if I wanted to study together for the stoichiometry unit test."
+
+My heart gave a sudden, nervous thump against my ribs. Heather Collins was quiet, polite, and sat right next to my workstation in Room 204; every time I leaned over to point out a missing parenthesis in her formula bar, she thanked me so warmly that my ears turned red.
+
+"Wait—you're serious?" I asked quietly. "You ask Ryan Miller in Chemistry, and I ask Heather Collins in Computer Lab, and if they both say yes, the four of us meet at **Emerald Creek Mall** this Saturday afternoon?"
+
+"If we do it as a double date, neither one of us has to be nervous or go alone," Katie said brightly, holding up her left pinky finger between our two wheelchairs just like we had done when we were nine years old. "Come on, Nate. We conquered high-school summer school, we survived a cruise ship disaster, and we learned how to ride a high-floor city bus lift in one weekend. How hard can a Saturday afternoon double date at the mall be?"
+
+Looking at my twin sister's hopeful smile, I hooked my right pinky finger around hers and shook on it.
+
+"All right," I agreed with a grin. "Operation Find-a-Date starts Wednesday morning."
+
+### Part 2: Part 2: Asking Out Heather and Ryan & The Double Date at Emerald Creek Mall
+
+**Date:** 2001-10-20 at 12:45 America/New_York
+
+![At the CVTA Route 15 bus stop along US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg)
+
+#### Wednesday, October 17, 2001, 10:05 AM — Two Invitations before the Bell
+
+"You just saved my entire quarter grade, Nate—I swear this formula bar hates me," Heather Collins said with a relieved laugh on Wednesday morning in second-period Computer Applications, watching the `#VALUE!` error vanish from her **Quantum Grid** budget worksheet as soon as I pointed out the missing comma in her nested `IF` statement.
+
+Sitting in my compact **SwiftChair** power wheelchair beside her corner desk in Room 204, I glanced up at the wall clock above the whiteboard. It was ten-oh-five—two minutes before my Section 504 early passing release. If I didn't ask her right now, I was going to lose my nerve before Friday.
+
+"It's just syntax—once you know where the commas go, it's easy," I said, my palms suddenly feeling a little warm against my armrest pads. Taking a quiet breath, I looked over at her. "Hey, Heather... Katie and I are riding the bus down to **Emerald Creek Mall** this Saturday afternoon around twelve-forty-five to get lunch at the food court and hang out. Katie is inviting Ryan Miller from her third-period Chemistry class, and I was wondering if... maybe you wanted to come with me? As a double date?"
+
+Heather blinked in surprise for half a second, her eyes flicking briefly down toward the black joystick box on my right armrest before coming back up to my face. Then a polite, flattered smile crossed her lips.
+
+"Oh! Um—sure, Nate, that sounds fun," Heather said, tucking a strand of hair behind her ear as she saved her file to her floppy disk. "Twelve-forty-five on Saturday by the upstairs food court?"
+
+"Right by the **Annie's Pretzels** counter," I smiled, my chest suddenly feeling ten pounds lighter. "I'll see you Saturday!"
+
+Ninety minutes later, when I rolled into the cafeteria for Fourth-Block lunch at eleven-forty, Katie was already parked at the end of our sunlit corner table—and the second she saw me coming around the milk cooler, she held up two fingers next to her juice box with a triumphant grin.
+
+"Ryan said yes!" Katie whispered excitedly as I steered my power chair right into the open spot beside hers and switched off my motor. "Right after we finished weighing our copper sulfate precipitates in Chemistry lab, I asked him if he wanted to meet us at **Emerald Creek Mall** on Saturday at twelve-forty-five, and he said his mom could drop him off at the food court entrance! What did Heather say?"
+
+"She said yes too," I grinned, reaching across the two inches between our armrests to high-five my sister's left hand before lacing our fingers together on the tabletop. "We actually have a real high-school double date on Saturday."
+
+***
+
+#### Saturday, October 20, 2001, 12:45 PM — The Food Court at Emerald Creek Mall
+
+"There they are right over by the balcony railing!" Katie said at twelve-forty-five on Saturday afternoon as the rear glass elevator of **Emerald Creek Mall** chimed softly and its sliding doors opened onto the bustling second-floor food court.
+
+Twenty minutes earlier, Dad had walked with us out to the corner of **Military Highway and Indian River Road**, proudly pressed a crisp twenty-dollar bill into each of our hands so we could treat our dates to lunch, and waved from the sidewalk as Katie and I rode the **Elevate-U** hydraulic stairwell wheelchair lift onto the `12:25 PM` southbound **CVTA Route 15** (`Bus #918`). Right on the dot at `12:45 PM`, the high-floor **Beacon V** bus had dropped us off at the main mall entrance, without Dad having to lift a single battery box or miss a single hour of studying for his **CCHR** midterm exam.
+
+Rolling side by side across the polished quarry tile of the cavernous food court—where the high, tent-like skylight ceiling bounced the sizzle of woks, the chatter of hundreds of weekend shoppers, and the bouncy 1982 analog synthesizer hook of Bobby Vanguard's *"Moving Up the Escalator"* down toward the twin chrome banks of center escalators—Katie and I steered our compact power wheelchairs over to the four-top table where Heather Collins and Ryan Miller were waiting.
+
+"Hey, guys! You made it," Ryan said, standing up in his letterman tee and jeans as Heather waved from the seat beside him.
+
+"Right on schedule—**The 15** drops off right outside the main concourse at forty-five past the hour," I said happily, pulling two chairs away from the one side of the square table with Dad's tip from occupational therapy so Katie and I could park our compact power wheelchairs side by side facing Heather and Ryan. "Come on—Katie and I have lunch covered. Who wants **Crown Burger** and **Annie's Pretzels**?"
+
+At first, as the four of us ordered at the counter, I thought our Saturday double date was going to be everything Katie and I had pictured at our Monday lunch table.
+
+The first crack showed up before we even made it back from the counter with our trays.
+
+When the cashier at **Crown Burger** handed me a plastic tray loaded with two baskets of fries, two burgers, and two large fountain sodas, I tried to balance the heavy plastic tray across my lap with my left hand while steering my right-hand joystick back through the crowded aisle. Halfway to the table, the progressive neuropathy weakness in my left wrist and forearm flared without warning; my fingers trembled, the right corner of the plastic tray dipped, and my large cola cup wobbled toward the edge.
+
+Before Heather or Ryan even noticed my hand shaking, Katie—who had been rolling half a wheel-length to my left—glided effortlessly alongside my chair, slid her own left hand under the dipping corner of my tray to share the weight across both of our laps, and steadied the soda cup with her thumb until we reached the table and set both trays down safely.
+
+"Thanks, Katie," I murmured automatically.
+
+"Always, Nate," Katie smiled, handing me a napkin and already pinching open the paper wrapper on my straw the exact way we did every day at Northwood High.
+
+Across the table, however, Heather and Ryan weren't smiling. Heather was staring at the way Katie had just opened my straw wrapper, and Ryan was glancing nervously over his shoulder toward the central escalator landing, where three guys in Northwood High swim-team warmups had just ridden up to the second floor.
+
+"So, uh, Katie," Ryan said quickly, hunching his shoulders slightly toward the table as his teammates walked past the **Oak & Iron Outfitters** storefront fifty feet away, "what have you been doing after school since you guys moved over by Indian River Road?"
+
+"Oh, mostly working on our *Quantum Basic* project!" Katie said, her eyes lighting up as she glanced sideways at me. "Dad checked out the language reference manual from the Virginia Beach Public Library for his CCHR class, and Nate and I are coding a two-player trivia and puzzle program together where—"
+
+"—where Katie designs all the string arrays and user-interface screens," I chimed in excitedly, picking up her sentence on the exact beat the way we always did at home, "and I write the keyboard input loops so neither of us has to use a heavy mouse click to advance the screen!"
+
+Katie and I grinned at each other—and then stopped when we realized the other side of the table had gone dead silent.
+
+Heather was poking at her French fries with a plastic fork, a tight, impatient crease between her eyebrows, while Ryan was craning his neck again to see if his swim-team friends were still near the balcony.
+
+"Do you guys do *everything* together?" Heather asked flatly, looking back and forth between Katie and me. "Like, don't you ever hang out with your own friends without each other?"
+
+"We *are* each other's best friend," Katie answered simply, her voice still warm and polite even as her posture straightened a fraction of an inch in her chair. "We're twins."
+
+"Yeah, I know you're twins," Heather muttered, taking a sip of her diet cola as she glanced down at the space between our two wheelchairs, where my right hand was resting two inches from Katie's left hand on the edge of the table. "It's just... most brothers and sisters at Northwood can go ten minutes without finishing each other's sentences."
+
+Beside me, I felt the quiet shift in Katie's shoulders. I didn't say a word to argue with Heather; I just reached under the table edge, tapped the back of Katie's wrist once with my knuckle—our silent twin shorthand since we were nine years old for *I'm right here*—and asked Ryan if they wanted to walk down to **The Literary Alcove** on the first floor to look at the new magazines and music CDs before the movie.
+
+***
+
+#### Saturday, October 20, 2001, 1:50 PM — The Glass Elevator & The 2:48 PM Bus Home
+
+"Hold on—why are we going back through the service corridor behind the food court?" Ryan asked ten minutes later as Katie and I steered our compact power wheelchairs away from the center atrium chrome escalators and headed toward the recessed hallway leading to the mall's glass passenger elevator.
+
+"Because the elevator is back here by the rear court," Katie explained, glancing over her shoulder at him. "Obviously Nate and I can't take power wheelchairs down the escalators."
+
+We rounded the corner by the elevator alcove—and stopped short when we saw a group of six Northwood High Juniors and Seniors standing right outside the first-floor glass elevator shaft down below, laughing and tossing shopping bags from **Neon Syndicate** and **Oak & Iron Outfitters**.
+
+Ryan froze two paces behind Katie's wheelchair. His face flushed crimson, and he immediately took two big steps sideways toward a potted ficus tree so that from the atrium balcony, nobody down on the first floor could tell he was standing with us.
+
+"Hey, Katie," Ryan said in a rushed, low voice, refusing to meet her eyes as he pointed back toward the main chrome escalators, "why don't Heather and I just take the escalators down to the first floor and meet you guys inside the back of **The Literary Alcove** in ten minutes? Waiting around for the handicap elevator in front of everybody from school makes us look like little kids."
+
+At the exact same second, Heather stepped up beside my right armrest, crossed her arms over her chest, and lowered her voice into an irritated hiss.
+
+"Seriously, Nate, I don't even know why you asked me to come today," Heather whispered sharply, nodding toward Katie. "Every time I try to talk to you, you're looking at your sister to see if she's okay, and she's practically holding your hand across the table. Between the two wheelchairs and the way you two act like you're glued together, there isn't room for a girlfriend anyway."
+
+For three full seconds, the only sound in the elevator alcove was the distant synth hook from the mall speakers and the soft hum of the glass elevator rising up the shaft.
+
+I looked across the three feet of terrazzo tile between our two compact power wheelchairs at Katie.
+
+Katie looked straight back at me.
+
+Seven years earlier, on the concrete plaza at Virginia Dominion University, we had locked eyes with the exact same silent understanding when two camp counselors tried to split us into separate lines. And four years ago in seventh grade, when Brandon had dumped Katie in the middle-school hallway, she had cried all afternoon in her bedroom beneath the blue butterfly.
+
+Looking into my twin sister's clear blue eyes right now, there wasn't a single tear anywhere near them. In fact, the corner of Katie's mouth twitched upward in the exact same calm, unbothered half-smile that I felt rising in my own chest.
+
+The elevator bell chimed, and the wide glass doors slid open behind us.
+
+Without taking her eyes off Ryan, Katie nudged her right-hand joystick backward and backed her compact power wheelchair smoothly into the left side of the glass elevator cab. Right beside her, I backed my chair into the right side of the cab so we were parked shoulder to shoulder facing the open doors.
+
+"You know what, Ryan?" Katie said calmly, her voice crystal-clear and completely free of anger. "You and Heather go ahead and take the escalator. In fact, take the rest of the afternoon. Nate and I are going to catch the two-forty-eight bus home."
+
+"Wait—what?" Ryan blinked, stepping away from the potted plant in surprise as I reached up with my left hand and pressed the **`1`** button on the elevator panel. "We were just going to meet you downstairs by the bookstore—"
+
+"Heather was right," I told them evenly, reaching my right hand across our armrests to lace my fingers firmly through Katie's left hand as the glass elevator doors began to slide shut between us and our two classmates. "Katie and I come as a package deal—chairs and all. Have a good Saturday, guys."
+
+As the glass doors sealed shut and the elevator glided smoothly down toward the first-floor exit doors, Katie and I held our straight faces for all of four seconds.
+
+Then Katie looked at me, I looked at her, and both of us burst out laughing so hard that our shoulders shook all the way down to the ground floor.
+
+"Did you see Ryan trying to hide behind that plastic tree?!" Katie gasped, wiping a tear of pure laughter from the corner of her eye with her free hand as the doors opened onto the lower concourse and we rolled side by side toward the outer automatic glass doors and the **CVTA Route 15** bus stop. "He practically climbed into the planter pot!"
+
+"And Heather got mad because you helped me keep my soda from spilling and opened my straw!" I laughed right back, steering beside her out into the crisp October sunshine with twenty minutes to spare before the `2:48 PM` northbound bus back up Military Highway. "Can you imagine if either one of us actually had to go to the Homecoming Dance with someone who acts like riding an elevator with us is a public crime?"
+
+"We wouldn't last fifteen minutes," Katie said, her laughter softening into a warm, deeply content smile as we parked side by side at the **Route 15** curb stop and she squeezed my right hand with her left. "Heather thought she was insulting us when she said there wasn't room for anyone else between us, Nate—but she was telling the truth. Why would we ever settle for people who are ashamed to be seen next to our chairs when we already have each other?"
+
+"Remember what I promised you in seventh grade?" I asked, lifting our joined hands between our two power wheelchairs. "Boyfriends and girlfriends come and go."
+
+"But Twin Brothers and Twin Sisters always stay," Katie finished softly, leaning her shoulder toward mine in the autumn sunlight just as the `2:48 PM` high-floor **Beacon V** bus turned into the bus loop to carry the two of us home.
 
