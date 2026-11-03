@@ -31300,25 +31300,13 @@ Through the front glass, a pair of familiar headlights swept across the asphalt 
 
 Our routine for the evening hand-off was already mapped out. Rachel had driven the Avalon over from home to meet me at the end of my shift, and once I signed out at 6:00 PM and walked out to the lot, she was going to unbuckle, slide over into the front passenger seat, and let me take the wheel to drive us home for dinner.
 
-I capped my pen, set it beside the register monitor as the clock ticked to 5:55 PM, and wondered what we were pulling out of the kitchen when we got back to Moosewood Drive.
-
-In the quiet comfort of that routine Wednesday evening, I had completely forgotten about the geographic reality sitting five minutes up the road.
+I capped my pen, set it beside the register monitor, and wondered what we were pulling out of the kitchen when we got back to Moosewood Drive.
 
 ***
 
 #### 5:55 PM — The Ghost of Susquehanna Drive
 
-Five minutes north of the Fairlawn Recreation Center parking lot, just off Princess Anne Road, sat Susquehanna Drive—the exact residential street where, [from August 24, 2007 to May 8, 2009, I rode the CVTA Route 25 bus every weekday morning and afternoon](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2-first-contact-the-first-embrace-the-route-25-equation) to meet my college best friend, Heather Bouchard.
-
-In the fifteen years since [Friday, May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—the morning Heather finished her final exam at the Community College of Hampton Roads, rode the 10:45 AM inbound Route 25 bus beside me, abruptly pushed my arms away when I reached for our routine goodbye hug at Princess Anne Road and Susquehanna Drive, stepped off the bus without a word, and blocked me on *Orbit*—the reason we never crossed paths around Virginia Beach had quietly sorted itself out.
-
-After completing her Nuclear Medicine Technology credentials at CCHR in May 2009, Heather—Twin A—had moved two hundred miles away to Charlottesville to work full-time as a hospital Nuclear Medicine Technologist. Her identical twin sister, Hailey—Twin B—had remained here in Virginia Beach, living full-time in their longtime family house on Susquehanna Drive.
-
-Because Heather still kept her legal family address anchored to that house on Susquehanna Drive with Hailey, she had held onto her grandfathered Month-to-Month Auto-Draft Membership at the Fairlawn Recreation Center—a legacy monthly tier from years earlier that the city no longer sold to new patrons, which remained active indefinitely so long as the card on file never lapsed. Almost every week of the year, Heather was two hundred miles northwest in a Charlottesville hospital nuclear medicine department.
-
-Until she drove down to Virginia Beach to visit her twin sister.
-
-At 5:55 PM—five minutes before my 6:00 PM clock-out—the automatic sliding glass entrance doors parted with a low pneumatic hiss.
+The automatic sliding glass entrance doors parted with a low pneumatic hiss.
 
 A thirty-five-year-old woman with straight, shoulder-length chestnut-auburn hair, side-swept bangs, and thin-rimmed rectangular glasses stepped up to the Scan Station and passed her barcode card beneath the red laser.
 
@@ -31328,13 +31316,11 @@ The check-in monitor flashed green across my desk: *HEATHER BOUCHARD — ACTIVE 
 
 When my eyes lifted from that readout to her face across the counter for the first time in fifteen years, my mind went completely haywire.
 
-It wasn't fear, and it wasn't anger.
-
-It was a violent, unbuffered flood of what were supposed to be happy memories—[eating chicken tenders with mayo and fries with ketchup across from her burger and cola in the CCHR cafeteria on August 24, 2007](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end); [laughing with Ms. Doris (Doris Hooks) on the morning Route 25 bus while three strangers tried to recruit us into a bowling league](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-ms-doris-route-25-the-penny-s-run); walking the CCHR courtyard unmasked for the very first time in my adult life after escaping Washington; [watching Hailey and Heather pull their April Fools' Day 2008 *Twin Magic* prank at the Susquehanna Drive shelter before Heather lifted her chestnut-auburn bangs on the outbound bus to show me the tiny freckle (*"my birth mark"*) hidden right at her upper forehead hairline](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark); [standing together in front of the glowing blue saltwater tunnel at the Chesapeake Bay Aquarium](https://books.raggiesoft.com/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-2-the-chesapeake-bay-aquarium)—and discovering in a single heartbeat that every single one of those warm memories now hurt like a knife twisted between my ribs.
+It wasn't fear, and it wasn't anger. For one unguarded split second, my chest ached with the raw, automatic pull to step around the desk and wrap my arms around my best friend—and in the very next heartbeat, every warm memory we had ever shared twisted like a knife between my ribs.
 
 Inside my skull, my audio hyperphantasia slammed on at full studio volume, blasting the frantic, clinical synth-pulse of [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node) while my heart hammered against my sternum and my fingers went ice-cold.
 
-By sheer muscle memory, my outward Front Desk mask locked my spine upright for the final three hundred seconds of my shift as Heather walked past the counter into the facility.
+By sheer muscle memory, my outward Front Desk mask locked my spine upright for the final three hundred seconds of my shift as Heather lowered her card from the scanner and walked past the counter into the facility.
 
 When the wall clock clicked to 6:00 PM on the dot, I signed out at the back terminal, gripped my keys in a fist to hide the tremor in my hand, and walked out through the sliding glass doors into the cool March twilight on legs that felt like lead.
 
@@ -31358,7 +31344,9 @@ I gripped the molded plastic of the passenger door armrest with my right hand an
 
 "Of course I'll drive, Bear," Rachel answered without a millisecond of hesitation. She clicked her buckle right back into the latch, wrapped her left hand firmly around the steering wheel, and shifted the Avalon into reverse. As she backed smoothly out of the space and steered us off Marlborough Drive toward Princess Anne Road, she reached her right hand across the center console and closed her warm fingers around my shaking left hand. "Talk to me when you can. What happened inside?"
 
-"At 5:55," I choked out, staring through the glass as the streetlights blurred past in the March dusk, "five minutes before I clocked out... Heather walked in. Heather Bouchard scanned in at the front desk."
+"At 5:55," I choked out, staring through the glass as the streetlights blurred past in the March dusk, "five minutes before I clocked out... Heather walked in. Heather scanned in at the front desk."
+
+Rachel's fingers tightened immediately around mine. She didn't ask *Heather who?* She didn't have to. Over the years, whenever the grief had broken through behind closed doors and I had cried in my sister's arms, it was Heather's name I had cried out for against her shoulder. Rachel knew better than anyone on earth how much I still missed her.
 
 ### Part 2: 6:25 PM: Crying in Rachel's Arms & The Secret Pact
 
@@ -31374,19 +31362,21 @@ All the way up Princess Anne Road and through the winding streets of the Silverl
 
 The instant the door clicked shut behind us, the brittle Front Desk mask I had been white-knuckling since 5:55 PM shattered completely.
 
-We didn't even make it down the hallway to the Command Center. Rachel guided me straight to the living room sofa, pulling me down onto the cushions just as she had done fifteen years earlier in our old Canadian Arch townhouse at [3:13 PM on Friday, May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go), when she had walked through the door in her red *Spot* t-shirt to find me sobbing after Heather pushed me away on the CVTA Route 25 bus at Susquehanna Drive.
+We didn't even make it down the hallway to the Command Center. Rachel guided me straight to the living room sofa, pulling me down onto the cushions beside her just as she had done in our old living room [on the afternoon Heather walked out of my life](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go).
 
 Still wearing my royal blue Fairlawn Rec Center polo shirt with the MICHAEL nametag pinned to my chest, I reached for my Bug, buried my face against her shoulder, and broke down crying in her arms.
 
-The wave hit me with a force I hadn't felt since I was twenty-one years old.
+It wasn't the first time I had cried out for Heather while Rachel held me. Over the years, whenever the quiet ache of losing my best friend had broken through my defenses behind closed doors, Rachel was the one whose arms had caught me, listening to me cry out Heather's name into her shoulder until the storm passed. Rachel already knew, down to the marrow of her bones, how much I missed her.
 
-"It's supposed to be a happy memory, Bug," I sobbed into the cotton of her shirt, locking both arms around her ribs as fifteen years of dammed-up grief tore out of my chest. "All those mornings on the 25 bus... eating lunch together at CCHR... the aquarium... she was my best friend when I didn't even know how to be a person again after Washington. Why does seeing her face make all the happy memories hurt so badly?"
+Tonight, after seeing Heather's face three feet across the front desk in the flesh, the dam broke all over again.
 
-When Heather had stepped up to that scanner at 5:55 PM, my body hadn't remembered the ending first. For one unguarded split second, my nervous system had remembered the warmth of having my first non-family Safe Person—and had wanted nothing more than to step around the counter and hug my best friend—before the cold, silent wall of May 8, 2009 slammed down all over again.
+"Heather..." I choked out against the cotton of Rachel's shirt, locking both arms around my sister's ribs as my chest heaved. "It's supposed to be a happy memory, Bug. Why does seeing her face make all the happy memories hurt so badly?"
+
+When Heather had stepped up to that scanner at 5:55 PM, my body hadn't remembered the ending first. For one unguarded split second, my nervous system had simply recognized my best friend and wanted to step around the counter and hug her—before the cold, silent wall of [May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception) slammed down all over again.
 
 Rachel didn't offer hollow clichés. She didn't tell me that fifteen years was long enough to be over it, and she didn't pull back an inch.
 
-Just as she had done on that Friday afternoon in May 2009, Rachel wrapped both arms tightly around my shoulders and back, pulling me flush against her chest with all of her strength until my trembling frame was completely enclosed in deep, grounding sibling pressure.
+Rachel wrapped both arms tightly around my shoulders and back, pulling me flush against her chest with all of her strength until my trembling frame was completely enclosed in deep, grounding sibling pressure.
 
 "I've got you, Bear," Rachel whispered fiercely against the side of my head, resting her cheek against my hair while her palm rubbed a slow, steady circle across the back of my royal blue work shirt. "I am your sister, and I am right here. I'm right here with you, and I am never letting go."
 
@@ -31398,21 +31388,21 @@ For a long, unbroken stretch of time in the quiet living room, I held onto her o
 
 By 6:45 PM, when the heaviest wave finally ebbed and we heard the distant hum of evening traffic out on the neighborhood street before Kristin, Jessica, and Ashley arrived home, I lifted my damp face from Rachel's shoulder and wiped my eyes behind my glasses.
 
-As we stood up from the sofa and stepped into our Command Center so the rest of the household would never walk in on my red eyes in the living room, an urgent realization crystallized in my head. I stopped between our two desks, still holding onto Rachel's wrists, and looked straight into her warm dark brown eyes.
+As we stood up from the sofa and stepped into our Command Center so the rest of the household would never walk in on my red eyes in the living room, I stopped between our two desks, still holding onto Rachel's wrists, and looked straight into her warm dark brown eyes.
 
 "Bug," I whispered, my voice raw and dead serious, "please—you have to promise me something."
 
 "Anything, Bear," Rachel said softly, reaching up to brush a damp strand of hair back from my forehead. "Name it."
 
-"Please keep this strictly between the two of us," I begged her, my fingers tightening gently around her sleeves. "Nobody else in this house can ever know that Heather showed up at the Rec Center tonight, or how badly the memory of her still hurts me. Not Kristin, not Jessica, and not Ashley. Only you."
+"Please keep this strictly between the two of us," I begged her, my fingers tightening gently around her sleeves. "Nobody else in this house can ever know that Heather showed up at the Rec Center tonight, or how badly seeing her tore me up. Not Kristin, not Jessica, and not Ashley. Only you."
 
-Rachel looked into my eyes and understood the entire architecture of my heart without needing me to explain another word.
+Rachel looked into my eyes and understood without needing me to explain another word.
 
-I didn't trust anyone else on earth with that memory. I could never tell Kristin—or let her catch me crying over a girl from 2008—because I loved our life together on Moosewood Drive with every ounce of my soul, and I could not bear the thought of Kristin feeling even a microsecond of insecurity or hurt that a scarred corner of my nervous system still grieved the best friend who had vanished off a city bus fifteen years earlier. Whenever we rode together in the car and a heavy 2008-era synth-rock track came over the radio, Kristin—acting as my quiet Co-Administrator—didn't even press the mute button, because muting the audio left the song title glowing on the dashboard display; she simply changed the station to another channel without a word, and we never spoke Heather's name.
+I didn't trust anyone else on earth with that grief. I could never tell Kristin—or let her catch me crying over Heather—because I loved our life together on Moosewood Drive with every ounce of my soul, and I could not bear the thought of Kristin feeling even a microsecond of hurt that a scarred corner of my heart still ached for my old best friend. Whenever we rode together in the car and a heavy 2008-era synth-rock track came over the radio, Kristin—acting as my quiet Co-Administrator—didn't even press the mute button, because muting the audio left the song title glowing on the dashboard display; she simply changed the station to another channel without a word, and we never spoke Heather's name.
 
-And I could never tell Jessica or Ashley. If Jessica or Ashley found out that someone from my past had walked into my workplace and left me sobbing in my work uniform inside the Moosewood Drive sanctuary we had built together, their fiercely protective instincts would immediately classify Heather alongside [Delores](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) or [Master Curtis](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check) and sound every overprotective alarm in the house. Yet Heather had never been a monster like Delores. She had been an overwhelmed nineteen-year-old Nuclear Medicine student who had given me a two-year sanctuary when I was shattered, and who had pulled the emergency cord the only clumsy, silent way she knew how when her own emotional bandwidth ran out.
+And I could never tell Jessica or Ashley. If Jessica or Ashley found out that Heather had walked into my workplace and left me sobbing in my work uniform inside the Moosewood Drive sanctuary we had built together, their fiercely protective instincts would immediately classify her alongside [Delores](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) or [Master Curtis](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check) and sound every alarm in the house. Yet Heather had never been a monster like Delores, and I didn't want anyone attacking her name.
 
-Only Rachel—my twin-in-spirit, my Bug, who had held me on the sofa on May 8, 2009 and had walked beside me through every season since—understood how both truths could live inside my chest at the exact same time.
+Only Rachel—my twin-in-spirit, my Bug, who had held me every time I cried out for Heather—understood how both truths could live inside my chest at the exact same time.
 
 Rachel framed my face between both of her palms, met my eyes without blinking, and gave me her unbreakable word.
 
@@ -31446,7 +31436,7 @@ Unlike March 13, when the shock had ambushed me five minutes before clock-out wh
 
 Inside my chest, before my analytical prefrontal cortex could boot up a single line of logic, my somatic memory fired at full capacity while my internal threat board plunged straight into a Status Black freeze.
 
-My body saw my favorite—my 2008 CCHR best friend—and felt a sudden, aching pull to step around the desk and wrap her in one of our long, deep-pressure Best Friend Hugs, just like we used to share every weekday morning at the Susquehanna Drive bus shelter. One millisecond behind that biological urge came the ice-cold wall of [May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—her palms shoving against my chest on Route 25—as my audio hyperphantasia kicked on like a studio master tape inside my skull, blasting the relentless synth-bass and clinical dread of [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node).
+My body saw my college best friend and felt a sudden, aching pull to step around the desk and hug her. One millisecond behind that biological urge came the ice-cold wall of [May 8, 2009](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception) as my audio hyperphantasia kicked on like a studio master tape inside my skull, blasting the relentless synth-bass and clinical dread of [*"Terminal State"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-08-terminal-state) and [*"Unhandled Exception"*](https://music.raggiesoft.com/crimson-node/2002-crimson-node?track=1-09-unhandled-exception) by [Crimson Node](https://music.raggiesoft.com/crimson-node/2002-crimson-node).
 
 Neither of us spoke a word.
 
@@ -31458,7 +31448,7 @@ My heart was hammering against my ribs at a hundred and thirty beats a minute, m
 
 "Ms. Susan," I said quietly, pitching my voice low enough that it stayed strictly between our two chairs, "my ex is here."
 
-In the shorthand of a busy municipal front desk, those two syllables were infinitely faster than trying to explain a two-year pre-diagnostic autistic Safe Person dynamic from college while my pulse was spiking.
+In the shorthand of a busy municipal front desk, those two syllables were infinitely faster than trying to explain everything while my pulse was spiking.
 
 Ms. Susan didn't ask a single prying question. Her eyes went straight to my face, reading the rigid tension in my jaw, and she reached down to rest her hand over the handheld two-way facility radio on the counter—keeping it ready right beside her fingers as a quiet fail-safe in case I began to panic and needed immediate backup or a relief rotation off the floor.
 
@@ -31472,7 +31462,7 @@ Nothing escalated. No scene occurred. I sipped cold water at my station, kept my
 
 ***
 
-#### 7:10 PM — Building Supervisor Anthony's Tape Review & The October 2025 Firewall
+#### 7:10 PM — Building Supervisor Anthony's Tape Review
 
 At 7:10 PM, after Heather had exited the building and the Friday dinner rush settled down, our Building Supervisor, Anthony—the administrator in overall command of the Fairlawn Recreation Center—called me into the Back Office behind the front desk after Ms. Susan quietly let him know I had weathered a rough moment at 5:31 PM.
 
@@ -31489,12 +31479,6 @@ I paused, meeting Anthony's eyes with dead-serious clarity so he understood the 
 Anthony nodded slowly, registering the distinction immediately. "Understood, Michael. My office door is always open if you ever need five minutes off the desk."
 
 When I got home to Moosewood Drive that Friday night, Kristin, Jessica, and Ashley were relaxing in the living room. True to our March 13 pact, I greeted them warmly without breathing a word about the 5:31 PM double-take. Only after Rachel and I retreated into our quiet Command Center and shut the door—just Bear and Bug inside our vault—did I let my shoulders drop into my sister's arms, whispering that Heather had walked in again, that we had locked eyes across the scanner, and that Anthony had commended me for holding my ground on the security tape.
-
-Eighteen months later, on Friday, October 17, 2025 at 1:24 PM during my 11:45 AM to 8:15 PM shift, Heather scanned into the Fairlawn Recreation Center one more time before returning to Charlottesville. That afternoon, I happened to be stationed down at the Far-Left Corner Register ringing up a patron's transaction—shielded by the spatial firewall at the far end of the counter—and didn't even see her face before the solid rear wall of the Weight Room swallowed her into the Null Zone.
-
-When ten full months passed after October 17, 2025 without a single trace of her in the check-in logs, I genuinely believed the ghost of Susquehanna Drive had gone dormant for good.
-
-I had forgotten about Twin B.
 
 ## Twin B & The Québécois Firewall (August 2026)
 
