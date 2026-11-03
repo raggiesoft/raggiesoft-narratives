@@ -1067,7 +1067,7 @@ Across the center aisle of the high-floor bus, Katie reached her left hand out o
 
 ## Sixteen on Four Wheels & Finding Dates
 
-### Part 1: Part 1: Navigating Northwood High on Four Wheels & The Homecoming Pact
+### Part 1: Part 1: Navigating Northwood High on Four Wheels, Two First Dates, & Why We Ride on Saturday
 
 **Date:** 2001-10-15 at 07:10 America/New_York
 
@@ -1093,7 +1093,7 @@ With a slow mechanical clunk, the sliding metal door rattled open, releasing the
 
 "Did you see Todd Jenkins jump into the water fountain alcove when we turned the corner by the trophy case?" I asked as the old hydraulic elevator groaned upward toward the second floor at roughly half a mile an hour.
 
-"He nearly knocked his own varsity jacket off his shoulder," Katie laughed, squeezing my hand as the floor indicator light blinked from `1` to `2`. "And on Friday in third-period Chemistry, Mrs. Halvorsen talked to me about covalent bonds in a voice so slow and loud you would have thought the battery box under my seat was connected to my eardrums. Remind me again why we used to be afraid of using this elevator?"
+"He nearly knocked his own varsity jacket off his shoulder," Katie laughed, squeezing my hand as the floor indicator light blinked from `1` to `2`. "Remind me again why we used to be afraid of using this elevator?"
 
 "Because we didn't know how nice it was to get to second period without our legs shaking," I said honestly as the elevator chimed and the door rattled open onto the upstairs landing. "See you at eleven-forty at our table?"
 
@@ -1101,167 +1101,179 @@ With a slow mechanical clunk, the sliding metal door rattled open, releasing the
 
 ***
 
-#### Monday, October 15, 2001, 11:45 AM — The Homecoming Banner & Operation Find-a-Date
+#### Monday, October 15, 2001, 11:45 AM — Head Over Heels for Heather & Katie's Guarded Heart
 
-"Look up above the courtyard doors, Nate," Katie said four hours later as the two of us steered our compact power wheelchairs around the end of the Fourth-Block cafeteria line and parked side by side at the open end of our sunlit corner table. "When did Student Council put that up?"
+"You were smiling all the way from the milk cooler to the table, Nate," Katie teased gently four hours later as the two of us parked our compact power wheelchairs side by side at the open end of our sunlit corner cafeteria table and clicked our joystick motors off. "Let me guess: **Heather Collins** sat next to you in second-period Computer Lab again?"
 
-I glanced up toward the high steel rafters of the Northwood High Commons, where two seniors on maintenance stepladders had just finished tying off the corners of a thirty-foot purple-and-gold butcher-paper banner painted in bold block letters:
+I felt my ears turn warm all the way to the tips as I set my brown paper lunch bag beside our spiral *Quantum Basic* notebook.
 
-**`NORTHWOOD HIGH HOMECOMING — "UNDER THE AUTUMN STARS" — SATURDAY, NOVEMBER 3`**
+"She moved her chair right next to my power chair for the whole ninety-minute block," I admitted, unable to keep the grin off my face as I poked Katie's straw into her apple juice box for her and handed it across our armrests. "When everybody else in the row stepped around my wheelchair like it was radioactive, Heather didn't even blink. She showed me wallet photos of her family, helped me pick a color palette for our *Quantum Basic* menu screen, and asked if I wanted to sit with her at the computer table every day this semester."
 
-Setting our brown paper lunch bags and our spiral *Quantum Basic* coding notebook onto the laminate tabletop in front of our armrests, I clicked my joystick power button off so my chair wouldn't budge if someone bumped it, andKatie did the exact same thing beside me. One of the unexpected perks of using compact power chairs in the cafeteria was that we never had to struggle over the awkward metal bars of the attached cafeteria bench seats anymore; the twin open spaces at the end of the corner table fit our two chairs side by side as if they had been measured with a ruler.
+The truth was, I wasn't just crushing on Heather Collins—at sixteen years old, I was completely, head-over-heels in love with her. From the first week of Junior year in Room 204, Heather had treated me with a warm, effortless kindness that made my heart race every time she walked through the classroom door.
 
-"Three weeks from Saturday," I said, unwrapping the wax paper around my turkey sandwich and handing Katie her apple juice box with the straw already poked through the foil so she didn't have to pinch it. "Are they selling tickets for the dance, or is everybody just going to the football game on Friday night?"
+Beside me, Katie took a sip of her juice box, her expression softening with genuine happiness for me before a quieter, more thoughtful look crossed her face.
 
-"Both," Katie said, taking a sip of her juice box while her eyes stayed fixed on the purple-and-gold banner across the cafeteria. Around us at the neighboring tables, half the Junior and Senior girls were already huddled in excited circles talking about dress shopping at **Emerald Creek Mall** and who was asking whom to the dance.
+"What about **Ryan Miller** in third-period Chemistry?" I asked, reaching my right hand across the gap between our chairs to take Katie's left hand on the laminate tabletop. "You said on Friday that he kept leaning across the lab bench to talk to you."
 
-For a long moment, Katie was quiet, her left thumb tracing the spiral wire of our coding notebook. Then she turned her head to look at me, a sudden, determined spark in her eyes.
+"He did again today," Katie said, though her voice was noticeably more reserved than mine. Ever since seventh grade—when Brandon had dumped her in the middle of the hallway and left her sobbing beneath the blue butterfly in her bedroom—Katie had kept a careful, protective wall around her heart when it came to boys. "Actually, while we were cleaning up our beakers at the accessible lab sink, Ryan asked if I wanted to go out with him to **Emerald Creek Mall** this weekend. And he asked if you had a girlfriend you wanted to bring along so we could make it a double date."
 
-"Nate," Katie said softly beneath the clatter of cafeteria trays, "when was the last time either one of us went on a date?"
+My breath caught in my throat.Neither Katie nor I had ever been on a real high-school date before.
 
-I blinked across my sandwich at her. "Unless you count seventh grade when Brandon Miller dumped you in the hallway and I went with you to the middle-school Dinner Dance as your pretend boyfriend so you wouldn't have to sit by yourself... never."
+"Wait—what did you tell him?" I asked.
 
-"Exactly," Katie said, leaning an inch closer across our armrests. "That was four years ago, when we were twelve. We're sixteen now, Nate. We're Juniors. And ever since we rolled in here with these power chairs last week, half the school has been looking at the two of us like we're made of spun glass—like our lives are over just because our legs are giving out."
+"I told him I'd talk to you at lunch first," Katie said carefully, her fingers tightening around mine. "Honestly, Nate, I don't know about Ryan. He's nice enough when we're lab partners, but I can't tell if he actually likes *me* or if he just likes having someone who balances his chemical equations for him. Still... I see the way your whole face lights up whenever you talk about Heather. And if we go together as a double date on Saturday afternoon, neither one of us has to go through our first high-school date alone."
 
-She reached across the space between our chairs and laid her left hand over my right wrist.
+"Why Saturday specifically?" I asked, glancing at the calendar inside my binder.
 
-"Dr. Chen told us we aren't losing our minds, and we aren't losing our hands," Katie said earnestly. "We have our power chairs so we aren't exhausted at the end of the day anymore. We have a house with zero stairs. And we have **Route 15** stopping right on Military Highway at the end of our street every thirty minutes, which means we can go all the way to **Emerald Creek Mall** or **Glenrock Mall** on a Saturday afternoon without even needing Dad to take time off from studying to drive us."
+"Because I checked Dad's printed **CVTA Route 15** schedule on the refrigerator this morning," Katie explained, tapping the timetable notes she had copied into the margin of our notebook. "Remember the alternating branch rule at Old Emerald Creek Road and Military Highway? **Route 15** only serves **Emerald Creek Mall** Monday through Saturday. On Sundays, every single trip runs straight down to **Robert Hall Boulevard** and skips **Emerald Creek Mall** completely. So if we want to take the bus to the mall ourselves, it has to be on Saturday."
 
-I looked at my sister's determined face, seeing where she was going before she even finished the sentence. "You want us to try to find dates?"
+"Then let's do Saturday," I said earnestly, squeezing her hand so she knew my promise from seventh grade hadn't changed one bit. "I'll ask Heather in Computer Lab on Wednesday morning, and you tell Ryan we'll meet them at the **Emerald Creek Mall** upstairs food court at twelve-forty-five on Saturday. And Katie—if Ryan acts weird for even one second, you and I have our bus fare in our pockets and each other right beside us."
 
-"Why shouldn't we?" Katie asked, her cheeks flushing slightly pink as she smiled. "Not even necessarily for the whole Homecoming Dance if the gym is too loud and crowded—just a real Saturday afternoon high-school double date at **Emerald Creek Mall**! Think about it: in second-period Computer Lab, you've been helping **Heather Collins** debug her **Quantum Grid** spreadsheets every purple day for a month, and she always smiles and waves at you in the hall. And in third-period Chemistry, my lab partner **Ryan Miller** asked me on Friday if I wanted to study together for the stoichiometry unit test."
+***
 
-My heart gave a sudden, nervous thump against my ribs. Heather Collins was quiet, polite, and sat right next to my workstation in Room 204; every time I leaned over to point out a missing parenthesis in her formula bar, she thanked me so warmly that my ears turned red.
+#### Wednesday, October 17, 2001, 10:05 AM — Two Very Different Reactions
 
-"Wait—you're serious?" I asked quietly. "You ask Ryan Miller in Chemistry, and I ask Heather Collins in Computer Lab, and if they both say yes, the four of us meet at **Emerald Creek Mall** this Saturday afternoon?"
+"A Saturday afternoon double date at **Emerald Creek Mall** with you and Katie?" Heather Collins repeated on Wednesday morning in second-period Computer Lab, her warm hazel eyes lighting up with an immediate, genuine smile that made my chest feel weightless. "I would love to, Nate! How are you and Katie getting over to Emerald Creek?"
 
-"If we do it as a double date, neither one of us has to be nervous or go alone," Katie said brightly, holding up her left pinky finger between our two wheelchairs just like we had done when we were nine years old. "Come on, Nate. We conquered high-school summer school, we survived a cruise ship disaster, and we learned how to ride a high-floor city bus lift in one weekend. How hard can a Saturday afternoon double date at the mall be?"
+"We live right near Military Highway and Indian River Road now, so we're taking **CVTA Route 15** at twelve-twenty-five," I explained honestly, bracing myself just in case a high-school girl thought riding the city bus on a first date was uncool. "The high-floor bus has a hydraulic wheelchair lift in the front stairwell, so Katie and I can roll our power chairs right aboard together without Dad having to break them down for the trunk of his car."
 
-Looking at my twin sister's hopeful smile, I hooked my right pinky finger around hers and shook on it.
+Heather didn't flinch or look embarrassed for a fraction of a second. Instead, her smile grew even warmer.
 
-"All right," I agreed with a grin. "Operation Find-a-Date starts Wednesday morning."
+"That is so smart—my dad can drop me off at the main mall entrance at twelve-forty, and I'll ride the back glass elevator right up to the second-floor food court to meet you and Katie," Heather said brightly, reaching over to touch the sleeve of my flannel shirt. "I can't wait for Saturday, Nate."
 
-### Part 2: Part 2: Asking Out Heather and Ryan & The Double Date at Emerald Creek Mall
+Two hours later at Fourth-Block lunch, however, when Katie rolled up to the corner table and parked beside me, I could see immediately from the tight set of her jaw that her conversation with Ryan Miller in third-period Chemistry had gone very differently.
+
+"Ryan agreed to meet us at twelve-forty-five on Saturday," Katie said quietly, unwrapping her sandwich and taking my right hand across the table, "but we didn't even make it out of the Chemistry lab before he got weird about two things."
+
+"What did he say?" I asked, frowning.
+
+"First, when I told him we were meeting at **Emerald Creek Mall**, Ryan puffed his chest out and said, *'Oh, I'll drive over to your house in my coupe and pick you up—just fold your wheelchair up and throw it in my trunk,'*" Katie recounted, shaking her head in disbelief. "I tried to explain to him twice that a motorized power wheelchair with a battery box and solid drive wheels doesn't just fold flat like an umbrella stroller, and that even if Dad disassembled it into four pieces, it wouldn't fit inside a two-door sports coupe."
+
+"And what was the second thing?" I asked.
+
+"When I told him that you and I were riding **CVTA Route 15** to the mall together because we always travel as a pair," Katie said, her blue eyes steady and guarded as she looked at me, "Ryan frowned and said, *'Wait—you're bringing your brother on the bus instead of riding with me? Don't you ever go anywhere without Nate?'* I looked him straight in the eye and told him, *'No, Ryan. Nate is my twin brother, and he comes first.'* He backed down and said he'd meet us at the food court at twelve-forty-five, but... I have a feeling Saturday is going to be a very short test for Ryan Miller."
+
+### Part 2: Part 2: Cousin Wesley, Ryan's Escalator Exit, & Two Dates at Emerald Creek Mall
 
 **Date:** 2001-10-20 at 12:45 America/New_York
 
 ![At the CVTA Route 15 bus stop along US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg)
 
-#### Wednesday, October 17, 2001, 10:05 AM — Two Invitations before the Bell
+#### Saturday, October 20, 2001, 12:45 PM — The Second-Floor Food Court & Cousin Wesley
 
-"You just saved my entire quarter grade, Nate—I swear this formula bar hates me," Heather Collins said with a relieved laugh on Wednesday morning in second-period Computer Applications, watching the `#VALUE!` error vanish from her **Quantum Grid** budget worksheet as soon as I pointed out the missing comma in her nested `IF` statement.
+"Nate! Katie! You guys made it right on time!" **Heather Collins** called out with a radiant smile at twelve-forty-five on Saturday afternoon, waiting for us right outside the sliding doors of the rear glass elevator on the second floor of **Emerald Creek Mall** so we wouldn't have to navigate the crowded food court alone.
 
-Sitting in my compact **SwiftChair** power wheelchair beside her corner desk in Room 204, I glanced up at the wall clock above the whiteboard. It was ten-oh-five—two minutes before my Section 504 early passing release. If I didn't ask her right now, I was going to lose my nerve before Friday.
+Twenty minutes earlier, Dad had walked with us out to the corner of **Military Highway and Indian River Road**, pressed a twenty-dollar bill into each of our hands, and waved from the sidewalk as Katie and I rode the **Elevate-U** hydraulic stairwell wheelchair lift aboard the `12:25 PM` Saturday southbound **CVTA Route 15** (`Bus #914`). Right on schedule at `12:45 PM`, the high-floor **Beacon V** bus had dropped us off at the mall entrance.
 
-"It's just syntax—once you know where the commas go, it's easy," I said, my palms suddenly feeling a little warm against my armrest pads. Taking a quiet breath, I looked over at her. "Hey, Heather... Katie and I are riding the bus down to **Emerald Creek Mall** this Saturday afternoon around twelve-forty-five to get lunch at the food court and hang out. Katie is inviting Ryan Miller from her third-period Chemistry class, and I was wondering if... maybe you wanted to come with me? As a double date?"
+Before I could even click my joystick speed dial down to one, Heather stepped straight up to my compact **SwiftChair** power wheelchair, leaned down without a trace of hesitation, and wrapped her arms around my shoulders in a warm hello hug that sent my heart soaring into the skylights.
 
-Heather blinked in surprise for half a second, her eyes flicking briefly down toward the black joystick box on my right armrest before coming back up to my face. Then a polite, flattered smile crossed her lips.
+"Hi, Nate," Heather said softly against my cheek before straightening up and smiling just as warmly at my twin sister. "And hi, Katie! I rode the glass elevator up from the first floor two minutes ago so we could all roll into the food court together."
 
-"Oh! Um—sure, Nate, that sounds fun," Heather said, tucking a strand of hair behind her ear as she saved her file to her floppy disk. "Twelve-forty-five on Saturday by the upstairs food court?"
+"Thanks for waiting for us by the elevator, Heather," Katie said, her guarded posture relaxing noticeably at how naturally Heather included both of us.
 
-"Right by the **Annie's Pretzels** counter," I smiled, my chest suddenly feeling ten pounds lighter. "I'll see you Saturday!"
+As the three of us headed into the cavernous second-floor food court—where the high tented ceiling echoed with weekend chatter and Bobby Vanguard's 1982 synth-pop classic *"Moving Up the Escalator"* drifted down from the PA speakers above the twin chrome banks of center escalators—**Ryan Miller** strolled over from the balcony railing in his letterman tee.
 
-Ninety minutes later, when I rolled into the cafeteria for Fourth-Block lunch at eleven-forty, Katie was already parked at the end of our sunlit corner table—and the second she saw me coming around the milk cooler, she held up two fingers next to her juice box with a triumphant grin.
+Unlike Heather, Ryan didn't look thrilled to see our two compact power wheelchairs rolling side by side.
 
-"Ryan said yes!" Katie whispered excitedly as I steered my power chair right into the open spot beside hers and switched off my motor. "Right after we finished weighing our copper sulfate precipitates in Chemistry lab, I asked him if he wanted to meet us at **Emerald Creek Mall** on Saturday at twelve-forty-five, and he said his mom could drop him off at the food court entrance! What did Heather say?"
+"Hey," Ryan said, glancing down at Katie's motorized drive wheels as we pulled two plastic chairs away from one side of a four-top table so Katie and I could park our power chairs side by side facing Ryan and Heather. "Katie, I still don't get why you made me meet you here instead of letting me pick you up in my car. You seriously couldn't just fold that chair up and stick it in my trunk?"
 
-"She said yes too," I grinned, reaching across the two inches between our armrests to high-five my sister's left hand before lacing our fingers together on the tabletop. "We actually have a real high-school double date on Saturday."
+"Ryan, I told you on Wednesday—it's a power wheelchair," Katie replied evenly, tapping the black battery box beneath her seat. "It has electric motors and heavy batteries. It doesn't fold up like a beach chair, and Nate and I ride **Route 15** together."
 
-***
+Ryan let out a loud, skeptical sigh, slumping into his seat across from Katie as Heather and I brought back our lunch trays from **Crown Burger** and **Annie's Pretzels**.
 
-#### Saturday, October 20, 2001, 12:45 PM — The Food Court at Emerald Creek Mall
+Halfway from the counter to the table, the progressive neuropathy weakness in my left forearm flared under the weight of the plastic food tray. My left wrist trembled, tipping my large cola cup toward the edge of the tray. Instantly—without me having to say a single word—Katie glided her power chair half a foot to her right, slid her left hand under the corner of my tray to steady it onto the table, pinched open the paper wrapper on my straw, and laced her left fingers through my right hand between our armrests while my wrist tremor settled.
 
-"There they are right over by the balcony railing!" Katie said at twelve-forty-five on Saturday afternoon as the rear glass elevator of **Emerald Creek Mall** chimed softly and its sliding doors opened onto the bustling second-floor food court.
+Across the table, Ryan stared at our joined hands as if we had just committed a felony.
 
-Twenty minutes earlier, Dad had walked with us out to the corner of **Military Highway and Indian River Road**, proudly pressed a crisp twenty-dollar bill into each of our hands so we could treat our dates to lunch, and waved from the sidewalk as Katie and I rode the **Elevate-U** hydraulic stairwell wheelchair lift onto the `12:25 PM` southbound **CVTA Route 15** (`Bus #918`). Right on the dot at `12:45 PM`, the high-floor **Beacon V** bus had dropped us off at the main mall entrance, without Dad having to lift a single battery box or miss a single hour of studying for his **CCHR** midterm exam.
+"Are you kidding me right now, Katie?" Ryan snapped, setting his burger down on its wrapper and leaning forward across the table. "First you refuse to ride in my car unless your brother comes along, and now you're sitting here holding his hand and opening his straw while you're supposed to be on a date with *me*? Who's number one here—me or your brother?"
 
-Rolling side by side across the polished quarry tile of the cavernous food court—where the high, tent-like skylight ceiling bounced the sizzle of woks, the chatter of hundreds of weekend shoppers, and the bouncy 1982 analog synthesizer hook of Bobby Vanguard's *"Moving Up the Escalator"* down toward the twin chrome banks of center escalators—Katie and I steered our compact power wheelchairs over to the four-top table where Heather Collins and Ryan Miller were waiting.
+The noisy food court seemed to fade into background static around our table. Beside me, Katie didn't flinch, and she didn't let go of my hand.
 
-"Hey, guys! You made it," Ryan said, standing up in his letterman tee and jeans as Heather waved from the seat beside him.
+"Nate is number one in my life, Ryan," Katie said clearly, looking him straight in the eyes. "He is my twin brother. We've been through everything together, and he is always going to come first."
 
-"Right on schedule—**The 15** drops off right outside the main concourse at forty-five past the hour," I said happily, pulling two chairs away from the one side of the square table with Dad's tip from occupational therapy so Katie and I could park our compact power wheelchairs side by side facing Heather and Ryan. "Come on—Katie and I have lunch covered. Who wants **Crown Burger** and **Annie's Pretzels**?"
+Ryan scoffed, his face flushing red as he turned toward Heather next to him, clearly expecting her to back him up. "Heather, are you seeing this? Doesn't it bother you that your date is sitting here holding his sister's hand and acting like they're glued together?"
 
-At first, as the four of us ordered at the counter, I thought our Saturday double date was going to be everything Katie and I had pictured at our Monday lunch table.
+Heather looked at Ryan with calm, unmistakable steel in her hazel eyes—and then reached across the tabletop to lay her right hand warmly over my left hand.
 
-The first crack showed up before we even made it back from the counter with our trays.
+"No, Ryan, it doesn't bother me one bit," Heather said firmly. "In fact, I love how close Nate and Katie are."
 
-When the cashier at **Crown Burger** handed me a plastic tray loaded with two baskets of fries, two burgers, and two large fountain sodas, I tried to balance the heavy plastic tray across my lap with my left hand while steering my right-hand joystick back through the crowded aisle. Halfway to the table, the progressive neuropathy weakness in my left wrist and forearm flared without warning; my fingers trembled, the right corner of the plastic tray dipped, and my large cola cup wobbled toward the edge.
+Ryan blinked at her. "What? Why?"
 
-Before Heather or Ryan even noticed my hand shaking, Katie—who had been rolling half a wheel-length to my left—glided effortlessly alongside my chair, slid her own left hand under the dipping corner of my tray to share the weight across both of our laps, and steadied the soda cup with her thumb until we reached the table and set both trays down safely.
+"Because my fourteen-year-old cousin **Wesley**—my mom's sister's son—is severely developmentally disabled," Heather explained, her voice steady and proud as she looked from Ryan to Katie and me. "Wesley and I grew up together, and whenever the two of us go anywhere, I hold Wesley's hand, I hug him, and we look out for each other the exact same way Nate and Katie do. If I ever screamed at Nate or got jealous of him for holding his twin sister's hand and hugging her, I would be disrespecting the exact relationship I have with Wesley."
 
-"Thanks, Katie," I murmured automatically.
+Heather turned her gaze back to me, her eyes shining with so much warmth and affection that my throat went tight.
 
-"Always, Nate," Katie smiled, handing me a napkin and already pinching open the paper wrapper on my straw the exact way we did every day at Northwood High.
-
-Across the table, however, Heather and Ryan weren't smiling. Heather was staring at the way Katie had just opened my straw wrapper, and Ryan was glancing nervously over his shoulder toward the central escalator landing, where three guys in Northwood High swim-team warmups had just ridden up to the second floor.
-
-"So, uh, Katie," Ryan said quickly, hunching his shoulders slightly toward the table as his teammates walked past the **Oak & Iron Outfitters** storefront fifty feet away, "what have you been doing after school since you guys moved over by Indian River Road?"
-
-"Oh, mostly working on our *Quantum Basic* project!" Katie said, her eyes lighting up as she glanced sideways at me. "Dad checked out the language reference manual from the Virginia Beach Public Library for his CCHR class, and Nate and I are coding a two-player trivia and puzzle program together where—"
-
-"—where Katie designs all the string arrays and user-interface screens," I chimed in excitedly, picking up her sentence on the exact beat the way we always did at home, "and I write the keyboard input loops so neither of us has to use a heavy mouse click to advance the screen!"
-
-Katie and I grinned at each other—and then stopped when we realized the other side of the table had gone dead silent.
-
-Heather was poking at her French fries with a plastic fork, a tight, impatient crease between her eyebrows, while Ryan was craning his neck again to see if his swim-team friends were still near the balcony.
-
-"Do you guys do *everything* together?" Heather asked flatly, looking back and forth between Katie and me. "Like, don't you ever hang out with your own friends without each other?"
-
-"We *are* each other's best friend," Katie answered simply, her voice still warm and polite even as her posture straightened a fraction of an inch in her chair. "We're twins."
-
-"Yeah, I know you're twins," Heather muttered, taking a sip of her diet cola as she glanced down at the space between our two wheelchairs, where my right hand was resting two inches from Katie's left hand on the edge of the table. "It's just... most brothers and sisters at Northwood can go ten minutes without finishing each other's sentences."
-
-Beside me, I felt the quiet shift in Katie's shoulders. I didn't say a word to argue with Heather; I just reached under the table edge, tapped the back of Katie's wrist once with my knuckle—our silent twin shorthand since we were nine years old for *I'm right here*—and asked Ryan if they wanted to walk down to **The Literary Alcove** on the first floor to look at the new magazines and music CDs before the movie.
+"I knew before I ever said yes on Wednesday that Nate and Katie travel as a pair," Heather continued softly. "And watching the way they take care of each other only makes me love Nate more."
 
 ***
 
-#### Saturday, October 20, 2001, 1:50 PM — The Glass Elevator & The 2:48 PM Bus Home
+#### Saturday, October 20, 2001, 1:20 PM — Ryan's Escalator Exit & "Did You Bring Two Dates?"
 
-"Hold on—why are we going back through the service corridor behind the food court?" Ryan asked ten minutes later as Katie and I steered our compact power wheelchairs away from the center atrium chrome escalators and headed toward the recessed hallway leading to the mall's glass passenger elevator.
+Ryan stared from Heather to Katie and me, his ego visibly bruised beyond repair as he realized neither girl at the table was going to bend to him.
 
-"Because the elevator is back here by the rear court," Katie explained, glancing over her shoulder at him. "Obviously Nate and I can't take power wheelchairs down the escalators."
+"Whatever," Ryan muttered bitterly, shoving his plastic food-court chair back across the quarry tile and standing up. "If I wanted to play second fiddle to your twin brother and a pair of wheelchairs all afternoon, I would've stayed home. Have fun riding the city bus, Katie."
 
-We rounded the corner by the elevator alcove—and stopped short when we saw a group of six Northwood High Juniors and Seniors standing right outside the first-floor glass elevator shaft down below, laughing and tossing shopping bags from **Neon Syndicate** and **Oak & Iron Outfitters**.
+Heather, Katie, and I watched in silence as Ryan snatched his jacket off the back of his chair.
 
-Ryan froze two paces behind Katie's wheelchair. His face flushed crimson, and he immediately took two big steps sideways toward a potted ficus tree so that from the atrium balcony, nobody down on the first floor could tell he was standing with us.
+Beside me, Katie kept her chin up, but I felt the slight tremor in her left hand where her fingers were still laced with mine, and I saw the hurt glistening at the corners of her blue eyes. Even though Katie had stayed guarded with Ryan all week—and even though part of her had figured from the start that this wouldn't work—having a boy walk out on her in the middle of a crowded food court still stung.
 
-"Hey, Katie," Ryan said in a rushed, low voice, refusing to meet her eyes as he pointed back toward the main chrome escalators, "why don't Heather and I just take the escalators down to the first floor and meet you guys inside the back of **The Literary Alcove** in ten minutes? Waiting around for the handicap elevator in front of everybody from school makes us look like little kids."
+And then Ryan did something that turned my blood to ice.
 
-At the exact same second, Heather stepped up beside my right armrest, crossed her arms over her chest, and lowered her voice into an irritated hiss.
+To leave the second-floor food court, the rear hallway leading to the glass elevator and the west stairwell was right behind our table. Instead, Ryan walked thirty feet straight out to the center atrium railing, turned around to look directly at Katie sitting in her compact power wheelchair, and stepped deliberately onto the moving metal steps of the central **down escalator**—taking the escalator down to the first floor in a massive, calculated show of disrespect because he knew Katie's disability made it physically impossible for her to follow him down those stairs.
 
-"Seriously, Nate, I don't even know why you asked me to come today," Heather whispered sharply, nodding toward Katie. "Every time I try to talk to you, you're looking at your sister to see if she's okay, and she's practically holding your hand across the table. Between the two wheelchairs and the way you two act like you're glued together, there isn't room for a girlfriend anyway."
+As the top of Ryan's head sank below the second-floor floorplate on the escalator, a long, quiet breath left Katie's lips.
 
-For three full seconds, the only sound in the elevator alcove was the distant synth hook from the mall speakers and the soft hum of the glass elevator rising up the shaft.
+"I kind of figured before we even got off the bus today that it wouldn't work with him," Katie admitted quietly, blinking back the moisture in her eyes as she looked down at her lap belt. "Still... taking the escalator just to rub it in that I can't follow him was pretty low."
 
-I looked across the three feet of terrazzo tile between our two compact power wheelchairs at Katie.
+"It wasn't just low, Katie—it was disgusting, and he didn't deserve five minutes of your time," Heather said immediately, stepping around the corner of the table to rest a gentle, supportive hand on Katie's shoulder while I squeezed Katie's left hand with everything I had. "And we are *not* letting him ruin our Saturday. Come on—finish your pretzels, and let's the three of us go walk the second floor of the mall together!"
 
-Katie looked straight back at me.
+Katie looked up at Heather in surprise, then glanced at me.
 
-Seven years earlier, on the concrete plaza at Virginia Dominion University, we had locked eyes with the exact same silent understanding when two camp counselors tried to split us into separate lines. And four years ago in seventh grade, when Brandon had dumped Katie in the middle-school hallway, she had cried all afternoon in her bedroom beneath the blue butterfly.
+"You're sure you don't mind me tagging along on your date, Heather?" Katie asked softly.
 
-Looking into my twin sister's clear blue eyes right now, there wasn't a single tear anywhere near them. In fact, the corner of Katie's mouth twitched upward in the exact same calm, unbothered half-smile that I felt rising in my own chest.
+"Are you kidding? You're not tagging along—we're a team today," Heather smiled warmly.
 
-The elevator bell chimed, and the wide glass doors slid open behind us.
+Ten minutes later, after we cleared our trays, the three of us rolled out of the food court and into the wide, sunlit second-floor concourse of **Emerald Creek Mall**. I rolled down the center of the polished terrazzo walkway in my compact power chair, with Katie rolling right beside my left armrest holding my left hand, and Heather walking right beside my right armrest holding my right hand.
 
-Without taking her eyes off Ryan, Katie nudged her right-hand joystick backward and backed her compact power wheelchair smoothly into the left side of the glass elevator cab. Right beside her, I backed my chair into the right side of the cab so we were parked shoulder to shoulder facing the open doors.
+Halfway past the **Oak & Iron Outfitters** and **The Literary Alcove** upper-level windows, three guys from our Junior-year History and English classes at **Northwood High School**—Marcus, Devon, and Chris—came walking out of the music store carrying CD bags.
 
-"You know what, Ryan?" Katie said calmly, her voice crystal-clear and completely free of anger. "You and Heather go ahead and take the escalator. In fact, take the rest of the afternoon. Nate and I are going to catch the two-forty-eight bus home."
+None of the three had ever had a class with Katie and me at the same time, so they had no idea Katie was my twin sister—and as their eyes landed on me rolling down the mall in my power wheelchair flanked by two pretty sixteen-year-old girls holding both of my hands, all three of them stopped dead in their tracks.
 
-"Wait—what?" Ryan blinked, stepping away from the potted plant in surprise as I reached up with my left hand and pressed the **`1`** button on the elevator panel. "We were just going to meet you downstairs by the bookstore—"
+Marcus grinned from ear to ear and gave me an impressed salute.
 
-"Heather was right," I told them evenly, reaching my right hand across our armrests to lace my fingers firmly through Katie's left hand as the glass elevator doors began to slide shut between us and our two classmates. "Katie and I come as a package deal—chairs and all. Have a good Saturday, guys."
+"Whoa, Prairie—save some for the rest of us, man!" Marcus laughed, nudging Devon's elbow as they walked past. "Did you seriously bring *two* dates to **Emerald Creek Mall** today?!"
 
-As the glass doors sealed shut and the elevator glided smoothly down toward the first-floor exit doors, Katie and I held our straight faces for all of four seconds.
+For one second, Heather, Katie, and I blinked at each other—and then all three of us burst out laughing so hard that every bit of the sadness Ryan had left behind vanished into the vaulted ceiling of the mall.
 
-Then Katie looked at me, I looked at her, and both of us burst out laughing so hard that our shoulders shook all the way down to the ground floor.
+"Tell them yes, Nate!" Heather giggled, squeezing my right hand as Katie laughed beside us. "Let the whole eleventh grade think you're the smoothest guy at Northwood High!"
 
-"Did you see Ryan trying to hide behind that plastic tree?!" Katie gasped, wiping a tear of pure laughter from the corner of her eye with her free hand as the doors opened onto the lower concourse and we rolled side by side toward the outer automatic glass doors and the **CVTA Route 15** bus stop. "He practically climbed into the planter pot!"
+"With the two prettiest girls in Virginia Beach on either side of my chair," I grinned, looking from Katie's bright, restored smile on my left to Heather's glowing face on my right, "I'm definitely not correcting them."
 
-"And Heather got mad because you helped me keep my soda from spilling and opened my straw!" I laughed right back, steering beside her out into the crisp October sunshine with twenty minutes to spare before the `2:48 PM` northbound bus back up Military Highway. "Can you imagine if either one of us actually had to go to the Homecoming Dance with someone who acts like riding an elevator with us is a public crime?"
+***
 
-"We wouldn't last fifteen minutes," Katie said, her laughter softening into a warm, deeply content smile as we parked side by side at the **Route 15** curb stop and she squeezed my right hand with her left. "Heather thought she was insulting us when she said there wasn't room for anyone else between us, Nate—but she was telling the truth. Why would we ever settle for people who are ashamed to be seen next to our chairs when we already have each other?"
+#### Saturday, October 20, 2001, 2:40 PM — A Hug for Me, A Handshake for Katie, & Route 15 Home
 
-"Remember what I promised you in seventh grade?" I asked, lifting our joined hands between our two power wheelchairs. "Boyfriends and girlfriends come and go."
+We spent the next hour browsing the second-floor music and book aisles at **The Literary Alcove** together before riding the rear glass elevator down to the first-floor concourse at two-forty so Katie and I could catch the `2:48 PM` northbound **CVTA Route 15** bus back up Military Highway.
 
-"But Twin Brothers and Twin Sisters always stay," Katie finished softly, leaning her shoulder toward mine in the autumn sunlight just as the `2:48 PM` high-floor **Beacon V** bus turned into the bus loop to carry the two of us home.
+Just outside the automatic sliding glass doors in the crisp October sunshine, Heather's father pulled up to the pickup curb in his burgundy sedan and gave a friendly wave through the windshield. Fifty feet down the wide concrete sidewalk, the blue-and-yellow **CVTA** bus stop sign stood waiting for the `2:48 PM` bus.
+
+Stopping beside us on the sidewalk, Heather turned to me first. Bending down in front of my power chair, she wrapped both arms warmly around my neck and hugged me close, her cheek pressing against mine for a long, unhurried moment.
+
+"Today was the best first date I've ever had, Nate," Heather whispered in my ear before pulling back with a bright smile. "Same computer table on Monday morning?"
+
+"Same computer table on Monday morning," I promised, my face glowing.
+
+Then Heather turned to Katie's power wheelchair right beside mine. Instead of giving a polite wave from a distance, Heather stepped squarely in front of my twin sister, met Katie's blue eyes with genuine warmth and respect, and extended her right hand.
+
+"It was really great hanging out with you today, Katie," Heather said earnestly. "Next Saturday, maybe the three of us can bring my cousin Wesley along and get pretzels together."
+
+Katie looked at Heather's outstretched hand, and a real, unguarded smile broke across my sister's face as she reached out with her right hand and shook Heather's hand warmly.
+
+"I'd really like that, Heather," Katie said. "See you at school on Monday."
+
+We watched from the sidewalk as Heather climbed into the front passenger seat of her father's car and waved out the window until the sedan merged onto the ring road. As soon as her dad's car turned the corner, Katie and I steered our compact power wheelchairs side by side down the sidewalk to the **CVTA Route 15** bus stop and laced our inner hands together while we waited for the `2:48 PM` high-floor **Beacon V** bus to round the loop.
+
+"Well," I said quietly, looking over at my twin sister as the familiar white bus with its horizontal blue-and-green **TRT** stripes and **`CVTA`** door sticker signaled toward our curb, "one out of two first dates wasn't bad."
+
+"Are you kidding, Nate?" Katie smiled, squeezing my hand as the bus pulled up and the operator switched on the **Elevate-U** hydraulic stairwell wheelchair lift. "Finding out in twenty minutes that Ryan was a jerk—and finding out that Heather loves you *and* gets us completely because of her cousin Wesley? I'd call that a hundred percent success."
 
