@@ -14,19 +14,11 @@ title: "Katie & Nathaniel"
 
 #### 3:30 PM — The Secret Password
 
-At three-thirty on a weekday afternoon, the upstairs hallway of our house in Virginia Beach was supposed to be quiet, and the only way to keep the outside world from following us inside was to lock the perimeter behind a password.
-
-Inside my deep-blue bedroom, I sat cross-legged on the dark low-pile carpet in front of the television stand, watching the red digital clock on the cable converter box tick from `3:28` to `3:29`. Having just turned nine years old back on April eighth, I didn't care what the other kids on our street were doing after the school bus dropped us off. School was six straight hours of scraping desks, unpredictable bells, and teachers who tried to seat fraternal twins on opposite sides of the hallway just because I was a boy and Katie was a girl.
-
-By the time our sneakers hit the front porch, both of us needed the exact same reset.
-
-Right on the dot at `3:29`, three polite, measured knocks sounded against the painted wood of my closed bedroom door.
-
-I didn't reach for the brass doorknob yet. I stayed right where I was on the carpet, keeping to the rules of our protocol.
+Three polite, measured knocks sounded against the painted wood of my closed bedroom door just as the red digital clock on the cable converter box ticked to `3:29`.
 
 "Cartoons are for life," came Katie's voice through the wood, hushed and completely serious.
 
-The secret password was given. Immediately, I scrambled up off the carpet and swung the door open to admit my twin sister just in time for our favorite afternoon block of cartoons. To the teachers at school and the adults in our extended family, I was Nathaniel, though Dad and Katie half the time just called me Nate; behind this door, I was simply the other half of Katie's perimeter.
+The secret password was given. Immediately, I scrambled up off the dark low-pile carpet of my deep-blue bedroom and swung the door open to admit my twin sister just in time for our favorite afternoon block of cartoons. Having just turned nine years old back on April eighth, neither of us cared what the other kids on our street in Virginia Beach were doing after the school bus dropped us off. School was six straight hours of scraping desks, unpredictable bells, and teachers who tried to seat fraternal twins on opposite sides of the hallway just because I was a boy and Katie was a girl. To the teachers at school and the adults in our extended family, I was Nathaniel, though Dad and Katie half the time just called me Nate; behind this door, I was simply the other half of Katie's perimeter.
 
 Katie slipped inside, her long, straight platinum-blonde hair swinging past her shoulders as she pulled the door shut behind her until the latch clicked. We didn't need to explain to anyone else why we had a password for a room ten feet away from her own bedroom down the hall. Out in the rest of the house, the afternoon air was already heavy—Mom had locked her bedroom door at two o'clock with another headache and a glass from the kitchen cabinet, and Dad wouldn't be home from work until five-thirty to start dinner. Behind my closed door, however, the rules belonged entirely to the two of us.
 
@@ -50,19 +42,17 @@ Without letting go of my hand, Katie dropped down onto the carpet right beside m
 
 #### 8:45 AM — Two Pairs on Dominion Mall
 
-When Dad signed Katie and me up for the two-week, all-day block at the Virginia Dominion University Junior Admirals Summer Camp in Norfolk—running from nine o'clock in the morning until four o'clock in the afternoon—he had one simple goal: keeping the two of us safely out of the house during the middle of July while he was at work.
+"All right, Youth Division, let's buddy up in two lines for the walk across Dominion Mall!" Counselor Brad announced over the splash of the circular concrete plaza fountain, tapping his wooden clipboard with a grin.
 
-Katie and I had our own goal, and it was even simpler: we were not letting go of each other.
+Standing on the wide, sun-bleached concrete plaza of Virginia Dominion University in Norfolk at eight-forty-five in the morning, wearing matching royal-blue VDU Summer Camp t-shirts over our shorts, Katie immediately tightened her fingers around my right wrist. When our dad, David Prairie, had signed the two of us up for this two-week, all-day camp block—running from nine o'clock in the morning until four o'clock in the afternoon—he had wanted to keep us safely out of the house in July while he was at work. Katie and I had our own rule for surviving six hours a day around fifteen noisy, unfamiliar kids: we were not letting go of each other.
 
-Standing on the wide, sun-bleached concrete plaza of Dominion Mall at eight-forty-five in the morning, wearing matching royal-blue VDU Summer Camp t-shirts over our shorts, Katie had her fingers wrapped tightly around my right wrist. The humid breeze coming off the Elizabeth River carried the roar of Hampton Boulevard traffic and the loud splash of the circular concrete plaza fountain, and fifteen unfamiliar kids were chattering all around us. Whenever a crowd got that loud, Katie's hand locked onto my arm, and my shoulder stayed angled right beside hers to block out the static.
-
-Two paces ahead of us in the Youth Division line, I noticed we weren't the only brother and sister operating on that exact rule.
+Two paces ahead of us in the Youth Division line, I noticed we weren't the only brother and sister operating on that exact protocol.
 
 A nine-year-old boy with reddish-blond hair and wire-rimmed glasses—whose name tag read *Michael*—and his seven-year-old sister *Rachel*, who had dark shoulder-length hair and glasses of her own, were standing hip-to-hip with their fingers laced together in a white-knuckled grip while their fourteen-year-old sister adjusted her backpack beside them before heading over to the Senior Division group. [Just like Katie and me](https://books.raggiesoft.com/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/dominion-mall-the-summer-camp-map-mapping-vdu-with-rachel-and-jessica), Michael and Rachel didn't care about the cartoons or baseball cards the other campers were shouting about; they were holding onto each other like their lives depended on it.
 
 Naturally, the two college-age counselors running our Youth Division—Counselor Brad and Counselor Kelly—looked at the four of us and reached the exact wrong conclusion.
 
-"All right, Youth Division, let's buddy up in two lines for the walk across Dominion Mall!" Brad announced over the rush of the fountain, tapping his wooden clipboard with a grin. "Look at this—we've got two brothers and two sisters right next to each other! Let's mix it up today so the boys can hang out with the boys and the girls can hang out with the girls! Michael, step right back here and pair up with Nathaniel! And Rachel, you team up with Katie!"
+"Look at this—we've got two brothers and two sisters right next to each other!" Brad called out brightly. "Let's mix it up today so the boys can hang out with the boys and the girls can hang out with the girls! Michael, step right back here and pair up with Nathaniel! And Rachel, you team up with Katie!"
 
 Before I could protest, Brad guided me a step forward beside Michael, while Kelly gently steered Katie two steps back beside Rachel.
 
@@ -233,15 +223,13 @@ Two minutes later, Chelsea came back out of the hallway wearing her full green f
 
 #### 11:30 AM — Waiting for the First Flakes
 
-In Virginia Beach, real snow was rare enough that the mere rumor of a winter storm was enough to bring our entire street to a standstill.
+"You think we're going to have snow?" Katie asked, her breath fogging a small circle on the cold glass pane as the two of us stood shoulder to shoulder at my upstairs bedroom window.
 
-On the first Saturday of January 1996, Katie and I stood shoulder to shoulder at my upstairs bedroom window, pressing our palms against the cold wooden sill as we stared out at the residential street below. Outside, the air was bitterly cold, and heavy, slate-gray clouds were rolling in off the Atlantic until the sky looked like brushed steel. Behind us on my bedroom stand, the local Norfolk GBS news station had cut into regular Saturday morning programming, the meteorologist standing in front of a swirling radar map warning all of Hampton Roads to prepare for the Blizzard of '96.
+"Hope so. SNOW DAY!" I said, practically vibrating with excitement as I pressed my palms against the wooden sill and looked out at our residential street in Virginia Beach.
 
-"You think we're going to have snow?" Katie asked, her breath fogging a small circle on the glass pane.
+Outside on the first Saturday of January 1996, it was bitterly cold, and heavy, slate-gray clouds were rolling in off the Atlantic until the sky looked like brushed steel. Behind us on my bedroom stand, the local Norfolk GBS news station had cut into regular Saturday morning programming, the meteorologist standing in front of a swirling radar map warning all of Hampton Roads to prepare for the Blizzard of '96. Even on a Saturday, a real blizzard meant Monday and Tuesday would be wiped clean off the school calendar.
 
-"Hope so. SNOW DAY!" I said, practically vibrating with excitement as I looked from the heavy sky back to the radar bands on the screen. Even on a Saturday, a real blizzard meant Monday and Tuesday would be wiped clean off the school calendar.
-
-"Snow," Katie replied hopefully, leaning her shoulder against mine as the news anchor continued to drone on and on about wind gusts, coastal flooding, and how many inches were expected by nightfall.
+"Snow," Katie replied hopefully, leaning her shoulder against mine as the news anchor continued to drone on and on about wind gusts, coastal flooding, and how many inches were expected later in the afternoon. Both of us were thrilled at the thought of the whole neighborhood shutting down.
 
 At twelve-thirty, while Katie and I were sitting side by side at the kitchen table eating our lunch sandwiches, the first white flakes began to drift past the dining room window. At first it wasn't much—just fine, powdery crystals swirling across the dry grass—but within twenty minutes the flakes grew thick and steady, dusting the wooden fence rails and the roof of Dad's car.
 
@@ -313,21 +301,13 @@ Carrying her pillow under her arm in her purple fleece pajamas, Katie crossed th
 
 #### 4:15 PM — Tears Under the Blue Butterfly
 
-Middle school had a way of taking kids who had been inseparable since birth and trying to pull them into two completely separate orbits.
+"Leave me alone! You'd never understand," Katie sobbed, turning her head half away as I pushed her bedroom door open and stepped onto the carpet.
 
-For the first month of seventh grade, while I spent my afternoons quiet in my room with my *Nova 64* video games, Katie had tried her hardest to fit into the normal middle-school social script—eating lunch with the girls from her English class and going out with a seventh-grade boy named Donnie. And because both of us were stressed out by the louder hallways, the changing class bells, and Mom's drinking getting worse at home, the two of us had fallen into the stupid habit of bickering over small things whenever we passed each other in the upstairs hall.
+I had just walked up the stairs after seventh grade when I heard the sound echoing right through her hollow wooden door into the upstairs hallway. Katie was standing near the foot of her bed against the bright magenta-purple wall beneath her framed blue morpho butterfly print, crying up a storm with her shoulders shaking inside her dark navy t-shirt and both hands pressed over her face.
 
-On Thursday afternoon, all of that stopped the second I walked up the stairs and heard the sound coming through Katie's bedroom door.
+For the first month of middle school—while I spent my afternoons quiet in my blue bedroom with my *Nova 64* video games and Katie tried her hardest to fit in with the girls from her English class and a seventh-grade boy named Donnie—the stress of the loud hallways and Mom's worsening drinking at home had pushed the two of us into the stupid habit of bickering whenever we passed each other in the hall.
 
-Katie was crying up a storm—deep, ragged sobs that echoed right through the hollow wooden door into the hallway.
-
-I dropped my backpack by my door and stepped into her room to check on her and see what was wrong.
-
-Katie was standing near the foot of her bed against the bright magenta-purple wall beneath her framed blue morpho butterfly print, her shoulders shaking inside her dark navy t-shirt and her hands pressed over her face.
-
-"Leave me alone," she sobbed, turning her head half away when she heard my sneakers on the carpet. "You'd never understand."
-
-I didn't walk out, and I didn't snap back the way a typical middle-school brother would have. Stepping quietly across the room, I placed my hand gently on her shoulder.
+Hearing the ragged sound of her crying, I dropped every trace of that irritation at the door. Stepping quietly across her room, I placed my hand gently on her shoulder.
 
 "What is it?" I asked softly.
 
@@ -527,7 +507,7 @@ Since I had made breakfast, Katie took it upon herself to carry our bowls and sp
 
 "I will get the tape, then will join you on the sofa," Katie called over her shoulder as I headed toward the living room.
 
-"Alright, Katie," I replied, settling onto the cushions of our tan-brown living room sofa beside the coffee table, where Dad had neatly stacked the computer programming textbooks he had checked out from the Virginia Beach Public Library to get a head start on his upcoming fall semester at the Community College of Hampton Roads—CCHR. Over the past few weeks, Katie had started reading Dad's library books cover to cover and teaching the programming exercises to me, and when Dad found out, he had beamed with pride and actively encouraged both of us to keep coding.
+"Alright, Katie," I replied, settling onto the cushions of our tan-brown living room sofa beside the coffee table, where Dad had neatly stacked the slightly outdated *Quantum Basic 5.0* programming textbooks—complete with clear plastic mylar covers and barcode stickers on the spines—that he had checked out from the Virginia Beach Public Library to get a head start on his upcoming fall *Quantum Basic 6.0* class at the Community College of Hampton Roads—CCHR. Over the past few weeks, Katie had started reading Dad's library books cover to cover and teaching the programming exercises to me, and when Dad found out, he had beamed with pride and actively encouraged both of us to keep coding.
 
 Even better, when Summer School started in two weeks, Katie and I weren't going because we were behind. We had intentionally signed up to knock out an academic credit over the summer so that when our main high-school year started in September, our schedules would line up with a free period and lunch block together every single day. Until those summer classes began, I was looking forward to having unbroken time with my twin sister.
 
@@ -567,175 +547,261 @@ After I stepped into my blue room to brush my teeth and change into a comfortabl
 
 ## End of Summer Cruise
 
-### Part 1: Part 1: The I-95 Haul, The CCHR Library Books, & The Last Straw
+### Part 1: Part 1: The I-95 Haul, The Quantum Basic Library Book, & Ditching Captain Barnaby
+
+**Date:** 2001-08-19 at 09:30 America/New_York
+
+![Inside the sunlit Deck 8 CyberCafé and Library aboard the M/S Sunward Tropics in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a desktop computer terminal with their father David Prairie's public library Quantum Basic textbook open between them while David smiles proudly beside them]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_cruise_cybercafe_quantum_basic_library_book.jpg)
+
+#### Saturday, August 18, 2001 — The Twelve-Hour Grumble Down I-95
+
+"If `Command1_Click` calls the subroutine before the text box validates, the whole form throws a type-mismatch error," Katie murmured beside me in the back seat of our Holt sedan, tapping her finger against page 142 of the thick paperback resting across our knees as another green Florida mileage sign flashed past the window on Interstate 95 South.
+
+"That's only in *Quantum Basic 5.0*," our dad, David Prairie, called back from the driver's seat, his eyes flicking warmly to the rearview mirror despite the fatigue of ten straight hours behind the wheel. "Wait until we test it on the *Quantum Basic 6.0* compiler at the CCHR lab next month. Though I'll be honest with you two—I'd a whole lot rather be sitting at our kitchen table in Virginia Beach testing that code right now than driving to Port Canaveral."
+
+"So would we, Dad," I grumbled, shifting my stiff legs on the bench seat while Katie laced her left hand through my right.
+
+None of the three of us—not Dad, not Katie, and not me—had wanted to go on this seven-day Caribbean cruise at the end of August. Back in July, Katie and I had worked hard through our high-school summer school class, knocking out a required academic credit early so that when eleventh grade started in September, our main school-year schedules would free up for a shared lunch block together every single day. All the three of us had wanted for the final two weeks of summer was to stay home in peace so Dad could study for his upcoming fall semester at the Community College of Hampton Roads—CCHR.
+
+To get a head start before classes began, Dad had gone to the Virginia Beach Public Library and checked out the newest programming manual they had left on the shelf—a slightly outdated, dog-eared copy of *Learn Quantum Basic 5.0 in 21 Days* wrapped in a clear plastic mylar library jacket with a barcode sticker on the spine. Within forty-eight hours of Dad setting that book on the dining table, Katie had started reading it cover to cover and teaching the event loops and form layouts to me on my bedroom computer. When Dad caught us working through his library book together, he hadn't been upset at all; he had beamed with pride and started actively encouraging both of us to follow our dreams.
+
+Up in the front passenger seat, however, our mother, Brenda, hadn't cared about Dad's CCHR classes, our summer school credit, or the fact that twelve hours crammed into a sedan was making Katie's and my legs ache from hip to ankle. Mom had insisted on booking this seven-day Eastern Caribbean cruise—and when we finally rolled over the causeway into Port Canaveral on Saturday afternoon, the visual irony hit Katie and me right through the windshield.
+
+Docked at the premier terminal across the blue channel stood a gleaming, navy-and-gold *Majestic Cruise Line* ship, its twin funnels shining in the Florida sun.
+
+We didn't turn into the *Majestic* terminal. Instead, Mom directed Dad toward Pier 3, where a boxy, bargain-rate mass-market ship called the *M/S Sunward Tropics* was loading passengers.
+
+By four o'clock that afternoon, standing packed shoulder-to-shoulder in bulky orange foam lifejackets out on the humid teak planks of the Deck 4 Boat Promenade for the mandatory twenty-minute safety muster drill—with all of the ship's elevators shut off—I felt the first warning tremor shoot down both of my calves. Beside me, Katie was leaning almost her entire weight against my right arm just to keep her knees locked. Both of us had lived with mild cerebral palsy since birth, which had always made our balance uneven, but standing on that hot deck before climbing two flights of metal stairs back to our cramped inside cabin left our legs shaking and our arms strangely weak on the brass banisters in a way neither of us had ever felt before.
+
+Dad walked right behind us up every step of the stairwell, one hand braced behind Katie's back and the other steadying my elbow, his brow furrowed with quiet concern as he watched how hard our arms were straining just to pull ourselves up the railing.
+
+***
+
+#### Sunday, August 19, 2001, 9:30 AM — Ditching *Captain Barnaby* for the Deck 8 CyberCafé
+
+"Look at the two of you—you're going to be late for the character breakfast!" Mom snapped at nine-twenty on Sunday morning, shoving two neon-yellow *"Camp Sunward Youth"* lanyards and a printed activity sheet into Dad's hand before disappearing out the cabin door toward the Lido Pool Bar. "And I put Katie's name down for the two o'clock beginner ballet and ballroom workshop in the Starlight Lounge!"
+
+Katie stared at the pink dance slip in horror, her fingers tightening around my wrist as the ship rolled gently on its first full day at sea heading toward Nassau.
+
+"Come on," Dad said quietly, his jaw tight as he picked up his canvas backpack—with the Virginia Beach Public Library *Quantum Basic 5.0* book tucked inside—and led Katie and me down the narrow corridor to the elevator. "Let's go see what your mother signed you up for."
+
+Five minutes later, the three of us stood outside the double glass doors of the Starlight Lounge on Deck 6.
+
+Inside, thirty screaming six- and seven-year-olds were banging plastic spoons against paper placemats while accordion music blared from the speakers. Waddling between the tables were two sweaty crew members zipped into bargain-bin polyester foam mascot suits—*Captain Barnaby the Buccaneer Parrot* and *Salty the Starfish*—whose faded fabric looked like it had been pulled out of a carnival dumpster.
+
+At the podium by the door, a twenty-two-year-old youth counselor glanced down at her clipboard—where Mom had written *Prairie, Nathaniel* and *Prairie, Katie*—and then looked up at two sixteen-year-old high schoolers standing side by side in t-shirts and jeans. Her face turned bright red with second-hand embarrassment.
+
+Dad took one look through the glass doors at the foam parrot, looked at Katie's and my mortified faces, and didn't hesitate for half a second.
+
+"Take those yellow lanyards off, kids," Dad said calmly.
+
+Stepping up to the podium, Dad handed the lanyards back to the relieved counselor, drew a clean line through both of our names on the character breakfast roster, and asked her to cross Katie's name off the afternoon ballet workshop sheet as well.
+
+"Where are the computers and the arcade cabinets on this ship?" Dad asked the counselor.
+
+"Deck 8 Midship, sir—right next to the quiet library and card room," she replied gratefully.
+
+![Sixteen-year-old fraternal twins Katie and Nathaniel Prairie sitting side by side at a desktop computer terminal in the ship's sunlit Deck 8 CyberCafé with their father David Prairie's Virginia Beach Public Library Quantum Basic textbook open between them]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_cruise_cybercafe_quantum_basic_library_book.jpg)
+
+Ten minutes later, sitting side by side in two padded armchairs inside the air-conditioned quiet of the Deck 8 CyberCafé overlooking the deep blue Atlantic, Katie and I finally exhaled. Dad swiped his cabin card to buy two hours of desktop terminal time, pulled the thick, mylar-wrapped *Quantum Basic 5.0* library textbook out of his bag, and set it open on the desk right between our keyboards.
+
+While Mom spent the entire Sunday at sea up at the pool bar, the three of us spent the afternoon right there by the ocean windows—Katie pointing out how to nest `For...Next` loops on the screen, my fingers typing the syntax into the editor, and Dad sitting right beside us smiling with genuine pride.
+
+### Part 2: Part 2: The Nassau Pier, Guest Services, & The Last Straw
 
 **Date:** 2001-08-22 at 14:00 America/Puerto_Rico
 
 ![Inside a quiet passenger corridor alcove aboard the M/S Sunward Tropics cruise ship in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side holding hands and comforting their father David Prairie, who holds their three plastic shipboard keycards with soda-package stickers]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_end_of_summer_cruise_corridor_for_three.jpg)
 
-#### 2:00 PM — Coding vs. Ballet & The Knockoff Mascots
+#### Monday–Wednesday, August 20–22, 2001 — The Nassau Pier & The Honest Question
 
-None of the three of us—not Dad, not Katie, and not me—had wanted to go on this seven-day Caribbean cruise at the end of August.
+"Hold onto my arm, Nate—don't look down at the concrete," Katie breathed against my shoulder as the ninety-two-degree Bahamas sun beat straight down onto the endless gray concrete expanse of Prince George Wharf in Nassau on Monday morning.
 
-Katie and I had worked hard through our summer school class in July, getting a required high-school academic credit out of the way early so that our fall schedules would open up for a shared lunch and free period together. All we had wanted for the final two weeks of summer was to stay home in Virginia Beach, sit side by side in our rooms, and keep working through the computer programming books that our father, David Prairie, had checked out from the Virginia Beach Public Library to get a head start on his upcoming fall semester at the Community College of Hampton Roads—CCHR.
+Ahead of us, Mom was already a hundred yards down the pier, marching briskly toward the duty-free liquor stores and open-air bars along Bay Street without once looking back to see where her children were. Halfway between the ship's gangway and the terminal gate, my right knee buckled without warning. When Katie tried to catch my weight with both hands, her own wrists gave out, and both of us nearly went down onto the hot concrete before Dad caught us under the arms and guided us onto a shaded wooden bench beside the port tram stop.
 
-When Dad had first caught Katie and me reading his library programming manuals at the kitchen table back in June—with Katie deciphering the syntax and teaching the logic loops to me on my desktop computer—he hadn't been annoyed that we had borrowed his study materials. Instead, he had lit up with pride and started actively encouraging both of us to follow our dreams.
+"Neither of you is walking another step in this heat," Dad said firmly, kneeling down to check our trembling ankles before flagging down the port courtesy shuttle and hiring an air-conditioned island van driver to take just the three of us over the bridge to the step-free underwater glass aquarium tunnel on Paradise Island.
 
-Our mother, Brenda, hadn't cared about Dad's CCHR classes, our summer school credit, or the fact that walking long distances was already getting harder on Katie's and my legs. She had insisted on booking a seven-day Eastern Caribbean cruise out of Port Canaveral, Florida—forcing all four of us into the family Holt sedan for a grueling twelve-hour drive down Interstate 95 South while Katie, Dad, and I grumbled the entire way to Florida.
+Over the next forty-eight hours—as the ship steamed south from the Bahamas toward Charlotte Amalie in St. Thomas and Philipsburg in St. Maarten—the gap between what Mom wanted and what our bodies could handle grew wider by the hour. Every time the ship rolled in the Caribbean swell, walking the long metal passageways felt like wading through wet cement, while Mom spent every afternoon running up the cabin bar tab and complaining whenever she passed us that Katie wasn't attending the ship's dance classes.
 
-Worse, when we pulled into Port Canaveral, we had driven right past the gleaming navy-and-gold hull of a *Majestic Cruise Line* ship docked at the premier terminal across the channel, only to board a bargain-rate mass-market vessel called the *M/S Sunward Tropics*. For four straight days—from the departure out of Florida through Nassau and down toward St. Thomas and St. Maarten—Mom had spent every waking hour running up the stateroom bar tab while treating Katie and me as if we were six years old on one hand and completely able-bodied on the other.
+On Wednesday afternoon, Dad collected Katie and me outside the Deck 8 arcade, led us to a quiet, shaded alcove of deck chairs, and looked straight at the two of us.
 
-On Wednesday afternoon at sea, Dad finally collected Katie and me outside the Deck 8 arcade and led us over to a quiet row of deck chairs out of the wind.
+"Please be honest," Dad asked quietly. "Are you two not enjoying the cruise?"
 
-"Please be honest," Dad asked, looking straight at the two of us with tired, earnest eyes. "Are you two not enjoying the cruise?"
+When Katie and I looked at each other and struggled to come up with an answer, Dad leaned forward and rested his hands on his knees.
 
-Katie and I glanced at each other, struggling to come up with a polite answer. Both of us had cerebral palsy—something that had affected our balance and coordination our entire lives, even before the deeper, unexplained heaviness had started creeping into our arms and legs over the past few months—and four days of bracing ourselves against the constant roll of a cruise ship deck had left our calves aching and our shoulders stiff.
+"I want to let you both in on how I feel," Dad said earnestly. "Katie, this especially goes for you. I watched you teach your brother the *Quantum Basic* programming that I am learning in school at CCHR, and I am absolutely encouraging both of you to keep at it if you both like it. I see that your mother is trying to talk you into being a ballerina, but I get that you don't want to."
 
-Before either of us could speak, Dad leaned forward and rested his elbows on his knees.
+"I don't have the balance to dance," Katie said honestly, looking down at her sneakers. Mom still refused to accept that we had cerebral palsy—let alone whatever was making our arms and legs grow weaker this summer—insisting she saw two completely healthy kids. "I like this coding thing."
 
-"I want to let you both in on how I feel," Dad said gently. "Katie, this especially goes for you. I watched you teach your brother the programming that I am learning in school at CCHR, and I am absolutely encouraging both of you to keep at it if you both like it. I see that your mother is trying to talk you into being a ballerina, but I get that you don't want to."
+"And I am encouraging you with this coding thing... I am encouraging both of you," Dad said warmly.
 
-"I don't have the balance to dance," Katie said honestly, looking down at her sneakers. Because of our cerebral palsy—and the way our legs had been trembling even worse lately—standing on her toes at a ballet barre was physically impossible, no matter how stubbornly Mom pretended she had two perfectly typical, non-disabled teenagers. "I like this coding thing."
+"I didn't appreciate that Mom tried booking us on the kid stuff," I added, thinking back to the foam parrot mascot at Sunday morning's breakfast door. "Katie and I are sixteen and already in high school, and I don't want to meet the characters. It's not even the characters that little kids want to meet, because it's not *Majestic Cruise Line*! I want to play the computer games."
 
-"And I am encouraging you with this coding thing... I am encouraging both of you," Dad said firmly.
-
-"I didn't appreciate that Mom tried booking us on the kid stuff," I added, the frustration of the past four days finally spilling out. That morning, Mom had tried to shove the two of us into a noisy elementary-school breakfast event with the ship's bargain-bin foam mascot costumes—*Barnaby the Buccaneer Parrot* and *Salty the Starfish*. "Katie and I are sixteen and already in high school, and I don't want to meet the characters. It's not even the characters that little kids want to meet, because it's not *Majestic Cruise Line*! I want to play the computer games."
-
-"I get it," Dad said, nodding with quiet resolve. He took a slow breath, his jaw tightening. "There is something else I wanted to confide in both of you, and that is Mom's drinking issue. Our next stop will be the front counter where I want to attempt to cut off the flow of alcohol to your mother."
+"I get it," Dad said, nodding firmly. He took a deep breath, his expression turning solemn. "There is something else I wanted to confide in both of you, and that is Mom's drinking issue. Our next stop will be the front counter where I want to attempt to cut off the flow of alcohol to your mother."
 
 ***
 
-#### 2:45 PM — Guest Services & The Soda Package
+#### 2:45 PM — Cutting Off the Flow at the Front Counter
 
-We walked down the midship stairs to the Deck 5 Atrium Lobby—Dad automatically slowing his pace on the steps as he noticed how tightly Katie and I were gripping the brass banister with both hands just to keep our knees from buckling on the moving ship.
+The process at the Purser's Desk in the Deck 5 Atrium Lobby seemed to drag on forever, and Katie and I found a padded seat across the lobby while we waited for Dad to be finished.
 
-At the long curved counter of the Purser's Desk, the process seemed to drag on forever. Katie and I found a padded bench across the lobby and sat pressed shoulder-to-shoulder, holding hands while we watched Dad speak quietly with the Assistant Purser and then the Beverage Manager. Because cruise ships operated on cashless plastic stateroom keycards—and because Dad's *Anchor Federal Credit Union* card was the sole guarantee on our cabin's Master Folio—Dad had the legal authority as the primary account holder to revoke all charging privileges on Mom's card and have the Purser place a mandatory intoxication lock on her passenger profile across every bar terminal on the ship.
+Because every bar on the ship operated on cashless plastic stateroom keycards—and because Dad's *Anchor Federal Credit Union* card was the sole payment method guaranteeing our cabin's Master Folio—Dad had the authority as the primary account holder to revoke all charging privileges on Mom's keycard and have the Watch Purser place a mandatory alcohol cut-off flag on her passenger ID across the ship's point-of-sale network.
 
-Twenty minutes later, Dad walked back over to our bench holding three small holographic soda-cup stickers newly affixed to his, Katie's, and my plastic cabin keycards.
+When Dad finally walked back over to our bench, he held out three plastic cabin keycards, each newly stamped with a small holographic fountain-cup sticker.
 
-"I bought the three of us a soda package, and we can get sodas and juice every fifteen minutes," Dad told us, handing us our cards. "Your mother is going to be mad, but I don't care. I am so sorry to both of you that it is turning out like this, but I have to protect both of you."
+"I bought the three of us a soda package, and we can get sodas and juice every fifteen minutes," Dad told us. "Your mother is going to be mad, but I don't care. I am so sorry to both of you that it is turning out like this, but I have to protect both of you."
 
-Dad sat down beside us for a moment and lowered his voice to a gentle whisper.
+Sitting down beside us for a moment, Dad lowered his voice to a quiet whisper.
 
-"I know that you two have decided that you are inseparable, and I am okay with that, and I won't tell the world about your little secret," Dad whispered, looking warmly from Katie to me. "Yes, I know, and I think I've known for a while. Just don't go blabbing to everyone, and be careful with things."
+"I know that you two have decided that you are inseparable, and I am okay with that, and I won't tell the world about your little secret," Dad whispered, looking at Katie and me with steady, unconditional protective warmth. "Yes, I know, and I think I've known for a while. Just don't go blabbing to everyone, and be careful with things."
 
 ***
 
-#### 3:30 PM — "A Cruise for Three"
+#### 3:30 PM — The Corridor Breakdown & The Ultimatum
 
-From the atrium lobby, the three of us walked down to Deck 4 to drop our things off in Stateroom 4118.
+The three of us rode the elevator down to Deck 4 and walked to our stateroom—and to our horror, though not to our surprise, when Dad opened the door, our mother was passed out drunk across the three-cushion convertible sofa that was supposed to unfold into the bed that Katie and I shared at night.
 
-In a standard four-person inside cabin on the *Sunward Tropics*, the room was barely wide enough to walk past the foot of the main bed where Mom and Dad slept. Along the side wall sat the three-cushion convertible sofa that the cabin steward unfolded every evening into the double bed that Katie and I shared.
+"Oh, I've had enough of your mother's nonsense," Dad said, pulling the door shut and turning Katie and me right around in the passageway.
 
-When Dad swiped his keycard and pushed the cabin door open, we stopped dead in the doorway. To our horror—though not to our surprise—our mother was passed out cold, sprawled diagonally across the cushions of the sofa that was supposed to unfold into Katie's and my bed, an empty glass tipped on the carpet beside her shoes.
+We walked a long way through a narrow, windowless maze of identical stateroom hallways—our legs trembling and our feet stumbling against the carpet seams with every roll of the ship—until we finally reached a quiet stairwell seating alcove and sat down on the built-in bench.
 
-"Oh, I've had enough of your mother's nonsense," Dad said, his voice shaking as he immediately stepped back and turned Katie and me right around in the doorway.
-
-We walked away from Stateroom 4118 down what felt like an endless, claustrophobic maze of narrow metal passenger hallways. As the ship pitched gently in the Caribbean swell, my right foot caught on the carpet seam and my knee nearly gave out; Katie reached out with both hands to steady my elbow, only for her own left leg to tremble against the bulkhead wall. Walking behind us, Dad saw both of us stumble and saw the strained, white-knuckled effort it took for our arms to pull ourselves upright along the corridor handrail.
-
-When we finally reached a quiet, carpeted stairwell seating alcove at the forward end of the corridor, we sat down on the built-in bench—and right there under the brass ship sconces, Dad buried his face in his hands and absolutely lost it, breaking down and crying.
+Right there under the brass wall sconces, Dad buried his face in his hands and absolutely lost it, breaking down and crying.
 
 ![Sixteen-year-old fraternal twins Katie and Nathaniel Prairie sitting side by side in a quiet cruise ship corridor alcove comforting their weeping father David Prairie while holding their soda-package keycards]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_end_of_summer_cruise_corridor_for_three.jpg)
 
-Katie and I froze, completely at a loss for words. For sixteen years, Dad had been the steady, unshakable rock who went to work, attended night classes at CCHR, cooked macaroni and cheese when Mom was passed out upstairs, and kept the house from falling apart. Watching our mental image of Daddy being invincible come crashing down—and seeing the exhausted, heartbroken human side of our father for the first time—left a lump in my throat so big I couldn't breathe.
+Katie and I were completely at a loss for words. Our mental image of Daddy being tough and unbreakable came crashing down all at once, and for the first time in our sixteen years, we were seeing the exhausted, hurting human side of our father.
 
-Katie and I sat pressed against his sides on the bench and waited, holding onto each other's hands because this was something neither of us knew how to fix.
+Katie and I sat close against his sides on the bench and just waited, holding hands because this was something neither of us knew how to respond to.
 
-"I guess it will have to be a cruise for three," Katie whispered to me, her eyes shining with tears.
+"I guess it will have to be a cruise for three," Katie whispered softly to me.
 
-"Yeah, I guess," I whispered back to my sister. We both looked over at our father, who was more upset than we had ever seen him in our lives. I didn't even remember crying this hard when taking a bad fall on the sidewalk when my legs gave out, and yet here the three of us were in the middle of the Caribbean Sea.
+"Yeah, I guess," I whispered back to my sister. We both looked over at our father, who was the most upset we had ever seen him in our lives. I didn't even remember crying this hard when taking a bad fall on the pavement, and yet here the three of us were.
 
-"I'll try my best to handle this. Daddy needs us right now," Katie whispered, resting her free hand gently on Dad's trembling forearm. "This is going to be a long and painful cruise."
+"I'll try my best to handle this. Daddy needs us right now," Katie whispered, resting her hand on Dad's arm. "This is going to be a long and painful cruise."
 
-Right at that moment, a furious, echoing screech tore down the metal stateroom hallway behind us.
+That was when we heard a screaming rage echoing down the metal hallway toward our alcove.
 
-"The heck was that?" I asked, my shoulders flinching as a startled Katie looked up beside me.
+"The heck was that?" I asked, my heart jumping as a startled Katie looked up beside me.
 
 "Where is my fucking beer?!"
 
-Our mother had woken up from her drunken nap on our sofa, walked up to the nearest deck bar, discovered that her keycard had been locked out by the Purser's Desk, and tracked us down the corridor—drunkenly screeching at the top of her lungs at our visibly upset father.
+Our mother had woken up from her drunken nap on our sofa, stormed up to the nearest deck bar, discovered that her keycard had been cut off at the register, and tracked us down the corridor—drunkenly screeching at our visibly upset father.
 
-Dad wiped his eyes with the back of his wrist and stood up straight in front of Katie and me, placing himself squarely between our mother and our bench. His voice didn't shake anymore.
+Dad wiped his eyes and stood up straight in front of our bench, placing himself squarely between our mother and the two of us.
 
-"I've had enough, and so have the kids," Dad said clearly. "This cruise was supposed to be family time, and the three of us are tired of your drinking. Nathaniel, Katie, and I are giving you a choice: us, or the alcohol."
+"I've had enough, and so have the kids," Dad said, his voice steady and resolute. "This cruise was supposed to be family time, and the three of us are tired of your drinking. Nathaniel, Katie, and I are giving you a choice: us, or the alcohol."
 
-Mom stood swaying in the narrow corridor, glaring at the three of us before slurring a bitter, unintelligible string of words that none of us could even understand.
-
-Dad looked at her for a long, quiet second, then nodded once.
+Mom glared at us and slurred something bitter that none of us could even understand.
 
 "Message received," Dad said flatly. "You pick the bottle over your husband and children."
 
-Turning his back on her, Dad looked down at Katie and me and held out both of his hands to help us up from the low bench—supporting our elbows when our stiff legs wobbled on the rise.
+Turning his back on her, Dad looked down at Katie and me and reached out both hands to help us stand up as our mother drunkenly stumbled away down the hall.
 
 "Come on, you two," Dad said gently. "I want you to show me what you two would like to do."
 
-As our mother drunkenly stumbled away back down the corridor in the opposite direction, Dad led Katie and me toward the forward elevators. With one arm around Katie's shoulder and the other steadying mine, he made a solemn vow to the two of us.
+As he supported our elbows and led Katie and me away down the passage, Dad made a vow that neither of us would ever forget.
 
-"I'm making both of you a promise," Dad said quietly as we walked together through what felt like an endless hallway of cabins until we finally stepped out into the bright light of the atrium lobby. "I want to be a dad, and I want you both to help guide me through this. It will be painful, but your mother does not seem to want to be a mom. I'm sorry, but I have to do right by both of you."
+"I'm making both of you a promise: I want to be a dad, and I want you both to help guide me through this," Dad said quietly. "It will be painful, but your mother does not seem to want to be a mom. I'm sorry, but I have to do right by both of you."
 
-### Part 2: Part 2: Back on Dry Land — The Divorce Lawyer, The PCP, & Borrowed Time
+Holding onto Dad's arms as our exhausted legs shook beneath us, the three of us stumbled through what felt like an endless hallway of cabins until we finally stumbled out into the bright light of the lobby.
+
+### Part 3: Part 3: Stateroom 6004, The Loaner Wheelchairs, & Pizza for Three on the Aft Deck
+
+**Date:** 2001-08-23 at 18:30 America/Puerto_Rico
+
+![At golden-hour sunset on the open wooden aft deck of the M/S Sunward Tropics cruise ship overlooking the Caribbean wake, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in ship-provided folding manual wheelchairs holding hands at a round deck table with their father David Prairie, sharing hot pizza and tall soda tumblers]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_cruise_for_three_wheelchairs_aft_deck_pizza.jpg)
+
+#### Wednesday, August 22, 2001, 4:15 PM — Domestic Separation, The Brig, & Two Manual Wheelchairs
+
+"My kids can barely stand up after walking down that Deck 4 corridor, and my wife is screaming profanities at us in the passageway," Dad told the Chief Purser flatly as the three of us reached the front counter in the Atrium Lobby, my knees trembling so badly that I had both hands braced against the marble counter edge while Katie leaned against my side. "I am not putting my son and daughter back in Stateroom 4118 with her tonight. I don't want her in the cabin with us anymore."
+
+The Chief Purser—who had already received a radio call from Deck 4 Security reporting the disturbance—took one look at Dad's raw, red-rimmed eyes and one look at Katie and me struggling to stay upright on our feet, and immediately picked up a brass master key.
+
+"Mr. Prairie, we hold two wheelchair-accessible contingency staterooms right off the Deck 6 midship elevators for medical and family safety emergencies," the Chief Purser said quietly. "I am placing a confidential Domestic Separation Flag on your manifest right now and moving you, Nathaniel, and Katie into Stateroom 6004. Only your three soda-package keycards will open that door, and our staff is strictly prohibited from disclosing your new cabin number to your wife."
+
+Dad let out a long breath of pure relief, then glanced down at Katie's shaking ankles and mine.
+
+"Is there any chance the ship has two manual wheelchairs my twins can use for the rest of the cruise?" Dad asked, looking back at Katie and me to make sure we agreed.
+
+Both Katie and I nodded immediately. Neither of us cared what strangers on a cruise ship thought—we were exhausted from fighting our own legs every time we crossed a deck.
+
+"Consider it done, sir," the Chief Purser replied. "I'll have the Medical Center bring two folding *SwiftChair* manual wheelchairs straight up to Stateroom 6004 while our stewards transfer your bags and your library books from Deck 4."
+
+Mom, true to form, did not go quietly when she returned to Cabin 4118 an hour later, found our duffel bags gone, and realized her keycard was still blocked at every bar on the ship.
+
+By six o'clock that evening, while Dad, Katie, and I were safely upstairs in Stateroom 6004—a wide, quiet room five steps from the elevator lobby with a clean double sofa bed that unfolded without a single obstacle—Mom stormed down to the Atrium Lobby and tried to climb over the Purser's counter screaming at the staff to tell her where we were and give her a drink. When she swung a fist at a Shipboard Security officer who stepped in to block her, the Staff Captain ordered her placed in the ship's brig down on Deck 2 for the remainder of the voyage.
+
+Because the *Sunward Tropics* had just cleared its final Caribbean port of call and was steaming north toward Florida, the next port where the ship could put her ashore was Port Canaveral, United States. Later that night, the Chief Purser stopped by Stateroom 6004 in person to check on the three of us and inform Dad that Brenda had been served with a permanent lifetime ban from *Sunward Cruise Lines*—banned from a cruise line yet again—while explicitly assuring Dad, Katie, and me that our names were completely clear and none of the three of us were excluded from sailing in the future.
+
+Not that any of the three of us ever wanted to set foot on a cruise ship again in the first place.
+
+***
+
+#### Thursday, August 23, 2001, 6:30 PM — Pizza & Soda Refills on the Aft Deck
+
+"Two pepperoni slices, two extra-cheese slices, and three fifteen-minute fountain refills—two colas and an orange juice," Dad announced with a genuine smile on Thursday evening as he set a steaming stainless-steel pizza platter and three tall plastic tumblers down on our round table out on the open wooden aft deck.
+
+![Sixteen-year-old fraternal twins Katie and Nathaniel Prairie sitting side by side in shipboard manual wheelchairs holding hands at a round table on the cruise ship's open aft deck at sunset with their father David Prairie over hot pizza and tall soda tumblers]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_cruise_for_three_wheelchairs_aft_deck_pizza.jpg)
+
+Sitting side by side in our two ship-provided folding manual wheelchairs right at the back rail of Deck 9, watching the white foaming wake of the ship stretch out across the turquoise Caribbean Sea under a golden-orange sunset, Katie and I reached across the space between our wheelchair armrests and laced our fingers together.
+
+Inside the main dining rooms tonight was Captain's Formal Night, where hundreds of passengers were crammed into noisy banquet halls in stiff suits and high heels. Out here on the breezy fantail deck, wearing comfortable t-shirts and jeans with zero pain in our calves or knees thanks to the manual wheelchairs, the last two days of the voyage had finally become what Katie had whispered in the corridor alcove: a peaceful cruise for three.
+
+"How do the chairs feel?" Dad asked softly, pulling his deck chair right up beside our wheels and picking up a slice of pizza.
+
+"So much better, Dad," Katie said, leaning her head briefly against my shoulder as she took a sip from her straw. "My legs aren't shaking at all."
+
+"Mine either," I agreed, looking down at our three soda-sticker keycards resting together on the table next to Dad's library copy of *Quantum Basic 5.0*. For the first time all week, nobody was yelling, nobody was trying to force Katie to dance or shove us into a room with foam parrot mascots, and as the warm ocean breeze blew past the stern rail, the three of us talked for two straight hours about the programs we were going to write when we got home to Virginia Beach.
+
+### Part 4: Part 4: Back on Dry Land — The Reluctant Ride Home, The Divorce Lawyer, & Borrowed Time
 
 **Date:** 2001-08-25 at 08:30 America/New_York
 
 ![Inside a Virginia Beach primary care physician's exam room in late August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side on the exam bench holding hands while their father David Prairie stands beside them and the family doctor tests Nathaniel's arm and grip strength]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg)
 
-#### 8:30 AM — Back on Dry Land
+#### Saturday, August 25, 2001, 8:30 AM — Back on Dry Land
 
-By Saturday morning, when the *M/S Sunward Tropics* tied up at the pier in Port Canaveral and the gangway doors finally opened, the three of us couldn't get off the ship fast enough.
+"Nathaniel. Katie. I'm sorry that your first cruise was wrecked, and somehow I want to make it up to both of you," Dad said earnestly as two crew members helped us transfer out of the ship's loaner wheelchairs onto the back bench seat of our Holt sedan at the Port Canaveral pickup curb. Resting a steady hand on each of our shoulders through the open door, Dad continued, "Here is what we will do: neither one of you wanted to go on that cruise, but your mother insisted. I want to finish school at CCHR so that I can do a better job at being a dad without having to worry about money as much."
 
-Walking down the steep, ribbed-rubber incline of the disembarkation ramp into the Florida customs terminal, Katie and I held onto each other's inner hands while gripping the aluminum railing with our outer hands. Even after a full night's sleep, my knees felt like they were filled with wet sand, and I could feel Katie's fingers trembling against mine as her ankles wobbled on the slope. Dad carried all three of our heavy duffel bags over his shoulders so neither of us had to bear the extra weight, watching our feet closely every step of the way down to the concrete floor.
-
-Outside on the palm-lined sidewalk by the terminal pickup curb, breathing in stationary, solid-ground air for the first time in a week, Dad set the bags down by our Holt sedan and turned to face the two of us.
-
-"Nathaniel. Katie. I'm sorry that your first cruise was wrecked, and somehow I want to make it up to both of you," Dad said earnestly, resting a hand on each of our shoulders. "Here is what we will do: neither one of you wanted to go on that cruise, but your mother insisted. I want to finish school at CCHR so that I can do a better job at being a dad without having to worry about money as much."
-
-Before either of us could answer him, an angry, ragged screech echoed across the concrete baggage drop behind us.
+Before Katie or I could answer him, an angry screech tore across the concrete baggage drop from behind us.
 
 "You! You told the ship to stop my drinks!"
 
-Our mother had finally stumbled out of the terminal doors behind the last customs line, her face flushed red in the humid Florida sun as she stormed up to the curb after spending the final three days of the voyage locked out of every bar on the ship.
+Our mother had just been escorted out of the customs terminal doors by two *Sunward Cruise Lines* security officers after being released from the ship's brig and handed her permanent lifetime ban paperwork. Her face was flushed dark red in the morning Florida heat as she stormed up to the rear fender of our car.
 
-Dad didn't yell back at her in front of the crowded terminal. He didn't waste a single breath arguing. Instead, he calmly unlocked the doors of the Holt sedan, helped Katie and me settle side by side into the back seat where we could lean against each other for the drive up Interstate 95 North, and made up his mind right there on the pavement.
+Every muscle in Dad's jaw tightened. If we had been anywhere near Hampton Roads, he would have handed her twenty dollars for a bus fare and driven away on the spot. Only because we were seven hundred miles from home—and because Dad was too decent a man to strand even his soon-to-be ex-wife on a sidewalk in Florida—he very reluctantly unlocked the front passenger door.
+
+"Get in the front seat, Brenda, and don't say a single word to the kids for the next twelve hours," Dad told her in a voice as cold as steel. "The second this car pulls into our driveway in Virginia Beach, you are packing your bags and getting out of our house."
+
+For all twelve hours up Interstate 95 North, Katie and I sat side by side in the back seat holding hands with Dad's *Quantum Basic* library book resting between us. And true to his word, the moment we pulled into the driveway in Virginia Beach that night, Dad stood watch in the foyer while Brenda packed her suitcases and left.
 
 ***
 
-#### Monday, August 27, 2001, 10:15 AM — Two Phone Calls in Virginia Beach
+#### Monday, August 27, 2001, 10:15 AM — The Divorce Lawyer, The PCP, & Borrowed Time
 
-True to the promise he had made us in the ship's corridor, the Monday morning after we got back to Virginia Beach, Dad didn't wait.
+"Squeeze my fingers as hard as you can, Nathaniel, and hold it for five seconds," Dr. Evelyn Chen instructed gently inside Exam Room 2 of her Virginia Beach family practice clinic on Monday morning.
 
-While Mom was still asleep behind her closed bedroom door upstairs, Dad sat at the kitchen table with the yellow pages and the telephone receiver and made two appointments back-to-back. The first was with a family law and divorce attorney off Independence Boulevard to begin the legal process of ending his marriage and securing custody of Katie and me.
+Sitting side by side on the crinkly white paper of the padded exam table in our t-shirts and jeans, Katie and I kept our inner hands laced tightly together between our knees while I reached my left hand out to squeeze Dr. Chen's fingers.
 
-The second appointment—scheduled for ten-fifteen that very morning—was with our Primary Care Physician, Dr. Evelyn Chen, at her family practice clinic in Kempsville.
-
-All during the seven-day cruise and at the interstate rest stops on the drive back from Florida, Dad had been quietly watching something that Mom had refused to see for years. Mom still looked at Katie and me and insisted she saw two completely healthy teenagers who were just being "lazy" or "clumsy" whenever we stumbled—which was why she had kept nagging Katie about ballet. Dad, however, had seen the way our arms shook when we pulled ourselves up the ship's stairwells, the way we had to brace our shoulders together just to walk down a long hallway, and the way my legs had nearly folded on the disembarkation ramp.
-
-Inside Exam Room 2 at the clinic, Katie and I sat side by side on the crinkly white paper of the padded exam table in our t-shirts and jeans, our inner hands laced tightly together between our knees while Dad stood right beside the counter.
+Earlier that morning at eight-thirty, Dad had kept the first half of his vow by calling a family law and divorce attorney off Independence Boulevard to file for divorce and full custody of Katie and me. His very next phone call had been to Dr. Chen, our Primary Care Physician, to request an urgent same-day examination after watching how badly our arms and legs had failed us on the cruise ship.
 
 ![Inside their Virginia Beach primary care physician's exam room, sixteen-year-old twins Katie and Nathaniel Prairie sit side by side on the exam table holding hands while their father David watches and Dr. Chen tests Nathaniel's forearm and hand grip strength]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg)
 
-"Squeeze my fingers as hard as you can, Nathaniel, and hold it for five seconds," Dr. Chen instructed gently, holding two fingers of each hand out in front of me.
+For the first two seconds, my grip held around Dr. Chen's fingers—and then, no matter how hard I concentrated, the strength in my forearm and wrist drained away like water through a sieve. When Dr. Chen tested Katie's grip, her shoulder resistance, and the dorsiflexion in both of our ankles, the exact same drop-off happened.
 
-I squeezed with everything I had. For the first two seconds, my grip held firm—and then, despite every signal my brain was sending down my arms, the strength in my forearms and wrists visibly faded out. Right beside me, when Dr. Chen repeated the exact same grip and resistance test on Katie's hands, shoulders, and ankles, the exact same drop-off happened.
+Dr. Chen stepped back, slipped her reflex hammer into the pocket of her white coat, and looked gravely at Dad, who was standing protectively right beside us.
 
-Dr. Chen stepped back, lowered her reflex hammer into the pocket of her white coat, and looked first at Katie and me, and then directly at Dad. Her expression had gone very quiet and very serious.
+"David," Dr. Chen said quietly, "bringing them in immediately after you got back from Florida was the exact right call."
 
-"David," Dr. Chen said carefully, "you did the right thing bringing them in today."
+"They've had mild cerebral palsy since they were little," Dad said, his hand resting warmly on Katie's shoulder. "Brenda always ignored it and acted like they were two completely typical kids, so I assumed the ship's movement was just aggravating their balance. Why are both their arms and their legs getting worse at sixteen?"
 
-"We've known since they were little that they both have mild cerebral palsy," Dad said, his voice tight with concern as he rested a protective hand on the back of Katie's shoulder. "That's always affected their balance. Why are their legs and their arms getting weaker now?"
+"Because cerebral palsy does not degenerate over time," Dr. Chen answered clearly, looking from Dad to Katie and me with deep compassion. "Cerebral palsy is a static, non-progressive condition. When sixteen-year-old twins begin losing measurable motor strength in both their lower extremities and their upper extremities over the course of a single summer, something else is happening."
 
-"That is the exact reason I am concerned," Dr. Chen explained gently. "Cerebral palsy is non-progressive. The brain injury that causes cerebral palsy happens at or before birth—it does not degenerate over time, and it does not cause sixteen-year-old teenagers to start losing motor strength in both their arms and their legs over a matter of months."
+Beside me on the exam table, Katie squeezed my fingers with every ounce of strength left in her hand, and I squeezed right back.
 
-In the quiet exam room, Katie's fingers tightened around mine as fast as her tired hand would allow.
+"I'm ordering a full neuromuscular blood panel, nerve conduction studies, and a genetic workup this morning," Dr. Chen continued gently, picking up her chart clipboard. "Until those test results come back and tell us exactly what condition we are dealing with, I need all three of you to prepare yourselves for the reality of what I'm seeing in their muscle tone today. When it comes to walking, Nathaniel and Katie are on borrowed time. Eventually, neither of them is going to be able to walk."
 
-"What does that mean, Doctor?" Dad asked quietly.
+The quiet exam room seemed to hold its breath around those words—*on borrowed time*.
 
-"It means that either something else has been hiding underneath their cerebral palsy diagnosis all along, or a second, progressive neuromuscular condition is now active in both twins," Dr. Chen said softly, looking at Katie and me with genuine compassion. "At the rate their lower-limb endurance and upper-body strength have changed since last year's physical, I need to be completely honest with all three of you: when it comes to walking unassisted, Nathaniel and Katie are on borrowed time. Eventually, their legs are not going to be able to support their weight."
-
-The words hung in the fluorescent-lit air of the exam room: *borrowed time*.
-
-Neither Katie nor I let go of each other's hand. If anything, hearing Dr. Chen say out loud what our muscles had been whispering to us all summer—that we weren't crazy, that we weren't clumsy, and that our bodies really were changing in the exact same way at the exact same time—made us lean our shoulders even closer together on the exam bench.
-
-"I'm ordering a comprehensive blood panel, nerve conduction studies, and a full genetic neuromuscular workup today," Dr. Chen continued, writing rapidly on her chart. "As soon as those test results come back from the lab, we are going to find out what is truly happening to Nathaniel and Katie, and we are going to get both of them the equipment and support they need before either of them takes a dangerous fall."
-
-"Do every test you need to do," Dad said without a second's hesitation, his hand resting steady and warm across our shoulders. "Whatever it is, the three of us are facing it together."
+Yet as I looked sideways at my twin sister, and felt Dad's steady, unwavering arm wrap around both of our shoulders at once, the fear didn't break us. Whatever the test results showed when they came back from the lab, Mom's screaming was gone, Daddy was standing right beside us, and Katie and I were going to face every single mile of it together.
 
