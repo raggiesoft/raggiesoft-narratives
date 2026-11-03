@@ -899,3 +899,95 @@ The quiet exam room seemed to hold its breath around those words—*on borrowed 
 
 Yet as I looked sideways at my twin sister, and felt Dad's steady, unwavering arm wrap around both of our shoulders at once, the fear didn't break us. Whatever the test results showed when they came back from the lab, Mom's screaming was gone, Daddy was standing right beside us, and Katie and I were going to face every single mile of it together.
 
+## Junior Year at Northwood High & The Prognosis
+
+### Part 1: Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School
+
+**Date:** 2001-09-04 at 11:40 America/New_York
+
+![Inside the sunlit cafeteria of Northwood High School in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a quiet corner table holding hands during their shared Junior-year lunch period with their lunch bags and coding notebook open before them]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg)
+
+#### Monday, August 27, 2001, 2:00 PM — The Lawyer's Office off Independence Boulevard
+
+"Timestamp fifteen-thirty-two and eighteen seconds," family law attorney Arthur Vance read aloud in his quiet, wood-paneled conference room off Independence Boulevard, pressing the pause button on his office VCR remote so the grainy black-and-white frame from the *M/S Sunward Tropics* Deck 4 stairwell camera froze on the television screen.
+
+Sitting side by side on the leather sofa across from Mr. Vance's desk with our inner hands clasped tightly together, Katie and I looked at the frozen image on the screen. Right there beneath the ceiling camera's timestamp—`AUG 22 2001 15:32:18 CAM-04B`—was our mother lunging toward our alcove bench with her arm raised, and Dad standing like a shield squarely between her and the two of us.
+
+"Mr. Prairie, in twenty-four years of practicing family law in Virginia Beach, I have rarely seen a cleaner, more airtight evidentiary packet," Mr. Vance said, setting the remote down beside the Staff Captain's notarized *Shipboard Security Incident Report* and permanent lifetime exclusion notice. "Normally in Virginia, when minor children are involved, a couple has to live separate and apart for one full year before filing for a no-fault divorce. You do not have to wait a single day."
+
+Across from us, Dad leaned forward in his chair, his hands folded on the edge of the mahogany table.
+
+"How fast can we get the court orders in place so Brenda can't come back to the house or show up at their high school when classes start next week?" Dad asked.
+
+"This afternoon," Mr. Vance answered firmly. "Because the ship's security camera captured her attempting to strike sixteen-year-old Nathaniel while intoxicated—and because the ship's brig and medical logs corroborate every word—we are filing a fault-based Complaint for Divorce on grounds of cruelty and reasonable apprehension of bodily hurt under Virginia Code Section 20-91(A)(6) before the Circuit Court clerk's office closes at four o'clock. Alongside it, I am walking an emergency *pendente lite* petition and family protective order straight in to the duty judge."
+
+Mr. Vance counted the points off on his fingers so Katie and I could follow every step.
+
+"First, you get immediate temporary sole legal and physical custody of Nathaniel and Katie," Mr. Vance said. "Second, you get exclusive use and possession of the marital home in Virginia Beach—meaning you are legally authorized to change every lock on the doors tonight, and Brenda cannot set foot on the property. Third, the protective order bars her from coming within five hundred feet of the twins or setting foot on the campus of Northwood High School. And fourth, because fault grounds of cruelty bar an offending spouse from receiving alimony under Virginia law, she won't get a dime of spousal support."
+
+Beside me on the leather sofa, Katie let out a long, quiet breath and leaned her shoulder against mine. That evening before dinner, Dad bought three brass deadbolt kits at the hardware store, changed every lock on our front, back, and garage doors, and handed the shiny new keys to Katie and me.
+
+***
+
+#### Tuesday, September 4, 2001, 11:40 AM — Junior Year at Northwood High School
+
+"We actually pulled it off, Nate—fourth-block lunch and study hall together every single day," Katie said with a relieved smile the Tuesday after Labor Day as the two of us eased down side by side onto the bench of a quiet, sunlit corner table near the tall windows of the Northwood High School cafeteria.
+
+![Inside the sunlit cafeteria of Northwood High School in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a quiet corner table holding hands during their shared Junior-year lunch period with their lunch bags and coding notebook open before them]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg)
+
+Back in July, when we had given up half of our mornings to sit through high-school summer school and knock out a required academic credit early, this exact forty-five-minute sanctuary in the middle of our Junior year schedule was what we had worked for. Earlier that morning at seven-forty-five, Dad had walked into the Northwood High main office with us to hand-deliver a certified copy of the Virginia Beach judge's custody and protective orders to the principal's secretary, removing Brenda's name from our emergency contact cards for good.
+
+Yet as grateful as Katie and I were to be sitting together with our brown paper lunch bags, juice boxes, and our spiral *Quantum Basic* notebook open on the tabletop between us, getting through the first three class periods of eleventh grade had been a sobering wake-up call for our bodies.
+
+Even without the roll of a cruise ship beneath our feet, the long linoleum hallways and concrete stairwells of Northwood High School had pushed our legs and arms to the brink before noon. Halfway up the B-Wing stairs to second-period Chemistry, my left calf had cramped and given out so suddenly that I would have gone down on the steps if Katie hadn't grabbed my belt loop—and when she tried to pull my weight upright against the handrail, her own right wrist and forearm had trembled so violently that she dropped her binder across the landing. By the time we reached the cafeteria doors at eleven-forty, my thighs felt like lead weights and Katie's fingers were shaking so hard that I had to help her pinch open the top of her straw wrapper.
+
+Reaching across the table between our lunch bags, I laced my right fingers through Katie's left hand and rested our joined hands flat on the cool laminate tabletop so neither of our wrists had to work to hold them up.
+
+"How bad are your legs shaking right now?" I asked her quietly beneath the chatter of the cafeteria.
+
+"From my knees down to my ankles," Katie admitted softly, her thumb brushing against the back of my hand as she glanced down at the event-loop diagram in my notebook. "And my right shoulder still hurts from carrying my backpack down the upstairs hall. Dr. Chen said our lab and nerve-conduction results come back next week, right?"
+
+"Friday afternoon," I nodded, squeezing her hand gently. "Whatever those tests say, we've got Dad on our side now, and we've got this lunch table every day. We'll get through eleventh grade together."
+
+### Part 2: Part 2: The Test Results & Dr. Chen's Prognosis for Our Arms and Legs
+
+**Date:** 2001-09-14 at 15:30 America/New_York
+
+![Inside Dr. Evelyn Chen's consultation office in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in padded chairs holding hands beside their father David Prairie while Dr. Chen reviews their neuromuscular test results and prognosis across her desk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg)
+
+#### Friday, September 14, 2001, 3:30 PM — The Prognosis for Our Legs and Our Arms
+
+"The genetic sequencing and nerve-conduction studies from Norfolk finally gave us the missing piece of the puzzle," Dr. Evelyn Chen said gently on Friday afternoon, looking across her wooden consultation desk at Dad, Katie, and me with the thick manila lab folder open in front of her.
+
+Sitting side by side in the two padded visitor chairs in front of Dr. Chen's desk after school, Katie and I held hands tightly across the space between our armrests while Dad sat right beside Katie with his hand resting steadily on her shoulder.
+
+![Inside Dr. Evelyn Chen's consultation office in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in padded chairs holding hands beside their father David Prairie while Dr. Chen reviews their neuromuscular test results and prognosis across her desk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg)
+
+"When you two were toddlers," Dr. Chen explained, speaking directly to Katie and me as well as to Dad, "your clumsiness and uneven balance were diagnosed as mild spastic diplegic cerebral palsy. Because mild CP is non-progressive—and because your mother always dismissed any new symptoms at your annual checkups—nobody realized that your early balance issues were also masking a second, genetic condition that both of you inherited as fraternal twins: a juvenile-onset progressive axonal motor neuropathy."
+
+Dad leaned forward slightly, his eyes fixed on Dr. Chen. "What does that mean for their legs and their arms, Evelyn? Give it to the three of us straight."
+
+Dr. Chen nodded solemnly and folded her hands atop the chart.
+
+"Let's start with their legs," Dr. Chen said clearly. "In this type of hereditary axonal neuropathy, the longest motor nerves in the body—the ones running from the spine all the way down to the feet, ankles, calves, and quadriceps—lose their electrical signal amplitude first, and the adolescent growth spurt at fifteen and sixteen accelerates that loss dramatically. Right now, Nathaniel and Katie are using every ounce of reserve muscle strength they have just to walk across a hallway at Northwood High School. As I warned you after the cruise, their ability to walk is on borrowed time. Within the next six to eighteen months—well before they graduate high school—neither of their legs will be able to support their body weight safely, and both of them will transition to using wheelchairs full-time."
+
+Katie's fingers tightened around mine between our chairs, and I squeezed her hand right back so she knew I wasn't letting go.
+
+"And what about our arms, Dr. Chen?" Katie asked, her voice quiet but steady. "At school last week, my wrist and shoulder gave out just trying to hold my binder on the stairs. Are we going to lose the ability to type on a computer?"
+
+Dr. Chen's expression softened with immediate, heartfelt reassurance.
+
+"That is the most important part of your prognosis for your arms, Katie," Dr. Chen answered warmly. "In your upper extremities, the neuropathy is causing progressive weakness and rapid muscle fatigue in your shoulders, biceps, forearms, and grip endurance. That means neither of you should be carrying heavy school backpacks, lifting heavy objects, or trying to push standard manual wheelchair rims down long school corridors—because pushing manual wheels all day will burn out your wrists and forearms and leave your hands shaking."
+
+She tapped a printed medical accommodation packet beside her chart.
+
+"However," Dr. Chen continued, looking straight at Katie and me, "if we protect your upper bodies from heavy lifting and manual pushing right now, your fine finger dexterity at a keyboard will remain intact for years to come. You will still be able to type, write computer code, use a mouse, and hold hands—as long as your forearms are resting on padded desk supports and you are typing on low-force keyboards."
+
+A wave of pure, unmistakable relief washed through my chest, and beside me I felt Katie's shoulders drop an inch as she exhaled. We were going to lose the ability to walk—and we weren't going to be able to lift heavy things or push ourselves long distances—but we weren't going to lose our coding, and we weren't going to lose each other.
+
+"Here is what I am ordering starting Monday morning," Dr. Chen said, sliding three signed forms across the desk toward Dad. "First, I have signed a formal Section 504 Medical Mobility Plan for Northwood High School: elevator keys for both twins, a second set of textbooks kept in every classroom so neither of them ever carries a heavy backpack again, and five extra minutes of passing time between blocks so they are never jostled in crowded hallways. Second, I am referring both of them to the seating clinic for lightweight folding wheelchairs fitted with joystick power-assist hub drives—so on days when their legs or arms fatigue, they can glide down the hallway with one finger on a joystick without straining their wrists."
+
+Dad picked up the signed forms with a steady hand and looked at Katie and me with deep, unwavering love.
+
+"Whatever equipment they need, Evelyn, we'll get it," Dad said firmly. Turning to Katie and me, he rested a hand on each of our shoulders. "You two just focus on Junior year, your lunch period together, and your *Quantum Basic* programs. I've got the rest."
+
