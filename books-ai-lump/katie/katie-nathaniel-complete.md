@@ -715,9 +715,9 @@ Holding onto Dad's arms as our exhausted legs shook beneath us, the three of us 
 
 "My kids can barely stand up after walking down that Deck 4 corridor, and my wife is screaming profanities at us in the passageway," Dad told the Chief Purser flatly as the three of us reached the front counter in the Atrium Lobby, my knees trembling so badly that I had both hands braced against the marble counter edge while Katie leaned against my side. "I am not putting my son and daughter back in Stateroom 4118 with her tonight. I don't want her in the cabin with us anymore."
 
-The Chief Purser—who had already received a radio call from Deck 4 Security reporting the disturbance—took one look at Dad's raw, red-rimmed eyes and one look at Katie and me struggling to stay upright on our feet, and immediately picked up a brass master key.
+The Chief Purser glanced down at the black security radio clipped to his lapel, took one look at Dad's raw, red-rimmed eyes and one look at Katie and me struggling to stay upright on our feet, and immediately picked up a brass master key.
 
-"Mr. Prairie, we hold two wheelchair-accessible contingency staterooms right off the Deck 6 midship elevators for medical and family safety emergencies," the Chief Purser said quietly. "I am placing a confidential Domestic Separation Flag on your manifest right now and moving you, Nathaniel, and Katie into Stateroom 6004. Only your three soda-package keycards will open that door, and our staff is strictly prohibited from disclosing your new cabin number to your wife."
+"Deck 4 Security just radioed up about the disturbance in the passageway, Mr. Prairie," the Chief Purser said quietly. "We hold two wheelchair-accessible contingency staterooms right off the Deck 6 midship elevators for medical and family safety emergencies. I am placing a confidential Domestic Separation Flag on your manifest right now and moving you, Nathaniel, and Katie into Stateroom 6004. Only your three soda-package keycards will open that door, and our staff is strictly prohibited from disclosing your new cabin number to your wife."
 
 Dad let out a long breath of pure relief, then glanced down at Katie's shaking ankles and mine.
 
@@ -727,13 +727,17 @@ Both Katie and I nodded immediately. Neither of us cared what strangers on a cru
 
 "Consider it done, sir," the Chief Purser replied. "I'll have the Medical Center bring two folding *SwiftChair* manual wheelchairs straight up to Stateroom 6004 while our stewards transfer your bags and your library books from Deck 4."
 
-Mom, true to form, did not go quietly when she returned to Cabin 4118 an hour later, found our duffel bags gone, and realized her keycard was still blocked at every bar on the ship.
+By five o'clock that afternoon, Dad, Katie, and I were safely upstairs inside Stateroom 6004—a wide, quiet room five steps from the elevator lobby with a clean double sofa bed that unfolded without a single obstacle and two folding manual wheelchairs waiting by the door.
 
-By six o'clock that evening, while Dad, Katie, and I were safely upstairs in Stateroom 6004—a wide, quiet room five steps from the elevator lobby with a clean double sofa bed that unfolded without a single obstacle—Mom stormed down to the Atrium Lobby and tried to climb over the Purser's counter screaming at the staff to tell her where we were and give her a drink. When she swung a fist at a Shipboard Security officer who stepped in to block her, the Staff Captain ordered her placed in the ship's brig down on Deck 2 for the remainder of the voyage.
+At seven-fifteen that evening, while Katie and I were sitting together on the sofa bed reading Dad's *Quantum Basic 5.0* library book, a polite knock sounded on our cabin door. When Dad opened it, the Chief Purser stood in the corridor with a clipboard under his arm.
 
-Because the *Sunward Tropics* had just cleared its final Caribbean port of call and was steaming north toward Florida, the next port where the ship could put her ashore was Port Canaveral, United States. Later that night, the Chief Purser stopped by Stateroom 6004 in person to check on the three of us and inform Dad that Brenda had been served with a permanent lifetime ban from *Sunward Cruise Lines*—banned from a cruise line yet again—while explicitly assuring Dad, Katie, and me that our names were completely clear and none of the three of us were excluded from sailing in the future.
+"I wanted to check on you and the twins in person, Mr. Prairie, and let you know that you won't have to worry about running into your wife on the decks for the rest of the voyage," the Chief Purser told Dad evenly, his voice carrying clearly to where Katie and I sat. "About an hour ago, Mrs. Prairie returned to Stateroom 4118, found your luggage gone, and came down to the Atrium Lobby after her keycard was declined at the Lido Bar. When we refused to disclose your new cabin number or unblock her alcohol privileges, she tried to climb over the Purser's counter and swung a fist at one of our Security officers. The Staff Captain has placed her in the ship's brig down on Deck 2."
 
-Not that any of the three of us ever wanted to set foot on a cruise ship again in the first place.
+Katie's hand tightened around mine on the sofa cushion as we listened.
+
+"Because we have already cleared our final Caribbean port of call and are steaming north," the Chief Purser continued, "she will remain in security custody until we dock at Port Canaveral on Saturday morning, where she will be escorted off the vessel and handed a permanent lifetime ban from *Sunward Cruise Lines*. I also want to assure you, Nathaniel, and Katie that your names are completely clear—none of the three of you are excluded from sailing with us in the future."
+
+ Dad thanked him quietly and closed the door. Mom had managed to get herself banned from a cruise line yet again—not that Dad, Katie, or I ever wanted to set foot on a cruise ship again in the first place.
 
 ***
 
@@ -753,29 +757,97 @@ Inside the main dining rooms tonight was Captain's Formal Night, where hundreds 
 
 "Mine either," I agreed, looking down at our three soda-sticker keycards resting together on the table next to Dad's library copy of *Quantum Basic 5.0*. For the first time all week, nobody was yelling, nobody was trying to force Katie to dance or shove us into a room with foam parrot mascots, and as the warm ocean breeze blew past the stern rail, the three of us talked for two straight hours about the programs we were going to write when we got home to Virginia Beach.
 
-### Part 4: Part 4: Back on Dry Land — The Reluctant Ride Home, The Divorce Lawyer, & Borrowed Time
+### Part 4: Part 4: Back on Dry Land & The Twelve-Hour Drive Up I-95
 
 **Date:** 2001-08-25 at 08:30 America/New_York
 
-![Inside a Virginia Beach primary care physician's exam room in late August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side on the exam bench holding hands while their father David Prairie stands beside them and the family doctor tests Nathaniel's arm and grip strength]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg)
+![Parked under pine trees at an Interstate 95 North rest and drive-thru stop in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in the back seat of their silver-blue Holt sedan holding hands with their father's Quantum Basic library book open across their laps while David Prairie hands them a paper lunch bag and cold sodas from the front seat]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_i95_drive_home_backseat_quantum_basic.jpg)
 
 #### Saturday, August 25, 2001, 8:30 AM — Back on Dry Land
 
-"Nathaniel. Katie. I'm sorry that your first cruise was wrecked, and somehow I want to make it up to both of you," Dad said earnestly as two crew members helped us transfer out of the ship's loaner wheelchairs onto the back bench seat of our Holt sedan at the Port Canaveral pickup curb. Resting a steady hand on each of our shoulders through the open door, Dad continued, "Here is what we will do: neither one of you wanted to go on that cruise, but your mother insisted. I want to finish school at CCHR so that I can do a better job at being a dad without having to worry about money as much."
+"Nathaniel. Katie. I'm sorry that your first cruise was wrecked, and somehow I want to make it up to both of you," Dad said earnestly as two crew members helped us transfer out of the ship's loaner wheelchairs onto the gray cloth back bench seat of our Holt sedan at the Port Canaveral pickup curb. Resting a steady hand on each of our shoulders through the open door, Dad continued, "Here is what we will do: neither one of you wanted to go on that cruise, but your mother insisted. I want to finish school at CCHR so that I can do a better job at being a dad without having to worry about money as much."
 
 Before Katie or I could answer him, an angry screech tore across the concrete baggage drop from behind us.
 
 "You! You told the ship to stop my drinks!"
 
-Our mother had just been escorted out of the customs terminal doors by two *Sunward Cruise Lines* security officers after being released from the ship's brig and handed her permanent lifetime ban paperwork. Her face was flushed dark red in the morning Florida heat as she stormed up to the rear fender of our car.
+Looking through the open rear doorway, I saw our mother being escorted out of the customs terminal doors by two *Sunward Cruise Lines* security officers after being released from the ship's brig, clutching a folded white sheet of permanent lifetime ban paperwork in her fist. Her face was flushed dark red in the morning Florida heat as she stormed up to the rear fender of our car.
 
-Every muscle in Dad's jaw tightened. If we had been anywhere near Hampton Roads, he would have handed her twenty dollars for a bus fare and driven away on the spot. Only because we were seven hundred miles from home—and because Dad was too decent a man to strand even his soon-to-be ex-wife on a sidewalk in Florida—he very reluctantly unlocked the front passenger door.
+Every muscle in Dad's jaw tightened as he straightened up beside our open door and looked at her.
 
-"Get in the front seat, Brenda, and don't say a single word to the kids for the next twelve hours," Dad told her in a voice as cold as steel. "The second this car pulls into our driveway in Virginia Beach, you are packing your bags and getting out of our house."
+"If we were anywhere near Hampton Roads right now, Brenda, I would hand you twenty dollars for a bus fare and leave you standing on this curb," Dad told her, his voice as cold and flat as steel. "The only reason I am unlocking this front door is because we are seven hundred miles from Virginia. Get in the front passenger seat, and don't say a single word to the kids for the next twelve hours. The second this car pulls into our driveway in Virginia Beach, you are packing your bags and getting out of our house."
 
-For all twelve hours up Interstate 95 North, Katie and I sat side by side in the back seat holding hands with Dad's *Quantum Basic* library book resting between us. And true to his word, the moment we pulled into the driveway in Virginia Beach that night, Dad stood watch in the foyer while Brenda packed her suitcases and left.
+Without waiting for her to reply, Dad closed our rear door securely, walked around to the driver's side, and pulled out of Port Canaveral toward Interstate 95 North.
 
 ***
+
+#### 12:15 PM — Exit 94 Near Savannah, Georgia: The Gas Pump, The Restrooms, & Brenda's First Angle
+
+For the first three and a half hours heading north out of Florida across the Georgia state line, the inside of the car was dead silent except for the hum of the tires and the air conditioner. In the back seat, Katie and I sat pressed shoulder-to-shoulder with our inner hands laced together and Dad's mylar-wrapped *Quantum Basic 5.0* library textbook resting across our knees.
+
+Just past noon, the low-fuel chime dinged on the dashboard, and Dad signaled right at Exit 94 near Savannah, pulling under the canopy of a highway travel plaza so we could get gas and use the restrooms.
+
+That stop was when the physical reality of leaving the ship hit Katie and me all over again.
+
+On Thursday and Friday aboard the *Sunward Tropics*, we had rolled everywhere in the Medical Center's two folding loaner wheelchairs. Those wheelchairs belonged to the ship, which meant they were still back at Port Canaveral. When Dad opened our rear door beside Pump 6 and I swung my sneakers out onto the ninety-degree Georgia concrete, my knees and calves trembled so violently that I had to grab the roof frame with both hands just to keep from sliding onto the pavement. Beside me, when Katie tried to push herself up off the bench cushion, the strength in her right forearm gave out halfway up, and she gasped softly as she sank back against the seat.
+
+Up front, Mom didn't even glance back at our door. She slammed the front passenger door shut and marched briskly across the concrete apron toward the air-conditioned travel store restrooms on her own.
+
+Dad saw us struggling immediately. Leaving the gas nozzle clicking in the tank, he stepped right between Katie and me, braced his left arm firmly around Katie's waist and his right hand under my elbow, and took half of our weight onto his own shoulders.
+
+"Take your time, kids—I've got both of you," Dad murmured close to our ears as he walked us slowly, step by shuffling step, across the hot pavement and up the curb ramp to the restroom hallway. He stood waiting right between the men's and women's doors until both of us came back out, then supported us all the way back to the back seat of the Holt before topping off the tank and paying at the window.
+
+When Mom finally strolled back out of the convenience store carrying a bottle of water and climbed into the front passenger seat, her furious scowl from Port Canaveral was suddenly gone. As Dad shifted into drive and merged back onto I-95 North, I heard her voice change into the syrupy, reasonable tone she always used whenever she wanted to pretend nothing bad had happened.
+
+"David, honey, look—let's be reasonable now that we're off that awful boat," Mom said, turning slightly toward him in the front seat. "Everybody gets a little carried away on vacation. That purser had it out for me from the moment we boarded, and those security guards completely overreacted. There's no reason to talk crazy about me packing bags when we get home."
+
+From the back bench seat, I watched Dad's knuckles turn white against the top of the steering wheel. In the rearview mirror, I saw his eyes flick briefly to Katie and me to make sure we were alright before he spoke without looking over at Mom.
+
+"You swung a fist at a ship security officer because they wouldn't serve you beer at four o'clock in the afternoon, Brenda," Dad said in a low, gravelly voice that carried clearly to the back seat. "And while you were passed out drunk on the kids' sofa bed, I had to hold our sixteen-year-old son and daughter up by their elbows because their legs and arms were giving out on them. Just five minutes ago at that gas pump, neither one of them could stand up out of the back seat without leaning on me, and you walked right past them without looking back. That wasn't 'vacation.' That was who you are."
+
+***
+
+#### 4:45 PM — Rocky Mount, North Carolina: Drive-Thru Dinner & Cementing the Lawyer Decision
+
+By quarter to five that afternoon, as the green highway signs ticked past Fayetteville and into Rocky Mount, North Carolina, the three of us were starving and needed another restroom stop.
+
+After Dad helped Katie and me carefully in and out of the roadside rest-area bathrooms just off the exit—where my wrists shook so badly I could barely push the heavy metal restroom door open by myself—Dad didn't make us walk inside a crowded highway sit-down restaurant and try to carry plastic food trays on trembling arms. Instead, he pulled the Holt sedan straight into the drive-thru lane of a *Penny's* hamburger restaurant next to the interstate ramp, ordered four cheeseburger meals, and parked in the quietest, shadiest corner of the lot beneath a row of tall loblolly pines.
+
+![Parked under pine trees at an Interstate 95 North rest and drive-thru stop in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in the back seat of their silver-blue Holt sedan holding hands with their father's Quantum Basic library book open across their laps while David Prairie hands them a paper lunch bag and cold sodas from the front seat]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_i95_drive_home_backseat_quantum_basic.jpg)
+
+Turning around in the driver's seat with a warm, protective look in his eyes, Dad handed a hot white paper bag of cheeseburgers and fries and two cold fountain colas—with the straws already popped through the plastic lids for us—back to Katie and me so we could eat comfortably right there on the bench seat with the *Quantum Basic 5.0* book propped between our knees.
+
+Up in the front passenger seat, as Mom unwrapped her burger, I heard her abandon the sweet talk and try a completely different angle—cold financial bargaining.
+
+"Think about this logically for two seconds, David," Mom said, her voice sharp and calculating in the quiet car. "You're taking classes at CCHR. How exactly do you think you're going to pay the house note in Virginia Beach, buy groceries, finish your degree, and take care of two sixteen-year-olds all by yourself without my income? Look—I'll cut back to drinking only on Friday and Saturday nights. We can put this behind us and go back to normal on Monday."
+
+Beside me on the back seat, Katie stopped chewing a fry and squeezed my right hand so hard her knuckles turned pale. Both of us held our breath, staring at the back of Dad's headrest.
+
+Instead of softening Dad, Mom's attempt to bargain with him did the exact opposite.
+
+I watched Dad slowly set his soda cup into the center console holder, turn his head squarely toward the passenger seat, and speak in a calm, ironclad voice I had never heard from him in my life.
+
+"Thank you for saying that out loud, Brenda—because if I had one percent of doubt left about seeking a lawyer's advice when we get home, you just erased it," Dad told her evenly. "You still think this is about 'one bad week,' and you haven't asked Nathaniel or Katie a single time in eight hours why their legs and arms are failing them. I don't care if I have to work double shifts around my CCHR classes to pay the bills. First thing Monday morning at eight-thirty, I am calling a divorce lawyer to file for divorce and full custody of the twins, and my very next call is going to be to Dr. Chen's office to get both of them examined. We are never going back to 'normal.'"
+
+Mom opened her mouth, saw the look on Dad's face, and snapped her jaw shut without another word for the rest of North Carolina and Virginia.
+
+***
+
+#### 9:15 PM — Home in Virginia Beach: Packing the Bags
+
+At nine-fifteen that night, after more than twelve hours on the road, the headlights of our Holt sedan finally swept across our driveway in Virginia Beach.
+
+Before touching a single suitcase in the trunk, Dad walked around to our rear door, helped Katie and me out of the back seat, and supported both of us up the front steps and straight inside to the living room sofa, propping two throw pillows behind our backs and setting his *Quantum Basic 5.0* library book on the coffee table within easy reach.
+
+Then, true to his word from Port Canaveral, Dad walked back out into the front foyer, folded his arms across his chest, and stood watch at the bottom of the stairs for forty-five straight minutes while Brenda packed her suitcases, dragged them out the front door to her car, and backed out of the driveway.
+
+When Dad clicked the front deadbolt shut and walked into the living room to check on us, our house was finally, mercifully peaceful.
+
+### Part 5: Part 5: Monday Morning in Virginia Beach — The Divorce Lawyer, The PCP, & Borrowed Time
+
+**Date:** 2001-08-27 at 10:15 America/New_York
+
+![Inside a Virginia Beach primary care physician's exam room in late August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side on the exam bench holding hands while their father David Prairie stands beside them and the family doctor tests Nathaniel's arm and grip strength]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg)
 
 #### Monday, August 27, 2001, 10:15 AM — The Divorce Lawyer, The PCP, & Borrowed Time
 
@@ -783,7 +855,7 @@ For all twelve hours up Interstate 95 North, Katie and I sat side by side in the
 
 Sitting side by side on the crinkly white paper of the padded exam table in our t-shirts and jeans, Katie and I kept our inner hands laced tightly together between our knees while I reached my left hand out to squeeze Dr. Chen's fingers.
 
-Earlier that morning at eight-thirty, Dad had kept the first half of his vow by calling a family law and divorce attorney off Independence Boulevard to file for divorce and full custody of Katie and me. His very next phone call had been to Dr. Chen, our Primary Care Physician, to request an urgent same-day examination after watching how badly our arms and legs had failed us on the cruise ship.
+Earlier that morning at eight-thirty, while Katie and I sat at the kitchen table eating cereal, we had listened as Dad stood by the kitchen wall phone and kept the first half of his highway vow—calling a family law and divorce attorney's office off Independence Boulevard to schedule an immediate intake appointment for divorce and full custody of the two of us. The moment he hung up with the lawyer's receptionist, Dad dialed Dr. Chen, our Primary Care Physician, and explained how badly our arms and legs had been giving out on the cruise and at the Interstate 95 rest stops. Dr. Chen's nurse had told him to bring both of us straight in at ten o'clock.
 
 ![Inside their Virginia Beach primary care physician's exam room, sixteen-year-old twins Katie and Nathaniel Prairie sit side by side on the exam table holding hands while their father David watches and Dr. Chen tests Nathaniel's forearm and hand grip strength]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg)
 
@@ -793,7 +865,7 @@ Dr. Chen stepped back, slipped her reflex hammer into the pocket of her white co
 
 "David," Dr. Chen said quietly, "bringing them in immediately after you got back from Florida was the exact right call."
 
-"They've had mild cerebral palsy since they were little," Dad said, his hand resting warmly on Katie's shoulder. "Brenda always ignored it and acted like they were two completely typical kids, so I assumed the ship's movement was just aggravating their balance. Why are both their arms and their legs getting worse at sixteen?"
+"They've had mild cerebral palsy since they were little," Dad said, his hand resting warmly on Katie's shoulder. "Brenda always ignored it and acted like they were two completely typical kids, so at first I assumed the ship's movement was just aggravating their balance. Why are both their arms and their legs getting worse at sixteen?"
 
 "Because cerebral palsy does not degenerate over time," Dr. Chen answered clearly, looking from Dad to Katie and me with deep compassion. "Cerebral palsy is a static, non-progressive condition. When sixteen-year-old twins begin losing measurable motor strength in both their lower extremities and their upper extremities over the course of a single summer, something else is happening."
 
