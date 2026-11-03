@@ -10,13 +10,13 @@ title: "Katie & Nathaniel"
 
 **Date:** 1994-05-18 at 15:30 America/New_York
 
-![Inside Nathaniel's deep-blue bedroom in Virginia Beach in 1994, eight-year-old fraternal twins Nathaniel and Katie Prairie with matching light platinum-blonde hair sit side by side on the carpeted floor in front of a 1990s CRT television and cable converter box, holding hands and smiling as their favorite afternoon cartoon theme plays]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/cartoon_afternoon_nathaniel_katie_1994.jpg)
+![Inside Nathaniel's deep-blue bedroom in Virginia Beach in 1994, nine-year-old fraternal twins Nathaniel and Katie Prairie with matching light platinum-blonde hair sit side by side on the carpeted floor in front of a 1990s CRT television and cable converter box, holding hands and smiling as their favorite afternoon cartoon theme plays]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/cartoon_afternoon_nathaniel_katie_1994.jpg)
 
 #### 3:30 PM — The Secret Password
 
 At three-thirty on a weekday afternoon, the upstairs hallway of our house in Virginia Beach was supposed to be quiet, and the only way to keep the outside world from following us inside was to lock the perimeter behind a password.
 
-Inside my deep-blue bedroom, I sat cross-legged on the dark low-pile carpet in front of the television stand, watching the red digital clock on the cable converter box tick from `3:28` to `3:29`. At eight years old, I didn't care what the other kids on our street were doing after the school bus dropped us off. School was six straight hours of scraping desks, unpredictable bells, and teachers who tried to seat fraternal twins on opposite sides of the hallway just because I was a boy and Katie was a girl.
+Inside my deep-blue bedroom, I sat cross-legged on the dark low-pile carpet in front of the television stand, watching the red digital clock on the cable converter box tick from `3:28` to `3:29`. Having just turned nine years old back on April eighth, I didn't care what the other kids on our street were doing after the school bus dropped us off. School was six straight hours of scraping desks, unpredictable bells, and teachers who tried to seat fraternal twins on opposite sides of the hallway just because I was a boy and Katie was a girl.
 
 By the time our sneakers hit the front porch, both of us needed the exact same reset.
 
@@ -30,7 +30,7 @@ The secret password was given. Immediately, I scrambled up off the carpet and sw
 
 Katie slipped inside, her long, straight platinum-blonde hair swinging past her shoulders as she pulled the door shut behind her until the latch clicked. We didn't need to explain to anyone else why we had a password for a room ten feet away from her own bedroom down the hall. Out in the rest of the house, the afternoon air was already heavy—Mom had locked her bedroom door at two o'clock with another headache and a glass from the kitchen cabinet, and Dad wouldn't be home from work until five-thirty to start dinner. Behind my closed door, however, the rules belonged entirely to the two of us.
 
-![Eight-year-old fraternal twins Nathaniel and Katie Prairie sitting side by side on the bedroom carpet in front of their CRT television and cable converter box during their afternoon cartoon block]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/cartoon_afternoon_nathaniel_katie_1994.jpg)
+![Nine-year-old fraternal twins Nathaniel and Katie Prairie sitting side by side on the bedroom carpet in front of their CRT television and cable converter box during their afternoon cartoon block]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/cartoon_afternoon_nathaniel_katie_1994.jpg)
 
 I rushed back across the carpet and pressed the power button on the front of the television and the cable converter box just as the Majestic Studios castle logo and the afternoon cartoon block bumper flashed across the curved glass tube.
 
@@ -46,7 +46,7 @@ Without letting go of my hand, Katie dropped down onto the carpet right beside m
 
 **Date:** 1994-07-12 at 08:45 America/New_York
 
-![Inside the 1994 Virginia Dominion University computer lab, eight-year-old platinum-blonde fraternal twins Nathaniel and Katie Prairie share a desktop computer at Terminal 5 right beside nine-year-old Michael Ragsdale and seven-year-old Rachel Ragsdale at Terminal 4, all wearing royal-blue VDU Summer Camp t-shirts]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/jul_1994_vdu_summer_camp_two_sibling_pairs_computer_lab.jpg)
+![Inside the 1994 Virginia Dominion University computer lab, nine-year-old platinum-blonde fraternal twins Nathaniel and Katie Prairie share a desktop computer at Terminal 5 right beside nine-year-old Michael Ragsdale and seven-year-old Rachel Ragsdale at Terminal 4, all wearing royal-blue VDU Summer Camp t-shirts]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/jul_1994_vdu_summer_camp_two_sibling_pairs_computer_lab.jpg)
 
 #### 8:45 AM — Two Pairs on Dominion Mall
 
@@ -98,7 +98,7 @@ Next to me at Terminal 4, Michael pushed his chair back six inches and looked at
 
 While Brad was kneeling beside the dot-matrix printer at the front of the room, Katie and Rachel slid off their chairs in perfect synchronization and walked three quiet steps side by side across the carpet.
 
-![Eight-year-old fraternal twins Nathaniel and Katie Prairie sharing Terminal 5 right beside nine-year-old Michael and seven-year-old Rachel Ragsdale at Terminal 4 inside the VDU computer lab]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/jul_1994_vdu_summer_camp_two_sibling_pairs_computer_lab.jpg)
+![Nine-year-old fraternal twins Nathaniel and Katie Prairie sharing Terminal 5 right beside nine-year-old Michael and seven-year-old Rachel Ragsdale at Terminal 4 inside the VDU computer lab]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/jul_1994_vdu_summer_camp_two_sibling_pairs_computer_lab.jpg)
 
 Rachel squeezed onto the right half of Michael's seat at Terminal 4, and Katie pulled the empty rolling chair from the end of the row right up against my right side at Terminal 5, her long platinum-blonde hair brushing my sleeve as she exhaled a long, quiet breath of relief.
 
@@ -155,7 +155,7 @@ Katie looked at me as we lowered our arms back into the warm water, a bright, tr
 
 **Date:** 1994-12-23 at 18:15 America/New_York
 
-![On a December 1994 evening in the downstairs living room in Virginia Beach, eight-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved winter flannel pajamas sit side by side under a warm quilt on the unfolded living-room sofa bed holding hands while their cousin Chelsea in flannel pajamas sits near the foot of the bed]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/christmas_1994_newport_news_station_sofa_bed_sanctuary.jpg)
+![On a December 1994 evening in the downstairs living room in Virginia Beach, nine-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved winter flannel pajamas sit side by side under a warm quilt on the unfolded living-room sofa bed holding hands while their cousin Chelsea in flannel pajamas sits near the foot of the bed]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/christmas_1994_newport_news_station_sofa_bed_sanctuary.jpg)
 
 #### 6:15 PM — The Newport News ARTS Platform
 
@@ -213,7 +213,7 @@ Before Chelsea could even blink, Katie spun her right back around by the shoulde
 
 "Promise," I replied, rubbing the bridge of my nose as we both climbed onto the left side of the wide sofa bed in our flannel pajamas and pulled the heavy winter quilt up to our chins.
 
-![Eight-year-old fraternal twins Nathaniel and Katie Prairie in full winter flannel pajamas holding hands under the quilt on the downstairs living-room sofa bed while cousin Chelsea sits in her pajamas near the foot of the bed]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/christmas_1994_newport_news_station_sofa_bed_sanctuary.jpg)
+![Nine-year-old fraternal twins Nathaniel and Katie Prairie in full winter flannel pajamas holding hands under the quilt on the downstairs living-room sofa bed while cousin Chelsea sits in her pajamas near the foot of the bed]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/christmas_1994_newport_news_station_sofa_bed_sanctuary.jpg)
 
 "You know Chelsea sometimes forgets the rules when she's in a different house," Katie whispered, leaning her head against my shoulder underneath the quilt and lacing her fingers through mine. "As long as we look out for each other down here, nobody upstairs is going to yell at anyone."
 
@@ -486,4 +486,80 @@ When we sat down side by side at the dining table over our steaming bowls of mac
 "I really appreciate that you both don't fight and argue with each other," Dad said quietly, his voice heavy with emotion. "Honestly, I wish your mother didn't drink her life away. I want to do my best to not only be your father, but also be a proper dad to both of you. Your mother's drinking is not your fault, and I don't want either of you to think that. Please don't let your grades suffer because of it."
 
 Underneath the edge of the dining table, Katie reached her hand over and laced her fingers tightly through mine, and I squeezed right back. Whatever happened upstairs, and whatever happened in the hallways at school, my twin sister and I had our sanctuary—and we were never letting go.
+
+# Sixteen & Summer Sanctuary
+
+## Bonding With My Sister
+
+### Summer Sanctuary: Hearthstone Pizza, The Sunlit Valley, & Katie's Room
+
+**Date:** 2001-06-18 at 08:30 America/New_York
+
+![Inside sixteen-year-old Katie Prairie's magenta-purple bedroom beneath the framed blue morpho butterfly artwork on the wall, fraternal twins Katie and Nathaniel Prairie sit propped up against the pillows on her green-and-gold bedspread in modest t-shirts and pajama pants, holding hands with Katie's arm draped warmly around Nathaniel's shoulders]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
+
+#### 8:30 AM — First Full Day of Summer
+
+"Summer is here," I said, blinking open my eyes as the warm June sunlight filtered through the blinds of Katie's bedroom.
+
+"Our first full day with the house to ourselves," my sister replied softly as we started waking up.
+
+Having both turned sixteen back on April eighth, the two of us were curled up side by side in our pajamas on top of her green-and-gold patterned bedspread beneath the framed blue morpho butterfly artwork hanging on her magenta-purple wall, completely used to being pretend dates and full-time anchors for each other. With both of our parents already gone for their morning shifts and two quiet weeks stretching ahead of us before Summer School started, the entire house was finally calm.
+
+Katie rubbed her eyes, then looked over at me and asked, "Get dressed and have breakfast?"
+
+"Sure, I am getting hungry," I replied, giving her hand a quick squeeze as I climbed out of bed.
+
+I stepped across the upstairs hallway into my own deep-blue painted bedroom to pull on a clean maroon crew-neck t-shirt and jeans while Katie changed in her room, and two minutes later we met right back at her doorway, exchanging a warm, familiar smile before making our way down the stairs together.
+
+"Let's just have some cereal, then we will figure out what we want to do for the day," I said as we reached the bottom landing. "I want to spend the day with just you."
+
+Our stomachs were calling us, as was our daily routine of taking our morning dose of medication before the day got underway. In the quiet kitchen, I pulled two ceramic bowls out from the cupboard and set our morning medication tablets beside two glasses of water while we picked out our cereal from the pantry—being twins, of course it was the exact same box—and sat down at the kitchen table, pulling our chairs right up against each other so we were as close as possible.
+
+After we took our morning medication and started on our cereal, my twin sister reached across the table, took my hand, and looked straight into my eyes.
+
+"What would you like to do today?" Katie asked.
+
+"I was thinking of snuggling on the sofa over a movie," I suggested as we continued eating our breakfast side by side.
+
+"I know just the movie I want to watch," my sister said, squeezing my hand. She gave me that unmistakable look like she had a big secret and started giggling. She wanted me to ask what movie it was, but after sixteen years as her twin brother, I knew she wouldn't tell me—I would have to wait and see what it was when she popped the tape into the VCR.
+
+Since I had made breakfast, Katie took it upon herself to carry our bowls and spoons over to the counter and load our dishes into the dishwasher.
+
+"I will get the tape, then will join you on the sofa," Katie called over her shoulder as I headed toward the living room.
+
+"Alright, Katie," I replied, settling onto the cushions of our tan-brown living room sofa. After a long sophomore year of noisy hallways and crowded classrooms, I was looking forward to finally having unbroken time with her in the couple of weeks before the rigors of Summer School began for the two of us.
+
+***
+
+#### 9:30 AM — *Hearthstone Pizza* & *Journey to the Sunlit Valley*
+
+A minute later, Katie walked into the living room holding a familiar white clamshell VHS tape behind her back, slid the cassette into the VCR beneath the television, and walked over to sit on the sofa right next to me.
+
+Immediately, she lifted her arm and made it clear she wanted me to snuggle up in her arms. I slid flush against her side and rested my head against her shoulder, glad that I got to curl up with Katie now that the two of us had become so close.
+
+Across the room, the CRT television flickered to life. My eyes lit up as the sweeping orchestral welcome theme to one of our favorite companies—*Majestic Studios*—played across the screen, and then my eyes lit up even further as the previews transitioned and I recognized the exact childhood VHS movie that my sister had put on for us: [*Journey to the Sunlit Valley*](https://books.raggiesoft.com/rachel/the-seattle-exodus/flight-to-the-pacific-northwest/the-vanguard-flight-the-sunlit-valley).
+
+"I knew you would like it," Katie whispered, resting her cheek against my hair as she looked down into my eyes.
+
+"Of course," I whispered back with a grin as the tape rolled through its iconic opening bumper before the feature presentation—the familiar, upbeat birthday party commercial from *Hearthstone Pizza* where the older brother was supposed to be nice to the little girl.
+
+We happily stayed curled up together on the cushions as Sprout and his friends began their journey across the screen, wanting nothing more than to sit there quietly in each other's arms watching the movie. Both of our parents were away at work, the house was completely peaceful, and we had decided that all we wanted was each other—just brother-and-sister time together in our sanctuary before Summer School was set to begin.
+
+***
+
+#### 9:00 PM — Katie's Room Beneath the Blue Butterfly
+
+By the time evening rolled around and the June twilight faded outside the living room windows, we had spent the entire day side by side without a single argument, a single raised voice, or a single interruption from the outside world.
+
+As we walked up the stairs together after dinner and paused on the second-floor landing between my blue-painted bedroom and her magenta-purple bedroom, Katie turned to me and took my hand.
+
+"Share a bed?" Katie asked softly.
+
+"Sure," I replied without hesitation. "Your room or mine?"
+
+"How about my room tonight," Katie suggested with a gentle smile.
+
+![Sixteen-year-old fraternal twins Katie and Nathaniel Prairie sitting side by side on Katie's green-and-gold bedspread beneath the framed blue morpho butterfly artwork in her magenta-purple bedroom, holding hands with Katie's arm around Nathaniel's shoulders]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
+
+After I stepped into my blue room to brush my teeth and change into a comfortable t-shirt and flannel pajama pants, I crossed the hall and knocked lightly on Katie's door. Inside her room, under the warm amber glow of the bedside lamp and the framed blue morpho butterfly on her wall, we climbed onto her bed together, propped our pillows against the headboard, and pulled the green-and-gold covers across our legs. Katie draped her arm around my shoulders and laced her fingers through mine, and as the house settled into quiet around us, we drifted off to sleep side by side.
 
