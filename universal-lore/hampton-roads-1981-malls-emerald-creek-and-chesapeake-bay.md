@@ -49,3 +49,4 @@ This universal lore reference locks in the architectural floor plans, 1981–200
 ### B. Narrative Role in *Katie & Nathaniel* (`books/katie`)
 - **The "Big Trip" Favorite Mall**: While Emerald Creek Mall is their one-bus neighborhood hangout, **Chesapeake Bay Mall** is Nate and Katie's favorite **"big trip" mall** (requiring a multi-bus transfer across Virginia Beach).
 - **Chronological Powerchair Milestone**: Nate and Katie went to both **Emerald Creek Mall** and **Chesapeake Bay Mall** all the time before their legs gave out in September 2001. As of October 2001 (`books/katie/e003/c004`), **they have not yet been to Chesapeake Bay Mall since getting their powerchairs**.
+
