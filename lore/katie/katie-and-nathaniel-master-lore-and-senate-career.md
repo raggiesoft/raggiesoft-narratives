@@ -19,7 +19,7 @@ This canonical lore dossier locks in the family tree, mobility/medical baseline,
   - **Medical Contraindication (`Katie`, `Nate`, & `David`)**: In addition to their personal sobriety vow, **Katie, Nate, and their father David all take a daily prescription medication where mixing with alcohol or tobacco has a known side effect of death**. In Washington, D.C. and Richmond, this gives Senator Katie Prairie, Nate, and David an ironclad, indisputable medical reason never to drink wine, champagne, or cocktails—or touch cigars/tobacco—with other Senators, lobbyists, or donors, always toasting strictly with ginger ale, soda, or coffee.
 
 - **Family & Cousin Canon**:
-  - **David Prairie (Dad)**: Hardworking single father who rents the single-story three-bedroom brick ranch with an aluminum front-porch wheelchair ramp just off **Military Highway (`US-13`) & Indian River Road** following the August 2001 separation/divorce from their alcoholic mother.
+  - **David Prairie (Dad)**: Hardworking single father (100% ambulatory—David walks on his own two feet and does NOT use a wheelchair) who rents the single-story three-bedroom brick ranch with an aluminum front-porch wheelchair ramp just off **Military Highway (`US-13`) & Indian River Road** following the August 2001 separation/divorce from their alcoholic mother.
   - **Aunt Elizabeth ("Aunt Liz") & Cousin Chelsea (`Paternal Cousin — Protected Adult Storyline`)**:
     - **Chelsea** is Dad's sister Aunt Liz's daughter (born ~1982, **three years older** than Nate and Katie).
     - **Chelsea is developmentally disabled** (`books/katie/e001/c003/p001.md`).

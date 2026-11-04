@@ -1606,7 +1606,7 @@ Besides the promise Katie and I had made to each other behind a locked bedroom d
 
 Up and down the aisle of the Business Class car, several lobbyists and congressional staffers in wool overcoats barely glanced up from their laptops, assuming every person dressed in a suit on a Sunday morning was staying aboard all the way into the cavernous concourse of Washington Union Station.
 
-When Katie, Dad, and I unlocked our wheelchair brakes, tucked our second round of complimentary Café Car paper cups into our armrest cupholders, and rolled toward the forward vestibule door as the brakes hissed to a stop beside the low-level red-brick platform of Alexandria Union Station, two passengers in the front row did a sudden double-take over the rims of their coffee cups.
+When Katie and I unlocked our wheelchair brakes, tucked our second round of complimentary Café Car paper cups into our armrest cupholders, and rolled toward the forward vestibule door with Dad walking right behind us carrying his garment bag as the train brakes hissed to a stop beside the low-level red-brick platform of Alexandria Union Station, two passengers in the front row did a sudden double-take over the rims of their coffee cups.
 
 "Wait a second," a woman in a camel wool coat whispered to her husband as the stainless-steel door slid open to the crisp forty-degree Virginia morning sunlight. "Isn't that Senator-Elect Katie Prairie? Why on earth is she getting off here at Alexandria instead of riding into Union Station?"
 
@@ -1620,7 +1620,7 @@ Here at Alexandria Union Station, right beneath the grassy slope of Shooter's Hi
 
 Because Alexandria had a low-level red-brick platform rather than a high-level concrete deck, a uniformed ARTS station attendant was already waiting right beside the track, wheeling the yellow-and-silver portable ARTS Mobile Lift flush against the open Business Class doorway.
 
-I rolled onto the steel platform of the mobile lift first. With a smooth hydraulic hum, the attendant lowered me three feet down from the train vestibule onto the herringbone red bricks of the Alexandria platform, where I backed clear and parked beside Dad.
+I rolled onto the steel platform of the mobile lift first. With a smooth hydraulic hum, the attendant lowered me three feet down from the train vestibule onto the herringbone red bricks of the Alexandria platform, where I backed clear and parked beside Dad, who had already walked down the vestibule steps onto the bricks.
 
 Then the attendant raised the lift platform back up to the open doorway for the new junior Senator from Virginia.
 
@@ -1636,7 +1636,7 @@ Standing in the open doorway between our ARTS Business Class coach and the adjac
 
 ![Forty-one-year-old Senator-Elect Katie Prairie and her twin brother Nate roll side by side in their compact SwiftChair power wheelchairs holding hands down the open-air red-brick platform of historic Alexandria Union Station with their proud father David walking beside them under the clear winter sky and the George Washington Masonic National Memorial on the hill]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_platform_to_king_st_metro_katie_nate_david.jpg)
 
-As the ARTS train sounded its horn and pulled away northward toward the Potomac River—carrying twenty empty seats Toward the television cameras and black government SUVs waiting in vain for us at Washington Union Station—Katie, Dad, and I headed down the sunlit red-brick platform of Alexandria Union Station together, leaving the railroad depot behind and following the outdoor brick pedestrian walkway over to the completely separate entrance of King Street–Old Town Metro Station.
+As the ARTS train sounded its horn and pulled away northward toward the Potomac River—carrying twenty empty seats toward the television cameras and black government SUVs waiting in vain for us at Washington Union Station—Katie and I rolled side by side down the sunlit red-brick platform of Alexandria Union Station with Dad walking right beside us, leaving the railroad depot behind and following the outdoor brick pedestrian walkway over to the completely separate entrance of King Street–Old Town Metro Station.
 
 ### Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution
 
@@ -1646,7 +1646,7 @@ As the ARTS train sounded its horn and pulled away northward toward the Potomac 
 
 #### Sunday, January 3, 2027, 9:25 AM — King Street–Old Town & The Yellow Line Over the Charles R. Fenwick Bridge
 
-"Excuse me—Senator-Elect Prairie!" a young man in a navy wool overcoat with a congressional staff ID lanyard around his neck called out as Katie, Dad, and I rolled out of the platform elevator onto the elevated concrete island platform at King Street–Old Town Station. "If you're heading to the Capitol for noon, don't get on that train—that's a Yellow Line train! The Blue Line on the other track goes straight to Capitol South without having to transfer!"
+"Excuse me—Senator-Elect Prairie!" a young man in a navy wool overcoat with a congressional staff ID lanyard around his neck called out as Katie and I rolled out of the platform elevator with Dad walking right beside us onto the elevated concrete island platform at King Street–Old Town Station. "If you're heading to the Capitol for noon, don't get on that train—that's a Yellow Line train! The Blue Line on the other track goes straight to Capitol South without having to transfer!"
 
 Katie and I looked at each other across our wheelchair armrests and laughed—the exact laugh of two people who had spent twenty-five years memorizing every route map, transfer pulse, and rail bridge from Coastal Virginia Transit Authority Route 15 on Military Highway to the Washington metropolitan grid.
 
@@ -1676,7 +1676,7 @@ When she tapped the screen to end the call, our dad chuckled, shaking his head a
 
 #### Sunday, January 3, 2027, 10:45 AM — "Nobody Crops My Powerchair Out of My Senate Portrait"
 
-Fifteen minutes after our Blue Line train let us off at Capitol South and we rode the street elevator up to the sunny sidewalk at First and C Streets Southeast, we rolled through the bronze doors of the Russell Senate Office Building and up to the third-floor corner suite overlooking the Capitol grounds for Katie's official Senate photograph.
+Fifteen minutes after our Blue Line train let us off at Capitol South and we rode the street elevator up to the sunny sidewalk at First and C Streets Southeast, Katie and I rolled through the bronze doors of the Russell Senate Office Building with Dad walking alongside us and headed up to the third-floor corner suite overlooking the Capitol grounds for Katie's official Senate photograph.
 
 Inside the high-ceilinged room with its dark mahogany wainscot paneling and classical cream pilasters, the official Senate historical photographer had already positioned the United States Flag with its gold fringe to the left of the tall arched window and the deep blue Flag of the Commonwealth of Virginia to the right, framing the white dome of the Capitol in the morning light directly behind the center mark on the marble floor.
 
@@ -1760,7 +1760,7 @@ Katie raised her left hand—calm, poised, and completely unbothered—stopping 
 
 Senator Harrington's genial smile paused mid-toast as he lowered his crystal tumbler half an inch. "Oh—nothing serious, I hope?"
 
-"All three of us take a daily prescription medication for our neuromuscular condition where mixing it with alcohol or tobacco has a known side effect of death," Katie replied with matter-of-fact serenity, her blue eyes steady and bright beneath the crystal chandelier.
+"All three of us take daily prescription medication where mixing it with alcohol or tobacco has a known side effect of death," Katie replied with matter-of-fact serenity, her blue eyes steady and bright beneath the crystal chandelier.
 
 Across the circle of velvet ropes and gilded mirrors, the silence was instantaneous.
 
@@ -1778,7 +1778,7 @@ As Katie, Dad, and I clinked our three glasses of ginger ale together in the cen
 
 #### Sunday, January 3, 2027, 6:15 PM — Across the Potomac & Through the King Street Tunnel to Sunset Drive
 
-At quarter past six that evening, while the winter sky over the National Mall deepened to indigo and the other newly sworn-in Senators climbed into waiting black town cars bound for Georgetown townhouses or Capitol Hill condominiums, the three of us rolled out of the Capitol South elevator with our CapitalPass cards in hand.
+At quarter past six that evening, while the winter sky over the National Mall deepened to indigo and the other newly sworn-in Senators climbed into waiting black town cars bound for Georgetown townhouses or Capitol Hill condominiums, Katie and I rolled out of the Capitol South elevator with Dad walking right beside us, our CapitalPass cards in hand.
 
 Riding the Blue Line two stops to L'Enfant Plaza and transferring up to the southbound Yellow Line platform took less than ten minutes. As our silver Yellow Line train glided back out onto the Charles R. Fenwick Bridge high above the dark, glass-smooth waters of the Potomac River, the illuminated white dome of the Capitol receded behind us and the lights of Alexandria rose ahead on the Virginia shore.
 
@@ -1786,11 +1786,11 @@ Riding the Blue Line two stops to L'Enfant Plaza and transferring up to the sout
 
 "Like I can finally breathe," Katie said, leaning her head back against her wheelchair headrest and letting out a long, contented sigh as the Yellow Line glided onto the elevated platform at King Street–Old Town Station. "Washington is where I work, Nate. Virginia is who we are."
 
-Stepping out of the station street elevator into the crisp thirty-eight-degree night air, we rolled past the glowing destination signs of the King Street Station bus loop—where DASH and Capital Transit buses were idling at the sawtooth curbs—and turned west along the wide, flat concrete sidewalk of King Street.
+Exiting the station street elevator into the crisp thirty-eight-degree night air, Katie and I rolled past the glowing destination signs of the King Street Station bus loop—where DASH and Capital Transit buses were idling at the sawtooth curbs—and turned west along the wide, flat concrete sidewalk of King Street with Dad walking alongside us.
 
 Immediately ahead of us stood the heavy dark-green steel girders and white-painted concrete retaining walls of the King Street railroad underpass, carrying the elevated tracks of both Alexandria Union Station and the King Street–Old Town Metro directly over the street.
 
-As Katie and I guided our two SwiftChairs side by side along the sidewalk beneath the short railroad bridge and emerged into the quiet residential glow on the west side of the tunnel, our new Northern Virginia sanctuary rose right on the left where Sunset Drive met the hill.
+As Katie and I guided our two SwiftChairs side by side along the sidewalk beneath the short railroad bridge with Dad walking at our side and emerged into the quiet residential glow on the west side of the tunnel, our new Northern Virginia sanctuary rose right on the left where Sunset Drive met the hill.
 
 It was a classic two-story red-brick Virginia house with black louvered shutters framing the multi-pane sash windows, two manicured round boxwood shrubs flanking a white columned front portico topped with a small white Chippendale railing, and a broad green lawn bordered by a shade tree just steps from the railroad overpass. Looking straight back over my shoulder from the front walkway, I could see the illuminated canopy of King Street–Old Town Metro Station and the upper-level rail embankment of Alexandria Union Station right across the bridge.
 
@@ -1812,7 +1812,7 @@ After the three of us heated up bowls of chicken noodle soup and toasted sourdou
 
 "Come on, Nate," Katie said, grinning over her shoulder even after sixteen hours awake since our 4:00 AM alarm in Virginia Beach. "Before we turn in, we still have to push the January 3rd schema update to our shared site network—and I want to test the new build in Quantum Studio 2026 while the night ARTS train rolls past the window."
 
-Riding the vertical platform lift up through the ceiling opening to the second-floor hallway—Katie first, then me—we rolled past the three upstairs doors that completed our four-bedroom layout.
+While Dad walked up the central carpeted staircase to meet us on the upper landing, Katie and I rode the vertical platform lift one at a time up through the ceiling opening to the second-floor hallway and rolled past the three upstairs doors that completed our four-bedroom layout.
 
 The first door on the left was Bedroom 2: officially designated as my bedroom whenever congressional staffers, plumbers, or visitors ever saw the upstairs floor plan, completely furnished with a neatly made full-sized bed, a cherrywood dresser, and a nightstand lamp—even though that bed went completely untouched every single night.
 
