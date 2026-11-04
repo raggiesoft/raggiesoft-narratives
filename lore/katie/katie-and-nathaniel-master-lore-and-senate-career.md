@@ -98,6 +98,13 @@ Katie Prairie's political career is sparked directly by a real-life 2008 Virgini
   - **The Yellow-to-Blue Line Shortcut (`King St–Old Town` $\rightarrow$ `L'Enfant Plaza` $\rightarrow$ `Capitol South`)**:
     - Although the **Capital Transit Blue Line** runs directly from `King St–Old Town` to `Capitol South`, taking the Blue Line all the way is the long way around via `Rosslyn` and `Foggy Bottom`.
     - Like true transit regulars, Senator Prairie and Nate tap their **`CapitalPass`** cards to board the **Capital Transit Yellow Line** at `King St–Old Town`, ride across the Potomac River over the **Charles R. Fenwick Bridge** into **`L'Enfant Plaza`**, and transfer to the **Blue Line** (or Orange/Silver Line) for the quick two-stop hop to **`Capitol South`**.
+  - **Senator Prairie's Statewide Constituent Transit Rule**:
+    - Throughout her tenure in the U.S. Senate, whenever Senator Katie Prairie visits constituents anywhere in the Commonwealth of Virginia (whether in Hampton Roads on **CVTA**, in Blacksburg/Roanoke on **Blue Ridge Transit (`BRT`)**, in Richmond, or in Northern Virginia on **Capital Transit / BOLT / ARC / Fairfax Link**), **she always rides that region's local public transit system as part of her constituent visit** so she experiences the buses, trains, lifts, ramps, and transfer schedules firsthand alongside everyday riders.
+  - **Swearing Her Oath on the Constitution (`Virginia Constitution` & `U.S. Constitution — "So help me, God!"`)**:
+    - Whenever Katie is sworn into Virginia state or municipal office (**Virginia Beach City Council**, **Virginia House of Delegates**, and **Senate of Virginia**), she famously insists on swearing her oath of office with her hand resting on a bound copy of the **Constitution of the Commonwealth of Virginia**.
+    - When she is sworn into the **United States Senate** on **January 3, 2027**, she famously swears her oath of office—ending with a ringing ***"So help me, God!"***—with her left hand resting on a bound leather copy of the **Constitution of the United States of America** held by her twin brother Nate.
+
+
 
 
 

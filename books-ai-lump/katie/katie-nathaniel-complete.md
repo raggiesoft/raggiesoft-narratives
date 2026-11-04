@@ -1559,3 +1559,175 @@ In seventh grade, when Chad had walked out on Katie and left her crying in the m
 
 Taking a long, steadying breath, I squeezed Katie's hand back and leaned my head against her shoulder until the shaking in my chest finally subsided—knowing beyond a shadow of a doubt that as we headed toward high school graduation and our adult lives together, the only person in the world I would ever completely trust was sitting right beside me.
 
+# The Senator from Virginia
+
+## First Train from Norfolk & Swearing In on the Constitution
+
+### Part 1: Three Business Class Tickets for Free Café Car Drinks & The Mobile Lift at Alexandria
+
+**Date:** 2027-01-03 at 05:00 America/New_York
+
+![Forty-one-year-old U.S. Senator-Elect Katie Prairie sits in her compact SwiftChair power wheelchair on the yellow-and-silver ARTS Mobile Lift outside the open ARTS Business Class door at Alexandria Union Station while her twin brother Nate in his matching powerchair holding a Café Car cup and their proud father David wait on the low-level red-brick platform below]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_arts_mobile_lift_senator_elect_katie_prairie.jpg)
+
+#### Sunday, January 3, 2027, 5:00 AM — Norfolk Station & Three Business Class Tickets for Free Café Car Drinks
+
+"Make sure you keep your receipt folded in your wallet, Katie—that Business Class barcode gets the three of us unlimited free ginger ale and hot coffee out of the Café Car all the way up to Alexandria," our sixty-eight-year-old dad said with a grin at five o'clock in the morning, holding his leather garment bag in one hand as the uniformed ARTS station attendant finished cranking our second compact SwiftChair power wheelchair up the yellow mobile lift into the warm stainless-steel vestibule at Norfolk Station.
+
+Outside on the low-level brick platform beside Harbor Park, the January predawn wind off the Elizabeth River was cold enough to turn our breath into white plumes under the station lamps. Inside the front end of the combined ARTS Business Class and Café Car, the air smelled like fresh-brewed dark roast coffee, warm baseboard heat, and polished vinyl headrests.
+
+It was Sunday, January 3, 2027—Opening Day of the One Hundred Twentieth Congress of the United States. In exactly seven hours, at twelve o'clock noon in the Chamber of the United States Senate in Washington, D.C., my forty-one-year-old twin sister was going to raise her right hand and be sworn in as the newest United States Senator from the Commonwealth of Virginia.
+
+Four days earlier, on Wednesday afternoon, a polite young protocol liaison from the Office of the Senate Sergeant at Arms had called our transition office in Virginia Beach to ask which flight Senator-Elect Katie Prairie was taking into Reagan National Airport, or whether Capitol Police needed to stage a black SUV motorcade at the VIP circular drive outside Washington Union Station.
+
+Katie had looked across her desk at me, smiled, and given the young man the unvarnished truth.
+
+*"Neither,"* my sister had told him over the speakerphone. *"My brother Nate, my dad, and I are taking the first morning ARTS Northeast Regional train out of Norfolk at five o'clock in the morning."*
+
+Because almost nobody inside the Washington beltway bubble could imagine a newly elected United States Senator navigating rail and subway transfers in a power wheelchair without a dozen handlers, every single person in the Sergeant at Arms office—along with two dozen national television producers who caught wind of her travel plans—had automatically assumed she meant she was riding the train all the way to the end of the line at Washington Union Station.
+
+They didn't know our dad, and they definitely didn't know Katie and me.
+
+Two weeks after Election Night, when Dad had sat down at his kitchen table with his reading glasses on to book our rail tickets for Swearing-In Day on his own credit card, he hadn't booked us to Washington Union Station at all. He had purchased three regular passenger Business Class tickets from Norfolk to Alexandria—station code ALX—on the first train of the morning.
+
+And as Katie and I locked the brakes of our two compact silver-and-black SwiftChair power wheelchairs side by side in the dual accessible bays at the front of the Business Class cabin while Dad hung her pressed royal-blue Senatorial suit bag on the luggage hook, neither one of us was thinking about VIP motorcades.
+
+"First things first before we even cross the river into Suffolk," Katie said, her blue eyes crinkling with the exact same delight she had worn at sixteen on the aft deck of the *Sunward Tropics* with her souvenir soda tumbler as she held up her paper Business Class ticket stub. "Nate, are we getting our free Café Car ginger ales right now, or are we waiting until the conductor scans our tickets?"
+
+"The Café Car attendant just rolled the security grille up on the counter thirty feet behind us," I replied, reaching across the gap between our armrests to squeeze my twin sister's hand as the diesel locomotive gave two low horn blasts and the train glided smoothly away from the Norfolk platform into the dark winter morning. "Let's go get our free ginger ales and Dad's black coffee right now so we get our money's worth before Petersburg."
+
+***
+
+#### Sunday, January 3, 2027, 9:12 AM — Detraining on the Mobile Lift at Alexandria Union Station
+
+"Next stop, Alexandria—ALX!" the conductor announced over the passenger intercom at ten minutes past nine as our Northeast Regional train slowed past the brick rowhouses and bare winter trees of Northern Virginia. "Passengers detraining at Alexandria, please step toward the vestibule doors. After Alexandria, our final stop will be Washington Union Station in approximately twenty-five minutes."
+
+Up and down the aisle of the Business Class car, several lobbyists and congressional staffers in wool overcoats barely glanced up from their laptops, assuming every person dressed in a suit on a Sunday morning was staying aboard all the way into the cavernous concourse of Washington Union Station.
+
+When Katie, Dad, and I unlocked our wheelchair brakes, tucked our second round of complimentary Café Car paper cups into our armrest cupholders, and rolled toward the forward vestibule door as the brakes hissed to a stop beside the low-level red-brick platform of Alexandria Union Station, two passengers in the front row did a sudden double-take over the rims of their coffee cups.
+
+"Wait a second," a woman in a camel wool coat whispered to her husband as the stainless-steel door slid open to the crisp forty-degree Virginia morning sunlight. "Isn't that Senator-Elect Katie Prairie? Why on earth is she getting off here at Alexandria instead of riding into Union Station?"
+
+Katie heard every word, and as she glanced back at me over her shoulder, the two of us shared a quiet, unmistakable twin grin.
+
+There were two reasons we were getting off at Alexandria, and every single person who actually lived on the rails and buses of Virginia understood both of them by heart.
+
+First, for two autistic forty-one-year-olds who had spent our entire lives managing sensory noise so we could stay sharp for the work that mattered, Washington Union Station was an echoing, cavernous sensory ambush—twenty tracks of screeching steel flanges under a vaulted ceiling, booming public-address announcements bouncing off marble columns, and a slow, twenty-five-minute train crawl across the Long Bridge and through the dark First Street Tunnel before you even reached the platform.
+
+Here at Alexandria Union Station, right beneath the grassy slope of Shooter's Hill and the stepped stone tower of the George Washington Masonic National Memorial, the 1905 Federal Revival red-brick depot was small, open-air, quiet, and calm.
+
+Because Alexandria had a low-level red-brick platform rather than a high-level concrete deck, a uniformed ARTS station attendant was already waiting right beside the track, wheeling the yellow-and-silver portable ARTS Mobile Lift flush against the open Business Class doorway.
+
+I rolled onto the steel platform of the mobile lift first. With a smooth hydraulic hum, the attendant lowered me three feet down from the train vestibule onto the herringbone red bricks of the Alexandria platform, where I backed clear and parked beside Dad.
+
+Then the attendant raised the lift platform back up to the open doorway for the new junior Senator from Virginia.
+
+![Forty-one-year-old U.S. Senator-Elect Katie Prairie sits in her compact SwiftChair power wheelchair on the yellow-and-silver ARTS Mobile Lift outside the open ARTS Business Class door at Alexandria Union Station while her twin brother Nate in his matching powerchair holding a Café Car cup and their proud father David wait on the low-level red-brick platform below]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_arts_mobile_lift_senator_elect_katie_prairie.jpg)
+
+Standing in the open doorway between our ARTS Business Class coach and the adjacent ARTS Café Car, the attendant held the yellow safety rail steady as Katie steered her compact SwiftChair onto the elevated metal platform, her royal-blue Senatorial blazer gleaming beneath her open navy wool winter coat. Down on the red-brick platform, three morning commuters in winter jackets and knit caps stopped dead in their tracks, their eyes widening in disbelief as they recognized the woman descending on the hand-operated station lift.
+
+"Morning, folks!" Katie called out warmly from the lift platform as the attendant lowered her smoothly down to the bricks beside my chair. "Beautiful morning for a train ride up from Norfolk, isn't it?"
+
+"Senator-Elect Prairie!" a commuter in a puffy down jacket stammered, pulling his smartphone out of his pocket with a huge grin as Katie rolled off the yellow ramp lip onto the red-brick platform right beside me. "Are you taking the train to your own swearing-in?!"
+
+"Every single week the Senate is in session," Katie replied cheerfully, reaching her left hand across the gap between our two wheelchairs to lace her fingers through mine while she held her plastic CapitalPass transit card ready in her right hand. "And my brother Nate and our dad wouldn't miss the first ride for the world."
+
+![Forty-one-year-old Senator-Elect Katie Prairie and her twin brother Nate roll side by side in their compact SwiftChair power wheelchairs holding hands down the open-air red-brick platform of historic Alexandria Union Station with their proud father David walking beside them under the clear winter sky and the George Washington Masonic National Memorial on the hill]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_platform_to_king_st_metro_katie_nate_david.jpg)
+
+As the ARTS train sounded its horn and pulled away northward toward the Potomac River—carrying twenty empty seats Toward the television cameras and black government SUVs waiting in vain for us at Washington Union Station—Katie, Dad, and I headed down the sunlit red-brick platform of Alexandria Union Station together, leaving the railroad depot behind and following the outdoor brick pedestrian walkway over to the completely separate entrance of King Street–Old Town Metro Station.
+
+### Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution
+
+**Date:** 2027-01-03 at 09:25 America/New_York
+
+![Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait.jpg)
+
+#### Sunday, January 3, 2027, 9:25 AM — King Street–Old Town & The Yellow Line Over the Charles R. Fenwick Bridge
+
+"Excuse me—Senator-Elect Prairie!" a young man in a navy wool overcoat with a congressional staff ID lanyard around his neck called out as Katie, Dad, and I rolled out of the platform elevator onto the elevated concrete island platform at King Street–Old Town Station. "If you're heading to the Capitol for noon, don't get on that train—that's a Yellow Line train! The Blue Line on the other track goes straight to Capitol South without having to transfer!"
+
+Katie and I looked at each other across our wheelchair armrests and laughed—the exact laugh of two people who had spent twenty-five years memorizing every route map, transfer pulse, and rail bridge from Coastal Virginia Transit Authority Route 15 on Military Highway to the Washington metropolitan grid.
+
+"Sure, you can take the Blue Line straight through to Capitol South," Katie told the young staffer warmly as the silver Capital Transit Yellow Line train glided up to the platform edge and its pneumatic doors chimed open level with the concrete sill. "If you want to take the long way all the way around through Crystal City, Rosslyn, and Foggy Bottom! We're taking the Yellow Line straight across the Charles R. Fenwick Bridge to L'Enfant Plaza and hopping the Blue Line two stops to Capitol South. Come on—you'll beat your Blue Line train to the Hill by twelve minutes!"
+
+Blinking in surprise as he did the mental map calculation, the staffer grinned and stepped into the Yellow Line car right behind Dad as Katie and I rolled our two SwiftChairs into the center wheelchair bays.
+
+Nine minutes later, right after our train sped past Reagan National Airport and the Pentagon, the tunnel walls fell away and our Yellow Line car burst out into the brilliant January morning sunlight high above the Potomac River on the Charles R. Fenwick Bridge.
+
+Through the wide glass window beside our wheelchairs, the entire skyline of the capital opened up across the sparkling water: the white marble colonnade of the Jefferson Memorial in the foreground, the towering obelisk of the Washington Monument to the left, and straight ahead on Jenkins Hill, the cast-iron dome of the United States Capitol gleaming against the clear blue winter sky.
+
+Right inside the middle of that span over the river, Katie's phone buzzed inside her coat pocket.
+
+She glanced at the caller ID—*Office of the Senate Sergeant at Arms*—and tapped the speaker button just loud enough for Dad and me to hear over the rhythmic click of the welded rail joints beneath the bridge.
+
+"Senator-Elect Prairie?" the protocol liaison's voice came through the speaker, breathless and slightly panicked. "Ma'am, I'm standing here with the Capitol Police detail and the press pool at Gate D inside Washington Union Station! The five o'clock ARTS train from Norfolk just pulled onto the track two minutes ago, and the conductor told us you got off the train back in Virginia! Are you alright? Do we need to send a car down the George Washington Parkway to pick you up?"
+
+"Put your SUVs back in the garage, Marcus—we're completely fine," Katie said, her voice calm and ringing with good humor as our Yellow Line train glided off the north end of the Charles R. Fenwick Bridge and dove into the tunnel beneath Seventh Street toward L'Enfant Plaza. "Washington Union Station is way too loud and crowded for my brother and me, and the ARTS train takes twenty-five minutes just to crawl from Alexandria into the terminal. We got off on the mobile lift at Alexandria, walked over to King Street–Old Town, and rode the Yellow Line across the Charles R. Fenwick Bridge. We're pulling into the lower level at L'Enfant Plaza right now to catch the Blue Line two stops to Capitol South—we'll see you at the First Street entrance in ten minutes!"
+
+When she tapped the screen to end the call, our dad chuckled, shaking his head as he braced one hand on the stainless-steel grab pole beside us.
+
+"You two just outran a Capitol Police motorcade and twenty television vans on a three-dollar CapitalPass card," Dad said proudly.
+
+"And we're going to keep doing it for the next six years, Dad," Katie said, looking from Dad to me as the doors opened at L'Enfant Plaza and we rolled smoothly out onto the lower-level platform toward the elevator up to the Blue Line track. "When we started *Ideas for Coastal Virginia Transit* back in 2008 and realized we couldn't even stay past five-thirty at the Virginia Beach Municipal Center for a six o'clock City Council meeting because the last Route 12 left CCHR at 5:48 PM, I promised myself I would never turn into one of those politicians who only sees Virginia through the tinted window of a town car. Every single time I visit constituents anywhere in the Commonwealth as their United States Senator—whether it's CVTA back home in Hampton Roads, Blue Ridge Transit down at CPI in Blacksburg, or Capital Transit up here in Northern Virginia—we are riding that community's public transit system as part of the visit."
+
+***
+
+#### Sunday, January 3, 2027, 10:45 AM — "Nobody Crops My Powerchair Out of My Senate Portrait"
+
+Fifteen minutes after our Blue Line train let us off at Capitol South and we rode the street elevator up to the sunny sidewalk at First and C Streets Southeast, we rolled through the bronze doors of the Russell Senate Office Building and up to the third-floor corner suite overlooking the Capitol grounds for Katie's official Senate photograph.
+
+Inside the high-ceilinged room with its dark mahogany wainscot paneling and classical cream pilasters, the official Senate historical photographer had already positioned the United States Flag with its gold fringe to the left of the tall arched window and the deep blue Flag of the Commonwealth of Virginia to the right, framing the white dome of the Capitol in the morning light directly behind the center mark on the marble floor.
+
+As Katie unbuttoned her heavy winter wool coat and handed it to Dad—revealing her tailored royal-blue Senatorial suit blazer with the small gold circular United States Senate pin gleaming on her left lapel—she steered her compact SwiftChair onto the tape mark between the two flags and rested her right hand naturally on her joystick controller.
+
+Behind the studio umbrella lights, the photographer squinted through the viewfinder of his camera and immediately reached for the crank on his heavy aluminum tripod, raising the lens higher and zooming the barrel inward.
+
+"Alright, Senator-Elect, let's bring the frame in nice and tight from the mid-chest up so we match the standard head-and-shoulders portraits down the corridor," the photographer said briskly. "If you could just fold your hands slightly higher near your lapel so the armrests don't—"
+
+"Stop right there, please," Katie said—not unkindly, but with the unmistakable, quiet authority that had once silenced committee rooms in Richmond and bullies in the hallways of Northwood High School.
+
+The photographer's hand froze on the zoom ring.
+
+"Lower the tripod back down and step back six feet so the entire wheelchair is in the frame from my head down to the wheels and the footplate," Katie instructed him, sitting tall and poised between the two flags. "My twin brother Nate and I have rolled in these compact SwiftChairs from the moment we woke up until we went to bed since the third Friday of September in 2001 when we were sixteen years old. I didn't hide my wheelchair when I knocked on doors for Virginia Beach City Council, I didn't hide it in the House of Delegates or the Senate of Virginia, and nobody is cropping my powerchair out of my United States Senate portrait."
+
+![Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait.jpg)
+
+From the doorway beside Dad, I watched the photographer blink once, nod with genuine respect, lower his tripod to waist height, and step back across the marble floor until every inch of my sister's silver-and-black SwiftChair was framed proudly between the Stars and Stripes and the Seal of Virginia.
+
+When the studio strobes flashed against the mahogany walls and Katie smiled straight into the lens with her right hand resting on her joystick controller, my throat tightened with a pride so fierce I could barely swallow.
+
+***
+
+#### Sunday, January 3, 2027, 12:00 PM — Swearing In on the Constitution of the United States of America
+
+At two minutes before twelve o'clock noon—after riding the subterranean United States Capitol Subway together beneath Constitution Avenue—Dad and I took our places at the front brass railing of the Senate Family Gallery directly above the floor of the United States Senate Chamber.
+
+Looking down from the gallery bay where my wheelchair brakes were locked beside Dad's polished dress shoes, I could see the entire semicircle of one hundred mahogany desks arranged across the blue carpet below us. On the far aisle of the Democratic side, the Sergeant at Arms carpenters had already modified Senator Katie Prairie's assigned mahogany desk—widening the aisle clearance and removing the fixed chair base so her compact SwiftChair rolled seamlessly beneath the desktop.
+
+At precisely 12:00 PM, the heavy ivory gavel came down on the marble rostrum, calling the One Hundred Twentieth Congress of the United States to order.
+
+As the Reading Clerk began calling the Newly Elected Senators forward to the well in alphabetical groups of four—*"Ms. Prairie of Virginia..."*—Dad reached over and gripped my shoulder with a steady, calloused hand.
+
+In the span of three heartbeats, forty-one years of our lives flashed behind my eyes: two nine-year-old twins whispering our *Journey to the Sunlit Valley* cartoon password before unlocking the front door after school; two twelve-year-olds wearing matching maroon shirts on Twins' Day when a sixth-grade boy broke my sister's heart; two sixteen-year-olds learning in Dr. Chen's exam room that the borrowed time in our legs was almost gone; two seventeen-year-olds wedging a fifty-pound power wheelchair against the inside of a locked bedroom door on New Year's Eve while we ate dry toasted oat cereal out of a cardboard box to stay safe from a house full of drunks; and two twenty-three-year-olds holding a camcorder on a CVTA Route 15 bus crossing the Elizabeth River as we exposed why working people couldn't even catch a bus home from a six o'clock City Council meeting.
+
+Down on the blue carpet of the Senate Chamber, Katie didn't need stairs. She nudged her right thumb forward on her joystick, rolled her compact SwiftChair smoothly down the newly installed permanent ramp along the chamber aisle into the well of the Senate, and raised her right hand toward the rostrum.
+
+Fifteen minutes later, as the applause from the galleries echoed through the Capitol corridors, the elevator doors brought Dad and me down to the historic Old Senate Chamber for the individual ceremonial swearing-in with the Vice President of the United States.
+
+Every time Katie had ever taken an oath of office back home in Virginia—first on the Virginia Beach City Council, then in the Virginia House of Delegates, and then in the Senate of Virginia in Richmond—she had famously insisted on swearing her oath on a bound copy of the Constitution of the Commonwealth of Virginia.
+
+To my sister's clear, literal, fiercely principled mind, if the oath required you to swear to support and defend the Constitution, then your left hand belonged on the exact document you were promising to defend.
+
+Now, as Dad and I positioned ourselves right beside her in the center of the crimson-and-gold Old Senate Chamber while the Vice President stepped up with the oath card, I held out the thick, gold-stamped navy leather volume Dad had bought for her at the National Archives gift shop that morning: *The Constitution of the United States of America*.
+
+Holding the leather-bound Constitution steady on my lap tray at exact wheelchair height between our two chairs, I looked into my twin sister's blue eyes as she placed her left palm squarely on the gold lettering of *We the People* and raised her right hand high.
+
+*"Do you solemnly swear that you will support and defend the Constitution of the United States against all enemies, foreign and domestic; that you will bear true faith and allegiance to the same; that you take this obligation freely, without any mental reservation or purpose of evasion; and that you will well and faithfully discharge the duties of the office on which you are about to enter: So help you God?"* the Vice President asked.
+
+Katie's voice rang out clear, steady, and unshakeable across the historic chamber:
+
+*"I do—so help me, God!"*
+
+As the shutters of the Senate photographers clicked in a rapid burst of white light and the Vice President shook her hand—"Congratulations, Senator Prairie"—Katie turned her head toward me first.
+
+Right there on the floor of the Old Senate Chamber, with the Constitution of the United States resting between our two compact power wheelchairs and our father's hands resting proudly on both of our shoulders, United States Senator Katie Prairie slipped her left hand across our armrests and laced her fingers tightly through mine—proving to the entire country what the two of us had known since the day we were born: twin brothers and twin sisters never leave each other behind.
+
