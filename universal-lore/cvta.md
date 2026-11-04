@@ -53,4 +53,20 @@ Based on the historical 2001–2002 HRT Route 15 schedule, **CVTA Route 15** ser
         *   Passes **Military Hwy. & Indian River Rd.** **13 minutes later** at **`:31` and `:01` past the hour** (`6:31 AM`, `7:01 AM`, `7:31 AM`, ..., `6:31 PM`, then hourly at `:31` until `10:31 PM`).
         *   Arrives at **Glenrock Mall** (*Military Circle*) **14 minutes later** at **`:45` and `:15` past the hour**, and reaches **Naval Base Norfolk / Navy Exchange Mall** at **`:30` and `:00`**.
 
+### The 2008 Virginia Beach Mayoral Bus Loop (`#29` $\rightarrow$ `#20` $\rightarrow$ `#15` $\rightarrow$ `#12`) & The Route `#33` Municipal Center Evening Curfew
+Based on the real-life 2008 *Ideas for Hampton Roads Transit* mayoral bus ride filmed by Michael P. Ragsdale (where all four 2008 Virginia Beach mayoral candidates were invited to ride the bus, and only candidate Scott Taylor accepted):
+
+*   **In-Universe Blog Name:** ***Ideas for Coastal Virginia Transit***
+*   **The 4-Bus Virginia Beach / Norfolk Loop & The Expired 2-Hour Transfer Window:**
+    1.  **Start at CCHR (*Community College of Hampton Roads*, Virginia Beach Campus — real-life *TCC Virginia Beach*):** Board **CVTA Route #29** (later renumbered `#26`) from **CCHR** north/east to **Hilltop**.
+    2.  **Transfer at Hilltop to Route #20:** Ride **CVTA Route #20** westbound along Virginia Beach Boulevard all the way to **Glenrock Mall** (*Military Circle Mall* in Norfolk). *(Includes a memorable encounter on board the `#20` with a Spanish-speaking citizen, where the candidate speaks Spanish right back to the rider.)*
+    3.  **Transfer at Glenrock Mall to Route #15:** Ride **CVTA Route #15** southbound down **US-13 (`Military Highway`)**, filming on board the bus as it crosses the **Eastern Branch of the Elizabeth River** from Norfolk back into Virginia Beach via US-13 southbound.
+    4.  **Transfer from Route #15 to Route #12 back to CCHR:** Board **CVTA Route #12** to return to **CCHR**—at which point the **2-hour transfer time limit has already expired**, forcing a cash-fare rider to **pay a second full fare** just to finish a single loop back to their starting point (while daily regular riders carry a **30-day pass**).
+*   **Route `#33` & The 6:00 PM Virginia Beach City Council Meeting Catch-22:**
+    *   Because the majority of CVTA routes in Virginia Beach stop running around **6:00 PM**, a transit-dependent citizen **cannot attend a 6:00 PM Virginia Beach City Council meeting** at the **Municipal Center** without getting stranded:
+        *   **Northbound from Municipal Center (Route `#33`):** The last **Route #33** going all the way to **68th Street** departs at **`6:01 PM`**, and the **`7:01 PM`** trip goes only as far as **19th Street** at the Oceanfront.
+        *   **Heading Toward the CCHR Hub (Route `#33`):** The last **Route #33** to **CCHR** departs the Municipal Center at **`6:33 PM`** (at which hour the *only* connecting bus left at CCHR is **Route #36**).
+        *   **The `5:30 PM` / `5:33 PM` Connecting Deadline & The `5:48 PM` Last Route `#12` for Katie & Nate:** If a citizen needs to connect at the **CCHR** hub to **Routes #12, #25, #29, or #36** to get home, they **must leave the Municipal Center on the `5:30 PM` (`5:33 PM`) Route #33**—nearly thirty minutes *before* the `6:00 PM` City Council session even begins. Specifically for **Katie and Nathaniel Prairie** (who live off **Military Highway & Indian River Road**), they need **Route #33** at `5:30 PM` / `5:33 PM` from the Municipal Center to catch **Route #12** at CCHR back to Military Highway—because the **last Route #12 from CCHR departs at `5:48 PM`** (twelve minutes before the `6:00 PM` City Council meeting even starts!).
+
+
 
