@@ -86,3 +86,15 @@ Katie Prairie's political career is sparked directly by a real-life 2008 Virgini
 - **Campaign & Narrative Payoff (`pov: "Nathaniel"`)**:
   - When Virginia's senior Democratic U.S. Senator announces their retirement ahead of the 2026 cycle, State Senator Katie Prairie launches a grassroots statewide campaign powered by Nate's data architecture and fifteen years of fighting for working-class and disabled Virginians.
   - Throughout the entire political arc—from the CCHR bus loop in 2008 to City Hall, Capitol Square in Richmond, the Election Night headquarters on **November 3, 2026**, and the U.S. Capitol subway and Senate floor in Washington, D.C.—the story is told through **Nathaniel's eyes**, proving that the twin brother and sister who once hid behind a locked bedroom door with a box of dry cereal on New Year's Eve never left each other behind.
+
+### Step 5: Senator Prairie's Signature Commute (`ARTS` to `ALX` $\rightarrow$ Capital Transit Yellow Line Over the Charles R. Fenwick Bridge $\rightarrow$ `L'Enfant Plaza` $\rightarrow$ Blue Line to `Capitol South`)
+- **The "Amtrak Joe" Parallel with Autistic Sensory & Transit-Insider Precision**:
+  - Rather than isolating herself inside the Washington beltway bubble or riding in black SUVs up I-95, **U.S. Senator Katie Prairie (`D-Virginia`)** commutes regularly by rail on the **ARTS (*American Rail Transit Service*) Northeast Regional** from **Norfolk (`NFK`)** alongside Nate.
+  - **Why She Switches at `ALX` (*Alexandria*) Instead of `WAS` (*Washington Union Station*)**:
+    - Because Katie and Nate are autistic, they strongly prefer **Alexandria (`ALX`)** over the cavernous, echoing, crowded sensory overload of **Washington Union Station (`WAS`)** (and skipping `WAS` also avoids the slow train crawl across the Long Bridge and through the First Street Tunnel).
+    - At **`ALX`**, commuters regularly do a double-take on the brick platform (*"Wait—is that Senator Prairie getting off the ARTS train?"*) as Katie and Nate roll their compact `SwiftChair` power wheelchairs off the train ramp and transfer directly to the adjacent **`King St–Old Town`** Capital Transit Metro station.
+  - **The Yellow-to-Blue Line Shortcut (`King St–Old Town` $\rightarrow$ `L'Enfant Plaza` $\rightarrow$ `Capitol South`)**:
+    - Although the **Capital Transit Blue Line** runs directly from `King St–Old Town` to `Capitol South`, taking the Blue Line all the way is the long way around via `Rosslyn` and `Foggy Bottom`.
+    - Like true transit regulars, Senator Prairie and Nate tap their **`CapitalPass`** cards to board the **Capital Transit Yellow Line** at `King St–Old Town`, ride across the Potomac River over the **Charles R. Fenwick Bridge** into **`L'Enfant Plaza`**, and transfer to the **Blue Line** (or Orange/Silver Line) for the quick two-stop hop to **`Capitol South`**.
+
+

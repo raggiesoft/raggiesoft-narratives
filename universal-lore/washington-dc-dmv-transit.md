@@ -22,3 +22,14 @@ The DMV region maintains its highly fragmented transit network, all linked by th
 *   **DRE (Dominion Railway Express):** The in-universe counterpart to VRE (Virginia Railway Express).
 *   **MAC (Maryland Area Commuter):** The in-universe counterpart to MARC train service.
 
+## U.S. Senator Katie Prairie's Famous `ARTS` + Capital Transit Commute (`NFK` $\rightarrow$ `ALX` $\rightarrow$ Yellow Line via Charles R. Fenwick Bridge $\rightarrow$ `L'Enfant Plaza` $\rightarrow$ Blue Line to `Capitol South`)
+Inspired by Senator Joe Biden's famous Wilmington (`WIL`) to Washington (`WAS`) Amtrak commute—adapted for an openly autistic, full-time power-wheelchair-using U.S. Senator from Hampton Roads:
+
+*   **Jumping Off `ARTS` at `ALX` (*Alexandria Union Station*) Instead of `WAS` (*Washington Union Station*):**
+    *   When traveling between Hampton Roads (**Norfolk Station, `NFK`**) and the U.S. Capitol, **U.S. Senator Katie Prairie (`D-Virginia`)** and her twin brother **Nathaniel ("Nate") Prairie** intentionally detraining from the **ARTS (*American Rail Transit Service*) Northeast Regional** at **`ALX` (*Alexandria*)** rather than riding all the way into **`WAS` (*Washington Union Station*)**.
+    *   **Autistic Sensory & Operational Logic:** `WAS` (*Washington Union Station*) is a massive, echoing, sensory-overloading concourse with booming acoustics, dense crowds, and a slow, crawling rail approach over the Long Bridge and through the First Street Tunnel. By contrast, **`ALX`** is a small, calm, open-air brick station in Old Town Alexandria where Katie and Nate can roll their compact `SwiftChair` power wheelchairs straight off the `ARTS` platform into the fresh air and cross directly to the adjacent **`King St–Old Town`** Capital Transit Metro station.
+*   **The Insider Yellow-to-Blue Line Shortcut (`Charles R. Fenwick Bridge` $\rightarrow$ `L'Enfant Plaza` $\rightarrow$ `Capitol South`):**
+    *   While a tourist at `King St–Old Town` might board the **Blue Line** because it runs one-seat to `Capitol South`, seasoned DMV transit riders know the Blue Line takes the long western loop through Arlington (`Rosslyn`), `Foggy Bottom`, and downtown D.C.
+    *   Instead, Senator Prairie and Nate tap their **`CapitalPass`** cards at `King St–Old Town`, board the **Capital Transit Yellow Line**, cross the Potomac River into D.C. over the **Charles R. Fenwick Bridge**, transfer at **`L'Enfant Plaza`** to the **Blue Line** (or Orange/Silver Line), and ride two stops to **`Capitol South`**—making `"Is that Senator Prairie getting off the ARTS train at ALX to catch the Yellow Line?"` a signature sight for Virginia commuters.
+
+
