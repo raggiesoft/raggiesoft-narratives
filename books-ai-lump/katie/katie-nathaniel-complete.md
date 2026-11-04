@@ -1559,9 +1559,539 @@ In seventh grade, when Chad had walked out on Katie and left her crying in the m
 
 Taking a long, steadying breath, I squeezed Katie's hand back and leaned my head against her shoulder until the shaking in my chest finally subsided—knowing beyond a shadow of a doubt that as we headed toward high school graduation and our adult lives together, the only person in the world I would ever completely trust was sitting right beside me.
 
-# Era 5
+# West Ocean View & The End of Hell
 
-## Chapter 1
+## My Brother Only & The Speak Now Vow
+
+### Ocean View Station, The Green Sofa Confrontation, & Speak Now or Forever Hold Your Peace
+
+**Date:** 2004-09-18 at 19:30 America/New_York
+
+![Inside the Sea Breeze West living room on West Ocean View Avenue, nineteen-year-old twins Katie in her royal-blue V-neck sweater and Nate in his brick-red polo sit side by side on the bright green three-cushion sofa beneath the white window blinds with their compact SwiftChair power wheelchairs parked beside the oval coffee table while Tiffany Sloan glares through her black-rimmed glasses in her mint-green graphic shirt by the corner CRT television]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_ocean_view_green_sofa_my_brother_only_tiffany.jpg)
+
+#### Saturday, September 18, 2004, 7:30 PM — Ocean View Station & The Green Sofa Confrontation at Sea Breeze West
+
+"This is going to be a great weekend," I said, rolling my compact SwiftChair power wheelchair right up to the curb cut at Ocean View Station as the hydraulic front ramp of the Coastal Virginia Transit Authority Route 1 bus folded down onto the concrete and my nineteen-year-old twin sister Katie wheeled off the bus straight into my arms.
+
+Wearing her favorite royal-blue long-sleeve V-neck sweater with black trim at the collar and cuffs and light-blue jeans, with an overnight backpack clipped to the rear frame of her matching SwiftChair, Katie threw both arms around my shoulders across our armrests and hugged me tight in the warm September evening air blowing off the Chesapeake Bay.
+
+"I've missed you all week, Nate," Katie said happily, resting her cheek against mine for a second before we released our brakes and rolled side by side down the sidewalk along West Ocean View Avenue. "Two whole days of just brother-and-sister time, coding on your computer, and no drama."
+
+"We've got the whole weekend," I smiled, checking my watch on my left wrist as we turned past the low white two-rail fence into the small, tree-shaded courtyard of Sea Breeze West.
+
+Our complex consisted of two low-rise early-nineteen-seventies buildings facing each other across the narrow courtyard and asphalt parking lot—the red-brick building with the script Sea Breeze West sign and the quarter-operated laundry room on one side, and our white-painted two-story courtyard building on the other, where the exterior unit doors and wide double windows were lined up side by side like an old coastal motel. My unit—Apartment 3—sat on the ground floor at the very far end of the white-painted building, furthest from the parking lot.
+
+When I unlocked the wooden front door in the right-hand corner and rolled inside ahead of Katie, the single six-hundred-square-foot apartment opened straight into our combination living room and kitchen. Immediately to the left of the front door, directly beneath the two wide front windows covered by white horizontal mini-blinds looking out onto the courtyard, sat our bright green three-cushion sofa with an oval weathered-wood coffee table in front of it and a black cathode-ray-tube television on a two-shelf black-and-glass stand in the opposite front corner. Just beyond the oval coffee table stood a large dining table that I used as a computer desk for my desktop tower PC running Quantum OS XN Pro, looking straight ahead into the open kitchen with its olive-green base cabinets, speckled laminate prep counters, slate-blue four-burner electric stove, sink, and full-size top-freezer refrigerator.
+
+Standing near the corner television stand in a mint-green short-sleeve graphic T-shirt, charcoal-gray pants, and black-rimmed rectangular glasses, my nineteen-year-old girlfriend Tiffany Sloan froze and stared at Katie's wheelchair rolling through the doorway behind me.
+
+"Wait, what?" Tiffany snarled, her voice dropping into a harsh, hostile edge behind her glasses.
+
+I blinked, braking my chair beside the bright green sofa while Katie transferred smoothly from her SwiftChair onto the left cushion of the couch and patted the middle cushion for me to sit beside her.
+
+"I thought we discussed this on Thursday, Tiffany," I said, transferring onto the green sofa next to Katie as my twin sister naturally draped her right arm around my shoulders the way we had sat together our entire lives. "My sister wants to see me for the weekend."
+
+![Inside the Sea Breeze West living room on West Ocean View Avenue, nineteen-year-old twins Katie in her royal-blue V-neck sweater and Nate in his brick-red polo sit side by side on the bright green three-cushion sofa beneath the white window blinds with their compact SwiftChair power wheelchairs parked beside the oval coffee table while Tiffany Sloan glares through her black-rimmed glasses in her mint-green graphic shirt by the corner CRT television]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_ocean_view_green_sofa_my_brother_only_tiffany.jpg)
+
+Tiffany shot me a venomous dirty look, her face flushing dark red behind her black-rimmed glasses as she stared at Katie's arm around my brick-red polo shirt. It baffled me why Tiffany always acted so bitterly jealous whenever another woman—even my own fraternal twin sister—hugged me, especially when I had never once had a problem with Tiffany being close with her own brother.
+
+"Katie is going to sleep right here on the green sofa, just like we discussed," I added, trying to keep my voice calm and even so an argument wouldn't start before Katie even unclipped her overnight bag.
+
+Across the oval wooden coffee table, I could feel Katie's shoulders tense as she watched Tiffany and me fighting yet again.
+
+"I wanted some time with my brother, Tiffany," Katie said firmly, looking straight across the living room at her. "You get to see him twenty-four hours a day, seven days a week. I don't."
+
+"I am his girlfriend!" Tiffany snapped at the top of her lungs.
+
+Katie's blue eyes flashed with instant, protective fire.
+
+"Don't yell at me like that," Katie retorted, transferring straight off the green sofa back into her SwiftChair in one fluid motion. Reaching across her armrest, she took me firmly by the hand and snarled, "Come on, Nate."
+
+Turning her head toward Tiffany by the corner television stand, Katie growled three words that echoed off the drywall from the front window blinds all the way back to the open kitchen stove:
+
+"My brother only!"
+
+***
+
+#### Saturday, September 18, 2004, 7:55 PM — The Courtyard Walk & "Speak Now or Forever Hold Your Peace"
+
+I wasn't sure how to react—my head was spinning in complete confusion as I transferred back into my own SwiftChair and rolled out the front door of Apartment 3 right behind Katie into the cool September twilight of the Sea Breeze West courtyard.
+
+The moment the wooden door clicked shut behind us and we rolled past the white two-rail fence toward the quiet sidewalk along West Ocean View Avenue, Katie braked her wheelchair, pivoted to face me under the streetlamp, and got straight to the point.
+
+"Why do you stay with her, Nate?" Katie demanded.
+
+I gave her what must have been a bewildered, defensive look, my hands tightening on my armrest pads.
+
+"I'm your twin!" Katie said, leaning forward in her chair so her blue eyes locked directly onto mine. "I know when something's up before you even say a word. Now please, tell me the truth. Why do you stay with her?"
+
+"Katie, I... uh... well, I finally found someone," I stammered in frustration, my voice cracking as the familiar ache of nineteen years of awkwardness and rejection after Heather Collins at Northwood High School knotted my chest. "A real, actual girlfriend."
+
+"She's hurting you," Katie said, her voice dropping from anger to an aching, urgent plea. "Why can't you see it?"
+
+"You're just mad that I found someone!" I snapped back before I could stop myself.
+
+Katie didn't flinch, though I saw the hurt flash across her face under the streetlamp.
+
+"Listen to you!" Katie replied softly, shaking her head. "I'm your sister, Nate. You shouldn't be snapping at me like that. Your own twin sister."
+
+The second those words left her mouth, the defensive wall inside my chest collapsed. Hot tears leaked from my eyes and spilled down my cheeks as I realized I was blowing up at Katie—the one person on earth who had never left my side through our parents' divorce on Delaney Street, through the September Friday in eleventh grade when our legs gave out, and through every lonely bus ride across Hampton Roads.
+
+"It's alright," Katie whispered immediately, rolling her SwiftChair two inches closer and reaching across to hold my hand in both of hers. "I'm not mad at you, Nate. Not ever. But I still don't approve of her, and I never will."
+
+My sister gripped my hand more tightly, her fingers warm and steady around mine while my thoughts collided inside my skull. Katie had always been there for me, yet part of my stubborn nineteen-year-old brain kept clinging to the illusion that having a girlfriend meant I had finally built a normal adult life—even if that life meant walking on eggshells around Tiffany's temper and Tiffany's overbearing mother every single day.
+
+Looking straight into my tear-streaked eyes, Katie spoke in a clear, solemn voice that sounded like a sworn oath in a courtroom.
+
+"If she ever pops the question, Nate, I am telling you right now," Katie said, squeezing my hand so hard I could feel the pulse in her fingers. "When the minister or the judge stands up in front of the room and says, *Speak now or forever hold your peace*, I will be speaking up. I will roll my wheelchair right down the center aisle, I will look the officiant in the eye on the record, and I will tell the whole room that my autistic twin brother is being coerced, isolated from his family, and pressured into a marriage against his will so they have to stop the ceremony on the spot. It is my duty as your twin sister to protect you—and no, I never thought it would come down to this."
+
+It was too much for my brain to comprehend all at once. Between Tiffany screaming at us inside Apartment 3, the humiliating memory of Tiffany's mother glaring at me, and Katie swearing on the West Ocean View sidewalk that she would literally halt a wedding ceremony under Virginia law to rescue me, my autistic sensory circuits hit total overload. I felt like my head was about to explode, and all I wanted to do was crawl into a dark, quiet closet away from the rest of the world.
+
+Katie saw my shoulders trembling and read my silence before I could even form a sentence.
+
+"You can't think straight right now," Katie whispered gently, stroking the back of my hand with her thumb. "You know I can read your mind. Please be honest with me."
+
+She paused for a long breath, letting the distant rumble of a Route 1 bus rolling down West Ocean View Avenue pass behind us before she plunged on.
+
+"To tell you the truth, Nate, I do not approve of Tiffany," Katie said quietly. "I do not like her, and I will never like her. She will never earn my respect, and I really want you to leave her. You're not happy, and you need to get rid of her. Whenever you're ready to see that—no matter how long it takes or how bad it gets—I'm right here."
+
+## The End of Hell & Reclaiming Apartment 3
+
+### Part 1: A Sister's Worst Nightmare, Tiffany Forces a Choice, & Scrubbing Out the Filth
+
+**Date:** 2005-11-12 at 22:30 America/New_York
+
+![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp, Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt stand their ground beside their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
+
+#### Saturday, November 12, 2005, 10:30 PM — A Sister's Worst Nightmare & Five Buses in the Pouring Rain
+
+"Please let me in!" a voice cried out over the roar of the cold November rain hammering the courtyard pavement outside my front door.
+
+It was a little after ten-thirty at night inside Apartment 3 at the far end of the white-painted courtyard building at Sea Breeze West. Tiffany and I had just been getting ready to head back down the hallway toward the open-doorway bedroom for the night, and when the first loud knock rattled the wooden front door, my instinct had been to ignore it. West Ocean View could be a rough neighborhood after dark, and I wasn't about to open my door to a stranger at ten-thirty in a downpour.
+
+Then I heard that voice through the rain—and my heart stopped.
+
+I recognized my fraternal twin sister's voice instantly. Braking and pivoting my compact SwiftChair power wheelchair around the oval wooden coffee table, I rolled straight up to the wide front windows above the bright green three-cushion sofa and parted two slats of the white horizontal mini-blinds to peek out into the courtyard.
+
+There on the concrete walk under the flickering porch light, drenched to the bone in the driving rainstorm, sat twenty-year-old Katie in her compact SwiftChair.
+
+I unlocked and threw open the wooden front door in the corner so fast the latch banged against the drywall. Rolling her wet tires across the threshold into the living room, Katie threw both arms around my neck across our armrests and sobbed against my shoulder.
+
+"Katie—what happened?!" I asked, holding my twin sister tight as I felt her whole body trembling through her soaking-wet jacket and jeans. Cold rainwater was dripping from her blonde hair onto the green sofa cushion as she transferred out of her wet wheelchair frame onto the couch beside me.
+
+Katie sobbed harder, shivering uncontrollably before letting out a sharp sneeze.
+
+"Brandon lost his mind all morning because I told him I wouldn't leave the country with him," Katie cried, clutching both of my hands as her teeth chattered. "I've been riding city buses all afternoon and all evening just trying to get here from Williamsburg!"
+
+"Tiffany, please get my sis a dry bath towel," I called out toward the hallway as Katie sneezed a second time, before turning my stunned eyes back to my twin sister. "Wait—what? Out of the country? Katie, what are you talking about?"
+
+"They wanted me to pack up and move across the border to Canada with them," Katie sobbed, wiping her rain-soaked face with the back of her trembling hand. "These people are plain off-their-rocker crazy, Nate! When I said no, he turned so vicious and terrifying that I thought I wasn't going to make it out of that apartment on Virginia Avenue alive. He thought because I'm in a wheelchair and can't drive, I was trapped up there in Williamsburg with nowhere to go. The second I got out the door into the rain, I rolled straight to the Colonial Triangle Transit Authority Route 1 bus stop and took Route 1 all the way down to Lee Hall. From Lee Hall I caught Coastal Virginia Transit Authority Route 116 to Peninsula Commons Mall, transferred to Route 107, took Route 61 across the Hampton Roads Bridge-Tunnel into Norfolk, and rode Route 1 all the way up Granby Street to the Duffy's Lane turnaround before wheeling down West Ocean View Avenue in the pouring rain to find you!"
+
+I could see my sister was frightened beyond belief as Tiffany walked slowly back down the short hallway from the bathroom carrying a folded bath towel. Katie sneezed again, shivering so hard her shoulders shook.
+
+"Do you have anything dry in your bag to change into?" I asked gently, draping the dry towel around Katie's shoulders. "I want you to get out of those sopping-wet clothes before you catch pneumonia."
+
+"No," Katie sobbed, shaking her head. "I didn't even have time to pack a bag when I escaped—I just had to get out of there and get to you."
+
+"Alright, here's what we'll do," I said immediately. "Take my oversized dry flannel shirt and sweatpants from my dresser so you can get out of those soaked outer clothes in the bathroom, and I've got my warm sleeping bag you can zip up in on the green sofa for tonight. There's a quarter-operated laundry room right across the courtyard in the red-brick Sea Breeze West building, and I can run your wet clothes through the washer and dryer right now so you have your own clean clothes to wear in the morning."
+
+Standing awkwardly beside the repurposed dining table that held my desktop tower PC running Quantum OS XN Pro, Tiffany cleared her throat. "Let me go wash her clothes," Tiffany said. "You need to comfort your sister."
+
+Once Katie had changed out of her drenched outer clothes into dry layers and wrapped the bath towel and my sleeping bag around herself on the green sofa, Tiffany picked up Katie's soggy mustard-yellow shirt and jeans, grabbed the bottle of laundry soap and our roll of quarters off the laminate kitchen counter, and stepped out the front door across the rainy courtyard toward the red-brick building's laundry room.
+
+The moment the door closed and it was just the two of us inside the living room, Katie zipped the sleeping bag up to her collarbone, reached out, and gripped my hand with both of hers.
+
+"I'm just so scared, Nate," Katie sobbed, her blue eyes wide as she held onto my fingers like a lifeline. "Please don't leave my side."
+
+"I'm right here, Katie—nobody is getting past that door tonight," I promised, squeezing her hand back until a loud rumble echoed from her stomach. "When was the last time you ate anything today? Would you like something to eat?"
+
+"Please," Katie whispered, wiping her eyes. "Some real food, please."
+
+I rolled twenty feet forward to the open kitchen—feeling a wave of hot embarrassment in the pit of my stomach as my wheels navigated around the cluttered piles of unemptied trash bags, greasy fast-food wrappers, and crusty dishes that Tiffany had left littering the floor and counters—and reached into the cabinet for the only clean, sealed package I could find: a box of low-fat baked potato chips.
+
+Rolling back to the bright green sofa, I opened the box and offered a small handful of chips to my sister. Sitting up against the arm of the green sofa inside the sleeping bag, Katie ate the chips gratefully while keeping her free hand linked with mine.
+
+"They really thought they could force me to move to Canada and cut me off from you and Dad forever," Katie whispered, her voice still shaking from the five-bus ordeal through the rain. "Nate, do you mind if I take a hot shower? I've been riding five city buses all afternoon and evening trying to get here from Williamsburg. I'm hungry, I'm exhausted, I'm scared, and I'm still freezing from the rain."
+
+"Come on, let's get the hot water running for you," I said, helping Katie out of the sleeping bag and steadying her arm as we rolled down the short right-hand hallway past the long left-side hallway closet.
+
+At the end of the hall, before the open doorway into the back bedroom, we turned left to the bathroom door, which opened inward to the left into the small bathroom equipped with a sink, toilet, and a bathtub fitted with steel grab bars—though to my disgust, I first had to push aside a stack of dirty kitchen pots and pans that Tiffany had bizarrely dumped inside the tub instead of washing them. After showing Katie how to adjust the hot-water faucet and making sure a fresh dry towel was within easy reach of the grab bars, I rolled back out into the living room and closed the bathroom door so she could warm up in privacy.
+
+By the time Katie finished her hot shower and transferred back into the warm sleeping bag on the green sofa beneath the front window blinds, Tiffany had returned from across the courtyard with Katie's freshly dried clothes folded in her arms.
+
+Even with the warm water taking the chill out of her bones, Katie was still too traumatized to close her eyes unless she was holding my hand. Parking my SwiftChair right beside the oval wooden coffee table at the edge of the green sofa, I held my twin sister's hand for the next hour while she whispered every terrifying detail of how Brandon had tried to isolate and trap her in Williamsburg.
+
+"I promise you're safe here tonight, Katie," I told her gently as the clock on my Quantum OS XN Pro computer monitor near the kitchen ticked toward midnight. "Since the connecting bus routes don't run on Sundays into our neighborhood in Virginia Beach, you can rest right here all day tomorrow and we'll figure everything out on Monday."
+
+Katie pulled me into a tight hug from the sofa and wept softly against my collar. "Thank you, Nate." She let out a long, exhausted yawn, though her eyes still darted nervously toward the front window blinds.
+
+"We really need to get some sleep—it's almost midnight, and after five buses from Williamsburg, you especially need your rest," I said softly, squeezing her hand one last time before rolling down the hallway toward the open-doorway back bedroom where the through-wall box air conditioner hummed opposite its wall-mounted temperature switch. "Tomorrow morning, we'll help you get everything sorted out."
+
+***
+
+#### Sunday, November 13, 2005, 8:15 AM — Dry Cereal Without Milk & Tiffany Forces a Choice in the Open Kitchen
+
+Morning barely filtered through the white horizontal mini-blinds at the front of the apartment when the sound of muffled crying from the living room jolted me awake.
+
+Transferring out of the queen bed into my SwiftChair in seconds, I rolled straight out of the doorless back bedroom down the hallway to the green sofa.
+
+Katie was sitting upright inside the sleeping bag with both hands pressed over her face, sobbing uncontrollably.
+
+"I had a nightmare," Katie cried as I rolled right up to the sofa cushion and wrapped both arms around her shoulders. "They were forcing me across the border into Canada and locking me in a room where I couldn't call you or Dad. It felt so real, Nate!"
+
+"You're right here in Ocean View with me—Brandon can never touch you again," I said, holding my twin sister close until her breathing steadied. "Let me make you some breakfast. How does cereal sound?"
+
+"Please," Katie said, wiping her cheeks. "And could you hand me my clothes from the chair? I want to get dressed."
+
+I handed Katie her clean mustard-yellow short-sleeve T-shirt and blue jeans from the laundry pile, giving her privacy while she got dressed and transferred into her SwiftChair, while I rolled straight ahead into the open kitchen under the hanging amber cone pull-chain lamp and took two bowls and a box of toasted oat cereal down from the counter.
+
+When I rolled back to the oval wooden coffee table and set the two bowls down in front of us, Katie looked down at the dry cereal and blinked in surprise.
+
+"No milk?" Katie asked.
+
+"Tiffany claims she's lactose intolerant," I explained, unable to hide the weary frustration in my voice as I glanced back toward the black top-freezer refrigerator. "She says even the sight of a jug of milk in the refrigerator makes her sick, so she won't let me keep any in the apartment."
+
+Katie ate her dry cereal grudgingly without saying another word about the milk—she knew me well enough to see that complaining to me about Tiffany's rules right now was barking up the wrong tree—until she set her spoon down and looked quietly into my eyes.
+
+"Nate," Katie said in a low voice, "sometime today, when it's just you and me, I want to talk."
+
+"What is it?" I asked.
+
+"I want to talk to you—just you," Katie repeated evenly, glancing toward the hallway. "Ask me again when it's just you and me."
+
+Before I could answer, footsteps shuffled down the hallway from the back bedroom.
+
+Wearing her black-rimmed rectangular glasses, her mint-green short-sleeve graphic T-shirt, and her charcoal-gray pants, Tiffany stepped out of the hallway into the open kitchen right in front of the slate-blue four-burner stove and the black top-freezer refrigerator. Stopping beneath the hanging amber cone pull-chain lamp, she folded her arms, glared past the wall smoke detector at Katie and me sitting together by the oval coffee table, and spoke in a loud, accusatory sneer.
+
+"You know, you seem to be cuddling with Katie a whole lot more than me," Tiffany snapped. "Do you not love me?"
+
+![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp, Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt stand their ground beside their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
+
+Beside me, Katie looked at Tiffany with pure disgust. To my twin sister, the very idea that anyone would try to force an ultimatum between a loyal twin sibling and a romantic partner—after Katie had just escaped an abusive nightmare in Williamsburg the night before—was repellent.
+
+"Uh, excuse me?" Katie spoke up, rolling her SwiftChair two feet forward toward the open kitchen.
+
+I knew the two of them had disliked each other ever since Tiffany ruined our brother-and-sister weekend fourteen months ago, but one rule had been carved into my soul since the day we were born: no one insults my twin sister. Watching Tiffany glare at Katie felt like that awful day in Newport News when Tiffany had disrespected our developmentally disabled cousin Chelsea all over again.
+
+"Of course I love you, Tiffany," I replied, rolling my chair up beside Katie's in front of the stove, "but why can't you accept that I love my twin sister too?"
+
+"You really need to think about what you just said, Tiffany," Katie said firmly, looking straight up at her. "I'm his twin sister; you're his girlfriend. There is zero reason on earth why you should be getting jealous of me hugging my brother after what I went through yesterday."
+
+Tiffany's face contorted with fury behind her black-rimmed glasses, and she lunged half a step forward in front of the slate-blue stove, screaming straight into Katie's face:
+
+"Don't you talk to me like that!"
+
+Right then and there, standing in front of that filthy kitchen counter between the slate-blue stove and the black refrigerator, every warning Katie had given me outside in the Sea Breeze West courtyard fourteen months ago clicked into focus. My girlfriend hated my twin sister, disrespected my family, and wanted me isolated in the dark—and I was never going to choose anyone who treated Katie like that.
+
+Katie and I sat side by side in our wheelchairs, staring daggers straight back at Tiffany without giving an inch.
+
+Seeing the look in my eyes—realizing for the first time that her temper tantrum wasn't going to make me apologize or push Katie away—Tiffany looked at me with deep loathing and rage.
+
+"Forget it!" Tiffany shrieked, grabbing her purse and jacket off the corner of the repurposed dining-table computer desk. "You don't love me! Good riddance!"
+
+"No, he doesn't love you!" Katie snarled, wheeling forward toward the front door as Tiffany yanked it open. "Go on! Get out of here! Stay away from me, and stay away from my brother! Don't ever come back!"
+
+The wooden front door slammed so hard the white horizontal mini-blinds rattled against the glass.
+
+In the sudden, ringing silence of Apartment 3, Katie turned her wheelchair toward me and spoke gently.
+
+"You're probably going to hate me for saying this right now, Nate, but I'm glad she's leaving you," Katie said softly. "If your girlfriend can't even accept you hugging and comforting your own twin sister, then you don't need her in your life."
+
+All at once, the dam inside my chest broke. Even though Katie was still raw and traumatized from her escape from Williamsburg, I started crying right alongside her as the reality registered in my twenty-year-old mind: my girlfriend had just dumped me and walked out the door.
+
+Katie immediately rolled flush against my chair, pulled me into a deep, grounding hug across our armrests, and held the back of my head against her shoulder.
+
+"Would you like me to stay here with you for now?" Katie whispered as she wiped the tears from my eyes and I wiped hers. "This way you won't have to be alone."
+
+"Please—would you, Katie?" I asked, my voice shaking.
+
+Katie knew how much I hated being alone. Holding both of my hands, she offered a brave little smile. "Want me to make us some lunch?"
+
+Rolling four feet forward into the open kitchen, Katie opened the black top-freezer refrigerator and the olive-green base cabinets, then grimaced as she surveyed the crusty counters, the overflowing trash bags, and the sour smell hanging in the air.
+
+"You know, Nate, she really is a pig," Katie said bluntly, closing the empty refrigerator door. "I still have my paycheck money in my wallet. How about we roll down to the shopping center and grab a real hot lunch, and pick up some basic groceries while we're out?"
+
+"Alright, Katie," I nodded, wiping my face. "And while we're at the grocery store in the shopping center, you can buy a Norfolk CVTA bus pass right at the front customer-service desk."
+
+"Do they sell a monthly pass?" Katie asked as we rolled out the front door into the sunny Sunday courtyard.
+
+"Fifty dollars for thirty days," I told her as we wheeled down the sidewalk along West Ocean View Avenue. "It's a thirty-day magnetic card, and the thirty-day clock doesn't start ticking until the first time you swipe it in the farebox on a CVTA bus."
+
+***
+
+#### Sunday, November 13, 2005, 1:00 PM — His Majesty's Burgers & The Heavy-Duty Deep Clean of Apartment 3
+
+Twenty minutes later, after picking up Katie's new thirty-day bus pass at the grocery store counter, the two of us sat across from each other at an accessible table inside His Majesty's Burgers with hot burgers, crispy fries, and two tall cups of soda in front of us.
+
+Now that we were out of the apartment and away from the stench of Tiffany's mess, Katie leaned forward across the table and looked me straight in the eyes.
+
+"Now that she's not around, Nate, I'm going to be blunt and I'm going to be completely honest with you," Katie said evenly. "She was treating you like trash—and I know this isn't polite to say when you just broke up, but I wanted you to leave her."
+
+I opened my mouth to say something, only for Katie to hold up her hand and continue.
+
+"I know your bedroom—and mine too—have gotten a little messy with computer books or laundry at times when we were teenagers," Katie said, her voice tight with protective anger. "But never in our entire lives have I seen you live in filth like what's back in that apartment right now. That apartment isn't just cluttered, Nate—it is trashed. It's overstuffed with rotting garbage bags that haven't been taken to the dumpster in weeks, crusty takeout containers stacked on every surface, and filthy dishes everywhere. Tiffany is a pig, and I don't want you associating with her ever again."
+
+Again I tried to speak, and Katie immediately reached across the burger wrappers to take my hand so I wouldn't misunderstand her.
+
+"It's not you I'm mad at, Nate," Katie said softly. "I know how your mind works when somebody bullies you and shuts you down until you freeze up. I'm mad at her for treating my twin brother like trash. But now it's over and done with. Welcome back to the light."
+
+Those four words—*welcome back to the light*—brought fresh tears welling into my eyes. With Tiffany officially my ex, the heavy, suffocating fog that had trapped me inside Apartment 3 for the last year was finally lifting, and I could see clearly that every word my twin sister was speaking was the truth.
+
+"You're saying..." I started, my voice choking up.
+
+"Truth is," Katie whispered, her own blue eyes tearing up across the table, "I never approved of Tiffany. Remember that weekend last September when I took the Route 1 bus here because I wanted a brother-and-sister weekend with you and just you?"
+
+"Yeah," I answered quietly, remembering how I had snapped at Katie outside in the courtyard before she swore her *Speak now or forever hold your peace* vow.
+
+"That's the exact day she lost every shred of my trust—when she threw a fit and insisted she wouldn't allow the two of us to spend a weekend together," Katie said. "I wanted a brother-and-sister weekend with my twin. I wasn't going to bring an ex-boyfriend between us, and I never wanted a girlfriend coming between us either."
+
+When we rolled back down West Ocean View Avenue and returned to Apartment 3, the sight of the trashed combination living room and kitchen hit me like a physical blow. Transferring onto the bright green sofa beneath the front window blinds, I felt so emotionally drained that Katie transferred onto the cushion beside me, opened her arms, and let me rest my head in her lap while she wrapped her arms around my shoulders.
+
+"Katie," I whispered, staring at the worn carpet by the oval coffee table, "do you promise not to tell anyone what I'm getting ready to tell you?"
+
+"Twin's promise," Katie said softly, curling her arms more tightly around me to let me know I was completely safe.
+
+Resting my cheek against my sister's knee, I finally let out everything I had kept locked inside my chest for a year—how Tiffany and Tiffany's manipulative mother had coerced and guilt-tripped me from the very beginning, using affection as a weapon to separate me from my family, and how toward the end Tiffany's mother had turned on me with open hatred while Tiffany let the apartment rot around us.
+
+After holding me in silence for a long time and letting me cry until my chest stopped aching, Katie made her decision.
+
+"I want to live with you, Nate," Katie said, looking down into my eyes with steady, unbreakable resolve.
+
+My heart leaped with relief, and I loved what she said next even more.
+
+"We're going to get this apartment into decent, spotless condition until your lease is up, I promise you," Katie said, pulling me upright into a fierce hug. "We're going to pack every single one of Tiffany's things into separate bags by the door, and we're going to make Apartment 3 a real home for you and me—a place that both of us can be proud to show our friends and Dad. First question: what bus takes us from here to the Community College of Hampton Roads in Virginia Beach?"
+
+"Thank you, Katie," I said, wiping my eyes with a real smile breaking across my face. "Tomorrow morning, we can catch the Route 1 bus that leaves Ocean View Station at thirteen minutes past the hour—it's about a ninety-minute ride down to the Virginia Beach campus. Or if you want a shorter commute, maybe you could register for classes at the Norfolk campus downtown? That's only forty-five minutes on the Downtown 1 or about an hour on the Downtown 3."
+
+"All my friends are at the Virginia Beach campus," Katie replied without hesitation.
+
+"Alright," I smiled. "Tomorrow morning, I'll take you on the bus down to the Beach campus and we'll register together."
+
+"Thanks, Nate," Katie said, transferring back into her SwiftChair and rolling her sleeves up past her elbows. "Now, let's get this apartment cleaned up. Priority one: where are the heavy-duty trash bags? Anything that's garbage, throw it straight in. Anything that belongs to Tiffany, put it in a separate bag by the front door in case she and her mother come back to collect her things. You're going to hate me for how hard I push us today, because this filth won't be cleaned in five minutes—but I promise you, it will get done, and we are going to do it together."
+
+The truth was, the deeper we dug into the apartment, the more mortified I felt. It wasn't just untidy; it was an overwhelming disaster of uncollected trash and grime that needed heavy-duty scrubbing from floor to baseboards. To keep our spirits up, Katie rolled over to the large repurposed dining table between the living room and the kitchen, woke up my desktop tower PC running Quantum OS XN Pro, and queued up a playlist of our favorite upbeat nineteen-eighties synth-rock and pop tracks through the desktop speakers.
+
+For the next two hours, working side by side from our compact power wheelchairs, Katie tackled the overflowing trash around the green sofa, the oval coffee table, and the open kitchen counters while I bagged up the piles of garbage choking the back hallway and the open-doorway bedroom. Sweat poured down my forehead as I tied off bag after heavy black bag, my gag reflex kicking in half a dozen times whenever we uncovered week-old takeout containers festering at the bottom of a pile.
+
+"Nate, come help me clean the bathroom!" Katie called out from the short hallway on the far right.
+
+"Coming," I called back, rolling out of the doorless bedroom and turning left toward the inward-opening bathroom door.
+
+Katie was sitting in her wheelchair just inside the bathroom doorway, staring in disbelief at the bathtub beneath the steel grab bars.
+
+"Why on earth are all of these kitchen pots and pans stacked inside the bathtub?!" Katie demanded.
+
+"Ask Tiffany that," I groaned in pure disgust. "Whenever she didn't feel like washing a pot in the kitchen sink, she just dumped it in the tub so she wouldn't have to look at it."
+
+"Here is what we're going to do," Katie said, pinching the bridge of her nose. "Let's haul every single one of those pots and pans out of the bathtub and stack them by the kitchen sink for now. Then we're going to scrub this entire bathroom down together with heavy-duty cleaner from the grab bars to the tile floor. Once the bathroom is sparkling, I'll help you go through the pots and pans to see which ones are even salvageable and which ones go straight in the dumpster."
+
+"Alright, Katie," I said.
+
+Both of us gagged out loud as we lifted the crusted, foul-smelling pots and pans out of the bathtub onto a plastic tray on our laps and ferried them back to the open kitchen.
+
+"That old bat was absolutely disgusting," Katie shuddered, wiping her hands with a soapy paper towel. "Let's haul all of these tied-up trash bags out to the dumpsters behind the complex first so we can breathe, and then we'll scrub the bathroom together."
+
+Rolling back into the living room and looking around at the newly cleared carpet between the bright green sofa, the oval wooden coffee table, and the Quantum OS XN Pro computer table, I realized just how deeply Katie cared about me. Tears stung my eyes again, and I braked my chair beside hers and pulled her into a grateful hug.
+
+"Thank you, Katie," I sobbed quietly against her shoulder. "The place is starting to look so much better already."
+
+"She was a pig, Nate, and you deserve to live in a clean, decent home where you feel comfortable having family and friends over," Katie said warmly, hugging me back before tapping my armrest with a grin. "Now let's keep rolling and finish the job, because this place is nowhere near done yet!"
+
+Side by side, balancing the heavy black garbage bags across our footplates and armrests, we rolled out the front door of Apartment 3, wheeled down the courtyard walk past the white two-rail fence, and heaved bag after bag into the steel dumpsters behind the complex.
+
+"Do we have any air fresheners inside?" Katie asked as we rolled back through the courtyard.
+
+"I don't think so," I admitted.
+
+By late Sunday afternoon—after hours of scrubbing the grab-bar bathtub, the bathroom sink and toilet, the olive-green kitchen cabinets, the speckled laminate prep counters, the slate-blue stove, and the inside of the black top-freezer refrigerator—Apartment 3 finally looked and smelled like a human home again.
+
+"I actually feel like we could have company over now," Katie said with a tired, proud sigh as she surveyed the clean living room and kitchen. "We just need to air the rooms out and pick up some air fresheners to clear out the last of that stale smell. How about we roll straight down to the shopping center first to grab a nice dinner and some plug-in air fresheners? Then when we get back home, we can take hot showers and relax for the rest of the night."
+
+"Yeah—after hauling all those bags to the dumpster, I'm wiped out," I smiled. "Food first."
+
+An hour later, after celebrating with a hot dinner at the shopping center, plugging fresh linen-scented air fresheners into the outlets by the green sofa and the open kitchen, and taking hot showers in our freshly scrubbed grab-bar bathtub, Katie and I rolled down the hallway into the doorless back bedroom across from the through-wall air conditioner and transferred side by side onto the queen mattress.
+
+"Tomorrow after we register at CCHR, we're going to the mall to buy all-new bedding and pillows," Katie said softly as we pulled the clean spare blanket over our shoulders. "I don't mind sleeping right here at your side like we used to do—I just want every sheet and pillow she ever touched gone."
+
+"I missed lying in bed beside my twin sister," I whispered as a single tear of relief slipped from the corner of my eye onto the pillow.
+
+Turning on my side, I held Katie close in the quiet dark while the wall thermostat clicked softly opposite the box A/C unit.
+
+"You're still shaken up from everything today, aren't you?" Katie asked comfortingly, resting a gentle hand against my cheek as I laid my head on her shoulder.
+
+She recognized the overwhelmed look in my eyes right away.
+
+"You just want to hold me, don't you?" Katie whispered, wrapping both arms securely around my shoulders so I wouldn't burst into tears again. "It's alright, Nate. Both of us went through hell this weekend, and you're emotionally exhausted. We had a long afternoon scrubbing this whole apartment back to life—so tonight, just hold onto me and get some sleep."
+
+She leaned over and gently kissed my forehead goodnight, just like we used to do when we were kids on Delaney Street, and for the first night in over a year, both of us fell asleep feeling completely safe.
+
+### Part 2: The 8:13 AM Bus to CCHR, All-New Queen Bedding, Dad's Pickup Truck, & The Hallway Closet Sanctuary
+
+**Date:** 2005-11-14 at 07:30 America/New_York
+
+![Inside the freshly scrubbed hallway and combination living room of Sea Breeze West Apartment 3, twenty-year-old twins Katie and Nate organize the left-hand hallway closet with a kitchen-side pantry, a bedroom-side coat rack, and a clear floor lined with a sleeping bag and pillows for deep-pressure sibling hugs while their desktop PC running Quantum OS XN Pro glows on the repurposed dining table]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
+
+#### Monday, November 14, 2005, 7:30 AM — Real Milk in the Cereal Bowls & The 8:13 AM Route 1 Bus to CCHR
+
+"Good morning, sleepyhead—look what's in the bowls today," Katie called out cheerfully from the open kitchen as I rolled my compact SwiftChair out of the doorless back bedroom down the short right-hand hallway.
+
+Under the hanging amber cone pull-chain lamp, Katie was pouring cold, fresh white milk from a half-gallon carton we had picked up the night before into two bowls of toasted oat cereal on the speckled laminate counter.
+
+"Real milk!" I grinned, rolling up to the oval wooden coffee table in front of the bright green sofa as Katie carried both bowls over on a tray.
+
+"And even better news," Katie said, setting my bowl down in front of me before parking her SwiftChair beside mine. "I called Dad at his house in Virginia Beach twenty minutes ago. He knows that you and I are living together here in Apartment 3 now, he knows Tiffany left you in that disgusting mess and that the two of us spent all day Sunday scrubbing the apartment clean, and he's bringing his pickup truck over this afternoon to help us move my dresser and clothes in! Now, what time did you say the bus to Virginia Beach leaves?"
+
+"Thirteen minutes past the hour," I answered after giving my twin sister a grateful thank-you hug across our armrests. "We just roll right up West Ocean View Avenue to Ocean View Station by the Burger Arch. It's a ninety-minute ride down to the Community College of Hampton Roads Virginia Beach Campus—and we just have to remember that the last bus leaving CCHR to bring us back here is at 5:45 PM, because buses in Virginia Beach stop running around dinnertime for some reason."
+
+"Today I want to get both of us registered for our CCHR classes so we're right back on track," Katie said, taking a spoonful of cereal with real milk. "And while we're in Virginia Beach, I want to take the bus over to Chesapeake Bay Mall and buy brand-new bedding for the queen mattress—sheets, comforter, pillows, everything—because I don't trust a single thread that's currently on that bed. Which bus routes go from CCHR toward Dad's house off Military Highway and Indian River Road?"
+
+"Any of the routes hubbing out of CCHR—Routes 12, 25, 26, 29, 33, and 36," I told her.
+
+"Perfect," Katie said. "I told Dad we'd meet him with his pickup truck after we pick up the new bedding at the mall, ride over to his house to load up my basics—my laptop, my dresser, my clothes, my clock radio, and my television and DVD player—and bring them straight back here to Ocean View."
+
+As soon as we finished eating breakfast, Katie picked up both of our empty cereal bowls and our spoons from the oval coffee table and rolled straight back to the kitchen sink.
+
+"From now on, Nate, we wash as we go," Katie declared, turning on the hot tap and scrubbing both bowls with dish soap right from her wheelchair. "This way there are never any smelly, crusted dishes lying around the sink or the bathtub ever again."
+
+Glancing at her wristwatch as she set the two sparkling bowls into the drying rack, Katie dried her hands on a clean dish towel. "I want us on that 8:13 AM Route 1 bus. If we catch the 8:13 at the Burger Arch, what time will we roll into CCHR?"
+
+"Right around 9:45 AM—it's an hour and thirty minutes end to end," I said, watching in admiration as she finished wiping down the sink rim. "You really meant it about doing the dishes immediately!"
+
+"We used two cereal bowls for breakfast, and washing them the second we finish takes sixty seconds," Katie smiled, unlocking her brakes and rolling toward the front door by the white mini-blinds. "I want both of us to feel proud of how neat we're keeping our apartment. Come on—let's catch the 8:13!"
+
+Ten minutes later, at the Ocean View Station bus loop near the Burger Arch, the blue-and-silver CVTA Route 1 bus knelt at the curb and lowered its hydraulic front ramp. Rolling up the ramp one behind the other, Katie swiped her brand-new fifty-dollar thirty-day magnetic bus pass in the farebox right after mine, and the driver secured both of our compact SwiftChairs into the front wheelchair bays behind the yellow line.
+
+Even after four years in our powerchairs, the cool damp November air had left a dull ache in my lower legs, and it felt wonderful to sit securely side by side with my twin sister as the bus rolled south down Granby Street and turned east toward Virginia Beach.
+
+"Welcome to our oh-so-wonderful regional transit patchwork," I joked to Katie as the Route 1 crossed the municipal line out of Norfolk into Virginia Beach. "Back in Norfolk on Route 1, no complaints at all—you can catch a bus late into the night. Cross the city line into Virginia Beach, though, and the whole bus system shuts down at dinner like nobody with a job or a wheelchair ever needs to go anywhere after six o'clock."
+
+"Wait until we start writing about that online," Katie murmured, her blue eyes narrowing thoughtfully as she looked out the bus window at the narrow road shoulders without sidewalks.
+
+At 9:45 AM sharp, the Route 1 pulled into the transit loop at the Community College of Hampton Roads Virginia Beach Campus. Rolling into the student services building together, we got in line at the registrar's counter while I pulled out my flip phone and called Dad to let him know we had made it safely down from Ocean View on the bus and were registering for classes.
+
+At the counter, Katie and I came up with a registration plan that gave us the best of both worlds: we signed up to take United States History together in the exact same lecture section—which knocked out our required history credits side by side—while letting each of us pursue our favorite subjects in our other classes, with me diving into computer programming and software architecture while Katie registered for early European literature.
+
+At 11:45 AM, with our printed spring class schedules tucked safely into Katie's backpack, we rolled out to the CCHR bus loop and boarded CVTA Route 29 up to Chesapeake Bay Mall.
+
+"Priority one," Katie announced as we wheeled off the Route 29 ramp into the mall entrance: "I'm starving! Let's grab lunch at the food court first, and then we're heading downstairs to the department store for bedding. I'm sorry, Nate, but what Tiffany left on that bed was disgusting, and I want all-new everything so you never have to be reminded of her in our bedroom again."
+
+After eating lunch together upstairs, we took the mall elevator down to the lower level and rolled into the home-goods department among the rows of packaged sheet sets and comforters.
+
+"Can I help you two find anything today?" a friendly sales clerk asked, stepping over to our wheelchairs.
+
+"Yes, please!" Katie replied brightly. "I'm moving in with my twin brother to help him get back on his feet, and I'm looking for a complete, high-quality bedding set for a queen-sized mattress. All we're keeping is the mattress itself—we're starting completely over from scratch, so I want new fitted and flat sheets, a warm comforter, new pillows, and new pillowcases."
+
+Rolling down the aisle together, Katie and I picked out a soft navy-and-slate-blue queen comforter set with crisp cotton sheets and four plush pillows that both of us loved. After Katie paid for the giant zippered bedding bags at the register, my phone buzzed with a text from Dad: he and his girlfriend Maribel were waiting right outside the mall doors in his pickup truck.
+
+***
+
+#### Monday, November 14, 2005, 2:30 PM — Dad's Pickup Truck, The Confrontation With Tiffany's Van, & The Hallway Closet Sanctuary
+
+Rolling out through the automatic glass doors into the Chesapeake Bay Mall pickup zone, we spotted our forty-seven-year-old dad standing beside the open tailgate of his pickup truck with the folding aluminum loading ramps already set in place.
+
+"There are my two favorite college students!" Dad said warmly, hugging Katie and me tightly before helping us load the new queen bedding bags, secure our two compact SwiftChairs in the bed of the pickup truck, and settle into the back seat of the extended cab behind him and Maribel.
+
+During the short drive down to Dad's single-story brick ranch off Military Highway and Indian River Road—and then all the way back up across the city line into Norfolk after Dad loaded Katie's wooden dresser, her boxes of clothes, her television and DVD player, her digital clock radio, and her laptop into the truck bed—Katie and I told Dad and Maribel the entire story: from Brandon Mercer trying to trap Katie into moving to Canada and Katie's five-bus escape through the Saturday night rainstorm, to Tiffany screaming at us in front of the stove on Sunday morning, dumping me, and leaving us to scrub out a mountain of rotting trash and bathtub pots and pans.
+
+Listening in the driver's seat, Dad's knuckles turned white on the steering wheel, a deep, protective fury settling behind his glasses at what both Brandon and Tiffany had put his twenty-year-old twins through.
+
+When Dad backed his pickup truck into the parking space outside the white two-rail fence at Sea Breeze West and we unloaded Katie's boxes into the courtyard of Apartment 3, Dad looked into the newly scrubbed open kitchen and turned to us.
+
+"Do you two need to go grocery shopping while I have the truck right here?" Dad asked.
+
+"That would be a huge help, Dad," Katie said immediately. "Tiffany did a horrible job keeping food in the apartment, and she was such an absolute slob that I didn't trust anything left in the cabinets, so we threw all of it out into the dumpster yesterday."
+
+Ten minutes later, Dad parked at the neighborhood grocery store down West Ocean View Avenue and waited with Maribel by the truck while Katie and I rolled inside through the automatic doors, with Katie pulling a wheeled shopping basket alongside her chair.
+
+"I want to pick out food that you and I actually enjoy eating, Nate," Katie said determinedly as we rolled toward the bright produce section. "Even when Tiffany bought groceries, she never took a single word of your input. And you know what else I realized while we were cleaning out the trash cans yesterday? I don't believe for one second that she was actually allergic to dairy or lactose intolerant—because we threw out three empty tubs of ice cream!"
+
+"Chocolate ice cream," I nodded grimly. "She ate chocolate ice cream out of the freezer all the time while telling me the sight of milk for my cereal made her sick."
+
+"Exactly—if she could eat chocolate ice cream, she could tolerate a carton of milk in the fridge; she was just controlling you," Katie said, reaching up to bag half a dozen crisp red apples. "Here—you haven't had fresh apples in months."
+
+"What else is on your plan?" I asked as we rolled past the bakery display.
+
+Katie pulled out her flip phone and showed me the notes screen angled toward my eyes. "I typed up a complete master list of what we need. I want to restock Apartment 3 from top to bottom with you-and-me food."
+
+After picking up fresh vegetables and a loaf of whole-wheat sandwich bread, Katie steered us toward the packaged meat case, then paused when I spoke up.
+
+"Can we get our sandwich meat freshly sliced from the deli counter instead?" I asked.
+
+"Sure!" Katie smiled, pivoting her SwiftChair around to roll back toward the lighted deli case. "What kind of deli meat sounds good to you?"
+
+"Just some honey ham will do," I said.
+
+"Half a pound sound good?" Katie asked me.
+
+"Sounds great," I replied.
+
+Rolling right up to the deli counter, Katie smiled up at the clerk behind the glass. "I'll take half a pound of thinly sliced honey ham, please."
+
+With the warm, paper-wrapped parcel of honey ham resting in our basket, we rolled down the center aisles together, picking up mustard and mayonnaise for sandwiches, eggs and pancake mix for weekend breakfasts, two half-gallons of cold whole milk, items for hot dinners, and two big boxes of the exact same toasted oat cereal that both of us had loved since childhood.
+
+As we reached the frozen-food cases at the end of the aisle, a mischievous twin grin spread across Katie's face.
+
+"One last thing," Katie said, opening the glass freezer door and pulling out a carton of rich vanilla-and-fudge ice cream. "Let's get a tub of ice cream for our freezer, just to stick it to that old bat!"
+
+Both of us were laughing as Katie texted Dad to come inside. Meeting us at the front checkout lane, Dad insisted on paying for our entire cart of groceries himself and loaded every bag into the pickup truck for the two-minute drive back to Sea Breeze West.
+
+"Now that she's gone for good, I want to organize all of these groceries and our furniture reasonably," Katie said as we rolled back toward the courtyard of Apartment 3. "I hated how she had everything thrown around haphazardly—"
+
+Before Katie could finish her sentence, the crunch of tires over gravel made me freeze in the center of the courtyard.
+
+A familiar dented minivan had just pulled into the asphalt parking lot right outside the white two-rail fence.
+
+My breath caught in my throat, and without even thinking, I rolled flush against Katie's chair, threw both arms around my twin sister, and hugged her as tightly as I could.
+
+"It's them," I whispered against Katie's shoulder, my pulse hammering in my ears. "It's Tiffany and her mother. I know that van from anywhere."
+
+Standing beside his pickup truck with Katie's wooden dresser still strapped in the bed, our dad turned around, saw Tiffany and her scowling mother stepping out of the minivan, and stepped straight across the courtyard walk to block their path like a brick wall.
+
+"Get your stuff—my daughter put all of your bags in one pile right inside the front door—hand over your apartment key, and leave," Dad snarled in a low, iron voice that left zero room for argument. "You are no longer welcome anywhere near my son, my daughter, or my family."
+
+Neither Tiffany nor her mother dared to say a single word back to our dad. Avoiding our eyes completely, they hurried to the front threshold where we had stacked Tiffany's bagged belongings, dropped the brass apartment key into Dad's open palm, carried their bags back to their minivan, and backed out of the Sea Breeze West parking lot for the last time in our lives.
+
+Watching the van disappear down West Ocean View Avenue, I could still see the fierce, protective anger blazing in Dad's eyes as he pocketed the spare key and helped us roll Katie's wooden dresser across the threshold into the back bedroom beside mine.
+
+"You need comfort, Nate?" Katie whispered gently, rolling up beside me and squeezing my hand as my heartbeat slowly settled. "I'm right here for you, and I always will be."
+
+Once we had stripped the bare queen mattress in the doorless back bedroom—right across from the through-wall box air conditioner and its opposite-wall temperature switch—and made the bed with our crisp new navy-and-slate-blue sheets, comforter, and four fresh pillows from Chesapeake Bay Mall, I rolled back out to the large repurposed dining table between the living room and the open kitchen.
+
+"I want to completely redo the desktop computer here in the front room so it's set up for both of us," I told Katie, patting the steel tower case beside the monitor. "I want to wipe every single trace of Tiffany off the hard drive."
+
+"I want to help," Katie said immediately, rolling her SwiftChair up beside mine at the dining table.
+
+"What I'm going to do first is format the partition and reinstall Quantum OS XN Pro completely from scratch," I explained, opening my binder of installation discs. "Then I'll set up two clean administrator user accounts on the desktop—one for you and one for me."
+
+"We both have our laptops too," Katie noted as she set her laptop down on the right side of the dining table.
+
+"I know," I said, my eyes lighting up as an engineering idea began taking shape in my head. "Someday, when we learn server-side networking and database programming, what I think would be really neat is to build our own central server setup so that no matter which desktop or laptop you and I log in from, all of our files, code, and bookmarks automatically sync across every machine we own."
+
+While the fresh Quantum OS XN Pro installation formatted the hard drive on the dining-table monitor, Katie and I rolled into the short right-hand hallway with the remaining bags of groceries and fresh bathroom supplies.
+
+Opening the sliding door of the long hallway closet on the left side of the hall—just before the left-hand turn into the grab-bar bathroom and the open doorway into the back bedroom—Katie studied the wide interior space from top to bottom.
+
+"You know what, Nate?" Katie said thoughtfully, pointing to the upper half of the closet nearest the open kitchen. "I think we should turn the half of this hallway closet closest to the kitchen into a pantry! We both have our wooden dressers in the bedroom for all of our folded clothes, and we only have a couple of winter coats and jackets that actually need to be hung up on the rod on the half closer to the bedroom. If we put shelves on the kitchen side, we'll have a real organized pantry—and look at the floor of the closet."
+
+I looked down at the wide, completely clear carpeted floor at the bottom of the hallway closet, and both of us smiled at the exact same instant.
+
+Because both Katie and I are autistic, there were days when the noise, the bright lights, and the stress of the outside world pushed our sensory systems to the edge—days when the only thing that calmed our nervous systems down was a dark, quiet, enclosed space and a tight, deep-pressure sibling hug.
+
+![Inside the freshly scrubbed hallway and combination living room of Sea Breeze West Apartment 3, twenty-year-old twins Katie and Nate organize the left-hand hallway closet with a kitchen-side pantry, a bedroom-side coat rack, and a clear floor lined with a sleeping bag and pillows for deep-pressure sibling hugs while their desktop PC running Quantum OS XN Pro glows on the repurposed dining table]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
+
+"If we keep the entire floor of the hallway closet completely clear," I said, finishing Katie's thought as only her twin could, "we can lay the clean sleeping bag and two extra pillows right along the bottom of the closet!"
+
+"Whenever either of us gets overwhelmed and needs the dark, a confined space, and deep-pressure sibling cuddles, we can just roll right into the hallway, transfer onto the sleeping bag on the closet floor, and hold each other until the world slows down," Katie beamed, spreading the freshly washed sleeping bag and two soft pillows neatly across the clear floor of the hallway closet while we hung our jackets on the bedroom-side rod.
+
+Ten minutes later, after every box of cereal, loaf of bread, carton of milk, package of honey ham, and tub of ice cream was neatly organized in our spotless kitchen, Katie transferred onto the bright green three-cushion sofa beneath the front window blinds and opened her arms so I could rest my head in her lap.
+
+"Dad," Katie said, looking up with a warm smile as Dad and Maribel stepped back inside from checking the truck tie-downs, "we'd love to put some shelving into the left side of the hallway closet. It's the perfect layout for half a pantry closest to the kitchen, half a coat closet closest to the bedroom, and our sleeping-bag cuddle spot on the floor."
+
+"Next time I have a day off work, we'll measure the closet wall and I'll bring my saw and brackets over to build the shelves for you two," Dad promised, resting a proud, gentle hand on Katie's shoulder and then on mine.
+
+"Alright, Dad—just let us know," Katie said happily. "Thank you and Maribel for everything today. Drive safe heading back home to Virginia Beach."
+
+When the front door clicked shut behind Dad and Maribel and the quiet hum of our fresh Quantum OS XN Pro desktop filled the clean, linen-scented living room of Apartment 3, Katie wrapped both arms around my shoulders on the green sofa, and I knew without a shadow of a doubt that the year of hell was over—and that my twin sister and I were never letting anyone tear us apart again.
 
 # The Senator from Virginia
 
