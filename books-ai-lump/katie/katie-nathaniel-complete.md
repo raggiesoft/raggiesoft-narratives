@@ -547,7 +547,7 @@ After I stepped into my blue room to brush my teeth and change into a comfortabl
 
 ## End of Summer Cruise
 
-### Part 1: Part 1: The I-95 Haul, The Quantum Basic Library Book, & Ditching Captain Barnaby
+### Part 1: The I-95 Haul, The Quantum Basic Library Book, & Ditching Captain Barnaby
 
 **Date:** 2001-08-19 at 09:30 America/New_York
 
@@ -607,7 +607,7 @@ Ten minutes later, sitting side by side in two padded armchairs inside the air-c
 
 While Mom spent the entire Sunday at sea up at the pool bar, the three of us spent the afternoon right there by the ocean windows—Katie pointing out how to nest *For...Next* loops on the screen, my fingers typing the syntax into the editor, and Dad sitting right beside us smiling with genuine pride.
 
-### Part 2: Part 2: The Nassau Pier, Guest Services, & The Last Straw
+### Part 2: The Nassau Pier, Guest Services, & The Last Straw
 
 **Date:** 2001-08-22 at 14:00 America/Puerto_Rico
 
@@ -709,7 +709,7 @@ As he supported our elbows and led Katie and me away down the passage, Dad made 
 
 Holding onto Dad's arms as our exhausted legs shook beneath us, the three of us stumbled through what felt like an endless hallway of cabins until we finally stumbled out into the bright light of the lobby.
 
-### Part 3: Part 3: Stateroom 6004, The Loaner Wheelchairs, & Pizza for Three on the Aft Deck
+### Part 3: Stateroom 6004, The Loaner Wheelchairs, & Pizza for Three on the Aft Deck
 
 **Date:** 2001-08-23 at 18:30 America/Puerto_Rico
 
@@ -761,7 +761,7 @@ Inside the main dining rooms tonight was Captain's Formal Night, where hundreds 
 
 "Mine either," I agreed, looking down at our three soda-sticker keycards resting together on the table next to Dad's library copy of *Quantum Basic 5.0*. For the first time all week, nobody was yelling, nobody was trying to force Katie to dance or shove us into a room with foam parrot mascots, and as the warm ocean breeze blew past the stern rail, the three of us talked for two straight hours about the programs we were going to write when we got home to Virginia Beach.
 
-### Part 4: Part 4: Back on Dry Land & The Twelve-Hour Drive Up I-95
+### Part 4: Back on Dry Land & The Twelve-Hour Drive Up I-95
 
 **Date:** 2001-08-25 at 08:30 America/New_York
 
@@ -861,7 +861,7 @@ Then, true to his word from Port Canaveral, Dad walked back out into the front f
 
 When Dad clicked the front deadbolt shut and walked into the living room to check on us, our house was finally, mercifully peaceful.
 
-### Part 5: Part 5: Monday Morning in Virginia Beach — The Divorce Lawyer, The PCP, & Borrowed Time
+### Part 5: Monday Morning in Virginia Beach — The Divorce Lawyer, The PCP, & Borrowed Time
 
 **Date:** 2001-08-27 at 10:15 America/New_York
 
@@ -905,7 +905,7 @@ Yet as I looked sideways at my twin sister, and felt Dad's steady, unwavering ar
 
 ## Junior Year at Northwood High & The Prognosis
 
-### Part 1: Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School
+### Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School
 
 **Date:** 2001-09-04 at 11:40 America/New_York
 
@@ -953,7 +953,7 @@ Reaching across the table between our lunch bags, I laced my right fingers throu
 
 "Friday at three o'clock," I nodded, squeezing her hand gently. "Dad's picking us up right at the two o'clock dismissal bell so Dr. Chen can see how our arms and legs are doing. Whatever happens, we've got Dad on our side now, and we've got this lunch table every day. We'll get through eleventh grade together."
 
-### Part 2: Part 2: When Borrowed Time Runs Out — The Collapse at School, The Emergency Room Escalation, & Time for Powerchairs
+### Part 2: When Borrowed Time Runs Out — The Collapse at School, The Emergency Room Escalation, & Time for Powerchairs
 
 **Date:** 2001-09-14 at 13:15 America/New_York
 
@@ -1103,7 +1103,7 @@ Dad picked up the signed forms, then leaned down between our two hospital beds a
 
 "I was never so scared in my life as when Mr. Brooks called me and said you two were headed to the Emergency Room," Dad whispered, his voice thick with emotion as he held us both close. "Wait until you see how fast I learn to break those two powerchairs down for the trunk of the car. Your legs may have run out of borrowed time today, but as long as the three of us have each other, nothing is going to stop you."
 
-### Part 3: Part 3: Two Compact Power Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15
+### Part 3: Two Compact Power Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15
 
 **Date:** 2001-10-06 at 13:10 America/New_York
 
@@ -1175,7 +1175,7 @@ Across the center aisle of the high-floor bus, Katie reached her left hand out o
 
 ## Sixteen on Four Wheels & Finding Dates
 
-### Part 1: Part 1: Navigating Northwood High on Four Wheels, Two First Dates, & Why We Ride on Saturday
+### Part 1: Navigating Northwood High on Four Wheels, Two First Dates, & Why We Ride on Saturday
 
 **Date:** 2001-10-15 at 07:10 America/New_York
 
@@ -1261,7 +1261,7 @@ Two hours later at Fourth-Block lunch, however, when Katie rolled up to the corn
 
 "When I told him that you and I were riding CVTA Route 15 to the mall together because we always travel as a pair," Katie said, her blue eyes steady and guarded as she looked at me, "Ryan frowned and said, *'Wait—you're bringing your brother on the bus instead of riding with me? Don't you ever go anywhere without Nate?'* I looked him straight in the eye and told him, *'No, Ryan. Nate is my twin brother, and he comes first.'* He backed down and said he'd meet us at the food court at twelve-forty-five, but... I have a feeling Saturday is going to be a very short test for Ryan Miller."
 
-### Part 2: Part 2: Cousin Wesley, Ryan's Escalator Exit, & Two Dates at Emerald Creek Mall
+### Part 2: Cousin Wesley, Ryan's Escalator Exit, & Two Dates at Emerald Creek Mall
 
 **Date:** 2001-10-20 at 12:45 America/New_York
 
@@ -1391,7 +1391,7 @@ We watched from the sidewalk as Heather climbed into the front passenger seat of
 
 ## Drunken New Year
 
-### Part 1: Part 1: The Gas-Station Run, A Box of Dry Cereal, & Why I Never Had a Twenty-First Birthday Drink
+### Part 1: The Gas-Station Run, A Box of Dry Cereal, & Why I Never Had a Twenty-First Birthday Drink
 
 **Date:** 2002-12-31 at 21:30 America/New_York
 
@@ -1479,7 +1479,7 @@ Katie looked at the can of ginger ale in her hand, then looked up into my eyes w
 
 "Happy New Year, Twin Brother," Katie whispered back, hugging me tight while the noises in the living room finally began to stumble toward the front door—just twenty minutes before Dad's headlights swept up the driveway and Chelsea's New Year's Eve privileges came to a permanent, unceremonious end.
 
-### Part 2: Part 2: The Drunken New Year Lie, Heather's Bitter Goodbye, & Twin Sisters Always Stay
+### Part 2: The Drunken New Year Lie, Heather's Bitter Goodbye, & Twin Sisters Always Stay
 
 **Date:** 2003-01-06 at 08:05 America/New_York
 
