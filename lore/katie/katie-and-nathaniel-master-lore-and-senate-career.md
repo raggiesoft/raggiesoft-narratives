@@ -14,8 +14,10 @@ This canonical lore dossier locks in the family tree, mobility/medical baseline,
   - Born with progressive pediatric neuromuscular weakness in their lower legs, Nate and Katie walked with increasing fatigue through age 15 and early age 16 until their legs gave out on the third Friday of September 2001 (Junior year at Northwood High School).
   - From September 2001 onward, both Nate and Katie use **compact `SwiftChair` power wheelchairs** full-time from the moment they wake up until they transfer into bed at night.
   - Neither Nate nor Katie drives a motor vehicle; **Coastal Virginia Transit Authority (`CVTA`)** buses are their everyday lifeline across Hampton Roads.
-- **Lifelong Sobriety Vow (`December 31, 2002 / January 1, 2003`, Age 17)**:
+- **Lifelong Sobriety Vow & Lethal Medication Contraindication (`Alcohol & Tobacco = Known Side Effect of Death`)**:
   - After witnessing their mother's alcoholism on the cruise ship *Sunward Tropics* (August 2001) and hiding behind a locked bedroom door eating dry toasted oat cereal out of a cardboard box and drinking ginger ale during their cousin **Brittany's** unauthorized New Year's Eve rave (`books/katie/e004/c001/p001.md`), both Nate and Katie vow at midnight on January 1, 2003 never to drink alcohol—not even a twenty-first birthday drink.
+  - **Medical Contraindication (`Katie`, `Nate`, & `David`)**: In addition to their personal sobriety vow, **Katie, Nate, and their father David all take a daily prescription medication where mixing with alcohol or tobacco has a known side effect of death**. In Washington, D.C. and Richmond, this gives Senator Katie Prairie, Nate, and David an ironclad, indisputable medical reason never to drink wine, champagne, or cocktails—or touch cigars/tobacco—with other Senators, lobbyists, or donors, always toasting strictly with ginger ale, soda, or coffee.
+
 - **Family & Cousin Canon**:
   - **David Prairie (Dad)**: Hardworking single father who rents the single-story three-bedroom brick ranch with an aluminum front-porch wheelchair ramp just off **Military Highway (`US-13`) & Indian River Road** following the August 2001 separation/divorce from their alcoholic mother.
   - **Aunt Elizabeth ("Aunt Liz") & Cousin Chelsea (`Paternal Cousin — Protected Adult Storyline`)**:

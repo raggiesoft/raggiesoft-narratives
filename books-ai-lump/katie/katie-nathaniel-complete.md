@@ -1595,6 +1595,9 @@ And as Katie and I locked the brakes of our two compact silver-and-black SwiftCh
 
 "The Café Car attendant just rolled the security grille up on the counter thirty feet behind us," I replied, reaching across the gap between our armrests to squeeze my twin sister's hand as the diesel locomotive gave two low horn blasts and the train glided smoothly away from the Norfolk platform into the dark winter morning. "Let's go get our free ginger ales and Dad's black coffee right now so we get our money's worth before Petersburg."
 
+Besides the promise Katie and I had made to each other behind a locked bedroom door on New Year's Eve when we were seventeen years old, all three of us—Katie, Dad, and I—took a daily prescription maintenance medication where mixing the drug with alcohol or tobacco carried a known, lethal side effect of death. Back in Richmond, and now in Washington, where lobbyists and senior lawmakers loved to clink glasses of expensive cabernet or pass around celebratory cigars in back rooms, that warning label on our pill bottles was our favorite conversational shield: nobody at a Capitol Hill reception ever tried to push a second glass of wine or a cocktail on a Senator after she cheerfully informed them that the known side effect of mixing it with her daily medication was dying on their carpet. For the three of us, cold ginger ale and hot black coffee from the ARTS Café Car were the only celebratory drinks we would ever need.
+
+
 ***
 
 #### Sunday, January 3, 2027, 9:12 AM — Detraining on the Mobile Lift at Alexandria Union Station
