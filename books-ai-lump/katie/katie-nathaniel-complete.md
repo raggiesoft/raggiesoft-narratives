@@ -1559,6 +1559,10 @@ In seventh grade, when Chad had walked out on Katie and left her crying in the m
 
 Taking a long, steadying breath, I squeezed Katie's hand back and leaned my head against her shoulder until the shaking in my chest finally subsided—knowing beyond a shadow of a doubt that as we headed toward high school graduation and our adult lives together, the only person in the world I would ever completely trust was sitting right beside me.
 
+# Era 5
+
+## Chapter 1
+
 # The Senator from Virginia
 
 ## Election Night, The Decision Desk Call, & The Referendum Mandate
