@@ -106,6 +106,26 @@ Katie Prairie's political career is sparked directly by a real-life 2008 Virgini
     - Whenever Katie is sworn into Virginia state or municipal office (**Virginia Beach City Council**, **Virginia House of Delegates**, and **Senate of Virginia**), she famously insists on swearing her oath of office with her hand resting on a bound copy of the **Constitution of the Commonwealth of Virginia**.
     - When she is sworn into the **United States Senate** on **January 3, 2027**, she famously swears her oath of office—ending with a ringing ***"So help me, God!"***—with her left hand resting on a bound leather copy of the **Constitution of the United States of America** held by her twin brother Nate.
 
+---
+
+## 4. The Four-Bedroom Alexandria Apartment Outside the `King St–Old Town` Bus Loop & Bedroom 4 Coding Sanctuary
+
+When the U.S. Senate is in session, Senator Katie Prairie does not live inside the District of Columbia—she, Nate, and their father David stay in a wheelchair-accessible **four-bedroom apartment located directly outside the `King St–Old Town` Station bus loop in Alexandria, Virginia**, giving them effortless, step-free access to both the buses in the King Street bus loop (**BOLT**, **Capital Transit**, **Fairfax Link**) and the trains at **`King St–Old Town` Metro** and **Alexandria Union Station (`ALX`)**, while allowing Katie to sleep in the Commonwealth of Virginia every single night.
+
+### Exact Four-Bedroom Floor Plan & Room Assignments
+- **Master Bedroom (*Officially Katie's Bedroom — Shared by Katie & Nate*)**:
+  - Furnished with a **Queen-sized bed** (beneath their framed blue butterfly print, with dual wall chargers for their two compact `SwiftChair` power wheelchairs).
+  - Although it is officially Katie's bedroom, **Katie and Nate share the Queen-sized bed every night**, maintaining their lifelong twin sibling sanctuary after long days on Capitol Hill.
+- **Bedroom 2 (*Officially Nate's Bedroom — Unused*)**:
+  - Officially designated as Nate's bedroom and set up with a neatly made **Full-sized bed**, dresser, and nightstand, though it goes unused at night because Nate sleeps beside his twin sister in the Master Bedroom.
+- **Bedroom 3 (*David's Bedroom*)**:
+  - Their father **David Prairie's** bedroom, furnished with a **Full-sized bed** so he can stay with the twins in Alexandria whenever the Senate is in session.
+- **Bedroom 4 (*The Three-Desk Office: `Quantum Studio 2026`, `PHP`, & Remote Work*)**:
+  - Dedicated home office shared by all three of them:
+    - **Katie & Nate's Dual Coding Desks**: Even as a sitting United States Senator, Katie still codes every evening alongside her twin brother Nate—evolving from the 1995 VDU Summer Camp lab and Dad's 2001 Virginia Beach Public Library *Quantum Basic* book to building and maintaining a **shared network of websites** together using **Quantum Studio 2026** and **PHP**.
+    - **David's Remote-Work Desk**: Their father David has his own desk in Bedroom 4 where he works remotely during the week while accompanying Katie and Nate in Alexandria.
+
+
 
 
 
