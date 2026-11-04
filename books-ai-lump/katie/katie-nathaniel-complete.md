@@ -1642,7 +1642,7 @@ As the ARTS train sounded its horn and pulled away northward toward the Potomac 
 
 **Date:** 2027-01-03 at 09:25 America/New_York
 
-![Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait.jpg)
+![Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg)
 
 #### Sunday, January 3, 2027, 9:25 AM — King Street–Old Town & The Yellow Line Over the Charles R. Fenwick Bridge
 
@@ -1738,7 +1738,7 @@ Right there on the floor of the Old Senate Chamber, with the Constitution of the
 
 **Date:** 2027-01-03 at 16:30 America/New_York
 
-![Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait.jpg)
+![Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg)
 
 #### Sunday, January 3, 2027, 4:30 PM — The First Invite to Cocktails & "A Known Side Effect of Death"
 
