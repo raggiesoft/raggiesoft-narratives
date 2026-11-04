@@ -108,22 +108,35 @@ Katie Prairie's political career is sparked directly by a real-life 2008 Virgini
 
 ---
 
-## 4. The Four-Bedroom Alexandria Apartment Outside the `King St–Old Town` Bus Loop & Bedroom 4 Coding Sanctuary
+## 4. The Two-Story Brick House on Sunset Drive (Just on the Other Side of the King Street Tunnel) & The Bedroom 4 Coding Sanctuary
 
-When the U.S. Senate is in session, Senator Katie Prairie does not live inside the District of Columbia—she, Nate, and their father David stay in a wheelchair-accessible **four-bedroom apartment located directly outside the `King St–Old Town` Station bus loop in Alexandria, Virginia**, giving them effortless, step-free access to both the buses in the King Street bus loop (**BOLT**, **Capital Transit**, **Fairfax Link**) and the trains at **`King St–Old Town` Metro** and **Alexandria Union Station (`ALX`)**, while allowing Katie to sleep in the Commonwealth of Virginia every single night.
+When the U.S. Senate is in session, Senator Katie Prairie does not live inside the District of Columbia—she, Nate, and their father David buy a **two-story red-brick house on Sunset Drive in Alexandria, Virginia** (modeled on the brick Colonial architecture at `1921 King Street` / `Sunset Drive`, referred to in prose simply as **"Sunset Drive"** without a house number).
 
-### Exact Four-Bedroom Floor Plan & Room Assignments
-- **Master Bedroom (*Officially Katie's Bedroom — Shared by Katie & Nate*)**:
-  - Furnished with a **Queen-sized bed** (beneath their framed blue butterfly print, with dual wall chargers for their two compact `SwiftChair` power wheelchairs).
-  - Although it is officially Katie's bedroom, **Katie and Nate share the Queen-sized bed every night**, maintaining their lifelong twin sibling sanctuary after long days on Capitol Hill.
-- **Bedroom 2 (*Officially Nate's Bedroom — Unused*)**:
-  - Officially designated as Nate's bedroom and set up with a neatly made **Full-sized bed**, dresser, and nightstand, though it goes unused at night because Nate sleeps beside his twin sister in the Master Bedroom.
-- **Bedroom 3 (*David's Bedroom*)**:
-  - Their father **David Prairie's** bedroom, furnished with a **Full-sized bed** so he can stay with the twins in Alexandria whenever the Senate is in session.
-- **Bedroom 4 (*The Three-Desk Office: `Quantum Studio 2026`, `PHP`, & Remote Work*)**:
-  - Dedicated home office shared by all three of them:
-    - **Katie & Nate's Dual Coding Desks**: Even as a sitting United States Senator, Katie still codes every evening alongside her twin brother Nate—evolving from the 1995 VDU Summer Camp lab and Dad's 2001 Virginia Beach Public Library *Quantum Basic* book to building and maintaining a **shared network of websites** together using **Quantum Studio 2026** and **PHP**.
-    - **David's Remote-Work Desk**: Their father David has his own desk in Bedroom 4 where he works remotely during the week while accompanying Katie and Nate in Alexandria.
+### A. Exterior Geography & Transit Sightlines (`Sunset Drive` $\leftrightarrow$ `King St–Old Town` & `ALX`)
+- **Right on the Other Side of the King Street Railroad Tunnel/Underpass**:
+  - The house sits immediately west of the steel railroad overpass/tunnel where King Street passes beneath the CSX / **ARTS** tracks and the **Capital Transit** Metro tracks.
+  - Looking out from the front yard and upstairs windows, you can see both **King St–Old Town Metro Station** and the elevated rail embankment of **Alexandria Union Station (`ALX`)** right across the underpass.
+  - A wide, flat sidewalk runs straight through the short King Street railroad underpass into the **`King St–Old Town` Station bus loop**, the **`King St–Old Town` Metro** entrance, and **`ALX`**—giving Katie and Nate effortless, step-free access to buses and trains while allowing Senator Katie Prairie to sleep in the Commonwealth of Virginia every single night.
+
+### B. Two-Story Floor Plan & Vertical Platform Lift Architecture
+- **Interior Through-Floor Vertical Platform Wheelchair Lift (`Ground Floor` $\leftrightarrow$ `Second Floor`)**:
+  - To make the two-story brick house 100% accessible for both Katie and Nate's compact `SwiftChair` power wheelchairs, they install an **interior residential vertical platform wheelchair lift** (a quiet, enclosed through-floor vertical lift shaft with flush threshold gates on the first and second floors) alongside the central hallway staircase so both siblings can roll between the ground floor and the second floor at will.
+- **First Floor (Ground Level)**:
+  - **Front Living Room & Dining Room (Facing the Street)**: Positioned at the front of the house behind the shuttered sash windows so anyone walking past on the sidewalk only sees a traditional living and dining room.
+  - **Accessible Kitchen & Ground-Floor Roll-In Bathroom**: Located in the center of the first floor with roll-under counters and a curbless roll-in shower.
+  - **Ground-Floor Back Master Bedroom (*Officially Katie's Bedroom — Shared by Katie & Nate*)**:
+    - Built in the **private back corner of the ground floor** overlooking the fenced backyard—specifically positioned **in the back of the house so nobody on the street can ever peer into a front window to see two adult opposite-gender siblings sharing a bed**.
+    - Furnished with their shared **Queen-sized bed** beneath the framed blue butterfly print and dual wall chargers for their two compact `SwiftChair` power wheelchairs.
+- **Second Floor (Upper Level — Reached via the Vertical Platform Lift or Stairs)**:
+  - **Bedroom 2 (*Officially Nate's Bedroom — Unused*)**:
+    - Upstairs bedroom officially designated as Nate's room and set up with a neatly made **Full-sized bed**, nightstand, and dresser, though it goes completely unused at night because Nate sleeps downstairs with Katie in the private ground-floor back bedroom.
+  - **Bedroom 3 (*David's Bedroom*)**:
+    - Upstairs bedroom for their father **David Prairie**, furnished with a **Full-sized bed** and adjacent upstairs bath.
+  - **Bedroom 4 (*The Upstairs Three-Desk Coding & Remote-Work Office Overlooking the Trains*)**:
+    - Using the vertical platform lift to roll their powerchairs up to the second floor, Katie and Nate share **Bedroom 4** with their dad as a three-desk home office with a direct view toward the elevated **`King St–Old Town`** and **`ALX`** train platforms:
+      - **Katie & Nate's Dual Coding Desks**: Even as a U.S. Senator, Katie sits side by side with Nate coding in **Quantum Studio 2026** and **PHP** on the **network of websites that the two siblings share**.
+      - **David's Remote-Work Desk**: Their father David has his own desk in Bedroom 4 where he works remotely during the week.
+
 
 
 
