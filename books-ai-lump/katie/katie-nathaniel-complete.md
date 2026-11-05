@@ -1933,33 +1933,43 @@ My throat tightened as I watched the tears glistening on my twin sister's cheeks
 
 "Never again," I promised her back, leaning across our armrests to hold her until her trembling eased.
 
-After taking hot showers in our freshly scrubbed grab-bar bathtub, Katie and I rolled out of the bathroom into the doorless back bedroom and stopped in front of the queen bed.
+After taking hot showers in our freshly scrubbed grab-bar bathtub and changing into soft, comfortable night shirts and sleep shorts, Katie and I rolled out of the bathroom into the doorless back bedroom and stopped side by side in front of the queen bed.
 
-Even with a clean spare blanket tossed over the bare mattress, the sagging center of the caving-in springs looked and felt like Tiffany's bed—the bed where I had spent a year trapped in misery.
+We took one look at that caving-in mattress in the far corner—the bed where Tiffany and I had slept during the worst year of my life—and both of us felt the exact same wave of revulsion at the exact same second.
 
-Katie looked at the caving-in mattress, looked at me, and shook her head.
+"I don't want to sleep where you and Tiffany slept, Nate," Katie said flatly, wrinkling her nose at the sagging center of the mattress. "Even if we buy brand-new sheets at the mall tomorrow so the bedroom doesn't look like an eyesore, I do not want either of us lying on that bed tonight."
 
-"I don't want to sleep on her bed tonight, Nate," Katie said softly. "Even if we buy new sheets at the mall tomorrow so the bedroom doesn't look like an eyesore, I don't want either of us lying on the bed she used."
+"Me neither," I agreed immediately. "Looking at that mattress just makes my skin crawl."
 
-"Me neither," I admitted in relief. "Where do you want to sleep?"
+Katie sat quiet for a moment in her wheelchair, then turned her head toward the straight carpeted hallway, where the standard-width white bi-folding doors of the hallway closet stood open on the left wall above the freshly vacuumed carpet we had cleared out that afternoon. All at once, a mischievous, brilliant spark lit up her blue eyes.
 
-Katie turned her wheelchair slightly toward the straight hallway, where the two white bi-folding doors of the hallway closet stood open on the left wall above the freshly vacuumed carpet we had cleared out that afternoon. Because both of us are autistic, we had always found comfort in tight, dark, enclosed spaces where the two of us could hold each other close and shut the whole outside world out.
+"I have a crazy idea," Katie said.
 
-"Let's put the sleeping bag and our two clean pillows right on the floor of the hallway closet," Katie said, her blue eyes warming. "It's completely clean, it's dark, it's quiet, and we can snuggle up together inside the sleeping bag without touching a single spring of her bed."
+"What's your crazy idea?" I asked.
 
-Five minutes later, we had spread the freshly washed sleeping bag and two soft pillows across the carpeted floor of the hallway closet, transferred out of our wheelchairs onto the closet floor side by side, and pulled the two white bi-folding doors nearly shut until the hallway light faded to a narrow thread.
+"What if we take the sleeping bag and the pillows I was using on the green sofa last night and move them right onto the carpeted floor inside the hallway closet so the two of us can sleep in the pitch dark?" Katie asked.
 
-"I missed sleeping right beside my twin sister," I whispered inside the warm, dark quiet of the closet as a single tear of relief slipped from the corner of my eye onto the pillow.
+The moment she said it, my whole chest relaxed. Because both of us are autistic, vast open rooms with drafty windows and streetlamp glare leaking through mini-blinds could leave our nervous systems on high alert after a traumatic weekend—whereas a small, enclosed, dark space where we could zip up together inside a shared sleeping bag and hold each other close felt like an impenetrable fortress.
 
-Turning on my side inside the shared sleeping bag, I held Katie close in the quiet dark.
+"Katie, that isn't crazy at all—that's genius," I smiled.
 
-"You're still shaken up from everything today, aren't you?" Katie asked comfortingly, resting a gentle hand against my cheek as I laid my head on her shoulder.
+Rolling back out to the bright green sofa in the living room, we gathered up the warm navy-blue sleeping bag and the two pillows Katie had used the night before, carried them across our laps down the carpeted hallway, and spread the sleeping bag and pillows neatly across the vacuumed carpet on the floor of the hallway closet.
 
-She recognized the overwhelmed look in my eyes right away.
+When it was finally bedtime, Katie and I parked our compact SwiftChairs side by side just outside the closet threshold, transferred down onto the soft carpet in our night shirts and sleep shorts, and climbed into the shared sleeping bag together. Reaching up from inside our warm fabric cocoon, I pulled the two white bi-folding closet doors completely closed until they latched, and Katie reached up to click off the overhead closet light.
 
-"You just want to hold me, don't you?" Katie whispered, wrapping both arms securely around my shoulders in the snug, dark safety of the closet so I wouldn't burst into tears again. "It's alright, Nate. Both of us went through hell this weekend, and you're emotionally exhausted. We had a long afternoon scrubbing this whole apartment back to life—so tonight, just hold onto me and get some sleep."
+Instant, velvet darkness wrapped around us from wall to wall.
 
-She leaned over and gently kissed my forehead goodnight, just like we used to do when we were kids on Delaney Street, and for the first night in over a year, both of us fell asleep in each other's arms feeling completely safe.
+"I missed sleeping right beside my twin sister," I whispered inside the snug, pitch-dark quiet of the enclosed closet as a single tear of relief slipped from the corner of my eye onto the pillow.
+
+Turning on our sides facing each other inside the shared sleeping bag, we cuddled up close in the dark, the enclosed walls of the closet and the steady, deep-pressure warmth of our arms around each other calming every last tremor of fight-or-flight anxiety in our autistic minds.
+
+"You're still shaken up from everything today, aren't you?" Katie asked comfortingly, resting a gentle hand against my cheek as I laid my head against her shoulder.
+
+Even in the dark, she knew me by heart.
+
+"You just want to hold me, don't you?" Katie whispered, wrapping both arms securely around my shoulders inside the shared sleeping bag so I wouldn't burst into tears again. "It's alright, Nate. Both of us went through hell this weekend, and you're emotionally exhausted. We had a long afternoon scrubbing this whole apartment back to life—so tonight, inside our own quiet little sanctuary, just hold onto me and get some sleep."
+
+She leaned over and gently kissed my forehead goodnight, just like we used to do when we were kids on Delaney Street, and bundled together inside that dark, enclosed hallway closet, both of us fell fast asleep feeling completely secure.
 
 ### Part 2: The 8:13 AM Bus to CCHR, All-New Queen Bedding, Dad's Pickup Truck, & The Hallway Closet Sanctuary
 
@@ -2111,17 +2121,17 @@ Standing beside his pickup truck with Katie's wooden dresser still strapped in t
 
 Neither Tiffany nor her mother dared to talk back to Dad. Avoiding our eyes, they hurried past him to the front threshold where Katie and I had stacked all of Tiffany's bags and boxes in one giant pile. Because they had only come in a minivan, they could only take what would actually fit inside a minivan. Trip after silent trip, Tiffany and her mother hauled out bag after overstuffed bag of her clothes and personal clutter, shoving them into the back cargo area and across the middle bench seat until the minivan was packed nearly to the roof. There was zero room left in their van for the queen bed or for Tiffany's bulky bedroom dresser.
 
-When Tiffany's mother glanced at the stuffed minivan and muttered that they didn't have room for the television, the rabbit-ears antenna, and the VCR that were still sitting on top of Tiffany's dresser in the back bedroom, neither Katie nor I wanted a single piece of her electronics left behind—and Dad wasn't having it either.
+When Tiffany's mother glanced at the stuffed minivan and muttered that they didn't have room for the television, the rabbit-ears antenna, and the VCR that were still sitting on top of Tiffany's dresser against the right wall of the back bedroom beneath the high-mounted through-wall air conditioner, neither Katie nor I wanted a single piece of her electronics left behind—and Dad wasn't having it either.
 
 "You're taking that television and VCR with you right now," Dad said flatly.
 
-Marching straight down the hallway into the doorless back bedroom, Dad yanked the power cords out of the wall outlet, unplugged the coaxial lead, lifted Tiffany's television, rabbit ears, and VCR off the top of her dresser in one load, and carried them right out across the courtyard himself. Opening the minivan's passenger-side sliding door, Dad wedged the television, the VCR, and the folded rabbit ears firmly onto the floorboard in front of the middle seat, then held out his open palm.
+Marching straight down the carpeted hallway into the doorless back bedroom, Dad stepped over to the right bedroom wall beneath the high-mounted air conditioner, yanked the power cords out of the wall outlet, unplugged the coaxial lead, lifted Tiffany's television, rabbit ears, and VCR off the top of her dresser in one load, and carried them right out across the courtyard himself. Opening the minivan's passenger-side sliding door, Dad wedged the television, the VCR, and the folded rabbit ears firmly onto the floorboard in front of the middle seat, then held out his open palm.
 
 Without a word, Tiffany dropped her brass apartment key into Dad's hand, climbed into the minivan beside her mother, and backed out of the Sea Breeze West parking lot for the last time in our lives.
 
 Katie promised right away that she would comfort me whenever I needed it—which I did. As the minivan disappeared down West Ocean View Avenue, I could still see the fierce, protective anger burning in my dad's eyes: anger directed squarely at Tiffany and her mother for everything they had put me through.
 
-Refusing to leave Tiffany's dresser inside our apartment for one more minute, Dad marched back into the bedroom, muscled Tiffany's empty dresser out through the straight hallway and out the front door by himself, and hoisted it into the bed of his pickup truck so he could haul it straight to the landfill on his way home. Once Tiffany's dresser was out of the apartment and Katie's wooden dresser and her television and DVD player were carried in from the pickup truck to take its place, the only piece of furniture left behind from Tiffany was the queen bed pushed into the far-left corner of the bedroom—just a box spring and an aging queen mattress whose center was noticeably caving in.
+Refusing to leave Tiffany's dresser inside our apartment for one more minute, Dad marched back into the bedroom, muscled Tiffany's empty dresser away from the right wall below the air conditioner, hauled it out through the straight carpeted hallway and out the front door by himself, and hoisted it into the bed of his pickup truck so he could take it straight to the landfill on his way home. Once Tiffany's dresser was out of the apartment, Dad, Katie, and I brought Katie's wooden dresser in from the pickup truck and placed it right against that exact spot on the right wall of the bedroom below the high-mounted air conditioner, setting Katie's television and her DVD player neatly on top of her dresser. Now the only piece of furniture left behind from Tiffany was the queen bed pushed into the far-left corner of the bedroom—just a box spring and an aging queen mattress whose center was noticeably caving in.
 
 Pressing his hand against the sagging middle of the bare mattress as we stripped it down and fitted our crisp new navy-and-slate-blue sheets, comforter, and four fresh pillows from Chesapeake Bay Mall over it, Dad shook his head at how badly the springs were caving in and promised Katie and me that he would replace the queen bed for us.
 
@@ -2169,7 +2179,7 @@ When the front door clicked shut behind Dad and the quiet hum of our freshly for
 
 **Date:** 2005-11-24 at 13:00 America/New_York
 
-![Looking straight down the far-right hallway of Sea Breeze West Apartment 3: both the right wall and the wall straight ahead (holding the through-wall box A/C unit) are solid exterior walls, while on the left wall of the hallway the two white bi-folding closet doors open outward toward the hallway to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a completely clear carpeted closet floor lined with a navy-blue sleeping bag and two white pillows where nineteen-year-old twins Katie and Nate sleep together every night]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
+![Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
 
 #### Thursday, November 24, 2005, 1:00 PM — Thanksgiving Dinner With Dad in Virginia Beach
 
@@ -2239,7 +2249,7 @@ Both Katie and I looked up in surprise. "You don't think it's weird that we're s
 
 Pulling out his carpenter's pencil and level, Dad marked the vertical mounting tracks on the kitchen half of the closet wall starting twenty-eight inches above the carpet—leaving the entire bottom level of the closet completely open from end to end so that even with four tiers of white wire pantry shelving mounted on the half closest to the kitchen, and a sturdy coat rod mounted high on the half closest to the bedroom for our winter jackets, the carpeted floor beneath remained a 100-percent unobstructed, full-length sleeping-bag berth for the two of us.
 
-![Looking straight down the far-right hallway of Sea Breeze West Apartment 3: both the right wall and the wall straight ahead (holding the through-wall box A/C unit) are solid exterior walls, while on the left wall of the hallway the two white bi-folding closet doors open outward toward the hallway to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a completely clear carpeted closet floor lined with a navy-blue sleeping bag and two white pillows where nineteen-year-old twins Katie and Nate sleep together every night]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
+![Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
 
 Across Black Friday afternoon and Saturday morning, the three of us worked together in the hallway like a well-oiled crew. From our wheelchairs, Katie and I held the spirit level against the drywall, handed Dad the steel drywall anchors, screws, and wire shelf brackets, and tested the height clearances while Dad drilled the vertical standards into the studs, snapped the four white wire pantry shelves into place on the kitchen side, and anchored the coat rod and upper shelf on the bedroom side.
 
