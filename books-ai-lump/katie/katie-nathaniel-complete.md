@@ -2367,7 +2367,7 @@ I looked at the calendar pinned beside our desk and did the math in my head. "In
 
 "That's three full years of building an archive, showing up in OmniSearch results whenever anyone looks up a CVTA bus route, and building a community of riders across Hampton Roads," Katie said, her voice steady and quietly determined. "If we start putting in the work right now in 2005, then by the time the 2008 Mayor's Race in Virginia Beach comes around, Ideas for Coastal Virginia Transit will already have its name out there—and maybe, for once, the people running to lead our city will actually have to pay attention to the people who ride the bus."
 
-## Do Better: Challenging CVTA's Complacency & The 2008 Mayoral Invitation
+## Do Better: The Four-Bus Loop, Kempsville City Council, & The Path to the 85th House District
 
 ### Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge
 
@@ -2507,17 +2507,111 @@ Katie stared at the screen for three seconds, and then a slow, fierce grin broke
 
 "Out of every mayoral candidate in Chesapeake, Portsmouth, Hampton, and Virginia Beach—and every City Council candidate across all six cities—only one person had the guts to say yes," Katie said, her blue eyes shining with determination as she pulled the folded CVTA Virginia Beach route map across our desk. "And he's running for Mayor right here in Virginia Beach. Come on, Nate—get your video camera batteries on the charger. We're going to meet him at the CCHR Virginia Beach Campus bus loop, and we're going to take him on the exact four-bus circuit across Virginia Beach and Norfolk: Route 29 to Hilltop, Route 20 to Glenrock Mall, Route 15 down Military Highway, and Route 12 right back to CCHR."
 
-### Part 2: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run
+### Part 2: The Four-Bus Mayoral Loop, The 5:48 PM Municipal Center Curfew Trap, & Winning the Kempsville City Council Seat
 
-**Date:** 2011-02-10 at 11:35 America/New_York
+**Date:** 2008-09-16 at 14:00 America/New_York
 
-#### Thursday, February 10, 2011, 11:35 AM — Stopped Outside the Third-Floor Public Viewing Gallery by Capitol Police
+#### Tuesday, September 16, 2008, 2:00 PM — Four Buses Across Two Cities & The Expired Two-Hour Transfer
 
-"The public viewing gallery for the House of Delegates should be right around this corner on the left, Nate," twenty-five-year-old Katie said as the brass doors of the small historic passenger elevator slid open on the third floor of the Virginia State Capitol.
+"Right on time," twenty-three-year-old Katie said, nodding toward the concrete island at the Community College of Hampton Roads Virginia Beach Campus transit hub as mayoral candidate Scott Tanner locked his sedan in the student visitor lot and walked over to our two compact SwiftChairs with a notebook tucked under his arm.
+
+"Katie, Nate—good to meet you both in person," Scott said, shaking Katie's hand and then mine while I checked the microphone levels on the compact digital camcorder mounted to my wheelchair lap tray. "I brought crisp single-dollar bills and quarters just like your email said. Where does our loop start?"
+
+"Right here on Route 29 northbound to Hilltop," Katie said, pointing up at the approaching forty-foot low-floor bus pulling into the CCHR bus loop. "We're going to ride a single continuous four-bus circuit across Virginia Beach and Norfolk and bring you right back to your car at this exact bus stop: Route 29 from CCHR up to Hilltop, Route 20 westbound down Virginia Beach Boulevard into Norfolk to Glenrock Mall, Route 15 southbound down Military Highway back across the city line into Virginia Beach, and Route 12 back here to CCHR."
+
+When the front ramp of the Route 29 bus folded down onto the concrete pad, Katie and I rolled aboard into the dual front wheelchair securement bays and swiped our thirty-day CVTA magnetic passes through the farebox. Right behind us, Scott stepped up into the vestibule, fed his base fare plus the paper transfer fee into the bill validator, and took the timestamped paper transfer slip the driver tore off the cutter bar.
+
+"Keep an eye on the punched time at the top of that paper transfer," I told Scott as I framed the timestamped slip in my camcorder viewfinder while the bus pulled out of CCHR onto Princess Anne Road. "It's good for exactly two hours."
+
+Because Virginia Beach's local routes ran on forty-five- to sixty-minute headways without synchronized transfer pulses, the math of the two-hour paper transfer trap unfolded right in front of my camera lens in real time.
+
+Our first leg on Route 29 carried us northeast up First Colonial Road to the Hilltop transfer stop, where we waited twenty-five minutes on an unsheltered concrete sidewalk pad in the September sun before boarding a westbound Route 20 bus down Virginia Beach Boulevard.
+
+Halfway down the Boulevard past Little Neck and Newtown Road, an older Hispanic gentleman carrying a canvas tool bag boarded the bus and asked the operator a confused question in Spanish about which stop connected to the Military Highway corridor. Before the operator could shake his head, Scott leaned across the aisle and answered the rider fluently in Spanish—explaining the exact stop at Glenrock Mall where they could both transfer to Route 15.
+
+"You speak Spanish?" Katie asked with genuine respect when the rider thanked Scott warmly and sat down two rows behind our wheelchairs.
+
+"Picked it up during my Navy deployments to South America," Scott said simply. "Half the folks riding Route 20 work in the hospitality kitchens at the Oceanfront or the construction yards along the Boulevard. A mayor ought to be able to talk to the people who keep the city running."
+
+When Route 20 dropped us off at the Glenrock Mall transit hub in Norfolk, we waited another twenty-eight minutes for our third bus—a southbound Route 15 heading down Military Highway toward Virginia Beach.
+
+By the time the Route 15 bus rolled south along Military Highway and climbed the bridge over the Eastern Branch of the Elizabeth River to cross from Norfolk back into Virginia Beach, it was four-fifteen in the afternoon. Holding my camcorder steady on my lap tray with the river glinting through the bus window behind Katie and Scott, I recorded the conversation that became the centerpiece of our video.
+
+"We're crossing back into Virginia Beach right now, Scott," Katie said on camera, holding up the official printed CVTA timetables for Route 33 and Route 12. "Let's talk about what happens if a taxpaying citizen of Virginia Beach who relies on the bus—like Nate and me, or a working parent, or a senior citizen—wants to attend a formal evening meeting of the Virginia Beach City Council down at the Municipal Center in Courthouse."
+
+"Formal City Council meetings gavel in at six o'clock in the evening," Scott said, looking down at the printed schedule columns in Katie's hand.
+
+"Six o'clock in the evening," Katie repeated clearly. "Now look at the Route 33 schedule serving the Virginia Beach Municipal Center. You can ride Route 33 down to City Hall in the afternoon just fine. If you live at the north end of the Oceanfront, the last northbound Route 33 all the way to Sixty-Eighth Street leaves the Municipal Center at 6:01 PM—one minute after the council meeting starts—and the 7:01 PM trip terminates early at Nineteenth Street. And if you live anywhere else in Virginia Beach and need to ride Route 33 from the Municipal Center back to the CCHR hub to catch your connecting bus home—like Route 12, Route 25, or Route 29—look at the departure times."
+
+Katie tapped her finger against the bottom row of the Route 33 and Route 12 timetables so my camera lens could capture the exact numbers.
+
+"The very last Route 33 out of the Municipal Center to CCHR leaves at 6:33 PM, and by the time it reaches CCHR, every single connecting route except Route 36 has already shut down for the night," Katie said. "Because Nate and I live in Kempsville and ride Route 12 home from CCHR toward Military Highway and Indian River Road, look at when the last Route 12 bus of the entire day departs CCHR: 5:48 PM. To catch that 5:48 PM Route 12 home from CCHR, we have to leave City Hall on the 5:33 PM Route 33 bus—twenty-seven minutes before the six o'clock City Council meeting even starts! Our last bus home literally pulls out of CCHR twelve minutes before the Mayor bangs the gavel."
+
+Scott stared at the two printed timetables in disbelief, looking up into my camera lens. "So if you ride the bus to a six o'clock Virginia Beach City Council meeting to speak during public comment, you're stranded at City Hall with no way home."
+
+"Every single Tuesday night," I said from behind the camera. "You cannot tell citizens that local government is open to the public when City Hall's own bus schedule locks bus riders and wheelchair users out thirty minutes before the meeting begins."
+
+Twenty minutes later, when we stepped off Route 15 at Indian River Road and boarded our fourth and final bus—eastbound Route 12 back to CCHR to complete our circle—the final piece of CVTA's broken math played out right on cue.
+
+Katie and I rolled up the ramp and swiped our thirty-day passes. Behind us, Scott handed his paper transfer slip to the Route 12 operator.
+
+The operator glanced at the punched holes along the top edge of the paper slip and shook his head.
+
+"Sorry, sir—this transfer expired nineteen minutes ago," the driver said, tapping the two-hour rule printed on the farebox. "That'll be another full dollar-fifty fare to ride back to the college."
+
+Right on camera, Scott had to reach into his pocket and feed a second full fare into the box just to finish a single afternoon round-trip back to his parked car at CCHR—solely because waiting for hourly buses had eaten up more than two hours.
+
+***
+
+#### November 2010 to January 2011 — Running for the Kempsville Seat, The Ramp to the Dais, & Fixing the 5:48 PM Curfew
+
+That night, I edited the four-bus ride down into a crisp twelve-minute documentary video with full burned-in open captions and published it at the top of Ideas for Coastal Virginia Transit.
+
+Within a week, the video had been watched more than forty thousand times across Hampton Roads and picked up by every newspaper and television station in Norfolk and Virginia Beach. In the November 2008 election, twenty-year incumbent Mayor Myra Overton was defeated, and although the wealthy banking-executive candidate edged out Scott Tanner in the four-way race, the newly elected mayor was forced by the public outcry over our video to appoint two transit riders to Virginia Beach's citizen advisory seats.
+
+Yet when it came time for the eleven-member Virginia Beach City Council to vote on the spring 2009 and spring 2010 municipal budgets, the entrenched council majority—led in our own Kempsville District by ten-year incumbent Councilman Harold Dietz—quietly stripped out the funding for late-evening bus service out of the Municipal Center and CCHR, muttering at a Tuesday afternoon work session that "almost nobody rides the bus out of Courthouse after dark anyway."
+
+Sitting side by side at our desks in our Kempsville house on Lord Nelson Drive that evening watching the archived City Hall webcast, Katie reached over and clicked Pause on the video player.
+
+"Of course nobody rides the bus out of Courthouse after dark, Councilman Dietz," Katie said to the monitor, her voice calm and razor-sharp. "There *isn't* a bus out of Courthouse after 6:33 PM! That's like taking the ramp off a building and claiming nobody in a wheelchair ever comes inside."
+
+Katie turned her SwiftChair toward me, her blue eyes steady.
+
+"Harold Dietz's Kempsville District seat on the Virginia Beach City Council is on the ballot this November, Nate," Katie said. "City Council elections in Virginia are non-partisan, and we've owned our home right here in Kempsville for two years. None of those council members were willing to ride the bus with us in 2008, and now they just voted to keep bus riders locked out of six o'clock Council meetings. What do you say we stop waiting for Councilman Dietz to read our blog—and go take his seat?"
+
+"Let's do it," I said immediately, already opening a fresh PHP project directory on my laptop.
+
+Over the next six months of 2010, our twenty-five-year-old campaign for the non-partisan Kempsville District seat on the Virginia Beach City Council didn't look like anything the Courthouse political establishment had ever seen.
+
+We didn't hire a campaign consultant, we didn't take a dime from real-estate developers, and we didn't hold a single cocktail fundraiser. Instead, I coded a custom PHP voter-turnout and sidewalk-canvassing web application on our home server, mapping every precinct in Kempsville, Bellamy Manor, Brandon, and Larkspur. Every weekday morning and afternoon, Katie and I campaigned directly from the dual front wheelchair bays of CVTA Routes 12, 15, 25, and 29, talking with bus commuters, CCHR students, and working parents. Every evening and weekend—with Dad driving down from Alexandria on Saturdays and Sundays to walk up front-porch steps and hand our palm cards to homeowners while Katie and I rolled our SwiftChairs right up the driveway to the bottom step—we talked face-to-face with thousands of Kempsville neighbors about neighborhood drainage, missing sidewalks, covered bus shelters, and opening City Hall to working people.
+
+Councilman Harold Dietz didn't take us seriously until October, when he showed up at a Kempsville Civic League candidates' night without a single note and Katie dismantled his ten-year voting record on infrastructure and transit line by line from memory.
+
+On Tuesday, November 2, 2010, twenty-five-year-old Katie Prairie defeated incumbent Councilman Harold Dietz by eleven percentage points to become the newest member of the Virginia Beach City Council.
+
+Before Katie's swearing-in ceremony in January 2011, City Hall facilities crews had to remove the steps on the right side of the curved mahogany City Council dais at the Virginia Beach Municipal Center and construct a permanent, carpeted wheelchair ramp up to the Kempsville District desk.
+
+When twenty-five-year-old Councilwoman Katie Prairie rolled up that ramp on the first Tuesday evening of January 2011—with me holding our bound leather copy of the Constitution of the Commonwealth of Virginia beside her wheelchair as she placed her left hand on the page and swore her oath of office ending with a clear, ringing *"So help me, God!"*—the very first ordinance and CVTA Transportation Service Plan budget amendment she introduced on the eleven-member Council was the Evening Civic Access Transit Pulse.
+
+Katie didn't just drop the resolution into the clerk's hopper and hope for the best. Over the next eight weeks, she and I sat down one-on-one with every single member of the Virginia Beach City Council, showing them the exact dollar-for-dollar operating math on my laptop and bringing thirty working commuters, CCHR night-class students, and disabled citizens to the afternoon sessions to testify.
+
+In May 2011, by a nine-to-two roll-call vote, Councilwoman Katie Prairie won passage of her landmark amendment—extending CVTA Route 33 out of the Municipal Center until 10:30 PM on Council nights and funding a synchronized 9:00 PM and 10:00 PM evening connecting pulse for Routes 12, 25, 29, and 36 at the CCHR Virginia Beach Campus hub.
+
+For the first time in the history of Virginia Beach, any citizen who rode a public bus or used a wheelchair could attend a six o'clock City Council meeting, speak at the public microphone, and ride a CVTA bus safely home afterward.
+
+And on every single Tuesday night when the Virginia Beach City Council adjourned at nine-thirty, Councilwoman Katie Prairie and I rolled down the dais ramp, rolled out to the Municipal Center bus shelter alongside the citizens who had come to watch the meeting, swiped our thirty-day CVTA passes, and rode the 9:45 PM Route 33 and Route 12 pulse right back home to Kempsville.
+
+### Part 3: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run
+
+**Date:** 2012-02-09 at 11:35 America/New_York
+
+#### Thursday, February 9, 2012, 11:35 AM — Stopped Outside the Third-Floor Public Viewing Gallery by Capitol Police
+
+"The public viewing gallery for the House of Delegates should be right around this corner on the left, Nate," twenty-six-year-old Katie said as the brass doors of the small historic passenger elevator slid open on the third floor of the Virginia State Capitol.
 
 Side by side, we guided our compact SwiftChairs out of the narrow elevator cab onto the polished heart-pine floorboards of the third-floor balcony corridor.
 
-It was a cold Thursday morning in February 2011, midway through the winter session of the Virginia General Assembly. Earlier that morning at nine o'clock, after riding up from Hampton Roads to testify as citizen transit advocates representing Ideas for Coastal Virginia Transit, Katie and I had presented our regional ridership and bus-stop accessibility data to a House Transportation subcommittee down in the General Assembly Building. Since our afternoon train back home didn't leave until four o'clock, we had rolled through the underground Capitol tunnel hoping to sit in the public viewing gallery and watch the full House of Delegates convene at noon.
+It was a cold Thursday morning in February 2012, midway through the winter session of the Virginia General Assembly and thirteen months into Katie's term representing the Kempsville District on the Virginia Beach City Council. Earlier that morning at nine o'clock, after riding up from Hampton Roads to testify both as a Virginia Beach City Councilwoman and as co-founder of Ideas for Coastal Virginia Transit, Katie and I had presented our evening ridership numbers and bus-stop accessibility data to a House Transportation subcommittee down in the General Assembly Building—urging the state legislature not to slash the state transit operating funds that matched our new evening bus service in Virginia Beach. Since our afternoon train back home didn't leave until four o'clock, we had rolled through the underground Capitol tunnel hoping to sit in the public viewing gallery and watch the full House of Delegates convene at noon.
 
 Ahead of us, a line of schoolteachers, college students, and day-trippers was filing past the velvet rope into the steeply tiered wooden benches of the third-floor House Public Gallery.
 
@@ -2533,17 +2627,17 @@ My eyebrows drew together. "Is there not a level space at the top of the gallery
 
 "It's not the floor space inside the doorway, sir—it's emergency evacuation safety," the Capitol Police lieutenant explained earnestly, gesturing back toward the small retrofit elevator we had just ridden up and the steep, winding eighteenth-century stairwell at the end of the hall. "Thomas Jefferson designed this building in 1788. If a fire alarm goes off or we have to order an emergency evacuation of the Capitol while the House is in session, that passenger elevator automatically locks out and recalls to the ground floor. From this third-floor gallery, the only way out of the building is down three flights of steep, narrow historic stairs. My officers have no safe way to carry power wheelchairs down three stories of stairs in an emergency, and I can't put the two of you in a position where we couldn't get you out of the building safely."
 
-Katie and I looked at each other across our armrests. Having spent ten years navigating every flavor of architectural barrier in Virginia, both of us could tell immediately that the Capitol Police officer wasn't trying to brush us off—he was looking at a genuine life-safety trap in a two-hundred-year-old building and taking his duty seriously.
+Katie and I looked at each other across our armrests. Having spent more than ten years navigating every flavor of architectural barrier in Virginia, both of us could tell immediately that the Capitol Police officer wasn't trying to brush us off—he was looking at a genuine life-safety trap in a two-hundred-year-old building and taking his duty seriously.
 
 "So there's nowhere in the State Capitol where a citizen in a wheelchair is allowed to watch their own House of Delegates vote?" Katie asked quietly, not angry at the officer, but with that familiar, steady look in her blue eyes whenever she ran into a systemic wall.
 
-"I didn't say that, ma'am," the Capitol Police lieutenant said with a reassuring half-smile, reaching up to unclip the microphone of his shoulder radio. "Give me two minutes right here by the elevator. I'm going to walk downstairs and speak directly to the Sergeant-at-Arms and House Leadership to explain that we have two citizens in wheelchairs upstairs who came to watch the House session, and that Capitol Police have emergency-egress safety concerns with the third-floor gallery. Let me see what Leadership can do."
+"I didn't say that, ma'am," the Capitol Police lieutenant said with a reassuring half-smile, reaching up to unclip the microphone of his shoulder radio. "Give me two minutes right here by the elevator. I'm going to walk downstairs and speak directly to the Sergeant-at-Arms and House Leadership to explain that we have a member of the public in a wheelchair and her companion upstairs who came to watch the House session, and that Capitol Police have emergency-egress safety concerns with the third-floor gallery. Let me see what Leadership can do."
 
 We parked our SwiftChairs beside the marble bust in the third-floor elevator vestibule and waited while the ten-minute warning bell for the noon floor session chimed overhead.
 
 Four minutes later, the brass indicator needle above the third-floor elevator swung upward. The doors slid open, and the Capitol Police lieutenant stepped out alongside a tall gentleman in a dark three-piece suit wearing the silver badge of the Sergeant-at-Arms of the Virginia House of Delegates.
 
-"Miss Prairie and Mr. Prairie?" the Sergeant-at-Arms asked warmly.
+"Councilwoman Prairie and Mr. Prairie?" the Sergeant-at-Arms asked warmly.
 
 "Yes, sir," I said.
 
@@ -2553,7 +2647,7 @@ Katie's blue eyes widened slightly as she looked across at me, and we rolled our
 
 ***
 
-#### Thursday, February 10, 2011, 11:52 AM — Seated on the House Floor Near Virginia Beach Delegate Ronald Villa & The Spark
+#### Thursday, February 9, 2012, 11:52 AM — Seated on the House Floor Near Virginia Beach Delegate Ronald Villa & The Spark
 
 When the elevator doors opened on the first floor, the marble rotunda corridor outside the House Chamber was packed three-deep with corporate lobbyists, reporters, and political staffers pressed against the brass velvet rope.
 
@@ -2561,7 +2655,7 @@ Under the rules of the House of Delegates, members of the general public and reg
 
 "Make way, please—honored guests of the House coming through to the Floor," the Sergeant-at-Arms announced.
 
-Thirty-five lobbyists in thousand-dollar suits parted in stunned silence as two twenty-five-year-old twins from Virginia Beach rolled their compact black SwiftChairs straight across the threshold onto the lush green carpet of the Virginia House of Delegates Chamber.
+Thirty-five lobbyists in thousand-dollar suits parted in stunned silence as two twenty-six-year-old twins from Virginia Beach rolled their compact black SwiftChairs straight across the threshold onto the lush green carpet of the Virginia House of Delegates Chamber.
 
 Rolling inside at floor level felt completely different from looking at photographs of the chamber. High above us rose the cream-and-gold coffered ceiling and the glittering crystal chandeliers; directly ahead stood the Speaker's elevated marble rostrum and the twin electronic voting boards listing all one hundred Delegates in alphabetical order. And instead of staring down at the tops of lawmakers' heads from a distant third-floor balcony, we were rolling right past the curved rows of polished mahogany desks where the elected representatives of the Commonwealth sat.
 
@@ -2575,7 +2669,7 @@ The instant his eyes landed on our two wheelchairs, Delegate Ronald Villa broke 
 
 "We tried to go upstairs to the third-floor public viewing gallery, Delegate Villa," I explained with a grin, "and Capitol Police stopped us because they were worried about how they'd evacuate our wheelchairs down three flights of stairs in an emergency. They talked to House Leadership, and the Sergeant-at-Arms brought us down here to sit next to you."
 
-"Well, I couldn't ask for better company on my aisle!" Delegate Villa laughed, gesturing toward the two neighboring delegates seated to his left. "Hey, guys, let me introduce you to Katie and Nathaniel Prairie from back home in Virginia Beach. They run the Ideas for Coastal Virginia Transit blog. Back when I was serving At-Large on the Virginia Beach City Council before I came up to Richmond, I was fighting tooth and nail to get more covered bus shelters built for our bus riders so working folks and seniors wouldn't be standing out in the pouring rain along Kempsville Road, Princess Anne Road, and Holland Road. Every time city staff claimed we didn't know which bus stops needed shelters the most, Katie and Nate had already ridden every route in their wheelchairs and published the exact stop-by-stop boarding numbers and sidewalk photos on their website!"
+"Well, I couldn't ask for better company on my aisle!" Delegate Villa laughed, gesturing toward the two neighboring delegates seated to his left. "Hey, guys, let me introduce you to Virginia Beach City Councilwoman Katie Prairie from Kempsville and her twin brother Nathaniel. Long before Katie won her Kempsville Council seat, the two of them started the Ideas for Coastal Virginia Transit blog. Back when I was serving At-Large on the Virginia Beach City Council before I was elected to the House, I was actively fighting to get more covered bus shelters built for our bus riders so working folks and seniors wouldn't be standing out in the pouring rain along Kempsville Road, Princess Anne Road, and Holland Road. Every time city staff claimed we didn't know which bus stops needed shelters the most, Katie and Nate had already ridden every route in their wheelchairs and published the exact stop-by-stop boarding numbers and sidewalk photos on their website!"
 
 The two neighboring delegates smiled and shook our hands across our lap trays as the noon bell rang and the Speaker rapped his wooden gavel to call the House of Delegates to order.
 
@@ -2583,19 +2677,19 @@ For the next hour and fifteen minutes, Katie and I sat side by side in our Swift
 
 Whenever a bill came up on the electronic calendar board, Delegate Villa leaned over his desk armrest between votes to whisper a quick, friendly explanation of the parliamentary procedure—pointing out how the white request-to-speak buttons worked on the desk consoles, how committee chairmen signaled floor amendments, and how the red and green lights on the big wall boards tallied the yeas and nays in real time. Even though he sat on the Republican side of the aisle and knew our transit blog frequently called out state and local leaders in both parties when public transit got shortchanged, Delegate Villa treated us with the warm, unpretentious respect of a former At-Large City Councilman who genuinely cared about the bus riders in his city.
 
-Then, at twelve-forty-five, a budget amendment came up on the floor to restore four million dollars in state operating assistance for local public bus systems across Hampton Roads, Richmond, and Northern Virginia.
+Then, at twelve-forty-five, the budget amendment Katie and I had testified for at nine o'clock that morning came up on the floor—a measure to restore four million dollars in state operating assistance for local public bus systems across Hampton Roads, Richmond, and Northern Virginia.
 
 Sitting right on the House Floor, Katie and I watched the big electronic voting board on the front wall as the bell chimed and the red and green lights blinked on beside each lawmaker's name.
 
 Right next to us, Delegate Ronald Villa reached forward and pressed his green *YEA* button to support the transit funds for Hampton Roads.
 
-Across the chamber, however, the incumbent Delegate representing our own Eighty-Fifth House District back home in Kempsville—a career politician who had ignored three straight emails we had sent him asking for a five-minute constituent meeting about CVTA's evening bus cuts—didn't even look up from his cell phone as he reached over and slapped his red *NAY* button, helping defeat the transit amendment by six votes.
+Across the chamber, however, the incumbent Delegate representing our own Eighty-Fifth House District back home in Kempsville—Delegate Richard Tatum, who had ignored three straight emails Katie had sent him asking for a ten-minute meeting to coordinate state matching funds for Virginia Beach's new evening bus routes—didn't even look up from his cell phone as he reached over and slapped his red *NAY* button, helping defeat the transit amendment by six votes.
 
 I turned my head slightly to look at my twin sister.
 
-Katie wasn't looking at the floor carpet anymore. Sitting upright in her compact SwiftChair on the floor of the Virginia House of Delegates, her blue eyes were locked onto the mahogany desks and the big electronic voting board at the front of the room. For the first time in her life, the Virginia General Assembly wasn't a distant, abstract institution behind a television glass screen or three stories below a balcony rail. She was sitting right on the Floor. She could see the buttons on the desks. She could hear how the bills were debated. And she could see firsthand that there wasn't a single lawmaker among all one hundred desks who used a wheelchair or rode a public bus to work.
+Katie wasn't looking at the floor carpet anymore. Sitting upright in her compact SwiftChair on the floor of the Virginia House of Delegates, her blue eyes were locked onto the mahogany desks and the big electronic voting board at the front of the room. For the first time in her life, the Virginia General Assembly wasn't a distant, abstract institution behind a television glass screen or three stories below a balcony rail. She was sitting right on the Floor. She could see the buttons on the desks. She could hear how the bills were debated. And she could see firsthand that while she had fought for a full year on the Virginia Beach City Council to get evening buses running out of the Municipal Center, the Eighty-Fifth District's own State Delegate up here in Richmond was voting to starve those very same buses of state matching funds.
 
-When the House recessed at one-fifteen and Delegate Villa shook our hands again before heading off to his afternoon committee meeting—promising to keep fighting for more bus shelters and transit funding back home in Virginia Beach—Katie and I rolled out the tall mahogany double doors of the House Chamber into the first-floor marble corridor.
+When the House recessed at one-fifteen and Delegate Villa shook our hands again before heading off to his afternoon committee meeting—promising to keep working with us on bus shelters and regional transit back home in Virginia Beach—Katie and I rolled out the tall mahogany double doors of the House Chamber into the first-floor marble corridor.
 
 As we rode the elevator down toward the underground Capitol tunnel, Katie reached across our wheelchair armrests and took my right hand in a grip so steady and electric that I felt it all the way to my shoulders.
 
@@ -2603,15 +2697,117 @@ As we rode the elevator down toward the underground Capitol tunnel, Katie reache
 
 "Yeah, Katie?" I asked, looking straight into her eyes.
 
-"Being stopped at the third-floor viewing gallery by Capitol Police and brought down to sit on the House Floor beside Delegate Villa today was the best thing that ever could have happened to us," Katie said, her voice quiet and ringing with unmistakable purpose. "Did you see how ordinary those mahogany desks are when you're sitting right next to them on the green carpet? All it takes to make room for a power wheelchair at one of those desks is pulling out a single wooden swivel chair."
+"Being stopped at the third-floor viewing gallery by Capitol Police and brought down to sit on the House Floor beside Delegate Villa today was the best thing that ever could have happened to us," Katie said, her voice quiet and ringing with unmistakable purpose. "Did you see how ordinary those mahogany desks are when you're sitting right next to them on the green carpet? Just like on City Council back home, all it takes to make room for a power wheelchair at one of those desks is pulling out a single wooden swivel chair."
 
 My breath caught in my chest as I realized what my twin sister was saying.
 
-"Our Eighty-Fifth District Delegate didn't even look up from his phone when he voted against our buses today," Katie continued, squeezing my fingers tightly. "For six years, you and I have been writing blog posts from the outside, begging politicians in Virginia Beach and Richmond to care about people who ride the bus and people with disabilities. The next House of Delegates election is in November 2013. What if we stop asking them for five minutes of their time—and I run for the Eighty-Fifth District seat myself?"
+"Richard Tatum didn't even look up from his phone when he voted against our buses today," Katie continued, squeezing my fingers tightly. "We proved on the Virginia Beach City Council that when you put a bus rider in a wheelchair at the table, you can change the schedules for the entire city. But as long as politicians in Richmond keep cutting state transit funds and blocking disability Medicaid waivers, local City Councils are fighting with one hand tied behind their backs. The next House of Delegates election is in November 2013. Let's go home, talk it over with Dad, and map out how we win the Eighty-Fifth District seat."
 
-Looking at my twenty-five-year-old twin sister inside that quiet Capitol elevator, I didn't hesitate for a single heartbeat.
+### Part 4: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District
 
-"If you run, Katie," I whispered, lifting her hand to squeeze it with both of mine, "I'll build the campaign software, I'll manage every single day of the race right beside you, and we'll ride every CVTA bus route in the Eighty-Fifth District until the voters put your SwiftChair on that House Floor for good."
+**Date:** 2012-11-23 at 18:30 America/New_York
+
+#### Friday, November 23, 2012, 6:30 PM — Brainstorming with Dad Around the Kempsville Kitchen Table
+
+"Dad," twenty-seven-year-old Katie said after the three of us had finished our Friday evening Thanksgiving leftovers and I had set three fresh glasses of ice-cold ginger ale down on the oak kitchen table of our house on Lord Nelson Drive in Kempsville, "Nate and I have a big decision we want to talk through with you before the end of the year."
+
+Sitting across the table from our two compact SwiftChairs in his flannel shirt, our fifty-four-year-old dad set his glass down, adjusted his eyeglasses, and looked from Katie's face to mine with a knowing fatherly smile.
+
+"Wait—let me guess," Dad said warmly. "The last time the two of you gave me that exact synchronized twin look across this table was back in 2010 right before Katie told me she was going to run against Harold Dietz for the Kempsville seat on the Virginia Beach City Council. Who rattled your cage this time?"
+
+"Delegate Richard Tatum," Katie answered without missing a beat, sliding my MagnaBook Pro laptop across the table so Dad could see the newly redistricted map of the Eighty-Fifth House District glowing on the screen. "Back in February, when Nate and I rode up to Richmond to testify for state public-transit matching funds, Capitol Police stopped us at the third-floor viewing gallery over emergency-evacuation concerns and House Leadership brought us down to sit right on the Floor of the House of Delegates next to Ron Villa's desk. We sat twenty feet away from Richard Tatum and watched him slap his red Nay button against Hampton Roads bus funding without even looking up from his cell phone."
+
+"And after serving two years on the Virginia Beach City Council," I added, tapping the boundary lines on the laptop screen, "we've seen firsthand that almost everything we're trying to fix locally—dedicated regional funding for CVTA, clearing the state developmental-disability Medicaid waiver waitlist for adults like our cousin Chelsea, and enforcing real accessibility rules—is controlled up in Richmond by the General Assembly. Look at the new decennial map for the Eighty-Fifth House District, Dad: it covers Kempsville, Bellamy Manor, Brandon, and Larkspur. Eighty-five percent of the precincts in the Eighty-Fifth House District are the exact same Kempsville neighborhoods that elected Katie to City Council in 2010."
+
+Dad leaned over the table, studying the precinct map carefully before looking back up at Katie.
+
+"I know my daughter, and I know that once the two of you set your minds to something, nobody in Virginia is going to stop you," Dad said proudly, though his voice turned serious and practical as he switched into systems-engineer problem-solving mode. "So let's brainstorm this right now from start to finish before the calendar flips to 2013. Walk me through every step between tonight and swearing-in day in January 2014. First question: Virginia Beach City Council is non-partisan under state law. If you run for the Virginia House of Delegates against Richard Tatum next November, you have to declare a party ballot line. How are you filing?"
+
+"I'm running as a Democrat—Katie Prairie, D-Virginia Beach," Katie said firmly. "Ron Villa has always been fair to us on bus shelters from the Republican side because he came up through City Council, but the House majority caucus in Richmond just spent the whole 2012 session cutting public transit, blocking healthcare expansion, and starving disability services. If I'm going up to Richmond to fight for working families, bus riders, and disabled Virginians, I want to be completely honest with the voters about where I stand."
+
+"Good," Dad nodded, pulling a yellow legal pad and a ballpoint pen toward his elbow. "Second question: what happens to your Kempsville seat on the Virginia Beach City Council during the campaign—and what happens to your software business here at home if you win?"
+
+"Under Virginia law, a sitting City Council member does not have to resign her municipal seat just to run for the General Assembly," I explained, opening the Code of Virginia tab I had bookmarked in our browser. "Katie's four-year City Council term runs through 2014, and the House of Delegates election is in November 2013. That means Katie keeps representing Kempsville on the Virginia Beach City Council through the entire 2013 campaign so our neighbors never lose their vote at City Hall. Once she wins the House seat in November 2013, she'll serve through the final December 2013 Council meeting and then formally resign her City Council seat effective December 31, 2013—right before taking her oath in the House of Delegates on the second Wednesday in January 2014."
+
+"And because the Virginia General Assembly is a part-time citizen legislature," Katie added, "session only runs for sixty days in even-numbered years and forty-five days in odd-numbered years during January and February. Ten months out of every year, Nate and I stay right here in our house on Lord Nelson Drive running our software business and riding CVTA buses around the district. For January and February, we'll rent a one-bedroom accessible apartment right on a JRTC bus route in Richmond."
+
+Dad wrote *Jan–Feb: 60/45-day Winter Session (Richmond Bus Route Apt)* at the top of his legal pad, then tapped his pen below it.
+
+"Alright—now walk me through the official election-law timeline under Title 24.2 of the Code of Virginia," Dad said. "What paperwork has to be filed between January 1, 2013 and the ballot deadline so Tatum's lawyers can't try to knock you off the ballot on a technicality?"
+
+I rotated the second browser tab toward Dad, where Katie and I had already built a step-by-step statutory checklist.
+
+"Step one happens on January 2, 2013," I said. "We file Katie's Statement of Organization with the Virginia State Board of Elections in the COMET campaign finance system, register *Katie Prairie for Delegate*, and open a dedicated campaign checking account at our credit union within ten days. Under state law, every candidate committee has to designate an official Campaign Treasurer who lives in Virginia. Katie and I want me to serve as Campaign Manager and Chief Technology Officer—and we want to know if you'll serve as our official Campaign Treasurer, Dad."
+
+Dad's chest swelled visibly behind his glasses. "Try and stop me. I balanced our household books down to the penny when I was putting myself through CCHR after the divorce—I'll make sure every campaign finance report we file with Richmond reconciles to the cent. What's step two?"
+
+"Step two is ballot qualification between January 2 and the late-March primary filing deadline," Katie said, pointing to the four official State Board of Elections forms we had downloaded:
+
+"To qualify for the June Democratic Primary ballot in a House of Delegates district," Katie explained, "a candidate has to file four things before five o'clock on the March filing deadline: first, the Certificate of Candidate Qualification under Section 24.2-501 certifying that I'm a qualified voter and resident of the Eighty-Fifth House District; second, the Declaration of Candidacy under Section 24.2-520 along with the party primary filing fee paid to the Virginia Beach Treasurer; third, the General Assembly Statement of Economic Interests under Section 30-111 disclosing our fifty-fifty software company and our house here in Kempsville; and fourth—the most important part—the Petition of Qualified Voters under Section 24.2-506."
+
+"How many valid voter signatures does the Code of Virginia require for a House of Delegates candidate?" Dad asked, poised with his pen.
+
+"The statute requires a minimum of one hundred and twenty-five signatures from qualified, registered voters residing inside the Eighty-Fifth House District, witnessed by a circulator who signs the affidavit on the back of each legal-sized petition sheet before a notary public," I said. "Professional campaigns sometimes get sloppy and turn in two hundred signatures, and then get disqualified when fifty of the signers turn out to live across the street in the Eighty-First or Twenty-First District. So we aren't turning in one hundred and twenty-five signatures. We're going to collect four hundred verified Eighty-Fifth District signatures—and before a single voter signs our clipboard, I'm going to look up their street address live on my laptop against the official Eighty-Fifth District registered-voter file so we have a one-hundred-percent validity rate."
+
+"And where are we collecting those four hundred signatures?" Dad asked with a grin, already guessing the answer.
+
+"Right at the CCHR Virginia Beach Campus bus transfer loop, along the Kempsville Road and Princess Anne Road bus stops, and out on the neighborhood sidewalks every Saturday morning in January and February," Katie smiled, reaching across our armrests to take my hand while extending her other hand across the table to Dad. "No paid petition mercenaries from out of town. Just the three of us."
+
+Dad placed his large, warm hand over both of ours in the center of the kitchen table.
+
+"Then on Saturday, January fifth, I'm driving down from Alexandria with three legal-sized clipboards and a box of black pens," Dad said. "Let's put a bus rider in the House of Delegates."
+
+***
+
+#### January to December 2013 — 412 Signatures at CCHR, Canvassing the 85th District, & Passing the Baton on City Council
+
+On the first Saturday morning of January 2013, right after Katie and I filed her Statement of Organization with Dad listed as Treasurer, the three of us set up at the edge of the concrete passenger island at the CCHR Virginia Beach Campus bus loop.
+
+Every time a CVTA Route 12, Route 25, Route 29, or Route 33 bus pulled into the college transfer hub, dozens of Kempsville residents stepped off the doors and recognized Katie immediately as the twenty-seven-year-old City Councilwoman in the black SwiftChair who had fought to keep their evening buses running until ten-thirty at night.
+
+"Councilwoman Prairie! Are those petitions to run for State Delegate against Richard Tatum?" a CCHR nursing instructor asked excitedly on our very first morning, spotting the legal-sized State Board of Elections sheets clipped to Katie's lap tray. "Give me a pen right now—and wait two seconds while I call my husband and my daughter over from the Route 12 shelter so they can sign too!"
+
+With Dad standing beside our wheelchairs holding the extra clipboards and signing the circulator affidavits in front of a mobile notary at the end of each afternoon, and with me verifying every signer's address and precinct number on my laptop on the spot, we didn't just hit the statutory minimum of one hundred and twenty-five signatures—by the end of February, we had collected four hundred and twelve verified signatures from registered Eighty-Fifth District voters.
+
+When the five-o'clock primary filing deadline closed on the last Thursday of March 2013, not a single Democratic challenger had filed against a popular sitting Kempsville City Councilwoman who had turned in four hundred and twelve bulletproof grassroots signatures. The Virginia State Board of Elections officially certified Katie as the Democratic Nominee for the Eighty-Fifth House District without the expense of a June primary.
+
+Two days later, a pair of sleek political consultants from Richmond rode down I-64 and asked to meet us at a coffee shop near Pembroke Commons. Spreading glossy brochures across the table, they informed Katie that to run a "serious" House of Delegates campaign in Virginia Beach, she needed to pay their firm a forty-thousand-dollar retainer to lease the state party's voter-targeting software, hire an out-of-state direct-mail agency, and host high-dollar donor receptions at Oceanfront hotels.
+
+Katie and I listened politely, took a sip of our ginger ales, and turned their entire forty-thousand-dollar sales pitch down flat.
+
+"My brother and I are professional software engineers," Katie told the stunned consultants before we rolled out to catch our bus home. "Nate already wrote our custom PHP precinct-mapping and voter-turnout engine for my 2010 City Council victory, and it runs faster, cleaner, and with better precinct math than anything on K Street. Every dollar small donors give our campaign is going straight into printing accessible literature and reaching voters in Kempsville—not paying commissions to Richmond consultants."
+
+From April through November 2013, the three of us ran the most disciplined grassroots campaign the Eighty-Fifth District had ever seen.
+
+Every weekday after our software client work and Katie's City Council duties, Katie and I rode CVTA buses across the district and rolled down the residential sidewalks of Kempsville, Bellamy Manor, Brandon, and Larkspur. Whenever a house had two or three brick steps up to the front porch, Dad—who drove down from Alexandria every Friday night through Sunday evening, joined during the weekdays by a dozen volunteer CCHR students and fellow bus riders—walked up the steps to knock on the door while Katie and I parked our SwiftChairs right at the bottom of the front walk so the homeowner could step out onto the porch and talk directly with Katie eye-to-eye.
+
+By mid-October, internal polling showed that Katie had erased Delegate Richard Tatum's twelve-point incumbent cushion.
+
+Panicking during the final ten days of the race, Tatum's Richmond campaign consultants dropped a glossy, full-color attack mailer into every mailbox in Kempsville showing a photograph of the steps of the State Capitol with the headline: *THE GENERAL ASSEMBLY MOVES FAST—CAN KATIE PRAIRIE KEEP UP?* Inside, the mailer sneered that Katie "doesn't even hold a driver's license" and claimed that two twenty-eight-year-old twins who rode the city bus would be "out of their depth in Richmond."
+
+The backlash across Virginia Beach was instantaneous.
+
+Disabled veterans from Naval Air Station Oceana and Little Creek, parents of special-needs children at Morrison Middle School and Northwood High School, senior citizens along Kempsville Road, and hundreds of commuters who rode the evening buses Katie had championed on City Council flooded the local newspaper letters page and local television broadcasts with outrage. Even former At-Large City Councilman and sitting Republican Delegate Ronald Villa over in the neighboring Twenty-First District told a Norfolk newspaper reporter on the record, *"Anyone who thinks Katie and Nate Prairie can't keep up at the State Capitol has never watched those two work a transportation budget."*
+
+On Election Night—Tuesday, November 5, 2013—sitting side by side with Dad at our kitchen table on Lord Nelson Drive tracking the eighteen precincts of the Eighty-Fifth House District on my PHP dashboard, we watched the final returns lock in at 8:15 PM:
+
+*Katie Prairie (D): 54.4% — Richard Tatum (R, Incumbent): 45.6%.*
+
+At twenty-eight years old, my twin sister was officially Delegate-Elect Katie Prairie of the Eighty-Fifth House District.
+
+Over the next eight weeks of November and December 2013, we completed every statutory transition step between Election Night and Opening Day:
+
+First, on the Wednesday and Thursday after the election, the three-member Virginia Beach Electoral Board met at the Municipal Center to conduct the official canvass of precinct returns, transmitting the certified abstract up to the Virginia State Board of Elections in Richmond under Code of Virginia Section 24.2-675 so the Secretary of the Board could mail Katie her official, gold-sealed Certificate of Election.
+
+Second, during the first week of December, we traveled up to Richmond for the one-day House Clerk's administrative intake—receiving Katie's office assignment in Room 518 on the fifth floor of the General Assembly Building—and met via video conference with attorneys at the Division of Legislative Services to draft and pre-file her first three legislative bills on regional transit funding, developmental-disability Medicaid waiver slots, and statewide ADA building enforcement ahead of the December pre-filing deadline.
+
+Third, on the third Tuesday evening of December 2013, Katie rolled up the permanent ramp to the Virginia Beach City Council dais at the Municipal Center one last time. After casting her final municipal votes and thanking the people of Kempsville for three unforgettable years of service on City Council, Katie formally submitted her resignation from the non-partisan Kempsville Council seat effective at 11:59 PM on December 31, 2013—welcoming her newly elected Kempsville Council successor, Councilwoman Amelia Thornton, so she would never hold dual municipal and state legislative office when her House term began.
+
+When Katie and I rolled out of the Municipal Center at nine-thirty that December night and boarded the 9:45 PM CVTA Route 33 bus that she had fought to create, the driver saluted her from behind the wheel.
+
+"Next stop for you two is the State Capitol up in Richmond, Delegate-Elect Prairie!" the driver beamed.
+
+"Only for forty-five and sixty days every winter," Katie smiled, holding my hand across the center aisle between our two wheelchair bays as the bus rolled toward CCHR. "And on Friday, January third, Nate and I are moving into an apartment right on West Broad Street so we can ride the Richmond city bus to the Capitol too."
 
 ## Freshman Session on West Broad Street & Riding JRTC Route 6 to the Capitol
 
