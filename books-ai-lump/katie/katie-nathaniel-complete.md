@@ -2641,7 +2641,7 @@ Instead, we had chosen Apartment 104 inside the Broad & Boulevard Lofts—a reno
 
 I rolled up beside her left armrest while Dad carried our bedding bags into the bedroom. Right below our first-floor windowsill, a blue-and-white forty-foot JRTC Stalwart low-floor transit bus with an amber LED destination sign reading *6 BROAD STREET — DOWNTOWN / CAPITOL* glided past the curb.
 
-"Four separate JRTC trunk routes converge right along this stretch of West Broad Street," I said, resting my hand over Katie's fingers on her armrest as we watched a westbound bus pass in the opposite lane thirty seconds later. "Route 6 runs straight down Broad Street past the Science Museum and Central Virginia University to Ninth and Broad at Capitol Square in eleven minutes, and straight west to the shops and grocery store at Willow Lawn in ten minutes."
+"Four separate JRTC trunk routes converge right along this stretch of West Broad Street," I said, resting my hand over Katie's fingers on her armrest as we watched a westbound bus pass in the opposite lane thirty seconds later. "Route 6 runs straight down Broad Street past the Science Museum and Central Virginia University to Ninth and Broad at Capitol Square in eleven minutes, and straight west to the shops and grocery store at Oak Lawn in ten minutes."
 
 "And arriving five days early gives us all of Saturday and Sunday to learn the bus routes, test every transfer stop, and get our routine locked down before Monday morning's New Member Orientation even starts," Katie said, letting out a quiet, contented breath as her shoulders relaxed.
 
@@ -2719,13 +2719,13 @@ We rolled down the Ninth Street hill to Ninth and Main to time the bus transfer 
 
 Then, at one-thirty in the afternoon, we rolled back out to the westbound bus shelter at Ninth and Broad. When the outbound bus pulled up to the curb and the front doors folded open, the automated voice announced once across the sidewalk:
 
-*"Route 6. Willow Lawn. Welcome aboard JRTC!"*
+*"Route 6. Oak Lawn. Welcome aboard JRTC!"*
 
 *"Caution: bus is kneeling! Caution: lift is deploying!"*
 
-Rolling aboard, we swiped our new thirty-day JRTC magnetic passes through the farebox reader with a clean electronic *beep* and rode Route 6 all the way past our apartment building out West Broad Street to the Willow Lawn transfer center.
+Rolling aboard, we swiped our new thirty-day JRTC magnetic passes through the farebox reader with a clean electronic *beep* and rode Route 6 all the way past our apartment building out West Broad Street to the Oak Lawn transfer center.
 
-Rolling down the wide sidewalk of the open-air Willow Lawn shopping plaza, we went straight into the Market Square supermarket. With an insulated canvas grocery carrier clipped to the rear frame of each of our SwiftChairs and two hand baskets resting on our lap trays, Katie and I spent an hour picking out two weeks' worth of breakfast cereal, milk, whole-wheat bread, sliced turkey, pasta, fresh apples, and three twelve-packs of ginger ale.
+Rolling down the wide sidewalk of the open-air Oak Lawn shopping plaza, we went straight into the Market Square supermarket. With an insulated canvas grocery carrier clipped to the rear frame of each of our SwiftChairs and two hand baskets resting on our lap trays, Katie and I spent an hour picking out two weeks' worth of breakfast cereal, milk, whole-wheat bread, sliced turkey, pasta, fresh apples, and three twelve-packs of ginger ale.
 
 By four o'clock Saturday afternoon, we had ridden JRTC Route 6 ten blocks back east to our apartment stop at Broad and Boulevard, unloaded our groceries into our kitchen cabinets, and spent Sunday afternoon sitting side by side at our front window table writing a two-thousand-word weekend dispatch for Ideas for Coastal Virginia Transit:
 
@@ -2741,7 +2741,7 @@ By Sunday night, we knew every bus stop, every curb cut, and every timetable alo
 
 At eight-fifteen on Monday morning—forty-eight hours before the 2014 General Assembly would formally convene—the intersection of Ninth and Broad Street outside the General Assembly Building looked like a luxury auto dealership convention.
 
-All along the curb leading toward the private legislative parking deck at Seventh and Marshall, gleaming black luxury sedans and massive chrome-trimmed SUVs idled in a bumper-to-bumper line. Nearly every bumper bore a special gold-embossed state license plate reading *VIRGINIA — HOUSE OF DELEGATES* or *VIRGINIA — SENATE*, stamped with the lawmaker's low seniority number. On the wide brick sidewalk flanking the bronze revolving doors of the General Assembly Building, groups of veteran Delegates, State Senators in tailored wool overcoats, and high-priced corporate lobbyists stood clutching leather briefcases and paper coffee cups from the Jefferson and Omni hotels, trading back-slaps and committee gossip in the cold morning sunshine.
+All along the curb leading toward the private legislative parking deck at Seventh and Marshall, gleaming black luxury sedans and massive chrome-trimmed SUVs idled in a bumper-to-bumper line. Nearly every bumper bore a special gold-embossed state license plate reading *VIRGINIA — HOUSE OF DELEGATES* or *VIRGINIA — SENATE*, stamped with the lawmaker's low seniority number. On the wide brick sidewalk flanking the bronze revolving doors of the General Assembly Building, groups of veteran Delegates, State Senators in tailored wool overcoats, and high-priced corporate lobbyists stood clutching leather briefcases and paper coffee cups from the downtown luxury hotels, trading back-slaps and committee gossip in the cold morning sunshine.
 
 None of them paid the slightest attention to the public JRTC bus stop sign planted at the curb thirty feet from the General Assembly Building's accessible side doors—where half a dozen state clerical workers and hospital aides were waiting to step off the morning bus.
 
