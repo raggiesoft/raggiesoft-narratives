@@ -2671,11 +2671,17 @@ At nine o'clock on Saturday morning, bundled up in our matching winter parkas, k
 
 The January air was crisp and clear at thirty-six degrees. Three minutes after we braked our SwiftChairs on the concrete waiting pad alongside a Central Virginia University nursing student and two restaurant cooks heading downtown for the Saturday lunch shift, an eastbound JRTC Route 6 Stalwart low-floor bus pulled smoothly to the curb.
 
-The air brakes hissed, the front air suspension kneeled four inches toward the sidewalk, and the stainless-steel front flip-ramp folded out onto the concrete with a solid clank.
+The air brakes hissed, and as the front doors folded open and the front air suspension dropped four inches toward the sidewalk, the bus's external automated voice annunciator spoke through the doorway speaker in its crisp, unmistakable cadence—announcing the route once as the doors opened before switching to the safety warnings as the stainless-steel front flip-ramp folded out onto the concrete:
+
+*"Route 6. Downtown. Welcome aboard JRTC!"*
+
+*"Caution: bus is kneeling! Caution: lift is deploying!"*
 
 "Morning, folks! Watch your roll coming aboard," the JRTC operator called out cheerfully, reaching down to flip up the two bench seats over the front left and right wheelchair securement bays.
 
 "Good morning!" Katie said brightly as she rolled up the gentle slope of the low-floor ramp first and backed her SwiftChair deftly into the curbside wheelchair bay, while I rolled right up behind her into the street-side bay across the narrow aisle.
+
+*"Caution: lift is stowing!"* the automated voice announced as the stainless-steel ramp folded back into the front threshold step with a solid clank.
 
 After the operator clicked the four-point retractable floor straps onto our wheelchair frames and returned to his seat, Katie and I each reached forward to the farebox beside the steering column and fed crisp dollar bills into the bill validator to pay our standard one-dollar-and-fifty-cent base fares like any other rider in Richmond.
 
@@ -2685,15 +2691,39 @@ After the operator clicked the four-point retractable floor straps onto our whee
 
 "Well, you picked the best bus line in the city of Richmond to live on," the driver said with a proud grin in his wide rearview mirror. "Between the 6, the 1, the 2, and the 3, you won't ever wait more than ten minutes on Broad Street from six in the morning till midnight."
 
-As the bus rolled east down the wide, straight six-lane boulevard—passing the domed neoclassical rotunda of the Science Museum of Virginia in the old Broad Street Union Station, the brick dormitories and classrooms of Central Virginia University around Monroe Park, and the historic storefronts of the Arts District—I had my pocket notebook open on my lap tray, logging the exact travel times and stop spacing.
+As the bus rolled straight east down the wide six-lane boulevard—passing the domed neoclassical rotunda of the Science Museum of Virginia in the old Broad Street Union Station, the brick dormitories and classrooms of Central Virginia University around Monroe Park, and the historic storefronts of the Arts District—I had my pocket notebook open on my lap tray, logging the exact travel times and stop spacing while the interior automated voice announced every single cross street we passed, whether there was a bus stop on that block or not:
+
+*"Robinson Street."*
+
+*"Mulberry Street."*
+
+*"Allison Street."*
+
+*"Meadow Street."*
+
+*"Lombardy Street."*
+
+*"Belvidere Street."*
+
+"Listen to the onboard GPS annunciator, Katie," I murmured with an appreciative grin as the voice called out *"First Street"*, *"Second Street"*, *"Third Street"* in steady sequence down the straight Broad Street corridor. "It announces every single cross street along the route even when it isn't a bus stop—and whenever a JRTC bus completes a turn, it announces both streets on the corner. For a blind rider or someone visiting Richmond for the first time, you always know down to the exact block where you are."
+
+*"Eighth Street. Ninth Street."*
 
 Eleven minutes after boarding outside our apartment, the bus pulled up to the curb at Ninth and Broad Street—directly across from the tall granite tower of the General Assembly Building and the wrought-iron gates of Capitol Square.
 
+*"Caution: bus is kneeling! Caution: lift is deploying!"*
+
 After thanking the driver and rolling down the front ramp onto the brick sidewalk at Ninth and Broad, Katie and I stopped by the downtown transit ticket counter, paid sixty dollars apiece out of our own checking account for two standard thirty-day unlimited JRTC magnetic swipe passes, and spent the next three hours testing the entire downtown pedestrian and transit grid in our powerchairs.
 
-We rolled down the Ninth Street hill to Ninth and Main to time the bus transfer down to Richmond Main Street Station in Shockoe Bottom. We tested the exterior brick ramps leading into Capitol Square and located the ground-level accessible entrance on the north terrace of Thomas Jefferson's historic white-columned State Capitol. We checked the elevator lobby inside the General Assembly Building at Ninth and Broad, noting exactly how many minutes it took to roll from the Route 6 bus stop curb into the building, clear the security magnetometer, and ride up to the fifth-floor legislative offices.
+We rolled down the Ninth Street hill to Ninth and Main to time the bus transfer down to Richmond Main Street Station in Shockoe Bottom—listening at the intersection corner as a turning bus announced externally to the crosswalk, *"Caution! Bus is turning right. Pedestrians, look both ways!"* followed inside by both street names as it straightened out onto Main Street. We tested the exterior brick ramps leading into Capitol Square and located the ground-level accessible entrance on the north terrace of Thomas Jefferson's historic white-columned State Capitol. We checked the elevator lobby inside the General Assembly Building at Ninth and Broad, noting exactly how many minutes it took to roll from the Route 6 bus stop curb into the building, clear the security magnetometer, and ride up to the fifth-floor legislative offices.
 
-Then, at one-thirty in the afternoon, we rolled back out to the westbound bus shelter at Ninth and Broad, swiped our new thirty-day JRTC magnetic passes through the farebox reader with a clean electronic *beep*, and rode Route 6 all the way past our apartment building out West Broad Street to the Willow Lawn transfer center.
+Then, at one-thirty in the afternoon, we rolled back out to the westbound bus shelter at Ninth and Broad. When the outbound bus pulled up to the curb and the front doors folded open, the automated voice announced once across the sidewalk:
+
+*"Route 6. Willow Lawn. Welcome aboard JRTC!"*
+
+*"Caution: bus is kneeling! Caution: lift is deploying!"*
+
+Rolling aboard, we swiped our new thirty-day JRTC magnetic passes through the farebox reader with a clean electronic *beep* and rode Route 6 all the way past our apartment building out West Broad Street to the Willow Lawn transfer center.
 
 Rolling down the wide sidewalk of the open-air Willow Lawn shopping plaza, we went straight into the Market Square supermarket. With an insulated canvas grocery carrier clipped to the rear frame of each of our SwiftChairs and two hand baskets resting on our lap trays, Katie and I spent an hour picking out two weeks' worth of breakfast cereal, milk, whole-wheat bread, sliced turkey, pasta, fresh apples, and three twelve-packs of ginger ale.
 
@@ -2715,9 +2745,15 @@ All along the curb leading toward the private legislative parking deck at Sevent
 
 None of them paid the slightest attention to the public JRTC bus stop sign planted at the curb thirty feet from the General Assembly Building's accessible side doors—where half a dozen state clerical workers and hospital aides were waiting to step off the morning bus.
 
-With a low rumble of its diesel engine and a crisp hiss of air brakes, our eastbound blue-and-white JRTC Route 6 Broad Street bus pulled up to the Ninth and Broad curb stop.
+With a low rumble of its diesel engine and a crisp hiss of air brakes, our eastbound blue-and-white JRTC Route 6 Broad Street bus pulled up to the Ninth and Broad curb stop after calling out *"Eighth Street"* and *"Ninth Street"* inside the cabin.
 
-Inside the front vestibule, where Katie and I had just ridden the eleven-minute trip down from Broad and Boulevard after swiping our regular sixty-dollar monthly passes at the farebox, the operator unhooked our floor straps, kneeled the front suspension, and deployed the stainless-steel wheelchair ramp onto the brick sidewalk.
+As the front doors folded open, the external automated voice rang out across the sidewalk:
+
+*"Route 6. Downtown. Welcome aboard JRTC!"*
+
+*"Caution: bus is kneeling! Caution: lift is deploying!"*
+
+Inside the front vestibule, where Katie and I had just ridden the eleven-minute trip down from Broad and Boulevard after swiping our regular sixty-dollar monthly passes at the farebox, the operator unhooked our floor straps as the stainless-steel wheelchair ramp settled onto the brick sidewalk.
 
 "Have a great first week at the Capitol, Katie and Nate!" the operator called out warmly over his shoulder. "Show 'em how we do things on Route 6!"
 
@@ -2727,7 +2763,9 @@ Wearing a tailored royal-blue wool blazer over a crisp white blouse—with the s
 
 Three seconds later, wearing my charcoal wool jacket with both of our MagnaBook Pro laptops strapped securely across my lap tray, I rolled my matching SwiftChair down the bus ramp right behind my twin sister.
 
-As the bus ramp folded back up with a hydraulic *clank* and the blue-and-white JRTC bus pulled away into the Broad Street traffic, the morning chatter outside the General Assembly Building doors stopped dead.
+*"Caution: lift is stowing!"* the automated voice announced behind us as the bus ramp folded back up with a hydraulic *clank* and the blue-and-white JRTC bus pulled away into the Broad Street traffic.
+
+Outside the General Assembly Building doors, the morning chatter stopped dead.
 
 Six veteran Delegates, two senior State Senators who had just stepped out of a town car, and a circle of corporate telecommunications lobbyists standing beside the granite columns all froze in their tracks. Three of the lobbyists literally lowered their coffee cups halfway from their mouths, staring from the retreating tailpipe of the city transit bus to the gold House of Delegates member pin gleaming on the lapel of Katie's blazer as our two power wheelchairs rolled side by side toward the entrance.
 
@@ -2747,11 +2785,11 @@ Around the entrance plaza, several lobbyists exchanged stunned glances—realizi
 
 Five minutes later, when we rolled inside the warm marble lobby of the General Assembly Building and checked in at the Clerk's administrative orientation table, the facilities coordinator smiled and slid a thick manila packet across the counter toward Katie's lap tray.
 
-"Welcome to Richmond, Delegate Prairie," the coordinator said, holding up a plastic windshield RFID transponder alongside an application form for gold-embossed legislative license plates. "Because both you and your legislative aide use power wheelchairs, we went ahead and blocked off two contiguous van-accessible spaces right next to the basement tunnel elevator in the General Assembly Parking Deck. Here is your garage transponder."
+"Welcome to Richmond, Delegate Prairie," the coordinator said, holding up a plastic windshield RFID transponder alongside a DMV application form for special official *HOUSE OF DELEGATES* license plates. "Because both you and your legislative aide use power wheelchairs, we went ahead and blocked off two contiguous van-accessible spaces right next to the basement tunnel elevator in the General Assembly Parking Deck. Here is your garage transponder and your legislative license-plate form."
 
-Katie gently pushed the plastic garage transponder and the gold license-plate application right back across the counter.
+Katie gently pushed the plastic garage transponder and the *HOUSE OF DELEGATES* license-plate application right back across the counter.
 
-"Thank you so much for thinking of us," Katie said kindly, "but Nate and I don't own a car, and we won't be using a single square foot of the parking deck. We bought our thirty-day JRTC bus passes on Saturday and we're riding Route 6 down Broad Street every morning and evening. Please reassign those two ground-floor spaces to Capitol custodians or building maintenance staff who have to drive in before dawn—they deserve a close parking spot a whole lot more than we do."
+"Thank you so much for thinking of us," Katie said kindly, "but neither Nate nor I can drive due to our medical restrictions, and neither of us owns a car—so there isn't any vehicle to put House of Delegates license plates on. Whenever anyone does drive us in a private vehicle, the only person we want behind the wheel is our dad in his own truck, and as a State Delegate I'm thankfully not the President of the United States being forced to ride around in an armored Secret Service limousine. We bought our thirty-day JRTC bus passes on Saturday and we're riding Route 6 down Broad Street every morning and evening. Please reassign those two ground-floor parking spaces to Capitol custodians or building maintenance staff who have to drive in before dawn—they deserve a close parking spot a whole lot more than we do."
 
 The orientation clerk stared at the returned garage transponder on the table as if nobody in the four-hundred-year history of the Virginia General Assembly had ever voluntarily given back a reserved downtown parking pass.
 
