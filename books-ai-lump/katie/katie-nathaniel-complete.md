@@ -1825,7 +1825,7 @@ Rolling four feet forward into the open kitchen, Katie opened the black top-free
 
 #### Sunday, November 13, 2005, 1:00 PM — Crown Burger & The Heavy-Duty Deep Clean of Apartment 3
 
-Twenty minutes later, after picking up Katie's new thirty-day bus pass at the grocery store counter, the two of us sat across from each other at an accessible table inside Crown Burger with hot burgers, crispy fries, and two tall cups of soda in front of us.
+Twenty minutes later, after picking up Katie's new thirty-day bus pass at the grocery store counter, the two of us sat across from each other at an accessible table inside the Ocean View Crown Burger right down West Ocean View Avenue with hot burgers, crispy fries, and two tall cups of soda in front of us.
 
 Now that we were out of the apartment and away from the stench of Tiffany's mess, Katie leaned forward across the table and looked me straight in the eyes.
 
@@ -1876,6 +1876,8 @@ My heart leaped with relief, and I loved what she said next even more.
 The truth was, the deeper we dug into the apartment, the more mortified I felt. It wasn't just untidy; it was an overwhelming disaster of uncollected trash and grime that needed heavy-duty scrubbing from floor to baseboards. To keep our spirits up, Katie rolled over to the large repurposed dining table on the left side between the living room and the kitchen, woke up my seventeen-inch off-white CRT monitor and my 2004 desktop tower PC—which ran Quantum OS XN Pro and still sported the salvaged off-white three-and-a-half-inch floppy drive, CD-ROM drive, and CD-RW drive from our older desktop computer—and queued up a playlist of our favorite upbeat nineteen-eighties synth-rock and pop tracks through the desktop speakers.
 
 For the next two hours, working side by side from our compact power wheelchairs, Katie tackled the overflowing trash around the green sofa, the oval coffee table, and the open kitchen counters while I bagged up the piles of garbage choking the back hallway and the open-doorway bedroom. Sweat poured down my forehead as I tied off bag after heavy black bag, my gag reflex kicking in half a dozen times whenever we uncovered week-old takeout containers festering at the bottom of a pile.
+
+![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the dumpsters—twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
 
 "Nate, come help me clean the bathroom!" Katie called out from the short hallway on the far right.
 
@@ -2061,6 +2063,8 @@ Watching the van disappear down West Ocean View Avenue, I could still see the fi
 
 Once we had stripped the bare queen mattress in the doorless back bedroom—right across from the through-wall box air conditioner and its opposite-wall temperature switch—and made the bed with our crisp new navy-and-slate-blue sheets, comforter, and four fresh pillows from Chesapeake Bay Mall, I rolled back out to the large repurposed dining table on the far-left side between the living room and the open kitchen.
 
+![Looking from the end of the hallway into the back of Sea Breeze West Apartment 3: on the left, the white bathroom door hinges on the left and swings inward into the bathroom revealing the white vanity sink, toilet, and bathtub with stainless-steel grab bars; on the right, the hallway opens directly into the doorless back bedroom showing the through-wall box A/C unit on the solid windowless back wall, the wall-mounted temperature switch on the opposite wall, the queen bed in its new navy-and-slate-blue comforter set, and twenty-year-old twins Katie and Nate seated in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_bedroom_ac_unit_and_bathroom_baseline.jpg)
+
 "I want to completely redo the desktop computer here in the front room so it's set up for both of us," I told Katie, patting the 2004 tower case—which still held the salvaged off-white three-and-a-half-inch floppy drive, CD-ROM drive, and CD-RW drive from our older desktop computer—beside our seventeen-inch off-white CRT monitor. "I want to wipe every single trace of Tiffany off the hard drive."
 
 "I want to help," Katie said immediately, rolling her SwiftChair up beside mine at the dining table.
@@ -2070,6 +2074,8 @@ Once we had stripped the bare queen mattress in the doorless back bedroom—righ
 "We both have our laptops too," Katie noted as she set her laptop down on the dining table.
 
 "I know," I said, my eyes lighting up as an engineering idea began taking shape in my head. "Someday, when we learn server-side networking and database programming, what I think would be really neat is to build our own central server setup so that no matter which desktop or laptop you and I log in from, all of our files, code, and bookmarks automatically sync across every machine we own."
+
+![Inside the combination living room and open kitchen of Sea Breeze West Apartment 3 as their father David Prairie steps in with cleaning spray and paper towels to help twenty-year-old twins Katie and Nate finish cleaning and unpack fresh groceries onto the L-shaped olive-green counters, with the 17-inch off-white CRT monitor running Quantum OS XN Pro and the 2004 tower with salvaged beige drives on the far-left dining table]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_dad_confronts_van_reclaimed_twin_apartment.jpg)
 
 While the fresh Quantum OS XN Pro installation formatted the hard drive on the seventeen-inch off-white CRT monitor, Katie and I rolled across to the far right and turned into the short hallway with the remaining bags of groceries and fresh bathroom supplies.
 
@@ -2081,7 +2087,7 @@ I looked down at the wide, completely clear carpeted floor at the bottom of the 
 
 Because both Katie and I are autistic, there were days when the noise, the bright lights, and the stress of the outside world pushed our sensory systems to the edge—days when the only thing that calmed our nervous systems down was a dark, quiet, enclosed space and a tight, deep-pressure sibling hug.
 
-![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the dumpsters—twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
+![Looking straight down the far-right hallway of Sea Breeze West Apartment 3 past the solid blank right-side exterior wall: on the left wall of the hallway, the two white bi-folding closet doors open to reveal pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a completely clear closet floor lined with a navy-blue sleeping bag and pillows for Katie and Nate's deep-pressure sibling cuddle sanctuary, while Katie and Nate sit side by side in their compact SwiftChair power wheelchairs just before the left-hand bathroom doorway and the doorless back bedroom opening]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
 
 "If we keep the entire floor of the hallway closet completely clear," I said, finishing Katie's thought as only her twin could, "we can lay the clean sleeping bag and two extra pillows right along the bottom of the closet!"
 
