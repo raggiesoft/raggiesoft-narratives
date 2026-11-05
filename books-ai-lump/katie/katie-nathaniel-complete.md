@@ -1661,7 +1661,7 @@ She paused for a long breath, letting the distant rumble of a Route 1 bus rollin
 
 **Date:** 2005-11-12 at 20:20 America/New_York
 
-![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
+![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while nineteen-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
 
 #### Saturday, November 12, 2005, 8:20 PM — A Sister's Worst Nightmare & Five Buses from Williamsburg
 
@@ -1673,7 +1673,7 @@ Then I heard that voice through the rain—and my heart stopped.
 
 I recognized my fraternal twin sister's voice instantly. Braking and pivoting my compact SwiftChair power wheelchair around the oval wooden coffee table, I rolled straight up to the wide front windows above the bright green three-cushion sofa and parted two slats of the white horizontal mini-blinds to peek out into the courtyard.
 
-There on the concrete walk under the flickering porch light, drenched to the bone in the driving rainstorm, sat twenty-year-old Katie in her compact SwiftChair.
+There on the concrete walk under the flickering porch light, drenched to the bone in the driving rainstorm, sat nineteen-year-old Katie in her compact SwiftChair.
 
 I unlocked and threw open the wooden front door in the corner so fast the latch banged against the drywall. Rolling her wet tires across the threshold into the living room, Katie threw both arms around my neck across our armrests and sobbed against my shoulder.
 
@@ -1769,7 +1769,7 @@ Wearing her black-rimmed rectangular glasses, her mint-green short-sleeve graphi
 
 "You know, you seem to be cuddling with Katie a whole lot more than me," Tiffany snapped. "Do you not love me?"
 
-![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
+![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while nineteen-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
 
 Beside me, Katie looked at Tiffany with pure disgust. To my twin sister, the very idea that anyone would try to force an ultimatum between a loyal twin sibling and a romantic partner—after Katie had just escaped an abusive nightmare in Williamsburg the night before—was repellent.
 
@@ -1801,7 +1801,7 @@ In the sudden, ringing silence of Apartment 3, Katie turned her wheelchair towar
 
 "You're probably going to hate me for saying this right now, Nate, but I'm glad she's leaving you," Katie said softly. "If your girlfriend can't even accept you hugging and comforting your own twin sister, then you don't need her in your life."
 
-All at once, the dam inside my chest broke. Even though Katie was still raw and traumatized from her escape from Williamsburg, I started crying right alongside her as the reality registered in my twenty-year-old mind: my girlfriend had just dumped me and walked out the door.
+All at once, the dam inside my chest broke. Even though Katie was still raw and traumatized from her escape from Williamsburg, I started crying right alongside her as the reality registered in my nineteen-year-old mind: my girlfriend had just dumped me and walked out the door.
 
 Katie immediately rolled flush against my chair, pulled me into a deep, grounding hug across our armrests, and held the back of my head against her shoulder.
 
@@ -1877,7 +1877,7 @@ The truth was, the deeper we dug into the apartment, the more mortified I felt. 
 
 For the next two hours, working side by side from our compact power wheelchairs, Katie tackled the overflowing trash around the green sofa, the oval coffee table, and the open kitchen counters while I bagged up the piles of garbage choking the back hallway and the open-doorway bedroom. Sweat poured down my forehead as I tied off bag after heavy black bag, my gag reflex kicking in half a dozen times whenever we uncovered week-old takeout containers festering at the bottom of a pile.
 
-![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the dumpsters—twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
+![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the dumpsters—nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
 
 "Nate, come help me clean the bathroom!" Katie called out from the short hallway on the far right.
 
@@ -1915,7 +1915,25 @@ By late Sunday afternoon—after hours of scrubbing the grab-bar bathtub, the ba
 
 "Yeah—after hauling all those bags to the dumpster, I'm wiped out," I smiled. "Food first."
 
-An hour later, after celebrating with a hot dinner at the shopping center, plugging fresh linen-scented air fresheners into the outlets by the green sofa and the open kitchen, and taking hot showers in our freshly scrubbed grab-bar bathtub, Katie and I rolled down the hallway into the doorless back bedroom across from the through-wall air conditioner and transferred side by side onto the queen mattress.
+An hour later, after celebrating with a hot dinner at the shopping center and plugging fresh linen-scented air fresheners into the outlets by the green sofa and the open kitchen, Katie and I braked our compact SwiftChairs facing each other in front of the bright green three-cushion sofa beneath the white horizontal window mini-blinds.
+
+Outside the front windows, the November night was dark and quiet. Inside the warm, lamp-lit living room we had just spent the entire afternoon reclaiming from the filth, Katie looked across the space between our wheelchairs at me—and all of a sudden, fresh tears welled up in her blue eyes and spilled down her cheeks.
+
+"Katie?" I asked softly, rolling half a foot closer and reaching across our armrests to take her hand. "What's wrong?"
+
+"I'm just thinking about everything that happened to the two of us over the last fourteen months," Katie wept, gripping my fingers tightly with hers as the tears streamed down her face. "Look at how badly both of us got hurt the first time in our lives we ever let people pull us apart, Nate. Brandon had me trapped up in Williamsburg trying to force me to run away to Canada where I'd never see you or Dad again, and Tiffany and her mother had you trapped right here in the dark, bullying you and treating you like garbage."
+
+![Inside the living room of Sea Breeze West Apartment 3 in front of the bright green three-cushion sofa and the front windows with white horizontal mini-blinds at night: nineteen-year-old Katie in her mustard-yellow ringer t-shirt and blue jeans sits in her compact black SwiftChair power wheelchair with tears rolling down her cheeks as she holds nineteen-year-old Nate's hand across their wheelchairs and promises her brother that they will never separate ever again]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_green_sofa_never_separate_again_promise.jpg)
+
+My throat tightened as I watched the tears glistening on my twin sister's cheeks. All afternoon she had been the fierce, unstoppable one pushing us through bag after bag of rotting trash, and only now that the apartment was finally clean and quiet did the full weight of what both of us had survived come crashing down on her heart.
+
+"I'm so sorry I didn't listen to you in the courtyard last September, Katie," I whispered, my own eyes stinging as I squeezed her hand. "And I'm so sorry I wasn't up there in Williamsburg to protect you from Brandon."
+
+"We're together now—that's what matters," Katie cried softly, looking straight into my eyes as she held my hand like an unbreakable vow between our two chairs. "I promise you, Nate, right here and right now: we will never separate ever again. No boyfriend, no girlfriend, no distance, nothing. From now on, wherever we go, we go together."
+
+"Never again," I promised her back, leaning across our armrests to hold her until her trembling eased.
+
+After taking hot showers in our freshly scrubbed grab-bar bathtub, Katie and I rolled down the hallway into the doorless back bedroom across from the through-wall air conditioner and transferred side by side onto the queen mattress.
 
 "Tomorrow after we register at CCHR, we're going to the mall to buy all-new bedding and pillows," Katie said softly as we pulled the clean spare blanket over our shoulders. "I don't mind sleeping right here at your side like we used to do—I just want every sheet and pillow she ever touched gone."
 
@@ -1935,7 +1953,7 @@ She leaned over and gently kissed my forehead goodnight, just like we used to do
 
 **Date:** 2005-11-14 at 07:30 America/New_York
 
-![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the dumpsters—twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
+![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the dumpsters—nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
 
 #### Monday, November 14, 2005, 7:30 AM — Real Milk in the Cereal Bowls & The 8:13 AM Route 1 Bus to CCHR
 
@@ -1999,7 +2017,7 @@ Rolling out through the automatic glass doors into the Chesapeake Bay Mall picku
 
 During the short drive down to Dad's single-story brick ranch off Military Highway and Indian River Road—and then all the way back up across the city line into Norfolk after Dad loaded Katie's wooden dresser, her boxes of clothes, her television and DVD player, her digital clock radio, and her laptop into the truck bed—Katie and I told Dad and Maribel the entire story: from Brandon Mercer trying to trap Katie into moving to Canada and Katie's five-bus escape through the Saturday night rainstorm, to Tiffany screaming at us in front of the stove on Sunday morning, dumping me, and leaving us to scrub out a mountain of rotting trash and bathtub pots and pans.
 
-Listening in the driver's seat, Dad's knuckles turned white on the steering wheel, a deep, protective fury settling behind his glasses at what both Brandon and Tiffany had put his twenty-year-old twins through.
+Listening in the driver's seat, Dad's knuckles turned white on the steering wheel, a deep, protective fury settling behind his glasses at what both Brandon and Tiffany had put his nineteen-year-old twins through.
 
 When Dad backed his pickup truck into the parking space outside the white two-rail fence at Sea Breeze West and we unloaded Katie's boxes into the courtyard of Apartment 3, Dad looked into the newly scrubbed open kitchen and turned to us.
 
@@ -2063,7 +2081,7 @@ Watching the van disappear down West Ocean View Avenue, I could still see the fi
 
 Once we had stripped the bare queen mattress in the back bedroom—where we pushed the queen bed flush against the far-left corner walls past the back window and the through-wall box air conditioner so our two wheelchairs had plenty of open floor space to reach the inward-opening bathroom entrance—and made the bed with our crisp new navy-and-slate-blue sheets, comforter, and four fresh pillows from Chesapeake Bay Mall, I rolled back out to the large repurposed dining table on the far-left side between the living room and the open kitchen.
 
-![Inside the back bedroom of Sea Breeze West Apartment 3 looking from the open hallway end toward the far-left corner: along the back exterior wall sit the through-wall box A/C unit on the right, the bedroom window with white horizontal mini-blinds in the center, and the queen bed pushed flush against the far corner wall in its new navy-and-slate-blue comforter set to leave wide wheelchair clearance in front of the bathroom entrance on the left interior wall, where the white bathroom door opens inward into the bathroom from the bedroom while twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_bedroom_ac_unit_and_bathroom_baseline.jpg)
+![Inside the back bedroom of Sea Breeze West Apartment 3 looking from the open hallway end toward the far-left corner: along the back exterior wall sit the through-wall box A/C unit on the right, the bedroom window with white horizontal mini-blinds in the center, and the queen bed pushed flush against the far corner wall in its new navy-and-slate-blue comforter set to leave wide wheelchair clearance in front of the bathroom entrance on the left interior wall, where the white bathroom door opens inward into the bathroom from the bedroom while nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_bedroom_ac_unit_and_bathroom_baseline.jpg)
 
 "I want to completely redo the desktop computer here in the front room so it's set up for both of us," I told Katie, patting the 2004 tower case—which still held the salvaged off-white three-and-a-half-inch floppy drive, CD-ROM drive, and CD-RW drive from our older desktop computer—beside our seventeen-inch off-white CRT monitor. "I want to wipe every single trace of Tiffany off the hard drive."
 
@@ -2075,7 +2093,7 @@ Once we had stripped the bare queen mattress in the back bedroom—where we push
 
 "I know," I said, my eyes lighting up as an engineering idea began taking shape in my head. "Someday, when we learn server-side networking and database programming, what I think would be really neat is to build our own central server setup so that no matter which desktop or laptop you and I log in from, all of our files, code, and bookmarks automatically sync across every machine we own."
 
-![Inside the combination living room and open kitchen of Sea Breeze West Apartment 3 as their father David Prairie steps in with cleaning spray and paper towels to help twenty-year-old twins Katie and Nate finish cleaning and unpack fresh groceries onto the L-shaped olive-green counters, with the 17-inch off-white CRT monitor running Quantum OS XN Pro and the 2004 tower with salvaged beige drives on the far-left dining table]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_dad_confronts_van_reclaimed_twin_apartment.jpg)
+![Inside the combination living room and open kitchen of Sea Breeze West Apartment 3 as their father David Prairie steps in with cleaning spray and paper towels to help nineteen-year-old twins Katie and Nate finish cleaning and unpack fresh groceries onto the L-shaped olive-green counters, with the 17-inch off-white CRT monitor running Quantum OS XN Pro and the 2004 tower with salvaged beige drives on the far-left dining table]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_dad_confronts_van_reclaimed_twin_apartment.jpg)
 
 While the fresh Quantum OS XN Pro installation formatted the hard drive on the seventeen-inch off-white CRT monitor, Katie and I rolled across to the far right and turned into the short hallway with the remaining bags of groceries and fresh bathroom supplies.
 
