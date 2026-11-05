@@ -2369,7 +2369,7 @@ I looked at the calendar pinned beside our desk and did the math in my head. "In
 
 ## Do Better: Challenging CVTA's Complacency & The 2008 Mayoral Invitation
 
-### Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge
+### Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge
 
 **Date:** 2008-04-14 at 13:30 America/New_York
 
@@ -2506,6 +2506,112 @@ His message was four sentences long:
 Katie stared at the screen for three seconds, and then a slow, fierce grin broke across her face as she reached over and gripped my hand.
 
 "Out of every mayoral candidate in Chesapeake, Portsmouth, Hampton, and Virginia Beach—and every City Council candidate across all six cities—only one person had the guts to say yes," Katie said, her blue eyes shining with determination as she pulled the folded CVTA Virginia Beach route map across our desk. "And he's running for Mayor right here in Virginia Beach. Come on, Nate—get your video camera batteries on the charger. We're going to meet him at the CCHR Virginia Beach Campus bus loop, and we're going to take him on the exact four-bus circuit across Virginia Beach and Norfolk: Route 29 to Hilltop, Route 20 to Glenrock Mall, Route 15 down Military Highway, and Route 12 right back to CCHR."
+
+### Part 2: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run
+
+**Date:** 2011-02-10 at 11:35 America/New_York
+
+#### Thursday, February 10, 2011, 11:35 AM — Stopped Outside the Third-Floor Public Viewing Gallery by Capitol Police
+
+"The public viewing gallery for the House of Delegates should be right around this corner on the left, Nate," twenty-five-year-old Katie said as the brass doors of the small historic passenger elevator slid open on the third floor of the Virginia State Capitol.
+
+Side by side, we guided our compact SwiftChairs out of the narrow elevator cab onto the polished heart-pine floorboards of the third-floor balcony corridor.
+
+It was a cold Thursday morning in February 2011, midway through the winter session of the Virginia General Assembly. Earlier that morning at nine o'clock, after riding up from Hampton Roads to testify as citizen transit advocates representing Ideas for Coastal Virginia Transit, Katie and I had presented our regional ridership and bus-stop accessibility data to a House Transportation subcommittee down in the General Assembly Building. Since our afternoon train back home didn't leave until four o'clock, we had rolled through the underground Capitol tunnel hoping to sit in the public viewing gallery and watch the full House of Delegates convene at noon.
+
+Ahead of us, a line of schoolteachers, college students, and day-trippers was filing past the velvet rope into the steeply tiered wooden benches of the third-floor House Public Gallery.
+
+Before our front casters reached the doorway, however, a uniformed Virginia Division of Capitol Police lieutenant standing beside the gallery entrance stepped gently into the center of the corridor and held up a gloved hand.
+
+"Good morning, folks—hold up just a second for me," the Capitol Police lieutenant said, his tone polite but firm as he looked down at our two power wheelchairs.
+
+Katie and I braked our SwiftChairs together. "Good morning, Lieutenant," Katie said calmly. "We already cleared the security screening downstairs at the visitor entrance. We're just heading into the public viewing gallery to watch the noon House session."
+
+"Yes, ma'am, I see your visitor stickers," the lieutenant replied, glancing toward the narrow gallery threshold and then back at our heavy powerchairs with genuine concern on his face. "I'm very sorry, folks, but we can't bring wheelchairs into the third-floor public viewing gallery."
+
+My eyebrows drew together. "Is there not a level space at the top of the gallery aisle?"
+
+"It's not the floor space inside the doorway, sir—it's emergency evacuation safety," the Capitol Police lieutenant explained earnestly, gesturing back toward the small retrofit elevator we had just ridden up and the steep, winding eighteenth-century stairwell at the end of the hall. "Thomas Jefferson designed this building in 1788. If a fire alarm goes off or we have to order an emergency evacuation of the Capitol while the House is in session, that passenger elevator automatically locks out and recalls to the ground floor. From this third-floor gallery, the only way out of the building is down three flights of steep, narrow historic stairs. My officers have no safe way to carry power wheelchairs down three stories of stairs in an emergency, and I can't put the two of you in a position where we couldn't get you out of the building safely."
+
+Katie and I looked at each other across our armrests. Having spent ten years navigating every flavor of architectural barrier in Virginia, both of us could tell immediately that the Capitol Police officer wasn't trying to brush us off—he was looking at a genuine life-safety trap in a two-hundred-year-old building and taking his duty seriously.
+
+"So there's nowhere in the State Capitol where a citizen in a wheelchair is allowed to watch their own House of Delegates vote?" Katie asked quietly, not angry at the officer, but with that familiar, steady look in her blue eyes whenever she ran into a systemic wall.
+
+"I didn't say that, ma'am," the Capitol Police lieutenant said with a reassuring half-smile, reaching up to unclip the microphone of his shoulder radio. "Give me two minutes right here by the elevator. I'm going to walk downstairs and speak directly to the Sergeant-at-Arms and House Leadership to explain that we have two citizens in wheelchairs upstairs who came to watch the House session, and that Capitol Police have emergency-egress safety concerns with the third-floor gallery. Let me see what Leadership can do."
+
+We parked our SwiftChairs beside the marble bust in the third-floor elevator vestibule and waited while the ten-minute warning bell for the noon floor session chimed overhead.
+
+Four minutes later, the brass indicator needle above the third-floor elevator swung upward. The doors slid open, and the Capitol Police lieutenant stepped out alongside a tall gentleman in a dark three-piece suit wearing the silver badge of the Sergeant-at-Arms of the Virginia House of Delegates.
+
+"Miss Prairie and Mr. Prairie?" the Sergeant-at-Arms asked warmly.
+
+"Yes, sir," I said.
+
+"The Lieutenant just spoke with me and the Speaker's office about the safety concern up here on the third floor," the Sergeant-at-Arms said, holding out two heavy cream-colored cards stamped in gold leaf with the seal of the Commonwealth. "House Leadership does not want any Virginian turned away from watching the people's House in session because of a wheelchair. By order of the Speaker, you and one ADA companion—or in your case, both of you together—have been granted a rare honor today. If you'll ride the elevator down to the first floor with me, we're going to seat you right on the Floor of the Virginia House of Delegates."
+
+Katie's blue eyes widened slightly as she looked across at me, and we rolled our wheelchairs straight back into the elevator cab beside the Sergeant-at-Arms.
+
+***
+
+#### Thursday, February 10, 2011, 11:52 AM — Seated on the House Floor Near Virginia Beach Delegate Ronald Villa & The Spark
+
+When the elevator doors opened on the first floor, the marble rotunda corridor outside the House Chamber was packed three-deep with corporate lobbyists, reporters, and political staffers pressed against the brass velvet rope.
+
+Under the rules of the House of Delegates, members of the general public and registered lobbyists were strictly barred from crossing that threshold onto the Chamber floor during session. Yet as the Sergeant-at-Arms stepped out of the elevator ahead of our two wheelchairs, the doorkeepers immediately unhooked the velvet rope and swung open the tall mahogany double doors.
+
+"Make way, please—honored guests of the House coming through to the Floor," the Sergeant-at-Arms announced.
+
+Thirty-five lobbyists in thousand-dollar suits parted in stunned silence as two twenty-five-year-old twins from Virginia Beach rolled their compact black SwiftChairs straight across the threshold onto the lush green carpet of the Virginia House of Delegates Chamber.
+
+Rolling inside at floor level felt completely different from looking at photographs of the chamber. High above us rose the cream-and-gold coffered ceiling and the glittering crystal chandeliers; directly ahead stood the Speaker's elevated marble rostrum and the twin electronic voting boards listing all one hundred Delegates in alphabetical order. And instead of staring down at the tops of lawmakers' heads from a distant third-floor balcony, we were rolling right past the curved rows of polished mahogany desks where the elected representatives of the Commonwealth sat.
+
+"Right over here on the outer right aisle, folks," the Sergeant-at-Arms whispered kindly, guiding our two wheelchairs to a wide, level carpeted bay near the rear row of desks on the first floor—twenty feet from an emergency ground-level exit door. "I figured two folks from Virginia Beach would feel right at home sitting next to one of your hometown Delegates."
+
+At the mahogany desk immediately beside our wheelchair bay, a dark-haired Delegate in a crisp navy suit—with a brass nameplate on his desk reading *MR. VILLA — VIRGINIA BEACH (21ST DISTRICT)*—turned around in his leather swivel chair to see who was being seated beside him.
+
+The instant his eyes landed on our two wheelchairs, Delegate Ronald Villa broke into a huge, genuine grin and stood right up to shake our hands.
+
+"Katie! Nate!" Delegate Villa said warmly, clasping Katie's right hand and then reaching across to shake mine. "What a surprise! How did the two of you manage to score floor seats in the House of Delegates?"
+
+"We tried to go upstairs to the third-floor public viewing gallery, Delegate Villa," I explained with a grin, "and Capitol Police stopped us because they were worried about how they'd evacuate our wheelchairs down three flights of stairs in an emergency. They talked to House Leadership, and the Sergeant-at-Arms brought us down here to sit next to you."
+
+"Well, I couldn't ask for better company on my aisle!" Delegate Villa laughed, gesturing toward the two neighboring delegates seated to his left. "Hey, guys, let me introduce you to Katie and Nathaniel Prairie from back home in Virginia Beach. They run the Ideas for Coastal Virginia Transit blog. Back when I was serving At-Large on the Virginia Beach City Council before I came up to Richmond, I was fighting tooth and nail to get more covered bus shelters built for our bus riders so working folks and seniors wouldn't be standing out in the pouring rain along Kempsville Road, Princess Anne Road, and Holland Road. Every time city staff claimed we didn't know which bus stops needed shelters the most, Katie and Nate had already ridden every route in their wheelchairs and published the exact stop-by-stop boarding numbers and sidewalk photos on their website!"
+
+The two neighboring delegates smiled and shook our hands across our lap trays as the noon bell rang and the Speaker rapped his wooden gavel to call the House of Delegates to order.
+
+For the next hour and fifteen minutes, Katie and I sat side by side in our SwiftChairs right on the green carpet of the House Floor beside Delegate Ronald Villa's desk.
+
+Whenever a bill came up on the electronic calendar board, Delegate Villa leaned over his desk armrest between votes to whisper a quick, friendly explanation of the parliamentary procedure—pointing out how the white request-to-speak buttons worked on the desk consoles, how committee chairmen signaled floor amendments, and how the red and green lights on the big wall boards tallied the yeas and nays in real time. Even though he sat on the Republican side of the aisle and knew our transit blog frequently called out state and local leaders in both parties when public transit got shortchanged, Delegate Villa treated us with the warm, unpretentious respect of a former At-Large City Councilman who genuinely cared about the bus riders in his city.
+
+Then, at twelve-forty-five, a budget amendment came up on the floor to restore four million dollars in state operating assistance for local public bus systems across Hampton Roads, Richmond, and Northern Virginia.
+
+Sitting right on the House Floor, Katie and I watched the big electronic voting board on the front wall as the bell chimed and the red and green lights blinked on beside each lawmaker's name.
+
+Right next to us, Delegate Ronald Villa reached forward and pressed his green *YEA* button to support the transit funds for Hampton Roads.
+
+Across the chamber, however, the incumbent Delegate representing our own Eighty-Fifth House District back home in Kempsville—a career politician who had ignored three straight emails we had sent him asking for a five-minute constituent meeting about CVTA's evening bus cuts—didn't even look up from his cell phone as he reached over and slapped his red *NAY* button, helping defeat the transit amendment by six votes.
+
+I turned my head slightly to look at my twin sister.
+
+Katie wasn't looking at the floor carpet anymore. Sitting upright in her compact SwiftChair on the floor of the Virginia House of Delegates, her blue eyes were locked onto the mahogany desks and the big electronic voting board at the front of the room. For the first time in her life, the Virginia General Assembly wasn't a distant, abstract institution behind a television glass screen or three stories below a balcony rail. She was sitting right on the Floor. She could see the buttons on the desks. She could hear how the bills were debated. And she could see firsthand that there wasn't a single lawmaker among all one hundred desks who used a wheelchair or rode a public bus to work.
+
+When the House recessed at one-fifteen and Delegate Villa shook our hands again before heading off to his afternoon committee meeting—promising to keep fighting for more bus shelters and transit funding back home in Virginia Beach—Katie and I rolled out the tall mahogany double doors of the House Chamber into the first-floor marble corridor.
+
+As we rode the elevator down toward the underground Capitol tunnel, Katie reached across our wheelchair armrests and took my right hand in a grip so steady and electric that I felt it all the way to my shoulders.
+
+"Nate," Katie whispered as the elevator doors closed around just the two of us.
+
+"Yeah, Katie?" I asked, looking straight into her eyes.
+
+"Being stopped at the third-floor viewing gallery by Capitol Police and brought down to sit on the House Floor beside Delegate Villa today was the best thing that ever could have happened to us," Katie said, her voice quiet and ringing with unmistakable purpose. "Did you see how ordinary those mahogany desks are when you're sitting right next to them on the green carpet? All it takes to make room for a power wheelchair at one of those desks is pulling out a single wooden swivel chair."
+
+My breath caught in my chest as I realized what my twin sister was saying.
+
+"Our Eighty-Fifth District Delegate didn't even look up from his phone when he voted against our buses today," Katie continued, squeezing my fingers tightly. "For six years, you and I have been writing blog posts from the outside, begging politicians in Virginia Beach and Richmond to care about people who ride the bus and people with disabilities. The next House of Delegates election is in November 2013. What if we stop asking them for five minutes of their time—and I run for the Eighty-Fifth District seat myself?"
+
+Looking at my twenty-five-year-old twin sister inside that quiet Capitol elevator, I didn't hesitate for a single heartbeat.
+
+"If you run, Katie," I whispered, lifting her hand to squeeze it with both of mine, "I'll build the campaign software, I'll manage every single day of the race right beside you, and we'll ride every CVTA bus route in the Eighty-Fifth District until the voters put your SwiftChair on that House Floor for good."
 
 ## Freshman Session on West Broad Street & Riding JRTC Route 6 to the Capitol
 
@@ -2713,7 +2819,7 @@ Delegate Katie Prairie of Virginia Beach and her twin brother Nate had arrived i
 
 ## House Bill 663
 
-### Part 1: Line 18, The Third-Floor Public Gallery, & A Question on the House Floor
+### Part 1: Line 18, Seated by Delegate Ronald Villa on the Floor, & A Question Across the Chamber
 
 **Date:** 2016-02-04 at 11:35 America/New_York
 
@@ -2727,57 +2833,57 @@ It was thirty-year-old Katie's second two-year term representing the Eighty-Fift
 
 We rode the subterranean elevator up into the historic Capitol and rolled out onto the first-floor marble corridor just outside the tall mahogany double doors of the House Chamber. Lobbyists, school groups, and legislative aides were hurrying past the white marble columns as the ten-minute bell sounded.
 
-At the velvet brass rope flanking the Chamber entrance—where the Sergeant-at-Arms staff checked member pins and only elected Delegates and credentialed floor clerks were permitted onto the green carpet of the House Floor—Katie braked her SwiftChair and turned toward me.
+At the velvet brass rope flanking the Chamber entrance—where the Sergeant-at-Arms staff checked member pins—Katie braked her SwiftChair and turned toward me.
 
-"Are you heading straight up to the gallery?" Katie asked, reaching across our armrests to give my right hand our familiar twin squeeze.
+Ever since our very first visit to the State Capitol back in February 2011—when Capitol Police had stopped us outside the third-floor public viewing gallery because the small historic elevator locked out during fire alarms and there was no safe way to evacuate a wheelchair down three flights of eighteenth-century stairs—House Leadership and the Sergeant-at-Arms had maintained a standing ADA floor pass for me (and any visiting constituent in a wheelchair plus one companion) to watch the daily session from a level wheelchair bay inside the first-floor House Chamber itself, right along the outer right aisle beside our fellow Virginia Beach lawmaker, Delegate Ronald Villa of the Twenty-First District.
 
-"Going straight to the third-floor elevator right now," I said, patting the padded laptop bag strapped across my lap tray where my MagnaBook Pro and my digital stream-capture rig were tucked alongside our daily legislative binder. "I'll have the chamber stream hooked into my laptop before the Speaker bangs the gavel so I can record and caption your remarks for the constituent archive."
+"Are you set to plug into the floor feed over by Ron's desk?" Katie asked, reaching across our armrests to give my right hand our familiar twin squeeze.
+
+"All set," I said, patting the padded laptop bag strapped across my lap tray where my MagnaBook Pro and my digital stream-capture rig were tucked alongside our daily legislative binder. "I'll have the chamber stream hooked into my laptop before the Speaker bangs the gavel so I can record and caption your remarks for the constituent archive."
 
 "Wait until Delegate Cobb finishes his floor pitch on House Bill 663," Katie said, her blue eyes steady and focused as she tucked the highlighted two-page printout under her left wrist on the lap tray. "I'm going to ask the Speaker to let me put one direct operational question to him on the record."
 
 "Give him hell, Delegate Prairie," I whispered with a small smile.
 
-"See you outside the doors when we recess," Katie said warmly.
+"See you at the center doors when we recess," Katie said warmly.
 
-Releasing my hand, my twin sister eased her joystick forward, nodded to the doorkeeper holding open the tall mahogany door, and rolled her compact black power wheelchair across the threshold onto the green carpet of the House Floor toward her accessible desk on the far left aisle.
+Releasing my hand, my twin sister eased her joystick forward, nodded to the doorkeeper holding open the left-hand mahogany door, and rolled her compact black power wheelchair across the green carpet toward her modified accessible desk at the end of the far left minority aisle.
 
-I turned my SwiftChair ninety degrees down the marble corridor, rolled past the rotunda staircase to the Capitol passenger elevator, and pressed the button for the third floor.
+I flashed my gold-stamped ADA floor pass to the Sergeant-at-Arms assistant at the right-hand doorway and rolled quietly inside to the designated wheelchair bay along the outer right aisle, twenty feet from the ground-level emergency exit.
 
-When the elevator doors slid open on the third level, I followed the quiet carpeted hallway around to the House Public Gallery entrance. The gallery usher recognized me immediately from the past three winters, smiled, and unhooked the velvet strap across the top of the sloped wheelchair ramp.
+Right beside my bay, seated at his mahogany desk bearing the brass nameplate *MR. VILLA — VIRGINIA BEACH (21ST DISTRICT)*, Delegate Ronald Villa looked up from his leather binder and gave me a warm, familiar nod.
 
-"Morning, Nate," the usher whispered as I rolled inside.
+"Morning, Nate," Delegate Villa whispered, reaching over to shake my hand just as he had done the very first day the Sergeant-at-Arms had brought Katie and me onto the Floor back in 2011. "How's the Route 6 bus running down Broad Street this morning?"
 
-"Morning, Mr. Lewis," I whispered back.
+"Right on the ten-minute headway, Delegate Villa," I whispered back with a smile as I flipped down my lap tray, opened my laptop, plugged my headphones into the assistive-listening audio jack at the side rail, and launched my digital capture software hooked into the chamber's fixed legislative webcast camera.
 
-I guided my SwiftChair down the short ramp into the accessible wheelchair viewing bay right behind the polished brass gallery railing overlooking the House Chamber below. Flipping down my lap tray, I opened my laptop, plugged my headphones into the assistive-listening audio jack built into the gallery rail so I had a clean, direct line-level feed from the House Floor microphone system, and launched my digital capture software hooked into the chamber's fixed legislative webcast camera.
-
-Down below me, under the tall cream-and-gold coffered ceiling and the crystal chandeliers of the House of Delegates Chamber, the hundred lawmakers were taking their seats at their curved rows of mahogany desks. Looking down from the third-floor balcony at a forty-five-degree angle, I had a clear, unobstructed view of the Speaker's high marble rostrum at the front of the room, the Clerk's well, the red-and-green electronic voting boards flanking the front wall, and Katie sitting upright in her compact SwiftChair at her modified accessible desk at the end of the minority aisle, her yellow-highlighted copy of House Bill 663 resting squarely in front of her desk microphone.
+Looking across the wide expanse of green carpet under the tall cream-and-gold coffered ceiling and crystal chandeliers of the House Chamber, I had a clear, floor-level view of the Speaker's high marble rostrum at the front of the room, the Clerk's well, the red-and-green electronic voting boards flanking the front wall, and Katie sitting upright in her compact SwiftChair at her accessible desk across the chamber on the minority aisle, her yellow-highlighted copy of House Bill 663 resting squarely in front of her desk microphone.
 
 ***
 
-#### Thursday, February 4, 2016, 12:18 PM — Watching from the Third-Floor Gallery as Katie Takes the Floor
+#### Thursday, February 4, 2016, 12:18 PM — Watching Across the House Floor as Katie Challenges the Patron
 
 At twelve o'clock noon on the dot, the Speaker of the House rapped his wooden gavel against the rostrum block.
 
-Up in the third-floor public gallery—where two dozen college students from Virginia Dominion University and Commonwealth Polytechnic Institute, a handful of off-duty teachers, and several parents sat quietly along the wooden benches beside my wheelchair bay—everyone fell silent for the opening prayer, the Pledge of Allegiance, and the routine morning leaves of absence.
+Up in the third-floor public gallery overhanging the rear wall—where two dozen college students from Virginia Dominion University and Commonwealth Polytechnic Institute, a handful of off-duty teachers, and several parents sat along the wooden benches—and down across the hundred mahogany desks on the Floor, everyone fell silent for the opening prayer, the Pledge of Allegiance, and the routine morning leaves of absence.
 
-By 12:18 PM, the House had moved into the Second Reading calendar of bills reported out of committee. Half the Delegates on the floor below were leaning back in their leather swivel chairs chatting with deskmates or flipping through binders while the Clerk read bill titles in a rapid, monotone cadence.
+By 12:18 PM, the House had moved into the Second Reading calendar of bills reported out of committee. Half the Delegates on the floor were leaning back in their leather swivel chairs chatting with deskmates or flipping through binders while the Clerk read bill titles in a rapid, monotone cadence.
 
 "House Bill 663, a bill to amend the Code of Virginia relating to single-gender public restrooms and facilities in buildings owned or leased by the Commonwealth, public institutions of higher education, and local school divisions; civil penalty. Patron, Delegate Cobb."
 
-Up at the gallery rail, I clicked the red Record button on my laptop capture window and checked my audio level meters.
+From my wheelchair bay beside the outer right aisle, I clicked the red Record button on my laptop capture window and checked my audio level meters. Right in front of me, I saw Delegate Ronald Villa—a pragmatic coastal Virginia Beach Republican who cared about bus shelters, military families, and Oceanfront tourism, not culture-war stunts—let out a quiet sigh and rub his forehead as the bill was called.
 
-Down on the majority side of the House Floor below me, Delegate Martin Cobb—with his chief co-patron, Delegate Robert Marsh, seated two desks over—stood up behind his mahogany desk, buttoned his navy suit jacket, and leaned into his silver gooseneck microphone.
+Three rows ahead on the majority side of the House Floor, Delegate Martin Cobb—with his chief co-patron, Delegate Robert Marsh, seated two desks over—stood up behind his mahogany desk, buttoned his navy suit jacket, and leaned into his silver gooseneck microphone.
 
-"Mr. Speaker and members of the House," Delegate Cobb's voice echoed up into the high ceiling dome and came cleanly through my gallery headphones, "House Bill 663 is a simple, common-sense measure to protect personal privacy and public safety across the Commonwealth of Virginia. This legislation directs the Department of General Services, every public institution of higher education, and every local school board to ensure that every single-gender public restroom, locker room, and shower facility in any public building or school is used exclusively by individuals whose anatomical sex matches the designated gender on the door—backed by a fifty-dollar civil penalty enforceable by law enforcement summons. I hope it will be the pleasure of the House to engross the bill and advance it to its third reading."
+"Mr. Speaker and members of the House," Delegate Cobb's voice echoed across the chamber and came cleanly through my floor headphones, "House Bill 663 is a simple, common-sense measure to protect personal privacy and public safety across the Commonwealth of Virginia. This legislation directs the Department of General Services, every public institution of higher education, and every local school board to ensure that every single-gender public restroom, locker room, and shower facility in any public building or school is used exclusively by individuals whose anatomical sex matches the designated gender on the door—backed by a fifty-dollar civil penalty enforceable by law enforcement summons. I hope it will be the pleasure of the House to engross the bill and advance it to its third reading."
 
-Down at the end of the minority aisle, I saw Katie press the white request-to-speak button on her desk console and raise her right hand into the air.
+Across the chamber at the end of the minority aisle, I saw Katie press the white request-to-speak button on her desk console and raise her right hand into the air.
 
 Up on the high marble rostrum, the Speaker glanced down toward the left aisle.
 
 "For what purpose does the gentlewoman from Virginia Beach, Delegate Prairie, rise?" the Speaker asked into his microphone.
 
-Below me, Katie flipped the toggle switch at the base of her desk microphone so the green indicator ring illuminated, and lifted the two printed pages of House Bill 663 in her right hand.
+Across the green carpet, Katie flipped the toggle switch at the base of her desk microphone so the green indicator ring illuminated, and lifted the two printed pages of House Bill 663 in her right hand.
 
 "Mr. Speaker, to see if the gentleman from Spotsylvania will yield for a question on the bill," Katie's voice rang out crisp and clear across the chamber.
 
@@ -2787,35 +2893,35 @@ Standing at his desk across the center aisle, Delegate Cobb gave a brief, stiff 
 
 "The gentleman yields," the Speaker said.
 
-Leaning forward slightly over the brass gallery rail from my wheelchair three floors up, I watched my twin sister look straight across the green carpet of the House Chamber at the bill's patron.
+From my wheelchair on the far side of the floor, I watched my twin sister look straight across the House Chamber at the bill's patron.
 
-"Thank you, Mr. Speaker," Katie said. "Wait a moment and look with me at the exact text you printed in House Bill 663, Delegate Cobb. My brother and I write computer software for a living, and when you write code—or when you write a state law—definitions determine how an instruction actually executes in the real world. Unlike bills that reference a birth certificate or a state identification card, your Line 18 on Page 1 explicitly defines anatomical sex as 'the physical condition of being male or female, which is determined by a person's anatomy.' Not their driver's license. Not how they are dressed. Their physical anatomy. And then on Page 2, Line 54, you mandate that a law enforcement officer issue a fifty-dollar civil summons at the restroom door based on that physical anatomy."
+"Thank you, Mr. Speaker," Katie said. "Look with me for a moment at the exact text printed in House Bill 663, Delegate Cobb. My brother and I write computer software for a living, and when you write code—or when you write a state law—definitions determine how an instruction actually executes in the real world. Unlike bills that reference a birth certificate or a state identification card, your Line 18 on Page 1 explicitly defines anatomical sex as 'the physical condition of being male or female, which is determined by a person's anatomy.' Not their driver's license. Not how they are dressed. Their physical anatomy. And then on Page 2, Line 54, you mandate that a law enforcement officer issue a fifty-dollar civil summons at the restroom door based on that physical anatomy."
 
-Across the floor below me, the background murmur of side conversations suddenly died down. Delegates who had been thumbing through their afternoon calendars looked up from their desks.
+Across the floor around me, the background murmur of side conversations suddenly died down. Delegates who had been thumbing through their afternoon calendars looked up from their desks.
 
 "The language of the bill speaks for itself, Mr. Speaker," Delegate Cobb replied stiffly into his desk microphone. "Restrooms in state buildings, public colleges, and public schools will be restricted strictly by anatomical sex, and law enforcement officers are authorized to issue a fifty-dollar civil summons to anyone who enters a restroom that does not match their anatomical sex."
 
-Down at her accessible desk, Katie released her joystick brake half an inch, rolling her compact SwiftChair flush against the mahogany desk edge as she held the two printed pages of House Bill 663 high in the air. Even from the third-floor gallery, I could hear the raw, unmistakable fire rising in my sister's voice.
+Over at her accessible desk, Katie released her joystick brake half an inch, rolling her compact SwiftChair flush against the mahogany desk edge as she held the two printed pages of House Bill 663 high in the air. Across the chamber, I could hear the raw, unmistakable fire rising in my sister's voice.
 
 "Mr. Speaker, when the people of Kempsville and Virginia Beach first elected me to serve in this House of Delegates two years ago," Katie declared, her voice echoing off the marble walls of the Capitol chamber, "I had to fight the facilities bureaucracy in this very Capitol complex just to get an ADA-compliant restroom stall wide enough for my power wheelchair to turn around in and close the door in privacy! Every single day of my life since I was sixteen years old, I have known what it feels like to have strangers stare at my body and treat a basic human necessity like using a public restroom as a public spectacle. And now the gentleman comes onto the Floor of this House with House Bill 663 and tells the women and girls of Virginia that the state government is going to police 'anatomical sex' at the door of every ladies' room from Virginia Beach to Blacksburg for a fifty-dollar fine!"
 
-Up in the public gallery beside my wheelchair, the college students and parents leaned forward on the wooden benches, holding their breath. Down on the House Floor, you could have heard a pin drop.
+Up in the third-floor public gallery above us, the college students and parents leaned forward over the brass balcony rail, holding their breath. Down on the House Floor, you could have heard a pin drop.
 
-"So I ask the gentleman from Spotsylvania—right here on the Floor of the Virginia House of Delegates!" Katie demanded, shaking the printed pages of House Bill 663 across the aisle. "How, exactly, is a police officer or a state building inspector standing outside a restroom door at the Community College of Hampton Roads, or Virginia Dominion University, or right downstairs in this State Capitol supposed to verify a citizen's 'physical anatomy' before writing your fifty-dollar ticket? Why on earth should I—or any woman or girl in the Commonwealth of Virginia—have to pull my pants down for a government official or a police officer to prove I have female parts just to use the ladies' room?!"
+"So I ask the gentleman from Spotsylvania—right here on the Floor of the Virginia House of Delegates!" Katie demanded, shaking the printed pages of House Bill 663 across the aisle. "How, exactly, is a police officer or a state building inspector standing outside a restroom door at the Community College of Hampton Roads, or Virginia Dominion University, or right outside in this State Capitol corridor supposed to verify a citizen's 'physical anatomy' before writing your fifty-dollar ticket? Why on earth should I—or any woman or girl in the Commonwealth of Virginia—have to pull my pants down for a government official or a police officer to prove I have female parts just to use the ladies' room?!"
 
-An audible gasp swept across the third-floor public gallery around me, followed half a second later by a sudden burst of applause from the visitors on the gallery benches and several sharp "Hear, hear!" calls from the minority desks down on the Floor.
+An audible gasp swept across the chamber, followed half a second later by a sudden burst of applause from the visitors up in the third-floor gallery benches and several sharp "Hear, hear!" calls from the minority desks down on the Floor. Right beside my wheelchair on the Republican side of the floor, Delegate Ronald Villa winced, shook his head at Cobb's bill, and exchanged an unmistakable *she's got him dead to rights* look with his seatmate.
 
 *Bam! Bam!*
 
-"The House will be in order!" the Speaker barked from the rostrum, pounding his wooden gavel twice as he looked up toward our third-floor balcony. "The guests in the public gallery are reminded that demonstrations of approval or disapproval are strictly prohibited by the rules of the House!"
+"The House will be in order!" the Speaker barked from the rostrum, pounding his wooden gavel twice as he looked up toward the third-floor balcony. "The guests in the public gallery are reminded that demonstrations of approval or disapproval are strictly prohibited by the rules of the House!"
 
-Down on the majority aisle of the House Floor, Delegate Martin Cobb stood completely frozen behind his desk microphone for four full seconds, his face turning beet-red under the chamber chandeliers as he looked from Katie's power wheelchair to the uneasy, downward stares of his own party colleagues around him.
+Out on the majority aisle of the House Floor, Delegate Martin Cobb stood completely frozen behind his desk microphone for four full seconds, his face turning beet-red under the chamber chandeliers as he looked from Katie's power wheelchair to the uneasy, downward stares of his own party colleagues around him.
 
 "I—Mr. Speaker, the bill does not—nobody is suggesting—" Delegate Cobb stammered into his microphone, shuffling his folder on his desk without answering the question.
 
 "Mr. Speaker, that is literally what the words printed on Page 1 and Page 2 of House Bill 663 require!" Katie replied from her SwiftChair, her voice steady, clear, and unflinching across the silent chamber. "Transgender women are women, transgender men are men, and every citizen in this Commonwealth deserves basic human dignity and privacy without politicians stationing bathroom police at the door to inspect people's anatomy. No woman or girl in Virginia should ever have to pull her pants down to prove she has female parts just to use a public restroom!"
 
-Across the center aisle, the House Majority Leader quickly stood up at his front-row desk, exchanging a tense look with the Speaker before glancing back at a flustered Delegate Cobb.
+At the front row of the center aisle, the House Majority Leader quickly stood up at his desk, exchanging a tense look with the Speaker before glancing back at a flustered Delegate Cobb.
 
 "Mr. Speaker," the Majority Leader said briskly into his microphone, "I move that House Bill 663 be passed by for the day."
 
@@ -2825,9 +2931,11 @@ Across the center aisle, the House Majority Leader quickly stood up at his front
 
 #### Thursday, February 4, 2016, 12:35 PM — Archiving the 95-Second Clip & Rolling Back Through the Tunnel
 
-Up in the third-floor wheelchair bay, I clicked the Stop button on my capture window and exhaled a quiet breath.
+In my wheelchair bay beside Delegate Villa's desk, I clicked the Stop button on my capture window and exhaled a quiet breath.
 
-Looking down at the timeline bar on my laptop screen while the Clerk moved on to a routine highway-naming bill below, I checked the timestamp on the video file I had just recorded from the chamber feed. The entire floor exchange between Katie and Delegate Cobb ran ninety-five seconds.
+Delegate Villa leaned slightly toward my armrest and whispered out of the corner of his mouth, "Your sister just drove a freight truck straight through the middle of that bill, Nate."
+
+I gave him a quiet grin and looked down at the timeline bar on my laptop screen while the Clerk moved on to a routine highway-naming bill. Checking the timestamp on the video file I had just recorded from the chamber feed, I saw that the entire floor exchange between Katie and Delegate Cobb ran ninety-five seconds.
 
 Just like I did whenever Katie spoke on a bill on the House Floor, I opened Quantum Code right there on my lap tray, typed out a verbatim, frame-accurate WebVTT closed-caption file for the ninety-five-second video, burned high-contrast open captions along the bottom of the frame so constituents watching on mute could read every word, and uploaded the clip to Katie's legislative website archive, StreamTube, and The Grid at 12:35 PM with a standard archival heading:
 
@@ -2835,13 +2943,11 @@ Just like I did whenever Katie spoke on a bill on the House Floor, I opened Quan
 
 Twenty-five minutes later, at one o'clock, the House adjourned its Thursday floor session so members could grab lunch before afternoon committee work.
 
-I unplugged my audio cable from the brass gallery rail, packed my laptop and capture rig back into my bag, thanked Mr. Lewis at the top of the gallery ramp, and took the Capitol elevator back down to the first floor.
+I unplugged my audio cable from the side rail, packed my laptop and capture rig back into my bag, shook Delegate Villa's hand, and rolled out the right-hand chamber doorway into the first-floor marble corridor just as Katie came rolling out the left-hand doorway in her SwiftChair.
 
-When the mahogany double doors of the House Chamber swung open, Katie came rolling out into the marble corridor in her SwiftChair, her cheeks still faintly flushed from the floor exchange.
+"Hey," I said, rolling right up beside her and reaching out to take her left hand. "The ninety-five-second floor clip is captioned and archived on your constituent page. Delegate Cobb didn't have a single word to say when you asked him how a police officer is supposed to verify Line 18 at the door—and even Ron Villa over on my aisle said you drove a truck straight through the middle of that bill."
 
-"Hey," I said, rolling right up beside her and reaching out to take her left hand. "The ninety-five-second floor clip is captioned and archived on your constituent page. Delegate Cobb didn't have a single word to say when you asked him how a police officer is supposed to verify Line 18 at the door—the Majority Leader had to pass the bill by for the day just to bail him out."
-
-"Good," Katie sighed, squeezing my fingers as we turned our wheelchairs side by side toward the elevator down to the underground Capitol tunnel. "Even if the majority brings it right back up on Monday and rams it through on a party-line vote, at least we put the truth about that bill squarely on the permanent House record. Come on—let's go grab a sandwich in the basement cafeteria before our two o'clock constituent meetings."
+"Good," Katie sighed, squeezing my fingers as we turned our wheelchairs side by side toward the elevator down to the underground Capitol tunnel. "Even if the majority brings it right back up on Monday and tries to ram it through on a party-line vote, at least we put the truth about that bill squarely on the permanent House record. Come on—let's go grab a sandwich in the basement cafeteria before our two o'clock constituent meetings."
 
 ### Part 2: Thursday Evening at Six, Friday on Capitol Square, & Sunday Morning on Meet the Nation
 
@@ -2857,7 +2963,7 @@ Picking up the remote control from the corner of the table, I clicked on the wal
 
 I barely had time to set the remote down before both my sister and I froze with our forks halfway to our mouths.
 
-On the television screen on the wall—and simultaneously on the Norfolk local news stream playing on my laptop—was the exact ninety-five-second video clip I had captured from the third-floor House gallery at lunchtime.
+On the television screen on the wall—and simultaneously on the Norfolk local news stream playing on my laptop—was the exact ninety-five-second video clip I had captured from my wheelchair bay on the House Floor at lunchtime.
 
 *"—and our top story from the State Capitol tonight,"* the Richmond evening anchor announced over the footage of Katie sitting upright in her compact SwiftChair on the House Floor holding up the two printed pages of House Bill 663, *"a fiery floor exchange in the House of Delegates this afternoon over House Bill 663, the controversial bathroom bill restricting public restrooms by 'anatomical sex,' after Virginia Beach Delegate Katie Prairie brought the House Chamber to a standstill with a single question for the bill's patron."*
 
@@ -2919,7 +3025,7 @@ On the monitor, the veteran Washington moderator looked straight into the main c
 
 "Good morning," the moderator announced across millions of living rooms from coast to coast. "If it's Sunday, it's Meet the Nation. Later this hour, we will hear from the presidential campaigns ahead of Tuesday's primary—but we begin this Sunday morning with a ninety-five-second moment from the floor of the Virginia House of Delegates in Richmond that has been watched more than four million times across the country in the last seventy-two hours, igniting a national debate over so-called 'bathroom bills,' personal privacy, and civil rights."
 
-On the national network broadcast, Meet the Nation rolled the exact ninety-five-second video clip I had recorded and captioned from the third-floor public gallery on Thursday afternoon—showing Katie down on the House Floor in her power wheelchair holding up the printed pages of House Bill 663 and demanding of Delegate Martin Cobb why she, or any woman or girl in the Commonwealth of Virginia, should have to pull her pants down for a government official or a police officer to prove she had female parts just to use the ladies' room.
+On the national network broadcast, Meet the Nation rolled the exact ninety-five-second video clip I had recorded and captioned from my wheelchair bay on the House Floor on Thursday afternoon—showing Katie down on the House Floor in her power wheelchair holding up the printed pages of House Bill 663 and demanding of Delegate Martin Cobb why she, or any woman or girl in the Commonwealth of Virginia, should have to pull her pants down for a government official or a police officer to prove she had female parts just to use the ladies' room.
 
 When the clip cut back to the live split-screen studio feed, the lower-third graphic flashed across television screens nationwide:
 
