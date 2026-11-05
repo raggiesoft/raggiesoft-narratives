@@ -1661,7 +1661,7 @@ She paused for a long breath, letting the distant rumble of a Route 1 bus rollin
 
 **Date:** 2005-11-12 at 20:20 America/New_York
 
-![Inside the filthy open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp, Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
+![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
 
 #### Saturday, November 12, 2005, 8:20 PM — A Sister's Worst Nightmare & Five Buses from Williamsburg
 
@@ -1747,7 +1747,7 @@ Katie was sitting upright inside the sleeping bag with both hands pressed over h
 
 "Please," Katie said, wiping her cheeks. "And could you hand me my clothes from the chair? I want to get dressed."
 
-I handed Katie her clean mustard-yellow short-sleeve T-shirt and blue jeans from the laundry pile, giving her privacy while she got dressed and transferred into her SwiftChair, while I rolled straight ahead into the open kitchen under the hanging amber cone pull-chain lamp and took two bowls and a box of toasted oat cereal down from the counter.
+I handed Katie her clean mustard-yellow short-sleeve T-shirt and blue jeans from the laundry pile, giving her privacy while she got dressed and transferred into her SwiftChair, while I rolled straight ahead into the open kitchen under the hanging amber cone pull-chain lamp—along the narrow lane of linoleum I had cleared earlier that morning by shoving the worst floor piles into black garbage bags just so both of our wheelchairs could maneuver—and took two bowls and a box of toasted oat cereal down from the counter.
 
 When I rolled back to the oval wooden coffee table and set the two bowls down in front of us, Katie looked down at the dry cereal and blinked in surprise.
 
@@ -1765,11 +1765,11 @@ Katie ate her dry cereal grudgingly without saying another word about the milk�
 
 Before I could answer, footsteps shuffled down the hallway from the back bedroom.
 
-Wearing her black-rimmed rectangular glasses, her mint-green short-sleeve graphic T-shirt, and her charcoal-gray pants, Tiffany stepped out of the hallway into the open kitchen right in front of the slate-blue four-burner stove and the black top-freezer refrigerator. Stopping beneath the hanging amber cone pull-chain lamp, she folded her arms, glared past the wall smoke detector at Katie and me sitting together by the oval coffee table, and spoke in a loud, accusatory sneer.
+Wearing her black-rimmed rectangular glasses, her mint-green short-sleeve graphic T-shirt, and her charcoal-gray pants, Tiffany stepped out of the hallway into the open kitchen right in front of the slate-blue four-burner stove and the black top-freezer refrigerator. Stopping beneath the hanging amber cone pull-chain lamp and the olive-green upper cabinets, she folded her arms, glared at Katie and me sitting together by the oval coffee table, and spoke in a loud, accusatory sneer.
 
 "You know, you seem to be cuddling with Katie a whole lot more than me," Tiffany snapped. "Do you not love me?"
 
-![Inside the filthy open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp, Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
+![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
 
 Beside me, Katie looked at Tiffany with pure disgust. To my twin sister, the very idea that anyone would try to force an ultimatum between a loyal twin sibling and a romantic partner—after Katie had just escaped an abusive nightmare in Williamsburg the night before—was repellent.
 
@@ -1933,7 +1933,7 @@ She leaned over and gently kissed my forehead goodnight, just like we used to do
 
 **Date:** 2005-11-14 at 07:30 America/New_York
 
-![Inside the combination living room and open kitchen of Sea Breeze West Apartment 3 during the heavy-duty cleanout, twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the dirty counters and tie up bulging black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
+![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the dumpsters—twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
 
 #### Monday, November 14, 2005, 7:30 AM — Real Milk in the Cereal Bowls & The 8:13 AM Route 1 Bus to CCHR
 
@@ -2081,7 +2081,7 @@ I looked down at the wide, completely clear carpeted floor at the bottom of the 
 
 Because both Katie and I are autistic, there were days when the noise, the bright lights, and the stress of the outside world pushed our sensory systems to the edge—days when the only thing that calmed our nervous systems down was a dark, quiet, enclosed space and a tight, deep-pressure sibling hug.
 
-![Inside the combination living room and open kitchen of Sea Breeze West Apartment 3 during the heavy-duty cleanout, twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the dirty counters and tie up bulging black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
+![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the dumpsters—twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
 
 "If we keep the entire floor of the hallway closet completely clear," I said, finishing Katie's thought as only her twin could, "we can lay the clean sleeping bag and two extra pillows right along the bottom of the closet!"
 
