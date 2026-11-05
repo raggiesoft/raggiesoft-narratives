@@ -1559,7 +1559,7 @@ In seventh grade, when Chad had walked out on Katie and left her crying in the m
 
 Taking a long, steadying breath, I squeezed Katie's hand back and leaned my head against her shoulder until the shaking in my chest finally subsided—knowing beyond a shadow of a doubt that as we headed toward high school graduation and our adult lives together, the only person in the world I would ever completely trust was sitting right beside me.
 
-# West Ocean View, Ideas for CVTA, & The Delegate from Virginia Beach
+# West Ocean View, Ideas for CVTA, & From City Council to the Senate of Virginia
 
 ## My Brother Only & The Speak Now Vow
 
@@ -3300,6 +3300,172 @@ Standing by the lectern as his bill died without a single recorded vote, Delegat
 "I'm going to pray that you all get courage!"
 
 At the accessible end of the room, Katie watched the bill's patron stomp out into the hallway, turned her head toward my wheelchair, and gave me the quietest, proudest twin smile in the world as the college students and families in the room broke into relieved cheers.
+
+## Across the Rotunda: Why Run for State Senate, The 7th District Race, & Madam Chair
+
+### Part 1: Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule
+
+**Date:** 2018-02-22 at 15:10 America/New_York
+
+#### Thursday, February 22, 2018, 3:10 PM — The Graveyard Across the Capitol Rotunda
+
+"House Bill 412, patroned by Delegate Prairie of Virginia Beach, relating to dedicated regional public-transit operating assistance and Priority-One developmental-disability Medicaid waiver slots," the committee clerk read aloud inside the crowded Senate Finance subcommittee room on the afternoon after the mid-session crossover deadline.
+
+Parked side by side in our compact SwiftChairs in front of the witness table—with a dozen CVTA bus riders and three mothers of developmentally disabled adults from Virginia Beach and Norfolk sitting nervously behind us after riding the morning train up to Richmond—thirty-two-year-old Katie and I looked up at the raised mahogany dais of the Senate of Virginia.
+
+It had taken Katie four years of relentless, brick-by-brick legislative work in the hundred-member House of Delegates to get House Bill 412 across the Capitol Rotunda. After winning re-election in 2015 and 2017—and after the 2017 wave brought our side within a single seat of parity in the House—Katie had worked across the aisle with coastal moderates like our Virginia Beach colleague Delegate Ronald Villa to pass House Bill 412 off the House Floor by a bipartisan sixty-two-to-thirty-eight vote. The bill did two things our constituents in Hampton Roads desperately needed: it dedicated a permanent stream of regional transportation revenue to expand evening and Sunday CVTA and JRTC bus service, and it funded fifteen hundred new Priority-One developmental-disability Medicaid waiver slots so adults with developmental disabilities like our cousin Chelsea wouldn't sit on an emergency waiting list for ten years when their parents grew old.
+
+Now the bill had crossed the rotunda to the forty-member Senate of Virginia, where Republicans held a narrow twenty-one-to-nineteen majority.
+
+And sitting right in the center chair behind the subcommittee gavel was our own hometown State Senator—twenty-year incumbent Senator Franklin Ward of the Seventh Senate District in Virginia Beach.
+
+"Delegate Prairie, you have two minutes to present your bill," Senator Ward said smoothly, barely looking up from his leather folio as he checked his gold wristwatch.
+
+Katie rolled her SwiftChair flush to the witness microphone and laid out the exact fiscal math of House Bill 412 in ninety seconds—showing how every dollar was already paid for without raising a single tax on working families, and gesturing behind us toward the Virginia Beach parents and bus commuters who had taken a vacation day from work just to testify.
+
+Senator Ward didn't ask a single question about the math, and he didn't call a single citizen witness from the sign-up sheet.
+
+"Thank you, Delegate Prairie, we all know how fond you and your brother are of buses," Senator Ward said with a dismissive wave of his hand. "Unfortunately, this subcommittee has other highway priorities for Hampton Roads this afternoon. Do I hear a motion to pass House Bill 412 by indefinitely?"
+
+"So moved," a majority senator muttered beside him.
+
+"All in favor say aye—opposed no—the ayes have it, and House Bill 412 is passed by indefinitely," Senator Ward announced, rapping his wooden gavel once to kill the bill for the year before the mothers in the back row could even stand up from their chairs. "Next bill on the docket."
+
+Behind us, one of the mothers from Kempsville—whose twenty-nine-year-old nonverbal son had been waiting six years for a disability support waiver—let out a quiet, heartbroken breath and lowered her printed testimony back into her purse.
+
+Katie didn't yell or pound the witness table. She turned her SwiftChair around, rolled back to the visitor rows with me right beside her, and spent ten minutes holding the hands of every parent and bus rider who had traveled up from Hampton Roads, promising them on her word of honor that she wasn't done fighting for them.
+
+Twenty minutes later, after we had walked the families down to the Ninth and Main bus stop to catch their ride to Main Street Station, Katie and I rolled back into the center of the historic Capitol Rotunda on the second floor.
+
+In the quiet marble rotunda directly beneath Thomas Jefferson's dome, the tall mahogany entrance doors of the House of Delegates Chamber stood to our south, while the mahogany doors of the Senate of Virginia Chamber stood directly opposite to our north.
+
+Katie braked her SwiftChair right in the center of the black-and-white marble floor between the two chambers and stared at the closed doors of the Senate of Virginia.
+
+"Four years, Nate," Katie said quietly, her voice vibrating with focused steel as she reached across our armrests to grip my right hand. "We spent four years building a bipartisan coalition in a hundred-member House of Delegates to pass that bill, and our own State Senator from Virginia Beach killed it in ninety seconds across the rotunda without even letting our constituents speak."
+
+"Because in a bicameral legislature, passing a bill through the House is only half the equation," I said, squeezing her fingers back. "As long as Franklin Ward holds a committee gavel in a twenty-one-to-nineteen Senate, he can bury every single transit bill and disability-waiver bill we pass."
+
+Katie's blue eyes stayed locked on the north doors of the Senate Chamber.
+
+"The Seventh Senate District covers western and central Virginia Beach and eastern Norfolk," Katie said slowly. "Every single precinct of our Eighty-Fifth House District in Kempsville sits right inside the heart of Franklin Ward's Seventh Senate District. And next year—November 2019—all forty seats in the Senate of Virginia are on the ballot."
+
+I looked at my twin sister, feeling the exact same electric charge I had felt in the Capitol elevator six years earlier.
+
+"Let's finish out this session," I whispered, "and when we get home to Kempsville, let's sit down with Dad."
+
+***
+
+#### Saturday, November 10, 2018, 5:00 PM — Brainstorming the Jump to the State Senate Around Our Kempsville Table
+
+"Walk me through the difference between being a State Delegate and being a State Senator," our sixty-year-old dad said that autumn as the three of us sat around our oak kitchen table on Lord Nelson Drive with three tall glasses of ginger ale and my MagnaBook Pro open to the map of the Seventh Senate District of Virginia. "You're already in state politics in Richmond, Katie, and the voters of the Eighty-Fifth House District have elected you three times in a row by bigger margins every election. If a constituent on the Route 12 bus asks you tomorrow morning why you're jumping from the House of Delegates to run for the Senate of Virginia, what's the answer?"
+
+"Three reasons, Dad," thirty-three-year-old Katie answered, holding up three fingers from her SwiftChair armrest.
+
+"First," Katie said, "is what happened to House Bill 412 in February. The Virginia General Assembly has two chambers. In the hundred-member House of Delegates, I'm one vote out of a hundred, and even when we build a bipartisan coalition and pass a bill through the House, it has to cross the rotunda and pass the forty-member Senate of Virginia. Right now, the Senate is split twenty-one to nineteen, and our own State Senator here in the Seventh District—Franklin Ward—uses his seniority on Senate Finance and Transportation to kill regional public-transit funding, developmental-disability Medicaid waivers, and minimum-wage increases before they ever reach the Senate Floor. If I stay in the House, we can keep passing bills every February and watching Senator Ward throw them in the trash can every March."
+
+"Second," I said, tapping the legislative math chart I had coded on my laptop screen, "look at the structural difference between the two chambers. In the House of Delegates, there are a hundred members and everyone runs for re-election every two years. In the Senate of Virginia, there are only forty members, and they serve four-year terms. One State Senator represents two and a half times the voting weight of a Delegate. Even bigger: because the Senate is split twenty-one to nineteen right now, flipping just two Senate seats next November flips the entire Senate of Virginia into a Democratic majority. And under the Senate's seniority and caucus rules, if Katie wins the Seventh Senate District and we win the majority, she won't just be one voice at the end of a committee table—she'll be handed the gavel as Chair of a standing Senate committee and sit on Senate Transportation and Finance."
+
+"And third," Katie said, tracing the boundary lines of the Seventh Senate District across my screen from Kempsville and Bellamy Manor up past CCHR, Princess Anne Road, Pembroke Commons, Bayside, and across Newtown Road into eastern Norfolk, "look at who lives in the Seventh Senate District. A House of Delegates district has about eighty thousand residents. A Virginia Senate district has two hundred thousand residents—equivalent to two and a half House districts combined. Every single neighborhood we already represent in the Eighty-Fifth House District is right here inside the Seventh Senate District, alongside the exact CCHR, Pembroke, Newtown Road, and Military Highway bus corridors Nate and I have ridden and written about since 2005."
+
+Dad leaned back in his chair, nodding slowly as he took in the whole picture.
+
+"And what about your current seat in the Eighty-Fifth House District?" Dad asked. "Do you have to resign from the House of Delegates early to run for the State Senate?"
+
+"Not a single day early," I replied. "In Virginia, every twenty-year cycle aligns so that in 2019, all one hundred seats in the House of Delegates and all forty seats in the Senate of Virginia are up for election on the exact same Tuesday—November 5, 2019. Katie serves every single day of her current two-year House term through the 2019 legislative session and all the way to January 2020. Instead of filing for re-election to the Eighty-Fifth House District ballot next spring, she files for the Seventh Senate District ballot—and Andre Askew, who has worked right alongside us in Kempsville for the past four years, is ready to run for Katie's Eighty-Fifth House seat so our district stays in good hands."
+
+Dad pulled his familiar yellow legal pad and black pen across the kitchen table—the exact same routine the three of us had followed in 2010 for City Council and in 2012 for the House of Delegates.
+
+"Alright, Mr. Campaign Manager and Mr. Treasurer," Dad said with a grin, writing *Katie Prairie for Virginia Senate — 7th District (2019)* across the top line. "Since we're already registered in the State Board of Elections system from Katie's House races, what changes legally under Title 24.2 of the Code of Virginia when a sitting Delegate files for the State Senate?"
+
+"Four main things," I said, opening our 2019 statutory checklist:
+
+"First, right after the 2019 winter session adjourns in late February, we file an amended Statement of Organization in COMET transitioning our campaign committee to *Katie Prairie for Virginia Senate*, keeping you as official Campaign Treasurer and me as Campaign Manager and Chief Technology Officer. Second, Katie files her Certificate of Candidate Qualification under Section 24.2-501, her Declaration of Candidacy under Section 24.2-520, and her updated General Assembly Statement of Economic Interests. Third, because the Seventh Senate District spans two localities—both the City of Virginia Beach and the eastern precincts of the City of Norfolk—our ballot qualification paperwork and primary filing fee get verified across both cities' voter registrars under the State Board of Elections."
+
+"And fourth," Katie added with a determined smile, "the voter petition signature threshold doubles. Under Code of Virginia Section 24.2-506, a House of Delegates candidate needs one hundred and twenty-five qualified voter signatures, while a candidate for the Senate of Virginia is required by law to turn in at least two hundred and fifty signatures of qualified voters registered inside the Seventh Senate District."
+
+"In 2013 we needed one hundred and twenty-five and collected four hundred and twelve," Dad said, tapping his pen decisively against the legal pad. "So for a two-hundred-and-fifty-signature State Senate requirement across two hundred thousand people in Virginia Beach and Norfolk, we're collecting at least eight hundred verified signatures."
+
+"Eight hundred it is," I smiled, reaching across the table to clasp Dad's hand and Katie's hand together.
+
+***
+
+#### Spring 2019 — Senator Ward Ducks the Race & Collecting 824 Signatures Along Route 20 and Route 25
+
+In late February 2019, twenty-four hours after the forty-five-day winter legislative session adjourned in Richmond, Katie stood at the CCHR Virginia Beach Campus bus transfer loop flanked by me, Dad, and forty daily bus commuters and disability advocates to formally announce her candidacy for the Seventh Senate District of Virginia.
+
+Three weeks later, after seeing our first internal poll and watching volunteers line up four-deep around our wheelchairs at the Pembroke Commons, Glenrock Mall, and CCHR bus stops to sign Katie's nominating petitions, twenty-year incumbent State Senator Franklin Ward stunned the Capitol press corps by announcing his sudden retirement rather than face Delegate Katie Prairie on the November ballot.
+
+Instead, the majority party establishment poured over a million dollars in corporate PAC money behind Senator Ward's handpicked successor—a wealthy commercial real-estate attorney who immediately attacked Katie's regional transit plan as a "socialist giveaway to inner-city buses."
+
+With Dad walking beside our SwiftChairs every weekend holding the legal-sized petition clipboards and signing the circulator affidavits before a notary, and with me checking every signer's street address across both the Virginia Beach and Norfolk voter rolls on my laptop, we turned in eight hundred and twenty-four verified voter signatures to the State Board of Elections in March 2019—more than triple the two-hundred-and-fifty-signature statutory requirement—qualifying Katie unopposed as the Democratic Nominee for the Seventh Senate District.
+
+### Part 2: Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair
+
+**Date:** 2019-11-05 at 19:30 America/New_York
+
+#### Tuesday, November 5, 2019, 7:30 PM — Winning the Seventh Senate District & Flipping the Senate of Virginia
+
+"Norfolk precincts around Newtown Road and Glenrock just uploaded to the State Board of Elections server," I called out at seven-thirty on Election Night—Tuesday, November 5, 2019—as my custom PHP precinct-aggregation script refreshed on my laptop screen inside our packed campaign headquarters off Kempsville Road. "And here come the early-vote and seven-o'clock precinct totals from CCHR, Bellamy Manor, Brandon, and Pembroke!"
+
+Sitting right beside my left armrest in her compact SwiftChair, thirty-four-year-old Katie leaned in while Dad stood behind our two wheelchairs with his hand resting proudly on my shoulder.
+
+Unlike our first House race six years earlier—when we had watched eighteen Kempsville precincts around our kitchen table—the Seventh Senate District spanned fifty-four precincts across western and central Virginia Beach and eastern Norfolk. For seven straight months from April through November, Katie, Dad, and I had ridden every CVTA bus route connecting the two cities—Route 1, Route 12, Route 15, Route 20, Route 25, Route 29, and Route 33—canvassing thousands of doors from Kempsville and Larkspur all the way north to Bayside and west across Newtown Road into Norfolk.
+
+And because voters across Virginia Beach and Norfolk remembered Delegate Katie Prairie as the lawmaker who had stood up to the bathroom-bill bullies on Meet the Nation in 2016 and fought every single winter for their buses, schools, and disability waivers, the corporate attack mailers against her hadn't stood a chance.
+
+"Look at the margin in Kempsville and around CCHR, Katie," I said, my voice catching as the green rows populated down my screen at 7:54 PM. "You're carrying your home Eighty-Fifth House precincts by twenty-two points—Andre Askew just won your House seat right on your coattails—and you're winning the Bayside, Pembroke, and eastern Norfolk precincts by eleven points!"
+
+Ten minutes later, at 8:04 PM, the statewide television monitors mounted above the headquarters room chimed in unison.
+
+First came the Seventh Senate District projection:
+
+*PROJECTED WINNER — 7TH SENATE DISTRICT: DEL. KATIE PRAIRIE (D-VIRGINIA BEACH) ELECTED TO THE SENATE OF VIRGINIA (55.8% – 44.2%).*
+
+And eighteen minutes after that, a roar went up across the room that rattled the storefront windows when the statewide banner flashed across the bottom of the screen:
+
+*BREAKING NEWS: DEMOCRATS FLIP CONTROL OF BOTH THE SENATE OF VIRGINIA AND THE VIRGINIA HOUSE OF DELEGATES.*
+
+Katie turned her head toward me, her eyes bright with tears as she threw her arms around my neck across our wheelchair armrests while Dad wrapped both of us in a bear hug from behind.
+
+"No more watching our bills die across the rotunda, Nate," Katie whispered against my shoulder. "We aren't in the minority anymore. Come January, we hold the gavel."
+
+***
+
+#### December 2019 to Wednesday, January 8, 2020 — The Custom-Milled Mahogany Ramp & Swearing In as Madam Chair
+
+In the weeks between Election Night and the January 2020 Opening Day of the General Assembly, the transition from the House of Delegates to the Senate of Virginia looked very different from our first arrival in Richmond six years earlier.
+
+After the Electoral Boards of the City of Virginia Beach and the City of Norfolk completed their official multi-locality canvass and the Virginia State Board of Elections transmitted Katie's gold-sealed Certificate of Election as Senator-Elect for the Seventh Senatorial District under Code of Virginia Section 24.2-675, Katie received a phone call at our home in Kempsville on the first Monday of December.
+
+It wasn't from a mid-level facilities bureaucrat telling her to wait until March. It was from William, the veteran Clerk of the Senate of Virginia, calling personally alongside the newly elected Senate Majority Leader.
+
+"Senator-Elect Prairie," the Clerk said warmly on speakerphone across our desk, "in the two-hundred-and-forty-year history of the Senate of Virginia, you are the very first State Senator ever elected to sit in our chamber in a wheelchair—and the Majority Caucus has just designated you to serve as Chair of the Senate Committee on Rehabilitation and Social Services, as well as a senior member of Senate Transportation and Senate Finance. I want you and Nathaniel to ride up to the Capitol this week so our master architectural woodworkers can measure your SwiftChair in person. When you roll into the Senate of Virginia on January eighth, everything in our chamber is going to look like Thomas Jefferson built it for you himself."
+
+Three days later, when Katie and I rode the morning ARTS train and the JRTC Route 6 bus up to Capitol Square and rolled into the second-floor Senate wing, the Clerk of the Senate was waiting for us with the Capitol's master cabinetmakers and historic preservation carpenters.
+
+Inside the neoclassical Office of the Clerk of the Senate—where tall white marble Ionic columns framed the floor-to-ceiling volumes of the Virginia Acts of Assembly—the carpenters were already constructing a lowered, wheelchair-accessible section of the polished mahogany reception counter so Katie and I could review bills and sign official Senate parchments at eye level.
+
+And inside the Senate of Virginia Chamber itself, under the tall arched windows and the green carpet of the forty-member upper house, the Clerk led us up to the front aisle where the senior committee chairs sat.
+
+Not only had the cabinetmakers modified the front-aisle mahogany desk for the Chair of Rehabilitation and Social Services so Katie's compact SwiftChair rolled smoothly underneath the desktop without a single obstruction, they had also designed a permanent, custom-milled solid-mahogany wheelchair ramp leading directly up to the Clerk's well and the Senate dais—complete with matching turned mahogany balusters and brass handrails stained to the exact eighteenth-century patina of the chamber's historic woodwork.
+
+"Look at the grain on that mahogany, Katie," I murmured as Katie tested the gentle one-in-twelve slope of the new Senate ramp in her SwiftChair and rolled effortlessly up to the Clerk's well. "Anyone looking down from the Senate gallery is going to assume that ramp has been part of this Capitol for two hundred years."
+
+"And it's staying here for the next two hundred years," the Clerk of the Senate smiled.
+
+On Opening Day—Wednesday, January 8, 2020, at twelve o'clock noon—after we had unpacked our familiar winter-session sanctuary at Apartment 104 of the Broad & Boulevard Lofts on West Broad Street the weekend before and ridden the eastbound JRTC Route 6 bus down to Ninth and Broad, thirty-four-year-old Katie rolled down the center aisle of the Senate of Virginia in her compact SwiftChair.
+
+Because the second-floor Senate Chamber had a level ground-accessible entrance off the Capitol elevator lobby, Dad sat beaming in his best suit in the front row of the Senatorial family section on the chamber floor while I rolled my SwiftChair right up beside Katie's desk holding our bound leather copy of the Constitution of the Commonwealth of Virginia.
+
+Up on the high marble rostrum, the Lieutenant Governor of Virginia—serving under the state constitution as President of the Senate—called the forty Senators-Elect forward to take the constitutional oath of office under Article II, Section 7 of the Constitution of Virginia.
+
+Rolling smoothly up the newly installed custom-milled mahogany ramp to the front well with me right beside her left armrest, Katie placed her left hand squarely on the Constitution of the Commonwealth of Virginia resting across my palms and raised her right hand toward the rostrum.
+
+"I do solemnly swear that I will support the Constitution of the United States, and the Constitution of the Commonwealth of Virginia, and that I will faithfully and impartially discharge all the duties incumbent upon me as a member of the Senate of Virginia, according to the best of my ability, so help me, God!" Katie declared, her clear, steady voice ringing across the forty mahogany desks of the upper chamber.
+
+Ten minutes later, when the Clerk read the standing committee assignments for the 2020 session and handed Katie the polished wooden gavel as Madam Chair of the Senate Committee on Rehabilitation and Social Services, I looked across the chamber at the exact seats where Senator Franklin Ward and his allies had killed our transit and disability bills twenty-two months earlier.
+
+During her very first sixty-day session as a State Senator in early 2020—and over the next six years representing the Seventh Senate District (renumbered the Twenty-Second Senate District after the decennial redistricting adjustment)—State Senator Katie Prairie didn't just hold that gavel. She used it to pass the exact dedicated regional public-transit funding act for CVTA and JRTC, the developmental-disability Priority-One Medicaid waiver expansion that finally secured our cousin Chelsea's lifelong support slot, and the strongest statewide ADA public-facility enforcement law in the South—sending every single one of them across the rotunda to the Governor's desk to be signed into the Code of Virginia.
 
 # The Senator from Virginia
 
