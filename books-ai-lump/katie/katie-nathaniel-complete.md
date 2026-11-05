@@ -2507,6 +2507,210 @@ Katie stared at the screen for three seconds, and then a slow, fierce grin broke
 
 "Out of every mayoral candidate in Chesapeake, Portsmouth, Hampton, and Virginia Beach—and every City Council candidate across all six cities—only one person had the guts to say yes," Katie said, her blue eyes shining with determination as she pulled the folded CVTA Virginia Beach route map across our desk. "And he's running for Mayor right here in Virginia Beach. Come on, Nate—get your video camera batteries on the charger. We're going to meet him at the CCHR Virginia Beach Campus bus loop, and we're going to take him on the exact four-bus circuit across Virginia Beach and Norfolk: Route 29 to Hilltop, Route 20 to Glenrock Mall, Route 15 down Military Highway, and Route 12 right back to CCHR."
 
+## Freshman Session on West Broad Street & Riding JRTC Route 6 to the Capitol
+
+### Part 1: The West Broad Street Loft, Unpacking Our Shared Queen Bed, & Weekend Reconnaissance on JRTC Route 6
+
+**Date:** 2014-01-03 at 14:15 America/New_York
+
+#### Friday, January 3, 2014, 2:15 PM — Five Days Ahead of Opening Day at the Broad & Boulevard Lofts
+
+"I still apologize that we only had a one-bedroom accessible apartment left on the ground floor for the legislative session, Delegate Prairie," the property manager of the Broad & Boulevard Lofts said nervously as he held open the wide oak door of Apartment 104 and handed twenty-eight-year-old Katie two brass keys and a pair of electronic lobby fobs. "When the General Assembly convenes every January, the two-bedroom corporate units book up months in advance. If you and your brother need us to roll a folding cot into the living room—"
+
+"No cot needed at all, Mr. Henderson, thank you," Katie said with a warm, reassuring smile from her compact black SwiftChair as she rolled smoothly across the threshold ahead of me and our fifty-five-year-old dad. "A one-bedroom apartment with one queen bed is actually the exact layout my brother and I asked for."
+
+Behind us, pushing a wheeled bellhop cart loaded with our two dark-blue comforter bags from home, our dual laptop stands, and two plastic crates of kitchen staples that he had driven down I-95 from Alexandria in the bed of his pickup truck to meet our morning ARTS train from Norfolk, Dad chuckled softly at the property manager's polite blink of surprise.
+
+Once Mr. Henderson wished us a good winter in Richmond and stepped back out into the wide brick-and-timber hallway, I clicked the deadbolt shut and looked around our new sixty-day winter sanctuary.
+
+It was Friday, January 3, 2014—five full days before the Virginia General Assembly would gavel in at noon on Wednesday, January 8 for Katie's very first session representing the Eighty-Fifth House District back home in Kempsville and Virginia Beach.
+
+When Katie had flipped the Eighty-Fifth District seat two months earlier in November 2013—running on the exact public-transit, disability-access, and working-family platform we had spent the previous eight years championing on Ideas for Coastal Virginia Transit—party staffers in Richmond had automatically sent us brochures for upscale high-rise apartments down in Shockoe Slip and luxury suites near the downtown hotels where veteran lawmakers stayed during the winter session.
+
+Katie and I had taken one look at the transit map of Richmond and turned every single one of those downtown hotel brochures down.
+
+Instead, we had chosen Apartment 104 inside the Broad & Boulevard Lofts—a renovated brick warehouse building on West Broad Street right near Boulevard at the edge of Scott's Addition and the Museum District. The building had a flush concrete entrance off the wide West Broad Street sidewalk with zero steps, blue ADA push-button automatic doors, forty-two-inch interior doorways, low-pile commercial carpet, and a roll-in bathroom with steel grab bars. Even better, thirty feet outside the front lobby glass stood a blue-and-white bus stop sign for the James River Transit Company—Richmond's public bus network, universally known across the capital region as the JRTC Transit System.
+
+"Come look at this view out the living room windows, Nate," Katie called out, rolling her SwiftChair across the open floor plan toward the two tall industrial sash windows facing south over West Broad Street.
+
+I rolled up beside her left armrest while Dad carried our bedding bags into the bedroom. Right below our first-floor windowsill, a blue-and-white forty-foot JRTC Stalwart low-floor transit bus with an amber LED destination sign reading *6 BROAD STREET — DOWNTOWN / CAPITOL* glided past the curb.
+
+"Four separate JRTC trunk routes converge right along this stretch of West Broad Street," I said, resting my hand over Katie's fingers on her armrest as we watched a westbound bus pass in the opposite lane thirty seconds later. "Route 6 runs straight down Broad Street past the Science Museum and Central Virginia University to Ninth and Broad at Capitol Square in eleven minutes, and straight west to the shops and grocery store at Willow Lawn in ten minutes."
+
+"And arriving five days early gives us all of Saturday and Sunday to learn the bus routes, test every transfer stop, and get our routine locked down before Monday morning's New Member Orientation even starts," Katie said, letting out a quiet, contented breath as her shoulders relaxed.
+
+Because both of us were autistic, walking cold into an unfamiliar city and a brand-new legislative building on the same morning would have been a recipe for sensory overload. Coming up to Richmond five days ahead of Wednesday's Opening Day gavel wasn't a vacation; it was how Katie and I mapped our perimeter so that by the time the session bell rang, every doorway, curb cut, bus stop, and timetable between our bed and the House Floor felt completely predictable.
+
+We rolled into the bedroom to help Dad finish unpacking.
+
+Although the apartment came furnished with a solid oak queen bedframe, a firm mattress, and two nightstands, Katie and I never slept well under stiff, bleach-scented corporate rental linens. Dad had already stripped off the rental bedspread and folded it onto the top closet shelf, and together the three of us spread out our own familiar cotton sheets, our heavy navy-blue winter comforter, and our four pillows from our shared bedroom back home in Kempsville.
+
+"There," Katie said happily, smoothing the corner of our comforter from her wheelchair while I plugged our dual powerchair chargers into the wall outlet at the foot of the bed. "Now it smells like home."
+
+Out in the front room, Dad helped us push the rectangular oak dining table right up in front of the tall windows overlooking West Broad Street. Within forty minutes, we had our two MagnaBook Pro laptops, our dual twenty-four-inch external monitors, our hardware firewall router, and our portable video-capture encoder cabled neatly across the tabletop.
+
+Before Dad headed back out to his pickup truck at five-thirty to beat the Friday evening traffic north up I-95 to his house on Sunset Drive in Alexandria, he stood by the front door and pulled both of us into a long, tight hug across our wheelchair armrests.
+
+"If anybody at that Capitol gives my daughter or my son a hard time next week, you call me," Dad said fiercely, kissing the top of Katie's blonde head and clapping my shoulder.
+
+"We'll be fine, Dad," Katie smiled, hugging him back as I squeezed his forearm. "We've got each other, we've got our laptops, and we've got a bus stop thirty feet from the front door."
+
+That Friday night, after eating a quiet supper of toasted cheese sandwiches and tomato soup at our window table while watching the headlights and blue-and-white JRTC buses roll down West Broad Street, Katie and I transferred out of our SwiftChairs onto the edge of our shared queen bed. Pulling our familiar Kempsville comforter up to our chins in the dark, we curled up facing each other with Katie's forehead resting against my collarbone and her fingers laced tightly through mine—safe inside our new Richmond perimeter.
+
+***
+
+#### Saturday & Sunday, January 4–5, 2014 — Buying Regular 30-Day JRTC Passes & Mapping the Broad Street Spine
+
+At nine o'clock on Saturday morning, bundled up in our matching winter parkas, knit gloves, and wool scarves with our canvas backpacks hooked behind our wheelchair headrests, Katie and I rolled out the automatic glass doors of the Broad & Boulevard Lofts to the West Broad Street bus stop.
+
+The January air was crisp and clear at thirty-six degrees. Three minutes after we braked our SwiftChairs on the concrete waiting pad alongside a Central Virginia University nursing student and two restaurant cooks heading downtown for the Saturday lunch shift, an eastbound JRTC Route 6 Stalwart low-floor bus pulled smoothly to the curb.
+
+The air brakes hissed, the front air suspension kneeled four inches toward the sidewalk, and the stainless-steel front flip-ramp folded out onto the concrete with a solid clank.
+
+"Morning, folks! Watch your roll coming aboard," the JRTC operator called out cheerfully, reaching down to flip up the two bench seats over the front left and right wheelchair securement bays.
+
+"Good morning!" Katie said brightly as she rolled up the gentle slope of the low-floor ramp first and backed her SwiftChair deftly into the curbside wheelchair bay, while I rolled right up behind her into the street-side bay across the narrow aisle.
+
+After the operator clicked the four-point retractable floor straps onto our wheelchair frames and returned to his seat, Katie and I each reached forward to the farebox beside the steering column and fed crisp dollar bills into the bill validator to pay our standard one-dollar-and-fifty-cent base fares like any other rider in Richmond.
+
+"Where are you two headed this cold Saturday morning?" the operator asked as he pulled the forty-foot bus back into the eastbound lane of West Broad Street.
+
+"Ninth and Broad first so we can walk over to the JRTC customer service window and buy our thirty-day unlimited magnetic swipe passes for the winter," Katie replied, holding my hand across the center aisle between our two wheelchair bays. "We're staying right back there at Broad and Boulevard through the middle of March."
+
+"Well, you picked the best bus line in the city of Richmond to live on," the driver said with a proud grin in his wide rearview mirror. "Between the 6, the 1, the 2, and the 3, you won't ever wait more than ten minutes on Broad Street from six in the morning till midnight."
+
+As the bus rolled east down the wide, straight six-lane boulevard—passing the domed neoclassical rotunda of the Science Museum of Virginia in the old Broad Street Union Station, the brick dormitories and classrooms of Central Virginia University around Monroe Park, and the historic storefronts of the Arts District—I had my pocket notebook open on my lap tray, logging the exact travel times and stop spacing.
+
+Eleven minutes after boarding outside our apartment, the bus pulled up to the curb at Ninth and Broad Street—directly across from the tall granite tower of the General Assembly Building and the wrought-iron gates of Capitol Square.
+
+After thanking the driver and rolling down the front ramp onto the brick sidewalk at Ninth and Broad, Katie and I stopped by the downtown transit ticket counter, paid sixty dollars apiece out of our own checking account for two standard thirty-day unlimited JRTC magnetic swipe passes, and spent the next three hours testing the entire downtown pedestrian and transit grid in our powerchairs.
+
+We rolled down the Ninth Street hill to Ninth and Main to time the bus transfer down to Richmond Main Street Station in Shockoe Bottom. We tested the exterior brick ramps leading into Capitol Square and located the ground-level accessible entrance on the north terrace of Thomas Jefferson's historic white-columned State Capitol. We checked the elevator lobby inside the General Assembly Building at Ninth and Broad, noting exactly how many minutes it took to roll from the Route 6 bus stop curb into the building, clear the security magnetometer, and ride up to the fifth-floor legislative offices.
+
+Then, at one-thirty in the afternoon, we rolled back out to the westbound bus shelter at Ninth and Broad, swiped our new thirty-day JRTC magnetic passes through the farebox reader with a clean electronic *beep*, and rode Route 6 all the way past our apartment building out West Broad Street to the Willow Lawn transfer center.
+
+Rolling down the wide sidewalk of the open-air Willow Lawn shopping plaza, we went straight into the Market Square supermarket. With an insulated canvas grocery carrier clipped to the rear frame of each of our SwiftChairs and two hand baskets resting on our lap trays, Katie and I spent an hour picking out two weeks' worth of breakfast cereal, milk, whole-wheat bread, sliced turkey, pasta, fresh apples, and three twelve-packs of ginger ale.
+
+By four o'clock Saturday afternoon, we had ridden JRTC Route 6 ten blocks back east to our apartment stop at Broad and Boulevard, unloaded our groceries into our kitchen cabinets, and spent Sunday afternoon sitting side by side at our front window table writing a two-thousand-word weekend dispatch for Ideas for Coastal Virginia Transit:
+
+> *What Hampton Roads Can Learn from Richmond's Broad Street Trunk Line: How JRTC Uses a Straight Six-Mile Spine to Deliver Ten-Minute Service*
+
+By Sunday night, we knew every bus stop, every curb cut, and every timetable along Broad Street by heart. We were ready for Monday morning.
+
+### Part 2: Gold License Plates vs. JRTC Route 6, Turning Down the Parking Deck Pass, & The 60-Inch ADA Restroom Showdown
+
+**Date:** 2014-01-06 at 08:15 America/New_York
+
+#### Monday, January 6, 2014, 8:15 AM — The First Time Richmond Politicians See a Delegate Roll Off the City Bus
+
+At eight-fifteen on Monday morning—forty-eight hours before the 2014 General Assembly would formally convene—the intersection of Ninth and Broad Street outside the General Assembly Building looked like a luxury auto dealership convention.
+
+All along the curb leading toward the private legislative parking deck at Seventh and Marshall, gleaming black luxury sedans and massive chrome-trimmed SUVs idled in a bumper-to-bumper line. Nearly every bumper bore a special gold-embossed state license plate reading *VIRGINIA — HOUSE OF DELEGATES* or *VIRGINIA — SENATE*, stamped with the lawmaker's low seniority number. On the wide brick sidewalk flanking the bronze revolving doors of the General Assembly Building, groups of veteran Delegates, State Senators in tailored wool overcoats, and high-priced corporate lobbyists stood clutching leather briefcases and paper coffee cups from the Jefferson and Omni hotels, trading back-slaps and committee gossip in the cold morning sunshine.
+
+None of them paid the slightest attention to the public JRTC bus stop sign planted at the curb thirty feet from the General Assembly Building's accessible side doors—where half a dozen state clerical workers and hospital aides were waiting to step off the morning bus.
+
+With a low rumble of its diesel engine and a crisp hiss of air brakes, our eastbound blue-and-white JRTC Route 6 Broad Street bus pulled up to the Ninth and Broad curb stop.
+
+Inside the front vestibule, where Katie and I had just ridden the eleven-minute trip down from Broad and Boulevard after swiping our regular sixty-dollar monthly passes at the farebox, the operator unhooked our floor straps, kneeled the front suspension, and deployed the stainless-steel wheelchair ramp onto the brick sidewalk.
+
+"Have a great first week at the Capitol, Katie and Nate!" the operator called out warmly over his shoulder. "Show 'em how we do things on Route 6!"
+
+"Thank you, Marcus! See you at five-thirty this evening!" Katie called back cheerfully.
+
+Wearing a tailored royal-blue wool blazer over a crisp white blouse—with the small gold seal of the Virginia House of Delegates pinned to her left lapel and her leather legislative portfolio resting on her lap tray—twenty-eight-year-old Freshman Delegate Katie Prairie eased her joystick forward and rolled her compact black SwiftChair briskly down the city bus ramp onto the Ninth and Broad sidewalk.
+
+Three seconds later, wearing my charcoal wool jacket with both of our MagnaBook Pro laptops strapped securely across my lap tray, I rolled my matching SwiftChair down the bus ramp right behind my twin sister.
+
+As the bus ramp folded back up with a hydraulic *clank* and the blue-and-white JRTC bus pulled away into the Broad Street traffic, the morning chatter outside the General Assembly Building doors stopped dead.
+
+Six veteran Delegates, two senior State Senators who had just stepped out of a town car, and a circle of corporate telecommunications lobbyists standing beside the granite columns all froze in their tracks. Three of the lobbyists literally lowered their coffee cups halfway from their mouths, staring from the retreating tailpipe of the city transit bus to the gold House of Delegates member pin gleaming on the lapel of Katie's blazer as our two power wheelchairs rolled side by side toward the entrance.
+
+One of the veteran lawmakers—a silver-haired, five-term Delegate from Northern Virginia who sat on the House Transportation Committee and still had his gold-plated SUV keys dangling from his gloved fingers—took two steps across the brick sidewalk and blinked down at us in utter bewilderment.
+
+"Excuse me—Delegate-Elect Prairie?" he stammered, glancing back over his shoulder toward the empty bus stop curb as if checking for a hidden camera crew. "From the Eighty-Fifth District in Virginia Beach?"
+
+"Good morning, Delegate!" Katie said brightly, braking her SwiftChair beside mine to shake his hand. "And this is my twin brother and senior legislative aide, Nathaniel Prairie."
+
+"Did—did the two of you just get off the *city bus*?" the veteran Delegate asked, his voice loud enough that a dozen other lawmakers and lobbyists turned their heads to listen. "Don't you have a handicap van or a legislative driver? The Clerk's office reserves oversized accessible spaces on the ground level of the Seventh Street legislative parking deck for members!"
+
+Katie exchanged a quick, amused twin look with me before looking back up at him with complete, unbothered sincerity.
+
+"Why on earth would we drive a car in downtown traffic when JRTC Route 6 picks us up thirty feet outside our apartment on West Broad Street every ten minutes and drops us right here at the front door of the General Assembly Building?" Katie asked smoothly. "A thirty-day unlimited JRTC bus pass costs sixty dollars at the ticket window, the low-floor ramp takes ten seconds to deploy, and my brother and I get to spend our eleven-minute commute talking with the regular working people of Richmond who ride the bus every day. That's how we commute back home on CVTA in Virginia Beach and Norfolk too."
+
+Around the entrance plaza, several lobbyists exchanged stunned glances—realizing at once that the twenty-eight-year-old software developer from Virginia Beach who had just unseated an incumbent by campaigning from her power wheelchair on public buses wasn't doing it as a campaign-season photo op. She actually lived it every single day.
+
+Five minutes later, when we rolled inside the warm marble lobby of the General Assembly Building and checked in at the Clerk's administrative orientation table, the facilities coordinator smiled and slid a thick manila packet across the counter toward Katie's lap tray.
+
+"Welcome to Richmond, Delegate Prairie," the coordinator said, holding up a plastic windshield RFID transponder alongside an application form for gold-embossed legislative license plates. "Because both you and your legislative aide use power wheelchairs, we went ahead and blocked off two contiguous van-accessible spaces right next to the basement tunnel elevator in the General Assembly Parking Deck. Here is your garage transponder."
+
+Katie gently pushed the plastic garage transponder and the gold license-plate application right back across the counter.
+
+"Thank you so much for thinking of us," Katie said kindly, "but Nate and I don't own a car, and we won't be using a single square foot of the parking deck. We bought our thirty-day JRTC bus passes on Saturday and we're riding Route 6 down Broad Street every morning and evening. Please reassign those two ground-floor spaces to Capitol custodians or building maintenance staff who have to drive in before dawn—they deserve a close parking spot a whole lot more than we do."
+
+The orientation clerk stared at the returned garage transponder on the table as if nobody in the four-hundred-year history of the Virginia General Assembly had ever voluntarily given back a reserved downtown parking pass.
+
+***
+
+#### Monday Afternoon & Tuesday, January 6–7, 2014 — The Steel Tape Measure & The 60-Inch ADA Restroom Showdown
+
+While Katie didn't care one bit about a VIP parking space or a gold license plate, we discovered at one-thirty that Monday afternoon what she *was* willing to go to war over before her first session even gaveled in.
+
+After spending the morning getting our legislative network credentials, setting up Katie's new fifth-floor office in Room 518 of the General Assembly Building, and eating a quick lunch in the basement cafeteria, Katie and I rode the elevator down to the underground concourse tunnel and rolled up into the first floor of the historic State Capitol to inspect the accessible desk that the Clerk's staff had modified for her at the end of the minority aisle on the House Floor.
+
+The desk itself on the green carpet of the House Chamber was fine—they had removed the standard mahogany swivel chair so Katie's compact SwiftChair could roll straight under the writing surface within easy reach of the gooseneck microphone and the electronic voting buttons.
+
+The problem came ten minutes later, when we rolled out into the first-floor marble corridor near the House cloakroom and Katie went to use the nearest ladies' restroom while I rolled toward the men's room next door.
+
+Less than thirty seconds after Katie pushed her way past the heavy, spring-loaded solid-oak outer door of the women's restroom—which didn't even have a blue ADA automatic push-button opener on the wall—she backed right back out into the corridor with her jaw set and a familiar flash of storm-cloud steel in her blue eyes.
+
+At the exact same moment, I backed my SwiftChair out of the men's restroom entrance twenty feet down the hall.
+
+"How bad is the women's side?" I asked, rolling quickly up beside her.
+
+"Go look inside the doorway while it's empty, Nate," Katie said tightly, reaching into the side pocket of my backpack and pulling out the twenty-five-foot retractable steel tape measure we always carried for site audits. "It's the exact same fake 'retrofitted' stall they have up on the fifth floor near our office."
+
+I checked that the restroom was unoccupied and looked inside the entrance as Katie pulled out the yellow steel tape blade and measured the end stall.
+
+Whoever had signed off on the restroom renovation twenty years earlier had clearly never sat in a wheelchair a day in their life. They had simply bolted two chrome grab bars onto the tile wall of a forty-two-inch-wide stall at the end of a narrow forty-inch aisle and hung an *ACCESSIBLE* plaque on a stall door that swung *inward* toward the porcelain toilet bowl.
+
+When Katie rolled her compact SwiftChair inside the stall frame, her front footrests stopped two inches short of the toilet bowl while the rear battery casing of her wheelchair still stuck eight inches out past the door jamb—making it physically impossible to pull the inward-swinging stall door closed behind her. To use the restroom at all, any wheelchair user would either have to leave the stall door wide open to the entire room or take two separate elevators down through the underground tunnel to a single unisex medical restroom in the far basement corner of the complex—a twenty-minute round trip that would cause a sitting Delegate to miss roll-call floor votes.
+
+"Forty-two inches wide by fifty-four inches deep, with an inward-swinging door and zero sixty-inch turning circle," I said, writing the exact measurements into my notebook while Katie snapped the steel tape measure back into its casing. "That fails federal ADA Accessibility Guidelines Section 4.17.3 on three separate counts."
+
+"And there are plenty of extra square feet at the end of both restroom rows if they simply shift the outer laminate partition twelve inches toward the dead vanity corner and reverse the hinges so the stall door swings outward," Katie said, her voice calm, quiet, and utterly immovable. "Come on, Nate. Let's go pay a visit to the Department of General Services Facilities Director before two-thirty."
+
+Ten minutes later, Katie and I rolled our two SwiftChairs side by side into the Capitol Facilities Management suite on the lower level.
+
+When the Deputy Director for Capitol Facilities came out to the reception counter in his gray suit, he offered Katie the indulgent, patronizing smile of a career bureaucrat who assumed a twenty-eight-year-old freshman in the minority party could be brushed off with paperwork jargon.
+
+"Delegate-Elect Prairie, we appreciate your feedback," the Deputy Director said smoothly, folding his hands across his stomach, "and I assure you that accessibility upgrades are part of our long-term Master Capitol Complex Modernization Plan. However, modifying restroom partitions and installing motorized door actuators in the General Assembly Building and the Capitol requires an architectural engineering review, historical preservation sign-off, and a capital-outlay work order. Realistically, we can put that in the queue for the summer interim after the session adjourns in March."
+
+Katie didn't raise her voice by a single decibel. Instead, she set our steel tape measure down on the counter with a crisp *clack* and looked straight up into his eyes from her SwiftChair.
+
+"Let me explain what is actually going to happen between now and Wednesday at twelve o'clock noon," Katie said evenly. "The partitions on the fifth floor of the General Assembly Building and in the first-floor corridor restrooms outside the House Chamber aren't Thomas Jefferson's historic plaster—they're standard bolt-together powder-coated steel commercial bathroom dividers installed in the nineteen-nineties. Under federal ADA Accessibility Guidelines Section 4.17.3, a standard wheelchair toilet stall is required by federal law to provide a minimum sixty-inch clear width and a stall door that clears the turning envelope. Right now, a sitting member of the Virginia House of Delegates cannot close the bathroom stall door in her own workplace."
+
+The Deputy Director shifted his weight uncomfortably. "Delegate Prairie, our carpenter and electrical shops are completely booked with pre-session podium setups—"
+
+"At twelve o'clock noon on Wednesday, every television network camera in the Commonwealth of Virginia is going to be rolling live in the House Chamber for Opening Day," Katie continued without blinking, her left hand resting on my wrist across our wheelchair armrests. "If the fifth-floor restrooms and the first-floor House corridor restrooms do not have outward-swinging stall doors, a full sixty-inch turning clearance, and working ADA push-button outer door openers by five o'clock tomorrow afternoon, my very first act as a sworn Delegate on Wednesday will be rising on a point of personal privilege on live statewide television—and inviting the Speaker of the House and the entire Capitol press corps to follow me out into the hallway with their cameras so the voters of Virginia can watch a female Delegate in a power wheelchair get wedged halfway out of an illegal forty-two-inch bathroom stall door because Facilities told her to wait until March."
+
+The silence in the Facilities office was absolute.
+
+Behind the reception glass, two maintenance supervisors who had been listening over their clipboards traded a wide-eyed look. The Deputy Director's face went pale as he pictured the six-o'clock Wednesday evening news showing a newly sworn twenty-eight-year-old Delegate in a wheelchair stuck in an open bathroom stall door while trying to cast her first floor votes.
+
+"I—let me call the carpentry foreman and the electrical shop chief right now," the Deputy Director said quickly, reaching for his desk telephone. "We have heavy-duty commercial partition brackets and two power-door actuator kits in the maintenance warehouse off Fourteenth Street."
+
+"Thank you," Katie said politely, picking our steel tape measure back up off the counter. "Nate and I will be working in Room 518 until five o'clock today and all day tomorrow. Feel free to ask us to test the turning radius with our chairs before your crew bolts the brackets down."
+
+By four o'clock on Tuesday afternoon—twenty hours before the Opening Day gavel—the carpentry and electrical crews had shifted the end partitions fourteen inches into the dead alcove space, reversed the heavy chrome hinges so the stall doors swung cleanly outward with interior loop pulls, and mounted blue wireless ADA push-button door openers outside both the women's and men's restrooms on the fifth floor and outside the House Chamber.
+
+When the head carpenter asked Katie and me to test the finished stalls at four-fifteen on Tuesday, Katie rolled her SwiftChair effortlessly inside, spun a full three-hundred-and-sixty-degree circle without her footrests touching a single wall, pulled the outward-swinging door shut with the interior D-ring handle, and rolled back out to shake every carpenter and electrician's hand in person.
+
+"Nobody should ever have to beg for the right to close a bathroom door in privacy," Katie told me quietly as we rolled out the front entrance of the General Assembly Building at five o'clock that Tuesday evening to catch our westbound JRTC Route 6 bus back to Broad and Boulevard.
+
+On Wednesday morning, January 8, 2014, when the blue-and-white JRTC Route 6 bus kneeled at the curb of Ninth and Broad at ten-thirty ahead of the noon Opening Day swearing-in ceremony—with Dad waiting proudly for us on the brick sidewalk outside the Capitol gate in his best navy suit—none of the veteran politicians or lobbyists by the entrance looked surprised anymore when the front wheelchair ramp folded down.
+
+Delegate Katie Prairie of Virginia Beach and her twin brother Nate had arrived in Richmond on the city bus, paid their regular fare, and made it crystal clear from Day One that the people's House belonged to everyone.
+
 ## House Bill 663
 
 ### Part 1: Line 18, The Third-Floor Public Gallery, & A Question on the House Floor
@@ -2519,7 +2723,7 @@ Katie stared at the screen for three seconds, and then a slow, fierce grin broke
 
 "I read it three times while I was setting up the daily calendar script this morning," I replied, steering my wheelchair smoothly beside hers past the subterranean security desk as the fifteen-minute warning bell for the noon floor session chimed from the bronze wall speakers overhead. "Delegate Cobb and Delegate Marsh put it straight onto today's Second Reading floor calendar. They think everybody on the Floor is going to treat it like a routine committee bill and wave it through before lunch."
 
-It was thirty-year-old Katie's second two-year term representing the Eighty-Fifth House District back home in Kempsville and Virginia Beach, and she sat in a thirty-four-seat Democratic minority facing a sixty-six-seat Republican supermajority. Every day the General Assembly was in session during January and February, the two of us operated by the exact same synchronized routine we had followed our entire lives: we woke up in our accessible winter-session apartment a few blocks off Capitol Square, went over every bill on the daily House calendar line by statutory line the exact same way we audited PHP code or Coastal Virginia Transit Authority bus schedules, and rolled over to the Capitol together before the noon gavel.
+It was thirty-year-old Katie's second two-year term representing the Eighty-Fifth House District back home in Kempsville and Virginia Beach, and she sat in a thirty-four-seat Democratic minority facing a sixty-six-seat Republican supermajority. Every day the General Assembly was in session during January and February, the two of us operated by the exact same synchronized routine we had followed since her freshman session in 2014: we woke up in our accessible one-bedroom winter-session apartment at the Broad & Boulevard Lofts on West Broad Street, went over every bill on the daily House calendar line by statutory line the exact same way we audited PHP code or Coastal Virginia Transit Authority bus schedules, and rode the eastbound JRTC Route 6 bus straight down Broad Street to Ninth and Broad before the noon gavel.
 
 We rode the subterranean elevator up into the historic Capitol and rolled out onto the first-floor marble corridor just outside the tall mahogany double doors of the House Chamber. Lobbyists, school groups, and legislative aides were hurrying past the white marble columns as the ten-minute bell sounded.
 
@@ -2645,7 +2849,7 @@ When the mahogany double doors of the House Chamber swung open, Katie came rolli
 
 #### Thursday, February 4, 2016, 6:00 PM — The Evening News in Richmond and Norfolk
 
-"Hand me the pepper shaker, Nate," Katie said at six o'clock that Thursday evening, setting two warm plates of baked chicken and rice down on the kitchen table of our accessible winter-session apartment four blocks off Capitol Square. "And turn on the television so we can see the weather forecast for the weekend."
+"Hand me the pepper shaker, Nate," Katie said at six o'clock that Thursday evening, setting two warm plates of baked chicken and rice down on the kitchen table of our accessible one-bedroom winter-session apartment at the Broad & Boulevard Lofts on West Broad Street after we had ridden the 5:35 PM westbound JRTC Route 6 bus home from Ninth and Broad. "And turn on the television so we can see the weather forecast for the weekend."
 
 We had spent the entire afternoon from two until five-thirty back in Katie's fifth-floor office in the General Assembly Building, meeting with special-education parents from Virginia Beach and reviewing coastal flooding amendments with our legislative aide, with both of our laptops closed during the meetings.
 
@@ -3109,7 +3313,7 @@ Katie looked at the mahogany ramp in front of her old desk, then turned her head
 
 Twenty minutes later, after carrying the last cardboard banker's box from her constituent office—holding nothing more than our framed copy of the Constitution of the Commonwealth of Virginia and our twin blue coffee mugs—out the accessible basement entrance onto Bank Street, we didn't call a state pool car or a limousine.
 
-Just as we had done every winter session in Richmond for twelve years, United States Senator-Elect Katie Prairie and I rolled our two compact SwiftChairs half a block down the brick sidewalk to the regular public transit bus stop at Ninth and Main, waited alongside the four o'clock state office clerks and hospital workers, rolled up the front bus ramp into the dual wheelchair bays, and tapped our fare cards for the seven-minute ride down the hill to Richmond Main Street Station to catch the evening ARTS train home to Norfolk.
+Just as we had done every winter session in Richmond for twelve years, United States Senator-Elect Katie Prairie and I rolled our two compact SwiftChairs half a block down the brick sidewalk to the regular JRTC public transit bus stop at Ninth and Main, waited alongside the four o'clock state office clerks and hospital workers, rolled up the front bus ramp into the dual wheelchair bays, and tapped our fare cards for the seven-minute ride down the hill to Richmond Main Street Station to catch the evening ARTS train home to Norfolk.
 
 ## First Train from Norfolk & Swearing In on the Constitution
 
