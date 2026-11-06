@@ -957,7 +957,7 @@ Reaching across the table between our lunch bags, I laced my right fingers throu
 
 **Date:** 2001-09-14 at 13:15 America/New_York
 
-![Inside Dr. Evelyn Chen's consultation office in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in wheelchairs holding hands beside their father David Prairie while Dr. Chen reviews their neuromuscular test results and prescribes their power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg)
+![Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor reviews their neuromuscular test results and prescribes their power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg)
 
 #### Friday, September 14, 2001, 1:15 PM — When Our Legs Finally Gave Out at School
 
@@ -1061,7 +1061,7 @@ True to his word, ten minutes later both of our CT scans were finished. By three
 
 The instant the beds locked together and the doctor raised the heads of our mattresses to forty-five degrees, Katie and I didn't just hold hands—we leaned across the narrow seam between the two hospital mattresses and wrapped both of our arms tightly around each other's shoulders in the long, deep grounding hug we had needed ever since we hit the hallway floor at school.
 
-![Inside Dr. Evelyn Chen's consultation office in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in wheelchairs holding hands beside their father David Prairie while Dr. Chen reviews their neuromuscular test results and prescribes their power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg)
+![Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor reviews their neuromuscular test results and prescribes their power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg)
 
 Seconds later, walking into the combined ER bay alongside the emergency physician was Dr. Evelyn Chen, wearing her white coat and carrying the thick manila lab folder from her clinic across the medical plaza.
 
@@ -1179,7 +1179,7 @@ Across the center aisle of the high-floor bus, Katie reached her left hand out o
 
 **Date:** 2001-10-15 at 07:10 America/New_York
 
-![Inside the sunlit cafeteria of Northwood High School in Virginia Beach, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side holding hands during their shared Junior-year lunch period]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg)
+![Inside the sunlit locker-lined hallway of Northwood High School in Virginia Beach in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie roll side by side in their compact SwiftChair power wheelchairs holding inner hands with warm, confident smiles]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_high_four_wheels_hallway_katie_nathaniel.jpg)
 
 #### Monday, October 15, 2001, 7:10 AM — Rolling the "Blue Mile" & The Brass Elevator Key
 
@@ -1188,6 +1188,8 @@ Across the center aisle of the high-floor bus, Katie reached her left hand out o
 Beneath our ten-inch solid drive wheels, the textured quarry tiles of the Northwood High Commons buzzed like a washboard before giving way to the smooth, polished linoleum of the main academic corridor everyone called the "Blue Mile."
 
 It was the start of our second full week navigating eleventh grade on four wheels instead of two feet, and physically, the difference was like night and day.
+
+![Inside the sunlit locker-lined hallway of Northwood High School in Virginia Beach in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie roll side by side in their compact SwiftChair power wheelchairs holding inner hands with warm, confident smiles]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_high_four_wheels_hallway_katie_nathaniel.jpg)
 
 Back in September, walking from the morning bus loop to first period had left our calves cramping, our knees trembling, and our shoulders aching from the weight of our backpacks before the first bell even rang. Now, thanks to the Section 504 Medical Mobility Plan that Dr. Chen had signed and Dad had walked into the principal's office, neither Katie nor I carried a single textbook between classes. A duplicate set of our Junior-year textbooks sat on a designated shelf in each of our classrooms, and clipped to our lanyard ID badges alongside our house keys were two shiny brass Vanguard Elevator keys issued by the school custodian.
 
@@ -1397,7 +1399,7 @@ We watched from the sidewalk as Heather climbed into the front passenger seat of
 
 **Date:** 2002-12-31 at 21:30 America/New_York
 
-![Seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in the quiet sanctuary of their bedroom holding hands beneath the framed blue butterfly print while watching the New Year's Eve countdown together]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
+![Inside Katie's lamp-lit bedroom behind the locked white bedroom door on New Year's Eve 2002, seventeen-year-old blonde fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding hands beside a desk with an unbranded box of dry toasted oat cereal and two green cans of ginger ale]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/dec_2002_new_years_eve_locked_bedroom_cereal_ginger_ale.jpg)
 
 #### Tuesday, December 31, 2002, 9:30 PM — The Broken Ground Rules & The Gas-Station Run
 
@@ -1485,8 +1487,6 @@ Katie looked at the can of ginger ale in her hand, then looked up into my eyes w
 
 **Date:** 2003-01-06 at 08:05 America/New_York
 
-![Seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in the quiet sanctuary of Katie's bedroom beneath the framed blue butterfly print as Katie comforts her heartbroken brother]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
-
 #### Monday, January 6, 2003, 8:05 AM — Blindsided Outside Room 204
 
 "Save it, Nathaniel—don't you dare roll up to my locker with that innocent smile on your face and pretend you didn't do anything wrong!" Heather Collins snapped at five minutes past eight on Monday morning, slamming her locker door shut so hard that the metal vents rattled down the second-floor hallway of Northwood High School.
@@ -1565,7 +1565,7 @@ Taking a long, steadying breath, I squeezed Katie's hand back and leaned my head
 
 **Date:** 2003-07-16 at 07:40 America/New_York
 
-![Eighteen-year-old fraternal twins Katie and Nathaniel Prairie in their compact SwiftChair power wheelchairs inside their first studio apartment on Greenway Court in West Ghent, Norfolk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
+![Inside Apartment A6 at Greenway Court in West Ghent, Norfolk in July 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding hands in front of their rear window and full-sized bed while their father David Prairie stands beside the standalone rolling microwave-and-toaster cart holding his travel mug of coffee]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jul_2003_greenway_court_apt_a6_move_in_microwave_cart.jpg)
 
 #### Wednesday, July 16, 2003, 7:40 AM — Dad's Rolling Cart & Our Own Set of Keys in Apartment A6
 
@@ -1635,7 +1635,7 @@ When we finally waved to Michael and Ashley as they headed off to meet Michael's
 
 **Date:** 2003-08-09 at 20:45 America/New_York
 
-![Eighteen-year-old fraternal twins Katie and Nathaniel Prairie sitting side by side in their first studio apartment on Greenway Court in West Ghent, Norfolk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
+![Inside the square walk-in closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts and plaid pajama pants rest peacefully side by side inside their shared navy-blue double sleeping bag on the carpeted closet floor holding hands]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg)
 
 #### Saturday, August 9, 2003, 8:45 PM — Footsteps Behind the Exterior Iron Stairs & Hiding in the Square Closet
 
@@ -1701,7 +1701,7 @@ In the evenings, while the radiators and the through-wall fan kept our rectangul
 
 **Date:** 2004-05-14 at 15:15 America/New_York
 
-![Nineteen-year-old fraternal twins Nate and Katie Prairie in their compact SwiftChair power wheelchairs inside the computer books aisle of Chapters & Co. at The Admiral Center in Downtown Norfolk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
+![Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs holding cups of iced cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg)
 
 #### Friday, May 14, 2004, 3:15 PM — The Computer Books Aisle at Chapters & Co.
 
@@ -1827,7 +1827,7 @@ As the Route 2 bus pulled away from the curb and headed toward West Ghent throug
 
 **Date:** 2004-05-15 at 13:00 America/New_York
 
-![Inside Apartment A6 on Greenway Court in May 2004, nineteen-year-old twins Nate and Katie Prairie sit in their compact SwiftChair power wheelchairs at their shared workstation desk while Tiffany Sloan sits beside them looking at the computer monitor]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
+![Inside Apartment A6 on Greenway Court in May 2004, nineteen-year-old twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs beside their workstation desk with an open pizza box and cans of ginger ale on the rolling cart while Tiffany Sloan kneels warmly on the carpet between their wheelchairs holding a floppy disk]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_greenway_court_apt_a6_saturday_pizza_tiffany_blessing.jpg)
 
 #### Saturday, May 15, 2004, 1:00 PM — Pizza, Floppy Disks, & HTML in Apartment A6
 
@@ -2607,7 +2607,7 @@ She leaned over and gently kissed my forehead goodnight, just like we used to do
 
 **Date:** 2005-11-14 at 07:30 America/New_York
 
-![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the dumpsters—nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
+![Inside the back bedroom of Sea Breeze West Apartment 3 looking from the open hallway end toward the far-left corner: along the back exterior wall sit the through-wall box A/C unit on the right, the bedroom window with white horizontal mini-blinds in the center, and the queen bed pushed flush against the far corner wall in its new navy-and-slate-blue comforter set to leave wide wheelchair clearance in front of the bathroom entrance on the left interior wall, where the white bathroom door opens inward into the bathroom from the bedroom while nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_bedroom_ac_unit_and_bathroom_baseline.jpg)
 
 #### Monday, November 14, 2005, 7:30 AM — Real Milk in the Cereal Bowls & The 8:13 AM Route 1 Bus to CCHR
 
@@ -4960,8 +4960,6 @@ Right there on the floor of the Old Senate Chamber, with the Constitution of the
 ### Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive
 
 **Date:** 2027-01-03 at 16:30 America/New_York
-
-![Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg)
 
 #### Sunday, January 3, 2027, 4:30 PM — The First Invite to Cocktails & "A Known Side Effect of Death"
 
