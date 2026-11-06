@@ -2837,7 +2837,7 @@ Katie stared at the screen for three seconds, and then a slow, fierce grin broke
 
 "Out of every mayoral candidate in Chesapeake, Portsmouth, Hampton, and Virginia Beach—and every City Council candidate across all six cities—only one person had the guts to say yes," Katie said, her blue eyes shining with determination as she pulled the folded CVTA Virginia Beach route map across our desk. "And he's running for Mayor right here in Virginia Beach. Come on, Nate—get your video camera batteries on the charger. We're going to meet him at the CCHR Virginia Beach Campus bus loop, and we're going to take him on the exact four-bus circuit across Virginia Beach and Norfolk: Route 29 to Hilltop, Route 20 to Glenrock Mall, Route 15 down Military Highway, and Route 12 right back to CCHR."
 
-### Part 2: The Four-Bus Mayoral Loop, The 5:48 PM Municipal Center Curfew Trap, & Winning the Kempsville City Council Seat
+### Part 2: The Four-Bus Mayoral Loop, Silenced at Eighteenth Street, & Choosing to Run for the Kempsville Seat
 
 **Date:** 2008-09-16 at 14:00 America/New_York
 
@@ -2893,45 +2893,354 @@ Right on camera, Scott had to reach into his pocket and feed a second full fare 
 
 ***
 
-#### November 2010 to January 2011 — Running for the Kempsville Seat, The Ramp to the Dais, & Fixing the 5:48 PM Curfew
+#### Thursday, November 19, 2009, 1:35 PM — Cut Off at the Eighteenth Street Microphone & Blackballed From TRAC
 
-That night, I edited the four-bus ride down into a crisp twelve-minute documentary video with full burned-in open captions and published it at the top of Ideas for Coastal Virginia Transit.
+That night in September 2008, I edited our four-bus ride down into a crisp twelve-minute documentary video with full burned-in open captions and published it at the top of Ideas for Coastal Virginia Transit.
 
-Within a week, the video had been watched more than forty thousand times across Hampton Roads and picked up by every newspaper and television station in Norfolk and Virginia Beach. In the November 2008 election, twenty-year incumbent Mayor Myra Overton was defeated, and although the wealthy banking-executive candidate edged out Scott Tanner in the four-way race, the newly elected mayor was forced by the public outcry over our video to appoint two transit riders to Virginia Beach's citizen advisory seats.
+Within a week, the video had been watched more than forty thousand times across Hampton Roads and picked up by *The Tidewater Pilot* and every television station in Norfolk and Virginia Beach. In the November 2008 election, twenty-year incumbent Mayor Myra Overton was defeated, and although the wealthy banking-executive frontrunner edged out Scott Tanner in the four-way race, the public uproar over our video forced CVTA and City Hall to promise a "comprehensive review" of bus transfers and Virginia Beach evening service hours.
 
-Yet when it came time for the eleven-member Virginia Beach City Council to vote on the spring 2009 and spring 2010 municipal budgets, the entrenched council majority—led in our own Kempsville District by ten-year incumbent Councilman Harold Dietz—quietly stripped out the funding for late-evening bus service out of the Municipal Center and CCHR, muttering at a Tuesday afternoon work session that "almost nobody rides the bus out of Courthouse after dark anyway."
+Fourteen months later, however, on a gray Thursday afternoon in November 2009 inside the CVTA boardroom at 509 East Eighteenth Street in Norfolk, we learned exactly what CVTA's executive suite thought of that promise.
 
-Sitting side by side at our desks in our Kempsville house on Lord Nelson Drive that evening watching the archived City Hall webcast, Katie reached over and clicked Pause on the video player.
+Katie and I had ridden three buses into Norfolk carrying a twenty-four-page PHP audit we had compiled over the autumn, documenting more than nine hundred missed transfer connections at Glenrock Mall and CCHR alongside a formal request for CVTA's raw General Transit Feed Specification schedule tables so riders could build real-time trip-planning tools. Just two weeks earlier, I had also submitted my formal application to fill one of Virginia Beach's vacant citizen seats on CVTA's Transit Riders Advisory Committee—known around the agency as TRAC.
 
-"Of course nobody rides the bus out of Courthouse after dark, Councilman Dietz," Katie said to the monitor, her voice calm and razor-sharp. "There *isn't* a bus out of Courthouse after 6:33 PM! That's like taking the ramp off a building and claiming nobody in a wheelchair ever comes inside."
+Parked side by side in our SwiftChairs at the low public-comment table in the center of the boardroom, I was two minutes and forty seconds into reading our findings into the record while CVTA President and Chief Executive Officer Leonard Sterling and Chief Operating Officer Richard Halstead sat slouched in their high-backed leather chairs along the raised executive tier.
 
-Katie turned her SwiftChair toward me, her blue eyes steady.
+"—and because the outbound Route 20 and southbound Route 15 schedules at Glenrock Mall are offset by four minutes in the master dispatch table without a hold-for-transfer rule," I said clearly into the gooseneck microphone, holding up our printed PHP chart, "evening commuters transferring back into Virginia Beach are missing the final southbound bus seven nights a week—"
 
-"Harold Dietz's Kempsville District seat on the Virginia Beach City Council is on the ballot this November, Nate," Katie said. "City Council elections in Virginia are non-partisan, and we've owned our home right here in Kempsville for two years. None of those council members were willing to ride the bus with us in 2008, and now they just voted to keep bus riders locked out of six o'clock Council meetings. What do you say we stop waiting for Councilman Dietz to read our blog—and go take his seat?"
+*BZZZZT.*
 
-"Let's do it," I said immediately, already opening a fresh PHP project directory on my laptop.
+Before I could finish the sentence, Chief Operating Officer Richard Halstead reached forward and jabbed the master cutoff switch on the clerk's console. The red ring at the neck of my microphone went dead in the middle of my word.
 
-Over the next six months of 2010, our twenty-five-year-old campaign for the non-partisan Kempsville District seat on the Virginia Beach City Council didn't look like anything the Courthouse political establishment had ever seen.
+"Your three minutes are expired, Mr. Prairie," CEO Leonard Sterling said flatly without looking up from his leather portfolio. "Next speaker."
 
-We didn't hire a campaign consultant, we didn't take a dime from real-estate developers, and we didn't hold a single cocktail fundraiser. Instead, I coded a custom PHP voter-turnout and sidewalk-canvassing web application on our home server, mapping every precinct in Kempsville, Bellamy Manor, Brandon, and Larkspur. Every weekday morning and afternoon, Katie and I campaigned directly from the dual front wheelchair bays of CVTA Routes 12, 15, 25, and 29, talking with bus commuters, CCHR students, and working parents. Every evening and weekend—with Dad driving down from Alexandria on Saturdays and Sundays to walk up front-porch steps and hand our palm cards to homeowners while Katie and I rolled our SwiftChairs right up the driveway to the bottom step—we talked face-to-face with thousands of Kempsville neighbors about neighborhood drainage, missing sidewalks, covered bus shelters, and opening City Hall to working people.
+"Mr. President, if staff would simply release the raw GTFS schedule files we requested under the Freedom of Information Act—" Katie spoke up from her SwiftChair beside me, her voice carrying across the quiet room even without the microphone.
 
-Councilman Harold Dietz didn't take us seriously until October, when he showed up at a Kempsville Civic League candidates' night without a single note and Katie dismantled his ten-year voting record on infrastructure and transit line by line from memory.
+"Public comment is not a question-and-answer session, Ms. Prairie," Sterling interrupted, waving a hand toward the rear doors. "The commission has a full agenda."
 
-On Tuesday, November 2, 2010, twenty-five-year-old Katie Prairie defeated incumbent Councilman Harold Dietz by eleven percentage points to become the newest member of the Virginia Beach City Council.
+Fifteen minutes later, when the board recessed briefly before its closed executive session, Katie and I rolled our wheelchairs out into the tiled corridor near the drinking fountain to speak with Chief Operating Officer Richard Halstead and the agency's government-affairs director as they walked toward the coffee credenza.
 
-Before Katie's swearing-in ceremony in January 2011, City Hall facilities crews had to remove the steps on the right side of the curved mahogany City Council dais at the Virginia Beach Municipal Center and construct a permanent, carpeted wheelchair ramp up to the Kempsville District desk.
+"Mr. Halstead," I said politely, holding out the bound copy of our twenty-four-page schedule audit and a thumb drive containing our PHP transfer-timing script, "we brought a clean copy of the Glenrock Mall and CCHR connection data for your scheduling department, and I wanted to check on the status of my application for the Virginia Beach citizen seat on the Transit Riders Advisory Committee."
 
-When twenty-five-year-old Councilwoman Katie Prairie rolled up that ramp on the first Tuesday evening of January 2011—with me holding our bound leather copy of the Constitution of the Commonwealth of Virginia beside her wheelchair as she placed her left hand on the page and swore her oath of office ending with a clear, ringing *"So help me, God!"*—the very first ordinance and CVTA Transportation Service Plan budget amendment she introduced on the eleven-member Council was the Evening Civic Access Transit Pulse.
+Halstead stopped, looked down his nose at the thumb drive in my hand, and didn't even reach out to take it. A thin, patronizing smirk curled the corner of his mouth.
 
-Katie didn't just drop the resolution into the clerk's hopper and hope for the best. Over the next eight weeks, she and I sat down one-on-one with every single member of the Virginia Beach City Council, showing them the exact dollar-for-dollar operating math on my laptop and bringing thirty working commuters, CCHR night-class students, and disabled citizens to the afternoon sessions to testify.
+"Look, Nate, Katie," Halstead said, lowering his voice just enough that the reporters inside the boardroom couldn't hear him, "let's save everybody some time. My scheduling engineers don't take operational direction from statistically insignificant hobbyist bloggers, and we aren't handing over internal GTFS database files so the two of you can play armchair transit director from your living room."
 
-In May 2011, by a nine-to-two roll-call vote, Councilwoman Katie Prairie won passage of her landmark amendment—extending CVTA Route 33 out of the Municipal Center until 10:30 PM on Council nights and funding a synchronized 9:00 PM and 10:00 PM evening connecting pulse for Routes 12, 25, 29, and 36 at the CCHR Virginia Beach Campus hub.
+Katie's blue eyes narrowed. "We ride your buses every single day of the week in power wheelchairs, Mr. Halstead. There is nothing 'hobbyist' about needing a bus that actually connects before dark."
 
-For the first time in the history of Virginia Beach, any citizen who rode a public bus or used a wheelchair could attend a six o'clock City Council meeting, speak at the public microphone, and ride a CVTA bus safely home afterward.
+"And as for the Transit Riders Advisory Committee," Halstead added smoothly, adjusting his silk tie as he turned back toward the executive suite door, "staff already forwarded our recommendations for the Virginia Beach TRAC vacancies this morning. Your name wasn't on the list, Nate. TRAC is reserved for constructive community stakeholders—not blog agitators with a laptop."
 
-And on every single Tuesday night when the Virginia Beach City Council adjourned at nine-thirty, Councilwoman Katie Prairie and I rolled down the dais ramp, rolled out to the Municipal Center bus shelter alongside the citizens who had come to watch the meeting, swiped our thirty-day CVTA passes, and rode the 9:45 PM Route 33 and Route 12 pulse right back home to Kempsville.
+The heavy oak door of the executive suite clicked shut behind him.
 
-### Part 3: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run
+For ten seconds, Katie and I sat side by side in the quiet hallway of 509 East Eighteenth Street, staring at that closed oak door. They had cut off my microphone at a hundred and eighty seconds, laughed at our engineering work, locked up public schedule data paid for by the taxpayers, and secretly blackballed me from a volunteer citizen advisory committee because we had dared to prove on camera that their schedules were broken.
+
+And the final insult came four months later, in the spring of 2010, when the eleven-member Virginia Beach City Council met down at the Municipal Center to vote on the city's annual transit contribution. Rather than holding CVTA accountable or funding the evening connecting pulse we had proposed, ten-year Kempsville District incumbent Councilman Harold Dietz led the budget motion to strip out every dime of proposed late-evening bus funding—muttering into his dais microphone at the Tuesday afternoon work session that *"almost nobody rides the bus out of Courthouse after dark anyway."*
+
+Sitting side by side at our dual coding desks in our house on Lord Nelson Drive that evening watching the archived City Hall webcast over cold glasses of ginger ale, Katie reached forward and clicked Pause on the video player.
+
+"Of course nobody rides the bus out of Courthouse after dark, Councilman Dietz," Katie said to the monitor, her voice calm and razor-sharp. "There isn't a bus out of Courthouse after 6:33 PM! That's like taking the ramp off a building and claiming nobody in a wheelchair ever comes inside."
+
+Katie turned her SwiftChair toward me, her blue eyes steady and bright.
+
+"Leonard Sterling and Richard Halstead think they can cut off your microphone at Eighteenth Street and blackball you from TRAC because we're just two twenty-five-year-old bloggers in wheelchairs with no vote on their budget," Katie said. "And Harold Dietz thinks he owns the Kempsville seat on the Virginia Beach City Council for life. Well, Harold Dietz's seat is on the ballot this November, Nate. City Council elections in Virginia are non-partisan, and we've owned our home right here in Kempsville for two years. What do you say we stop asking Richard Halstead and Councilman Dietz for permission—and go take his seat on the City Council?"
+
+"Let's do it," I said immediately, already opening a fresh PHP project directory on my MagnaBook Pro. "If they won't let us sit at the public-comment table for three minutes, we'll put you up on the dais where they have to answer to you."
+
+### Part 3: The Empty Podium on WHRO TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline
+
+**Date:** 2010-10-14 at 19:28 America/New_York
+
+#### Thursday, October 14, 2010, 7:28 PM — The Empty Mahogany Podium Under the WHRO Studio Lights
+
+"Two minutes to air, Ms. Prairie," the WHRO TV-15 floor director called out quietly, holding up two fingers beside the center studio camera inside the public-television broadcast center at 5200 Hampton Boulevard in Norfolk. "Still no sign of Councilman Dietz or his campaign manager at the front desk, so per station rules, his podium stays lit and his microphone stays open."
+
+Parked in my compact SwiftChair just outside the edge of the key lights next to the producer's monitor cart, I glanced across the blue-curtained television set toward my twenty-five-year-old twin sister.
+
+Katie sat upright and composed in her black SwiftChair behind a low, wheelchair-accessible mahogany desk that the WHRO studio crew had set up on the left side of the stage, wearing a crisp royal-blue blazer over a cream blouse with a small brass lapel microphone clipped to her collar. Six feet to her right stood the second debate position: a tall, traditional standing mahogany podium bearing a white placard that read *COUNCILMAN HAROLD DIETZ — KEMPSVILLE DISTRICT*, bathed in a bright, unforgiving pool of overhead tungsten light and completely empty.
+
+For five months, Katie and I had poured every ounce of our energy into the non-partisan Kempsville District race. We hadn't hired a political consultant, we hadn't taken a single check from Oceanfront hotel developers, and we hadn't hosted cocktail receptions. Instead, I had built a custom PHP precinct-mapping and sidewalk-canvassing engine on our home server on Lord Nelson Drive, and we had spent the spring, summer, and early autumn campaigning directly from the front wheelchair securement bays of CVTA Routes 12, 15, 20, 25, and 29 and rolling down the neighborhood sidewalks of Kempsville, Bellamy Manor, Brandon, and Larkspur with Dad driving down from Alexandria every weekend to knock on front doors that had brick steps.
+
+Through it all, ten-year incumbent Councilman Harold Dietz had treated our campaign as if we were invisible. When Tidewater Public Media had sent out the formal certified invitations in September for tonight's live forty-five-minute Kempsville City Council debate on WHRO TV-15—broadcast right from the edge of the Virginia Dominion University campus across all of Hampton Roads—Katie had returned her signed confirmation within twenty minutes. Councilman Dietz hadn't even bothered to reply. Because he had neither accepted nor formally declined the invitation, WHRO's strict non-partisan broadcast rules required the studio to leave his standing podium on the stage and give the viewing public an unfiltered look at who had bothered to show up for the job.
+
+"Ten seconds," the floor director whispered, lowering his arm toward the center camera lens. "Five, four, three..."
+
+The red tally light atop Camera One glowed bright in the darkened studio.
+
+"Good evening, and welcome to Tidewater Public Media's live 2010 Decision coverage from our WHRO TV-15 studios on Hampton Boulevard in Norfolk," the veteran public-television moderator began in his resonant baritone. "Tonight we examine the race for the Kempsville District seat on the Virginia Beach City Council. Seated to my left is challenger Katie Prairie, a twenty-five-year-old Kempsville homeowner, software developer, and co-founder of the regional transit watchdog website Ideas for Coastal Virginia Transit. To her right, as viewers at home can see, is the podium reserved for ten-year incumbent Councilman Harold Dietz. Although WHRO extended multiple invitations to Councilman Dietz's office over the past six weeks, our producers received neither an acceptance nor a decline, and his podium remains open should he arrive during tonight's broadcast. Because our non-profit public media rules require us to pose every scheduled municipal policy question to the stage, we will proceed with our full forty-five-minute forum. Ms. Prairie, the first question is yours."
+
+Watching from beside the monitor cart with my MagnaBook Pro resting on my wheelchair lap tray, I felt a quiet surge of pride as the director punched up the wide two-shot on the studio monitors.
+
+Every time the moderator asked a question about Kempsville stormwater drainage along Indian River Road, aging neighborhood sidewalks around Morrison Middle School and Northwood High School, small-business permitting, municipal transparency, or the city's annual transportation budget, the studio camera framed the stark visual contrast across every living room in Virginia Beach and Norfolk: on the left, a poised, razor-sharp twenty-five-year-old woman in a power wheelchair citing exact line items from the City of Virginia Beach's eight-hundred-page operating budget from memory without a single paper note on her desk; on the right, six feet of empty blue carpet and a vacant mahogany lectern where the ten-year incumbent hadn't cared enough to stand.
+
+"Ms. Prairie, let's turn to regional transportation and your proposal for an Evening Civic Access Transit Pulse," the moderator said at the eight-minute mark before the end of the broadcast. "Critics on the current City Council have argued that extending CVTA bus service out of the Virginia Beach Municipal Center and the CCHR Virginia Beach Campus past six-thirty in the evening is an unnecessary taxpayer expense because ridership after dark is low. How do you respond?"
+
+Katie looked straight into the glowing red camera lens.
+
+"Saying nobody rides the bus out of the Virginia Beach Municipal Center after six-thirty at night when the last bus leaves at 6:33 PM is like taking the wheelchair ramp off City Hall and claiming nobody in a wheelchair ever comes inside," Katie said, her voice warm, clear, and unhurried. "Formal evening meetings of the Virginia Beach City Council gavel in at six o'clock. Yet if a working parent, a senior citizen, a college student, or a wheelchair user in Kempsville rides Route 33 down to City Hall and needs to connect to Route 12, Route 25, or Route 29 at the CCHR hub to get home, the very last Route 12 bus of the day leaves CCHR at 5:48 PM—meaning a citizen has to leave City Hall at 5:33 PM, twenty-seven minutes before the Council meeting even begins. For the cost of less than one-tenth of one percent of our city budget, we can run an evening bus pulse until ten-thirty at night so working people and citizens with disabilities are never locked out of their own local government again."
+
+At 8:14 PM on the dot, the moderator thanked Katie, signed off to the viewers across Hampton Roads, and the red tally lights on the studio cameras clicked off.
+
+And that was when the real moment of the campaign began.
+
+***
+
+#### Thursday, October 14, 2010, 8:14 PM — Crossing Six Lanes of Hampton Boulevard With Reporter Greg Mercer to Catch the 8:24 PM Route 2
+
+The instant the studio floor director called *"We're clear!"* at 8:14 PM, Katie didn't linger on the stage to bask in the applause of the camera crew.
+
+While the audio technician unclipped the brass lapel mic from her blazer, Katie glanced down at her wristwatch, released her joystick brake, and rolled swiftly down the studio ramp toward my wheelchair as I closed my MagnaBook Pro and slipped it into my padded canvas backpack.
+
+"Eight-fourteen, Nate," Katie said quietly as our two SwiftChairs fell into formation heading for the heavy soundproof doors of Studio A. "We have ten minutes to make the crosswalk."
+
+Out in the bright fluorescent lobby of the WHRO broadcast center, *Tidewater Pilot* Metro politics reporter Greg Mercer—a veteran city-hall journalist in a rumpled trench coat with a spiral reporter's notebook in one hand and a digital voice recorder in the other—stepped away from the reception counter and hurried straight toward us.
+
+"Ms. Prairie! Katie!" Greg Mercer called out, clicking the record button on his handheld recorder. "Greg Mercer with *The Tidewater Pilot*. That empty podium on live television was something else. Do you have ten minutes to sit down here in the lobby and give me a quick post-debate interview for tomorrow morning's Metro section?"
+
+Katie glanced at the round wall clock above the WHRO glass entrance doors—8:15 PM—and looked back up at Greg with a friendly, earnest smile.
+
+"I'd be happy to answer every question you have, Mr. Mercer," Katie said as I hit the big silver ADA push-plate to swing the front lobby doors open into the crisp October night air, "as long as you don't mind walking fast across Hampton Boulevard with us right now."
+
+Greg blinked in surprise, tucking his pen behind his ear as he stepped out onto the concrete sidewalk beside our two powerchairs. "Across Hampton Boulevard? Sure—did your campaign staff have to park your wheelchair van over in the university lot across the street?"
+
+Katie and I exchanged a quick twin look as we set our SwiftChair speed dials to four miles per hour and rolled briskly down the WHRO front walk toward the signalized intersection at Forty-Ninth Street and Hampton Boulevard.
+
+"We don't have campaign staff, Mr. Mercer," I said as Katie pressed the pedestrian crosswalk button at the curb, "and we don't own a wheelchair van."
+
+Greg Mercer looked down at our two compact powerchairs, genuinely puzzled as six lanes of heavy port and university traffic rumbled past under the amber streetlights of Hampton Boulevard.
+
+Wait—if the two of us didn't have a fifty-thousand-dollar wheelchair-lift van waiting in the lot, and our dad David wasn't down from Alexandria on a Thursday night, how on earth were two twenty-five-year-old twins in power wheelchairs getting all the way from the West Side of Norfolk back to Kempsville in Virginia Beach at eight-fifteen at night?
+
+The white *WALK* silhouette flashed on across the six-lane boulevard.
+
+"Come on, Mr. Mercer—this light only gives twenty-two seconds," Katie said cheerfully.
+
+Jogging two steps to keep pace with our electric motors as we rolled straight across all six lanes of Hampton Boulevard to the opposite sidewalk, Greg held his digital recorder out toward Katie. "Wait a second—where are we going if your car isn't over here?"
+
+Reaching the far curb cut on the southbound side of Hampton Boulevard, Katie and I braked our SwiftChairs side by side right beneath a blue-and-white metal sign bolted to a utility pole:
+
+*CVTA BUS STOP — ROUTE 2 (HAMPTON BLVD / DOWNTOWN NORFOLK).*
+
+Greg Mercer stopped dead in his tracks on the concrete sidewalk, his mouth slightly open as he looked up at the metal bus stop sign, then down at our two power wheelchairs, and then back up Hampton Boulevard where the twin headlights of an approaching forty-foot low-floor CVTA gill-window transit bus were cresting the rise three blocks north.
+
+"You're taking the city bus?" Greg asked, staring at us in disbelief. "From a live television debate on Hampton Boulevard back to Virginia Beach—at eight-twenty at night?"
+
+"Not just one city bus, Mr. Mercer—three of them," I said, checking the glowing digital readout on my watch: 8:22 PM. "And that's why we couldn't stay in the WHRO lobby for ten minutes."
+
+"Walk me through this before that bus gets here," Greg said rapidly, holding his voice recorder right between Katie's chair and mine while his other hand scribbled furiously across his spiral pad under the streetlight. "What happens if you miss that bus coming down the street right now?"
+
+"Look at the timetable math," Katie said calmly, pointing up Hampton Boulevard as the southbound CVTA Route 2 bus signaled toward the curb with its amber destination sign glowing *2 DOWNTOWN NORFOLK*. "The WHRO debate ended at 8:14 PM. This bus pulling up right now is the 8:24 PM Route 2 southbound. We have to catch this exact 8:24 PM bus down Hampton Boulevard to the Downtown Norfolk Transit Center, which gets us into Downtown Norfolk just before nine o'clock."
+
+With a loud hiss of compressed air, the forty-foot Route 2 bus braked at the curb beside us and kneeled its front suspension. The folding glass doors swung open, and the warning chime beeped as the steel hydraulic wheelchair ramp unfolded onto the sidewalk concrete.
+
+"Once we get to Downtown Norfolk Transit Center just before nine," I continued as I rolled backward up the steel ramp first to pull into the rear-facing curbside securement bay, "we have fifteen minutes to transfer onto the 9:15 PM Route 20 bus heading eastbound out Virginia Beach Boulevard."
+
+"And that 9:15 PM Route 20 bus gets us out to the Glenrock Mall transit hub at 9:45 PM," Katie added, pausing at the bottom of the wheelchair ramp and looking back over her shoulder at Greg Mercer standing under the streetlight with his notebook and recorder. "At 9:45 PM at Glenrock Mall, Nate and I have to transfer onto the very last Route 15 bus of the night going south down Military Highway across the city line into Virginia Beach. If we had stayed in the WHRO lobby talking for ten minutes and missed this 8:24 PM bus right here on Hampton Boulevard, we would miss the 9:15 PM Route 20 in Downtown Norfolk, we would miss the last Route 15 of the night at Glenrock Mall, and the two of us would be stranded in Norfolk overnight in our wheelchairs with no way home."
+
+Greg Mercer stared at Katie, stunned silent for two full beats as the bus driver waited patiently at the controls.
+
+"My God," Greg breathed, his pen hovering over his pad. "You just debated for forty-five minutes on live television next to an empty podium because the incumbent didn't bother to show up, and now you're sprinting to catch a three-bus transfer chain across two cities before the system shuts down for the night."
+
+"Mr. Mercer," Katie said simply, her blue eyes steady under the streetlight before she guided her SwiftChair smoothly up the metal ramp into the bus vestibule beside me, "improving the CVTA bus system—specifically Virginia Beach's locally funded share of the regional system—is the entire reason I'm running for City Council. Have a good night, and thank you for walking us to the stop!"
+
+As we swiped our thirty-day CVTA passes through the farebox and locked our wheelchair brakes in the dual front bays, the hydraulic ramp folded back inside, the glass doors hissed shut, and the 8:24 PM Route 2 bus pulled away down Hampton Boulevard—leaving the veteran *Tidewater Pilot* reporter standing on the curb under the bus stop sign, staring after our taillights and scribbling in his notebook as fast as his hand could move.
+
+***
+
+#### Friday, October 15, 2010, 9:30 AM — Section B1 Above the Fold & All Ten Lines Lit on WHRV 89.5 FM
+
+We made our 9:15 PM Route 20 transfer in Downtown Norfolk with eleven minutes to spare, caught the final 9:45 PM southbound Route 15 at Glenrock Mall, and rolled through the front door of our house on Lord Nelson Drive at ten-forty that night—tired, happy, and ready for a late cup of hot chocolate before bed.
+
+At nine-thirty the next morning, while Katie and I were sitting side by side at our dual coding desks drinking cold orange juice and checking our overnight campaign emails, we heard the familiar sound of Dad's key turning in the front deadbolt.
+
+"Morning, kids!" Dad called out, walking into our home office carrying a steaming travel mug of black coffee in one hand and a thick bundle of five freshly printed Friday morning editions of *The Tidewater Pilot* under his other arm. "I took a personal day in Tysons and drove down early so we could canvass Bellamy Manor this afternoon—and I bought out the newsstand box at the corner convenience store on my way in. Have you two seen Section B yet?"
+
+"Not the print edition," I said as Katie and I rolled our chairs back from our desks. "Did Greg Mercer's blurb run inside the Metro pages?"
+
+Dad let out a laugh that crinkled the corners of his eyes behind his glasses, pulled the Metro & Virginia section from the top of the bundle, and laid Section B1 flat across our desk.
+
+It wasn't a two-paragraph blurb buried on page four.
+
+Stretching all the way across the top of the Friday Metro front page above the fold in bold seventy-two-point black type was a banner headline written by Greg Mercer:
+
+*AN EMPTY PODIUM—AND AN 8:24 P.M. BUS TO CATCH*
+*Incumbent Dietz Skips Televised WHRO Debate; Challenger Katie Prairie Commands the Hour—Then Races Across Hampton Boulevard in Her Wheelchair to Make Last Bus Connection Home to Virginia Beach*
+
+Directly beneath the headline sat two side-by-side color photographs spanning all six columns of the page. On the left was a crisp frame captured from the WHRO TV-15 broadcast showing twenty-five-year-old Katie seated at her accessible studio desk next to Councilman Harold Dietz's brightly lit, completely empty mahogany podium. On the right was a photograph taken by a *Tidewater Pilot* photographer Greg Mercer had reached by cell phone on Hampton Boulevard—showing Katie and me rolling our black SwiftChairs up the steel hydraulic ramp of the kneeling 8:24 PM CVTA Route 2 bus under the streetlights while regular night-shift commuters looked on from the windows.
+
+Katie and I read down the twenty-eight-inch column together in amazed silence. Greg Mercer hadn't missed a single detail: he had printed the exact 8:14 PM debate sign-off, the twenty-two-second sprint across all six lanes of Hampton Boulevard, the minute-by-minute transfer math of the 8:24 PM Route 2 to the 9:15 PM Route 20 to the final 9:45 PM Route 15 at Glenrock Mall, and Katie's parting words from the bottom of the bus ramp right in the closing box quote.
+
+"Look at the traffic counter on our campaign server, Katie," I said, glancing up at my real-time PHP analytics monitor. "Our website hits just passed twelve thousand for the morning, and small online donations of ten and twenty-five dollars are coming in every thirty seconds from Kempsville, Bayside, and Norfolk."
+
+At twelve-oh-six that afternoon, while the three of us were eating turkey sandwiches at the kitchen table before heading out to canvass, I clicked open the live audio stream of Tidewater Public Media's non-profit public radio station, WHRV 89.5 FM, during its flagship Friday noon regional call-in program.
+
+"Welcome back to *HearSay* on WHRV 89.5 FM," the host said over our desktop speakers. "Before we open the phone lines for our weekly Friday civic roundtable, I need to remind our listeners of the ground rules: as a non-profit 501(c)(3) public broadcasting organization, WHRV and WHRO are strictly prohibited by federal law from endorsing or opposing any candidate for public office. However, judging by our studio switchboard over the last ten minutes, it appears half of Hampton Roads has read Greg Mercer's front-page Metro column in this morning's *Tidewater Pilot* about last night's Kempsville City Council debate here in our building. All ten of our studio call-in lines are flashing right now. Let's go first to Line One—Arthur in Kempsville, you're on WHRV."
+
+*"Thank you, Cathy,"* an older gentleman's voice came over the radio clearly. *"I've lived off Kempsville Road for thirty-four years and I voted for Harold Dietz twice in the past. Last night I tuned in to Channel 15 to watch the debate, and I sat there for forty-five minutes looking at an empty wooden podium while that young lady in the wheelchair answered every single budget and drainage question like she'd been running the city for ten years. And then I open my paper over breakfast this morning and find out she and her twin brother had to hustle across six lanes of Hampton Boulevard in the dark just to catch three buses home before CVTA locked up for the night! You don't have to endorse anybody on the radio—the voters in Kempsville can see for ourselves who's actually working for a living."*
+
+"Thank you, Arthur—let's go to Line Two, Brenda calling from a cell phone near Glenrock Mall," the host said.
+
+*"Hi, I'm a respiratory therapist and I ride that exact Route 20 and Route 15 transfer at Glenrock Mall three nights a week,"* the second caller said, her voice thick with emotion. *"I've seen Katie and her brother Nate in their wheelchairs on the front of the bus for years taking notes and talking to riders, and I never realized she was running for City Council until I saw the photo of them rolling up the Route 2 ramp in the paper today. For ten years City Hall has acted like those of us who ride the bus after eight o'clock at night don't exist. Everybody on my shift at the hospital is voting for Katie Prairie on November second!"*
+
+Line after line, for forty consecutive minutes without a single negative call, listeners from Kempsville, Bellamy Manor, Larkspur, College Park, and across Hampton Roads lit up all ten phone lines on WHRV 89.5 FM—until the host finally had to laugh on air and remind callers that the program had other regional news topics on its rundown.
+
+Sitting at our Kempsville kitchen table with Dad grinning over his coffee mug and Katie holding my hand across our wheelchair armrests, we finished our sandwiches, loaded four hundred fresh palm cards into our canvas side-bags, and rolled out into the crisp October sunshine for the final eighteen days of sidewalk canvassing before Election Day.
+
+### Part 4: The WNIS 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning
+
+**Date:** 2010-10-28 at 08:15 America/New_York
+
+#### Thursday, October 28, 2010, 8:15 AM — Five Days Before the Election: The Incumbent Attacks Katie's Wheelchair on WNIS 790 AM
+
+"Turn the desktop speakers up a notch, Nate," twenty-five-year-old Katie said from her SwiftChair beside mine on the Thursday morning before the election, pausing her typing on our morning canvassing walk-sheets as the live web stream of conservative talk radio WNIS 790 AM crackled across our home office on Lord Nelson Drive. "The host just said Harold Dietz called in unscheduled."
+
+I reached over and turned up the volume knob beside my monitor while taking a sip of cold chocolate milk.
+
+For the past thirteen days since Greg Mercer's front-page Metro story in *The Tidewater Pilot* and the forty-minute switchboard takeover on WHRV 89.5 FM, Councilman Harold Dietz had vanished from public view—canceling two neighborhood civic-league appearances while our volunteer canvassing teams knocked on thousands of doors across Kempsville, Bellamy Manor, Brandon, and Larkspur. Now, with five days left before Tuesday's election, the ten-year incumbent had evidently decided to go live on Hampton Roads' loudest morning talk-radio microphone to try to stop the bleeding.
+
+*"We're joined on the studio line right now by Virginia Beach City Councilman Harold Dietz, representing the Kempsville District,"* the WNIS morning host announced. *"Councilman, folks all over the city have been talking about that empty podium over at WHRO and the front-page story in the Pilot about your twenty-five-year-old opponent catching three buses home at eight-twenty at night. Looks like you've got a real horse race on your hands out in Kempsville."*
+
+When Harold Dietz's voice came through the broadcast compressor, he didn't sound like a calm ten-year incumbent. He sounded tight, defensive, and rattled.
+
+*"Well, Mike, let's call that newspaper story what it was—a staged piece of political theater,"* Dietz snapped over the airwaves. *"The Pilot loves a melodramatic human-interest angle, so they print a picture of my opponent rolling onto a bus at night as if riding a bus qualifies somebody to manage a one-point-seven-billion-dollar municipal corporation. Let's talk about the real world at City Hall that nobody at the newspaper wants to mention."*
+
+Katie and I looked at each other across our wheelchair armrests, our fingers stilling on our keyboards.
+
+*"First of all,"* Dietz ploughed ahead, his voice rising with irritation as he went completely off script, *"if my opponent were actually elected on Tuesday, do the taxpayers of Virginia Beach have any idea what City Hall facilities would have to do to the historic mahogany City Council chamber in Building One? They would have to tear out the woodwork on the side of the raised Council dais and spend tens of thousands of taxpayer dollars building a custom structural wheelchair ramp just to get one person up to a desk! And second, let's be honest with the voters about the demands of this job. Serving on the Virginia Beach City Council isn't a hobby you do from a laptop. We sit in six-hour afternoon budget workshops followed by six-hour evening sessions that run past midnight, plus regional commission meetings all over Tidewater. Are we really supposed to pretend that a twenty-five-year-old girl in a wheelchair—who has to have her twin brother rolling right beside her everywhere she goes just to get through the day—has the physical stamina to handle twelve-hour days on the City Council?"*
+
+Inside our quiet home office in Kempsville, the silence lasted three full seconds.
+
+Even over the radio broadcast, you could hear the WNIS morning host draw in a sharp, audible breath inside the Norfolk studio as he realized the incumbent councilman had just committed political suicide on live air in the largest military and veteran community on the East Coast.
+
+*"Uh—Councilman Dietz,"* the WNIS host cut in quickly, his tone dropping an octave as the red warning lights on his studio call screener's board began flashing like a Christmas tree, *"hang on a second there, Harold. We have eighty thousand disabled veterans and wounded warriors living right here in Virginia Beach and Norfolk who use wheelchairs every day, and federal law under the Americans with Disabilities Act requires public buildings to be accessible anyway—"*
+
+*"I'm just saying the voters deserve to know the practical reality and the cost, Mike!"* Dietz insisted defensively before the host hastily took the program to a commercial break—and when the show came back from the break three minutes later, Councilman Dietz was no longer on the line.
+
+What followed over the next forty-five minutes on WNIS 790 AM was unlike anything we had ever heard on conservative talk radio.
+
+The host didn't take a single call defending Harold Dietz—because there weren't any. Instead, caller after caller was a furious Navy chief, a retired Marine colonel, a wounded Iraq or Afghanistan veteran from Little Creek or Naval Air Station Oceana, or a lifelong conservative Kempsville homeowner calling in to blister the incumbent for attacking a candidate's wheelchair and mocking the bond between twin siblings who had lived with a spinal-cord condition since high school.
+
+*"Mike, this is Senior Chief Petty Officer Miller calling from Bellamy Manor,"* a booming voice growled on Line One. *"I served twenty-four years in the Navy and I've voted Republican in every election since Ronald Reagan. My nephew lost the use of his legs in Anbar Province in 2007 and uses a power wheelchair just like Katie and Nate Prairie. For a sitting Virginia Beach City Councilman to go on the radio and complain about the cost of putting a wheelchair ramp on the City Council dais—and to insult a young woman's stamina because she uses a wheelchair and works alongside her twin brother—is the most disgraceful thing I've ever heard in this city. I walked out to my front yard five minutes ago, pulled Harold Dietz's sign out of my grass, and threw it in the trash can!"*
+
+By noon on Friday, the fallout had turned into an avalanche. Three of Virginia Beach's largest business associations issued public statements revoking their endorsements of Councilman Dietz and clarifying that they stood for equal access for all citizens. When *The Tidewater Pilot* called our campaign phone asking for Katie's response to Dietz's radio remarks, Katie gave Greg Mercer a single, quiet two-sentence statement:
+
+*"My brother Nate and I have used power wheelchairs since our legs gave out during our junior year at Northwood High School, and we have never once asked anyone in Virginia Beach for pity. All we have ever asked for is a ramp to the table and a bus that runs late enough for working people to get home."*
+
+On Saturday morning, October 30—seventy-two hours before the polls opened—*The Tidewater Pilot* devoted the entire top half of its Editorial & Opinion page to a special full-width spread of reader letters under the banner headline:
+
+*LETTERS TO THE EDITOR: DIETZ'S ATTACKS ON BUSES, WHEELCHAIR RAMPS CROSS THE LINE*
+
+Sitting at our kitchen table with Dad over Saturday morning pancakes and orange juice, I read three of the printed letters aloud while Katie listened beside me:
+
+> A Ramp to the People's Dais Is Not a "Special Favor"<br>
+> As a retired Navy Master Chief who lost both legs above the knee to an IED outside Fallujah in 2006, I nearly drove my hand-control truck off Kempsville Road on Thursday morning listening to Councilman Harold Dietz complain on WNIS about the cost of building a wheelchair ramp up to the City Council dais for Katie Prairie. When I came home from Bethesda Naval Hospital in a wheelchair, nobody told me I lacked the "stamina" to contribute to my community. If the mahogany dais in Building 1 doesn't have a wheelchair ramp after twenty years of the Americans with Disabilities Act, that isn't an indictment of Katie Prairie—it is an indictment of Harold Dietz and every politician who never thought a citizen in a wheelchair belonged up there.<br>
+> — Master Chief Robert H. Callahan, USN (Ret.), Kempsville, Virginia Beach
+
+> The 8:24 PM Bus Is Real Life, Not "Political Theater"<br>
+> Councilman Dietz claims Katie and Nate Prairie catching the 8:24 PM Route 2 bus home from the WHRO debate was a "publicity stunt." Tell that to those of us who close the retail stores at Pembroke Mall and Glenrock Mall every night and pray our connecting Route 20 or Route 15 bus isn't five minutes late so we aren't stranded in the dark. Katie and Nate Prairie have ridden the bus with us in the rain and cold for five years. On Tuesday, the bus riders of Virginia Beach are going to send one of our own to City Hall.<br>
+> — Denise T. Holloway, College Park, Virginia Beach
+
+> We Remember the Day Their Legs Gave Out at Northwood High<br>
+> Hearing Councilman Dietz mock Katie Prairie for having her twin brother Nate rolling beside her broke my heart and made my blood boil. I taught English at Northwood High School in September 2001 on the Friday afternoon when sixteen-year-old Katie and Nate's legs gave out within three hours of each other. Every teacher in that building watched those two teenagers refuse to give up, finish high school from hospital beds and wheelchairs, earn their degrees at CCHR and Fishersville, build their own software business, and buy their own home in Kempsville. Their bond isn't a weakness—it is the finest example of family courage in Virginia Beach.<br>
+> — Margaret L. Sterling, Retired Teacher, Bayside, Virginia Beach
+
+When I finished reading Mrs. Sterling's letter, Dad had to take off his glasses and wipe his eyes with his napkin, while Katie held my hand tightly across our armrests.
+
+***
+
+#### Tuesday, November 2, 2010, 7:19 PM — The 94.1% to 5.9% Landslide & The Four-Station Election Night Post-Mortem
+
+At seven o'clock on the evening of Tuesday, November 2, 2010, the polls closed across the City of Virginia Beach.
+
+We hadn't rented a hotel ballroom at the Oceanfront. Instead, Katie, Dad, and I were gathered inside our living room on Lord Nelson Drive along with sixteen of our volunteer sidewalk canvassers, CCHR students, and fellow CVTA bus riders, with platters of warm pizza and two-liter bottles of ginger ale, orange soda, and flavored water set out on the dining table and a fresh pot of black coffee brewing in the kitchen for Dad. Across the living room wall, I had connected four television monitors and my dual laptop screens to our custom PHP precinct-return engine, which scraped the live precinct-by-precinct XML data feed straight from the Virginia State Board of Elections and the Virginia Beach Voter Registrar every fifteen seconds.
+
+At 7:08 PM, the first four Kempsville precincts reported their optical-scan tabulator tapes.
+
+Dad leaned over my shoulder, staring at my PHP dashboard screen through his glasses. "Nate... check your parser code on Kempsville Precinct Three and Bellamy Precinct One. Is a decimal point shifted?"
+
+"The parser checksums match the state XML feed to the single vote, Dad," I breathed, my heart hammering against my ribs as five more precincts popped onto the screen in bright green. "Look at the raw totals."
+
+At 7:19 PM—just nineteen minutes after the polls closed—all four local television network affiliates in Hampton Roads (WAVY-TV 10, WTKR NewsChannel 3, WVEC 13News, and WHRO TV-15) flashed simultaneous breaking-news graphics across the bottom of their screens with a loud electronic chime:
+
+*PROJECTION — VIRGINIA BEACH CITY COUNCIL (KEMPSVILLE DISTRICT):*
+*KATIE PRAIRIE (WINNER) — 94.1%*
+*HAROLD DIETZ (INCUMBENT) — 5.9%*
+
+Inside our living room on Lord Nelson Drive, a roar went up that shook the framed blue butterfly print on the hallway wall. Dad wrapped both of his arms around Katie's shoulders and mine at the same time, his voice choked with pride, while Katie pressed her forehead against mine across our armrests with tears of pure joy shining in her blue eyes.
+
+As the final precincts locked in over the next twenty minutes confirming the staggering 94.1% to 5.9% margin—the largest landslide defeat of a sitting incumbent in the modern history of Hampton Roads municipal politics—we unmuted the four television feeds and the radio stream to hear the stunned political analysts dissect what had just happened.
+
+On WAVY-TV 10, anchor Don Roberts turned to Virginia Dominion University political science professor Dr. Quentin Marsh standing in front of the electronic precinct map.
+
+*"Ninety-four point one percent to five point nine percent, Dr. Marsh,"* the anchor said, shaking his head at the big board. *"We have never seen numbers like this in a contested Virginia Beach City Council race. How does a ten-year incumbent get wiped out by eighty-eight points?"*
+
+*"Don, what we just witnessed tonight in Kempsville is the textbook anatomy of a catastrophic one-two political knockout,"* Dr. Marsh explained, tapping the touchscreen map of Virginia Beach. *"Three weeks ago, before the WHRO debate, Harold Dietz was sitting on a comfortable eight-point incumbent lead mostly because voters didn't know who Katie Prairie was. Then came Punch Number One on October fourteenth: Dietz didn't even bother to RSVP to WHRO TV-15, leaving his podium empty on live television for forty-five minutes while Katie Prairie demonstrated complete command of the municipal budget—followed ten minutes later by Greg Mercer's front-page story in the Pilot showing Katie and her twin brother Nate sprinting across six lanes of Hampton Boulevard in their wheelchairs to catch the 8:24 PM Route 2 bus so they wouldn't miss the last three-bus transfer chain home to Virginia Beach. We now know from campaign insiders that by the Monday after that story ran, Dietz's internal tracking poll had crashed from an eight-point lead down to a dead heat—48.2 percent to 47.8 percent, a razor-thin four-tenths of one percent margin right inside Virginia's automatic recount threshold—and his major Oceanfront donors threatened to freeze his final forty-thousand-dollar TV buy."*
+
+Across the room on WVEC 13News, a live remote camera panned across a cavernous, completely deserted ballroom at an Oceanfront resort hotel where untouched trays of shrimp cocktail sat under heat lamps beside a silent podium banner reading *RE-ELECT COUNCILMAN DIETZ*.
+
+*"And that panic inside the Dietz camp led directly to Punch Number Two last Thursday morning on WNIS 790 AM,"* the WVEC political reporter told the studio anchors from the empty ballroom. *"Trying to look tough for his panicked donors, Councilman Dietz went on live talk radio, mocked the Prairies' three-bus ride home, complained about the taxpayer cost of building a wheelchair ramp up to the City Council dais in Building 1, and questioned whether a woman in a wheelchair rolling alongside her twin brother had the stamina to serve on Council. In a city filled with military families, disabled veterans, and working bus commuters, that radio call turned a 0.4 percent race into a 94 percent wipeout. The Councilman called Ms. Prairie three minutes ago to concede and left the hotel through a side kitchen door."*
+
+Meanwhile, on WTKR NewsChannel 3, the tech-desk correspondent pulled up a live graphic highlighting our grassroots ground game:
+
+*"Don't overlook the engineering behind this victory, either,"* the WTKR analyst noted. *"Katie and Nathaniel Prairie didn't spend a dime on outside political consultants. Nathaniel Prairie wrote their custom PHP voter-turnout and precinct-mapping software himself, and look at the precinct turnout bars along the CVTA Route 12, Route 15, Route 20, and Route 36 corridors—precincts that normally see 18 percent turnout in an off-year municipal election surged by 42 percent tonight because bus riders and working families came out in droves to vote for one of their own."*
+
+Even over on conservative talk radio WNIS 790 AM, the evening election host sighed into his microphone as the 94.1% total scrolled across his screen: *"Folks, Harold Dietz dug his own grave right here on our morning airwaves last Thursday. When a twenty-five-year-old woman and her twin brother out-work you, out-debate you, ride three city buses home in the dark, and build their own software from scratch, attacking their wheelchairs in a Navy town is a guaranteed way to get sent into retirement."*
+
+***
+
+#### January to May 2011 — The Building 1 Dais Ramp, Locking $810,000 of CVTA Perks in Escrow, & Taking Seat on the CVTA Commission
+
+During the eight weeks between Election Night in November 2010 and Reorganization Night in January 2011, municipal carpenters and accessibility contractors went to work inside the City Council Chamber of Building 1 at the Virginia Beach Municipal Center.
+
+Removing the steep wooden steps on the right wing of the curved mahogany City Council dais, the city constructed a permanent, gently sloped, red-carpeted wheelchair ramp bordered by polished mahogany handrails leading straight up to the Kempsville District desk, where the heavy leather swivel chair was rolled away so twenty-five-year-old Councilwoman-Elect Katie Prairie could pull her compact black SwiftChair directly up to the voting console.
+
+On Tuesday evening, January 4, 2011, with the chamber gallery packed wall-to-wall with Kempsville neighbors, CCHR students, bus operators, and retired Master Chief Robert Callahan sitting in the front row in his own wheelchair, Katie and I rolled side by side up the new mahogany dais ramp. Standing beside us with his hand resting proudly on my shoulder was our dad, while I held open our bound leather copy of the Constitution of the Commonwealth of Virginia.
+
+Placing her left hand flat on the Virginia Constitution and raising her right hand, Katie repeated the oath of office after the Clerk of the Circuit Court—finishing in a clear, ringing voice that echoed to the back of the chamber:
+
+*"So help me, God!"*
+
+She didn't wait six months to keep the promise she had made to Greg Mercer at the 8:24 PM bus stop on Hampton Boulevard.
+
+Just two weeks later, on Tuesday evening, January 18, 2011, Item 9B came up on the formal Virginia Beach City Council agenda: a request from the Coastal Virginia Transit Authority for a $1.42 million mid-year supplemental municipal appropriation to cover administrative cost overruns at CVTA's Norfolk headquarters.
+
+Stepping up to the low citizen and staff microphone podium on the chamber floor below the raised mahogany dais were two men in tailored charcoal suits whom Katie and I knew very well: CVTA President and Chief Executive Officer Leonard Sterling, and Chief Operating Officer Richard Halstead—the exact two executives who, fourteen months earlier at 509 East Eighteenth Street, had cut off my public-comment microphone at the hundred-and-eighty-second buzzer, sneered in the hallway that we were *"statistically insignificant hobbyist bloggers,"* refused to release raw GTFS schedule files, and secretly blackballed me from the Transit Riders Advisory Committee.
+
+Now, the roles were reversed. Sterling and Halstead were standing down at the floor microphone looking up at the raised mahogany dais—where twenty-five-year-old Councilwoman Katie Prairie sat looking down at them with her finger resting beside her microphone button and me parked right beside the dais ramp with our PHP line-item audit open on my MagnaBook Pro.
+
+When CEO Sterling finished his five-minute presentation asking the City Council to approve the $1.42 million check with no strings attached, the Mayor turned toward the right wing of the dais.
+
+"Councilwoman Prairie," the Mayor said, "you have the floor."
+
+Katie pressed her white microphone button. The green indicator ring lit up—and this time, Richard Halstead didn't have a cutoff switch.
+
+"Thank you, Mr. Mayor," Katie said, her voice calm, polite, and surgical as every camera in Building 1 zoomed in on her desk. "Mr. Sterling, Mr. Halstead, before my brother Nate and I were elected by the voters of Kempsville by a margin of ninety-four point one percent, the two of you cut off our microphone at Eighteenth Street and told us in the hallway that CVTA doesn't take operational direction from 'hobbyist bloggers.' Now that you are asking the taxpayers of Virginia Beach for an extra one point four two million dollars, Nate and I have gone through every single line of your general ledger."
+
+Down at the podium, Richard Halstead swallowed hard, a bead of sweat glistening at his temple under the television lights.
+
+"Out of the one point four two million dollars you are requesting tonight," Katie continued, reading directly from our PHP audit, "six hundred and ten thousand dollars goes toward fuel and frontline bus operator wages, which I fully support. The remaining eight hundred and ten thousand dollars, however, is earmarked for executive retention bonuses, out-of-state conference travel, fleet take-home sedans for senior staff, and proprietary scheduling consultant contracts. Meanwhile, here in Virginia Beach, the last Route 12 bus out of the CCHR hub still leaves at 5:48 PM, locking citizens out of our 6:00 PM Council meetings, and your agency still refuses to publish its raw General Transit Feed Specification database tables for the public."
+
+Katie held up a two-page printed budget amendment she and I had drafted with the City Attorney that morning.
+
+"Therefore, Mr. Mayor," Katie announced, "I move an amendment to Item 9B: the City of Virginia Beach will release the six hundred and ten thousand dollars for bus operators and fuel tonight, and we will lock the remaining eight hundred and ten thousand dollars of executive overhead in a restricted municipal escrow account. Not one penny of that eight hundred and ten thousand dollars will be released by the City Treasurer until CVTA meets two mandatory conditions: first, publishing its complete, unredacted GTFS schedule database online under an open public license within thirty days; and second, implementing the Evening Civic Access Transit Pulse—extending Route 33 out of the Virginia Beach Municipal Center until 10:30 PM on Council nights and operating a synchronized 9:00 PM and 10:00 PM evening connecting pulse for Routes 12, 25, 29, and 36 at the CCHR Virginia Beach Campus hub."
+
+"Second!" called out At-Large Councilman Ronald Villa from the other side of the dais with a broad grin.
+
+When the electronic voting board on the chamber wall chimed ten seconds later, all eleven lights glowed green: 11–0.
+
+And the reckoning wasn't quite finished. Immediately after the budget vote, the Mayor called up Item 9C—the resolution appointing Virginia Beach's new municipal representatives to the governing board of the Coastal Virginia Transit Authority, the Transportation District Commission, to fill the seat vacated by former Councilman Harold Dietz.
+
+By a second unanimous 11–0 vote, the Virginia Beach City Council appointed Councilwoman Katie Prairie as a voting Commissioner of the Coastal Virginia Transit Authority.
+
+Nine days later, on the fourth Thursday of January 2011, while every other city council commissioner from across Hampton Roads drove into Norfolk and parked in the reserved VIP lot behind 509 East Eighteenth Street, CVTA's newest governing Commissioner arrived the exact same way she and I had always traveled: by riding a three-bus chain on CVTA—boarding Route 15 northbound on Military Highway, transferring to Route 20 westbound at Glenrock Mall into Downtown Norfolk, and riding Route 1 up Granby Street to Eighteenth Street while paying our regular fare.
+
+When Katie and I rolled our SwiftChairs through the double doors of the Eighteenth Street boardroom and up to the raised Commissioners' horseshoe dais—right past Chief Operating Officer Richard Halstead's chair—the first official action Commissioner Katie Prairie took under New Business was exercising her unilateral prerogative as a Virginia Beach Commissioner to make a citizen appointment to the Transit Riders Advisory Committee.
+
+"Pursuant to Section 4.2 of the Commission bylaws," Katie said clearly into her Commissioner's microphone while looking straight across the table at Richard Halstead, "as a voting Commissioner for the City of Virginia Beach, I hereby appoint Nathaniel Prairie to the Virginia Beach citizen seat on the Transit Riders Advisory Committee, effective immediately."
+
+By May 2011, CVTA had published its complete open GTFS schedule feed and launched the permanent Evening Civic Access Transit Pulse across Virginia Beach. For the first time in the history of our city, any citizen who rode a public bus or used a wheelchair could attend a six o'clock City Council meeting, speak at the public microphone, and ride a CVTA bus safely home afterward.
+
+And on every single Tuesday night when the Virginia Beach City Council adjourned at nine-thirty, Councilwoman Katie Prairie and I rolled down the mahogany dais ramp in Building 1, rolled out to the Municipal Center bus shelter alongside the citizens who had come to watch the meeting, swiped our thirty-day CVTA passes, and rode the 9:45 PM Route 33 and Route 12 pulse right back home to Kempsville.
+
+### Part 5: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run
 
 **Date:** 2012-02-09 at 11:35 America/New_York
 
@@ -3033,7 +3342,7 @@ My breath caught in my chest as I realized what my twin sister was saying.
 
 "Richard Tatum didn't even look up from his phone when he voted against our buses today," Katie continued, squeezing my fingers tightly. "We proved on the Virginia Beach City Council that when you put a bus rider in a wheelchair at the table, you can change the schedules for the entire city. But as long as politicians in Richmond keep cutting state transit funds and blocking disability Medicaid waivers, local City Councils are fighting with one hand tied behind their backs. The next House of Delegates election is in November 2013. Let's go home, talk it over with Dad, and map out how we win the Eighty-Fifth District seat."
 
-### Part 4: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District
+### Part 6: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District
 
 **Date:** 2012-11-23 at 18:30 America/New_York
 
@@ -3101,7 +3410,7 @@ With Dad standing beside our wheelchairs holding the extra clipboards and signin
 
 When the five-o'clock primary filing deadline closed on the last Thursday of March 2013, not a single Democratic challenger had filed against a popular sitting Kempsville City Councilwoman who had turned in four hundred and twelve bulletproof grassroots signatures. The Virginia State Board of Elections officially certified Katie as the Democratic Nominee for the Eighty-Fifth House District without the expense of a June primary.
 
-Two days later, a pair of sleek political consultants from Richmond rode down I-64 and asked to meet us at a coffee shop near Pembroke Commons. Spreading glossy brochures across the table, they informed Katie that to run a "serious" House of Delegates campaign in Virginia Beach, she needed to pay their firm a forty-thousand-dollar retainer to lease the state party's voter-targeting software, hire an out-of-state direct-mail agency, and host high-dollar donor receptions at Oceanfront hotels.
+Two days later, a pair of sleek political consultants from Richmond rode down I-64 and asked to meet us at a restaurant near Pembroke Commons. Spreading glossy brochures across the table, they informed Katie that to run a "serious" House of Delegates campaign in Virginia Beach, she needed to pay their firm a forty-thousand-dollar retainer to lease the state party's voter-targeting software, hire an out-of-state direct-mail agency, and host high-dollar donor receptions at Oceanfront hotels.
 
 Katie and I listened politely, took a sip of our ginger ales, and turned their entire forty-thousand-dollar sales pitch down flat.
 
