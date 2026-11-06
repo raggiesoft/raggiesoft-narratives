@@ -1937,7 +1937,7 @@ When Dad and I rolled out the keyed glass front door of the Greenway Court build
 
 # West Ocean View, Ideas for CVTA, & From City Council to the Senate of Virginia
 
-## Ocean View Station, Speak Now or Forever Hold Your Peace, & Katie's Move to Williamsburg
+## Ocean View Station, Dirty Old Tonomy Hill, & Katie's Move to Williamsburg
 
 ### Part 1: Ocean View Station, The Green Sofa Confrontation, & Speak Now or Forever Hold Your Peace
 
@@ -2133,7 +2133,91 @@ Looking back down the sunny brick walkway where Brandon had just bought my twin 
 
 "He seems like a genuinely good guy, Katie," I said honestly. "I like how he didn't push you at all when you told him you wanted to take things slow, and it meant a lot to me that he knew last night wasn't my fault. Let's roll back to A6 and spend the rest of Sunday afternoon together before I have to catch the evening Route 1 bus back to Ocean View."
 
-### Part 3: Five Months of Patience, Winning Over Nate and Dad, & Katie's Move to Williamsburg
+### Part 3: The Worst Christmas Ever: Pathfinder to Newport, Dirty Old Tonomy Hill, & Chelsea's Christmas Eve Nightmare
+
+**Date:** 2004-12-24 at 15:30 America/New_York
+
+#### Friday, December 24, 2004, 3:30 PM — Ten Cities on Pathfinder, OSTA Route 63 to Dirty Old Tonomy Hill, & The Worst Christmas Ever
+
+"Another girl," twenty-year-old Tiffany retorted, with what sounded like a sharp hint of anger in her voice, as the blue-and-white Ocean State Transit Authority Route 63 bus hissed away from the curb on Dirty Old Tonomy Hill and left the two of us in the biting Rhode Island December wind outside the weathered World War II-era public housing buildings.
+
+"I thought I told you that all my cousins are women. There really are no men in my life," I replied from my compact SwiftChair, answering that exact question for what felt like the millionth time while my cold fingers gripped the joystick controller.
+
+We were in Newport, Rhode Island—my dad David's birthplace and childhood home—at the tail end of a grueling overnight and daylong bus marathon that had left every muscle in my upper back aching. Because our Aunt Elizabeth had died earlier that year from her lifelong smoking, and our grandmother had passed away not long before her, our twenty-two-year-old cousin Chelsea was facing her very first Christmas completely alone in Newport. When Dad had offered to pay for my bus fare up to Rhode Island so Chelsea wouldn't spend Christmas Eve by herself, I had originally assumed Katie and I would ride up together the way we did everything else. Instead, Tiffany had flatly refused to let Katie come along and insisted on making the trip with me as my girlfriend, leaving Katie back in Virginia with Dad and Brandon.
+
+To get from Hampton Roads to Aquidneck Island on Christmas Eve without a car, Tiffany and I had boarded a northbound Pathfinder coach at the downtown terminal in Norfolk and ridden all the way up the Eastern Seaboard, with the drivers cranking the hydraulic wheelchair lift for my SwiftChair at transfer after transfer: Norfolk to Richmond, Richmond up Interstate 95 to Washington, D.C., and Washington into Downtown Baltimore on West Fayette Street, where our bus had to exit the interstate onto I-395 and crawl through block after block of congested downtown Baltimore traffic lights before fighting its way back out to the highway. From Downtown Baltimore we had rolled through Wilmington, Delaware, into the smoky basement bays of Philadelphia, up the New Jersey Turnpike into the chaotic crowds of the Port Authority Bus Terminal in New York City, northeast to Boston's South Station, down through Fall River, Massachusetts, and finally into the Newport Gateway Center—where we had paid our cash fare onto the local blue-and-white OSTA Route 63 bus that climbed Broadway to the top of Tonomy Hill.
+
+In December 2004, Tonomy Hill—which everyone in Newport called Dirty Old Tonomy Hill—was still a sprawling complex of aging, faded World War II-era defense-worker public housing buildings perched on the wind-whipped ridge at the north end of the city.
+
+Before Tiffany could make another snide remark on the cracked concrete sidewalk, the front door of the nearest weathered building swung open.
+
+"Welcome to Newport!" cried a voice as I saw my twenty-two-year-old cousin Chelsea hurrying down the low wooden entry ramp toward my wheelchair as fast as her struggling gait would carry her and pulling me into a tight squeeze hug. "I hope you enjoy Christmas with me," she whispered against my coat collar, her speech slurred due to her developmental disability.
+
+When she pulled back a few inches, I saw a single tear leaking from the corner of her eye. Aunt Liz's heavy smoking while pregnant was the reason Chelsea had been born developmentally delayed and with severe chronic asthma that required her to carry both her daily maintenance inhaler and her rescue inhaler in her pocket at all times—and yet Aunt Liz had still been her mother, her protector, and her whole world here in Rhode Island. Facing this first Christmas without her mom weighed heavily on every breath Chelsea took.
+
+"You like my boyfriend?" Tiffany asked beside us, her voice dripping with disgust as she stared at Chelsea through her black-rimmed rectangular glasses.
+
+"He and Katie are my only family, my only cousins," Chelsea replied excitedly, not fully comprehending the hostile accusation behind Tiffany's words. Leading my wheelchair up the wooden ramp into her ground-floor unit inside the old World War II-era building, where the living room sat a couple of shallow ramped steps above the vestibule, she gestured warmly toward her faded sofa. "You two make yourselves comfortable on the couch. I'm going to take a badly needed shower."
+
+As soon as the bathroom door clicked shut down the short hall and the old pipes began to clank and hiss with hot water, Tiffany let out a loud, disgusted groan and slumped onto the couch.
+
+"She seems to really like you a lot," Tiffany groaned.
+
+"She doesn't understand some things about life," I said, none too happily, braking my SwiftChair near the edge of the rug. "She hasn't seen me since a couple of years ago, and she's just very excited to see family on Christmas Eve. Think about how you feel about your brother when he comes to town."
+
+Tiffany didn't respond to that comparison at first, but within seconds she launched into a bitter back-and-forth argument—her voice rising higher and louder as she screamed at me about how Chelsea had hugged me outside and how she was sick of every female relative in my family hanging all over me.
+
+Right in the middle of Tiffany's screaming, the bathroom door flew open.
+
+Because the sound of Tiffany screaming at me through the thin wall had distressed Chelsea so terribly that she feared for my safety—deciding in a heartbeat that protecting her cousin was far more important than her own modesty—Chelsea came running out of the shower soaking wet and completely naked, her awkward stride splashing soapy water across the linoleum floor without a care in the world that she was standing there wearing nothing at all.
+
+"Why are you two fighting?" Chelsea asked in a frightened, slurred voice, looking back and forth between Tiffany and my wheelchair.
+
+Tiffany gasped, startled by Chelsea's sudden appearance in the buff, and immediately turned even angrier when she realized that I wasn't shocked at all. Keeping my eyes respectfully fixed on the wall past Chelsea's shoulder, I was remembering from childhood—like the Christmas at our house in Virginia Beach when we were nine—that our family constantly had to remind Chelsea to stay dressed, especially when she was in the middle of a shower or getting ready for bed.
+
+"Come on, Chelsea, let's get you dried off and dressed," I said calmly, pushing my joystick forward to roll my SwiftChair over to the hall linen shelf, grabbing a thick, dry bath towel, and guiding her straight back into the bathroom. "Tiffany doesn't grasp that you don't understand some things."
+
+Pulling the bathroom door shut behind us to give her privacy from Tiffany's glare, I wrapped the oversized towel completely around Chelsea's shoulders to cover her and said gently, "I remember when you'd run around the place naked when we were younger, Cous, but we have to keep you covered up when company is here."
+
+"I wish it was just you and Katie," Chelsea whimpered, her chest hitching with a tight asthmatic wheeze as she started to have a full emotional breakdown. Grabbing her rescue inhaler out of the pocket of her bathrobe on the door hook, she took a shaky puff and then held onto my arm tightly, scared out of her mind by the screaming she had heard through the wall.
+
+"Let's get you dressed and try to have a good time," I said softly, rubbing the thick towel over her shoulders to help dry my cousin off as best as I could while keeping her completely covered so her dignity stayed intact.
+
+***
+
+#### Friday, December 24, 2004, 7:30 PM — The Christmas Eve Nightmare & The Return Trip via Providence
+
+"She seems to have a crush on you," Tiffany spat quietly across the table right after the three of us finished a tense, mostly silent Christmas Eve dinner.
+
+"Please don't be mean to her. There are some things she doesn't understand," I tried to explain again, keeping my voice low so Chelsea wouldn't hear from the kitchen counter.
+
+"I really don't give a damn," Tiffany snapped, not bothering to lower her voice at all. "First you have a sister and now a cousin. I'm starting to wonder where your loyalties are!"
+
+"I don't care when you're close with your brother," I replied, my temper finally starting to rise as Chelsea walked back into the room carrying her plate and immediately froze, her eyes filling with tears at Tiffany's harsh tone. "Now look, she's crying! You frightened her! Look, I'm really the only family she has left along with my sister. Her mother—my aunt—died. Our grandmother died. She has no one but herself here in Newport. I'm the closest family, being in Virginia! So what if she loves me? She doesn't understand certain concepts such as the difference between family love and girlfriend love!"
+
+Heavily in tears and wheezing sharply in her chest, Chelsea reached down and tugged frantically at my sleeve, pulling me toward her bedroom doorway.
+
+When Tiffany stood up from the sofa and tried to follow us down the short hall, Chelsea spun around in the doorway.
+
+"Just him!" Chelsea sobbed angrily, and the second my SwiftChair cleared the threshold into her bedroom, she slammed the bedroom door in Tiffany's face and turned the lock.
+
+"She's mean to you and she's mean to me!" Chelsea sobbed uncontrollably, her hands trembling so badly that after she took two puffs from her inhalers on the dresser, she immediately began pulling off her heavy Christmas sweater and clothes to climb into bed, blurting out through her tears without any social filter at all, "I don't care that I'm naked. I always sleep naked!"
+
+Keeping my gaze strictly on her tear-streaked face while I reached out from my wheelchair and pulled her thick bed quilt all the way up over her shoulders as she sat on the edge of the mattress, I tried with everything I had to calm my cousin down. She was an absolute emotional wreck, shaking from head to toe inside the drafty World War II-era bedroom while the December wind rattled the windowpanes on Tonomy Hill.
+
+"It's Christmas Eve," I pleaded softly, holding the quilt tucked securely around her shoulders and squeezing her hand. "Let's try to salvage it?"
+
+"Promise you will never bring her again. Only Katie! Tiffany's mean to you and me too!" Chelsea sobbed, with heavy tears streaming from her eyes and her voice breaking so hard that there was nothing else I could get out of her.
+
+"Chelsea, could we please try to salvage tonight?" I asked quietly, wanting more than anything for her to stop crying on her first Christmas Eve without Aunt Liz.
+
+She didn't respond, burying her face in her hands above the quilt as her crying only intensified. Sitting beside her bed in my wheelchair while Tiffany sulked on the other side of the locked door, I realized with a sinking heart that there was going to be no changing Chelsea's mind: my cousin hated my girlfriend with every fiber of her body, and my girlfriend hated her just as much.
+
+The next morning—after the bleakest, coldest Christmas morning I had ever lived through—Tiffany and I packed our bags early and rolled back down the wooden ramp to the Tonomy Hill bus stop. In icy silence, we rode the OSTA Route 63 bus back down Broadway to the Newport Gateway Center, transferred onto a northbound OSTA Route 60 bus across Aquidneck Island and the Mount Hope Bridge all the way up to Kennedy Plaza in downtown Providence, and boarded the Pathfinder NYC Express down to the Port Authority Bus Terminal in New York. From Manhattan, our southbound Pathfinder coach carried us through Philadelphia and down I-95 into Maryland—skipping the congested streets of Downtown Baltimore this time by pulling directly off the interstate into the highway-side bus bays at the Baltimore Travel Plaza on O'Donnell Street before continuing south through Washington, D.C. and Richmond back to Norfolk.
+
+All the way down Interstate 95 in the dark, while Tiffany slept against the vibrating coach window beside me, Chelsea's sobbing voice from behind that locked bedroom door on Dirty Old Tonomy Hill kept echoing in my ears: *Promise you will never bring her again. Only Katie! Tiffany's mean to you and me too!*
+
+### Part 4: Five Months of Patience, Winning Over Nate and Dad, & Katie's Move to Williamsburg
 
 **Date:** 2005-02-05 at 14:00 America/New_York
 
@@ -2153,11 +2237,13 @@ True to the promise he had made at The Admiral Center on that Sunday afternoon i
 
 And during those exact same five months between September 2004 and February 2005, while Brandon was treating Katie like gold every weekend in Ghent, my own life up in West Ocean View at Sea Breeze West Apartment 3 had been sliding downhill so gradually that I barely knew how to explain it even to myself.
 
-Whenever I mentioned riding the CVTA Route 1 bus down to Greenway Court on a Saturday afternoon to visit Katie, Tiffany would suddenly complain of a migraine, or her mother Sandra would show up unannounced at Apartment 3 demanding that I stay home to help reorganize the living room, or Tiffany would start a guilt-tripping argument asking why she wasn't enough company for me. Week by week, my trips down Granby Street had grown fewer and further between. Because I was ashamed to admit to Katie or Dad that Tiffany was leaving unwashed dishes in the sink for days at a time and banishing milk from our refrigerator, I kept telling them over the phone that I was just busy with schoolwork—which meant that Monday through Friday, nineteen-year-old Katie had been coming home from her classes at CCHR to an empty studio apartment on Greenway Court, eating dinner by herself at half of a workstation desk, and sleeping alone in the square walk-in closet where the two of us used to zip up in our shared sleeping bag together.
+When Tiffany and I had first moved into Apartment 3 back in August, I had genuinely believed we were going to build a normal grown-up romance together—sharing the queen bed in the back bedroom, kissing goodnight, cuddling under the covers, and figuring that once we were settled in and ready, our relationship would naturally take the next step the way adult couples do when they are in love. Yet before moving out of Greenway Court, Katie and I had promised each other that neither of us would rush into anything sexual that could risk an unplanned pregnancy while we were still adjusting to living apart for the first time in our lives. And as it turned out, that waiting period had barely begun before Tiffany's warmth dried up on its own. Almost as soon as the Sea Breeze West lease was signed, the affectionate girlfriend who had held an umbrella over my joystick in the rain started turning cold and irritable whenever I came near her, leaving unwashed dishes in the sink for days at a time, banishing milk from our refrigerator, and picking jealous fights—first over Katie in September, and then over our cousin Chelsea up in Newport at Christmas—until sharing our bedroom felt more like walking on eggshells than being in love.
+
+Whenever I mentioned riding the CVTA Route 1 bus down to Greenway Court on a Saturday afternoon to visit Katie, Tiffany would suddenly complain of a migraine, or her mother Sandra would show up unannounced at Apartment 3 demanding that I stay home to help reorganize the living room, or Tiffany would start a guilt-tripping argument asking why she wasn't enough company for me. Week by week, my trips down Granby Street had grown fewer and further between. Because I was too embarrassed to admit to Katie or Dad how bad the mess and the arguments at Apartment 3 had gotten—especially after keeping silent about how terribly Tiffany had acted toward Chelsea in Rhode Island over Christmas—I kept telling them over the phone that I was just busy with schoolwork. That meant Monday through Friday, nineteen-year-old Katie had been coming home from her classes at CCHR to an empty studio apartment on Greenway Court, eating dinner by herself at half of a workstation desk, and sleeping alone in the square walk-in closet where the two of us used to zip up in our shared sleeping bag together.
 
 Brandon had seen how lonely Katie was sitting in Apartment A6 by herself five nights a week while I was stuck up in Ocean View. Two weeks ago, at the end of January—when the property manager slid the spring lease-renewal notice under the door of Apartment A6—Brandon had sat down with Katie, Dad, and me over Sunday lunch and made the gentlest, most reasonable pitch imaginable.
 
-Why keep paying rent on a studio apartment in West Ghent where Katie had to sit alone staring at Nate's empty half of the desk every night, Brandon had asked kindly, when Katie was ready to move into his ground-floor one-bedroom apartment at 224 Virginia Avenue in Williamsburg? His apartment was completely step-free on the first floor; it was only blocks away from the College of Charles & Anne and the Williamsburg Transportation Center, where the Colonial Triangle Transit Authority buses and the ARTS passenger train stopped every day; and Katie could transfer her general-education credits or commute by bus while never having to come home to an empty room again.
+Why keep paying rent on a studio apartment in West Ghent where Katie had to sit alone staring at Nate's empty half of the desk every night, Brandon had asked kindly, when Katie was ready to move into his ground-floor one-bedroom apartment at 224 Virginia Avenue in Williamsburg? His apartment was completely step-free on the first floor; it was only blocks away from the College of Charles & Anne and the Williamsburg Transportation Center, where the Colonial Triangle Transit Authority buses and the ARTS passenger train stopped every day; and Katie could work and commute by bus while never having to come home to an empty room again.
 
 Because Brandon had spent five patient months earning every ounce of our trust—and because Katie genuinely loved how attentive and gentle he was with her—Katie had said yes, and both Dad and I had given them our blessing.
 
@@ -2171,9 +2257,9 @@ Katie released her joystick brake, rolled her SwiftChair across the vacuumed car
 
 "You're quiet today, Nate," Katie said softly, her blue eyes searching mine the way they always did whenever I was holding something inside. "Are you okay with me moving up to Williamsburg?"
 
-"I want you to be happy, Katie," I said, my voice catching slightly as I squeezed her fingers. "I hated knowing you were sitting down here in A6 all by yourself every weeknight while I was up in Ocean View. Brandon has been so patient and good to you all autumn and winter, and I know you won't be lonely up there with him."
+"I want you to be happy, Katie," I said, my voice catching slightly as I squeezed her fingers. "I hated knowing you were sitting down here in A6 all by yourself every weeknight while I was up in Ocean View. Brandon has been so patient and good to you all autumn and winter, and I know you won't be lonely up there with him. Just... remember our pact, okay? Take things at your own pace, and don't let anyone rush you into anything you aren't ready for—especially anything that could get you pregnant or put your health at risk."
 
-"Williamsburg is just right up I-64 on the Peninsula," Katie said reassuringly, leaning across our armrests to hug me tight around the shoulders. "The Williamsburg Transportation Center is right down the street from Brandon's apartment on Virginia Avenue. CTTA buses run right from the station down to Lee Hall to connect with CVTA routes in Newport News, and we still have our phones and instant messaging every single day. Promise me you'll call me whenever Tiffany is at work so we can talk just the two of us?"
+"I remember, Nate, and I won't," Katie promised earnestly, squeezing my hands right back. "Brandon already knows I want to keep taking things slow even after we're sharing a bedroom, and he promised he's completely fine with just holding me and taking our time until we're settled. Besides, Williamsburg is just right up I-64 on the Peninsula. The Williamsburg Transportation Center is right down the street from Brandon's apartment on Virginia Avenue. CTTA buses run right from the station down to Lee Hall to connect with CVTA routes in Newport News, and we still have our phones and instant messaging every single day. Promise me you'll call me whenever Tiffany is at work so we can talk just the two of us?"
 
 "Twin's promise," I whispered against her hair, holding my sister close inside the studio apartment that had been our very first home as adults. "And if you ever need me for anything at all—day or night—you call me or come straight down to Ocean View, okay?"
 
