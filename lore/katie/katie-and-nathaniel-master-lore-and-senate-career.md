@@ -523,4 +523,165 @@ Following her **Tuesday, November 3, 2026** general election victory (having alr
 | **1. Virginia Beach City Council**<br>*(`Councilwoman Katie Prairie`, Non-Partisan)* | **`Kempsville District`**<br>*(`District 2` pre-2022 / `District 1` post-2022)* | • **Elected**: `Tuesday, Nov 2, 2010` *(Age 25 — 2.5 years after buying `741 Lord Nelson Dr` 50–50)* | **`Jan 1, 2011 – Jan 7, 2014`**<br>*(1 Term; steps up to House of Delegates)* | **Councilman Harold Dietz** (`2000s–2011`)<br>$\downarrow$<br>**Councilwoman Katie Prairie** (`2011–2014`)<br>$\downarrow$<br>**Councilwoman Amelia Thornton** (`2014–2022`) / **Councilman Marcus Vance** (`2023+`) |
 | **2. Virginia House of Delegates**<br>*(`Delegate Katie Prairie, D-Virginia Beach`)* | **`85th House District (`HD-85`)`**<br>*(Kempsville / Bellamy Manor / Brandon / Larkspur; renumbered `HD-96` / `HD-98` in `2024+`)* | • **Elected**: `Tuesday, Nov 5, 2013` *(Age 28)*<br>• **Re-Elected**: `Tuesday, Nov 3, 2015` *(Age 30)* | **`Jan 8, 2014 – Jan 10, 2018`**<br>*(2 Two-Year Terms; viral Jan 2016 `HB 663` speech)* | **Delegate Richard Tatum (`R-VB`)** (`2010–2014`)<br>$\downarrow$<br>**Delegate Katie Prairie (`D-VB`)** (`2014–2018`)<br>$\downarrow$<br>**Delegate Andre Askew (`D-VB`, `HD-85`)** (`2018–2024`) $\rightarrow$ **Delegate Clara Fowler (`D-VB`, `HD-96`)** (`2024+`) |
 | **3. Senate of Virginia**<br>*(`State Senator Katie Prairie, D-Virginia Beach`)* | **`7th Senate District (`SD-7`, `2020–2024`)`**<br>$\rightarrow$ Renumbered **`22nd Senate District (`SD-22`, `2024–2026`)`** | • **Elected**: `Tuesday, Nov 5, 2019` *(Age 34)*<br>• **Re-Elected**: `Tuesday, Nov 7, 2023` *(Age 38)* | **`Jan 8, 2020 – Dec 15, 2026`**<br>*(Formally resigns **Dec 15, 2026** under `Va. Const. Art. IV, § 4` dual-office ban)* | **State Senator Franklin Ward (`R-VB`, `SD-7`)** (`2000–2020`)<br>$\downarrow$<br>**State Senator Katie Prairie (`D-VB`, `SD-7` / `SD-22`)** (`2020–Dec 15, 2026`)<br>$\downarrow$<br>**State Senator Aaron Ross (`D-VB`, `SD-22`)** (`Jan 2027 Special Election+`) |
-| **4. United States Senate**<br>*(`U.S. Senator Katie Prairie, D-Virginia`)* | **`Class II United States Senate Seat — Commonwealth of Virginia`**<br>*(Serving alongside Class I Senior **U.S. Senator Thomas Keane, `D-Virginia`**)* | • **Primary Victory**: `Tuesday, June 16, 2026` *(Age 41)*<br>• **General Election**: `Tuesday, Nov 3, 2026` *(Projected Winner at `8:42 PM EST`; Certified `Dec 7, 2026`)* | **`Sworn in Sunday, Jan 3, 2027 – Jan 3, 2033+`**<br>*(120th United States Congress)* | **U.S. Senator Martin Warren (`D-Virginia`, Class II)** (`2009–Jan 3, 2027`)<br>$\downarrow$<br>**U.S. Senator Katie Prairie (`D-Virginia`, Class II)** (`Jan 3, 2027 – Present`) |
+| **4. United States Senate**<br>*(`U.S. Senator Katie Prairie, D-Virginia`)* | **`Class II United States Senate Seat — Commonwealth of Virginia`**<br>*(Serving alongside Class I Senior **U.S. Senator Thomas Keane, `D-Virginia`**)* | • **Primary Victory**: `Tuesday, June 16, 2026` *(Age 41)*<br>• **General Election**: `Tuesday, Nov 3, 2026` *(Projected Winner at `8:42 PM EST`; Certified `Dec 7, 2026`)* | **`Sworn in Sunday, Jan 3, 2027 – Jan 3, 2045`**<br>*(Three 6-Year Senate Terms: `120th–128th Congresses`, Ages 41–59)* | **U.S. Senator Martin Warren (`D-Virginia`, Class II)** (`2009–Jan 3, 2027`)<br>$\downarrow$<br>**U.S. Senator Katie Prairie (`D-Virginia`, Class II)** (`Jan 3, 2027 – Jan 3, 2045`) |
+
+---
+
+## 8. Extended 2010–2045+ Campaign, COVID-19, Statewide Transit Tour, Refusing the Presidency, & Post-Senate Undercover Transit Auditor Lore
+
+### A. The `TRAC` vs. `TDC` Pincer (`2010–2014`)
+- Before Katie ever takes office on the Virginia Beach City Council in January 2011, **Nate** wins an appointed citizen-rider seat on **`TRAC` (*CVTA Transit Riders Advisory Committee*)** in `2009–2010`.
+- When Katie joins the **Virginia Beach City Council (`Kempsville District`, `2011–2014`)**, she is appointed as a voting municipal commissioner on the **`TDC` (*Transit District Commission of Hampton Roads*, the governing board of `CVTA`)**.
+- Together, the twins execute a devastating **inside-outside pincer**: whenever `CVTA` executives claim at the `TDC` dais that wheelchair ramps are "99% reliable" or that `Route #12` or `Route #15` doesn't need evening frequency, Nate presents timestamped `TRAC` rider logs from the public podium while Councilwoman Prairie motions from the `TDC` dais to freeze executive bonuses until the broken hydraulic ramps and missed pull-outs are fixed.
+
+### B. COVID-19 Clean-Air & Non-Alcoholic Sobriety Protocols (`March 2020 – 2022+`)
+- **Non-Alcoholic Sanitization (`Jan 1, 2003 Sobriety Vow Compliance`)**: Because Katie and Nate maintain an absolute, lifelong zero-alcohol vow (refusing even denatured ethyl/isopropyl alcohol hand sanitizers on their wheelchair joysticks and push-rims), they carry **`non-alcoholic benzalkonium chloride (BZK) antiseptic wipes`** and **`hypochlorous acid (HOCl) spray bottles`** in their under-seat backpacks to sanitize bus stanchions, fareboxes, elevator buttons, and their `SwiftChair` joysticks.
+- **Respiratory & Clean-Air Gear**: They wear **`NIOSH-approved trifold N95 respirators`** fitted with **`airtight medical drinking valves`** so they can hydrate through straws on multi-hour `CVTA`, `JRTC`, and `ARTS` rides without breaking their mask seal, and Nate logs real-time ventilation data using a **`pocket NDIR CO2 monitor`** paired with a battery-powered **`portable personal HEPA air purifier`** clipped to their wheelchair armrests.
+- **August 2020 Special Session at the Central Virginia University (`CVU`) Student Commons Ballroom**: During the pandemic special session in Richmond, while the House of Delegates meets in the `CVU` Siegel athletic arena, the **Senate of Virginia** convenes inside the **`CVU Student Commons Ballroom`** on West Broad Street (`JRTC Route 6`), with each Senator's desk enclosed in a three-sided **`clear polycarbonate shield`**.
+
+### C. The 2026 Statewide Public-Transit Tour (`All 95 Counties & 38 Independent Cities — Zero Campaign Tour Buses`)
+- **Refusing the Diesel Campaign Tour Bus**: WhenKatie launches her 2026 U.S. Senate campaign, K Street consultants try to lease her a luxury **`Sainte-Claire`** (*real-life Prevost*) motorcoach wrapped with her face. Katie flatly refuses: *"If a rural county or an industrial corridor doesn't have public transit, or if the bus ramp doesn't work, then I need to experience that exact gap the same way my constituents do."*
+- **1. The Eastern Shore (`Accomack & Northampton Counties` via `ShoreLine Transit [SLT]`)**:
+  - Katie and Nate ride **`CVTA Route #15`** to `Military Highway`, transfer to **`ShoreLine Transit` (`SLT`** — *in-universe for `STAR Transit`*), and ride across the 17.6-mile **Chesapeake Bay Bridge-Tunnel (`CBBT`)** to **Cape Charles**, **Onley**, and **Accomac**, meeting poultry processing workers at **`Eastern Shore Poultry`** (*Perdue*) and championing dedicated federal funding for a permanent public-transit bus link across the `CBBT`.
+- **2. Southwest Virginia & The Coalfields (`Wise, Lee, Scott, Dickenson, Buchanan, Tazewell, & Russell Counties`)**:
+  - Katie and Nate ride **`ARTS` (*American Rail Transit Service*)** to **Roanoke (`RNK`)**, transfer to the **`Commonwealth Coach` (*Mountain Valley Line*** — *in-universe for `Virginia Breeze`* **)** to **Blacksburg (`CPI`)** and **Bristol**, and then board **`Mountain Empire Transit` (`MET` / `MountainGo!`** — *in-universe for `MEOC / METGo!`* **)** and **`Cumberland Coalfield Transit` (`CCT`** — *in-universe for `Four County Transit`* **)** cutaway buses with rear hydraulic **`Elevate-U` / Braun** wheelchair lifts through **Big Stone Gap** (**`Powell Valley Community College` [`PVCC`]**), **Norton**, **Wise** (**`Commonwealth College at Wise`**), **Clintwood**, and **Grundy**.
+  - At a town hall in **Big Stone Gap**, retired coal miners with black-lung oxygen tanks and retired rail workers roll up alongside Katie and Nate's `SwiftChair` powerchairs—realizing this Virginia Beach Senator isn't an elitist coastal tourist when she knows the exact hydraulic whine of a rural transit lift and fights for rural clinic transit and **`Appalachian Electric Grid` (`AEG`)** utility rate relief.
+- **3. Cumberland Gap National Historical Park With Dad (`David Prairie` & Frontier Ancestor `Silas Prairie`)**:
+  - At the westernmost tip of Virginia (`US-58` in **Lee County**), **David Prairie** meets Katie and Nate at **Cumberland Gap** (`Pinnacle Overlook`), where they trace their family name back to their 1775 frontier trailblazer and surveyor ancestor **`Silas Prairie`** (*fictionalized counterpart to Daniel Boone*)—connecting Silas Prairie's 1775 Wilderness Road mountain pass to Katie and Nate's 21st-century fight to keep every rail line, bus corridor, and sidewalk open for all Virginians.
+- **4. Homecoming at `Roosevelt Rehabilitation Center (RRC)` (`243 Roosevelt Avenue, Fishersville, VA`)**:
+  - Riding **`Shenandoah Valley Transit` (`SVT Route 250 Connector`** — *in-universe for `BRITE Bus`* **)** between **Staunton**, **Fishersville**, and **Waynesboro**, Katie and Nate return to **`Roosevelt Rehabilitation Center` (`RRC`)**, where they lived in the dorms from **`March 2007 – March 2008`** and mastered **`PHP`** in the **`Web Applications Developer` course**, speaking directly to current disabled vocational rehabilitation students.
+- **5. The `3400 Victoria Boulevard` (`Hampton`) Jammed Wheelchair Ramp on `CVTA Route #103`**:
+  - On the Virginia Peninsula (`Newport News / Hampton`), while riding **`CVTA Route #103`** along **Victoria Boulevard** past the **`Peninsula Shipbuilding & Drydock` (*Newport News Shipyard*)** corridor, the bus's front flip-out ramp jams in the rain at **`3400 Victoria Boulevard`**. Rather than calling a campaign car, Katie and Nate wait in the rain with the operator and fellow shipyard/hospital riders until a road supervisor arrives—turning the livestreamed breakdown into the signature moment of her **Federal Transit Preventative Maintenance & Fleet Spare-Ratio Act**.
+- **6. The October 2026 `WHRC TV-15` U.S. Senate Debate & The `8:24 PM` Three-Bus Sprint Home**:
+  - Republican nominee **Richard Sterling** (*real-life Bert Mizusawa*) demands last-minute studio rule changes and boycotts the live October 2026 U.S. Senate debate at the **`WHRC TV-15` (*Hampton Roads Public Television*)** studios on **Hampton Boulevard** in Norfolk (adjacent to **`VDU`**).
+  - For sixty minutes (`7:00 PM – 8:00 PM`), Katie stands—seated in her `SwiftChair` next to an empty podium—fielding every question from moderator **Catherine Lindsey** (*Cathy Lewis*) with surgical policy mastery.
+  - The moment the studio cameras cut at `8:00 PM`, Katie and Nate decline all press-scrum small talk and sprint out the studio doors to the **Hampton Boulevard** curb to catch the **`8:24 PM CVTA Route #2`** southbound, transferring at **`Military Highway Station`** to **`Route #20`**, and making the tight **`9:45 PM`** transfer at **`Military Highway & Virginia Beach Boulevard`** onto the **last outbound `CVTA Route #15`** so they aren't stranded overnight away from their Kempsville home!
+
+### D. The Fictional `Restore the Republic (RTR)` Executive Administration (`2025–2029`)
+- In `books/katie`, the hostile federal executive branch during Katie's 2026 campaign and first Senate years (`2027–2029`) is led by:
+  - **`President Garrett Thorne`** (*counterpart to Donald Trump*, former billionaire real-estate/casino mogul and head of *Thorne Global Holdings*, leading the **`Restore the Republic` [`RTR` / *"The Restoration"*]** movement).
+  - **`Vice President Julian Cross`** (*counterpart to JD Vance*).
+  - **`Defense Secretary Peter Hagan`** (*counterpart to Pete Hegseth*), whom Senator Prairie grills mercilessly in the **Senate Armed Services Committee (`SASC`)** over military housing accessibility, Shipyard worker pay, and unauthorized commercial chat leaks.
+  - **`The Apex Efficiency Commission`** (*counterpart to DOGE*), whose attempts to purge federal civil-service engineers and gut Social Security/VA/FTA field offices are systematically dismantled by Katie and Nate's statutory firewall amendments.
+
+### E. Three Senate Terms (`2027–2045`), Refusing the 2043 Presidential Nomination at `Military Hwy & Providence Rd`, & Post-Senate Undercover Transit Auditing (`2045+`)
+1. **Three Terms in the United States Senate (`Jan 3, 2027 – Jan 3, 2045`, Ages 41–59)**:
+   - Re-elected overwhelmingly in **2032** and **2038**, Senator Katie Prairie serves **eighteen years** (three full six-year terms) in the United States Senate, rising to chair the **Senate Banking, Housing, and Urban Affairs Subcommittee on Public Transit** and authoring landmark federal laws on universal public transit operations funding, wheelchair Right-to-Repair, SSI/Medicaid Marriage Equality, and mandatory Section 508 source-code audits.
+2. **Autumn 2043 (Age 58) — Refusing the Democratic Nomination for President of the United States at the `Military Highway & Providence Road` Bus Stop (`CVTA Route #15`)**:
+   - Ahead of the **2044 Presidential Election**, a delegation of national party leaders, governors, and Senate colleagues travels to Virginia Beach to beg Senator Katie Prairie to accept a draft as the **2044 Democratic Nominee for President of the United States**, presenting polling showing she would win the White House in a landslide.
+   - Katie refuses to meet them in a hotel ballroom or a D.C. townhouse. Instead, she and Nate meet the delegation at the concrete bus shelter at **`Military Highway & Providence Road`** along **`CVTA Route #15`** in Kempsville.
+   - When the party chairs tell her she is turning down the most powerful office on earth, 58-year-old Katie points to the approaching low-floor **`Stalwart`** bus on **`Route #15`** and delivers her definitive refusal:
+     - **Why She Refuses the Presidency (*The "Rolling Prison" Rule*)**: Under federal law and **United States Secret Service (`USSS`)** protective mandates, the moment you become a major-party presidential nominee or President of the United States, **you are permanently forbidden from ever riding a public city bus, waiting at a neighborhood bus stop, or traveling unannounced in public for the rest of your life**—sealed forever inside an armored motorcade ("The Beast") with a sixteen-car police sweep that shuts down every street you touch.
+     - **Katie's Choice**: *"If I become President of the United States, the Secret Service will lock Nate and me inside an armored SUV for the rest of our lives and never let us board Route 15 again. I didn't spend thirty-five years fighting for public transit just to be banned from riding the bus with my brother. Keep your motorcade—our bus is here."*
+3. **January 3, 2045+ (Age 59+) — Retiring From the Senate to Become Undercover Federal `DOJ` / `FTA` Public-Transit Accessibility Auditors**:
+   - Declining to seek a fourth Senate term in 2044, Katie retires from the United States Senate on **January 3, 2045** at age 59.
+   - Rather than taking a seven-figure K Street lobbying job or corporate board seat, Katie and Nate accept unpaid/nominal-fee special-deputized credentials with the **U.S. Department of Justice (`DOJ`) Civil Rights Division (`Disability Rights Section`)** and the **Federal Transit Administration (`FTA`) Office of Civil Rights**.
+   - **Their Post-Senate Mission (`2045+`)**: Leaving the television cameras behind, sixty-year-old Katie and Nate travel unannounced across America's transit systems in their power wheelchairs as ordinary anonymous bus and rail passengers—testing whether transit agencies actually deploy their wheelchair ramps, call out automated cross-street announcements, maintain working station elevators, and honor `SafeLock` securement rules when they think nobody important is watching.
+
+---
+
+## 9. Copy-Pasteable In-Universe Translation Dictionary & Canon Prompt Block (For Using Gemini on the Web Away From Your Mac)
+
+> **HOW TO USE**: Copy the fenced block below and paste it at the start of any chat session on **Gemini on the Web** so it automatically outputs 100% copyright-safe, canonical RaggieSoft / Ocean View Archives names for `books/katie`.
+
+```markdown
+# SYSTEM DIRECTIVE FOR GEMINI ON THE WEB: `books/katie` (*Bonded by Limitations: The Story of Katie and Nathaniel*)
+You are co-writing and brainstorming for the Ocean View Archives literary novel series *Bonded by Limitations: The Story of Katie and Nathaniel* (`books/katie`), narrated in First-Person Past-Tense Novel POV ("I") by fraternal twin brother **Nathaniel "Nate" Prairie** alongside his twin sister **Katie Prairie** (born April 8, 1985; Dad is **David Prairie**; developmentally disabled older cousin **Chelsea**, daughter of **Aunt Elizabeth / Aunt Liz**, lives in **Newport, Rhode Island**).
+
+## 1. STRICT LITERARY & FORMATTING RULES
+1. **No Real-World Trademarks, Famous Brands, Media Networks, or Politician Names**: ALWAYS use the canonical In-Universe names in the Translation Dictionary below.
+2. **No Bolding (`**...**`) or Code Backticks (`` `...` ``) in Narrative Prose**: Never bold character names, bus routes, schools, or dialogue words in story prose, and never wrap times (`8:24 PM`), bus numbers (`Route 15`), or acronyms (`(CVTA)`, `(JRTC)`) in backticks inside narrative paragraphs.
+3. **No Bullet Lists in Narrative Prose & Open *In Media Res***: Dramatize all story scenes through live dialogue and physical action. Never open a chapter with a "Dear Diary" calendar recap or a "Crystal Ball" spoiler teaser ("Little did we know this speech would go viral...").
+4. **Lifelong Non-Alcoholic Sobriety Rule (Jan 1, 2003)**: Katie and Nate never drink alcohol, never attend champagne toasts (sparkling apple cider or ginger ale only), and during COVID-19 use **non-alcoholic benzalkonium chloride (BZK) wipes** and **hypochlorous acid (HOCl) spray** rather than alcohol-based hand sanitizer.
+5. **No Driving / 100% Public Transit**: Neither Katie nor Nate can drive due to medical restrictions. They pay their regular fare and ride public transit everywhere (`CVTA`, `JRTC`, `CTTA`, `Capital Transit`, `BOLT`, `ARTS`, `DRE`, `ShoreLine Transit`, `MountainGo!`, `Cumberland Coalfield Transit`, `Shenandoah Valley Transit`).
+
+## 2. CANONICAL ADDRESSES & TIMELINE ANCHORS
+- **Birth – Summer 2001**: Virginia Beach (`Delaney Street` from 1992–2001, three doors down from the Ragsdale family in `books/rachel`; zoned for **Northwood Elementary** -> **Morrison Middle School** [learned HTML in 7th grade in 1997, inspiring Dad David Prairie to enroll at **CCHR**] -> **Northwood High School**).
+- **Summer 2001 – Summer 2003**: Single-story brick ranch off **Military Highway & Indian River Road**, Virginia Beach with Dad after parents' August 2001 divorce. Legs give out on the **3rd Friday of Sept 2001** (11th grade); transition to full-time **SwiftChair** power wheelchairs; graduate **Northwood High School** in **June 2003**. (Dad remains at this Virginia Beach house until **March 2007**).
+- **Summer 2003 – Summer 2004 (Age 18–19)**: First apartment together in **West Ghent, Norfolk**.
+- **Summer 2004 – Nov 12, 2005 (Age 19–20, Toxic Separation)**: Katie is isolated in **Williamsburg** (near the **College of Charles & Anne [C&A]**) by **Brandon Mercer**; Nate is isolated at **233 W. Ocean View Ave, Apt. #3, Norfolk** by **Tiffany Sloan**. On **Saturday, Nov 12, 2005 (4:00 PM – 8:20 PM)**, Katie escapes Williamsburg to West Ocean View across 5 buses (`CTTA Grey Line` -> `CVTA #116` -> Crown Burger break -> `CVTA #107` -> `CVTA #61` -> `CVTA #1` to `Duffy's Lane`), and they kick Tiffany out the next morning.
+- **Nov 2005 – March 2007 (Age 20–21)**: Reunited twin sanctuary at **West Ocean View Ave, Norfolk** until the lease expires in **March 2007**.
+- **March 2007 – March 2008 (Age 21–22)**: Dad lands an IT job in Tysons Corner and moves to a two-story brick house on **"Sunset Drive" in Alexandria, VA** (immediately west of the King Street railroad underpass next to `King St–Old Town` Metro and `ALX` station). While sharing Dad's Alexandria permanent address, Katie and Nate live in the residential dorms at **Roosevelt Rehabilitation Center (RRC)** on **Roosevelt Avenue in Fishersville, VA** and complete the **Web Applications Developer course** (`PHP`).
+- **March 2008 – Present (Age 22/23+)**: Katie and Nate return to Virginia Beach and buy their single-story home **50–50 together in the Kempsville section of Virginia Beach** (`Lord Nelson Drive`, served by `CVTA Routes #12 & #15`). Note: **"Sunset Drive" is strictly Dad's house in Alexandria, VA—never in Kempsville.**
+- **Richmond Winter Session Apartment (2014–2026)**: **Broad & Boulevard Lofts, Apartment 104**, West Broad Street, Richmond, VA (served by `JRTC Route 6`).
+- **Katie's Political Career**:
+  1. **Virginia Beach City Council (`Kempsville District`)**: `Jan 2011 – Jan 2014` (plus `TDC` Commissioner while Nate serves on `TRAC`).
+  2. **Virginia House of Delegates (`85th House District`, D-Virginia Beach)**: `Jan 2014 – Jan 2018` (2 terms).
+  3. **Senate of Virginia (`7th Senate District`, renumbered `22nd Senate District`, D-Virginia Beach)**: `Jan 2020 – Dec 15, 2026` (swears Oath of Office on the **Constitution of Virginia** under Article II, Section 7 instead of a Bible).
+  4. **United States Senate (`Class II Seat`, D-Virginia)**: Elected `Nov 3, 2026`; serves 3 terms (`Jan 3, 2027 – Jan 3, 2045`). Sleeps at Dad's 100% paid-off Alexandria house on **Sunset Drive** (equipped with an interior through-floor wheelchair lift) and commutes via **Capital Transit Yellow/Blue Line** to `Capitol South`.
+  5. **Autumn 2043 & Jan 2045+**: Refuses the 2044 Democratic Presidential nomination at the `Military Hwy & Providence Rd` (`CVTA Route #15`) bus stop because Secret Service rules would ban her and Nate from ever riding public transit again; retires from the Senate in **Jan 2045** to become an undercover **DOJ / FTA transit accessibility auditor**.
+
+## 3. MASTER REAL-WORLD -> IN-UNIVERSE TRANSLATION DICTIONARY
+### A. Transit Agencies, Buses, & Rail
+- **Amtrak / Amtrak Virginia** -> **ARTS (*American Rail Transit Service*)**
+- **CSX / RF&P / Buckingham Branch** -> **Atlantic & Chesapeake Rail (`A&C Rail`)** / **Commonwealth Mountain Branch**
+- **HRT (*Hampton Roads Transit*) & The Tide Light Rail** -> **CVTA (*Coastal Virginia Transit Authority*)** & **The Surge**
+- **HRT Transit Riders Advisory Committee (`TRAC`)** -> **CVTA Transit Riders Advisory Committee (`TRAC`)**
+- **WATA (*Williamsburg Area Transit Authority*)** -> **CTTA (*Colonial Triangle Transit Authority*)** (or **WCTA**)
+- **GRTC (*Greater Richmond Transit Company* / *GRTC Pulse*)** -> **JRTC (*James River Transit Company* / *JRTC Transit System* / *JRTC Broad Street Rapid*)**
+- **JRTC Automated Bus Announcements**:
+  - Door-open greeting (spoken once): *"Route [Number]. [Fictional Destination, e.g., Oak Lawn / Eastgate Mall / Downtown Transfer Plaza]. Welcome aboard JRTC!"*
+  - Exterior warnings: *"Caution! Bus is turning [right / left]. Pedestrians, look both ways!"* / *"Caution: Bus is kneeling!"* / *"Caution: lift is deploying!"* / *"Caution: lift is stowing!"*
+  - Interior street calls: Announces every cross street (both streets right after completing a turn; just the cross street when going straight).
+- **WMATA (*Metrobus & Metrorail* / *SmarTrip*)** -> **Capital Transit** (`CapitalPass` / `CapCard`)
+- **DASH (*Alexandria Transit*) / VRE (*Virginia Railway Express*)** -> **BOLT** / **DRE (*Dominion Railway Express*)**
+- **Blacksburg Transit (`BT`) / Valley Metro (`Roanoke`) / Smart Way** -> **Blue Ridge Transit (`BRT`)** / **Roanoke Valley Transit (`RVT`)** / **The Roanoke Express**
+- **Virginia Breeze (Intercity Bus)** -> **Commonwealth Coach (*Mountain Valley Line*)**
+- **STAR Transit (Eastern Shore of VA)** -> **ShoreLine Transit (`SLT`)**
+- **MEOC / METGo! Transit (Wise, Lee, Scott Counties)** -> **Mountain Empire Transit (`MET` / `MountainGo!`)**
+- **Four County Transit (`FCT`, Buchanan, Dickenson, Russell, Tazewell)** -> **Cumberland Coalfield Transit (`CCT`)**
+- **BRITE Bus (`Route 250 Connector`, Staunton/Fishersville/Waynesboro)** -> **Shenandoah Valley Transit (`SVT Route 250 Connector`)**
+- **ATU Local 1177 (Transit Union)** -> **Transit Workers Union Local 1177 (`TWU Local 1177`)**
+- **Gillig (`Gillig Low Floor` / `Gillig Advantage`)** -> **Stalwart (`Stalwart Low-Floor` / `Stalwart Advantage`)**
+- **New Flyer** -> **Prairie Coachworks** *(built in Minnesota; no relation to the Prairie family)*
+- **Orion (`Orion V`) / Flxible (`Flxible Metro`) / Chance Opus** -> **Beacon Bus Industries (`Beacon V`)** / **MetroCoach (`MetroCoach Classic`)** / **Gamble Aria**
+- **Prevost / MCI (Motorcoaches)** -> **Sainte-Claire** / **Atlas Motorcoach**
+
+### B. Wheelchairs, Securement, Medical, & Vehicles
+- **Quickie (Sunrise Medical)** -> **SwiftChair**
+- **TiLite** -> **ApexLite**
+- **Q'Straint (4-point bus wheelchair tie-downs)** -> **SafeLock (`four-point floor tie-down straps`)**
+- **Lift-U (bus/Capitol stairwell hydraulic wheelchair lifts)** -> **Elevate-U**
+- **3M Aura N95 / SIP Valve / Aranet4 / Plexiglas** -> **NIOSH-approved trifold N95 respirator** / **airtight medical drinking valve** / **pocket NDIR CO2 monitor** / **polycarbonate shield**
+- **Pfizer / Moderna** -> **mRNA COVID-19 vaccine**
+- **Dodge Grand Caravan / Ford / Toyota Avalon / Chevrolet Tahoe / Lexus** -> **Holt Voyager ramp-van (`Holt Wayfarer`)** / **Holt** / **Horizon Avalon** / **full-size agency SUV** / **luxury sedan**
+
+### C. Tech, Software, & Campaign Platforms
+- **Microsoft / Windows / Visual Basic 6.0** -> **Quantum Corporation** / **Quantum OS** / **Quantum Basic 6.0**
+- **Visual Studio 2026 / Visual Studio Code (`VS Code`)** -> **Quantum Studio 2026** / **Quantum Code (`QCode`)**
+- **PowerPoint / Excel / Word** -> **Quantum Presenter** / **Quantum Grid** / **Quantum Write**
+- **Apple / macOS / MacBook Pro / iPhone / iPad / AirDrop** -> **MagnaByte** / **MagnaOS** / **MagnaBook Pro** / **mPhone** / **MagnaPad (`mPad`)** / **MagnaDrop**
+- **macOS VoiceOver / JAWS Screen Reader** -> **MagnaVoice** / **OmniReader**
+- **Google / YouTube / Facebook / Twitter / Slack / Zoom / Webex** -> **OmniSearch** / **StreamCast (`VidGrid`)** / **The Grid** / **Chirp** / **Relay** / **OmniMeet** / **TeleGrid**
+- **ActBlue / Stripe / Cloudflare / NGP VAN (`VAN`)** -> **CivicPulse** / **Meridian Pay** / **Aegis Cloud** / **VoterGrid**
+- **Visa / Mastercard / Amex** -> **Meridian**
+
+### D. Schools, Universities, Hospitals, Malls, & Landmarks
+- **Tallwood Elementary / Brandon Middle / Tallwood High (Virginia Beach)** -> **Northwood Elementary** / **Morrison Middle School** / **Northwood High School**
+- **Kempsville Recreation Center (Virginia Beach)** -> **Fairlawn Recreation Center (Marlborough Drive off Princess Anne Road, Virginia Beach)**
+- **Tidewater Community College (`TCC`)** -> **Community College of Hampton Roads (`CCHR`)**
+- **Old Dominion University (`ODU`, Norfolk)** -> **Virginia Dominion University (`VDU`, *The Admirals*)**
+- **College of William & Mary (`W&M`, Williamsburg)** -> **College of Charles & Anne (`C&A`)**
+- **Virginia Tech (Blacksburg)** -> **Commonwealth Polytechnic Institute (`CPI`, *The Forgers*, *Ironstone*, *Commonwealth Green*, *Kincaid Student Center*)**
+- **Virginia Commonwealth University (`VCU`, Richmond)** -> **Central Virginia University (`CVU`)**
+- **Norfolk State University / Hampton University** -> **Elizabeth River State University (`ERSU`)** / **Chesapeake Bay University (`CBU`)**
+- **Mountain Empire Community College (`MECC`) / UVA Wise** -> **Powell Valley Community College (`PVCC`)** / **Commonwealth College at Wise**
+- **Woodrow Wilson Rehabilitation Center (`WWRC`, Fishersville, VA)** -> **Roosevelt Rehabilitation Center (`RRC`, `243 Roosevelt Avenue, Fishersville, VA`)**
+- **Sentara Healthcare / Ballad Health** -> **Tidewater Health (*Norfolk General Hospital*, *Leigh Memorial Hospital*)** / **Appalachian Mountain Health**
+- **Newport News Shipbuilding (`Huntington Ingalls`)** -> **Peninsula Shipbuilding & Drydock (*Newport News Shipyard*)**
+- **Appalachian Power (`APCO`) / Dominion Energy** -> **Appalachian Electric Grid (`AEG`)** / **Commonwealth Power**
+- **Greenbrier Mall / Lynnhaven Mall / Military Circle Mall / Chesapeake Square / Patrick Henry Mall / Willow Lawn (Richmond)** -> **Emerald Creek Mall** / **Chesapeake Bay Mall** / **Glenrock Mall** / **Tidewater Square** / **Peninsula Commons Mall** / **Oak Lawn (`Market Square` grocery)**
+- **Burger King / Hardee's / Wendy's / Five Guys / McDonald's / Cracker Barrel / Walmart / Food Lion / Perdue / Cavalier Hotel** -> **Crown Burger** / **Harrison's** / **Penny's** / **Six Brothers** / **Rocket Burger** / **Hickory Barrel** / **ValueMart** / **Market Square** / **Eastern Shore Poultry** / **The Atlantic Grand Hotel**
+- **Kings Dominion / Busch Gardens Williamsburg / Smithsonian** -> **Old Dominion Adventure Park (*"Old Dominion Park"*)** / **Brewster Gardens** / **The Finch Endowment (*Finch Air & Space Museum*)**
+- **Daniel Boone (1775 Cumberland Gap)** -> **Silas Prairie (*1775 Wilderness Road frontier trailblazer & surveyor*)**
+
+### E. Media Networks & Political Counterparts
+- **CNN / MSNBC (`MS NOW`) / Fox News / CBS-NBC-ABC / *Meet the Press*** -> **GNN (*Global News Network*)** / **CSN (*Civic Spectrum Network*)** / **Beacon News** / **GBS (*Global Broadcasting System*)** / ***Meet the Nation***
+- **Associated Press (`AP`) / C-SPAN / *The Washington Post* / *The Virginian-Pilot*** -> **Associated Wire** / **Capitol Network (`C-NET`)** / ***The Potomac Post*** / ***The Tidewater Pilot***
+- **WAVY-TV 10 / WTKR 3 / WVEC 13 / WHRO TV-15 & WHRV 89.5 FM / WNIS AM 790** -> **WCVB-TV 10 (*Coastal News 10*)** / **WTID-TV 3** / **WVHR-TV 13** / **WHRC TV-15 & WHRC 89.5 FM (*Tidewater Forum* with Catherine Lindsey)** / **WTGA 790 AM (*Tidewater Talk 790*)**
+- **Meyera Oberndorf / Ronald Villanueva / Frank Wagner / Scott Taylor / Mark Cole / Bob Marshall** -> **Mayor Evelyn H. Oberlin** / **Delegate Ronald Villa (`R-21st`)** / **State Senator Franklin Ward (`R-7th`)** / **Scott Tanner** / **Delegate Martin Cobb** / **Delegate Robert Marsh**
+- **Terry McAuliffe / Ralph Northam / Glenn Youngkin / Amanda Chase** -> **Gov. Terence McAllister** / **Gov. Randolph Norton** / **Gov. Grant Yancey** / **State Senator Miranda Cross**
+- **Tim Kaine / Mark Warner / Bert Mizusawa** -> **U.S. Senator Thomas Keane (`D-VA`, Class I)** / **U.S. Senator Martin Warren (`D-VA`, Class II)** / **Richard Sterling (`R`, 2026 Senate nominee)**
+- **Donald Trump / JD Vance / Pete Hegseth / DOGE / MAGA** -> **President Garrett Thorne (*Thorne Global Holdings*)** / **Vice President Julian Cross** / **Defense Secretary Peter Hagan** / **Apex Efficiency Commission** / **Restore the Republic (`RTR` / *"The Restoration"*)**
+```
+
