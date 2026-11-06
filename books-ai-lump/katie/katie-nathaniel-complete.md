@@ -1889,11 +1889,57 @@ A huge wave of relief and excitement washed through my chest. Having a girl like
 
 "Then you should call her tonight and tell her yes," Katie beamed, resting her head briefly against my shoulder the way we always did when everything in our world was right. "Everything is going to be great, Nate."
 
+### Part 3: Tiffany's Pitch for Our Own Place in Ocean View & The Promise of Brother-and-Sister Weekends
+
+**Date:** 2004-08-14 at 14:30 America/New_York
+
+#### Saturday, August 14, 2004, 2:30 PM — "Just One Route 1 Bus Ride Up Granby Street"
+
+"Look at the floor plan in this rental brochure my mom picked up for us yesterday, Nate," nineteen-year-old Tiffany Sloan said warmly on a sunny Saturday afternoon in mid-August, spreading a folded one-page apartment flyer across the corner of our computer workstation desk inside Apartment A6 on Greenway Court while handing Katie and me two cold cans of orange soda from our dorm fridge. "It's a ground-floor one-bedroom apartment right by the beach at a quiet courtyard complex called Sea Breeze West on West Ocean View Avenue."
+
+Sitting side by side in our compact SwiftChair power wheelchairs at the workstation desk, Katie and I looked down at the printed flyer together.
+
+Three months had passed since that Friday afternoon in May when Tiffany had caught the falling CSS manual for me at Chapters & Co. inside The Admiral Center, and through the entire summer of 2004, Tiffany had been everything a nineteen-year-old guy who had never had a real girlfriend could have hoped for. Every weekend she had come over to Apartment A6 to watch movies, eat pizza with cold ginger ale or fruit juice, and sit between our wheelchairs while I worked on HTML templates. Whenever our dad David had driven down from Northern Virginia to take us out to dinner, Tiffany had been polite and respectful, and she had never once complained about how close Katie and I were.
+
+Now, with the fall semester at the Community College of Hampton Roads approaching at the end of August, Tiffany rested her hand affectionately on my shoulder and looked from my face to Katie's with a gentle, understanding smile behind her black-rimmed glasses.
+
+"I love coming over here to visit you two in West Ghent," Tiffany said softly, "and I know how special this studio has been for the two of you since you turned eighteen. But let's be honest—Apartment A6 is a single-room studio with one full-sized bed and no bedroom walls. Now that Nate and I have been dating all summer and getting serious, it's really hard for a boyfriend and girlfriend to have any normal couple privacy in a studio apartment with three people in one room, and my mom keeps hounding me at home about when I'm going to get my own apartment."
+
+I looked across my armrest at Katie. For nineteen years—from our cribs in Virginia Beach to the house on Delaney Street, through the Friday afternoon at Northwood High School when our legs gave out within three hours of each other, and through every night since April eighth zipped inside our shared sleeping bag on the carpeted floor of the square walk-in closet four feet behind us—Katie and I had never once lived under separate roofs.
+
+Seeing the hesitation tighten around my eyes and Katie's, Tiffany immediately knelt down on the carpet between our two wheelchairs, just like she had done on her very first Saturday afternoon in Apartment A6, and took one of Katie's hands and one of mine.
+
+"Hey—look at me, both of you," Tiffany said in her sweetest, most reassuring voice. "Nobody is talking about separating the two of you or breaking up your routine. Do you know why my mom and I picked Sea Breeze West on West Ocean View Avenue instead of looking over in Portsmouth or Chesapeake? Look at the bus stop right down at the corner of West Ocean View Avenue and Duffy's Lane."
+
+Tiffany tapped her fingernail against the hand-drawn map at the bottom of the rental flyer.
+
+"It's right on CVTA Route 1 and Route 3," Tiffany beamed. "That's a single, direct one-seat bus ride straight down Granby Street and Princess Anne Road to right here in West Ghent! No transfers, no bridges, and no tunnels—just thirty-five minutes on the bus. Katie gets to have all of Apartment A6 to herself without two other people crowding her kitchenette and bathroom, Nate and I get a real one-bedroom apartment with a big green living-room sofa right by the front windows, and you two still take your classes together at CCHR during the week."
+
+"What about weekends?" Katie asked quietly, looking straight into Tiffany's eyes behind her glasses. "Nate and I have spent every weekend together our whole lives."
+
+"And you're still going to!" Tiffany promised without a second's hesitation, squeezing Katie's fingers warmly. "That's the best part of having a real living room with a big three-cushion green sofa at Sea Breeze West! Whenever you two want a Brother-and-Sister Weekend—just the two of you hanging out, coding on Nate's computer, and eating pizza all weekend long—Katie can hop right on the Route 1 bus on Friday or Saturday, roll straight into Apartment 3, and sleep right on the green sofa! You two won't miss a single beat."
+
+Across our armrests, Katie looked at me.
+
+I could see that my twin sister was going to miss having me right beside her every night in Apartment A6 just as much as I was going to miss her. Yet because Tiffany was smiling so warmly, holding both of our hands on the carpet, and promising up and down that West Ocean View was only one Route 1 bus ride away and that our Brother-and-Sister Weekends would always be sacred, Katie didn't want to stand in the way of me having my first real adult relationship.
+
+"Thirty-five minutes on Route 1 really isn't far at all, Nate," Katie said bravely, offering me the same supportive smile she had given me back in May. "And since Dad already paid the lease here on Apartment A6 through next spring while your disability check and Tiffany's job cover the rent up at Sea Breeze West, we'll see each other at CCHR during the week and have our Brother-and-Sister Weekends in Ocean View."
+
+"Are you sure you'll be okay here in A6 by yourself at night, Katie?" I asked, my throat tightening slightly as I glanced toward our square walk-in closet. "Michael and Ashley are right across the hall in A5 if you ever need anything, and you can call my flip phone anytime day or night."
+
+"I'll be fine, Nate," Katie said, leaning across our armrests to hug me tight. "You found a girlfriend who understands how close we are and already planned out the bus route so we can spend weekends together. Go sign the lease—and next month in September, as soon as you two get your boxes unpacked, I'm riding the Route 1 bus up to Ocean View Station for our very first Brother-and-Sister Weekend."
+
+"It's a date!" Tiffany chirped, hugging both of us around the shoulders. "Wait until you see the green sofa, Katie—you're going to love it!"
+
+Two weeks later, at the end of August 2004, Dad drove down from Northern Virginia with his SUV to help load my desktop tower PC, my seventeen-inch CRT monitor, and my clothes up to Apartment 3 on the ground floor of the white-painted courtyard building at Sea Breeze West on West Ocean View Avenue, while setting up a second desktop computer for Katie at the workstation desk in Apartment A6 so we could message each other every evening.
+
+When Dad and I rolled out the keyed glass front door of the Greenway Court building that afternoon, Katie smiled and waved to me from the lobby window in her compact SwiftChair, holding up two crossed fingers—our lifelong twin signal for *see you soon*—as we counted down the days until our first Brother-and-Sister Weekend in September.
+
 # West Ocean View, Ideas for CVTA, & From City Council to the Senate of Virginia
 
-## My Brother Only & The Speak Now Vow
+## Ocean View Station, Speak Now or Forever Hold Your Peace, & Katie's Move to Williamsburg
 
-### Ocean View Station, The Green Sofa Confrontation, & Speak Now or Forever Hold Your Peace
+### Part 1: Ocean View Station, The Green Sofa Confrontation, & Speak Now or Forever Hold Your Peace
 
 **Date:** 2004-09-18 at 19:30 America/New_York
 
@@ -1984,6 +2030,160 @@ Katie saw my shoulders trembling and read my silence before I could even form a 
 She paused for a long breath, letting the distant rumble of a Route 1 bus rolling down West Ocean View Avenue pass behind us before she plunged on.
 
 "To tell you the truth, Nate, I do not approve of Tiffany," Katie said quietly. "I do not like her, and I will never like her. She will never earn my respect, and I really want you to leave her. You're not happy, and you need to get rid of her. Whenever you're ready to see that—no matter how long it takes or how bad it gets—I'm right here."
+
+### Part 2: Riding Route 1 Back to West Ghent, Meeting Brandon Mercer at The Admiral Center, & Taking Things Slow
+
+**Date:** 2004-09-19 at 13:15 America/New_York
+
+#### Sunday, September 19, 2004, 1:15 PM — The Empty Half of Apartment A6 & Rolling Over to The Admiral Center
+
+"I haven't slept that badly since the hospital in eleventh grade," I muttered to myself at one-fifteen on Sunday afternoon as the hydraulic ramp of the southbound CVTA Route 1 bus folded down onto the curb in West Ghent and I rolled my compact SwiftChair down the shaded brick sidewalk toward the two-story red-brick apartment building on Greenway Court.
+
+My stomach had been tied in a sick, heavy knot ever since eight-fifteen the night before, when Katie had refused to step another foot inside Apartment 3 at Sea Breeze West after Tiffany's screaming outburst by the green sofa and had ridden the Saturday night Route 1 bus all the way back down Granby Street to Greenway Court by herself. All night long, lying awake on the sagging mattress in West Ocean View while Tiffany snored beside me, one sentence Katie had spoken under the courtyard streetlamp had echoed inside my skull:
+
+*I'm your sister, Nate. You shouldn't be snapping at me like that. Your own twin sister.*
+
+The moment Tiffany left at noon on Sunday to go spend the afternoon at her mother Sandra's house, I had rolled straight down to Ocean View Station and caught the twelve-thirty southbound Route 1 bus. I didn't care if Tiffany got annoyed when she found out I had gone to West Ghent; I couldn't go another hour without looking my twin sister in the eye, apologizing for snapping at her, and making sure she knew I loved her.
+
+Because I still kept my brass Greenway Court keys on my keyring, I unlocked the building's 24/7 keyed glass-and-aluminum front door, rolled up Dave's nonslip aluminum ramp over the three lobby steps, and wheeled down the quiet first-floor hallway to Apartment A6 on the back right side of the building.
+
+I knocked twice on the wooden door. "Katie? It's Nate."
+
+When no one answered from inside, I used my spare key to unlock the deadbolt and pushed the door open.
+
+Rolling three feet across the threshold into Apartment A6 stopped me cold.
+
+For sixteen months, from the day after our eighteenth birthday until three weeks ago at the end of August, this rectangular studio had been *ours*. Now, looking around the spotless room in the quiet Sunday afternoon light filtering through the white mini-blinds above the through-wall air conditioner, the silence felt almost unbearable. The right half of our long computer workstation desk—where my desktop tower and seventeen-inch CRT monitor had sat right beside Katie's—was completely bare except for a neatly coiled ethernet cable. Across the room, the door to our square walk-in closet stood halfway open, and on the vacuumed carpet inside, our navy-blue sleeping bag was folded into a neat square with only a single pillow resting on top of it.
+
+A lump rose in my throat as I realized Katie had come home from Ocean View in tears the night before and had slept in that closet completely alone.
+
+Rolling over to her workstation desk, I spotted a yellow sticky note stuck to the bottom bezel of her monitor in Katie's neat handwriting:
+
+*12:45 PM — Rolled over to the bakery café at The Admiral Center for a cup of hot chocolate and fresh air. Back by 2:30! — Katie*
+
+I locked the door of Apartment A6 behind me, rolled back out the front entrance of the Greenway Court building, and set my SwiftChair speed dial to a brisk four miles per hour down the sidewalk toward Twenty-First Street.
+
+***
+
+#### Sunday, September 19, 2004, 1:40 PM — Brandon Mercer Presents Himself as a Gentleman, Defends Nate, & Respects Katie's Pace
+
+Ten minutes later, I turned my wheelchair into the wide brick pedestrian promenade of The Admiral Center.
+
+Three storefronts down from the glass windows of Chapters & Co., where I had met Tiffany back in May, was the outdoor brick patio of the corner bakery and café. Shaded by dark-green canvas umbrellas, the patio had four wide, wheelchair-accessible wrought-iron tables along the outer walkway.
+
+And sitting at the corner table in her compact black SwiftChair, wearing her royal-blue sweater with both hands wrapped around a steaming paper cup of hot chocolate, was Katie.
+
+She wasn't sitting alone.
+
+Seated across the small round table from her in a wrought-iron patio chair was a clean-cut, soft-spoken young man who looked to be about twenty-two years old, wearing a neatly pressed light-blue button-down shirt, khaki trousers, and a leather wristwatch, with short sandy-brown hair and a warm, attentive expression on his face. On the table between them sat a fresh stack of paper napkins, an unopened bottle of strawberry-kiwi flavored water beside Katie's hot chocolate, and a tall glass of apple juice in front of him.
+
+As I rolled down the brick walkway toward their table, Katie was laughing softly at something he had just said—the first real smile I had seen on my sister's face all weekend. Then she glanced up, saw my SwiftChair rolling toward her, and her blue eyes widened.
+
+"Nate!" Katie said, setting her cup of hot chocolate down as I braked my chair right beside hers and reached across our armrests with both hands.
+
+"Katie, I'm so sorry about last night," I blurted out immediately, my voice thick as I held her hands tightly in mine. "I couldn't stay up in Ocean View another minute without coming down here on Route 1 to tell you how sorry I am for snapping at you in the courtyard. You were right—you're my twin sister, and I never should have talked to you like that."
+
+Katie's eyes softened instantly, and she leaned across our armrests to wrap both arms around my neck in a tight, forgiving hug.
+
+"I told you last night I wasn't mad at you, Nate," Katie whispered against my collar before sitting back and wiping a tear from the corner of her eye with a smile. "I'm really glad you came down. I went back to A6 last night and the apartment felt so quiet this morning that I had to get out for a little while."
+
+She turned toward the young man in the light-blue button-down shirt, who had politely stood up a few inches and stepped back just enough during our hug to give us a respectful moment of sibling privacy before offering me a warm, friendly smile.
+
+"Nate, this is Brandon Mercer," Katie said, introducing us. "He's visiting Norfolk from Williamsburg today. About twenty minutes ago, some guy in a hurry with three shopping bags cut across the patio, bumped right into my table, and knocked my entire cup of hot chocolate all over the bricks without even stopping to say excuse me. Brandon came right over with a stack of napkins to clean up the table, went inside to buy me a brand-new cup of hot chocolate and a bottle of flavored water, and asked if he could keep me company."
+
+Brandon leaned down slightly so he was at my eye level and extended his right hand across the table with a genuine, unhurried handshake.
+
+"It's really good to meet you, Nate," Brandon said in a calm, pleasant voice. "Katie's been telling me all about you and the classes the two of you are taking at CCHR. You two have a lot to be proud of."
+
+"Thank you for helping my sister out with the spilled hot chocolate, Brandon," I said, shaking his hand and immediately noticing how natural and unforced he was around our two power wheelchairs—not staring at the joysticks, not talking down to us in a high-pitched voice the way strangers sometimes did, and sitting right back down at our level. "And I'm sorry if I interrupted you two because I needed to apologize for ruining her weekend."
+
+"Hey, don't beat yourself up, man," Brandon said warmly, holding up a hand with an understanding smile as he looked from me to Katie. "Katie was just telling me a little bit about what happened up in Ocean View last night because I asked why she looked so down when I first walked over, and I already told her five minutes ago that I knew right away it wasn't your fault."
+
+I blinked in surprise. "You did?"
+
+"Of course it wasn't your fault," Brandon said earnestly, nodding toward both of us. "Anyone who listens to Katie talk about you for two minutes can tell how close the two of you have been your whole lives. When a good guy moves into his first apartment with a girlfriend and she suddenly changes the rules after the lease is signed—after promising your sister she'd be welcome for the weekend—it catches you completely off guard. You didn't want your sister hurt; you just got put on the spot in a tiny living room and tried to keep the peace. And the fact that you rode the city bus all the way down from Ocean View today just to apologize and make sure Katie was okay proves what kind of brother you are."
+
+Across our armrests, Katie looked at me with a warm, relieved nod, and I felt the tight band around my chest loosen for the first time since Saturday night. After how hostile and loud Tiffany had been the evening before, hearing a polite, level-headed guy from Williamsburg immediately defend me to Katie—and treat our twin bond like the most natural, admirable thing in the world—made Brandon seem like a breath of fresh air.
+
+For the next forty-five minutes, the three of us sat together around that shaded patio table at The Admiral Center. When I pulled a cold can of ginger ale out of my backpack, Brandon mentioned that he didn't care for alcohol or coffee either and preferred apple juice, sports drinks, or hot chocolate—which made Katie and me exchange a delighted twin grin. He told us he was twenty-two years old, lived up in Williamsburg on Virginia Avenue a few blocks from the College of Charles & Anne, and worked in hospitality bookkeeping while taking business courses.
+
+At two-thirty, Brandon glanced down at his leather wristwatch and stood up reluctantly from the wrought-iron chair.
+
+"I promised my supervisor I'd be back up in Williamsburg by four o'clock to close out the weekend ledgers, so I'd better head back toward the bridge-tunnel before Sunday afternoon traffic backs up," Brandon said, smiling warmly down at Katie. "Katie, meeting you today was the best part of my whole week. I'd really love to show you around Williamsburg sometime soon—my apartment on Virginia Avenue is on the ground floor with zero steps, and the Williamsburg Transportation Center is right down the street with accessible CTTA buses that run all through the historic area."
+
+Katie blushed slightly, smoothing her royal-blue sweater over her lap before looking up at Brandon with clear, honest blue eyes.
+
+"I'd really like to see Williamsburg someday, Brandon," Katie said softly, "and thank you so much for being so kind to me today. After everything that happened yesterday, though—and with Nate and me living in separate apartments for the first time in our lives—I really want to take things slow and get to know you here in Norfolk first."
+
+I watched Brandon's face closely to see if he would look disappointed or try to talk her out of it.
+
+Instead, Brandon's smile only grew warmer and more respectful.
+
+"I respect that completely, Katie," Brandon said without a trace of pressure in his voice, pulling a small business card out of his shirt pocket and writing his home and cell numbers neatly on the back before handing it to her. "Taking things slow is the smart way to do it, and I don't want you rushing into anything you aren't a hundred percent comfortable with. I love visiting Norfolk anyway—it's an easy trip down I-64 on the weekends. If it's alright with you and Nate, I'd love to come down here to Ghent next Saturday afternoon, bring you two some hot chocolate, and go completely at your pace."
+
+"I'd really like that," Katie smiled, slipping his card carefully into her zippered purse.
+
+"And it was great meeting you too, Nate," Brandon added, shaking my hand warmly again before waving goodbye and walking down the brick promenade toward the parking lot.
+
+As soon as Brandon turned the corner past Chapters & Co., Katie rolled her SwiftChair two inches closer to mine and took my hand.
+
+"Well?" Katie asked, echoing the exact question I had asked her inside Apartment A6 four months earlier on the afternoon she met Tiffany. "What did you think of him, Nate?"
+
+Looking back down the sunny brick walkway where Brandon had just bought my twin sister fresh hot chocolate, defended me without hesitation, and promised to respect her boundaries and go completely at her pace, I smiled and squeezed Katie's hand back.
+
+"He seems like a genuinely good guy, Katie," I said honestly. "I like how he didn't push you at all when you told him you wanted to take things slow, and it meant a lot to me that he knew last night wasn't my fault. Let's roll back to A6 and spend the rest of Sunday afternoon together before I have to catch the evening Route 1 bus back to Ocean View."
+
+### Part 3: Five Months of Patience, Winning Over Nate and Dad, & Katie's Move to Williamsburg
+
+**Date:** 2005-02-05 at 14:00 America/New_York
+
+#### Saturday, February 5, 2005, 2:00 PM — Five Months at Katie's Pace & The Decision in Apartment A6
+
+"Look how neatly Brandon labeled all of the computer cables with masking tape before putting them in the box, Nate," nineteen-year-old Katie said with a warm smile on Saturday afternoon in early February 2005, rolling her compact SwiftChair back from the long workstation desk inside Apartment A6 on Greenway Court so our dad David could lift her seventeen-inch CRT monitor into its padded carton.
+
+Standing beside the desk with a roll of clear packing tape in his hand and his steaming travel mug of black coffee resting on the kitchenette counter next to three cold bottles of sports drink and orange juice, forty-six-year-old Dad looked across the room toward twenty-two-year-old Brandon Mercer, who was carefully wrapping Katie's glass butterfly paperweight in bubble wrap on his knees.
+
+"You've got a good system, Brandon," Dad said approvingly. "Most guys your age just toss all the cords into a grocery bag and spend three days figuring out what plugs into what."
+
+"My dad taught me early on that if you take your time and do things carefully, nothing gets broken," Brandon replied with that calm, polite smile that had won over our entire family since September.
+
+Sitting in my SwiftChair beside the kitchenette counter, I watched Brandon tape the bubble wrap around Katie's paperweight and felt a complicated mixture of happiness for my twin sister and a quiet ache in my chest that she was moving forty-five miles up Interstate 64 to Williamsburg.
+
+True to the promise he had made at The Admiral Center on that Sunday afternoon in September, Brandon hadn't rushed Katie for a single day. For nearly five full months—through October, November, Thanksgiving, Christmas, and January—Brandon had respected Katie's wish to take things slow and get to know him right here in Norfolk. Every single Saturday and Sunday, rain or shine, he had driven down I-64 from Williamsburg to West Ghent. He brought Katie cups of hot chocolate from the bakery and cartons of chocolate milk for her dorm fridge; he carried her laundry basket down the hall and chatted warmly with our neighbors Michael and Ashley across the corridor in Apartment A5; he sat beside her wheelchair at the workstation desk while she finished her CCHR homework; and whenever Dad drove down from Northern Virginia to take us out to dinner, Brandon pulled out chairs, opened doors, and spoke with the steady, respectful courtesy of a young man who genuinely cherished my twin sister.
+
+And during those exact same five months between September 2004 and February 2005, while Brandon was treating Katie like gold every weekend in Ghent, my own life up in West Ocean View at Sea Breeze West Apartment 3 had been sliding downhill so gradually that I barely knew how to explain it even to myself.
+
+Whenever I mentioned riding the CVTA Route 1 bus down to Greenway Court on a Saturday afternoon to visit Katie, Tiffany would suddenly complain of a migraine, or her mother Sandra would show up unannounced at Apartment 3 demanding that I stay home to help reorganize the living room, or Tiffany would start a guilt-tripping argument asking why she wasn't enough company for me. Week by week, my trips down Granby Street had grown fewer and further between. Because I was ashamed to admit to Katie or Dad that Tiffany was leaving unwashed dishes in the sink for days at a time and banishing milk from our refrigerator, I kept telling them over the phone that I was just busy with schoolwork—which meant that Monday through Friday, nineteen-year-old Katie had been coming home from her classes at CCHR to an empty studio apartment on Greenway Court, eating dinner by herself at half of a workstation desk, and sleeping alone in the square walk-in closet where the two of us used to zip up in our shared sleeping bag together.
+
+Brandon had seen how lonely Katie was sitting in Apartment A6 by herself five nights a week while I was stuck up in Ocean View. Two weeks ago, at the end of January—when the property manager slid the spring lease-renewal notice under the door of Apartment A6—Brandon had sat down with Katie, Dad, and me over Sunday lunch and made the gentlest, most reasonable pitch imaginable.
+
+Why keep paying rent on a studio apartment in West Ghent where Katie had to sit alone staring at Nate's empty half of the desk every night, Brandon had asked kindly, when Katie was ready to move into his ground-floor one-bedroom apartment at 224 Virginia Avenue in Williamsburg? His apartment was completely step-free on the first floor; it was only blocks away from the College of Charles & Anne and the Williamsburg Transportation Center, where the Colonial Triangle Transit Authority buses and the ARTS passenger train stopped every day; and Katie could transfer her general-education credits or commute by bus while never having to come home to an empty room again.
+
+Because Brandon had spent five patient months earning every ounce of our trust—and because Katie genuinely loved how attentive and gentle he was with her—Katie had said yes, and both Dad and I had given them our blessing.
+
+"That's the last of the kitchen cartons," Dad said, carrying the rolling microwave-and-toaster cart out toward the hallway so he could load it into the back of his SUV alongside Brandon's sedan in the front parking lot. "Brandon, let's you and me run these three boxes out to the cars while Nate and Katie have a few minutes before we lock up."
+
+"You got it, Mr. Prairie," Brandon said, picking up two taped boxes of books and following Dad out into the first-floor corridor.
+
+As soon as the wooden door of Apartment A6 clicked half-shut behind them, the studio felt cavernously quiet. Only the bare full-sized mattress, the empty workstation desk, and the open door of the empty square walk-in closet remained.
+
+Katie released her joystick brake, rolled her SwiftChair across the vacuumed carpet right up beside mine, and took both of my hands.
+
+"You're quiet today, Nate," Katie said softly, her blue eyes searching mine the way they always did whenever I was holding something inside. "Are you okay with me moving up to Williamsburg?"
+
+"I want you to be happy, Katie," I said, my voice catching slightly as I squeezed her fingers. "I hated knowing you were sitting down here in A6 all by yourself every weeknight while I was up in Ocean View. Brandon has been so patient and good to you all autumn and winter, and I know you won't be lonely up there with him."
+
+"Williamsburg is just right up I-64 on the Peninsula," Katie said reassuringly, leaning across our armrests to hug me tight around the shoulders. "The Williamsburg Transportation Center is right down the street from Brandon's apartment on Virginia Avenue. CTTA buses run right from the station down to Lee Hall to connect with CVTA routes in Newport News, and we still have our phones and instant messaging every single day. Promise me you'll call me whenever Tiffany is at work so we can talk just the two of us?"
+
+"Twin's promise," I whispered against her hair, holding my sister close inside the studio apartment that had been our very first home as adults. "And if you ever need me for anything at all—day or night—you call me or come straight down to Ocean View, okay?"
+
+"I will, Nate," Katie smiled, sitting back and wiping a tiny tear from her eyelashes as Dad and Brandon walked back down the hallway to pick up the final computer boxes. "Everything is going to be great for both of us."
+
+Twenty minutes later, outside in the February sunshine by the circular brick lamppost planter in front of the Greenway Court building, Katie transferred into the front passenger seat of Brandon's sedan while Brandon and Dad carefully folded and stowed her compact SwiftChair in the trunk.
+
+As Brandon's car pulled out of the parking lot onto Greenway Court heading toward Interstate 64 West and Williamsburg, and I rolled down the sidewalk toward Granby Street to catch the northbound Route 1 bus back to Tiffany and Sea Breeze West Apartment 3, Katie waved to me through the passenger window with two crossed fingers pressed against the glass.
+
+For the first time in nineteen years, my twin sister and I were living in two different cities.
 
 ## The End of Hell & Reclaiming Apartment 3
 
@@ -2945,27 +3145,27 @@ Katie turned her SwiftChair toward me, her blue eyes steady and bright.
 
 "Let's do it," I said immediately, already opening a fresh PHP project directory on my MagnaBook Pro. "If they won't let us sit at the public-comment table for three minutes, we'll put you up on the dais where they have to answer to you."
 
-### Part 3: The Empty Podium on WHRO TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline
+### Part 3: The Empty Podium on WHRC TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline
 
 **Date:** 2010-10-14 at 19:28 America/New_York
 
-#### Thursday, October 14, 2010, 7:28 PM — The Empty Mahogany Podium Under the WHRO Studio Lights
+#### Thursday, October 14, 2010, 7:28 PM — The Empty Mahogany Podium Under the WHRC Studio Lights
 
-"Two minutes to air, Ms. Prairie," the WHRO TV-15 floor director called out quietly, holding up two fingers beside the center studio camera inside the public-television broadcast center at 5200 Hampton Boulevard in Norfolk. "Still no sign of Councilman Dietz or his campaign manager at the front desk, so per station rules, his podium stays lit and his microphone stays open."
+"Two minutes to air, Ms. Prairie," the WHRC TV-15 floor director called out quietly, holding up two fingers beside the center studio camera inside the public-television broadcast center at 5200 Hampton Boulevard in Norfolk. "Still no sign of Councilman Dietz or his campaign manager at the front desk, so per station rules, his podium stays lit and his microphone stays open."
 
 Parked in my compact SwiftChair just outside the edge of the key lights next to the producer's monitor cart, I glanced across the blue-curtained television set toward my twenty-five-year-old twin sister.
 
-Katie sat upright and composed in her black SwiftChair behind a low, wheelchair-accessible mahogany desk that the WHRO studio crew had set up on the left side of the stage, wearing a crisp royal-blue blazer over a cream blouse with a small brass lapel microphone clipped to her collar. Six feet to her right stood the second debate position: a tall, traditional standing mahogany podium bearing a white placard that read *COUNCILMAN HAROLD DIETZ — KEMPSVILLE DISTRICT*, bathed in a bright, unforgiving pool of overhead tungsten light and completely empty.
+Katie sat upright and composed in her black SwiftChair behind a low, wheelchair-accessible mahogany desk that the WHRC studio crew had set up on the left side of the stage, wearing a crisp royal-blue blazer over a cream blouse with a small brass lapel microphone clipped to her collar. Six feet to her right stood the second debate position: a tall, traditional standing mahogany podium bearing a white placard that read *COUNCILMAN HAROLD DIETZ — KEMPSVILLE DISTRICT*, bathed in a bright, unforgiving pool of overhead tungsten light and completely empty.
 
 For five months, Katie and I had poured every ounce of our energy into the non-partisan Kempsville District race. We hadn't hired a political consultant, we hadn't taken a single check from Oceanfront hotel developers, and we hadn't hosted cocktail receptions. Instead, I had built a custom PHP precinct-mapping and sidewalk-canvassing engine on our home server on Lord Nelson Drive, and we had spent the spring, summer, and early autumn campaigning directly from the front wheelchair securement bays of CVTA Routes 12, 15, 20, 25, and 29 and rolling down the neighborhood sidewalks of Kempsville, Bellamy Manor, Brandon, and Larkspur with Dad driving down from Alexandria every weekend to knock on front doors that had brick steps.
 
-Through it all, ten-year incumbent Councilman Harold Dietz had treated our campaign as if we were invisible. When Tidewater Public Media had sent out the formal certified invitations in September for tonight's live forty-five-minute Kempsville City Council debate on WHRO TV-15—broadcast right from the edge of the Virginia Dominion University campus across all of Hampton Roads—Katie had returned her signed confirmation within twenty minutes. Councilman Dietz hadn't even bothered to reply. Because he had neither accepted nor formally declined the invitation, WHRO's strict non-partisan broadcast rules required the studio to leave his standing podium on the stage and give the viewing public an unfiltered look at who had bothered to show up for the job.
+Through it all, ten-year incumbent Councilman Harold Dietz had treated our campaign as if we were invisible. When Coastal Virginia Public Media had sent out the formal certified invitations in September for tonight's live forty-five-minute Kempsville City Council debate on WHRC TV-15—broadcast right from the edge of the Virginia Dominion University campus across all of Hampton Roads—Katie had returned her signed confirmation within twenty minutes. Councilman Dietz hadn't even bothered to reply. Because he had neither accepted nor formally declined the invitation, WHRC's strict non-partisan broadcast rules required the studio to leave his standing podium on the stage and give the viewing public an unfiltered look at who had bothered to show up for the job.
 
 "Ten seconds," the floor director whispered, lowering his arm toward the center camera lens. "Five, four, three..."
 
 The red tally light atop Camera One glowed bright in the darkened studio.
 
-"Good evening, and welcome to Tidewater Public Media's live 2010 Decision coverage from our WHRO TV-15 studios on Hampton Boulevard in Norfolk," the veteran public-television moderator began in his resonant baritone. "Tonight we examine the race for the Kempsville District seat on the Virginia Beach City Council. Seated to my left is challenger Katie Prairie, a twenty-five-year-old Kempsville homeowner, software developer, and co-founder of the regional transit watchdog website Ideas for Coastal Virginia Transit. To her right, as viewers at home can see, is the podium reserved for ten-year incumbent Councilman Harold Dietz. Although WHRO extended multiple invitations to Councilman Dietz's office over the past six weeks, our producers received neither an acceptance nor a decline, and his podium remains open should he arrive during tonight's broadcast. Because our non-profit public media rules require us to pose every scheduled municipal policy question to the stage, we will proceed with our full forty-five-minute forum. Ms. Prairie, the first question is yours."
+"Good evening, and welcome to Coastal Virginia Public Media's live 2010 Decision coverage from our WHRC TV-15 studios on Hampton Boulevard in Norfolk," the veteran public-television moderator began in his resonant baritone. "Tonight we examine the race for the Kempsville District seat on the Virginia Beach City Council. Seated to my left is challenger Katie Prairie, a twenty-five-year-old Kempsville homeowner, software developer, and co-founder of the regional transit watchdog website Ideas for Coastal Virginia Transit. To her right, as viewers at home can see, is the podium reserved for ten-year incumbent Councilman Harold Dietz. Although WHRC extended multiple invitations to Councilman Dietz's office over the past six weeks, our producers received neither an acceptance nor a decline, and his podium remains open should he arrive during tonight's broadcast. Because our non-profit public media rules require us to pose every scheduled municipal policy question to the stage, we will proceed with our full forty-five-minute forum. Ms. Prairie, the first question is yours."
 
 Watching from beside the monitor cart with my MagnaBook Pro resting on my wheelchair lap tray, I felt a quiet surge of pride as the director punched up the wide two-shot on the studio monitors.
 
@@ -2991,17 +3191,17 @@ While the audio technician unclipped the brass lapel mic from her blazer, Katie 
 
 "Eight-fourteen, Nate," Katie said quietly as our two SwiftChairs fell into formation heading for the heavy soundproof doors of Studio A. "We have ten minutes to make the crosswalk."
 
-Out in the bright fluorescent lobby of the WHRO broadcast center, *Tidewater Pilot* Metro politics reporter Greg Mercer—a veteran city-hall journalist in a rumpled trench coat with a spiral reporter's notebook in one hand and a digital voice recorder in the other—stepped away from the reception counter and hurried straight toward us.
+Out in the bright fluorescent lobby of the WHRC broadcast center, *Tidewater Pilot* Metro politics reporter Greg Mercer—a veteran city-hall journalist in a rumpled trench coat with a spiral reporter's notebook in one hand and a digital voice recorder in the other—stepped away from the reception counter and hurried straight toward us.
 
 "Ms. Prairie! Katie!" Greg Mercer called out, clicking the record button on his handheld recorder. "Greg Mercer with *The Tidewater Pilot*. That empty podium on live television was something else. Do you have ten minutes to sit down here in the lobby and give me a quick post-debate interview for tomorrow morning's Metro section?"
 
-Katie glanced at the round wall clock above the WHRO glass entrance doors—8:15 PM—and looked back up at Greg with a friendly, earnest smile.
+Katie glanced at the round wall clock above the WHRC glass entrance doors—8:15 PM—and looked back up at Greg with a friendly, earnest smile.
 
 "I'd be happy to answer every question you have, Mr. Mercer," Katie said as I hit the big silver ADA push-plate to swing the front lobby doors open into the crisp October night air, "as long as you don't mind walking fast across Hampton Boulevard with us right now."
 
 Greg blinked in surprise, tucking his pen behind his ear as he stepped out onto the concrete sidewalk beside our two powerchairs. "Across Hampton Boulevard? Sure—did your campaign staff have to park your wheelchair van over in the university lot across the street?"
 
-Katie and I exchanged a quick twin look as we set our SwiftChair speed dials to four miles per hour and rolled briskly down the WHRO front walk toward the signalized intersection at Forty-Ninth Street and Hampton Boulevard.
+Katie and I exchanged a quick twin look as we set our SwiftChair speed dials to four miles per hour and rolled briskly down the WHRC front walk toward the signalized intersection at Forty-Ninth Street and Hampton Boulevard.
 
 "We don't have campaign staff, Mr. Mercer," I said as Katie pressed the pedestrian crosswalk button at the curb, "and we don't own a wheelchair van."
 
@@ -3023,17 +3223,17 @@ Greg Mercer stopped dead in his tracks on the concrete sidewalk, his mouth sligh
 
 "You're taking the city bus?" Greg asked, staring at us in disbelief. "From a live television debate on Hampton Boulevard back to Virginia Beach—at eight-twenty at night?"
 
-"Not just one city bus, Mr. Mercer—three of them," I said, checking the glowing digital readout on my watch: 8:22 PM. "And that's why we couldn't stay in the WHRO lobby for ten minutes."
+"Not just one city bus, Mr. Mercer—three of them," I said, checking the glowing digital readout on my watch: 8:22 PM. "And that's why we couldn't stay in the WHRC lobby for ten minutes."
 
 "Walk me through this before that bus gets here," Greg said rapidly, holding his voice recorder right between Katie's chair and mine while his other hand scribbled furiously across his spiral pad under the streetlight. "What happens if you miss that bus coming down the street right now?"
 
-"Look at the timetable math," Katie said calmly, pointing up Hampton Boulevard as the southbound CVTA Route 2 bus signaled toward the curb with its amber destination sign glowing *2 DOWNTOWN NORFOLK*. "The WHRO debate ended at 8:14 PM. This bus pulling up right now is the 8:24 PM Route 2 southbound. We have to catch this exact 8:24 PM bus down Hampton Boulevard to the Downtown Norfolk Transit Center, which gets us into Downtown Norfolk just before nine o'clock."
+"Look at the timetable math," Katie said calmly, pointing up Hampton Boulevard as the southbound CVTA Route 2 bus signaled toward the curb with its amber destination sign glowing *2 DOWNTOWN NORFOLK*. "The WHRC debate ended at 8:14 PM. This bus pulling up right now is the 8:24 PM Route 2 southbound. We have to catch this exact 8:24 PM bus down Hampton Boulevard to the Downtown Norfolk Transit Center, which gets us into Downtown Norfolk just before nine o'clock."
 
 With a loud hiss of compressed air, the forty-foot Route 2 bus braked at the curb beside us and kneeled its front suspension. The folding glass doors swung open, and the warning chime beeped as the steel hydraulic wheelchair ramp unfolded onto the sidewalk concrete.
 
 "Once we get to Downtown Norfolk Transit Center just before nine," I continued as I rolled backward up the steel ramp first to pull into the rear-facing curbside securement bay, "we have fifteen minutes to transfer onto the 9:15 PM Route 20 bus heading eastbound out Virginia Beach Boulevard."
 
-"And that 9:15 PM Route 20 bus gets us out to the Glenrock Mall transit hub at 9:45 PM," Katie added, pausing at the bottom of the wheelchair ramp and looking back over her shoulder at Greg Mercer standing under the streetlight with his notebook and recorder. "At 9:45 PM at Glenrock Mall, Nate and I have to transfer onto the very last Route 15 bus of the night going south down Military Highway across the city line into Virginia Beach. If we had stayed in the WHRO lobby talking for ten minutes and missed this 8:24 PM bus right here on Hampton Boulevard, we would miss the 9:15 PM Route 20 in Downtown Norfolk, we would miss the last Route 15 of the night at Glenrock Mall, and the two of us would be stranded in Norfolk overnight in our wheelchairs with no way home."
+"And that 9:15 PM Route 20 bus gets us out to the Glenrock Mall transit hub at 9:45 PM," Katie added, pausing at the bottom of the wheelchair ramp and looking back over her shoulder at Greg Mercer standing under the streetlight with his notebook and recorder. "At 9:45 PM at Glenrock Mall, Nate and I have to transfer onto the very last Route 15 bus of the night going south down Military Highway across the city line into Virginia Beach. If we had stayed in the WHRC lobby talking for ten minutes and missed this 8:24 PM bus right here on Hampton Boulevard, we would miss the 9:15 PM Route 20 in Downtown Norfolk, we would miss the last Route 15 of the night at Glenrock Mall, and the two of us would be stranded in Norfolk overnight in our wheelchairs with no way home."
 
 Greg Mercer stared at Katie, stunned silent for two full beats as the bus driver waited patiently at the controls.
 
@@ -3045,7 +3245,7 @@ As we swiped our thirty-day CVTA passes through the farebox and locked our wheel
 
 ***
 
-#### Friday, October 15, 2010, 9:30 AM — Section B1 Above the Fold & All Ten Lines Lit on WHRV 89.5 FM
+#### Friday, October 15, 2010, 9:30 AM — Section B1 Above the Fold & All Ten Lines Lit on WHRC 89.5 FM
 
 We made our 9:15 PM Route 20 transfer in Downtown Norfolk with eleven minutes to spare, caught the final 9:45 PM southbound Route 15 at Glenrock Mall, and rolled through the front door of our house on Lord Nelson Drive at ten-forty that night—tired, happy, and ready for a late cup of hot chocolate before bed.
 
@@ -3062,45 +3262,45 @@ It wasn't a two-paragraph blurb buried on page four.
 Stretching all the way across the top of the Friday Metro front page above the fold in bold seventy-two-point black type was a banner headline written by Greg Mercer:
 
 *AN EMPTY PODIUM—AND AN 8:24 P.M. BUS TO CATCH*
-*Incumbent Dietz Skips Televised WHRO Debate; Challenger Katie Prairie Commands the Hour—Then Races Across Hampton Boulevard in Her Wheelchair to Make Last Bus Connection Home to Virginia Beach*
+*Incumbent Dietz Skips Televised WHRC Debate; Challenger Katie Prairie Commands the Hour—Then Races Across Hampton Boulevard in Her Wheelchair to Make Last Bus Connection Home to Virginia Beach*
 
-Directly beneath the headline sat two side-by-side color photographs spanning all six columns of the page. On the left was a crisp frame captured from the WHRO TV-15 broadcast showing twenty-five-year-old Katie seated at her accessible studio desk next to Councilman Harold Dietz's brightly lit, completely empty mahogany podium. On the right was a photograph taken by a *Tidewater Pilot* photographer Greg Mercer had reached by cell phone on Hampton Boulevard—showing Katie and me rolling our black SwiftChairs up the steel hydraulic ramp of the kneeling 8:24 PM CVTA Route 2 bus under the streetlights while regular night-shift commuters looked on from the windows.
+Directly beneath the headline sat two side-by-side color photographs spanning all six columns of the page. On the left was a crisp frame captured from the WHRC TV-15 broadcast showing twenty-five-year-old Katie seated at her accessible studio desk next to Councilman Harold Dietz's brightly lit, completely empty mahogany podium. On the right was a photograph taken by a *Tidewater Pilot* photographer Greg Mercer had reached by cell phone on Hampton Boulevard—showing Katie and me rolling our black SwiftChairs up the steel hydraulic ramp of the kneeling 8:24 PM CVTA Route 2 bus under the streetlights while regular night-shift commuters looked on from the windows.
 
 Katie and I read down the twenty-eight-inch column together in amazed silence. Greg Mercer hadn't missed a single detail: he had printed the exact 8:14 PM debate sign-off, the twenty-two-second sprint across all six lanes of Hampton Boulevard, the minute-by-minute transfer math of the 8:24 PM Route 2 to the 9:15 PM Route 20 to the final 9:45 PM Route 15 at Glenrock Mall, and Katie's parting words from the bottom of the bus ramp right in the closing box quote.
 
 "Look at the traffic counter on our campaign server, Katie," I said, glancing up at my real-time PHP analytics monitor. "Our website hits just passed twelve thousand for the morning, and small online donations of ten and twenty-five dollars are coming in every thirty seconds from Kempsville, Bayside, and Norfolk."
 
-At twelve-oh-six that afternoon, while the three of us were eating turkey sandwiches at the kitchen table before heading out to canvass, I clicked open the live audio stream of Tidewater Public Media's non-profit public radio station, WHRV 89.5 FM, during its flagship Friday noon regional call-in program.
+At twelve-oh-six that afternoon, while the three of us were eating turkey sandwiches at the kitchen table before heading out to canvass, I clicked open the live audio stream of Coastal Virginia Public Media's non-profit public radio station, WHRC 89.5 FM, during its flagship Friday noon regional call-in program.
 
-"Welcome back to *HearSay* on WHRV 89.5 FM," the host said over our desktop speakers. "Before we open the phone lines for our weekly Friday civic roundtable, I need to remind our listeners of the ground rules: as a non-profit 501(c)(3) public broadcasting organization, WHRV and WHRO are strictly prohibited by federal law from endorsing or opposing any candidate for public office. However, judging by our studio switchboard over the last ten minutes, it appears half of Hampton Roads has read Greg Mercer's front-page Metro column in this morning's *Tidewater Pilot* about last night's Kempsville City Council debate here in our building. All ten of our studio call-in lines are flashing right now. Let's go first to Line One—Arthur in Kempsville, you're on WHRV."
+"Welcome back to *Tidewater Forum* on WHRC 89.5 FM, I'm Catherine Lindsey," the host said over our desktop speakers. "Before we open the phone lines for our weekly Friday civic roundtable, I need to remind our listeners of the ground rules: as a non-profit 501(c)(3) public broadcasting organization, WHRC radio and television are strictly prohibited by federal law from endorsing or opposing any candidate for public office. However, judging by our studio switchboard over the last ten minutes, it appears half of Hampton Roads has read Greg Mercer's front-page Metro column in this morning's *Tidewater Pilot* about last night's Kempsville City Council debate here in our building. All ten of our studio call-in lines are flashing right now. Let's go first to Line One—Arthur in Kempsville, you're on WHRC."
 
-*"Thank you, Cathy,"* an older gentleman's voice came over the radio clearly. *"I've lived off Kempsville Road for thirty-four years and I voted for Harold Dietz twice in the past. Last night I tuned in to Channel 15 to watch the debate, and I sat there for forty-five minutes looking at an empty wooden podium while that young lady in the wheelchair answered every single budget and drainage question like she'd been running the city for ten years. And then I open my paper over breakfast this morning and find out she and her twin brother had to hustle across six lanes of Hampton Boulevard in the dark just to catch three buses home before CVTA locked up for the night! You don't have to endorse anybody on the radio—the voters in Kempsville can see for ourselves who's actually working for a living."*
+*"Thank you, Catherine,"* an older gentleman's voice came over the radio clearly. *"I've lived off Kempsville Road for thirty-four years and I voted for Harold Dietz twice in the past. Last night I tuned in to Channel 15 to watch the debate, and I sat there for forty-five minutes looking at an empty wooden podium while that young lady in the wheelchair answered every single budget and drainage question like she'd been running the city for ten years. And then I open my paper over breakfast this morning and find out she and her twin brother had to hustle across six lanes of Hampton Boulevard in the dark just to catch three buses home before CVTA locked up for the night! You don't have to endorse anybody on the radio—the voters in Kempsville can see for ourselves who's actually working for a living."*
 
-"Thank you, Arthur—let's go to Line Two, Brenda calling from a cell phone near Glenrock Mall," the host said.
+"Thank you, Arthur—let's go to Line Two, Brenda calling from a cell phone near Glenrock Mall," Catherine Lindsey said.
 
 *"Hi, I'm a respiratory therapist and I ride that exact Route 20 and Route 15 transfer at Glenrock Mall three nights a week,"* the second caller said, her voice thick with emotion. *"I've seen Katie and her brother Nate in their wheelchairs on the front of the bus for years taking notes and talking to riders, and I never realized she was running for City Council until I saw the photo of them rolling up the Route 2 ramp in the paper today. For ten years City Hall has acted like those of us who ride the bus after eight o'clock at night don't exist. Everybody on my shift at the hospital is voting for Katie Prairie on November second!"*
 
-Line after line, for forty consecutive minutes without a single negative call, listeners from Kempsville, Bellamy Manor, Larkspur, College Park, and across Hampton Roads lit up all ten phone lines on WHRV 89.5 FM—until the host finally had to laugh on air and remind callers that the program had other regional news topics on its rundown.
+Line after line, for forty consecutive minutes without a single negative call, listeners from Kempsville, Bellamy Manor, Larkspur, College Park, and across Hampton Roads lit up all ten phone lines on WHRC 89.5 FM—until the host finally had to laugh on air and remind callers that the program had other regional news topics on its rundown.
 
 Sitting at our Kempsville kitchen table with Dad grinning over his coffee mug and Katie holding my hand across our wheelchair armrests, we finished our sandwiches, loaded four hundred fresh palm cards into our canvas side-bags, and rolled out into the crisp October sunshine for the final eighteen days of sidewalk canvassing before Election Day.
 
-### Part 4: The WNIS 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning
+### Part 4: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning
 
 **Date:** 2010-10-28 at 08:15 America/New_York
 
-#### Thursday, October 28, 2010, 8:15 AM — Five Days Before the Election: The Incumbent Attacks Katie's Wheelchair on WNIS 790 AM
+#### Thursday, October 28, 2010, 8:15 AM — Five Days Before the Election: The Incumbent Attacks Katie's Wheelchair on WTGA 790 AM
 
-"Turn the desktop speakers up a notch, Nate," twenty-five-year-old Katie said from her SwiftChair beside mine on the Thursday morning before the election, pausing her typing on our morning canvassing walk-sheets as the live web stream of conservative talk radio WNIS 790 AM crackled across our home office on Lord Nelson Drive. "The host just said Harold Dietz called in unscheduled."
+"Turn the desktop speakers up a notch, Nate," twenty-five-year-old Katie said from her SwiftChair beside mine on the Thursday morning before the election, pausing her typing on our morning canvassing walk-sheets as the live web stream of conservative talk radio WTGA 790 AM—Tidewater Talk 790—crackled across our home office on Lord Nelson Drive. "The host just said Harold Dietz called in unscheduled."
 
 I reached over and turned up the volume knob beside my monitor while taking a sip of cold chocolate milk.
 
-For the past thirteen days since Greg Mercer's front-page Metro story in *The Tidewater Pilot* and the forty-minute switchboard takeover on WHRV 89.5 FM, Councilman Harold Dietz had vanished from public view—canceling two neighborhood civic-league appearances while our volunteer canvassing teams knocked on thousands of doors across Kempsville, Bellamy Manor, Brandon, and Larkspur. Now, with five days left before Tuesday's election, the ten-year incumbent had evidently decided to go live on Hampton Roads' loudest morning talk-radio microphone to try to stop the bleeding.
+For the past thirteen days since Greg Mercer's front-page Metro story in *The Tidewater Pilot* and the forty-minute switchboard takeover on WHRC 89.5 FM, Councilman Harold Dietz had vanished from public view—canceling two neighborhood civic-league appearances while our volunteer canvassing teams knocked on thousands of doors across Kempsville, Bellamy Manor, Brandon, and Larkspur. Now, with five days left before Tuesday's election, the ten-year incumbent had evidently decided to go live on Hampton Roads' loudest morning talk-radio microphone to try to stop the bleeding.
 
-*"We're joined on the studio line right now by Virginia Beach City Councilman Harold Dietz, representing the Kempsville District,"* the WNIS morning host announced. *"Councilman, folks all over the city have been talking about that empty podium over at WHRO and the front-page story in the Pilot about your twenty-five-year-old opponent catching three buses home at eight-twenty at night. Looks like you've got a real horse race on your hands out in Kempsville."*
+*"We're joined on the studio line right now by Virginia Beach City Councilman Harold Dietz, representing the Kempsville District,"* the WTGA morning host announced. *"Councilman, folks all over the city have been talking about that empty podium over at WHRC and the front-page story in the Tidewater Pilot about your twenty-five-year-old opponent catching three buses home at eight-twenty at night. Looks like you've got a real horse race on your hands out in Kempsville."*
 
 When Harold Dietz's voice came through the broadcast compressor, he didn't sound like a calm ten-year incumbent. He sounded tight, defensive, and rattled.
 
-*"Well, Mike, let's call that newspaper story what it was—a staged piece of political theater,"* Dietz snapped over the airwaves. *"The Pilot loves a melodramatic human-interest angle, so they print a picture of my opponent rolling onto a bus at night as if riding a bus qualifies somebody to manage a one-point-seven-billion-dollar municipal corporation. Let's talk about the real world at City Hall that nobody at the newspaper wants to mention."*
+*"Well, Mike, let's call that newspaper story what it was—a staged piece of political theater,"* Dietz snapped over the airwaves. *"The Tidewater Pilot loves a melodramatic human-interest angle, so they print a picture of my opponent rolling onto a bus at night as if riding a bus qualifies somebody to manage a one-point-seven-billion-dollar municipal corporation. Let's talk about the real world at City Hall that nobody at the newspaper wants to mention."*
 
 Katie and I looked at each other across our wheelchair armrests, our fingers stilling on our keyboards.
 
@@ -3108,13 +3308,13 @@ Katie and I looked at each other across our wheelchair armrests, our fingers sti
 
 Inside our quiet home office in Kempsville, the silence lasted three full seconds.
 
-Even over the radio broadcast, you could hear the WNIS morning host draw in a sharp, audible breath inside the Norfolk studio as he realized the incumbent councilman had just committed political suicide on live air in the largest military and veteran community on the East Coast.
+Even over the radio broadcast, you could hear the WTGA morning host draw in a sharp, audible breath inside the Norfolk studio as he realized the incumbent councilman had just committed political suicide on live air in the largest military and veteran community on the East Coast.
 
-*"Uh—Councilman Dietz,"* the WNIS host cut in quickly, his tone dropping an octave as the red warning lights on his studio call screener's board began flashing like a Christmas tree, *"hang on a second there, Harold. We have eighty thousand disabled veterans and wounded warriors living right here in Virginia Beach and Norfolk who use wheelchairs every day, and federal law under the Americans with Disabilities Act requires public buildings to be accessible anyway—"*
+*"Uh—Councilman Dietz,"* the WTGA host cut in quickly, his tone dropping an octave as the red warning lights on his studio call screener's board began flashing like a Christmas tree, *"hang on a second there, Harold. We have eighty thousand disabled veterans and wounded warriors living right here in Virginia Beach and Norfolk who use wheelchairs every day, and federal law under the Americans with Disabilities Act requires public buildings to be accessible anyway—"*
 
 *"I'm just saying the voters deserve to know the practical reality and the cost, Mike!"* Dietz insisted defensively before the host hastily took the program to a commercial break—and when the show came back from the break three minutes later, Councilman Dietz was no longer on the line.
 
-What followed over the next forty-five minutes on WNIS 790 AM was unlike anything we had ever heard on conservative talk radio.
+What followed over the next forty-five minutes on WTGA 790 AM was unlike anything we had ever heard on conservative talk radio.
 
 The host didn't take a single call defending Harold Dietz—because there weren't any. Instead, caller after caller was a furious Navy chief, a retired Marine colonel, a wounded Iraq or Afghanistan veteran from Little Creek or Naval Air Station Oceana, or a lifelong conservative Kempsville homeowner calling in to blister the incumbent for attacking a candidate's wheelchair and mocking the bond between twin siblings who had lived with a spinal-cord condition since high school.
 
@@ -3131,11 +3331,11 @@ On Saturday morning, October 30—seventy-two hours before the polls opened—*T
 Sitting at our kitchen table with Dad over Saturday morning pancakes and orange juice, I read three of the printed letters aloud while Katie listened beside me:
 
 > A Ramp to the People's Dais Is Not a "Special Favor"<br>
-> As a retired Navy Master Chief who lost both legs above the knee to an IED outside Fallujah in 2006, I nearly drove my hand-control truck off Kempsville Road on Thursday morning listening to Councilman Harold Dietz complain on WNIS about the cost of building a wheelchair ramp up to the City Council dais for Katie Prairie. When I came home from Bethesda Naval Hospital in a wheelchair, nobody told me I lacked the "stamina" to contribute to my community. If the mahogany dais in Building 1 doesn't have a wheelchair ramp after twenty years of the Americans with Disabilities Act, that isn't an indictment of Katie Prairie—it is an indictment of Harold Dietz and every politician who never thought a citizen in a wheelchair belonged up there.<br>
+> As a retired Navy Master Chief who lost both legs above the knee to an IED outside Fallujah in 2006, I nearly drove my hand-control truck off Kempsville Road on Thursday morning listening to Councilman Harold Dietz complain on WTGA 790 AM about the cost of building a wheelchair ramp up to the City Council dais for Katie Prairie. When I came home from Bethesda Naval Hospital in a wheelchair, nobody told me I lacked the "stamina" to contribute to my community. If the mahogany dais in Building 1 doesn't have a wheelchair ramp after twenty years of the Americans with Disabilities Act, that isn't an indictment of Katie Prairie—it is an indictment of Harold Dietz and every politician who never thought a citizen in a wheelchair belonged up there.<br>
 > — Master Chief Robert H. Callahan, USN (Ret.), Kempsville, Virginia Beach
 
 > The 8:24 PM Bus Is Real Life, Not "Political Theater"<br>
-> Councilman Dietz claims Katie and Nate Prairie catching the 8:24 PM Route 2 bus home from the WHRO debate was a "publicity stunt." Tell that to those of us who close the retail stores at Pembroke Mall and Glenrock Mall every night and pray our connecting Route 20 or Route 15 bus isn't five minutes late so we aren't stranded in the dark. Katie and Nate Prairie have ridden the bus with us in the rain and cold for five years. On Tuesday, the bus riders of Virginia Beach are going to send one of our own to City Hall.<br>
+> Councilman Dietz claims Katie and Nate Prairie catching the 8:24 PM Route 2 bus home from the WHRC debate was a "publicity stunt." Tell that to those of us who close the retail stores at Pembroke Mall and Glenrock Mall every night and pray our connecting Route 20 or Route 15 bus isn't five minutes late so we aren't stranded in the dark. Katie and Nate Prairie have ridden the bus with us in the rain and cold for five years. On Tuesday, the bus riders of Virginia Beach are going to send one of our own to City Hall.<br>
 > — Denise T. Holloway, College Park, Virginia Beach
 
 > We Remember the Day Their Legs Gave Out at Northwood High<br>
@@ -3158,7 +3358,7 @@ Dad leaned over my shoulder, staring at my PHP dashboard screen through his glas
 
 "The parser checksums match the state XML feed to the single vote, Dad," I breathed, my heart hammering against my ribs as five more precincts popped onto the screen in bright green. "Look at the raw totals."
 
-At 7:19 PM—just nineteen minutes after the polls closed—all four local television network affiliates in Hampton Roads (WAVY-TV 10, WTKR NewsChannel 3, WVEC 13News, and WHRO TV-15) flashed simultaneous breaking-news graphics across the bottom of their screens with a loud electronic chime:
+At 7:19 PM—just nineteen minutes after the polls closed—all four local television network affiliates in Hampton Roads (WCVB-TV 10 Coastal News 10, WTID-TV 3 NewsChannel 3, WVHR-TV 13 13News, and WHRC TV-15) flashed simultaneous breaking-news graphics across the bottom of their screens with a loud electronic chime:
 
 *PROJECTION — VIRGINIA BEACH CITY COUNCIL (KEMPSVILLE DISTRICT):*
 *KATIE PRAIRIE (WINNER) — 94.1%*
@@ -3168,21 +3368,21 @@ Inside our living room on Lord Nelson Drive, a roar went up that shook the frame
 
 As the final precincts locked in over the next twenty minutes confirming the staggering 94.1% to 5.9% margin—the largest landslide defeat of a sitting incumbent in the modern history of Hampton Roads municipal politics—we unmuted the four television feeds and the radio stream to hear the stunned political analysts dissect what had just happened.
 
-On WAVY-TV 10, anchor Don Roberts turned to Virginia Dominion University political science professor Dr. Quentin Marsh standing in front of the electronic precinct map.
+On WCVB-TV 10, Coastal News 10 anchor Don Roberts turned to Virginia Dominion University political science professor Dr. Quentin Marsh standing in front of the electronic precinct map.
 
 *"Ninety-four point one percent to five point nine percent, Dr. Marsh,"* the anchor said, shaking his head at the big board. *"We have never seen numbers like this in a contested Virginia Beach City Council race. How does a ten-year incumbent get wiped out by eighty-eight points?"*
 
-*"Don, what we just witnessed tonight in Kempsville is the textbook anatomy of a catastrophic one-two political knockout,"* Dr. Marsh explained, tapping the touchscreen map of Virginia Beach. *"Three weeks ago, before the WHRO debate, Harold Dietz was sitting on a comfortable eight-point incumbent lead mostly because voters didn't know who Katie Prairie was. Then came Punch Number One on October fourteenth: Dietz didn't even bother to RSVP to WHRO TV-15, leaving his podium empty on live television for forty-five minutes while Katie Prairie demonstrated complete command of the municipal budget—followed ten minutes later by Greg Mercer's front-page story in the Pilot showing Katie and her twin brother Nate sprinting across six lanes of Hampton Boulevard in their wheelchairs to catch the 8:24 PM Route 2 bus so they wouldn't miss the last three-bus transfer chain home to Virginia Beach. We now know from campaign insiders that by the Monday after that story ran, Dietz's internal tracking poll had crashed from an eight-point lead down to a dead heat—48.2 percent to 47.8 percent, a razor-thin four-tenths of one percent margin right inside Virginia's automatic recount threshold—and his major Oceanfront donors threatened to freeze his final forty-thousand-dollar TV buy."*
+*"Don, what we just witnessed tonight in Kempsville is the textbook anatomy of a catastrophic one-two political knockout,"* Dr. Marsh explained, tapping the touchscreen map of Virginia Beach. *"Three weeks ago, before the WHRC debate, Harold Dietz was sitting on a comfortable eight-point incumbent lead mostly because voters didn't know who Katie Prairie was. Then came Punch Number One on October fourteenth: Dietz didn't even bother to RSVP to WHRC TV-15, leaving his podium empty on live television for forty-five minutes while Katie Prairie demonstrated complete command of the municipal budget—followed ten minutes later by Greg Mercer's front-page story in the Tidewater Pilot showing Katie and her twin brother Nate sprinting across six lanes of Hampton Boulevard in their wheelchairs to catch the 8:24 PM Route 2 bus so they wouldn't miss the last three-bus transfer chain home to Virginia Beach. We now know from campaign insiders that by the Monday after that story ran, Dietz's internal tracking poll had crashed from an eight-point lead down to a dead heat—48.2 percent to 47.8 percent, a razor-thin four-tenths of one percent margin right inside Virginia's automatic recount threshold—and his major Oceanfront donors threatened to freeze his final forty-thousand-dollar TV buy."*
 
-Across the room on WVEC 13News, a live remote camera panned across a cavernous, completely deserted ballroom at an Oceanfront resort hotel where untouched trays of shrimp cocktail sat under heat lamps beside a silent podium banner reading *RE-ELECT COUNCILMAN DIETZ*.
+Across the room on WVHR-TV 13, a live 13News remote camera panned across a cavernous, completely deserted ballroom at an Oceanfront resort hotel where untouched trays of shrimp cocktail sat under heat lamps beside a silent podium banner reading *RE-ELECT COUNCILMAN DIETZ*.
 
-*"And that panic inside the Dietz camp led directly to Punch Number Two last Thursday morning on WNIS 790 AM,"* the WVEC political reporter told the studio anchors from the empty ballroom. *"Trying to look tough for his panicked donors, Councilman Dietz went on live talk radio, mocked the Prairies' three-bus ride home, complained about the taxpayer cost of building a wheelchair ramp up to the City Council dais in Building 1, and questioned whether a woman in a wheelchair rolling alongside her twin brother had the stamina to serve on Council. In a city filled with military families, disabled veterans, and working bus commuters, that radio call turned a 0.4 percent race into a 94 percent wipeout. The Councilman called Ms. Prairie three minutes ago to concede and left the hotel through a side kitchen door."*
+*"And that panic inside the Dietz camp led directly to Punch Number Two last Thursday morning on WTGA 790 AM,"* the WVHR-TV 13 political reporter told the studio anchors from the empty ballroom. *"Trying to look tough for his panicked donors, Councilman Dietz went on live talk radio, mocked the Prairies' three-bus ride home, complained about the taxpayer cost of building a wheelchair ramp up to the City Council dais in Building 1, and questioned whether a woman in a wheelchair rolling alongside her twin brother had the stamina to serve on Council. In a city filled with military families, disabled veterans, and working bus commuters, that radio call turned a 0.4 percent race into a 94 percent wipeout. The Councilman called Ms. Prairie three minutes ago to concede and left the hotel through a side kitchen door."*
 
-Meanwhile, on WTKR NewsChannel 3, the tech-desk correspondent pulled up a live graphic highlighting our grassroots ground game:
+Meanwhile, on WTID-TV 3 NewsChannel 3, the tech-desk correspondent pulled up a live graphic highlighting our grassroots ground game:
 
-*"Don't overlook the engineering behind this victory, either,"* the WTKR analyst noted. *"Katie and Nathaniel Prairie didn't spend a dime on outside political consultants. Nathaniel Prairie wrote their custom PHP voter-turnout and precinct-mapping software himself, and look at the precinct turnout bars along the CVTA Route 12, Route 15, Route 20, and Route 36 corridors—precincts that normally see 18 percent turnout in an off-year municipal election surged by 42 percent tonight because bus riders and working families came out in droves to vote for one of their own."*
+*"Don't overlook the engineering behind this victory, either,"* the WTID-TV 3 analyst noted. *"Katie and Nathaniel Prairie didn't spend a dime on outside political consultants. Nathaniel Prairie wrote their custom PHP voter-turnout and precinct-mapping software himself, and look at the precinct turnout bars along the CVTA Route 12, Route 15, Route 20, and Route 36 corridors—precincts that normally see 18 percent turnout in an off-year municipal election surged by 42 percent tonight because bus riders and working families came out in droves to vote for one of their own."*
 
-Even over on conservative talk radio WNIS 790 AM, the evening election host sighed into his microphone as the 94.1% total scrolled across his screen: *"Folks, Harold Dietz dug his own grave right here on our morning airwaves last Thursday. When a twenty-five-year-old woman and her twin brother out-work you, out-debate you, ride three city buses home in the dark, and build their own software from scratch, attacking their wheelchairs in a Navy town is a guaranteed way to get sent into retirement."*
+Even over on conservative talk radio WTGA 790 AM, the evening election host sighed into his microphone as the 94.1% total scrolled across his screen: *"Folks, Harold Dietz dug his own grave right here on our morning airwaves last Thursday. When a twenty-five-year-old woman and her twin brother out-work you, out-debate you, ride three city buses home in the dark, and build their own software from scratch, attacking their wheelchairs in a Navy town is a guaranteed way to get sent into retirement."*
 
 ***
 
