@@ -1635,7 +1635,7 @@ When we finally waved to Michael and Ashley as they headed off to meet Michael's
 
 **Date:** 2003-08-09 at 20:45 America/New_York
 
-![Inside the square walk-in closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts and plaid pajama pants rest peacefully side by side inside their shared navy-blue double sleeping bag on the carpeted closet floor holding hands]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg)
+![Inside the compact square closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts are cuddled up close together inside their single shared navy-blue sleeping bag on the carpeted closet floor]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg)
 
 #### Saturday, August 9, 2003, 8:45 PM — Footsteps Behind the Exterior Iron Stairs & Hiding in the Square Closet
 
