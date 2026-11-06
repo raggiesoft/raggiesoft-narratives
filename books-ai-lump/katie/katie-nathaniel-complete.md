@@ -1389,7 +1389,7 @@ We watched from the sidewalk as Heather climbed into the front passenger seat of
 
 "Are you kidding, Nate?" Katie smiled, squeezing my hand as the bus pulled up and the operator switched on the Elevate-U hydraulic stairwell wheelchair lift. "Finding out in twenty minutes that Ryan was a jerk—and finding out that Heather loves you *and* gets us completely because of her cousin Wesley? I'd call that a hundred percent success."
 
-# Seventeen & Senior Year
+# Seventeen, Senior Year, & Greenway Court
 
 ## Drunken New Year
 
@@ -1558,6 +1558,142 @@ In seventh grade, when Chad had walked out on Katie and left her crying in the m
 "Remember what you told me in seventh grade when Chad broke my heart, Nate?" Katie said softly, her blue eyes locked onto mine. "Boyfriends and girlfriends can walk away over a rumor in a sixty-second hallway conversation. Twin Sisters never walk away. You and I know the truth about who you are, and we've got each other for life."
 
 Taking a long, steadying breath, I squeezed Katie's hand back and leaned my head against her shoulder until the shaking in my chest finally subsided—knowing beyond a shadow of a doubt that as we headed toward high school graduation and our adult lives together, the only person in the world I would ever completely trust was sitting right beside me.
+
+## Greenway Court, Apartment A6 & The Square Closet Sanctuary
+
+### Part 1: Apartment A6 on Greenway Court, Dad's Microwave Cart, & Across-the-Hall Neighbors
+
+**Date:** 2003-07-16 at 07:40 America/New_York
+
+![Eighteen-year-old fraternal twins Katie and Nathaniel Prairie in their compact SwiftChair power wheelchairs inside their first studio apartment on Greenway Court in West Ghent, Norfolk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
+
+#### Wednesday, July 16, 2003, 7:40 AM — Dad's Rolling Cart & Our Own Set of Keys in Apartment A6
+
+"Careful with the power cord on the toaster, Nate—tuck it through the back wire loop so it can't snag on your armrest when you turn around by the stove," our father said cheerfully at twenty minutes to eight on Wednesday morning, tightening the last chrome corner bolt on the two-shelf rolling utility cart he had just assembled beside our tiny kitchenette counter.
+
+Sitting side by side in our compact SwiftChair power wheelchairs inside Apartment A6, Katie and I watched with huge grins as Dad lifted our new countertop microwave onto the top shelf of the cart, set our two-slice chrome toaster right next to it, and plugged both cords into the wall outlet above the speckled laminate counter.
+
+"Look at the clearance on that," Katie said happily, rolling her wheelchair forward to test the reach. Without leaning an inch off her seat cushion, she popped open the microwave door with her left hand and tapped the toaster lever with her right. "Now we still have the whole counter square above the dorm fridge free for making sandwiches!"
+
+"That's the whole idea," Dad smiled, wiping his forehead with the back of his sleeve as the through-wall box air conditioner mounted into the red brick directly below our wide, three-pane white-framed rear window hummed steadily in the July heat. "When a studio kitchen only gives you a four-burner stove, a single sink, and an under-the-counter dorm refrigerator, you two need every square inch of prep space at seated height."
+
+We had turned eighteen on April eighth and rolled across the graduation stage of Northwood High School a month ago in June. Because our estranged mother Brenda had spent the spring calling our dad's house in Virginia Beach and threatening to track us down the second we turned eighteen and were no longer covered by the family-court custody order, Dad had quietly gone apartment hunting across the city line in the tree-lined West Ghent neighborhood of Norfolk.
+
+At the beginning of July, Dad had introduced us to Dave and Deb—the husband-and-wife landlords who owned this quiet, two-story flat-roofed red-brick building on Greenway Court, where Apartments A1 through A10 sat downstairs on the first floor and Apartments B1 through B10 sat upstairs on the second floor. Even better, Dad had signed the lease and paid the rent for Apartment A6 himself so that Katie and I could finally have a safe, independent home to call our own as eighteen-year-old college freshmen.
+
+Every detail of the building and our studio fit our daily lives like a glove. Out front, beneath the black lamppost on the grass walkway, the building's recessed glass-and-aluminum main entrance door stayed locked twenty-four hours a day and required our brass apartment key to open—meaning nobody from the street could wander into the interior hallway uninvited. Just inside the front lobby past the row of locking metal mailboxes, Dave had bolted down a short, nonslip aluminum modular ramp over the three shallow rubber-treaded lobby steps so Katie and I could roll our power wheelchairs straight up into the first-floor hallway without a bump.
+
+Down at the very back of the first-floor hallway—directly opposite Apartment A5—our wooden door opened into Apartment A6: an enlarged bedroom-style rectangular studio with plenty of floor space for two wheelchairs to pivot side by side. Against the side wall stood the full-sized bed we shared and our long workstation desk holding our shared desktop computer tower and seventeen-inch CRT monitor. Along the front corner sat our small kitchenette with its stove, sink, under-the-counter dorm fridge, and Dad's brand-new microwave-and-toaster cart. Tucked off to the side were two doors: one leading into our square walk-in closet with its soft carpeted floor, and the other opening into an accessible bathroom equipped with a roll-under sink, a toilet, and a standing shower where Dad had placed a sturdy padded transfer bench and a handheld shower sprayer within easy reach.
+
+"Alright, you two, I've got to get across the river to work before traffic backs up on Interstate 264," Dad said, picking up his tool bag and kissing the top of Katie's head before squeezing my shoulder. "Remember, keep the front lobby door latched behind you whenever you go out to catch the Route 2 bus on Hampton Boulevard, and call me tonight after you test out the microwave."
+
+"Thank you for the cart, Dad—and for giving us our own place," I said, rolling beside Katie to walk him to the door.
+
+"You two earned it," Dad said warmly. "Have a great morning."
+
+***
+
+#### Wednesday, July 16, 2003, 7:48 AM — Familiar Faces Across the Hall in Apartment A5
+
+"Come on, Nate—let's roll out with Dad as far as the front sidewalk while the morning air is still cool," Katie suggested, slipping her brass Greenway Court key lanyard around her wrist. "I want to see how the cell signal is out by the grassy field across the street before we call CCHR about our fall books."
+
+"Good call," I agreed, glancing at the single bar of reception on my flip phone—the thick red-brick walls of the Greenway Court building blocked half the cellular towers in West Ghent whenever we were inside Apartment A6.
+
+I pulled our wooden apartment door open, rolled my SwiftChair out into the quiet first-floor hallway right behind Dad and Katie, and turned to pull our deadbolt shut.
+
+At that exact second, the heavy deadbolt of Apartment A5—directly across the narrow back hallway from our door—let out a loud metallic thunk.
+
+The door to Apartment A5 swung open, and out stepped a slender eighteen-year-old guy with reddish-blond hair, wire-rimmed glasses, and a stiff, slightly uneven gait in his legs, flanked closely by an athletic eighteen-year-old girl with a protective posture and her hand steadying his elbow.
+
+For two full seconds, all four of us froze in the back hallway between Apartment A5 and Apartment A6.
+
+I stared at the guy's wire-rimmed glasses and the unmistakable way he stood shoulder-to-shoulder with the girl beside him. He stared down at our two compact SwiftChair power wheelchairs, then up at Katie's and my matching platinum-blonde hair.
+
+"Wait a second," I blinked, my jaw dropping as nine years of neighborhood and school memories clicked into place at once. "Michael? Michael Ragsdale?!"
+
+Behind his wire-rimmed glasses, Michael's eyes went wide with genuine shock, and the tight, guarded tension in his shoulders vanished on the spot.
+
+"Nathaniel? Katie?!" Michael said, recognizing us immediately from [three doors down on Delaney Street and our childhood two-week summer camp at Virginia Dominion University](https://books.raggiesoft.com/katie/early-childhood/summer-camp-at-virginia-dominion-university/the-parallel-pair-dominion-mall-the-vdu-fieldhouse)—as well as the hallways of Northwood High School, where all of us had just graduated a month earlier. "You two live in A6?!"
+
+"We just moved in at the start of the month!" Katie beamed, rolling her wheelchair half a foot closer to shake hands with Michael and with Ashley Raybourn, whom we recognized from our graduating class at Northwood High. "Our dad rented A6 for the two of us so we'd have our own place near the Route 2 bus line! Don't tell me you two just moved into A5?!"
+
+"We literally got the keys from Deb last night," Ashley laughed, a huge, relieved smile breaking across her face as she looked from Katie and me to our dad. "[We were just heading outside across the street to the grassy field so we could get three bars of cell service to call Michael's mom before the moving truck gets here at nine](https://books.raggiesoft.com/rachel/michaels-senior-year/the-extraction/the-morning-perimeter)."
+
+"That's the exact reason we were rolling outside right now!" I grinned, holding up my flip phone with its lone, stubborn bar of signal. "The brick walls in the back of the building eat every cell signal alive!"
+
+Dad chuckled warmly, shaking Michael's and Ashley's hands in the hallway before we all headed down the corridor together, rolled smoothly down Dave's nonslip aluminum ramp over the three rubber-coated lobby steps, and pushed out through the locked glass-and-aluminum front entrance door into the sunny July morning.
+
+While Dad waved goodbye from his pickup truck in the decal-controlled parking lot, Katie and I rolled across the quiet street with Michael and Ashley to the open grassy field where neighbors were walking their dogs among the slatted wooden benches. Parking our two power wheelchairs right flush against the ends of the wooden bench where Michael and Ashley sat pressed side by side, we spent the next twenty minutes catching up like old teammates—talking about how Michael's sisters Jessica and Rachel were out in Washington State, how Katie and I were starting our freshman classes together at the Community College of Hampton Roads on the bus, and how relieved both pairs of us were to have a locked front building door and a quiet rectangular studio where nobody could bother us.
+
+When we finally waved to Michael and Ashley as they headed off to meet Michael's mom and the moving truck, Katie and I rolled back across Greenway Court, unlocked the glass front door with our brass key, and wheeled back into the cool, air-conditioned sanctuary of Apartment A6.
+
+"Can you believe that, Nate?" Katie smiled as the deadbolt clicked shut behind us and the aroma of fresh toast drifted from our new rolling cart in the kitchenette. "Out of every apartment building in the entire city of Norfolk, our old neighbor from Delaney Street and VDU summer camp is right across the hall from us in A5."
+
+"Best across-the-hall neighbors we could ever ask for," I agreed, parking my wheelchair beside hers at our shared computer workstation desk.
+
+### Part 2: Brenda in the Back Alley, Hiding in the Square Closet, & A Happy Year Together
+
+**Date:** 2003-08-09 at 20:45 America/New_York
+
+![Eighteen-year-old fraternal twins Katie and Nathaniel Prairie sitting side by side in their first studio apartment on Greenway Court in West Ghent, Norfolk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
+
+#### Saturday, August 9, 2003, 8:45 PM — Footsteps Behind the Exterior Iron Stairs & Hiding in the Square Closet
+
+"Wait—turn the speakers down, Nate," Katie whispered sharply at a quarter to nine on Saturday evening, her hand dropping onto my wrist over the computer mouse. "Listen."
+
+I clicked the mute icon on our seventeen-inch CRT monitor at the shared workstation desk, leaving only the low, steady hum of the through-wall box air conditioner mounted into the brick below our wide three-pane rear window.
+
+Outside in the narrow first-floor back alley—right behind the black iron exterior fire-escape staircase that climbed the rear brick wall of 801 Greenway Court beside the bushes and trash bins—an angry, slurred woman's voice echoed off the brick.
+
+"I know their father rented them an apartment in this building!" our estranged mother Brenda's voice rasped in the humid August dusk, followed by the crunch of her shoes on the gravel behind the iron stairs. "Stupid locked front door won't even let a mother into the lobby to see her own eighteen-year-old kids! Katie! Nathaniel! Which window is yours?!"
+
+My blood turned to ice water in my veins. Beside me at the computer desk, Katie's fingers clamped around my forearm so tightly I could feel her pulse racing against my skin.
+
+Even though we had kept the white horizontal mini-blinds tilted shut over the wide three-pane window above our through-wall air conditioner, Apartment A6 sat on the first floor at the very back of the building. If Brenda stepped two paces past the black iron exterior stairs and pressed her face against the glass beside the bushes, even the faintest glow from our desk lamp or our computer monitor would tell her immediately that Apartment A6 was ours—and she would bang on our back window and scream in the alley all night long.
+
+"Kill the lamp and the monitor," Katie breathed silently in my ear, her voice barely above a whisper. "If the room is pitch dark and dead silent when she looks through the blinds, she'll think the apartment is empty."
+
+In less than three seconds, I reached behind the tower to flip the master rocker switch on our surge protector—plunging the CRT monitor and the desk lamp into instant darkness—while Katie clicked off the small stove hood light over the kitchenette.
+
+Outside in the back alley, Brenda's footsteps crunched closer toward the iron stairs, her knuckles rapping sharply against one of the rear brick window frames down the wall.
+
+"The square closet," Katie whispered, pointing through the shadows toward our open closet door. "Grab the sleeping bag and the pillows off the bed—if we're inside the closet with the door closed, she won't see a single shadow or hear our chairs even if she shines a flashlight through the window slats."
+
+Moving in silent, practiced twin synchronization, I pulled our soft navy-blue sleeping bag and two pillows off the full-sized bed while Katie guided us across the dark studio carpet to the doorway of our square walk-in closet. Quickly spreading the sleeping bag and pillows flat across the square carpeted floor inside the closet, Katie and I parked our two compact SwiftChair power wheelchairs side by side just outside the closet frame, switched both joystick controllers completely off so their green battery-level LEDs wouldn't glow in the dark, and transferred smoothly down onto the closet floor.
+
+Reaching up from inside the shared sleeping bag, I pulled the solid wooden closet door shut until the latch clicked softly into place.
+
+Inside the square closet, the darkness was total and absolute.
+
+Katie immediately turned on her side inside the sleeping bag, wrapped both arms tightly around my shoulders, and pulled my head against her chest while I wrapped my arms around her waist—holding each other with every ounce of steady, deep-pressure warmth we had so neither of us would tremble or make a sound.
+
+Thirty seconds later, through the muffled layers of the closed closet door and the rear brick wall, we heard Brenda's footsteps stop right behind the exterior iron staircase outside our back window, just above our humming through-wall air conditioner.
+
+We heard her fingernails tap twice against the exterior glass of Apartment A6. We heard her mutter a bitter curse under her breath when she saw nothing but dark, empty blinds and heard nothing over the drone of the air-conditioning compressor. Two minutes later, her footsteps retreated down the back alley toward Raleigh Avenue, and the distant slam of a car door told us she had finally given up and driven away.
+
+Even after the alley went quiet, neither Katie nor I moved to open the closet door.
+
+Wrapped together inside our shared sleeping bag on the carpeted floor of that small, enclosed square closet, something remarkable happened to our nineteen-thousand-rpm fight-or-flight nervous systems. Out in the open studio room, the streetlamp shadows on the blinds and the knowledge that someone could walk down the back alley always left a tiny background thread of vigilance running in our autistic brains. Inside the enclosed four walls of the square closet, zipped up together in the velvet dark with Katie's arms locked securely around me, the outside world couldn't touch us at all.
+
+"Are you okay, Nate?" Katie whispered against my hair in the pitch dark, her hand rubbing slow, soothing circles between my shoulder blades.
+
+"More than okay," I whispered back, letting out a long, sleepy breath as every tense muscle in my back and legs finally melted into the carpet. "It's so quiet in here, Katie. I actually feel completely safe."
+
+"Me too," Katie murmured, resting her chin against my forehead as a soft yawn escaped her lips. "We don't have to move back out to the bed tonight if you don't want to. Let's just stay right here in our little fortress."
+
+Resting my head against my twin sister's shoulder inside our shared sleeping bag on the square closet floor, I closed my eyes—and for the first time since moving out on our own, both of us slept nine uninterrupted hours straight through the night without waking up once.
+
+***
+
+#### Wednesday, November 12, 2003, 5:30 PM — Dad's Microwave Cart, Shared Code, & A Happy Year in Our Studio Sanctuary
+
+By late autumn and winter of our eighteenth year, life inside Apartment A6 on Greenway Court had settled into the happiest, most peaceful routine Katie and I had ever known.
+
+Every weekday morning, after waking up well-rested—often still curled up together inside our shared sleeping bag on the carpeted floor of our square closet whenever a thunderstorm or a stressful exam week made us crave that pitch-dark sanctuary—we used the padded transfer bench in our accessible shower, brushed our teeth side by side at the roll-under bathroom sink, and rolled out to our compact kitchenette. While I popped four slices of whole-wheat bread into the toaster on Dad's rolling utility cart and pulled the milk carton and butter out of the under-the-counter dorm fridge, Katie scrambled eggs on the four-burner stove, and we washed our plates and skillet in the sink the minute we finished eating.
+
+Whenever we headed out our door and down Dave's nonslip aluminum ramp through the locked front lobby, we waved to Michael Ragsdale and his one-eyed black Lab Archie across the hall in Apartment A5 before rolling down Greenway Court and Redgate Avenue to Hampton Boulevard to catch the Coastal Virginia Transit Authority Route 2 bus into Downtown Norfolk. Side by side in the front wheelchair bays of the bus, we rode ten minutes downtown to the Martin Building at the Community College of Hampton Roads Norfolk campus for our morning lectures, grabbed hot burgers and fries upstairs at the third-floor food court of The Admiral Center on Fridays, and rode the afternoon Route 2 bus right back home to West Ghent.
+
+In the evenings, while the radiators and the through-wall fan kept our rectangular studio cozy and warm, Katie and I parked our SwiftChairs side by side at our long workstation desk in front of our shared desktop computer. Taking turns at the keyboard while the other sister or brother read aloud from our textbooks or debugged lines of HTML and Quantum Basic code on the seventeen-inch CRT monitor, we had everything we needed under one roof: four locked walls, a full kitchen cart, our own bus passes, and each other.
 
 # West Ocean View, Ideas for CVTA, & From City Council to the Senate of Virginia
 
