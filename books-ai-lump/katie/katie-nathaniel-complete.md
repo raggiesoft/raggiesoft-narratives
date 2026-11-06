@@ -1839,7 +1839,7 @@ We had spent the morning tidying every corner of Apartment A6 until our rectangu
 
 Rolling down the first-floor hallway and down Dave's nonslip aluminum ramp over the three rubber-treaded lobby steps, I unlocked the building's 24/7 keyed glass-and-aluminum front door right as Tiffany stepped up the front walkway past the circular brick lamppost planter, carrying a steaming cardboard pizza box in both hands while her mother Sandra waved warmly to us from the driver's window of their minivan in the parking lot.
 
-"Hey, you two!" Tiffany beamed, stepping into the cool lobby as Sandra pulled out of the lot to run afternoon errands. "One large extra-cheese pizza and a two-liter bottle of ginger ale—Nate told me yesterday at the bookstore that the two of you only drink soda or ginger ale, so I made sure to grab your favorite!"
+"Hey, you two!" Tiffany beamed, stepping into the cool lobby as Sandra pulled out of the lot to run afternoon errands. "One large extra-cheese pizza and a two-liter bottle of ginger ale—Nate told me yesterday at the bookstore that the two of you don't drink alcohol or like the taste of coffee, and that ginger ale is one of your favorite sodas with pizza, so I made sure to grab a cold bottle!"
 
 Katie and I exchanged an instant, delighted look. Remembering a detail like our ginger-ale rule from a single conversation the day before meant everything to us.
 
@@ -2803,7 +2803,7 @@ Then we waited to see which politicians actually had the courage to show up.
 
 Days turned into weeks as the May 6, 2008 municipal elections in Chesapeake, Portsmouth, Hampton, Norfolk, and Newport News approached and passed.
 
-Every morning, Katie and I sat side by side at our desks in Kempsville with our coffee and ginger ale, checking our campaign inbox and phone messages.
+Every morning, Katie and I sat side by side at our desks in Kempsville with our hot chocolate or cold ginger ale, checking our campaign inbox and phone messages.
 
 From the mayoral campaigns in Chesapeake: silence.
 From the mayoral campaigns in Portsmouth: silence.
@@ -3951,7 +3951,7 @@ Across the bottom of every one of our three prescription bottles sat the bright 
 
 ![Inside the sunlit accessible kitchen of their Kempsville home beneath the framed blue butterfly print, forty-one-year-old Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact SwiftChair power wheelchairs holding hands at the roll-under breakfast table looking at their open MagnaBook Pro laptop with glasses of ginger ale and prescription pill bottles while their father David stands beside them pouring hot black coffee]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2026_kempsville_morning_after_the_grid_referendum_mandate.jpg)
 
-As Dad stood beside the table pouring fresh black coffee into our ceramic mugs, Katie reached her right hand across the table corner to hold my left hand while we looked together at the screen of our open MagnaBook Pro laptop.
+As Dad stood beside the table pouring fresh black coffee into his ceramic mug while Katie and I had our cold glasses of ginger ale in front of us—since neither of us had ever liked the taste of coffee—Katie reached her right hand across the table corner to hold my left hand while we looked together at the screen of our open MagnaBook Pro laptop.
 
 "I just pushed your official morning-after statement on the local one-percent school construction sales tax referendum to our press feed," I told her, glancing over the clean HTML markup before hitting publish.
 
@@ -4169,7 +4169,7 @@ Katie looked at the mahogany ramp in front of her old desk, then turned her head
 
 "Every time we had to fight for a ramp, Nate, people in suits acted like we were asking for a personal favor," Katie said quietly. "We weren't building those ramps just for me. We were building them so the next kid in a SwiftChair who rides a bus to a field trip at the Virginia State Capitol—or the United States Capitol—never has to sit at the bottom of a staircase wondering if the law belongs to them too."
 
-Twenty minutes later, after carrying the last cardboard banker's box from her constituent office—holding nothing more than our framed copy of the Constitution of the Commonwealth of Virginia and our twin blue coffee mugs—out the accessible basement entrance onto Bank Street, we didn't call a state pool car or a limousine.
+Twenty minutes later, after carrying the last cardboard banker's box from her constituent office—holding nothing more than our framed copy of the Constitution of the Commonwealth of Virginia and our twin blue hot-chocolate mugs—out the accessible basement entrance onto Bank Street, we didn't call a state pool car or a limousine.
 
 Just as we had done every winter session in Richmond for twelve years, United States Senator-Elect Katie Prairie and I rolled our two compact SwiftChairs half a block down the brick sidewalk to the regular JRTC public transit bus stop at Ninth and Main, waited alongside the four o'clock state office clerks and hospital workers, rolled up the front bus ramp into the dual wheelchair bays, and tapped our fare cards for the seven-minute ride down the hill to Richmond Main Street Station to catch the evening ARTS train home to Norfolk.
 
