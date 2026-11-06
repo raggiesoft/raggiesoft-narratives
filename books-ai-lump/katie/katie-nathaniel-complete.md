@@ -1683,13 +1683,15 @@ Wrapped together inside our shared sleeping bag on the carpeted floor of that sm
 
 Resting my head against my twin sister's shoulder inside our shared sleeping bag on the square closet floor, I closed my eyes—and for the first time since moving out on our own, both of us slept nine uninterrupted hours straight through the night without waking up once.
 
+From that August night forward, that compact square closet literally became our bedroom. Yes, we still had our full-sized bed out in the main studio apartment, kept neatly made up under its quilt—but it rarely ever got used. For both of us on the autism spectrum, sleeping cuddled up together inside our single shared sleeping bag in the snug, confined space of the closet made us feel completely secure in a way an open room never could—a habit that would stay with the two of us for the rest of our lives.
+
 ***
 
 #### Wednesday, November 12, 2003, 5:30 PM — Dad's Microwave Cart, Shared Code, & A Happy Year in Our Studio Sanctuary
 
 By late autumn and winter of our eighteenth year, life inside Apartment A6 on Greenway Court had settled into the happiest, most peaceful routine Katie and I had ever known.
 
-Every weekday morning, after waking up well-rested—often still curled up together inside our shared sleeping bag on the carpeted floor of our square closet whenever a thunderstorm or a stressful exam week made us crave that pitch-dark sanctuary—we used the padded transfer bench in our accessible shower, brushed our teeth side by side at the roll-under bathroom sink, and rolled out to our compact kitchenette. While I popped four slices of whole-wheat bread into the toaster on Dad's rolling utility cart and pulled the milk carton and butter out of the under-the-counter dorm fridge, Katie scrambled eggs on the four-burner stove, and we washed our plates and skillet in the sink the minute we finished eating.
+Every morning, after waking up well-rested inside our shared sleeping bag on the carpeted floor of our square closet bedroom—while the full-sized bed out in the main studio stayed smooth and untouched—we used the padded transfer bench in our accessible shower, brushed our teeth side by side at the roll-under bathroom sink, and rolled out to our compact kitchenette. While I popped four slices of whole-wheat bread into the toaster on Dad's rolling utility cart and pulled the milk carton and butter out of the under-the-counter dorm fridge, Katie scrambled eggs on the four-burner stove, and we washed our plates and skillet in the sink the minute we finished eating.
 
 Whenever we headed out our door and down Dave's nonslip aluminum ramp through the locked front lobby, we waved to Michael Ragsdale and his one-eyed black Lab Archie across the hall in Apartment A5 before rolling down Greenway Court and Redgate Avenue to Hampton Boulevard to catch the Coastal Virginia Transit Authority Route 2 bus into Downtown Norfolk. Side by side in the front wheelchair bays of the bus, we rode ten minutes downtown to the Martin Building at the Community College of Hampton Roads Norfolk campus for our morning lectures, grabbed hot burgers and fries upstairs at the third-floor food court of The Admiral Center on Fridays, and rode the afternoon Route 2 bus right back home to West Ghent.
 
@@ -2579,9 +2581,9 @@ Katie sat quiet for a moment in her wheelchair, then turned her head toward the 
 
 "What's your crazy idea?" I asked.
 
-"What if we take the sleeping bag and the pillows I was using on the green sofa last night and move them right onto the carpeted floor inside the hallway closet so the two of us can sleep in the pitch dark?" Katie asked.
+"What if we do just like we did back in Apartment A6 on Greenway Court, and take our sleeping bag and the pillows I was using on the green sofa last night and move them right onto the carpeted floor inside the hallway closet so the two of us can make the closet our bedroom again?" Katie asked.
 
-The moment she said it, my whole chest relaxed. Because both of us are autistic, vast open rooms with drafty windows and streetlamp glare leaking through mini-blinds could leave our nervous systems on high alert after a traumatic weekend—whereas a small, enclosed, dark space where we could zip up together inside a shared sleeping bag and hold each other close felt like an impenetrable fortress.
+The moment she said it, my whole chest relaxed. Back when we lived together in Apartment A6 on Greenway Court, our full-sized bed out in the main studio had rarely ever been used because both of us had much preferred sleeping cuddled up together inside our single shared sleeping bag in the confined space of the square closet. Because both of us are autistic, vast open rooms with drafty windows and streetlamp glare leaking through mini-blinds left our nervous systems on high alert—whereas a small, enclosed, dark space where we could tuck in together inside a single shared sleeping bag and hold each other close made us feel completely secure.
 
 "Katie, that isn't crazy at all—that's genius," I smiled.
 
@@ -2867,7 +2869,7 @@ Katie and I looked at each other across our wheelchair armrests, and then Katie 
 
 "So the two of you have been sleeping in the hallway closet every night?" Dad asked quietly, no anger or judgment in his voice at all—only a deep, aching tenderness behind his glasses.
 
-"Every single night since Sunday the thirteenth," I confessed, looking down at the carpeted closet floor. "When we transfer into the sleeping bag together and pull the two bi-fold doors almost all the way shut, it's completely dark and snug in here, Dad. It blocks out the draft from the windows, it feels safe and tight around our shoulders, and as long as we're holding each other inside the sleeping bag, neither of us has nightmares about Williamsburg or about Tiffany."
+"Every single night since Sunday the thirteenth—just like we used to do in our square closet back on Greenway Court," I confessed, looking down at the carpeted closet floor. "Even when we had a regular bed in the main room, we barely ever used it because we always felt so much safer in the closet. When we transfer into our single shared sleeping bag together and pull the two bi-fold doors almost all the way shut, it's completely dark and snug in here, Dad. The confined space makes us feel secure, and as long as we're cuddled up holding each other inside the sleeping bag, neither of us has nightmares about Williamsburg or about Tiffany."
 
 Dad stayed crouched beside the closet threshold for a long moment, swallowing hard as he looked at the two pillows pressed side by side in the narrow dark of the closet. I could see how much it broke his heart that his nineteen-year-old son and daughter had been hurt so badly—and left with such a broken, caving-in reminder of Tiffany in their bedroom—that they had retreated into a hallway closet every night just to feel clean and safe in each other's arms.
 
