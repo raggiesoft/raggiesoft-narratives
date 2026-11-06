@@ -845,7 +845,7 @@ Beside me in the back seat, Katie squeezed my left hand with her right. Neither 
 
 Up front, I watched Dad slowly set his cup into the center console holder, glance briefly toward the passenger seat, and speak in a calm, ironclad voice I had never heard from him in my life.
 
-"Thank you for saying that out loud, Brenda—because if I had one percent of doubt left about seeking a lawyer's advice when we get home, every argument you've made since Florida just erased it," Dad told her evenly. "You spent three hours complaining about a steel bunk in the brig, and now you're bargaining to drink on weekends—and you still haven't asked Nathaniel or Katie a single time in eight hours why their legs and arms are failing them. I don't care if I have to work double shifts around my CCHR classes to pay the bills. First thing Monday morning at eight-thirty, I am calling a divorce lawyer to file for divorce and full custody of the twins, and my very next call is going to be to Dr. Chen's office to get both of them examined. We are never going back to 'normal.'"
+"Thank you for saying that out loud, Brenda—because if I had one percent of doubt left about seeking a lawyer's advice when we get home, every argument you've made since Florida just erased it," Dad told her evenly. "You spent three hours complaining about a steel bunk in the brig, and now you're bargaining to drink on weekends—and you still haven't asked Nathaniel or Katie a single time in eight hours why their legs and arms are failing them. I don't care if I have to work double shifts around my CCHR classes to pay the bills. First thing Monday morning at eight-thirty, I am calling a divorce lawyer to file for divorce and full custody of the twins, and my very next call is going to be to Dr. Carter's office to get both of them examined. We are never going back to 'normal.'"
 
 Mom opened her mouth, saw the look on Dad's face, and snapped her jaw shut without another word for the rest of North Carolina and Virginia.
 
@@ -869,37 +869,37 @@ When Dad clicked the front deadbolt shut and walked into the living room to chec
 
 #### Monday, August 27, 2001, 10:15 AM — The Divorce Lawyer, The PCP, & Borrowed Time
 
-"Squeeze my fingers as hard as you can, Nathaniel, and hold it for five seconds," Dr. Evelyn Chen instructed gently inside Exam Room 2 of her Virginia Beach family practice clinic on Monday morning.
+"Squeeze my fingers as hard as you can, Nathaniel, and hold it for five seconds," Dr. Evelyn Carter instructed gently inside Exam Room 2 of her Virginia Beach family practice clinic on Monday morning.
 
-Sitting side by side on the crinkly white paper of the padded exam table in our t-shirts and jeans, Katie and I kept our inner hands laced tightly together between our knees while I reached my left hand out to squeeze Dr. Chen's fingers.
+Sitting side by side on the crinkly white paper of the padded exam table in our t-shirts and jeans, Katie and I kept our inner hands laced tightly together between our knees while I reached my left hand out to squeeze Dr. Carter's fingers.
 
 Earlier that morning at eight-thirty, while Katie and I sat at the kitchen table eating cereal with the sealed *Sunward Cruise Lines* manila envelope resting beside the napkin holder, we had listened as Dad stood by the kitchen wall phone and kept the first half of his highway vow—calling a family law and divorce attorney's office off Independence Boulevard.
 
 When Dad told the attorney on the line that he had a certified Shipboard Security Incident Report and a duplicate VHS security camera tape from Deck 4 showing Brenda's corridor outburst and her attempt to swing at me on the bench over the character meet-and-greet, we watched a wave of relief wash across Dad's face. Hanging up the receiver, Dad had turned to Katie and me and explained what the lawyer had just told him: under Virginia law, the one-year separation waiting period only applied to no-fault divorces. Because the ship's security camera had caught her attempt to strike a minor child and her subsequent detention in the brig, Dad qualified to file immediately on fault grounds of cruelty and reasonable apprehension of bodily hurt—allowing the lawyer to petition the Virginia Beach court right away for sole custody of the two of us, exclusive possession of our house, and a protective order without waiting a single year.
 
-The moment he finished writing down our afternoon appointment time with the lawyer, Dad dialed Dr. Chen, our Primary Care Physician, and explained how badly our arms and legs had been giving out on the cruise and at the Interstate 95 rest stops. Dr. Chen's nurse had told him to bring both of us straight in at ten o'clock.
+The moment he finished writing down our afternoon appointment time with the lawyer, Dad dialed Dr. Carter, our Primary Care Physician, and explained how badly our arms and legs had been giving out on the cruise and at the Interstate 95 rest stops. Dr. Carter's nurse had told him to bring both of us straight in at ten o'clock.
 
-![Inside their Virginia Beach primary care physician's exam room, sixteen-year-old twins Katie and Nathaniel Prairie sit side by side on the exam table holding hands while their father David watches and Dr. Chen tests Nathaniel's forearm and hand grip strength]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg)
+![Inside their Virginia Beach primary care physician's exam room, sixteen-year-old twins Katie and Nathaniel Prairie sit side by side on the exam table holding hands while their father David watches and Dr. Carter tests Nathaniel's forearm and hand grip strength]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg)
 
-For the first two seconds, my grip held around Dr. Chen's fingers—and then, no matter how hard I concentrated, the strength in my forearm and wrist drained away like water through a sieve. When Dr. Chen tested Katie's grip, her shoulder resistance, and the dorsiflexion in both of our ankles, the exact same drop-off happened.
+For the first two seconds, my grip held around Dr. Carter's fingers—and then, no matter how hard I concentrated, the strength in my forearm and wrist drained away like water through a sieve. When Dr. Carter tested Katie's grip, her shoulder resistance, and the dorsiflexion in both of our ankles, the exact same drop-off happened.
 
-Dr. Chen stepped back, slipped her reflex hammer into the pocket of her white coat, and looked gravely at Dad, who was standing protectively right beside us.
+Dr. Carter stepped back, slipped her reflex hammer into the pocket of her white coat, and looked gravely at Dad, who was standing protectively right beside us.
 
-"David," Dr. Chen said quietly, "bringing them in immediately after you got back from Florida was the exact right call."
+"David," Dr. Carter said quietly, "bringing them in immediately after you got back from Florida was the exact right call."
 
 "They've had mild cerebral palsy since they were little," Dad said, his hand resting warmly on Katie's shoulder. "Brenda always ignored it and acted like they were two completely typical kids, so at first I assumed the ship's movement was just aggravating their balance. Why are both their arms and their legs getting worse at sixteen?"
 
-"Because cerebral palsy does not degenerate over time," Dr. Chen answered clearly, looking from Dad to Katie and me with deep compassion. "Cerebral palsy is a static, non-progressive condition. When sixteen-year-old twins begin losing measurable motor strength in both their lower extremities and their upper extremities over the course of a single summer, something else is happening."
+"Because cerebral palsy does not degenerate over time," Dr. Carter answered clearly, looking from Dad to Katie and me with deep compassion. "Cerebral palsy is a static, non-progressive condition. When sixteen-year-old twins begin losing measurable motor strength in both their lower extremities and their upper extremities over the course of a single summer, something else is happening."
 
 Beside me on the exam table, Katie squeezed my fingers with every ounce of strength left in her hand, and I squeezed right back.
 
-"I'm ordering a full neuromuscular blood panel, nerve conduction studies, and a genetic workup this morning," Dr. Chen continued gently, picking up her chart clipboard. "Until those test results come back and tell us exactly what condition we are dealing with, I need all three of you to prepare yourselves for the reality of what I'm seeing in their muscle tone today. When it comes to walking, Nathaniel and Katie are on borrowed time. Eventually, neither of them is going to be able to walk, and because their upper arms and wrists are fatiguing too, they are eventually going to need power wheelchairs."
+"I'm ordering a full neuromuscular blood panel, nerve conduction studies, and a genetic workup this morning," Dr. Carter continued gently, picking up her chart clipboard. "Until those test results come back and tell us exactly what condition we are dealing with, I need all three of you to prepare yourselves for the reality of what I'm seeing in their muscle tone today. When it comes to walking, Nathaniel and Katie are on borrowed time. Eventually, neither of them is going to be able to walk, and because their upper arms and wrists are fatiguing too, they are eventually going to need power wheelchairs."
 
 The quiet exam room seemed to hold its breath around those words—*on borrowed time*.
 
 "How soon will the test results be back, Evelyn?" Dad asked quietly, his hand resting steady and warm on Katie's shoulder.
 
-"The genetic and nerve-conduction panel takes about two and a half weeks," Dr. Chen answered, writing an appointment card at her desk and handing it to Dad. "Let's schedule their next checkup for Friday afternoon, September fourteenth, at three o'clock—right after their two o'clock dismissal at Northwood High School. You can pick them up when the final bell rings at two, bring them straight here for their three o'clock appointment, and we'll check how their arms and legs are holding up and go over every test result together."
+"The genetic and nerve-conduction panel takes about two and a half weeks," Dr. Carter answered, writing an appointment card at her desk and handing it to Dad. "Let's schedule their next checkup for Friday afternoon, September fourteenth, at three o'clock—right after their two o'clock dismissal at Northwood High School. You can pick them up when the final bell rings at two, bring them straight here for their three o'clock appointment, and we'll check how their arms and legs are holding up and go over every test result together."
 
 Yet as I looked sideways at my twin sister, and felt Dad's steady, unwavering arm wrap around both of our shoulders at once, the fear didn't break us. Whatever the test results showed when we came back for our three o'clock checkup after school on September fourteenth, Mom's screaming was gone, Daddy was standing right beside us, and Katie and I were going to face every single mile of it together.
 
@@ -949,21 +949,21 @@ Reaching across the table between our lunch bags, I laced my right fingers throu
 
 "How bad are your legs shaking right now?" I asked her quietly beneath the chatter of the cafeteria.
 
-"From my knees down to my ankles," Katie admitted softly, her thumb brushing against the back of my hand as she glanced down at the event-loop diagram in my notebook. "And my right shoulder still hurts from carrying my backpack down the upstairs hall. Our next scheduled checkup with Dr. Chen is next Friday afternoon after school, right?"
+"From my knees down to my ankles," Katie admitted softly, her thumb brushing against the back of my hand as she glanced down at the event-loop diagram in my notebook. "And my right shoulder still hurts from carrying my backpack down the upstairs hall. Our next scheduled checkup with Dr. Carter is next Friday afternoon after school, right?"
 
-"Friday at three o'clock," I nodded, squeezing her hand gently. "Dad's picking us up right at the two o'clock dismissal bell so Dr. Chen can see how our arms and legs are doing. Whatever happens, we've got Dad on our side now, and we've got this lunch table every day. We'll get through eleventh grade together."
+"Friday at three o'clock," I nodded, squeezing her hand gently. "Dad's picking us up right at the two o'clock dismissal bell so Dr. Carter can see how our arms and legs are doing. Whatever happens, we've got Dad on our side now, and we've got this lunch table every day. We'll get through eleventh grade together."
 
 ### Part 2: When Borrowed Time Runs Out — The Collapse at School, The Emergency Room Escalation, & Time for Powerchairs
 
 **Date:** 2001-09-14 at 13:15 America/New_York
 
-![Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor reviews their neuromuscular test results and prescribes their power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg)
+![Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor Dr. Evelyn Carter reviews their neuromuscular test results and prescribes their power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_carter_prognosis_arms_legs_consultation.jpg)
 
 #### Friday, September 14, 2001, 1:15 PM — When Our Legs Finally Gave Out at School
 
 "Just forty-five more minutes until the two o'clock dismissal bell, Katie, and Dad'll be waiting for us right out front in the pickup loop," I whispered at a quarter past one on Friday afternoon as the two of us walked slowly down the quiet first-floor B-Wing hallway of Northwood High School on our way back from the guidance office.
 
-All week long, all I knew was that Friday afternoon at three o'clock was our next scheduled checkup with Dr. Evelyn Chen. Dad had arranged his Friday schedule at the Community College of Hampton Roads so he could pick Katie and me up right when school let out at two o'clock and drive us straight over to Dr. Chen's office for our three o'clock appointment to see how our arms and legs were doing and go over whatever test results had come back from the lab.
+All week long, all I knew was that Friday afternoon at three o'clock was our next scheduled checkup with Dr. Evelyn Carter. Dad had arranged his Friday schedule at the Community College of Hampton Roads so he could pick Katie and me up right when school let out at two o'clock and drive us straight over to Dr. Carter's office for our three o'clock appointment to see how our arms and legs were doing and go over whatever test results had come back from the lab.
 
 All we had to do was make it thirty more feet down the waxed linoleum corridor to our sixth-block classroom door.
 
@@ -1019,7 +1019,7 @@ Down on the floor, even with Nurse Callahan's hands cradling the sides of my hea
 
 "Did either of you black out when your heads hit the floor? Do you know where you are, what day it is, and what happened right before you fell?" Nurse Callahan asked.
 
-"No, ma'am, neither of us blacked out," I said, my voice steady despite the throbbing ache over my right eyebrow. "It's Friday, September fourteenth, and we're in the B-Wing hallway at Northwood High School. Our dad was supposed to pick us up at the two o'clock dismissal bell to take us to our three o'clock appointment with Dr. Evelyn Chen to see how our arms and legs were doing—and while we were walking down the hall, our legs just gave out all at once."
+"No, ma'am, neither of us blacked out," I said, my voice steady despite the throbbing ache over my right eyebrow. "It's Friday, September fourteenth, and we're in the B-Wing hallway at Northwood High School. Our dad was supposed to pick us up at the two o'clock dismissal bell to take us to our three o'clock appointment with Dr. Evelyn Carter to see how our arms and legs were doing—and while we were walking down the hall, our legs just gave out all at once."
 
 "And when we tried to push ourselves back up," Katie added clearly from beside me, "our legs and arms crumpled again and we hit our heads."
 
@@ -1027,7 +1027,7 @@ Down on the floor, even with Nurse Callahan's hands cradling the sides of my hea
 
 I concentrated with everything I had, ordering my ankles and calves to move. Nothing happened. Neither of my feet moved a fraction of an inch, and neither did Katie's.
 
-"All right, don't strain," Nurse Callahan told us gently as the distant wail of sirens approached down the boulevard outside. "Your dad is already on his way to the Bayside General Emergency Room to meet you, and I had the front office call Dr. Evelyn Chen's clinic too—she has hospital privileges at Bayside General and she's bringing your test results straight over to the Emergency Room to meet your dad there."
+"All right, don't strain," Nurse Callahan told us gently as the distant wail of sirens approached down the boulevard outside. "Your dad is already on his way to the Bayside General Emergency Room to meet you, and I had the front office call Dr. Evelyn Carter's clinic too—she has hospital privileges at Bayside General and she's bringing your test results straight over to the Emergency Room to meet your dad there."
 
 Four minutes later, four Virginia Beach EMS paramedics wheeled two ambulance stretchers through the B-Wing double doors, where Nurse Callahan handed the lead paramedic two printed clinic sheets from her clipboard.
 
@@ -1039,11 +1039,11 @@ Working with practiced precision so our spines never bent or twisted, the parame
 
 ***
 
-#### Friday, September 14, 2001, 2:10 PM — Hospital Rules, The CT Doorway, & Dr. Chen's Verdict in the ER
+#### Friday, September 14, 2001, 2:10 PM — Hospital Rules, The CT Doorway, & Dr. Carter's Verdict in the ER
 
 Because the Community College of Hampton Roads campus was only ten minutes from Bayside General Hospital, Dad actually beat our ambulance to the Emergency Room entrance by two minutes.
 
-When the rear doors of Squad 14 swung open at the ER bay, Dad was already standing right beside the ER Charge Nurse, having briefed her himself that we were sixteen-year-old twins on the autism spectrum who grounded ourselves through physical contact—and that Dr. Evelyn Chen had already called down from her clinic across the medical plaza to let the ER team know she was bringing our neuromuscular lab packet over in person.
+When the rear doors of Squad 14 swung open at the ER bay, Dad was already standing right beside the ER Charge Nurse, having briefed her himself that we were sixteen-year-old twins on the autism spectrum who grounded ourselves through physical contact—and that Dr. Evelyn Carter had already called down from her clinic across the medical plaza to let the ER team know she was bringing our neuromuscular lab packet over in person.
 
 Even with Nurse Callahan's handoff and Dad's briefing, however, there were still real hospital rules for sixteen-year-old minors that the Emergency Room couldn't bend.
 
@@ -1061,43 +1061,43 @@ True to his word, ten minutes later both of our CT scans were finished. By three
 
 The instant the beds locked together and the doctor raised the heads of our mattresses to forty-five degrees, Katie and I didn't just hold hands—we leaned across the narrow seam between the two hospital mattresses and wrapped both of our arms tightly around each other's shoulders in the long, deep grounding hug we had needed ever since we hit the hallway floor at school.
 
-![Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor reviews their neuromuscular test results and prescribes their power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg)
+![Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor Dr. Evelyn Carter reviews their neuromuscular test results and prescribes their power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_carter_prognosis_arms_legs_consultation.jpg)
 
-Seconds later, walking into the combined ER bay alongside the emergency physician was Dr. Evelyn Chen, wearing her white coat and carrying the thick manila lab folder from her clinic across the medical plaza.
+Seconds later, walking into the combined ER bay alongside the emergency physician was Dr. Evelyn Carter, wearing her white coat and carrying the thick manila lab folder from her clinic across the medical plaza.
 
-"First things first—the head and cervical spine CT scans for both Nathaniel and Katie are completely clean," Dr. Chen announced with a warm, relieved smile as Katie and I eased back against our pillows with our inner hands locked together between our beds and fresh ice packs resting against the matching goose eggs on our foreheads. "Nurse Callahan followed the exact right protocol calling EMS after a dual head strike on a concrete school floor, and thank goodness neither of you suffered a fracture or intracranial bleed."
+"First things first—the head and cervical spine CT scans for both Nathaniel and Katie are completely clean," Dr. Carter announced with a warm, relieved smile as Katie and I eased back against our pillows with our inner hands locked together between our beds and fresh ice packs resting against the matching goose eggs on our foreheads. "Nurse Callahan followed the exact right protocol calling EMS after a dual head strike on a concrete school floor, and thank goodness neither of you suffered a fracture or intracranial bleed."
 
-Then Dr. Chen stepped to the foot of our two ER beds and tested the reflexes and motor response in our knees, calves, and ankles.
+Then Dr. Carter stepped to the foot of our two ER beds and tested the reflexes and motor response in our knees, calves, and ankles.
 
 Just like on the hallway floor outside Room 112 at Northwood High School, when she tapped our patellar tendons and asked us to lift our shins against her fingers, our lower legs didn't budge.
 
-Dr. Chen pulled a rolling stool up beside our two beds, opened the thick manila lab folder containing the genetic sequencing and nerve-conduction studies that had arrived from Norfolk that morning, and looked at Dad, Katie, and me with deep, solemn compassion.
+Dr. Carter pulled a rolling stool up beside our two beds, opened the thick manila lab folder containing the genetic sequencing and nerve-conduction studies that had arrived from Norfolk that morning, and looked at Dad, Katie, and me with deep, solemn compassion.
 
-"David, Nathaniel, Katie," Dr. Chen said quietly, "two and a half weeks ago, when you came to see me the Monday morning after your cruise, I told you that Nathaniel and Katie's legs were walking on borrowed time—and that they would eventually need power wheelchairs. We had scheduled your three o'clock checkup today to review these test results and talk about transitioning to powerchairs."
+"David, Nathaniel, Katie," Dr. Carter said quietly, "two and a half weeks ago, when you came to see me the Monday morning after your cruise, I told you that Nathaniel and Katie's legs were walking on borrowed time—and that they would eventually need power wheelchairs. We had scheduled your three o'clock checkup today to review these test results and talk about transitioning to powerchairs."
 
 She looked straight into my eyes, and then into Katie's.
 
-"What happened in the B-Wing hallway at Northwood High School at one-fifteen this afternoon wasn't a temporary spell, and it wasn't just end-of-the-week fatigue," Dr. Chen said gently. "Your borrowed time is up. Neither of your legs can support your body weight anymore, and from this afternoon forward, neither of you can ever try to stand or walk again—because trying to push yourselves up will only cause another collapse like the one that sent you to the Emergency Room today. It is officially time for powerchairs."
+"What happened in the B-Wing hallway at Northwood High School at one-fifteen this afternoon wasn't a temporary spell, and it wasn't just end-of-the-week fatigue," Dr. Carter said gently. "Your borrowed time is up. Neither of your legs can support your body weight anymore, and from this afternoon forward, neither of you can ever try to stand or walk again—because trying to push yourselves up will only cause another collapse like the one that sent you to the Emergency Room today. It is officially time for powerchairs."
 
-Even though Katie and I had known in our hearts from the second we reached for each other's hands on that linoleum floor that our walking days were over, hearing Dr. Chen say the words out loud made everything real. Beside me, Katie's fingers tightened around mine between our two hospital beds, and I squeezed her hand right back with everything I had.
+Even though Katie and I had known in our hearts from the second we reached for each other's hands on that linoleum floor that our walking days were over, hearing Dr. Carter say the words out loud made everything real. Beside me, Katie's fingers tightened around mine between our two hospital beds, and I squeezed her hand right back with everything I had.
 
 "Tell us what the test results showed, Evelyn," Dad said steadily, standing right between our beds with one hand resting on my shoulder and the other on Katie's. "Why did their legs give out completely today, and what does it mean for their arms?"
 
-"When you two were toddlers," Dr. Chen explained clearly, "your uneven balance was diagnosed as mild spastic diplegic cerebral palsy. Because mild CP is static and non-progressive—and because your mother always brushed off any new symptoms—nobody realized that your early balance issues were masking a second, genetic condition that both of you inherited as fraternal twins: a juvenile-onset progressive axonal motor neuropathy."
+"When you two were toddlers," Dr. Carter explained clearly, "your uneven balance was diagnosed as mild spastic diplegic cerebral palsy. Because mild CP is static and non-progressive—and because your mother always brushed off any new symptoms—nobody realized that your early balance issues were masking a second, genetic condition that both of you inherited as fraternal twins: a juvenile-onset progressive axonal motor neuropathy."
 
-Dr. Chen pointed to the nerve-conduction graphs inside the folder.
+Dr. Carter pointed to the nerve-conduction graphs inside the folder.
 
-"In this condition, the longest motor nerves in the body—the ones running from the lower spine down to the feet, ankles, calves, and quadriceps—lose their electrical signal amplitude first, and the sixteen-year-old adolescent growth spurt pushes those nerves past their threshold," Dr. Chen said. "Today at school, those lower-extremity motor nerves finally dropped below the threshold required to keep your knees locked upright. And as you both felt when you tried to push yourselves up off the hallway floor and crumpled the second time, the neuropathy is also causing progressive weakness in your shoulders, biceps, and forearms—which is why standard manual wheelchairs that you have to push with your hands are out of the question."
+"In this condition, the longest motor nerves in the body—the ones running from the lower spine down to the feet, ankles, calves, and quadriceps—lose their electrical signal amplitude first, and the sixteen-year-old adolescent growth spurt pushes those nerves past their threshold," Dr. Carter said. "Today at school, those lower-extremity motor nerves finally dropped below the threshold required to keep your knees locked upright. And as you both felt when you tried to push yourselves up off the hallway floor and crumpled the second time, the neuropathy is also causing progressive weakness in your shoulders, biceps, and forearms—which is why standard manual wheelchairs that you have to push with your hands are out of the question."
 
-"What about our fingers, Dr. Chen?" Katie asked, her voice small but brave as she held onto my hand. "Are we still going to be able to type on our computers and write *Quantum Basic* code?"
+"What about our fingers, Dr. Carter?" Katie asked, her voice small but brave as she held onto my hand. "Are we still going to be able to type on our computers and write *Quantum Basic* code?"
 
-Dr. Chen's face warmed with an immediate, reassuring smile.
+Dr. Carter's face warmed with an immediate, reassuring smile.
 
-"Yes, Katie—and that is the best news in your entire lab packet," Dr. Chen answered. "As long as we stop you from straining your shoulders and wrists trying to lift your body weight or push manual wheelchair rims, your fine finger dexterity at a keyboard will remain intact for years to come. You will both be able to type, write computer code, use a mouse, and hold hands—and with a fingertip joystick on your power wheelchair armrests, you'll be able to glide through Northwood High School all day without tiring your arms at all."
+"Yes, Katie—and that is the best news in your entire lab packet," Dr. Carter answered. "As long as we stop you from straining your shoulders and wrists trying to lift your body weight or push manual wheelchair rims, your fine finger dexterity at a keyboard will remain intact for years to come. You will both be able to type, write computer code, use a mouse, and hold hands—and with a fingertip joystick on your power wheelchair armrests, you'll be able to glide through Northwood High School all day without tiring your arms at all."
 
-Dr. Chen pulled three prescription and accommodation forms from her folder and signed them right on the bedside tray table.
+Dr. Carter pulled three prescription and accommodation forms from her folder and signed them right on the bedside tray table.
 
-"First," Dr. Chen said, "I have signed an urgent hospital prescription for two SwiftChair compact, portable take-apart power wheelchairs—small-footprint motorized chairs with ten-inch drive wheels, right-hand armrest joysticks, and removable battery boxes and seats that you can break down to fit inside the trunk of your sedan, David, along with a smooth composite transfer sliding board so Nathaniel and Katie can slide horizontally from their wheelchair seats onto the back seat of the car or onto their beds without ever putting weight on their legs. Second, Hospital Physical Therapy is bringing up two loaner wheelchairs and a transfer board right now so Dad can take you home safely tonight until the custom powerchairs are delivered in two weeks. And third, here is your updated Section 504 Plan for Northwood High School: elevator keys, duplicate classroom textbooks so you never lift a heavy bag, and full-time wheelchair access starting Monday morning."
+"First," Dr. Carter said, "I have signed an urgent hospital prescription for two SwiftChair compact, portable take-apart power wheelchairs—small-footprint motorized chairs with ten-inch drive wheels, right-hand armrest joysticks, and removable battery boxes and seats that you can break down to fit inside the trunk of your sedan, David, along with a smooth composite transfer sliding board so Nathaniel and Katie can slide horizontally from their wheelchair seats onto the back seat of the car or onto their beds without ever putting weight on their legs. Second, Hospital Physical Therapy is bringing up two loaner wheelchairs and a transfer board right now so Dad can take you home safely tonight until the custom powerchairs are delivered in two weeks. And third, here is your updated Section 504 Plan for Northwood High School: elevator keys, duplicate classroom textbooks so you never lift a heavy bag, and full-time wheelchair access starting Monday morning."
 
 Dad picked up the signed forms, then leaned down between our two hospital beds and wrapped one arm around Katie and one arm around me, kissing the top of Katie's head and then mine just above our bruised foreheads.
 
@@ -1115,7 +1115,7 @@ Dad picked up the signed forms, then leaned down between our two hospital beds a
 
 Sitting side by side on the back bench seat of our Holt sedan with the rear passenger doors swung wide open to the concrete driveway of our new rental house and our inner hands clasped together, Katie and I watched Dad practice the disassembly routine he had timed with his wristwatch all morning.
 
-Four days earlier, the seating clinic had delivered the two compact, take-apart power wheelchairs Dr. Chen had prescribed for us after our legs gave out for good in the hallway at Northwood High School—nimble, small-footprint power bases with ten-inch solid drive wheels, under-seat battery packs, and feather-light right-hand armrest joysticks that let us glide down the long corridors of school with a gentle nudge of one finger without ever straining our wrists or shoulders on manual hand rims. Because Dr. Chen had documented our progressive axonal motor neuropathy down to the millimeter, Dad's health insurance had covered ninety percent of the chairs.
+Four days earlier, the seating clinic had delivered the two compact, take-apart power wheelchairs Dr. Carter had prescribed for us after our legs gave out for good in the hallway at Northwood High School—nimble, small-footprint power bases with ten-inch solid drive wheels, under-seat battery packs, and feather-light right-hand armrest joysticks that let us glide down the long corridors of school with a gentle nudge of one finger without ever straining our wrists or shoulders on manual hand rims. Because Dr. Carter had documented our progressive axonal motor neuropathy down to the millimeter, Dad's health insurance had covered ninety percent of the chairs.
 
 What health insurance didn't cover, however, was a vehicle to carry them assembled.
 
@@ -1191,7 +1191,7 @@ It was the start of our second full week navigating eleventh grade on four wheel
 
 ![Inside the sunlit locker-lined hallway of Northwood High School in Virginia Beach in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie roll side by side in their compact SwiftChair power wheelchairs holding inner hands with warm, confident smiles]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_high_four_wheels_hallway_katie_nathaniel.jpg)
 
-Back in September, walking from the morning bus loop to first period had left our calves cramping, our knees trembling, and our shoulders aching from the weight of our backpacks before the first bell even rang. Now, thanks to the Section 504 Medical Mobility Plan that Dr. Chen had signed and Dad had walked into the principal's office, neither Katie nor I carried a single textbook between classes. A duplicate set of our Junior-year textbooks sat on a designated shelf in each of our classrooms, and clipped to our lanyard ID badges alongside our house keys were two shiny brass Vanguard Elevator keys issued by the school custodian.
+Back in September, walking from the morning bus loop to first period had left our calves cramping, our knees trembling, and our shoulders aching from the weight of our backpacks before the first bell even rang. Now, thanks to the Section 504 Medical Mobility Plan that Dr. Carter had signed and Dad had walked into the principal's office, neither Katie nor I carried a single textbook between classes. A duplicate set of our Junior-year textbooks sat on a designated shelf in each of our classrooms, and clipped to our lanyard ID badges alongside our house keys were two shiny brass Vanguard Elevator keys issued by the school custodian.
 
 Socially, however, showing up to your Junior year of high school in matching power wheelchairs was like dropping a boulder into the middle of a swimming pool.
 
@@ -4933,7 +4933,7 @@ At precisely 12:00 PM, the heavy ivory gavel came down on the marble rostrum, ca
 
 As the Reading Clerk began calling the Newly Elected Senators forward to the well in alphabetical groups of four—*"Ms. Prairie of Virginia..."*—Dad reached over and gripped my shoulder with a steady, calloused hand.
 
-In the span of three heartbeats, forty-one years of our lives flashed behind my eyes: two nine-year-old twins whispering our *Journey to the Sunlit Valley* cartoon password before unlocking the front door after school; two twelve-year-olds wearing matching maroon shirts on Twins' Day when a sixth-grade boy broke my sister's heart; two sixteen-year-olds learning in Dr. Chen's exam room that the borrowed time in our legs was almost gone; two seventeen-year-olds wedging a fifty-pound power wheelchair against the inside of a locked bedroom door on New Year's Eve while we ate dry toasted oat cereal out of a cardboard box to stay safe from a house full of drunks; and two twenty-three-year-olds holding a camcorder on a CVTA Route 15 bus crossing the Elizabeth River as we exposed why working people couldn't even catch a bus home from a six o'clock City Council meeting.
+In the span of three heartbeats, forty-one years of our lives flashed behind my eyes: two nine-year-old twins whispering our *Journey to the Sunlit Valley* cartoon password before unlocking the front door after school; two twelve-year-olds wearing matching maroon shirts on Twins' Day when a sixth-grade boy broke my sister's heart; two sixteen-year-olds learning in Dr. Carter's exam room that the borrowed time in our legs was almost gone; two seventeen-year-olds wedging a fifty-pound power wheelchair against the inside of a locked bedroom door on New Year's Eve while we ate dry toasted oat cereal out of a cardboard box to stay safe from a house full of drunks; and two twenty-three-year-olds holding a camcorder on a CVTA Route 15 bus crossing the Elizabeth River as we exposed why working people couldn't even catch a bus home from a six o'clock City Council meeting.
 
 Down on the blue carpet of the Senate Chamber, Katie didn't need stairs. She nudged her right thumb forward on her joystick, rolled her compact SwiftChair smoothly down the newly installed permanent ramp along the chamber aisle into the well of the Senate, and raised her right hand toward the rostrum.
 
