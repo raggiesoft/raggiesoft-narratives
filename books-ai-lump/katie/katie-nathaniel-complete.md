@@ -5439,7 +5439,7 @@ Inside the warm cocoon of our shared sleeping bag in the dark closet, United Sta
 
 Inside Room 511 of the Dirksen Senate Office Building, the wall-mounted television was tuned to a live morning press availability on the South Lawn of the White House, where President Garrett Thorne was shouting over the helicopter rotor wash at a cluster of reporters.
 
-"You want to know why my nominee for Deputy Secretary of Transportation is still stalled in committee?" Thorne barked into the microphones, jabbing a thick finger toward Capitol Hill. "Because Broken Katie Prairie—a nasty, bitter little woman who can't even walk up the steps of the Capitol without taxpayers building her a ramp—is running a personal vendetta from her wheelchair! Look at her life! Forty-one years old, never married, couldn't keep a real man when she was twenty, still living in her father's house in Alexandria with her crippled twin brother writing little computer spreadsheets for her! She's defective, folks—physically and mentally defective—and the Senate Commerce Committee shouldn't be held hostage by a spinster on wheels!"
+"You want to know why my nominee for Deputy Secretary of Transportation is still stalled in committee?" Thorne barked into the microphones, jabbing a thick finger toward Capitol Hill. "Because Broken Katie Prairie—a nasty, bitter little cripple who can't even walk up the steps of the Capitol without taxpayers building her a ramp—is running a personal vendetta from her wheelchair! Look at her! She's slow, she has no stamina, forty-one years old, never married, couldn't keep a real man when she was twenty, still living in her father's house in Alexandria with her crippled twin brother writing little computer spreadsheets for her! She's defective, folks—physically and mentally defective—and the Senate Commerce Committee shouldn't be held hostage by a spinster on wheels!"
 
 Across the private office, Katie's paid legislative director, Sarah, reached for the remote control to mute the screen, her face pale with anger.
 
@@ -5667,7 +5667,7 @@ Beside my left wheel, Nate's voice was quiet, steady, and devastatingly clear.
 
 Sitting in my SwiftChair with Dad's forty-second-birthday gift bag from Neat Stuff hanging beside my armrest, I looked from the six-foot cardboard cutout of Garrett Thorne grinning beside the register to Brenda, and then to Sharron, Donna, and Carol.
 
-"Sixteen days ago, on the morning of March eighteenth," I said evenly, "the man on that cardboard cutout stood on the South Lawn of the White House on live national television and called me a 'defective, bitter little cripple on wheels' and called your son Nate my 'crippled twin brother.' Not only did you build a shrine to the man who mocked your own children's wheelchairs on national television, Brenda—you're also deceiving your own friends and customers right here in Suite 756."
+"Sixteen days ago, on the morning of March eighteenth," I said evenly, "the man on that cardboard cutout stood on the South Lawn of the White House on live national television and called me a 'nasty, bitter little cripple,' said I was 'slow' and had 'no stamina,' called us 'defective,' and mocked your son Nate as my 'crippled twin brother.' Not only did you build a shrine to the man who hurled derogatory slurs at your own children's wheelchairs on national television, Brenda—you're also deceiving your own friends and customers right here in Suite 756."
 
 I pointed past the plastic jar of five-dollar buttons on the counter to the hidden eight-point disclaimer taped flat against the glass.
 
@@ -5675,13 +5675,17 @@ I pointed past the plastic jar of five-dollar buttons on the counter to the hidd
 
 Donna and Carol stepped up to the glass counter, peered behind the button jar at the tiny eight-point disclaimer, and looked from Brenda's blotchy face to the grinning cardboard cutout of Garrett Thorne.
 
-As mothers and grandmothers themselves, the three women looked at what Brenda had done to make her own two children cut her off—forcing two sixteen-year-old teenagers with failing legs onto a cruise ship, screaming at them when they couldn't walk, retreating to a bottle of gin when they went into wheelchairs, forgetting their forty-second birthday, and then worshiping a man who mocked her own son and daughter as *"defective cripples"* on national television while she fleeced her own chapter friends behind a button jar.
+As mothers and grandmothers themselves, the three women looked at what Brenda had done to make her own two children cut her off—forcing two sixteen-year-old teenagers with failing legs onto a cruise ship, screaming at them when they couldn't walk, retreating to a bottle of gin when they went into wheelchairs, forgetting their forty-second birthday, and then cheering on a man who mocked her own son and daughter on national television while she fleeced her own chapter friends behind a button jar.
 
 In that quiet strip-mall storefront, the entire illusion of the movement they had been pouring their lives into shattered at once.
 
+Sharron stared at the cardboard cutout of Garrett Thorne, and then looked straight across the counter at Brenda in horror.
+
+"Wait—we worshipped a man who has said derogatory things about your own daughter?!" Sharron said, her voice trembling with maternal outrage. "Calling her a cripple, and slow, and saying she has no stamina?! No, Brenda, we can't support this anymore!"
+
 Sharron set the two flags and the coffee mug she had been holding flat down onto the glass counter with a sharp thud—and then reached up to the collar of her cardigan, unpinned her gold-bordered crimson *Restore the Republic — Chapter President* badge, and dropped it onto the glass right in front of Brenda.
 
-"I started our Virginia Beach Restore the Republic chapter three years ago—and just like your phony store, Brenda, President Thorne never endorsed or cared about a single one of us either," Sharron said, her voice shaking with disgust. "I am a mother and a grandmother. Hearing what you did to your own sixteen-year-old twins when they went into wheelchairs—and watching you stand here worshipping a man who calls your own children 'defective cripples' on television while you use our members as your personal piggy bank—makes me sick to my stomach."
+"I started our Virginia Beach Restore the Republic chapter three years ago—and just like your phony store, Brenda, President Thorne never endorsed or cared about a single one of us either," Sharron said, her voice shaking with disgust. "I am a mother and a grandmother. Hearing what you did to your own sixteen-year-old twins when they went into wheelchairs—and watching you stand here worshipping a man who calls your own daughter a cripple and slow on national television while you use our members as your personal piggy bank—makes me sick to my stomach."
 
 Beside her, Donna and Carol reached up to their own lapels, unpinned their crimson Restore the Republic pins, and dropped them onto the glass countertop with two sharp metallic clicks.
 
