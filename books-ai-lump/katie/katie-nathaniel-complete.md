@@ -3403,9 +3403,17 @@ In the spring of 2007, nobody at state vocational centers or university housing 
 
 "Opposite-gender room visitation between six and eleven in the evening is an earned privilege reserved exclusively for Level 4 clients over in Carter-Ashley Hall," Linda continued in a practiced, cheerful tone, "and all newly arriving clients here in Barnett Hall start at Level 2. You two are more than welcome to spend time together in the dorm lobby, the outdoor courtyard, the recreation hall, or the dining hall—just not inside the dorm rooms proper. Since you're brother and sister and just arrived, I'm going to escort you down the halls right now so you can help each other unpack your bags, but once your suitcases are unpacked, you'll each have to leave the other's room."
 
-With Linda walking beside us, we rolled down to the men's wing first so Katie and Dad could help me unload my clothes and laptop bag onto my side of the narrow two-bed room—where my assigned roommate was already lounging on the other bed watching us in silence—and then rolled over to Room 157 on the women's wing to help Katie unpack alongside her new roommate, who greeted all three of us warmly.
+As Linda stood up from her desk and stepped around the counter, another residential staffer lingered by the doorway and automatically reached both hands toward the rear push-bars of Katie's SwiftChair as if he were about to wheel her down the corridor himself.
 
-As soon as the last suitcase was stowed and we rolled back out to the neutral territory of the Barnett Hall lobby with our MagnaBook laptops in our laps, Katie steered her wheelchair flush against mine and leaned close to my ear.
+Katie flipped her power switch off and locked her electromagnetic brakes before his fingers even touched the grips, turning her head to fix him with a cool, steady stare. "Please don't touch my wheelchair," she said firmly. "My brother and I drive our own SwiftChairs, and we don't like being pushed around—literally or figuratively."
+
+"She's right," I added evenly, pulling my own SwiftChair alongside hers so there was zero room for anyone to step between us. "We've been driving these chairs full-time for five and a half years, and we lived in our own apartments in Norfolk before we came up here. Just tell us which room number and we'll roll ourselves there."
+
+The staffer blinked, pulled his hands back into his pockets, and stepped aside without another word.
+
+With Linda walking beside us, we rolled our SwiftChairs down to the men's wing first so Katie and Dad could help me unload my clothes and laptop bag onto my side of the narrow two-bed room—where my assigned roommate was already lounging on the other bed watching us in silence—and then rolled over to Room 157 on the women's wing to help Katie unpack alongside her new roommate, who greeted all three of us warmly.
+
+As soon as the last suitcase was stowed and we rolled back out to the neutral territory of the Barnett Hall lobby with our MagnaBook laptops in our laps, Katie steered her SwiftChair flush against mine and leaned close to my ear.
 
 "I noticed your roommate was staring at my tits the entire time I was helping you unpack," Katie said quietly, her jaw tight.
 
@@ -3497,9 +3505,15 @@ Watching the relief wash over Katie's face as we rolled out of the office made t
 
 We were both right—watery scrambled eggs and limp toast—and as soon as we finished eating, we had to join the long single-file line of Level 2 clients waiting outside the dispensary window for our morning dose of maintenance medication.
 
-"This is so stupid," Katie whispered in exasperation as we inched forward in our wheelchairs. "We're twenty-one years old, and we're both used to managing our own medication bottles back home in our apartment."
+"This is so stupid," Katie whispered in exasperation as we inched forward in our SwiftChair power wheelchairs. "We're twenty-one years old, and we're both used to managing our own medication bottles back home in our apartment."
 
-"I don't think I'm going to like it here," I responded quietly, slipping my arm around her shoulders.
+When we finally reached the dispensary counter and the nurse tried to talk to us in a high-pitched, sing-song voice as if we were seven-year-olds learning how to swallow a vitamin, I looked straight across the counter at her.
+
+"Ma'am, we have associate degrees and we've managed our own prescriptions in our own apartment for three and a half years," I said flatly. "You don't need to talk down to us like children. Just hand us the paper cups and check our names off the clipboard."
+
+The nurse's patronizing smile vanished immediately, and she handed over our cups in silence.
+
+"I don't think I'm going to like it here," I responded quietly to Katie as we rolled away from the window, slipping my arm around her shoulders.
 
 "I already miss the apartment," Katie whispered back, leaning against my arm.
 
@@ -3577,17 +3591,17 @@ Along with our official clearance into the year-long Web Applications Developer 
 
 Being on Level 3 in Carter-Ashley Hall didn't fix the one rule we still hated—we were still barred from sleeping in the same dorm room overnight—but it eliminated the two most suffocating indignities of Level 2. On Level 3, there was no more eleven-o'clock bed-check curfew where night staffers shined flashlights into our rooms, and even better, we never had to beg a counselor for a yellow paper Hall Pass to leave the center grounds again. Whenever Katie and I wanted to roll out to the stop on Roosevelt Avenue to catch the VATS bus into Waynesboro or Staunton, we simply rolled up to the Carter-Ashley Hall front desk, wrote our names and destination on the sign-out clipboard, and went on our way like adults.
 
-Even better was what happened at eight o'clock on Monday morning when we rolled our wheelchairs into the Web Applications Developer classroom for our very first day of actual programming instruction.
+Even better was what happened at eight o'clock on Monday morning when we rolled our compact black SwiftChair power wheelchairs into the Web Applications Developer classroom for our very first day of actual programming instruction.
 
 After two weeks of butting heads with Voc Eval evaluators who had tried to force us to sit on opposite sides of the room to "prove social skills," we half-expected another lecture about splitting up. Instead, our Web Applications Developer instructor, Mr. Henderson—a sharp, practical veteran programmer who had zero patience for institutional nonsense and was the exact teacher who first taught us to call the center's petty overnight dorm incident blotter "the Chickenshit Report"—took one look at the two of us rolling through his doorway side by side and smiled.
 
-"You two must be Nathaniel and Katie Prairie," Mr. Henderson said, gesturing toward the long double workstation table near the front of the lab where two wide wheelchair bays sat side by side. "I saw your Voc Eval coding scores on Friday. Take those two stations right there together—you've got plenty of room to park your chairs wheel-to-wheel."
+"You two must be Nathaniel and Katie Prairie," Mr. Henderson said, gesturing toward the long double workstation table near the front of the lab where two wide wheelchair bays sat side by side. "I saw your Voc Eval coding scores on Friday. Take those two stations right there together—you've got plenty of room to park your SwiftChairs wheel-to-wheel."
 
 Katie and I looked at each other and exhaled the biggest breath of relief we had taken since arriving in Fishersville.
 
 ***
 
-#### 9:00 AM — Why Nobody Could Code on the Commonwealth's Quantum OS 2000 Professional Desktops
+#### 9:00 AM — Quantum OS 2000 Professional, Meeting Tina, Jim, and Sheila, & Refusing to Be Pushed Around
 
 Our relief lasted right up until nine o'clock, when Mr. Henderson told the class to power on the beige Commonwealth of Virginia property-tagged desktop towers sitting on the classroom desks.
 
@@ -3597,7 +3611,7 @@ It was March of 2007—yet every single desktop computer in the Web Applications
 
 Not only was the operating system seven years out of date, but VITA—the Virginia Information Technology Agency in Richmond—had locked the machines down with group-policy permissions so suffocating that a student login couldn't install up-to-date software or a modern web browser, couldn't edit a local PHP configuration file, couldn't start or stop a local web server service, and couldn't even open a command prompt or control panel without triggering a red *ADMINISTRATOR ACCESS DENIED — CONTACT SYSTEM ADMINISTRATOR* alert box.
 
-Across the aisle from our wheelchairs, a middle-aged man with a salt-and-pepper beard tapped his keyboard twice, stared at the locked-down Quantum OS 2000 Professional desktop, and let out a dry laugh. "Well, if the Commonwealth wants us to build database-driven web applications on these dinosaurs, I hope they're planning to give us until the year 2030."
+Across the aisle from our SwiftChairs, a middle-aged man with a salt-and-pepper beard tapped his keyboard twice, stared at the locked-down Quantum OS 2000 Professional desktop, and let out a dry laugh. "Well, if the Commonwealth wants us to build database-driven web applications on these dinosaurs, I hope they're planning to give us until the year 2030."
 
 "Where are you from?" I asked, hearing the unmistakable Tidewater cadence in his voice.
 
@@ -3607,15 +3621,43 @@ Across the aisle from our wheelchairs, a middle-aged man with a salt-and-pepper 
 
 Before we could even finish comparing notes with Jim on CVTA bus routes, the two middle-aged women sitting at the stations immediately to our right turned around and joined the conversation—and within ten minutes, the five of us had formed the core friendship that would carry Katie and me through the entire year at RRC.
 
-Sitting closest to Katie was Tina, a warm, sharp-witted middle-aged woman from Luray up in the Page Valley who loved writing clean code every bit as much as Katie and I did. Right beside Tina was Sheila, a cheerful middle-aged day commuter who drove down Interstate 81 from her home in Harrisonburg every weekday morning and had a brilliant eye for digital graphics design and user-interface layouts. While half the twenty-year-olds in the dormitories spent their days tangled up in juvenile cafeteria drama, Tina, Jim, and Sheila were grown adults who treated Katie and me like equals and respected our twin bond from the very first hour.
+Sitting closest to Katie was Tina, a short, petite middle-aged woman with glasses and jet-black hair from Luray up in the Page Valley who loved writing clean code every bit as much as Katie and I did. Right beside Tina was Sheila, a cheerful middle-aged day commuter who drove down Interstate 81 from her home in Harrisonburg every weekday morning and had a brilliant eye for digital graphics design and user-interface layouts. While half the twenty-year-olds in the dormitories spent their days tangled up in juvenile cafeteria drama, Tina, Jim, and Sheila were grown adults who treated Katie and me like equals and respected our twin bond from the very first hour.
 
-"There is only one way any of us is going to write real PHP and SQL in this room," Tina said pragmatically on Tuesday morning, unzipping her shoulder bag and setting her own personal laptop right on top of the desk in front of the useless state keyboard. "We run our own local web servers on our own laptops."
+Even more than her passion for PHP, what made Katie and me adore Tina immediately was that—despite her short, petite frame behind her glasses—Tina refused to be pushed around by anyone at Roosevelt Rehabilitation Center. She told it like it was, straight to people's faces without sugarcoating a single word, and the RRC bureaucracy did not like that one bit. What drove the Center's staff crazy was that they couldn't write her up or discipline her for it, because Tina never broke a single rule in the client handbook. She followed every written regulation to the letter, called out institutional stupidity the second she saw it, and then every single Friday afternoon as soon as class ended, she packed her bag, got in her car, and went home to Luray for the weekend, leaving Fishersville in her rearview mirror until Monday morning.
+
+"I heard down the hall how the two of you stood your ground against Ms. Hollis in Voc Eval last week when she tried to split you up," Tina said, adjusting her glasses and grinning warmly at Katie and me. "Good for you. Half the staff in this place think a clipboard gives them a license to push clients around just because they can. If you know the rulebook and you don't let them push you around, there's not a thing they can do to you."
+
+We saw that firsthand at four o'clock that very Friday afternoon down in the Carter-Ashley Hall lobby.
+
+Tina had her weekend bag slung over her petite shoulder, ready to head out to the parking lot for her weekly drive home to Luray, while Katie and I were rolled up side by side in our SwiftChairs at the front desk signing our names into the Level 3 sign-out register before catching the VATS shuttle into Waynesboro for dinner. A prickly afternoon residential supervisor named Mr. Vance walked out of the inner office, saw our two power wheelchairs turning toward the automatic doors, and stepped right in front of our front casters with his arms crossed.
+
+"Hold on right there, you two," Mr. Vance barked, reaching a hand out toward the backrest of my SwiftChair as if he were about to steer me back from the threshold. "Where do you think you're rolling off to at four o'clock, and where is your counselor's yellow Hall Pass?"
+
+"First, take your hand off my brother's SwiftChair," Katie said, her voice ringing crisp and clear across the lobby as both of us held our ground without backing up a millimeter. "Second, we finished Vocational Evaluation last week, Mr. Vance. We live in Carter-Ashley Hall now, and we are Level 3 clients."
+
+"Under Section Four of the Carter-Ashley Hall residential handbook," I said evenly, pointing down at our freshly written signatures on the open desk binder, "Level 3 clients do not require a yellow Hall Pass to leave campus. We are required to print our full names, our destination, our departure time, and our expected return time in the front-desk register—all four of which are written right there on line twelve. We aren't Level 2 clients in Barnett Hall anymore, and we aren't going to be pushed around like we're breaking a rule when we just followed the handbook to the letter."
+
+Standing right beside Katie's chair with her car keys in her hand, Tina peered up at Mr. Vance through her glasses, her jet-black hair framing a look of cool, unapologetic amusement.
+
+"They've got you dead to rights on page fourteen of the handbook, Mr. Vance," Tina said bluntly, telling it like it was in front of half the lobby. "They're Level 3, they signed the book in ink, and neither of them is breaking a single rule in this building. If you keep blocking the doorway when they've complied with Center policy, the only person violating the handbook here is you."
+
+Mr. Vance's face flushed crimson from his collar to his hairline. He glared at Tina and then down at Katie and me, searching desperately for something to cite us for—and finding nothing at all, he stepped stiffly out of the doorway.
+
+"Have a wonderful weekend, Mr. Vance," Tina said cheerfully as she walked out the automatic doors beside our two SwiftChairs. "See you Monday morning—I'm heading home to Luray!"
+
+***
+
+#### Coding on Personal Laptops & Standing Up to the New VITA-Obsessed Administrator
+
+That exact same refusal to be pushed around carried right into our classroom whenever Center bureaucracy tried to interfere with our education.
+
+"There is only one way any of us is going to write real PHP and SQL in this room," Tina had declared pragmatically on our second morning of class, unzipping her shoulder bag and setting her own personal laptop right on top of the desk in front of the useless state keyboard. "We run our own local web servers on our own laptops."
 
 Within forty-eight hours, every single student in the Web Applications Developer class—Katie, me, Tina, Sheila, Jim, Sarah, Amanda, Bryan, and Sean—had pushed the state-owned Quantum OS 2000 Professional keyboards toward the back of the desks and was coding full-time on our own personal laptops.
 
 Even though Center rules technically forbade using personal computers in the classroom, both the old vocational division administrator and our Web Applications Developer teacher, Mr. Henderson, let all of us get away with it. They knew perfectly well how horribly outdated the RRC computers were, and they understood that letting us work on our own laptops was the only way we could run Apache, PHP 5, and MySQL with the administrative permissions we needed.
 
-Later that spring, however, the old administrator retired and Roosevelt Rehabilitation Center brought in new administrative leadership—a stiff bureaucrat in a pressed suit who knew nothing about software engineering and only knew what he had been told by VITA, the Virginia Information Technology Agency.
+Later that spring, however, the old administrator retired and Roosevelt Rehabilitation Center brought in new administrative leadership—a stiff bureaucrat in a pressed suit who knew nothing about software engineering, hated when clients spoke back to him, and only knew what he had been told by VITA, the Virginia Information Technology Agency.
 
 Walking into our classroom during a weekday morning coding session, the new administrator stopped dead in the middle of the aisle and frowned at the row of open personal laptops sitting in front of the dark state CRT monitors.
 
@@ -3623,13 +3665,21 @@ Walking into our classroom during a weekday morning coding session, the new admi
 
 Katie, Tina, Sheila, Jim, and I all stopped typing at once.
 
-"Because, sir," Katie spoke up politely from her wheelchair before Mr. Henderson even had to answer, "the Center-provided computers on these desks are horribly outdated. They're still running Quantum OS 2000 Professional, and VITA has the permissions locked down so hard that we can't install up-to-date software, configure a PHP server, or run a local database."
+"Because, sir," Katie spoke up politely from her SwiftChair before Mr. Henderson even had to answer, "the Center-provided computers on these desks are horribly outdated. They're still running Quantum OS 2000 Professional, and VITA has the permissions locked down so hard that we can't install up-to-date software, configure a PHP server, or run a local database."
 
-The new administrator blinked at Katie, clearly not understanding a word of what web application developers actually needed to do their jobs. "VITA has assured my office that every workstation on the Commonwealth network is configured with standard agency software and mandatory security lockdowns. You are here to use the computers VITA provided."
+The new administrator stepped over to our workstation table, looking down at Katie and me in our wheelchairs as if he expected the two of us to shrink back and close our laptop lids. "VITA has assured my office that every workstation on the Commonwealth network is configured with standard agency software and mandatory security lockdowns," he said sharply. "You are clients here, not the IT department. Close those personal laptops right now and use the computers VITA provided."
 
-"Sir, with all due respect," Tina chimed in from beside Katie while Sheila and Jim nodded behind her, "VITA configured these machines for someone typing memos in a seven-year-old word processor, not for students building web applications. We need computers with up-to-date software, and we need permissions not to be locked down so hard that we can't even start a local web server or edit a configuration file."
+Neither Katie nor I touched our laptop hinges.
 
-Completely unable to grasp why a VITA-locked Quantum OS 2000 Professional desktop couldn't build modern web apps—yet having no answer when Mr. Henderson backed us up—the new administrator muttered something about "consulting with VITA compliance" and walked out the door, leaving the rest of us to shake our heads and go right back to coding on our personal laptops: Katie, Tina, and I writing the PHP back-end logic, Sheila designing the interface graphics, and Jim keeping everyone's hardware humming.
+"No, sir, we won't do that," I said calmly from my SwiftChair, meeting his stare without blinking. "Our state vocational rehabilitation plans specifically fund us to complete the Commonwealth's accredited Web Applications Developer syllabus in PHP 5 and relational database design. If you force us onto seven-year-old Quantum OS 2000 Professional machines where VITA has blocked local web servers and command prompts, you are preventing us from completing the state-mandated curriculum."
+
+Right beside Katie's chair, Tina stood up to her full petite height, pushed her glasses up the bridge of her nose, and looked the new administrator straight in the eye.
+
+"Let me tell you how it is, sir, since somebody needs to say it plainly," Tina said, her voice steady and fearless while Sheila and Jim nodded behind her. "None of us is breaking a single VITA network rule—not one of these personal laptops is plugged into the Commonwealth's ethernet jacks. VITA configured those beige dinosaurs on the desks for someone typing memos in a seven-year-old word processor, not for web application developers. We need computers with up-to-date software, and we need permissions not to be locked down so hard that we can't even start a local web server or edit a configuration file. Unless VITA is going to walk in here today and install modern software with developer permissions on those towers, closing our laptops means shutting down the entire class."
+
+"And if you shut down the class," Katie added evenly from her SwiftChair, "my brother and I—and everyone else at these desks—will be happy to call our regional Vocational Rehabilitation counselors before lunch and explain that the new administration in Fishersville won't let us write code."
+
+The new administrator stared from Tina's unblinking glasses to Katie's and my twin SwiftChairs. Just like the dorm staff in Carter-Ashley Hall, he clearly hated that Tina and the two of us refused to be pushed around—yet because none of our laptops was connected to the state network, we weren't breaking a single VITA security regulation, and he knew Mr. Henderson and the regional counselors would back us up. Muttering something under his breath about "consulting with VITA compliance," he turned on his heel and walked out the door, leaving the rest of us to exchange satisfied grins and go right back to coding on our personal laptops: Katie, Tina, and I writing the PHP back-end logic, Sheila designing the interface graphics, and Jim keeping everyone's hardware humming.
 
 ### Part 2: Part 2: Four Months into PHP, The Emergency in the Therapeutic Pool, & The Chickenshit Report
 
@@ -3779,11 +3829,11 @@ Even so, my sister didn't want to be in that meeting, and she was still deeply s
 
 #### Wednesday, July 11, 2007, 9:15 PM — When Red Tape Blindly Follows a Scrambled Room Roster
 
-I was sitting at my desk in Carter-Ashley Hall with my laptop webcam connected to Katie's room when the door to my room opened and in popped Tina.
+I was sitting in my SwiftChair at my desk in Carter-Ashley Hall with my laptop webcam connected to Katie's room when the door to my room opened and in popped Tina.
 
-"What are you doing in here?" I asked politely, blinking in surprise at seeing a female classmate standing inside a men's dormitory room after nine o'clock at night.
+"What are you doing in here?" I asked politely, blinking in surprise at seeing our short, petite classmate with her glasses and jet-black hair standing inside a men's dormitory room after nine o'clock at night.
 
-Tina held up her newly issued plastic keycard with a look of bewildered disbelief on her face. "I thought something was fishy when they gave me this keycard at the front desk."
+Tina pushed her glasses up her nose and held up her newly issued plastic keycard with a look of bewildered disbelief on her face. "I thought something was fishy when they gave me this keycard at the front desk."
 
 I turned my laptop on the desk so the camera was facing Tina. "Katie, look who just came into my dorm."
 
@@ -3793,9 +3843,11 @@ That was when all of us realized something seriously wrong was going on with the
 
 Because of Roosevelt Rehabilitation Center's suffocating bureaucratic red tape, the front-desk staff had been expected to follow the printed computer roster blindly and reassign everyone to the rooms listed on the sheet—even when the printout was putting women in men's suites and men in women's wings!
 
+"Only at this place would staff hand a grown woman a keycard to a men's suite without once using their brains to question the printout," Tina said bluntly, telling it like it was as she shook her head. "Thank goodness I go home to Luray every weekend, because four nights a week of this bureaucracy is already pushing my limit."
+
 "What's going on over there?" Katie asked through the open video-chat window. "Do not close this chat window, Nate. I'd come over to your room right now, except I need to stay by my things in case someone comes to my room."
 
-"Makes sense," Tina replied, nodding toward the corridor. "Now, I think we should get this sorted out right away."
+"Makes sense," Tina replied, nodding toward the corridor. "And nobody at that front desk is pushing us around tonight. Let's get this sorted out right away."
 
 When we stepped out into the hallway, the only dorm staffer on duty was Herbert—whom everyone called Herb. Herb was the one dorm staffer all of us liked because he was the guy who put on weekend video-game tournaments in the lounge, though we all knew he had zero administrative authority to override Center red tape.
 
@@ -3817,17 +3869,17 @@ I looked straight back at the laptop monitor where Chris was standing and said c
 
 Herb looked at me and said with quiet respect, "You really care about your sister, don't you?"
 
-I nodded once and rolled at full speed out of my suite toward Katie's dorm room, with Jim and two other classmates from my suite, Bryan and Sean, walking right beside me just in case.
+I nodded once and rolled my SwiftChair at full speed out of my suite toward Katie's dorm room, with Jim and two other classmates from my suite, Bryan and Sean, walking right beside me just in case.
 
 As I expected when we reached her doorway, Chris had bolted down the hall and Katie was busy shoving her clothes into her suitcase haphazardly with trembling hands. Without saying a word, I quickly helped her shove the rest of her things in while Jim, Bryan, and Sean grabbed her bags to carry them back to my suite.
 
-My sister was in tears as she rolled into my room. One look at her face told Herb all he needed to know: *do not argue with Katie right now, because she is ready to snap at any second.*
+My sister was in tears as she rolled her SwiftChair into my room. One look at her face told Herb all he needed to know: *do not argue with Katie right now, because she is ready to snap at any second.*
 
 Katie put her arm tightly around me, and I looked straight at Herb. "I don't care what the rules state." Turning my attention to Tina, who held the keycard to the other bed in my room, I asked, "Would you care if my sister and I shared my bed?"
 
 *"Campus Police to Carter-Ashley Hall,"* suddenly crackled over Herb's walkie-talkie.
 
-Herb hurried out of the suite to answer the call, leaving Amanda, Bryan, Jim, Katie, Kim, Sarah, Sean, Tina, and me inside the suite. Looking at the frightened expression on Katie's face, Tina said warmly, "She needs you right now. I have no problems at all, as long as you two think you both can fit on that tiny bed."
+Herb hurried out of the suite to answer the call, leaving Amanda, Bryan, Jim, Katie, Kim, Sarah, Sean, Tina, and me inside the suite. Looking at the frightened expression on Katie's face through her glasses, Tina said warmly, "She needs you right now. I have no problems at all, as long as you two think you both can fit on that tiny bed."
 
 Once we had a quiet moment on the edge of my bed, I took my sister's trembling hands. "Katie, what's wrong?"
 
@@ -3847,7 +3899,7 @@ Tina sat down next to us as the rest of our classmates in the suite looked on, c
 
 I wasn't surprised in the slightest when my sister dragged me into the bathroom with her so she wouldn't have to be alone behind a closed door. When we both came back out in our night clothes, Tina looked at the two of us with genuine kindness.
 
-"How about this weekend you two spend it with me up in Luray?" Tina offered.
+"You know I go home to Luray every single weekend anyway," Tina offered. "How about this weekend you two come with me and spend it at my house in Luray?"
 
 "That might not be a bad idea," Katie whispered, wiping her eyes.
 
@@ -3907,9 +3959,9 @@ Chris had already been on the verge of getting kicked out of the Center for assa
 
 #### Friday, July 13, 2007, 3:45 PM — The Living-Room Daybed in Luray & Debating Whether to Quit
 
-The second Mr. Henderson dismissed our Web Applications Developer class at three-thirty on Friday afternoon, Katie and I grabbed our packed weekend bags, helped Tina load our compact wheelchairs into the back of her vehicle, and watched the gates of Roosevelt Rehabilitation Center shrink in the rearview mirror as Tina drove us north up Route 340 into the quiet green valley of Luray, Virginia.
+The second Mr. Henderson dismissed our Web Applications Developer class at three-thirty on Friday afternoon, Katie and I grabbed our packed weekend bags, helped Tina break down and load our two compact black SwiftChair power wheelchairs into the back of her vehicle, and watched the gates of Roosevelt Rehabilitation Center shrink in the rearview mirror as Tina made her regular Friday-afternoon drive north up Route 340 into the quiet green valley of Luray, Virginia.
 
-Walking and rolling into Tina's cozy, sunlit house in Luray felt like stepping out of a monochrome prison into a real home. There were no laminated rule signs taped to the walls, no clipboard-carrying evaluators grading our social skills, no locked-down Quantum OS 2000 Professional computers, and no nasty cafeteria rations—just the smell of real home-cooked dinner simmering on the stove and a quiet living room where Tina had already made up her wide pull-out daybed with fresh sheets, fluffy pillows, and a soft quilt specifically for the two of us.
+Walking and rolling into Tina's cozy, sunlit house in Luray felt like stepping out of a monochrome prison into a real home. Now we understood why Tina never missed a single weekend going home to Luray: out here in the Page Valley, there were no laminated rule signs taped to the walls, no clipboard-carrying evaluators or dorm supervisors trying to push clients around, no locked-down Quantum OS 2000 Professional computers, and no nasty cafeteria rations—just the smell of real home-cooked dinner simmering on the stove and a quiet living room where Tina had already made up her wide pull-out daybed with fresh sheets, fluffy pillows, and a soft quilt specifically for the two of us.
 
 That Friday night, after eating the best meal we had tasted in four months and talking code around Tina's kitchen table until ten o'clock, Katie and I climbed onto Tina's living-room daybed together.
 
@@ -3925,13 +3977,13 @@ On Saturday morning, over hot pancakes and fresh apple juice at Tina's dining ta
 
 "Listen to me, both of you," Dad said immediately over the phone, his voice warm and fierce at the same time. "Your bedrooms upstairs here on Sunset Drive are ready whenever you want them, and if you tell me right now that you want out of Fishersville, I will be in my truck heading down Interstate 81 in ten minutes flat. Your safety and your peace of mind come before any piece of paper on earth. Just remember one thing while you're deciding: you two have already conquered the hardest four months of that PHP and SQL curriculum, and Chris is never setting foot on that campus again."
 
-Across her kitchen table, Tina set her coffee mug down and looked at the two of us with the steady wisdom of a middle-aged friend who knew how the working world operated.
+Across her kitchen table, Tina set her coffee mug down, adjusted her glasses beneath her jet-black hair, and looked at the two of us with the steady, no-nonsense wisdom of a friend who never let anyone push her around.
 
-"Your dad is right," Tina said gently. "Every bit of the bureaucratic red tape at that center is infuriating, and it is completely ridiculous that they don't have a housing setup that lets twin brother and sister share a suite. Look at what the two of you are building on your laptops, though. In eight more months, you walk out of Mr. Henderson's lab with an accredited Commonwealth of Virginia Web Applications Developer certificate in server-side PHP and database architecture. With that credential on top of your associate degrees—and with Sheila, Jim, and me backing you up every single day in class—you two will be able to run your own fifty-fifty web development business from home and buy your own house in Virginia Beach, where no dorm supervisor, college housing office, or landlord can ever tell you that you have to sleep apart again."
+"Your dad is right," Tina said gently, telling it like it was. "Every bit of the bureaucratic red tape at that center is infuriating, and it is completely ridiculous that they don't have a housing setup that lets twin brother and sister share a suite. And you know why the administration at RRC bristles every time the three of us open our mouths? Because they can't push us around, and they can't write us up since we aren't breaking a single rule in their book. Look at what the two of you are building on your laptops, though. In eight more months, you walk out of Mr. Henderson's lab with an accredited Commonwealth of Virginia Web Applications Developer certificate in server-side PHP and database architecture. With that credential on top of your associate degrees—and with Sheila, Jim, and me backing you up every single day in class—you two will be able to run your own fifty-fifty web development business from home and buy your own house in Virginia Beach, where no dorm supervisor, college housing office, or landlord can ever tell you that you have to sleep apart again."
 
 Katie and I looked at each other across the table, and then back down at the daybed in Tina's living room where we had just slept eleven uninterrupted hours side by side.
 
-"What do you think, Katie?" I asked softly. "If Tina lets us escape up here to Luray whenever the red tape gets too thick, and Dad comes down on weekends... can we tough out the remaining months to get our PHP certificates so we can buy our own house?"
+"What do you think, Katie?" I asked softly. "If we don't let the staff push us around during the week, and Tina lets us escape up here to Luray on weekends whenever the red tape gets too thick, and Dad comes down to visit... can we tough out the remaining months to get our PHP certificates so we can buy our own house?"
 
 Katie took a deep breath, squeezed my hand across the table, and nodded with quiet determination. "Let's finish what we started, Nate—and the day Mr. Henderson hands us our certificates in March, we are never living in a dormitory again for the rest of our lives."
 
@@ -3941,7 +3993,7 @@ Katie took a deep breath, squeezed my hand across the table, and nodded with qui
 
 Keeping that Saturday morning pact in Tina's kitchen wasn't easy—Katie and I still hated every single night we had to split up at eleven o'clock in Carter-Ashley Hall—but having Tina, Sheila, and Jim in our corner every weekday in Mr. Henderson's classroom made all the difference in the world.
 
-Throughout the autumn of 2007 and the winter of 2008, sitting wheel-to-wheel at our personal laptops in front of the dark, ignored Quantum OS 2000 Professional state desktops, Katie and I mastered object-oriented PHP, relational database normalization, accessible CSS layouts, and automated transit-schedule parsers. As our senior capstone project—with Sheila designing a crisp new coastal-navy masthead graphic, Tina peer-reviewing our database queries, and Jim helping us configure our home server hardware—Katie and I completely rebuilt Ideas for Coastal Virginia Transit from a static BlogSphere page into a custom, database-driven PHP web application capable of tracking every bus route, transfer window, and timetable cutoff across all six cities of Hampton Roads.
+Throughout the autumn of 2007 and the winter of 2008, sitting wheel-to-wheel in our SwiftChairs at our personal laptops in front of the dark, ignored Quantum OS 2000 Professional state desktops, neither Katie, Tina, nor I let the RRC administration push us around once. Whenever a supervisor or administrator tried to throw their weight around, we stood our ground, cited the handbook to the letter so they had zero grounds to touch us, and spent our weekdays mastering object-oriented PHP, relational database normalization, accessible CSS layouts, and automated transit-schedule parsers before Tina headed home to Luray every Friday afternoon. As our senior capstone project—with Sheila designing a crisp new coastal-navy masthead graphic, Tina peer-reviewing our database queries, and Jim helping us configure our home server hardware—Katie and I completely rebuilt Ideas for Coastal Virginia Transit from a static BlogSphere page into a custom, database-driven PHP web application capable of tracking every bus route, transfer window, and timetable cutoff across all six cities of Hampton Roads.
 
 On Friday afternoon, March 21, 2008—eighteen days before our twenty-third birthday—Dad stood beaming in the front row of the auditorium at Roosevelt Rehabilitation Center as Mr. Henderson called Katie and me across the ramp together, followed right behind us by Tina, Sheila, and Jim, to receive our official Commonwealth of Virginia Web Applications Developer certificates with honors.
 
