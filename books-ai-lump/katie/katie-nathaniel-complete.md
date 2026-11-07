@@ -1967,7 +1967,7 @@ Two weeks later, at the end of August 2004, Dad drove down from Northern Virgini
 
 When Dad and I rolled out the keyed glass front door of the Greenway Court building that afternoon, Katie smiled and waved to me from the lobby window in her compact SwiftChair, holding up two crossed fingers—our lifelong twin signal for *see you soon*—as we counted down the days until our first Brother-and-Sister Weekend in September.
 
-# West Ocean View, Ideas for CVTA, & From City Council to the Senate of Virginia
+# West Ocean View & Reclaiming Our Sanctuary
 
 ## Ocean View Station, Dirty Old Tonomy Hill, & Five Buses from Williamsburg
 
@@ -3375,7 +3375,9 @@ I looked at the calendar pinned beside our desk and did the math in my head. "In
 
 "That's three full years of building an archive, showing up in OmniSearch results whenever anyone looks up a CVTA bus route, and building a community of riders across Hampton Roads," Katie said, her voice steady and quietly determined. "If we start putting in the work right now in 2005, then by the time the 2008 Mayor's Race in Virginia Beach comes around, Ideas for Coastal Virginia Transit will already have its name out there—and maybe, for once, the people running to lead our city will actually have to pay attention to the people who ride the bus."
 
-## Do Better: The Four-Bus Loop, Kempsville City Council, & The Path to the 85th House District
+# Back Home in Virginia Beach & The Kempsville City Council
+
+## Do Better: Ideas for CVTA & The Four-Bus Mayoral Loop
 
 ### Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge
 
@@ -3633,7 +3635,9 @@ Katie turned her SwiftChair toward me, her blue eyes steady and bright.
 
 "Let's do it," I said immediately, already opening a fresh PHP project directory on my MagnaBook Pro. "If they won't let us sit at the public-comment table for three minutes, we'll put you up on the dais where they have to answer to you."
 
-### Part 3: The Empty Podium on WHRC TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline
+## The Empty Podium on WHRC TV-15, The 94.1% Landslide, & Councilwoman Prairie
+
+### Part 1: The Empty Podium on WHRC TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline
 
 **Date:** 2010-10-14 at 19:28 America/New_York
 
@@ -3778,7 +3782,7 @@ Line after line, for forty consecutive minutes without a single negative call, l
 
 Sitting at our Kempsville kitchen table with Dad grinning over his coffee mug and Katie holding my hand across our wheelchair armrests, we finished our sandwiches, loaded four hundred fresh palm cards into our canvas side-bags, and rolled out into the crisp October sunshine for the final eighteen days of sidewalk canvassing before Election Day.
 
-### Part 4: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning
+### Part 2: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning
 
 **Date:** 2010-10-28 at 08:15 America/New_York
 
@@ -3944,7 +3948,11 @@ By May 2011, CVTA had published its complete open GTFS schedule feed and launche
 
 And on every single Tuesday night when the Virginia Beach City Council adjourned at nine-thirty, Councilwoman Katie Prairie rolled down the mahogany dais ramp in Building 1 to meet me at the front of the gallery, and the two of us rolled out to the Municipal Center bus shelter alongside the citizens who had come to watch the meeting, swiped our thirty-day CVTA passes, and rode the 9:45 PM Route 33 and Route 12 pulse right back home to Kempsville.
 
-### Part 5: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run
+# The Gentlewoman from Virginia Beach: The House of Delegates
+
+## Stopped at the Third-Floor Gallery, Seated by Delegate Ronald Villa, & Winning the 85th District
+
+### Part 1: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run
 
 **Date:** 2012-02-09 at 11:35 America/New_York
 
@@ -4050,7 +4058,7 @@ My breath caught in my chest as I realized what my twin sister was saying.
 
 "Richard Tatum didn't even look up from his phone when he voted against our buses today," Katie continued, squeezing my fingers tightly. "We proved on the Virginia Beach City Council that when you put a bus rider in a wheelchair at the table, you can change the schedules for the entire city. But as long as politicians in Richmond keep cutting state transit funds and blocking disability Medicaid waivers, local City Councils are fighting with one hand tied behind their backs. The next House of Delegates election is in November 2013. Let's go home, talk it over with Dad, and map out how we win the Eighty-Fifth District seat."
 
-### Part 6: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District
+### Part 2: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District
 
 **Date:** 2012-11-23 at 18:30 America/New_York
 
@@ -4422,7 +4430,7 @@ Across the center aisle, three senior opposition delegates immediately craned th
 
 Delegate Katie Prairie of Virginia Beach and her twin brother Nate had arrived in Richmond on the city bus, paid their regular fare, watched Katie affirm her constitutional oath of office on the Constitution of Virginia without bowing to a religious test, and made it crystal clear from Day One that the people's House belonged to everyone.
 
-## House Bill 663
+## House Bill 663 & Live on Meet the Nation
 
 ### Part 1: Line 18, Seated by Delegate Ronald Villa on the Floor, & A Question Across the Chamber
 
@@ -4914,9 +4922,11 @@ Standing by the lectern as his bill died in nine seconds flat—alongside an equ
 
 At the accessible end of the room, Katie watched the bill's patron stomp out into the hallway, turned her head toward my wheelchair, and gave me the quietest, proudest twin smile in the world as we reached across our armrests and squeezed each other's hand.
 
-## Across the Rotunda: Why Run for State Senate, The 7th District Race, & Madam Chair
+# Across the Rotunda: The Senate of Virginia
 
-### Part 1: Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule
+## Watching Senator Ward Kill Our Bills Across the Rotunda & The 250-Signature Petition
+
+### Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule
 
 **Date:** 2018-02-22 at 15:10 America/New_York
 
@@ -5018,7 +5028,9 @@ Instead, the majority party establishment poured over a million dollars in corpo
 
 With Dad walking beside our SwiftChairs every weekend holding the legal-sized petition clipboards and signing the circulator affidavits before a notary, and with me checking every signer's street address across both the Virginia Beach and Norfolk voter rolls on my laptop, we turned in eight hundred and twenty-four verified voter signatures to the State Board of Elections in March 2019—more than triple the two-hundred-and-fifty-signature statutory requirement—qualifying Katie unopposed as the Democratic Nominee for the Seventh Senate District.
 
-### Part 2: Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair
+## Flipping the Seventh Senate District, The Mahogany Senate Ramp, & Madam Chair
+
+### Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair
 
 **Date:** 2019-11-05 at 19:30 America/New_York
 
