@@ -5429,7 +5429,7 @@ Inside the warm cocoon of our shared sleeping bag in the dark closet, United Sta
 
 "Goodnight, Katie," I whispered back, holding my twin sister close as we drifted off to sleep in our sanctuary on Sunset Drive.
 
-## The Norfolk Carrier Leak, Madison & Lincoln, & Three Convictions in the Senate
+## The Norfolk Carrier Leak, Suite 756 at Timberline Shopping Center, & Three Convictions in the Senate
 
 ### Part 1: The South Lawn Tirade, The Norfolk Carrier Leak, & Why the Order of the Trials Matters
 
@@ -5507,7 +5507,163 @@ Across the mahogany table, Speaker Clara Morales looked at the forty-one-year-ol
 
 "Wednesday for Halverson, Thursday for Vance, and Friday for Thorne," the Senate Majority Leader said, writing the three dates onto the official Senate trial calendar. "And Senator Prairie—because Naval Station Norfolk is your home turf, we want you delivering the final floor speech before the roll is called."
 
-### Part 2: The Words of Mason, Madison, and Lincoln, Three Guilty Votes in Forty-Eight Hours, & Swearing In President Clara Morales
+### Part 2: Route 36 to Timberline Shopping Center, Lunch at Don Miller Subs, Retro Games at Neat Stuff, & Suite 756
+
+**Date:** 2027-04-03 at 12:05 America/New_York
+
+#### Saturday, April 3, 2027, 12:05 PM — Riding CVTA Route 36 to Timberline Shopping Center & Family Lunch at Don Miller Subs
+
+"Approaching State Route four-ten, Holland Road and Timberlake Road—Timberline Shopping Center," the automated chime announced over the interior speakers of our forty-foot Coastal Virginia Transit Authority Route 36 bus as the driver signaled right and eased into the curb lane just east of where State Route 225 split off toward South Independence Boulevard and the Silverleaf commuter lot.
+
+Up near the front wheel well, my twin brother Nate reached up from his compact SwiftChair and pressed the yellow request-to-stop strip along the wall, while our sixty-eight-year-old dad stood up from the forward-facing bench seat across the aisle and tucked his sunglasses into the breast pocket of his polo shirt.
+
+Unlike the part-time Virginia General Assembly up in Richmond—which met for forty-five or sixty winter days and then sent us home for the rest of the year—the United States Senate stayed in session almost year-round from January 3rd right up to Christmas. Even so, the Senate's weekly floor voting calendar almost always wrapped up around two o'clock on Thursday afternoon, allowing Nate, Dad, and me to catch the afternoon ARTS Northeast Regional train south from Alexandria to Norfolk and spend every Friday, Saturday, and Sunday at home in Kempsville. Better yet, this first full week of April fell during the Senate's scheduled Spring State Work Period, giving the House impeachment managers and the White House defense counsel ten days to file their pre-trial briefs before the Senate impeachment trials of Secretary of Defense Bret Halverson, Vice President Julian Vance, and President Garrett Thorne gaveled in on Wednesday, April 14th.
+
+"Have a great Saturday, Senator Prairie, Nate, Mr. Prairie!" the CVTA driver called out warmly as he kneeled the front air suspension, flipped the hydraulic fold-out ramp onto the concrete sidewalk of Holland Road, and waved as all three of us—having tapped our regular fare cards when we boarded—thanked him and rolled out into the bright sixty-eight-degree April sunshine.
+
+Across the six lanes of State Route 410 on the south side of the highway stood Holland Square, anchored by the green signage of the Market Square grocery store. Here on the north side of Holland Road, however, we had just rolled into the parking lot of Timberline Shopping Center—a weathered, familiar 1980s neighborhood strip center anchored at its far end by a General Dollar discount store.
+
+For Nate, Dad, and me, Timberline Shopping Center was one of our favorite Saturday afternoon stops along the Route 36 bus line between Buckner Boulevard and the Silverleaf transfer hub.
+
+Steering our two SwiftChairs side by side along the covered concrete walkway toward the far-left bay of the five-storefront row, we rolled straight through the propped-open glass door of Don Miller Subs, where the warm, savory aroma of grilled ribeye steak, caramelized onions, and freshly baked sub rolls greeted us like an old friend.
+
+"Well, look who's back from Washington!" Marcus, the counter manager who had been grilling subs for the three of us since my years in the Virginia House of Delegates, beamed from behind the stainless-steel prep line. "The usual for the Prairie crew? Two six-inch grilled steak-and-cheese subs with everything, one turkey-and-provolone, a large basket of hot french fries to share, and three tall cups of ginger ale?"
+
+"You know us by heart, Marcus," Dad laughed, stepping up to the register to tap his debit card before I could reach for my wallet.
+
+For the next thirty-five minutes, sitting at our usual accessible corner table where Nate and I could pull our wheelchairs right up to the laminate top without blocking the aisle, the three of us ate piping-hot subs and crispy french fries out of wax-paper baskets and clinked our three plastic cups of ice-cold ginger ale together. Nobody in the sub shop bothered us for speeches or talking points; a retired Navy chief at the next booth simply nodded with a quiet *"Proud of you up there on Capitol Hill, Senator,"* before letting us enjoy our Saturday lunch in peace.
+
+***
+
+#### Saturday, April 3, 2027, 12:50 PM — Hunting for Retro Cartridges at Neat Stuff in Suite 732
+
+At ten minutes to one, after wiping our hands with napkins and tossing our paper baskets into the trash bin by the door, we rolled out of Don Miller Subs and turned one door to the right into Suite 732: Neat Stuff.
+
+While everyone in Hampton Roads knew Pixel Haven as our region's premier retro and modern video game store, Neat Stuff here in Suite 732 of Timberline Shopping Center was Pixel Haven's sister store—a floor-to-ceiling treasure cavern packed with vintage console cartridges, classic handheld games, eight-bit and sixteen-bit hardware, comic books, and retro sci-fi collectibles. Ever since we were kids playing our Super Kinoka and Nova 64 consoles in our bedroom on Delaney Street—and trading PlayBrick cartridges in the back of Dad's car—Nate and I had never outgrown our love for retro video games.
+
+"Katie! Nate! Mr. Prairie!" Devon, the bearded thirty-something clerk behind the glass cartridge counter, lit up the moment our two SwiftChairs rolled down the wide center aisle between the glass display cases. "You three picked the exact right Saturday to ride the 36 over here. Hold on—I put two cartridges in the lockbox under the register yesterday afternoon because I knew you'd be home for the spring recess!"
+
+Devon unlocked the sliding glass door at the back of the counter and set two pristine, gray plastic cartridges on the felt mat in front of our wheelchairs: an original 1994 *Gorilla King '94* cartridge for the PlayBrick with an unblemished holographic label, and a complete-in-box sixteen-bit *Super Kinoka* strategy role-playing game we had been hunting for since 2024.
+
+Nate's blue eyes lit up like he was twelve years old again. Picking up the sixteen-bit cartridge, he tilted the bottom edge toward the overhead fluorescent light to inspect the gold copper contact pins.
+
+"Look at the board pins, Katie—not a single trace of oxidation, and the battery-backed save chip was just soldered fresh," Nate said happily, handing me the cardboard box so I could admire the manual. "We can dump the ROM onto our local emulator in Bedroom 4 to preserve the save states and play the original cartridge on the CRT television in the living room tonight."
+
+"Sold to the gentleman and the Senator in the matching SwiftChairs," I grinned, pulling out my debit card to pay for both games while Devon slipped them into a sturdy paper bag and hung the handles over my right armrest.
+
+***
+
+#### Saturday, April 3, 2027, 1:15 PM — The Banners at Suite 756 & Senatorial Curiosity
+
+Rolling back out of Suite 732 onto the covered concrete sidewalk of Timberline Shopping Center with our paper bag of retro games tucked beside my armrest, Nate, Dad, and I turned right along the storefront walkway toward the Route 36 bus stop out on Holland Road.
+
+For years, the five-bay strip along this end of Timberline Shopping Center had followed the exact same left-to-right rhythm: Don Miller Subs on the left, Neat Stuff in Suite 732, the quiet pink neon sign of Halo Nails & Spa in the middle, the busy tables of Pho 79 Vietnamese Kitchen in the fourth bay, and then Suite 756 on the far right—a narrow eleven-hundred-square-foot storefront that had sat completely empty behind dusty brown butcher paper since the spring of 2023.
+
+As we rolled past Halo Nails & Spa and reached the front windows of Pho 79 Vietnamese Kitchen—where the rich, mouthwatering scent of simmering star anise, charred ginger, cinnamon bark, and slow-cooked beef pho broth drifted out through the exhaust vent into the April air—all three of us stopped in our tracks.
+
+Suite 756 right next door to the Vietnamese restaurant wasn't empty anymore.
+
+Every square inch of its plate-glass facade had been plastered floor-to-ceiling with glaring crimson, white, and gold vinyl banners that read:
+
+*THE TIDEWATER THORNE & RTR SUPERSTORE — OFFICIAL RESTORE THE REPUBLIC CAMPAIGN HEADQUARTERS!*
+
+Behind the glass stood a six-foot cardboard cutout of President Garrett Thorne giving a grinning double thumbs-up, flanked by neon-red posters reading *THORNE: 3-0 UNDEFEATED — IMPEACH THIS!* and *THORNE 2028: THE REVENGE TOUR!*
+
+"Good grief," Dad muttered, staring at the giant vinyl banner taped right up against the brick pillar separating Suite 756 from Pho 79. "An 'America First' Garrett Thorne shrine sharing a party wall with a Vietnamese pho restaurant. You couldn't make that up if you tried."
+
+Sitting in my SwiftChair on the sidewalk twenty feet from the door of Suite 756, I frowned thoughtfully at the words *OFFICIAL RESTORE THE REPUBLIC CAMPAIGN HEADQUARTERS* printed across the banner.
+
+Over the past six weeks, our constituent caseworkers in Virginia Beach and Norfolk—along with my colleagues on the Senate Commerce Committee's Consumer Protection Subcommittee—had fielded dozens of inquiries about a sudden rash of brick-and-mortar "Thorne Stores" popping up in strip malls across Virginia. Every constituent who called our office believed the exact same rumor: that these storefronts were officially vetted, licensed, and authorized by President Garrett Thorne, Thorne Global Holdings, or his national campaign committee, and that buying forty-dollar hats and sixty-dollar flags inside them went directly to fund the President's impeachment defense.
+
+Neither Nate, nor Dad, nor I had any idea who had leased Suite 756. As far as we knew, it was just another out-of-state novelty vendor looking to make a quick buck off Holland Road traffic before the next Route 36 bus arrived at one-thirty-five.
+
+Curiosity got the better of the Senator in me.
+
+"Wait a second, Nate, Dad," I said, resting my right hand on my joystick. "We still have twenty minutes before the one-thirty-five bus pulls up. People keep asking our Commerce Committee staff whether these 'Thorne Superstores' are actually vetted and licensed by Garrett Thorne, his company, or his campaign—or if they're unlicensed bootleggers tricking voters into thinking retail purchases are campaign contributions. Let's roll inside for sixty seconds and look at the merchandise tags and the business license by the register."
+
+"Sixty seconds of consumer protection fieldwork," Nate agreed, glancing at his watch with a dry smile. "Lead the way, Senator."
+
+***
+
+#### Saturday, April 3, 2027, 1:18 PM — Inside Suite 756: Come Face-to-Face After Twenty-Four Years
+
+When Dad pulled open the aluminum-framed glass door of Suite 756 and held it for Nate and me to roll our two SwiftChairs across the threshold, a cheap brass bell taped above the door frame jangled loudly.
+
+The first thing that hit us inside the narrow storefront was the sensory clash: the sharp chemical smell of fresh overseas vinyl ink mixing with the unmistakable, delicious aroma of Vietnamese beef pho broth and star anise seeping straight through the thin drywall partition from Pho 79 next door.
+
+Every wall was covered in pegboard hooks and wire racks overflowing with crimson Restore the Republic baseball caps, polyester three-by-five flags showing Garrett Thorne's head superimposed onto a bodybuilder holding an eagle, gold-foil novelty *"One Thousand Dollar Thorne Notes,"* and freshly unpacked shipping cartons stenciled *THORNE: 3-0 UNDEFEATED — ACQUITTED IN THE SENATE!*
+
+Up at the glass checkout counter near the back wall—where a small tabletop television was tuned to a shouting panel on LibertyMax—an older husband and wife in matching red RTR windbreakers were handing a crisp hundred-dollar bill across the counter.
+
+"We drove over from Kempsville as soon as we saw the sign on Holland Road," the husband was saying earnestly to the woman behind the cash register, whose back was half-turned as she priced a box of white ceramic *THORNE 2028* coffee mugs with a handheld sticker gun. "We bought two flags and two of the '3-0 Undefeated' hats because we want every dollar going straight to President Thorne's Senate trial defense fund!"
+
+"Oh, bless your hearts, patriots—President Thorne appreciates every single bit of your support, and those Senate Democrats don't stand a prayer of getting sixty-seven votes next week!" the woman behind the register replied in a syrupy, familiar voice, never once correcting the couple's false belief that her store was connected to the President's defense fund.
+
+While the couple zipped their new hats into a plastic shopping bag and walked past us out the front door, I reached out from my wheelchair and flipped over the neck tag of a *THORNE: 3-0 UNDEFEATED* t-shirt hanging on the nearest circular rack.
+
+"Look at the collar tag, Nate," I murmured quietly. "Manufactured in Guangdong Province for Wholesale Novelty Imports LLC. Zero union bug, zero Federal Election Commission disclaimer, and zero licensing mark from Thorne Global Holdings."
+
+Nate rolled his SwiftChair three feet closer to the glass checkout counter and pointed past a large plastic jar of five-dollar buttons that had been deliberately positioned at the corner of the register to block the counter mat. Taped flat beneath the jar in tiny eight-point font was a two-sentence notice:
+
+*Privately owned and operated retail establishment. Not authorized by, vetted by, licensed by, or affiliated with Garrett Thorne, Thorne Global Holdings, or any candidate or political committee.*
+
+"Every dime goes straight into the store owner's pocket," Nate said softly, his eyes lifting from the hidden disclaimer to the framed City of Virginia Beach Commissioner of the Revenue Business License hanging on the pegboard wall behind the cash register.
+
+I followed my brother's gaze up to the typed name on the municipal business license.
+
+*PROPRIETOR: BRENDA WALSH.*
+
+Across the narrow aisle beside my right wheel, I heard Dad draw in a sharp, silent breath.
+
+Behind the counter, the sixty-five-year-old woman with dyed blonde hair finished sticking a twenty-four-ninety-nine price tag onto the bottom of a *THORNE 2028* mug, set her pricing gun down on the glass, and turned around with a practiced retail smile on her face.
+
+"Welcome to the Tidewater Thorne Superstore!" she began brightly. "Everything in the store goes to—"
+
+Her voice died in her throat.
+
+The ceramic coffee mug slipped halfway out of her fingers and clattered upright onto the glass countertop.
+
+Standing—and sitting—six feet in front of her cash register were her ex-husband David Prairie, her forty-one-year-old son Nathaniel Prairie, and her forty-one-year-old daughter, United States Senator Katie Prairie.
+
+None of the three of us had laid eyes on our mother since the afternoon of Saturday, July 12, 2003—twenty-four years ago—when eighteen-year-old Nate and I had rolled our wheelchairs out the front door of the brick house on Delaney Street with Dad to move into Greenway Court Apartment A6.
+
+For five full seconds, the only sound inside Suite 756 was the drone of the LibertyMax anchor on the corner television and the muffled clatter of soup spoons coming through the drywall from Pho 79 next door.
+
+Brenda's face drained to chalk white, and then flushed a deep, blotchy crimson from her collar up to her roots. Her eyes darted wildly toward the front window facing the Timberline Shopping Center walkway, terrified that one of her Restore the Republic acquaintances might walk through the door and see us standing in her shop.
+
+"What—what are you three doing in here?!" Brenda hissed, her voice dropping from its syrupy customer-service lilt to the sharp, defensive snap Nate and I still remembered from the hallways of our childhood. "Are you following me?! Did David tell you to come in here to harass me?!"
+
+"Nobody knew you worked here, Brenda," Dad said, his voice completely calm, level, and devoid of anger as he stood with one hand resting steadily on the back push-handle of my wheelchair and the other near Nate's shoulder. "We've been eating lunch at Don Miller Subs and shopping at Neat Stuff three doors down for fifteen years. We didn't even know Suite 756 had been leased until we rolled out of the game store two minutes ago."
+
+ Sitting in my SwiftChair in front of the counter, I looked from the framed business license reading *Brenda Walsh*—the maiden name Nate and I had asked Dad and Arthur Vance to make her take back in the October 2001 divorce settlement so she would never carry the Prairie surname again—to the six-foot cardboard cutout of Garrett Thorne grinning beside her register.
+
+Sixteen days ago, on the morning of Thursday, March 18th, that exact man on the cardboard cutout had stood in front of the White House press corps on live national television and called me a *"defective, bitter little cripple on wheels"* and called Nate my *"crippled twin brother."*
+
+And here stood the woman who had given birth to us—running a strip-mall shrine to the man who mocked her own twin children's wheelchairs on national television.
+
+"So the rumors aren't true after all," I said evenly, my voice quiet and composed as I looked straight into Brenda's eyes across the counter. "Constituents have been calling my Senate office all month asking whether these 'Thorne Superstores' are officially vetted and licensed by Garrett Thorne, his company, or his campaign. That couple from Kempsville who just walked out the door handed you a hundred dollars because they thought they were donating to his legal defense fund—and you stood right there behind a button jar hiding an eight-point disclaimer and let them believe it."
+
+Brenda's hands gripped the edge of the glass counter, her knuckles white as she glared down at Nate's wheelchair and mine.
+
+"I have every right to run a patriotic business as Brenda Walsh!" she snapped, her voice trembling with twenty-six years of curdled grievance. "And I don't need a lecture from a daughter who humiliated this family on television by refusing to say 'So help me God' on the Capitol steps, or from an ex-husband who poisoned my own children against their mother and turned them into radical Washington liberals!"
+
+Beside my left wheel, Nate didn't flinch, and his voice didn't rise a single decibel.
+
+"Dad didn't turn us against you, Brenda," Nate said quietly. "You did that yourself in August of 2001 when we were sixteen years old and our legs were failing—when you dragged us onto that cruise ship against our will, screamed at us that we were ruining your vacation because we couldn't walk the gangway, and tried to force two high school juniors into a toddler character line so you could take a fake family photo for the neighbors. And when the doctors put us in wheelchairs that September, Dad built ramps and carried us up the stairs, while you treated our chairs like something to hide from your friends."
+
+"Which is the exact same thing you're doing right now in Suite 756," I added calmly, gesturing toward the framed *Brenda Walsh* license behind her shoulder. "You didn't open this store under your maiden name just because of the 2001 divorce decree, Brenda. You're terrified that your Restore the Republic friends will find out that the Junior United States Senator from Virginia is your daughter—because if they ever found out, they'd ask why your husband and both of your twin children in wheelchairs haven't spoken a word to you in twenty-four years."
+
+Brenda's mouth opened, her face turning a darker shade of purple, but no words came out.
+
+Out on Holland Road beyond the plate-glass window, the amber LED destination sign of the one-thirty-five CVTA Route 36 bus glided into view as it approached the Timberline Shopping Center stop—a bus route that only ran on Saturday afternoons because Nate, Dad, and I had fought to save and expand it sixteen years ago when I first took my seat on the Virginia Beach City Council.
+
+I glanced once more at the stacks of newly delivered cardboard shipping cartons piled behind Brenda's register—every single box stenciled *THORNE: 3-0 UNDEFEATED* and *THORNE 2028*.
+
+"Goodbye, Brenda," I said quietly, turning my SwiftChair smoothly in the narrow aisle alongside Nate's chair as Dad stepped to the front door and held it open for us. "And as your United States Senator—I hope you kept the wholesale receipts for those '3-0 Undefeated' and '2028' boxes before the Senate reconvenes on April fourteenth."
+
+The cheap brass bell above the door jangled once more behind us as Nate, Dad, and I rolled out of Suite 756 into the warm, clean Virginia Beach sunshine—breathing in the fresh April breeze and the comforting aroma of Pho 79 as the Route 36 bus kneeled at the curb to take the three of us home to Kempsville.
+
+### Part 3: The Words of Mason, Madison, and Lincoln, Three Guilty Votes in Forty-Eight Hours, & Swearing In President Clara Morales
 
 **Date:** 2027-04-16 at 13:30 America/New_York
 
@@ -5589,7 +5745,7 @@ One by one, as the Reading Clerk called the alphabetical roll, fourteen Republic
 
 "Ms. Prairie."
 
-I kept my hands resting calmly on the armrests of my SwiftChair, my manual wheel brakes locked tight against the blue Senate carpet. Twenty-one years after Brandon Mercer had locked my wheelchair brakes in the pouring November rain outside the Williamsburg train station and told me I was powerless, I looked straight down into the well of the United States Senate.
+I kept my hands resting calmly on the armrests of my SwiftChair, my manual wheel brakes locked tight against the blue Senate carpet. Twenty-one years after Brandon Mercer had locked my wheelchair brakes in the pouring November rain outside the Williamsburg train station and told me I was powerless—and thirteen days after rolling into Suite 756 at Timberline Shopping Center on Holland Road and seeing the shrines and unopened crates of *"3-0 UNDEFEATED"* and *"THORNE 2028"* merchandise my own estranged mother had chosen over her children—I looked straight down into the well of the United States Senate.
 
 "Guilty," I said clearly.
 
