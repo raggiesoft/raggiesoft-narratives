@@ -3946,6 +3946,8 @@ When Katie and I rolled our SwiftChairs through the double doors of the Eighteen
 
 By May 2011, CVTA had published its complete open GTFS schedule feed and launched the permanent Evening Civic Access Transit Pulse across Virginia Beach. For the first time in the history of our city, any citizen who rode a public bus or used a wheelchair could attend a six o'clock City Council meeting, speak at the public microphone, and ride a CVTA bus safely home afterward.
 
+Inside Building 1 at the Municipal Center, Katie also established a daily office habit that baffled the veteran city hall staffers down the corridor: whenever she was sitting at her desk and the main constituent telephone line rang, she didn't wait for a city clerk or a shared administrative receptionist to screen the call and take a paper message. In Katie's literal autistic mind, her name was on the door, the voters of Kempsville had hired her to do the job, and sitting three feet away from a ringing telephone without picking it up would be rude and dishonest. So whenever she could reach the receiver, she pressed the button herself and answered, "Councilwoman Katie Prairie's office, this is Katie speaking," so the caller knew she was actually at her desk working for them—regularly leaving Kempsville homeowners and retired shipyard workers speechless for two full seconds when they realized their own City Councilwoman had picked up the phone on the first ring.
+
 And on every single Tuesday night when the Virginia Beach City Council adjourned at nine-thirty, Councilwoman Katie Prairie rolled down the mahogany dais ramp in Building 1 to meet me at the front of the gallery, and the two of us rolled out to the Municipal Center bus shelter alongside the citizens who had come to watch the meeting, swiped our thirty-day CVTA passes, and rode the 9:45 PM Route 33 and Route 12 pulse right back home to Kempsville.
 
 # The Gentlewoman from Virginia Beach: The House of Delegates
@@ -4600,13 +4602,15 @@ My jaw dropped.
 
 ***
 
-#### Friday, February 5, 2016, 9:15 AM — The Speakerphone Call on Line One, Two Twin Meltdowns, & The Majority Leader's Nephew
+#### Friday, February 5, 2016, 9:15 AM — The Speakerphone Call on Line One, Two Twin Meltdowns, & The Majority Leader's Triplets
 
-The black multi-line telephone on Katie's desk in our fifth-floor General Assembly Building office rang once on Line One at nine-fifteen on Friday morning, and Katie reached over from her SwiftChair to press the speakerphone button, expecting it to be a retired shipyard worker from Kempsville calling to report a missed CVTA bus connection on Princess Anne Road.
+The black multi-line telephone on Katie's desk in our fifth-floor General Assembly Building office rang once on Line One at nine-fifteen on Friday morning, and just as she had done ever since her very first week on the Virginia Beach City Council, Katie reached over from her SwiftChair to press the speakerphone button herself.
+
+In almost every other legislative office in the Capitol complex, a constitutional officer never picked up their own main telephone line; incoming calls were strictly screened by a legislative aide or session receptionist at the front desk so the member wouldn't be interrupted by cold calls. Teaching Katie to let a ringing phone go unanswered when she was sitting right beside it, however, was impossible. In Katie's literal autistic mind, Room 518 was her office, her name was on the brass plate outside the door, and if she was at her desk with a free hand, the polite, honest thing to do was answer the phone herself so the constituent on the other end knew she was actually there working for them. At this point in our time in Richmond—and certainly up in Washington—people outside Virginia Beach were still learning that Katie answered her own phone directly, and as she pressed the button, she fully expected the caller to be a retired shipyard worker from Kempsville reporting a missed CVTA bus connection on Princess Anne Road.
 
 "Delegate Katie Prairie's office, this is Katie speaking," she said, keeping one hand resting on her open municipal transit binder while I sat right beside her left wheel with my silver MagnaBook Pro laptop open on the side table.
 
-There was a brief, startled pause on the other end of the speakerphone. "Oh! Good morning, Delegate Prairie. I honestly didn't expect you to pick up your own main line. My name is Arthur Vance, and I'm a producer for Meet the Nation at GBS News up here in Washington. I hope I'm not catching you at a bad time?"
+There was a brief, startled pause on the other end of the speakerphone. "Oh! Good morning, Delegate Prairie—is this really Delegate Prairie herself? I honestly expected your front-desk scheduler or a legislative assistant to pick up the main switchboard line. My name is Arthur Vance, and I'm a senior producer for Meet the Nation at GBS News up here in Washington. I hope I'm not catching you at a bad time?"
 
 Katie blinked, glancing sideways at me in surprise. To the two of us, Meet the Nation was the quiet Sunday morning news program our dad David used to put on the living room television in Virginia Beach while the three of us ate scrambled eggs and toast together.
 
@@ -5217,6 +5221,8 @@ The Covenant Broadcasting Network reporter opened his mouth to interrupt—"But 
 Behind the marble columns, the two opposition senators suddenly found something very interesting to look at on their shoes as Katie lowered the Constitution back onto my lap tray and added one final, unbothered smile for the cameras:
 
 "In the Seventh Senate District across Virginia Beach and Norfolk, I represent Christians, Jews, Muslims, Hindus, Buddhists, and non-religious citizens like my brother and me alike. I wasn't elected to be anybody's pastor, and Virginia is a constitutional republic, not a theocracy. My legal obligation as a State Senator is to the Constitution of the United States and the Constitution of Virginia—and if the pundits screaming on Beacon News, LibertyMax, and *The 777 Circle* spent half as much time reading the Constitution as they spend inventing phony history lessons about George Washington, maybe they'd know what Article VI actually says. Now if you'll excuse my brother, my dad, and me, we have a Route 6 bus to catch on Broad Street and a committee docket to gavel in tomorrow morning."
+
+When we rolled into Katie's new Senate of Virginia office at eight-thirty the next morning and the main constituent telephone line rang on her desk before her legislative assistant had even finished hanging up her winter coat in the outer room, Katie didn't wait for staff to screen the call. Just as she had done as a Virginia Beach City Councilwoman and as a Virginia State Delegate—because in her literal autistic mind it was her office and it was only polite to answer the phone when she could so constituents knew she was actually at her desk working for them—she reached over from her SwiftChair, pressed the speakerphone button, and said warmly, "Senator Katie Prairie's office, this is Katie speaking," greeting a stunned retired Navy chaplain calling from Norfolk to thank her for defending Thomas Jefferson's Statute for Religious Freedom.
 
 # The Senator from Virginia
 
@@ -5917,9 +5923,17 @@ Because federal anti-nepotism law under Title 5, Section 3110 of the United Stat
 
 "He thinks he's Brandon Mercer," I said quietly, turning my laptop screen ten degrees toward Katie's SwiftChair so she could read the bottom wire-transfer totals. "He thinks if he stands over the back of our chairs and screams loud enough about how broken we are, we're going to flinch."
 
-"Brandon found out twenty-one years ago what happens when you try to corner us, and so will Garrett Thorne," Katie said, closing the confirmation binder with a sharp snap and unlocking her wheel brakes. "What time is the floor roll call on his nominee, Sarah?"
+"Brandon found out twenty-one years ago what happens when you try to corner us, and so will Garrett Thorne," Katie said, closing the confirmation binder with a sharp snap.
 
-"Eleven-fifteen," Sarah answered, holding the office door open for our two wheelchairs. "And Speaker Clara Morales's office just called from the other side of the Capitol Rotunda. The House Judiciary and Armed Services investigative committees have completed their subpoena report on Secretary of Defense Bret Halverson, Vice President Julian Vance, and President Thorne. They are voting on the Articles of Impeachment next week."
+Right then, the multi-line console on her desk chirped once on Line One. In ninety-nine out of a hundred suites in the Dirksen Senate Office Building, a United States Senator never touched the main office telephone; a front-office bank of staff assistants and interns screened every incoming call before routing messages to the legislative staff. In Katie's literal autistic mind, however, the rule had never changed since her days as a Virginia Beach City Councilwoman, a Virginia State Delegate, and a Virginia State Senator: this was her office, her name was on the door, and whenever she was sitting at her desk with a free hand, it was only polite to answer the phone herself so the caller knew she was actually there working for the people of Virginia.
+
+Reaching over from her SwiftChair before Sarah could even step toward the console, Katie pressed the button and said clearly, "Senator Katie Prairie's office, this is Katie speaking."
+
+"Katie, it's Clara—I love that you still answer your own phone even in the United States Senate," the voice of Speaker of the House Clara Morales came through the line from the other side of the Capitol Rotunda. "The House Judiciary and Armed Services investigative committees have just completed their final subpoena report on Secretary of Defense Bret Halverson, Vice President Julian Vance, and President Thorne. We are voting on the Articles of Impeachment next week."
+
+"Thank you for letting me know directly, Madam Speaker," Katie answered warmly, ending the call and unlocking her wheel brakes as she looked over at her legislative director. "What time is the floor roll call on Thorne's transportation nominee, Sarah?"
+
+"Eleven-fifteen," Sarah answered, smiling as she held the office door open for our two wheelchairs.
 
 "Good," Katie said, steering her SwiftChair out into the marble corridor of Dirksen with me rolling in lockstep beside her left wheel toward the Capitol subway. "Then at eleven-fifteen, President Thorne gets my No vote on his nominee—and as soon as Chief Justice Jonathan Sterling swears in the Senate for their trials, all three of them get my Guilty vote too."
 
