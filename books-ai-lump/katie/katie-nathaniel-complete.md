@@ -3261,9 +3261,9 @@ We looked down at the teal-and-navy logo printed across the cover of the Coastal
 
 "What about Ideas for Coastal Virginia Transit?" Katie suggested. "Simple, direct, and constructive. Anyone searching OmniSearch for CVTA or Hampton Roads bus routes will know right away that we aren't there to tear public transit down—we're there to share ideas for what our regional bus system could be."
 
-"And for the web address," I said, typing the subdomain check into the BlogSphere registration form on the CRT monitor, "ideasforcvta.blogsphere.com."
+"Let's see if the BlogSphere title is available," I said, typing Ideas for Coastal Virginia Transit into the BlogSphere registration form on the CRT monitor.
 
-A green confirmation line appeared on the screen immediately: the address was available.
+A green confirmation line appeared on the screen immediately: the blog name was available.
 
 Side by side at our repurposed dining-table desk, Katie and I clicked through the registration screen, created our shared administrator account under both of our first names—Katie and Nate, two twenty-year-old college students and daily wheelchair transit riders living in Norfolk and commuting into Virginia Beach—and immediately opened the raw HTML template editor.
 
@@ -3305,7 +3305,7 @@ Katie shook her head with a wry half-smile. "It reminds me of that old local pol
 
 Together, we formatted our second entry—laying out our wish list for late-evening service hours until at least ten o'clock at night on core Virginia Beach routes, timed clock-face transfer pulses at CCHR, Glenrock Mall, and Hilltop, limited-stop express trunk buses along Granby Street, Virginia Beach Boulevard, and Military Highway, continuous curb-cut sidewalks leading to concrete wheelchair boarding pads, and a regional smart-card or day-pass system modeled on what the Seattle Transit Blog documented out in the Puget Sound.
 
-When I clicked Publish on the second post and reloaded ideasforcvta.blogsphere.com, both articles sat cleanly on the screen beneath our navy-and-teal header, ready for OmniSearch's web crawlers to index overnight.
+When I clicked Publish on the second post and refreshed our BlogSphere home page, both articles sat cleanly on the screen beneath our navy-and-teal header, ready for OmniSearch's web crawlers to index overnight.
 
 Right then, of course, the visitor counter at the bottom of our sidebar read zero. Nobody in Norfolk or Virginia Beach knew our blog existed yet. We were just two twenty-year-old twins in power wheelchairs sitting side by side in a small West Ocean View apartment at nine o'clock on a Sunday night.
 
@@ -4942,13 +4942,13 @@ Dad smiled proudly, setting his coffee mug down on the counter. "Blinders on, el
 
 "You don't need to worry your head about the technical weeds, Senator-Elect—our engineering team in Rosslyn handles all the magic behind the curtain! Just tell us if you like this shade of Senate navy blue on the banner!"
 
-Sitting across the polished mahogany conference table in our temporary transition suite in the Dirksen Senate Office Building, Bradford Vance—the Senior Account Director for Capitol Digital Solutions, one of the beltway IT contractors approved by the Office of the Senate Sergeant at Arms to build official *senate.gov* websites—beamed with patronizing self-satisfaction as he tapped a static PDF slide deck on his MagnaPad tablet. Beside him sat his junior project manager, Evan, while a black triangular conference speakerphone sat in the center of the table with their lead developers dialed in live from their Rosslyn office across the Potomac.
+Sitting across the polished mahogany conference table in our temporary transition suite in the Dirksen Senate Office Building, Bradford Vance—the Senior Account Director for Capitol Digital Solutions, one of the beltway IT contractors approved by the Office of the Senate Sergeant at Arms to build official United States Senate constituent websites—beamed with patronizing self-satisfaction as he tapped a static PDF slide deck on his MagnaPad tablet. Beside him sat his junior project manager, Evan, while a black triangular conference speakerphone sat in the center of the table with their lead developers dialed in live from their Rosslyn office across the Potomac.
 
 Four days earlier, on Monday, December 7, the Virginia State Board of Elections had met in Richmond under Code of Virginia Section 24.2-679 to formally certify the November 3 general election results, and the Governor had transmitted Katie's signed Certificate of Election to the Secretary of the United States Senate.
 
 Now, on Friday morning, Katie and I had ridden the morning ARTS train up from Norfolk, detrained on the mobile lift at Alexandria to drop our overnight bags at Dad's two-story brick house on Sunset Drive—where our newly installed interior vertical platform wheelchair lift was already humming smoothly between the first floor and our upstairs three-desk office in Bedroom 4—and taken the Capital Transit Yellow Line across the Charles R. Fenwick Bridge into the District for our ten o'clock website sign-off meeting.
 
-Under United States Senate Internet Services rules, a Senator's official government website—*prairie.senate.gov*—had to be strictly separated from our campaign website, which Katie and I had coded ourselves in PHP, and hosted inside the Sergeant at Arms environment using an approved vendor template.
+Under United States Senate Internet Services rules, a Senator's official government constituent website had to be strictly separated from our campaign website, which Katie and I had coded ourselves in PHP, and hosted inside the Sergeant at Arms environment using an approved vendor template.
 
 Watching Bradford talk down to my forty-one-year-old twin sister in the exact overly bright, sing-song voice that non-technical consultants often used when they saw two adults sitting in compact SwiftChair power wheelchairs, I didn't say a word. I just kept my hands resting lightly beside my closed MagnaBook Pro and waited for Katie to lower the boom.
 
