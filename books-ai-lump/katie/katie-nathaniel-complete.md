@@ -1467,6 +1467,8 @@ Even through the closed door, we could still hear the muffled thudding of boots,
 
 Pulling Katie's green-and-gold quilt around both of our shoulders, I opened the top flaps of the cardboard cereal box between us so we had handfuls of dry cereal to munch on for dinner, switched the small thirteen-inch television on her dresser to the GBS New Year's Eve broadcast from Times Square with the volume turned low, and wrapped my right arm around my twin sister's shoulders while my left hand held hers.
 
+![Inside Katie's lamp-lit bedroom behind the locked white bedroom door on New Year's Eve 2002, seventeen-year-old blonde fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding hands beside a desk with an unbranded box of dry toasted oat cereal and two green cans of ginger ale]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/dec_2002_new_years_eve_locked_bedroom_cereal_ginger_ale.jpg)
+
 ***
 
 #### Wednesday, January 1, 2003, 12:00 AM — Why I Never Had a Twenty-First Birthday Drink
@@ -1499,7 +1501,11 @@ Katie looked at the can of ginger ale in her hand, then looked up into my eyes w
 
 **Date:** 2003-01-06 at 08:05 America/New_York
 
+![Sitting side by side on the edge of Katie's bed beneath the framed blue butterfly watercolor print on January 6, 2003, with their two black motorized SwiftChair power wheelchairs parked beside them, 17-year-old Katie Prairie wraps her arms comforting her heartbroken twin brother Nathaniel and laces her fingers through his hand.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jan_2003_bedroom_blue_butterfly_twin_sisters_never_walk_away.jpg)
+
 #### Monday, January 6, 2003, 8:05 AM — Blindsided Outside Room 204
+
+![Sitting side by side on the edge of Katie's bed beneath the framed blue butterfly watercolor print on January 6, 2003, with their two black motorized SwiftChair power wheelchairs parked beside them, 17-year-old Katie Prairie wraps her arms comforting her heartbroken twin brother Nathaniel and laces her fingers through his hand.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jan_2003_bedroom_blue_butterfly_twin_sisters_never_walk_away.jpg)
 
 "Save it, Nathaniel—don't you dare roll up to my locker with that innocent smile on your face and pretend you didn't do anything wrong!" Heather Collins snapped at five minutes past eight on Monday morning, slamming her locker door shut so hard that the metal vents rattled down the second-floor hallway of Northwood High School.
 
@@ -1588,6 +1594,8 @@ Sitting side by side in our compact SwiftChair power wheelchairs inside Apartmen
 "Look at the clearance on that," Katie said happily, rolling her wheelchair forward to test the reach. Without leaning an inch off her seat cushion, she popped open the microwave door with her left hand and tapped the toaster lever with her right. "Now we still have the whole counter square above the dorm fridge free for making sandwiches!"
 
 "That's the whole idea," Dad smiled, wiping his forehead with the back of his sleeve as the through-wall box air conditioner mounted into the red brick directly below our wide, three-pane white-framed rear window hummed steadily in the July heat. "When a studio kitchen only gives you a four-burner stove, a single sink, and an under-the-counter dorm refrigerator, you two need every square inch of prep space at seated height."
+
+![Inside Apartment A6 at Greenway Court in West Ghent, Norfolk in July 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding hands in front of their rear window and full-sized bed while their father David Prairie stands beside the standalone rolling microwave-and-toaster cart holding his travel mug of coffee]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jul_2003_greenway_court_apt_a6_move_in_microwave_cart.jpg)
 
 We had turned eighteen on April eighth and rolled across the graduation stage of Northwood High School a month ago in June. Because our estranged mother Brenda had spent the spring calling our dad's house in Virginia Beach and threatening to track us down the second we turned eighteen and were no longer covered by the family-court custody order, Dad had quietly gone apartment hunting across the city line in the tree-lined West Ghent neighborhood of Norfolk.
 
@@ -1695,6 +1703,8 @@ Wrapped together inside our shared sleeping bag on the carpeted floor of that sm
 
 Resting my head against my twin sister's shoulder inside our shared sleeping bag on the square closet floor, I closed my eyes—and for the first time since moving out on our own, both of us slept nine uninterrupted hours straight through the night without waking up once.
 
+![Inside the compact square closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts are cuddled up close together inside their single shared navy-blue sleeping bag on the carpeted closet floor]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg)
+
 From that August night forward, that compact square closet literally became our bedroom. Yes, we still had our full-sized bed out in the main studio apartment, kept neatly made up under its quilt—but it rarely ever got used. For both of us on the autism spectrum, sleeping cuddled up together inside our single shared sleeping bag in the snug, confined space of the closet made us feel completely secure in a way an open room never could—a habit that would stay with the two of us for the rest of our lives.
 
 ***
@@ -1780,6 +1790,8 @@ Tiffany laughed out loud, looking between the two of us with genuine admiration.
 "Are you serious?! That is so cool!" Tiffany said, placing a hand over her heart. "My younger brother and I are super close too. Honestly, I always say family comes first, no matter what. When a brother and sister look out for each other the way you two do, that shows what kind of heart a person has. If a guy isn't close with his sister, that's a giant red flag in my book!"
 
 Beside me, I saw Katie's shoulders relax completely, a bright, unmistakable smile of approval lighting up her blue eyes. To both of us, hearing someone say out loud that a close brother-and-sister bond was something wonderful—rather than something strange—felt like passing the most important test in the world.
+
+![Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs holding cups of iced cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg)
 
 ***
 
@@ -1881,6 +1893,8 @@ On the monitor, Tiffany's jumbled pictures and text snapped into a clean, center
 
 "No way! You two fixed that in thirty seconds!" Tiffany gasped, clapping her hands together before turning on the carpet and wrapping one arm around my shoulders and the other arm around Katie's shoulders in a spontaneous three-way group hug. "You guys are absolute geniuses! I wish I had half the brains the two of you have."
 
+![Inside Apartment A6 on Greenway Court in May 2004, nineteen-year-old twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs beside their workstation desk with an open pizza box and cans of ginger ale on the rolling cart while Tiffany Sloan kneels warmly on the carpet between their wheelchairs holding a floppy disk]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_greenway_court_apt_a6_saturday_pizza_tiffany_blessing.jpg)
+
 For the rest of the afternoon, the three of us stayed right there in Apartment A6 like we had known each other for years. Tiffany listened attentively as I walked her through every CSS property in the new manual, asked Katie about the fall course schedule at the Community College of Hampton Roads, and laughed whenever Katie and I finished each other's sentences. Not once did Tiffany act impatient, not once did she try to pull me away from my twin sister, and when Sandra called at five o'clock from the parking lot out front to pick her up, Tiffany helped Katie fold up the empty pizza box before giving both Katie and me a warm goodbye hug in the hallway.
 
 ***
@@ -1907,7 +1921,11 @@ A huge wave of relief and excitement washed through my chest. Having a girl like
 
 **Date:** 2004-08-14 at 14:30 America/New_York
 
+![Inside Apartment A6 at Greenway Court in Norfolk on August 14, 2004, 19-year-old Tiffany Sloan kneels on the carpet between Katie and Nathaniel Prairie's black motorized SwiftChair power wheelchairs holding an apartment floor-plan brochure for Sea Breeze West in West Ocean View and promising that the twins will always have their Brother-and-Sister Weekends.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2004_greenway_court_apt_a6_ocean_view_floorplan_pitch.jpg)
+
 #### Saturday, August 14, 2004, 2:30 PM — "Just One Route 1 Bus Ride Up Granby Street"
+
+![Inside Apartment A6 at Greenway Court in Norfolk on August 14, 2004, 19-year-old Tiffany Sloan kneels on the carpet between Katie and Nathaniel Prairie's black motorized SwiftChair power wheelchairs holding an apartment floor-plan brochure for Sea Breeze West in West Ocean View and promising that the twins will always have their Brother-and-Sister Weekends.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2004_greenway_court_apt_a6_ocean_view_floorplan_pitch.jpg)
 
 "Look at the floor plan in this rental brochure my mom picked up for us yesterday, Nate," nineteen-year-old Tiffany Sloan said warmly on a sunny Saturday afternoon in mid-August, spreading a folded one-page apartment flyer across the corner of our computer workstation desk inside Apartment A6 on Greenway Court while handing Katie and me two cold cans of orange soda from our dorm fridge. "It's a ground-floor one-bedroom apartment right by the beach at a quiet courtyard complex called Sea Breeze West on West Ocean View Avenue."
 
@@ -2049,6 +2067,8 @@ She paused for a long breath, letting the distant rumble of a Route 1 bus rollin
 
 **Date:** 2004-09-19 at 13:15 America/New_York
 
+![On the brick outdoor café patio of The Admiral Center in Norfolk on September 19, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs as 22-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg)
+
 #### Sunday, September 19, 2004, 1:15 PM — The Empty Half of Apartment A6 & Rolling Over to The Admiral Center
 
 "I haven't slept that badly since the hospital in eleventh grade," I muttered to myself at one-fifteen on Sunday afternoon as the hydraulic ramp of the southbound CVTA Route 1 bus folded down onto the curb in West Ghent and I rolled my compact SwiftChair down the shaded brick sidewalk toward the two-story red-brick apartment building on Greenway Court.
@@ -2080,6 +2100,8 @@ I locked the door of Apartment A6 behind me, rolled back out the front entrance 
 ***
 
 #### Sunday, September 19, 2004, 1:40 PM — Brandon Mercer Presents Himself as a Gentleman, Defends Nate, & Respects Katie's Pace
+
+![On the brick outdoor café patio of The Admiral Center in Norfolk on September 19, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs as 22-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg)
 
 Ten minutes later, I turned my wheelchair into the wide brick pedestrian promenade of The Admiral Center.
 
@@ -2151,7 +2173,11 @@ Looking back down the sunny brick walkway where Brandon had just bought my twin 
 
 **Date:** 2004-11-20 at 14:00 America/New_York
 
+![Inside Apartment A6 at Greenway Court in Norfolk on November 20, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes in the background.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg)
+
 #### Saturday, November 20, 2004, 2:00 PM — Two Months at Katie's Pace & The Decision in Apartment A6
+
+![Inside Apartment A6 at Greenway Court in Norfolk on November 20, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes in the background.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg)
 
 "Look how neatly Brandon labeled all of the computer cables with masking tape before putting them in the box, Nate," nineteen-year-old Katie said with a warm smile on the Saturday afternoon before Thanksgiving in November 2004, rolling her compact SwiftChair back from the long workstation desk inside Apartment A6 on Greenway Court so our dad David could lift her seventeen-inch CRT monitor into its padded carton.
 
@@ -2205,7 +2231,11 @@ For the first time in nineteen years, my twin sister and I were living in two di
 
 **Date:** 2004-12-24 at 15:30 America/New_York
 
+![Outside the World War II-era Tonomy Hill public housing apartments in Newport, Rhode Island on Christmas Eve, December 24, 2004, 19-year-old Nathaniel Prairie sits in his black motorized SwiftChair power wheelchair hugging his grieving 22-year-old cousin Chelsea while Tiffany Sloan stands nearby with her arms crossed as the OSTA Route 63 bus pulls away.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/dec_2004_newport_tonomy_hill_osta_route_63_arrival_chelsea.jpg)
+
 #### Friday, December 24, 2004, 3:30 PM — Eighteen Stops to Dirty Old Tonomy Hill & The Worst Christmas Ever
+
+![Outside the World War II-era Tonomy Hill public housing apartments in Newport, Rhode Island on Christmas Eve, December 24, 2004, 19-year-old Nathaniel Prairie sits in his black motorized SwiftChair power wheelchair hugging his grieving 22-year-old cousin Chelsea while Tiffany Sloan stands nearby with her arms crossed as the OSTA Route 63 bus pulls away.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/dec_2004_newport_tonomy_hill_osta_route_63_arrival_chelsea.jpg)
 
 "Another girl," twenty-year-old Tiffany retorted, with what sounded like a sharp hint of anger in her voice, as the blue-and-white Ocean State Transit Authority Route 63 bus hissed away from the curb on Dirty Old Tonomy Hill on Friday afternoon, Christmas Eve, and left the two of us in the biting Rhode Island December wind outside the weathered World War II-era public housing buildings.
 
@@ -2335,7 +2365,7 @@ There was only one man on this earth I wanted right now, and he was forty-five m
 
 My chest ached so fiercely for Nate that my throat closed up. I didn't want Canada, and I didn't want a boyfriend hovering over my wheelchair pretending to be my savior. I wanted my twin brother. I wanted to be back in a quiet, dark closet with the door shut against the world and a heavy sleeping bag zipped up around the two of us on the carpet, just like we had done in our West Ghent studio apartment whenever the noise and the fear of the outside world got too loud to bear. I wanted to curl up against Nate's chest in the pitch dark, feel his arms wrap around me at my own level without pinning me down, and breathe in the familiar, safe warmth of his cuddles—the only set of arms in the world where my nervous system ever went completely still.
 
-"Come on, unlock your brakes and get your hood up," Brandon ordered, pulling the apartment door open to the cold November wind and grabbing my push-handles again before I could even touch my joystick. "We're walking over to the depot right now so I can get the tickets printed at the window."
+"Come on, switch your drive levers to freewheel and get your hood up," Brandon ordered, pulling the apartment door open to the cold November wind and grabbing my rear push-handles again before I could even touch my joystick. "We're walking over to the depot right now so I can get the tickets printed at the window."
 
 As my tires rolled out onto the wet sidewalk of Virginia Avenue toward North Boundary Street, I kept my left hand pressed over my messenger bag and stared straight ahead through the rain.
 
@@ -2347,7 +2377,7 @@ The second Brandon walked inside that station building to stand in line at the t
 
 Cold November rain slanted sideways under the dark green overhang of the Williamsburg Transportation Center, spattering against the brick columns along North Boundary Street and soaking the knees of my jeans.
 
-Behind my shoulders, Brandon took his hands off the rubber push-handles of my SwiftChair just long enough to reach down and flick both of my manual wheel locks shut, parking me under the dripping eaves ten feet from the heavy wooden doors of the depot waiting room. Slung across my lap under my raincoat was my canvas messenger bag, holding my wallet with my state identification card, my birth certificate folder, my daily maintenance medication pouch, and my cell phone.
+Behind my shoulders, Brandon took his hands off the rubber push-handles of my SwiftChair just long enough to reach down to my rear drive motors and flip both of my motor-brake levers into the locked park position—and then reached over my right shoulder to switch off my armrest joystick controller—parking me under the dripping eaves ten feet from the heavy wooden doors of the depot waiting room. Slung across my lap under my raincoat was my canvas messenger bag, holding my wallet with my state identification card, my birth certificate folder, my daily maintenance medication pouch, and my cell phone.
 
 "Stay right here under the awning and don't move an inch," Brandon said, adjusting the strap of his overstuffed duffel bag across his chest as he glanced through the glass doors at the ARTS ticket counter inside. "The clerk has to print the multi-city rail and tunnel bus vouchers through Washington and Toledo up to Windsor manually at the window. As soon as I have the tickets in my hand, we're rolling out to the platform for the northbound train, and by tomorrow afternoon we'll be across the Canadian border."
 
@@ -2371,7 +2401,7 @@ Through the tall multipane window of the depot waiting room, I caught a glimpse 
 
 It was now or never. If I waited ninety more seconds, Brandon would walk back through those doors with two one-way train tickets to the Canadian border, and I might never see Nate or Dad again.
 
-My right hand trembled as I reached down beside my hips, snapped both manual wheel brakes unlocked, and pushed my joystick full forward.
+My right hand trembled as I pressed the power button on my armrest controller, saw the green battery lights flash to life, and pushed my joystick full forward.
 
 My SwiftChair hummed across the wet brick pavers of the platform, splashes of rainwater kicking up off my front casters as I rolled straight past the station overhang toward the bus bay. Up at the front doors of the CTTA coach, the driver spotted my wheelchair coming through the rain and immediately flipped his toggle switch.
 
@@ -2406,6 +2436,8 @@ I didn't flip the phone open. Instead, I held down the side volume button to sil
 ***
 
 #### Saturday, November 12, 2005, 4:30 PM — Lee Hall, CVTA Route 116, & Warm Food and a Clean Restroom at Crown Burger
+
+![Inside the warm Crown Burger restaurant at the corner of Warwick Boulevard and Denbigh Boulevard in Newport News on the rainy Saturday afternoon of November 12, 2005, 20-year-old Katie Prairie sits in her black motorized SwiftChair power wheelchair eating a warm cheeseburger and french fries while watching the CVTA bus stop through the rain-streaked window during her five-bus escape from Williamsburg.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_warwick_denbigh_crown_burger_rain_refuge_katie.jpg)
 
 For thirty minutes down Pocahontas Trail alongside the freight railroad tracks, my flip phone vibrated inside my canvas bag every three minutes like a trapped hornet.
 
@@ -2475,6 +2507,8 @@ There was a mile and a half of open water and a submerged concrete tunnel betwee
 
 #### Saturday, November 12, 2005, 8:00 PM — CVTA Route 1 to Duffy's Lane, Portview Avenue in the Pouring Rain, & Knocking on Nate's Door
 
+![Inside the living room of Sea Breeze West Apartment 3 on the rainy Saturday night of November 12, 2005 after Katie's five-bus escape from Williamsburg, twenty-year-old Katie sits wrapped in a dry towel and Nate's navy-blue sleeping bag on the bright green sofa while her twin brother Nate holds both of her hands from his compact SwiftChair power wheelchair]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_rainy_night_katie_five_bus_arrival_sanctuary.jpg)
+
 Because the six-forty-five Saturday night trip on Route 61 was an Expressways run that terminated in Downtown Norfolk instead of continuing out to Virginia Beach, the driver let me off at the Wards Corner transfer stop at Granby Street and Little Creek Road at seven-nineteen.
 
 For forty-one minutes between seven-nineteen and eight o'clock, there was nowhere to hide from the storm.
@@ -2527,7 +2561,7 @@ Katie sobbed harder, shivering uncontrollably before letting out a sharp sneeze.
 
 "Tiffany, please get my sis a dry bath towel," I called out toward the hallway as Katie sneezed a second time, before turning my stunned eyes back to my twin sister. "Wait—what? Run away to Canada? Katie, what are you talking about?"
 
-"He marched me over to the Williamsburg train station on Boundary Street with my ID and birth certificate in my bag to buy one-way rail and tunnel-bus tickets through Washington and Toledo up to Windsor, Canada so I'd never see you or Dad again," Katie sobbed, wiping her rain-soaked face with the back of her trembling hand. "He is plain off-his-rocker crazy, Nate! He locked my brakes under the station awning and went inside to the ticket counter thinking I wouldn't dare move—and the second the four o'clock Colonial Triangle Grey Line bus to Lee Hall pulled into the bay, I unlocked my wheels and rolled straight up the ramp! He walked back out holding the train tickets right as my bus pulled onto Boundary Street!"
+"He marched me over to the Williamsburg train station on Boundary Street with my ID and birth certificate in my bag to buy one-way rail and tunnel-bus tickets through Washington and Toledo up to Windsor, Canada so I'd never see you or Dad again," Katie sobbed, wiping her rain-soaked face with the back of her trembling hand. "He is plain off-his-rocker crazy, Nate! He locked my drive motors, switched off my joystick under the station awning, and went inside to the ticket counter thinking I wouldn't dare move—and the second the four o'clock Colonial Triangle Grey Line bus to Lee Hall pulled into the bay, I powered my joystick back on and drove straight up the ramp! He walked back out holding the train tickets right as my bus pulled onto Boundary Street!"
 
 Katie shuddered, her icy fingers tightening around mine as she caught her breath.
 
@@ -2895,6 +2929,8 @@ Rolling down the aisle together, Katie and I picked out a soft navy-and-slate-bl
 
 #### Monday, November 14, 2005, 2:30 PM — Dad's Pickup Truck, A Real Grocery Run, The Confrontation With Tiffany's Van, & The Hallway Closet Sanctuary
 
+![Inside the produce section of a neighborhood grocery store on West Ocean View Avenue in Norfolk on November 14, 2005, 20-year-old twins Katie and Nathaniel Prairie roll side by side in their black motorized SwiftChair power wheelchairs as Katie consults her flip-phone grocery list and hands a bag of red apples back to their smiling 47-year-old father David pushing a metal shopping cart stocked with bananas, bread, and fresh milk.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_grocery_store_run_katie_nate_david.jpg)
+
 Rolling out through the automatic glass doors into the Chesapeake Bay Mall pickup zone, we spotted our forty-seven-year-old dad standing beside the open tailgate of his pickup truck with the folding aluminum loading ramps already set in place.
 
 "There are my two favorite college students!" Dad said warmly, hugging Katie and me tightly before helping us load the new queen bedding bags, secure our two compact SwiftChairs in the bed of the pickup truck, and settle into the back seat of the extended cab behind him.
@@ -3041,7 +3077,11 @@ When the front door clicked shut behind Dad and the quiet hum of our freshly for
 
 **Date:** 2005-11-16 at 14:00 America/New_York
 
+![Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk on November 16, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg)
+
 #### Wednesday, November 16, 2005, 2:00 PM — The Federal Courthouse on Granby Street & Special Agent Morales
+
+![Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk on November 16, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg)
 
 By Wednesday afternoon, November 16, 2005, Katie's wooden dresser, her television and DVD player, her digital clock radio, and her laptop were all settled into their permanent places inside Apartment 3 at 233 West Ocean View Avenue, and forty-eight hours of uninterrupted sleep inside our shared sleeping bag in the dark hallway closet and warm meals at our scrubbed kitchen table had finally steadied her nervous system enough to face a badge.
 
@@ -3053,7 +3093,7 @@ Katie sat in her compact SwiftChair at the head of the long oak table with my ch
 
 Katie reached sideways and held onto my hand on the armrest between our chairs, drawing a steady breath before she spoke.
 
-"He told me for weeks that my dad and my brother didn't really care about me, and on Friday night he printed out maps for Windsor, Ontario," Katie said, her voice quiet at first but growing clearer as she went through the exact timeline. "He demanded my birth certificate folder and my state identification card, and when we got to the Williamsburg train station on North Boundary Street on Saturday afternoon in the rain, he locked the manual brakes on the back of my wheelchair under the overhang and told me not to move while he went inside to buy two one-way train and tunnel-bus tickets to Canada. I didn't want to go to Canada, and I didn't want to be near him anymore. When I saw the Colonial Triangle Transit Authority Grey Line bus pull in with Newport News on the sign, I unlocked my own brakes, rolled onto the bus, and took five buses all the way home to my brother's apartment in West Ocean View."
+"He told me for weeks that my dad and my brother didn't really care about me, and on Friday night he printed out maps for Windsor, Ontario," Katie said, her voice quiet at first but growing clearer as she went through the exact timeline. "He demanded my birth certificate folder and my state identification card, and when we got to the Williamsburg train station on North Boundary Street on Saturday afternoon in the rain, he locked the motor-brake levers on the back of my power wheelchair and switched off my joystick under the overhang, telling me not to move while he went inside to buy two one-way train and tunnel-bus tickets to Canada. I didn't want to go to Canada, and I didn't want to be near him anymore. When I saw the Colonial Triangle Transit Authority Grey Line bus pull in with Newport News on the sign, I switched my joystick back on, drove onto the bus, and took five buses all the way home to my brother's apartment in West Ocean View."
 
 "And normally, in a case where the victim escapes at the station before boarding the train," the Williamsburg detective noted, leaning forward across the table, "the suspect claims it was all a misunderstanding—that he never actually bought tickets to leave the country, or that he was just planning a short weekend trip."
 
@@ -3145,6 +3185,8 @@ She let out a long, slow breath through her nose, looked over at me with her eye
 
 #### Thursday, November 24, 2005, 1:00 PM — Thanksgiving Dinner With Dad in Virginia Beach
 
+![Inside David Prairie's cozy brick ranch dining room in Virginia Beach on Thanksgiving Day, November 24, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests and clinking tall glasses of iced tea over roast turkey and pumpkin pie with their beaming 47-year-old father David.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_thanksgiving_dinner_dads_house_katie_nate_david.jpg)
+
 "Smell that roasting bird!" Dad smiled from the stove of his single-story brick ranch off Military Highway and Indian River Road as Katie and I rolled our compact SwiftChairs down the hallway into the warm, cinnamon-and-sage-scented kitchen.
 
 It was Thursday afternoon, November 24, 2005—Thanksgiving Day—just ten days after Katie had moved into Sea Breeze West Apartment 3 with me and we had reclaimed our lives from fourteen months of isolation. Earlier that morning, Dad had driven up to West Ocean View in his pickup truck with the folding aluminum ramps to bring both of us down to his house in Virginia Beach for the holiday, and for the first time in over a year, there were no jealous partners, no screaming ultimatums, and no walking on eggshells—just our forty-seven-year-old father and his twenty-year-old twins under one roof again.
@@ -3225,7 +3267,11 @@ By Saturday afternoon, when we rolled the boxes of toasted oat cereal, the blue 
 
 **Date:** 2005-11-27 at 19:30 America/New_York
 
+![Inside Apartment 3 at Sea Breeze West in West Ocean View on the evening of November 27, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their computer desk surrounded by paper CVTA bus timetables as they hand-code and launch their transit advocacy blog, Ideas for Coastal Virginia Transit.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_ideas_for_cvta_blog_launch_katie_nate.jpg)
+
 #### Sunday, November 27, 2005, 7:30 PM — The Seattle Transit Blog & A Question Across the Desk
+
+![Inside Apartment 3 at Sea Breeze West in West Ocean View on the evening of November 27, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their computer desk surrounded by paper CVTA bus timetables as they hand-code and launch their transit advocacy blog, Ideas for Coastal Virginia Transit.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_ideas_for_cvta_blog_launch_katie_nate.jpg)
 
 "Look at this site I just found on OmniSearch, Katie," I said, angling our seventeen-inch off-white CRT monitor slightly toward my twin sister's wheelchair as the cooling fan inside my 2004 desktop tower hummed steadily on the repurposed dining table along the far-left wall of our front room. "It's called the Seattle Transit Blog."
 
@@ -3335,7 +3381,11 @@ I looked at the calendar pinned beside our desk and did the math in my head. "In
 
 **Date:** 2008-04-14 at 13:30 America/New_York
 
+![Inside the Coastal Virginia Transit Authority boardroom on 18th Street in Norfolk on April 14, 2008, 22-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment microphone table presenting their route and schedule audit to the CVTA commissioners.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/apr_2008_cvta_18th_street_boardroom_public_comment_katie_nate.jpg)
+
 #### Thursday, April 14, 2008, 1:30 PM — The Binders at Eighteenth Street & The "Good Enough" Mentality
+
+![Inside the Coastal Virginia Transit Authority boardroom on 18th Street in Norfolk on April 14, 2008, 22-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment microphone table presenting their route and schedule audit to the CVTA commissioners.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/apr_2008_cvta_18th_street_boardroom_public_comment_katie_nate.jpg)
 
 "Look at the open three-ring binder on the corner of the staff table, Nate," Katie whispered, leaning slightly across her SwiftChair armrest toward mine as we parked our wheelchairs at the end of the front visitor row inside the Coastal Virginia Transit Authority boardroom on Eighteenth Street in Norfolk. "That's our Tuesday post. They printed the whole thing out and highlighted the timetable chart in yellow."
 
@@ -3473,7 +3523,11 @@ Katie stared at the screen for three seconds, and then a slow, fierce grin broke
 
 **Date:** 2008-09-16 at 14:00 America/New_York
 
+![Inside the Coastal Virginia Transit Authority boardroom at 509 East 18th Street in Norfolk on November 19, 2009, 24-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment table as CVTA Chief Operating Officer Richard Halstead leans over the dais to cut off their microphone.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2009_cvta_18th_street_mic_cutoff_and_jan_2011_commissioner_reckoning.jpg)
+
 #### Tuesday, September 16, 2008, 2:00 PM — Four Buses Across Two Cities & The Expired Two-Hour Transfer
+
+![Inside a moving CVTA Route 15 bus crossing the Elizabeth River bridge into Virginia Beach on September 16, 2008, 23-year-old Katie Prairie sits in her black motorized SwiftChair power wheelchair holding up printed CVTA bus timetables for stunned mayoral candidate Scott Tanner as he inspects his expired two-hour paper transfer slip, while twin brother Nate films the interview with a digital camcorder mounted on his SwiftChair lap tray.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2008_cvta_route_15_bus_mayoral_loop_interview_scott_tanner.jpg)
 
 "Right on time," twenty-three-year-old Katie said, nodding toward the concrete island at the Community College of Hampton Roads Virginia Beach Campus transit hub as mayoral candidate Scott Tanner locked his sedan in the student visitor lot and walked over to our two compact SwiftChairs with a notebook tucked under his arm.
 
@@ -3526,6 +3580,8 @@ Right on camera, Scott had to reach into his pocket and feed a second full fare 
 ***
 
 #### Thursday, November 19, 2009, 1:35 PM — Cut Off at the Eighteenth Street Microphone & Blackballed From TRAC
+
+![Inside the Coastal Virginia Transit Authority boardroom at 509 East 18th Street in Norfolk on November 19, 2009, 24-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment table as CVTA Chief Operating Officer Richard Halstead leans over the dais to cut off their microphone.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2009_cvta_18th_street_mic_cutoff_and_jan_2011_commissioner_reckoning.jpg)
 
 That night in September 2008, I edited our four-bus ride down into a crisp twelve-minute documentary video with full burned-in open captions and published it at the top of Ideas for Coastal Virginia Transit.
 
@@ -3581,7 +3637,11 @@ Katie turned her SwiftChair toward me, her blue eyes steady and bright.
 
 **Date:** 2010-10-14 at 19:28 America/New_York
 
+![Under the studio lights of WHRC TV-15 on Hampton Boulevard in Norfolk on October 14, 2010, 25-year-old Kempsville City Council challenger Katie Prairie sits in her black motorized SwiftChair power wheelchair at an accessible mahogany desk beside the brightly lit, completely empty standing podium reserved for ten-year incumbent Councilman Harold Dietz, while twin brother Nate monitors the debate from his SwiftChair on the left.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2010_whrc_tv15_empty_podium_debate_katie_prairie.jpg)
+
 #### Thursday, October 14, 2010, 7:28 PM — The Empty Mahogany Podium Under the WHRC Studio Lights
+
+![Under the studio lights of WHRC TV-15 on Hampton Boulevard in Norfolk on October 14, 2010, 25-year-old Kempsville City Council challenger Katie Prairie sits in her black motorized SwiftChair power wheelchair at an accessible mahogany desk beside the brightly lit, completely empty standing podium reserved for ten-year incumbent Councilman Harold Dietz, while twin brother Nate monitors the debate from his SwiftChair on the left.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2010_whrc_tv15_empty_podium_debate_katie_prairie.jpg)
 
 "Two minutes to air, Ms. Prairie," the WHRC TV-15 floor director called out quietly, holding up two fingers beside the center studio camera inside the public-television broadcast center at 5200 Hampton Boulevard in Norfolk. "Still no sign of Councilman Dietz or his campaign manager at the front desk, so per station rules, his podium stays lit and his microphone stays open."
 
@@ -3616,6 +3676,8 @@ And that was when the real moment of the campaign began.
 ***
 
 #### Thursday, October 14, 2010, 8:14 PM — Crossing Six Lanes of Hampton Boulevard With Reporter Greg Mercer to Catch the 8:24 PM Route 2
+
+![Under the amber streetlights of Hampton Boulevard in Norfolk at 8:24 PM on October 14, 2010, 25-year-old Kempsville City Council candidate Katie Prairie and her twin brother Nate roll their black motorized SwiftChair power wheelchairs onto the deployed front ramp of a kneeling CVTA Route 2 bus while astonished Tidewater Pilot reporter Greg Mercer scribbles notes on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2010_hampton_blvd_824pm_route_2_bus_ramp_reporter_greg_mercer.jpg)
 
 The instant the studio floor director called *"We're clear!"* at 8:14 PM, Katie didn't linger on the stage to bask in the applause of the camera crew.
 
@@ -3720,6 +3782,8 @@ Sitting at our Kempsville kitchen table with Dad grinning over his coffee mug an
 
 **Date:** 2010-10-28 at 08:15 America/New_York
 
+![At the top of the newly constructed red-carpeted mahogany wheelchair ramp on the Virginia Beach City Council dais in Building 1 on January 4, 2011, 25-year-old Councilwoman-Elect Katie Prairie sits in her black motorized SwiftChair power wheelchair taking the secular constitutional affirmation of office on the Constitution of Virginia held by her twin brother Nate, with their father David standing proudly behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2011_vb_city_council_dais_ramp_secular_affirmation_katie_nate_david.jpg)
+
 #### Thursday, October 28, 2010, 8:15 AM — Five Days Before the Election: The Incumbent Attacks Katie's Wheelchair on WTGA 790 AM
 
 "Turn the desktop speakers up a notch, Nate," twenty-five-year-old Katie said from her SwiftChair beside mine on the Thursday morning before the election, pausing her typing on our morning canvassing walk-sheets as the live web stream of conservative talk radio WTGA 790 AM—Tidewater Talk 790—crackled across our home office on Lord Nelson Drive. "The host just said Harold Dietz called in unscheduled."
@@ -3780,6 +3844,8 @@ When I finished reading Mrs. Sterling's letter, Dad had to take off his glasses 
 
 #### Tuesday, November 2, 2010, 7:19 PM — The 94.1% to 5.9% Landslide & The Four-Station Election Night Post-Mortem
 
+![Inside their Kempsville home on Election Night, November 2, 2010, 25-year-old twins Katie and Nathaniel Prairie sit in their black motorized SwiftChair power wheelchairs pressing their foreheads together and clasping hands in joyful tears beneath the television displaying Katie's 94.1% victory projection, embraced from behind by their proud father David.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2010_kempsville_election_night_94_percent_landslide_katie_nate_david.jpg)
+
 At seven o'clock on the evening of Tuesday, November 2, 2010, the polls closed across the City of Virginia Beach.
 
 We hadn't rented a hotel ballroom at the Oceanfront. Instead, Katie, Dad, and I were gathered inside our living room on Lord Nelson Drive along with sixteen of our volunteer sidewalk canvassers, CCHR students, and fellow CVTA bus riders, with platters of warm pizza and two-liter bottles of ginger ale, orange soda, and flavored water set out on the dining table and a fresh pot of black coffee brewing in the kitchen for Dad. Across the living room wall, I had connected four television monitors and my dual laptop screens to our custom PHP precinct-return engine, which scraped the live precinct-by-precinct XML data feed straight from the Virginia State Board of Elections and the Virginia Beach Voter Registrar every fifteen seconds.
@@ -3819,6 +3885,8 @@ Even over on conservative talk radio WTGA 790 AM, the evening election host sigh
 ***
 
 #### January to May 2011 — The Building 1 Dais Ramp, Locking $810,000 of CVTA Perks in Escrow, & Taking Seat on the CVTA Commission
+
+![At the top of the newly constructed red-carpeted mahogany wheelchair ramp on the Virginia Beach City Council dais in Building 1 on January 4, 2011, 25-year-old Councilwoman-Elect Katie Prairie sits in her black motorized SwiftChair power wheelchair taking the secular constitutional affirmation of office on the Constitution of Virginia held by her twin brother Nate, with their father David standing proudly behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2011_vb_city_council_dais_ramp_secular_affirmation_katie_nate_david.jpg)
 
 During the eight weeks between Election Night in November 2010 and Reorganization Night in January 2011, municipal carpenters and accessibility contractors went to work inside the City Council Chamber of Building 1 at the Virginia Beach Municipal Center.
 
@@ -3880,6 +3948,8 @@ And on every single Tuesday night when the Virginia Beach City Council adjourned
 
 **Date:** 2012-02-09 at 11:35 America/New_York
 
+![Seated side by side in their black motorized SwiftChair power wheelchairs on the green carpet of the Floor of the Virginia House of Delegates on February 9, 2012, 26-year-old Virginia Beach City Councilwoman Katie Prairie and her twin brother Nate talk with Delegate Ronald Villa at his mahogany desk while Katie looks out across the chamber with the spark to run for the General Assembly.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2012_virginia_house_floor_seated_by_delegate_ronald_villa.jpg)
+
 #### Thursday, February 9, 2012, 11:35 AM — Stopped Outside the Third-Floor Public Viewing Gallery by Capitol Police
 
 "The public viewing gallery for the House of Delegates should be right around this corner on the left, Nate," twenty-six-year-old Katie said as the brass doors of the small historic passenger elevator slid open on the third floor of the Virginia State Capitol.
@@ -3923,6 +3993,8 @@ Katie's blue eyes widened slightly as she looked across at me, and we rolled our
 ***
 
 #### Thursday, February 9, 2012, 11:52 AM — Seated on the House Floor Near Virginia Beach Delegate Ronald Villa & The Spark
+
+![Seated side by side in their black motorized SwiftChair power wheelchairs on the green carpet of the Floor of the Virginia House of Delegates on February 9, 2012, 26-year-old Virginia Beach City Councilwoman Katie Prairie and her twin brother Nate talk with Delegate Ronald Villa at his mahogany desk while Katie looks out across the chamber with the spark to run for the General Assembly.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2012_virginia_house_floor_seated_by_delegate_ronald_villa.jpg)
 
 When the elevator doors opened on the first floor, the marble rotunda corridor outside the House Chamber was packed three-deep with corporate lobbyists, reporters, and political staffers pressed against the brass velvet rope.
 
@@ -3982,6 +4054,8 @@ My breath caught in my chest as I realized what my twin sister was saying.
 
 **Date:** 2012-11-23 at 18:30 America/New_York
 
+![At the Community College of Hampton Roads Virginia Beach Campus bus transfer loop in January 2013 with a CVTA Route 12 bus idling at the curb, 27-year-old Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their father David beside them, collecting 412 verified voter signatures on her House of Delegates ballot petitions.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2013_cchr_bus_loop_412_petition_signatures_katie_nate_david.jpg)
+
 #### Friday, November 23, 2012, 6:30 PM — Brainstorming with Dad Around the Kempsville Kitchen Table
 
 "Dad," twenty-seven-year-old Katie said after the three of us had finished our Friday evening Thanksgiving leftovers and I had set three fresh glasses of ice-cold ginger ale down on the oak kitchen table of our house on Lord Nelson Drive in Kempsville, "Nate and I have a big decision we want to talk through with you before the end of the year."
@@ -4035,6 +4109,8 @@ Dad placed his large, warm hand over both of ours in the center of the kitchen t
 ***
 
 #### January to December 2013 — 412 Signatures at CCHR, Canvassing the 85th District, & Passing the Baton on City Council
+
+![At the Community College of Hampton Roads Virginia Beach Campus bus transfer loop in January 2013 with a CVTA Route 12 bus idling at the curb, 27-year-old Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their father David beside them, collecting 412 verified voter signatures on her House of Delegates ballot petitions.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2013_cchr_bus_loop_412_petition_signatures_katie_nate_david.jpg)
 
 On the first Saturday morning of January 2013, right after Katie and I filed her Statement of Organization with Dad listed as Treasurer, the three of us set up at the edge of the concrete passenger island at the CCHR Virginia Beach Campus bus loop.
 
@@ -4090,7 +4166,11 @@ When Katie and I rolled out of the Municipal Center at nine-thirty that December
 
 **Date:** 2014-01-03 at 14:15 America/New_York
 
+![Inside Apartment 104 of the Broad & Boulevard Lofts in Richmond on January 3, 2014, 28-year-old Freshman Delegate-Elect Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands by the tall warehouse windows with their father David beside them as a blue-and-white JRTC Route 6 bus glides down West Broad Street.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2014_west_broad_street_loft_window_jrtc_route_6_katie_nate_david.jpg)
+
 #### Friday, January 3, 2014, 2:15 PM — Five Days Ahead of Opening Day at the Broad & Boulevard Lofts
+
+![Inside Apartment 104 of the Broad & Boulevard Lofts in Richmond on January 3, 2014, 28-year-old Freshman Delegate-Elect Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands by the tall warehouse windows with their father David beside them as a blue-and-white JRTC Route 6 bus glides down West Broad Street.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2014_west_broad_street_loft_window_jrtc_route_6_katie_nate_david.jpg)
 
 "I still apologize that we only had a one-bedroom accessible apartment left on the ground floor for the legislative session, Delegate Prairie," the property manager of the Broad & Boulevard Lofts said nervously as he held open the wide oak door of Apartment 104 and handed twenty-eight-year-old Katie two brass keys and a pair of electronic lobby fobs. "When the General Assembly convenes every January, the two-bedroom corporate units book up months in advance. If you and your brother need us to roll a folding cot into the living room—"
 
@@ -4208,7 +4288,11 @@ By Sunday night, we knew every bus stop, every curb cut, and every timetable alo
 
 **Date:** 2014-01-06 at 08:15 America/New_York
 
+![At the corner of Ninth and Broad Street outside the General Assembly Building in Richmond on January 6, 2014, 28-year-old Freshman Delegate Katie Prairie and her twin brother Nate roll their black motorized SwiftChair power wheelchairs down the front ramp of a kneeling blue-and-white JRTC Route 6 city bus while veteran lawmakers and corporate lobbyists look on in stunned disbelief.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2014_ninth_and_broad_jrtc_route_6_ramp_arrival_shocked_lobbyists.jpg)
+
 #### Monday, January 6, 2014, 8:15 AM — The First Time Richmond Politicians See a Delegate Roll Off the City Bus
+
+![At the corner of Ninth and Broad Street outside the General Assembly Building in Richmond on January 6, 2014, 28-year-old Freshman Delegate Katie Prairie and her twin brother Nate roll their black motorized SwiftChair power wheelchairs down the front ramp of a kneeling blue-and-white JRTC Route 6 city bus while veteran lawmakers and corporate lobbyists look on in stunned disbelief.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2014_ninth_and_broad_jrtc_route_6_ramp_arrival_shocked_lobbyists.jpg)
 
 At eight-fifteen on Monday morning—forty-eight hours before the 2014 General Assembly would formally convene—the intersection of Ninth and Broad Street outside the General Assembly Building looked like a luxury auto dealership convention.
 
@@ -4267,6 +4351,8 @@ The orientation clerk stared at the returned garage transponder on the table as 
 ***
 
 #### Monday Afternoon & Tuesday, January 6–7, 2014 — The Steel Tape Measure & The 60-Inch ADA Restroom Showdown
+
+![Inside the Capitol Facilities Management office in Richmond on January 6, 2014, 28-year-old Freshman Delegate Katie Prairie sits in her black motorized SwiftChair power wheelchair extending a yellow 25-foot steel tape measure across the counter while twin brother Nate displays his 60-inch ADA turning-radius diagram to the flustered Deputy Director reaching for his desk telephone.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2014_capitol_facilities_steel_tape_measure_60_inch_ada_showdown.jpg)
 
 While Katie didn't care one bit about a VIP parking space or a gold license plate, we discovered at one-thirty that Monday afternoon what she *was* willing to go to war over before her first session even gaveled in.
 
@@ -4342,7 +4428,11 @@ Delegate Katie Prairie of Virginia Beach and her twin brother Nate had arrived i
 
 **Date:** 2016-02-04 at 11:35 America/New_York
 
+![On the Floor of the Virginia House of Delegates on February 4, 2016, 30-year-old Delegate Katie Prairie sits at her accessible mahogany desk in her black motorized SwiftChair power wheelchair holding up the highlighted pages of House Bill 663 to challenge its 'anatomical sex' restroom inspection mandate while twin brother Nate records the floor feed from his SwiftChair.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_virginia_house_floor_hb663_speech_katie_prairie.jpg)
+
 #### Thursday, February 4, 2016, 11:35 AM — The Capitol Tunnel & Splitting Up at the Chamber Doors
+
+![Rolling side by side through the subterranean marble concourse tunnel connecting the General Assembly Building to the Virginia State Capitol in Richmond on February 4, 2016, 30-year-old Delegate Katie Prairie and her twin brother Nate hold hands across the armrests of their black motorized SwiftChair power wheelchairs moments before Katie's historic floor speech on House Bill 663.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_capitol_tunnel_rolling_to_house_floor_katie_nate.jpg)
 
 "Look at Line 18 on Page 1 again, Nate," my twin sister Katie said, tapping her yellow highlighter against the two-page bill printout resting on her lap tray as our compact SwiftChairs rolled side by side down the long underground concourse tunnel connecting the General Assembly Building to the historic Virginia State Capitol. "'Anatomical sex means the physical condition of being male or female, which is determined by a person's anatomy.' Not a birth certificate, not a driver's license, and not how someone lives their daily life—strictly their physical anatomy. And then look at Line 54 on Page 2: 'Any person who willfully and knowingly violates this section shall be liable for a civil penalty of not more than fifty dollars,' enforced by a law enforcement officer's summons."
 
@@ -4381,6 +4471,8 @@ Looking across the wide expanse of green carpet under the tall cream-and-gold co
 ***
 
 #### Thursday, February 4, 2016, 12:18 PM — Watching Across the House Floor as Katie Challenges the Patron
+
+![On the Floor of the Virginia House of Delegates on February 4, 2016, 30-year-old Delegate Katie Prairie sits at her accessible mahogany desk in her black motorized SwiftChair power wheelchair holding up the highlighted pages of House Bill 663 to challenge its 'anatomical sex' restroom inspection mandate while twin brother Nate records the floor feed from his SwiftChair.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_virginia_house_floor_hb663_speech_katie_prairie.jpg)
 
 At twelve o'clock noon on the dot, the Speaker of the House rapped his wooden gavel against the rostrum block.
 
@@ -4472,6 +4564,8 @@ I unplugged my audio cable from the side rail, packed my laptop and capture rig 
 
 **Date:** 2016-02-04 at 18:00 America/New_York
 
+![Inside the GBS television studio in Richmond on Sunday morning, February 7, 2016, 30-year-old Delegate Katie Prairie sits in her black motorized SwiftChair power wheelchair in a wide camera frame in front of an illuminated Virginia State Capitol backdrop for a live national interview on Meet the Nation, while twin brother Nate monitors the broadcast from his SwiftChair beside the studio return screen.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_gbs_richmond_studio_meet_the_nation_live_interview_katie_nate.jpg)
+
 #### Thursday, February 4, 2016, 6:00 PM — The Evening News in Richmond and Norfolk
 
 "Hand me the pepper shaker, Nate," Katie said at six o'clock that Thursday evening, setting two warm plates of baked chicken and rice down on the kitchen table of our accessible one-bedroom winter-session apartment at the Broad & Boulevard Lofts on West Broad Street after we had ridden the 5:35 PM westbound JRTC Route 6 bus home from Ninth and Broad. "And turn on the television so we can see the weather forecast for the weekend."
@@ -4531,6 +4625,8 @@ I muted the phone for two seconds and looked across the table at my twin sister.
 ***
 
 #### Sunday, February 7, 2016, 9:00 AM — "If It's Sunday, It's Meet the Nation" & Laying the Bill on the Table
+
+![Inside the GBS television studio in Richmond on Sunday morning, February 7, 2016, 30-year-old Delegate Katie Prairie sits in her black motorized SwiftChair power wheelchair in a wide camera frame in front of an illuminated Virginia State Capitol backdrop for a live national interview on Meet the Nation, while twin brother Nate monitors the broadcast from his SwiftChair beside the studio return screen.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_gbs_richmond_studio_meet_the_nation_live_interview_katie_nate.jpg)
 
 At 8:35 AM on Sunday morning, Katie and I rolled our compact SwiftChairs up the studio ramp of the local GBS television affiliate in Richmond.
 
@@ -4592,7 +4688,11 @@ At the accessible end of the room, Katie watched the bill's patron stomp out int
 
 **Date:** 2018-02-22 at 15:10 America/New_York
 
+![Beneath the marble statue of Thomas Jefferson in the center of the Virginia State Capitol Rotunda on February 22, 2018, 32-year-old Delegate Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests as Katie fixes her gaze on the closed mahogany doors of the Senate of Virginia.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2018_capitol_rotunda_jefferson_statue_resolve_to_run_for_state_senate.jpg)
+
 #### Thursday, February 22, 2018, 3:10 PM — The Graveyard Across the Capitol Rotunda
+
+![Beneath the marble statue of Thomas Jefferson in the center of the Virginia State Capitol Rotunda on February 22, 2018, 32-year-old Delegate Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests as Katie fixes her gaze on the closed mahogany doors of the Senate of Virginia.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2018_capitol_rotunda_jefferson_statue_resolve_to_run_for_state_senate.jpg)
 
 "House Bill 412, patroned by Delegate Prairie of Virginia Beach, relating to dedicated regional public-transit operating assistance and Priority-One developmental-disability Medicaid waiver slots," the committee clerk read aloud inside the crowded Senate Finance subcommittee room on the afternoon after the mid-session crossover deadline.
 
@@ -4642,6 +4742,8 @@ I looked at my twin sister, feeling the exact same electric charge I had felt in
 
 #### Saturday, November 10, 2018, 5:00 PM — Brainstorming the Jump to the State Senate Around Our Kempsville Table
 
+![Around their oak kitchen table in Kempsville, Virginia Beach beneath the framed blue morpho butterfly watercolor print on November 10, 2018, 33-year-old Delegate Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their 60-year-old father David examining the precinct map of the 7th Senate District of Virginia alongside their MagnaBook Pro laptop and glasses of ginger ale.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2018_kempsville_kitchen_table_state_senate_strategy_katie_nate_david.jpg)
+
 "Walk me through the difference between being a State Delegate and being a State Senator," our sixty-year-old dad said that autumn as the three of us sat around our oak kitchen table on Lord Nelson Drive with three tall glasses of ginger ale and my MagnaBook Pro open to the map of the Seventh Senate District of Virginia. "You're already in state politics in Richmond, Katie, and the voters of the Eighty-Fifth House District have elected you three times in a row by bigger margins every election. If a constituent on the Route 12 bus asks you tomorrow morning why you're jumping from the House of Delegates to run for the Senate of Virginia, what's the answer?"
 
 "Three reasons, Dad," thirty-three-year-old Katie answered, holding up three fingers from her SwiftChair armrest.
@@ -4688,6 +4790,8 @@ With Dad walking beside our SwiftChairs every weekend holding the legal-sized pe
 
 **Date:** 2019-11-05 at 19:30 America/New_York
 
+![Inside the Senate of Virginia Chamber at the State Capitol in Richmond on Opening Day, January 8, 2020, 34-year-old State Senator Katie Prairie sits in her black motorized SwiftChair power wheelchair beside the newly milled solid-mahogany wheelchair ramp, taking the secular constitutional affirmation of office on the Constitution of Virginia held by her twin brother Nate while their father David watches proudly.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2020_senate_of_virginia_mahogany_ramp_madam_chair_affirmation.jpg)
+
 #### Tuesday, November 5, 2019, 7:30 PM — Winning the Seventh Senate District & Flipping the Senate of Virginia
 
 "Norfolk precincts around Newtown Road and Glenrock just uploaded to the State Board of Elections server," I called out at seven-thirty on Election Night—Tuesday, November 5, 2019—as my custom PHP precinct-aggregation script refreshed on my laptop screen inside our packed campaign headquarters off Kempsville Road. "And here come the early-vote and seven-o'clock precinct totals from CCHR, Bellamy Manor, Brandon, Pembroke, and the polling place over by Fairlawn Recreation Center on Marlborough Drive!"
@@ -4718,6 +4822,8 @@ Katie turned her head toward me, her eyes bright with tears as she threw her arm
 
 #### December 2019 to Wednesday, January 8, 2020 — The Custom-Milled Mahogany Ramp & Swearing In as Madam Chair
 
+![Inside the Senate of Virginia Chamber at the State Capitol in Richmond on Opening Day, January 8, 2020, 34-year-old State Senator Katie Prairie sits in her black motorized SwiftChair power wheelchair beside the newly milled solid-mahogany wheelchair ramp, taking the secular constitutional affirmation of office on the Constitution of Virginia held by her twin brother Nate while their father David watches proudly.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2020_senate_of_virginia_mahogany_ramp_madam_chair_affirmation.jpg)
+
 In the weeks between Election Night and the January 2020 Opening Day of the General Assembly, the transition from the House of Delegates to the Senate of Virginia looked very different from our first arrival in Richmond six years earlier.
 
 After the Electoral Boards of the City of Virginia Beach and the City of Norfolk completed their official multi-locality canvass and the Virginia State Board of Elections transmitted Katie's gold-sealed Certificate of Election as Senator-Elect for the Seventh Senatorial District under Code of Virginia Section 24.2-675, Katie received a phone call at our home in Kempsville on the first Monday of December.
@@ -4730,7 +4836,7 @@ Three days later, when Katie and I rode the morning ARTS train and the JRTC Rout
 
 Inside the neoclassical Office of the Clerk of the Senate—where tall white marble Ionic columns framed the floor-to-ceiling volumes of the Virginia Acts of Assembly—the carpenters were already constructing a lowered, wheelchair-accessible section of the polished mahogany reception counter so Senator Katie Prairie could sign official Senate parchments and pre-file bills at eye level with me parked right beside her.
 
-And inside the Senate of Virginia Chamber itself, under the tall arched windows and the green carpet of the forty-member upper house, the Clerk led us up to the front aisle where the senior committee chairs sat.
+And inside the Senate of Virginia Chamber itself, under the tall arched windows and the crimson carpet of the forty-member upper house, the Clerk led us up to the front aisle where the senior committee chairs sat.
 
 Not only had the cabinetmakers modified the front-aisle mahogany desk for the Chair of Rehabilitation and Social Services so Katie's compact SwiftChair rolled smoothly underneath the desktop without a single obstruction, they had also designed a permanent, custom-milled solid-mahogany wheelchair ramp leading directly up to the Clerk's well and the Senate dais—complete with matching turned mahogany balusters and brass handrails stained to the exact eighteenth-century patina of the chamber's historic woodwork.
 
@@ -4781,6 +4887,8 @@ Behind the marble columns, the two opposition senators suddenly found something 
 ![Forty-one-year-old U.S. Senator-Elect Katie Prairie and her fraternal twin brother Nate hold hands across their compact SwiftChair power wheelchairs on a ballroom stage in Virginia Beach with their proud father David standing on his own two feet beside them beneath falling confetti and the GNN Decision Desk projection screen]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2026_election_night_decision_desk_victory_katie_nate_david.jpg)
 
 #### Tuesday, November 3, 2026, 7:00 PM — Polls Close & The PHP Precinct Dashboard in Virginia Beach
+
+![On Election Night, November 3, 2026, 41-year-old U.S. Senate candidate Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs at their dual MagnaBook Pro laptops and live Virginia precinct-return dashboard monitor while their 68-year-old father David stands behind them holding a mug of black coffee and pointing excitedly at the early precinct totals.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/nov_2026_kempsville_precinct_dashboard_7pm_polls_close_katie_nate_david.jpg)
 
 "Seven o'clock on the dot—polls are officially closed across the Commonwealth of Virginia," our sixty-eight-year-old dad said, setting three tall paper cups of ice-cold ginger ale down on the folding table beside my MagnaBook Pro inside the quiet green room behind the Virginia Beach convention ballroom. "How fast is the State Board of Elections JSON endpoint pushing the early-vote abstracts tonight, Nate?"
 
@@ -5108,9 +5216,11 @@ With a respectful bow of his head, the Clerk accepted the parchment letter in bo
 
 #### Tuesday, December 15, 2026, 3:15 PM — One Last Roll Down the Senate Ramp & The Bus to Main Street Station
 
+![Outside the classical white columns of the Virginia State Capitol in Richmond on December 15, 2026, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll their black motorized SwiftChair power wheelchairs toward the deployed front ramp of a kneeling blue-and-white JRTC city bus signed for Main Street Station with their 68-year-old father David walking beside them as Katie looks back one final time at the Capitol.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/dec_2026_richmond_capitol_square_bus_stop_farewell_katie_nate_david.jpg)
+
 After leaving the Clerk's Office, Katie and I took the elevator to the second floor and rolled quietly into the empty gallery aisle of the Senate of Virginia Chamber.
 
-The afternoon December sunlight slanted through the tall arched windows across the green carpet and the forty mahogany desks of the upper chamber. Up at the front aisle, right beside the Committee on Rehabilitation and Social Services chair desk that Katie had occupied since January 2020, sat the permanent, custom-milled mahogany wheelchair ramp leading up to the Clerk's well and the dais—installed so seamlessly into the historic woodwork that any visitor looking down from the Capitol gallery would assume it had always been there.
+The afternoon December sunlight slanted through the tall arched windows across the crimson carpet and the forty mahogany desks of the upper chamber. Up at the front aisle, right beside the Committee on Rehabilitation and Social Services chair desk that Katie had occupied since January 2020, sat the permanent, custom-milled mahogany wheelchair ramp leading up to the Clerk's well and the dais—installed so seamlessly into the historic woodwork that any visitor looking down from the Capitol gallery would assume it had always been there.
 
 Sitting beside my sister in the quiet chamber, I reached across our armrests and took her left hand.
 
@@ -5209,6 +5319,8 @@ As the ARTS train sounded its horn and pulled away northward toward the Potomac 
 
 #### Sunday, January 3, 2027, 9:25 AM — King Street–Old Town & The Yellow Line Over the Charles R. Fenwick Bridge
 
+![Emerging from the Capitol South street elevator onto the sunlit brick plaza with the United States Capitol dome gleaming behind them on January 3, 2027, 41-year-old Senator-Elect Katie Prairie and her twin brother Nate roll side by side in their black motorized SwiftChair power wheelchairs holding hands while their 68-year-old father David walks proudly beside them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_capitol_south_elevator_plaza_arrival_katie_nate_david.jpg)
+
 "Excuse me—Senator-Elect Prairie!" a young man in a navy wool overcoat with a congressional staff ID lanyard around his neck called out as Katie and I rolled out of the platform elevator with Dad walking right beside us onto the elevated concrete island platform at King Street–Old Town Station. "If you're heading to the Capitol for noon, don't get on that train—that's a Yellow Line train! The Blue Line on the other track goes straight to Capitol South without having to transfer!"
 
 Katie and I looked at each other across our wheelchair armrests and laughed—the exact laugh of two people who had spent twenty-five years memorizing every route map, transfer pulse, and rail bridge from Coastal Virginia Transit Authority Route 15 on Military Highway to the Washington metropolitan grid.
@@ -5265,6 +5377,8 @@ When the studio strobes flashed against the mahogany walls and Katie smiled stra
 
 #### Sunday, January 3, 2027, 12:00 PM — Swearing In on the Constitution of the United States of America
 
+![Inside the historic Old Senate Chamber of the United States Capitol on January 3, 2027, 41-year-old U.S. Senator Katie Prairie sits in her black motorized SwiftChair power wheelchair affirming her secular constitutional oath of office before Vice President Julian Vance with her left hand resting on the family copy of the U.S. Constitution beside her twin brother Nate in his SwiftChair and their proud father David.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_old_senate_chamber_swearing_in_reenactment_katie_nate_david.jpg)
+
 At two minutes before twelve o'clock noon—after riding the subterranean United States Capitol Subway together beneath Constitution Avenue—Dad and I took our places at the front brass railing of the Senate Family Gallery directly above the floor of the United States Senate Chamber.
 
 Looking down from the gallery bay where my wheelchair brakes were locked beside Dad's polished dress shoes, I could see the entire semicircle of one hundred mahogany desks arranged across the blue carpet below us. On the far aisle of the Democratic side, the Sergeant at Arms carpenters had already modified Senator Katie Prairie's assigned mahogany desk—widening the aisle clearance and removing the fixed chair base so her compact SwiftChair rolled seamlessly beneath the desktop.
@@ -5309,7 +5423,11 @@ With the cable correspondents left speechless behind us on the Capitol plaza, Ka
 
 **Date:** 2027-01-03 at 16:30 America/New_York
 
+![Inside the gilded Mansfield Room of the United States Capitol on January 3, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their father David standing proudly behind them, clinking three tall glasses of ice-cold ginger ale in a family toast with senior Senators.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_mansfield_room_ginger_ale_toast_katie_nate_david.jpg)
+
 #### Sunday, January 3, 2027, 4:30 PM — The First Invite to Cocktails & "A Known Side Effect of Death"
+
+![Inside the gilded Mansfield Room of the United States Capitol on January 3, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their father David standing proudly behind them, clinking three tall glasses of ice-cold ginger ale in a family toast with senior Senators.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_mansfield_room_ginger_ale_toast_katie_nate_david.jpg)
 
 "There she is—the newest Senator from the Commonwealth of Virginia!" Senator Arthur Harrington, the silver-haired senior chairman of the Appropriations Committee, boomed warmly across the gilded chandeliers and marble fireplace of the Mansfield Room just off the Senate floor. "Katie, bring your brother and your father over here! Waiter—three flutes of the French champagne for Senator Prairie and her family, and then we're heading downstairs to my hideaway office for twenty-year single-malt scotch and celebratory cigars on the West Front terrace!"
 
@@ -5368,6 +5486,8 @@ Back home in Hampton Roads, Katie and I owned our primary residence fifty-fifty 
 ***
 
 #### Sunday, January 3, 2027, 7:30 PM — The Vertical Platform Lift & Coding in Bedroom 4
+
+![Inside the warm upstairs three-desk family office in Bedroom 4 of the Sunset Drive brick house in Alexandria on the night of January 3, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs coding in Quantum Studio 2026 and PHP while their father David works at the third desk and an illuminated Capital Transit Yellow Line train and ARTS passenger train glide across the King Street bridge outside the window.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_sunset_drive_bedroom_4_coding_trains_katie_nate_david.jpg)
 
 "Home sweet Virginia," Dad said as he unlocked the white front door beneath the columned portico and held it open for Katie and me to roll inside over the flush threshold ramp.
 
@@ -5435,7 +5555,11 @@ Inside the warm cocoon of our shared sleeping bag in the dark closet, United Sta
 
 **Date:** 2027-03-18 at 10:15 America/New_York
 
+![Inside a high-ceilinged committee conference room in the U.S. Capitol on March 25, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs presenting the three-step constitutional impeachment trial sequence on Nate's MagnaBook Pro to Speaker of the House Clara Morales and the Senate Majority Leader.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2027_capitol_succession_flowchart_katie_nate_morales.jpg)
+
 #### Thursday, March 18, 2027, 10:15 AM — "He Thinks He's Brandon Mercer" & The No Vote at Eleven-Fifteen
+
+![Inside a high-ceilinged committee conference room in the U.S. Capitol on March 25, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs presenting the three-step constitutional impeachment trial sequence on Nate's MagnaBook Pro to Speaker of the House Clara Morales and the Senate Majority Leader.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2027_capitol_succession_flowchart_katie_nate_morales.jpg)
 
 Inside Room 511 of the Dirksen Senate Office Building, the wall-mounted television was tuned to a live morning press availability on the South Lawn of the White House, where President Garrett Thorne was shouting over the helicopter rotor wash at a cluster of reporters.
 
@@ -5511,7 +5635,11 @@ Across the mahogany table, Speaker Clara Morales looked at the forty-one-year-ol
 
 **Date:** 2027-04-03 at 12:05 America/New_York
 
+![Inside The Tidewater Thorne & RTR Superstore in Suite 756 of Timberline Shopping Center on April 3, 2027, U.S. Senator Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs beside their father David as former Delaney Street neighbor Sharron confronts a stunned Brenda Walsh behind the cash register and drops her Restore the Republic chapter badge onto the glass counter.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_timberline_suite_756_thorne_store_brenda_sharron_confrontation.jpg)
+
 #### Saturday, April 3, 2027, 12:05 PM — Riding CVTA Route 36 to Timberline Shopping Center & Family Lunch at Don Miller Subs
+
+![Inside Don Miller Subs at Timberline Shopping Center on Holland Road in Virginia Beach on April 3, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs clinking tall cups of ice-cold ginger ale in an early 42nd birthday toast with their 68-year-old father David over baskets of grilled steak-and-cheese subs and french fries while counter manager Marcus smiles behind the grill line.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_timberline_don_miller_subs_birthday_lunch_katie_nate_david.jpg)
 
 "Approaching State Route four-ten, Holland Road and Timberlake Road—Timberline Shopping Center," the automated chime announced over the interior speakers of our forty-foot Coastal Virginia Transit Authority Route 36 bus as the driver signaled right and eased into the curb lane just east of where State Route 225 split off toward South Independence Boulevard and the Silverleaf commuter lot.
 
@@ -5537,6 +5665,8 @@ For the next thirty-five minutes, sitting at our usual accessible corner table w
 
 #### Saturday, April 3, 2027, 12:50 PM — Hunting for Forty-Second Birthday Retro Cartridges at Neat Stuff in Suite 732
 
+![Inside Neat Stuff retro video game store in Suite 732 of Timberline Shopping Center on April 3, 2027, U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their father David standing beside them as store clerk Devon presents vintage PlayBrick and 16-bit Super Kinoka cartridges for their upcoming forty-second birthday.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_timberline_neat_stuff_suite_732_birthday_retro_games.jpg)
+
 At ten minutes to one, after wiping our hands with napkins and tossing our paper baskets into the trash bin by the door, we rolled out of Don Miller Subs and turned one door to the right into Suite 732: Neat Stuff.
 
 While everyone in Hampton Roads knew Pixel Haven as our region's premier retro and modern video game store, Neat Stuff here in Suite 732 of Timberline Shopping Center was Pixel Haven's sister store—a floor-to-ceiling treasure cavern packed with vintage console cartridges, classic handheld games, eight-bit and sixteen-bit hardware, comic books, and retro sci-fi collectibles. Ever since we were kids playing our Super Kinoka and Nova 64 consoles in our bedroom on Delaney Street—and trading PlayBrick cartridges in the back of Dad's car—Nate and I had never outgrown our love for retro video games.
@@ -5554,6 +5684,8 @@ Nate's blue eyes lit up like he was twelve years old again. Picking up the sixte
 ***
 
 #### Saturday, April 3, 2027, 1:15 PM — The Banners at Suite 756 & Senatorial Curiosity
+
+![Outside along the covered concrete sidewalk of Timberline Shopping Center on Holland Road in Virginia Beach on April 3, 2027, 41-year-old U.S. Senator Katie Prairie (with her Neat Stuff birthday gift bag hanging from her right armrest) and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their 68-year-old father David standing beside them in front of Pho 79 Vietnamese Kitchen, staring in astonished curiosity at the newly opened Tidewater Thorne & RTR Superstore in Suite 756 next door.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_timberline_suite_756_exterior_banners_pho_79_katie_nate_david.jpg)
 
 Rolling back out of Suite 732 onto the covered concrete sidewalk of Timberline Shopping Center with our paper bag of retro games tucked beside my armrest, Nate, Dad, and I turned right along the storefront walkway toward the Route 36 bus stop out on Holland Road.
 
@@ -5586,6 +5718,8 @@ Curiosity got the better of the Senator in me.
 ***
 
 #### Saturday, April 3, 2027, 1:18 PM — Inside Suite 756: Sharron Connects the Dots & Twenty-Four Years of Truth
+
+![Inside The Tidewater Thorne & RTR Superstore in Suite 756 of Timberline Shopping Center on April 3, 2027, U.S. Senator Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs beside their father David as former Delaney Street neighbor Sharron confronts a stunned Brenda Walsh behind the cash register and drops her Restore the Republic chapter badge onto the glass counter.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_timberline_suite_756_thorne_store_brenda_sharron_confrontation.jpg)
 
 When Dad pulled open the aluminum-framed glass door of Suite 756 and held it for Nate and me to roll our two SwiftChairs across the threshold, a cheap brass bell taped above the door frame jangled loudly.
 
@@ -5715,7 +5849,11 @@ The cheap brass bell above the door jangled once more behind us as Nate, Dad, an
 
 **Date:** 2027-04-16 at 13:30 America/New_York
 
+![Inside the United States Senate Chamber on April 16, 2027, 41-year-old U.S. Senator Katie Prairie sits at her custom-height mahogany floor desk in her black motorized SwiftChair power wheelchair casting her historic Guilty vote in the impeachment trial while her twin brother Nate (in his SwiftChair) and their father David watch proudly from the Senate Family Gallery.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_us_senate_impeachment_guilty_vote_katie_nate_david.jpg)
+
 #### Wednesday & Thursday, April 14–15, 2027 — Convicting Secretary Halverson and Vice President Vance
+
+![Inside the United States Senate Chamber on April 16, 2027, 41-year-old U.S. Senator Katie Prairie sits at her custom-height mahogany floor desk in her black motorized SwiftChair power wheelchair casting her historic Guilty vote in the impeachment trial while her twin brother Nate (in his SwiftChair) and their father David watch proudly from the Senate Family Gallery.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_us_senate_impeachment_guilty_vote_katie_nate_david.jpg)
 
 Two years earlier, in January of 2025, I had been sitting at my desk in the Senate of Virginia in Richmond when President Garrett Thorne nominated Bret Halverson—the slick, hair-sprayed weekend host of *Patriot Watch Weekend* on the Liberty First Network—to serve as United States Secretary of Defense, and when Vice President Julian Vance cast the tie-breaking fiftieth vote to put him in charge of the Pentagon over the objections of every military family in Hampton Roads.
 
@@ -5725,7 +5863,7 @@ He wasn't laughing anymore.
 
 On Wednesday afternoon, April 14, 2027, Bret Halverson sat pale and sweating at the respondent's table in the well of the United States Senate Chamber while Chief Justice Jonathan Sterling presided from the marble rostrum and the Reading Clerk called the final roll on Article One and Article Two of his impeachment.
 
-Up on the top tier of the Senate Floor beside the accessible upper doorway, I sat alone at my custom-height mahogany Senator's desk in my compact SwiftChair with my manual wheel brakes locked firm and my red-tabbed impeachment evidence binder resting flat across my lap. Because Senate rules strictly limit the chamber floor during an impeachment trial to sworn United States Senators and officers of the court, my twin brother Nate sat in his matching SwiftChair beside our dad at the brass railing of the Senate Family Gallery directly across the chamber, his blue eyes locked steadily on mine.
+Up on the top tier of the Senate Floor beside the accessible upper doorway, I sat alone at my custom-height mahogany Senator's desk in my compact SwiftChair with my electromagnetic drive brakes locked firm and my red-tabbed impeachment evidence binder resting flat across my lap. Because Senate rules strictly limit the chamber floor during an impeachment trial to sworn United States Senators and officers of the court, my twin brother Nate sat in his matching SwiftChair beside our dad at the brass railing of the Senate Family Gallery directly across the chamber, his blue eyes locked steadily on mine.
 
 Down in the well, Halverson's defense attorneys didn't even look up toward my desk. After the House managers had displayed the screenshots of Halverson texting classified Naval Station Norfolk carrier strike group deployment schedules over a commercial phone app alongside the four-hundred-million-dollar Thorne Global Holdings kickback ledger Nate's scripts had uncovered, seventeen institutional Republican Senators from defense and coastal states had announced they were crossing the aisle.
 
@@ -5761,7 +5899,7 @@ In all-capital letters, Thorne had called me a *"defective, bitter little crippl
 
 Even at the very end, Garrett Thorne still didn't understand that every ugly, ableist insult he hurled at my wheelchair and my brother only disgusted more institutional Senators in his own party and cemented the two-thirds coalition against him.
 
-At one-thirty on Friday afternoon, April 16, 2027, inside the closed marble chamber of the United States Senate during the final hour of deliberations before the roll call, I locked the manual brakes of my SwiftChair beside my top-tier mahogany desk, pressed my microphone button, and rested my hands on the edge of my lectern as all ninety-nine of my fellow Senators turned toward my seat.
+At one-thirty on Friday afternoon, April 16, 2027, inside the closed marble chamber of the United States Senate during the final hour of deliberations before the roll call, I engaged the drive lock on my SwiftChair beside my top-tier mahogany desk, pressed my microphone button, and rested my hands on the edge of my lectern as all ninety-nine of my fellow Senators turned toward my seat.
 
 "Mr. Chief Justice, and my colleagues of the Senate," I said evenly across the silent chamber. "Two hundred and forty years ago, right down the road from where my brother Nate and I grew up in Virginia, George Mason stood at the Constitutional Convention in Philadelphia and warned that no man who holds the executive power should ever be placed above the reach of the law when he corrupts his office, asking the delegates: *Shall any man be above justice? Above all, shall that man be above it, who can commit the most extensive injustice?*"
 
@@ -5793,7 +5931,7 @@ One by one, as the Reading Clerk called the alphabetical roll, fourteen Republic
 
 "Ms. Prairie."
 
-I kept my hands resting calmly on the armrests of my SwiftChair, my manual wheel brakes locked tight against the blue Senate carpet. Twenty-one years after Brandon Mercer had locked my wheelchair brakes in the pouring November rain outside the Williamsburg train station and told me I was powerless—and thirteen days after rolling into Suite 756 at Timberline Shopping Center on Holland Road and seeing the shrines and unopened crates of *"3-0 UNDEFEATED"* and *"THORNE 2028"* merchandise my own estranged mother had chosen over her children—I looked straight down into the well of the United States Senate.
+I kept my hands resting calmly on the armrests of my SwiftChair, my electromagnetic drive brakes locked tight against the blue Senate carpet. Twenty-one years after Brandon Mercer had switched off my powerchair outside the Williamsburg train station in the pouring November rain and told me I was powerless—and thirteen days after rolling into Suite 756 at Timberline Shopping Center on Holland Road and seeing the shrines and unopened crates of *"3-0 UNDEFEATED"* and *"THORNE 2028"* merchandise my own estranged mother had chosen over her children—I looked straight down into the well of the United States Senate.
 
 "Guilty," I said clearly.
 
@@ -5810,6 +5948,8 @@ The disqualification resolution passed sixty-eight to thirty-two. With that gave
 And because we had convicted and removed Vice President Julian Vance on Thursday afternoon and left the Vice Presidency vacant, the Presidential Succession Act of 1947—Title 3, Section 19 of the United States Code—took immediate constitutional effect.
 
 Fifteen minutes after the Senate doors swung open, Nate and Dad took the elevator down from the Family Gallery and rolled down the marble corridor beside my wheelchair into the Mansfield Room just off the Senate Floor.
+
+![Inside the Mansfield Room (S-207) of the United States Capitol on April 16, 2027, Chief Justice Jonathan Sterling administers the presidential oath of office to former House Speaker Clara Morales while 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests with their father David applauding behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_mansfield_room_swearing_in_president_clara_morales_katie_nate_david.jpg)
 
 Standing beneath the crystal chandelier—having just signed her formal resignation as Speaker and Representative from the House—was Clara Morales, her left hand resting on a bound copy of the Constitution and her family Bible while she raised her right hand before Chief Justice Jonathan Sterling to take the constitutional oath of office as the new President of the United States.
 
