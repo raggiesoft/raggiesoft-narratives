@@ -20215,7 +20215,7 @@ Instead, his family had built him an unbreakable one.
 
 ## Off Precautions & Megan's First Night
 
-### Twelve Weeks Clear & The Eighth Point of the Constellation
+### Part 1: Twelve Weeks Clear & The Eighth Point of the Constellation
 
 **Date:** 2016-01-18 at 09:00 America/New_York
 
@@ -20277,6 +20277,60 @@ Jordan smiled warmly, his eyes clear even at close range as he reached up with b
 "Good," Megan breathed, a radiant, tearful smile breaking across her face as she leaned down and kissed him deeply, wrapping her long arms around his shoulders and drawing him down onto the pillows with her. "Because I have been waiting a very, very long time to love all of you, Jordan."
 
 Later that night, at ten-thirty, when the basement door clicked open and **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** padded quietly back downstairs in their pajamas, there was no more single-partner sternal quarantine. For the first time since September, all eight women of the **Constellation Pact** climbed onto the massive pushed-together mattress island around Jordan—**Megan** curled blissfully against his right side, **Aubrie Jean** against his left, and his entire family tangled together in the warm, unbroken safety of their sanctuary.
+
+### Part 2: Virginia Transit Legislative Day, House Bill 663, & Delegate Katie Prairie in Room 518
+
+**Date:** 2016-02-04 at 12:10 America/New_York
+
+#### February 4, 2016 • 12:10 PM — The Third-Floor Gallery & The Bathroom Police Bill
+
+Two weeks after Dr. Hassan cleared Jordan from Sternal Precautions, on Thursday, February 4, 2016, Jordan rolled his power wheelchair, *S.S. Freedom*, into the accessible third-floor gallery of the Virginia House of Delegates in Richmond alongside Aubrie Jean, Megan, Zoë, and Isabel.
+
+All five of them wore bright blue *RIDE TRANSIT VIRGINIA* lapel stickers pinned to their winter coats. As daily riders of Blue Ridge Transit Route 1 and Route 2 between 414 Geneva Street in Christiansburg and the Commonwealth Polytechnic Institute campus in Blacksburg—along with the hourly Radford Connector across the New River—they had traveled up to the State Capitol with the New River Valley student and citizen transit coalition for Virginia Transit Legislative Day to lobby the General Assembly for state public transit operating and capital dollars.
+
+Seated just down the brass gallery rail from them were several other transit delegations from across the Commonwealth: two college students in Virginia Dominion University jackets—a young man in a blue-upholstered manual wheelchair holding hands with his sister—and, directly to Jordan's left, another group from Christiansburg and CPI whom Jordan and his sisters recognized from the Huckleberry Trail and the Blue Ridge Regional Aquatic Center: Freddie in his matte-black titanium wheelchair, Harper in her neon-purple wheelchair, and their sisters Paige, Jessica, Sarah, and Jenna.
+
+Down on the green carpet of the House Chamber, the Speaker called up House Bill 663—the controversial "anatomical sex" restroom bill patroned by Delegate Martin Cobb of Spotsylvania that sought to impose a fifty-dollar Literary Fund fine on anyone using a restroom in a state building, public school, or public university whose "physical anatomy" did not match the sign on the door.
+
+Around Jordan's wheelchair, the expressions of Aubrie Jean, Megan, Zoë, and Isabel hardened simultaneously. For three months after Jordan's open-heart surgery—and every single time a public building lacked a single-occupancy accessible family restroom—Jordan had relied on Megan, Aubrie Jean, and his sisters to accompany him and guard the door when he transferred out of *S.S. Freedom*. Over in the next bay, sixteen-year-old Harper gripped Freddie's right forearm tightly as Paige and Jessica flanked their chairs; the entire Avery family hated House Bill 663 for the exact same reason.
+
+Then, down on the House Floor, thirty-year-old [Delegate Katie Prairie of Virginia Beach](https://books.raggiesoft.com/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-1-line-18-seated-by-delegate-ronald-villa-on-the-floor-a-question-across-the-chamber)—the only legislator in the chamber who used a power wheelchair full-time, accompanied in the adjacent accessible floor bay by her twin brother Nate—raised her hand to be recognized, held up the two printed pages of House Bill 663, and brought the entire House of Delegates to a dead hush:
+
+"Why on earth should I—or any woman or girl in the Commonwealth of Virginia—have to pull my pants down for a government official or a police officer to prove I have female parts just to use the ladies' room?!"
+
+Up in the third-floor gallery, Aubrie Jean, Megan, and Isabel burst into applause right alongside the VDU students and the Avery sisters before the Speaker pounded his gavel for order. Down on the floor, Delegate Cobb stood frozen and beet-red for four silent seconds before the House Majority Leader hurriedly moved to pass the bill by for the day.
+
+```zoe-log
+ZOË.Systems.Logs.ActionLog: Thread 1 (Self) — Observing Virginia_House_Floor_Session(HB_663_Debate). Speaker: Delegate_Katie_Prairie(HD_85_Virginia_Beach). Statutory_Defect_Exposed: Fourth_Amendment_Enforcement_Impossibility(Line_18_Anatomical_Verification). Patron_Stammer_Duration == 4.02s. Bill_Status == PASSED_BY_FOR_THE_DAY. 02-04-2016 12:24:18
+```
+
+***
+
+#### February 4, 2016 • 2:40 PM — Visiting Delegate Katie Prairie & Nate in Room 518
+
+At two-forty that afternoon—after lobbying their own New River Valley legislators on the third and fourth floors for Blue Ridge Transit articulated bus funding and passing the VDU brother and sister in the blue manual wheelchair as they exited the fifth-floor elevator lobby—Jordan, Aubrie Jean, Megan, Zoë, and Isabel arrived outside Room 518 of the General Assembly Building right alongside Freddie, Harper, Paige, Jessica, Sarah, and Jenna.
+
+None of them lived in the Eighty-Fifth House District in Virginia Beach. Every single one of them, however, rode public transit buses in the New River Valley, used wheelchairs or walked beside someone who did, and wanted to thank the wheelchair-using transit Delegate who had just driven a freight truck through House Bill 663.
+
+Inside Room 518, Delegate Katie Prairie had barely finished picking up her desk phone on the first ring—"Delegate Katie Prairie's office, this is Katie speaking"—to log a constituent call when she and her twin brother Nate rolled their two compact black SwiftChair power wheelchairs out from behind her mahogany desk to welcome the New River Valley riders into the office.
+
+"Four powerchairs and two ultralight manual chairs in one legislative office!" Nate grinned from beside his silver laptop as Jordan guided *S.S. Freedom* into the semi-circle beside Freddie's matte-black titanium chair and Harper's neon-purple chair. "Now this is what the General Assembly Building is supposed to look like on Transit Legislative Day."
+
+"Delegate Prairie," Aubrie Jean said warmly, stepping forward beside Jordan's right armrest, "I grew up in the Emerald Creek neighborhood of Chesapeake right across the city line from your district in Kempsville before I came to Commonwealth Polytechnic Institute in Blacksburg, and my family and I ride Blue Ridge Transit Route 1 and Route 2 every single day between Christiansburg and campus. Watching you ride CVTA buses in Hampton Roads and JRTC buses here in Richmond—and watching what you just did to House Bill 663 on the House Floor—made our entire trip up Interstate 81 worth it."
+
+On his mounted mPad, Jordan tapped out his message and hit Speak:
+
+<aac>Thank you for standing up against House Bill 663 today, Delegate Prairie. When you use a wheelchair and rely on the people you love to help you navigate public buildings, turning public restrooms into fifty-dollar police checkpoints isn't just absurd—it makes everyday life hostile for disabled people and our families.</aac>
+
+"And from a purely mathematical standpoint," Freddie added from *The Rover*, adjusting his glasses as Harper kept her left hand anchored firmly to his right sleeve and Paige rested her palms on his shoulders, "enforcement of Line 18 of House Bill 663 across Commonwealth Polytechnic Institute and the Blue Ridge Regional Aquatic Center would require a one hundred percent violation of Fourth Amendment privacy protections. Your floor question reduced the patron's argument to zero in ninety-five seconds."
+
+"Nate already burned open captions into the ninety-five-second floor video and posted it to my legislative archive at twelve-thirty-five," Katie smiled, looking warmly across the semi-circle of wheelchairs. "And you have my word: as long as I have a microphone and a vote in this Capitol, we are going to keep fighting for every transit bus from Hampton Roads to the New River Valley—and House Bill 663 is not passing this chamber."
+
+Before they rolled back out to the fifth-floor elevators to catch their afternoon charter coach back to Christiansburg and Blacksburg, Zoë, Aubrie Jean, Megan, Isabel, Paige, and Jenna had already pulled out their phones and shared Nate's captioned video link with every student organization, computer science lab, and transit rider group across Commonwealth Polytechnic Institute.
+
+```zoe-log
+ZOË.Systems.Logs.NetworkLog: Thread 1 (Self) — Broadcasting Captioned_Media_Stream(Del_Katie_Prairie_HB663_Floor_Question_95s) to CPI_Blacksburg_Student_Network and NRV_Transit_Coalition. Viral_Propagation_Velocity == EXPONENTIAL. 02-04-2016 14:58:42
+```
 
 ## HEY SAACURC! & The Bear and the Bug
 
@@ -20345,7 +20399,7 @@ via BUSINESS 460 & PEPPER PLAZA
 
 As the articulated bus kneeled its front suspension and deployed its wheelchair ramp onto the **Commonwealth Mall** sidewalk with a smooth pneumatic hiss, both Jordan (in his power chair, *S.S. Freedom*) and the visiting VDU student in the blue manual wheelchair happened to glance toward the two transit buses at the exact same second.
 
-Neither of them knew who the other was—just a CPI student in a power chair catching his Friday afternoon bus home to Christiansburg with his family, and a visiting VDU RHA delegate in a temporary post-surgical manual chair arriving with his sister for `SAACURC`—but as their eyes briefly met across the salted brick sidewalk, they exchanged a warm, knowing nod and a friendly wave in passing. Standing right beside Jordan's chair, **Aubrie Jean**—who had grown up in the **Emerald Creek** area of **Chesapeake** right next door to Norfolk—caught a fleeting, half-familiar sense of *déjà vu* as she glanced at the two VDU delegates in their `Chesapeake Teal` parkas, wondering for half a second if she had ever walked past them years ago in the corridors or bookstore of **Emerald Creek Mall** back home in Hampton Roads, before the moment passed into the crisp mountain air.
+They didn't know each other's names—just a CPI student in a power chair catching his Friday afternoon bus home to Christiansburg with his family, and a visiting VDU RHA delegate in a temporary post-surgical manual chair arriving with his sister for `SAACURC`—but both Jordan and Aubrie Jean immediately recognized the blue manual wheelchair and the VDU jackets from the third-floor House gallery and the fifth-floor elevator lobby outside Delegate Katie Prairie's Room 518 office in Richmond eight days earlier on Virginia Transit Legislative Day. As their eyes met across the salted brick sidewalk, they exchanged a warm, knowing nod and a friendly wave in passing, while **Aubrie Jean**—who had grown up in the **Emerald Creek** area of **Chesapeake** right next door to Norfolk—caught a fleeting, half-familiar sense of *déjà vu* as she glanced at the two VDU delegates, wondering for half a second if she had also walked past them years ago in the corridors or bookstore of **Emerald Creek Mall** back home in Hampton Roads, before the moment passed into the crisp mountain air.
 
 ```
 ZOË.Systems.Logs.ActionLog:
