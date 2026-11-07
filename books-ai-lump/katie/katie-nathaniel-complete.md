@@ -2291,9 +2291,45 @@ Then the driver swung the luggage bay doors shut, climbed back up the steps, and
 
 ### Part 5: Five Buses from Williamsburg — The Ninety-Second Window, Crown Burger, & The Last Route 61 Across the Water
 
-**Date:** 2005-11-12 at 15:55 America/New_York
+**Date:** 2005-11-12 at 15:38 America/New_York
 
 ![Inside the living room of Sea Breeze West Apartment 3 on the rainy Saturday night of November 12, 2005 after Katie's five-bus escape from Williamsburg, twenty-year-old Katie sits wrapped in a dry towel and Nate's navy-blue sleeping bag on the bright green sofa while her twin brother Nate holds both of her hands from his compact SwiftChair power wheelchair]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_rainy_night_katie_five_bus_arrival_sanctuary.jpg)
+
+#### Saturday, November 12, 2005, 3:38 PM — 224 Virginia Avenue, The Canadian Healthcare Lie, & The Only Arms That Felt Safe
+
+Rain lashed against the living room window of the ground-floor apartment at 224 Virginia Avenue near the College of Charles and Anne as Brandon yanked the zipper shut on his overstuffed canvas duffel bag and dropped it onto the carpet beside the front door.
+
+"Once we cross that river into Windsor tomorrow, all the red tape you've been whining about down here disappears," Brandon said, pacing past the front of my SwiftChair while he shoved a printed stack of internet maps into his coat pocket. "Canada has universal healthcare, Katie. Every prescription you take, every physical therapy visit, every wheelchair motor part—all of it is completely free up there. We won't need your father's insurance, and we won't need your brother meddling in our business."
+
+I kept my eyes fixed on my canvas messenger bag resting across my lap, my hands folded tightly over the flap where my birth certificate folder, my wallet with my state identification card, my daily maintenance medication pouch, and my flip phone were tucked inside. Even at twenty years old, I knew enough about how government eligibility rules worked to know that two United States citizens cannot just roll off a tunnel bus in Ontario on a tourist pass and be handed provincial health cards. Brandon hadn't researched a single residency requirement. He was lying to himself—or lying to me—because the truth didn't matter to him once he got me across an international line where I couldn't get back.
+
+Brandon stopped right behind my shoulders and clamped both of his heavy palms down onto the rubber push-handles of my chair, leaning over the top of my backrest so his breath brushed my ear.
+
+"Up there, it's going to be just you and me," Brandon murmured, sliding his hands down from the handles to wrap his arms awkwardly and tightly around my shoulders from behind. "I'm going to be the one taking care of you from now on, Katie. Just me. Nobody else."
+
+I stiffened against the backrest, holding my breath until he let go.
+
+Even after fourteen months in Williamsburg, Brandon still had no idea how to hug me properly. He always grabbed me from above or behind while standing over my wheelchair, pressing down on my collarbone and pinning my arms against my armrests so I felt trapped in a vise. Every time his hands touched my shoulders now, my skin crawled. I didn't want him touching me anymore.
+
+Through the rain-streaked light beside the door, I glanced at the red numbers on my digital clock radio sitting on the end table: three-thirty-eight in the afternoon.
+
+Our northbound ARTS train wasn't scheduled to pull into the Williamsburg station until early evening, yet Brandon insisted on marching over to North Boundary Street two hours early so he could buy the multi-city rail and tunnel-bus vouchers in cash at the counter before the afternoon clerk went off shift.
+
+As he bent down to lace up his boots by the door, a memory flashed sharp and clear behind my eyes. Two weeks earlier, when we had crossed North Boundary Street past the brick train depot, I had seen a white-and-colonial-blue Colonial Triangle Transit Authority bus idling at the north end of the station island with *NEWPORT NEWS* glowing across its front destination sign.
+
+At the time, it had just been a passing detail on a street corner. Now, at three-thirty-eight on a freezing Saturday afternoon with Brandon slinging his duffel bag over his shoulder, that bus sign was the only lifeline left between me and the Canadian border.
+
+There was only one man on this earth I wanted right now, and he was forty-five miles away across the harbor in West Ocean View.
+
+My chest ached so fiercely for Nate that my throat closed up. I didn't want Canada, and I didn't want a boyfriend hovering over my wheelchair pretending to be my savior. I wanted my twin brother. I wanted to be back in a quiet, dark closet with the door shut against the world and a heavy sleeping bag zipped up around the two of us on the carpet, just like we had done in our West Ghent studio apartment whenever the noise and the fear of the outside world got too loud to bear. I wanted to curl up against Nate's chest in the pitch dark, feel his arms wrap around me at my own level without pinning me down, and breathe in the familiar, safe warmth of his cuddles—the only set of arms in the world where my nervous system ever went completely still.
+
+"Come on, unlock your brakes and get your hood up," Brandon ordered, pulling the apartment door open to the cold November wind and grabbing my push-handles again before I could even touch my joystick. "We're walking over to the depot right now so I can get the tickets printed at the window."
+
+As my tires rolled out onto the wet sidewalk of Virginia Avenue toward North Boundary Street, I kept my left hand pressed over my messenger bag and stared straight ahead through the rain.
+
+The second Brandon walked inside that station building to stand in line at the ticket counter, I wasn't waiting for him to come back out. I was going to find that Newport News bus, and I was going home to my brother.
+
+***
 
 #### Saturday, November 12, 2005, 3:55 PM — North Boundary Street, The Windsor Tickets, & The Ninety-Second Window onto the CTTA Grey Line
 
@@ -2455,7 +2491,7 @@ At eight-twenty, soaked to the bone and trembling from head to foot after four h
 
 **Date:** 2005-11-12 at 20:20 America/New_York
 
-![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while nineteen-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
+![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
 
 #### Saturday, November 12, 2005, 8:20 PM — A Sister's Worst Nightmare & Five Buses from Williamsburg
 
@@ -2467,7 +2503,7 @@ Then I heard that voice through the rain—and my heart stopped.
 
 I recognized my fraternal twin sister's voice instantly. Braking and pivoting my compact SwiftChair power wheelchair around the oval wooden coffee table, I rolled straight up to the wide front windows above the bright green three-cushion sofa and parted two slats of the white horizontal mini-blinds to peek out into the courtyard.
 
-There on the concrete walk under the flickering porch light, drenched to the bone in the driving rainstorm, sat nineteen-year-old Katie in her compact SwiftChair.
+There on the concrete walk under the flickering porch light, drenched to the bone in the driving rainstorm, sat twenty-year-old Katie in her compact SwiftChair.
 
 I unlocked and threw open the wooden front door in the corner so fast the latch banged against the drywall. Rolling her wet tires across the threshold into the living room, Katie threw both arms around my neck across our armrests and sobbed against my shoulder.
 
@@ -2595,7 +2631,7 @@ In the sudden, ringing silence of Apartment 3, Katie turned her wheelchair towar
 
 "You're probably going to hate me for saying this right now, Nate, but I'm glad she's leaving you," Katie said softly. "If your girlfriend can't even accept you hugging and comforting your own twin sister, then you don't need her in your life."
 
-All at once, the dam inside my chest broke. Even though Katie was still raw and traumatized from her escape from Williamsburg, I started crying right alongside her as the reality registered in my nineteen-year-old mind: my girlfriend had just dumped me and walked out the door.
+All at once, the dam inside my chest broke. Even though Katie was still raw and traumatized from her escape from Williamsburg, I started crying right alongside her as the reality registered in my twenty-year-old mind: my girlfriend had just dumped me and walked out the door.
 
 Katie immediately rolled flush against my chair, pulled me into a deep, grounding hug across our armrests, and held the back of my head against her shoulder.
 
@@ -2709,25 +2745,43 @@ By late Sunday afternoon—after hours of scrubbing the grab-bar bathtub, the ba
 
 "Yeah—after hauling all those bags to the dumpster, I'm wiped out," I smiled. "Food first."
 
-An hour later, after celebrating with a hot dinner at the shopping center and plugging fresh linen-scented air fresheners into the outlets by the green sofa and the open kitchen, Katie and I braked our compact SwiftChairs facing each other in front of the bright green three-cushion sofa beneath the white horizontal window mini-blinds.
+An hour later, after celebrating with a hot dinner at the shopping center and plugging fresh linen-scented air fresheners into the outlets by the green sofa and the open kitchen, Katie and I braked our compact SwiftChairs side by side in front of the bright green three-cushion sofa beneath the white horizontal window mini-blinds, our footrests angled two inches apart and each of us holding a cold can of ginger ale.
 
-Outside the front windows, the November night was dark and quiet. Inside the warm, lamp-lit living room we had just spent the entire afternoon reclaiming from the filth, Katie looked across the space between our wheelchairs at me—and all of a sudden, fresh tears welled up in her blue eyes and spilled down her cheeks.
+Outside the front windows, the November night was dark and quiet, and the open top sash was letting a crisp salt breeze off the Chesapeake Bay clear the last traces of stale grease out of Apartment 3. My arms ached from hours of scrubbing countertops and baseboards, and dark circles still lingered under Katie's eyes from her four-hour-and-twenty-minute journey across five buses in the rain the night before, yet the apartment was quieter and more peaceful than it had been in fourteen months.
+
+Katie took a slow sip from her ginger ale can, looked around at the clean walls and the wide, unobstructed turning space between the sofa and the kitchen doorway, and then looked over at me. All of a sudden, fresh tears welled up in her blue eyes and spilled down her cheeks.
 
 "Katie?" I asked softly, rolling half a foot closer and reaching across our armrests to take her hand. "What's wrong?"
 
-"I'm just thinking about everything that happened to the two of us over the last fourteen months," Katie wept, gripping my fingers tightly with hers as the tears streamed down her face. "Look at how badly both of us got hurt the first time in our lives we ever let people pull us apart, Nate. Brandon had me trapped up in Williamsburg trying to force me to run away to Canada where I'd never see you or Dad again, and Tiffany and her mother had you trapped right here in the dark, bullying you and treating you like garbage."
+"I'm just thinking about everything that happened to the two of us over the last fourteen months," Katie wept, gripping my fingers tightly with hers as the tears streamed down her face. "Do you remember what everybody kept telling us when our lease in West Ghent was coming up last summer? How twenty-year-olds aren't supposed to just live with their twin forever? How we needed to get out there, date normal people, and have our own separate lives?"
 
-![Inside the living room of Sea Breeze West Apartment 3 in front of the bright green three-cushion sofa and the front windows with white horizontal mini-blinds at night: nineteen-year-old Katie in her mustard-yellow ringer t-shirt and blue jeans sits in her compact black SwiftChair power wheelchair with tears rolling down her cheeks as she holds nineteen-year-old Nate's hand across their wheelchairs and promises her brother that they will never separate ever again]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_green_sofa_never_separate_again_promise.jpg)
+I looked down at the condensation on my ginger ale can, thinking of fourteen months of Tiffany piling dirty pans in the bathtub, blocking my turning radius in the hallway with her junk, and slamming doors whenever Katie's name flashed on my phone.
+
+"Yeah," I said softly. "I remember."
+
+"Look at how badly both of us got hurt the first time in our lives we ever let people pull us apart, Nate," Katie said, her voice steady through her tears in the quiet room. "Brandon used to grab the push-handles on the back of my chair whenever he didn't like how fast I was rolling or who I was talking to. He made me feel like needing a wheelchair and taking daily medicine meant I owed him obedience for putting up with me, and yesterday he tried to drag me to Canada where I'd never see you or Dad again. And Tiffany and her mother had you trapped right here in the dark, bullying you and treating you like garbage. Last night, when I was sitting in the pouring rain at Wards Corner waiting for the Route 1 bus to bring me here, I realized the only people on this earth who have never once made us feel broken are you, me, and Dad."
+
+![Inside the living room of Sea Breeze West Apartment 3 in front of the bright green three-cushion sofa and the front windows with white horizontal mini-blinds at night: twenty-year-old Katie in her mustard-yellow ringer t-shirt and blue jeans sits in her compact black SwiftChair power wheelchair with tears rolling down her cheeks as she holds twenty-year-old Nate's hand across their wheelchairs and promises her brother that they will never separate ever again]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_green_sofa_never_separate_again_promise.jpg)
 
 My throat tightened as I watched the tears glistening on my twin sister's cheeks. All afternoon she had been the fierce, unstoppable one pushing us through bag after bag of rotting trash, and only now that the apartment was finally clean and quiet did the full weight of what both of us had survived come crashing down on her heart.
 
 "I'm so sorry I didn't listen to you in the courtyard last September, Katie," I whispered, my own eyes stinging as I squeezed her hand. "And I'm so sorry I wasn't up there in Williamsburg to protect you from Brandon."
 
-"We're together now—that's what matters," Katie cried softly, looking straight into my eyes as she held my hand like an unbreakable vow between our two chairs. "I promise you, Nate, right here and right now: we will never separate ever again. No boyfriend, no girlfriend, no distance, nothing. From now on, wherever we go, we go together."
+"We're together now—that's what matters," Katie cried softly, looking straight into my eyes as she held my hand like an unbreakable vow between our two chairs. "I'm done letting outsiders into our lives, Nate. I don't ever want a boyfriend or a husband, and I don't ever want another person moving into our home and trying to split us up or run our lives. Aside from Dad, nobody else gets inside our walls ever again. When you asked me this morning if I wanted to move in here and live with you, I didn't mean just until our next lease is up. I promise you right here and right now: we will never separate ever again."
 
-"Never again," I promised her back, leaning across our armrests to hold her until her trembling eased.
+"Neither did I—and never again," I promised her back, my throat tightening as I squeezed her fingers. "Dad is the only other person who ever gets a key to our front door. When it comes to our lives, it's you and me from here on out, Katie. Fifty-fifty on every lease, every house we ever buy, every line of code we write, and every bus we ride—for the rest of our lives."
 
-After taking hot showers in our freshly scrubbed grab-bar bathtub and changing into soft, comfortable night shirts and sleep shorts, Katie and I rolled out of the bathroom into the doorless back bedroom and stopped side by side in front of the queen bed.
+Katie smiled through her tears, the tension of the last fourteen months finally melting out of her shoulders as she tapped her ginger ale can gently against mine.
+
+"Just you and me, fifty-fifty for life—plus Dad," Katie whispered. "Deal."
+
+When we rolled down the hallway into our freshly scrubbed bathroom to wash off six hours of heavy-duty cleaning, there wasn't a shred of awkwardness or a need to look away between the two of us. We had come into the world at the same hour, lost the use of our legs on the exact same Friday afternoon in eleventh grade at Northwood High School, and spent years helping each other through transfers and muscle spasms when nobody else understood how our bodies worked. Neither of us wanted an outside home-health aide or an able-bodied partner standing over us ever again, and looking at each other had never felt any different than looking in a mirror.
+
+While I leaned forward from my SwiftChair to turn the shower valve all the way to hot until warm steam billowed across the clean bathroom tile, we peeled off our sweat-damp shirts, jeans, and underclothes right beside our chairs. I transferred onto the wide padded bath bench beneath the steel grab bars first, then reached out both hands to brace Katie's hips and ribs as she slid across from her seat cushion right against my side under the steaming spray.
+
+As the hot water poured over both of our shoulders, Katie let out a long, relieved sigh and leaned her weight sideways against my bare shoulder while I held her steady with one arm around her waist and used the handheld showerhead with the other to warm our tired legs and feet. When Brandon had touched her in Williamsburg, he had grabbed her from above over her wheelchair backrest like a warden pinning a prisoner down; sitting pressed side by side on the transfer bench washing the last grime of the weekend off each other's skin while Katie lathered my back and I washed her hair, neither of us had to hide an inch of ourselves.
+
+Twenty minutes later, dried off with clean bath towels while the bathroom heater ticked warmly behind us, we rolled out of the bathroom into the doorless back bedroom and stopped side by side in front of the queen bed.
 
 We took one look at that caving-in mattress in the far corner—the bed where Tiffany and I had slept during the worst year of my life—and both of us felt the exact same wave of revulsion at the exact same second.
 
@@ -2749,13 +2803,15 @@ The moment she said it, my whole chest relaxed. Back when we lived together in A
 
 Rolling back out to the bright green sofa in the living room, we gathered up the warm navy-blue sleeping bag and the two pillows Katie had used the night before, carried them across our laps down the carpeted hallway, and spread the sleeping bag and pillows neatly across the vacuumed carpet on the floor of the hallway closet.
 
-When it was finally bedtime, Katie and I parked our compact SwiftChairs side by side just outside the closet threshold, transferred down onto the soft carpet in our night shirts and sleep shorts, and climbed into the shared sleeping bag together. Reaching up from inside our warm fabric cocoon, I pulled the two white bi-folding closet doors completely closed until they latched, and Katie reached up to click off the overhead closet light.
+When we transferred down out of our compact SwiftChairs onto the soft carpet at the closet threshold, we didn't bother putting pajama shirts or shorts back on. Because full-time wheelchair users with lower-extremity neuromuscular paralysis have impaired circulation below the waist, tight waistbands and tangled fabric only trapped the chill against our legs—and the fastest, most natural way to keep our core temperature steady and calm our muscle spasms all night was sharing our body heat skin-to-skin inside the sleeping bag.
+
+Climbing into the single navy-blue sleeping bag together and zipping the quilted fabric up to our shoulders, I reached up to pull the two white bi-folding closet doors completely closed until they latched, and Katie reached up to click off the overhead closet light.
 
 Instant, velvet darkness wrapped around us from wall to wall.
 
 "I missed sleeping right beside my twin sister," I whispered inside the snug, pitch-dark quiet of the enclosed closet as a single tear of relief slipped from the corner of my eye onto the pillow.
 
-Turning on our sides facing each other inside the shared sleeping bag, we cuddled up close in the dark, the enclosed walls of the closet and the steady, deep-pressure warmth of our arms around each other calming every last tremor of fight-or-flight anxiety in our autistic minds.
+Turning on our sides facing each other inside the shared sleeping bag, Katie curled her bare front tight against my chest and tucked her cool feet between my shins while I wrapped both arms securely around her bare back—holding her flush against my heartbeat at the exact same level, where nobody was hovering over a chair or caging either of us in. Within minutes, our shared warmth soaked into our legs, calming every last tremor of fight-or-flight anxiety in our autistic minds.
 
 "You're still shaken up from everything today, aren't you?" Katie asked comfortingly, resting a gentle hand against my cheek as I laid my head against her shoulder.
 
@@ -2969,17 +3025,117 @@ Looking up as Dad stepped back inside from tying down Tiffany's old landfill-bou
 
 When the front door clicked shut behind Dad and the quiet hum of our freshly formatted Quantum OS XN Pro desktop filled the clean, linen-scented living room of Apartment 3, Katie wrapped both arms around my shoulders on the green sofa, and I knew without a shadow of a doubt that the year of hell was over—and that my twin sister and I were never letting anyone tear us apart again.
 
-### Part 3: Thanksgiving Dinner at Dad's House, The Black Friday Closet Project, & The Secret on the Closet Floor
+### Part 3: The Goyeau Street Tunnel Bus, The Federal Courthouse on Granby Street, & Protected Non-Traveling Complainant
+
+**Date:** 2005-11-16 at 14:00 America/New_York
+
+#### Wednesday, November 16, 2005, 2:00 PM — The Federal Courthouse on Granby Street & Special Agent Morales
+
+By Wednesday afternoon, November 16, 2005, Katie's wooden dresser, her television and DVD player, her digital clock radio, and her laptop were all settled into their permanent places inside Apartment 3 at 233 West Ocean View Avenue, and forty-eight hours of uninterrupted sleep inside our shared sleeping bag in the dark hallway closet and warm meals at our scrubbed kitchen table had finally steadied her nervous system enough to face a badge.
+
+At two o'clock that afternoon, Dad met Katie and me outside the brick entrance of the Walter E. Hoffman United States Courthouse and federal building on Granby Street in downtown Norfolk—right off CVTA Route 1, just a twenty-minute ride south from Duffy's Lane. Because Brandon had attempted to force a disabled woman across state and international borders using interstate rail and tunnel-bus tickets after months of coercive isolation in Williamsburg, a detective from the Williamsburg Police Department and an investigator from the United States Attorney's Office for the Eastern District of Virginia had arranged to take Katie's statement together in a quiet ground-floor conference room so she wouldn't have to travel back up the Peninsula.
+
+Katie sat in her compact SwiftChair at the head of the long oak table with my chair locked right beside her right armrest and Dad sitting at her left shoulder. Spread out on the blotter in front of the federal investigator—Special Agent Morales—sat Katie's flip phone containing twenty-four saved voicemails from Brandon between Saturday afternoon and Sunday morning, along with the crumpled paper CVTA transfer slips from her five-bus escape through the rain.
+
+"Take your time, Miss Prairie," Agent Morales said gently, clicking his pen open above his legal pad while the Williamsburg detective turned on a small digital tape recorder. "Start with Friday night and Saturday afternoon in Williamsburg. You mentioned on the phone that Mr. Mercer was trying to take you to Canada against your will, and that you were afraid you might have broken a law by running away from him at the train station."
+
+Katie reached sideways and held onto my hand on the armrest between our chairs, drawing a steady breath before she spoke.
+
+"He told me for weeks that my dad and my brother didn't really care about me, and on Friday night he printed out maps for Windsor, Ontario," Katie said, her voice quiet at first but growing clearer as she went through the exact timeline. "He demanded my birth certificate folder and my state identification card, and when we got to the Williamsburg train station on North Boundary Street on Saturday afternoon in the rain, he locked the manual brakes on the back of my wheelchair under the overhang and told me not to move while he went inside to buy two one-way train and tunnel-bus tickets to Canada. I didn't want to go to Canada, and I didn't want to be near him anymore. When I saw the Colonial Triangle Transit Authority Grey Line bus pull in with Newport News on the sign, I unlocked my own brakes, rolled onto the bus, and took five buses all the way home to my brother's apartment in West Ocean View."
+
+"And normally, in a case where the victim escapes at the station before boarding the train," the Williamsburg detective noted, leaning forward across the table, "the suspect claims it was all a misunderstanding—that he never actually bought tickets to leave the country, or that he was just planning a short weekend trip."
+
+"Wait until you hear the last voicemail he left on her phone at eleven-thirty Saturday night from Washington before his train headed northwest toward Pittsburgh and Toledo," Dad said grimly, tapping the side of Katie's flip phone on the table. "After he spent two hours marching back to the Virginia Avenue apartment in the rain thinking she was hiding there, he realized she was gone for good and that we would be coming to the police. Rather than stay in Virginia to face the law or lose the cash he had spent at the ticket window, he boarded the northbound evening train alone—furious that she left him holding two non-refundable tickets to Windsor, and swearing he was going across the Canadian border without her so American law couldn't touch him."
+
+Agent Morales raised an eyebrow and pulled his heavy black agency laptop closer across the conference table.
+
+"He actually got on that train to Michigan and tried to cross the tunnel into Ontario?" Morales asked, his fingers already flying across the keyboard to log into the federal Treasury Enforcement Communications System. "Let's see if a Brandon Mercer crossed the Detroit-Windsor border on Sunday."
+
+For ten seconds, the only sound in the quiet conference room was the click of keys and the soft whir of the laptop cooling fan.
+
+Then Agent Morales stopped typing, stared at his screen, and let out a low, astonished whistle.
+
+"Well, I'll be damned," Morales said, turning the laptop screen forty-five degrees so Dad, Katie, and I could all see it from our side of the table. "Look at this timestamp from Sunday afternoon, November 13, at four-fifteen."
+
+***
+
+#### The Goyeau Street Inspection Plaza, The Caged CBSA Van, & Stranded in Detroit With Thirty-Four Dollars
+
+Katie leaned forward in her SwiftChair, her blue eyes widening as she read the federal border readout on the monitor.
+
+"United States Customs and Border Protection, Detroit-Windsor Tunnel Plaza, East Jefferson Avenue and Randolph Street," I read aloud beside her, tracing the lines on the screen with my eyes. "Subject Brandon Mercer returned in custody of Canada Border Services Agency enforcement van following formal refusal of entry at Windsor Goyeau Street terminal under IRPA Sections 20 and 39."
+
+"Wait—Canada didn't even let him in?!" Katie gasped, her hand tightening around mine.
+
+"Not even thirty minutes inside the building before they threw him out in disgrace," Agent Morales said, scrolling down through the scanned attachments uploaded by the Detroit CBP supervisor on Sunday evening. "Look at the narrative filed by the Canadian Border Services officers at the Goyeau Street and Wyandotte Street East plaza, and the secondary customs report from our officers on the Detroit side. Mr. Mercer walked off the Windsor Transit Tunnel Bus on Sunday afternoon carrying a fifty-pound canvas duffel bag after thirty hours without sleep. According to the primary officer at Podium Two, he stood out twenty feet away—sweating in the November chill, jaw clenched, eyes darting toward the ceiling cameras and the exit doors leading out to Park Street East, and his left hand hovering defensively over the yellow ARTS multi-city ticket jacket sticking out of his wet coat pocket."
+
+Agent Morales clicked open the scanned exhibit pages one by one as the three of us leaned in to read.
+
+"When the Canadian officer asked where he was staying in Ontario and when he was returning to Virginia, Mr. Mercer admitted he had no hotel reservation because he had planned to use your disability income once you crossed the river, and he snapped at the officer that he was going to walk over toward Wyandotte Street and catch a train toward Toronto," Morales continued, shaking his head at the screen. "Then the officer made him hand over the yellow rail and bus ticket jacket—and saw that he had paid cash in Williamsburg the afternoon before for two one-way tickets to Ontario, including a printed ADA wheelchair bay reservation for Katie Prairie, with zero return ticket to the United States. When the officer asked why he was traveling alone on a two-person wheelchair itinerary and why he was so nervous, Mr. Mercer lost his temper at the podium, barked that his girlfriend had bailed on him at the train station in Virginia, and told a Canadian border officer that as an American citizen with a birth certificate he had a legal right to cross the border."
+
+Beside me, Dad let out a dry, disbelieving laugh. "He told a foreign border agent he had a right to enter their country?"
+
+"Fastest way in North America to get a coded yellow referral slip slapped onto your file," Agent Morales said. "Officer Vance walked him straight into Secondary Inspection on Goyeau Street, where two Canadian officers unpacked his fifty-pound duffel bag on the steel table. Underneath twenty days of winter clothes, they found his original birth certificate, his Social Security card, his high school diploma folder, three pages of printed internet notes about relocating permanently to Ontario and signing up for provincial healthcare and social assistance, a wallet with thirty-four dollars in crumpled American bills, and a Williamsburg train station ATM receipt showing a remaining checking balance of four dollars and twelve cents."
+
+Right there on the federal computer monitor popped up the high-resolution scan of the yellow ARTS ticket jacket purchased at 3:56 PM on Saturday, November 12—complete with the unused companion voucher reading *PRAIRIE, K. — ADA WHEELCHAIR SPACE RESERVED*—followed by the stamped Canadian refusal packet citing Sections 20 and 39 of Canada's Immigration and Refugee Protection Act for attempting to reside permanently without legal status and financial inadmissibility.
+
+"Normally, when Transit Windsor brings an inadmissible passenger across the tunnel, Canada puts them back on the public four-fifteen tunnel bus under a Direction to Return form," Agent Morales explained, scrolling to the bottom of the Canadian superintendent's report. "Except when the Shift Superintendent told Mr. Mercer his name, photograph, and fingerprints were permanently flagged in the Canadian enforcement database and that they were sending him back to Detroit with thirty-four dollars, Mr. Mercer lunged halfway across the steel counter shouting that everything he owned was in that bag. So the superintendent canceled the bus turnaround, locked him in the caged rear compartment of a marked CBSA enforcement van, drove him back under the Detroit River through the tunnel, and walked him straight through the steel security door of the United States Customs and Border Protection compound at East Jefferson Avenue and Randolph Street in downtown Detroit."
+
+"And our customs officers searched him all over again?" I asked.
+
+"Under Title 19, Section 1582 of the United States Code, every person returned from a foreign port of entry undergoes a mandatory warrantless border examination," Agent Morales nodded. "Because you were still decompressing here in Norfolk on Sunday afternoon and hadn't filed your police report yet, no Virginia warrant popped up in NCIC when Detroit CBP ran his ID. So our Detroit supervisor did the next best thing: he scanned the entire Windsor refusal file, the Ontario relocation printouts, the Williamsburg ATM receipt, and your unused wheelchair ticket stub directly into the federal Treasury Enforcement Communications System, creating a permanent, time-stamped federal evidentiary record—and then at five-thirty Sunday evening, they buzzed the steel door open and dumped him out onto the sidewalk of East Jefferson Avenue in the thirty-eight-degree Detroit rain."
+
+Dad stared at the screen, his jaw dropping open before a slow, fierce grin broke across his face.
+
+"He handed the federal government the entire prosecution exhibit himself," Dad said in amazement. "He rode six hundred miles to the Canadian border with Katie's wheelchair ticket in his pocket and confessed to federal border officers on both sides of the river!"
+
+"In twenty years of federal law enforcement, I don't think I've ever seen a suspect package an interstate coercion and attempted abduction case against himself this neatly," Agent Morales agreed, printing out the twelve-page border encounter packet on the portable printer beside his briefcase. "When Detroit CBP released him off the federal plaza Sunday night with thirty-four dollars in his pocket, he didn't even have enough cash for a bus ticket back to Virginia. Two nights ago, a Detroit Police patrol unit ran his ID during a routine check outside a men's homeless shelter on Cass Avenue after he got into an argument in the intake line over his duffel bag. With this federal border file corroborating the Williamsburg charges, we'll have a felony fugitive warrant in the NCIC computer before five o'clock today, and the United States Marshals Service task force in Detroit will pick him up right at that shelter's doors tonight."
+
+***
+
+#### "Protected Non-Traveling Complainant (V-W, Zero Infraction)"
+
+Agent Morales slid the freshly printed twelve-page federal packet across the oak table so Katie could see the summary page.
+
+"He corroborated every single word of your statement to two separate border agencies, Miss Prairie," Morales added kindly, pointing to the bottom box of the printout. "And just so your mind is completely at ease—look at the bottom line of the CBP record. You are listed strictly as the protected non-traveling complainant."
+
+Katie blinked at the bottom line of the printed federal report, her fingers tightening around my hand on the armrest as her blue eyes locked onto that four-word phrase. For someone whose autistic mind ran on strict, literal rules, an unfamiliar bureaucratic label in a federal computer wasn't comforting until every single word was defined down to the millimeter.
+
+"Wait—what does protected non-traveling complainant mean?" Katie asked, her voice rising slightly as she looked straight across the oak table at Special Agent Morales. "Does having my name in the United States Customs and Border Protection database and the Canadian border computer mean I'm flagged? Did I break a railroad or immigration law because he put my name on a ticket to Windsor that I didn't use? If Nate and I ever want to get passports and take a train into Canada someday on our own, are the border guards going to stop me?"
+
+Agent Morales didn't brush her question off or give her a vague wave of his hand. Seeing how rigidly she was staring at the code box on the printout, he turned the paper around, laid his pen directly underneath the line item, and broke the exact federal terminology down piece by piece.
+
+"Let's read each word literally, Miss Prairie, because in federal law, every word on this form has an exact statutory definition," Agent Morales said calmly. "First, non-traveling means the United States and Canadian governments have officially verified that you never got on that train, never left the Commonwealth of Virginia, and never attempted to cross the international border. Because you escaped at the Williamsburg station at three-fifty-seven on Saturday afternoon, the border computers show you were six hundred miles away when Mr. Mercer showed up at the Goyeau Street plaza in Windsor with a ticket bearing your name."
+
+Katie nodded once, her shoulders dropping half an inch, though her eyes stayed glued to the line. "And complainant?"
+
+"Complainant is the legal word for the victim and witness who brings the criminal complaint against the offender," the Williamsburg detective explained gently from across the table. "When someone buys a ticket in your name to abduct or coerce you across state lines, your name has to appear in the evidence file as the person he targeted—the exact same way a bank's name appears in a bank robbery file. Nobody arrests the bank for getting robbed, Miss Prairie."
+
+"And the word protected is the most important part of all," Agent Morales added, tapping the two-letter status code printed beside her name: *V-W, Zero Infraction*. "When Detroit CBP and the Canada Border Services Agency entered your name under a Protected Victim-Witness firewall, they attached a permanent legal shield to your identity in both countries' databases. That shield does two things. First, it certifies that you broke zero United States laws, zero Canadian immigration laws, and zero rail tariff rules."
+
+"None at all?" Katie asked quietly, double-checking the rule one more time.
+
+"Zero," Morales said firmly. "Not a felony, not a misdemeanor, not even a civil administrative warning. And second, that shield means that if you and your brother ever apply for passports and take a train or a bus across the Canadian border ten days from now or twenty years from now, the border officer scanning your passport will see a completely clean traveler profile. In fact, the only reason that protected note exists in the system is so that if Brandon Mercer ever tries to use your name at a border crossing again, the computer alerts the officers to protect you and detain him on sight."
+
+Beside me, Katie stared down at the printed code—*V-W, Zero Infraction*—reading it three times until the literal wording clicked permanently into place inside her head.
+
+She let out a long, slow breath through her nose, looked over at me with her eyes finally clear, and gave my hand a single firm squeeze.
+
+"Non-traveling victim-witness," Katie repeated softly to herself, satisfied at last. "Zero infraction. I didn't break a single rule, Nate."
+
+"Not a single one, sis," I told her, squeezing her fingers back as Dad rested his warm hand on her shoulder. "The only person who broke the law is sitting in a shelter on Cass Avenue in Detroit waiting for the United States Marshals to put him in handcuffs."
+
+### Part 4: Thanksgiving Dinner at Dad's House, The Black Friday Closet Project, & The Secret on the Closet Floor
 
 **Date:** 2005-11-24 at 13:00 America/New_York
 
-![Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
+![Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
 
 #### Thursday, November 24, 2005, 1:00 PM — Thanksgiving Dinner With Dad in Virginia Beach
 
 "Smell that roasting bird!" Dad smiled from the stove of his single-story brick ranch off Military Highway and Indian River Road as Katie and I rolled our compact SwiftChairs down the hallway into the warm, cinnamon-and-sage-scented kitchen.
 
-It was Thursday afternoon, November 24, 2005—Thanksgiving Day—just ten days after Katie had moved into Sea Breeze West Apartment 3 with me and we had reclaimed our lives from fourteen months of isolation. Earlier that morning, Dad had driven up to West Ocean View in his pickup truck with the folding aluminum ramps to bring both of us down to his house in Virginia Beach for the holiday, and for the first time in over a year, there were no jealous partners, no screaming ultimatums, and no walking on eggshells—just our forty-seven-year-old father and his nineteen-year-old twins under one roof again.
+It was Thursday afternoon, November 24, 2005—Thanksgiving Day—just ten days after Katie had moved into Sea Breeze West Apartment 3 with me and we had reclaimed our lives from fourteen months of isolation. Earlier that morning, Dad had driven up to West Ocean View in his pickup truck with the folding aluminum ramps to bring both of us down to his house in Virginia Beach for the holiday, and for the first time in over a year, there were no jealous partners, no screaming ultimatums, and no walking on eggshells—just our forty-seven-year-old father and his twenty-year-old twins under one roof again.
 
 "Can we help mash the potatoes or set the table, Dad?" Katie asked, braking her wheelchair beside the kitchen counter and washing her hands at the sink.
 
@@ -3031,7 +3187,7 @@ Katie and I looked at each other across our wheelchair armrests, and then Katie 
 
 "Every single night since Sunday the thirteenth—just like we used to do in our square closet back on Greenway Court," I confessed, looking down at the carpeted closet floor. "Even when we had a regular bed in the main room, we barely ever used it because we always felt so much safer in the closet. When we transfer into our single shared sleeping bag together and pull the two bi-fold doors almost all the way shut, it's completely dark and snug in here, Dad. The confined space makes us feel secure, and as long as we're cuddled up holding each other inside the sleeping bag, neither of us has nightmares about Williamsburg or about Tiffany."
 
-Dad stayed crouched beside the closet threshold for a long moment, swallowing hard as he looked at the two pillows pressed side by side in the narrow dark of the closet. I could see how much it broke his heart that his nineteen-year-old son and daughter had been hurt so badly—and left with such a broken, caving-in reminder of Tiffany in their bedroom—that they had retreated into a hallway closet every night just to feel clean and safe in each other's arms.
+Dad stayed crouched beside the closet threshold for a long moment, swallowing hard as he looked at the two pillows pressed side by side in the narrow dark of the closet. I could see how much it broke his heart that his twenty-year-old son and daughter had been hurt so badly—and left with such a broken, caving-in reminder of Tiffany in their bedroom—that they had retreated into a hallway closet every night just to feel clean and safe in each other's arms.
 
 When Dad stood back up and pulled his yellow tape measure from his belt clip, his voice was warm and steady.
 
@@ -3043,7 +3199,7 @@ Both Katie and I looked up in surprise. "You don't think it's weird that we're s
 
 Pulling out his carpenter's pencil and level, Dad marked the vertical mounting tracks on the kitchen half of the closet wall starting twenty-eight inches above the carpet—leaving the entire bottom level of the closet completely open from end to end so that even with four tiers of white wire pantry shelving mounted on the half closest to the kitchen, and a sturdy coat rod mounted high on the half closest to the bedroom for our winter jackets, the carpeted floor beneath remained a 100-percent unobstructed, full-length sleeping-bag berth for the two of us.
 
-![Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
+![Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
 
 Across Black Friday afternoon and Saturday morning, the three of us worked together in the hallway like a well-oiled crew. From our wheelchairs, Katie and I held the spirit level against the drywall, handed Dad the steel drywall anchors, screws, and wire shelf brackets, and tested the height clearances while Dad drilled the vertical standards into the studs, snapped the four white wire pantry shelves into place on the kitchen side, and anchored the coat rod and upper shelf on the bedroom side.
 
@@ -3053,7 +3209,7 @@ By Saturday afternoon, when we rolled the boxes of toasted oat cereal, the blue 
 
 "You're welcome, sweetheart," Dad said, kissing the top of Katie's head and ruffling my hair as he glanced one more time toward the caving-in queen bed in the back bedroom with a quiet, determined look in his eyes. "And I promise you two—you aren't going to be stuck with that caving-in mattress forever. As soon as I get things lined up, I'm going to make sure the two of you have a real, brand-new queen bed of your own to share."
 
-### Part 4: The Seattle Transit Blog Inspiration & Quietly Launching Ideas for Coastal Virginia Transit
+### Part 5: The Seattle Transit Blog Inspiration & Quietly Launching Ideas for Coastal Virginia Transit
 
 **Date:** 2005-11-27 at 19:30 America/New_York
 
@@ -3071,7 +3227,7 @@ It was Sunday evening of Thanksgiving weekend—the night after Dad had finished
 
 Katie leaned closer to the monitor, reading silently beside me as I clicked from one post to the next.
 
-On the screen, the writers at the Seattle Transit Blog were dissecting TAPS King County and Pierce County bus corridors with the exact kind of logical, map-by-map precision that made both of our autistic brains light up. One post broke down how unifying five separate county and municipal bus systems under TAPS—complete with a single regional smart card called the Cascade Card and coordinated low-floor CNG bus fleets—eliminated the penalty for riders crossing city and county lines around the water of Puget Sound. Another post mapped out how the planned TAPS Central Corridor light-rail spine from downtown Seattle toward Tukwila and the airport would only succeed if local feeder buses were redesigned into high-frequency, clock-face transfer pulses rather than leaving riders stranded at suburban hubs after six o'clock in the evening.
+On the screen, the writers at the Seattle Transit Blog were dissecting TAPS King County and Pierce County bus corridors with the exact kind of logical, map-by-map precision that made both of our autistic brains light up. One post broke down how unifying five separate county and municipal bus systems under TAPS—complete with a single regional smart card called the Cascade Card and coordinated low-floor CNG bus fleets—eliminated the penalty for riders crossing city and county lines around the water of Puget Sound. Another post mapped out how the planned TAPS Central Corridor light-rail spine from downtown Seattle toward Tukkwila and the airport would only succeed if local feeder buses were redesigned into high-frequency, clock-face transfer pulses rather than leaving riders stranded at suburban hubs after six o'clock in the evening.
 
 Better yet, down in the comment threads below every post, dozens of daily Puget Sound riders—alongside local transit operators, mechanics, and even city planners—were trading timetable math, pointing out broken wheelchair lifts or missing sidewalk curb cuts, and debating which corridors needed fifteen-minute headways next.
 
@@ -3109,7 +3265,7 @@ We looked down at the teal-and-navy logo printed across the cover of the Coastal
 
 A green confirmation line appeared on the screen immediately: the address was available.
 
-Side by side at our repurposed dining-table desk, Katie and I clicked through the registration screen, created our shared administrator account under both of our first names—Katie and Nate, two nineteen-year-old college students and daily wheelchair transit riders living in Norfolk and commuting into Virginia Beach—and immediately opened the raw HTML template editor.
+Side by side at our repurposed dining-table desk, Katie and I clicked through the registration screen, created our shared administrator account under both of our first names—Katie and Nate, two twenty-year-old college students and daily wheelchair transit riders living in Norfolk and commuting into Virginia Beach—and immediately opened the raw HTML template editor.
 
 For the next hour, the only sounds in Apartment 3 were the rhythmic click of our keyboards, the gentle hum of the desktop tower's cooling fan, and the occasional fizz of ginger ale as the two of us stripped out BlogSphere's cluttered stock layout and hand-coded our own clean, two-column HTML and style-sheet template from scratch.
 
@@ -3131,7 +3287,7 @@ Across the top of the screen ran our clean navy-and-teal masthead:
 
 We didn't issue any grand manifesto or pretend to be transportation lobbyists. We simply opened the New Post editor on BlogSphere and started jotting down the exact, practical realities we lived every time our wheels touched the pavement at a Hampton Roads bus stop—paired with the common-sense improvements we wished CVTA and our local city councils would build.
 
-For our opening post, Katie rolled her chair right up to the center keyboard and typed out the story of what it actually took to ride public transit from the Peninsula to Southside Norfolk on a Saturday afternoon and evening—without naming Brandon or the personal nightmare she had been escaping, focusing entirely on the five-bus regional gauntlet from Williamsburg down through Lackey on Route 116, down Warwick Boulevard on Route 107 to Newport News Transit Center, across the Hampton Roads Bridge-Tunnel on Route 61 to Wards Corner, and north on Route 1 to West Ocean View.
+For our opening post, Katie rolled her chair right up to the center keyboard and typed out the story of what it actually took to ride public transit from the Peninsula to Southside Norfolk on a Saturday afternoon and evening—without naming Brandon or the personal nightmare she had been escaping, focusing entirely on the five-bus regional gauntlet from Williamsburg down through Lee Hall on Route 116, down Warwick Boulevard on Route 107 to Newport News Transit Center, across the Hampton Roads Bridge-Tunnel on Route 61 to Wards Corner, and north on Route 1 to West Ocean View.
 
 > Sunday, November 27, 2005 — Welcome to Ideas for Coastal Virginia Transit: Why Does Our Cross-Harbor Lifeline Shut Down at 6:45 PM?<br><br>
 > Hampton Roads is a metropolitan region of more than one and a half million people divided by water, yet if you rely on a wheelchair and public transit to cross between the Peninsula and Southside Norfolk on a Saturday evening, the entire regional grid hangs by a single thread: the last southbound CVTA Route 61 bus leaves Newport News Transit Center at 6:45 PM (and Hampton Transit Center at 6:57 PM), and isn't even a full route into Virginia Beach—it's an Expressways trip that terminates in Downtown Norfolk at 7:34 PM. Miss that 6:45 PM connection because an upstream bus on Warwick Boulevard runs late, and you are stranded on the wrong side of the water until Sunday morning.<br><br>
@@ -3151,7 +3307,7 @@ Together, we formatted our second entry—laying out our wish list for late-even
 
 When I clicked Publish on the second post and reloaded ideasforcvta.blogsphere.com, both articles sat cleanly on the screen beneath our navy-and-teal header, ready for OmniSearch's web crawlers to index overnight.
 
-Right then, of course, the visitor counter at the bottom of our sidebar read zero. Nobody in Norfolk or Virginia Beach knew our blog existed yet. We were just two nineteen-year-old twins in power wheelchairs sitting side by side in a small West Ocean View apartment at nine o'clock on a Sunday night.
+Right then, of course, the visitor counter at the bottom of our sidebar read zero. Nobody in Norfolk or Virginia Beach knew our blog existed yet. We were just two twenty-year-old twins in power wheelchairs sitting side by side in a small West Ocean View apartment at nine o'clock on a Sunday night.
 
 Katie reached across her armrest, laced her fingers through mine, and rested her head gently against my shoulder as we looked at the glowing CRT screen together.
 
@@ -3175,13 +3331,13 @@ I followed my sister's gaze across the polished laminate table where CVTA's seni
 
 Sure enough, clipped inside the deputy planning director's black binder—and photocopied into three separate packets along the commissioners' dais—were six pages printed directly from Ideas for Coastal Virginia Transit, complete with the coastal-navy header and the custom PHP route-comparison tables I had coded the week before.
 
-Two and a half years had passed since that quiet Sunday night in November 2005 when Katie and I had first launched our blog on BlogSphere from our dining-table desk at Sea Breeze West Apartment 3. In that time, our lives had moved forward together step by step. We had ridden CVTA Route 1 and Route 29 side by side through rain, summer heat, and winter wind to finish our associate degrees at the Community College of Hampton Roads. When our West Ocean View lease ended in March 2007 and Dad took his new systems engineering position up in Tysons Corner, the three of us had moved our permanent family home base up to Dad's two-story brick house on Sunset Drive in Alexandria while Katie and I spent twelve intense months living in the accessible dorms at Roosevelt Rehabilitation Center in Fishersville, completing the Web Applications Developer program and mastering PHP and relational database architecture. And just last month, in March 2008, after graduating from Roosevelt Rehabilitation Center at age twenty-two, Katie and I had returned home to Hampton Roads, pooled our earnings, and bought our own accessible single-story home fifty-fifty together in the Kempsville section of Virginia Beach.
+Two and a half years had passed since that quiet Sunday night in November 2005 when Katie and I had first launched our blog on BlogSphere from our dining-table desk at Sea Breeze West Apartment 3. In that time, our lives had moved forward together step by step. We had ridden CVTA Route 1 and Route 29 side by side through rain, summer heat, and winter wind to finish our associate degrees at the Community College of Hampton Roads. When our West Ocean View lease ended in March 2007 and Dad took his new systems engineering position up in Tysons Corner, the three of us had moved our permanent family home base up to Dad's two-story brick house on Sunset Drive in Alexandria while Katie and I spent twelve intense months living in the accessible dorms at Roosevelt Rehabilitation Center in Fishersville, completing the Web Applications Developer program and mastering PHP and relational database architecture. And just last month, in March 2008, after graduating from Roosevelt Rehabilitation Center at age twenty-two, Katie and I had returned home to Hampton Roads, pooled our software earnings, and bought our own accessible single-story brick ranch at 741 Lord Nelson Drive in the Kempsville section of Virginia Beach strictly fifty-fifty—with both of our names on the deed, only Dad holding a spare key to our front door, our master walk-in closet outfitted as our enclosed sleeping sanctuary, and the narrow builder-grade fiberglass tub in our master bathroom ripped out and replaced with a custom-built, extra-wide roll-up hydrotherapy soaking tub for two with a flush SwiftChair-height transfer deck where the two of us could soak side by side in chest-deep hundred-and-two-degree water at the end of every day.
 
 And through every single one of those hundred and twenty-four weeks, we had never missed a post on Ideas for Coastal Virginia Transit.
 
-What had started as two nineteen-year-old twins quietly jotting down what they wished their regional bus system could be had grown into the first independent transit watchdog Hampton Roads had ever seen. After we rebuilt the site in custom PHP during our final semester at Roosevelt Rehabilitation Center, I had written a server-log analyzer to see where our weekday traffic was coming from. The results had made both of us sit up at our desks: every weekday morning between eight and ten o'clock, dozens of page views were coming straight from static IP blocks registered to CVTA headquarters in Norfolk, alongside municipal government networks inside the City Halls of Virginia Beach, Norfolk, Chesapeake, Portsmouth, Hampton, and Newport News.
+What had started as two twenty-year-old twins quietly jotting down what they wished their regional bus system could be had grown into the first independent transit watchdog Hampton Roads had ever seen. After we rebuilt the site in custom PHP during our final semester at Roosevelt Rehabilitation Center, I had written a server-log analyzer to see where our weekday traffic was coming from. The results had made both of us sit up at our desks: every weekday morning between eight and ten o'clock, dozens of page views were coming straight from static IP blocks registered to CVTA headquarters in Norfolk, alongside municipal government networks inside the City Halls of Virginia Beach, Norfolk, Chesapeake, Portsmouth, Hampton, and Newport News.
 
-They were reading every word we wrote. They just didn't know what to do with two twenty-three-year-old twins in power wheelchairs who refused to pat them on the back for the status quo.
+They were reading every word we wrote. They just didn't know what to do with two twenty-two-year-old twins in power wheelchairs who refused to pat them on the back for the status quo.
 
 When the commission chair called the brief public-comment period at the start of the one-thirty afternoon meeting—scheduled, as always, in the middle of a Thursday workday when almost no working commuter could attend—Katie released her joystick brake and rolled smoothly up to the low microphone table at the front of the room, with me rolling right up beside her holding our printed schedule audit.
 
@@ -3656,11 +3812,13 @@ During the eight weeks between Election Night in November 2010 and Reorganizatio
 
 Removing the steep wooden steps on the right wing of the curved mahogany City Council dais, the city constructed a permanent, gently sloped, red-carpeted wheelchair ramp bordered by polished mahogany handrails leading straight up to the Kempsville District desk, where the heavy leather swivel chair was rolled away so twenty-five-year-old Councilwoman-Elect Katie Prairie could pull her compact black SwiftChair directly up to the voting console.
 
-On Tuesday evening, January 4, 2011, with the chamber gallery packed wall-to-wall with Kempsville neighbors, CCHR students, bus operators, and retired Master Chief Robert Callahan sitting in the front row in his own wheelchair, Katie and I rolled side by side up the new mahogany dais ramp. Standing beside us with his hand resting proudly on my shoulder was our dad, while I held open our bound leather copy of the Constitution of the Commonwealth of Virginia.
+On Tuesday evening, January 4, 2011, with the chamber gallery packed wall-to-wall with Kempsville neighbors, CCHR students, bus operators, and retired Master Chief Robert Callahan sitting in the front row in his own wheelchair, Katie rolled up the new mahogany dais ramp to her Kempsville District seat, inviting Dad and me onto the dais beside her solely for the ceremonial swearing-in while I held open our bound leather copy of the Constitution of the Commonwealth of Virginia.
 
-Placing her left hand flat on the Virginia Constitution and raising her right hand, Katie repeated the oath of office after the Clerk of the Circuit Court—finishing in a clear, ringing voice that echoed to the back of the chamber:
+Placing her left hand flat on the Virginia Constitution and raising her right hand, Katie repeated the oath of office as the newly elected Kempsville District Councilwoman after the Clerk of the Circuit Court—finishing in a clear, ringing voice that echoed to the back of the chamber:
 
 *"So help me, God!"*
+
+As soon as the applause thundered across the chamber, Dad and I descended the ramp back to the front row of the public gallery so Councilwoman Katie Prairie could take her official seat alone at the Kempsville console on the dais.
 
 She didn't wait six months to keep the promise she had made to Greg Mercer at the 8:24 PM bus stop on Hampton Boulevard.
 
@@ -3668,7 +3826,7 @@ Just two weeks later, on Tuesday evening, January 18, 2011, Item 9B came up on t
 
 Stepping up to the low citizen and staff microphone podium on the chamber floor below the raised mahogany dais were two men in tailored charcoal suits whom Katie and I knew very well: CVTA President and Chief Executive Officer Leonard Sterling, and Chief Operating Officer Richard Halstead—the exact two executives who, fourteen months earlier at 509 East Eighteenth Street, had cut off my public-comment microphone at the hundred-and-eighty-second buzzer, sneered in the hallway that we were *"statistically insignificant hobbyist bloggers,"* refused to release raw GTFS schedule files, and secretly blackballed me from the Transit Riders Advisory Committee.
 
-Now, the roles were reversed. Sterling and Halstead were standing down at the floor microphone looking up at the raised mahogany dais—where twenty-five-year-old Councilwoman Katie Prairie sat looking down at them with her finger resting beside her microphone button and me parked right beside the dais ramp with our PHP line-item audit open on my MagnaBook Pro.
+Now, the roles were reversed. Sterling and Halstead were standing down at the floor microphone looking up at the raised mahogany dais—where twenty-five-year-old Councilwoman Katie Prairie sat in the elected seat of power looking down at them with her finger resting beside her microphone button, while I sat as a private citizen down in the front accessible bay of the chamber floor right beside the dais ramp with the PHP line-item audit I had prepared for her open on my MagnaBook Pro.
 
 When CEO Sterling finished his five-minute presentation asking the City Council to approve the $1.42 million check with no strings attached, the Mayor turned toward the right wing of the dais.
 
@@ -3676,13 +3834,13 @@ When CEO Sterling finished his five-minute presentation asking the City Council 
 
 Katie pressed her white microphone button. The green indicator ring lit up—and this time, Richard Halstead didn't have a cutoff switch.
 
-"Thank you, Mr. Mayor," Katie said, her voice calm, polite, and surgical as every camera in Building 1 zoomed in on her desk. "Mr. Sterling, Mr. Halstead, before my brother Nate and I were elected by the voters of Kempsville by a margin of ninety-four point one percent, the two of you cut off our microphone at Eighteenth Street and told us in the hallway that CVTA doesn't take operational direction from 'hobbyist bloggers.' Now that you are asking the taxpayers of Virginia Beach for an extra one point four two million dollars, Nate and I have gone through every single line of your general ledger."
+"Thank you, Mr. Mayor," Katie said, her voice calm, polite, and surgical as every camera in Building 1 zoomed in on her desk. "Mr. Sterling, Mr. Halstead, before the voters of Kempsville elected me to this Council by a margin of ninety-four point one percent, the two of you cut off my brother Nate's microphone at Eighteenth Street and told us in the hallway that CVTA doesn't take operational direction from 'hobbyist bloggers.' Now that you are asking the taxpayers of Virginia Beach for an extra one point four two million dollars, my brother and I have gone through every single line of your general ledger."
 
 Down at the podium, Richard Halstead swallowed hard, a bead of sweat glistening at his temple under the television lights.
 
-"Out of the one point four two million dollars you are requesting tonight," Katie continued, reading directly from our PHP audit, "six hundred and ten thousand dollars goes toward fuel and frontline bus operator wages, which I fully support. The remaining eight hundred and ten thousand dollars, however, is earmarked for executive retention bonuses, out-of-state conference travel, fleet take-home sedans for senior staff, and proprietary scheduling consultant contracts. Meanwhile, here in Virginia Beach, the last Route 12 bus out of the CCHR hub still leaves at 5:48 PM, locking citizens out of our 6:00 PM Council meetings, and your agency still refuses to publish its raw General Transit Feed Specification database tables for the public."
+"Out of the one point four two million dollars you are requesting tonight," Katie continued, reading directly from the PHP audit sheet on her desk, "six hundred and ten thousand dollars goes toward fuel and frontline bus operator wages, which I fully support. The remaining eight hundred and ten thousand dollars, however, is earmarked for executive retention bonuses, out-of-state conference travel, fleet take-home sedans for senior staff, and proprietary scheduling consultant contracts. Meanwhile, here in Virginia Beach, the last Route 12 bus out of the CCHR hub still leaves at 5:48 PM, locking citizens out of our 6:00 PM Council meetings, and your agency still refuses to publish its raw General Transit Feed Specification database tables for the public."
 
-Katie held up a two-page printed budget amendment she and I had drafted with the City Attorney that morning.
+Katie held up a two-page printed budget amendment she had drafted with the City Attorney that morning from our audit notes.
 
 "Therefore, Mr. Mayor," Katie announced, "I move an amendment to Item 9B: the City of Virginia Beach will release the six hundred and ten thousand dollars for bus operators and fuel tonight, and we will lock the remaining eight hundred and ten thousand dollars of executive overhead in a restricted municipal escrow account. Not one penny of that eight hundred and ten thousand dollars will be released by the City Treasurer until CVTA meets two mandatory conditions: first, publishing its complete, unredacted GTFS schedule database online under an open public license within thirty days; and second, implementing the Evening Civic Access Transit Pulse—extending Route 33 out of the Virginia Beach Municipal Center until 10:30 PM on Council nights and operating a synchronized 9:00 PM and 10:00 PM evening connecting pulse for Routes 12, 25, 29, and 36 at the CCHR Virginia Beach Campus hub."
 
@@ -3696,13 +3854,13 @@ By a second unanimous 11–0 vote, the Virginia Beach City Council appointed Cou
 
 Nine days later, on the fourth Thursday of January 2011, while every other city council commissioner from across Hampton Roads drove into Norfolk and parked in the reserved VIP lot behind 509 East Eighteenth Street, CVTA's newest governing Commissioner arrived the exact same way she and I had always traveled: by riding a three-bus chain on CVTA—boarding Route 15 northbound on Military Highway, transferring to Route 20 westbound at Glenrock Mall into Downtown Norfolk, and riding Route 1 up Granby Street to Eighteenth Street while paying our regular fare.
 
-When Katie and I rolled our SwiftChairs through the double doors of the Eighteenth Street boardroom and up to the raised Commissioners' horseshoe dais—right past Chief Operating Officer Richard Halstead's chair—the first official action Commissioner Katie Prairie took under New Business was exercising her unilateral prerogative as a Virginia Beach Commissioner to make a citizen appointment to the Transit Riders Advisory Committee.
+When Katie and I rolled our SwiftChairs through the double doors of the Eighteenth Street boardroom, I parked at the front accessible citizen-advisor table while Commissioner Katie Prairie rolled straight up onto the raised Commissioners' horseshoe dais—right past Chief Operating Officer Richard Halstead's chair. Under New Business, the very first official action Commissioner Katie Prairie took from the dais was exercising her unilateral prerogative as a Virginia Beach Commissioner to make a citizen appointment to the Transit Riders Advisory Committee.
 
 "Pursuant to Section 4.2 of the Commission bylaws," Katie said clearly into her Commissioner's microphone while looking straight across the table at Richard Halstead, "as a voting Commissioner for the City of Virginia Beach, I hereby appoint Nathaniel Prairie to the Virginia Beach citizen seat on the Transit Riders Advisory Committee, effective immediately."
 
 By May 2011, CVTA had published its complete open GTFS schedule feed and launched the permanent Evening Civic Access Transit Pulse across Virginia Beach. For the first time in the history of our city, any citizen who rode a public bus or used a wheelchair could attend a six o'clock City Council meeting, speak at the public microphone, and ride a CVTA bus safely home afterward.
 
-And on every single Tuesday night when the Virginia Beach City Council adjourned at nine-thirty, Councilwoman Katie Prairie and I rolled down the mahogany dais ramp in Building 1, rolled out to the Municipal Center bus shelter alongside the citizens who had come to watch the meeting, swiped our thirty-day CVTA passes, and rode the 9:45 PM Route 33 and Route 12 pulse right back home to Kempsville.
+And on every single Tuesday night when the Virginia Beach City Council adjourned at nine-thirty, Councilwoman Katie Prairie rolled down the mahogany dais ramp in Building 1 to meet me at the front of the gallery, and the two of us rolled out to the Municipal Center bus shelter alongside the citizens who had come to watch the meeting, swiped our thirty-day CVTA passes, and rode the 9:45 PM Route 33 and Route 12 pulse right back home to Kempsville.
 
 ### Part 5: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run
 
@@ -4072,7 +4230,7 @@ One of the veteran lawmakers—a silver-haired, five-term Delegate from Northern
 
 "Excuse me—Delegate-Elect Prairie?" he stammered, glancing back over his shoulder toward the empty bus stop curb as if checking for a hidden camera crew. "From the Eighty-Fifth District in Virginia Beach?"
 
-"Good morning, Delegate!" Katie said brightly, braking her SwiftChair beside mine to shake his hand. "And this is my twin brother and senior legislative aide, Nathaniel Prairie."
+"Good morning, Delegate!" Katie said brightly, braking her SwiftChair beside mine to shake his hand. "And this is my twin brother, business partner, and volunteer data strategist, Nathaniel Prairie."
 
 "Did—did the two of you just get off the *city bus*?" the veteran Delegate asked, his voice loud enough that a dozen other lawmakers and lobbyists turned their heads to listen. "Don't you have a handicap van or a legislative driver? The Clerk's office reserves oversized accessible spaces on the ground level of the Seventh Street legislative parking deck for members!"
 
@@ -4084,7 +4242,7 @@ Around the entrance plaza, several lobbyists exchanged stunned glances—realizi
 
 Five minutes later, when we rolled inside the warm marble lobby of the General Assembly Building and checked in at the Clerk's administrative orientation table, the facilities coordinator smiled and slid a thick manila packet across the counter toward Katie's lap tray.
 
-"Welcome to Richmond, Delegate Prairie," the coordinator said, holding up a plastic windshield RFID transponder alongside a DMV application form for special official *HOUSE OF DELEGATES* license plates. "Because both you and your legislative aide use power wheelchairs, we went ahead and blocked off two contiguous van-accessible spaces right next to the basement tunnel elevator in the General Assembly Parking Deck. Here is your garage transponder and your legislative license-plate form."
+"Welcome to Richmond, Delegate Prairie," the coordinator said, holding up a plastic windshield RFID transponder alongside a DMV application form for special official *HOUSE OF DELEGATES* license plates. "Because both you and your brother use power wheelchairs, we went ahead and blocked off two contiguous van-accessible spaces right next to the basement tunnel elevator in the General Assembly Parking Deck. Here is your garage transponder and your legislative license-plate form."
 
 Katie gently pushed the plastic garage transponder and the *HOUSE OF DELEGATES* license-plate application right back across the counter.
 
@@ -4154,7 +4312,7 @@ On Wednesday morning, January 8, 2014, when the blue-and-white JRTC Route 6 bus 
 
 Inside the House of Delegates Chamber at twelve o'clock noon, while Dad and I stood beside Katie's modified desk on the first-floor chamber carpet, the Clerk of the House called the freshman class forward to take the constitutional oath of office under Article II, Section 7 of the Constitution of Virginia.
 
-Just as she had done when she was sworn onto the Virginia Beach City Council three years earlier, Katie didn't reach for a Bible. Instead, as I held our bound leather copy of the Constitution of the Commonwealth of Virginia steady across my lap tray between our two wheelchairs, Katie placed her left palm squarely on the gold-stamped cover of the Virginia Constitution, raised her right hand toward the Speaker's rostrum, and swore her oath in a clear, ringing voice:
+Just as she had done when she was sworn onto the Virginia Beach City Council three years earlier, Katie didn't reach for a Bible. Instead, as I held our bound leather copy of the Constitution of the Commonwealth of Virginia steady across my lap tray between our two wheelchairs as her ceremonial guest on the floor, Katie placed her left palm squarely on the gold-stamped cover of the Virginia Constitution, raised her right hand toward the Speaker's rostrum, and swore her constitutional oath as the sole elected Delegate for the Eighty-Fifth District in a clear, ringing voice:
 
 "I do solemnly swear that I will support the Constitution of the United States, and the Constitution of the Commonwealth of Virginia, and that I will faithfully and impartially discharge all the duties incumbent upon me as a member of the House of Delegates, according to the best of my ability, so help me, God!"
 
@@ -4162,7 +4320,7 @@ Across the center aisle, three senior opposition delegates immediately craned th
 
 "The oath in Article II, Section 7 requires a lawmaker to swear before God to support and defend the Constitution of the United States and the Constitution of the Commonwealth of Virginia. My personal faith answers to God, and my left hand belongs on the exact Constitution I just promised God and the people of Virginia Beach I would defend."
 
-Delegate Katie Prairie of Virginia Beach and her twin brother Nate had arrived in Richmond on the city bus, paid their regular fare, sworn their oath on the Constitution of Virginia, and made it crystal clear from Day One that the people's House belonged to everyone.
+Delegate Katie Prairie of Virginia Beach and her twin brother Nate had arrived in Richmond on the city bus, paid their regular fare, watched Katie swear her oath of office on the Constitution of Virginia, and made it crystal clear from Day One that the people's House belonged to everyone.
 
 ## House Bill 663
 
@@ -4478,7 +4636,7 @@ I looked at my twin sister, feeling the exact same electric charge I had felt in
 
 "Second," I said, tapping the legislative math chart I had coded on my laptop screen, "look at the structural difference between the two chambers. In the House of Delegates, there are a hundred members and everyone runs for re-election every two years. In the Senate of Virginia, there are only forty members, and they serve four-year terms. One State Senator represents two and a half times the voting weight of a Delegate. Even bigger: because the Senate is split twenty-one to nineteen right now, flipping just two Senate seats next November flips the entire Senate of Virginia into a Democratic majority. And under the Senate's seniority and caucus rules, if Katie wins the Seventh Senate District and we win the majority, she won't just be one voice at the end of a committee table—she'll be handed the gavel as Chair of a standing Senate committee and sit on Senate Transportation and Finance."
 
-"And third," Katie said, tracing the boundary lines of the Seventh Senate District across my screen from Kempsville and Bellamy Manor up past CCHR, Princess Anne Road, Pembroke Commons, Bayside, and across Newtown Road into eastern Norfolk, "look at who lives in the Seventh Senate District. A House of Delegates district has about eighty thousand residents. A Virginia Senate district has two hundred thousand residents—equivalent to two and a half House districts combined. Every single neighborhood we already represent in the Eighty-Fifth House District is right here inside the Seventh Senate District, alongside the exact CCHR, Pembroke, Newtown Road, and Military Highway bus corridors Nate and I have ridden and written about since 2005."
+"And third," Katie said, tracing the boundary lines of the Seventh Senate District across my screen from Kempsville and Bellamy Manor up past CCHR, Princess Anne Road, Pembroke Commons, Bayside, and across Newtown Road into eastern Norfolk, "look at who lives in the Seventh Senate District. A House of Delegates district has about eighty thousand residents. A Virginia Senate district has two hundred thousand residents—equivalent to two and a half House districts combined. Every single neighborhood I already represent in the Eighty-Fifth House District is right here inside the Seventh Senate District, alongside the exact CCHR, Pembroke, Newtown Road, and Military Highway bus corridors Nate and I have ridden and written about since 2005."
 
 Dad leaned back in his chair, nodding slowly as he took in the whole picture.
 
@@ -4540,7 +4698,7 @@ And eighteen minutes after that, a roar went up across the room that rattled the
 
 Katie turned her head toward me, her eyes bright with tears as she threw her arms around my neck across our wheelchair armrests while Dad wrapped both of us in a bear hug from behind.
 
-"No more watching our bills die across the rotunda, Nate," Katie whispered against my shoulder. "We aren't in the minority anymore. Come January, we hold the gavel."
+"No more watching our bills die across the rotunda, Nate," Katie whispered against my shoulder. "Our caucus isn't in the minority anymore. Come January, I hold a committee gavel."
 
 ***
 
@@ -4556,7 +4714,7 @@ It wasn't from a mid-level facilities bureaucrat telling her to wait until March
 
 Three days later, when Katie and I rode the morning ARTS train and the JRTC Route 6 bus up to Capitol Square and rolled into the second-floor Senate wing, the Clerk of the Senate was waiting for us with the Capitol's master cabinetmakers and historic preservation carpenters.
 
-Inside the neoclassical Office of the Clerk of the Senate—where tall white marble Ionic columns framed the floor-to-ceiling volumes of the Virginia Acts of Assembly—the carpenters were already constructing a lowered, wheelchair-accessible section of the polished mahogany reception counter so Katie and I could review bills and sign official Senate parchments at eye level.
+Inside the neoclassical Office of the Clerk of the Senate—where tall white marble Ionic columns framed the floor-to-ceiling volumes of the Virginia Acts of Assembly—the carpenters were already constructing a lowered, wheelchair-accessible section of the polished mahogany reception counter so Senator Katie Prairie could sign official Senate parchments and pre-file bills at eye level with me parked right beside her.
 
 And inside the Senate of Virginia Chamber itself, under the tall arched windows and the green carpet of the forty-member upper house, the Clerk led us up to the front aisle where the senior committee chairs sat.
 
@@ -4568,15 +4726,15 @@ Not only had the cabinetmakers modified the front-aisle mahogany desk for the Ch
 
 On Opening Day—Wednesday, January 8, 2020, at twelve o'clock noon—after we had unpacked our familiar winter-session sanctuary at Apartment 104 of the Broad & Boulevard Lofts on West Broad Street the weekend before and ridden the eastbound JRTC Route 6 bus down to Ninth and Broad, thirty-four-year-old Katie rolled down the center aisle of the Senate of Virginia in her compact SwiftChair.
 
-Because the second-floor Senate Chamber had a level ground-accessible entrance off the Capitol elevator lobby, Dad sat beaming in his best suit in the front row of the Senatorial family section on the chamber floor while I rolled my SwiftChair right up beside Katie's desk holding our bound leather copy of the Constitution of the Commonwealth of Virginia.
+Because the second-floor Senate Chamber had a level ground-accessible entrance off the Capitol elevator lobby and allowed a Senator's immediate family onto the floor specifically for the Opening Day swearing-in ceremony, Dad sat beaming in his best suit in the front row of the Senatorial family section while I rolled my SwiftChair right up beside Katie's desk holding our bound leather copy of the Constitution of the Commonwealth of Virginia.
 
 Up on the high marble rostrum, the Lieutenant Governor of Virginia—serving under the state constitution as President of the Senate—called the forty Senators-Elect forward to take the constitutional oath of office under Article II, Section 7 of the Constitution of Virginia.
 
-Rolling smoothly up the newly installed custom-milled mahogany ramp to the front well with me right beside her left armrest, Katie didn't reach for a Bible while the opposition senators across the carpet held leather Bibles angled toward the press gallery cameras. Instead, just as she had done at every swearing-in of her career, Katie placed her left palm squarely on the gold-stamped cover of the Constitution of the Commonwealth of Virginia resting across my hands and raised her right hand toward the rostrum.
+Rolling smoothly up the newly installed custom-milled mahogany ramp to the front well with me right beside her left armrest as her ceremonial guest, Katie didn't reach for a Bible while the opposition senators across the carpet held leather Bibles angled toward the press gallery cameras. Instead, just as she had done at every swearing-in of her career, Katie placed her left palm squarely on the gold-stamped cover of the Constitution of the Commonwealth of Virginia resting across my hands and raised her right hand toward the rostrum.
 
 "I do solemnly swear that I will support the Constitution of the United States, and the Constitution of the Commonwealth of Virginia, and that I will faithfully and impartially discharge all the duties incumbent upon me as a member of the Senate of Virginia, according to the best of my ability, so help me, God!" Katie declared, her clear, steady voice ringing across the forty mahogany desks of the upper chamber.
 
-Ten minutes later, when the Clerk read the standing committee assignments for the 2020 session and handed Katie the polished wooden gavel as Madam Chair of the Senate Committee on Rehabilitation and Social Services, I looked across the chamber at the exact seats where Senator Franklin Ward and his allies had killed our transit and disability bills twenty-two months earlier.
+Ten minutes later, after I rolled back out to the accessible viewing bay to watch the formal floor proceedings alongside Dad, the Clerk read the standing committee assignments for the 2020 session and handed Senator Katie Prairie the polished wooden gavel as Madam Chair of the Senate Committee on Rehabilitation and Social Services—sitting right across the chamber from the exact seats where Senator Franklin Ward and his allies had killed her transit and disability bills twenty-two months earlier.
 
 And just as we knew they would, the opposition had an absolute field day over what was resting under Katie's left hand during the oath.
 
@@ -4674,7 +4832,7 @@ I scrolled down two inches to the local municipal referendum tally—the one-per
 
 Katie stared at the red NO tally for a long moment, her jaw setting with that familiar, unshakeable resolve I had known since we were children.
 
-"I respect the voters' decision—working families are stretched thin right now, and nobody likes paying higher sales tax," Katie said evenly. "But the roofs on our public schools still leak, and disabled kids in wheelchairs still get stuck behind broken school elevators. If local taxpayers can't shoulder that burden through a sales tax, then our job in Washington starting in January is to bring federal school infrastructure and IDEA modernization grants straight home to Virginia."
+"I respect the voters' decision—working families are stretched thin right now, and nobody likes paying higher sales tax," Katie said evenly. "But the roofs on our public schools still leak, and disabled kids in wheelchairs still get stuck behind broken school elevators. If local taxpayers can't shoulder that burden through a sales tax, then my job in the United States Senate starting in January is to bring federal school infrastructure and IDEA modernization grants straight home to Virginia."
 
 ***
 
@@ -4758,15 +4916,15 @@ Katie's fingertips tightened around the edge of the oak table as she read the fi
 
 For ten full seconds after Katie finished reading, the kitchen was completely quiet except for the morning birds outside in our Kempsville oak trees.
 
-"I have no idea who Jess is," Katie said slowly, looking from the laptop screen up at Dad and me with a fire in her blue eyes that reminded me of the afternoon in January 2016 when she took the microphone in the House General Laws Subcommittee in Richmond and obliterated the bathroom bill in three minutes flat. "But she just wrote our entire six-year Senate playbook."
+"I have no idea who Jess is," Katie said slowly, looking from the laptop screen up at Dad and me with a fire in her blue eyes that reminded me of the afternoon in January 2016 when she took the microphone in the House General Laws Subcommittee in Richmond and obliterated the bathroom bill in three minutes flat. "But she just wrote my entire six-year Senate playbook."
 
 "Every single word of it," I agreed, opening a fresh Markdown document in Quantum Code right beside our browser window to save the text. "Look at what she said about not just gluing what they broke back together, but re-engineering it and codifying it like a prenup before a second marriage after a messy divorce—down to who gets the coffee filters. That is literally how we write software, Katie. Unwritten Washington 'norms' and gentlemen's agreements are just unpatched security vulnerabilities waiting for a bad actor to exploit."
 
-"And we are going to patch every single one of them into black-letter federal statute," Katie said firmly. "The national party establishment tried to block us in the June primary because they wanted a polite corporate insider who wouldn't rock the boat. We won this seat despite them, not because of them. When we take the train up to Washington on January third, we are not going up there to water down our own bills to appease bullies who voted to strip healthcare and disability rights from people on the bus."
+"And as Virginia's new United States Senator, I am going to patch every single one of them into black-letter federal statute," Katie said firmly. "Because federal anti-nepotism law under Title 5, Section 3110 of the United States Code bars a Member of Congress from putting a sibling on a paid government payroll—and because neither of us would ever want you answering to a government bureaucracy anyway—you're staying a private citizen, earning our living through our fifty-fifty software business, and sitting right beside me in Dirksen as my unpaid chief data strategist while I hold the Senate seat and cast the votes on the floor. The national party establishment tried to block my candidacy in the June primary because they wanted a polite corporate insider who wouldn't rock the boat. I won this Senate seat despite them, not because of them. When we take the train up to Washington on January third, I am not going up there to water down my bills to appease bullies who voted to strip healthcare and disability rights from people on the bus."
 
-She tapped her finger on the table beside her glass of ginger ale, counting off her mandate right across our kitchen table.
+She tapped her finger on the table beside her glass of ginger ale, counting off her Senatorial mandate right across our kitchen table.
 
-"We codify reproductive freedom, marriage equality, voting rights, wheelchair right-to-repair, and repealing the SSI and Medicaid disability marriage penalty down to the last statutory comma—down to who gets the coffee filters," Katie declared. "We demand the full, unredacted release of the federal child-trafficking files, and I don't care whose billionaire donors or political friends are named in them—you abuse children, you're done, and no one is above the law. We put Diversity, Equity, Inclusion, and Accessibility at the front door of our Senate office so Capitol Hill looks like the working people, transit riders, wheelchair users, and neurodivergent thinkers we serve. And before the delayed January fallout of the opposition's prior 'big beautiful bill' hits working families and they try to lie and blame us for their own law, you and I are going to build a live public receipts dashboard in PHP and ride local public transit to town halls across every corner of Virginia to show voters the exact roll-call votes and effective dates."
+"I will sponsor bills to codify reproductive freedom, marriage equality, voting rights, wheelchair right-to-repair, and repealing the SSI and Medicaid disability marriage penalty down to the last statutory comma—down to who gets the coffee filters," Katie declared. "I will use my vote in the Senate to demand the full, unredacted release of the federal child-trafficking files, and I don't care whose billionaire donors or political friends are named in them—you abuse children, you're done, and no one is above the law. I will put Diversity, Equity, Inclusion, and Accessibility at the front door of my Senate office so Capitol Hill looks like the working people, transit riders, wheelchair users, and neurodivergent thinkers I was elected to serve. And before the delayed January fallout of the opposition's prior 'big beautiful bill' hits working families and they try to lie and blame us for their own law, you and I are going to build a live public receipts dashboard in PHP and ride local public transit to town halls across every corner of Virginia to show voters the exact roll-call votes and effective dates."
 
 Dad smiled proudly, setting his coffee mug down on the counter. "Blinders on, elbows out?"
 
@@ -5229,17 +5387,199 @@ Tucked into the private back corner of the ground floor—looking out only onto 
 
 Officially, on paper, this ground-floor suite was Katie's bedroom, while Bedroom 2 upstairs was mine. We had deliberately chosen this room at the very back of the ground floor so that no passerby, reporter, or neighbor walking along the front sidewalk could ever peer through a street-facing window to see two forty-one-year-old opposite-gender twins sharing a bed.
 
-Inside our quiet back-room sanctuary, however, there were no cameras, no Senate galleries, and no outsiders who needed an explanation for why the two halves of the same soul slept safest under the same quilt.
+Inside our quiet back-room sanctuary, however, there were no cameras, no Senate galleries, and no outsiders who needed an explanation for why the two halves of the same soul slept safest together. Even though the ground-floor suite had a queen-sized bed beneath the framed watercolor print of two blue butterflies we had carried with us from our bedroom off Military Highway, most nights—especially after a loud, bright, overstimulating day on Capitol Hill—we bypassed the open bed in favor of the deep, carpeted walk-in closet along the interior wall of the master suite, where we kept our single shared navy-blue sleeping bag and two pillows laid out on the floor.
 
-Rolling our two compact SwiftChairs to our respective sides of the shared queen-sized bed—right beneath the framed watercolor print of two blue butterflies we had carried with us from our bedroom off Military Highway—Katie and I plugged our magnetic charger leads into our joystick ports until both battery indicators glowed steady amber in the dim light.
+Rolling our two compact SwiftChairs up to the threshold of the master walk-in closet, Katie and I plugged our magnetic charger leads into our joystick ports until both battery indicators glowed steady amber in the dim light.
 
-Moving with the practiced upper-body coordination of twenty-five years in wheelchairs, I transferred onto the right side of the queen mattress and helped steady the quilt while Katie transferred smoothly onto the left.
+Moving with the practiced upper-body coordination of twenty-five years in wheelchairs, we shed our clothes beside our chairs so our body heat could keep our lower-extremity circulation warm without tangled fabric, transferred down onto the soft carpet inside the walk-in closet, and zipped our shared sleeping bag up to our shoulders before pulling the closet door nearly shut to seal ourselves in quiet, velvet darkness.
 
-When she clicked off the brass bedside lamp and we pulled the warm comforter up to our chins in the dark, a late-night southbound train glided quietly over the King Street bridge just beyond the trees outside—heading south through Virginia toward Richmond and Norfolk along the exact steel rails that tied our whole life together.
+Outside in the night, a late-night southbound train glided quietly over the King Street bridge just beyond the trees—heading south through Virginia toward Richmond and Norfolk along the exact steel rails that tied our whole life together.
 
-Underneath the covers, United States Senator Katie Prairie reached across the center of the mattress, found my hand in the dark, and laced her fingers through mine.
+Inside the warm cocoon of our shared sleeping bag in the dark closet, United States Senator Katie Prairie curled close against my chest, found my hand in the dark, and laced her fingers through mine.
 
-"Goodnight, Nate," she whispered against the pillow.
+"Goodnight, Nate," she whispered against my shoulder.
 
-"Goodnight, Katie," I whispered back, holding my twin sister's hand as we drifted off to sleep in our house on Sunset Drive.
+"Goodnight, Katie," I whispered back, holding my twin sister close as we drifted off to sleep in our sanctuary on Sunset Drive.
+
+## The Norfolk Carrier Leak, Madison & Lincoln, & Three Convictions in the Senate
+
+### Part 1: The South Lawn Tirade, The Norfolk Carrier Leak, & Why the Order of the Trials Matters
+
+**Date:** 2027-03-18 at 10:15 America/New_York
+
+#### Thursday, March 18, 2027, 10:15 AM — "He Thinks He's Brandon Mercer" & The No Vote at Eleven-Fifteen
+
+Inside Room 511 of the Dirksen Senate Office Building, the wall-mounted television was tuned to a live morning press availability on the South Lawn of the White House, where President Garrett Thorne was shouting over the helicopter rotor wash at a cluster of reporters.
+
+"You want to know why my nominee for Deputy Secretary of Transportation is still stalled in committee?" Thorne barked into the microphones, jabbing a thick finger toward Capitol Hill. "Because Broken Katie Prairie—a nasty, bitter little woman who can't even walk up the steps of the Capitol without taxpayers building her a ramp—is running a personal vendetta from her wheelchair! Look at her life! Forty-one years old, never married, couldn't keep a real man when she was twenty, still living in her father's house in Alexandria with her crippled twin brother writing little computer spreadsheets for her! She's defective, folks—physically and mentally defective—and the Senate Commerce Committee shouldn't be held hostage by a spinster on wheels!"
+
+Across the private office, Katie's paid legislative director, Sarah, reached for the remote control to mute the screen, her face pale with anger.
+
+"Leave the volume up, Sarah," Katie said calmly from behind her custom-height mahogany Senator's desk, not even looking up from the red-tabbed confirmation binder open across her lap.
+
+Parked in my compact SwiftChair right beside my twin sister's left armrest, I didn't flinch either. My fingers didn't even pause on the mechanical keyboard of my MagnaBook Pro as I finished compiling the final cross-referenced PHP table of wire transfers between Thorne Global Holdings, an offshore maritime logistics shell company, and the nominee's former shipping lobby firm.
+
+Because federal anti-nepotism law under Title 5, Section 3110 of the United States Code barred a Member of Congress from hiring a sibling onto a paid government payroll, I didn't take a single dime of taxpayer salary. I was a private citizen, earning our living through the fifty-fifty software business Katie and I had built from our wheelchairs, and serving in Dirksen Room 511 as my sister's unpaid chief data strategist—while Katie alone held the constitutional office of United States Senator from Virginia, chaired her subcommittee on the dais, and cast the official votes on the floor.
+
+"He thinks he's Brandon Mercer," I said quietly, turning my laptop screen ten degrees toward Katie's SwiftChair so she could read the bottom wire-transfer totals. "He thinks if he stands over the back of our chairs and screams loud enough about how broken we are, we're going to flinch."
+
+"Brandon found out twenty-one years ago what happens when you try to corner us, and so will Garrett Thorne," Katie said, closing the confirmation binder with a sharp snap and unlocking her wheel brakes. "What time is the floor roll call on his nominee, Sarah?"
+
+"Eleven-fifteen," Sarah answered, holding the office door open for our two wheelchairs. "And Speaker Clara Morales's office just called from the other side of the Capitol Rotunda. The House Judiciary and Armed Services investigative committees have completed their subpoena report on Secretary of Defense Bret Halverson, Vice President Julian Vance, and President Thorne. They are voting on the Articles of Impeachment next week."
+
+"Good," Katie said, steering her SwiftChair out into the marble corridor of Dirksen with me rolling in lockstep beside her left wheel toward the Capitol subway. "Then at eleven-fifteen, President Thorne gets my No vote on his nominee—and as soon as Chief Justice Jonathan Sterling swears in the Senate for their trials, all three of them get my Guilty vote too."
+
+***
+
+#### The 2025 Warning from Richmond & Secretary of Defense Bret Halverson's Norfolk Carrier Leak
+
+As our subway car glided through the subterranean tunnel between the Dirksen building and the Capitol, both Katie and I thought back two years earlier to January of 2025.
+
+Back in that winter of 2025, Katie had still been serving as a State Senator in the Senate of Virginia in Richmond—living with me at Apartment 104 of the Broad & Boulevard Lofts on West Broad Street—when newly inaugurated President Garrett Thorne, backed by a Republican trifecta controlling the White House, the House of Representatives, and a fifty-three-to-forty-seven Senate majority, nominated Bret Halverson to serve as United States Secretary of Defense.
+
+Before Thorne plucked him off television to run the Pentagon, Halverson had spent a decade hosting *Patriot Watch Weekend* on the Liberty First Network—a slick, hair-sprayed weekend cable talk show where he ranted about "woke generals," mocked disabled service members and ADA wheelchair accessibility standards as "weakness," and hawked survivalist supplements and gold coins during commercial breaks. In 2024, Halverson had gone on the Liberty First Network and sneered that military bases shouldn't waste taxpayer money on "wheelchair ramps for bureaucrats."
+
+For anyone representing Hampton Roads—home to Naval Station Norfolk, the largest naval base on earth, alongside Naval Air Station Oceana, Joint Expeditionary Base Little Creek, Newport News Shipbuilding, and tens of thousands of active-duty sailors and military families—putting a cable television talk-show host in charge of three million service members and an eight-hundred-and-fifty-billion-dollar defense budget was an insult to every sailor in uniform.
+
+Because Katie was still a State Senator in Richmond in January 2025 and hadn't yet run for the United States Senate, she didn't have a confirmation vote in Washington. Instead, she and I had stayed up past midnight in our West Broad Street apartment compiling a fourteen-page forensic dossier on Halverson's financial conflicts and erratic record. The next morning, State Senator Katie Prairie had rolled to the well of the Senate of Virginia in Richmond, publicly urged both of Virginia's United States Senators to vote No on Halverson's confirmation, and sent our dossier straight up Interstate 95 to Capitol Hill.
+
+Virginia's retiring senior U.S. Senator had read Katie's letter into the *Congressional Record* and voted No alongside Virginia's other Senator, just as she had urged. Yet because Thorne's party controlled the chamber in January 2025, the majority conference had rammed Halverson's confirmation through on a razor-thin fifty-fifty tie broken by Vice President Julian Vance. That weekend, Secretary Halverson had gone back on his old cable network for a victory lap, laughing with his former co-hosts about *"that little wheelchair state senator down in Richmond who thought she could stop the Pentagon."*
+
+It hadn't taken two years for every single warning Katie had issued from Richmond to come true—and when the November 2026 midterm wave swept a two-hundred-and-fifty-three-seat Democratic majority into the House of Representatives, flipped the Senate to a fifty-four-seat majority, and sent United States Senator Katie Prairie of Virginia to Washington in January 2027, the chickens came home to roost.
+
+Within sixty days of the One Hundred Twentieth Congress taking power in January 2027, joint House and Senate subpoenas uncovered a staggering dual crime at the top of the administration:
+
+First, Secretary of Defense Bret Halverson had used an unsecured commercial messaging app on his personal cell phone—on a group chat that included Vice President Julian Vance, two of Halverson's old cable-news producers, and a foreign-linked shipping broker—to text classified Fifth Fleet deployment schedules and transit coordinates for an aircraft carrier strike group homeported right at Naval Station Norfolk, putting six thousand Hampton Roads sailors in mortal danger.
+
+Second, when I wrote a custom PHP financial cross-indexing script in Dirksen Room 511 to audit the subpoenaed Pentagon logistics ledgers against Treasury wire records, the data proved beyond a shadow of a doubt that Halverson had fired the Department of Defense Inspector General to cover up four hundred million dollars in no-bid Naval Station Norfolk fleet-supply contracts steered to an offshore shell fund co-owned by Thorne Global Holdings—using Domestic Emoluments and national-security tariff waivers personally signed by both Vice President Julian Vance and President Garrett Thorne.
+
+***
+
+#### Thursday Afternoon, March 25, 2027 — Why the Vice President Must Be Convicted Before the President
+
+One week later, on Thursday afternoon, March 25, 2027—minutes after the United States House of Representatives voted two hundred and sixty-eight to one hundred and sixty-seven to impeach Secretary of Defense Bret Halverson, Vice President Julian Vance, and President Garrett Thorne for high crimes and misdemeanors—Speaker of the House Clara Morales and the House impeachment managers met with Katie and the Senate leadership inside the Capitol while I sat beside Katie's wheelchair with our constitutional succession timeline open on my laptop.
+
+"Alexander Hamilton wrote in *Federalist Number 65* that impeachment is designed for those offenses which proceed from the misconduct of public men, or, in other words, from the abuse or violation of some public trust," Katie said evenly around the conference table. "And Dr. Martin Luther King Jr. reminded this country that the time is always right to do what is right. All three of these men betrayed the sailors of Naval Station Norfolk and sold out the public trust for four hundred million dollars in offshore kickbacks. None of them—not Thorne, not Vance, and not Halverson—can be allowed to remain in power."
+
+"Which brings us to the exact sequence of the three Senate trials," Speaker Clara Morales said, looking across the table at Katie and the Senate Majority Leader. "Because under Article II, Section 1, Clause 6 of the Constitution and Section 1 of the Twenty-Fifth Amendment, the order in which the Senate calls the final roll determines who becomes President of the United States."
+
+Katie nodded, tapping the statutory flow chart I had coded on my screen.
+
+"If the Senate convicts and removes President Garrett Thorne first," Katie explained with crystal-clear constitutional precision, "then the exact microsecond Chief Justice Sterling bangs his gavel on the sixty-seventh Guilty vote, Vice President Julian Vance—the man who broke the tie to put Bret Halverson in the Pentagon and co-signed the offshore Norfolk contract waivers—automatically ascends to the Presidency. Even if we impeached him the next day, he would already be sitting in the Oval Office with the pardon pen in his hand."
+
+"Whereas if we try and convict them in ascending order of their conspiracy," I added from my chair beside Katie, pointing to the three numbered boxes on my screen, "watch what the Constitution and the United States Code do automatically:
+
+"First, on Wednesday, the Senate votes on Secretary of Defense Bret Halverson—convicting and removing him by a two-thirds supermajority under Article I, Section 3, followed immediately by the simple-majority vote permanently disqualifying him from ever holding federal office again.
+
+"Second, on Thursday, while Garrett Thorne is still President, the Senate votes on Vice President Julian Vance. The moment sixty-seven Senators vote Guilty to convict and remove Julian Vance, the office of Vice President of the United States becomes completely vacant. Under Section 2 of the Twenty-Fifth Amendment, a replacement Vice President cannot take office unless confirmed by a majority vote of both Houses of Congress—meaning our majorities in the House and the Senate simply decline to consider any nominee, keeping the Vice Presidency empty overnight.
+
+"And third, on Friday afternoon, with the Vice Presidency vacant, the Senate votes to convict, remove, and permanently disqualify President Garrett Thorne. Under the Presidential Succession Act of 1947—Title 3, Section 19 of the United States Code—with both the Presidency and the Vice Presidency vacant at the same time, the line of succession skips straight across the Capitol Rotunda to the Speaker of the House."
+
+Across the mahogany table, Speaker Clara Morales looked at the forty-one-year-old Senator from Virginia Beach and her twin brother in quiet awe.
+
+"Wednesday for Halverson, Thursday for Vance, and Friday for Thorne," the Senate Majority Leader said, writing the three dates onto the official Senate trial calendar. "And Senator Prairie—because Naval Station Norfolk is your home turf, we want you delivering the final floor speech before the roll is called."
+
+### Part 2: The Words of Mason, Madison, and Lincoln, Three Guilty Votes in Forty-Eight Hours, & Swearing In President Clara Morales
+
+**Date:** 2027-04-16 at 13:30 America/New_York
+
+#### Wednesday & Thursday, April 14–15, 2027 — Convicting Secretary Halverson and Vice President Vance
+
+Two years earlier, in January of 2025, I had been sitting at my desk in the Senate of Virginia in Richmond when President Garrett Thorne nominated Bret Halverson—the slick, hair-sprayed weekend host of *Patriot Watch Weekend* on the Liberty First Network—to serve as United States Secretary of Defense, and when Vice President Julian Vance cast the tie-breaking fiftieth vote to put him in charge of the Pentagon over the objections of every military family in Hampton Roads.
+
+That weekend in 2025, Halverson had gone back on his old cable network for a victory lap, laughing with his former co-hosts about *"that little wheelchair state senator down in Richmond who thought she could stop the Pentagon."*
+
+He wasn't laughing anymore.
+
+On Wednesday afternoon, April 14, 2027, Bret Halverson sat pale and sweating at the respondent's table in the well of the United States Senate Chamber while Chief Justice Jonathan Sterling presided from the marble rostrum and the Reading Clerk called the final roll on Article One and Article Two of his impeachment.
+
+Up on the top tier of the Senate Floor beside the accessible upper doorway, I sat alone at my custom-height mahogany Senator's desk in my compact SwiftChair with my manual wheel brakes locked firm and my red-tabbed impeachment evidence binder resting flat across my lap. Because Senate rules strictly limit the chamber floor during an impeachment trial to sworn United States Senators and officers of the court, my twin brother Nate sat in his matching SwiftChair beside our dad at the brass railing of the Senate Family Gallery directly across the chamber, his blue eyes locked steadily on mine.
+
+Down in the well, Halverson's defense attorneys didn't even look up toward my desk. After the House managers had displayed the screenshots of Halverson texting classified Naval Station Norfolk carrier strike group deployment schedules over a commercial phone app alongside the four-hundred-million-dollar Thorne Global Holdings kickback ledger Nate's scripts had uncovered, seventeen institutional Republican Senators from defense and coastal states had announced they were crossing the aisle.
+
+"Mr. Mendoza," the Reading Clerk called out.
+
+"Guilty," Senator Mendoza answered from across the aisle.
+
+The clerk's eyes moved down the alphabetical tally sheet and looked up toward my mahogany desk at the top of the chamber.
+
+"Ms. Prairie."
+
+For half a second, the entire Senate Chamber went dead silent. Down at the respondent's table, Bret Halverson finally raised his head, looking up the tiered steps of the chamber straight at the wheelchair he had mocked on national television two years ago.
+
+I didn't raise my voice, and I didn't take my hands off my armrests. Looking straight down into the well on behalf of every sailor at Naval Station Norfolk whose operational safety he had treated like a cable-news segment, I gave him the vote I had promised from Richmond in 2025.
+
+"Guilty," I said clearly across the quiet chamber.
+
+By a vote of seventy-one to twenty-nine—four votes above the two-thirds constitutional threshold required under Article I, Section 3 of the Constitution—the Senate convicted and removed Bret Halverson from office, followed ten minutes later by a simple-majority vote permanently disqualifying him from ever holding any office of honor, trust, or profit under the United States again.
+
+Twenty-four hours later, on Thursday afternoon, April 15, 2027, the second domino fell.
+
+Confronted with the unredacted Treasury wire tables proving that Vice President Julian Vance had personally co-signed the offshore routing waivers for the Naval Station Norfolk logistics kickbacks and sat on the exact same unsecured messaging thread while our Fifth Fleet sailors' movements were compromised, sixty-eight Senators—including me—voted Guilty at four-thirty on Thursday afternoon to convict and remove Julian Vance from the Vice Presidency, followed immediately by a second vote permanently disqualifying him from future federal office.
+
+With the Democratic majority in the House of Representatives and our fifty-four-seat majority in the Senate refusing to entertain any Twenty-Fifth Amendment replacement nominee from a disgraced White House, the office of Vice President of the United States stood completely vacant as Thursday night fell over Washington.
+
+***
+
+#### Friday, April 16, 2027, 1:30 PM — The Words of George Mason, James Madison, and Abraham Lincoln
+
+At three o'clock on Friday morning—less than eleven hours before the final Senate deliberation and roll-call vote on the Articles of Impeachment against President Garrett Thorne—the President had gone online from the residence of the White House to unleash one final, desperate tirade against Nate and me.
+
+In all-capital letters, Thorne had called me a *"defective, bitter little cripple on wheels"* and a *"spinster who couldn't keep a man in her twenties and is trying to steal the Presidency from her wheelchair with her shut-in twin brother."*
+
+Even at the very end, Garrett Thorne still didn't understand that every ugly, ableist insult he hurled at my wheelchair and my brother only disgusted more institutional Senators in his own party and cemented the two-thirds coalition against him.
+
+At one-thirty on Friday afternoon, April 16, 2027, inside the closed marble chamber of the United States Senate during the final hour of deliberations before the roll call, I locked the manual brakes of my SwiftChair beside my top-tier mahogany desk, pressed my microphone button, and rested my hands on the edge of my lectern as all ninety-nine of my fellow Senators turned toward my seat.
+
+"Mr. Chief Justice, and my colleagues of the Senate," I said evenly across the silent chamber. "Two hundred and forty years ago, right down the road from where my brother Nate and I grew up in Virginia, George Mason stood at the Constitutional Convention in Philadelphia and warned that no man who holds the executive power should ever be placed above the reach of the law when he corrupts his office, asking the delegates: *Shall any man be above justice? Above all, shall that man be above it, who can commit the most extensive injustice?*"
+
+Up in the Family Gallery above the marble columns, Dad rested his hand on Nate's shoulder as Nate looked down at me from his SwiftChair.
+
+"And when another Virginian, James Madison, wrote *Federalist Number 51*," I continued, my voice calm and unhurried, "he didn't tell us to trust the personal goodwill of a President or a Cabinet Secretary. Madison wrote: *If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary. In framing a government which is to be administered by men over men, the great difficulty lies in this: you must first enable the government to control the governed; and in the next place oblige it to control itself.* Madison and the framers gave this Senate the sole power to try all impeachments specifically to guard the republic against men who treat a public trust as a private business."
+
+I looked down into the well toward the respondent's table where President Garrett Thorne's defense lawyers sat staring down at their legal pads.
+
+"Abraham Lincoln once said that nearly all men can stand adversity, but if you want to test a man's character, give him power—and at Gettysburg, he charged every generation of Americans to ensure that government of the people, by the people, for the people, shall not perish from the earth," I said. "We gave Garrett Thorne, Julian Vance, and Bret Halverson the highest powers under this Constitution. They used that power to trade tariff waivers and Naval Station Norfolk fleet contracts for four hundred million dollars in offshore kickbacks, to leak the movements of six thousand Virginia sailors on commercial phones, and to mock the disabled citizens they swore an oath to serve. Mason, Madison, and Lincoln left us an exact constitutional remedy for men who fail that test—and when the Clerk calls the roll, I will vote Guilty."
+
+***
+
+#### Friday, April 16, 2027, 2:15 PM — Sixty-Eight Guilty Votes, Permanent Disqualification, & President Clara Morales
+
+At two o'clock, the gallery doors were unlocked to the public and the press corps, and Chief Justice Jonathan Sterling rose in his black judicial robe at the marble rostrum.
+
+"The Secretary will call the roll on Article One of the Articles of Impeachment exhibited by the House of Representatives against Garrett Thorne, President of the United States," Chief Justice Sterling announced.
+
+One by one, as the Reading Clerk called the alphabetical roll, fourteen Republican Senators who had voted to acquit in prior years rose from their mahogany desks and answered *"Guilty."*
+
+"Mr. Mendoza," the Reading Clerk called out.
+
+"Guilty," Senator Mendoza answered.
+
+"Ms. Prairie."
+
+I kept my hands resting calmly on the armrests of my SwiftChair, my manual wheel brakes locked tight against the blue Senate carpet. Twenty-one years after Brandon Mercer had locked my wheelchair brakes in the pouring November rain outside the Williamsburg train station and told me I was powerless, I looked straight down into the well of the United States Senate.
+
+"Guilty," I said clearly.
+
+Twenty minutes later, when the Reading Clerk handed the certified tally sheet up to the rostrum showing that sixty-eight Senators had voted Guilty on both Articles of Impeachment—exceeding the sixty-seven-vote two-thirds constitutional threshold required under Article I, Section 3—Chief Justice Sterling struck the marble rostrum once with his ivory gavel.
+
+"The Senate having tried Garrett Thorne, President of the United States, upon two Articles of Impeachment exhibited against him by the House of Representatives, and two-thirds of the Senators present having found him guilty of high crimes and misdemeanors," Chief Justice Sterling declared across the hushed chamber, "it is therefore ordered and adjudged that the said Garrett Thorne be, and he is hereby, removed from office."
+
+Before the defense table could even close their briefcases, our Senate Majority Leader rose and moved the second resolution under Article I, Section 3, Clause 7: permanent disqualification from ever holding any federal office again, which under settled Senate precedent required only a simple majority of fifty-one votes. When the clerk called *"Ms. Prairie"* on the permanent disqualification roll call, I delivered my second vote of the hour just as evenly as the first:
+
+"Aye."
+
+The disqualification resolution passed sixty-eight to thirty-two. With that gavel strike, Garrett Thorne, Julian Vance, and Bret Halverson were not only stripped of their offices—they were barred for the rest of their natural lives from ever putting their names on a federal ballot or holding any office of honor, trust, or profit under the United States again.
+
+And because we had convicted and removed Vice President Julian Vance on Thursday afternoon and left the Vice Presidency vacant, the Presidential Succession Act of 1947—Title 3, Section 19 of the United States Code—took immediate constitutional effect.
+
+Fifteen minutes after the Senate doors swung open, Nate and Dad took the elevator down from the Family Gallery and rolled down the marble corridor beside my wheelchair into the Mansfield Room just off the Senate Floor.
+
+Standing beneath the crystal chandelier—having just signed her formal resignation as Speaker and Representative from the House—was Clara Morales, her left hand resting on a bound copy of the Constitution and her family Bible while she raised her right hand before Chief Justice Jonathan Sterling to take the constitutional oath of office as the new President of the United States.
+
+Nate locked his SwiftChair brakes right alongside mine at the front of the room and reached across the two-inch gap between our armrests to squeeze my hand while Dad rested his hands proudly on our shoulders.
+
+"Clean sweep, Senator," Nate whispered against my ear as the room erupted into applause for President Clara Morales. "All three of them gone for good."
+
+"Every single one, Nate," I whispered back, squeezing my twin brother's hand just as tight.
 
