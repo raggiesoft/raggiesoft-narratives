@@ -468,13 +468,13 @@ Maintaining a 223-acre, nearly 500,000-square-foot campus of Cold War-era infras
 
 ### III. Residential Leasing
 
-- **Barnett Hall (Former Women's Dorm):** Capitalizing on the extreme ADA compliance (wide halls, roll-in showers, commercial elevators), this building is marketed as premium, barrier-free luxury housing for disabled adults, elderly individuals, and those transitioning from injuries.
+- **Barton Hall (Former Women's Dorm):** Capitalizing on the extreme ADA compliance (wide halls, roll-in showers, commercial elevators), this building is marketed as premium, barrier-free luxury housing for disabled adults, elderly individuals, and those transitioning from injuries.
 
 - **The PERT Dorm (Postsecondary Education Rehabilitation Transition):** Repurposed into secure, quiet off-campus housing. The smaller dorm rooms are leased primarily to students attending the local community college who prefer a highly structured, gated environment.
 
 ### IV. Commercial & Clinical Leasing
 
-- **Rothrock Hall (The Medical Dorm):** Because this building is already wired and plumbed for clinical use, it has been transformed into an on-site "Wellness Hub." The families lease the individual rooms and suites to independent private practices, such as physical therapists, occupational therapists, counselors, and massage therapists. This generates commercial rent while providing built-in amenities for the residential tenants.
+- **Redmond Hall (The Medical Dorm):** Because this building is already wired and plumbed for clinical use, it has been transformed into an on-site "Wellness Hub." The families lease the individual rooms and suites to independent private practices, such as physical therapists, occupational therapists, counselors, and massage therapists. This generates commercial rent while providing built-in amenities for the residential tenants.
 
 - **The Classroom Building:** Originally designed for vocational trades, these rooms feature reinforced concrete floors and heavy-duty electrical grids. The families lease these massive spaces as a "Tech Incubator" to tech startups, server farms, and makerspaces that require commercial-grade power, as well as to local community groups for workshops.
 
@@ -956,7 +956,7 @@ Virginia rarely hands over massive tracts of state land without ensuring the buy
 
 - **Transit Easement Guarantee:** A binding agreement allowing the Virginia Department of Transportation (VDOT) to continue utilizing the outer parking lot at Exit 97 as a designated Park & Ride for the regional transit grid.
 
-- **Commercial/Medical Zoning:** A proposal detailing the intention to lease the "Mock City" training grid and Rothrock Hall to private medical practices and regional occupational therapy programs.
+- **Commercial/Medical Zoning:** A proposal detailing the intention to lease the "Mock City" training grid and Redmond Hall to private medical practices and regional occupational therapy programs.
 
 - **Private Residential:** Explicitly outlining the conversion of the ADA-compliant dormitories into secure, private residential housing for disabled adults.
 

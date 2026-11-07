@@ -4875,7 +4875,7 @@ Nichole leaned in. She looked at the curriculum. It was intense. It was specific
 
 "But where do we live?" Patrick asked, flipping to the housing insert.
 
-He pulled out a separate sheet for Rothrock Hall.
+He pulled out a separate sheet for Redmond Hall.
 
 The photos showed wide, linoleum-floored rooms that looked more like hospital suites than dorms. There were grab bars everywhere. There were roll-in showers. There were nurses stations.
 
@@ -4899,7 +4899,7 @@ It made perfect sense to him. If the facility was designed for severe disabiliti
 
 "It seems... logical," Ellen agreed, looking at the '24-Hour Nursing' bullet point. "If they handle spinal cord injuries, they won't be scared of your routine. And if the furniture is movable, you can configure it how you need."
 
-Nichole looked at the photo of Rothrock Hall. It was sterile. It was ugly. But it was *safe*. And the classes were exactly what she wanted.
+Nichole looked at the photo of Redmond Hall. It was sterile. It was ugly. But it was *safe*. And the classes were exactly what she wanted.
 
 She imagined sitting in that double room—beds zipped together into a makeshift fortress—writing code on their laptops while the nurses patrolled the hall. It wasn't the Ivy League, but it was a functional launchpad.
 
@@ -5312,7 +5312,7 @@ Then, the destination appeared on the right.
 
 "This is it," Tom said, slowing the van.
 
-He turned into the visitors' parking lot. Looming in front of them was the Birdsall-Hoover Building.
+He turned into the visitors' parking lot. Looming in front of them was the Bates-Harding Building.
 
 It didn't look like a college. It looked exactly like what it was: a state hospital built in the 1960s. It was a long, flat expanse of institutional brick, dominated by a flat roof and heavy glass doors.
 
@@ -5320,13 +5320,13 @@ Patrick stared at the building layout through the windshield. From the parking l
 
 - Straight Ahead: The Main Entrance/Visitors Entrance.
 
-- To the Left: A separate entrance marked for Rothrock Hall.
+- To the Left: A separate entrance marked for Redmond Hall.
 
 The visual separation was immediate. Even the architecture seemed to be categorizing people before they even got out of the car.
 
 Tom parked the van near the entrance. They all looked at the large sign planted in the grass at the parking lot entrance.
 
-Top Left: The DARS Logo (Department of Aging and Rehabilitative Services). Top Right: The Roosevelt Rehabilitation Center seal. Center Text: BIRDSALL-HOOVER BUILDING *Administration* *Admissions* *Medical Rehabilitation* *Rothrock Hall*
+Top Left: The DARS Logo (Department of Aging and Rehabilitative Services). Top Right: The Roosevelt Rehabilitation Center seal. Center Text: BATES-HARDING BUILDING *Administration* *Admissions* *Medical Rehabilitation* *Redmond Hall*
 
 "Medical Rehabilitation," Patrick read aloud. His voice was guarded. "It’s on the sign before Admissions."
 
@@ -5344,7 +5344,7 @@ He walked around to the lift. As Nichole rolled out onto the asphalt, she didn't
 
 #### The Intake
 
-The interior of the Birdsall-Hoover Building smelled of lemon antiseptic and old paper. The air was frigid, the kind of aggressive air conditioning used to preserve government documents.
+The interior of the Bates-Harding Building smelled of lemon antiseptic and old paper. The air was frigid, the kind of aggressive air conditioning used to preserve government documents.
 
 They were ushered into a small office just off the lobby. Mr. Swayne sat behind a metal desk that was almost completely bare, save for a stapler and a stack of intake forms.
 
@@ -5428,7 +5428,7 @@ Nichole tapped her armrest.
 They rolled through the doors, not as a client and a case file, but as a unit.
 
 
-Swayne pursed his lips but gestured toward the back of the lobby. "Fine. Follow me to Rothrock Hall."
+Swayne pursed his lips but gestured toward the back of the lobby. "Fine. Follow me to Redmond Hall."
 
 The architecture of the building was confusing. The lobby they were standing in was essentially a sunken level. The main corridor of the facility was visible directly ahead of them, but it was elevated exactly three feet higher—separated by a short flight of three terrazzo steps.
 
@@ -5458,7 +5458,7 @@ Swayne was already there, checking his watch.
 
 They followed him down the corridor. The "Admissions" feel of the lobby was gone. This hallway was wide, quiet, and lined with heavy wooden handrails. The air smelled different here—less like paper, more like rubbing alcohol and cafeteria food.
 
-A sign on the wall read: ROTHROCK HALL.
+A sign on the wall read: REDMOND HALL.
 
 "This is where Nichole would live," Swayne said, his keys jingling as he stopped in front of a set of heavy double doors. "As I mentioned... it is a secure unit."
 
@@ -5472,7 +5472,7 @@ Swayne swiped a keycard to open the double doors. The lock buzzed—a harsh, ele
 
 They entered the unit. It didn't look like a dorm. It looked like a sub-acute ward. The nurses' station was a high, curved counter behind glass, where staff in scrubs were typing on computers.
 
-"We have a model room set up right here," Swayne said, marching them to the first door on the right. "This showcases the standard living arrangement for a Rothrock client."
+"We have a model room set up right here," Swayne said, marching them to the first door on the right. "This showcases the standard living arrangement for a Redmond client."
 
 He pushed the door open.
 
@@ -5510,7 +5510,7 @@ If she seized in the middle of the night here, she would be alone in a plastic b
 
 "And just to clarify," Patrick said, his voice tight. "If she needs help at night... I'm not here."
 
-"Correct," Swayne said, moving to the window. "You are in Barnett Hall, across the quad. If Nichole needs assistance, she presses this call bell. Our staff response time is under three minutes."
+"Correct," Swayne said, moving to the window. "You are in Barton Hall, across the quad. If Nichole needs assistance, she presses this call bell. Our staff response time is under three minutes."
 
 *Three minutes.*
 
@@ -5538,11 +5538,11 @@ Patrick pushed Nichole out of the room, listening to the hum of the hospital bed
 
 #### The Barracks
 
-They left the medical sterility of Rothrock and walked across a patch of manicured grass to Barnett Hall.
+They left the medical sterility of Redmond and walked across a patch of manicured grass to Barton Hall.
 
-If Rothrock was a hospital, Barnett was a barracks. It was a two-story brick block with narrow windows. Inside, the lobby was sparse—a few vinyl chairs and a bulletin board covered in rules about curfew and hygiene inspections.
+If Redmond was a hospital, Barton was a barracks. It was a two-story brick block with narrow windows. Inside, the lobby was sparse—a few vinyl chairs and a bulletin board covered in rules about curfew and hygiene inspections.
 
-"Barnett is where our Level 2 clients reside," Mr. Swayne explained, swiping his keycard to open a heavy fire door. "It operates on a suite system to encourage socialization and shared responsibility."
+"Barton is where our Level 2 clients reside," Mr. Swayne explained, swiping his keycard to open a heavy fire door. "It operates on a suite system to encourage socialization and shared responsibility."
 
 He led them into a ground-floor suite.
 
@@ -5568,11 +5568,11 @@ But it was the next rule that dropped the hammer.
 
 Swayne turned to Nichole, who was parking her chair near the suite entrance to avoid blocking the narrow hall.
 
-"Now, it is important to be clear about boundaries," Swayne said, clasping his hands. "Nichole, you are only permitted inside Barnett Hall today because this is an official tour."
+"Now, it is important to be clear about boundaries," Swayne said, clasping his hands. "Nichole, you are only permitted inside Barton Hall today because this is an official tour."
 
 He looked sternly at the twins.
 
-"Once enrolled, Rothrock clients are strictly prohibited from entering Barnett Hall. That includes the lobby. You are not to visit Patrick's room, and he is not to visit yours."
+"Once enrolled, Redmond clients are strictly prohibited from entering Barton Hall. That includes the lobby. You are not to visit Patrick's room, and he is not to visit yours."
 
 "Wait," Tom stepped forward, his voice low and firm. "We told you back in the office. Patrick is her primary care attendant. He assists with transfers, meals, stretching..."
 
@@ -5604,7 +5604,7 @@ Tom and Ellen exchanged a look behind Swayne’s back. It was a look of grim det
 
 #### 1:40 PM — The Rec Hall
 
-They left the grim barracks of Barnett Hall and headed across the quad. Mr. Swayne seemed to sense the growing hostility in the group, so he fell back on policy.
+They left the grim barracks of Barton Hall and headed across the quad. Mr. Swayne seemed to sense the growing hostility in the group, so he fell back on policy.
 
 "Now, Patrick," Swayne said, his keys jingling with every step. "I know the housing separation seems strict, but it's part of our Privilege Level System. It’s designed to incentivize behavior."
 
@@ -5614,15 +5614,15 @@ He held up four fingers.
 
 "Hygiene checks?" Patrick repeated, his voice flat. "I'm eighteen."
 
-"It's a structured environment," Swayne droned on. "In Barnett Hall, you are Level 2. That means an 11:00 PM curfew, lights out at midnight, and you must have a signed Hall Pass to leave the campus grounds."
+"It's a structured environment," Swayne droned on. "In Barton Hall, you are Level 2. That means an 11:00 PM curfew, lights out at midnight, and you must have a signed Hall Pass to leave the campus grounds."
 
 Patrick looked at Tom. Tom just shook his head. They hadn't needed hall passes since middle school.
 
-"Eventually," Swayne promised, pointing to a nicer-looking dorm in the distance, "you could earn Level 3 or 4 status and move into Carter-Ashley Hall. Level 4s have no curfew and are allowed opposite-gender visitation in the lobby between 6:00 PM and 11:00 PM."
+"Eventually," Swayne promised, pointing to a nicer-looking dorm in the distance, "you could earn Level 3 or 4 status and move into Cantor Hall. Level 4s have no curfew and are allowed opposite-gender visitation in the lobby between 6:00 PM and 11:00 PM."
 
 Patrick stopped. "So, if I make Level 4... I could visit Nichole?"
 
-"No," Swayne said firmly. "That rule applies only to residents of Carter-Ashley. Rothrock Hall is a medical unit. It is strictly secured. No non-Rothrock clients are allowed in Rothrock at any time—not in the rooms, not in the lobby. And Rothrock clients are not allowed in the regular dorms. It is a liability issue."
+"No," Swayne said firmly. "That rule applies only to residents of Cantor. Redmond Hall is a medical unit. It is strictly secured. No non-Redmond clients are allowed in Redmond at any time—not in the rooms, not in the lobby. And Redmond clients are not allowed in the regular dorms. It is a liability issue."
 
 Patrick stopped the wheelchair dead in the middle of the sidewalk. The final door had just slammed shut.
 
@@ -5741,7 +5741,7 @@ The line rang twice.
 
 "Ellen!" Sherry’s voice brightened instantly. "Where are you? Did you survive the 'Roosevelt Experience'?"
 
-Tom put the van in gear. He pulled out of the parking spot, driving past the sign that read BIRDSALL-HOOVER BUILDING: MEDICAL REHABILITATION.
+Tom put the van in gear. He pulled out of the parking spot, driving past the sign that read BATES-HARDING BUILDING: MEDICAL REHABILITATION.
 
 "We survived," Ellen said, watching the brick fortress slide past the window. "But... Sherry, it was a disaster. They didn't look at their transcripts. They didn't look at the portfolio. They looked at the wheelchair and offered Nichole a job as a Door Greeter at ValuMart."
 
@@ -6422,7 +6422,7 @@ Tom put the van in gear. As they pulled out of the gravel driveway, Patrick look
 
 The drive east on I-64 felt different than the drive west.
 
-Yesterday, the mountains had been a mystery. Today, they were a known quantity. They held beauty, but they also held the Birdsall-Hoover Building.
+Yesterday, the mountains had been a mystery. Today, they were a known quantity. They held beauty, but they also held the Bates-Harding Building.
 
 As they passed Exit 91, everyone in the van went silent.
 
