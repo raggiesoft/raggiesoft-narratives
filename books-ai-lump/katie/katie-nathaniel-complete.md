@@ -4585,15 +4585,23 @@ As our small tour group paused outside the Vermeil Room—lined with gilded silv
 
 Officer Henderson chuckled good-naturedly—the practiced, polite laugh of an officer who heard that exact question twenty times a morning.
 
-"I always hate to disappoint folks on their first trip, sir, but White House public tours almost never cross paths with the President," Officer Henderson explained warmly, gesturing toward the west end of the vaulted corridor. "Even when the President is in the building, his working offices are over in the West Wing, and the First Family's private living quarters are upstairs on the Second and Third Floors—completely separate from the historic Ground Floor and State Floor reception rooms we tour here. And on top of that, if you looked up at the flagpole over the roof when you walked in this morning, President George W. Walker isn't even in the District of Columbia right now."
+"I always hate to disappoint folks on their first trip, sir, but White House public tours almost never cross paths with the President," Officer Henderson explained warmly, gesturing toward the west end of the vaulted corridor. "Even when the President is here at the complex, his working offices are over in the West Wing, and the First Family's private living quarters are upstairs on the Second and Third Floors—completely separate from the historic Ground Floor and State Floor reception rooms we tour here."
 
-"Where is he today?" Katie asked curiously from her wheelchair.
+"Wait—doesn't the flag on the roof tell you whether the President is home, like Buckingham Palace?" the man's teenage son asked.
+
+"A lot of people think that, actually, because of the movies," Officer Henderson smiled, shaking his head. "By federal law, the American flag over the White House flies twenty-four hours a day, seven days a week, whether the President is in Washington or halfway around the world. If you want to know the real insider secret for whether the President is working in the Oval Office, you look over at the exterior portico door of the West Wing. Whenever the President is physically inside the West Wing, a United States Marine sentry in full dress blues stands at rigid attention right outside that door. The minute the President leaves the West Wing—either to travel or to walk back to the Residence for the night—the Marine sentry steps down."
+
+"And how do the reporters know when he's done with public appearances for the whole day?" Katie asked curiously from her wheelchair.
+
+"That's called 'calling a lid,'" Officer Henderson answered with an appreciative nod toward Katie. "Whenever the President is finished with all public appearances, speeches, and travel for the day, the Press Secretary's office gets on the loudspeaker in the press briefing room and announces a 'travel and photo lid.' Once a lid is called, everyone knows the President is in for the evening and won't be seen in public again until morning. Today, though, there's no Marine sentry at the West Wing door for the opposite reason—President George W. Walker isn't even in the District of Columbia right now."
+
+"Where is he today?" I asked.
 
 "President Walker flew back late last night from Yuma, Arizona, where he spent Monday touring the southwestern border," Officer Henderson replied, leading our three-person family over to the wood-paneled Visitor Elevator so we could ride up to the State Floor while the walking group climbed the marble stairs. "And about twenty minutes ago, he headed across the Potomac River into Northern Virginia—right over to American Legion Post 177 in Fairfax, Virginia—to deliver a ten-fifteen address to military families and veterans on the emergency supplemental appropriations bill."
 
-Inside the elevator cab, I leaned over my right armrest and whispered into Katie's ear with a grin.
+Inside the elevator cab, I leaned across our inner armrests, wrapped my arm around Katie's shoulders in a quick, warm squeeze, and whispered against her cheek with a grin.
 
-"Hold on, Katie," I murmured. "We rode the CCT bus right through the middle of Fairfax two days ago on our birthday, and today President Walker is in Fairfax while we're inside his house!"
+"Hold on, Katie," I murmured as she leaned into my hug. "We rode the CCT bus right through the middle of Fairfax two days ago on our birthday, and today President Walker is in Fairfax while we're inside his house!"
 
 Katie had to press her lips together to keep from laughing out loud as the brass elevator doors slid open onto the State Floor.
 
@@ -4777,9 +4785,11 @@ Katie stared at the screen for a long, quiet moment—remembering President Roos
 
 Then Katie opened a third browser tab and typed a search query into the address bar: *Commonwealth of Virginia State Board of Elections Candidate Qualification Guide — City Council*.
 
-"What are you pulling up now, Katie?" I asked softly, rolling my chair an inch closer to hers.
+"What are you pulling up now, Katie?" I asked softly, rolling my chair flush against hers.
 
 "How old you have to be, how many registered voter signatures you need on a petition, and what forms you have to file to run for the Virginia Beach City Council," Katie answered, her voice steady as steel as the PDF loaded on her screen. "Look right here under Code of Virginia Section 24.2-501: eighteen years old, a qualified voter registered at your residential address in the Kempsville District—which we've had on our Virginia State ID cards and voter registration on Arvin Road since 2001—and one hundred twenty-five certified voter signatures. If the politicians on the Virginia Beach City Council won't ride the bus or let bus riders attend their six-o'clock meetings, Nate, then we're going to learn every rule in this book, and I'm going to run for City Council so we can make the changes from the inside."
+
+Flipping up the inner armrest between our two SwiftChairs, I leaned across and wrapped both arms tightly around my twin sister's shoulders. Katie exhaled a long, slow breath and buried her face against my neck, wrapping her arms around my chest as the familiar, steady deep pressure of our embrace settled our racing nerves—and twenty minutes later, inside the quiet, dark sanctuary of Dad's downstairs bedroom closet, we fell asleep cuddled up together inside our shared sleeping bag with the future of Virginia Beach already taking shape in our minds.
 
 ### Part 5: \
 
@@ -4857,7 +4867,7 @@ Katie spun her SwiftChair away from her keyboard so fast her front casters chirp
 
 Opening the inside covers, we stared down at our digitized two-by-two post-office portraits printed beneath the holographic eagles, valid for ten full years until June 2017.
 
-"Look at that, Nate," Katie smiled, holding her open passport beside mine so our two pages touched across our armrests. "Our own house on Arvin Road, our own software LLC, our horizontal Virginia State IDs, and now two United States Passports. Wherever the rails go next, we have our tickets."
+"Look at that, Nate," Katie smiled, setting our two open passports on the desk blotter before flipping up her inner armrest and leaning right into my arms for a long, tight, deep-pressure hug. Pressing my cheek against her hair as we held each other close—feeling that unmistakable calm and security that always washed over both of us whenever we cuddled together—I listened to her whisper against my shoulder: "Our own house on Arvin Road, our own software LLC, our horizontal Virginia State IDs, and now two United States Passports. Wherever the rails go next, we have our tickets."
 
 ## Associate Degrees in Hand, 'Not the Right Skill Match,' & Launching Prairie Twin Interactive From Arvin Road
 
