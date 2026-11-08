@@ -4229,9 +4229,9 @@ At nine o'clock sharp, right as we slid our two SwiftChairs side by side underne
 
 "Look at the two of you sitting in a real office without a single yellow Level 2 badge in sight!" Tina typed into the group chat window, waving quietly at her webcam before her instructor walked past the front whiteboard. "Mr. Alderman just handed out the Module Four exercise sheet on relational foreign keys and PHP session arrays. Check your shared folder—I just uploaded the prompt!"
 
-For the next four hours, while morning sunlight slanted through the front blinds onto our keyboards, Katie and I tore through the PHP and SQL exercises side by side. We didn't care one bit that walking out of Roosevelt Rehabilitation Center after twelve days meant we wouldn't get an RRC completion certificate; we already held accredited Associate of Applied Science degrees from the Community College of Hampton Roads, and we had realized during our first week in Fishersville that an RRC piece of paper meant nothing in the real world compared to our associate degrees and actual working code.
+For the next few days, while morning sunlight slanted through the front blinds onto our keyboards, Katie and I worked on a couple of the copied PHP and SQL exercises unofficially from home while chatting with Tina, Sheila, and Jim. We didn't care one bit that walking out of Roosevelt Rehabilitation Center after twelve days meant we were technically RRC dropouts who had never officially completed the program; both of us already held an Advanced Studies Diploma from Virginia Beach City Public Schools at Northwood High School and an accredited Associate of Applied Science degree from the Community College of Hampton Roads, and we had realized during our first week in Fishersville that an RRC piece of paper meant nothing in the real world compared to our associate degrees and actual working code.
 
-Even better, instead of building throwaway classroom toy scripts, Katie and I used every single PHP and SQL lesson to rebuild our transit blog, Ideas for Coastal Virginia Transit, from the ground up—converting two years of flat HTML pages into a database-driven web application where every route timetable, transfer window, and municipal service comparison across all six Hampton Roads cities could be queried dynamically.
+Even better, it didn't take long working on those copied RRC modules unofficially from home before Katie and I looked at each other across our desks and decided to stop following RRC's rigid classroom exercises altogether and start doing our own thing—staying friends with Tina, Sheila, and Jim on instant messenger while we focused one hundred percent on rebuilding our transit blog, Ideas for Coastal Virginia Transit, from the ground up into a custom database-driven PHP web application where every route timetable, transfer window, and municipal service comparison across all six Hampton Roads cities could be queried dynamically.
 
 ***
 
@@ -6900,7 +6900,7 @@ Through the closed double doors at the end of the carpeted hallway, we could alr
 
 Looking at the clean, color-coded precinct tables rendering on my laptop screen, Katie let out a quiet breath and rested her temple against my shoulder for two seconds.
 
-Twenty-nine years had passed since the autumn of 1997, when Katie and I were twelve-year-old seventh graders at Morrison Middle School learning how to write raw HTML tags by hand in a plain text editor. Back then, watching his two autistic twelve-year-old twins stay up past supper building multi-page HTML websites from scratch had lit a fire under our dad—inspiring him to enroll at the Community College of Hampton Roads so he could earn his computer science degree and build a better life for the three of us. Four years later, during the summer and autumn of 2001—the year of our ill-fated Caribbean cruise on the *Sunward Tropics* and the September Friday when the borrowed time in our legs finally ran out—Katie and I had sat side by side reading Dad's mylar-wrapped *Quantum Basic 5.0* library textbooks cover to cover so we could learn *Quantum Basic 6.0* right alongside him. And in March 2007, after twelve unforgettable days at Roosevelt Rehabilitation Center in Fishersville—where we rushed a two-week Vocational Evaluation in a single week after an evaluator actually suggested training us as ValueMart door greeters, got written up as Level 2 clients for sleeping together in a closet, and walked out with our friend Tina after watching the administration sweep a classmate's assault under the rug—we had copied the Web Applications Developer PHP and SQL curriculum onto our laptops, mastered server-side PHP and database architecture back at our house off Military Highway in Kempsville alongside Tina, Sheila, and Jim, filmed our twenty-three-year-old *Ideas for Coastal Virginia Transit* four-bus mayoral loop in 2008, and built websites and desktop applications for the next nineteen years, buying our second Kempsville home on Lord Nelson Drive strictly fifty-fifty in October 2019 the moment CVTA launched the new Route 24 down Kempsville Road.
+Twenty-nine years had passed since the autumn of 1997, when Katie and I were twelve-year-old seventh graders at Morrison Middle School learning how to write raw HTML tags by hand in a plain text editor. Back then, watching his two autistic twelve-year-old twins stay up past supper building multi-page HTML websites from scratch had lit a fire under our dad—inspiring him to enroll at the Community College of Hampton Roads so he could earn his computer science degree and build a better life for the three of us. Four years later, during the summer and autumn of 2001—the year of our ill-fated Caribbean cruise on the *Sunward Tropics* and the September Friday when the borrowed time in our legs finally ran out—Katie and I had sat side by side reading Dad's mylar-wrapped *Quantum Basic 5.0* library textbooks cover to cover so we could learn *Quantum Basic 6.0* right alongside him before earning our Advanced Studies Diplomas from Virginia Beach City Public Schools at Northwood High School and our Associate of Applied Science degrees from the Community College of Hampton Roads. And in March 2007, after twelve unforgettable days at Roosevelt Rehabilitation Center in Fishersville—where we rushed a two-week Vocational Evaluation in a single week after an evaluator actually suggested training us as ValueMart door greeters, got written up as Level 2 clients for locking ourselves inside a seasonal closet, and dropped out with our friend Tina after watching the administration sweep a classmate's assault under the rug—we had worked on the copied PHP and SQL modules unofficially from home for just a few days before deciding to do our own thing at our house off Military Highway in Kempsville, filming our twenty-three-year-old *Ideas for Coastal Virginia Transit* four-bus mayoral loop in 2008, and building websites and desktop applications for the next nineteen years, buying our second Kempsville home on Lord Nelson Drive strictly fifty-fifty in October 2019 the moment CVTA launched the new Route 24 down Kempsville Road.
 
 Every single line of code running our statewide U.S. Senate campaign's turnout model tonight had been written by the two of us at our own desks—without a single K Street data consultant or Washington party contractor touching our servers.
 
@@ -7236,7 +7236,7 @@ Twenty minutes later, after carrying the last cardboard banker's box from her co
 
 Just as we had done every winter session in Richmond for twelve years, United States Senator-Elect Katie Prairie and I rolled our two compact SwiftChairs half a block down the brick sidewalk to the regular JRTC public transit bus stop at Ninth and Main, waited alongside the four o'clock state office clerks and hospital workers, rolled up the front bus ramp into the dual wheelchair bays, and tapped our fare cards for the seven-minute ride down the hill to Richmond Main Street Station to catch the evening ARTS train home to Norfolk.
 
-## First Train from Norfolk & Swearing In on the Constitution
+## First Train from Norfolk, Swearing In on the Constitution, & Strings Attached for RRC
 
 ### Part 1: Three Business Class Tickets for Free Café Car Drinks & The Mobile Lift at Alexandria
 
@@ -7556,6 +7556,122 @@ Inside the warm cocoon of our shared sleeping bag in the dark closet, United Sta
 "Goodnight, Nate," she whispered against my shoulder.
 
 "Goodnight, Katie," I whispered back, holding my twin sister close as we drifted off to sleep in our sanctuary on Sunset Drive.
+
+### Part 4: 34 C.F.R. Section 361.38, Two Twelve-Day Dropouts in Room 511, & Strings Attached at the Subcommittee Hearing
+
+**Date:** 2027-02-16 at 14:00 America/New_York
+
+![Inside Room 511 of the Dirksen Senate Office Building in February 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands behind her mahogany desk while the squirming DARS Commissioner and RRC Director sit across from them beside their glossy funding binders as Katie reveals that she and Nate are the two March 2007 twelve-day RRC dropouts.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2027_dirksen_room_511_rrc_dars_appropriation_showdown_katie_nate.jpg)
+
+#### Tuesday, February 16, 2027, 2:00 PM — Making Them Squirm Behind 34 C.F.R. Section 361.38 in Dirksen Room 511
+
+![Inside Room 511 of the Dirksen Senate Office Building in February 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands behind her mahogany desk while the squirming DARS Commissioner and RRC Director sit across from them beside their glossy funding binders as Katie reveals that she and Nate are the two March 2007 twelve-day RRC dropouts.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2027_dirksen_room_511_rrc_dars_appropriation_showdown_katie_nate.jpg)
+
+"Senator Prairie, on behalf of the Virginia Department for Aging and Rehabilitative Services and the entire executive leadership team down in Fishersville, it is such an honor to welcome a champion of the disability community to the Senate Appropriations Committee," Commissioner Marcus Sterling beamed across the polished mahogany desk of Room 511 in the Dirksen Senate Office Building, sliding a glossy spiral-bound presentation book toward Katie's wheelchair while the new director of Roosevelt Rehabilitation Center, Dr. Evelyn Cross, nodded eagerly beside him.
+
+Sitting in my compact black SwiftChair right beside my twin sister's left armrest with my MagnaBook Pro open on the corner of the desk and Katie's legislative director, Sarah, seated with her legal pad to our right, I watched the two state agency executives settle back into their leather visitor chairs.
+
+Neither Commissioner Sterling nor Director Cross had worked in Fishersville twenty years earlier in March of 2007; both were newly appointed career administrators who had taken over their roles within the past three years. Better still, neither of them had the faintest idea that the forty-one-year-old United States Senator sitting across from them—or her twin brother beside her—had ever set foot on the campus of Roosevelt Rehabilitation Center.
+
+Why would they? On every campaign biography, on our software company's corporate profile, and in the official *Congressional Directory* of the One Hundred Twentieth Congress, both Katie and I listed the exact same two academic credentials we had actually earned: an Advanced Studies Diploma from Virginia Beach City Public Schools at Northwood High School in June 2003, and an Associate of Applied Science degree from the Community College of Hampton Roads in May 2005.
+
+We never listed Roosevelt Rehabilitation Center on a resume because, technically, Katie and I were RRC dropouts. We had walked out of Barton Hall after twelve days in March 2007 without completing the program, without sitting for an exit interview, and without earning a certificate—and not long after we had returned home to our house on Arvin Road in Virginia Beach and worked on a few of the copied classroom modules unofficially from home, we had decided to stop bothering with RRC's rigid exercises altogether and start doing our own thing.
+
+"As you'll see on page four of our briefing packet, Senator," Director Cross said smoothly, tapping a color photograph of the flat-roofed red-brick dormitories along Roosevelt Avenue in Fishersville, "we are asking your office to sponsor an eighteen-point-five-million-dollar Congressionally Directed Spending request in this week's Labor, Health and Human Services, and Education Appropriations Subcommittee markup. The funds will support residential dormitory administration in Barton Hall and Cantor Hall, expand our two-week Vocational Evaluation intake division in the Bates-Harding Building, and fund our administrative compliance office."
+
+Katie didn't even open the glossy spiral binder. Resting her hands calmly on the armrests of her SwiftChair, she looked straight across the mahogany desk at Director Cross and Commissioner Sterling.
+
+"Before we talk about eighteen and a half million federal tax dollars, Director Cross, I have a few specific operational questions about how Roosevelt Rehabilitation Center treats the adults who check into Barton Hall," Katie said in a mild, conversational tone. "Let's say a twenty-one-year-old twin brother and sister—both full-time wheelchair users with progressive neuromuscular weakness, and both already holding accredited Associate of Applied Science degrees in information technology from the Community College of Hampton Roads—arrive at your center specifically to take the Web Applications Developer course in server-side PHP and SQL."
+
+Beside me, I saw Director Cross blink once, her polite smile freezing slightly at the corners.
+
+"First," Katie continued evenly, "when those two twenty-one-year-old wheelchair users roll up to the Barton Hall counter or walk down the hallway of the Bates-Harding Building, do your residential aides and vocational evaluation staff still walk up behind them and grab the rear push-handles of their wheelchairs to shove them around without asking permission—and then threaten to write the clients up as aggressive when they tell the staff to take their hands off their chairs?"
+
+"Well—Senator, certainly our staff are trained to assist mobility-impaired clients—" Director Cross began.
+
+"Second," Katie pressed on without letting her pivot, "why would two twenty-one-year-old wheelchair users who already hold accredited associate degrees in computer science be forced to spend two weeks in Vocational Evaluation touring the auto mechanics shop, the woodworking shop, and the nursing assistant lab—and then be told by an evaluator that if software engineering proves too taxing, the Center has a wonderful partnership with the Waynesboro ValueMart to train a college-degreed woman in a wheelchair to sit by the sliding doors as a ValueMart door greeter?"
+
+Across the desk, Commissioner Sterling shifted uncomfortably in his leather chair, glancing sideways at Director Cross.
+
+"Third," Katie said, her blue eyes sharp and unblinking, "let's say those twins test out of your two-week Vocational Evaluation in a single week so they can start the Web Applications Developer class—where every student has to bring a personal laptop because VITA has locked the state desktop computers down so tightly on a seven-year-old operating system that nobody can even start a local web server. Because moving to Cantor Hall is part of earning Level 3, and they haven't been on campus long enough to earn Level 3, they remain stuck in Barton Hall on Level 2—forced to beg for signed yellow paper Hall Passes just to catch the local bus, and forced onto separate men's and women's wings every night at eleven o'clock."
+
+Director Cross's cheeks flushed pink, and she cleared her throat. "Senator Prairie, if someone has shared an anecdote with your office—"
+
+"I'm not finished, Director," Katie said calmly. "Suppose on their ninth afternoon on campus, a male classmate assaults the twin sister in the therapeutic pool—breaking her nose open and tearing her swimsuit top—and when her twin brother uses his hands to cover her bare chest until someone brings a towel, your poolside staffer writes him up for inappropriate contact. And when the traumatized sister doesn't want to be separated from her twin brother that night, so at ten-forty-five they slip down a darkened hallway from the Rec Hall in their street clothes and lock themselves inside a seasonal storage closet using lumpy bags of curtains as pillows, your night supervisor unlocks the door with a master key after the eleven-o'clock curfew check, automatically accuses a twin brother and sister in full street clothes of sneaking into a closet to have sex, and threatens to kick them out of the Center—until the twins call his bluff and dare him to call their father in Alexandria right then and there to come pick them up, at which point the supervisor backs down because losing two full-time residential students would hurt the Center's headcount funding, while the counseling staff prepares to slap them with a Level 1 restriction and a mandatory sibling separation contract."
+
+In the quiet mahogany-paneled Senate office, you could have heard a pin drop.
+
+Commissioner Sterling and Director Cross squirmed visibly in their chairs, exchanging a panicked look across the corner of the desk.
+
+"Senator Prairie," Director Cross said stiffly, falling straight back on standard bureaucratic muscle memory, "neither Commissioner Sterling nor I was employed at Roosevelt Rehabilitation Center twenty years ago, and I can tell you categorically that our administration has no knowledge whatsoever of any twin siblings ever being treated in the manner you just described."
+
+"Furthermore, Senator," Commissioner Sterling jumped in quickly, holding up both hands as if erecting a brick wall across the desk, "even if someone claiming to be a former client from 2007 contacted your office with those allegations, you know our hands are tied by federal law. Under Title 34, Section 361.38 of the Code of Federal Regulations governing the State Vocational Rehabilitation Services Program, all personal client case files, disciplinary logs, and vocational evaluation records are strictly confidential. We are legally prohibited from confirming, denying, or discussing any individual client's personal file—even with a United States Senator—without an explicit written privacy release signed by the former clients themselves."
+
+Katie let the silence hang across the mahogany desk for five full seconds, watching the two executives squirm behind their federal privacy statute while they thought they had successfully walled off the question.
+
+Then Katie reached across our wheelchair armrests, laced her fingers through mine, and looked Director Cross and Commissioner Sterling dead in the eye.
+
+"You don't need to worry about violating Title 34, Section 361.38 of the Code of Federal Regulations, Commissioner Sterling," Katie said softly. "Because the twenty-one-year-old twin brother and sister in those March 2007 Barton Hall files are sitting right across this desk from you."
+
+Every drop of color drained out of Director Cross's face. Commissioner Sterling's jaw literally dropped open.
+
+"My twin brother Nathaniel and I checked into Barton Hall on Sunday, March 4, 2007, and we walked out twelve days later after watching how your center operated," Katie said, her voice steady and cold as steel. "In your DARS computer database in Richmond, the junior United States Senator from Virginia and her twin brother are officially coded as Status 28 unsuccessful rehabilitation dropouts—because after we walked out of Barton Hall and spent a few days working on the copied PHP modules from our house in Virginia Beach, we decided to stop wasting our time on your modules and build our own software company instead of becoming a ValueMart door greeter. And right here, across this desk, Nathaniel and I waive our confidentiality."
+
+"S-Senator Prairie," Commissioner Sterling stammered, his hand trembling against his briefing binder, "we had no idea—your official biography only lists the Community College of Hampton Roads—"
+
+"Because we didn't graduate from Roosevelt Rehabilitation Center—we dropped out after twelve days when we saw what a bureaucratic circus it was," I said evenly from my wheelchair beside Katie. "And wait until you hear why our Thursday morning Level 1 restriction meeting with our counselor never happened on March 15, 2007."
+
+Katie reached to her right, picked up a thick manila constituent casework folder from the corner of her desk, and laid it open directly on top of Director Cross's glossy funding brochure.
+
+"On Wednesday night, March 14, 2007," Katie said, tapping the sworn affidavit clipped inside the folder, "your dorm database was scrambled, and your front-desk staff blindly followed the computer printout and handed out room keycards that put men into women's rooms. The exact same male student who broke my nose in your therapeutic pool on Tuesday afternoon used a reassigned keycard to enter the women's wing, where he raped our classmate Natalie—a chronologically adult woman who has the cognitive capacity of a young child. And on Thursday morning, March 15, 2007, while your counseling wing canceled our ten-o'clock closet write-up meeting because the housing roster was in chaos, your administration put Natalie's rapist into a passenger van and escorted him off the property without ever calling the Virginia State Police or the Augusta County Sheriff's Office—sweeping a violent campus rape under the rug so it wouldn't appear on a state incident report."
+
+"Senator," Director Cross whispered, her voice shaking, "again, under federal confidentiality rules, we could never discuss another client's—"
+
+"Read the top page of that folder, Director Cross," Katie said flatly. "Natalie's mother holds full legal Guardianship and Conservatorship over Natalie under the laws of the Commonwealth of Virginia. Last month, after watching my swearing-in ceremony on television, Natalie and her mother contacted this office and filed an official constituent complaint against Roosevelt Rehabilitation Center and DARS with their United States Senator—complete with a notarized HIPAA and 34 C.F.R. Section 361.38 privacy waiver signed by Natalie's mother as her legal guardian and conservator. And both Natalie and her mother will be sitting in the front row of Room 124 on Thursday morning when the two of you testify under oath before the Appropriations Subcommittee."
+
+***
+
+#### Thursday, February 18, 2027, 10:00 AM — The Subcommittee Hearing & Strings Attached on Every Federal Dollar
+
+Forty-eight hours later, at ten o'clock on Thursday morning inside Room 124 of the Dirksen Senate Office Building, the crystal chandeliers gleamed above the curved mahogany dais of the Senate Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies.
+
+Sitting in my SwiftChair in the staff bay immediately behind Katie's custom-ramped place on the Subcommittee dais, I looked out past the green-baize witness table—where Commissioner Marcus Sterling and Director Evelyn Cross sat stiffly behind their microphones—to the very first row of the public seating gallery.
+
+Sitting side by side in the front row were forty-one-year-old Natalie and her sixty-eight-year-old mother, holding hands as they looked up at Katie on the dais.
+
+"The Chair recognizes the Senator from Virginia, Senator Prairie, for five minutes of questioning," the Subcommittee Chairman announced, tapping his gavel gently.
+
+Katie leaned slightly toward her microphone from her SwiftChair, her royal-blue blazer crisp beneath the television lights.
+
+"Thank you, Mr. Chairman," Katie said clearly. "Commissioner Sterling, Director Cross, before we begin, I ask unanimous consent to enter into the permanent hearing record the sworn constituent complaint and signed guardianship privacy release submitted by a Virginia mother who holds legal Guardianship and Conservatorship over her daughter, Natalie, detailing the events of March 14 and March 15, 2007 at Roosevelt Rehabilitation Center in Fishersville, Virginia—and for the public record, I will state in open session what I shared with both of you in my office on Tuesday: in March of 2007, my twin brother Nathaniel and I spent twelve days as residential Level 2 clients in Barton Hall at Roosevelt Rehabilitation Center before dropping out."
+
+A quiet murmur rippled across the press table and the staff benches along the wall as reporters scribbled furiously in their notebooks.
+
+"During those twelve days in March 2007," Katie continued, her voice ringing with calm, forensic precision across the marble hearing room, "my brother and I—already holding Associate of Applied Science degrees from the Community College of Hampton Roads—had our wheelchair push-handles grabbed without our consent by Center staff, were forced to tour auto mechanics, woodworking, and nursing shops before being pitched on a partnership with ValueMart to work as a door greeter, were threatened with expulsion and a Level 1 dorm-grounding and sibling-separation contract after my nose was broken open in the therapeutic pool, and then watched on the morning of March 15, 2007 as Center administration escorted the perpetrator who had just raped Natalie in the dormitories into a van and sent him off campus without calling the police."
+
+At the witness table, Commissioner Sterling swallowed hard into his microphone. "Senator Prairie, as we expressed to you on Tuesday, neither Dr. Cross nor I was with the agency in 2007, and we are horrified by what Natalie and her family—and you and your brother—experienced twenty years ago."
+
+"Words don't reform institutions, Commissioner—appropriations language does," Katie replied evenly. "You have come to Washington asking this Subcommittee for eighteen point five million dollars in federal funding. As a United States Senator from Virginia sitting on this Committee, let me make my position crystal clear: I refuse to entertain a single federal dollar for Roosevelt Rehabilitation Center or the Virginia Department for Aging and Rehabilitative Services until you carry out the specific institutional reforms my office has placed on this table."
+
+Holding up the five-page statutory rider I had drafted with Sarah the night before, Katie read the strings attached into the *Congressional Record* one by one:
+
+"First, DARS and Roosevelt Rehabilitation Center will issue a formal written institutional apology to Natalie and her mother, open their 2007 administrative files to an independent audit by the Virginia Office of the State Inspector General, and adopt an ironclad, zero-tolerance mandatory reporting policy requiring Center staff to notify the Virginia State Police and local law enforcement within one hour of any report of sexual or physical assault on campus—with immediate termination and criminal referral for any administrator who attempts to escort a suspect off property or conceal a crime to protect campus statistics.
+
+"Second, the Center handbook and staff training manual will be permanently amended to recognize that a wheelchair is an extension of the person sitting in it, prohibiting any staff member from grabbing or pushing a client's wheelchair or push-handles without explicit consent.
+
+"Third, DARS will end the practice of forcing clients who already hold accredited college degrees or documented technical proficiencies through two-week manual-trade Vocational Evaluation tours or pitching them low-wage retail greeter placements just to pad evaluation rosters, and will ensure that vocational technology classrooms are equipped with modern, unlocked developer workstations rather than outdated VITA-locked desktops.
+
+"Fourth, Residential Services will abolish forced daytime separation directives and punitive Level 1 isolation contracts against adult family members and siblings who rely on one another for disability and sensory support.
+
+"And fifth, federal disbursement will be tied to independent audits of real educational and career outcomes—never to 'butts-in-seats' residential headcount quotas."
+
+Katie lowered the statutory rider onto her desk and looked squarely down from the dais at the two administrators.
+
+"Until those five reforms are signed, implemented, and verified in Fishersville, Commissioner Sterling, my hold on your federal funding remains in place. Do we understand each other?"
+
+"Yes, Senator Prairie," Commissioner Sterling and Director Cross answered into their microphones in unison. "We will implement every single one of them."
+
+In the front row of the gallery behind the witness table, Natalie's mother wiped a tear from her cheek and mouthed a silent *Thank you* up toward the dais. Beside Katie's wheelchair, I reached out and squeezed my twin sister's hand—two twelve-day RRC dropouts who had gone home to do their own thing, and had just rewritten the rules for every disabled student who would ever roll through the doors of Fishersville again.
 
 ## The Norfolk Carrier Leak, Suite 756 at Timberline Shopping Center, & Three Convictions in the Senate
 
