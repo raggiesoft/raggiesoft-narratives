@@ -4039,7 +4039,117 @@ Without waiting for a single exit interview or the canceled Thursday counselor w
 
 When Dad pulled into the driveway off Military Highway in Virginia Beach at dusk that Sunday evening and unlocked the front door at the top of the aluminum wheelchair ramp, Katie and I transferred out of the travel frames right back into our full-size SwiftChair power wheelchairs, rolled side by side to our familiar dining table, and opened our laptop lids together just as Tina, Sheila, and Jim's names lit up green on our screens.
 
-# Back Home in Virginia Beach & The Kempsville City Council
+# Unofficial Homeowners: Back Home in Virginia Beach
+
+## One Bedroom, One Office, & The Closet Sanctuary
+
+### Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use
+
+**Date:** 2007-03-18 at 18:30 America/New_York
+
+![Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch off Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print—while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg)
+
+#### Sunday, March 18, 2007, 6:30 PM — Unofficial Homeowners & The Address on Our State ID Cards
+
+"Oh, thank goodness," Katie breathed at six-thirty on Sunday evening the second she slid off thefolding manual travel chair onto the padded contoured seat of her full-size black SwiftChair inside our front foyer, resting her right hand on the familiar fingertip joystick. "No rear push-handles for strangers to grab, no clunky clamp-on battery box underneath, and no yellow Level 2 Hall Pass required to roll down our own hallway."
+
+"Amen to that," I said, transferring into my own full-size SwiftChair right beside hers and powering on my controller as Dad lifted our two collapsed manual travel frames—spoked push-rim wheels and all—and tucked them neatly into the back of the front hall utility closet in case Tina or another friend ever picked us up in a compact car.
+
+Rolling side by side out of the foyer into the warm kitchen of the single-story brick ranch on Dyer Place off Military Highway and Indian River Road, Katie and I stopped by the dining table and simply took in the quiet. Outside the kitchen window, the familiar neighborhood streetlamps of Kempsville were flickering on in the March dusk.
+
+Dad walked in from the garage carrying the last of our suitcases from the bed of his pickup truck, set two newly cut brass house keys and a blue leather household binder on the table between our wheelchairs, and pulled up a wooden dining chair across from us.
+
+"Alright, you two," Dad said warmly, opening the front flap of the binder to show us the printed account sheet and sliding two reloadable Visa debit cards across the laminate tabletop toward our hands. "Before we start moving furniture and before I have to head back up to Alexandria tonight for work in Tysons Corner tomorrow morning, let's go over how everything works here so neither of you has to worry about a single bill. The mortgage on this house, the City of Virginia Beach real-estate taxes, the homeowner's insurance, the electric bill, the water and sewer, and the high-speed cable internet are all set to automatic payment straight out of my main checking account up in Northern Virginia. You don't ever have to touch a utility bill."
+
+He tapped the two debit cards sitting in front of Katie and me.
+
+"Every Friday morning when my paycheck clears, your grocery and spending money goes straight into this joint checking account," Dad continued. "Until your own software and web-development work starts paying what you want it to pay, every dime of your groceries, bus passes, computer parts, and spending money is covered. As far as day-to-day life goes, the two of you are the unofficial homeowners of 1201 Dyer Place."
+
+Katie reached into her crossbody bag, unzipped her wallet, and pulled out her laminated Virginia Department of Motor Vehicles identification card, setting it down on the table beside her debit card.
+
+"Look at the address line, Nate," Katie smiled, tapping the plastic card with her fingernail.
+
+I pulled my own wallet out of my jeans pocket and laid my Virginia State ID card right beside hers. Printed across the front of both cards in crisp black DMV block letters was the exact address where we were sitting: *1201 DYER PL, VIRGINIA BEACH, VA*.
+
+"We never even have to go to the DMV to change our address," I said, grinning across the table at Dad. "That's the exact address we've had on our State ID cards ever since the three of us left Mom back in September 2001. Neither of us ever bothered updating our IDs when Katie was up in Williamsburg or when I was over in Norfolk, because this house was always home base."
+
+"And because we turned eighteen right here at this table in April 2003 when we were seniors at Northwood High," Katie added, her blue eyes lighting up as she connected the dots, "our Virginia Beach voter registrations at the Kempsville precinct have been anchored to this exact address for four straight years too."
+
+"Which means as far as the Commonwealth of Virginia and the City of Virginia Beach are concerned," Dad chuckled, patting both of our hands across the table, "you never left. Now—I've still got three hours before I need to get on Interstate 64 and head up to Sunset Drive in Alexandria, and we've got three bedrooms down that hallway to set up the way you two want them. Tell the moving crew what the floorplan is."
+
+***
+
+#### 7:15 PM — Reconfiguring the Three Bedrooms: Dad's Room, Our Dual-Desk Office, & The Queen Bed With the Closet Sanctuary
+
+Katie and I exchanged a single glance across our wheelchair armrests—having already mapped out every square foot of the hallway during the drive down from Luray in the cab of Dad's pickup truck—and rolled side by side down the hardwood corridor with Dad walking right behind us.
+
+"First," I said, pausing outside the open door of the master bedroom at the end of the hall, "the master bedroom stays a hundred percent yours, Dad. Whenever you drive down from Alexandria on the weekends or for holidays, or whenever you have work down in Hampton Roads and need a place to sleep, your room and your bed are right here waiting for you."
+
+"Deal," Dad smiled. "What about the two bedrooms you two have had since 2001?"
+
+Katie released her joystick brake and rolled three feet left to the doorway of the middle bedroom—the room that had been mine during high school—before turning to point across the hall to the room that had been hers since 2001, where the framed watercolor print of a blue butterfly still hung on the cream drywall.
+
+"After twelve days of Barton Hall forcing us onto separate wings every night at eleven o'clock," Katie said firmly, her fingers lacing through mine between our chairs, "Nate and I made our decision together. We are living together in this house as brother and sister, and we don't want two separate sleeping bedrooms anymore. We're going to sleep in the room that was my bedroom, and put the queen-size bed in there."
+
+"And the bedroom that was my room," I picked up seamlessly, gesturing into my old room across the hall, "becomes our office. If we take my old twin bed frame out to the garage storage bay, we have a whole twelve-by-twelve room along the front window where we can put two wide computer desks side by side, wire our ethernet switch and our local Linux testing server right into the cable modem, and roll both of our SwiftChairs up next to each other all day while we work through Mr. Alderman's PHP and SQL modules with Tina, Sheila, and Jim."
+
+"And one more thing inside our bedroom," Katie added softly, looking up at Dad with earnest blue eyes as she pointed toward the wide double doors of her bedroom closet. "Inside the closet, we want to clear the floor completely clean and put our thick sleeping bag and four pillows down on the carpet—so whenever we want that quiet, confined space together to feel completely secure, it's already set up waiting for us."
+
+Dad looked at the two of us holding hands between our wheelchairs, and his expression softened with unmistakable fatherly pride and understanding. He didn't ask a single skeptical question, didn't lecture us about "normal" adult bedrooms, and didn't bat an eye.
+
+"Then let's get to work," Dad said, rolling up the sleeves of his flannel shirt.
+
+For the next hour and a half, the three of us transformed the hallway. First, Dad unbolted the steel rails of my old twin bed, stacked the frame neatly against the dry wall of the garage, and helped us slide two sturdy six-foot laminate worktables flush against each other along the wall of my old bedroom. While Katie organized our spiral notebooks and reference manuals on the lower bookshelf that we could reach easily from our wheelchair seats, I plugged our surge protectors, gigabit switch, and laptop docking cables underneath the desks—testing the clearance so both of our SwiftChairs could roll straight under the tabletop side by side with less than an inch between our armrests.
+
+Across the hall in Katie's room, Dad carried in the queen box spring and mattress, centered the headboard directly beneath the framed blue butterfly print, and helped us pull on the fitted cotton sheets and the soft navy-and-slate-blue queen comforter set we had bought together at Chesapeake Bay Mall back in November 2005.
+
+Then Dad stepped over to the wide bedroom closet, moved the low shoe rack and spare boxes into the hall storage cupboard, vacuumed the closet carpet from corner to corner, and helped us spread our thick double sleeping bag and quilted pad across the floor of the closet, banking four plush pillows in a neat row against the interior wall.
+
+![Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch off Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print—while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg)
+
+Stepping back with his hands on his hips, Dad looked from the freshly made navy-and-slate-blue queen bed in the center of the bedroom over to the open closet doors, where the sleeping bag and four pillows sat tucked inside the quiet three-by-six-foot alcove.
+
+A slow, knowing grin spread across Dad's face, and Katie and I started laughing right along with him.
+
+"Now, that queen bed looks mighty sharp sitting there in the middle of the room," Dad chuckled, shaking his head affectionately as he looked down at the two of us, "even if all three of us standing in this room know perfectly well that you two are probably going to sleep in that closet every single night."
+
+"Hey, the queen bed is great for reading code books in the afternoon and folding laundry," Katie giggled, her cheeks warming as she squeezed my hand, "and the closet doesn't have any windows or hallway noise."
+
+"And nobody in this house is ever going to yank the closet door open at eleven o'clock with a flashlight," I said quietly, looking at the soft pillows tucked inside the alcove.
+
+"Not in your house, Nate," Dad said firmly, resting a hand on my shoulder and then on Katie's. "In this house, you sleep wherever the two of you feel safest."
+
+***
+
+#### 9:45 PM — Dad Heads Back to Alexandria, Locking Our Front Door, & Our First Night Back in the Closet
+
+After a quick eight-thirty run up Indian River Road in Dad's pickup truck to load the kitchen refrigerator and pantry with two gallons of cold milk, cartons of chocolate milk, two twelve-packs of ginger ale, cereal boxes, bread, sandwich turkey, and frozen dinners, Katie and I rolled out onto the front porch at the top of our aluminum wheelchair ramp at quarter to ten to see Dad off.
+
+"I'll call you both tomorrow evening on my way home from Tysons Corner," Dad said, bending down in the cool March night air to wrap Katie and me in a tight three-way hug at the top of the ramp. "Have fun jumping into Module Four with Tina, Sheila, and Jim in the morning—and enjoy having your house back."
+
+"Drive safe up I-95, Dad, and call us when you get to Sunset Drive," Katie told him, hugging his neck before waving from her wheelchair as he climbed into the cab of his pickup truck.
+
+We sat side by side at the top of the aluminum ramp, holding hands as Dad backed down the driveway, tapped his horn twice in a soft goodbye, and turned out of Dyer Place toward Military Highway and Interstate 64.
+
+Once the red taillights disappeared behind the pine trees at the corner, we wheeled back across the threshold into the warm foyer, pushed the solid wooden front door shut, and turned the brass deadbolt until it clicked firmly into place.
+
+For the first time in our adult lives, the entire house was ours.
+
+Rolling side by side down the quiet hallway past our newly wired dual-desk office, we turned into our bedroom, changed into our soft cotton pajamas, and brushed our teeth at the bathroom sink. When we rolled back into the bedroom and clicked off the overhead ceiling fixture, only the warm amber glow of the small nightstand lamp illuminated the room.
+
+Right in front of us sat the pristine navy-and-slate-blue queen bed. Three feet to our right stood the open doors of the bedroom closet, where our thick sleeping bag and four plush pillows waited in the quiet, enclosed shadows.
+
+Katie looked at the queen bed, looked over at me from her wheelchair, and didn't even have to ask.
+
+"Closet?" I whispered with a smile.
+
+"Closet," Katie whispered back without half a second's hesitation.
+
+We rolled our two SwiftChairs right up to the edge of the open closet doorway, parked them side by side with our armrests touching, and switched off both joystick controllers. Lowering ourselves smoothly onto the padded sleeping bag inside the cozy three-wall enclosure, I reached out and pulled the closet door mostly shut until just a thin ribbon of warm light from the bedroom lamp filtered across the carpet, and then wrapped both of my arms securely around my twin sister.
+
+Katie tucked her head underneath my chin, let out a long, contented breath against my chest, and closed her eyes—the two of us drifting straight off to sleep in our own closet, in our own home, with nobody in the world to separate us ever again.
+
+# Do Better: Ideas for CVTA & The Kempsville City Council
 
 ## Do Better: Ideas for CVTA & The Four-Bus Mayoral Loop
 
