@@ -4485,7 +4485,7 @@ When I opened the Linux terminal window sixty seconds later and ran a fresh publ
 
 "Go ahead and refresh the page at the library now, Brenda," Katie whispered, leaning her head against my shoulder as she watched the clean terminal output on my screen. "You'll never find this house in a million years."
 
-## Twenty-Two in Alexandria: Riding DMV Transit, Senator James West's White House Tickets, & The Spark to Run for City Council
+## Twenty-Two in Alexandria: Riding DMV Transit, Senator James West's White House Tickets, The Spark to Run for City Council, & Two Blue Passports
 
 ### Part 1: Accessible Taxi to Newport News, The ARTS Train to Alexandria, & Riding Northern Virginia Transit on Our Twenty-Second Birthday
 
@@ -4614,6 +4614,84 @@ Then Katie opened a third browser tab and typed a search query into the address 
 "What are you pulling up now, Katie?" I asked softly, rolling my chair an inch closer to hers.
 
 "How old you have to be, how many registered voter signatures you need on a petition, and what forms you have to file to run for the Virginia Beach City Council," Katie answered, her voice steady as steel as the PDF loaded on her screen. "Look right here under Code of Virginia Section 24.2-501: eighteen years old, a qualified voter registered at your residential address in the Kempsville District—which we've had on our Virginia State ID cards and voter registration on Arvin Road since 2001—and one hundred twenty-five certified voter signatures. If the politicians on the Virginia Beach City Council won't ride the bus or let bus riders attend their six-o'clock meetings, Nate, then we're going to learn every rule in this book, and I'm going to run for City Council so we can make the changes from the inside."
+
+### Part 3: \
+
+**Date:** 2007-04-19 at 13:15 America/New_York
+
+![Inside a bright U.S. Post Office passport acceptance window in Virginia Beach on Thursday afternoon, April 19, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs raising their right hands to take the passport application oath in front of a uniformed postal clerk behind the counter—with their completed DS-11 forms, two-by-two passport photos, certified birth certificates, and horizontal Virginia State ID cards resting on the counter]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_post_office_passport_application_ds11_and_photos_katie_nate.jpg)
+
+#### Thursday, April 19, 2007, 1:15 PM — "What's This?" and Why We Wanted Passports
+
+"Wait a second—what's this?" the young teller behind the counter at the neighborhood bank branch asked on Thursday afternoon, squinting down at the brand-new horizontal plastic card I had just slid under the acrylic window alongside our business checking signature card. "Do you have a driver's license?"
+
+Sitting right beside my left wheel, Katie let out a slow, measured breath through her nose.
+
+"It's a Virginia State ID card," I told the teller patiently, tapping my finger against the words *COMMONWEALTH OF VIRGINIA — IDENTIFICATION CARD* printed in bold letters across the top of the laminate. "It's issued by the Virginia Department of Motor Vehicles, and it's an official state identification card."
+
+"Oh!" the teller blinked, glancing down through the glass partition at the two black motorized wheelchairs Katie and I were sitting in before her cheeks turned pink. "Right—sorry about that! I'm just so used to looking at driver's licenses all day that the top banner threw me off."
+
+Every single adult who doesn't drive knows that exact moment. On paper, under every state and federal statute in America, a valid DMV-issued State ID card is 100 percent equal to a driver's license for proving who you are. In the real world, however, an astonishing number of clerks, tellers, and receptionists stare at a State ID card as if you just handed them a laminated grocery-store coupon and ask, *"What's this?"* until you explain to them that it is, in fact, an ID card.
+
+As we rolled out of the bank lobby onto the sidewalk ten minutes later, Katie looked over at me with her mind already made up.
+
+"You know what we're doing this afternoon while we're already out on the bus, don't you, Nate?" Katie asked.
+
+"Getting United States Passports?" I grinned.
+
+"Getting United States Passports," Katie declared firmly. "First of all, after riding the ARTS train up to Alexandria and Washington last week, I want the two of us to have real passports so if we ever decide to take the train all the way up to Montreal or Toronto—or fly across the Atlantic one day—we don't have to wait three months for paperwork. And second of all, I would love to see anybody in the Commonwealth of Virginia look at an official United States Passport with the gold eagle on the cover and ask us, *'What's this?'*"
+
+***
+
+#### 2:30 PM — Form DS-11, Two-by-Two Photos, & Raising Our Right Hands at the Post Office
+
+That afternoon, back at our dual-desk office on Arvin Road, Katie and I downloaded two copies of U.S. Department of State Form DS-11—the official Application for a U.S. Passport for first-time adult applicants—and filled out every box in black ink, carefully leaving the signature line at the bottom blank just as the instructions required until we were standing in front of an authorized Acceptance Agent.
+
+From the fireproof steel document box Dad kept in the hall linen closet, we pulled out our original certified Commonwealth of Virginia birth certificates with the raised embossed seals from the Division of Vital Records in Richmond, tucked them into a rigid manila folder alongside our horizontal Virginia State ID cards and our checkbook, and rode the bus over to the U.S. Post Office passport window.
+
+"Two first-time adult passport applications and two sets of passport photos, please," Katie told the uniformed postal acceptance clerk at two-thirty as we rolled our SwiftChairs side by side up to the passport counter.
+
+"You two came prepared," the postal clerk smiled, checking our unsigned DS-11 forms and our raised-seal birth certificates before sliding a white pull-down screen down behind the end of the counter. "Roll right over here in front of the white screen one at a time so I can take your two-by-two photos. Glasses off, shoulders square to the lens, and give me a natural look looking straight into the camera."
+
+Because the backs of our SwiftChairs came up behind our shoulders in dark black upholstery, the clerk angled the camera slightly downward at seated eye level so the two-inch-by-two-inch frame captured our heads and shoulders cleanly against the plain white backdrop.
+
+While the photo printer behind the counter spat out two glossy sheets of twin two-by-two portraits and the clerk trimmed them with a heavy metal die-cutter, a newer postal clerk at the adjacent register leaned over to glance at the two horizontal Virginia cards Katie and I had laid on the counter.
+
+"Wait—what kind of cards are those?" the trainee clerk asked, squinting at the lack of a driver-class code.
+
+Katie and I looked at each other and burst out laughing at the exact same second.
+
+"They're Virginia State ID cards," Katie told him cheerfully. "And in about ten weeks, we're going to have two blue books to go right alongside them."
+
+"Don't mind him—state IDs are 100 percent valid primary photo identification for a DS-11," our passport acceptance clerk chuckled, copying our Virginia ID numbers onto the verification block of our applications and stapling one two-by-two photo to Katie's form and one to mine.
+
+She turned both clipboards around on the lowered counter and handed us each a black ballpoint pen.
+
+"All right, Katie and Nathaniel—please raise your right hands," the clerk said officially. "Do you solemnly swear or affirm that the statements made on this application are true and that the photograph attached is a true likeness of yourself?"
+
+![Inside a bright U.S. Post Office passport acceptance window in Virginia Beach on Thursday afternoon, April 19, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs raising their right hands to take the passport application oath in front of a uniformed postal clerk behind the counter—with their completed DS-11 forms, two-by-two passport photos, certified birth certificates, and horizontal Virginia State ID cards resting on the counter]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_post_office_passport_application_ds11_and_photos_katie_nate.jpg)
+
+"I do," Katie and I said together, our right hands raised side by side from our wheelchairs.
+
+Under the clerk's watchful eyes, we signed our full legal names inside the signature boxes on our DS-11 forms, wrote out the checks for the Department of State application fee and the Postal Service execution and photo fees, and watched her seal our applications and our certified birth certificates inside two tamper-evident transmittal pouches bound for the National Passport Center.
+
+***
+
+#### Ten Weeks Later (Saturday, June 30, 2007) — Two Crisp Blue Books in the Mailbox
+
+Because the spring and summer of 2007 saw the largest nationwide passport backlog in modern history—triggered by new federal rules requiring passports for air travel across the Western Hemisphere—the routine six-week wait stretched into ten full weeks.
+
+Every afternoon when the mail carrier walked up Arvin Road, I rolled out onto the front porch ramp to check the mailbox beside our front door.
+
+Then, on Saturday afternoon, June 30, 2007, I opened the metal mailbox lid and pulled out four stiff envelopes from the United States Department of State: two flat manila envelopes returning our original raised-seal Virginia birth certificates, and two Priority Mail envelopes with stiff cardboard inserts inside.
+
+"Katie!" I called out, wheeling straight down the hallway into our dual-desk office and holding up the four envelopes. "They're here!"
+
+Katie spun her SwiftChair away from her keyboard so fast her front casters chirped against the floor mat. Side by side, we tore open the tear-strips on the two Priority Mail envelopes and slid out two brand-new, dark navy-blue United States Passports, the gold Great Seal of the United States and the new biometric electronic-chip symbol gleaming across the textured front covers.
+
+Opening the inside covers, we stared down at our digitized two-by-two post-office portraits printed beneath the holographic eagles, valid for ten full years until June 2017.
+
+"Look at that, Nate," Katie smiled, holding her open passport beside mine so our two pages touched across our armrests. "Our own house on Arvin Road, our own software LLC, our horizontal Virginia State IDs, and now two United States Passports. Wherever the rails go next, we have our tickets."
 
 ## Associate Degrees in Hand, 'Not the Right Skill Match,' & Launching Prairie Twin Interactive From Arvin Road
 
