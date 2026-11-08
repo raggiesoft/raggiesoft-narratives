@@ -3381,6 +3381,78 @@ I looked at the calendar pinned beside our desk and did the math in my head. "In
 
 "That's three full years of building an archive, showing up in OmniSearch results whenever anyone looks up a CVTA bus route, and building a community of riders across Hampton Roads," Katie said, her voice steady and quietly determined. "If we start putting in the work right now in 2005, then by the time the 2008 Mayor's Race in Virginia Beach comes around, Ideas for Coastal Virginia Transit will already have its name out there—and maybe, for once, the people running to lead our city will actually have to pay attention to the people who ride the bus."
 
+### Part 6: The CCHR Disability Counselor, The Glossy Fishersville Pitch, & Why Brother and Sister Should Get to Share a Dorm Room
+
+**Date:** 2007-02-15 at 13:30 America/New_York
+
+![Inside Apartment 3 at Sea Breeze West in West Ocean View in February 2007, 21-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their dining-table computer desk with their father David standing warmly beside them, holding hands across their armrests as they look down at a glossy tri-fold brochure showing a sunny red-brick campus against the Blue Ridge Mountains, a computer lab, and a two-bed college-style dorm room while their half-pantry, half-coat hallway closet with its navy-blue sleeping bag on the carpeted floor is visible down the hallway behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2007_ocean_view_glossy_rrc_brochure_dorm_pitch_katie_nate.jpg)
+
+#### Thursday, February 15, 2007, 1:30 PM — "Have Neither of You Heard of DARS?"
+
+![Inside Apartment 3 at Sea Breeze West in West Ocean View in February 2007, 21-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their dining-table computer desk with their father David standing warmly beside them, holding hands across their armrests as they look down at a glossy tri-fold brochure showing a sunny red-brick campus against the Blue Ridge Mountains, a computer lab, and a two-bed college-style dorm room while their half-pantry, half-coat hallway closet with its navy-blue sleeping bag on the carpeted floor is visible down the hallway behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2007_ocean_view_glossy_rrc_brochure_dorm_pitch_katie_nate.jpg)
+
+"We've hit the ceiling of what static HTML and a hosted BlogSphere template can do, Mrs. Evans," I explained across the cluttered oak desk inside the Disability Support Services office at the Community College of Hampton Roads Virginia Beach Campus, where Katie and I sat parked wheel-to-wheel in our compact black SwiftChairs with our freshly issued Associate of Applied Science degree transcripts resting in our lap folders. "Over the past fourteen months, while we finished up our final semesters here at CCHR, Ideas for Coastal Virginia Transit has grown from zero readers to thousands of daily commuters across Hampton Roads. We want to build our own interactive timetable calculators and database-driven web applications from scratch—and for that, we need a real, intensive course in server-side PHP and SQL relational databases."
+
+"And our timing is pretty tight," Katie added, resting her hand across my left armrest. "Our apartment lease up on West Ocean View Avenue ends in two weeks on Wednesday, February twenty-eighth. Dad just landed a big new systems engineering job up in Tysons Corner starting Monday, March fifth, and bought a second house near King Street in Alexandria while keeping our brick ranch on Arvin Road here in Virginia Beach for the two of us. Since CCHR doesn't offer an intensive server-side PHP and SQL track this spring, we came by to ask if you knew of any specialized technical certificate programs we could take without racking up four-year university debt."
+
+Mrs. Evans, who had signed off on our wheelchair classroom seating accommodations ever since our freshman orientation back in the fall of 2003, took off her reading glasses and looked back and forth between the two of us in surprise.
+
+"Wait a minute, Katie, Nathaniel," Mrs. Evans said. "Have neither of you ever met with a counselor over at DARS?"
+
+Katie and I looked at each other across our armrests and shook our heads at the exact same time.
+
+"What's DARS?" Katie asked.
+
+"The Virginia Department for Aging and Rehabilitative Services," Mrs. Evans replied, pulling open her side file drawer and lifting out a crisp state directory folder. "Because both of you use power wheelchairs full-time with progressive neuromuscular weakness, you qualify for full state career-and-technical tuition sponsorship. They don't advertise on television or highway billboards, so a lot of college students have no idea it exists, but the Commonwealth operates a residential post-secondary campus up in the Shenandoah Valley in Fishersville—right between Staunton and Waynesboro—called Roosevelt Rehabilitation Center."
+
+At the word *rehabilitation*, both Katie and I instinctively frowned a little. Neither of us was looking for physical therapy or life-skills classes; we had lived in our own Norfolk apartments for three and a half years, rode public transit everywhere we went, and already held accredited associate degrees.
+
+Mrs. Evans noticed our expressions immediately and held up a reassuring hand. "Now, don't let the old 1940s name fool you—think of their Business and Information Technology division as a specialized technical college," she said warmly, sliding a printed course catalog sheet across her desk toward our wheelchairs. "Look right here at track BIT-204: Web Applications Developer. It is a dedicated, full-time classroom program teaching server-side PHP, SQL database design, and dynamic web application architecture. And because Fishersville is right off Interstate 81 and Interstate 64, it's only a two-hour drive down from your father's new place in Alexandria."
+
+Katie leaned over my armrest so our shoulders pressed together as we read the course description:
+
+> Business & Information Technology Division — Web Applications Developer<br>
+> Curriculum: Server-Side Scripting (PHP), Relational Database Management (SQL), Dynamic Web Architecture, & Client-Server Integration.<br>
+> Format: Self-paced, module-driven instruction in a dedicated campus computer laboratory with on-campus dormitory housing and dining included.
+
+"Server-side PHP and SQL, self-paced modules, and zero tuition debt," I murmured, my eyes lighting up as I traced the course outline. "If it's self-paced, Katie, two people who have been coding HTML since seventh grade and Quantum Basic since high school could breeze through those modules."
+
+"Let me call over to the regional DARS office on Newtown Road right now," Mrs. Evans smiled, reaching for her desk telephone. "If your Ocean View lease ends on the twenty-eighth and your dad starts his Tysons Corner schedule on Monday, March fifth, we can get your intake paperwork expedited this afternoon so you two can check into the dorms on Sunday, March fourth."
+
+***
+
+#### Friday, February 23, 2007, 6:30 PM — The Glossy Brochure Pitch & Our Twin XL Closet Plan
+
+Eight days later, on Friday evening inside Apartment 3 at Sea Breeze West, half-packed cardboard moving boxes sat stacked neatly along the front wall while Dad stood beside our repurposed dining-table computer desk with a steaming mug of coffee in his hand.
+
+Spread open across the wooden tabletop in front of our wheelchairs was the glossy, full-color tri-fold brochure and welcome packet that the regional DARS counselor on Newtown Road had handed us that afternoon—and if you went by the brochure and the counselor's pitch, Roosevelt Rehabilitation Center in Fishersville sounded like a hidden paradise for two twenty-one-year-old computer geeks.
+
+In the counselor's office, everything had been pitched as a seamless, adult college experience. Nobody had breathed a word about a two-week mandatory Vocational Evaluation, or touring auto mechanics and woodworking shops, or a Level 1 through Level 4 privilege system, or needing signed yellow paper Hall Passes just to leave campus, or nurses talking to grown adults like kindergarteners. Instead, the counselor had beamed at our CCHR transcripts, assured us that Fishersville was just like going away to a small residential college in the mountains—go to our Web Applications Developer class during the day, sleep in the dorm at night, and be done with it—and flipped open the glossy brochure to show us sunny photographs of red-brick buildings against the Blue Ridge foothills, a heated indoor pool, a student Recreation Hall, a campus dining hall, and a bright, tidy two-bed dormitory room in Barton Hall.
+
+"Look at the photo of the Barton Hall dorm room right here in the center panel, Dad," Katie said, tapping the glossy photograph showing two standard college Twin XL beds on opposite walls, two desks, and a wide closet door in the corner. "Dr. Carter's seating clinic already rigged up those two collapsible manual cross-brace wheelchair frames with right-armrest joystick drives for us this morning, so if we ever catch a ride into Waynesboro in a regular car, you just unclip the battery box and fold the frames into the trunk."
+
+"And the DARS counselor said tuition, textbooks, dorm rooms, and three meals a day in the cafeteria are a hundred percent covered," Dad said, looking down over our shoulders through his glasses at the brochure. "Since we're moving your furniture and desktop computer out of here down to the Arvin Road house in Virginia Beach on Wednesday when the lease ends, you two can spend Thursday through Saturday in your own bedrooms on Arvin Road, and I'll drive you straight up to Fishersville on Sunday morning, March fourth, on my way up to Alexandria before I start work in Tysons Corner on Monday."
+
+Once Dad carried a stack of packed book boxes out to the bed of his pickup truck, Katie and I turned our wheelchairs toward each other in front of the dining table and looked closely at the photograph of the two-bed Barton Hall dorm room.
+
+Nowhere in the glossy brochure did it say a single word about men and women being segregated into separate wings of the building, or about a rule forbidding opposite-gender room visits.
+
+"Okay, let's think the dorm setup through," I said quietly, reaching across our armrests to take Katie's hand. "We know dorm beds at any college are Twin XL, so one bed is going to be way too narrow for the two of us to sleep in together—even if we pushed it against the wall."
+
+"And we know why regular colleges normally separate guys and girls in the dorms," Katie replied with complete, matter-of-fact logic. "They don't want unrelated boyfriends and girlfriends hooking up in the dorm rooms, getting pregnant, or having some messy breakup in the middle of the semester where somebody refuses to move out."
+
+Katie squeezed my fingers, a warm, confident smile lighting up her face.
+
+"Except none of that applies to us, Nate," Katie said. "We're twin brother and sister! We can't break up! We've been at each other's side since we were little kids in cribs, and we've lived together every single day of our lives except for the fourteen months we were torn apart by our abusers. Since we're brother and sister—actual family—they should let us share one of those two-bed dorm rooms!"
+
+"That makes total sense," I agreed, nodding as I looked back down at the glossy photo of the dorm room closet door. "On paper, we'll put up with being assigned two separate Twin XL beds in the room so their housing chart is happy. And when it's actually bedtime and we close our dorm room door—"
+
+Katie glanced down our short carpeted right-hand hallway toward the open white bi-fold doors of our half-pantry, half-coat closet, where our shared navy-blue sleeping bag and two white pillows sat waiting on the carpeted floor beneath the four tiers of white wire pantry shelves.
+
+"—we'll just unroll our sleeping bag and cram ourselves into the dorm room closet to sleep cuddled up together like we always do!" Katie finished, grinning from ear to ear as she leaned across our armrests and wrapped both arms tightly around my neck. "Go to our PHP and SQL class during the day, eat in the dining hall, hang out in our room in the evening, and curl up together in the closet at night. We can totally make a dorm room work for a few months, Nate!"
+
+Holding my twin sister close in the warm living room of Apartment 3, I hugged her back with all my strength, resting my cheek against her blonde hair as we folded the glossy Fishersville brochure into our laptop bag and rolled down the hallway to get ready for bed in our closet sanctuary.
+
 # Twelve Days at Roosevelt Rehabilitation Center & Walking Out for Good
 
 ## Barton Hall Check-In, Rushing Voc Eval in One Week, & 'Door Greeter!?'
@@ -3409,13 +3481,15 @@ Looking down the wide cinder-block corridor, with its buzzing fluorescent troffe
 
 "Very smart," Linda said, sliding our two green folders and two brass room keys on plastic tags across the counter. "Now, for your initial Vocational Evaluation period here in Barton Hall, Nathaniel, your room is down on the men's wing, and Katie, you are in Room 157 over on the women's wing. Please remember that under Roosevelt Rehabilitation Center residential policy, there is strictly no visiting dorm rooms of the opposite gender."
 
-Katie and I looked at each other across our armrests, a cold knot tightening in the pit of my stomach. Neither of us had ever been interested in the "rehabilitation" part of Roosevelt Rehabilitation Center; we had only agreed to come up to Fishersville for one thing—the Web Applications Developer course in server-side PHP and SQL—and we had fully intended to treat RRC just like going to college: go to class during the day, sleep in the dorm at night, and be done with it. Nobody back at the Hampton Roads DARS office had warned us about a tiered privilege system, mandatory Vocational Evaluation, or juvenile dormitory rules.
+Katie and I looked at each other across our armrests as that announcement hit us like a bucket of ice water. Back in Norfolk, when we had looked at the glossy brochure from the DARS office showing a two-bed college-style dorm room in Barton Hall, we had figured that since regular colleges only separate men and women to keep couples from hooking up and having messy breakups—and since we were twin brother and sister who had been at each other's side since we were little and had lived together our entire lives except when we were separated by our abusers—they would let us share a room, put up with two Twin XL beds on paper, and cram ourselves into our sleeping bag in the dorm closet at bedtime.
 
-"Hold on, ma'am," I said, leaning forward in my chair. "Katie and I are fraternal twins. We just spent the last three and a half years sharing our own apartments down in Norfolk while we earned our associate degrees at the Community College of Hampton Roads. We only came here to take the Web Applications Developer class. We haven't slept under separate roofs a single night since our apartment in West Ocean View, and whenever one of us gets overwhelmed at night, the other one is right there."
+Keeping my voice completely polite, I leaned forward in my chair toward the counter.
 
-"I understand you're brother and sister, Nathaniel, and that you're used to sharing an apartment," Linda replied in a practiced, unyielding voice, tapping the highlighted paragraph on the housing sheet, "but this is a state residential facility, not an off-campus apartment. Opposite-gender room visitation between six and eleven in the evening is an earned privilege reserved exclusively for Level 4 clients over in Cantor Hall, and all newly arriving clients here in Barton Hall start at Level 2. You two are more than welcome to spend time together in the dorm lobby, the outdoor courtyard, the recreation hall, or the dining hall—just not inside the dorm rooms proper. Since you just arrived today, I'm going to escort you down the halls right now so you can help each other unpack your bags, but once your suitcases are unpacked, you'll each have to leave the other's room."
+"Excuse me, ma'am—I think there might be a misunderstanding," I said politely. "Katie and I aren't a couple; we're fraternal twins—brother and sister. We know dorms usually separate men and women so couples don't hook up and break up, and we thought since we're family, we'd be able to share one of the two-bed rooms. We've been at each other's side since we were little, we've lived together for the last three and a half years while earning our associate degrees at the Community College of Hampton Roads—except when we were separated by abusive partners—and whenever one of us gets overwhelmed at night, the other one is right there."
 
-Katie's jaw set hard, her fingers whitening on her armrest. As Linda stood up from her chair and stepped around the counter, the male residential staffer who had held the front door lingered by the office threshold, looked down at the standard rubber push-handles sticking out the back of Katie's folding frame, and reached both hands straight for her grips without asking as if he were about to wheel her down the corridor himself.
+"I understand you're brother and sister, Nathaniel, and that you're used to sharing an apartment," Linda replied in a practiced, unyielding voice, tapping the highlighted paragraph on the housing sheet, "but this is a state residential facility, not an off-campus apartment. Nobody shares a room across the gender line here, and opposite-gender room visitation between six and eleven in the evening is an earned privilege reserved exclusively for Level 4 clients over in Cantor Hall. All newly arriving clients here in Barton Hall start at Level 2. You two are more than welcome to spend time together in the dorm lobby, the outdoor courtyard, the recreation hall, or the dining hall—just not inside the dorm rooms proper. Since you just arrived today, I'm going to escort you down the halls right now so you can help each other unpack your bags, but once your suitcases are unpacked, you'll each have to leave the other's room."
+
+Katie and I exchanged a deeply unhappy look across our armrests, biting our tongues and staying polite at the counter even as our hearts sank at being forced into separate rooms on opposite wings. As Linda stood up from her chair and stepped around the counter, however, the male residential staffer who had held the front door lingered by the office threshold, looked down at the standard rubber push-handles sticking out the back of Katie's folding frame, and reached both hands straight for her grips without asking as if he were about to wheel her down the corridor himself.
 
 Katie clicked her joystick controller off, slammed both manual wheel-locks forward with a sharp metal *clack*, whipped her head around, and went straight after him with an aggressive edge in her voice that she almost never used back home.
 
@@ -7575,7 +7649,7 @@ Sitting in my compact black SwiftChair right beside my twin sister's left armres
 
 Neither Commissioner Sterling nor Director Cross had worked in Fishersville twenty years earlier in March of 2007; both were newly appointed career administrators who had taken over their roles within the past three years. Better still, neither of them had the faintest idea that the forty-one-year-old United States Senator sitting across from them—or her twin brother beside her—had ever set foot on the campus of Roosevelt Rehabilitation Center.
 
-Why would they? On every campaign biography, on our software company's corporate profile, and in the official *Congressional Directory* of the One Hundred Twentieth Congress, both Katie and I listed the exact same two academic credentials we had actually earned: an Advanced Studies Diploma from Virginia Beach City Public Schools at Northwood High School in June 2003, and an Associate of Applied Science degree from the Community College of Hampton Roads in May 2005.
+Why would they? On every campaign biography, on our software company's corporate profile, and in the official *Congressional Directory* of the One Hundred Twentieth Congress, both Katie and I listed the exact same two academic credentials we had actually earned: an Advanced Studies Diploma from Virginia Beach City Public Schools at Northwood High School in June 2003, and an Associate of Applied Science degree from the Community College of Hampton Roads in December 2006.
 
 We never listed Roosevelt Rehabilitation Center on a resume because, technically, Katie and I were RRC dropouts. We had walked out of Barton Hall after twelve days in March 2007 without completing the program, without sitting for an exit interview, and without earning a certificate—and not long after we had returned home to our house on Arvin Road in Virginia Beach and worked on a few of the copied classroom modules unofficially from home, we had decided to stop bothering with RRC's rigid exercises altogether and start doing our own thing.
 
