@@ -3955,21 +3955,13 @@ Neither of us slept a single wink all night, lying wide awake in each other's ar
 
 ***
 
-#### Thursday, March 15, 2007, 6:15 AM — "That Little Bitch Will Never Tell," Sweeping It Under the Rug, & A Shattered Natalie
+#### Thursday, March 15, 2007, 6:15 AM — Canceled Write-Up Meetings & Sweeping Wednesday Night Under the Rug
 
-At six-fifteen on Thursday morning, having not slept a minute, Katie, Tina, Sarah, and I dressed quietly and stepped out into the Barton Hall corridor—freezing in our tracks as two hushed male voices echoed from just around the corner by the stairwell.
+At six-fifteen on Thursday morning, having not slept a minute, Katie, Tina, Sarah, and I dressed quietly and rolled out of my room into the main Barton Hall lobby, where Herb and the weekday morning supervisor, Kellie, were standing behind the counter surrounded by stacks of handwritten room rosters.
 
-"That little bitch will never tell. You feel better, Chris?" a voice whispered.
+"Morning, you four," Kellie said in his deep voice, gesturing toward the dark computer terminal on his desk without a single word of reprimand about Katie sleeping in my room the night before. "Our housing database is still completely locked up from last night's scrambled bed reassignments, and the entire counseling wing is in an emergency staff meeting trying to sort out who is sleeping where—so Nathaniel, Katie, your counselor's ten-o'clock disciplinary meeting over Tuesday night's closet write-up is canceled."
 
-"Yeah, it felt good," Chris whispered back before the stairwell door clicked shut.
-
-Katie's hand tightened like a vise around mine. Thirty seconds later, as we rolled into the main lobby, Herb and the weekday morning supervisor, Kellie, waved the four of us into the residential office.
-
-"I'm glad it's you guys—you are good at investigating things," Kellie said in his deep voice, gesturing toward the dark computer terminal on his desk without a single word of reprimand about Katie sleeping in my room the night before. "Our housing database is still completely locked up from last night's scrambled bed reassignments—in fact, Nathaniel, Katie, your counselor's ten-o'clock disciplinary meeting over Tuesday night's closet write-up is canceled because none of the counselors can even pull up the residential files today. If you hear anything at all about how the roster got scrambled last night, please let us know."
-
-Keeping my left arm wrapped around my twin sister's shoulders, I looked straight across the desk at Kellie. "Yes, of course. Now, I just heard something in the hallway ten seconds ago that may or may not be related. Ask Chris about, and I quote, 'that bitch will never tell.'"
-
-Kellie's eyes narrowed sharply, and he reached for his radio as the four of us rolled back out of the office toward the dining hall breezeway.
+"Thank you for letting us know," I said, keeping my left arm wrapped around my twin sister's shoulders as the four of us rolled back out of the lobby toward the dining hall breezeway.
 
 Right outside the cafeteria doors, Katie gasped softly and pointed toward the concrete bench by the bushes. Sitting on the bench surrounded by three of her friends was Natalie, sobbing inconsolably and rocking back and forth.
 
@@ -3979,13 +3971,9 @@ Right outside the cafeteria doors, Katie gasped softly and pointed toward the co
 
 "Katie, I'm so glad I insisted on you spending the night with me," I whispered, holding her hand tightly as the dining hall doors opened at six-thirty.
 
-Carrying our trays to the far corner table away from the noise, Katie, Sarah, Tina, and I leaned in across the laminate tabletop.
+Carrying our trays to the far corner table away from the noise, Katie, Sarah, Tina, and I sat together in grim silence.
 
-"I think it is up to us to trace the timestamps and see what he did in the computer system," Sarah said quietly.
-
-"I think you're right," Katie replied, her jaw tight. "You know the center administration will drag its heels."
-
-"What happened to Natalie was an absolute disgrace," Tina said, shaking her head behind her glasses. "Someone needs to get to the bottom of this."
+"What happened to Natalie last night—and Chris walking straight up to your door with a dorm keycard twenty-four hours after breaking your nose in the pool—is an absolute disgrace," Tina said quietly behind her glasses. "And watch: the center administration is going to drag its heels and bury the whole thing so they don't look bad in Richmond."
 
 Trying to coax even a faint breath out of my pale sister, I tapped my plastic fork against the rock-hard gray square sitting on my plate that was supposed to be toast and asked rhetorically, "What is *this*?!"
 
@@ -4009,7 +3997,7 @@ Sitting side by side on the rear passenger bench seat holding hands through the 
 
 ![In the student parking lot outside the 1960s and 1970s flat-roofed red-brick buildings of Roosevelt Rehabilitation Center in Fishersville, Virginia on Friday afternoon, March 16, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side on the rear passenger bench seat of Tina's silver four-door compact sedan holding hands through the open rear door; at the open trunk of the car, Tina—a petite Caucasian middle-aged woman with glasses and straight jet-black hair—smiles back toward the twins as she easily lifts their collapsed black manual wheelchair frame (with spoked wheels, metal push-rims, rear rubber push-handles, and right-armrest joystick) into the trunk for the weekend drive up Route 340 to Luray]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_tina_compact_sedan_trunk_collapsing_wheelchairs_luray_trip.jpg)
 
-"Dr. Carter knew what he was doing when he had us leave our full-size SwiftChairs back at the house in Virginia Beach," I said, letting out a long breath as Tina closed the trunk lid, climbed behind the steering wheel, and turned out of the campus gates onto Route 250 toward Route 340 North.
+"Dr. Carter knew what she was doing when she had us leave our full-size SwiftChairs back at the house in Virginia Beach," I said, letting out a long breath as Tina closed the trunk lid, climbed behind the steering wheel, and turned out of the campus gates onto Route 250 toward Route 340 North.
 
 "Take a good look in the rearview mirror, you two," Tina said cheerfully as the flat-roofed 1960s and 1970s red-brick dormitories of Fishersville disappeared behind the tree line and the Blue Ridge Mountains rose to our right along the Shenandoah River. "Every Friday at three-thirty, I put that place in my mirror and don't think about a single clipboard until Monday morning."
 
