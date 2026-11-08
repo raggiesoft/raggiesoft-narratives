@@ -30,7 +30,9 @@ The opening brass fanfare of the *Galactic Samurai Geckos* theme song burst out 
 
 Then, just as quickly, the final drumbeat of the opening theme faded out, the episode title card appeared, and the two of us were brought gently back to earth.
 
-Without letting go of my hand, Katie dropped down onto the carpet right beside me, leaning her shoulder firmly against mine. I adjusted the volume knob down two notches so the dialogue wouldn't echo into the hallway, rested my back against the side of my bed frame, and let my sister's weight anchor me in place while the afternoon cartoons glowed across the quiet room.
+![In May 1994, nine-year-old fraternal twins Nathaniel and Katie Prairie sit together on the living-room sofa in front of their CRT television playing afternoon cartoons, wrapped in a warm, close two-arm sibling hug with Katie resting her head peacefully against Nate's shoulder.]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/may_1994_afternoon_cartoon_full_cuddle_sanctuary_katie_nate.jpg)
+
+Without letting go of my hand, Katie climbed up onto the sofa cushions right beside me and wrapped both of her arms tightly around my ribs, resting her cheek against my shoulder. I adjusted the volume knob down two notches so the dialogue wouldn't echo into the hallway, wrapped both of my arms around my twin sister in a close, steady embrace, and let the deep, familiar pressure of holding each other anchor us in place while the afternoon cartoons glowed across the quiet room.
 
 ## Summer Camp at Virginia Dominion University
 
@@ -3263,6 +3265,10 @@ By Saturday afternoon, when we rolled the boxes of toasted oat cereal, the blue 
 
 "You're welcome, sweetheart," Dad said, kissing the top of Katie's head and ruffling my hair as he glanced one more time toward the caving-in queen bed in the back bedroom with a quiet, determined look in his eyes. "And I promise you two—you aren't going to be stuck with that caving-in mattress forever. As soon as I get things lined up, I'm going to make sure the two of you have a real, brand-new queen bed of your own to share."
 
+![Inside the hallway of Sea Breeze West Apartment 3 in November 2005, twenty-year-old fraternal twins Katie and Nathaniel Prairie are tucked into their shared navy-blue quilted sleeping bag on the carpeted floor beneath the white wire pantry shelves and hanging winter coats of their newly built hallway closet, wrapped in a close, soothing two-arm embrace while their two empty black SwiftChair power wheelchairs sit parked in the hallway outside.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_closet_sleeping_bag_reunion_full_cuddle_katie_nate.jpg)
+
+That Saturday night, after Dad drove back across the water to Virginia Beach, Katie and I parked our two SwiftChairs side by side in the hallway, transferred down onto the soft carpet beneath the newly installed white wire pantry shelves and hanging winter coats, and zipped our navy-blue sleeping bag around us. Wrapping both arms tightly around each other with Katie's head tucked against my chest, we let the soothing deep pressure of our embrace quiet every last echo of the outside world until we drifted off to sleep.
+
 ### Part 5: The Seattle Transit Blog Inspiration & Quietly Launching Ideas for Coastal Virginia Transit
 
 **Date:** 2005-11-27 at 19:30 America/New_York
@@ -4159,6 +4165,8 @@ Pressing her warm cheek against my bare chest and tangling her legs with mine in
 
 #### Wednesday, March 21, 2007, 8:30 AM — Waking Up in Our Closet Sanctuary & Morning PHP With Tina, Sheila, and Jim
 
+![Inside their shared bedroom on Arvin Road in Kempsville in March 2007, while the wooden queen bed beneath the framed blue butterfly print sits completely untouched behind their two parked black SwiftChair power wheelchairs, twenty-one-year-old twins Katie and Nathaniel Prairie cuddle closely in a soothing two-arm embrace inside their shared sleeping bag on the floor of the open walk-in closet.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_arvin_road_bedroom_closet_full_cuddle_sanctuary_katie_nate.jpg)
+
 "You're warm," Katie murmured sleepily at eight-thirty on Wednesday morning, her bare shoulder pressed tightly against my chest inside our single shared sleeping bag on the carpeted floor of our bedroom closet.
 
 I kissed the top of her blonde hair in the quiet dark and kept my arms wrapped securely around her waist. Outside in the main bedroom, three feet past the nearly closed closet door, the navy-and-slate-blue comforter on our queen-size bed hadn't been unfolded once since Dad helped us make it on Sunday night.
@@ -4733,7 +4741,7 @@ He didn't stand stiffly behind a rope line or talk exclusively to Dad over our h
 
 "They were unforgettable, Senator West," Katie said, her voice clear and earnest as she shook his hand. "Thank you so much for having your office arrange our passes. We couldn't believe how quickly your staff called our dad back."
 
-"Don't ever let anyone tell you that these buildings belong to the lobbyists or the politicians, Katie," Senator West told her, looking from Katie's eyes to mine and then up at Dad. "This Capitol belongs to the people of Virginia—and my number-one job as your Senator is making sure when constituents from Virginia Beach knock on this door, somebody answers. I have to head over to the floor in ten minutes to speak on the transportation and veterans' appropriations bill, so I'm going to have Marcus take the three of you down to the Capitol subway right now so you can watch the live session from the front row of the gallery."
+"Don't ever let anyone tell you that these buildings belong to the lobbyists or the politicians, Katie," Senator West told her, looking from Katie's eyes to mine and then up at Dad. "The United States Capitol belongs to the people of the United States—and my number-one job as your Senator from Virginia is making sure when constituents from Virginia Beach knock on this door, somebody answers. I have to head over to the floor in ten minutes to speak on the transportation and veterans' appropriations bill, so I'm going to have Marcus take the three of you down to the Capitol subway right now so you can watch the live session from the front row of the gallery."
 
 Watching a sitting United States Senator take the time in the middle of a busy legislative afternoon to look us directly in the eyes and remind us that the Capitol belonged to the constituents who knocked on its door left an impression on my sister that neither of us would ever forget.
 
@@ -5764,7 +5772,9 @@ Before Dad headed back out to his pickup truck at five-thirty to beat the Friday
 
 "We'll be fine, Dad," Katie smiled, hugging him back as I squeezed his forearm. "We've got each other, we've got our laptops, and we've got a bus stop thirty feet from the front door."
 
-That Friday night, after eating a quiet supper of toasted cheese sandwiches and tomato soup at our window table while watching the headlights and blue-and-white JRTC buses roll down West Broad Street, Katie and I transferred out of our SwiftChairs onto the edge of our shared queen bed. Pulling our familiar Kempsville comforter up to our chins in the dark, we curled up facing each other with Katie's forehead resting against my collarbone and her fingers laced tightly through mine—safe inside our new Richmond perimeter.
+That Friday night, after eating a quiet supper of toasted cheese sandwiches and tomato soup at our window table while watching the headlights and blue-and-white JRTC buses roll down West Broad Street, Katie and I parked our two SwiftChairs beside the untouched queen bed in our exposed-brick bedroom and transferred down into our quilted navy-blue sleeping bag on the carpeted floor of the walk-in closet. Wrapping both arms closely around each other with Katie's cheek resting against my chest—feeling the calming deep pressure that always grounded us best in a brand-new city—we drifted off to sleep safe inside our new Richmond perimeter.
+
+![Inside Apartment 104 of the Broad & Boulevard Lofts in Richmond on the night of January 3, 2014, while the queen bed against the exposed red-brick wall sits untouched behind their two parked black SwiftChair power wheelchairs, 28-year-old Delegate-Elect Katie Prairie and her twin brother Nate cuddle closely in a soothing two-arm embrace inside their navy-blue sleeping bag on the floor of the walk-in closet.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2014_west_broad_street_loft_closet_full_cuddle_sanctuary_katie_nate.jpg)
 
 ***
 
@@ -7472,6 +7482,8 @@ Katie paused her fingers over her keyboard, and a slow, razor-sharp smile curved
 ***
 
 #### Sunday, January 3, 2027, 10:30 PM — The Private Ground-Floor Back Bedroom Sanctuary
+
+![Inside the ground-floor master bedroom of the Sunset Drive house in Alexandria on the night of January 3, 2027, while the dark mahogany sleigh bed beneath the framed blue butterfly print sits untouched behind their two parked black SwiftChair power wheelchairs, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate cuddle closely in a soothing two-arm embrace inside their navy-blue sleeping bag on the floor of the walk-in closet beneath her hanging navy Senate blazer.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_sunset_drive_senator_night_closet_full_cuddle_sanctuary_katie_nate.jpg)
 
 At ten-thirty, Dad shut down his remote-work laptop at the third desk, stood up with a gentle stretch, and kissed the top of Katie's head before resting a warm hand on my shoulder.
 
