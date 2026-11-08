@@ -7615,7 +7615,7 @@ Side by side at our desks—just as we had coded together since learning HTML in
 
 Katie paused her fingers over her keyboard, and a slow, razor-sharp smile curved across her lips as twenty years of memory flashed in her blue eyes.
 
-"Put them right on the calendar, Nate," Katie said softly. "I can't wait to ask DARS and the director of RRC whether they're still forcing twenty-one-year-old wheelchair users with associate degrees to tour the auto shop, the woodworking shop, and the nursing school before pitching them on a partnership with ValueMart to be a door greeter. And while they're sitting across from our wheelchairs asking for federal tax dollars, we're going to ask them under oath about aides grabbing clients' push-handles, locking twin siblings into separate Level 2 wings, accusing them of sneaking into a closet to have sex and then backing down the second they offer to go home because of the headcount funding formula I suspected back when we were twenty-one, and sweeping campus sexual assaults like Natalie's under the rug without calling the police."
+"Put them right on the calendar, Nate," Katie said softly. "I can't wait to ask DARS and the director of RRC whether they're still forcing twenty-one-year-old wheelchair users with associate degrees to tour the auto shop, the woodworking shop, and the nursing school before pitching them on a partnership with ValueMart to be a door greeter. And while they're sitting across from our wheelchairs asking for federal tax dollars, we're going to ask them under oath about aides grabbing clients' push-handles, locking twin siblings into separate Level 2 wings, accusing them of sneaking into a closet to have sex and then backing down the second they offer to go home because of the headcount funding formula I suspected back when we were twenty-one, and escorting the guy who attacked Natalie out to a van without calling the police."
 
 ***
 
@@ -7649,7 +7649,117 @@ Inside the warm cocoon of our shared sleeping bag in the dark closet, United Sta
 
 "Goodnight, Katie," I whispered back, holding my twin sister close as we drifted off to sleep in our sanctuary on Sunset Drive.
 
-### Part 4: 34 C.F.R. Section 361.38, Two Twelve-Day Dropouts in Room 511, & Strings Attached at the Subcommittee Hearing
+### Part 4: The Constituent Line in Room 511, 'Is Nathaniel Still With You?', & What Really Happened to Natalie
+
+**Date:** 2027-01-14 at 16:15 America/New_York
+
+![Inside Room 511 of the Dirksen Senate Office Building on the late afternoon of January 14, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs behind her mahogany desk holding hands tightly across their armrests as they listen with somber empathy and fierce resolve to the glowing speakerphone.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_dirksen_room_511_natalie_mother_phone_call_katie_nate.jpg)
+
+#### Thursday, January 14, 2027, 4:15 PM — "United States Senator Katie Prairie's Office, This Is Katie Speaking"
+
+![Inside Room 511 of the Dirksen Senate Office Building on the late afternoon of January 14, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs behind her mahogany desk holding hands tightly across their armrests as they listen with somber empathy and fierce resolve to the glowing speakerphone.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_dirksen_room_511_natalie_mother_phone_call_katie_nate.jpg)
+
+"Line Four in the front reception room has been blinking on hold for forty-five seconds while the interns are tied up on constituent casework calls," Katie said at quarter past four on Thursday afternoon—just eleven days after she had placed her left palm on the Constitution of the United States in the Old Senate Chamber—glancing up from the appropriations briefing binder on her mahogany desk in Room 511 of the Dirksen Senate Office Building.
+
+Sitting in my compact black SwiftChair right beside my twin sister's left armrest with my MagnaBook Pro open in front of me, I watched Katie reach over and press the flashing amber rollover button on her multi-line desk console. Ever since her first week on the Virginia Beach City Council seventeen years earlier, Katie had kept the same rule: if a constituent phone line rolled over to her desk while she was in the room, she picked up the receiver herself.
+
+"United States Senator Katie Prairie's office, this is Katie speaking," my sister said warmly as she lifted the handset to her ear. "How can I help you today?"
+
+Through the earpiece, I heard a sudden, startled intake of breath on the other end of the line, followed by the voice of an older Virginia woman speaking from a quiet living room.
+
+"Wait—oh, my goodness," the woman stammered softly. "Is this really Senator Katie Prairie herself answering the telephone?"
+
+"It is, ma'am," Katie smiled, resting her right forearm on her wheelchair armrest. "Every phone in this suite belongs to the people of Virginia. Who do I have the pleasure of speaking with?"
+
+There was a long pause on the line—the sound of a sixty-eight-year-old mother steadying her breath after carrying a weight in her chest for twenty years.
+
+"Senator Prairie, my name is Evelyn Brooks, and I'm calling from home here in Virginia on behalf of my forty-one-year-old daughter, Natalie," the woman said quietly. "I hold full court-ordered legal Guardianship and Conservatorship over Natalie. You may not remember my daughter's name after twenty years, Senator, because my husband and I know that you and your twin brother dropped out of Roosevelt Rehabilitation Center in Fishersville after only about a week and a half back in March of 2007."
+
+Sitting beside Katie, I saw my sister's entire body go completely still in her wheelchair.
+
+Her blue eyes widened, and her left hand immediately reached across the gap between our two SwiftChairs and gripped my fingers so tightly her knuckles turned white.
+
+"Did she just say *Natalie*?" I whispered, my heart slamming against my ribs as the cold mountain air of Thursday morning, March 15, 2007—and the sight of our sweet classmate sobbing and rocking back and forth on the concrete bench outside the RRC cafeteria—rushed back into the room as sharply as if it had happened yesterday.
+
+"Mrs. Brooks," Katie said into the receiver, her voice dropping an octave as emotion thickened in her throat, "I remember Natalie. I have never forgotten your daughter for a single day in twenty years. How did you know my brother and I were at RRC in March of 2007? We walked out after twelve days—we never graduated, and we've never listed Fishersville on a single biography or resume."
+
+"Natalie told me, Senator," Mrs. Brooks replied softly. "Back in October, when you were running for the United States Senate and your campaign commercials came on our living-room television showing you and your brother rolling side by side in your wheelchairs, Natalie sat bolt upright on the sofa and pointed right at the screen. As you know, Natalie is forty-one years old—the exact same age as the two of you—though because of her developmental disability, she has always had the mind and understanding of a six- or seven-year-old child. When she saw your face on the television, she said to me, *'Mommy, look! That's Katie and her twin brother from the computer class at the dorms! They were only there for about a week, and she had a white bandage on her nose, and she held my hand by the cafeteria when my tummy hurt before they went away!'* When I looked up your old 2007 dates and called one of the other mothers from that semester, I found out that you and your brother had walked out and dropped out of RRC the very same Friday I drove up to Fishersville to bring Natalie home."
+
+Katie closed her eyes for a second, a single tear slipping down her cheek as she held my hand.
+
+"Senator Prairie..." Mrs. Brooks hesitated on the line, her voice trembling slightly. "Is your twin brother Nathaniel still with you?"
+
+"Yes, ma'am," Katie answered immediately, looking straight into my eyes across our armrests. "Nate is my Chief of Staff, and he is sitting in his wheelchair right beside me."
+
+"If he is in the office with you right now," Mrs. Brooks said, her voice steady and quiet with a mother's resolve, "please put me on speakerphone, Senator. What I have to tell you is graphic and deeply disturbing, and I have cried over it every night for twenty years—but you and Nathaniel were there in Barton Hall that week, and I want Nathaniel to hear the whole story too."
+
+***
+
+#### On Speakerphone With Evelyn Brooks — The Night of March 14, 2007 & How Fishersville Buried a Crime
+
+"You're on speakerphone now, Mrs. Brooks, and the door to our office is closed," Katie said gently, setting the handset back into its cradle as the red speakerphone indicator glowed between our two wheelchairs. "I'm right here, and Nate is right beside me."
+
+"Hello, Mrs. Brooks," I said softly toward the console, keeping both of my hands wrapped around Katie's. "Katie and I are both listening. Please take all the time you need."
+
+"Thank you, Nathaniel," Mrs. Brooks said over the speaker, and in the background we could hear the faint, quiet hum of a television turned down low in her Virginia living room. "Before I tell you what happened to my little girl after the two of you saw her outside the cafeteria that Thursday morning, I want you to know that when we sent Natalie to Roosevelt Rehabilitation Center in early 2007 for the basic food-service and life-skills track, DARS promised my late husband and me on a stack of brochures that Barton Hall was a twenty-four-hour supervised, segregated sanctuary. They knew from Natalie's medical and guardianship chart that cognitively she is a first-grader—she trusts adults who tell her they are supposed to be somewhere, she cannot consent to sexual contact under Virginia law, and she did not even have the adult vocabulary to know what sexual intercourse was."
+
+Beside me, Katie's jaw clenched so hard a muscle jumped along her cheek.
+
+"On the night of Wednesday, March 14, 2007," Mrs. Brooks continued, her voice shaking as she spoke the words into the quiet Senate office, "Natalie was already in her cotton nightgown inside her room on the women's wing of Barton Hall after the staff reassigned her former roommate to another hall. As you two saw firsthand that night, the Center's housing database scrambled the male and female room assignments, and instead of stopping to check the gender roster, the front-desk staff blindly handed out active plastic room keycards that unlocked doors on the women's wing to male students."
+
+"Including Chris," I said quietly, my stomach knotting into cold iron as I remembered watching through my laptop webcam as Chris stood in Katie's doorway waving a reassigned keycard just twenty-four hours after breaking Katie's nose open and tearing her swimsuit top in the therapeutic pool.
+
+"His full name was Christopher Vance, and he had already been written up twice for sexually aggressive behavior toward female students before Tuesday's incident in the pool with you, Senator," Mrs. Brooks said. "At nine o'clock that Wednesday night—ten minutes before he walked down the hall and used his keycard on your door, Katie—he used that Center-issued keycard to unlock the door to Natalie's room."
+
+Katie pressed her free hand over her mouth, tears spilling over her eyelashes as Mrs. Brooks's voice cracked on the speakerphone.
+
+"When the door clicked open, Natalie thought it was a dorm counselor checking the room," Mrs. Brooks whispered, fighting through tears. "When she asked him why a boy was in her room, he locked the deadbolt from the inside, told her the front desk had assigned him to her bed, and shoved her down onto the mattress. When she tried to scream for help, he clamped his hand over her mouth and nose until she couldn't breathe, tore her nightgown off, and violently raped my daughter on that dormitory bed. Because Natalie only has the mind of a little child, she didn't even understand what he was doing to her body—she only knew that he was crushing her chest, that she was bleeding, and that the part of his body he used to hurt her felt like she was being torn apart inside. Before he unlocked the door and walked down the hall toward your room, Senator, he told her that if she came out of her room before morning, he would come back with his keycard and kill her. So my terrified child lay curled in a ball on those blood-soaked sheets in the dark all night long without sleeping a single minute."
+
+Across our armrests, Katie was crying silently, her fingers trembling inside mine while a cold, white-hot fury rose behind my eyes.
+
+"On Thursday morning at six-fifteen, when the sun came up, Natalie finally limped out toward the cafeteria in her clothes to find her friends—which is when the two of you, Tina, and Sarah saw her sobbing on the concrete bench outside the dining hall," Mrs. Brooks said. "You remember what she kept repeating through her tears?"
+
+*"That thing... he pees from..."* I whispered, the exact words from twenty years ago echoing verbatim in my ears.
+
+"Yes, Nathaniel," Mrs. Brooks wept softly. "That was the only way her seven-year-old mind knew how to describe what had been done to her. Her friends led her straight from that bench to the campus clinic at seven o'clock in the morning because she was bleeding through her jeans and crying from severe internal pain. And what Roosevelt Rehabilitation Center's administration did over the next twenty-four hours is something I will never forgive as long as I live."
+
+Mrs. Brooks drew a long, ragged breath on the speakerphone.
+
+"When the clinic nurse saw the blood and bruising and heard what Natalie said, the nurse notified the Center Director's office at seven-fifteen," Mrs. Brooks said, her voice turning hard and clear through her grief. "Under any standard of basic human decency, they should have dialed 911 immediately, called the Virginia State Police and the Augusta County Sheriff's Office, called me and my husband, and transported Natalie two miles up Route 250 to the emergency room at Augusta Medical Center for emergency medical treatment and a forensic sexual assault examination. They did none of those things. Because the administrators realized immediately that if State Police troopers and a forensic ambulance rolled onto campus, an investigation would expose that their own staff had handed a known predator a keycard to the women's wing twenty-four hours after he broke your nose in the pool—and that a violent felony rape had occurred inside a state-run dormitory."
+
+"So at seven-fifty that morning," Katie said, her voice shaking with cold outrage as the pieces locked together, "while Nate, Tina, Sarah, and I were rolling from the cafeteria to Mr. Alderman's classroom, we watched two RRC staffers escort Chris out to a passenger van by the front gate with his duffel bag—without a single police car in sight."
+
+"They drove him straight to the bus station in Staunton, bought him a one-way ticket out of Augusta County with petty cash, and logged his departure as a voluntary administrative withdrawal so his name wouldn't trigger a state critical-incident audit," Mrs. Brooks confirmed. "Meanwhile, while they were putting her rapist on a bus, they kept my bleeding, traumatized daughter locked inside a back observation room of the campus infirmary all day Thursday without calling a hospital or the police. While she was in the infirmary, residential housekeeping staff stripped her dormitory bed in Barton Hall and ran her bloodied sheets and nightgown through the industrial laundry with bleach. And at four-thirty on Thursday afternoon—nine and a half hours after Natalie walked into that clinic—a residential administrator finally called our house, lied to my face that Natalie was having a 'severe behavioral adjustment episode and acute homesickness,' and told me I needed to drive up to Fishersville on Friday morning to take her home."
+
+In Room 511, my knuckles were white around Katie's hand. Neither of us could speak for a moment.
+
+"When I arrived at Barton Hall at ten o'clock on Friday morning, March 16, 2007—just a few hours before you and Nathaniel left for Luray with your classmate Tina—staff rushed Natalie out the front doors with her suitcases already packed and didn't hand me a single medical chart," Mrs. Brooks continued. "Thirty-five minutes down Interstate 64, Natalie was whimpering and crying so badly in the passenger seat because it hurt her to sit down that I pulled off at a rest area, took her into the handicapped stall of the restroom, and saw that she was still bleeding through her clothes and covered in dark handprint bruises across her thighs and ribs. I drove straight to the nearest hospital emergency room."
+
+Mrs. Brooks's voice broke again, and she paused for three seconds to steady herself.
+
+"The emergency room physician and the forensic nurse examiner documented multiple internal lacerations and bruising consistent with a violent, forcible sexual assault roughly thirty-six to forty hours earlier," Mrs. Brooks said quietly. "When the hospital called the police and detectives went to Fishersville on Saturday morning, the Center had already bleached the bedding, sanitized the dorm room, sent the perpetrator out of the county without recording a forwarding address, and referred the detectives to DARS legal counsel in Richmond—who immediately threw up Title 34, Section 361.38 of the Code of Federal Regulations, claiming federal Vocational Rehabilitation privacy rules barred them from turning over any student rosters or disciplinary files without a federal court order. By the time our attorney fought through six months of bureaucratic stonewalling, the Commonwealth's Attorney told us that RRC's thirty-six-hour cover-up and laundry bleach had destroyed the physical DNA evidence chain they needed to prosecute. For the last twenty years, Natalie has slept with a hallway light on inside my house, terrified whenever a door lock clicks shut."
+
+Katie wiped the tears from her cheeks with the back of her wrist, her blue eyes blazing like blue steel in the late-afternoon light of Dirksen Room 511.
+
+"Mrs. Brooks," Katie said, her voice steady, fierce, and absolute, "next month, the Commissioner of DARS and the new Director of Roosevelt Rehabilitation Center are coming to this exact room—and then testifying before my Senate Appropriations Subcommittee—to ask for eighteen and a half million dollars in federal funding."
+
+"I know they are, Senator," Mrs. Brooks said softly. "Our family attorney saw the Subcommittee schedule published in the federal register on Monday. This morning, in front of a notary public, I executed a formal constituent complaint to your office along with a complete HIPAA and Title 34, Section 361.38 privacy release under my court-ordered Guardianship and Conservatorship, attached to the certified March 16, 2007 hospital emergency room forensic report and the Augusta County Sheriff's Office incident file. An overnight courier is delivering the sealed packet to Room 511 at nine o'clock tomorrow morning. For twenty years, those bureaucrats hid behind federal privacy laws to protect their funding and bury what they did to my daughter. Now the two students who walked out of Barton Hall that week are sitting in the United States Senate."
+
+Right then, a gentle, childlike forty-one-year-old voice spoke up from the sofa beside Mrs. Brooks on the other end of the line:
+
+*"Hi, Katie! Hi, Nate! Did your nose get all better from the swimming pool?"*
+
+My throat closed up completely, and beside me, a fresh tear rolled down Katie's cheek even as she smiled warmly toward the speakerphone as if Natalie could see her through the wire.
+
+"Hi, Natalie," Katie said softly, her voice full of the gentlest warmth in the world. "Yes, sweetie, my nose got all better—and Nate is sitting right here holding my hand, just like he always does."
+
+"Hi, Natalie," I said gently into the microphone. "It is so good to hear your voice."
+
+"Mrs. Brooks," Katie said, her voice ringing with quiet, unbreakable steel, "when DARS and Roosevelt Rehabilitation Center walk into Room 511 on Tuesday, February sixteenth, they aren't going to know that my brother and I are the two twelve-day March 2007 dropouts in their files—or that your signed guardianship waiver and hospital records are sitting right on my desk. And on Thursday morning, February eighteenth, at ten o'clock in Room 124 of the Dirksen Building, I want you and Natalie sitting right in the very front row of the Subcommittee hearing gallery when I put the truth into the permanent *Congressional Record* of the United States and freeze every single federal dollar they came to ask for."
+
+"We will be in the front row at ten o'clock sharp, Senator Prairie," Evelyn Brooks whispered through her tears. "Thank you—both of you—for not forgetting my little girl."
+
+### Part 5: 34 C.F.R. Section 361.38, Two Twelve-Day Dropouts in Room 511, & Strings Attached at the Subcommittee Hearing
 
 **Date:** 2027-02-16 at 14:00 America/New_York
 
@@ -7713,13 +7823,13 @@ Every drop of color drained out of Director Cross's face. Commissioner Sterling'
 
 "Because we didn't graduate from Roosevelt Rehabilitation Center—we dropped out after twelve days when we saw what a bureaucratic circus it was," I said evenly from my wheelchair beside Katie. "And wait until you hear why our Thursday morning Level 1 restriction meeting with our counselor never happened on March 15, 2007."
 
-Katie reached to her right, picked up a thick manila constituent casework folder from the corner of her desk, and laid it open directly on top of Director Cross's glossy funding brochure.
+Katie reached to her right, picked up the thick manila constituent casework folder that had arrived by courier a month earlier after [our January phone call with Evelyn Brooks](/katie/e011/c003/p004), and laid it open directly on top of Director Cross's glossy funding brochure.
 
-"On Wednesday night, March 14, 2007," Katie said, tapping the sworn affidavit clipped inside the folder, "your dorm database was scrambled, and your front-desk staff blindly followed the computer printout and handed out room keycards that put men into women's rooms. The exact same male student who broke my nose in your therapeutic pool on Tuesday afternoon used a reassigned keycard to enter the women's wing, where he raped our classmate Natalie—a chronologically adult woman who has the cognitive capacity of a young child. And on Thursday morning, March 15, 2007, while your counseling wing canceled our ten-o'clock closet write-up meeting because the housing roster was in chaos, your administration put Natalie's rapist into a passenger van and escorted him off the property without ever calling the Virginia State Police or the Augusta County Sheriff's Office—sweeping a violent campus rape under the rug so it wouldn't appear on a state incident report."
+"On Wednesday night, March 14, 2007," Katie said, tapping the sworn affidavit clipped inside the folder, "your dorm database was scrambled, and your front-desk staff blindly followed the computer printout and handed out room keycards that put men into women's rooms. The exact same male student who broke my nose in your therapeutic pool on Tuesday afternoon used a reassigned keycard to enter the women's wing, where he raped our classmate Natalie—a chronologically adult woman who has the cognitive capacity of a young child. And on Thursday, March 15, 2007, while your counseling wing canceled our ten-o'clock closet write-up meeting because the housing roster was in chaos, your administration put Natalie's rapist into a passenger van at seven-fifty in the morning and escorted him off the property without calling the police, held a bleeding, traumatized young woman inside your campus infirmary all day without a forensic exam while washing her dormitory bedsheets in the campus laundry, and lied to her mother that she was merely having a homesickness episode—sweeping a violent campus rape under the rug so it wouldn't appear on a state incident report."
 
 "Senator," Director Cross whispered, her voice shaking, "again, under federal confidentiality rules, we could never discuss another client's—"
 
-"Read the top page of that folder, Director Cross," Katie said flatly. "Natalie's mother holds full legal Guardianship and Conservatorship over Natalie under the laws of the Commonwealth of Virginia. Last month, after watching my swearing-in ceremony on television, Natalie and her mother contacted this office and filed an official constituent complaint against Roosevelt Rehabilitation Center and DARS with their United States Senator—complete with a notarized HIPAA and 34 C.F.R. Section 361.38 privacy waiver signed by Natalie's mother as her legal guardian and conservator. And both Natalie and her mother will be sitting in the front row of Room 124 on Thursday morning when the two of you testify under oath before the Appropriations Subcommittee."
+"Read the top page of that folder, Director Cross," Katie said flatly. "Natalie's mother, Evelyn Brooks, holds full legal Guardianship and Conservatorship over Natalie under the laws of the Commonwealth of Virginia. Last month, after Natalie recognized my brother and me on television from our week and a half in Fishersville and watched my swearing-in ceremony, Mrs. Brooks called this office directly and filed an official constituent complaint against Roosevelt Rehabilitation Center and DARS with her United States Senator—complete with the hospital emergency room records from March 16, 2007 and a notarized HIPAA and 34 C.F.R. Section 361.38 privacy waiver signed by Natalie's mother as her legal guardian and conservator. And both Natalie and her mother will be sitting in the front row of Room 124 on Thursday morning when the two of you testify under oath before the Appropriations Subcommittee."
 
 ***
 
@@ -7729,13 +7839,13 @@ Forty-eight hours later, at ten o'clock on Thursday morning inside Room 124 of t
 
 Sitting in my SwiftChair in the staff bay immediately behind Katie's custom-ramped place on the Subcommittee dais, I looked out past the green-baize witness table—where Commissioner Marcus Sterling and Director Evelyn Cross sat stiffly behind their microphones—to the very first row of the public seating gallery.
 
-Sitting side by side in the front row were forty-one-year-old Natalie and her sixty-eight-year-old mother, holding hands as they looked up at Katie on the dais.
+Sitting side by side in the front row were forty-one-year-old Natalie and her sixty-eight-year-old mother Evelyn, holding hands as they looked up at Katie on the dais.
 
 "The Chair recognizes the Senator from Virginia, Senator Prairie, for five minutes of questioning," the Subcommittee Chairman announced, tapping his gavel gently.
 
 Katie leaned slightly toward her microphone from her SwiftChair, her royal-blue blazer crisp beneath the television lights.
 
-"Thank you, Mr. Chairman," Katie said clearly. "Commissioner Sterling, Director Cross, before we begin, I ask unanimous consent to enter into the permanent hearing record the sworn constituent complaint and signed guardianship privacy release submitted by a Virginia mother who holds legal Guardianship and Conservatorship over her daughter, Natalie, detailing the events of March 14 and March 15, 2007 at Roosevelt Rehabilitation Center in Fishersville, Virginia—and for the public record, I will state in open session what I shared with both of you in my office on Tuesday: in March of 2007, my twin brother Nathaniel and I spent twelve days as residential Level 2 clients in Barton Hall at Roosevelt Rehabilitation Center before dropping out."
+"Thank you, Mr. Chairman," Katie said clearly. "Commissioner Sterling, Director Cross, before we begin, I ask unanimous consent to enter into the permanent hearing record the sworn constituent complaint, March 2007 hospital emergency room documentation, and signed guardianship privacy release submitted by Evelyn Brooks—a Virginia mother who holds legal Guardianship and Conservatorship over her daughter, Natalie—detailing the events of March 14 through March 16, 2007 at Roosevelt Rehabilitation Center in Fishersville, Virginia. And for the public record, I will state in open session what I shared with both of you in my office on Tuesday: in March of 2007, my twin brother Nathaniel and I spent twelve days as residential Level 2 clients in Barton Hall at Roosevelt Rehabilitation Center before dropping out."
 
 A quiet murmur rippled across the press table and the staff benches along the wall as reporters scribbled furiously in their notebooks.
 
@@ -7747,7 +7857,7 @@ At the witness table, Commissioner Sterling swallowed hard into his microphone. 
 
 Holding up the five-page statutory rider I had drafted with Sarah the night before, Katie read the strings attached into the *Congressional Record* one by one:
 
-"First, DARS and Roosevelt Rehabilitation Center will issue a formal written institutional apology to Natalie and her mother, open their 2007 administrative files to an independent audit by the Virginia Office of the State Inspector General, and adopt an ironclad, zero-tolerance mandatory reporting policy requiring Center staff to notify the Virginia State Police and local law enforcement within one hour of any report of sexual or physical assault on campus—with immediate termination and criminal referral for any administrator who attempts to escort a suspect off property or conceal a crime to protect campus statistics.
+"First, DARS and Roosevelt Rehabilitation Center will issue a formal written institutional apology to Natalie and her mother, open their 2007 administrative files to an independent audit by the Virginia Office of the State Inspector General, and adopt an ironclad, zero-tolerance mandatory reporting policy requiring Center staff to notify the Virginia State Police and local law enforcement within one hour of any report of sexual or physical assault on campus—with immediate termination and criminal referral for any administrator who attempts to escort a suspect off property, tamper with physical evidence, or conceal a crime to protect campus statistics.
 
 "Second, the Center handbook and staff training manual will be permanently amended to recognize that a wheelchair is an extension of the person sitting in it, prohibiting any staff member from grabbing or pushing a client's wheelchair or push-handles without explicit consent.
 
