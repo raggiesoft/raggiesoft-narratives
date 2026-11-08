@@ -4253,27 +4253,65 @@ Seven minutes later, a low-floor CVTA Route 12 coach with *12 CCHR* glowing acro
 
 ***
 
-#### 10:35 AM — Horizontal Cards Printed on the Spot at the Buckner Boulevard DMV
+#### 10:35 AM — Two Tickets (`B042` and `B043`), The DMV Waiting Rite of Passage, & Horizontal Cards Printed on the Spot
 
-Rolling through the double glass doors of the Buckner Boulevard DMV Customer Service Center at ten-thirty-five, we took a paper ticket from the dispenser at the information desk and waited less than fifteen minutes before our number flashed in red LED digits above Window 6.
+Rolling through the double glass doors of the Buckner Boulevard DMV Customer Service Center at ten-thirty-five, Katie and I wheeled side by side up to the check-in podium near the entrance.
+
+"Good morning," Katie told the information clerk. "My twin brother and I live together at the same address, and we both need to trade our vertical Under-21 State ID cards for horizontal cards now that we're over twenty-one. Can we just use one ticket number together?"
+
+"Sorry, honey—DMV policy is one ticket number per person, one transaction per ticket," the check-in clerk replied without missing a beat, tapping the touchscreen on the Q-Matic ticket dispenser twice and handing Katie a paper slip printed with **B042** and me a second slip printed with **B043**—the **B** prefix routing us into the queue for driver's license and identification card renewals and reissues.
+
+"Two separate ticket numbers for twins living in the same house," I grumbled under my breath as we rolled over to the open space beside the waiting room chairs.
+
+"At least they're right next to each other," Katie whispered back, glancing up at the red LED matrix board where **B039** was flashing. "How long could three numbers possibly take?"
+
+Famous last words.
+
+Over the next ten minutes, the robotic female voice on the overhead ceiling speakers chimed through **B040** and then called out:
+
+*"Ding-dong... Now serving... Customer Number... B-zero-four-one... at Window... four."*
+
+Katie and I both sat up straight in our SwiftChairs and rested our right hands on our joysticks, ready to roll the second **B042** was called.
+
+Instead, the DMV's automated queue computer decided that **B041** was the end of the **B** batch—and immediately launched into a twenty-five-minute marathon of every other letter in the alphabet.
+
+*"Ding-dong... Now serving... Customer Number... T-one-one-eight... at Window... nine,"* the robotic voice droned, routing vehicle title and registration paperwork down the hall.
+
+*"Ding-dong... Now serving... Customer Number... C-zero-two-seven... at Window... two,"* it chimed two minutes later for the compliance and suspension desk, followed by a string of **A** tickets for original learner's permits, **D** tickets for combined multi-step transactions, and **E** tickets for the express window.
+
+Every time the two-tone chime echoed across the acoustic ceiling tiles, Katie and I looked up expectantly at the red LED board—only to groan in unison as another **T** or **C** flashed on the display while **B042** and **B043** sat frozen in limbo.
+
+Finally—just when I was starting to wonder if the computer had forgotten the letter **B** existed—the speaker chimed again:
+
+*"Ding-dong... Now serving... Customer Number... B-zero-four-two... at Window... six."*
+
+"Finally!" Katie exhaled, and both of us pushed our joysticks forward to roll side by side up to the lowered accessible counter at Window 6.
+
+"Good morning to you both," the DMV representative behind Window 6 smiled as we pulled up.
+
+"Good morning, ma'am," Katie said, sliding her **B042** ticket and her 2001 vertical card across the laminate counter while I tried to slide **B043** and my vertical card right beside hers. "My brother and I both need new horizontal State ID cards now that we're over the age of twenty-one."
+
+The representative glanced down at my **B043** slip and shook her head with an apologetic smile. "I can't open **B043** in the computer until I close out **B042**, young man—you'll have to wait your turn until **B043** is called."
+
+I let out a quiet sigh and backed my SwiftChair half a foot to the right to wait my turn while the representative processed Katie's renewal first.
+
+Typing Katie's identification number into her terminal, the representative glanced at her screen. "Are you still at the same address on Arvin Road here in Virginia Beach that we've had on file since October 2001?"
+
+"Yes, ma'am—still the exact same house on Arvin Road," Katie smiled, confirming that her Virginia Beach voter registration in the Kempsville precinct was still current as well before rolling two feet over to the adjustable camera post in front of the pull-down sky-blue backdrop to have her new photo snapped.
+
+The second Katie's photo registered in the system and the representative closed out **B042** to send Katie's card to the thermal printer behind the counter, the representative pressed the queue button on her keyboard.
+
+Right above our heads, the ceiling speaker chimed:
+
+*"Ding-dong... Now serving... Customer Number... B-zero-four-three... at Window... six."*
+
+"Now it's officially your turn," the representative chuckled as I rolled my SwiftChair six inches forward to the exact spot Katie had just vacated and slid **B043** and my 2001 vertical card across the counter.
+
+After confirming that I also still lived at the exact same Arvin Road address on file since October 2001, verifying my voter registration, paying our two card fees with our joint debit card, and having my own picture snapped in front of the blue screen, I rolled right back beside Katie's chair at Window 6 while the thermal card printer behind the counter whirred through its second pass.
 
 ![Inside the Virginia DMV Customer Service Center on Buckner Boulevard in Virginia Beach on Friday morning, March 23, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the photo counter in front of the blue DMV backdrop as a friendly clerk hands them their warm, freshly printed horizontal 21-and-over Virginia State ID cards on the spot alongside their old 2001 vertical Under-21 cards]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_buckner_blvd_dmv_vertical_to_horizontal_state_ids_katie_nate.jpg)
 
-"Good morning to you both," the DMV clerk smiled as Katie and I rolled our two wheelchairs side by side up to the low accessible counter. "Trading in the vertical twenty-one cards for horizontal adult IDs today?"
-
-"Yes, ma'am," Katie said, sliding both of our 2001 vertical State ID cards and our completed renewal forms under the glass.
-
-The clerk typed our identification numbers into her terminal and glanced at the screen. "Are the two of you still at the same address on Arvin Road here in Virginia Beach that we've had on file since October 2001?"
-
-"Still the exact same house on Arvin Road," I smiled, exchanging a quiet, relieved glance with Katie at how effortless it was not having to produce a stack of leases or utility bills because we had never changed our address on file.
-
-"And would you both like to confirm that your Virginia Beach voter registration address is up to date while we're in your records today?" the clerk asked.
-
-"Yes, please," Katie answered immediately.
-
-After we paid the small card fee with our joint debit card, the clerk directed us two windows down to the photo station, lowered the camera lens on its adjustable post to match our seated eye level in front of the blue backdrop screen, and snapped our pictures one after the other.
-
-Five minutes later, the thermal card printer behind the counter whirred to a stop, and the clerk handed us two brand-new, still-warm plastic Virginia identification cards—printed horizontally at last, with no red Under-21 banner anywhere in sight and our Arvin Road address gleaming crisply across the front.
+A moment later, with both transactions completed, the representative smiled warmly and handed Katie and me our two brand-new, still-warm plastic Virginia identification cards—printed horizontally on the spot, with no red Under-21 banner anywhere in sight and our Arvin Road address gleaming crisply across the front.
 
 ***
 
@@ -4471,7 +4509,7 @@ Because Norfolk still had zero passenger rail service in 2007—forcing anyone o
 
 Even better, when we rolled with Dad through the short underpass beneath the railroad tracks and emerged onto the west side of the tunnel, Dad's two-story brick house on Sunset Drive sat right there at the foot of the hill—less than three minutes from both the ARTS train platforms and the elevated Capital Transit Yellow and Blue Line station at King Street.
 
-Inside the house, Dad had already set up the ground-floor front room for us with a portable aluminum threshold ramp over the front step, a roll-in shower bench in the downstairs bathroom, and a cleared, freshly vacuumed first-floor coat and linen closet where we immediately spread out our sleeping bag and four pillows. That night—our last night of being twenty-one—after eating Dad's homemade lasagna at the dining table, Katie and I slipped into that quiet downstairs closet, zipped our sleeping bag up around our shoulders, and slept skin to skin in each other's arms without a single worry in the world.
+Inside the house, Dad had already set up the ground-floor front room for us with a portable aluminum threshold ramp over the front step, a roll-in shower bench in the downstairs bathroom, and a cleared, freshly vacuumed first-floor coat and linen closet where we immediately spread out our sleeping bag and four pillows. Before we even unpacked our clothes, Katie and I proudly pulled out our lanyards at the dining table to show Dad the brand-new horizontal Virginia State ID cards we had gotten on Buckner Boulevard—both still showing our uninterrupted 2001 Arvin Road address, with the red Under-21 banners officially gone for good. That night—our last night of being twenty-one—after eating Dad's homemade lasagna at the dining table, Katie and I slipped into that quiet downstairs closet, zipped our sleeping bag up around our shoulders, and slept skin to skin in each other's arms without a single worry in the world.
 
 ***
 
@@ -4511,7 +4549,7 @@ When we finished our birthday cake at quarter past nine on a Sunday night and ro
 
 Katie looked down at the embossed pass in her hand, her blue eyes widening with quiet admiration. "A brand-new United States Senator actually had his office call a regular family back in two days just to help two twins in wheelchairs see the White House and the Capitol?"
 
-"Sure did," Dad said proudly as the uniformed Secret Service officers verified our Virginia IDs and guided our wheelchairs onto the step-free East Wing ramp and elevator. "And his staff told me he wants to step out and say hello to you two himself when we pick up our gallery passes at one-thirty."
+"Sure did," Dad said proudly as Katie and I beamed and handed our brand-new horizontal Virginia State ID cards to the uniformed Secret Service officers at the checkpoint, who checked our names against the cleared tour manifest and guided our wheelchairs onto the step-free East Wing ramp and elevator. "And his staff told me he wants to step out and say hello to you two himself when we pick up our gallery passes at one-thirty."
 
 For the next hour, rolling side by side across the polished marble and parquet floors of the White House while Katie and I kept our inner hands brushed together between our armrests, we took in every inch of history: the vaulted ground-floor corridor lined with presidential portraits, the elevator up to the State Floor, the gold silk drapes and towering crystal chandeliers of the East Room, the Green Room, the oval Blue Room overlooking the South Lawn, the Red Room, and the Lincoln portrait above the carved mantel in the State Dining Room.
 
@@ -4521,7 +4559,7 @@ Yet as unforgettable as the White House was, it was what happened that afternoon
 
 #### 1:45 PM — Meeting Senator James West & Looking Down From the U.S. Senate Gallery
 
-At one-forty-five, after riding the Capital Transit Blue Line from McPherson Square to Capitol South and rolling up the curb-cut walkways of Capitol Hill into the Senate Office Building, the three of us turned into the tall wooden double doors of Senator James West's suite.
+At one-forty-five, after riding the Capital Transit Blue Line from McPherson Square to Capitol South, proudly flashing our new horizontal Virginia State ID cards again at the Capitol Police security desk, and rolling up the curb-cut walkways of Capitol Hill into the Senate Office Building, the three of us turned into the tall wooden double doors of Senator James West's suite.
 
 Before the receptionist had even finished handing us our three blue cardboard United States Senate Gallery passes, the inner door of the Senator's office opened—and out walked Senator James West himself in his dark navy suit and striped tie.
 
@@ -4531,7 +4569,7 @@ He didn't stand stiffly behind a rope line or talk exclusively to Dad over our h
 
 "Thank you, Senator West," Katie said, her voice clear and earnest as she shook his hand. "We won't ever forget how warmly your office treated our family today."
 
-And she never did. Nearly twenty years later, on the January morning when Katie took her own oath of office as a United States Senator from Virginia, the very first rule she laid down to her incoming chief of staff was that every constituent letter, tour request, and disability casework call from Virginia was to be answered with the exact speed and respect Senator James West had shown us on our twenty-second birthday trip.
+Watching Senator West take the time in the middle of a busy legislative day to look us directly in the eyes and remind us that the Capitol belonged to the people who knocked on its door left an impression on my sister that neither of us would ever forget.
 
 Ten minutes later, a legislative aide escorted the three of us down the elevator to the underground Capitol subway tunnel, onto the accessible tram over to the Capitol basement, and up the Senate wing elevator to the third floor.
 
