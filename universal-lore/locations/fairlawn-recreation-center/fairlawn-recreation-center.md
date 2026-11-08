@@ -6,10 +6,12 @@ This document serves as a supplementary reference for specific architectural qui
 
 The original building functions as a 1:1 drop-in replacement for the Kempsville Recreation Center as it existed from the 1990s through 2006-2007. 
 
-### The Lobby Ramp
-*   An iconic, massive ramp in the lobby connects the 1st, 2nd, and 3rd floors.
-*   The ramp helixes around the edges of the walls.
-*   **Limitation:** Because the building was constructed in the 1970s, the ramp's slope may or may not be compliant with the 1990 ADA standards for wheelchairs.
+### The Lobby Ramp & Approved Visual Baseline (`fairlawn_1977_lobby_and_ramp_reference.jpg`)
+*   An iconic, massive unpainted concrete ramp in the lobby connects the 1st, 2nd, and 3rd floors, wrapping around behind the elevator enclosure and along the interior perimeter walls.
+*   **Strict Non-ADA Compliance (Pre-1990 ADA):** The real-life ramp is **NOT ADA compliant**, since the Americans with Disabilities Act (1990) did not exist when the building opened in **1977**. Its grade is steeper than modern ADA standards and requires either motorized power wheelchairs (like Katie and Nate Prairie's SwiftChairs) or a strong person pushing a manual wheelchair; otherwise, patrons in wheelchairs require front-desk staff to unlock the key-operated elevator next to the ramp.
+*   **Visual Reference & AI Image Generation Baseline:** While archival photos of the 1977 Kempsville Recreation Center's exterior, indoor pool, and gymnasium are preserved in `universal-lore/locations/fairlawn-recreation-center/` (`img-9660.jpg`–`img-9673.jpg`), no surviving real-world photographs of the 1977 lobby's iconic atrium ramp have ever been found. Therefore, **`fairlawn_1977_lobby_and_ramp_reference.jpg`** (also stored at `/Users/michael/Developer/ai-staging/raw-images/scenes/fairlawn_1977_lobby_and_ramp_baseline.jpg`) is the permanent, canonical visual baseline for the 1977 Fairlawn lobby:
+    *   **Exterior-to-Interior Vestibule Match:** Symmetrical 4-segment dark-bronze automatic sliding glass entrance vestibule (2 outer fixed glass pocket panels with horizontal guard rails + 2 center active sliding glass doors with yellow caution circles under rectangular transom windows, matching the approved `/jack-sarah` book cover `og/jack-sarah.jpg`).
+    *   **Lobby Layout:** 1977 brown-brick interior walls, speckled terrazzo floor, wood-laminate Front Desk counter on the left, closed brushed-steel elevator door with a staff key-switch on the right, and the unpainted gray concrete ramp with metal pipe handrails wrapping behind the elevator enclosure (strictly **no** freestanding spiral/helix staircase with steps).
 
 ### The Bowling Alley
 *   Original to the 1977 building.
