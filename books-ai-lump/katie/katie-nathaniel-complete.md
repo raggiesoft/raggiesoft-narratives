@@ -4485,7 +4485,7 @@ When I opened the Linux terminal window sixty seconds later and ran a fresh publ
 
 "Go ahead and refresh the page at the library now, Brenda," Katie whispered, leaning her head against my shoulder as she watched the clean terminal output on my screen. "You'll never find this house in a million years."
 
-## Twenty-Two in Alexandria: Riding DMV Transit, Senator James West's White House Tickets, The Spark to Run for City Council, & Two Blue Passports
+## Twenty-Two in Alexandria: Riding DMV Transit, Touring the White House & the U.S. Capitol, Meeting Senator James West, The Spark to Run for City Council, & Two Blue Passports
 
 ### Part 1: Accessible Taxi to Newport News, The ARTS Train to Alexandria, & Riding Northern Virginia Transit on Our Twenty-Second Birthday
 
@@ -4535,57 +4535,223 @@ When we finished our birthday cake at quarter past nine on a Sunday night and ro
 
 "Look at the clock on my phone, Nate," Katie said softly as we rolled off the nine-thirty bus at King Street and headed through the underpass back to Dad's house on Sunset Drive. "It's nine-thirty on a Sunday night, and families, restaurant workers, and people in wheelchairs are still riding buses and trains home without a single worry about getting stranded. Why can't Hampton Roads have this?"
 
-### Part 2: Senator James West's Tickets to the White House, Watching the U.S. Senate From the Gallery, & Why Can't We Ride the Bus to City Hall?
+### Part 2: Unclipping Our Backpacks, Where Is President George W. Walker Today?, & The White House Tour That Sparked a Political Calling
 
-**Date:** 2007-04-10 at 09:30 America/New_York
+**Date:** 2007-04-10 at 08:15 America/New_York
 
-![Inside the third-floor wheelchair-accessible visitor gallery overlooking the United States Senate Chamber at the U.S. Capitol on Tuesday afternoon, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding their official Senate Gallery passes beside their father David Prairie, looking down in rapt awe at the semicircular rows of mahogany Senate desks below]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_senate_gallery_and_senator_james_west_visit_katie_nate_david.jpg)
+![Inside the historic State Dining Room on the State Floor of the White House on Tuesday morning, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with no backpacks attached, holding hands across their armrests beside their father David Prairie and a Uniformed Secret Service Tour Officer as Katie looks up in quiet civic inspiration at the portrait of President Abraham Lincoln above the carved white marble fireplace mantel]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_white_house_state_floor_tour_fdr_and_lincoln_mantel_katie_nate_david.jpg)
 
-#### Tuesday, April 10, 2007, 9:30 AM — The White House Tour & A Newly Sworn-In Senator Who Answered His Mail
+#### Tuesday, April 10, 2007, 8:15 AM — Unclipping Our Wheelchair Backpacks on Sunset Drive
 
-"How on earth did you manage to score three confirmed passes to tour the White House on three weeks' notice, Dad?" Katie asked in amazement at nine-thirty on Tuesday morning as our two SwiftChairs rolled side by side past the wrought-iron gates along Pennsylvania Avenue toward the East Wing visitor entrance, holding the embossed constituent tour passes Dad had handed us at breakfast.
+"Hold it right there before you two roll out the front door," Dad said with a grin at eight-fifteen on Tuesday morning in the hallway of his brick house on Sunset Drive, holding up the printed instruction sheet from Senator James West's office. "Rule number one on the Secret Service boarding sheet: zero backpacks, zero bags, zero cameras, and zero cell phones allowed inside the White House—and there are no storage lockers at the gate."
 
-"By writing to our Senator from Virginia," Dad smiled, walking beside our wheelchairs with his Virginia driver's license and our tour confirmation letter in hand. "When you two decided in March to move back to Arvin Road and we planned this birthday week up here, I sent constituent tour requests to Capitol Hill. Everyone in Virginia knows our senior Senator, Senator John Warren, is a true elder statesman, of course, and his office was swamped with spring school groups—but our newly sworn-in junior Senator, Senator James West, just took office in January and wanted to show right out of the gate that he was working for his constituents. His constituent-services director called me back personally within forty-eight hours, cleared all three of us with the Secret Service for a morning White House tour, and invited us to come up to his Senate office this afternoon so we can watch the United States Senate in session."
+Katie glanced back over her shoulder at the black nylon backpack clipped to the backrest of her SwiftChair—where we normally carried our spare chargers, rain ponchos, and notebooks—and then looked over at mine.
 
-Katie looked down at the embossed pass in her hand, her blue eyes widening with quiet admiration. "A brand-new United States Senator actually had his office call a regular family back in two days just to help two twins in wheelchairs see the White House and the Capitol?"
+"Not even a wheelchair bag?" I asked, reaching behind Katie's backrest so we could unbuckle each other's straps.
 
-"Sure did," Dad said proudly as Katie and I beamed and handed our brand-new horizontal Virginia State ID cards to the uniformed Secret Service officers at the checkpoint, who checked our names against the cleared tour manifest and guided our wheelchairs onto the step-free East Wing ramp and elevator. "And his staff told me he wants to step out and say hello to you two himself when we pick up our gallery passes at one-thirty."
+"Not in 2007," Dad said, helping me lift Katie's backpack off her frame while she unclipped mine and set both bags neatly beside the hall coat rack. "If you show up at the East Wing gate on Fifteenth Street with a bag or a camera, the Secret Service turns you right around, and the nearest place to rent a storage locker is all the way over at Union Station. All the three of us need in our pockets today are our CapitalPass transit cards, our White House tour confirmation letter, and those brand-new horizontal Virginia State ID cards of yours."
 
-For the next hour, rolling side by side across the polished marble and parquet floors of the White House while Katie and I kept our inner hands brushed together between our armrests, we took in every inch of history: the vaulted ground-floor corridor lined with presidential portraits, the elevator up to the State Floor, the gold silk drapes and towering crystal chandeliers of the East Room, the Green Room, the oval Blue Room overlooking the South Lawn, the Red Room, and the Lincoln portrait above the carved mantel in the State Dining Room.
+"Good thing we spent three hours at the Buckner Boulevard DMV waiting on tickets B042 and B043," Katie laughed, patting her wallet pocket as our chairs felt noticeably lighter without our everyday packs hanging behind our shoulders.
 
-Yet as unforgettable as the White House was, it was what happened that afternoon at the other end of Pennsylvania Avenue that changed the entire trajectory of my twin sister's life.
+As we rolled side by side through the King Street railroad underpass toward the Blue Line platform on a crisp April morning, Katie looked up at Dad with genuine curiosity.
+
+"How on earth did you manage to score three confirmed passes to tour the White House on three weeks' notice anyway, Dad?" she asked.
+
+"By writing to our brand-new Senator from Virginia," Dad smiled as the elevator doors opened onto the King Street platform. "When you two decided in March to move back to Arvin Road and we planned this birthday week up here, I sent constituent tour requests to Capitol Hill. Everyone in Virginia knows our senior Senator, Senator John Warren, is an institution in the Senate, of course, and his office was booked solid with spring school trips—but our newly sworn-in junior Senator, Senator James West, just took office in January and wanted to prove right out of the gate that his office answers every constituent letter. His constituent-services director called me back personally within forty-eight hours, submitted our security clearance numbers to the Secret Service for a nine-thirty White House tour, and invited us up to his Senate office this afternoon to watch the Senate in session."
+
+Katie looked down at the embossed tour pass in her hand, her blue eyes widening with quiet respect. "A brand-new United States Senator actually had his office call a regular family back in two days just to help two twins in wheelchairs see the White House and the Capitol?"
+
+"Sure did," Dad said warmly as the northbound Blue Line train glided up to the platform edge. "And his staff told me he wants to step out of his office and say hello to you two himself when we pick up our gallery passes this afternoon."
 
 ***
 
-#### 1:45 PM — Meeting Senator James West & Looking Down From the U.S. Senate Gallery
+#### 9:25 AM — Flashing Our Horizontal State IDs at the East Wing & Where President George W. Walker Is Today
 
-At one-forty-five, after riding the Capital Transit Blue Line from McPherson Square to Capitol South, proudly flashing our new horizontal Virginia State ID cards again at the Capitol Police security desk, and rolling up the curb-cut walkways of Capitol Hill into the Senate Office Building, the three of us turned into the tall wooden double doors of Senator James West's suite.
+At nine-twenty-five, after riding the Blue Line elevator up to the sidewalk at McPherson Square and rolling two blocks down Fifteenth Street alongside the black wrought-iron perimeter fence of the White House grounds, the three of us approached the uniformed Secret Service checkpoint at the East Wing visitor entrance.
 
-Before the receptionist had even finished handing us our three blue cardboard United States Senate Gallery passes, the inner door of the Senator's office opened—and out walked Senator James West himself in his dark navy suit and striped tie.
+Side by side, Katie and I reached into our wallets and handed our brand-new horizontal twenty-one-and-over Virginia State ID cards up to the uniformed Secret Service officer at the podium.
 
-He didn't stand stiffly behind a rope line or talk exclusively to Dad over our heads the way so many adults did when they saw two twenty-two-year-old twins in motorized wheelchairs. Instead, Senator West walked straight across the carpet to our chairs, leaned down to look Katie and me directly in the eyes, and shook Katie's hand and then mine with a firm, warm grip.
+The officer held Katie's horizontal card and then mine alongside the cleared manifest clipboards, checked our photographs and our April 8, 1985 birthdates, and smiled down at both of us without a single blink.
 
-"Katie and Nathaniel, happy twenty-second birthday, and welcome to Washington," Senator West said in his steady Tidewater cadence. "My staff told me the two of you just finished your computer science degrees down at the Community College of Hampton Roads in Norfolk and run your own regional transit blog down at the coast. Don't ever let anyone tell you that these buildings belong to the lobbyists or the politicians. This Capitol belongs to you—and my number-one job as your Senator is making sure when constituents from Virginia Beach knock on this door, somebody answers."
+"Katie Prairie and Nathaniel Prairie from Virginia Beach," the officer said, handing our horizontal IDs back to us. "Happy twenty-second birthday to both of you, and welcome to the White House. Because you're in power wheelchairs, Officer Henderson right inside the East Wing doors will take your family up the accessible ramp and the visitor elevator so you don't miss a single room on the route."
 
-"Thank you, Senator West," Katie said, her voice clear and earnest as she shook his hand. "We won't ever forget how warmly your office treated our family today."
+"Thank you, sir," Katie and I said together, tucking our horizontal State ID cards proudly back into our pockets as we rolled smoothly through the security pavilion and into the wood-paneled East Wing lobby.
 
-Watching Senator West take the time in the middle of a busy legislative day to look us directly in the eyes and remind us that the Capitol belonged to the people who knocked on its door left an impression on my sister that neither of us would ever forget.
+Inside, a tall Uniformed Secret Service Tour Officer with a polished gold badge on his navy lapel—Officer Henderson—greeted the three of us warmly and guided our two SwiftChairs up the interior accessible ramp into the vaulted Ground Floor Corridor beneath the Executive Residence.
 
-Ten minutes later, a legislative aide escorted the three of us down the elevator to the underground Capitol subway tunnel, onto the accessible tram over to the Capitol basement, and up the Senate wing elevator to the third floor.
+As our small tour group paused outside the Vermeil Room—lined with gilded silver services and portraits of First Ladies—and then looked into the red-and-cream China Room and the book-lined White House Library, a father standing next to us in a windbreaker raised his hand.
 
-When the heavy padded doors of the Visitors' Gallery opened and Katie and I rolled our two SwiftChairs side by side into the front wheelchair alcove overlooking the United States Senate Chamber, Katie's breath caught audibly in her throat.
+"Excuse me, Officer," the man asked hopefully. "Is there any chance our tour group might catch a glimpse of President Walker walking down the hallway today?"
+
+Officer Henderson chuckled good-naturedly—the practiced, polite laugh of an officer who heard that exact question twenty times a morning.
+
+"I always hate to disappoint folks on their first trip, sir, but White House public tours almost never cross paths with the President," Officer Henderson explained warmly, gesturing toward the west end of the vaulted corridor. "Even when the President is in the building, his working offices are over in the West Wing, and the First Family's private living quarters are upstairs on the Second and Third Floors—completely separate from the historic Ground Floor and State Floor reception rooms we tour here. And on top of that, if you looked up at the flagpole over the roof when you walked in this morning, President George W. Walker isn't even in the District of Columbia right now."
+
+"Where is he today?" Katie asked curiously from her wheelchair.
+
+"President Walker flew back late last night from Yuma, Arizona, where he spent Monday touring the southwestern border," Officer Henderson replied, leading our three-person family over to the wood-paneled Visitor Elevator so we could ride up to the State Floor while the walking group climbed the marble stairs. "And about twenty minutes ago, he headed across the Potomac River into Northern Virginia—right over to American Legion Post 177 in Fairfax, Virginia—to deliver a ten-fifteen address to military families and veterans on the emergency supplemental appropriations bill."
+
+Inside the elevator cab, I leaned over my right armrest and whispered into Katie's ear with a grin.
+
+"Hold on, Katie," I murmured. "We rode the CCT bus right through the middle of Fairfax two days ago on our birthday, and today President Walker is in Fairfax while we're inside his house!"
+
+Katie had to press her lips together to keep from laughing out loud as the brass elevator doors slid open onto the State Floor.
+
+***
+
+#### 10:05 AM — FDR's Wheelchair in the East Room, John Adams's Prayer in the State Dining Room, & The Spark Inside Katie
+
+When we rolled out of the elevator into the vast, sunlit expanse of the East Room—with its gleaming oak parquet floors, gold silk damask draperies, and three towering Bohemian cut-glass chandeliers overhead—the lighthearted humor in Katie's eyes gave way to sudden, breathtaking awe.
+
+Officer Henderson walked beside our chairs across the polished floor, pausing beneath the full-length 1797 Gilbert Stuart portrait of George Washington—the famous canvas Dolley Madison had ordered unscrewed from the wall and carried to safety before British troops burned the White House in August 1814.
+
+Then Officer Henderson looked down at Katie's and my two black SwiftChairs and pointed toward the wide, flush oak thresholds connecting the rooms along the State Floor.
+
+"A lot of visitors don't realize it when they walk through these rooms," Officer Henderson told the three of us quietly, "but for twelve consecutive years—from March 1933 until April 1945, through the depths of the Great Depression and the entirety of the Second World War—the President of the United States governed this country from a wheelchair right across these exact parquet floors. President Franklin Delano Roosevelt had wooden ramps built over the thresholds of the East Wing and the State Floor long before accessibility laws existed, and he held his regular press conferences and wartime briefings right in these halls. And decades later, the coalition work that led to President George H.W. Walker signing the Americans with Disabilities Act out on the South Lawn on July 26, 1990 came right through these doors."
+
+Beside me, Katie's left hand found my right hand between our armrests and held on tight. Looking down at the oak parquet under her front casters—realizing that a President in a wheelchair had steered the United States through its darkest twentieth-century hours across the very floorboards beneath our tires—made the room feel less like a glass museum case and more like a living workshop of history.
+
+From the East Room, we rolled side by side through the silk-walled Green Room—Thomas Jefferson's old dining room—and into the oval Blue Room at the center of the South Portico, looking out the tall floor-to-ceiling windows across the South Lawn toward the Jefferson Memorial gleaming beyond the Tidal Basin. Passing through the parlor walls of the Empire-furnished Red Room, we rolled into the final major room on the State Floor: the State Dining Room.
+
+![Inside the historic State Dining Room on the State Floor of the White House on Tuesday morning, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with no backpacks attached, holding hands across their armrests beside their father David Prairie and a Uniformed Secret Service Tour Officer as Katie looks up in quiet civic inspiration at the portrait of President Abraham Lincoln above the carved white marble fireplace mantel]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_white_house_state_floor_tour_fdr_and_lincoln_mantel_katie_nate_david.jpg)
+
+Even with the velvet tour rope guiding visitors toward the Cross Hall, Officer Henderson let the three of us pause for a full minute in front of the carved white marble fireplace mantel on the west wall.
+
+Above the mantel hung George Peter Alexander Healy's portrait of Abraham Lincoln seated in quiet, heavy contemplation, his chin resting on his hand as he carried the weight of a divided nation. Directly beneath the portrait, carved into the stone frieze of the fireplace mantel at President Franklin Roosevelt's direction, were the words President John Adams had written to his wife Abigail on his second night in the unfinished White House in November 1800:
+
+*I Pray Heaven to Bestow the Best of Blessings on THIS HOUSE and on All that shall hereafter Inhabit it. May none but Honest and Wise Men ever Rule under This Roof.*
+
+I turned my head to look at my twin sister.
+
+Katie wasn't just admiring the painting or the gilded molding like a tourist anymore. Her posture in her SwiftChair was bolt upright, her blue eyes fixed on Lincoln's portrait and the carved words beneath it with a fierce, luminous intensity I had never seen on her face before.
+
+As we rolled out through the red-carpeted Cross Hall between the marble columns and emerged through the Entrance Hall onto the accessible ramp of the North Portico overlooking Pennsylvania Avenue, Dad noticed the quiet fire in Katie's eyes too.
+
+"You grew awfully quiet back there in the State Dining Room, Katie," Dad said gently as we paused on the North Portico driveway in the April sunshine. "What were you thinking about?"
+
+Katie looked back up at the white sandstone columns of the North Portico and then down at our two wheelchairs resting side by side on the pavement.
+
+"All my life, Dad," Katie said, her voice steady and almost startled by its own clarity, "whenever people on television talked about the White House or the government, it always felt like some distant planet run by people who didn't live in the real world we live in. Being inside those rooms—seeing the floors where President Roosevelt rolled his wheelchair, reading John Adams's prayer carved into that stone mantel, and realizing how many laws that affect every single day of our lives were signed or vetoed behind those walls—just made something click in my head."
+
+She looked straight at me, her fingers still linked with mine.
+
+"The people who govern in rooms like that aren't magical beings, Nate," Katie said softly. "They're just citizens who showed up and ran for office. And when people who ride public buses and use wheelchairs aren't in the room when the decisions get made, nobody speaks for us."
+
+### Part 3: Beneath the Capitol Dome: Touring the Crypt, the Rotunda, National Statuary Hall, & the Historic Old Senate Chamber
+
+**Date:** 2007-04-10 at 11:30 America/New_York
+
+![Inside the soaring neoclassical United States Capitol Rotunda at midday on Tuesday, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests beside their father David Prairie and a U.S. Capitol Guide in a crimson-red blazer, gazing up in wonder at the historic Revolutionary War paintings and the coffered dome overhead]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_capitol_rotunda_and_statuary_hall_tour_katie_nate_david.jpg)
+
+#### Tuesday, April 10, 2007, 11:30 AM — The Capitol Police Checkpoint & The Compass Stone in the Crypt
+
+From McPherson Square, the three of us rode the Capital Transit Blue Line beneath the National Mall to Capitol South Station, took the street elevator up to First Street SE in the late-morning sunshine, and rolled up the wide, curved walkways of Capitol Hill.
+
+Because the new underground Capitol Visitor Center on the East Front was still a massive fenced construction site in the spring of 2007, constituent tours entered through the accessible South Wing pavilion near Garfield Circle. Waiting right inside the accessible entrance with three yellow visitor badges was a cheerful twenty-three-year-old staff assistant from Senator James West's office named Marcus, standing alongside a gray-haired historian wearing the unmistakable crimson-red blazer of the United States Capitol Guide Service.
+
+"Welcome to the United States Capitol, Mr. Prairie, Katie, and Nathaniel," the U.S. Capitol Police officer at the screening table smiled as Katie and I proudly handed over our new horizontal twenty-one-and-over Virginia State ID cards for the second time that morning. "Still no bags or backpacks, I see—you two are making my job easy today! Right through the wide gate and enjoy your tour."
+
+Once we clipped our visitor passes to our collars, our red-blazered Capitol Guide—Mr. Galloway—led the three of us and Marcus onto the elevator up to the first floor and out into the circular sandstone colonnade of the Capitol Crypt.
+
+Forty massive Doric columns of Virginia Aquia Creek sandstone rose around us, supporting the vaulted groin arches that held up the weight of the Rotunda floor directly overhead.
+
+"Roll right over here to the center of the ring," Mr. Galloway invited us, gesturing toward a sunken white marble star set inside a brass ring in the center of the stone floor. "Right beneath your wheels is the Compass Stone—the exact geographic zero-point dividing Washington, D.C. into its four quadrants: Northwest, Northeast, Southwest, and Southeast. Every street address in the federal capital is measured outward from this single stone."
+
+Katie positioned her SwiftChair beside the brass ring so her front right caster rested on the Northeast line while mine rested on the Southeast line, reaching across her armrest to lace her fingers with mine.
+
+"Think about the sandstone in these forty columns, too," Dad remarked, running his hand admiringly along the warm, fossil-flecked grain of one of the pillars. "Quarried down on Aquia Creek in Stafford County, Virginia, and barged up the Potomac River more than two hundred years ago."
+
+***
+
+#### 12:00 PM — Looking Up Into the Capitol Rotunda
+
+A two-minute elevator ride brought the five of us up to the second floor, and when the bronze doors slid open and Katie and I rolled side by side through the sandstone archway into the United States Capitol Rotunda, both of us tilted our heads all the way back against our headrests in stunned silence.
+
+![Inside the soaring neoclassical United States Capitol Rotunda at midday on Tuesday, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests beside their father David Prairie and a U.S. Capitol Guide in a crimson-red blazer, gazing up in wonder at the historic Revolutionary War paintings and the coffered dome overhead]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_capitol_rotunda_and_statuary_hall_tour_katie_nate_david.jpg)
+
+Rising one hundred and eighty feet straight above our wheelchairs was the soaring white cast-iron canopy of the Capitol Dome, flooded with midday sunlight streaming through the ring of tall peristyle windows. At the very crown of the oculus, Constantino Brumidi's fresco—*The Apotheosis of Washington*—seemed to float in midair above the continuous three-hundred-foot painted stone belt of the Frieze of American History.
+
+Around the curved sandstone walls at floor level hung eight monumental historical oil paintings in heavy gilded frames, four of them painted from life by John Trumbull, who had served as George Washington's own aide-de-camp during the Revolutionary War.
+
+While other tourists snapped photos of *Declaration of Independence*, Katie rolled her SwiftChair slowly across the flagstones to stop directly in front of two paintings side by side: *Surrender of Lord Cornwallis*, painted on the fields of Yorktown just thirty-five miles up the road from our home in Virginia Beach, and *General George Washington Resigning His Commission* at Annapolis in December 1783.
+
+"Most visitors walk right past that fourth Trumbull painting on their way to Statuary Hall," Mr. Galloway observed approvingly, stepping up beside Katie's wheelchair and Dad. "Do you know why historians consider *General George Washington Resigning His Commission* the most important painting in the entire Rotunda?"
+
+"Because he gave the power back," Katie answered immediately, her eyes fixed on the painted parchment scroll in Washington's outstretched hand. "He had the Continental Army behind him, and he could have stayed in power for life like a king—Wait, that's what King George III said when they told him Washington was going to resign and go home to Mount Vernon, isn't it? That if he did that, he would be the greatest man in the world?"
+
+Mr. Galloway beamed from ear to ear. "Spot-on! In a republic, the highest office in the land doesn't belong to the person holding the commission—it's held in trust for the people and returned to civilian hands under the Constitution."
+
+***
+
+#### 12:35 PM — John Quincy Adams's Whisper Spot in National Statuary Hall & The Historic Old Senate Chamber
+
+Rolling south through the tall bronze doors out of the Rotunda, we entered the semicircular Greek Revival amphitheater of National Statuary Hall—the original chamber of the House of Representatives from 1807 until 1857, ringed with marble and bronze statues contributed by the states.
+
+Mr. Galloway guided Katie's and my wheelchairs over to a small brass plaque embedded in the black-and-white marble tiles on the east side of the floor, stamped with the name *JOHN QUINCY ADAMS*.
+
+"Wait right here on this brass marker, Katie and Nathaniel," Mr. Galloway said with a twinkle in his eye, walking thirty-five feet away across the crowded floor toward the opposite side of the hall and turning his back to us.
+
+Even with dozens of visitors talking across the room, Mr. Galloway's softest whisper traveled up the curved parabolic ceiling, bounced across the plaster arch overhead, and dropped straight down into Katie's and my ears as clearly as if he were leaning over our armrests:
+
+*"When John Quincy Adams served in the House of Representatives after leaving the Presidency, he sat at this exact desk—and he could hear every word the opposing party whispered on the other side of the chamber!"*
+
+Katie and I both grinned across the hall at him as Dad laughed out loud.
+
+Before we headed through the underground tunnel to grab lunch in the Senate cafeteria prior to our one-forty-five appointment with Senator West, Marcus and Mr. Galloway took us on one final elevator ride up to the semicircular gallery entrance of the historic Old Senate Chamber—the intimate, crimson-and-gold room where the United States Senate had debated the fate of the Union from 1810 until 1859, and where the Supreme Court of the United States had subsequently sat for seventy-five years until 1935.
+
+Looking across the two curved tiers of polished mahogany desks toward the crimson silk canopy and the gilded wooden eagle perched above the Vice President's dais, Katie asked Marcus and Mr. Galloway a question that made both men pause.
+
+"When a bill comes to the Senate today," Katie asked, pointing toward the front row of desks, "how much of the actual text gets written during the speeches on the floor versus inside the committee rooms before the cameras ever turn on?"
+
+"Ninety-five percent of it happens in committee and subcommittee markups, Katie," Marcus answered honestly, impressed by the question. "Floor speeches get the headlines on the six-o'clock news, but the Senators who sit down in committee, read every line of the statutory formulas, and write the amendments are the ones who actually decide whether a transit agency gets funded or a ramp gets built."
+
+Katie nodded slowly, filing every word of that answer away inside her memory as we turned our chairs toward the elevator.
+
+### Part 4: Meeting Senator James West, Watching the U.S. Senate From the Gallery, & Why Can't We Ride the Bus to City Hall?
+
+**Date:** 2007-04-10 at 13:45 America/New_York
 
 ![Inside the third-floor wheelchair-accessible visitor gallery overlooking the United States Senate Chamber at the U.S. Capitol on Tuesday afternoon, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding their official Senate Gallery passes beside their father David Prairie, looking down in rapt awe at the semicircular rows of mahogany Senate desks below]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_senate_gallery_and_senator_james_west_visit_katie_nate_david.jpg)
 
-Directly below our balcony railing stretched the semicircular tiers of a hundred historic mahogany desks on the blue patterned carpet of the Senate floor. Down at the marble rostrum, the presiding officer's gavel tapped once, the reading clerk called out an amendment number, and Senators rose behind their desks—including Senator James West and senior Senator John Warren on the Virginia aisle—to debate federal transportation and veterans' appropriations in live session.
+#### Tuesday, April 10, 2007, 1:45 PM — Meeting Senator James West & Riding the Capitol Subway
 
-For forty-five straight minutes, Katie didn't look away from that floor once. She leaned slightly forward in her SwiftChair, her left hand resting over mine on my armrest, watching how a single elected voice standing behind a desk could force an entire chamber—and an entire government agency—to put its numbers on the record and vote in the daylight.
+At one-forty-five, after eating lunch with Dad in the Senate cafeteria, the three of us rolled down the marble corridor of the Senate Office Building and turned through the tall wooden double doors of United States Senator James West's suite, where the Great Seal of the Commonwealth of Virginia hung beside the entrance.
+
+Before the receptionist had even finished handing us our three blue cardboard United States Senate Gallery passes, the inner door of the Senator's private office opened—and out walked Senator James West himself in his dark navy suit and striped tie.
+
+He didn't stand stiffly behind a rope line or talk exclusively to Dad over our heads the way so many adults did when they saw two twenty-two-year-old twins in motorized wheelchairs. Instead, Senator West walked straight across the reception carpet to our chairs, leaned down to look Katie and me directly in the eyes, and shook Katie's hand and then mine with a firm, warm grip.
+
+"Katie and Nathaniel, happy twenty-second birthday, and welcome to Washington," Senator West said in his steady Virginia cadence. "My staff told me the two of you just finished your computer science degrees down at the Community College of Hampton Roads in Norfolk, started your own vocational software course, and run your own regional transit blog down at the coast. How did the White House and the Capitol Rotunda treat you this morning?"
+
+"They were unforgettable, Senator West," Katie said, her voice clear and earnest as she shook his hand. "Thank you so much for having your office arrange our passes. We couldn't believe how quickly your staff called our dad back."
+
+"Don't ever let anyone tell you that these buildings belong to the lobbyists or the politicians, Katie," Senator West told her, looking from Katie's eyes to mine and then up at Dad. "This Capitol belongs to the people of Virginia—and my number-one job as your Senator is making sure when constituents from Virginia Beach knock on this door, somebody answers. I have to head over to the floor in ten minutes to speak on the transportation and veterans' appropriations bill, so I'm going to have Marcus take the three of you down to the Capitol subway right now so you can watch the live session from the front row of the gallery."
+
+Watching a sitting United States Senator take the time in the middle of a busy legislative afternoon to look us directly in the eyes and remind us that the Capitol belonged to the constituents who knocked on its door left an impression on my sister that neither of us would ever forget.
+
+Five minutes later, Marcus escorted the three of us down the elevator to the bright underground tunnel of the Capitol Subway system, guided our two SwiftChairs onto the level accessible car of the electric subway tram, and rode with us beneath Constitution Avenue straight into the basement of the Senate Wing.
+
+***
+
+#### 2:10 PM — Looking Down From the Third-Floor U.S. Senate Gallery
+
+Riding the Senate wing elevator up to the third floor, we followed the gallery doorkeeper's quiet hand signals through the heavy padded double doors of the Visitors' Gallery and rolled our two SwiftChairs side by side into the level wheelchair alcove overlooking the United States Senate Chamber.
+
+The moment we looked over the brass-and-mahogany balcony railing, Katie's breath caught audibly in her throat.
+
+![Inside the third-floor wheelchair-accessible visitor gallery overlooking the United States Senate Chamber at the U.S. Capitol on Tuesday afternoon, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding their official Senate Gallery passes beside their father David Prairie, looking down in rapt awe at the semicircular rows of mahogany Senate desks below]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_senate_gallery_and_senator_james_west_visit_katie_nate_david.jpg)
+
+Directly below us stretched the four semicircular tiers of a hundred historic mahogany desks arranged across the blue patterned carpet of the Senate floor. Down at the tiered marble rostrum, the presiding officer's gavel tapped once, the reading clerk called out the number of a pending amendment, and Senators rose behind their desks—including Senator James West and senior Senator John Warren on the Virginia aisle—to debate federal transit formula grants and veterans' medical care in live session.
+
+When Senator James West rose behind his desk to speak, he glanced up briefly toward the third-floor gallery alcove where the three of us were sitting and gave a subtle, respectful nod before addressing the Chair.
+
+For forty-five straight minutes, Katie didn't look away from the Senate floor once. She leaned slightly forward in her SwiftChair, her left hand resting warmly over mine on my armrest, watching how a single elected voice standing behind a mahogany desk could force an entire chamber—and an entire federal agency—to put its numbers on the public record and vote in the daylight.
 
 ***
 
 #### 8:30 PM — Back at Dad's Dining Table in Alexandria: The 5:30 PM Last Bus Home & How to Run for City Council
 
-That evening, after eating dinner near Capitol Hill and riding the Yellow Line train across the Potomac River bridge to King Street at eight-fifteen—transferring effortlessly onto a local evening bus just to see the neighborhood loop before rolling through the railroad underpass to Dad's brick house on Sunset Drive—Katie didn't head straight for the downstairs closet to rest.
+That evening, after eating dinner near Capitol Hill and riding the Yellow Line train across the Potomac River bridge to King Street at eight-fifteen—transferring effortlessly onto a local evening bus just to see the neighborhood loop before rolling through the railroad underpass and retrieving our wheelchair backpacks inside Dad's brick house on Sunset Drive—Katie didn't head straight for the downstairs closet to rest.
 
 Instead, she rolled her SwiftChair right up to Dad's dining table, opened her silver laptop beside mine, and pulled up two browser tabs side by side: the official meeting calendar of the Virginia Beach City Council, and the printed PDF timetables for Coastal Virginia Transit Authority Routes 12 and 33.
 
@@ -4593,7 +4759,7 @@ Dad walked in from the kitchen carrying three tall glasses of cold ginger ale, s
 
 Katie turned her laptop screen slightly so Dad and I could both see it, and her voice was shaking with genuine, righteous anger.
 
-"Look at what the three of us just did tonight here in Alexandria and Washington, Dad," Katie said, tapping the corner of her keyboard. "Today we toured the White House, watched the United States Senate in session at the Capitol, ate dinner at seven-thirty, and rode public trains and buses all the way back to Sunset Drive at eight-thirty at night without a single problem. Now look at the schedule back home in Virginia Beach—the largest city in the entire Commonwealth of Virginia!"
+"Look at what the three of us just did tonight here in Alexandria and Washington, Dad," Katie said, tapping the corner of her keyboard. "Today we toured the White House, toured the Capitol Rotunda and Statuary Hall, watched the United States Senate in session from the gallery, ate dinner at seven-thirty, and rode public trains and buses all the way back to Sunset Drive at eight-thirty at night without a single problem. Now look at the schedule back home in Virginia Beach—the largest city in the entire Commonwealth of Virginia!"
 
 She pointed her finger at the Virginia Beach City Council schedule on the left half of her screen, and then at the CVTA bus timetable on the right half.
 
@@ -4607,7 +4773,7 @@ I leaned in over my armrest and read the black-and-white timetable columns aloud
 
 Dad sat down in the wooden chair across from us, resting his forearms on the table as he looked at Katie. "And because none of the people sitting on the Virginia Beach City Council ever ride a bus, none of them even notices—or cares—that the schedule locks bus riders out of City Hall."
 
-Katie stared at the screen for a long, quiet moment—remembering the hundred mahogany desks she had looked down upon from the United States Senate Gallery that afternoon, and the words Senator James West had spoken to us in his reception room: *Don't ever let anyone tell you that these buildings belong to the lobbyists or the politicians.*
+Katie stared at the screen for a long, quiet moment—remembering President Roosevelt's wheelchair path across the State Floor of the White House, the portrait of Abraham Lincoln above John Adams's carved prayer, the hundred mahogany desks she had looked down upon from the United States Senate Gallery that afternoon, and the words Senator James West had spoken to us in his reception room: *Don't ever let anyone tell you that these buildings belong to the lobbyists or the politicians.*
 
 Then Katie opened a third browser tab and typed a search query into the address bar: *Commonwealth of Virginia State Board of Elections Candidate Qualification Guide — City Council*.
 
@@ -4615,7 +4781,7 @@ Then Katie opened a third browser tab and typed a search query into the address 
 
 "How old you have to be, how many registered voter signatures you need on a petition, and what forms you have to file to run for the Virginia Beach City Council," Katie answered, her voice steady as steel as the PDF loaded on her screen. "Look right here under Code of Virginia Section 24.2-501: eighteen years old, a qualified voter registered at your residential address in the Kempsville District—which we've had on our Virginia State ID cards and voter registration on Arvin Road since 2001—and one hundred twenty-five certified voter signatures. If the politicians on the Virginia Beach City Council won't ride the bus or let bus riders attend their six-o'clock meetings, Nate, then we're going to learn every rule in this book, and I'm going to run for City Council so we can make the changes from the inside."
 
-### Part 3: \
+### Part 5: \
 
 **Date:** 2007-04-19 at 13:15 America/New_York
 
@@ -4651,7 +4817,7 @@ From the fireproof steel document box Dad kept in the hall linen closet, we pull
 
 "Two first-time adult passport applications and two sets of passport photos, please," Katie told the uniformed postal acceptance clerk at two-thirty as we rolled our SwiftChairs side by side up to the passport counter.
 
-"You two came prepared," the postal clerk smiled, checking our unsigned DS-11 forms and our raised-seal birth certificates before sliding a white pull-down screen down behind the end of the counter. "Roll right over here in front of the white screen one at a time so I can take your two-by-two photos. Glasses off, shoulders square to the lens, and give me a natural look looking straight into the camera."
+"You two came prepared," the postal clerk smiled, checking our unsigned DS-11 forms and our raised-seal birth certificates before sliding a white pull-down screen down behind the end of the counter. "Roll right over here in front of the white screen one at a time so I can take your two-by-two photos. Chin level, shoulders square to the lens, and give me a natural look looking straight into the camera."
 
 Because the backs of our SwiftChairs came up behind our shoulders in dark black upholstery, the clerk angled the camera slightly downward at seated eye level so the two-inch-by-two-inch frame captured our heads and shoulders cleanly against the plain white backdrop.
 

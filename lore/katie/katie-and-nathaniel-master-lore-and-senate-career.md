@@ -434,6 +434,7 @@ Throughout her sixteen-year rise from the **Virginia Beach City Council** (`2011
 - **`MagnaByte` / `MagnaOS` / `MagnaBook Pro` / `MagnaPad` (`mPad`) / `MagnaVoice`** $\leftrightarrow$ *Real-World: **Apple** / **macOS** / **MacBook Pro** / **iPad** / **macOS VoiceOver screen reader***.
 - **`Relay`** $\leftrightarrow$ *Real-World: **Slack** (team messaging application)*.
 - **`GNN` (*Global News Network*) / `Beacon News` / `GBS` (*Global Broadcasting System* / *GBS Evening Report*)** $\leftrightarrow$ *Real-World: **CNN / MSNBC** / **Fox News** / **CBS-NBC-ABC Network News***.
+- **`President George H.W. Walker` (`41st President, 1989–1993`, signed the *ADA* on `July 26, 1990`) & `President George W. Walker` (`43rd President, 2001–2009`)** $\leftrightarrow$ *Real-World: **President George H.W. Bush** & **President George W. Bush** (on Tuesday morning, April 10, 2007 [`books/katie/e007/c003/p002.md`], when 22-year-old Katie, Nate, and David tour the White House, President George W. Walker has just returned the night before from **Yuma, Arizona** and is across the Potomac in **Fairfax, Virginia** speaking at **American Legion Post 177** on the Emergency Supplemental appropriations bill—explaining why constituent tours almost never see POTUS)*.
 
 ---
 
