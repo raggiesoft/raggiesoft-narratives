@@ -1141,15 +1141,15 @@ Without a second income—and with the cruise credit card bill and legal fees ha
 
 So Dad had put the two-story house up for sale—using the modest equity to wipe out Brenda's cruise debt completely and fund the small walk-away settlement check that Mr. Vance had conditioned on Brenda signing the Code of Virginia Section 20-121.4 divorce stipulation reverting to her maiden name, Walsh, so that just as Katie and I had asked, she no longer carried the Prairie name—and spent every evening for two weeks poring over rental listings, Virginia Beach school-zone boundary maps, and printed bus schedules from the Coastal Virginia Transit Authority.
 
-What Dad found was a stroke of pure logistical genius: a small, single-story brick ranch house for rent on a quiet side street just off Military Highway near the Indian River Road intersection, right where Virginia Beach met Norfolk and Chesapeake.
+What Dad found was a stroke of pure logistical genius: a small, single-story brick ranch house for rent on Arvin Road at the corner of Indian River Road just off Military Highway, right where Virginia Beach met Norfolk and Chesapeake.
 
-First, the rent was nearly four hundred dollars a month less than our old mortgage, bringing our monthly bills comfortably inside Dad's budget while he finished school at CCHR. Second, every single room in the little house—the living room, the eat-in kitchen, the hallway bathroom with its roll-up sink and shower transfer bench, and both bedrooms—sat on one flat ground floor, with a gentle aluminum ramp Dad had bolted over the two brick front porch steps. Third, because the house sat just inside the western edge of Northwood High School's zoned attendance boundary, Katie and I didn't have to change high schools in the middle of our Junior year, and a lift-equipped Virginia Beach school bus could pick us up right at the end of our driveway every weekday morning.
+First, the rent was nearly four hundred dollars a month less than our old mortgage, bringing our monthly bills comfortably inside Dad's budget while he finished school at CCHR. Second, every single room in the little house—the living room, the eat-in kitchen, the hallway bathroom with its roll-up sink and shower transfer bench, and our bedrooms—sat on one flat ground floor, with a gentle aluminum ramp Dad had bolted over the two brick front porch steps. Third, because the house sat just inside the western edge of Northwood High School's zoned attendance boundary, Katie and I didn't have to change high schools in the middle of our Junior year, and a lift-equipped Virginia Beach school bus could pick us up right at the end of our driveway every weekday morning.
 
-And fourth—the detail Dad was proudest of as he reassembled our two compact power wheelchairs beside the open rear doors of the car, locked the seats onto their posts, and dropped the battery boxes back into place—was what ran right along the massive eight-lane corridor of US-13 (Military Highway) at the end of our block.
+And fourth—the detail Dad was proudest of as he reassembled our two compact power wheelchairs beside the open rear doors of the car, locked the seats onto their posts, and dropped the battery boxes back into place—was what ran right along Indian River Road and the massive eight-lane corridor of US-13 (Military Highway) at the end of our block.
 
 "Slide back into your chairs and let's head out to the corner on Military Highway before the one-twenty-five bus gets here," Dad said, closing the trunk lid of the Holt sedan, helping Katie and me slide across the transfer board from the back seat into our waiting power chairs, and holding up a yellow-highlighted paper pamphlet folded in his hand. "Since Route 15 stays strictly out on Military Highway and doesn't turn into the neighborhood streets, I want to show you two how fast we can get out to the main road without having to break your power chairs down at all."
 
-Clicking our lap belts shut and flipping our armrests back down, Katie and I pressed the green power buttons on our armrest joysticks and hummed side by side down the smooth concrete sidewalk behind Dad. In less than three minutes, we turned the corner from our quiet residential block onto the wide sidewalk bordering Military Highway and Indian River Road, where four lanes of northbound traffic and four lanes of southbound traffic roared past a raised center median.
+Clicking our lap belts shut and flipping our armrests back down, Katie and I pressed the green power buttons on our armrest joysticks and hummed side by side down Arvin Road to Indian River Road behind Dad. In less than three minutes, we reached the corner of Military Highway and Indian River Road, where four lanes of northbound traffic and four lanes of southbound traffic roared past a raised center median.
 
 ***
 
@@ -3395,7 +3395,7 @@ I looked at the calendar pinned beside our desk and did the math in my head. "In
 
 Looking down the wide cinder-block corridor, with its buzzing fluorescent troffers and faded 1970s brass plaques reminding visitors that the facility had stood on these former World War II Army hospital grounds since November 1947, I reached across my armrest and brushed my knuckles against Katie's fingers. She gave my hand a quick, grounding squeeze before we rolled into the intake office behind a wooden counter.
 
-"Here are their updated medical clearances and my emergency contact numbers," Dad said, setting a manila folder on the blotter in front of the Sunday residential coordinator, a middle-aged woman whose plastic badge read *Linda*. "You'll see two addresses listed for me. My Virginia driver's license has my new primary residence on Sunset Drive near King Street in Alexandria, right down the road from my new engineering job in Tysons Corner, and the second number is our brick ranch off Military Highway and Indian River Road down in Virginia Beach. I bought that Virginia Beach house from my old landlord years ago and kept it when their West Ocean View apartment lease ended on Wednesday so the twins always have their familiar home and routine waiting for them in Hampton Roads."
+"Here are their updated medical clearances and my emergency contact numbers," Dad said, setting a manila folder on the blotter in front of the Sunday residential coordinator, a middle-aged woman whose plastic badge read *Linda*. "You'll see two addresses listed for me. My Virginia driver's license has my new primary residence on Sunset Drive near King Street in Alexandria, right down the road from my new engineering job in Tysons Corner, and the second number is our brick ranch on Arvin Road off Indian River Road and Military Highway down in Virginia Beach. I bought that Virginia Beach house from my old landlord years ago and kept it when their West Ocean View apartment lease ended on Wednesday so the twins always have their familiar home and routine waiting for them in Hampton Roads."
 
 "Got both numbers right here on the top sheet," Linda said, clipping the page into two green intake folders. She glanced over the counter at our wheelchairs—regular folding manual cross-brace frames with spoked push-rim wheels and rear rubber push-handles that Dr. Carter's seating clinic had fitted with right-armrest joystick power-drive kits—and raised her eyebrows slightly. "I see the vocational counselor's note here says you two left your full-size power chairs in Virginia Beach?"
 
@@ -4033,29 +4033,29 @@ Without waiting for a single exit interview or the canceled Thursday counselor w
 
 "Count on it!" Katie grinned out the passenger window as Dad pulled out of the lot and headed east toward Afton Mountain and Interstate 64.
 
-"Are you sure it's no trouble for us to move back into the Military Highway house while you're working up in Tysons Corner during the week, Dad?" I asked as the pickup climbed toward the Blue Ridge tunnel.
+"Are you sure it's no trouble for us to move back into the Arvin Road house while you're working up in Tysons Corner during the week, Dad?" I asked as the pickup climbed toward the Blue Ridge tunnel.
 
-"Trouble? Nate, that's the entire reason I kept the Virginia Beach house when I bought the place on Sunset Drive in Alexandria and updated my driver's license," Dad said, reaching across the console to pat my knee and Katie's shoulder. "I bought that brick ranch off Military Highway and Indian River Road from our old landlord years ago so the two of you would always have your own ramp, your own walk-in closet sanctuary, and the Kempsville streets and bus routes you know by heart. That house is yours for as long as you want it."
+"Trouble? Nate, that's the entire reason I kept the Virginia Beach house when I bought the place on Sunset Drive in Alexandria and updated my driver's license," Dad said, reaching across the console to pat my knee and Katie's shoulder. "I bought that brick ranch on Arvin Road off Indian River Road and Military Highway from our old landlord years ago so the two of you would always have your own ramp, your own walk-in closet sanctuary, and the Kempsville streets and bus routes you know by heart. That house is yours for as long as you want it."
 
-When Dad pulled into the driveway off Military Highway in Virginia Beach at dusk that Sunday evening and unlocked the front door at the top of the aluminum wheelchair ramp, Katie and I transferred out of the travel frames right back into our full-size SwiftChair power wheelchairs, rolled side by side to our familiar dining table, and opened our laptop lids together just as Tina, Sheila, and Jim's names lit up green on our screens.
+When Dad pulled into the driveway on Arvin Road in Virginia Beach at dusk that Sunday evening and unlocked the front door at the top of the aluminum wheelchair ramp, Katie and I transferred out of the travel frames right back into our full-size SwiftChair power wheelchairs, rolled side by side to our familiar dining table, and opened our laptop lids together just as Tina, Sheila, and Jim's names lit up green on our screens.
 
-# Unofficial Homeowners: Back Home in Virginia Beach
+# Unofficial Homeowners: Back Home in Virginia Beach (2007–2008)
 
-## One Bedroom, One Office, & The Closet Sanctuary
+## Arvin Road, Crossing Without a Crosswalk, & Yearly Passes at Fairlawn
 
-### Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use
+### Part 1: Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use
 
 **Date:** 2007-03-18 at 18:30 America/New_York
 
-![Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch off Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print—while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg)
+![Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch on Arvin Road off Indian River Road and Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print—while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg)
 
 #### Sunday, March 18, 2007, 6:30 PM — Unofficial Homeowners & The Address on Our State ID Cards
 
-"Oh, thank goodness," Katie breathed at six-thirty on Sunday evening the second she slid off thefolding manual travel chair onto the padded contoured seat of her full-size black SwiftChair inside our front foyer, resting her right hand on the familiar fingertip joystick. "No rear push-handles for strangers to grab, no clunky clamp-on battery box underneath, and no yellow Level 2 Hall Pass required to roll down our own hallway."
+"Oh, thank goodness," Katie breathed at six-thirty on Sunday evening the second she slid off the folding manual travel chair onto the padded contoured seat of her full-size black SwiftChair inside our front foyer, resting her right hand on the familiar fingertip joystick. "No rear push-handles for strangers to grab, no clunky clamp-on battery box underneath, and no yellow Level 2 Hall Pass required to roll down our own hallway."
 
 "Amen to that," I said, transferring into my own full-size SwiftChair right beside hers and powering on my controller as Dad lifted our two collapsed manual travel frames—spoked push-rim wheels and all—and tucked them neatly into the back of the front hall utility closet in case Tina or another friend ever picked us up in a compact car.
 
-Rolling side by side out of the foyer into the warm kitchen of the single-story brick ranch on Dyer Place off Military Highway and Indian River Road, Katie and I stopped by the dining table and simply took in the quiet. Outside the kitchen window, the familiar neighborhood streetlamps of Kempsville were flickering on in the March dusk.
+Rolling side by side out of the foyer into the warm kitchen of our single-story brick ranch on Arvin Road at the corner of Indian River Road, Katie and I stopped by the dining table and simply took in the quiet. Outside the kitchen window, the familiar neighborhood streetlamps of Kempsville were flickering on in the March dusk.
 
 Dad walked in from the garage carrying the last of our suitcases from the bed of his pickup truck, set two newly cut brass house keys and a blue leather household binder on the table between our wheelchairs, and pulled up a wooden dining chair across from us.
 
@@ -4063,19 +4063,19 @@ Dad walked in from the garage carrying the last of our suitcases from the bed of
 
 He tapped the two debit cards sitting in front of Katie and me.
 
-"Every Friday morning when my paycheck clears, your grocery and spending money goes straight into this joint checking account," Dad continued. "Until your own software and web-development work starts paying what you want it to pay, every dime of your groceries, bus passes, computer parts, and spending money is covered. As far as day-to-day life goes, the two of you are the unofficial homeowners of 1201 Dyer Place."
+"Every Friday morning when my paycheck clears, your grocery and spending money goes straight into this joint checking account," Dad continued. "Until your own software and web-development work starts paying what you want it to pay, every dime of your groceries, bus passes, computer parts, and spending money is covered. As far as day-to-day life goes, the two of you are the unofficial homeowners of our house here on Arvin Road."
 
 Katie reached into her crossbody bag, unzipped her wallet, and pulled out her laminated Virginia Department of Motor Vehicles identification card, setting it down on the table beside her debit card.
 
 "Look at the address line, Nate," Katie smiled, tapping the plastic card with her fingernail.
 
-I pulled my own wallet out of my jeans pocket and laid my Virginia State ID card right beside hers. Printed across the front of both cards in crisp black DMV block letters was the exact address where we were sitting: *1201 DYER PL, VIRGINIA BEACH, VA*.
+I pulled my own wallet out of my jeans pocket and laid my Virginia State ID card right beside hers. Printed across the front of both cards in crisp black DMV block letters was the exact Arvin Road address in Virginia Beach where we were sitting right now.
 
 "We never even have to go to the DMV to change our address," I said, grinning across the table at Dad. "That's the exact address we've had on our State ID cards ever since the three of us left Mom back in September 2001. Neither of us ever bothered updating our IDs when Katie was up in Williamsburg or when I was over in Norfolk, because this house was always home base."
 
 "And because we turned eighteen right here at this table in April 2003 when we were seniors at Northwood High," Katie added, her blue eyes lighting up as she connected the dots, "our Virginia Beach voter registrations at the Kempsville precinct have been anchored to this exact address for four straight years too."
 
-"Which means as far as the Commonwealth of Virginia and the City of Virginia Beach are concerned," Dad chuckled, patting both of our hands across the table, "you never left. Now—I've still got three hours before I need to get on Interstate 64 and head up to Sunset Drive in Alexandria, and we've got three bedrooms down that hallway to set up the way you two want them. Tell the moving crew what the floorplan is."
+"Which means as far as the Commonwealth of Virginia and the City of Virginia Beach are concerned," Dad chuckled, patting both of our hands across the table, "you never left. Now—I've still got three hours before I need to get on Interstate 64 and head up to Alexandria, and we've got three bedrooms down that hallway to set up the way you two want them. Tell the moving crew what the floorplan is."
 
 ***
 
@@ -4105,7 +4105,7 @@ Across the hall in Katie's room, Dad carried in the queen box spring and mattres
 
 Then Dad stepped over to the wide bedroom closet, moved the low shoe rack and spare boxes into the hall storage cupboard, vacuumed the closet carpet from corner to corner, and helped us spread our thick double sleeping bag and quilted pad across the floor of the closet, banking four plush pillows in a neat row against the interior wall.
 
-![Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch off Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print—while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg)
+![Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch on Arvin Road off Indian River Road and Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print—while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg)
 
 Stepping back with his hands on his hips, Dad looked from the freshly made navy-and-slate-blue queen bed in the center of the bedroom over to the open closet doors, where the sleeping bag and four pillows sat tucked inside the quiet three-by-six-foot alcove.
 
@@ -4123,31 +4123,447 @@ A slow, knowing grin spread across Dad's face, and Katie and I started laughing 
 
 #### 9:45 PM — Dad Heads Back to Alexandria, Locking Our Front Door, & Our First Night Back in the Closet
 
-After a quick eight-thirty run up Indian River Road in Dad's pickup truck to load the kitchen refrigerator and pantry with two gallons of cold milk, cartons of chocolate milk, two twelve-packs of ginger ale, cereal boxes, bread, sandwich turkey, and frozen dinners, Katie and I rolled out onto the front porch at the top of our aluminum wheelchair ramp at quarter to ten to see Dad off.
+After a quick eight-thirty run across Indian River Road in Dad's pickup truck to the Market Square supermarket to load the kitchen refrigerator and pantry with two gallons of cold milk, cartons of chocolate milk, two twelve-packs of ginger ale, cereal boxes, bread, sandwich turkey, and frozen dinners, Katie and I rolled out onto the front porch at the top of our aluminum wheelchair ramp at quarter to ten to see Dad off.
 
 "I'll call you both tomorrow evening on my way home from Tysons Corner," Dad said, bending down in the cool March night air to wrap Katie and me in a tight three-way hug at the top of the ramp. "Have fun jumping into Module Four with Tina, Sheila, and Jim in the morning—and enjoy having your house back."
 
-"Drive safe up I-95, Dad, and call us when you get to Sunset Drive," Katie told him, hugging his neck before waving from her wheelchair as he climbed into the cab of his pickup truck.
+"Drive safe up I-95, Dad, and call us when you get to Alexandria," Katie told him, hugging his neck before waving from her wheelchair as he climbed into the cab of his pickup truck.
 
-We sat side by side at the top of the aluminum ramp, holding hands as Dad backed down the driveway, tapped his horn twice in a soft goodbye, and turned out of Dyer Place toward Military Highway and Interstate 64.
+We sat side by side at the top of the aluminum ramp, holding hands as Dad backed down the driveway, tapped his horn twice in a soft goodbye, and turned off Arvin Road onto Indian River Road toward Military Highway and Interstate 64.
 
 Once the red taillights disappeared behind the pine trees at the corner, we wheeled back across the threshold into the warm foyer, pushed the solid wooden front door shut, and turned the brass deadbolt until it clicked firmly into place.
 
 For the first time in our adult lives, the entire house was ours.
 
-Rolling side by side down the quiet hallway past our newly wired dual-desk office, we turned into our bedroom, changed into our soft cotton pajamas, and brushed our teeth at the bathroom sink. When we rolled back into the bedroom and clicked off the overhead ceiling fixture, only the warm amber glow of the small nightstand lamp illuminated the room.
+Rolling side by side down the quiet hallway past our newly wired dual-desk office, we brushed our teeth together at the bathroom sink, turned into our bedroom, and clicked off the overhead ceiling fixture until only the warm amber glow of the small nightstand lamp illuminated the room.
 
 Right in front of us sat the pristine navy-and-slate-blue queen bed. Three feet to our right stood the open doors of the bedroom closet, where our thick sleeping bag and four plush pillows waited in the quiet, enclosed shadows.
 
-Katie looked at the queen bed, looked over at me from her wheelchair, and didn't even have to ask.
+Even with our own front door deadbolted behind us, both of our nervous systems were still raw—still shaken, scared, upset, and angry over those twelve days at Roosevelt Rehabilitation Center, from the pool and Wednesday night's keycard terror to the staffer yanking the Barton Hall closet door open at eleven o'clock and writing us up for holding each other.
 
-"Closet?" I whispered with a smile.
+Katie looked at the queen bed, looked over at the open closet doorway, and reached for the hem of her shirt.
 
-"Closet," Katie whispered back without half a second's hesitation.
+"Closet?" I whispered.
 
-We rolled our two SwiftChairs right up to the edge of the open closet doorway, parked them side by side with our armrests touching, and switched off both joystick controllers. Lowering ourselves smoothly onto the padded sleeping bag inside the cozy three-wall enclosure, I reached out and pulled the closet door mostly shut until just a thin ribbon of warm light from the bedroom lamp filtered across the carpet, and then wrapped both of my arms securely around my twin sister.
+"Closet," Katie whispered back without half a second's hesitation. "And no pajamas tonight, Nate. Just us."
 
-Katie tucked her head underneath my chin, let out a long, contented breath against my chest, and closed her eyes—the two of us drifting straight off to sleep in our own closet, in our own home, with nobody in the world to separate us ever again.
+We rolled our two SwiftChairs right up to the edge of the open closet doorway, parked them side by side with our armrests touching, switched off both joystick controllers, and helped each other slip out of our clothes, folding them neatly across our wheelchair seats. Lowering ourselves smoothly inside our single shared sleeping bag on the carpeted closet floor, I reached out and pulled the closet door almost all the way shut until just a thin ribbon of warm light filtered across the carpet, zipped the sleeping bag up around our shoulders, and wrapped both of my arms tightly around my twin sister, skin to skin.
+
+Pressing her warm cheek against my bare chest and tangling her legs with mine inside the dark, enclosed space—doing the exact thing that would have gotten us written up and thrown out of Barton Hall—Katie let out a long, trembling breath that finally melted the last knot of Fishersville tension from her shoulders. Holding each other close while the queen bed out in the bedroom sat completely untouched, we drifted straight off to sleep in our own closet, in our own home, where nobody in the world could ever separate us again.
+
+### Part 2: Skin to Skin in the Closet, No Crosswalks at Military and Indian River, & Two Wheelchairs at Market Square
+
+**Date:** 2007-03-21 at 08:30 America/New_York
+
+![At the busy multi-lane intersection of Indian River Road and Military Highway in Virginia Beach on Wednesday afternoon, March 21, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the concrete curb cut beside the traffic signal pole where heavy traffic roars across bare asphalt with zero painted crosswalks between the CVTA Route 12 and Route 15 bus stops and the Market Square grocery plaza across the street]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_indian_river_military_hwy_no_crosswalk_grocery_run_katie_nate.jpg)
+
+#### Wednesday, March 21, 2007, 8:30 AM — Waking Up in Our Closet Sanctuary & Morning PHP With Tina, Sheila, and Jim
+
+"You're warm," Katie murmured sleepily at eight-thirty on Wednesday morning, her bare shoulder pressed tightly against my chest inside our single shared sleeping bag on the carpeted floor of our bedroom closet.
+
+I kissed the top of her blonde hair in the quiet dark and kept my arms wrapped securely around her waist. Outside in the main bedroom, three feet past the nearly closed closet door, the navy-and-slate-blue comforter on our queen-size bed hadn't been unfolded once since Dad helped us make it on Sunday night.
+
+Neither of us had the slightest interest in sleeping out on that open mattress. Even three days after leaving Fishersville behind, our minds were still raw—still carrying the lingering fear of Chris standing in Katie's doorway with a reassigned dorm keycard after hurting Natalie, the fury of watching the administration escort him into a van without calling the police, and the humiliation of a night-shift staffer yanking the Barton Hall hallway closet door open at eleven o'clock to write us up for holding each other. Waking up undressed together inside our own dark, enclosed closet on Arvin Road—feeling each other's steady breathing skin to skin and knowing we were doing the exact thing that would have gotten us punished and separated at Roosevelt Rehabilitation Center—was the only medicine that kept the nightmares away.
+
+"Nobody knocking on the door," I whispered against her temple. "Nobody checking Hall Passes."
+
+"Just us," Katie whispered back, hugging my ribs tightly for another full minute before we unzipped the sleeping bag, reached up to pull our folded shirts and jeans off the seats of our parked SwiftChairs just outside the closet doorway, and transferred up into our chairs.
+
+After helping each other shower on the padded transfer bench in the hall bathroom and pouring two bowls of cereal with cold milk in the kitchen, we rolled across the hardwood hallway into my old bedroom—now officially our dual-desk software office.
+
+At nine o'clock sharp, right as we slid our two SwiftChairs side by side underneath the twelve-foot span of laminate worktables with our armrests touching, our instant-messenger client chimed. On our screens, Tina, Sheila, and Jim popped online from the Web Applications Developer classroom back in Fishersville.
+
+"Look at the two of you sitting in a real office without a single yellow Level 2 badge in sight!" Tina typed into the group chat window, waving quietly at her webcam before her instructor walked past the front whiteboard. "Mr. Alderman just handed out the Module Four exercise sheet on relational foreign keys and PHP session arrays. Check your shared folder—I just uploaded the prompt!"
+
+For the next four hours, while morning sunlight slanted through the front blinds onto our keyboards, Katie and I tore through the PHP and SQL exercises side by side. We didn't care one bit that walking out of Roosevelt Rehabilitation Center after twelve days meant we wouldn't get an RRC completion certificate; we already held accredited Associate of Applied Science degrees from the Community College of Hampton Roads, and we had realized during our first week in Fishersville that an RRC piece of paper meant nothing in the real world compared to our associate degrees and actual working code.
+
+Even better, instead of building throwaway classroom toy scripts, Katie and I used every single PHP and SQL lesson to rebuild our transit blog, Ideas for Coastal Virginia Transit, from the ground up—converting two years of flat HTML pages into a database-driven web application where every route timetable, transfer window, and municipal service comparison across all six Hampton Roads cities could be queried dynamically.
+
+***
+
+#### 2:15 PM — Crossing Without a Crosswalk to Market Square
+
+When we rolled into the kitchen at two-fifteen that afternoon to make turkey sandwiches for lunch, I opened the refrigerator door and held up the plastic milk jug. Less than half an inch of milk sloshed across the bottom, and the bread bag on the counter was down to the two heel slices.
+
+"First solo grocery run without Dad's pickup truck," Katie said, glancing out the kitchen window toward the corner of Arvin Road and Indian River Road. "Good thing there's a Market Square supermarket right across the street."
+
+"Let's see how much our two chairs can haul in one trip," I grinned, rolling back to the hall closet to grab two heavy-duty canvas backpack panniers and two insulated reusable grocery totes.
+
+We slipped the padded straps of the backpack panniers securely over the contoured high backs of both of our SwiftChairs, tucked the folded insulated totes beside our thighs, checked that our battery gauges showed all green bars, and rolled out the front door and down our aluminum porch ramp into the crisp March afternoon.
+
+Turning off quiet Arvin Road onto the sidewalk along Indian River Road, it took us less than two minutes to roll past the Coastal Virginia Transit Authority bus stop signs for Route 12 and Route 15 to reach the major signalized intersection where Indian River Road met eight-lane Military Highway.
+
+Across the street sat the brick storefront of the Market Square grocery plaza.
+
+Getting across the asphalt to reach it, however, made both of us stop our wheelchairs dead at the concrete curb cut and stare.
+
+![At the busy multi-lane intersection of Indian River Road and Military Highway in Virginia Beach on Wednesday afternoon, March 21, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the concrete curb cut beside the traffic signal pole where heavy traffic roars across bare asphalt with zero painted crosswalks between the CVTA Route 12 and Route 15 bus stops and the Market Square grocery plaza across the street]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_indian_river_military_hwy_no_crosswalk_grocery_run_katie_nate.jpg)
+
+"Wait a second, Nate," Katie said, raising her voice over the deafening roar of eighteen-wheelers, dump trucks, and commuter sedans barreling through the intersection. "Look at the pavement between our curb cut and the curb cut on the other side of the street."
+
+I looked down at the wide, oil-stained expanse of multi-lane asphalt.
+
+The intersection had overhead traffic lights. It had sloped concrete curb cuts poured into the corners. Right behind us stood bus stops for CVTA Routes 12 and 15 where transit riders got off the bus every half hour to walk home or buy groceries.
+
+Yet across the entire intersection of Military Highway and Indian River Road, there was not a single painted white crosswalk stripe—and no pedestrian countdown head—anywhere on the pavement.
+
+"How do you pour wheelchair curb cuts at a major intersection with two bus routes and a supermarket across the street," I asked in disbelief as a pickup truck whipped a fast right turn on red two feet in front of our footplates without even glancing at the sidewalk, "and not paint a single crosswalk line to tell drivers that people cross here?!"
+
+"Stay right beside my left wheel, and don't move an inch until the through-lane turns red and I check every right-turning bumper," Katie said, her hand steady on her joystick.
+
+We waited through an entire two-minute signal cycle until the cross-traffic halted, made direct eye contact with the driver at the front of the turning lane so he wouldn't gun his engine into us, and pushed our joysticks full forward side by side across the bare, unmarked lanes of asphalt. The second our front casters climbed the opposite concrete curb cut into the Market Square parking lot, both of us let out a breath at the exact same time.
+
+Inside the bright, fluorescent aisles of Market Square, our two-wheelchair shopping system worked like clockwork. Instead of struggling with a clumsy metal shopping cart that couldn't be steered alongside a joystick controller, Katie held the open insulated tote bags on her lap while I pulled a gallon of milk, two cartons of chocolate milk, loaves of whole-wheat bread, sliced turkey, cheddar cheese, apples, and boxes of pasta off the low and middle shelves.
+
+At the checkout register, after swiping the joint checking debit card Dad had given us on Sunday night, we balanced the load evenly between our two chairs like a pair of cargo engineers: the gallon of milk and canned goods went into the heavy canvas backpack slung over the back of my SwiftChair, the chocolate milk, soda six-pack, and frozen boxes went into Katie's rear pack, and the lighter bags of bread and fruit rode flat across our laps inside the insulated totes.
+
+After waiting through two more heavy traffic cycles to cross the unmarked, crosswalk-free lanes of Indian River Road back to the Arvin Road corner and unpacking our haul into the kitchen fridge, Katie didn't even take her jacket off before rolling straight into our office bedroom and tapping my monitor.
+
+"Pull up the new PHP admin panel for Ideas for Coastal Virginia Transit, Nate," Katie said, her blue eyes bright with purpose. "We just took our first solo grocery trip from Arvin Road, and our readers—and the traffic engineers at Virginia Beach City Hall—are going to read all about what happens when you put CVTA Route 12 and Route 15 bus stops and a grocery store at Military Highway and Indian River Road with curb cuts, heavy traffic, and zero crosswalks."
+
+### Part 3: The :07 Bus From Glenrock Mall, Yearly Memberships at Fairlawn Rec Center, & The 1977 Building's Quirks
+
+**Date:** 2007-03-26 at 10:31 America/New_York
+
+![Inside the 1970s brick lobby of the original 1977 Fairlawn Recreation Center in Virginia Beach on Monday morning, March 26, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the front desk holding their newly laminated yearly resident membership cards and Virginia State IDs—while behind them rises the massive unpainted dark-gray concrete spiral ramp winding up the perimeter wall beside the key-locked elevator door]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_fairlawn_rec_center_1977_lobby_concrete_ramp_memberships_katie_nate.jpg)
+
+#### Monday, March 26, 2007, 10:31 AM — Catching the :07 Route 25 Past the Newtown Road Border
+
+"Make sure we're on the ten-thirty-one northbound Route 15 and not a minute later," Katie reminded me on Monday morning as we waited side by side in our SwiftChairs at the bus stop on Military Highway and Indian River Road. "If we miss the eleven-oh-seven Route 25 departure out of Glenrock Mall, the eleven-thirty-seven bus turns around at Newtown Road and stays in Norfolk, and we'll be stuck waiting a whole hour until twelve-oh-seven just to cross into Virginia Beach."
+
+"Don't I know it," I said, shaking my head at the folded paper timetable in my hand as the northbound CVTA Route 15 bus pulled up to the curb.
+
+Fourteen minutes later, at ten-forty-five sharp, Route 15 dropped us off at the transit transfer bay outside Glenrock Mall in Norfolk, giving us twenty-two minutes to roll over to the Route 25 stop before the eleven-oh-seven bus pulled out.
+
+On paper, CVTA Route 25 ran every thirty minutes out of Glenrock Mall. In reality—thanks to the infamous city-line service cliff—every second bus only ran as far as Greenwich Road and Newtown Road at the Norfolk border before turning right back around. Only the buses departing Glenrock Mall at seven minutes past the hour, from six-oh-seven in the morning until six-oh-seven in the evening on Monday through Friday, actually crossed the city line and continued all the way down Princess Anne Road to the Community College of Hampton Roads Virginia Beach Campus.
+
+Boarding the eleven-oh-seven Route 25 side by side, Katie and I rode east across the Newtown Road border and down Princess Anne Road until I pulled the yellow stop cord just before Edwin Drive.
+
+Once the operator lowered the ramp at the corner of Princess Anne Road and Edwin Drive, we rolled our two SwiftChairs side by side down the sidewalk along Edwin Drive, turned onto Marlborough Drive, and steered right into the entrance of Fairlawn Recreation Center—carefully weaving our front casters around the deep, familiar potholes cratering the asphalt parking lot outside the low 1977 brick building with its sloped metal roof.
+
+***
+
+#### 11:40 AM — Yearly Memberships, The Concrete Spiral Ramp, & Two Locker Room Doors
+
+Rolling through the front entrance doors into the first-floor lobby felt like stepping straight back into our Kempsville childhood.
+
+Right ahead of us stood the front counter, and towering behind it along the interior perimeter walls rose the rec center's unmistakable 1977 architectural centerpiece: a massive, unpainted dark-gray concrete spiral ramp with metal pipe railings that wound in a wide three-story helix from the first floor up to the second and third floors, right next to an elevator door whose call button was locked off behind a staff keyhole.
+
+![Inside the 1970s brick lobby of the original 1977 Fairlawn Recreation Center in Virginia Beach on Monday morning, March 26, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the front desk holding their newly laminated yearly resident membership cards and Virginia State IDs—while behind them rises the massive unpainted dark-gray concrete spiral ramp winding up the perimeter wall beside the key-locked elevator door]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_fairlawn_rec_center_1977_lobby_concrete_ramp_memberships_katie_nate.jpg)
+
+"Two adult resident yearly memberships, please," Katie smiled up at the recreation clerk behind the front counter, sliding our two Virginia DMV State ID cards and our joint debit card across the laminate ledge.
+
+The clerk glanced down at the Virginia Beach street address on Arvin Road printed across both of our IDs, typed our names into the desktop terminal, and had us pause in front of the webcam lens on the counter before handing back two freshly laminated plastic Fairlawn Recreation Center annual passes.
+
+"Welcome back to Fairlawn," the clerk said, holding up a brass key on a coiled wristband. "Did you two want me to come around and unlock the elevator for you to get up to the second floor, or are your power chairs okay on the concrete ramp?"
+
+"With electric motors and full batteries, we can take the spiral ramp just fine," I smiled, clipping my new membership card onto my lanyard beside Katie's. "Wait until you see someone try to push a manual chair up that grade, though."
+
+Before climbing to the second floor, we took a nostalgic loop down the first-floor wing. Everything about the 1977 building still had the exact endearing, slightly worn neighborhood quirks we remembered from middle and high school. Past the meeting rooms sat the snack lounge, where a hand-lettered paper sign taped across the glass of the vending machines warned patrons in bold marker that the front desk could not issue refunds when the coils ate your dollar bills and that you had to call the vending company's phone number yourself. Across the hall, we peeked into the Adult Lounge—which had pool tables and board-game tables just like the Youth Lounge down the corridor, minus the arcade cabinets—and rolled past the little two-lane bowling alley, where, right on cue, a laminated yellow sign hung between the ball returns reading *LANES CLOSED FOR PINSETTER MAINTENANCE*.
+
+"Some things in Kempsville never change," Katie giggled, squeezing my hand before we steered our SwiftChairs onto the bottom apron of the massive dark-gray concrete spiral ramp.
+
+With our dual electric motors humming steadily against the steep 1970s incline, we spiraled side by side up the concrete helix around the lobby walls to the second-floor check-in desk. Down one corridor sat the open-gym basketball court and the enclosed racquetball court; down the other, through a sudden blast of warm, chlorine-scented air, lay the twenty-five-meter indoor pool, where the air and water stayed at a constant, humid eighty-four degrees while the non-humidified hallway outside sat at a brisk seventy-two.
+
+Standing in the seventy-two-degree corridor between the hallway and the pool deck, however, Katie and I stopped our chairs in front of the two heavy doors leading into the changing area.
+
+The door on the left was marked *MEN*. The door on the right was marked *WOMEN*. There was no other changing room anywhere on the floor.
+
+Katie looked at the two separate doors, then looked down at her legs and over at me, the smile fading slightly from her lips.
+
+"Well, that's going to make swimming here tricky," Katie said quietly.
+
+At home on Arvin Road, neither of us ever thought twice about getting dressed or undressed because we always had each other right there to steady an elbow, help pull a wet swimsuit strap over a fatigued shoulder, or assist with the transfer bench. Here in the 1977 recreation center, once Katie rolled through the women's locker room door and I rolled through the men's door, there was no legal way for a brother and sister to help each other change into swim gear—and out on the pool deck beyond the tile showers, the five-foot-to-eight-foot pool didn't even have a mechanical transfer chair to lower a wheelchair user into the water.
+
+"For today, we've got the Adult Lounge pool tables, the open gym, and our yearly cards in our pockets," I said, reaching across our armrests to take my sister's hand as we turned our wheelchairs back toward the top of the concrete spiral ramp to head down and catch the northbound Route 25 back to Glenrock Mall. "And if the two-lane bowling alley downstairs ever actually has both pinsetters working on the same afternoon, we'll treat it like a holiday."
+
+## A Near-Miss at Dying Glenrock Mall, Locking Down WHOIS, & Forming Our Virginia LLC
+
+### Part 1: A Dying Single-Story Mall, Spotting Brenda in the Concourse, & The WHOIS Wake-Up Call
+
+**Date:** 2007-03-29 at 15:25 America/New_York
+
+![Inside the dim, half-vacant single-story concourse of Glenrock Mall in Norfolk on Thursday afternoon, March 29, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs tucked out of sight behind a wide beige-tiled structural column beside a dark shuttered storefront with a pulled-down metal security grille, holding hands in silent vigilance as their estranged mother Brenda stands fifty feet down the single-story corridor holding a printed webpage and questioning a cellphone-case kiosk vendor]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_glenrock_mall_dying_single_story_concourse_brenda_near_miss_katie_nate.jpg)
+
+#### Thursday, March 29, 2007, 3:25 PM — Behind the Pillar in a Dying Single-Story Mall
+
+"Nate—stop your chair right now and pull behind this pillar," Katie whispered sharply at three-twenty-five on Thursday afternoon, her left hand shooting across our armrests to cover my wrist just as we rolled inside the north corridor doors of Glenrock Mall to get out of the chilly March wind while waiting for our three-forty-five southbound Route 15 bus home.
+
+I didn't ask a single question. Hearing the sudden ice in my twin sister's voice, I feathered my joystick backward and pivoted my SwiftChair in complete silence beside hers until both of our wheelchairs were tucked squarely behind a wide, beige-tiled structural column next to a dead artificial ficus planter.
+
+Unlike the bright, two-story space-frame concourses of Emerald Creek Mall or Chesapeake Bay Mall, Glenrock Mall in 2007 was a sprawling, single-story 1970s concrete enclosure that was visibly dying in slow motion. Along the dim single-level corridor stretching toward the center court, nearly half of the inline storefronts sat completely dark behind pulled-down galvanized metal security grilles and dusty sheets of brown butcher paper. Aside from a discount shoe outlet, a watch-battery kiosk, and a lonely cellphone-case cart in the middle of the scuffed terrazzo floor, the echoing hallway was almost deserted.
+
+And standing fifty feet down that single-story concourse in front of the cellphone-case cart—holding two stapled sheets of computer printer paper in her hand—was our estranged mother, Brenda.
+
+![Inside the dim, half-vacant single-story concourse of Glenrock Mall in Norfolk on Thursday afternoon, March 29, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs tucked out of sight behind a wide beige-tiled structural column beside a dark shuttered storefront with a pulled-down metal security grille, holding hands in silent vigilance as their estranged mother Brenda stands fifty feet down the single-story corridor holding a printed webpage and questioning a cellphone-case kiosk vendor]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_glenrock_mall_dying_single_story_concourse_brenda_near_miss_katie_nate.jpg)
+
+My heart slammed against my ribs so hard I could hear my pulse in my ears. Beside me behind the wide column, Katie's hand gripped mine like a vise.
+
+Neither of us had seen our mother's face since late August 2001, when the Virginia Beach court had granted Dad sole custody and exclusive possession after the cruise ship security tape—and the only time we had heard her voice since then was that terrifying Saturday night in August 2003 when she had lurked in the back alley behind the iron fire-escape stairs at Greenway Court in Norfolk while we hid inside our dark square closet.
+
+"They're twenty-one years old—a boy and a girl, twins, blonde hair, both of them in black motorized wheelchairs," Brenda was saying loudly to the bored teenager working the cellphone-case cart, tapping the printed sheets in her hand. "I went by their old building on Greenway Court and up to that dump in Ocean View, and the managers said they moved out! Look at this printout from their little bus website—they wrote right here on Monday that they transfer between Route 15 and Route 25 at Glenrock Mall! You work right by the bus doors, don't you? Have you seen them roll through here today?!"
+
+The teenager behind the cart shrugged his shoulders and shook his head without looking up from his magazine. "Lady, a hundred people walk through those bus doors every hour to catch the 15 and the 20. I don't keep track of who rides the bus."
+
+Behind the beige-tiled pillar, Katie and I didn't breathe a sound.
+
+As Brenda spun around in frustration and marched toward the opposite wing of the single-story concourse to badger the cashier inside the discount shoe store—her back turned completely away from the north entrance—Katie squeezed my fingers twice.
+
+Moving in dead-silent synchronization with our speed dials turned down to a whisper-quiet crawl, we backed our two SwiftChairs ten feet from the column, glided out the automatic glass doors onto the exterior sidewalk apron, and rolled straight down the curb to the Route 15 bus bay just as the three-forty-five southbound bus pulled in from Little Creek Road and kneeled its front suspension.
+
+Not until the hydraulic ramp folded back up, our four-point floor straps clicked tight, and the bus pulled out of the Glenrock Mall ring road onto southbound Military Highway toward Indian River Road did either of us let out the breath we had been holding.
+
+***
+
+#### 4:15 PM — Checking Our Domain WHOIS Behind a Deadbolted Door
+
+The second we rolled up our aluminum ramp on Arvin Road at four-fifteen, pushed our front door shut, and turned the brass deadbolt, Katie's hands were still trembling.
+
+Before we even touched our computers, the two of us rolled straight down the hallway into our bedroom, helped each other out of our jackets and clothes, climbed inside our shared sleeping bag on the closet floor with the door pulled shut, and held each other skin to skin in the quiet dark for twenty straight minutes until Katie's breathing slowed and the cold knot in my stomach uncoiled.
+
+When we finally dressed and rolled side by side into our dual-desk office at quarter to five, I opened a terminal window on my Linux machine and ran a public WHOIS query on the domain name for Ideas for Coastal Virginia Transit.
+
+"Look at the registrant output on my monitor, Katie," I said grimly, pointing at the plain-text lines returned by the public domain registry.
+
+Back in November 2005, when we had registered the domain from our apartment in West Ocean View, the domain registrar had required a registrant mailing address and phone number—and by default, ICANN published that exact record for anyone on the internet to query for free.
+
+"That's how she knew to go to West Ocean View after checking Greenway Court," Katie said, her jaw tightening as she read the screen over my shoulder. "She typed our website name into a public domain lookup, saw the old West Ocean View apartment address on the registration record, went up there after our lease ended on February twenty-eighth, and when the landlord told her we were gone, she started reading our blog posts to see which bus hubs we ride through!"
+
+"Thank goodness we never updated the domain registration to Arvin Road when we got back from Fishersville," I breathed, my skin prickling at how close we had come to handing her a map to Dad's Virginia Beach house. "Because she has no idea this house on Arvin Road even exists. When Dad moved the three of us here in October 2001 after the custody order, she never got this address."
+
+"And she is never going to get it," Katie said fiercely, picking up the desk phone on the table between our chairs and pressing the speed-dial button for Dad's cell phone up in Northern Virginia. "We need to lock down our domain registration today, Nate—and we need a real legal shield so our names and our home street never show up on a public database ever again."
+
+### Part 2: Dad's Legal Consultation, Our Virginia LLC, & A Virtual Mailbox at The Parcel Center
+
+**Date:** 2007-04-03 at 14:00 America/New_York
+
+![Inside a ground-floor Virginia Beach law office off Independence Boulevard on Tuesday afternoon, April 3, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs across the mahogany conference table from family and business attorney Kenneth Vance, signing the Articles of Organization for their fifty-fifty Virginia limited liability company while David Prairie listens over the desk speakerphone]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_virginia_llc_consultation_registered_agent_shield_katie_nate.jpg)
+
+#### Tuesday, April 3, 2007, 2:00 PM — The Registered Agent Shield & Prairie Twin Interactive, LLC
+
+"Your father already took care of my consultation fee and the hundred-dollar State Corporation Commission filing fee by credit card this morning," attorney Kenneth Vance said warmly on Tuesday afternoon, sliding a blue legal folder across his ground-floor conference table off Independence Boulevard as Dad listened in over the walnut speakerphone from his lunch break up in Tysons Corner. "And when David told me that Brenda was spotted wandering around Glenrock Mall with a printout from your website trying to figure out where you two live, I pulled the corporate forms immediately."
+
+Sitting side by side in our SwiftChairs across the mahogany table, Katie and I leaned forward together. Six years earlier, in late August 2001, Mr. Vance was the exact Virginia Beach attorney who had taken Dad's shipboard security tape into circuit court, won Dad sole custody of the two of us, and secured the divorce stipulation restoring Brenda's maiden name, Walsh.
+
+![Inside a ground-floor Virginia Beach law office off Independence Boulevard on Tuesday afternoon, April 3, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs across the mahogany conference table from family and business attorney Kenneth Vance, signing the Articles of Organization for their fifty-fifty Virginia limited liability company while David Prairie listens over the desk speakerphone]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_virginia_llc_consultation_registered_agent_shield_katie_nate.jpg)
+
+"We want to make sure our home street on Arvin Road never appears on a public website lookup, a domain database, or a business license," Katie told Mr. Vance clearly. "And once we finish our PHP and SQL coursework, we want to be able to build websites and software under a real business name without renting an expensive corporate office suite."
+
+"Which is the smartest move you can make," Mr. Vance nodded, opening the folder to the Virginia State Corporation Commission Form LLC-1011, Articles of Organization, alongside a twenty-page Operating Agreement. "Right now, if you register a domain name or accept a check in your personal names from home, anyone who knows how to run a public database search can try to trace your residential address. By forming a Virginia limited liability company—owned strictly fifty-fifty by the two of you as Managing Members—the LLC becomes the legal owner of Ideas for Coastal Virginia Transit and every line of software you write."
+
+He tapped the second paragraph on the state filing sheet with his fountain pen.
+
+"Now look at Box Three and Box Four on the Articles of Organization," Mr. Vance explained. "Every Virginia LLC is required by statute to list a Registered Agent and a Registered Office address on the public State Corporation Commission database. If you list yourselves as your own Registered Agent, you have to put your home street address on the public state website. Instead, as a member of the Virginia State Bar, I am listing myself as your official Registered Agent and putting this law office right here off Independence Boulevard as your Registered Office."
+
+"Wait—so if Brenda or anyone else searches our LLC on the state website in Richmond, the only address that comes up is your law office?" I asked, a huge wave of relief washing across my chest.
+
+"My law office, my receptionist, and my security cameras," Mr. Vance smiled firmly. "And for Box Five—the LLC's Principal Office mailing address, which you'll also use for your domain WHOIS records, your bank checks, and your website footer—you don't need to lease a commercial office building. All you need to do on your way home today is stop at a commercial mail center like The Parcel Center, fill out United States Postal Service Form 1583 with your two Virginia State ID cards, and rent a commercial mailbox for fifteen dollars a month. That gives you a real commercial street address with a suite number. Every piece of business mail and every public WHOIS lookup goes to that suite number, while the two of you do one hundred percent of your work from your dual desks at home."
+
+"What do you two think of that?" Dad's voice asked warmly through the speakerphone.
+
+Katie looked at the corporate header printed across the top of the Operating Agreement—*PRAIRIE TWIN INTERACTIVE, LLC*—and laced her left fingers through my right hand before picking up the blue pen with her right hand.
+
+"We love it, Dad," Katie said, signing her name cleanly on the first Managing Member line and passing the pen across our armrests to me so I could sign the second fifty-fifty Managing Member line right beside hers.
+
+***
+
+#### 3:45 PM — Signing Form 1583 at The Parcel Center & Scrubbing Our WHOIS Clean
+
+Forty-five minutes later, on our bus ride back down toward Indian River Road, Katie and I rolled into the storefront of The Parcel Center in the commercial strip plaza near the highway.
+
+Behind the counter, the clerk checked our two laminated Virginia DMV State ID cards, notarized our signatures on United States Postal Service Form 1583, and handed us two small brass mailbox keys along with a printed card showing our new commercial mailing address: a real commercial boulevard street number followed by *Suite 214*.
+
+The moment we rolled back up our aluminum porch ramp on Arvin Road at four-thirty and deadbolted the door behind us, we wheeled straight into our office bedroom and logged into our domain registrar control panel.
+
+Typing side by side, I replaced our personal names and the old West Ocean View apartment address on every domain record with *Prairie Twin Interactive, LLC* and our new *Suite 214* commercial mailbox address, enabled the registrar's full WHOIS privacy proxy shield on top of it, and triggered an immediate registry refresh.
+
+When I opened the Linux terminal window sixty seconds later and ran a fresh public WHOIS query on Ideas for Coastal Virginia Transit, every trace of our personal names, our phone number, and our residential history had vanished completely from the public internet.
+
+"Go ahead and refresh the page at the library now, Brenda," Katie whispered, leaning her head against my shoulder as she watched the clean terminal output on my screen. "You'll never find this house in a million years."
+
+## Twenty-Two in Alexandria: Riding DMV Transit, Senator James West's White House Tickets, & The Spark to Run for City Council
+
+### Part 1: Accessible Taxi to Newport News, The ARTS Train to Alexandria, & Riding Northern Virginia Transit on Our Twenty-Second Birthday
+
+**Date:** 2007-04-08 at 09:15 America/New_York
+
+![On the red-brick platform of Alexandria Union Station beside the stainless-steel ARTS passenger train and the George Washington Masonic Memorial tower in the background on Saturday, April 7, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie roll their black motorized SwiftChair power wheelchairs off the blue station wheelchair lift as their father David Prairie beams and welcomes them to Northern Virginia for their birthday week]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_alexandria_alx_platform_22nd_birthday_arrival_katie_nate_david.jpg)
+
+#### Saturday, April 7 – Sunday, April 8, 2007 — Across the Water to Newport News & Rolling Into Alexandria
+
+"Happy early twenty-second birthday, you two!" Dad beamed on Saturday afternoon, standing right beside the blue mobile wheelchair lift on the red-brick platform of Alexandria Union Station as the ARTS conductor lowered Katie and me down from the stainless-steel vestibule of the Northeast Regional.
+
+"Dad!" Katie grinned, releasing her joystick brake the second the lift apron touched the brick and rolling straight into his outstretched arms while I wheeled right up beside her for a three-way platform hug.
+
+![On the red-brick platform of Alexandria Union Station beside the stainless-steel ARTS passenger train and the George Washington Masonic Memorial tower in the background on Saturday, April 7, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie roll their black motorized SwiftChair power wheelchairs off the blue station wheelchair lift as their father David Prairie beams and welcomes them to Northern Virginia for their birthday week]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_alexandria_alx_platform_22nd_birthday_arrival_katie_nate_david.jpg)
+
+"How was the ride up from Newport News?" Dad asked, slinging both of our overnight duffel bags—including our rolled-up double sleeping bag—over his shoulders.
+
+"Smooth as glass once we got across the harbor," I told him as we rolled side by side along the station platform toward the short pedestrian sidewalk running beneath the King Street railroad bridge.
+
+Because Norfolk still had zero passenger rail service in 2007—forcing anyone on the Southside who wanted to catch an ARTS train to cross the water to the Peninsula—Dad had pre-paid a wheelchair-accessible lift taxi van to pick Katie and me up at our driveway on Arvin Road at six-thirty that morning and drive us through the Hampton Roads Bridge-Tunnel straight to the Newport News ARTS station on Warwick Boulevard. Since Newport News was the origin terminal for the morning train, the crew had plenty of time to wheel the station lift up to the accessible coach door, lock our SwiftChairs into the wide wheelchair bays across from the café car, and let us watch the Chickahominy swamps, the state capitol domes of Richmond, and the Rappahannock River bridges roll past our window all the way up to Northern Virginia.
+
+Even better, when we rolled with Dad through the short underpass beneath the railroad tracks and emerged onto the west side of the tunnel, Dad's two-story brick house on Sunset Drive sat right there at the foot of the hill—less than three minutes from both the ARTS train platforms and the elevated Capital Transit Yellow and Blue Line station at King Street.
+
+Inside the house, Dad had already set up the ground-floor front room for us with a portable aluminum threshold ramp over the front step, a roll-in shower bench in the downstairs bathroom, and a cleared, freshly vacuumed first-floor coat and linen closet where we immediately spread out our sleeping bag and four pillows. That night—our last night of being twenty-one—after eating Dad's homemade lasagna at the dining table, Katie and I slipped into that quiet downstairs closet, zipped our sleeping bag up around our shoulders, and slept skin to skin in each other's arms without a single worry in the world.
+
+***
+
+#### Sunday, April 8, 2007, 10:30 AM — High-Platform Level Boarding & A Transit Grid That Doesn't Quit at Dinner
+
+When we woke up on Sunday morning, April 8—officially twenty-two years old—Dad was standing in the kitchen holding two mugs of hot chocolate and two crisp plastic Capital Transit SmarTrip farecards loaded with a full week of unlimited rail and bus passes.
+
+"For your twenty-second birthday week," Dad announced, handing one plastic card to Katie and one to me, "before we head into Washington on Tuesday for your big birthday surprise, we're going to spend today riding the buses and trains up here in Northern Virginia so the authors of Ideas for Coastal Virginia Transit can see how a connected regional network operates."
+
+Twenty minutes later, the three of us rolled across the bus loop to the King Street Capital Transit station, tapped our plastic farecards against the accessible wide-aisle faregate pads, rode the glass elevator up to the center island platform, and waited as a six-car Yellow Line train glided to a halt alongside the concrete edge.
+
+When the bi-parting metal doors slid open, Katie and I both stared at the threshold between the station platform and the railcar floor.
+
+The concrete platform sat at the exact vertical height of the train floor. There were no steps, no steep ramps, and no waiting ten minutes for an operator to unfold a mechanical lift.
+
+Katie pushed her joystick forward, and her front casters glided straight across the two-inch rubber gap-filler strip into the railcar alongside mine in less than two seconds.
+
+"Did you just see that, Nate?!" Katie gasped, her eyes shining as the chime sounded and the doors closed behind us. "We just rolled straight onto a train by ourselves in two seconds flat! And look at our farecards—when you transfer from the train to a local Alexandria or Arlington bus at the station loop, the electronic reader automatically discounts the transfer instead of handing you a soggy paper slip that expires while you wait for an hourly bus!"
+
+All Sunday afternoon and evening, Dad took us everywhere across Alexandria and Arlington: riding the Blue and Yellow Lines up past National Airport and Pentagon City, transferring seamlessly onto low-floor local buses with working automated stop announcements and paved curb-cut boarding pads at every single corner, and eating our twenty-second birthday dinner together at a bright restaurant near Old Town at eight o'clock at night.
+
+When we finished our birthday cake at quarter past nine on a Sunday night and rolled back out to the street, buses were still pulling up to the illuminated shelters every fifteen minutes, and trains were still running overhead in both directions until midnight.
+
+"Look at the clock on my phone, Nate," Katie said softly as we rolled off the nine-thirty bus at King Street and headed through the underpass back to Dad's house on Sunset Drive. "It's nine-thirty on a Sunday night, and families, restaurant workers, and people in wheelchairs are still riding buses and trains home without a single worry about getting stranded. Why can't Hampton Roads have this?"
+
+### Part 2: Senator James West's Tickets to the White House, Watching the U.S. Senate From the Gallery, & Why Can't We Ride the Bus to City Hall?
+
+**Date:** 2007-04-10 at 09:30 America/New_York
+
+![Inside the third-floor wheelchair-accessible visitor gallery overlooking the United States Senate Chamber at the U.S. Capitol on Tuesday afternoon, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding their official Senate Gallery passes beside their father David Prairie, looking down in rapt awe at the semicircular rows of mahogany Senate desks below]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_senate_gallery_and_senator_james_west_visit_katie_nate_david.jpg)
+
+#### Tuesday, April 10, 2007, 9:30 AM — The White House Tour & A Newly Sworn-In Senator Who Answered His Mail
+
+"How on earth did you manage to score three confirmed passes to tour the White House on three weeks' notice, Dad?" Katie asked in amazement at nine-thirty on Tuesday morning as our two SwiftChairs rolled side by side past the wrought-iron gates along Pennsylvania Avenue toward the East Wing visitor entrance, holding the embossed constituent tour passes Dad had handed us at breakfast.
+
+"By writing to our Senator from Virginia," Dad smiled, walking beside our wheelchairs with his Virginia driver's license and our tour confirmation letter in hand. "When you two decided in March to move back to Arvin Road and we planned this birthday week up here, I sent constituent tour requests to Capitol Hill. Everyone in Virginia knows our senior Senator, Senator John Warren, is a true elder statesman, of course, and his office was swamped with spring school groups—but our newly sworn-in junior Senator, Senator James West, just took office in January and wanted to show right out of the gate that he was working for his constituents. His constituent-services director called me back personally within forty-eight hours, cleared all three of us with the Secret Service for a morning White House tour, and invited us to come up to his Senate office this afternoon so we can watch the United States Senate in session."
+
+Katie looked down at the embossed pass in her hand, her blue eyes widening with quiet admiration. "A brand-new United States Senator actually had his office call a regular family back in two days just to help two twins in wheelchairs see the White House and the Capitol?"
+
+"Sure did," Dad said proudly as the uniformed Secret Service officers verified our Virginia IDs and guided our wheelchairs onto the step-free East Wing ramp and elevator. "And his staff told me he wants to step out and say hello to you two himself when we pick up our gallery passes at one-thirty."
+
+For the next hour, rolling side by side across the polished marble and parquet floors of the White House while Katie and I kept our inner hands brushed together between our armrests, we took in every inch of history: the vaulted ground-floor corridor lined with presidential portraits, the elevator up to the State Floor, the gold silk drapes and towering crystal chandeliers of the East Room, the Green Room, the oval Blue Room overlooking the South Lawn, the Red Room, and the Lincoln portrait above the carved mantel in the State Dining Room.
+
+Yet as unforgettable as the White House was, it was what happened that afternoon at the other end of Pennsylvania Avenue that changed the entire trajectory of my twin sister's life.
+
+***
+
+#### 1:45 PM — Meeting Senator James West & Looking Down From the U.S. Senate Gallery
+
+At one-forty-five, after riding the Capital Transit Blue Line from McPherson Square to Capitol South and rolling up the curb-cut walkways of Capitol Hill into the Senate Office Building, the three of us turned into the tall wooden double doors of Senator James West's suite.
+
+Before the receptionist had even finished handing us our three blue cardboard United States Senate Gallery passes, the inner door of the Senator's office opened—and out walked Senator James West himself in his dark navy suit and striped tie.
+
+He didn't stand stiffly behind a rope line or talk exclusively to Dad over our heads the way so many adults did when they saw two twenty-two-year-old twins in motorized wheelchairs. Instead, Senator West walked straight across the carpet to our chairs, leaned down to look Katie and me directly in the eyes, and shook Katie's hand and then mine with a firm, warm grip.
+
+"Katie and Nathaniel, happy twenty-second birthday, and welcome to Washington," Senator West said in his steady Tidewater cadence. "My staff told me the two of you just finished your computer science degrees down at the Community College of Hampton Roads in Norfolk and run your own regional transit blog down at the coast. Don't ever let anyone tell you that these buildings belong to the lobbyists or the politicians. This Capitol belongs to you—and my number-one job as your Senator is making sure when constituents from Virginia Beach knock on this door, somebody answers."
+
+"Thank you, Senator West," Katie said, her voice clear and earnest as she shook his hand. "We won't ever forget how warmly your office treated our family today."
+
+And she never did. Nearly twenty years later, on the January morning when Katie took her own oath of office as a United States Senator from Virginia, the very first rule she laid down to her incoming chief of staff was that every constituent letter, tour request, and disability casework call from Virginia was to be answered with the exact speed and respect Senator James West had shown us on our twenty-second birthday trip.
+
+Ten minutes later, a legislative aide escorted the three of us down the elevator to the underground Capitol subway tunnel, onto the accessible tram over to the Capitol basement, and up the Senate wing elevator to the third floor.
+
+When the heavy padded doors of the Visitors' Gallery opened and Katie and I rolled our two SwiftChairs side by side into the front wheelchair alcove overlooking the United States Senate Chamber, Katie's breath caught audibly in her throat.
+
+![Inside the third-floor wheelchair-accessible visitor gallery overlooking the United States Senate Chamber at the U.S. Capitol on Tuesday afternoon, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding their official Senate Gallery passes beside their father David Prairie, looking down in rapt awe at the semicircular rows of mahogany Senate desks below]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_senate_gallery_and_senator_james_west_visit_katie_nate_david.jpg)
+
+Directly below our balcony railing stretched the semicircular tiers of a hundred historic mahogany desks on the blue patterned carpet of the Senate floor. Down at the marble rostrum, the presiding officer's gavel tapped once, the reading clerk called out an amendment number, and Senators rose behind their desks—including Senator James West and senior Senator John Warren on the Virginia aisle—to debate federal transportation and veterans' appropriations in live session.
+
+For forty-five straight minutes, Katie didn't look away from that floor once. She leaned slightly forward in her SwiftChair, her left hand resting over mine on my armrest, watching how a single elected voice standing behind a desk could force an entire chamber—and an entire government agency—to put its numbers on the record and vote in the daylight.
+
+***
+
+#### 8:30 PM — Back at Dad's Dining Table in Alexandria: The 5:30 PM Last Bus Home & How to Run for City Council
+
+That evening, after eating dinner near Capitol Hill and riding the Yellow Line train across the Potomac River bridge to King Street at eight-fifteen—transferring effortlessly onto a local evening bus just to see the neighborhood loop before rolling through the railroad underpass to Dad's brick house on Sunset Drive—Katie didn't head straight for the downstairs closet to rest.
+
+Instead, she rolled her SwiftChair right up to Dad's dining table, opened her silver laptop beside mine, and pulled up two browser tabs side by side: the official meeting calendar of the Virginia Beach City Council, and the printed PDF timetables for Coastal Virginia Transit Authority Routes 12 and 33.
+
+Dad walked in from the kitchen carrying three tall glasses of cold ginger ale, set them on coasters, and looked at the fierce, concentrated expression on my sister's face. "What are you looking at on there, Katie?"
+
+Katie turned her laptop screen slightly so Dad and I could both see it, and her voice was shaking with genuine, righteous anger.
+
+"Look at what the three of us just did tonight here in Alexandria and Washington, Dad," Katie said, tapping the corner of her keyboard. "Today we toured the White House, watched the United States Senate in session at the Capitol, ate dinner at seven-thirty, and rode public trains and buses all the way back to Sunset Drive at eight-thirty at night without a single problem. Now look at the schedule back home in Virginia Beach—the largest city in the entire Commonwealth of Virginia!"
+
+She pointed her finger at the Virginia Beach City Council schedule on the left half of her screen, and then at the CVTA bus timetable on the right half.
+
+"Virginia Beach City Council formal evening sessions and public-comment hearings down at the Municipal Center start at six o'clock in the evening," Katie said, her blue eyes flashing. "If Nate and I want to ride the bus from Arvin Road down to City Hall to speak to our own City Council during a six-o'clock meeting, we have to take Route 12 to the CCHR Virginia Beach Campus hub and transfer to Route 33 down to the Municipal Center. Now look at the return schedule from the Municipal Center!"
+
+I leaned in over my armrest and read the black-and-white timetable columns aloud with her.
+
+"To get back to the CCHR hub in time to connect to Route 12, Route 25, or Route 29," I said, "you have to leave the Municipal Center on the five-thirty PM Route 33 bus—because the very last Route 12 bus back to Indian River Road and Military Highway leaves CCHR at five-forty-eight PM!"
+
+"Five-thirty PM!" Katie repeated, slapping her palm lightly against the tabletop. "City Council meetings start at six o'clock, and the last bus home for a citizen who needs to connect at CCHR leaves City Hall at five-thirty—thirty minutes before the meeting even starts! And even if you live right on Route 33 and don't have to transfer at CCHR, the last northbound bus going all the way to Sixty-Eighth Street leaves the Municipal Center at six-oh-one PM—one minute after the Mayor bangs the gavel! If you rely on a bus in Virginia Beach, you are literally locked out of attending your own City Council meetings unless you want to get stranded fifteen miles from home in the dark!"
+
+Dad sat down in the wooden chair across from us, resting his forearms on the table as he looked at Katie. "And because none of the people sitting on the Virginia Beach City Council ever ride a bus, none of them even notices—or cares—that the schedule locks bus riders out of City Hall."
+
+Katie stared at the screen for a long, quiet moment—remembering the hundred mahogany desks she had looked down upon from the United States Senate Gallery that afternoon, and the words Senator James West had spoken to us in his reception room: *Don't ever let anyone tell you that these buildings belong to the lobbyists or the politicians.*
+
+Then Katie opened a third browser tab and typed a search query into the address bar: *Commonwealth of Virginia State Board of Elections Candidate Qualification Guide — City Council*.
+
+"What are you pulling up now, Katie?" I asked softly, rolling my chair an inch closer to hers.
+
+"How old you have to be, how many registered voter signatures you need on a petition, and what forms you have to file to run for the Virginia Beach City Council," Katie answered, her voice steady as steel as the PDF loaded on her screen. "Look right here under Code of Virginia Section 24.2-501: eighteen years old, a qualified voter registered at your residential address in the Kempsville District—which we've had on our Virginia State ID cards and voter registration on Arvin Road since 2001—and one hundred twenty-five certified voter signatures. If the politicians on the Virginia Beach City Council won't ride the bus or let bus riders attend their six-o'clock meetings, Nate, then we're going to learn every rule in this book, and I'm going to run for City Council so we can make the changes from the inside."
+
+## Associate Degrees in Hand, 'Not the Right Skill Match,' & Launching Prairie Twin Interactive From Arvin Road
+
+### Associate Degrees in Hand, 'Not the Right Skill Match,' & Putting Our Virginia LLC to Work
+
+**Date:** 2007-06-14 at 14:15 America/New_York
+
+![Inside a glass-walled corporate conference room off Virginia Beach Boulevard on Thursday afternoon, June 14, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with their leather CCHR Associate Degree portfolios and printed PHP and SQL code samples open on the table, exchanging a quiet, knowing look as two corporate hiring managers offer practiced, legally sanitized smiles across the table]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jun_2007_polite_hr_job_interview_rejection_wheelchairs_katie_nate.jpg)
+
+#### Thursday, June 14, 2007, 2:15 PM — "Not Quite the Right Skill Match" & The Careful Language of Corporate HR
+
+"Your PHP database queries and your Associate of Applied Science transcripts from the Community College of Hampton Roads are certainly impressive on paper," the human-resources director said in a smooth, carefully measured voice at two-fifteen on Thursday afternoon inside a second-floor office park off Virginia Beach Boulevard, folding her hands neatly atop our printed resumes without quite meeting our eyes. "However, after reviewing our current project pipeline this afternoon, we feel that your background isn't quite the right skill match for what our team is looking for right now, and we are looking for candidates with a bit more traditional in-house agency experience."
+
+Sitting side by side in our black SwiftChairs across the glass conference table, Katie and I exchanged a single, quiet glance.
+
+We didn't need a translator to know what had actually changed between eleven o'clock that morning—when the company's lead developer had practically begged us over the phone to come in as soon as possible after testing our live PHP and SQL transit-schedule database—and two-fifteen that afternoon.
+
+At eleven o'clock on the telephone, we were two twenty-two-year-old software developers with accredited associate degrees from CCHR and clean, normalized SQL code. At two o'clock, when the elevator doors opened and Katie and I rolled into the reception lobby side by side in two motorized power wheelchairs after riding CVTA Route 15 and Route 20 to the office park, we watched the lead developer's smile freeze on his face before he hurriedly called the human-resources director into the room.
+
+![Inside a glass-walled corporate conference room off Virginia Beach Boulevard on Thursday afternoon, June 14, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with their leather CCHR Associate Degree portfolios and printed PHP and SQL code samples open on the table, exchanging a quiet, knowing look as two corporate hiring managers offer practiced, legally sanitized smiles across the table]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jun_2007_polite_hr_job_interview_rejection_wheelchairs_katie_nate.jpg)
+
+It was our sixth traditional job interview across Virginia Beach and Norfolk since returning from our birthday week in Alexandria and finishing the final PHP and SQL modules with Tina, Sheila, and Jim in May.
+
+We had done everything the traditional employment playbook told young adults to do. We had filled out the multi-page paper and online applications. We had brought our framed Associate of Applied Science degrees from the Community College of Hampton Roads—never once regretting that we had walked out of Roosevelt Rehabilitation Center after twelve days without an RRC certificate, because we knew an RRC piece of paper meant nothing in the real world next to an accredited college degree and live production code.
+
+And in all six interviews, the exact same script had played out almost word for word.
+
+No employer in 2007 was foolish enough to say out loud that they didn't want to hire two twenty-two-year-old twins in power wheelchairs who commuted by public bus. Every human-resources manager in Hampton Roads had been trained by corporate counsel on how to avoid running afoul of the Americans with Disabilities Act and Virginia's disability rights statutes. Their language was always impeccably polite, rehearsed, and legally bulletproof: *not quite the right skill match*, *looking for a different blend of experience*, *decided to go in another direction*.
+
+Yet when a company posts an entry-level job asking for HTML, CSS, PHP, and SQL, raves about your live PHP database over the phone, and suddenly discovers ten minutes after seeing your wheelchairs that you "aren't the right skill match" while leaving the exact same job posting up on their website three weeks later, you don't have to be a lawyer to read between the lines.
+
+"Thank you for your time this afternoon," Katie said politely, closing her leather portfolio binder and resting it across her lap as we turned our wheelchairs around, rolled out to the elevator, and headed back down to the bus stop on Virginia Beach Boulevard.
+
+***
+
+#### 4:00 PM — Putting Prairie Twin Interactive, LLC to Work From Our Dual Desks on Arvin Road
+
+When we rolled back up our aluminum porch ramp on Arvin Road at four o'clock, poured two tall glasses of cold ginger ale in the kitchen, and wheeled side by side into our twelve-by-twelve office bedroom, neither of us was defeated. If anything, watching six corporate HR departments hide behind polite boilerplate had burned away the last shred of doubt about what we needed to do.
+
+"You know what the funniest part of that interview was, Nate?" Katie asked, parking her SwiftChair flush beside mine under our twelve-foot span of worktables and tapping the framed Virginia State Corporation Commission certificate hanging on the wall above our monitors—*PRAIRIE TWIN INTERACTIVE, LLC*. "That agency's own corporate website is still running broken table layouts from 1999 that don't even validate in a modern browser, and their contact form throws an unescaped SQL error if you type an apostrophe into your last name."
+
+I burst out laughing, the tension of the afternoon evaporating in an instant. "And they told us we didn't have the right skill match!"
+
+"We don't need a corporate HR department to give us permission to write code and earn our own spending money," Katie said firmly, her fingers lacing through mine across our wheelchair armrests. "We already have our associate degrees from CCHR. We already have two six-foot desks, high-speed internet, and our own Linux server right here in this room. And thanks to Dad and Mr. Vance, we already have Prairie Twin Interactive, LLC registered with the state and our Suite 214 commercial mailbox at The Parcel Center so we can sign client contracts and cash business checks without ever putting Arvin Road on an invoice."
+
+"And when a small business owner in Virginia Beach, Norfolk, or Chesapeake hires Prairie Twin Interactive over email and phone to build their PHP website or normalize their inventory database," I grinned, opening a fresh directory on our server to build our commercial portfolio site, "the code doesn't care that the two developers writing it are sitting side by side in power wheelchairs—or that we take our lunch breaks together in our own kitchen and sleep every night in our bedroom closet."
+
+By the end of July, we had landed our first three paid web-development contracts—building a custom PHP parts-catalog database for an independent marine-supply shop in Norfolk, redesigning the schedule and registration portal for a Tidewater community music school, and coding an automated invoice tracker for a regional printing company.
+
+The Friday afternoon in August when we rolled into The Parcel Center, unlocked Box 214 with our brass key, and pulled out our very first three client checks made payable to *Prairie Twin Interactive, LLC*, Katie held the envelopes up in the sunlight with tears of pride shining in her blue eyes.
+
+Dad was still faithfully covering every household bill on Arvin Road from Alexandria, just as he had promised. Now, however, as we deposited our own self-earned software revenue into our business and joint accounts, bought our own thirty-day CVTA bus passes, upgraded our video camera gear, and spent every evening analyzing regional transit budgets side by side at our dual desks, we weren't just surviving anymore.
+
+We were twenty-two-year-old business partners, unofficial homeowners, and best friends—and as 2007 turned toward the 2008 municipal election year across Hampton Roads, we were ready to take on City Hall.
 
 # Do Better: Ideas for CVTA & The Kempsville City Council
 
@@ -4167,7 +4583,7 @@ Katie tucked her head underneath my chin, let out a long, contented breath again
 
 I followed my sister's gaze across the polished laminate table where CVTA's senior operations staff and the appointed city council commissioners from around Hampton Roads were shuffling their agenda packets before the monthly Transportation District Commission meeting gaveled in.
 
-Sure enough, clipped inside the deputy planning director's black binder—and photocopied into three separate packets along the commissioners' dais—were six pages printed directly from Ideas for Coastal Virginia Transit, complete with the coastal-navy header and the custom PHP route-comparison tables I had coded the week before at our dual desks in the brick ranch off Military Highway and Indian River Road in Virginia Beach.
+Sure enough, clipped inside the deputy planning director's black binder—and photocopied into three separate packets along the commissioners' dais—were six pages printed directly from Ideas for Coastal Virginia Transit, complete with the coastal-navy header and the custom PHP route-comparison tables I had coded the week before at our dual desks in the brick ranch on Arvin Road off Indian River Road and Military Highway in Virginia Beach.
 
 "Every weekday morning between eight and ten o'clock, our server logs show static IP blocks from this building and all six City Halls reading our PHP tables," I whispered back to Katie, glancing down the row of commissioners. "They read every word we write, Katie. They just don't know what to do with two twenty-two-year-old twins in power wheelchairs who won't pat them on the back for the status quo."
 
@@ -5968,7 +6384,7 @@ With Dad walking beside our SwiftChairs every weekend holding the legal-sized pe
 
 Sitting right beside my left armrest in her compact SwiftChair, thirty-four-year-old Katie leaned in while Dad stood behind our two wheelchairs with his hand resting proudly on my shoulder.
 
-Unlike our first House race six years earlier—when we had watched eighteen Kempsville precincts around our kitchen table—the Seventh Senate District spanned fifty-four precincts across western and central Virginia Beach and eastern Norfolk. For seven straight months from April through November, Katie, Dad, and I had ridden every CVTA bus route connecting the two cities—Route 1, Route 12, Route 15, Route 20, Route 25, Route 29, Route 33, and, starting in October 2019, the brand-new Route 24 running along Kempsville Road and Witchduck Road to Pembroke East—canvassing thousands of doors from Kempsville and Larkspur all the way north to Bayside and west across Newtown Road into Norfolk. In fact, the launch of that new Route 24 corridor along Kempsville Road and Witchduck Road in October 2019 (a completely separate north-south route from the historic, long-retired Laskin Road route that had merely shared a recycled route number years earlier) had marked a personal milestone for Katie and me: the exact month Route 24 began rolling down Kempsville Road, we had pooled our software consulting savings to buy our own single-story brick ranch on Lord Nelson Drive strictly fifty-fifty right off the new Route 24 bus line, installing a second custom two-person roll-up hydrotherapy tub and outfitting the master walk-in closet as our enclosed sleeping sanctuary while Dad kept the original brick ranch off Military Highway and Indian River Road in the family.
+Unlike our first House race six years earlier—when we had watched eighteen Kempsville precincts around our kitchen table—the Seventh Senate District spanned fifty-four precincts across western and central Virginia Beach and eastern Norfolk. For seven straight months from April through November, Katie, Dad, and I had ridden every CVTA bus route connecting the two cities—Route 1, Route 12, Route 15, Route 20, Route 25, Route 29, Route 33, and, starting in October 2019, the brand-new Route 24 running along Kempsville Road and Witchduck Road to Pembroke East—canvassing thousands of doors from Kempsville and Larkspur all the way north to Bayside and west across Newtown Road into Norfolk. In fact, the launch of that new Route 24 corridor along Kempsville Road and Witchduck Road in October 2019 (a completely separate north-south route from the historic, long-retired Laskin Road route that had merely shared a recycled route number years earlier) had marked a personal milestone for Katie and me: the exact month Route 24 began rolling down Kempsville Road, we had pooled our software consulting savings to buy our own single-story brick ranch on Lord Nelson Drive strictly fifty-fifty right off the new Route 24 bus line, installing a second custom two-person roll-up hydrotherapy tub and outfitting the master walk-in closet as our enclosed sleeping sanctuary while Dad kept the original brick ranch on Arvin Road off Indian River Road and Military Highway in the family.
 
 And because voters across Virginia Beach and Norfolk remembered Delegate Katie Prairie as the lawmaker who had stood up to the bathroom-bill bullies on Meet the Nation in 2016 and fought every single winter for their buses, schools, and disability waivers, the corporate attack mailers against her hadn't stood a chance.
 
