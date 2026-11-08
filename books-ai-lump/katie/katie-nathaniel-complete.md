@@ -4041,7 +4041,7 @@ When Dad pulled into the driveway on Arvin Road in Virginia Beach at dusk that S
 
 # Unofficial Homeowners: Back Home in Virginia Beach (2007–2008)
 
-## Arvin Road, Crossing Without a Crosswalk, & Yearly Passes at Fairlawn
+## Arvin Road, Crossing Without a Crosswalk, Horizontal IDs on Route 12, & Yearly Passes at Fairlawn
 
 ### Part 1: Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use
 
@@ -4191,7 +4191,7 @@ When we rolled into the kitchen at two-fifteen that afternoon to make turkey san
 
 We slipped the padded straps of the backpack panniers securely over the contoured high backs of both of our SwiftChairs, tucked the folded insulated totes beside our thighs, checked that our battery gauges showed all green bars, and rolled out the front door and down our aluminum porch ramp into the crisp March afternoon.
 
-Turning off quiet Arvin Road onto the sidewalk along Indian River Road, it took us less than two minutes to roll past the Coastal Virginia Transit Authority bus stop signs for Route 12 and Route 15 to reach the major signalized intersection where Indian River Road met eight-lane Military Highway.
+Exiting the house, we made a right onto quiet Arvin Road and another right onto the sidewalk along Indian River Road, rolling west toward the major signalized intersection where Indian River Road met eight-lane Military Highway.
 
 Across the street sat the brick storefront of the Market Square grocery plaza.
 
@@ -4221,7 +4221,73 @@ After waiting through two more heavy traffic cycles to cross the unmarked, cross
 
 "Pull up the new PHP admin panel for Ideas for Coastal Virginia Transit, Nate," Katie said, her blue eyes bright with purpose. "We just took our first solo grocery trip from Arvin Road, and our readers—and the traffic engineers at Virginia Beach City Hall—are going to read all about what happens when you put CVTA Route 12 and Route 15 bus stops and a grocery store at Military Highway and Indian River Road with curb cuts, heavy traffic, and zero crosswalks."
 
-### Part 3: The :07 Bus From Glenrock Mall, Yearly Memberships at Fairlawn Rec Center, & The 1977 Building's Quirks
+### Part 3: Crossing Both Roads for Route 12, Buckner Boulevard DMV, & Horizontal State IDs on the Spot
+
+**Date:** 2007-03-23 at 09:40 America/New_York
+
+![Inside the Virginia DMV Customer Service Center on Buckner Boulevard in Virginia Beach on Friday morning, March 23, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the photo counter in front of the blue DMV backdrop as a friendly clerk hands them their warm, freshly printed horizontal 21-and-over Virginia State ID cards on the spot alongside their old 2001 vertical Under-21 cards]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_buckner_blvd_dmv_vertical_to_horizontal_state_ids_katie_nate.jpg)
+
+#### Friday, March 23, 2007, 9:40 AM — Crossing Both Roads to Catch the Southbound Route 12
+
+"Look at how baby-faced we were in these pictures," Katie laughed on Friday morning as we sat side by side in the hallway by the front door, holding up our two vertical Virginia State identification cards before slipping them into our lanyard pouches.
+
+Both of us had gotten those original vertical Under-21 State ID cards back in October 2001, right after we turned sixteen and moved with Dad into this house on Arvin Road when he was first renting it from the landlord—years before he eventually bought the place outright. Across the top of each vertical card ran the bright red banner announcing the date we would turn twenty-one, and printed underneath our names was our exact street address here on Arvin Road.
+
+Crucially, neither of us had ever bothered telling the Virginia Department of Motor Vehicles about a single one of our temporary moves over the past three and a half years—not when Katie went up to Williamsburg for her freshman year of college and then down to Fishersville, and not when I moved into our Norfolk apartments on Greenway Court and West Ocean View Avenue before heading to Fishersville with her. As far as the DMV's computer database in Richmond was concerned, Katie and I had lived continuously at this exact house on Arvin Road since we were sixteen years old.
+
+Now that we were twenty-one—and only sixteen days away from turning twenty-two—we wanted to trade in those worn vertical Under-21 cards for proper adult horizontal State ID cards before heading over to Fairlawn Recreation Center on Monday to sign up for resident memberships. And since the nearest DMV Customer Service Center was over on Buckner Boulevard in Virginia Beach, getting there meant taking CVTA Route 12.
+
+At nine-forty that morning, we rolled out our front door and down the aluminum porch ramp into the sunny March air.
+
+Getting from our driveway to the Route 12 stop heading toward the Community College of Hampton Roads required a specific two-stage crossing. Exiting the house, we made a right onto Arvin Road and another right onto the north sidewalk of Indian River Road, rolling west down the block to the roaring multi-lane intersection of Indian River Road and Military Highway.
+
+Because the bus stop for southbound routes sat on the far southwest corner of the intersection, crossing one street wasn't enough—we had to cross both Indian River Road and Military Highway without a single painted crosswalk stripe on either roadway.
+
+"Indian River first while the through-lanes on Military have the green," Katie called out over the rumble of a passing dump truck as we lined our SwiftChairs up side by side at the concrete curb cut.
+
+The moment the turning traffic cleared, we pushed our joysticks forward in tandem across the unmarked asphalt of Indian River Road to the median island and the opposite corner, pivoted ninety degrees at the curb cut, waited through the next signal cycle while eight lanes of Military Highway traffic thundered past our footplates, and then rolled straight across Military Highway to the southbound CVTA bus stop sign.
+
+That southbound stop on Military Highway was a workhorse corner for our end of Kempsville: it served CVTA Route 12 heading east toward the Community College of Hampton Roads Virginia Beach Campus, as well as CVTA Route 15 heading south toward either Emerald Creek Mall or Robert Hall Boulevard in Chesapeake on an alternating basis.
+
+Seven minutes later, a low-floor CVTA Route 12 coach with *12 CCHR* glowing across its amber front destination sign pulled up to the curb, kneeled its front suspension, and unfolded its metal ramp onto the sidewalk so Katie and I could roll aboard and lock down our chairs for the ride over to Buckner Boulevard.
+
+***
+
+#### 10:35 AM — Horizontal Cards Printed on the Spot at the Buckner Boulevard DMV
+
+Rolling through the double glass doors of the Buckner Boulevard DMV Customer Service Center at ten-thirty-five, we took a paper ticket from the dispenser at the information desk and waited less than fifteen minutes before our number flashed in red LED digits above Window 6.
+
+![Inside the Virginia DMV Customer Service Center on Buckner Boulevard in Virginia Beach on Friday morning, March 23, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the photo counter in front of the blue DMV backdrop as a friendly clerk hands them their warm, freshly printed horizontal 21-and-over Virginia State ID cards on the spot alongside their old 2001 vertical Under-21 cards]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_buckner_blvd_dmv_vertical_to_horizontal_state_ids_katie_nate.jpg)
+
+"Good morning to you both," the DMV clerk smiled as Katie and I rolled our two wheelchairs side by side up to the low accessible counter. "Trading in the vertical twenty-one cards for horizontal adult IDs today?"
+
+"Yes, ma'am," Katie said, sliding both of our 2001 vertical State ID cards and our completed renewal forms under the glass.
+
+The clerk typed our identification numbers into her terminal and glanced at the screen. "Are the two of you still at the same address on Arvin Road here in Virginia Beach that we've had on file since October 2001?"
+
+"Still the exact same house on Arvin Road," I smiled, exchanging a quiet, relieved glance with Katie at how effortless it was not having to produce a stack of leases or utility bills because we had never changed our address on file.
+
+"And would you both like to confirm that your Virginia Beach voter registration address is up to date while we're in your records today?" the clerk asked.
+
+"Yes, please," Katie answered immediately.
+
+After we paid the small card fee with our joint debit card, the clerk directed us two windows down to the photo station, lowered the camera lens on its adjustable post to match our seated eye level in front of the blue backdrop screen, and snapped our pictures one after the other.
+
+Five minutes later, the thermal card printer behind the counter whirred to a stop, and the clerk handed us two brand-new, still-warm plastic Virginia identification cards—printed horizontally at last, with no red Under-21 banner anywhere in sight and our Arvin Road address gleaming crisply across the front.
+
+***
+
+#### 11:45 AM — Dropped Off by the Bank on Northbound Military Highway
+
+By eleven-forty-five, after riding the westbound CVTA Route 12 bus back from Buckner Boulevard, I reached up and pulled the yellow chime cord as the bus approached Indian River Road.
+
+On the return trip home, Route 12 dropped us off on the northbound side of South Military Highway right in front of the brick Piedmont Bank branch at the southeast corner of the intersection.
+
+Once the bus ramp folded back inside and the coach pulled away through the traffic light, Katie and I rolled up to the corner curb cut in front of the bank, waited for a clean break in the turning cars, and crossed the unmarked lanes of Indian River Road to the northeast sidewalk.
+
+From there, we made a right onto the sidewalk of Indian River Road—rolling east against the flow of westbound traffic with our new horizontal Virginia State ID cards tucked safely inside our lanyards—and then made a left onto quiet Arvin Road, where our brick ranch house sat waiting for us on our left.
+
+### Part 4: The :07 Bus From Glenrock Mall, Yearly Memberships at Fairlawn Rec Center, & The 1977 Building's Quirks
 
 **Date:** 2007-03-26 at 10:31 America/New_York
 
@@ -4251,7 +4317,7 @@ Right ahead of us on the left stood the wood-laminate front counter, and across 
 
 ![Inside the 1977 brick lobby of the original Fairlawn Recreation Center in Virginia Beach on Monday morning, March 26, 2007—just inside the dark-bronze-framed glass entrance vestibule looking out toward the concrete walkway and flagpole—twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the wood-laminate front desk receiving their newly laminated yearly resident membership cards beside the key-locked elevator door in the brick wall]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_fairlawn_rec_center_1977_lobby_concrete_ramp_memberships_katie_nate.jpg)
 
-"Two adult resident yearly memberships, please," Katie smiled up at the recreation clerk behind the front counter, sliding our two Virginia DMV State ID cards and our joint debit card across the laminate ledge.
+"Two adult resident yearly memberships, please," Katie smiled up at the recreation clerk behind the front counter, sliding the brand-new horizontal Virginia DMV State ID cards we had just picked up on Buckner Boulevard on Friday alongside our joint debit card across the laminate ledge.
 
 The clerk glanced down at the Virginia Beach street address on Arvin Road printed across both of our IDs, typed our names into the desktop terminal, and had us pause in front of the webcam lens on the counter before handing back two freshly laminated plastic Fairlawn Recreation Center annual passes.
 
