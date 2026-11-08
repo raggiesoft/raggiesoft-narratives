@@ -3383,9 +3383,15 @@ I looked at the calendar pinned beside our desk and did the math in my head. "In
 
 **Date:** 2007-03-04 at 11:15 America/New_York
 
+![Inside the 1960s red-brick and terrazzo lobby of Barton Hall at Roosevelt Rehabilitation Center on Sunday, March 4, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit in their collapsible manual wheelchairs outfitted with right-armrest joysticks, spoked push-rim wheels, and rear rubber push-handles as Katie locks her brakes and firmly stops a staffer from grabbing her push-handles while their father David stands beside a luggage cart.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_barton_hall_checkin_push_handles_katie_nate_david.jpg)
+
 #### Sunday, March 4, 2007, 11:15 AM — Why Dormitories Were Never Built for Us
 
-"It was a whole lot easier for me to bring the two of them up here on a Sunday since I work weekdays," Dad explained to the residential staffer who met the three of us outside the entrance of Barton Hall at Roosevelt Rehabilitation Center in Fishersville.
+![Inside the 1960s red-brick and terrazzo lobby of Barton Hall at Roosevelt Rehabilitation Center on Sunday, March 4, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit in their collapsible manual wheelchairs outfitted with right-armrest joysticks, spoked push-rim wheels, and rear rubber push-handles as Katie locks her brakes and firmly stops a staffer from grabbing her push-handles while their father David stands beside a luggage cart.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_barton_hall_checkin_push_handles_katie_nate_david.jpg)
+
+"It was a whole lot easier for me to bring the two of them up here on a Sunday since I work weekdays," Dad explained to the residential staffer who met the three of us outside the flat-roofed 1960s red-brick entrance of Barton Hall at Roosevelt Rehabilitation Center in Fishersville.
+
+Originally established in November 1947 on the grounds of a former World War II Army general hospital—and rebuilt throughout the 1960s and 1970s into a sprawling complex of aging, flat-roofed red-brick institutional buildings with wide terrazzo corridors and cinder-block walls—Roosevelt Rehabilitation Center looked every inch like a mid-century state facility frozen in time.
 
 "Oh, clients arrive on Sundays all the time, Mr. Prairie, so it's no big deal at all," the staffer smiled, holding the inner vestibule door open as Katie and I rolled side by side across the threshold with our backpacks slung over our seatbacks and Dad wheeling a luggage cart stacked with our suitcases and computer cases right behind us. "Come on back to the dorm office so we can introduce ourselves and get their intake paperwork started."
 
@@ -3501,7 +3507,11 @@ Watching the relief wash over Katie's face as we rolled out of the office made t
 
 **Date:** 2007-03-05 at 07:15 America/New_York
 
+![Inside the 1960s painted cinder-block Vocational Evaluation break room in the Bates-Harding Building at Roosevelt Rehabilitation Center in March 2007, twenty-one-year-old twins Nathaniel and Katie Prairie sit parked wheel-to-wheel in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles, locking hands across their armrests and loudly expressing their displeasure as evaluator Ms. Hollis and aide Mr. Miller try to separate them during social time.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_voc_eval_social_break_refusing_separation_katie_nate.jpg)
+
 #### Monday, March 5, 2007, 7:15 AM — The Medication Line, Making Beds on a Clipboard, & Proving "Social Skills"
+
+![Inside the 1960s painted cinder-block Vocational Evaluation break room in the Bates-Harding Building at Roosevelt Rehabilitation Center in March 2007, twenty-one-year-old twins Nathaniel and Katie Prairie sit parked wheel-to-wheel in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles, locking hands across their armrests and loudly expressing their displeasure as evaluator Ms. Hollis and aide Mr. Miller try to separate them during social time.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_voc_eval_social_break_refusing_separation_katie_nate.jpg)
 
 "We need our breakfast," Katie said as we rolled side by side out of the Barton Hall lobby toward the dining hall breezeway.
 
@@ -3605,7 +3615,11 @@ Worse still, if you wanted to go shopping or get off campus on a Saturday aftern
 
 **Date:** 2007-03-19 at 08:00 America/New_York
 
+![Inside the 1970s institutional computer lab of the Web Applications Developer classroom at Roosevelt Rehabilitation Center in spring 2007, Nathaniel and Katie Prairie sit side by side in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles with their personal laptops open in front of unused beige CRT state monitors while short, petite, jet-black-haired Tina in glasses stands beside Katie telling it like it is to the new administrator as Sheila and Jim back them up.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/may_2007_rrc_web_apps_class_personal_laptops_tina_sheila_jim_katie_nate.jpg)
+
 #### Monday, March 19, 2007, 8:00 AM — Cantor Hall, Level 3 Privileges, & Sitting Together in Class
+
+![Inside the 1970s institutional computer lab of the Web Applications Developer classroom at Roosevelt Rehabilitation Center in spring 2007, Nathaniel and Katie Prairie sit side by side in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles with their personal laptops open in front of unused beige CRT state monitors while short, petite, jet-black-haired Tina in glasses stands beside Katie telling it like it is to the new administrator as Sheila and Jim back them up.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/may_2007_rrc_web_apps_class_personal_laptops_tina_sheila_jim_katie_nate.jpg)
 
 By the time our two-week Vocational Evaluation finally ended on the third weekend of March 2007, Katie and I couldn't pack our suitcases in Barton Hall fast enough.
 
@@ -3679,7 +3693,7 @@ Within forty-eight hours, every single student in the Web Applications Developer
 
 Even though Center rules technically forbade using personal computers in the classroom, both the old vocational division administrator and our Web Applications Developer teacher, Mr. Henderson, let all of us get away with it. They knew perfectly well how horribly outdated the RRC computers were, and they understood that letting us work on our own laptops was the only way we could run Apache, PHP 5, and MySQL with the administrative permissions we needed.
 
-Later that spring, however, the old administrator retired and Roosevelt Rehabilitation Center brought in new administrative leadership—a stiff bureaucrat in a pressed suit who knew nothing about software engineering, hated when clients spoke back to him, and only knew what he had been told by VITA, the Virginia Information Technology Agency.
+Later that spring, however, the old administrator retired and Roosevelt Rehabilitation Center brought in new administrative leadership—a stiff bureaucrat in a pressed navy suit carrying a clipboard who knew nothing about software engineering, hated when clients spoke back to her, and only knew what she had been told by VITA, the Virginia Information Technology Agency.
 
 Walking into our classroom during a weekday morning coding session, the new administrator stopped dead in the middle of the aisle and frowned at the row of open personal laptops sitting in front of the dark state CRT monitors.
 
@@ -3687,21 +3701,23 @@ Walking into our classroom during a weekday morning coding session, the new admi
 
 Katie, Tina, Sheila, Jim, and I all stopped typing at once.
 
-"Because, sir," Katie spoke up politely from her wheelchair before Mr. Henderson even had to answer, "the Center-provided computers on these desks are horribly outdated. They're still running Quantum OS 2000 Professional, and VITA has the permissions locked down so hard that we can't install up-to-date software, configure a PHP server, or run a local database."
+"Because, ma'am," Katie spoke up politely from her wheelchair before Mr. Henderson even had to answer, "the Center-provided computers on these desks are horribly outdated. They're still running Quantum OS 2000 Professional, and VITA has the permissions locked down so hard that we can't install up-to-date software, configure a PHP server, or run a local database."
 
-The new administrator stepped over to our workstation table, looking down at Katie and me in our wheelchairs as if he expected the two of us to shrink back and close our laptop lids. "VITA has assured my office that every workstation on the Commonwealth network is configured with standard agency software and mandatory security lockdowns," he said sharply. "You are clients here, not the IT department. Close those personal laptops right now and use the computers VITA provided."
+The new administrator stepped over to our workstation table, looking down at Katie and me in our wheelchairs as if she expected the two of us to shrink back and close our laptop lids. "VITA has assured my office that every workstation on the Commonwealth network is configured with standard agency software and mandatory security lockdowns," she said sharply. "You are clients here, not the IT department. Close those personal laptops right now and use the computers VITA provided."
 
 Neither Katie nor I touched our laptop hinges.
 
-"No, sir, we won't do that," I said calmly from my chair, meeting his stare without blinking. "Our state vocational rehabilitation plans specifically fund us to complete the Commonwealth's accredited Web Applications Developer syllabus in PHP 5 and relational database design. If you force us onto seven-year-old Quantum OS 2000 Professional machines where VITA has blocked local web servers and command prompts, you are preventing us from completing the state-mandated curriculum."
+"No, ma'am, we won't do that," I said calmly from my chair, meeting her stare without blinking. "Our state vocational rehabilitation plans specifically fund us to complete the Commonwealth's accredited Web Applications Developer syllabus in PHP 5 and relational database design. If you force us onto seven-year-old Quantum OS 2000 Professional machines where VITA has blocked local web servers and command prompts, you are preventing us from completing the state-mandated curriculum."
 
-Right beside Katie's chair, Tina stood up to her full petite height, pushed her glasses up the bridge of her nose, and looked the new administrator straight in the eye.
+Right beside Katie's chair, Tina stood up to her full petite height, pushed her glasses up the bridge of her nose, opened her spiral-bound handbook, and looked the new administrator straight in the eye.
 
-"Let me tell you how it is, sir, since somebody needs to say it plainly," Tina said, her voice steady and fearless while Sheila and Jim nodded behind her. "None of us is breaking a single VITA network rule—not one of these personal laptops is plugged into the Commonwealth's ethernet jacks. VITA configured those beige dinosaurs on the desks for someone typing memos in a seven-year-old word processor, not for web application developers. We need computers with up-to-date software, and we need permissions not to be locked down so hard that we can't even start a local web server or edit a configuration file. Unless VITA is going to walk in here today and install modern software with developer permissions on those towers, closing our laptops means shutting down the entire class."
+![Inside the 1970s concrete-block Web Applications Developer computer classroom at Roosevelt Rehabilitation Center in May 2007, twenty-year-old fraternal twins Katie and Nate Prairie sit facing each other in their collapsible black manual wheelchairs outfitted with right-armrest joysticks, spoked manual wheels with metal push-rims, and rear rubber push-handles while holding hands in front of their open personal laptops and the unused beige state CRT monitors; standing right beside Katie's wheelchair, Tina—a petite Caucasian middle-aged woman with glasses and straight jet-black hair—points to the rules in her spiral-bound student handbook as she calmly confronts the new clipboard-toting administrator while Jim and Sheila stand behind them](/assets/images/scenes/katie/b006/may_2007_rrc_web_apps_class_personal_laptops_tina_sheila_jim_katie_nate.jpg)
+
+"Let me tell you how it is, since somebody needs to say it plainly," Tina said, her voice steady and fearless while Sheila and Jim stood behind us. "None of us is breaking a single VITA network rule—not one of these personal laptops is plugged into the Commonwealth's ethernet jacks. VITA configured those beige dinosaurs on the desks for someone typing memos in a seven-year-old word processor, not for web application developers. We need computers with up-to-date software, and we need permissions not to be locked down so hard that we can't even start a local web server or edit a configuration file. Unless VITA is going to walk in here today and install modern software with developer permissions on those towers, closing our laptops means shutting down the entire class."
 
 "And if you shut down the class," Katie added evenly from her wheelchair, "my brother and I—and everyone else at these desks—will be happy to call our regional Vocational Rehabilitation counselors before lunch and explain that the new administration in Fishersville won't let us write code."
 
-The new administrator stared from Tina's unblinking glasses to Katie's and my twin wheelchairs. Just like the dorm staff in Cantor Hall, he clearly hated that Tina and the two of us refused to be pushed around—yet because none of our laptops was connected to the state network, we weren't breaking a single VITA security regulation, and he knew Mr. Henderson and the regional counselors would back us up. Muttering something under his breath about "consulting with VITA compliance," he turned on his heel and walked out the door, leaving the rest of us to exchange satisfied grins and go right back to coding on our personal laptops: Katie, Tina, and I writing the PHP back-end logic, Sheila designing the interface graphics, and Jim keeping everyone's hardware humming.
+The new administrator stared from Tina's unblinking glasses to Katie's and my twin wheelchairs. Just like the dorm staff in Cantor Hall, she clearly hated that Tina and the two of us refused to be pushed around—yet because none of our laptops was connected to the state network, we weren't breaking a single VITA security regulation, and she knew Mr. Henderson and the regional counselors would back us up. Muttering something under her breath about "consulting with VITA compliance," she turned on her heel and walked out the door, leaving the rest of us to exchange satisfied grins and go right back to coding on our personal laptops: Katie, Tina, and I writing the PHP back-end logic, Sheila designing the interface graphics, and Jim keeping everyone's hardware humming.
 
 ### Part 2: Part 2: Four Months into PHP, The Emergency in the Therapeutic Pool, & The Chickenshit Report
 
@@ -3837,6 +3853,8 @@ As Katie slowly calmed down with small sips from the cup of water, she pulled th
 
 *I LET HIM COVER MY DIGNITY!*
 
+![Inside a 1970s brick-and-wood-paneled vocational counselor's office in the Bates-Harding Building at Roosevelt Rehabilitation Center on Wednesday morning, July 11, 2007, twenty-year-old Katie and Nate Prairie sit side by side in their collapsible black manual wheelchairs outfitted with right-armrest joysticks, spoked manual wheels with metal push-rims, and rear rubber push-handles; holding a small paper cup of water in one hand, Katie leans over the wooden desk to write "I LET HIM COVER MY DIGNITY!" in bold block letters on a legal pad while Nate holds her shoulder and their vocational counselor sits across the desk deleting the overnight pool-deck entry from his computer](/assets/images/scenes/katie/b006/jul_2007_rrc_bates_harding_counselor_office_dignity_note_katie_nate.jpg)
+
 "Katie, I'm agreeing with you," our counselor said as gently as possible, deleting the poolside entry from my record on the spot.
 
 Even so, my sister didn't want to be in that meeting, and she was still deeply shaken from the day before. Back home in our apartment in West Ocean View, we would have gone straight home and climbed back into bed or curled up on the sofa together until she felt safe again. Here at RRC, they were testy about opposite-gender visitation even though we were twin brother and sister.
@@ -3872,6 +3890,8 @@ Because of Roosevelt Rehabilitation Center's suffocating bureaucratic red tape, 
 "Makes sense," Tina replied, nodding toward the corridor. "And nobody at that front desk is pushing us around tonight. Let's get this sorted out right away."
 
 When we stepped out into the hallway, the only dorm staffer on duty was Herbert—whom everyone called Herb. Herb was the one dorm staffer all of us liked because he was the guy who put on weekend video-game tournaments in the lounge, though we all knew he had zero administrative authority to override Center red tape.
+
+![Inside the 1970s red-brick lobby of Cantor Hall at Roosevelt Rehabilitation Center on Wednesday night, July 11, 2007, twenty-year-old Nathaniel ("Nate") Prairie sits in his collapsible black manual wheelchair outfitted with a right-armrest joystick, spoked manual wheels with metal push-rims, and rear rubber push-handles with his silver laptop open on a small table in front of him; at the wooden front counter, Tina—a petite Caucasian middle-aged woman with glasses and straight jet-black hair—points firmly at the scrambled room-assignment ledger while evening residential staffer Herb scratches his head in confusion and classmate Jim inspects his reassigned plastic room keycard](/assets/images/scenes/katie/b006/jul_2007_rrc_cantor_hall_room_mixup_keycards_tina_herb_jim_nate.jpg)
 
 "I can't even get through to my boss on the phone because it's after hours, and I can't log into the database to check the roster either," Herb explained, holding up his hands helplessly. "Now, all of you in the IT class, I know you don't break the rules—"
 
@@ -3982,6 +4002,8 @@ Chris had already been on the verge of getting kicked out of the Center for assa
 #### Friday, July 13, 2007, 3:45 PM — Collapsing Our Wheelchairs into Tina's Compact Sedan & The Living-Room Daybed in Luray
 
 The second Mr. Henderson dismissed our Web Applications Developer class at three-thirty on Friday afternoon, Katie and I grabbed our packed weekend bags and rolled out to the student parking lot beside Tina's compact sedan. Because we had left our heavy full-size SwiftChairs with Dad in Alexandria and been fitted with regular manual push wheelchairs outfitted with armrest joysticks for our year at RRC, all we had to do after transferring into Tina's back seat was let Tina unclip our two compact battery packs, pull up on the canvas seats to collapse both manual cross-brace frames flat, and slide both folded wheelchairs side by side into the trunk of her compact sedan. Five minutes later, we were watching the gates of Roosevelt Rehabilitation Center shrink in the rearview mirror as Tina made her regular Friday-afternoon drive north up Route 340 into the quiet green valley of Luray, Virginia.
+
+![In the student parking lot outside the 1960s and 1970s flat-roofed red-brick buildings of Roosevelt Rehabilitation Center in Fishersville, Virginia on Friday afternoon, July 13, 2007, twenty-year-old fraternal twins Katie and Nate Prairie sit side by side on the rear passenger bench seat of Tina's silver four-door compact sedan holding hands through the open rear door; at the open trunk of the car, Tina—a petite Caucasian middle-aged woman with glasses and straight jet-black hair—smiles back toward the twins as she easily lifts their collapsed black manual wheelchair frame (with spoked wheels, metal push-rims, rear rubber push-handles, and right-armrest joystick) into the trunk for the weekend drive up Route 340 to Luray](/assets/images/scenes/katie/b006/jul_2007_rrc_tina_compact_sedan_trunk_collapsing_wheelchairs_luray_trip.jpg)
 
 Walking and rolling into Tina's cozy, sunlit house in Luray felt like stepping out of a monochrome prison into a real home. Now we understood why Tina never missed a single weekend going home to Luray: out here in the Page Valley, there were no laminated rule signs taped to the walls, no clipboard-carrying evaluators or dorm supervisors trying to push clients around, no locked-down Quantum OS 2000 Professional computers, and no nasty cafeteria rations—just the smell of real home-cooked dinner simmering on the stove and a quiet living room where Tina had already made up her wide pull-out daybed with fresh sheets, fluffy pillows, and a soft quilt specifically for the two of us.
 
