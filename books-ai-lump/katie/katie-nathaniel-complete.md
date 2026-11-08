@@ -985,11 +985,11 @@ It wasn't a slow cramp like on the stairwell the week before, and it wasn't just
 
 My right knee buckled inward without an ounce of resistance. Beside me, Katie let out a sharp gasp as both of her ankles folded underneath her at the exact same instant, and before either one of us could catch the locker handles, the two of us collapsed straight down onto the hard linoleum floor.
 
-"Nathaniel! Katie!" Mr. Henderson, our eleventh-grade U.S. History teacher, called out in alarm from his open classroom doorway ten feet ahead of us, dropping his dry-erase marker onto his podium and hurrying out into the hallway. "Are you two all right?!"
+"Nathaniel! Katie!" Mr. Rutledge, our eleventh-grade U.S. History teacher, called out in alarm from his open classroom doorway ten feet ahead of us, dropping his dry-erase marker onto his podium and hurrying out into the hallway. "Are you two all right?!"
 
 My heart was hammering against my ribs from the shock of going down so fast, and my instinct—the stubborn sixteen-year-old instinct that had kept both of us forcing our legs down hallways all week—was to get right back up before the rest of the class saw us on the floor.
 
-"We're okay, Mr. Henderson—just let us stand back up," I gasped, planting my left palm flat on the cold floor while Katie braced her hands against the tiles beside me.
+"We're okay, Mr. Rutledge—just let us stand back up," I gasped, planting my left palm flat on the cold floor while Katie braced her hands against the tiles beside me.
 
 Straining with every muscle left in our shoulders, wrists, and thighs, Katie and I tried to push ourselves back up onto our feet.
 
@@ -1003,7 +1003,7 @@ The right side of my forehead slammed hard against the unforgiving linoleum-over
 
 Before the ringing in my ears even settled, my very first instinct—and Katie's—was the exact same one we had had since the day we were born. Lying flat on the cold linoleum floor with a hot, throbbing knot rising on my forehead, I reached my right hand blindly across the six inches of tile between us, and Katie's left hand met mine in midair, our fingers locking together in a vise grip so neither of us was alone on that floor.
 
-"Stay down! Do not try to get up again!" Mr. Henderson shouted, his voice dropping an octave in urgent alarm as he saw both of our heads strike the floor and our hands clasp together between us.
+"Stay down! Do not try to get up again!" Mr. Rutledge shouted, his voice dropping an octave in urgent alarm as he saw both of our heads strike the floor and our hands clasp together between us.
 
 He sprinted three steps to the classroom wall intercom just inside his doorway and pressed the red emergency call button. "Main Office, get Nurse Callahan to the first-floor B-Wing hallway outside Room 112 immediately! I need a Clinic Emergency escalation right now—Nathaniel and Katie Prairie both collapsed in the hallway, their legs gave out a second time when they tried to get up, and both of them hit their heads on the floor!"
 
@@ -1013,13 +1013,13 @@ He sprinted three steps to the classroom wall intercom just inside his doorway a
 
 Within forty-five seconds, Nurse Callahan, the school's registered nurse, arrived at a dead run with her orange trauma bag, followed closely by Assistant Principal Brooks and the clinic aide.
 
-One look at the two of us lying flat on the hard tile floor holding hands with red, swelling contusions rising on our foreheads—and Mr. Henderson's report that our arms had given out on the second collapse so nothing had cushioned our heads—was all Nurse Callahan needed to escalate the protocol straight to the Emergency Room.
+One look at the two of us lying flat on the hard tile floor holding hands with red, swelling contusions rising on our foreheads—and Mr. Rutledge's report that our arms had given out on the second collapse so nothing had cushioned our heads—was all Nurse Callahan needed to escalate the protocol straight to the Emergency Room.
 
 "Nobody lift them and nobody let them sit up!" Nurse Callahan ordered immediately, dropping to her knees behind my head while her trained clinic aide knelt behind Katie's head. Gently but firmly, Nurse Callahan placed both of her palms along the sides of my head to hold my neck in manual inline cervical stabilization, while her aide stabilized Katie's head the exact same way so neither of us could turn or nod our necks.
 
 "Mr. Brooks," Nurse Callahan commanded, "we have an unbroken dual head strike against concrete-backed tile plus acute bilateral lower-extremity paralysis. Under school division head-and-spine protocol, they cannot be lifted into clinic wheelchairs and they cannot go home in a passenger car until an Emergency Room CT scan clears their heads and cervical spines. Call 911 right now for Virginia Beach EMS transport to Bayside General Hospital Emergency Room, put B-Wing on a temporary Hold in Place so the hallway stays clear when the bell rings, and call their father to meet the ambulance at the ER!"
 
-"Calling 911 and Mr. Prairie right now," Assistant Principal Brooks said, unclipping his radio and telephone handset as Mr. Henderson closed the classroom doors along the corridor.
+"Calling 911 and Mr. Prairie right now," Assistant Principal Brooks said, unclipping his radio and telephone handset as Mr. Rutledge closed the classroom doors along the corridor.
 
 Down on the floor, even with Nurse Callahan's hands cradling the sides of my head so I couldn't turn my neck, I kept my right hand laced tightly through Katie's left hand on the tiles between us.
 
@@ -1035,7 +1035,7 @@ Down on the floor, even with Nurse Callahan's hands cradling the sides of my hea
 
 "And when we tried to push ourselves back up," Katie added clearly from beside me, "our legs and arms crumpled again and we hit our heads."
 
-"Can either of you wiggle your toes or push your feet forward against Mr. Henderson's palms?" Nurse Callahan asked.
+"Can either of you wiggle your toes or push your feet forward against Mr. Rutledge's palms?" Nurse Callahan asked.
 
 I concentrated with everything I had, ordering my ankles and calves to move. Nothing happened. Neither of my feet moved a fraction of an inch, and neither did Katie's.
 
@@ -3627,7 +3627,7 @@ At eight-thirty on Thursday morning, March 8, Katie and I rolled up to Testing T
 
 "And if you don't want to wait two hours on the shoulder of Route 250 for the VATS bus on a Saturday," Katie added, gesturing toward the recreation clipboard hanging outside the lobby office where students had to sign up for chaperoned van trips to The Spot recreation hangout or the Waynesboro ValueMart, "you have to sign up for a chaperoned Center van ride! We will be twenty-two years old in four weeks, Nate. We have associate degrees, we run our own regional transit website, and we had to get a signed Hall Pass from a dorm counselor just to ride four miles down the road to buy laundry detergent and ginger ale at ValueMart—the exact store Ms. Hollis thought I should stand at the door and greet shoppers for!"
 
-"And tonight makes our seventh night in a row being forced down separate hallways for the eleven-o'clock bed check," I whispered back, lacing my fingers tightly through hers across our armrests as the white Center van pulled up to the curb outside. "Let's see what Mr. Henderson's PHP class looks like on Monday morning, Katie—because I am already sick to death of this place."
+"And tonight makes our seventh night in a row being forced down separate hallways for the eleven-o'clock bed check," I whispered back, lacing my fingers tightly through hers across our armrests as the white Center van pulled up to the curb outside. "Let's see what Mr. Alderman's PHP class looks like on Monday morning, Katie—because I am already sick to death of this place."
 
 ## Still Level 2 in Cantor Hall, Sleeping in the Closet, & The Chickenshit Report
 
@@ -3637,23 +3637,29 @@ At eight-thirty on Thursday morning, March 8, Katie and I rolled up to Testing T
 
 ![Inside the 1970s institutional computer lab of the Web Applications Developer classroom at Roosevelt Rehabilitation Center in March 2007, Nathaniel and Katie Prairie sit side by side in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles with their personal laptops open in front of unused beige CRT state monitors while short, petite, jet-black-haired Caucasian classmate Tina in glasses stands beside Katie telling it like it is to the new administrator as Sheila and Jim back them up.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/may_2007_rrc_web_apps_class_personal_laptops_tina_sheila_jim_katie_nate.jpg)
 
-#### Monday, March 12, 2007, 8:00 AM — Cantor Hall, Still Stuck on Level 2, & Sitting Together in Class
+#### Monday, March 12, 2007, 8:00 AM — "Death Before Dishonor, NOTHING Before Coffee!", Adult Bathroom Rules, & Sitting Together in Class
 
-"You two must be Nathaniel and Katie Prairie," our Web Applications Developer instructor, Mr. Henderson, said with a welcoming grin as Katie and I rolled our joystick-outfitted wheelchairs side by side through the open doorway of the 1970s concrete-block computer lab at eight o'clock sharp on Monday morning. He gestured toward the long double workstation table near the front of the room where two wide wheelchair bays sat side by side. "I saw how the two of you tore through the entire Voc Eval coding packet in a single sitting on Thursday morning. Take those two stations right there together—you've got plenty of room to park your chairs wheel-to-wheel."
+"*Death before dishonor, NOTHING before coffee!*" Katie read aloud with a grin at eight o'clock on Monday morning as we rolled our joystick-outfitted wheelchairs down the 1970s concrete-block corridor of the Information Technology wing and paused outside the interior office window of the Computer Hardware lab right next door to our classroom, where a bold vinyl sticker was plastered across the glass above a gurgling twelve-cup commercial coffee brewer.
 
-"Thank you, Mr. Henderson," Katie said, exhaling the first genuine breath of relief either of us had taken since arriving in Fishersville as we steered into the adjacent bays and locked our manual wheel brakes side by side. "After Ms. Hollis spent last week trying to split us up to opposite corners of the break room, we half-expected another lecture about sitting apart."
+"That's Mr. Culpepper's office window," a middle-aged student with a salt-and-pepper beard chuckled, stepping out of the adjoining hardware doorway holding an empty ceramic mug while half a dozen hardware students hovered around the counter waiting for the amber pot to finish dripping. "He teaches the Computer Hardware and network cabling lab next door, and I'm telling you right now, that classroom never gets started for the day until the coffee is brewed and ready. Those guys swear by their morning coffee."
 
-Mr. Henderson snorted, setting his coffee mug down on the instructor podium. "Not in my classroom. You're here to write code, not play kindergarten musical chairs. How's Cantor Hall treating you two since you moved over on Friday?"
+"More for you guys, then," I laughed as Katie and I pulled two cold cans of ginger ale out of our backpack side pockets. "Neither my sister nor I can stand the taste of coffee."
+
+"You two must be Nathaniel and Katie Prairie," our Web Applications Developer instructor, Mr. Alderman, said with a welcoming smile, stepping out of the adjacent computer lab doorway as Mr. Culpepper gave us a friendly wave through his sticker-adorned office window next door. Mr. Alderman gestured toward the long double workstation table near the front of our lab where two wide wheelchair bays sat side by side. "I saw how the two of you tore through the entire Voc Eval coding packet in a single sitting on Thursday morning. Take those two stations right there together—you've got plenty of room to park your chairs wheel-to-wheel."
+
+"Thank you, Mr. Alderman," Katie said, exhaling the first genuine breath of relief either of us had taken since arriving in Fishersville as we steered into the adjacent bays and locked our manual wheel brakes side by side. "After Ms. Hollis spent last week trying to split us up to opposite corners of the break room, we half-expected another lecture about sitting apart."
+
+"Not in my classroom, and not in Mr. Culpepper's lab next door either," Mr. Alderman said firmly, leaning against the instructor podium while the aroma of Mr. Culpepper's fresh-brewed coffee drifted through the open connecting doorway and Katie and I popped the tabs on our cold ginger ales. "We treat our students like grown adults on a real job site. You sit where you work best, and one more thing so you know you're not in Voc Eval anymore: in this classroom, you never have to raise your hand or ask permission to go to the bathroom. Simply tell me you're heading to the restroom so I know where you are, and go. How's Cantor Hall treating you two since you moved over on Friday?"
 
 "Honestly, we're already counting the hours on our fingers," I admitted as Katie and I unzipped our backpacks. "Even though we rushed Voc Eval in one week to get out of Barton Hall, the residential office kept us stuck on Level 2 status because nobody stays long enough in seven days to earn Level 3 or Level 4. That makes eight straight nights of being forced down separate men's and women's wings at eleven o'clock with flashlights shining in our faces, plus begging for signed yellow paper Hall Passes just to step off campus."
 
-"Ah, watch out for the overnight dorm log over there," Mr. Henderson said with a dry chuckle, shaking his head. "Half the night staff in Cantor Hall love writing down every petty little thing they can find on what the teachers around here call the Chickenshit Report. Just keep your heads down in my lab and you'll be fine."
+"Ah, watch out for the overnight dorm log over there," Mr. Alderman said with a dry chuckle, shaking his head. "Half the night staff in Cantor Hall love writing down every petty little thing they can find on what the teachers around here call the Chickenshit Report. Just keep your heads down in my lab and you'll be fine."
 
 ***
 
 #### 9:00 AM — Quantum OS 2000 Professional, Meeting Tina, Jim, and Sheila, & Refusing to Be Pushed Around
 
-"All right, everyone, go ahead and hit the power switches on the desktop towers so you can see what the Commonwealth left us with," Mr. Henderson called out at nine o'clock once the rest of the class had settled into their seats.
+"All right, everyone, now that Mr. Culpepper's coffee pot next door is finally done brewing and the building is officially awake, go ahead and hit the power switches on the desktop towers so you can see what the Commonwealth left us with," Mr. Alderman called out at nine o'clock once the rest of the class had settled into their seats.
 
 Katie and I pressed the round plastic power buttons on the two beige Commonwealth of Virginia property-tagged desktop towers sitting on our table. As the bulky CRT monitors flickered to life with a high-pitched static hum, both of us stared in disbelief at the splash screen.
 
@@ -3661,11 +3667,11 @@ Katie and I pressed the round plastic power buttons on the two beige Commonwealt
 
 I clicked the Start menu to open a command prompt and check the local PHP configuration—and immediately hit a glaring red system dialog box: *ADMINISTRATOR ACCESS DENIED — CONTACT VITA SYSTEM ADMINISTRATOR*. Not only was the operating system seven years out of date, but VITA—the Virginia Information Technology Agency in Richmond—had locked the machines down with group-policy permissions so suffocating that a student login couldn't install up-to-date software or a modern web browser, couldn't edit a local PHP configuration file, couldn't start or stop a local web server service, and couldn't even open the control panel.
 
-Across the aisle from our wheelchairs, a middle-aged man with a salt-and-pepper beard tapped his keyboard twice, stared at the locked-down Quantum OS 2000 Professional desktop, and let out a dry laugh. "Well, if the Commonwealth wants us to build database-driven web applications on these dinosaurs, I hope they're planning to give us until the year 2030."
+Across the aisle from our wheelchairs, the middle-aged man with the salt-and-pepper beard who had been waiting on Mr. Culpepper's coffee pot earlier tapped his keyboard twice, stared at the locked-down Quantum OS 2000 Professional desktop, and let out a dry laugh. "Well, if the Commonwealth wants us to build database-driven web applications on these dinosaurs, I hope they're planning to give us until the year 2030."
 
 "Where are you from?" I asked, hearing the unmistakable Tidewater cadence in his voice.
 
-"Virginia Beach," he grinned, reaching across the aisle to shake my hand and then Katie's. "I'm Jim. Spent twenty years working on computer hardware and network cabling down at the Oceanfront and Lynnhaven before my back gave out and Voc Rehab sent me up the mountain to retrain."
+"Virginia Beach," he grinned, setting his mug down and reaching across the aisle to shake my hand and then Katie's. "I'm Jim. Spent twenty years working on computer hardware and network cabling down at the Oceanfront and Lynnhaven before my back gave out and Voc Rehab sent me up the mountain to retrain."
 
 "No way—we're from Virginia Beach too!" Katie beamed. "We grew up in Kempsville and went to Northwood High School and the Community College of Hampton Roads before we lived in West Ocean View!"
 
@@ -3677,7 +3683,7 @@ At the two workstations immediately to Katie's right, two middle-aged women turn
 
 Right beside Katie, Tina unzipped her shoulder bag, pulled out her own sleek personal laptop, and set it right on the desk in front of the useless state keyboard—alongside a well-thumbed, spiral-bound copy of the Roosevelt Rehabilitation Center Student Handbook bristling with sticky notes.
 
-"Every single student in this class—Jim, Sheila, Sarah, Amanda, Bryan, Sean, and me—brings our own personal laptop and runs Apache, PHP 5, and MySQL on our own hard drive," Tina told us plainly, adjusting her glasses. "Technically the Center rules say no personal computers in class, but Mr. Henderson and the old vocational administrator let us do it because they know VITA locked these state towers down so tight you can't code a single script on them."
+"Every single student in this class—Jim, Sheila, Sarah, Amanda, Bryan, Sean, and me—brings our own personal laptop and runs Apache, PHP 5, and MySQL on our own hard drive," Tina told us plainly, adjusting her glasses. "Technically the Center rules say no personal computers in class, but Mr. Alderman and the old vocational administrator let us do it because they know VITA locked these state towers down so tight you can't code a single script on them."
 
 "Wait—why do you have sticky notes all through the student handbook?" Katie asked, glancing at Tina's spiral booklet.
 
@@ -3703,11 +3709,11 @@ Mr. Vance's face flushed crimson from his collar to his hairline. He glared at T
 
 #### Tuesday, March 13, 2007, 9:30 AM — Coding on Personal Laptops & Standing Up to the New VITA-Obsessed Administrator
 
-"Mr. Henderson," a sharp voice rang out from the doorway of the Web Applications Developer classroom at nine-thirty on Tuesday morning, "why are all of these students using personal laptops instead of the Center-provided computers?"
+"Mr. Alderman," a sharp voice rang out from the doorway of the Web Applications Developer classroom at nine-thirty on Tuesday morning, "why are all of these students using personal laptops instead of the Center-provided computers?"
 
 Katie, Tina, Sheila, Jim, and I all paused with our fingers hovering over our personal laptop keyboards and looked toward the center aisle. Standing there in a pressed navy suit with a clipboard tucked against her arm was the brand-new vocational division administrator who had started on campus that week—frowning down the row of open personal laptops sitting in front of the dark, powered-off state CRT monitors.
 
-"Because, ma'am," Katie spoke up politely from her wheelchair before Mr. Henderson even had to step around the podium, "the Center-provided computers on these desks are horribly outdated. They're still running Quantum OS 2000 Professional, and VITA has the permissions locked down so hard that we can't install up-to-date software, configure a PHP server, or run a local database."
+"Because, ma'am," Katie spoke up politely from her wheelchair before Mr. Alderman even had to step around the podium, "the Center-provided computers on these desks are horribly outdated. They're still running Quantum OS 2000 Professional, and VITA has the permissions locked down so hard that we can't install up-to-date software, configure a PHP server, or run a local database."
 
 The new administrator marched over to our front workstation table, looking down at Katie and me in our wheelchairs as if she expected the two of us to shrink back and shut our laptop lids. "VITA has assured my office that every workstation on the Commonwealth network is configured with standard agency software and mandatory security lockdowns," she said sharply. "You are clients here, not the IT department. Close those personal laptops right now and use the computers VITA provided."
 
@@ -3723,7 +3729,7 @@ Right beside Katie's chair, Tina stood up to her full petite height, pushed her 
 
 "And if you shut down the class," Katie added evenly from her wheelchair, reaching across our armrests to hold my hand, "my brother and I—and everyone else at these desks—will be happy to call our regional Vocational Rehabilitation counselors before lunch and explain that the new administration in Fishersville won't let us write code."
 
-The new administrator stared from Tina's unblinking glasses to Katie's and my twin wheelchairs. Because not a single personal laptop in the room was plugged into the state ethernet wall jacks, we weren't violating a single VITA network regulation, and she knew Mr. Henderson and the regional counselors would back us up. Muttering under her breath about "consulting with VITA compliance," she turned on her heel and walked out the door, leaving the five of us to exchange satisfied grins and go right back to coding on our personal laptops: Katie, Tina, and I writing the PHP back-end logic, Sheila designing the interface graphics, and Jim keeping everyone's hardware humming.
+The new administrator stared from Tina's unblinking glasses to Katie's and my twin wheelchairs. Because not a single personal laptop in the room was plugged into the state ethernet wall jacks, we weren't violating a single VITA network regulation, and she knew Mr. Alderman, Mr. Culpepper next door, and the regional counselors would back us up. Muttering under her breath about "consulting with VITA compliance," she turned on her heel and walked out the door, leaving the five of us to exchange satisfied grins and go right back to coding on our personal laptops: Katie, Tina, and I writing the PHP back-end logic, Sheila designing the interface graphics, and Jim keeping everyone's hardware humming.
 
 ### Part 2: Emergency in the Therapeutic Pool, Caught Sleeping Together in a Closet, Calling the Staffer's Bluff, & The Chickenshit Report
 
@@ -3857,7 +3863,7 @@ When the secretary brought in a small paper cup of cool water and Katie slowly t
 
 "Katie, I'm agreeing with you," the supervisor said gently, tapping his keyboard and deleting the Tuesday afternoon poolside entry from my record on the spot. "That pool-deck entry is gone. Your regular counselor will still see the two of you tomorrow morning regarding last night's eleven-o'clock Cantor Hall closet write-up, since she's out of the office today, but as far as yesterday afternoon at the pool goes, you did the right thing looking out for your sister, Nathaniel."
 
-"Back home in our apartment, we are at each other's side twenty-four hours a day," I told him bluntly before we unlocked our brakes to roll over to Mr. Henderson's classroom. "In case there's a meltdown or an emergency in the middle of the night, the other one is right there. We are not used to being apart—and we are not staying somewhere that treats keeping my sister safe like a rule violation."
+"Back home in our apartment, we are at each other's side twenty-four hours a day," I told him bluntly before we unlocked our brakes to roll over to Mr. Alderman's classroom. "In case there's a meltdown or an emergency in the middle of the night, the other one is right there. We are not used to being apart—and we are not staying somewhere that treats keeping my sister safe like a rule violation."
 
 ## The Cantor Hall Room Mix-Up, Tina's Daybed in Luray, & Leaving RRC After Twelve Days
 
@@ -3939,7 +3945,7 @@ When we came back out in our pajamas, Tina looked at the two of us with quiet re
 
 "That might not be a bad idea," Katie whispered, wiping her eyes with her sleeve.
 
-"Pack yourselves a duffel bag tomorrow, and we will leave on Friday at three-thirty sharp as soon as Mr. Henderson's class is over," Tina promised, reaching for the wall switch to turn off the overhead fluorescent light as Katie and I climbed onto my narrow twin mattress together.
+"Pack yourselves a duffel bag tomorrow, and we will leave on Friday at three-thirty sharp as soon as Mr. Alderman's class is over," Tina promised, reaching for the wall switch to turn off the overhead fluorescent light as Katie and I climbed onto my narrow twin mattress together.
 
 "On one hand, I'm glad we are back together again," Katie whispered in the dark, pressing her forehead against my collarbone, "but yet on the other, I feel so weird and sick about what happened tonight."
 
@@ -3983,7 +3989,7 @@ Carrying our trays to the far corner table away from the noise, Katie, Sarah, Ti
 
 Trying to coax even a faint breath out of my pale sister, I tapped my plastic fork against the rock-hard gray square sitting on my plate that was supposed to be toast and asked rhetorically, "What is *this*?!"
 
-Less than an hour later, as we rolled along the walkway from the dining hall toward Mr. Henderson's classroom at seven-fifty, we stopped by the curb and watched in stunned, furious silence as two RRC staffers escorted Chris out to a waiting passenger van by the front gate carrying his duffel bag—with not a single state trooper cruiser, sheriff's deputy, or pair of handcuffs in sight.
+Less than an hour later, as we rolled along the walkway from the dining hall toward Mr. Alderman's classroom at seven-fifty, we stopped by the curb and watched in stunned, furious silence as two RRC staffers escorted Chris out to a waiting passenger van by the front gate carrying his duffel bag—with not a single state trooper cruiser, sheriff's deputy, or pair of handcuffs in sight.
 
 "Wait—they're just kicking him out and putting him in a van?" Tina said aloud on the sidewalk beside Katie's wheelchair, her voice shaking with anger. "He assaulted Katie in the pool on Tuesday, he attacked Natalie in the dorms last night during their own keycard mix-up, and instead of calling the State Police and having him arrested in handcuffs, the administration is just escorting him off the property and sweeping the whole thing under the rug so it doesn't show up on a state incident report?!"
 
@@ -4019,13 +4025,13 @@ In the quiet dark of Tina's living room, Katie curled straight into my arms unde
 
 I listened to the quiet mountain wind rustling the trees outside Tina's front window, holding my twin sister close.
 
-"We don't have to go back, Katie," I whispered, rubbing her back under the quilt. "Before we shut down our laptops in Mr. Henderson's lab at three-thirty today, we copied the entire PHP 5 and SQL course syllabus and every textbook exercise onto both of our hard drives. We already have our associate degrees from the Community College of Hampton Roads. We don't need to stay locked up as Level 2 clients begging for yellow Hall Passes—or stay at a center that sweeps what happened to Natalie under the rug just to protect their butt-in-seats funding—when we can master server-side PHP and SQL from home."
+"We don't have to go back, Katie," I whispered, rubbing her back under the quilt. "Before we shut down our laptops in Mr. Alderman's lab at three-thirty today, we copied the entire PHP 5 and SQL course syllabus and every textbook exercise onto both of our hard drives. We already have our associate degrees from the Community College of Hampton Roads. We don't need to stay locked up as Level 2 clients begging for yellow Hall Passes—or stay at a center that sweeps what happened to Natalie under the rug just to protect their butt-in-seats funding—when we can master server-side PHP and SQL from home."
 
 ***
 
 #### Sunday, March 18, 2007, 1:00 PM — Calling Dad to Pack Up Cantor Hall & Returning to Our Routine in Virginia Beach
 
-"I don't blame you two one bit," Tina said over hot pancakes and fresh apple juice at her dining table on Saturday morning, setting her coffee mug down and adjusting her glasses beneath her jet-black hair after Katie and I told her our decision and dialed Dad's number in Alexandria on speakerphone. "Between the aides grabbing your wheelchair push-handles during Voc Eval, that insulting ValueMart door-greeter pitch, keeping you stuck on Level 2 with yellow Hall Passes, the Chickenshit Report after the pool, writing you up for sleeping in a closet, and the disgusting way the administration swept what Chris did to Natalie under the rug on Thursday, I wouldn't stay another night in those dorms either if I were in your shoes. You already copied Mr. Henderson's full PHP and SQL curriculum onto your laptops, and Sheila, Jim, and I are online every afternoon. We'll share every lecture note, review each other's database code over instant messenger, and build our projects together without a single dorm supervisor breathing down your necks."
+"I don't blame you two one bit," Tina said over hot pancakes and fresh apple juice at her dining table on Saturday morning, setting her coffee mug down and adjusting her glasses beneath her jet-black hair after Katie and I told her our decision and dialed Dad's number in Alexandria on speakerphone. "Between the aides grabbing your wheelchair push-handles during Voc Eval, that insulting ValueMart door-greeter pitch, keeping you stuck on Level 2 with yellow Hall Passes, the Chickenshit Report after the pool, writing you up for sleeping in a closet, and the disgusting way the administration swept what Chris did to Natalie under the rug on Thursday, I wouldn't stay another night in those dorms either if I were in your shoes. You already copied Mr. Alderman's full PHP and SQL curriculum onto your laptops, and Sheila, Jim, and I are online every afternoon. We'll share every lecture note, review each other's database code over instant messenger, and build our projects together without a single dorm supervisor breathing down your necks."
 
 "Listen to me, both of you," Dad's voice came through the speakerphone from his house on Sunset Drive in Alexandria, warm and fierce at the same time. "I couldn't be prouder of you for standing up for each other and walking away from a place that refused to respect your dignity or your bond. Stay right there at Tina's house today and rest up. Tomorrow morning I'm driving my pickup truck down Interstate 81, we'll stop by Fishersville just long enough to clear the rest of your clothes out of Cantor Hall and drop your room keys on the front desk, and I'll bring you straight home to Virginia Beach."
 
@@ -4848,11 +4854,11 @@ When Katie and I rolled out of the Municipal Center at nine-thirty that December
 
 "I still apologize that we only had a one-bedroom accessible apartment left on the ground floor for the legislative session, Delegate Prairie," the property manager of the Broad & Boulevard Lofts said nervously as he held open the wide oak door of Apartment 104 and handed twenty-eight-year-old Katie two brass keys and a pair of electronic lobby fobs. "When the General Assembly convenes every January, the two-bedroom corporate units book up months in advance. If you and your brother need us to roll a folding cot into the living room—"
 
-"No cot needed at all, Mr. Henderson, thank you," Katie said with a warm, reassuring smile from her compact black SwiftChair as she rolled smoothly across the threshold ahead of me and our fifty-five-year-old dad. "A one-bedroom apartment with one queen bed is actually the exact layout my brother and I asked for."
+"No cot needed at all, Mr. Davenport, thank you," Katie said with a warm, reassuring smile from her compact black SwiftChair as she rolled smoothly across the threshold ahead of me and our fifty-five-year-old dad. "A one-bedroom apartment with one queen bed is actually the exact layout my brother and I asked for."
 
 Behind us, pushing a wheeled bellhop cart loaded with our two dark-blue comforter bags from home, our dual laptop stands, and two plastic crates of kitchen staples that he had driven down I-95 from Alexandria in the bed of his pickup truck to meet our morning ARTS train from Norfolk, Dad chuckled softly at the property manager's polite blink of surprise.
 
-Once Mr. Henderson wished us a good winter in Richmond and stepped back out into the wide brick-and-timber hallway, I clicked the deadbolt shut and looked around our new sixty-day winter sanctuary.
+Once Mr. Davenport wished us a good winter in Richmond and stepped back out into the wide brick-and-timber hallway, I clicked the deadbolt shut and looked around our new sixty-day winter sanctuary.
 
 It was Friday, January 3, 2014—five full days before the Virginia General Assembly would gavel in at noon on Wednesday, January 8 for Katie's very first session representing the Eighty-Fifth House District back home in Kempsville and Virginia Beach.
 
@@ -6312,7 +6318,7 @@ Just as we had done every winter session in Richmond for twelve years, United St
 
 #### Sunday, January 3, 2027, 5:00 AM — Norfolk Station & Three Business Class Tickets for Free Café Car Drinks
 
-"Make sure you keep your receipt folded in your wallet, Katie—that Business Class barcode gets the three of us unlimited free ginger ale and hot coffee out of the Café Car all the way up to Alexandria," our sixty-eight-year-old dad said with a grin at five o'clock in the morning, holding his leather garment bag in one hand as the uniformed ARTS station attendant finished cranking our second compact SwiftChair power wheelchair up the yellow mobile lift into the warm stainless-steel vestibule at Norfolk Station.
+"Make sure you keep your receipt folded in your wallet, Katie—that Business Class barcode gets the two of you unlimited free ginger ale and gets me hot coffee out of the Café Car all the way up to Alexandria," our sixty-eight-year-old dad said with a grin at five o'clock in the morning, holding his leather garment bag in one hand as the uniformed ARTS station attendant finished cranking our second compact SwiftChair power wheelchair up the yellow mobile lift into the warm stainless-steel vestibule at Norfolk Station.
 
 Outside on the low-level brick platform beside Harbor Park, the January predawn wind off the Elizabeth River was cold enough to turn our breath into white plumes under the station lamps. Inside the front end of the combined ARTS Business Class and Café Car, the air smelled like fresh-brewed dark roast coffee, warm baseboard heat, and polished vinyl headrests.
 
@@ -6336,7 +6342,7 @@ And as Katie and I locked the brakes of our two compact silver-and-black SwiftCh
 
 "The Café Car attendant just rolled the security grille up on the counter thirty feet behind us," I replied, reaching across the gap between our armrests to squeeze my twin sister's hand as the diesel locomotive gave two low horn blasts and the train glided smoothly away from the Norfolk platform into the dark winter morning. "Let's go get our free ginger ales and Dad's black coffee right now so we get our money's worth before Petersburg."
 
-Besides the promise Katie and I had made to each other behind a locked bedroom door on New Year's Eve when we were seventeen years old, all three of us—Katie, Dad, and I—took a daily prescription maintenance medication where mixing the drug with alcohol or tobacco carried a known, lethal side effect of death. Back in Richmond, and now in Washington, where lobbyists and senior lawmakers loved to clink glasses of expensive cabernet or pass around celebratory cigars in back rooms, that warning label on our pill bottles was our favorite conversational shield: nobody at a Capitol Hill reception ever tried to push a second glass of wine or a cocktail on a Senator after she cheerfully informed them that the known side effect of mixing it with her daily medication was dying on their carpet. For the three of us, cold ginger ale and hot black coffee from the ARTS Café Car were the only celebratory drinks we would ever need.
+Besides the promise Katie and I had made to each other behind a locked bedroom door on New Year's Eve when we were seventeen years old, all three of us—Katie, Dad, and I—took a daily prescription maintenance medication where mixing the drug with alcohol or tobacco carried a known, lethal side effect of death. Back in Richmond, and now in Washington, where lobbyists and senior lawmakers loved to clink glasses of expensive cabernet or pass around celebratory cigars in back rooms, that warning label on our pill bottles was our favorite conversational shield: nobody at a Capitol Hill reception ever tried to push a second glass of wine or a cocktail on a Senator after she cheerfully informed them that the known side effect of mixing it with her daily medication was dying on their carpet. For the three of us, cold ginger ale for Katie and me and hot black coffee for Dad from the ARTS Café Car were the only celebratory drinks we would ever need.
 
 
 ***
