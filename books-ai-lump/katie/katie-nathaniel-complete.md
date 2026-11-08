@@ -3379,7 +3379,7 @@ I looked at the calendar pinned beside our desk and did the math in my head. "In
 
 ## Barton Hall Check-In, Rushing Voc Eval in One Week, & 'Door Greeter!?'
 
-### Part 1: Part 1: Sunday Check-In at Barton Hall, The Opposite-Gender Dorm Rule, & Expelling the Creepy Roommate
+### Part 1: Sunday Check-In at Barton Hall, The Opposite-Gender Dorm Rule, & Expelling the Creepy Roommate
 
 **Date:** 2007-03-04 at 11:15 America/New_York
 
@@ -3389,155 +3389,151 @@ I looked at the calendar pinned beside our desk and did the math in my head. "In
 
 ![Inside the 1960s red-brick and terrazzo lobby of Barton Hall at Roosevelt Rehabilitation Center on Sunday, March 4, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit in their collapsible manual wheelchairs outfitted with right-armrest joysticks, spoked push-rim wheels, and rear rubber push-handles as Katie locks her brakes and firmly stops a staffer from grabbing her push-handles while their father David stands beside a luggage cart.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_barton_hall_checkin_push_handles_katie_nate_david.jpg)
 
-"It was a whole lot easier for me to bring the two of them up here on a Sunday since I work weekdays," Dad explained to the residential staffer who met the three of us outside the flat-roofed 1960s red-brick entrance of Barton Hall at Roosevelt Rehabilitation Center in Fishersville.
+"It was a whole lot easier for me to bring the two of them up here on a Sunday since I start my new weekday schedule up in Tysons Corner tomorrow morning," Dad explained to the residential staffer who met the three of us outside the flat-roofed 1960s red-brick entrance of Barton Hall at Roosevelt Rehabilitation Center in Fishersville.
 
-Originally established in November 1947 on the grounds of a former World War II Army general hospital—and rebuilt throughout the 1960s and 1970s into a sprawling complex of aging, flat-roofed red-brick institutional buildings with wide terrazzo corridors and cinder-block walls—Roosevelt Rehabilitation Center looked every inch like a mid-century state facility frozen in time.
+"Oh, clients arrive on Sundays all the time, Mr. Prairie, so it's no big deal at all," the staffer smiled, propping the heavy glass vestibule door open against the chilly March mountain breeze as Katie and I guided our wheelchairs side by side across the threshold. Our backpacks hung over our canvas seatbacks, and Dad rolled a brass luggage cart stacked with our suitcases and laptop bags right behind us over the scuffed green-and-white terrazzo floor. "Come on back to the dorm office so we can introduce ourselves and get their intake paperwork started."
 
-"Oh, clients arrive on Sundays all the time, Mr. Prairie, so it's no big deal at all," the staffer smiled, holding the inner vestibule door open as Katie and I rolled side by side across the threshold with our backpacks slung over our seatbacks and Dad wheeling a luggage cart stacked with our suitcases and computer cases right behind us. "Come on back to the dorm office so we can introduce ourselves and get their intake paperwork started."
+Looking down the wide cinder-block corridor, with its buzzing fluorescent troffers and faded 1970s brass plaques reminding visitors that the facility had stood on these former World War II Army hospital grounds since November 1947, I reached across my armrest and brushed my knuckles against Katie's fingers. She gave my hand a quick, grounding squeeze before we rolled into the intake office behind a wooden counter.
 
-For the previous fifteen months down in Norfolk—ever since that rainy Saturday night in November 2005 when Katie had ridden five consecutive buses out of Williamsburg to rescue me from Tiffany Sloan and we had scrubbed Apartment 3 at Sea Breeze West clean from top to bottom—my twin sister and I had never spent a single night under separate roofs. We had finished our associate degrees at the Community College of Hampton Roads together, published our weekly transit analyses on Ideas for Coastal Virginia Transit together, shared the same queen-sized bed or our deep-pressure sleeping-bag sanctuary on the hallway closet floor every night, and kept each other grounded whenever the outside world got too loud.
+"Here are their updated medical clearances and my emergency contact numbers," Dad said, setting a manila folder on the blotter in front of the Sunday residential coordinator, a middle-aged woman whose plastic badge read *Linda*. "You'll see two addresses listed for me. My Virginia driver's license has my new primary residence on Sunset Drive near King Street in Alexandria, right down the road from my new engineering job in Tysons Corner, and the second number is our brick ranch off Military Highway and Indian River Road down in Virginia Beach. I bought that Virginia Beach house from my old landlord years ago and kept it when their West Ocean View apartment lease ended on Wednesday so the twins always have their familiar home and routine waiting for them in Hampton Roads."
 
-When our West Ocean View lease finally came to an end at the close of February 2007, Dad landed a senior systems-engineering job up in Tysons Corner. Years earlier, after our parents' separation in the summer of 2001, Dad had rented that single-story brick ranch with the aluminum front-porch wheelchair ramp off Military Highway and Indian River Road in Virginia Beach—and he had eventually bought the house outright from the landlord, keeping it as the primary residence on his Virginia driver's license throughout the years he lived and worked in Hampton Roads. Once he took the Tysons Corner position in March 2007, Dad bought a second house—a two-story red-brick home on Sunset Drive in Alexandria—and updated his driver's license primary residence to Sunset Drive, while intentionally keeping the house off Military Highway in Virginia Beach so that whenever Katie and I wanted to come back to Hampton Roads, we had our familiar home and our autistic routine waiting for us.
+"Got both numbers right here on the top sheet," Linda said, clipping the page into two green intake folders. She glanced over the counter at our wheelchairs—regular folding manual cross-brace frames with spoked push-rim wheels and rear rubber push-handles that Dr. Carter's seating clinic had fitted with right-armrest joystick power-drive kits—and raised her eyebrows slightly. "I see the vocational counselor's note here says you two left your full-size power chairs in Virginia Beach?"
 
-Before settling back into the Military Highway house full-time, however, our vocational rehabilitation counselor had talked Katie and me into enrolling in the residential Web Applications Developer program at Roosevelt Rehabilitation Center in the Shenandoah Valley so we could learn server-side PHP programming and relational database design.
+"Dr. Carter had these folding frames rigged up with joystick drives for the trip," I explained, resting my palm on my right-hand controller. "Neither of us has the wrist or upper-arm strength to push manual hand-rims across a campus, so we still drive everywhere with the joysticks, and if we ever catch a ride off campus in a regular compact sedan, you just unclip the battery box underneath and the frame folds flat into a trunk."
 
-Because our heavy full-size SwiftChair power wheelchairs wouldn't fit inside the trunk of an average compact sedan if we ever rode off campus with classmates or friends, our full-size SwiftChairs stayed safely stored at home while we came to Fishersville. In their place, the seating clinic had fitted both Katie and me with regular folding manual push wheelchairs outfitted with armrest joystick power-drive kits—giving us the best of both worlds: we still drove everywhere effortlessly with a right-hand joystick so we never had to strain our weak wrists or upper arms pushing hand-rims, yet with the battery pack unclipped, both cross-brace frames collapsed flat to slide into the trunk of any ordinary compact car.
-
-The only catch with having regular manual push wheelchairs outfitted with joysticks, as Katie and I were about to discover from our very first hour at RRC, was that the frames still had standard rubber push-handles sticking out the back—which made half the staff on campus assume they had a license to grab our handles and wheel us around like luggage.
-
-Sitting side by side in the Barton Hall office while the Sunday residential coordinator, Linda, slid our green intake folders and room keys across the desk, Katie and I came face-to-face with the one institutional rule we both already despised with every fiber of our being.
-
-"Now, for your initial Vocational Evaluation period here in Barton Hall, Nathaniel, your room is down on the men's wing, and Katie, you are in Room 157 over on the women's wing," Linda said, tapping the highlighted housing sheet. "Please remember that under Roosevelt Rehabilitation Center residential policy, there is strictly no visiting dorm rooms of the opposite gender."
+"Very smart," Linda said, sliding our two green folders and two brass room keys on plastic tags across the counter. "Now, for your initial Vocational Evaluation period here in Barton Hall, Nathaniel, your room is down on the men's wing, and Katie, you are in Room 157 over on the women's wing. Please remember that under Roosevelt Rehabilitation Center residential policy, there is strictly no visiting dorm rooms of the opposite gender."
 
 Katie and I looked at each other across our armrests, a cold knot tightening in the pit of my stomach.
 
-In the spring of 2007, nobody at state vocational centers or university housing offices had ever heard of gender-inclusive housing or sibling-accommodation suites. To the bureaucracy in Fishersville, a twenty-one-year-old man and a twenty-one-year-old woman were simply a male client and a female client who had to be kept on opposite sides of the building—regardless of the fact that we were fraternal twins who had shared a bedroom and a bed at home in Ocean View and relied on each other to prevent nighttime sensory overload. Right there at Linda's desk, five minutes into our stay, Katie and I learned a permanent lesson about ourselves: traditional dormitories were never going to be right for us, and we were already questioning how many nights of this place we would be willing to tolerate.
+"Hold on, ma'am," I said, leaning forward in my chair. "Katie and I are fraternal twins. We just spent the last three and a half years sharing our own apartments down in Norfolk while we earned our associate degrees at the Community College of Hampton Roads. We haven't slept under separate roofs a single night since our apartment in West Ocean View, and whenever one of us gets overwhelmed at night, the other one is right there."
 
-"Opposite-gender room visitation between six and eleven in the evening is an earned privilege reserved exclusively for Level 4 clients over in Cantor Hall," Linda continued in a practiced, cheerful tone, "and all newly arriving clients here in Barton Hall start at Level 2. You two are more than welcome to spend time together in the dorm lobby, the outdoor courtyard, the recreation hall, or the dining hall—just not inside the dorm rooms proper. Since you're brother and sister and just arrived, I'm going to escort you down the halls right now so you can help each other unpack your bags, but once your suitcases are unpacked, you'll each have to leave the other's room."
+"I understand you're brother and sister, Nathaniel, and that you're used to sharing an apartment," Linda replied in a practiced, unyielding voice, tapping the highlighted paragraph on the housing sheet, "but this is a state residential facility, not an off-campus apartment. Opposite-gender room visitation between six and eleven in the evening is an earned privilege reserved exclusively for Level 4 clients over in Cantor Hall, and all newly arriving clients here in Barton Hall start at Level 2. You two are more than welcome to spend time together in the dorm lobby, the outdoor courtyard, the recreation hall, or the dining hall—just not inside the dorm rooms proper. Since you just arrived today, I'm going to escort you down the halls right now so you can help each other unpack your bags, but once your suitcases are unpacked, you'll each have to leave the other's room."
 
-As Linda stood up from her desk and stepped around the counter, another residential staffer lingered by the doorway, saw the standard rubber push-handles on the back of Katie's folding frame, and automatically reached both hands toward her grips without asking as if he were about to wheel her down the corridor himself.
+Katie's jaw set hard, her fingers whitening on her armrest. As Linda stood up from her chair and stepped around the counter, the male residential staffer who had held the front door lingered by the office threshold, looked down at the standard rubber push-handles sticking out the back of Katie's folding frame, and reached both hands straight for her grips without asking as if he were about to wheel her down the corridor himself.
 
-Already furious about being told we were going to be separated into opposite wings at night, Katie snapped. She clicked her joystick controller off, locked her wheel brakes hard, whipped her head around, and went straight after the staffer with an aggressive edge in her voice that she almost never used back home.
+Katie clicked her joystick controller off, slammed both manual wheel-locks forward with a sharp metal *clack*, whipped her head around, and went straight after him with an aggressive edge in her voice that she almost never used back home.
 
-"Get your hands off my wheelchair right now!" Katie barked at him across the lobby. "Do not touch my push-handles! Do I look like a piece of luggage to you?! Our chairs have joysticks on the armrests for a reason—my brother and I drive ourselves, and if you grab my chair without my permission again, you and I are going to have a serious problem!"
+"Get your hands off my wheelchair right now!" Katie barked across the lobby. "Do not touch my push-handles! Do I look like a piece of luggage to you?! Our chairs have joysticks on the armrests for a reason—my brother and I drive ourselves, and if you grab my chair without my permission again, you and I are going to have a serious problem!"
 
 "Hey—watch your tone with residential staff, young lady," the staffer bristled, jerking his hands back from her rubber grips while his face turned red.
 
-"Watch your hands around my sister's wheelchair!" I shot right back, guiding my own joystick-outfitted chair flush alongside Katie's so nobody could step between us.
+"Watch your hands around my sister's wheelchair!" I shot right back, guiding my own chair flush alongside Katie's so nobody could step between us.
 
-Linda held up a hand between the counter and the doorway, frowning slightly at Katie. "Katie, Nathaniel, I'm going to let that slide with a verbal warning since you two just walked through the door five minutes ago and I know check-in day is stressful, but aggressive outbursts toward staff are a write-up offense here at Roosevelt."
+Linda held up a hand between the counter and the doorway, frowning sharply at the two of us. "Katie, Nathaniel, I'm going to let that slide with a verbal warning since you two just walked through the door five minutes ago and I know check-in day is stressful, but aggressive outbursts toward staff are a write-up offense here at Roosevelt."
 
 Neither Katie nor I apologized. Instead, both of us fixed the staffer by the doorway with identical, disgusted looks—staring him straight in the eye with an unblinking glare that amounted to a flat-out dare: *go ahead and write us up right now if you want to.*
 
 The staffer swallowed, looked away from our twin glares, and shoved his hands into his pockets without touching his clipboard.
 
-With Linda walking beside us, we rolled down to the men's wing first so Katie and Dad could help me unload my clothes and laptop bag onto my side of the narrow two-bed room—where my assigned roommate was already lounging on the other bed watching us in silence—and then rolled over to Room 157 on the women's wing to help Katie unpack alongside her new roommate, who greeted all three of us warmly.
+With Linda walking beside us down the men's corridor first, Katie and Dad helped me unload my clothes and laptop bag onto my side of the narrow cinder-block two-bed room—where my assigned roommate was already lounging on the opposite mattress watching us in silence—before we rolled across the building to Room 157 on the women's wing to help Katie unpack alongside her new roommate, who greeted all three of us warmly.
 
-As soon as the last suitcase was stowed and we rolled back out to the neutral territory of the Barton Hall lobby with our MagnaBook laptops in our laps, Katie steered her wheelchair flush against mine and leaned close to my ear.
+As soon as the last suitcase was stowed under Katie's bed and we rolled back out to the neutral territory of the Barton Hall lobby with our MagnaBook laptops resting on our lap trays, Katie steered her wheelchair flush against mine and leaned close to my ear.
 
 "I noticed your roommate was staring at my tits the entire time I was helping you unpack," Katie said quietly, her jaw tight.
 
-"I noticed it too, and I wasn't thrilled about it for a second," I answered, my blood simmering as I put my arm around my sister's shoulders while our laptops booted up on our lap trays. "Your roommate back in Room 157 seemed like a genuinely nice person, whereas I think I got stuck with a complete jerk of a roommate. What do you want to do?"
+"I noticed it too, and I wasn't thrilled about it for a second," I answered, my blood simmering as I put my arm around my sister's shoulders while our laptops booted up. "Your roommate back in Room 157 seemed like a genuinely nice person, whereas I think I got stuck with a complete jerk of a roommate. What do you want to do?"
 
 "No offense, Nate, but your roommate gave off a really bad first impression," Katie sighed, before turning in her seat and pulling me into a tight, reassuring hug so I knew she didn't blame me for who the housing office had put in my room.
 
-A moment later, Dad walked out of Linda's office tucking our signed carbon copies into his coat pocket. "All right, you two, the paperwork is finished," Dad said warmly. "I'm going to take both of you into Waynesboro to get a real lunch before I have to head back."
+A moment later, Dad walked out of Linda's office tucking our signed carbon copies into his coat pocket. "All right, you two, the paperwork is finished," Dad said warmly. "Come on—I'm taking both of you into Waynesboro to get a real lunch before I have to get on the highway toward Alexandria."
 
 ***
 
 #### 3:00 PM — House Guard 2 in the Dorm Lobby, Cafeteria Rations, & The 11:00 PM Curfew Check
 
-After a long, comforting lunch with Dad in Waynesboro and a tight three-way hug at the curb before he drove away, Katie and I spent the middle of the afternoon exploring the campus together.
+"I wish they had an actual lap pool here instead of just the small therapeutic pool, but oh well," Katie sighed, peering through the interior observation glass of the campus recreation hall at the quiet, steamy natatorium before glancing down at her wristwatch as her stomach gave an audible rumble. "I'm already hungry again and it's only three o'clock, even after that big lunch Dad bought us in Waynesboro."
 
-We rolled over to the recreation hall first to see what activities were open on a Sunday afternoon, pausing by the glass observation windows overlooking the indoor natatorium.
+"Look at the board games over on that table—half the boxes are missing their lids, and the TV in the lounge is turned up way too loud," I said, turning my chair beside hers. "Want to head back across the walkway to the Barton Hall lobby?"
 
-"I wish they had an actual lap pool here instead of just the small therapeutic pool, but oh well," Katie sighed, looking down at her wristwatch as her stomach gave an audible rumble. "I'm already hungry again and it's only three o'clock."
+"Please," Katie nodded, rolling out the automatic doors beside me into the cool afternoon air.
 
-Unimpressed with the worn board games and noisy television in the rec hall, we rolled back across the paved walkway to the Barton Hall lobby and parked side by side on the far side of the lounge chairs.
+We parked wheel-to-wheel on the far side of the Barton Hall lounge chairs, well out of earshot of the front desk.
 
-"If it weren't for that silly opposite-gender dorm rule, I'd say let's just head back to one of our rooms and close the door," I muttered, hating the rule more by the hour as both of us felt the strangeness of having nowhere private to rest together.
+"If it weren't for that silly opposite-gender dorm rule, I'd say let's just head back to one of our rooms and close the door," I muttered, looking toward the two separate wing doors at opposite ends of the lobby.
 
-Instead, I unzipped my backpack, pulled out a two-way stereo headphone splitter, and plugged both of our headsets into the audio jack of my laptop. Opening our DVD drive, we queued up the brownstone booby-trap sequence of one of our favorite childhood Christmas comedies, *House Guard 2: Lost in Manhattan*—right where the kid stands on the rooftop throwing bricks down at the two bumbling burglars.
+Instead, I unzipped my backpack, pulled out a two-way stereo headphone splitter, and plugged both of our headsets into the audio jack of my laptop. Sliding a DVD into the drive, we queued up the brownstone booby-trap sequence of one of our favorite childhood Christmas comedies, *House Guard 2: Lost in Manhattan*—right where the kid stands on the rooftop throwing bricks down at the two bumbling burglars.
 
 Within two minutes, both Katie and I were shaking with laughter across our armrests—laughing so hard that half a dozen other students sitting around the dorm lobby looked over and asked what on earth was so funny. Grinning, Katie hit the rewind button back to the scene where the two bandits were robbing the toy-store cash register, unplugged the headphone splitter so the sound played through my laptop speakers, and angled the screen toward the lounge so the other students could crowd around and laugh right along with us.
 
-When the funny sequence finished at quarter to five, we packed our laptops back into our bags.
+When the sequence wrapped up at quarter to five, we shut down the DVD player and zipped our laptops back into our bags.
 
 "How about we roll inside the courtyard together for some fresh air," Katie suggested, lacing her fingers through mine, "and then we'll split up for two minutes just to drop our backpacks off in our rooms, wait for each other right outside the wing doors, and head to dinner together?"
 
 "Deal," I said, giving her a quick hug before we parted at the hallway junction.
 
-When I rolled into my room to set my backpack on my desk chair, my roommate looked up from his bed with a sleazy smirk. "Hey, man—who was the hot blonde babe in here with you earlier?"
+When I unlocked my door on the men's wing and rolled inside to set my backpack on my desk chair, my roommate looked up from his pillow with a sleazy smirk. "Hey, man—who was the hot blonde babe in here with you earlier?"
 
-I decided to ignore him completely. Locking my desk drawer, I spun my wheelchair around, rolled straight back out to the courtyard walkway where Katie was waiting for me, and told her verbatim what he had just said. Katie wasn't surprised in the slightest—just thoroughly disgusted.
+I didn't dignify him with a single word. Locking my desk drawer, I spun my wheelchair around in the narrow aisle, rolled straight back out to the courtyard walkway where Katie was waiting for me, and told her verbatim what he had just said.
 
-At five-thirty, we followed the stream of residential students across the breezeway to the main cafeteria.
+"Gross," Katie said, curling her lip in disgust as we turned toward the covered breezeway at five-thirty with the stream of residential students heading to the main cafeteria. "If he walks past us tonight, hold my hand so he gets it through his thick skull not to talk to me."
 
-"Looks like burgers and french fries on the steam line," Katie observed as we picked up two plastic trays, balanced them across our lap trays, and found a quiet table for two near the wall.
+Inside the noisy dining hall, we picked up two plastic trays, balanced them across our lap trays along the stainless-steel rail, and steered over to a small table for two near the wall.
 
-Katie picked up a limp, lukewarm fry, took one bite, and made a face. "That tastes nasty!"
+"Looks like burgers and french fries," Katie said, picking up a limp, lukewarm fry from her plate. She took one bite and made a face. "That tastes nasty!"
 
 At the next table over, a veteran student in a faded hoodie snorted around his plastic fork. "You two must be new here. Get used to your rations."
 
 "Well," I sighed, poking dubiously at my gray hamburger patty, "the food definitely isn't the greatest, but what choice do we have?"
 
-As soon as we dumped our trays and rolled back out into the cool evening air toward Barton Hall, Katie reached over and took my hand, giggling softly under her breath. "If your creepy roommate walks past us, I want it to look like we're dating."
+As soon as we dumped our trays at the dish window and rolled back out into the cool dusk air toward Barton Hall, Katie reached across our armrests and took my hand, giggling softly under her breath. "Just in case your creepy roommate is watching from the sidewalk—I want it to look like we're dating."
 
-"Where to now?" I asked as the front doors of Barton Hall opened. "Dorm lobby?"
+"Where to now?" I asked as the front doors of Barton Hall slid open. "Dorm lobby?"
 
 "Yeah," Katie said softly, her smile fading a little as she looked toward the separate hallway doors. "Until it's time for bed. I miss living together back home."
 
-We parked in our quiet corner of the lobby, where I wrapped my arm around her shoulders and Katie snuggled into my arms with a long yawn. "We'll have breakfast together first thing in the morning," I promised, resting my cheek against her hair, "and then we're staying right at each other's side through every minute of orientation."
+We parked in our quiet corner of the lobby, where I wrapped my arm around her shoulders and Katie snuggled against my chest with a long yawn. "We'll have breakfast together first thing in the morning," I promised, resting my cheek against her hair, "and then we're staying right at each other's side through every minute of evaluation."
 
-By nine o'clock, both of us were nodding off in our chairs. Neither of us wanted to let go; we both hated being apart at night, not just because we were family, but because we had spent our entire lives as each other's safe harbor. Tearfully, we hugged each other goodbye in the lobby before reluctantly rolling down our separate wings for the night.
+By nine o'clock, both of us were nodding off in our chairs. Tearfully, we hugged each other goodbye in the middle of the lobby before reluctantly turning down our separate wings for the night.
 
-When I entered my room on the men's wing, my roommate wasn't there. Relieved to have the room to myself, I changed into my pajamas and transferred into bed—though I couldn't fall asleep, knowing that Dorm Staff made mandatory rounds at eleven o'clock sharp to verify that every Level 2 client in Barton Hall was in bed for curfew.
+When I rolled into my room on the men's wing, the bed across from mine was empty. Relieved to have the room to myself, I changed into my pajamas, locked my wheelchair brakes beside the frame, and transferred under the stiff institutional blanket—lying awake in the dark waiting for the eleven-o'clock curfew check.
 
-Sure enough, a few minutes after eleven, the hallway door clicked open and a night staffer popped in—pausing when he saw the empty mattress across from mine.
+Five minutes past eleven, the hallway door clicked open and a night staffer shone his flashlight inside, pausing when the beam hit the empty mattress across from mine.
 
 "Where's your roommate?" the staffer asked.
 
-"I haven't seen him at all tonight," I explained honestly from my pillow. "And considering the sexually suggestive things he was saying about my sister earlier today, I really don't want to see him right now."
+"I haven't seen him at all tonight," I said from my pillow. "And considering the sexually suggestive things he was saying about my sister earlier today, I really don't want to see him right now."
 
 The staffer stepped inside and lowered his clipboard. "What did he say?"
 
-"Right after I finished unpacking, he asked me, 'Who's the babe?'" I replied. "And later on, while we were sitting in the lobby, my sister noticed him staring at her breasts."
+"Right after I finished unpacking, he asked me, 'Who's the hot blonde babe?'" I replied. "And earlier, while my sister was helping me unpack, she noticed him staring at her breasts."
 
 "What's your sister's name?" the staffer asked, uncapping his pen.
 
 "Katie. Katie Prairie. Room 157," I replied.
 
-When morning rolled around at quarter to seven, I looked across the room and found my roommate passed out cold on top of his bed, smelling strongly of alcohol and marijuana. Tiptoeing around his side of the room, I quietly got dressed, transferred into my wheelchair, and rolled straight out to the Barton Hall lobby to wait for Katie.
+When my wristwatch alarm beeped at quarter to seven on Monday morning, I looked across the narrow room and saw my roommate passed out face-down on top of his bedspread in his street clothes, reeking of stale beer and marijuana. Keeping silent so I wouldn't wake him, I got dressed, transferred into my wheelchair, and rolled straight out to the Barton Hall lobby, where Katie came through the women's wing doors less than a minute later and wrapped her arms around my neck.
 
-Minutes after Katie met me in the lobby, the weekday morning dorm supervisor—the strict morning lady whom none of the troublemakers dared to cross—called both of us into her office to talk about what had happened the day before. As she informed us, my roommate had been caught red-handed the night before trying to sneak into the women's dormitory wing to talk another female student into sleeping with him, and just like Katie, that girl wasn't interested either and had turned him straight in to staff because he wouldn't stop bothering her. Combined with his string of prior rule-breaking and coming back intoxicated after curfew, he was being expelled and escorted off campus that very morning.
+Before we could head out the front doors toward the cafeteria, the weekday morning dorm supervisor—a tall, no-nonsense woman with steel-gray hair—stepped out of the residential office and beckoned to the two of us.
 
-Watching the relief wash over Katie's face as we rolled out of the office made the whole morning feel lighter.
+"Nathaniel, Katie, step into my office for thirty seconds," she said, closing the door behind our wheelchairs. "I wanted both of you to know before you head to breakfast that Nathaniel's roommate is being expelled and escorted off the property by Campus Police this morning. At eleven-fifteen last night, night staff caught him trying to sneak past the fire doors into the women's dormitory wing to pressure another female client into sleeping with him, and just like you, Katie, that young woman wanted nothing to do with him and turned him straight in because he wouldn't stop harassing her. Between that, his prior write-ups, and staggering back onto campus intoxicated after curfew, he is done here. You have that room to yourself, Nathaniel."
 
-### Part 2: Part 2: Rushing Voc Eval in One Week, Auto Shop & 'Door Greeter!?', Refusing Separation, & Staying Stuck on Level 2
+Katie let out a long breath beside me, her shoulders dropping two inches in pure relief as we thanked the supervisor and rolled back out into the morning hallway together.
+
+### Part 2: Rushing Voc Eval in One Week, Auto Shop & 'Door Greeter!?', Refusing Separation, & Staying Stuck on Level 2
 
 **Date:** 2007-03-05 at 07:15 America/New_York
 
 ![Inside the 1960s painted cinder-block Vocational Evaluation break room in the Bates-Harding Building at Roosevelt Rehabilitation Center in March 2007, twenty-one-year-old twins Nathaniel and Katie Prairie sit parked wheel-to-wheel in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles, locking hands across their armrests and loudly expressing their displeasure as evaluator Ms. Hollis and aide Mr. Miller try to separate them during social time.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_voc_eval_social_break_refusing_separation_katie_nate.jpg)
 
-#### Monday, March 5, 2007, 7:15 AM — The Medication Line, Making Beds on a Clipboard, & Proving "Social Skills"
+#### Monday, March 5, 2007, 7:15 AM — The Medication Line, Auto Shop & Woodworking, & "Door Greeter!?"
 
 ![Inside the 1960s painted cinder-block Vocational Evaluation break room in the Bates-Harding Building at Roosevelt Rehabilitation Center in March 2007, twenty-one-year-old twins Nathaniel and Katie Prairie sit parked wheel-to-wheel in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles, locking hands across their armrests and loudly expressing their displeasure as evaluator Ms. Hollis and aide Mr. Miller try to separate them during social time.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_voc_eval_social_break_refusing_separation_katie_nate.jpg)
 
 "We need our breakfast," Katie said as we rolled side by side out of the Barton Hall lobby toward the dining hall breezeway.
 
-"I'm guessing breakfast is going to be just as nasty as dinner was last night," I replied as the doors opened into the crisp March mountain air.
+"I'm guessing breakfast is going to be just as nasty as dinner was last night," I replied as the automatic doors slid open into the crisp March mountain air.
 
-We were both right—watery scrambled eggs and limp toast—and as soon as we finished eating, we had to join the long single-file line of Level 2 clients waiting outside the dispensary window for our morning dose of maintenance medication.
+Twenty minutes later, after pushing watery scrambled eggs and limp toast around our plastic plates, we rolled down the corridor to join the long single-file line of Level 2 clients waiting outside the dispensary window for our morning maintenance medication.
 
 "This is so stupid," Katie whispered in exasperation as we inched forward in our joystick-outfitted wheelchairs. "We're twenty-one years old, and we're both used to managing our own medication bottles back home in our apartment."
 
-When we finally reached the dispensary counter and the nurse tried to talk to us in a high-pitched, sing-song voice as if we were seven-year-olds learning how to swallow a vitamin, I looked straight across the counter at her.
+When we reached the counter, the dispensary nurse leaned toward the opening and spoke to us in a high-pitched, sing-song voice as if we were seven-year-olds learning how to swallow a chewable vitamin. "Good morning, friends! Ready to take our morning pills with a big sip of water?"
 
-"Ma'am, we have associate degrees and we've managed our own prescriptions in our own apartment for three and a half years," I said flatly. "You don't need to talk down to us like children. Just hand us the paper cups and check our names off the clipboard."
+I looked straight across the counter at her. "Ma'am, we have associate degrees and we've managed our own prescriptions in our own apartment in Norfolk for three and a half years," I said flatly. "You don't need to talk down to us like children. Just hand us the paper cups and check our names off the clipboard."
 
-The nurse's patronizing smile vanished immediately, and she handed over our cups in silence.
+The nurse's patronizing smile vanished immediately, and she handed over our pleated paper cups in silence.
 
-"I don't think I'm going to like it here," I responded quietly to Katie as we rolled away from the window, slipping my arm around her shoulders.
+"I don't think I'm going to like it here," I said quietly to Katie as we rolled away from the window, slipping my arm around her shoulders.
 
 "I already miss the apartment," Katie whispered back, leaning against my arm.
 
@@ -3547,103 +3543,95 @@ Right then, angry screams echoed from the main entrance doors down the hall.
 
 "Get out of my life too, jerk!" a boy shouted right back at her.
 
-Down the line from us, another student sighed and shook his head. "Those two. Always fighting. Always arguing."
+Down the hallway from us, another student sighed and shook his head. "Those two. Always fighting. Always arguing."
 
 Katie looked over at me with a wry, grateful smile. "I'm glad we're siblings, Nate."
 
 I pulled her into a warm hug across our armrests and whispered, "Yeah. No boyfriend-girlfriend drama between us."
 
-At eight-thirty sharp, however, we rolled into the Vocational Evaluation wing of the Bates-Harding Building and discovered what the mandatory intake period at Roosevelt Rehabilitation Center actually entailed—and why Katie and I were going to hate every single minute of it.
+At eight-thirty sharp, we followed the directional signs into the Vocational Evaluation wing of the Bates-Harding Building and parked side by side at a scarred laminate table at the front of the intake room. At the dry-erase board stood the lead evaluation specialist, Ms. Hollis, holding a thick stack of yellow checklists while her evaluation aide, Mr. Miller, passed them down the rows.
 
-Before any client at RRC was allowed to set foot inside a training classroom, everyone was supposed to spend their first two full weeks in what the center called Voc Eval. Under the state rehabilitation handbook overseen by the Department for Aging and Rehabilitative Services, Voc Eval had three mandatory stages: first, clients had to prove to independent-living evaluators that they knew basic life skills—making their beds with hospital corners, washing themselves, doing their own laundry in the dorm machines, and preparing basic food in a test kitchen; second, they were taken around on a multi-day rotation through the Center's different trade programs to see which one was "the best fit"; and third, they had to prove to the staff that they possessed "appropriate social skills."
+"Welcome to Vocational Evaluation," Ms. Hollis announced briskly. "Before any client at Roosevelt Rehabilitation Center is permitted to enter a vocational classroom or move into Cantor Hall, you will spend the next two full weeks right here in Voc Eval completing three mandatory requirements under Department for Aging and Rehabilitative Services guidelines. First, you will demonstrate independent-living skills to our staff—making your dorm bed with proper corners, doing a load of laundry, and preparing a basic meal in the test kitchen. Second, you will rotate with Mr. Miller through our campus trade shops—auto mechanics, woodworking, nursing assistant, food service, and retail—so we can determine which trade is the best fit for you. And third, our team will grade your daily socialization and appropriate social skills."
 
-For Katie and me, the life-skills checks were insultingly easy—we had already lived on our own in Norfolk for more than three years, kept Apartment 3 at Sea Breeze West spotless after kicking Tiffany out, cooked our own meals, washed our own laundry every Saturday, and earned our associate degrees at CCHR.
+Katie raised her hand immediately. "Excuse me, Ms. Hollis? Nathaniel and I already have our associate degrees from the Community College of Hampton Roads, we lived in our own off-campus apartments in Norfolk for three and a half years, and our vocational counselor in Hampton Roads specifically sent us here for the Web Applications Developer PHP and SQL track. We've been writing HTML since seventh grade and Quantum Basic since high school. Why do we need to spend two weeks touring auto mechanics, woodworking, and nursing?"
 
-What drove us up the wall was the mandatory trade-program tour.
+Ms. Hollis tapped her pen against her clipboard with a tight, practiced smile. "Everyone follows the same two-week evaluation protocol here, Katie. Nobody skips the trade rotations. Mr. Miller, take the group down to the auto mechanics bay first."
 
-Katie and I already knew 100 percent what we wanted to do: we had been coding HTML since seventh grade at Morrison Middle School, we had learned Quantum Basic 6.0 alongside our father in high school, and we had come to Fishersville specifically for the Web Applications Developer track. Yet because of the rigid Voc Eval checklist, the evaluators insisted on dragging two twenty-one-year-old wheelchair users with progressive neuromuscular weakness around campus to sample unrelated manual trades.
+For the next three hours, Katie and I sat side by side in mounting disbelief as Mr. Miller led our cohort from one manual-labor shop to the next. In the auto mechanics bay, we sat parked beside a hydraulic lift smelling burnt motor oil while an instructor demonstrated a heavy pneumatic impact wrench that neither Katie nor I had the upper-body strength to lift off a workbench, let alone use standing under a car chassis. Forty-five minutes later, Mr. Miller marched the group into the woodworking shop, where fine oak sawdust drifted over our lap trays and screaming table saws vibrated through the concrete floor. Right before lunch, we were wheeled into the nursing assistant training lab to watch students practice two-person transfers lifting a hundred-and-fifty-pound plastic mannequin onto a hospital bed.
 
-Why on earth were we spending a full morning parked beside hydraulic lifts and greasy engine blocks in the auto mechanics shop when neither of us could stand or turn a heavy torque wrench? Why were they wheeling us into the noisy woodworking shop around spinning table saws and clouds of sawdust? Why were we sitting in the nursing assistant school watching students practice lifting hospital mannequins onto beds when we were the ones in wheelchairs?
+As soon as Mr. Miller led the group back into the Bates-Harding evaluation room at eleven-thirty, I steered straight up to Ms. Hollis's desk with Katie right beside me.
 
-Even worse was what happened when we pointed out how ridiculous the shop tour was.
+"Ms. Hollis, that tour makes zero sense for the two of us," I said bluntly. "We're both in wheelchairs with progressive neuromuscular weakness in our legs and arms. We can't stand under a hydraulic lift in an auto shop, we can't stand at a table saw in a woodworking shop, and we certainly can't lift hospital patients in nursing school. We came here to write server-side PHP and SQL code."
 
-When we rolled back into the evaluation room from the nursing lab and asked the lead evaluation specialist, Ms. Hollis, why we were wasting days touring auto shop, woodworking, and nursing when we were already enrolled for Web Applications Developer, Ms. Hollis put on a practiced, condescending smile that looked at our wheelchairs instead of our transcripts.
+Ms. Hollis looked down at our wheelchairs—never once glancing at our CCHR transcripts in her folder—and put on a bright, syrupy smile.
 
-"Now, Katie, Nathaniel, here at Roosevelt we have to evaluate realistic physical alternatives in case the stamina demands of software engineering prove too taxing," Ms. Hollis said brightly, tapping her pen against her clipboard. "If the computer track doesn't pan out, we have a wonderful partnership with ValueMart right down the road in Waynesboro! We could train Katie to be a ValueMart Door Greeter—it has very minimal physical requirements, and you just sit in the vestibule and smile at shoppers—and Nathaniel, with your polite voice, we could place you in our Food Service Prep or stockroom tagging track!"
+"Now, Katie, Nathaniel, here at Roosevelt we have to evaluate realistic physical alternatives in case the stamina demands of software engineering prove too taxing," Ms. Hollis said, tapping her pen on the desk blotter. "If the computer track doesn't pan out, we have a wonderful partnership with ValueMart right down the road in Waynesboro! We could train Katie to be a ValueMart Door Greeter—it has very minimal physical requirements, and you just sit in the vestibule and smile at shoppers—and Nathaniel, with your polite voice, we could place you in our Food Service Prep or stockroom tagging track!"
 
 Katie stared at her in utter, stunned disbelief.
 
-"Door greeter!?" Katie repeated out loud, her voice echoing off the painted cinder-block walls. "My brother and I have associate degrees with honors! We write HTML, CSS, and Quantum Basic by hand, we run a regional transit analysis website read by city councilors across six cities, and you look at two people in wheelchairs and think our career ceiling is sitting by the sliding doors at ValueMart saying hello to shoppers?!"
+"Door greeter!?" Katie repeated out loud, her voice ringing off the painted cinder-block walls so loudly that every student in the room turned around to look. "My brother and I have associate degrees with honors! We write HTML, CSS, and Quantum Basic by hand, we run a regional transit analysis website read by city councilors across six cities, and you look at two people in wheelchairs and think our career ceiling is sitting by the sliding doors at ValueMart saying hello to shoppers?!"
 
-"I'm simply explaining all of the options DARS offers our clients," Ms. Hollis said stiffly, her cheeks reddening as Katie and I exchanged a look of pure disgust. Neither of us forgot that insult—not that week in Fishersville, and certainly not years later when Katie sat in the United States Senate as the Class II Senator from Virginia and RRC came to Capitol Hill through DARS asking for federal appropriations.
+"I'm simply explaining all of the options DARS offers our clients," Ms. Hollis said stiffly, her cheeks reddening as Katie and I exchanged a look of pure disgust and rolled back to our table.
 
-On top of the insulting trade-shop tour, we immediately butted heads hard with the Voc Eval staff over their constant attempts to physically handle our wheelchairs and separate the two of us.
+***
 
-Because our collapsible wheelchairs were regular manual push frames outfitted with armrest joysticks—meaning they still had standard rubber push-handles sticking out the back—the aides in the Vocational Evaluation wing seemed to think those handles were public property.
+#### Tuesday, March 6, 2007, 9:15 AM — "Do Not Grab Our Wheelchairs!" & Refusing Separation at Social Break
 
-In the wheelchair community, there is one rule every person who uses a chair knows in their bones: a person's wheelchair is an extension of their own body. Grabbing someone's wheelchair without their permission isn't "helping" them—it is considered deeply rude, because grabbing a person's chair is literally grabbing and touching their body without consent.
+"All right, group, let's head down the hall to the independent-living test kitchen so we can check off your meal-prep rubric!" Mr. Miller called out at nine-fifteen on Tuesday morning as Katie and I closed our testing binders and powered on our right-armrest joysticks to roll out into the Bates-Harding corridor.
 
-On Tuesday morning of that week in Voc Eval, as our evaluation group prepared to move down the corridor of the Bates-Harding Building from the computer testing room to the independent-living test kitchen, a well-meaning evaluation aide named Mr. Miller walked up behind Katie and me with a cheerful smile, didn't ask a single question, and clamped one hand onto Katie's right push-handle and his other hand onto my left push-handle to push the two of us down the hall himself.
+Before we had even cleared the doorway, Mr. Miller walked briskly up behind the two of us without saying a word, reached out, and clamped his right hand onto Katie's rear rubber push-handle and his left hand onto my rear rubber push-handle to shove both of our wheelchairs down the hallway himself.
 
-The sudden backward tug against our motorized wheel hubs jolted both of our frames at once.
+The sudden manual shove against our motorized wheel hubs jolted both of our cross-brace frames forward at once.
 
-"Hey—take your hands off our wheelchairs right now!" I said loudly, my voice echoing down the terrazzo corridor as both Katie and I locked our joystick brakes hard enough to stop Mr. Miller in his tracks.
+"Hey—take your hands off our wheelchairs right now!" I barked loudly, my voice echoing down the terrazzo corridor as both Katie and I clicked our drives off and slammed our manual wheel brakes locked, stopping Mr. Miller dead in his tracks.
 
-"Excuse me!" Katie said just as loudly, twisting around in her seat so every evaluator and client in the hallway heard her displeasure. "Do not grab my wheelchair! Our chairs have joysticks on the armrests—we drive ourselves! Grabbing somebody's wheelchair without asking is no different from grabbing our bodies in the middle of the hallway!"
+"Excuse me!" Katie shouted, twisting around in her seat so every evaluator and student in the corridor heard her displeasure. "Do not grab my wheelchair! Our chairs have joysticks on the armrests—we drive ourselves! Grabbing somebody's wheelchair without asking is no different from grabbing our bodies in the middle of the hallway!"
 
-Mr. Miller jerked both hands back as if the rubber grips had burned him, his face turning pink. "Oh—now wait a second, Katie, Nathaniel, I was just trying to be helpful and get everyone down to the test kitchen on time—"
+Mr. Miller jerked both hands back as if the rubber grips had burned his palms, his face turning pink. "Oh—now wait a second, Katie, Nathaniel, I was just trying to be helpful and get everyone down to the test kitchen on time—"
 
-"If you want us at the test kitchen, you tell us where the door is with your voice, just like you tell every walking student in this hallway!" I said loudly, refusing to lower my volume by a single decibel. "In our community, a wheelchair is part of the person sitting in it. You wouldn't walk up behind a standing twenty-one-year-old woman and shove her down the hall by her shoulders without asking, and you do not put your hands on our push-handles to push us around the center!"
+"If you want us at the test kitchen, you tell us where the door is with your voice, just like you tell every walking student in this hallway!" I said loudly, refusing to lower my volume by a single decibel. "In our community, a wheelchair is an extension of the person sitting in it. You wouldn't walk up behind a standing twenty-one-year-old woman and shove her down the hall by her shoulders without asking, and you do not put your hands on our push-handles to push us around this center!"
 
-You would think that hallway confrontation would have taught the Voc Eval staff to keep their hands off our chairs and stop trying to manage us like toddlers, but the very next afternoon—during Wednesday's scheduled afternoon social break—Ms. Hollis decided to try both at once.
+Mr. Miller muttered a flustered apology and kept six feet behind us all the way to the test kitchen—where Katie and I briskly fried eggs, toasted bread, scrubbed the skillet clean, and checked off every single independent-living box on the clipboard in twenty minutes flat.
 
-Katie and I were parked wheel-to-wheel in our usual quiet corner of the evaluation break room, drinking two cans of ginger ale and reviewing database flowcharts together while the rest of the Voc Eval cohort chatted around the tables, when Ms. Hollis marched over flanked by Mr. Miller.
+By two-fifteen on Wednesday afternoon, however, during the scheduled Vocational Evaluation social break in the painted cinder-block break room, Ms. Hollis marched across the linoleum toward the quiet corner where Katie and I sat parked wheel-to-wheel drinking two cans of ginger ale and sketching relational database tables—with Mr. Miller trailing right behind her.
 
-"Nathaniel, Katie," Ms. Hollis said, tapping her pen against her clipboard with a disapproving frown, "for the past three days, the evaluation team has noted that the two of you have not separated once—not in the evaluation room, not during break times, not in the cafeteria, and not in the Barton Hall lounge."
+"Nathaniel, Katie," Ms. Hollis said, rapping her pen against her clipboard with a disapproving frown, "for the past three days, the evaluation team has noted that the two of you have not separated once—not in the evaluation room, not during break times, not in the cafeteria, and not in the Barton Hall lounge."
 
-Katie and I looked up at her at the exact same second. "That's because we're twins, ma'am," Katie said firmly. "We do everything together."
+Katie and I looked up from our notebook at the exact same second. "That's because we're twins, ma'am," Katie said firmly. "We do everything together."
 
 "Well, while you are in Vocational Evaluation, that needs to change—especially during social times," Ms. Hollis said briskly, gesturing toward two opposite corners of the break room. "Part of your evaluation is proving that you have independent social skills. You two are twenty-one years old—you are supposed to be branching out, making your own individual friends, and going your separate sibling ways during the day. Starting right now for the rest of social break, Nathaniel, you are going over to Table One, and Katie, you are going over to Table Four. Mr. Miller, go ahead and wheel Katie over to Table Four."
 
-Before Mr. Miller could even get his fingers within six inches of Katie's push-handles, Katie and I reached across our armrests, locked our hands together in an unbreakable grip, and let the entire room hear our displeasure at full volume.
+Before Mr. Miller could bring his fingers within six inches of Katie's rear push-handles, Katie and I reached across our armrests, locked our hands together in an unbreakable grip, and let the entire room hear our displeasure at full volume.
 
-"Keep your hands off my sister's wheelchair!" I barked loudly across the break room, making every single conversation at the tables stop dead. "We told you yesterday—nobody touches our chairs, and nobody pushes us around!"
+"Keep your hands off my sister's wheelchair!" I barked across the break room, making every conversation at Tables One through Four stop dead. "We told you yesterday—nobody touches our chairs, and nobody pushes us around!"
 
-"And we are NOT being handled or separated like five-year-olds during break time!" Katie said loudly, her blue eyes blazing at Ms. Hollis with the exact steel that would one day freeze a hundred delegates on the floor of the State Capitol.
+"And we are NOT being handled or separated like five-year-olds during break time!" Katie said loudly, her blue eyes blazing straight at Ms. Hollis.
 
-Ms. Hollis blinked, clearly unused to Level 2 clients raising their voices and telling her no in front of the entire cohort. "Excuse me, Katie? Nathaniel? Refusing a socialization directive during social time goes down as a deficiency on your Vocational Evaluation rubric."
+Ms. Hollis blinked, visibly rattled by two Level 2 clients telling her no in front of the entire cohort. "Excuse me, Katie? Nathaniel? Refusing a socialization directive during social time goes down as a deficiency on your Vocational Evaluation rubric."
 
-"Then write it down in capital letters as a deficiency!" Katie shot back loudly enough for the whole wing to hear. "My brother and I are perfectly polite to everyone in this room! Just Sunday afternoon in the Barton Hall lobby, we shared our movie with half the building and had everyone laughing together! We know how to talk to people, we know how to make our beds, we know how to do our laundry, and we already have associate degrees! What we do not tolerate is Center staff grabbing our wheelchairs like they own our bodies or trying to pry twin brother and sister apart during social time just to check a box on your clipboard!"
+"Then write it down in capital letters as a deficiency!" Katie shot back loudly enough for the whole wing to hear. "My brother and I are perfectly polite to everyone in this room! Just Sunday afternoon in the Barton Hall lobby, we shared our DVD with half the building and had everyone laughing together! We know how to talk to people, we already passed your bed-making, laundry, and kitchen checks yesterday, and we already have associate degrees! What we do not tolerate is Center staff grabbing our wheelchairs like they own our bodies or trying to pry twin brother and sister apart during social time just to check a box on your clipboard!"
 
-"If the price of admission to the Web Applications Developer class is wasting two weeks in auto shop and woodworking, letting staff push our chairs around, and pretending my twin sister is a stranger across the room," I added loudly and evenly, "then we will call our father right now, pack our suitcases in Barton Hall, and go home tonight!"
+"And we are not sitting in Vocational Evaluation for a second week," I added loudly and evenly, holding Katie's hand tightly across our armrests. "Put the entire two-day Web Applications Developer technical, mathematical, HTML, and logic exam battery on our table at eight-thirty tomorrow morning. Either we test out of Voc Eval in one week and start the Web Applications Developer class on Monday morning, or we will call our father in Alexandria right now, pack our suitcases in Barton Hall, and go home tonight!"
 
-Every student at Tables One through Four was staring straight at Ms. Hollis and Mr. Miller. Realizing that two honors-level CCHR graduates were dead serious about walking out the front door right then—and that losing two enrolled full-time residential clients would look terrible on the division's numbers—Ms. Hollis pressed her lips into a thin line, motioned for Mr. Miller to step back, and retreated to her desk without moving either of our chairs an inch.
+Every student at the four break tables was staring straight at Ms. Hollis and Mr. Miller. Pressing her lips into a thin line, Ms. Hollis motioned for Mr. Miller to step back. "Fine," she said clippedly. "Be at Testing Table Two at eight-thirty sharp tomorrow morning, and we'll see if you can pass the full Web Applications packet in one sitting."
 
-Better still, Katie and I refused to let them drag our Voc Eval out for a second week.
-
-That Thursday morning, we demanded to take the entire battery of Web Applications Developer technical, mathematical, HTML, and logic aptitude exams back-to-back in a single sitting. Both of us finished the two-day testing packet before lunch with near-perfect scores, proved every remaining independent-living item on the rubric by three o'clock Thursday afternoon, and forced the Voc Eval division to sign off on our completion in one single week instead of two—clearing us to move our bags out of Barton Hall over to Cantor Hall on Friday afternoon and start the Web Applications Developer class on Monday morning.
+At eight-thirty on Thursday morning, March 8, Katie and I rolled up to Testing Table Two, opened the thick two-day exam packets side by side, and tore through every algebra, binary logic, HTML, CSS, and database-normalization section without pausing for a single break—slapping our completed test booklets onto Ms. Hollis's desk at eleven-forty-five before lunch with near-perfect scores that forced her to sign our one-week Vocational Evaluation completion forms and clear us to move our suitcases out of Barton Hall into Cantor Hall on Friday afternoon.
 
 ***
 
 #### Saturday, March 10, 2007, 1:00 PM — Moving to Cantor Hall, Still Stuck on Level 2, & Hating the Hall Pass Rule
 
-Even though rushing through Voc Eval in a single week got us out of Barton Hall and into Cantor Hall—the dormitory where vocational training students lived—by Friday afternoon, March 9, there was a massive catch that kept Katie and me just as miserable all weekend.
+"Look at this yellow slip of paper, Nate," Katie whispered in disgust on Saturday afternoon as we sat parked wheel-to-wheel in the Cantor Hall lobby holding two signed yellow paper Level 2 Hall Passes while we waited by the glass doors for the Center recreation van. "We rushed the entire two-week Voc Eval in one week just to get out of Barton Hall and move our suitcases over here to Cantor Hall yesterday afternoon, and they still kept us stuck on Level 2!"
 
-Because we had only been on campus for six days, we hadn't been at Roosevelt Rehabilitation Center nearly long enough to earn Level 3 privileges, let alone Level 4. Under Center rules, moving into Cantor Hall after a one-week Voc Eval meant we remained stuck on Level 2 probationary status: we were still strictly forbidden from setting foot inside each other's dorm rooms, we were still subjected to the mandatory eleven-o'clock night bed-check curfew, and we still had to beg for signed yellow paper Hall Passes just to step off campus.
+"Because nobody who's only been on campus for six days has been here long enough to earn Level 3, let alone Level 4," I muttered, looking down at the counselor's signature on my yellow paper pass. "Back home in Norfolk or Virginia Beach, if we want to go buy snacks or browse computer books at Chapters & Co., we just roll out our front door to the nearest CVTA bus stop, pay our fare, and go wherever we please like normal adults. Up here, even in Cantor Hall, a Level 2 client can't even roll past the front gates on Roosevelt Avenue to catch the local VATS shuttle bus between Staunton, Fishersville, and Waynesboro without begging the dorm office for a signed yellow Hall Pass stating where we're going and what minute we'll be back."
 
-Back home in Hampton Roads, whenever Katie and I wanted to go to the grocery store, browse computer books at Chapters & Co., or grab a burger, we simply rolled out our front door to the nearest CVTA bus stop, paid our fare, and went wherever we pleased like normal adults.
+"And if you don't want to wait two hours on the shoulder of Route 250 for the VATS bus on a Saturday," Katie added, gesturing toward the recreation clipboard hanging outside the lobby office where students had to sign up for chaperoned van trips to The Spot recreation hangout or the Waynesboro ValueMart, "you have to sign up for a chaperoned Center van ride! We will be twenty-two years old in four weeks, Nate. We have associate degrees, we run our own regional transit website, and we had to get a signed Hall Pass from a dorm counselor just to ride four miles down the road to buy laundry detergent and ginger ale at ValueMart—the exact store Ms. Hollis thought I should stand at the door and greet shoppers for!"
 
-At Roosevelt Rehabilitation Center, however, Level 2 clients—even in Cantor Hall—were treated like middle-schoolers on a field trip. You were not allowed to roll past the front campus gates on Roosevelt Avenue—not even to catch the local VATS bus, the Valley Area Transit Service shuttle that was the forerunner to Shenandoah Valley Transit between Staunton, Fishersville, and Waynesboro—without applying in advance for a signed paper Hall Pass from the residential office stating where you were going, why you were going there, and what minute you would be back.
-
-Worse still, if you wanted to go shopping on a Saturday afternoon without waiting two hours on US-250 for the VATS bus, you had to sign your name on a clipboard outside the recreation office for a Center-sponsored chaperone van trip to approved destinations like The Spot recreation hangout or the Waynesboro ValueMart.
-
-"Look at this clipboard, Nate," Katie whispered on Saturday afternoon, March 10, as we sat side by side in the lobby holding two yellow paper Level 2 Hall Passes just to ride the Center shuttle bus four miles down the road to ValueMart for snacks and laundry detergent. "We will be twenty-two years old in four weeks. We have associate degrees, we run our own regional transit blog, and we had to get a signed Hall Pass from a dorm counselor just to go buy detergent and ginger ale at ValueMart—the exact store Ms. Hollis thought I should greet people at."
-
-"And tonight makes our seventh night in a row being forced into separate wings at eleven o'clock," I whispered back, holding her hand tightly across our armrests as the recreation van pulled up outside. "Let's see what Mr. Henderson's PHP class looks like on Monday morning, Katie—because I am already sick to death of this place."
+"And tonight makes our seventh night in a row being forced down separate hallways for the eleven-o'clock bed check," I whispered back, lacing my fingers tightly through hers across our armrests as the white Center van pulled up to the curb outside. "Let's see what Mr. Henderson's PHP class looks like on Monday morning, Katie—because I am already sick to death of this place."
 
 ## Still Level 2 in Cantor Hall, Sleeping in the Closet, & The Chickenshit Report
 
-### Part 1: Part 1: Starting Web Apps in Cantor Hall, Still Stuck on Level 2, Quantum OS 2000 Professional, & Meeting Tina, Jim, and Sheila
+### Part 1: Starting Web Apps in Cantor Hall, Still Stuck on Level 2, Quantum OS 2000 Professional, & Meeting Tina, Jim, and Sheila
 
 **Date:** 2007-03-12 at 08:00 America/New_York
 
@@ -3651,29 +3639,27 @@ Worse still, if you wanted to go shopping on a Saturday afternoon without waitin
 
 #### Monday, March 12, 2007, 8:00 AM — Cantor Hall, Still Stuck on Level 2, & Sitting Together in Class
 
-By the time Monday morning of our second week at Roosevelt Rehabilitation Center arrived, Katie and I were already counting the hours on our fingers.
+"You two must be Nathaniel and Katie Prairie," our Web Applications Developer instructor, Mr. Henderson, said with a welcoming grin as Katie and I rolled our joystick-outfitted wheelchairs side by side through the open doorway of the 1970s concrete-block computer lab at eight o'clock sharp on Monday morning. He gestured toward the long double workstation table near the front of the room where two wide wheelchair bays sat side by side. "I saw how the two of you tore through the entire Voc Eval coding packet in a single sitting on Thursday morning. Take those two stations right there together—you've got plenty of room to park your chairs wheel-to-wheel."
 
-Even though rushing our two-week Vocational Evaluation in a single week had moved our suitcases out of Barton Hall into the vocational residential wings of Cantor Hall, we were still stuck on Level 2 status because nobody at RRC stayed long enough in seven days to earn Level 3, let alone Level 4. In Cantor Hall, just like in Barton Hall, we were still forced into separate men's and women's wings at night, still checked with flashlights at the eleven-o'clock curfew, and still required to carry signed yellow paper Hall Passes just to roll off campus. After eight straight nights of sleeping apart, both of us were already at the end of our rope.
+"Thank you, Mr. Henderson," Katie said, exhaling the first genuine breath of relief either of us had taken since arriving in Fishersville as we steered into the adjacent bays and locked our manual wheel brakes side by side. "After Ms. Hollis spent last week trying to split us up to opposite corners of the break room, we half-expected another lecture about sitting apart."
 
-The one bright spot of that Monday morning came at eight o'clock sharp when we rolled our joystick-outfitted wheelchairs into the Web Applications Developer classroom for our very first day of actual programming instruction.
+Mr. Henderson snorted, setting his coffee mug down on the instructor podium. "Not in my classroom. You're here to write code, not play kindergarten musical chairs. How's Cantor Hall treating you two since you moved over on Friday?"
 
-After a week of butting heads with Voc Eval evaluators who had dragged us through auto shop, woodworking, and nursing and tried to force us to sit on opposite sides of the break room, we half-expected another lecture about splitting up. Instead, our Web Applications Developer instructor, Mr. Henderson—a sharp, practical veteran programmer who had zero patience for institutional nonsense and was the exact teacher who first taught us to call the center's petty overnight dorm incident blotter "the Chickenshit Report"—took one look at the two of us rolling through his doorway side by side and smiled.
+"Honestly, we're already counting the hours on our fingers," I admitted as Katie and I unzipped our backpacks. "Even though we rushed Voc Eval in one week to get out of Barton Hall, the residential office kept us stuck on Level 2 status because nobody stays long enough in seven days to earn Level 3 or Level 4. That makes eight straight nights of being forced down separate men's and women's wings at eleven o'clock with flashlights shining in our faces, plus begging for signed yellow paper Hall Passes just to step off campus."
 
-"You two must be Nathaniel and Katie Prairie," Mr. Henderson said, gesturing toward the long double workstation table near the front of the lab where two wide wheelchair bays sat side by side. "I saw how the two of you blew through the Voc Eval coding exams in a single week on Thursday. Take those two stations right there together—you've got plenty of room to park your chairs wheel-to-wheel."
-
-Katie and I looked at each other and exhaled the first real breath of relief we had taken since arriving in Fishersville.
+"Ah, watch out for the overnight dorm log over there," Mr. Henderson said with a dry chuckle, shaking his head. "Half the night staff in Cantor Hall love writing down every petty little thing they can find on what the teachers around here call the Chickenshit Report. Just keep your heads down in my lab and you'll be fine."
 
 ***
 
 #### 9:00 AM — Quantum OS 2000 Professional, Meeting Tina, Jim, and Sheila, & Refusing to Be Pushed Around
 
-Our relief lasted right up until nine o'clock, when Mr. Henderson walked us through the reality of the beige Commonwealth of Virginia property-tagged desktop towers sitting on the classroom desks.
+"All right, everyone, go ahead and hit the power switches on the desktop towers so you can see what the Commonwealth left us with," Mr. Henderson called out at nine o'clock once the rest of the class had settled into their seats.
 
-Katie and I pressed the power buttons on our two state-issued computers, watched the CRT monitors flicker to life, and stared in disbelief at the splash screen.
+Katie and I pressed the round plastic power buttons on the two beige Commonwealth of Virginia property-tagged desktop towers sitting on our table. As the bulky CRT monitors flickered to life with a high-pitched static hum, both of us stared in disbelief at the splash screen.
 
-It was March of 2007—yet every single desktop computer in the Web Applications Developer classroom was still running Quantum OS 2000 Professional.
+"Quantum OS 2000 Professional?" Katie whispered, blinking at the screen. "Nate, it's March of 2007! This operating system is seven years old!"
 
-Not only was the operating system seven years out of date, but VITA—the Virginia Information Technology Agency in Richmond—had locked the machines down with group-policy permissions so suffocating that a student login couldn't install up-to-date software or a modern web browser, couldn't edit a local PHP configuration file, couldn't start or stop a local web server service, and couldn't even open a command prompt or control panel without triggering a red *ADMINISTRATOR ACCESS DENIED — CONTACT SYSTEM ADMINISTRATOR* alert box.
+I clicked the Start menu to open a command prompt and check the local PHP configuration—and immediately hit a glaring red system dialog box: *ADMINISTRATOR ACCESS DENIED — CONTACT VITA SYSTEM ADMINISTRATOR*. Not only was the operating system seven years out of date, but VITA—the Virginia Information Technology Agency in Richmond—had locked the machines down with group-policy permissions so suffocating that a student login couldn't install up-to-date software or a modern web browser, couldn't edit a local PHP configuration file, couldn't start or stop a local web server service, and couldn't even open the control panel.
 
 Across the aisle from our wheelchairs, a middle-aged man with a salt-and-pepper beard tapped his keyboard twice, stared at the locked-down Quantum OS 2000 Professional desktop, and let out a dry laugh. "Well, if the Commonwealth wants us to build database-driven web applications on these dinosaurs, I hope they're planning to give us until the year 2030."
 
@@ -3681,21 +3667,27 @@ Across the aisle from our wheelchairs, a middle-aged man with a salt-and-pepper 
 
 "Virginia Beach," he grinned, reaching across the aisle to shake my hand and then Katie's. "I'm Jim. Spent twenty years working on computer hardware and network cabling down at the Oceanfront and Lynnhaven before my back gave out and Voc Rehab sent me up the mountain to retrain."
 
-"No way—we're from Virginia Beach too!" Katie beamed. "We grew up in Kempsville and went to Northwood High School and CCHR before we lived in West Ocean View!"
+"No way—we're from Virginia Beach too!" Katie beamed. "We grew up in Kempsville and went to Northwood High School and the Community College of Hampton Roads before we lived in West Ocean View!"
 
-Before we could even finish comparing notes with Jim on CVTA bus routes, the two middle-aged women sitting at the stations immediately to our right turned around and joined the conversation—and within ten minutes, the five of us had formed an instant, lifelong bond.
+At the two workstations immediately to Katie's right, two middle-aged women turned their chairs around with warm smiles. The woman sitting closest to Katie was short and petite, Caucasian, with straight jet-black hair and sharp eyes behind her glasses; beside her sat a cheerful woman with a sketchpad full of interface wireframes.
 
-Sitting closest to Katie was Tina, a short, petite Caucasian middle-aged woman with glasses and straight jet-black hair from Luray up in the Page Valley who loved writing clean code every bit as much as Katie and I did. Right beside Tina was Sheila, a cheerful middle-aged day commuter who drove down Interstate 81 from her home in Harrisonburg every weekday morning and had a brilliant eye for digital graphics design and user-interface layouts. While half the twenty-year-olds in the dormitories spent their days tangled up in juvenile cafeteria drama, Tina, Jim, and Sheila were grown adults who treated Katie and me like equals and respected our twin bond from the very first hour.
+"I'm Tina, from up Route 340 in Luray," the petite woman in glasses said, shaking Katie's hand and then mine, "and this is Sheila—she commutes down I-81 from Harrisonburg every morning and does all our digital graphics and UI layouts. While half the twenty-year-olds in the dorms spend all day screaming at each other in the cafeteria, the three of us actually came here to build software."
 
-Even more than her passion for PHP, what made Katie and me adore Tina immediately was that—despite her short, petite frame behind her glasses—Tina refused to be pushed around by anyone at Roosevelt Rehabilitation Center. She told it like it was, straight to people's faces without sugarcoating a single word, and the RRC bureaucracy did not like that one bit. What drove the Center's staff crazy was that they couldn't write her up or discipline her for it, because Tina never broke a single rule in the client handbook. She followed every written regulation to the letter, called out institutional stupidity the second she saw it, and then every single Friday afternoon as soon as class ended, she packed her bag, got in her compact sedan, and went home to Luray for the weekend, leaving Fishersville in her rearview mirror until Monday morning.
+"And there is only one way any of us writes real PHP and SQL in this room," Sheila added, sliding the beige state keyboard all the way to the back of her desk against the CRT monitor.
 
-"I heard down the hall how the two of you rushed through Voc Eval in one week flat and stood your ground against Ms. Hollis when she tried to split you up," Tina said, adjusting her glasses and grinning warmly at Katie and me. "Good for you. Half the staff in this place think a clipboard—or seeing push-handles on the back of a wheelchair—gives them a license to push clients around just because they can. If you know the rulebook and you don't let them push you around, there's not a thing they can do to you."
+Right beside Katie, Tina unzipped her shoulder bag, pulled out her own sleek personal laptop, and set it right on the desk in front of the useless state keyboard—alongside a well-thumbed, spiral-bound copy of the Roosevelt Rehabilitation Center Student Handbook bristling with sticky notes.
 
-We saw that firsthand at four o'clock that very Monday afternoon down in the Cantor Hall lobby.
+"Every single student in this class—Jim, Sheila, Sarah, Amanda, Bryan, Sean, and me—brings our own personal laptop and runs Apache, PHP 5, and MySQL on our own hard drive," Tina told us plainly, adjusting her glasses. "Technically the Center rules say no personal computers in class, but Mr. Henderson and the old vocational administrator let us do it because they know VITA locked these state towers down so tight you can't code a single script on them."
 
-Tina had walked over to Cantor Hall with us after class to drop off a PHP reference binder before heading to her car, while Katie and I were rolled up side by side at the front desk presenting our signed yellow Level 2 Hall Passes so we could catch the VATS shuttle into Waynesboro for a real dinner away from the cafeteria. A prickly afternoon residential supervisor named Mr. Vance walked out of the inner office, saw our two wheelchairs turning toward the automatic doors, and stepped right in front of our front casters with his arms crossed.
+"Wait—why do you have sticky notes all through the student handbook?" Katie asked, glancing at Tina's spiral booklet.
 
-"Hold on right there, you two," Mr. Vance barked, reaching a hand out to grab the rear push-handle of my manual frame as if he were about to wheel me backward away from the threshold. "Where do you think you're rolling off to at four o'clock? You two just moved over from Barton Hall on Friday—you're still Level 2 clients!"
+Tina grinned behind her glasses. "Because I'm short, I live in Cantor Hall four nights a week before I drive my compact sedan home to Luray every Friday afternoon at three-thirty sharp, and I don't let anyone at this center push me around. I tell it like it is straight to their faces, and the RRC staff hate it—but they can't write me up or touch me because I never break a single rule in this book. I heard down the hall how the two of you rushed Voc Eval in one week flat and told off Ms. Hollis when she tried to split you up at social break. Good for you. Half the staff here think a clipboard—or seeing rubber push-handles on the back of a wheelchair—gives them a license to boss you around. Follow the handbook to the letter and call them on their nonsense, and there's not a thing they can do to you."
+
+At four o'clock that very afternoon, when class let out and Tina walked over to the Cantor Hall lobby with us to drop off a PHP reference binder before heading to her car, we saw Tina's method in action firsthand.
+
+Katie and I rolled side by side up to the Cantor Hall front counter, laid our signed yellow paper Level 2 Hall Passes on the blotter to log our departure for the VATS shuttle bus into Waynesboro, and turned our wheelchairs toward the automatic glass doors—just as a prickly afternoon residential supervisor named Mr. Vance marched out of the inner office and stepped right in front of our front casters with his arms crossed.
+
+"Hold on right there, you two," Mr. Vance barked, reaching his right hand out to grab the rear rubber push-handle of my manual frame as if he were about to wheel me backward away from the exit. "Where do you think you're rolling off to at four o'clock? You two just moved over from Barton Hall on Friday—you're still Level 2 clients!"
 
 "First, take your hand off my brother's wheelchair push-handle right now," Katie said sharply, locking her joystick brakes alongside mine without backing up a millimeter. "Second, we know we're still Level 2, Mr. Vance, which is why our counselor signed our yellow Hall Passes at three-thirty and they are sitting right there on the desk blotter in front of you."
 
@@ -3703,7 +3695,7 @@ Tina had walked over to Cantor Hall with us after class to drop off a PHP refere
 
 Standing right beside Katie's chair with her car keys in her hand, Tina peered up at Mr. Vance through her glasses, her jet-black hair framing a look of cool, unapologetic amusement.
 
-"They've got you dead to rights on page twelve of the handbook, Mr. Vance," Tina said bluntly, telling it like it was in front of half the lobby. "Their yellow passes are signed in ink, they logged their departure time, and neither of them is breaking a single rule in this building. If you keep grabbing his chair and blocking the doorway when they've complied with Center policy, the only person violating the handbook here is you."
+"They've got you dead to rights on page twelve of the handbook, Mr. Vance," Tina said bluntly in front of half the lobby. "Their yellow passes are signed in ink, they logged their departure time, and neither of them is breaking a single rule in this building. If you keep grabbing his chair and blocking the doorway when they've complied with Center policy, the only person violating the handbook here is you."
 
 Mr. Vance's face flushed crimson from his collar to his hairline. He glared at Tina and then down at Katie and me, searching desperately for something to cite us for—and finding nothing at all, he let go of my push-handle and stepped stiffly out of the doorway.
 
@@ -3711,25 +3703,13 @@ Mr. Vance's face flushed crimson from his collar to his hairline. He glared at T
 
 #### Tuesday, March 13, 2007, 9:30 AM — Coding on Personal Laptops & Standing Up to the New VITA-Obsessed Administrator
 
-That exact same refusal to be pushed around carried right back into our classroom on Tuesday morning when Center bureaucracy tried to interfere with our coding.
+"Mr. Henderson," a sharp voice rang out from the doorway of the Web Applications Developer classroom at nine-thirty on Tuesday morning, "why are all of these students using personal laptops instead of the Center-provided computers?"
 
-"There is only one way any of us writes real PHP and SQL in this room," Tina had explained to us on Monday morning as she unzipped her shoulder bag and set her own personal laptop right on top of the desk in front of the useless state keyboard. "Every single student in this class brings their own personal laptop and runs a local web server on their own hard drive."
+Katie, Tina, Sheila, Jim, and I all paused with our fingers hovering over our personal laptop keyboards and looked toward the center aisle. Standing there in a pressed navy suit with a clipboard tucked against her arm was the brand-new vocational division administrator who had started on campus that week—frowning down the row of open personal laptops sitting in front of the dark, powered-off state CRT monitors.
 
-Because the RRC computers were so horribly outdated and locked down, every student in the Web Applications Developer class—Katie, me, Tina, Sheila, Jim, Sarah, Amanda, Bryan, and Sean—had pushed the state-owned Quantum OS 2000 Professional keyboards toward the back of the desks and was coding full-time on our own personal laptops.
+"Because, ma'am," Katie spoke up politely from her wheelchair before Mr. Henderson even had to step around the podium, "the Center-provided computers on these desks are horribly outdated. They're still running Quantum OS 2000 Professional, and VITA has the permissions locked down so hard that we can't install up-to-date software, configure a PHP server, or run a local database."
 
-Even though Center rules technically forbade using personal computers in the classroom, both the previous vocational division administrator and our Web Applications Developer teacher, Mr. Henderson, had let the class get away with it. They knew perfectly well how outdated the RRC computers were, and they understood that letting students work on personal laptops was the only way anyone could run Apache, PHP 5, and MySQL with developer permissions.
-
-That week, however, Roosevelt Rehabilitation Center had just brought in a new vocational division administrator—a stiff bureaucrat in a pressed navy suit carrying a clipboard who knew nothing about software engineering, hated when clients spoke back to her, and only knew what she had been told by VITA, the Virginia Information Technology Agency.
-
-Walking into our classroom during our Tuesday morning coding session, the new administrator stopped dead in the middle of the aisle and frowned at the row of open personal laptops sitting in front of the dark state CRT monitors.
-
-"Mr. Henderson," the new administrator demanded loudly enough for the whole room to hear, "why are all of these students using personal laptops instead of the Center-provided computers?"
-
-Katie, Tina, Sheila, Jim, and I all stopped typing at once.
-
-"Because, ma'am," Katie spoke up politely from her wheelchair before Mr. Henderson even had to answer, "the Center-provided computers on these desks are horribly outdated. They're still running Quantum OS 2000 Professional, and VITA has the permissions locked down so hard that we can't install up-to-date software, configure a PHP server, or run a local database."
-
-The new administrator stepped over to our workstation table, looking down at Katie and me in our wheelchairs as if she expected the two of us to shrink back and close our laptop lids. "VITA has assured my office that every workstation on the Commonwealth network is configured with standard agency software and mandatory security lockdowns," she said sharply. "You are clients here, not the IT department. Close those personal laptops right now and use the computers VITA provided."
+The new administrator marched over to our front workstation table, looking down at Katie and me in our wheelchairs as if she expected the two of us to shrink back and shut our laptop lids. "VITA has assured my office that every workstation on the Commonwealth network is configured with standard agency software and mandatory security lockdowns," she said sharply. "You are clients here, not the IT department. Close those personal laptops right now and use the computers VITA provided."
 
 Neither Katie nor I touched our laptop hinges.
 
@@ -3741,11 +3721,11 @@ Right beside Katie's chair, Tina stood up to her full petite height, pushed her 
 
 "Let me tell you how it is, since somebody needs to say it plainly," Tina said, her voice steady and fearless while Sheila and Jim stood behind us. "None of us is breaking a single VITA network rule—not one of these personal laptops is plugged into the Commonwealth's ethernet jacks. VITA configured those beige dinosaurs on the desks for someone typing memos in a seven-year-old word processor, not for web application developers. We need computers with up-to-date software, and we need permissions not to be locked down so hard that we can't even start a local web server or edit a configuration file. Unless VITA is going to walk in here today and install modern software with developer permissions on those towers, closing our laptops means shutting down the entire class."
 
-"And if you shut down the class," Katie added evenly from her wheelchair, "my brother and I—and everyone else at these desks—will be happy to call our regional Vocational Rehabilitation counselors before lunch and explain that the new administration in Fishersville won't let us write code."
+"And if you shut down the class," Katie added evenly from her wheelchair, reaching across our armrests to hold my hand, "my brother and I—and everyone else at these desks—will be happy to call our regional Vocational Rehabilitation counselors before lunch and explain that the new administration in Fishersville won't let us write code."
 
-The new administrator stared from Tina's unblinking glasses to Katie's and my twin wheelchairs. Just like the dorm staff in Cantor Hall, she clearly hated that Tina and the two of us refused to be pushed around—yet because none of our laptops was connected to the state network, we weren't breaking a single VITA security regulation, and she knew Mr. Henderson and the regional counselors would back us up. Muttering something under her breath about "consulting with VITA compliance," she turned on her heel and walked out the door, leaving the rest of us to exchange satisfied grins and go right back to coding on our personal laptops: Katie, Tina, and I writing the PHP back-end logic, Sheila designing the interface graphics, and Jim keeping everyone's hardware humming.
+The new administrator stared from Tina's unblinking glasses to Katie's and my twin wheelchairs. Because not a single personal laptop in the room was plugged into the state ethernet wall jacks, we weren't violating a single VITA network regulation, and she knew Mr. Henderson and the regional counselors would back us up. Muttering under her breath about "consulting with VITA compliance," she turned on her heel and walked out the door, leaving the five of us to exchange satisfied grins and go right back to coding on our personal laptops: Katie, Tina, and I writing the PHP back-end logic, Sheila designing the interface graphics, and Jim keeping everyone's hardware humming.
 
-### Part 2: Part 2: Emergency in the Therapeutic Pool, Caught Sleeping Together in a Closet, Calling the Staffer's Bluff, & The Chickenshit Report
+### Part 2: Emergency in the Therapeutic Pool, Caught Sleeping Together in a Closet, Calling the Staffer's Bluff, & The Chickenshit Report
 
 **Date:** 2007-03-13 at 16:15 America/New_York
 
@@ -3753,141 +3733,135 @@ The new administrator stared from Tina's unblinking glasses to Katie's and my tw
 
 #### Tuesday, March 13, 2007, 4:15 PM — Emergency at the Therapeutic Pool & The Towel Showdown
 
-"I told you to leave her alone!" I shouted across the warm, echoing water of the indoor therapeutic pool at Roosevelt Rehabilitation Center, projecting my voice intentionally loud so the recreation staffer sitting by the office glass would hear me.
+"I told you to leave her alone!" I shouted across the ninety-two-degree water of the indoor therapeutic pool at Roosevelt Rehabilitation Center, projecting my voice intentionally loud so the recreation staffer sitting behind the office glass would hear me.
 
-On Tuesday afternoon of our second week at RRC—after spending Monday and Tuesday in Mr. Henderson's classroom setting up Apache, PHP 5, and MySQL on our personal laptops alongside Tina, Sheila, and Jim—twenty-one-year-old Katie and I had gone to the ninety-two-degree therapeutic pool so we could transfer out of our joystick-outfitted wheelchairs and let the warm water take the weight off our legs and backs.
+Across the chest-deep water from where our two joystick-outfitted wheelchairs sat parked by the stainless-steel ladder, Chris—an aggressive student from the IT class cohort who had been pestering Katie since Monday morning and refused to accept that my twin sister had zero interest in dating him—smirked and wading-stepped closer.
 
-Neither of us had counted on Chris, an aggressive student from our IT class cohort who had started bothering Katie on Monday morning and refused to accept that my twin sister had zero interest in dating him or anyone else.
+"Come on, Nate, let's swim up to the shallow end," Katie said tightly, turning in the warm water to get away from him.
 
-Katie and I turned in the chest-deep water and swam toward the shallow end to get away from him, and sure enough, Chris followed right behind us. Before I could pivot between them, he lunged forward and slammed both hands down into the water right in front of Katie's face—striking her across the bridge of her nose and cheek while his flailing hand caught the front piece of her two-piece swimsuit top.
+We pushed off toward the shallow end together, and Chris plowed straight through the water right behind us. Before I could pivot between them, he lunged forward and slammed both hands down into the water right in front of Katie's face—striking her hard across the bridge of her nose and cheek while his flailing fingers caught and tore the front piece of her two-piece swimsuit top.
 
-This time, something went terribly wrong.
+Katie gasped, clutched onto my left forearm with one hand while clapping her other hand over her face, and burst into sobs.
 
-Katie gasped, clutched onto my arm with one hand while clapping her other hand over her face, and started sobbing. Knowing my twin sister the way I did, my heart dropped into my stomach: Katie didn't cry over splashes or petty arguments. If Katie was crying, she was hurt.
+My heart dropped into my stomach. Katie never cried over splashes or arguments; if Katie was crying, she was hurt.
 
-Wrapping my arm around her waist to support her weight in the water, I guided her immediately to the stainless-steel pool ladder and helped her climb out onto the wet tile deck beside our parked wheelchairs. When I gently eased her hand back half an inch to check her face, I realized two things at the exact same second: blood was pouring steadily from my twin sister's nose, and her swimsuit top piece was missing and destroyed in the water, leaving her chest bare while both of her hands had to stay pressed tightly against her bleeding nose.
+Wrapping my arm around her waist to take her weight off her weak legs in the water, I guided her immediately to the stainless-steel pool ladder and helped her climb out onto the wet tile deck beside our parked wheelchairs. When I gently eased her hand back half an inch to check her face, I saw two things at the exact same second: bright red blood was pouring steadily from my twin sister's nose, and the front piece of her swimsuit top had been ripped away in the water, leaving her chest bare while both of her hands had to stay pressed tightly over her bleeding nose.
 
 "Get me Student Health and Campus Security!" I roared at the top of my lungs across the natatorium. "My sister's nose is bleeding!"
 
-As Katie's fraternal twin brother—and since she was in no condition to speak while both of her hands were occupied holding her bleeding nose—I decided right there that I was speaking up for her, that I wanted Campus Police involved, and that I wasn't leaving her exposed on the pool deck. Without hesitation, I used my own hands to cover up my sister's bare breasts to shield her modesty while her hands were being used to cover her bleeding nose.
+Since Katie was in no condition to speak with both of her hands occupied holding her bleeding nose, I stepped right in front of her and used my own hands to cover up my sister's bare breasts to shield her modesty on the open pool deck while we waited for someone to bring a towel.
 
-Instead of grabbing a towel, the poolside staffer walked over with a clipboard in his hand and frowned at me.
+Instead of grabbing a towel from the rack by the wall, the poolside staffer walked over with a clipboard in his hand and frowned at me.
 
-"You know I'm going to have to report you for inappropriate contact," the staffer said, staring straight at my hands covering my sister's chest while blood dripped between her fingers.
+"You know I'm going to have to report you for inappropriate contact," the staffer said, staring straight at my hands covering my sister's chest while blood dripped between her fingers onto the wet tile.
 
-"Either report me or get a towel to cover my sister's dignity!" I retorted angrily, not giving a damn that I was using my hands to cover my sister's exposed breasts while she stood bleeding on the deck.
+"Either report me or get a towel to cover my sister's dignity!" I retorted angrily, not giving a damn what he thought while my sister stood bleeding and exposed in front of the pool.
 
-Staring at the blood running down Katie's wrists and her destroyed swimsuit top floating by the gutter, it finally dawned on the staffer why I was touching her breasts—and he picked the Get a Towel route, hurrying over to the rack and bringing back a thick white bath towel just as Recreational Therapy staff rushed out with their walkie-talkie crackling that both Student Health and RRC Campus Police were on the way.
+Staring at the blood running down Katie's wrists and her torn swimsuit top floating by the gutter, it finally dawned on the staffer why my hands were covering her chest. He hurried over to the rack and brought back a thick white bath towel just as the Recreational Therapy supervisor rushed out with a walkie-talkie crackling that both Student Health and RRC Campus Police were on the way.
 
-Only when that dry towel was wrapped securely around Katie's chest and shoulders did I let go, grateful that her dignity was finally covered since her swimsuit top was destroyed.
+Only when that dry towel was wrapped securely around Katie's chest and shoulders did I let go.
 
-Seconds later, Student Health nurses arrived through the double doors and immediately rendered first aid to Katie's bleeding nose and swollen cheek, while the Campus Police officer pulled out his notepad to take a formal written statement from me as well as several other students in the pool who had witnessed what Chris did.
+Seconds later, two Student Health nurses pushed through the double doors and immediately pressed a sterile gauze pack over Katie's bleeding nose and swollen cheek, while a Campus Police officer pulled out his notepad to take a formal written statement from me and three other students who had witnessed Chris lunge at her in the water.
 
-Once the nurse had a sterile gauze pack pressed firmly over Katie's nose, Katie glared over the bandage at the poolside staffer who had threatened to write me up, giving him an angry dirty look that dared him to open his mouth.
+Over the edge of the bloody gauze pack, Katie fixed the poolside staffer who had threatened to write me up with a furious glare.
 
-"You're going to write up my brother for trying to cover my boobs while no one wanted to get a towel or something?" she stammered thickly past the gauze.
+"You're going to write up my brother for trying to cover my boobs while no one wanted to get a towel or something?" she stammered thickly past the bandage.
 
-The staffer looked down at the floor without a word as the Recreational Therapy supervisor closed the pool for the rest of the day because of my sister's blood entering the water—clearing the deck so maintenance could scrub the tile coping with a one-to-ten bleach solution, shock-chlorinate the ninety-two-degree water to four parts per million, and run a full sixty-minute filtration turnover hold.
+The staffer looked down at his shoes without a word as the Recreational Therapy supervisor ordered everyone out of the water, closing the natatorium so maintenance could scrub the tile coping with a one-to-ten bleach solution, shock-chlorinate the ninety-two-degree water to four parts per million, and run a full sixty-minute filtration turnover hold.
 
-While Student Health escorted Katie to the clinic next door, one of Katie's female friends from our class was kind enough to go into the women's changing room and bring all of Katie's dry clothes and belongings out to me, which I held onto alongside her wheelchair. I stubbornly sat in the Student Health lobby until evening—hating being away from Katie for even a minute, and especially grumpy because she was hurt and I knew she needed to cling to me.
+While Student Health escorted Katie across the walkway to the clinic in the Bates-Harding Building, one of Katie's female friends from our class hurried into the women's locker room and brought all of Katie's dry clothes and backpack out to me. Stacking her bag on the seat of her wheelchair, I rolled both chairs over to the Student Health waiting room and sat stubbornly outside the exam door until evening—refusing to be more than ten feet away from my sister while she was hurt.
 
 ***
 
 #### 7:30 PM — Caught Sleeping Together in a Closet, Calling the Staffer's "Send You Home" Bluff, & Butt-in-Seats Funding
 
-When Katie was finally released from Student Health over in the Bates-Harding Building later that Tuesday evening—still wearing her swimsuit bottom and a worn-out oversized loaner T-shirt, with her cheek bright red from where she had been struck and a fresh dressing over her nose—she reached for my hand the second the clinic door opened.
+"I don't want to leave your side," Katie whispered at seven-thirty that evening as the Student Health clinic door opened and she rolled out wearing her swimsuit bottom and a worn-out oversized loaner T-shirt, with her right cheek bright red and swollen and fresh white tape holding the gauze dressing across the bridge of her nose. Reaching across our armrests for my hand as we rolled toward Cantor Hall in the gathering dusk, she started sobbing again. "I don't give a damn about the Level 2 dorm rule... please don't leave me tonight, Nate."
 
-"I don't want to leave your side," Katie told me, her voice trembling before she started sobbing again as we rolled side by side along the walkway toward Cantor Hall. "I don't give a damn about the Level 2 dorm rule... please don't leave me tonight, Nate."
+"We used to live together!" she stammered as the automatic doors of Cantor Hall slid shut behind us and we turned into the quiet side corridor between the wings, where no one was within earshot. "We used to share a bed! Hell, we would sleep in closets together!"
 
-Because we had only been at RRC for nine days and were still stuck on Level 2 status, we weren't even allowed inside each other's dorm rooms during the evening—and after eight straight nights of sleeping in separate wings on top of what Chris had just done to her in the pool, Katie was at her breaking point.
+Looking at the fresh white gauze taped across my trembling sister's swollen nose after eight straight nights of forced separation in Barton Hall and Cantor Hall, I made up my mind on the spot.
 
-"We used to live together!" she stammered as we rolled into the quiet side corridor of Cantor Hall, where I was grateful no one was within earshot. "We used to share a bed! Hell, we would sleep in closets together!"
+"Go into your room just long enough to put on dry pajamas and grab your spare blanket and two pillows," I whispered, squeezing her fingers. "I'll grab my pillow and my jacket from my bed and meet you right here by the walk-in linen alcove in three minutes."
 
-Just like before whenever something bad happened to her, she would not leave my side for anything, just as I would stubbornly cling to her if something bad happened to me. Back at our first apartment in West Ghent and our second apartment in West Ocean View, whenever the outside world got too overwhelming, our favorite sanctuary on earth had been spreading a sleeping bag and pillows on the floor of a quiet, enclosed closet so the two of us could hold each other in the dark.
+Three minutes later, we met outside the unlocked solid-wood door of the wide walk-in storage closet off the interior Cantor Hall alcove—just like the quiet hallway closets where we had spread our sleeping bag back at our apartments in West Ghent and West Ocean View whenever the outside world got too loud. Pulling our wheelchairs inside the alcove, we spread the thick blanket and four pillows across the clean linoleum floor of the closet, pulled the wooden door shut from the inside, and curled up tightly in each other's arms in the dark.
 
-Looking at my trembling twin sister with the white gauze taped across her swollen nose, I decided right then that I didn't care about Roosevelt Rehabilitation Center's handbook anymore either.
+Against my chest, Katie's ragged breathing finally slowed down, and with my arms wrapped securely around her shoulders, both of us drifted off to sleep side by side on the closet floor.
 
-After Katie slipped into her room long enough to change into dry nightclothes and grab a spare blanket and two pillows—and I grabbed my own pillow and jacket from my wing—we met in the quiet alcove off the Cantor Hall corridor where a wide, walk-in storage closet sat unlocked behind a solid wooden door. Parking our two folded-back manual wheelchairs just inside the alcove, we spread the thick blanket and pillows across the clean linoleum floor of the closet, pulled the door shut from the inside, and curled up tightly in each other's arms in the quiet dark.
+At eleven o'clock sharp, heavy footsteps, jangling keys, and muffled voices echoed down the corridor as the Cantor Hall night staff conducted the mandatory Level 2 curfew bed check—discovering that neither Nathaniel Prairie on the men's wing nor Katie Prairie on the women's wing was in bed.
 
-For the first time since Dad had dropped us off in Fishersville nine days earlier, Katie's breathing finally slowed down against my chest, and with my arms wrapped securely around her shoulders, both of us drifted off to sleep side by side on the closet floor.
+Thirty seconds later, the wooden closet door was yanked wide open and a bright flashlight beam shone straight into our eyes.
 
-At eleven o'clock sharp, however, the Cantor Hall night staff made their mandatory Level 2 bed-check rounds—and when they discovered that neither Nathaniel Prairie on the men's wing nor Katie Prairie in Room 157 on the women's wing was in bed, flashlights and jangling keys echoed down the corridor until the closet door was yanked open.
+"What on earth do you two think you're doing in here?!" the night supervisor barked, glaring down at the two of us curled up on the blanket. "You are Level 2 clients! Opposite-gender clients sleeping together in a hallway closet after curfew is a major residential violation! Both of you, get back in your wheelchairs and go to your respective beds right now, and I am writing both of you up!"
 
-"What on earth do you two think you're doing in here?!" the night supervisor barked, shining his flashlight beam straight into our eyes on the closet floor. "You are Level 2 clients! Opposite-gender clients sleeping together in a hallway closet after curfew is a major residential violation! Both of you, get back in your wheelchairs and go to your respective beds right now, and I am writing both of you up!"
+Neither Katie nor I shrank back an inch. As we transferred off the closet floor into our wheelchairs and folded our blanket, both of us went straight back at the night supervisor at full volume.
 
-By that point—after the check-in confrontation, the insulting Voc Eval shop tour and "door greeter" speech, the VITA-locked computers, the pool assault, the poolside staffer threatening to report me, and nine nights of forced separation—Katie and I honestly didn't care anymore.
+"Go right ahead and write us up!" Katie snapped aggressively, glaring straight into his flashlight beam past the white bandage taped across her nose. "My nose was broken open in your therapeutic pool five hours ago by a creep in our class, your poolside staffer tried to write my brother up for covering my dignity when nobody brought a towel, and your stupid dorm rules won't even let twin brother and sister stay together when one of us has just been assaulted!"
 
-Neither of us shrank back. As we transferred off the closet floor into our wheelchairs, both Katie and I argued right back at the night supervisor at full volume.
-
-"Go right ahead and write us up!" Katie snapped aggressively, glaring straight into his flashlight beam past the bandage on her nose. "My nose was broken open in your therapeutic pool five hours ago by a creep in our class, your poolside staffer tried to write my brother up for covering my dignity when nobody brought a towel, and your stupid dorm rules won't even let twin brother and sister stay together when one of us has been assaulted!"
-
-"Keep arguing with me like that, both of you, and I will have the administration pack your bags and send you home first thing in the morning!" the night supervisor threatened, waving his clipboard in our faces.
+"Keep arguing with me like that, both of you, and I will have the administration pack your bags and send you home first thing in the morning!" the night supervisor threatened, shaking his clipboard in our faces.
 
 Katie and I called his bluff on the spot.
 
 "We would love to go home right now!" I fired right back at him without blinking. "Don't wait until morning—walk over to the front-desk phone and call our father in Alexandria right now! Tell him to get in his pickup truck and come get us tonight!"
 
-"Go on, call our Dad right now!" Katie dared him, pointing toward the lobby desk. "Tell him why my face is bandaged and tell him you're sending us home for sleeping in a closet together after I got assaulted in your pool! We'll start packing our suitcases right now!"
+"Go on, call our Dad right now!" Katie dared him, pointing down the hall toward the lobby desk. "Tell him why my face is bandaged and tell him you're sending us home for sleeping in a closet together after I got assaulted in your pool! We'll start packing our suitcases right now!"
 
 The night supervisor froze with his pen in the air.
 
-Within three seconds, all the bluster drained right out of his face, and he completely backed down from his threat to send us home.
+Within three seconds, all the bluster drained out of his face, and he completely backed down from his threat to send us home.
 
-"Your vocational counselor is off work tomorrow on Wednesday," the supervisor muttered stiffly, lowering his clipboard and refusing to walk anywhere near the telephone. "This write-up is going into the overnight log, and your counselor will speak to the two of you about this on Thursday morning. Now get to your assigned rooms."
+"Your vocational counselor is off work tomorrow on Wednesday," the supervisor muttered stiffly, lowering his clipboard and refusing to take a single step toward the lobby telephone. "This write-up is going into the overnight log, and your counselor will speak to the two of you about this on Thursday morning when she returns. Now get to your assigned rooms."
 
-As Katie and I finally rolled toward our separate wings—exchanging a knowing, cynical look before we parted ways and logged onto our laptop webcams to watch over each other from our separate beds for the rest of the night—both of us guessed the exact reason why the staffer had caved the instant we dared him to call our Dad and send us home.
+Only when we were back in our separate beds ten minutes later with our laptop webcams open on our nightstands so we could watch over each other through the screen did I speak into my microphone.
 
-"Butt-in-seats funding," I told Katie quietly over our open webcam window once we were in our respective beds. "If two full-time residential clients in the Web Applications Developer track walk out the door in Week Two, RRC loses our state and federal per-diem funding. He was trying to scare us, and the second he realized we actually *want* to go home, he backed right down."
+"Did you see how fast he caved the second we told him to call Dad right now?" I said quietly. "It's butt-in-seats funding, Katie. If two full-time residential clients in the Web Applications Developer track walk out the door in Week Two, RRC loses our state and federal per-diem funding. He thought threatening to send us home would scare us into submission, and the instant he realized we'd gladly pack our bags tonight, he backed right down."
 
-"I just need to be hugged," Katie murmured toward the screen, still raw over the day's events.
+"I just need to be hugged," Katie murmured toward the webcam, her bandaged nose and swollen cheek catching the glow of her screen.
 
-"I know," I said softly, "and I'll come get you first thing in the morning. Goodnight, Katie."
+"I know," I said softly, keeping my hand resting beside the camera lens until her eyelids drooped, "and I'll be waiting right outside your suite door first thing in the morning. Goodnight, Katie."
 
 ***
 
 #### Wednesday, March 14, 2007, 8:30 AM — The Bates-Harding Office & "I LET HIM COVER MY DIGNITY!"
 
-When Wednesday morning came around and we got dressed, Katie and I met up right outside her suite door—since her wing was closer to the Cantor Hall lobby and the cafeteria—and I pulled her into a tight morning hug as always.
+"I'm still so upset," Katie whispered in my ear at quarter to eight on Wednesday morning as we met right outside her women's-wing suite door and I pulled her into a tight morning hug across our armrests.
 
-"I'm still so upset," Katie whispered in my ear.
+"I understand," I whispered back, rubbing her shoulder. Hoping to coax even a tiny smile out of her, I asked, "You ready to go eat some more garbage?"
 
-"I understand," I whispered back. Hoping to cheer her up even a little, I asked, "You ready to go eat some more garbage?"
+Katie giggled just a bit against my collar, though when I started to ease back from the hug, she held on tightly to my jacket sleeves and refused to let go—making it crystal clear without words: *please don't let go*.
 
-Katie giggled just a bit against my collar, though I knew she was still extremely shaken when—as I started to ease back from the hug—she held on tightly and refused to let go, making it crystal clear: *please don't let go*.
+As we finally rolled side by side past the Cantor Hall front desk toward the dining hall breezeway, the morning desk clerk looked up from the overnight binder and tapped a pink slip of paper. "Nathaniel, Katie—just so you know, your regular vocational counselor has her scheduled day off today, so your disciplinary write-up meeting for getting caught in the hallway closet at eleven o'clock last night is on her calendar for Thursday morning. Also, check the lobby board after dinner tonight—housing is running the mid-month Cantor Hall room reassignments this evening."
 
-When we rolled past the Cantor Hall front desk on our way to breakfast, the morning clerk reminded us that because our regular vocational counselor had a scheduled day off that Wednesday, our disciplinary write-up meeting for getting caught sleeping together in the closet on Tuesday night was scheduled for Thursday morning, when our counselor returned, and that Wednesday night the housing office would also be running its mid-month dormitory room reassignments.
+Neither of us cared about Thursday's closet write-up meeting—and as soon as we finished breakfast at eight-thirty, an administrative runner paged both of us over to the student-services duty supervisor's office in the Bates-Harding Building regarding Tuesday afternoon's incident at the pool.
 
-Right after we finished breakfast, however, both of us were paged over to the Bates-Harding Building administrative office by the student-services duty supervisor to address Tuesday afternoon's pool-deck incident. Rolling through the door beside Katie, I figured I knew exactly what was about to happen: I was going to get yelled at for touching my sister's chest on the pool deck.
-
-Sure enough, sitting on the duty supervisor's desk was the morning Chickenshit Report—and the poolside staffer's entry from Tuesday afternoon literally mentioned me *"fondling Katie's bare breasts while she was in distress, after having been assaulted and her swimsuit top destroyed by the person who assaulted her."*
+Rolling through the wood-paneled office door beside Katie, I took one look at the printout sitting on the duty supervisor's desk—the morning Chickenshit Report—and saw the poolside staffer's entry from Tuesday afternoon literally accusing me of *"fondling Katie's bare breasts while she was in distress, after having been assaulted and her swimsuit top destroyed by the person who assaulted her."*
 
 Katie rolled her eyes and growled across the desk, "Delete that from the record! I told him to cover my boobs while we waited for someone to get a damn towel! None of this shit would've happened if that boy didn't cause me a nosebleed in the first place!"
 
 My sister was furious—Katie never cussed like that in front of staff—and she kept right on going: "And I don't care if you call our Dad! He would tell you himself that my brother acted protectively in covering them!"
 
-Having riled herself all the way up on top of yesterday's trauma and last night's sleep deprivation, Katie's nervous system overloaded and she descended straight into a full autistic meltdown.
+Having riled herself all the way up on top of Tuesday's pool assault and getting dragged out of the closet at eleven o'clock the night before, Katie's nervous system overloaded all at once, her voice cutting out as she descended straight into a full autistic meltdown.
 
-As I always did, I instinctively pulled her wheelchair flush against mine and held her tightly in my arms while we waited for her to calm down. She hadn't meant to explode; all of the emotional mess from the assault, the forced separation, and the absurd write-up had simply pushed her past her sensory threshold.
+Instinctively, I steered my wheelchair flush against hers, locked my brakes, and held her tightly in my arms while she trembled against my shoulder.
 
-The duty supervisor looked into Katie's blank, overloaded eyes, seeing immediately that the only reason she wasn't speaking was because her autistic brain was in a full sensory shutdown.
+The duty supervisor looked into Katie's blank, overloaded eyes, seeing immediately that the only reason she had gone completely silent was because her autistic brain was in a full sensory shutdown.
 
-"Let me try something," the supervisor said quietly, pressing the page button on his desk phone. "Could we please get a cup of water brought in for Katie?"
+"Let me try something," the supervisor said quietly, pressing the intercom button on his desk phone. "Could we please get a cup of water brought in for Katie?"
 
-Turning back to the two of us while I held my trembling sister, he spoke in a calm, reassuring voice. "You really care about her, don't you, Nathaniel? No, I don't think you were touching her inappropriately. I think you were acting on instinct and shielding her from further humiliation while you waited for a towel to cover her up, and while she was busy trying to stop her nose from bleeding until help could arrive. I have the other report from the medical staff in Student Health right here that says as much."
+Turning back to the two of us while I held my trembling sister, he spoke in a calm, steady voice. "You really care about her, don't you, Nathaniel? No, I don't think you were touching her inappropriately. I think you were acting on instinct and shielding her from further humiliation while you waited for a towel to cover her up, and while she was busy trying to stop her nose from bleeding until help could arrive. I have the medical report from the nurses in Student Health right here on my desk that says the exact same thing."
 
-As Katie slowly calmed down with small sips from the cup of water, she pulled the notepad across the desk and wrote down in firm block letters:
+When the secretary brought in a small paper cup of cool water and Katie slowly took a few sips, her breathing steadied. Reaching across the wooden desk, Katie pulled a yellow legal pad toward her wheelchair, picked up a thick black marker, and wrote down in firm block letters:
 
 *I LET HIM COVER MY DIGNITY!*
 
 ![Inside a 1970s brick-and-wood-paneled office in the Bates-Harding Building at Roosevelt Rehabilitation Center on Wednesday morning, March 14, 2007, twenty-one-year-old Katie and Nate Prairie sit side by side in their collapsible black manual wheelchairs outfitted with right-armrest joysticks, spoked manual wheels with metal push-rims, and rear rubber push-handles; holding a small paper cup of water in one hand, Katie leans over the wooden desk to write "I LET HIM COVER MY DIGNITY!" in bold block letters on a legal pad while Nate holds her shoulder and the duty supervisor sits across the desk deleting the overnight pool-deck entry from his computer]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_bates_harding_counselor_office_dignity_note_katie_nate.jpg)
 
-"Katie, I'm agreeing with you," the supervisor said as gently as possible, deleting the Tuesday afternoon poolside entry from my record on the spot—though he noted that Tuesday night's 11:00 PM Cantor Hall closet write-up would still be waiting on our regular counselor's desk when she returned on Thursday morning.
+"Katie, I'm agreeing with you," the supervisor said gently, tapping his keyboard and deleting the Tuesday afternoon poolside entry from my record on the spot. "That pool-deck entry is gone. Your regular counselor will still see the two of you tomorrow morning regarding last night's eleven-o'clock Cantor Hall closet write-up, since she's out of the office today, but as far as yesterday afternoon at the pool goes, you did the right thing looking out for your sister, Nathaniel."
 
-"Back home in our apartment, we are at each other's side," I told him bluntly before we rolled out to Mr. Henderson's classroom. "In case there's a meltdown or something in the middle of the night, the other one is right there. We are not used to being apart—and we are not staying somewhere that treats keeping my sister safe like a rule violation."
+"Back home in our apartment, we are at each other's side twenty-four hours a day," I told him bluntly before we unlocked our brakes to roll over to Mr. Henderson's classroom. "In case there's a meltdown or an emergency in the middle of the night, the other one is right there. We are not used to being apart—and we are not staying somewhere that treats keeping my sister safe like a rule violation."
 
 ## The Cantor Hall Room Mix-Up, Tina's Daybed in Luray, & Leaving RRC After Twelve Days
 
-### Part 1: Part 1: The Cantor Hall Room Mix-Up, Blind Red-Tape Room Reassignments, & A Sleepless Night for Natalie
+### Part 1: The Cantor Hall Room Mix-Up, Blind Red-Tape Room Reassignments, & A Sleepless Night for Natalie
 
 **Date:** 2007-03-14 at 21:15 America/New_York
 
@@ -3895,135 +3869,127 @@ As Katie slowly calmed down with small sips from the cup of water, she pulled th
 
 #### Wednesday, March 14, 2007, 9:15 PM — When Red Tape Blindly Follows a Scrambled Room Roster
 
-I was sitting in my wheelchair at my desk in Cantor Hall with my laptop webcam connected to Katie's room when the door to my room opened and in popped Tina.
+"What are you doing in here, Tina?" I asked in surprise at nine-fifteen on Wednesday night as the door to my men's dormitory room in Cantor Hall clicked open and in walked our short, petite classmate with her glasses and straight jet-black hair, holding a newly issued plastic room keycard and a overnight bag.
 
-"What are you doing in here?" I asked politely, blinking in surprise at seeing our short, petite classmate with her glasses and jet-black hair standing inside a men's dormitory room after nine o'clock at night.
+Tina pushed her glasses up the bridge of her nose and held up the white plastic keycard with a look of sheer disbelief. "I thought something was fishy when the front desk handed me this keycard ten minutes ago and told me my room had been reassigned."
 
-Tina pushed her glasses up her nose and held up her newly issued plastic keycard with a look of bewildered disbelief on her face. "I thought something was fishy when they gave me this keycard at the front desk."
+Sitting in my wheelchair at my desk with my laptop webcam connected to Katie's room on the women's wing, I swiveled my laptop screen toward the doorway so the camera faced Tina. "Katie, look who just walked into my dorm room with a keycard."
 
-I turned my laptop on the desk so the camera was facing Tina. "Katie, look who just came into my dorm."
+Over the live video window, Katie's eyes went wide behind the white tape across her nose. Before Tina could say another word, the outer suite door opened again and two more classmates from our Web Applications Developer cohort, Jim and Amanda, stepped into our suite hallway holding their own reassigned keycards and printed room slips.
 
-Over the video chat window, Katie was just as surprised as Tina and I were. Tina glanced down at the printed room-assignment note stapled to her keycard, and before she could say another word, the outer suite door opened again and two more classmates from the IT class pool, Jim and Amanda, walked into the hallway holding their own reassigned keycards.
+"Wait a second—they put Amanda and me in the men's suite too?" Tina said, comparing the printed room numbers stapled to their keycards against Jim's slip. "Look at this roster sheet. The computer printout scrambled the men's and women's room numbers across the whole building, and because of the ridiculous red tape around here, the front-desk staff just followed the printout blindly and handed out the keys anyway—putting women in men's suites and men in women's wings without once using their brains to question the sheet!"
 
-That was when all of us realized something seriously wrong was going on with the evening room reassignments.
+"Thank goodness I go home to Luray every Friday afternoon," Tina added, shaking her head in disgust, "because four nights a week of this bureaucracy is already pushing my limit."
 
-Because of Roosevelt Rehabilitation Center's suffocating bureaucratic red tape, the front-desk staff had been expected to follow the printed computer roster blindly and reassign everyone to the rooms listed on the sheet—even when the printout was putting women in men's suites and men in women's wings!
+"What's going on over there?" Katie asked nervously through my laptop speakers. "Do not close this chat window, Nate. I'd come over to your room right now, except I need to stay by my things in case someone comes to my room."
 
-"Only at this place would staff hand a grown woman a keycard to a men's suite without once using their brains to question the printout," Tina said bluntly, telling it like it was as she shook her head. "Thank goodness I go home to Luray every weekend, because four nights a week of this bureaucracy is already pushing my limit."
+"Makes sense," Tina said, gesturing toward the suite door. "And nobody at that front desk is pushing us around tonight. Come on, Nate, Jim—let's roll out to the lobby counter and get this sorted out right now."
 
-"What's going on over there?" Katie asked through the open video-chat window. "Do not close this chat window, Nate. I'd come over to your room right now, except I need to stay by my things in case someone comes to my room."
-
-"Makes sense," Tina replied, nodding toward the corridor. "And nobody at that front desk is pushing us around tonight. Let's get this sorted out right away."
-
-When we stepped out into the hallway, the only dorm staffer on duty was Herbert—whom everyone called Herb. Herb was the one dorm staffer all of us liked because he was the guy who put on weekend video-game tournaments in the lounge, though we all knew he had zero administrative authority to override Center red tape.
+Rolling out to the Cantor Hall lobby counter with my open laptop balanced on my lap tray, we found the only evening dorm staffer on duty: Herbert—whom every student in the building called Herb because he was the one genuinely decent staffer who organized weekend video-game tournaments in the lounge, even though he had zero administrative authority to override housing red tape.
 
 ![Inside the 1970s red-brick lobby of Cantor Hall at Roosevelt Rehabilitation Center on Wednesday night, March 14, 2007, twenty-one-year-old Nathaniel ("Nate") Prairie sits in his collapsible black manual wheelchair outfitted with a right-armrest joystick, spoked manual wheels with metal push-rims, and rear rubber push-handles with his silver laptop open on a small table in front of him; at the wooden front counter, Tina—a petite Caucasian middle-aged woman with glasses and straight jet-black hair—points firmly at the scrambled room-assignment ledger while evening residential staffer Herb scratches his head in confusion and classmate Jim inspects his reassigned plastic room keycard]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_cantor_hall_room_mixup_keycards_tina_herb_jim_nate.jpg)
 
-"I can't even get through to my boss on the phone because it's after hours, and I can't log into the database to check the roster either," Herb explained, holding up his hands helplessly. "Now, all of you in the IT class, I know you don't break the rules—"
+"I can't even get through to my boss on the phone because it's after hours, and the system locked me out of the housing database so I can't check the master roster either," Herb explained, holding up both hands helplessly behind the wooden counter as Tina tapped the scrambled room-assignment ledger. "Now, all of you in the IT class, I know you don't break the rules—"
 
-"Thanks, Herb," Katie said over the video chat window.
+"Thanks, Herb," Katie said through my laptop speaker.
 
-At that exact second, on my laptop screen, we saw the door to Katie's room swing open.
+At that exact second, on my laptop screen, the door to Katie's dorm room on the women's wing swung open.
 
-"Katie, do you mind pointing the laptop toward the door?" Herb asked, leaning in toward my desk. "I would like to see who it is."
+"Katie, do you mind pointing the laptop toward the door?" Herb asked, leaning over the counter toward my screen. "I would like to see who it is."
 
-Katie turned her laptop toward her doorway—and she froze in horror as she realized it was Chris, the exact class jerk from the pool, standing in her doorway holding a reassigned room keycard and launching into an aggressive verbal altercation with her.
+Katie turned her laptop camera toward her doorway—and froze in terror as Chris, the exact guy who had broken her nose open and torn her swimsuit top in the therapeutic pool the afternoon before, stood in her doorway waving a reassigned plastic keycard and launching into an aggressive verbal altercation with her.
 
-I made my decision on the spot.
+I didn't hesitate for half a second.
 
-"Katie: pack your things and come to my room," I said firmly into the microphone. Turning toward Tina and Jim, I said, "I'm going to go get my sister. Jim, please come with me just in case that boy tries something."
+"Katie: pack your things and come to my room," I said into the microphone. Turning my wheelchair toward Tina and Jim, I said, "I'm going to go get my sister. Jim, please come with me just in case that boy tries something."
 
-I looked straight back at the laptop monitor where Chris was standing and said coldly, "You touch my sister again and I will personally murder you." Then I flashed a single look at Herb that basically said, *Don't even think about arguing with me.*
+I looked straight back into the webcam lens where Chris stood in Katie's doorway and said coldly, "You touch my sister again and I will personally murder you." Then I flashed a single look across the counter at Herb that said plain as day: *Don't even think about arguing with me.*
 
-Herb looked at me and said with quiet respect, "You really care about your sister, don't you?"
+Herb looked back at me with quiet respect. "You really care about your sister, don't you?"
 
-I nodded once and rolled my wheelchair at full speed out of my suite toward Katie's dorm room, with Jim and two other classmates from my suite, Bryan and Sean, walking right beside me just in case.
+I nodded once and pushed my joystick full forward down the corridor toward the women's wing, with Jim and two more classmates from my suite, Bryan and Sean, striding right beside my wheelchair.
 
-As I expected when we reached her doorway, Chris had bolted down the hall and Katie was busy shoving her clothes into her suitcase haphazardly with trembling hands. Without saying a word, I quickly helped her shove the rest of her things in while Jim, Bryan, and Sean grabbed her bags to carry them back to my suite.
+By the time we turned into Katie's hallway, Chris had bolted out the side exit and Katie was shoving her clothes into her open suitcase with trembling hands. Rolling straight inside, I helped her sweep the rest of her clothes and toiletries into her bags while Jim, Bryan, and Sean lifted her suitcases to carry them back to my suite on the men's wing.
 
-My sister was in tears as she rolled her wheelchair into my room. One look at her face told Herb all he needed to know: *do not argue with Katie right now, because she is ready to snap at any second.*
+Tears were streaming down Katie's cheeks around her nasal bandage as she rolled her wheelchair into my room beside me. Taking one look at her face when he checked the suite doorway, Herb didn't say a word about Level 2 visitation rules; he could see Katie was one breath away from snapping.
 
-Katie put her arm tightly around me, and I looked straight at Herb. "I don't care what the rules state." Turning my attention to Tina, who held the keycard to the other bed in my room, I asked, "Would you care if my sister and I shared my bed?"
+Katie wrapped her arm tightly around my shoulders, and I looked straight at Herb. "I don't care what the rules state." Turning to Tina, who held the reassigned keycard to the second bed in my room, I asked, "Would you care if my sister and I shared my bed tonight?"
 
-*"Campus Police to Cantor Hall,"* suddenly crackled over Herb's walkie-talkie.
+*"Campus Police to Cantor Hall,"* crackled loudly over Herb's walkie-talkie.
 
-Herb hurried out of the suite to answer the call, leaving Amanda, Bryan, Jim, Katie, Kim, Sarah, Sean, Tina, and me inside the suite. Looking at the frightened expression on Katie's face through her glasses, Tina said warmly, "She needs you right now. I have no problems at all, as long as you two think you both can fit on that tiny bed."
+Herb hurried out of the suite toward the main lobby to answer the radio call, leaving Amanda, Bryan, Jim, Katie, Kim, Sarah, Sean, Tina, and me inside the suite. Looking through her glasses at the frightened expression on Katie's face, Tina spoke with warm, unmistakable kindness.
 
-Once we had a quiet moment on the edge of my bed, I took my sister's trembling hands. "Katie, what's wrong?"
+"She needs you right now, Nate," Tina said. "I have no problems at all, as long as you two think you both can fit on that tiny bed."
 
-My twin sister looked at me with absolute fear in her blue eyes and squeaked, "Thank you for insisting I come down here."
+Once the suite door closed and we sat together on the edge of my narrow mattress, I took my sister's shaking hands in mine. "Katie, what's wrong?"
 
-I knew something was terribly wrong, because Katie never kept things from me like that. Leaning close against my shoulder, she whispered, "I think he hurt Natalie!"
+Katie looked at me with wide, terrified blue eyes and squeaked, "Thank you for insisting I come down here."
 
-Like a dam bursting, Katie could no longer hold back the tears.
+Leaning close against my shoulder so her voice barely rose above a whisper, she trembled. "Nate... right before he opened my door, I heard crying down the hall. I think he hurt Natalie!"
 
-Every student on campus knew that while Natalie was chronologically an adult, mentally she had the comprehension of a young child. Because of her mental disability, she did not understand that Chris had violated her in the way an adult understood—she understood that what Chris did was physically painful, which was why she had been crying, but she had no way of understanding the long-term consequences of what had happened to her.
+Like a dam breaking, Katie buried her face against my neck and sobbed. Across the room, Tina, Sarah, and Jim exchanged grim, horrified looks: everyone on campus knew that while Natalie was chronologically an adult, cognitively she had the mind of a young child.
 
-Tina sat down next to us as the rest of our classmates in the suite looked on, caring deeply about my sister's fright. Everyone in the room knew Katie would not leave my side, not even for a single second, when she was frightened like this.
+Tina sat down on the chair beside us, resting a steadying hand on Katie's arm while the rest of our classmates kept watch by the suite door.
 
 "Would you like to change into your PJs?" I asked my sister gently.
 
-"Please," she whispered.
+"Please," she whispered, clutching my wrist and bringing me into the suite bathroom with her so she wouldn't have to be alone behind a closed door for even sixty seconds.
 
-I wasn't surprised in the slightest when my sister dragged me into the bathroom with her so she wouldn't have to be alone behind a closed door. When we both came back out in our night clothes, Tina looked at the two of us with genuine kindness.
+When we came back out in our pajamas, Tina looked at the two of us with quiet resolve. "You know I drive my compact sedan home to Luray every single Friday afternoon anyway," Tina said. "How about this weekend the two of you come with me and spend it at my house in Luray?"
 
-"You know I go home to Luray every single weekend anyway," Tina offered. "How about this weekend you two come with me and spend it at my house in Luray?"
+"That might not be a bad idea," Katie whispered, wiping her eyes with her sleeve.
 
-"That might not be a bad idea," Katie whispered, wiping her eyes.
+"Pack yourselves a duffel bag tomorrow, and we will leave on Friday at three-thirty sharp as soon as Mr. Henderson's class is over," Tina promised, reaching for the wall switch to turn off the overhead fluorescent light as Katie and I climbed onto my narrow twin mattress together.
 
-"Pack yourselves some clothes tomorrow, and we will leave on Friday as soon as class is over," Tina promised.
+"On one hand, I'm glad we are back together again," Katie whispered in the dark, pressing her forehead against my collarbone, "but yet on the other, I feel so weird and sick about what happened tonight."
 
-Katie's tears slowly subsided as the two of us climbed onto my small institutional bed together—a mattress really only designed for one person—and Tina shut off the overhead lights.
+I wrapped both arms securely around her and whispered back, "I can't wait to get out of here with Tina on Friday."
 
-"On one hand, I'm glad we are back together again," Katie whispered in the dark, pressing close against my side, "but yet on the other, I feel so weird and sick about what happened tonight."
-
-I gently put my arm around her and whispered back, "I can't wait to get out of here with Tina tomorrow."
-
-Neither Katie nor I was able to sleep a single wink that night. We lay wide awake in each other's arms on that narrow twin mattress until dawn, haunted by what Chris had done to Natalie and furious at the mindless red tape that had handed him the keycard.
+Neither of us slept a single wink all night, lying wide awake in each other's arms on that narrow institutional mattress until the sky outside the window turned gray.
 
 ***
 
 #### Thursday, March 15, 2007, 6:15 AM — "That Little Bitch Will Never Tell," Sweeping It Under the Rug, & A Shattered Natalie
 
-Because neither of us had slept, Katie, Sarah, Tina, and I were up and dressed early when morning arrived—and as we stepped out into the hallway, we overheard two male voices talking in hushed whispers around the corner.
+At six-fifteen on Thursday morning, having not slept a minute, Katie, Tina, Sarah, and I dressed quietly and stepped out into the Cantor Hall corridor—freezing in our tracks as two hushed male voices echoed from just around the corner by the stairwell.
 
-"That little bitch will never tell. You feel better, Chris?" someone whispered.
+"That little bitch will never tell. You feel better, Chris?" a voice whispered.
 
-"Yeah, it felt good," Chris whispered back.
+"Yeah, it felt good," Chris whispered back before the stairwell door clicked shut.
 
-Seconds later, as we reached the lobby, the four of us were called into the office by Herb and the morning supervisor, Kellie.
+Katie's hand tightened like a vise around mine. Thirty seconds later, as we rolled into the main lobby, Herb and the weekday morning supervisor, Kellie, waved the four of us into the residential office.
 
-"I'm glad it's you guys—you are good at investigating things," Kellie said in his deep, comforting voice. He wasn't angry at us in the slightest about ignoring the scrambled bed assignments the night before, because he knew something sinister was behind it. "I still can't get into the database to fix the bed assignments either. If you hear anything at all, please let us know. We would like to solve this mystery."
+"I'm glad it's you guys—you are good at investigating things," Kellie said in his deep voice, gesturing toward the dark computer terminal on his desk without a single word of reprimand about Katie sleeping in my room the night before. "Our housing database is still completely locked up from last night's scrambled bed reassignments—in fact, Nathaniel, Katie, your counselor's ten-o'clock disciplinary meeting over Tuesday night's closet write-up is canceled because none of the counselors can even pull up the residential files today. If you hear anything at all about how the roster got scrambled last night, please let us know."
 
-Keeping my arm wrapped around my twin sister, I looked straight at Kellie. "Yes, of course. Now, I just heard something in the hallway that may or may not be related. Ask Chris about, and I quote, 'that bitch will never tell.'"
+Keeping my left arm wrapped around my twin sister's shoulders, I looked straight across the desk at Kellie. "Yes, of course. Now, I just heard something in the hallway ten seconds ago that may or may not be related. Ask Chris about, and I quote, 'that bitch will never tell.'"
 
-As we rolled out of the office and made our way toward the cafeteria for breakfast, Katie was the first to notice her: sitting on a bench outside the dining hall was Natalie, sobbing uncontrollably while several of her friends tried to tend to her. It wasn't like Natalie to cry like that.
+Kellie's eyes narrowed sharply, and he reached for his radio as the four of us rolled back out of the office toward the dining hall breezeway.
 
-"That thing... he pees from..." Natalie stammered through her tears, rubbing at her eyes like a hurting child who only knew that what had been done to her had physically hurt badly, without any comprehension of the violation itself or the lifelong weight of its consequences.
+Right outside the cafeteria doors, Katie gasped softly and pointed toward the concrete bench by the bushes. Sitting on the bench surrounded by three of her friends was Natalie, sobbing inconsolably and rocking back and forth.
 
-We all knew that Natalie wasn't all there mentally, and Katie whispered in horror beside me, "I think... well... I don't even want to consider it."
+"That thing... he pees from..." Natalie stammered through her tears, rubbing at her eyes like a hurting seven-year-old child who only understood that what had been done to her had caused sharp physical pain, with no adult comprehension of the violation itself or the lifelong weight of its consequences.
 
-Jim looked at my sister and saw the terror in her eyes. All of us figured it out real quick: Natalie had been violated by the exact guy who had been planning to share my sister's room.
+"I think... well... I don't even want to consider it," Katie whispered in horror beside me, her hand shaking in mine as Jim walked up behind us and saw the look on our faces. Every single one of us knew right then what Chris had done to Natalie before he had walked down the hall with that reassigned keycard to Katie's door.
 
-"Katie, I'm so glad I insisted on you spending the night with me," I whispered, holding her hand tightly as we got into the breakfast line.
+"Katie, I'm so glad I insisted on you spending the night with me," I whispered, holding her hand tightly as the dining hall doors opened at six-thirty.
 
-When the cafeteria staff gestured us in at six-thirty, Katie, Sarah, Tina, and I got our trays and quickly found a table together in the far corner away from the crowd.
+Carrying our trays to the far corner table away from the noise, Katie, Sarah, Tina, and I leaned in across the laminate tabletop.
 
-"I think it is up to us to solve the mystery and trace what he did in the computer system," Sarah said quietly.
+"I think it is up to us to trace the timestamps and see what he did in the computer system," Sarah said quietly.
 
-"I think you're right," Katie replied, her voice tight. "You know the center administration will drag its heels."
+"I think you're right," Katie replied, her jaw tight. "You know the center administration will drag its heels."
 
-"What happened to Natalie was an absolute disgrace," Tina said, shaking her head in disgust. "Someone needs to get to the bottom of this."
+"What happened to Natalie was an absolute disgrace," Tina said, shaking her head behind her glasses. "Someone needs to get to the bottom of this."
 
-Trying to coax even a faint breath out of my sister, I took one look at the rock-hard gray square sitting on my breakfast plate that was supposed to be toast and asked rhetorically, "What is *this*?!"
+Trying to coax even a faint breath out of my pale sister, I tapped my plastic fork against the rock-hard gray square sitting on my plate that was supposed to be toast and asked rhetorically, "What is *this*?!"
 
-Because the entire Cantor Hall database and residential administration were in utter chaos all day Thursday over the Wednesday-night room mix-up, our vocational counselor never even called Katie and me in for the Thursday write-up meeting we had been promised over sleeping together in the closet on Tuesday night. That write-up vanished straight into the shuffle—and frankly, neither Katie nor I could have cared less.
+Less than an hour later, as we rolled along the walkway from the dining hall toward Mr. Henderson's classroom at seven-fifty, we stopped by the curb and watched in stunned, furious silence as two RRC staffers escorted Chris out to a waiting passenger van by the front gate carrying his duffel bag—with not a single state trooper cruiser, sheriff's deputy, or pair of handcuffs in sight.
 
-What angered Katie, Tina, Sheila, Jim, Sarah, and me more than anything else as Thursday unfolded was how Roosevelt Rehabilitation Center handled Chris.
+"Wait—they're just kicking him out and putting him in a van?" Tina said aloud on the sidewalk beside Katie's wheelchair, her voice shaking with anger. "He assaulted Katie in the pool on Tuesday, he attacked Natalie in the dorms last night during their own keycard mix-up, and instead of calling the State Police and having him arrested in handcuffs, the administration is just escorting him off the property and sweeping the whole thing under the rug so it doesn't show up on a state incident report?!"
 
-Chris had already been on the verge of getting kicked out of the Center for assaulting Katie in the pool on Tuesday—and after what he did to Natalie on Wednesday night, he should have been handed straight over to the police in handcuffs. Instead, no: the Center simply finished kicking him out, escorted him off the property, and swept the entire incident under the rug, leaving a shattered Natalie behind to pick up the pieces of her life while classes and the daily campus schedule went right on at eight o'clock like nothing had happened at all.
+"Look at the courtyard," I said bitterly as the eight-o'clock bell rang and classes resumed across campus as if nothing had happened at all, while Natalie's friends led her weeping toward the clinic. "They wouldn't even let Katie and me sleep in a hallway closet together without threatening to write us up, and they just let a predator walk out the front gate without calling the police."
 
-### Part 2: Part 2: Sharing the Daybed at Tina's House in Luray, Walking Out After Twelve Days, & Coming Home to Kempsville
+### Part 2: Sharing the Daybed at Tina's House in Luray, Walking Out After Twelve Days, & Coming Home to Kempsville
 
 **Date:** 2007-03-16 at 15:45 America/New_York
 
@@ -4031,41 +3997,53 @@ Chris had already been on the verge of getting kicked out of the Center for assa
 
 #### Friday, March 16, 2007, 3:45 PM — Collapsing Our Wheelchairs into Tina's Compact Sedan & The Living-Room Daybed in Luray
 
-The second Mr. Henderson dismissed our Web Applications Developer class at three-thirty on Friday afternoon—our twelfth day at Roosevelt Rehabilitation Center—Katie and I grabbed our packed duffel bags and rolled out to the student parking lot beside Tina's compact sedan. Because we had left our heavy full-size SwiftChairs back at the house in Virginia Beach and been fitted with regular manual push wheelchairs outfitted with armrest joysticks for RRC, all we had to do after transferring into Tina's back seat was let Tina unclip our two compact battery packs, pull up on the canvas seats to collapse both manual cross-brace frames flat, and slide both folded wheelchairs side by side into the trunk of her compact sedan. Five minutes later, we were watching the gates of Roosevelt Rehabilitation Center shrink in the rearview mirror as Tina made her regular Friday-afternoon drive north up Route 340 into the quiet green valley of Luray, Virginia.
+"See how easy that is when you don't have two four-hundred-pound power bases to wrestle with?" Tina smiled back at Katie and me through her glasses at three-forty-five on Friday afternoon, standing at the open trunk of her silver four-door compact sedan in the Roosevelt Rehabilitation Center student parking lot.
+
+Sitting side by side on the rear passenger bench seat holding hands through the open back door with our packed duffel bags and laptop cases tucked at our feet, Katie and I watched as Tina unclipped the compact battery boxes from underneath our two folding wheelchairs, pulled straight up on the canvas seat straps to collapse both cross-brace frames flat, and lifted the folded frames—spoked push-rim wheels, rear rubber push-handles, and right-armrest joysticks and all—smoothly into her trunk side by side.
 
 ![In the student parking lot outside the 1960s and 1970s flat-roofed red-brick buildings of Roosevelt Rehabilitation Center in Fishersville, Virginia on Friday afternoon, March 16, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side on the rear passenger bench seat of Tina's silver four-door compact sedan holding hands through the open rear door; at the open trunk of the car, Tina—a petite Caucasian middle-aged woman with glasses and straight jet-black hair—smiles back toward the twins as she easily lifts their collapsed black manual wheelchair frame (with spoked wheels, metal push-rims, rear rubber push-handles, and right-armrest joystick) into the trunk for the weekend drive up Route 340 to Luray]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_tina_compact_sedan_trunk_collapsing_wheelchairs_luray_trip.jpg)
 
-Walking and rolling into Tina's cozy, sunlit house in Luray felt like stepping out of a monochrome prison into a real home. Now we understood why Tina never missed a single weekend going home to Luray: out here in the Page Valley, there were no laminated rule signs taped to the walls, no clipboard-carrying evaluators or dorm supervisors trying to grab our wheelchair push-handles or separate us at night, no yellow Level 2 Hall Passes, no locked-down Quantum OS 2000 Professional computers, and no nasty cafeteria rations—just the smell of real home-cooked dinner simmering on the stove and a quiet living room where Tina had already made up her wide pull-out daybed with fresh sheets, fluffy pillows, and a soft quilt specifically for the two of us.
+"Dr. Carter knew what he was doing when he had us leave our full-size SwiftChairs back at the house in Virginia Beach," I said, letting out a long breath as Tina closed the trunk lid, climbed behind the steering wheel, and turned out of the campus gates onto Route 250 toward Route 340 North.
 
-That Friday night, after eating the best meal we had tasted in nearly two weeks and talking PHP and SQL around Tina's kitchen table until ten o'clock, Katie and I climbed onto Tina's living-room daybed together.
+"Take a good look in the rearview mirror, you two," Tina said cheerfully as the flat-roofed 1960s and 1970s red-brick dormitories of Fishersville disappeared behind the tree line and the Blue Ridge Mountains rose to our right along the Shenandoah River. "Every Friday at three-thirty, I put that place in my mirror and don't think about a single clipboard until Monday morning."
 
-For the first time since we had checked into Barton Hall on Sunday, March 4, nobody came knocking at eleven o'clock to force us down separate hallways or write us up for curling up together in a closet. As Tina turned off the hall light and headed to her bedroom, Katie curled straight into my arms on the daybed, buried her face against my collarbone, and let out a long, shuddering sigh that released twelve solid days of institutional exhaustion all at once.
+An hour and fifteen minutes later, when Tina turned into her driveway in the quiet green valley of Luray and unfolded our wheelchairs by the front porch, rolling inside her sunlit house felt like stepping out of a monochrome prison into another world. In Tina's kitchen, a pot of homemade beef stew was simmering on the stove; in the living room, where afternoon sunlight slanted across a braided rug with not a single laminated institutional rule sign on the walls, Tina had already pulled out her wide living-room daybed and made it up with crisp cotton sheets, four fluffy pillows, and a thick patchwork quilt specifically for the two of us.
 
-"Nate," Katie whispered in the quiet dark of Tina's living room, her fingers laced tightly through mine, "I am never spending another night in Cantor Hall. Twelve days of that place is more than enough for an entire lifetime."
+At ten-thirty that night, after eating two bowls apiece of real home-cooked stew and talking PHP arrays and MySQL joins around Tina's kitchen table, Katie and I changed into our pajamas and climbed onto the wide living-room daybed together.
 
-I lay awake listening to the wind outside Tina's window, knowing in my bones that my twin sister was one hundred percent right.
+"Goodnight, you two—sleep as late as you want tomorrow morning, and nobody is knocking on any doors at eleven o'clock in my house," Tina said warmly, clicking off the hallway lamp on her way to her bedroom.
 
-"We don't have to go back, Katie," I whispered, rubbing her back under the quilt. "Before we left Mr. Henderson's lab this afternoon, we copied the entire PHP and SQL course syllabus and every textbook exercise onto both of our laptops. We already have our associate degrees from Tidewater Community College. We don't need to stay locked up as Level 2 clients begging for yellow Hall Passes—or watch an administration sweep what happened to Natalie under the rug just to protect their butt-in-seats funding—when we can master server-side PHP and SQL from home."
+In the quiet dark of Tina's living room, Katie curled straight into my arms under the quilt, buried her face against my collarbone, and let out a long, shuddering sigh that released twelve solid days of tension all at once.
+
+"Nate," Katie whispered, lacing her fingers tightly through mine, "I am never spending another night in Cantor Hall. Twelve days of that place is more than enough for an entire lifetime."
+
+I listened to the quiet mountain wind rustling the trees outside Tina's front window, holding my twin sister close.
+
+"We don't have to go back, Katie," I whispered, rubbing her back under the quilt. "Before we shut down our laptops in Mr. Henderson's lab at three-thirty today, we copied the entire PHP 5 and SQL course syllabus and every textbook exercise onto both of our hard drives. We already have our associate degrees from the Community College of Hampton Roads. We don't need to stay locked up as Level 2 clients begging for yellow Hall Passes—or stay at a center that sweeps what happened to Natalie under the rug just to protect their butt-in-seats funding—when we can master server-side PHP and SQL from home."
 
 ***
 
 #### Sunday, March 18, 2007, 1:00 PM — Calling Dad to Pack Up Cantor Hall & Returning to Our Routine in Virginia Beach
 
-On Saturday morning, over hot pancakes and fresh apple juice at Tina's dining table after sleeping eleven uninterrupted hours side by side on the daybed, we told Tina our decision—and then called Dad in Alexandria on speakerphone.
+"I don't blame you two one bit," Tina said over hot pancakes and fresh apple juice at her dining table on Saturday morning, setting her coffee mug down and adjusting her glasses beneath her jet-black hair after Katie and I told her our decision and dialed Dad's number in Alexandria on speakerphone. "Between the aides grabbing your wheelchair push-handles during Voc Eval, that insulting ValueMart door-greeter pitch, keeping you stuck on Level 2 with yellow Hall Passes, the Chickenshit Report after the pool, writing you up for sleeping in a closet, and the disgusting way the administration swept what Chris did to Natalie under the rug on Thursday, I wouldn't stay another night in those dorms either if I were in your shoes. You already copied Mr. Henderson's full PHP and SQL curriculum onto your laptops, and Sheila, Jim, and I are online every afternoon. We'll share every lecture note, review each other's database code over instant messenger, and build our projects together without a single dorm supervisor breathing down your necks."
 
-Across her kitchen table, Tina set her coffee mug down, adjusted her glasses beneath her jet-black hair, and nodded with wholehearted approval.
+"Listen to me, both of you," Dad's voice came through the speakerphone from his house on Sunset Drive in Alexandria, warm and fierce at the same time. "I couldn't be prouder of you for standing up for each other and walking away from a place that refused to respect your dignity or your bond. Stay right there at Tina's house today and rest up. Tomorrow morning I'm driving my pickup truck down Interstate 81, we'll stop by Fishersville just long enough to clear the rest of your clothes out of Cantor Hall and drop your room keys on the front desk, and I'll bring you straight home to Virginia Beach."
 
-"I don't blame you two one bit," Tina said bluntly, telling it like it was. "Between the aides grabbing your chairs during Voc Eval, that insulting ValueMart door-greeter pitch, the yellow Level 2 Hall Passes, the Chickenshit Report after the pool, writing you up for sleeping in a closet, and the disgusting way the administration swept what Chris did to Natalie under the rug on Thursday, I wouldn't stay another night in those dorms either if I were in your shoes. You already copied Mr. Henderson's full PHP and SQL curriculum onto your laptops, and Sheila, Jim, and I are all online every afternoon. We'll share every lecture note, review each other's database code over instant messenger, and build our projects together without a single dorm supervisor breathing down your necks."
+At one o'clock on Sunday afternoon, March 18, 2007—exactly fourteen days after we had first rolled through the doors of Barton Hall—Dad backed his pickup truck up to the curb outside Cantor Hall while Tina parked her compact sedan right beside him. Within twenty minutes, Dad, Jim, and Tina had loaded the rest of our suitcases from our dorm rooms into the bed of the pickup truck, and Katie and I rolled side by side up to the Cantor Hall front counter.
 
-"Listen to me, both of you," Dad said immediately over the speakerphone from Sunset Drive in Alexandria, his voice warm and fierce at the same time. "I couldn't be prouder of you for standing up for each other and walking away from a place that refused to respect your dignity or your bond. Stay right there at Tina's house today and rest up. Tomorrow morning I'm driving my pickup truck down Interstate 81, we'll stop by Fishersville just long enough to clear the rest of your clothes out of Cantor Hall and hand your room keys back to the front desk, and I'll bring you straight home."
+Without waiting for a single exit interview or the canceled Thursday counselor write-up meeting over the hallway closet, Katie and I dropped our plastic Level 2 room keycards onto the wooden blotter simultaneously.
 
-On Sunday afternoon, March 18, 2007—exactly fourteen days after we had first rolled through the doors of Barton Hall—Dad backed his pickup truck up to the curb outside Cantor Hall. It took us less than twenty minutes to load our suitcases into the truck bed, drop our plastic Level 2 room keycards onto the front counter without waiting for a single exit interview or counselor write-up meeting, and hug Tina, Sheila, and Jim goodbye in the parking lot.
+"We're checking out permanently," Katie told the startled Sunday desk clerk, before both of us spun our wheelchairs around, rolled out the automatic glass doors into the sunshine, and hugged Tina, Sheila, and Jim tightly in the parking lot.
 
-When Dad drove us east over Afton Mountain and down Interstate 64, we didn't have to move into a strange new neighborhood or give up the coastal streets we knew by heart.
+"Log onto instant messenger as soon as you get unpacked down at the coast," Tina told us, squeezing Katie's hand and then mine before we transferred into the cab of Dad's pickup truck. "Module Four on database normalization starts Monday morning at nine sharp, and Sheila, Jim, and I expect your code in the shared folder!"
 
-Because when Dad had taken his corporate transfer to Tysons Corner and bought his second house on Sunset Drive near King Street in Alexandria—updating his Virginia driver's license to make Alexandria his primary residence—he had kept the single-story brick ranch off Military Highway and Indian River Road in the Kempsville section of Virginia Beach that he had bought from our landlord years earlier. Dad knew better than anyone how much our autistic routine depended on familiar walls, familiar coastal bus routes, and our enclosed walk-in closet sanctuary.
+"Count on it!" Katie grinned out the passenger window as Dad pulled out of the lot and headed east toward Afton Mountain and Interstate 64.
 
-Rolling back through our front door in Virginia Beach that Sunday evening, transferring back into our full-size SwiftChairs, and opening our laptops side by side at our own dining table while Tina, Sheila, and Jim pinged us online with the next module of PHP and SQL exercises, Katie and I made ourselves a quiet promise: we would never let anyone separate us at night again—and if the bureaucrats behind Roosevelt Rehabilitation Center ever crossed our path in the years ahead, we would remember every single thing we had witnessed in Fishersville.
+"Are you sure it's no trouble for us to move back into the Military Highway house while you're working up in Tysons Corner during the week, Dad?" I asked as the pickup climbed toward the Blue Ridge tunnel.
+
+"Trouble? Nate, that's the entire reason I kept the Virginia Beach house when I bought the place on Sunset Drive in Alexandria and updated my driver's license," Dad said, reaching across the console to pat my knee and Katie's shoulder. "I bought that brick ranch off Military Highway and Indian River Road from our old landlord years ago so the two of you would always have your own ramp, your own walk-in closet sanctuary, and the Kempsville streets and bus routes you know by heart. That house is yours for as long as you want it."
+
+When Dad pulled into the driveway off Military Highway in Virginia Beach at dusk that Sunday evening and unlocked the front door at the top of the aluminum wheelchair ramp, Katie and I transferred out of the travel frames right back into our full-size SwiftChair power wheelchairs, rolled side by side to our familiar dining table, and opened our laptop lids together just as Tina, Sheila, and Jim's names lit up green on our screens.
 
 # Back Home in Virginia Beach & The Kempsville City Council
 
@@ -4085,15 +4063,9 @@ Rolling back through our front door in Virginia Beach that Sunday evening, trans
 
 I followed my sister's gaze across the polished laminate table where CVTA's senior operations staff and the appointed city council commissioners from around Hampton Roads were shuffling their agenda packets before the monthly Transportation District Commission meeting gaveled in.
 
-Sure enough, clipped inside the deputy planning director's black binder—and photocopied into three separate packets along the commissioners' dais—were six pages printed directly from Ideas for Coastal Virginia Transit, complete with the coastal-navy header and the custom PHP route-comparison tables I had coded the week before.
+Sure enough, clipped inside the deputy planning director's black binder—and photocopied into three separate packets along the commissioners' dais—were six pages printed directly from Ideas for Coastal Virginia Transit, complete with the coastal-navy header and the custom PHP route-comparison tables I had coded the week before at our dual desks in the brick ranch off Military Highway and Indian River Road in Virginia Beach.
 
-Two and a half years had passed since that quiet Sunday night in November 2005 when Katie and I had first launched our blog on BlogSphere from our dining-table desk at Sea Breeze West Apartment 3. In that time, our lives had moved forward together step by step. We had ridden CVTA Route 1 and Route 29 side by side through rain, summer heat, and winter wind to finish our associate degrees at the Community College of Hampton Roads. When our West Ocean View lease ended in March 2007 and Dad took his new systems engineering position up in Tysons Corner, Dad had bought a second house on Sunset Drive in Alexandria and updated his Virginia driver's license to make Alexandria his primary residence—while keeping the single-story brick ranch off Military Highway and Indian River Road in the Kempsville section of Virginia Beach that he had bought from our landlord years earlier so that Katie and I always had a home in Hampton Roads that preserved our autistic routine. After Katie and I walked out of Roosevelt Rehabilitation Center in Fishersville after twelve days in March 2007—refusing to let evaluators push us around, pitch us on being ValueMart door greeters, or force us into separate dorm wings at night—we had returned home to our brick ranch off Military Highway and Indian River Road, copied the Web Applications Developer PHP and SQL curriculum onto our laptops, mastered server-side PHP and relational database architecture alongside our classmates Tina, Sheila, and Jim online, outfitted our master walk-in closet as our enclosed sleeping sanctuary, and replaced the narrow builder-grade fiberglass tub in our master bathroom with a custom-built, extra-wide roll-up hydrotherapy soaking tub for two with a flush SwiftChair-height transfer deck where the two of us could soak side by side in chest-deep hundred-and-two-degree water at the end of every day.
-
-And through every single one of those hundred and twenty-four weeks, we had never missed a post on Ideas for Coastal Virginia Transit.
-
-What had started as two twenty-year-old twins quietly jotting down what they wished their regional bus system could be had grown into the first independent transit watchdog Hampton Roads had ever seen. After we rebuilt the site in custom PHP with Tina, Sheila, and Jim in the spring of 2007 after walking out of Roosevelt Rehabilitation Center, I had written a server-log analyzer to see where our weekday traffic was coming from. The results had made both of us sit up at our desks: every weekday morning between eight and ten o'clock, dozens of page views were coming straight from static IP blocks registered to CVTA headquarters in Norfolk, alongside municipal government networks inside the City Halls of Virginia Beach, Norfolk, Chesapeake, Portsmouth, Hampton, and Newport News.
-
-They were reading every word we wrote. They just didn't know what to do with two twenty-two-year-old twins in power wheelchairs who refused to pat them on the back for the status quo.
+"Every weekday morning between eight and ten o'clock, our server logs show static IP blocks from this building and all six City Halls reading our PHP tables," I whispered back to Katie, glancing down the row of commissioners. "They read every word we write, Katie. They just don't know what to do with two twenty-two-year-old twins in power wheelchairs who won't pat them on the back for the status quo."
 
 When the commission chair called the brief public-comment period at the start of the one-thirty afternoon meeting—scheduled, as always, in the middle of a Thursday workday when almost no working commuter could attend—Katie released her joystick brake and rolled smoothly up to the low microphone table at the front of the room, with me rolling right up beside her holding our printed schedule audit.
 
