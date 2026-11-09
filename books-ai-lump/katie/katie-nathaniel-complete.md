@@ -7202,7 +7202,23 @@ Uncle Richard rested a proud hand on Sam's shoulder while Aunt Marge squeezed Ma
 
 "Four years later, the day Sam, Mandy, and Sarah graduated high school right here in Southside and started college at Central Virginia University, Senator Katie Prairie kept her promise and hired all three of them to work side by side in her Senate office so they would never be separated," Uncle Richard continued, pointing back toward the Piedmont Regional Transit bus idling at the curb. "And that bus sitting behind us—connecting Martinsville and Danville—is running down Route 58 today because Katie Prairie took a transit bill that three eighth-grade Pages from Southside wrote for their Mock Session ten years ago and fought in the Senate of Virginia until it was funded into law. So when Washington consultants for Preston Holloway or Richard Sterling roll through Southside in chartered luxury buses telling you that Katie Prairie can't win rural voters or doesn't care about families, don't buy a word of it. Marge and I are crossing party lines to endorse Katie Prairie for the United States Senate—because for ten years, Katie Prairie has had our family's back."
 
-On the evening bus ride back up U.S. Route 58 toward Bluewater to catch the northbound *Maroon Express*—while video of the former Republican House Majority Leader endorsing a Virginia Beach Democrat at a Danville bus shelter led every six o'clock television newscast from Roanoke to Norfolk and Washington—Sam, Mandy, and Sarah watched our rural Southside traffic and voter-pledge numbers vertical-spike on my laptop screen and grinned in unison, coining a phrase that every political desk in Virginia would be repeating by November: "the Uncle Richard Effect."
+In the front row of the press scrum, a Roanoke political correspondent thrust his microphone forward, almost tripping over his own camera cable.
+
+"Leader Richard, are you leaving the Republican Party?" the reporter shouted.
+
+"No," Uncle Richard answered flatly.
+
+"But you're endorsing the Democratic nominee for the United States Senate!"
+
+"I am."
+
+"How do you reconcile those two things after twenty-four years as a Republican in the House of Delegates?"
+
+Uncle Richard looked straight into the cluster of television lenses, his jaw set with the quiet granite authority of a man who had counted votes and governed a real legislative chamber for nearly a quarter of a century.
+
+"I didn't leave the Republican Party. The Republican Party left me," Uncle Richard said, and you could hear every camera shutter on the sidewalk freeze. "I'm the exact same man who served Southside Virginia for twenty-four years. I still believe most of the things I believed when your parents were sending me to Richmond—fiscal restraint, balanced budgets, standing up for our farmers and small businesses, strong local communities, and working inside constitutional institutions where you could argue your heart out against a Democrat on the House floor at two o'clock and still sit down together at four o'clock to pass a highway and transit bill because governing is what we were hired to do. First the Liberty Tax Movement came along and started screaming that any conservative who compromised to pass a budget was a traitor to be primaried. And then Restore the Republic took over and demanded that we treat people we've worked beside for years as enemies of America—mocking a colleague in a wheelchair as 'Broken Katie Prairie' and turning cruelty into a television performance until their rhetoric started frightening my own kids. Well, Restore the Republic ran into a problem with me: I actually know Katie Prairie. No Super PAC commercial can tell me she hates families when I've watched her take care of my kids for ten years, and no cable pundit can tell me she hates rural Virginia when she listened to three thirteen-year-olds from Danville talk about public transportation. What I no longer believe is that having a D after your name makes you my enemy. Katie Prairie and I disagree about plenty. But I know Katie."
+
+On the evening bus ride back up U.S. Route 58 toward Bluewater to catch the northbound *Maroon Express*—while video of the former Republican House Majority Leader declaring *"I didn't leave the Republican Party; the Republican Party left me"* at a Danville bus shelter led every six o'clock television newscast from Roanoke to Norfolk and Washington—Sam, Mandy, and Sarah watched our rural Southside traffic and voter-pledge numbers vertical-spike on my laptop screen and grinned in unison, coining a phrase that every political desk in Virginia would be repeating by November: "the Uncle Richard Effect."
 
 Four weeks later—on Primary Night, Tuesday, June 16, 2026—the political establishment in Washington and Richmond learned the hard way what happens when you dismiss the people who ride the bus.
 
@@ -7634,6 +7650,58 @@ While the other incoming Senators fought over the high-ceilinged, chandeliered c
 
 An hour later, when the Democratic Steering and Outreach Committee met with Katie and Senior Senator Thomas Keane to finalize committee slates for the One Hundred Twentieth Congress, the leadership didn't repeat Senator Martin Warren's mistake of underestimating her. With Naval Station Norfolk, Newport News Shipbuilding, and the Port of Virginia anchoring her home base—and Appropriations Chairman Arthur Harrington personally requesting her on his committee—Katie rolled out of the Steering meeting with three powerhouse assignments: the Senate Committee on Appropriations (including seats on the Labor, Health and Human Services, Education, and Related Agencies Subcommittee and the Transportation, Housing and Urban Development Subcommittee), the Senate Committee on Banking, Housing, and Urban Affairs (which held one hundred percent Senate jurisdiction over the Federal Transit Administration and every public transit system in America), and the Senate Committee on Commerce, Science, and Transportation.
 
+Because Katie had defeated retiring Senator Martin Warren's handpicked corporate successor in the June primary rather than inheriting a party machine, we weren't taking over a pre-packaged staff operation—we were building Senator Katie Prairie's personal office from the ground up. Following the model Senior Senator Thomas Keane used across the Commonwealth, Katie and I structured her incoming operation into two coordinated halves: a Washington legislative, administrative, scheduling, and communications staff in Dirksen Room 511, and a Virginia constituent-services operation staffed by caseworkers and geographically assigned regional directors across Hampton Roads, Richmond, the Shenandoah and New River Valleys, Northern Virginia, and a dedicated Southside and Eastern Shore Regional Director.
+
+And before our transition team opened a single resume from Capitol Hill, Katie wrote three names at the very top of her Washington staffing chart:
+
+"Sam, Mandy, and Sarah are coming with me."
+
+In the United States Senate, unlike the Senate Page Program—where sixteen- and seventeen-year-old Pages are sponsored by Senators and employed by the Sergeant at Arms—every Senator's personal office is an independent equal-opportunity employer that sets its own positions, responsibilities, and professional salaries. At twenty-four years old, Sam, Mandy, and Sarah weren't children anymore, and Katie would never insult their intelligence or their autism by treating them as office mascots or handing them three generic, interchangeable make-work titles. Because Katie and I were autistic ourselves, we understood something that neurotypical managers almost always got backward: for Sam, Mandy, and Sarah, successful adulthood meant interdependence, not forced separation. They didn't need to be chained within a six-foot radius of one another every minute of the afternoon if Sam had to walk downstairs to a committee hearing room while Mandy stayed on a constituent phone call, yet they regulated and felt secure knowing they were based together in Dirksen Room 511, had workstations near one another, commuted together on Capital Transit, ate lunch together whenever they wanted, and would never have a supervisor arbitrarily split them across different cities to "teach them a lesson."
+
+Even more importantly, during their years working for Katie in Richmond while earning their degrees at Central Virginia University, the three triplets had developed completely distinct professional strengths—inseparable as people, not interchangeable as professionals:
+
+For twenty-four-year-old Sam—who had turned into an unapologetic policy gremlin capable of happily reading a three-hundred-and-twelve-page Federal Transit Administration authorization bill at eleven o'clock at night—Katie created a full-time position as Legislative Correspondent covering Transportation, Infrastructure, Disability and Accessibility Policy, and Rural Development at a starting salary of sixty-two thousand dollars, bringing him full circle from the thirteen-year-old eighth-grade Page who had carried paper bills around the Virginia House floor in 2016 to a congressional staffer drafting federal transit legislation for a United States Senator.
+
+For twenty-four-year-old Mandy—who had discovered in Richmond that she loved the human-facing detective work of helping everyday Virginians who were stuck inside federal and state bureaucracies—Katie offered a sixty-six-thousand-dollar position as Constituent Services Representative and Federal Caseworker, designing a crystal-clear, predictable six-step casework protocol that suited Mandy's methodical mind down to the last checkbox: case received, Privacy Act consent paperwork, federal agency liaison contact, scheduled follow-up, constituent update, and resolution and closure.
+
+And for twenty-four-year-old Sarah—who had started at the front reception console handling phone lines, Capitol tour requests, visitor greeting, and mail triage before revealing a razor-sharp talent for digital accessibility and social-media graphics—Katie offered a fifty-eight-thousand-dollar position as Staff Assistant and Digital Accessibility Correspondent on a direct track into her press and legislative communications operation alongside me.
+
+When Katie called the triplets from our transition room that Tuesday afternoon to offer all three of them the jobs in Washington, there was a ten-second stunned silence on the line before Mandy said earnestly, "Senator Katie, we want to come with you more than anything—we just told Uncle Richard and Aunt Marge we would talk to them first before we signed anything."
+
+As Sam told us laughing the next morning, when the three of them walked into the kitchen in Danville that evening and said, *"Uncle Richard, Katie offered us jobs in Washington,"* their sixty-six-year-old uncle set his teacup down on the counter and looked at all three of them.
+
+*"All three of you?"* Richard asked.
+
+*"All three,"* Sam told him, listing their three distinct positions and salaries in Dirksen Room 511.
+
+*"Well, of course she does,"* Richard said warmly. *"What did you tell her?"*
+
+Mandy blinked. *"We said we needed to talk to you and Aunt Marge first."*
+
+Richard stared at his twenty-four-year-old nephew and nieces for three full seconds.
+
+*"You're twenty-four years old,"* the former House Majority Leader said softly. *"Go call your senator."*
+
+Forty-eight hours later, when a political reporter at the Richmond newspaper cross-referenced Senator-Elect Prairie's initial federal transition payroll filings and realized who Sam, Mandy, and Sarah were related to, the headline ricocheted across every newsroom in the Commonwealth: *FORMER VIRGINIA GOP MAJORITY LEADER ENCOURAGES NEPHEW AND NIECES TO JOIN DEMOCRATIC SENATOR'S WASHINGTON STAFF.*
+
+By noon, television cameras were back in Uncle Richard's front yard in Southside Virginia.
+
+"Delegate Richard," a reporter asked, holding a microphone over the porch railing, "does it bother you that your nephew and nieces will be working in Washington for a Democratic United States Senator?"
+
+"Which Democrat?" Uncle Richard asked dryly.
+
+"Senator-Elect Prairie."
+
+"Katie? Lord, no," Richard chuckled, before his expression grew steady and serious. "I spent twenty-four years in the House of Delegates. I know that a newly elected United States Senator doesn't have unlimited payroll slots to hand out as sentimental favors, I know something about legislative offices, and I know something about Katie Prairie. Eleven years ago, when Sam, Mandy, and Sarah were thirteen years old and had only been living safely with Marge and me for a year, I sent them up to Richmond as House Pages worrying about them every single hour of the day—and Katie Prairie and her brother Nate looked after those kids when nobody asked them to. So when those three came home on Tuesday night and told Marge and me that Katie wanted them on her United States Senate staff, I told them to take the jobs. They're adults. They're not Republicans because I'm a Republican, and they don't owe my political party anything. But if you're asking whether I'm comfortable with Sam, Mandy, and Sarah working for Katie Prairie? I couldn't tell you another Senator in America I'd trust more with those three. If my party thinks three adults taking good jobs working for the Commonwealth is a scandal, my party knows where to find me."
+
+That night—as Aunt Marge told Katie over the phone while laughing so hard she could barely catch her breath—Uncle Richard sat back in his recliner watching the eleven o'clock news replay his interview, rubbed his forehead, and muttered:
+
+*"Twenty-four years as a Republican in the House of Delegates. Republican Majority Leader. And somehow all three of my kids wound up working for the Democratic Senator from Virginia Beach."*
+
+*"You introduced them to Richmond,"* Marge reminded him sweetly from the sofa.
+
+Richard let out a long sigh. *"...I suppose this is my fault."*
+
 ***
 
 #### Wednesday, November 18, 2026, 4:30 PM — Face-to-Face With Vice President Julian Vance in the President's Room
@@ -8047,7 +8115,25 @@ Katie didn't roll past them. She stopped her SwiftChair right in front of the li
 
 "I'm glad you asked, because it sounds like Beacon News, LibertyMax, and the folks at *The 777 Circle* back home on Indian River Road in Virginia Beach still haven't read the document I'm holding in my hand," Katie said clearly into the live network feeds. "Article VI, Clause 3 of the Constitution of the United States says that all Senators shall be bound by Oath or Affirmation to support this Constitution, and that no religious test shall ever be required as a qualification to any office or public trust under the United States. Even the Presidential Oath written by the Founders in Article II, Section 1, Clause 8 says 'swear or affirm' and does not contain the words 'So help me God.' And before anyone on cable television repeats the myth that President George Washington added 'So help me God' in 1789—historians debunked that fable decades ago. Zero eyewitnesses at Federal Hall in 1789 recorded Washington saying it; a writer named Rufus Wilmot Griswold made it up sixty-five years later in an 1854 book, and no President is recorded saying it until Chester A. Arthur in 1881. I affirmed my oath on the Constitution of the United States because the Constitution is the supreme law of the land—and my brother, my dad, and I are going to spend every single day of this term defending it."
 
-With the cable correspondents left speechless behind us on the Capitol plaza, Katie turned her SwiftChair toward the sidewalk curb cut, gave my hand a warm squeeze between our chairs, and rolled side by side with Dad and me toward the Capital Transit elevator—proving to the entire country what the two of us had known since the day we were born: twin brothers and twin sisters never leave each other behind.
+With the cable correspondents left speechless behind us on the Capitol plaza, Katie turned her SwiftChair toward the sidewalk curb cut, gave my hand a warm squeeze between our chairs, and rolled side by side with Dad and me toward the Dirksen Senate Office Building for our swearing-in open house in Room 511—where three newly badged twenty-four-year-old Senate staffers and two very proud guests from Southside Virginia were already waiting for us inside the front reception doors.
+
+Standing beside the three adjacent workstations in the front suite of Dirksen Room 511 were Sam, Mandy, and Sarah, wearing their crisp new blue-lanyard United States Senate staff identification badges over their suits: Sam as Legislative Correspondent for Transportation, Infrastructure, and Accessibility Policy; Mandy as Constituent Services Representative; and Sarah as Staff Assistant and Digital Accessibility Correspondent. And standing right behind them in his Sunday suit with his arm around Aunt Marge's shoulders was retired Republican House Majority Leader Uncle Richard, who had ridden the morning train up to Washington with Marge to watch their kids start their congressional careers.
+
+As Katie rolled her SwiftChair across the threshold and handed Sam, Mandy, and Sarah their official gold-embossed Senate onboarding folders, I watched Uncle Richard's eyes move slowly from the bronze *MS. PRAIRIE — VIRGINIA* nameplate outside the door to the three beaming twenty-four-year-old adults standing together behind their desks.
+
+You could see all eleven years written across the old Republican floor leader's face in a single glance: the memory of February 2016, when he had nervously entrusted three recently rescued, terrified thirteen-year-old autistic House Pages to the Virginia General Assembly, and the thirty-year-old Delegate in a wheelchair who had parked her chair around them in a noisy corridor and made Richmond safe enough for them to grow up whole.
+
+Now Katie was a United States Senator, and those three frightened thirteen-year-old Pages were professional congressional staffers on the fifth floor of the Dirksen Building.
+
+Uncle Richard didn't make a grand floor speech. He just looked down at Katie in her SwiftChair, his voice catching slightly in his throat.
+
+"All three?" Richard asked softly.
+
+Katie looked up at him, mildly offended.
+
+"Richard," my sister said. "Of course all three."
+
+For two full seconds, the former Republican Majority Leader of the Virginia House of Delegates couldn't say a word. He just took off his glasses, wiped the corner of his eye with his thumb while Aunt Marge hugged Katie's shoulders, and rested a steady, grateful hand on the back of Sam's chair—proving to everyone in that room what Katie and I had known since the day we were born: nobody in our family ever gets left behind.
 
 ### Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive
 
@@ -8195,9 +8281,9 @@ Inside the warm cocoon of our shared sleeping bag in the dark closet, United Sta
 
 ![Inside Room 511 of the Dirksen Senate Office Building on the late afternoon of January 14, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs behind her mahogany desk holding hands tightly across their armrests as they listen with somber empathy and fierce resolve to the glowing speakerphone.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_dirksen_room_511_natalie_mother_phone_call_katie_nate.jpg)
 
-"Line Four in the front reception room has been blinking on hold for forty-five seconds while Sam, Mandy, and Sarah are all tied up on Lines One, Two, and Three helping constituents untangle federal transit and veterans' casework calls," Katie said at quarter past four on Thursday afternoon—just eleven days after she had placed her left palm on the Constitution of the United States in the Old Senate Chamber—glancing up from the appropriations briefing binder on her mahogany desk in Room 511 of the Dirksen Senate Office Building.
+"Line Four in the front reception room has been blinking on hold for forty-five seconds while Mandy is on Line One walking a Norfolk shipyard veteran through a Privacy Act casework release and Sarah is tied up on Lines Two and Three triaging constituent calls while Sam is downstairs in Dirksen 124 dropping off our rural transit memo with the Appropriations clerk," Katie said at quarter past four on Thursday afternoon—just eleven days after she had placed her left palm on the Constitution of the United States in the Old Senate Chamber—glancing up from the appropriations briefing binder on her mahogany desk in Room 511 of the Dirksen Senate Office Building.
 
-When Katie had been sworn into the United States Senate on January 3rd, the very first hiring paperwork she had signed was to bring twenty-four-year-old Sam, Mandy, and Sarah right up to Washington with us on the ARTS train and Capital Transit from her Virginia State Senate office as her full-time U.S. Senate Legislative and Constituent Transit Assistants. Out in the front reception room of Suite 511, Katie had the Senate cabinetmakers arrange a custom three-desk cluster where all three triplets sat shoulder-to-shoulder so they never had to be separated, commuting in together every morning on Capital Transit with their CapitalPass cards and mentoring the sixteen- and seventeen-year-old high-school juniors serving as United States Senate Pages down on the Senate floor with the exact same color-coded sticky notes and calm, literal instructions that had made Katie and me their safe harbor in Richmond when they were thirteen-year-old eighth-grade House Pages eleven years earlier.
+When Katie had built her Class II Senate office from scratch after the November election, the very first three federal staff appointments she had made—with Uncle Richard's and Aunt Marge's enthusiastic blessing—were twenty-four-year-old Sam, Mandy, and Sarah. All three triplets were based together here in Dirksen Room 511 with their workstations arranged near one another, commuting in together every morning on Capital Transit with their CapitalPass cards and eating lunch together whenever they wanted without any supervisor ever arbitrarily separating them, while each thrived in their own distinct professional role: Sam as Legislative Correspondent for Transportation, Infrastructure, Disability Policy, and Rural Development; Mandy as Constituent Services Representative running Katie's predictable six-step federal casework checklist; and Sarah as Staff Assistant and Digital Accessibility Correspondent. And whenever any of them walked over to the Capitol for floor votes, they mentored the sixteen- and seventeen-year-old high-school juniors serving as United States Senate Pages with the exact same color-coded sticky notes and calm, literal instructions that had made Katie and me their safe harbor in Richmond when they were thirteen-year-old eighth-grade House Pages in 2016.
 
 Sitting in my compact black SwiftChair right beside my twin sister's left armrest with my MagnaBook Pro open in front of me, I watched Katie reach over and press the flashing amber rollover button on her multi-line desk console. Ever since her first week on the Virginia Beach City Council seventeen years earlier, Katie had kept the same rule: if a constituent phone line rolled over to her desk while she was in the room, she picked up the receiver herself.
 
