@@ -7152,6 +7152,146 @@ Dad smiled proudly, setting his coffee mug down on the counter. "Blinders on, el
 
 "Blinders on, elbows out, Dad," Katie grinned, squeezing my hand across our armrests. "Now let's look at the sixty-day transition calendar between today and January third—because we've got an orientation in Washington next week, a State Board of Elections certification on December seventh, a official Senate website vendor to audit, and a State Senate seat in Richmond I have to formally resign before we can board that five o'clock morning train to Alexandria."
 
+### Part 3: U.S. Senate New Member Orientation, Senator Tess Dunmore's Ramp, & Making the Vice President Swear Her In
+
+**Date:** 2026-11-16 at 08:45 America/New_York
+
+![Arriving on Capitol Hill via the Capitol South Metro elevator in their black motorized SwiftChair power wheelchairs with their father David walking beside them, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll past the chartered VIP motorcoaches toward the Russell and Dirksen Senate Office Buildings for New Member Orientation.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_capitol_south_elevator_plaza_arrival_katie_nate_david.jpg)
+
+#### Monday, November 16, 2026, 8:45 AM — Rolling Past the Chartered VIP Motorcoach & Retiring Senator Martin Warren's Stare
+
+"Hold the charter bus door—is Senator-Elect Prairie on this shuttle from the hotel?" a Senate Sergeant at Arms protocol officer called into his lapel radio outside the bronze doors of the Russell Senate Office Building on Monday morning as two black-and-silver Capitol Police escort vans idled at the curb along Constitution Avenue.
+
+"Right behind you on the sidewalk, actually," Katie called out cheerfully as she and I steered our two compact black SwiftChair power wheelchairs down the concrete curb cut from First Street Southeast with our sixty-eight-year-old dad walking beside us carrying his leather briefcase.
+
+The protocol officer spun around on the granite steps, blinking in disbelief as he looked from the chartered luxury motorcoach—where the other eleven members of the incoming freshman Senate class were stepping down the stairs in tailored overcoats—to the two forty-one-year-old twins who had just rolled up the public sidewalk from the Capitol South station elevator with CapitalPass transit cards tucked into their jacket pockets.
+
+"You... you took the subway to New Member Orientation, Senator-Elect?" the officer stammered.
+
+"The five o'clock morning ARTS train up from Norfolk, the mobile lift off the train at Alexandria so we could drop our suitcases at our dad's house on Sunset Drive, the Capital Transit Yellow Line across the Charles R. Fenwick Bridge to L'Enfant Plaza, and the Blue Line two stops to Capitol South," Katie smiled, holding up her blue plastic fare card before reaching across our armrests to squeeze my hand. "Why sit in downtown traffic on a charter bus when the train drops you off a block from the front door?"
+
+Ten minutes later, when the three of us rolled through the tall double doors of the historic Kennedy Caucus Room on the third floor of the Russell Building—under the crystal chandeliers and towering Corinthian columns where the Senate Democratic Caucus was gathering for its post-election orientation breakfast—the hum of conversation near the coffee urns went noticeably quiet.
+
+Standing near the center aisle with a saucer in his hand was retiring three-term Class II United States Senator Martin Warren of Virginia, flanked by his departing chief of staff, Gregory, and two senior consultants from the Democratic Senatorial Campaign Committee.
+
+Katie hadn't flipped a Republican seat in November; both of Virginia's United States Senate seats were already held by Democrats—Class I Senior Senator Thomas Keane and Class II Senator Martin Warren. Back in the winter, when Senator Warren had announced he was retiring after eighteen years in Washington, he and the big-money K Street establishment had tried to stage a coronation. They had handpicked Preston Holloway—a polished McLean telecom lobbyist and former corporate executive with a Rolodex full of billionaire donors—to take over Warren's Class II seat, pouring fourteen million dollars of Super PAC money into the June 16 Democratic primary while Gregory told the Washington newspapers that two autistic software developers in wheelchairs riding public transit buses were a "cute regional novelty" and a hopeless long shot who wouldn't break twenty percent statewide.
+
+Instead, the voters of Virginia had blown their coronation to smithereens. Riding regular public buses across all ninety-five counties and thirty-eight independent cities without taking a dime of corporate PAC money, Katie had crushed Senator Warren's handpicked corporate stooge by eleven points in the June primary and then defeated Republican nominee Richard Sterling by nine points in the November general election—while across the rest of the map, Democrats had flipped seven Republican seats to capture a fifty-four-to-forty-six Senate majority for the incoming One Hundred Twentieth Congress.
+
+Before Senator Warren or his red-faced chief of staff could decide whether to look at the ceiling or walk over, Virginia's Class I Senior Senator, Thomas Keane, broke away from the front table with a wide, genuine grin and walked straight down the carpet to meet our wheelchairs.
+
+"Make way for my new partner from the Commonwealth of Virginia!" Senator Keane beamed, shaking Katie's hand warmly before shaking mine and Dad's. "Katie, Nate, David—welcome to the United States Senate. Did you see the final certified turnout numbers out of Hampton Roads, the Shenandoah Valley, and Montgomery County? You two put together the biggest grassroots margin in Virginia in twelve years."
+
+A half-beat later, retiring Senator Martin Warren stepped over, clearing his throat as he offered Katie a stiff, polite handshake while Gregory stared fixedly at the carpet behind him.
+
+"Congratulations on a well-run campaign, Katie," Senator Warren said, trying to sound magnanimous. "My staff and I have prepared a transition binder of our donor and stakeholder contacts so your office can maintain continuity—"
+
+"Thank you, Senator Warren, that won't be necessary," Katie said politely, her blue eyes calm and crystal clear as she looked up from her SwiftChair. "The transit riders, shipyard welders, teachers, and disabled Virginians who nominated me in June and elected me in November already gave my brother and me all the stakeholder contacts we need. Enjoy your retirement."
+
+Beside me, Dad had to disguise a grin behind a cough as Gregory's ears turned crimson and Senator Warren nodded stiffly before retreating toward the buffet table.
+
+***
+
+#### Monday, November 16, 2026, 11:15 AM — Senator Tess Dunmore of Illinois & Why the Senate Ramp Is Already Waiting
+
+At quarter past eleven, while the lame-duck One Hundred Nineteenth Senate stood in morning recess, the Deputy Sergeant at Arms and two preservation architects from the Office of the Architect of the Capitol met Katie and me outside the double doors of the United States Senate Chamber on the second floor of the Capitol.
+
+Out of pure habit from fifteen years in Virginia politics, both Katie and I had arrived ready for an architectural battle. In 2010, after Katie won her seat on the Virginia Beach City Council, we had had to fight city facilities managers to modify the Municipal Center dais. In January 2014, when Katie arrived in the Virginia House of Delegates, I had sat beside her with a twenty-five-foot steel tape measure forcing Capitol Facilities to fix non-compliant fifty-one-inch restroom stalls. And in December 2019, when she was elected to the Senate of Virginia, the master woodworkers in Richmond had had to build the chamber's very first custom-milled mahogany wheelchair ramp from scratch because no wheelchair user had ever served in the upper house of the General Assembly.
+
+As the brass-handled doors of the United States Senate Chamber swung open onto the blue carpet, however, a familiar voice called out from the center aisle:
+
+"Put the steel tape measure away, Nate—you two don't have to fight the building engineers from scratch this time!"
+
+Rolling briskly up the blue carpet toward us in a sleek, ultralight black titanium wheelchair was forty-eight-year-old Senator Teresa "Tess" Dunmore of Illinois—the decorated former Army helicopter pilot who had lost both of her legs when her aircraft was hit by a rocket-propelled grenade in Iraq in 2004, and who had served in the United States Senate since January of 2017.
+
+Katie's face lit up in an instant as Senator Dunmore braked her titanium chair right in front of our two motorized SwiftChairs and reached out both hands to clasp Katie's and mine.
+
+"Senator Dunmore," Katie said warmly.
+
+"It's Tess—we're colleagues now, Katie," Senator Dunmore grinned, looking back and forth between our two compact power wheelchairs with fierce camaraderie. "Do you have any idea how long I've been waiting for another woman on wheels to back me up in this chamber? For the last ten years I've been a one-woman wheelchair caucus on our side of the aisle. Now we've got a fleet!"
+
+For a full two seconds, neither Katie nor I spoke. Looking down the semicircular tiers of the one hundred historic mahogany Senate desks toward the marble rostrum at the front of the chamber, I realized that for the very first time in my sister's public life, she wasn't the first wheelchair user in the room.
+
+"Come on down the aisle—let me show you what we already built, and what the cabinetmakers are customizing for you and Nate before January third," Tess said, wheeling alongside us down the Democratic side of the chamber.
+
+At the base of the front tiers, Tess pointed to the permanent, flush-mounted carpeted wheelchair ramp leading smoothly down into the well of the Senate, and then to the custom platform lift and ramp integrated into the white marble steps of the Presiding Officer's rostrum.
+
+"When I got sworn in back in 2017—following in the tire tracks of veterans like Dan Inouye, Bob Dole, and Max Cleland—we made sure the well of the Senate and the Presiding Officer's rostrum were permanently accessible under the Congressional Accountability Act," Tess explained. "What the Senate cabinetmakers had to figure out this week is the difference between my manual titanium chair and your two motorized SwiftChairs."
+
+She led us to the back-row aisle desk on the outer curve of the Democratic side, where two master Senate carpenters were kneeling with brass calipers and blocks of seasoned Honduras mahogany.
+
+"Because the hundred desks on the Senate floor date back to 1819 and have bolted-down swivel chairs," I noted, leaning over my left armrest to inspect the joinery, "they unbolted the fixed chair pedestal—just like your desk three aisles over, Senator—and milled one-and-a-half-inch solid mahogany riser blocks under the bottom of the desk legs so the upright joystick controller on Katie's right armrest glides all the way under the writing surface without bumping the drawer apron."
+
+"You nailed it on the first look, Nate," the lead carpenter smiled, standing up as Katie nudged her right thumb forward on her joystick and rolled her SwiftChair effortlessly beneath the historic mahogany desktop, testing the clearance with an inch and a half to spare. "And right behind Senator Prairie's desk along the back leather staff bench, we've widened the staff bay by thirty-eight inches. Since Mr. Prairie holds permanent Chief Data Strategist floor privileges under your office allotment, his SwiftChair can park right behind the Senator's left shoulder during floor debate without blocking the chamber door. We're making the exact same dual-powerchair modification to the witness and staff bays in Dirksen Room 124 for the Appropriations Committee."
+
+Then Tess Dunmore gestured toward the high white marble rostrum at the front of the chamber, a wicked gleam in her dark eyes.
+
+"Now come up the rostrum ramp with me for thirty seconds, Katie," Tess said. "There's one more perk of our new fifty-four-seat Democratic majority you need to test-drive before the Vice President shows up this afternoon."
+
+Katie and I followed Tess up the accessible rostrum ramp to the highest tier of the Senate dais, right behind the Presiding Officer's carved marble desk and the heavy ivory gavel block.
+
+"Under Senate custom," Tess said, patting the leather arm of the Presiding Officer's space, "the Vice President of the United States almost never sits in this chair except on Opening Day or when the Senate is tied fifty-fifty. Instead, the freshman Senators of the majority party rotate in one-hour shifts every legislative day to preside over the Senate as Acting President pro tempore. And do you know what every single Senator on the floor—Democrat or Republican—is required by Senate Rule XIX to call you when you are sitting at this desk with that ivory gavel in your hand?"
+
+Katie looked out across the hundred mahogany desks below us, a slow, electric smile spreading across her face.
+
+"Madam President," Katie said softly.
+
+"Madam President," Tess laughed aloud. "Every single Republican who cheered when Garrett Thorne stood on the South Lawn calling you 'Broken Katie Prairie' and 'a bitter little cripple on wheels' is going to have to stand at attention at their desk, look up at your SwiftChair at this rostrum, and say, *'Madam President, will the Chair recognize the Senator?'* before they're even allowed to speak!"
+
+***
+
+#### Tuesday, November 17, 2026, 2:00 PM — The Dirksen Room 511 Suite Lottery & Committee Assignments
+
+On Tuesday afternoon, the Office of the Senate Sergeant at Arms convened the Freshman Office Suite Lottery in the Capitol Visitor Center congressional meeting rooms.
+
+Under the rules of the United States Senate, newly elected Senators taking office on the same day are ranked in freshman seniority by prior federal service, prior service as a state governor, and then by the population of their state in the decennial census paired with prior state legislative service. With Virginia's population of nearly nine million people and Katie's twelve combined years in the Virginia House of Delegates and the Senate of Virginia, Katie drew the second pick in the entire twelve-member freshman class.
+
+While the other incoming Senators fought over the high-ceilinged, chandeliered corner suites in the 1909 Russell Senate Office Building, Katie and I didn't even look at the Russell list. We had already audited the Sergeant at Arms CAD floor plans on my MagnaBook Pro the night before.
+
+"Russell was built in 1909 with heavy brass-sill double doors, narrow interior staff hallways, and long detours to the accessible elevators," I said, pointing to our annotated blueprint as the Superintendent of the Senate Office Buildings leaned over our table. "Look at the fifth floor of the Dirksen Senate Office Building—specifically Suite 511."
+
+"Dirksen Room 511 has forty-eight-inch interior doorways, flush marble-to-carpet thresholds, a wide reception corridor where two SwiftChairs can roll side by side in lockstep without turning sideways, and a private Senator's office large enough to place two custom-height mahogany desks side by side so Nate's workstation sits two feet from my left armrest," Katie told the Superintendent. "Plus, the elevator bank right outside Room 511 drops straight down to the first-floor Appropriations Subcommittee hearing rooms in Dirksen 124 and 138 and the subterranean subway to the Capitol. We'll take Dirksen Room 511."
+
+An hour later, when the Democratic Steering and Outreach Committee met with Katie and Senior Senator Thomas Keane to finalize committee slates for the One Hundred Twentieth Congress, the leadership didn't repeat Senator Martin Warren's mistake of underestimating her. With Naval Station Norfolk, Newport News Shipbuilding, and the Port of Virginia anchoring her home base—and Appropriations Chairman Arthur Harrington personally requesting her on his committee—Katie walked out of the Steering meeting with three powerhouse assignments: the Senate Committee on Appropriations (including seats on the Labor, Health and Human Services, Education, and Related Agencies Subcommittee and the Transportation, Housing and Urban Development Subcommittee), the Senate Committee on Banking, Housing, and Urban Affairs (which held one hundred percent Senate jurisdiction over the Federal Transit Administration and every public transit system in America), and the Senate Committee on Commerce, Science, and Transportation.
+
+***
+
+#### Wednesday, November 18, 2026, 4:30 PM — Face-to-Face With Vice President Julian Vance in the President's Room
+
+The final event of New Member Orientation took place at four-thirty on Wednesday afternoon inside Room S-216 of the United States Capitol—the ornate, frescoed President's Room just off the Senate lobby—where Vice President Julian Vance, in his constitutional capacity as President of the Senate, was hosting the traditional ceremonial welcome reception for the Senators-Elect and their families.
+
+To say that Katie hated Vice President Julian Vance—and his boss in the Oval Office, President Garrett Thorne—would have been an understatement.
+
+For the past nine months, ever since it became clear that Katie was going to win the Virginia Senate seat, President Thorne had used every rally stage and South Lawn helicopter gaggle to mock my twin sister's disability—calling her *"Broken Katie Prairie,"* mimicking the way her hands rested on her wheelchair joystick, and jeering that *"a forty-one-year-old spinster on wheels who still lives with her crippled twin brother and rides city buses has no stamina for the United States Senate."* And Vice President Julian Vance had been even slimier: going on *Patriot Watch* on the Liberty First Network five nights a week to sneer with smug, sanctimonious condescension that because Katie and I were unmarried, childless, secular twins who relied on each other instead of a "traditional nuclear marriage," we had *"no moral or spiritual stake in the future of the American family."*
+
+Now, beneath the gilded Renaissance-revival ceiling frescoes and crystal chandelier of the President's Room, Julian Vance stood in a charcoal suit with a forced, oily television smile plastered across his face, shaking hands with the incoming Senators one by one in front of the official Senate photographer.
+
+When Katie and I rolled our two compact SwiftChairs side by side through the arched doorway with Dad walking right behind us, the chatter in the small room dropped to a hush.
+
+"Well, well—look who made it all the way up from Virginia Beach," Vice President Vance said smoothly, stepping across the patterned tile floor toward Katie's wheelchair with his right hand extended and his left hand reaching out automatically toward the rear push-handle bar behind her headrest to angle her chair toward the camera lens. "President Thorne and I were taking bets on whether you'd actually roll all the way up Interstate 95, Senator-Elect Prairie."
+
+Katie nudged her joystick half an inch in reverse and pivoted twenty degrees to the left—just enough that Julian Vance's left hand closed on empty air six inches from her chair.
+
+"First of all, Mr. Vice President, nobody touches my wheelchair or my brother's wheelchair without our permission," Katie said, her voice calm, crisp, and loud enough that every Senator-Elect in the room heard every syllable. "Second, we didn't drive up Interstate 95—we took the morning train from Norfolk and rode the Capital Transit Yellow Line across the river, which you'd know if anyone in your administration ever set foot on public transportation."
+
+Julian Vance's jaw tightened, a flash of ugly crimson rising above his starched white collar as he pulled his hand back.
+
+"I'm sure you'll find Washington very different from the Virginia Beach bus stops, Senator-Elect," Vance said coldly, trying to recover his smirk in front of the photographer. "Enjoy the reception—I'll see you on January third when I administer the oath. I assume my protocol clerk can put you down for the standard King James Bible?"
+
+Katie didn't flinch. Sitting tall in her royal-blue blazer between Dad and me, she looked straight up into the eyes of the man she despised and smiled—a bright, razor-sharp smile of pure constitutional triumph.
+
+"Actually, Mr. Vice President, my transition counsel filed my formal oath notice with the Secretary of the Senate and your protocol office at nine o'clock this morning," Katie said pleasantly. "Pursuant to Article VI, Clause 3 of the Constitution of the United States and Title 5, Section 3331 of the United States Code, I am not using a Bible, and I am not saying the words 'So help me God.' I am taking the solemn secular affirmation of office—*'Do you solemnly affirm'*—with my left hand resting on a bound copy of the Constitution of the United States of America."
+
+Vance stared down at her, his eyes narrowing. "You know what the networks and the faith community back in Virginia are going to say when they hear you refused to put your hand on a Holy Bible, don't you?"
+
+"Oh, I'm counting on it—in fact, I wear their outrage as a badge of honor," Katie replied without missing a beat. "Every time the televangelists at *The 777 Circle* down on Indian River Road in Virginia Beach tried to attack me in 2014 and 2020 for affirming my oath on the Constitution instead of a Bible, we won re-election by an even bigger margin, because ordinary voters understand that a Senator is elected to defend the Constitution, not run a church. And do you know what the best part of winning this election is, Mr. Vice President?"
+
+Katie leaned an inch forward in her SwiftChair, her voice dropping to a clear, surgical purr that made three neighboring Senators-Elect bite the insides of their cheeks to keep from laughing aloud.
+
+"For the last nine months, your boss has gone on television calling me 'Broken Katie Prairie,' and you've gone on cable news telling the country that my brother and I don't belong in public life," Katie said. "And yet at twelve o'clock noon on Sunday, January third, Article I, Section 3, Clause 4 of the Constitution of the United States gives you zero choice. You have to stand right in front of my wheelchair in the Old Senate Chamber, hold the card with the secular affirmation printed on it, leave 'So help me God' out of your mouth, and personally swear 'Broken Katie Prairie' into the United States Senate while my hand rests on the Constitution. I've had January third circled on my calendar since Election Night, Mr. Vice President. See you at noon."
+
+Unlocking her wheel brakes in tandem with mine, Katie didn't even wait for his reply. We spun our two SwiftChairs one hundred and eighty degrees in unison on the tiled floor of the President's Room and rolled side by side out into the marble Senate corridor with Dad grinning from ear to ear behind us, leaving the Vice President of the United States standing frozen under the chandelier.
+
 ## The Minified ZIP File, The Raw HTML Takedown, & Resigning from Richmond
 
 ### Part 1: The Minified ZIP Trick, Barely Commented Code, & The Live WCAG Takedown
@@ -7318,7 +7458,7 @@ The afternoon December sunlight slanted through the tall arched windows across t
 
 Sitting beside my sister in the quiet chamber, I reached across our armrests and took her left hand.
 
-"Look at that ramp, Katie," I said softly. "First the Virginia Beach City Council chamber at the Municipal Center in 2011. Then the House of Delegates subcommittees in 2014. Then the Senate of Virginia in 2020. And last month the carpenters in Washington finished widening your aisle and building the permanent ramp on the floor of the United States Senate."
+"Look at that ramp, Katie," I said softly. "First the Virginia Beach City Council chamber at the Municipal Center in 2011. Then the House of Delegates subcommittees in 2014. Then the Senate of Virginia in 2020. And last month in Washington, after Senator Tess Dunmore showed us the chamber ramp she fought for back in 2017, the Senate carpenters finished raising your mahogany desk on riser blocks and widening the dual-chair bays so there are two women in wheelchairs on the floor of the United States Senate."
 
 Katie looked at the mahogany ramp in front of her old desk, then turned her head to smile at me.
 
@@ -7475,33 +7615,41 @@ When the studio strobes flashed against the mahogany walls and Katie smiled stra
 
 At two minutes before twelve o'clock noon—after riding the subterranean United States Capitol Subway together beneath Constitution Avenue—Dad and I took our places at the front brass railing of the Senate Family Gallery directly above the floor of the United States Senate Chamber.
 
-Looking down from the gallery bay where my wheelchair brakes were locked beside Dad's polished dress shoes, I could see the entire semicircle of one hundred mahogany desks arranged across the blue carpet below us. On the far aisle of the Democratic side, the Sergeant at Arms carpenters had already modified Senator Katie Prairie's assigned mahogany desk—widening the aisle clearance and removing the fixed chair base so her compact SwiftChair rolled seamlessly beneath the desktop.
+Looking down from the gallery bay where my wheelchair brakes were locked beside Dad's polished dress shoes, I could see the entire semicircle of one hundred mahogany desks arranged across the blue carpet below us. On the far aisle of the Democratic side—three aisles over from Senator Tess Dunmore of Illinois in her ultralight titanium chair—the Sergeant at Arms carpenters had already modified Senator Katie Prairie's assigned mahogany desk, removing the fixed chair base and setting one-and-a-half-inch mahogany riser blocks beneath the legs so her compact SwiftChair and right-hand joystick controller rolled seamlessly beneath the desktop.
 
-At precisely 12:00 PM, the heavy ivory gavel came down on the marble rostrum, calling the One Hundred Twentieth Congress of the United States to order.
+At precisely 12:00 PM, Vice President Julian Vance—serving in his constitutional capacity under Article I, Section 3, Clause 4 as President of the Senate—brought the heavy ivory gavel down on the marble rostrum, calling the One Hundred Twentieth Congress of the United States to order.
 
-As the Reading Clerk began calling the Newly Elected Senators forward to the well in alphabetical groups of four—*"Ms. Prairie of Virginia..."*—Dad reached over and gripped my shoulder with a steady, calloused hand.
+As the Reading Clerk began calling the Newly Elected Senators forward to the well in alphabetical groups of four—*"Ms. Prairie of Virginia..."*—and Senior Senator Thomas Keane stepped into the aisle to escort his new Virginia partner forward while Senator Tess Dunmore tapped her wheel rim in salute, Dad reached over and gripped my shoulder with a steady, calloused hand.
 
 In the span of three heartbeats, forty-one years of our lives flashed behind my eyes: two nine-year-old twins whispering our *Journey to the Sunlit Valley* cartoon password before unlocking the front door after school; two twelve-year-olds wearing matching maroon shirts on Twins' Day when a sixth-grade boy broke my sister's heart; two sixteen-year-olds learning in Dr. Carter's exam room that the borrowed time in our legs was almost gone; two seventeen-year-olds wedging a fifty-pound power wheelchair against the inside of a locked bedroom door on New Year's Eve while we ate dry toasted oat cereal out of a cardboard box to stay safe from a house full of drunks; and two twenty-three-year-olds holding a camcorder on a CVTA Route 15 bus crossing the Elizabeth River as we exposed why working people couldn't even catch a bus home from a six o'clock City Council meeting.
 
-Down on the blue carpet of the Senate Chamber, Katie didn't need stairs. She nudged her right thumb forward on her joystick, rolled her compact SwiftChair smoothly down the newly installed permanent ramp along the chamber aisle into the well of the Senate, and raised her right hand toward the rostrum.
+Down on the blue carpet of the Senate Chamber, Katie didn't need stairs. She nudged her right thumb forward on her joystick, rolled her compact SwiftChair smoothly down the permanent ramp along the chamber aisle into the well of the Senate, looked straight up at Vice President Julian Vance on the rostrum, and raised her right hand.
 
-Fifteen minutes later, as the applause from the galleries echoed through the Capitol corridors, the elevator doors brought Dad and me down to the historic Old Senate Chamber for the individual ceremonial swearing-in with the Vice President of the United States.
+Fifteen minutes later, as the applause from the galleries echoed through the Capitol corridors, the elevator doors brought Dad and me down to the historic Old Senate Chamber for the individual ceremonial swearing-in with Vice President Vance.
 
-Every time Katie had ever taken an oath of office back home in Virginia—first on the Virginia Beach City Council, then in the Virginia House of Delegates, and then in the Senate of Virginia in Richmond—she had famously refused to pretend to believe in a religion or a god that neither she nor I believed in, insisting instead on making a solemn secular affirmation on a bound copy of the Constitution of the Commonwealth of Virginia without saying "So help me God."
+Katie had been looking forward to this exact five-minute appointment for two full months.
 
-To my sister's clear, literal, fiercely principled mind, Article VI, Clause 3 of the United States Constitution explicitly guaranteed that Senators were bound by Oath or Affirmation and prohibited any religious test for public office—meaning her left hand belonged on the exact secular Constitution she was promising to defend, and not a single word of religious theater belonged in her mouth.
+All through the autumn campaign—and even after the networks projected her victory on Election Night—President Garrett Thorne had sneered at her from the South Lawn as *"Broken Katie Prairie"* and *"a bitter little cripple on wheels,"* while Vice President Julian Vance had gone on the Liberty First Network to mock her wheelchair, her unmarried life, and her bond with me. Ten days before Christmas, hoping to whip up a culture-war pressure campaign that would force her to back down, Vance's ceremonial protocol office had leaked to Beacon News, LibertyMax, and Virginia Beach's own evangelical flagship broadcast *The 777 Circle* on the Covenant Broadcasting Network that Senator-Elect Prairie had formally notified the Vice President she would be affirming her oath on the Constitution of the United States instead of a Christian Bible and omitting the words "So help me God."
 
-Now, as Dad and I positioned ourselves right beside her in the center of the crimson-and-gold Old Senate Chamber while the Vice President stepped up with the oath card, I held out the thick, gold-stamped navy leather volume Dad had bought for her at the National Archives gift shop that morning: *The Constitution of the United States of America*.
+Instead of backing down an inch, Katie had worn their evangelical outrage as a badge of honor. Every time Katie had ever taken an oath of office back home in Virginia—first on the Virginia Beach City Council, then in the Virginia House of Delegates, and then in the Senate of Virginia in Richmond—she had refused to pretend to believe in a religion or a god that neither she nor I believed in. To my sister's clear, literal, fiercely principled mind, Article VI, Clause 3 of the United States Constitution explicitly guaranteed that Senators were bound by Oath or Affirmation and prohibited any religious test for public office—meaning her left hand belonged on the exact secular Constitution she was promising to defend, not a single word of religious theater belonged in her mouth, and Vice President Julian Vance had zero constitutional choice but to stand in front of her wheelchair and administer every word of it himself.
 
-Having been notified in advance by our transition counsel under Article VI, Clause 3 of the Constitution, Title 5, Section 3331, and Title 1, Section 1 of the United States Code that Senator Prairie would be taking the secular affirmation of office without the optional religious phrase, the Vice President looked down at the card as Katie placed her left palm squarely on the gold lettering of *We the People* and raised her right hand high.
+Now, as Dad and I positioned ourselves right beside her in the center of the crimson-and-gold Old Senate Chamber while Vice President Vance stepped up stiffly with the printed oath card in his hand, I held out the thick, gold-stamped navy leather volume Dad had bought for her at the National Archives gift shop that morning: *The Constitution of the United States of America*.
 
-*"Do you solemnly affirm that you will support and defend the Constitution of the United States against all enemies, foreign and domestic; that you will bear true faith and allegiance to the same; that you take this obligation freely, without any mental reservation or purpose of evasion; and that you will well and faithfully discharge the duties of the office on which you are about to enter?"* the Vice President asked.
+Looking down from his full height at the forty-one-year-old woman he and President Thorne had mocked as "Broken Katie Prairie"—and who had just helped strip him of his tie-breaking vote in a fifty-four-seat Democratic Senate—Julian Vance's jaw muscle twitched once as Katie placed her left palm squarely on the gold lettering of *We the People*, raised her right hand high, and locked her unblinking blue eyes on his face.
 
-Katie's voice rang out clear, steady, and unshakeable across the historic chamber:
+Reading from the secular affirmation card our transition counsel had required under Article VI, Clause 3 of the Constitution, Title 5, Section 3331, and Title 1, Section 1 of the United States Code—with the optional religious phrase conspicuously absent at the bottom—Vice President Vance had to speak every syllable aloud:
+
+*"Do you solemnly affirm that you will support and defend the Constitution of the United States against all enemies, foreign and domestic; that you will bear true faith and allegiance to the same; that you take this obligation freely, without any mental reservation or purpose of evasion; and that you will well and faithfully discharge the duties of the office on which you are about to enter?"*
+
+Katie's voice rang out clear, steady, and unshakeable across the historic chamber, never breaking eye contact with the Vice President:
 
 *"I do solemnly affirm."*
 
-As the shutters of the Senate photographers clicked in a rapid burst of white light and the Vice President shook her hand—"Congratulations, Senator Prairie"—Katie turned her head toward me first.
+As the shutters of the Senate photographers clicked in a rapid burst of white light and Vice President Vance forced a tight, wooden handshake—"Congratulations, Senator Prairie"—Katie gave him a cool, victorious smile:
+
+"Thank you, Mr. President of the Senate. Keep that gavel warm—Senator Dunmore already showed me the ramp up to your rostrum."
+
+Before Vance's face could finish turning purple, Katie turned her head toward me first.
 
 Right there on the floor of the Old Senate Chamber, with the Constitution of the United States resting between our two compact power wheelchairs and our father's hands resting proudly on both of our shoulders, United States Senator Katie Prairie slipped her left hand across our armrests and laced her fingers tightly through mine.
 
