@@ -1289,7 +1289,7 @@ Two hours later at Fourth-Block lunch, however, when Katie rolled up to the corn
 
 ![Sixteen-year-old fraternal twins Katie and Nathaniel Prairie rolling side by side in their compact power wheelchairs holding inner hands out of the open brushed-brass doors of the freestanding early-1980s glass elevator onto the second-floor terracotta-tile landing of Emerald Creek Mall in October 2001, greeted warmly by Heather Collins with the two-story entrance to Wellington's Department Store visible across the main concourse behind the elevator]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_emerald_creek_mall_elevator_heather_greeting.jpg)
 
-Twenty minutes earlier, Dad had walked with us out to the corner of Military Highway and Indian River Road, pressed a twenty-dollar bill into each of our hands, and waved from the sidewalk as Katie and I rode the Elevate-U hydraulic stairwell wheelchair lift aboard the 12:25 PM Saturday southbound CVTA Route 15 (Bus #914). Right on schedule at 12:45 PM, the high-floor Beacon V bus had dropped us off at the bus stop on the mall's outer ring road, straight across the parking lot from the first-floor exterior entrance of Wellington's, the two-story anchor department store at the end of the wing. Rolling side by side from the ring road through the ground-floor cosmetics and apparel aisles of Wellington's into the first-floor main concourse, Katie and I had stepped right into the glass-backed scenic elevator directly in front of the department store's mall entrance and ridden it up to the second floor.
+Twenty minutes earlier, Dad had walked with us out to the corner of Military Highway and Indian River Road, pressed a twenty-dollar bill into each of our hands, and waved from the sidewalk as Katie and I rode the Elevate-U hydraulic stairwell wheelchair lift aboard the 12:25 PM Saturday southbound CVTA Route 15 (Bus #914). Right on schedule at 12:45 PM, the high-floor Beacon V bus had dropped us off at the bus stop on the mall's outer ring road, straight across the parking lot from the first-floor exterior entrance of Wellington's, the two-story anchor department store at the end of the wing. Rolling side by side from the ring road through the ground-floor cosmetics and apparel aisles of Wellington's into the first-floor main concourse, Katie and I had rolled right into the glass-backed scenic elevator directly in front of the department store's mall entrance and ridden it up to the second floor.
 
 Before I could even click my joystick speed dial down to one on the upper landing, Heather stepped straight up to my compact SwiftChair power wheelchair, leaned down without a trace of hesitation, and wrapped her arms around my shoulders in a warm hello hug that sent my heart soaring into the skylights.
 
@@ -1609,7 +1609,7 @@ Down at the very back of the first-floor hallway—directly opposite Apartment A
 
 "Alright, you two, I've got to get across the river to work before traffic backs up on Interstate 264," Dad said, picking up his tool bag and kissing the top of Katie's head before squeezing my shoulder. "Remember, keep the front lobby door latched behind you whenever you go out to catch the Route 2 bus on Hampton Boulevard, and call me tonight after you test out the microwave."
 
-"Thank you for the cart, Dad—and for giving us our own place," I said, rolling beside Katie to walk him to the door.
+"Thank you for the cart, Dad—and for giving us our own place," I said, rolling beside Katie to see him to the door.
 
 "You two earned it," Dad said warmly. "Have a great morning."
 
@@ -1815,7 +1815,7 @@ When I glanced at my watch at four-fifteen, I saw that the afternoon sky outside
 
 "We should probably head up to Monticello and Charlotte so we catch the four-thirty Route 2 bus back to West Ghent before the sky opens up," Katie said, tucking her empty cocoa cup into the trash bin beside the café exit.
 
-"Which way is your stop?" Tiffany asked as the four of us stepped out through the mall's sliding glass doors onto the downtown sidewalk.
+"Which way is your stop?" Tiffany asked as the four of us headed out through the mall's sliding glass doors onto the downtown sidewalk.
 
 "Just one block north up Monticello Avenue," I said.
 
@@ -3839,27 +3839,27 @@ The new administrator stared from Tina's unblinking glasses to Katie's and my tw
 
 "I told you to leave her alone!" I shouted across the ninety-two-degree water of the indoor therapeutic pool at Roosevelt Rehabilitation Center, projecting my voice intentionally loud so the recreation staffer sitting behind the office glass would hear me.
 
-Across the chest-deep water from where our two joystick-outfitted wheelchairs sat parked by the stainless-steel ladder, Chris—an aggressive student from the IT class cohort who had been pestering Katie since Monday morning and refused to accept that my twin sister had zero interest in dating him—smirked and wading-stepped closer.
+Across the warm water from where our two joystick-outfitted wheelchairs sat parked at the top of the sloped therapeutic pool entry ramp, Chris—an aggressive student from the IT class cohort who had been pestering Katie since Monday morning and refused to accept that my twin sister had zero interest in dating him—smirked and wading-stepped closer.
 
-"Come on, Nate, let's swim up to the shallow end," Katie said tightly, turning in the warm water to get away from him.
+"Come on, Nate, let's swim up to the shallow ramp," Katie said tightly, turning in the warm water to get away from him.
 
-We pushed off toward the shallow end together, and Chris plowed straight through the water right behind us. Before I could pivot between them, he lunged forward and slammed both hands down into the water right in front of Katie's face—striking her hard across the bridge of her nose and cheek while his flailing fingers caught and tore the front piece of her two-piece swimsuit top.
+We pushed off through the buoyant water toward the shallow ramp together, and Chris plowed straight through the water right behind us. Before I could pivot between them, he lunged forward and slammed both hands down into the water right in front of Katie's face—striking her hard across the bridge of her nose and cheek while his flailing fingers caught and tore the front piece of her two-piece swimsuit top.
 
 Katie gasped, clutched onto my left forearm with one hand while clapping her other hand over her face, and burst into sobs.
 
 My heart dropped into my stomach. Katie never cried over splashes or arguments; if Katie was crying, she was hurt.
 
-Wrapping my arm around her waist to take her weight off her weak legs in the water, I guided her immediately to the stainless-steel pool ladder and helped her climb out onto the wet tile deck beside our parked wheelchairs. When I gently eased her hand back half an inch to check her face, I saw two things at the exact same second: bright red blood was pouring steadily from my twin sister's nose, and the front piece of her swimsuit top had been ripped away in the water, leaving her chest bare while both of her hands had to stay pressed tightly over her bleeding nose.
+Wrapping my arm around her waist in the buoyant water, I guided her immediately up the submerged shallow ramp to our parked wheelchairs at the edge of the wet tile deck and helped her transfer into her seat while I pulled myself into mine right beside her. When I gently eased her hand back half an inch to check her face, I saw two things at the exact same second: bright red blood was pouring steadily from my twin sister's nose, and the front piece of her swimsuit top had been ripped away in the water, leaving her chest bare while both of her hands had to stay pressed tightly over her bleeding nose.
 
 "Get me Student Health and Campus Security!" I roared at the top of my lungs across the natatorium. "My sister's nose is bleeding!"
 
-Since Katie was in no condition to speak with both of her hands occupied holding her bleeding nose, I stepped right in front of her and used my own hands to cover up my sister's bare breasts to shield her modesty on the open pool deck while we waited for someone to bring a towel.
+Since Katie was in no condition to speak with both of her hands occupied holding her bleeding nose, I angled my wheelchair right in front of hers and leaned forward to use my own hands to cover up my sister's bare breasts and shield her modesty on the open pool deck while we waited for someone to bring a towel.
 
 Instead of grabbing a towel from the rack by the wall, the poolside staffer walked over with a clipboard in his hand and frowned at me.
 
 "You know I'm going to have to report you for inappropriate contact," the staffer said, staring straight at my hands covering my sister's chest while blood dripped between her fingers onto the wet tile.
 
-"Either report me or get a towel to cover my sister's dignity!" I retorted angrily, not giving a damn what he thought while my sister stood bleeding and exposed in front of the pool.
+"Either report me or get a towel to cover my sister's dignity!" I retorted angrily, not giving a damn what he thought while my sister sat bleeding and exposed in front of the pool.
 
 Staring at the blood running down Katie's wrists and her torn swimsuit top floating by the gutter, it finally dawned on the staffer why my hands were covering her chest. He hurried over to the rack and brought back a thick white bath towel just as the Recreational Therapy supervisor rushed out with a walkie-talkie crackling that both Student Health and RRC Campus Police were on the way.
 
@@ -4255,7 +4255,7 @@ Stepping back with his hands on his hips, Dad looked from the freshly made navy-
 
 A slow, knowing grin spread across Dad's face, and Katie and I started laughing right along with him.
 
-"Now, that queen bed looks mighty sharp sitting there in the middle of the room," Dad chuckled, shaking his head affectionately as he looked down at the two of us, "even if all three of us standing in this room know perfectly well that you two are probably going to sleep in that closet every single night."
+"Now, that queen bed looks mighty sharp sitting there in the middle of the room," Dad chuckled, shaking his head affectionately as he looked down at the two of us, "even if all three of us in this room know perfectly well that you two are probably going to sleep in that closet every single night."
 
 "Hey, the queen bed is great for reading code books in the afternoon and folding laundry," Katie giggled, her cheeks warming as she squeezed my hand, "and the closet doesn't have any windows or hallway noise."
 
@@ -4321,7 +4321,7 @@ At nine o'clock sharp, right as we slid our two SwiftChairs side by side underne
 
 "Look at the two of you sitting in a real office without a single yellow Level 2 badge in sight!" Tina typed into the group chat window, waving quietly at her webcam before her instructor walked past the front whiteboard. "Mr. Alderman just handed out the Module Four exercise sheet on relational foreign keys and PHP session arrays. Check your shared folder—I just uploaded the prompt!"
 
-For the next few days, while morning sunlight slanted through the front blinds onto our keyboards, Katie and I worked on a couple of the copied PHP and SQL exercises unofficially from home while chatting with Tina, Sheila, and Jim. We didn't care one bit that walking out of Roosevelt Rehabilitation Center after twelve days meant we were technically RRC dropouts who had never officially completed the program; both of us already held an Advanced Studies Diploma from Virginia Beach City Public Schools at Northwood High School and an accredited Associate of Applied Science degree from the Community College of Hampton Roads, and we had realized during our first week in Fishersville that an RRC piece of paper meant nothing in the real world compared to our associate degrees and actual working code.
+For the next few days, while morning sunlight slanted through the front blinds onto our keyboards, Katie and I worked on a couple of the copied PHP and SQL exercises unofficially from home while chatting with Tina, Sheila, and Jim. We didn't care one bit that rolling out of Roosevelt Rehabilitation Center after twelve days meant we were technically RRC dropouts who had never officially completed the program; both of us already held an Advanced Studies Diploma from Virginia Beach City Public Schools at Northwood High School and an accredited Associate of Applied Science degree from the Community College of Hampton Roads, and we had realized during our first week in Fishersville that an RRC piece of paper meant nothing in the real world compared to our associate degrees and actual working code.
 
 Even better, it didn't take long working on those copied RRC modules unofficially from home before Katie and I looked at each other across our desks and decided to stop following RRC's rigid classroom exercises altogether and start doing our own thing—staying friends with Tina, Sheila, and Jim on instant messenger while we focused one hundred percent on rebuilding our transit blog, Ideas for Coastal Virginia Transit, from the ground up into a custom database-driven PHP web application where every route timetable, transfer window, and municipal service comparison across all six Hampton Roads cities could be queried dynamically.
 
@@ -4495,7 +4495,7 @@ Once the operator lowered the ramp at the corner of Princess Anne Road and Edwin
 
 #### 11:40 AM — Yearly Memberships, The Concrete Spiral Ramp, & Two Locker Room Doors
 
-Rolling through the front entrance doors into the first-floor lobby felt like stepping straight back into our Kempsville childhood.
+Rolling through the front entrance doors into the first-floor lobby felt like traveling straight back into our Kempsville childhood.
 
 Right ahead of us on the left stood the wood-laminate front counter, and across the speckled terrazzo floor on the right—wrapping straight around behind the brick elevator enclosure with its key-locked call button—rose the rec center's unmistakable 1977 architectural centerpiece: a massive, unpainted gray concrete ramp with metal pipe railings that climbed from the first floor up to the second and third floors. Because the building had opened in 1977—thirteen years before the Americans with Disabilities Act was ever signed into law—that concrete ramp was nowhere near ADA compliant.
 
@@ -4967,7 +4967,7 @@ As we rolled out of the bank lobby onto the sidewalk ten minutes later, Katie lo
 
 #### 2:30 PM — Form DS-11, Two-by-Two Photos, & Raising Our Right Hands at the Post Office
 
-That afternoon, back at our dual-desk office on Arvin Road, Katie and I downloaded two copies of U.S. Department of State Form DS-11—the official Application for a U.S. Passport for first-time adult applicants—and filled out every box in black ink, carefully leaving the signature line at the bottom blank just as the instructions required until we were standing in front of an authorized Acceptance Agent.
+That afternoon, back at our dual-desk office on Arvin Road, Katie and I downloaded two copies of U.S. Department of State Form DS-11—the official Application for a U.S. Passport for first-time adult applicants—and filled out every box in black ink, carefully leaving the signature line at the bottom blank just as the instructions required until we were right in front of an authorized Acceptance Agent.
 
 From the fireproof steel document box Dad kept in the hall linen closet, we pulled out our original certified Commonwealth of Virginia birth certificates with the raised embossed seals from the Division of Vital Records in Richmond, tucked them into a rigid manila folder alongside our horizontal Virginia State ID cards and our checkbook, and rode the bus over to the U.S. Post Office passport window.
 
@@ -5037,7 +5037,7 @@ At eleven o'clock on the telephone, we were two twenty-two-year-old software dev
 
 It was our sixth traditional job interview across Virginia Beach and Norfolk since returning from our birthday week in Alexandria and finishing the final PHP and SQL modules with Tina, Sheila, and Jim in May.
 
-We had done everything the traditional employment playbook told young adults to do. We had filled out the multi-page paper and online applications. We had brought our framed Associate of Applied Science degrees from the Community College of Hampton Roads—never once regretting that we had walked out of Roosevelt Rehabilitation Center after twelve days without an RRC certificate, because we knew an RRC piece of paper meant nothing in the real world next to an accredited college degree and live production code.
+We had done everything the traditional employment playbook told young adults to do. We had filled out the multi-page paper and online applications. We had brought our framed Associate of Applied Science degrees from the Community College of Hampton Roads—never once regretting that we had rolled out of Roosevelt Rehabilitation Center after twelve days without an RRC certificate, because we knew an RRC piece of paper meant nothing in the real world next to an accredited college degree and live production code.
 
 And in all six interviews, the exact same script had played out almost word for word.
 
@@ -5257,7 +5257,7 @@ Scott stared at the two printed timetables in disbelief, looking up into my came
 
 "Every single Tuesday night," I said from behind the camera. "You cannot tell citizens that local government is open to the public when City Hall's own bus schedule locks bus riders and wheelchair users out thirty minutes before the meeting begins."
 
-Twenty minutes later, when we stepped off Route 15 at Indian River Road and boarded our fourth and final bus—eastbound Route 12 back to CCHR to complete our circle—the final piece of CVTA's broken math played out right on cue.
+Twenty minutes later, when we rolled down the front ramp off Route 15 at Indian River Road and boarded our fourth and final bus—eastbound Route 12 back to CCHR to complete our circle—the final piece of CVTA's broken math played out right on cue.
 
 Katie and I rolled up the ramp and swiped our thirty-day passes. Behind us, Scott handed his paper transfer slip to the Route 12 operator.
 
@@ -5894,7 +5894,7 @@ I rolled up beside her left armrest while Dad carried our bedding bags into the 
 
 "And arriving five days early gives us all of Saturday and Sunday to learn the bus routes, test every transfer stop, and get our routine locked down before Monday morning's New Member Orientation even starts," Katie said, letting out a quiet, contented breath as her shoulders relaxed.
 
-Because both of us were autistic, walking cold into an unfamiliar city and a brand-new legislative building on the same morning would have been a recipe for sensory overload. Coming up to Richmond five days ahead of Wednesday's Opening Day gavel wasn't a vacation; it was how Katie and I mapped our perimeter so that by the time the session bell rang, every doorway, curb cut, bus stop, and timetable between our bed and the House Floor felt completely predictable.
+Because both of us were autistic, rolling cold into an unfamiliar city and a brand-new legislative building on the same morning would have been a recipe for sensory overload. Coming up to Richmond five days ahead of Wednesday's Opening Day gavel wasn't a vacation; it was how Katie and I mapped our perimeter so that by the time the session bell rang, every doorway, curb cut, bus stop, and timetable between our bed and the House Floor felt completely predictable.
 
 We rolled into the bedroom to help Dad finish unpacking.
 
@@ -5938,7 +5938,7 @@ After the operator clicked the four-point retractable floor straps onto our whee
 
 "Where are you two headed this cold Saturday morning?" the operator asked as he pulled the forty-foot bus back into the eastbound lane of West Broad Street.
 
-"Ninth and Broad first so we can walk over to the JRTC customer service window and buy our thirty-day unlimited magnetic swipe passes for the winter," Katie replied, holding my hand across the center aisle between our two wheelchair bays. "We're staying right back there at Broad and Boulevard through the middle of March."
+"Ninth and Broad first so we can roll over to the JRTC customer service window and buy our thirty-day unlimited magnetic swipe passes for the winter," Katie replied, holding my hand across the center aisle between our two wheelchair bays. "We're staying right back there at Broad and Boulevard through the middle of March."
 
 "Well, you picked the best bus line in the city of Richmond to live on," the driver said with a proud grin in his wide rearview mirror. "Between the 6, the 1, the 2, and the 3, you won't ever wait more than ten minutes on Broad Street from six in the morning till midnight."
 
@@ -6110,7 +6110,7 @@ When the head carpenter asked Katie and me to test the finished stalls at four-f
 
 On Wednesday morning, January 8, 2014, when the blue-and-white JRTC Route 6 bus kneeled at the curb of Ninth and Broad at ten-thirty ahead of the noon Opening Day swearing-in ceremony—with Dad waiting proudly for us on the brick sidewalk outside the Capitol gate in his best navy suit—none of the veteran politicians or lobbyists by the entrance looked surprised anymore when the front wheelchair ramp folded down.
 
-Inside the House of Delegates Chamber at twelve o'clock noon, while Dad and I stood beside Katie's modified desk on the first-floor chamber carpet, the Clerk of the House called the freshman class forward to take the constitutional oath of office under Article II, Section 7 of the Constitution of Virginia.
+Inside the House of Delegates Chamber at twelve o'clock noon, while Dad stood beside my SwiftChair next to Katie's modified desk on the first-floor chamber carpet, the Clerk of the House called the freshman class forward to take the constitutional oath of office under Article II, Section 7 of the Constitution of Virginia.
 
 Just as she had done when she was sworn onto the Virginia Beach City Council three years earlier, Katie didn't reach for a Bible, and she didn't pretend to believe in a religion or a god that neither of us believed in. Instead, exercising her explicit constitutional right under Article VI, Clause 3 of the United States Constitution, Article II, Section 7 of the Constitution of Virginia, and Section 49-9 of the Code of Virginia to affirm rather than swear—and to omit the optional parenthetical religious phrase at the end—Katie placed her left palm squarely on the gold-stamped cover of the Virginia Constitution resting across my lap tray between our two wheelchairs, raised her right hand toward the Speaker's rostrum, and spoke her constitutional affirmation as the sole elected Delegate for the Eighty-Fifth District in a clear, ringing voice:
 
@@ -6280,7 +6280,7 @@ Katie and I looked up from our desks and broke into wide grins at the exact same
 
 Rolling through the doorway in a folded-frame, blue-upholstered manual wheelchair was our twenty-eight-year-old childhood friend and [former across-the-hall neighbor Michael Ragsdale](https://books.raggiesoft.com/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-1-apartment-a6-on-greenway-court-dad-s-microwave-cart-across-the-hall-neighbors), with his twenty-six-year-old sister Rachel walking right beside him in her glasses and royal-blue Virginia Dominion University jacket, keeping one hand resting lightly on his left rear push-handle and her other hand laced tightly through his fingers. Both of them had blue *RIDE TRANSIT VIRGINIA* stickers pressed over their hearts and carried folders of Coastal Virginia Transit Authority route maps.
 
-"Michael! Rachel!" Katie beamed, releasing her wheel brakes and rolling her SwiftChair out from behind her mahogany desk as I wheeled right up beside her so the four of us could exchange warm hugs across our armrests. "What are you two doing up in Richmond? And Michael, what happened to your ankles?"
+"Michael! Rachel!" Katie beamed, nudging her joystick and rolling her SwiftChair out from behind her mahogany desk as I wheeled right up beside her so the four of us could exchange warm hugs across our armrests. "What are you two doing up in Richmond? And Michael, what happened to your ankles?"
 
 "Elective bilateral Achilles heel cord lengthening two weeks ago," Michael smiled, patting the frame of his blue manual wheelchair while never letting go of Rachel's hand. "My heel cords have been too tight to pivot safely between driving pedals my whole life, and Rachel stubbornly refused to get her Learner's Permit until we could walk into the DMV and get our permits together once my surgeon clears me. I can stand and walk short flat distances, but for a full day of marble Capitol hallways, my orthopedic specialist ordered me to use the manual chair and let my Bug guard the push-handles."
 
@@ -6300,7 +6300,7 @@ Katie clapped both hands over her mouth as she and I burst out laughing together
 
 "Sadly, no," Michael sighed, shaking his head with mock disappointment. "Neither of them crossed our path all afternoon, so I never got the chance—Wait until he sees how fast that video is spreading across VDU right now, though. By Monday morning, neither of those guys is going to want to show his face near a microphone."
 
-After spending twenty wonderful minutes catching up on CVTA bus routes, our old first-floor hallway at 801 Greenway Court, and their computer information systems classes at VDU, we walked Michael and Rachel out to the fifth-floor elevators so they could catch their late-afternoon transit coalition bus back down Interstate 64 to Hampton Roads.
+After spending twenty wonderful minutes catching up on CVTA bus routes, our old first-floor hallway at 801 Greenway Court, and their computer information systems classes at VDU, we rolled alongside Michael and Rachel out to the fifth-floor elevators so they could catch their late-afternoon transit coalition bus back down Interstate 64 to Hampton Roads.
 
 Right as the elevator doors opened for Michael and Rachel at two-forty, an entire New River Valley transit delegation wearing blue *RIDE TRANSIT VIRGINIA* stickers rolled off the elevator and into Room 518—three closely knit families from Christiansburg and Commonwealth Polytechnic Institute in Blacksburg who rode Blue Ridge Transit Route 1 and Route 2 and the Radford Connector around town, and who had been sitting in the third-floor House gallery right beside Michael and Rachel when Katie questioned Delegate Cobb on House Bill 663.
 
@@ -6580,7 +6580,7 @@ Twenty minutes later, the bus glided to a smooth stop back under the cast-iron s
 
 Katie and I rolled down the front ramp onto the brick sidewalk with them so we could see the triplets safely back to Capitol Square before catching the next westbound bus back up Broad Street to our apartment.
 
-Standing together under the warm glow of the Ninth Street lamp, I unzipped the side pocket of my laptop bag and pulled out three crisp, folded paper copies of the official JRTC System Map along with three printed Route 6 and Route 24 pocket timetable booklets.
+Gathered together under the warm glow of the Ninth Street lamp, I unzipped the side pocket of my laptop bag and pulled out three crisp, folded paper copies of the official JRTC System Map along with three printed Route 6 and Route 24 pocket timetable booklets.
 
 "Since you three officially passed your first JRTC field test tonight," Katie said, smiling warmly at Sam, Mandy, and Sarah as I handed one system map and one timetable booklet to each of the triplets, "Nate and I have a weekend homework assignment for the three of you before we meet in my office on Monday afternoon."
 
@@ -6810,7 +6810,7 @@ Behind us, one of the mothers from Kempsville—whose twenty-nine-year-old nonve
 
 Katie didn't yell or pound the witness table. She turned her SwiftChair around, rolled back to the visitor rows with me right beside her, and spent ten minutes holding the hands of every parent and bus rider who had traveled up from Hampton Roads, promising them on her word of honor that she wasn't done fighting for them.
 
-Twenty minutes later, after we had walked the families down to the Ninth and Main bus stop to catch their ride to Main Street Station, Katie and I rolled back into the center of the historic Capitol Rotunda on the second floor.
+Twenty minutes later, after we had accompanied the families down to the Ninth and Main bus stop to catch their ride to Main Street Station, Katie and I rolled back into the center of the historic Capitol Rotunda on the second floor.
 
 In the quiet marble rotunda directly beneath Thomas Jefferson's dome, the tall mahogany entrance doors of the House of Delegates Chamber stood to our south, while the mahogany doors of the Senate of Virginia Chamber stood directly opposite to our north.
 
@@ -6868,7 +6868,7 @@ Dad pulled his familiar yellow legal pad and black pen across the kitchen table�
 
 #### Spring 2019 — Senator Ward Ducks the Race & Collecting 824 Signatures Along Route 20 and Route 25
 
-In late February 2019, twenty-four hours after the forty-five-day winter legislative session adjourned in Richmond, Katie stood at the CCHR Virginia Beach Campus bus transfer loop flanked by me, Dad, and forty daily bus commuters and disability advocates to formally announce her candidacy for the Seventh Senate District of Virginia.
+In late February 2019, twenty-four hours after the forty-five-day winter legislative session adjourned in Richmond, Katie sat in her SwiftChair at the CCHR Virginia Beach Campus bus transfer loop flanked by me, Dad, and forty daily bus commuters and disability advocates to formally announce her candidacy for the Seventh Senate District of Virginia.
 
 Three weeks later, after seeing our first internal poll and watching volunteers line up four-deep around our wheelchairs at the Pembroke Commons, Glenrock Mall, and CCHR bus stops to sign Katie's nominating petitions, twenty-year incumbent State Senator Franklin Ward stunned the Capitol press corps by announcing his sudden retirement rather than face Delegate Katie Prairie on the November ballot.
 
@@ -6962,7 +6962,7 @@ Katie braked her SwiftChair on the black-and-white marble tiles beneath Thomas J
 
 The Covenant Broadcasting Network reporter opened his mouth to interrupt—"But George Washington himself added 'So help me God' in 1789—"
 
-"No, he didn't—and historians debunked that myth decades ago," Katie cut in smoothly, her literal, encyclopedic memory firing on all cylinders as the cameras rolled live. "Even the Presidential Oath written by the Founders in Article II, Section 1, Clause 8 of the United States Constitution does not contain the words 'So help me God.' Not a single eyewitness, diary, newspaper, or foreign diplomat standing at Federal Hall in New York on April 30, 1789 recorded George Washington adding 'So help me God' to his oath. That story was invented out of thin air sixty-five years later in an 1854 book written by Rufus Wilmot Griswold, who wasn't even born when Washington was alive, and the first President confirmed by contemporary historical records to have said those words was Chester A. Arthur in 1881. And look at whose marble statue we are standing under right now: Thomas Jefferson, who wrote the Virginia Statute for Religious Freedom right here in Richmond declaring that our civil rights have no dependence on our religious opinions."
+"No, he didn't—and historians debunked that myth decades ago," Katie cut in smoothly, her literal, encyclopedic memory firing on all cylinders as the cameras rolled live. "Even the Presidential Oath written by the Founders in Article II, Section 1, Clause 8 of the United States Constitution does not contain the words 'So help me God.' Not a single eyewitness, diary, newspaper, or foreign diplomat standing at Federal Hall in New York on April 30, 1789 recorded George Washington adding 'So help me God' to his oath. That story was invented out of thin air sixty-five years later in an 1854 book written by Rufus Wilmot Griswold, who wasn't even born when Washington was alive, and the first President confirmed by contemporary historical records to have said those words was Chester A. Arthur in 1881. And look at whose marble statue we are gathered under right now: Thomas Jefferson, who wrote the Virginia Statute for Religious Freedom right here in Richmond declaring that our civil rights have no dependence on our religious opinions."
 
 Behind the marble columns, the two opposition senators suddenly found something very interesting to look at on their shoes as Katie lowered the Constitution back onto my lap tray and added one final, unbothered smile for the cameras:
 
@@ -7254,7 +7254,7 @@ While the other incoming Senators fought over the high-ceilinged, chandeliered c
 
 "Dirksen Room 511 has forty-eight-inch interior doorways, flush marble-to-carpet thresholds, a wide reception corridor where two SwiftChairs can roll side by side in lockstep without turning sideways, and a private Senator's office large enough to place two custom-height mahogany desks side by side so Nate's workstation sits two feet from my left armrest," Katie told the Superintendent. "Plus, the elevator bank right outside Room 511 drops straight down to the first-floor Appropriations Subcommittee hearing rooms in Dirksen 124 and 138 and the subterranean subway to the Capitol. We'll take Dirksen Room 511."
 
-An hour later, when the Democratic Steering and Outreach Committee met with Katie and Senior Senator Thomas Keane to finalize committee slates for the One Hundred Twentieth Congress, the leadership didn't repeat Senator Martin Warren's mistake of underestimating her. With Naval Station Norfolk, Newport News Shipbuilding, and the Port of Virginia anchoring her home base—and Appropriations Chairman Arthur Harrington personally requesting her on his committee—Katie walked out of the Steering meeting with three powerhouse assignments: the Senate Committee on Appropriations (including seats on the Labor, Health and Human Services, Education, and Related Agencies Subcommittee and the Transportation, Housing and Urban Development Subcommittee), the Senate Committee on Banking, Housing, and Urban Affairs (which held one hundred percent Senate jurisdiction over the Federal Transit Administration and every public transit system in America), and the Senate Committee on Commerce, Science, and Transportation.
+An hour later, when the Democratic Steering and Outreach Committee met with Katie and Senior Senator Thomas Keane to finalize committee slates for the One Hundred Twentieth Congress, the leadership didn't repeat Senator Martin Warren's mistake of underestimating her. With Naval Station Norfolk, Newport News Shipbuilding, and the Port of Virginia anchoring her home base—and Appropriations Chairman Arthur Harrington personally requesting her on his committee—Katie rolled out of the Steering meeting with three powerhouse assignments: the Senate Committee on Appropriations (including seats on the Labor, Health and Human Services, Education, and Related Agencies Subcommittee and the Transportation, Housing and Urban Development Subcommittee), the Senate Committee on Banking, Housing, and Urban Affairs (which held one hundred percent Senate jurisdiction over the Federal Transit Administration and every public transit system in America), and the Senate Committee on Commerce, Science, and Transportation.
 
 ***
 
@@ -7300,7 +7300,7 @@ Katie leaned an inch forward in her SwiftChair, her voice dropping to a clear, s
 
 "For the last nine months, your boss has gone on television calling me 'Broken Katie Prairie,' and you've gone on cable news telling the country that my brother and I don't belong in public life," Katie said. "And yet at twelve o'clock noon on Sunday, January third, Article I, Section 3, Clause 4 of the Constitution of the United States gives you zero choice. You have to stand right in front of my wheelchair in the Old Senate Chamber, hold the card with the secular affirmation printed on it, leave 'So help me God' out of your mouth, and personally swear 'Broken Katie Prairie' into the United States Senate while my hand rests on the Constitution. I've had January third circled on my calendar since Election Night, Mr. Vice President. See you at noon."
 
-Unlocking her wheel brakes in tandem with mine, Katie didn't even wait for his reply. We spun our two SwiftChairs one hundred and eighty degrees in unison on the tiled floor of the President's Room and rolled side by side out into the marble Senate corridor with Dad grinning from ear to ear behind us, leaving the Vice President of the United States standing frozen under the chandelier.
+Nudging her joystick in tandem with mine, Katie didn't even wait for his reply. We spun our two SwiftChairs one hundred and eighty degrees in unison on the tiled floor of the President's Room and rolled side by side out into the marble Senate corridor with Dad grinning from ear to ear behind us, leaving the Vice President of the United States standing frozen under the chandelier.
 
 ## The Minified ZIP File, The Raw HTML Takedown, & Resigning from Richmond
 
@@ -7412,7 +7412,7 @@ Katie pressed Command and F5 to silence MagnaVoice and looked straight across th
 
 "S-Senator-Elect..." Trevor whispered over the speakerphone, sounding completely shell-shocked. "How on earth do you and your brother know how to audit raw unminified HTML, CSS specificity, DOM accessibility trees, and WCAG pointers like senior software engineers?"
 
-"Because my brother Nate and I learned how to write raw HTML in seventh grade at Morrison Middle School back in 1997—which is what inspired our dad to go back to school at the Community College of Hampton Roads to earn his computer science degree," Katie said, her voice ringing with every year of our lives. "We learned Quantum Basic 6.0 alongside our dad in 2001, we walked into the Web Applications Developer lab at Roosevelt Rehabilitation Center in Fishersville in March 2007 after refusing to let their evaluators steer two associate-degree holders into being ValueMart door greeters, we copied the entire PHP and SQL curriculum onto our own laptops when VITA's state computers were too locked down to run modern code, and we have spent the last nineteen years building and maintaining production websites and desktop applications from these two wheelchairs! Did your company actually sign a federal VPAT certifying to the Senate Sergeant at Arms that this uncommented, inaccessible garbage complies with Section 508 of the Rehabilitation Act, or did you just assume a Senator in a wheelchair wouldn't know how to read your source code?"
+"Because my brother Nate and I learned how to write raw HTML in seventh grade at Morrison Middle School back in 1997—which is what inspired our dad to go back to school at the Community College of Hampton Roads to earn his computer science degree," Katie said, her voice ringing with every year of our lives. "We learned Quantum Basic 6.0 alongside our dad in 2001, we rolled into the Web Applications Developer lab at Roosevelt Rehabilitation Center in Fishersville in March 2007 after refusing to let their evaluators steer two associate-degree holders into being ValueMart door greeters, we copied the entire PHP and SQL curriculum onto our own laptops when VITA's state computers were too locked down to run modern code, and we have spent the last nineteen years building and maintaining production websites and desktop applications from these two wheelchairs! Did your company actually sign a federal VPAT certifying to the Senate Sergeant at Arms that this uncommented, inaccessible garbage complies with Section 508 of the Rehabilitation Act, or did you just assume a Senator in a wheelchair wouldn't know how to read your source code?"
 
 Bradford swallowed hard, wiping his forehead with a linen handkerchief. "Senator-Elect, I... we will assign a remediation sprint immediately—"
 
@@ -7583,7 +7583,7 @@ She glanced at the caller ID—*Office of the Senate Sergeant at Arms*—and tap
 
 "Senator-Elect Prairie?" the protocol liaison's voice came through the speaker, breathless and slightly panicked. "Ma'am, I'm standing here with the Capitol Police detail and the press pool at Gate D inside Washington Union Station! The five o'clock ARTS train from Norfolk just pulled onto the track two minutes ago, and the conductor told us you got off the train back in Virginia! Are you alright? Do we need to send a car down the George Washington Parkway to pick you up?"
 
-"Put your SUVs back in the garage, Marcus—we're completely fine," Katie said, her voice calm and ringing with good humor as our Yellow Line train glided off the north end of the Charles R. Fenwick Bridge and dove into the tunnel beneath Seventh Street toward L'Enfant Plaza. "Washington Union Station is way too loud and crowded for my brother and me, and the ARTS train takes twenty-five minutes just to crawl from Alexandria into the terminal. We got off on the mobile lift at Alexandria, walked over to King Street–Old Town, and rode the Yellow Line across the Charles R. Fenwick Bridge. We're pulling into the lower level at L'Enfant Plaza right now to catch the Blue Line two stops to Capitol South—we'll see you at the First Street entrance in ten minutes!"
+"Put your SUVs back in the garage, Marcus—we're completely fine," Katie said, her voice calm and ringing with good humor as our Yellow Line train glided off the north end of the Charles R. Fenwick Bridge and dove into the tunnel beneath Seventh Street toward L'Enfant Plaza. "Washington Union Station is way too loud and crowded for my brother and me, and the ARTS train takes twenty-five minutes just to crawl from Alexandria into the terminal. We got off on the mobile lift at Alexandria, crossed the plaza over to King Street–Old Town, and rode the Yellow Line across the Charles R. Fenwick Bridge. We're pulling into the lower level at L'Enfant Plaza right now to catch the Blue Line two stops to Capitol South—we'll see you at the First Street entrance in ten minutes!"
 
 When she tapped the screen to end the call, our dad chuckled, shaking his head as he braced one hand on the stainless-steel grab pole beside us.
 
@@ -7839,9 +7839,9 @@ Her blue eyes widened, and her left hand immediately reached across the gap betw
 
 "Did she just say *Natalie*?" I whispered, my heart slamming against my ribs as the cold mountain air of Thursday morning, March 15, 2007—and the sight of our sweet classmate sobbing and rocking back and forth on the concrete bench outside the RRC cafeteria—rushed back into the room as sharply as if it had happened yesterday.
 
-"Mrs. Brooks," Katie said into the receiver, her voice dropping an octave as emotion thickened in her throat, "I remember Natalie. I have never forgotten your daughter for a single day in twenty years. How did you know my brother and I were at RRC in March of 2007? We walked out after twelve days—we never graduated, and we've never listed Fishersville on a single biography or resume."
+"Mrs. Brooks," Katie said into the receiver, her voice dropping an octave as emotion thickened in her throat, "I remember Natalie. I have never forgotten your daughter for a single day in twenty years. How did you know my brother and I were at RRC in March of 2007? We rolled out after twelve days—we never graduated, and we've never listed Fishersville on a single biography or resume."
 
-"Natalie told me, Senator," Mrs. Brooks replied softly. "Back in October, when you were running for the United States Senate and your campaign commercials came on our living-room television showing you and your brother rolling side by side in your wheelchairs, Natalie sat bolt upright on the sofa and pointed right at the screen. As you know, Natalie is forty-one years old—the exact same age as the two of you—though because of her developmental disability, she has always had the mind and understanding of a six- or seven-year-old child. When she saw your face on the television, she said to me, *'Mommy, look! That's Katie and her twin brother from the computer class at the dorms! They were only there for about a week, and she had a white bandage on her nose, and she held my hand by the cafeteria when my tummy hurt before they went away!'* When I looked up your old 2007 dates and called one of the other mothers from that semester, I found out that you and your brother had walked out and dropped out of RRC the very same Friday I drove up to Fishersville to bring Natalie home."
+"Natalie told me, Senator," Mrs. Brooks replied softly. "Back in October, when you were running for the United States Senate and your campaign commercials came on our living-room television showing you and your brother rolling side by side in your wheelchairs, Natalie sat bolt upright on the sofa and pointed right at the screen. As you know, Natalie is forty-one years old—the exact same age as the two of you—though because of her developmental disability, she has always had the mind and understanding of a six- or seven-year-old child. When she saw your face on the television, she said to me, *'Mommy, look! That's Katie and her twin brother from the computer class at the dorms! They were only there for about a week, and she had a white bandage on her nose, and she held my hand by the cafeteria when my tummy hurt before they went away!'* When I looked up your old 2007 dates and called one of the other mothers from that semester, I found out that you and your brother had packed up and left RRC the very same Friday I drove up to Fishersville to bring Natalie home."
 
 Katie closed her eyes for a second, a single tear slipping down her cheek as she held my hand.
 
@@ -7997,7 +7997,7 @@ Neither Commissioner Sterling nor Director Cross had worked in Fishersville twen
 
 Why would they? On every campaign biography, on our software company's corporate profile, and in the official *Congressional Directory* of the One Hundred Twentieth Congress, both Katie and I listed the exact same two academic credentials we had actually earned: an Advanced Studies Diploma from Virginia Beach City Public Schools at Northwood High School in June 2003, and an Associate of Applied Science degree from the Community College of Hampton Roads in December 2006.
 
-We never listed Roosevelt Rehabilitation Center on a resume because, technically, Katie and I were RRC dropouts. We had walked out of Barton Hall after twelve days in March 2007 without completing the program, without sitting for an exit interview, and without earning a certificate—and not long after we had returned home to our house on Arvin Road in Virginia Beach and worked on a few of the copied classroom modules unofficially from home, we had decided to stop bothering with RRC's rigid exercises altogether and start doing our own thing.
+We never listed Roosevelt Rehabilitation Center on a resume because, technically, Katie and I were RRC dropouts. We had rolled out of Barton Hall after twelve days in March 2007 without completing the program, without sitting for an exit interview, and without earning a certificate—and not long after we had returned home to our house on Arvin Road in Virginia Beach and worked on a few of the copied classroom modules unofficially from home, we had decided to stop bothering with RRC's rigid exercises altogether and start doing our own thing.
 
 "As you'll see on page four of our briefing packet, Senator," Director Cross said smoothly, tapping a color photograph of the flat-roofed red-brick dormitories along Roosevelt Avenue in Fishersville, "we are asking your office to sponsor an eighteen-point-five-million-dollar Congressionally Directed Spending request in this week's Labor, Health and Human Services, and Education Appropriations Subcommittee markup. The funds will support residential dormitory administration in Barton Hall and Cantor Hall, expand our two-week Vocational Evaluation intake division in the Bates-Harding Building, and fund our administrative compliance office."
 
@@ -8037,7 +8037,7 @@ Then Katie reached across our wheelchair armrests, laced her fingers through min
 
 Every drop of color drained out of Director Cross's face. Commissioner Sterling's jaw literally dropped open.
 
-"My twin brother Nathaniel and I checked into Barton Hall on Sunday, March 4, 2007, and we walked out twelve days later after watching how your center operated," Katie said, her voice steady and cold as steel. "We were never interested in the rehabilitation part of Roosevelt Rehabilitation Center—we only came to Fishersville for the Web Applications Developer class, and we fully intended to treat your center like college: go to class, sleep in the dorm, and be done with it. We were not prepared for the juvenile rules, or the mandatory Vocational Evaluation, or being talked down to like children. In your DARS computer database in Richmond, the junior United States Senator from Virginia and her twin brother are officially coded as Status 28 unsuccessful rehabilitation dropouts—because after we walked out of Barton Hall and spent a few days working on the copied PHP modules from our house in Virginia Beach, we decided to stop wasting our time on your modules and build our own software company instead of becoming a ValueMart door greeter. And right here, across this desk, Nathaniel and I waive our confidentiality."
+"My twin brother Nathaniel and I checked into Barton Hall on Sunday, March 4, 2007, and we rolled out twelve days later after watching how your center operated," Katie said, her voice steady and cold as steel. "We were never interested in the rehabilitation part of Roosevelt Rehabilitation Center—we only came to Fishersville for the Web Applications Developer class, and we fully intended to treat your center like college: go to class, sleep in the dorm, and be done with it. We were not prepared for the juvenile rules, or the mandatory Vocational Evaluation, or being talked down to like children. In your DARS computer database in Richmond, the junior United States Senator from Virginia and her twin brother are officially coded as Status 28 unsuccessful rehabilitation dropouts—because after we rolled out of Barton Hall and spent a few days working on the copied PHP modules from our house in Virginia Beach, we decided to stop wasting our time on your modules and build our own software company instead of becoming a ValueMart door greeter. And right here, across this desk, Nathaniel and I waive our confidentiality."
 
 "S-Senator Prairie," Commissioner Sterling stammered, his hand trembling against his briefing binder, "we had no idea—your official biography only lists the Community College of Hampton Roads—"
 
@@ -8151,7 +8151,7 @@ Katie leaned an inch closer to her microphone, locking her blue eyes on the Comm
 
 "Yes, Senator Prairie," Commissioner Sterling said hoarsely into his microphone. "I have already instructed our General Counsel to assemble the complete unredacted 2007 files. They will be hand-delivered to the Virginia State Police Bureau of Criminal Investigation and the Augusta County Commonwealth's Attorney before five o'clock this Friday."
 
-"Good," Katie said. "Now let's address the falsified administrative coding in your agency's mainframe. When Evelyn Brooks drove to Fishersville on Friday, March 16, 2007 and rescued her traumatized, bleeding daughter from your campus infirmary, Roosevelt Rehabilitation Center didn't log a campus violent felony. Instead, your predecessors coded Natalie Brooks in the DARS mainframe as a voluntary 'homesickness' withdrawal and a Status 28 'Unsuccessful Rehabilitation' dropout—the exact same Status 28 failure code your system placed next to my name and my twin brother's name when we walked out of Barton Hall that very same afternoon."
+"Good," Katie said. "Now let's address the falsified administrative coding in your agency's mainframe. When Evelyn Brooks drove to Fishersville on Friday, March 16, 2007 and rescued her traumatized, bleeding daughter from your campus infirmary, Roosevelt Rehabilitation Center didn't log a campus violent felony. Instead, your predecessors coded Natalie Brooks in the DARS mainframe as a voluntary 'homesickness' withdrawal and a Status 28 'Unsuccessful Rehabilitation' dropout—the exact same Status 28 failure code your system placed next to my name and my twin brother's name when we rolled out of Barton Hall that very same afternoon."
 
 Behind Katie's wheelchair on the dais, I saw two Senate aides along the back wall shake their heads in disbelief at the sheer audacity of a state agency coding a sitting United States Senator—and a sexual assault survivor—as "unsuccessful rehabilitations."
 
@@ -8245,7 +8245,7 @@ Reaching over from her SwiftChair before Sarah could even step toward the consol
 
 "Katie, it's Clara—I love that you still answer your own phone even in the United States Senate," the voice of Speaker of the House Clara Morales came through the line from the other side of the Capitol Rotunda. "The House Judiciary and Armed Services investigative committees have just completed their final subpoena report on Secretary of Defense Bret Halverson, Vice President Julian Vance, and President Thorne. We are voting on the Articles of Impeachment next week."
 
-"Thank you for letting me know directly, Madam Speaker," Katie answered warmly, ending the call and unlocking her wheel brakes as she looked over at her legislative director. "What time is the floor roll call on Thorne's transportation nominee, Sarah?"
+"Thank you for letting me know directly, Madam Speaker," Katie answered warmly, ending the call and nudging her joystick as she looked over at her legislative director. "What time is the floor roll call on Thorne's transportation nominee, Sarah?"
 
 "Eleven-fifteen," Sarah answered, smiling as she held the office door open for our two wheelchairs.
 
