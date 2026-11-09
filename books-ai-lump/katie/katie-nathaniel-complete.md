@@ -4327,7 +4327,7 @@ A slow, knowing grin spread across Dad's face, and Katie and I started laughing 
 
 After a quick eight-thirty run across Indian River Road in Dad's pickup truck to the Market Square supermarket to load the kitchen refrigerator and pantry with two gallons of cold milk, cartons of chocolate milk, two twelve-packs of ginger ale, cereal boxes, bread, sandwich turkey, and frozen dinners, Katie and I rolled out onto the front porch at the top of our aluminum wheelchair ramp at quarter to ten to see Dad off.
 
-"I'll call you both tomorrow evening on my way home from Tysons Corner," Dad said, bending down in the cool March night air to wrap Katie and me in a tight three-way hug at the top of the ramp. "Have fun jumping into Module Four with Tina, Sheila, and Jim in the morning—and enjoy having your house back."
+"I'll call you both tomorrow evening on my way home from Tysons Corner—and I've already cleared Tuesday afternoon on my calendar so I can drive back down and be right there in the exam room with you at Dr. Carter's office when she checks Katie's nose and takes that bandage off," Dad said, bending down in the cool March night air to wrap Katie and me in a tight three-way hug at the top of the ramp. "Have fun jumping into Module Four with Tina, Sheila, and Jim in the morning—and enjoy having your house back."
 
 "Drive safe up I-95, Dad, and call us when you get to Alexandria," Katie told him, hugging his neck before waving from her wheelchair as he climbed into the cab of his pickup truck.
 
@@ -4353,11 +4353,59 @@ We rolled our two SwiftChairs right up to the edge of the open closet doorway, p
 
 Pressing her warm cheek against my bare chest and tangling her legs with mine inside the dark, enclosed space—doing the exact thing that would have gotten us written up and thrown out of Barton Hall—Katie let out a long, trembling breath that finally melted the last knot of Fishersville tension from her shoulders. Holding each other close while the queen bed out in the bedroom sat completely untouched, we drifted straight off to sleep in our own closet, in our own home, where nobody in the world could ever separate us again.
 
-### Part 2: Skin to Skin in the Closet, No Crosswalks at Military and Indian River, & Two Wheelchairs at Market Square
+### Part 2: Dr. Carter's Exam Room, Skin to Skin in the Closet, & No Crosswalks at Military and Indian River
 
-**Date:** 2007-03-21 at 08:30 America/New_York
+**Date:** 2007-03-20 at 14:00 America/New_York
 
-![At the busy multi-lane intersection of Indian River Road and Military Highway in Virginia Beach on Wednesday afternoon, March 21, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the concrete curb cut beside the traffic signal pole where heavy traffic roars across bare asphalt with zero painted crosswalks between the CVTA Route 12 and Route 15 bus stops and the Market Square grocery plaza across the street]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_indian_river_military_hwy_no_crosswalk_grocery_run_katie_nate.jpg)
+![Inside a warm ground-floor examination room at Dr. Evelyn Carter's family medicine practice in Virginia Beach on Tuesday afternoon, March 20, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands tightly across the gap between their chairs with their father David standing supportively right behind them while Dr. Evelyn Carter, seated on a rolling stool in a white lab coat and blue nitrile gloves, gently peels the seven-day white MedStrip and gauze bandage off the healed bridge of Katie's nose]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dr_carter_office_medstrip_removal_annual_physical_katie_nate_david.jpg)
+
+#### Tuesday, March 20, 2007, 2:00 PM — Dr. Evelyn Carter's Exam Room, Peeling Off the Seven-Day Bandage, & Our Annual Physicals With Dad
+
+"You're safe right here with me and Dad, Katie," I whispered at two o'clock on Tuesday afternoon inside Exam Room Two at Dr. Evelyn Carter's family medicine office on Kempsville Road, keeping both of my arms wrapped tightly around my twin sister's shoulders across the gap between our parked SwiftChairs.
+
+With our inner armrests flipped up and out of the way so our wheelchairs could sit flush against each other, Katie buried her cheek against my collarbone and hugged me back with both arms just as tightly. Right behind our chairs, having driven his pickup truck down from Northern Virginia that morning so he wouldn't miss a minute of the appointment, Dad stood with one steady hand resting on my shoulder and the other on Katie's back.
+
+Even in Dr. Carter's familiar ground-floor office—where she had been taking care of the two of us ever since Dad moved us into the brick ranch on Arvin Road back in the autumn of 2001—just sitting under fluorescent clinical lights next to a paper-lined examination table only seven days after the Bates-Harding clinic nurses had taped Katie's split nasal bridge had both of our nervous systems on high alert. Holding onto each other in a full two-arm embrace was the only way to keep the memory of Fishersville out of the room.
+
+A gentle two-beat knock sounded at the wooden door before Dr. Evelyn Carter stepped inside carrying both of our thick manila medical charts and a stainless-steel tray with sterile saline packets and gauze pads. Seeing Katie and me locked in a tight two-arm hug between our wheelchairs with the white gauze-and-paper-tape dressing across the bridge of Katie's nose, Dr. Carter didn't rush us or ask us to pull apart. Instead, she pushed the exam room door firmly shut, set her charts on the counter, and rolled her cushioned stool over in front of us with quiet, unmistakable concern.
+
+"Take all the time you two need," Dr. Carter said softly, looking from Katie and me up to Dad. "David told me on the phone yesterday that he brought you both home from Fishersville for good on Sunday, and that a male client struck Katie in the face in the therapeutic pool last Tuesday. Tell me what happened up there."
+
+Still holding onto each other, Katie and I told Dr. Carter everything while Dad stood right behind us—starting on our very first afternoon when an aide grabbed Katie's manual wheelchair push-handles without asking and tried to steer her down the women's wing like a shopping cart, and going right through the Vocational Evaluator who looked at our accredited computer-science associate degrees from the Community College of Hampton Roads and pitched us a partnership to work as door greeters at the Waynesboro ValueMart. We told her how they kept us stuck on Level 2 in Barton Hall begging for signed yellow paper Hall Passes because moving to Cantor Hall required earning Level 3; how Chris struck Katie in the face and ripped her swimsuit top in the ninety-two-degree pool while a poolside staffer wrote me up on the morning Chickenshit Report for covering my sister's bare chest while she held her bleeding nose with both hands; how a night supervisor unlocked a hallway seasonal storage closet with a master key after the eleven o'clock bed check and accused us of having sex when we were in full street clothes holding each other on bags of curtains; and how the administration scrambled on Thursday to sweep Chris's Wednesday night keycard assault on Natalie under the rug without calling the police just to keep their dorm beds and classroom seats filled.
+
+"We never want to set foot inside Roosevelt Rehabilitation Center ever again, Dr. Carter," Katie said fiercely, lifting her chin from my shoulder as her blue eyes met the doctor's.
+
+"Not for a single day," I added right beside her, my arm still around her waist. "We already have our associate degrees, and we copied the entire PHP and SQL web-development curriculum onto our laptops before we left on Friday. We just want to go home to our house on Arvin Road and live together where no one can ever tell us that we aren't allowed to share a bed or even a closet!"
+
+Dr. Carter's jaw tightened with visible indignation as she uncapped her fountain pen, opened both of our medical charts on her lap, and wrote several firm lines in black ink across the top of each clinical summary sheet.
+
+"Then neither of you will ever set foot in that place again," Dr. Carter said firmly, looking straight at Dad and then back at the two of us. "I am documenting right here in both of your permanent medical files that any institutional program that forcibly separates the two of you, threatens you with isolation contracts for seeking sensory grounding together, or allows staff to grab your wheelchairs without consent is medically contraindicated and actively harmful to your cerebral palsy spasticity and autistic regulation. Your home on Arvin Road is exactly where you belong."
+
+"Thank you, Evelyn," Dad said quietly, his hand squeezing Katie's shoulder.
+
+"Now, Katie," Dr. Carter smiled warmly, snapping on a pair of blue nitrile gloves and opening a warm sterile saline swab, "let's take a look at the bridge of that nose and get those seven-day wound-closure strips off your face so you don't have to look at them in the mirror anymore."
+
+Taking a slow breath together, Katie and I eased out of our tight two-arm hug so Katie could sit upright facing the doctor—and immediately relaxed to holding hands, lacing my right fingers through her left fingers across the gap between our wheelchairs while Dad kept his hand on her shoulder.
+
+![Inside a warm ground-floor examination room at Dr. Evelyn Carter's family medicine practice in Virginia Beach on Tuesday afternoon, March 20, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands tightly across the gap between their chairs with their father David standing supportively right behind them while Dr. Evelyn Carter, seated on a rolling stool in a white lab coat and blue nitrile gloves, gently peels the seven-day white MedStrip and gauze bandage off the healed bridge of Katie's nose]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dr_carter_office_medstrip_removal_annual_physical_katie_nate_david.jpg)
+
+Never letting go of my hand, Katie held completely still as Dr. Carter moistened the paper tape with warm saline, lifted the outer white gauze square away, and then carefully peeled off the three narrow, sterile MedStrip wound-closure strips that the Bates-Harding clinic nurses had taped across the split skin on the bony bridge of her nose the previous Tuesday.
+
+Switching on her penlight, Dr. Carter examined the bridge of Katie's nose closely, gently palpated the nasal bone and cartilage, and checked inside both nostrils.
+
+"That knitted together beautifully, Katie," Dr. Carter said, clicking off her penlight and handing Katie a small hand mirror from the counter. "Keeping those MedStrips dry for the full seven days did the trick. The split skin across the bridge has closed into a clean, flat seam that will fade completely over the next couple of weeks, your septum is straight, and the hairline contusion on the nasal bone is stable and healing right on schedule."
+
+Katie tilted the small mirror toward her eyes, touched the smooth bridge of her nose lightly with her free right fingertips, and beamed at me across our joined hands. "Look, Nate—no more bandage! And right in time for us to go to the Buckner Boulevard DMV on Friday to get our horizontal twenty-one-and-over State ID pictures taken!"
+
+"And speaking of turning twenty-two on April eighth," Dr. Carter said, glancing down at the preventive-care tabs on our two open charts with a warm smile, "you two are less than three weeks away from your annual physical date anyway. Since you're both already sitting right here in my exam room and David is here with you before he drives back up to Alexandria tonight, how would you feel about knocking out both of your annual physicals right now so you don't have to make a second trip next month?"
+
+Katie and I looked at each other across our wheelchairs. As long as nobody asked us to let go of each other's hand, getting our annual checkups done in one sitting meant uninterrupted weeks at home in our new office on Arvin Road.
+
+"Let's do it right now," Katie said, and I nodded right along with her.
+
+For the next twenty-five minutes, with Dad sitting right beside us and our fingers stayed laced together across our wheelchair armrests, Dr. Carter completed both of our annual physicals side by side—checking our blood pressure cuffs on our outer arms, listening to our hearts and lungs with her warmed stethoscope, checking our ears and reflexes, and evaluating our lower-extremity cerebral palsy muscle tone and seated posture in our full-size SwiftChairs. By two-forty-five, she had signed off on a clean bill of health for both of us, and after Dad took us out for an early dinner and gave us one more fierce hug at the top of our aluminum porch ramp on Arvin Road before heading back up Interstate 64 to Alexandria for the rest of the workweek, our house was completely ours again.
+
+***
 
 #### Wednesday, March 21, 2007, 8:30 AM — Waking Up in Our Closet Sanctuary & Morning PHP With Tina, Sheila, and Jim
 
@@ -4367,11 +4415,11 @@ Pressing her warm cheek against my bare chest and tangling her legs with mine in
 
 I kissed the top of her blonde hair in the quiet dark and kept my arms wrapped securely around her waist. Outside in the main bedroom, three feet past the nearly closed closet door, the navy-and-slate-blue comforter on our queen-size bed hadn't been unfolded once since Dad helped us make it on Sunday night.
 
-Neither of us had the slightest interest in sleeping out on that open mattress. Even three days after leaving Fishersville behind, our minds were still raw—still carrying the lingering fear of Chris standing in Katie's doorway with a reassigned dorm keycard after hurting Natalie, the fury of watching the administration escort him into a van without calling the police, and the humiliation of a night-shift staffer yanking the Barton Hall hallway closet door open at eleven o'clock to write us up for holding each other. Waking up undressed together inside our own dark, enclosed closet on Arvin Road—feeling each other's steady breathing skin to skin and knowing we were doing the exact thing that would have gotten us punished and separated at Roosevelt Rehabilitation Center—was the only medicine that kept the nightmares away.
+Neither of us had the slightest interest in sleeping out on that open mattress. Even after telling Dr. Carter everything yesterday afternoon, our minds were still raw—still carrying the lingering fear of Chris standing in Katie's doorway with a reassigned dorm keycard after hurting Natalie, the fury of watching the administration escort him into a van without calling the police, and the humiliation of a night-shift staffer yanking the Barton Hall hallway closet door open at eleven o'clock to write us up for holding each other. Waking up undressed together inside our own dark, enclosed closet on Arvin Road—feeling each other's steady breathing skin to skin and knowing we were doing the exact thing that would have gotten us punished and separated at Roosevelt Rehabilitation Center—was the only medicine that kept the nightmares away.
 
 "Nobody knocking on the door," I whispered against her temple. "Nobody checking Hall Passes."
 
-"Just us," Katie whispered back, hugging my ribs tightly for another full minute before we unzipped the sleeping bag, reached up to pull our folded shirts and jeans off the seats of our parked SwiftChairs just outside the closet doorway, and transferred up into our chairs. Just the evening before—Tuesday, March 20, a full seven days after Chris had struck her in the therapeutic pool—Dr. Evelyn Carter had examined the healed seam across the bridge of Katie's nose and gently peeled off the white tape dressing and the sterile MedStrip wound-closure strips, leaving Katie's face finally free of that constant physical reminder of Fishersville.
+"Just us," Katie whispered back, hugging my ribs tightly for another full minute—her face finally free of the seven-day nasal bandage Dr. Carter had peeled off the afternoon before—until we unzipped the sleeping bag, reached up to pull our folded shirts and jeans off the seats of our parked SwiftChairs just outside the closet doorway, and transferred up into our chairs.
 
 After helping each other shower on the padded transfer bench in the hall bathroom and pouring two bowls of cereal with cold milk in the kitchen, we rolled across the hardwood hallway into my old bedroom—now officially our dual-desk software office.
 
