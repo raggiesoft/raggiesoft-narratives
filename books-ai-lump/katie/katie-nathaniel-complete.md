@@ -3959,8 +3959,6 @@ In the quiet darkness, smelling of cedar and cardboard boxes, we clicked off our
 
 Wrapping both of our arms tightly around each other in the dark, Katie tucked her head beneath my chin with a long, shaky exhale. Confident that nobody would ever find us locked inside a back seasonal closet, we started to drift off to sleep in our street clothes.
 
-Across the courtyard in Barton Hall, however, the eleven-o'clock Level 2 curfew bed check arrived. Because clients who weren't on Level 1 disciplinary restriction didn't have to sign in or out when moving between buildings on campus—only needing a yellow paper Pass on Level 2 (or signing up at the Rec Hall desk for a Center-sponsored trip to places like The Spot or ValueMart) if they were actually leaving the RRC campus—there was no paper trail showing where we had gone after supper. When the dorm aides discovered that neither Nathaniel Prairie on the men's wing nor Katie Prairie in Room 157 on the women's wing was in bed, and verified that neither of us had an off-campus Pass on file, they called over to the Rec Hall as the building was locking up—where the evening staffer remembered seeing the two of us sitting together in our corner booth all night and realized he had never seen our two wheelchairs roll out the front doors at ten-forty-five.
-
 At eleven-twenty-five, just as I was sliding into sleep with my arms around my sister, the sound of footsteps echoed down the darkened Rec Hall hallway outside our closet.
 
 Both of us went completely still in the dark.
