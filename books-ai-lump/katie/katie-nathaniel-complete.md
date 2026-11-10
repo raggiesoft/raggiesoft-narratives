@@ -9147,7 +9147,9 @@ Because federal anti-nepotism law under Title 5, Section 3110 of the United Stat
 
 "He thinks he's Brandon Mercer," I said quietly, turning my laptop screen ten degrees toward Katie's SwiftChair so she could read the bottom wire-transfer totals. "He thinks if he stands over the back of our chairs and screams loud enough about how broken we are, we're going to flinch."
 
-"Brandon found out twenty-one years ago what happens when you try to corner us, and so will Garrett Thorne," Katie said, closing the confirmation binder with a sharp snap.
+"Brandon found out twenty-one years ago what happens when you try to corner us, and so will Garrett Thorne," Katie said, closing the confirmation binder with a sharp snap. "Remember during the 2024 campaign when Thorne started walking out at his rallies and blasting *The Grand Decree* from the 1992 *Runebreaker* soundtrack as his campaign theme song without asking permission—because nobody on his staff bothered to check that it was literally the villain song about a tyrant ruling by executive decree who gets taken down by a pair of fraternal twins?"
+
+I couldn't help grinning at the memory. Within forty-eight hours of Thorne's campaign uploading those rally videos in 2024, every single one of them had been hit with copyright claims by Mana Canvas, who held the original 1992 copyrights, and Engine Room Records, who held the 2016 re-release rights, followed the next morning by a formal cease-and-desist order that forced his campaign to scrub the audio.
 
 Right then, the multi-line console on her desk chirped once on Line One. In ninety-nine out of a hundred suites in the Dirksen Senate Office Building, a United States Senator never touched the main office telephone; a front-office bank of staff assistants and interns screened every incoming call before routing messages to the legislative staff. In Katie's literal autistic mind, however, the rule had never changed since her days as a Virginia Beach City Councilwoman, a Virginia State Delegate, and a Virginia State Senator: this was her office, her name was on the door, and whenever she was sitting at her desk with a free hand, it was only polite to answer the phone herself so the caller knew she was actually there working for the people of Virginia.
 
@@ -9524,6 +9526,8 @@ Before the defense table could even close their briefcases, our Senate Majority 
 "Aye."
 
 The disqualification resolution passed sixty-eight to thirty-two. With that gavel strike, Garrett Thorne, Conrad Drayton, and Bret Halverson were not only stripped of their offices—they were barred for the rest of their natural lives from ever putting their names on a federal ballot or holding any office of honor, trust, or profit under the United States again.
+
+Looking up across the marble columns at Nate in the Family Gallery as he smiled down at me from his SwiftChair, both of us were thinking the exact same thing: if Garrett Thorne had wanted Mana Canvas's *The Grand Decree* as his unauthorized 2024 theme song so badly before Mana Canvas and Engine Room Records hit his campaign with copyright claims and a cease-and-desist order, the Senate had just given him the broken-music-box reprise from the end of the *Runebreaker* soundtrack.
 
 And because we had convicted and removed Vice President Conrad Drayton on Thursday afternoon and left the Vice Presidency vacant, the Presidential Succession Act of 1947—Title 3, Section 19 of the United States Code—took immediate constitutional effect.
 
