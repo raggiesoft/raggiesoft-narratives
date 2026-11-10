@@ -1625,7 +1625,7 @@ I pulled our wooden apartment door open, rolled my SwiftChair out into the quiet
 
 At that exact second, the heavy deadbolt of Apartment A5—directly across the narrow back hallway from our door—let out a loud metallic thunk.
 
-The door to Apartment A5 swung open, and out stepped a slender eighteen-year-old guy with reddish-blond hair, wire-rimmed glasses, and a stiff, slightly uneven gait in his legs, flanked closely by an athletic eighteen-year-old girl with a protective posture and her hand steadying his elbow.
+The door to Apartment A5 swung open, and out stepped an eighteen-year-old guy with side-parted golden-blond hair, glasses, and a stiff, slightly uneven gait in his legs, flanked closely by an eighteen-year-old girl with a shoulder-length blonde bob, a protective posture, and her hand steadying his elbow.
 
 For two full seconds, all four of us froze in the back hallway between Apartment A5 and Apartment A6.
 
@@ -1637,7 +1637,7 @@ Behind his wire-rimmed glasses, Michael's eyes went wide with genuine shock, and
 
 "Nathaniel? Katie?!" Michael said, recognizing us immediately from [three doors down on Delaney Street and our childhood two-week summer camp at Virginia Dominion University](https://books.raggiesoft.com/katie/early-childhood/summer-camp-at-virginia-dominion-university/the-parallel-pair-dominion-mall-the-vdu-fieldhouse)—as well as the hallways of Northwood High School, where all of us had just graduated a month earlier. "You two live in A6?!"
 
-"We just moved in at the start of the month!" Katie beamed, rolling her wheelchair half a foot closer to shake hands with Michael and with Ashley Raybourn, whom we recognized from our graduating class at Northwood High. "Our dad rented A6 for the two of us so we'd have our own place near the Route 2 bus line! Don't tell me you two just moved into A5?!"
+"We just moved in at the start of the month!" Katie beamed, lifting a hand in a friendly wave from her armrest—since neither she nor I ever liked being touched by anyone outside the two of us and our dad—as she smiled at Michael and at Ashley Raybourn, whom we recognized from our graduating class at Northwood High. "Our dad rented A6 for the two of us so we'd have our own place near the Route 2 bus line! Don't tell me you two just moved into A5?!"
 
 "We literally got the keys from Deb last night," Ashley laughed, a huge, relieved smile breaking across her face as she looked from Katie and me to our dad. "[We were just heading outside across the street to the grassy field so we could get three bars of cell service to call Michael's mom before the moving truck gets here at nine](https://books.raggiesoft.com/rachel/michaels-senior-year/the-extraction/the-morning-perimeter)."
 
@@ -1653,7 +1653,7 @@ When we finally waved to Michael and Ashley as they headed off to meet Michael's
 
 "Best across-the-hall neighbors we could ever ask for," I agreed, parking my wheelchair beside hers at our shared computer workstation desk.
 
-### Part 2: Brenda in the Back Alley, Hiding in the Square Closet, & A Happy Year Together
+### Part 2: Brenda in the Back Alley & Discovering the Square Closet Sanctuary
 
 **Date:** 2003-08-09 at 20:45 America/New_York
 
@@ -1707,13 +1707,121 @@ Resting my head against my twin sister's shoulder inside our shared sleeping bag
 
 ![Inside the compact square closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts are cuddled up close together inside their single shared navy-blue sleeping bag on the carpeted closet floor]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg)
 
-From that August night forward, that compact square closet literally became our bedroom. Yes, we still had our full-sized bed out in the main studio apartment, kept neatly made up under its quilt—but it rarely ever got used. For both of us on the autism spectrum, sleeping cuddled up together inside our single shared sleeping bag in the snug, confined space of the closet made us feel completely secure in a way an open room never could—a habit that would stay with the two of us for the rest of our lives.
+From that August night forward, that compact square closet literally became our bedroom. Yes, we still had our full-sized bed out in the main studio apartment, kept neatly made up under its quilt—but it rarely ever got used. For both of us on the autism spectrum, sleeping cuddled up together inside our single shared navy-blue sleeping bag in the snug, confined space of the closet made us feel completely secure in a way an open room never could—a habit that would stay with the two of us for the rest of our lives.
+
+### Part 3: Hurricane Isabel, Two Layers of Sandbags at Greenway Court, & Two Weeks at Dad's House on Arvin Road
+
+**Date:** 2003-09-17 at 15:15 America/New_York
+
+![Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs past the two layers of burlap sandbags stacked at the front lobby entrance as Michael Ragsdale waves goodbye with his backpack on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/sep_2003_hurricane_isabel_greenway_court_sandbags_evacuation_katie_nate_david.jpg)
+
+#### Wednesday, September 17, 2003, 3:15 PM — Unplugging Apartment A6, Seeing Michael Sad Across the Hall, & Two Layers of Sandbags
+
+![Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs past the two layers of burlap sandbags stacked at the front lobby entrance as Michael Ragsdale waves goodbye with his backpack on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/sep_2003_hurricane_isabel_greenway_court_sandbags_evacuation_katie_nate_david.jpg)
+
+"Make sure both twenty-four-volt battery chargers are in the front zipper pocket of the duffel bag, Nate," our forty-five-year-old father said inside Apartment A6 at three-fifteen on Wednesday afternoon, September 17, 2003, lifting our desktop computer tower off the workstation desk and setting it high on the center of our full-sized bed mattress beside our seventeen-inch CRT monitor. "On the radio coming through the tunnel, Coastal Virginia Transit Authority just announced they're suspending all bus service across Norfolk and Virginia Beach tonight ahead of Hurricane Isabel, and the Weather Channel says the storm surge up the Elizabeth River could hit eight feet above normal low tide tomorrow afternoon."
+
+Sitting in her compact black SwiftChair power wheelchair beside the open door of our under-the-counter dorm refrigerator, eighteen-year-old Katie handed me the last carton of milk and the cheese drawer to pack into Dad's blue insulated cooler.
+
+"We unplugged the microwave and the toaster on the rolling cart too, Dad," Katie said, wiping the inside of the dorm fridge dry with a dish towel before propping its door open an inch so it wouldn't mildew if the power went out. "And Nate already rolled up our navy-blue sleeping bag from the square closet floor so we can bring it to Arvin Road."
+
+"Good thinking, sweetheart," Dad smiled, zipping the sleeping bag into a heavy plastic protective bag and resting his hand comfortably on the rear push-handle of Katie's wheelchair to help ease her chair back two feet around the cooler in the narrow kitchenette aisle.
+
+Neither Katie nor I ever liked being touched by anyone we didn't know. With strangers, classmates, or neighbors, even an unexpected pat on the shoulder or someone reaching for our wheelchair push-handles made our skin crawl and set off every alarm bell in our autistic nervous systems. Between the two of us, of course, it was the exact opposite—Katie and I held each other's hands across our armrests whenever we rolled side by side and hugged each other tight inside our shared sleeping bag every night—and both of us were completely comfortable when our dad helped maneuver our wheelchairs over tight thresholds or into the floor tie-downs of his van.
+
+When Dad pulled our solid wooden hallway door open so Katie and I could roll our two SwiftChairs out into the back of the first-floor corridor with our backpacks strapped behind our seats, the heavy brass deadbolt of Apartment A5—directly across the narrow hall from our door—clicked shut at the exact same moment.
+
+Standing in front of Apartment A5 with a canvas backpack slung over his shoulders and his brass key ring in his hand was eighteen-year-old Michael Ragsdale.
+
+Both Katie and I noticed the change in him immediately.
+
+Back in mid-July and August, whenever we had seen Michael in the hallway or out by the grassy field across Greenway Court, Ashley Raybourn had been right beside him—her shoulder pressed against his, steadying his uneven Cerebral Palsy gait and grounding him the exact same way Katie and I grounded each other. At the end of August, however, Ashley had packed her bags and left Norfolk to start her freshman year away at college. Michael's mom had already picked up his one-eyed black Lab rescue Archie earlier that morning to keep the dog safe during the hurricane, leaving Michael all by himself in the empty mirror-image studio across the hall.
+
+Even behind his wire-rimmed glasses, you could see how sad and hollowed-out Michael looked without Ashley there.
+
+Katie reached her right hand across the gap between our wheelchairs and laced her fingers tightly through my left hand. Both my sister and I felt a quiet, genuine ache in our chests for our old Delaney Street and summer-camp neighbor—yet both of us also knew there was nothing we could do to help him. Neither Katie nor I could walk over and give someone a hug without our own sensory wiring locking up, and even if we could have, we knew that nobody in the hallway could replace the safe person he was missing.
+
+"Hey, Nathaniel. Hey, Katie, Mr. Prairie," [Michael said quietly, shifting the strap of his backpack](https://books.raggiesoft.com/rachel/michaels-senior-year/hurricane-isabel-the-three-bus-evacuation/three-buses-to-kemps-river-drive-crown-burger-sharing-cousin-marias-twin-bed). "Are you guys heading out to your dad's house in Virginia Beach before the wind picks up?"
+
+"Just locked up A6 and lifted the computer onto the bed," I told him warmly from my chair while Katie gave him a gentle, sympathetic wave with her free hand. "Dad's taking us over to Arvin Road so we can plug our wheelchair chargers into his generator when the power goes out. Are you getting out of West Ghent before CVTA shuts the buses down tonight?"
+
+"Yeah," Michael nodded, glancing once down the hallway toward the front door. "I'm walking up to Hampton Boulevard right now to catch the Route 2 bus downtown, transferring to the Route 6, and then taking the Route 12 out to Kemps River Drive. My cousin Maria is meeting me there—she's going to take me to Crown Burger to grab food before everything closes, and then I'm staying at her house in the downstairs bedroom until the storm passes."
+
+Just then, heavy footsteps clomped down the interior stairs from the second floor, and the twenty-something guy who lived in Apartment B5—directly upstairs from Michael's apartment—squeezed past us carrying two plastic bags of ice and a cardboard case of beer back up toward the second-floor landing.
+
+"You first-floor folks are evacuating already?" the neighbor from B5 called down cheerfully over the stair railing. "A bunch of us up on the second floor are throwing a hurricane party tonight! We've got candles, flashlights, and three coolers on the landing!"
+
+Dad shook his head with a polite, dry smile as the B5 door slammed upstairs. "A hurricane party two blocks from the Elizabeth River with an eight-foot storm surge in the forecast. Come on—let's get down the ramp while the streets are still dry."
+
+When the four of us reached the front lobby past the bank of metal mailboxes, we saw why our landlords, Dave and Deb, had parked their pickup truck right up against the front curb walk.
+
+Working side by side in canvas work gloves as the first gray outer-band gusts rustled the oak trees across Greenway Court, Dave and Deb were stacking two full layers of heavy burlap sandbags tightly across the entrance to the lobby—forming a solid, double-tiered barrier right in front of the three shallow rubber-coated steps and Dave's nonslip aluminum modular ramp.
+
+"Wait right there a second, David—let me leave the center gap open six more inches until Katie and Nathaniel roll through!" Dave called out, wiping the sweat from his forehead as he and Deb steadied the burlap sacks and Dad placed his hands smoothly on the rear push-handles of my chair and then Katie's to help guide our front caster wheels down the modular ramp and past the two layers of sandbags. "The city says the river tide tomorrow afternoon is going to push higher than the 1933 hurricane. Even if water gets past the front glass door into this lower lobby bay, two layers of sandbags plus the three steps will keep it out of the first-floor hallway and out of A5 and A6!"
+
+"Thank you for sandbagging the doorway, Dave, Deb," Katie said earnestly from her wheelchair as we rolled out onto the concrete front walkway toward Dad's silver wheelchair-accessible minivan.
+
+Out on the sidewalk in front of the circular red-brick planter, Katie and I lifted our hands to wave goodbye to Michael as he turned up Greenway Court toward Hampton Boulevard to catch his first bus.
+
+"Stay safe at your cousin's house, Michael!" Katie called out.
+
+"You two stay safe at your dad's place too!" Michael called back, giving us a small wave before walking up the block beneath the thickening gray sky.
+
+Once Dad deployed the side fold-out aluminum ramp of his minivan, helped guide both of our SwiftChairs into the middle bay, and clicked all eight floor tie-down straps onto our frames, Katie reached across the narrow aisle between our chairs and held my hand the whole drive across the Elizabeth River to 737 Arvin Road.
+
+***
+
+#### Thursday, September 18, 2003 — Riding Out Hurricane Isabel in the Closet on Arvin Road
+
+By two o'clock on Thursday afternoon, September 18, 2003, Hurricane Isabel was battering all of Hampton Roads with howling seventy-mile-per-hour gusts and horizontal sheets of torrential rain.
+
+At ten minutes past two, a transformer two streets over toward Military Highway exploded with a low green flash against the dark afternoon clouds, and the electricity inside Dad's single-story brick ranch at 737 Arvin Road went dead.
+
+Out in the neighborhoods around us, pines and hundred-year-old oak trees were snapping like matchsticks across power lines and blocking arterial roads—forcing Coastal Virginia Transit Authority to keep every single bus parked in the garage for days while chainsaws cleared the streets. Inside 737 Arvin Road, however, Dad had prepared for everything his eighteen-year-old twins needed.
+
+Because neither Katie nor I could walk across a room if our wheelchair batteries died, Dad had set up a heavy-duty gasoline generator under the sheltered back patio awning, chaining it to the brick post and running a thick twelve-gauge orange outdoor extension cord through a weather-stripped board in the utility window. Every evening at eight o'clock, right alongside the kitchen refrigerator plug, Dad plugged both of our twenty-four-volt SwiftChair battery chargers into the generator strip so our powerchairs woke up with five full green bars every morning.
+
+Even so, on Thursday night while the peak of Hurricane Isabel roared across Virginia Beach—shaking the windowpanes, rattling the roof shingles, and sending pine branches thudding across the front yard—the sheer acoustic violence of the wind outside was almost too much for our ears.
+
+At nine-thirty that night, holding a battery-powered lantern in my lap while Katie carried our pillows, the two of us rolled down the hall to our old bedroom at Dad's house. We didn't climb into the twin beds.
+
+Instead, remembering how completely safe we had felt five weeks earlier on August ninth when we hid from Brenda inside the square closet of Apartment A6, Katie and I opened the sliding door of the bedroom closet at 737 Arvin Road. We spread our shared navy-blue sleeping bag flat across the closet carpet, parked our two SwiftChairs side by side right outside the closet frame, transferred down into the sleeping bag together, and pulled the closet door nearly shut.
+
+With the interior walls of the closet muffling the roar of the hurricane winds outside and Katie's arms wrapped tightly around my shoulders while I held her close against my chest, the storm couldn't touch us at all.
+
+***
+
+#### Monday, September 22 – Thursday, October 2, 2003 — The Sandbags Held, An Island in West Ghent, & Two Weeks Without Power From the Midtown Tunnel
+
+Four days after the storm—once city chainsaw crews had finally sawed through the fallen oak trunks along Military Highway and Hampton Boulevard and CVTA had begun slowly restoring bus service across the region—Dad loaded Katie and me into the minivan on Monday afternoon, September 22, and drove us into West Ghent to check on Apartment A6.
+
+When we turned off Hampton Boulevard toward 801 Greenway Court, the neighborhood looked like a war zone of downed tree limbs and tangled wires—and yet, right across the way, the multi-story complex of Tidewater General Hospital, our region's only Level 1 Trauma Center, was lit up brightly with full electrical power.
+
+"Look at Tidewater General," I said, peering out the van window as Dad parked in the decal-controlled lot in front of our building. "The hospital has full power—maybe Greenway Court has power back too!"
+
+The second Dad helped guide our two wheelchairs up the front walkway to the recessed glass entrance door, however, we saw two things at once.
+
+First, a dried brown waterline of Elizabeth River silt and pine needles was caked eighteen inches high across the brick walls and the lower metal mailbox pedestals inside the front entrance lobby. A huge amount of floodwater had pushed through the front glass door during Thursday afternoon's storm surge—and yet right at the base of the three shallow steps, Dave and Deb's two layers of burlap sandbags had held like a fortress wall. When Dad helped ease our wheelchairs past the sandbags onto the first-floor hallway carpet and we unlocked Apartment A6, the hallway and our entire studio apartment were one hundred percent bone-dry.
+
+Second, when I flipped the wall switch inside Apartment A6, nothing happened. The apartment was pitch-black, the digital clock on the stove was blank, and the air inside smelled warm and stagnant.
+
+Out on the front walkway, where Dave was sweeping dried river mud out of the lower lobby while our upstairs neighbor from Apartment B5 leaned over the second-floor iron railing in a t-shirt, we found out why.
+
+"You two picked the right day to go to your dad's house!" the neighbor from B5 called down to our wheelchairs, shaking his head with a rueful laugh. "Remember that hurricane party we threw Thursday afternoon? By four o'clock at high tide, the storm surge came all the way up from the river and covered the street and the parking lot! If you had stayed in the building, you would've been stuck on an island—only reason A5 and A6 didn't flood is because Dave and Deb put down those two layers of sandbags in the lobby!"
+
+"Do the utility crews have any idea when the electricity is coming back on?" Dad asked, looking up from behind our wheelchairs toward the glowing windows of Tidewater General Hospital a few blocks away. "Tidewater General across the way has all its lights on."
+
+"Of course Tidewater General has power—it's the Level 1 Trauma Center, so it's on its own dedicated hospital feed," Dave sighed, leaning on his push broom. "We can't get an official confirmation out of Commonwealth Power, but one of the line foremen out on Hampton Boulevard told us yesterday that this block's power grid is physically tied into the Midtown Tunnel circuit. When forty-four million gallons of river water flooded the Midtown Tunnel on Thursday, it shorted out the whole feeder. They told us it's going to take the engineers a while just to figure out how to cut our grid loose so we're separated from the Midtown Tunnel before they can turn our lights back on."
+
+Whether the line foreman's story about the Midtown Tunnel grid was the official engineering truth or not, the result was undeniable: 801 Greenway Court stayed completely without electricity for two full weeks.
+
+Because Katie and I couldn't live in a dark ground-floor apartment without wall power to charge our twenty-four-volt SwiftChair batteries or run the stove and air conditioner, Dad brought us right back to 737 Arvin Road in Virginia Beach—where Kempsville's power came back on mid-week and where the three of us ate Dad's home-cooked dinners and slept safely in our shared sleeping bag until Commonwealth Power crews finally separated our West Ghent circuit from the tunnel and restored electricity to 801 Greenway Court on the first Thursday of October.
 
 ***
 
 #### Wednesday, November 12, 2003, 5:30 PM — Dad's Microwave Cart, Shared Code, & A Happy Year in Our Studio Sanctuary
 
-By late autumn and winter of our eighteenth year, life inside Apartment A6 on Greenway Court had settled into the happiest, most peaceful routine Katie and I had ever known.
+By November and winter of our eighteenth year—with the hurricane debris cleared from West Ghent and our studio humming with warm electricity again—life inside Apartment A6 on Greenway Court settled into the happiest, most peaceful routine Katie and I had ever known.
 
 Every morning, after waking up well-rested inside our shared sleeping bag on the carpeted floor of our square closet bedroom—while the full-sized bed out in the main studio stayed smooth and untouched—we used the padded transfer bench in our accessible shower, brushed our teeth side by side at the roll-under bathroom sink, and rolled out to our compact kitchenette. While I popped four slices of whole-wheat bread into the toaster on Dad's rolling utility cart and pulled the milk carton and butter out of the under-the-counter dorm fridge, Katie scrambled eggs on the four-burner stove, and we washed our plates and skillet in the sink the minute we finished eating.
 
