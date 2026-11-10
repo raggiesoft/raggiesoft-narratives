@@ -8,7 +8,7 @@ time: "23:00–23:25 EDT"
 location: "Barton Hall & Campus Recreation Hall, Roosevelt Rehabilitation Center, Fishersville, Virginia"
 sender: "RaggieSoft Backstage Production Dossier"
 recipient: "Readers of Katie & Nathaniel (Episode 6, Chapter 2, Part 2)"
-relatedBookUrl: "https://books.raggiesoft.com/katie/roosevelt-rehabilitation-center-march-2007/starting-web-apps-the-pool-the-chickenshit-report/part-2-emergency-in-the-therapeutic-pool-caught-sleeping-together-in-a-closet-calling-the-staffer-s-bluff-the-chickenshit-report"
+relatedBookUrl: "https://books.raggiesoft.com/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report/part-2-emergency-in-the-therapeutic-pool-caught-sleeping-together-in-a-closet-calling-the-staffer-s-bluff-the-chickenshit-report"
 relatedBookLabel: "Episode 6, Chapter 2, Part 2: Caught Sleeping Together in a Closet"
 summary: "Behind-the-scenes breakdown of how Barton Hall staff knew to search the Rec Hall after the 11:00 PM Level 2 bed check—and why locking the normally unlocked door of a notorious student hookup closet is what actually got Nate and Katie caught."
 ---

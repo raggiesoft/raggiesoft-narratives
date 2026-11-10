@@ -8,12 +8,12 @@ time: "14:00–16:30 EST"
 location: "Room 511, Dirksen Senate Office Building & Constitution Avenue NE, Washington, D.C."
 sender: "RaggieSoft Backstage Production Dossier"
 recipient: "Readers of Katie & Nathaniel (Episode 11, Chapter 3, Part 5)"
-relatedBookUrl: "https://books.raggiesoft.com/katie/united-states-senator-katie-prairie-2026-2027/senate-orientation-swearing-in-on-the-constitution-holding-rrc-accountable-2026-2027/part-5-dirksen-room-511-status-28-dropouts-appropriations-strings-attached"
-relatedBookLabel: "Episode 11, Chapter 3, Part 5: Dirksen Room 511 & Status 28 Dropouts"
+relatedBookUrl: "https://books.raggiesoft.com/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-5-34-c-f-r-section-361-38-two-twelve-day-dropouts-in-room-511-strings-attached-at-the-subcommittee-hearing"
+relatedBookLabel: "Episode 11, Chapter 3, Part 5: 34 C.F.R. § 361.38 & Strings Attached"
 summary: "What was going through DARS Commissioner Marcus Sterling's and RRC Director Evelyn Cross's minds inside Dirksen Room 511—and what happened in the hallway and on their three-way conference call with the Governor's Chief of Staff after they stumbled out."
 ---
 
-> **Archival Note:** In [***Katie & Nathaniel — Episode 11, Chapter 3, Part 5***](https://books.raggiesoft.com/katie/united-states-senator-katie-prairie-2026-2027/senate-orientation-swearing-in-on-the-constitution-holding-rrc-accountable-2026-2027/part-5-dirksen-room-511-status-28-dropouts-appropriations-strings-attached), the confrontation in **Room 511 of the Dirksen Senate Office Building** on Tuesday, February 16, 2027 is told strictly from **Nathaniel Prairie's** first-person POV beside **U.S. Senator Katie Prairie (`D-Virginia`)**. This Backstage dossier reveals what was going through the minds of **DARS Commissioner Marcus Sterling** and **RRC Director Evelyn Cross** on the other side of the mahogany desk—and what happened in the forty minutes after they stumbled out into the fifth-floor hallway.
+> **Archival Note:** In [***Katie & Nathaniel — Episode 11, Chapter 3, Part 5***](https://books.raggiesoft.com/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-5-34-c-f-r-section-361-38-two-twelve-day-dropouts-in-room-511-strings-attached-at-the-subcommittee-hearing), the confrontation in **Room 511 of the Dirksen Senate Office Building** on Tuesday, February 16, 2027 is told strictly from **Nathaniel Prairie's** first-person POV beside **U.S. Senator Katie Prairie (`D-Virginia`)**. This Backstage dossier reveals what was going through the minds of **DARS Commissioner Marcus Sterling** and **RRC Director Evelyn Cross** on the other side of the mahogany desk—and what happened in the forty minutes after they stumbled out into the fifth-floor hallway.
 
 ---
 
