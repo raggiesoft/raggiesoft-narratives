@@ -9663,290 +9663,307 @@ I looked over at Sam, Mandy, and Sarah chatting happily with the CVTA operator b
 
 ## Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop
 
-### Part 1: The Washington Pilgrimage That Wasn't: Secret Service Disqualifications, Curbside Walkouts, & Governor Caldwell's Route 15 Meltdown
+### Part 1: Marker #0812 at Military & Indian River: Senator Julian Vance & Governor Harrison Caldwell
 
 **Date:** 2044-02-09 at 09:10 America/New_York
 
 ![At CVTA Stop #0812 on the corner of Military Highway and Indian River Road in Virginia Beach in February 2044, 61-year-old Governor Harrison Caldwell stands on the concrete sidewalk in an expensive tailored navy suit holding a thick leather policy binder, staring in utter shock at the open front doors and deployed aluminum ramp of a regularly scheduled CVTA Route 15 city bus behind 58-year-old Senator Katie Prairie and her twin brother Nate in their brushed-silver and black SwiftChair power wheelchairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_caldwell_wait_a_bus_curbside_shock_katie_nate.jpg)
 
-#### Tuesday, February 2, 2044, 9:08 AM — "Katie, I Am a United States Senator, Not a Commuter": Why Three Candidates Never Even Boarded the Bus
+#### Tuesday, February 2, 2044, 9:08 AM — Northeast Corner of Military Highway & Indian River Road
 
 ![At CVTA Stop #0812 on the corner of Military Highway and Indian River Road in Virginia Beach in February 2044, 61-year-old Governor Harrison Caldwell stands on the concrete sidewalk in an expensive tailored navy suit holding a thick leather policy binder, staring in utter shock at the open front doors and deployed aluminum ramp of a regularly scheduled CVTA Route 15 city bus behind 58-year-old Senator Katie Prairie and her twin brother Nate in their brushed-silver and black SwiftChair power wheelchairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_caldwell_wait_a_bus_curbside_shock_katie_nate.jpg)
 
-"Which door is your suite, Nate?" Senator Julian Vance of New York asked, adjusting the collar of his bespoke camel-hair overcoat as he stepped onto the concrete sidewalk at the northeast corner of Military Highway and Indian River Road at eight minutes past nine on Tuesday morning, February 2, 2044. He glanced past our two brushed-silver and black motorized SwiftChair power wheelchairs toward the single-story brick strip center behind us, cradling a gold-embossed leather briefing binder titled *THE VANCE-PRAIRIE PARTNERSHIP FOR AMERICA* under his arm. "My advance team thought 812 North Military Highway was a law office or a private breakfast club, and all I see is a dry cleaner, a nail salon, and a tax storefront."
+"Which door is your suite, Nate?" Senator Julian Vance of New York asked, adjusting the collar of his camel-hair overcoat as he stepped onto the concrete sidewalk at the northeast corner of Military Highway and Indian River Road at eight minutes past nine on Tuesday morning, February 2, 2044. He glanced past our two brushed-silver and black motorized SwiftChair power wheelchairs toward the single-story brick strip plaza behind us, cradling a gold-embossed leather briefing binder titled *THE VANCE-PRAIRIE PARTNERSHIP FOR AMERICA* under his arm. "My advance team saw *Military Highway and Indian River Road — #0812* on your calendar invite and assumed Suite 812 was a law office or a private breakfast club, and all I see is a dry cleaner, a nail salon, and a tax storefront."
 
-"There is no suite, Senator Vance," my fifty-eight-year-old twin sister Katie said pleasantly from her wheelchair, tapping the blue-and-white metal sign bolted to the steel pole right beside her left wheel: *CVTA STOP #0812 — MILITARY HWY & INDIAN RIVER RD (ROUTES 12, 15)*. "You're standing at it. Stop number zero-eight-one-two."
+"There is no suite, Julian," my fifty-eight-year-old twin sister Katie said pleasantly from her wheelchair, reaching up to tap the blue-and-white metal sign bolted to the steel pole right beside her left wheel: *CVTA STOP #0812 — MILITARY HWY & INDIAN RIVER RD (ROUTES 12, 15)*. "You're standing at it. Stop number zero-eight-one-two."
 
-Senator Vance—the sixty-three-year-old chairman of the Senate Finance Subcommittee on International Trade and the preferred candidate of Manhattan investment banks—froze on the sidewalk.
+Senator Vance blinked down at us, the cold February wind ruffling his silver-gray hair as four lanes of morning traffic hummed past the intersection.
 
-"I beg your pardon?" Vance said, blinking down at us.
+"I beg your pardon?" Vance said.
 
-Seventeen years had passed since Friday, April 16, 2027, when Katie had risen at her mahogany desk in the United States Senate to cast her Guilty and Aye votes convicting and permanently disqualifying Garrett Thorne, Conrad Drayton, and Bret Halverson, and elevating Speaker Clara Morales to the Presidency.
+"When party leadership came down here in October to ask me to run for President, I met them at the bus stop on Military Highway and told them no because federal law never lets a President waive Secret Service protection and ride a city bus again," Katie explained, her hands resting comfortably on her armrests. "And when Former Vice President Sterling's campaign called Nate two weeks ago asking to meet at The Atlantic Grand Hotel down at the Oceanfront, I told him no for the exact same reason—because his Secret Service detail would have forced the Coastal Virginia Transit Authority to pull buses out of service and sweep transfer stations with bomb dogs while people are trying to get to work. You don't have Secret Service protection yet, Julian. Which means you can ride the bus with us."
 
-Those seventeen years had brought both the deepest heartbreaks of our lives and the proudest milestones of Katie's three six-year terms in the United States Senate.
+Down the right-hand curb lane of northbound Military Highway, a forty-foot blue-and-silver CVTA Route 15 coach clicked on its right turn signal and eased toward the sidewalk behind two hospital housekeepers in teal scrubs and a young shipyard apprentice carrying a metal lunchbox.
 
-Before Katie even ran for her second Senate term in November of 2032, our beloved dad, David Prairie—the man who had walked out of a toxic marriage for us in 2001, enrolled at the Community College of Hampton Roads when our seventh-grade HTML homework inspired him to change careers, crawled on his hands and knees beside us during Hurricane Isabel so we wouldn't feel humiliated when our wheelchair batteries died, and stood proudly in the Senate Family Gallery when Katie took her oath—passed away peacefully after a brief illness. Losing Dad broke our hearts all over again. We kept both the brick house on Sunset Drive in Alexandria and our single-story brick ranch at 737 Arvin Road right here off Military Highway and Indian River Road exactly the way he had loved them, and every night when we came home and flipped up our inner wheelchair armrests to wrap our arms around each other in a long, deep-pressure hug before climbing into our shared sleeping bag inside our quiet closet sanctuary, we still thanked him for building the life that kept us safe.
+"You're joking, Katie," Vance said, lowering his voice and glancing nervously at the commuters stepping up to the curb as the air brakes hissed and the front suspension kneeled. "I flew down from LaGuardia at six-thirty this morning to sit down with you in private and offer you your choice of Transportation or Health and Human Services in a Vance Administration. Have Nate call a private ride-share van for your chairs—my people reserved a quiet boardroom at the downtown hotel in Norfolk."
 
-In November of 2032—just as he had promised on speakerphone from his front porch in Danville on the afternoon President Clara Morales was sworn in—former Republican House Majority Leader Richard Callaway and Aunt Marge had crossed party lines one final time to cast their ballots for Katie's second Senate term before returning to voting Republican down the line in the reformed state party Richard had worked so hard to rebuild. When Uncle Richard passed away peacefully in Southside Virginia four years later, before Katie's 2038 re-election campaign, both of us—and especially Katie—took his passing almost as hard as losing our own father. Even though they had disagreed on plenty of policies over the years, Uncle Richard had been like a second father to the two of us. When we rode the train and bus down to Danville for his funeral, Katie left her gold Senate lapel pin and her official title at home in Kempsville, declined the VIP pew reserved for elected officials, and rolled down the church aisle strictly in her personal capacity as Richard's friend so she and I could sit and cry privately beside Aunt Marge, Sam, Mandy, and Sarah.
+"I don't want a Cabinet post that locks me in a government SUV, Julian, and I'm retiring from the Senate in January after eighteen years," Katie replied evenly as the aluminum wheelchair ramp folded out onto the concrete with three warning beeps. "We didn't notify CVTA that we were coming today, so this is the regular nine-eighteen northbound Route 15. We're riding it up to Military Highway Station, taking Route 800—The Surge Light Rail—one stop to Newtown Road Station, transferring to the ten o'clock Route 25 down to the Community College of Hampton Roads Virginia Beach Campus, and catching the ten-fifty-three inbound Route 12 back along Indian River Road to Stop #0812. You have the length of that trip to make your case—and because this is public transit, I encourage the passengers and operators to ask you questions while Nate records on his mPhone."
 
-By the winter of 2043, as Virginia's Senior United States Senator serving in her third full term, Katie had become the most popular and influential legislator in the Democratic Party. When the party caucus had offered her the post of Senate Majority Leader, she had politely turned it down with a simple *"No, thank you"*—because chairing the Senate Committee on Banking, Housing, and Urban Affairs, which held one hundred percent of the Senate's jurisdiction over the Federal Transit Administration and every bus and rail system in America, mattered infinitely more to us than fundraising dinners or floor optics.
+Vance stared at the scuffed rubber flooring of the Route 15 entry vestibule, then at the two hospital housekeepers waiting patiently behind him, and finally at my mPhone clipped to the top bezel of my unbranded matte-silver MagnaBook Pro on my lap tray.
 
-Four months earlier, in October of 2043, when a delegation of national party chairs and governors had flown down to Virginia Beach to beg Katie to accept a draft for the 2044 Democratic Presidential nomination—showing her polling where she led the general election by eleven points—Katie had met them right here on Military Highway and turned down the Presidency on the spot. Under Title 18, Section 3056 of the United States Code, a major-party presidential nominee and President of the United States can never waive Secret Service protection and is banned for life from ever waiting at a neighborhood bus stop or riding a public city bus unannounced. As Katie had told the stunned party leaders: *"Nate and I spent forty-two years fighting for our independence to ride the public bus together whenever we want. I am not trading my bus pass for an armored limousine."*
+"Katie, be serious," Vance said, his voice tightening. "I am a United States Senator running for President of the United States. I do not ride a city bus with random commuters for two hours, and I certainly don't sit at a community-college bus shelter taking unvetted questions on a cell phone camera."
 
-The moment Katie took her own name off the 2044 presidential board, her endorsement became the single most coveted prize in American politics.
+"Then you don't need to get on the bus, Julian," Katie said calmly, releasing her joystick brake as our driver Darnell leaned out of his seat to wave us aboard. "Have a safe flight back to New York."
 
-Every candidate in the primary assumed that courting Senator Katie Prairie would follow the sacred, time-honored Washington endorsement ritual.
+Vance stood on the concrete pad for three seconds, tucked his leather binder tightly under his arm, turned on his heel, and walked briskly back across the Indian River Road crosswalk toward his idling black luxury SUV in the shopping plaza parking lot.
 
-Normally, when a presidential contender seeks the blessing of a powerful senior Senator, their national political director negotiates a private, high-status pilgrimage behind closed doors—either in the Senator's Capitol Hill hideaway, in a velvet-curtained private dining room at an upscale steakhouse, or in a staged twenty-minute living-room sit-down where vetted photographers take ninety seconds of B-roll before the staff clears the room. Inside that private room, the candidate presents a custom policy binder, offers transactional promises like a Cabinet appointment as Secretary of Transportation or Health and Human Services, and walks out knowing that even if the Senator declines to endorse them, both campaigns will release a polite two-sentence readout and nobody will ever be embarrassed in public.
+ Katie and I didn't waste the nine-eighteen bus. Rolling up the aluminum ramp into the front cabin, we backed our two SwiftChairs into the opposing ADA securement bays, rode up to Military Highway Station to grab a cup of hot apple cider by the platform, and took the next southbound bus back home to our brick ranch house on Arvin Road—the quiet single-story home our dad, David Prairie, had bought for us before he passed away during Katie's first Senate term.
 
-Katie and I had zero interest in velvet curtains, steakhouse horse-trading, or Cabinet posts that would force us into government SUVs.
+That night at ten-fifteen, while Katie and I were sitting in our living room on Arvin Road reading through a Federal Transit Administration markup folder before heading into our bedroom closet sanctuary for the night, my mPhone buzzed on the end table.
 
-When candidates' schedulers emailed me asking where and when their candidate could meet Senator Prairie in Virginia Beach to ask for her endorsement, I sent every campaign the exact same two-line calendar invitation:
+It was the campaign manager for Governor Gary Whitman of Colorado—the moderate governor backed by three major private-equity hospital networks who was scheduled to meet us at Marker #0812 on Thursday morning.
 
-> **Meeting Location:** 812 N. Military Highway (at Indian River Road), Virginia Beach, VA — Marker #0812<br>
-> **Time:** 9:10 AM – 11:25 AM (Candidate Only — No Staff, No Security Details, No Press Pool)
+"Nate, I'm calling with terrible news," the campaign manager said breathlessly over the speaker. "Governor Whitman has to fly back to Denver tonight for an urgent state budget consultation, so we're going to have to pass on Thursday morning's meeting in Virginia Beach."
 
-We never mentioned the word *bus* in the email. And we certainly never notified the Coastal Virginia Transit Authority that Senator Katie Prairie was conducting presidential endorsement interviews on board their buses and trains—because if CVTA headquarters had even an inkling of what we were doing, terrified transit executives would have pulled a brand-new, freshly waxed bus out of the garage, stationed road supervisors at every transfer point, and ruined the entire test.
+"Understood," I said politely. "Good luck with the budget."
 
-One candidate didn't even make it to the calendar invite.
+As soon as I tapped the red end-call icon, Katie looked over at me from her wheelchair and smiled wryly.
 
-Two weeks earlier, when Former Vice President Arthur Sterling—who still traveled inside a permanent twenty-four-hour Secret Service motorcade bubble—had his campaign manager call me to request an endorsement summit at The Atlantic Grand Hotel on the Virginia Beach Oceanfront, Katie had me give him an immediate, polite Hard No. Anyone who already had Secret Service protection was automatically disqualified from our endorsement process, because a Secret Service advance team would have forced CVTA to pull buses out of revenue service, sweep transfer stations with bomb-sniffing dogs, and delay hundreds of working morning commuters.
+"Julian Vance's campaign manager called Whitman's team and told them Marker #0812 is a city bus stop where nurses and college students get to ask questions on camera," Katie said.
 
-Senator Julian Vance of New York didn't have Secret Service protection—which was how he wound up standing on the sidewalk at Military Highway and Indian River Road in his three-thousand-dollar camel-hair coat as the nine-eighteen northbound CVTA Route 15 diesel bus signaled into the right-hand curb lane behind two hospital housekeepers in teal scrubs and a shipyard apprentice carrying a metal lunchbox.
-
-"You're joking, Katie," Vance said, lowering his voice and glancing nervously at the working commuters stepping up to the curb as the forty-foot blue-and-silver bus hissed to a stop and kneeled its front suspension. "I flew down from LaGuardia this morning to offer you your choice of Transportation or HHS in a Vance Administration. Tell Nate to call a private ride-share van for your chairs—my people reserved the private boardroom at the downtown hotel in Norfolk."
-
-"I don't want a Cabinet post, Julian, and Nate and I don't take Ubers when the bus runs right past our street," Katie replied calmly as the aluminum wheelchair ramp folded out onto the concrete with a series of warning beeps. "We're catching this nine-eighteen Route 15 up to Military Highway Station, riding the Route 800 Surge Light Rail one stop to Newtown Road Station, transferring to the ten o'clock Route 25 down to the Community College of Hampton Roads Virginia Beach Campus, waiting twenty-nine minutes at the campus bus loop, and catching the ten-fifty-three Route 12 back to Stop #0812. You have the length of that trip to ask for my endorsement—and every passenger on the bus is invited to ask you questions while Nate records on his mPhone."
-
-Vance stared at the scuffed rubber flooring of the Route 15 entry vestibule, then at the hospital housekeepers waiting behind him, and finally at my mPhone camera clipped to the top bezel of my MagnaBook Pro.
-
-"Katie, be serious," Vance snapped, his patrician composure cracking. "I am a United States Senator running for President of the United States. I do not ride a city bus with random commuters for two hours, and I certainly don't sit at a community-college bus shelter getting ambushed on camera by people who haven't been vetted by my communications staff."
-
-"Then you won't need our endorsement, Julian," Katie said evenly, releasing her joystick brake as the bus driver waved us toward the ramp. "Have a safe flight back to New York."
-
-Vance didn't even say goodbye. Turning on his Italian leather heel, he marched straight back across the Indian River Road crosswalk to his idling black luxury SUV—and within four hours of his plane touching down at LaGuardia, his horrified campaign manager had called half the consultants in Washington to warn them about what Katie and I were doing at Stop #0812.
-
-That phone call claimed our third dropout before midnight.
-
-Governor Gary Whitman of Colorado—a polished moderate whose Super PAC was bankrolled by three of the largest private-equity hospital conglomerates and toll-road developers in the country—had been scheduled to meet us at Stop #0812 that Thursday morning. At ten-fifteen Tuesday night, Whitman's campaign manager called me in a cold sweat to cancel, claiming an "unforeseen legislative emergency in Denver."
-
-Katie and I both knew the real reason. Once Whitman's consultants learned that Katie invited everyday nurses, home-care aides, and disabled community-college students on Route 15 and Route 25 to ask unscripted policy questions on my camera—and that failing on camera meant the tape existed—they realized their candidate was walking into a minefield. If a Virginia Beach nurse cornered Whitman on Route 25 and asked him to pledge on camera to ban private-equity buyouts of community hospitals and Medicaid home-care agencies, saying *yes* would cost him thirty million dollars in Wall Street donor checks before the bus reached Princess Anne Road, while saying *no* would end his campaign in Virginia. Passing up Katie's endorsement was survivable; getting exposed on a city bus was fatal.
+"And Whitman's healthcare donors would pull his funding in ten minutes if a Tidewater Health nurse pinned him down on private-equity hospital staffing ratios," I agreed, flipping up my left armrest as Katie flipped up her right armrest so we could lean across and wrap our arms around each other in a long, quiet twin hug. "Let's see if Governor Caldwell shows up next Tuesday."
 
 ***
 
-#### Tuesday, February 9, 2044, 9:10 AM — "Wait—A Bus?! Huh?!": How Governor Harrison Caldwell Tried to Tough Out Stop #0812 and Crumbled by Leg 3
+#### Tuesday, February 9, 2044, 9:10 AM — Stop #0812 & Leg 1 Aboard CVTA Route 15 With Governor Harrison Caldwell
 
-One week later, on Tuesday morning, February 9, 2044, sixty-one-year-old Governor Harrison Caldwell of Illinois—the national frontrunner in early institutional endorsements—decided that he was too disciplined a politician to let a city bus scare him off.
+"Wait—a *bus*? Huh?!"
 
-Wait—he *still* didn't know it was a city bus when he arrived. Because Caldwell's inner circle didn't talk to Julian Vance's staff, Caldwell's advance team had read *812 N. Military Highway — Marker #0812* on my calendar invite and assumed it was the suite number of a discreet suburban accounting firm where Katie kept a satellite political office.
+At ten minutes past nine the following Tuesday morning, February 9, 2044, sixty-one-year-old Governor Harrison Caldwell of Illinois stood on the concrete sidewalk at Stop #0812 in a tailored navy pinstripe suit, crimson silk tie, and dark wool overcoat, staring from the blue metal bus stop pole to the forty-foot CVTA Route 15 coach pulling into the curb lane behind a nurse in gray scrubs and a construction worker in a heavy canvas jacket. Across the street in the Market Square parking lot, four of Caldwell's campaign aides stood beside two rented black SUVs holding three-ring policy binders and silver thermal coffee carafes.
 
-"Wait—a *bus*? Huh?!" Caldwell blurted out at nine-ten that morning, standing on the concrete pad at Stop #0812 in his tailored navy pinstripe suit and crimson silk tie while four young campaign aides stood across the street in the Market Square parking lot clutching three-ring briefing binders and silver thermal carafes of artisanal pour-over coffee. "Senator Prairie, you conduct your presidential endorsement interviews on board a regularly scheduled city bus—and you didn't even have the transit authority clear the car?!"
+"Senator Prairie, you conduct your presidential endorsement interviews on board a regularly scheduled city bus—and the passengers and the bus driver get to ask me questions too?!" Caldwell asked, his eyebrows practically touching his hairline.
 
-"Why on earth would we clear the car, Governor?" Katie asked, smiling up from her SwiftChair as the nine-eighteen northbound CVTA Route 15 Stalwart coach rumbled past the Indian River Road intersection and pulled to the curb. "The people riding the nine-eighteen Route 15 are the people you're asking to govern. Your staff stays across the street. Do you have four dollars and fifty cents for an all-day bus pass, or are you walking back to your SUV like Senator Vance did last Tuesday?"
+"Every candidate gets the exact same route, Governor," Katie said warmly from her SwiftChair. "We start right here at Stop #0812 on the nine-eighteen northbound Route 15 up to Military Highway Station, ride Route 800—The Surge Light Rail—one stop east to Newtown Road Station, catch the ten o'clock Route 25 down to the Community College of Hampton Roads Virginia Beach Campus, and transfer to the ten-fifty-three inbound Route 12 back along Indian River Road to Stop #0812. Your staff stays across the street. You have the length of that transit loop to tell us why you should be the next President of the United States."
 
-Mentioning Julian Vance's walkout hit Caldwell right in his competitive ego.
+Caldwell glanced back across the intersection at his aides, straightened his silk tie, and forced a broad campaign smile onto his face.
 
-"No, no—I ride public transit all the time in Chicago!" Caldwell lied brightly, handing his heavy leather briefing binder to a bewildered aide who sprinted across the crosswalk to take it before darting back to the parking lot. "Lead the way, Senator!"
+"Well! Nobody can say Harrison Caldwell doesn't love public transportation!" he declared, gesturing for one of his aides to run across the crosswalk and take his thick leather binder back to the SUV. "After you, Senator!"
 
-It took less than forty-five seconds aboard CVTA Route 15 to prove that Harrison Caldwell had not set foot on a public bus without a state police advance team in at least twenty-five years.
+*Caution: bus is kneeling! Caution: ramp is deploying!*
 
-After Katie and I rolled up the aluminum ramp, backed our two SwiftChairs into the front ADA securement bays, and clicked our floor straps tight while our veteran driver Darnell tapped our passes, Caldwell stepped up to the farebox, pulled a crisp twenty-dollar bill out of his leather billfold, and tried to jam it into the dollar-bill slot.
+Katie and I rolled up the aluminum ramp first, greeted Darnell in the driver's seat, tapped our passes against the reader, and backed our two SwiftChairs into the front securement bays.
 
-The farebox beeped angrily and spat the twenty back out.
+Behind us on the front steps, Caldwell pulled a crisp twenty-dollar bill out of his leather billfold and tried to slide it into the dollar-bill slot on the farebox.
 
-"Your machine is broken, driver," Caldwell announced loudly, trying to shove the twenty-dollar bill in a second time while four commuters waiting behind him on the steps let out an audible groan. "Just give me four ones and two quarters out of the till."
+The machine beeped twice and spat the twenty back into his hand.
 
-Darnell looked at the Governor of Illinois in the oversized overhead mirror with the deadpan patience only a twenty-year city bus operator possesses. "Sir, city bus fareboxes haven't made change since 1984. Exact fare only—four dollars and fifty cents for a Day Pass, or two dollars for a single ride."
+"Your farebox is jammed, driver," Caldwell said loudly, trying to push the twenty-dollar bill in a second time while three commuters waiting on the steps behind him shifted their weight in the cold air. "Just hand me four ones and two quarters out of your drawer."
 
-"Who carries singles and quarters in 2044?!" Caldwell protested, flushing crimson down to his collar until a sixty-year-old woman in a cafeteria hairnet standing behind him sighed, reached around his elbow, and dropped two crumpled one-dollar bills and two quarters of her own into the slot so the bus could finally pull away from the curb.
+Darnell looked up into his overhead mirror. "Sir, bus fareboxes don't make change. Exact fare only—four dollars and fifty cents for an all-day GoPass, or two dollars for a single ride."
 
-"Pay her back when we get off at Military Highway Station, Governor," Katie said dryly from her wheelchair before turning her head down the center aisle as the bus accelerated north up Military Highway. "Good morning, everybody on the nine-eighteen Route 15! This is Governor Harrison Caldwell of Illinois, and he's running for President of the United States. He's riding our four-seat transit loop with Nate and me this morning to ask for my endorsement, and since this is your bus, I'm inviting anybody on board to ask him whatever question you want!"
+"Who carries singles and quarters in 2044?" Caldwell muttered, patting his suit pockets until a sixty-year-old woman in a cafeteria coat standing behind him sighed, reached past his elbow, and fed two crumpled one-dollar bills and two quarters of her own into the slot so Darnell could print the pass and close the doors.
 
-Caldwell didn't even sit down in the open perimeter seat across from our wheelchairs at first—he stood stiffly in the aisle clutching the yellow vertical stanchion pole like he was afraid the blue vinyl upholstery might stain his suit trousers, right until Darnell braked for a red light at Corporate Boulevard and the lurch sent the Governor stumbling backward onto the bench beside a burly marine welder in steel-toed boots.
+"Thank you, ma'am—I'll have my staff reimburse you!" Caldwell told her hurriedly as the bus pulled away from Stop #0812.
 
-"Governor," the welder said without missing a beat, "my dad retired from Norfolk Naval Shipyard after thirty-four years, and my mother needs thirty hours a week of in-home Medicaid personal care so she doesn't have to go into a nursing home. Last month you told a Sunday morning interview show that Congress needs a 'bipartisan commission to rein in mandatory healthcare entitlements.' Does 'entitlements' mean my mom's home-care nurse?"
+Once Caldwell sat down on the sideways perimeter bench across the aisle from our wheelchairs, Katie turned her head toward the passengers filling the center rows and introduced him with genuine warmth.
 
-Instead of answering *yes* or *no*, Caldwell pivoted his torso forty-five degrees so he was speaking directly into the lens of my mPhone rather than looking at the welder sitting six inches from his left knee.
+"Good morning, everybody on the nine-eighteen northbound Route 15!" Katie called out clearly over the hum of the diesel engine as we crossed Indian River Road. "This is Governor Harrison Caldwell of Illinois, and he's running for President of the United States. He's riding with Nate and me up to Military Highway Station, over on The Surge to Newtown Road, down Route 25 to CCHR, and back on the Route 12 to ask for my endorsement. Nobody gave him any questions in advance—so if you have a question for somebody who wants to be your next President, raise your hand and ask away!"
 
-"What I've proposed is a commonsense, data-driven modernization framework that empowers state-level flexibility while preserving the safety net for the truly needy—" Caldwell began in his booming debate-stage baritone.
+Two seats down the bench from Caldwell, the construction worker in the canvas jacket raised his hand.
 
-"He asked you if 'state-level flexibility' means cutting his mother's thirty hours of home care, Governor," Katie interrupted calmly from her wheelchair. "Yes or no?"
+"Governor," the man said, "my dad worked thirty-four years at Norfolk Naval Shipyard, and my mom needs thirty hours a week of in-home Medicaid personal care here in Virginia Beach so she doesn't get forced into a nursing home. Last month on a Sunday morning interview show, you said Congress needs a 'bipartisan commission to rein in mandatory healthcare entitlements.' When you say 'entitlements,' do you mean my mother's home-care nurse?"
 
-"Well, every state's actuarial tables are different, Senator," Caldwell hedged, wiping a bead of sweat from his forehead as Darnell pulled the Route 15 bus into the transit loop at Military Highway Station.
+Instead of looking at the worker sitting two feet to his left, Caldwell angled his shoulders toward the front of the bus so he was speaking straight into the lens of my mPhone mounted on my laptop screen.
 
-Leg 2—our three-minute, one-stop ride eastbound on CVTA Route 800, *The Surge* Light Rail, from Military Highway Station to Newtown Road Station—went even worse.
+"What I have proposed is a commonsense, data-driven fiscal modernization framework that empowers state-level flexibility while preserving the safety net for the truly needy," Caldwell said in his polished debate-stage baritone.
 
-As Katie and I rolled straight across the level boarding strip into the articulated silver light-rail car, Caldwell looked around the sleek electric train and chuckled patronizingly.
+"Sir, I'm sitting right here to your left," the worker said evenly. "And I asked whether 'state-level flexibility' means cutting my mom's thirty hours a week."
 
-"Now this is a cute little three-minute trolley ride, Senator," Caldwell said, loud enough for the entire vestibule of morning commuters to hear. "Though I have to ask—why are we taking a train for one single stop just to wait nineteen minutes at the next station for another bus? In the private sector, we'd call that a massive scheduling inefficiency."
+"Well, every state's actuarial tables and block-grant formulas are going to look a little different," Caldwell replied, tapping his knee as the bus slowed for the turn into Military Highway Station.
 
-Sitting across the aisle with a stethoscope draped around her neck, a thirty-something respiratory therapist on her way to Tidewater Health Leigh Memorial Hospital stared at him coldly.
+***
 
-"We're taking it one stop because Virginia Beach politicians spent thirty years blocking this light-rail line from crossing Newtown Road to reach the hospital and the community college, mister," she said sharply. "And we wait nineteen minutes at Newtown Road Station because Washington cut federal transit operating funds while giving tax breaks to guys in suits like yours. By the way—do you even know what a monthly bus pass or a gallon of milk costs right now?"
+#### Tuesday, February 9, 2044, 9:34 AM — Route 800 (*The Surge* Light Rail), Route 25 to CCHR, Route 12, & Our Decision at Home on Arvin Road
 
-Caldwell blinked, caught completely off guard without a briefing card in his hand. "A single bus ride—what, ten or twelve dollars depending on the zone?"
+At Military Highway Station, we rolled off the Route 15 ramp and up the sloped concrete walkway onto the center platform for Leg 2: CVTA Route 800, *The Surge* Light Rail.
 
-Around the light-rail car, three passengers actually laughed out loud, while Katie simply looked over at me and raised one eyebrow.
+When the sleek silver-and-blue two-car electric train glided up to the level boarding strip and the double doors chimed open, Katie and I rolled straight into the mobility bay inside the vestibule with Caldwell stepping in beside us for the three-minute, one-stop ride eastbound to the terminus at Newtown Road Station.
 
-By the time we stepped off *The Surge* at Newtown Road Station, waited the nineteen minutes on the brick bus loop, and rode the ten o'clock outbound CVTA Route 25 down Newtown Road and Princess Anne Road to the Community College of Hampton Roads Virginia Beach Campus, Governor Caldwell was visibly miserable. Throughout the twenty-three-minute Route 25 ride—while two CCHR students and a grocery store cashier pressed him on community-college tuition and wheelchair repair monopolies—I watched Caldwell keep his right hand buried inside his suit jacket pocket, surreptitiously thumb-typing text messages on his phone screen without looking down.
+Looking around the light-rail car as the train accelerated along the interstate sound wall, Caldwell chuckled and shook his head.
 
-At ten-twenty-three, the Route 25 bus pulled into the CCHR Virginia Beach Campus loop and deployed the front ramp.
+"Now this is a cute little three-minute trolley ride, Senator," Caldwell said, loud enough for the entire vestibule to hear. "Though as a chief executive, I have to ask—why are we taking a train for one single stop just to wait nineteen minutes at the next station for a bus? In the business world, we'd call that a massive scheduling inefficiency."
 
-"All right, Governor," I said as Katie and I rolled onto the campus sidewalk beside the bus shelter. "Because Route 12 runs once an hour, our inbound bus back to Stop #0812 departs at ten-fifty-three—so we have a twenty-nine-minute transfer wait right here at CCHR."
+Across the vestibule, a thirty-something respiratory therapist in Tidewater Health scrubs with a stethoscope around her neck looked up from her phone.
 
-Before Caldwell could answer, a rented black full-size Holt SUV with Illinois campaign plates screeched around the curve of College Crescent and pulled right up to the yellow fire curb behind the bus shelter.
+"We're only riding it one stop because suburban politicians spent thirty years blocking this light-rail line from crossing Newtown Road into Virginia Beach to reach the hospital and the community college," she told him flatly. "And we wait nineteen minutes at Newtown Road Station because Washington cut transit operating aid. By the way, Governor—since that lady on the first bus had to pay your fare, do you even know what a single bus ride costs without looking at the sign?"
 
-"Ah—Senator Prairie, Nate, I am *so* sorry," Caldwell said, holding his phone up to his ear in a pantomime of sudden urgency as his chief of staff threw open the SUV's rear door. "My staff just flagged an urgent conference call with the Illinois legislative leadership on our supplemental budget bill—I have to take this on a secure line on the way to the airport. Huge fan of what you're doing out here with the transit riders! Our staffs will be in touch about the endorsement announcement!"
+Caldwell hesitated, caught without a briefing card. "A single ride—what, ten or twelve dollars depending on the zone?"
 
-He practically dove into the back seat of the black SUV, and the vehicle sped out of the CCHR campus loop before the door even finished latching.
+Two commuters by the rear doors laughed out loud as the train glided into Newtown Road Station.
 
-Sitting side by side in our two SwiftChairs under the CCHR bus shelter in the crisp February breeze while three community-college students eating vending-machine crackers watched the black SUV disappear down Princess Anne Road, Katie and I looked at each other and burst out laughing.
+During our nineteen-minute wait at the Newtown Road Station bus loop, Caldwell paced back and forth beside the brick shelter checking his gold wristwatch four separate times. When the ten o'clock outbound CVTA Route 25 coach pulled in and carried us down Newtown Road and Princess Anne Road toward the Community College of Hampton Roads Virginia Beach Campus, a twenty-year-old CCHR student in a manual wheelchair asked Caldwell whether he supported Katie's federal Wheelchair Right-to-Repair bill; Caldwell spent three minutes talking about "protecting medical-device intellectual property incentives" before cutting the student off to ask me how much longer the ride to the college took.
 
-"Ten or twelve dollars for a single bus ride?" Katie shook her head, reaching across our armrests to squeeze my hand while we waited for the ten-fifty-three Route 12 to take us home. "Put that video in the private archive folder, Nate. Who's on our calendar for next Tuesday?"
+When we rolled down the Route 25 ramp at the CCHR Virginia Beach Campus bus loop at ten-twenty-three and told him that the inbound Route 12 ran on an hourly headway—meaning our next bus back to Stop #0812 didn't depart until ten-fifty-three—Caldwell spent almost the entire twenty-nine-minute layover standing twenty feet away from the bus shelter with his phone pressed to his ear, talking to his campaign manager in Chicago while Katie and I chatted with the CCHR students waiting on the bench.
 
-"Congressman Devon Pierce of California," I said, glancing at my MagnaBook schedule. "And something tells me he won't be any better prepared."
+On the ten-fifty-three inbound CVTA Route 12 back along Lynnhaven Parkway, Kempsville Road, and Indian River Road, Caldwell barely answered the two retired shipyard electricians who asked him about Social Security, keeping his eyes fixed on the front windshield until I pressed the yellow stop-request strip approaching Military Highway.
 
-### Part 2: The Performative Panderer on Route 25: How Congressman Devon Pierce Screwed Up in Front of the CCHR Riders
+At eleven-twenty, the Route 12 driver deployed the ramp right in front of the blue sign at Stop #0812.
+
+As we rolled onto the sidewalk and Caldwell's four aides came hurrying across the Indian River Road crosswalk from the Market Square parking lot with his leather binder, the Governor of Illinois beamed as if he had just aced a Sunday morning talk show.
+
+"Well, Senator Prairie, Nate—what a fantastic morning out here with the good people of Virginia Beach!" Caldwell said, shaking Katie's hand and mine warmly. "My political director will follow up with your office tomorrow on the rollout timing for the endorsement!"
+
+"Thank you for riding the loop with us, Governor Caldwell," Katie said politely from her wheelchair, giving nothing away on the sidewalk. "Have a safe flight back to Illinois."
+
+We waited until Caldwell climbed into his black SUV, and then Katie and I turned our SwiftChairs around the corner onto Indian River Road and rolled home to our brick ranch house on Arvin Road.
+
+Inside our quiet kitchen, after I hung our coats on the lower pegs by the hallway and plugged my MagnaBook Pro into the dining-table outlet while Katie poured two glasses of cold water at the accessible counter, we parked our wheelchairs facing each other across the table to make our decision.
+
+"Well, Nate?" Katie asked quietly, looking across the table at me. "What do you think?"
+
+"He didn't know how a bus farebox works, he guessed a single ride costs twelve dollars, he talked into my camera lens instead of looking a shipyard worker in the eye, and he told a CCHR student in a wheelchair that manufacturer software locks are 'intellectual property incentives,'" I said evenly. "And during the twenty-nine-minute transfer wait at CCHR, he stood twenty feet away on his phone instead of talking to a single student at the shelter."
+
+"He treated the bus and the passengers like an inconvenience he had to endure for two hours to get a press release," Katie agreed, shaking her head slowly. She reached across the dining table and placed her hand over mine. "Are we agreed? No endorsement for Governor Caldwell?"
+
+"Agreed," I said.
+
+Opening the video folder on my MagnaBook Pro, I dragged the two-hour recording from February 9 into our encrypted offline archive drive—never to be uploaded—and closed the window.
+
+"We have two more candidates on the calendar next week," Katie said as we rolled toward the kitchen to make lunch. "Representative Devon Pierce on Tuesday morning, and Governor Elena Delgado on Thursday."
+
+### Part 2: The Second Tuesday on the Loop: Representative Devon Pierce on Route 15, The Surge, & Route 25
 
 **Date:** 2044-02-16 at 09:10 America/New_York
 
-![Aboard CVTA Route 25 on Tuesday morning, February 16, 2044, slick 44-year-old presidential candidate Congressman Devon Pierce leans across the center aisle in a tailored charcoal suit without a tie, talking condescendingly over the head of 19-year-old CCHR computer-science student Marcus in his wheelchair to address Marcus's 22-year-old sister Jasmine in her royal-blue CCHR nursing polo shirt, while 58-year-old Senator Katie Prairie, her twin brother Nate, Marcus, Jasmine, and the surrounding bus passengers stare at Pierce with unimpressed, deadpan expressions.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_route_25_devon_pierce_cchr_student_gaffe_katie_nate.jpg)
+![Aboard CVTA Route 25 on Tuesday morning, February 16, 2044, 44-year-old presidential candidate Congressman Devon Pierce leans across the center aisle in a tailored charcoal suit without a tie, talking over the head of 19-year-old CCHR computer-science student Marcus in his wheelchair to address Marcus's 22-year-old sister Jasmine in her royal-blue CCHR nursing polo shirt, while 58-year-old Senator Katie Prairie, her twin brother Nate, Marcus, Jasmine, and the surrounding bus passengers look on.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_route_25_devon_pierce_cchr_student_gaffe_katie_nate.jpg)
 
-#### Tuesday, February 16, 2044, 9:10 AM — "Wait, We're Actually Getting on the Bus?": The Candidate Who Treated Commuters Like Stage Props
+#### Tuesday, February 16, 2044, 9:10 AM — Stop #0812, Leg 1 on CVTA Route 15, & Leg 2 on Route 800 (*The Surge* Light Rail)
 
-![Aboard CVTA Route 25 on Tuesday morning, February 16, 2044, slick 44-year-old presidential candidate Congressman Devon Pierce leans across the center aisle in a tailored charcoal suit without a tie, talking condescendingly over the head of 19-year-old CCHR computer-science student Marcus in his wheelchair to address Marcus's 22-year-old sister Jasmine in her royal-blue CCHR nursing polo shirt, while 58-year-old Senator Katie Prairie, her twin brother Nate, Marcus, Jasmine, and the surrounding bus passengers stare at Pierce with unimpressed, deadpan expressions.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_route_25_devon_pierce_cchr_student_gaffe_katie_nate.jpg)
+![Aboard CVTA Route 25 on Tuesday morning, February 16, 2044, 44-year-old presidential candidate Congressman Devon Pierce leans across the center aisle in a tailored charcoal suit without a tie, talking over the head of 19-year-old CCHR computer-science student Marcus in his wheelchair to address Marcus's 22-year-old sister Jasmine in her royal-blue CCHR nursing polo shirt, while 58-year-old Senator Katie Prairie, her twin brother Nate, Marcus, Jasmine, and the surrounding bus passengers look on.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_route_25_devon_pierce_cchr_student_gaffe_katie_nate.jpg)
 
 "Wait—you mean we're actually getting *on* the bus? For two hours?"
 
-At nine-ten on Tuesday morning, February 16, 2044, forty-four-year-old Representative Devon Pierce of California—the telegenic, open-collar cable-news darling of the 2044 presidential primary—stood on the concrete pad at Stop #0812 at Military Highway and Indian River Road with a glossy briefing folder in one hand and a biodegradable cup of oat-milk espresso in the other, staring up at the blue metal CVTA bus stop sign as if he were waiting for hidden television cameras to jump out from behind the dry cleaner.
+At nine-ten on Tuesday morning, February 16, 2044, forty-four-year-old Representative Devon Pierce of California stood on the concrete pad at the northeast corner of Military Highway and Indian River Road with a glossy briefing folder in one hand and a paper cup of espresso in the other, looking up from our two brushed-silver and black SwiftChair power wheelchairs to the blue metal sign marked *CVTA STOP #0812 — MILITARY HWY & INDIAN RIVER RD (ROUTES 12, 15)*.
 
-Like every single candidate who had answered our calendar invitation for *812 N. Military Highway — Marker #0812*, Pierce had arrived in Virginia Beach expecting the standard Washington endorsement ritual: a closed-door sit-down in a quiet suburban suite where he could pitch his poll-tested talking points, promise Katie a prime-time speaking slot at the national convention, and leave after twenty minutes.
+"We thought *Military Highway and Indian River Road — #0812* was an office suite in the plaza behind you," Pierce said, glancing over his shoulder at his press secretary waiting near the crosswalk.
 
-Instead, as the nine-eighteen northbound CVTA Route 15 bus signaled into the curb lane behind three morning commuters, Katie explained our ground rules from her SwiftChair: no advance notice to CVTA, no staff, four seats from Route 15 to Military Highway Station, one stop on Route 800 *The Surge* Light Rail to Newtown Road Station, Route 25 to the Community College of Hampton Roads Virginia Beach Campus, a twenty-nine-minute outdoor transfer layover at CCHR, and the ten-fifty-three Route 12 back to Stop #0812—with every passenger and operator invited to ask him questions on my mPhone camera.
+"No office suite, Congressman," Katie smiled from her wheelchair as the forty-foot blue-and-silver nine-eighteen northbound CVTA Route 15 coach signaled into the right-hand curb lane behind three morning commuters. "Every candidate gets the exact same route: we board the nine-eighteen Route 15 right here at Stop #0812 up to Military Highway Station, ride Route 800—The Surge Light Rail—one stop east to Newtown Road Station, transfer to the ten o'clock Route 25 down to the Community College of Hampton Roads Virginia Beach Campus, wait twenty-nine minutes at the campus bus loop, and catch the ten-fifty-three inbound Route 12 back along Indian River Road to Stop #0812. Your press secretary stays here, and every passenger and operator on board is invited to ask you questions."
 
-Unlike Senator Vance, who had stormed off in a huff, or Governor Caldwell, who had panicked at the farebox, Devon Pierce's eyes suddenly lit up for the exact wrong reason.
+Pierce stared at the approaching bus for a second, then looked down at my mPhone clipped to the top bezel of my MagnaBook Pro. Suddenly, a wide grin spread across his face.
 
-Having built his entire political career on carefully edited sixty-second social-media clips, Pierce looked at my mPhone clipped to the top bezel of my MagnaBook Pro and decided that an unscripted city bus ride was his golden ticket to a viral "man of the people" moment.
+"I love it! Working-class transit with the folks who build America!" Pierce declared, tossing his espresso cup into the curbside trash can, handing his briefing folder back to his press secretary, and unbuttoning the top two buttons of his dress shirt under his tailored charcoal jacket as the Route 15 bus kneeled at the curb. "Let's roll, Senator!"
 
-"I love it! Working-class transit with the folks who build America!" Pierce declared, tossing his half-full espresso cup into the curbside trash can, handing his briefing folder to his press secretary across the crosswalk, and unbuttoning the top two buttons of his dress shirt under his tailored charcoal jacket as the Route 15 bus kneeled at the curb. "Let's roll, Senator!"
+*Caution: bus is kneeling! Caution: ramp is deploying!*
 
-Within five minutes of pulling away from Stop #0812 on the northbound Route 15, every regular commuter in the front half of the bus could tell that Devon Pierce wasn't talking *to* them—he was performing *at* my camera lens.
+After Katie and I rolled up the aluminum ramp, greeted Darnell at the wheel, tapped our passes, and backed our wheelchairs into the opposing front ADA securement bays, Pierce stepped aboard, fed a five-dollar bill into the farebox without asking for the fifty cents difference on the four-dollar-and-fifty-cent 1-Day GoPass, and took a seat on the perimeter bench across from us.
 
-As soon as Katie invited the passengers on Route 15 to ask questions, a sixty-two-year-old retired shipyard machinist named Mr. Henderson—sitting two seats behind the front wheel well with a Veteran's Medical Center appointment slip in his shirt pocket—raised his hand and asked Pierce a straightforward question about protecting cost-of-living adjustments for federal and shipyard retirees.
+As the bus pulled away from Stop #0812 and accelerated north up Military Highway, Katie turned her head toward the center aisle and introduced him with the same open warmth she gave every contender.
 
-Instead of staying in his seat and answering the question, Pierce stood up in the moving aisle, walked back to Mr. Henderson's row, dropped into a dramatic one-knee crouch beside the aisle seat, and turned his face three-quarters of the way back toward my laptop so my mPhone captured his best jawline angle.
+"Good morning, everybody on the nine-eighteen northbound Route 15!" Katie called out clearly. "This is Congressman Devon Pierce of California, and he's running for President of the United States. He's riding with Nate and me up to Military Highway Station, over on The Surge to Newtown Road, down Route 25 to CCHR, and back on the Route 12 to ask for my endorsement. Nobody gave him any questions in advance—so if you have a question for somebody who wants to be your next President, raise your hand and ask away!"
 
-"Folks, look at the calluses on this working man's hands!" Pierce boomed, pointing at Mr. Henderson's knuckles like a game-show host while looking straight into my camera lens instead of at the man who had asked the question. "When I look into the eyes of a Virginia shipyard patriot like you, sir, I see my own grandfather's lunchpail—"
+Two rows behind the front wheel well, a sixty-two-year-old retired shipyard machinist named Mr. Henderson—wearing a navy windbreaker with a Veteran's Medical Center appointment slip in his breast pocket—raised his hand.
 
-"Son," Mr. Henderson interrupted dryly, pulling his hand back onto his knee, "you aren't looking into my eyes. You're looking at the phone on that young man's laptop up front. Sit down before the driver hits the brakes at the interstate ramp, and tell me whether you're voting for or against the chained-CPI pension cut."
+"Congressman," Mr. Henderson said, "I put in thirty-six years as a marine machinist down at the shipyard before my knees gave out. Every few years somebody in Washington proposes switching the Social Security and federal retirement cost-of-living formula to the chained consumer price index, which cuts thousands of dollars out of a retiree's check over ten years. Where do you stand on that?"
 
-Across from my wheelchair, Katie pressed her lips together to keep from smiling as Pierce scrambled back into the perimeter seat with a tight, fixed grin.
+Instead of answering from his seat, Pierce stood up in the moving aisle, walked two steps back to Mr. Henderson's row, dropped onto one knee beside the aisle seat, and turned his face three-quarters of the way back toward the front of the bus so he was looking straight into the lens of my mPhone rather than at Mr. Henderson.
 
-Leg 2—our three-minute, one-stop ride eastbound on CVTA Route 800, *The Surge* Light Rail, from Military Highway Station to Newtown Road Station—exposed the second crack in Pierce's rehearsed charm.
+"Folks, look at the calluses on this working man's hands!" Pierce boomed toward my camera, gesturing at Mr. Henderson's knuckles set on the armrest. "When I look into the eyes of a Virginia shipyard patriot like you, sir, I see my own grandfather's lunchpail—"
 
-We had barely rolled across the level boarding threshold into the light-rail vestibule and set our wheel locks when Pierce pulled his own mPhone out of his suit pocket, switched it to the front-facing selfie camera, and stepped directly behind the gap between Katie's wheelchair and mine—leaning down between our shoulders with a thumbs-up grin to snap a photo of himself with our two wheelchairs for his campaign feed without asking either of us.
+"Son," Mr. Henderson interrupted calmly, pulling his hand back onto his lap, "you aren't looking into my eyes. You're looking at the phone on that young man's laptop up front. Sit down before the driver hits the brakes for the interstate ramp, and tell me whether you're voting for or against the chained-CPI cut."
 
-Katie didn't raise her voice, and she didn't turn around. She simply spoke in the calm, unmistakable tone that had silenced unruly Senate committee rooms for seventeen years.
+Pierce's smile flickered. Standing back up as Darnell braked for the red light at Corporate Boulevard, Pierce stepped quickly back to the front perimeter bench.
 
-"Put your phone in your pocket, Congressman," Katie said evenly as the train glided past the sound wall toward Newtown Road Station. "Our wheelchairs are how my brother and I move through the world. They are not props for your campaign feed."
+"I oppose any reduction in promised retirement benefits, sir," Pierce said, smoothing his jacket lapels before glancing at my camera lens again.
 
-In the quiet electric hum of the light-rail car, half a dozen commuters watched Pierce's face turn the color of a stop sign as he hastily shoved his phone back into his jacket.
+At nine-thirty-one, Darnell pulled the Route 15 bus into the transit loop at Military Highway Station. We rolled down the ramp and up the sloped concrete walkway onto the covered island platform for Leg 2: CVTA Route 800, *The Surge* Light Rail.
+
+Two minutes later, the silver-and-blue two-car electric train glided up to the level boarding strip. Katie and I rolled straight through the wide sliding doors into the vestibule mobility bay and locked our brakes as the doors chimed shut for the three-minute, one-stop ride eastbound to Newtown Road Station.
+
+We had barely cleared the station platform when Pierce reached into his jacket pocket, pulled out his own mPhone, switched the screen to the front-facing selfie camera, and stepped directly behind the gap between Katie's wheelchair and mine—leaning down between our shoulders with a thumbs-up grin to snap a photo of himself with our two wheelchairs without asking either of us.
+
+Katie didn't raise her voice, and she didn't turn her head.
+
+"Put your phone in your pocket, Congressman," Katie said evenly over the quiet hum of the electric traction motors. "Our wheelchairs are how my brother and I move through the world. They are not props for your campaign feed."
+
+Across the vestibule, four morning commuters watched in silence as Pierce lowered his arm, clicked his screen off, and slipped the phone back into his coat pocket just as the train glided into Newtown Road Station.
 
 ***
 
-#### Tuesday, February 16, 2044, 10:12 AM — Leg 3 on CVTA Route 25 to CCHR: "I Asked You the Question Myself, Congressman"
+#### Tuesday, February 16, 2044, 9:58 AM — Leg 3 on CVTA Route 25 to CCHR, Leg 4 on Route 12, & Our Decision at Home on Arvin Road
 
-If Pierce had simply humbled himself during our nineteen-minute transfer wait at Newtown Road Station and listened to the passengers on Leg 3, he might still have salvaged a respectable morning.
+After waiting out the nineteen-minute transfer window at the Newtown Road Station bus loop, we rolled up the front ramp of the ten o'clock outbound CVTA Route 25 coach—*GLENROCK / NEWTOWN RD STATION / CCHR VIRGINIA BEACH / PRINCESS ANNE HOSPITAL*—and clicked our floor straps tight for the twenty-three-minute run down Newtown Road and Princess Anne Road toward the Community College of Hampton Roads Virginia Beach Campus.
 
-Instead, twelve minutes after we boarded the ten o'clock outbound CVTA Route 25 coach down Newtown Road and Princess Anne Road toward the Community College of Hampton Roads Virginia Beach Campus, Devon Pierce committed the single most infuriating mistake an able-bodied politician can make in front of disabled people.
+Seated across the aisle just behind the front wheel housing were two siblings who rode Route 25 to campus every Tuesday and Thursday morning: twenty-two-year-old Jasmine, wearing her royal-blue CCHR Nursing polo shirt, and her nineteen-year-old brother Marcus, a sophomore CCHR computer-science student whose collapsible manual wheelchair was fitted with a clamping power-assist joystick mount very much like the backup chairs our dad had bought Katie and me after Hurricane Isabel.
 
-Seated across the aisle just behind the front wheel housing were two siblings who rode Route 25 to campus every Tuesday and Thursday morning: twenty-two-year-old Jasmine, wearing her royal-blue CCHR Nursing clinical polo shirt, and her nineteen-year-old brother Marcus, a second-year CCHR computer-science student whose collapsible manual wheelchair was fitted with a clamping power-assist joystick mount very much like the backup chairs Dad had bought Katie and me after Hurricane Isabel.
+As the bus turned onto Princess Anne Road, Katie smiled down the aisle and introduced Pierce to the Route 25 riders, inviting anyone on board to ask him a question before we reached the college.
 
-When Katie invited the Route 25 passengers to ask questions as we passed Witchduck Road, Marcus raised his left hand clearly.
+Marcus raised his left hand clearly.
 
-"Congressman Pierce," Marcus said, his voice crisp and articulate over the hum of the air conditioning, "when the control module on my wheelchair joystick shorted out last semester, the manufacturer refused to sell the replacement part to our local repair shop in Virginia Beach and locked the diagnostic calibration behind a proprietary dealer code, leaving me stuck for eleven weeks. And when I finish my software engineering degree next year, if I save more than two thousand dollars from my paycheck, federal SSI and Medicaid rules threaten to strip the home-care waiver I use every morning. Will you sign Senator Prairie's Wheelchair Right-to-Repair Act and her SSI Asset Cap Elimination Act?"
+"Congressman Pierce," Marcus said, his voice steady over the hum of the air conditioning, "when the control module on my wheelchair joystick shorted out last semester, the manufacturer refused to sell the replacement part to our local repair shop here in Virginia Beach and locked the diagnostic calibration behind a proprietary dealer code, leaving me waiting eleven weeks for a five-minute repair. And when I finish my software engineering degree next year, if I save more than two thousand dollars in the bank, federal SSI and Medicaid rules threaten to strip the home-care waiver I use every morning. Will you sign Senator Prairie's Wheelchair Right-to-Repair Act and her SSI Asset Cap Elimination Act?"
 
-It was a sharp, policy-specific question from a nineteen-year-old college student with a 3.9 grade-point average.
+Pierce stood up from the perimeter bench with a broad, sympathetic smile, stepped over to their row, patted Marcus once on the shoulder, and looked right over the top of Marcus's head to speak directly to his able-bodied sister Jasmine—while angling his torso back toward my camera.
 
-Devon Pierce didn't even look at Marcus.
+"First of all, young lady, let me just say how deeply inspiring it is that you bring your brother to campus with you every morning so he can be around the college environment," Pierce said in a loud, warm stage voice addressed entirely to Jasmine. "Caregivers like you are the unsung angels of our healthcare system. What's your brother's name, sweetheart, and how long have you been taking care of him?"
 
-Standing up from his seat with a syrupy, benevolent smile plastered across his face, Pierce stepped over to their row, patted Marcus once on the shoulder like a five-year-old child, and looked right over the top of Marcus's head to speak directly to his able-bodied sister Jasmine—while sneaking another glance over his shoulder toward my camera.
+Inside the front half of CVTA Route 25, every conversation stopped dead.
 
-"First of all, young lady, let me just say how deeply inspiring it is that you bring your brother to campus with you every morning so he can be around the college environment," Pierce said in a loud, patronizing stage voice addressed entirely to Jasmine. "Caregivers like you are the unsung angels of our healthcare system. What's your brother's name, sweetheart, and how long have you been taking care of him?"
+Across from me, Katie sat perfectly still in her SwiftChair, her eyes locked on Pierce as she waited to see how Marcus and Jasmine would respond.
 
-Inside the front of CVTA Route 25, the air went dead silent.
+Jasmine didn't say a word. Keeping her hands folded calmly in her lap on the blue vinyl bus seat, she pointed her right index finger six inches to her side—straight at her brother.
 
-Even the hospital nurse in teal scrubs sitting two rows back and the construction worker behind Marcus stopped moving. Across from me, Katie's jaw set like granite, her fingers resting motionless on her SwiftChair joystick as she waited to see how Marcus and Jasmine would handle him.
+Marcus looked up at the forty-four-year-old Congressman with a level, matter-of-fact expression.
 
-Jasmine didn't say a word. Keeping her hands folded calmly in her lap on the vinyl bus seat, she pointed one finger six inches to her right—straight at her brother.
+"My name is Marcus, Congressman," Marcus said clearly into the quiet bus. "I'm a second-year computer-science major at CCHR with a three-point-nine GPA, my sister isn't 'bringing me around the college environment,' and I asked you the question myself. Why are you talking to my sister over my head like I can't speak?"
 
-Marcus stared up at the forty-four-year-old Congressman with a level, devastatingly deadpan expression.
+Pierce froze in the center aisle, his mouth opening slightly as he looked down at Marcus, then at Jasmine, and then back at Katie and me in the front securement bays.
 
-"My name is Marcus, Congressman," Marcus said clearly into the quiet bus. "I'm a sophomore computer-science major at CCHR with a three-point-nine GPA, my sister isn't 'bringing me around the college environment,' and I asked you the question myself. Why are you talking to my sister over my head like I can't speak?"
+"I—of course, Marcus, I was just—I was acknowledging your family's support network," Pierce stammered, his face flushing red as he backed awkwardly into his perimeter seat. "On the—on the repair question, I strongly support bringing medical-device innovators and consumer advocates to the table to streamline warranty turnarounds..."
 
-Pierce froze in the middle of the aisle, his mouth opening and closing as he suddenly realized that Katie, me, Marcus, Jasmine, every commuter on Route 25—and the unblinking lens of my mPhone—were staring straight at him.
+At ten-twenty-three, the Route 25 coach pulled into the CCHR Virginia Beach Campus transit loop on College Crescent. As Marcus and Jasmine rolled down the ramp ahead of us toward the Science and Technology building, Katie called out warmly, "Good luck on your data-structures midterm, Marcus! See you Thursday, Jasmine!"
 
-"I—of course, Marcus, I was just—I was acknowledging your family's support network," Pierce stammered, his telegenic smoothness evaporating into a sheen of flop sweat as he backed awkwardly into his seat. "On the—on the repair issue, I strongly support stakeholder dialogues between medical-device innovators and consumer advocates to streamline warranty turnarounds..."
+"Thanks, Senator Prairie! See you Thursday, Nate!" Marcus called back over his shoulder.
 
-Nobody on the bus bought a single word of it.
+During our twenty-nine-minute transfer wait at the CCHR campus shelter before the ten-fifty-three inbound CVTA Route 12 arrived, Pierce paced back and forth beside the bike racks in the chilly breeze, walking over twice to ask me whether I edited the videos before posting them.
 
-When the Route 25 coach pulled into the CCHR Virginia Beach Campus transit loop at ten-twenty-three and Marcus and Jasmine rolled down the ramp ahead of us toward the Science and Technology building, Katie called out warmly, "Good luck on your data-structures midterm, Marcus! See you Thursday, Jasmine!"
+"We don't edit anything, Congressman," I told him politely.
 
-"Thanks, Senator Prairie! See you Thursday, Nate!" Marcus grinned back over his shoulder, leaving Devon Pierce standing on the concrete sidewalk beside the CCHR bus shelter for the longest twenty-nine-minute transfer layover of his political career.
+On the twenty-seven-minute inbound Route 12 ride back along Lynnhaven Parkway, Kempsville Road, and Indian River Road, Pierce stayed seated quietly on the perimeter bench, answering a retired postal clerk's question about prescription drug prices in two short sentences before looking out the window the rest of the way to Military Highway.
 
-Unlike Harrison Caldwell, Pierce didn't dare call an SUV to rescue him at CCHR—he knew walking out early would look even worse—so he spent all twenty-nine minutes pacing in tight circles by the campus bike racks in the chilly wind, trying three separate times to explain to Katie and me that he "hadn't meant anything by it" and asking if I could "trim that little misunderstanding on Route 25 out of the final video edit."
+When the Route 12 ramp deployed back at Stop #0812 at eleven-twenty, Pierce shook Katie's hand and mine on the sidewalk.
 
-"We don't edit the videos, Congressman," I told him flatly without looking up from my MagnaBook keyboard. "And we only upload a video at all if Katie decides to endorse the candidate."
+"Senator, Nate—thank you for taking me out on the routes today," Pierce said earnestly. "I hope you know my heart is in the right place for working families and the disability community, and I'd be honored to have your support."
 
-During the twenty-seven-minute inbound ride on the ten-fifty-three CVTA Route 12 back along Lynnhaven Parkway, Kempsville Road, and Indian River Road to Stop #0812, Devon Pierce barely spoke above a whisper. When the ramp deployed back at Military Highway and Indian River Road at eleven-twenty, Katie thanked him politely for his time, wished him a safe flight back to California, and waited until his car pulled out of the lot before turning her wheelchair toward mine.
+"Thank you for riding the loop with us, Congressman," Katie replied evenly. "Have a safe flight back to California."
 
-"Private archive folder, Nate," Katie said quietly.
+Once Pierce walked across the Indian River Road crosswalk to meet his press secretary, Katie and I turned our SwiftChairs down the sidewalk and rolled home to our brick ranch house on Arvin Road.
 
-"Already moved," I replied, tapping the touchpad and reaching across our flipped-up armrests to give my twin sister a warm squeeze before we rolled home for lunch. "Two walkouts, one cancellation, and two disasters on the bus. We have one appointment left on Thursday morning—Governor Elena Delgado of Michigan."
+Inside our living room, after taking off our winter jackets, Katie and I parked our wheelchairs side by side near the window and talked it over quietly between the two of us.
 
-"Does she have any idea she's getting on a bus?" Katie asked as we crossed Indian River Road toward Arvin Road.
+"He looked right over Marcus's head and asked Jasmine what his name was," Katie said softly, her voice tight with the shared memory of every stranger who had ever patted our heads or talked over our wheelchairs to Dad when we were growing up. "And on The Surge, he tried to take a selfie with our chairs without even asking us."
 
-"Not a clue," I smiled. "She got the exact same two-line address for 812 North Military Highway that everybody else got."
+"And on Route 15, he knelt in the aisle and talked to my camera lens instead of looking Mr. Henderson in the eye," I added. "Are we agreed on Congressman Pierce?"
 
-### Part 3: The Unannounced Passenger & The Video Title That Decided 2044
+"We're agreed," Katie nodded firmly. "No endorsement."
+
+I moved the February 16 video file into our offline archive drive and closed my laptop lid. Only one appointment remained on our calendar for Thursday morning at nine-ten: Governor Elena Delgado of Michigan.
+
+### Part 3: The Thursday Morning Loop: Governor Elena Delgado & The Six O'Clock Upload
 
 **Date:** 2044-02-18 at 09:10 America/New_York
 
 ![Aboard a regularly scheduled Coastal Virginia Transit Authority bus in Virginia Beach on Thursday morning, February 18, 2044, 58-year-old three-term U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their brushed-silver and black SwiftChair power wheelchairs in the front ADA securement bays as Nate films on his mPhone while Katie encourages everyday bus passengers—a hospital worker in teal scrubs, a shipyard tradesman, and a CCHR college student in a wheelchair—to ask unscripted questions directly to 54-year-old Governor Elena Delgado seated across the aisle.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_cvta_bus_presidential_endorsement_interview_katie_nate.jpg)
 
-#### Thursday, February 18, 2044, 9:10 AM — "Hold My Binder, Carla": Stop #0812 & Leg 1 Aboard CVTA Route 15 to Military Highway Station
+#### Thursday, February 18, 2044, 9:10 AM — Stop #0812 & Leg 1 Aboard CVTA Route 15 to Military Highway Station
 
 ![Aboard a regularly scheduled Coastal Virginia Transit Authority bus in Virginia Beach on Thursday morning, February 18, 2044, 58-year-old three-term U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their brushed-silver and black SwiftChair power wheelchairs in the front ADA securement bays as Nate films on his mPhone while Katie encourages everyday bus passengers—a hospital worker in teal scrubs, a shipyard tradesman, and a CCHR college student in a wheelchair—to ask unscripted questions directly to 54-year-old Governor Elena Delgado seated across the aisle.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_cvta_bus_presidential_endorsement_interview_katie_nate.jpg)
 
 "Good morning, Senator Prairie! Good morning, Nate! Are we meeting in the corner office behind the dry cleaner, or is the entrance around back?"
 
-At ten minutes past nine on a crisp, forty-six-degree Thursday morning—February 18, 2044—fifty-four-year-old Governor Elena Delgado of Michigan stepped onto the concrete sidewalk at 812 North Military Highway wearing a sensible navy wool peacoat, flat walking shoes, and a knit scarf, carrying a standard black leather briefing binder tucked under one arm and a worn canvas tote bag over her shoulder.
-
-Just like Senator Vance, Governor Caldwell, and Congressman Pierce before her, Elena Delgado had arrived at the intersection of Military Highway and Indian River Road with zero warning that she was about to get on a bus. Because she was running a shoestring grassroots campaign funded by small-dollar teachers', nurses', and transit workers' donations—and wasn't plugged into the high-priced Washington consultant grapevine—nobody had tipped her off about what *Marker #0812* actually meant.
+At ten minutes past nine on a crisp, forty-six-degree Thursday morning—February 18, 2044—fifty-four-year-old Governor Elena Delgado of Michigan stepped onto the concrete sidewalk at the northeast corner of Military Highway and Indian River Road wearing a sensible navy wool peacoat, flat walking shoes, and a knit scarf, carrying a black leather briefing binder tucked under one arm and a worn canvas tote bag over her shoulder.
 
 "Neither one, Governor Delgado," fifty-eight-year-old Katie smiled from her SwiftChair, reaching up to tap the blue-and-white metal bus stop sign bolted to the pole beside her wheel: *CVTA STOP #0812 — MILITARY HWY & INDIAN RIVER RD (ROUTES 12, 15)*. "This is Marker #0812. Our nine-eighteen northbound Route 15 bus is pulling up to the signal right now. We're riding the 15 up to Military Highway Station, taking Route 800—The Surge Light Rail—one stop to Newtown Road Station, catching the ten o'clock Route 25 down to the Community College of Hampton Roads Virginia Beach Campus, waiting twenty-nine minutes at the campus bus loop, and transferring to the ten-fifty-three Route 12 back here to Stop #0812. You have the length of that trip to ask for my endorsement, your chief of staff stays here, and every passenger on the buses and the train is invited to ask you questions."
 
 For two full seconds, Elena Delgado stood motionless on the Virginia Beach sidewalk, looking from the blue metal bus stop pole to our two wheelchairs, and then down Military Highway at the forty-foot blue-and-silver CVTA Route 15 coach signaling into the right-hand curb lane behind a postal worker and two hospital aides.
 
-Then, right there on the corner of Military Highway and Indian River Road, the former public-school special-education teacher threw her head back and laughed—a warm, genuine, delighted laugh that made both Katie and me grin from ear to ear.
+Then, right there on the corner of Military Highway and Indian River Road, she threw her head back and laughed—a warm, genuine, delighted laugh that made both Katie and me smile.
 
-"A two-hour city bus and light-rail loop with the regular morning riders instead of a stuffy hotel conference room?" Delgado beamed, turning on her heel to hand her thick leather briefing binder straight back to her wide-eyed chief of staff waiting at the edge of the crosswalk. "Hold my binder, Carla, and go grab yourself some breakfast—I won't need talking points where we're going! Tell the hotel I'll be back around noon!"
+"A two-hour city bus and light-rail loop with the regular morning riders instead of a stuffy conference room?" Delgado grinned, turning on her heel to hand her thick leather briefing binder straight back to her wide-eyed chief of staff waiting at the edge of the crosswalk. "Hold my binder, Carla, and go grab yourself some breakfast—I won't need talking points where we're going! Tell the hotel I'll be back around noon!"
 
-Turning back toward the curb as the Route 15 bus hissed to a stop and kneeled its front air suspension, Delgado unsnapped her wallet inside her canvas tote bag, pulled out four crisp one-dollar bills and two quarters without even having to ask what a bus farebox took, and stepped aside so the postal worker, the hospital aides, and our two wheelchairs could board ahead of her.
+Turning back toward the curb as the Route 15 bus hissed to a stop and kneeled its front air suspension, Delgado unsnapped her wallet inside her canvas tote bag, pulled out four one-dollar bills and two quarters, and stepped aside so the postal worker, the hospital aides, and our two wheelchairs could board ahead of her.
 
 *Caution: bus is kneeling! Caution: ramp is deploying!*
 
-Our driver—veteran TWU Local 1177 operator Darnell, who had already watched Harrison Caldwell argue with his farebox and Devon Pierce mug for my camera over the past two Tuesdays—raised both eyebrows when he saw the Governor of Michigan step up to his farebox behind our two SwiftChairs, feed four singles and two quarters cleanly into the slot for a four-dollar-and-fifty-cent 1-Day CVTA GoPass card, and say, "Good morning, sir—thank you for driving."
+Our driver Darnell raised both eyebrows when he saw the Governor of Michigan step up to his farebox behind our two SwiftChairs, feed four singles and two quarters cleanly into the slot for a four-dollar-and-fifty-cent 1-Day CVTA GoPass card, and say, "Good morning, sir—thank you for driving."
 
 Once Katie and I backed our SwiftChairs into the two opposing front ADA securement bays and clicked our SafeLock floor straps tight, Katie looked down the center aisle as the bus pulled away from Stop #0812 and accelerated north up Military Highway toward the Interstate 264 interchange.
 
-"All right, everybody on the nine-eighteen northbound Route 15!" Katie called out warmly. "This is Governor Elena Delgado of Michigan, and she's running for President of the United States. She had no idea she was getting on a bus until two minutes ago, and she's riding with Nate and me all the way up to Military Highway Station, over on The Surge to Newtown Road, down Route 25 to CCHR, and back on the Route 12 to ask for my endorsement. Since this is regularly scheduled public transit, anybody on board is welcome to raise your hand and ask her whatever is on your mind!"
+"Good morning, everybody on the nine-eighteen northbound Route 15!" Katie called out warmly. "This is Governor Elena Delgado of Michigan, and she's running for President of the United States. She's riding with Nate and me up to Military Highway Station, over on The Surge to Newtown Road, down Route 25 to CCHR, and back on the Route 12 to ask for my endorsement. Nobody gave her any questions in advance—so if you have a question for somebody who wants to be your next President, raise your hand and ask away!"
 
-Halfway down the bus, a forty-five-year-old marine pipefitter in a heavy canvas jacket with a shipyard badge clipped to his collar grinned and raised his hand before we even passed Elizabeth River Way.
+Halfway down the bus, a forty-five-year-old marine pipefitter in a heavy canvas jacket with a shipyard badge clipped to his collar raised his hand before we even passed Elizabeth River Way.
 
 "I'll go first, Senator!" the pipefitter called out over the diesel hum as Governor Delgado sat down in the sideways perimeter seat across from our wheelchairs, tucked her canvas tote bag between her flat shoes, and turned to look directly at the pipefitter—never once glancing at the mPhone mounted on my MagnaBook Pro. "Governor, my wife works at Lake Taylor Transitional Care Hospital and I work the early shift in the yards. Back in twenty-seven, Garrett Thorne and Bret Halverson treated defense workers and sailors in Hampton Roads like stage props while steering four hundred million dollars to offshore shell companies—and then corporate Democrats come down here and talk about cutting transit operating aid to balance the budget. If you're President, what happens to the shipyard workforce and the buses my wife rides to the hospital?"
 
-Leaning forward with her hands clasped loosely over her knees as the bus rolled past the car dealerships on Military Highway, Delgado answered him straight on:
+Leaning forward with her hands clasped loosely over her knees as the bus rolled past the car dealerships on Military Highway, Delgado answered him directly:
 
 "First, not a single shipyard contract leaves public accountability on my watch—every dollar of Navy fleet maintenance and submarine construction stays tied to union prevailing-wage standards and domestic audit trails like the ones Senator Prairie and Nate wrote into the 2028 Defense Logistics Transparency Act," Delgado said clearly. "And second, a bus without a driver and fuel is just a paperweight. For forty years Washington loved cutting ribbons on capital projects while starving local transit agencies of the day-to-day operating money required to pay operators like our driver up front and run buses every fifteen minutes instead of once an hour. If Senator Prairie puts the Universal Transit Operating Partnership Act on my desk in the Oval Office, I'll sign it the same afternoon."
 
@@ -9966,7 +9983,7 @@ Two minutes later, the dual overhead catenary wires hummed, a bell chimed twice,
 
 Because the platform height matched the train floor to the millimeter, Katie and I rolled straight through the wide double sliding doors without needing a lift or ramp, locking our SwiftChair brakes in the open mobility bay just inside the vestibule as the doors chimed shut and the electric traction motors hummed eastbound along the rail right-of-way.
 
-Unlike Harrison Caldwell—who had mocked the three-minute, one-stop ride from Military Highway Station to Newtown Road Station as "an inefficient trolley"—and unlike Devon Pierce, who had tried to use our wheelchairs for a campaign selfie, Elena Delgado stood by the window handhold looking south across the interstate sound wall toward the Norfolk–Virginia Beach city line.
+Standing by the window handhold, Elena Delgado looked south across the interstate sound wall toward the Norfolk–Virginia Beach city line.
 
 "Look out that window, Elena," Katie said as the train glided smoothly at forty-five miles an hour. "This light-rail line opened in 2011 and stops dead right here at Newtown Road on the city line because for decades suburban politicians used coded fearmongering about 'who rides public transit' to block regional rail from crossing into Virginia Beach cleanly. Every time a working mother or a wheelchair user has to get from Norfolk to the community college or the hospital in Virginia Beach, they have to roll off this train at Newtown Road Station and wait in the weather for an hourly bus."
 
@@ -9978,65 +9995,67 @@ Sitting across from our chairs in the vestibule, a twenty-nine-year-old paralega
 
 Stepping off *The Surge* at Newtown Road Station at nine-forty-one, we rolled across the brick bus loop to the Route 25 shelter for our nineteen-minute transfer wait.
 
-Instead of checking her watch, Elena Delgado sat right down on the perforated metal bus bench beside our two SwiftChairs, pulled a small spiral notebook out of her canvas tote bag, and spent all nineteen minutes talking with a retired Navy hull technician waiting for the bus and asking me how our PHP and SQL accessibility auditing scripts tested federal agency websites for screen-reader and keyboard-navigation compliance.
+Delgado sat right down on the perforated metal bus bench beside our two SwiftChairs, pulled a small spiral notebook out of her canvas tote bag, and spent all nineteen minutes talking with a retired Navy hull technician waiting for the bus and asking me how our PHP and SQL accessibility auditing scripts tested federal agency websites for screen-reader and keyboard-navigation compliance.
 
 At nine-fifty-eight, the forty-foot CVTA Route 25 coach—*GLENROCK / NEWTOWN RD STATION / CCHR VIRGINIA BEACH / PRINCESS ANNE HOSPITAL*—pulled into the bay and kneeled.
 
-Because CVTA had zero advance notice that we were riding, the bus that pulled up on Route 25 was a twelve-year-old workhorse coach whose hydraulic front wheelchair ramp gave a stubborn metallic click halfway out and stalled two inches above the concrete curb.
+Because CVTA had zero advance notice that we were riding, the bus that pulled up on Route 25 was a twelve-year-old coach whose hydraulic front wheelchair ramp gave a stubborn metallic click halfway out and stalled two inches above the concrete curb.
 
-While the operator—a veteran driver named Terrance—flipped the ramp reset switch to cycle the hydraulic arm a second time, Delgado didn't flinch or make an awkward joke. She simply stepped smoothly to the side of the open front doorway to block the cold crosswind for an elderly woman seated near the farebox until the ramp settled flat against the concrete on the second cycle and Katie and I rolled aboard.
+While the operator—a veteran driver named Terrance—flipped the ramp reset switch to cycle the hydraulic arm a second time, Delgado stepped smoothly to the side of the open front doorway to block the cold crosswind for an elderly woman seated near the farebox until the ramp settled flat against the concrete on the second cycle and Katie and I rolled aboard.
 
-And sitting right across the aisle behind the front wheel well—on their regular Tuesday-Thursday morning commute to the Community College of Hampton Roads Virginia Beach Campus—were twenty-two-year-old Jasmine in her royal-blue CCHR Nursing polo shirt and her nineteen-year-old brother Marcus in his manual wheelchair with its clamping power-assist joystick attachment.
+Sitting right across the aisle behind the front wheel well—on their regular Tuesday-Thursday morning commute to the Community College of Hampton Roads Virginia Beach Campus—were twenty-two-year-old Jasmine in her royal-blue CCHR Nursing polo shirt and her nineteen-year-old brother Marcus in his manual wheelchair with its clamping power-assist joystick attachment.
 
-When Katie introduced Governor Delgado to the Route 25 riders and invited questions as the bus turned onto Princess Anne Road, Marcus raised his hand—testing the Governor of Michigan with the exact same question that had exposed Devon Pierce two days earlier.
+When Katie introduced Governor Delgado to the Route 25 riders and invited questions as the bus turned onto Princess Anne Road, Marcus raised his hand.
 
 "Governor Delgado," Marcus said clearly, "when the controller module on my wheelchair joystick broke last autumn, the manufacturer locked the diagnostic software behind a proprietary dealer code and made me wait eleven weeks for a five-minute repair—and if I earn more than two thousand dollars in my summer software-engineering internship, Medicaid and SSI threaten to cut off my home-and-community-based personal-care waiver. What are you going to do about both of those?"
 
-Delgado didn't stand up to perform for my camera, she didn't touch Marcus's wheelchair, and she never once looked over Marcus's head at his sister. Staying seated on the perimeter bench across the aisle so she was looking straight into Marcus's eyes on a dead-level plane, she spoke to him as one adult professional to another.
+Delgado stayed seated on the perimeter bench across the aisle so she was looking straight into Marcus's eyes on a level plane, speaking directly to him.
 
-"Marcus, locking a person's mobility hardware behind proprietary software DRM so an independent repair shop in Virginia Beach can't swap out a controller module should be illegal under federal law," Delgado said, her voice steady and fierce. "Senator Prairie and Nate have been fighting the durable-medical-equipment lobby for six years to pass the National Wheelchair Right-to-Repair and 48-Hour Loaner Mandate Act. As President, I won't even wait for the lobbyists to stall in committee: on Day One, my Center for Medicare and Medicaid Services Administrator will issue a binding national procurement rule prohibiting Medicare and Medicaid from reimbursing any wheelchair manufacturer that refuses to provide open diagnostic codes, schematics, and at-cost replacement parts to wheelchair users and independent repair techs."
+"Marcus, locking a person's mobility hardware behind proprietary software DRM so an independent repair shop in Virginia Beach can't swap out a controller module should be illegal under federal law," Delgado said, her voice steady and clear. "Senator Prairie and Nate have been fighting the durable-medical-equipment lobby for six years to pass the National Wheelchair Right-to-Repair and 48-Hour Loaner Mandate Act. As President, I won't even wait for the lobbyists to stall in committee: on Day One, my Center for Medicare and Medicaid Services Administrator will issue a binding national procurement rule prohibiting Medicare and Medicaid from reimbursing any wheelchair manufacturer that refuses to provide open diagnostic codes, schematics, and at-cost replacement parts to wheelchair users and independent repair techs."
 
-Marcus's eyebrows went up, and beside him, Jasmine smiled broadly.
+Marcus's eyebrows went up, and beside him, Jasmine smiled warmly.
 
 "And on your second question," Delgado continued, keeping her eyes locked with Marcus's as the Route 25 bus crossed Lynnhaven Parkway toward the CCHR campus, "forcing disabled Americans to stay trapped in enforced poverty with less than two thousand dollars in the bank just to keep the Medicaid personal-care waivers or SSI benefits you need to get dressed and go to work is cruel and backwards. When Jasmine finishes her nursing degree and you finish your software engineering degree, you should be able to take that internship, save for a home, and get married one day without ever losing a single hour of your personal-care waiver. Send me Senator Prairie's SSI and Medicaid Waiver Freedom to Work and Marry Act, and I will sign it."
 
-"Thank you, Governor," Marcus said, nodding with genuine respect as the front half of the Route 25 bus applauded. "That's the first straight answer I've heard all week."
+"Thank you, Governor," Marcus said, nodding as the front half of the Route 25 bus applauded. "That's the first straight answer I've heard all week."
 
 ***
 
-#### Thursday, February 18, 2044, 10:53 AM — Leg 4 on Route 12 Back to Stop #0812 & The Quiet Upload at 6:00 PM
+#### Thursday, February 18, 2044, 10:53 AM — Leg 4 on Route 12 Back to Stop #0812, Our Decision at Home on Arvin Road, & The Quiet Upload
 
 At ten-twenty-three, the Route 25 coach pulled into the CCHR Virginia Beach Campus transit loop on College Crescent.
 
 Because CVTA Route 12 (*South Norfolk / CCHR Virginia Beach*) operated on a sixty-minute headway, the next inbound Route 12 bus back toward Military Highway and Indian River Road wasn't scheduled to depart the campus loop until ten-fifty-three—twenty-nine minutes away.
 
-Instead of complaining about the wait or calling her chief of staff to pick her up, Elena Delgado walked inside the student center lobby beside our wheelchairs, bought three bags of salted pretzels and three bottles of cold ginger ale from the vending machines with her own dollar bills, and came right back outside to the CCHR bus shelter. For the next twenty-five minutes, sitting on the bench beside our two SwiftChairs with a pretzel in her hand while students walked past between classes, she asked Katie and me about our 2003–2005 classes in the Information Systems lab across the quad, listened to how our dad had gone back to college right here at CCHR after seeing our seventh-grade HTML homework at Morrison Middle School, and chatted with a fifty-year-old custodial worker waiting for the ten-fifty-three bus.
+Walking inside the student center lobby beside our wheelchairs, Elena Delgado bought three bags of salted pretzels and three bottles of cold ginger ale from the vending machines with her own dollar bills and came right back outside to the CCHR bus shelter. For the next twenty-five minutes, sitting on the bench beside our two SwiftChairs with a pretzel in her hand while students walked past between classes, she asked Katie and me about our 2003–2005 classes in the Information Systems lab across the quad, listened to how our dad had gone back to college right here at CCHR after seeing our seventh-grade HTML homework at Morrison Middle School, and chatted with a fifty-year-old custodial worker waiting for the ten-fifty-three bus.
 
 At ten-fifty-three on the dot, we boarded the inbound CVTA Route 12 coach and rode the final twenty-seven minutes west along Princess Anne Road, up Lynnhaven Parkway and Kempsville Road, and onto Indian River Road—where Delgado fielded three more unscripted questions from a preschool teacher, a retired Navy electrician, and a grocery clerk before I reached up from my SwiftChair and pressed the yellow stop-request strip just past Kempsville Plaza.
 
 At eleven-twenty, the Route 12 bus pulled to the curb right in front of the blue metal sign at Stop #0812 at Military Highway and Indian River Road, completing our two-hour-and-two-minute four-seat circle.
 
-As we rolled down the front ramp onto the concrete sidewalk and the Route 12 bus merged back into traffic, Elena Delgado didn't ask if she had passed the audition, and she didn't ask Katie to make an announcement for the cameras. She simply shook Katie's hand and mine with both of hers.
+As we rolled down the front ramp onto the concrete sidewalk and the Route 12 bus merged back into traffic, Elena Delgado shook Katie's hand and mine with both of hers.
 
-"Thank you both for taking me on your loop today, Katie, Nate," Delgado said warmly as she spotted her chief of staff Carla walking over from the coffee shop across the intersection with her discarded leather binder. "Even if you decide to endorse somebody else, those two hours on the 15, The Surge, the 25, and the 12—and meeting Marcus and Jasmine at CCHR—were the best two hours I've spent on this entire campaign."
+"Thank you both for taking me on your loop today, Katie, Nate," Delgado said warmly as she spotted her chief of staff Carla walking over from the coffee shop across the intersection with her leather binder. "Whatever you two decide, those two hours on the 15, The Surge, the 25, and the 12—and meeting Marcus and Jasmine at CCHR—were the best two hours I've spent on this entire campaign."
 
 "Thank you for riding with us, Elena," Katie smiled from her wheelchair, giving nothing away on the sidewalk. "Have a safe flight back to Michigan."
 
-We didn't call a press conference. We didn't send out a media advisory, we didn't notify the Democratic National Committee, and Katie didn't record a single sentence of formal endorsement commentary at the bus stop.
+Once Elena Delgado and her chief of staff walked back across the crosswalk toward their sedan, Katie and I turned our SwiftChairs down the sidewalk, rounded the corner onto Indian River Road, and rolled home to our brick ranch house on Arvin Road.
 
-Instead, Katie and I rolled quietly back around the corner to our brick ranch house at 737 Arvin Road, made grilled cheese sandwiches and tomato soup for lunch, and transferred the raw, unedited two-hour-and-two-minute video file from my mPhone onto my MagnaBook Pro.
+Inside, after we hung up our coats, made grilled cheese sandwiches and tomato soup in the kitchen, and sat down across from each other at our dining room table, Katie looked across at me.
 
-That evening at six o'clock, sitting side by side in our SwiftChairs at our dining room table while the national political press corps was still speculating on cable television about which candidate Senator Katie Prairie might eventually back, I logged into our official *Accessibility Project* channel on StreamCast, The Grid, and Chirp.
+"Well, Nate?" Katie asked quietly. "What do you think?"
 
-With zero fanfare, zero promotional graphics, and zero cuts—starting from the exact second Elena Delgado laughed at Stop #0812 and handed her leather binder back to her aide, all the way through Route 15, one stop on Route 800 *The Surge* Light Rail, Route 25 to CCHR, the twenty-nine-minute pretzel break at the campus shelter, and Route 12 back to Stop #0812—I quietly uploaded the raw two-hour video and typed the plain-text title that told the entire country everything they needed to know:
+"She handed her briefing binder back to her chief of staff without blinking, paid her own four-dollar-and-fifty-cent fare at the box, blocked the cold wind for an older passenger while Terrance cycled the sticky ramp on Route 25, and looked Marcus straight in the eye as an equal," I said, smiling across the table at my twin sister. "And she never once looked at my camera lens the entire two hours."
+
+"Not once," Katie beamed, her blue eyes shining as she reached across the table to lace her fingers through mine. "She's the one, Nate. Are we agreed?"
+
+"One hundred percent agreed," I said.
+
+We didn't call a press conference, we didn't send a media advisory to the cable networks, and we didn't even call Elena Delgado's campaign manager to give them a heads-up.
+
+Instead, sitting right there beside Katie at our dining room table on Arvin Road, I transferred the raw, unedited two-hour-and-two-minute video file from my mPhone onto my MagnaBook Pro, logged into our channel on StreamCast, The Grid, and Chirp, and quietly uploaded the entire bus ride with zero fanfare—typing a single plain-text video title so that the title itself told the world who Katie was endorsing for President of the United States:
 
 *Why I Am Endorsing Elena Delgado for President of the United States — A Two-Hour Ride on CVTA Routes 15, 800 (The Surge), 25, & 12 from Stop #0812*
 
-I clicked *Publish*.
-
-Within ninety seconds, every political desk in Washington, New York, and Virginia broke into live programming. By midnight, our unedited bus ride had fourteen million views; by June, Elena Delgado had clinched the Democratic nomination; and that November, she was elected the next President of the United States.
-
-And seven months later—on Tuesday afternoon, January 3, 2045, after eighteen years in the United States Senate—fifty-nine-year-old Katie and I rode the afternoon train and bus home from Washington for the last time as Senate insiders, hung up her official title for good, and opened a brand-new folder on our laptops containing our special-deputized credentials as undercover transit accessibility auditors for the United States Department of Justice and the Federal Transit Administration.
-
-Before we packed our backpacks for our very first anonymous undercover bus audit the next morning, Katie and I parked our two SwiftChairs side by side in our living room, flipped both inner armrests up out of the way, and wrapped our arms tightly around each other in a long, quiet, deep-pressure hug—two twins who had never left each other behind, ready for the next bus on the schedule.
+Katie leaned her wheelchair in beside mine, rested her cheek against my shoulder, and watched as I clicked *Publish*.
 
