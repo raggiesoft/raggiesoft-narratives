@@ -10437,7 +10437,103 @@ Katie didn't even look up from the Appropriations Subcommittee markup packet ope
 
 ## Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop
 
-### Part 1: The Biggest Prize in the Primary: Sam, Mandy, & Sarah's Bus-Loop Plan & Stop #0812
+### Part 1: Refusing the 2045 Presidency From Home, Five Statutory Shields Against the Bubble, & Out of the Closet Into Our Four-Person Nest
+
+**Date:** 2043-10-24 at 16:30 America/New_York
+
+![On a warm October 2043 evening inside their Virginia Beach home on Arvin Road, 58-year-old Nathaniel Prairie relaxes happily in the middle of a custom wheelchair-transfer-height four-person cuddle nest platform bed in cozy grey plaid flannel sleepwear atop a patchwork navy-and-cream quilt, cuddling with the three women he loves—his 61-year-old paternal cousin Chelsea in cream knit sleepwear resting her head contentedly on his right shoulder, his 58-year-old twin sister Katie in lavender knit sleepwear leaning against his left shoulder holding his left hand, and his 58-year-old maternal cousin Brittany in burgundy flannel sleepwear and thin silver wire-rimmed oval glasses hugging Katie's shoulder—while Katie and Nate's two SwiftChair power wheelchairs sit parked beside the bed and Chelsea's two asthma inhalers rest on the headboard shelf.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/oct_2043_arvin_road_four_person_cuddle_nest_katie_nate_brittany_chelsea.jpg)
+
+#### Saturday, October 24, 2043, 4:30 PM — Our Living Room on Arvin Road: Quietly Recording Our Refusal Surrounded by Family & Signing Five Shields Against the Bubble
+
+![On a warm October 2043 evening inside their Virginia Beach home on Arvin Road, 58-year-old Nathaniel Prairie relaxes happily in the middle of a custom wheelchair-transfer-height four-person cuddle nest platform bed in cozy grey plaid flannel sleepwear atop a patchwork navy-and-cream quilt, cuddling with the three women he loves—his 61-year-old paternal cousin Chelsea in cream knit sleepwear resting her head contentedly on his right shoulder, his 58-year-old twin sister Katie in lavender knit sleepwear leaning against his left shoulder holding his left hand, and his 58-year-old maternal cousin Brittany in burgundy flannel sleepwear and thin silver wire-rimmed oval glasses hugging Katie's shoulder—while Katie and Nate's two SwiftChair power wheelchairs sit parked beside the bed and Chelsea's two asthma inhalers rest on the headboard shelf.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/oct_2043_arvin_road_four_person_cuddle_nest_katie_nate_brittany_chelsea.jpg)
+
+"They asked if the four of you could meet eleven governors and the national party chair at the Military Highway bus shelter on Monday morning with a live satellite truck," forty-one-year-old Sam Hawkins said from our dining room table on Arvin Road, resting his hand atop five thick manila folders stacked neatly beside Mandy's notary seal and Sarah's express-mail labels. "I told them no satellite trucks, no bus-stop press scrums, and nobody coming near your house."
+
+"Thank you, Sam," fifty-eight-year-old Katie said softly from her brushed-silver and black SwiftChair, glancing warmly over her shoulder toward our living room sofa.
+
+Seated side by side on the deep cushions in warm autumn sweaters were the other two halves of our four-person household: our fifty-eight-year-old maternal cousin Brittany, adjusting her thin silver wire-rimmed glasses as she tucked a soft fleece throw across her lap and her cousin's knees, and our sixty-one-year-old paternal cousin Chelsea, whose silver-streaked chestnut hair rested happily against Brittany's shoulder while she held her stuffed plush sea turtle in one hand and kept her maintenance and rescue asthma inhalers tucked safely in her cardigan pocket.
+
+"Nate?" Chelsea asked in her soft, slurred voice, looking up anxiously when she heard the words *satellite truck*. "Loud people aren't coming here, right?"
+
+Rolling my SwiftChair right up beside the end of the sofa so Chelsea could immediately reach out and hold my forearm with both hands, I smiled reassuringly at her.
+
+"Nobody loud is coming anywhere near our door, Chelsea," I promised gently. "Just Sam, Mandy, and Sarah—and the four of us."
+
+Chelsea let out a happy sigh and leaned her cheek against my sleeve, while Brittany smiled across at Katie and me with quiet gratitude shining behind her wire-rimmed lenses.
+
+If anybody had told seventeen-year-old Katie and me behind our locked bedroom door on New Year's Eve of 2002—or told nineteen-year-old me shivering outside the weathered public-housing buildings on Dirty Old Tonomy Hill in Newport, Rhode Island on Christmas Eve of 2004—that at fifty-eight years old all four of us would be living together full-time as one inseparable family, split seamlessly between Arvin Road here in Virginia Beach and Sunset Drive up in Alexandria whenever the Senate was in session, neither of us would have dared to believe it.
+
+After Aunt Elizabeth and Grandma died in 2004, Chelsea had tried living on her own in that ground-floor Rhode Island apartment, just as she was doing during that awful Christmas when Tiffany screamed at both of us. Because Chelsea is severely developmentally disabled, living alone had never worked out. Worse, before Katie and I found out what Rhode Island social services had done after her lease ended, Chelsea had been placed inside an understaffed group home up north whose workers shouted at her, locked away her belongings, and neglected her chronic asthma. The afternoon Katie and I uncovered what was happening to our only paternal cousin, we dropped everything, went straight up to Rhode Island, pulled a sobbing, wheezing Chelsea out of that abusive group home for good, and brought her home to Virginia so nobody would ever mistreat or abandon her again.
+
+And in March of 2016—fourteen years after the drunken New Year's Eve betrayal that we thought had ended Brittany's place in our lives forever—our maternal cousin had found her way home too. Watching the viral video of thirty-year-old Katie fearlessly ripping apart House Bill 663 on the floor of the Virginia House of Delegates in February of 2016 had shattered the fog Brittany had been trapped inside for years, right as Tyler—one of the very same wrong-crowd guys from our Northwood High School days—was pressuring her into marrying him on Saturday, March 19, 2016, the first weekend after the Virginia General Assembly adjourned for the spring and two days before Brittany's thirty-first birthday on March 21st. When I rolled into the back of that chapel and spoke up—*"I object!"*—the moment the officiant asked anyone with just cause to speak now or forever hold their peace, Brittany had looked straight past Tyler into my eyes, realized I was right to object, broken down in tears, and told the officiant right there at the altar to stop the wedding because she wanted to go live with her cousin, just as she had promised back in high school.
+
+Twenty-seven years later, the four of us had never lived apart for a single night—traveling together in our accessible van between Arvin Road and Sunset Drive so Chelsea's routine never broke and Brittany was always right beside us. Dragging Chelsea out to a noisy intersection full of shouting political reporters just so Katie could turn down a presidential draft movement she had never asked for was out of the question.
+
+Even more than that, Katie and I knew firsthand what winning the 2044 presidential election and taking the oath on January 20, 2045 would actually do to the four of us.
+
+"Mandy, is the tripod level?" Katie asked, rolling her SwiftChair into position right beside mine directly in front of the living room sofa so Brittany could rest her left hand warmly on Katie's shoulder while Chelsea held tight to my left arm from the cushion behind me.
+
+"Dead level, Senator," Mandy said softly, checking the frame on my mPhone mounted beside the dining table. "Just the four of you in your own living room—zero campaign banners, zero podiums."
+
+"Before we hit record," Katie said, turning her head slightly toward Sam, Mandy, and Sarah with the thorough legislative caution that had defined all eighteen years of her three Senate terms, "walk Nate and Brittany and me through the five folders one last time. If we upload this video tonight, who has to receive formal legal notice on Monday morning so that no draft committee, no state primary ballot, and no federal agency can ever wrap the four of us into the Secret Service bubble during the 2044 election?"
+
+Sam picked up the five folders in order, ticking each one off cleanly.
+
+"Folder One goes by courier Monday morning to the Secretary of Homeland Security and all five congressional leaders on the candidate-protection advisory committee under Title 18, Section 3056(a)(7)," Sam explained. "While a sitting President or Vice President is barred by statute from refusing Secret Service protection, Section 3056(a) explicitly provides that major-candidate protection may be declined. Your signed letter puts Homeland Security and the Senate and House leadership on formal advance notice that you are not a candidate for President or Vice President in 2044—and that even if anyone ever tried to designate you, you formally exercise your statutory right in advance to decline any Secret Service detail."
+
+"Folder Two is the fifty-state ballot shield," Mandy continued, tapping a stack of crisp pages stamped with her Virginia notary seal. "Fifteen states—including Michigan, Wisconsin, Maryland, Oregon, Florida, Georgia, North Carolina, Tennessee, and Nebraska—have automatic media-recognition laws requiring their Secretaries of State to print on the presidential primary ballot every national figure discussed in the press unless that person files a sworn, notarized Affidavit of Non-Candidacy. We prepared notarized Affidavits of Non-Candidacy for every automatic-ballot Secretary of State and State Board of Elections in the country, swearing under oath that you are not and will not become a candidate in 2044."
+
+"Folder Three goes to the Federal Election Commission under 11 C.F.R. Section 100.3," Sarah said, holding up the third packet, "formally disavowing every unauthorized 'Draft Katie Prairie' committee within the statutory thirty-day window so none of their fundraising can trigger federal candidate status. Folder Four goes to the Chair and the Secretary of the Democratic National Committee—your irrevocable Sherman declaration instructing the party that you refuse to participate in any debate, refuse the seating of any draft delegates, and will not accept a nomination from the convention floor and would not serve if elected. And Folder Five goes to the Virginia Department of Elections in Richmond confirming that you are retiring at the conclusion of your third Senate term on January 3, 2045."
+
+Katie looked at the five folders, looked up at Brittany and Chelsea behind us, and let out a long, relieved breath. Rolling over to the dining table first, she signed her clear, steady signature—*Katie Prairie*—across every notarized affidavit and statutory notice while Mandy pressed her embossed seal onto the final sheet, and then rolled right back beside my wheelchair in front of the sofa.
+
+"Ready when you are, Nate," Katie said quietly, lacing the fingers of her left hand through my right hand while Brittany squeezed Katie's shoulder and Chelsea rested her chin happily against mine.
+
+I tapped the wireless shutter remote in my palm, and the small red recording light glowed on my mPhone.
+
+"Good evening from our home here in Virginia Beach," fifty-eight-year-old Katie said calmly into the quiet living room, her voice warm, unscripted, and crystal clear. "I am sitting here tonight with the three people who share every day of my life: my twin brother Nate, our cousin Brittany, and our cousin Chelsea. Over the past few months, governors, colleagues, and kind citizens across the country have asked me to enter the 2044 presidential race for the term beginning in January of 2045, and draft committees have begun circulating petitions in primary states. I am deeply grateful for your trust—and tonight, surrounded by my family, I want to tell you plainly why my answer is an irrevocable no."
+
+Beside me, Katie gave my hand a gentle squeeze.
+
+"Sixteen Octobers ago, Nate and I flew down to Chambers Field at Naval Station Norfolk aboard Air Force One with President Clara Morales," Katie continued evenly. "Clara Morales was an honorable President, and restoring our sailors' stolen housing and pier funds that day is one of the proudest memories of my Senate career. That Thursday was also the very first time Nate and I ever stepped inside the presidential Secret Service bubble. Even behind the gates of a military base, we watched every cross-street freeze thirty minutes ahead of our wheels, and we watched a good President realize she couldn't even take ten unscripted steps off a pre-swept carpet to buy a cold drink for herself. Under federal law, once you become President of the United States, you can never decline that bubble. Armed agents and armored motorcades shut down every street you touch, pull public buses out of service, and move permanently into your family's home."
+
+Katie glanced affectionately back at Chelsea—who smiled shyly at the mention of home—and at Brittany beside her.
+
+"Our cousin Chelsea survived an abusive group home before Nate and I brought her home to live with us, and she deserves a quiet, peaceful house where strangers and cameras never intrude," Katie said softly. "Our cousin Brittany, Nate, and I waited half a lifetime to keep our high-school promise to live together under one roof. And Nate and I fought our entire lives for the simple freedom to roll down to our corner bus stop on Military Highway, tap our fare passes alongside our neighbors, and go wherever we please unannounced. Monday morning, my staff is filing notarized Affidavits of Non-Candidacy with state election officials nationwide, disavowal notices with the Federal Election Commission, an irrevocable refusal of nomination with the Democratic National Committee, and formal declination notices under federal statute so I am never placed on a 2044 ballot or wrapped inside a Secret Service detail. When my third Senate term ends on January 3, 2045, I will retire from elected office—though anyone seeking my endorsement in next spring's primary should be ready to talk to everyday Virginians without a motorcade. Thank you for eighteen wonderful years, and good night from all four of us."
+
+"Good night!" Chelsea chimed in happily over my shoulder, giving a little wave with her free hand before I clicked the remote to stop the recording.
+
+***
+
+#### Saturday, October 24, 2043, 9:45 PM — Out of the Closet & Safe Together in Our Four-Person Nest
+
+By quarter to ten that night, Sam, Mandy, and Sarah had walked back to their ranch house two streets over with the five sealed express-mail packets tucked safely in Sam's messenger bag, the unedited four-minute refusal video was quietly live on StreamCast, The Grid, and Chirp with comments turned off, and the brick ranch house on Arvin Road belonged completely to the four of us again.
+
+Down the widened hallway, the warm amber glow of two bedside lamps lit the spacious master bedroom sanctuary we had built both here on Arvin Road and up at Sunset Drive in Alexandria: a custom wall-to-wall, wheelchair-transfer-height four-person cuddle nest platform bed topped with deep orthopedic mattresses, soft flannel sheets, bolstered side rails, and an oversized patchwork navy-and-cream quilt.
+
+For more than thirteen years after our estranged mother Brenda had bang-searched the back alley outside Apartment A6 at 801 Greenway Court in August of 2003, Katie and I had been so conditioned by trauma and autism that the only place on earth we felt safe enough to fall asleep was zipped inside a single sleeping bag on a hard carpeted closet floor behind a latched door. Even after we rescued Chelsea from that awful Rhode Island group home and after Brittany walked away from her aborted wedding on March 19, 2016 to come live with us just as she had promised in ninth grade, breaking that closet reflex hadn't happened overnight.
+
+It had taken months of gentle, patient coaxing from Brittany and Chelsea—sitting beside the open closet doorway in their pajamas with mugs of warm caffeine-free herbal tea, promising that four people looking out for one another in one wide bed were even safer than two twins hiding behind a hollow-core closet door, and letting us test the platform nest for twenty minutes at a time—before Katie and I had finally felt safe enough to come out of the closet for good.
+
+Rolling my SwiftChair parallel to the smooth wooden transfer edge beside Katie's frame tonight, I locked my brakes, slid smoothly across onto the navy-and-cream patchwork quilt in my grey plaid flannel pajamas, and helped Katie settle onto the plush pillows to my left in her soft lavender knit sleepwear while Brittany set Chelsea's maintenance and rescue inhalers on the wooden headboard shelf within easy reach, helped Chelsea curl up cozily against my right shoulder in her warm cream thermal pajamas, and climbed in right beside Katie in her burgundy flannel pajamas, smiling through her thin silver wire-rimmed glasses as she wrapped her arm around Katie's shoulder.
+
+Katie let out a long, blissful groan as the thick mattress cradled her shoulders and lower back, lacing the fingers of her right hand through my left hand across my lap.
+
+"Remember when we used to insist the hall closet carpet was perfectly comfortable?" my fifty-eight-year-old twin sister murmured sleepily.
+
+Brittany laughed softly from Katie's left side, resting her cheek gently toward Katie's hair. "It only took Chelsea and me eight months to get you two stubborn engineers off that plywood subfloor."
+
+"Okay, fine," I admitted with a sheepish grin in the warm lamplight as Katie nodded in complete agreement against my shoulder. "Sleeping on carpeted closet floors really did hurt."
+
+"Bed is soft," Chelsea murmured contentedly, snuggling closer against my right arm and resting her silver-streaked head right in the crook of my shoulder where nobody in a group home could ever yell at her again. "Just us four."
+
+"Just us four, Chelsea," Brittany whispered affectionately across the pillows.
+
+Lying right there in the warm center of our four-person nest—with my sweet paternal cousin Chelsea breathing evenly and safely against my right shoulder, my twin sister Katie holding my left hand, and my maternal cousin Brittany tucked warmly beside us just like that snowy afternoon in the Blizzard of '96—I looked toward the two quiet SwiftChairs parked side by side in the soft glow and felt my whole chest relax.
+
+Out in Washington and across fifty state capitals, politicians were spending hundreds of millions of dollars tonight fighting each other for the privilege of getting locked inside an armored limousine for the rest of their lives. Lying here cuddling with the three women I loved most in the world, I already had the best spot on earth.
+
+### Part 2: The Biggest Prize in the Primary: Sam, Mandy, & Sarah's Bus-Loop Plan & Stop #0812
 
 **Date:** 2044-01-29 at 13:15 America/New_York
 
@@ -10449,13 +10545,13 @@ Katie didn't even look up from the Appropriations Subcommittee markup packet ope
 
 "That was the fifth presidential campaign manager since nine o'clock this morning," forty-one-year-old Sarah Hawkins said, setting her tablet down on our wooden dining room table on Arvin Road as she took a seat beside her identical twin sister Mandy and their fraternal triplet brother Sam. "Governor Caldwell's political director called twice, Senator Vance's chief of staff called from New York, Congressman Pierce's scheduler emailed three times, Governor Whitman's team wants Thursday morning, and Governor Delgado's chief of staff asked if you had twenty minutes on your Virginia Beach calendar next month."
 
-Sitting side by side in our brushed-silver and black motorized SwiftChair power wheelchairs across the dining table, my fifty-eight-year-old twin sister Katie and I looked up from our turkey sandwiches.
+Sitting side by side in our brushed-silver and black motorized SwiftChair power wheelchairs across the dining table—just after our cousin Brittany had set out turkey sandwiches and ginger ales for all of us before settling onto the living room sofa behind us to work a jigsaw puzzle with our older cousin Chelsea—my fifty-eight-year-old twin sister Katie and I looked up from our plates.
 
 "Why are they all calling on the same Friday afternoon?" Katie asked, taking a sip of her ginger ale.
 
 Mandy turned her laptop screen toward our side of the table so Katie and I could read the lead story on the national political wire.
 
-"Because the national primary tracking poll came out at noon," Mandy said. "Ever since you turned down the presidential draft at the Military Highway bus stop in October and announced you're retiring from the Senate in January after three terms, forty-one percent of likely Democratic primary voters nationwide say their single top criterion for choosing a candidate is whoever Senator Katie Prairie endorses. The article literally calls your endorsement 'the single biggest prize in the 2044 Presidential Primary.'"
+"Because the national primary tracking poll came out at noon," Mandy said. "Ever since you uploaded your October refusal video from the living room with Nate, Brittany, and Chelsea—turning down the 2045 Presidency, filing all fifty state non-candidacy affidavits, and confirming you're retiring from the Senate in January after three terms—forty-one percent of likely Democratic primary voters nationwide say their single top criterion for choosing a candidate is whoever Senator Katie Prairie endorses. The article literally calls your endorsement 'the single biggest prize in the 2044 Presidential Primary.'"
 
 "And every single one of those campaign managers expects the standard Washington endorsement routine," Sam added, adjusting his sweater vest as he leaned his elbows on the table between his two sisters. "Senator Vance's chief of staff asked me which private dining room at the downtown hotel in Norfolk he should reserve so the Senator can bring his policy binders and talk about offering you Secretary of Transportation or Health and Human Services. And Former Vice President Sterling's advance team called asking if the Secret Service could sweep The Atlantic Grand Hotel down at the Oceanfront next week."
 
@@ -10465,7 +10561,7 @@ Katie shook her head immediately. "Former Vice President Sterling is an automati
 
 Looking across the dining table at Sam, Mandy, and Sarah, I couldn't help smiling at how little had changed between the five of us over the past twenty-eight years. We had first met them in January of 2016 when they were thirteen-year-old eighth-grade House Pages in Richmond who had just been rescued by their maternal uncle—former Republican House Majority Leader Richard Callaway—and Aunt Marge. They had worked for Katie through college in Richmond, moved up to Washington with us when Katie won her first Senate term in 2026, and stood beside our wheelchairs in Danville when we wept together at Uncle Richard's funeral after he passed away before Katie's 2038 re-election campaign, just a few years after Katie and I had lost our own dad, David Prairie.
 
-Now forty-one years old, Sam, Mandy, and Sarah were still together every single day—sharing a townhouse a few blocks from our place in Alexandria when the Senate was in session and a ranch house two streets over from us here in Kempsville when we were home in Virginia Beach. None of the three had ever married, none of them had ever had kids, and after learning years ago about the 2005 Ocean View nightmare Katie and I had gone through with Brandon Mercer and Tiffany Sloan, the triplets had never even gone looking for romantic partners. Just like Katie and me, the three of them knew that their safest, happiest life was the one they had built together.
+Now forty-one years old, Sam, Mandy, and Sarah were still together every single day—sharing a townhouse a few blocks from our place on Sunset Drive in Alexandria when all four of us traveled up for Senate sessions and a ranch house two streets over from us here in Kempsville when we were home on Arvin Road. None of the three had ever married, none of them had ever had kids, and after learning years ago about the 2005 Ocean View nightmare Katie and I had gone through with Brandon Mercer and Tiffany Sloan, the triplets had never even gone looking for romantic partners. Just like Katie, Brittany, Chelsea, and me under our roof, the three of them knew that their safest, happiest life was the one they had built together.
 
 Suddenly, Sam, Mandy, and Sarah exchanged a look across the dining table—the exact synchronous triplet glance we had seen a thousand times in Dirksen Room 511 whenever the three of them had cooked up a legislative ambush.
 
@@ -10493,7 +10589,7 @@ Katie's blue eyes went wide, and a slow, delighted smile spread across her face.
 
 Katie looked across the dining table at Sam, Mandy, and Sarah, and then over at me.
 
-"Sam, Mandy, Sarah—that is the single best idea I have heard in eighteen years in the Senate," Katie beamed. "And all three of you are riding every single loop right alongside Nate and me. Send the calendar invites for Stop #0812, Nate!"
+"Sam, Mandy, Sarah—that is the single best idea I have heard in eighteen years in the Senate," Katie beamed, glancing fondly toward the living room where Brittany gave a thumbs-up behind her wire-rimmed glasses—happy to stay right here at home on Arvin Road with Chelsea during the two-hour morning loops so Chelsea's quiet morning routine never changed. "And all three of you are riding every single loop right alongside Nate and me. Send the calendar invites for Stop #0812, Nate!"
 
 ***
 
@@ -10525,7 +10621,7 @@ As the Route 15 bus pulled back into traffic up Military Highway, Sam, Mandy, an
 
 "That took less than four minutes," Sam grinned.
 
-"And since Stop #0812 is our home bus stop," Katie smiled, turning her SwiftChair around on the wide concrete sidewalk toward the shopping center right behind us, "we don't even have to take a bus home. Let's roll into the Market Square grocery store right here in the plaza, grab five cold drinks, and wheel ourselves back around the corner to Arvin Road."
+"And since Stop #0812 is our home bus stop," Katie smiled, turning her SwiftChair around on the wide concrete sidewalk toward the shopping center right behind us, "we don't even have to take a bus home. Let's roll into the Market Square grocery store right here in the plaza, grab seven cold drinks so Brittany and Chelsea get theirs too, and wheel ourselves back around the corner to Arvin Road."
 
 That night at ten-fifteen, while Katie, Sam, Mandy, Sarah, and I were finishing a late-evening transit markup in our living room on Arvin Road before the triplets walked back to their house two streets over, my mPhone buzzed on the end table.
 
@@ -10541,7 +10637,7 @@ As soon as I tapped the red end-call icon, Mandy looked around the living room a
 
 "And Whitman's healthcare donors would pull his funding in ten minutes if a Tidewater Health nurse pinned him down on private-equity hospital staffing ratios," Sam agreed, picking up his coat as he and his sisters got ready to head home for the night. "See you both Tuesday morning for Governor Caldwell!"
 
-### Part 2: The First Tuesday on the Loop: Governor Harrison Caldwell on Routes 15, 800, 25, & 12
+### Part 3: The First Tuesday on the Loop: Governor Harrison Caldwell on Routes 15, 800, 25, & 12
 
 **Date:** 2044-02-09 at 09:10 America/New_York
 
@@ -10631,7 +10727,7 @@ As we rolled onto the sidewalk and Caldwell's four aides came hurrying across th
 
 We waited until Caldwell climbed into his black SUV, and then Katie and I—with Sam, Mandy, and Sarah walking right beside our SwiftChairs—turned around the corner onto Indian River Road and wheeled ourselves home to our brick ranch house on Arvin Road.
 
-Inside our house, while Sam, Mandy, and Sarah put a pot of soup on the stove in the kitchen, Katie and I rolled into the living room and parked our wheelchairs facing each other to make our decision privately between the two of us.
+Inside our house, after Chelsea gave my shoulder a happy hug at the doorway and went into the kitchen with Brittany, Sam, Mandy, and Sarah to put a big pot of soup on the stove, Katie and I rolled into the living room and parked our wheelchairs facing each other to make our decision privately between the two of us.
 
 "Well, Nate?" Katie asked quietly, looking across at me. "What do you think?"
 
@@ -10641,9 +10737,9 @@ Inside our house, while Sam, Mandy, and Sarah put a pot of soup on the stove in 
 
 "Agreed," I said.
 
-Opening the video folder on my MagnaBook Pro, I dragged the two-hour recording from February 9 into our offline archive drive—never to be uploaded—before Katie and I rolled into the dining room to eat lunch with Sam, Mandy, and Sarah.
+Opening the video folder on my MagnaBook Pro, I dragged the two-hour recording from February 9 into our offline archive drive—never to be uploaded—before Katie and I rolled into the dining room to eat hot soup with Brittany, Chelsea, Sam, Mandy, and Sarah.
 
-### Part 3: The Second Tuesday on the Loop: Representative Devon Pierce on Routes 15, 800, 25, & 12
+### Part 4: The Second Tuesday on the Loop: Representative Devon Pierce on Routes 15, 800, 25, & 12
 
 **Date:** 2044-02-16 at 09:10 America/New_York
 
@@ -10749,7 +10845,7 @@ When the Route 12 ramp deployed back at Stop #0812 at eleven-twenty, Pierce shoo
 
 Once Pierce walked across the Indian River Road crosswalk to meet his press secretary, Katie and I—with Sam, Mandy, and Sarah walking right beside us—turned our SwiftChairs down the sidewalk from our home bus stop and wheeled ourselves back around the corner to our house on Arvin Road.
 
-While Sam, Mandy, and Sarah set out sandwiches in the dining room, Katie and I parked our wheelchairs side by side in the living room to talk over the interview quietly between the two of us.
+While Brittany, Chelsea, Sam, Mandy, and Sarah set out sandwiches and apple slices in the dining room, Katie and I parked our wheelchairs side by side in the living room to talk over the interview quietly between the two of us.
 
 "He looked right over Marcus's head and asked Jasmine what his name was," Katie said softly, her voice tight with the shared memory of every stranger who had ever patted our heads or talked over our wheelchairs to Dad when we were growing up. "And on The Surge, he tried to take a selfie with our chairs without even asking us."
 
@@ -10759,7 +10855,7 @@ While Sam, Mandy, and Sarah set out sandwiches in the dining room, Katie and I p
 
 I moved the February 16 video file into our offline archive drive and closed my laptop lid. Only one appointment remained on our calendar for Thursday morning at nine-ten: Governor Elena Delgado of Michigan.
 
-### Part 4: The Thursday Morning Loop: Governor Elena Delgado & The Six O'Clock Upload
+### Part 5: The Thursday Morning Loop: Governor Elena Delgado & The Six O'Clock Upload
 
 **Date:** 2044-02-18 at 09:10 America/New_York
 
@@ -10859,7 +10955,7 @@ At ten-twenty-three, the Route 25 coach pulled into the CCHR Virginia Beach Camp
 
 Because CVTA Route 12 (*South Norfolk / CCHR Virginia Beach*) operated on a sixty-minute headway, the next inbound Route 12 bus back toward Military Highway and Indian River Road wasn't scheduled to depart the campus loop until ten-fifty-three—twenty-nine minutes away.
 
-Walking inside the student center lobby with Mandy and Sarah, Elena Delgado bought six bags of salted pretzels and six bottles of cold ginger ale from the vending machines with her own dollar bills and came right back outside to the CCHR bus shelter. For the next twenty-five minutes, sitting on the bench beside our two SwiftChairs and the triplets with a pretzel in her hand while students walked past between classes, she asked Katie and me about our 2003–2005 classes in the Information Systems lab across the quad, listened to how our dad had gone back to college right here at CCHR after seeing our seventh-grade HTML homework at Morrison Middle School, and chatted with a fifty-year-old custodial worker waiting for the ten-fifty-three bus.
+Walking inside the student center lobby with Mandy and Sarah, Elena Delgado bought eight bags of salted pretzels and eight bottles of cold ginger ale from the vending machines with her own dollar bills—insisting on sending two bags and two cold bottles home in Mandy's tote bag for Brittany and Chelsea once Mandy mentioned our cousins waiting for us back on Arvin Road—and came right back outside to the CCHR bus shelter. For the next twenty-five minutes, sitting on the bench beside our two SwiftChairs and the triplets with a pretzel in her hand while students walked past between classes, she asked Katie and me about our 2003–2005 classes in the Information Systems lab across the quad, listened to how our dad had gone back to college right here at CCHR after seeing our seventh-grade HTML homework at Morrison Middle School, and chatted with a fifty-year-old custodial worker waiting for the ten-fifty-three bus.
 
 At ten-fifty-three on the dot, all six of us boarded the inbound CVTA Route 12 coach and rode the final twenty-seven minutes west along Princess Anne Road, up Lynnhaven Parkway and Kempsville Road, and onto Indian River Road—where Delgado fielded three more unscripted questions from a preschool teacher, a retired Navy electrician, and a grocery clerk before I reached up from my SwiftChair and pressed the yellow stop-request strip just past Kempsville Plaza.
 
@@ -10873,7 +10969,7 @@ As we rolled down the front ramp onto the concrete sidewalk with Sam, Mandy, and
 
 Once Elena Delgado and her chief of staff walked back across the crosswalk toward their sedan, Katie and I—with Sam, Mandy, and Sarah walking alongside our SwiftChairs—turned down the sidewalk from Stop #0812, rounded the corner onto Indian River Road, and wheeled ourselves home to our brick ranch house on Arvin Road.
 
-Inside, while Sam, Mandy, and Sarah toasted grilled cheese sandwiches and heated tomato soup in the kitchen, Katie and I rolled into the living room and parked our wheelchairs facing each other to make our decision quietly between the two of us.
+Inside, while Brittany, Chelsea, Sam, Mandy, and Sarah toasted grilled cheese sandwiches and heated tomato soup in the kitchen—Chelsea beaming over the cold bottle of ginger ale and salted pretzels Elena had sent home for her—Katie and I rolled into the living room and parked our wheelchairs facing each other to make our decision quietly between the two of us.
 
 "Well, Nate?" Katie asked softly. "What do you think?"
 
@@ -10883,13 +10979,13 @@ Inside, while Sam, Mandy, and Sarah toasted grilled cheese sandwiches and heated
 
 "One hundred percent agreed," I said.
 
-When we rolled into the dining room and told Sam, Mandy, and Sarah what the two of us had decided, all three triplets broke into wide grins around the table.
+When we rolled into the dining room and told Brittany, Chelsea, Sam, Mandy, and Sarah what the two of us had decided, everyone around the table broke into wide grins.
 
 We didn't call a press conference, we didn't send a media advisory to the cable networks, and we didn't even call Elena Delgado's campaign manager to give them a heads-up.
 
-Instead, sitting right there beside Katie at our dining room table on Arvin Road with Sam, Mandy, and Sarah watching over our shoulders, I transferred the raw, unedited two-hour-and-two-minute video file from my mPhone onto my MagnaBook Pro, logged into our channel on StreamCast, The Grid, and Chirp, and quietly uploaded the entire bus ride with zero fanfare—typing a single plain-text video title so that the title itself told the world who Katie was endorsing for President of the United States:
+Instead, sitting right there beside Katie at our dining room table on Arvin Road with Brittany, Chelsea, Sam, Mandy, and Sarah gathered warmly behind our shoulders, I transferred the raw, unedited two-hour-and-two-minute video file from my mPhone onto my MagnaBook Pro, logged into our channel on StreamCast, The Grid, and Chirp, and quietly uploaded the entire bus ride with zero fanfare—typing a single plain-text video title so that the title itself told the world who Katie was endorsing for President of the United States:
 
 *Why I Am Endorsing Elena Delgado for President of the United States — A Two-Hour Ride on CVTA Routes 15, 800 (The Surge), 25, & 12 from Stop #0812*
 
-Katie leaned her wheelchair in beside mine, rested her cheek against my shoulder, and watched as I clicked *Publish*.
+Katie leaned her wheelchair in beside mine, rested her cheek against my left shoulder while Chelsea hugged my right shoulder and Brittany rested her hand across Katie's back—all four of us safe at home where we belonged—and watched as I clicked *Publish*.
 
