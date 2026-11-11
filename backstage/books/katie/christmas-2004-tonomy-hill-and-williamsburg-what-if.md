@@ -1,6 +1,6 @@
 ---
 title: "Dirty Old Tonomy Hill & The Williamsburg Transportation Center 'What If'"
-subtitle: "Why Cousin Chelsea Held All the Legal Cards in Newport—and What Would Have Happened If Nate Had Stepped Off the Bus Two Blocks From Katie"
+subtitle: "Why Cousin Chelsea Held All the Legal Cards in Newport—and What Would Have Happened If Nate Had Rolled Off the Bus Two Blocks From Katie"
 category: "Katie & Nathaniel — Behind the Scenes"
 property: "books"
 date: "2004-12-27"
