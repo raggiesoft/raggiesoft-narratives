@@ -217,7 +217,7 @@ Two minutes later, Chelsea came back out of the hallway wearing her full green f
 
 ## The Blizzard of '96
 
-### Snow Day in Virginia Beach & The Backyard Promise
+### Part 1: Snow Day in Virginia Beach & The Backyard Promise
 
 **Date:** 1996-01-06 at 11:30 America/New_York
 
@@ -229,15 +229,19 @@ Two minutes later, Chelsea came back out of the hallway wearing her full green f
 
 "Hope so. SNOW DAY!" I said, practically vibrating with excitement as I pressed my palms against the wooden sill and looked out at our residential street in Virginia Beach.
 
-Outside on the first Saturday of January 1996, it was bitterly cold, and heavy, slate-gray clouds were rolling in off the Atlantic until the sky looked like brushed steel. Behind us on my bedroom stand, the local Norfolk GBS news station had cut into regular Saturday morning programming, the meteorologist standing in front of a swirling radar map warning all of Hampton Roads to prepare for the Blizzard of '96. Even on a Saturday, a real blizzard meant Monday and Tuesday would be wiped clean off the school calendar.
+Outside on the first Saturday of January 1996, it was bitterly cold, and heavy, slate-gray clouds were rolling in off the Atlantic until the sky looked like brushed steel. A step to Katie's right, our ten-year-old maternal cousin Brittany pushed her thin silver wire-rimmed glasses up the bridge of her nose, brushed her long medium-blonde hair back over the shoulder of her plum sweatshirt, and leaned toward the glass beside us. Mom's sister had dropped Brittany off at our house at ten-thirty that morning so she could squeeze in a quick grocery run before the weather turned, promising she would be right back after lunch.
 
-"Snow," Katie replied hopefully, leaning her shoulder against mine as the news anchor continued to drone on and on about wind gusts, coastal flooding, and how many inches were expected later in the afternoon. Both of us were thrilled at the thought of the whole neighborhood shutting down.
+"My mom said the bread aisle was already wiped out completely clean," Brittany said, squinting out past the eaves at the empty asphalt street. "Do you guys really think we'll get enough to cancel school?"
 
-At twelve-thirty, while Katie and I were sitting side by side at the kitchen table eating our lunch sandwiches, the first white flakes began to drift past the dining room window. At first it wasn't much—just fine, powdery crystals swirling across the dry grass—but within twenty minutes the flakes grew thick and steady, dusting the wooden fence rails and the roof of Dad's car.
+Behind us on my bedroom stand, the local Norfolk GBS news station had cut into regular Saturday morning programming with wall-to-wall coverage beneath a bold winter graphic calling the approaching nor'easter the Blizzard of '96. Standing in front of a swirling radar map that stretched from the Gulf Coast all the way past the Virginia Capes, the chief meteorologist pointed to bands of deep blue marching across Virginia—projecting two to three feet of powdery snow out in the Shenandoah Valley and Blue Ridge Mountains while warning all of Tidewater and Virginia Beach to brace for heavy afternoon snow shifting tonight to driving sleet, freezing rain, thirty-five-mile-per-hour northeast gales off the ocean, and major coastal tidal flooding along the oceanfront boardwalk and lower Chesapeake Bay. Even starting on a Saturday, a real coastal blizzard meant Monday and Tuesday would be wiped clean off the Virginia Beach school calendar.
 
-"Wonder if it will stick," Katie giggled, pointing her finger toward the patio.
+"Snow," Katie replied hopefully, leaning her shoulder against mine as the news anchor read off rising tide tables for Lynnhaven Inlet and Sewells Point. All three of us were thrilled at the thought of the whole city shutting down.
 
-By late afternoon, it didn't just stick; it buried the entire backyard under a clean, silent blanket of white.
+At twelve-thirty, while Katie, Brittany, and I were sitting around the kitchen table eating our lunch sandwiches, the first white flakes began to drift past the dining room window. At first it wasn't much—just fine, powdery crystals swirling across the dry grass—but within twenty minutes the northeast wind picked up off the coast and the flakes grew thick and steady, driving sideways across Kempsville until the wooden fence rails, the neighborhood cul-de-sacs, and the roof of Dad's Holt sedan vanished under a deepening blanket of white long before Brittany's mom could safely make it back across town.
+
+"Wonder if it will stick," Katie giggled, pointing her finger toward the patio as the wind sculpted crisp white drifts against the back steps.
+
+By late afternoon, several inches of wind-packed snow had buried the entire backyard under a clean, silent blanket of white.
 
 Inside the house, however, the quiet didn't last. Around five o'clock, the familiar, sharp sound of Mom's and Dad's voices started rising from the upstairs hallway—first a slammed cabinet door, then the bitter, overlapping shouting match that always followed whenever Dad found another empty bottle hidden behind the pantry cans.
 
@@ -245,7 +249,7 @@ Inside the house, however, the quiet didn't last. Around five o'clock, the famil
 
 #### 5:45 PM — The Backyard Bear Hug
 
-Katie and I didn't wait for the yelling to reach the staircase. We pulled on our heavy winter jackets and boots and slipped out the back door into the twilight snow.
+Down in the living room, Brittany froze on the tan couch with a coloring book in her lap, her eyes wide behind her wire-rimmed glasses at the sudden angry shouting overhead. Making sure Brittany was tucked safely away from the bottom of the stairs, Katie and I didn't wait for the yelling to reach the landing—we pulled on our heavy winter jackets and boots and slipped out the back door into the twilight snow so I could catch my breath.
 
 Out in the backyard, inside the perimeter of our white wooden picket fence, the falling snow acted like a giant acoustic blanket over the neighborhood. The streetlamps glowed pale orange through the swirling flakes, and every footstep made a soft, muted crunch under our shoes.
 
@@ -275,23 +279,77 @@ She held onto me for a long moment in the quiet yard, letting the steady pressur
 
 "Come on, let's head back inside before we freeze," Katie said, taking my hand and leading me back across the snow-covered grass toward the back door.
 
-Inside the warm kitchen, the shouting upstairs had finally stopped—Mom had gone to bed for the night, and the house was still again. Standing beside the dark green laminate counter with the snow piling up against the dining room window glass behind us, Katie wrapped her arms around my neck for one more long, warming hug until the chill left my fingers.
+Inside the warm kitchen, the shouting upstairs had finally stopped—Mom had gone to bed for the night behind her closed door, and Dad was standing by the wall phone speaking quietly into the receiver while snow piled against the dining room glass. Standing beside the dark green laminate counter while we stomped the powder off our boots, Katie wrapped her arms around my neck for one more long, warming hug until the chill left my fingers—right as the soft whisper of falling snow outside abruptly turned into the sharp, staccato rattle of sleet pelting the windowpanes off the Atlantic.
 
-"Let's use my bed tonight," I whispered as we started walking up the stairs together. "This way we can see the street from my window when we wake up in the morning."
+### Part 2: Sleet on the Glass, Glaze Ice Across Tidewater, & Brittany's First Group Cuddle
 
-"Sure," Katie smiled. "I hope we wake up to snow on the ground like there is right now."
+**Date:** 1996-01-06 at 18:15 America/New_York
 
-At the top of the landing, I paused outside my bedroom door and looked at her. "Real quick, if you're going to spend the night with me: what should we do about getting changed?"
+![Inside their warm lamp-lit Virginia Beach living room on Saturday evening during the Blizzard of '96 with snow and glistening sleet coating the frosted window behind them, ten-year-old Katie Prairie sits between her twin brother Nathaniel Prairie and their ten-year-old maternal cousin Brittany in thin silver wire-rimmed glasses and long medium-blonde hair on the tan sofa under a woven winter blanket, welcoming Brittany into her first three-way group hug beside three mugs of hot cocoa]({{CDN}}/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_living_room_sofa_first_group_cuddle_brittany_katie_nate.jpg)
 
-"I'll go change into my warm pajamas in my room and grab my pillow, and I'll knock when I'm ready," Katie whispered with a practical nod.
+#### 6:15 PM — Sleet on the Windowpanes & Brittany's First Group Cuddle
 
-Three minutes later, after I had pulled on my own heavy winter flannel pajamas and climbed under the covers by the window, three quiet knocks sounded against my door.
+"Don't you dare put that key in the ignition—stay right inside where you're warm," Dad said firmly into the beige kitchen wall phone, resting one hand against the doorframe while thousands of hard, frozen pellets of sleet rattled like flung gravel against the dining-room glass. "Kempsville Road is already a skating rink. Virginia Beach police just asked everyone to stay off the streets, and she's completely safe right here with Katie, Nate, and me for the weekend."
 
-"Cartoons are for life," Katie whispered from the hall.
+Hanging our damp snow coats over two kitchen chairs to drip onto a folded towel and pulling dry winter sweaters over our heads, Katie and I listened as the storm outside shifted into the signature fury that every Tidewater newscast had been warning about all day.
+
+Out in the Shenandoah Valley and northern Virginia, the Blizzard of '96 was burying towns under two and three feet of light, powdery snow. Down here at the mouth of the Chesapeake Bay, however, the sprawling coastal low churning off the Virginia Capes was hurling thirty-five-mile-per-hour northeast gales straight off the Atlantic—pushing coastal floodwaters across Atlantic Avenue at the oceanfront boardwalk and driving a wedge of slightly milder ocean air high above Virginia Beach's twenty-degree ground. Instead of piling up two feet of fluff, the four or five inches of snow already blanketing our yard were now being pelted by hours of stinging sleet and freezing rain that welded every snowdrift, driveway, pine limb, and neighborhood cul-de-sac under a thick, treacherous armor of solid glaze ice.
+
+"Go check on your cousin in the living room while I warm up three mugs of hot cocoa on the stove," Dad told Katie and me quietly after hanging up the wall receiver, giving my shoulder a gentle squeeze. "She's never been snowed in away from her mom before."
+
+Katie and I walked side by side out of the kitchen into the lamp-lit living room, where the television volume was turned down low over live Norfolk GBS storm coverage of waves crashing over the Virginia Beach seawall and snowplows sliding sideways near Lynnhaven Parkway.
+
+At the far right corner of our tan living-room sofa, ten-year-old Brittany was sitting curled into a tight, anxious ball all by herself. She had both arms wrapped around a square throw pillow pressed to her plum sweatshirt, her thin silver wire-rimmed glasses sitting slightly crooked on her nose as she flinched at a sudden gust of sleet lashing the front windowpanes—rattled first by hearing Mom and Dad shouting upstairs earlier and now by the realization that every street between our house and hers was locked in solid ice.
+
+Katie stopped beside the coffee table and glanced sideways at me.
+
+Normally, when the world got too loud or unpredictable, Katie and I kept a strict two-person perimeter. Other kids at Northwood Elementary didn't understand why we needed quiet or why we always sat pressed shoulder to shoulder, so we never invited anyone else inside our personal space. Looking at our cousin sitting small and scared at the cold end of the couch, though, I didn't even need Katie to ask out loud—I gave my twin sister one small nod.
+
+Crossing the carpet together, I sat down on the left cushion of the tan sofa while Katie settled right into the middle spot beside me, unfolding the heavy woven winter blanket across both of our laps. Instead of tucking the right edge down between herself and the empty cushion, Katie lifted the open corner of the blanket with her right hand and looked warmly over at Brittany.
+
+"Come scoot over here with us, Brittany," Katie said gently. "You don't have to sit way over there by yourself while the wind's blowing like that. There's plenty of room under the blanket for all three of us."
+
+Brittany blinked behind her wire-rimmed glasses, looking from Katie to me in genuine surprise—as if she had been trying hard not to intrude on our twin bubble all afternoon.
+
+"Really?" Brittany asked softly, setting the throw pillow aside. "You guys don't mind?"
+
+"Come on in," I told her, sliding an inch closer so Katie had plenty of room to anchor the center. "It's way warmer in a three-person pile."
+
+Letting out a long breath she seemed to have been holding since five o'clock, Brittany scooted across the tan sofa cushion right up against Katie's right side. Katie draped the heavy woven blanket snugly across all six of our knees, wrapped her left arm around my shoulders, and wrapped her right arm warmly around Brittany's shoulders—and after half a second, Brittany smiled, rested her long medium-blonde head gently against Katie's shoulder, and reached across to hug both of us back.
+
+![Inside their warm lamp-lit Virginia Beach living room on Saturday evening during the Blizzard of '96 with snow and glistening sleet coating the frosted window behind them, ten-year-old Katie Prairie sits between her twin brother Nathaniel Prairie and their ten-year-old maternal cousin Brittany in thin silver wire-rimmed glasses and long medium-blonde hair on the tan sofa under a woven winter blanket, welcoming Brittany into her first three-way group hug beside three mugs of hot cocoa]({{CDN}}/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_living_room_sofa_first_group_cuddle_brittany_katie_nate.jpg)
+
+Once the steady pressure of the blanket and Katie's arm settled around her shoulders, the tension melted right out of Brittany's frame. Outside, the northeast gale whistled around the brick chimney and coated the front porch railing in glistening clear ice, making the amber lamp beside the couch feel twice as warm.
+
+"I wish my street wasn't zoned for a different elementary school," Brittany murmured from under the blanket as Dad walked in from the kitchen carrying a tray with three steaming ceramic mugs of hot cocoa and set them carefully on the oak coffee table in front of us. "Everybody in my fifth-grade class walks home together in their own little cliques, and you two are over at Northwood Elementary and then going to Morrison Middle."
+
+"Only until eighth grade's over," Dad said with an encouraging smile from the edge of the rug, nodding toward the frosted front window. "Once the three of you hit ninth grade, both of our neighborhoods feed straight into Northwood High School together. Heck, from Northwood High, Brittany's neighborhood is right through the pedestrian gate on the Lions Way fence—if we put a permission note on file in the school office, you three won't even have to split up for the afternoon buses whenever you want to walk over to your aunt's house after school."
+
+Brittany's eyes lit up behind her glasses as she looked from Katie to me. "All three of us in the same school every single day?"
+
+"Every single day," Katie promised, giving Brittany's shoulder a warm squeeze with her right arm while keeping her left hand tucked close against mine.
+
+***
+
+#### 8:45 PM — Downstairs Sofa-Bed Sanctuary & A City Sealed in Crystal
+
+Because Brittany's mom had only packed her over for Saturday lunch without an overnight bag, Katie ran upstairs after dinner and came back down carrying two extra pillows and a clean, spare pair of her soft fleece winter pajamas that fit Brittany comfortably.
+
+Just like we had done the Christmas before when Grandma, Aunt Liz, and Chelsea rode the train down from Rhode Island, Dad let the three of us unfold the heavy metal frame of the downstairs living-room sofa bed for the night. Keeping all three of us down on the first floor meant nobody had to tiptoe past Mom's closed bedroom door upstairs, and the wide living-room window gave us a front-row view of the street the second the sun came up.
+
+While Brittany brushed her teeth in the downstairs hallway bathroom and I smoothed two thick quilts over the unfolded sofa-bed mattress, Katie changed in the laundry alcove and tapped three quiet knocks against the living-room doorframe before stepping back out.
+
+"Cartoons are for life," Katie whispered with a grin so Brittany could learn our secret password too.
 
 "Come on in," I whispered back.
 
-Carrying her pillow under her arm in her purple fleece pajamas, Katie crossed the carpet and climbed under the heavy blanket right at my side. Outside my bedroom window, the Blizzard of '96 howled silently across Virginia Beach, piling deep drifts against the curb under the glow of the streetlamp, while inside the warm perimeter of my bed, my twin sister and I fell fast asleep holding hands.
+Five minutes later, with the brass table lamp clicked off and the orange glow of the corner streetlamp shining through the ice-sheathed windowpanes, all three of us climbed beneath the heavy quilts—me on the left, Katie right in the middle holding my hand, and Brittany tucked warmly against Katie's other side, where she reached over and gave Katie's arm one grateful goodnight hug before drifting off to sleep to the steady tick of freezing rain on the glass.
+
+When Sunday morning broke cold and brilliant on January 7, the three of us scrambled up onto our knees at the living-room window together and gasped.
+
+Overnight, the Blizzard of '96 had turned all of Virginia Beach into a silent palace of solid crystal. Half an inch of glass-smooth glaze ice capped every drifted snowbank, sealed Dad's car doors shut in the driveway, weighed the neighborhood pine branches down toward the lawn like chandeliers, and turned the asphalt cul-de-sac into an unbroken mirror sparkling under the pale winter sun—and right across the bottom of the television screen when I clicked on the morning news scrolled the magic gold letters every kid in Tidewater had been praying for: *VIRGINIA BEACH CITY PUBLIC SCHOOLS — CLOSED MONDAY.*
+
+"No school tomorrow—and the news guy just said the ice won't even melt off the side streets by Tuesday!" Brittany cheered, throwing both arms around Katie and me right there on the unfolded sofa bed as the three of us collapsed laughing into another warm three-way hug.
 
 ## Katie Is Dumped
 

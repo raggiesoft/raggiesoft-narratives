@@ -84,17 +84,15 @@
 - **Activity:** Students often perform donuts here; those caught face
   discipline. 
 
-**The Neighborhood Perimeter (Highland Way)**
+**The Neighborhood Perimeter (Macgregory Street / Highland Way Fenceline & Lions Way Gate)**
 
-- **Smoker\'s Corner:** A pedestrian gate connecting the school to **The
-  Highlands** neighborhood. 
+- **Smoker\'s Corner & The Walking-Zone Gate:** Where **Macgregory Street** (`1713 Macgregory St`, historically also nicknamed **Highland Way** adjacent to **The Highlands** neighborhood; Street View ref: `ai-staging/raw-images/characters/katie-nathaniel/northwood_macgregory_st_lions_way_smokers_corner_gate_ref.jpg`) dead-ends directly against the chain-link fenceline bordering **Lions Way**, a narrow pedestrian gate opening in the chain-link fence and painted white crosswalk stripes across **Lions Way** let students in Northwood High\'s `1.5-mile` Walking Zone enter and exit campus (including Katie and Nathaniel Prairie\'s maternal cousin **Brittany**, `[INTERNAL LORE ONLY — NEVER SURFACE STREET ADDRESS IN NOVEL PROSE: 5600 Earlton Ct, Virginia Beach, VA 23464]`, reached by exiting her house with a right onto `Earlton Ct` and a left onto `Macgregory St`).
 
-- **Protocol:** The SRO (Officer Whitehead) watches the property line.
+- **Protocol:** Because the asphalt turnaround of `Macgregory Street` is a public city street *just* off school property on the residential side of the chain-link fence, this exact gate is **Smoker\'s Corner**. The SRO (Officer Whitehead) watches the fenceline property threshold.
   18-year-old seniors may smoke on the *public street* side of the
-  line. Crossing the threshold with a lit cigarette is a violation. 
+  line. Crossing the gate threshold onto `Lions Way` with a lit cigarette is an immediate school-property violation. 
 
-- **The Curb Trap:** There are no ADA curb cuts at these gates,
-  rendering this shortcut impossible for wheelchair users. 
+- **The Curb & Dirt-Shoulder Trap:** Between the `Lions Way` crosswalk and the `Macgregory Street` asphalt turnaround sit narrow fence posts/barricades, raised curb lips, and an unpaved dirt/grass shoulder strip with no flush ADA wheelchair ramp, rendering this pedestrian shortcut an impassable or jarring bottleneck for wheelchair users. 
 
 **III. Interior Architecture & Navigation**
 
