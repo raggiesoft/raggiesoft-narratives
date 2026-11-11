@@ -10261,6 +10261,170 @@ Katie smiled, resting her head briefly against my shoulder as the rhythm of the 
 
 "Every single quarter, Nate," my twin sister murmured. "Every single quarter."
 
+## Joint Base Andrews to Chambers Field: Flying Home on Air Force One
+
+### Chambers Field, Four Hundred Million Restored on Pier 12, & Tapping In at King Street the Next Morning
+
+**Date:** 2027-10-13 at 15:15 America/New_York
+
+![On a crisp sunny October Friday morning, a sleek brushed-stainless-steel Capital Transit Yellow Line metro train displaying a bright yellow route indicator and MT VERNON SQ on its digital destination sign glides northbound across the concrete-piered Charles R. Fenwick Bridge over the sparkling blue Potomac River between Alexandria, Virginia, and Washington, D.C., with the Jefferson Memorial and Washington Monument visible across the water.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/oct_2027_fenwick_bridge_capital_transit_yellow_line_mt_vernon_sq.jpg)
+
+#### Wednesday, October 13, 2027, 3:15 PM — Dirksen Room 511: "Chambers Field" & Five Practical Questions Before Saying Yes
+
+![On a crisp sunny October Friday morning, a sleek brushed-stainless-steel Capital Transit Yellow Line metro train displaying a bright yellow route indicator and MT VERNON SQ on its digital destination sign glides northbound across the concrete-piered Charles R. Fenwick Bridge over the sparkling blue Potomac River between Alexandria, Virginia, and Washington, D.C., with the Jefferson Memorial and Washington Monument visible across the water.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/oct_2027_fenwick_bridge_capital_transit_yellow_line_mt_vernon_sq.jpg)
+
+"Senator—the White House Office of Legislative Affairs and the White House Military Office are holding together on Line One," Sarah Hawkins said from the open mahogany doorway of Katie's inner office at three-fifteen on Wednesday afternoon, holding her notepad against her cardigan with an expression none of us had ever seen on her face before. "President Morales is flying down to Hampton Roads tomorrow morning, and the President asked personally if Senator Prairie—and Nate—would accompany the presidential delegation aboard Air Force One."
+
+Inside Dirksen Room 511, the hum of the HVAC vent suddenly sounded very loud.
+
+Katie's hand paused halfway to her glass of ginger ale. Slowly, she turned her head across the two-inch gap between our SwiftChair armrests and looked at me.
+
+I looked right back at Katie.
+
+"Are you going?" I asked quietly.
+
+"I'm thinking," my twin sister said.
+
+For the first three and a half months of Katie's Senate term, the question of whether Virginia's junior Senator would ever set wheel aboard Air Force One had been completely academic. Garrett Thorne—who had spent an entire autumn jeering at *"Broken Katie Prairie"* on television before we uncovered the four-hundred-million-dollar Naval Station Norfolk fleet-supply kickback scheme that ended his presidency—would never in a million years have invited Katie onto his aircraft. And if the Thorne White House had ever lost its mind and extended an optional invitation for a photo op, Katie wouldn't have made a theatrical speech on cable news; she simply would have told Sarah to thank the White House and reply that she would not be traveling with the President, while continuing to carry out every constitutional duty her oath required.
+
+Clara Morales was another world entirely.
+
+In the six months since Chief Justice Sterling had sworn her in inside the Mansfield Room, President Morales had governed like an institutional adult—signing our Chesapeake Bay Bridge-Tunnel public-transit link in June, backing our Appropriations firewalls, and working late into the night alongside Senior Senator Thomas Keane and Katie to pass the bipartisan Naval Station Norfolk Fleet Readiness, Enlisted Housing, and Military Family Restoration Act, putting back every stolen dollar Bret Halverson and Garrett Thorne had siphoned away from Atlantic Fleet pier maintenance, enlisted sailor barracks, military-family childcare, and base-gate public transit access.
+
+Even so, Katie didn't say yes just because someone on Pennsylvania Avenue had said the words *Air Force One*. Reaching across her desk, she tapped the speaker button beside Sam Hawkins's chair so Sam and Mandy could take notes from the side table.
+
+"Good afternoon—this is Senator Katie Prairie, with my brother Nate and my legislative staff in the room," Katie said evenly. "Thank the President for thinking of both of us. Before I confirm our manifest, I have five practical questions—starting with the simplest one. Where in Hampton Roads are we landing?"
+
+"Wheels up from Joint Base Andrews at eight-thirty tomorrow morning, Senator, landing at Chambers Field at nine-twenty," the White House Legislative Affairs director answered warmly.
+
+Katie gave a single, immediate nod across the desk to Sam. Nobody in Washington ever had to explain Tidewater airfield geography to a forty-two-year-old United States Senator who had grown up in Virginia Beach. If a President flew into Norfolk International Airport, the itinerary was heading out into civilian Norfolk or Virginia Beach; if the aircraft crossed the water into Newport News/Williamsburg International, the day belonged to the Peninsula. Touching down at Chambers Field meant the mission stayed squarely inside the fenceline of Naval Station Norfolk—eliminating an unnecessary sixteen-car interstate motorcade shutdown for tens of thousands of morning Hampton Roads commuters and putting the President straight onto the waterfront piers where the Navy's two-hundred-and-fifty-second birthday week belonged.
+
+"Good—landing directly inside the base keeps the morning rush hour open on Interstate 64 and Hampton Boulevard," Katie said approvingly. "Second: why does the President want me on the manifest rather than meeting her down on the pier?"
+
+"Because she's signing your and Senator Keane's Naval Station Norfolk Restoration Act on Pier Twelve in front of two thousand Fifth Fleet sailors and military spouses at eleven-fifteen, Senator," the director replied, "and the President told us this morning that the Virginia Senators who wrote the lockbox—and the twin brother whose forensic accounting scripts caught the four-hundred-million-dollar theft from those sailors in the first place—belong in the cabin with her when that bill comes down to Norfolk."
+
+Across our armrests, I felt my ears turn slightly warm while Mandy grinned behind her hand.
+
+"Third and fourth," Katie continued without missing a beat, all calm engineering precision, "my brother Nate and I both use full-time motorized SwiftChair power wheelchairs, and neither of us transfers out of our chairs onto airstairs or lets anyone lift or push our frames by the handles. How is the Eighty-Ninth Airlift Wing handling boarding at Joint Base Andrews and deplaning at Chambers Field, and how are we getting onto the secure flightline at Andrews?"
+
+"The White House Military Office is already on the line with your dimensions on file from the Capitol Architect's office, Senator," a crisp Air Force lieutenant colonel chimed in over the speaker. "Because Joint Base Andrews has no passenger rail gate to the restricted flightline, a White House Military Office dual-wheelchair mobility van with four-point floor track securement will pick you and Mr. Prairie up on Sunset Drive in Alexandria at seven-fifteen tomorrow morning. On the apron at Andrews—and waiting on the tarmac at Chambers Field—our aerial port crew stages an enclosed scissor-lift passenger boarding platform flush with the wide mid-cabin main-deck doorway, zero threshold straight into the forward congressional cabin where floor-track tie-downs lock both SwiftChairs beside the conference table."
+
+"And fifth," Katie asked carefully, protecting the institutional boundary she never blurred even for me, "Nate accompanies me as my twin and disability-support companion, not as cleared Senate staff. Are there any classified segments on the base itinerary between wheels-down and the Pier Twelve signing?"
+
+"Just one twenty-minute operational carrier-readiness update inside the Fleet Forces secure facility at ten-fifteen with the President, Admiral Vance, Senator Keane, and you, Senator," the colonel replied promptly. "Navy protocol has already set a height-adjustable briefing station inside the room for your SwiftChair, and the Fleet Family Ombudsman has invited Mr. Prairie to chat pierside with Navy spouses and a Coastal Virginia Transit Authority service planner until you roll back out at ten-thirty-five."
+
+Katie looked over at me. Everything made institutional sense, every security rule was respected, not a commuter lane in Norfolk was being closed for vanity, and nobody was touching our chairs.
+
+"Tell the President that Nate and I would be honored to join her and Senator Keane tomorrow morning," Katie said calmly. "Sam will email the exact wheelbase and weight sheets for both SwiftChairs in five minutes."
+
+Once the line clicked off and Sam, Mandy, and Sarah hurried back to the outer suite buzzing quietly with excitement to print our flightline credentials, I kept my hands folded on my MagnaBook Pro and looked sideways at my twin sister.
+
+"Are we going home to our house on Lord Nelson Drive afterward?" I asked.
+
+"No, Nate," Katie said, signing an Appropriations letter without looking up. "Air Force One flies the delegation back to Joint Base Andrews at three-thirty so Senator Keane and I make the five-thirty floor vote."
+
+"Katie, Chambers Field is fifteen miles from our house," I pointed out evenly.
+
+"We're traveling with the President of the United States, Nate."
+
+"Our own beds are fifteen miles away."
+
+Katie's lips twitched despite herself as she handed the signed folder across her desk. "You'll survive sleeping in Alexandria on a Thursday night, Nate."
+
+***
+
+#### Thursday, October 14, 2027, 8:10 AM — Joint Base Andrews, the High-Lift Platform, & Six Checks Over the Chesapeake Bay
+
+Katie had never confused rejecting unnecessary VIP theater with rejecting legitimate security and accessibility logistics, and rolling onto the restricted tarmac of Joint Base Andrews at eight-ten on Thursday morning beside Senior Senator Thomas Keane proved the difference in thirty seconds.
+
+Towering above the sunlit Maryland concrete in gleaming Robin's-egg blue, crisp white, and polished silver—with *UNITED STATES OF AMERICA* painted bold across the upper fuselage and the Presidential Seal gleaming beside the forward door—stood the four-engine widebody jet of the Eighty-Ninth Airlift Wing.
+
+While press pool reporters and West Wing aides climbed the rear and forward airstairs, two uniformed Air Force loadmasters greeted Katie and me beside a spotless white scissor-lift boarding truck parked parallel to the wide mid-cabin doorway. Nobody reached for our push-handles; nobody hovered nervously. At the touch of a hydraulic control switch, the railed platform lifted both of our SwiftChairs smoothly twenty feet into the crisp October breeze until the rubber bridge lip rested dead-level with the cabin threshold.
+
+Eighty-two years after military engineers had hidden a battery-powered fuselage elevator in the belly of Franklin Delano Roosevelt's *Sacred Cow* so nobody on an airfield would see a President in a wheelchair, my twin sister and I rolled side by side in broad morning daylight straight into the wood-paneled congressional cabin of Air Force One.
+
+"Right here beside the forward conference table, Senator Prairie, Mr. Prairie," the loadmaster smiled, kneeling cleanly to click four aviation floor-track tie-down straps onto the reinforced steel anchor loops beneath Katie's black-and-silver frame and mine, leaving us positioned shoulder-to-shoulder beside two wide oval windows with two chilled crystal tumblers of ginger ale embossed with the Presidential Seal resting in the recessed cup holders in front of us.
+
+At eight-thirty sharp, the four massive engines spooled to a deep, muffled turbine roar, the runway fell away beneath our wheels without so much as a rattle in our armrests, and Joint Base Andrews banked away into autumn gold and green below.
+
+Five minutes after the chime sounded at cruising altitude, the forward pocket door slid open, and President Clara Morales stepped into the cabin in her tailored navy pantsuit, taking the leather chair directly across the polished mahogany table from Senator Keane, Katie, and me.
+
+"Good morning, Tom—good morning, Katie, Nate," President Morales said warmly, sliding her briefing folder onto the table without a shred of ceremony. "How was the boarding lift at Andrews?"
+
+"Flawless, Madam President," Katie answered with genuine appreciation. "Level threshold, four-point floor locks, and your loadmasters didn't try to grab a single push-handle."
+
+"Good—because I warned the Military Office that if anybody touched your chairs, they'd answer to me before they answered to Senate Appropriations," Clara Morales said with a dry smile before her dark eyes grew serious, looking from Katie to me. "I wanted both of you on this flight going home to Norfolk today. Six months ago, sailors and young Navy families down at Naval Station Norfolk found out on television that the people running the Pentagon had treated four hundred million dollars of their pier safety, barracks repairs, and childcare funds like a private slush fund while leaking their carrier schedules on a commercial phone app. When I put my signature on your Restoration Act on Pier Twelve this morning, those sailors deserve to see that their Senators—and the Virginian who traced every stolen wire—came straight down from Washington to make them whole."
+
+"Thank you, Madam President," Katie said quietly, glancing toward Senator Keane before lacing her fingers briefly with mine. "And thank you for keeping our defense-community transit operating rider intact in conference. Ever since Coastal Virginia Transit Authority discontinued Route 3 Chesapeake Boulevard service along First View Street, Gate 4, Bellinger Boulevard, and the Navy Exchange, car-free sailors and Ocean View families have been stranded behind long two-bus transfers just to reach the base or get groceries. Putting dedicated federal operating dollars behind restoring that First View Street and Gate 4 corridor—alongside cross-honored commuter passes for junior enlisted sailors and spouses heading to Virginia Dominion University and the Community College of Hampton Roads—fixes a cut people in Norfolk have felt every single morning."
+
+When President Morales and Senator Keane stepped forward for ten minutes to review the final remarks with the Navy Secretary, the sunlit sweep of eastern Virginia unfolded five miles below our right-hand window—the silver ribbon of the Rappahannock giving way to the York River, the Peninsula, the curving white thread of the Chesapeake Bay Bridge-Tunnel where our new bus line was running right that minute, and the vast blue harbor where we had ridden transit together since we were kids holding Dad's hand.
+
+Slowly, I leaned an inch toward my twin sister's shoulder.
+
+"You know we're on Air Force One," I murmured.
+
+"Yes, Nate," Katie said softly, watching the Elizabeth River glint ahead as the aircraft began its gentle descent toward Norfolk.
+
+"Just checking."
+
+"You've checked six times."
+
+Even so, Katie didn't let go of my hand all the way down through the coastal clouds until the landing gear touched Runway Ten at Chambers Field with a soft chirp of rubber.
+
+***
+
+#### Thursday, October 14, 2027, 9:22 AM — Touchdown at Chambers Field, Respecting the SCIF Door, & Four Hundred Million Restored on Pier 12
+
+When the mid-cabin hatch swung open at nine-twenty-two, the unmistakable salt-tang breeze of Hampton Roads—brisk October Atlantic air mixed with warm tarmac and Elizabeth River tidewater—washed straight into the cabin.
+
+Riding the white scissor-lift platform smoothly down to the concrete apron and rolling side by side off the aluminum ramp, Katie and I paused for five quiet seconds on the sunny tarmac of Chambers Field while President Morales and Senator Keane walked down the forward airstairs behind us past the saluting cordon of Navy officers in crisp dress blues.
+
+Directly ahead of our wheelchairs stretched the enormous naval installation that had framed the horizon of our entire lives—grey aircraft carrier superstructures, radar masts, and towering shipyard cranes gleaming under the Virginia sky, fifteen miles west of our own front door in Kempsville. We hadn't flown aboard the presidential aircraft to some distant foreign capital.
+
+"Katie," I said quietly.
+
+"What?"
+
+"We just flew home on Air Force One."
+
+Katie looked out across the vast Norfolk airfield toward the carrier piers, a slow, wondering smile touching the corner of her mouth.
+
+"...Dad is never going to let us hear the end of this," she murmured.
+
+From the tarmac to Pier Twelve, every piece of the morning ran with crisp Navy precision. At ten-fifteen, when Admiral Vance escorted President Morales, Senator Keane, and Katie up the flush ramp into the Fleet Forces secure facility for the twenty-minute classified carrier readiness briefing, neither Katie nor I hesitated for half a second at the boundary. Inside that door sat a pre-positioned accessible briefing station for Virginia's United States Senator; outside under the sunny Pier Twelve canopy, I spent a thoroughly enjoyable twenty minutes drinking canned ginger ale alongside the base Fleet Family Ombudsman, two Ocean View Navy spouses in wheelchairs, and a Coastal Virginia Transit Authority service planner mapping out the restored Route 3 Chesapeake Boulevard stops across First View Street, Gate 4, Bellinger Boulevard, and the Navy Exchange that our bill's federal operating grant was finally bringing back.
+
+At ten-thirty-eight, Katie rolled right back out into the sunshine beside Senator Keane, reclaimed her spot two inches to my left, and glided up the wide blue-carpeted stage ramp onto the Pier Twelve platform beneath the towering grey hull of an Atlantic Fleet carrier while I locked my brakes in the front-row accessible bay directly facing her.
+
+At eleven-twenty-six, to a roar of applause from two thousand uniformed sailors and military families lining the pier, President Clara Morales signed her name across the parchment of the Naval Station Norfolk Fleet Readiness, Enlisted Housing, and Military Family Restoration Act—turning immediately in her chair to hand the first ceremonial fountain pen straight across the desk into Katie's hand, and nodding warmly down toward my wheelchair in the front row before handing the second pen to Senator Keane.
+
+***
+
+#### Friday, October 15, 2027, 8:35 AM — Two Plastic Fare Cards at King Street–Old Town & Mt. Vernon Square Across the Fenwick Bridge
+
+Dad, exactly as Katie had predicted on the tarmac, did not let us hear the end of it.
+
+When the White House Military Office mobility van dropped us back off on Sunset Drive at four-forty-five Thursday afternoon—giving Katie plenty of time to ride the Yellow Line in for the five-thirty Senate roll call before coming home for supper—sixty-eight-year-old David Prairie already had a brass picture frame waiting on the kitchen table for our embossed Air Force One passenger manifest cards, grinning from ear to ear over bowls of homemade chicken-and-rice soup as we recounted every minute from Andrews to Pier Twelve.
+
+Twelve hours later, at eight-thirty-five on Friday morning, the brass frame was hanging neatly in Dad's hallway, and Friday was just another Senate workday.
+
+Dressed in her everyday navy work blazer with her canvas daypack clipped behind her upright and mine clipped behind mine, Katie rolled alongside me underneath the stone-and-steel King Street railroad overpass into the brick entrance plaza of King Street–Old Town Station.
+
+*Beep.*
+
+Katie tapped her blue plastic CapitalPass fare card against the round sensor pad on the wide accessible faregate, and the clear acrylic paddles swung open.
+
+*Beep.*
+
+I tapped my card right behind hers, followed her into the glass traction elevator up to the elevated island platform, and glanced up at the amber platform arrival board. On the Capital Transit Yellow Line, every other northbound train terminated at Mt. Vernon Square while alternating trains ran all the way up to Greenbelt—and since either one carried us straight across the river to our L'Enfant Plaza transfer, Katie and I rolled side by side across the gap into the front accessible bay of a sleek brushed-stainless-steel Yellow Line train with *MT VERNON SQ* glowing beside the yellow circle on its headsign.
+
+As the doors chimed shut and the railcar glided northward out of Alexandria onto the sunlit concrete-piered span of the Charles R. Fenwick Bridge—surrounded by sleepy federal commuters in trench coats, college students with earbuds, and scuffed rubber floor mats—I glanced around the fluorescent subway car and looked two inches to my left at my twin sister.
+
+"This is somewhat less impressive than yesterday," I remarked dryly.
+
+Katie didn't even look up from the Appropriations Subcommittee markup packet open across her lap, though the unmistakable corner of a smile tugged at her lips as the Potomac sparkled beneath the tracks.
+
+"This one actually goes to Capitol South," Senator Katie Prairie replied.
+
 ## Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop
 
 ### Part 1: The Biggest Prize in the Primary: Sam, Mandy, & Sarah's Bus-Loop Plan & Stop #0812
