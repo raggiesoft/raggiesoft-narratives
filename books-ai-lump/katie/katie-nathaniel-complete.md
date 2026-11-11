@@ -909,7 +909,7 @@ Yet as I looked sideways at my twin sister, and felt Dad's steady, unwavering ar
 
 ### Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School
 
-**Date:** 2001-09-04 at 11:40 America/New_York
+**Date:** 2001-09-04 at 10:55 America/New_York
 
 ![Inside the sunlit cafeteria of Northwood High School in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a quiet corner table holding hands during their shared Junior-year lunch period with their lunch bags and coding notebook open before them]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg)
 
@@ -947,25 +947,27 @@ Beside me on the leather sofa, Katie let out a long, quiet breath and leaned her
 
 ***
 
-#### Tuesday, September 4, 2001, 11:40 AM — Junior Year at Northwood High School
+#### Tuesday, September 4, 2001, 10:55 AM — Junior Year at Northwood High School
 
-"We actually pulled it off, Nate—fourth-block lunch and study hall together every single day," Katie said with a relieved smile the Tuesday after Labor Day as the two of us eased down side by side onto the bench of a quiet, sunlit corner table near the tall windows of the Northwood High School cafeteria.
+"We actually pulled it off, Nate—third-block lunch and study hall together on both Purple Days and Gold Days," Katie said with a relieved smile the Tuesday after Labor Day as the two of us eased down side by side onto the bench of a quiet, sunlit corner table near the tall windows of the Northwood High School cafeteria.
 
 ![Inside the sunlit cafeteria of Northwood High School in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a quiet corner table holding hands during their shared Junior-year lunch period with their lunch bags and coding notebook open before them]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg)
 
-Back in July, when we had given up half of our mornings to sit through high-school summer school and knock out a required academic credit early, this exact forty-five-minute sanctuary in the middle of our Junior year schedule was what we had worked for. Earlier that morning at seven-forty-five, Dad had walked into the Northwood High main office with us to hand-deliver a certified copy of the Virginia Beach judge's custody and protective orders to the principal's secretary, removing Brenda's name from our emergency contact cards for good.
+Back in July, when we had given up half of our mornings to sit through high-school summer school and knock out a required academic credit early, this exact ninety-minute sanctuary in the middle of Northwood High's alternating Purple and Gold Day four-block schedule—forty-five minutes of lunch in Mrs. DeMarco's cafeteria followed by forty-five minutes of quiet study hall inside Mrs. Periwinkle's library—was what we had worked for. Earlier that morning before the seven-fifteen first bell, Dad had walked into the Northwood High main office with us to hand-deliver a certified copy of the Virginia Beach judge's custody and protective orders to the principal's secretary, removing Brenda's name from our emergency contact cards for good.
 
-Yet as grateful as Katie and I were to be sitting together with our brown paper lunch bags, juice boxes, and our spiral *Quantum Basic* notebook open on the tabletop between us, getting through the first three class periods of eleventh grade had been a sobering wake-up call for our bodies.
+Across the loud cafeteria, our maternal cousin Brittany—who had eaten at this exact corner table with Katie and me every single day in ninth and tenth grade before starting to drift toward a loud group of hard-partying seniors—gave us only a quick, distracted wave from Tyler's crowded table near the vending machines before turning back to their laughter.
 
-Even without the roll of a cruise ship beneath our feet, the long linoleum hallways and concrete stairwells of Northwood High School had pushed our legs and arms to the brink before noon. Halfway up the B-Wing stairs to second-period Chemistry, my left calf had cramped and given out so suddenly that I would have gone down on the steps if Katie hadn't grabbed my belt loop—and when she tried to pull my weight upright against the handrail, her own right wrist and forearm had trembled so violently that she dropped her binder across the landing. By the time we reached the cafeteria doors at eleven-forty, my thighs felt like lead weights and Katie's fingers were shaking so hard that I had to help her pinch open the top of her straw wrapper.
+Yet as grateful as Katie and I were to be sitting together with our brown paper lunch bags, juice boxes, and our spiral *Quantum Basic* notebook open on the tabletop between us, getting through the first two ninety-minute blocks of eleventh grade had been a sobering wake-up call for our bodies.
 
-Reaching across the table between our lunch bags, I laced my right fingers through Katie's left hand and rested our joined hands flat on the cool laminate tabletop so neither of our wrists had to work to hold them up.
+Even without the roll of a cruise ship beneath our feet, the long linoleum hallways and concrete stairwells of Northwood High School had pushed our legs and arms to the brink before eleven o'clock. Halfway up the B-Wing stairs to second-block Chemistry, my left calf had cramped and given out so suddenly that I would have gone down on the steps if Katie hadn't grabbed my belt loop—and when she tried to pull my weight upright against the handrail, her own right wrist and forearm had trembled so violently that she dropped her binder across the landing. By the time we reached the cafeteria doors at ten-fifty-five, my thighs felt like lead weights and Katie's fingers were shaking so hard at the milk cooler that Mrs. DeMarco—the formidable cafeteria supervisor whom every loudmouth since Josh Riley's freshman-year dumpster sentence feared like the wrath of God—had quietly stepped out from behind the serving rail in her white apron, steadied Katie's carton without drawing a single stare from the line behind us, and murmured a gentle *"Take your time, sweetheart"* before letting us head to the window table.
+
+Reaching across the table between our lunch bags after I helped Katie pinch open the top of her straw wrapper, I laced my right fingers through Katie's left hand and rested our joined hands flat on the cool laminate tabletop so neither of our wrists had to work to hold them up.
 
 "How bad are your legs shaking right now?" I asked her quietly beneath the chatter of the cafeteria.
 
-"From my knees down to my ankles," Katie admitted softly, her thumb brushing against the back of my hand as she glanced down at the event-loop diagram in my notebook. "And my right shoulder still hurts from carrying my backpack down the upstairs hall. Our next scheduled checkup with Dr. Carter is next Friday afternoon after school, right?"
+"From my knees down to my ankles," Katie admitted softly, her thumb brushing against the back of my hand as she glanced down at the event-loop diagram in my notebook. "And my right shoulder still hurts from carrying my backpack down the upstairs hall. At least when the eleven-forty bell rings, we have our passes for Mrs. Periwinkle's library so we don't have to stand around in the Commons. Our next scheduled checkup with Dr. Carter is next Friday afternoon after school, right?"
 
-"Friday at three o'clock," I nodded, squeezing her hand gently. "Dad's picking us up right at the two o'clock dismissal bell so Dr. Carter can see how our arms and legs are doing. Whatever happens, we've got Dad on our side now, and we've got this lunch table every day. We'll get through eleventh grade together."
+"Friday at three o'clock," I nodded, squeezing her hand gently. "Dad's picking us up right at the two o'clock dismissal bell so Dr. Carter can see how our arms and legs are doing. Whatever happens, we've got Dad on our side now, and we've got this lunch table and the library together every day. We'll get through eleventh grade together."
 
 ### Part 2: When Borrowed Time Runs Out — The Collapse at School, The Emergency Room Escalation, & Time for Powerchairs
 
@@ -979,7 +981,7 @@ Reaching across the table between our lunch bags, I laced my right fingers throu
 
 All week long, all I knew was that Friday afternoon at three o'clock was our next scheduled checkup with Dr. Evelyn Carter. Dad had arranged his Friday schedule at the Community College of Hampton Roads so he could pick Katie and me up right when school let out at two o'clock and drive us straight over to Dr. Carter's office for our three o'clock appointment to see how our arms and legs were doing and go over whatever test results had come back from the lab.
 
-All we had to do was make it thirty more feet down the waxed linoleum corridor to our sixth-block classroom door.
+All we had to do was make it thirty more feet down the waxed linoleum corridor to our fourth-block classroom door.
 
 We were holding hands between us for balance, walking close to the lockers so we could brush our free fingertips against the metal doors if our ankles wobbled, when the sensation below my knees suddenly vanished.
 
@@ -1187,6 +1189,158 @@ Across the center aisle of the high-floor bus, Katie reached her left hand out o
 
 "And a house with zero stairs," I agreed, squeezing my sister's hand as Dad smiled at the two of us from the seat beside her. "We're going to be just fine."
 
+### Part 4: Purple Day Lunch, Josh Riley's Lane Toll, & The DeMarco–Periwinkle Tag-Team
+
+**Date:** 2001-10-09 at 10:55 America/New_York
+
+![Inside the sunlit Northwood High School cafeteria beneath exposed blue ceiling trusses and purple-and-gold Lion banners in October 2001, sixteen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs holding inner hands at their window table as Cafeteria Supervisor Mrs. DeMarco—wearing her white mesh hairnet, paisley blouse, and spoon-pocket white apron with arms crossed—confronts a pale, slouching Josh Riley]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_cafeteria_demarco_josh_riley_katie_nate.jpg)
+
+#### Tuesday, October 9, 2001, 10:55 AM — The Cafeteria Court & Josh Riley's Lane Toll
+
+"Hold it right there, Prairie—two motorized rigs taking up a whole traffic lane? That's a wide-load violation," Josh Riley drawled loudly near the condiment island at ten-fifty-five on Tuesday morning, stepping sideways in his baggy jeans to plant himself squarely in front of Katie's and my front casters as we rolled our brand-new compact SwiftChair power wheelchairs out of the Northwood High School lunch line.
+
+My right index finger eased back to neutral on my armrest joystick, bringing my powerchair to a smooth stop beside Katie's chair with our plastic lunch trays balanced across our laps.
+
+It was a Purple Day on Northwood High's alternating Purple and Gold Day four-block schedule, and only our second morning back at school since our legs had given out for good in the B-Wing hallway three weeks earlier. Ever since the start of our sophomore year—when the school had switched to four ninety-minute blocks running from seven-fifteen in the morning until the two o'clock dismissal bell—Third Block had served as the ninety-minute anchor in the middle of every school day: forty-five minutes of lunch in the cafeteria, followed at the mid-block bell by forty-five minutes of mandatory study hall.
+
+Even before Josh opened his mouth, a faint, unmistakable cloud hit our noses from four feet away—stale dumpster cardboard, damp paper napkins, and old deep-fryer oil.
+
+Everyone in the Class of 2003 knew Josh Riley, and everyone knew why that particular scent followed him down the hallways like cologne. Back on the very first Tuesday of our freshman year in September 1999, Josh had decided to make himself famous during lunch by standing up and bellowing a juvenile four-letter anatomy word at the top of his lungs—Attempt Number 253 in the official mental ledger of Mrs. DeMarco, Northwood High's legendary cafeteria supervisor—earning himself an immediate four-day enrollment in Advanced Sanitation Techniques out by the back loading dock dumpsters at a quarter past two. By sophomore year, after trying to extort a freshman for tater tots in the serving line, Josh had graduated to scrubbing the deep-fryer grease traps behind the kitchen doors.
+
+Clearly, two straight years of dumpster liners and fryer grease hadn't taught him when to leave people alone.
+
+"Way I see it," Josh smirked, glancing back over his shoulder for approval from his increasingly weary-looking sidekick Mark before eyeing the two warm chocolate-chip cookies sitting on napkins beside Katie's apple juice carton and my chocolate milk, "first month of school you two were holding up the stairs wobbling around like toddlers, and now you're cruising the lunchroom in matching bumper cars. Parking permit for a double wide-load costs one cookie per chair. Call it the Northwood transit tax."
+
+Beside me, Katie didn't shrink back an inch in her seat. Her blue eyes locked straight onto Josh's smirk with pure ice.
+
+"Take a step back from my tray and get out of front of our wheels, Josh," Katie said evenly.
+
+Josh let out a harsh snort and reached two fingers toward the edge of Katie's plastic tray anyway. "Relax, Prairie, I'm just collecting the—"
+
+He never finished the sentence.
+
+Around the condiment island and the three nearest lunch tables, the deafening roar of two hundred hungry juniors didn't cut off all at once; it rippled outward into a sudden, pressurized hush, as if all the oxygen had just been vacuumed out of the room beneath the exposed blue steel roof trusses.
+
+Josh froze with his fingers hovering three inches above Katie's tray, his shoulders stiffening as a shadow fell squarely across his sneakers.
+
+"Mr. Riley," a calm, velvet-smooth voice said directly behind him.
+
+Josh turned around slowly, the color draining out of his face.
+
+Standing two paces behind him beneath the purple-and-gold Northwood Spirit lion banners was Mrs. DeMarco.
+
+She wasn't raising her voice, and she wasn't reaching for an administrative referral slip. Wearing her white mesh hairnet over her salt-and-pepper dark hair, her burgundy-and-gold paisley blouse, and her crisp white canvas bib apron with a heavy stainless-steel serving spoon resting like a holstered sidearm in her right front pocket, Mrs. DeMarco stood with both arms folded across her chest and a laser gaze that had broken varsity linebackers in half.
+
+Every student at Northwood knew the unwritten Shadow Law of Mrs. DeMarco's cafeteria. You did not cut the line. You did not breathe a word, pull a face, or flare a nostril in criticism within fifty feet of the Mystery Meat Loaf or the rectangular pizza. And above all, you never tried to outsmart her in another language—a lesson cemented into school folklore after freshman year when Kevin Schmidt muttered an insult in terrible German right after Chloé Mason had chewed Josh out in French, and Mrs. DeMarco had seamlessly addressed Chloé in flawless Parisian French before verbally dismantling Kevin in razor-sharp German, followed months later by sophomore transfer Kevin O'Malley earning grease-trap duty and a five-page essay in fluent Irish Gaelic for insulting the meatloaf.
+
+![Inside the sunlit Northwood High School cafeteria beneath exposed blue ceiling trusses and purple-and-gold Lion banners in October 2001, sixteen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs holding inner hands at their window table as Cafeteria Supervisor Mrs. DeMarco—wearing her white mesh hairnet, paisley blouse, and spoon-pocket white apron with arms crossed—confronts a pale, slouching Josh Riley]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_cafeteria_demarco_josh_riley_katie_nate.jpg)
+
+"Mrs. D!" Josh stammered, snatching his hand back from Katie's tray as if the plastic were glowing red-hot. "I—uh—I was just directing traffic! Making sure nobody bumped into their new chairs by the ketchup!"
+
+Mrs. DeMarco didn't blink. When she spoke, her diction rose to that terrifying, glass-cutting academic register that made sixteen-year-old bullies feel three inches tall.
+
+"Directing traffic," Mrs. DeMarco repeated softly. "Do I appear to have deputized a habitual sanitation apprentice as a highway toll collector in my dining room, Mr. Riley? Or were you under the grotesque misapprehension that mocking two classmates' medical mobility equipment while attempting to pilfer baked goods from a young lady's lunch tray constituted a clever use of your morning?"
+
+Josh's mouth opened and closed without a sound, a bead of sweat rolling down his temple while Mark quietly edged two steps sideways toward the napkin dispensers, pretending he didn't know him.
+
+"Since you possess such a sudden, burning passion for unobstructed right-of-way and wheeled mechanics," Mrs. DeMarco continued, her voice dropping to a lethal purr that carried cleanly across five tables, "allow me to channel that enthusiasm into a structured curriculum. You will report to me at the back service entrance by Dumpster Number One promptly at two o'clock this afternoon—adjusted, as you well know, for our block schedule—and every afternoon for the next two academic weeks. On Purple Days, you will consolidate exterior refuse and scrape every piece of petrified chewing gum from the undersides of the window tables. On Gold Days, you will reacquaint yourself with the grease traps behind the deep fryers."
+
+A low, collective *oooooh* rippled softly along the serving rail before dying instantly at a single flick of Mrs. DeMarco's eyelashes.
+
+"Furthermore," Mrs. DeMarco added crisply, "during your mandatory forty-five-minute study hall periods for the next two weeks, you will compose and deliver to my desk a ten-page, double-spaced essay titled *The Physics of Courtesy: Unobstructed Right-of-Way and Basic Human Decency in Shared Public Spaces*. One word of protest, Mr. Riley, and I shall gladly hand this matter directly to Principal Thompson instead. Am I understood?"
+
+"Y-yes, Mrs. DeMarco," Josh croaked, his shoulders slumping in complete, soul-crushing defeat. "Two o'clock. Dumpster Number One."
+
+"Move along, Mr. Riley. Quietly."
+
+As Josh shuffled away with his head down, Mrs. DeMarco turned toward Katie and me—and in the span of a single breath, we witnessed the other half of the legend that upperclassmen whispered about during Unofficial Orientation: the *Sweet Angel* Proviso.
+
+Every trace of arctic steel vanished from her eyes. Unfolding her arms, Mrs. DeMarco stepped beside our two compact powerchairs with genuine, unhurried warmth.
+
+"Did he bump either of your controllers, sweethearts?" Mrs. DeMarco asked gently.
+
+"No, ma'am—thank you, Mrs. DeMarco," I said sincerely, and Katie nodded right beside me. "Thank you for stepping in."
+
+"You two never need to thank me for keeping the riffraff clear of my floor," Mrs. DeMarco said with a small, warm smile. She gestured toward our usual sunlit corner table by the tall windows—where, to our astonishment, two of the bolted blue plastic cafeteria chairs at the end had already been unfastened and removed by the custodian, leaving a wide, clear dual-wheelchair bay right under the laminate tabletop. "I had Mr. Jenkins unbolt those two end seats before first block on Monday so you and your sister can roll straight up together without waiting on anyone. Oh—and it looks like the line shorted each of your trays a dessert."
+
+Before either of us could say we already had cookies, Mrs. DeMarco produced two fresh, warm paper-wrapped chocolate-chip cookies from a clean wax sheet on the rolling cart beside her, set one gently onto Katie's tray and one onto mine, gave us a brisk, protective wink, and resumed her patrol down the center aisle.
+
+Rolling up side by side to our newly cleared window table, Katie and I clicked off our joysticks, reached our inner hands across our armrests to lace our fingers together on the tabletop, and glanced down the sunlit window row—where two other juniors in powerchairs who knew Mrs. DeMarco's courtroom justice by heart caught our eyes over their lunch trays and shared an amused, silent grin of solidarity.
+
+***
+
+#### Tuesday, October 9, 2001, 11:40 AM — The Sanctuary of the Stacks & The DeMarco–Periwinkle Tag-Team
+
+At eleven-forty sharp, the mid-block transition bell rang overhead, splitting Third Block from lunch into forty-five minutes of mandatory study hall.
+
+Out in the cavernous hub of the Commons beneath the blue steel roof trusses, three hundred teenagers poured onto the wide, bumpy quarry tiles—their voices echoing off the glass wall of the permanently locked interior courtyard with its bronze Lion statue. Across the edge of the Commons near the vending machines, Katie and I caught a brief, bittersweet glimpse of our maternal cousin Brittany standing in a noisy circle with Tyler and several hard-partying seniors. Back in ninth and tenth grade—once Brittany's neighborhood feeder zone had finally brought her to Northwood High with Katie and me after elementary and middle school apart—all three of us had eaten together at that corner cafeteria table every day and walked straight into the library afterward, talking about how the three of us were probably going to rent an apartment and live together when we grew up. Lately, though, Brittany barely waved before turning back to Tyler's crowd in the Commons.
+
+For two autistic sixteen-year-olds whose ten-inch drive wheels rattled like jackhammers over the deep grout lines of the Commons tiles, forty-five minutes in that roaring echo chamber was out of the question.
+
+Thankfully, clipped behind our brass elevator keys were two laminated Section 504 library passes. Steering side by side across the Commons to the tall glass-walled entrance of the Northwood High School Library, I pushed the accessible door plate, and Katie and I glided inside.
+
+Crossing that threshold was like rolling through an airlock into outer space.
+
+The roar of three hundred teenagers cut off instantly behind the heavy glass, replaced by the scent of paperbacks, lemon polish on oak shelves, and the low, steady hum of the air conditioning beneath two enormous purple-and-gold wall banners hanging side by side over the stacks: *NORTHWOOD HIGH SCHOOL LIBRARY* with the golden Lion crest on the left, and *SILENCE IS OBSERVED - SHHH!* in unmistakable gold block letters on the right.
+
+Seated squarely behind the high circulation desk beside her beige desktop card-catalog computer and her brass *HEAD LIBRARIAN* nameplate was Mrs. Periwinkle.
+
+If Mrs. DeMarco ruled the physical territory of the cafeteria through swift custodial labor, Mrs. Periwinkle governed the academic wing through pure, uncompromising psychological order. Perfectly coiffed silver-gray hair framed an unblinking gaze, a button-up pastel periwinkle cardigan sat smoothed to mathematical symmetry over her shoulders, and a pair of tortoiseshell reading glasses hung on a gold chain at her collarbone.
+
+As Katie and I rolled silently past the circulation desk, Mrs. Periwinkle lifted her chin and scanned both of our wheelchair lap trays for contraband—food wrappers, chewing gum, soda cans, or leaking headphone cords. Finding nothing except our spiral *Quantum Basic 6.0* coding notebook and two sharpened pencils, her tight-lipped expression softened by a fraction of a millimeter.
+
+"Good morning, Prairies," Mrs. Periwinkle whispered, her voice no louder than dry autumn leaves brushing together.
+
+"Good morning, Mrs. Periwinkle," Katie and I whispered back in unison.
+
+She gave a single, approving nod toward the wide oak reference table near the oversized world atlases and the *005* computer-programming shelves—our favorite quiet refuge in the entire building. Parking our compact powerchairs side by side at the end of the oak table, Katie and I laced my right hand and her left hand together while using our free hands to sketch a menu-loop subroutine in clean, uninterrupted peace.
+
+Fifteen minutes later, the glass entrance doors clattered open a notch too fast.
+
+In shuffled Josh Riley, clutching a crumpled yellow cafeteria study-hall pass and an empty spiral notebook—evidently banished from the Commons to begin drafting page one of his ten-page courtesy essay. Trailing a faint whiff of stale dumpster cardboard past the card-catalog terminal, Josh spotted two guys from the football team sitting near the magazine rack, leaned over their table, and groaned loudly enough to carry across three aisles of oak shelving.
+
+"Can you believe that crazy lunch lady?" Josh muttered, tossing his notebook onto the oak table with a slap that sounded like a gunshot in the silent room. "Ten pages single-handed just 'cause the bumper-car twins—"
+
+*"Shhh!"*
+
+The sound cracked through the library air like a bullwhip.
+
+Every head between the biography wall and the encyclopedias froze. Standing at the end of the *900* History aisle with one finger raised was Mrs. Periwinkle, sliding her tortoiseshell spectacles up onto the bridge of her nose so her eyes magnified to owl-like proportions.
+
+"Mr. Riley," Mrs. Periwinkle hissed in a razor-edged stage whisper that somehow reached every corner of the room without breaking her own decibel law. "This is a house of scholarship. If you wish to bellow like barn livestock, the Commons lies thirty feet behind that glass. Within these walls, silence is observed."
+
+"I was just sitting down to write Mrs. DeMarco's stupid—" Josh started to whine.
+
+"And it appears," a second, chillingly calm voice observed from directly behind him at the glass entrance doors, "that you have not yet written the title."
+
+Katie and I looked up from our coding notebook, our eyes going wide.
+
+Standing just inside the library doorway with an institutional nutrition reference binder tucked neatly under one arm—having stepped across the Commons on her mid-shift break to return a library volume—was Mrs. DeMarco.
+
+Across the carpet beside the circulation desk, Mrs. DeMarco's dark eyes met Mrs. Periwinkle's magnified gaze. Neither woman spoke a word to the other, yet a single, nearly imperceptible nod passed between them—the silent, terrifying handshake of Northwood High's two supreme authorities.
+
+![Inside the Northwood High School Library beneath the purple-and-gold 'NORTHWOOD HIGH SCHOOL LIBRARY' and 'SILENCE IS OBSERVED - SHHH!' banners in October 2001, sixteen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs holding hands at an oak study table while Head Librarian Mrs. Periwinkle in her pastel lavender cardigan and Cafeteria Supervisor Mrs. DeMarco execute their silent tag-team disciplinary maneuver on a horrified Josh Riley]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_library_periwinkle_demarco_tag_team.jpg)
+
+"Mrs. DeMarco," Mrs. Periwinkle said smoothly, folding her hands in front of her pastel periwinkle cardigan, "if Mr. Riley finds your outdoor sanitation curriculum and essay assignment insufficiently engaging, I would be more than happy to host his afternoon rehabilitation right here in the Media Center."
+
+Josh blinked rapidly between Mrs. DeMarco and Mrs. Periwinkle, a fresh, existential horror dawning across his face as he realized there was no Geneva Convention protecting him in this room.
+
+"Our *930* Ancient Civilizations shelves and *500* Natural Sciences stacks are overdue for a complete shelf-reading audit," Mrs. Periwinkle continued, sweeping one hand toward three thousand thick clothbound volumes. "Every single spine verified to the third decimal place of the Dewey Decimal System, in total, uninterrupted silence under my direct supervision from two o'clock until four—followed, of course, by scrubbing the library's wastebaskets before departure."
+
+Mrs. DeMarco tilted her head a fraction of an inch, the faintest trace of dry amusement flickering behind her eyes as she looked at Josh.
+
+"A generous academic offer, Mrs. Periwinkle," Mrs. DeMarco murmured. "Well, Mr. Riley? Fresh autumn air at Dumpster Number One and silent progress on your ten-page essay right now—or three weeks of silent Dewey Decimal precision under Mrs. Periwinkle's tutelage? The choice is entirely yours."
+
+For Josh Riley—a boy who viewed three-digit numbers after a decimal point and enforced silence as psychological torture worse than death—there was no choice at all. Every ounce of attitude evaporated from his spine on the spot.
+
+"The dumpsters, Mrs. DeMarco," Josh squeaked in a terrified whisper, dropping into the solitary study carrel nearest the circulation desk and flipping his blank notebook open so fast he nearly tore the cover. "I'll do the dumpsters and the grease traps! I'm writing the essay right now—not another word, swear to God!"
+
+"A prudent calculation, Mr. Riley," Mrs. DeMarco replied softly. Offering Mrs. Periwinkle one last nod of mutual professional respect, she set her returned binder cleanly in the drop slot and slipped back out through the glass doors toward her cafeteria.
+
+Behind the front desk, Mrs. Periwinkle watched Josh hunch silently over his notebook for five full seconds to verify compliance, then glided down the carpeted aisle past our oak reference table. Without breaking stride, she set two crisp, newly cataloged *Structured Programming & Visual Algorithms* handbooks silently at the corner of our table, gave Katie and me a tiny, almost imperceptible nod over the rims of her spectacles, and returned to her post.
+
+Waiting until she was ten feet away, Katie leaned sideways across our armrests, pressed her forehead lightly against my shoulder to muffle her silent laugh, and squeezed my right hand twice—both of us grinning from ear to ear inside the safest, quietest forty-five minutes at Northwood High School.
+
 ## Sixteen on Four Wheels & Finding Dates
 
 ### Part 1: Navigating Northwood High on Four Wheels, Two First Dates, & Why We Ride on Saturday
@@ -1219,27 +1373,27 @@ With a slow mechanical clunk, the sliding metal door rattled open, releasing the
 
 "He nearly knocked his own varsity jacket off his shoulder," Katie laughed, squeezing my hand as the floor indicator light blinked from 1 to 2. "Remind me again why we used to be afraid of using this elevator?"
 
-"Because we didn't know how nice it was to get to second period without our legs shaking," I said honestly as the elevator chimed and the door rattled open onto the upstairs landing. "See you at eleven-forty at our table?"
+"Because we didn't know how nice it was to get to first block without our legs shaking," I said honestly as the elevator chimed and the door rattled open onto the upstairs landing. "See you at ten-fifty-five at our table?"
 
-"Count on it," Katie smiled, giving my hand one last squeeze before we released our fingers and steered in opposite directions down the hall—Katie toward first-period U.S. History, and me toward first-period English.
+"Count on it," Katie smiled, giving my hand one last squeeze before we released our fingers and steered in opposite directions down the hall—Katie toward first-block Chemistry on Gold Days, and me toward first-block English.
 
 ***
 
-#### Monday, October 15, 2001, 11:45 AM — Head Over Heels for Heather & Katie's Guarded Heart
+#### Monday, October 15, 2001, 11:00 AM — Head Over Heels for Heather & Katie's Guarded Heart
 
-"You were smiling all the way from the milk cooler to the table, Nate," Katie teased gently four hours later as the two of us parked our compact power wheelchairs side by side at the open end of our sunlit corner cafeteria table and clicked our joystick motors off. "Let me guess: Heather Collins sat next to you in second-period Computer Lab again?"
+"You were smiling all the way from Mrs. DeMarco's milk cooler to the table, Nate," Katie teased gently three and a half hours later as the two of us parked our compact power wheelchairs side by side in the cleared dual-wheelchair bay at the end of our sunlit corner cafeteria table and clicked our joystick motors off. "Let me guess: Heather Collins sat next to you in second-block Computer Lab again?"
 
 I felt my ears turn warm all the way to the tips as I set my brown paper lunch bag beside our spiral *Quantum Basic* notebook.
 
-"She moved her chair right next to my power chair for the whole ninety-minute block," I admitted, unable to keep the grin off my face as I poked Katie's straw into her apple juice box for her and handed it across our armrests. "When everybody else in the row stepped around my wheelchair like it was radioactive, Heather didn't even blink. She showed me wallet photos of her family, helped me pick a color palette for our *Quantum Basic* menu screen, and asked if I wanted to sit with her at the computer table every day this semester."
+"She moved her chair right next to my power chair for the whole ninety-minute block," I admitted, unable to keep the grin off my face as I poked Katie's straw into her apple juice box for her and handed it across our armrests. "When everybody else in the row stepped around my wheelchair like it was radioactive, Heather didn't even blink. She showed me wallet photos of her family, helped me pick a color palette for our *Quantum Basic* menu screen, and asked if I wanted to sit with her at the computer table every Gold Day this semester."
 
 The truth was, I wasn't just crushing on Heather Collins—at sixteen years old, I was completely, head-over-heels in love with her. From the first week of Junior year in Room 204, Heather had treated me with a warm, effortless kindness that made my heart race every time she walked through the classroom door.
 
 Beside me, Katie took a sip of her juice box, her expression softening with genuine happiness for me before a quieter, more thoughtful look crossed her face.
 
-"What about Ryan Miller in third-period Chemistry?" I asked, reaching my right hand across the gap between our chairs to take Katie's left hand on the laminate tabletop. "You said on Friday that he kept leaning across the lab bench to talk to you."
+"What about Ryan Miller in first-block Chemistry?" I asked, reaching my right hand across the gap between our chairs to take Katie's left hand on the laminate tabletop. "You said on Friday that he kept leaning across the lab bench to talk to you."
 
-"He did again today," Katie said, though her voice was noticeably more reserved than mine. Ever since seventh grade—when Brandon had dumped her in the middle of the hallway and left her sobbing beneath the blue butterfly in her bedroom—Katie had kept a careful, protective wall around her heart when it came to boys. "Actually, while we were cleaning up our beakers at the accessible lab sink, Ryan asked if I wanted to go out with him to Emerald Creek Mall this weekend. And he asked if you had a girlfriend you wanted to bring along so we could make it a double date."
+"He did again today," Katie said, though her voice was noticeably more reserved than mine. Ever since seventh grade at Morrison Middle School—when Chad had dumped her in the middle of the cafeteria and left her sobbing beneath the blue butterfly in her bedroom—Katie had kept a careful, protective wall around her heart when it came to boys. "Actually, while we were cleaning up our beakers at the accessible lab sink, Ryan asked if I wanted to go out with him to Emerald Creek Mall this weekend. And he asked if you had a girlfriend you wanted to bring along so we could make it a double date."
 
 My breath caught in my throat. Neither Katie nor I had ever been on a real high-school date before. Before our legs gave out in September and we got our compact power wheelchairs, Katie and I had gone to both Emerald Creek Mall and Chesapeake Bay Mall all the time—with Chesapeake Bay Mall out on Lynnhaven Parkway always being our favorite "big trip" mall (which we still hadn't visited yet since getting our powerchairs), and Emerald Creek Mall becoming our favorite regular teenage hangout because we only needed to ride a single bus from Military Highway to get there.
 
@@ -1257,7 +1411,7 @@ My breath caught in my throat. Neither Katie nor I had ever been on a real high-
 
 #### Wednesday, October 17, 2001, 10:05 AM — Two Very Different Reactions
 
-"A Saturday afternoon double date at Emerald Creek Mall with you and Katie?" Heather Collins repeated on Wednesday morning in second-period Computer Lab, her warm hazel eyes lighting up with an immediate, genuine smile that made my chest feel weightless. "I would love to, Nate! How are you and Katie getting over to Emerald Creek?"
+"A Saturday afternoon double date at Emerald Creek Mall with you and Katie?" Heather Collins repeated on Wednesday morning near the end of second-block Computer Lab, her warm hazel eyes lighting up with an immediate, genuine smile that made my chest feel weightless. "I would love to, Nate! How are you and Katie getting over to Emerald Creek?"
 
 "We live right near Military Highway and Indian River Road now, so we're taking CVTA Route 15 at twelve-twenty-five," I explained honestly, bracing myself just in case a high-school girl thought riding the city bus on a first date was uncool. "The high-floor bus has a hydraulic wheelchair lift in the front stairwell, so Katie and I can roll our power chairs right aboard together without Dad having to break them down for the trunk of his car."
 
@@ -1265,7 +1419,7 @@ Heather didn't flinch or look embarrassed for a fraction of a second. Instead, h
 
 "That is so smart—my dad can drop me off at the main mall entrance at twelve-forty, and I'll ride the back glass elevator right up to the second-floor food court to meet you and Katie," Heather said brightly, reaching over to touch the sleeve of my flannel shirt. "I can't wait for Saturday, Nate."
 
-Two hours later at Fourth-Block lunch, however, when Katie rolled up to the corner table and parked beside me, I could see immediately from the tight set of her jaw that her conversation with Ryan Miller in third-period Chemistry had gone very differently.
+Fifty minutes later at Third-Block lunch, however, when Katie rolled up to our cleared bay at the corner table under Mrs. DeMarco's watchful eye and parked beside me before we headed into Mrs. Periwinkle's library for study hall, I could see immediately from the tight set of her jaw that her conversation with Ryan Miller in first-block Chemistry had gone very differently.
 
 "Ryan agreed to meet us at twelve-forty-five on Saturday," Katie said quietly, unwrapping her sandwich and taking my right hand across the table, "but we didn't even make it out of the Chemistry lab before he got weird about two things."
 
@@ -1423,7 +1577,7 @@ Tonight was supposed to be about saving her.
 
 It was Tuesday, December 31, 2002—the middle of our Senior year at Northwood High School, just over three months before Katie and I would turn eighteen on April 8. Ever since the Friday afternoon in September of our Junior year when the borrowed time in our legs had finally run out in the hallway at school, both Katie and I had used our compact power wheelchairs full-time from the moment we woke up until we went to bed at night.
 
-Back when we were younger, Brittany had lived in a neighborhood zoned for a different elementary school and middle school while Katie and I went to Northwood Elementary and Morrison Middle School. Once all three of us started ninth grade at Northwood High School, however, we were finally under the same roof every day—and for our first two years of high school, Brittany, Katie, and I had done everything together. We ate lunch at the same corner table in the cafeteria, did homework together after school, and talked seriously about how once we graduated and grew up, the three of us were probably going to get an apartment and live together as three. Even after Dad divorced our mother in August 2001, Dad had made sure Brittany was still allowed to be part of our family because none of what our mom had done on the cruise ship was Brittany's fault. Over the past year at Northwood High, though, Brittany had fallen in with the wrong crowd—a loud, hard-partying group of seniors—and had started drifting further and further away from Katie and me.
+Back when we were younger, Brittany had lived in a neighborhood zoned for a different elementary school and middle school while Katie and I went to Northwood Elementary and Morrison Middle School. Once all three of us started ninth grade at Northwood High School, however, we were finally under the same roof every day—and for our first two years of high school, Brittany, Katie, and I had done everything together. We ate lunch together at the same corner table in Mrs. DeMarco's cafeteria every day, whispered over homework together in Mrs. Periwinkle's silent library during study hall, hung out after school, and talked seriously about how once we graduated and grew up, the three of us were probably going to get an apartment and live together as three. Even after Dad divorced our mother in August 2001, Dad had made sure Brittany was still allowed to be part of our family because none of what our mom had done on the cruise ship was Brittany's fault. Over the past year at Northwood High, though, Brittany had fallen in with the wrong crowd—a loud, hard-partying group of seniors—and had started drifting further and further away from Katie and me.
 
 Up in Newport, Rhode Island—where Dad had grown up, and where his mother, our paternal grandmother, lived alongside Dad's sister Aunt Elizabeth and our older cousin Chelsea—Grandma had come down with a bad winter bronchitis over Christmas and couldn't travel south to Virginia on the ARTS train. Because hauling two heavy power wheelchairs nine hours north up Interstate 95 into New England winter weather for a brief New Year's visit would have been exhausting, Katie and I had stayed home in Virginia Beach while Dad drove up to Newport, Rhode Island to check on Grandma, Aunt Liz, and Chelsea for the New Year. Knowing Brittany was slipping deeper into that rough crowd at school, Katie and I were the ones who had asked Dad to let Brittany spend New Year's Eve at the house with us while he was out of state—both so an able-bodied person would be under the roof in case of a winter power outage and because we wanted to try to rescue her from the wrong crowd. In our minds, if we could just pull Brittany away from those kids for one safe, warm New Year's Eve—eating pizza, drinking sparkling apple cider, and laughing together the way the three of us used to in ninth and tenth grade—maybe she would come back to us. Before Dad backed his Holt sedan down the driveway to head north for Rhode Island, he had stood right in the center of our living room and laid down the law: the front door was to stay deadbolted, nobody else was allowed over at the house, and there was zero alcohol allowed under his roof.
 
