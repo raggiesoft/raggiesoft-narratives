@@ -10892,7 +10892,7 @@ When **HIST 115** let out at 10:45 AM, the rest of the group headed to their mid
 
 #### January 13, 2015 • 5:30 PM — Options, Funding, and the Man in the Chair
 
-That Tuesday evening after classes, **Daniel Brooks** picked up the nine students in the minivan and Caleb’s SUV and brought them out to **414 Geneva Street** in Christiansburg for a family dinner—and for a critical planning session that Daniel and Jordan had scheduled over Winter Break.
+That Tuesday evening after classes, Daniel Brooks picked up the nine students in the minivan and Caleb’s SUV and brought them out to the Brooks house on Geneva Street in Christiansburg for a family dinner—and for a critical planning session that Daniel and Jordan had scheduled over Winter Break.
 
 While **Laura**, **Hannah**, and **Lauren** set a bubbling tray of baked ziti on the kitchen counter, Daniel carried three thick, color-coded manila folders over to the large dining room table and sat down across from **Jordan**, with **Aubrie Jean**, **Madison**, **Zoë**, **Sarah**, **Jessica**, and **Mark** gathered beside them.
 
@@ -11057,7 +11057,7 @@ A laser printer beside the desk whirred to life and spat out the stamped Form 88
 
 Thirty minutes later, on their drive down to Christiansburg, **Daniel** made a scheduled ten-minute stop at the **Commonwealth of Virginia Department of Motor Vehicles (DMV) Customer Service Center**.
 
-Presenting his certified Virginia birth certificate, his Social Security card, his CPI enrollment verification, and two residency proofs signed at **414 Geneva Street, Christiansburg, Virginia 24073**, Jordan rolled up to the camera backdrop, sat tall in his maroon CPI polo, and had his official **Commonwealth of Virginia Adult Identification Card** issued on the spot—simultaneously logging into the **CPI Student Portal** on his laptop to lock **414 Geneva Street, Christiansburg (Montgomery County)** as his permanent legal domicile.
+Presenting his certified Virginia birth certificate, his Social Security card, his CPI enrollment verification, and two residency proofs signed for Geneva Street in Christiansburg, Virginia, Jordan rolled up to the camera backdrop, sat tall in his maroon CPI polo, and had his official Commonwealth of Virginia Adult Identification Card issued on the spot—simultaneously logging into the CPI Student Portal on his laptop to lock Geneva Street in Christiansburg, Montgomery County, as his permanent legal domicile.
 
 "Phase One and Phase Two of Saturday logistics complete," Zoë said, filing the DMV receipt behind the IRS Form 8879 in Jordan's self-advocacy binder. "Next stop: the Christiansburg mobility lab at ten-thirty."
 
@@ -11131,7 +11131,7 @@ The acceptance agent, an older woman with kind eyes behind half-rim glasses, rev
 
 Jordan raised his right hand, took the oath, and signed the application in black ink right in front of her. When he wrote the check for the expedited passport fee from his own standalone credit-union checking account—reimbursed into his stipend fund through Daniel's family travel grant, but drawn on Jordan's own signature—the agent stamped the seal onto the corner of his paperwork with a solid metallic *thunk*.
 
-An hour later, back at **414 Geneva Street** in Christiansburg, all eighteen of them gathered around the dining room and kitchen tables with six **Pinnacle Vanguard Pro** laptops open side-by-side to complete the second half of the border-crossing setup.
+An hour later, back on Geneva Street in Christiansburg, all eighteen of them gathered around the dining room and kitchen tables with six Pinnacle Vanguard Pro laptops open side-by-side to complete the second half of the border-crossing setup.
 
 "Because the World Trek starts on May twenty-third by flying north into Newfoundland and crossing the Canadian border before our transoceanic legs," **Daniel** explained as he helped ten-year-old **Jacob** enter his birth date while Jordan completed his own **NEXUS** portal form beside **Aubrie Jean** and **Hannah**, "the NEXUS card gives all sixteen U.S. citizens dedicated expedited processing entering Canada plus TSA PreCheck and Global Entry privileges when we return to the United States—while Sarah and Jessica's biometric Australian ePassports and Canadian eTA clearances link directly to the same group manifest."
 
@@ -11851,7 +11851,7 @@ And beside the door, Brianna, Garrett, and Isabel gave Jordan a fierce, unified 
 
 #### March 2, 2015 • 5:15 PM — The War Council and The Hotel at Poly
 
-By five-fifteen that Monday evening—after **Daniel** and **Caleb** had picked up the nine students outside the second-floor **Washington Street SW** entrance of Bennett Hall in Blacksburg and driven them fifteen minutes down Route 460 to the Brooks family residence at **414 Geneva Street** in **Christiansburg**—the dining room had been transformed into a tactical command center.
+By five-fifteen that Monday evening—after Daniel and Caleb had picked up the nine students outside the second-floor Washington Street SW entrance of Bennett Hall in Blacksburg and driven them fifteen minutes down Route 460 to the Brooks family residence on Geneva Street in Christiansburg—the dining room had been transformed into a tactical command center.
 
 Seated at the head of the oak table were **Daniel** and **Laura Brooks**, surrounded by all nine members of Suite 214/216 along with **Caleb** and nineteen-year-old **Owen Brooks**.
 
@@ -12071,7 +12071,7 @@ Madison reached out and squeezed Jordan’s hand through her tears.
 
 #### March 16, 2015 • 1:30 PM — Three Hundred and Fifty Pounds of Freedom
 
-On Monday afternoon, March sixteenth—as the nine students returned from a peaceful, laughter-filled Spring Break in Bluewater to learn from **Daniel Brooks** that Aubrie Sinclair's private investigator had checked out of his Route 460 motel and gone back to Tidewater empty-handed—the hydraulic lift-gate on the back of the **Blue Ridge Complex Rehab & Mobility** sprinter van hummed down onto the concrete apron of the Brooks driveway at **414 Geneva Street**.
+On Monday afternoon, March sixteenth—as the nine students returned from a peaceful, laughter-filled Spring Break in Bluewater to learn from Daniel Brooks that Aubrie Sinclair's private investigator had checked out of his Route 460 motel and gone back to Tidewater empty-handed—the hydraulic lift-gate on the back of the Blue Ridge Complex Rehab & Mobility sprinter van hummed down onto the concrete apron of the Brooks driveway on Geneva Street.
 
 **Marcus Vance** backed the flagship machine out into the March sunlight, while his assistant wheeled out Jordan's matching fourteen-pound **`Vanguard AeroLite-Ti`** custom brushed-titanium folding manual chair for tight indoor spaces and car trunks.
 
@@ -16135,13 +16135,13 @@ The moment the chamber door clicked shut, the last phantom weight of Virginia Be
 
 **Date:** 2015-08-19 at 17:00 America/New_York
 
-True to **Daniel Brooks's** word on the courthouse steps, **Jordan Fuller** had come home from the Montgomery County Courthouse on Tuesday afternoon, transferred into the center of the queen-sized bed in the walk-out basement at **414 Geneva Street**, and slept for twenty-two uninterrupted hours.
+True to Daniel Brooks's word on the courthouse steps, Jordan Fuller had come home from the Montgomery County Courthouse on Tuesday afternoon, transferred into the center of the queen-sized bed in the walk-out basement on Geneva Street, and slept for twenty-two uninterrupted hours.
 
 For the first time in nineteen years, his sleep had been completely dreamless—unshadowed by Virginia Beach, unshadowed by private investigators, and permanently shielded by a Circuit Court protective order and a dismissal with prejudice. When Jordan finally woke at three o'clock on Wednesday afternoon, showered, and dressed in a fresh navy-blue CPI Astrophysics t-shirt and comfortable athletic shorts, he felt as if a fifty-pound lead vest had been unbolted from his ribs.
 
 At five o'clock that evening, the crunch of tires on the paved driveway above the hillside signaled the arrival of their dinner guest.
 
-Up at the curb in front of **414 Geneva Street**, **Isabel Claire Dawson** put her compact sedan into park, switched off the ignition, and sat frozen behind the steering wheel with both hands gripping the leather wrap at ten and two.
+Up at the curb in front of the Brooks house on Geneva Street, Isabel Claire Dawson put her compact sedan into park, switched off the ignition, and sat frozen behind the steering wheel with both hands gripping the leather wrap at ten and two.
 
 She was an absolute nervous wreck.
 
@@ -16149,7 +16149,7 @@ She was an absolute nervous wreck.
 
 Except she knew perfectly well why her pulse was hammering in her throat at a hundred and thirty beats per minute.
 
-Even though Jordan and his found family had visited *her* parents' house on Whippoorwill Road in Charlottesville during Thanksgiving and Winter Break, Isabel had **never once been to 414 Geneva Street**. Throughout all of Freshman Year, she had guarded her professional Residence Life boundary with iron discipline; while she was Jordan's active second-floor RA at Bennett Hall, visiting her residents' private off-campus family home in Christiansburg had been a line she refused to cross.
+Even though Jordan and his found family had visited *her* parents' house on Whippoorwill Road in Charlottesville during Thanksgiving and Winter Break, Isabel had never once been to the house on Geneva Street. Throughout all of Freshman Year, she had guarded her professional Residence Life boundary with iron discipline; while she was Jordan's active second-floor RA at Bennett Hall, visiting her residents' private off-campus family home in Christiansburg had been a line she refused to cross.
 
 More than that, Isabel realized with a sudden, dizzying flutter in her stomach that she had **never stepped inside Jordan's living quarters as a civilian**.
 
@@ -16224,7 +16224,7 @@ Jordan rolled his chair right up beside her, reached out with his right hand, an
 
 **Date:** 2015-08-19 at 19:30 America/New_York
 
-![Inside the walk-out basement sanctuary at 414 Geneva Street under warm amber fairy lights and Blue Ridge twilight, twenty-one-year-old Isabel Dawson kneels on the carpet beside Jordan Fuller's wheelchair with her palms framing his clean-shaven jaw right before their first romantic kiss, while Jordan holds her close and Aubrie Jean Kelly, Madison Scott, and Zoë Wren Brooks watch with warm, zero-jealousy smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c002/p002/secret-everyone-already-knew.jpg)
+![Inside the walk-out basement sanctuary on Geneva Street under warm amber fairy lights and Blue Ridge twilight, twenty-one-year-old Isabel Dawson kneels on the carpet beside Jordan Fuller's wheelchair with her palms framing his clean-shaven jaw right before their first romantic kiss, while Jordan holds her close and Aubrie Jean Kelly, Madison Scott, and Zoë Wren Brooks watch with warm, zero-jealousy smiles.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c002/p002/secret-everyone-already-knew.jpg)
 
 After a boisterous dinner upstairs around the main dining table—where **Daniel** and **Laura Brooks** toasted the courtroom victory with sparkling apple cider and **Isabel's** warm Blacksburg turnovers disappeared in less than ten minutes—the younger generation headed back down to the walk-out basement sanctuary for tea.
 
@@ -16305,7 +16305,7 @@ Jordan closed his eyes and kissed her back—steady, tender, and completely unhu
 
 #### 9:30 AM — Angles, Leverage, and the Bed-Frame Fulcrum Lift
 
-At nine-thirty on Thursday morning—the final quiet day before CPI's campus erupted into the controlled chaos of Freshman Move-In Friday—**Isabel Dawson** returned to the walk-out basement at **414 Geneva Street** dressed in flexible athletic leggings, running sneakers, and a soft grey t-shirt with her long dark hair tied back in a practical ponytail.
+At nine-thirty on Thursday morning—the final quiet day before CPI's campus erupted into the controlled chaos of Freshman Move-In Friday—Isabel Dawson returned to the walk-out basement on Geneva Street dressed in flexible athletic leggings, running sneakers, and a soft grey t-shirt with her long dark hair tied back in a practical ponytail.
 
 Last night had been about tears, relief, and a first kiss eleven months in the making.
 
@@ -16481,7 +16481,7 @@ On Monday, August 24, 2015—the first morning of their sophomore year at the Co
 
 It started with a brutal, synchronized chime at `5:00 AM` sharp.
 
-In the pitch-black sanctuary of the walk-out basement at 414 Geneva Street, a chorus of groans rose from the massive king-sized bed. **Jordan** blinked awake, momentarily disoriented by the darkness, before feeling the familiar, grounding warmth of **Aubrie Jean** curled against his right side and **Madison** tucked against his left. Across the mattress, **Lauren**, **Sarah**, and **Jessica** were buried under the down comforter, while upstairs in Zoë’s old second-floor bedroom, **Mark** and **Hannah** were dragging themselves out of bed to the sound of the exact same alarm.
+In the pitch-black sanctuary of the walk-out basement on Geneva Street, a chorus of groans rose from the massive king-sized bed. Jordan blinked awake, momentarily disoriented by the darkness, before feeling the familiar, grounding warmth of Aubrie Jean curled against his right side and Madison tucked against his left. Across the mattress, Lauren, Sarah, and Jessica were buried under the down comforter, while upstairs in Zoë’s old second-floor bedroom, Mark and Hannah were dragging themselves out of bed to the sound of the exact same alarm.
 
 Only **Zoë** was already standing by the basement desk, fully dressed in a charcoal-gray CPI hoodie and jeans, her tablet illuminated in her hands.
 
@@ -16695,11 +16695,11 @@ They had found their new normal.
 
 **Date:** 2015-08-26 at 19:30 America/New_York
 
-![Around the oak dining table at 414 Geneva Street in Christiansburg, Zoë Wren Brooks (with lavender hair and cyan code reflected in her glasses) and Jordan Fuller (in his S.S. Freedom power wheelchair beside her) co-design the linear-type compiler for Fin# to enforce the First Law of Thermodynamics on double-entry accounting, while Daniel Brooks stands proudly behind Zoë and Aubrie Jean Kelly and Mark look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c001/p003/birth-of-finsharp.jpg)
+![Around the oak dining table on Geneva Street in Christiansburg, Zoë Wren Brooks (with lavender hair and cyan code reflected in her glasses) and Jordan Fuller (in his S.S. Freedom power wheelchair beside her) co-design the linear-type compiler for Fin# to enforce the First Law of Thermodynamics on double-entry accounting, while Daniel Brooks stands proudly behind Zoë and Aubrie Jean Kelly and Mark look on.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c001/p003/birth-of-finsharp.jpg)
 
 By Wednesday evening of their first week back at CPI—**August 26, 2015**—the **`6:00 AM` Blue Ridge Transit Route 1** commute had settled into a smooth, frictionless routine. Two mornings in a row, Jordan had rolled *S.S. Freedom* straight up the low-floor pneumatic kneel ramp at the Christiansburg Transit Center, rode forty-five minutes up Business 460 in a warm cabin, waited a mere fifteen minutes at **Commonwealth Mall**, and rolled across the street into **Kincaid Commons** the second the magnetic locks clicked open at `7:00 AM`.
 
-After dinner at **`414 Geneva Street`**, the long oak dining table was transformed into a sophomore study hall. **Jordan** and **Mark** were working through their first problem set for **Engineering Thermodynamics**, **Aubrie Jean** and **Madison** were reviewing their studio syllabi side by side, and at the head of the table, **Zoë** had her laptop open next to her father, **Daniel Brooks, CPA**.
+After dinner on Geneva Street, the long oak dining table was transformed into a sophomore study hall. Jordan and Mark were working through their first problem set for Engineering Thermodynamics, Aubrie Jean and Madison were reviewing their studio syllabi side by side, and at the head of the table, Zoë had her laptop open next to her father, Daniel Brooks, CPA.
 
 As a double major in **Computer Science** and **Finance**, Zoë was enrolled in both `CS 3214` (*Compiler Design & Programming Languages*) and `ACIS 3115` (*Intermediate Financial Accounting & Corporate Governance*). On her glossy **Dark Aero** screen, she had pulled up the first week's forensic case study for her accounting seminar: the catastrophic December 2001 collapse of Houston-based **`Vectron Energy Corp.`**—the corporate implosion that had wiped out seventy billion dollars in shareholder value, evaporated twenty thousand employee pensions, and forced Congress to pass the **Sarbanes-Oxley Act of 2002 (`SOX`)**.
 
@@ -16810,7 +16810,7 @@ Daniel Brooks stared at his eighteen-year-old daughter's screen for a long, quie
 
 On **Friday afternoon, September 4, 2015, at `2:00 PM`**, **Isabel Claire Dawson** sat in a sunlit examination room at the **New River Valley Women's Health** clinic off Peppers Ferry Road in Christiansburg—reflecting on the quiet, life-changing week that had brought her to this chair.
 
-For the entire first week of Fall 2015 classes (`August 24–30`), Isabel had given herself the space and silence she needed to process what **Aubrie Jean** had told her on the basement sofa at 414 Geneva Street.
+For the entire first week of Fall 2015 classes, August 24 through 30, Isabel had given herself the space and silence she needed to process what Aubrie Jean had told her on the basement sofa on Geneva Street.
 
 *You are allowed to have sex with him, too, Isabel.*
 
@@ -16818,7 +16818,7 @@ For nine months of Jordan's freshman year, Isabel had trained her brain to compa
 
 Instead, over those seven days of late August, Isabel watched the No-Jealousy Pact in action with her own eyes.
 
-When she met the group at **Kincaid Commons** between her senior **Nursing and Pre-Occupational Therapy (`Pre-OT`)** clinical labs, **Madison** and **Sarah** automatically slid over in the booth so Isabel could sit right beside Jordan's wheelchair bay. When she came down to **414 Geneva Street** on Wednesday and Friday evenings after finishing her early-semester Senior RA floor meetings at **Allegheny Commons**, **Lauren** and **Jessica** handed her a mug of Laura's hot apple cider and tucked a corner of the oversized fleece blanket over her knees while she curled up against Jordan's left shoulder. And when Isabel kissed Jordan goodnight by the basement patio door before catching the evening Route 1 bus back to campus, Aubrie Jean didn't flinch, stiffen, or look away—she smiled with genuine, unguarded warmth and hugged Isabel at the door.
+When she met the group at Kincaid Commons between her senior Nursing and Pre-Occupational Therapy (Pre-OT) clinical labs, Madison and Sarah automatically slid over in the booth so Isabel could sit right beside Jordan's wheelchair bay. When she came down to Geneva Street on Wednesday and Friday evenings after finishing her early-semester Senior RA floor meetings at Allegheny Commons, Lauren and Jessica handed her a mug of Laura's hot apple cider and tucked a corner of the oversized fleece blanket over her knees while she curled up against Jordan's left shoulder. And when Isabel kissed Jordan goodnight by the basement patio door before catching the evening Route 1 bus back to campus, Aubrie Jean didn't flinch, stiffen, or look away—she smiled with genuine, unguarded warmth and hugged Isabel at the door.
 
 By Sunday night, August 30, the last vestige of Isabel's institutional hesitation had dissolved.
 
@@ -16862,7 +16862,7 @@ Five minutes later—with Aubrie Jean holding her left hand as the nurse swabbed
 
 #### 3:10 PM — Updating the Household Medical Registry
 
-When they arrived back at **414 Geneva Street** that afternoon and walked down the basement stairs, **Zoë** looked up from her workstation as Isabel handed her the printed clinical summary sheet for the household medical binder.
+When they arrived back at the house on Geneva Street that afternoon and walked down the basement stairs, Zoë looked up from her workstation as Isabel handed her the printed clinical summary sheet for the household medical binder.
 
 ```zoe-log
 ZOË.Systems.Logs.SystemSchedulerLog: Thread 1 (Self) — Updating Household_Medical_Safety_Registry for Agent(Isabel): Contraception_Method == Depo-Vanguard_150 ("The Shot", 150mg IM, 12-Week Cycle). STI_Panel_Status == NEGATIVE (Verified 2015-09-04). Administration_Timestamp: 2015-09-04 14:18:00 EDT. Mandatory_Pharmacokinetic_Buffer: 168 Hours (7.0 Days). 09-04-2015 15:10:04
@@ -16887,7 +16887,7 @@ Isabel had shaken her head immediately, her cheeks pink but her voice certain.
 
 *Not in Apartment 101.*
 
-When she arrived down in the walk-out basement of **414 Geneva Street** at `8:00 PM` with her canvas tote bag slung over her shoulder, dressed in a soft heather-blue sweater and comfortable leggings after joining the family for Laura's roasted chicken dinner upstairs, she sat beside **Jordan** and **Aubrie Jean** on the basement sofa and explained why.
+When she arrived down in the walk-out basement on Geneva Street at 8:00 PM with her canvas tote bag slung over her shoulder, dressed in a soft heather-blue sweater and comfortable leggings after joining the family for Laura's roasted chicken dinner upstairs, she sat beside Jordan and Aubrie Jean on the basement sofa and explained why.
 
 "Even though Apartment 101 has a private bedroom and a real kitchen, the building still belongs to CPI Housing & Residence Life," Isabel said softly, her fingers laced through Jordan's left hand. "Every time somebody walks down the first-floor hallway past my door, my brain still half-listens for a duty knock or a fire alarm panel. For nine months in Eleanor Bennett Hall, being a Resident Advisor was the wall that kept me from telling you how much I loved you. I didn't want our first night together to be inside a university apartment with an `RA ON DUTY` placard hanging in the foyer."
 
@@ -16954,7 +16954,7 @@ Isabel laced her fingers with Aubrie Jean's right over Jordan's heart, closed he
 
 By late afternoon on Tuesday, September 29, 2015, the outer rainbands of an early-autumn Atlantic low-pressure system had pinned themselves against the eastern face of the Blue Ridge Mountains, drenching Montgomery County in a steady, forty-nine-degree downpour.
 
-Now that the ten of them lived off-campus in the walk-out basement sanctuary at **414 Geneva Street** in Christiansburg for their sophomore year, a rainy Tuesday afternoon meant navigating the busiest transit bottleneck in the New River Valley: the five o'clock **Blue Ridge Transit** curbside lineup along **Commonwealth Mall** directly beneath **The Keystone Bridge**.
+Now that the ten of them lived off-campus in the walk-out basement sanctuary on Geneva Street in Christiansburg for their sophomore year, a rainy Tuesday afternoon meant navigating the busiest transit bottleneck in the New River Valley: the five o'clock Blue Ridge Transit curbside lineup along Commonwealth Mall directly beneath The Keystone Bridge.
 
 At `16:30`, **Jordan** rolled the ***S.S. Freedom*** (`Vanguard Titan-X350`) out of **Walton Hall** alongside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Hannah**, **Mark**, **Sarah**, and **Jessica**—already rigged in full wet-weather trim with his charcoal-and-maroon **Contoured Wheelchair Rain Cape** snapped taut over his footplate, the transparent **Silicone Joystick Rain Gauntlet** sealed over his right-hand R-Net module, his **`mPad`** AAC tablet tucked dry inside its polycarbonate shell under the front apron of his cape, and his amber-and-white LED fender lights cutting through the silver sheets of rain.
 
@@ -16998,7 +16998,7 @@ In ten seconds flat, **Mark** and **Jessica** snapped the four retractable Q'Str
 
 #### 5:15 PM — The Geneva Street Ramp & Warm Cider
 
-Twenty-five minutes later in **Christiansburg**, after hopping off at the **Pepper Plaza** transfer hub and rolling the three blocks down the sidewalk to **414 Geneva Street** (where **Daniel** had installed a covered timber canopy and non-slip textured grit strips along the exterior walk-out basement ramp over the summer), the ten of them glided straight down the sheltered ramp to the basement patio doors.
+Twenty-five minutes later in Christiansburg, after hopping off at the Pepper Plaza transfer hub and rolling the three blocks down the sidewalk to Geneva Street—where Daniel had installed a covered timber canopy and non-slip textured grit strips along the exterior walk-out basement ramp over the summer—the ten of them glided straight down the sheltered ramp to the basement patio doors.
 
 Just inside the tiled mudroom vestibule of the walk-out basement sanctuary, their rainy-day home protocol ran like clockwork:
 * **Lauren**, **Hannah**, and **Mark** hung all nine wet umbrellas and rain jackets on the wall-mounted drying rack over the boot tray and used the stack of warm microfiber shop towels to wipe down the *S.S. Freedom*'s six wet tires, caster forks, and tie-down brackets.
@@ -17021,7 +17021,7 @@ Jordan rolled up to his open bay beside the sofa, took a warm mug of spiced cide
 
 It happened on a quiet Tuesday evening in early October.
 
-For three weeks after **Isabel** and **Jordan's** first night together, life in the walk-out basement sanctuary at **414 Geneva Street** had settled into a warm, thriving autumn rhythm. Upstairs in the main kitchen, **Mark**, **Hannah**, **Lauren**, **Sarah**, and **Jessica** were helping **Laura Brooks** prep a pan of roasted autumn squash and rosemary chicken for dinner, while down in the basement living area, **Jordan** sat in *S.S. Freedom* beside **Aubrie Jean**, **Madison**, **Zoë**, and **Isabel** working through problem sets for **`PHYS 2305`** and **`MATH 2204`**.
+For three weeks after Isabel and Jordan's first night together, life in the walk-out basement sanctuary on Geneva Street had settled into a warm, thriving autumn rhythm. Upstairs in the main kitchen, Mark, Hannah, Lauren, Sarah, and Jessica were helping Laura Brooks prep a pan of roasted autumn squash and rosemary chicken for dinner, while down in the basement living area, Jordan sat in *S.S. Freedom* beside Aubrie Jean, Madison, Zoë, and Isabel working through problem sets for PHYS 2305 and MATH 2204.
 
 Upstairs in the front foyer, **Daniel Brooks** was sorting through the afternoon mail stack when his hands went completely still.
 
@@ -17082,7 +17082,7 @@ At the dining table, **Zoë's** eyes lit up behind her glasses as her processor 
 
 ```zoe-log
 ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Analyzing Federal_Audit_Vector(IRS_Notice_CP87A / IRC_Section_152_Dependency_Test). 10-06-2015 18:26:10
-ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Fact_Check: Target(Jordan) resided at CPI (Blacksburg, VA) and 414 Geneva Street (Christiansburg, VA); provided >50% of own support via CPI financial aid/stipends; Hostile_Actor(Aubrie_Sinclair) provided $0.00 support and is bound by permanent protective order (Norfolk_Circuit_Court_2015). 10-06-2015 18:26:14
+ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Fact_Check: Target(Jordan) resided at CPI (Blacksburg, VA) and Geneva Street (Christiansburg, VA); provided >50% of own support via CPI financial aid/stipends; Hostile_Actor(Aubrie_Sinclair) provided $0.00 support and is bound by permanent protective order (Norfolk_Circuit_Court_2015). 10-06-2015 18:26:14
 ZOË.Systems.Logs.KernelLog: Thread 1 (Self) — Conclusion: Hostile_Actor(Aubrie_Sinclair) has committed demonstrable federal tax fraud. Win_Probability(Thread 3 / Jordan) == 100.0%. 10-06-2015 18:26:15
 ```
 
@@ -17149,7 +17149,7 @@ Inside the quiet back booth of the **`Rocket Burger`**, after Sarah held Jordan 
 
 #### October 17, 2015 • 5:15 PM — The 100.1°F Fever & The Aethelian Tome Box Set
 
-By the time the three-car caravan returned down `U.S. 60` and pulled back into the driveway at **414 Geneva Street** late Saturday afternoon, Jordan was deeply, bone-wearily depleted.
+By the time the three-car caravan returned down U.S. 60 and pulled back into the driveway on Geneva Street late Saturday afternoon, Jordan was deeply, bone-wearily depleted.
 
 Down in the walk-out basement sanctuary, he transferred onto the queen bed between **Aubrie Jean** and **Madison**, resting his head between them as Aubrie Jean gently steered his mind toward the calm, predictable mathematics of **`PHYS 2305`**—talking quietly about electron-degenerate matter and the helium flash inside red giant stars until his tremors finally stopped. Lying between the two young women who had held his universe together since his very first morning in Room 214, Jordan looked at them with profound clarity: *they were his autistic safe people.*
 
@@ -17191,7 +17191,7 @@ Cocooned between Aubrie Jean, Madison, and Isabel, Jordan was completely mesmeri
 
 Friday morning, November 13, 2015—two months into a happy, thriving autumn of classes, quiet evenings with **Isabel** and the Pact in the walk-out basement on Geneva Street, and steady progress toward Thanksgiving break—began like any bright, ordinary morning of their new life.
 
-There was laughter in the sunlit upstairs kitchen at `414 Geneva Street` as **Laura** and **Daniel** handed out warm travel mugs before leaving for work. There was the smooth, familiar ten-second roll up the low-floor ramp of the **`6:00 AM` Blue Ridge Transit Route 1** bus, the fifteen-minute wait on **Commonwealth Mall**, and a warm breakfast together at **Kincaid Commons**, where Isabel stopped by their booth in her clinical nursing scrubs to kiss Jordan good morning before heading to her `8:00 AM` rehabilitation practicum lab in Callahan Hall.
+There was laughter in the sunlit upstairs kitchen on Geneva Street as Laura and Daniel handed out warm travel mugs before leaving for work. There was the smooth, familiar ten-second roll up the low-floor ramp of the 6:00 AM Blue Ridge Transit Route 1 bus, the fifteen-minute wait on Commonwealth Mall, and a warm breakfast together at Kincaid Commons, where Isabel stopped by their booth in her clinical nursing scrubs to kiss Jordan good morning before heading to her 8:00 AM rehabilitation practicum lab in Callahan Hall.
 
 By `8:50 AM`, the nine commuters had filed into the massive, three-hundred-seat tiered auditorium of **Walton Hall** for **`SOC 101` (`Introductory Sociology`)** and assembled their usual back-row **Sociology Fortress**: **Mark** and **Hannah** anchoring the outer aisle flank, **Lauren**, **Sarah**, **Jessica**, and **Zoë** holding the middle seats, and **Jordan** parked in the wide accessible wheelchair cutout at the end of the row with **Aubrie Jean** in a movable companion chair on his right and **Madison** in the fixed auditorium seat on his left.
 
@@ -17736,7 +17736,7 @@ Anchored between them, with his hands held tightly on both sides of the bed, Jor
 
 #### 2:15 PM — Megan's Supply Run & The CPI Reinforcements
 
-Just after two-fifteen in the afternoon, **Megan Brooks** returned from `414 Geneva Street` carrying two quilted duffle bags stuffed with pillows, fleece blankets, extra phone and `mPad` chargers, and clean pajamas for Aubrie Jean—and riding up in the third-floor elevator right beside Megan were **Isabel** (who had just finished clearing her clinical rotation schedule on campus) and three more familiar faces from **Commonwealth Polytechnic Institute**: **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**.
+Just after two-fifteen in the afternoon, Megan Brooks returned from Geneva Street carrying two quilted duffle bags stuffed with pillows, fleece blankets, extra phone and mPad chargers, and clean pajamas for Aubrie Jean—and riding up in the third-floor elevator right beside Megan were Isabel, who had just finished clearing her clinical rotation schedule on campus, and three more familiar faces from Commonwealth Polytechnic Institute: Henry Walsh, Garrett Reynolds, and Kelsey Brennan.
 
 Stepping quietly into the doorway of **Room 312** so they wouldn't overwhelm the telemetry space, sixty-one-year-old **Henry Walsh** held his battered canvas cap in both hands, his weathered face creased with fatherly concern as he looked toward **Jordan's** bed, while **Garrett** and **Kelsey** stood right beside **Daniel** and **Isabel**.
 
@@ -18009,7 +18009,7 @@ When the door clicked shut behind them, **Room 312** fell quiet.
 
 It was just **Jordan** and **Aubrie Jean**.
 
-Aubrie Jean let out a long, shaky breath and looked over at the narrow, stiff vinyl visitor's bench beneath the window. Picking up the quilted duffle bag **Megan** had brought over from `414 Geneva Street` before driving Lauren, Sarah, Jessica, and Isabel back to town in her sedan, she pulled out two pillows and a soft fleece blanket. A sharp pang of grief twisted in her chest as she spread the blanket across the cold vinyl cushions: after more than a year of sharing Bed A in Bennett Hall and the Alaskan King bed at Geneva Street—where she could wrap her arms around Jordan and anchor him through every nightmare—being separated from him by six feet of linoleum and a tangle of IV tubing and telemetry wires felt almost unbearable.
+Aubrie Jean let out a long, shaky breath and looked over at the narrow, stiff vinyl visitor's bench beneath the window. Picking up the quilted duffle bag Megan had brought over from Geneva Street before driving Lauren, Sarah, Jessica, and Isabel back to town in her sedan, she pulled out two pillows and a soft fleece blanket. A sharp pang of grief twisted in her chest as she spread the blanket across the cold vinyl cushions: after more than a year of sharing Bed A in Bennett Hall and the Alaskan King bed on Geneva Street—where she could wrap her arms around Jordan and anchor him through every nightmare—being separated from him by six feet of linoleum and a tangle of IV tubing and telemetry wires felt almost unbearable.
 
 Still, she squared her shoulders. She was in the room with him, and nobody was going to make her leave.
 
@@ -18199,7 +18199,7 @@ By `6:55 AM` on **Saturday, November 14, 2015**, **Aubrie Jean** was running on 
 
 Just before seven o'clock, the door of **Room 312** opened softly.
 
-It wasn't a nurse this time—it was **Daniel** and **Laura Brooks**, arriving right on schedule alongside **Madison** and twenty-seven-year-old **Megan**, who was carrying a fresh overnight bag of blankets and toiletries from `414 Geneva Street` over her shoulder and had driven Madison over so Laura could take Aubrie Jean straight home to rest.
+It wasn't a nurse this time—it was Daniel and Laura Brooks, arriving right on schedule alongside Madison and twenty-seven-year-old Megan, who was carrying a fresh overnight bag of blankets and toiletries from Geneva Street over her shoulder and had driven Madison over so Laura could take Aubrie Jean straight home to rest.
 
 "Oh, sweetheart," Laura breathed, her heart aching the second she saw Aubrie Jean's pale, hollow-eyed state. Crossing the room immediately, Laura wrapped her arms around Aubrie Jean in a warm, motherly embrace. "You look completely wrung out, honey. You need to eat and get some real sleep."
 
@@ -18239,10 +18239,7 @@ The surgical verdict had already been handed down—his calcified LAD artery req
 
 Jordan was trapped in limbo. After more than thirty hours without food or water, the hunger in his stomach had graduated from a grumpy annoyance into a sharp, gnawing cramp, his chest throbbed with a persistent ischemic ache, and every time footsteps paused outside his door in the hallway, his heart rate spiked on the monitor in dread that it was the critical care transport team coming to take him to the operating table.
 
-True to their bond, the entire family rotated in and out of the hospital all day Saturday to keep Jordan, Madison, and Isabel company:
-- **Megan** acted as the tireless logistics shuttle all Saturday—driving her sedan back and forth between `414 Geneva Street` and the hospital to bring **Zoë**, **Lauren**, **Sarah**, and **Jessica** in mid-morning shifts, dropping off extra phone chargers and clean socks from the house, and picking up hot takeout lunches for the third-floor waiting room because Jordan was part of their Geneva Street family.
-- Right after noon, **Isabel** arrived from Blacksburg—riding down with **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan** as soon as she finished her morning responsibilities on campus—and spent the entire afternoon sitting at Jordan's right rail beside Madison, holding his hand, checking his telemetry numbers, and brushing his hair back whenever the ischemic ache in his chest flared.
-- Out of absolute, unspoken solidarity with Jordan's strict **NPO** status, not a single member of the family brought food, coffee, or even a water bottle inside **Room 312**. Whenever Madison or Isabel needed to eat, they stepped out to the third-floor family lounge while Zoë, Hannah, or Mark took their chair at Jordan's rail so he never had to smell food he couldn't have—and never spent a single second alone.
+True to their bond, the entire family rotated in and out of the hospital all day Saturday to keep Jordan, Madison, and Isabel company. Megan acted as the tireless logistics shuttle all Saturday, driving her sedan back and forth between Geneva Street and the hospital to bring Zoë, Lauren, Sarah, and Jessica in mid-morning shifts, dropping off extra phone chargers and clean socks from the house, and picking up hot takeout lunches for the third-floor waiting room because Jordan was part of their Geneva Street family. Right after noon, Isabel arrived from Blacksburg—riding down with Henry Walsh, Garrett Reynolds, and Kelsey Brennan as soon as she finished her morning responsibilities on campus—and spent the entire afternoon sitting at Jordan's right rail beside Madison, holding his hand, checking his telemetry numbers, and brushing his hair back whenever the ischemic ache in his chest flared. Out of unspoken solidarity with Jordan's strict NPO status, not a single member of the family brought food, coffee, or even a water bottle inside Room 312. Whenever Madison or Isabel needed to eat, they stepped out to the third-floor family lounge while Zoë, Hannah, or Mark took their chair at Jordan's rail so he never had to smell food he couldn't have—and never spent a single second alone.
 
 Inside the room, they did everything they could to keep his spirits afloat—reading aloud from their `HIST 115` and `PHYS 2305` notes, telling terrible jokes about their 5:45 AM bus blunder on the first day of class, and watching the local weather channel track the unseasonable mountain cold front—yet every laugh was fragile around the edges. Every two hours, when the door clicked open, everyone in the room froze hoping—and dreading—that a Roanoke bed had opened, only to sag back into their chairs when it was just Nurse Beth wheeling in the vitals cart.
 
@@ -18250,7 +18247,7 @@ Inside the room, they did everything they could to keep his spirits afloat—rea
 
 #### November 14, 2015 • 9:00 PM — The Second Watch (Madison's Vigil)
 
-As darkness fell on Saturday night and visiting hours ended at `9:00 PM`, **Daniel**, **Laura**, and **Megan** arrived with a fresh overnight duffle bag from Geneva Street for **Madison**, while **Isabel** kissed Jordan goodnight and rode back to `414 Geneva Street` in Megan's car with Zoë, Lauren, Sarah, and Jessica to get a night's sleep.
+As darkness fell on Saturday night and visiting hours ended at 9:00 PM, Daniel, Laura, and Megan arrived with a fresh overnight duffle bag from Geneva Street for Madison, while Isabel kissed Jordan goodnight and rode back to Geneva Street in Megan's car with Zoë, Lauren, Sarah, and Jessica to get a night's sleep.
 
 "Still no word from Roanoke?" Daniel asked quietly in the doorway.
 
@@ -18512,7 +18509,7 @@ In less than nine hours, they were going to stop his heart on an operating table
 
 Seeing the shadow of fear creep back into Jordan's green eyes, Lauren didn't wait for him to ask. She opened **`InfoLink Messenger`** on his laptop, selected the **`Jordan Comms`** group channel, and clicked **`Start Video Call`**.
 
-Within three rings, the screen split into a glowing, high-definition window straight into the walk-out basement sanctuary at **414 Geneva Street** in Christiansburg—where **Aubrie Jean**, **Madison**, **Zoë**, **Sarah**, **Jessica**, **Isabel**, **Mark**, and **Hannah** were all gathered together on the sectional sofa with **Daniel** and **Laura** standing right behind them.
+Within three rings, the screen split into a glowing, high-definition window straight into the walk-out basement sanctuary on Geneva Street in Christiansburg—where Aubrie Jean, Madison, Zoë, Sarah, Jessica, Isabel, Mark, and Hannah were all gathered together on the sectional sofa with Daniel and Laura standing right behind them.
 
 *"Jordan!"* Aubrie Jean breathed, leaning close to the webcam on the basement coffee table, her face lighting up with love and relief at the sight of him. *"How are you holding up, sweetheart? What did the surgeon say?"*
 
@@ -18558,7 +18555,7 @@ The night before open-heart surgery was a blur of broken, twenty-minute naps pun
 
 At `5:20 AM` on **Monday, November 16, 2015**, the hallway door of the pre-op suite swung quietly open.
 
-Having rolled out of **414 Geneva Street** at `4:15 AM` sharp in the freezing pre-dawn dark, **Daniel**, **Laura**, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Zoë**, **Sarah**, and **Jessica**—joined from the Roanoke hotel, apartments, and **Henry Walsh's** `4:00 AM` Blacksburg pickup from `Allegheny Commons` by **Isabel**, **Henry Walsh**, **Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, **Liam**, and **Ben Carter**—slipped into the room and the adjoining corridor in hushed, protective waves so every single person could say goodbye before the `6:00 AM` surgical transport.
+Having rolled out of the house on Geneva Street at 4:15 AM sharp in the freezing pre-dawn dark, Daniel, Laura, Mark, Hannah, Aubrie Jean, Madison, Zoë, Sarah, and Jessica—joined from the Roanoke hotel, apartments, and Henry Walsh's 4:00 AM Blacksburg pickup from Allegheny Commons by Isabel, Henry Walsh, Megan, Chloe, Caleb, Owen, Noah, Liam, and Ben Carter—slipped into the room and the adjoining corridor in hushed, protective waves so every single person could say goodbye before the 6:00 AM surgical transport.
 
 At `5:40 AM`, the cardiothoracic anesthesiologist, **Dr. Hayes**, stepped to the bedside in surgical scrubs and a bouffant cap, followed by two OR transport nurses.
 
@@ -18749,7 +18746,7 @@ Inside the warm, quiet sanctuary of **Room 618**, it was just **Jordan** and **Z
 
 #### 5:30 PM — The Incentive Spirometer (1,500 Milliliters)
 
-While the unseasonable November blizzard howled against the double-paned glass of **Room 618** in Roanoke—and while thirty-five miles southwest, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, **Jessica**, **Mark**, and **Hannah** caught the final packed **`Blue Ridge Transit`** bus off the CPI campus and made it safely into the basement sanctuary at **414 Geneva Street** five minutes before transit service was suspended (while **Isabel** and **Henry** held down the snowed-in **Allegheny Commons** campus sanctuary with **Elana**, **Stephen**, and **Stella**)—**Zoë Wren Brooks** ran the Roanoke outpost with quiet, loving precision.
+While the unseasonable November blizzard howled against the double-paned glass of Room 618 in Roanoke—and while thirty-five miles southwest, Aubrie Jean, Madison, Lauren, Sarah, Jessica, Mark, and Hannah caught the final packed Blue Ridge Transit bus off the CPI campus and made it safely into the basement sanctuary on Geneva Street five minutes before transit service was suspended, while Isabel and Henry held down the snowed-in Allegheny Commons campus sanctuary with Elana, Stephen, and Stella—Zoë Wren Brooks ran the Roanoke outpost with quiet, loving precision.
 
 At `5:30 PM`, she picked up the clear plastic cylinder sitting on **Jordan's** over-bed tray: his **incentive spirometer**.
 
@@ -18783,7 +18780,7 @@ True to the nurse's word, his stomach handled the clear liquids without a single
 
 Before they took a single bite, Zoë propped her laptop up on the rolling over-bed table and dialed **`InfoLink Messenger`**.
 
-Instantly, the screen lit up with a three-way conference window: the warm, glowing chaos of the **414 Geneva Street** dining table—where **Daniel**, **Laura**, **Mark**, **Hannah**, **Aubrie Jean**, **Madison**, **Lauren**, **Sarah**, and **Jessica** were sitting down to their blizzard dinner—alongside **Isabel** and **Henry** dialing in from **Apartment 101** at snowed-in **Allegheny Commons** with **Elana**, **Stephen**, and **Stella**, giving Jordan and Zoë a virtual seat with the entire family.
+Instantly, the screen lit up with a three-way conference window: the warm, glowing chaos of the Geneva Street dining table—where Daniel, Laura, Mark, Hannah, Aubrie Jean, Madison, Lauren, Sarah, and Jessica were sitting down to their blizzard dinner—alongside Isabel and Henry dialing in from Apartment 101 at snowed-in Allegheny Commons with Elana, Stephen, and Stella, giving Jordan and Zoë a virtual seat with the entire family.
 
 *"Look who's eating real food!"* Madison cheered through the speakers as everyone raised their forks in a toast to Room 618, and for the next forty-five minutes, the thirty-five miles of snowbound highway vanished completely as they shared dinner, laughed about the blizzard, and celebrated Jordan's first real meal in five days.
 
@@ -19007,7 +19004,7 @@ After **Aubrie Jean** took Friday night and **Madison** took Saturday night on t
 
 Up on campus, the pre-Thanksgiving exodus was already underway—her younger sister **Elana**, cousin **Stephen**, and **Stella** had been picked up from New River Hall by their parents for the holiday week, and **Isabel's** weekend Senior RA duty rotation at **Allegheny Commons** had officially ended at `6:00 PM`. When her parents **Greg** and **Becca Dawson**, Uncle **Andy**, and **Gran Thornton** had stopped by campus that afternoon to load Elana and Stephen's van, they had hugged Isabel tightly and given her their unconditional blessing to stay in Christiansburg for the holiday (*"Jordan just had open-heart surgery six days ago, Izzy—you belong right there by his side this week, and we'll video-call you on Thursday before the turkey gets carved!"*).
 
-At `7:30 PM`, she walked down the basement stairs at **414 Geneva Street** carrying a packed week-long duffel bag over her shoulder—ready not only to spend her very first night ever under the Geneva Street roof, but to spend her **very first Thanksgiving away from Charlottesville** right here with Jordan and the Brooks family. After helping **Lauren** and **Hannah** with Jordan's `8:30 PM` sponge-bath protocol and getting him settled against the wedge pillows in the center of the custom king-sized bed in his soft button-front flannel pajamas, Isabel changed into her maroon CPI Nursing t-shirt and plaid pajama pants.
+At 7:30 PM, she walked down the basement stairs on Geneva Street carrying a packed week-long duffel bag over her shoulder—ready not only to spend her very first night ever under the Geneva Street roof, but to spend her very first Thanksgiving away from Charlottesville right here with Jordan and the Brooks family. After helping Lauren and Hannah with Jordan's 8:30 PM sponge-bath protocol and getting him settled against the wedge pillows in the center of the custom king-sized bed in his soft button-front flannel pajamas, Isabel changed into her maroon CPI Nursing t-shirt and plaid pajama pants.
 
 At `9:30 PM`, as the basement lamps were dimmed for the night, Isabel naturally walked over to set her overnight bag and pillow down at the foot of the adjacent queen bed, assuming **Zoë** or **Lauren** was next in line for the king bed.
 
@@ -19219,7 +19216,7 @@ Their first stop was a slow, jaw-dropping reconnaissance loop through the parkin
 
 From Christiansburg, Daniel drove them north into **Blacksburg** and onto the campus of **Commonwealth Polytechnic Institute**. In stark contrast to the retail madness ten minutes south, the university campus was a peaceful autumn ghost town—empty brick walkways, quiet limestone academic halls around the **Central Green**, and not a single crowded lecture hall in sight. Taking a slow lap past **Walton Hall**, **McBryde Hall**, and **Eleanor Bennett Hall**, Jordan felt a deep, quiet surge of motivation looking at the campus he was fighting to return to.
 
-After a final, breathtaking scenic loop west on `U.S. 460` toward the sleeping Appalachian ridgelines, the caravan returned to **414 Geneva Street** mid-afternoon, leaving Jordan tired in the best possible way.
+After a final, breathtaking scenic loop west on U.S. 460 toward the sleeping Appalachian ridgelines, the caravan returned to Geneva Street mid-afternoon, leaving Jordan tired in the best possible way.
 
 ***
 
@@ -19235,7 +19232,7 @@ All Saturday morning, he refused to watch movies, working instead for two focuse
 
 **Date:** 2015-11-29 at 19:00 America/New_York
 
-![At the sunlit oak dining table in the 414 Geneva Street walk-out basement on December 1, 2015, twenty-seven-year-old Megan Brooks leans over from her dining chair to share a warm, lingering morning work-buddy hug with Jordan Fuller—who sits upright in his S.S. Freedom power wheelchair holding his red plush heart pillow—behind two identical cardiac-healthy breakfast plates of egg whites and whole-wheat toast with grape jelly.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c007/p001/megan-jordan-work-buddies.jpg)
+![At the sunlit oak dining table in the Geneva Street walk-out basement on December 1, 2015, twenty-seven-year-old Megan Brooks leans over from her dining chair to share a warm, lingering morning work-buddy hug with Jordan Fuller—who sits upright in his S.S. Freedom power wheelchair holding his red plush heart pillow—behind two identical cardiac-healthy breakfast plates of egg whites and whole-wheat toast with grape jelly.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c007/p001/megan-jordan-work-buddies.jpg)
 
 #### November 29, 2015 • 7:00 PM — The Caregiver Handoff (Enter Megan)
 
@@ -19576,7 +19573,7 @@ Aubrie Jean's heart swelled until she felt like she was floating. Leaning down, 
 
 #### December 5, 2015 • 9:30 AM — The First Outing: Breakfast at The Smokin' Anvil
 
-At `9:30 AM`, a three-vehicle family convoy pulled out of **414 Geneva Street** bound for Blacksburg—and to help Jordan feel more like an independent adult than a patient in a medical transport van, **Daniel** assigned **Jordan**, **Aubrie Jean**, and **Madison** to ride in **Megan's** four-door sedan while the rest of the household—plus **Isabel**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**—followed in the minivan, Mark's SUV, and Henry's pickup.
+At 9:30 AM, a three-vehicle family convoy pulled out of the Geneva Street driveway bound for Blacksburg—and to help Jordan feel more like an independent adult than a patient in a medical transport van, Daniel assigned Jordan, Aubrie Jean, and Madison to ride in Megan's four-door sedan while the rest of the household—plus Isabel, Henry Walsh, Garrett Reynolds, and Kelsey Brennan—followed in the minivan, Mark's SUV, and Henry's pickup.
 
 With Jordan buckled securely into Megan's front passenger seat holding his red **heart pillow** under the shoulder belt, they cruised north up `U.S. Route 460` toward Blacksburg. Halfway there, **Aubrie Jean** leaned forward from the back seat and rested her chin lightly on the edge of the headrest between them.
 
@@ -19800,7 +19797,7 @@ And in that small parked car outside Walton Hall, twenty-seven-year-old **Megan 
 
 #### December 9, 2015 • 11:30 AM — The New Safe Person
 
-The twenty-minute drive down `U.S. Route 460` from Blacksburg back to **414 Geneva Street** passed in a heavy, exhausted quiet.
+The twenty-minute drive down U.S. Route 460 from Blacksburg back to Geneva Street passed in a heavy, exhausted quiet.
 
 Behind the wheel, **Megan** kept both hands on the leather rim as the last tremors of adrenaline slowly ebbed from her veins. Beside her, clutching his red **heart pillow** to his chest, **Jordan** stared out the passenger window—bone-tired and mortified that he had lost control in the car, yet feeling a profound, brand-new anchor in his soul.
 
@@ -19864,7 +19861,7 @@ Yet the entire ninety minutes she spent in the glittering ballroom of the Hotel 
 
 *She didn't want to be at a fancy corporate party. She didn't want to meet some random guy in a suit.*
 
-All she wanted was to be back in the warm, string-lit basement at **414 Geneva Street** with **Jordan** and the **Pact**.
+All she wanted was to be back in the warm, string-lit basement on Geneva Street with Jordan and the Pact.
 
 Ducking out of the mixer at `8:45 PM`, Megan drove straight back down `I-81 South` to Christiansburg, kicked off her heels at the top of the stairs, changed into her softest flannel pajamas, and walked down into the basement at `9:30 PM`—where Jordan's face lit up with pure joy the second she walked in, making room for her right beside him and Aubrie Jean on the sofa.
 
@@ -19874,11 +19871,11 @@ Ducking out of the mixer at `8:45 PM`, Megan drove straight back down `I-81 Sout
 
 **Date:** 2015-12-25 at 21:30 America/New_York
 
-![On Boxing Day morning in the sunlit walk-out basement sanctuary at 414 Geneva Street, twenty-seven-year-old Megan Brooks wraps her arms lovingly around Jordan Fuller's neck on the sectional sofa for their very first romantic kiss, surrounded by a cheering, zero-jealousy semicircle of Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Isabel Dawson, and Lauren Barnes.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c009/p001/boxing-day-megan-first-kiss.jpg)
+![On Boxing Day morning in the sunlit walk-out basement sanctuary on Geneva Street, twenty-seven-year-old Megan Brooks wraps her arms lovingly around Jordan Fuller's neck on the sectional sofa for their very first romantic kiss, surrounded by a cheering, zero-jealousy semicircle of Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, Isabel Dawson, and Lauren Barnes.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c009/p001/boxing-day-megan-first-kiss.jpg)
 
 #### December 25, 2015 • 9:30 PM — The Christmas Night Invitation
 
-**Christmas Day—Friday, December 25, 2015—**at **414 Geneva Street** was loud, chaotic, and overflowing with warmth.
+Christmas Day—Friday, December 25, 2015—on Geneva Street was loud, chaotic, and overflowing with warmth.
 
 Nearly six weeks after his open-heart bypass surgery in Roanoke, **Jordan** was stronger, pink-cheeked, and smiling from ear to ear as the entire extended fortress—**Daniel**, **Laura**, **Mark**, **Hannah**, all seven women of the **Pact** (**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel**), Zoë's six older siblings (**Megan**, **Chloe**, **Caleb**, **Owen**, **Noah**, and **Liam**), **Ben Carter**, **Henry Walsh**, **Garrett Reynolds**, and **Kelsey Brennan**—celebrated around the Christmas tree and shared a magnificent, heart-healthy Christmas dinner.
 
@@ -20088,11 +20085,11 @@ Taking a deep breath, twenty-seven-year-old Megan pulled her pajama top over her
 
 **Date:** 2015-12-27 at 19:30 America/New_York
 
-![In the glowing walk-out basement sanctuary at 414 Geneva Street on December 27, 2015, newly named Jordan Shawn Kelly sits on the sectional sofa flanked by his bride-to-be Aubrie Jean Kelly and Megan Brooks while Mark stands beside them with one hand on Jordan's shoulder and his other arm around Hannah Parker to celebrate their Double Wedding engagement, surrounded by cheering Madison, Zoë, Isabel, Lauren, Sarah, and Jessica and watched proudly from the stairs by Daniel and Laura Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c009/p002/jordan-shawn-kelly-double-wedding.jpg)
+![In the glowing walk-out basement sanctuary on Geneva Street on December 27, 2015, newly named Jordan Shawn Kelly sits on the sectional sofa flanked by his bride-to-be Aubrie Jean Kelly and Megan Brooks while Mark stands beside them with one hand on Jordan's shoulder and his other arm around Hannah Parker to celebrate their Double Wedding engagement, surrounded by cheering Madison, Zoë, Isabel, Lauren, Sarah, and Jessica and watched proudly from the stairs by Daniel and Laura Brooks.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e007/c009/p002/jordan-shawn-kelly-double-wedding.jpg)
 
 #### 7:30 PM — A Legal Firewall for Jordan
 
-On **Sunday evening, December 27, 2015**, a quiet, reflective calm settled over the walk-out basement sanctuary at **414 Geneva Street**.
+On Sunday evening, December 27, 2015, a quiet, reflective calm settled over the walk-out basement sanctuary on Geneva Street.
 
 While **Daniel** and **Laura** read upstairs by the fireplace and **Mark** and **Hannah** sat together on the wide loveseat across the rug, **Jordan** rested on the sectional sofa surrounded by all eight women of his **Pact**—**Aubrie Jean** on his left, **Megan** cuddled against his right shoulder, **Madison** and **Isabel** at the ends of the sectional, and **Zoë**, **Lauren**, **Sarah**, and **Jessica** gathered on the plush carpet and armchairs around the coffee table.
 
@@ -20256,7 +20253,7 @@ Four days later, on **Friday evening, January 22, 2016**, the first week of Spri
 
 Back on Monday morning after Jordan's cardiology clearance in Roanoke, **Megan**—who had waited patiently for Jordan to be completely off Sternal Precautions before taking the next step in their relationship—had driven with **Aubrie Jean** and **Isabel** to **New River Valley Women's Health** in Christiansburg. Having already started her physician-prescribed oral contraceptive regimen right after Boxing Day and completed her mandatory seven-day effectiveness window alongside a 100% clean, negative STI screening panel, Megan was officially cleared on every clinical front.
 
-At eight-thirty that Friday night, after a celebratory family dinner of Laura's homemade beef shepherd's pie upstairs at **414 Geneva Street**, **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, and **Isabel** gathered up their mugs of tea and textbooks from the basement living room with knowing, affectionate smiles.
+At eight-thirty that Friday night, after a celebratory family dinner of Laura's homemade beef shepherd's pie upstairs on Geneva Street, Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel gathered up their mugs of tea and textbooks from the basement living room with knowing, affectionate smiles.
 
 "Mark and Hannah are hosting board-game night upstairs with Mum and Dad until ten-thirty," twenty-year-old **Zoë** announced calmly, pausing at the foot of the basement stairs to give her twenty-seven-year-old big sister a tight, grounding hug. "Sternal precautions are zero. Contraceptive and screening verification is one hundred percent. The walk-out basement sanctuary belongs to you and Jordan, Meg."
 
@@ -20286,7 +20283,7 @@ Later that night, at ten-thirty, when the basement door clicked open and **Aubri
 
 Two weeks after Dr. Hassan cleared Jordan from Sternal Precautions, on Thursday, February 4, 2016, Jordan rolled his power wheelchair, *S.S. Freedom*, into the accessible third-floor gallery of the Virginia House of Delegates in Richmond alongside Aubrie Jean, Megan, Zoë, and Isabel.
 
-All five of them wore bright blue *RIDE TRANSIT VIRGINIA* lapel stickers pinned to their winter coats. As daily riders of Blue Ridge Transit Route 1 and Route 2 between 414 Geneva Street in Christiansburg and the Commonwealth Polytechnic Institute campus in Blacksburg—along with the hourly Radford Connector across the New River—they had traveled up to the State Capitol with the New River Valley student and citizen transit coalition for Virginia Transit Legislative Day to lobby the General Assembly for state public transit operating and capital dollars.
+All five of them wore bright blue *RIDE TRANSIT VIRGINIA* lapel stickers pinned to their winter coats. As daily riders of Blue Ridge Transit Route 1 and Route 2 between Geneva Street in Christiansburg and the Commonwealth Polytechnic Institute campus in Blacksburg—along with the hourly Radford Connector across the New River—they had traveled up to the State Capitol with the New River Valley student and citizen transit coalition for Virginia Transit Legislative Day to lobby the General Assembly for state public transit operating and capital dollars.
 
 Seated just down the brass gallery rail from them were several other transit delegations from across the Commonwealth: two college students in Virginia Dominion University jackets—a young man in a blue-upholstered manual wheelchair holding hands with his sister—and, directly to Jordan's left, two other families from Christiansburg and Blacksburg whom Jordan and his sisters recognized from the Huckleberry Trail and the ninety-five-point-five-degree therapy pool at the Blue Ridge Regional Aquatic Center: [Freddie in his matte-black titanium wheelchair, Harper in her neon-purple wheelchair, and their sisters Paige, Jessica, Sarah, and Jenna](https://books.raggiesoft.com/paige/system-integration/the-closed-circuit/part-3-virginia-transit-legislative-day-the-bathroom-police-bill-room-518), along with [Ryan O'Connell in his matte-black titanium manual wheelchair with his sister Cassidy holding onto his rear push-handles like a rolling walker and their sister Holly and twin cousins Evan and Tyler Wright](https://books.raggiesoft.com/stardust-engine/book-5-burnout-hiatus-our-own-frequency-neon-on-the-huckleberry-trail-2005-2016/chapter-1-our-own-frequency-the-blue-ridge-regional-aquatic-center-virginia-transit-legislative-day-2008-2016/part-3-virginia-transit-legislative-day-protocol-t-10-vs-house-bill-663-seven-wheelchairs-in-room-518).
 
@@ -20342,7 +20339,7 @@ ZOË.Systems.Logs.NetworkLog: Thread 1 (Self) — Broadcasting Captioned_Media_S
 
 Friday afternoon, February 12, 2016 was crisp and cold across the 2,100-foot plateau of Blacksburg. A winter storm two days earlier had blanketed the New River Valley in four inches of snow; by Friday afternoon, the brick walkways and asphalt lanes were dry and salted, while patches of mostly melted white snow still clung to the shaded grass along **College Avenue** and **Commonwealth Mall**.
 
-With their Friday afternoon classes finished for the week, **Jordan** guided his **power wheelchair** (*S.S. Freedom*) smoothly along the wide brick sidewalk alongside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Mark**, **Hannah**, and **Isabel**, heading past **The Hotel at Poly** and **Kincaid Student Center** (`290 College Ave.`) toward the curbside bus lineup on **Commonwealth Mall** to catch their bus back to the **Christiansburg Transit Center** and `414 Geneva Street`.
+With their Friday afternoon classes finished for the week, Jordan guided his power wheelchair (*S.S. Freedom*) smoothly along the wide brick sidewalk alongside Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica Gallagher, Mark, Hannah, and Isabel, heading past The Hotel at Poly and Kincaid Student Center on College Avenue toward the curbside bus lineup on Commonwealth Mall to catch their bus back to the Christiansburg Transit Center and Geneva Street.
 
 As they passed the wide brick circular drive of **The Hotel at Poly**—the university conference hotel directly adjacent to campus—the sidewalk was suddenly buzzing with fifteen-passenger university vans, rolling suitcases, painted fabric banners, and dozens of bundled-up college students wearing lanyards and colorful winter parkas loaded with painted wooden clothespins.
 
@@ -20351,7 +20348,7 @@ Across the street at the entrance to **Kincaid Student Center**, a massive maroo
 > **WELCOME TO COMMONWEALTH POLYTECHNIC INSTITUTE!**<br>
 > **SAACURC 2016 REGIONAL STUDENT LEADERSHIP CONFERENCE**<br>
 > ***South Atlantic Affiliate of College and University Residence Halls***<br>
-> **February 12–14, 2016 • Kincaid Student Center (`290 College Ave.`)**
+> **February 12–14, 2016 • Kincaid Student Center (College Avenue)**
 
 "Whoa, wait a second," **Madison** laughed, glancing from the banner outside Kincaid Student Center back toward the vans unloading at **The Hotel at Poly**. "Didn't we already see those decorated conference clothespins last spring when Isabel, Kelsey, and Garrett went up to **Shenandoah Valley University** in **Harrisonburg** for `CACUHO`? Why isn't Isabel working the check-in desk today?"
 
@@ -20359,7 +20356,7 @@ Across the street at the entrance to **Kincaid Student Center**, a massive maroo
 
 "Affirmative," **Zoë** added, her eyes scanning the arrival logistics outside **The Hotel at Poly**. "Unlike RA staff who are employed by the university, `RHA` executive officers and hall council representatives are democratically elected by the students living in the dorms. The visiting delegations from across the region arrive tonight—Friday night—to check into **The Hotel at Poly**, unless their campus is close enough for a short daily commute like **Radford University** fifteen minutes away. Then the conference sessions run all day Saturday and Sunday morning inside Kincaid Student Center, wrapping up Sunday afternoon with a closing lunch and awards ceremony—where, per the universal conference conflict-of-interest ground rule, the host school (`CPI`) is never eligible to win any awards—before the delegations drive back to their home campuses."
 
-<aac>"And since we all live off campus at 414 Geneva Street in Christiansburg now,"</aac> Jordan tapped on his `mPad` with an amused grin as he steered *S.S. Freedom* around a cluster of suitcases on the sidewalk, <aac>"none of us are on-campus residents eligible for RHA or SAACURC. We are officially off-campus commuters heading home for Friday night dinner."</aac>
+<aac>"And since we all live off campus on Geneva Street in Christiansburg now,"</aac> Jordan tapped on his mPad with an amused grin as he steered *S.S. Freedom* around a cluster of suitcases on the sidewalk, <aac>"none of us are on-campus residents eligible for RHA or SAACURC. We are officially off-campus commuters heading home for Friday night dinner."</aac>
 
 "And thank goodness for that," **Mark** chuckled, wrapping an arm around **Hannah**’s shoulders. "Hearing about those thirty-five-foot Gamble Aria shuttle buses in Harrisonburg last spring was plenty of conference excitement for me!"
 
@@ -20426,7 +20423,7 @@ As the bus pulled away from the **Commonwealth Mall** curb behind the departing 
 
 #### February 16, 2016 • 7:00 PM — The Electric Alert
 
-On the evening of Tuesday, February 16, 2016—just two days after the `SAACURC` conference wrapped up at `Kincaid Student Center`—the walk-out basement of `414 Geneva Street` was warm and quiet. Outside, a cold February drizzle pattered against the windows, while inside, **Jordan** sat in his fourteen-pound titanium manual wheelchair, ***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`), beside **Aubrie Jean** and **Madison** at the dining table, reviewing his Sophomore Spring astrophysics problem set alongside **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, **Megan**, **Mark**, and **Hannah**.
+On the evening of Tuesday, February 16, 2016—just two days after the SAACURC conference wrapped up at Kincaid Student Center—the walk-out basement on Geneva Street was warm and quiet. Outside, a cold February drizzle pattered against the windows, while inside, Jordan sat in his fourteen-pound titanium manual wheelchair, *Shuttlecraft Galileo* (Vanguard AeroLite-Ti), beside Aubrie Jean and Madison at the dining table, reviewing his Sophomore Spring astrophysics problem set alongside Zoë, Lauren, Sarah, Jessica Gallagher, Isabel, Megan, Mark, and Hannah.
 
 At `19:00` on the dot, every phone and `mPad` in the room chimed in rapid-fire succession.
 
@@ -20445,7 +20442,7 @@ Jordan tapped the notification banner on his `mPad`. The homepage of **[`thestar
 > **Student Ticket Price:** `$15.00` (Zero Junk Fees • Non-Transferable `Poly Pass` Entry • Limit 4 per Valid CPI Student ID)<br>
 > **General Public Onsale:** Monday, February 22, 2016 at 10:00 AM EST via **TicketSphere** (`$45.00` Flat Rate • Anti-Scalper ID Lock Enforced)
 
-For three full seconds, the basement of `414 Geneva Street` went dead silent.
+For three full seconds, the basement on Geneva Street went dead silent.
 
 Then Jordan’s fingers flew across his `NeoEdit` keyboard on his `mPad` at blinding speed, his green eyes wide and shining as `EchoType`’s clear Australian voice rang out across the room:
 
@@ -20500,11 +20497,7 @@ Jordan tapped `Speak` on his `mPad`, beaming up at them:
 
 By `09:50 AM` on Friday, February 19, 2016, the four cell leads were positioned at their terminals logged into the **CPI Campus Events Portal**.
 
-Because Friday morning was a full class day at CPI, they were distributed across campus, linked together over a low-latency voice channel and an `NTP`-synchronized countdown clock that Zoë had coded on her screen:
-* **Jordan** (with **Aubrie Jean** and **Megan** standing right behind his chair) was logged in on his `mPad` and `Pinnacle Vanguard Pro` in the quiet study alcove of **Kincaid Student Center** (`290 College Ave.`).
-* **Zoë** (with **Madison** and **Jessica** watching over her shoulder) was hardwired into a gigabit Ethernet port in the **Keystone Hall** computer science lab.
-* **Mark** (with **Hannah** and **Sarah** beside him) was hardwired into a workstation in the **McBryde Hall** engineering commons.
-* **Isabel** (with **Lauren** and **Elana** beside her) was logged in from the high-speed terminal at her `Allegheny Commons` desk.
+Because Friday morning was a full class day at CPI, they were distributed across campus, linked together over a low-latency voice channel and an NTP-synchronized countdown clock that Zoë had coded on her screen. Jordan, with Aubrie Jean and Megan standing right behind his chair, was logged in on his mPad and Pinnacle Vanguard Pro in the quiet study alcove of Kincaid Student Center on College Avenue. Zoë, with Madison and Jessica watching over her shoulder, was hardwired into a gigabit Ethernet port in the Keystone Hall computer science lab. Mark, with Hannah and Sarah beside him, was hardwired into a workstation in the McBryde Hall engineering commons, while Isabel, with Lauren and Elana beside her, was logged in from the high-speed terminal at her Allegheny Commons desk.
 
 "Thirty seconds to `10:00:00`," Zoë’s voice came clearly through their earbuds. "Verify that your `Poly Pass` sessions on the CPI Campus Events Portal are pre-authenticated and your payment methods are pre-loaded. Remember: Section 104, Row A, Seats 1 through 16. Do not refresh before `09:59:59.800`."
 
@@ -20544,7 +20537,7 @@ Predictably, the commercial ticket-broker industry lost its collective mind. Bec
 
 That evening, a new dispatch appeared at the top of **[`thestardustengine.com`](https://stardust.raggiesoft.com)**, **[`engineroom-records.com`](https://engineroom.raggiesoft.com)**, and the front page of *The Collegiate Times*.
 
-At `414 Geneva Street`, **Jordan** sat in ***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`) with **Aubrie Jean** curled against his side and **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica**, **Isabel**, **Megan**, **Mark**, and **Hannah** gathered around the living room as Mark read the open letter aloud:
+On Geneva Street, Jordan sat in *Shuttlecraft Galileo* (Vanguard AeroLite-Ti) with Aubrie Jean curled against his side and Madison, Zoë, Lauren, Sarah, Jessica, Isabel, Megan, Mark, and Hannah gathered around the living room as Mark read the open letter aloud:
 
 > **AN OPEN LETTER TO BLACKSBURG & FORGER NATION**<br>
 > **From:** [The Stardust Engine](https://music.raggiesoft.com/the-stardust-engine) (CPI Class of `'89`)<br>
@@ -20635,13 +20628,13 @@ Aubrie Jean leaned over his shoulder, resting her cheek against his temple as Ma
 
 May 2016 arrived in Blacksburg in a burst of warm Appalachian sunshine, blooming dogwoods, and the bittersweet magic of the end of Sophomore Year.
 
-Eight days earlier, on Friday, May 13, 2016, the entire household had cheered until their voices were hoarse as **Isabel Dawson** walked across the CPI Spring Commencement stage in her maroon-and-orange regalia, officially graduating *cum laude* with her Bachelor of Science in Human Development on the Pre-Occupational Therapy and Nursing track. With her Senior Resident Advisor duties in `Allegheny Commons` formally concluded and her post-graduation clinical rehabilitation position in the New River Valley beginning in June, the remaining boxes from `Apartment 101` had been moved permanently into `414 Geneva Street`—and would soon move with the whole family into the nearly completed U.S. 11 compound at the start of July.
+Eight days earlier, on Friday, May 13, 2016, the entire household had cheered until their voices were hoarse as Isabel Dawson walked across the CPI Spring Commencement stage in her maroon-and-orange regalia, officially graduating *cum laude* with her Bachelor of Science in Human Development on the Pre-Occupational Therapy and Nursing track. With her Senior Resident Advisor duties in Allegheny Commons formally concluded and her post-graduation clinical rehabilitation position in the New River Valley beginning in June, the remaining boxes from Apartment 101 had been moved permanently into the house on Geneva Street—and would soon move with the whole family into the nearly completed U.S. 11 compound at the start of July.
 
-Now, on Saturday afternoon, May 21, 2016, at `15:00`, all sixteen members of their extended family stood on the sunny front lawn of `414 Geneva Street`, dressed in their concert best and wearing their commemorative `$5.00` gold-foil ticket stubs in clear lanyards around their necks:
+Now, on Saturday afternoon, May 21, 2016, at three o'clock, all sixteen members of their extended family stood on the sunny front lawn on Geneva Street, dressed in their concert best and wearing their commemorative five-dollar gold-foil ticket stubs in clear lanyards around their necks:
 * **Jordan** sat in his fourteen-pound titanium manual wheelchair, ***Shuttlecraft Galileo*** (`Vanguard AeroLite-Ti`), wearing a Foundry Maroon **`CPI`** T-shirt—proudly wearing his own school colors back into the stadium where his freshman Homecoming had ended in tears—with his custom high-fidelity `Vibe-Filter` acoustic earpieces tucked securely into his ears and his over-ear defenders clipped to his push-handles just in case.
 * Around him stood all eight women of his constellation—**Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, and **Megan**—alongside **Mark**, **Hannah**, **Daniel**, **Laura**, **Elana**, **Stephen**, and eighteen-month-old **Stella**, who was sporting tiny baby-sized pink earmuffs and a miniature `FORGER NATION` jersey in her folding stroller.
 
-"Nobody in their right mind is driving a car anywhere near Stadium Woods today," Mark said with a grin as the sixteen of them made the short one-block walk down the hill from `414 Geneva Street` to the **Christiansburg Transit Center**, where the commuter lot had been transformed into a bustling sea of Foundry Maroon and Molten Orange. "Just like CPI home football Saturdays or big games at **The Furnace**, **Blue Ridge Transit** suspends *all* regular route service for major special events at **The Crucible** and presses every single available bus in the fleet into nonstop **Crucible Shuttle** loops from commuter lots across Blacksburg, Christiansburg, and all of Montgomery County. No fares collected—just load and go!"
+"Nobody in their right mind is driving a car anywhere near Stadium Woods today," Mark said with a grin as the sixteen of them made the short one-block walk down the hill from Geneva Street to the Christiansburg Transit Center, where the commuter lot had been transformed into a bustling sea of Foundry Maroon and Molten Orange. "Just like CPI home football Saturdays or big games at The Furnace, Blue Ridge Transit suspends *all* regular route service for major special events at The Crucible and presses every single available bus in the fleet into nonstop Crucible Shuttle loops from commuter lots across Blacksburg, Christiansburg, and all of Montgomery County. No fares collected—just load and go!"
 
 Right on cue, a sixty-foot articulated **Blue Ridge Transit** shuttle pulled up to the Christiansburg Transit Center curb. Its digital destination sign alternated between two high-energy messages:
 
@@ -21480,7 +21473,7 @@ GO FORGERS!
 
 ![At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, Jordan Fuller backs his manual wheelchair smoothly up the front-door low-floor ramp in reverse into a white-and-maroon Blue Ridge Transit articulated shuttle displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on its amber LED destination sign, smiling toward Aubrie Jean Kelly, Madison Scott, Zoë Wren Brooks, and Mark Anderson on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p007/crucible-bus-loop-forgers-shuttle.jpg#fullwidth)
 
-As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the **Christiansburg Transit Center**—one short block from `414 Geneva Street`—**Aubrie Jean** sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while **Mark** leaned across the aisle toward **Hannah** and Jordan with a quiet, meaningful smile.
+As the articulated bus pulled smoothly out of the Crucible Bus Loop and glided down U.S. Route 460 toward the Christiansburg Transit Center—one short block from Geneva Street—Aubrie Jean sat on the sideways priority bench right beside Jordan’s chair, her fingers laced tightly through his, while Mark leaned across the aisle toward Hannah and Jordan with a quiet, meaningful smile.
 
 "Next stop," Mark said softly over the gentle hum of the bus, "Friday, July first move-in at the U.S. 11 compound. And then Friday, July fifteenth... the Double Wedding, and a quick trip across the street while the Montgomery County Courthouse is open."
 
@@ -21654,9 +21647,9 @@ When they finally rolled out through the automatic sliding glass doors into the 
 
 #### 11:00 AM — The U.S. 11 Compound & The Sunken Sanctuary
 
-On Friday morning, July 1, 2016—sixteen months after **Zoë** had first rendered the 3D architectural wireframe on the dining room table at `414 Geneva Street`, and eight months after **Jordan** had whispered *"Let's build our sanctuary"* in `CVICU Room 412`—the custom-built **Kelly–Anderson–Brooks Compound** along the U.S. Route 11 corridor stood finished under the bright July sun.
+On Friday morning, July 1, 2016—sixteen months after Zoë had first rendered the 3D architectural wireframe on the dining room table on Geneva Street, and eight months after Jordan had whispered *"Let's build our sanctuary"* in CVICU Room 412—the custom-built Kelly–Anderson–Brooks Compound along the U.S. Route 11 corridor stood finished under the bright July sun.
 
-Where `414 Geneva Street` had been a beloved, retrofitted house that carried them through Sophomore Year and Jordan’s post-CABG recovery, the new three-story U.S. 11 residence—connected across all three levels by a smooth **Vertical Platform Lift**—had been engineered from the bedrock up around Jordan’s body, Mark and Hannah’s marriage, and the lifelong rhythms of their family:
+Where the house on Geneva Street had been a beloved, retrofitted home that carried them through Sophomore Year and Jordan’s post-CABG recovery, the new three-story U.S. 11 residence—connected across all three levels by a smooth Vertical Platform Lift—had been engineered from the bedrock up around Jordan’s body, Mark and Hannah’s marriage, and the lifelong rhythms of their family:
 * **The First Floor (The Communal Hub, The Grandparents' Suite, & The Bilateral `$1.00` Route 3 Easements):** Even though the compound sat in a quiet, rural stretch of unincorporated Montgomery County along **U.S. Route 11 (Lee Highway)**—the thirty-minute arterial corridor connecting **Pepper Plaza Transit Center** in downtown Christiansburg (next to the Montgomery County Courthouse) and **McConnell Transit Center** in Radford—it enjoyed full municipal-grade utilities (three-phase power, municipal water, sanitary sewer, telephone, and high-speed cable) from the inter-town trunk line running down Lee Highway. And because **Daniel Brooks** had refused to buy a single acre of the property back in 2014 unless the man he considered his son could travel independently on regular fixed-route buses (since Jordan flatly refused scheduled paratransit vans—and was functionally ineligible for paratransit anyway because he had proven he could independently board every fixed-route city bus and over-the-road **Bluewater Transit** and **Roanoke Valley Transit** highway coach in the region), Daniel had purchased **both** the main compound acreage and the parcel directly across the street, conveying a perpetual public transit easement on each side of Lee Highway for **`$1.00` of legal consideration** apiece. Directly at the edge of the front driveway stood the privately funded, covered **Blue Ridge Transit Route 3** shelter (towards Christiansburg: `3 CHRISTIANSBURG` * `3 via LEE HWY`), connected to the front porch by a heated, zero-grade brushed-concrete walkway, while directly across the street on Daniel's north parcel sat the matching ADA concrete landing pad and paved bus pull-out bay (towards Radford: `3 RADFORD` * `3 via LEE HWY`) linked by an illuminated crosswalk. Inside, the main floor featured sweeping forty-eight-inch hallways with recessed oak wall bumpers, zero-threshold pocket doors, a massive communal living and dining area, dual-height kitchen islands where Jordan could roll right beside **Aubrie Jean**, **Madison**, **Zoë**, **Lauren**, **Sarah**, **Jessica Gallagher**, **Isabel**, **Megan**, **Mark**, and **Hannah** to prep dinner together, and a private, fully accessible **Grandparents' Suite** for **Daniel and Laura Brooks**.
 * **The Second Floor (The Anderson Wing):** Above the communal hub sat **Mark and Hannah’s** private **Anderson Suite**, complete with their master bedroom, private living area, and engineering study.
 * **The Basement (The Pact Wing & The Sunken Sanctuary):** Accessible via the Vertical Platform Lift, the entire lower level served as the private living sanctuary for Jordan and the women of the Pact—complete with a private living area, a kitchenette, dedicated workspaces, and, at its heart, the master suite housing **The Sunken Sanctuary**.

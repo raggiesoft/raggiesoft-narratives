@@ -276,7 +276,7 @@ Claire exhaled a shaky breath, the terrifying weight of suspicion lifting, only 
 
 "Because of the nature and severity of the injury, the hospital is required by law to contact us and Child Protective Services immediately," Officer Miller explained, pulling a small notepad from his chest pocket. "This is being treated as an aggravated assault on a minor. I need to know exactly where this happened."
 
-"It's called Pinnacle Mastery School of Karate," Claire said, her voice hardening. "It operates out of the Tidewater Tumblers building in Chesapeake. 912 Professional Place, Suite A. Today was supposed to be his and his twin sister's first day... but Maggie stayed home sick with our neighbor, Mrs. Bea."
+"It's called Pinnacle Mastery School of Karate," Claire said, her voice hardening. "It operates out of the Tidewater Tumblers building in Chesapeake, in Suite A of the plaza on Professional Place. Today was supposed to be his and his twin sister's first day... but Maggie stayed home sick with our neighbor, Mrs. Bea."
 
 Officer Miller's eyebrows raised slightly in recognition. "Mrs. Bea? The older British woman? She's watched my own kids in the past. If your daughter is with her, she's perfectly safe." He clicked his pen. "Did you see anything else when you were there?"
 
@@ -566,7 +566,7 @@ Drew squeezed his eyes shut, leaning into his mother's warmth as the heavy paink
 
 #### 9:30 AM • Dr. Evans — Suite F
 
-By mid-morning, the thriving, interconnected ecosystem of the 912 Professional Place strip mall had completely fractured.
+By mid-morning, the thriving, interconnected ecosystem of the Professional Place strip mall had completely fractured.
 
 At the far end of the plaza, inside the pediatric dentistry clinic in Suite F, Dr. Allison Evans stood by the front desk, staring out the glass windows. At the opposite end of the building, heavily armed police officers and crime scene technicians were swarming Suite A—Tidewater Tumblers. Thick yellow crime scene tape was severed across the main glass doors. 
 

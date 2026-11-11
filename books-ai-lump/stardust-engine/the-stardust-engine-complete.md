@@ -249,7 +249,7 @@ Ryan looked up at the black poster of *The Jupiter Horizon* on the wall, then do
 
 **Date:** 1979-02-12 at 05:45 America/New_York
 
-#### February 12, 1979 (`05:45 EST`) — Part 1: The Closed Circuit (`124 Draper Road`)
+#### February 12, 1979 (5:45 AM) — Part 1: The Closed Circuit (Draper Road)
 
 The house on Draper Road breathed in shifts. With ten people and one bathroom under a single roof, oxygen and floor space were finite resources.
 
@@ -307,11 +307,11 @@ Uncle Jack lowered his newspaper an inch and gave Ryan a slow nod. "Good man."
 
 ***
 
-#### February 12, 1979 (`16:00 EST`) — Holloway's Music & Pawn (`202 South Main Street`)
+#### February 12, 1979 (4:00 PM) — Holloway's Music & Pawn (South Main Street)
 
-The world outside `124 Draper Road` was not engineered for them. It was built for people who took concrete steps two at a time and didn't flinch when a transit bus vented its air brakes.
+The world outside Draper Road was not engineered for them. It was built for people who took concrete steps two at a time and didn't flinch when a transit bus vented its air brakes.
 
-By four o'clock that afternoon, wet Virginia snow was turning the downtown sidewalks into gray slush. Ryan, Evan, Tyler, and Holly stood outside the plate-glass window of **Holloway's Music & Pawn** at `202 South Main Street`, while Cassidy sat perched on the warm hood of the idling station wagon watching snowflakes melt against her knitted mittens.
+By four o'clock that afternoon, wet Virginia snow was turning the downtown sidewalks into gray slush. Ryan, Evan, Tyler, and Holly stood outside the plate-glass window of Holloway's Music & Pawn on South Main Street, while Cassidy sat perched on the warm hood of the idling station wagon watching snowflakes melt against her knitted mittens.
 
 "Six-inch step," Ryan noted, eyeing the entrance. A chipped concrete lip led to a heavy aluminum door with an over-torqued hydraulic closer.
 
@@ -985,7 +985,7 @@ The realization hit Ryan with the physical violence of the tractor-trailer on In
 
 It wasn't a metaphor.
 
-Ryan's right hand began to shake so hard the aluminum clip rattled against the steel armrest of his wheelchair. Twenty-five hundred miles from the Blue Ridge Mountains, the family fortress they had built since `124 Draper Road` was under direct, vile assault.
+Ryan's right hand began to shake so hard the aluminum clip rattled against the steel armrest of his wheelchair. Twenty-five hundred miles from the Blue Ridge Mountains, the family fortress they had built since childhood on Draper Road was under direct, vile assault.
 
 Ryan looked up at Julian Vance, his pupils blown wide with adrenaline, and a roar tore straight up from the bottom of his lungs—a raw, guttural sound of biological revulsion that echoed off the steel rafters like a shotgun blast:
 
@@ -2846,7 +2846,7 @@ With a practiced lift-and-swing transfer, Ryan moved from his Carbon-Fiber Veloc
 
 #### Part 1 & 2: The LATA Rapid 720, The Turnstiles & The 3rd Floor Landlord Office
 
-At `09:00 AM`, the massive sixty-foot red-and-silver articulated **LATA Rapid 720** bus thundered down Avenue of the Stars, scattering the quiet of the luxury valet driveway at `2000 Avenue of the Stars` as it pulled to the curb directly in front of the forty-story glass atrium of **Omni-Global Media Corporation**.
+At 9:00 AM, the massive sixty-foot red-and-silver articulated LATA Rapid 720 bus thundered down Avenue of the Stars, scattering the quiet of the luxury valet driveway on Avenue of the Stars as it pulled to the curb directly in front of the forty-story glass atrium of Omni-Global Media Corporation.
 
 The air suspension knelt with a loud hydraulic hiss, the front doors folded wide, and the mechanical wheelchair ramp deployed onto the polished granite sidewalk with a crisp metallic *clack*.
 
@@ -2858,7 +2858,7 @@ As Ryan rolled down the ramp in his matte-black **Carbon-Fiber Veloce**—wearin
 
 "We aren't going up to forty yet," Holly said calmly. "We have a stop to make on the third floor first."
 
-Bypassing the main Visitor Desk completely, Holly led the family straight toward the restricted security turnstiles guarding the elevator bank. Instantly, the veteran lobby security officer—a serious man named **Officer Alvarez** with twenty years on the job—stepped out from behind his console and raised a hand to block their path. Because Holly managed **Pacific Rim Properties, LLC** remotely from Blacksburg and let her on-site property manager handle daily operations, none of the five O'Connells and Wrights had ever physically set foot inside `2000 Avenue of the Stars` before today; to Officer Alvarez, they looked like five out-of-town visitors in polo shirts who had wandered past the guest check-in kiosk.
+Bypassing the main Visitor Desk completely, Holly led the family straight toward the restricted security turnstiles guarding the elevator bank. Instantly, the veteran lobby security officer—a serious man named Officer Alvarez with twenty years on the job—stepped out from behind his console and raised a hand to block their path. Because Holly managed Pacific Rim Properties, LLC remotely from Blacksburg and let her on-site property manager handle daily operations, none of the five O'Connells and Wrights had ever physically set foot inside the Avenue of the Stars tower before today; to Officer Alvarez, they looked like five out-of-town visitors in polo shirts who had wandered past the guest check-in kiosk.
 
 "Excuse me, folks," Officer Alvarez said firmly. "Restricted elevators. I need you to step back to the Visitor Desk and sign in."
 
@@ -2890,7 +2890,7 @@ Inside Elevator C, the brushed-steel button panel skipped **`2`** entirely—the
 
 Moments later, the elevator doors glided open onto the **Third Floor Mezzanine**.
 
-There was only one suite on the entire level: **`Suite 300 — Pacific Rim Properties, LLC (Building Management)`**. Unlike a normal office, the reception desk of Suite 300 didn't face a drywall corridor; it faced a sweeping curved glass balcony rail that looked directly down into the main lobby atrium below. From her desk on the third floor, **Elena**—Pacific Rim's on-site Los Angeles property manager—could see every single person who walked through the front doors of `2000 Avenue of the Stars`. The Landlord wasn't just in the tower; the Landlord was watching the door.
+There was only one suite on the entire level: Suite 300 — Pacific Rim Properties, LLC (Building Management). Unlike a normal office, the reception desk of Suite 300 didn't face a drywall corridor; it faced a sweeping curved glass balcony rail that looked directly down into the main lobby atrium below. From her desk on the third floor, Elena—Pacific Rim's on-site Los Angeles property manager—could see every single person who walked through the front doors of the Avenue of the Stars tower. The Landlord wasn't just in the tower; the Landlord was watching the door.
 
 "Welcome to the West Coast office, Ms. O'Connell," Elena said, standing up with a smile and handing Holly a crisp, heavy document folder. "Printed on the thirty-two-pound cream linen stock with silver foil embossing, just like you asked."
 
@@ -2906,7 +2906,7 @@ Holly opened the folder and ran her thumb across the raised silver column logo a
 
 #### Part 3 & 4: Frost in the Atrium, Arthur Vane in the Elevator & Jessica Miller at the Desk
 
-Technically, the five **Tier 1 Owner** badges clipped to their pockets were programmed as Grand Master credentials in the building's physical access-control database—capable of unlocking every base-building corridor, freight elevator, and electronic lock in `2000 Avenue of the Stars` for life-safety emergencies or post-eviction lockouts.
+Technically, the five Tier 1 Owner badges clipped to their pockets were programmed as Grand Master credentials in the building's physical access-control database—capable of unlocking every base-building corridor, freight elevator, and electronic lock in the Avenue of the Stars tower for life-safety emergencies or post-eviction lockouts.
 
 But Holly O'Connell was a commercial real-estate attorney who took the **Covenant of Quiet Enjoyment** seriously. Being the Landlord didn't mean barging unannounced into a tenant's private leased floors just because your keycard could unlock the door; until a court-ordered lockout took effect, a tenant's demised premises were their sanctuary. Besides, today they had an invitation from someone who had no idea he was hosting his own Landlord.
 
@@ -3163,9 +3163,9 @@ From the front pocket, Holly drew out the crisp, heavy sheet of thirty-two-pound
 
 > **`PACIFIC RIM PROPERTIES, LLC — 3-DAY NOTICE TO PAY RENT OR QUIT`**  
 > *(California Code of Civil Procedure § 1161)*  
-> **TO:** Omni-Global Media Corp., `2000 Avenue of the Stars, Suite 4000 (Floors 38, 39, and 40)`  
+> **TO:** Omni-Global Media Corp., `Avenue of the Stars, Suite 4000 (Floors 38, 39, and 40)`  
 > **TOTAL RENT IN ARREARS:** **`$450,000.00`** (`July 2018: $150,000.00` • `August 2018: $150,000.00` • `September 2018: $150,000.00`)  
-> **NOTICE:** Within **three (3) days** after service of this notice upon you, you are required to either pay the total sum of **`$450,000.00`** to the Landlord at `2000 Avenue of the Stars, Suite 300 (Building Management)` OR quit and surrender possession of the premises.  
+> **NOTICE:** Within **three (3) days** after service of this notice upon you, you are required to either pay the total sum of **`$450,000.00`** to the Landlord at `Avenue of the Stars, Suite 300 (Building Management)` OR quit and surrender possession of the premises.  
 > **SIGNED:** *Holly O'Connell, Esq. — Attorney for Landlord (State Bar of California) • Representing The O'Connell Family Revocable Trust*
 
 "We stopped by the Pacific Rim office on the third floor on our way upstairs," Holly said softly. "Printed on thirty-two-pound linen stock. Served in hand to a corporate officer with witnesses present. Your seventy-two-hour clock started the second your fingers touched that paper, Jameson."
@@ -3523,17 +3523,17 @@ Holly took one step forward, ticking off her fingers a millimeter from the tremb
 
 "You heard Counselor," Sergeant Ruiz said, resting his palm on his baton as the two Fixers backed down the stairwell and bolted.
 
-When Tyler bolted the door shut behind them, Robert Miller let out a long, shaky breath and looked at Holly. "Once your band flies back to Virginia on Thursday morning, Ms. O'Connell... what happens when Omni-Global's Chapter 11 implodes completely? All those regular logistics staffers, warehouse drivers, and IT techs at 2000 Avenue of the Stars are going to lose their jobs right before the holidays—and where do Jessica and Justin go from here?"
+When Tyler bolted the door shut behind them, Robert Miller let out a long, shaky breath and looked at Holly. "Once your band flies back to Virginia on Thursday morning, Ms. O'Connell... what happens when Omni-Global's Chapter 11 implodes completely? All those regular logistics staffers, warehouse drivers, and IT techs at the Avenue of the Stars tower are going to lose their jobs right before the holidays—and where do Jessica and Justin go from here?"
 
 "Nowhere," Holly said warmly, sitting down across from Robert and Ellen and sliding a crisp California corporate formation binder across the dining table. "They stay right here at home with you in Los Angeles."
 
-Ryan leaned forward against the dining table, grinning at Jessica and Justin. "Remember how Holly checked the server room on the nineteenth floor of `2000 Avenue of the Stars` the afternoon we landed? That's because our real-estate arm—**Pacific Rim Properties, LLC**—owns the building. Omni-Global missed their last three rent payments. The moment the Delaware Bankruptcy Court converts their case to Chapter 7 liquidation, we are evicting the executive suite and leasing **Floors 38, 39, and 40** directly to our new West Coast subsidiary."
+Ryan leaned forward against the dining table, grinning at Jessica and Justin. "Remember how Holly checked the server room on the nineteenth floor of the Avenue of the Stars tower the afternoon we landed? That's because our real-estate arm—Pacific Rim Properties, LLC—owns the building. Omni-Global missed their last three rent payments. The moment the Delaware Bankruptcy Court converts their case to Chapter 7 liquidation, we are evicting the executive suite and leasing Floors 38, 39, and 40 directly to our new West Coast subsidiary."
 
 Holly tapped the gold-embossed title on the cover of the binder:
 
 > **`THE JESSICA MILLER CENTER, LLC`**  
 > *West Coast Division • Engine Room Records, LLC*  
-> *2000 Avenue of the Stars, Suites 3800–4000, Century City, Los Angeles, CA*
+> *Avenue of the Stars, Suites 3800–4000, Century City, Los Angeles, CA*
 
 "We aren't firing the support staff, the logistics crew, or the janitors," Holly explained to the stunned Miller family. "We're hiring all of them into **The Jessica Miller Center, LLC** with a 110% signing bonus to cover their bounced Omni-Global paychecks, putting them on six weeks of full paid furlough while we gut the marble off Floors 38 through 40 and rebuild them to Universal Design and zero-reverb acoustic standards, and turning the entire West Coast operation into a `Cost + 5%` logistics utility for independent artists."
 
@@ -3641,11 +3641,11 @@ Beside Ryan, Cassidy lifted her head from his shoulder, her eyes shining with pu
 
 **Date:** 2019-02-14 at 10:00 America/Los_Angeles
 
-![Photorealistic scene inside Jameson Frost's former 40th-floor corner office at 2000 Avenue of the Stars—now reborn as Zone C of The Quiet Floor—during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair gesturing to introduce the room and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) alongside 51-year-old Cassidy O'Connell (resting her hand on Ryan's shoulder to ground herself as they smile at each other in front of the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-former-office-quiet-floor.jpg)
+![Photorealistic scene inside Jameson Frost's former 40th-floor corner office on Avenue of the Stars—now reborn as Zone C of The Quiet Floor—during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair gesturing to introduce the room and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) alongside 51-year-old Cassidy O'Connell (resting her hand on Ryan's shoulder to ground herself as they smile at each other in front of the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-former-office-quiet-floor.jpg)
 
-![Twenty-year-old Executive Director Jessica Miller seated comfortably in her titanium manual wheelchair wearing blue jeans, sneakers, black-framed glasses, and a black The Stardust Engine t-shirt, holding her mPad angled toward herself in front of the warm cork-paneled wall reading 'The Jessica Miller Center.' on Floor 38 of 2000 Avenue of the Stars in Century City, Los Angeles.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/jessica-miller.jpg)
+![Twenty-year-old Executive Director Jessica Miller seated comfortably in her titanium manual wheelchair wearing blue jeans, sneakers, black-framed glasses, and a black The Stardust Engine t-shirt, holding her mPad angled toward herself in front of the warm cork-paneled wall reading 'The Jessica Miller Center.' on Floor 38 of the Avenue of the Stars tower in Century City, Los Angeles.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/jessica-miller.jpg)
 
-![Chief Systems Architect Justin Miller standing inside the 19th-floor server room at 2000 Avenue of the Stars wearing his black The Stardust Engine t-shirt and glasses, inspecting network diagnostics on his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/justin-server-rom.jpg)
+![Chief Systems Architect Justin Miller standing inside the 19th-floor server room of the Avenue of the Stars tower wearing his black The Stardust Engine t-shirt and glasses, inspecting network diagnostics on his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/justin-server-rom.jpg)
 
 ![Inside the glass-walled Floor 38 office of The Jessica Miller Center in Century City, silver-haired Jameson Frost sits across the height-adjustable desk from twenty-year-old Executive Director Jessica Miller (in her manual wheelchair eating a lunch taco in her black The Stardust Engine t-shirt) while Justin Miller stands beside her holding his mPad Mini.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-interview.jpg)
 
@@ -3655,7 +3655,7 @@ By mid-December 2018, the Delaware Bankruptcy Court had converted **Omni-Global 
 
 Back home on **Progress Street NE** in Blacksburg, fifty-four-year-old **Ryan O'Connell** sat in the warm control room of **Stardust Studios** beside Cassidy, Evan, and Tyler while forty-nine-year-old **Holly O'Connell** finalized the West Coast transition over a live video link with **Jessica and Justin Miller** in Los Angeles.
 
-When Omni-Global's accounts were frozen by the Bankruptcy Trustee, the last two paychecks for the building's 142 non-executive employees—the logistics coordinators, warehouse drivers, IT technicians, and janitorial crew at `2000 Avenue of the Stars`—had bounced right before Christmas.
+When Omni-Global's accounts were frozen by the Bankruptcy Trustee, the last two paychecks for the building's 142 non-executive employees—the logistics coordinators, warehouse drivers, IT technicians, and janitorial crew at the Avenue of the Stars tower—had bounced right before Christmas.
 
 Holly couldn't legally pay the debts of a bankrupt third-party corporation without piercing the corporate veil. So she engineered a cleaner solution.
 
@@ -3667,7 +3667,7 @@ Holly couldn't legally pay the debts of a bankrupt third-party corporation witho
 > To the Crew,<br>
 > By now, you have been notified by the Bankruptcy Trustee that your employment with Omni-Global Media has been terminated, and that your last two paychecks have bounced. I am sorry. You deserved better leaders.<br>
 > However, while the corporation is dead, the work you did was real. You are not the problem. You are the infrastructure.<br>
-> **Engine Room Records, LLC** has signed a ten-year Triple Net lease with **Pacific Rim Properties, LLC** for **Floors 38, 39, and 40** of `2000 Avenue of the Stars`. We are establishing our new West Coast headquarters: **The Jessica Miller Center, LLC**.<br>
+> **Engine Room Records, LLC** has signed a ten-year Triple Net lease with **Pacific Rim Properties, LLC** for **Floors 38, 39, and 40** of the Avenue of the Stars tower. We are establishing our new West Coast headquarters: **The Jessica Miller Center, LLC**.<br>
 > 1. **Immediate Employment:** Effective today, you are employees of *The Jessica Miller Center, LLC*. Your seniority, healthcare, and benefits bridge over intact.<br>
 > 2. **The "Frost Tax" Bonus:** While we cannot legally pay Omni-Global's debts, we are issuing an immediate Signing Bonus equal to **110% of your unpaid back wages**. This check clears today.<br>
 > 3. **Paid Renovation Leave:** We are gutting Floors 38, 39, and 40 to remove the high-gloss marble, the fluorescent glare, and the toxicity. Construction will take six weeks. During this time, you are on **Full Paid Furlough**. Go home. Rest. Spend the holidays with your families.<br>
@@ -3681,7 +3681,7 @@ In Century City, **Jessica Miller** grinned from her titanium wheelchair as jack
 
 <aac>"Marble eradication: 84% complete. Acoustic reverb reduced by 14 decibels. Floor 38 cork installation on schedule."</aac>
 
-Under **The Miller Standard**, Jessica and Justin inverted the entire three-floor hierarchy of `2000 Avenue of the Stars`:
+Under The Miller Standard, Jessica and Justin inverted the entire three-floor hierarchy of the Avenue of the Stars tower:
 - **Floor 38 (Lobby & Intake — Suite 3800):** Rebuilt with matte sound-dampening cork-and-rubber flooring, warm `2700K` dimmable LED lighting, and central double-wide wheelchair ramps directly opposite the elevator bank.
 - **Floor 39 (Operations & Server Link):** The working logistics hub—where independent artists could access physical distribution at `Cost + 5%`, pro bono contract review, and `0%-fee` direct digital payouts—alongside the shared executive office of **Jessica and Justin Miller**.
 - **Floor 40 (The Quiet Floor):** Formerly Jameson Frost's marble executive penthouse—gutted and transformed into a living biophilic sanctuary of moss walls, ferns, and zero-decibel sensory decompression pods open to every employee and tenant in the forty-story tower.
@@ -3719,7 +3719,7 @@ Jessica led them into the southwest corner overlooking the Hollywood Hills—the
 
 The massive mahogany power desk was gone. The low-slung leather chairs designed to trap wheelchair users at the doorway were gone. The glass trophy wall where Frost had thrown his luxury fountain pen and screamed that they were *"hillbillies from a college town"* had been completely demolished.
 
-In its place stood a living, twelve-foot-tall biophilic wall of lush emerald pillow moss, cascading Boston ferns, and trailing green foliage fed by a silent, zero-splash capillary water drip. Curved natural-oak acoustic sanctuary alcoves with soft sage cushions sat spaced along the perimeter with sixty-inch wheelchair turning circles between them, ready to welcome every janitor, mailroom clerk, and warehouse coordinator in `2000 Avenue of the Stars` as soon as the doors opened at ten o'clock.
+In its place stood a living, twelve-foot-tall biophilic wall of lush emerald pillow moss, cascading Boston ferns, and trailing green foliage fed by a silent, zero-splash capillary water drip. Curved natural-oak acoustic sanctuary alcoves with soft sage cushions sat spaced along the perimeter with sixty-inch wheelchair turning circles between them, ready to welcome every janitor, mailroom clerk, and warehouse coordinator in the Avenue of the Stars tower as soon as the doors opened at ten o'clock.
 
 Beside Ryan's right wheel, fifty-one-year-old **Cassidy** stepped into the center of Frost's former office. Her cerebral palsy gait was completely relaxed—zero spasticity, zero tremor—as she brushed her fingertips across the cool, velvety green moss growing over the exact spot where Jameson Frost's desk had once stood, then stepped back to Ryan's side and rested her left hand on his shoulder to ground herself.
 
@@ -3739,7 +3739,7 @@ Ryan raised an eyebrow as the elevator descended to 38. "Frost?"
 
 "In the flesh," Holly replied, gesturing toward the one-way glass observation room down the Floor 38 intake corridor where she, Ryan, Cassidy, Evan, and Tyler could watch and listen over the internal audio feed. "It's been five months since I filed the **Triple Tap** on September 14—**SEC Form TCR** for the `$400 million` off-balance-sheet Ponzi scheme, **IRS Form 3949-A** for fraudulent real-estate depreciation, and **U.S. Postal Inspection Service Form 8165** for sending fraudulent prospectus mailers across state lines to our Virginia address. Because the DOJ hasn't unsealed the criminal indictments yet, Jameson Frost still thinks he's a free man looking for his next C-suite gig."
 
-Down in the ground-floor lobby of `2000 Avenue of the Stars`, **Jameson Frost** strode toward the security turnstiles in a `$3,000` silk suit, reaching instinctively for his hip before remembering that Holly O'Connell had stripped his badge five months earlier.
+Down in the ground-floor lobby of the Avenue of the Stars tower, Jameson Frost strode toward the security turnstiles in a $3,000 silk suit, reaching instinctively for his hip before remembering that Holly O'Connell had stripped his badge five months earlier.
 
 "Alvarez," Frost barked at the head security guard. "Open the gate. I have a meeting with the new Director."
 

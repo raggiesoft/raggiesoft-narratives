@@ -482,7 +482,7 @@ He told himself it was just a phase. Rachel was just overly shy. Michael was jus
 
 He finally made the right turn onto Brandon Boulevard, the familiar residential streets offering a brief reprieve from the heavy traffic. He shifted into third, dodging his son's knee again, letting them scream the lyrics to the radio. It wasn't proper, and it didn't make sense, but it was keeping the peace.
 
-Dad made the final right turn onto Delaney Street. Pulling up alongside 1852, he saw Mom's sedan already parked in the driveway, meaning the rest of the loud, chaotic family was already inside.
+Dad made the final right turn onto Delaney Street. Pulling up alongside our house, he saw Mom's sedan already parked in the driveway, meaning the rest of the loud, chaotic family was already inside.
 
 With a heavy sigh, Dad parallel parked the Bantam against the curb, cut the engine, and let the mechanical silence wash over the cab. The ride was over, but the house was still waiting.
 
@@ -492,7 +492,7 @@ With a heavy sigh, Dad parallel parked the Bantam against the curb, cut the engi
 
 The problem with a really good musical hook is that my brain doesn't just turn it off when the ignition stops.
 
-As the four of us walked up the concrete front walk of 1852 Delaney Street and stepped into the crowded foyer, the heavy piano rhythm of Arthur Sterling was still looping at full volume inside my head. Rachel was still holding tightly to the hem of my winter coat, and before I had even unzipped my jacket, I cheerfully belted the chorus one more time right in the middle of the front hallway.
+As the four of us walked up the concrete front walk on Delaney Street and stepped into the crowded foyer, the heavy piano rhythm of Arthur Sterling was still looping at full volume inside my head. Rachel was still holding tightly to the hem of my winter coat, and before I had even unzipped my jacket, I cheerfully belted the chorus one more time right in the middle of the front hallway.
 
 Rachel immediately chimed in beside me, humming the exact five-note cadence at the top of her lungs.
 
@@ -1119,7 +1119,7 @@ The perimeter was locked tight, and the pack was safe.
 
 The main gymnastics floor of Tidewater Tumblers & Martial Arts didn’t feel like a gymnastics floor today.
 
-Originally opened as a gymnastics school in the late 1970s at 912 Professional Place before receiving its license to operate the Pinnacle Mastery School of Karate in 1982, the massive warehouse arena served as the regional testing center for every branch in Hampton Roads. The rebounding gymnastics spring floor was cleared. The balance beams were pushed back. The tumbling tracks were rolled tight against the wall. High above the Dojang doors, the second-floor observation deck—lined with three tiers of bleachers against its original late-1970s wood-paneled wall backing—was packed shoulder-to-shoulder with parents, siblings, and observers looking down over the balcony railing, including Mom, Dad, Jessica, Janette, and Ashley Raybourn sitting right in the front row. Down the center of the spring floor below, lines of students stood barefoot on the open blue mats, their crisp white *doboks* bright under the fluorescent lights, every single chest—except Curtis's—bearing the embroidered 1982 Pinnacle Mastery School of Karate patch.
+Originally opened as a gymnastics school in the late 1970s on Professional Place before receiving its license to operate the Pinnacle Mastery School of Karate in 1982, the massive warehouse arena served as the regional testing center for every branch in Hampton Roads. The rebounding gymnastics spring floor was cleared. The balance beams were pushed back. The tumbling tracks were rolled tight against the wall. High above the Dojang doors, the second-floor observation deck—lined with three tiers of bleachers against its original late-1970s wood-paneled wall backing—was packed shoulder-to-shoulder with parents, siblings, and observers looking down over the balcony railing, including Mom, Dad, Jessica, Janette, and Ashley Raybourn sitting right in the front row. Down the center of the spring floor below, lines of students stood barefoot on the open blue mats, their crisp white *doboks* bright under the fluorescent lights, every single chest—except Curtis's—bearing the embroidered 1982 Pinnacle Mastery School of Karate patch.
 
 At the very front, the hierarchy was visually absolute. Master Ray Shackford, the 46-year-old franchise owner, stood in his white uniform with the midnight blue collar, his 3rd Dan belt tied perfectly. Beside him stood Curtis Maddox, 34 years old, wearing the 2nd Dan uniform, his jaw already tight with anticipation. For the past two years, Tidewater Tumblers had been a safe, predictable second home for Rachel and me because our classes were always taught by April, Master Ray, or Rhonda. Curtis had spent those years solely as an adult student—taught by April, Ray, and the other instructors—and had only recently applied for and received a junior teaching role at Tidewater Tumblers as part of fulfilling his instructional requirement to test for his 3rd Dan today.
 
@@ -1711,7 +1711,7 @@ We were sitting barefoot on the freezing linoleum, covered in sweat, wearing rid
 
 We didn't stay in the Dojang a second longer than we had to. We shoved our heavy, sweaty sparring gear into our canvas bags and climbed the metal stairs to the second-floor observation deck.
 
-The observation deck was a long, narrow balcony overlooking the massive gymnastics floor. Because the gymnastics school had originally opened in the late 1970s at 912 Professional Place—several years before Master Ray signed the license to operate the Pinnacle Mastery School of Karate in 1982—the second-floor walls behind the bleachers still had their original 1970s wood panel backing. The balcony was lined with three tiers of bleacher seating, but it was a completely hostile design. There were no backrests on the lower rows. To sit on the first or second row meant sitting completely unsupported, forcing your core to constantly balance while kids kicked the risers behind you. I absolutely hated it.
+The observation deck was a long, narrow balcony overlooking the massive gymnastics floor. Because the gymnastics school had originally opened in the late 1970s on Professional Place—several years before Master Ray signed the license to operate the Pinnacle Mastery School of Karate in 1982—the second-floor walls behind the bleachers still had their original 1970s wood panel backing. The balcony was lined with three tiers of bleacher seating, but it was a completely hostile design. There were no backrests on the lower rows. To sit on the first or second row meant sitting completely unsupported, forcing your core to constantly balance while kids kicked the risers behind you. I absolutely hated it.
 
 I led Rachel straight to the top row, navigating all the way to the far right end of the bleachers.
 
@@ -1789,7 +1789,7 @@ The rest of the ride back to Delaney Street was the loudest car trip we had ever
 
 #### 5:45 PM — The Delaney Street Revelation
 
-Aunt Janet pulled the sedan up to the curb outside 1852 Delaney Street. She didn't even put the car in park before Jessica was pushing her door open.
+Aunt Janet pulled the sedan up to the curb outside our house on Delaney Street. She didn't even put the car in park before Jessica was pushing her door open.
 
 Normally, getting out of the car after the Dojang was a slow, exhausting process. My muscles would be stiff from the spasticity, and Rachel would be completely drained, practically sleepwalking up the driveway. But today, the air practically crackled with static electricity. Rachel hopped out of the car, her canvas gym bag slung over her shoulder, her jaw set with a fierce, unprecedented determination.
 
@@ -2725,7 +2725,7 @@ Jessica smiled, then turned to me. "And you got great air on that jump today, Mi
 
 We piled into Aunt Janet's station wagon and made the short drive to Tidewater Tumblers.
 
-The facility was massive. Originally opened as a gymnastics school in the late 1970s at 912 Professional Place before adding its licensed Pinnacle Mastery School of Karate branch in 1982, the front half of the warehouse-sized building was dedicated entirely to the gymnastics and dance programs, filled with the constant, echoing sounds of spring floors, chalk-dusted uneven bars, and the heavy thuds of dismounts. Tucked all the way in the back of the building, separated by a set of heavy double doors, was the martial arts dojang.
+The facility was massive. Originally opened as a gymnastics school in the late 1970s on Professional Place before adding its licensed Pinnacle Mastery School of Karate branch in 1982, the front half of the warehouse-sized building was dedicated entirely to the gymnastics and dance programs, filled with the constant, echoing sounds of spring floors, chalk-dusted uneven bars, and the heavy thuds of dismounts. Tucked all the way in the back of the building, separated by a set of heavy double doors, was the martial arts dojang.
 
 Because our class didn't start until five o'clock, Rachel and I had a heavily established, three-hour waiting routine.
 
@@ -3201,7 +3201,7 @@ I just wrapped both of my arms around my little sister, pulling her as tightly a
 
 The rest of the car ride was a suffocating, heavy silence. We dropped Janette off at Aunt Janet's house first. Janette reached over the seat and gave my shoulder one last, fierce squeeze before getting out of the car, her eyes still lined with angry tears. She didn't want to leave us, but there was nothing she could do to stop the momentum of the evening.
 
-When Mom finally pulled the sedan into the driveway of 1852 Delaney Street, my torn stomach tightened into a knot of pure dread.
+When Mom finally pulled the sedan into our driveway on Delaney Street, my torn stomach tightened into a knot of pure dread.
 
 We walked through the front door. Dad was already home from work, sitting in his recliner in the living room with the evening news playing on the television.
 
@@ -4343,7 +4343,7 @@ The ride from the Children's Hospital in Norfolk to the house on Delaney Street 
 
 When the white transport van finally turned off Brandon Boulevard and idled down the familiar asphalt of Delaney Street, a profound exhaustion settled into my bones.
 
-The van backed into the driveway of 1852 Delaney Street.
+The van backed into the driveway on Delaney Street.
 
 The technicians opened the rear doors, unlatched our stretchers, and wheeled us right up the concrete walkway. Dad had already run inside and propped the front door wide open.
 
@@ -5315,7 +5315,7 @@ Mom stepped out of the kitchen, her eyes widening in surprise. "Dr. Evans? You d
 
 Dr. Evans pulled back, her expression hardening with resolve.
 
-"I need you to know something before I go say hello to them," Dr. Evans said, looking directly at Mom and Dad. "I spent the entire weekend on the phone with my commercial real estate broker. I am breaking my lease at 912 Professional Place."
+"I need you to know something before I go say hello to them," Dr. Evans said, looking directly at Mom and Dad. "I spent the entire weekend on the phone with my commercial real estate broker. I am breaking my lease on Professional Place."
 
 Mom blinked, stunned. "Allison, the penalty for breaking a commercial lease in that plaza—"
 
@@ -7767,7 +7767,7 @@ But today's parameters were different. Tomorrow was the eighth-grade Music in th
 
 When we hit the corner of Delaney Street, Ashley banked a sharp left instead of going straight. We followed her for one block, turning into the quiet, circular cul-de-sac of Rich Court.
 
-We walked up the driveway of 1802 Rich Ct. Ashley didn't bother knocking; she just pushed the front door open.
+We walked up the driveway on Rich Court. Ashley didn't bother knocking; she just pushed the front door open.
 
 "We're here!" Ashley yelled into the house.
 
@@ -7779,7 +7779,7 @@ We walked in, dropping our heavy backpacks by the door. Melissa, Ashley’s olde
 
 We climbed up to Ashley's bedroom. The packing protocol was highly efficient. Rachel and I sat on the floor while Ashley threw her pajamas, her toothbrush, and her designated casual clothes for the theme park tomorrow into a canvas duffel bag. Within ten minutes, the bag was zipped, and we were heading back downstairs, waving a quick goodbye to Melissa as we walked back out into the humid afternoon.
 
-The walk from Rich Court back to our house was short. The second I pushed the heavy front door of 1852 Delaney Street open, the absolute best part of the day commenced.
+The walk from Rich Court back to our house was short. The second I pushed the heavy front door on Delaney Street open, the absolute best part of the day commenced.
 
 Baby and Archie came skidding around the corner from the kitchen, their paws scrabbling wildly for traction on the hardwood. Baby, the massive Great Dane-sized Lab, immediately shoved his heavy head into my chest, while Archie aggressively presented a slobber-soaked rope toy to Rachel, his tail thumping a frantic, happy rhythm against the drywall.
 
@@ -9111,7 +9111,7 @@ Rachel processed the information for a few quiet steps, her sneakers scuffing ag
 
 "Okay," Rachel finally decided, the logic settling perfectly into place. "I like her."
 
-I squeezed Rachel's hand, a profound, overwhelming wave of relief washing over me. The ghost of the Dojang was locked away, the toxic variables had been deleted, and as the porch light of 1852 Delaney Street finally came into view, the math of my life was absolutely perfect.
+I squeezed Rachel's hand, a profound, overwhelming wave of relief washing over me. The ghost of the Dojang was locked away, the toxic variables had been deleted, and as the porch light on Delaney Street finally came into view, the math of my life was absolutely perfect.
 
 ***
 
@@ -9121,7 +9121,7 @@ The final three blocks down Morrison Street and onto Delaney Street were a pure,
 
 My legs were practically dragging across the concrete, the residual muscle spasticity from my cerebral palsy flare-up making every single step feel like wading through wet cement. Ashley was walking on my left, matching my slow, exhausted pace perfectly, while Rachel kept her hand securely locked in my right hand, acting as a quiet, steady tether.
 
-When the familiar, heavy front door of 1852 Delaney Street finally clicked open, the absolute, profound relief that washed over me was staggering.
+When the familiar, heavy front door on Delaney Street finally clicked open, the absolute, profound relief that washed over me was staggering.
 
 We dragged ourselves into the front hallway, dropping our wallets and keys onto the side table. The house was blissfully quiet. There was no frantic scratching of paws on the hardwood, and no massive Labradors trying to tackle us at the door.
 
@@ -9655,11 +9655,11 @@ She opened her eyes, forced her hands back onto the plastic keyboard, and contin
 
 **Date:** 1999-12-24 at 08:30 America/New_York
 
-![Nineteen-year-old Jessica with bilateral lower-leg orthopedic casts resting on the deployed floral-print pull-out sofa bed alongside fourteen-year-old Michael and twelve-year-old Rachel in the 1852 Delaney Street living room, with her manual wheelchair parked beside the bed and purebred black Labs Baby and Archie on the dark blue carpet.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/december_1999_jessica_sofa_bed_base_camp.jpg)
+![Nineteen-year-old Jessica with bilateral lower-leg orthopedic casts resting on the deployed floral-print pull-out sofa bed alongside fourteen-year-old Michael and twelve-year-old Rachel in the Delaney Street living room, with her manual wheelchair parked beside the bed and purebred black Labs Baby and Archie on the dark blue carpet.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b005/december_1999_jessica_sofa_bed_base_camp.jpg)
 
 #### 8:30 AM — The Accessibility Calculation
 
-The morning routine at 1852 Delaney Street operated with rigid, mechanical precision.
+The morning routine on Delaney Street operated with rigid, mechanical precision.
 
 Waking up on the living room sofa bed was a heavily choreographed process. Because the Black Friday drop had permanently altered the physics of our household, gravity was the first obstacle we had to negotiate every single day. Mom came downstairs right at 8:30 AM to initiate the hygiene protocols.
 
@@ -10049,7 +10049,7 @@ Mom let out a soft, melodic laugh from the driver's seat, steering the car down 
 
 "Not if we stay awake," I countered, the excitement humming under my skin.
 
-We pulled into the driveway of 1852 Delaney Street. Dad's truck hadn't arrived yet, which meant the heavy lifting fell back on the youth guard.
+We pulled into the driveway on Delaney Street. Dad's truck hadn't arrived yet, which meant the heavy lifting fell back on the youth guard.
 
 Mom opened the passenger door to help Jessica, leaving the trunk to us. Rachel and I didn't hesitate. We hopped out into the cold, popped the trunk, and grabbed the freezing metal frame of the manual wheelchair. Working in flawless, silent synchronicity, we heaved the bulky chair over the bumper and set it up on the concrete, ready to wheel our sister back into the ultimate Santa stakeout.
 
@@ -10057,7 +10057,7 @@ Mom opened the passenger door to help Jessica, leaving the trunk to us. Rachel a
 
 **Date:** 1999-12-24 at 19:50 America/New_York
 
-The heavy brown painted wooden garage door was closed, and by 7:50 PM, we were officially locked inside the perimeter of 1852 Delaney Street.
+The heavy brown painted wooden garage door was closed, and by 7:50 PM, we were officially locked inside the perimeter on Delaney Street.
 
 The transition from the cold car to our nightly routine was swift. Mom took control of the logistics immediately, wheeling Jessica past the living room and down the main hallway toward the Downstairs Bathroom. She helped Jessica navigate the tight space to take care of her nighttime routine: using the toilet, taking her nightly pain and muscle medications, and changing into her pajamas.
 
@@ -10485,7 +10485,7 @@ Jessica carefully placed her heavy, pristine retail box of *Quantum Developer St
 
 Rachel and I quickly gathered the designated piles of presents for our extended family and hauled them out to the garage. Dad effortlessly collapsed Jessica's heavy manual wheelchair and hoisted it into the trunk of Mom's sedan.
 
-Ashley grabbed her coat and piled into the back seat with Rachel and me. Because the Raybourns lived just a single block over at 1802 Rich Court, the drive took less than sixty seconds.
+Ashley grabbed her coat and piled into the back seat with Rachel and me. Because the Raybourns lived just a single block over on Rich Court, the drive took less than sixty seconds.
 
 Mom pulled the car up to the curb, and I handed Ashley the stack of wrapped gifts for her family.
 
@@ -10499,7 +10499,7 @@ As Mom steered the sedan away from Rich Court and merged onto the main road, Tom
 
 #### 1:30 PM — The Missing Exposure
 
-The transition from the quiet, highly controlled environment of 1852 Delaney Street into the chaotic epicenter of Grandma Loretta's house was always a massive sensory hurdle.
+The transition from the quiet, highly controlled environment of Delaney Street into the chaotic epicenter of Grandma Loretta's house was always a massive sensory hurdle.
 
 By 1:30 PM, the living room was packed to its absolute structural limits. Between Grandma Loretta, Aunt Janet, Dan, and our four cousins—Janette, Maria, Katherine, and Michelle—the acoustic volume of the house was bouncing off the drywall in a deafening, festive roar.
 
@@ -10543,7 +10543,7 @@ The chaotic gift exchange officially commenced. Torn wrapping paper flew across 
 
 But across the living room, parked strategically near the hallway, Jessica was operating on a completely different timeline.
 
-My nineteen-year-old sister had opened her gifts politely, thanking Grandma Loretta and Aunt Janet with genuine smiles. But her pragmatic, highly analytical mind wasn't in the living room. It was back at 1852 Delaney Street, locked onto a relentless countdown.
+My nineteen-year-old sister had opened her gifts politely, thanking Grandma Loretta and Aunt Janet with genuine smiles. But her pragmatic, highly analytical mind wasn't in the living room. It was back on Delaney Street, locked onto a relentless countdown.
 
 Two months ago, Quantum Corporation had announced the Catalyst Initiative during their annual Developers Conference. It was a brutal, uncompromising enterprise coding challenge open to every single high school junior and senior in the United States. The stakes were astronomical: there was only *one* national winner. That single student would receive the Vanguard Scholarship—a full ride to Northwest Pacific University, a paid summer internship at the Redmond campus, and a direct pipeline into the heart of the tech industry.
 
@@ -10571,7 +10571,7 @@ Rachel finally unlatched from my chest, her dark eyes shining with relief. The h
 
 #### 2:30 PM — The Syntax of Survival
 
-The absolute second Dad backed the sedan into the driveway of 1852 Delaney Street, the agonizing holiday delay was officially over.
+The absolute second Dad backed the sedan into the driveway on Delaney Street, the agonizing holiday delay was officially over.
 
 Dad unloaded Jessica’s manual wheelchair from the trunk, and she flawlessly executed her transfer from the passenger seat. She didn't wait for Rachel and me to gather the remaining gift bags. She pushed her push-rims with determined, rhythmic strikes, rolling up the driveway, over the threshold of the front door, and directly toward her designated workstation beneath the slatted stairs.
 
@@ -10651,7 +10651,7 @@ But I knew the sound of my older sister taking absolute, uncompromising control 
 
 #### 4:00 PM — The Bare-Metal Blueprint
 
-By 4:00 PM, the winter sun was already beginning to set outside the front windows of 1852 Delaney Street, casting long, dark shadows across the dark blue polyester carpet. The rest of the house had settled into a quiet, post-holiday exhaustion. Dad was asleep in the master bedroom before his next Baja Taco shift, and Mom was reading in the galley kitchen.
+By 4:00 PM, the winter sun was already beginning to set outside the front windows on Delaney Street, casting long, dark shadows across the dark blue polyester carpet. The rest of the house had settled into a quiet, post-holiday exhaustion. Dad was asleep in the master bedroom before his next Baja Taco shift, and Mom was reading in the galley kitchen.
 
 But under the slatted wooden stairs, the air was practically vibrating with intense, electric focus.
 
@@ -10729,7 +10729,7 @@ It wasn't just typing. To Rachel and me, it was the sound of the perimeter being
 
 #### 5:00 PM — Christmas Day Dinner
 
-The space underneath the slatted wooden stairs of 1852 Delaney Street was completely insulated from the rising acoustic volume of the house.
+The space underneath the slatted wooden stairs on Delaney Street was completely insulated from the rising acoustic volume of the house.
 
 For the last three hours, Jessica had been locked into an absolute, hyper-focused trance. The heavy mechanical clacking of her keyboard was a relentless, rhythmic drumbeat. On the glowing CRT monitor, her *Axiom* memory manager was taking shape in crisp, object-oriented C++. Without the invisible bloat of the compiler rearing its head yet, the code felt invincible. Every class structure she built, every QVirtualAlloc command she routed through the Q32 API, compiled cleanly. There were no memory leaks. There were no Bugcheck Screens.
 
@@ -10793,7 +10793,7 @@ The perimeter was safe.
 
 By 7:00 PM, the massive turkey dinner had been completely dismantled, and the adults had retreated to the living room with heavy mugs of coffee. But the dissipation of the meal didn't calm the house down; it merely opened up the physical floor plan for the younger cousins to exploit.
 
-The architecture of the first floor of 1852 Delaney Street formed a continuous, unbroken circle. Without the bottleneck of people standing in the galley kitchen, the track was officially open.
+The architecture of the first floor on Delaney Street formed a continuous, unbroken circle. Without the bottleneck of people standing in the galley kitchen, the track was officially open.
 
 "You can't catch me!" Michelle shrieked, sprinting out of the foyer.
 
@@ -10851,7 +10851,7 @@ She cracked her knuckles, pushed her tinted glasses up her nose, and turned back
 
 By 10:30 PM, the acoustic assault of the extended family finally began to recede.
 
-The mass exodus was a slow, chaotic procedure of locating winter coats, exchanging plastic leftover containers in the galley kitchen, and corralling exhausted cousins. The front door of 1852 Delaney Street opened and closed in a steady rhythm, letting the freezing Virginia air sweep across the dark blue polyester carpet.
+The mass exodus was a slow, chaotic procedure of locating winter coats, exchanging plastic leftover containers in the galley kitchen, and corralling exhausted cousins. The front door on Delaney Street opened and closed in a steady rhythm, letting the freezing Virginia air sweep across the dark blue polyester carpet.
 
 When the Raybourns finally bundled up to leave, Ashley broke away from the group in the foyer. She marched back into the living room, bypassed the shrinking crowd, and delivered one final, heavy-pressure pack squeeze to my left side before silently rejoining her parents.
 
@@ -10911,7 +10911,7 @@ In the center of the living room, Rachel and I remained perfectly anchored on th
 
 Rachel rested her head against the pillow, her eyes tracking the soft, blinking lights of the Christmas tree in the front-left corner. Her internal telemetry had completely stabilized into a solid, unshakeable Green.
 
-The acoustic volume of Grandma Loretta’s house was gone. The chaotic geometry of the cousins was gone. The only sound left in 1852 Delaney Street was the steady, relentless, mechanical *clack-clack-clack* of Jessica’s keyboard under the stairs.
+The acoustic volume of Grandma Loretta’s house was gone. The chaotic geometry of the cousins was gone. The only sound left inside our house on Delaney Street was the steady, relentless, mechanical *clack-clack-clack* of Jessica’s keyboard under the stairs.
 
 To a standard-hardware relative, it might have sounded like a distraction keeping us awake. But to the Pack, it was the ultimate lullaby. It was the sound of the vanguard standing watch. Rachel and I closed our eyes, drifting to sleep to the rhythmic, comforting noise of our older sister holding the absolute perimeter.
 
@@ -10925,7 +10925,7 @@ To a standard-hardware relative, it might have sounded like a distraction keepin
 
 The digital perimeter was collapsing, and it sounded exactly like a dying lawnmower.
 
-Under the slatted wooden stairs of 1852 Delaney Street, the beige tower of Dad’s consumer-grade desktop was screaming. The hard drive activity light was locked into a solid, panicked green. The 5400 RPM drive was violently thrashing, mechanically grinding as the operating system desperately tried to write overflowing memory to a swap file that was already full.
+Under the slatted wooden stairs on Delaney Street, the beige tower of Dad’s consumer-grade desktop was screaming. The hard drive activity light was locked into a solid, panicked green. The 5400 RPM drive was violently thrashing, mechanically grinding as the operating system desperately tried to write overflowing memory to a swap file that was already full.
 
 Sitting in her manual wheelchair, parked tightly into the alcove, Jessica didn't flinch. She just watched the heavy CRT monitor.
 
@@ -11045,11 +11045,11 @@ She hadn't just fixed the code. She had beaten the machine.
 
 **Date:** 2000-04-21 at 16:00 America/New_York
 
-![Fifteen-year-old Michael at the beige CRT desktop computer under the oak staircase at 1852 Delaney Street while nineteen-year-old Jessica in her manual wheelchair holds her university admissions brochure and thirteen-year-old Rachel looks on.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b006/desktop_under_the_stairs_2000.jpg)
+![Fifteen-year-old Michael at the beige CRT desktop computer under the oak staircase on Delaney Street while nineteen-year-old Jessica in her manual wheelchair holds her university admissions brochure and thirteen-year-old Rachel looks on.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b006/desktop_under_the_stairs_2000.jpg)
 
 #### 4:00 PM — The Desktop Under the Stairs
 
-The architectural layout of 1852 Delaney Street wasn't exactly designed with advanced computing in mind. To keep the heavy, beige plastic tower and the massive CRT monitor out of the main traffic flow, Dad had shoved the family computer desk into the awkward, sloping alcove directly underneath the wooden staircase.
+The architectural layout of our house on Delaney Street wasn't exactly designed with advanced computing in mind. To keep the heavy, beige plastic tower and the massive CRT monitor out of the main traffic flow, Dad had shoved the family computer desk into the awkward, sloping alcove directly underneath the wooden staircase.
 
 It was cramped, dimly lit, and smelled faintly of dust and old wood. But for my nineteen-year-old sister, it was absolute ground zero.
 
@@ -11713,7 +11713,7 @@ I didn't want a girlfriend. I didn't want the unpredictable chaos of outside fam
 
 #### 4:30 AM — The Aunt Janet Extraction
 
-The heavy, suffocating humidity of the Virginia August morning clung to the concrete front porch of 1852 Delaney Street. It was four-thirty in the morning, and the sky was still a bruised, pitch black.
+The heavy, suffocating humidity of the Virginia August morning clung to the concrete front porch on Delaney Street. It was four-thirty in the morning, and the sky was still a bruised, pitch black.
 
 The sheer volume of luggage stacked by the front door was staggering. We weren't just packing for a vacation; we were moving a nineteen-year-old girl’s entire existence across three thousand miles of continent. There were massive, oversized canvas bags stuffed with heavy winter coats she would need for the Pacific Northwest, boxes of books, and the heavy beige cardboard carton containing her desktop computer tower.
 
@@ -11747,7 +11747,7 @@ Rachel and I scrambled all the way to the third row, settling into the very back
 
 Rachel let out a shaky exhale and rested her head heavily against my shoulder, leaning her entire weight into her bear. It was our rule—an unspoken, absolute boundary the rest of the house had known for years. Those words belonged exclusively to us. No one else was allowed to use them. It was a tiny, impenetrable perimeter that kept the chaos out, and the moment she felt the deep-pressure grounding of my arm against hers, her trembling stopped.
 
-Aunt Janet put the car in drive, and we pulled away from the curb. I looked back through the rear window. The front porch light of 1852 Delaney Street was still on, but the front door was already closed.
+Aunt Janet put the car in drive, and we pulled away from the curb. I looked back through the rear window. The front porch light on Delaney Street was still on, but the front door was already closed.
 
 We drove in total silence for the first ten minutes, navigating the dark, empty stretches of the interstate toward the airport. The yellow glow of the streetlights rhythmically passed over the interior of the car.
 
@@ -12521,7 +12521,7 @@ I looked around the table. Mom was actually resting against the back of the boot
 
 There was no ticking grandfather clock in the hallway. There was no booming, resentful voice complaining about the cost of a long-distance phone call or the price of an airline ticket. There was no oppressive, suffocating guilt over a slipped grip on a frosted roof.
 
-There was just the pack. We were sitting three thousand miles away from the shadow of Baja Taco and the fractured reality of 1852 Delaney Street. We were eating local food, completely autonomous, and entirely safe.
+There was just the pack. We were sitting three thousand miles away from the shadow of Baja Taco and the fractured reality of Delaney Street. We were eating local food, completely autonomous, and entirely safe.
 
 Jessica took a bite of her chicken, looking out the plate-glass window at the neon lights reflecting off the Seattle pavement. A quiet, profound peace settled into her shoulders, softening the rigid lines of her stoic armor.
 
@@ -13429,7 +13429,7 @@ A familiar, dark green minivan was idling by the curb. The driver's side door op
 
 "Hey, kids," Ashley's dad smiled, his warm, baseline adult presence a massive relief. "You all look like you're melting. I've got the back seats folded down. Plenty of room for the bikes if you want a ride."
 
-Rachel and I froze. The offer of an air-conditioned ride was a godsend for my aching legs, but the destination was the problem. If we got in the van, Mr. Raybourn would naturally drop us off at 1852 Delaney Street. My stomach immediately knotted at the thought of walking through our front door and stepping back into the war zone we had fled that morning.
+Rachel and I froze. The offer of an air-conditioned ride was a godsend for my aching legs, but the destination was the problem. If we got in the van, Mr. Raybourn would naturally drop us off on Delaney Street. My stomach immediately knotted at the thought of walking through our front door and stepping back into the war zone we had fled that morning.
 
 I looked at Rachel. Her dark eyes were wide, telegraphing the exact same panic.
 
@@ -13447,9 +13447,9 @@ Working together, we hoisted the bicycles into the back of the van. We climbed i
 
 ***
 
-#### 5:15 PM — 1802 Rich Court
+#### 5:15 PM — Rich Court
 
-The distance between 1852 Delaney Street and 1802 Rich Court was exactly one block. Physically, it was a two-minute walk. But stepping out of the humid August heat and through the front door of the Raybourn house felt like crossing a border into an entirely different dimension.
+The distance between Delaney Street and Rich Court was exactly one block. Physically, it was a two-minute walk. But stepping out of the humid August heat and through the front door of the Raybourn house felt like crossing a border into an entirely different dimension.
 
 The air conditioning washed over us, cool and quiet, carrying the rich, savory smell of whatever Joan Raybourn was cooking in the kitchen. There was no lingering tension in the air, no phantom echoes of slamming doors or bitter accusations. It was just a house. A normal, functioning home.
 
@@ -13531,7 +13531,7 @@ Ashley’s bed was a massive, sprawling island of comfort. We climbed in, immedi
 
 As I lay there, staring up at the ceiling of the Raybourn house, a heavy, sinking ache settled in my stomach.
 
-I wished, with every fiber of my being, that we could just move in here. I wished we could permanently trade the volatile, screaming minefield of 1852 Delaney Street for the quiet, predictable safety of 1802 Rich Court. But logic dictated the harsh reality of our situation. We were teenagers, not adults. We couldn't just adopt ourselves out to the neighbors. I knew that after band camp tomorrow, the sanctuary would expire, and Rachel and I would have to pedal our bikes back home and face the music.
+I wished, with every fiber of my being, that we could just move in here. I wished we could permanently trade the volatile, screaming minefield of Delaney Street for the quiet, predictable safety of Rich Court. But logic dictated the harsh reality of our situation. We were teenagers, not adults. We couldn't just adopt ourselves out to the neighbors. I knew that after band camp tomorrow, the sanctuary would expire, and Rachel and I would have to pedal our bikes back home and face the music.
 
 It was a terrifying thought, and one we were absolutely dreading. But for tonight, the war couldn't reach us.
 
@@ -13733,7 +13733,7 @@ I slid over and put my arm firmly around my kid sister, pulling her securely aga
 
 **Date:** 2001-08-18 at 08:30 America/New_York
 
-![Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their purebred black Labs Baby and Archie.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg)
+![Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed on Delaney Street during their two-week vacation from parents, flanked by their purebred black Labs Baby and Archie.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg)
 
 #### 8:30 AM — The Elephant in the Room
 
@@ -16913,7 +16913,7 @@ We were finally, officially back together.
 
 #### 10:45 PM — The Northern Star
 
-The silver sedan pulled into the driveway of 1852 Delaney Street. Aunt Janet put the car in park, leaving the headlights illuminating the familiar, frost-covered front lawn.
+The silver sedan pulled into the driveway on Delaney Street. Aunt Janet put the car in park, leaving the headlights illuminating the familiar, frost-covered front lawn.
 
 Before Mom even cut the engine, a frantic, muffled cacophony of barking erupted from inside the house.
 
@@ -17161,7 +17161,7 @@ Ashley didn't say a word. She just sat up, wrapped both arms around my ribs, and
 
 "Let's do the final sweep," Ashley whispered, her voice rough with sleep but steady with purpose.
 
-We pushed ourselves off the mattress and walked downstairs to get ready for the day. Breakfast was a dull, mechanical affair. The kitchen, usually the loud, chaotic center of the house, was completely dead. Even the rhythmic, comforting sounds of Archie and Baby were gone. The dogs had already been moved to Norfolk, waiting in the unfamiliar condo Mom’s boyfriend owned at 849 Baldwin Avenue.
+We pushed ourselves off the mattress and walked downstairs to get ready for the day. Breakfast was a dull, mechanical affair. The kitchen, usually the loud, chaotic center of the house, was completely dead. Even the rhythmic, comforting sounds of Archie and Baby were gone. The dogs had already been moved to Norfolk, waiting in the unfamiliar condo Mom’s boyfriend owned on Baldwin Avenue.
 
 I loaded my cereal bowl into the dishwasher and pushed the heavy door shut, locking the latch. I hit the 'Start' button, listening to the water cycle kick on for the absolute last time in this house.
 
@@ -17205,11 +17205,11 @@ We sat there on the floor for a long time, letting the deep compression bleed th
 
 I went into the bathroom to splash cold water on my face and clear the redness from my eyes. When I came back out, Ashley had my canvas bag slung over her shoulder.
 
-We walked downstairs together and locked the front door of 1852 Delaney Street for the final time.
+We walked downstairs together and locked the front door on Delaney Street for the final time.
 
 We walked out to the driveway where Mom’s sedan was idling. Ashley tossed her bag into the back and climbed into the passenger seat, keeping her promise to stand watch until SVU called her away.
 
-I got into the driver’s seat and put the car in gear. The drive toward Norfolk was usually a mathematically predictable, uneventful route, but today, every mile marker felt impossibly heavy. I was heading into completely uncharted territory. The dogs were waiting for me, and they would be a comfort, but as I pulled onto the interstate and looked in the rearview mirror, watching 1852 Delaney Street disappear forever, I knew the hard truth.
+I got into the driver’s seat and put the car in gear. The drive toward Norfolk was usually a mathematically predictable, uneventful route, but today, every mile marker felt impossibly heavy. I was heading into completely uncharted territory. The dogs were waiting for me, and they would be a comfort, but as I pulled onto the interstate and looked in the rearview mirror, watching Delaney Street disappear forever, I knew the hard truth.
 
 The physical Base Camp was gone, and the long, grueling era of operating without my pack had officially begun.
 
@@ -17257,7 +17257,7 @@ Mom and Greg pulled up two folding chairs across the small coffee table.
 
 "It's just about traffic flow," Greg explained, leaning forward and resting his elbows on his knees. He spoke in clear, literal parameters, which my processor deeply appreciated, even if I hated the rules themselves. "There are four adults living in a two-bedroom unit. If we aren't careful, we are going to constantly be bumping into each other."
 
-He laid out the operational realities of 849 Baldwin Ave.
+He laid out the operational realities of the Baldwin Avenue condo.
 
 The galley kitchen was a strictly one-person zone. If someone was cooking, no one else could be in there. The washing machine was too small for massive loads, meaning laundry had to be strictly scheduled.
 
@@ -17829,7 +17829,7 @@ She put the car in gear and drove us deep into the historic, tree-lined grid of 
 
 Ten minutes later, we pulled into a private, decal-controlled parking lot.
 
-The building at 801 Greenway Court was a two-story, flat-roofed brick structure. It didn't have a massive leasing office, a swimming pool, or corporate signage. It was just a quiet, unassuming residential block.
+The apartment building on Greenway Court was a two-story, flat-roofed brick structure. It didn't have a massive leasing office, a swimming pool, or corporate signage. It was just a quiet, unassuming residential block.
 
 A man in his fifties was standing on the front walkway, waiting for us. He didn't have the slick, predatory polish of the Best Tech recruiter. He just looked like a guy who knew how to fix a leaky faucet.
 
@@ -17889,7 +17889,7 @@ My chest hitched. The crippling dread of late August suddenly lost a fraction of
 
 Dave smiled. "Archie sounds like a good fit for A5. We'd be happy to have him."
 
-The physical tension that had been locking my spine in a vice grip since we walked out of 1852 Delaney Street finally, completely snapped. I let out a long, shuddering breath, my shoulders dropping three inches.
+The physical tension that had been locking my spine in a vice grip since we walked out of the house on Delaney Street finally, completely snapped. I let out a long, shuddering breath, my shoulders dropping three inches.
 
 There was no impossible Catch-22 here. There was no corporate camouflage or logistical paradox. It was just a locked brick building, a ground-floor rectangle, and a landlord who didn't care about our non-traditional parameters.
 
@@ -17927,7 +17927,7 @@ The Gray Area Freeze instantly locked my feet to the carpet.
 
 My processor lagged violently as it ran the new variable. *Two or three business days.* That meant we didn't have access to Unit A5 tonight. It meant we had to walk back out the front doors.
 
-It meant we had to go back to 849 Baldwin Avenue.
+It meant we had to go back to Baldwin Avenue.
 
 My breathing immediately turned shallow. The absolute dread of Greg's cramped condo—the impossible Catch-22 of the job hunt, the claustrophobia of the galley kitchen, and the terrifying, frictionless trap of the tile shower—crashed back down on my shoulders. I had spent the last twenty minutes believing I had successfully escaped it.
 
@@ -17963,7 +17963,7 @@ I let out a long, shuddering breath as we reached the sedan. The physical Base C
 
 Because the logistics of Greg’s condo had changed from an indefinite prison to a strictly defined, seventy-two-hour holding pattern, my processor could handle a strategic retreat.
 
-Instead of going straight back to Baldwin Avenue, Mom drove us directly to the mini-storage facility off Virginia Beach Boulevard, where the dismantled remains of 1852 Delaney Street were locked behind a rolling corrugated metal door.
+Instead of going straight back to Baldwin Avenue, Mom drove us directly to the mini-storage facility off Virginia Beach Boulevard, where the dismantled remains of our house on Delaney Street were locked behind a rolling corrugated metal door.
 
 When Mom pushed the heavy door up, the stifling, dusty heat of the unit rolled out over the asphalt. The space was packed floor-to-ceiling with the physical artifacts of my childhood. But my internal telemetry didn't redline. I wasn't mourning the house anymore; I was executing a tactical inventory.
 
@@ -18089,7 +18089,7 @@ I didn't wait to hear Greg’s reaction to the news, and I didn't care about his
 
 Ashley grabbed my hand, completely bypassing the standard-hardware rules of polite exits. We jogged up the narrow, carpeted stairs, grabbed the heavy canvas bags we had dumped on the floor that morning, and hauled them right back down.
 
-Ten minutes later, Mom’s sedan pulled back into the decal-controlled parking lot of 801 Greenway Court.
+Ten minutes later, Mom’s sedan pulled back into the decal-controlled parking lot on Greenway Court.
 
 Waiting for us on the front walkway was a woman with a warm, no-nonsense smile. Deb.
 
@@ -18141,7 +18141,7 @@ As we headed toward the registers, Mom stopped abruptly in the seasonal aisle.
 
 By the time Mom paid and we loaded the heavy canvas duffel bags, the laptops, and the MegaMart supplies into the sedan, the sun was beginning to dip lower in the Virginia sky.
 
-We drove back to 801 Greenway Court in exhausted silence.
+We drove back to Greenway Court in exhausted silence.
 
 When we unlocked the door to Unit A5, the space was exactly as we had left it: a bare, rectangular void. But this time, we had the hardware to boot up the system.
 
@@ -18283,7 +18283,7 @@ My processor froze for two full seconds as nine years of spatial and school data
 
 "Wait a second," the twin brother said, blinking up at my wire-rimmed glasses in genuine shock. "Michael? Michael Ragsdale?!"
 
-"Nathaniel? Katie?!" I said, the guarded tension in my shoulders vanishing as I recognized [Nathaniel and Katie Prairie—the fraternal twins who had lived three doors down from us at 1846 Delaney Street, teamed up with Rachel and me during our childhood summer camp at Virginia Dominion University](https://books.raggiesoft.com/katie/early-childhood/summer-camp-at-virginia-dominion-university/the-parallel-pair-dominion-mall-the-vdu-fieldhouse), and graduated in our Northwood High School class a month earlier. "You two live in A6?!"
+"Nathaniel? Katie?!" I said, the guarded tension in my shoulders vanishing as I recognized [Nathaniel and Katie Prairie—the fraternal twins who had lived three doors down from us on Delaney Street, teamed up with Rachel and me during our childhood summer camp at Virginia Dominion University](https://books.raggiesoft.com/katie/early-childhood/summer-camp-at-virginia-dominion-university/the-parallel-pair-dominion-mall-the-vdu-fieldhouse), and graduated in our Northwood High School class a month earlier. "You two live in A6?!"
 
 "[We just moved in at the start of the month!](https://books.raggiesoft.com/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/apartment-a6-on-greenway-court-dads-microwave-cart-across-the-hall-neighbors)" Katie beamed, lifting a hand in a warm wave from her wheelchair armrest while holding Nathaniel's hand across their inner armrests and their father, Mr. Prairie, shook hands with me and Ashley beside his tool bag after assembling a rolling microwave-and-toaster cart in their kitchenette—since all twenty studio apartments in the building shared the exact same layout with an under-the-counter dorm fridge, and Apartment A6 and Unit A5 were exact mirror images of each other across the hall. "Our dad rented A6 for the two of us so we'd have our own place near the Route 2 bus line! Don't tell me you two just moved into A5?!"
 
@@ -18395,11 +18395,11 @@ It wasn't the Delaney Street sleeper sofa in Unit A5 with Ashley, and my chest s
 
 ***
 
-#### The Two-Week Aftermath at 801 Greenway Court: The Sandbags at the Top of the Lobby Ramp Held, An Island in the Surge, & The Midtown Tunnel Power Grid
+#### The Two-Week Aftermath on Greenway Court: The Sandbags at the Top of the Lobby Ramp Held, An Island in the Surge, & The Midtown Tunnel Power Grid
 
 Bus service across Norfolk and Virginia Beach stayed completely suspended for days after Hurricane Isabel passed, with streets blocked by downed century-old oaks and snapped utility poles from Kempsville all the way to the Elizabeth River.
 
-When the roads finally cleared enough for us to drive into West Ghent and check on 801 Greenway Court, I found out just how close a call our building had had.
+When the roads finally cleared enough for us to drive into West Ghent and check on Greenway Court, I found out just how close a call our building had had.
 
 Inside the front glass door, a thick brown line of dried river mud and debris marked the walls of the lower entrance lobby, and water had even gotten into the lobby mailboxes. During Thursday afternoon's peak storm surge, water—and a lot of it—had poured through the front entrance door into the lower lobby bay. Yet right at the top of the lobby ramp and the three rubber-coated steps, the two layers of heavy sandbags that Dave and Deb had stacked inside the doorway had held fast, stopping the floodwater cold and preventing a single drop from reaching the first-floor hallway or any of the downstairs apartments. Both Unit A5 and the Prairies' Apartment A6 across the hall were completely dry.
 
@@ -18409,7 +18409,7 @@ Up on the second-floor walkway, my upstairs neighbor from Apartment B5—who had
 
 Even though Unit A5 was dry, however, I couldn't move back in yet.
 
-We lost power at 801 Greenway Court for two full weeks.
+We lost power on Greenway Court for two full weeks.
 
 Every evening as dusk fell over West Ghent, you could look right across the way and see Tidewater General Hospital—the region's only Level 1 Trauma Center—blazing with electricity because its priority grid had either stayed online or been restored immediately. Meanwhile, our side of Greenway Court sat pitch-black night after night. I could never officially confirm the engineering reason, but the word passed along by the utility crews and landlords was that our neighborhood's power grid was physically attached to the flooded Midtown Tunnel—which had filled with forty-four million gallons of Elizabeth River storm surge when its floodgate failed to close—and that it took Commonwealth Power crews two full weeks to figure out how to cut and isolate our grid so that we were separated from the Midtown Tunnel before the lights in Unit A5 and Apartment A6 finally came back on.
 
@@ -18487,7 +18487,7 @@ I stayed on the floor of Greg's narrow hallway for several minutes, letting the 
 
 "Okay," Mom nodded, handing me the condo keys so I could lock up behind us. "Call me if you need anything."
 
-An hour later, Mom's sedan idled briefly in front of 801 Greenway Court. I stepped out, walked up the three heavy rubber steps, and unlocked the door to Unit A5.
+An hour later, Mom's sedan idled briefly out front on Greenway Court. I stepped out, walked up the three heavy rubber steps, and unlocked the door to Unit A5.
 
 The silence inside was completely deafening without Archie's collar jingling or Ashley's quiet typing at the desk. I was entirely alone in my perimeter. I sat down at my computer, pulled up the transit schedule, and began calculating the exact timing for the CVTA bus routes into downtown. I focused entirely on the math of the evening, locking my processor onto the rigid structure of the schedule so I wouldn't have to think about the empty room.
 
@@ -18625,7 +18625,7 @@ Delores clapped her hands, looking over at me with a bright, energized smile. Th
 
 **Date:** 2004-09-02 at 21:00 America/New_York
 
-![Outside 801 Greenway Court at night beside Robyn's dark blue minivan, Delores pulls nineteen-year-old Michael into a fierce, heavy goodbye hug that tricks his deep-pressure sensory receptors into thinking she is safe.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b014/greenway_court_delores_first_hug_2004.jpg)
+![Outside the Greenway Court apartment building at night beside Robyn's dark blue minivan, Delores pulls nineteen-year-old Michael into a fierce, heavy goodbye hug that tricks his deep-pressure sensory receptors into thinking she is safe.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b014/greenway_court_delores_first_hug_2004.jpg)
 
 The credits began to roll, and the house lights of the Roper Performing Arts Center flickered back on, breaking the heavy, polarized spell of the documentary.
 
@@ -18659,7 +18659,7 @@ We walked a few blocks to where they had parked and climbed into Robyn's dark bl
 
 As Robyn navigated the downtown streets toward the water, the atmosphere inside the van was incredibly relaxed. Delores and I started making polite, easy conversation in the dark cabin. We talked about the city, the buses, and the movie. There was no pressure, no confusing social subtext to decipher, just a steady exchange of data. Sitting next to her felt completely comfortable.
 
-A short while later, the minivan pulled into the familiar parking lot of 801 Greenway Court.
+A short while later, the minivan pulled into the familiar parking lot on Greenway Court.
 
 Delores and I both climbed out of the sliding door, standing on the asphalt near the front walkway of my building.
 
@@ -19479,7 +19479,7 @@ Around 3:30 PM, the heavy coach merged onto Interstate 5, descending directly in
 The contrast was violently overwhelming. After days of staring at open plains and dark, empty deserts, we were suddenly thrust into the thick of evening rush hour traffic. Blinding headlights, towering skyscrapers, and a maze of brake lights surrounded the bus. 
 The contrast was violently overwhelming. After days of staring at open plains and empty deserts, we were suddenly thrust into the thick of a bustling metropolis. Towering skyscrapers and a maze of brake lights surrounded the bus. 
 
-The driver navigated the massive vehicle off the interstate and down the cramped city streets, finally pulling into the main Pathfinder terminal at 811 Stewart Street. 
+The driver navigated the massive vehicle off the interstate and down the cramped city streets, finally pulling into the main Pathfinder terminal on Stewart Street. 
 
 The air brakes hissed a final, definitive sigh. The engine idled down. 
 
@@ -19504,7 +19504,7 @@ An ice-cold surge of terror washed over me. There was nowhere left to run.
 
 The heavy air brakes of the Pathfinder bus hissed violently, signaling the end of a grueling, seventy-two-hour cross-country nightmare.
 
-When the pneumatic doors folded open at the 811 Stewart Street terminal, the freezing, damp chill of a Seattle November hit my face like a wet sheet. I stumbled down the steep rubber steps onto the concrete, my physical chassis completely compromised. Seventy-two hours of cramped, upright dozing in a vibrating seat had turned the Cerebral Palsy spasticity in my legs into solid granite. Every joint burned, and my internal clock was screaming that it was already six-thirty in the evening on the East Coast. My processor was running on absolute fumes.
+When the pneumatic doors folded open at the Stewart Street terminal, the freezing, damp chill of a Seattle November hit my face like a wet sheet. I stumbled down the steep rubber steps onto the concrete, my physical chassis completely compromised. Seventy-two hours of cramped, upright dozing in a vibrating seat had turned the Cerebral Palsy spasticity in my legs into solid granite. Every joint burned, and my internal clock was screaming that it was already six-thirty in the evening on the East Coast. My processor was running on absolute fumes.
 
 Delores stepped off behind me, immediately pulling her coat tight and glaring at the gray, overcast skyline.
 
@@ -27441,13 +27441,13 @@ Rachel and I exchanged a triumphant look. The logistics were flawless. We had al
 
 Mom steered the sedan through the quiet, tree-lined streets of the townhouse community, finally pulling to a stop alongside the curb.
 
-"Here we are," Mom announced, putting the car in park. "3701 Canadian Arch. You have the end unit."
+"Here we are," Mom announced, putting the car in park. "Canadian Arch. You have the end unit."
 
 I looked out the window at the two-story brick and vinyl townhouse. It was perfect. Being on the end unit meant we only shared one single, structural drywall boundary with a neighbor, minimizing the unpredictable noise of the outside world.
 
 As we stepped out of the car to get a better look, the low, rhythmic hum of a lawnmower caught my attention.
 
-I looked over at the adjacent unit—3703 Canadian Arch. Someone was pushing a push-mower across the tiny, meticulously kept square of front grass. The person was wearing faded jeans, a plain gray t-shirt, and had a pair of protective safety glasses pushed up into their hair.
+I looked over at the adjacent unit on Canadian Arch. Someone was pushing a push-mower across the tiny, meticulously kept square of front grass. The person was wearing faded jeans, a plain gray t-shirt, and had a pair of protective safety glasses pushed up into their hair.
 
 The engine of the lawnmower cut off. The person turned around to wipe their forehead, looking up at the sound of our car doors shutting.
 
@@ -27457,7 +27457,7 @@ Rachel gasped loudly, both of her hands flying up to cover her mouth.
 
 It was April.
 
-For the second time in a single day, the universe threw a massive, reality-altering coincidence directly into our path. April stood on the grass of 3703, her eyes darting from Mom’s sedan, to the end unit at 3701, and finally landing squarely on us.
+For the second time in a single day, the universe threw a massive, reality-altering coincidence directly into our path. April stood on the grass of the adjacent unit, her eyes darting from Mom’s sedan, to our end unit, and finally landing squarely on us.
 
 "Michael? Rachel?" April asked, utterly bewildered, dropping the handle of the lawnmower.
 
@@ -27467,9 +27467,9 @@ April let out a breathless, ringing laugh, wrapping her arms around our backs an
 
 "What are you doing here?" April asked, pulling back just enough to look at us, her eyes wide with shock.
 
-Rachel pointed a trembling, ecstatic finger directly at the front door of our end unit. "3701 Canadian Arch," she rasped, her voice vibrating with pure joy. "Mom bought it for us. We move in on Monday."
+Rachel pointed a trembling, ecstatic finger directly at the front door of our end unit. "Right here on Canadian Arch," she rasped, her voice vibrating with pure joy. "Mom bought the end unit for us. We move in on Monday."
 
-April looked at the brick facade of 3701, and then turned her head to look at the front door of her own house at 3703. The mathematical reality clicked into place.
+April looked at the brick facade of our end unit, and then turned her head to look at the front door of her own unit right next door. The mathematical reality clicked into place.
 
 "You're my new neighbors," April breathed, completely stunned. "I live right here. We share a wall."
 
@@ -27491,7 +27491,7 @@ Mom climbed back into the sedan and pulled away, leaving the three of us standin
 
 "Come on in," April smiled, gesturing to her front door.
 
-We followed her inside 3703 Canadian Arch. The moment the door clicked shut, the ambient noise of the neighborhood vanished. April’s home was a true sanctuary—minimalist, impeccably clean, with soft lighting and comfortable, sturdy furniture. It smelled faintly of jasmine and clean linen.
+We followed her inside her unit on Canadian Arch. The moment the door clicked shut, the ambient noise of the neighborhood vanished. April’s home was a true sanctuary—minimalist, impeccably clean, with soft lighting and comfortable, sturdy furniture. It smelled faintly of jasmine and clean linen.
 
 "So," April said, gesturing for us to sit on her plush living room sofa while she grabbed three bottles of cold water from the kitchen. "If this is a mirror image, your front door is on the opposite side, and your staircase will be right there."
 
@@ -27753,9 +27753,9 @@ We walked back to the lobby, our legs pleasantly exhausted, and pulled our socks
 
 As we locked the heavy glass doors of the academy and piled back into April's car, the dark Virginia Beach sky felt incredibly welcoming. The short drive back to the townhouse complex was filled with comfortable, quiet satisfaction.
 
-April pulled her car into the driveway of 3703 Canadian Arch, killing the engine. We stepped out onto the quiet, suburban street.
+April pulled her car into her driveway on Canadian Arch, killing the engine. We stepped out onto the quiet, suburban street.
 
-"Well," April smiled, standing on the sidewalk that connected her front door to ours at 3701. "Welcome home, neighbors. I'll see you on Monday when you officially get your keys."
+"Well," April smiled, standing on the sidewalk that connected her front door to our end unit. "Welcome home, neighbors. I'll see you on Monday when you officially get your keys."
 
 Rachel didn't say a word. She just stepped forward and wrapped her arms around April in a massive, bone-crushing hug. I joined in immediately, completing the pack embrace.
 
@@ -27767,7 +27767,7 @@ We broke the hug, waving goodbye as April walked up to her door. Mom's sedan was
 
 #### 8:30 PM — The Criollo Drive Ascent
 
-Mom’s sedan rolled to a stop alongside the curb of 3701 Canadian Arch just as April was turning to head back inside her unit. Mom rolled down the driver’s side window, leaning across the center console.
+Mom’s sedan rolled to a stop alongside the curb on Canadian Arch just as April was turning to head back inside her unit. Mom rolled down the driver’s side window, leaning across the center console.
 
 "April, before we head back," Mom called out, shifting straight into her administrative mode. "We need to get the tuition sorted. I want them fully registered before Monday."
 
@@ -27779,7 +27779,7 @@ April recited the URL, and Mom quickly jotted it down on the back of a bank rece
 
 "I'll see you both on Friday," April said, giving Rachel and me one last wave through the open window before walking back to her door.
 
-Mom put the sedan in drive. The commute back to Mom's house was incredibly short. We navigated out of the townhouse complex, crossed over Buckner Boulevard, and drove the few minutes through the adjacent neighborhood until we pulled into the driveway of 3568 Criollo Drive.
+Mom put the sedan in drive. The commute back to Mom's house was incredibly short. We navigated out of the townhouse complex, crossed over Buckner Boulevard, and drove the few minutes through the adjacent neighborhood until we pulled into the driveway on Criollo Drive.
 
 The moment we walked through the front door, the excitement we had been containing completely bubbled over. Jimbo and Teddy were waiting for us in the foyer, their golden tails sweeping across the linoleum like metronomes. We dropped to our knees, burying our hands in their soft fur, completely ecstatic that the ghosts of the Dojang were dead. We were going back to the mats.
 
@@ -27981,15 +27981,15 @@ We migrated together into the dining room, following the incredible smell of the
 
 ## The Open-Door Sanctuary
 
-### Part 1: The Keys to 3701 & The Dollar Lease
+### Part 1: The Keys to Canadian Arch & The Dollar Lease
 
 **Date:** 2007-04-02 at 14:00 America/New_York
 
-![Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center of 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/command_center_3701_canadian_arch.jpg)
+![Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center on Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/command_center_3701_canadian_arch.jpg)
 
-#### 2:00 PM — The Keys to 3701
+#### 2:00 PM — The Keys to Canadian Arch
 
-The heavy, brass keys to 3701 Canadian Arch finally sat heavy and real in my palm.
+The heavy, brass keys to our townhouse on Canadian Arch finally sat heavy and real in my palm.
 
 The morning had been a chaotic, highly efficient logistical strike. We met the lawyer, signed the final paperwork, and immediately hit the local big-box stores with Mom to buy our temporary survival gear until the Furniture Row delivery truck arrived at the end of the week. But as Mom parked her sedan in the driveway of our new end unit and we began hauling the boxes of air mattresses toward the entrance, my analytical brain instantly snagged on the architectural geometry.
 
@@ -28047,7 +28047,7 @@ Upstairs in the massive master bedroom, we inflated a temporary Queen-sized air 
 
 But the heartbeat of the house was the spare bedroom directly across the hall from the master: the Command Center.
 
-We set up two metal folding tables side-by-side against the back wall. Rachel’s laptop sat on the left, and my desktop tower hummed quietly on the right. Sitting shoulder-to-shoulder in our folding chairs, the ambient whir of the cooling fans was the only white noise in the house. We only shared one drywall boundary, and knowing that Master April was right on the other side of it at 3703 Canadian Arch made the silence feel completely bulletproof.
+We set up two metal folding tables side-by-side against the back wall. Rachel’s laptop sat on the left, and my desktop tower hummed quietly on the right. Sitting shoulder-to-shoulder in our folding chairs, the ambient whir of the cooling fans was the only white noise in the house. We only shared one drywall boundary, and knowing that Master April was right on the other side of it in the adjacent unit on Canadian Arch made the silence feel completely bulletproof.
 
 "Okay," Rachel rasped softly, her fingers flying across her laptop keyboard. "My Orbit profile is officially live. I sent you a friend request."
 
@@ -28073,7 +28073,7 @@ Rachel rolled her chair six inches to the right until her knee pressed against m
 
 #### 3:30 PM — The Three-Room Geometry
 
-By Friday afternoon, the temporary green air mattress was deflated, rolled up, and stowed in the hall closet. The Furniture Row delivery crew had just finished bolting the last heavy wooden frame together, and as their box truck rumbled out of the Canadian Arch cul-de-sac, the permanent three-bedroom architecture of 3701 finally clicked into place.
+By Friday afternoon, the temporary green air mattress was deflated, rolled up, and stowed in the hall closet. The Furniture Row delivery crew had just finished bolting the last heavy wooden frame together, and as their box truck rumbled out of the Canadian Arch cul-de-sac, the permanent three-bedroom architecture of our townhouse finally clicked into place.
 
 Every square foot of the upstairs floor had been engineered around how our brains and bodies actually operated.
 
@@ -28109,7 +28109,7 @@ By the time April called *"Geuman!"* at 8:30 PM and we bowed out, our muscles we
 
 #### 9:45 PM — Skin-to-Skin & Holding the Perimeter
 
-Back inside 3701 Canadian Arch, with the front deadbolt locked and every upstairs doorway standing wide open under the Open-Door Policy, the warm coastal humidity of the April night settled over the second floor.
+Back inside our townhouse on Canadian Arch, with the front deadbolt locked and every upstairs doorway standing wide open under the Open-Door Policy, the warm coastal humidity of the April night settled over the second floor.
 
 We walked into the Master Bedroom together. Just like at Mom's house the weekend before, there was no neurotypical awkwardness and no retreating behind closed doors to change. When it was just the two of us inside our perimeter, modesty was nothing more than unnecessary friction.
 
@@ -28139,7 +28139,7 @@ After everything Delores and Brandi had put me through in Washington, Rachel kne
 
 #### 11:55 AM — Ms. Doris on Route 25
 
-The midday August heat shimmered off the asphalt of Buckner Boulevard as Rachel and I crossed from our townhouse at 3701 Canadian Arch onto the quiet concrete bay of the Community College of Hampton Roads transit loop.
+The midday August heat shimmered off the asphalt of Buckner Boulevard as Rachel and I crossed from our townhouse on Canadian Arch onto the quiet concrete bay of the Community College of Hampton Roads transit loop.
 
 Five months of uninterrupted peace inside our end-unit sanctuary had done what no hospital or courtroom ever could: it had given my sister and me room to breathe again. All through the spring and summer of 2007, our days had run on a steady, self-contained clock. Back on May 25, we had celebrated a quiet, alcohol-free twenty-first birthday for Rachel at the townhouse with Mom and Master April. During the week, Rachel walked ten minutes down the road to work her daytime shifts at *The Spot* while I rebuilt my physical stamina and worked through programming exercises at our twin oak desks in the upstairs Command Center. Every Friday evening, we stepped barefoot onto the puzzle mats at the Lynnhaven Academy of Seondu in our Midnight Blue Belts under April's watchful eye. And every night, with every interior door in the townhouse standing wide open, Rachel and I changed together and slept fully undressed in the center of the king bed—letting direct skin-to-skin contact keep us from overheating in the sticky Tidewater summer while calming the spastic tone in our legs.
 
@@ -28193,7 +28193,7 @@ When our eyes met for a split second, she offered a tiny, polite half-smile befo
 
 The clatter of plastic trays and the echo of two hundred freshman conversations bounced off the linoleum floor of the CCHR campus cafeteria as I stood in line near the grill counter, keeping my eyes fixed on the overhead menu board.
 
-Rachel had kissed me goodbye at seven-forty-five that Friday morning before walking ten minutes down the road to her daytime shift at *The Spot*, leaving me to navigate the opening-day crowds of the Fall semester on my own. Inside 3701 Canadian Arch, my nervous system was completely regulated. Outside our townhouse, however, my social confidence was still a cratered battlefield. Apart from Rachel, Jessica, Kristin, Mom, and Master April, my processor still treated unfamiliar people in the civilian world with deep, reflexive caution. After what Delores and Brandi had done to me nine months earlier, standing alone in a loud, crowded building full of strangers made a low phantom static hum behind my ribs.
+Rachel had kissed me goodbye at seven-forty-five that Friday morning before walking ten minutes down the road to her daytime shift at *The Spot*, leaving me to navigate the opening-day crowds of the Fall semester on my own. Inside our townhouse on Canadian Arch, my nervous system was completely regulated. Outside our townhouse, however, my social confidence was still a cratered battlefield. Apart from Rachel, Jessica, Kristin, Mom, and Master April, my processor still treated unfamiliar people in the civilian world with deep, reflexive caution. After what Delores and Brandi had done to me nine months earlier, standing alone in a loud, crowded building full of strangers made a low phantom static hum behind my ribs.
 
 "Excuse me?" a quiet, friendly voice asked right behind my shoulder.
 
@@ -28259,7 +28259,7 @@ When we finally stepped back and she waved goodbye toward the bus loop, I walked
 
 #### 3:15 PM — Telling Rachel Everything
 
-My afternoon Math class let out at two o'clock, and by two-fifteen I had walked the five minutes across Buckner Boulevard and unlocked the front door of 3701 Canadian Arch.
+My afternoon Math class let out at two o'clock, and by two-fifteen I had walked the five minutes across Buckner Boulevard and unlocked the front door on Canadian Arch.
 
 For the next hour, I paced between the kitchen, the living room, and the upstairs Command Center with Shadow trotting happily at my heels, practically vibrating with excitement as I waited for Rachel to finish her daytime shift at *The Spot*.
 
@@ -28297,13 +28297,13 @@ Rachel leaned back against the kitchen counter, her warm dark eyes softening beh
 
 Once that first Monday rolled around, I quickly learned the exact rhythm of Heather's weekday commute. Every morning and afternoon, she rode CVTA Route 25, boarding near her family's house at the intersection of Princess Anne Road and Susquehanna Drive—roughly a twenty-minute bus ride from CCHR.
 
-My analytical brain, always looking for ways to optimize a schedule around the people I cared about, immediately ran the transit math. Logically, I had zero practical reason to ever step foot on a bus to get to CCHR. My front door at 3701 Canadian Arch was a five-minute walk across Buckner Boulevard from the campus quad.
+My analytical brain, always looking for ways to optimize a schedule around the people I cared about, immediately ran the transit math. Logically, I had zero practical reason to ever step foot on a bus to get to CCHR. My front door on Canadian Arch was a five-minute walk across Buckner Boulevard from the campus quad.
 
 But I didn't care about commute efficiency. I cared about time.
 
 So I engineered a loop around Route 25's hourly six-to-six weekday schedule.
 
-Every weekday morning before classes, I walked out of 3701 Canadian Arch, crossed Buckner Boulevard onto the CCHR campus, and walked straight to the CCHR Transit Loop. When the inbound Route 25 bus—its amber LED destination sign alternating between *25 GLENROCK MALL* and *25 NEWTOWN RD*—rumbled into the bay, I flashed my pass, said good morning to Ms. Doris, and rode twenty minutes from campus out to Princess Anne Road and Susquehanna Drive.
+Every weekday morning before classes, I walked out of our townhouse on Canadian Arch, crossed Buckner Boulevard onto the CCHR campus, and walked straight to the CCHR Transit Loop. When the inbound Route 25 bus—its amber LED destination sign alternating between *25 GLENROCK MALL* and *25 NEWTOWN RD*—rumbled into the bay, I flashed my pass, said good morning to Ms. Doris, and rode twenty minutes from campus out to Princess Anne Road and Susquehanna Drive.
 
 When the bus hissed to a stop at Susquehanna, I stepped off the front doors, waited for the traffic gap, and crossed the street to the outbound bus shelter on the opposite side of Princess Anne Road to wait for her.
 
@@ -28317,7 +28317,7 @@ On paper, I was spending eighty minutes a day riding a municipal bus in circles 
 
 **Date:** 2007-08-27 at 12:00 America/New_York
 
-![Rachel meets Heather Bouchard over Monday lunch in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg)
+![Rachel meets Heather Bouchard over Monday lunch in the CCHR student lounge and extends the first invitation to Canadian Arch]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg)
 
 ![Michael and Heather Bouchard walking side-by-side across the autumn brick quad of CCHR talking and laughing with effortless, unmasked warmth]({{CDN}}/raggiesoft-books/images/scenes/rachel/b018/cchr_quad_unmasked_walk_2007.jpg)
 
@@ -28379,7 +28379,7 @@ To my traumatized, pre-diagnostic brain, holding her tightly wasn't about seduct
 
 Yet beneath that warmth, our friendship operated inside a rigid, invisible architecture that I privately came to think of as the Shallow End—governed by three unspoken rules of engagement.
 
-The first rule was a spatial firewall. Our entire world existed strictly on the CCHR campus and the seats of Route 25 between Monday and Friday. Even after Rachel thoughtfully extended that very first invitation woman to woman over our Monday lunch to break the ice—and whenever I casually invited her afterward to walk five minutes across Buckner Boulevard to hang out at 3701 Canadian Arch—Heather always declined, keeping a strict separation between campus and home. I had no idea why she drew that line so firmly, only that she wasn't ready to visit my house, and that if I wanted to be her friend, I had to respect that boundary without question. At the time, I didn't realize how mercifully that firewall was protecting me too: after nearly drowning in Delores's suffocating, twenty-four-hour-a-day domestic trap in Norfolk and Kent, Heather's campus-only boundary kept me safely in the shallow end of the pool where my healing processor couldn't get overwhelmed.
+The first rule was a spatial firewall. Our entire world existed strictly on the CCHR campus and the seats of Route 25 between Monday and Friday. Even after Rachel thoughtfully extended that very first invitation woman to woman over our Monday lunch to break the ice—and whenever I casually invited her afterward to walk five minutes across Buckner Boulevard to hang out on Canadian Arch—Heather always declined, keeping a strict separation between campus and home. I had no idea why she drew that line so firmly, only that she wasn't ready to visit my house, and that if I wanted to be her friend, I had to respect that boundary without question. At the time, I didn't realize how mercifully that firewall was protecting me too: after nearly drowning in Delores's suffocating, twenty-four-hour-a-day domestic trap in Norfolk and Kent, Heather's campus-only boundary kept me safely in the shallow end of the pool where my healing processor couldn't get overwhelmed.
 
 The second rule was a razor-thin touch tightrope. Deep-pressure hugs standing in the hallway or by the Susquehanna bus shelter were welcomed and reciprocated, but holding hands and cuddling were strictly off-limits. Every so often, if we were sitting side by side on a bench and a standard hug lingered a second too long or my arm rested at the wrong angle, Heather's posture would suddenly stiffen, her processor anxiously misinterpreting a hug as a cuddle. The instant I felt her tense up, I would immediately pull my arms back, give her six inches of air, and apologize so she knew her physical boundary was absolute law.
 
@@ -28395,9 +28395,9 @@ Only in the upside-down logic of two guarded, neurodivergent twenty-somethings c
 
 ***
 
-#### 9:30 PM — The True Deep End at 3701 Canadian Arch
+#### 9:30 PM — The True Deep End on Canadian Arch
 
-At four-thirty that afternoon, after riding Route 25 out to Susquehanna Drive with Heather, crossing Princess Anne Road together, sharing our careful goodbye hug, and riding the outbound bus twenty minutes back to the CCHR loop, I walked across Buckner Boulevard and unlocked the front door of 3701 Canadian Arch.
+At four-thirty that afternoon, after riding Route 25 out to Susquehanna Drive with Heather, crossing Princess Anne Road together, sharing our careful goodbye hug, and riding the outbound bus twenty minutes back to the CCHR loop, I walked across Buckner Boulevard and unlocked the front door on Canadian Arch.
 
 The contrast between the tightrope of the campus shallow end and the interior of our townhouse was immediate.
 
@@ -28539,7 +28539,7 @@ I wrapped my arms around her shoulders, holding her close, breathing in the cool
 
 The morning sunshine of Friday, May 8, 2009—the final day of Spring semester exams at CCHR—warmed the blue vinyl bench seat of the outbound Route 25 bus as Heather sat down right beside me at the Susquehanna Drive stop.
 
-For twenty-one consecutive months across four semesters, I had never broken a single rule of the Shallow End, and this morning ran with all systems go. I had walked across Buckner Boulevard from 3701 Canadian Arch to the CCHR Transit Loop, ridden the inbound Route 25 bus twenty minutes out to Princess Anne Road and Susquehanna Drive, and crossed the street to the outbound shelter to meet her. Right on schedule, Heather had walked up from Susquehanna Drive, smiled when she saw me, and climbed aboard the outbound bus beside me.
+For twenty-one consecutive months across four semesters, I had never broken a single rule of the Shallow End, and this morning ran with all systems go. I had walked across Buckner Boulevard from Canadian Arch to the CCHR Transit Loop, ridden the inbound Route 25 bus twenty minutes out to Princess Anne Road and Susquehanna Drive, and crossed the street to the outbound shelter to meet her. Right on schedule, Heather had walked up from Susquehanna Drive, smiled when she saw me, and climbed aboard the outbound bus beside me.
 
 The instant she settled onto our usual blue vinyl bench seat, I reached over and pulled her into a warm morning hug—just as I did every single weekday morning once she sat next to me on the bus. She leaned into the embrace, hugged me back without a trace of hesitation, and chatted easily with me all the way back to campus before heading off to take her last final exam of the semester.
 
@@ -28621,9 +28621,9 @@ Moira looked up at me with profound, heartfelt sympathy in her eyes.
 
 ***
 
-#### 11:45 AM — Stuck Alone at 3701 Canadian Arch
+#### 11:45 AM — Stuck Alone on Canadian Arch
 
-I stepped off the CCHR bus loop, walked across the Buckner Boulevard crosswalk on pure numb autopilot, and unlocked the front door of 3701 Canadian Arch.
+I stepped off the CCHR bus loop, walked across the Buckner Boulevard crosswalk on pure numb autopilot, and unlocked the front door on Canadian Arch.
 
 The moment the latch clicked shut behind me, the silence of the townhouse hit me like a physical weight. It wasn't even noon yet on a Friday. Rachel was at her daytime shift at *The Spot*, and she wouldn't be off work for more than three hours.
 
@@ -28637,7 +28637,7 @@ I collapsed onto the downstairs living room sofa, my chest heaving as wave after
 
 #### 3:00 PM — The Ten-Minute Walk & The Living Room Sofa
 
-For over three hours—from quarter to twelve until past three o'clock—I sat curled on the living room sofa of 3701 Canadian Arch while the afternoon sunlight crept slowly across the carpet.
+For over three hours—from quarter to twelve until past three o'clock—I sat curled on the living room sofa on Canadian Arch while the afternoon sunlight crept slowly across the carpet.
 
 Every time I closed my eyes, my brain replayed the exact physical sensation of [Heather's hands pushing against my chest on Route 25](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception), followed by the sight of her walking out the front doors at Susquehanna Drive without looking back. When I had briefly stumbled upstairs to check *Orbit* on my desktop computer, the stark white *PROFILE UNAVAILABLE* banner had confirmed the worst: she had completely erased me from her life without a single word of explanation.
 
@@ -28675,7 +28675,7 @@ Letting all the tension melt out of her posture, Rachel wrapped both of her arms
 
 #### 2:30 PM — The Passcode
 
-With every interior doorway upstairs at 3701 Canadian Arch standing wide open under our Open-Door Policy, the quiet hum of our desktop cooling fans was the only sound in the townhouse as Rachel and I sat shoulder to shoulder at our twin oak desks in the Command Center.
+With every interior doorway upstairs on Canadian Arch standing wide open under our Open-Door Policy, the quiet hum of our desktop cooling fans was the only sound in the townhouse as Rachel and I sat shoulder to shoulder at our twin oak desks in the Command Center.
 
 Seventy-two hours after [Heather Bouchard had walked away from the Susquehanna Drive bus stop](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception) and erased two years of weekday history without a single word, the initial shockwave of the crash had settled into a quiet, bruised ache behind my ribs. For the first time in four semesters, I hadn't walked across Buckner Boulevard to the CCHR Transit Loop that Monday morning. Classes were over for the spring term, and the Route 25 loop was officially dead.
 
@@ -28745,7 +28745,7 @@ My fingers hammered against the plastic keys of my desktop keyboard. The quiet h
 
 The little *User is typing...* indicator blinked rapidly at the bottom of the chat window. A few agonizing seconds later, her response populated on the screen.
 
-> *I'm at the absolute bottom of the city. 161 Princess Anne Road. The Blackwater Beach RV Resort & Cottages. It's the very last property before you cross the state line into North Carolina and hit the Knotts Island causeway. He bought an RV down here so we would be isolated. Michael, I don't have a car. He took his truck to run errands. I can't even call a cab because I don't have any money, and I don't even have the PIN code to open the electronic security gate at the front of the park.*
+> *I'm at the absolute bottom of the city on Princess Anne Road. The Blackwater Beach RV Resort & Cottages. It's the very last property before you cross the state line into North Carolina and hit the Knotts Island causeway. He bought an RV down here so we would be isolated. Michael, I don't have a car. He took his truck to run errands. I can't even call a cab because I don't have any money, and I don't even have the PIN code to open the electronic security gate at the front of the park.*
 
 My analytical brain instantly pulled up the geographic map of Virginia Beach. The city was massive, and Princess Anne Road stretched all the way down into the rural, marshy borderlands—far south of the suburban Susquehanna Drive bus stop where Route 25 turned around. Blackwater Beach RV Resort was a solid thirty-minute drive south from Canadian Arch under the best traffic conditions.
 
@@ -28753,7 +28753,7 @@ While I stared at the screen, Rachel was already executing her part of the proto
 
 Downstairs, Rachel grabbed the brass handle of our front door and twisted the deadbolt, throwing the heavy door wide open to clear the perimeter.
 
-The bright, humid May afternoon air of the neighborhood spilled into our foyer. Standing right on the small patch of concrete that connected our front door to the adjacent unit at 3703 was April. She was wearing running shorts and a light athletic jacket, her face flushed and glistening with sweat as she cooled down from an afternoon jog.
+The bright, humid May afternoon air of the neighborhood spilled into our foyer. Standing right on the small patch of concrete that connected our front door to the adjacent unit next door was April. She was wearing running shorts and a light athletic jacket, her face flushed and glistening with sweat as she cooled down from an afternoon jog.
 
 April smiled, lifting a hand to wave. "Hey, Rach—"
 
@@ -28761,7 +28761,7 @@ Her greeting died instantly in her throat.
 
 Rachel didn't say a word, but she didn't have to. The non-verbal communication between an autistic pack member and her lifelong protector was instantaneous. Rachel's posture was completely rigid, her dark eyes wide and dilated with the unmistakable, high-voltage intensity of an active crisis.
 
-April's friendly neighborhood demeanor evaporated in a microsecond. The *Sunhoe Sabomnim* stepped forward, crossing the threshold into 3701 without hesitation.
+April's friendly neighborhood demeanor evaporated in a microsecond. The *Sunhoe Sabomnim* stepped forward, crossing the threshold into our unit without hesitation.
 
 "What's wrong?" April demanded softly, her voice dropping into an absolute, tactical register.
 
@@ -28791,7 +28791,7 @@ My fingers flew back across the keyboard.
 
 I didn't wait for a reply. I hit send, grabbed my sneakers from the floor, and bolted downstairs with Rachel right behind me.
 
-April was already standing in our shared driveway, holding her car keys. She hadn't even bothered to go inside 3703 to change out of her running clothes. The emergency superseded everything.
+April was already standing in our shared driveway, holding her car keys. She hadn't even bothered to go inside her unit next door to change out of her running clothes. The emergency superseded everything.
 
 "Get in," April ordered, unlocking the doors.
 
@@ -28799,7 +28799,7 @@ Rachel slid into the back seat, instantly claiming the enclosed, secure space di
 
 As we hit Buckner Boulevard and merged onto the main roads heading south toward the rural edge of the city, the silence in the car was heavy and entirely focused. We were thirty minutes away, and the Sentinel was standing on the wrong side of a locked gate, waiting for the pack to bring her home.
 
-### Part 2: The Evasive Route & The 1802 Perimeter
+### Part 2: The Evasive Route & The Rich Court Perimeter
 
 **Date:** 2009-05-11 at 15:15 America/New_York
 
@@ -28875,9 +28875,9 @@ April executed a sharp left onto Rosemont Road. As we crossed the intersection o
 
 A left turn at the Buckner Boulevard signal brought the CCHR campus into view, and a final right turn put us onto the quiet, suburban pavement of Canadian Arch.
 
-Because the townhouse community didn't feature street parking, the concrete driveways were the only place to stop. April steered her blue car directly into her own driveway at 3703.
+Because the townhouse community didn't feature street parking, the concrete driveways were the only place to stop. April steered her blue car directly into her own driveway next door.
 
-Parked right next door, securely occupying one of the two spaces in the driveway of our unit at 3701, was a familiar minivan with the engine still running.
+Parked right beside it, securely occupying one of the two spaces in the driveway of our end unit, was a familiar minivan with the engine still running.
 
 The moment April put her car in park, the doors of the van flew open. Joan and Jim Raybourn stepped out onto the concrete.
 
@@ -28887,7 +28887,7 @@ I grabbed Ashley's duffel bag from the floorboards, and Rachel and I stepped out
 
 "Let's get everybody inside," I said, looking at the Raybourns. "The perimeter is clear."
 
-Jim nodded, keeping one arm securely around his daughter. We walked the few short steps to our front door. I unlocked it, and the entire group stepped over the threshold into 3701 Canadian Arch. The heavy brass deadbolt clicked shut behind us, and the hunt was officially over.
+Jim nodded, keeping one arm securely around his daughter. We walked the few short steps to our front door. I unlocked it, and the entire group stepped over the threshold into our townhouse on Canadian Arch. The heavy brass deadbolt clicked shut behind us, and the hunt was officially over.
 
 ***
 
@@ -28955,11 +28955,11 @@ It was late Monday afternoon. Just seventy-two hours ago, I had been mourning th
 
 Rachel walked over to me, wrapping her arms around my waist and pressing her forehead against my chest in a deep, grounding hug.
 
-The ghost of the Delaney Street pull-out couch was officially at peace. 3701 Canadian Arch was secure, and we were finally home.
+The ghost of the Delaney Street pull-out couch was officially at peace. Canadian Arch was secure, and we were finally home.
 
 ***
 
-#### 8:00 PM — The 1802 Perimeter
+#### 8:00 PM — The Rich Court Perimeter
 
 The headlights of the Raybourn minivan swept across the front windows of our dark townhouse a few hours later.
 
@@ -28969,7 +28969,7 @@ Jim Raybourn didn't even put the van in park before we were out the front door, 
 
 When we climbed into the back of the van, the psychological relief was instantaneous. Driving back to the Raybourns' house meant placing ourselves back under the absolute jurisdiction of Jim. For my nervous system, Jim Raybourn wasn't just Ashley’s dad; he was the ultimate, immovable guardian. He was the man who had [physically carried Rachel and me to the bathroom when we were kids](https://books.raggiesoft.com/rachel/base-camp/the-marathon-tuesday-august-22-1995/part-1-the-transfer-of-trust-the-first-lift), guarding our dignity during the four agonizing months we were confined to the living room sofa. If Jim was on watch, the perimeter was completely impenetrable.
 
-We navigated the dark Virginia Beach streets, finally pulling into the familiar driveway of 1802 Rich Court.
+We navigated the dark Virginia Beach streets, finally pulling into the familiar driveway on Rich Court.
 
 By some absolute, tactical miracle, David Lawson had never learned this address. His coercive control had been entirely focused on isolating Ashley down in the rural RV park. His sociopathic arrogance had created a massive blind spot; he literally didn't know where her parents lived.
 
@@ -29031,11 +29031,11 @@ The perimeter was completely sealed. Anchored in the center of her Pack, the Sen
 
 **Date:** 2009-05-11 at 22:30 America/New_York
 
-![In the dark of 1802 Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
+![In the dark on Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
 
 #### 10:30 PM — The Legal Definition
 
-The room was completely dark, save for the faint, orange glow of the streetlight filtering through the blinds of the 1802 Rich Court bedroom.
+The room was completely dark, save for the faint, orange glow of the streetlight filtering through the blinds of the Rich Court bedroom.
 
 In the center of the bed, Ashley’s breathing finally leveled out into the slow, rhythmic cadence of deep sleep. The exhaustion of the extraction and the adrenaline crash had pulled her entirely under. Rachel lay perfectly still on Ashley's left side, her arm draped securely over the Sentinel's waist, radiating quiet, immovable stability.
 
@@ -29153,7 +29153,7 @@ I would wake up to find my kid sister on top of me, protecting me.
 
 **Date:** 2009-05-12 at 07:00 America/New_York
 
-![Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them at 1802 Rich Court]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
+![Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them on Rich Court]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
 
 #### 7:00 AM — The Lifelong Partner
 
@@ -29219,7 +29219,7 @@ Once our armor was on, I grabbed my glasses and led the way to the bedroom door.
 
 #### 7:30 AM — The Fault Line
 
-We walked down the carpeted stairs of 1802 Rich Court, moving as a single, unified block. The smell of freshly brewed coffee and the low, murmuring voices of Jim and Joan drifted out from the kitchen.
+We walked down the carpeted stairs on Rich Court, moving as a single, unified block. The smell of freshly brewed coffee and the low, murmuring voices of Jim and Joan drifted out from the kitchen.
 
 When we walked in, Jim was standing by the counter, holding a mug of coffee and already dressed in a sharp, business-casual button-down shirt. He looked like a man preparing to go to war. Joan was at the table, setting down three massive ceramic bowls and a variety of cereal boxes.
 
@@ -29355,15 +29355,15 @@ I reached over, taking Ashley's hand and running my thumb over her knuckles. To 
 
 Ashley let out a soft, watery laugh, recognizing the lyrical callback to [*The Stardust Engine*](https://music.raggiesoft.com/the-stardust-engine/1997-hard-reset) playing on the alarm clock just a few hours ago. She squeezed both of our hands, leaning her weight fully against my shoulder.
 
-The rest of the drive back to 1802 Rich Court passed in a comfortable, healing silence. The legal machinery had been activated, the timeline was established, and the heavy, toxic label of her marriage was already marked for deletion. Ashley Elizabeth Raybourn was coming back online.
+The rest of the drive back to Rich Court passed in a comfortable, healing silence. The legal machinery had been activated, the timeline was established, and the heavy, toxic label of her marriage was already marked for deletion. Ashley Elizabeth Raybourn was coming back online.
 
 ### Part 2: The Amended Dollar Lease
 
 **Date:** 2009-05-12 at 12:30 America/New_York
 
-![Back at 3701 Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
+![Back on Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg)
 
-Jim pulled the minivan back into the concrete driveway of 3701 Canadian Arch.
+Jim pulled the minivan back into the concrete driveway on Canadian Arch.
 
 The midday May sun was bright, and the quiet, suburban stillness of the neighborhood felt like a completely different planet compared to the tense legal battlefield of downtown Norfolk.
 
@@ -29417,13 +29417,13 @@ Rachel and I immediately stepped in, wrapping our arms around her in our standar
 
 ![Michael, Rachel, and Ashley welcoming Jessica and Kristin at Norfolk International Airport baggage claim]({{CDN}}/raggiesoft-books/images/scenes/rachel/b019/norfolk_airport_pack_convergence.jpg)
 
-The Master King bed on the second floor of 3701 Canadian Arch was built for this exact geometry.
+The Master King bed on the second floor on Canadian Arch was built for this exact geometry.
 
 With every upstairs interior door standing wide open under our Open-Door Policy, the three of us were sleeping exactly as we had the night before—completely stripped of the heavy, restrictive friction of pajamas beneath the forest green sheet and astronomy comforter so that direct skin-to-skin contact could keep our cores from overheating and provide maximum sensory grounding.
 
 I was in the center, acting as the heavy anchor. Rachel was pressed flush against my right side, her bare arm thrown securely over my chest. Ashley was on my left, tangled into my side, completely encased in the biological, two-sided weighted blanket we had formed around her.
 
-At exactly 6:30 AM on Wednesday, May 13, 2009, the profound silence of 3701 Canadian Arch was violently shattered.
+At exactly 6:30 AM on Wednesday, May 13, 2009, the profound silence on Canadian Arch was violently shattered.
 
 My silver flip phone, resting on the nightstand near the edge of the King mattress, began to vibrate and ring with a sharp, piercing electronic trill.
 
@@ -29481,7 +29481,7 @@ The absolute magnitude of the data finally settled over the King bed.
 
 Five days ago, on Friday afternoon, Heather Bouchard had rejected a goodbye hug at the corner of Princess Anne and Susquehanna and deleted me from her life without a word.
 
-And within five days of that cutoff, the universe had answered with an avalanche of real, unconditional love: on Monday, Ashley had returned to our lives; and today, Jessica and Kristin were flying across the continent to permanently reunite our entire five-person Pack under one roof at 3701 Canadian Arch.
+And within five days of that cutoff, the universe had answered with an avalanche of real, unconditional love: on Monday, Ashley had returned to our lives; and today, Jessica and Kristin were flying across the continent to permanently reunite our entire five-person Pack under one roof on Canadian Arch.
 
 Suddenly, an architectural memory from April 2007 clicked into place inside my head.
 
@@ -29489,11 +29489,11 @@ Suddenly, an architectural memory from April 2007 clicked into place inside my h
 
 Rachel’s jaw dropped. She looked down at the phone, her dark eyes flashing with profound realization. "The platform lift on the stairs. The roll-in shower downstairs."
 
-"Jess," I said into the speakerphone, my voice thick with awe. "[When Mom handed us the keys to this townhouse two years ago](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), she had already gutted the downstairs bathroom for a roll-in shower and bolted an Inclined Platform Lift to the main staircase. She told us it was for whenever you came to visit—or whenever Quantum finally transferred you back to the East Coast."
+"Jess," I said into the speakerphone, my voice thick with awe. "[When Mom handed us the keys to this townhouse two years ago](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-canadian-arch-the-dollar-lease), she had already gutted the downstairs bathroom for a roll-in shower and bolted an Inclined Platform Lift to the main staircase. She told us it was for whenever you came to visit—or whenever Quantum finally transferred you back to the East Coast."
 
 A warm, knowing laugh echoed through the phone.
 
-*"Ellen always plays the long game, Michael,"* Jessica said affectionately. *"Because she built that ramp and that stair lift into 3701 two years ago, Kristin and I don't need to book a hotel today. I can roll straight through your front door and up to the Command Center while we house-hunt."*
+*"Ellen always plays the long game, Michael,"* Jessica said affectionately. *"Because she built that ramp and that stair lift into the townhouse two years ago, Kristin and I don't need to book a hotel today. I can roll straight through your front door and up to the Command Center while we house-hunt."*
 
 "She held the perimeter," Rachel rasped, a massive, uncontainable smile spreading across her face.
 
@@ -29659,7 +29659,7 @@ The housing market was beginning to bleed. Lenders were filing for bankruptcy, f
 
 But Jessica Ragsdale wasn't an average family. She was the Director of Defense Integration for Quantum Corporation, commanding an entire floor of the Armada Hoffler Tower in Town Center, holding an exorbitant corporate salary, and possessing an absolute, zero-debt financial portfolio. To her, the housing crash wasn't a crisis. It was a clearance sale.
 
-The townhouse at 3701 Canadian Arch had been the perfect temporary bunker, but the physical geometry was failing us. Five traumatized, neurodivergent adults operating on a zero-privacy, high-compression baseline simply could not sustainably exist in a standard three-bedroom unit without constantly tripping over each other. Jessica knew we needed a massive, permanent sanctuary. She just needed the right plot of land.
+The townhouse on Canadian Arch had been the perfect temporary bunker, but the physical geometry was failing us. Five traumatized, neurodivergent adults operating on a zero-privacy, high-compression baseline simply could not sustainably exist in a standard three-bedroom unit without constantly tripping over each other. Jessica knew we needed a massive, permanent sanctuary. She just needed the right plot of land.
 
 We paid the bill at the restaurant, leaving Pembroke Mall and walking out into the humid, warm Virginia evening air.
 
@@ -29749,7 +29749,7 @@ I took Green Meadows Drive in the opposite direction, following it until we hit 
 
 We followed the sweeping curve of Princess Anne until we hit the massive intersection, executing a left turn onto SR-414, Lynnhaven Parkway. We cruised up Lynnhaven, taking a right onto SR-411, Rosemont Road. From Rosemont, it was a quick right onto Buckner Boulevard, bypassing the commercial chaos entirely, and finally, a smooth right turn onto Canadian Arch.
 
-I slowed the van, turning left into our driveway at 3701.
+I slowed the van, turning left into our driveway on Canadian Arch.
 
 The driveway was perfectly sized for exactly two vehicles. I parked the massive, wheelchair-accessible transit van on the right side. Parked securely on the left side was the sleek, reliable sedan Jessica had purchased for Kristin to use. Because the narrow streets of Canadian Arch explicitly forbade curb parking, our two-vehicle fleet maxed out our current footprint.
 
@@ -30033,11 +30033,11 @@ The Base Camp was secure.
 
 **Date:** 2009-06-15 at 20:30 America/New_York
 
-![Michael, Kristin, Rachel, Ashley, and Jessica together in the living room of 3701 Canadian Arch after the June Upgrade]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg)
+![Michael, Kristin, Rachel, Ashley, and Jessica together in the living room on Canadian Arch after the June Upgrade]({{CDN}}/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg)
 
 #### 8:30 PM — The June Upgrade
 
-By eight-thirty that evening, the heavy emotional tide of Dr. Harrison's clinical diagnosis had settled into a warm, luminous calm across 3701 Canadian Arch.
+By eight-thirty that evening, the heavy emotional tide of Dr. Harrison's clinical diagnosis had settled into a warm, luminous calm across our townhouse on Canadian Arch.
 
 Downstairs, Jessica was at the dining table reviewing the foundation blueprints for the newly cleared Moosewood Drive lot, while upstairs, every bedroom doorway stood wide open under our [Open-Door Policy](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts). Rachel and Ashley were sitting together on the edge of the Master King bed, folding fresh forest green sheets, their voices humming in a quiet, relaxed cadence.
 
@@ -30047,7 +30047,7 @@ I walked through the open doorway and stood beside her, looking out at the cross
 
 With Dr. Harrison's clinical vocabulary now installed in my processor, the entire timeline from November 2006 to June 2009 finally made mathematical sense.
 
-Back on [that cold November morning in Lakewood two and a half years ago](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-4-the-southern-base-camp), when Kristin had handed me the keys to our relationship—offering to be my pretend girlfriend, my platonic best friend, or my actual girlfriend—my traumatized processor had still been too raw from [Delores's trap](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) to accept a formal romantic label. I had needed the breathing room of [Canadian Arch with Rachel](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), and I had needed the ["Shallow End" at CCHR](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end) to prove to myself that I could exist on a college campus again.
+Back on [that cold November morning in Lakewood two and a half years ago](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-4-the-southern-base-camp), when Kristin had handed me the keys to our relationship—offering to be my pretend girlfriend, my platonic best friend, or my actual girlfriend—my traumatized processor had still been too raw from [Delores's trap](https://books.raggiesoft.com/rachel/the-end-of-hell/morning-hell/part-1-forced-exit) to accept a formal romantic label. I had needed the breathing room of [Canadian Arch with Rachel](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-canadian-arch-the-dollar-lease), and I had needed the ["Shallow End" at CCHR](https://books.raggiesoft.com/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end) to prove to myself that I could exist on a college campus again.
 
 And through all twenty-one months of that journey—and through the [catastrophic Friday afternoon crash when Heather Bouchard had walked away from the Susquehanna Drive bus stop](https://books.raggiesoft.com/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception)—Kristin had never once wavered. She had never pressured me, never judged my healing timeline, and never demanded a title. When I fell, she and Jessica had flown across an entire continent to lock down my perimeter alongside Rachel and Ashley.
 
@@ -30361,25 +30361,25 @@ Since you cannot look a college housing official in the eye and tell her, *We ac
 
 When we pushed back out through the glass doors onto the sunlit red-brick walkways we had known since childhood summer camp, the breeze off the river felt electric. Rachel leaned her shoulder into mine as we walked down Dominion Mall toward the parking garage, our decision completely locked in. Come August, we were officially going to Virginia Dominion University.
 
-### Part 2: Move-In Day at 1016 Hampton House ('Building 2'), The 2 Bed / 2 Bath Floor Plan, & Alternating Beds
+### Part 2: Move-In Day at Harbor House ('Building 2'), The 2 Bed / 2 Bath Floor Plan, & Alternating Beds
 
 **Date:** 2015-08-22 at 14:00 America/New_York
 
-![Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (1016 Hampton House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
+![Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (Harbor House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
 
-#### 2:00 PM — 1016 Hampton House (Or as Everyone Calls It: "Building 2")
+#### 2:00 PM — Harbor House (Or as Everyone Calls It: "Building 2")
 
 "We've got two more ground-floor check-ins heading into Building 2!"
 
-The voice crackled over a handheld walkie-talkie as a student volunteer in a sweat-darkened staff shirt waved a rolling laundry cart down the sidewalk of West 45th Street. Behind us, the trunk of Ashley's sedan popped open with a metallic thunk. After helping Rachel and me load our suitcases, laundry baskets, and quilted bedding back home at [Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)—which remained our permanent legal residence—Ashley and Kristin had driven us up to Norfolk into the humid August bustle of Dominion Village move-in day.
+The voice crackled over a handheld walkie-talkie as a student volunteer in a sweat-darkened staff shirt waved a rolling laundry cart down the sidewalk along Dominion Village. Behind us, the trunk of Ashley's sedan popped open with a metallic thunk. After helping Rachel and me load our suitcases, laundry baskets, and quilted bedding back home at [Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)—which remained our permanent legal residence—Ashley and Kristin had driven us up to Norfolk into the humid August bustle of Dominion Village move-in day.
 
-Stepping onto the curb, I laced my left hand through Rachel's right hand and looked up at the three-story red-brick and cream-stucco apartment building rising in front of us.
+Stepping onto the curb, I laced my left hand through Rachel's right hand and looked up at the three-story tan-brick and precast-concrete apartment building rising in front of us.
 
-![Michael and Rachel walking hand-in-hand up the front walkway to the double entry doors of 1016 Hampton House ("Building 2") at Virginia Dominion University on move-in day in August 2015]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_1016_hampton_house_building_2_exterior.jpg)
+![Michael and Rachel walking hand-in-hand up the front walkway to the double entry doors of Harbor House ("Building 2") at Virginia Dominion University on move-in day in August 2015]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_harbor_house_building_2_exterior.jpg)
 
-Directly above the glass double entry doors, framed by white classical pilasters and a crisp triangular pediment, black architectural lettering spelled out the formal address: *1016 Hampton House*.
+Directly above the dark-framed glass double entry doors, clean architectural lettering across the modern precast-concrete entrance canopy spelled out the residence hall name: *Harbor House*.
 
-On every campus map and housing assignment email we had received over the summer, the building was officially listed as Hampton House. Yet within thirty seconds of walking up the front path to collect our room packets at the folding check-in table, Rachel and I realized that nobody who actually worked at Virginia Dominion University ever used that name. Every Housing coordinator and Resident Assistant directing carts along the sidewalk referred to the structure simply as "Building 2."
+On every campus map and housing assignment email we had received over the summer, the building was officially listed as Harbor House. Yet within thirty seconds of walking up the front path to collect our room packets at the folding check-in table, Rachel and I realized that nobody who actually worked at Virginia Dominion University ever used that name. Every Housing coordinator and Resident Assistant directing carts along the sidewalk referred to the structure simply as "Building 2."
 
 "Building 2 it is," Rachel murmured beside me, adjusting her glasses with a quiet smile as the staffer handed us our room keys and encoded our official student ID cards, the Dominion Pass. To our operational brains, "Building 2" was cleaner, faster, and matched the live radio traffic around us—so from that first Saturday afternoon onward, Building 2 was the only name we ever called it.
 
@@ -30391,7 +30391,7 @@ Dragging our first rolling cart through the double doors with Ashley and Kristin
 
 When I tapped my Dominion Pass against the electronic reader beside our apartment's front entry door and pushed it open, a wave of crisp, freshly conditioned air greeted us—and we saw immediately why bypassing the freshman dorms with our community college transfer credits was such a triumph.
 
-![Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Building 2 (Hampton House) at Virginia Dominion University (VDU)]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_2bed_2bath_floorplan.jpg)
+![Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Building 2 (Harbor House) at Virginia Dominion University (VDU)]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_2bed_2bath_floorplan.jpg)
 
 We stepped directly into the front entry vestibule at the bottom center of the layout. Immediately to our left opened a full apartment kitchen equipped with a four-burner stove and oven, a full-sized refrigerator, a pantry closet tucked into the far left wall, and an angled peninsula counter holding the double kitchen sink. Opposite the kitchen on the right side of the entry stood a square wooden dining table surrounded by four chairs.
 
@@ -30425,13 +30425,13 @@ Rachel laughed softly, rising onto her tiptoes to press a warm kiss to my cheek.
 
 "Approved unanimously, Bear," she whispered. "Odd night starts tonight."
 
-### Part 3: The Only GIH Pair in Building 2 (Hampton House), The RA's Look in the Hallway, & The 1st-Floor Laundry Room
+### Part 3: The Only GIH Pair in Building 2 (Harbor House), The RA's Look in the Hallway, & The 1st-Floor Laundry Room
 
 **Date:** 2015-08-25 at 19:30 America/New_York
 
-![Walking down the ground-floor interior hallway of Building 2 (1016 Hampton House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
+![Walking down the ground-floor interior hallway of Building 2 (Harbor House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
 
-#### 7:30 PM — The Only GIH Participants in All of Building 2 (Hampton House)
+#### 7:30 PM — The Only GIH Participants in All of Building 2 (Harbor House)
 
 Three brisk knocks echoed against our apartment's front entry door, followed by the muffled voice of our building Resident Assistant calling out from the ground-floor hallway.
 
@@ -30443,7 +30443,7 @@ Our floor RA—a junior engineering major named Marcus who wore a navy Residence
 
 "Hey guys, I just need both roommates to sign off on the—" Marcus paused mid-sentence, blinking down at his roster sheet and then back up at the two of us.
 
-Because the Fall 2015 semester was the very first time Virginia Dominion University had ever launched Gender-Inclusive Housing on a pilot basis, Rachel and I weren't just the first GIH pair on our floor. As Marcus had mentioned at the Sunday night floor meeting, we were the only Gender-Inclusive Housing participants in the entirety of Building 2—1016 Hampton House. Every single other apartment across all three floors of the building, whether it was a single-resident one-bedroom, one-bath unit—the layout Rachel and I would have gladly chosen if university occupancy rules had allowed two people to share a one-bedroom apartment—another two-bedroom unit, or one of the four-student, four-bedroom suites, was still occupied under traditional single-sex housing assignments.
+Because the Fall 2015 semester was the very first time Virginia Dominion University had ever launched Gender-Inclusive Housing on a pilot basis, Rachel and I weren't just the first GIH pair on our floor. As Marcus had mentioned at the Sunday night floor meeting, we were the only Gender-Inclusive Housing participants in the entirety of Building 2—Harbor House. Every single other apartment across all three floors of the building, whether it was a single-resident one-bedroom, one-bath unit—the layout Rachel and I would have gladly chosen if university occupancy rules had allowed two people to share a one-bedroom apartment—another two-bedroom unit, or one of the four-student, four-bedroom suites, was still occupied under traditional single-sex housing assignments.
 
 ![VDU Dominion Village 1 Bed / 1 Bath Floor Plan — the unit Michael and Rachel would have gladly picked if university occupancy rules had allowed two people to share a 1-bedroom apartment]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_1bed_1bath_floorplan.jpg)
 
@@ -30461,7 +30461,7 @@ When the front door clicked shut behind him, Rachel looked up at me through her 
 
 "Wait until we go down the hall with the laundry basket in twenty minutes," I grinned, kissing her forehead.
 
-![Michael and Rachel walking hand-in-hand down the ground-floor hallway of Building 2 (Hampton House) toward the 1st-floor laundry room while the building RA stops in his tracks with a stunned look on his face]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
+![Michael and Rachel walking hand-in-hand down the ground-floor hallway of Building 2 (Harbor House) toward the 1st-floor laundry room while the building RA stops in his tracks with a stunned look on his face]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
 
 ***
 
@@ -30641,11 +30641,11 @@ Because we weren't presenting a formal workshop this weekend, neither of us need
 
 #### 4:15 PM — Struggling Up the Steep Hills of CPI (And Already Missing Flat VDU)
 
-While Kyleen stayed inside the lobby of The Hotel at Poly to check in our delegation's master room block, the six of us headed across the salted brick plaza toward Kincaid Student Center at 290 College Avenue to pick up our Friday evening early-bird registration lanyards before dinner.
+While Kyleen stayed inside the lobby of The Hotel at Poly to check in our delegation's master room block, the six of us headed across the salted brick plaza toward Kincaid Student Center on College Avenue to pick up our Friday evening early-bird registration lanyards before dinner.
 
 It took less than ninety seconds for Rachel and me to discover the brutal topographic difference between Norfolk and Blacksburg.
 
-Back home at Virginia Dominion University in Norfolk, our entire coastal campus sits right at sea level. Dominion Mall, the walkways around Monarch Commons, and the sidewalk outside Building 2—1016 Hampton House—are pancake-flat concrete from one end of campus to the other. Commonwealth Polytechnic Institute, on the other hand, is carved into a rugged Appalachian mountain plateau where seemingly every walkway between the gray Ironstone buildings is a relentless uphill climb.
+Back home at Virginia Dominion University in Norfolk, our entire coastal campus sits right at sea level. Dominion Mall, the walkways around Monarch Commons, and the sidewalk outside Building 2—Harbor House—are pancake-flat concrete from one end of campus to the other. Commonwealth Polytechnic Institute, on the other hand, is carved into a rugged Appalachian mountain plateau where seemingly every walkway between the gray Ironstone buildings is a relentless uphill climb.
 
 ![Rachel leaning her body weight forward and straining against the rear push-handles as she struggles to push Michael in his manual wheelchair up a steep limestone hill on the CPI campus in Blacksburg during SAACURC 2016]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_cpi_steep_hill_rachel_struggling_push.jpg)
 
@@ -30721,7 +30721,7 @@ Lying here in Room 114 at The Hotel at Poly with our fingers laced together on t
 
 The automatic sliding glass doors of Kincaid Student Center—framed by illuminated overhead exit signs and blue ADA push-button plates—glided open with a soft mechanical whirr, and as my front casters rolled onto the flat, polished terrazzo floor of the main atrium lobby, both Rachel and I let out an audible sigh of relief.
 
-Thirty-minutes after leaving Room 114 at The Hotel at Poly in our jeans, blue-and-silver VDU t-shirts, and winter jackets alongside our advisor, Kyleen, and our fellow VDU delegates, we had survived the morning climb up the sloping brick walkway to 290 College Avenue. Inside the student center, the mountain wind vanished into warm air and level floors.
+Thirty minutes after leaving Room 114 at The Hotel at Poly in our jeans, blue-and-silver VDU t-shirts, and winter jackets alongside our advisor, Kyleen, and our fellow VDU delegates, we had survived the morning climb up the sloping brick walkway to Kincaid Student Center on College Avenue. Inside the student center, the mountain wind vanished into warm air and level floors.
 
 Built directly into the Blacksburg hillside so that both the first floor along College Avenue and the second floor on the upper quad had ground-level entrances, the three-story exterior wings and interior structural piers of Kincaid Student Center were clad in rough-cut gray Ironstone just like practically every building on the CPI campus—except right here along the front atrium lobby, where a soaring wall of floor-to-ceiling mullioned glass windows poured bright morning sunlight across the stone floor. Along the right-hand wall of the first floor sat the wood-and-Ironstone Welcome Desk, the Poly Pass ID Office window, and the wide Ironstone-framed double doors of the Commonwealth Ballroom. At the back of the lobby, a plainly visible three-story glass-and-steel passenger elevator and a continuous three-floor open staircase connected the first-floor ground level to the cantilevered second-floor balcony dining mezzanine—which held the quick-service food court overlooking the atrium right next to the entrance for the full Kincaid Commons student cafeteria—and the third-floor balcony housing the student organization suites and numbered breakout rooms from Room 301 to Room 330.
 
@@ -30755,7 +30755,7 @@ Sitting right beside my wheelchair with her left hand resting in mine, Rachel gl
 
 "Virginia Dominion University RHA," the CPI moderator called out in his Chicago Maroon and Burnt Orange shirt, gesturing toward our table. "You guys launched your GIH pilot this past Fall 2015, right? How is your first spring semester going?"
 
-"I'm Michael Ragsdale, elected Director of Operations for VDU's RHA, and this is my sister Rachel Ragsdale, our elected RHA Secretary," I said clearly across the conference room, my right palm resting on the push-rim of my blue manual chair while my left hand stayed laced with Rachel's. "Yes—Fall 2015 was the inaugural semester of VDU's Gender-Inclusive Housing pilot down in Norfolk, and this Spring 2016 is our first spring semester under the program. And we aren't just speaking as RHA officers who audit the weekly Hall Council reports from the dorms. Rachel and I actually live in the VDU GIH pilot ourselves, in a ground-floor two-bedroom apartment in Building 2—Hampton House—on campus, and we also share the exact same Information Systems and Technology academic track."
+"I'm Michael Ragsdale, elected Director of Operations for VDU's RHA, and this is my sister Rachel Ragsdale, our elected RHA Secretary," I said clearly across the conference room, my right palm resting on the push-rim of my blue manual chair while my left hand stayed laced with Rachel's. "Yes—Fall 2015 was the inaugural semester of VDU's Gender-Inclusive Housing pilot down in Norfolk, and this Spring 2016 is our first spring semester under the program. And we aren't just speaking as RHA officers who audit the weekly Hall Council reports from the dorms. Rachel and I actually live in the VDU GIH pilot ourselves, in a ground-floor two-bedroom apartment in Building 2—Harbor House—on campus, and we also share the exact same Information Systems and Technology academic track."
 
 Beside me, Rachel picked up the thread seamlessly, her voice calm, articulate, and steady as twenty student delegations typed notes into their minutes templates.
 
@@ -30823,7 +30823,7 @@ Looking up at my sister standing right beside my chair—the exact same way she 
 
 By a quarter to two that Sunday afternoon, the final gavel had fallen, the delegation banners were rolled neatly into their travel tubes, and bright February sunshine gleamed off the damp grass along Commonwealth Mall where Friday's melted snow had almost completely vanished.
 
-As we rolled out of Kincaid Student Center at 290 College Avenue toward our waiting university van at The Hotel at Poly—thankfully heading *downhill* this time while Rachel held firmly onto the rear push-handles to keep my manual chair from picking up speed on the steep Blacksburg grade—we paused for a few seconds at the Commonwealth Mall crosswalk beneath The Keystone Bridge.
+As we rolled out of Kincaid Student Center on College Avenue toward our waiting university van at The Hotel at Poly—thankfully heading *downhill* this time while Rachel held firmly onto the rear push-handles to keep my manual chair from picking up speed on the steep Blacksburg grade—we paused for a few seconds at the Commonwealth Mall crosswalk beneath The Keystone Bridge.
 
 Pulling up to the long sidewalk curb right on its forty-five-past-the-hour weekend pulse was a sixty-foot Blue Ridge Transit articulated bus displaying *1 CBURG TRANS CTR* on its amber overhead sign, while just ahead of it a thirty-foot Radford Transit *Radford Connector* coach reading *TO MCCONNELL TRANSIT CTR via PRICES FORK & FAIRLAWN* blinked its right turn signal to swing onto Stanger Street toward Prices Fork Road, Peppers Ferry Road, and U.S. Route 11.
 
@@ -30863,7 +30863,7 @@ Rachel pushed off the counter, crossed the polished floor in three quick strides
 
 That piece of paper was the exact signal my little sister had been stubbornly waiting for. At twenty-eight for me and twenty-six for Rachel, neither of us had ever held a learner's permit or a driver's license. Rachel could have gotten her license years ago; nothing medical had ever held her back from sitting behind a steering wheel. Every single time the subject had come up, however, she had refused to take a single step toward driving until I was surgically repaired and medically cleared to learn right beside her. In Rachel's mind, Bear and Bug did everything together, and she was not about to walk into the Department of Motor Vehicles without me at her side.
 
-Back home here on Moosewood Drive for summer break from [our two-bedroom upperclass GIH apartment at Virginia Dominion University](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-2-move-in-day-at-1016-hampton-house-building-2-the-2-bed-2-bath-floor-plan-alternating-beds), our five-person household had always operated on a simple transportation rhythm. Ashley held a Virginia driver's license and owned her own car, parked right outside in the driveway. Jessica was prohibited from driving for medical reasons and carried a Virginia Non-Driver State ID card, and Kristin carried a Non-Driver State ID card as well—not because anything medical or legal stopped Kristin from taking lessons, but simply because she did not like to drive and was completely content riding the Coastal Virginia Transit Authority bus or catching rides with Ashley. Up until this Tuesday morning, Rachel and I had carried Non-Driver State ID cards too, splitting our commutes between transit buses, our campus shuttle, and rides with Ashley or our mother.
+Back home here on Moosewood Drive for summer break from [our two-bedroom upperclass GIH apartment at Virginia Dominion University](https://books.raggiesoft.com/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-2-move-in-day-at-harbor-house-building-2-the-2-bed-2-bath-floor-plan-alternating-beds), our five-person household had always operated on a simple transportation rhythm. Ashley held a Virginia driver's license and owned her own car, parked right outside in the driveway. Jessica was prohibited from driving for medical reasons and carried a Virginia Non-Driver State ID card, and Kristin carried a Non-Driver State ID card as well—not because anything medical or legal stopped Kristin from taking lessons, but simply because she did not like to drive and was completely content riding the Coastal Virginia Transit Authority bus or catching rides with Ashley. Up until this Tuesday morning, Rachel and I had carried Non-Driver State ID cards too, splitting our commutes between transit buses, our campus shuttle, and rides with Ashley or our mother.
 
 The front door clicked open, and Mom stepped into the foyer, her keys jingling softly in her hand. She paused as she saw me pivot my right foot one more time across the oak floor, then set her purse down on the kitchen island with a warm, unmistakable smile.
 
@@ -31861,7 +31861,7 @@ Because Rachel was the only person in the world I trusted with the memory of Hea
 
 Rachel didn't flinch or judge me. She simply squeezed my forearm gently, listening.
 
-"And right behind that," I continued quietly, "is the part that makes me feel crazy if I don't say it out loud to you. I love my life right now. If somebody pulled up in the Moosewood Drive driveway tonight in a stainless-steel time machine set to May 2007 and told me I could hit eighty-eight miles per hour, go back to CCHR before Fall Semester 2007 ever started, and rewrite the way things ended with Heather on May 8, 2009—I wouldn't even touch the door handle. Because if you go back to 2007 and run over even a single pine tree in the past, you risk altering the timeline from May 2009 onward. And there is zero universe where I would ever risk changing a single variable that [brought Ashley home to us on May 11, 2009](https://books.raggiesoft.com/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction), or [brought Kristin and Jessica across the country to 3701 Canadian Arch](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease), or [built this home for the five of us on Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)."
+"And right behind that," I continued quietly, "is the part that makes me feel crazy if I don't say it out loud to you. I love my life right now. If somebody pulled up in the Moosewood Drive driveway tonight in a stainless-steel time machine set to May 2007 and told me I could hit eighty-eight miles per hour, go back to CCHR before Fall Semester 2007 ever started, and rewrite the way things ended with Heather on May 8, 2009—I wouldn't even touch the door handle. Because if you go back to 2007 and run over even a single pine tree in the past, you risk altering the timeline from May 2009 onward. And there is zero universe where I would ever risk changing a single variable that [brought Ashley home to us on May 11, 2009](https://books.raggiesoft.com/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction), or [brought Kristin and Jessica across the country to Canadian Arch](https://books.raggiesoft.com/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-canadian-arch-the-dollar-lease), or [built this home for the five of us on Moosewood Drive](https://books.raggiesoft.com/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture)."
 
 "You don't want 2008 back instead of today, Bear," Rachel said, putting the exact right words to the math inside my head the way my Co-Processor always had. "You just hate that a memory that *used* to feel like sunshine now feels like a system crash whenever her face walks through the door. And you don't want to hear the 2009 crash logs."
 

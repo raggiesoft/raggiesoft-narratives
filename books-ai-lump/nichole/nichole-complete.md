@@ -850,7 +850,7 @@ Finally, they saw the red octagon ahead. The stop sign at Delaney Street.
 
 "Land ho," Patrick said.
 
-Directly across the intersection sat 1850 Delaney Street—their house. It was a modest, single-story structure with pale vinyl siding, sitting quiet in the sun. It looked tantalizingly close, but they still had to navigate the intersection.
+Directly across the intersection on Delaney Street sat their house. It was a modest, single-story structure with pale vinyl siding, sitting quiet in the sun. It looked tantalizingly close, but they still had to navigate the intersection.
 
 They rolled up to the stop sign. Patrick checked for traffic—left, right, left again. The coast was clear.
 
@@ -894,7 +894,7 @@ They crossed Earnhardt Street, leaving the safety of the last ADA curb cut behin
 
 "Zone One clear," Patrick muttered.
 
-They rolled down the gutter of Morrison Street. To their right, they passed 1789 Morrison Street. The steep concrete driveway was empty. No buses here. Just a quiet blue house with vinyl siding.
+They rolled down the gutter of Morrison Street. To their right, they passed a house near the end of the block. The steep concrete driveway was empty. No buses here. Just a quiet blue house with vinyl siding.
 
 But ahead of them, the world changed.
 
@@ -1553,7 +1553,7 @@ They crossed Brandon Boulevard. They were in the home stretch now. One more bloc
 
 They reached the T-junction where Morrison Street ended at Delaney Street.
 
-Straight ahead, slightly to the left, was 1850 Delaney Street. The driveway was empty. The grass was cut. It looked peaceful.
+Straight ahead, slightly to the left, was their house on Delaney Street. The driveway was empty. The grass was cut. It looked peaceful.
 
 Patrick pushed Nichole up the driveway and stopped at the front door.
 
@@ -1707,13 +1707,13 @@ He looked at the sealed envelope. It felt heavy. It was a declaration of war, de
 
 Tom walked out the door, carrying the paper shield that would ensure his son never had to apologize for being a hero again.
 
-Thomas and Ellen Bennett 1850 Delaney Street Virginia Beach, VA 23464
+Thomas and Ellen Bennett, Delaney Street, Virginia Beach, VA
 
 October 14, 1996
 
 HAND DELIVERED
 
-To: Virginia Beach City Public Schools Board of Education Virginia Beach Municipal Center 2512 George Mason Drive Virginia Beach, VA 23456
+To: Virginia Beach City Public Schools Board of Education, Virginia Beach Municipal Center, George Mason Drive, Virginia Beach, VA
 
 RE: FORMAL GRIEVANCE, NOTICE OF SAFETY FAILURE, AND IEP MODIFICATION REQUEST Student: Nichole Bennett (Grade 6, Morrison Middle School) Student: Patrick Bennett (Grade 6, Morrison Middle School)
 
@@ -1813,7 +1813,7 @@ He picked up his pen. He opened Patrick Bennett’s file. He wrote a note on the
 DO NOT TOUCH.
 
 
-Date: October 16, 1996 (48 Hours Post-Incident) Time: 10:00 AM Location: The Bennett Mailbox / 1850 Delaney Street
+Date: October 16, 1996 (48 Hours Post-Incident) Time: 10:00 AM Location: The Bennett Mailbox / Delaney Street
 
 The letter didn't come by regular mail. A district courier car pulled up to the curb. A man in a tie walked up the driveway and handed a thick, official envelope to Ellen Bennett.
 
@@ -1827,13 +1827,13 @@ She read the first paragraph. She let out a breath.
 
 She laid the document on the table.
 
-VIRGINIA BEACH CITY PUBLIC SCHOOLS Department of Special Education & Student Services 2512 George Mason Drive, Virginia Beach, VA 23456
+VIRGINIA BEACH CITY PUBLIC SCHOOLS Department of Special Education & Student Services, George Mason Drive, Virginia Beach, VA
 
 October 16, 1996
 
 VIA COURIER
 
-Mr. and Mrs. Thomas Bennett 1850 Delaney Street Virginia Beach, VA 23464
+Mr. and Mrs. Thomas Bennett, Delaney Street, Virginia Beach, VA
 
 RE: RESOLUTION OF GRIEVANCE DATED OCT 14, 1996
 
@@ -1900,9 +1900,9 @@ HIRED.
 
 It was official. The Bennett Machine was no longer a rogue operation. It was district policy.
 
-### Part 3: 1850 Delaney Street, Virginia Beach & The Architect and the Laborer
+### Part 3: Delaney Street, Virginia Beach & The Architect and the Laborer
 
-#### The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach
+#### The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: Delaney Street, Virginia Beach
 
 The victory had lasted exactly twenty-eight days.
 
@@ -3923,13 +3923,13 @@ Miller looked at Patrick.
 
 "Bennett," Miller said. "Show them how it's done. Scenario: Sunday dinner. Sister chokes. Go."
 
-Patrick picked up the phone. He stared at the wall, visualizing the kitchen at 1850 Delaney.
+Patrick picked up the phone. He stared at the wall, visualizing the kitchen on Delaney Street.
 
 "Medical Emergency," Patrick said. His voice was flat, loud, and commanding.
 
 "Go ahead," Miller said.
 
-"Location is 1850 Delaney Street," Patrick recited. "Corner of Delaney and Morrison. White house, blue shutters."
+"Location is on Delaney Street," Patrick recited. "Corner of Delaney and Morrison. White house, blue shutters."
 
 Miller nodded. *Cross-street. Good.* "Nature of emergency?"
 
@@ -4990,7 +4990,7 @@ She reached for her VocaLink. The screen glowed in the afternoon light.
 
 #### The \
 
-The spreadsheet on the Bennett family’s kitchen table at 1850 Delaney Street was color-coded. Ellen had spent the last two weeks calling admissions offices, mapping out a tour schedule that would take them across the state.
+The spreadsheet on the Bennett family’s kitchen table on Delaney Street was color-coded. Ellen had spent the last two weeks calling admissions offices, mapping out a tour schedule that would take them across the state.
 
 But for the first stop, they didn't have to leave the Tidewater area.
 
@@ -6755,7 +6755,7 @@ NORMAL.
 
 The group moved out of the Welcome Center and headed north along Hampton Boulevard. The Virginia heat hit them like a physical blow—humid, heavy, and smelling of hot asphalt.
 
-They rolled past the massive parking garage, heading toward 45th Street. Looming ahead was Batten Arts & Letters—or "BAL" as everyone called it. It was a nine-story brick monolith that looked like a fortress of humanities.
+They rolled past the massive parking garage, heading toward 45th Street. Looming ahead was Dominion Arts & Letters—a nine-story brick monolith that looked like a fortress of humanities.
 
 "This is the heart of the College of Arts and Letters," Megan shouted over the traffic noise. "English, History, Foreign Languages, Political Science. If you write papers, you live here."
 
@@ -9766,13 +9766,13 @@ She tapped her VocaLink for the last time that day.
 
 ## The Gap Year Protocol
 
-### Part 1: 1850 Delaney Street, Virginia Beach, Virginia & The Departure
+### Part 1: Delaney Street, Virginia Beach, Virginia & The Departure
 
-#### The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia
+#### The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: Delaney Street, Virginia Beach, Virginia
 
 The thirteen-hour drive south felt different than the drive north. The crushing weight of the Putney College disaster had been left somewhere in the Green Mountains, replaced by the humming energy of a concrete plan.
 
-Tom pulled the heavy transport van into the driveway at 1850 Delaney Street. The neighborhood was quiet, the Virginia heat radiating off the asphalt. Down the block, Patrick could see the brick façade of Morrison Middle School—the site of the infamous "Curb Trap" of 1996. It was the place where they had first learned that the world was not built for them.
+Tom pulled the heavy transport van into the driveway on Delaney Street. The neighborhood was quiet, the Virginia heat radiating off the asphalt. Down the block, Patrick could see the brick façade of Morrison Middle School—the site of the infamous "Curb Trap" of 1996. It was the place where they had first learned that the world was not built for them.
 
 Now, they were leaving it behind to go find a world that was.
 
@@ -9818,7 +9818,7 @@ Ellen put the phone on speaker and set it on the kitchen table, where Tom, Patri
 
 "You bought it?" Tom asked, a huge smile breaking across his face.
 
-"Free and clear," Mark confirmed from three hundred miles away. "I’m standing in the living room right now. 95 West Main Road. Portsmouth, Rhode Island. And the best part? Zero steps at the front door."
+"Free and clear," Mark confirmed from three hundred miles away. "I’m standing in the living room right now. West Main Road. Portsmouth, Rhode Island. And the best part? Zero steps at the front door."
 
 Nichole made a high-pitched, excited *keening* sound. *Zero steps.*
 
@@ -11016,7 +11016,7 @@ Patrick didn't hesitate. He pulled out his wallet. He reached down to Nichole’
 
 He held both cards up.
 
-"We signed the lease and established domicile on September first," Patrick said. "95 West Main Road, Portsmouth. We're currently running out the one-year clock to qualify for Rhode Island in-state tuition for next fall."
+"We signed the lease and established domicile on September first," Patrick said. "West Main Road, Portsmouth. We're currently running out the one-year clock to qualify for Rhode Island in-state tuition for next fall."
 
 The Director squinted, doing the mental geography. "Portsmouth. That’s Aquidneck Island. That’s about twenty-five miles out. That qualifies for the radius. But you must be living with family, not just renting a house with friends."
 
@@ -11402,7 +11402,7 @@ As darkness fell completely, the bus rolled through Portsmouth.
 
 "Next stop, Willow Lane," the automated voice called out at **5:15 PM**.
 
-The bus kneeled into the gutter across the street from 95 West Main Road. The wind was whipping dead leaves across the asphalt.
+The bus kneeled into the gutter across the street from their house on West Main Road. The wind was whipping dead leaves across the asphalt.
 
 Patrick pushed Nichole down the ramp onto the sidewalk. The bus roared away into the dark.
 
@@ -12355,7 +12355,7 @@ Patrick parked Nichole in the open space and sat in the single remaining chair n
 
 "Alright," Sarah said, opening a file. "I see here you are applying for dual admission for Fall 2004. Patrick for Engineering, Nichole for Technical Communication. Fantastic pairing. Now, let’s talk logistics. Where are you two currently living?"
 
-"Portsmouth," Patrick answered. "95 West Main Road. We live with our parents, our aunt, and our uncle. It’s a... robust family unit."
+"Portsmouth," Patrick answered. "On West Main Road. We live with our parents, our aunt, and our uncle. It’s a... robust family unit."
 
 Sarah smiled. "Multigenerational. I love it. Now, for your freshman year, standard BSU policy requires students to live in the residence halls. We have fully accessible dorms in South Hall."
 
@@ -19190,7 +19190,7 @@ She tapped her screen. WE. NEED. A. RANCH.
 
 #### The Decision
 
-The papers were spread out on the island. The Deed: 95 West Main Road (Inherited, Mortgage Free). The Lease: The Foundry Lofts (Renewing in June).
+The papers were spread out on the island. The Deed: West Main Road (Inherited, Mortgage Free). The Lease: The Foundry Lofts (Renewing in June).
 
 "The rent is going up again," Patrick noted, looking at the notice. "\$4,500 a month." He looked at the deed to the Portsmouth house. "Taxes on the Fortress are \$6,000 a *year*."
 
@@ -19212,7 +19212,7 @@ Patrick read the words. *I want easy.* He let out a long breath. He rubbed his e
 
 They didn't hire movers to pack. They hired movers to *purge*. They sold the loft furniture. They donated the office equipment. Bennett Dynamics was officially closed for new business. They were keeping the patent royalties from the *Haptic Interface*, but the consulting firm was retiring.
 
-They drove the new van (a 2042 hybrid transport) across the Newport Bridge. They pulled into the driveway of 95 West Main. The house looked exactly the same. The brick was timeless. The ramp Uncle Mark had poured in 2003 was still smooth and solid, free of cracks.
+They drove the new van (a 2042 hybrid transport) across the Newport Bridge. They pulled into the driveway on West Main Road. The house looked exactly the same. The brick was timeless. The ramp Uncle Mark had poured in 2003 was still smooth and solid, free of cracks.
 
 Patrick lowered the lift. Nichole rolled out. The air smelled of salt and pine. It was quieter here. The roar of the city was gone, replaced by the sound of wind in the trees and the distant hum of the Route 60 bus.
 
@@ -19333,9 +19333,9 @@ Patrick lay there, listening to the soft gurgle of the catheter line. He looked 
 
 ## The Synchronized Shutdown
 
-### The Master Suite, 95 West Main Road, Portsmouth, RI & The Legacy
+### The Master Suite, West Main Road, Portsmouth, RI & The Legacy
 
-#### Date: February 14, 2058 Age: 72 Location: The Master Suite, 95 West Main Road, Portsmouth, RI
+#### Date: February 14, 2058 Age: 72 Location: The Master Suite, West Main Road, Portsmouth, RI
 
 The winter of 2058 was cold, but the Fortress was warm.
 
@@ -19447,7 +19447,7 @@ OFFICE OF THE STATE MEDICAL EXAMINER STATE OF RHODE ISLAND AUTOPSY REPORT SUMMAR
 
 DECEDENT 1: Patrick Bennett DECEDENT 2: Nichole Bennett
 
-DATE OF DEATH: February 14, 2058 DATE OF DISCOVERY: February 15, 2058 LOCATION OF DEATH: 95 West Main Road, Portsmouth, RI
+DATE OF DEATH: February 14, 2058 DATE OF DISCOVERY: February 15, 2058 LOCATION OF DEATH: West Main Road, Portsmouth, RI
 
 1\. CIRCUMSTANCES OF DEATH
 

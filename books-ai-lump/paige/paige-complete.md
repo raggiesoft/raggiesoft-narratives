@@ -1500,7 +1500,7 @@ Paige looked at Freddie over the roof of the car. She smiled, a tired but genuin
 
 #### The Route
 
-The beige sedan sat vibrating in the driveway of 1852 Delaney Street. The engine idle was rough, shaking the dashboard slightly and making Freddie’s teeth chatter if he didn't clench them.
+The beige sedan sat vibrating in the driveway on Delaney Street. The engine idle was rough, shaking the dashboard slightly and making Freddie’s teeth chatter if he didn't clench them.
 
 Paige sat in the driver’s seat, staring intensely at the tachometer. Her left foot was doing something complicated with a pedal Freddie didn't understand, and her right hand was gripping the gear stick like it was the controls of a fighter jet. It was a manual transmission—a "stick shift"—which to Freddie meant the car spent a lot of time lurching before it decided to move.
 
@@ -1734,7 +1734,7 @@ For a moment, the tension of the house, the "spiky air" of their parents' marria
 
 #### The Collapse
 
-The high of the Starcade lasted exactly until the front door of 1852 Delaney Street clicked shut behind them.
+The high of the Starcade lasted exactly until the front door on Delaney Street clicked shut behind them.
 
 The house was not quiet. The silence Freddie had feared earlier had been replaced by something worse: the sharp, staccato rhythm of an argument.
 
@@ -2070,7 +2070,7 @@ Ellen took the ramp onto Route 250, merging onto Richmond Avenue. The landscape 
 
 #### The Red Booth
 
-The Zane's at 1250 Richmond Avenue was a beast of a building. It wasn't just a gas station; it was a brightly lit fortress of neon red and yellow, bustling with truckers, weary travelers, and college students heading south to Blacksburg or north to Harrisonburg.
+The Zane's on Richmond Avenue was a beast of a building. It wasn't just a gas station; it was a brightly lit fortress of neon red and yellow, bustling with truckers, weary travelers, and college students heading south to Blacksburg or north to Harrisonburg.
 
 Ellen pulled the sedan into a parking spot away from the pumps.
 
@@ -4203,7 +4203,7 @@ Freddie rocked, sobbing. "The loop... the music..." "We are cutting the cord," J
 
 "Read it, Dad," Jessica hissed. "It’s a lease. A private residence in Christiansburg, Virginia." She pointed to the signature line at the bottom. "Tenant 1: Jessica Avery. Tenant 2: Paige Avery. Tenant 3: Freddie Avery." "They signed it. They are adults. They are residents of the Iron City." She stepped closer, invading his space, piercing his lie with the truth. "They don't belong to you. They belong to themselves. And if you ever—ever—try to touch them again, I will get a restraining order so fast your head will spin."
 
-Robert stared at the paper. He saw the legal signatures. He saw the reality of his failure staring back at him. He tried to look at the top line, to memorize the location, but Jessica’s thumb was an unmoving bar of iron over the words *105 Pepper Street*. He thought about the room in Orchards with the stained carpet. He thought about going back there alone. He crumbled.
+Robert stared at the paper. He saw the legal signatures. He saw the reality of his failure staring back at him. He tried to look at the top line, to memorize the location, but Jessica’s thumb was an unmoving bar of iron over the Pepper Street address. He thought about the room in Orchards with the stained carpet. He thought about going back there alone. He crumbled.
 
 "Fine," Robert spat, throwing his cigarette on the ground to mask his defeat. "Take the broken one. See how long you last." He turned and walked away, disappearing into the crowd, a man walking toward a terminal to catch a flight back to nothing.
 
@@ -4221,14 +4221,14 @@ The silver Avalon pulled away from the highway and turned down a quiet residenti
 
 Jessica slowed the car as they approached the intersection of First and Pepper. "Target acquired," Jessica announced. "Look to your left." Freddie looked out the window. Directly across the street wasn't a parking lot; it was a hub of infrastructure. **Pepper Plaza Transit Center.** It was a proper terminal with a sawtooth curb design, allowing three buses to dock simultaneously without blocking traffic. A heavy shelter with a glass windscreen stood waiting. "That is the node," Jessica explained, pointing. "Blue Ridge Transit. Route 1 goes straight to campus. Route 3 goes to Radford. You can see the bus arrive from your front porch. Visual confirmation." Freddie nodded, entranced by the efficiency of the sawtooth bays. "Optimal geometry," he noted. "No guessing."
 
-Jessica turned the wheel to the right and pulled into the driveway of a small, white house directly diagonally across from the transit center. "And this," Jessica said, killing the engine, "is The Base." **105 Pepper Street.** It was a modest, detached single-story house with a small porch and white siding. It looked solid. Unpretentious. Private. "Low density," Freddie noted, approving of the lack of shared walls. "And high security," Jessica added. "Grab your bags."
+Jessica turned the wheel to the right and pulled into the driveway of a small, white house directly diagonally across from the transit center. "And this," Jessica said, killing the engine, "is The Base." Right on Pepper Street, it was a modest, detached single-story house with a small porch and white siding. It looked solid. Unpretentious. Private. "Low density," Freddie noted, approving of the lack of shared walls. "And high security," Jessica added. "Grab your bags."
 
 They walked up the short concrete path. Jessica pulled out a keyring with three brass keys. She handed one to Freddie and one to Paige. "Protocol One," Jessica said, sliding her key into the deadbolt. "This is a private residence. No buzzer. No landlord walking the halls. You control the perimeter." *Click-thunk.* The door swung open. "Secure," Freddie whispered, stepping onto the hardwood floor. It smelled of lemon polish and old wood—the smell of safety.
 
 
 The interior was deceptively spacious. The living room had soft carpet and a large window looking out toward the tree line in the backyard. The kitchen had a small island with three bar stools. But the most important feature was the short hallway that branched off to the bedrooms. "Okay," Jessica said, dropping her keys on the counter. "Briefing time. Drop the bags." Freddie and Paige set their duffel bags down. Ellen, who was carrying a bag of groceries she’d insisted on buying at the last stop, set them on the island.
 
-Jessica hopped up onto the counter, swinging her legs. She looked at her siblings—not as a parent, not as a babysitter, but as a squad leader addressing her team. "Welcome to the Iron City," Jessica smiled. "This is a new system. The rules of 1852 Delaney Street do not apply here. We have a new Constitution."
+Jessica hopped up onto the counter, swinging her legs. She looked at her siblings—not as a parent, not as a babysitter, but as a squad leader addressing her team. "Welcome to the Iron City," Jessica smiled. "This is a new system. The rules of Delaney Street do not apply here. We have a new Constitution."
 
 
 "First," Jessica pointed to the ceiling. "Rent. Utilities. Internet." "We need jobs," Paige said immediately. "I can wait tables. Freddie can do tech support." "Negative," Jessica shook her head. "We have a sponsor." She reached into her back pocket and pulled out a folded document. She placed it on the counter. **Lease Agreement.** **Rent: \$1.00 per annum.** "Mom’s Great Aunt Margaret," Jessica explained. "She moved to assisted living last month. She owns this place. She hates Dad. She drafted this lease herself." Ellen nodded from the kitchen. "She wants you safe. She’s covering the utilities and the high-speed cable internet. She’s also depositing a stipend for food and books every month." Freddie blinked. "We are... fully funded?" "You are fully funded," Jessica confirmed. "Your job is to get the grades. That’s it."
@@ -4248,7 +4248,7 @@ The briefing was adjourned. Freddie and Paige took their bags into the Silo. It 
 
 Freddie unzipped his duffel bag. He felt sticky from the graduation gown, the sweat of the meltdown, and the long car ride. He didn't ask Paige to leave. He didn't turn around. He simply pulled his shirt over his head and tossed it on the bed. He unbuckled his belt and stepped out of his dress pants. He stood there in his boxers, grabbing a pair of soft gym shorts from his bag. Paige was doing the same. She shucked off her jeans and the blouse she’d worn for graduation, revealing a simple bra and panties. She didn't flinch. She didn't look away. It was just skin. It was just Freddie. She pulled on an oversized t-shirt and cotton shorts.
 
-"The air conditioning is optimal," Freddie noted, pulling on his orange hoodie—not for warmth, but for comfort. "It’s quiet," Paige agreed, tossing her clothes into the hamper. She walked over to him. She didn't hug him; she just leaned her forehead against his shoulder. "We’re here, Freddie. 105 Pepper."
+"The air conditioning is optimal," Freddie noted, pulling on his orange hoodie—not for warmth, but for comfort. "It’s quiet," Paige agreed, tossing her clothes into the hamper. She walked over to him. She didn't hug him; she just leaned her forehead against his shoulder. "We’re here, Freddie. Pepper Street."
 
 Freddie looked around the room. No parents fighting downstairs. No Robert trying to drag him to a basement. Just Jessica in the kitchen, Paige at his side, and a fully funded future waiting for them. And across the street, the buses were waiting in their sawtooth bays. "The launch code is accepted," Freddie whispered. "Systems are go."
 
@@ -4258,7 +4258,7 @@ Freddie looked around the room. No parents fighting downstairs. No Robert trying
 
 #### The Manual
 
-The morning sun hit the Blue Ridge Mountains, filtering through the sliding glass door of **105 Pepper Street**. The house smelled of coffee and the cinnamon rolls Jessica had pulled from a tube. It was quiet. Not the tense, waiting-for-a-fight quiet of Delaney Street, but a settled, structural silence. Ellen had left an hour ago, driving the **Holt Meridian** back to the coast to study for her Monday exams. She had hugged them tight, left a check on the counter for "emergency pizza," and driven away, leaving the three siblings alone in their new fortress.
+The morning sun hit the Blue Ridge Mountains, filtering through the sliding glass door on Pepper Street. The house smelled of coffee and the cinnamon rolls Jessica had pulled from a tube. It was quiet. Not the tense, waiting-for-a-fight quiet of Delaney Street, but a settled, structural silence. Ellen had left an hour ago, driving the Holt Meridian back to the coast to study for her Monday exams. She had hugged them tight, left a check on the counter for "emergency pizza," and driven away, leaving the three siblings alone in their new fortress.
 
 Freddie sat at the kitchen island—a sturdy butcher-block piece Aunt Margaret had installed during the remodel—wearing his orange hoodie and pajama pants. He was eating a cinnamon roll with a fork, dismantling it spiral by spiral. Paige sat next to him, nursing a mug of tea. Jessica stood on the other side of the island. She wasn't eating. She was holding a thick, three-ring binder. The cover was Maroon and Orange—the official colors of **Commonwealth Polytechnic Institute (CPI)**. The logo on the front showed a muscular blacksmith hammering a glowing piece of iron on an anvil: **The Forger.**
 
@@ -4346,7 +4346,7 @@ He closed his eyes again, focusing on the sensation of the moment. He felt Paige
 
 #### The Curriculum
 
-The living room of **105 Pepper Street** was quiet, save for the low hum of the window AC unit and the faint sound of a diesel bus engine idling across the street at **Pepper Plaza**. On the beige sofa, the "Deep Pressure Therapy" session was reaching its natural conclusion. Freddie lay still, breathing deeply. The weight of Paige lying on top of him was no longer just a medical intervention; it was a physical confirmation of his new reality. She was heavy, warm, and present. She was compressing his frayed nerves back into a cohesive cable. He wasn't just tolerating the pressure; he was enjoying the hug for what it was. A deep, trusting, silent connection.
+The living room on Pepper Street was quiet, save for the low hum of the window AC unit and the faint sound of a diesel bus engine idling across the street at Pepper Plaza. On the beige sofa, the "Deep Pressure Therapy" session was reaching its natural conclusion. Freddie lay still, breathing deeply. The weight of Paige lying on top of him was no longer just a medical intervention; it was a physical confirmation of his new reality. She was heavy, warm, and present. She was compressing his frayed nerves back into a cohesive cable. He wasn't just tolerating the pressure; he was enjoying the hug for what it was. A deep, trusting, silent connection.
 
 "Status?" Paige whispered, her chin still resting on his chest. "Integrity restored," Freddie said softly. "The static is gone. I am... regulated." "Good." Paige squeezed him one last time—a tight, rib-compressing hug that felt like love, not just therapy—before pushing herself up. She rolled off him and sat back on the cushion.
 
@@ -4441,7 +4441,7 @@ He closed his eyes. The static was gone. The loop was broken. For the first time
 
 #### The Morning After
 
-The morning sun hit the mountains, reflecting off the peaks and finding a gap in the blackout curtains of **105 Pepper Street**. The beam of light hit Freddie’s eyes. He woke up. For a microsecond, the data processing was slow. Warmth. Weight. Safety. Then, the visual sensors came online. He looked to his left. Jessica was asleep, her arm thrown over her eyes. She was naked. He looked to his right. Paige was asleep, her cheek pressed against his shoulder. She was naked. He looked down at himself. He was naked.
+The morning sun hit the mountains, reflecting off the peaks and finding a gap in the blackout curtains on Pepper Street. The beam of light hit Freddie’s eyes. He woke up. For a microsecond, the data processing was slow. Warmth. Weight. Safety. Then, the visual sensors came online. He looked to his left. Jessica was asleep, her arm thrown over her eyes. She was naked. He looked to his right. Paige was asleep, her cheek pressed against his shoulder. She was naked. He looked down at himself. He was naked.
 
 The "Robert Virus" activated instantly. *ERROR. ERROR. CONTAMINATION DETECTED.* The voice in his head—his father’s voice—screamed at him. *Disgusting. Wrong. Pervert. If I catch you in that bed...* Freddie gasped, a sharp intake of air that sounded like a seal breaking. He scrambled backward. He tried to shout *No!*, but his throat was a dry, clicking ruin. The mutism from yesterday's meltdown was still holding the line. He thrashed against the maroon sheets, kicking free of the King-sized cocoon, his heart hammering a frantic techno beat against his ribs. *Thump-thump-thump.* He tumbled off the side of the high mattress and hit the hardwood floor with a heavy thud, scrambling backward until his spine hit the wall. He pulled his knees to his chest, covering his exposed body with his arms, shaking violently.
 
@@ -4464,7 +4464,7 @@ Freddie looked at Jessica. Then he looked at Paige. They weren't ashamed. They w
 Freddie’s shoulders dropped. The vibration in his hands slowed. He looked at Paige and tapped his chest, then pointed at her. *Safe.* "Safe," Paige confirmed. She reached out and hugged him—skin on skin, just a brother and a sister grounding each other. "Now," Jessica announced, clapping her hands. "Reboot complete. Let's get some clothes on. I'm starving, and we have administrative tasks to complete."
 
 
-Twenty minutes later, they were dressed. Freddie wore fresh jeans and a grey t-shirt. His voice was still gone—the reset hadn't fully restored the audio drivers yet—but he was communicating fluently with hand signals. They stood in the kitchen. Jessica was holding a notepad. "Agenda," Jessica listed. "Item 1: Breakfast. I know a place near campus." "Item 2: The Post Office. We need to file the Change of Address forms. You two officially live at **105 Pepper Street** now." "Item 3: Insurance and Taxes."
+Twenty minutes later, they were dressed. Freddie wore fresh jeans and a grey t-shirt. His voice was still gone—the reset hadn't fully restored the audio drivers yet—but he was communicating fluently with hand signals. They stood in the kitchen. Jessica was holding a notepad. "Agenda," Jessica listed. "Item 1: Breakfast. I know a place near campus." "Item 2: The Post Office. We need to file the Change of Address forms. You two officially live on Pepper Street now." "Item 3: Insurance and Taxes."
 
 She looked at Freddie and Paige. "Okay, tax law crash course. Mom called me last week. She’s going to claim both of you as dependents on her tax return this coming January." Freddie frowned. He tapped the table two times. *Query?* "I know," Jessica said. "You moved out in June. Technically, you lived with her for 5.5 months. But since you're students, she can claim this time as a 'temporary absence' for education. It helps her wallet, and frankly, she needs the deduction more than we do. It’s the last time, though. Starting next year, you belong to the Iron City." Freddie nodded. *Acceptable.*
 
@@ -4552,7 +4552,7 @@ They walked out into the sunshine of Blacksburg, ready to wire up the Iron City.
 
 #### Channel 3
 
-Back at **105 Pepper Street**, the energy was electric. Jessica unpacked the groceries while Freddie and Paige engaged the "Entertainment Protocol" in the living room. The **MagnaView** TV sat on its low wooden stand, a heavy silver monolith waiting to be awakened.
+Back at the house on Pepper Street, the energy was electric. Jessica unpacked the groceries while Freddie and Paige engaged the "Entertainment Protocol" in the living room. The MagnaView TV sat on its low wooden stand, a heavy silver monolith waiting to be awakened.
 
 "Cabling," Freddie announced, kneeling behind the stand. He laid out the wires. It was a puzzle he knew how to solve, but there was one piece of geometry that bothered him. The **Bit-System** (Input 1) only had **Mono Audio**. If he plugged it in standard, sound would only come out of the Left speaker. *Asymmetry.* The thought made his skin crawl. "Wait," Freddie signed to Paige. He dug into the bottom of the cable bag Jessica had brought. He found it. A small, black cable with one female jack on one end and two male plugs on the other. **The Y-Adapter.**
 
@@ -4608,7 +4608,7 @@ The **King Bed** offered 76 inches of width—enough for them to sleep without t
 
 #### The Loophole
 
-The morning sun filtered through the blinds of 105 Pepper Street, slicing the living room into strips of light and shadow. The air conditioner hummed a steady, white-noise drone that kept the humid Virginia summer at bay.
+The morning sun filtered through the blinds on Pepper Street, slicing the living room into strips of light and shadow. The air conditioner hummed a steady, white-noise drone that kept the humid Virginia summer at bay.
 
 In the kitchen, the mood was quiet but stable. They were in pajamas—their soft armor against the morning. Jessica wore a worn CPI t-shirt and flannel pants. Paige was in an oversized shirt and shorts. Freddie wore his standard grey sleep pants and a fresh grey t-shirt, his orange hoodie draped over the back of his stool like a sentry.
 
@@ -4668,7 +4668,7 @@ She checked her watch. "The Campus Bookstore is open today for the summer intake
 
 #### The Run
 
-The silver **Horizon Avalon** sat in the driveway of 105 Pepper Street, reflecting the mid-morning sun. It was a rare beast for a sedan of its size—a V6 engine paired with a 5-speed manual transmission. "I will drive," Paige said, snagging the keys from the hook by the door. "I need the practice on the hills. If I can drive in Blacksburg, I can drive anywhere."
+The silver Horizon Avalon sat in the driveway on Pepper Street, reflecting the mid-morning sun. It was a rare beast for a sedan of its size—a V6 engine paired with a 5-speed manual transmission. "I will drive," Paige said, snagging the keys from the hook by the door. "I need the practice on the hills. If I can drive in Blacksburg, I can drive anywhere."
 
 They dressed quickly, shedding the soft armor of pajamas for the functional uniform of the day: jeans and t-shirts. Freddie pulled on his orange hoodie. He hesitated for a moment, then left the zipper open. It was already eighty degrees outside, too hot for the full cocoon, but he needed the heavy fabric within arm's reach. It was his safety net.
 
@@ -4808,7 +4808,7 @@ Freddie looked out the window as they turned onto Pepper Street. The bus to Rine
 
 #### The Schematic
 
-The silver Avalon crunched into the gravel driveway of **105 Pepper Street**. The house was quiet, the air conditioner humming its steady, protective rhythm.
+The silver Avalon crunched into the gravel driveway on Pepper Street. The house was quiet, the air conditioner humming its steady, protective rhythm.
 
 They unloaded the cargo. Jessica carried the bag from the Bursar’s office (receipts and paperwork). Paige carried the Poly Passes. Freddie carried the books.
 
@@ -4874,7 +4874,7 @@ Paige leaned her head on his shoulder. "Systems go, Navigator."
 
 #### The Clear Curtain
 
-The sun had finally dipped below the ridge, leaving the sky a bruised purple over the Iron City. Inside **105 Pepper Street**, the lights were low, casting long shadows across the hallway.
+The sun had finally dipped below the ridge, leaving the sky a bruised purple over the Iron City. Inside the house on Pepper Street, the lights were low, casting long shadows across the hallway.
 
 Jessica walked into the bathroom holding a plastic package she had picked up during their supply run to **Valu-Mart**. "Upgrade time," she announced.
 
@@ -4945,7 +4945,7 @@ He let out a long, slow breath. The static in his head—the white noise of fear
 
 #### The Primary Node
 
-The silver **Horizon Avalon** idled in the driveway of 105 Pepper Street. The morning was already hot, the air shimmering above the asphalt of Pepper Plaza across the street.
+The silver Horizon Avalon idled in the driveway on Pepper Street. The morning was already hot, the air shimmering above the asphalt of Pepper Plaza across the street.
 
 Paige sat in the driver’s seat. She adjusted the rearview mirror, checking the sightlines. "Clutch in," she whispered. She shifted into Reverse. The gear stick clicked into place with mechanical precision. "We are mobile," Freddie confirmed from the passenger seat. He had his clipboard ready—a literal clipboard he had found in the Ops Room supplies. It held their insurance cards, the FERPA copies, and a list of objectives.
 
@@ -5062,7 +5062,7 @@ Here is Part 3 of the narrative, detailing the trip to Riner and the medical app
 
 #### The Maintenance Run
 
-The morning at **105 Pepper Street** started earlier than the alarm clock intended. Around 3:00 AM, Paige had woken up with the familiar, dull ache of cramps, signaling the start of her cycle—and the "Red Flag" status Freddie had learned to recognize. While the timing meant a groggy start to the day, it was actually serendipitous for the logistics of the morning.
+The morning on Pepper Street started earlier than the alarm clock intended. Around 3:00 AM, Paige had woken up with the familiar, dull ache of cramps, signaling the start of her cycle—and the "Red Flag" status Freddie had learned to recognize. While the timing meant a groggy start to the day, it was actually serendipitous for the logistics of the morning.
 
 They had 9:00 AM appointments at the clinic in Riner. Blue Ridge Transit’s **Route 8** was the only link between the two towns, a lifeline designed primarily to shuttle seniors from the rural hills into Christiansburg. It ran on a strict hourly pulse, leaving Pepper Plaza at 45 minutes past the hour.
 
@@ -5084,9 +5084,9 @@ The bus slowed, pulling over to the side of the highway at the intersection of *
 
 "Landmarks," Jessica pointed out.
 
-Directly in front of them, at **4021 Riner Rd**, stood a boxy, metal-sided building with a yellow sign: **Riner Value Mart**. It was the only retail anchor in sight.
+Directly in front of them on Riner Road stood a boxy, metal-sided building with a yellow sign: Riner Value Mart. It was the only retail anchor in sight.
 
-"Target is across the street," Jessica said, pointing to the other side of the highway. "1917 Union Valley Road."
+"Target is across the street," Jessica said, pointing to the other side of the highway. "Right on Union Valley Road."
 
 The geography here was tricky. The medical building was built directly into the steep hillside. From the bus stop at the top of the hill, they were looking at the roof and the second floor of the brick structure.
 
@@ -5126,7 +5126,7 @@ They collected Freddie from the lobby at 9:45 AM.
 
 "Systems updated," Jessica confirmed. "Let's catch the ride home."
 
-They walked back out into the humidity, trudging back *up* the steep hill to SR-8. They crossed the street to the return stop, located near **4010 Riner Rd**, just down from the intersection.
+They walked back out into the humidity, trudging back *up* the steep hill to SR-8. They crossed the street to the return stop along Riner Road, just down from the intersection.
 
 They checked the schedule posted on the sign. The bus departed from Auburn High School nearby at **10:15 AM**.
 
@@ -6130,7 +6130,7 @@ The bus slowed, turning off the road and navigating into the sawtooth bays of th
 
 They stepped off the bus. The heat in Christiansburg was just as bad as Blacksburg, but here, it was manageable because safety was visible.
 
-Directly across the street sat **105 Pepper Street**. The white siding gleamed in the sun. The windows were dark, signaling that the blackout curtains were doing their job.
+Directly across the street sat their house on Pepper Street. The white siding gleamed in the sun. The windows were dark, signaling that the blackout curtains were doing their job.
 
 "Home," Freddie said.
 
@@ -6162,7 +6162,7 @@ The heat in Christiansburg was just as aggressive as it had been in Blacksburg. 
 
 "Home," Jessica announced, pointing diagonally across the street.
 
-They waited for a break in the traffic on First Street, then crossed quickly to the sanctuary of **105 Pepper Street**.
+They waited for a break in the traffic on First Street, then crossed quickly to the sanctuary on Pepper Street.
 
 Jessica unlocked the front door. They stumbled inside, the air conditioning hitting them like a blessing. The hum of the window unit was the best sound Freddie had heard all day.
 
@@ -6427,7 +6427,7 @@ Paige walked over and sat on Freddie’s other side, completing the formation on
 
 *"You want to go where people know, people are all the same..."* the song finished on the TV. *"You want to go where everybody knows your name."*
 
-"That's what this is," Paige whispered, squeezing his arm. "Here. 105 Pepper Street. We know your name, Freddie."
+"That's what this is," Paige whispered, squeezing his arm. "Here on Pepper Street. We know your name, Freddie."
 
 "And we're always glad you came," Jessica added, poking his ribs gently.
 
@@ -6453,7 +6453,7 @@ He was in the Safe Zone. He was with the people who knew his name. And that was 
 
 #### The Final Frontier
 
-The afternoon sun was still blazing outside, but inside **105 Pepper Street**, the blackout curtains held the line. The living room was a cool, dim sanctuary illuminated only by the glow of the MagnaView TV.
+The afternoon sun was still blazing outside, but inside the house on Pepper Street, the blackout curtains held the line. The living room was a cool, dim sanctuary illuminated only by the glow of the MagnaView TV.
 
 "News block initiated," Jessica announced. "Prepare for local intake."
 
@@ -6584,7 +6584,7 @@ He watched the ship streak into warp speed, a streak of light against the darkne
 
 #### The System Architecture
 
-The double feature of *Stellar Voyage: The New Era* was halfway through its second episode. The living room at **105 Pepper Street** was pitch black, save for the cool, flickering blue light of the MagnaView screen.
+The double feature of *Stellar Voyage: The New Era* was halfway through its second episode. The living room on Pepper Street was pitch black, save for the cool, flickering blue light of the MagnaView screen.
 
 Freddie was no longer leaning back in the "Safe Harbor" position. He was sitting on the edge of the beige sofa, his body tense with focus, a notepad and pen in his hands—tools he usually reserved for lecture halls.
 
@@ -6926,7 +6926,7 @@ Paige laughed, hooking her arm through his. "Let's go, Architect."
 
 #### The Uplink
 
-The walk from **105 Pepper Street** to the **Pepper Plaza Transit Center** took exactly three minutes. It was a diagonal line across the street, a vector Freddie had already memorized.
+The walk from the house on Pepper Street to the Pepper Plaza Transit Center took exactly three minutes. It was a diagonal line across the street, a vector Freddie had already memorized.
 
 The summer heat was oppressive, shimmering off the asphalt, but Freddie didn't mind. He had the letter. He had the "Source Code" folded neatly in his back pocket, right next to his wallet.
 
@@ -7296,7 +7296,7 @@ He closed his eyes. He wasn't the Captain right now. He wasn't the Architect. He
 
 #### The Decompression Protocol
 
-The front door of **105 Pepper Street** clicked shut, and the heavy deadbolt slid home with a reassuring *thunk*.
+The front door on Pepper Street clicked shut, and the heavy deadbolt slid home with a reassuring *thunk*.
 
 The silence inside the house was absolute. The air conditioner hummed its steady, white-noise rhythm, scrubbing the humidity and the memory of the tornado siren from the air.
 
@@ -7608,7 +7608,7 @@ Both women sprang into action. They didn't need to communicate; they knew the pr
 
 Paige moved first. She scooted across the mattress and wrapped her arms around Freddie’s shaking shoulders. She didn't just hug him; she compressed him. She pulled him hard against her chest.
 
-"I've got you," Paige whispered, pressing her cheek against his wet hair. "You're here. You're at 105 Pepper. You're in the Silo."
+"I've got you," Paige whispered, pressing her cheek against his wet hair. "You're here. You're on Pepper Street. You're in the Silo."
 
 Jessica moved in from the other side. She saw the tears streaming through Freddie’s fingers. She saw the way he was recoiling from an invisible touch.
 
@@ -7705,7 +7705,7 @@ Jessica threw on her flannel pants and a tank top.
 "Ready," Freddie nodded. He felt heavy, his limbs moving through syrup, but he wasn't shaking.
 
 
-The living room of **105 Pepper Street** was filled with the soft morning light filtering through the blinds.
+The living room on Pepper Street was filled with the soft morning light filtering through the blinds.
 
 Jessica went to the kitchen to start the coffee maker. The gurgle and hiss of the machine was a familiar, grounding sound.
 
@@ -7849,7 +7849,7 @@ She reached into the bowl and picked up a single oat ring. She held it out to hi
 
 Freddie looked at the cereal. Then he looked at Jessica.
 
-To an outsider, a twenty-year-old woman hand-feeding her eighteen-year-old brother might have looked strange. But inside the walls of 105 Pepper Street, it wasn't strange. It was a manual override. It was a bypass of the broken motor functions to ensure the system received power.
+To an outsider, a twenty-year-old woman hand-feeding her eighteen-year-old brother might have looked strange. But inside the walls of the house on Pepper Street, it wasn't strange. It was a manual override. It was a bypass of the broken motor functions to ensure the system received power.
 
 Freddie opened his mouth. Jessica placed the cereal on his tongue. He crunched it slowly.
 
@@ -8525,7 +8525,7 @@ Directly ahead, at the corner of Roanoke Street and First Street—practically i
 
 In 2003, Brawny Burger was in the middle of a rebranding revolution. They were moving away from the smaller burgers of the 90s and doubling down on massive, charbroiled beasts known as the **Thick-Stack**.
 
-"Target acquired," Jessica said, pulling the Avalon into the loop. "103 Roanoke Street. It is literally walking distance from our house, but today, we drive."
+"Target acquired," Jessica said, pulling the Avalon into the loop. "Right on Roanoke Street. It is literally walking distance from our house, but today, we drive."
 
 "Efficiency," Freddie murmured, grateful he didn't have to walk the hundred yards.
 
@@ -8695,7 +8695,7 @@ Jessica adjusted the remote. The anchor appeared, looking grave and trustworthy.
 
 They settled in. The sun began to dip lower outside, casting long shadows across the table. The Great Valley Fair could keep its flashing lights and screaming crowds.
 
-Here, in the dining room of 105 Pepper Street, they had burgers, they had a plan, and they had the quiet.
+Here, in the dining room on Pepper Street, they had burgers, they had a plan, and they had the quiet.
 
 And for the Avery Unit, that was the only ride they needed.
 
@@ -9438,7 +9438,7 @@ She went back to work. She was quiet. She was helpful. She was safe. But behind 
 
 #### The Split Screen
 
-**Location:** 105 Pepper Street **Status:** Decontamination
+Back inside the house on Pepper Street, decontamination was already underway.
 
 The master bathroom was a sealed ecosystem of warmth and steam. The exhaust fan had been left off intentionally, allowing the humidity to build until the mirrors were fogged and the world outside the door felt a million miles away.
 
@@ -9502,7 +9502,7 @@ He sank back down into the water, letting it cover him up to his chin.
 
 On either side of him, his sisters watched over him. They weren't missing out on anything. They weren't sacrificing anything.
 
-In the steam-filled silence of 105 Pepper Street, the Avery Unit was exactly where it was supposed to be: together.
+In the steam-filled silence on Pepper Street, the Avery Unit was exactly where it was supposed to be: together.
 
 
 **Location:** Westgate Hall (CPI Campus Housing), Room 304 **Status:** Discharge
@@ -13482,7 +13482,7 @@ They dressed for the mission. Freddie put on his jeans and the orange hoodie—r
 
 Freddie consulted the map he had studied on the laptop.
 
-"The hotel is at 8th and Stewart," Freddie visualized. "The Pathfinder terminal is at 811 Stewart—directly across the street. The Route 510 Northbound stop is one block over. **9th Avenue and Howell Street**."
+"The hotel is at 8th and Stewart," Freddie visualized. "The Pathfinder terminal is right on Stewart Street—directly across the street. The Route 510 Northbound stop is one block over at 9th Avenue and Howell Street."
 
 "One block," Jessica nodded. "We can do one block."
 
@@ -16194,7 +16194,7 @@ He was home.
 
 #### The Invalid Variable
 
-The living room of 105 Pepper Street was a sanctuary of controlled variables. The air conditioner hummed its steady, white-noise lullaby, keeping the Virginia humidity on the other side of the vinyl siding.
+The living room on Pepper Street was a sanctuary of controlled variables. The air conditioner hummed its steady, white-noise lullaby, keeping the Virginia humidity on the other side of the vinyl siding.
 
 Freddie sat curled on the beige sofa, the weight of his Iron-Logic laptop warm against his thighs. He was deep in the code for the "Asteroid Belt" page of Project Helios, optimizing the table borders to ensure perfect alignment.
 
@@ -16514,7 +16514,7 @@ Jessica sat up straight. "She's a student, Mr. Sterling. Even if she dropped out
 
 Sterling turned to his computer. He typed for a moment, accessing the public directory database.
 
-"Found it," Sterling confirmed. "**Vanessa Lawson**. It's in the Churchland area. **\[Redacted Street\], Portsmouth, Virginia 23703**."
+"Found it," Sterling confirmed. "Vanessa Lawson. It's in the Churchland area of Portsmouth, Virginia."
 
 "Send it there," Jessica decided. "Certified Mail. Return Receipt Requested. That establishes the paper trail. If she's homeless here, her mother will get it. Her family will know we know."
 
@@ -16532,7 +16532,7 @@ He turned to his printer. He typed rapidly for five minutes. The printer whirred
 
 *Your claim of paternity is therefore biologically impossible and constitutes an attempt to defraud.*
 
-*You are hereby notified that you are forbidden from entering the property at 105 Pepper Street SE. Any further presence will be treated as criminal trespassing. Any further demands for money will be treated as extortion.*
+*You are hereby notified that you are forbidden from entering our property on Pepper Street SE. Any further presence will be treated as criminal trespassing. Any further demands for money will be treated as extortion.*
 
 Sterling signed all three copies with a flourish. He stamped them with his notary seal.
 
@@ -16622,10 +16622,7 @@ Jessica pulled out the chair opposite her and sat down. She looked relaxed, almo
 
 Vanessa hesitated. Her hand shook as she reached for the cream-colored linen paper. She tore the seal.
 
-She pulled out the documents.
-
-1.  **Cease and Desist Order:** Formally banning her from 105 Pepper Street.
-2.  **The Medical Record:** A photocopy of a lab report from 1999.
+She pulled out two documents: a formal cease-and-desist order banning her from the Pepper Street property, and a photocopy of a medical lab report from 1999.
 
 "Read the highlighted section," Jessica commanded.
 
@@ -16812,7 +16809,7 @@ They crossed **Pepper Street SE**.
 
 They walked through the small asphalt parking lot that separated their house from the commercial strip.
 
-Ahead of them, at **103 Roanoke Street**, the backlit sign of **Brawny Burger** glowed in the afternoon sun. The smell of charbroiled beef wafted across the pavement.
+Ahead of them on Roanoke Street, the backlit sign of Brawny Burger glowed in the afternoon sun. The smell of charbroiled beef wafted across the pavement.
 
 "Target acquired," Freddie said.
 
@@ -16846,7 +16843,7 @@ There was no shame. There was no fear.
 
 Vanessa was gone, alone in a library bathroom with her lies.
 
-But here, in the fortress of 105 Pepper Street, Freddie Avery was surrounded by the only thing that mattered.
+But here, in the fortress on Pepper Street, Freddie Avery was surrounded by the only thing that mattered.
 
 He closed his eyes, feeling the steady heartbeat of his sisters on either side.
 
@@ -16885,7 +16882,7 @@ Dr. Vance stepped forward. He didn't smile. He looked at Marge.
 
 "Can you tell me where we are?"
 
-"We are at 105 Pepper Street. My house. Which I am about to sell."
+"We are on Pepper Street. My house. Which I am about to sell."
 
 "And can you tell me," Dr. Vance continued, glancing at the lawyer, "why we are here? Do you understand the nature of this transaction?"
 
@@ -19550,7 +19547,7 @@ Travelers stepped around them, looking confused, but the Avery Unit didn't care.
 
 Jessica stood up after a long minute, wiping her eyes. "Okay. Logistics check. You shipped the heavy stuff?"
 
-"Twelve boxes," Sarah confirmed, standing up and brushing the terminal dust off her knees with a grimace. "UDS Ground. Tracking numbers indicate arrival at 105 Pepper yesterday."
+"Twelve boxes," Sarah confirmed, standing up and brushing the terminal dust off her knees with a grimace. "UDS Ground. Tracking numbers indicate arrival at Pepper Street yesterday."
 
 "They're in the garage," Jessica confirmed. "Waiting for deployment."
 
@@ -19574,7 +19571,7 @@ They moved as a unit toward the express bus—Jessica taking point, Paige and th
 
 The short ride from **Pepper Plaza** to the driveway took less than two minutes, but for Sarah, it was a data-gathering mission. She scanned the neighborhood through the bus window, noting the distance between houses (low density), the condition of the sidewalks (acceptable), and the proximity to the transit hub (optimal).
 
-They crossed the street. Jessica unlocked the front door of **105 Pepper Street** and held it open.
+They crossed the street. Jessica unlocked the front door on Pepper Street and held it open.
 
 "Welcome to the Base," Jessica said.
 
@@ -19894,7 +19891,7 @@ Jenna finally managed to extract herself. She stood up on the cool hardwood floo
 
 She looked at the others. They were all sitting up now, rubbing sore necks and stretching cramped backs. The "Heap" had been emotionally perfect, but ergonomically disastrous.
 
-"Why are we wearing clothes?" Jenna asked, looking down at her boxers. "It’s 105 Pepper Street. It’s the Base. Why are we roasting in pajamas?"
+"Why are we wearing clothes?" Jenna asked, looking down at her boxers. "It’s Pepper Street. It’s the Base. Why are we roasting in pajamas?"
 
 "Habit," Sarah said, buttoning her top button which had come undone. "Protocol dictates sleepwear for communal areas."
 
@@ -20833,7 +20830,7 @@ Freddie closed his eyes, letting the water run over his face.
 
 ### Part 3: The Mega-Bed Assembly
 
-The driveway of 105 Pepper Street looked like a construction staging area.
+The driveway on Pepper Street looked like a construction staging area.
 
 A large delivery truck from Comfort-Rest Mattress Depot was idling at the curb. Next to it, the family's silver Horizon Sanctuary was parked with its trunk open, filled with bags of hardware and rolls of grey carpet tiles.
 
@@ -21005,7 +21002,7 @@ Freddie looked up at the rafters. He listened to the hum of the servers and the 
 
 "Nap time," everyone agreed.
 
-And in the cool, quiet basement of 105 Pepper Street, on a bed big enough for an army but used by a family, the Avery Unit finally rested.
+And in the cool, quiet basement on Pepper Street, on a bed big enough for an army but used by a family, the Avery Unit finally rested.
 
 ## The Satellite Link
 
@@ -21224,7 +21221,7 @@ She folded one finger.
 
 She folded a second finger.
 
-"But you do not officially move your address to 105 Pepper Street until the day you turn eighteen."
+"But you do not officially move your address to Pepper Street until the day you turn eighteen."
 
 Harper slumped in her chair. "Eighteen? That’s... that’s three years! That’s forever."
 
@@ -21421,7 +21418,7 @@ The Avery Unit—now expanded to a platoon of nine—migrated back to the main l
 "Spaghetti it is," Linda declared, tossing her purse onto the counter. She washed her hands at the sink, the bracelets on her wrists jangling. "I'll make the garlic bread. You handle the noodles. Let's feed this army."
 
 
-The kitchen of 105 Pepper Street transformed into a high-efficiency production line.
+The kitchen on Pepper Street transformed into a high-efficiency production line.
 
 Jessica stood at the stove, managing two massive pots of boiling water. The steam rose around her, humid and smelling of starch.
 
@@ -21544,7 +21541,7 @@ He traced a thick red line moving east along US-11.
 
 He tapped a spot in downtown Christiansburg.
 
-"Destination: Pepper Plaza. Located at 9 Roanoke Street. It is the transit depot for the county seat."
+"Destination: Pepper Plaza, right on Roanoke Street. It is the transit depot for the county seat."
 
 He pointed out the window to the parking lot diagonally across the street.
 
@@ -21662,11 +21659,11 @@ Harper rolled over, intrigued. "Buses?"
 
 He pointed to a map labeled Regional Transit Schematic (2007).
 
-"Here is the data," Freddie began, his finger tracing a line. "We are currently at 105 Pepper Street SE. The drop zone is right there."
+"Here is the data," Freddie began, his finger tracing a line. "We are currently on Pepper Street SE. The drop zone is right there."
 
 He pointed out the window. Across the street, diagonally adjacent to their house, was a paved area with a brick shelter.
 
-"Pepper Plaza," Freddie identified. "Located at 9 Roanoke Street. It is the primary node for Christiansburg."
+"Pepper Plaza," Freddie identified. "Right on Roanoke Street. It is the primary node for Christiansburg."
 
 "That's close," Harper noted. "I could roll there in thirty seconds."
 
@@ -22509,7 +22506,7 @@ Harper smiled. She leaned back against Freddie, listening to his heartbeat.
 
 "Just us," Freddie agreed.
 
-The Base was secure. The Satellite was docked. And outside, the world could be as loud and chaotic as it wanted, because inside 105 Pepper Street, the volume was always perfect.
+The Base was secure. The Satellite was docked. And outside, the world could be as loud and chaotic as it wanted, because inside the house on Pepper Street, the volume was always perfect.
 
 ## The Closed Circuit
 

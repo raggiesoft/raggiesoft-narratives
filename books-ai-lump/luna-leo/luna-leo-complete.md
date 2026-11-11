@@ -3887,7 +3887,7 @@ And so, Saturday unfolded with a comfortable, easy rhythm. After breakfast, Leo 
 
 "That’s a great idea, Stella," Olivia said gratefully. "I was just thinking about that."
 
-The four of them bundled up and headed out. The short, familiar ten-minute walk through their Virginia Beach neighborhood led them to Olivia’s house at 1944 Livingston Oak Drive. While Olivia quickly packed an overnight bag with pajamas, a couple of changes of clothes for Sunday and for school on Monday, and her toiletries, her parents were still at work. She left them a detailed note.
+The four of them bundled up and headed out. The short, familiar ten-minute walk through their Virginia Beach neighborhood led them to Olivia’s house on Livingston Oak Drive. While Olivia quickly packed an overnight bag with pajamas, a couple of changes of clothes for Sunday and for school on Monday, and her toiletries, her parents were still at work. She left them a detailed note.
 
 Bag packed, they walked back to Stella's house. Later that evening, as Stella was tidying the living room after dinner and their viewing of "Carnival of Cosmic Creeps" (which was as delightfully terrible as Olivia remembered), she quietly picked up the spare pillow and blanket she had left out for Olivia on the sofa the previous night. With a small, knowing smile, she folded them neatly and put them away in the linen closet. It was clear to her, and to Luna, after witnessing their easy companionship all day and the profound comfort Olivia had provided Leo during the storm, that Olivia would be sharing Leo’s room, and his bed, for the remainder of the weekend. Their absolute trust in Olivia, and their deep understanding of the unique, platonic comfort and security she offered Leo, made this an unspoken, naturally accepted arrangement now. They knew Leo would feel safest and sleep best with his steadfast friend nearby.
 
@@ -7471,7 +7471,7 @@ Olivia sighed dramatically, mourning her lost tourist experience, but she dutifu
 
 With their stomachs safely full of plain hamburgers on dry buns, the pack spent the early afternoon rolling inland from the waterfront. They navigated the grid of the city, eventually arriving at the intersection of Market Street and New Montgomery. 
 
-The sprawling, beautifully landscaped public park sat right at 655 Market Street, directly across from the towering, historic facade of the Pacific Commerce Building. It was a beautiful space nestled into the Financial District, but the atmosphere was incredibly solemn. 
+The sprawling, beautifully landscaped public park sat right on Market Street, directly across from the towering, historic facade of the Pacific Commerce Building. It was a beautiful space nestled into the Financial District, but the atmosphere was incredibly solemn. 
 
 Leo rolled his manual chair along the smooth, paved paths toward a large, dark granite reflection pool in the center of the park. Two hundred names were carved into the stone rim of the water. 
 
@@ -11391,7 +11391,7 @@ She quickly finished the transfer, her movements rough and hurried, and unlocked
 
 **Date:** 2003-11-01 at 10:00 America/Los_Angeles
 
-The final stretch through Yakima and Ellensburg felt like the longest part of the journey. Darkness had fully fallen by the time the Pathfinder bus finally pulled into the main Seattle terminal located downtown at 811 Stewart St, depositing them right into the thick of evening rush hour traffic. The relief of stopping was immense, but for Leo, it was instantly replaced by a surge of ice-cold terror.
+The final stretch through Yakima and Ellensburg felt like the longest part of the journey. Darkness had fully fallen by the time the Pathfinder bus finally pulled into the main Seattle terminal located downtown on Stewart Street, depositing them right into the thick of evening rush hour traffic. The relief of stopping was immense, but for Leo, it was instantly replaced by a surge of ice-cold terror.
 
 Seattle.
 
@@ -17937,7 +17937,7 @@ The air here was different than Virginia. Even in July, the evening breeze off t
 
 They stood on the platform. The station was quiet. The commuter rush was over. To the south, the tracks disappeared into the woods. To the north, they led to the gleaming city of **Braxton**.
 
-And just two blocks away, visible through the trees, was the slate roof of **8 Ocean View Lane**.
+And just two blocks away, visible through the trees, was the slate roof of their house on Ocean View Lane.
 
 "Don't look at the house yet," Stella commanded gently. "It's empty. We can't sleep on the floor."
 
@@ -18005,7 +18005,7 @@ A man in a black robe walked out. He was in his sixties, with shock-white hair a
 
 Stella blinked. She recognized him.
 
-Earlier that morning, when they had walked past their new house to check the mailbox, this man had been in the yard of the house next door—**12 Ocean View Lane**. He had been aggressively pruning a rhododendron bush and cursing at a squirrel.
+Earlier that morning, when they had walked past their new house to check the mailbox, this man had been in the yard of the house next door on Ocean View Lane. He had been aggressively pruning a rhododendron bush and cursing at a squirrel.
 
 He sat behind the bench. He put on his reading glasses. He looked down at the file, then up at Stella.
 
@@ -18116,7 +18116,7 @@ Leo nodded. He liked that plan. It was preparation. It was engineering.
 
 "Let's go," Stella said. "Grab the tape. We're going to map the Fortress."
 
-They walked back to **8 Ocean View Lane**, leaving the movers to fight the traffic while they prepared the ground for their arrival.
+They walked back to Ocean View Lane, leaving the movers to fight the traffic while they prepared the ground for their arrival.
 
 ***
 
@@ -19364,17 +19364,9 @@ Stella held a thick accordion folder labeled **RESIDENCY EVIDENCE**. Inside were
 
 "That's us," Stella said. "Let's process the fleet."
 
-**The Drivers** Stella and Olivia stepped up to the counter. They handed over their Virginia driver's licenses. The clerk punched a hole in them—voiding their old lives—and handed them back as souvenirs.
+Stella and Olivia stepped up to the counter first and handed over their Virginia driver's licenses. The clerk punched a hole in them—voiding their old lives—and handed them back as souvenirs. They took the vision test, signed the pads, and smiled for the camera. Ten minutes later, they held temporary paper licenses, with the hard plastic Rhode Island licenses set to arrive in the mail at their new address on Ocean View Lane in Iron Point.
 
-They took the vision test. They signed the pads. They smiled for the camera.
-
-Ten minutes later, they held temporary paper licenses. The hard plastic **Rhode Island Licenses** would arrive in the mail.
-
-- **Address:** 8 Ocean View Lane, Iron Point, RI.
-
-**The Non-Drivers** Next, it was Leo, Luna, and Eleanor’s turn. They didn't need licenses, but they needed **State IDs**.
-
-- **Why:** To prove residency for the library, the ferry, and eventually, the University tuition reclassification.
+Next, it was Leo, Luna, and Eleanor’s turn. They didn't need driver's licenses, but they needed state identification cards to prove residency for the library, the ferry, and eventually the university tuition reclassification.
 
 Leo rolled up to the camera. He hit the **ELEVATE** button on his Titan X-Treme, raising himself to lens height. He didn't smile; he gave a cool, neutral expression.
 
@@ -19982,7 +19974,7 @@ He looked at the back of his chair again. He visualized the frame rails. He ment
 He started driving again, matching Olivia’s pace. He wasn't just rolling home; he was designing.
 
 
-They turned into the driveway of **8 Ocean View Lane**. They trudged up the ramp. Stella unlocked the front door.
+They turned into the driveway on Ocean View Lane. They trudged up the ramp. Stella unlocked the front door.
 
 They dumped the books on the kitchen table with a collective groan of relief.
 
@@ -22345,7 +22337,7 @@ He walked over to his nephew. He gestured to the document.
 
 Officer Miller keyed his mic.
 
-"Dispatch, I am looking at a sworn affidavit signed by Sarah Halloway, witnessed by myself and Judge Silas Miller. Quote: 'I am of sound mind and legal age. I am residing at 8 Ocean View Lane of my own free will. I am severing contact with Robert Halloway due to a history of electronic stalking and emotional abuse. Do not release my location.' End quote."
+"Dispatch, I am looking at a sworn affidavit signed by Sarah Halloway, witnessed by myself and Judge Silas Miller. Quote: 'I am of sound mind and legal age. I am residing on Ocean View Lane of my own free will. I am severing contact with Robert Halloway due to a history of electronic stalking and emotional abuse. Do not release my location.' End quote."
 
 There was a long pause on the radio.
 
@@ -22939,7 +22931,7 @@ RHODE ISLAND DRIVER'S LICENSE
 
 NAME: PORTER, MAYA STEELE
 
-ADDRESS: 8 Ocean View LN, IRON POINT, RI 02840
+ADDRESS: OCEAN VIEW LN, IRON POINT, RI
 
 DOB: 04/12/1988
 
