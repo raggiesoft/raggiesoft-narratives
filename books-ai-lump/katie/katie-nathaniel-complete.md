@@ -9687,6 +9687,236 @@ I looked over at Sam, Mandy, and Sarah chatting happily with the CVTA operator b
 
 "It feels like home, Dad," I smiled, unlocking my joystick as Nate and I rolled side by side toward the open ramp of the waiting CVTA bus with our cross-honored passes in hand. "Come on—let's tap our passes before we miss the transfer."
 
+## Street Clothes on the Route 250 Connector, Unannounced in Fishersville, & Calling the Governor
+
+### ARTS Train 51 to Staunton, Street Clothes on the Route 250 Connector, & Calling Governor Langford From Fishersville
+
+**Date:** 2027-07-21 at 11:39 America/New_York
+
+![Inside the 1970s red-brick and terrazzo hallway of the Bates-Harding Building at Roosevelt Rehabilitation Center in July 2027, 42-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs wearing casual polos, t-shirts, and jeans as an icy, determined Katie speaks directly to Governor Rebecca Langford on speakerphone while Director Evelyn Cross and her panicked staff look on beside a stack of yellow Level 2 passes.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2027_rrc_unannounced_visit_calling_governor_katie_nate.jpg)
+
+#### Wednesday, July 21, 2027, 11:39 AM — ARTS Train 51 Out of Union Station & Eighty-Four Pages of Bureaucratic Smoke
+
+![Inside the 1970s red-brick and terrazzo hallway of the Bates-Harding Building at Roosevelt Rehabilitation Center in July 2027, 42-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs wearing casual polos, t-shirts, and jeans as an icy, determined Katie speaks directly to Governor Rebecca Langford on speakerphone while Director Evelyn Cross and her panicked staff look on beside a stack of yellow Level 2 passes.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2027_rrc_unannounced_visit_calling_governor_katie_nate.jpg)
+
+"Watch the yellow lip plate there, folks—you're clear right into the coach vestibule," the uniformed ARTS conductor called out over the low hum of the locomotive on Track 24 at Washington Union Station, unlatching the safety chain on the blue hand-cranked mobile wheelchair lift at eleven-thirty-two on Wednesday morning so Katie and I could glide our SwiftChairs one behind the other into the accessible end of the *Cardinal*.
+
+Neither the conductor nor a single passenger boarding westbound Train 51 gave the two of us a second glance, which was the entire point.
+
+Nine days after Inspector Marcus Vance had stood down our round-the-clock Capitol Police protective detail, Katie and I were traveling the way we had traveled our whole adult lives—just the two of us, side by side, with zero advance staff, zero press advisories, and not a suit jacket or Senate lapel pin in sight. Katie wore a plain navy cotton V-neck polo shirt, dark jeans, and white sneakers; I wore a heather-grey crew-neck t-shirt, jeans, and canvas sneakers. Clipped to the rear uprights of our SwiftChairs were our two everyday daypacks, and strapped snug across the luggage rack behind my seatback was a dark-green compression sack holding our rolled flannel-lined double sleeping bag for tonight's hotel room in Staunton.
+
+At eleven-thirty-nine sharp, the twin air horns sounded softly beneath the concrete deck, the couplers gave a gentle metallic tug, and Train 51 eased southward through the First Street Tunnel toward the Long Bridge across the Potomac River.
+
+Once the train cleared our weekday stop in Alexandria and picked up speed past Manassas toward the Piedmont foothills, I reached into my backpack, pulled out an eighty-four-page glossy white comb-bound report stamped with the seal of the Virginia Department for Aging and Rehabilitative Services, and laid it flat across the wide drop-down accessible table in front of our locked wheelchairs.
+
+"Listen to how Commissioner Sterling and Director Cross phrased Section Three on page twenty-nine," I murmured, angling the pages so Katie could read right alongside me without anyone two rows ahead overhearing. "In bold type at the top of the page, they certify to the Senate Appropriations Subcommittee that all five of your February seventeenth mandates have reached *Substantial Phase-One Implementation* ahead of next Thursday's full fiscal year 2028 markup, and formally ask your office to release the eighteen-point-five-million-dollar hold."
+
+Katie rested her chin on two fingers, her blue eyes scanning down the dense paragraphs below the heading. "Now read the actual sentences underneath the bold header, Nate."
+
+"On wheelchair bodily autonomy and client handbooks," I read quietly, tracing the lines with my index finger, "*Roosevelt Rehabilitation Center has convened an interdisciplinary Stakeholder Policy Revision Working Group scheduled to circulate draft handbook language for administrative comment during the first quarter of 2028.* On ending mandatory two-week manual-shop Vocational Evaluation tours for college-degreed students and unlocking the developer workstations in the Bates-Harding computer lab: *DARS Vocational Services has initiated a pilot waiver scoping study, and VITA has logged an Enterprise Architecture Exception Request pending quarterly security board review.* And on abolishing yellow Level 2 off-campus passes and adult sibling separation contracts in Barton Hall: *Residential Operations is evaluating modernized community-sign-out workflows.*"
+
+Katie closed the white plastic comb binder with a crisp, quiet snap.
+
+"Five months, Nate," she said softly, looking out the wide coach window as green Piedmont pastures flashed past the glass. "Five months since Marcus Sterling and Evelyn Cross sat behind those microphones in Dirksen Room 124 and promised under oath—in front of Natalie and Mrs. Brooks—that they would carry out every single one of those five reforms. The only items they actually finished were turning Christopher Vance's unredacted 2007 files over to the Virginia State Police and expunging Natalie's falsified Status 28 code, because state detectives and Chairman Harrington had a Friday five-o'clock clock hanging over their heads. Everything else—everything affecting the disabled adults sleeping in Barton Hall right now—they buried in fake subcommittees, hoping nobody in Washington would check before next Thursday's markup."
+
+"And if Sarah or Sam had called Richmond yesterday to schedule an official Senate oversight visit," I said, resting my right hand over Katie's across the two-inch gap between our armrests, "Sterling and Cross would have spent forty-eight hours hiding every yellow pass clipboard in a locked filing cabinet, taping temporary signs on the walls, parking two VITA technicians in the computer lab with unlocked loaner laptops, and lining up five rehearsed administrators at the front doors of Barton Hall."
+
+"Which is why nobody in Richmond, nobody at DARS, and nobody in Fishersville knows we got on this train," Katie replied evenly, lacing her fingers through mine. "And why coming down a day early on Wednesday afternoon was the only way to do it right. If you try to ride down from Washington on the morning of an inspection, Train 51 doesn't pull into Staunton until past three-thirty in the afternoon, when the Bates-Harding classrooms are already letting out for the day. Sleeping over in Staunton tonight puts us on the eight-thirty Route 250 Connector bus tomorrow morning right alongside the morning commuters—rolling through the front doors at eight-fifty-two like any other pair of forty-two-year-old wheelchair riders in jeans."
+
+All afternoon, as the *Cardinal* wound past Culpeper, Orange, and Charlottesville before climbing the steep eastern grade of Afton Mountain and plunging through the dark stone bore of the Blue Ridge Tunnel into the Shenandoah Valley, Katie and I worked quietly side by side on my MagnaBook Pro—cross-checking every page of DARS's glossy compliance binder against the verbatim *Congressional Record* transcript from February seventeenth.
+
+At three-thirty-four in the afternoon, the station brakes hissed gently beside the historic red-brick platform at Staunton Station in the Wharf district, one short block uphill from the Staunton Hub on Lewis Street. After the station agent cranked us down the mobile lift onto the warm sunlit bricks, Katie and I rolled across the quiet cobblestone crossing into the historic brick hotel beside the tracks, checked into our ground-floor accessible room under my credit card without mentioning the United States Senate once, shared a quiet supper of grilled chicken sandwiches and two ice-cold bottles of ginger ale, and unrolled our flannel-lined double sleeping bag inside the wide, carpeted ground-floor coat closet. Curling up side by side in the dark with Katie's head tucked under my chin and our two SwiftChairs plugged into the wall outlet outside the closet door, we slept nine uninterrupted hours before the morning bus.
+
+***
+
+#### Thursday, July 22, 2027, 8:30 AM — Fifty Cents on the Route 250 Connector & Yellow Paper Passes in Real Life
+
+The air suspension of the white-and-green Shenandoah Valley Transit cutaway coach knelt with a soft pneumatic sigh against the concrete curb of the Staunton Hub on Lewis Street at eight-twenty-six on Thursday morning, and the driver stepped out in his short-sleeved uniform shirt to unfold the front wheelchair ramp.
+
+"Morning, y'all—heading out toward Fishersville, the rehab center, or Waynesboro?" the operator asked cheerfully as Katie and I rolled up the aluminum incline one after the other.
+
+"Roosevelt Avenue in Fishersville, please," Katie smiled, dropping a single shiny quarter into the farebox coin slot for the twenty-five-cent half-fare disability rate on the fifty-cent valley route right before I dropped my own quarter in behind her.
+
+Once the operator clicked the four retracting SafeLock floor straps onto our black SwiftChair frames and pulled away from Lewis Street at eight-thirty sharp onto U.S. Route 250 East, we didn't even have to wait until we reached campus to find out how much of Commissioner Sterling's eighty-four-page binder was fiction.
+
+Sitting directly across the center aisle from our wheelchairs were two twenty-something Roosevelt Rehabilitation Center residents riding back from an early-morning pharmacy run in downtown Staunton: a twenty-three-year-old woman named Kayla with dark curly hair and silver forearm crutches propped neatly between her knees, and a twenty-four-year-old guy named Trevor wearing a faded Blue Ridge Community College sweatshirt and carrying a sketch tube across his lap.
+
+Pinned to the canvas strap of Kayla's crossbody bag—flapping lightly in the cool air-conditioning vent every time the bus crested a rolling valley hill—was a crisp, freshly signed, canary-yellow rectangular slip of cardstock stamped across the top in heavy black ink: *BARTON HALL — LEVEL 2 OFF-CAMPUS HALL PASS*.
+
+Beside me, Katie didn't stiffen or stare; she just gave my pinky finger the tiniest tap across our inner armrests and smiled warmly across the aisle when Kayla glanced over at our powerchairs.
+
+"Those compact black chairs turn way tighter than the loaner clunkers they've got down at the center," Kayla remarked appreciatively, nodding toward our SwiftChair joysticks. "Are you two heading in for an intake tour at Fishersville today?"
+
+"Just stopping by campus this morning to check on a few things," Katie said gently, without a single untruth. "My brother Nate and I actually spent twelve days in Barton Hall twenty years ago before we went home and started our own software business. Don't tell me they're still making grown adults carry signed yellow paper Hall Passes just to ride a fifty-cent bus into Staunton."
+
+Trevor let out a bark of dry, incredulous laughter while Kayla rolled her eyes toward the ceiling of the bus.
+
+"Not only do we still have to beg the morning residential tech at the Barton Hall desk to sign a yellow Level 2 slip before we walk out the glass doors," Kayla said, flicking the corner of the canary-yellow paper with her thumb, "if this bus hits a red light by the hospital and we scan back in five minutes past nine o'clock, the dorm supervisor writes us up and threatens to drop us down to a Level 1 dorm restriction where you aren't allowed past the courtyard benches for two weeks."
+
+"Wait until you hear the best part," Trevor chimed in, leaning forward on his elbows as the green pastures of Augusta County rolled past the windows. "Back in February, some U.S. Senator up in Washington apparently tore the DARS bosses a new one on television over how Fishersville treats disabled students—grabbing wheelchair handles, locking down the computers, forcing college graduates into manual trade shops, all of it. Everybody in the dorms watched the clip on their phones and thought things were finally going to change."
+
+"And did anything change?" I asked evenly.
+
+"Not a thing," Trevor snorted. "I graduated in May with an Associate of Applied Science in graphic and web design—three-point-eight GPA, full portfolio—and enrolled here strictly for an assistive-screen-magnifier accommodation setup and advanced front-end certification. Instead, Vocational Evaluation in the Bates-Harding Building forced me to spend all last week sorting lug nuts in the auto bay and folding hospital corners in the nursing lab. Yesterday afternoon—literally at three-fifteen yesterday—my evaluator looked across her desk at my college transcript and told me that if coding stylesheets strained my eyes too much, the center still has its wonderful retail-readiness partnership down the road in Waynesboro training clients to stand by the automatic doors as a ValueMart greeter."
+
+Across the two inches between our wheelchairs, I felt the muscles in Katie's forearm go dead still against her armrest, though her voice stayed warm and steady for the two students across the aisle.
+
+"What about the Web and Software classroom in Bates-Harding?" I asked. "Did VITA finally unlock local developer permissions on the state desktop computers?"
+
+"Are you kidding?" Trevor laughed, shaking his head. "My roommate's in that class right now. Every student still has to haul their own personal laptop from home and daisy-chain orange surge strips across the floor because VITA still has every state desktop locked down tighter than a bank vault. When the instructor asked administration about it on Monday, the Assistant Director told him Richmond put all of the Senator's Washington demands under a *2028 Strategic Transition Task Force* until after Congress passes their budget next week."
+
+"And heaven help anybody in a wheelchair who tells staff not to shove their chair," Kayla added quietly as the green highway sign for Fishersville and Woodrow Wilson Avenue came into view ahead. "Last Thursday at lunch, an evaluation aide walked right up behind our friend Marcus in the Bates-Harding lobby, grabbed his push-handles without asking, and yanked him backward out of line so a tour group could pass. When Marcus told him to take his hands off his chair, the aide threatened him with an aggression write-up and pointed right at the old 2019 handbook on the counter."
+
+At eight-fifty-two in the morning, the automated chime dinged above the windshield, and the SVT Route 250 Connector pulled smoothly onto the concrete bus pad along Roosevelt Avenue outside the sprawling red-brick campus of Roosevelt Rehabilitation Center.
+
+"Thanks for the ride—and good luck in class today, Kayla and Trevor," Katie said warmly as the driver unclipped our SafeLock straps and lowered the ramp onto the sunlit sidewalk.
+
+"Nice meeting you guys!" Kayla smiled, swinging her crutches easily up the paved walkway ahead of us toward the dormitories without the faintest idea that she had just handed a live field audit directly to the sitting United States Senator holding an eighteen-point-five-million-dollar padlock over the entire campus.
+
+Side by side in our jeans and casual shirts, Katie and I steered our SwiftChairs up the gentle asphalt path beneath the tall July oaks, rolling first through the automatic sliding glass doors of Barton Hall.
+
+Twenty years had barely touched the cinder-block walls or the buzzing recessed fluorescent troffers overhead. Right there on the scarred laminate counter beside the residential reception window sat a tall, freshly replenished stack of blue-covered client handbooks stamped *REVISED OCTOBER 2019* across the bottom corner—not an addendum slip, sticker, or wheelchair bodily-autonomy policy anywhere in sight—flanked by two metal clipboards thick with blank canary-yellow *Level 2 Off-Campus Hall Pass* pads and a laminated sign taped to the glass reminding staff that opposite-gender wing restrictions and eleven-o'clock lockouts were strictly enforced without exception for adult relatives.
+
+Without announcing ourselves at the dorm window, we followed the enclosed climate-controlled walkway straight over to the Bates-Harding Building, our rubber drive tires humming quietly across the familiar green-and-white terrazzo floor.
+
+Halfway down the vocational wing, we slowed beside the wire-reinforced observation glass of the Web and Software Applications classroom. Inside, seven disabled adult students sat hunched around three narrow folding tables with personal laptops plugged into tangled orange extension cords across the carpet—while along the perimeter wall, twelve state-issued desktop towers sat dark and untouched beneath blue plastic VITA asset tags.
+
+"Excuse me—can I help the two of you?"
+
+Katie and I turned our chairs smoothly toward the open doorway of the Vocational Evaluation administrative reception counter ten feet down the hall. Stepping briskly out onto the terrazzo floor with a heavy aluminum clipboard tucked under his arm was a burly, ruddy-faced man in his late forties wearing a crisp light-grey button-down shirt and a plastic badge reading *GREG SAUNDERS — ASSISTANT DIRECTOR, VOCATIONAL & RESIDENTIAL OPERATIONS*.
+
+Looking down at our faded jeans, sneakers, and canvas daypacks—with zero visitor lanyards and zero suits—Saunders didn't ask who we were. He immediately dropped his voice into the syrupy, sing-song institutional cadence reserved for people he assumed couldn't read a hallway sign on their own.
+
+"Whoa there, folks—morning Vocational Evaluation intake started down in Room 104 at nine o'clock sharp, and prospective clients aren't permitted to wander around the administrative corridor without a counselor escort," Saunders said loudly, taking three long strides straight toward the back of Katie's SwiftChair and extending his right hand directly toward her rear upright frame to turn her wheelchair around. "Let's get the two of you spun back around toward Intake right now—"
+
+***
+
+#### Thursday, July 22, 2027, 10:05 AM — Identifying Herself, Panic Calls to Richmond, & Calling Governor Langford Directly
+
+Katie didn't flinch. With a millimeter flick of her right thumb against her joystick, she pivoted her SwiftChair six inches clear before Saunders's fingers could touch her frame, locking her electromagnetic brakes with a sharp metallic click while I angled my wheelchair immediately beside her left armrest.
+
+"Do not touch my wheelchair," Katie said. Her voice wasn't loud, and it wasn't trembling; it carried the quiet, level chill of surgical steel.
+
+Assistant Director Saunders stopped short, his cheeks flushing dark red at being told *no* in his own hallway by a woman in jeans. Instantly—like muscle memory frozen in amber since March of 2007—he puffed out his chest and slapped his pen against his aluminum clipboard.
+
+"Excuse me, ma'am," Saunders snapped, his syrupy tone vanishing on the spot. "I am Assistant Director Greg Saunders, and taking a combative, uncooperative tone with staff is a real fast way to earn a behavioral write-up before you even get assigned a bed in Barton Hall. Who is your referring DARS counselor, and what are your names?"
+
+ Ten feet down the terrazzo corridor, the heavy oak door of the Director's Corner Suite clicked open.
+
+Walking out into the hallway with a porcelain coffee mug in one hand and a copy of Tuesday's white spiral-bound Senate compliance binder tucked under her other arm was Director Evelyn Cross, chatting brightly over her shoulder to her compliance coordinator about how Washington should be clearing their appropriation hold before next week's markup.
+
+"As soon as Dirksen signs off on the Phase-One letter tomorrow, we can—"
+
+Dr. Cross looked up, saw the two blonde forty-two-year-old twins sitting side by side in matching black motorized SwiftChairs in the middle of her terrazzo lobby, and froze dead in her tracks.
+
+Her eyes darted from my face, to Katie's face, to Assistant Director Saunders looming three feet from Katie's armrests with his pen poised angrily over a behavioral write-up form.
+
+Calmly—identifying herself only now that it was needed—Katie slid two fingers into the front pocket of her dark jeans, drew out her slim black leather United States Senate identification credential embossed with the gold Great Seal of the United States, and flipped it open at chest height toward Saunders before looking past him straight into Evelyn Cross's pale face.
+
+"I don't have a referring DARS counselor, Mr. Saunders," Katie said evenly. "I'm United States Senator Katie Prairie, and this is my brother Nathaniel. Good morning, Dr. Cross."
+
+For two full seconds, nobody in the Bates-Harding hallway breathed.
+
+Assistant Director Saunders stared down at the gold Senate seal and holographic federal portrait in Katie's palm as if she had just pulled a live grenade out of her pocket. Every drop of blood drained from his ruddy face; his aluminum clipboard slipped halfway down his forearm before he caught it clumsily against his ribs, his mouth opening and closing without a single syllable coming out as his brain processed that ten seconds earlier he had tried to grab the wheelchair of the sitting United States Senator from Virginia and threatened her with a Barton Hall behavioral write-up.
+
+Beside the corner suite door, Dr. Cross's coffee mug rattled audibly against her saucer as she hastily set it down on the reception ledge.
+
+"S-Senator Prairie!" Dr. Cross gasped, her voice pitching an octave high as sheer institutional terror washed over the corridor. Behind her, inside the glass-walled administrative suite, her deputy director and compliance officer took one look through the glass at Katie and me sitting ten feet from the locked VITA lab and the stack of canary-yellow passes on the counter, spun on their heels, and snatched up both their desk receivers and their personal mPhones at the exact same time.
+
+Even through the open office doorway, we could hear the full-blown pandemonium erupting on the lines to Richmond.
+
+"Get Commissioner Sterling out of his ten o'clock staff meeting right this second—I don't care who's in the room with him, interrupt him!" the deputy director hissed frantically into his handset, pacing behind the reception glass with his free hand pressed to his forehead. "Senator Prairie and her brother are physically on campus in Fishersville right now! No, there was no Capitol Police detail and no call from Washington—they rode in on the bus in street clothes! Tell the Commissioner she already walked through Barton Hall and Bates-Harding!"
+
+Out on the terrazzo floor, Dr. Cross hurried three steps forward, wringing both hands together in front of her navy blazer as she desperately tried to talk over the sound of her own staff panic-dialing DARS headquarters in Richmond.
+
+"Senator Prairie—Mr. Prairie—if your scheduler in Washington had only let Richmond know you were planning to travel to Augusta County, Commissioner Sterling and I would have driven out to meet your train and arranged a full executive briefing room!" Cross stammered breathlessly. "What you're seeing this morning is simply the transitional period while our working groups finalize the language from Tuesday's Phase-One report—VITA has our exception ticket in the queue for next quarter, and our handbook committee—"
+
+"Stop talking, Dr. Cross," Katie said quietly.
+
+She didn't raise her voice by a single decibel, yet the sheer, ice-cold fury behind those four words silenced the entire hallway. Even the compliance coordinator behind the reception counter lowered her phone receiver an inch from her ear.
+
+Sitting straight in her SwiftChair in her navy cotton polo and jeans while I flipped open my MagnaBook Pro across my knees to our timestamped morning log, Katie looked straight up at the Director of Roosevelt Rehabilitation Center.
+
+"Forty-eight hours ago, you and Commissioner Sterling delivered an eighty-four-page signed certification to my office on the Senate Appropriations Committee claiming that Phase One of all five statutory reforms you promised under oath on February seventeenth was substantially implemented—asking me to release eighteen and a half million federal tax dollars in next Thursday's markup," Katie said, every word landing like cold iron on the terrazzo tile. "Yesterday afternoon, Nate and I rode ARTS Train 51 down to Staunton in our regular clothes, stayed overnight, and paid twenty-five cents apiece to ride the eight-thirty Shenandoah Valley Transit Route 250 Connector bus onto Roosevelt Avenue this morning. Do you want to know what we found in seventy minutes without your rehearsed briefing room?"
+
+Dr. Cross swallowed hard, unable to speak.
+
+"We sat across the aisle on the bus from a twenty-three-year-old woman on crutches with a freshly signed canary-yellow Barton Hall Level 2 Hall Pass pinned to her bag who gets threatened with a two-week Level 1 lock-in if her bus hits a red light," Katie said evenly. "We met a twenty-four-year-old honors graduate with an accredited associate degree in web design whom your Vocational Evaluation staff forced to sort lug nuts in the auto shop all last week before pitching him—at three-fifteen yesterday afternoon—on standing at the doors of the Waynesboro ValueMart as a greeter. We rolled through Barton Hall and saw stacks of unamended 2019 handbooks and eleven-o'clock family lockout signs sitting right on your front counter. We looked through the glass twenty feet behind you at seven students coding on personal laptops chained to floor extension cords while twelve VITA-locked state desktops gather dust against the wall because your staff told the instructor our Senate mandates were parked in a *2028 task force* until Congress passed your budget. And two minutes ago, your Assistant Director of Operations walked up behind my wheelchair in this hallway, tried to grab my push-handles without my consent, and threatened to write me up as combative when I told him not to touch my chair."
+
+Behind Dr. Cross, Assistant Director Saunders looked as if he wished the terrazzo floor would crack open and swallow him into the basement. Inside the glass office, the deputy director whispered urgently toward the doorway, holding his palm over his mouthpiece: "Dr. Cross—DARS Richmond has Commissioner Sterling's chief deputy on Line Two asking what he should tell the Secretary—"
+
+"Tell your staff they can hang up on DARS, Dr. Cross," Katie said flatly, sliding her dark mPhone out of her jeans pocket. "If Commissioner Sterling thinks five months of foot-dragging and a dishonest binder to the United States Senate is how state agencies treat an Appropriations hold, Nate and I aren't wasting another breath on middle management."
+
+Katie didn't open the number for DARS headquarters, and she didn't dial the agency liaison office.
+
+During her final year in the Senate of Virginia in Richmond—and throughout every mile of the 2026 statewide campaign after Virginia voters elected fellow Democrat Rebecca Langford to the Governor's Mansion—Katie and Governor Langford had forged a direct, zero-drama working partnership built on a simple rule: neither woman ever wasted the other's time with performative politics, so whenever Katie dialed Rebecca Langford's personal cell directly, both of them knew it was time to talk business.
+
+Right there in the middle of the Bates-Harding corridor, in front of Dr. Cross, Assistant Director Saunders, and the frozen administrative staff behind the counter, Katie tapped *Rebecca Langford* on her screen and pressed the speakerphone icon.
+
+The line rang once. Halfway through the second ring, it clicked open.
+
+"Katie! Good morning," Governor Rebecca Langford's crisp, warm voice filled the quiet Fishersville hallway. "Tell me you and Nate aren't already buried in Appropriations markup spreadsheets before ten-thirty on a Thursday."
+
+"Good morning, Rebecca," Katie said clearly, holding the phone steady in her palm while I rested my left hand briefly against her wrist and kept our audit notes open on my screen. "Nate is right here beside me, and I want to let you know up front that I have you on speakerphone—because Nate and I aren't in Washington. Yesterday afternoon we took the ARTS train down to Staunton, and at eight-fifty-two this morning we rolled off the Route 250 Connector bus in street clothes into the Bates-Harding Building at Roosevelt Rehabilitation Center in Fishersville, where Dr. Evelyn Cross, her Assistant Director Greg Saunders, and her administrative staff are standing in front of us right now."
+
+Over the speaker grille, the shift in atmospheric pressure from Richmond was instantaneous. Every trace of casual morning small talk vanished from the Governor's voice on the spot, replaced by the razor-sharp executive command of a former federal national-security investigator who knew Katie Prairie never cried wolf.
+
+"Hold one second while I shut my office door, Katie—Arthur Lawrence just stepped into the room with me too," Governor Langford said briskly, the heavy latch of the third-floor Governor's Office door clicking audibly over the line. "Go ahead. Commissioner Sterling sent Arthur and the Secretary a signed memo on Tuesday afternoon swearing up and down that Fishersville had completed Phase One of every single mandate from your February hearing ahead of next week's markup."
+
+"Commissioner Sterling's memo lied to your office and lied to the Senate Appropriations Committee, Rebecca," Katie replied evenly.
+
+Without raising her voice or adding a single word of embellishment, Katie walked the Governor and Chief of Staff Arthur Lawrence through every fact we had verified since stepping onto the bus at the Staunton Hub—while I read out the exact form titles, the October 2019 handbook revision stamp on the Barton Hall counter, the twelve dark VITA-tagged desktop towers sitting twenty feet down the hall, Trevor's three-fifteen Wednesday ValueMart greeter pitch, and Assistant Director Saunders reaching for the back of Katie's SwiftChair three minutes earlier while threatening a behavioral write-up.
+
+Inside the administrative suite behind Dr. Cross, the deputy director slowly lowered the ringing Richmond DARS handset back onto its cradle without saying a word. There was no point begging DARS headquarters for cover when the Governor of the Commonwealth was already standing in the hallway over a four-inch speaker.
+
+When I finished reading the last timestamp from my laptop screen, three seconds of Arctic silence came through the line from Capitol Square.
+
+"Dr. Cross," Governor Langford's voice cut into the Bates-Harding lobby like a gavel strike. "I assume you can hear me clearly?"
+
+Dr. Cross swallowed visibly, staring down at Katie's speakerphone as her hands trembled against the seam of her jacket. "Y-yes, Governor Langford. I'm right here."
+
+"Listen to me very carefully, Dr. Cross," the Governor said, her tone brisk, clinical, and utterly implacable. "Your office can stop calling DARS headquarters in Richmond, because Arthur Lawrence just summoned Commissioner Marcus Sterling and the Secretary of Health and Human Resources across Capitol Square to my office in ten minutes to explain to me face-to-face why a state agency under my administration submitted a false compliance certification to Virginia's United States Senator—and anyone whose signature is on a false representation to Congress will have their resignation on my desk before five o'clock this afternoon."
+
+Beside the reception counter, Dr. Cross went ashen, bracing two fingers against the wooden ledge.
+
+"Second," Governor Langford continued without missing a beat, "Arthur Lawrence, the State Inspector General, and the Chief Information Officer of VITA are walking out to a state vehicle in Richmond within thirty minutes and driving straight up Interstate 64 to Fishersville. They will be walking through the front doors of Bates-Harding before one-thirty this afternoon. Before they arrive, you will personally pull every unamended 2019 handbook, every canary-yellow Level 2 Hall Pass pad, and every adult sibling wing-lockout notice off every counter on that campus. By noon tomorrow, an emergency executive directive under my signature will permanently abolish off-campus paper pass restrictions for adult residents, end mandatory manual-shop Vocational Evaluation rotations and retail-greeter referrals for college-degreed or credentialed clients, mandate immediate signed compliance with wheelchair bodily autonomy by every employee on the Fishersville payroll, and keep VITA's engineering strike team physically on site in that classroom until every workstation is unlocked on an isolated developer network. Do you understand me, Dr. Cross?"
+
+"Yes, Governor," Dr. Cross whispered hoarsely. "We will start pulling the materials immediately."
+
+"Katie, Nate," Governor Langford said, her voice warming with genuine steel-forged respect as she addressed the two of us directly, "thank you for calling me straight away instead of letting Sterling's binder sit until markup. Arthur and the Inspector General will send a full field audit readout directly to Room 511 tonight."
+
+"Thank you, Rebecca—we appreciate you moving on it this fast," Katie said, looking straight across the hallway at Dr. Cross and Assistant Director Saunders so everyone in Fishersville heard the federal bottom line in plain English at the exact same time Richmond did. "And so there is zero confusion between Richmond, Fishersville, and Washington about what proof my office needs before I lift my hold on that eighteen-point-five-million-dollar line item: I do not lift Appropriations holds for task forces, draft memos, VITA tickets, or promises. My hold remains locked next Thursday in Subcommittee markup, and it stays locked through full Committee conference until the Virginia Office of the State Inspector General and federal Rehabilitation Services Administration auditors certify to my office in writing—backed by live unlocked classroom developer logins, published updated handbooks, signed employee training rosters, electronic keycard security logs, and confidential, unmonitored interviews with current Barton Hall residents—that all five reforms are operating in real life every single day when nobody thinks a Senator is watching."
+
+Katie paused for half a beat, glancing down at the remaining quarters tucked inside the zippered pouch of her backpack.
+
+"And Rebecca?" Katie added calmly. "Tell whoever is sitting in the Director's chair next month not to bother staging a VIP tour for us—because Nate and I still have quarters left in our pockets, and we know the Route 250 bus schedule by heart."
+
+Over the speakerphone from Richmond, I heard Arthur Lawrence let out a quiet, unmistakable breath of admiration, while Governor Langford answered without hesitation:
+
+"Loud and clear, Senator. Have a safe train ride back to Washington with Nate—I'll handle Fishersville and Richmond from here."
+
+***
+
+#### Thursday, July 22, 2027, 1:18 PM — Westbound on the 250 Connector & ARTS Train 50 Home
+
+Katie tapped the red button to end the call, slipped her mPhone and her Senate credential neatly back into the front pocket of her jeans, and unlocked the brakes on her SwiftChair at the exact same second I closed my MagnaBook Pro and unlocked mine.
+
+"You folks have a very busy afternoon ahead of you before Richmond pulls into the parking lot at one-thirty," I said mildly to the silent hallway as Dr. Cross and Assistant Director Saunders stood frozen beside the reception counter. "Katie and I won't keep you—we've got a one-twenty bus to catch out on Roosevelt Avenue."
+
+Leaving the entire administrative wing scrambling behind us to clear out twenty years of institutional inertia before the Governor's Chief of Staff and the State Inspector General rolled off Interstate 64, Katie and I steered our SwiftChairs side by side out the sliding glass doors into the warm Shenandoah Valley sunshine.
+
+We stopped for a quiet lunch of turkey club sandwiches and iced tea at the little roadside cafe down the sidewalk near the hospital entrance, rolled over to the concrete bus pad on Roosevelt Avenue with five minutes to spare, and dropped two more quarters into the farebox when the westbound SVT Route 250 Connector pulled up at one-twenty sharp.
+
+By one-thirty-eight, we were rolling off the bus ramp back at the Staunton Hub on Lewis Street. After picking up our green sleeping-bag compression sack from the hotel bell desk across the cobblestone wharf and strapping it back behind my seat, we rolled onto the red-brick platform at Staunton Station just as the gleaming silver-and-blue cars of eastbound ARTS Train 50 glided around the curve beneath the Sears Hill pedestrian bridge at two-twenty-eight.
+
+Five minutes later, once the conductor cranked us up the mobile lift into the cool, quiet coach vestibule and Train 50 eased eastward out of Staunton toward the Blue Ridge Mountains, Katie locked her brakes right beside mine, leaned her shoulder gently against my arm, and laced her fingers through my left hand across our armrests.
+
+"Worth coming down the night before?" I asked softly, watching the green valley farms slip past the train window.
+
+Katie smiled, resting her head briefly against my shoulder as the rhythm of the welded rail hummed beneath our wheels all the way back toward Alexandria.
+
+"Every single quarter, Nate," my twin sister murmured. "Every single quarter."
+
 ## Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop
 
 ### Part 1: The Biggest Prize in the Primary: Sam, Mandy, & Sarah's Bus-Loop Plan & Stop #0812
