@@ -8032,7 +8032,7 @@ A half-beat later, retiring Senator Martin Warren stepped over, clearing his thr
 
 Beside me, Dad had to disguise a grin behind a cough as Gregory's ears turned crimson and Senator Warren nodded stiffly before retreating toward the buffet table.
 
-Moments later, as the incoming Senate Majority Leader called the new Democratic Senators-Elect together at the center of the ornate Oriental rug for the official freshman class photograph, another wheelchair rolled smoothly out of the circle of tailored suits to meet us.
+Moments later, as Senate Democratic Leader Charles Schuman of New York called the new Democratic Senators-Elect together at the center of the ornate Oriental rug for the official freshman class photograph, another wheelchair rolled smoothly out of the circle of tailored suits to meet us.
 
 Sitting in an ultralight black ApexLite manual wheelchair—dressed in a navy suit, white shirt, red tie, and brown dress shoes, with a neatly trimmed beard and the powerful shoulders of an athlete—was forty-seven-year-old Senator-Elect Joshua "Josh" Novak of Iowa. Born with spina bifida, Josh was a two-time Paralympic gold medalist in wheelchair basketball and a former Iowa State Representative from Council Bluffs who had just stunned the national pundits on Tuesday night by flipping Iowa's open Republican Senate seat after scaling thousands of steep front-porch steps on his hands and backside to knock on doors across all ninety-nine Iowa counties.
 
@@ -8217,6 +8217,132 @@ Katie leaned an inch forward in her SwiftChair, her voice dropping to a clear, s
 "For the last nine months, your boss has gone on television calling me 'Broken Katie Prairie,' and for the last two weeks since Election Night he's been screaming on cable news that a woman in a wheelchair couldn't possibly have won by three hundred and sixty thousand votes without 'stealing the vote'—ignoring the sixteen years I've served on the Virginia Beach City Council, in the Virginia House of Delegates, and in the Senate of Virginia, and ignoring the paper ballots that the State Board of Elections and your own party's county registrars already verified," Katie said. "And yet at twelve o'clock noon on Sunday, January third, Article I, Section 3, Clause 4 of the Constitution of the United States gives you zero choice. You have to stand right in front of my wheelchair in the Old Senate Chamber, hold the card with the secular affirmation printed on it, leave 'So help me God' out of your mouth, and personally swear 'Broken Katie Prairie' into the United States Senate while my hand rests on the Constitution. I've had January third circled on my calendar since Election Night, Mr. Vice President. See you at noon."
 
 Nudging her joystick in tandem with mine, Katie didn't even wait for his reply. We spun our two SwiftChairs one hundred and eighty degrees in unison on the tiled floor of the President's Room and rolled side by side out into the marble Senate corridor with Dad grinning from ear to ear behind us, leaving the Vice President of the United States standing frozen under the chandelier.
+
+### Part 4: Opposing Leader Schuman, The 211–204 Lame-Duck False Dawn in the Dirksen Basement, & Home Across the Fenwick Bridge
+
+**Date:** 2026-12-01 at 10:30 America/New_York
+
+![Inside their cramped, windowless basement Senator-Elect transition cubicle in the Dirksen Senate Office Building surrounded by unpacked cardboard boxes of Senate procedure manuals and stacks of staff applications, 41-year-old Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact silver-and-black motorized SwiftChair power wheelchairs holding hands as they watch a muted split-screen broadcast of the 211-to-204 House impeachment referral vote and Defense Secretary Bret Halverson's premature Pentagon victory press conference.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/dec_2026_dirksen_basement_transition_211_204_vote_katie_nate.jpg)
+
+#### Tuesday, December 1, 2026, 10:30 AM — Objecting to Unanimous Acclamation & Publicly Opposing Senator Charles Schuman for Majority Leader
+
+"Without objection, the Secretary of the Caucus will cast a single unanimous ballot by acclamation electing Senator Charles Schuman of New York as Majority Leader for the One Hundred Twentieth Congress—"
+
+"Madam Chair, I object to unanimous acclamation and request a recorded ballot."
+
+Every single fountain pen and coffee cup inside the closed mahogany doors of the Mansfield Room froze in midair.
+
+Along the back aisle of the gilded caucus room—where the Sergeant at Arms had cleared a dual wheelchair bay beside Senator Tess Dunmore of Illinois and Senator-Elect Josh Novak of Iowa so my SwiftChair could park right alongside Katie's left wheel under her permanent sensory-and-mobility accommodation—fifty-three sitting and incoming Democratic Senators turned in their chairs at the exact same instant to stare at my forty-one-year-old twin sister.
+
+Up at the front head table beneath the crystal chandelier, seventy-six-year-old Senator Charles Schuman of New York blinked over the rims of his half-moon reading glasses, his smile stiffening in disbelief. Having led the Senate Democratic Caucus and controlled its campaign checkbook for two decades, Senator Schuman had walked into the first Tuesday caucus meeting after the Thanksgiving break expecting a ninety-second coronation by applause.
+
+"Does the Senator-Elect from Virginia wish to be heard before the clerks distribute paper ballots?" the Caucus Secretary asked carefully.
+
+"Briefly, Madam Chair," Katie said, keeping her hands resting calmly on the armrests of her compact SwiftChair as she looked straight up the center aisle at Senator Schuman without a trace of hostility or nerves. "Two weeks ago across the Capitol Rotunda, our colleagues in the House Democratic Caucus met a historic midterm mandate by electing fresh generational leadership in Speaker-Designate Clara Morales. My brother and I spent the last ten months riding public buses across all ninety-five counties and thirty-eight independent cities of Virginia, and the working people who delivered us a fifty-four-seat Senate majority didn't send us here to run the exact same K Street consultant playbook for another decade. Nothing in this vote is personal toward Senator Schuman, and I intend to work shoulder to shoulder with every member of this caucus to pass our legislative calendar. However, new generational leadership is overdue in both Houses of Congress—and after the Democratic Senatorial Campaign Committee spent fourteen million dollars of Super PAC and corporate lobbyist money trying to defeat our grassroots campaign in Virginia's June primary, nobody back home in Hampton Roads, Richmond, or Southwest Virginia sent me to Washington to rubber-stamp party leadership by voice acclamation."
+
+Beside Katie's right wheel, Josh Novak gave a quiet, approving nod from his ultralight manual ApexLite chair, while two rows ahead of us, Senior Senator Thomas Keane of Virginia folded his arms with the faint, unmistakable trace of a proud half-smile.
+
+Fifteen minutes later, after the caucus clerks collected the folded paper slips in a mahogany ballot box and tallied the count at the front table, the entrenched seniority machine held—but the myth of unanimous obedience did not. Senator Charles Schuman was re-elected incoming Senate Majority Leader by a vote of forty-three to eleven, with Katie, Josh Novak, and nine other reform-minded Senators casting their ballots for generational change.
+
+Under the unwritten traditions of Capitol Hill, nine of those eleven dissenting Senators slipped quietly out the side corridor afterward, content to let their protest stay sealed behind closed caucus doors.
+
+Katie didn't do unwritten Washington traditions.
+
+When the tall double doors of the Mansfield Room swung open onto the second-floor marble Senate corridor, forty boom microphones and television camera lenses surged forward against the velvet stanchion rope. Instead of wheeling past the press gaggle, Katie steered her SwiftChair right up to the brass microphone stand with me braking beside her left armrest.
+
+"Senator-Elect Prairie!" a correspondent from *The Potomac Post* called out over the shutter clicks. "Word just came out of the room that someone objected to electing Leader Schuman by voice acclamation and forced a ballot—was that you, and how did you vote?"
+
+"Yes, I objected to unanimous acclamation, and I voted No on Senator Schuman for Majority Leader," Katie answered plainly into the microphones, her blue eyes steady and completely unbothered. "Voters across Virginia and across the country just asked for a new generation of leadership in both chambers of Congress, just as House Democrats recognized when they elevated Speaker-Designate Clara Morales. Senator Schuman won the caucus vote fairly, forty-three to eleven, and we're going to work together to govern and protect working families starting at noon on January third. At the same time, Virginians deserve to know how their Senator votes in every room—not just when the television cameras are turned on—and the K Street donor apparatus that spent fourteen million dollars against us in June doesn't own my voice in December."
+
+"Aren't you worried about retaliation on your freshman committee assignments before you're even sworn in?" an *Associated Wire* reporter shouted from the second row.
+
+Before Katie even needed to answer, the double doors behind us parted again, and Appropriations Chairman Arthur Harrington walked straight up behind Katie's right shoulder alongside Virginia's Senior Senator, Thomas Keane.
+
+"Senator-Elect Prairie's seats on Appropriations, Banking, and Commerce are locked in solid granite," Chairman Harrington rumbled dryly into the microphones, resting a brief, collegial hand on Senator Keane's arm rather than touching Katie's wheelchair. "In fact, half the voters in my state wish they'd thought of forcing a recorded vote first. Excuse us, folks—we have a transition budget to write."
+
+As Katie and I pivoted our SwiftChairs away from the stunned press pack toward the Capitol subway elevator, Senator Schuman himself emerged into the hallway twenty feet behind us—catching Katie's eye over the heads of his aides with the sober, newly careful expression of a Majority Leader who had just learned on Day Zero that the incoming junior Senator from Virginia could neither be bought nor intimidated.
+
+***
+
+#### Tuesday, December 1, 2026, 2:15 PM — Basement Cubicle SD-B14, The 211–204 Motion to Refer, & The Pentagon's Premature Victory Lap
+
+![Inside their cramped, windowless basement Senator-Elect transition cubicle in the Dirksen Senate Office Building surrounded by unpacked cardboard boxes of Senate procedure manuals and stacks of staff applications, 41-year-old Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact silver-and-black motorized SwiftChair power wheelchairs holding hands as they watch a muted split-screen broadcast of the 211-to-204 House impeachment referral vote and Defense Secretary Bret Halverson's premature Pentagon victory press conference.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/dec_2026_dirksen_basement_transition_211_204_vote_katie_nate.jpg)
+
+Down in Room SD-B14 in the windowless basement level of the Dirksen Senate Office Building that afternoon, the overhead fluorescent tubes hummed softly above painted off-white cinderblock walls, six unpacked brown cardboard boxes of *Riddick's Senate Procedure*, and two dented gray metal government desks borrowed from Sergeant at Arms surplus.
+
+Outside Washington, most people assumed that the morning after you won a United States Senate election, somebody handed you the keys to a sunlit marble suite overlooking the Capitol dome. In reality, because the One Hundred Nineteenth Congress remained in constitutional session until twelve o'clock noon on January third—and retiring Senator Martin Warren's staff was still occupying Dirksen Room 511 five floors above our heads while packing up eighteen years of files—every newly elected Senator without prior Capitol office space spent November and December crammed into a basement transition "swing suite" barely wide enough for our two compact SwiftChairs to turn around beside the filing cabinets.
+
+Not a single oil painting hung on our cinderblock walls. The only decoration in the entire room sat leaning against the concrete block at the back corner of Katie's borrowed metal desk: the glossy red-and-black attack postcard from the National Firearms Association in Fairfax branding her *"F-Rated Radical Katie Prairie,"* sealed inside the ten-dollar black wooden frame we had brought up from Virginia Beach. Across the narrow aisle, twenty-four-year-old triplets Sam, Mandy, and Sarah Hawkins sat shoulder to shoulder at a folding laminate table sorting stacks of Virginia regional caseworker resumes from Hampton Roads, Roanoke, and the Shenandoah Valley alongside blank federal SF-86 background-investigation packets.
+
+Up on the cinderblock wall ahead of Katie's desk and mine, we had the forty-inch Capitol Network monitor switched on with the volume muted and closed captions scrolling across the bottom as the electronic voting clock above the House press gallery counted down to zero.
+
+Less than twenty-four hours earlier, on Monday afternoon, an outgoing Republican congressman from Kentucky's Ohio River valley named Thomas Mayfield—a fiercely independent constitutional stickler who had broken with President Garrett Thorne over unauthorized overseas military strikes and congressional war powers, only to lose his spring Republican primary to a challenger personally bankrolled by Thorne's political machine and cheered on by Secretary of Defense Bret Halverson—had walked onto the House floor and shocked leadership in both parties by reading a privileged eight-article impeachment resolution against Secretary Halverson.
+
+Under the rules of the House of Representatives, a privileged impeachment resolution called up from the floor forced leadership to act within two legislative days. Rather than risking an up-or-down vote on the merits of Halverson's conduct, lame-duck House Speaker Paul Jennings of Louisiana—who had gone before the morning cameras dismissing Mayfield's eight articles as a "political gambit for attention"—had pulled the only procedural emergency brake left in the rulebook: moving immediately to refer the entire impeachment resolution to the outgoing House Judiciary Committee, where the lame-duck chairman could lock it inside a desk drawer until the One Hundred Nineteenth Congress expired at noon on January third.
+
+ Katie reached her left hand across the two-inch gap between our SwiftChair armrests and laced her fingers through mine as the presiding officer's gavel fell on the screen.
+
+On the left half of the split-screen broadcast, the green and red numbers locked into place on the chamber tally board: 211 Yeas to 204 Nays.
+
+"Seven votes," Sam Hawkins murmured from the folding table behind us, adjusting his glasses as I refreshed the Clerk of the House roll-call XML feed on the unbranded matte-aluminum screen of my MagnaBook Pro. "Eighteen members missed the roll call—eleven Democrats, including a representative whose shuttle got trapped behind a Capitol Police bus escort on Independence Avenue right as the gavel came down, and seven lame-duck Republicans who didn't want their names anywhere near either column. Every single Democrat on the floor voted Nay against burying the articles, and Representative Mayfield crossed the aisle as the lone Republican Nay."
+
+"Look at the floor podium replay from ten minutes before the roll opened," Sarah Hawkins said quietly, pointing toward the caption transcript scrolling down her tablet. "Representative Mayfield warned his own Republican conference right to their faces that burying his privileged resolution in the lame-duck Judiciary Committee was only temporary—he called his articles *'a much gentler version of what's coming'* once Speaker-Designate Clara Morales and the new majority take the gavels in January with full committee and subpoena power."
+
+Within ten minutes, the right half of the muted basement television screen cut live across the Potomac to the Pentagon briefing room.
+
+Stepping briskly up to the blue briefing podium beneath the Department of Defense seal—holding his first Pentagon press conference in more than six months—was Secretary of Defense Bret Halverson, his hair freshly lacquered under the television lights from his decade hosting *Patriot Watch Weekend* on the Liberty First Network. Even with the volume muted, the swagger rolling off the screen was unmistakable as the closed-captioning stenographer struggled to keep pace with him. Gripping both edges of the lectern with a triumphant grin, Halverson declared "total victory," sneering that the eight impeachment articles were a "stunt" and a "circus" staged by a sore-loser congressman, insisting that every military operation cited in the resolution was lawful, ordered by President Garrett Thorne, and properly notified to Congress. Below him on the broadcast ticker, statements from the White House flashed in succession as President Thorne congratulated his Defense Secretary and Vice President Conrad Drayton posted online that critics were only targeting Halverson because he "took on the bureaucracy at the Pentagon."
+
+"They actually think they beat it," Mandy Hawkins said softly from behind her stack of constituent casework binders. "He's standing at the Pentagon podium taking a victory lap over a seven-vote referral motion."
+
+"Let him celebrate," I said, tapping two keys on my MagnaBook Pro to archive the certified Clerk roll-call sheet—where two hundred and eleven names were now etched permanently into the *Congressional Record* voting to bury eight articles of impeachment without a single witness or document request—right alongside the timestamped video capture of Halverson's Pentagon briefing inside our encrypted oversight directory. "A motion to refer doesn't acquit anybody of anything. Every pending committee referral in the One Hundred Nineteenth Congress evaporates into thin air when the clock strikes twelve o'clock noon on Sunday, January third."
+
+Beside me, Katie didn't take her eyes off Halverson's smirking face on the muted basement monitor.
+
+"Back in January of last year, when I rolled into the well of the Senate of Virginia in Richmond and urged both of our Senators to vote No on confirming a weekend cable talk-show host to run the Pentagon, Bret Halverson went back on his old television network after Vice President Drayton broke the fifty-fifty tie and laughed that nobody in Washington cared what a little state senator on wheels thought," Katie said evenly, squeezing my hand once before turning her SwiftChair back toward our stack of Appropriations defense-oversight briefing books. "Had Representative Mayfield's snap resolution passed this afternoon in forty-eight hours without a single hearing record, Senators at a trial would have complained that the House rushed the evidence without depositions or subpoenas. Instead, thirty-three days from today, the new House Judiciary and Armed Services chairs get to pull those exact articles off the shelf with full federal subpoena power—and a man like Bret Halverson, convinced after today that he's untouchable, is going to spend the next five weeks acting like nobody can ever touch him."
+
+***
+
+#### Tuesday, December 1, 2026, 5:15 PM — Why We Avoid Union Station, State Senator Charles R. Fenwick's Bridge, & The West Side of the Tracks on Sunset Drive
+
+By quarter past five, true December darkness was already settling over Capitol Hill beneath a clear indigo twilight sky as Katie and I said goodnight to Sam, Mandy, and Sarah—watching the triplets head cheerfully down the corridor together to catch their bus—and steered our two SwiftChairs out the accessible ground-level Dirksen exit onto the crisp winter sidewalk along First Street Southeast.
+
+Half a block north toward Constitution and Massachusetts Avenues, a solid river of red brake lights stretched toward the white granite colonnade of Washington Union Station as town cars, black government SUVs, and taxicabs idled bumper to bumper in the evening rush.
+
+Whenever Capitol Hill staffers or reporters learned that Katie and I rode ARTS trains up from Norfolk and commuted by rail every day, nine out of ten of them automatically assumed we used Washington Union Station. In truth, Katie and I avoided Union Station like the plague unless a specific western mountain train left us no other stop on the map. For two autistic forty-one-year-olds who had just spent ten straight hours absorbing caucus debates, camera flashes, and basement fluorescent glare, Union Station at five-thirty on a weekday evening was a cavernous sensory ambush: booming public-address speakers reverberating off ninety-foot barrel-vaulted ceilings, twenty tracks of screeching steel wheel flanges, surging retail food-court crowds, and cab horns blaring across Columbus Circle.
+
+Here at the corner of First and C Streets Southeast, by contrast, the street-level glass elevator at Capitol South Station sat calm and uncrowded beside the brown Capital Transit pylon striped with Blue, Orange, and Silver.
+
+Katie and I tapped our blue plastic CapitalPass cards against the circular target on the wide accessible faregate, rolled onto the mezzanine elevator down to the vaulted underground platform, and boarded a westbound Blue Line train with plenty of room to lock our wheelchair brakes side by side in the center bay. Three stops later at L'Enfant Plaza, we glided smoothly off the train, rode the center-island elevator up one level to the perpendicular upper-level tracks, and rolled straight onto a southbound Virginia-bound Yellow Line train just before the two-tone door chime sounded.
+
+Two minutes after leaving L'Enfant Plaza, the dark concrete walls of the Seventh Street tunnel dropped away completely, and our Yellow Line car soared out into the open evening air high above the Potomac River on the Charles R. Fenwick Bridge.
+
+Outside the wide glass window beside our armrests, the dark winter river shimmered with reflections of the illuminated white marble Jefferson Memorial behind us and the amber runway approach lights of Washington National Airport ahead along the Virginia shoreline. Immediately to our right, across the narrow strip of dark water separating the twin rail tracks from the Fourteenth Street highway spans, three solid lanes of black sedans and commuter SUVs sat virtually motionless in bumper-to-bumper bridge traffic while our silver railcar glided past them at fifty miles an hour.
+
+"I guarantee you not one in fifty Senators sitting in those town cars next door—and zero K Street lobbyists—could tell you the name of this bridge if you put a hundred-dollar bill on the table," I said to Katie, leaning my shoulder lightly toward the cool glass as the welded rail joints clicked rhythmically beneath our wheels.
+
+Katie smiled, her reflection warm in the twilight window beside mine.
+
+"They think all four spans across the river are just 'the Fourteenth Street Bridge,'" Katie agreed softly. "Almost nobody in Washington knows that on April thirtieth, 1983—the exact Saturday the first Yellow Line trains rolled across the Potomac into Northern Virginia—this rail bridge was officially named the Charles R. Fenwick Bridge, after Virginia State Senator Charles R. Fenwick of Arlington."
+
+"A member of the Senate of Virginia," I grinned, squeezing her hand across our armrests. "Who stood up on Capitol Square in Richmond back in the nineteen-fifties and sixties, authored the legislation creating the Northern Virginia Transportation Commission, and negotiated the interstate compact that built this entire regional subway system so Virginians wouldn't be trapped in highway gridlock forever."
+
+"From one Virginia State Senator's bridge to the next," Katie murmured, watching the Virginia shoreline rush up to meet our train.
+
+Twelve minutes later, after gliding past National Airport, Potomac Yard, and Braddock Road, our Yellow Line train braked smoothly alongside the elevated concrete island platform of King Street–Old Town Station in Alexandria, right beneath the illuminated stepped stone tower of the George Washington Masonic National Memorial rising atop Shooter's Hill.
+
+We took the platform elevator down to the quiet brick plaza, tapped our CapitalPass cards out through the wide gate, and rolled side by side past the red-brick 1905 depot of Alexandria Union Station toward the stone-and-steel railroad underpass spanning King Street.
+
+For sixty feet underneath that railroad bridge, the low rumble of a northbound commuter train echoed overhead—and then the instant our front caster wheels rolled clear out the western side of the underpass onto the west side of the tracks, the bustle of Old Town restaurants and station buses vanished behind the embankment as if someone had turned down a studio fader.
+
+One short, level brick-sidewalk block west of the tracks, we turned the corner onto Sunset Drive.
+
+Up at the top of the gentle wooden wheelchair ramp leading to the front porch of our dad's paid-off two-story brick house, the brass coach lamp was already glowing amber in the December chill. Before my thumb even reached the doorbell button, our sixty-eight-year-old dad pulled the front oak door wide open in his wool cardigan, letting the warm scent of homemade chicken vegetable soup and fresh rosemary roll out onto the porch.
+
+"Right on the five-fifty-two Yellow Line schedule," Dad beamed, stepping back across the foyer rug so Katie and I could wheel side by side into the warm hallway—right past our newly installed interior vertical platform wheelchair lift waiting quietly beside the stairs to carry us up to our three-desk study in Bedroom 4 after supper. "Wash up, Senator-Elect. How was Day One of the December lame duck?"
+
+Katie clicked off her powerchair drive motor inside the warm foyer, unbuttoned her winter coat, and looked back through the front window toward the quiet railroad embankment a block away—knowing that every single night the United States Senate stood in session for the next six years, she wouldn't be sleeping in a Georgetown salon or a Capitol Hill luxury condo across the river; she would cross underneath the tracks on Sunset Drive and sleep at home in the Commonwealth of Virginia.
+
+"Productive, Dad," Katie smiled, reaching over to pat my forearm as the three of us headed into the kitchen. "Everybody in Washington knows where we stand—and we're right on time for dinner."
 
 ## The Minified ZIP File, The Raw HTML Takedown, & Resigning from Richmond
 
@@ -9205,7 +9331,7 @@ Because Katie was still a State Senator in Richmond in January 2025 and hadn't y
 
 Virginia's retiring senior U.S. Senator had read Katie's letter into the *Congressional Record* and voted No alongside Virginia's other Senator, just as she had urged. Yet because Thorne's party controlled the chamber in January 2025, the majority conference had rammed Halverson's confirmation through on a razor-thin fifty-fifty tie broken by Vice President Conrad Drayton. That weekend, Secretary Halverson had gone back on his old cable network for a victory lap, laughing with his former co-hosts about *"that little wheelchair state senator down in Richmond who thought she could stop the Pentagon."*
 
-It hadn't taken two years for every single warning Katie had issued from Richmond to come true—and when the November 2026 midterm wave swept a two-hundred-and-fifty-three-seat Democratic majority into the House of Representatives, flipped the Senate to a fifty-four-seat majority, and sent United States Senator Katie Prairie of Virginia to Washington in January 2027, the chickens came home to roost.
+It hadn't taken two years for every single warning Katie had issued from Richmond to come true. Back on December first during the lame-duck session—after escaping an outgoing Kentucky congressman's eight privileged impeachment articles by seven votes on a two-hundred-and-eleven-to-two-hundred-and-four motion to bury the resolution in committee—Halverson had marched up to the Pentagon briefing room podium to declare "total victory," sneering that the impeachment push was a "circus" and convincing himself he was untouchable. Instead, when the November 2026 midterm wave's new two-hundred-and-fifty-three-seat Democratic House majority and fifty-four-seat Senate majority convened with full subpoena power in January 2027 alongside United States Senator Katie Prairie of Virginia, Halverson's holiday hubris blew straight up in his face.
 
 Within sixty days of the One Hundred Twentieth Congress taking power in January 2027, joint House and Senate subpoenas uncovered a staggering dual crime at the top of the administration:
 
@@ -9221,7 +9347,7 @@ One week later, on Thursday afternoon, March 25, 2027—minutes after the United
 
 "Alexander Hamilton wrote in *Federalist Number 65* that impeachment is designed for those offenses which proceed from the misconduct of public men, or, in other words, from the abuse or violation of some public trust," Katie said evenly around the conference table. "And Dr. Martin Luther King Jr. reminded this country that the time is always right to do what is right. All three of these men betrayed the sailors of Naval Station Norfolk and sold out the public trust for four hundred million dollars in offshore kickbacks. None of them—not Thorne, not Drayton, and not Halverson—can be allowed to remain in power."
 
-"Which brings us to the exact sequence of the three Senate trials," Speaker Clara Morales said, looking across the table at Katie and the Senate Majority Leader. "Because under Article II, Section 1, Clause 6 of the Constitution and Section 1 of the Twenty-Fifth Amendment, the order in which the Senate calls the final roll determines who becomes President of the United States."
+"Which brings us to the exact sequence of the three Senate trials," Speaker Clara Morales said, looking across the table at Katie and Senate Majority Leader Charles Schuman. "Because under Article II, Section 1, Clause 6 of the Constitution and Section 1 of the Twenty-Fifth Amendment, the order in which the Senate calls the final roll determines who becomes President of the United States."
 
 Katie nodded, tapping the statutory flow chart I had coded on my screen.
 
@@ -9237,7 +9363,7 @@ Katie nodded, tapping the statutory flow chart I had coded on my screen.
 
 Across the mahogany table, Speaker Clara Morales looked at the forty-one-year-old Senator from Virginia Beach and her twin brother in quiet awe.
 
-"Wednesday for Halverson, Thursday for Drayton, and Friday for Thorne," the Senate Majority Leader said, writing the three dates onto the official Senate trial calendar. "And Senator Prairie—because Naval Station Norfolk is your home turf, we want you delivering the final floor speech before the roll is called."
+"Wednesday for Halverson, Thursday for Drayton, and Friday for Thorne," Majority Leader Schuman said, writing the three dates onto the official Senate trial calendar. "And Senator Prairie—because Naval Station Norfolk is your home turf, we want you delivering the final floor speech before the roll is called."
 
 ### Part 2: Route 36 to Timberline Shopping Center, Lunch at Don Miller Subs, Retro Games at Neat Stuff, & Suite 756
 
@@ -9547,7 +9673,7 @@ Twenty minutes later, when the Reading Clerk handed the certified tally sheet up
 
 "The Senate having tried Garrett Thorne, President of the United States, upon two Articles of Impeachment exhibited against him by the House of Representatives, and two-thirds of the Senators present having found him guilty of high crimes and misdemeanors," Chief Justice Sterling declared across the hushed chamber, "it is therefore ordered and adjudged that the said Garrett Thorne be, and he is hereby, removed from office."
 
-Before the defense table could even close their briefcases, our Senate Majority Leader rose and moved the second resolution under Article I, Section 3, Clause 7: permanent disqualification from ever holding any federal office again, which under settled Senate precedent required only a simple majority of fifty-one votes. When the clerk called *"Ms. Prairie"* on the permanent disqualification roll call, I delivered my second vote of the hour just as evenly as the first:
+Before the defense table could even close their briefcases, Senate Majority Leader Charles Schuman rose and moved the second resolution under Article I, Section 3, Clause 7: permanent disqualification from ever holding any federal office again, which under settled Senate precedent required only a simple majority of fifty-one votes. When the clerk called *"Ms. Prairie"* on the permanent disqualification roll call, I delivered my second vote of the hour just as evenly as the first:
 
 "Aye."
 

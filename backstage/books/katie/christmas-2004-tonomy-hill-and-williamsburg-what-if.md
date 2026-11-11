@@ -36,15 +36,15 @@ What Nate could see—and what broke his heart even while he was trapped in his 
 
 On Monday afternoon, December 27, 2004, as Nate and Tiffany rode the southbound **Pathfinder Lines** coach back from Rhode Island toward Norfolk, the bus pulled into the **Williamsburg Transportation Center** on Boundary Street for a fifteen-minute passenger stop.
 
-Staring out the tinted coach window in his wheelchair tie-down bay, nineteen-year-old Nate knew that **224 Virginia Avenue**—where Katie was living with **Brandon Mercer**—was barely **two blocks away**.
+Staring out the tinted coach window in his wheelchair tie-down bay, nineteen-year-old Nate knew that Katie's apartment on **Virginia Avenue**—where she was living with **Brandon Mercer**—was barely **two blocks away**.
 
 ### What Would Have Happened If Nate Had Unbuckled His Tie-Downs and Rolled Off That Bus?
-In the main novel, Nate stays on the coach because he has no cell phone number to reach Katie without Brandon intercepting it, and because he is terrified of making things worse without a plan. But what if Nate had told the Pathfinder driver to lower the wheelchair lift at `2:42 PM` and rolled two blocks down to `224 Virginia Avenue`?
+In the main novel, Nate stays on the coach because he has no cell phone number to reach Katie without Brandon intercepting it, and because he is terrified of making things worse without a plan. But what if Nate had told the Pathfinder driver to lower the wheelchair lift at `2:42 PM` and rolled two blocks down to `Virginia Avenue`?
 
 1. **Tiffany Sloan Would Have Abandoned Nate on the Spot (`2:43 PM`):**
    The instant Nate told Tiffany he was getting off the bus in Williamsburg to check on his twin sister after spending four days with Tiffany's family in Rhode Island, Tiffany would have thrown a furious ultimatum in the aisle: *"If you roll off this bus for your sister, Nathaniel, don't bother coming back to Apartment 3!"* When Nate rolled onto the wheelchair lift anyway, Tiffany would have stayed in her plush seat as the bus pulled away toward Norfolk—ending Nate's eleven-month nightmare in West Ocean View **eleven months early**.
 2. **Brandon Mercer Would Have Thrown Katie Out Within the Hour (`3:15 PM`):**
-   At `224 Virginia Avenue`, Brandon Mercer's entire control over Katie depended on keeping her isolated from Nate and from their father David. If Nate had rolled up the front ramp of `224 Virginia Avenue` unannounced on December 27 and seen the bruises on Katie's wrists and the fear in her eyes, Brandon—panicking at the sight of a witness he couldn't intimidate into silence and furious that his isolation wall had been breached—would have exploded, screaming at both twins to *"get your crippled asses out of my apartment and don't ever come back!"*
+   Over on `Virginia Avenue`, Brandon Mercer's entire control over Katie depended on keeping her isolated from Nate and from their father David. If Nate had rolled up the front ramp on `Virginia Avenue` unannounced on December 27 and seen the bruises on Katie's wrists and the fear in her eyes, Brandon—panicking at the sight of a witness he couldn't intimidate into silence and furious that his isolation wall had been breached—would have exploded, screaming at both twins to *"get your crippled asses out of my apartment and don't ever come back!"*
 3. **The Eleven-Month Shortcut Home:**
    Instead of enduring another ten and a half months of isolation until Saturday, November 12, 2005, nineteen-year-old Katie and Nate would have rolled two blocks back to the **Williamsburg Transportation Center** together at `3:45 PM`, called **David Prairie** from the station payphone, and been safe in their father's pickup truck before dark on December 27, 2004.
 
