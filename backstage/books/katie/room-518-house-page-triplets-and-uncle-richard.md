@@ -8,12 +8,12 @@ time: "09:40 EST"
 location: "Room 518, General Assembly Building, Richmond, Virginia; Danville, Virginia; & Studio 6B, Rockefeller Center, New York"
 sender: "RaggieSoft Backstage Production Dossier"
 recipient: "Readers of Katie & Nathaniel (Episode 9, Chapter 3, Part 2)"
-relatedBookUrl: "https://books.raggiesoft.com/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-with-michael-rachel-two-meltdowns-in-room-518-the-6-05-am-train-to-meet-the-nation"
-relatedBookLabel: "Episode 9, Chapter 3, Part 2: Two Meltdowns in Room 518 & Live on Meet the Nation"
+relatedBookUrl: "https://books.raggiesoft.com/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-in-room-518-the-six-o-clock-news-two-meltdowns-answered-by-page-forty-two"
+relatedBookLabel: "Episode 9, Chapter 3, Part 2: Two Meltdowns in Room 518 & Page Forty-Two"
 summary: "Behind-the-scenes backstory explaining why thirteen-year-old autistic House Page triplets Sam, Mandy, and Sarah Hawkins bolted from the doorway of Room 518 during Katie and Nate's Friday morning meltdown—plus how Saturday Night Sketch wrote the viral HB 663 cold open without 'cripping up.'"
 ---
 
-> **Archival Note:** In [***Katie & Nathaniel — Episode 9, Chapter 3, Part 2***](https://books.raggiesoft.com/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-with-michael-rachel-two-meltdowns-in-room-518-the-6-05-am-train-to-meet-the-nation), a rude neighboring staffer's shouting in the fifth-floor hallway on Friday morning, February 5, 2016 triggers a simultaneous autistic meltdown in `Room 518` for **Delegate Katie Prairie** and **Nathaniel Prairie**—and thirteen-year-old House Page triplets **Sam, Mandy, and Sarah Hawkins** take one look inside the doorway, drop their mail tray, and bolt down the corridor to fetch their uncle, **House Majority Leader Richard "Uncle Richard" Callaway (`R-Danville`)**, and **Minority Leader Tom Toscano (`D-Charlottesville`)**. This Backstage dossier reveals the triplets' backstory and what happened in New York City the next night at *Saturday Night Sketch*.
+> **Archival Note:** In [***Katie & Nathaniel — Episode 9, Chapter 3, Part 2***](https://books.raggiesoft.com/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-in-room-518-the-six-o-clock-news-two-meltdowns-answered-by-page-forty-two), Caucus Communications Director Greg's shouting in the fifth-floor outer office on Friday morning, February 5, 2016 triggers a simultaneous autistic meltdown in `Room 518` for **Delegate Katie Prairie** and **Nathaniel Prairie**—and thirteen-year-old House Page triplets **Sam, Mandy, and Sarah Hawkins** take one look inside the doorway and bolt down the corridor to fetch their uncle, **House Majority Leader Richard "Uncle Richard" Callaway (`R-Danville`)**, alongside **Minority Leader Tom Toscano (`D-Charlottesville`)**. This Backstage dossier reveals the triplets' backstory and what happened in New York City the next night at *Saturday Night Sketch*.
 
 ---
 
@@ -49,7 +49,7 @@ In reality, the exact opposite happened inside the triplets' heads:
 
 ## 3. Inside Studio 6B: How *Saturday Night Sketch* Wrote the Viral `HB 663` Cold Open (`Saturday, February 6, 2016`)
 
-Thirty-six hours later, while Katie, Nate, and their father **David Prairie** were eating dinner in Alexandria before Sunday morning's live broadcast of ***Meet the Nation*** on `GBS`, the writing room on the eighth floor of **30 Rockefeller Plaza (`Studio 6B`)** in New York City was rewriting the **Saturday Night Sketch** cold open from scratch:
+Thirty-six hours later, while Katie, Nate, and their newly rescued cousin **Brittany Fletcher** were safely locked inside `Apartment 104` at the **Broad & Boulevard Lofts** in Richmond ahead of Sunday morning's `6:05 AM` train to Washington for ***Meet the Nation*** on `GBS`, the writing room on the eighth floor of **30 Rockefeller Plaza (`Studio 6B`)** in New York City was rewriting the **Saturday Night Sketch** cold open from scratch:
 
 1. **Scrapping the Presidential Primary Cold Open on Friday Afternoon:**
    Originally, the February 6, 2016 cold open was slated to be a standard New Hampshire primary debate sketch. Then the `WCVE` floor clip of thirty-year-old **Delegate Katie Prairie** asking **Delegate Martin Cobb** whether she would have to lift her skirt and pull down her pants in front of a police officer to prove her *"anatomical sex"* crossed `18 million` views on Friday afternoon.

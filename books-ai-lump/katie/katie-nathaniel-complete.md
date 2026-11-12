@@ -7168,25 +7168,19 @@ Biting the inside of my cheek to keep from grinning from ear to ear, I rolled ou
 
 Katie's blue eyes lit up with a mixture of surprise, warmth, and quiet respect as she squeezed my fingers and we turned our wheelchairs side by side toward the elevator down to the underground Capitol tunnel. "Looks like Sarah, Mandy, Sam, and I just became the unofficial House Quality Assurance Department. Even if we sit on opposite sides of the aisle on almost everything else, at least the Majority Leader actually reads the bills. Come on—let's go grab a sandwich in the basement cafeteria before our two o'clock Transit Legislative Day meetings."
 
-### Part 2: Transit Legislative Day with Michael & Rachel, Two Meltdowns in Room 518, & The 6:05 AM Train to Meet the Nation
+### Part 2: Transit Legislative Day in Room 518, The Six-O'Clock News, & Two Meltdowns Answered by Page Forty-Two
 
 **Date:** 2016-02-04 at 14:15 America/New_York
 
-![Inside the GBS News Washington bureau studio on Sunday morning, February 7, 2016, 30-year-old Delegate Katie Prairie sits in her black motorized SwiftChair power wheelchair in a wide camera frame in front of an illuminated Virginia State Capitol backdrop for a live national interview on Meet the Nation, while twin brother Nate monitors the broadcast from his SwiftChair beside the studio confidence monitor.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_gbs_richmond_studio_meet_the_nation_live_interview_katie_nate.jpg)
+![Inside wood-paneled Room 518 of the Virginia General Assembly Building on Friday morning, February 5, 2016, 30-year-old Delegate Katie Prairie and her twin brother Nate sit side by side in their black-and-silver motorized SwiftChair power wheelchairs holding inner hands across their armrests and smiling with warm relief as Republican Majority Leader Richard Callaway, Democratic Minority Leader Tom Toscano, and 13-year-old eighth-grade House Page triplets Sam, Mandy, and Sarah Hawkins stand before them with yellow transportation bill folders.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_room_518_triplets_and_floor_leaders_reassurance.jpg)
 
 #### Thursday, February 4, 2016, 2:15 PM — Virginia Transit Legislative Day in Room 518 & A Visit from Michael and Rachel Ragsdale
 
-Out of all sixty days of the winter session in Richmond, Thursday, February fourth was the day on the legislative calendar that Katie and I looked forward to the most: Virginia Transit Legislative Day.
-
-On almost every other afternoon of the session, the marble corridors of the General Assembly Building were packed wall-to-wall with corporate lobbyists in thousand-dollar tailored suits. On Transit Legislative Day, however, bus and rail riders from every corner of the Commonwealth rode charter coaches, intercity trains, and JRTC buses up to Capitol Square wearing bright blue *RIDE TRANSIT VIRGINIA* lapel stickers to lobby their Delegates and State Senators for state public transportation operating and capital dollars.
-
-At two-fifteen that afternoon inside our fifth-floor office in Room 518, right after Katie and I finished reviewing the Hampton Roads transit allocation table with a group of bus operators from Newport News, two very familiar voices called out from our open doorway.
-
 "Permission to roll into the bus delegate's office?"
 
-Katie and I looked up from our desks and broke into wide grins at the exact same second.
+Katie and I looked up from the Hampton Roads transit allocation table on her mahogany desk in Room 518—right as the last three Newport News bus operators thanked us in the hallway—and broke into wide grins at the exact same second.
 
-Rolling through the doorway in a folded-frame, blue-upholstered manual wheelchair was our twenty-eight-year-old childhood friend and [former across-the-hall neighbor Michael Ragsdale](https://books.raggiesoft.com/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-1-apartment-a6-on-greenway-court-dad-s-microwave-cart-across-the-hall-neighbors), with his twenty-six-year-old sister Rachel walking right beside him in her glasses and royal-blue Virginia Dominion University jacket, keeping one hand resting lightly on his left rear push-handle and her other hand laced tightly through his fingers. Both of them had blue *RIDE TRANSIT VIRGINIA* stickers pressed over their hearts and carried folders of Coastal Virginia Transit Authority route maps.
+Out of all sixty days of the winter session in Richmond, Virginia Transit Legislative Day was the one afternoon when the marble corridors of the General Assembly Building traded corporate lobbyists in thousand-dollar tailored suits for everyday bus and rail riders wearing bright blue *RIDE TRANSIT VIRGINIA* lapel stickers. Rolling through our open fifth-floor doorway in a folded-frame, blue-upholstered manual wheelchair was our twenty-eight-year-old childhood friend and [former across-the-hall neighbor Michael Ragsdale](https://books.raggiesoft.com/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-1-apartment-a6-on-greenway-court-dad-s-microwave-cart-across-the-hall-neighbors), with his twenty-six-year-old sister Rachel walking right beside him in her glasses and royal-blue Virginia Dominion University jacket, keeping one hand resting lightly on his left rear push-handle and her other hand laced tightly through his fingers. Both of them had blue *RIDE TRANSIT VIRGINIA* stickers pressed over their hearts and carried folders of Coastal Virginia Transit Authority route maps.
 
 "Michael! Rachel!" Katie beamed, nudging her joystick and rolling her SwiftChair out from behind her mahogany desk as I wheeled right up beside her so the four of us could exchange warm hugs across our armrests. "What are you two doing up in Richmond? And Michael, what happened to your ankles?"
 
@@ -7206,7 +7200,7 @@ Katie clapped both hands over her mouth as she and I burst out laughing together
 
 "Did you see either of them?" I asked through my laughter.
 
-"Sadly, no," Michael sighed, shaking his head with mock disappointment. "Neither of them crossed our path all afternoon, so I never got the chance—Wait until he sees how fast that video is spreading across VDU right now, though. By Monday morning, neither of those guys is going to want to show his face near a microphone."
+"Sadly, no," Michael sighed, shaking his head with mock disappointment. "Neither of them crossed our path all afternoon, so I never got the chance—wait until he sees how fast that video is spreading across VDU right now, though. By Monday morning, neither of those guys is going to want to show his face near a microphone."
 
 After spending twenty wonderful minutes catching up on CVTA bus routes, our old first-floor hallway on Greenway Court, and their computer information systems classes at VDU, we rolled alongside Michael and Rachel out to the fifth-floor elevators so they could catch their late-afternoon transit coalition bus back down Interstate 64 to Hampton Roads.
 
@@ -7216,7 +7210,7 @@ Rolling in first was [Jordan in his power wheelchair alongside Aubrie Jean, Mega
 
 "Four powerchairs and three ultralight manual chairs in one legislative office!" I grinned from beside my laptop as Katie and I wheeled our two black SwiftChairs out from behind her mahogany desk to form a wide semi-circle of seven wheelchairs in the center of Room 518. "Now this is what the General Assembly Building is supposed to look like on Transit Legislative Day—and wait a second, Katie, that's Ryan, Cassidy, and Holly O'Connell and Evan and Tyler Wright of The Stardust Engine!"
 
-Even though they lived up in Blacksburg and Christiansburg rather than in the Eighty-Fifth House District—though Aubrie Jean beamed as she told us she had grown up right across the city line from Kempsville in the Emerald Creek neighborhood of Chesapeake before heading to CPI, and Katie's face lit up as she told Ryan and Cassidy that she and I listened to *'Neon on the Huckleberry Trail'* while compiling bus timetables at night and admired how Ryan's rear push-handles were set at the exact height for Cassidy to use as a rolling walker—every single one of them hated House Bill 663 just as fiercely as we did. Speaking through the voice synthesizer on his tablet, Jordan thanked Katie for standing up against a bill that would turn public restrooms into hostile fifty-dollar police checkpoints for wheelchair users and the family members who help them; Freddie, adjusting his glasses with Harper's hand anchored firmly to his right sleeve and Paige's hands resting on his shoulders, told Katie that her ninety-five-second floor cross-examination had exposed a fatal runtime error in Line 18 of Delegate Cobb's statute; and Ryan and Holly thanked Katie on behalf of disabled travelers across the state and Engine Room Records. Before they headed back downstairs to return to Christiansburg and Progress Street NE in Blacksburg, Holly, Zoë, Aubrie Jean, Paige, and Jenna had already pulled out their tablets and phones and shared our captioned ninety-five-second floor video with every student organization, computer science mailing list, Engine Room Records channel, and transit group across Commonwealth Polytechnic Institute.
+Even though they lived up in Blacksburg and Christiansburg rather than in the Eighty-Fifth House District—though Aubrie Jean beamed as she told us she had grown up right across the city line from Kempsville in the Emerald Creek neighborhood of Chesapeake before heading to CPI, and Katie's face lit up as she told Ryan and Cassidy that she and I listened to *Neon on the Huckleberry Trail* while compiling bus timetables at night and admired how Ryan's rear push-handles were set at the exact height for Cassidy to use as a rolling walker—every single one of them hated House Bill 663 just as fiercely as we did. Speaking through the voice synthesizer on his tablet, Jordan thanked Katie for standing up against a bill that would turn public restrooms into hostile fifty-dollar police checkpoints for wheelchair users and the family members who help them; Freddie, adjusting his glasses with Harper's hand anchored firmly to his right sleeve and Paige's hands resting on his shoulders, told Katie that her ninety-five-second floor cross-examination had exposed a fatal runtime error in Line 18 of Delegate Cobb's statute; and Ryan and Holly thanked Katie on behalf of disabled travelers across the state and Engine Room Records. Before they headed back downstairs to return to Christiansburg and Progress Street NE in Blacksburg, Holly, Zoë, Aubrie Jean, Paige, and Jenna had already pulled out their tablets and phones and shared our captioned ninety-five-second floor video with every student organization, computer science mailing list, Engine Room Records channel, and transit group across Commonwealth Polytechnic Institute.
 
 We spent the rest of the afternoon until five-thirty meeting with special-education parents from Virginia Beach and reviewing coastal flooding amendments with our legislative aide, with both of our laptops closed on our desks.
 
@@ -7254,15 +7248,15 @@ In almost every other legislative office in the Capitol complex, a constitutiona
 
 "Delegate Katie Prairie's office, this is Katie speaking," she said, keeping one hand resting on her open municipal transit binder while I sat right beside her left wheel with my silver MagnaBook Pro laptop open on the side table.
 
-There was a brief, startled pause on the other end of the speakerphone. "Oh! Good morning, Delegate Prairie—is this really Delegate Prairie herself? I honestly expected your front-desk scheduler or a legislative assistant to pick up the main switchboard line. My name is Arthur Vance, and I'm a senior producer for Meet the Nation at GBS News up here in Washington. I hope I'm not catching you at a bad time?"
+There was a brief, startled pause on the other end of the speakerphone. "Oh! Good morning, Delegate Prairie—is this really Delegate Prairie herself? I honestly expected your front-desk scheduler or a legislative assistant to pick up the main switchboard line. My name is Arthur Vance, and I'm a senior producer for *Meet the Nation* at GBS News up here in Washington. I hope I'm not catching you at a bad time?"
 
-Katie blinked, glancing sideways at me in surprise. To the two of us, Meet the Nation was the quiet Sunday morning news program our dad David used to put on the living room television in Virginia Beach while the three of us ate scrambled eggs and toast together.
+Katie blinked, glancing sideways at me in surprise. To the two of us, *Meet the Nation* was the quiet Sunday morning news program our dad David used to put on the living room television in Virginia Beach while the three of us ate scrambled eggs and toast together.
 
 "Not at all, Mr. Vance," Katie said politely. "My brother Nate and I were just looking over some bus shelter amendments. How can I help you?"
 
-"Well, Delegate, David Vance and our editorial team here in Washington watched your exchange on the House Floor yesterday afternoon over House Bill 663," Mr. Vance said warmly, his voice remarkably courteous and unhurried. "You raised some serious constitutional questions about how a law like that could ever be enforced in public buildings without violating the Fourth Amendment. David would be honored if you would join him this Sunday morning at nine o'clock for a quiet, one-on-one conversation to walk through the text of the bill—if you'd be willing to make it a Sunday morning exclusive with Meet the Nation."
+"Well, Delegate, David Vance and our editorial team here in Washington watched your exchange on the House Floor yesterday afternoon over House Bill 663," Mr. Vance said warmly, his voice remarkably courteous and unhurried. "You raised some serious constitutional questions about how a law like that could ever be enforced in public buildings without violating the Fourth Amendment. David would be honored if you would join him this Sunday morning at nine o'clock for a quiet, one-on-one conversation to walk through the text of the bill—if you'd be willing to make it a Sunday morning exclusive with *Meet the Nation*."
 
-Katie's shoulders visibly relaxed in her SwiftChair. After answering questions from the local Richmond and Norfolk newspaper reporters the evening before, the word exclusive sounded like a wonderful relief to her: it meant she would only have to put on a stiff blazer, sit under bright lights, state the literal facts of House Bill 663 one time, and then go straight back to our apartment in Richmond without having to repeat the exact same sentences to anyone else.
+Katie's shoulders visibly relaxed in her SwiftChair. After answering questions from the local Richmond and Norfolk newspaper reporters the evening before, the word *exclusive* sounded like a wonderful relief to her: it meant she would only have to put on a stiff blazer, sit under bright lights, state the literal facts of House Bill 663 one time, and then go straight back to our apartment in Richmond without having to repeat the exact same sentences to anyone else.
 
 "Do you mean if I talk to Mr. Vance at nine o'clock on Sunday morning, I only have to tell the story one time and nobody else will ask me to repeat it all afternoon?" Katie asked literally.
 
@@ -7270,7 +7264,7 @@ On the speakerphone, Arthur Vance let out a soft, warm laugh. "That is the exact
 
 "Oh, you don't need to waste money on a car, Mr. Vance," Katie said right away. "My brother Nate and I always ride public transit and pay our own regular fare, and a car would just get stuck in traffic on the 14th Street Bridge anyway. The suburban Staples Mill station doesn't have Sunday bus service yet, so we'll take the early JRTC bus down Broad Street to Richmond Main Street Station, ride the six-oh-five ARTS Northeast Regional train up to Alexandria, and use our blue CapitalPass cards from our family trips with our dad to take the Capital Transit Yellow Line across the Charles R. Fenwick Bridge into L'Enfant Plaza, and then transfer to the Route P6 bus across the National Mall right to your door on North Capitol Street. We'll be at your studio desk by eight-thirty—and then we can catch the eleven-twelve train out of Alexandria with the connecting ARTS Thruway shuttle back to Main Street Station so I can get back to our apartment and out of my dress blazer by two o'clock."
 
-"You two are taking a Richmond city bus, an intercity train, the Yellow Line subway across the Potomac, and a D.C. bus across the National Mall?" Mr. Vance asked, sounding genuinely charmed. "Well, whatever makes you most comfortable, Delegate. We'll have two security passes waiting for you and your brother at the Washington bureau front desk at eight-thirty Sunday morning. Thank you so much for giving us your word."
+"You two are taking a Richmond city bus, an intercity train, the Yellow Line subway across the Potomac, and a D.C. bus across the National Mall?" Mr. Vance asked, sounding genuinely charmed. "Well, whatever makes you most comfortable, Delegate. We'll have security passes waiting at the Washington bureau front desk at eight-thirty Sunday morning. Thank you so much for giving us your word."
 
 "Thank you for being so polite, Mr. Vance," Katie said, and pressed the button to end the call.
 
@@ -7280,15 +7274,15 @@ While we had been talking cleanly on Line One for the last four minutes, the lit
 
 Before I could even ask Katie why the whole console was lit up like a Christmas tree, our office door flew open. Katie's twenty-four-year-old legislative aide stumbled in carrying a thick stack of pink paper message slips, followed two seconds later by Greg, the Communications Director for the Virginia House Democratic Caucus, who was holding two vibrating cell phones in his hands and breathing like he had just sprinted all the way up the stairs from the third floor.
 
-"Katie! Do not touch that phone until I clear a schedule!" Greg gasped, leaning over the front edge of her desk. "Capitol Sunday is holding on Line Two, This Sunday is on Line Three, Beltway Sunday is on Line Four, and the cable networks are blowing up my cell phone! They all want to book you for Sunday morning! We can set up a full Sunday morning sweep right now—four television shows back-to-back from eight in the morning until noon—"
+"Katie! Do not touch that phone until I clear a schedule!" Greg gasped, leaning over the front edge of her desk. "*Capitol Sunday* is holding on Line Two, *This Sunday* is on Line Three, *Beltway Sunday* is on Line Four, and the cable networks are blowing up my cell phone! They all want to book you for Sunday morning! We can set up a full Sunday morning sweep right now—four television shows back-to-back from eight in the morning until noon—"
 
-"Oh, no thank you," Katie said calmly, shaking her head. "I would hate sitting in a stiff blazer repeating the exact same story four times in a row. Besides, I already promised Mr. Vance on Line One that I would only talk to Meet the Nation."
+"Oh, no thank you," Katie said calmly, shaking her head. "I would hate sitting in a stiff blazer repeating the exact same story four times in a row. Besides, I already promised Mr. Vance on Line One that I would only talk to *Meet the Nation*."
 
 The room went dead silent.
 
 Greg stared down at Katie, then over at my wheelchair, his mouth opening and closing without a sound.
 
-"You... you answered your own phone and promised an exclusive to Meet the Nation without talking to me first?" he whispered, his face flushing red.
+"You... you answered your own phone and promised an exclusive to *Meet the Nation* without talking to me first?" he whispered, his face flushing red.
 
 I looked up from my laptop keyboard, confused by his sudden anger. "Mr. Vance called while we were looking at CVTA bus stops. He was the first one to ask, he was very polite to Katie, and he told her that if she goes on at nine o'clock, she only has to explain the bill once and then we can catch the eleven-twelve train out of Alexandria and come home."
 
@@ -7300,11 +7294,11 @@ As he pulled the heavy oak door behind him, the latch didn't quite catch, leavin
 
 Through that crack, Katie and I heard every single word as Greg snatched up the blinking phones at the legislative aide's desk in the outer room and started barking into the handsets back-to-back.
 
-"Look, Sarah, I'm telling you, I can't put her on Capitol Sunday!" we heard him shout into Line Two, his voice loud and exasperated. "She's a backbench delegate from Virginia Beach who has never dealt with national press in her life! She picked up her own main office line five minutes ago before my staff could even get up the stairs and promised an exclusive to Meet the Nation! She had no idea what she was doing!"
+"Look, Sarah, I'm telling you, I can't put her on *Capitol Sunday*!" we heard him shout into Line Two, his voice loud and exasperated. "She's a backbench delegate from Virginia Beach who has never dealt with national press in her life! She picked up her own main office line five minutes ago before my staff could even get up the stairs and promised an exclusive to *Meet the Nation*! She had no idea what she was doing!"
 
 Beside me, Katie's hands froze on the edges of her transit binder.
 
-Out in the reception room, Greg slammed down Line Two, punched Line Three, and started all over again. "No, I'm not freezing This Sunday out on purpose! Delegate Prairie doesn't know how Washington booking rules work—she literally answered her own phone and gave away a Sunday morning exclusive without clearing it with Caucus Communications or the Minority Leader's office! Now I have to go down to the third floor and explain to leadership and the entire Democratic Caucus what just happened!"
+Out in the reception room, Greg slammed down Line Two, punched Line Three, and started all over again. "No, I'm not freezing *This Sunday* out on purpose! Delegate Prairie doesn't know how Washington booking rules work—she literally answered her own phone and gave away a Sunday morning exclusive without clearing it with Caucus Communications or the Minority Leader's office! Now I have to go down to the third floor and explain to leadership and the entire Democratic Caucus what just happened!"
 
 The outer hall door banged shut as he hurried down the corridor toward the stairs.
 
@@ -7312,7 +7306,7 @@ Inside Room 518, the silence felt suffocating.
 
 I looked over at my twin sister, and my stomach dropped right through the floor. Katie's fingers were trembling violently against the yellow highlighter in her lap, her breathing was coming in shallow, rapid gasps, and every trace of color had drained out of her face.
 
-For two autistic twins who had spent our whole lives relying on literal written rules to survive, there was no phrase on earth more terrifying than unwritten rules. Whenever someone in authority started shouting about protocols that weren't printed in any handbook—about failing to clear things with leadership or breaking rules nobody had ever told us existed—it sent every alarm bell in our nervous systems screaming at once.
+For two autistic twins who had spent our whole lives relying on literal written rules to survive, there was no phrase on earth more terrifying than *unwritten rules*. Whenever someone in authority started shouting about protocols that weren't printed in any handbook—about failing to clear things with leadership or breaking rules nobody had ever told us existed—it sent every alarm bell in our nervous systems screaming at once.
 
 "Nate..." Katie whispered, her voice shaking so badly she could barely get my name out as her chest began to heave. "Did I just break a House rule? Was I not allowed to talk to Mr. Vance on the telephone without asking the Caucus first?"
 
@@ -7402,9 +7396,9 @@ Both the Democratic Minority Leader and the Republican Majority Leader burst out
 
 Both Katie and I froze in our wheelchairs, staring at the two leaders with wide eyes. "Ten million?" I whispered.
 
-"Ten million and climbing," the Minority Leader nodded warmly. "And what you did on the telephone ten minutes ago without even trying, Katie, is the single biggest triumph our Caucus has had in a decade. Meet the Nation isn't just a Sunday morning show—it is the most prestigious public affairs broadcast in the United States. Members of Congress in Washington spend ten years lobbying just to get invited onto that set. Every President, every U.S. Senator, every Governor, and every Fortune 500 CEO in America watches Meet the Nation at nine o'clock on Sunday morning. Because you picked up your own phone and politely agreed to give Arthur Vance an exclusive so you only had to tell your story once, he gave a Virginia Beach delegate the solo nine o'clock A-Block lead at the very top of the broadcast."
+"Ten million and climbing," the Minority Leader nodded warmly. "And what you did on the telephone ten minutes ago without even trying, Katie, is the single biggest triumph our Caucus has had in a decade. *Meet the Nation* isn't just a Sunday morning show—it is the most prestigious public affairs broadcast in the United States. Members of Congress in Washington spend ten years lobbying just to get invited onto that set. Every President, every U.S. Senator, every Governor, and every Fortune 500 CEO in America watches *Meet the Nation* at nine o'clock on Sunday morning. Because you picked up your own phone and politely agreed to give Arthur Vance an exclusive so you only had to tell your story once, he gave a Virginia Beach delegate the solo nine o'clock A-Block lead at the very top of the broadcast."
 
-"Do you know how many sitting Governors and U.S. Senators in both parties would give their right arm to get invited onto the opening A-Block of Meet the Nation for a one-on-one exclusive with David Vance?" Majority Leader Callaway added with a chuckle. "Whenever some overcaffeinated press staffer starts hollering because you answered your own phone instead of playing Washington media games, you two didn't do a doggone thing wrong—he did. My job as Majority Leader is to help my caucus govern effectively, not assure our members that everything they write is brilliant. As I told the gentleman from Spotsylvania and Speaker Harwell right after the gavel yesterday—and as Sam, Mandy, and Sarah proudly informed Marge and me over supper last night after telling us how Sarah looked at Line 18 on your desk before noon and asked if somebody had to see her parts to prove she was a girl—you didn't kill his bill, Delegate. His bill killed his bill. Half my own caucus wishes he had put House Bill 663 through the Prairie-and-triplet quality-assurance test before he embarrassed the whole Commonwealth on television."
+"Do you know how many sitting Governors and U.S. Senators in both parties would give their right arm to get invited onto the opening A-Block of *Meet the Nation* for a one-on-one exclusive with David Vance?" Majority Leader Callaway added with a chuckle. "Whenever some overcaffeinated press staffer starts hollering because you answered your own phone instead of playing Washington media games, you two didn't do a doggone thing wrong—he did. My job as Majority Leader is to help my caucus govern effectively, not assure our members that everything they write is brilliant. As I told the gentleman from Spotsylvania and Speaker Harwell right after the gavel yesterday—and as Sam, Mandy, and Sarah proudly informed Marge and me over supper last night after telling us how Sarah looked at Line 18 on your desk before noon and asked if somebody had to see her parts to prove she was a girl—you didn't kill his bill, Delegate. His bill killed his bill. Half my own caucus wishes he had put House Bill 663 through the Prairie-and-triplet quality-assurance test before he embarrassed the whole Commonwealth on television."
 
 "Wait," I whispered, the vise around my ribs finally vanishing completely. "So when Greg went downstairs to tell the Caucus what Katie did..."
 
@@ -7416,21 +7410,149 @@ Both Katie and I froze in our wheelchairs, staring at the two leaders with wide 
 
 "We'll help you three check every schedule table in your bill on Monday afternoon," Katie promised warmly, her eyes crinkling with genuine joy.
 
-"And just so we're clear on the bipartisan record," the Majority Leader added with a kindly smile, "if you and Nate are taking the six-oh-five train out of Main Street Station on Sunday morning to go talk to David Vance on Meet the Nation, don't let anyone in this building bother you all weekend. Safe travels across the Potomac, Delegate—and Marge, the kids, and I will all be watching you Sunday morning before we see you at noon on Monday to strike House Bill 663 off the calendar for good."
+"And just so we're clear on the bipartisan record," the Majority Leader added with a kindly smile, "if you and Nate are taking the six-oh-five train out of Main Street Station on Sunday morning to go talk to David Vance on *Meet the Nation*, don't let anyone in this building bother you all weekend. Safe travels across the Potomac, Delegate—and Marge, the kids, and I will all be watching you Sunday morning before we see you at noon on Monday to strike House Bill 663 off the calendar for good."
 
 As the two leaders turned toward the door, Sam, Mandy, and Sarah all gave Katie and me a bright, relieved wave together before stepping back out into the fifth-floor hallway beside their Uncle Richard.
 
 Once the heavy oak door latched shut behind them—and while the marble acoustics of the corridor outside carried thirty seconds of the Minority Leader blistering Greg by the stairwell and ordering him to apologize to both Katie and me before noon—Katie looked over at me across our touching armrests inside our quiet office, the color completely back in her cheeks and her hands steady on the yellow transportation folders Sam, Mandy, and Sarah had delivered.
 
-"Page forty-two," Katie said softly, smiling as I pulled our bank card out of my wallet and clicked the final confirmation button on my laptop to lock in our two Business Class wheelchair bays on Sunday morning's ARTS Northeast Regional Train 164 from Richmond Main Street Station to Alexandria, along with the eleven-twelve southbound return on Train 143 and its connecting ARTS Thruway 8443 shuttle. "A Delegate controls her own office communications at all times."
+"Page forty-two," Katie said softly, smiling as I pulled our bank card out of my wallet and clicked the confirmation button on my laptop to lock in our Business Class wheelchair bays on Sunday morning's ARTS Northeast Regional Train 164 from Richmond Main Street Station to Alexandria, along with the eleven-twelve southbound return on Train 143 and its connecting ARTS Thruway 8443 shuttle. "A Delegate controls her own office communications at all times."
+
+### Part 3: Hold the Elevator!, Reuniting With Cousin Brittany in Room 518, Friday Night on JRTC Route 6, & Why Nate Must Speak
+
+**Date:** 2016-02-05 at 13:15 America/New_York
+
+![In the marble ground-floor elevator lobby of the Virginia General Assembly Building at 1:15 PM on Friday, February 5, 2016, 30-year-old cousin Brittany Fletcher—with a heavy-set build, thin silver wire-rimmed oval glasses, and medium-blonde hair in a plum sweater under an open dark winter coat—holds the open brass elevator door with her left hand in breathless astonishment as 30-year-old Delegate Katie Prairie and her twin brother Nate roll toward the cab side by side in their motorized SwiftChair power wheelchairs, looking up at Brittany in wide-eyed shock.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_gab_elevator_hold_reunion_brittany_katie_nate.jpg)
+
+#### Friday, February 5, 2016, 1:15 PM — "Hold the Elevator!" in the General Assembly Building Lobby
+
+"Hold the elevator!" I called out across the echoing marble lobby of the General Assembly Building at one-fifteen on Friday afternoon.
+
+Katie and I had just rolled back up the subterranean Capitol tunnel ramp from a twenty-two-minute Friday afternoon floor session with my silver MagnaBook Pro balanced across my lap tray and Katie's leather bill folder resting on hers, aiming our two SwiftChairs straight toward the main elevator bank to head back up to Room 518 for lunch. Twenty feet ahead of our front casters, the heavy brass doors of the right-hand elevator cab had already begun sliding smoothly shut.
+
+At the sound of my shout, a woman's hand shot straight out from inside the cab, catching the rubber safety edge between the closing brass doors and popping them wide open again.
+
+"Thank you so much!" Katie called out warmly as she and I nudged our joysticks forward, rolled side by side toward the brass sill, and looked up to thank the stranger holding the door.
+
+Both of our wheelchairs stopped almost dead at the threshold.
+
+Standing inside the wood-paneled elevator cab with her left hand braced trembling against the open brass door and her right hand clutching the worn strap of a shoulder purse like a life preserver was a heavy-set woman right around our own age in an open dark winter coat over a plum knit sweater, faded jeans, and gray sneakers. Years of hard living and stress-eating had softened her rounder face since high school, yet there was no mistaking those thin silver wire-rimmed oval glasses—or that exact warm caramel-ash shade of medium-blonde hair falling past her shoulders.
+
+Katie's breath caught audibly beside me. My fingers froze flat against the lid of my laptop.
+
+"Wait..." Katie whispered, staring straight up into the woman's terrified hazel-brown eyes behind those familiar wire-rimmed lenses. "Are you by chance Brittany Fletcher?"
+
+Inside the elevator cab, Brittany's lower lip quivered so hard she could barely form the word, staring down at the two of us in our matching black-and-silver SwiftChairs like she couldn't comprehend her own luck.
+
+"Yes," Brittany breathed, her voice shaking from head to toe. "Hi, Katie. Hi, Nate."
+
+For three full seconds, neither my twin sister nor I moved a muscle—fourteen years of silence since that awful New Year's Eve in Kempsville crashing silently into every memory of ten-year-old Blizzard of '96 sofa cuddles, freshman-year cafeteria chicken patties, and walking hand in hand across Lions Way to Earlton Court.
+
+Recovering my motor control first, I guided my SwiftChair cleanly into the cab beside Brittany while Katie rolled in right alongside my left armrest, and I reached up in sheer astonishment to press the round brass button for the fifth floor.
+
+As the brass doors slid shut, sealing the three of us inside the quiet wood-paneled cab, Brittany pressed her back against the corner rail, looking like she half expected us to tell her to get off on the second floor.
+
+"Where were you heading just now, Brittany?" Katie asked softly, never taking her eyes off our cousin's face.
+
+"Up—up to Room 518," Brittany stammered, swallowing hard against tears already pooling behind her glasses. "I looked at the directory board out by security. I didn't have an appointment or anything, and I didn't even know if a receptionist would let me leave a note..."
+
+Katie reached across our armrests to grip my right hand, and both of us spoke practically in unison as the floor indicator chimed *5*.
+
+"Come with us to our office right now," I told her firmly.
+
+"Please, Brittany," Katie insisted, rolling out into the quiet fifth-floor marble corridor ahead of her. "The three of us have a lot to talk about."
 
 ***
 
-#### Friday, February 5, 2016, 5:15 PM — Riding JRTC Route 6 to Dinner with Uncle Richard & The Triplets' Transit Homework
+#### Friday, February 5, 2016, 1:22 PM — Excusing Everyone From the Inner Office, Speaking With Aunt Karen, Uncle Steven, and Dad, & Brittany's Desperate Favor
+
+Inside the outer reception room of Suite 518, Katie's legislative aide looked up cheerfully from the front desk with a stack of constituent letters—only to pause mid-sentence when she saw our visitor's face crumple the second she stepped across the threshold of Katie's wood-paneled inner office.
+
+Brittany hadn't even reached the wooden guest chair in front of Katie's mahogany desk before the dam broke. Dropping her purse against her ankle, she covered her face behind her wire-rimmed glasses with both hands and burst into ragged, body-shaking sobs.
+
+"I am so sorry, Katie—I am so, so sorry, Nate!" Brittany cried, her voice cracking raw in her throat. "I ruined New Year's Eve, and I brought those horrible people into Uncle David's house when you two were just trying to save me from that crowd at Smoker's Corner, and I've wanted to tell you how sorry I am every single day for fourteen years! I know I got cut off from the family, and I deserved it, I swear I'm not making a single excuse—I just miss home so much, and I miss my mom and dad, and I miss the two of you, and I want to come home!"
+
+Katie took one look at our weeping cousin, turned her SwiftChair ninety degrees toward the open doorway, and spoke in her calmest, clearest Delegate voice.
+
+"Hannah, could you give Nate and me the inner office for the next forty-five minutes and hold all calls at the front desk, please?" Katie asked gently. "This is our cousin from Virginia Beach, and we need a private family moment."
+
+"Of course, Delegate—take all the time you need," Hannah said quietly, stepping back into the reception room and pulling the heavy solid-oak inner door firmly shut until the brass latch clicked into place.
+
+Now it was just Katie, me, and Brittany inside the quiet warmth of Room 518.
+
+I wheeled my SwiftChair around the corner of Katie's desk right alongside my sister's chair, pulled the box of facial tissues off the side table, and held it up to Brittany as she sank onto the front edge of the wooden guest chair right at eye level with our armrests.
+
+"Take a breath, Brittany," I said softly, feeling my throat tighten at the sight of how worn down and exhausted she looked beneath that winter coat. "Nobody here is yelling at you, and nobody is throwing you out."
+
+Wiping furiously beneath her silver wire-rimmed lenses with two crumpled tissues, Brittany let out a long, shuddering hiccup and looked from Katie's royal-blue blazer and brass *DELEGATE PRAIRIE* nameplate to my charcoal suit and laptop.
+
+"I still can't believe my eyes," Brittany whispered, a watery, bewildered smile flickering through her tears. "I've been living over on the Southside across the James River—in Hillside Court public housing—and last night at six o'clock I was standing in the kitchen when the Richmond evening news came on. All of a sudden there you were on television, Katie, sitting right on the floor of the Virginia House of Delegates tearing that awful bathroom bill to pieces, with Nate sitting right next to you!" She shook her head in amazement. "My heart nearly stopped right there by the sink. I kept thinking, *That's Katie! That's my cousin! What on earth is she doing in the House of Delegates?!* How did this happen?"
+
+For the next ten minutes, while Brittany sipped from a bottle of cold water I pulled from our small office refrigerator and slowly caught her breath, Katie and I caught her up gently on the fourteen years she had missed—how we had finished our computer degrees at CCHR, survived our own awful year apart with Brandon and Tiffany in 2005, built our software business together, fought to fix CVTA evening bus routes at the Virginia Beach Municipal Center, served on City Council, and won Kempsville's Eighty-Fifth House District so Katie was up here in Richmond every winter while we lived back on Arvin Road the rest of the year.
+
+With every honest answer Brittany gave us—never once blaming anyone else for December 31, 2002, admitting plainly how lonely eleventh grade had felt walking across the uncut Lions Way curb into Smoker's Corner alone while we rode the lift bus, and how badly she had spiraled after drifting away—Katie and I glanced across our armrests at each other and felt fourteen years of armor melt clean away. Underneath all that weight and heartbreak sat the exact same sweet cousin who had cut up my chicken patty sandwich in Mrs. DeMarco's cafeteria and held both of our hands all the way down Macgregory Street.
+
+"Wait a second, though," Katie frowned gently, leaning forward in her SwiftChair at something Brittany had said two minutes earlier. "Brittany, why did you say you were cut off from your mom and dad too? Aunt Karen and Uncle Steven never stopped loving you. We talk to your parents all the time back in Virginia Beach—Aunt Karen even helped Dad and us out after the divorce—and every single holiday your mom cries wondering why you barely ever call Earlton Court anymore."
+
+Brittany froze with the water bottle in both hands, her eyes widening behind her glasses. "Tyler told me... after my car broke down three years ago and we ended up up here in Richmond, Tyler kept telling me nobody in Virginia Beach wanted a failure like me tracking mud back onto their porch."
+
+Katie and I exchanged one horrified look. Without waiting another second, Katie reached across her desk blotter, pressed the speakerphone button on her multi-line console, dialed Aunt Karen and Uncle Steven's landline on Earlton Court first, and tapped the conference key to bridge in our dad David on his cell phone down at the Arvin Road house in Kempsville.
+
+"Hi, Katie sweetheart!" Aunt Karen's warm voice answered on the second ring, with Uncle Steven calling out a cheerful hello right behind her in their kitchen and Dad chiming in a second later: *"Afternoon, kiddos—saw your ten-million-view headline at lunch! Everything okay up in Room 518?"*
+
+"Everything is okay, Dad—Aunt Karen, Uncle Steven, are you sitting down?" Katie asked softly, glancing tenderly at Brittany's trembling hands. "Somebody rode the JRTC bus across the river to Room 518 ten minutes ago without an appointment, and she needs to hear your voices."
+
+"Mom? Daddy? Uncle David?" Brittany choked out toward the speakerphone.
+
+Dead silence hung on the line for half a heartbeat—followed by Aunt Karen letting out a sharp, sobbing gasp on Earlton Court.
+
+*"Brittany?! Oh, thank God—Steven, it's Brittany, our baby's in Katie's office!"* Aunt Karen cried openly over the speaker. *"Sweetheart, where have you been?! Your father and I have been worried sick about you for months!"*
+
+*"Brittany, honey, listen to your old man right now,"* Uncle Steven's deep, steady voice broke through, thick with emotion. *"I don't care what happened yesterday or fourteen years ago—we love you with everything we've got, your bedroom on Earlton Court hasn't changed an inch, and you always have a home with your mother and me."*
+
+*"And with us too, Brittany,"* Dad added immediately and warmly from Arvin Road. *"What happened when you kids were seventeen is ancient history in our house. You're family, kiddo. If you want to come home to Virginia Beach, all three of us will come get you whenever you say the word."*
+
+Brittany pressed both palms hard over her mouth, tears pouring freely down her cheeks as she nodded at the black plastic speakerphone like they could see her. "I love you guys so much," she sobbed, before suddenly flinching as her eyes darted involuntarily toward the brass clock on Katie's wall—two-oh-five—and a wave of sheer, icy terror washed across her face. "Mom, Daddy—I can't talk long, Tyler gets off his shift at three-thirty and if he checks the apartment and I'm not there before the wedding tomorrow—"
+
+*"Wedding tomorrow?!"* Uncle Steven, Aunt Karen, and Dad repeated in stunned unison over the speakerphone while Katie and I sat bolt upright in our wheelchairs.
+
+"Please, Katie, can I tell you and Nate first and have you call Mom and Daddy right back?" Brittany whispered frantically, clutching Katie's sleeve with shaking fingers. "If I break down on the phone any longer I won't make the two-thirty bus back across the bridge before he gets home!"
+
+Promising Aunt Karen, Uncle Steven, and Dad that Brittany was safe in our office right this minute and that Katie would call them back with a full plan as soon as Brittany caught her bus, Katie ended the conference call gently and wheeled her SwiftChair right up to Brittany's knees while I rolled in on Brittany's other side, taking both of her cold, shaking hands in mine just like we used to do on the walk home from Northwood High.
+
+"Talk to us, Brittany," I said quietly, looking straight into her eyes. "You're supposed to marry Tyler *tomorrow*?"
+
+"At two o'clock tomorrow afternoon," Brittany sobbed, fresh tears spilling over her lower lashes as she looked Katie and me straight in the eye. "At this bleak brick church down off Hull Street in South Richmond that I didn't even want to go to—it's his uncle's friend's church. I'm supposed to get married tomorrow, Nate, and I'm miserable. I don't love Tyler. I haven't loved him in years. He's the exact same mean, angry crowd from Smoker's Corner, only behind closed doors he controls every dime, keeps the car keys in his pocket, screams in my face, and—and this week when I tried to ask if we could postpone the wedding, he put his hands on me."
+
+My stomach knotted into cold iron, and beside me Katie's jaw set like granite.
+
+"Then don't get back on that bus to Hillside Court at all!" I said immediately, reaching toward my laptop bag. "Stay right here with Katie and me tonight! We have a whole apartment on West Broad Street, and Dad and Uncle Steven will drive up Interstate 64 tonight—"
+
+"No—listen to me, Nate, please!" Brittany pleaded, gripping both of my wrists so tightly her knuckles turned white. "Tyler kept my birth certificate, my Social Security card, and my bank card locked in the strongbox in our bedroom so we can bring the paperwork sleeve to the church tomorrow afternoon! Only tomorrow morning while he goes to get his suit pressed am I going to have the lockbox open to pack my bridal bag. And even worse—you don't know how crazy Tyler gets when he thinks somebody embarrassed him behind his back. If I just vanish off the street today without a word, he won't stop—he'll tear apart Hillside Court, he'll hunt every bus stop in Richmond, and he'll tell the police I was kidnapped or out of my mind!"
+
+Brittany leaned forward on the edge of the chair, staring straight into Katie's eyes and then mine with desperate, trembling courage.
+
+"I need a huge favor from the two of you," Brittany whispered through her tears. "Please—come to the church tomorrow afternoon at two o'clock. Nobody on Tyler's side knows what you two look like in person except maybe Tyler from fourteen years ago, and he won't be looking at the back pews once the music starts. When the minister reads the part of the service where he asks if anyone knows just cause why we shouldn't be married—*speak now or forever hold your peace*—I need someone to speak up."
+
+Katie and I stared at her in stunned silence.
+
+"You want one of us to object out loud in the middle of the wedding?" Katie asked carefully, making sure she understood every literal mechanic of what Brittany was asking.
+
+"Yes!" Brittany nodded urgently, wiping her cheeks with the back of her sleeve. "I looked up how that pastor runs his weddings—if anybody objects during the lawful-impediment charge, he stops the ceremony right there in front of all forty witnesses and pulls the bride alone into the side vestry office with the church coordinator to verify there's no coercion or abuse! Once I'm behind that closed vestry door away from Tyler with my birth certificate and ID already in my bag, I can show the minister what Tyler did to me, tell him under Virginia law I do not consent to marry him, and walk out the back ramp with you two while the church deacons hold Tyler at the front! Please, Katie—please, Nate—if nobody speaks up tomorrow, I'm going to freeze at that altar out of pure terror. Will you come get me?"
+
+Katie didn't hesitate for a tenth of a second. Flipping up her inner armrest, my twin sister leaned across and wrapped both arms tightly around Brittany's shoulders while I leaned in from Brittany's other side and hugged both of them at once.
+
+"Write down the church address and the cross street right here," I told Brittany firmly, sliding Katie's yellow notepad and pen onto her lap. "Katie and I will be inside those sanctuary doors before quarter to two tomorrow—and once we walk out that back ramp with you, we are taking you home with us, and we aren't letting Tyler near you ever again."
+
+***
+
+#### Friday, February 5, 2016, 5:15 PM & 8:30 PM — Keeping Our JRTC Route 6 Dinner Promise With Uncle Richard & Deciding Who Speaks Tomorrow
+
+After seeing Brittany safely down the elevator to catch her 2:32 PM southbound JRTC Route 74 bus back across the Manchester Bridge—and after Katie called Aunt Karen, Uncle Steven, and Dad back behind our closed office door to lay out every detail of Saturday afternoon's church rescue and Sunday morning's Alexandria handoff—Katie and I kept our regular Friday afternoon schedule at the General Assembly Building so nothing looked out of the ordinary.
 
 "Wait up, Delegate Prairie! Wait for us!"
 
-Katie and I had just rolled our SwiftChairs out the accessible ground-floor doors of the General Assembly Building onto the brick sidewalk at Ninth and Broad after the brief Friday afternoon floor session gaveled out for the weekend when three familiar voices called out behind us in the crisp February twilight.
+Katie and I had just rolled our SwiftChairs out the accessible ground-floor doors onto the brick sidewalk at Ninth and Broad at five-fifteen that evening when three familiar voices called out behind us in the crisp February twilight.
 
 Turning our chairs beside the glass-paneled JRTC bus shelter, we saw thirteen-year-old Sam, Mandy, and Sarah hurrying down the granite steps in their wool winter coats over their navy House Page blazers, holding onto each other's hands—with the Republican House Majority Leader, their Uncle Richard, and a warm-faced woman in a camel-colored coat walking right behind them.
 
@@ -7440,7 +7562,7 @@ Turning our chairs beside the glass-paneled JRTC bus shelter, we saw thirteen-ye
 
 "And second," Uncle Richard said with a good-natured shake of his head, looking down at his nephew and nieces, "since there's no evening Page study hall on Friday nights, these three have been begging Marge and me all afternoon to let them go for a real bus ride aboard JRTC with you and Nate so they can see firsthand how you two get around Richmond. If we aren't intruding on your Friday night plans, how would you two feel about supervising a bipartisan field trip on the Broad Street bus to grab some supper together?"
 
-Katie's face lit up from ear to ear. "Intruding? We would love that!"
+Katie's face lit up with genuine gratitude for ninety minutes of warm normalcy before tomorrow's storm. "Intruding? We would love that!"
 
 "Please say we can ride the Route 6 bus all the way out West Broad Street, Nate!" Sam said eagerly, bouncing slightly on his heels between his twin sisters. "We've watched the blue-and-white buses pass Capitol Square all month, and neither Mandy, Sarah, nor I have ever ridden a city transit bus in our lives!"
 
@@ -7452,7 +7574,7 @@ As the forty-foot coach pulled smoothly to the brick curb, the pneumatic air sus
 
 Sam, Mandy, and Sarah watched in rapt fascination as the hydraulic aluminum front ramp unfolded onto the sidewalk with a quiet whir.
 
-"Afternoon, Delegate! Afternoon, Nate! Got a whole crew with you tonight!" the regular Friday evening JRTC operator called out cheerfully, reaching down to flip up the two cushioned bench seats over the front left and right wheelchair securement bays.
+"Afternoon, Delegate! Afternoon, Nate! Got a whole crew with you tonight!" Marcus, the regular Friday evening JRTC operator, called out cheerfully, reaching down to flip up the two cushioned bench seats over the front left and right wheelchair securement bays.
 
 "Teaching the next generation of transit planners how the Broad Street spine works, Marcus," Katie smiled as she and I rolled smoothly up the ramp, executed a synchronized reverse turn in the wide front vestibule, and backed our SwiftChairs into the left and right securement bays facing each other across the center aisle.
 
@@ -7476,207 +7598,241 @@ As we rolled past the columns of the Science Museum and passed the corner of Bro
 
 "That's why public transit is freedom, Uncle Richard," Sam said seriously, looking up from his pocket notebook. "If you can't drive a car—or if you're thirteen like us, or if you use a SwiftChair like Delegate Prairie and Nate—a bus route with a wheelchair ramp and ten-minute service means you aren't trapped in a house waiting on somebody else."
 
-Katie and I exchanged a quiet, moved glance across the center aisle, knowing without anyone having to say it out loud how much being trapped in a house meant to three kids who had survived what Sam, Mandy, and Sarah had survived a year ago.
+Katie and I exchanged a quiet, deeply moved glance across the center aisle—thinking simultaneously of Sam, Mandy, and Sarah's rescue a year ago and of our own cousin Brittany sitting across the James River tonight waiting to break free tomorrow afternoon.
 
-Twenty minutes after leaving Ninth and Broad, the Route 6 bus pulled into the Oak Lawn transfer plaza at the western end of the corridor. We rolled down the front ramp onto the wide concrete sidewalk and headed half a block down the illuminated promenade to the Oak Lawn Diner, where the hostess seated the seven of us at a long front table with two open roll-under spaces at the end for Katie's SwiftChair and mine.
+Over plates of hot meatloaf, mashed potatoes, grilled cheese sandwiches, and tall glasses of ginger ale and sweet tea at the Oak Lawn Diner, the seven of us spent a warm, restorative hour talking transit timetables and rail connections before riding the eastbound Route 6 bus back to Ninth and Broad at seven-thirty-five. Under the cast-iron streetlamp outside Capitol Square, I handed Sam, Mandy, and Sarah three folded copies of the official JRTC System Map and pocket timetable booklets with their weekend homework assignment: read the whole system map, spot why ten-minute service on Route 6 works so well, find the evening and Sunday service gaps—like zero Sunday buses to the suburban Staples Mill train station—and bring three legislative fixes to Room 518 on Monday afternoon.
 
-Over plates of hot meatloaf, mashed potatoes, grilled cheese sandwiches, and tall glasses of ginger ale and sweet tea, the seven of us spent the happiest ninety minutes of the entire legislative session talking not like politicians from opposite parties, but like family. Sam, Mandy, and Sarah peppered Katie and me with questions about how our thirty-day magnetic swipe passes worked, how the hydraulic wheelchair lifts operated on intercity buses, and how we timed the connection between the JRTC bus and the ARTS passenger trains at Richmond Main Street Station.
+By eight-thirty that Friday night, after riding the next westbound Route 6 coach eleven minutes up West Broad Street to Boulevard and locking the deadbolt of Apartment 104 behind us, Katie and I parked our SwiftChairs side by side at the dining table with Brittany's handwritten church address resting between us.
 
-By seven-fifteen, after Uncle Richard insisted on picking up the diner check for the table, we all bundled back up in our winter coats, walked and rolled back to the Oak Lawn bus stop, and boarded the eastbound JRTC Route 6 bus headed back toward Downtown Richmond.
+"We need to be really smart about how we do this tomorrow afternoon, Katie," I said quietly, lacing my left fingers through her right hand across our armrests. "Your floor video just crossed twelve million views today, and you're going live on *Meet the Nation* thirty-six hours from now."
 
-Twenty minutes later, the bus glided to a smooth stop back under the cast-iron streetlamps at Ninth and Broad outside Capitol Square, just two blocks from the downtown hotel where the Pages stayed and where Uncle Richard and Aunt Marge kept their winter suite.
+Katie nodded slowly, her analytical engineer's mind already running the exact same calculation. "If I open my mouth during that ceremony tomorrow—even by a single syllable—somebody in those pews with a cell phone is going to recognize my face from the news."
 
-Katie and I rolled down the front ramp onto the brick sidewalk with them so we could see the triplets safely back to Capitol Square before catching the next westbound bus back up Broad Street to our apartment.
+"And within an hour," I agreed grimly, "every political tabloid and gossip blog in Virginia will twist Brittany's escape into a headline claiming Delegate Katie Prairie crashed a South Richmond wedding to pull a publicity stunt as a Delegate."
 
-Gathered together under the warm glow of the Ninth Street lamp, I unzipped the side pocket of my laptop bag and pulled out three crisp, folded paper copies of the official JRTC System Map along with three printed Route 6 and Route 24 pocket timetable booklets.
+"I won't wear my legislative lapel pin, and I won't wear a blazer," Katie decided firmly, looking straight into my eyes. "And from the second we roll into that church until the second we roll out the back door with Brittany, I am not going to say a single word during the ceremony. Not one."
 
-"Since you three officially passed your first JRTC field test tonight," Katie said, smiling warmly at Sam, Mandy, and Sarah as I handed one system map and one timetable booklet to each of the triplets, "Nate and I have a weekend homework assignment for the three of you before we meet in my office on Monday afternoon."
+"I'll speak the objection," I promised her, squeezing her hand tightly. "I'm a private citizen, I'm her cousin, and nobody on television cares about me. When that minister says *speak now or forever hold your peace*, I'll raise my hand and say *I object*—and once Brittany shows the minister the truth in that side room, we bring her straight back here across the river, and Sunday morning we take her all the way up to Washington with us on the train so Tyler can't lay a finger on her."
 
-Sam, Mandy, and Sarah stood up straight in their navy House Page blazers, clutching the transit maps like treasure. "What's the homework, Delegate Prairie?" Mandy asked eagerly.
+### Part 4: Via Southside Plaza, Speaking Up at the Altar, Taking Brittany to Meet the Nation, & Left Onto Macgregory Street
 
-"Between now and Monday afternoon, we want the three of you to learn as much as you possibly can about JRTC," I told them. "Read through that system map and those timetable booklets together. Look at why Route 6 works so well on Broad Street with buses every ten minutes—and then look for the gaps in the map where working people and disabled riders get stranded."
+**Date:** 2016-02-06 at 13:10 America/New_York
 
-"Specifically," Katie added, holding up three fingers, "find out which JRTC routes stop running at six or seven o'clock at night so second-shift workers can't get home, find out which suburban stops—like the Staples Mill train station—have zero bus service at all on Sundays, and come up with three things the General Assembly could do to help JRTC fix those gaps. We'll go over your findings together in Room 518 on Monday afternoon!"
+![Inside an austere red-brick South Richmond church sanctuary on Saturday afternoon, February 6, 2016, 30-year-old Nathaniel Prairie leans forward in his black-and-silver motorized SwiftChair power wheelchair raising his left hand and calling out 'I object!' while twin sister Katie sits completely silent beside him with her mouth closed in a plain dark navy cardigan; up at the chancel steps, heavy-set cousin Brittany Fletcher in her thin silver wire-rimmed oval glasses and modest ivory dress turns toward Nate in tearful relief as groom Tyler glares back and the silver-haired officiant raises a hand to halt the ceremony.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_south_richmond_church_nate_i_object_brittany_katie.jpg)
 
-"We'll read the whole map tonight!" Sam promised, his eyes shining behind his glasses as Mandy and Sarah nodded in complete unison beside him.
+#### Saturday, February 6, 2016, 1:10 PM — Riding JRTC Route 74 ("Via Southside Plaza"), Speaking Up at the Altar, & The Side Room
 
-"Thank you for taking us on the bus, Delegate Prairie! Thank you, Nate!" Sarah and Mandy called out together, giving Katie and me a bright wave as Uncle Richard shook both of our hands warmly and Aunt Marge wished us safe travels on the train to Washington on Sunday morning.
+*"Route 74. Oak Grove — via Southside Plaza. Welcome aboard JRTC!"*
 
-Watching Uncle Richard and Aunt Marge walk hand-in-hand down Ninth Street with Sam, Mandy, and Sarah already unfolding their JRTC system maps under the streetlights, Katie and I turned our SwiftChairs back toward the westbound bus shelter at Ninth and Broad.
+Standing on the windy brick corner of Ninth and Broad at ten minutes past one on Saturday afternoon—Katie dressed deliberately in a plain dark-navy knit cardigan and slacks without a single brass legislative pin anywhere on her collar, and me in my charcoal suit and tie—you couldn't possibly miss where the forty-foot blue-and-white bus kneeling at the curb was headed. Anyone who rode transit in Richmond quickly learned that JRTC made dead sure every soul within two city blocks knew if a bus was going to Southside Plaza: above the windshield, the amber LED headsign flashed back and forth every two seconds between *74 OAK GROVE* and *VIA SOUTHSIDE PLAZA*, while the external speaker repeated *"via Southside Plaza"* loud enough to echo off the limestone walls of City Hall.
 
-Four minutes later, the next westbound JRTC Route 6 coach knelt at the curb. Katie and I rolled aboard, swiped our passes, held hands across the center aisle for the eleven-minute ride up West Broad Street to Boulevard, and rolled inside Apartment 104 at the Broad & Boulevard Lofts—ready for a quiet weekend at home before our early Sunday morning train to Washington.
+Rolling our two SwiftChairs up the hydraulic front ramp, swiping our thirty-day magnetic passes, and locking into the opposing front mobility bays, Katie and I held hands across the center aisle as Route 74 climbed onto the high steel span of the Manchester Bridge over the churning winter rapids of the James River. On the printed JRTC system map, crossing from Downtown Richmond into the Southside took barely seven minutes; looking down through the bridge railings at the wide expanse of gray water separating Capitol Square from the brick rows of Hillside Court and the worn strip shopping centers along Jefferson Davis Highway and Hull Street, it felt twenty miles further away.
+
+Twenty-two minutes later—before the bus swung west toward the sprawling mid-century transfer bays of Southside Plaza—we pulled the yellow stop cord along Hull Street, rolled down the front ramp onto a cracked concrete sidewalk, and wheeled two blocks down a quiet side street to a stark, window-boxed red-brick church with an unadorned wooden sign out front.
+
+Even from the curb, it was obvious why Brittany had never wanted to set foot in the place. Half the parking spaces sat empty under a gray February sky, zero flowers hung on the heavy double doors, and inside the dim vestibule a bored usher barely glanced up from his phone as Katie and I rolled quietly down the side aisle to an open wheelchair gap beside the fourth row of dark oak pews.
+
+True to our Friday night agreement, Katie kept her hands folded calmly over her lap, her face neutral, and her mouth completely closed.
+
+At two o'clock, tinny organ chords hummed from a pair of wall speakers. Groom Tyler—taller and heavier in the jaw than the eighteen-year-old loudmouth I remembered from Smoker's Corner, wearing an ill-fitting dark suit with his arms crossed impatiently until the silver-haired minister cleared his throat—stepped out from the side door beside two of his buddies. Thirty seconds later, Brittany walked slowly up the brown carpet alone in a plain, modest ivory knee-length dress, clutching a small white ribbon-tied bouquet in front of her stomach while a matching ivory handbag hung over her left wrist—heavy enough, I knew immediately, to hold her birth certificate, Social Security card, and wallet.
+
+Behind her thin silver wire-rimmed oval glasses, Brittany's eyes flicked for a fraction of a second toward our fourth-row pew gap. Seeing Katie and me sitting side by side in our SwiftChairs, her shoulders dropped half an inch in silent, desperate relief.
+
+Beside me, Katie reached across our armrests and gave my right hand one firm, steady squeeze. She didn't make a sound.
+
+Up on the low carpeted chancel steps, the silver-haired minister opened his black leather ceremony binder and read briskly through the opening exhortation. Tyler stared straight ahead like he was waiting out a traffic court docket; Brittany stared down at the carpet fibres in front of her ivory shoes, trembling visibly at the hem of her sleeves.
+
+Then the minister turned the page and looked out over the forty scattered guests in the pews.
+
+"Into this estate these two persons come now to be joined," the minister read in a resonant baritone. "If anyone here present can show any just cause why they may not lawfully be joined together, let them speak now, or forever hold their peace."
+
+Beside me, Katie sat motionless as carved marble, her lips pressed firmly shut.
+
+I clicked off my electromagnetic wheel brake, rolled my SwiftChair six inches clear of the oak pew end into the aisle, raised my left hand squarely into the air, and projected my voice cleanly across the brick sanctuary.
+
+"I object!"
+
+Every head in the church whipped around like a thunderclap had hit the rafters.
+
+Up on the chancel steps, Tyler spun on his heel, his face purpling instantly as his eyes locked onto my wheelchair and then Katie's. "What the hell—who let them in here?!" Tyler barked, taking half a lunge down the top step with both fists balled at his sides. "Keep reading, Preacher, that's nobody—"
+
+"Hold right where you are, young man!" the silver-haired minister commanded sharply, raising his right hand palm-out between Tyler and Brittany while two broad-shouldered church deacons in dark suits immediately stepped out of the front pew to block the bottom of the chancel steps.
+
+Because Brittany wasn't looking at Tyler anymore—she had turned completely around toward my wheelchair with tears streaming openly down both cheeks behind her wire-rimmed glasses, nodding her head *yes* through her sobs.
+
+"Sir, my name is Nathaniel Prairie," I said clearly and calmly from the aisle while Katie remained completely silent beside my right wheel. "The bride is our cousin, Brittany Fletcher, and she is standing at this altar under physical duress and coercion against her free will."
+
+"He's lying! Brittany, tell him to get the hell out!" Tyler roared, straining against the elder deacon's outstretched arm.
+
+"No—he's telling the truth!" Brittany sobbed out loud, clutching her ivory handbag to her chest as she backed two steps away from Tyler toward the minister's robes. "Please stop the wedding—I don't want to marry him!"
+
+Every trace of brisk routine vanished from the minister's weathered face. Closing his ceremony binder with a loud snap, he beckoned immediately to the older gray-haired woman in a burgundy suit standing by the organ—the church's wedding coordinator—and gestured toward Katie and me.
+
+"Deacon Miller, Deacon Ross, keep the groom and the congregation seated in this sanctuary—nobody comes near that hallway door," the minister ordered firmly. "Miss Fletcher, bring your bag and come right into the vestry office with Mrs. Holloway and me, and let your cousins roll right in with you."
+
+Seconds later, the heavy oak door of the private vestry side room clicked shut and bolted behind the five of us, muffling Tyler's muffled shouting out in the nave.
+
+Inside the quiet brick-walled office, Brittany's knees gave out onto the upholstered sofa beside Mrs. Holloway's desk as she sobbed uncontrollably into her hands. Katie rolled smoothly right up beside Brittany's knee to hold her trembling hand, while I parked my SwiftChair just inside the doorway facing the minister's bookshelf.
+
+"You're safe behind this door, child, take your time," Mrs. Holloway murmured gently, wrapping a wool shawl within reach on the sofa arm as the minister set the unexecuted county marriage license envelope flat on his desk. "Your cousin stated under the lawful-impediment charge that you are here under physical duress. Tell us plainly in your own words what happened."
+
+"He—he hit me on Tuesday night and again Thursday morning when I begged him to wait," Brittany choked out through ragged gasps, pulling the wooden folding modesty screen beside the vestry coat rack halfway across between the sofa and the desk so only gray-haired Mrs. Holloway stood beside her while the minister and I kept our eyes respectfully fixed on the wall calendar across the room. With trembling fingers, Brittany unfastened the top back hook of her ivory dress collar and shifted the shoulder seam just enough for Mrs. Holloway to witness the ugly purple-and-yellow contusions across her upper back, along with the dark, painful bruise marks where Tyler had struck and wrenched her across her buttocks and her breast.
+
+Mrs. Holloway let out a low, horrified intake of breath—"Lord have mercy, baby, help me zip your dress right back up and put this warm shawl around you"—helping Brittany fasten her collar modestly back in place and wrapping the wool shawl snugly around her shoulders before stepping out from behind the screen and giving her husband-in-ministry a single grim, unmistakable nod.
+
+Sobbing into a handful of tissues with the shawl pulled tight to her chin and Katie holding her hand, Brittany looked frantically up at the minister—making dead certain nobody misunderstood the exact truth of what she was reporting.
+
+"He—he hit me and grabbed me there and left those bruises, Pastor, I swear to God he did," Brittany cried fiercely through her tears, "and I want you to know he did *not* do anything worse than that—he didn't force himself on me that way, I swear he didn't! I just can't marry him! He screams at me every day, he locked up my cards until this morning, and I'm terrified of what he's going to do next! Please—I just want to go home to my mom and dad in Virginia Beach, and if getting all the way to Virginia Beach can't be arranged today, I want to stay right here in Richmond with my cousins!"
+
+"You will never stand beside that man in this church again as long as I draw breath," the minister said quietly and steel-firm, writing *CEREMONY HALTED — NO CONSENT / DURESS* across the outside sleeve of the unexecuted worksheet and handing Brittany back her own certified birth certificate copy while Mrs. Holloway photographed a written church incident statement for Brittany to take to the Virginia Beach magistrate. "Deacon Miller and Deacon Ross are retired Chesterfield deputies; they're going to keep Mr. Tyler inside that sanctuary for twenty full minutes while Mrs. Holloway lets the three of you out our rear parish-hall wheelchair ramp straight onto Thirty-Fourth Street so you're already across the river on the bus before he ever sees the parking lot."
+
+"Come on, Brittany," Katie spoke for the very first time since leaving Ninth and Broad—her voice gentle, steady, and full of twin steel as she squeezed Brittany's fingers. "You're staying with Nate and me tonight on West Broad Street, and nobody is letting go of you."
 
 ***
 
-#### Saturday, February 6, 2016, 11:15 PM — The Studio 6B Tip-Off & The "Anatomical Verification Checkpoint" Cold Open
+#### Saturday, February 6, 2016, 11:15 PM — The Untouched Queen Bed, Two Twins in a Closet, & Watching Saturday Night Sketch Together
 
-Because our Sunday morning alarm was set for four-thirty so we could catch the early JRTC Route 6 bus down Broad Street to Main Street Station, Katie and I planned to turn in early on Saturday night.
+By four-thirty that Saturday afternoon, after riding the inbound JRTC Route 74 coach—still flashing *VIA SOUTHSIDE PLAZA* in alternating amber letters before climbing back over the Manchester Bridge into Downtown Richmond—and transferring cleanly onto westbound Route 6 up to Broad and Boulevard, Brittany was locked safely behind the steel deadbolt and keypad lobby of Apartment 104 with a hot bowl of chicken noodle soup and her ivory wedding dress stuffed at the bottom of the hallway trash chute.
 
-By eleven-fifteen on Saturday evening inside Apartment 104 at the Broad & Boulevard Lofts, our royal-blue and charcoal blazers and pressed slacks were already laid out for the morning, our reloadable blue plastic CapitalPass cards for Capital Transit were tucked into our wallets, and our two SwiftChairs were parked side by side near the bedroom wall outlet. I was just reaching for the remote control on the table to shut off the living room television when Katie's cell phone buzzed once, then twice, then five times in rapid succession.
+Around seven-thirty that evening, right after Katie finished a long speakerphone call coordinating tomorrow morning's Alexandria meetup with Dad, Uncle Steven, and Aunt Karen, Brittany's prepaid phone buzzed twice with panicked text messages from a neighbor back at Hillside Court before we powered the handset completely off and pulled the battery: Tyler had come back to the apartment furious, stuffed two duffel bags into his sedan, and roared south toward Interstate 64 swearing Brittany had run back to Virginia Beach to hide at her parents' house on Earlton Court.
 
-Katie picked it up from her lap tray and blinked at the stack of incoming text messages from three different Capitol beat reporters and the Minority Leader's chief of staff.
+"That settles tomorrow morning completely," I said from my SwiftChair beside the kitchen counter while Katie poured three cold glasses of ginger ale. "Even if he thinks you're down in Tidewater tonight, we aren't leaving you alone in this apartment in Richmond tomorrow morning while Katie and I ride up to Washington for *Meet the Nation*. I just added a third Business Class ticket to our reservation on my laptop, and I have Dad's spare blue CapitalPass card right in my wallet. You're coming all the way to Washington with us at five-fifteen tomorrow morning—and Dad, Uncle Steven, and Aunt Karen are driving up Interstate 95 from Virginia Beach in the morning to meet the three of us right outside the King Street–Old Town faregates in Alexandria as soon as Katie's broadcast is over."
 
-"What's going on?" I asked, pausing with my thumb over the power button on the remote. "Did Delegate Cobb pull the bill already?"
+Sitting on our living room sofa wrapped in one of Katie's oversized fleece sweatshirts and clean cotton pajama pants, Brittany blinked back grateful tears behind her wire-rimmed glasses—then glanced down the short hallway into our single bedroom when Katie pointed out fresh sheets and two fluffy pillows laid across the untouched queen bed.
 
-"No," Katie said slowly, reading the messages off the glowing screen. "A producer in New York just tipped off the Richmond press corps about the eleven-thirty dress rehearsal for Saturday Night Sketch in Studio 6B. On the exact same GBS television network where I'm appearing tomorrow morning, their writers had originally built tonight's cold open around a sketch mocking the President of the United States over this week's White House scandal—and they just scrapped the entire Oval Office set after dress rehearsal because my floor exchange on House Bill 663 stole the show! Everyone is telling us to leave the television on right now because House Bill 663 is the star of the eleven-thirty cold open."
+"Wait a minute," Brittany paused, looking from the pristine queen mattress to the wide walk-in bedroom closet, where Katie and I had already unrolled our thick double-wide quilted sleeping bag across two foam camp pads on the carpeted closet floor. "If I take the bed... where do the two of you sleep?"
 
-I stared at my sister for two seconds, then burst out laughing and backed my SwiftChair right up beside hers in front of the television. "Well, four hours of sleep and a ninety-minute train ride to Alexandria is plenty. Let's watch!"
+Katie and I exchanged a slightly sheepish twin glance across our armrests.
 
-Five minutes later, at eleven-thirty sharp, the network chime rang out and the broadcast of Saturday Night Sketch faded up on a painted replica of a Virginia State Capitol hallway in Studio 6B.
+"In our sleeping bag in the walk-in closet," Katie explained matter-of-factly. "The queen bed has never actually been slept in since we moved in for January session."
 
-Right beside a mahogany door marked *LADIES ROOM* stood a cast member wearing a khaki state trooper uniform with an oversized foam campaign hat, a clipboard, and a yellow carpenter's tape measure clipped to his belt, sitting behind a folding card table with a hand-painted poster board sign reading:
+Brittany stared at the two of us for three seconds—taking in two thirty-year-old software engineers, one of whom was about to appear live on national network television in less than ten hours—and let out her very first real, warm laugh since Friday afternoon.
+
+"You two have been sleeping zipped inside a closet floor while a whole queen bed sits empty five feet away?" Brittany asked softly.
+
+"Ever since our mom bang-searched the back alley outside our Greenway Court apartment when we were eighteen," I admitted honestly, wheeling over beside the sofa. "Enclosed walls, latched door, zero windows—for two autistic twins, it's the only way our brains turn off at night."
+
+Brittany's smile softened into pure, aching tenderness. Reaching out from the sofa cushion, she patted the spot right beside her—and once I transferred carefully onto the middle cushion with Katie transferring onto my other side so I could sit right in the middle and wrap an arm around both of my favorite women just like ninth grade, Katie's cell phone suddenly buzzed five times in rapid succession on the coffee table at eleven-fifteen.
+
+Katie picked it up and blinked at the stack of incoming text messages from three Capitol beat reporters and the Minority Leader's chief of staff.
+
+"What's going on?" I asked, reaching for the television remote. "Did Delegate Cobb pull House Bill 663 already?"
+
+"No," Katie said slowly, reading the glowing screen in disbelief. "A producer in New York just tipped off the Richmond press corps about the eleven-thirty dress rehearsal for *Saturday Night Sketch* in Studio 6B. On the exact same GBS network where I'm appearing tomorrow morning, their writers just scrapped their entire Oval Office presidential cold open after dress rehearsal because my floor exchange on House Bill 663 stole the show! Everyone is telling us to turn on the television right now because House Bill 663 is the star of the eleven-thirty cold open."
+
+"No way!" Brittany gasped against my right shoulder, sitting straight up under our shared fleece blanket as I clicked on the living room television five minutes before eleven-thirty.
+
+At eleven-thirty sharp, the network chime rang out and *Saturday Night Sketch* faded up on a painted replica of a Virginia State Capitol corridor in Studio 6B—where an actor in an oversized foam state-trooper hat sat behind a folding card table outside a *LADIES ROOM* door with a carpenter's tape measure and a hand-painted sign reading:
 
 > COMMONWEALTH OF VIRGINIA<br>
 > ANATOMICAL VERIFICATION CHECKPOINT<br>
 > HAVE YOUR BIRTH CERTIFICATE OR FIFTY DOLLARS READY
 
-Beside the folding table stood a second cast member wearing a gray hairpiece and a rumpled navy suit with an oversized name badge reading *DELEGATE FROM SPOTSYLVANIA*.
-
-"Good evening, fellow Virginians!" the actor playing the Spotsylvania delegate declared earnestly into the camera, dabbing sweat off his forehead with a pocket handkerchief while the New York studio audience immediately started laughing. "Now, I know a lot of folks in the news media got the wrong impression this week when Delegate Katie Prairie asked me on the House Floor how my new bathroom bill, House Bill 663, is actually going to work. People are saying, 'Wait a minute, is the Commonwealth of Virginia really going to make women pull their pants down for a government official just to use the ladies' room at Virginia Dominion University or the Community College of Hampton Roads?' And I am here tonight to assure every tourist, college student, and business owner in America that we have worked out a totally normal, non-creepy system!"
-
-He gestured proudly toward the actor in the state trooper uniform, who blew a silver referee whistle as a female cast member carrying a shopping bag walked up to the restroom door.
-
-"Hold it right there, ma'am!" the fake trooper barked, flipping open his clipboard. "Before you enter this state-owned facility to wash your hands, pursuant to House Bill 663, I need to verify your physical anatomy for the Virginia Literary Fund! Did you bring your original hospital birth certificate with the raised county seal?"
-
-"To go to the bathroom at the DMV?" the woman asked, blinking in disbelief. "No! Why would I carry my birth certificate in my purse?"
-
-The fake trooper gasped and looked over at the Spotsylvania delegate. "Uh-oh, Delegate! No birth certificate in the hallway! What's Step Two in Line 18 of your bill?"
-
-The actor playing the Spotsylvania delegate froze, his eyes going wide under the studio lights as he pulled a twenty-foot-long accordion scroll of paper out of his suit pocket and squinted at it in panic.
-
-"Well—uh—hang on, let me check Line 18!" he stammered, his face turning beet-red as the audience howled. "We don't—nobody is suggesting we look! Wait—Officer, just ask her a trick question only a biological woman from Virginia would know! Ask her what shade of autumn cardigan she's wearing!"
-
-"Actually, Delegate," the woman said dryly, pulling a crisp fifty-dollar bill out of her wallet and slapping it onto the card table, "if the options in Spotsylvania County are handing a state trooper my birth certificate, answering questions about my pants, or paying fifty bucks to buy schoolbooks for the Virginia Literary Fund, here's fifty dollars—because clearly Spotsylvania County needs all the schoolbooks it can get!"
-
-The studio audience erupted into cheers and applause as the actor playing the delegate stared helplessly into the camera lens for four silent seconds—mimicking Delegate Martin Cobb's exact four-second freeze-frame from Thursday afternoon's House Floor broadcast—before dropping into the folding chair behind the card table and shouting into the camera, "I pass the bill by for the day, Mr. Speaker—and live from Midtown New York, it's Saturday Night Sketch!"
-
-In our living room on West Broad Street, I was laughing so hard my shoulders shook, while Katie sat staring at the opening saxophone montage with both hands pressed over her warm cheeks.
-
-"And in nine hours," I grinned, clicking off the television so we could climb into our shared sleeping bag sanctuary for four hours of sleep before the alarm, "you get to take the train up to Washington and finish that bill off for good."
+For the next six minutes—as a sweating actor wearing a badge reading *DELEGATE FROM SPOTSYLVANIA* pulled a twenty-foot accordion scroll of Line 18 out of his suit pocket, panicked when a woman going to wash her hands at the DMV didn't have a raised-seal hospital birth certificate in her purse, took her fifty-dollar bill *"because clearly Spotsylvania County needs all the schoolbooks it can get,"* froze beet-red into the camera lens for four silent seconds just like Delegate Martin Cobb on Thursday afternoon, and shouted *"I pass the bill by for the day, Mr. Speaker—and live from Midtown New York, it's Saturday Night Sketch!"*—the three of us laughed so hard together on that West Broad Street sofa that my ribs hurt, with Brittany wiping happy tears from behind her glasses for the first time in years before she headed into the queen bed and Katie and I zipped into our quiet closet sanctuary for four hours of sleep.
 
 ***
 
-#### Sunday, February 7, 2016, 6:05 AM to 2:05 PM — Train 164 from Main Street Station, The Charles R. Fenwick Bridge, & Live on Meet the Nation
+#### Sunday, February 7, 2016, 6:05 AM to 2:05 PM — Taking Brittany to Washington for Meet the Nation & Waiting Beyond the King Street–Old Town Faregates
 
 ![Inside the GBS News Washington bureau studio on Sunday morning, February 7, 2016, 30-year-old Delegate Katie Prairie sits in her black motorized SwiftChair power wheelchair in a wide camera frame in front of an illuminated Virginia State Capitol backdrop for a live national interview on Meet the Nation, while twin brother Nate monitors the broadcast from his SwiftChair beside the studio confidence monitor.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_gbs_richmond_studio_meet_the_nation_live_interview_katie_nate.jpg)
 
-At five-fifteen on Sunday morning, while the rest of Richmond was still fast asleep in the February dark, Katie and I rolled out onto West Broad Street in our winter coats over our broadcast suits, caught the early Sunday morning eastbound JRTC Route 6 bus down the hill into Shockoe Bottom, and took the station elevator up to the historic train shed at Richmond Main Street Station.
+At five-fifteen on Sunday morning, while the rest of Richmond was still fast asleep in the February dark, Katie and I rolled out onto West Broad Street in our winter coats over our broadcast suits with Brittany walking right between and beside our armrests in her dark winter coat and one of Katie's warm knit scarves, caught the early Sunday morning eastbound JRTC Route 6 bus down the hill into Shockoe Bottom, and rode the station elevator up to the historic train shed at Richmond Main Street Station.
 
-At six-oh-five on the dot, the bright headlamp of ARTS Northeast Regional Train 164 swung around the curve from the Peninsula Subdivision and glided alongside the high-level platform. We rolled side by side into the warm Business Class car at the rear of the consist, engaged the electromagnetic brakes of our SwiftChairs inside the two integrated mobility bays we had reserved on Friday morning, and traded the February chill for the quiet hum of the floorboard heaters.
+At six-oh-five on the dot, the bright headlamp of ARTS Northeast Regional Train 164 swung around the curve from the Peninsula Subdivision and glided alongside the high-level platform. Katie and I engaged the electromagnetic brakes of our SwiftChairs inside the two integrated Business Class mobility bays while Brittany settled into the cushioned companion seat directly across the aisle beside us, keeping a protective hand resting lightly on my armrest as the floorboard heaters hummed against the February chill.
 
-Because crossing the narrow, shifting steel vestibule diaphragm between railcars on a moving train was completely unsafe in a power wheelchair, neither Katie nor I ever tried to roll into the Café Car while the train was in motion. Instead, ten minutes north of Main Street Station, when the friendly Business Class conductor came down the aisle to scan our tickets, he pulled out his notepad and offered to run across the vestibule to the Café Car and bring breakfast back to our mobility bays for us.
+Because crossing the narrow, shifting steel vestibule diaphragm between railcars on a moving train was completely unsafe in a power wheelchair, neither Katie nor I ever tried to roll into the Café Car while the train was in motion—and even though Brittany immediately offered to walk forward and carry breakfast back for us, the friendly Business Class conductor insisted on bringing a cardboard tray back for all three of us himself.
 
-Because Katie and I were twins, we copied each other for food all the time without even thinking about it. Both of us ordered the exact same breakfast from the conductor: a warm bacon, egg, and cheese biscuit, a sweet cheese Danish, and a cold bottle of apple juice as our complimentary Business Class drink.
-
-When the conductor returned a few minutes later carrying a cardboard tray and set the two identical paper-wrapped biscuits, the two identical Danishes, and the two identical bottles of cold apple juice onto our lap trays, Katie and I thanked him and paid for our food. Ordinarily, whenever the two of us were wide awake and in a playful mood, ordering the exact same meal meant one of us would immediately point across our armrests at the other's tray and say, "Hey, you have my biscuit!" or "You have my juice!" Right now at six-twenty in the morning, however, running on four hours of sleep inside a warm, gently swaying train car, neither of us was in a playful mood—we were both still half asleep. Without a single word of teasing, we unwrapped our matching bacon, egg, and cheese biscuits and Danishes in sleepy twin synchrony, sipped our cold apple juice with heavy eyelids, and rested our heads back against our headrests.
-
-For the next hour and a half, as the winter sun rose pale pink and gold over the Rappahannock River at Fredericksburg and the Potomac creeks along Quantico, nobody asked Katie about House Bill 663, nobody shoved a microphone in her face, and nobody recognized us. We were just Katie and Nate again, riding the rails together the way we loved best.
+Because Katie and I were twins, we copied each other for food without even thinking about it, and sleepy Brittany happily copied us right down the line: three identical warm bacon, egg, and cheese biscuits, three sweet cheese Danishes, and three cold bottles of apple juice. Running on four hours of sleep at six-twenty in the morning, neither Katie nor I even had the energy for our usual *"Hey, you have my biscuit!"* twin routine—all three of us simply unwrapped our matching breakfasts in sleepy synchrony, sipped cold apple juice as the winter sun rose pale pink and gold over the Rappahannock River at Fredericksburg and the Potomac creeks along Quantico, and let the rhythmic click of the rails carry Brittany safely a hundred miles north of Richmond.
 
 At seven-fifty sharp, Train 164 pulled to a stop at Alexandria Union Station beneath the white stone spire of the George Washington Masonic Memorial.
 
-Rather than staying onboard for the slow twenty-eight-minute crawl through the freight switches into Washington Union Station, we detrained onto the brick platform at Alexandria with the station attendant's portable lift, followed the flat brick walkway a hundred and fifty feet straight into the King Street–Old Town Capital Transit station, and pulled our blue plastic CapitalPass cards out of our wallets—the exact same reloadable farecards we had carried on weekend family trips to Washington with Dad when we were growing up in Virginia Beach.
-
-We tapped our CapitalPass cards against the circular target pads on the wide accessible faregate, rode the elevator up to the island platform, and rolled straight onto a waiting northbound Yellow Line train.
+Detraining onto the brick platform with the station attendant's portable lift rather than staying onboard for the slow twenty-eight-minute freight-switch crawl into Washington Union Station, the three of us followed the flat brick walkway a hundred and fifty feet straight into the King Street–Old Town Capital Transit station, tapped our three blue plastic CapitalPass cards at the wide accessible faregate, and rolled straight onto a waiting northbound Yellow Line train.
 
 Twelve minutes later, just past the Pentagon tunnel portal, our silver railcar burst out into the bright morning sunlight high above the Potomac River on the Charles R. Fenwick Bridge.
 
-Directly to our right across the shimmering gray water, the northbound highway lanes of Interstate 395 on the 14th Street Bridge were backed up for half a mile behind an early-morning fender bender and a highway maintenance truck—the exact traffic jam a network limousine would have been stuck idling in right then. Out here on the Charles R. Fenwick Bridge, our Yellow Line train flew across the river at fifty miles an hour with a clear view of the white marble dome of the Jefferson Memorial and the Washington Monument rising against the crisp Sunday sky.
+Directly to our right across the shimmering gray water, the northbound highway lanes of Interstate 395 on the 14th Street Bridge were backed up for half a mile behind an early-morning fender bender and a highway maintenance truck—the exact traffic jam a network limousine would have been stuck idling in right then—while our Yellow Line train flew across the river at fifty miles an hour past the white marble dome of the Jefferson Memorial and the Washington Monument.
 
-"Told you the Charles R. Fenwick Bridge beats the 14th Street Bridge every single time," I said, grinning across the aisle of the railcar as we glided smoothly into the L'Enfant Plaza portal in southwest Washington at eight-twelve.
+"Told you the Charles R. Fenwick Bridge beats the 14th Street Bridge every single time," I grinned across the aisle at Katie and Brittany as we glided smoothly into L'Enfant Plaza at eight-twelve, rode the street elevator up to Seventh Street and Maryland Avenue Southwest, and rolled fifty feet down the sunny brick sidewalk onto a kneeling Capital Transit Route P6 bus—where our CapitalPass cards flashed green with the automatic rail-to-bus transfer discount, carrying the three of us across the open green lawn of the National Mall and past the gleaming dome of the United States Capitol right to the curb on North Capitol Street Northwest at eight-thirty-two.
 
-"Every single time," Katie agreed as we rolled off the train, tapped our blue CapitalPass cards at the wide accessible faregate, and rode the station elevator up to the street level at Seventh Street and Maryland Avenue Southwest.
+When we rolled through the security glass of the GBS News Washington bureau three minutes later, senior producer Arthur Vance nearly dropped his coffee mug realizing Katie had genuinely brought her brother and cousin all the way from Richmond by city bus, intercity rail, Yellow Line subway, and local D.C. bus—immediately ushering Brittany into the private, card-locked green room down the hall with hot herbal tea, pastries, and a clear studio monitor feed where zero cameras could ever catch her face.
 
-Instead of staying on the subway to transfer deep underground at Gallery Place for the Red Line into the cavernous, echoing concourse of Washington Union Station—the exact sensory ambush we had avoided by getting off the ARTS train at Alexandria—we rolled fifty feet down the sunny brick sidewalk to the Seventh Street bus shelter just as a northbound low-floor Capital Transit Route P6 bus pulled to the curb.
-
-The bus knelt with a pneumatic hiss, the front ramp unfolded, and Katie and I rolled aboard into the front wheelchair bays. When we tapped our blue CapitalPass cards against the circular target on the farebox within two hours of exiting the Yellow Line, the screen flashed green with Capital Transit's automatic rail-to-bus transfer discount—making our local D.C. bus connection completely free.
-
-For the next twelve minutes, holding hands across the center aisle of the Route P6 bus, we glided straight north up Seventh Street across the open green lawn of the National Mall between the Air and Space Museum and the National Gallery of Art, swung east along Constitution Avenue past the gleaming white marble dome of the United States Capitol, and turned north up Louisiana Avenue and North Capitol Street.
-
-At eight-thirty-two, the Route P6 driver deployed the front ramp right at the curb on North Capitol Street Northwest, half a block from the GBS News Washington bureau.
-
-When we rolled through the security glass of the Washington broadcast bureau at eight-thirty-five, Arthur Vance nearly dropped his coffee mug when he realized Katie had actually come all the way from Richmond on a JRTC city bus, a Business Class intercity train, a Yellow Line subway car across the Charles R. Fenwick Bridge, and the Route P6 bus across the National Mall without a single staffer or chauffeur in tow.
-
-Inside the main studio, the floor crew had cleared away the standard swivel guest chair and projected a high-resolution panorama of Thomas Jefferson's white-columned Virginia State Capitol across the curved LED wall directly behind Katie's tape mark, while the large flat-screen studio monitor to the side glowed blue with the program banner reading *MEET THE NATION — DEL. KATIE PRAIRIE*. When a well-meaning stage manager asked if Camera One should crop the frame tight around Katie's shoulders so viewers wouldn't focus on her wheelchair, Katie shook her head politely and rested her hand on her joystick armrest.
+Inside the main studio, the floor crew had cleared away the standard swivel guest chair and projected a high-resolution panorama of Thomas Jefferson's white-columned Virginia State Capitol across the curved LED wall behind Katie's tape mark, while the side monitor glowed blue with *MEET THE NATION — DEL. KATIE PRAIRIE*. When a well-meaning stage manager asked if Camera One should crop tight around Katie's shoulders so viewers wouldn't focus on her wheelchair, Katie shook her head politely.
 
 "Keep the frame wide enough to show my chair, please," Katie told him warmly. "A lot of people watching across the country this morning have never seen a legislator in a power wheelchair on a Sunday morning show, and I don't hide who I am."
 
-Five minutes before air, the floor director clipped the miniature broadcast microphone to the lapel of Katie's royal-blue blazer and fitted the clear plastic IFB earpiece into her right ear, then guided me to my spot right beside the studio confidence monitor just outside the wide camera lens—completely out of the broadcast frame so there was zero confusion about who held the constitutional office, yet close enough that Katie had a clear, unobstructed sightline to me the entire time.
+Seated just outside the wide camera frame beneath the confidence monitor with my silver MagnaBook Pro open to the statutory text of House Bill 663 and Virginia's fourteen Fortune 500 corporate headquarters, I gave my twin sister a steady nod as the brass orchestra fanfare echoed and Camera One's tally light flared red at nine o'clock sharp.
 
-Underneath the glowing *MEET THE NATION — DEL. KATIE PRAIRIE* studio monitor, I engaged the electromagnetic brakes of my SwiftChair and opened my silver MagnaBook Pro across my lap tray. On my screen sat the exact statutory text of House Bill 663 alongside a list of the fourteen Fortune 500 corporate headquarters located in the Commonwealth of Virginia.
+"If it's Sunday, it's *Meet the Nation*," moderator David Vance announced coast to coast. "Joining us live in our Washington studio this morning—after riding the early morning train up from Richmond Main Street Station and the Yellow Line across the Potomac—is Virginia Delegate Katie Prairie of Virginia Beach, whose blistering ninety-five-second exchange on the floor of the Virginia House of Delegates over House Bill 663 has been viewed more than twelve million times since Thursday afternoon, and was even immortalized last night in the cold open on late-night television. Delegate Prairie, welcome to *Meet the Nation*."
 
-"Thirty seconds to live, Delegate," the stage manager called out softly as the iconic brass orchestra fanfare of Meet the Nation echoed through the studio monitors.
+"Good morning, David," Katie said evenly into Camera One. "Thank you for having me—and the Charles R. Fenwick Bridge was wide open all the way across the river."
 
-Katie rested her right hand calmly near her joystick controller and her left hand on her armrest, looking briefly over at me. I gave my twin sister a steady nod from behind my laptop screen.
+For the next eighteen minutes, Katie dismantled House Bill 663 on live national television with calm, unshakeable software-engineering precision—explaining when Vance asked if she had tried to be theatrical that she and I wrote computer code for a living and read every word of the Code of Virginia literally; walking viewers side by side through Line 18 on Page 1 (*"determined by a person's anatomy"*) and Line 54 on Page 2 (*fifty-dollar civil summons enforced by police*); reminding the country that she had used a power wheelchair full-time since age sixteen and had pulled out a steel tape measure before her freshman session just to get an ADA-compliant Capitol restroom stall wide enough to close the door; asking plainly how any officer at Virginia Dominion University or the Community College of Hampton Roads could prove physical anatomy in General District Court without violating the Fourth Amendment; affirming clearly that transgender women are women, transgender men are men, and Virginia's naval bases, public universities like CPI and VDU, and fourteen Fortune 500 employers hadn't sent lawmakers to Richmond to turn police into bathroom inspectors; and answering Vance's final question about higher office by smiling slightly toward the Capitol backdrop and saying her only focus was laying House Bill 663 permanently on the table tomorrow at noon and catching the eleven-twelve train out of Alexandria.
 
-The red tally light atop Camera One flared bright red.
+When the tally light clicked off at nine-eighteen, Arthur Vance hurried out holding his cell phone with wide eyes: the Associated Wire had just flashed an urgent bulletin from Richmond that House Republican leadership was recommitting House Bill 663 to the General Laws subcommittee Monday morning to kill it before the noon floor gavel even fell.
 
-"If it's Sunday, it's Meet the Nation," moderator David Vance's voice resonated across the studio and into millions of living rooms from coast to coast. "Joining us live in our Washington studio this morning—after riding the early morning train up from Richmond Main Street Station and the Yellow Line across the Potomac—is Virginia Delegate Katie Prairie of Virginia Beach, whose blistering ninety-five-second exchange on the floor of the Virginia House of Delegates over House Bill 663 has been viewed more than twelve million times since Thursday afternoon, and was even immortalized last night in the cold open on late-night television. Delegate Prairie, welcome to Meet the Nation."
+Declining the network town car politely so we wouldn't miss our handover in Alexandria, Katie and I picked up Brittany from the green room at nine-twenty-five, rolled back aboard the southbound Capital Transit Route P6 bus across the National Mall to L'Enfant Plaza, and rode a southbound Yellow Line train right back across the sunlit Charles R. Fenwick Bridge into Virginia.
 
-"Good morning, David," Katie said evenly, keeping her eyes focused straight into the glass lens of Camera One. "Thank you for having me—and the Charles R. Fenwick Bridge was wide open all the way across the river."
+At ten-sixteen on Sunday morning, the three of us rode the glass platform elevator down into the brick mezzanine of the King Street–Old Town station and rolled toward the row of stainless-steel faregates.
 
-"Delegate, let's start with that moment on the House Floor on Thursday," Vance said, as the broadcast aired the ninety-five-second floor clip side by side with our live studio feed. "You held up the printed text of House Bill 663 and asked the bill's patron why you, or any woman or girl in the Commonwealth of Virginia, should have to pull her pants down for a government official or a police officer just to use the ladies' room at a community college, a public university, or the State Capitol. Critics on the other side of the aisle claim you were being deliberately theatrical to embarrass the majority. Did you plan that line to go viral?"
+Brittany gasped softly beside my left wheel, her hands flying to her mouth.
 
-"Not at all, David," Katie replied, her voice calm, clear, and completely literal. "Anyone who knows my twin brother Nate and me back home in Virginia Beach and Norfolk knows I don't do political theater. We write computer software for a living, and when a bill is placed on our desks in the House of Delegates, my job as a constitutional officer is to read every single word literally—because the courts and the police have to enforce the literal words we put into the Code of Virginia, not whatever talking point a politician gives at a press conference afterward."
+Standing side by side right there on the unpaid concourse just beyond the faregates—having driven three and a half hours straight up Interstate 64 and Interstate 95 together from Virginia Beach since dawn—were our dad David in his navy windbreaker, Uncle Steven in his canvas work jacket, and Aunt Karen holding her arms wide open with tears already shining on her cheeks.
 
-Out of the corner of her eye, Katie glanced toward my chair as I tapped the touchpad of my laptop beside the studio monitor.
+The instant Brittany tapped her blue CapitalPass card and stepped through the wide accessible gate ahead of our SwiftChairs, Aunt Karen and Uncle Steven wrapped their daughter between them in a fierce, sobbing three-way embrace while Dad stepped right up behind them, resting a steady hand on Uncle Steven's shoulder before leaning down to hug Katie and me tight across our armrests.
 
-"And when you read Line 18 on Page 1 and Line 54 on Page 2 of House Bill 663 side by side," Katie continued smoothly, "the bill applies to every public building, public school, and public college campus owned or leased by the Commonwealth. It defines compliance not by an identification card or how someone lives their daily life, but strictly by what it calls 'a person's anatomy,' and it authorizes any law enforcement officer to issue a fifty-dollar civil summons for the Literary Fund. As someone who has used a power wheelchair full-time since I was sixteen years old—and who had to pull out a steel tape measure before my freshman session just to get an ADA-compliant restroom stall wide enough to close the door in privacy inside our own State Capitol complex—I asked the gentleman from Spotsylvania that question on Thursday because I wanted a literal, legal answer to a basic Fourth Amendment problem: since police officers standing in the hallway of the State Capitol, Virginia Dominion University, or the Community College of Hampton Roads do not carry a filing cabinet of citizens' birth certificates, how can an officer prove a citizen's physical anatomy in General District Court without conducting an invasive physical search?"
+"We've got you now, baby girl," Uncle Steven whispered roughly against the top of Brittany's hair, holding his daughter like he was never letting go again. "You're coming straight home to Virginia Beach with your mama, Uncle David, and me today—we're stopping straight at the magistrate's office to file that protective order, and you're going to take all the time you need to catch your breath and put your life back together."
 
-"And as millions of Americans saw on Thursday—and again in parody last night in New York—the patron couldn't answer you," Vance noted. "Instead, the Majority Leader had to pass the bill by for the day. What are you hearing from Virginia's business community and House leadership ahead of tomorrow's noon session?"
+Wiping her cheeks behind her glasses while keeping one arm around Aunt Karen's waist, Brittany turned back to Katie and me as the six of us walked and rolled the hundred and fifty feet down the flat brick path into Alexandria Union Station twenty minutes before our eleven-twelve southbound train.
 
-"What I can tell you is that employers, universities, and families across Hampton Roads, Richmond, and Northern Virginia are deeply alarmed," Katie said clearly. "Virginia is home to the largest naval base in the world at Norfolk, major shipbuilding and port facilities, world-class public universities like Commonwealth Polytechnic Institute and Virginia Dominion University, and fourteen Fortune 500 corporate headquarters. Transgender women are women, transgender men are men, and none of those employers—and none of the working families I represent in Virginia Beach—sent us to Richmond to waste taxpayer money turning police officers into fifty-dollar bathroom inspectors or turning our Commonwealth into a national punchline. We have coastal flooding to mitigate, public transit systems to expand, disability Medicaid waitlists to clear, and classrooms to fund."
+"Katie... Nate," Brittany said softly, kneeling halfway down beside our touching armrests in the quiet brick waiting room so her eyes were right on a level with ours. "Thank you for opening that elevator door on Friday, and thank you for speaking up for me yesterday. Once I get back on my feet in Virginia Beach..."
 
-"One final question before we let you go, Delegate Prairie," Vance said, his tone warming with genuine respect. "A lot of viewers across the country are meeting you for the very first time this weekend. You entered public life after fighting to fix public transit schedules in Hampton Roads, and now you've single-handedly brought one of the most controversial bills in the country to a dead halt. Do you have your sights set on higher office down the road—perhaps the State Senate or even here in Washington?"
+Katie flipped up her inner armrest and hugged Brittany tightly around the neck while I held Brittany's hand firmly in mine.
 
-Just off-camera beneath the studio monitor, I smiled faintly above my laptop keyboard.
+"Listen to us, Brittany," I told her, smiling steadily as Katie nodded right beside my cheek. "The sixty-day General Assembly session adjourns in five weeks in mid-March. The day the gavel drops in Richmond, Katie and I are coming straight back home to Arvin Road in Virginia Beach—and that promise the three of us made walking home from Northwood High School is still good. Whenever you're ready this spring, you can move right in and start living with Katie and me."
 
-"Right now, David, my only focus is noon tomorrow in the building right behind me," Katie said, gesturing slightly toward the glowing image of the Virginia State Capitol behind her SwiftChair, "and catching the eleven-twelve ARTS train out of Alexandria with my brother so we can get back to Richmond this afternoon. Once we make sure House Bill 663 is permanently laid on the table where it belongs, I have transportation and accessibility amendments to pass for the people of Virginia Beach."
+Brittany nodded through bright, happy tears, hugging both of us one more time before Dad, Uncle Steven, and Aunt Karen stood together on the Alexandria brick platform waving until our eleven-twelve southbound ARTS Northeast Regional Train 143—with Katie grinning playfully across the aisle over our cold apple juices to tease *"Hey, you have my juice!"* before we connected smoothly onto the lift-equipped ARTS Thruway 8443 motorcoach at Staples Mill—carried Katie and me back to Main Street Station, westbound Route 6, and our soft cotton sweatshirts in Apartment 104 by five minutes past two.
 
-"Delegate Katie Prairie of Virginia Beach, thank you for joining us this morning," Vance said.
+***
 
-By nine-eighteen, the red tally light atop Camera One clicked off and the floor director unclipped the miniature microphone from the lapel of Katie's royal-blue blazer.
+#### Monday, February 8, 2016, 11:45 AM & 2:12 PM — House Bill 663 Laid on the Table & Tyler's Blind-Rage Left Turn Onto Macgregory Street
 
-Arthur Vance walked out onto the studio floor holding his cell phone with wide eyes alongside two fresh mugs from the green room. "Delegate Prairie, our control room phones are already lighting up from Capitol Hill to Richmond, and the Associated Wire just put out an urgent alert from the Virginia State Capitol—House leadership just announced they are sending House Bill 663 back to the General Laws subcommittee tomorrow morning to strike it from the docket before the noon floor gavel even falls! You're welcome to relax in the hospitality suite as long as you like, and whenever you're ready to head back to Virginia, our driver can bring the town car around."
+At quarter to twelve on Monday morning downstairs in the packed General Laws subcommittee room, with television cameras jammed shoulder-to-shoulder along both walls, House Bill 663 died in nine seconds flat.
 
-"Thank you, Mr. Vance, but we really do have that eleven-twelve train to catch at Alexandria," Katie said politely, handing her clear plastic earpiece back to the audio technician.
-
-She had been sitting upright in that stiff royal-blue broadcast blazer, button-down collar, and tailored dress slacks since four-forty-five in the morning on four hours of sleep, and under the hot studio lights her sensory limit was nearly maxed out. Waiting around until three-thirty-eight in the afternoon for the direct one-seat Peninsula train back to Main Street Station would have meant spending four more hours trapped in formal interview clothes.
-
-At nine-twenty-five sharp, I closed my silver laptop, tucked it into my bag, and rolled out the front doors onto North Capitol Street right beside my sister.
-
-We caught the southbound Capital Transit Route P6 bus right back across the National Mall to Seventh Street Southwest, rode the street elevator down into L'Enfant Plaza, tapped our blue CapitalPass cards at the wide accessible gate with the automatic bus-to-rail transfer credit, and rode a southbound Yellow Line train right back out into the bright morning sun across the Charles R. Fenwick Bridge. By ten-fifteen, we rolled off the King Street–Old Town platform, waited together in the quiet brick waiting room of Alexandria Union Station, and boarded the Business Class car of southbound ARTS Northeast Regional Train 143 with the station attendant's portable lift at eleven-twelve on the dot.
-
-Now that the television cameras were behind us and House Bill 663 was headed for the legislative graveyard, both of us were finally wide awake and in a much lighter mood. When the Business Class conductor walked back from the Café Car and set two complimentary bottles of cold apple juice onto our lap trays, Katie glanced sideways at my identical bottle with a playful twin grin and said, "Hey—you have my juice!"
-
-"Pretty sure yours is the one on your tray, sis," I laughed, clinking my bottle against hers across the aisle.
-
-As the train glided south past Quantico and Fredericksburg, Katie's cell phone buzzed nonstop inside her bag with texts from delegates, reporters, and national political producers. She didn't answer a single one. She leaned her head back against her headrest, sipped her cold apple juice, and watched the winter pine trees blur past the window while I held her hand across the aisle.
-
-At one-oh-two in the afternoon, Train 143 pulled to a stop at the suburban Staples Mill station in Henrico County.
-
-Waiting right outside the station doors in the reserved charter lane was the white lift-equipped ARTS Thruway 8443 connecting motorcoach with *RICHMOND MAIN STREET* glowing on its amber destination sign. Because our Business Class tickets were booked through to Main Street, the driver already had the hydraulic wheelchair lift unfolded and waiting on the curb before we even rolled through the sliding glass doors.
-
-In less than ten minutes, the driver secured both of our SwiftChairs into the floor tracks of the coach, raised the lift, and pulled straight out onto Interstate 64 East toward downtown. By one-thirty-five, the Thruway shuttle dropped us right beneath the historic clock tower at Richmond Main Street Station, where we caught the Sunday afternoon westbound JRTC Route 6 bus straight up Broad Street to Boulevard.
-
-At five minutes past two—while the political panels in Washington and the Governor's staff in Richmond were still replaying her nine o'clock interview on every screen—I unlocked the front door of Apartment 104 at the Broad & Boulevard Lofts.
-
-Katie rolled straight into the bedroom, unbuttoned that stiff royal-blue television blazer, hung it up in the closet, and traded her starched collar and dress slacks for her softest gray cotton sweatshirt and fleece sweatpants. Five minutes later, after I had ditched my charcoal suit and tie for an old Virginia Beach t-shirt and athletic pants, we parked our SwiftChairs side by side near the living room window overlooking West Broad Street, kicked up our footrests, and enjoyed the quietest Sunday afternoon in Richmond.
-
-The next morning, Monday, February 8, just before the noon floor session convened at the Capitol, the House majority recommitted House Bill 663 back to the General Laws subcommittee room downstairs to dispose of it without forcing their members to cast a recorded roll-call vote on the Floor.
-
-With television cameras crammed shoulder-to-shoulder along the side walls, the subcommittee chairman called House Bill 663 up and didn't even allow debate.
-
-"Is there a motion to lay House Bill 663 on the table?" the chairman asked briskly.
-
-"So moved," a majority member muttered without looking up from his desk.
-
-"All in favor of laying the bill on the table say aye—all opposed say no—the ayes have it, and House Bill 663 is laid on the table!" the chairman announced in a single breath, banging his gavel to kill his own party's bathroom bill on an unrecorded voice vote before anyone could demand a roll call.
-
-Standing by the lectern as his bill died in nine seconds flat—alongside an equally furious Delegate Robert Marsh, who was already muttering under his breath that he would bring his own "Physical Privacy Act" back next session—Delegate Martin Cobb glared down the dais at his own party's members, gathered up his folders, and snapped into the open air as he stormed out the door:
+Without allowing a single word of floor debate, the subcommittee chairman called for a motion to lay House Bill 663 on the table, gaveled through an unrecorded voice vote before anyone could demand a roll call, and watched a beet-red Delegate Martin Cobb—flanked by an equally sour Delegate Robert Marsh muttering about bringing back his own Physical Privacy Act next year—snatch up his folders and snap into the open air as he stormed out into the corridor:
 
 "I'm going to pray that you all get courage!"
 
-At the accessible end of the room, Katie watched the bill's patron stomp out into the hallway, turned her head toward my wheelchair, and gave me the quietest, proudest twin smile in the world as we reached across our armrests and squeezed each other's hand.
+Two hours later at twelve minutes past two, right after the brief Monday afternoon floor session adjourned and Katie and I rolled back into Room 518 ahead of our afternoon transit-map review with Sam, Mandy, and Sarah, Katie's private cell phone rang with Dad's number flashing on the screen.
+
+Katie tapped speakerphone immediately. "Hi, Dad! House Bill 663 is officially dead on the table—how is Brittany holding up today?"
+
+*"Brittany, Karen, Steven, and I are all completely unharmed, kiddos, and every kid outside on the buses is going to be okay—I wanted to tell you that first before you hear the helicopters on the Norfolk news,"* Dad said urgently over the speaker, the unmistakable wail of multiple Virginia Beach Fire and EMS sirens echoing clearly behind his voice. *"Steven and I are standing out on the front lawn of Karen and Steven's house on Earlton Court right now while Karen stays inside with Brittany."*
+
+Katie and I both froze over her desk blotter, gripping each other's hands across our armrests. "Dad, why are there sirens on Earlton Court?!" I asked sharply.
+
+*"Tyler showed up here twenty minutes ago,"* Dad said grimly. *"He drove down from Richmond hunting for Brittany, parked crooked across Steven's driveway at quarter to two, and started pounding on the storm door screaming for her to come out. Steven and I stepped right onto the front porch without letting him within twenty feet of Brittany, handed him a copy of the emergency protective order notice through the screen, and told him Virginia Beach Police were already three minutes out on Kempsville Road and he needed to get off the property."*
+
+Katie's eyes widened. "Did he try to fight you and Uncle Steven?"
+
+*"No—he lost his mind completely behind the wheel instead,"* Dad exhaled heavily. *"You two remember how Earlton Court is laid out from walking over here in ninth and tenth grade: when you leave Karen and Steven's house by car, you have to turn right onto Macgregory Street to get out of the neighborhood, because turning left goes straight into the dead end at Smoker's Corner against the Northwood High School fence."*
+
+My stomach plunged as the exact mental map of those streets flashed behind my eyes—two hundred and fifty straight feet of level residential asphalt dead-ending into a wooden red-and-white striped barricade, a galvanized chain-link fence, an unbroken concrete curb, and Lions Way.
+
+"Dad... two o'clock on a Monday afternoon," Katie whispered in horror. "Two o'clock is Northwood High dismissal!"
+
+*"Right at the two o'clock bell,"* Dad confirmed solemnly. *"Tyler was in such a blind, foaming rage storming off Steven's driveway that instead of turning right off Earlton Court to leave, he yanked his wheel hard left onto Macgregory Street, floored the gas pedal straight to the floorboards down the dead end, blasted clean through the wooden barricade and the chain-link fence separating Macgregory Street and Lions Way, launched over the curb, and T-boned square into the side of a departing yellow Northwood High School bus full of students—with an entire dismissal line of loaded school buses bumper-to-bumper right behind it."*
+
+Katie pressed her free hand over her mouth as my heart pounded in my throat. "Oh my God—the students on that bus?!"
+
+*"Thank God for thirty-thousand-pound steel school-bus frames,"* Dad said, huge relief audible in his voice even over the rumble of fire engines down the block. *"The fire battalion chief and Northwood's School Resource Officer just walked down the street to take mine and Steven's witness statements. Because a loaded sixty-five-passenger school bus weighs seven times what Tyler's sedan did—and because the heavy steel floor rail sits three and a half feet off the pavement right above a car's hood with those high-backed padded seats—the bus barely jolted sideways a foot and a half and braked clean without tipping or even bumping the bus behind it. EMS checked all fifty-four teenagers onboard; nobody suffered worse than a bumped shin or a scare."*
+
+"And Tyler?" I asked quietly.
+
+*"His car submarined straight into the steel frame rail of that bus and folded up to the windshield—totaled beyond recognition,"* Dad replied evenly. *"His airbags went off, EMS just pulled him out of the driver's seat with a broken collarbone and a fractured wrist, and Northwood's police officer slapped handcuffs on his good wrist before the stretcher wheels even touched the ambulance ramp. Between fifty-four felony counts of reckless child endangerment at school dismissal, felony destruction of a city barricade and school bus, violating an active protective order, and the domestic assault charges from Richmond that Brittany's church minister and Mrs. Holloway already corroborated with the Commonwealth's Attorney this morning, the detective on scene just told Karen and Steven a judge isn't giving Tyler a dime of bond—he's looking at years in a Virginia state penitentiary."*
+
+Inside quiet Room 518 five floors above Capitol Square, Katie and I let out one long, simultaneous breath that felt like setting down a boulder we had been carrying since Friday afternoon—flipping up our inner armrests so I could pull my twin sister straight into a tight, silent deep-pressure hug across our chairs just seconds before three familiar pairs of footsteps and rustling JRTC system maps echoed cheerfully down the marble hallway from Sam, Mandy, and Sarah.
+
+Fourteen years after Smoker's Corner had stolen our cousin away across an uncut curb, Tyler was never going to hurt Brittany again—and in five short weeks, our cousin was coming home.
 
 # Across the Rotunda: The Senate of Virginia
 
@@ -7696,7 +7852,7 @@ At the accessible end of the room, Katie watched the bill's patron stomp out int
 
 Parked side by side in our compact SwiftChairs in front of the witness table—with a dozen CVTA bus riders and three mothers of developmentally disabled adults from Virginia Beach and Norfolk sitting nervously behind us after riding the morning train up to Richmond—thirty-two-year-old Katie and I looked up at the raised mahogany dais of the Senate of Virginia.
 
-It had taken Katie four years of relentless, brick-by-brick legislative work in the hundred-member House of Delegates to get House Bill 412 across the Capitol Rotunda. After winning re-election in 2015 and 2017—and after the 2017 wave brought our side within a single seat of parity in the House—Katie had worked across the aisle with coastal moderates like our Virginia Beach colleague Delegate Ronald Villa to pass House Bill 412 off the House Floor by a bipartisan sixty-two-to-thirty-eight vote. The bill did two things our constituents in Hampton Roads desperately needed: it dedicated a permanent stream of regional transportation revenue to expand evening and Sunday CVTA and JRTC bus service, and it funded fifteen hundred new Priority-One developmental-disability Medicaid waiver slots so Virginia adults with developmental disabilities—people just like our older cousin Chelsea, whom Katie and I had rescued out of an abusive Rhode Island group home back in the summer of 2015 with Dad's help and who now lived safely at home in Kempsville with us and our cousin Brittany—wouldn't sit on an emergency waiting list for ten years when their parents grew old.
+It had taken Katie four years of relentless, brick-by-brick legislative work in the hundred-member House of Delegates to get House Bill 412 across the Capitol Rotunda. After winning re-election in 2015 and 2017—and after the 2017 wave brought our side within a single seat of parity in the House—Katie had worked across the aisle with coastal moderates like our Virginia Beach colleague Delegate Ronald Villa to pass House Bill 412 off the House Floor by a bipartisan sixty-two-to-thirty-eight vote. The bill did two things our constituents in Hampton Roads desperately needed: it dedicated a permanent stream of regional transportation revenue to expand evening and Sunday CVTA and JRTC bus service, and it funded fifteen hundred new Priority-One developmental-disability Medicaid waiver slots so Virginia adults with developmental disabilities—people just like our older cousin Chelsea, whom Katie and I had rescued out of an abusive Rhode Island group home back in the summer of 2016 with Dad's help after our cousin Brittany moved in with us that spring, and who now lived safely at home in Kempsville with the three of us—wouldn't sit on an emergency waiting list for ten years when their parents grew old.
 
 Now the bill had crossed the rotunda to the forty-member Senate of Virginia, where Republicans held a narrow twenty-one-to-nineteen majority.
 
@@ -10715,9 +10871,9 @@ Chelsea let out a happy sigh and leaned her cheek against my sleeve, while Britt
 
 If anybody had told seventeen-year-old Katie and me behind our locked bedroom door on New Year's Eve of 2002—or told nineteen-year-old me shivering outside the weathered public-housing buildings on Dirty Old Tonomy Hill in Newport, Rhode Island on Christmas Eve of 2004—that at fifty-eight years old all four of us would be living together full-time as one inseparable family, split seamlessly between Arvin Road here in Virginia Beach and Sunset Drive up in Alexandria whenever the Senate was in session, neither of us would have dared to believe it.
 
-After Aunt Elizabeth and Grandma died in 2004, Chelsea had tried living on her own in that ground-floor Rhode Island apartment, just as she was doing during that awful Christmas when Tiffany screamed at both of us. Because Chelsea is severely developmentally disabled, living alone had never worked out. Worse, before Katie and I found out what Rhode Island social services had done after her lease ended, Chelsea had been placed inside an understaffed group home up north whose workers shouted at her, locked away her belongings, and neglected her chronic asthma. In the summer of 2015—while our dad David was still alive to ride straight up Interstate 95 with us and help care for her—Katie and I uncovered what was happening to our only paternal cousin, dropped everything, pulled a sobbing, wheezing Chelsea out of that abusive group home for good, and brought her home to Virginia so nobody would ever mistreat or abandon her again.
+First, in February of 2016—fourteen years after the drunken New Year's Eve betrayal that had barred Brittany from our house, even though her parents, our beloved Aunt Karen and Uncle Steven Fletcher, had remained warmly in our corner all along and Aunt Karen had even helped Dad and us out financially whenever things were tight—Brittany found her way home. Living across the James River in Hillside Court public housing in South Richmond and watching the Thursday evening news air thirty-year-old Katie fearlessly ripping apart House Bill 663 on the floor of the Virginia House of Delegates had shattered the fog Brittany had been trapped inside for years, right as abusive, controlling Tyler from our old Northwood High Smoker's Corner days was forcing her toward a Saturday afternoon wedding in a bleak South Richmond church she didn't even want to set foot in. After Brittany rode a JRTC bus across the river without an appointment on Friday, held open the General Assembly Building elevator when I shouted *"Hold the elevator!"*, and wept inside Room 518 begging us to help her get out, Katie sat beside me in complete silence during Saturday's February 6, 2016 ceremony so no tabloid could claim she had pulled a stunt as a Delegate while I spoke up—*"I object!"*—at *"Speak now or forever hold your peace."* Once Brittany bravely showed the minister and church coordinator the bruises Tyler had left on her in the side room, we brought her home with us for Saturday night, took her all the way up to Washington on Sunday's *Meet the Nation* train so Aunt Karen, Uncle Steven, and Dad could meet her right outside the King Street–Old Town faregates—the day before a raging Tyler turned left off Earlton Court down the Macgregory Street dead end at two o'clock Monday dismissal, plowed through the fence into the steel frame rail of a departing Northwood High School bus without seriously hurting a single student, and landed himself in a state penitentiary for years—and the moment the 2016 legislative session adjourned in March, Brittany moved in to live with Katie and me on Arvin Road just as she had promised us back in high school.
 
-Less than a year later, in March of 2016—fourteen years after the drunken New Year's Eve betrayal that had barred Brittany from our house, even though her parents, our beloved Aunt Karen and Uncle Steve Fletcher, had remained warmly in our corner all along and Aunt Karen had even helped Dad and us out financially whenever things were tight—Brittany found her way home too. Watching the viral video of thirty-year-old Katie fearlessly ripping apart House Bill 663 on the floor of the Virginia House of Delegates in February of 2016 had shattered the fog Brittany had been trapped inside for years, right as Tyler—one of the very same wrong-crowd guys from our Northwood High School days—was pressuring her into marrying him on Saturday, March 19, 2016, the first weekend after the Virginia General Assembly adjourned for the spring and two days before Brittany's thirty-first birthday on March 21st. When I rolled into the back of that chapel and spoke up—*"I object!"*—the moment the officiant asked anyone with just cause to speak now or forever hold their peace, Brittany had looked straight past Tyler into my eyes, realized I was right to object, broken down in tears, and told the officiant right there at the altar to stop the wedding because she wanted to go live with her cousin, just as she had promised back in high school. Aunt Karen and Uncle Steve had hugged all four of us in tears of pure relief that afternoon, proud beyond words to have their daughter back where she belonged.
+Then, that summer of 2016—once Brittany was settled safely under our roof and while our dad David was still alive to ride straight up Interstate 95 with us and help care for her—we brought our older paternal cousin Chelsea home too. After Aunt Elizabeth and Grandma died in 2004, Chelsea had tried living on her own in that ground-floor Rhode Island apartment, just as she was doing during that awful Christmas when Tiffany screamed at both of us. Because Chelsea is severely developmentally disabled, living alone had never worked out, and before Katie and I uncovered what Rhode Island social services had done after her lease ended, Chelsea had been placed inside an understaffed group home up north whose workers shouted at her, locked away her belongings, and neglected her chronic asthma. Dropping everything that summer, we pulled a sobbing, wheezing Chelsea out of that abusive group home for good and brought her home to Virginia Beach so nobody would ever mistreat or abandon her again.
 
 Twenty-seven years later, the four of us had never lived apart for a single night. Compensated privately through our software company, Prairie Twin Interactive, LLC—never a dime of taxpayer Senate payroll—Brittany lovingly ran our household and cared for Chelsea alongside us so that even after Dad passed away before the 2032 election, Chelsea never once had to deal with rotating strangers from an outside care agency whenever Katie and I were at the Capitol, and all four of us traveled together in our accessible van between Arvin Road and Sunset Drive so Chelsea's routine never broke. Dragging Chelsea out to a noisy intersection full of shouting political reporters just so Katie could turn down a presidential draft movement she had never asked for was out of the question.
 
@@ -10763,7 +10919,7 @@ By quarter to ten that night, Sam, Mandy, and Sarah had walked back to their ran
 
 Now, down the widened hallway, the warm amber glow of two bedside lamps lit the spacious master bedroom sanctuary we had built both here on Arvin Road and up at Sunset Drive in Alexandria: a custom wall-to-wall, wheelchair-transfer-height four-person cuddle nest platform bed topped with deep orthopedic mattresses, soft flannel sheets, bolstered side rails, and an oversized patchwork navy-and-cream quilt.
 
-For more than thirteen years after our estranged mother Brenda had bang-searched the back alley outside Apartment A6 at 801 Greenway Court in August of 2003, Katie and I had been so conditioned by trauma and autism that the only place on earth we felt safe enough to fall asleep was zipped inside a single sleeping bag on a hard carpeted closet floor behind a latched door. Even after we rescued Chelsea from that awful Rhode Island group home in the summer of 2015 and after Brittany walked away from her aborted wedding on March 19, 2016 to come live with us just as she had promised in high school, breaking that closet reflex hadn't happened overnight.
+For more than thirteen years after our estranged mother Brenda had bang-searched the back alley outside Apartment A6 at 801 Greenway Court in August of 2003, Katie and I had been so conditioned by trauma and autism that the only place on earth we felt safe enough to fall asleep was zipped inside a single sleeping bag on a hard carpeted closet floor behind a latched door. Even after Brittany walked away from her aborted South Richmond wedding on February 6, 2016 to move in with us once session adjourned in March—and after we rescued Chelsea from that awful Rhode Island group home that summer of 2016—breaking that closet reflex hadn't happened overnight.
 
 It had taken months of gentle, patient coaxing from Brittany and Chelsea—sitting beside the open closet doorway in their pajamas with mugs of warm caffeine-free herbal tea, promising that four people looking out for one another in one wide bed were even safer than two twins hiding behind a hollow-core closet door, and letting us test the platform nest for twenty minutes at a time—before Katie and I had finally felt safe enough to come out of the closet for good.
 
