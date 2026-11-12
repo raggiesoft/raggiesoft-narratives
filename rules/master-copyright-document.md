@@ -234,6 +234,9 @@
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
 |Tidewater Community College|CCHR|Community College of Hampton Roads.|
+|VBCPS Adult Learning Center (`5100 Cleveland St`, Virginia Beach)|Coastal Adult Learning Center|Virginia Beach City Public Schools adult education facility off Virginia Beach Boulevard (`CVTA Route 20`) where adult learners earn their **`HSE`** (*High School Equivalency*) diploma (`books/rachel`, `books/nichole`, `books/katie`).|
+|GED® (*General Educational Development*)|HSE (*High School Equivalency*)|Never use the registered ACE/Pearson trademark `"GED"`. Always use the generic federal/state public-domain statutory term **`HSE`** (*High School Equivalency* / *High School Equivalency diploma*).|
+|Deerfield Correctional Center (VADOC Medical Prison, Capron, VA)|Pinewood Medical Correctional Center *(or state medical prison)*|Virginia Department of Corrections skilled-nursing and assisted-living medical prison for permanently and severely disabled male inmates.|
 |University of Washington|Northwest Pacific University (NPU)|Located in Seattle.|
 |James Madison University|Shenandoah Valley University (SVU)|University.|
 |Whatcom Community College|Bellingham Community College (BCC)|Community college.|
