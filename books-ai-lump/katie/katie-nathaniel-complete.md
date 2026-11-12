@@ -213,7 +213,7 @@ Before Chelsea could even blink, Katie spun her right back around by the shoulde
 
 Two minutes later, Chelsea came back out of the hallway wearing her full green flannel pajamas, fuzzy socks, and a sheepish grin, and climbed under the quilt on the far side of the sofa bed. With the living room lamp clicked off and only the colored lights of the Christmas tree glowing softly in the corner, Katie stayed tucked right against my side—the two of us holding down our downstairs sanctuary while the winter wind rattled the front windows.
 
-# Middle School & The Blizzard of '96
+# The Blizzard of '96, Middle School, & Freshman Year
 
 ## The Blizzard of '96
 
@@ -526,6 +526,102 @@ When we sat down side by side at the dining table over our steaming bowls of mac
 "I really appreciate that you both don't fight and argue with each other," Dad said quietly, his voice heavy with emotion. "Honestly, I wish your mother didn't drink her life away. I want to do my best to not only be your father, but also be a proper dad to both of you. Your mother's drinking is not your fault, and I don't want either of you to think that. Please don't let your grades suffer because of it."
 
 Underneath the edge of the dining table, Katie reached her hand over and laced her fingers tightly through mine, and I squeezed right back. Whatever happened upstairs, and whatever happened in the hallways at school, my twin sister and I had our sanctuary—and we were never letting go.
+
+## Freshman Lunch, Chicken Patty Bites, & The DeMarco Decree
+
+### Cramping Fingers, Cut-Up Chicken Patty Bites, & Two-Fifteen at the Dumpsters
+
+**Date:** 2000-02-07 at 11:20 America/New_York
+
+![Inside the packed Northwood High School cafeteria in February 2000 filled with students at long royal-blue laminate tables with attached round blue stools on chrome caster frames, fourteen-year-old Nathaniel Prairie sits on the middle blue stool flanked by twin sister Katie Prairie on one side and overweight maternal cousin Brittany Fletcher in silver wire-rimmed oval glasses on his other side as Brittany uses a plastic fork to feed Nate cut-up bites of his chicken patty sandwich while his stiff hands rest in his lap, and Cafeteria Supervisor Mrs. DeMarco in her hairnet and spoon-pocket white apron confronts a deflated Josh Riley to order him to the dumpsters at 2:15 PM]({{CDN}}/raggiesoft-books/images/scenes/katie/b002/feb_2000_northwood_cafeteria_blue_stool_table_brittany_feeding_nate_demarco_josh_riley.jpg)
+
+#### Monday, February 7, 2000, 11:20 AM — Three Round Blue Stools & Hands That Wouldn't Pinch
+
+"Stop fighting the plastic knife and let me cut it before it gets cold, goofball," our fourteen-year-old maternal cousin Brittany Fletcher murmured warmly beside my left elbow, sliding my molded compartment tray half an inch closer across the royal-blue laminate tabletop so nobody across the noisy freshman aisle would even notice.
+
+My right thumb and index finger unclenched around the flimsy white cafeteria utensil with a dull, burning tremor, dropping into my lap as I let out a quiet breath through my nose.
+
+All morning long—through forty-five minutes of copying quadratic equations off the overhead projector in Algebra I and another forty-five minutes sketching cell diagrams in freshman Biology—the small muscles along the base of both of my thumbs had been tightening up like knotted shoelaces. Dr. Carter had jotted two pages of notes about grip fatigue in our chart back in January without having a clean name for it yet. On warm afternoons at home I could still type HTML tags on our keyboard as long as I rested my wrists flat against the desk pad, and Katie and I could still walk the hallways between bells alongside everyone else, even if the back stairwell left our calves tight by sixth period. By eleven-twenty on a cold February Monday, however, trying to squeeze a thick sesame bun around a breaded school chicken patty—or saw through the crust with serrated cafeteria plastic—made my fingers shake and buckle as if my knuckles belonged to somebody else.
+
+Having Katie and Brittany wedged right up against both of my shoulders turned what would have been humiliating anywhere else into a closed three-person fortress.
+
+Northwood High School's cafeteria was packed wall to wall across the glossy tan-and-blue tiled floor with four hundred loud teenagers crammed along endless rows of long royal-blue folding tables mounted on chrome steel caster frames, each table flanked by individual round royal-blue backless stools bolted straight to the undercarriage. Ever since Aunt Karen and Uncle Steve Fletcher had sold their exhausting old farmstead down on Blackwater Road the previous summer and moved to Earlton Court right across the Lions Way fence, the three of us had claimed the exact same three adjacent blue stools on one side of a table near the edge of the room every single day of ninth grade—Katie perched on my right side, Brittany perched on my left side, and me tucked safely in the middle between the two girls I trusted most in the world.
+
+Behind her thin silver wire-rimmed oval glasses, Brittany didn't sigh, didn't whisper about my hands, and didn't treat it like a big deal for half a second. Bracing her left fork neatly against the toasted bun, she used her plastic knife to slice my warm breaded chicken patty sandwich cleanly into twelve even, bite-sized squares while Katie popped open the cardboard spout of my chocolate milk carton, slipped a paper-wrapped straw inside, and angled it right beside my wrist.
+
+"Here," Brittany said casually, spearing a crisp corner square of chicken patty and bun onto a clean white plastic fork and lifting it straight up to my mouth. "Open up before Katie steals your tater tots."
+
+"Hey, I traded him half my apple slices fair and square," Katie protested lightly on my right, resting her left hand over my stiff right forearm on the edge of the blue table to rub the cramp out of my wrist as I leaned forward and took the warm bite off Brittany's fork.
+
+"Mmm-hmm, sure you did," Brittany teased, adjusting the sleeve of her plum sweater as she picked up a second square on the fork—making me grin while I chewed so I didn't have to stare down at my own uncooperative fingers in my lap.
+
+Then a pair of scuffed sneakers skidded to a deliberate stop in the tiled aisle three feet from our chrome table frame, followed immediately by a loud, braying snort that cut right over the clatter of trays.
+
+"Whoa, hold up—are you guys seeing this?" freshman loudmouth Josh Riley crowed, pivoting halfway toward the row of tables behind him with his baggy gray shirt hanging past his pockets and a greasy tray of French fries balanced on one hip. "Look at Prairie! Dude can't even hold his own sandwich anymore—he had to bring his chubby cousin to cut his crust off and spoon-feed him like a toddler in a high chair!"
+
+Two boys sitting one table over glanced up awkwardly, while Josh leaned closer over the end of our royal-blue table with an ugly grin spreading across his face.
+
+"Come on, Fletcher, make the little airplane sound for him!" Josh jeered, mimicking an exaggerated buzzing noise with his free hand right in front of Brittany's glasses. "Open the hangar door for baby Natey—*nyeeeeow!*"
+
+Brittany's hand froze midair with the fork three inches from my chin, a hot, stung flush rising instantaneously up her neck and round cheeks at Josh's swipe at both of us at once. On my right stool, Katie's entire spine snapped taut; her blue eyes went blazing cold, her sneakers planted hard against the chrome footrest bar to vault straight off her stool into Josh's face, and my own stomach dropped like lead.
+
+Katie didn't even get half an inch off the blue plastic seat before the air pressure in our corner of the cafeteria changed completely.
+
+***
+
+#### Monday, February 7, 2000, 11:24 AM — The DeMarco Decree & A Fresh Cookie on the Napkin
+
+Across the three nearest blue tables, conversations didn't merely quiet down—spoons stopped halfway to mouths, freshmen ducked their chins into their hoodies, and an electric, thrilled hush swept outward across the tile floor like an incoming tide. Even five months into ninth grade, every single freshman in the Class of 2003 recognized that sudden silence on instinct.
+
+Josh Riley realized a fraction of a second too late that nobody behind him was laughing anymore.
+
+"What?" Josh started, glancing over his shoulder—and nearly dropped his French fries onto his own shoes.
+
+Standing eighteen inches behind his left elbow beneath the purple-and-gold Northwood Spirit lion banner was Mrs. DeMarco.
+
+Northwood High's cafeteria supervisor hadn't hurried, hadn't raised her voice, and hadn't needed a whistle. Her salt-and-pepper hair sat tucked beneath a crisp white mesh hairnet over a burgundy-and-gold paisley blouse, her white canvas bib apron bore the honest smudges of three straight lunch shifts, and the handle of a heavy stainless-steel serving spoon gleamed upright out of her right front pocket like a magistrate's gavel. Both of her forearms were folded squarely across her chest, and her dark, unblinking eyes were locked onto Josh Riley as if examining something unpleasant tracked in off a wet shoe.
+
+By February of our freshman year, Josh Riley's relationship with Northwood's outdoor sanitation equipment was already established school legend. Back on the very first Tuesday after Labor Day in September, Josh had tried to crown himself king of the ninth grade by standing on a stool and bellowing a four-letter obscenity across the dining room—earning four straight afternoons hauling leaky trash bags at the rear loading dock. He had gone back out to the dumpsters in October for flicking mashed-potato peas at the condiment counter, and again before Thanksgiving for cutting ahead of three seventh-period band kids in the pizza line.
+
+Watching every drop of color drain out of Josh's face right beside our table, Katie slowly settled back onto her round blue stool and caught my eye, squeezing my forearm once as a tiny, triumphant spark lit behind her glare.
+
+"Mrs. DeMarco!" Josh squeaked, his voice cracking half an octave as his shoulders caved inward. "I wasn't—we were just joking around! Ask Nate, I was just saying hi to—"
+
+"Do not insult my intelligence on a Monday morning, Mr. Riley," Mrs. DeMarco said, her voice velvet-quiet yet carrying cleanly across forty royal-blue stools. "I stood six feet behind you while you elected to mock a classmate's hands and belittle a young lady showing basic family manners at my table."
+
+![Inside the packed Northwood High School cafeteria in February 2000 filled with students at long royal-blue laminate tables with attached round blue stools on chrome caster frames, fourteen-year-old Nathaniel Prairie sits on the middle blue stool flanked by twin sister Katie Prairie on one side and overweight maternal cousin Brittany Fletcher in silver wire-rimmed oval glasses on his other side as Brittany uses a plastic fork to feed Nate cut-up bites of his chicken patty sandwich while his stiff hands rest in his lap, and Cafeteria Supervisor Mrs. DeMarco in her hairnet and spoon-pocket white apron confronts a deflated Josh Riley to order him to the dumpsters at 2:15 PM]({{CDN}}/raggiesoft-books/images/scenes/katie/b002/feb_2000_northwood_cafeteria_blue_stool_table_brittany_feeding_nate_demarco_josh_riley.jpg)
+
+Josh swallowed hard, staring fixedly at the linoleum between his sneakers while a bead of sweat appeared at his hairline.
+
+"Evidently," Mrs. DeMarco continued smoothly, hitching her right thumb briskly back over her shoulder toward the heavy oak double doors at the rear of the room that led toward the kitchen corridor and the loading dock beyond, "your own hands are overflowing with far too much idle strength and theatrical coordination for an indoor dining environment. Fortunately for both of us, three lunch waves of milk cartons and sloppy-joe trays make for remarkably heavy bags."
+
+Across the aisle, two sophomores silently mouthed the words right along with her before Mrs. DeMarco even delivered the sentence everyone knew by heart.
+
+"You will meet me out at the dumpsters at two-fifteen sharp this afternoon, Mr. Riley—and at two-fifteen every afternoon for the remainder of this week," Mrs. DeMarco decreed, her tone as final as a courthouse stamp. "If you are sixty seconds late once the dismissal bell rings, we shall expand next week's curriculum to scraping gum off every blue stool frame in Section C, and I will phone your mother personally so she knows precisely when to pick you up. Are we crystal clear?"
+
+"Yes, ma'am," Josh mumbled miserably into his collar. "Two-fifteen. At the dumpsters."
+
+"Take your tray to the far end of Row Seven and eat in complete silence. Now."
+
+Josh practically teleported down the aisle with his head ducked below shoulder height, while a ripple of quiet, satisfied grins broke out across the surrounding tables—including two quiet freshmen across the floor who caught Katie's eye and gave us a subtle, knowing nod, having watched the DeMarco Decree rain down on Josh Riley half a dozen times already that school year.
+
+The instant Josh cleared our row, every ounce of icy courtroom severity melted right off Mrs. DeMarco's face.
+
+Stepping gently up beside Brittany's stool, Mrs. DeMarco reached into the clean wax-paper pouch tucked flat in her left apron pocket, drew out three warm, oversize kitchen-baked chocolate-chip cookies wrapped in crisp deli tissue, and set them neatly on the clean corner of Brittany's tray.
+
+"You never mind a loudmouth like him for half a second, sweetheart," Mrs. DeMarco said softly, resting a brief, maternal hand on the back of Brittany's shoulder before giving Katie and me an approving nod. "Looking out for your cousin without waiting to be asked shows real character. Take your time eating, all three of you—nobody's bothering this table."
+
+"Thank you, Mrs. DeMarco," Brittany said, the embarrassed sting in her cheeks instantly warming into a genuine, grateful smile behind her silver oval frames.
+
+"Thank you, ma'am," Katie and I echoed together.
+
+Mrs. DeMarco offered us one warm wink and glided smoothly back out into the main aisle to resume her patrol, leaving the bustling hum of four hundred lunch conversations washing safely back around our three blue stools.
+
+Brittany let out a long breath, adjusted her glasses with one knuckle, and looked sideways at me with a mischievous glint returning to her eyes.
+
+"Two-fifteen in February wind behind the kitchen," Brittany whispered, lifting the plastic fork with that waiting square of breaded chicken patty right back up to my mouth while Katie slid her left hand down under the edge of the blue tabletop to hold my stiff right fingers gently in hers. "Hope he brought mittens in that backpack. Ready for bite number two?"
+
+"Definitely," I smiled, leaning in to take the bite off Brittany's fork—flanked shoulder to shoulder on those round blue stools by my twin sister on one side and my cousin on the other, without a single reason in the world to feel ashamed of my hands.
 
 # Sixteen & Summer Sanctuary
 
@@ -1343,7 +1439,7 @@ It was a Purple Day on Northwood High's alternating Purple and Gold Day four-blo
 
 Even before Josh opened his mouth, a faint, unmistakable cloud hit our noses from four feet away—stale dumpster cardboard, damp paper napkins, and old deep-fryer oil.
 
-Everyone in the Class of 2003 knew Josh Riley, and everyone knew why that particular scent followed him down the hallways like cologne. Back on the very first Tuesday of our freshman year in September 1999, Josh had decided to make himself famous during lunch by standing up and bellowing a juvenile four-letter anatomy word at the top of his lungs—Attempt Number 253 in the official mental ledger of Mrs. DeMarco, Northwood High's legendary cafeteria supervisor—earning himself an immediate four-day enrollment in Advanced Sanitation Techniques out by the back loading dock dumpsters at a quarter past two. By sophomore year, after trying to extort a freshman for tater tots in the serving line, Josh had graduated to scrubbing the deep-fryer grease traps behind the kitchen doors.
+Everyone in the Class of 2003 knew Josh Riley, and everyone knew why that particular scent followed him down the hallways like cologne. Back on the very first Tuesday of our freshman year in September 1999, Josh had decided to make himself famous during lunch by standing up and bellowing a juvenile four-letter anatomy word at the top of his lungs—Attempt Number 253 in the official mental ledger of Mrs. DeMarco, Northwood High's legendary cafeteria supervisor—earning himself an immediate four-day enrollment in Advanced Sanitation Techniques out by the back loading dock dumpsters at a quarter past two, followed that February by another full week at the dumpsters when he mocked my cramping hands while Brittany cut up my chicken patty sandwich and fed me bites at our blue stool table. By sophomore year, after trying to extort a freshman for tater tots in the serving line, Josh had graduated to scrubbing the deep-fryer grease traps behind the kitchen doors.
 
 Clearly, two straight years of dumpster liners and fryer grease hadn't taught him when to leave people alone.
 
