@@ -28,7 +28,7 @@ The Adults House serves as the quiet, deeply grounded domain for the older gener
 *   **David & Linda Miller** (Following their relocation from Virginia Beach)
 
 *   **The Billing Entity:** To shield the Kids House from administrative bureaucracy and financial friction, the Adults House serves as the official legal and billing hub for the entire compound. Utilities and ISP contracts are entirely centralized here under Katrina and Casper.
-*   **The Jurisdictional Anomaly (Postal Reality):** The property sits squarely in northern Albemarle County, meaning the family pays Albemarle property taxes and falls under county jurisdiction. However, due to standard USPS zoning, the main post office routes their mail through the independent city next door. Therefore, all legal documents, ISP bills, and incoming mail for both houses carry a "Charlottesville, VA" mailing address. 
+*   **The Jurisdictional Anomaly (Postal Reality):** The property sits squarely in northern Albemarle County, meaning the family pays Albemarle property taxes and falls under county jurisdiction. However, due to standard postal zoning, the main post office routes their mail through the independent city next door. Therefore, all legal documents, ISP bills, and incoming mail for both houses carry a "Charlottesville, VA" mailing address. 
 
 ## III. The Infrastructure Core (The COMMS Closet)
 While Jessica Brooks acts as the SysAdmin from the Kids House, the physical heart of the network resides here.

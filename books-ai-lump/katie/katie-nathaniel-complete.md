@@ -5117,7 +5117,7 @@ He tapped the second paragraph on the state filing sheet with his fountain pen.
 
 "Wait—so if Brenda or anyone else searches our LLC on the state website in Richmond, the only address that comes up is your law office?" I asked, a huge wave of relief washing across my chest.
 
-"My law office, my receptionist, and my security cameras," Mr. Vance smiled firmly. "And for Box Five—the LLC's Principal Office mailing address, which you'll also use for your domain WHOIS records, your bank checks, and your website footer—you don't need to lease a commercial office building. All you need to do on your way home today is stop at a commercial mail center like The Parcel Center, fill out United States Postal Service Form 1583 with your two Virginia State ID cards, and rent a commercial mailbox for fifteen dollars a month. That gives you a real commercial street address with a suite number. Every piece of business mail and every public WHOIS lookup goes to that suite number, while the two of you do one hundred percent of your work from your dual desks at home."
+"My law office, my receptionist, and my security cameras," Mr. Vance smiled firmly. "And for Box Five—the LLC's Principal Office mailing address, which you'll also use for your domain WHOIS records, your bank checks, and your website footer—you don't need to lease a commercial office building. All you need to do on your way home today is stop at a commercial mail center like The Parcel Center, fill out Postal Form 1583 with your two Virginia State ID cards, and rent a commercial mailbox for fifteen dollars a month. That gives you a real commercial street address with a suite number. Every piece of business mail and every public WHOIS lookup goes to that suite number, while the two of you do one hundred percent of your work from your dual desks at home."
 
 "What do you two think of that?" Dad's voice asked warmly through the speakerphone.
 
@@ -5131,7 +5131,7 @@ Katie looked at the corporate header printed across the top of the Operating Agr
 
 Forty-five minutes later, on our bus ride back down toward Indian River Road, Katie and I rolled into the storefront of The Parcel Center in the commercial strip plaza near the highway.
 
-Behind the counter, the clerk checked our two laminated Virginia DMV State ID cards, notarized our signatures on United States Postal Service Form 1583, and handed us two small brass mailbox keys along with a printed card showing our new commercial mailing address: a real commercial boulevard street number followed by *Suite 214*.
+Behind the counter, the clerk checked our two laminated Virginia DMV State ID cards, notarized our signatures on Postal Form 1583, and handed us two small brass mailbox keys along with a printed card showing our new commercial mailing address: a real commercial boulevard street number followed by *Suite 214*.
 
 The moment we rolled back up our aluminum porch ramp on Arvin Road at four-thirty and deadbolted the door behind us, we wheeled straight into our office bedroom and logged into our domain registrar control panel.
 
@@ -5451,7 +5451,7 @@ Flipping up the inner armrest between our two SwiftChairs, I leaned across and w
 
 **Date:** 2007-04-19 at 13:15 America/New_York
 
-![Inside a bright U.S. Post Office passport acceptance window in Virginia Beach on Thursday afternoon, April 19, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs raising their right hands to take the passport application oath in front of a uniformed postal clerk behind the counter—with their completed DS-11 forms, two-by-two passport photos, certified birth certificates, and horizontal Virginia State ID cards resting on the counter]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_post_office_passport_application_ds11_and_photos_katie_nate.jpg)
+![Inside a bright neighborhood post office passport acceptance window in Virginia Beach on Thursday afternoon, April 19, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs raising their right hands to take the passport application oath in front of a uniformed acceptance clerk behind the counter—with their completed DS-11 forms, two-by-two passport photos, certified birth certificates, and horizontal Virginia State ID cards resting on the counter]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_post_office_passport_application_ds11_and_photos_katie_nate.jpg)
 
 #### Thursday, April 19, 2007, 1:15 PM — "What's This?" and Why We Wanted Passports
 
@@ -5479,7 +5479,7 @@ As we rolled out of the bank lobby onto the sidewalk ten minutes later, Katie lo
 
 That afternoon, back at our dual-desk office on Arvin Road, Katie and I downloaded two copies of U.S. Department of State Form DS-11—the official Application for a U.S. Passport for first-time adult applicants—and filled out every box in black ink, carefully leaving the signature line at the bottom blank just as the instructions required until we were right in front of an authorized Acceptance Agent.
 
-From the fireproof steel document box Dad kept in the hall linen closet, we pulled out our original certified Commonwealth of Virginia birth certificates with the raised embossed seals from the Division of Vital Records in Richmond, tucked them into a rigid manila folder alongside our horizontal Virginia State ID cards and our checkbook, and rode the bus over to the U.S. Post Office passport window.
+From the fireproof steel document box Dad kept in the hall linen closet, we pulled out our original certified Commonwealth of Virginia birth certificates with the raised embossed seals from the Division of Vital Records in Richmond, tucked them into a rigid manila folder alongside our horizontal Virginia State ID cards and our checkbook, and rode the bus over to the Kempsville post office passport window.
 
 "Two first-time adult passport applications and two sets of passport photos, please," Katie told the uniformed postal acceptance clerk at two-thirty as we rolled our SwiftChairs side by side up to the passport counter.
 
@@ -5501,11 +5501,11 @@ She turned both clipboards around on the lowered counter and handed us each a bl
 
 "All right, Katie and Nathaniel—please raise your right hands," the clerk said officially. "Do you solemnly swear or affirm that the statements made on this application are true and that the photograph attached is a true likeness of yourself?"
 
-![Inside a bright U.S. Post Office passport acceptance window in Virginia Beach on Thursday afternoon, April 19, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs raising their right hands to take the passport application oath in front of a uniformed postal clerk behind the counter—with their completed DS-11 forms, two-by-two passport photos, certified birth certificates, and horizontal Virginia State ID cards resting on the counter]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_post_office_passport_application_ds11_and_photos_katie_nate.jpg)
+![Inside a bright neighborhood post office passport acceptance window in Virginia Beach on Thursday afternoon, April 19, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs raising their right hands to take the passport application oath in front of a uniformed acceptance clerk behind the counter—with their completed DS-11 forms, two-by-two passport photos, certified birth certificates, and horizontal Virginia State ID cards resting on the counter]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_post_office_passport_application_ds11_and_photos_katie_nate.jpg)
 
 "I do," Katie and I said together, our right hands raised side by side from our wheelchairs.
 
-Under the clerk's watchful eyes, we signed our full legal names inside the signature boxes on our DS-11 forms, wrote out the checks for the Department of State application fee and the Postal Service execution and photo fees, and watched her seal our applications and our certified birth certificates inside two tamper-evident transmittal pouches bound for the National Passport Center.
+Under the clerk's watchful eyes, we signed our full legal names inside the signature boxes on our DS-11 forms, wrote out the checks for the Department of State application fee and the post office execution and photo fees, and watched her seal our applications and our certified birth certificates inside two tamper-evident transmittal pouches bound for the National Passport Center.
 
 ***
 
@@ -5515,11 +5515,11 @@ Because the spring and summer of 2007 saw the largest nationwide passport backlo
 
 Every afternoon when the mail carrier walked up Arvin Road, I rolled out onto the front porch ramp to check the mailbox beside our front door.
 
-Then, on Saturday afternoon, June 30, 2007, I opened the metal mailbox lid and pulled out four stiff envelopes from the United States Department of State: two flat manila envelopes returning our original raised-seal Virginia birth certificates, and two Priority Mail envelopes with stiff cardboard inserts inside.
+Then, on Saturday afternoon, June 30, 2007, I opened the metal mailbox lid and pulled out four stiff envelopes from the United States Department of State: two flat manila envelopes returning our original raised-seal Virginia birth certificates, and two stiff flat-rate cardboard mailers with protective inserts inside.
 
 "Katie!" I called out, wheeling straight down the hallway into our dual-desk office and holding up the four envelopes. "They're here!"
 
-Katie spun her SwiftChair away from her keyboard so fast her front casters chirped against the floor mat. Side by side, we tore open the tear-strips on the two Priority Mail envelopes and slid out two brand-new, dark navy-blue United States Passports, the gold Great Seal of the United States and the new biometric electronic-chip symbol gleaming across the textured front covers.
+Katie spun her SwiftChair away from her keyboard so fast her front casters chirped against the floor mat. Side by side, we tore open the tear-strips on the two stiff cardboard mailers and slid out two brand-new, dark navy-blue United States Passports, the gold Great Seal of the United States and the new biometric electronic-chip symbol gleaming across the textured front covers.
 
 Opening the inside covers, we stared down at our digitized two-by-two post-office portraits printed beneath the holographic eagles, valid for ten full years until June 2017.
 
