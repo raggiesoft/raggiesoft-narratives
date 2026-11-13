@@ -213,7 +213,83 @@ Before Chelsea could even blink, Katie spun her right back around by the shoulde
 
 Two minutes later, Chelsea came back out of the hallway wearing her full green flannel pajamas, fuzzy socks, and a sheepish grin, and climbed under the quilt on the far side of the sofa bed. With the living room lamp clicked off and only the colored lights of the Christmas tree glowing softly in the corner, Katie stayed tucked right against my side—the two of us holding down our downstairs sanctuary while the winter wind rattled the front windows.
 
-# The Blizzard of '96, Middle School, & Freshman Year
+## All Summer Down on Blackwater Road
+
+### Two Sisters Through the Screen Door, Uncle Steve's Red Cedar Post, & All Summer Sheltered on Blackwater Road
+
+**Date:** 1995-06-19 at 09:15 America/New_York
+
+#### Monday, June 19, 1995, 9:15 AM — Crushed Clam Shells, Two Big Duffel Bags, & Aunt Karen's Voice Behind the Screen Door
+
+*Crunch-crunch-crunch* went the tires of Dad's Holt sedan as we turned off the narrow, ditch-lined asphalt of Blackwater Road onto the long white lane of crushed clam shells leading up to Aunt Karen and Uncle Steve's farmhouse.
+
+"Two whole months!" ten-year-old Brittany cheered, bursting through the wooden screen door of the wrap-around porch so fast the brass spring sang behind her and waving both hands as her thin silver wire-rimmed oval glasses flashed in the bright June sun. "Did Uncle David pack your sleeping bags and your cartoon tapes too?"
+
+"Both duffel bags are stuffed to the zipper!" Katie called back happily through our open back window, holding my left hand across the bench seat as fourth grade—along with every noisy cafeteria bell and scraping desk at Northwood Elementary—officially vanished in the rearview mirror until September.
+
+Down here in the deep rural southern end of Virginia Beach past Pungo, it felt like we had driven clean off the edge of the city map into another state. Every sidewalk, traffic light, shopping strip, and city bus stop had disappeared ten miles back. Flat, wide-open fields of ripening golden winter wheat and knee-high green field corn stretched out on every side to a dark wall of loblolly pines and bald cypresses along the creek line, smelling of warm clover, sun-baked dark peat dirt, and salt marsh wind blowing up from Currituck Sound.
+
+While Brittany enthusiastically helped Katie haul our blue canvas book bag up the wide wooden porch steps, my left sneaker lace caught on a dandelion clump beside the hydrangea bushes at the corner of the porch lattice. Dropping onto one knee in the cool shade right below the open kitchen screen window to double-knot the lace, I heard Dad set our two heavy clothes duffels down on the kitchen linoleum inside—right as Aunt Karen hung up the beige wall phone with a firm, quiet click.
+
+"I didn't mince a single word with her, David," Aunt Karen's low, fierce voice carried softly through the window screen above my head, pitched quiet enough not to reach the front porch steps where Brittany and Katie were unzipping our cartridge case. "Brenda is my big sister. I shared a bedroom wall with her for eighteen years, and I know the difference between a summer sinus migraine and a glass poured out of that upper cabinet before nine-thirty on a Monday morning."
+
+Inside the kitchen, Dad let out a long, tired breath that sounded older than thirty-six.
+
+"She swore to me last night it was only because she couldn't sleep in the heat, Karen," Dad murmured quietly. "I didn't want Katie and Nate hearing the two of us argue over breakfast on their very first morning of summer vacation."
+
+"Which is the exact reason I told you on Friday to pack two months' worth of their shorts and t-shirts and bring both of them straight down here to the farm," Aunt Karen answered firmly, the protective warmth in her voice unmistakable. "I told Brenda flat-out on that phone two minutes ago that she isn't fooling me anymore, and that if she thinks I'm letting ten-year-old twins spend their summer tiptoeing past a locked upstairs door in Kempsville, she doesn't know her little sister. Between Steve and me swapping shifts and your mom driving down after breakfast whenever our hours overlap, Katie and Nate are staying right here on Blackwater Road with Brittany all summer long where the only thing they have to worry about is grass stains."
+
+"I don't know what we'd do without you and Steve, Karen," Dad said thickly.
+
+Sitting in the grass beneath the hydrangeas, my ten-year-old brain didn't fully understand why pouring a glass out of our upper kitchen cabinet before nine-thirty would give Mom a locked-door headache, or why Aunt Karen sounded both angry at her sister and sad at the exact same time. All I knew was that back home in Kempsville, weekday afternoons when Grandma went to her sewing circle had started feeling tight and unpredictable—and hearing Aunt Karen declare that Katie and I got to stay down here with Brittany all summer made my whole chest unknot at once.
+
+Standing quickly back up as Katie stepped over from the porch steps to reach for my hand again, I watched Dad and Aunt Karen walk out through the screen door wearing easy, sunny smiles—neither of them letting a single shadow touch the porch.
+
+***
+
+#### Monday, June 19, 1995, 10:30 AM — Uncle Steve's Red Cedar Post, Sixty Acres of Quiet, & Sun-Warm Berries From the Kitchen Patch
+
+"All right, city slickers—eyes right here on that red cedar fence post at the end of the grass," Uncle Steve said cheerfully in his faded denim work shirt and dusty boots twenty minutes after Dad kissed the tops of our heads and drove north to work, pointing past the pecan shade tree where the mowed farmhouse lawn met the white crushed-shell equipment lane and the corrugated-tin tractor shed.
+
+Katie, Brittany, and I stood in a neat row on the grass—Katie's fingers laced securely through my right hand while Brittany stood right beside my left elbow adjusting her silver oval glasses.
+
+"How old are the three of you now?" Uncle Steve asked, resting both hands on his hips with mock solemnity.
+
+"Ten!" all three of us answered at once—Brittany proudly adding, "Ten and three months!"
+
+"Ten years old means you three have zero business helping with row crops," Uncle Steve declared, tapping two fingers toward his temple so we knew this rule was set in concrete. "Big cash-crop fields have deep drainage ditches, yellow jackets, and heavy machines whose drivers can't see ten-year-olds down in the wheat. Anytime you hear my tractor or a grain truck turn over—or anytime that red cedar post is behind you—your sneakers stay strictly on the house grass, under the pecan trees, or inside your Aunt Karen's fenced kitchen patch. Everything inside the yard oaks is your kingdom all summer. Deal?"
+
+"Deal, Uncle Steve!" we promised together.
+
+Thirty seconds later, Katie and I found out firsthand why we liked staying inside the yard oaks anyway.
+
+When Uncle Steve walked down into the tin equipment shed and cranked the starter on his big green diesel tractor to go bush-hog the back ditch bank, the sudden, chest-rattling roar of unmuffled diesel cylinders echoed off the tin walls so loud that Katie and I both winced in unison, clamping our palms tightly over our ears.
+
+Brittany noticed instantly—not teasing us the way kids at Northwood Elementary did whenever fire-drill buzzers hurt our ears, just tapping my elbow with a calm, practiced grin and pointing toward the screened porch door.
+
+"Come inside the back screen corner until he clears the creek turn—the brick chimney blocks half the noise!" Brittany called out, holding the wooden screen door open for both of us.
+
+Sure enough, huddled side by side on the wide painted floorboards behind the brick chimney while Brittany counted slowly down from twenty on her fingers, the diesel thrum faded steadily across the flat acreage until it sounded no louder than a bumblebee two yards over—and then vanished altogether.
+
+Katie and I slowly lowered our hands from our ears and blinked out through the fine gray porch mesh in wonder.
+
+Nothing in Kempsville was ever *this* quiet.
+
+There were no delivery trucks hissing down Kempsville Road, no barking neighborhood dogs behind chain-link fences, no lawnmowers revving on six cul-de-sacs at once, and no shouted voices echoing down an upstairs hallway. Outside the screen, a warm south breeze rolled up off the North Landing River marsh and swept across sixty flat acres of waist-high golden winter wheat in long, shimmering ripples that looked just like ocean swells—making a soft, dry *shhhhhh* sound like pages turning in a giant library while purple-backed barn swallows swooped silently above the tassels of young green corn.
+
+"Whoa," Katie whispered, resting her chin on my shoulder as both of us watched the wind waves travel all the way to the cypress tree line. "It sounds like the beach without any crowds."
+
+"Told you guys," Brittany beamed, picking up a bright yellow plastic colander Aunt Karen had left waiting on the porch picnic table beside an insulated blue jug of ice-cold homemade lemonade and three plastic cups. "Wait until winter wind pushes the sound water up across Pungo Ferry Road—then it's *really* a pain trying to ride the bus to Blackwater Elementary. In June, though, we get Aunt Karen's berry rows all to ourselves. Come on—watch out by the spigot so you don't step in the black mud!"
+
+Following Brittany single-file down the dry stepping-stones beside the clothesline—where Katie and I carefully steered our white sneakers wide around a patch of glossy, ink-black Pungo peat mud by the garden hose because both of us hated the squishy feel of mud on our shoes—we ducked through a little wooden latch gate into Aunt Karen's fenced family kitchen garden right behind the house.
+
+Unlike the giant cash-crop fields out past the red cedar post, everything inside Aunt Karen's kitchen patch was built at ten-year-old height: two neat straw-mulched rows of late June strawberries still hiding plump, sun-warmed ruby berries beneath scalloped green leaves, a string trellis heavy with crisp green sugar-snap peas, and four fat bushes of early blueberries turning dusky blue in the heat. Halfway down the straw path, Brittany crouched down and pointed silently to the edge of the clover, where a domed eastern box turtle with bright orange-and-gold shell markings was calmly munching a fallen berry two feet from our toes before tucking lazily into its shell.
+
+For the next two hours under that wide blue sky, nobody hurried us, nobody split Katie and me into separate lines, and nobody raised their voice once. Sitting side by side on the clean wooden steps of the screened porch afterward with pink berry juice staining our chins, crunching sweet snap peas out of the yellow colander and pouring second cups of Aunt Karen's cold, tart lemonade while Grandma's blue sedan turned smoothly up the white shell lane to make us grilled cheese sandwiches for lunch, Katie squeezed my hand and grinned from ear to ear.
+
+Whatever grown-up storm Aunt Karen was holding back behind the telephone wire up in Kempsville never reached past that red cedar post all summer long.
+
+# The Blizzard of '96, Blackwater Summers, Middle School, & Freshman Year
 
 ## The Blizzard of '96
 
@@ -526,6 +602,140 @@ When we sat down side by side at the dining table over our steaming bowls of mac
 "I really appreciate that you both don't fight and argue with each other," Dad said quietly, his voice heavy with emotion. "Honestly, I wish your mother didn't drink her life away. I want to do my best to not only be your father, but also be a proper dad to both of you. Your mother's drinking is not your fault, and I don't want either of you to think that. Please don't let your grades suffer because of it."
 
 Underneath the edge of the dining table, Katie reached her hand over and laced her fingers tightly through mine, and I squeezed right back. Whatever happened upstairs, and whatever happened in the hallways at school, my twin sister and I had our sanctuary—and we were never letting go.
+
+## Summer 1998 on Blackwater Road: What's Inside the Cabinet & Bleak Numbers on the Ledger
+
+### Tropical Brochures on the Counter, Aunt Karen and Dad's Gentle Truth, & Bleak Numbers on the Farm Ledger
+
+**Date:** 1998-07-18 at 15:00 America/New_York
+
+#### Saturday, July 18, 1998, 3:00 PM — Glossy Ship Brochures, Connecting the Dots, & Aunt Karen and Dad's Gentle Explanation
+
+"Did she really say that at eleven o'clock in the morning?" thirteen-year-old Brittany asked quietly, pushing her thin silver wire-rimmed oval glasses up her nose as the rusted chains of Aunt Karen's wide wooden porch glider creaked softly beneath the three of us.
+
+"Ten-forty-five," Katie answered in a small, tight voice, leaning her blonde head closer against my right shoulder while I sat wedged in my favorite middle spot on the cushioned glider with my right arm wrapped warmly around Katie and my left arm wrapped around Brittany. "Right before Dad came out of his study with his CCHR textbook bag and told us to grab our backpacks so we could ride down here to the farm for the weekend."
+
+Outside the gray mesh of the wrap-around screened porch, July in southern Virginia Beach hung thick, shimmering, and mercilessly dry. Cicadas buzzed in a high, relentless drone from the dusty pecan limbs, and across the flat fields past Uncle Steve's red cedar post, forty acres of unirrigated field corn stood under a brassy ninety-six-degree sky with their green leaves rolled inward like tight gray straws, praying for rain that hadn't fallen in three weeks.
+
+Three summers earlier when we were ten, Katie and I hadn't understood why Mom locked her bedroom door in the middle of the afternoon or why Aunt Karen's voice got low and fierce on the kitchen telephone. At thirteen—especially after Grandma had packed up our fourth upstairs bedroom earlier that spring to move back home to Newport, Rhode Island so she could live near Aunt Liz and sixteen-year-old Chelsea, leaving no retired grandmother downstairs in Kempsville on weekday afternoons—there was no missing the clues anymore.
+
+Yesterday morning when I carried the kitchen trash bag out to the garage bin, three empty clear glass bottles with torn tax seals had clinked together beneath a layer of folded grocery circulars at the bottom of the can, even though Dad never drank anything stronger than root beer or ginger ale. And at quarter to eleven this morning, when Katie and I walked downstairs looking for cereal, Mom had been sitting at the kitchen island in her bathrobe with an amber-filled tumbler sweating rings across three glossy, tropical-blue *Sunward Cruise Lines* travel brochures—her words sliding thickly together as she jabbed a fingernail at pictures of tiered pool bars and sunlit Caribbean decks, announcing loudly that as soon as Dad finished his community-college classes she was taking the whole family on a big seven-day ocean cruise where Katie would learn to wear sundresses and dance instead of hiding behind computer screens with her brother all day.
+
+"I smelled the glass when I put our bowls in the sink," I admitted quietly between Katie and Brittany, feeling my stomach twist the exact way it had back at ten-forty-five. "It smelled just like that sharp, sour stuff from the New Year's toast on television—only way stronger. Mom doesn't have summer migraines, does she, Brittany?"
+
+Brittany bit her lower lip, glancing anxiously over her shoulder toward the open farmhouse kitchen window before squeezing my left hand tighter. "I heard my mom crying to my dad about it one night after dinner in May," Brittany whispered. "I didn't want to say anything and scare you guys."
+
+Behind us, the wooden screen door latch clicked softly—not snapping shut, because Dad was holding the frame with one hand while Aunt Karen stepped slowly out onto the porch carrying a tray of four chilled green cans of ginger ale, with Uncle Steve walking quietly right behind them in his sweat-stained Saturday work shirt.
+
+All three adults stopped beside the picnic table the instant they saw our faces huddled together on the glider. Nobody had to ask what we had been talking about; Aunt Karen took one look at Katie's pale cheeks and Brittany's guilty eyes, set the tray gently down on the painted pine planks, and exchanged a long, sorrowful look with Dad.
+
+"We're thirteen, Dad," Katie said softly, tightening her fingers around my wrist instead of looking away. "You and Aunt Karen don't have to pretend Mom just has headaches anymore."
+
+Dad didn't try to change the subject, and neither did Aunt Karen. Pulling two wooden chairs right up facing our porch glider while Uncle Steve leaned quietly against the porch rail beside Brittany's end of the swing, Dad rested his forearms on his knees and looked straight into Katie's eyes and mine with steady, unflinching honesty.
+
+"No, sweetheart—we won't pretend," Dad said gently. "Your mom has a drinking problem. It's an illness with alcohol that started getting worse a few years back, even when she tells herself and everyone else she has a handle on it."
+
+"And I need all three of you—especially you two, Katie and Nate—to hear me say something right now and lock it inside your heads forever," Aunt Karen added, leaning forward to rest one warm hand over Katie's knee and her other hand over Brittany's while her voice stayed calm, clear, and deeply loving even with the ache of talking about her own older sister. "Adults who drink too much say sharp, unfair things when a glass is in their hand, and they look for reasons to blame everybody else in the house for why they're unhappy. Not *one ounce* of your mother's drinking is because of you two, or because you like computers, or because you're quiet, or because the two of you stick together. You didn't cause it, you can't tiptoe quietly enough to cure it, and it is never your job to fix a grown-up."
+
+Katie let out a shaky breath against my right shoulder, blinking fast as a huge, silent weight lifted off her chest, and I felt my own throat loosen as I hugged both Katie and Brittany a little closer.
+
+"Your Aunt Karen and Uncle Steve and I are handling the grown-up side of things," Dad promised quietly, reaching out to squeeze my knee and Katie's shoulder. "Anytime the house feels loud or Mom isn't acting like herself while I'm at work or evening lab at CCHR, you lock your bedroom door together, or you pick up the phone and call Aunt Karen or me on the first ring, and one of us will come get you right away."
+
+"Wait—what about those *Sunward* ship brochures she had all over the counter this morning?" Katie asked anxiously, looking straight at Dad. "Dad, please tell me you aren't going to make Nate and me get trapped on a giant boat out in the middle of the ocean where there's music blasting and people drinking at pool bars on every deck and nowhere to walk home."
+
+"Yeah," I seconded immediately, shuddering at the mere thought of seven days locked inside a floating hotel hallway with Mom in that mood. "We'd way rather stay home in Virginia Beach coding HTML or sitting right here on this porch."
+
+Dad managed a tired, reassuring smile, rubbing the back of his neck. "Nobody booked a ship ticket this morning, guys—those were just free travel-agency pamphlets she picked up at the shopping center. For right now, the only place you two are sailing is this porch swing."
+
+***
+
+#### Saturday, July 18, 1998, 5:15 PM — Curled Corn Leaves, Half-Price Grain Sheets, & Uncle Steve's Green Ledger
+
+When Dad and Aunt Karen went back inside twenty minutes later to peel potatoes and fry chicken for supper—leaving the three of us tucked close together on the shaded glider sipping cold ginger ale—the afternoon heat slowly began to ease across the yard, yet a second, quieter worry lingered inside the farmhouse behind us.
+
+Through the screen window looking onto the dining room table, right beside Uncle Steve's reading glasses and a solar pocket calculator, lay his thick green cloth-bound farm ledger—propped open across three yellow carbon-copy invoices from the Pungo farm-supply cooperative and a printed grain-market bulletin from Chesapeake.
+
+Brittany followed my gaze through the mesh and let out a quiet sigh, resting her caramel-blonde head against my left shoulder while nibbling a handful of pretzels from the bowl beside her.
+
+"Dad didn't come to bed until almost two in the morning on Thursday," Brittany murmured softly so Uncle Steve wouldn't hear from the back steps where he was washing grease off his hands with orange pumice soap at the outdoor spigot. "He worked his regular maintenance shift up in town until eleven, drove all the way down Pungo Ferry Road in the dark, and sat at that dining table with the calculator for three hours."
+
+"Because it hasn't rained since June?" Katie asked gently across my chest.
+
+"Because of the drought *and* the grain prices," Brittany whispered, pointing out across the white shell lane past the red cedar post. Even to two city-suburb kids who only knew HTML tags and library books, the farm looked exhausted compared to June of 1995. Half the white paint on the equipment-shed eaves had blistered and peeled in the sun because Uncle Steve didn't have a free Saturday left to scrape and prime it; the back ditch bank had grown shaggy with trumpet vine; and out across the sixty flat acres, the unirrigated July corn stalks stood stunted at shoulder height, their lower blades burned crisp tan like autumn leaves three months early. "Dad told Mom that corn and wheat prices dropped almost in half since the year of the big ice storm. Even when a field grows okay now, the check from the grain elevator barely pays for the diesel fuel and the fertilizer sack—so Mom and Dad are working extra town shifts just to pay the farm bills instead of the farm paying for anything."
+
+Looking out past the pecan tree at Uncle Steve slowly shutting off the brass hose bib—his shoulders sagging with the bone-deep weariness of a man working two full-time lives at once and losing ground on both—Katie and I both tightened our arms around Brittany at the exact same moment.
+
+"Well, if your mom and dad really do end up selling the acreage like Uncle David talked about during the ice storm," Katie told her warmly, reaching across my lap to link her fingers with Brittany's while I hugged both of them steady in the middle, "moving into a regular brick house up in Kempsville isn't giving up, Brittany. Think about next year after eighth grade—no flooded Pungo Ferry Road, no two-hour dark drives for your dad, and all three of us walking into ninth grade at Northwood High together."
+
+Brittany smiled wistfully behind her silver frames, leaning snugly into my shoulder as the dry July wind rattled the curled corn leaves beyond the yard.
+
+"One more winter crop," Brittany murmured. "Dad told Mom he wants to plant winter wheat one last October and see what next June brings before they call a realtor."
+
+## Two Dollars a Bushel: One Last Harvest & Goodbye to Blackwater Road
+
+### Two Dollars and Ten Cents a Bushel, Unhooked Soybean Drills, & One Last Sunset Across the Wheat Stubble
+
+**Date:** 1999-06-19 at 16:30 America/New_York
+
+#### Saturday, June 19, 1999, 4:30 PM — Golden Chaff in the Afternoon Sun & Two Dollars and Ten Cents a Bushel
+
+Fine golden dust and sunlit flecks of wheat chaff drifted like warm snow past the screened porch on Blackwater Road as the hired harvester's faded red combine finished its very last pass along the cypress tree line, shut off its spinning header reel with a deep metallic clank, and rumbled empty down the white crushed-shell lane toward the road.
+
+Usually, on harvest Saturday in mid-June down in southern Virginia Beach, the work was only half finished when the winter wheat came off. Every prior June we could remember, before the grain truck's taillights had even disappeared north toward the Chesapeake elevator, Uncle Steve would already be out under the tin shed greasing the bearings on his soybean planter drill to double-crop summer soybeans straight into the fresh wheat stubble before nightfall.
+
+Today, the soybean drill sat pushed all the way to the back wall of the dark tin shed under a folded blue tarp. And tucked face-down behind the hydrangea bushes against the white porch lattice—where none of us had to stare at its red-and-blue brokerage letters until Monday morning—rested a newly painted wooden *FOR SALE* sign with two steel ground stakes taped to its post.
+
+"Here comes my dad," fourteen-year-old Brittany whispered beside me at the screen door as Uncle Steve's dusty pickup truck turned slowly off Blackwater Road onto the crushed clam shells, parked beside Dad's sedan under the pecan tree, and clicked completely silent.
+
+For ten long seconds, Uncle Steve didn't open his truck door. He just sat behind the steering wheel in his dusty baseball cap looking out across the sixty flat, cleanly shorn acres of pale-gold wheat stubble that his grandfather and father had plowed before him, then took off his cap, wiped his forehead on his forearm, and walked slowly up the porch steps holding a single folded pink carbon-copy weigh ticket from the grain elevator.
+
+Inside the bright farmhouse kitchen—where Aunt Karen and Dad stood waiting beside a fresh pitcher of iced tea while Katie, Brittany, and I sat quietly side by side on the three wooden stools along the breakfast bar—nobody spoke until Uncle Steve pulled out a chair at the oak table and flattened the pink settlement slip beside his green ledger book.
+
+"Test weight came back good and dry—fifty-nine pounds to the bushel, zero dockage," Uncle Steve said quietly, his voice steady and matter-of-fact without a trace of self-pity. He tapped the bottom right box of the pink slip with one calloused knuckle. "Cash board price at the elevator today was two dollars and ten cents a bushel."
+
+Aunt Karen closed her eyes briefly, letting out a soft, resigned breath as she stepped behind Uncle Steve's chair and rested both hands warmly on his shoulders. Even Dad shook his head quietly in disbelief.
+
+"Two-ten a bushel," Dad murmured. "Steve, wheat was bringing well over four-fifty back in ninety-six."
+
+"World glut has every bin from Kansas to Norfolk overflowing, David, and diesel and fertilizer went up instead of down," Uncle Steve said simply, looking down at the neat columns of pencil numbers he had already totaled in the margin of his green ledger. "After I hand custom-cutting their check for the combine and grain haul, pay off last October's seed-and-nitrogen note at the cooperative, and set aside county land tax, eight months of growing sixty acres of winter wheat cleared four hundred and eighty-two dollars. If we sign another operating note on Monday to put double-crop soybeans in that ground at four-dollar bean prices—one August hurricane or dry spell puts us twenty thousand dollars upside down."
+
+Uncle Steve closed the green cloth cover of the farm ledger with a gentle, final pat and reached up to cover Aunt Karen's hand on his shoulder.
+
+"We gave the old place an honest last crop, Karen," Uncle Steve said softly. "The numbers just aren't there anymore. Call Mr. Holloway back on Monday morning—tell him we accept the offer on the acreage, and let's go sign the closing papers on that brick ranch up on Earlton Court before July's out."
+
+"You worked yourself half to death for ten years keeping this roof tight, Steve Fletcher," Aunt Karen whispered, leaning down to kiss the top of his head with damp, proud eyes. "Nobody on Blackwater Road can ever say you didn't do right by this land."
+
+On the stool to my left, Brittany ducked her chin hard, pulling off her silver wire-rimmed glasses for a second to press the sleeve of her t-shirt quickly against her eyes before Aunt Karen could see her cry. Right away, Katie nudged my knee under the counter, and the three of us slipped quietly out through the wooden screen door so Brittany's mom and dad could have five minutes together in the kitchen.
+
+***
+
+#### Saturday, June 19, 1999, 7:45 PM — Walking Past the Red Cedar Post One Last Time & Our Promise for Ninth Grade
+
+By quarter to eight that evening, after a quiet supper of Aunt Karen's baked ham, buttermilk biscuits, and the very last bowl of strawberries plucked out of the fenced kitchen patch behind the clothesline, the June sun sank low and copper-orange behind the distant cypress tops.
+
+With every tractor, combine, and grain truck gone for good—retiring Uncle Steve's childhood safety rule on our final evening—Brittany led Katie and me right past the weathered red cedar post at the edge of the yard oak shade, across the white crushed-shell lane, and ten yards out onto the dry, open margin of the freshly harvested wheat field.
+
+At fourteen years old, Katie's calves and mine had grown noticeably tighter after long walks than they had been back in fourth grade, making both of us step carefully over the uneven ridges of dark soil, yet neither of us would have missed walking out there beside our cousin for anything. Beneath our sneakers, the six-inch golden wheat stalks crunched crisp and clean, releasing the rich, toasted-bread scent of warm straw and Tidewater earth into the cooling evening air. Overhead, the sky turned deep violet-blue without a single shopping-center floodlight or highway glare anywhere on the horizon, and hundreds of yellow-green fireflies began blinking lazily above the ditch clover.
+
+Brittany stopped beside the boundary furrow, hugged both arms across her ribs as she looked back at the white clapboard farmhouse and its glowing amber screened porch, and let two quiet tears spill down her cheeks behind her oval lenses.
+
+"I know Pungo Ferry Road floods every time the wind blows wrong, and I hated riding ninety minutes on that rattling bus to Pungo Ridge Middle while everybody else lived near town," Brittany confessed thickly, trying and failing to laugh through the lump in her throat. "It's just—every summer memory I like from when we were little was right there inside those yard trees with you two. Once somebody else buys it, we can't ever come back down the shell lane again."
+
+I didn't say a word first—I just stepped smoothly right between Brittany on my left and Katie on my right, lifted both arms, and pulled both of my favorite people in the world straight into a tight, steady three-way hug right there at the edge of the golden wheat stubble.
+
+Katie immediately wrapped her left arm around my waist and reached her right arm all the way across my shoulders to hug Brittany's neck, resting her blonde head against mine while Brittany leaned her cheek gratefully against my left shoulder and let out a long, trembling breath until her shoulders stopped shaking.
+
+"Somebody else only gets the dirt and the tractor shed, Brittany," Katie told her gently, squeezing Brittany's shoulder tight. "The good part wasn't the drainage ditches—it was the three of us having a quiet porch where nobody yelled at anybody. And Aunt Karen already showed Dad instant snapshots from the realtor listing of your new house up on Earlton Court."
+
+"Do you realize how close Earlton Court is to Northwood High School?" I added warmly, keeping both arms wrapped firmly around Katie and Brittany as fireflies drifted past our knees. "Dad and I traced it on the Virginia Beach street map on Tuesday night. Your new driveway is literally right around the corner from Macgregory Street and the back chain-link fence of Northwood High. Starting the day after Labor Day in ninth grade, there's no more Blackwater school bus and no more being split up across opposite ends of the city."
+
+Brittany lifted her head off my shoulder, blinking away the last tear behind her silver glasses as a genuine, hopeful smile began tugging at the corners of her mouth.
+
+"Every single day?" Brittany asked softly. "Same cafeteria lunch, same hallways, and you two can walk right through the back fence to our new house after school whenever Aunt Brenda's being mean?"
+
+"Every single day of high school," I promised, giving both Katie and Brittany one more warm squeeze before taking Katie's hand in my right hand and Brittany's hand in my left hand to walk slowly back across the crunching golden stubble toward the glowing porch light.
+
+Behind us, the sixty flat acres of Blackwater Road settled into quiet June twilight for the last time; ahead of us up in Kempsville, ninth grade and Earlton Court were waiting for all three of us together.
 
 ## Freshman Lunch, Chicken Patty Bites, & The DeMarco Decree
 
