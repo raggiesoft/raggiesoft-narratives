@@ -8014,23 +8014,23 @@ Brittany looked curiously from Dad to me. "Uncle David's niece up in Rhode Islan
 
 On the table, the speakerphone rang four times before clicking open—not in a private bedroom, but with the hollow echo of a tiled institutional hallway.
 
-*"Regalis Community House, Director Sterling speaking! How may we brighten your evening?"* a woman's voice chirped through the speaker in syrupy, sing-song sweetness that sounded like sugar poured over sheet metal.
+*"Regalis Community House, Director Sterling speaking! How may we brighten your evening?"* a man's voice boomed through the speaker in syrupy, fake-jovial church-deacon sweetness that sounded like molasses poured over sheet metal.
 
-"Good evening, Ms. Sterling—it's David Prairie calling from Virginia with Katie and Nate for our monthly check-in with my niece Chelsea," Dad said politely.
+"Good evening, Mr. Sterling—it's David Prairie calling from Virginia with Katie and Nate for our monthly check-in with my niece Chelsea," Dad said politely.
 
-*"Why, Mr. Prairie! How wonderful to hear from you!"* Director Sterling trilled without missing half a beat, though none of us heard footsteps walking away to give Chelsea privacy—only the crisp clack of hard-soled shoes staying planted right beside the wall receiver. *"Chelsea dear, step right here and tell your nice uncle in Virginia how wonderfully you're doing before seven-thirty quiet hours!"*
+*"Why, Mr. Prairie! Wonderful to hear from you, sir!"* Director Sterling chuckled warmly without missing half a beat, though none of us heard footsteps walking away to give Chelsea privacy—only the heavy scuff of hard-soled men's dress loafers staying planted right beside the wall receiver. *"Chelsea, step right up here and tell your nice uncle in Virginia how wonderfully you're doing before seven-thirty quiet hours!"*
 
 Katie, Brittany, and I all stiffened at the exact same instant. *Seven-thirty quiet hours?* Outside our kitchen window in late May, the sun was still bright above the pine tops, and up in Rhode Island it wouldn't even get dark until after eight-fifteen.
 
-*"H-hi, Uncle David... hi, Nate and Katie,"* thirty-four-year-old Chelsea's familiar, softly slurred voice came through the line—thin, rushed, and pitched high with unmistakable tension—followed immediately by a tight, whistling intake of breath deep in her bronchial tubes that I knew by heart from Christmas Eve 2004.
+*"H-hi, Unca David... hi, Nate... Katie,"* thirty-four-year-old Chelsea's familiar, thickly slurred voice came through the line—halting, effortful, and pitched high with unmistakable fear as her severe speech impediment blurred the consonants together—followed immediately by a tight, whistling intake of breath deep in her bronchial tubes that I knew by heart from Christmas Eve 2004.
 
 "Hi, Chelsea!" I leaned close to the speaker, keeping my voice warm and gentle while Katie gripped my left hand hard. "You sound a little wheezy tonight, Cous. Do you have your rescue inhaler right there in your cardigan pocket?"
 
-For two full seconds, dead silence hung on the line—except for the faint rustle of Director Sterling shifting right beside the microphone.
+For two full seconds, dead silence hung on the line—except for the faint rustle of Director Sterling's starch-stiff sleeve shifting right beside the microphone.
 
-*"Um... uh-huh, everything is fine, Nate,"* Chelsea whispered in a flat, wooden cadence that didn't sound like our affectionate, expressive cousin at all. *"I have to finish my purple-and-gold packets at the table now before bedtime. Bye, Uncle David."*
+*"U-uh-huh... me fine, Nate,"* Chelsea whispered in a flat, scared cadence that sounded nothing like our affectionate cousin at all, working hard to push each short word out. *"G-gotta fold purple papers now... bedtime soon. Bye, Unca David."*
 
-*"There we are—she's excited to finish her evening crafts with her housemates, Mr. Prairie!"* Director Sterling's syrupy voice cut right back across the speaker before Chelsea could say another syllable. *"Have a blessed Memorial Day down in Virginia! Buh-bye now!"*
+*"There we are—she's excited to finish her evening crafts with her housemates, Mr. Prairie!"* Director Sterling's syrupy baritone cut right back across the speaker before Chelsea could form another syllable. *"Have a blessed Memorial Day down in Virginia, folks! Buh-bye now!"*
 
 *Click.*
 
@@ -8038,11 +8038,11 @@ Inside our sunlit kitchen on Arvin Road, nobody spoke for five seconds.
 
 Brittany stared down at the silent phone on the oak table, her face pale behind her wire-rimmed glasses because she knew the sound of someone speaking with a warden standing two feet over their shoulder better than anyone in the room.
 
-"She wasn't doing arts and crafts for fun, Uncle David," Brittany said quietly, her voice trembling with sudden, protective recognition. "Somebody was standing right over that wall phone glaring at her—and she couldn't catch her breath."
+"She wasn't doing arts and crafts for fun, Uncle David," Brittany said quietly, her voice trembling with sudden, protective recognition. "That man was standing right over that wall phone glaring down at her—and she couldn't catch her breath."
 
 Katie turned her SwiftChair sharply toward Dad and me, her blue eyes blazing with the exact forensic focus that had brought the floor of the Virginia House of Delegates to a standstill three months earlier.
 
-"Seven-thirty bedtime in May, 'purple-and-gold packets' for King's College, and Chelsea wheezing without her rescue inhaler while that woman cuts the line off after ninety seconds," Katie said flatly. She looked across the table at Brittany, at Dad, and at me. "We aren't calling ahead next month so Director Sterling can rehearse her at the wall phone. We have Brittany right here under our roof now, we have Prairie Twin Interactive paying the bills, and Dad has vacation days saved up in July. We're driving Dad's wheelchair van straight up Interstate 95 to Braxton unannounced—and we're bringing our cousin home."
+"Seven-thirty bedtime in May, 'purple papers' for King's College, and Chelsea wheezing without her rescue inhaler while that man cuts the line off after ninety seconds," Katie said flatly. She looked across the table at Brittany, at Dad, and at me. "We aren't calling ahead next month so Mr. Sterling can rehearse her at the wall phone. We have Brittany right here under our roof now, we have Prairie Twin Interactive paying the bills, and Dad has vacation days saved up in July. We're driving Dad's wheelchair van straight up Interstate 95 to Braxton unannounced—and we're bringing our cousin home."
 
 ### Part 2: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'
 
@@ -8066,7 +8066,7 @@ The gate officer peered past Dad's shoulder at our two motorized wheelchairs, wr
 
 In the rearview mirror, Dad's jaw flexed once, ready to tell the guard exactly who was sitting in the middle bay of his minivan.
 
-"Don't say a word about the House of Delegates yet, Dad," Katie murmured calmly from her SwiftChair, resting a steady hand on Dad's elbow. "If that guard radios ahead to the annex that an elected official is coming through the front gate, Ms. Sterling will have ten minutes to unlock the med-cart, hide whatever she's making Chelsea do, and put on her sweet telephone voice. Taking the public bus to the back service gate gets all four of us inside that door with zero warning."
+"Don't say a word about the House of Delegates yet, Dad," Katie murmured calmly from her SwiftChair, resting a steady hand on Dad's elbow. "If that guard radios ahead to the annex that an elected official is coming through the front gate, Mr. Sterling will have ten minutes to unlock his med-cart, hide whatever he's making Chelsea do, and put on his sweet telephone voice. Taking the public bus to the back service gate gets all four of us inside that door with zero warning."
 
 "Smart girl," Dad nodded, backing the minivan smoothly around the stone turnaround and coasting down the steep switchbacks of Mount Regalis to the base of the hill.
 
@@ -8086,11 +8086,11 @@ Brittany's fists clenched at her sides, her cheeks flushing hot behind her glass
 
 #### Monday, July 18, 2016, 2:35 PM — Unannounced Inside the Annex: Locked Asthma Inhalers, Piecework Tables, & The Fudged Probate Decree
 
-Through the rusted mesh of the unlocked screen door—propped half an inch open because the window air-conditioning unit in the front parlor wasn't even switched on in eighty-six-degree July humidity—the exact voice that had chirped *"How may we brighten your evening?"* over Dad's speakerphone in May was barking across a linoleum room like a drill sergeant.
+Through the rusted mesh of the unlocked screen door—propped half an inch open because the window air-conditioning unit in the front parlor wasn't even switched on in eighty-six-degree July humidity—the exact baritone voice that had boomed *"How may we brighten your evening?"* over Dad's speakerphone in May was barking across a linoleum room like a drill sergeant.
 
 "I don't want to hear one more theatrical wheeze out of you, Chelsea, do you understand me?!" Director Sterling snapped sharply from inside. "The Alumni Office wants five hundred purple-and-gold freshman orientation folders stuffed, ribbon-tied, and boxed before supper, and if your fingers are too clumsy to tie a bow without dropping the card on the floor, you're going straight to your room at seven o'clock instead of seven-thirty without evening pudding!"
 
-*"I-I can't breathe good, Ms. Sterling,"* Chelsea's soft, slurred voice pleaded in frightened tears from the middle of the room, punctuated by a tight, unmistakable asthmatic whistle on every exhale. *"My chest hurts real bad. Please can I have my blue puffer from the cart? Aunt Liz always said I gotta keep both puffers in my pocket—"*
+*"M-my chest hurt bad, M-Mister Sterwing,"* Chelsea's thickly slurred voice pleaded in frightened tears from the middle of the room, every short word halting with her severe speech impediment and punctuated by a tight, unmistakable asthmatic whistle on every exhale. *"C-can't breathe good. Please... blue puffer in cart? Mama Liz say keep both puffers—"*
 
 "Your puffers stay locked in my office med-cart until eight o'clock med pass, young lady, because I know attention-seeking faking when I see it!" Director Sterling barked back. "Just for talking back, your stuffed turtle stays locked in the hall bin until Friday! Now sit up straight and tie those ribbons!"
 
@@ -8098,33 +8098,33 @@ Dad didn't knock. He pulled the screen door wide open, held it firmly against th
 
 Seated along two scarred folding banquet tables under flickering fluorescent tubes were six developmentally disabled adults sweating in the muggy heat over stacks of glossy purple-and-gold King's College donor brochures and satin ribbons, while a brass padlock gleamed on the kitchen pantry door behind them. At the end of the nearer table sat thirty-four-year-old Chelsea—her wavy chestnut-brown hair damp against her temples, tears tracking down her pale cheeks, and one hand pressed tight over her whistling sternum with both cardigan pockets completely empty.
 
-For half a heartbeat, Director Sterling—an impeccably coiffed woman in a pearl necklace and pastel blazer standing over Chelsea with a clipboard—whirled around toward the front door and automatically plastered a blinding, syrupy church-social smile across her face before her brain even registered who we were.
+For half a heartbeat, Director Arthur Sterling—a slick-haired, ruddy-faced man in a pressed white oxford shirt, purple-and-gold King's College alumni tie, and polished dress loafers standing over Chelsea with a clipboard—whirled around toward the front door and automatically plastered a blinding, syrupy church-deacon smile across his face before his brain even registered who we were.
 
-"Why, hello there! Welcome to Regalis Community—" Sterling began sweetly.
+"Why, hello there, folks! Welcome to Regalis Community—" Sterling began sweetly.
 
-*"Nate! Katie! Uncle David!"* Chelsea gasped out loud, shoving her folding chair back so fast it clattered against the linoleum as she hurried across the room with her familiar struggling gait, dropped straight to her knees between our two wheelchairs, and threw both arms around my neck while clutching Katie's wrist. Sobbing and wheezing against my collar just as she had twelve Christmases ago on Tonomy Hill, she cried out through her tears, *"You came! You promised next time it would be just Katie and you—and no mean Tiffany! She took my puffers, Nate, and she locked Shelly Turtle in the closet, and my chest won't open up!"*
+*"Nate! Katie! Unca David!"* Chelsea gasped out loud, shoving her folding chair back so fast it clattered against the linoleum as she hurried across the room with her familiar struggling gait, dropped straight to her knees between our two wheelchairs, and threw both arms around my neck while clutching Katie's wrist. Sobbing and wheezing against my collar just as she had twelve Christmases ago on Tonomy Hill, she fought through her severe speech impediment to push the slurred words out: *"Y-you came! Just Katie an' you—no mean Tiffany! Group Home Two-Face t-took my puffers, Nate! Nice voice on phone, mean yell face at me! Locked Shelly Turtle up!"*
 
 "I've got you, Chelsea—Katie and Uncle David and our cousin Brittany are all right here, and nobody is ever yelling at you again," I said fiercely, wrapping one arm tight around my trembling cousin's shoulders while Brittany immediately knelt beside Chelsea with a cool bottled water from her tote bag, gently fanning Chelsea's flushed face.
 
-Dad took three long strides across the linoleum and planted himself directly in front of Director Sterling, towering six inches over her clipboard.
+Dad took three long strides across the linoleum and planted himself directly in front of Director Sterling, looking straight across his clipboard into the man's eyes.
 
 "Unlock that office medication cart and put both of my niece's prescribed asthma inhalers in her hands in the next ten seconds," Dad said in a low, lethal voice I hadn't heard since the afternoon he kicked Tiffany's dresser onto the Sea Breeze West courtyard, "or my next phone call is 911 for Braxton Fire Rescue and the police for reckless endangerment of a disabled adult."
 
-Sterling's syrupy mask vanished like smoke. Scowling, she stalked three steps behind the half-door of her air-conditioned office, unlocked a steel rolling drawer with a brass key on her lanyard, and slapped Chelsea's blue rescue albuterol inhaler and purple maintenance inhaler onto the counter. Brittany snatched both inhalers up immediately, shook the blue canister, helped Chelsea seal her lips around the mouthpiece for two slow, deep puffs, and counted softly to ten with her until the frightening whistle in Chelsea's chest finally began to ease.
+Sterling's syrupy mask vanished like smoke. Scowling, he stalked three steps behind the half-door of his air-conditioned office, unlocked a steel rolling drawer with a brass key on his belt clip, and slapped Chelsea's blue rescue albuterol inhaler and purple maintenance inhaler onto the counter. Brittany snatched both inhalers up immediately, shook the blue canister, helped Chelsea seal her lips around the mouthpiece for two slow, deep puffs, and counted softly to ten with her until the frightening whistle in Chelsea's chest finally began to ease.
 
 "Once her breathing settles, unlock that hall closet and get her suitcases and her stuffed sea turtle," Dad told Sterling coldly. "I am David Prairie—Elizabeth's brother and Chelsea's sole surviving uncle—and we are signing Chelsea out permanently and taking her home to Virginia today."
 
-Instead of flinching, Director Sterling crossed her pastel blazer sleeves and let out a cold, superior smirk. Reaching into a hanging file rack behind her counter, she pulled out a laminated legal decree bearing the raised seal of the Braxton Municipal Probate Court and tapped a highlighted paragraph with one manicured fingernail.
+Instead of flinching, Director Sterling folded his starched cuffs across his chest and let out a cold, superior smirk. Reaching into a hanging file rack behind his counter, he pulled out a laminated legal decree bearing the raised seal of the Braxton Municipal Probate Court and tapped a highlighted paragraph with one blunt forefinger.
 
 "Actually, Mr. Prairie, you aren't taking her past that chain-link fence," Sterling said smugly. "Eight years ago when the Newport housing authority tore down Tonomy Hill, the Braxton Municipal Probate Court appointed the Regalis Community Living Foundation—a chartered subsidiary of King's College—as Chelsea's sole plenary legal guardian and Representative Payee. See Box Seven right there on the decree? *Heirs-at-Law and Next of Kin: None Living.* Legally, mister, you don't exist. You were only allowed courtesy monthly phone calls out of the goodness of my heart—which are hereby revoked—and if you attempt to remove a court ward from King's College property, Campus Police are ninety seconds up the hill and will arrest all four of you for felony custodial interference."
 
-Chelsea whimpered in pure terror, clutching my forearm and Katie's hand with all her strength. *"Don't leave me here, Nate! Please don't leave me here!"*
+Chelsea whimpered in pure terror, clutching my forearm and Katie's hand with all her strength. *"N-no leave me, Nate! Group Home Two-Face hurt my chest! Please no leave me!"*
 
 Katie didn't raise her voice a single decibel. Sitting tall in her SwiftChair beside me in her royal-blue blazer, my twin sister looked straight past Sterling's smirk at the docket number stamped in the upper-right corner of the laminated decree—*PC-2008-0419*—memorized every digit in two seconds, and pulled out her cell phone.
 
-"Nobody is leaving you behind, Chelsea," Katie promised gently, squeezing Chelsea's fingers before fixing Director Sterling with eyes like blue surgical steel. "Ms. Sterling, my name is Katie Prairie. I sit on the Committee on Health, Welfare and Institutions in the Virginia House of Delegates, and all four of us just witnessed you withhold a prescribed emergency rescue bronchodilator from a wheezing asthmatic adult while forcing Medicaid waiver residents to stuff university alumni mailers behind a padlocked pantry. Under Title 42, Section 15043 of the United States Code, Rhode Island's federally mandated Protection and Advocacy agency has absolute statutory authority to enter any residential facility unannounced, seize medication logs, and place an immediate protective monitor inside this building."
+"Nobody is leaving you behind, Chelsea," Katie promised gently, squeezing Chelsea's fingers before fixing Director Sterling with eyes like blue surgical steel. "Mr. Sterling, my name is Katie Prairie. I sit on the Committee on Health, Welfare and Institutions in the Virginia House of Delegates, and all four of us just witnessed you withhold a prescribed emergency rescue bronchodilator from a wheezing asthmatic adult while forcing Medicaid waiver residents to stuff university alumni mailers behind a padlocked pantry. Under Title 42, Section 15043 of the United States Code, Rhode Island's federally mandated Protection and Advocacy agency has absolute statutory authority to enter any residential facility unannounced, seize medication logs, and place an immediate protective monitor inside this building."
 
-Sterling's smug smile faltered for the first time as Katie tapped dial on speakerphone.
+Sterling's smug smirk faltered for the first time as Katie tapped dial on speakerphone.
 
 ***
 
@@ -8132,11 +8132,11 @@ Sterling's smug smile faltered for the first time as Katie tapped dial on speake
 
 Thirty-eight minutes later, two no-nonsense investigators and a registered nurse from the Rhode Island Disability Law Center—accompanied by an inspector from the state Department of Behavioral Healthcare, Developmental Disabilities and Hospitals—walked straight through the annex screen door flashing federal Protection and Advocacy credentials that King's College Campus Security had zero authority to block.
 
-Within fifteen minutes, the nurse had documented Chelsea's post-attack peak-flow reading, ordered both asthma inhalers kept permanently on Chelsea's person, unlocked the hallway confiscation bin to put Chelsea's worn green plush sea turtle—Shelly—right back into her arms, photographed the boxes of uncompensated King's College alumni mailers and the padlocked pantry hasp, and informed a chalk-white Director Sterling that she was suspended from the floor pending a state licensing audit while two state residential monitors remained inside the house overnight so Chelsea and her five housemates were completely safe, fed a real hot dinner, and free to keep their inhalers and watch evening television for as long as they pleased.
+Within fifteen minutes, the nurse had documented Chelsea's post-attack peak-flow reading, ordered both asthma inhalers kept permanently on Chelsea's person, unlocked the hallway confiscation bin to put Chelsea's worn green plush sea turtle—Shelly—right back into her arms, photographed the boxes of uncompensated King's College alumni mailers and the padlocked pantry hasp, and informed a chalk-white Director Sterling that he was suspended from the floor and barred from the premises pending a state licensing audit while two state residential monitors remained inside the house overnight so Chelsea and her five housemates were completely safe, fed a real hot dinner, and free to keep their inhalers and watch evening television for as long as they pleased.
 
-"I'll be back for you tomorrow morning with a judge's paper, Chelsea—I promise on Aunt Liz's memory," Dad told Chelsea gently at ten minutes to four, hugging his niece tight by the porch while Brittany tucked a zippered pouch holding both inhalers safely into Chelsea's cardigan pocket and Katie and I kissed Chelsea's cheek.
+"I'll be back for you tomorrow morning with a judge's paper, Chelsea—I promise on Aunt Liz's memory," Dad told Chelsea gently at ten minutes to four, hugging his niece tight by the porch while Brittany tucked a zippered plastic pouch holding both inhalers safely into Chelsea's cardigan pocket and Katie and I kissed Chelsea's cheek.
 
-"You won't let them hide me?" Chelsea asked anxiously, hugging Shelly Turtle against her chest while the kind state nurse stood right beside her shoulder.
+"Group Home Two-Face no come back tonight?" Chelsea asked anxiously in her slurred voice, hugging Shelly Turtle tight against her chest while the kind state nurse stood right beside her shoulder.
 
 "Never again, Cous," I promised, holding both of her hands from my wheelchair. "Tomorrow morning, you're coming home to Virginia with all four of us."
 
@@ -8144,7 +8144,7 @@ Catching the four-fifteen outbound Route 99 shuttle back down Mount Regalis to D
 
 At the polished oak counter of the Braxton Municipal Probate Court clerk's office—because unlike Virginia's unified circuit courts, Rhode Island handled adult guardianships through local municipal probate dockets—Katie gave the clerk docket number *PC-2008-0419* and paid twelve dollars in statutory copy fees for the complete public file.
 
-Rolling side by side over to the accessible reading table in the marble corridor while Dad and Brittany leaned over our shoulders, I flipped open the manila folder to Petition Form PC-2.2, dated October 14, 2008, signed under penalty of perjury by Bradford H. Sterling, Esquire—General Counsel to the Regalis Community Living Foundation and, as Katie spotted instantly on the letterhead, Director Sterling's own brother-in-law.
+Rolling side by side over to the accessible reading table in the marble corridor while Dad and Brittany leaned over our shoulders, I flipped open the manila folder to Petition Form PC-2.2, dated October 14, 2008, signed under penalty of perjury by Bradford H. Sterling, Esquire—General Counsel to the Regalis Community Living Foundation and, as Katie spotted instantly on the letterhead, Director Arthur Sterling's own older brother.
 
 "Look at Page Two, Nate," Katie breathed, her finger stopping cold on Box Seven beneath *Heirs-at-Law and Next of Kin*.
 
@@ -8152,7 +8152,7 @@ Typed neatly beside *Mother* and *Maternal Grandmother* was *Deceased (2004)*. D
 
 Dad stared down at that envelope with his hands bracing the oak table so hard his knuckles went white. "They knew my name. Chelsea had my cell phone number and my Arvin Road address written in Aunt Liz's blue address book on her kitchen counter—I called her every single month! They mailed notice to a house I hadn't lived in since 2001 on purpose so it would bounce back, swore to a probate judge that Chelsea was an orphan with zero family on earth so King's College could pocket eighty-four thousand dollars a year in Medicaid waiver funds and her Social Security check, and let me keep making two-minute phone calls so I'd never suspect a court had stripped our family's rights!"
 
-"And look what they forgot happened six months ago on January 1, 2016," I said, turning my silver MagnaBook Pro toward Dad, Katie, and Brittany with Rhode Island General Laws Title 33, Chapter 15.2 glowing on my screen alongside local Newport vital-records hours. "Rhode Island's brand-new Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act just went into effect on New Year's Day—matching Virginia Code Section 64.2-2100 word for word. Dad was born in Newport Hospital right alongside Aunt Liz, which means Newport City Hall has both of their certified Rhode Island birth certificates on file twenty-five minutes across the bridges, and Judge Callahan holds Tuesday morning probate sessions right down this hall at nine o'clock sharp."
+"And look what they forgot happened six months ago on January 1, 2016," I said, turning my silver MagnaBook Pro toward Dad, Katie, and Brittany with Rhode Island General Laws Title 33, Chapter 15.2 glowing on my screen alongside local Newport vital-records hours. "Rhode Island's brand-new Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act just went into effect on New Year's Day—matching Virginia Code Section 64.2-2100 word for word. Dad was born in Newport Hospital right alongside Aunt Liz, which means Newport City Hall has both of their certified Rhode Island birth certificates on file twenty-five minutes across the bridges, and Judge Donahue holds Tuesday morning probate sessions right down this hall at nine o'clock sharp."
 
 Katie closed the certified court copy folder with a crisp, decisive snap and reached for her phone to retain a veteran Braxton disability-probate attorney recommended by the Disability Law Center investigator.
 
@@ -8176,7 +8176,7 @@ Across the center aisle, Bradford H. Sterling, Esquire—dressed in a custom cha
 
 Probate Judge Thomas Donahue held up one thick hand from the bench, peering down over his half-moon reading glasses at the three certified exhibits Ms. Callahan-Vance had just handed up through the bailiff.
 
-"Hold your horses, Counselor," Judge Donahue said, his gravelly Rhode Island baritone dropping ten degrees colder with every page he turned. "I am looking at two raised-seal vital records issued sixty minutes ago by the City Clerk of Newport, Rhode Island: Certificate of Live Birth for David Prairie, born Newport Hospital, and Certificate of Live Birth for his full blood sister Elizabeth Prairie, born Newport Hospital, alongside your own sister-in-law's residential telephone log recording monthly calls from *Uncle David Prairie — Virginia Beach, VA* going back eight straight years."
+"Hold your horses, Counselor," Judge Donahue said, his gravelly Rhode Island baritone dropping ten degrees colder with every page he turned. "I am looking at two raised-seal vital records issued sixty minutes ago by the City Clerk of Newport, Rhode Island: Certificate of Live Birth for David Prairie, born Newport Hospital, and Certificate of Live Birth for his full blood sister Elizabeth Prairie, born Newport Hospital, alongside your own brother's residential telephone log recording monthly calls from *Uncle David Prairie — Virginia Beach, VA* going back eight straight years."
 
 Judge Donahue lifted his eyes from the Newport seals straight to Bradford Sterling's purple-and-gold tie.
 
@@ -8208,7 +8208,7 @@ Two dozen King's College summer students crossing the upper quad stopped dead on
 
 Before Dad even finished unfolding the aluminum side ramp of the minivan, the annex screen door flew open—held wide by the smiling state licensing nurse—and out hurried thirty-four-year-old Chelsea in her sky-blue summer cardigan, her wavy chestnut-brown hair brushed smooth, both asthma inhalers tucked right inside her front pocket where her fingers could pat them whenever she wanted, and Shelly the green plush sea turtle hugged tight under one arm.
 
-*"Uncle David! Nate! Katie! Brittany!"* Chelsea cried out with pure, radiant joy, hurrying down the wooden ramp straight into my open arms first and then Katie's while happy tears spilled down her cheeks. *"The nice nurse helped me pack all my clothes! Am I really going to Virginia right now? I don't ever gotta fold purple papers or ask for my puffers again?"*
+*"Unca David! Nate! Katie! Bwittany!"* Chelsea cried out with pure, radiant joy, hurrying down the wooden ramp on her unsteady gait straight into my open arms first and then Katie's while happy tears spilled down her cheeks, pushing her slurred words out excitedly through her severe speech impediment. *"Nice nurse pack my bag! Go Virginia now? No more Group Home Two-Face? Keep my puffers forever?"*
 
 "Never again for the rest of your life, sweetheart," Dad said thickly, handing the speechless interim Foundation supervisor the stamped copy of Judge Donahue's order before picking up Chelsea's battered suitcase in one hand while Brittany slung Chelsea's blue duffel bag warmly over her shoulder and gave Chelsea a gentle side-hug. "Say goodbye to Mount Regalis, Chelsea—you're coming home with your family."
 
@@ -8218,7 +8218,7 @@ Once we rolled back out beneath the raised wrought-iron arch and descended Mount
 
 "Before we point the wheels down I-95 toward Virginia," Dad smiled over his shoulder as we curved onto the six-lane concrete flyover of Interstate 895—Braxton's famously quirky east-west stub superhighway that federal engineers had signed *NORTH* toward an unbuilt Aquidneck Island freeway back in the sixties, funneling down from three lanes to a grassy two-lane parkway across the Narrow River watershed before climbing high onto the Jamestown and Newport Pell suspension bridges over glittering Narragansett Bay—"your Aunt Liz and Grandma and I grew up looking at Newport Harbor, and I refuse to let Chelsea's last memory of Rhode Island be a padlocked pantry by a steam plant. Who votes for New England clam chowder and warm buttered rolls down by the boats at Perotti Park before we head home?"
 
-*"Me! Me! Clam chowder at Perotti Park!"* Chelsea cheered, clapping her hands excitedly against Shelly Turtle as the white towers of the Newport Pell Bridge rose ahead of the windshield and dozens of white sails tacked across the bright blue water below, before leaning forward between our headrests to point proudly out the side window as we rolled off the highway stub toward downtown Newport. *"Look, Nate! There's the blue OSTA bus! Just like the Route 60 bus I showed you how to catch!"*
+*"Me! Me! Clam chowder! Perotti Park!"* Chelsea cheered in her slurred voice, clapping her hands excitedly against Shelly Turtle as the white towers of the Newport Pell Bridge rose ahead of the windshield and dozens of white sails tacked across the bright blue water below, before leaning forward between our headrests to point proudly out the side window as we rolled off the highway stub toward downtown Newport. *"Look, Nate! Blue OSTA bus! Route 60 bus I show you!"*
 
 "You saved our whole trip home that Monday morning, Cous—you still know Newport buses better than anybody," I grinned back at her, reaching up to high-five her hand while Katie and Brittany laughed warmly beside us.
 
@@ -8226,81 +8226,281 @@ For one glorious, unhurried hour on the sunny waterfront boardwalk of Perotti Pa
 
 Then we rolled back up Dad's minivan ramp, buckled in together, took Interstate 895 West—signed *SOUTH*—back across both bay bridges to Interstate 95 South, and drove Chelsea all the way home to Virginia Beach.
 
-### Part 4: Brittany on the Closet Floor Beside Us, Eight Months of Herbal Tea and Twenty-Minute Tries, & Finally Sleeping in Our Four-Person Nest
+### Part 4: Tagless Puffer-Pocket Pajamas, Gentle Reminders, Fear of 'Group Home Two-Face,' & Four Cousins Crammed Into One Closet
+
+**Date:** 2016-07-21 at 20:45 America/New_York
+
+#### Thursday, July 21, 2016, 8:45 PM — Warm Fleece, Tagless Puffer Pockets, & Gently Helping Chelsea Understand Why We Wear Clothes
+
+"Nate! Katie! Look—Shelly clean!"
+
+Down the warm, steam-softened hallway of our brick ranch on Arvin Road on Chelsea's second evening home from Rhode Island, the hall bathroom door swung wide open after her bath, and out padded thirty-four-year-old Chelsea onto the hallway runner—her damp chestnut-brown curls clinging to her shoulders, her worn green plush sea turtle held proudly in her right hand, her blue and purple asthma inhalers clutched in her left, and not a single stitch of clothing on from head to toe.
+
+Because of her severe developmental disability, Chelsea genuinely did not understand abstract social rules or why anyone needed to put clothes on inside a safe house full of family. Seeing her pad cheerfully toward the living room brought back an instant, fond memory of Christmas 1994 when Katie and I were nine—and of Christmas Eve 2004 up on Dirty Old Tonomy Hill, when twenty-two-year-old Chelsea had bolted soaking wet out of the shower because Tiffany's screaming had terrified her on my behalf, and had later tugged off her clothes at bedtime declaring that she always slept naked.
+
+Not one of the three of us gasped, laughed, or raised our voices by even half a decibel.
+
+Turning my gaze immediately and respectfully toward the framed watercolor print of blue butterflies on the hallway wall so Chelsea's dignity stayed completely intact, I reached blindly behind my shoulder, lifted our oversized, cloud-soft cream fleece throw blanket off the back of the sofa, and held it out toward Brittany while keeping my voice steady and warm.
+
+"Hey there, Cous—glad Shelly enjoyed the warm steam," I said gently, eyes still resting on the butterfly frame. "Hold up one second with Brittany so you don't catch a chill from the air conditioning."
+
+Brittany didn't miss half a beat. Stepping smoothly down the hallway with a warm, unhurried smile behind her thin silver wire-rimmed oval glasses, she draped the wide fleece throw gently around Chelsea's bare shoulders like a royal cape while Katie rolled her SwiftChair quietly up beside them holding a freshly laundered cream cotton-modal pajama set across her lap.
+
+Even surrounded by pure warmth, eight years of institutional conditioning up on Mount Regalis showed itself right away. The instant the blanket settled around her shoulders, thirty-four-year-old Chelsea flinched, ducked her chin defensively toward her collarbone, and squeezed Shelly Turtle hard against her chest, her eyes darting anxiously from Brittany to Katie to me.
+
+"Y-you mad?" Chelsea whispered, her severe speech impediment thickening and slurring the consonants together as she worked hard to push each short word out without wheezing. "Group Home Two-Face y-yell bad words when me take scratchy shirt off. T-take Shelly away."
+
+Katie's expression softened with fierce, protective tenderness. Rolling six inches closer, my twin sister reached out and took Chelsea's free hand warmly between both of hers while Brittany gave Chelsea's blanket-wrapped shoulders a reassuring hug.
+
+"Nobody in this house is *ever* mad at you, Chelsea, and nobody will ever yell at you or take Shelly away for the rest of your life," Katie told her gently, speaking in clear, calm sentences. "You didn't do anything wrong at all. Come sit right here on the padded hallway bench with Brittany, let's slip your soft pajamas on inside the bathroom doorway, and then all three of us will show you something neat we made for you and Shelly."
+
+Once Brittany had gently helped Chelsea step into the loose, buttery-soft cream pajama pants and matching long-sleeved top—keeping everything unhurried and cozy—Chelsea came back out into the living room tugging uncertainly at the hem of her shirt, looking down at the fabric in genuine bewilderment.
+
+"Why clothes?" Chelsea asked earnestly, struggling through the slurred *cl* sound as she looked at me, Katie, and Brittany in turn. "No cold snow. Just Nate, Katie, Bwittany. Me always sleep no clothes!"
+
+Sitting together in the warm lamplight—Katie and I braked side by side in our SwiftChairs with our inner armrests flipped up so our shoulders touched, and Brittany seated right beside Chelsea on the low sofa cushion—all three of us knew lecturing Chelsea about grown-up modesty rules would only confuse her. If we wanted to help our cousin understand why she needed to stay dressed around the house, we had to give her gentle, concrete, loving reasons her mind could actually see and touch—and be ready to repeat them with the exact same patience as many times as she needed.
+
+"Look right here inside the collar first, sweetie," Brittany began warmly, opening her small wicker sewing basket on the coffee table and holding up a second pastel pajama top so Chelsea could watch Brittany's small embroidery scissors snip every stiff, papery factory neck label and side-seam tag clean out of the cloth. Taking Chelsea's fingertips gently in hers, Brittany let her rub the tagless cotton seam against her own cheek. "Up at that mean group home, they put stiff, scratchy shirts on you with sharp tags that poked your neck. Every single shirt and pajama set in your dresser here has zero scratchy tags. And look what I stitched onto the front of every shirt and pair of pants for you."
+
+Brittany guided Chelsea's hand down to two deep, quilted front pockets sewn right onto the cream pajama top—and slipped Chelsea's blue rescue inhaler into the left pocket and her purple maintenance inhaler into the right pocket.
+
+"When you don't wear clothes, Chelsea, you don't have anywhere to carry your puffers," Brittany explained softly, pulling out a tiny strip of matching cream knit cloth she had sewn into a soft little sweater band and sliding it snugly around Shelly Turtle's plush shell. "When you wear your cozy clothes—just like Shelly's matching shirt right here—your puffers stay right in your puffer pockets against your side so nobody can ever separate you from them."
+
+Chelsea's eyes lit up in immediate wonder as she patted both inhalers through the soft fabric and held up Shelly Turtle's matching cream band. "Shelly shirt! Puffer pockets!"
+
+"And feel right up there, Cous," Katie added gently, lifting one hand toward the gentle cool breeze drifting down from the ceiling air-conditioning vent above the hallway. "Remember how damp air and chilly drafts make your bronchial tubes tighten up and whistle? Wearing a soft shirt hugs your chest all day and all night so the cold air-conditioning breeze stays off your ribs and your lungs stay warm and quiet."
+
+"Plus two more things," I said affectionately, tapping the cool brushed-aluminum brake lever and metal frame rail on my SwiftChair. "Whenever you hurry over to give Katie and me big bear hugs in our wheelchairs, wearing soft clothes keeps cold wheelchair metal and rough cushion seams from pinching or scratching your tummy. And remember how Uncle David and Aunt Karen and Uncle Steven have keys to come up the ramp with groceries and supper? Everybody in our family keeps their private body covered inside cozy clothes so your body stays private and safe just for you—and if a thunderstorm or a fire drill ever woke us up at night, you're already dressed and ready to roll right out the door with us."
+
+Chelsea looked down at her two puffer pockets, felt the warm knit over her sternum, touched Shelly Turtle's matching cream band, and broke into a wide, proud smile.
+
+"Warm chest," Chelsea repeated slowly through her speech impediment, patting her shirt with both hands. "No scratchy tags. Puffer pockets!"
+
+"You got it, Cous," all three of us smiled back at her together.
+
+***
+
+#### Thursday, July 21, 2016, 10:15 PM — "Group Home Two-Face Snatch Me!" & Cramming Four Grown Cousins Into One Closet
+
+Ninety minutes later, after we finished warm mugs of caffeine-free apple-cinnamon tea at the kitchen table and took turns brushing our teeth at the roll-under bathroom sink, bedtime arrived—and Katie, Brittany, and I quickly discovered that trauma from Mount Regalis and trauma from Greenway Court spoke the exact same nighttime language.
+
+Inside our spacious master bedroom beneath the second framed watercolor print of blue butterflies, Brittany turned down the soft navy-and-slate-blue comforter on the untouched queen bed, fluffed two plump cotton pillows, set a glowing amber Himalayan salt lamp on the nightstand so the room wasn't dark, and helped Chelsea climb under the covers in her soft cream tagless pajamas with Shelly Turtle tucked under her chin and both inhalers resting right beside her hand.
+
+"Sleep tight right here on this big comfy bed, Chelsea," Brittany whispered affectionately, smoothing a curl back from Chelsea's forehead. "Nate and Katie and I are going to be right here three feet away inside the open closet doorway where you can hear us breathing and see the nightlight the whole night through."
+
+"G'night, Bwittany. G'night, Katie. G'night, Nate," Chelsea murmured sleepily from the center of the queen mattress, blinking slowly in the warm amber glow.
+
+Rolling our two SwiftChairs side by side to the wide bifold doorway of our bedroom closet—where Katie, Brittany, and I had been sharing one oversized, flannel-lined navy sleeping bag and three side-by-side pillows across the vacuumed carpet ever since Brittany moved home in March—Katie and I clicked off our joystick controllers, locked our wheel brakes, and transferred smoothly down onto the closet floor. Brittany slipped off her house slippers, set her wire-rimmed glasses inside their felt case by the baseboard, climbed inside the shared sleeping bag right beside Katie, and left the bifold closet doors propped open a generous ten inches so Chelsea wouldn't feel shut out.
+
+For six quiet minutes, Katie nestled close against my left shoulder lacing her fingers through mine while Brittany rested her warm arm across Katie's shoulder to clasp my forearm under the flannel lining.
+
+Then a stiff midnight breeze off the Chesapeake Bay rattled a cluster of loblolly pine needles sharply against the bedroom gutter—and at that exact same second, a neighbor's pickup truck turning around at the end of Arvin Road swept two pale ribbons of headlight glare across the bottom edge of the window shade.
+
+Out on the queen mattress three feet away, we heard a sharp, panicked gasp—followed instantly by bare feet hitting the bedroom carpet and a tight, frightened whistle catching in Chelsea's throat.
+
+Before Brittany could even reach for our sleeping-bag zipper to go check on her, the bifold closet door shoved all the way open.
+
+Standing silhouetted in the amber salt-lamp glow on trembling legs—clutching Shelly Turtle and both puffers against her cream pajama chest with one arm while dragging her queen-bed pillow behind her by one corner—was thirty-four-year-old Chelsea, tears spilling down her cheeks as she stared back over her shoulder at the curtained bedroom window in sheer terror.
+
+"N-no bed alone!" Chelsea sobbed through her severe speech impediment, dropping straight down onto her knees at the edge of our closet carpet and trying desperately to burrow all five-foot-four of herself headfirst underneath the corner of our three-person sleeping bag right on top of my ribs and Brittany's shins. "Group Home Two-Face out window! Headlights! Group Home Two-Face c-come snatch me back! Take my puffers! Me stay in c-closet w-with Nate an' Katie an' Bwittany!"
+
+"Easy, sweetie—breathe slow with me, nobody's outside that window," Brittany said soothingly, sitting halfway up inside our cramped closet alcove to wrap both arms around Chelsea's shaking shoulders before Chelsea's panic could trigger a full asthma attack, while I held Chelsea's right hand steady against my chest and Katie stroked Chelsea's hair. Counting four slow breaths in and four slow breaths out together until the whistle in Chelsea's throat eased without even needing her blue puffer, Brittany kissed the top of Chelsea's chestnut curls and glanced back toward the empty queen bed. "Tell you what, Chelsea—what if I bring my pillow out there and climb into the big queen bed right beside you so you aren't alone for one second?"
+
+Instantly, two things happened at once.
+
+Beside my left shoulder, Katie's hand clamped tight around my fingers and both of our hearts kicked into an unmistakable, cold sweat—because after four months of having Brittany tucked safely inside our closet sleeping bag with us, the sudden thought of Brittany and Chelsea lying exposed out in front of a street-facing window while Katie and I hid behind closet drywall set every Greenway Court alarm bell screaming behind our ribs.
+
+And right on top of my right knee, Chelsea shook her head fiercely, wrapping both arms around my grey plaid flannel sleeve like an anchor and wedging her hip stubbornly between my hip and the closet baseboard.
+
+"N-no!" Chelsea cried softly, pushing each slurred word out with total conviction. "Two-Face get you an' me out there! Safe in c-closet! All four! Me fit right here!"
+
+To prove she fit, Chelsea pulled both knees up to her chest, accidentally bumped the back of her head into the hem of my hanging winter wool coat on the wooden closet rod, and tried to tug four inches of our stretched-tight navy sleeping bag over her shoulder—nearly pulling the whole flannel cover clean off Brittany's feet on the far left side.
+
+Even with my pulse still thumping, a quiet, helpless laugh escaped my chest in the dim amber glow, and beside me Katie let out a soft, watery giggle against my collarbone.
+
+"Brittany," Katie whispered, looking helplessly from Chelsea curled like a determined sea turtle between my hip and the drywall to the six-foot span of our reach-in closet, "there is zero chance any of the four of us is sleeping out on that mattress tonight."
+
+Brittany slipped her silver wire-rimmed glasses back onto her nose for ten seconds, looked down at three cousins clinging together on sixty-eight inches of closet carpet, and smiled with the patient, unstoppable resourcefulness that kept our whole household running.
+
+"Hold onto Shelly for thirty seconds, everybody—nobody gets left outside the fort," Brittany whispered warmly.
+
+Reaching up onto the top cedar storage shelf above the coat rod, Brittany pulled down the matching spare oversized navy flannel-lined sleeping bag Dad had bought for camping trips back when we first moved to Arvin Road. Having all four of us scoot six inches forward toward our parked SwiftChairs for half a minute, Brittany unzipped both sleeping bags completely flat around their matching heavy brass perimeter teeth, laid the bottom bag wall-to-wall across the carpet from the left drywall stud to the right drywall stud, zipped the second bag directly across the top so the two joined into one giant double-wide four-person sleeping bag, and wedged Chelsea's fourth pillow snugly into the tight row beside mine, Katie's, and hers.
+
+"All right—everybody back into the sardine can," Brittany whispered cheerfully.
+
+There was zero spare real estate left anywhere inside that closet. When all four of us slid underneath the top flannel layer and Brittany tucked her glasses back into their felt case and pulled the bifold doors nearly shut to a thin comforting crack of amber salt-lamp light, Brittany's left shoulder pressed flush against the left closet wall, Katie lay tucked tight between Brittany and my left side holding my hand, I lay in the center with my ankles brushing a shoebox by the door track, and Chelsea curled happily between my right shoulder and the right baseboard with Shelly Turtle hugged under her chin and her puffers resting beside her pillow. Every time anyone shifted an inch, four sets of knees moved in unison and the sleeves of our winter coats swayed softly overhead like fabric wind chimes.
+
+Yet two minutes after the closet doors settled into place, Chelsea let out the longest, deepest, completely un-wheezy sigh I had heard from her since we were little kids.
+
+"Group Home Two-Face n-no find us in here," Chelsea murmured sleepily against my right shoulder, her fingers patting my flannel sleeve once to make sure I was real. "Warm chest. Puffer pockets. All four."
+
+"All four of us, Chelsea," I whispered, resting my cheek gently against Katie's blonde hair on my left while Brittany reached her warm arm across Katie's shoulders to squeeze my forearm under our giant zipped-together sleeping bag. "Nobody is ever snatching you away again."
+
+### Part 5: Eighty Cramped Nights on Closet Plywood, Building Our Four-Person Oak Bed, The Twelve-Minute Try, & Thanksgiving's Forty-Five-Minute Milestone
+
+**Date:** 2016-10-14 at 21:00 America/New_York
+
+#### Friday, October 14, 2016, 9:00 PM — Eighty Sardine Nights in the Closet, Our Custom Solid-Oak Platform Bed, & Retreating Together at Minute Twelve
+
+"Four warm mugs of chamomile-mint, zero caffeine, and one very strict no-heroics rule," Brittany announced cheerfully, carrying a wooden tray down the Arvin Road hallway into our lamp-lit master bedroom on a crisp mid-October Friday night and setting four ceramic mugs along the built-in headboard shelf of our brand-new solid-oak platform bed.
+
+Right behind Brittany rolled Katie and me in our SwiftChairs, with thirty-four-year-old Chelsea walking happily beside my right armrest in soft sky-blue tagless cotton pajamas, one hand resting gently on my shoulder for balance and her other hand patting the two asthma inhalers tucked inside her stitched front puffer pockets.
+
+Reaching October together had taken steady, loving teamwork every single day—especially helping Chelsea remember to keep her clothes on inside the house. Because of her developmental disability, learning a brand-new routine didn't happen from a single conversation in July; over August and September, there had been plenty of warm afternoons after a walk or sleepy mornings after a bath when Chelsea simply forgot all over again, tugging a warm shirt right over her head in the living room because soup had made her toasty or stepping out of the bathroom carrying her towel instead of wearing it.
+
+Every single time—whether it was reminder number three or reminder number fourteen—Katie, Brittany, and I kept the exact same gentle, unhurried routine. I would immediately turn my eyes respectfully toward my laptop screen or the bookshelf without a hint of shock or irritation; Katie would roll up with a warm smile reminding Chelsea about keeping the cool air-conditioning draft off her lungs; and Brittany would step over with an airy, tagless short-sleeved cotton top fitted with soft front puffer pockets so Chelsea never felt scolded, embarrassed, or rushed. Just two hours earlier after Friday supper, when Chelsea's autumn sweater had felt too warm in the kitchen and her hands had gone straight to the bottom hem to pull it off altogether, she had paused halfway on her own, tapped her hip with a proud grin, and called out through her slurred speech impediment, *"Wait—me get cool shirt w-with puffer pockets!"* while Katie, Brittany, and I cheered her around the dish rack.
+
+Our nighttime sleeping arrangement, on the other hand, was beginning to leave physical bruises on all four of us.
+
+For eighty-five consecutive nights since late July, all four grown cousins—three thirty-one-year-olds and one thirty-four-year-old—had slept wedged wall to wall inside our six-foot bedroom closet underneath our two zipped-together navy sleeping bags with four pillows crammed in a row. Emotionally, none of us had ever felt safer. Physically, sixty-eight inches of thin residential carpet laid directly over plywood subflooring was never engineered for four adult skeletons. Every morning at seven-thirty, Brittany climbed out rubbing a stiff purple spot on her left hip where the closet drywall corner met the baseboard; Katie and I stretched aching shoulders and stiff lower backs as we transferred up into our wheelchairs; and at least twice a week, whenever Chelsea rolled over in her sleep hugging Shelly Turtle, her elbow accidentally bonked the point of my chin under our hanging winter parkas.
+
+Even Dad had chuckled gently one Sunday afternoon in late August when he noticed all of our winter coats re-hung inside his spare-room closet so our heads would stop tangling in parka zippers—and that same afternoon around the kitchen table, Katie, Dad, Brittany, and I had sketched out CAD plans on my MagnaBook Pro for the bed we hoped to grow into one day.
+
+In late September, a master cabinetmaker off Witchduck Road had delivered and assembled that vision right across the back wall of our bedroom in place of the old queen bed: a custom solid-oak platform bed built to the exact nineteen-inch seat-to-floor transfer height of our SwiftChairs, wide enough for four adults to stretch out side by side with room to spare, topped with deep orthopedic memory-foam mattresses, smooth bolstered oak side rails, a recessed headboard shelf for glasses and inhalers, and an oversized navy-and-cream patchwork quilt.
+
+For its first two weeks in our bedroom, however, not one of us had lasted past sunset on top of it—until Brittany proposed her twenty-minute tea plan tonight.
+
+"Remember the deal before anybody transfers," Brittany said warmly, picking up a small round brass kitchen timer and turning its dial solely to the twenty-minute mark before setting it beside the amber salt lamp. "Nobody has to sleep out here tonight. Our giant sleeping bag and all four pillows are spread out ready and waiting three feet away inside the open closet. We're only sitting up here under the patchwork quilt until our chamomile tea cools down—twenty minutes tops—and the very second *anybody* feels scared of the window or wants the closet walls, we stop the timer and move right into our sleeping bag together. Deal?"
+
+"Deal," Katie and I answered together, glancing gratefully at each other before locking our SwiftChair brakes flush against the polished oak transfer rail.
+
+"Twenny minutes tea," Chelsea echoed earnestly in her thick, slurred voice, setting Shelly Turtle carefully on the patchwork quilt first before climbing up onto the right side of the wide mattress as Katie and I slid smoothly out of our chairs onto the center pillows and Brittany settled in on Katie's left with our four warm ceramic mugs.
+
+For the first eleven minutes, lying back against deep memory foam beneath the soft navy-and-cream quilt felt almost unreal. After thirteen years of feeling hard plywood subflooring through half an inch of compressed closet batting, my shoulder blades actually sank downward without hitting timber. Beside me, Katie let out a tiny, startled breath of relief as the mattress supported the small of her back, taking slow sips of warm mint-and-chamomile tea while Brittany read aloud in a calm, melodic voice from an illustrated Virginia coastal birdwatching book Chelsea loved.
+
+Then, just as the brass timer clicked past minute twelve, a heavy late-evening delivery box truck rumbled down Arvin Road, let out a sharp, pneumatic *pssshh* of air brakes near the corner stop sign, and rattled our front windowpane at the exact moment an October wind gust scraped a dry oak branch across the vinyl siding behind our blackout curtains.
+
+My body didn't ask my brain's permission.
+
+In half a heartbeat, every muscle across my chest and stomach locked iron-tight—yanked thirteen years backward to the dark rear brick alley behind Greenway Court in August 2003, listening in frozen terror as Brenda banged down the iron stairwell hunting for our first-floor window above the humming box air conditioner. Beside my left shoulder, Katie's hand went ice-cold around her ceramic mug, her pulse jumping visibly at the base of her throat.
+
+And right against my right shoulder, Chelsea gasped out loud, clutching Shelly Turtle tight against her puffer pockets with wide, terrified eyes fixed on the curtain rod.
+
+"T-truck!" Chelsea whimpered through her speech impediment, a thin, frightened tightness catching at the top of her breath. "Group Home Two-Face truck! H-him outside window! Closet bag now, Nate! Please, closet bag!"
+
+Brittany didn't sigh, didn't tell us it was only a parcel truck, and didn't ask for *"just two more minutes."*
+
+Before the echo of the air brakes had even faded down Indian River Road, Brittany reached calmly over, clicked the brass kitchen timer off at twelve minutes, took Katie's and Chelsea's tea mugs safely onto the wooden tray, and beamed at all three of us behind her wire-rimmed glasses as if we had just climbed Mount Everest.
+
+"Twelve whole minutes on our very first try!" Brittany praised us warmly, squeezing Katie's shoulder and kissing Chelsea's temple. "Yesterday we did zero minutes, and tonight all four of us did twelve! Come on—into the fort we go."
+
+Thirty seconds later, Katie and I had transferred smoothly from the oak rail onto our SwiftChairs and down onto the familiar closet carpet three feet away while Brittany guided Chelsea gently onto her fourth pillow on my right side, handed her Shelly Turtle, climbed right into our giant zipped-together sleeping bag beside Katie, and pulled the bifold closet doors nearly closed until the bedroom window disappeared from sight.
+
+Inside the snug walls of the closet—knees bumped together again on hard carpet over plywood—Katie's icy fingers slowly warmed back up inside my left hand, my heartbeat dropped out of my throat, and Chelsea pressed her forehead safely against my right biceps.
+
+"Twelve minutes brave," Chelsea whispered sleepily in the warm dark.
+
+"Twelve minutes brave, Cous," Brittany whispered back across Katie's shoulder, holding all of us close until morning.
+
+***
+
+#### Thursday, November 24, 2016 & Sunday, January 22, 2017 — Forty-Five Minutes on Thanksgiving Night & Accidentally Falling Asleep in Winter Sunlight
+
+Because Brittany never once treated retreating into the closet as a failure, our nervous systems slowly stopped dreading nine o'clock.
+
+Through late October and November, twenty-minute chamomile-tea tries became our favorite quiet part of every evening. Some windy nights when acorns pattered hard on the roof shingles, Katie, Chelsea, and I only lasted fourteen or fifteen minutes on the oak platform bed before asking for the closet sleeping bag—and Brittany always cheered fifteen minutes with the exact same warmth. Other quiet nights, when the twenty-minute brass timer gave its soft single *ping*, nobody rushed to move right away.
+
+On Thanksgiving night, November 24—after a joyful afternoon feast around our extended dining table with Dad down from Alexandria and Aunt Karen and Uncle Steven over from Earlton Court, where Chelsea had stayed happily dressed from morning till night in a soft, tagless cranberry-red fleece tunic Brittany had fitted with matching velvet puffer pockets, proudly showing Uncle David and Aunt Karen how Shelly Turtle had a matching cranberry ribbon—steady autumn rain pattered softly against the pine needles outside at nine-fifteen when the four of us climbed under the patchwork quilt with warm mugs of spiced pear-chamomile tea.
+
+At nine-thirty-five, the little timer clicked softly on the headboard shelf.
+
+Brittany reached up to turn it off and glanced kindly across at Katie, Chelsea, and me. "Ready for the closet bag, guys?"
+
+Katie rested her head against my left shoulder, listening to the gentle rain on the porch roof while her fingers stayed relaxed inside mine, and glanced past me at Chelsea, who was lazily stroking Shelly Turtle's plush flippers without a trace of wheezing.
+
+"Could we leave the lamp low and stay under the quilt ten more minutes?" Katie asked softly. "My shoulders feel really good tonight."
+
+"Ten more minutes?" I checked quietly with Chelsea on my right. "You feel safe right here with me, Cous, or do you want the closet now?"
+
+Chelsea patted her blue and purple puffers sitting six inches above her pillow on the oak headboard shelf, peeked once at the heavy drawn blackout curtains, and snuggled closer under my right arm. "Stay ten minutes w-with Nate," she murmured contentedly.
+
+Ten extra minutes turned into twenty-five—stretching all the way to forty-five peaceful minutes together on the soft orthopedic mattress—before a distant fire engine wailing half a mile south along Military Highway finally set Chelsea's shoulders tensing and kicked Katie's and my Greenway Court reflexes awake at ten o'clock. Even then, as all four of us transferred calmly three feet back into our giant closet sleeping bag and four pillows for the rest of Thanksgiving night, Katie smiled against my collarbone in the dark because forty-five quiet minutes on an open bed was longer than we had managed since we were eighteen years old.
+
+Then came the third Sunday afternoon of January 2017.
+
+With the Virginia General Assembly convened up in Richmond for the short forty-five-day odd-year winter session—where Dad had driven Brittany and Chelsea up in his accessible minivan on Wednesday afternoon so the five of us could have midweek supper together before all of us came back down to Virginia Beach for the weekend—Sunday morning on Arvin Road dawned crisp, bright, and crystal clear. After riding CVTA Route 15 together down to Kempsville Plaza for warm bagels and rolling back up our sunny front-porch ramp after lunch, all four of us were pleasantly tired at two-thirty in the afternoon.
+
+"My feet are frozen and my eyes are heavy from session bills," Katie admitted with a yawn as golden winter sunshine slanted cheerfully around the edges of our open bedroom curtains. "Can the four of us just stretch out on top of the patchwork quilt in our sweaters for fifteen minutes so Brittany can thaw her toes before we start Monday's amendment packet?"
+
+"Fifteen-minute toe thaw coming right up," Brittany grinned, pulling off her boots and tossing a warm fleece throw across our legs once Katie and I transferred onto the center of the oak platform bed in our daytime flannel shirts and jeans and Chelsea curled up happily against my right side hugging Shelly Turtle.
+
+Nobody set the brass timer because nobody intended to sleep. Sunlight pooled warm and gold across the navy-and-cream quilt; the house furnace hummed softly down the hall; Brittany rested her head back against the pillow beside Katie while Katie laced her fingers through mine; and Chelsea let out a soft, rhythmic breath against my sleeve.
+
+When my eyes blinked open again, the golden rectangle of winter sunlight had crept all the way across the bedroom carpet to the closet door, and the digital clock on our dresser read *4:12 PM*.
+
+I froze—not in panic, but in pure, stunned disbelief.
+
+Beside my right shoulder, Chelsea was still fast asleep in the daylight, breathing deep, silent, un-wheezy breaths with Shelly Turtle tucked beneath her chin. Beside my left shoulder, Katie lifted her head off the pillow at the exact moment Brittany blinked awake behind her silver wire-rimmed glasses.
+
+For five seconds, Katie and I just stared into each other's eyes.
+
+"Nate," Katie whispered, barely daring to breathe out loud lest she wake Chelsea up, "we fell *all the way asleep* on the bed. For an hour and forty minutes. And neither of us woke up scared."
+
+Brittany didn't say *I told you so*—she simply beamed from ear to ear, reached across Katie's shoulder to squeeze my hand, and mouthed silently, *So proud of you.*
+
+When darkness fell at ten o'clock that Sunday night, thirteen and a half years of nighttime habit still pulled the four of us back inside our closet sleeping bag one more week. Yet as I lay on that hard closet carpet listening to my twin sister and our two cousins breathing beside me, I knew in my bones that the closet door didn't own the rest of our lives anymore.
+
+### Part 6: Safe From the Dark and 'Group Home Two-Face,' Rolling Up Our Closet Sleeping Bag, & Our First Full Night in the Four-Person Nest
 
 **Date:** 2017-02-11 at 21:30 America/New_York
 
 ![Inside their warm lamp-lit bedroom on Arvin Road in Virginia Beach on a February 2017 night, 31-year-old Nathaniel Prairie in grey plaid flannel pajamas relaxes happily in the center of their custom wheelchair-transfer-height solid-oak four-person cuddle nest platform bed atop a navy-and-cream patchwork quilt, cuddling with 34-year-old chestnut-haired cousin Chelsea in cream knit sleepwear holding her green plush sea turtle on his right shoulder, 31-year-old twin sister Katie in lavender knit pajamas on his left shoulder holding his hand, and 31-year-old cousin Brittany in burgundy flannel pajamas and thin silver wire-rimmed oval glasses hugging Katie's shoulder while the empty, neatly vacuumed closet stands open behind their two parked SwiftChair power wheelchairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2017_arvin_road_first_night_out_of_closet_four_person_nest_younger.jpg)
 
-#### Late July – November 2016 — How Brittany Slept in the Closet With Us While Keeping Chelsea Safe Right Outside the Door
-
-"Chelsea, sweetie—remember our Arvin Road house rule after shower time!" Brittany called out gently and cheerfully down the hallway on our third evening home from Rhode Island, holding up a super-soft cream waffle-knit thermal pajama set and matching fuzzy socks outside the bathroom door without a shred of scolding or embarrassment in her voice. "Gotta slip your cozy cream PJs on before we come out for herbal tea so the air conditioning doesn't make your chest chilly!"
-
-*"Oh! Right—my soft cream ones!"* Chelsea giggled happily from behind the half-open bathroom door, stepping right into the soft pajama pants and top Brittany handed her—a world away from the humiliating shouting she had endured up on Mount Regalis whenever her developmental disability made her forget everyday clothing conventions—before coming out into the hallway beaming from ear to ear with Shelly Turtle under one arm and her blue and purple inhalers tucked into her pocket.
-
-Bringing Chelsea home to Arvin Road that July transformed every corner of our single-story brick ranch for the better.
-
-During the daytime, while Katie and I sat side by side at our dual Linux and PHP workstations in the office bedroom writing client software and preparing transit and disability legislation—and whenever we rode CVTA buses across Virginia Beach and Norfolk for constituent meetings—Chelsea never once had to deal with a rotating stranger from an outside agency or sit behind a locked pantry door. Compensated privately through Prairie Twin Interactive, LLC, Brittany ran our household with effortless warmth: cooking hot breakfasts, walking with Chelsea down to check the mail on sunny mornings, keeping an eagle eye on pollen counts and Chelsea's daily maintenance inhaler schedule, and bringing Chelsea right along with Katie and me whenever we hopped CVTA Route 15 or Route 20 for afternoon errands, because Chelsea loved watching the automated bus route signs light up every bit as much as we did.
-
-Nighttime, however, took much longer—because thirteen and a half years of conditioned trauma and autistic routine don't vanish just because you want them to.
-
-On Chelsea's very first night on Arvin Road in July, Brittany had helped Chelsea settle under the navy-and-slate-blue comforter on the queen bed right beneath the framed blue butterfly print, setting both of Chelsea's inhalers within six inches of her pillow. Yet when ten o'clock arrived and Katie and I rolled toward the wide bedroom closet where our oversized flannel-lined sleeping bag and three pillows lay across the carpet, Katie paused at the closet threshold and looked anxiously up at Brittany.
-
-"Brittany, you really should climb into the queen bed with Chelsea tonight so she isn't on the mattress by herself," Katie whispered. "Nate and I will be fine in here."
-
-Brittany shook her head firmly behind her thin silver wire-rimmed glasses, adjusting the closet doors so they stayed propped open just eight inches facing the foot of the queen bed where Chelsea lay hugging Shelly Turtle in the warm amber glow of the salt lamp.
-
-"Nope—I made you two a promise in March, and I don't break promises anymore," Brittany whispered back with a warm smile, slipping right inside our shared sleeping bag onto her pillow beside Katie's spot inside the closet so she could reach one hand out past the doorframe toward the foot of Chelsea's bed while resting her other hand over Katie's shoulder and mine. "Chelsea is three feet away where she can hear every word we say and see my hand, and whenever you two still feel too scared to sleep out on a bed, all three of us are staying right here sharing this sleeping bag and these pillows in the closet until the night all four of us are ready for one proper bed together."
-
-"Goodnight, Nate! Goodnight, Katie! Goodnight, Brittany!" Chelsea called softly from the pillows three feet outside our propped closet door, thrilled just to be in a quiet room surrounded by three cousins who adored her.
-
-And so, slowly, gently, with zero pressure and zero deadlines, Brittany began her patient eight-month campaign to coax two stubborn thirty-one-year-old engineers out of the closet.
-
-First, in September—after Katie, Dad, and I sketched out CAD plans in our office and hired a master cabinetmaker off Witchduck Road to build a custom wall-to-wall, wheelchair-transfer-height solid-oak platform bed wide enough for four adults comfortably side by side, topped with deep orthopedic mattresses, bolstered oak side rails, a built-in headboard shelf for inhalers and glasses, and an oversized patchwork navy-and-cream quilt—Brittany never once demanded that we sleep on it right away.
-
-Instead, she started with twenty-minute herbal-tea nights.
-
-Every evening at nine o'clock in October and November, Brittany brewed four ceramic mugs of warm caffeine-free chamomile-mint tea, carried them into the warm amber lamplight of the bedroom, and invited Katie and me to transfer out of our SwiftChairs onto the edge of the new navy-and-cream patchwork quilt between her and Chelsea *"just until the tea cools off, and the second either of you still feels too scared to stay on the bed, our sleeping bag and pillows are waiting three feet away in the closet for all three of us."*
-
-The first week, Katie and I lasted twelve minutes on the open mattress before the absence of close closet walls made our chests tighten up—and without a single sigh of disappointment, Brittany cheerfully helped us transfer straight back into the closet and climbed right into our shared sleeping bag and pillows beside us for the night. By Thanksgiving, twelve minutes had stretched to forty-five minutes before the three of us retreated into our closet sleeping bag. By January of 2017—even during weekend trips home from Richmond's short forty-five-day odd-year General Assembly session, where Brittany and Chelsea rode up in Dad's van to visit us—Katie and I had twice drifted off for whole Sunday afternoon naps between Brittany and Chelsea on top of that patchwork quilt without waking in a cold sweat.
-
-***
-
-#### Saturday, February 11, 2017, 9:30 PM — Rolling Up Our Shared Sleeping Bag After Thirteen and a Half Years & Our First Full Night in the Four-Person Nest
+#### Saturday, February 11, 2017, 9:30 PM — No More Fear of "Group Home Two-Face," Rolling Up Our Shared Sleeping Bag, & Our First Full Night in the Four-Person Nest
 
 ![Inside their warm lamp-lit bedroom on Arvin Road in Virginia Beach on a February 2017 night, 31-year-old Nathaniel Prairie in grey plaid flannel pajamas relaxes happily in the center of their custom wheelchair-transfer-height solid-oak four-person cuddle nest platform bed atop a navy-and-cream patchwork quilt, cuddling with 34-year-old chestnut-haired cousin Chelsea in cream knit sleepwear holding her green plush sea turtle on his right shoulder, 31-year-old twin sister Katie in lavender knit pajamas on his left shoulder holding his hand, and 31-year-old cousin Brittany in burgundy flannel pajamas and thin silver wire-rimmed oval glasses hugging Katie's shoulder while the empty, neatly vacuumed closet stands open behind their two parked SwiftChair power wheelchairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2017_arvin_road_first_night_out_of_closet_four_person_nest_younger.jpg)
 
-"Okay, twenty-minute timer is officially done," Brittany said softly at nine-fifty on the frosty Saturday night of February 11, 2017, setting our four empty herbal-tea mugs onto the oak side table while winter wind rustled the pine needles outside our heavy blackout curtains on Arvin Road. "Do we want to climb into the sleeping bag in the closet for sleep, or do we want five more minutes on the quilt?"
+"Okay, twenty-minute timer is officially done," Brittany said softly at nine-fifty on the frosty Saturday night of February 11, 2017, clicking off the little brass timer and setting our four empty chamomile-mint tea mugs onto the oak side table while winter wind rustled the pine needles outside our heavy blackout curtains on Arvin Road. "Do the four of us want to climb into our giant sleeping bag in the closet for sleep, or do we want five more minutes on the quilt?"
 
-Lying in the warm center of the deep orthopedic mattress in my grey plaid flannel pajamas—with thirty-four-year-old Chelsea already half-asleep in her soft cream thermal pajamas against my right shoulder hugging Shelly Turtle while her blue and purple inhalers sat gleaming on the headboard shelf above us, Katie nestled in her lavender knit pajamas against my left shoulder with her fingers laced through mine, and Brittany tucked right beside Katie in her burgundy flannel pajamas—I waited for that old nineteen-thousand-rpm alarm bell from August 2003 to ring behind my ribs.
+Lying in the warm center of the deep orthopedic mattress in my grey plaid flannel pajamas—with thirty-four-year-old Chelsea nestled cozily against my right shoulder in her soft, tagless cream thermal pajamas fitted with front puffer pockets while she hugged Shelly Turtle in her arms and kept both of her inhalers gleaming inches above her pillow on the oak headboard shelf, Katie tucked close against my left shoulder in her lavender knit pajamas with her fingers laced tightly through mine, and Brittany settled right beside Katie in her burgundy flannel pajamas—I stayed completely still and listened to my own ribs.
 
-Nothing rang.
+For thirteen and a half years—five thousand consecutive nights stretching back to Apartment A6 on Greenway Court in August 2003—lying down on a bed after dark had meant waiting for a cold iron fist to close around my lungs at the first creak of vinyl siding or distant set of headlights.
 
-My shoulders were sunk two inches deep into supportive memory foam instead of pressing into thin flannel over hard plywood subflooring. Our front door was deadbolted, our address was shielded behind our registered agent and commercial mailbox, Brenda had zero idea where Arvin Road was, Tyler was locked away for good in a state medical prison, King's College was six hundred miles behind us under a court seal, and wrapped right around Katie and me on both sides were the two cousins we had brought home.
+Outside our drawn curtains right then, a February gust brushed pine cones softly across the eaves, and down at the corner of Arvin Road a neighbor's sedan rolled quietly past toward Indian River Road.
 
-Beside my left shoulder, Katie lifted her head half an inch off the pillow and looked into my eyes in quiet amazement.
+Nothing rang inside my chest.
+
+My shoulders were sunk two full inches into warm, supportive memory foam instead of pressing into compressed flannel over hard plywood subflooring. Our front and back deadbolts were thrown, our home address was shielded behind our registered agent and commercial mailbox, Brenda had zero idea where Arvin Road was, Tyler was locked away for life inside a state medical prison ward, and King's College was six hundred miles north under a permanent probate receivership order.
+
+Turning my head gently to the right first, I brushed a stray chestnut curl back from Chelsea's temple. Over the past seven months—thanks to hundreds of gentle, loving, zero-shame reminders from Brittany, Katie, and me—Chelsea hadn't wandered down the chilly hall without clothes in weeks, proudly patting her warm chest and her puffer pockets every night after her bath. Yet nightfall had always been the hardest test for her fear of Mount Regalis too.
+
+"What about you, Chelsea?" I whispered gently, keeping my voice low and unhurried. "Did you hear the wind outside? Are you scared Group Home Two-Face might try to come here tonight, or do you want the closet bag?"
+
+Chelsea blinked her warm brown eyes slowly in the amber salt-lamp glow, reached one hand up to tap her blue and purple puffers resting right within reach on the oak shelf, and then patted my flannel chest solidly with her palm before hugging Shelly Turtle right back under her chin.
+
+"Door locked," Chelsea murmured steadily through her severe speech impediment, working each short, slurred phrase out without a hint of panic or wheezing in her throat. "Judge paper say Group Home Two-Face g-gone forever. Me got warm chest. Me got puffers. Me safe w-with Nate, Katie, Bwittany."
+
+My throat went warm and tight all at once.
+
+Beside my left shoulder, Katie lifted her head half an inch off her pillow and looked straight into my eyes in quiet amazement.
 
 "Nate?" Katie whispered. "My heart isn't racing at all."
 
-"Mine isn't either," I whispered back, smiling slowly in the warm amber lamplight. Looking past Katie's blonde hair at Brittany's hopeful eyes behind her thin silver wire-rimmed glasses, I nodded toward the open bedroom closet behind our two parked SwiftChairs. "Brittany... what happens if you bring our three closet pillows over here and roll that sleeping bag up onto the top closet shelf tonight?"
+"Mine isn't either," I whispered back, smiling slowly in the warm amber lamplight as Katie leaned across to press her forehead briefly against mine before hugging my left arm close against her chest. Looking past Katie's blonde hair at Brittany's hopeful eyes shining behind her thin silver wire-rimmed oval glasses, I nodded toward the open bedroom closet just beyond our two parked SwiftChairs, where our two zipped-together navy sleeping bags and four pillows still lay spread across the carpet. "Brittany... what happens if you bring all four of our closet pillows over here and roll those sleeping bags up onto the top closet shelf tonight?"
 
 Brittany let out the softest, happiest gasp in the world.
 
-Slipping quickly off the smooth oak transfer edge before either of us could talk ourselves out of it, Brittany knelt inside the bedroom closet one last time, gathered our three closet pillows onto the headboard, rolled our oversized navy sleeping bag into a neat cylinder, tied its cotton straps tight, and lifted it onto the top storage shelf—leaving the vacuumed closet floor completely bare and wide open behind our two charging wheelchairs.
+"Nobody move a muscle—I've been waiting since March to hear those words!" Brittany whispered joyfully.
 
-Climbing right back onto the platform bed beside Katie, Brittany pulled the oversized navy-and-cream patchwork quilt all the way up over the four of us, wrapped one warm arm across Katie's shoulder to squeeze my forearm, and clicked the bedside lamp down to a soft amber glow.
+Slipping quickly off the smooth oak transfer edge before any of us could second-guess ourselves, Brittany knelt inside the wide bedroom closet one last time. First she gathered all four of our familiar cotton-cased closet pillows and arranged them across the wide oak headboard behind our heads. Then she unzipped the brass perimeter teeth joining our two oversized navy flannel-lined sleeping bags, rolled each retired sleeping bag into a neat, tight cylinder, tied their cotton straps fast, and lifted both rolls side by side onto the top cedar storage shelf—leaving the vacuumed closet carpet completely bare, empty, and wide open behind our two quietly charging wheelchairs.
 
-"Bed is soft," Chelsea murmured sleepily, snuggling her chestnut curls closer into the crook of my right shoulder without waking up. "All four of us."
+Climbing right back onto the platform bed beside Katie, Brittany pulled the oversized navy-and-cream patchwork quilt all the way up to our chins, wrapped one warm, protective arm across Katie's shoulder to clasp my forearm, and clicked the bedside lamp down to a soft amber glow.
 
-"Oh, my gosh, Nate," Katie sighed in pure, weightless bliss against my left shoulder as her spine finally relaxed into a real mattress for the very first night since we were eighteen years old in West Ghent. "Why did nobody tell us mattresses felt this good?"
+Katie let out a long, low, utterly shameless groan of pure physical relief as every vertebra in her spine finally melted all the way down into thick orthopedic memory foam for the very first night since we were eighteen years old in West Ghent.
 
-Brittany laughed softly into the quiet dark, resting her cheek affectionately against Katie's hair. "I only spent eight months sleeping on plywood beside you two trying to break the news gently."
+"Oh, my gosh, Nate," my twin sister breathed against my left shoulder. "Why did nobody tell us real mattresses felt *this* good?"
 
-"Thank you for waiting in the closet with us until we were ready, Brittany," I whispered, holding Chelsea safe against my right side and lacing my left fingers tightly with Katie's beneath Brittany's warm hand.
+Brittany laughed softly into the quiet room, resting her cheek affectionately against Katie's hair. "I only spent eleven months sleeping on closet plywood—the last seven of them wedged against a drywall stud with four sets of knees—trying to break the news gently."
 
-"Always, Cous," Brittany whispered back.
+"Okay, fine," I admitted with a sheepish grin in the warm amber dark as Katie nodded wholeheartedly against my collarbone. "Sleeping on carpeted closet floors really *did* hurt."
 
-And when Sunday morning sunlight filtered around the edges of the curtains at eight-thirty the next day, all four of us woke up in that exact same embrace—out of the closet for good, and home together in our four-person nest.
+"Bed is soft," Chelsea murmured sleepily, snuggling her chestnut curls deeper into the crook of my right shoulder where nobody in a group home could ever yell at her or take her puffers away again. "No closet. Just us four."
+
+"Thank you for staying in that sleeping bag in the closet with us until all of us felt safe enough to come out, Brittany," I whispered, holding Chelsea securely against my right side and lacing my left fingers tightly through Katie's beneath Brittany's warm hand.
+
+"Every single night for as long as it took, Cous," Brittany whispered back.
+
+And when Sunday morning sunlight filtered bright and gold around the edges of our curtains at eight-thirty the next day, all four of us woke up in that exact same embrace—out of the closet for good, and home together in our four-person nest.
 
 # Across the Rotunda: The Senate of Virginia
 
@@ -8862,7 +9062,7 @@ As the timber-and-steel roof glided silently open on its cushioned rails, Valeri
 
 One by one—first Lyra, then Orion, then Celeste, then Katie, then me, and then Chelsea with Brittany's gentle steadying hand on her elbow—we peered into the crystal-clear optics at the golden, tilted rings of Saturn—the namesake of the Cassini spacecraft—floating jewel-bright against the black velvet of deep space.
 
-"Pretty rings, Katie," Chelsea whispered in pure wonder, her eyes shining behind her glasses as Valerie smiled warmly.
+"Pretty rings, Katie," Chelsea whispered in pure wonder through her slurred voice, her brown eyes shining in the starlight as Brittany and Valerie smiled warmly.
 
 When Katie sat back from the eyepiece and reached her left hand across to hold mine while resting her right hand gently beside Lyra's armrest, her eyes were shining under the starlight.
 
@@ -9955,7 +10155,7 @@ Tucked into the private back corner of the ground floor—looking out only onto 
 
 We had deliberately chosen this room at the very back of the ground floor so that no passerby, reporter, or neighbor walking along the front sidewalk could ever peer through a street-facing window into our family's private sanctuary. Inside those four quiet walls, right beneath the framed watercolor print of blue butterflies we had carried up from Tidewater, stood the exact twin of the bed we had built on Arvin Road and Lord Nelson Drive back in Virginia Beach: a custom solid-oak, wheelchair-transfer-height four-person cuddle nest platform bed topped with deep orthopedic mattresses, soft flannel sheets, bolstered side rails, and an oversized patchwork navy-and-cream quilt.
 
-Rolling our two compact SwiftChairs parallel to the smooth oak transfer rail, Katie and I plugged our magnetic charger leads into our joystick ports until both battery indicators glowed steady amber—and as I glanced past the foot of our chairs toward the open bifold closet door, where our retired navy-blue sleeping bags sat neatly rolled on the top wooden shelf beneath Katie's pressed royal-blue Senate blazer, my chest warmed at how far the four of us had come. Ten winters earlier, before Brittany and Chelsea had spent eight patient, zero-pressure months sitting beside our open closet door on Arvin Road with mugs of herbal tea until February 11, 2017, Katie and I would have spent tonight zipped onto a hard closet floor in the dark.
+Rolling our two compact SwiftChairs parallel to the smooth oak transfer rail, Katie and I plugged our magnetic charger leads into our joystick ports until both battery indicators glowed steady amber—and as I glanced past the foot of our chairs toward the open bifold closet door, where our retired navy-blue sleeping bags sat neatly rolled on the top wooden shelf beneath Katie's pressed royal-blue Senate blazer, my chest warmed at how far the four of us had come. Ten winters earlier, before Brittany had climbed right into our sleeping bag on the Arvin Road closet floor—with newly rescued Chelsea cramming into the closet beside us too out of fear of Group Home Two-Face while Brittany patiently led all four of us through twenty-minute herbal-tea tries until February 11, 2017—Katie and I would have spent tonight zipped onto hard closet carpet over plywood in the dark.
 
 Instead, moving with easy, practiced upper-body coordination, I locked my brakes, slid smoothly across the polished oak edge onto the center of the patchwork quilt in my grey plaid flannel pajamas, and helped Katie transfer onto the plush pillows to my left in her soft lavender knit sleepwear. On my right, Brittany set Chelsea's maintenance and rescue asthma inhalers neatly on the oak headboard shelf within easy reach, helped forty-four-year-old Chelsea snuggle happily against my right shoulder in her cream thermal pajamas, and then climbed into the nest beside Katie in her burgundy flannel pajamas—smiling through her thin silver wire-rimmed oval glasses as she wrapped a warm arm around Katie's shoulders and reached across to squeeze my hand.
 
@@ -11347,7 +11547,7 @@ Katie didn't even look up from the Appropriations Subcommittee markup packet ope
 
 Seated side by side on the deep cushions in warm autumn sweaters were the other two halves of our four-person household: our fifty-eight-year-old maternal cousin Brittany Fletcher, adjusting her thin silver wire-rimmed glasses as she tucked a soft fleece throw across her lap and her cousin's knees, and our sixty-one-year-old paternal cousin Chelsea, whose silver-streaked chestnut hair rested happily against Brittany's shoulder while she held her stuffed plush sea turtle in one hand and kept her maintenance and rescue asthma inhalers tucked safely in her cardigan pocket.
 
-"Nate?" Chelsea asked in her soft, slurred voice, looking up anxiously when she heard the words *satellite truck*. "Loud people aren't coming here, right?"
+"Nate?" Chelsea asked in her thickly slurred voice, looking up anxiously when she heard the words *satellite truck*. "N-no loud people come here, right?"
 
 Rolling my SwiftChair right up beside the end of the sofa so Chelsea could immediately reach out and hold my forearm with both hands, I smiled reassuringly at her as Brittany reached warmly across Chelsea's shoulder to give my wrist an affectionate squeeze too.
 
@@ -11359,7 +11559,7 @@ If anybody had told seventeen-year-old Katie and me behind our locked bedroom do
 
 First, in February of 2016—fourteen years after the drunken New Year's Eve betrayal that had barred Brittany from our house, even though her parents, our beloved Aunt Karen and Uncle Steven Fletcher, had remained warmly in our corner all along and Aunt Karen had even helped Dad and us out financially whenever things were tight—Brittany found her way home. Living across the James River in Hillside Court public housing in South Richmond and watching the Thursday evening news air thirty-year-old Katie fearlessly ripping apart House Bill 663 on the floor of the Virginia House of Delegates had shattered the fog Brittany had been trapped inside for years, right as abusive, controlling Tyler—whom Brittany had started dating four years earlier with no idea he was the exact same Northwood High senior who had maliciously lied to Heather Collins about me after that drunken New Year's Eve, otherwise she never would have dated him in the first place—was forcing her toward a Saturday afternoon wedding in a bleak South Richmond church she didn't even want to set foot in. After Brittany rode a JRTC bus across the river without an appointment on Friday, held open the General Assembly Building elevator when I shouted *"Hold the elevator!"*, and wept inside Room 518 begging us to help her get out—and after it dawned on Brittany on Saturday wedding morning that Tyler was the exact guy who had lied to Heather about me, becoming the straw that broke the camel's back—Katie and I figured out who he was the instant we saw him step out at the church, where Katie sat beside me in complete silence during Saturday's February 6, 2016 ceremony so no tabloid could claim she had pulled a stunt as a Delegate while I spoke up—*"I object!"*—at *"Speak now or forever hold your peace."* Once Brittany bravely showed the minister and church coordinator the bruises Tyler had left on her in the side room, we brought her back to our Richmond apartment for Saturday night—where terrified Brittany climbed right into our latched walk-in closet with Katie and me and showed us her bruises before climbing into the sleeping bag, horrifying both of us and finalizing our decision on the spot to take her someplace Tyler would never think to look by bringing her all the way up to Washington on Sunday's *Meet the Nation* train so Aunt Karen, Uncle Steven, and Dad could meet her right outside the King Street–Old Town faregates. The very next afternoon—after a raging Tyler turned left off Earlton Court down the Macgregory Street dead end at two o'clock Monday dismissal, plowed through the fence into the steel frame rail of a departing Northwood High School bus so the bus driver and all fifty-four students escaped with bumps and bruises to get checked out at the hospital while Tyler was rushed under armed guard to the Level 1 Trauma Center at Tidewater General Hospital, left severely disabled for life and bound for a state medical prison—Brittany enrolled at the Coastal Adult Learning Center off Virginia Beach Boulevard to earn her HSE, got her life back together, and moved in to live with Katie and me on Arvin Road the moment the 2016 legislative session adjourned in March, just as she had promised us back in high school.
 
-Then, in July of 2016—once Brittany had earned her HSE, joined Prairie Twin Interactive, and settled safely under our roof while our dad David was still alive to drive his wheelchair van straight up Interstate 95 with us and help bring her home—we rescued our thirty-four-year-old paternal cousin Chelsea from Braxton, Rhode Island. After Aunt Elizabeth and Grandma died in 2004 and Newport demolished the old World War II public housing on Tonomy Hill, Chelsea had tried living on her own in a private apartment, and because of her developmental delays it had fallen apart. Contracted out to Regalis Community House—a bleak brick group home tucked beside the dumpsters at the bottom of Mount Regalis on the campus of elitist King's College, where wealthy undergraduates looked down their noses from the upper stone balustrade while staff rode BTA Route 99 up the hill—Chelsea had spent eight miserable years under a two-faced director who locked away her rescue inhaler, confiscated her family photos, worked residents at unpaid campus mailers, and hid behind a falsified 2008 probate form claiming Chelsea had no living next of kin. Armed with Aunt Liz's certified birth records and an emergency release order Dad, Katie, Brittany, and I won the next morning in the Braxton Municipal Probate Court, we rolled right back through King's College's main gate with a sheriff's deputy and brought a weeping, relieved Chelsea home to Virginia Beach so nobody would ever mistreat or abandon her again.
+Then, in July of 2016—once Brittany had earned her HSE, joined Prairie Twin Interactive, and settled safely under our roof while our dad David was still alive to drive his wheelchair van straight up Interstate 95 with us and help bring her home—we rescued our thirty-four-year-old paternal cousin Chelsea from Braxton, Rhode Island. After Aunt Elizabeth and Grandma died in 2004 and Newport demolished the old World War II public housing on Tonomy Hill, Chelsea had tried living on her own in a private apartment, and because of her developmental delays it had fallen apart. Contracted out to Regalis Community House—a bleak brick group home tucked beside the dumpsters at the bottom of Mount Regalis on the campus of elitist King's College, where wealthy undergraduates looked down their noses from the upper stone balustrade while staff rode BTA Route 99 up the hill—Chelsea had spent eight miserable years under a two-faced male director whom she called Group Home Two-Face, who locked away her rescue inhaler, confiscated Shelly Turtle, worked residents at unpaid campus mailers, and hid behind a falsified 2008 probate form claiming Chelsea had no living next of kin. Armed with Aunt Liz's certified birth records and an emergency release order Dad, Katie, Brittany, and I won the next morning in the Braxton Municipal Probate Court, we rolled right back through King's College's main gate with a sheriff's deputy and brought a weeping, relieved Chelsea home to Virginia Beach so nobody would ever mistreat or abandon her again.
 
 Twenty-seven years later, save for an occasional overnight Senate oversight trip, the four of us had shared one inseparable home every single week. Compensated privately through our software company, Prairie Twin Interactive, LLC—never a dime of taxpayer Senate payroll—Brittany lovingly ran our household and cared for Chelsea alongside us so that even after Dad passed away before the 2032 election, Chelsea never once had to deal with rotating strangers from an outside care agency whenever Katie and I were at the Capitol, and all four of us traveled together between our Virginia Beach home and Sunset Drive so Chelsea's routine never broke. Dragging Chelsea out to a noisy intersection full of shouting political reporters just so Katie could turn down a presidential draft movement she had never asked for was out of the question.
 
@@ -11405,9 +11605,9 @@ By quarter to ten that night, Sam, Mandy, and Sarah had walked back to their ran
 
 Now, down the widened hallway, the warm amber glow of two bedside lamps lit the spacious master bedroom sanctuary we had built both here on Arvin Road and up at Sunset Drive in Alexandria: a custom wall-to-wall, wheelchair-transfer-height four-person cuddle nest platform bed topped with deep orthopedic mattresses, soft flannel sheets, bolstered side rails, and an oversized patchwork navy-and-cream quilt.
 
-For more than thirteen years after our estranged mother Brenda had bang-searched the back alley outside Apartment A6 at Greenway Court in August of 2003, Katie and I had been so conditioned by trauma and autism that the only place on earth we felt safe enough to fall asleep was zipped inside a single sleeping bag on a hard carpeted closet floor behind a latched door. Even though terrified Brittany had gratefully squeezed right into that windowless walk-in closet with us on her very first night rescued from the wedding in Richmond, once Brittany moved in with us on Arvin Road after session adjourned in March 2016 she had insisted on sleeping right beside us on the bedroom closet floor until we were ready for a bed—and even after we rescued Chelsea from Regalis Community House that July, breaking our thirteen-year closet reflex hadn't happened overnight.
+For more than thirteen years after our estranged mother Brenda had bang-searched the back alley outside Apartment A6 at Greenway Court in August of 2003, Katie and I had been so conditioned by trauma and autism that the only place on earth we felt safe enough to fall asleep was zipped inside a single sleeping bag on a hard carpeted closet floor behind a latched door. Even though terrified Brittany had gratefully squeezed right into that windowless walk-in closet with us on her very first night rescued from the wedding in Richmond, once Brittany moved in with us on Arvin Road after session adjourned in March 2016 she had insisted on climbing right into our sleeping bag and pillows inside the bedroom closet so we never felt rushed—and when we rescued Chelsea from Regalis Community House that July, Chelsea had been so terrified that Group Home Two-Face might snatch her back through the window that she crammed right into the closet with the three of us too, leaving all four grown cousins wedged wall to wall inside two zipped-together sleeping bags on the closet carpet.
 
-It had taken nearly a full year of gentle, patient coaxing from Brittany and Chelsea—sitting beside the open closet doorway in their pajamas with mugs of warm caffeine-free chamomile tea, promising that four people looking out for one another in one wide bed were even safer than cousins hiding behind a hollow-core closet door, and letting us test our custom platform nest for twenty minutes at a time—before Katie and I had finally felt safe enough on the night of February 11, 2017 to come out of the closet for good.
+It had taken months of gentle, patient teamwork—first building our custom oak platform bed in September 2016, and then Brittany leading all four of us through zero-pressure twenty-minute chamomile-tea tries that stretched from twelve minutes in October to forty-five minutes on Thanksgiving night and a sunlit Sunday afternoon nap in January—before all four of us had finally felt safe enough on the night of February 11, 2017 to roll up our closet sleeping bags and come out of the closet for good.
 
 Rolling my SwiftChair parallel to the smooth wooden transfer edge beside Katie's frame tonight, I locked my brakes, slid smoothly across onto the navy-and-cream patchwork quilt in my grey plaid flannel pajamas, and helped Katie settle onto the plush pillows to my left in her soft lavender knit sleepwear—Katie and Brittany happily trading off that inner spot next to my left shoulder from night to night so all three of them got their turn tucked right against my side—while Brittany set Chelsea's maintenance and rescue inhalers on the wooden headboard shelf within easy reach, helped Chelsea curl up cozily against my right shoulder in her warm cream thermal pajamas, and climbed in right beside Katie in her burgundy flannel pajamas, smiling through her thin silver wire-rimmed glasses as she wrapped one arm around Katie's shoulder and reached her other hand warmly across to clasp my forearm.
 
@@ -11415,7 +11615,7 @@ Katie let out a long, blissful groan as the thick mattress cradled her shoulders
 
 "Remember when we used to insist the hall closet carpet was perfectly comfortable?" my fifty-eight-year-old twin sister murmured sleepily.
 
-Brittany laughed softly, leaning across Katie's shoulder to give my arm an affectionate squeeze before resting her cheek gently against Katie's hair. "It only took Chelsea and me eight months to get you two stubborn engineers off that plywood subfloor."
+Brittany laughed softly, leaning across Katie's shoulder to give my arm an affectionate squeeze before resting her cheek gently against Katie's hair. "It only took eleven months on that closet plywood—and four sets of knees wedged between the drywall studs—to get all of us onto a real mattress."
 
 "Okay, fine," I admitted with a sheepish grin in the warm lamplight as Katie nodded in complete agreement against my shoulder. "Sleeping on carpeted closet floors really did hurt."
 
