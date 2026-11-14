@@ -6,6 +6,23 @@
 *   **The October 1, 1999 Merger:** Mirroring the real-world October 1, 1999 merger of *Tidewater Regional Transit (`TRT`)* and *Pentran*, **CVTA** was formed in **October 1999** by merging **TRT (*Tidewater Regional Transit*, serving the Southside)** and **PenTran (*Peninsula Transit*, serving the Peninsula)**.
 *   **Route Naming Convention:** `The [number]` or `Route [number]`. These are used interchangeably (e.g. `The 12` or `Route 12` for the Indian River Road bus; `The 15` or `Route 15` for the Military Highway / Naval Base Norfolk – Emerald Creek Mall / Robert Hall Blvd. bus).
 
+## Radio Dispatch Procedure, Operator Run Numbers, & `10-16` Wheelchair Logging
+
+*   **Operator Run Call Signs (`[Route Number][2-Digit Run Number]`):** On CVTA's two-way voice radio, operators identify their vehicle by combining the **Route Number** and **2-digit Run Number** (e.g., **`11601`** = Route `116`, Run `01`; **`10702`** = Route `107`, Run `02`; **`6102`** = Route `61`, Run `02`; **`2004`** = Route `20`, Run `04`; **`1502`** = Route `15`, Run `02`).
+*   **Mandatory `10-16` Wheelchair Boarding Log With Dispatch:** Every time wheelchair passenger(s) (`10-16`) board a **CVTA** bus, the operator calls **Dispatch** on the radio so Operations logs that wheelchair securement spaces on that run are occupied:
+    *   *Operator:* `"11601 to Dispatch."`
+    *   *Dispatch:* `"Dispatch, go ahead 11601."`
+    *   *Operator:* `"Dispatch, I've picked up two 10-16s at Lee Hall."` *(or `"at Warwick and Denbigh"`, etc.)*
+    *   *Dispatch:* `"10-4."`
+*   **Direct Pulse Connections vs. Timed Buffers (`Bus-to-Bus 10-16 Radio Holds`):**
+    *   When riders have a **timed buffer** between CVTA routes, no bus-to-bus call-ahead is needed.
+    *   On a **zero-buffer direct CVTA-to-CVTA pulse connection** (such as outbound **Route 20** connecting to outbound **Route 15** at **Glenrock Mall** in `books/katie/e005/c001/p002.md`), the inbound/approaching operator calls directly across the open channel to the connecting bus, and the connecting operator verifies direction so wheelchair riders board the right branch/direction (e.g., southbound/outbound toward **Emerald Creek Mall / Chesapeake / Indian River Road** vs. northbound/inbound toward **Naval Base Norfolk**):
+        *   *Route 20 Operator:* `"Outbound 20 to the outbound 15 at Glenrock Mall, I have two 10-16s for you."`
+        *   *Route 15 Operator:* `"10-4. Are they heading towards Emerald Creek Mall?"`
+        *   *Route 20 Operator:* `"10-4, they say they are heading to Indian River Road."`
+        *   *Route 15 Operator:* `"10-4, Route 15 copies."`
+*   **Inter-Agency Radio Separation (`CTTA` $\leftrightarrow$ `CVTA` at Lee Hall):** Because **CTTA** (*Colonial Triangle Transit Authority*, Williamsburg) and **CVTA** operate on completely separate radio systems, **CTTA operators cannot call directly over the radio to CVTA buses** on direct timed transfers (such as `CTTA Grey Line` $\rightarrow$ `CVTA Route 116` at **Lee Hall**); instead, transferring ambulatory passengers step across the loop first to let the waiting CVTA operator know wheelchair riders are unloading right behind them.
+
 ## Fleet & Visual Identity By Era (Strict Chronological Accuracy)
 
 ### 1. The Early-2000s Post-Merger Era (`1999–2005`, e.g., `books/katie` in 2001–2002)
