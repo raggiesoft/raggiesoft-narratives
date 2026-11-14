@@ -2703,7 +2703,7 @@ As soon as Brandon's footsteps faded past the lobby mailboxes, Dad set his tape 
 
 "For any payphone anywhere in the country," Dad said, looking steadily from Katie's eyes to mine. "Williamsburg is forty-five miles across the water in another area rate zone, and neither of you carries rolls of quarters around in your pockets. If you're ever out at a bus stop, a college building, or a train station and need to reach me at home on Arvin Road or at my office desk, you don't need a single coin. You pick up any payphone receiver, dial that 1-800 number for free, punch in your twelve-digit code when the automated voice asks for it, and dial my number."
 
-"Got it memorized already," I said, unzipping my wallet, sliding out my vertical Under-21 Virginia State ID card—which still carried Dad's brick ranch address on Arvin Road in Virginia Beach—and slipping the prepaid calling card snugly into the clear plastic window right behind it while Katie did the exact same thing with hers. "And our old bedrooms on Arvin Road are still staying just how they are?"
+"Got it memorized already," I said, unzipping my wallet, sliding out my vertical Under-21 Virginia State ID card—which still carried Dad's brick ranch address on Arvin Road in Virginia Beach—and slipping the prepaid calling card snugly into the clear plastic window right behind it alongside the fresh, unactivated thirty-day CVTA bus pass I always kept in reserve for Norfolk and Virginia Beach, while Katie did the exact same thing with hers. "And our old bedrooms on Arvin Road are still staying just how they are?"
 
 "Untouched," Dad promised warmly, resting one large, calloused hand over both of our joined hands between our armrests. "I like Brandon, kids—he's been polite to me and patient with both of you—and I'm proud of you for trying a new adventure together. Just remember that Arvin Road is home base for as long as I'm breathing. If anything up there ever stops feeling right, you call me day or night and we come straight home."
 
@@ -2745,7 +2745,7 @@ He let go instantly and exhaled a long, theatrical breath through his nose, shak
 
 For two miserable hours after Brandon turned off the bedside lamp and rolled onto his side under the thin quilt, I lay wide awake on the far edge of the exposed queen mattress with my street jeans and long-sleeve shirt still on, staring at the pale rectangle of streetlight slanting across the ceiling from the front yard.
 
-Nothing about how we had gotten here had happened all at once. If Brandon had yelled at us or grabbed my wrist during our first week in Williamsburg back in June, Nate and I would have pulled out Dad's laminated calling cards, walked two blocks to the payphone at the Williamsburg train depot, and gone home to Virginia Beach before sunset. Instead, the water had heated up one degree at a time. In July it had been gentle comments that Nate and I spent "ten hours a day parked two inches apart" and ought to practice giving couples polite evening space so Nate wouldn't feel awkward. Because Nate wanted me to have a happy first relationship—and because neither of us had ever dated anyone in adulthood before and lived in constant dread of breaking neurotypical relationship rules nobody had ever taught us—Nate had politely stayed in his spare bedroom down the hall after supper, having no idea what Brandon was saying or doing once our bedroom door clicked shut.
+Nothing about how we had gotten here had happened all at once. If Brandon had yelled at us or grabbed my wrist during our first week in Williamsburg back in June, Nate and I would have pulled out Dad's laminated calling cards, rolled two blocks to the payphone at the Williamsburg train depot, and gone home to Virginia Beach before sunset. Instead, the water had heated up one degree at a time. In July it had been gentle comments that Nate and I spent "ten hours a day parked two inches apart" and ought to practice giving couples polite evening space so Nate wouldn't feel awkward. Because Nate wanted me to have a happy first relationship—and because neither of us had ever dated anyone in adulthood before and lived in constant dread of breaking neurotypical relationship rules nobody had ever taught us—Nate had politely stayed in his spare bedroom down the hall after supper, having no idea what Brandon was saying or doing once our bedroom door clicked shut.
 
 Except there was one thing about Nate and me that Brandon's guilt trips had never been able to erase, and it drove Brandon quietly furious every time it happened.
 
@@ -2787,15 +2787,13 @@ In the dark of that narrow three-by-six closet, Nate wrapped both arms around me
 
 Sitting wheel-to-wheel with Nate on the red-brick plaza thirty feet outside the heavy brass-and-glass entrance doors under a crisp, windy October sky, I kept my hands folded calmly over my canvas lap bag and didn't argue a word.
 
-Earlier that afternoon back at the house, when Brandon had found both of us sitting fully dressed in the living room with our backpacks clipped to our backrests—and our shared navy-blue sleeping bag rolled tight inside its weatherproof sack strapped across Nate's rear frame—he had ordered both of us to roll the two blocks over to the station with him, barking vaguely about an "autumn weekend rail excursion" while keeping his coat pocket buttoned over a thick stack of cash he had just cleaned out of the ATM. Neither Nate nor I knew where Brandon was actually buying tickets to, and neither of us knew that inside his head he was scheming to buy only two tickets and abandon my twin brother stranded right here on the Williamsburg platform while dragging me toward Canada.
-
-We didn't know, and we didn't care. All Nate and I knew—having quietly packed both twenty-four-volt SwiftChair battery chargers, both CCHR laptops, our daily medication pouches, and our wallets holding our Virginia State IDs and Dad's prepaid calling cards before noon—was that wherever Brandon Mercer was going, we were not going a single foot further with him.
+Earlier that afternoon back at the house, when Brandon had found both of us sitting fully dressed in the living room with our backpacks clipped to our backrests—and our shared navy-blue sleeping bag rolled tight inside its weatherproof sack strapped across Nate's rear frame—he had ordered both of us to roll the two blocks over to the station with him, barking vaguely about an "autumn weekend rail excursion" while keeping his coat pocket buttoned over a thick fold of cash. Neither Nate nor I knew where Brandon was actually buying tickets to, and we didn't care. All Nate and I knew—having quietly packed both twenty-four-volt SwiftChair battery chargers, both CCHR laptops, our daily medication pouches, a handful of crisp one-dollar bills, and our wallets holding our Virginia State IDs, Dad's laminated calling cards, and the unused thirty-day CVTA bus passes we still had from Norfolk before noon—was that wherever Brandon Mercer was going, we were not going a single foot further with him.
 
 "Stay right here," Brandon repeated, glancing down at our chairs as if two nineteen-year-olds without a car were bolted to the bricks. "I'll be out in five minutes."
 
 He turned, pushed through the heavy wooden-and-glass doors into the depot, and disappeared inside.
 
-Nate and I knew the layout of that historic brick station house from walking past it all summer: the indoor ARTS ticket counter faced inward across the enclosed waiting room, with solid brick walls and zero line of sight out onto the local bus transfer loop where we were sitting. Neither Brandon nor the ticket agent counting his bills behind the window could see a thing happening at the curb while the dot-matrix ticket printer chugged through paper stock.
+Nate and I knew the layout of that historic brick station house from rolling past it all summer: the indoor ARTS ticket counter faced inward across the enclosed waiting room, with solid brick walls and zero line of sight out onto the local bus bays outside where we were sitting. Neither Brandon nor the ticket agent behind the counter could see a thing happening at the curb while the dot-matrix ticket printer chugged through paper stock.
 
 Three seconds after the station doors swung shut behind Brandon's back, air brakes hissed loudly along the curved concrete bus island right in front of our footrests.
 
@@ -2813,31 +2811,35 @@ Neither of us knew the Williamsburg or Peninsula bus networks at all, and neithe
 
 Both of us pushed our right-hand joysticks forward in unison. Spotting two compact black powerchairs rolling straight up to the yellow curb strip, the CTTA Grey Line operator immediately flipped his suspension switch; the front of the bus knelt with a pneumatic sigh, and the aluminum ramp unfolded cleanly onto the brick apron.
 
-Nate rolled up the diamond-plate incline first and backed swiftly into the driver-side securement bay, and I drove right up behind him and backed into the passenger-side wheelchair bay thirty seconds later. While the operator swiftly hooked all eight four-point floor tie-down straps onto our frames and we fed our dollar bills and quarters into the farebox, neither of us looked back once toward the blind brick wall of the station house.
+Nate rolled up the diamond-plate incline first, and I drove right up behind him thirty seconds later. On Colonial Triangle Transit, the Person with a Disability fare was seventy-five cents: before backing into our respective forward securement bays, Nate and I each fed a crisp one-dollar bill into the farebox, plucked out the printed Change Card loaded with twenty-five cents in CTTA bus fare that the machine issued back to each of us, and let the operator swiftly hook all eight four-point floor tie-down straps onto our frames without looking back once toward the blind brick wall of the station house.
 
-At four-oh-one sharp, the ramp folded upright, the dual doors hissed shut, and the Grey Line pulled out onto North Boundary Street and swung east down Route 60—leaving Brandon Mercer standing inside an enclosed waiting room buying two full-price, non-refundable Regular Adult train tickets to Michigan for a trip he was about to make completely alone.
+At four-oh-one sharp, the ramp folded upright, the dual doors hissed shut, and the Grey Line pulled out onto North Boundary Street and headed southeast onto Route 60—Pocahontas Trail—toward Newport News, leaving Brandon Mercer standing at the indoor ticket counter behind us.
 
 ***
 
-#### Saturday, October 16, 2004, 4:35 PM — Improvising Stop by Stop: Lee Hall, Route 116, Crown Burger at Warwick & Denbigh, & Calling Dad From Newport News
+#### Saturday, October 16, 2004, 4:30 PM — Elmhurst Street at Lee Hall, Thirty-Day Passes, Crown Burger at Warwick & Denbigh, & Calling Dad From Newport News
 
-Once the brick walls of Colonial Williamsburg gave way to pine trees and the long four-lane stretch of Route 60 East past Brewster Gardens, the adrenaline humming in my ears gave way to pure timetable problem-solving.
+Once the brick walls of Colonial Williamsburg gave way to tall pines and the long four-lane stretch of Pocahontas Trail past Brewster Gardens, the adrenaline humming in my ears gave way to pure timetable problem-solving.
 
-"Excuse me, sir," Nate called forward politely from his securement bay as the Grey Line slowed toward the city line at Lee Hall. "My sister and I know all the CVTA routes over in Norfolk and Virginia Beach, but we've never ridden down the Peninsula before. Does a Coastal Virginia Transit bus connect here at Lee Hall going south toward downtown Newport News and the bridge-tunnel?"
+"Excuse me, sir," Nate called forward politely from his securement bay as the Grey Line slowed toward the Newport News city line at Lee Hall. "My sister and I know the CVTA routes over in Norfolk and Virginia Beach, so we've never ridden down the Peninsula before. How do we connect from Lee Hall down toward Downtown Newport News and Norfolk?"
 
-"Sure does—CVTA Route 116 meets me right across the shelter loop at Lee Hall for a direct timed transfer heading south down Warwick Boulevard past Fort Eustis," the CTTA driver called back warmly, glancing into his wide interior mirror. "Take the 116 down to Warwick and Denbigh, and from there the main trunk routes run straight into the Newport News Transit Center downtown, where the cross-water Expressways bus leaves for Norfolk. Only catch here at Lee Hall is that Colonial Triangle and Coastal Virginia run on two completely separate radio systems, so I can't call directly over my radio to tell that 116 operator I've got two wheelchairs unloading."
+"Tell you the truth, I couldn't tell you how to string Coastal Virginia's routes together down the Peninsula," the CTTA operator called back honestly, glancing into his wide interior mirror. "Most of us Colonial Triangle drivers only know that Elmhurst Street along the side of the shopping center here at Lee Hall is where we meet up with the CVTA bus—I think that 116 bus goes down to the mall, and their driver should have Peninsula pocket schedules up front. Only catch here on Elmhurst Street is that Colonial Triangle and Coastal Virginia run on two completely separate radio systems, so I can't call directly over my radio to let that CVTA operator know I've got two wheelchairs unloading."
 
 Before my stomach could even tighten at the thought of watching a timed transfer pull away while eight floor straps were being unhooked, two riders sitting just ahead of us behind the front wheel-well—a woman in navy hospital scrubs and a shipyard apprentice carrying a canvas tool bag—turned around in their seats with warm, reassuring smiles.
 
-"Don't worry about a thing," the woman in scrubs told us right away. "Both of us are transferring to that 116 bus too. Soon as the front doors open, we'll walk straight across the loop and let the CVTA driver know there are two wheelchairs coming right behind us."
+"Don't worry about a thing," the woman in scrubs told us right away. "Both of us are transferring to that 116 bus too. Here at Lee Hall the buses just line up one behind the other right along Elmhurst Street—soon as the front doors open, we'll walk straight up to the CVTA bus and let the driver know there are two wheelchairs coming right behind us."
 
-"We'll make sure he holds the ramp for y'all," the shipyard apprentice promised with a friendly nod.
+"We'll make sure he holds for y'all," the shipyard apprentice promised with a friendly nod.
 
-"Thank you both so much!" I called out, reaching across the aisle between our two securement bays to squeeze Nate's fingers as the Grey Line swung into the Lee Hall transfer loop right across from an idling blue-and-silver CVTA Route 116 coach.
+"Thank you both so much!" I called out, reaching across the aisle between our two securement bays to squeeze Nate's fingers as the Grey Line turned off Pocahontas Trail onto Elmhurst Street along the side of the Lee Hall strip shopping center—pulling in directly behind an idling blue-and-silver Coastal Virginia Transit Authority bus signed for Route 116.
 
-True to their word, the instant our front doors hissed open, both transferring passengers stepped briskly down to the curb, hurried straight across the asphalt to the open doorway of the waiting CVTA coach, and pointed back toward our lowered ramp while our CTTA driver crouched to unclip our eight tie-down hooks. Through the wide windshield across the shelter island, we saw the CVTA operator give an immediate two-finger wave, pull his yellow parking-brake knob tight, and step out to deploy his ramp before our tires even cleared the Grey Line threshold.
+The very instant Nate and I saw that familiar CVTA emblem on the bus waiting ahead of us on Elmhurst Street, both of us let out the exact same quiet breath of relief. Throughout our entire time living in the CVTA service district, Nate and I had always carried CVTA thirty-day passes—magnetic passes valid for thirty consecutive days starting from the day of first usage in a farebox rather than thirty days from the date of purchase. Because the unused spares tucked behind the calling cards in our wallets from before leaving Norfolk in June hadn't lost a single day sitting unactivated all summer, seeing that CVTA 116 bus at Lee Hall meant we were completely good on fare all the way home to Virginia Beach.
 
-Rolling aboard Leg Two—CVTA Route 116, Run 01—we backed smoothly into the two forward wheelchair bays, thanked the two passengers who had held the connection for us, and fed our fares into the box while the operator secured all eight straps to our frames. Climbing back into his seat and pulling the doors shut, the driver unhooked the black coiled handset of his two-way radio beside the farebox to log with CVTA Dispatch that both wheelchair spaces on his run were now in use:
+Outside our right-hand windows, there was no multi-bay transfer loop and not a single bus shelter—only a metal bus-stop signpost and a ribbon-thin concrete sidewalk squeezed so narrowly between the street curb and the grass strip bordering the shopping center parking lot that a wheelchair ramp deployed onto the sidewalk would have left zero room for our powerchairs to clear the ramp and turn safely. Knowing the tight geometry of Elmhurst Street by heart, our CTTA operator purposely stopped several feet away from the curb out in the street lane so his front ramp could fold down flat onto the level asphalt pavement with plenty of maneuvering room.
+
+True to their word, the moment our front doors hissed open, the woman in scrubs and the shipyard apprentice stepped briskly down and walked straight forward along Elmhurst Street to the open front door of the CVTA 116 lined up ahead of us, pointing back toward our bus while our CTTA driver crouched to unclip our eight tie-down hooks. Through our windshield, we watched the CVTA operator give an immediate wave, ease his own forty-foot coach a few feet out from the narrow Elmhurst Street curb as well so his wheelchair ramp could deploy safely onto the pavement, pull his yellow parking-brake knob tight, and fold his ramp down to meet us.
+
+Rolling smoothly off the Grey Line ramp and forward along the asphalt into the waiting CVTA 116, we thanked the two passengers who had held the connection for us, swiped our fresh thirty-day CVTA passes through the farebox reader for their very first day of use with two crisp confirmation beeps, and backed into the two forward wheelchair bays while the operator secured all eight straps to our frames. Climbing back into his seat and pulling the doors shut, the driver unhooked the black coiled handset of his two-way radio beside the farebox to alert CVTA Dispatch that he had picked up two wheelchair passengers:
 
 "11601 to Dispatch."
 
@@ -2847,9 +2849,9 @@ Rolling aboard Leg Two—CVTA Route 116, Run 01—we backed smoothly into the tw
 
 *"10-4."*
 
-Hearing that familiar four-digit ten-code—10-16, CVTA's radio call for a wheelchair passenger that every operator logged upon boarding—made something deep in my chest loosen for the first time since noon. Even up here on the Peninsula, we were officially back on our home transit system.
+Hearing that familiar four-digit ten-code—10-16, CVTA's radio call for a wheelchair passenger that operators logged with Dispatch whenever wheelchair spaces were occupied—made something deep in my chest loosen for the first time since noon. Even up here on the Peninsula, we were officially back on our home transit system.
 
-As the 116 pulled south onto Warwick Boulevard past the brick gates of Fort Eustis, Nate asked the operator for pocket paper timetables for the southbound Warwick trunk routes and the cross-harbor Expressways line. Spreading the folded brochures across our laps, our eyes scanned the columns together the way we had read transit schedules since high school.
+As the 116 pulled south onto Warwick Boulevard past the brick gates of Fort Eustis, Nate asked our CVTA operator how to connect south toward Downtown Norfolk and pulled folded pocket paper timetables from the front rack for the southbound Warwick trunk routes and the cross-harbor Expressways line. Spreading the folded brochures across our laps, our eyes scanned the columns together the way we had read transit schedules since high school.
 
 "Hold on—look closely at the arrival column at Warwick and Denbigh," Nate pointed with his index finger as our stomach rumbles reminded both of us we hadn't eaten anything since toast at nine that morning. "When we get off the 116 at Warwick and Denbigh, Route 106 comes in fifteen minutes—and look at its arrival time at Newport News Transit Center: five-forty-five."
 
@@ -2859,11 +2861,11 @@ I traced my finger across to the Expressways Route 61 timetable right beside it,
 
 "Now look one column to the right at Route 107," Nate said, tapping the next line. "Route 107 comes forty-five minutes from now at Warwick and Denbigh, and it pulls into Newport News Transit Center at six-fifteen—giving us a rock-solid thirty-minute timed buffer to make sure both of our chairs are first in line for the two wheelchair bays on the six-forty-five Route 61!"
 
-Because we were deliberately building a forty-five-minute layover buffer at Warwick and Denbigh instead of trying to make a tight connection, our Route 116 operator didn't need to call ahead to another bus when he knelt at the bustling corner of Warwick Boulevard and Denbigh Boulevard just before four-fifty. Spotting the red-and-gold sign of a Crown Burger fifty yards back from the intersection with an accessible curb cut leading straight to its side entrance, Nate and I rolled inside completely out of sight of Warwick Boulevard traffic, took turns using the clean accessible restroom, washed our hands and faces in warm water, and parked wheel-to-wheel at a corner booth away from the street windows with two hot cheeseburgers, a large basket of salty fries, and two cups of ginger ale.
+Because we were deliberately building a forty-five-minute layover buffer at Warwick and Denbigh instead of trying to make a tight connection, our 116 operator didn't need to call ahead to another bus when he knelt at the bustling corner of Warwick Boulevard and Denbigh Boulevard just before four-fifty. Spotting the red-and-gold sign of a Crown Burger fifty yards back from the intersection with an accessible curb cut leading straight to its side entrance, Nate and I rolled inside completely out of sight of Warwick Boulevard traffic, took turns using the clean accessible restroom, washed our hands and faces in warm water, and parked wheel-to-wheel at a corner booth away from the street windows with two hot cheeseburgers, a large basket of salty fries, and two cups of ginger ale.
 
-For forty-five calm, disciplined minutes—right around the hour Brandon was likely storming back to an empty house in Williamsburg—Nate and I ate every bite, watched the minute hand on Nate's wristwatch, and rolled back out to the bus stop three minutes before Leg Three pulled up to the curb: CVTA Route 107, Run 02.
+For forty-five calm, disciplined minutes indoors away from the highway, Nate and I ate every bite, watched the minute hand on Nate's wristwatch, and rolled back out to the bus stop three minutes before our third bus pulled up to the curb: southbound CVTA Route 107.
 
-Both wheelchair bays on the 107 were wide open. As soon as the operator clipped our eight tie-down straps tight against the floor tracks and pulled back out into the southbound lane of Warwick Boulevard, she reached down to her radio handset to log both wheelchair bays with Dispatch:
+Both wheelchair bays on the 107 were wide open. Once we swiped our thirty-day passes and the operator clipped our eight tie-down straps tight against the floor tracks and pulled back out into the southbound lane of Warwick Boulevard, she reached down to her radio handset to log both wheelchair bays with Dispatch:
 
 "10702 to Dispatch."
 
@@ -2881,7 +2883,7 @@ And the second we saw the white-and-blue Expressways Route 61 bay sign right bes
 
 Rolling our chairs side by side up to the stainless-steel ADA payphone mounted at seated height on the transit center wall, I lifted the cold armored receiver off the hook, held it between my ear and Nate's so both of us could hear, dialed the toll-free 1-800 access number for free without needing a single quarter, punched in our twelve-digit PIN when the chime sounded, and dialed Dad's home landline on Arvin Road.
 
- Dad picked up before the second ring even finished.
+Dad picked up before the second ring even finished.
 
 "Hello?"
 
@@ -2899,7 +2901,7 @@ Over the phone line, we heard the kitchen chair scrape back sharply on Dad's lin
 
 #### Saturday, October 16, 2004, 6:45 PM – 8:01 PM — Under the Bay on Expressways Route 61, The Open-Radio 10-16 Hold, & Dad Waiting Under the Streetlight
 
-At six-forty-two, a high-backed CVTA Expressways coach—Route 61, Run 02—with *61 DOWNTOWN NORFOLK* lit up across its front sign backed into Bay Four, knelt at the curb, and locked both of our SwiftChairs into the two forward securement bays. Settling back into his driver's seat and closing the doors, the operator lifted his radio handset to report our boarding before pulling out of the transit center:
+At six-forty-two, a high-backed CVTA Expressways bus with *61 DOWNTOWN NORFOLK* lit up across its front sign pulled into Bay Four, knelt at the curb, and locked both of our SwiftChairs into the two forward securement bays after we swiped our thirty-day passes. Settling back into his driver's seat and closing the doors, the operator lifted his radio handset to report our boarding before pulling out of the transit center:
 
 "6102 to Dispatch."
 
@@ -2909,13 +2911,13 @@ At six-forty-two, a high-backed CVTA Expressways coach—Route 61, Run 02—with
 
 *"10-4."*
 
-At six-forty-five on the dot—the very last transit bus of the night crossing Hampton Roads—Leg Four pulled onto Interstate 64 East. Ten minutes later, as dusk deepened into purple night over the Chesapeake Bay, our tires hummed across the concrete trestle onto the North Island and plunged downward between the gleaming white ceramic wall tiles and bright fluorescent ceiling tubes of the Hampton Roads Bridge-Tunnel.
+At six-forty-five on the dot—the very last transit bus of the night crossing Hampton Roads—our fourth bus pulled onto Interstate 64 East. Ten minutes later, as dusk deepened into purple night over the Chesapeake Bay, our tires hummed across the concrete trestle onto the North Island and plunged downward between the gleaming white ceramic wall tiles and bright fluorescent ceiling tubes of the Hampton Roads Bridge-Tunnel.
 
 Holding Nate's hand tightly across the narrow center aisle while salt air and tunnel exhaust rushed past the sealed windows beneath sixty feet of open bay water, I felt my shoulders drop two full inches for the first time since July. Once that bus climbed up into the lights of Willoughby Spit on the Norfolk side, the entire harbor stood between us and Williamsburg.
 
 True to the printed timetable, Expressways Route 61 glided to the curb on Monticello Avenue in Downtown Norfolk at seven-twelve sharp—giving us an unhurried eight-minute buffer to roll down the ramp onto familiar Southside concrete and position our chairs at the outbound stop without needing anyone to hold a bus.
 
-At seven-eighteen, Leg Five—CVTA Route 20, Run 04, signed outbound for Glenrock Mall and Virginia Beach Boulevard—pulled to the curb. As the night-shift operator knelt the front ramp and crouched down to clip all eight floor straps onto my frame and Nate's, Nate looked up politely at him.
+At seven-eighteen, our fifth bus—an outbound CVTA Route 20 signed for Glenrock Mall and Virginia Beach Boulevard—pulled to the curb. After we rolled up the front ramp and swiped our thirty-day passes, Nate looked up politely at the night-shift operator while he crouched down to clip all eight floor straps onto my frame and Nate's.
 
 "Excuse me, sir—we're trying to make the seven-forty-five outbound Route 15 connection at Glenrock Mall heading south down Military Highway to Indian River Road," Nate told him earnestly.
 
@@ -2933,13 +2935,17 @@ Unlike our buffered transfers at Warwick and Denbigh, Newport News, and Monticel
 
 Even with steady Saturday evening traffic, both Nate and I knew the math in our heads: unstrapping two electric wheelchairs and deploying a ramp takes three extra minutes—just enough time on a zero-buffer pulse transfer for the seven-forty-five outbound Route 15 to release its brakes and pull out of Glenrock Mall right in front of us, stranding us in a dark mall lot for another hour.
 
-Right as our coach crossed the Broad Creek bridge approaching the mall ring road, our Route 20 operator reached down beside his farebox, unhooked the coiled black cord of his open-channel two-way analog radio, and called directly across the Southside frequency to the waiting Route 15 coach:
+As our bus approached the busy junction of US-58 and US-13 in Norfolk—slowing in the right-hand lane along Virginia Beach Boulevard right before making the right turn into Glenrock Mall—our Route 20 operator reached down beside his farebox, unhooked the coiled black cord of his open-channel two-way analog radio, and called directly across the Southside frequency to the waiting Route 15 bus:
 
 "Outbound 20 to the outbound 15 at Glenrock Mall, I have two 10-16s for you."
 
-For two heartbeats, quiet white static hissed from the small metal speaker mounted above the windshield before the Route 15 operator's voice crackled back—checking first to make sure we were boarding the right direction toward Chesapeake rather than the inbound Route 15 heading north toward Naval Base Norfolk:
+For two heartbeats, quiet white static hissed from the small metal speaker mounted above the windshield before the Route 15 operator's voice crackled back—checking first to make sure we were boarding the right direction rather than the inbound Route 15 heading north toward Naval Base Norfolk:
 
 *"10-4. Are they heading towards Emerald Creek Mall?"*
+
+Holding the coiled handset beside his shoulder, our Route 20 operator glanced up into his wide interior mirror toward our two wheelchair bays to confirm with us which way we were going. "Hey—that 15 operator wants to make sure you two are headed outbound toward Emerald Creek Mall and Chesapeake, not north toward the Naval Base. Which way are y'all going?"
+
+"Outbound toward Chesapeake, sir—we're both heading towards Indian River Road!" Nate answered clearly right away.
 
 "10-4, they say they are heading to Indian River Road," our Route 20 driver answered into the handset, confirming we were heading outbound toward Chesapeake.
 
@@ -2947,9 +2953,9 @@ For two heartbeats, quiet white static hissed from the small metal speaker mount
 
 Tears stung the backs of my eyes so suddenly that I had to blink twice as Nate squeezed my fingers across the aisle. Neither of those CVTA drivers knew who we were or what we had just fled up on the Peninsula; they were simply two night-shift bus operators double-checking our direction and holding a connection over an open radio so two wheelchair riders wouldn't get stranded in the dark.
 
-At seven-forty-six, our Route 20 swung into the orange sodium-lit bus loop at Glenrock Mall right behind the idling outbound Route 15, whose front doors were already propped open with its ramp resting on the concrete island. Unclipped in ninety seconds flat, Nate and I called out a heartfelt *"Thank you!"* to our Route 20 driver and rolled thirty feet across the concrete bay straight up the waiting ramp of Leg Six—CVTA Route 15, Run 02.
+At seven-forty-six, our Route 20 made the right turn off Virginia Beach Boulevard and swung into the orange sodium-lit bus loop at Glenrock Mall right behind the idling outbound Route 15, whose front doors were already propped open with its ramp resting on the concrete island. Unclipped in ninety seconds flat, Nate and I called out a heartfelt *"Thank you!"* to our Route 20 driver, rolled thirty feet across the concrete bay straight up the waiting ramp of our sixth and final bus—outbound CVTA Route 15—and swiped our thirty-day passes one last time for the night.
 
-Once the Route 15 operator hooked our eight tie-down straps tight, stowed his ramp, and pulled smoothly out toward eight-lane Military Highway at seven-forty-eight, he keyed his handset to log our final two wheelchair spaces of the night:
+Once the Route 15 operator hooked our eight tie-down straps tight, stowed his ramp, and pulled smoothly out onto eight-lane Military Highway at seven-forty-eight, he keyed his handset to log our final two wheelchair spaces of the night:
 
 "1502 to Dispatch."
 
@@ -2959,7 +2965,7 @@ Once the Route 15 operator hooked our eight tie-down straps tight, stowed his ra
 
 *"10-4."*
 
-Crossing the high bridge over the Eastern Branch of the Elizabeth River as the clock ticked to eight o'clock, I peered ahead through the dark right-hand window toward the bright intersection of Military Highway and Indian River Road.
+Rolling south across the low highway bridge over the Eastern Branch of the Elizabeth River from Norfolk into Virginia Beach as the clock ticked to eight o'clock, I peered ahead through the dark right-hand window toward the bright intersection of Military Highway and Indian River Road.
 
 There, standing right beneath the amber glow of the corner streetlight in his navy windbreaker—hands out of his pockets, watching the bus's headlights pull to the curb—stood our dad.
 
@@ -2967,7 +2973,7 @@ At eight-oh-one sharp, the Route 15 knelt at the Indian River Road stop and lowe
 
 "I've got you both," Dad whispered thickly, holding onto my shoulders and Nate's at eye level without pinning either of us down for a millisecond. "You're home, kids. Nobody is ever touching either of you again."
 
-Fifteen minutes later, rolling up our familiar aluminum front ramp into the quiet, warm brick ranch on Arvin Road, we saw what Dad had already done while waiting to walk up to the bus stop: inside my old bedroom, the wide closet doors stood open, vacuumed clean, with four fresh white pillows and clean cotton sheets already banked neatly along the carpet waiting for our shared sleeping bag. That Monday afternoon, after photographing the purple bruise on my left wrist for the Williamsburg police report, Dad went straight to the cellular store on Military Highway and bought Katie and me our very own matching silver flip phones on his family account—so that alongside the laminated calling cards behind our State IDs, neither of us would ever be out of reach of his voice again.
+Fifteen minutes later, rolling up our familiar aluminum front ramp into the quiet, warm brick ranch on Arvin Road, we saw what Dad had already done while waiting to walk up to the bus stop: inside my old bedroom, the wide closet doors stood open, vacuumed clean, with four fresh white pillows and clean cotton sheets already banked neatly along the carpet waiting for our shared sleeping bag.
 
 ### Part 3: The Goyeau Street Tunnel Bus, The Trashed Ticket on East Jefferson Avenue, & Protected Non-Traveling Complainant
 
@@ -2981,7 +2987,7 @@ Fifteen minutes later, rolling up our familiar aluminum front ramp into the quie
 
 ![Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk in October 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg)
 
-Four nights of uninterrupted sleep zipped inside our shared sleeping bag on the clean closet floor of our home on Arvin Road—plus real home-cooked meals at Dad's dining table—had finally stopped Katie's hands from shaking, though she still kept her right fingers laced tightly through mine across our wheelchair armrests while Dad stood right behind our shoulders. Spread across the oak conference table in front of Agent Morales lay the photographs of the dark thumbprint bruises on Katie's left wrist, the cassette tape from Dad's Arvin Road answering machine containing three furious messages Brandon had called in from a Washington train platform late Saturday night swearing American law would never touch him once he crossed into Canada, and the Williamsburg station printout the detective had subpoenaed Monday morning.
+Four nights of uninterrupted sleep zipped inside our shared sleeping bag on the clean closet floor of our home on Arvin Road—plus real home-cooked meals at Dad's dining table and the matching silver flip phones Dad had bought for Katie and me at the Military Highway cellular store on Monday afternoon right after the Williamsburg police photographed her bruised wrist—had finally stopped Katie's hands from shaking, though she still kept her right fingers laced tightly through mine across our wheelchair armrests while Dad stood right behind our shoulders. Spread across the oak conference table in front of Agent Morales lay the photographs of the dark thumbprint bruises on Katie's left wrist, the cassette tape from Dad's Arvin Road answering machine containing three furious messages Brandon had called in from a Washington train platform late Saturday night swearing American law would never touch him once he crossed into Canada, and the Williamsburg station printout the detective had subpoenaed Monday morning.
 
 "What blew his cover before he even left Virginia," the Williamsburg detective said, sliding the printed ARTS terminal ledger across the oak blotter, "was what the indoor ticket clerk at 468 North Boundary Street entered at three-fifty-nine on Saturday afternoon while the two of you were boarding the Colonial Triangle Grey Line bus outside. Look at the passenger count and fare code."
 
@@ -3093,7 +3099,7 @@ Katie and I glanced at each other across our armrests immediately, remembering t
 
 Sitting around the dining table with Dad that evening, the safety math looked totally different from Williamsburg. West Ocean View wasn't forty-five miles across the harbor on unfamiliar Peninsula routes; it sat right inside Norfolk on CVTA Route 1, twenty-two minutes up Interstate 64 from Dad's driveway on Arvin Road. Our bedrooms, our main furniture, and our legal address stayed anchored right at Dad's house; both Katie and I now carried matching silver flip phones clipped inside our lap bags right alongside the laminated calling cards tucked behind our State IDs; and above all, Katie and I would be right beside each other twenty-four hours a day.
 
-Because I hadn't had a girlfriend look at me with stars in her eyes since Heather Collins dumped me in high school—and because Katie didn't want her own awful experience with Brandon to stop me from having a chance to be happy as long as the two of us stayed together—we loaded my Quantum OS XN Pro desktop tower, our two CCHR laptops, two suitcases of clothes, our battery chargers, and our shared navy-blue closet sleeping bag and pillows into Dad's pickup truck that Sunday afternoon, rolling side by side across the threshold of Tiffany's ground-floor apartment at Sea Breeze West without suspecting what hid underneath her smile.
+Because I hadn't had a girlfriend look at me with stars in her eyes since Heather Collins dumped me in high school—and because Katie didn't want her own awful experience with Brandon to stop me from having a chance to be happy as long as the two of us stayed together—we loaded my Quantum OS XN Pro desktop tower, our two CCHR laptops, two suitcases of clothes, our battery chargers, and our shared navy-blue closet sleeping bag and pillows into Dad's pickup truck that Sunday afternoon, rolling side by side across the step-free threshold of Tiffany's ground-floor apartment at Sea Breeze West with our thirty-day CVTA bus passes tucked right inside our wallets.
 
 ### Part 2: The Worst Christmas Ever: Eighteen Stops to Dirty Old Tonomy Hill, Four Days with Cousin Chelsea, & The West Main Road Shortcut Home
 
@@ -3379,19 +3385,17 @@ Katie leaned over my armrest so our shoulders pressed warmly together as we read
 
 #### Friday, February 23, 2007, 6:30 PM — The Glossy Barton Hall Brochure & Our Unbroken Twenty-One-Year Streak
 
-Eight evenings later, spread open across our clean dining-room table on Arvin Road while Dad stood beside our wheelchairs with a steaming mug of coffee, lay the glossy, full-color tri-fold brochure and welcome packet that the regional DARS counselor on Newtown Road had handed us that afternoon—and if you went by the brochure and the counselor's pitch, Roosevelt Rehabilitation Center in Fishersville looked like a hidden mountain paradise for two twenty-one-year-old computer geeks.
+Eight evenings later, spread open across our clean dining-room table on Arvin Road while Dad stood beside our wheelchairs with a steaming mug of coffee, lay the glossy, full-color tri-fold campus brochure and welcome packet that the regional DARS counselor on Newtown Road had handed us that afternoon.
 
-Inside the Newtown Road office, everything had been pitched as a seamless, adult college campus. Nobody had breathed a single word about a mandatory two-week Vocational Evaluation, or touring auto-body and woodworking shops, or a Level 1 through Level 4 behavioral privilege chart, or needing signed yellow paper Hall Passes just to roll off campus, or staff talking down to grown college graduates like kindergartners. Instead, the counselor had beamed at our CCHR degrees, promised us we would simply roll to our PHP and SQL computer lab by day and relax in the dormitory at night, and opened the glossy tri-fold to sunny photographs of red-brick buildings framed by the Blue Ridge foothills, a heated indoor pool, a student Recreation Hall, a dining commons, and a bright two-bed dormitory room in Barton Hall.
+Inside the Newtown Road office, our intake appointment had gone as smoothly as two twenty-one-year-old programmers could have hoped. The counselor had admired our freshly earned CCHR associate transcripts, signed our full state sponsorship authorizations for the Web Applications Developer track, explained that we would take our self-paced PHP and SQL modules in the campus computer laboratory by day while living in the student dormitory at night, and opened the glossy tri-fold to sunny photographs of red-brick buildings framed by the Blue Ridge foothills, a heated indoor pool, a student Recreation Hall, a dining commons, and a bright two-bed dormitory room in Barton Hall.
 
-"Look at the photo of the Barton Hall room right here in the center panel, Dad," Katie said, tapping the glossy photograph showing two standard college Twin XL beds along opposite walls, two study desks, and wide sliding closet doors in the corner. "Dr. Carter's seating clinic already fitted those two collapsible manual cross-brace frames with right-armrest joystick drives for us this morning, so whenever you visit from Alexandria in a regular car, you just unclip the battery boxes and fold our frames into the trunk."
+"Look at the photo of the Barton Hall room right here in the center panel, Dad," Katie said, tapping the glossy photograph showing two standard college Twin XL beds along opposite walls, two study desks, and wide sliding closet doors in the corner. "Dr. Carter's seating clinic already tuned up our two backup collapsible manual cross-brace frames and clipped fresh battery packs onto the right-armrest joystick drives for us this morning, so instead of hauling our heavy SwiftChairs up to the mountains, you can just unclip the battery boxes whenever you visit from Alexandria in a regular car and fold our frames into the trunk."
 
 "And the counselor confirmed tuition, lab books, dorm housing, and three meals a day in the cafeteria are one hundred percent covered," Dad nodded through his glasses, resting a warm hand on Katie's shoulder and mine before stepping into the kitchen to rinse his coffee mug. "I'll load your collapsible joystick chairs and suitcases into the truck next Sunday morning, March fourth, get you settled into Barton Hall that afternoon, and head right up Interstate 81 and Interstate 66 to Sunset Drive in Alexandria before work Monday morning."
 
 Once Dad stepped into the kitchen, Katie and I turned our SwiftChairs toward each other beside the dining table and studied the glossy photograph of the two-bed Barton Hall dorm room more closely.
 
-Nowhere in a single column of that tri-fold brochure did it say one word about men and women being locked into opposite residential wings, or about a rule forbidding opposite-gender room visits.
-
-"Okay, let's think the housing setup through logically," I said quietly, reaching across our armrests to hold Katie's hand. "Dorm beds at every college are Twin XL, so even if we pushed one against the wall, a single mattress is way too narrow for the two of us."
+"Okay, let's think our room setup through logically," I said quietly, reaching across our armrests to hold Katie's hand. "Dorm beds at every college are Twin XL, so even if we pushed one against the wall, a single mattress is way too narrow for the two of us."
 
 "And we already know why regular colleges normally separate guys and girls in dorm rooms," Katie replied with complete, matter-of-fact autistic logic. "Colleges don't want boyfriends and girlfriends moving into a dorm room together in September and then having some loud, messy breakup in November where somebody gets thrown out in the hallway—like Tiffany did to us."
 
@@ -3467,7 +3471,7 @@ Katie clicked her joystick controller off, slammed both manual wheel-locks forwa
 
 "Watch your hands around my sister's wheelchair!" I shot right back, guiding my own chair flush alongside Katie's so nobody could step between us.
 
-Linda held up a hand between the counter and the doorway, frowning sharply at the two of us. "Katie, Nathaniel, I'm going to let that slide with a verbal warning since you two just walked through the door five minutes ago and I know check-in day is stressful, but aggressive outbursts toward staff are a write-up offense here at Roosevelt."
+Linda held up a hand between the counter and the doorway, frowning sharply at the two of us. "Katie, Nathaniel, I'm going to let that slide with a verbal warning since you two just came through the door five minutes ago and I know check-in day is stressful, but aggressive outbursts toward staff are a write-up offense here at Roosevelt."
 
 Neither Katie nor I apologized. Instead, both of us fixed the staffer by the doorway with identical, disgusted looks—staring him straight in the eye with an unblinking glare that amounted to a flat-out dare: *go ahead and write us up right now if you want to.*
 
@@ -5301,7 +5305,7 @@ Halfway down the Boulevard past Little Neck and Newtown Road, an older Hispanic 
 
 When Route 20 dropped us off at the Glenrock Mall transit hub in Norfolk, we waited another twenty-eight minutes for our third bus—a southbound Route 15 heading down Military Highway toward Virginia Beach.
 
-By the time the Route 15 bus rolled south along Military Highway and climbed the bridge over the Eastern Branch of the Elizabeth River to cross from Norfolk back into Virginia Beach, it was four-fifteen in the afternoon. Holding my camcorder steady on my lap tray with the river glinting through the bus window behind Katie and Scott, I recorded the conversation that became the centerpiece of our video.
+By the time the Route 15 bus rolled south along Military Highway and crossed the low bridge over the Eastern Branch of the Elizabeth River from Norfolk back into Virginia Beach, it was four-fifteen in the afternoon. Holding my camcorder steady on my lap tray with the river glinting through the bus window behind Katie and Scott, I recorded the conversation that became the centerpiece of our video.
 
 "We're crossing back into Virginia Beach right now, Scott," Katie said on camera, holding up the official printed CVTA timetables for Route 33 and Route 12. "Let's talk about what happens if a taxpaying citizen of Virginia Beach who relies on the bus—like Nate and me, or a working parent, or a senior citizen—wants to attend a formal evening meeting of the Virginia Beach City Council down at the Municipal Center in Courthouse."
 
@@ -6840,7 +6844,7 @@ Katie and I stared at her in stunned silence.
 
 Katie didn't hesitate for a tenth of a second. Flipping up her inner armrest, my twin sister leaned across and wrapped both arms tightly around Brittany's shoulders while I leaned in from Brittany's other side and hugged both of them at once.
 
-"Write down the church address and the cross street right here," I told Brittany firmly, sliding Katie's yellow notepad and pen onto her lap. "Katie and I will be inside those sanctuary doors before quarter to two tomorrow—and once we walk out that back ramp with you, we are taking you home with us, and we aren't letting Tyler near you ever again."
+"Write down the church address and the cross street right here," I told Brittany firmly, sliding Katie's yellow notepad and pen onto her lap. "Katie and I will be inside those sanctuary doors before quarter to two tomorrow—and once we roll down that back ramp with you, we are taking you home with us, and we aren't letting Tyler near you ever again."
 
 ***
 
