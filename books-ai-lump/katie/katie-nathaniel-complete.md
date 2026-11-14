@@ -2589,1737 +2589,765 @@ Whenever we headed out our door and down Dave's nonslip aluminum ramp through th
 
 In the evenings, while the radiators and the through-wall fan kept our rectangular studio cozy and warm, Katie and I parked our SwiftChairs side by side at our long workstation desk in front of our shared desktop computer. Taking turns at the keyboard while the other sister or brother read aloud from our textbooks or debugged lines of HTML and Quantum Basic code on the seventeen-inch CRT monitor, we had everything we needed under one roof: four locked walls, a full kitchen cart, our own bus passes, and each other.
 
-## The Admiral Center Bookstore & Meeting Tiffany
+## The Admiral Center Patio & Moving Together to Williamsburg
 
-### Part 1: Death by Cascading Style Sheets & Iced Cocoa at Chapters & Co.
+### Part 1: Spilled Hot Chocolate on The Admiral Center Patio & Brandon Mercer Presents Himself as a Gentleman
 
-**Date:** 2004-05-14 at 15:15 America/New_York
+**Date:** 2004-05-14 at 14:45 America/New_York
 
-![Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs holding cups of iced cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg)
+![On the brick outdoor café patio of The Admiral Center in Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs as twenty-two-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg)
 
-#### Friday, May 14, 2004, 3:15 PM — The Computer Books Aisle at Chapters & Co.
+#### Friday, May 14, 2004, 2:45 PM — Spilled Hot Chocolate Under the Green Umbrellas & A Polite Visitor from Williamsburg
 
-"Two tall iced cocoas with extra whipped cream, coming right up—go pick out the web-design book you want for the summer, Nate, and I'll meet you in the computer aisle!" Katie called out cheerfully over her shoulder, steering her compact SwiftChair power wheelchair up to the lowered marble counter of the café inside Chapters & Co. on the ground floor of The Admiral Center.
+"Watch out—!" Katie gasped as a man in a pinstriped suit carrying three bulging department-store shopping bags cut straight across the brick pedestrian promenade of The Admiral Center without looking down, clipped the edge of our round wrought-iron patio table with his hip, and sent Katie's steaming paper cup of hot chocolate tumbling sideways across the tabletop.
 
-"Deal!" I grinned, turning my matching power wheelchair down the wide carpeted bookstore corridor toward the Computer & Internet shelves.
+I yanked my left hand back off my armrest just in time to keep the hot brown wave from splashing onto my jeans while Katie hit her reverse joystick half an inch to save her royal-blue V-neck sweater. The man in the suit didn't even break stride, muttering into the cell phone pressed against his ear as he vanished around the corner toward Monticello Avenue and left dark puddles of hot chocolate dripping through the black mesh tabletop onto the red bricks beside our front caster wheels.
 
-Katie and I had just turned nineteen a month earlier on April eighth, and twenty minutes ago we had walked—or rather, rolled—out of our final spring-semester exam across the street at the Downtown Norfolk campus of the Community College of Hampton Roads. Nearly a full year had passed since Dad had rented Apartment A6 on Greenway Court for the two of us, and life in our West Ghent studio had settled into the happiest, most comfortable rhythm we had ever known. Every weekday morning, Katie and I rode the Coastal Virginia Transit Authority Route 2 bus down Hampton Boulevard to our college classes; every afternoon, we rolled home to our locked red-brick building, waved to Michael in Apartment A5 across the hall whenever we crossed paths by the lobby mailboxes, made honey-ham sandwiches beside Dad's rolling microwave cart, and spent our evenings side by side at our shared desktop computer writing HTML websites.
+"Unbelievable," I muttered, reaching toward the side pocket of my backpack for a tissue. "He didn't even look back."
 
-Braking my wheelchair between the towering oak bookshelves of the programming section, I scanned the rows of thick technical manuals until my eyes landed on a fat, eight-hundred-page paperback near the upper-middle shelf titled *Cascading Style Sheets & Dynamic Web Design*.
+"Hold still a second so it doesn't drip onto your footrests," a calm, pleasant voice said right beside us.
 
-It sat just an inch higher than my normal seated reach. Checking to make sure my wheels were locked, I braced my left hand on my armrest pad and stretched my right arm up from my seat cushion, hooking my index finger over the top edge of the spine to slide the heavy book out.
+Before I could even unzip my bag, a clean-cut young man who looked to be about twenty-two years old stepped over from the next patio table carrying a thick stack of brown paper café napkins. Wearing a neatly pressed light-blue button-down shirt with the sleeves rolled to his forearms, khaki trousers, and a dark leather wristwatch under short sandy-brown hair, he laid a ring of dry napkins around the puddle before a single drop could reach Katie's shoes or the electronic joystick housing on her right armrest.
 
-As I tilted the paperback forward, a second copy that had been wedged crookedly beside it slipped loose from the shelf and tipped straight toward my lap.
+"Are you two okay? None of that got on you or your controls, did it?" he asked, looking straight at Katie's face and mine rather than staring down at our matching black SwiftChair power wheelchairs.
 
-Before I could pull my hand back to catch both volumes at once, someone stepped smoothly into the aisle beside my right wheel and caught the falling book cleanly in midair with both hands.
+"Not a drop, thank you," Katie said, her surprised frown softening right away at how quickly and matter-of-factly he had helped. "You saved my shoes."
 
-"Whoa—careful! Death by cascading style sheets is a terrible way to start the weekend," a warm, playful voice laughed right beside me.
+"Let me grab a wet cloth from the counter and replace that hot chocolate for you," he said with an easy, unhurried smile, scooping the soaked napkins into the patio trash receptacle. "No extra coffee syrup, right? I heard you order it inside behind me."
 
-I blinked and looked up. Standing next to my wheelchair was a girl who looked to be about twenty, with a heavier build, shoulder-length dark reddish-brown hair cut with neat bangs across her forehead, and black-rimmed rectangular glasses framing a bright, friendly smile. Tucking the rescued copy back onto the shelf with one hand, she held out the copy I had been reaching for with the other.
+"Just plain hot chocolate," Katie smiled, blinking in pleasant surprise that a complete stranger had noticed.
 
-"Here you go," she said warmly, handing the heavy paperback right into my hands at chest height without a trace of awkwardness. "I saw that second one teetering on the edge from the end of the aisle."
+Katie and I exchanged one of our quiet, wordless twin looks across our armrests while he stepped back inside the corner bakery café. We had turned nineteen five weeks earlier on April eighth, and forty minutes ago we had rolled side by side out of our final freshman spring-semester exam across the street at the Downtown Norfolk campus of the Community College of Hampton Roads. Nearly a full year in Apartment A6 over on Greenway Court had taught both of us how ninety percent of the neurotypical public acted around two nineteen-year-olds in identical compact powerchairs: people either stepped wide around us on the sidewalk like our tires were contagious, patted our shoulders like we were ten years old, or spoke only to whichever clerk or able-bodied adult happened to be standing nearby.
 
-"Thank you," I said, feeling my ears warm slightly as my social scripts scrambled to catch up. Since Heather Collins had dumped me in the hallway of Northwood High School back in January of our senior year over my cousin Brittany's New Year's Eve party rumor, I hadn't spoken to a girl my age outside of college group projects. "I didn't realize the two copies were stuck together."
+Two minutes later, the young man walked back out onto the shaded brick patio carrying a damp bar towel in one hand and a cardboard tray holding a fresh steaming cup of hot chocolate, a chilled bottle of strawberry-kiwi flavored water, and a tall plastic cup of apple juice in the other. After wiping the wrought-iron tabletop completely clean and dry, he set the hot chocolate and the unopened flavored water in front of Katie and paused respectfully beside the empty patio chair across from us.
 
-"Those thick computer books are practically bricks," an older woman with a kind, maternal smile agreed as she stepped up behind the girl, carrying a bookstore shopping bag over her forearm.
+"I'm Brandon, by the way—Brandon Mercer," he said, leaning forward just enough to be comfortably at our seated eye level as he extended his right hand across the table to me and then to Katie. "Do you two mind if I sit for a minute before I head back across the bridge-tunnel?"
 
-"Oh, I'm Tiffany, by the way—Tiffany Sloan," the girl said, adjusting her black-rimmed glasses with a small, endearing laugh before extending her hand to shake mine. "And this is my mom, Sandra."
+![On the brick outdoor café patio of The Admiral Center in Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs as twenty-two-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg)
 
-"I'm Nathaniel—Nate Prairie," I said, shaking Tiffany's hand and nodding politely to her mother.
+"Please do," Katie said warmly, shaking his hand while a faint touch of pink colored her cheeks. "I'm Katie Prairie, and this is my twin brother, Nathaniel—everybody calls him Nate."
 
-Instead of turning away the way most strangers did after a polite aisle interaction, Tiffany glanced down at the cover of *Cascading Style Sheets & Dynamic Web Design* resting across my lap, and her eyes lit up behind her glasses.
+"Good to meet you both, Nate, Katie," Brandon said, pulling the wrought-iron chair closer and taking a sip of his apple juice. "Are you two celebrating the end of finals over at CCHR?"
 
-"Wait—do you actually know how to build websites?" Tiffany asked, sounding genuinely impressed. "Like, writing the real code from scratch?"
+"Just turned in our last programming exam," I said, immediately relaxing at how naturally he kept both of us in the conversation instead of talking past me to Katie or past Katie to me. "We've been taking all our freshman classes together downtown and riding the Route 2 bus over from our apartment in West Ghent."
 
-Speaking about HTML and CSS was the one topic on earth that bypassed every ounce of my shyness.
+"Wait—you two share an apartment and take all your college classes together?" Brandon asked, his expression lighting up with warm admiration. "Honestly, that's awesome. Most siblings our age barely call each other once a month once they finish high school. Seeing a brother and sister actually have each other's backs every day tells you everything about what kind of people they are."
 
-"Yeah, my twin sister and I have been hand-coding HTML since we were in seventh grade at Morrison Middle School," I said, my posture brightening immediately. "We've been using HTML tables for page layouts, and we're switching everything over to CSS positioning this summer now that spring finals at CCHR are done."
-
-"No way!" Tiffany beamed. "I've been trying to put together a simple little webpage on my computer at home for weeks, and every time I try to line up a picture next to a paragraph, the whole page jumps to the bottom of the screen! I came over to this aisle looking for a beginner book, and half of them look like they're written in ancient Greek."
-
-"That's usually just an unclosed table cell tag or an image alignment attribute," I explained eagerly, opening the paperback on my lap to a diagram of floating div containers. "Once you see how container boxes work, it's super logical."
-
-At that exact moment, the quiet hum of electric wheelchair motors rounded the corner of the bookshelf, and Katie rolled into the aisle balancing a cardboard four-cup carrier on her lap with two tall plastic cups of iced cocoa topped with swirled domes of whipped cream.
-
-"Got our celebratory cocoas, Nate—zero coffee, extra chocolate drizzle!" Katie announced happily before spotting Tiffany and Sandra standing beside my chair. "Oh! Hi!"
-
-Out of pure lifelong habit, I braced myself for the micro-expression we saw from ninety percent of the public whenever they realized there were two of us in identical compact power wheelchairs.
-
-Tiffany didn't blink, stare, or take a step back. Instead, her face broke into an even wider, delighted smile.
-
-"Katie, this is Tiffany Sloan and her mom, Sandra," I introduced them proudly. "Tiffany just saved me from getting clobbered by a falling eight-hundred-page CSS manual. Tiffany, Sandra—this is my twin sister, Katie."
-
-"Hi, Katie! It is so nice to meet you!" Tiffany said, shaking Katie's free hand with warm enthusiasm. "Nate was literally just telling me that the two of you have been coding websites together since seventh grade and just finished your freshman finals at CCHR!"
-
-"Last exam turned in twenty minutes ago," Katie grinned, immediately warming to Tiffany's friendly, unhurried energy. "And knowing my brother, he was already explaining unclosed HTML tags before he even said hello."
-
-Tiffany laughed out loud, looking between the two of us with genuine admiration. "Are you kidding? I think it's amazing! Wait—do you two take all your classes together too?"
-
-"Every single one," Katie said proudly, glancing over at me. "And we share a studio apartment over in West Ghent on Greenway Court."
-
-"Are you serious?! That is so cool!" Tiffany said, placing a hand over her heart. "My younger brother and I are super close too. Honestly, I always say family comes first, no matter what. When a brother and sister look out for each other the way you two do, that shows what kind of heart a person has. If a guy isn't close with his sister, that's a giant red flag in my book!"
-
-Beside me, I saw Katie's shoulders relax completely, a bright, unmistakable smile of approval lighting up her blue eyes. To both of us, hearing someone say out loud that a close brother-and-sister bond was something wonderful—rather than something strange—felt like passing the most important test in the world.
-
-![Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs holding cups of iced cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg)
+Across the narrow gap between our wheelchairs, Katie reached her left hand over to brush my knuckles—our subtle, lifelong signal whenever someone passed the unspoken test that mattered more to us than anything else in the world.
 
 ***
 
-#### Friday, May 14, 2004, 3:35 PM — Café Chairs, A Sudden May Cloudburst, & The Umbrella over Our Joysticks
+#### Friday, May 14, 2004, 3:25 PM — Apple Juice, Peninsula Geography, & Exchanging Numbers Before Route 2
 
-"Well, if you two aren't in a rush to catch your bus right this second, why don't we sit down in the café for a few minutes while you drink your iced cocoas?" Sandra suggested warmly, gesturing toward the open tables near the front windows of Chapters & Co. "Tiffany and I were just about to grab a lemonade."
+For the next forty-five minutes under the dark-green canvas patio umbrellas, talking with Brandon felt effortless. When I pulled a cold can of ginger ale out of my backpack to go with Katie's hot chocolate, Brandon mentioned casually that he didn't touch alcohol or coffee himself and stuck to apple juice, sports drinks, or hot chocolate—making Katie and me trade an instant, delighted twin grin, since alcohol had been a hard line for both of us ever since surviving our mother Brenda on Delaney Street.
 
-"We'd love that," Katie said at once, looking at me for confirmation.
+He told us he was twenty-two, worked full-time in hospitality bookkeeping up in Williamsburg while taking evening business classes, and rented a quiet single-story house just north of the College of Charles and Anne within easy walking distance of the brick Williamsburg Transportation Center on North Boundary Street. When Katie asked what the buses were like up there compared to CVTA down here in Norfolk and Virginia Beach, Brandon didn't roll his eyes the way car drivers usually did whenever we brought up transit routes; instead, he described the white-and-colonial-blue Colonial Triangle Transit Authority buses pulling right into the brick station bays thirty feet from the train depot doors.
 
-"Definitely," I nodded.
+At four-ten, Brandon glanced down at his leather wristwatch and stood up with a reluctant smile.
 
-We rolled back out of the computer aisle to the checkout counter so I could pay for the CSS paperback, and then headed over to a round four-top table in the bookstore café. Before Katie or I even had to ask, Tiffany stepped ahead of our wheelchairs, lifted two of the heavy wooden café chairs away from the table, and tucked them neatly against the wall so Katie and I could roll right up to the table edge side by side with plenty of elbow room.
+"I promised my boss I'd have the Friday afternoon ledgers locked in the safe before five-thirty, so I'd better beat the Hampton Roads Bridge-Tunnel backup," Brandon said, pulling a small notepad and a black pen from his shirt pocket. He wrote his name and telephone number neatly across the top sheet, tore it off, and handed it directly to Katie while glancing warmly toward me as well. "Katie, meeting you and Nate today made my whole week. If neither of you minds me driving down I-64 next Saturday afternoon, I'd really love to take both of you to lunch right here in Ghent—completely at your pace."
 
-Katie caught my eye across our armrests and gave me a subtle, approving nod. Almost nobody thought to clear two chairs from a restaurant table without making a big show out of it.
+Katie looked down at the slip of paper in her fingers, then looked over at me across our armrests with bright, hopeful blue eyes. Since seventh grade at Morrison Middle School, when a boy had cruelly dumped Katie the moment he realized she wasn't interested in ditching me at lunch, my sister hadn't trusted a single guy enough to consider going on a date.
 
-For the next forty minutes, while Tiffany and her mother sipped iced lemonades and Katie and I drank our iced cocoas, the conversation flowed without a single awkward pause. Tiffany asked Katie what her favorite classes at CCHR had been, laughed at our story about how our dad had assembled a rolling microwave-and-toaster cart in our Greenway Court kitchenette because our studio only had an under-the-counter dorm fridge, and listened with rapt attention as Katie and I took turns explaining how we formatted our shared computer desktop.
+"What do you think, Nate?" Katie asked quietly, asking me right out in the open in front of him without a shred of hesitation.
 
-When I glanced at my watch at four-fifteen, I saw that the afternoon sky outside The Admiral Center's glass rotunda had turned the dark slate-gray of a sudden May coastal thunderstorm.
+I watched Brandon's face closely to see if having a nineteen-year-old girl check with her twin brother first annoyed him even a fraction of an inch.
 
-"We should probably head up to Monticello and Charlotte so we catch the four-thirty Route 2 bus back to West Ghent before the sky opens up," Katie said, tucking her empty cocoa cup into the trash bin beside the café exit.
+Brandon didn't flinch or smirk. He simply stood patiently by the wrought-iron chair with his hands relaxed at his sides, smiling warmly at both of us.
 
-"Which way is your stop?" Tiffany asked as the four of us headed out through the mall's sliding glass doors onto the downtown sidewalk.
+"I think lunch in Ghent next Saturday sounds great," I told her honestly, squeezing Katie's hand back.
 
-"Just one block north up Monticello Avenue," I said.
+"Then we'd really like that, Brandon," Katie beamed, tucking the folded slip carefully into the zippered pouch of her wallet behind her Virginia State ID card. "Drive safe through the tunnel."
 
-Right as our front caster wheels cleared the mall awning, the first fat drops of warm May rain began pattering against the concrete. We couldn't load our heavy motorized SwiftChairs into a standard family minivan without a hydraulic lift, which meant the Route 2 bus was our only way home—and the one part of a power wheelchair that hated getting rained on was the electronic joystick controller mounted on the right armrest.
+As we unlocked our joystick brakes five minutes later and rolled side by side up Monticello Avenue toward Charlotte Street to catch the four-thirty Route 2 bus home to Greenway Court, Katie kept her hand laced tightly through mine the entire block—both of us convinced we had just met the politest, most understanding young man in Virginia.
 
-"Oh, don't let the rain get on your controls!" Sandra said immediately, popping open a wide, oversized navy-blue golf umbrella from her tote bag while Tiffany pulled a second compact umbrella out of her purse.
+### Part 2: A Non-Negotiable Package Deal, Dad's Calling Cards, & Moving Together to Williamsburg
 
-Without hesitation, Tiffany stepped right alongside my right armrest and angled her open umbrella directly over my head and my right-hand joystick controller, while Sandra walked beside Katie's wheelchair holding the big golf umbrella over Katie's head and joystick.
+**Date:** 2004-06-19 at 13:30 America/New_York
 
-Walking shoulder-to-wheel with us down the block to the covered glass bus shelter at Monticello and Charlotte, Tiffany kept her umbrella steady over my armrest until both of our wheelchairs were safely parked underneath the dry acrylic roof of the transit shelter.
+![Inside Apartment A6 at Greenway Court in Norfolk in June 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg)
 
-"Thank you so much, both of you," Katie said warmly, wiping a single raindrop off her sleeve. "Most people just sprint for their car when it starts raining."
+#### Saturday, June 19, 2004, 1:30 PM — Labeling the Cables & The Non-Negotiable Package Deal
 
-"What are friends for?" Tiffany smiled, shaking out her umbrella and tucking a lock of dark reddish-brown hair behind her ear as she looked down at me through her black-rimmed glasses. Reaching into her purse, she pulled out a ballpoint pen and a cardstock bookmark from Chapters & Co., scribbled her name and phone number across the back in neat handwriting, and handed it to me.
+"Look how neatly Brandon labeled every single monitor and speaker cable with masking tape before coiling them into the carton, Nate," Katie said happily inside Apartment A6, easing her compact SwiftChair back six inches from our workstation desk so our forty-six-year-old dad could lift our seventeen-inch CRT monitor into its padded cardboard box.
 
-"Here's my number, Nate," Tiffany said softly, her cheeks turning a pretty pink. "If you and Katie aren't busy tomorrow afternoon, maybe my mom could drop me off over at your building in West Ghent? I could bring over a big cheese pizza from Gianni's for the three of us, and you two could show me how to fix my webpage!"
+Standing beside the desk in a rolled-sleeve plaid flannel shirt with a tape dispenser in his hand, Dad glanced over his glasses toward the window, where twenty-two-year-old Brandon Mercer was carefully wrapping Katie's glass blue-butterfly paperweight in bubble wrap before setting it into the top of a book box.
 
-My heart did a sudden, weightless flip in my chest as I looked from the bookmark in my hand to Katie.
+"You've got a methodical streak, Brandon," Dad said approvingly, pulling a strip of clear packing tape tightly across the monitor carton. "Most guys your age toss all the power cords into a grocery sack and spend half a Saturday figuring out what plugs into what."
 
-"Saturday pizza and HTML debugging sounds awesome to us," Katie beamed, answering for both of us without missing a beat. "Just call Nate's cell when you pull into the Greenway Court lot tomorrow so we can come down to the lobby and unlock the front door for you."
+"My dad always told me that if you take your time and keep everything organized up front, nothing gets damaged on the road, Mr. Prairie," Brandon replied with that calm, respectful smile he had worn every single weekend since mid-May.
 
-Down the block, the amber destination sign of our CVTA Route 2 bus rounded the corner onto Monticello Avenue, its air brakes hissing as it pulled flush to the curb and kneeled.
+![Inside Apartment A6 at Greenway Court in Norfolk in June 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg)
 
-"There's our bus," I said, slipping Tiffany's bookmark carefully into my shirt pocket right over my heart before pulling out my flip phone so we could trade numbers.
+Sitting in my SwiftChair beside Katie with my fingers laced warmly through hers across our inner armrests, I felt the last trace of moving-day nervousness settle inside my chest.
 
-As the bus driver deployed the front hydraulic wheelchair ramp onto the sidewalk and Katie rolled aboard first to turn into the rear securement bay, Tiffany leaned down beside my wheelchair. Wrapping both arms around my shoulders, she pulled me into a warm, remarkably firm hug—pressing her cheek against mine with a steady, comforting weight that made my whole chest glow.
+For five straight weeks after meeting us on the brick patio of The Admiral Center, Brandon had driven down Interstate 64 from Williamsburg every Saturday and Sunday without missing once. He had never rushed Katie, never complained that the three of us went everywhere together, and never acted awkward when Katie and I finished each other's sentences or needed quiet breaks away from noisy restaurant dining rooms. Two weeks earlier, right as Dave and Deb sent out the annual July lease-renewal notice for our single-room studio here on Greenway Court—and with our summer and fall general-education classes at CCHR available online and at the Peninsula satellite classrooms—Brandon had invited Katie to move up to Williamsburg with him.
 
-"I'm really glad that book almost fell on you today, Nate," Tiffany whispered against my ear before straightening up and waving to Katie through the open bus doors. "It was so great meeting both of you! I'll call you tomorrow morning!"
+Katie hadn't even needed to look at me before giving him our lifelong rule in one clear sentence: *Nate and I don't separate. Wherever I live, my brother lives too—we're a package deal.*
 
-"See you tomorrow, Tiffany! Bye, Sandra!" Katie called out from the wheelchair bay with a huge wave as I rolled up the hydraulic ramp right behind my twin sister.
-
-As the Route 2 bus pulled away from the curb and headed toward West Ghent through the May sun-shower, Katie reached across the aisle between our two secured wheelchairs, squeezed my hand, and grinned from ear to ear.
-
-"Did you see how she cleared those café chairs and held her umbrella right over your joystick, Nate?" Katie said, her eyes shining with genuine happiness for me. "And she wants to bring pizza over for the three of us tomorrow! I think she really, really likes you."
-
-### Part 2: Saturday Pizza in Apartment A6 & Katie's Wholehearted Blessing
-
-**Date:** 2004-05-15 at 13:00 America/New_York
-
-![Inside Apartment A6 on Greenway Court in May 2004, nineteen-year-old twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs beside their workstation desk with an open pizza box and cans of ginger ale on the rolling cart while Tiffany Sloan kneels warmly on the carpet between their wheelchairs holding a floppy disk]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_greenway_court_apt_a6_saturday_pizza_tiffany_blessing.jpg)
-
-#### Saturday, May 15, 2004, 1:00 PM — Pizza, Floppy Disks, & HTML in Apartment A6
-
-"She's pulling into the parking lot right now!" I said at one o'clock on Saturday afternoon, peeking through the white mini-blinds after my flip phone rang with a single bar of signal by our window.
-
-"Come on—let's roll out to the front lobby together to let her in," Katie smiled, smoothing down the hem of her royal-blue sweater as she checked our studio one last time.
-
-We had spent the morning tidying every corner of Apartment A6 until our rectangular studio gleamed. Our full-sized bed was neatly made against the side wall, the speckled laminate counter above our under-the-counter dorm fridge was wiped spotless beside Dad's rolling microwave-and-toaster cart, and our shared desktop computer was booted up at our long workstation desk.
-
-Rolling down the first-floor hallway and down Dave's nonslip aluminum ramp over the three rubber-treaded lobby steps, I unlocked the building's 24/7 keyed glass-and-aluminum front door right as Tiffany stepped up the front walkway past the circular brick lamppost planter, carrying a steaming cardboard pizza box in both hands while her mother Sandra waved warmly to us from the driver's window of their minivan in the parking lot.
-
-"Hey, you two!" Tiffany beamed, stepping into the cool lobby as Sandra pulled out of the lot to run afternoon errands. "One large extra-cheese pizza and a two-liter bottle of ginger ale—Nate told me yesterday at the bookstore that the two of you don't drink alcohol or like the taste of coffee, and that ginger ale is one of your favorite sodas with pizza, so I made sure to grab a cold bottle!"
-
-Katie and I exchanged an instant, delighted look. Remembering a detail like our ginger-ale rule from a single conversation the day before meant everything to us.
-
-"You remembered!" Katie said warmly as we led Tiffany up the short aluminum ramp and down the first-floor corridor to the back of the building. "Right this way—we're in A6, right across the hall from our old neighborhood friend Michael in A5."
-
-When I unlocked our wooden door and held it open for Tiffany to step inside Apartment A6, she paused in the center of the carpet and looked around our studio with an appreciative smile.
-
-"Look how nice and neat you two keep this place!" Tiffany said, setting the warm pizza box down on our kitchenette counter next to Dad's rolling microwave cart. "Seriously, Katie, you can tell a girl who cares about organization lives here—there isn't a single dish in the sink, and look at that microwave cart your dad put together!"
-
-"Wait until you see the walk-in closet and the roll-under bathroom sink," Katie said proudly, grabbing three paper plates and three plastic cups from the cabinet above our stove before pouring cold ginger ale for all three of us.
-
-After we ate two slices of warm cheese pizza apiece, Katie washed our three plastic cups in the kitchenette sink right away—following our house rule of washing dishes as we go—and Tiffany pulled a blue three-and-a-half-inch floppy disk out of her purse.
-
-"Okay, Professor Nate and Professor Katie," Tiffany laughed, holding up the floppy disk as she walked over to our long computer workstation desk. "Don't laugh at my messy code, okay? I brought my HTML file on disk so you two could show me what I did wrong."
-
-Because our studio didn't have extra desk chairs—since Katie and I always sat side by side at the workstation in our compact SwiftChair power wheelchairs—Tiffany didn't ask to sit on our bed across the room. Instead, she kneeled right down on the soft carpet between our two wheelchairs so her black-rimmed glasses were at the exact same eye level as ours while I slid her blue floppy disk into the A: drive of our desktop tower.
-
-Opening her index.html file in a plain-text editor on our seventeen-inch CRT monitor, Katie and I spotted the bug on line forty-two at the exact same second.
-
-"There it is," Katie pointed at the screen with a friendly grin. "You opened a second table row right here without closing the first table cell."
-
-"And look what happens when we replace that nested table with two simple CSS float blocks from the book you caught for me yesterday," I said, typing out a clean ten-line stylesheet block and hitting refresh in the browser window.
-
-On the monitor, Tiffany's jumbled pictures and text snapped into a clean, centered two-column page layout.
-
-"No way! You two fixed that in thirty seconds!" Tiffany gasped, clapping her hands together before turning on the carpet and wrapping one arm around my shoulders and the other arm around Katie's shoulders in a spontaneous three-way group hug. "You guys are absolute geniuses! I wish I had half the brains the two of you have."
-
-![Inside Apartment A6 on Greenway Court in May 2004, nineteen-year-old twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs beside their workstation desk with an open pizza box and cans of ginger ale on the rolling cart while Tiffany Sloan kneels warmly on the carpet between their wheelchairs holding a floppy disk]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_greenway_court_apt_a6_saturday_pizza_tiffany_blessing.jpg)
-
-For the rest of the afternoon, the three of us stayed right there in Apartment A6 like we had known each other for years. Tiffany listened attentively as I walked her through every CSS property in the new manual, asked Katie about the fall course schedule at the Community College of Hampton Roads, and laughed whenever Katie and I finished each other's sentences. Not once did Tiffany act impatient, not once did she try to pull me away from my twin sister, and when Sandra called at five o'clock from the parking lot out front to pick her up, Tiffany helped Katie fold up the empty pizza box before giving both Katie and me a warm goodbye hug in the hallway.
+We had half-expected Brandon to blink, backtrack, or mumble an excuse about couples needing their own space. Instead, Brandon hadn't hesitated for a single heartbeat. He had smiled, told both of us that his rented single-family house on a quiet tree-lined street just two blocks from the Williamsburg Transportation Center on North Boundary Street had a spare bedroom, a gentle wooden ramp up to the front porch, and wide ground-floor doorways, and insisted he would be honored to have both of us under his roof so Katie and I never had to spend a day apart.
 
 ***
 
-#### Saturday, May 15, 2004, 5:20 PM — "You Deserve Someone Who Makes You Happy, Nate"
+#### Saturday, June 19, 2004, 2:45 PM — Two Laminated Calling Cards Behind Our State IDs & Rolling Out of Greenway Court
 
-When we rolled back up the lobby ramp after watching Sandra's minivan turn off Greenway Court and locked the deadbolt of Apartment A6 behind us, I parked my wheelchair beside our computer desk, still feeling the warm glow of Tiffany's hug in my chest.
+"Brandon, do me a favor and grab the folding hand truck out of the bed of my pickup so we can wheel these heavy book cartons down the lobby ramp in one trip," Dad said, gesturing toward the hallway door.
 
-Across the room by the kitchenette, Katie pivoted her SwiftChair around, rolled right up beside me, and took my left hand in hers.
+"Right away, Mr. Prairie," Brandon nodded, stepping briskly out into the first-floor corridor.
 
-"Well?" I asked quietly, looking into my twin sister's blue eyes—because in nineteen years of life, I had never made a single major decision without knowing what Katie thought first. "What did you think of her, Katie?"
+As soon as Brandon's footsteps faded past the lobby mailboxes, Dad set his tape dispenser down on the bare workstation desk, reached into his shirt pocket, and pulled out two crisp, laminated blue-and-white prepaid telephone calling cards. Pulling up the lone wooden kitchen chair so he sat at eye level right in front of Katie's wheelchair and mine, Dad handed one card to Katie and one card to me.
 
-Katie's face softened into the warmest, most genuine smile I had ever seen.
+"Before we load up the truck and head up I-64, I want both of you to tuck these right behind your Virginia State ID cards in your wallets," Dad said quietly, tapping the toll-free 1-800 access number and the twelve-digit personal identification number printed under the scratch-off silver strip he had already cleared for us on the back of each card. "Each card has five hundred prepaid minutes preloaded on it, and they never expire as long as I top them up once a year."
 
-"I really like her, Nate," Katie said wholeheartedly, giving my hand a reassuring squeeze. "She brought ginger ale just for us, she sat right down on the carpet between our chairs so we were all together at the computer, and she didn't act weird for a single second about how close you and I are. After how unfair Heather was to you in high school over a rumor that wasn't even true, you deserve someone sweet and patient who makes you happy."
+"For payphones, Dad?" Katie asked, turning the glossy plastic card over in her fingers.
 
-A huge wave of relief and excitement washed through my chest. Having a girl like Tiffany smile at me and hold my hand felt wonderful—but having my twin sister's complete, enthusiastic blessing made the whole world feel safe.
+"For any payphone anywhere in the country," Dad said, looking steadily from Katie's eyes to mine. "Williamsburg is forty-five miles across the water in another area rate zone, and neither of you carries rolls of quarters around in your pockets. If you're ever out at a bus stop, a college building, or a train station and need to reach me at home on Arvin Road or at my office desk, you don't need a single coin. You pick up any payphone receiver, dial that 1-800 number for free, punch in your twelve-digit code when the automated voice asks for it, and dial my number."
 
-"She asked if we wanted to hang out with her again next weekend," I said, smiling back at Katie.
+"Got it memorized already," I said, unzipping my wallet, sliding out my vertical Under-21 Virginia State ID card—which still carried Dad's brick ranch address on Arvin Road in Virginia Beach—and slipping the prepaid calling card snugly into the clear plastic window right behind it while Katie did the exact same thing with hers. "And our old bedrooms on Arvin Road are still staying just how they are?"
 
-"Then you should call her tonight and tell her yes," Katie beamed, resting her head briefly against my shoulder the way we always did when everything in our world was right. "Everything is going to be great, Nate."
+"Untouched," Dad promised warmly, resting one large, calloused hand over both of our joined hands between our armrests. "I like Brandon, kids—he's been polite to me and patient with both of you—and I'm proud of you for trying a new adventure together. Just remember that Arvin Road is home base for as long as I'm breathing. If anything up there ever stops feeling right, you call me day or night and we come straight home."
 
-### Part 3: Tiffany's Pitch for Our Own Place in Ocean View & The Promise of Brother-and-Sister Weekends
+"We will, Dad—and we have each other right down the hall twenty-four-seven," Katie smiled, leaning forward to hug Dad tightly around the neck before we rolled our rolled-up navy-blue closet sleeping bag and four pillows into their protective plastic bag by the door.
 
-**Date:** 2004-08-14 at 14:30 America/New_York
+Across the narrow corridor, our friend Michael stepped out of Apartment A5 to wave goodbye and wish both of us luck up on the Peninsula before Brandon rolled the hand truck back inside. Twenty minutes later, with our computer tower, our clothes, and our shared sleeping bag loaded beneath the tonneau cover in the bed of Dad's extended-cab pickup truck alongside our two compact SwiftChairs—and Katie and me buckled side by side on the rear bench seat holding hands—we pulled away from Greenway Court and headed west toward the Hampton Roads Bridge-Tunnel and Williamsburg.
 
-![Inside Apartment A6 at Greenway Court in Norfolk on August 14, 2004, 19-year-old Tiffany Sloan kneels on the carpet between Katie and Nathaniel Prairie's black motorized SwiftChair power wheelchairs holding an apartment floor-plan brochure for Sea Breeze West in West Ocean View and promising that the twins will always have their Brother-and-Sister Weekends.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2004_greenway_court_apt_a6_ocean_view_floorplan_pitch.jpg)
+# Six Buses from Williamsburg, Sea Breeze West, & Coming Home to Arvin Road
 
-#### Saturday, August 14, 2004, 2:30 PM — "Just One Route 1 Bus Ride Up Granby Street"
+## North Henry Street, Six Buses from Williamsburg, & The Goyeau Street Tunnel File
 
-![Inside Apartment A6 at Greenway Court in Norfolk on August 14, 2004, 19-year-old Tiffany Sloan kneels on the carpet between Katie and Nathaniel Prairie's black motorized SwiftChair power wheelchairs holding an apartment floor-plan brochure for Sea Breeze West in West Ocean View and promising that the twins will always have their Brother-and-Sister Weekends.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2004_greenway_court_apt_a6_ocean_view_floorplan_pitch.jpg)
+### Part 1: Closed Bedroom Doors, The Three-by-Six Closet Sanctuary, & Unwritten Couple Rules
 
-"Look at the floor plan in this rental brochure my mom picked up for us yesterday, Nate," nineteen-year-old Tiffany Sloan said warmly on a sunny Saturday afternoon in mid-August, spreading a folded one-page apartment flyer across the corner of our computer workstation desk inside Apartment A6 on Greenway Court while handing Katie and me two cold cans of orange soda from our dorm fridge. "It's a ground-floor one-bedroom apartment right by the beach at a quiet courtyard complex called Sea Breeze West on West Ocean View Avenue."
+**Date:** 2004-10-15 at 21:40 America/New_York
 
-Sitting side by side in our compact SwiftChair power wheelchairs at the workstation desk, Katie and I looked down at the printed flyer together.
+#### Friday, October 15, 2004, 9:40 PM — Unplugged Chargers, Faint Thumbprints, & "Normal Adult Privacy"
 
-Three months had passed since that Friday afternoon in May when Tiffany had caught the falling CSS manual for me at Chapters & Co. inside The Admiral Center, and through the entire summer of 2004, Tiffany had been everything a nineteen-year-old guy who had never had a real girlfriend could have hoped for. Every weekend she had come over to Apartment A6 to watch movies, eat pizza with cold ginger ale or fruit juice, and sit between our wheelchairs while I worked on HTML templates. Whenever our dad David had driven down from Northern Virginia to take us out to dinner, Tiffany had been polite and respectful, and she had never once complained about how close Katie and I were.
+"Oh, relax, Katie—my foot must have snagged the cord while I was sweeping behind the armchair," Brandon sighed, tossing the heavy three-prong plug of my twenty-four-volt SwiftChair battery charger onto the hardwood floor six inches out of my seated reach instead of plugging it back into the baseboard outlet. "You don't have to interrogate me like a courtroom witness every time a plug comes loose. Honestly, sometimes your autism makes you take every little accident like a personal conspiracy."
 
-Now, with the fall semester at the Community College of Hampton Roads approaching at the end of August, Tiffany rested her hand affectionately on my shoulder and looked from my face to Katie's with a gentle, understanding smile behind her black-rimmed glasses.
+I sat motionless in my compact black SwiftChair inside the closed master bedroom of Brandon's rented clapboard house two blocks off North Boundary Street, staring down at the dead green LED on my charger brick while a cold, hollow weight settled behind my ribs.
 
-"I love coming over here to visit you two in West Ghent," Tiffany said softly, "and I know how special this studio has been for the two of you since you turned eighteen. But let's be honest—Apartment A6 is a single-room studio with one full-sized bed and no bedroom walls. Now that Nate and I have been dating all summer and getting serious, it's really hard for a boyfriend and girlfriend to have any normal couple privacy in a studio apartment with three people in one room, and my mom keeps hounding me at home about when I'm going to get my own apartment."
+"I wasn't interrogating you, Brandon," I said quietly, keeping my hands folded in my lap so he wouldn't see my fingers trembling against the hem of my sweater. "It's just the third night this week my charger came unplugged after I went to sleep, and if my battery drops below two bars I can't get down the front porch ramp."
 
-I looked across my armrest at Katie. For nineteen years—from our cribs in Virginia Beach to the house on Delaney Street, through the Friday afternoon at Northwood High School when our legs gave out within three hours of each other, and through every night since April eighth zipped inside our shared sleeping bag on the carpeted floor of the square walk-in closet four feet behind us—Katie and I had never once lived under separate roofs.
+Brandon stepped across the rug, stopped directly behind my backrest where I couldn't see his face without twisting my neck, and rested both hands heavily on my shoulders—pressing downward against my collarbones with just enough force to pin my shoulder blades flat against the upholstery.
 
-Seeing the hesitation tighten around my eyes and Katie's, Tiffany immediately knelt down on the carpet between our two wheelchairs, just like she had done on her very first Saturday afternoon in Apartment A6, and took one of Katie's hands and one of mine.
+"And where exactly do you need to roll by yourself in the middle of the day when I have a perfectly good car in the driveway?" Brandon asked in that smooth, disappointed tone that always made my literal nineteen-year-old mind scramble to figure out what unwritten social rule I had broken now. "Look at us, Katie. You and Nate moved up here in June, it's the middle of October, and I've bent over backward welcoming your brother into my house. Most twenty-two-year-old guys wouldn't let their girlfriend's twin brother take over the spare bedroom and the dining-room table with his computers. All I ask in return is that after nine o'clock at night, you and I keep this bedroom door closed like a normal adult couple."
 
-"Hey—look at me, both of you," Tiffany said in her sweetest, most reassuring voice. "Nobody is talking about separating the two of you or breaking up your routine. Do you know why my mom and I picked Sea Breeze West on West Ocean View Avenue instead of looking over in Portsmouth or Chesapeake? Look at the bus stop right down at the corner of West Ocean View Avenue and Duffy's Lane."
+When I started to reach my right hand toward my joystick to angle my chair sideways so I could look up at him, Brandon's fingers slid down from my shoulder and closed hard around my left wrist—yanking my arm back onto the padded armrest and holding it there for four full seconds until the bones in my forearm throbbed.
 
-Tiffany tapped her fingernail against the hand-drawn map at the bottom of the rental flyer.
+"Ow—Brandon, that hurts," I whispered, wincing as the skin under my sleeve burned right over the faint yellowish-purple thumbprint he had left there on Tuesday night when he claimed he was "just steadying" me by the bathroom doorway.
 
-"It's right on CVTA Route 1 and Route 3," Tiffany beamed. "That's a single, direct one-seat bus ride straight down Granby Street and Princess Anne Road to right here in West Ghent! No transfers, no bridges, and no tunnels—just thirty-five minutes on the bus. Katie gets to have all of Apartment A6 to herself without two other people crowding her kitchenette and bathroom, Nate and I get a real one-bedroom apartment with a big green living-room sofa right by the front windows, and you two still take your classes together at CCHR during the week."
+He let go instantly and exhaled a long, theatrical breath through his nose, shaking his head as if *I* were the one being unreasonable.
 
-"What about weekends?" Katie asked quietly, looking straight into Tiffany's eyes behind her glasses. "Nate and I have spent every weekend together our whole lives."
-
-"And you're still going to!" Tiffany promised without a second's hesitation, squeezing Katie's fingers warmly. "That's the best part of having a real living room with a big three-cushion green sofa at Sea Breeze West! Whenever you two want a Brother-and-Sister Weekend—just the two of you hanging out, coding on Nate's computer, and eating pizza all weekend long—Katie can hop right on the Route 1 bus on Friday or Saturday, roll straight into Apartment 3, and sleep right on the green sofa! You two won't miss a single beat."
-
-Across our armrests, Katie looked at me.
-
-I could see that my twin sister was going to miss having me right beside her every night in Apartment A6 just as much as I was going to miss her. Yet because Tiffany was smiling so warmly, holding both of our hands on the carpet, and promising up and down that West Ocean View was only one Route 1 bus ride away and that our Brother-and-Sister Weekends would always be sacred, Katie didn't want to stand in the way of me having my first real adult relationship.
-
-"Thirty-five minutes on Route 1 really isn't far at all, Nate," Katie said bravely, offering me the same supportive smile she had given me back in May. "And since Dad already paid the lease here on Apartment A6 through next spring while your disability check and Tiffany's job cover the rent up at Sea Breeze West, we'll see each other at CCHR during the week and have our Brother-and-Sister Weekends in Ocean View."
-
-"Are you sure you'll be okay here in A6 by yourself at night, Katie?" I asked, my throat tightening slightly as I glanced toward our square walk-in closet. "Michael and Ashley are right across the hall in A5 if you ever need anything, and you can call my flip phone anytime day or night."
-
-"I'll be fine, Nate," Katie said, leaning across our armrests to hug me tight. "You found a girlfriend who understands how close we are and already planned out the bus route so we can spend weekends together. Go sign the lease—and next month in September, as soon as you two get your boxes unpacked, I'm riding the Route 1 bus up to Ocean View Station for our very first Brother-and-Sister Weekend."
-
-"It's a date!" Tiffany chirped, hugging both of us around the shoulders. "Wait until you see the green sofa, Katie—you're going to love it!"
-
-Two weeks later, at the end of August 2004, Dad drove down from Northern Virginia with his SUV to help load my desktop tower PC, my seventeen-inch CRT monitor, and my clothes up to Apartment 3 on the ground floor of the white-painted courtyard building at Sea Breeze West on West Ocean View Avenue, while setting up a second desktop computer for Katie at the workstation desk in Apartment A6 so we could message each other every evening.
-
-When Dad and I rolled out the keyed glass front door of the Greenway Court building that afternoon, Katie smiled and waved to me from the lobby window in her compact SwiftChair, holding up two crossed fingers—our lifelong twin signal for *see you soon*—as we counted down the days until our first Brother-and-Sister Weekend in September.
-
-# West Ocean View & Reclaiming Our Sanctuary
-
-## Ocean View Station, Dirty Old Tonomy Hill, & Five Buses from Williamsburg
-
-### Part 1: Ocean View Station, The Green Sofa Confrontation, & Speak Now or Forever Hold Your Peace
-
-**Date:** 2004-09-18 at 19:30 America/New_York
-
-![Inside the Sea Breeze West living room on West Ocean View Avenue, nineteen-year-old twins Katie in her royal-blue V-neck sweater and Nate in his brick-red polo sit side by side on the bright green three-cushion sofa beneath the white window blinds with their compact SwiftChair power wheelchairs parked beside the oval coffee table while Tiffany Sloan glares through her black-rimmed glasses in her mint-green graphic shirt by the corner CRT television]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_ocean_view_green_sofa_my_brother_only_tiffany.jpg)
-
-#### Saturday, September 18, 2004, 7:30 PM — Ocean View Station & The Green Sofa Confrontation at Sea Breeze West
-
-"This is going to be a great weekend," I said, rolling my compact SwiftChair power wheelchair right up to the curb cut at Ocean View Station as the hydraulic front ramp of the Coastal Virginia Transit Authority Route 1 bus folded down onto the concrete and my nineteen-year-old twin sister Katie wheeled off the bus straight into my arms.
-
-Wearing her favorite royal-blue long-sleeve V-neck sweater with black trim at the collar and cuffs and light-blue jeans, with an overnight backpack clipped to the rear frame of her matching SwiftChair, Katie threw both arms around my shoulders across our armrests and hugged me tight in the warm September evening air blowing off the Chesapeake Bay.
-
-"I've missed you all week, Nate," Katie said happily, resting her cheek against mine for a second before we released our brakes and rolled side by side down the sidewalk along West Ocean View Avenue. "Two whole days of just brother-and-sister time, coding on your computer, and no drama."
-
-"We've got the whole weekend," I smiled, checking my watch on my left wrist as we turned past the low white two-rail fence into the small, tree-shaded courtyard of Sea Breeze West.
-
-Our complex consisted of two low-rise early-nineteen-seventies buildings facing each other across the narrow courtyard and asphalt parking lot—the red-brick building with the script Sea Breeze West sign and the quarter-operated laundry room on one side, and our white-painted two-story courtyard building on the other, where the exterior unit doors and wide double windows were lined up side by side like an old coastal motel. My unit—Apartment 3—sat on the ground floor at the very far end of the white-painted building, furthest from the parking lot.
-
-When I unlocked the wooden front door in the right-hand corner and rolled inside ahead of Katie, the single six-hundred-square-foot apartment opened straight into our combination living room and kitchen. Immediately to the left of the front door, directly beneath the two wide front windows covered by white horizontal mini-blinds looking out onto the courtyard, sat our bright green three-cushion sofa with an oval weathered-wood coffee table in front of it and a black cathode-ray-tube television on a two-shelf black-and-glass stand in the opposite front corner. Just beyond the oval coffee table stood a large dining table that I used as a computer desk for my desktop tower PC running Quantum OS XN Pro, looking straight ahead into the open kitchen with its olive-green base cabinets, speckled laminate prep counters, slate-blue four-burner electric stove, sink, and full-size top-freezer refrigerator.
-
-Standing near the corner television stand in a mint-green short-sleeve graphic T-shirt, charcoal-gray pants, and black-rimmed rectangular glasses, my nineteen-year-old girlfriend Tiffany Sloan froze and stared at Katie's wheelchair rolling through the doorway behind me.
-
-"Wait, what?" Tiffany snarled, her voice dropping into a harsh, hostile edge behind her glasses.
-
-I blinked, braking my chair beside the bright green sofa while Katie transferred smoothly from her SwiftChair onto the left cushion of the couch and patted the middle cushion for me to sit beside her.
-
-"I thought we discussed this on Thursday, Tiffany," I said, transferring onto the green sofa next to Katie as my twin sister naturally draped her right arm around my shoulders the way we had sat together our entire lives. "My sister wants to see me for the weekend."
-
-![Inside the Sea Breeze West living room on West Ocean View Avenue, nineteen-year-old twins Katie in her royal-blue V-neck sweater and Nate in his brick-red polo sit side by side on the bright green three-cushion sofa beneath the white window blinds with their compact SwiftChair power wheelchairs parked beside the oval coffee table while Tiffany Sloan glares through her black-rimmed glasses in her mint-green graphic shirt by the corner CRT television]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_ocean_view_green_sofa_my_brother_only_tiffany.jpg)
-
-Tiffany shot me a venomous dirty look, her face flushing dark red behind her black-rimmed glasses as she stared at Katie's arm around my brick-red polo shirt. It baffled me why Tiffany always acted so bitterly jealous whenever another woman—even my own fraternal twin sister—hugged me, especially when I had never once had a problem with Tiffany being close with her own brother.
-
-"Katie is going to sleep right here on the green sofa, just like we discussed," I added, trying to keep my voice calm and even so an argument wouldn't start before Katie even unclipped her overnight bag.
-
-Across the oval wooden coffee table, I could feel Katie's shoulders tense as she watched Tiffany and me fighting yet again.
-
-"I wanted some time with my brother, Tiffany," Katie said firmly, looking straight across the living room at her. "You get to see him twenty-four hours a day, seven days a week. I don't."
-
-"I am his girlfriend!" Tiffany snapped at the top of her lungs.
-
-Katie's blue eyes flashed with instant, protective fire.
-
-"Don't yell at me like that," Katie retorted, transferring straight off the green sofa back into her SwiftChair in one fluid motion. Reaching across her armrest, she took me firmly by the hand and snarled, "Come on, Nate."
-
-Turning her head toward Tiffany by the corner television stand, Katie growled three words that echoed off the drywall from the front window blinds all the way back to the open kitchen stove:
-
-"My brother only!"
+"See? That right there is what I mean about you overreacting," Brandon murmured, tapping the closed white six-panel bedroom door with his knuckles. "And remember what we talked about, Katie. Everyone in a real, grown-up relationship knows you don't go running down the hall to your brother over private couple disagreements. Doing that is childish, and it hurts me after everything I do for both of you. You want to prove you're nineteen and not twelve? Stay in this bed tonight instead of crawling into a closet like a scared kid."
 
 ***
 
-#### Saturday, September 18, 2004, 7:55 PM — The Courtyard Walk & "Speak Now or Forever Hold Your Peace"
+#### Friday, October 15, 2004, 11:50 PM — Slipping Down the Hall to Nate's Three-by-Six Closet & Crossing the Line
 
-I wasn't sure how to react—my head was spinning in complete confusion as I transferred back into my own SwiftChair and rolled out the front door of Apartment 3 right behind Katie into the cool September twilight of the Sea Breeze West courtyard.
+For two miserable hours after Brandon turned off the bedside lamp and rolled onto his side under the thin quilt, I lay wide awake on the far edge of the exposed queen mattress with my street jeans and long-sleeve shirt still on, staring at the pale rectangle of streetlight slanting across the ceiling from the front yard.
 
-The moment the wooden door clicked shut behind us and we rolled past the white two-rail fence toward the quiet sidewalk along West Ocean View Avenue, Katie braked her wheelchair, pivoted to face me under the streetlamp, and got straight to the point.
+Nothing about how we had gotten here had happened all at once. If Brandon had yelled at us or grabbed my wrist during our first week in Williamsburg back in June, Nate and I would have pulled out Dad's laminated calling cards, walked two blocks to the payphone at the Williamsburg train depot, and gone home to Virginia Beach before sunset. Instead, the water had heated up one degree at a time. In July it had been gentle comments that Nate and I spent "ten hours a day parked two inches apart" and ought to practice giving couples polite evening space so Nate wouldn't feel awkward. Because Nate wanted me to have a happy first relationship—and because neither of us had ever dated anyone in adulthood before and lived in constant dread of breaking neurotypical relationship rules nobody had ever taught us—Nate had politely stayed in his spare bedroom down the hall after supper, having no idea what Brandon was saying or doing once our bedroom door clicked shut.
 
-"Why do you stay with her, Nate?" Katie demanded.
+Except there was one thing about Nate and me that Brandon's guilt trips had never been able to erase, and it drove Brandon quietly furious every time it happened.
 
-I gave her what must have been a bewildered, defensive look, my hands tightening on my armrest pads.
+Ever since August of last year back on Greenway Court—after our mother Brenda had come screaming and pounding on our metal alley door in a drunken rage—neither Nate nor I had ever felt safe sleeping out in an open room with windows. Because of our autism and the childhood terror our mother had wired into our bones, the only place on earth our nervous systems ever went completely quiet at night was side by side on the floor of a pitch-dark three-by-six-foot closet, sharing four pillows and a single zipped navy-blue sleeping bag where the narrow walls enclosed us on every side. Back in school in Virginia Beach, when our classes went through Family Life Education, Nate and I had learned the rule that brothers and sisters are not supposed to have sex with each other; neither of us really understood why people made such a complicated fuss over it, yet a rule was a rule, and we followed rules strictly. Inside our closet sleeping bag, dressed in clean pajamas or t-shirts and sweatpants, all we ever did was hold each other tight until the shaking stopped.
 
-"I'm your twin!" Katie said, leaning forward in her chair so her blue eyes locked directly onto mine. "I know when something's up before you even say a word. Now please, tell me the truth. Why do you stay with her?"
+Beside me in the dark, Brandon's breathing finally deepened into a heavy, rhythmic snore.
 
-"Katie, I... uh... well, I finally found someone," I stammered in frustration, my voice cracking as the familiar ache of nineteen years of awkwardness and rejection after Heather Collins at Northwood High School knotted my chest. "A real, actual girlfriend."
+Moving one silent inch at a time while my left wrist throbbed in the dark, I eased myself off the side of the mattress onto the seat of my SwiftChair, left the motor off for two seconds until my casters cleared the rug edge, clicked the power button on at its lowest crawl speed, and cracked the bedroom door open just wide enough to slip out into the dark hallway.
 
-"She's hurting you," Katie said, her voice dropping from anger to an aching, urgent plea. "Why can't you see it?"
+Ten feet down the corridor, the door to Nate's spare bedroom stood ajar an inch—the way my twin brother always left it whenever his gut told him something wasn't right.
 
-"You're just mad that I found someone!" I snapped back before I could stop myself.
+The second my front tires crossed his threshold, I saw the faint amber glow of Nate's watch face turn toward me from the open doorway of his three-by-six bedroom closet, where our shared navy-blue sleeping bag and four white pillows were already spread lengthwise across the clean closet floor.
 
-Katie didn't flinch, though I saw the hurt flash across her face under the streetlamp.
+"Katie?" Nate whispered barely above a breath, sitting straight up inside the closet opening as I braked my chair beside his parked SwiftChair and transferred down onto the soft sleeping bag beside him.
 
-"Listen to you!" Katie replied softly, shaking her head. "I'm your sister, Nate. You shouldn't be snapping at me like that. Your own twin sister."
+I pulled the wooden closet door almost all the way shut until the room vanished into safe, enclosed darkness, buried my face against my twin brother's collarbone, and started shaking from head to toe.
 
-The second those words left her mouth, the defensive wall inside my chest collapsed. Hot tears leaked from my eyes and spilled down my cheeks as I realized I was blowing up at Katie—the one person on earth who had never left my side through our parents' divorce on Delaney Street, through the September Friday in eleventh grade when our legs gave out, and through every lonely bus ride across Hampton Roads.
+As Nate wrapped his right arm around my shoulders inside the sleeping bag, his fingers brushed the tender, swollen skin of my left wrist through my cotton sleeve—and I gasped sharply in the dark before I could bite my lip.
 
-"It's alright," Katie whispered immediately, rolling her SwiftChair two inches closer and reaching across to hold my hand in both of hers. "I'm not mad at you, Nate. Not ever. But I still don't approve of her, and I never will."
+Nate froze completely still.
 
-My sister gripped my hand more tightly, her fingers warm and steady around mine while my thoughts collided inside my skull. Katie had always been there for me, yet part of my stubborn nineteen-year-old brain kept clinging to the illusion that having a girlfriend meant I had finally built a normal adult life—even if that life meant walking on eggshells around Tiffany's temper and Tiffany's overbearing mother every single day.
+"Katie," Nate whispered against my hair, his voice dropping an octave in the pitch dark as he gently pushed my sleeve back two inches and felt the raised heat along my wrist with his fingertips. "Did Brandon do that to you?"
 
-Looking straight into my tear-streaked eyes, Katie spoke in a clear, solemn voice that sounded like a sworn oath in a courtroom.
+Every rehearsed excuse Brandon had planted in my head—about private couple disagreements, about being immature, about misunderstanding his grip because of my autism—shattered the instant my twin brother held me at eye level without pinning me down.
 
-"If she ever pops the question, Nate, I am telling you right now," Katie said, squeezing my hand so hard I could feel the pulse in her fingers. "When the minister or the judge stands up in front of the room and says, *Speak now or forever hold your peace*, I will be speaking up. I will roll my wheelchair right down the center aisle, I will look the officiant in the eye on the record, and I will tell the whole room that my autistic twin brother is being coerced, isolated from his family, and pressured into a marriage against his will so they have to stop the ceremony on the spot. It is my duty as your twin sister to protect you—and no, I never thought it would come down to this."
+"He keeps unplugging my charger on purpose, Nate, and tonight he grabbed my arm hard when I tried to turn my chair around and told me I wasn't allowed to tell you," I whispered, hot tears soaking into the collar of Nate's t-shirt. "And all week while you've been doing your CCHR coursework in the afternoon, he's been printing maps of Canada and talking crazy about taking me up across the border where healthcare is free so we never need Dad or you again. I hate it here, Nate. I don't want a boyfriend anymore. I just want to go home."
 
-It was too much for my brain to comprehend all at once. Between Tiffany screaming at us inside Apartment 3, the humiliating memory of Tiffany's mother glaring at me, and Katie swearing on the West Ocean View sidewalk that she would literally halt a wedding ceremony under Virginia law to rescue me, my autistic sensory circuits hit total overload. I felt like my head was about to explode, and all I wanted to do was crawl into a dark, quiet closet away from the rest of the world.
+In the dark of that narrow three-by-six closet, Nate wrapped both arms around me with all the steady, protective strength in his nineteen-year-old body and held me close until my breathing slowed to match his.
 
-Katie saw my shoulders trembling and read my silence before I could even form a sentence.
+"Nobody touches you like that ever again, Katie, and you aren't going anywhere near Canada—or anywhere else—with him," Nate whispered fiercely against my forehead. "We came here together, and we're leaving together. Tomorrow we get our chargers, our IDs, and our laptops in our bags, and the very first opening we get, we're getting out of Williamsburg and going home to Dad."
 
-"You can't think straight right now," Katie whispered gently, stroking the back of my hand with her thumb. "You know I can read your mind. Please be honest with me."
+### Part 2: Six Buses from Williamsburg — The Blind Leap at Boundary Street, Crown Burger, Open Radio on Route 20, & Dad at Indian River Road
 
-She paused for a long breath, letting the distant rumble of a Route 1 bus rolling down West Ocean View Avenue pass behind us before she plunged on.
+**Date:** 2004-10-16 at 15:35 America/New_York
 
-"To tell you the truth, Nate, I do not approve of Tiffany," Katie said quietly. "I do not like her, and I will never like her. She will never earn my respect, and I really want you to leave her. You're not happy, and you need to get rid of her. Whenever you're ready to see that—no matter how long it takes or how bad it gets—I'm right here."
+#### Saturday, October 16, 2004, 3:35 PM — The Blind Ticket Window at Boundary Street & A Leap of Faith Toward Newport News
 
-### Part 2: Riding Route 1 Back to West Ghent, Meeting Brandon Mercer at The Admiral Center, & Taking Things Slow
+"Both of you wait right out here by the bus island and don't crowd me inside the waiting room," Brandon snapped at three-forty-eight on Saturday afternoon, hitching the strap of an overstuffed black canvas duffel bag higher onto his shoulder outside the brick colonial depot of the Williamsburg Transportation Center on North Boundary Street. "The ticket line inside is cramped enough without two wheelchairs blocking the queue, and I need to get our passes sorted out at the counter before the shift change."
 
-**Date:** 2004-09-19 at 13:15 America/New_York
+Sitting wheel-to-wheel with Nate on the red-brick plaza thirty feet outside the heavy brass-and-glass entrance doors under a crisp, windy October sky, I kept my hands folded calmly over my canvas lap bag and didn't argue a word.
 
-![On the brick outdoor café patio of The Admiral Center in Norfolk on September 19, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs as 22-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg)
+Earlier that afternoon back at the house, when Brandon had found both of us sitting fully dressed in the living room with our backpacks clipped to our backrests—and our shared navy-blue sleeping bag rolled tight inside its weatherproof sack strapped across Nate's rear frame—he had ordered both of us to roll the two blocks over to the station with him, barking vaguely about an "autumn weekend rail excursion" while keeping his coat pocket buttoned over a thick stack of cash he had just cleaned out of the ATM. Neither Nate nor I knew where Brandon was actually buying tickets to, and neither of us knew that inside his head he was scheming to buy only two tickets and abandon my twin brother stranded right here on the Williamsburg platform while dragging me toward Canada.
 
-#### Sunday, September 19, 2004, 1:15 PM — The Empty Half of Apartment A6 & Rolling Over to The Admiral Center
+We didn't know, and we didn't care. All Nate and I knew—having quietly packed both twenty-four-volt SwiftChair battery chargers, both CCHR laptops, our daily medication pouches, and our wallets holding our Virginia State IDs and Dad's prepaid calling cards before noon—was that wherever Brandon Mercer was going, we were not going a single foot further with him.
 
-"I haven't slept that badly since the hospital in eleventh grade," I muttered to myself at one-fifteen on Sunday afternoon as the hydraulic ramp of the southbound CVTA Route 1 bus folded down onto the curb in West Ghent and I rolled my compact SwiftChair down the shaded brick sidewalk toward the two-story red-brick apartment building on Greenway Court.
+"Stay right here," Brandon repeated, glancing down at our chairs as if two nineteen-year-olds without a car were bolted to the bricks. "I'll be out in five minutes."
 
-My stomach had been tied in a sick, heavy knot ever since eight-fifteen the night before, when Katie had refused to step another foot inside Apartment 3 at Sea Breeze West after Tiffany's screaming outburst by the green sofa and had ridden the Saturday night Route 1 bus all the way back down Granby Street to Greenway Court by herself. All night long, lying awake on the sagging mattress in West Ocean View while Tiffany snored beside me, one sentence Katie had spoken under the courtyard streetlamp had echoed inside my skull:
+He turned, pushed through the heavy wooden-and-glass doors into the depot, and disappeared inside.
 
-*I'm your sister, Nate. You shouldn't be snapping at me like that. Your own twin sister.*
+Nate and I knew the layout of that historic brick station house from walking past it all summer: the indoor ARTS ticket counter faced inward across the enclosed waiting room, with solid brick walls and zero line of sight out onto the local bus transfer loop where we were sitting. Neither Brandon nor the ticket agent counting his bills behind the window could see a thing happening at the curb while the dot-matrix ticket printer chugged through paper stock.
 
-The moment Tiffany left at noon on Sunday to go spend the afternoon at her mother Sandra's house, I had rolled straight down to Ocean View Station and caught the twelve-thirty southbound Route 1 bus. I didn't care if Tiffany got annoyed when she found out I had gone to West Ghent; I couldn't go another hour without looking my twin sister in the eye, apologizing for snapping at her, and making sure she knew I loved her.
+Three seconds after the station doors swung shut behind Brandon's back, air brakes hissed loudly along the curved concrete bus island right in front of our footrests.
 
-Because I still kept my brass Greenway Court keys on my keyring, I unlocked the building's 24/7 keyed glass-and-aluminum front door, rolled up Dave's nonslip aluminum ramp over the three lobby steps, and wheeled down the quiet first-floor hallway to Apartment A6 on the back right side of the building.
-
-I knocked twice on the wooden door. "Katie? It's Nate."
-
-When no one answered from inside, I used my spare key to unlock the deadbolt and pushed the door open.
-
-Rolling three feet across the threshold into Apartment A6 stopped me cold.
-
-For sixteen months, from the day after our eighteenth birthday until three weeks ago at the end of August, this rectangular studio had been *ours*. Now, looking around the spotless room in the quiet Sunday afternoon light filtering through the white mini-blinds above the through-wall air conditioner, the silence felt almost unbearable. The right half of our long computer workstation desk—where my desktop tower and seventeen-inch CRT monitor had sat right beside Katie's—was completely bare except for a neatly coiled ethernet cable. Across the room, the door to our square walk-in closet stood halfway open, and on the vacuumed carpet inside, our navy-blue sleeping bag was folded into a neat square with only a single pillow resting on top of it.
-
-A lump rose in my throat as I realized Katie had come home from Ocean View in tears the night before and had slept in that closet completely alone.
-
-Rolling over to her workstation desk, I spotted a yellow sticky note stuck to the bottom bezel of her monitor in Katie's neat handwriting:
-
-*12:45 PM — Rolled over to the bakery café at The Admiral Center for a cup of hot chocolate and fresh air. Back by 2:30! — Katie*
-
-I locked the door of Apartment A6 behind me, rolled back out the front entrance of the Greenway Court building, and set my SwiftChair speed dial to a brisk four miles per hour down the sidewalk toward Twenty-First Street.
-
-***
-
-#### Sunday, September 19, 2004, 1:40 PM — Brandon Mercer Presents Himself as a Gentleman, Defends Nate, & Respects Katie's Pace
-
-![On the brick outdoor café patio of The Admiral Center in Norfolk on September 19, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs as 22-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg)
-
-Ten minutes later, I turned my wheelchair into the wide brick pedestrian promenade of The Admiral Center.
-
-Three storefronts down from the glass windows of Chapters & Co., where I had met Tiffany back in May, was the outdoor brick patio of the corner bakery and café. Shaded by dark-green canvas umbrellas, the patio had four wide, wheelchair-accessible wrought-iron tables along the outer walkway.
-
-And sitting at the corner table in her compact black SwiftChair, wearing her royal-blue sweater with both hands wrapped around a steaming paper cup of hot chocolate, was Katie.
-
-She wasn't sitting alone.
-
-Seated across the small round table from her in a wrought-iron patio chair was a clean-cut, soft-spoken young man who looked to be about twenty-two years old, wearing a neatly pressed light-blue button-down shirt, khaki trousers, and a leather wristwatch, with short sandy-brown hair and a warm, attentive expression on his face. On the table between them sat a fresh stack of paper napkins, an unopened bottle of strawberry-kiwi flavored water beside Katie's hot chocolate, and a tall glass of apple juice in front of him.
-
-As I rolled down the brick walkway toward their table, Katie was laughing softly at something he had just said—the first real smile I had seen on my sister's face all weekend. Then she glanced up, saw my SwiftChair rolling toward her, and her blue eyes widened.
-
-"Nate!" Katie said, setting her cup of hot chocolate down as I braked my chair right beside hers and reached across our armrests with both hands.
-
-"Katie, I'm so sorry about last night," I blurted out immediately, my voice thick as I held her hands tightly in mine. "I couldn't stay up in Ocean View another minute without coming down here on Route 1 to tell you how sorry I am for snapping at you in the courtyard. You were right—you're my twin sister, and I never should have talked to you like that."
-
-Katie's eyes softened instantly, and she leaned across our armrests to wrap both arms around my neck in a tight, forgiving hug.
-
-"I told you last night I wasn't mad at you, Nate," Katie whispered against my collar before sitting back and wiping a tear from the corner of her eye with a smile. "I'm really glad you came down. I went back to A6 last night and the apartment felt so quiet this morning that I had to get out for a little while."
-
-She turned toward the young man in the light-blue button-down shirt, who had politely stood up a few inches and stepped back just enough during our hug to give us a respectful moment of sibling privacy before offering me a warm, friendly smile.
-
-"Nate, this is Brandon Mercer," Katie said, introducing us. "He's visiting Norfolk from Williamsburg today. About twenty minutes ago, some guy in a hurry with three shopping bags cut across the patio, bumped right into my table, and knocked my entire cup of hot chocolate all over the bricks without even stopping to say excuse me. Brandon came right over with a stack of napkins to clean up the table, went inside to buy me a brand-new cup of hot chocolate and a bottle of flavored water, and asked if he could keep me company."
-
-Brandon leaned down slightly so he was at my eye level and extended his right hand across the table with a genuine, unhurried handshake.
-
-"It's really good to meet you, Nate," Brandon said in a calm, pleasant voice. "Katie's been telling me all about you and the classes the two of you are taking at CCHR. You two have a lot to be proud of."
-
-"Thank you for helping my sister out with the spilled hot chocolate, Brandon," I said, shaking his hand and immediately noticing how natural and unforced he was around our two power wheelchairs—not staring at the joysticks, not talking down to us in a high-pitched voice the way strangers sometimes did, and sitting right back down at our level. "And I'm sorry if I interrupted you two because I needed to apologize for ruining her weekend."
-
-"Hey, don't beat yourself up, man," Brandon said warmly, holding up a hand with an understanding smile as he looked from me to Katie. "Katie was just telling me a little bit about what happened up in Ocean View last night because I asked why she looked so down when I first walked over, and I already told her five minutes ago that I knew right away it wasn't your fault."
-
-I blinked in surprise. "You did?"
-
-"Of course it wasn't your fault," Brandon said earnestly, nodding toward both of us. "Anyone who listens to Katie talk about you for two minutes can tell how close the two of you have been your whole lives. When a good guy moves into his first apartment with a girlfriend and she suddenly changes the rules after the lease is signed—after promising your sister she'd be welcome for the weekend—it catches you completely off guard. You didn't want your sister hurt; you just got put on the spot in a tiny living room and tried to keep the peace. And the fact that you rode the city bus all the way down from Ocean View today just to apologize and make sure Katie was okay proves what kind of brother you are."
-
-Across our armrests, Katie looked at me with a warm, relieved nod, and I felt the tight band around my chest loosen for the first time since Saturday night. After how hostile and loud Tiffany had been the evening before, hearing a polite, level-headed guy from Williamsburg immediately defend me to Katie—and treat our twin bond like the most natural, admirable thing in the world—made Brandon seem like a breath of fresh air.
-
-For the next forty-five minutes, the three of us sat together around that shaded patio table at The Admiral Center. When I pulled a cold can of ginger ale out of my backpack, Brandon mentioned that he didn't care for alcohol or coffee either and preferred apple juice, sports drinks, or hot chocolate—which made Katie and me exchange a delighted twin grin. He told us he was twenty-two years old, lived up in Williamsburg on Virginia Avenue a few blocks from the College of Charles & Anne, and worked in hospitality bookkeeping while taking business courses.
-
-At two-thirty, Brandon glanced down at his leather wristwatch and stood up reluctantly from the wrought-iron chair.
-
-"I promised my supervisor I'd be back up in Williamsburg by four o'clock to close out the weekend ledgers, so I'd better head back toward the bridge-tunnel before Sunday afternoon traffic backs up," Brandon said, smiling warmly down at Katie. "Katie, meeting you today was the best part of my whole week. I'd really love to show you around Williamsburg sometime soon—my apartment on Virginia Avenue is on the ground floor with zero steps, and the Williamsburg Transportation Center is right down the street with accessible CTTA buses that run all through the historic area."
-
-Katie blushed slightly, smoothing her royal-blue sweater over her lap before looking up at Brandon with clear, honest blue eyes.
-
-"I'd really like to see Williamsburg someday, Brandon," Katie said softly, "and thank you so much for being so kind to me today. After everything that happened yesterday, though—and with Nate and me living in separate apartments for the first time in our lives—I really want to take things slow and get to know you here in Norfolk first."
-
-I watched Brandon's face closely to see if he would look disappointed or try to talk her out of it.
-
-Instead, Brandon's smile only grew warmer and more respectful.
-
-"I respect that completely, Katie," Brandon said without a trace of pressure in his voice, pulling a small business card out of his shirt pocket and writing his home and cell numbers neatly on the back before handing it to her. "Taking things slow is the smart way to do it, and I don't want you rushing into anything you aren't a hundred percent comfortable with. I love visiting Norfolk anyway—it's an easy trip down I-64 on the weekends. If it's alright with you and Nate, I'd love to come down here to Ghent next Saturday afternoon, bring you two some hot chocolate, and go completely at your pace."
-
-"I'd really like that," Katie smiled, slipping his card carefully into her zippered purse.
-
-"And it was great meeting you too, Nate," Brandon added, shaking my hand warmly again before waving goodbye and walking down the brick promenade toward the parking lot.
-
-As soon as Brandon turned the corner past Chapters & Co., Katie rolled her SwiftChair two inches closer to mine and took my hand.
-
-"Well?" Katie asked, echoing the exact question I had asked her inside Apartment A6 four months earlier on the afternoon she met Tiffany. "What did you think of him, Nate?"
-
-Looking back down the sunny brick walkway where Brandon had just bought my twin sister fresh hot chocolate, defended me without hesitation, and promised to respect her boundaries and go completely at her pace, I smiled and squeezed Katie's hand back.
-
-"He seems like a genuinely good guy, Katie," I said honestly. "I like how he didn't push you at all when you told him you wanted to take things slow, and it meant a lot to me that he knew last night wasn't my fault. Let's roll back to A6 and spend the rest of Sunday afternoon together before I have to catch the evening Route 1 bus back to Ocean View."
-
-### Part 3: Patience at Katie's Pace, Winning Over Nate and Dad, & Katie's Move to Williamsburg
-
-**Date:** 2004-11-20 at 14:00 America/New_York
-
-![Inside Apartment A6 at Greenway Court in Norfolk on November 20, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes in the background.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg)
-
-#### Saturday, November 20, 2004, 2:00 PM — Two Months at Katie's Pace & The Decision in Apartment A6
-
-![Inside Apartment A6 at Greenway Court in Norfolk on November 20, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes in the background.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg)
-
-"Look how neatly Brandon labeled all of the computer cables with masking tape before putting them in the box, Nate," nineteen-year-old Katie said with a warm smile on the Saturday afternoon before Thanksgiving in November 2004, rolling her compact SwiftChair back from the long workstation desk inside Apartment A6 on Greenway Court so our dad David could lift her seventeen-inch CRT monitor into its padded carton.
-
-Standing beside the desk with a roll of clear packing tape in his hand and his steaming travel mug of black coffee resting on the kitchenette counter next to three cold bottles of sports drink and orange juice, forty-six-year-old Dad looked across the room toward twenty-two-year-old Brandon Mercer, who was carefully wrapping Katie's glass butterfly paperweight in air-cushioned packing wrap on his knees.
-
-"You've got a good system, Brandon," Dad said approvingly. "Most guys your age just toss all the cords into a grocery bag and spend three days figuring out what plugs into what."
-
-"My dad taught me early on that if you take your time and do things carefully, nothing gets broken," Brandon replied with that calm, polite smile that had won over our entire family since September.
-
-Sitting in my SwiftChair beside the kitchenette counter, I watched Brandon tape the air-cushioned packing wrap around Katie's paperweight and felt a complicated mixture of happiness for my twin sister and a quiet ache in my chest that she was moving forty-five miles up Interstate 64 to Williamsburg.
-
-True to the promise he had made at The Admiral Center on that Sunday afternoon in September, Brandon hadn't rushed Katie for a single day. All through late September, October, and November, Brandon had respected Katie's wish to take things slow and get to know him right here in Norfolk. Every single Saturday and Sunday, rain or shine, he had driven down I-64 from Williamsburg to West Ghent. He brought Katie cups of hot chocolate from the bakery and cartons of chocolate milk for her dorm fridge; he carried her laundry basket down the hall and chatted warmly with our across-the-hall neighbors Michael and Ashley before Michael finished moving out of Apartment A5 earlier this month; he sat beside her wheelchair at the workstation desk while she finished her CCHR homework; and whenever Dad drove down to take us out to dinner, Brandon pulled out chairs, opened doors, and spoke with the steady, respectful courtesy of a young man who genuinely cherished my twin sister.
-
-And during those exact same autumn months between September and November 2004, while Brandon was treating Katie like gold every weekend in Ghent, my own life up in West Ocean View at Sea Breeze West Apartment 3 had been sliding downhill so gradually that I barely knew how to explain it even to myself.
-
-When Tiffany and I had first moved into Apartment 3 back in August, I had genuinely believed we were going to build a normal grown-up romance together—sharing the queen bed in the back bedroom, kissing goodnight, cuddling under the covers, and figuring that once we were settled in and ready, our relationship would naturally take the next step the way adult couples do when they are in love. Yet before moving out of Greenway Court, Katie and I had promised each other that neither of us would rush into anything sexual that could risk an unplanned pregnancy while we were still adjusting to living apart for the first time in our lives. And as it turned out, that waiting period had barely begun before Tiffany's warmth dried up on its own. Almost as soon as the Sea Breeze West lease was signed, the affectionate girlfriend who had held an umbrella over my joystick in the rain started turning cold and irritable whenever I came near her, leaving unwashed dishes in the sink for days at a time, banishing milk from our refrigerator, and picking jealous fights over my twin sister until sharing our bedroom felt more like walking on eggshells than being in love.
-
-Whenever I mentioned riding the CVTA Route 1 bus down to Greenway Court on a Saturday afternoon to visit Katie, Tiffany would suddenly complain of a migraine, or her mother Sandra would show up unannounced at Apartment 3 demanding that I stay home to help reorganize the living room, or Tiffany would start a guilt-tripping argument asking why she wasn't enough company for me. Week by week, my trips down Granby Street had grown fewer and further between. Because I was too embarrassed to admit to Katie or Dad how bad the mess and the arguments at Apartment 3 had gotten, I kept telling them over the phone that I was just busy—which meant that Monday through Friday, nineteen-year-old Katie had been coming home to an empty studio apartment at the back of Greenway Court, eating dinner by herself at half of a workstation desk, and sleeping alone in the square walk-in closet where the two of us used to zip up in our shared sleeping bag together.
-
-Once Michael vacated Apartment A5 across the hall earlier in November, leaving both back apartments on the first floor quiet at night, Brandon had seen how lonely Katie was sitting in Apartment A6 all by herself while I was stuck up in Ocean View. Two weeks ago, Brandon had sat down with Katie, Dad, and me over Sunday lunch and made the gentlest, most reasonable pitch imaginable.
-
-Why keep paying rent on a studio apartment in West Ghent where Katie had to sit alone staring at Nate's empty half of the desk through Thanksgiving and Christmas, Brandon had asked kindly, when Katie was ready to move into his ground-floor one-bedroom apartment on Virginia Avenue in Williamsburg? His apartment was completely step-free on the first floor; it was only blocks away from the College of Charles & Anne and the Williamsburg Transportation Center, where the Colonial Triangle Transit Authority buses, the Pathfinder intercity coaches, and the ARTS passenger train stopped every day; and Katie could work and commute by bus while never having to come home to an empty room again.
-
-Because Brandon had spent the entire autumn earning every ounce of our trust—and because Katie genuinely loved how attentive and gentle he was with her—Katie had said yes, and both Dad and I had given them our blessing.
-
-"That's the last of the kitchen cartons," Dad said, carrying the rolling microwave-and-toaster cart out toward the hallway so he could load it into the back of his pickup alongside Brandon's sedan in the front parking lot. "Brandon, let's you and me run these three boxes out to the vehicles while Nate and Katie have a few minutes before we lock up."
-
-"You got it, Mr. Prairie," Brandon said, picking up two taped boxes of books and following Dad out into the first-floor corridor.
-
-As soon as the wooden door of Apartment A6 clicked half-shut behind them, the studio felt cavernously quiet. Only the bare full-sized mattress, the empty workstation desk, and the open door of the empty square walk-in closet remained.
-
-Katie released her joystick brake, rolled her SwiftChair across the vacuumed carpet right up beside mine, and took both of my hands.
-
-"You're quiet today, Nate," Katie said softly, her blue eyes searching mine the way they always did whenever I was holding something inside. "Are you okay with me moving up to Williamsburg?"
-
-"I want you to be happy, Katie," I said, my voice catching slightly as I squeezed her fingers. "I hated knowing you were sitting down here in A6 all by yourself every weeknight while I was up in Ocean View. Brandon has been so patient and good to you all autumn, and I know you won't be lonely up there with him. Just... remember our pact, okay? Take things at your own pace, and don't let anyone rush you into anything you aren't ready for—especially anything that could get you pregnant or put your health at risk."
-
-"I remember, Nate, and I won't," Katie promised earnestly, squeezing my hands right back. "Brandon already knows I want to keep taking things slow even after we're sharing a bedroom, and he promised he's completely fine with just holding me and taking our time until we're settled. Besides, Williamsburg is just right up I-64 on the Peninsula. The Williamsburg Transportation Center is right down the street from Brandon's apartment on Virginia Avenue. CTTA buses run right from the station down to Lee Hall to connect with CVTA routes in Newport News, and we still have our phones and instant messaging every single day. Promise me you'll call me whenever Tiffany is at work so we can talk just the two of us?"
-
-"Twin's promise," I whispered against her hair, holding my sister close inside the studio apartment that had been our very first home as adults. "And if you ever need me for anything at all—day or night—you call me or come straight down to Ocean View, okay?"
-
-"I will, Nate," Katie smiled, sitting back and wiping a tiny tear from her eyelashes as Dad and Brandon walked back down the hallway to pick up the final computer boxes. "Everything is going to be great for both of us."
-
-Twenty minutes later, outside in the crisp November sunshine by the circular brick lamppost planter in front of the Greenway Court building, Katie transferred into the front passenger seat of Brandon's sedan while Brandon and Dad carefully folded and stowed her compact SwiftChair in the trunk.
-
-As Brandon's car pulled out of the parking lot onto Greenway Court heading toward Interstate 64 West and Williamsburg, and I rolled down the sidewalk toward Granby Street to catch the northbound Route 1 bus back to Tiffany and Sea Breeze West Apartment 3, Katie waved to me through the passenger window with two crossed fingers pressed against the glass.
-
-For the first time in nineteen years, my twin sister and I were living in two different cities.
-
-### Part 4: The Worst Christmas Ever: Eighteen Stops to Dirty Old Tonomy Hill, Four Days with Cousin Chelsea, & The West Main Road Shortcut Home
-
-**Date:** 2004-12-24 at 15:30 America/New_York
-
-![Outside the World War II-era Tonomy Hill public housing apartments in Newport, Rhode Island on Christmas Eve, December 24, 2004, 19-year-old Nathaniel Prairie sits in his black motorized SwiftChair power wheelchair hugging his grieving 22-year-old cousin Chelsea while Tiffany Sloan stands nearby with her arms crossed as the OSTA Route 63 bus pulls away.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/dec_2004_newport_tonomy_hill_osta_route_63_arrival_chelsea.jpg)
-
-#### Friday, December 24, 2004, 3:30 PM — Eighteen Stops to Dirty Old Tonomy Hill & The Worst Christmas Ever
-
-![Outside the World War II-era Tonomy Hill public housing apartments in Newport, Rhode Island on Christmas Eve, December 24, 2004, 19-year-old Nathaniel Prairie sits in his black motorized SwiftChair power wheelchair hugging his grieving 22-year-old cousin Chelsea while Tiffany Sloan stands nearby with her arms crossed as the OSTA Route 63 bus pulls away.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/dec_2004_newport_tonomy_hill_osta_route_63_arrival_chelsea.jpg)
-
-"Another girl," twenty-year-old Tiffany retorted, with what sounded like a sharp hint of anger in her voice, as the blue-and-white Ocean State Transit Authority Route 63 bus hissed away from the curb on Dirty Old Tonomy Hill on Friday afternoon, Christmas Eve, and left the two of us in the biting Rhode Island December wind outside the weathered World War II-era public housing buildings.
-
-"I thought I told you that all my cousins are women. There really are no men in my life," I replied from my compact SwiftChair, answering that exact question for what seemed like the millionth time while my cold fingers gripped the joystick controller.
-
-We were in Newport, Rhode Island—my dad David's birthplace and childhood home—at the end of an exhausting overnight and daylong Pathfinder bus marathon that had left every muscle in my shoulders and back aching. Because our Aunt Elizabeth had died earlier that year from her lifelong smoking, and our Grandma Ruth had passed away not long before her, our twenty-two-year-old cousin Chelsea was facing her very first Christmas without her mother. When Dad had helped buy my Pathfinder ticket up to Rhode Island so Chelsea wouldn't spend Christmas completely alone, I had originally hoped Katie and I would make the trip together. Instead, with Katie now living up in Williamsburg with Brandon, Tiffany had flatly refused to hear of Katie coming with us and insisted on making the multi-day holiday trip with me herself.
-
-Getting from Norfolk to Newport by bus on Christmas Eve had been a grueling eighteen-leg haul up the Eastern Seaboard, with drivers unfolding the coach wheelchair lift for my SwiftChair at four separate transfer terminals along the way. We had started at the downtown Pathfinder station in Norfolk, rolled across the harbor to Hampton and up I-64 to the Williamsburg station, and ridden into Richmond, where we changed buses for the run north through Fredericksburg and Springfield into Washington, D.C. In Washington we changed buses a second time, riding north into Downtown Baltimore on West Fayette Street—where our driver had to exit I-95 onto I-395 and crawl through block after block of congested downtown Baltimore traffic lights—before continuing up through Newark, Delaware and Philadelphia into the crowded underground gates of the Port Authority Bus Terminal in New York City. After changing buses a third time in Manhattan, we had rolled up the Connecticut coast through Bridgeport and New Haven, passed through the steel skyline of Braxton, Rhode Island and downtown Providence, and pulled into Boston's South Station—where we changed buses a fourth time for the run south through Fall River, Massachusetts into the Newport Gateway Center, finally paying our cash fare onto the local OSTA Route 63 bus up to Tonomy Hill.
-
-In December 2004, Tonomy Hill—which everyone in Newport called Dirty Old Tonomy Hill—was still a sprawling complex of faded, aging World War II-era defense-worker public housing apartments perched on the wind-swept ridge on the north side of town.
-
-Before Tiffany could make another angry remark on the cracked concrete walk, the front door of the nearest World War II-era building swung open.
-
-"Welcome to Newport!" cried a voice as I saw my cousin Chelsea hurrying down the low wooden entry ramp toward my wheelchair as fast as her struggling gait would carry her and pulling me into a tight squeeze hug. "I hope you enjoy Christmas with me," she whispered against my coat collar, her speech slurred due to her developmental disability.
-
-A single tear leaked from the corner of her eye. Aunt Liz's heavy smoking while pregnant was the reason Chelsea had been born developmentally delayed and with severe chronic asthma that required her to keep both her regular maintenance inhaler and her rescue inhaler with her at all times—yet Aunt Liz was still her mother, and facing this first Christmas without her weighed heavily on Chelsea's heart.
-
-"You like my boyfriend?" Tiffany asked beside us, disgusted.
-
-"He and Katie are my only family, my only cousins," Chelsea replied excitedly, not fully comprehending the hostile meaning behind Tiffany's words. She took us into the apartment building and up the interior ramp into her living room. "You two make yourselves comfortable on the couch. I'm going to take a badly needed shower."
-
-"She seems to really like you a lot," Tiffany groaned as soon as the bathroom door clicked shut and the water began running.
-
-"She doesn't understand some things about life," I said, none too happily, braking my SwiftChair near the sofa. "She hasn't seen me since we were younger and she's just very excited to see me. Think about how you feel about your brother when he comes to town."
-
-Tiffany didn't respond to that comparison, but our arguments went back and forth across the living room—with Tiffany's voice rising into harsh, angry screaming—when suddenly we heard the bathroom door fly open.
-
-Because the sound of Tiffany screaming at me through the bathroom wall was so distressing to Chelsea that she genuinely feared for my safety—deciding in an instant that protecting her cousin was far more important than her modesty—Chelsea came running out of the shower soaking wet and completely naked, dripping soapy water across the floor without a care in the world that she was standing there wearing nothing at all.
-
-"Why are you two fighting?" she asked in a frightened, slurred voice.
-
-Tiffany was startled by her sudden appearance in the buff, and immediately seemed angry that I wasn't shocked at all. Keeping my eyes respectfully averted toward the hallway wall, I was remembering from childhood—like the Christmas at our house in Virginia Beach when we were nine—that our family constantly had to remind Chelsea to stay dressed, and that she sometimes ran around the house naked when she was younger without realizing she needed clothes on.
-
-"Come on, Chelsea, let's get you dried off and dressed," I said calmly, rolling my SwiftChair forward, grabbing a large dry bath towel off the hall shelf, and guiding her back into the bathroom. "Tiffany doesn't grasp that you don't understand some things."
-
-Closing the bathroom door behind us and wrapping the thick towel completely around her shoulders to cover her, I added gently, "I remember when you'd run around the place naked when we were kids, Cous."
-
-"I wish it was just you and Katie," she whimpered, her chest hitching with a tight asthmatic wheeze as she started to have a full emotional breakdown. After taking a shaky puff from the rescue inhaler she kept right beside the sink alongside her regular inhaler, she started holding onto me tightly, scared out of her mind by Tiffany's screaming.
-
-"Let's get you dressed and try to have a good time," I said softly, rubbing the towel over her shoulders to dry my cousin off as best as I could while keeping her completely covered so her dignity stayed in place.
-
-***
-
-#### Friday, December 24 – Monday, December 27, 2004 — The Christmas Eve Nightmare, Four Days Under Siege, & The West Main Road Shortcut Home
-
-"She seems to have a crush on you," Tiffany spat quietly right after the three of us finished Christmas Eve dinner.
-
-"Please don't be mean to her. There are some things she doesn't understand," I tried to explain again to Tiffany.
-
-"I really don't give a damn," Tiffany snapped out loud. "First you have a sister and now a cousin. I'm starting to wonder where your loyalties are!"
-
-"I don't care when you're close with your brother," I replied, my temper starting to rise as Chelsea stood by the counter and started tearing up. "Now look, she's crying! You frightened her! Look, I'm really the only family she has left along with my sister. Her mother—my aunt—died. Our grandmother died. She has no one but herself here in Newport. I'm the closest family, being in Virginia! So what if she loves me? She doesn't understand certain concepts such as the difference between family love and girlfriend love!"
-
-Chelsea tugged at my arm as she was heavily in tears, wheezing through her sobs as she pulled me toward her bedroom.
-
-"Just him!" Chelsea sobbed angrily when Tiffany stood up and tried to follow us into the room. The moment my wheelchair rolled inside, Chelsea slammed the bedroom door in Tiffany's face and turned the lock.
-
-"She's mean to you and she's mean to me!" Chelsea sobbed as she reached for her inhalers on the dresser and then immediately started pulling off her clothes to get into bed, blurting out through her tears without any filter at all, "I don't care that I'm naked. I always sleep naked!"
-
-Keeping my eyes fixed on her tear-streaked face while I reached out and pulled the heavy bed quilt all the way up over her shoulders to keep her covered, I tried to calm my cousin down. She was an absolute emotional wreck.
-
-"It's Christmas Eve. Let's try to salvage it?" I asked gently.
-
-"Promise you will never bring her again. Only Katie! Tiffany's mean to you and me too!" Chelsea was sobbing with very heavy tears streaming from her eyes, and there was nothing else I could get out of her.
-
-"Chelsea, could we please try to salvage tonight?" I asked softly, wanting her to stop crying.
-
-She didn't respond as her crying intensified. Instead, terrified that if I rolled back out into the living room Tiffany would start screaming at me all over again, Chelsea clutched my sleeve through her tears and insisted that I transfer out of my wheelchair and climb into bed beside her—with me staying fully dressed in my jeans and sweater on top of the sheet under the edge of the quilt while she clung to my arm—so she wouldn't have to hear Tiffany and me fight.
-
-There was going to be no changing Chelsea's mind: she hated my girlfriend with every fiber of her body, and my girlfriend hated her just as much.
-
-Because our return Pathfinder tickets weren't scheduled until Monday after Christmas, we were stuck at Tonomy Hill for three full nights—Christmas Eve, Christmas Day, and Sunday night. Every single day, whenever Chelsea hugged me or kissed my cheek the way she always had since we were little kids, Tiffany glared at her with open fury and hissed at me that my cousin had a crush on me. Because of Chelsea's developmental disability, she genuinely didn't understand what made family love different from romantic love; I had never once in my life stopped Chelsea from hugging or kissing me in the past, and I wasn't about to start pushing her away now and scare my grieving cousin who simply didn't understand how life worked sometimes. And every single night of the visit, refusing to listen to Tiffany yell at me in the living room, Chelsea locked her bedroom door against Tiffany and made me stay in her room with her until morning—leaving Tiffany out on the living-room sofa, seething with rage.
-
-By Monday morning, December 27, when it was finally time to head back to Virginia, the tension inside the apartment was suffocating.
-
-Looking at our printed Pathfinder return tickets, Chelsea noticed a problem right away: our tickets started at the Newport Gateway Center on a local bus to Fall River, Massachusetts, where we were supposed to change buses for a connecting run to Providence that departed only five minutes later. Even with her developmental delays, Chelsea knew Newport transit cold—and she knew that with a driver having to unload my SwiftChair on the wheelchair lift in Fall River, a five-minute transfer window meant we would miss the connecting bus to Providence for sure.
-
-"Don't go down to the Gateway Center for the Fall River bus," Chelsea told us earnestly by the front door, taking a puff of her regular morning inhaler and pointing past the World War II-era buildings toward the paved walking path that cut down the eastern slope of Tonomy Hill. "Take the walking path right over to West Main Road and catch the OSTA Route 60 bus straight to Kennedy Plaza in Providence. Then you won't miss your New York bus."
-
-Giving Chelsea one last tight hug at the top of the ramp—and whispering in her ear that next time it really would be just Katie and me—I rolled down the Tonomy Hill walking path with a silent, fuming Tiffany walking beside me out to West Main Road.
-
-Just as Chelsea had promised, the blue-and-white OSTA Route 60 bus picked us up on West Main Road, carried us north across Aquidneck Island and over the Mount Hope Bridge straight into Kennedy Plaza in downtown Providence with plenty of time to spare, and let us board our scheduled Pathfinder NYC Express right on our Newport tickets without ever setting foot in Fall River.
-
-From Providence, the NYC Express carried us nonstop down to the Port Authority Bus Terminal in New York City, where we changed buses for the southbound run through Philadelphia and Wilmington, Delaware into Maryland. Unlike our northbound trip that had crawled through the traffic lights of Downtown Baltimore on Fayette Street, our southbound driver stayed right on I-95 and pulled into the highway-side bus bays at the Baltimore Travel Plaza on O'Donnell Street for a quick break before continuing into Washington, D.C.
-
-In Washington we changed buses again, rolling south down I-95 through Fredericksburg into Richmond, where we made our final Pathfinder bus change for the last leg down Interstate 64 toward Hampton Roads.
-
-An hour east of Richmond, the coach exited the interstate and pulled into the bus bays at the Williamsburg Transportation Center.
-
-Staring out the tinted coach window at the brick station platform under the evening streetlights, my heart gave a hard, sudden thud against my ribs. Two blocks down the street from that platform, on Virginia Avenue, was my twin sister Katie. Beside me in the double seat, Tiffany had her arms crossed tightly over her chest, still radiating cold fury over Chelsea and the four days in Newport.
-
-For two full minutes while the driver stood outside by the open luggage bay, I gripped my armrests and seriously considered calling out to the driver to bring my SwiftChair out of the bay right now—getting off the bus right here in Williamsburg, rolling down Virginia Avenue to Katie's front door, and telling my twin sister the whole truth about how miserable I was.
-
-Then the driver swung the luggage bay doors shut, climbed back up the steps, and released the air brakes. Swallowing the lump in my throat, I stayed in my seat beside Tiffany as the coach pulled out of Williamsburg, rolled through Hampton and across the Hampton Roads Bridge-Tunnel into Downtown Norfolk, and dropped us at the Norfolk terminal—where Tiffany and I transferred in silence onto the northbound CVTA Route 1 bus back to our apartment in Ocean View.
-
-### Part 5: Five Buses from Williamsburg — The Ninety-Second Window, Crown Burger, & The Last Route 61 Across the Water
-
-**Date:** 2005-11-12 at 15:38 America/New_York
-
-![Inside the living room of Sea Breeze West Apartment 3 on the rainy Saturday night of November 12, 2005 after Katie's five-bus escape from Williamsburg, twenty-year-old Katie sits wrapped in a dry towel and Nate's navy-blue sleeping bag on the bright green sofa while her twin brother Nate holds both of her hands from his compact SwiftChair power wheelchair]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_rainy_night_katie_five_bus_arrival_sanctuary.jpg)
-
-#### Saturday, November 12, 2005, 3:38 PM — Virginia Avenue, The Canadian Healthcare Lie, & The Only Arms That Felt Safe
-
-Rain lashed against the living room window of the ground-floor apartment on Virginia Avenue near the College of Charles and Anne as Brandon yanked the zipper shut on his overstuffed canvas duffel bag and dropped it onto the carpet beside the front door.
-
-"Once we cross that river into Windsor tomorrow, all the red tape you've been whining about down here disappears," Brandon said, pacing past the front of my SwiftChair while he shoved a printed stack of internet maps into his coat pocket. "Canada has universal healthcare, Katie. Every prescription you take, every physical therapy visit, every wheelchair motor part—all of it is completely free up there. We won't need your father's insurance, and we won't need your brother meddling in our business."
-
-I kept my eyes fixed on my canvas messenger bag resting across my lap, my hands folded tightly over the flap where my birth certificate folder, my wallet with my state identification card, my daily maintenance medication pouch, and my flip phone were tucked inside. Even at twenty years old, I knew enough about how government eligibility rules worked to know that two United States citizens cannot just roll off a tunnel bus in Ontario on a tourist pass and be handed provincial health cards. Brandon hadn't researched a single residency requirement. He was lying to himself—or lying to me—because the truth didn't matter to him once he got me across an international line where I couldn't get back.
-
-Brandon stopped right behind my shoulders and clamped both of his heavy palms down onto the rubber push-handles of my chair, leaning over the top of my backrest so his breath brushed my ear.
-
-"Up there, it's going to be just you and me," Brandon murmured, sliding his hands down from the handles to wrap his arms awkwardly and tightly around my shoulders from behind. "I'm going to be the one taking care of you from now on, Katie. Just me. Nobody else."
-
-I stiffened against the backrest, holding my breath until he let go.
-
-Even after fourteen months in Williamsburg, Brandon still had no idea how to hug me properly. He always grabbed me from above or behind while standing over my wheelchair, pressing down on my collarbone and pinning my arms against my armrests so I felt trapped in a vise. Every time his hands touched my shoulders now, my skin crawled. I didn't want him touching me anymore.
-
-Through the rain-streaked light beside the door, I glanced at the red numbers on my digital clock radio sitting on the end table: three-thirty-eight in the afternoon.
-
-Our northbound ARTS train wasn't scheduled to pull into the Williamsburg station until early evening, yet Brandon insisted on marching over to North Boundary Street two hours early so he could buy the multi-city rail and tunnel-bus vouchers in cash at the counter before the afternoon clerk went off shift.
-
-As he bent down to lace up his boots by the door, a memory flashed sharp and clear behind my eyes. Two weeks earlier, when we had crossed North Boundary Street past the brick train depot, I had seen a white-and-colonial-blue Colonial Triangle Transit Authority bus idling at the north end of the station island with *NEWPORT NEWS* glowing across its front destination sign.
-
-At the time, it had just been a passing detail on a street corner. Now, at three-thirty-eight on a freezing Saturday afternoon with Brandon slinging his duffel bag over his shoulder, that bus sign was the only lifeline left between me and the Canadian border.
-
-There was only one man on this earth I wanted right now, and he was forty-five miles away across the harbor in West Ocean View.
-
-My chest ached so fiercely for Nate that my throat closed up. I didn't want Canada, and I didn't want a boyfriend hovering over my wheelchair pretending to be my savior. I wanted my twin brother. I wanted to be back in a quiet, dark closet with the door shut against the world and a heavy sleeping bag zipped up around the two of us on the carpet, just like we had done in our West Ghent studio apartment whenever the noise and the fear of the outside world got too loud to bear. I wanted to curl up against Nate's chest in the pitch dark, feel his arms wrap around me at my own level without pinning me down, and breathe in the familiar, safe warmth of his cuddles—the only set of arms in the world where my nervous system ever went completely still.
-
-"Come on, switch your drive levers to freewheel and get your hood up," Brandon ordered, pulling the apartment door open to the cold November wind and grabbing my rear push-handles again before I could even touch my joystick. "We're walking over to the depot right now so I can get the tickets printed at the window."
-
-As my tires rolled out onto the wet sidewalk of Virginia Avenue toward North Boundary Street, I kept my left hand pressed over my messenger bag and stared straight ahead through the rain.
-
-The second Brandon walked inside that station building to stand in line at the ticket counter, I wasn't waiting for him to come back out. I was going to find that Newport News bus, and I was going home to my brother.
-
-***
-
-#### Saturday, November 12, 2005, 3:55 PM — North Boundary Street, The Windsor Tickets, & The Ninety-Second Window onto the CTTA Grey Line
-
-Cold November rain slanted sideways under the dark green overhang of the Williamsburg Transportation Center, spattering against the brick columns along North Boundary Street and soaking the knees of my jeans.
-
-Behind my shoulders, Brandon took his hands off the rubber push-handles of my SwiftChair just long enough to reach down to my rear drive motors and flip both of my motor-brake levers into the locked park position—and then reached over my right shoulder to switch off my armrest joystick controller—parking me under the dripping eaves ten feet from the heavy wooden doors of the depot waiting room. Slung across my lap under my raincoat was my canvas messenger bag, holding my wallet with my state identification card, my birth certificate folder, my daily maintenance medication pouch, and my cell phone.
-
-"Stay right here under the awning and don't move an inch," Brandon said, adjusting the strap of his overstuffed duffel bag across his chest as he glanced through the glass doors at the ARTS ticket counter inside. "The clerk has to print the multi-city rail and tunnel bus vouchers through Washington and Toledo up to Windsor manually at the window. As soon as I have the tickets in my hand, we're rolling out to the platform for the northbound train, and by tomorrow afternoon we'll be across the Canadian border."
-
-My stomach twisted so hard my throat burned. I looked down at my rain-speckled footrests so he wouldn't see the panic in my eyes. I didn't want to get on that train. I didn't want to go to Michigan or Canada, and I didn't want to spend another hour trapped in a room with a man who had spent the last fourteen months cutting me off from my dad and my twin brother.
-
-"You hear me, Katie?" Brandon asked sharply, tapping two fingers against the top of my headrest. "Wait right here. I'll be back in three minutes."
-
-He turned, pushed through the heavy brass-and-glass doors of the station house, and stepped into the queue behind two college students at the indoor ARTS ticket counter.
-
-For five seconds, I sat frozen under the whistling wind, listening to the wet hiss of tires out on Boundary Street.
-
-Then, forty feet to my left along the curved transit island at the north end of the brick plaza, air brakes sighed against the slick pavement.
-
-A white-and-colonial-blue bus with Colonial Triangle Transit Authority painted across its flank pulled into the end bay beneath the bus shelter. Above its wide windshield, the amber electronic destination sign cycled through two words that made my heart slam against my ribs:
+A white-and-colonial-blue transit coach with Colonial Triangle Transit Authority painted along its side pulled into the bay, its amber front destination sign illuminating in crisp block letters:
 
 *GREY LINE — NEWPORT NEWS / LEE HALL.*
 
-I didn't have a printed Coastal Virginia Transit Authority timetable in my bag, and I had no idea what transfers it would take to get all the way across the harbor on a rainy Saturday afternoon. All I knew was the map of the Peninsula Dad and Nate and I had memorized when we were teenagers: Newport News sat straight down Route 60 toward Hampton and the bridge-tunnel, and once you reached Lee Hall in Newport News, the blue-and-gold CVTA buses ran south into the heart of the city and across the water to Norfolk.
+Nate and I turned our heads toward each other at the exact same instant.
 
-Through the tall multipane window of the depot waiting room, I caught a glimpse of Brandon's back. He had just stepped up to the counter, pulling his wallet out of his back pocket while the ticket agent typed into her terminal.
+Neither of us knew the Williamsburg or Peninsula bus networks at all, and neither of us had the faintest idea whether it was even possible to string city transit buses together all the way from Williamsburg back to Dad's house in Virginia Beach before nightfall. All we knew from basic Tidewater geography was that Newport News lay southeast straight down the Peninsula toward the harbor—away from Brandon, closer to the water, and closer to home.
 
-It was now or never. If I waited ninety more seconds, Brandon would walk back through those doors with two one-way train tickets to the Canadian border, and I might never see Nate or Dad again.
+"Newport News goes down the Peninsula," Nate said quietly, his blue eyes locking onto mine without a flicker of hesitation. "Now or never, Katie."
 
-My right hand trembled as I pressed the power button on my armrest controller, saw the green battery lights flash to life, and pushed my joystick full forward.
+"Let's go," I breathed.
 
-My SwiftChair hummed across the wet brick pavers of the platform, splashes of rainwater kicking up off my front casters as I rolled straight past the station overhang toward the bus bay. Up at the front doors of the CTTA coach, the driver spotted my wheelchair coming through the rain and immediately flipped his toggle switch.
+Both of us pushed our right-hand joysticks forward in unison. Spotting two compact black powerchairs rolling straight up to the yellow curb strip, the CTTA Grey Line operator immediately flipped his suspension switch; the front of the bus knelt with a pneumatic sigh, and the aluminum ramp unfolded cleanly onto the brick apron.
 
-The front air suspension knelt with a loud pneumatic whoosh, and the hydraulic aluminum ramp unfolded and clanged down onto the wet concrete curb.
+Nate rolled up the diamond-plate incline first and backed swiftly into the driver-side securement bay, and I drove right up behind him and backed into the passenger-side wheelchair bay thirty seconds later. While the operator swiftly hooked all eight four-point floor tie-down straps onto our frames and we fed our dollar bills and quarters into the farebox, neither of us looked back once toward the blind brick wall of the station house.
 
-I didn't look back toward the station doors. I lined my front casters up with the yellow side rails, drove straight up the steep wet diamond-plate incline into the warm interior of the bus, and spun my chair around in the front vestibule to back into the forward wheelchair securement bay.
-
-"Nasty rain out there this afternoon, sweetheart," the driver said kindly, rising from his seat to pull the four SafeLock floor straps out from their retractors and hook them onto my frame. "Where are you headed down the line?"
-
-"All the way to the Lee Hall transfer stop in Newport News, please," I said, my voice shaking so hard I barely recognized it as I pulled a crumpled dollar bill and two quarters out of my coat pocket and pushed them into the farebox slot.
-
-"Lee Hall it is," the driver said, clicking the lap belt across my waist and stepping back up to his seat. "Hang on tight."
-
-He hit the switch. The hydraulic ramp folded up inside the doorway, the dual glass doors hissed shut, and the driver released the air brakes, pulling the bus out of the Williamsburg Transportation Center bay and turning left onto North Boundary Street.
-
-As the coach accelerated past the south end of the brick station house, I looked out through the rain-streaked left window.
-
-Right at that exact second, the heavy wooden doors of the depot swung open.
-
-Brandon walked out onto the wet brick platform holding a yellow paper ARTS ticket jacket in his right hand. He took two steps toward the spot under the overhang where he had left me—and stopped dead in his tracks, staring at the empty patch of wet brick.
-
-Even through the pouring rain and fifty feet of distance, I saw his head whip frantically to the left, then to the right, his mouth dropping open as he scanned the empty platform. A second later, he shoved the train tickets into his coat pocket and yanked his cell phone out of his belt clip.
-
-Inside my canvas bag on my lap, my phone began to vibrate against my leg.
-
-I reached into my bag, pulled out my flip phone, and stared down at the glowing outside screen as the CTTA bus turned the corner onto Lafayette Street and left the Williamsburg train station behind in the rain.
-
-*BRANDON MERCER — CALLING.*
-
-I didn't flip the phone open. Instead, I held down the side volume button to silence the ringer, let the call go unanswered to voicemail, and watched the streetlamps of Williamsburg blur past in the November dusk as the bus carried me south toward Newport News and my brother.
+At four-oh-one sharp, the ramp folded upright, the dual doors hissed shut, and the Grey Line pulled out onto North Boundary Street and swung east down Route 60—leaving Brandon Mercer standing inside an enclosed waiting room buying two full-price, non-refundable Regular Adult train tickets to Michigan for a trip he was about to make completely alone.
 
 ***
 
-#### Saturday, November 12, 2005, 4:30 PM — Lee Hall, CVTA Route 116, & Warm Food and a Clean Restroom at Crown Burger
+#### Saturday, October 16, 2004, 4:35 PM — Improvising Stop by Stop: Lee Hall, Route 116, Crown Burger at Warwick & Denbigh, & Calling Dad From Newport News
 
-![Inside the warm Crown Burger restaurant at the corner of Warwick Boulevard and Denbigh Boulevard in Newport News on the rainy Saturday afternoon of November 12, 2005, 20-year-old Katie Prairie sits in her black motorized SwiftChair power wheelchair eating a warm cheeseburger and french fries while watching the CVTA bus stop through the rain-streaked window during her five-bus escape from Williamsburg.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_warwick_denbigh_crown_burger_rain_refuge_katie.jpg)
+Once the brick walls of Colonial Williamsburg gave way to pine trees and the long four-lane stretch of Route 60 East past Brewster Gardens, the adrenaline humming in my ears gave way to pure timetable problem-solving.
 
-For thirty minutes down Pocahontas Trail alongside the freight railroad tracks, my flip phone vibrated inside my canvas bag every three minutes like a trapped hornet.
+"Excuse me, sir," Nate called forward politely from his securement bay as the Grey Line slowed toward the city line at Lee Hall. "My sister and I know all the CVTA routes over in Norfolk and Virginia Beach, but we've never ridden down the Peninsula before. Does a Coastal Virginia Transit bus connect here at Lee Hall going south toward downtown Newport News and the bridge-tunnel?"
 
-Each time the little outer screen lit up with Brandon's name, I kept my thumb pressed over the side button to mute it without opening the hinge. If I answered—even for five seconds to tell him we were finished—he would hear the diesel engine of the bus or the automated stop chime and figure out I was heading south down the Peninsula toward Newport News instead of hiding somewhere in Williamsburg.
+"Sure does," the CTTA driver called back warmly, glancing into his wide interior mirror. "Right across the shelter loop at Lee Hall you'll catch CVTA Route 116 heading south down Warwick Boulevard past Fort Eustis. Take the 116 down to Warwick and Denbigh, and from there the main trunk routes run all the way into the Newport News Transit Center downtown, where the cross-water Expressways bus leaves for Norfolk."
 
-At exactly four-thirty, the CTTA Grey Line bus pulled off Warwick Boulevard onto the shoulder at Elmhurst Drive in Lee Hall, right behind a waiting white-and-blue Coastal Virginia Transit Authority low-floor transit coach idling at the transfer shelter with *116 MALL-HALL LOOP* glowing across its headsign.
+"Thank you!" I called out, reaching across the aisle between our two securement bays to squeeze Nate's fingers as the bus pulled into the Lee Hall transfer stop.
 
-"Right on time for your CVTA connection," the Grey Line driver smiled, unclipping my four floor straps and lowering the front ramp into the drizzle. "Tell the 116 operator I held the horn for you!"
+Five minutes later, a blue-and-silver CVTA Route 116 coach knelt at the Lee Hall curb, and we rolled aboard for Leg Two south down Warwick Boulevard. Sitting side by side behind the driver as afternoon traffic thickened past the brick gates of Fort Eustis, Nate asked the Route 116 operator for pocket paper timetables for the southbound Warwick routes and the cross-harbor Expressways line. Spreading the folded brochures across our laps, our eyes scanned the columns together the way we had read transit schedules since high school.
 
-Rolling thirty feet through the rain from one ramp straight up onto the next, I dropped my fare into the CVTA farebox, asked the operator for a paper transfer slip, and backed into the forward bay as Route 116 pulled back onto Warwick Boulevard heading south.
+"Hold on—look closely at the arrival column at Warwick and Denbigh," Nate pointed with his index finger as our stomach rumbles reminded both of us we hadn't eaten anything since toast at nine that morning. "When we get off the 116 at Warwick and Denbigh, Route 106 comes in fifteen minutes—and look at its arrival time at Newport News Transit Center: five-forty-five."
 
-Fifteen minutes later, at four-forty-five, the bus turned into the transfer stop at the corner of Warwick Boulevard and Denbigh Boulevard beside the Newport Crossing Shopping Center.
+I traced my finger across to the Expressways Route 61 timetable right beside it, and my breath caught.
 
-"If you're heading downtown toward the shipyard and the transit center, honey, Route 106 pulls in right here at five o'clock, and Route 107 comes through at five-thirty," the woman sitting across the aisle told me kindly as the driver unhooked my straps.
+"There's a Route 61 leaving Newport News at five-forty-five, and then the very last Route 61 of the night crossing the Hampton Roads Bridge-Tunnel leaves at six-forty-five!" I said. "A five-forty-five arrival on the 106 for a five-forty-five departure on the 61 has zero margin for error—if Friday-style weekend traffic slows the 106 by sixty seconds, we miss the five-forty-five bus and have to sit out in the open at the transit center for a whole hour right when Brandon might be driving down I-64 looking for us!"
 
-"Thank you, ma'am," I said, rolling down the ramp onto the wet sidewalk.
+"Now look one column to the right at Route 107," Nate said, tapping the next line. "Route 107 comes forty-five minutes from now at Warwick and Denbigh, and it pulls into Newport News Transit Center at six-fifteen—giving us a rock-solid thirty-minute buffer to make sure both of our chairs are first in line for the two wheelchair bays on the six-forty-five Route 61!"
 
-Through the rain across the intersection, the glowing red-and-gold sign of a Crown Burger restaurant shone against the gray four-forty-five twilight. My stomach cramped so sharply I had to press my left forearm across my waist. In the chaos of Brandon spending the whole afternoon packing his duffel bag, demanding my birth certificate folder, and marching me over to North Boundary Street, I hadn't eaten a single bite of food since a piece of toast at eight o'clock that morning—and after nearly an hour of sheer adrenaline in the cold rain, I badly needed to use a restroom.
+When the Route 116 knelt at the bustling corner of Warwick Boulevard and Denbigh Boulevard just before four-fifty, Nate and I spotted the red-and-gold sign of a Crown Burger fifty yards back from the intersection with an accessible curb cut leading straight to its side entrance. Rolling inside out of sight of every car passing down Warwick Boulevard, we took turns using the clean, accessible restroom, washed our hands and faces in warm water, and parked wheel-to-wheel at a corner booth away from the street windows with two hot cheeseburgers, a large basket of salty fries, and two cups of ginger ale.
 
-If I caught the five o'clock Route 106 bus in fifteen minutes, I wouldn't have time to eat or use a bathroom all the way down to the bottom of Newport News. If I skipped the five o'clock bus and caught the five-thirty Route 107 instead, I had forty-five minutes right here.
+For forty-five calm, disciplined minutes—right around the hour Brandon was likely storming back to an empty house in Williamsburg—Nate and I ate every bite, watched the minute hand on Nate's wristwatch, and rolled back out to the bus stop three minutes before Leg Three pulled up to the curb: CVTA Route 107.
 
-Steering my SwiftChair across the crosswalk into the warm, french-fry-scented lobby of the Crown Burger at Warwick and Denbigh, I rolled straight back to the single-user accessible restroom first.
+Both wheelchair bays on the 107 were wide open. Riding south down the lower end of the Peninsula as the October sun sank orange toward the James River, we rolled off the ramp at the Newport News Transit Center right on schedule at six-fifteen in the evening—thirty full minutes ahead of the final six-forty-five cross-water departure, with Bay Four completely clear so our two SwiftChairs sat right at the front of the boarding line.
 
-Locking the heavy door behind me, I transferred cautiously with the wall grab bar, used the clean restroom, and washed my face with warm water and paper towels at the roll-under sink. Looking into the clean mirror above the faucet, I barely recognized the pale, rain-streaked twenty-year-old girl staring back at me—until I thought of Nate waiting across the water in Norfolk and felt the steel come back into my spine.
+And the second we saw the white-and-blue Expressways Route 61 bay sign right beside us, the terrifying guesswork of the Peninsula was over—because once that bus crossed the water to Monticello Avenue in Downtown Norfolk at seven-twelve, Nate and I didn't need a single paper map or schedule anymore. We knew every route, transfer bay, and evening timetable across Norfolk, Chesapeake, Virginia Beach, and Portsmouth completely by memory.
 
-Rolling back out to the front counter at five minutes past five, I ordered a warm junior cheeseburger, a small order of salted fries, and a cup of tap water from the dollar menu. Parking my wheelchair at the farthest corner table where I could watch the Warwick Boulevard bus stop through the plate-glass window, I ate every crumb of the hot burger and fries while my phone buzzed twice more in my bag with silent voicemails from Brandon.
+"Come on—there's a lowered payphone right over by the brick pillar," Nate said, pulling his wallet from his pocket and sliding out the laminated blue-and-white prepaid calling card Dad had tucked behind our State IDs back in June.
 
-At five-twenty-four, with warm food in my stomach and my raincoat zipped up to my chin, I rolled back out to the curb at Warwick and Denbigh just as the headlights of CVTA Route 107—signed *107 DOWNTOWN / 6TH & IVY*—pulled up to the shelter right on schedule at five-thirty.
+Rolling our chairs side by side up to the stainless-steel ADA payphone mounted at seated height on the transit center wall, I lifted the cold armored receiver off the hook, held it between my ear and Nate's so both of us could hear, dialed the toll-free 1-800 access number for free without needing a single quarter, punched in our twelve-digit PIN when the chime sounded, and dialed Dad's home landline on Arvin Road.
 
-***
+ Dad picked up before the second ring even finished.
 
-#### Saturday, November 12, 2005, 6:10 PM — Newport News Transit Center, The Disgusting Women's Restroom, & The Last Route 61 of the Night
+"Hello?"
 
-By the time Route 107 wound its way south through Hilton Village and pulled under the high canopy of the Newport News Transit Center downtown at six-ten, night had fallen completely and the November rain had intensified into a freezing coastal downpour.
+"Dad, it's Katie and Nate!" I said, my voice catching for the first time all afternoon at the sound of our father's voice. "We're at the Newport News Transit Center right now—we left Brandon at the Williamsburg train station on the CTTA bus because he was hurting me and trying to take us somewhere we didn't want to go, and we're coming home!"
 
-"When is the next bus across the water to Norfolk?" I asked the Route 107 operator as he unclipped my tie-down hooks.
+Over the phone line, we heard the kitchen chair scrape back sharply on Dad's linoleum floor.
 
-"Bay D across the island—Route 61 at six-forty-five," the driver answered, glancing at his wristwatch. "And don't miss it, sweetheart. On Saturday nights, that six-forty-five bus is the very last Route 61 across the Hampton Roads Bridge-Tunnel until tomorrow morning."
+"Are both of you safe right now? Did he injure either of you?" Dad asked immediately, his voice dropping into rock-steady focus.
 
-A cold shiver ran down my neck. Thirty-five minutes until the last bus of the night across the harbor—and if I missed it, I would be stranded on the Peninsula overnight on the exact same side of the water as Brandon.
+"We're both right here together at Bay Four and nobody knows where we are," Nate answered into the mouthpiece beside my cheek. "Dad, we're getting on the six-forty-five Expressways Route 61 across the bridge-tunnel—it arrives on Monticello Avenue in Downtown Norfolk at seven-twelve. From Monticello we're taking the outbound Route 20 to Glenrock Mall to catch the seven-forty-five Route 15 south down Military Highway, which puts us at Military Highway and Indian River Road at eight-oh-one. Or do you want to drive across the tunnel to get us?"
 
-Because the rain was blowing sideways under the outdoor bus bays and I wanted to make sure I didn't need a bathroom before a long cross-harbor ride through the bridge-tunnel and Norfolk, I steered my SwiftChair through the sliding doors into the indoor waiting area of the Newport News Transit Center and pushed open the heavy door to the women's restroom.
-
-The instant the door swung open, the stench hit me like a wall, and I stopped my wheels dead on the threshold.
-
-It was, without question, the most disgusting public restroom I had ever seen in my life.
-
-Above the two stained porcelain sinks, the entire left half of the wall mirror had been ripped clean off the wall, leaving a jagged rectangle of bare, splintered plywood dotted with hardened round blobs of black mastic glue. Inside the accessible stall at the end of the row, the metal toilet paper dispenser had been wrenched loose from its mounting bracket and hung crookedly down the beige partition wall by a single rusty bolt, with damp, shredded wads of paper littering the wet tile floor around an unflushed toilet. Across the beige metal stall doors and the white ceramic wall tiles, layers of vulgar black marker graffiti were scrawled over rusted partition bottoms that looked as though they hadn't seen a mop or disinfectant in months.
-
-Holding my breath so my stomach wouldn't turn over, I used the stall as fast as humanly possible without touching a single surface I didn't have to, scrubbed my hands twice with soap at the sink beneath the half-ripped plywood mirror, and backed my SwiftChair out of that bathroom into the cold night air.
-
-*How on earth,* I thought to myself as I rolled out under the bus canopy to Bay D at six-thirty-five, *does a regional transit agency expect working people—let alone someone in a wheelchair—to use a transit center that looks like a condemned building?*
-
-Ten minutes later, at six-forty-five sharp, the amber headsign of the last cross-harbor bus of the night swung into Bay D:
-
-*61 CROSSROADS — EXPRESSWAYS / DOWNTOWN NORFOLK.*
-
-When the driver folded the ramp up behind my wheelchair, strapped my frame into the bay, and pulled out of Newport News toward the interstate—stopping briefly at the Hampton Transit Center at six-fifty-seven before climbing the approach trestle of the Hampton Roads Bridge-Tunnel—I pressed my forehead against the cool glass of the window.
-
-Below the bus windows, the black, white-capped waves of Hampton Roads harbor churned in the storm until the coach plunged downward between the concrete portal walls into the bright, white-tiled tube of the underwater tunnel beneath the Chesapeake Bay.
-
-As the tires hummed through the tunnel beneath the ship channel and climbed back up into the rain on the Southside at Willoughby Spit, I let out a breath I felt like I had been holding since three-fifty-five in Williamsburg.
-
-There was a mile and a half of open water and a submerged concrete tunnel between Brandon Mercer and me now. I was back on the Norfolk side of the harbor.
+"Stay right on that 61 bus at six-forty-five—if I head toward the tunnel now and we pass each other in the tubes, you'll already be in Norfolk before I reach Newport News," Dad said at once, calculating the clock just like we did. "Get across the water on the 61, stay right next to the driver, and I will be standing under the streetlight at the Military Highway and Indian River Road bus stop at seven-fifty waiting for your Route 15 to pull up. Come home, kids. You're almost there."
 
 ***
 
-#### Saturday, November 12, 2005, 8:00 PM — CVTA Route 1 to Duffy's Lane, Portview Avenue in the Pouring Rain, & Knocking on Nate's Door
+#### Saturday, October 16, 2004, 6:45 PM – 8:01 PM — Under the Bay on Expressways Route 61, The Open-Radio 10-16 Hold, & Dad Waiting Under the Streetlight
 
-![Inside the living room of Sea Breeze West Apartment 3 on the rainy Saturday night of November 12, 2005 after Katie's five-bus escape from Williamsburg, twenty-year-old Katie sits wrapped in a dry towel and Nate's navy-blue sleeping bag on the bright green sofa while her twin brother Nate holds both of her hands from his compact SwiftChair power wheelchair]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_rainy_night_katie_five_bus_arrival_sanctuary.jpg)
+At six-forty-two, a high-backed CVTA Expressways coach with *61 DOWNTOWN NORFOLK* lit up across its front sign backed into Bay Four, knelt at the curb, and locked both of our SwiftChairs into the two forward securement bays.
 
-Because the six-forty-five Saturday night trip on Route 61 was an Expressways run that terminated in Downtown Norfolk instead of continuing out to Virginia Beach, the driver let me off at the Wards Corner transfer stop at Granby Street and Little Creek Road at seven-nineteen.
+At six-forty-five on the dot—the very last transit bus of the night crossing Hampton Roads—the doors hissed shut and Leg Four pulled onto Interstate 64 East. Ten minutes later, as dusk deepened into purple night over the Chesapeake Bay, our tires hummed across the concrete trestle onto the North Island and plunged downward between the gleaming white ceramic wall tiles and bright fluorescent ceiling tubes of the Hampton Roads Bridge-Tunnel.
 
-For forty-one minutes between seven-nineteen and eight o'clock, there was nowhere to hide from the storm.
+Holding Nate's hand tightly across the narrow center aisle while salt air and tunnel exhaust rushed past the sealed windows beneath sixty feet of open bay water, I felt my shoulders drop two full inches for the first time since July. Once that bus climbed up into the lights of Willoughby Spit on the Norfolk side, the entire harbor stood between us and Williamsburg.
 
-Parked as close as I could get against the shallow brick storefront awning at the corner of Granby and Little Creek while sheets of icy November rain blew off the passing headlights and soaked through my raincoat, my jeans, and my sneakers, I tucked my canvas messenger bag inside my jacket against my chest so my birth certificate, my medication pouch, and my cell phone stayed dry, and draped my left sleeve over my right-hand joystick controller to protect the electronics from the water.
+True to the printed timetable, Expressways Route 61 glided to the curb on Monticello Avenue in Downtown Norfolk at seven-twelve sharp.
 
-At eight o'clock on the dot, the glowing headsign of northbound CVTA Route 1—*1 GRANBY ST / OCEAN VIEW*—splashed to a stop at the Wards Corner curb.
+Rolling down the ramp onto familiar Southside concrete, our lifelong transit memory took over on pure instinct. Three minutes behind us down Monticello came Leg Five—an outbound CVTA Route 20 coach signed for Glenrock Mall and Virginia Beach Boulevard. As the driver knelt the front ramp and crouched down to clip the floor straps onto my frame and Nate's, Nate looked up politely at his name badge.
 
-Shivering so hard my teeth clicked together, I rolled up the ramp for my fifth bus ride of the afternoon and evening, riding thirteen minutes straight north up Granby Street until the operator called out my stop at eight-thirteen:
+"Excuse me, sir—we're trying to make the seven-forty-five outbound Route 15 connection at Glenrock Mall heading south down Military Highway to Indian River Road," Nate told him earnestly.
 
-"Duffy's Lane and Ocean View Avenue!"
+The veteran night-shift operator took one look at the two nineteen-year-old twins sitting side by side in compact powerchairs with everything we owned strapped to our backs and a rolled-up sleeping bag tied behind Nate's seat, glanced at his dashboard clock reading seven-seventeen, and gave us a single warm nod.
 
-Rolling down the ramp into the pouring dark at Duffy's Lane, I didn't wait a second. Keeping my speed dial turned all the way up and my left hand shielding my joystick from the driving rain, I cut straight across the glistening asphalt of the shopping center parking lot and turned north onto Portview Avenue.
+"We hit all the green lights down the Boulevard, I'll get you in that loop," the driver said, climbing into his seat and heading east out Virginia Beach Boulevard past Park Avenue, Tidewater Drive, and Ballentine.
 
-Half a block up Portview Avenue on my right stood the white-painted two-story courtyard building of Sea Breeze West, with the black numbers *2 3 3* mounted on the front wall and the small tree-shaded courtyard opening to the right.
+Even with steady evening traffic, both Nate and I knew the math in our heads: unstrapping two electric wheelchairs and deploying a hydraulic ramp takes three to four extra minutes—just enough time on a tight pulse transfer for the seven-forty-five outbound Route 15 to release its air brakes and pull out of Glenrock Mall right in front of us, stranding us in an dark mall parking lot for another hour.
 
-And right there at the near end of the courtyard walk—the very first door on my right as I turned in from Portview Avenue—glowed the porch light of Apartment 3.
+Right as our bus crossed the Broad Creek bridge five minutes west of the mall, our Route 20 operator reached down beside his farebox, unhooked the coiled black cord of his open-channel two-way analog dispatch radio, and thumbed the push-to-talk key so every bus on the Southside evening frequency heard his call sign crackle out loud:
 
-At eight-twenty, soaked to the bone and trembling from head to foot after four hours and twenty minutes across five buses in the rain, I rolled my SwiftChair right up to the wooden door, raised my freezing fist, and pounded on the wood with everything I had left:
+"Outbound Twenty to the outbound Fifteen sitting at Glenrock—you copy?"
 
-"Please let me in!"
+For two heartbeats, quiet white static hissed from the small metal speaker mounted above the windshield.
 
-## The End of Hell & Reclaiming Apartment 3
+*"Go ahead, Twenty, this is the outbound Fifteen at Glenrock,"* another driver's deep voice crackled right back over the open air.
 
-### Part 1: A Sister's Worst Nightmare, Tiffany Forces a Choice, & Scrubbing Out the Filth
+"Look out for me turning in off the Boulevard in ninety seconds, Fifteen," our driver said into the handset. "I've got two ten-sixteens on board needing you going south toward Indian River Road. Hold that bay for me two minutes while I get my ramp down and unhook 'em."
 
-**Date:** 2005-11-12 at 20:20 America/New_York
+*"Ten-four, Twenty—I got my parking brake set and my ramp ready,"* the Route 15 driver answered through the static without a second's hesitation. *"Bring 'em on in."*
 
-![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
+Tears stung the backs of my eyes so suddenly that I had to blink twice as Nate squeezed my fingers across the aisle. Neither of those CVTA drivers knew who we were or what we had just fled up on the Peninsula; they were simply two night-shift bus operators looking out for two wheelchair riders over an open analog radio so nobody got left behind in the dark.
 
-#### Saturday, November 12, 2005, 8:20 PM — A Sister's Worst Nightmare & Five Buses from Williamsburg
+At seven-forty-six, our Route 20 swung into the orange sodium-lit bus loop at Glenrock Mall right behind the idling Route 15, whose front doors were already propped open with its ramp deployed on the concrete island. Unclipped in ninety seconds flat, Nate and I called out a heartfelt *"Thank you!"* to our Route 20 driver, rolled thirty feet across the concrete bay straight up the waiting ramp of Leg Six—CVTA Route 15—and felt the coach pull smoothly south onto Military Highway at seven-forty-eight.
 
-"Please let me in!" a voice cried out over the roar of the cold November rain hammering the courtyard pavement outside my front door.
+Crossing the high bridge over the Eastern Branch of the Elizabeth River as the clock ticked to eight o'clock, I peered ahead through the dark right-hand window toward the bright intersection of Military Highway and Indian River Road.
 
-It was just after eight-twenty on Saturday evening inside Apartment 3—the far-end ground-floor apartment of the white-painted building at Sea Breeze West, right off Portview Avenue and West Ocean View Avenue, where our door was the very first door on the right as you turned in from Portview Avenue. When the first loud knock rattled the wooden front door, my instinct had been to ignore it. West Ocean View could be a rough neighborhood after dark, and I wasn't about to open my door to a stranger on a rainy November night.
+There, standing right beneath the amber glow of the corner streetlight in his navy windbreaker—hands out of his pockets, watching the bus's headlights pull to the curb—stood our dad.
 
-Then I heard that voice through the rain—and my heart stopped.
+At eight-oh-one sharp, the Route 15 knelt at the Indian River Road stop and lowered its ramp. Before our front caster wheels even touched the sidewalk concrete, Dad dropped to one knee between our two SwiftChairs and wrapped both Nate and me in a fierce, trembling three-way hug that smelled like laundry soap, coffee, and home.
 
-I recognized my fraternal twin sister's voice instantly. Braking and pivoting my compact SwiftChair power wheelchair around the oval wooden coffee table, I rolled straight up to the wide front windows above the bright green three-cushion sofa and parted two slats of the white horizontal mini-blinds to peek out into the courtyard.
+"I've got you both," Dad whispered thickly, holding onto my shoulders and Nate's at eye level without pinning either of us down for a millisecond. "You're home, kids. Nobody is ever touching either of you again."
 
-There on the concrete walk under the flickering porch light, drenched to the bone in the driving rainstorm, sat twenty-year-old Katie in her compact SwiftChair.
+Fifteen minutes later, rolling up our familiar aluminum front ramp into the quiet, warm brick ranch on Arvin Road, we saw what Dad had already done while waiting to walk up to the bus stop: inside my old bedroom, the wide closet doors stood open, vacuumed clean, with four fresh white pillows and clean cotton sheets already banked neatly along the carpet waiting for our shared sleeping bag. That Monday afternoon, after photographing the purple bruise on my left wrist for the Williamsburg police report, Dad went straight to the cellular store on Military Highway and bought Katie and me our very own matching silver flip phones on his family account—so that alongside the laminated calling cards behind our State IDs, neither of us would ever be out of reach of his voice again.
 
-I unlocked and threw open the wooden front door in the corner so fast the latch banged against the drywall. Rolling her wet tires across the threshold into the living room, Katie threw both arms around my neck across our armrests and sobbed against my shoulder.
+### Part 3: The Goyeau Street Tunnel Bus, The Trashed Ticket on East Jefferson Avenue, & Protected Non-Traveling Complainant
 
-"Katie—what happened?!" I asked, holding my twin sister tight as I felt her whole body trembling through her soaking-wet jacket and jeans. Cold rainwater was dripping from her blonde hair onto the green sofa cushion as she transferred out of her wet wheelchair frame onto the couch beside me.
+**Date:** 2004-10-20 at 14:00 America/New_York
 
-Katie sobbed harder, shivering uncontrollably before letting out a sharp sneeze.
+![Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk in October 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg)
 
-"Brandon lost his mind today because he wanted me to run away with him to Canada to start a new life, and when I saw my chance at the train station, I realized I had to get out of there and start riding buses home to you!" Katie cried, clutching both of my hands as her teeth chattered. "I've been riding five city buses since four o'clock this afternoon just trying to get here from Williamsburg!"
+#### Wednesday, October 20, 2004, 2:00 PM — The Federal Courthouse on Granby Street & Two Regular Adult Tickets to Detroit
 
-"Tiffany, please get my sis a dry bath towel," I called out toward the hallway as Katie sneezed a second time, before turning my stunned eyes back to my twin sister. "Wait—what? Run away to Canada? Katie, what are you talking about?"
+"Take all the time you need, Miss Prairie," Special Agent Morales said gently, clicking his ballpoint pen open above a yellow legal pad inside a quiet ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in downtown Norfolk while a detective from the Williamsburg Police Department switched on a small digital recorder. "Nobody in this room is rushing you or your brother."
 
-"He marched me over to the Williamsburg train station on Boundary Street with my ID and birth certificate in my bag to buy one-way rail and tunnel-bus tickets through Washington and Toledo up to Windsor, Canada so I'd never see you or Dad again," Katie sobbed, wiping her rain-soaked face with the back of her trembling hand. "He is plain off-his-rocker crazy, Nate! He locked my drive motors, switched off my joystick under the station awning, and went inside to the ticket counter thinking I wouldn't dare move—and the second the four o'clock Colonial Triangle Grey Line bus to Lee Hall pulled into the bay, I powered my joystick back on and drove straight up the ramp! He walked back out holding the train tickets right as my bus pulled onto Boundary Street!"
+![Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk in October 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg)
 
-Katie shuddered, her icy fingers tightening around mine as she caught her breath.
+Four nights of uninterrupted sleep zipped inside our shared sleeping bag on the clean closet floor of our home on Arvin Road—plus real home-cooked meals at Dad's dining table—had finally stopped Katie's hands from shaking, though she still kept her right fingers laced tightly through mine across our wheelchair armrests while Dad stood right behind our shoulders. Spread across the oak conference table in front of Agent Morales lay the photographs of the dark thumbprint bruises on Katie's left wrist, the cassette tape from Dad's Arvin Road answering machine containing three furious messages Brandon had called in from a Washington train platform late Saturday night swearing American law would never touch him once he crossed into Canada, and the Williamsburg station printout the detective had subpoenaed Monday morning.
 
-"I muted my phone every time he called and transferred at Lee Hall to the 116 down to Warwick and Denbigh, where I ducked into Crown Burger for something warm to eat and a clean restroom before catching the five-thirty 107 down to Newport News Transit Center," Katie continued, her voice shaking. "I tried to use the women's restroom inside the Newport News Transit Center while waiting for the tunnel bus—and Nate, half the mirror was ripped off the wall over bare plywood and black glue blobs, the toilet paper holder was hanging by one bolt, and there was graffiti and filth everywhere. I got out of there, caught the very last six-forty-five Route 61 of the night across the bridge-tunnel to Wards Corner, waited forty minutes in the pouring rain for the eight o'clock Route 1 bus to Duffy's Lane, and rolled across the shopping center lot and half a block up Portview Avenue until I saw your door!"
+"What blew his cover before he even left Virginia," the Williamsburg detective said, sliding the printed ARTS terminal ledger across the oak blotter, "was what the indoor ticket clerk at 468 North Boundary Street entered at three-fifty-nine on Saturday afternoon while the two of you were boarding the Colonial Triangle Grey Line bus outside. Look at the passenger count and fare code."
 
-I could see my sister was frightened beyond belief as Tiffany walked slowly back down the short hallway from the bathroom carrying a folded bath towel. Katie sneezed again, shivering so hard her shoulders shook.
+Katie and I leaned forward together in our SwiftChairs to read the dot-matrix accounting line.
 
-"Do you have anything dry in your bag to change into?" I asked gently, draping the dry towel around Katie's shoulders. "I want you to get out of those sopping-wet clothes before you catch pneumonia."
+"Quantity two, Regular Adult one-way coach, Williamsburg to Detroit via Washington and Toledo, paid in cash," I read aloud, blinking in disbelief. "Wait—only *two* tickets? There were three of us at the station! And why did he book Regular Adult coach instead of a Passenger With a Disability wheelchair space and a companion fare?"
 
-"No," Katie sobbed, shaking her head. "I didn't even have time to pack a bag when I escaped—I just had to get out of there and get to you."
+"Because first, Mr. Mercer never intended to take you with them, Nathaniel—he planned to walk out of that depot, force your sister toward the train platform, and leave you stranded by the bus bays," the detective said grimly. "And second, because the ARTS window inside the Williamsburg depot has no view of the bus loop outside, the clerk couldn't see Katie's powerchair, and Mr. Mercer clearly had no idea disability or companion rail discounts even existed. Had you two stayed on that brick platform, Katie physically couldn't have boarded the upper-level coach seat he booked out of Washington on the overnight train anyway. Instead, by paying full walk-up Regular Adult cash price for two non-refundable tickets all the way to Michigan, he drained almost every dollar out of his bank account before he stepped back outside to an empty bus island."
 
-"Alright, here's what we'll do," I said immediately. "Take my oversized dry flannel shirt and sweatpants from my dresser so you can get out of those soaked outer clothes in the bathroom, and I've got my warm sleeping bag you can zip up in on the green sofa for tonight. There's a quarter-operated laundry room right across the courtyard in the red-brick Sea Breeze West building, and I can run your wet clothes through the washer and dryer right now so you have your own clean clothes to wear in the morning."
-
-Standing awkwardly beside the repurposed dining table that held my desktop tower PC running Quantum OS XN Pro, Tiffany cleared her throat. "Let me go wash her clothes," Tiffany said. "You need to comfort your sister."
-
-Once Katie had changed out of her drenched outer clothes into dry layers and wrapped the bath towel and my sleeping bag around herself on the green sofa, Tiffany picked up Katie's soggy mustard-yellow shirt and jeans, grabbed the bottle of laundry soap and our roll of quarters off the laminate kitchen counter, and stepped out the front door across the rainy courtyard toward the red-brick building's laundry room.
-
-The moment the door closed and it was just the two of us inside the living room, Katie zipped the sleeping bag up to her collarbone, reached out, and gripped my hand with both of hers.
-
-"I'm just so scared, Nate," Katie sobbed, her blue eyes wide as she held onto my fingers like a lifeline. "Please don't leave my side."
-
-"I'm right here, Katie—nobody is getting past that door tonight," I promised, squeezing her hand back until a loud rumble echoed from her stomach. "You haven't eaten anything since that stop at Warwick and Denbigh before five o'clock, have you? Would you like something to eat?"
-
-"Please," Katie whispered, wiping her eyes. "Some real food, please."
-
-I rolled twenty feet forward to the open kitchen—feeling a wave of hot embarrassment in the pit of my stomach as my wheels navigated around the cluttered piles of unemptied trash bags, greasy fast-food wrappers, and crusty dishes that Tiffany had left littering the floor and counters—and reached into the cabinet for the only clean, sealed package I could find: a box of low-fat baked potato chips.
-
-Rolling back to the bright green sofa, I opened the box and offered a small handful of chips to my sister. Sitting up against the arm of the green sofa inside the sleeping bag, Katie ate the chips gratefully while keeping her free hand linked with mine.
-
-"They really thought they could force me to move to Canada and cut me off from you and Dad forever," Katie whispered, her voice still shaking from the five-bus ordeal through the rain. "Nate, do you mind if I take a hot shower? I've been riding five city buses all afternoon and evening trying to get here from Williamsburg. I'm hungry, I'm exhausted, I'm scared, and I'm still freezing from the rain."
-
-"Come on, let's get the hot water running for you," I said, helping Katie out of the sleeping bag and steadying her arm as we rolled down the straight right-hand hallway past the two white bi-folding doors of the closet on the left hallway wall.
-
-At the end of the hallway—where there was no door or doorway at all, and the space opened directly to the left into the back bedroom under the through-wall air conditioner on the back exterior wall—we turned left into the bedroom toward the bathroom entrance door, which opened inward from the bedroom into the small bathroom equipped with a sink, toilet, and a bathtub fitted with steel grab bars—though to my disgust, I first had to push aside a stack of dirty kitchen pots and pans that Tiffany had bizarrely dumped inside the tub instead of washing them. After showing Katie how to adjust the hot-water faucet and making sure a fresh dry towel was within easy reach of the grab bars, I rolled back out into the living room and closed the bathroom door so she could warm up in privacy.
-
-By the time Katie finished her hot shower and transferred back into the warm sleeping bag on the green sofa beneath the front window blinds, Tiffany had returned from across the courtyard with Katie's freshly dried clothes folded in her arms.
-
-Even with the warm water taking the chill out of her bones, Katie was still too traumatized to close her eyes unless she was holding my hand. Parking my SwiftChair right beside the oval wooden coffee table at the edge of the green sofa, I held my twin sister's hand for the next hour while she whispered every terrifying detail of how Brandon had tried to isolate and trap her in Williamsburg.
-
-"I promise you're safe here tonight, Katie," I told her gently as the clock on my Quantum OS XN Pro computer monitor near the kitchen ticked toward midnight. "Since the connecting bus routes don't run on Sundays into our neighborhood in Virginia Beach, you can rest right here all day tomorrow and we'll figure everything out on Monday."
-
-Katie pulled me into a tight hug from the sofa and wept softly against my collar. "Thank you, Nate." She let out a long, exhausted yawn, though her eyes still darted nervously toward the front window blinds.
-
-"We really need to get some sleep—it's almost midnight, and after five buses from Williamsburg, you especially need your rest," I said softly, squeezing her hand one last time before rolling down the hallway toward the open-doorway back bedroom where the through-wall box air conditioner hummed opposite its wall-mounted temperature switch. "Tomorrow morning, we'll help you get everything sorted out."
+"And rather than eat the loss on his own non-refundable Regular Adult ticket—which was completely valid for solo travel with zero questions from the conductors—he got on the northbound train alone Saturday evening," Special Agent Morales picked up, turning his heavy black agency laptop forty-five degrees toward Dad, Katie, and me. "He thought routing to Detroit and taking the city tunnel bus into Ontario instead of riding the cross-border Maple Leaf train in New York would keep his name off an advance electronic rail manifest sent to the newly formed Canada Border Services Agency. Watch what actually happened to him on Sunday afternoon at four-fifteen."
 
 ***
 
-#### Sunday, November 13, 2005, 8:15 AM — Dry Cereal Without Milk & Tiffany Forces a Choice in the Open Kitchen
+#### Wednesday, October 20, 2004, 2:20 PM — Ripped Tickets on East Jefferson Avenue, Rejected Dimes, 555 Goyeau Street, & Arrest on Cass Avenue
 
-Morning barely filtered through the white horizontal mini-blinds at the front of the apartment when the sound of muffled crying from the living room jolted me awake.
+Katie's blue eyes widened as Agent Morales scrolled through the scanned federal border packet uploaded jointly by the Canada Border Services Agency and United States Customs and Border Protection.
 
-Transferring out of the queen bed into my SwiftChair in seconds, I rolled straight out of the doorless back bedroom down the hallway to the green sofa.
+"According to his own statement in Secondary Inspection, Mr. Mercer stepped off the connecting rail bus in downtown Detroit on Sunday afternoon fuming over the unused Regular Adult paper ticket in Katie's name still sitting in his jacket," Morales explained, pointing to the narrative log. "Afraid Canadian border officers might search his coat, find a nineteen-year-old Virginia woman's unused one-way ticket, and run a missing-persons check—and apparently unaware that unused ARTS paper stock often retains exchangeable residual value at a staffed counter—he stood at the curbside bus stop on East Jefferson Avenue in downtown Detroit, ripped Katie's hundred-plus-dollar ticket and his travel receipt into pieces in sheer anger and disgust, and threw them into a municipal trash barrel right before the Transit Windsor Tunnel Bus pulled up."
 
-Katie was sitting upright inside the sleeping bag with both hands pressed over her face, sobbing uncontrollably.
+Dad let out a stunned whistle behind us. "He literally threw half his money into a trash can on East Jefferson Avenue?"
 
-"I had a nightmare," Katie cried as I rolled right up to the sofa cushion and wrapped both arms around her shoulders. "They were forcing me across the border into Canada and locking me in a room where I couldn't call you or Dad. It felt so real, Nate!"
+"And the Transit Windsor farebox took the rest of it sixty seconds later," Morales said with the faintest trace of a dry smile. "Because Transit Windsor is a Canadian municipal agency picking up curbside in Detroit, their fareboxes accept American dollars only at a strict one-to-one par rate with zero change and zero change cards, and their Canadian coin mechanism automatically rejects American dimes and gold-colored American dollar coins. When Mr. Mercer dropped loose American dimes and a dollar coin into the slot and they clattered straight through into the reject cup while the driver told him to pay exact fare or step off, he angrily shoved his last ten-dollar American bill into the no-change bill feeder just to get across the river."
 
-"You're right here in Ocean View with me—Brandon can never touch you again," I said, holding my twin sister close until her breathing steadied. "Let me make you some breakfast. How does cereal sound?"
+"How much money did he have left when the bus came out of the tunnel in Canada?" I asked.
 
-"Please," Katie said, wiping her cheeks. "And could you hand me my clothes from the chair? I want to get dressed."
+"One crumpled American dollar bill, three quarters, and four rejected American dimes," Agent Morales replied, clicking open the property inventory logged at 35 Park Street East in downtown Windsor, Ontario, right off the 555 Goyeau Street tunnel plaza and Wyandotte Street East. "Without a single international train manifest needed, Mr. Mercer lit up every behavioral flag at the primary booth inside 555 Goyeau Street: a twenty-two-year-old man from six hundred miles away in Williamsburg, Virginia riding a local commuter bus with a packed duffel bag, zero travel receipts because he had just trashed them across the river, no hotel reservation on Goyeau Street or Wyandotte Street East, no return ticket to the United States, and one dollar and seventy-five cents in spendable cash. And because he had thrown Katie's ticket away to hide why he came north, he couldn't even spin a story about a girlfriend stranding him without confessing what he had tried to do in Virginia."
 
-I handed Katie her clean mustard-yellow short-sleeve T-shirt and blue jeans from the laundry pile, giving her privacy while she got dressed and transferred into her SwiftChair, while I rolled straight ahead into the open kitchen under the hanging amber cone pull-chain lamp—along the narrow lane of linoleum I had cleared earlier that morning by shoving the worst floor piles into black garbage bags just so both of our wheelchairs could maneuver—and took two bowls and a box of toasted oat cereal down from the counter.
+"What did he tell the Canadian officers?" Katie asked quietly.
 
-When I rolled back to the oval wooden coffee table and set the two bowls down in front of us, Katie looked down at the dry cereal and blinked in surprise.
+"Cornered in Secondary Inspection inside 35 Park Street East, he lost his temper and blustered about staying in Ontario to look for work where healthcare was free," Morales said, shaking his head. "Within five minutes, CBSA found him statutorily inadmissible under Sections 20 and 39 of Canada's Immigration and Refugee Protection Act for failing to prove he would leave Canada and for total financial inadmissibility—plus citing Ontario's strict residency rules barring visitors from provincial healthcare. Because he didn't even have three dollars and fifty cents left to pay his own return bus fare under Canadian law, two CBSA officers escorted him onto a custodial return Tunnel Bus back beneath the Detroit River and handed his exclusion file straight to United States Customs and Border Protection at East Jefferson Avenue and Randolph Street in downtown Detroit."
 
-"No milk?" Katie asked.
+"And that's when our customs officers opened his duffel bag?" Dad asked.
 
-"Tiffany claims she's lactose intolerant," I explained, unable to hide the weary frustration in my voice as I glanced back toward the black top-freezer refrigerator. "She says even the sight of a jug of milk in the refrigerator makes her sick, so she won't let me keep any in the apartment."
-
-Katie ate her dry cereal grudgingly without saying another word about the milk—she knew me well enough to see that complaining to me about Tiffany's rules right now was barking up the wrong tree—until she set her spoon down and looked quietly into my eyes.
-
-"Nate," Katie said in a low voice, "sometime today, when it's just you and me, I want to talk."
-
-"What is it?" I asked.
-
-"I want to talk to you—just you," Katie repeated evenly, glancing toward the hallway. "Ask me again when it's just you and me."
-
-Before I could answer, footsteps shuffled down the hallway from the back bedroom.
-
-Wearing her black-rimmed rectangular glasses, her mint-green short-sleeve graphic T-shirt, and her charcoal-gray pants, Tiffany stepped out of the hallway into the open kitchen right in front of the slate-blue four-burner stove and the black top-freezer refrigerator. Stopping beneath the hanging amber cone pull-chain lamp and the olive-green upper cabinets, she folded her arms, glared at Katie and me sitting together by the oval coffee table, and spoke in a loud, accusatory sneer.
-
-"You know, you seem to be cuddling with Katie a whole lot more than me," Tiffany snapped. "Do you not love me?"
-
-![Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp—after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs—Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while nineteen-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
-
-Beside me, Katie looked at Tiffany with pure disgust. To my twin sister, the very idea that anyone would try to force an ultimatum between a loyal twin sibling and a romantic partner—after Katie had just escaped an abusive nightmare in Williamsburg the night before—was repellent.
-
-"Uh, excuse me?" Katie spoke up, rolling her SwiftChair two feet forward toward the open kitchen.
-
-I knew the two of them had disliked each other ever since Tiffany ruined our brother-and-sister weekend fourteen months ago, but one rule had been carved into my soul since the day we were born: no one insults my twin sister. Watching Tiffany glare at Katie felt like that awful Christmas in Newport, Rhode Island when Tiffany had disrespected our developmentally disabled cousin Chelsea all over again.
-
-"Of course I love you, Tiffany," I replied, rolling my chair up beside Katie's in front of the stove, "but why can't you accept that I love my twin sister too?"
-
-"You really need to think about what you just said, Tiffany," Katie said firmly, looking straight up at her. "I'm his twin sister; you're his girlfriend. There is zero reason on earth why you should be getting jealous of me hugging my brother after what I went through yesterday."
-
-Tiffany's face contorted with fury behind her black-rimmed glasses, and she lunged half a step forward in front of the slate-blue stove, screaming straight into Katie's face:
-
-"Don't you talk to me like that!"
-
-Right then and there, standing in front of that filthy kitchen counter between the slate-blue stove and the black refrigerator, every warning Katie had given me outside in the Sea Breeze West courtyard fourteen months ago clicked into focus. My girlfriend hated my twin sister, disrespected my family, and wanted me isolated in the dark—and I was never going to choose anyone who treated Katie like that.
-
-Katie and I sat side by side in our wheelchairs, staring daggers straight back at Tiffany without giving an inch.
-
-Seeing the look in my eyes—realizing for the first time that her temper tantrum wasn't going to make me apologize or push Katie away—Tiffany looked at me with deep loathing and rage.
-
-"Forget it!" Tiffany shrieked, grabbing her purse and jacket off the corner of the repurposed dining-table computer desk. "You don't love me! Good riddance!"
-
-"No, he doesn't love you!" Katie snarled, wheeling forward toward the front door as Tiffany yanked it open. "Go on! Get out of here! Stay away from me, and stay away from my brother! Don't ever come back!"
-
-The wooden front door slammed so hard the white horizontal mini-blinds rattled against the glass.
-
-In the sudden, ringing silence of Apartment 3, Katie turned her wheelchair toward me and spoke gently.
-
-"You're probably going to hate me for saying this right now, Nate, but I'm glad she's leaving you," Katie said softly. "If your girlfriend can't even accept you hugging and comforting your own twin sister, then you don't need her in your life."
-
-All at once, the dam inside my chest broke. Even though Katie was still raw and traumatized from her escape from Williamsburg, I started crying right alongside her as the reality registered in my twenty-year-old mind: my girlfriend had just dumped me and walked out the door.
-
-Katie immediately rolled flush against my chair, pulled me into a deep, grounding hug across our armrests, and held the back of my head against her shoulder.
-
-"Would you like me to stay here with you for now?" Katie whispered as she wiped the tears from my eyes and I wiped hers. "This way you won't have to be alone."
-
-"Please—would you, Katie?" I asked, my voice shaking.
-
-Katie knew how much I hated being alone. Holding both of my hands, she offered a brave little smile. "Want me to make us some lunch?"
-
-Rolling four feet forward into the open kitchen, Katie opened the black top-freezer refrigerator and the olive-green base cabinets, then grimaced as she surveyed the crusty counters, the overflowing trash bags, and the sour smell hanging in the air.
-
-"You know, Nate, she really is a pig," Katie said bluntly, closing the empty refrigerator door. "I still have my paycheck money in my wallet. How about we roll down to the shopping center and grab a real hot lunch, and pick up some basic groceries while we're out?"
-
-"Alright, Katie," I nodded, wiping my face. "And while we're at the grocery store in the shopping center, you can buy a Norfolk CVTA bus pass right at the front customer-service desk."
-
-"Do they sell a monthly pass?" Katie asked as we rolled out the front door into the sunny Sunday courtyard.
-
-"Fifty dollars for thirty days," I told her as we wheeled down the sidewalk along West Ocean View Avenue. "It's a thirty-day magnetic card, and the thirty-day clock doesn't start ticking until the first time you swipe it in the farebox on a CVTA bus."
+"Under Title 19, Section 1582 of the United States Code, every person returned from a foreign port of entry undergoes a mandatory warrantless border search," Morales nodded, tapping the thick federal indictment packet beside his laptop. "Hidden under his clothes at the Randolph Street compound, CBP forensic officers uncovered two external hard drives packed with skimmed hospitality credit-card magnetic-stripe dumps and stolen guest identity profiles from Williamsburg—turning your local domestic assault and unlawful restraint report into a multi-district federal wire-fraud and interstate coercion prosecution. After CBP logged the drives and released him onto Randolph Street in the cold rain Sunday evening with a dollar seventy-five in his pocket, he walked nine blocks northwest to a brick men's homeless shelter on Cass Avenue. Yesterday afternoon, once our Norfolk and Detroit warrants cleared NCIC, two Deputy United States Marshals walked up to the intake line on Cass Avenue and put Brandon Mercer in federal handcuffs without incident."
 
 ***
 
-#### Sunday, November 13, 2005, 1:00 PM — Crown Burger & The Heavy-Duty Deep Clean of Apartment 3
+#### Wednesday, October 20, 2004, 2:40 PM — "Protected Non-Traveling Complainant (V-W, Zero Infraction)"
 
-Twenty minutes later, after picking up Katie's new thirty-day bus pass at the grocery store counter, the two of us sat across from each other at an accessible table inside the Ocean View Crown Burger right down West Ocean View Avenue with hot burgers, crispy fries, and two tall cups of soda in front of us.
+Agent Morales slid the printed twelve-page federal summary packet across the oak conference table so Katie could read the bottom box for herself.
 
-Now that we were out of the apartment and away from the stench of Tiffany's mess, Katie leaned forward across the table and looked me straight in the eyes.
+"Because the Williamsburg ARTS station computer preserved the original two-passenger cash PNR pairing his name with yours before he threw the paper stub into that Detroit trash bin, Miss Prairie, his own transaction corroborated your statement from start to finish," Morales added kindly, tapping the bottom line of the federal printout. "And just so your mind is completely at ease—look right here at how you are listed in the system: protected non-traveling complainant."
 
-"Now that she's not around, Nate, I'm going to be blunt and I'm going to be completely honest with you," Katie said evenly. "She was treating you like trash—and I know this isn't polite to say when you just broke up, but I wanted you to leave her."
+Beside me, Katie's fingers tightened around my hand on the armrest as her blue eyes locked onto that four-word label. For someone whose autistic mind ran on exact, literal rules, an unfamiliar government phrase in a federal border computer wasn't reassuring until every single word was defined down to the syllable.
 
-I opened my mouth to say something, only for Katie to hold up her hand and continue.
+"Wait—what does protected non-traveling complainant mean?" Katie asked, sitting up straighter in her SwiftChair as she looked directly at Special Agent Morales. "Does having my name in the ARTS reservation record and the Customs and Border Protection file mean I'm flagged? Did Nate and I break a railroad or border rule because Brandon put my name on a ticket to Detroit that I didn't use? If Nate and I ever get passports one day and want to ride a train into Canada together, are the border officers going to think I did something wrong?"
 
-"I know your bedroom—and mine too—have gotten a little messy with computer books or laundry at times when we were teenagers," Katie said, her voice tight with protective anger. "But never in our entire lives have I seen you live in filth like what's back in that apartment right now. That apartment isn't just cluttered, Nate—it is trashed. It's overstuffed with rotting garbage bags that haven't been taken to the outdoor trash bin in weeks, crusty takeout containers stacked on every surface, and filthy dishes everywhere. Tiffany is a pig, and I don't want you associating with her ever again."
+Seeing how intently she was staring at the code box, Agent Morales didn't wave her concern away. He turned the page completely toward her, rested the tip of his pen directly beneath the printed line, and walked through the statutory wording one piece at a time.
 
-Again I tried to speak, and Katie immediately reached across the burger wrappers to take my hand so I wouldn't misunderstand her.
+"Let's read each word literally, Miss Prairie, because every word on this form has a strict legal definition," Morales said calmly. "First, non-traveling certifies that both the United States and Canadian governments have verified you never boarded that train, never left the Commonwealth of Virginia, and never set foot near the Detroit-Windsor border. You and your brother were riding local transit buses home to Virginia Beach six hundred miles away while Mr. Mercer rode north alone."
 
-"It's not you I'm mad at, Nate," Katie said softly. "I know how your mind works when somebody bullies you and shuts you down until you freeze up. I'm mad at her for treating my twin brother like trash. But now it's over and done with. Welcome back to the light."
+Katie nodded once, her shoulders easing slightly, though her gaze stayed fixed on the paper. "And complainant?"
 
-Those four words—*welcome back to the light*—brought fresh tears welling into my eyes. With Tiffany officially my ex, the heavy, suffocating fog that had trapped me inside Apartment 3 for the last year was finally lifting, and I could see clearly that every word my twin sister was speaking was the truth.
+"Complainant is the legal word for the innocent victim and witness bringing the complaint against the person who broke the law," the Williamsburg detective explained gently. "Your name only appears in the evidence file as the person he targeted—the exact same way a bank's name appears in a bank robbery report. Nobody charges the bank for getting robbed, Miss Prairie."
 
-"You're saying..." I started, my voice choking up.
+"And protected is the best word on the whole page," Agent Morales finished, pointing to the status code printed beside her name: *V-W, Zero Infraction*. "That Protected Victim-Witness firewall attaches a permanent legal shield to your identity. First, it certifies on the permanent record that you and your brother broke zero federal laws, zero state laws, zero Canadian immigration laws, and zero rail tariff rules. Not a felony, not a misdemeanor, not even a civil warning. And second, if the two of you ever get United States Passports and cross into Canada together ten months or twenty years from now, your traveler profiles are one hundred percent clean."
 
-"Truth is," Katie whispered, her own blue eyes tearing up across the table, "I never approved of Tiffany. Remember that weekend last September when I took the Route 1 bus here because I wanted a brother-and-sister weekend with you and just you?"
+Katie stared down at those printed words—*V-W, Zero Infraction*—reading them silently three times until the literal rule clicked into permanent place inside her head.
 
-"Yeah," I answered quietly, remembering how I had snapped at Katie outside in the courtyard before she swore her *Speak now or forever hold your peace* vow.
+Letting out a long, quiet breath, my nineteen-year-old twin sister looked sideways at me with clear blue eyes and gave my hand a firm squeeze.
 
-"That's the exact day she lost every shred of my trust—when she threw a fit and insisted she wouldn't allow the two of us to spend a weekend together," Katie said. "I wanted a brother-and-sister weekend with my twin. I wasn't going to bring an ex-boyfriend between us, and I never wanted a girlfriend coming between us either."
+"Zero infraction," Katie murmured softly, satisfied at last. "We didn't break a single rule, Nate."
 
-When we rolled back down West Ocean View Avenue and returned to Apartment 3, the sight of the trashed combination living room and kitchen hit me like a physical blow. Transferring onto the bright green sofa beneath the front window blinds, I felt so emotionally drained that Katie transferred onto the cushion beside me, opened her arms, and let me rest my head in her lap while she wrapped her arms around my shoulders.
+"Not a single one, sis," I smiled back, squeezing her fingers while Dad rested both warm hands on our shoulders. "And the guy who did is sitting in a federal detention cell up in Michigan while you and I go home for dinner on Arvin Road."
 
-"Katie," I whispered, staring at the worn carpet by the oval coffee table, "do you promise not to tell anyone what I'm getting ready to tell you?"
+## Tiffany's Sea Breeze West Apartment, Dirty Old Tonomy Hill, & Coming Home to Arvin Road
 
-"Twin's promise," Katie said softly, curling her arms more tightly around me to let me know I was completely safe.
+### Part 1: Chapters & Co. After Williamsburg & Tiffany Sloan Invites Both Twins Into Sea Breeze West
 
-Resting my cheek against my sister's knee, I finally let out everything I had kept locked inside my chest for a year—how Tiffany and Tiffany's manipulative mother had coerced and guilt-tripped me from the very beginning, using affection as a weapon to separate me from my family, and how toward the end Tiffany's mother had turned on me with open hatred while Tiffany let the apartment rot around us.
+**Date:** 2004-11-05 at 15:15 America/New_York
 
-After holding me in silence for a long time and letting me cry until my chest stopped aching, Katie made her decision.
+![Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in November 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding cups of cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg)
 
-"I want to live with you, Nate," Katie said, looking down into my eyes with steady, unbreakable resolve.
+#### Friday, November 5, 2004, 3:15 PM — Falling Style Sheets at Chapters & Co. & Umbrellas Over Both Joysticks
 
-My heart leaped with relief, and I loved what she said next even more.
+"Whoa—careful! Death by cascading style sheets is a terrible way to start a Friday weekend!" a bright, playful voice laughed right beside my right wheel inside the Computer & Internet aisle of Chapters & Co. at The Admiral Center.
 
-"We're going to get this apartment into decent, spotless condition until your lease is up, I promise you," Katie said, pulling me upright into a fierce hug. "We're going to pack every single one of Tiffany's things into separate bags by the door, and we're going to make Apartment 3 a real home for you and me—a place that both of us can be proud to show our friends and Dad. First question: what bus takes us from here to the Community College of Hampton Roads in Virginia Beach?"
+I blinked and pulled my fingers back from the upper-middle bookshelf just as a girl who looked to be about twenty—with a heavier build, shoulder-length dark reddish-brown hair cut in neat bangs above black-rimmed rectangular glasses, and a warm, friendly grin—caught a falling eight-hundred-page copy of *Cascading Style Sheets & Dynamic Web Design* cleanly in midair before it could land across my knees.
 
-"Thank you, Katie," I said, wiping my eyes with a real smile breaking across my face. "Tomorrow morning, we can catch the Route 1 bus that leaves Ocean View Station at thirteen minutes past the hour—it's about a ninety-minute ride down to the Virginia Beach campus. Or if you want a shorter commute, maybe you could register for classes at the Norfolk campus downtown? That's only forty-five minutes on the Downtown 1 or about an hour on the Downtown 3."
+![Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in November 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding cups of cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg)
 
-"All my friends are at the Virginia Beach campus," Katie replied without hesitation.
+"Thank you," I said, feeling my ears warm slightly as she tucked the extra copy back onto the oak shelf and handed the first copy comfortably into my hands at chest height. Parked two inches to my left with a cardboard carrier holding two cups of hot cocoa on her lap tray—never letting more than arm's reach come between our two SwiftChairs in public now after surviving three and a half months at Brandon Mercer's house up in Williamsburg—Katie smiled politely across my armrest too.
 
-"Alright," I smiled. "Tomorrow morning, I'll take you on the bus down to the Beach campus and we'll register together."
+"Those programming books are practically cinder blocks," an older woman with a pleasant smile remarked, stepping up behind the girl with a bookstore tote bag over her arm.
 
-"Thanks, Nate," Katie said, transferring back into her SwiftChair and rolling her sleeves up past her elbows. "Now, let's get this apartment cleaned up. Priority one: where are the heavy-duty trash bags? Anything that's garbage, throw it straight in. Anything that belongs to Tiffany, put it in a separate bag by the front door in case she and her mother come back to collect her things. You're going to hate me for how hard I push us today, because this filth won't be cleaned in five minutes—but I promise you, it will get done, and we are going to do it together."
+"I'm Tiffany, by the way—Tiffany Sloan, and this is my mom, Sandra," the girl said, shaking my hand and then reaching smoothly across to shake Katie's free hand with zero awkwardness at seeing two identical compact powerchairs side by side. "Wait—do both of you actually write real website code from scratch?"
 
-The truth was, the deeper we dug into the apartment, the more mortified I felt. It wasn't just untidy; it was an overwhelming disaster of uncollected trash and grime that needed heavy-duty scrubbing from floor to baseboards. To keep our spirits up, Katie rolled over to the large repurposed dining table on the left side between the living room and the kitchen, woke up my seventeen-inch off-white CRT monitor and my 2004 desktop tower PC—which ran Quantum OS XN Pro and still sported the salvaged off-white three-and-a-half-inch floppy drive, CD-ROM drive, and CD-RW drive from our older desktop computer—and queued up a playlist of our favorite upbeat nineteen-eighties synth-rock and pop tracks through the desktop speakers.
+"Since seventh grade at Morrison Middle School," I said, my shyness melting the second HTML and CSS entered the conversation. "Katie and I just transferred all our fall CCHR coursework back down to the Norfolk and Virginia Beach campuses three weeks ago, and we're converting our old table layouts to stylesheets."
 
-For the next two hours, working side by side from our compact power wheelchairs, Katie tackled the overflowing trash around the green sofa, the oval coffee table, and the open kitchen counters while I bagged up the piles of garbage choking the back hallway and the open-doorway bedroom. Sweat poured down my forehead as I tied off bag after heavy black bag, my gag reflex kicking in half a dozen times whenever we uncovered week-old takeout containers festering at the bottom of a pile.
+"Are you serious?! That is amazing!" Tiffany beamed, placing a hand over her heart as she looked back and forth between Katie and me. "Wait—you two take your college classes together and go everywhere together? My younger brother and I are super close too. Honestly, I always say family comes first, no matter what. If a guy isn't close with his sister, that's a giant red flag in my book!"
 
-![Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3—after hauling the first waves of overflowing trash out to the outdoor trash bins—nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg)
-
-"Nate, come help me clean the bathroom!" Katie called out from the short hallway on the far right.
-
-"Coming," I called back, rolling out of the doorless bedroom and turning left toward the inward-opening bathroom door.
-
-Katie was sitting in her wheelchair just inside the bathroom doorway, staring in disbelief at the bathtub beneath the steel grab bars.
-
-"Why on earth are all of these kitchen pots and pans stacked inside the bathtub?!" Katie demanded.
-
-"Ask Tiffany that," I groaned in pure disgust. "Whenever she didn't feel like washing a pot in the kitchen sink, she just dumped it in the tub so she wouldn't have to look at it."
-
-"Here is what we're going to do," Katie said, pinching the bridge of her nose. "Let's haul every single one of those pots and pans out of the bathtub and stack them by the kitchen sink for now. Then we're going to scrub this entire bathroom down together with heavy-duty cleaner from the grab bars to the tile floor. Once the bathroom is sparkling, I'll help you go through the pots and pans to see which ones are even salvageable and which ones go straight in the outdoor trash bin."
-
-"Alright, Katie," I said.
-
-Both of us gagged out loud as we lifted the crusted, foul-smelling pots and pans out of the bathtub onto a plastic tray on our laps and ferried them back to the open kitchen.
-
-"That old bat was absolutely disgusting," Katie shuddered, wiping her hands with a soapy paper towel. "Let's haul all of these tied-up trash bags out to the outdoor trash bins behind the complex first so we can breathe, and then we'll scrub the bathroom together."
-
-Rolling back into the living room and looking around at the newly cleared carpet between the bright green sofa, the oval wooden coffee table, and the Quantum OS XN Pro computer table, I realized just how deeply Katie cared about me. Tears stung my eyes again, and I braked my chair beside hers and pulled her into a grateful hug.
-
-"Thank you, Katie," I sobbed quietly against her shoulder. "The place is starting to look so much better already."
-
-"She was a pig, Nate, and you deserve to live in a clean, decent home where you feel comfortable having family and friends over," Katie said warmly, hugging me back before tapping my armrest with a grin. "Now let's keep rolling and finish the job, because this place is nowhere near done yet!"
-
-Side by side, balancing the heavy black garbage bags across our footplates and armrests, we rolled out the front door of Apartment 3, wheeled down the courtyard walk past the white two-rail fence, and heaved bag after bag into the steel outdoor trash bins behind the complex.
-
-"Do we have any air fresheners inside?" Katie asked as we rolled back through the courtyard.
-
-"I don't think so," I admitted.
-
-By late Sunday afternoon—after hours of scrubbing the grab-bar bathtub, the bathroom sink and toilet, the olive-green kitchen cabinets, the speckled laminate prep counters, the slate-blue stove, and the inside of the black top-freezer refrigerator—Apartment 3 finally looked and smelled like a human home again.
-
-"I actually feel like we could have company over now," Katie said with a tired, proud sigh as she surveyed the clean living room and kitchen. "We just need to air the rooms out and pick up some air fresheners to clear out the last of that stale smell. How about we roll straight down to the shopping center first to grab a nice dinner and some plug-in air fresheners? Then when we get back home, we can take hot showers and relax for the rest of the night."
-
-"Yeah—after hauling all those bags to the outdoor trash bin, I'm wiped out," I smiled. "Food first."
-
-An hour later, after celebrating with a hot dinner at the shopping center and plugging fresh linen-scented air fresheners into the outlets by the green sofa and the open kitchen, Katie and I braked our compact SwiftChairs side by side in front of the bright green three-cushion sofa beneath the white horizontal window mini-blinds, our footrests angled two inches apart and each of us holding a cold can of ginger ale.
-
-Outside the front windows, the November night was dark and quiet, and the open top sash was letting a crisp salt breeze off the Chesapeake Bay clear the last traces of stale grease out of Apartment 3. My arms ached from hours of scrubbing countertops and baseboards, and dark circles still lingered under Katie's eyes from her four-hour-and-twenty-minute journey across five buses in the rain the night before, yet the apartment was quieter and more peaceful than it had been in fourteen months.
-
-Katie took a slow sip from her ginger ale can, looked around at the clean walls and the wide, unobstructed turning space between the sofa and the kitchen doorway, and then looked over at me. All of a sudden, fresh tears welled up in her blue eyes and spilled down her cheeks.
-
-"Katie?" I asked softly, rolling half a foot closer and reaching across our armrests to take her hand. "What's wrong?"
-
-"I'm just thinking about everything that happened to the two of us over the last fourteen months," Katie wept, gripping my fingers tightly with hers as the tears streamed down her face. "Do you remember what everybody kept telling us when our lease in West Ghent was coming up last summer? How twenty-year-olds aren't supposed to just live with their twin forever? How we needed to get out there, date normal people, and have our own separate lives?"
-
-I looked down at the condensation on my ginger ale can, thinking of fourteen months of Tiffany piling dirty pans in the bathtub, blocking my turning radius in the hallway with her junk, and slamming doors whenever Katie's name flashed on my phone.
-
-"Yeah," I said softly. "I remember."
-
-"Look at how badly both of us got hurt the first time in our lives we ever let people pull us apart, Nate," Katie said, her voice steady through her tears in the quiet room. "Brandon used to grab the push-handles on the back of my chair whenever he didn't like how fast I was rolling or who I was talking to. He made me feel like needing a wheelchair and taking daily medicine meant I owed him obedience for putting up with me, and yesterday he tried to drag me to Canada where I'd never see you or Dad again. And Tiffany and her mother had you trapped right here in the dark, bullying you and treating you like garbage. Last night, when I was sitting in the pouring rain at Wards Corner waiting for the Route 1 bus to bring me here, I realized the only people on this earth who have never once made us feel broken are you, me, and Dad."
-
-![Inside the living room of Sea Breeze West Apartment 3 in front of the bright green three-cushion sofa and the front windows with white horizontal mini-blinds at night: twenty-year-old Katie in her mustard-yellow ringer t-shirt and blue jeans sits in her compact black SwiftChair power wheelchair with tears rolling down her cheeks as she holds twenty-year-old Nate's hand across their wheelchairs and promises her brother that they will never separate ever again]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_green_sofa_never_separate_again_promise.jpg)
-
-My throat tightened as I watched the tears glistening on my twin sister's cheeks. All afternoon she had been the fierce, unstoppable one pushing us through bag after bag of rotting trash, and only now that the apartment was finally clean and quiet did the full weight of what both of us had survived come crashing down on her heart.
-
-"I'm so sorry I didn't listen to you in the courtyard last September, Katie," I whispered, my own eyes stinging as I squeezed her hand. "And I'm so sorry I wasn't up there in Williamsburg to protect you from Brandon."
-
-"We're together now—that's what matters," Katie cried softly, looking straight into my eyes as she held my hand like an unbreakable vow between our two chairs. "I'm done letting outsiders into our lives, Nate. I don't ever want a boyfriend or a husband, and I don't ever want another person moving into our home and trying to split us up or run our lives. Aside from Dad, nobody else gets inside our walls ever again. When you asked me this morning if I wanted to move in here and live with you, I didn't mean just until our next lease is up. I promise you right here and right now: we will never separate ever again."
-
-"Neither did I—and never again," I promised her back, my throat tightening as I squeezed her fingers. "Dad is the only other person who ever gets a key to our front door. When it comes to our lives, it's you and me from here on out, Katie. Fifty-fifty on every lease, every house we ever buy, every line of code we write, and every bus we ride—for the rest of our lives."
-
-Katie smiled through her tears, the tension of the last fourteen months finally melting out of her shoulders as she tapped her ginger ale can gently against mine.
-
-"Just you and me, fifty-fifty for life—plus Dad," Katie whispered. "Deal."
-
-When we rolled down the hallway into our freshly scrubbed bathroom to wash off six hours of heavy-duty cleaning, there wasn't a shred of awkwardness or a need to look away between the two of us. We had come into the world at the same hour, lost the use of our legs on the exact same Friday afternoon in eleventh grade at Northwood High School, and spent years helping each other through transfers and muscle spasms when nobody else understood how our bodies worked. Neither of us wanted an outside home-health aide or an able-bodied partner standing over us ever again, and looking at each other had never felt any different than looking in a mirror.
-
-While I leaned forward from my SwiftChair to turn the shower valve all the way to hot until warm steam billowed across the clean bathroom tile, we peeled off our sweat-damp shirts, jeans, and underclothes right beside our chairs. I transferred onto the wide padded bath bench beneath the steel grab bars first, then reached out both hands to brace Katie's hips and ribs as she slid across from her seat cushion right against my side under the steaming spray.
-
-As the hot water poured over both of our shoulders, Katie let out a long, relieved sigh and leaned her weight sideways against my bare shoulder while I held her steady with one arm around her waist and used the handheld showerhead with the other to warm our tired legs and feet. When Brandon had touched her in Williamsburg, he had grabbed her from above over her wheelchair backrest like a warden pinning a prisoner down; sitting pressed side by side on the transfer bench washing the last grime of the weekend off each other's skin while Katie lathered my back and I washed her hair, neither of us had to hide an inch of ourselves.
-
-Twenty minutes later, dried off with clean bath towels while the bathroom heater ticked warmly behind us, we rolled out of the bathroom into the doorless back bedroom and stopped side by side in front of the queen bed.
-
-We took one look at that caving-in mattress in the far corner—the bed where Tiffany and I had slept during the worst year of my life—and both of us felt the exact same wave of revulsion at the exact same second.
-
-"I don't want to sleep where you and Tiffany slept, Nate," Katie said flatly, wrinkling her nose at the sagging center of the mattress. "Even if we buy brand-new sheets at the mall tomorrow so the bedroom doesn't look like an eyesore, I do not want either of us lying on that bed tonight."
-
-"Me neither," I agreed immediately. "Looking at that mattress just makes my skin crawl."
-
-Katie sat quiet for a moment in her wheelchair, then turned her head toward the straight carpeted hallway, where the standard-width white bi-folding doors of the hallway closet stood open on the left wall above the freshly vacuumed carpet we had cleared out that afternoon. All at once, a mischievous, brilliant spark lit up her blue eyes.
-
-"I have a crazy idea," Katie said.
-
-"What's your crazy idea?" I asked.
-
-"What if we do just like we did back in Apartment A6 on Greenway Court, and take our sleeping bag and the pillows I was using on the green sofa last night and move them right onto the carpeted floor inside the hallway closet so the two of us can make the closet our bedroom again?" Katie asked.
-
-The moment she said it, my whole chest relaxed. Back when we lived together in Apartment A6 on Greenway Court, our full-sized bed out in the main studio had rarely ever been used because both of us had much preferred sleeping cuddled up together inside our single shared sleeping bag in the confined space of the square closet. Because both of us are autistic, vast open rooms with drafty windows and streetlamp glare leaking through mini-blinds left our nervous systems on high alert—whereas a small, enclosed, dark space where we could tuck in together inside a single shared sleeping bag and hold each other close made us feel completely secure.
-
-"Katie, that isn't crazy at all—that's genius," I smiled.
-
-Rolling back out to the bright green sofa in the living room, we gathered up the warm navy-blue sleeping bag and the two pillows Katie had used the night before, carried them across our laps down the carpeted hallway, and spread the sleeping bag and pillows neatly across the vacuumed carpet on the floor of the hallway closet.
-
-When we transferred down out of our compact SwiftChairs onto the soft carpet at the closet threshold, we didn't bother putting pajama shirts or shorts back on. Because full-time wheelchair users with lower-extremity neuromuscular paralysis have impaired circulation below the waist, tight waistbands and tangled fabric only trapped the chill against our legs—and the fastest, most natural way to keep our core temperature steady and calm our muscle spasms all night was sharing our body heat skin-to-skin inside the sleeping bag.
-
-Climbing into the single navy-blue sleeping bag together and zipping the quilted fabric up to our shoulders, I reached up to pull the two white bi-folding closet doors completely closed until they latched, and Katie reached up to click off the overhead closet light.
-
-Instant, velvet darkness wrapped around us from wall to wall.
-
-"I missed sleeping right beside my twin sister," I whispered inside the snug, pitch-dark quiet of the enclosed closet as a single tear of relief slipped from the corner of my eye onto the pillow.
-
-Turning on our sides facing each other inside the shared sleeping bag, Katie curled her bare front tight against my chest and tucked her cool feet between my shins while I wrapped both arms securely around her bare back—holding her flush against my heartbeat at the exact same level, where nobody was hovering over a chair or caging either of us in. Within minutes, our shared warmth soaked into our legs, calming every last tremor of fight-or-flight anxiety in our autistic minds.
-
-"You're still shaken up from everything today, aren't you?" Katie asked comfortingly, resting a gentle hand against my cheek as I laid my head against her shoulder.
-
-Even in the dark, she knew me by heart.
-
-"You just want to hold me, don't you?" Katie whispered, wrapping both arms securely around my shoulders inside the shared sleeping bag so I wouldn't burst into tears again. "It's alright, Nate. Both of us went through hell this weekend, and you're emotionally exhausted. We had a long afternoon scrubbing this whole apartment back to life—so tonight, inside our own quiet little sanctuary, just hold onto me and get some sleep."
-
-She leaned over and gently kissed my forehead goodnight, just like we used to do when we were kids on Delaney Street, and bundled together inside that dark, enclosed hallway closet, both of us fell fast asleep feeling completely secure.
-
-### Part 2: The 8:13 AM Bus to CCHR, All-New Queen Bedding, Dad's Pickup Truck, & The Hallway Closet Sanctuary
-
-**Date:** 2005-11-14 at 07:30 America/New_York
-
-![Inside the back bedroom of Sea Breeze West Apartment 3 looking from the open hallway end toward the far-left corner: along the back exterior wall sit the through-wall box A/C unit on the right, the bedroom window with white horizontal mini-blinds in the center, and the queen bed pushed flush against the far corner wall in its new navy-and-slate-blue comforter set to leave wide wheelchair clearance in front of the bathroom entrance on the left interior wall, where the white bathroom door opens inward into the bathroom from the bedroom while nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_bedroom_ac_unit_and_bathroom_baseline.jpg)
-
-#### Monday, November 14, 2005, 7:30 AM — Real Milk in the Cereal Bowls & The 8:13 AM Route 1 Bus to CCHR
-
-"Good morning, sleepyhead—look what's in the bowls today," Katie called out cheerfully from the open kitchen as I rolled my compact SwiftChair out of the doorless back bedroom down the short right-hand hallway.
-
-Under the hanging amber cone pull-chain lamp, Katie was pouring cold, fresh white milk from a half-gallon carton we had picked up the night before into two bowls of toasted oat cereal on the speckled laminate counter.
-
-"Real milk!" I grinned, rolling up to the oval wooden coffee table in front of the bright green sofa as Katie carried both bowls over on a tray.
-
-"And even better news," Katie said, setting my bowl down in front of me before parking her SwiftChair beside mine. "I called Dad at his house in Virginia Beach twenty minutes ago. He knows that you and I are living together here in Apartment 3 now, he knows Tiffany left you in that disgusting mess and that the two of us spent all day Sunday scrubbing the apartment clean, and he's bringing his pickup truck over this afternoon to help us move my dresser and clothes in! Now, what time did you say the bus to Virginia Beach leaves?"
-
-"Thirteen minutes past the hour," I answered after giving my twin sister a grateful thank-you hug across our armrests. "We just roll right up West Ocean View Avenue to Ocean View Station by the Burger Arch. It's a ninety-minute ride down to the Community College of Hampton Roads Virginia Beach Campus—and we just have to remember that the last bus leaving CCHR to bring us back here is at 5:45 PM, because buses in Virginia Beach stop running around dinnertime for some reason."
-
-"Today I want to get both of us registered for our CCHR classes so we're right back on track," Katie said, taking a spoonful of cereal with real milk. "And while we're in Virginia Beach, I want to take the bus over to Chesapeake Bay Mall and buy brand-new bedding for the queen mattress—sheets, comforter, pillows, everything—because I don't trust a single thread that's currently on that bed. Which bus routes go from CCHR toward Dad's house off Military Highway and Indian River Road?"
-
-"Any of the routes hubbing out of CCHR—Routes 12, 25, 26, 29, 33, and 36," I told her.
-
-"Perfect," Katie said. "I told Dad we'd meet him with his pickup truck after we pick up the new bedding at the mall, ride over to his house to load up my basics—my laptop, my dresser, my clothes, my clock radio, and my television and DVD player—and bring them straight back here to Ocean View."
-
-As soon as we finished eating breakfast, Katie picked up both of our empty cereal bowls and our spoons from the oval coffee table and rolled straight back to the kitchen sink.
-
-"From now on, Nate, we wash as we go," Katie declared, turning on the hot tap and scrubbing both bowls with dish soap right from her wheelchair. "This way there are never any smelly, crusted dishes lying around the sink or the bathtub ever again."
-
-Glancing at her wristwatch as she set the two sparkling bowls into the drying rack, Katie dried her hands on a clean dish towel. "I want us on that 8:13 AM Route 1 bus. If we catch the 8:13 at the Burger Arch, what time will we roll into CCHR?"
-
-"Right around 9:45 AM—it's an hour and thirty minutes end to end," I said, watching in admiration as she finished wiping down the sink rim. "You really meant it about doing the dishes immediately!"
-
-"We used two cereal bowls for breakfast, and washing them the second we finish takes sixty seconds," Katie smiled, unlocking her brakes and rolling toward the front door by the white mini-blinds. "I want both of us to feel proud of how neat we're keeping our apartment. Come on—let's catch the 8:13!"
-
-Ten minutes later, at the Ocean View Station bus loop near the Burger Arch, the blue-and-silver CVTA Route 1 bus knelt at the curb and lowered its hydraulic front ramp. Rolling up the ramp one behind the other, Katie swiped her brand-new fifty-dollar thirty-day magnetic bus pass in the farebox right after mine, and the driver secured both of our compact SwiftChairs into the front wheelchair bays behind the yellow line.
-
-Even after four years in our powerchairs, the cool damp November air had left a dull ache in my lower legs, and it felt wonderful to sit securely side by side with my twin sister as the bus rolled south down Granby Street and turned east toward Virginia Beach.
-
-"Welcome to our oh-so-wonderful regional transit patchwork," I joked to Katie as the Route 1 crossed the municipal line out of Norfolk into Virginia Beach. "Back in Norfolk on Route 1, no complaints at all—you can catch a bus late into the night. Cross the city line into Virginia Beach, though, and the whole bus system shuts down at dinner like nobody with a job or a wheelchair ever needs to go anywhere after six o'clock."
-
-"Wait until we start writing about that online," Katie murmured, her blue eyes narrowing thoughtfully as she looked out the bus window at the narrow road shoulders without sidewalks.
-
-At 9:45 AM sharp, the Route 1 pulled into the transit loop at the Community College of Hampton Roads Virginia Beach Campus. Rolling into the student services building together, we got in line at the registrar's counter while I pulled out my flip phone and called Dad to let him know we had made it safely down from Ocean View on the bus and were registering for classes.
-
-At the counter, Katie and I came up with a registration plan that gave us the best of both worlds: we signed up to take United States History together in the exact same lecture section—which knocked out our required history credits side by side—while letting each of us pursue our favorite subjects in our other classes, with me diving into computer programming and software architecture while Katie registered for early European literature.
-
-At 11:45 AM, with our printed spring class schedules tucked safely into Katie's backpack, we rolled out to the CCHR bus loop and boarded CVTA Route 29 up to Chesapeake Bay Mall.
-
-"Priority one," Katie announced as we wheeled off the Route 29 ramp into the mall entrance: "I'm starving! Let's grab lunch at the food court first, and then we're heading downstairs to the department store for bedding. I'm sorry, Nate, but what Tiffany left on that bed was disgusting, and I want all-new everything so you never have to be reminded of her in our bedroom again."
-
-After eating lunch together upstairs, we took the mall elevator down to the lower level and rolled into the home-goods department among the rows of packaged sheet sets and comforters.
-
-"Can I help you two find anything today?" a friendly sales clerk asked, stepping over to our wheelchairs.
-
-"Yes, please!" Katie replied brightly. "I'm moving in with my twin brother to help him get back on his feet, and I'm looking for a complete, high-quality bedding set for a queen-sized mattress. All we're keeping is the mattress itself—we're starting completely over from scratch, so I want new fitted and flat sheets, a warm comforter, new pillows, and new pillowcases."
-
-Rolling down the aisle together, Katie and I picked out a soft navy-and-slate-blue queen comforter set with crisp cotton sheets and four plush pillows that both of us loved. After Katie paid for the giant zippered bedding bags at the register, my phone buzzed with a text from Dad: he was waiting right outside the mall doors in his pickup truck.
+Even with our guard much higher after October, hearing someone say out loud that a brother and sister sticking together came first—and watching Tiffany clear two heavy wooden café chairs out of our way at a round table two minutes later without making a fuss—made my chest feel lighter than it had in months. Forty minutes later, when we rolled out the mall's sliding glass doors toward Monticello Avenue into a sudden chilly November rain shower, Tiffany popped open her compact umbrella straight over my head and my right-hand joystick controller while her mom Sandra opened a wide navy golf umbrella over Katie's head and joystick all the way to the covered Route 20 bus shelter—handing me her phone number on the back of a cardstock bookmark before our bus arrived.
 
 ***
 
-#### Monday, November 14, 2005, 2:30 PM — Dad's Pickup Truck, A Real Grocery Run, The Confrontation With Tiffany's Van, & The Hallway Closet Sanctuary
+#### Saturday, November 20, 2004, 2:00 PM — Why Commute From Kempsville When Both of You Can Stay at Sea Breeze West?
 
-![Inside the produce section of a neighborhood grocery store on West Ocean View Avenue in Norfolk on November 14, 2005, 20-year-old twins Katie and Nathaniel Prairie roll side by side in their black motorized SwiftChair power wheelchairs as Katie consults her flip-phone grocery list and hands a bag of red apples back to their smiling 47-year-old father David pushing a metal shopping cart stocked with bananas, bread, and fresh milk.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_grocery_store_run_katie_nate_david.jpg)
+Over the next two weekends, Tiffany couldn't have acted sweeter toward both of us. When her mom dropped her off at Dad's brick ranch on Arvin Road off Indian River Road and Military Highway with extra-cheese pizza and a two-liter bottle of cold ginger ale—remembering from our very first bookstore chat that neither Katie nor I touched alcohol or coffee—Tiffany knelt right down on the living-room carpet between our two wheelchairs to look at HTML files at eye level, laughed warmly whenever Katie and I finished each other's sentences, and treated Dad with total courtesy.
 
-Rolling out through the automatic glass doors into the Chesapeake Bay Mall pickup zone, we spotted our forty-seven-year-old dad standing beside the open tailgate of his pickup truck with the folding aluminum loading ramps already set in place.
+Then, on the Saturday afternoon before Thanksgiving, after watching Katie and me groan over the printed CVTA Virginia Beach schedule showing how early the connecting buses out of Kempsville shut down every evening—and how Sunday bus service into our neighborhood didn't exist at all—Tiffany set down her plastic cup of ginger ale with a bright, helpful smile.
 
-"There are my two favorite college students!" Dad said warmly, hugging Katie and me tightly before helping us load the new queen bedding bags, secure our two compact SwiftChairs in the bed of the pickup truck, and settle into the back seat of the extended cab behind him.
+"Wait a second—why are the two of you putting yourselves through two-hour Virginia Beach bus transfers and early evening curfews every day when I literally have a ground-floor apartment sitting half-empty up in West Ocean View?" Tiffany asked, looking warmly from me to Katie. "I lease Apartment 3 on the first floor at Sea Breeze West right off West Ocean View Avenue and Duffy's Lane. CVTA Route 1 stops right at the corner—running every fifteen to thirty minutes all day and straight through the night until two-fifteen in the morning, seven days a week!"
 
-The ride down to Dad's single-story brick ranch off Military Highway and Indian River Road was quiet and easy, and once we arrived, Dad loaded Katie's clothes, her wooden dresser, her television and DVD player, her digital clock radio, her laptop, and the other essentials she felt she needed into the bed of his pickup truck. Climbing back into the cab—with Dad up front in the driver's seat and Katie and me side by side in the back—we spent the drive back across the city line into Norfolk explaining everything that had happened over the last forty-eight hours: from Brandon Mercer trying to force Katie to run away with him to Canada and Katie's five-bus escape from Williamsburg through the Saturday night rainstorm, to Tiffany screaming at us in front of the stove and dumping me on Sunday morning, to Katie offering to move in and live with me after we spent all day Sunday scrubbing out the filth.
+Katie and I glanced at each other across our armrests immediately, remembering the ironclad vow we had made on the Route 61 bus under the Chesapeake Bay five weeks earlier.
 
-Listening in the driver's seat, Dad's knuckles turned white on the steering wheel, a deep, protective fury settling behind his glasses at what both Brandon and Tiffany had put his nineteen-year-old twins through.
+"Nate and I don't split up, Tiffany," Katie said clearly and politely, resting her hand squarely over mine. "Not for apartments, not for college, and not for relationships. Wherever one of us lives, both of us live."
 
-When we arrived in Ocean View and Dad backed his pickup truck up to the white two-rail fence at Sea Breeze West, we quickly unloaded my sister's things into the courtyard of Apartment 3. Looking into the newly scrubbed open kitchen, Dad turned to the two of us.
+"Well, duh—I meant *both* of you!" Tiffany laughed without missing half a beat, reaching out to pat Katie's forearm reassuringly. "Why on earth would I ever ask twins as close as you two to split up? Apartment 3 has a wide step-free front door right off the courtyard, an open living room and kitchen where Nate can set up his desktop computer on the dining table, a big bright-green three-cushion sofa under the front blinds, a wide hallway closet, and a step-free bathroom with steel grab bars on the tub! You don't even have to sign a lease or change your Virginia Beach IDs—it's already my apartment! Bring your computers, a week or two of clothes, and your sleeping bag, and come stay with me in Ocean View!"
 
-"Do you two need to go grocery shopping while I have the truck here?" Dad asked.
+Sitting around the dining table with Dad that evening, the safety math looked totally different from Williamsburg. West Ocean View wasn't forty-five miles across the harbor on unfamiliar Peninsula routes; it sat right inside Norfolk on CVTA Route 1, twenty-two minutes up Interstate 64 from Dad's driveway on Arvin Road. Our bedrooms, our main furniture, and our legal address stayed anchored right at Dad's house; both Katie and I now carried matching silver flip phones clipped inside our lap bags right alongside the laminated calling cards tucked behind our State IDs; and above all, Katie and I would be right beside each other twenty-four hours a day.
 
-"That might not be a bad idea," Katie said immediately. "She did a horrible job keeping food in the apartment, and I didn't trust any of the food that was left. She was an absolute slob, so I threw everything out into the outdoor trash bin yesterday."
+Because I hadn't had a girlfriend look at me with stars in her eyes since Heather Collins dumped me in high school—and because Katie didn't want her own awful experience with Brandon to stop me from having a chance to be happy as long as the two of us stayed together—we loaded my Quantum OS XN Pro desktop tower, our two CCHR laptops, two suitcases of clothes, our battery chargers, and our shared navy-blue closet sleeping bag and pillows into Dad's pickup truck that Sunday afternoon, rolling side by side across the threshold of Tiffany's ground-floor apartment at Sea Breeze West without suspecting what hid underneath her smile.
 
-Ten minutes later, Dad pulled into the parking lot of the neighborhood grocery store down West Ocean View Avenue, set the folding ramps against his tailgate so we could roll our two compact SwiftChairs down onto the pavement, and walked right inside through the automatic glass doors with us. In the front vestibule, Dad pulled a full-sized metal shopping cart out of the rack to push right alongside our wheelchairs so that Katie and I could keep both hands free to steer and pick out every item ourselves.
+### Part 2: The Worst Christmas Ever: Eighteen Stops to Dirty Old Tonomy Hill, Four Days with Cousin Chelsea, & The West Main Road Shortcut Home
 
-Katie was lovingly stubborn about taking charge of the grocery run for the two of us.
+**Date:** 2004-12-24 at 15:30 America/New_York
 
-"I want to buy food that we like," Katie said firmly as our wheelchairs rolled side by side toward the bright produce section with Dad pushing the cart half a step behind us. "Yes, she bought food, but she didn't take any of your input. You know that as well as I do."
+#### Friday, December 24, 2004, 3:30 PM — Eighteen Stops to Dirty Old Tonomy Hill & The Mask Slipping in the Cold
 
-She thought about it for a moment as her tires hummed across the polished floor, then added, "And I don't believe she was really allergic to milk, since she ate ice cream."
+"Oh, great—another girl," twenty-year-old Tiffany muttered with a sharp, ugly edge in her voice as the blue-and-white Ocean State Transit Authority Route 63 bus hissed away from the curb on Dirty Old Tonomy Hill on Friday afternoon, Christmas Eve, leaving Katie, Tiffany, and me in the biting Rhode Island December wind outside the weathered World War II-era public housing buildings.
 
-"Chocolate ice cream," I said.
+"I already told you, Tiffany, all of our cousins are women—there really aren't any other guys our age in our family," I replied wearily from my compact SwiftChair while Katie reached across the narrow gap between our wheelchairs in her thick winter parka and squeezed my gloved fingers.
 
-"Point being, if she could eat dairy, she could have milk," Katie said as we rolled up to the misted produce tables. Reaching out from her wheelchair, she inspected a pyramid of crisp red apples, bagged half a dozen firm ones, and handed the bag up to Dad to set into the shopping cart. "Here—you haven't had apples in a while."
+We were in Newport, Rhode Island—our dad David's birthplace and childhood home—at the tail end of a bone-rattling overnight and daylong Pathfinder bus marathon up the Eastern Seaboard. Because our Aunt Elizabeth had died earlier in 2004 from lifelong smoking not long after our Grandma Ruth passed away, our twenty-two-year-old paternal cousin Chelsea was facing her very first Christmas without her mother. Dad had bought round-trip Pathfinder tickets for Katie and me so Chelsea wouldn't spend Christmas Eve crying alone—and the second Tiffany heard Katie and I were taking a four-day trip together without her, Tiffany had flatly refused to stay behind in Norfolk and insisted on tagging along on our holiday visit.
 
-"What else do you want to get?" I asked.
+Getting two powerchairs from Norfolk to Newport on Christmas Eve had been an eighteen-stop haul across four separate terminal transfers where drivers had to cycle the coach wheelchair lift twice at every gate: starting downtown in Norfolk, crossing the harbor to Hampton and stopping briefly in Williamsburg and Richmond, changing buses for Fredericksburg, Springfield, and Washington, changing a second time to crawl off Interstate 95 onto Interstate 395 through block after block of Downtown Baltimore traffic lights on West Fayette Street before rolling up through Newark, Delaware and Philadelphia into the crowded subterranean gates of Manhattan's Port Authority Bus Terminal, changing a third time up the Connecticut coast through Bridgeport, New Haven, Braxton, and Providence into Boston's South Station, and changing a fourth time down through Fall River, Massachusetts into the Newport Gateway Center to board local OSTA Route 63.
 
-Katie pulled out her flip phone, flipped it open, and angled the screen toward my eyes. "I made a list of what we need. I want to completely restock the apartment with you-and-me food."
+Before Tiffany could snap another remark about Katie and me sitting together on the bus, the front door of the nearest weathered building swung open.
 
-Rolling slowly along the produce tables together while Dad followed with the cart, Katie and I picked out a bunch of ripe yellow bananas for morning snacks before our bus rides to CCHR, a head of crisp green leaf lettuce and two vine-ripened tomatoes for sandwiches, a bag of baby carrots, and a five-pound mesh sack of russet potatoes that I lifted off the lower wooden bin and passed back to Dad. Each time we chose something, Dad took it from our hands with an approving nod and arranged it neatly in the basket of the cart so nothing bruised.
+"Nate! Katie! Welcome to Newport!" cried a slurred, overjoyed voice as our twenty-two-year-old cousin Chelsea hurried down the low wooden entry ramp with her familiar uneven gait, dropped down between our two wheelchairs, and threw one arm around my neck and the other around Katie's shoulders in a tight squeeze hug. "I'm s-so happy you came for Christmas!"
 
-From produce, we rolled down the bakery aisle, where Katie reached out to grab a soft loaf of whole-wheat sandwich bread and handed it to Dad, before steering us toward the refrigerated packaged meat wall.
+A tear spilled from the corner of Chelsea's eye. Aunt Liz's heavy smoking during pregnancy was the reason Chelsea had been born developmentally disabled, with a severe speech impediment and chronic asthma requiring her to carry both her daily maintenance inhaler and her rescue inhaler everywhere—yet Aunt Liz was still her mama, and missing her weighed heavily on Chelsea's heart.
 
-"Lunch meats for us, of course," Katie said, scanning the pegs of plastic-sealed packages.
+"So you really like *my* boyfriend, huh?" Tiffany asked beside us, curling her lip in open disgust as Chelsea hugged me again.
 
-"Can we get the meat from the deli instead?" I asked.
+"Nate an' Katie are my only family, my only cousins!" Chelsea answered innocently through her speech impediment, completely missing the venom behind Tiffany's tone as she led the three of us up the interior ramp into her small ground-floor apartment. "Make yourselves cozy on the couch! I gotta take a shower real quick."
 
-"Sure," Katie said, pivoting her SwiftChair around while Dad turned the shopping cart to follow us back toward the lighted glass deli counter. "What kind of meat would you like?"
+The second the bathroom door clicked shut and the shower water turned on, Tiffany whirled around in the middle of Chelsea's living room, her face dark red behind her black-rimmed glasses as she glared at Katie and me parked wheel-to-wheel near the sofa.
 
-"Just some ham will do," I said as our two wheelchairs rolled up to the deli case.
+"First your twin sister holds your hand across every bus aisle from Virginia to Massachusetts, and now your cousin can't keep her hands off you either!" Tiffany started screaming at the top of her lungs.
 
-"Sure, I'll get some ham. Half a pound sound good?" Katie asked me.
+"Keep your voice down, Tiffany—you're in Chelsea's home, and she doesn't understand adult arguments!" Katie warned sharply, braking her chair half an inch forward to shield my left side right as the bathroom door flew wide open.
 
-"Sure," I replied.
+Because the sound of Tiffany screaming at us through the thin drywall had terrified Chelsea into thinking someone was hurting her cousins—and because Chelsea's developmental disability meant she genuinely did not grasp abstract modesty rules when someone she loved sounded in danger—Chelsea came bolting straight out of the shower soaking wet and completely naked, dripping soapy water onto the carpet without the faintest awareness that she had zero clothes on.
 
-Looking up at the clerk behind the glass counter, Katie smiled politely. "I'll take a half pound of thinly sliced honey ham, please."
+"W-why are you yelling at Nate an' Katie?!" Chelsea gasped in a frightened, wheezing voice.
 
-When the clerk handed down the warm, white-paper-wrapped parcel sealed with its printed weight label, Katie checked it with a satisfied nod and passed it back to Dad, who laid it carefully beside the bread in the top basket of the cart.
+Tiffany recoiled and shrieked in outrage—growing twice as furious when neither Katie nor I acted shocked at all. Keeping my eyes respectfully turned toward the hallway wall while Katie rolled smoothly forward to pull a thick dry bath towel off the linen shelf, both of us remembered from childhood visits—like Christmas 1994 when we were nine—that Chelsea didn't always understand why she needed clothes on inside a safe house, and that our family always guided her gently and patiently without shaming her.
 
-"We need to get a few more items on my list," Katie said, glancing down at her phone screen again. "Condiments, of course, to make sandwiches, and breakfast food. Milk and cereal, of course, but I also want to get other breakfast supplies in case we want pancakes or eggs or whatnot."
+"It's okay, Chelsea—nobody's hurt, sweetheart, let's get you dried off and warm in your pajamas," Katie said in the calmest, most loving voice imaginable, wrapping the big fluffy towel all the way around Chelsea's shoulders to protect her dignity and guiding her gently back into the bathroom while Chelsea took a shaky puff from her rescue inhaler by the sink.
 
-"Alright. What about dinner?" I asked.
-
-"That's why we're getting meat," Katie said as we rolled back along the fresh meat case and she eyeballed the cuts arranged on the chilled display trays. "I don't want to get too much since it will be just you and me."
-
-Working together from our chairs, Katie and I picked out a smaller two-person package of lean ground beef for skillet pasta nights and a pair of boneless chicken breasts, handing both trays up to Dad to tuck into the lower rack of the shopping cart.
-
-For the next twenty minutes, the three of us went up and down the center grocery aisles in an easy, familiar rhythm—Katie and I rolling side by side down each aisle picking out what we wanted from the middle and lower shelves, while Dad pushed the cart behind us, took each jar or box from our hands, and reached up to the top shelves whenever Katie pointed to something just above our seated reach. In the condiment and pasta aisle, we picked out squeeze bottles of yellow mustard and mayonnaise for our honey-ham sandwiches, two boxes of enriched pasta, and two jars of marinara sauce; in the soup and canned-goods aisle, we picked out cans of chicken noodle soup and green beans to stock the new pantry shelves we planned to put in the hallway closet; and in the baking aisle, Katie grabbed a box of buttermilk pancake mix and a bottle of maple syrup for lazy weekend mornings.
-
-When we rounded the back dairy wall, I reached into the chilled case for a carton of Grade A large eggs and a pack of salted butter while Katie pulled two cold half-gallons of whole milk off the middle rack and handed them to Dad to stand upright in the cart.
-
-Then we turned into the cereal aisle—and without saying a single word to each other, both Katie and I rolled straight to the exact same section of shelving and reached out at the exact same instant for two boxes of the toasted oat cereal we had both loved since we were kids.
-
-Ah, the joys of being twins: we shared pretty much everything.
-
-Dad chuckled warmly behind the handlebar of the shopping cart as Katie and I handed him the matching cereal boxes at the same time.
-
-As we rolled out of the cereal aisle past the glass-door frozen-food cases toward the front checkout lanes, a mischievous grin spread across Katie's face.
-
-"One last thing," Katie suggested, braking her chair beside the ice-cream doors. "Let's get ice cream, just to stick it to that old bat."
-
-Laughing out loud, I pulled open the frosty glass door from my chair, Katie reached in to grab a tub of rich chocolate-fudge ice cream, and Dad grinned as he set it right on top of the cart.
-
-At the front register, Dad refused to let Katie pull out her wallet, paying for our entire cart of groceries himself before pushing the loaded cart out to his pickup truck and helping us load every bag into the cab and truck bed for the two-minute drive back to Sea Breeze West.
-
-"I want to organize everything reasonably, now that she is gone," Katie said as we rolled back toward the courtyard of Apartment 3. "I didn't like how she had everything haphazardly placed."
-
-Before Katie could put her plan into action, we saw a familiar minivan pull into the parking lot right outside the white two-rail fence—and something in my chest told me how glad I was that Dad was right here with us.
-
-I recognized that van from anywhere. Rolling flush against Katie's chair, I threw both arms around my twin sister, hugged her as tightly as I could, and whispered against her shoulder, "It's them. I know that van from anywhere."
-
-Standing beside his pickup truck with Katie's wooden dresser still strapped in the bed, our dad turned around, watched Tiffany and her scowling mother step out of the minivan, and planted himself across the courtyard walk like an immovable wall.
-
-"Get your stuff—my daughter put it all in one pile—give us your key, and leave," our father snarled in a low, iron voice that left zero room for argument. "You are no longer welcome in my family."
-
-Neither Tiffany nor her mother dared to talk back to Dad. Avoiding our eyes, they hurried past him to the front threshold where Katie and I had stacked all of Tiffany's bags and boxes in one giant pile. Because they had only come in a minivan, they could only take what would actually fit inside a minivan. Trip after silent trip, Tiffany and her mother hauled out bag after overstuffed bag of her clothes and personal clutter, shoving them into the back cargo area and across the middle bench seat until the minivan was packed nearly to the roof. There was zero room left in their van for the queen bed or for Tiffany's bulky bedroom dresser.
-
-When Tiffany's mother glanced at the stuffed minivan and muttered that they didn't have room for the television, the rabbit-ears antenna, and the VCR that were still sitting on top of Tiffany's dresser against the right wall of the back bedroom beneath the high-mounted through-wall air conditioner, neither Katie nor I wanted a single piece of her electronics left behind—and Dad wasn't having it either.
-
-"You're taking that television and VCR with you right now," Dad said flatly.
-
-Marching straight down the carpeted hallway into the doorless back bedroom, Dad stepped over to the right bedroom wall beneath the high-mounted air conditioner, yanked the power cords out of the wall outlet, unplugged the coaxial lead, lifted Tiffany's television, rabbit ears, and VCR off the top of her dresser in one load, and carried them right out across the courtyard himself. Opening the minivan's passenger-side sliding door, Dad wedged the television, the VCR, and the folded rabbit ears firmly onto the floorboard in front of the middle seat, then held out his open palm.
-
-Without a word, Tiffany dropped her brass apartment key into Dad's hand, climbed into the minivan beside her mother, and backed out of the Sea Breeze West parking lot for the last time in our lives.
-
-Katie promised right away that she would comfort me whenever I needed it—which I did. As the minivan disappeared down West Ocean View Avenue, I could still see the fierce, protective anger burning in my dad's eyes: anger directed squarely at Tiffany and her mother for everything they had put me through.
-
-Refusing to leave Tiffany's dresser inside our apartment for one more minute, Dad marched back into the bedroom, muscled Tiffany's empty dresser away from the right wall below the air conditioner, hauled it out through the straight carpeted hallway and out the front door by himself, and hoisted it into the bed of his pickup truck so he could take it straight to the landfill on his way home. Once Tiffany's dresser was out of the apartment, Dad, Katie, and I brought Katie's wooden dresser in from the pickup truck and placed it right against that exact spot on the right wall of the bedroom below the high-mounted air conditioner, setting Katie's television and her DVD player neatly on top of her dresser. Now the only piece of furniture left behind from Tiffany was the queen bed pushed into the far-left corner of the bedroom—just a box spring and an aging queen mattress whose center was noticeably caving in.
-
-Pressing his hand against the sagging middle of the bare mattress as we stripped it down and fitted our crisp new navy-and-slate-blue sheets, comforter, and four fresh pillows from Chesapeake Bay Mall over it, Dad shook his head at how badly the springs were caving in and promised Katie and me that he would replace the queen bed for us.
-
-As we started arranging our things inside the apartment, Katie rolled up beside me and squeezed my hand.
-
-"You need comfort?" Katie promised gently. "I'm right here for you, and always will be."
-
-![Inside the back bedroom of Sea Breeze West Apartment 3 looking from the open hallway end toward the far-left corner: along the back exterior wall sit the through-wall box A/C unit on the right, the bedroom window with white horizontal mini-blinds in the center, and the queen bed pushed flush against the far corner wall in its new navy-and-slate-blue comforter set to leave wide wheelchair clearance in front of the bathroom entrance on the left interior wall, where the white bathroom door opens inward into the bathroom from the bedroom while nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_bedroom_ac_unit_and_bathroom_baseline.jpg)
-
-Rolling back out to the large repurposed dining table on the far-left side of the front room—where our seventeen-inch off-white CRT monitor sat beside my 2004 desktop tower fitted with the salvaged off-white three-and-a-half-inch floppy drive, CD-ROM drive, and CD-RW drive from our older desktop computer—I turned to my sister.
-
-"I want to redo the desktop in the front room, so that it's used for both of us," I said. "I want to get rid of any traces of her from it."
-
-"I want to help," Katie replied, rolling her SwiftChair right up beside mine.
-
-"What I'd like to do is set up the desktop to have user accounts for the two of us," I said.
-
-"We have laptops," Katie said.
-
-"I know," I said, my eyes lighting up as the architecture took shape in my head. "Someday, what I think would be neat is to have it set up so that no matter which computer we log in from, it would have all of our data." I paused for a moment, glancing at the glowing seventeen-inch CRT screen as I popped open my binder of Quantum OS XN Pro installation discs, then continued, "I just want to get rid of any traces of her from the desktop. Yes, I'm going to reinstall everything, starting from scratch."
-
-![Inside the combination living room and open kitchen of Sea Breeze West Apartment 3 as their father David Prairie steps in with cleaning spray and paper towels to help nineteen-year-old twins Katie and Nate finish cleaning and unpack fresh groceries onto the L-shaped olive-green counters, with the 17-inch off-white CRT monitor running Quantum OS XN Pro and the 2004 tower with salvaged beige drives on the far-left dining table]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_dad_confronts_van_reclaimed_twin_apartment.jpg)
-
-While the fresh installation formatted the desktop hard drive from scratch, Katie and I rolled down the straight right-hand hallway to put fresh bathroom supplies away in the back. Pausing beside the two white bi-folding doors of the hallway closet on the left wall—where the doors opened outward toward the solid right exterior wall—Katie looked thoughtfully at the upper space inside the closet.
-
-"You know?" Katie said. "I think I would like to turn half of this closet into a pantry. We have our dressers for clothes, we have a few coats and whatnot that need to be hung, so there should be plenty of room to get some shelving."
-
-"We should look for some shelving someday," I said, noticing how well the half closest to the kitchen would work for pantry shelves while the half closest to the bedroom held our hanging coats above the clear carpeted closet floor.
-
-"Yeah. Meanwhile, we need to finish unloading groceries," Katie replied as we rolled back out to the open kitchen and she started putting items away in the olive-green cabinets and the refrigerator.
-
-After a few minutes, every last grocery item was put away in our spotless kitchen. Katie transferred onto the bright green three-cushion sofa beneath the front window blinds and allowed me to transfer over and snuggle with my head resting in her lap.
-
-Looking up as Dad stepped back inside from tying down Tiffany's old landfill-bound dresser in the bed of his pickup truck, Katie smiled warmly.
-
-"Dad, I would like to get some shelving for the closet," Katie said. "I was thinking it would be perfect for half a pantry, and the other half will be where we hang our clothes up."
-
-"Next time I am off," Dad said, resting a gentle, proud hand on Katie's shoulder and then on mine.
-
-"Alright, Dad. Let us know," Katie said happily. "Guess you should be heading home."
-
-When the front door clicked shut behind Dad and the quiet hum of our freshly formatted Quantum OS XN Pro desktop filled the clean, linen-scented living room of Apartment 3, Katie wrapped both arms around my shoulders on the green sofa, and I knew without a shadow of a doubt that the year of hell was over—and that my twin sister and I were never letting anyone tear us apart again.
-
-### Part 3: The Goyeau Street Tunnel Bus, The Federal Courthouse on Granby Street, & Protected Non-Traveling Complainant
-
-**Date:** 2005-11-16 at 14:00 America/New_York
-
-![Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk on November 16, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg)
-
-#### Wednesday, November 16, 2005, 2:00 PM — The Federal Courthouse on Granby Street & Special Agent Morales
-
-![Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk on November 16, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg)
-
-By Wednesday afternoon, November 16, 2005, Katie's wooden dresser, her television and DVD player, her digital clock radio, and her laptop were all settled into their permanent places inside Apartment 3 at Sea Breeze West on West Ocean View Avenue, and forty-eight hours of uninterrupted sleep inside our shared sleeping bag in the dark hallway closet and warm meals at our scrubbed kitchen table had finally steadied her nervous system enough to face a badge.
-
-At two o'clock that afternoon, Dad met Katie and me outside the brick entrance of the Walter E. Hoffman United States Courthouse and federal building on Granby Street in downtown Norfolk—right off CVTA Route 1, just a twenty-minute ride south from Duffy's Lane. Because Brandon had attempted to force a disabled woman across state and international borders using interstate rail and tunnel-bus tickets after months of coercive isolation in Williamsburg, a detective from the Williamsburg Police Department and an investigator from the United States Attorney's Office for the Eastern District of Virginia had arranged to take Katie's statement together in a quiet ground-floor conference room so she wouldn't have to travel back up the Peninsula.
-
-Katie sat in her compact SwiftChair at the head of the long oak table with my chair locked right beside her right armrest and Dad sitting at her left shoulder. Spread out on the blotter in front of the federal investigator—Special Agent Morales—sat Katie's flip phone containing twenty-four saved voicemails from Brandon between Saturday afternoon and Sunday morning, along with the crumpled paper CVTA transfer slips from her five-bus escape through the rain.
-
-"Take your time, Miss Prairie," Agent Morales said gently, clicking his pen open above his legal pad while the Williamsburg detective turned on a small digital tape recorder. "Start with Friday night and Saturday afternoon in Williamsburg. You mentioned on the phone that Mr. Mercer was trying to take you to Canada against your will, and that you were afraid you might have broken a law by running away from him at the train station."
-
-Katie reached sideways and held onto my hand on the armrest between our chairs, drawing a steady breath before she spoke.
-
-"He told me for weeks that my dad and my brother didn't really care about me, and on Friday night he printed out maps for Windsor, Ontario," Katie said, her voice quiet at first but growing clearer as she went through the exact timeline. "He demanded my birth certificate folder and my state identification card, and when we got to the Williamsburg train station on North Boundary Street on Saturday afternoon in the rain, he locked the motor-brake levers on the back of my power wheelchair and switched off my joystick under the overhang, telling me not to move while he went inside to buy two one-way train and tunnel-bus tickets to Canada. I didn't want to go to Canada, and I didn't want to be near him anymore. When I saw the Colonial Triangle Transit Authority Grey Line bus pull in with Newport News on the sign, I switched my joystick back on, drove onto the bus, and took five buses all the way home to my brother's apartment in West Ocean View."
-
-"And normally, in a case where the victim escapes at the station before boarding the train," the Williamsburg detective noted, leaning forward across the table, "the suspect claims it was all a misunderstanding—that he never actually bought tickets to leave the country, or that he was just planning a short weekend trip."
-
-"Wait until you hear the last voicemail he left on her phone at eleven-thirty Saturday night from Washington before his train headed northwest toward Pittsburgh and Toledo," Dad said grimly, tapping the side of Katie's flip phone on the table. "After he spent two hours marching back to the Virginia Avenue apartment in the rain thinking she was hiding there, he realized she was gone for good and that we would be coming to the police. Rather than stay in Virginia to face the law or lose the cash he had spent at the ticket window, he boarded the northbound evening train alone—furious that she left him holding two non-refundable tickets to Windsor, and swearing he was going across the Canadian border without her so American law couldn't touch him."
-
-Agent Morales raised an eyebrow and pulled his heavy black agency laptop closer across the conference table.
-
-"He actually got on that train to Michigan and tried to cross the tunnel into Ontario?" Morales asked, his fingers already flying across the keyboard to log into the federal Treasury Enforcement Communications System. "Let's see if a Brandon Mercer crossed the Detroit-Windsor border on Sunday."
-
-For ten seconds, the only sound in the quiet conference room was the click of keys and the soft whir of the laptop cooling fan.
-
-Then Agent Morales stopped typing, stared at his screen, and let out a low, astonished whistle.
-
-"Well, I'll be damned," Morales said, turning the laptop screen forty-five degrees so Dad, Katie, and I could all see it from our side of the table. "Look at this timestamp from Sunday afternoon, November 13, at four-fifteen."
+"I wish it was j-just you an' Nate," we heard Chelsea whimper against Katie's shoulder behind the bathroom door. "She's scary!"
 
 ***
 
-#### The Goyeau Street Inspection Plaza, The Caged CBSA Van, & Stranded in Detroit With Thirty-Four Dollars
+#### Friday, December 24 – Monday, December 27, 2004 — Locked Safe Inside Chelsea's Bedroom & The West Main Road Shortcut Home
 
-Katie leaned forward in her SwiftChair, her blue eyes widening as she read the federal border readout on the monitor.
+Right after Christmas Eve supper, Tiffany leaned close to the kitchen counter and hissed loud enough for the whole room to hear: "She has a crush on you, Nathaniel, and it's sick. First your sister, now her—I'm starting to wonder where your loyalties are!"
 
-"United States Customs and Border Protection, Detroit-Windsor Tunnel Plaza, East Jefferson Avenue and Randolph Street," I read aloud beside her, tracing the lines on the screen with my eyes. "Subject Brandon Mercer returned in custody of Canada Border Services Agency enforcement van following formal refusal of entry at Windsor Goyeau Street terminal under IRPA Sections 20 and 39."
+"Don't you dare talk about our cousin like that!" I snapped, my patience finally breaking as Chelsea stood by the sink with fat tears rolling down her cheeks. "Look—you made her cry! Her mother died, our Grandma Ruth died, and Katie and I are the closest family she has left! Because of her disability, Chelsea doesn't know the difference between family love and romantic love—she hugs Katie and me the exact same way she did when we were eight years old!"
 
-"Wait—Canada didn't even let him in?!" Katie gasped, her hand tightening around mine.
+Sobbing heavily and wheezing around her breath, Chelsea grabbed Katie's sleeve with one hand and my sleeve with the other, tugging both of our wheelchairs down the short hall into her bedroom.
 
-"Not even thirty minutes inside the building before they threw him out in disgrace," Agent Morales said, scrolling down through the scanned attachments uploaded by the Detroit CBP supervisor on Sunday evening. "Look at the narrative filed by the Canadian Border Services officers at the Goyeau Street and Wyandotte Street East plaza, and the secondary customs report from our officers on the Detroit side. Mr. Mercer walked off the Windsor Transit Tunnel Bus on Sunday afternoon carrying a fifty-pound canvas duffel bag after thirty hours without sleep. According to the primary officer at Podium Two, he stood out twenty feet away—sweating in the November chill, jaw clenched, eyes darting toward the ceiling cameras and the exit doors leading out to Park Street East, and his left hand hovering defensively over the yellow ARTS multi-city ticket jacket sticking out of his wet coat pocket."
+"Just Nate an' Katie!" Chelsea sobbed fiercely when Tiffany marched down the hall trying to follow us in. The instant Katie's rear wheels cleared the doorframe beside mine, Chelsea slammed her bedroom door straight in Tiffany's face and twisted the brass thumb-lock shut.
 
-Agent Morales clicked open the scanned exhibit pages one by one as the three of us leaned in to read.
+"Mean Tiffany stay out! Only Katie an' Nate!" Chelsea cried, reaching for her puffers on the dresser before tugging off her damp sweater to climb under the covers—blurting out through her tears that she didn't care about pajamas because she always slept naked anyway, until Katie gently tucked Chelsea's soft pink cotton nightshirt over her head and helped her pull the heavy quilt all the way up to her chin so she stayed warm and covered.
 
-"When the Canadian officer asked where he was staying in Ontario and when he was returning to Virginia, Mr. Mercer admitted he had no hotel reservation because he had planned to use your disability income once you crossed the river, and he snapped at the officer that he was going to walk over toward Wyandotte Street and catch a train toward Toronto," Morales continued, shaking his head at the screen. "Then the officer made him hand over the yellow rail and bus ticket jacket—and saw that he had paid cash in Williamsburg the afternoon before for two one-way tickets to Ontario, including a printed ADA wheelchair bay reservation for Katie Prairie, with zero return ticket to the United States. When the officer asked why he was traveling alone on a two-person wheelchair itinerary and why he was so nervous, Mr. Mercer lost his temper at the podium, barked that his girlfriend had bailed on him at the train station in Virginia, and told a Canadian border officer that as an American citizen with a birth certificate he had a legal right to cross the border."
+Terrified that if Katie and I rolled back out into the living room Tiffany would scream at us all night long, Chelsea clung to Katie's hand and mine and begged both of us not to unlock the door. Every single night of that three-night stay—Christmas Eve, Christmas night, and Sunday night—Katie and I transferred out of our SwiftChairs fully dressed in our sweaters and jeans and curled up side by side along the outer edge of the quilt holding Chelsea's hands until her asthmatic breathing slowed into sleep, leaving a furious Tiffany banished alone on the living-room sofa outside.
 
-Beside me, Dad let out a dry, disbelieving laugh. "He told a foreign border agent he had a right to enter their country?"
+When Monday morning, December 27 finally arrived and we packed up to leave, Chelsea glanced down at our printed Pathfinder return tickets—and even with her developmental delays, spotted a timetable disaster immediately. Our itinerary started at the Newport Gateway Center on a local run to Fall River, Massachusetts with only a five-minute transfer window to catch the connecting coach to Providence. Unloading two powerchairs on a hydraulic lift in Fall River in five minutes was physically impossible; we would miss the Providence bus cold.
 
-"Fastest way in North America to get a coded yellow referral slip slapped onto your file," Agent Morales said. "Officer Vance walked him straight into the CBSA Windsor Tunnel District Operations secondary inspection room on Park Street East right off the Goyeau Street plaza, where two Canadian officers unpacked his fifty-pound duffel bag on the steel table. Underneath twenty days of winter clothes, they found his original birth certificate, his Social Security card, his high school diploma folder, three pages of printed internet notes about relocating permanently to Ontario and signing up for provincial healthcare and social assistance, a wallet with thirty-four dollars in crumpled American bills, and a Williamsburg train station ATM receipt showing a remaining checking balance of four dollars and twelve cents."
+"D-don't take Fall River bus!" Chelsea told us earnestly at the top of her wooden ramp, hugging Katie and me tight while ignoring Tiffany completely. "Take OSTA Sixty right out on West Main Road—goes straight over bridge to Providence Kennedy Plaza, whole hour early!"
 
-Right there on the federal computer monitor popped up the high-resolution scan of the yellow ARTS ticket jacket purchased at 3:56 PM on Saturday, November 12—complete with the unused companion voucher reading *PRAIRIE, K. — ADA WHEELCHAIR SPACE RESERVED*—followed by the stamped Canadian refusal packet citing Sections 20 and 39 of Canada's Immigration and Refugee Protection Act for attempting to reside permanently without legal status and financial inadmissibility.
+Whispering a quiet promise in Chelsea's ear as Katie and I hugged her goodbye—*Next time we come up, Cous, I swear it really will be just Katie and me, zero Tiffany*—we rolled out to West Main Road, rode OSTA Route 60 straight into Providence with forty-five minutes to spare, and rolled all the way back down the Eastern Seaboard to Norfolk side by side, knowing now beyond a shadow of a doubt who Tiffany Sloan really was behind her black-rimmed glasses.
 
-"Normally, when Transit Windsor brings an inadmissible passenger across the tunnel, Canada puts them back on the public four-fifteen tunnel bus under a Direction to Return form," Agent Morales explained, scrolling to the bottom of the Canadian superintendent's report. "Except when the Shift Superintendent told Mr. Mercer his name, photograph, and fingerprints were permanently flagged in the Canadian enforcement database and that they were sending him back to Detroit with thirty-four dollars, Mr. Mercer lunged halfway across the steel counter shouting that everything he owned was in that bag. So the superintendent canceled the bus turnaround, locked him in the caged rear compartment of a marked CBSA enforcement van, drove him back under the Detroit River through the tunnel, and walked him straight through the steel security door of the United States Customs and Border Protection compound at East Jefferson Avenue and Randolph Street in downtown Detroit."
+### Part 3: Milk Isn't Allowed in This Fridge, Tiffany's Sunday Morning Accusation, & Yes-or-No Questions Through Tears
 
-"And our customs officers searched him all over again?" I asked.
+**Date:** 2005-11-13 at 08:30 America/New_York
 
-"Under Title 19, Section 1582 of the United States Code, every person returned from a foreign port of entry undergoes a mandatory warrantless border examination," Agent Morales nodded. "Because you were still decompressing here in Norfolk on Sunday afternoon and hadn't filed your police report yet, no Virginia warrant popped up in NCIC when Detroit CBP ran his ID. So our Detroit supervisor did the next best thing: he scanned the entire Windsor refusal file, the Ontario relocation printouts, the Williamsburg ATM receipt, and your unused wheelchair ticket stub directly into the federal Treasury Enforcement Communications System, creating a permanent, time-stamped federal evidentiary record—and then at five-thirty Sunday evening, they buzzed the steel door open and dumped him out onto the sidewalk of East Jefferson Avenue in the thirty-eight-degree Detroit rain."
+![Inside the cluttered kitchen of Sea Breeze West Apartment 3 on Sunday morning, November 13, 2005, twenty-one-year-old Tiffany Sloan in black-rimmed glasses and a mint-green shirt screams in front of the filthy stove and black top-freezer refrigerator while twenty-year-old twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs overwhelmed and near tears.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg)
 
-Dad stared at the screen, his jaw dropping open before a slow, fierce grin broke across his face.
+#### Autumn 2005 — No Milk in the Fridge, Pots in the Bathtub, & The Brick Wall Inside Tiffany's Hallway Closet
 
-"He handed the federal government the entire prosecution exhibit himself," Dad said in amazement. "He rode six hundred miles to the Canadian border with Katie's wheelchair ticket in his pocket and confessed to federal border officers on both sides of the river!"
+"Get that carton away from my refrigerator right now, Nathaniel—I told you milk is nasty, and milk is not allowed inside my apartment!" twenty-one-year-old Tiffany barked from the kitchen doorway of Apartment 3 at Sea Breeze West one evening that autumn, snatching the cold plastic half-gallon of two-percent milk straight off my lap tray and pouring the entire unopened jug down the greasy stainless-steel sink drain while Katie and I sat frozen side by side in our compact black SwiftChairs.
 
-"In twenty years of federal law enforcement, I don't think I've ever seen a suspect package an interstate coercion and attempted abduction case against himself this neatly," Agent Morales agreed, printing out the twelve-page border encounter packet on the portable printer beside his briefcase. "When Detroit CBP released him off the federal plaza Sunday night with thirty-four dollars in his pocket, he didn't even have enough cash for a bus ticket back to Virginia. Two nights ago, a Detroit Police patrol unit ran his ID during a routine check outside a men's homeless shelter on Cass Avenue after he got into an argument in the intake line over his duffel bag. With this federal border file corroborating the Williamsburg charges, we'll have a felony fugitive warrant in the NCIC computer before five o'clock today, and the United States Marshals Service task force in Detroit will pick him up right at that shelter's doors tonight."
+Once the holiday trip to Newport peeled Tiffany's polite mask completely off, living inside her ground-floor apartment on West Ocean View Avenue across 2005 turned into a slow, suffocating grind of filth, arbitrary rules, and behind-closed-doors intimidation. Whenever nobody from outside could see through the front window blinds, Tiffany dropped every ounce of the sweet bookstore persona she had used at Chapters & Co. She refused to carry trash out to the dumpster behind the building, leaving tied-up white plastic garbage bags slumped along the kitchen baseboard, and whenever the two-basin sink filled up with crusted skillets and hardened macaroni pots, she simply stacked the dirty pots and pans straight onto the porcelain floor of the bathroom tub rather than wash a single dish.
+
+Worse than the filth was the way she went after our autism and our wheelchairs whenever she didn't get her way. If my fingers tapped quietly against my armrest while reading a CCHR textbook, or if Katie rocked her shoulders half an inch to self-regulate after a loud Route 1 bus ride, Tiffany mocked our movements to our faces and snapped that we acted like toddlers instead of twenty-year-olds. Behind closed doors, when she wanted past us in the narrow hallway instead of waiting two seconds for us to back up, she grabbed the push-handles or armrests of our SwiftChairs and shoved our wheelchairs roughly against the drywall, or caught Katie sharply by the upper arm when Katie rolled between us to defend me—always followed ten minutes later by the exact same manipulative lecture Brandon Mercer had used in Williamsburg: that "real adults in relationships" didn't run tattling to their fathers or cling to their twin siblings all evening.
+
+Out on the breezy concrete courtyard walkway one afternoon while Tiffany was at work, Katie braked her chair flush against mine, looked straight into my eyes, and drew a hard line in the sand.
+
+"Nate, I'm only staying under this roof because I refuse to leave you alone with her for five minutes," Katie whispered fiercely, squeezing my hand. "If she ever brings up the word marriage—even as a joke—I'm going to sit in the front pew of that church right up until the minister says *Speak now or forever hold your peace*, and I am rolling straight down the center aisle screaming *NO* at the top of my lungs!"
+
+"You wouldn't even have to scream it alone, sis—I'd be rolling right beside you out the church doors," I whispered back.
+
+Because Katie and I had learned our lesson in Williamsburg—and because we unconditionally prioritized each other over everyone else on earth—Tiffany ran headfirst into an unbreakable brick wall every night at bedtime. Her queen mattress in the doorless back bedroom had sagged into a deep, sour-smelling trough down the middle, and when Tiffany demanded that I leave Katie alone and sleep beside her in that caving-in bed while Katie slept out by the front desk, I flatly refused. Every single night without fail, Katie and I parked our two SwiftChairs side by side in the straight right-hand hallway, pulled open the two white bi-fold doors of Tiffany's three-by-six hallway closet beneath the wire pantry shelves and hanging winter coats, and transferred fully clothed in clean T-shirts and sweatpants down into our single shared navy-blue sleeping bag and two white pillows—zipping the bag up and pulling the bi-fold doors nearly shut from the inside so we could hold each other safely in the pitch dark.
+
+![Inside the hallway of Sea Breeze West Apartment 3 in autumn 2005, twenty-year-old fraternal twins Katie and Nathaniel Prairie are tucked fully clothed into their shared navy-blue quilted sleeping bag on the carpeted floor beneath the white wire pantry shelves and hanging winter coats of the hallway closet, wrapped in a close, soothing two-arm embrace while their two empty black SwiftChair power wheelchairs sit parked in the hallway outside.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_closet_sleeping_bag_reunion_full_cuddle_katie_nate.jpg)
 
 ***
 
-#### "Protected Non-Traveling Complainant (V-W, Zero Infraction)"
+#### Sunday, November 13, 2005, 8:30 AM — Tiffany's Filthy Lie, The Family Life Rule, & Yes-or-No Questions Over a Flip Phone
 
-Agent Morales slid the freshly printed twelve-page federal packet across the oak table so Katie could see the summary page.
+On Sunday morning, November 13, 2005, at half past eight, Katie and I were sitting wheel-to-wheel at the edge of the kitchen eating dry toasted-oat cereal out of plastic bowls without milk—wearing clean weekend shirts after transferring out of the hallway closet twenty minutes earlier—when Tiffany stomped down the short carpeted hall in her black-rimmed glasses and mint-green tee.
 
-"He corroborated every single word of your statement to two separate border agencies, Miss Prairie," Morales added kindly, pointing to the bottom box of the printout. "And just so your mind is completely at ease—look at the bottom line of the CBP record. You are listed strictly as the protected non-traveling complainant."
+On her way past the left wall of the hallway, Tiffany's foot caught the open louver of the white bi-fold closet door, where our unzipped navy-blue sleeping bag and two indented white pillows were still laid lengthwise across the closet carpet.
 
-Katie blinked at the bottom line of the printed federal report, her fingers tightening around my hand on the armrest as her blue eyes locked onto that four-word phrase. For someone whose autistic mind ran on strict, literal rules, an unfamiliar bureaucratic label in a federal computer wasn't comforting until every single word was defined down to the millimeter.
+Tiffany stopped dead, kicked the bi-fold closet door so hard the top track rattled in its metal channel, and spun into the kitchen in front of the greasy stove and black top-freezer refrigerator with her face twisted dark red.
 
-"Wait—what does protected non-traveling complainant mean?" Katie asked, her voice rising slightly as she looked straight across the oak table at Special Agent Morales. "Does having my name in the United States Customs and Border Protection database and the Canadian border computer mean I'm flagged? Did I break a railroad or immigration law because he put my name on a ticket to Windsor that I didn't use? If Nate and I ever want to get passports and take a train into Canada someday on our own, are the border guards going to stop me?"
+"I have had it—I am *done* with the two of you!" Tiffany shrieked at the top of her lungs, slamming her palm against the edge of the stove so violently our cereal spoons jumped in our bowls. "Eleven months of your weird little hand-holding, eleven months of your stupid wheelchairs blocking my hallway, eleven months of you refusing to sleep in my bed like a normal boyfriend because you'd rather crawl into a dark closet on the floor with your twin sister!"
 
-Agent Morales didn't brush her question off or give her a vague wave of his hand. Seeing how rigidly she was staring at the code box on the printout, he turned the paper around, laid his pen directly underneath the line item, and broke the exact federal terminology down piece by piece.
+ Katie flinched hard beside me, her hand flying across our armrests to grip my fingers as both of our chests tightened against the sudden ear-splitting volume in the tiny room. "Tiffany, please stop yelling—"
 
-"Let's read each word literally, Miss Prairie, because in federal law, every word on this form has an exact statutory definition," Agent Morales said calmly. "First, non-traveling means the United States and Canadian governments have officially verified that you never got on that train, never left the Commonwealth of Virginia, and never attempted to cross the international border. Because you escaped at the Williamsburg station at three-fifty-seven on Saturday afternoon, the border computers show you were six hundred miles away when Mr. Mercer showed up at the Goyeau Street plaza in Windsor with a ticket bearing your name."
+"Shut up! Don't talk to me like I'm stupid!" Tiffany screamed, leaning forward across the linoleum and hurling the ugliest, filthiest accusation either of us had ever heard in our twenty years of life. "I know why the two of you lock yourselves inside that closet every night and every single afternoon whenever I'm not here! You two are having *sex* in my closet behind my back! You're a pair of sick, disgusting freaks—pack nothing, get your wheelchairs out that front door right now, and don't ever come back into my apartment!"
 
-Katie nodded once, her shoulders dropping half an inch, though her eyes stayed glued to the line. "And complainant?"
+For three seconds, the words hit Katie and me like a physical blow across the face.
 
-"Complainant is the legal word for the victim and witness who brings the criminal complaint against the offender," the Williamsburg detective explained gently from across the table. "When someone buys a ticket in your name to abduct or coerce you across state lines, your name has to appear in the evidence file as the person he targeted—the exact same way a bank's name appears in a bank robbery file. Nobody arrests the bank for getting robbed, Miss Prairie."
+Katie and I did *not* have sex. We had never touched each other that way once in our entire lives, and the very thought made both of our stomachs lurch with bewildered horror. Ever since we had sat side by side in Family Life Education classes back in Virginia Beach public schools, our literal autistic minds had learned the clear, absolute rule taught by our teachers: brother and sister are not supposed to have sex. Neither Katie nor I actually understood *why* neurotypical society had made that rule—just as half of humanity's unspoken romantic rules made zero logical sense to us—because to the two of us, zipping fully clothed into a dark, snug three-by-six closet to hold hands and hug away nightmares was pure sensory safety and had nothing on earth to do with sex. We simply obeyed the Family Life rule one hundred percent literally because a rule was a rule.
 
-"And the word protected is the most important part of all," Agent Morales added, tapping the two-letter status code printed beside her name: *V-W, Zero Infraction*. "When Detroit CBP and the Canada Border Services Agency entered your name under a Protected Victim-Witness firewall, they attached a permanent legal shield to your identity in both countries' databases. That shield does two things. First, it certifies that you broke zero United States laws, zero Canadian immigration laws, and zero rail tariff rules."
+Having someone scream in our faces that our lifelong safe harbor was dirty—accusing us at top volume of breaking a rule we had faithfully kept our whole lives while throwing us out onto the concrete with zero warning—blew every circuit in both of our autistic nervous systems at the exact same instant.
 
-"None at all?" Katie asked quietly, double-checking the rule one more time.
+"Out! Get out of Apartment 3 *now*!" Tiffany roared, yanking the front door wide open to the cold forty-six-degree November wind off the Chesapeake Bay and shoving the back of my SwiftChair headrest toward the concrete threshold.
 
-"Zero," Morales said firmly. "Not a felony, not a misdemeanor, not even a civil administrative warning. And second, that shield means that if you and your brother ever apply for passports and take a train or a bus across the Canadian border ten days from now or twenty years from now, the border officer scanning your passport will see a completely clean traveler profile. In fact, the only reason that protected note exists in the system is so that if Brandon Mercer ever tries to use your name at a border crossing again, the computer alerts the officers to protect you and detain him on sight."
+Trembling violently, Katie and I drove our wheelchairs out over the low concrete lip onto the open exterior walkway as Tiffany slammed the hollow-core door shut behind our rear caster wheels and threw the deadbolt with a loud metallic *clack*.
 
-Beside me, Katie stared down at the printed code—*V-W, Zero Infraction*—reading it three times until the literal wording clicked permanently into place inside her head.
+Out on the cold concrete breezeway of Sea Breeze West—on a Sunday morning when CVTA ran zero Sunday bus service across the city line toward Kempsville and Arvin Road—both Katie and I crashed headlong into a full-blown autistic meltdown.
 
-She let out a long, slow breath through her nose, looked over at me with her eyes finally clear, and gave my hand a single firm squeeze.
+Tears poured hot and fast down Katie's cheeks as she bent double over her lap with ragged, gasping sobs, her left hand clamping over her ear while her right hand crushed my fingers across our armrests. My own throat locked shut in complete situational mutism; every time I tried to force air past my vocal cords to tell Katie we were going to be okay, nothing came out except choked, heaving cries and hyperventilating gasps.
 
-"Non-traveling victim-witness," Katie repeated softly to herself, satisfied at last. "Zero infraction. I didn't break a single rule, Nate."
+Remembering the silver flip phones Dad had bought for both of us right after Williamsburg—kept clipped inside my jacket pocket alongside the laminated prepaid calling card behind my Virginia ID—I fumbled my phone open with shaking fingers, pressed and held the number-one key for Dad's house on Arvin Road, and pressed the warm plastic earpiece right between Katie's wet cheek and mine so we could both hear him.
 
-"Not a single one, sis," I told her, squeezing her fingers back as Dad rested his warm hand on her shoulder. "The only person who broke the law is sitting in a shelter on Cass Avenue in Detroit waiting for the United States Marshals to put him in handcuffs."
+The line rang twice—and then our forty-seven-year-old father picked up in Virginia Beach.
 
-### Part 4: Thanksgiving Dinner at Dad's House, The Black Friday Closet Project, & The Secret on the Closet Floor
+"Hey, Nate—good Sunday morning, kiddo!" Dad's warm voice answered brightly, before dropping immediately into razor-sharp focus at the sound of two voices sobbing uncontrollably into the tiny microphone. "Nate? Katie? Kids, talk to me—what's wrong?"
+
+"Uhh—uhh—" I gasped, my chest hitching so hard around tears that not a single consonant would form, while Katie sobbed helplessly against my shoulder right beside the phone.
+
+A stranger would have panicked or barked ten complicated questions at once. Dad didn't. Dad had raised two autistic twins by himself since we were thirteen years old, and he recognized the sound of a total sensory and verbal shutdown in two heartbeats flat. Because an audio flip phone had no camera to see us nod or shake our heads, Dad dropped his voice an octave—slow, steady, and anchor-calm—and switched immediately to simple, one-at-a-time yes-or-no questions where two small sounds were all we had to manage.
+
+"Okay, sweetheart, okay, buddy—listen to Dad's voice, you don't have to talk in words right now," Dad said gently and clearly over the line. "Take one slow breath with me. I'm only going to ask you yes-or-no questions, one at a time. Just give me *mm-hmm* for yes, or *uh-uh* for no. Can you do that for Dad?"
+
+Pressing my forehead against Katie's temple around the flip phone, both of us managed a shaky, tear-choked *"Mm-hmm."*
+
+"Good job—I heard that loud and clear," Dad said calmly. "Question one: are either of you bleeding, hit, or physically hurt right now? *Mm-hmm* for yes, *uh-uh* for no."
+
+*"Uh-uh,"* I choked out through my tears as Katie whimpered *"Uh-uh"* beside me—though a hard sob blurred the middle of Katie's sound.
+
+Dad didn't guess or rush ahead. "Katie bug, your tears caught on that one and I want to be one hundred percent sure," Dad checked gently. "Give me one more clear *uh-uh* if nobody is hurt."
+
+Katie sucked in a trembling breath through her nose and pressed her lips near the mouthpiece. *"Uh-uh."*
+
+"Thank God. Question two," Dad continued at the exact same unhurried pace, though we could already hear the jingle of his truck keys being lifted off the kitchen hook on Arvin Road in the background. "Are the two of you right beside each other in your wheelchairs right now?"
+
+*"Mm-hmm,"* we whispered together.
+
+"Question three: are you at Tiffany's apartment at Sea Breeze West on West Ocean View Avenue?"
+
+*"Mm-hmm."*
+
+"Question four: I hear wind in the microphone—are the two of you outside away from her right now?"
+
+*"Mm-hmm."*
+
+"Question five," Dad said quietly, the steel tightening underneath his calm fatherly voice. "Did Tiffany blow up at you and throw you out?"
+
+Katie let out a broken sob against my collarbone as both of us cried out at once: *"Mm-hmm! Uh-huh!"*
+
+"Last question, kids," Dad said firmly, the heavy garage door on Arvin Road rumbling open behind him as he climbed into his extended-cab pickup truck. "Do you want me to come straight up Interstate 64 right this minute with the folding ramps, pack every single thing you own out of Apartment 3, and bring both of you home to Arvin Road for good?"
+
+*"Mm-hmm!"* Katie and I sobbed into the flip phone together, clinging to each other's sleeves in the cold bay wind. *"Uh-huh!"*
+
+"I'm backing out of the driveway right now—twenty-four minutes door to door," Dad promised softly, switching his phone onto his dashboard speaker as his truck engine turned over. "Roll back under the covered breezeway out of the wind, lock your brakes side by side, and hold onto each other. Don't hang up—I'm staying right here on the line breathing with you the whole drive up."
+
+***
+
+#### Sunday, November 13, 2005, 9:05 AM — Dad's Pickup Truck, Leaving Zero Trace Behind, & Cold Milk Home on Arvin Road
+
+True to his word, twenty-three minutes later Dad's pickup truck swung into the asphalt lot of Sea Breeze West with the two folding aluminum wheelchair ramps rattling softly in the bed.
+
+Before he even looked toward Apartment 3, Dad cut the engine, strode straight up the concrete walkway in his flannel jacket, and dropped onto both knees right between our two SwiftChairs—wrapping one strong arm around Katie's trembling shoulders and the other around mine, pulling both of our heads in against his chest until the last waves of our meltdown finally subsided into quiet, exhausted hiccups.
+
+"I've got you both," Dad murmured into our hair, kissing Katie's forehead and squeezing the back of my neck. "Wait right here in the warm cab of the truck with the heater running. You never have to step inside that door again."
+
+Unfolding the aluminum ramps to guide our SwiftChairs safely up into the spacious extended cab and strapping our frames down in the back, Dad turned, walked calmly up to Apartment 3, and knocked twice with the heel of his fist.
+
+When Tiffany cracked the door expecting to gloat—and instead found a broad-shouldered forty-seven-year-old Navy-town systems engineer staring silently down through his glasses at her—every ounce of bluster drained right out of her face. Dad didn't scream, curse, or dignify her frantic, backpedaling excuses with a single argument. In forty methodical minutes of dead fatherly silence, Dad carried out my 2004 desktop computer tower, our seventeen-inch CRT monitor, both laptops, our CCHR textbooks, Katie's wooden dresser and television and DVD player, every hanger of our clothes, both 24-volt wheelchair chargers, and—last of all—our shared navy-blue sleeping bag and two white pillows straight out of Tiffany's hallway closet, loading and tarping every cord neatly in the pickup bed until zero trace of Katie or me remained on West Ocean View Avenue.
+
+By eleven-thirty that Sunday morning, our wheels were rolling across the spotless oak-and-tile floors of Dad's quiet single-story brick ranch on Arvin Road in Virginia Beach.
+
+Before unloading a single box of books, Dad walked straight to his gleaming white refrigerator, pulled out an ice-cold plastic gallon of two-percent milk, and set it square in the center of the clean kitchen table in front of two fresh bowls of cereal and sliced bananas.
+
+"In your own home," Dad said softly, pouring tall glasses of cold white milk for both of us and resting a steady hand on each of our shoulders, "nobody ever yells at you for who you are, nobody ever tries to close a door between the two of you, and there is always cold milk in the fridge. This house is yours for as long as you want it."
+
+Later that week, once our tears had dried and we had wiped every trace of Tiffany off my Quantum OS XN Pro hard drive, Dad took Katie and me up to Chesapeake Bay Mall to pick out a brand-new queen mattress and a soft navy-and-slate-blue queen comforter set so we could share the big sunny back bedroom on Arvin Road together instead of splitting into separate rooms—and when bedtime came each night and Katie and I still tucked our shared navy-blue sleeping bag and two pillows onto the clean carpeted floor of that bedroom's three-by-six closet instead of using the mattress, Dad simply smiled from the hallway, wished us goodnight, and let us heal in peace.
+
+### Part 4: Thanksgiving Dinner Home on Arvin Road, The Black Friday Closet Sanctuary, & Quietly Launching Ideas for Coastal Virginia Transit
 
 **Date:** 2005-11-24 at 13:00 America/New_York
 
-![Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
+![Inside David Prairie's cozy brick ranch dining room on Arvin Road in Virginia Beach on Thanksgiving Day, November 24, 2005, twenty-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests and clinking tall glasses of iced tea over roast turkey and pumpkin pie with their beaming forty-seven-year-old father David.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_thanksgiving_dinner_dads_house_katie_nate_david.jpg)
 
-#### Thursday, November 24, 2005, 1:00 PM — Thanksgiving Dinner With Dad in Virginia Beach
+#### Thursday, November 24 – Friday, November 25, 2005 — Thanksgiving Dinner Home on Arvin Road & Engineering the Closet Above Our Sleeping Bag
 
-![Inside David Prairie's cozy brick ranch dining room in Virginia Beach on Thanksgiving Day, November 24, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests and clinking tall glasses of iced tea over roast turkey and pumpkin pie with their beaming 47-year-old father David.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_thanksgiving_dinner_dads_house_katie_nate_david.jpg)
+"Smell that roasting bird!" Dad smiled from the stove of our single-story brick ranch on Arvin Road off Military Highway and Indian River Road as Katie and I rolled our compact SwiftChairs down the hallway into the warm, cinnamon-and-sage-scented kitchen at one o'clock on Thanksgiving afternoon.
 
-"Smell that roasting bird!" Dad smiled from the stove of his single-story brick ranch off Military Highway and Indian River Road as Katie and I rolled our compact SwiftChairs down the hallway into the warm, cinnamon-and-sage-scented kitchen.
+Eleven days of uninterrupted quiet back under Dad's roof—eating at a scrubbed table, charging our wheelchairs side by side every night without anyone unplugging our cords, and commuting together to our classes at CCHR—had already put color back in Katie's cheeks and steadied both of our hands. While Katie braked beside the counter to take the wooden spoon to the steaming bowl of mashed potatoes and I arranged silverware and folded napkins along the long side of the dining-room table where our two wheelchairs rolled up flush together, there were zero eggshells left under our tires—just our forty-seven-year-old father and his twenty-year-old twins home safe together.
 
-It was Thursday afternoon, November 24, 2005—Thanksgiving Day—just ten days after Katie had moved into Sea Breeze West Apartment 3 with me and we had reclaimed our lives from fourteen months of isolation. Earlier that morning, Dad had driven up to West Ocean View in his pickup truck with the folding aluminum ramps to bring both of us down to his house in Virginia Beach for the holiday, and for the first time in over a year, there were no jealous partners, no screaming ultimatums, and no walking on eggshells—just our forty-seven-year-old father and his twenty-year-old twins under one roof again.
+Twenty minutes later, with platters of carved roast turkey, herb stuffing, mashed potatoes and gravy, cranberry sauce, buttered rolls, and green beans spread across the tablecloth, Dad raised his tall glass of iced tea and looked warmly between Katie and me behind his glasses.
 
-"Can we help mash the potatoes or set the table, Dad?" Katie asked, braking her wheelchair beside the kitchen counter and washing her hands at the sink.
+"After watching the two of you weather Williamsburg last fall and Ocean View this year without ever once letting anyone pry you apart," Dad said softly, his voice thick with quiet pride, "having my son and my daughter permanently back home at this table—safe, finishing college side by side, and looking out for each other the way you two always have—is the best Thanksgiving gift a father could ever ask for."
 
-"You can take the wooden spoon to the bowl of mashed potatoes while Nate sets the silverware and napkins around the dining table," Dad said, opening the oven door to baste the golden-brown turkey. "I made sure the two places on the long side of the table have plenty of clearance so you two can roll right up side by side."
+"Nobody's ever putting a closed door between the three of us again, Dad," Katie smiled, squeezing my left hand across our armrests as the three of us clinked our iced-tea glasses together.
 
-Sitting together at Dad's dining-room table twenty minutes later—with platters of carved roast turkey, herb stuffing, creamy mashed potatoes and gravy, cranberry sauce, buttered dinner rolls, and green beans spread out between us—Dad raised his glass of iced tea and looked back and forth between Katie and me with quiet emotion in his eyes behind his glasses.
+The very next morning—Black Friday, November 25—Dad walked into our shared back bedroom carrying his yellow tape measure, his spirit level, his cordless drill, and two boxes of white vinyl-coated wire shelving.
 
-"Last Thanksgiving, our family was scattered in three different places, and I spent every week worrying sick about the two of you," Dad said softly. "Having my son and my daughter back together at this table today—safe, enrolled in classes together, and looking out for each other the way you two always have—is the best Thanksgiving gift a father could ever ask for."
+Looking from the brand-new queen bed in the corner—its soft navy-and-slate-blue Chesapeake Bay Mall comforter smoothed flat, crisp, and completely untouched—over to the open three-by-six bedroom closet where our unzipped navy-blue sleeping bag and two indented white pillows lay lengthwise across the vacuumed carpet beneath low-hanging winter jackets, Dad crouched down beside the closet threshold and rested a gentle hand on the sleeping bag.
 
-"We're never letting anyone split the three of us up again, Dad," Katie said warmly, reaching over to squeeze my left hand while tapping her glass against Dad's and mine.
+"You two haven't slept on the new mattress a single night since coming home on the thirteenth, have you?" Dad asked quietly—zero judgment in his eyes, only deep fatherly understanding.
 
-Over second helpings of turkey and warm slices of pumpkin pie topped with whipped cream, Dad leaned his forearms on the table with a grin.
+"We tried looking at the bed the first night, Dad, and the comforter is really pretty," Katie admitted honestly, holding my hand across our armrests. "Whenever the lights go out, though, an open room still makes both of us think of Brandon and Tiffany yelling over us. Inside the three-by-six closet with the doors pulled almost shut, it's pitch dark and snug just like back on Greenway Court, and as long as we're zipped inside our shared sleeping bag hugging each other, neither of us wakes up scared."
 
-"By the way," Dad said, looking at Katie, "I didn't forget what you asked me ten days ago before I hauled that old dresser off to the landfill. I have tomorrow—Black Friday—and the whole Thanksgiving weekend off work. How about we make a weekend project out of building that half-pantry, half-coat closet in your hallway at Apartment 3?"
+"You don't think it's weird that we're twenty years old and still sleeping in the closet, Dad?" I asked softly.
 
-Katie's face lit up immediately. "Really, Dad? You want to build it with us this weekend?"
+"Nate, you and your sister just survived two awful relationships back to back, and the two of you found a gentle, harmless way to keep each other calm through the night," Dad answered firmly, standing up and clicking open his yellow tape measure. "There is nothing weird about two autistic twins who love each other needing the dark, a snug space, and a hug to sleep in peace. Watch what we're going to do."
 
-"I already measured the standard closet depth in my head," Dad said. "First thing tomorrow morning, we'll pick up a set of heavy-duty white wire pantry shelves, wall standards, drywall anchors, and a sturdy half-width coat rod, and the three of us will build it right into the left wall of your hallway so you have a real pantry."
-
-***
-
-#### Friday, November 25 – Saturday, November 26, 2005 — The Black Friday Closet Project & The Secret on the Carpeted Closet Floor
-
-At nine-thirty on Black Friday morning, Dad's pickup truck pulled into the Sea Breeze West parking lot with boxes of white vinyl-coated wire shelving, vertical mounting tracks, a heavy-duty hack saw, a level, and his cordless drill stacked neatly in the bed.
-
-Rolling our wheelchairs down the straight right-hand hallway of Apartment 3 behind Dad as he carried his red steel toolbox inside, Katie and I watched as Dad set his level down and pulled open the two white bi-folding doors on the left wall of the hallway.
-
-Then Dad stopped dead in his tracks.
-
-Looking down at the carpeted floor at the bottom of the hallway closet, Dad went completely quiet.
-
-There, stretched neatly across the entire clear carpeted floor of the closet from the kitchen end to the bedroom end, lay our navy-blue sleeping bag—unzipped and folded over like a double-wide cocoon—with two white pillows nestled side by side at the head against the back corner.
-
-I felt my ears turn warm, and beside me, Katie bit her lower lip. In our excitement over Dad coming by to start the Black Friday shelving project, neither of us had remembered to roll up the sleeping bag and hide the two pillows before he opened the bi-fold doors.
-
-Dad slowly turned his head to the left—looking past the open end of the hallway into the doorless back bedroom, where the queen bed sat pushed into the far-left corner under the window with its brand-new navy-and-slate-blue Chesapeake Bay Mall comforter smoothed flat, crisp, and completely untouched—and then looked back down at the two indented pillows and the shared sleeping bag on the floor of the hallway closet.
-
-Dad knew both of us better than anyone else on earth. He knew that Katie and I are autistic. He knew that ever since we were toddlers in cribs, our deepest source of emotional regulation was hugging and holding onto each other, and he knew that whenever the world got too loud, too bright, or too overwhelming, both of us craved the pitch dark and a tight, confined space where nothing could reach us.
-
-And looking from the pristine, unwrinkled comforter on Tiffany's caving-in queen mattress to the two well-slept pillows inside the hallway closet, our dad put the whole picture together in three seconds flat.
-
-"Kids," Dad said in a low, gentle voice, crouching down beside the open bi-fold doors and resting a hand on the edge of the sleeping bag, "you two haven't slept on that bed in the bedroom a single night since she left, have you?"
-
-Katie and I looked at each other across our wheelchair armrests, and then Katie looked up at Dad with honest blue eyes.
-
-"We tried to make the bedroom look nice with the new comforter so you wouldn't worry when you came over, Dad," Katie admitted softly. "We even took two of the four pillows off the bed to put in here. Every time we roll into the bedroom at night and look at that mattress caving in down the middle, all either of us can think about is Tiffany. Neither of us wanted to sleep on Tiffany's bed."
-
-"So the two of you have been sleeping in the hallway closet every night?" Dad asked quietly, no anger or judgment in his voice at all—only a deep, aching tenderness behind his glasses.
-
-"Every single night since Sunday the thirteenth—just like we used to do in our square closet back on Greenway Court," I confessed, looking down at the carpeted closet floor. "Even when we had a regular bed in the main room, we barely ever used it because we always felt so much safer in the closet. When we transfer into our single shared sleeping bag together and pull the two bi-fold doors almost all the way shut, it's completely dark and snug in here, Dad. The confined space makes us feel secure, and as long as we're cuddled up holding each other inside the sleeping bag, neither of us has nightmares about Williamsburg or about Tiffany."
-
-Dad stayed crouched beside the closet threshold for a long moment, swallowing hard as he looked at the two pillows pressed side by side in the narrow dark of the closet. I could see how much it broke his heart that his twenty-year-old son and daughter had been hurt so badly—and left with such a broken, caving-in reminder of Tiffany in their bedroom—that they had retreated into a hallway closet every night just to feel clean and safe in each other's arms.
-
-When Dad stood back up and pulled his yellow tape measure from his belt clip, his voice was warm and steady.
-
-"Well," Dad said, tapping the drywall on the left half of the closet nearest the kitchen, "then we are going to engineer this closet around your sleeping spot so nobody ever takes your sanctuary away from you."
-
-Both Katie and I looked up in surprise. "You don't think it's weird that we're sleeping in the closet, Dad?" I asked.
-
-"Nate, you and your sister just survived fourteen months of hell, and the two of you found a way to keep each other safe and calm through the night," Dad said firmly, resting a hand on my shoulder and then on Katie's. "There is nothing weird about two autistic twins who love each other needing the dark, a snug space, and a hug to sleep in peace. Watch what we're going to do."
-
-Pulling out his carpenter's pencil and level, Dad marked the vertical mounting tracks on the kitchen half of the closet wall starting twenty-eight inches above the carpet—leaving the entire bottom level of the closet completely open from end to end so that even with four tiers of white wire pantry shelving mounted on the half closest to the kitchen, and a sturdy coat rod mounted high on the half closest to the bedroom for our winter jackets, the carpeted floor beneath remained a 100-percent unobstructed, full-length sleeping-bag berth for the two of us.
-
-![Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg)
-
-Across Black Friday afternoon and Saturday morning, the three of us worked together in the hallway like a well-oiled crew. From our wheelchairs, Katie and I held the spirit level against the drywall, handed Dad the steel drywall anchors, screws, and wire shelf brackets, and tested the height clearances while Dad drilled the vertical standards into the studs, snapped the four white wire pantry shelves into place on the kitchen side, and anchored the coat rod and upper shelf on the bedroom side.
-
-By Saturday afternoon, when we rolled the boxes of toasted oat cereal, the blue boxes of enriched pasta, and the rows of canned soups and vegetables out of the cramped kitchen cabinets and arranged them neatly across the four white wire pantry shelves on the left half of the hallway closet—with our winter coats hanging on the right half and our freshly fluffed sleeping bag and two white pillows laid smoothly across the vacuumed carpet below—the hallway closet looked like it had been custom-designed from the ground up just for us.
-
-"Half pantry closest to the kitchen, half coat closet closest to the bedroom, and our dark cuddle sanctuary right on the carpeted floor," Katie beamed, leaning across her armrest to hug Dad around the waist as he packed his drill back into his red toolbox. "Thank you, Dad—it's even better than I pictured it."
-
-"You're welcome, sweetheart," Dad said, kissing the top of Katie's head and ruffling my hair as he glanced one more time toward the caving-in queen bed in the back bedroom with a quiet, determined look in his eyes. "And I promise you two—you aren't going to be stuck with that caving-in mattress forever. As soon as I get things lined up, I'm going to make sure the two of you have a real, brand-new queen bed of your own to share."
-
-![Inside the hallway of Sea Breeze West Apartment 3 in November 2005, twenty-year-old fraternal twins Katie and Nathaniel Prairie are tucked into their shared navy-blue quilted sleeping bag on the carpeted floor beneath the white wire pantry shelves and hanging winter coats of their newly built hallway closet, wrapped in a close, soothing two-arm embrace while their two empty black SwiftChair power wheelchairs sit parked in the hallway outside.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_closet_sleeping_bag_reunion_full_cuddle_katie_nate.jpg)
-
-That Saturday night, after Dad drove back across the water to Virginia Beach, Katie and I parked our two SwiftChairs side by side in the hallway, transferred down onto the soft carpet beneath the newly installed white wire pantry shelves and hanging winter coats, and zipped our navy-blue sleeping bag around us. Wrapping both arms tightly around each other with Katie's head tucked against my chest, we let the soothing deep pressure of our embrace quiet every last echo of the outside world until we drifted off to sleep.
-
-### Part 5: The Seattle Transit Blog Inspiration & Quietly Launching Ideas for Coastal Virginia Transit
-
-**Date:** 2005-11-27 at 19:30 America/New_York
-
-![Inside Apartment 3 at Sea Breeze West in West Ocean View on the evening of November 27, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their computer desk surrounded by paper CVTA bus timetables as they hand-code and launch their transit advocacy blog, Ideas for Coastal Virginia Transit.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_ideas_for_cvta_blog_launch_katie_nate.jpg)
-
-#### Sunday, November 27, 2005, 7:30 PM — The Seattle Transit Blog & A Question Across the Desk
-
-![Inside Apartment 3 at Sea Breeze West in West Ocean View on the evening of November 27, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their computer desk surrounded by paper CVTA bus timetables as they hand-code and launch their transit advocacy blog, Ideas for Coastal Virginia Transit.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_ideas_for_cvta_blog_launch_katie_nate.jpg)
-
-"Look at this site I just found on OmniSearch, Katie," I said, angling our seventeen-inch off-white CRT monitor slightly toward my twin sister's wheelchair as the cooling fan inside my 2004 desktop tower hummed steadily on the repurposed dining table along the far-left wall of our front room. "It's called the Seattle Transit Blog."
-
-Katie set her cold can of ginger ale down on a coaster beside her open laptop, released her joystick brake, and rolled her compact SwiftChair right up flush against mine so our armrests touched in front of the desk.
-
-It was Sunday evening of Thanksgiving weekend—the night after Dad had finished anchoring the four white wire pantry shelves and the winter coat rod above our sleeping-bag sanctuary inside the hallway closet—and for the past hour, Katie and I had been spreading paper Coastal Virginia Transit Authority folding pocket timetables across the tabletop to plan our upcoming January spring-semester bus commute down to the Community College of Hampton Roads Virginia Beach Campus. Between my freshly wiped Quantum OS XN Pro desktop—now cleanly configured with separate user accounts for the two of us and zero trace of Tiffany anywhere on the hard drive—and our two laptops flanking the keyboard tray, the left corner of Apartment 3 already felt like a proper twin command center.
-
-"What's the Seattle Transit Blog?" Katie asked, leaning her chin on my shoulder as her blue eyes scanned the web page glowing on the CRT glass.
-
-"It's a website run by everyday transit riders out in Washington State who ride TAPS—the Transit Authority of the Puget Sound," I explained, scrolling down through the front-page articles with the mouse wheel. "Instead of just complaining to themselves at bus stops, a group of regular riders, computer programmers, and wheelchair commuters started a blog where they write out actual proposals for how their regional bus and light-rail grid ought to work."
-
-Katie leaned closer to the monitor, reading silently beside me as I clicked from one post to the next.
-
-On the screen, the writers at the Seattle Transit Blog were dissecting TAPS King County and Pierce County bus corridors with the exact kind of logical, map-by-map precision that made both of our autistic brains light up. One post broke down how unifying five separate county and municipal bus systems under TAPS—complete with a single regional smart card called the Cascade Card and coordinated low-floor CNG bus fleets—eliminated the penalty for riders crossing city and county lines around the water of Puget Sound. Another post mapped out how the planned TAPS Central Corridor light-rail spine from downtown Seattle toward Tukkwila and the airport would only succeed if local feeder buses were redesigned into high-frequency, clock-face transfer pulses rather than leaving riders stranded at suburban hubs after six o'clock in the evening.
-
-Better yet, down in the comment threads below every post, dozens of daily Puget Sound riders—alongside local transit operators, mechanics, and even city planners—were trading timetable math, pointing out broken wheelchair lifts or missing sidewalk curb cuts, and debating which corridors needed fifteen-minute headways next.
-
-Katie stayed quiet for a long moment, her gaze moving from the glowing Seattle Transit Blog header on the seventeen-inch monitor down to the crumpled stack of paper CVTA timetables spread beside our keyboard: Route 1 from Granby Street and Ocean View down to CCHR; Route 61 across the Hampton Roads Bridge-Tunnel from Newport News and Hampton; Route 29 up to Chesapeake Bay Mall and Hilltop; Route 15 down Military Highway; and Route 12 past Dad's neighborhood off Indian River Road.
-
-"Look at how they write this, Nate," Katie said softly, tapping her fingertip against the edge of the desk. "They aren't screaming or venting into the void. They're posting the real schedules, showing where the connections fail, and laying out constructive ideas for what their regional transit system could be if the people in charge actually listened to daily riders."
-
-She turned her head to look straight at me, a quiet spark catching in her eyes.
-
-"Why doesn't Hampton Roads have something like the Seattle Transit Blog for CVTA?" Katie asked.
-
-I blinked, looking from the CRT monitor to my sister. "A transit blog for Coastal Virginia?"
-
-"Think about it, Nate," Katie said, gesturing toward the paper timetables on our table. "Nobody knows this bus grid better than the two of us. We don't drive cars. Every single time we go to college at CCHR, or go shopping at Chesapeake Bay Mall or Emerald Creek Mall, or cross the water from the Peninsula, our wheelchairs are rolling up the front ramps of CVTA buses. Two Saturdays ago, when I fled Williamsburg in the pouring rain, it took me five buses across two transit agencies just to get from the College of Charles and Anne to your front door—and if I had missed that 6:45 PM Route 61 bus out of Newport News Transit Center, I would have been stranded on the wrong side of the Hampton Roads Bridge-Tunnel all night long because the cross-harbor bus shuts down before seven o'clock!"
-
-"And ten days ago, when we rode Route 1 down to the CCHR Beach Campus to register for United States History," I added, the pieces clicking together in my head, "it took ninety minutes each way on a single local bus—and the schedule book says the very last Route 1 back leaves campus at 5:45 PM. Basically the whole Virginia Beach bus grid rolls up the sidewalks at dinnertime."
-
-"Exactly!" Katie said, sitting up straighter in her SwiftChair. "We talk about what we wish CVTA would fix every single time we're waiting at a bus shelter together. What if we quietly start our own website and start jotting those ideas down in public—just like the Seattle Transit Blog did for TAPS?"
+Across Black Friday afternoon, with Katie and me holding the level and handing up drywall anchors and steel screws from our wheelchairs, Dad remounted the vertical wall tracks and heavy-duty coat rod twenty-eight inches higher up the closet studs—clearing every low-hanging hem and shoe box off the bottom so the entire three-by-six carpeted closet floor remained a one-hundred-percent unobstructed, full-length sleeping-bag sanctuary built specifically for the two of us.
 
 ***
 
-#### Hand-Coding Our Template on BlogSphere: Ideas for Coastal Virginia Transit
+#### Sunday, November 27, 2005, 7:30 PM — The Seattle Transit Blog & Quietly Launching Ideas for Coastal Virginia Transit
 
-My fingers hovered over the mechanical keyboard as the technical architecture spun up in my head.
+"Look at this site I just found on OmniSearch, Katie," I said two evenings later on Sunday night of Thanksgiving weekend, angling our seventeen-inch CRT monitor slightly toward my sister's wheelchair along our wide computer desk on Arvin Road while my freshly wiped Quantum OS XN Pro desktop tower hummed quietly beside our two open laptops. "It's called the Seattle Transit Blog."
 
-"We can do it tonight," I said, opening a fresh browser window on Quantum OS XN Pro. "We haven't learned server-side database programming yet to build our own dynamic content engine from scratch, and static hand-coded HTML pages alone would be a pain to update every time someone leaves a comment. But Omni Corporation's hosted blogging service—BlogSphere—handles the post database, permalinks, RSS syndication feed, and reader comments on their servers automatically, while letting you switch into raw HTML mode to hand-code your own custom page template."
+Katie set her cold can of ginger ale on a coaster, released her brake, and rolled right up flush against my left armrest, resting her chin lightly on my shoulder as we read the screen together.
 
-Katie grinned, pulling her laptop closer across the dining table. "And we've known how to write clean HTML by hand since seventh grade at Morrison Middle School. What should we call it?"
+Out in Washington State, everyday bus riders, programmers, and wheelchair commuters who rode TAPS—the Transit Authority of the Puget Sound—had built a public blog dissecting King County and Pierce County bus corridors, regional Cascade Card smart-card fares, low-floor fleets, and timed light-rail feeder pulses with the exact kind of logical, map-by-map precision that made both of our autistic minds light up. Even better, down in the comment threads, daily riders, bus operators, and city planners were trading real timetable math instead of shouting into thin air.
 
-We looked down at the teal-and-navy logo printed across the cover of the Coastal Virginia Transit Authority timetable booklets on our desk.
+Katie looked from the glowing Seattle Transit Blog masthead down to the stack of folded paper Coastal Virginia Transit Authority pocket timetables spread across our desk: Route 12 along Indian River Road, Route 15 down Military Highway, Route 20 along Virginia Beach Boulevard, Route 25 and Route 29 into the CCHR Virginia Beach Campus, Route 1 up through Norfolk, and Route 61 across the Hampton Roads Bridge-Tunnel.
 
-"What about Ideas for Coastal Virginia Transit?" Katie suggested. "Simple, direct, and constructive. Anyone searching OmniSearch for CVTA or Hampton Roads bus routes will know right away that we aren't there to tear public transit down—we're there to share ideas for what our regional bus system could be."
+"Why doesn't Hampton Roads have something like the Seattle Transit Blog for CVTA?" Katie asked softly, a bright, unmistakable spark catching in her blue eyes. "Think about it, Nate. Neither of us drives a car, and living back home here on Arvin Road in Virginia Beach shows every crack in this regional bus grid every single day! Look at today—it's Sunday, and we literally can't roll out to catch a bus anywhere in Kempsville because Virginia Beach shuts down almost its entire bus grid on Sundays!"
 
-"Let's see if the BlogSphere title is available," I said, typing Ideas for Coastal Virginia Transit into the BlogSphere registration form on the CRT monitor.
+"And look at what happened to the two of us back in October last year when we escaped Williamsburg," I added, the pieces locking cleanly together in my head. "It took us six buses across two transit agencies to get from the Williamsburg train station down to Dad at Military Highway and Indian River Road—and if we hadn't skipped Route 106 to build a buffer and caught that very last 6:45 PM Route 61 Expressways bus out of Newport News Transit Center, both of our powerchairs would have been stranded on the wrong side of the Hampton Roads Bridge-Tunnel all night!"
 
-A green confirmation line appeared on the screen immediately: the blog name was available.
+"Let's start our own blog tonight and jot our ideas down in public," Katie said, pulling her laptop closer across the desk. "Simple, constructive, and honest—*Ideas for Coastal Virginia Transit*."
 
-Side by side at our repurposed dining-table desk, Katie and I clicked through the registration screen, created our shared administrator account under both of our first names—Katie and Nate, two twenty-year-old college students and daily wheelchair transit riders living in Norfolk and commuting into Virginia Beach—and immediately opened the raw HTML template editor.
-
-For the next hour, the only sounds in Apartment 3 were the rhythmic click of our keyboards, the gentle hum of the desktop tower's cooling fan, and the occasional fizz of ginger ale as the two of us stripped out BlogSphere's cluttered stock layout and hand-coded our own clean, two-column HTML and style-sheet template from scratch.
-
-Working together the same way we had since we were twelve years old, I coded the structural HTML tables, semantic heading tags, and high-contrast style rules—using a deep coastal-navy banner, crisp white background panels, dark slate body text that was effortless to read without eye strain, and a coastal-teal accent bar—while Katie wrote the sidebar markup on her laptop and transferred the snippets over our local network folder. In the right-hand sidebar, Katie coded an About the Authors box explaining that we were twin brother and sister who used compact power wheelchairs full-time and rode CVTA buses across Norfolk, Virginia Beach, Chesapeake, Hampton, and Newport News every week, followed by a clean list of links to official CVTA route schedules, the Colonial Triangle Transit Authority in Williamsburg, and a Blogroll section where the very first link pointed directly to the Seattle Transit Blog that had inspired us.
-
-"Take a look at the preview," I said, hitting Refresh on the seventeen-inch CRT monitor.
-
-Across the top of the screen ran our clean navy-and-teal masthead:
+Checking Omni Corporation's hosted BlogSphere service—which handled the post database, permalinks, RSS feed, and reader comments automatically while letting us switch into raw HTML mode—we registered *Ideas for Coastal Virginia Transit* under both of our first names and spent the next hour stripping out BlogSphere's cluttered stock layout to hand-code a crisp, fast-loading coastal-navy, white, and teal two-column HTML and style-sheet template from scratch, linking the Seattle Transit Blog right at the top of our sidebar blogroll.
 
 > Ideas for Coastal Virginia Transit<br>
 > A Rider-Written Blog Exploring What Public Transit Across Hampton Roads Could Be<br>
 > Written by Katie & Nate
 
-"It looks clean, fast, and completely readable," Katie said proudly, squeezing my shoulder. "No flashy clutter, no broken tables, and anyone on dial-up or broadband can load it in two seconds. Now let's jot down our very first posts so the site doesn't launch with an empty front page."
+Without naming Brandon Mercer or the fear we had been escaping, Katie typed and published our opening Sunday-night post laying out the six-bus Peninsula-to-Southside gauntlet—asking why a metropolitan region of one and a half million people severed its cross-harbor Route 61 lifeline at 6:45 PM on a Saturday night and left riders waiting thirty minutes inside Newport News and Hampton transit centers with half-ripped mirrors, bare glue-stained plywood, and broken restroom stalls.
 
-***
+Right behind it, we opened the folded Route 1 and Route 25 timetables under our desk lamp to draft our second post on the glaring transit cliff at the Norfolk–Virginia Beach city line. On the Norfolk half of Route 1—up Granby Street and Ocean View out to the Amphibious Base—buses ran every fifteen to thirty minutes until 2:15 AM seven days a week; the exact instant Route 1 crossed into Virginia Beach toward Pleasure House Road, Haygood, and Pembroke East, most trips turned right back around into Norfolk, slashing Virginia Beach service to once an hour ending at 6:22 PM with *NO SUNDAY SERVICE* printed across an empty white box. Route 25 did the exact same turnaround at Greenwich and Newtown Roads—reminding Katie with a wry grin of the old bus-rider story about Virginia Beach's sweet, library-loving Mayor Myra Overton wanting Route 20 to turn back at Newtown Road "just to keep the riff-raff out." Even worse, at CCHR Virginia Beach Campus, Route 12 ended at 5:48 PM, Route 25 ended at 5:53 PM, two-hour paper transfers expired mid-journey on hourly routes, and any citizen riding Route 33 to watch a 6:00 PM Virginia Beach City Council meeting had to catch the last 5:33 PM bus away from City Hall twenty-seven minutes before the gavel even fell.
 
-#### Jotting Down Our First Posts & Planting the Seed for 2008
+When I clicked Publish on that second entry at nine o'clock on Sunday night, our sidebar visitor counter on Arvin Road read zero.
 
-We didn't issue any grand manifesto or pretend to be transportation lobbyists. We simply opened the New Post editor on BlogSphere and started jotting down the exact, practical realities we lived every time our wheels touched the pavement at a Hampton Roads bus stop—paired with the common-sense improvements we wished CVTA and our local city councils would build.
+Katie laced her fingers warmly through mine across our wheelchair armrests and rested her cheek against my shoulder as we admired our glowing masthead on the glass screen.
 
-For our opening post, Katie rolled her chair right up to the center keyboard and typed out the story of what it actually took to ride public transit from the Peninsula to Southside Norfolk on a Saturday afternoon and evening—without naming Brandon or the personal nightmare she had been escaping, focusing entirely on the five-bus regional gauntlet from Williamsburg down through Lee Hall on Route 116, down Warwick Boulevard on Route 107 to Newport News Transit Center, across the Hampton Roads Bridge-Tunnel on Route 61 to Wards Corner, and north on Route 1 to West Ocean View.
+"In 2008, Virginia Beach holds its next Mayor's Race and City Council elections," Katie murmured quietly, reading the exact math in my head. "If you and I keep riding every route together and writing two or three honest, schedule-backed posts every single week while we finish college, three years from now *Ideas for Coastal Virginia Transit* won't have zero readers anymore—and maybe the people running our city will finally have to listen to the people who ride the bus."
 
-> Sunday, November 27, 2005 — Welcome to Ideas for Coastal Virginia Transit: Why Does Our Cross-Harbor Lifeline Shut Down at 6:45 PM?<br><br>
-> Hampton Roads is a metropolitan region of more than one and a half million people divided by water, yet if you rely on a wheelchair and public transit to cross between the Peninsula and Southside Norfolk on a Saturday evening, the entire regional grid hangs by a single thread: the last southbound CVTA Route 61 bus leaves Newport News Transit Center at 6:45 PM (and Hampton Transit Center at 6:57 PM), and isn't even a full route into Virginia Beach—it's an Expressways trip that terminates in Downtown Norfolk at 7:34 PM. Miss that 6:45 PM connection because an upstream bus on Warwick Boulevard runs late, and you are stranded on the wrong side of the water until Sunday morning.<br><br>
-> Even worse, while waiting thirty-five minutes at Newport News Transit Center for that final 6:45 PM bus—or transferring through Hampton Transit Center—riders are forced to use public transit center restrooms with half-ripped mirrors, bare glue-stained plywood, broken toilet-paper dispensers hanging by a single bolt, and vandalized stalls. Riders who pay their fares every day deserve cross-harbor Route 61 service that runs until at least 10:00 PM or 11:00 PM seven nights a week, and transit center facilities that are kept clean, safe, and fully accessible.
-
-As soon as Katie clicked Publish on our first entry, I opened a second draft tab so the two of us could jot down the twin Virginia Beach problems we had just run headfirst into during our Monday college-registration trip to CCHR and our rides across the Norfolk–Virginia Beach city line: the ninety-minute local bus crawl, the strict two-hour paper transfer time limit, and the glaring service cliff where buses crossed out of Norfolk into Virginia Beach.
-
-"Look right here at the printed Route 1 and Route 25 schedule booklets, Nate," Katie said, smoothing both folded paper timetables flat under the desk lamp while I typed. "You don't even need an inside source at City Hall to see why Virginia Beach's bus service hours are so terrible compared to Norfolk's. Just look at the columns on Route 1 between Downtown Norfolk and Pembroke East. On the Norfolk side of the route—from Monticello and Charlotte up Granby Street through Wards Corner, Ocean View at Duffy's Lane, and out to the Amphibious Base at the city border—the bus runs every fifteen minutes during weekday rush hours, every thirty minutes midday and Saturdays, and keeps running late into the night until 2:15 AM, seven days a week. Then look at what happens the exact second Route 1 crosses the city line from the Amphibious Base into Virginia Beach along Pleasure House Road, Haygood Shopping Center, and Pembroke East: most of the buses stop at the Amphibious Base and turn right back around into Norfolk! Inside Virginia Beach, Route 1 drops to once an hour, only runs during the day with the last bus leaving Pembroke East at 6:22 PM, and on the back of the brochure under Sunday, the Virginia Beach columns literally just say NO SUNDAY SERVICE in capital letters across an empty white box!"
-
-"And look at Route 25 between Glenrock Mall and CCHR Virginia Beach Campus," I said, tracing my finger across the weekday timetable columns. "It leaves Glenrock Mall in Norfolk every thirty minutes, rolls down to Greenwich Road and Newtown Road right at the Virginia Beach border, and every second bus literally stops at Newtown Road and turns right back around to stay in Norfolk—dropping the Virginia Beach half down Princess Anne Road to CCHR to once an hour, ending at 5:53 PM, with zero weekend service at all."
-
-Katie shook her head with a wry half-smile. "It reminds me of that old local political story Dad told us about Virginia Beach's mayor, Myra Overton. Everyone knows Mayor Overton is a genuinely sweet, grandmotherly lady in person who got her political start serving on the city's library board—and she's been a great champion for the Central Library—but she is not so great a politician when it comes to public transit. Like the story that always goes around among bus riders: there's no way to confirm she ever actually said it, of course, but so they say, if Mayor Overton had her way, Route 20 on Virginia Beach Boulevard would depart Downtown Norfolk, take the Boulevard out to Newtown Road, and turn right back around and stay in Norfolk—just to keep the riff-raff out!"
-
-"Whether anyone at City Hall ever said it out loud or not, that exact Newtown Road mentality is printed right here in the CVTA schedule book," I said, typing the Route 1 and Route 25 timetable numbers straight into our second post without naming any unconfirmed rumors, letting the black-and-white schedule columns speak for themselves. "At CCHR Virginia Beach Campus, the last Route 12 toward Military Highway and Indian River Road leaves at 5:48 PM, the last Route 25 leaves at 5:53 PM, and if a citizen takes Route 33 down to the Virginia Beach Municipal Center to watch a 6:00 PM City Council meeting and needs to connect at CCHR to Route 12, Route 25, Route 29, or Route 36 to get home, they have to leave the Municipal Center on the 5:33 PM bus—twenty-seven minutes before the 6:00 PM City Council meeting even gavels in! And when every Virginia Beach route runs once an hour, if you ride a multi-bus loop across Virginia Beach and Norfolk—say from CCHR up Route 29 to Hilltop, across Virginia Beach Boulevard on Route 20 to Glenrock Mall, down Military Highway on Route 15, and onto Route 12 back to CCHR—your two-hour paper transfer expires before you can even board your final connecting bus, forcing you to pay a second full fare just to finish one trip."
-
-Together, we formatted our second entry—laying out our wish list for late-evening service hours until at least ten o'clock at night on core Virginia Beach routes, timed clock-face transfer pulses at CCHR, Glenrock Mall, and Hilltop, limited-stop express trunk buses along Granby Street, Virginia Beach Boulevard, and Military Highway, continuous curb-cut sidewalks leading to concrete wheelchair boarding pads, and a regional smart-card or day-pass system modeled on what the Seattle Transit Blog documented out in the Puget Sound.
-
-When I clicked Publish on the second post and refreshed our BlogSphere home page, both articles sat cleanly on the screen beneath our navy-and-teal header, ready for OmniSearch's web crawlers to index overnight.
-
-Right then, of course, the visitor counter at the bottom of our sidebar read zero. Nobody in Norfolk or Virginia Beach knew our blog existed yet. We were just two twenty-year-old twins in power wheelchairs sitting side by side in a small West Ocean View apartment at nine o'clock on a Sunday night.
-
-Katie reached across her armrest, laced her fingers through mine, and rested her head gently against my shoulder as we looked at the glowing CRT screen together.
-
-"We don't need a crowd tonight, Nate," Katie said quietly, as if reading my mind. "The Seattle Transit Blog didn't build its readership in a single weekend either. If you and I just keep riding the buses together, studying every route map and timetable change, and jotting down two or three honest, well-researched posts every single week while we finish our degrees—think about where this site will be two or three years from now."
-
-I looked at the calendar pinned beside our desk and did the math in my head. "In 2008, the City of Virginia Beach holds its next Mayor's Race and City Council elections."
-
-"That's three full years of building an archive, showing up in OmniSearch results whenever anyone looks up a CVTA bus route, and building a community of riders across Hampton Roads," Katie said, her voice steady and quietly determined. "If we start putting in the work right now in 2005, then by the time the 2008 Mayor's Race in Virginia Beach comes around, Ideas for Coastal Virginia Transit will already have its name out there—and maybe, for once, the people running to lead our city will actually have to pay attention to the people who ride the bus."
-
-### Part 6: The CCHR Disability Counselor, The Glossy Fishersville Pitch, & Why Brother and Sister Should Get to Share a Dorm Room
+### Part 5: The CCHR Disability Counselor, The Glossy Fishersville Pitch, & Why Brother and Sister Should Get to Share a Dorm Room
 
 **Date:** 2007-02-15 at 13:30 America/New_York
 
-![Inside Apartment 3 at Sea Breeze West in West Ocean View in February 2007, 21-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their dining-table computer desk with their father David standing warmly beside them, holding hands across their armrests as they look down at a glossy tri-fold brochure showing a sunny red-brick campus against the Blue Ridge Mountains, a computer lab, and a two-bed college-style dorm room while their half-pantry, half-coat hallway closet with its navy-blue sleeping bag on the carpeted floor is visible down the hallway behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2007_ocean_view_glossy_rrc_brochure_dorm_pitch_katie_nate.jpg)
-
 #### Thursday, February 15, 2007, 1:30 PM — "Have Neither of You Heard of DARS?"
 
-![Inside Apartment 3 at Sea Breeze West in West Ocean View in February 2007, 21-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their dining-table computer desk with their father David standing warmly beside them, holding hands across their armrests as they look down at a glossy tri-fold brochure showing a sunny red-brick campus against the Blue Ridge Mountains, a computer lab, and a two-bed college-style dorm room while their half-pantry, half-coat hallway closet with its navy-blue sleeping bag on the carpeted floor is visible down the hallway behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2007_ocean_view_glossy_rrc_brochure_dorm_pitch_katie_nate.jpg)
+"We've hit the ceiling of what static HTML and a hosted BlogSphere template can do, Mrs. Evans," I explained across the cluttered oak desk inside the Disability Support Services office at the Community College of Hampton Roads Virginia Beach Campus, where twenty-one-year-old Katie and I sat parked wheel-to-wheel in our compact black SwiftChairs with our freshly issued Associate of Applied Science degree transcripts resting in our lap folders. "Over the past fifteen months while we lived at home on Arvin Road finishing our final semesters here at CCHR, *Ideas for Coastal Virginia Transit* has grown from zero visitors to thousands of daily commuters across Hampton Roads. We want to build our own interactive timetable calculators and database-driven web applications from scratch—and for that, we need an intensive course in server-side PHP and SQL relational databases."
 
-"We've hit the ceiling of what static HTML and a hosted BlogSphere template can do, Mrs. Evans," I explained across the cluttered oak desk inside the Disability Support Services office at the Community College of Hampton Roads Virginia Beach Campus, where Katie and I sat parked wheel-to-wheel in our compact black SwiftChairs with our freshly issued Associate of Applied Science degree transcripts resting in our lap folders. "Over the past fourteen months, while we finished up our final semesters here at CCHR, Ideas for Coastal Virginia Transit has grown from zero readers to thousands of daily commuters across Hampton Roads. We want to build our own interactive timetable calculators and database-driven web applications from scratch—and for that, we need a real, intensive course in server-side PHP and SQL relational databases."
+"And our family timing lines up right at the start of March," Katie added, resting her hand lightly across my left armrest. "Dad just landed a big senior systems engineering job up in Northern Virginia at Tysons Corner starting Monday, March fifth, and closed on a second house on Sunset Drive near King Street in Alexandria while keeping our brick ranch here on Arvin Road permanently for the two of us. Since CCHR isn't running an intensive server-side PHP and SQL sequence this spring, we came by to ask if you knew of any specialized technical certificate programs we could take together without piling up four-year university debt."
 
-"And our timing is pretty tight," Katie added, resting her hand across my left armrest. "Our apartment lease up on West Ocean View Avenue ends in two weeks on Wednesday, February twenty-eighth. Dad just landed a big new systems engineering job up in Tysons Corner starting Monday, March fifth, and bought a second house near King Street in Alexandria while keeping our brick ranch on Arvin Road here in Virginia Beach for the two of us. Since CCHR doesn't offer an intensive server-side PHP and SQL track this spring, we came by to ask if you knew of any specialized technical certificate programs we could take without racking up four-year university debt."
-
-Mrs. Evans, who had signed off on our wheelchair classroom seating accommodations ever since our freshman orientation back in the fall of 2003, took off her reading glasses and looked back and forth between the two of us in surprise.
+Mrs. Evans, who had signed off on our classroom wheelchair accommodations ever since freshman orientation in the fall of 2003, slipped off her reading glasses and blinked back and forth between the two of us in genuine surprise.
 
 "Wait a minute, Katie, Nathaniel," Mrs. Evans said. "Have neither of you ever met with a counselor over at DARS?"
 
-Katie and I looked at each other across our armrests and shook our heads at the exact same time.
+Katie and I glanced at each other across our armrests and shook our heads at the exact same second. "What's DARS?" Katie asked.
 
-"What's DARS?" Katie asked.
+"The Virginia Department for Aging and Rehabilitative Services," Mrs. Evans replied, pulling open her side file drawer and lifting out a crisp state directory folder. "Because both of you use power wheelchairs full-time with progressive neuromuscular weakness, you qualify for full state career-and-technical tuition sponsorship. They never advertise on television or highway billboards, so plenty of community-college graduates have no idea it exists, but the Commonwealth operates a residential post-secondary campus up in the Shenandoah Valley in Fishersville—right between Staunton and Waynesboro—called Roosevelt Rehabilitation Center."
 
-"The Virginia Department for Aging and Rehabilitative Services," Mrs. Evans replied, pulling open her side file drawer and lifting out a crisp state directory folder. "Because both of you use power wheelchairs full-time with progressive neuromuscular weakness, you qualify for full state career-and-technical tuition sponsorship. They don't advertise on television or highway billboards, so a lot of college students have no idea it exists, but the Commonwealth operates a residential post-secondary campus up in the Shenandoah Valley in Fishersville—right between Staunton and Waynesboro—called Roosevelt Rehabilitation Center."
+At the word *rehabilitation*, both Katie and I instinctively frowned. Neither of us was looking for physical therapy or basic life-skills classes; we rode multi-bus regional transit transfers across Hampton Roads by memory, ran one of Coastal Virginia's fastest-growing civic websites, and already held accredited associate degrees.
 
-At the word *rehabilitation*, both Katie and I instinctively frowned a little. Neither of us was looking for physical therapy or life-skills classes; we had lived in our own Norfolk apartments for three and a half years, rode public transit everywhere we went, and already held accredited associate degrees.
+Mrs. Evans spotted our expressions immediately and held up a reassuring hand. "Now, don't let the old 1940s name fool you—think of their Business and Information Technology division as a specialized technical institute," she said warmly, sliding a printed course catalog sheet across her desk toward our wheelchairs. "Look right here at track BIT-204: Web Applications Developer. It is a dedicated, full-time classroom program teaching server-side PHP, SQL relational database design, and dynamic web application architecture. And because Fishersville sits right near the junction of Interstate 81 and Interstate 64, it's barely a two-hour drive down from your father's new place in Alexandria."
 
-Mrs. Evans noticed our expressions immediately and held up a reassuring hand. "Now, don't let the old 1940s name fool you—think of their Business and Information Technology division as a specialized technical college," she said warmly, sliding a printed course catalog sheet across her desk toward our wheelchairs. "Look right here at track BIT-204: Web Applications Developer. It is a dedicated, full-time classroom program teaching server-side PHP, SQL database design, and dynamic web application architecture. And because Fishersville is right off Interstate 81 and Interstate 64, it's only a two-hour drive down from your father's new place in Alexandria."
-
-Katie leaned over my armrest so our shoulders pressed together as we read the course description:
+Katie leaned over my armrest so our shoulders pressed warmly together as we read the course block:
 
 > Business & Information Technology Division — Web Applications Developer<br>
 > Curriculum: Server-Side Scripting (PHP), Relational Database Management (SQL), Dynamic Web Architecture, & Client-Server Integration.<br>
 > Format: Self-paced, module-driven instruction in a dedicated campus computer laboratory with on-campus dormitory housing and dining included.
 
-"Server-side PHP and SQL, self-paced modules, and zero tuition debt," I murmured, my eyes lighting up as I traced the course outline. "If it's self-paced, Katie, two people who have been coding HTML since seventh grade and Quantum Basic since high school could breeze through those modules."
+"Server-side PHP and SQL, self-paced modules, and zero tuition debt," I murmured, my eyes lighting up as I traced the curriculum line. "If it's self-paced, Katie, two twins who have been coding HTML since seventh grade and Quantum Basic since high school could fly through those modules."
 
-"Let me call over to the regional DARS office on Newtown Road right now," Mrs. Evans smiled, reaching for her desk telephone. "If your Ocean View lease ends on the twenty-eighth and your dad starts his Tysons Corner schedule on Monday, March fifth, we can get your intake paperwork expedited this afternoon so you two can check into the dorms on Sunday, March fourth."
+"Let me call over to the regional DARS office on Newtown Road right now," Mrs. Evans smiled, reaching for her desk telephone. "If your dad starts his Tysons Corner job on Monday, March fifth, we can expedite your intake paperwork so he can drop the two of you off at the dorms on Sunday afternoon, March fourth, right on his drive north to Alexandria."
 
 ***
 
-#### Friday, February 23, 2007, 6:30 PM — The Glossy Brochure Pitch & Our Twin XL Closet Plan
+#### Friday, February 23, 2007, 6:30 PM — The Glossy Barton Hall Brochure & Our Unbroken Twenty-One-Year Streak
 
-Eight days later, on Friday evening inside Apartment 3 at Sea Breeze West, half-packed cardboard moving boxes sat stacked neatly along the front wall while Dad stood beside our repurposed dining-table computer desk with a steaming mug of coffee in his hand.
+Eight evenings later, spread open across our clean dining-room table on Arvin Road while Dad stood beside our wheelchairs with a steaming mug of coffee, lay the glossy, full-color tri-fold brochure and welcome packet that the regional DARS counselor on Newtown Road had handed us that afternoon—and if you went by the brochure and the counselor's pitch, Roosevelt Rehabilitation Center in Fishersville looked like a hidden mountain paradise for two twenty-one-year-old computer geeks.
 
-Spread open across the wooden tabletop in front of our wheelchairs was the glossy, full-color tri-fold brochure and welcome packet that the regional DARS counselor on Newtown Road had handed us that afternoon—and if you went by the brochure and the counselor's pitch, Roosevelt Rehabilitation Center in Fishersville sounded like a hidden paradise for two twenty-one-year-old computer geeks.
+Inside the Newtown Road office, everything had been pitched as a seamless, adult college campus. Nobody had breathed a single word about a mandatory two-week Vocational Evaluation, or touring auto-body and woodworking shops, or a Level 1 through Level 4 behavioral privilege chart, or needing signed yellow paper Hall Passes just to roll off campus, or staff talking down to grown college graduates like kindergartners. Instead, the counselor had beamed at our CCHR degrees, promised us we would simply roll to our PHP and SQL computer lab by day and relax in the dormitory at night, and opened the glossy tri-fold to sunny photographs of red-brick buildings framed by the Blue Ridge foothills, a heated indoor pool, a student Recreation Hall, a dining commons, and a bright two-bed dormitory room in Barton Hall.
 
-In the counselor's office, everything had been pitched as a seamless, adult college experience. Nobody had breathed a word about a two-week mandatory Vocational Evaluation, or touring auto mechanics and woodworking shops, or a Level 1 through Level 4 privilege system, or needing signed yellow paper Hall Passes just to leave campus, or nurses talking to grown adults like kindergarteners. Instead, the counselor had beamed at our CCHR transcripts, assured us that Fishersville was just like going away to a small residential college in the mountains—go to our Web Applications Developer class during the day, sleep in the dorm at night, and be done with it—and flipped open the glossy brochure to show us sunny photographs of red-brick buildings against the Blue Ridge foothills, a heated indoor pool, a student Recreation Hall, a campus dining hall, and a bright, tidy two-bed dormitory room in Barton Hall.
+"Look at the photo of the Barton Hall room right here in the center panel, Dad," Katie said, tapping the glossy photograph showing two standard college Twin XL beds along opposite walls, two study desks, and wide sliding closet doors in the corner. "Dr. Carter's seating clinic already fitted those two collapsible manual cross-brace frames with right-armrest joystick drives for us this morning, so whenever you visit from Alexandria in a regular car, you just unclip the battery boxes and fold our frames into the trunk."
 
-"Look at the photo of the Barton Hall dorm room right here in the center panel, Dad," Katie said, tapping the glossy photograph showing two standard college Twin XL beds on opposite walls, two desks, and a wide closet door in the corner. "Dr. Carter's seating clinic already rigged up those two collapsible manual cross-brace wheelchair frames with right-armrest joystick drives for us this morning, so if we ever catch a ride into Waynesboro in a regular car, you just unclip the battery box and fold the frames into the trunk."
+"And the counselor confirmed tuition, lab books, dorm housing, and three meals a day in the cafeteria are one hundred percent covered," Dad nodded through his glasses, resting a warm hand on Katie's shoulder and mine before stepping into the kitchen to rinse his coffee mug. "I'll load your collapsible joystick chairs and suitcases into the truck next Sunday morning, March fourth, get you settled into Barton Hall that afternoon, and head right up Interstate 81 and Interstate 66 to Sunset Drive in Alexandria before work Monday morning."
 
-"And the DARS counselor said tuition, textbooks, dorm rooms, and three meals a day in the cafeteria are a hundred percent covered," Dad said, looking down over our shoulders through his glasses at the brochure. "Since we're moving your furniture and desktop computer out of here down to the Arvin Road house in Virginia Beach on Wednesday when the lease ends, you two can spend Thursday through Saturday in your own bedrooms on Arvin Road, and I'll drive you straight up to Fishersville on Sunday morning, March fourth, on my way up to Alexandria before I start work in Tysons Corner on Monday."
+Once Dad stepped into the kitchen, Katie and I turned our SwiftChairs toward each other beside the dining table and studied the glossy photograph of the two-bed Barton Hall dorm room more closely.
 
-Once Dad carried a stack of packed book boxes out to the bed of his pickup truck, Katie and I turned our wheelchairs toward each other in front of the dining table and looked closely at the photograph of the two-bed Barton Hall dorm room.
+Nowhere in a single column of that tri-fold brochure did it say one word about men and women being locked into opposite residential wings, or about a rule forbidding opposite-gender room visits.
 
-Nowhere in the glossy brochure did it say a single word about men and women being segregated into separate wings of the building, or about a rule forbidding opposite-gender room visits.
+"Okay, let's think the housing setup through logically," I said quietly, reaching across our armrests to hold Katie's hand. "Dorm beds at every college are Twin XL, so even if we pushed one against the wall, a single mattress is way too narrow for the two of us."
 
-"Okay, let's think the dorm setup through," I said quietly, reaching across our armrests to take Katie's hand. "We know dorm beds at any college are Twin XL, so one bed is going to be way too narrow for the two of us to sleep in together—even if we pushed it against the wall."
+"And we already know why regular colleges normally separate guys and girls in dorm rooms," Katie replied with complete, matter-of-fact autistic logic. "Colleges don't want boyfriends and girlfriends moving into a dorm room together in September and then having some loud, messy breakup in November where somebody gets thrown out in the hallway—like Tiffany did to us."
 
-"And we know why regular colleges normally separate guys and girls in the dorms," Katie replied with complete, matter-of-fact logic. "They don't want boyfriends and girlfriends sharing a dorm room and then having some messy breakup in the middle of the semester where somebody gets kicked out or refuses to move."
+Katie squeezed my fingers, a warm, completely confident smile lighting up her face.
 
-Katie squeezed my fingers, a warm, confident smile lighting up her face.
+"Except none of that applies to us, Nate!" Katie said brightly. "We're twin brother and sister—actual family! We *can't* break up! We've been side by side since we were babies in cribs, and in twenty-one years—through Arvin Road, Greenway Court, Brandon's house in Williamsburg, and Tiffany's apartment in Ocean View—you and I have never spent one single night under separate roofs in our entire lives! Since we're brother and sister, of course they'll assign us one of those two-bed dorm rooms together!"
 
-"Except none of that applies to us, Nate," Katie said. "We're twin brother and sister! We can't break up! We've been at each other's side since we were little kids in cribs, and we've lived together every single day of our lives except for the fourteen months we were torn apart by our abusers. Since we're brother and sister—actual family—they should let us share one of those two-bed dorm rooms!"
+"That makes total sense," I agreed immediately, glancing from the wide sliding closet doors in the Barton Hall photograph back down our hallway toward our Arvin Road bedroom closet, where our shared navy-blue sleeping bag and two white pillows waited neatly beneath Dad's raised shelves. "On paper, we'll let their housing chart assign us the two Twin XL beds in the room so their paperwork is happy. And as long as that Barton Hall dorm closet is at least three feet deep by six feet wide like ours here at home—once we lock our room door at bedtime—"
 
-"That makes total sense," I agreed, nodding as I looked back down at the glossy photo of the dorm room's wide six-foot sliding closet doors. "On paper, we'll put up with being assigned two separate Twin XL beds in the room so their housing chart is happy. And as long as that dorm closet is at least three feet deep by six feet wide like our hallway closet right here—when it's actually bedtime and we close our dorm room door—"
+"—we'll just unroll our sleeping bag lengthwise on the dorm closet floor, slide the closet doors shut so it's pitch dark and snug, and sleep cuddled up together like we always do!" Katie finished, grinning from ear to ear as she leaned across our armrests and wrapped both arms tightly around my neck. "Take our PHP and SQL modules during the day, eat together in the dining hall, code *Ideas for Coastal Virginia Transit* at our dorm desks at night, and curl up safe inside the closet at bedtime. We can totally make a mountain dorm room work for a few months, Nate!"
 
-Katie glanced down our short carpeted right-hand hallway toward the open white bi-fold doors of our three-by-six half-pantry, half-coat closet, where our shared navy-blue sleeping bag and two white pillows lay lengthwise across the carpeted closet floor beneath the four tiers of white wire pantry shelves and hanging winter coats so the doors could close completely around us.
-
-"—we'll just unroll our sleeping bag lengthwise inside the dorm closet, pull the closet doors shut so we feel completely enclosed and secure, and sleep cuddled up together like we always do!" Katie finished, grinning from ear to ear as she leaned across our armrests and wrapped both arms tightly around my neck. "Go to our PHP and SQL class during the day, eat in the dining hall, hang out in our room in the evening, and curl up together behind closed doors in the closet at night. We can totally make a dorm room work for a few months, Nate!"
-
-Holding my twin sister close in the warm living room of Apartment 3, I hugged her back with all my strength, resting my cheek against her blonde hair as we folded the glossy Fishersville brochure into our laptop bag and rolled down the hallway to get ready for bed in our closet sanctuary.
+Hugging my twin sister close in the warm dining room on Arvin Road, I rested my cheek against her blonde hair as we tucked the glossy Fishersville brochure neatly into our laptop bag and rolled down the hallway together to get ready for bed in our closet sanctuary.
 
 # Twelve Days at Roosevelt Rehabilitation Center & Walking Out for Good
 
@@ -4341,7 +3369,7 @@ Holding my twin sister close in the warm living room of Apartment 3, I hugged he
 
 Looking down the wide cinder-block corridor, with its buzzing fluorescent troffers and faded 1970s brass plaques reminding visitors that the facility had stood on these former World War II Army hospital grounds since November 1947, I reached across my armrest and brushed my knuckles against Katie's fingers. She gave my hand a quick, grounding squeeze before we rolled into the intake office behind a wooden counter.
 
-"Here are their updated medical clearances and my emergency contact numbers," Dad said, setting a manila folder on the blotter in front of the Sunday residential coordinator, a middle-aged woman whose plastic badge read *Linda*. "You'll see two addresses listed for me. My Virginia driver's license has my new primary residence on Sunset Drive near King Street in Alexandria, right down the road from my new engineering job in Tysons Corner, and the second number is our brick ranch on Arvin Road off Indian River Road and Military Highway down in Virginia Beach. I bought that Virginia Beach house from my old landlord years ago and kept it when their West Ocean View apartment lease ended on Wednesday so the twins always have their familiar home and routine waiting for them in Hampton Roads."
+"Here are their updated medical clearances and my emergency contact numbers," Dad said, setting a manila folder on the blotter in front of the Sunday residential coordinator, a middle-aged woman whose plastic badge read *Linda*. "You'll see two addresses listed for me. My Virginia driver's license has my new primary residence on Sunset Drive near King Street in Alexandria, right down the road from my new engineering job in Tysons Corner, and the second number is our brick ranch on Arvin Road off Indian River Road and Military Highway down in Virginia Beach. I bought that Virginia Beach house from my old landlord years ago and kept it as their permanent home down in Virginia Beach so the twins always have their familiar house and routine waiting for them in Hampton Roads."
 
 "Got both numbers right here on the top sheet," Linda said, clipping the page into two green intake folders. She glanced over the counter at our wheelchairs—the backup folding manual cross-brace frames with spoked push-rim wheels and rear rubber push-handles that Dr. Carter's seating clinic had fitted with right-armrest joystick power-drive kits back after Hurricane Isabel—and raised her eyebrows slightly. "I see the vocational counselor's note here says you two left your full-size power chairs in Virginia Beach?"
 
@@ -4349,13 +3377,13 @@ Looking down the wide cinder-block corridor, with its buzzing fluorescent troffe
 
 "Very smart," Linda said, sliding our two green folders and two brass room keys on plastic tags across the counter. "Now, for your initial Vocational Evaluation period here in Barton Hall, Nathaniel, your room is down on the men's wing, and Katie, you are in Room 157 over on the women's wing. Please remember that under Roosevelt Rehabilitation Center residential policy, there is strictly no visiting dorm rooms of the opposite gender."
 
-Katie and I looked at each other across our armrests as that announcement hit us like a bucket of ice water. Back in Norfolk, when we had looked at the glossy brochure from the DARS office showing a two-bed college-style dorm room in Barton Hall, we had figured that since regular colleges only separate men and women so boyfriends and girlfriends don't have messy breakups—and since we were twin brother and sister who had been at each other's side since we were little and had lived together our entire lives except when we were separated by our abusers—they would let us share a room, put up with two Twin XL beds on paper, and cram ourselves into our sleeping bag in the dorm closet at bedtime.
+Katie and I looked at each other across our armrests as that announcement hit us like a bucket of ice water. Back home on Arvin Road, when we had looked at the glossy brochure from the DARS office showing a two-bed college-style dorm room in Barton Hall, we had figured that since regular colleges only separate men and women so boyfriends and girlfriends don't have messy breakups—and since we were twin brother and sister who had been at each other's side since we were little and had never spent a single night under separate roofs in twenty-one years, even while surviving abusive partners in Williamsburg and Ocean View—they would let us share a room, put up with two Twin XL beds on paper, and cram ourselves into our sleeping bag in the dorm closet at bedtime.
 
 Keeping my voice completely polite, I leaned forward in my chair toward the counter.
 
-"Excuse me, ma'am—I think there might be a misunderstanding," I said politely. "Katie and I aren't a boyfriend and girlfriend who might break up; we're fraternal twins—brother and sister. We thought since we're family, we'd be able to share one of the two-bed rooms. We've been at each other's side since we were little, we've lived together for the last three and a half years while earning our associate degrees at the Community College of Hampton Roads—except when we were separated by abusive partners—and whenever one of us gets overwhelmed at night, the other one is right there."
+"Excuse me, ma'am—I think there might be a misunderstanding," I said politely. "Katie and I aren't a boyfriend and girlfriend who might break up; we're fraternal twins—brother and sister. We thought since we're family, we'd be able to share one of the two-bed rooms. We've been at each other's side since we were little, we've lived together every single day of our lives—all through earning our associate degrees at the Community College of Hampton Roads—and whenever one of us gets overwhelmed at night, the other one is right there."
 
-"I understand you're brother and sister, Nathaniel, and that you're used to sharing an apartment," Linda replied in a practiced, unyielding voice, tapping the highlighted paragraph on the housing sheet, "but this is a state residential facility, not an off-campus apartment. We keep men and women on separate wings because we can't have male and female clients in the same dorm rooms hooking up behind closed doors."
+"I understand you're brother and sister, Nathaniel, and that you're used to sharing a home," Linda replied in a practiced, unyielding voice, tapping the highlighted paragraph on the housing sheet, "but this is a state residential facility, not an off-campus house. We keep men and women on separate wings because we can't have male and female clients in the same dorm rooms hooking up behind closed doors."
 
 Katie and I blinked at her, both of our literal autistic brains stalling on the slang phrase.
 
@@ -4363,7 +3391,7 @@ Katie and I blinked at her, both of our literal autistic brains stalling on the 
 
 Linda paused, her cheeks coloring slightly as she looked across the counter at the two of us and lowered her voice a notch. "It means having sex, Katie."
 
-Katie and I looked at each other and then looked straight back at Linda in complete earnestness. Both of us knew as a memorized rule that brothers and sisters are not supposed to have sex with each other—even if neither of us had ever really understood why people made such a big deal about it.
+Katie and I looked at each other and then looked straight back at Linda in complete earnestness. Ever since sitting side by side in Family Life Education classes back in Virginia Beach public schools, both of us had known as a strict, memorized rule that brothers and sisters are not supposed to have sex with each other—a rule we obeyed one hundred percent literally even though neither of us had ever really understood why it was a rule, or why people like Tiffany Sloan in Ocean View got so twisted in the head assuming a dark closet sleeping bag had anything to do with sex.
 
 "Oh!" Katie said matter-of-factly. "Well, we're brother and sister—we know brothers and sisters aren't supposed to have sex with each other, so of course we won't have sex!"
 
@@ -4697,7 +3725,7 @@ Across the aisle from our wheelchairs, the middle-aged man with the salt-and-pep
 
 "Virginia Beach," he grinned, setting his mug down and reaching across the aisle to shake my hand and then Katie's. "I'm Jim. Spent twenty years working on computer hardware and network cabling down at the Oceanfront and Lynnhaven before my back gave out and Voc Rehab sent me up the mountain to retrain."
 
-"No way—we're from Virginia Beach too!" Katie beamed. "We grew up in Kempsville and went to Northwood High School and the Community College of Hampton Roads before we lived in West Ocean View!"
+"No way—we're from Virginia Beach too!" Katie beamed. "We live right on Arvin Road in Kempsville, and we went to Northwood High School and the Community College of Hampton Roads!"
 
 At the two workstations immediately to Katie's right, two middle-aged women turned their chairs around with warm smiles. The woman sitting closest to Katie was short and petite, Caucasian, with straight jet-black hair and sharp eyes behind her glasses; beside her sat a cheerful woman with a sketchpad full of interface wireframes.
 
@@ -5011,7 +4039,7 @@ When we came back out in our pajamas, Tina looked at the two of us with quiet re
 
 "Pack yourselves a duffel bag tomorrow, and we will leave on Friday at three-thirty sharp as soon as Mr. Alderman's class is over," Tina promised, reaching for the wall switch to turn off the overhead fluorescent light on her way out the door so we could lock the room behind her.
 
-As soon as we were alone in the quiet dark, neither Katie nor I even tried to lie out in the open on that narrow institutional Twin XL mattress. Just as we had planned over the glossy brochure back in Ocean View—and just as our nervous systems had needed every night since Brenda bang-searched the back alley behind Greenway Court—we pulled the blankets and two pillows off my bed, spread them lengthwise across the floor inside my six-foot dorm closet, transferred out of our wheelchairs onto the closet floor, and pulled the sliding closet doors completely shut.
+As soon as we were alone in the quiet dark, neither Katie nor I even tried to lie out in the open on that narrow institutional Twin XL mattress. Just as we had planned over the glossy brochure back home on Arvin Road—and just as our nervous systems had needed every night since Brenda bang-searched the back alley behind Greenway Court—we pulled the blankets and two pillows off my bed, spread them lengthwise across the floor inside my six-foot dorm closet, transferred out of our wheelchairs onto the closet floor, and pulled the sliding closet doors completely shut.
 
 "On one hand, I'm glad we are back together inside a closet again," Katie whispered in the dark, pressing her forehead against my collarbone, "but yet on the other, I feel so weird and sick about what happened tonight."
 
@@ -5143,7 +4171,7 @@ Katie reached into her crossbody bag, unzipped her wallet, and pulled out her la
 
 I pulled my own wallet out of my jeans pocket and laid my Virginia State ID card right beside hers. Printed across the front of both cards in crisp black DMV block letters was the exact Arvin Road address in Virginia Beach where we were sitting right now.
 
-"We never even have to go to the DMV to change our address," I said, grinning across the table at Dad. "That's the exact address we've had on our State ID cards ever since the three of us left Mom back in September 2001. Neither of us ever bothered updating our IDs when Katie was up in Williamsburg or when I was over in Norfolk, because this house was always home base."
+"We never even have to go to the DMV to change our address," I said, grinning across the table at Dad. "That's the exact address we've had on our State ID cards ever since the three of us left Mom back in September 2001. Neither of us ever bothered updating our IDs during our temporary stays in Norfolk or Williamsburg, because this house was always home base."
 
 "And because we turned eighteen right here at this table in April 2003 when we were seniors at Northwood High," Katie added, her blue eyes lighting up as she connected the dots, "our Virginia Beach voter registrations at the Kempsville precinct have been anchored to this exact address for four straight years too."
 
@@ -5355,7 +4383,7 @@ After waiting through two more heavy traffic cycles to cross the unmarked, cross
 
 Both of us had gotten those original vertical Under-21 State ID cards back in October 2001, right after we turned sixteen and moved with Dad into this house on Arvin Road when he was first renting it from the landlord—years before he eventually bought the place outright. Across the top of each vertical card ran the bright red banner announcing the date we would turn twenty-one, and printed underneath our names was our exact street address here on Arvin Road.
 
-Crucially, neither of us had ever bothered telling the Virginia Department of Motor Vehicles about a single one of our temporary moves over the past three and a half years—not when Katie went up to Williamsburg for her freshman year of college and then down to Fishersville, and not when I moved into our Norfolk apartments on Greenway Court and West Ocean View Avenue before heading to Fishersville with her. As far as the DMV's computer database in Richmond was concerned, Katie and I had lived continuously at this exact house on Arvin Road since we were sixteen years old.
+Crucially, neither of us had ever bothered telling the Virginia Department of Motor Vehicles about a single one of our temporary moves over the past three and a half years—not when the two of us lived on Greenway Court, up in Williamsburg, or at Tiffany's apartment on West Ocean View Avenue, and not during our twelve days up in Fishersville. As far as the DMV's computer database in Richmond was concerned, Katie and I had lived continuously at this exact house on Arvin Road since we were sixteen years old.
 
 Now that we were twenty-one—and only sixteen days away from turning twenty-two—we wanted to trade in those worn vertical Under-21 cards for proper adult horizontal State ID cards before heading over to Fairlawn Recreation Center on Monday to sign up for resident memberships. And since the nearest DMV Customer Service Center was over on Buckner Boulevard in Virginia Beach, getting there meant taking CVTA Route 12.
 
@@ -5551,11 +4579,11 @@ When we finally dressed and rolled side by side into our dual-desk office at qua
 
 "Look at the registrant output on my monitor, Katie," I said grimly, pointing at the plain-text lines returned by the public domain registry.
 
-Back in November 2005, when we had registered the domain from our apartment in West Ocean View, the domain registrar had required a registrant mailing address and phone number—and by default, ICANN published that exact record for anyone on the internet to query for free.
+Back in early 2006, when we had pointed a custom domain name to Ideas for Coastal Virginia Transit using the personal registrar login I had created back in 2005 while we were still staying at Tiffany's apartment on West Ocean View Avenue, the registrar had automatically pulled that saved Norfolk mailing address into our domain contact profile—and by default, ICANN published that exact record for anyone on the internet to query for free.
 
-"That's how she knew to go to West Ocean View after checking Greenway Court," Katie said, her jaw tightening as she read the screen over my shoulder. "She typed our website name into a public domain lookup, saw the old West Ocean View apartment address on the registration record, went up there after our lease ended on February twenty-eighth, and when the landlord told her we were gone, she started reading our blog posts to see which bus hubs we ride through!"
+"That's how she knew to go to West Ocean View after checking Greenway Court," Katie said, her jaw tightening as she read the screen over my shoulder. "She typed our website name into a public domain lookup, saw the old West Ocean View apartment address still sitting on our registrar profile, went up there, and when the building manager told her we had moved out back in November of 2005, she started reading our blog posts to see which bus hubs we ride through!"
 
-"Thank goodness we never updated the domain registration to Arvin Road when we got back from Fishersville," I breathed, my skin prickling at how close we had come to handing her a map to Dad's Virginia Beach house. "Because she has no idea this house on Arvin Road even exists. When Dad moved the three of us here in October 2001 after the custody order, she never got this address."
+"Thank goodness we never updated our registrar account profile to Arvin Road after Dad brought us home from Ocean View," I breathed, my skin prickling at how close we had come to handing her a map to Dad's Virginia Beach house. "Because she has no idea this house on Arvin Road even exists. When Dad moved the three of us here in October 2001 after the custody order, she never got this address."
 
 "And she is never going to get it," Katie said fiercely, picking up the desk phone on the table between our chairs and pressing the speed-dial button for Dad's cell phone up in Northern Virginia. "We need to lock down our domain registration today, Nate—and we need a real legal shield so our names and our home street never show up on a public database ever again."
 
@@ -5679,7 +4707,7 @@ As we rolled side by side through the King Street railroad underpass toward the 
 
 "How on earth did you manage to score three confirmed passes to tour the White House on three weeks' notice anyway, Dad?" she asked.
 
-"By writing to our brand-new Senator from Virginia," Dad smiled as the elevator doors opened onto the King Street platform. "When you two decided in March to move back to Arvin Road and we planned this birthday week up here, I sent constituent tour requests to Capitol Hill. Everyone in Virginia knows our senior Senator, Senator John Warren, is an institution in the Senate, of course, and his office was booked solid with spring school trips—but our newly sworn-in junior Senator, Senator James West, just took office in January and wanted to prove right out of the gate that his office answers every constituent letter. His constituent-services director called me back personally within forty-eight hours, submitted our security clearance numbers to the Secret Service for a nine-thirty White House tour, and invited us up to his Senate office this afternoon to watch the Senate in session."
+"By writing to our brand-new Senator from Virginia," Dad smiled as the elevator doors opened onto the King Street platform. "When you two walked out of Fishersville in March and came back home to Arvin Road, and we planned this birthday week up here, I sent constituent tour requests to Capitol Hill. Everyone in Virginia knows our senior Senator, Senator John Warren, is an institution in the Senate, of course, and his office was booked solid with spring school trips—but our newly sworn-in junior Senator, Senator James West, just took office in January and wanted to prove right out of the gate that his office answers every constituent letter. His constituent-services director called me back personally within forty-eight hours, submitted our security clearance numbers to the Secret Service for a nine-thirty White House tour, and invited us up to his Senate office this afternoon to watch the Senate in session."
 
 Katie looked down at the embossed tour pass in her hand, her blue eyes widening with quiet respect. "A brand-new United States Senator actually had his office call a regular family back in two days just to help two twins in wheelchairs see the White House and the Capitol?"
 
@@ -7584,7 +6612,7 @@ The Republican Majority Leader rested his hands gently on the shoulders of his n
 
 "You two have been looking out for Sam, Mandy, and Sarah on the House Floor every single day since January," Majority Leader Callaway said, his voice thick with genuine emotion. "Because I'm their maternal uncle—their mother's brother—their Page badges say Hawkins while my desk plaque downstairs says Callaway, so neither of you had any way of knowing. My wife—their Aunt Marge Callaway—and I have custody of all three of them. We rescued these three kids and took them into our home about a year ago after the unspeakable things their mother and stepfather put them through."
 
-Inside Room 518, both Katie and I inhaled sharply, our hearts clenching as we looked at the three thirteen-year-old triplets clinging to each other's hands beside their uncle—and in a single heartbeat, remembering our own mother Brenda and how our dad David had fought to rescue the two of us when we were sixteen, along with the awful year in our twenties when Katie's controlling jerk of a boyfriend Brandon Mercer in Williamsburg and my manipulative girlfriend Tiffany Sloan had tried to tear us apart, we understood everything about why Sam, Mandy, and Sarah never let go of each other in the hallways.
+Inside Room 518, both Katie and I inhaled sharply, our hearts clenching as we looked at the three thirteen-year-old triplets clinging to each other's hands beside their uncle—and in a single heartbeat, remembering our own mother Brenda and how our dad David had fought to rescue the two of us when we were sixteen, along with how Katie's controlling jerk of a boyfriend Brandon Mercer in Williamsburg in 2004 and my manipulative girlfriend Tiffany Sloan in Ocean View in 2005 had used every closed-door trick in the book trying—and failing—to drive a wedge between us under the same roof, we understood everything about why Sam, Mandy, and Sarah never let go of each other in the hallways.
 
 "After what Sam, Mandy, and Sarah survived before Marge and I got them safe, they are each other's safe person, and Marge and I don't let anyone raise a hand or a voice to them ever again," Uncle Richard continued quietly, drawing the three triplets close against his sides. "Out of all one hundred members of this House—including their own Uncle Richard—you are their absolute favorite Delegate in the entire building, and running errands for your desk is their favorite activity in the Capitol. Over dinner with their Aunt Marge and me on Sunday night, all three of them couldn't stop talking about how Delegate Prairie's wheelchair bay is the only spot on the carpet where nobody ever yells at them or barks confusing orders on the fly, and how much it meant to them when you shielded them in the hallway with your wheelchairs and told them that you and Nate were autistic too. So when Sam, Mandy, and Sarah come sprinting into my office telling me somebody is up on the fifth floor shouting about unwritten rules at their favorite delegate from the other Southside, that's my business too—party lines be damned."
 
@@ -7702,7 +6730,7 @@ Wiping furiously beneath her silver wire-rimmed lenses with two crumpled tissues
 
 "I still can't believe my eyes," Brittany whispered, a watery, bewildered smile flickering through her tears. "I've been living over on the Southside across the James River—in Hillside Court public housing—and last night at six o'clock I was standing in the kitchen when the Richmond evening news came on. All of a sudden there you were on television, Katie, sitting right on the floor of the Virginia House of Delegates tearing that awful bathroom bill to pieces, with Nate sitting right next to you!" She shook her head in amazement. "My heart nearly stopped right there by the sink. I kept thinking, *That's Katie! That's my cousin! What on earth is she doing in the House of Delegates?!* How did this happen?"
 
-For the next ten minutes, while Brittany sipped from a bottle of cold water I pulled from our small office refrigerator and slowly caught her breath, Katie and I caught her up gently on the fourteen years she had missed—how we had finished our computer degrees at CCHR, survived our own awful year apart with Brandon and Tiffany in 2005, built our software business together, fought to fix CVTA evening bus routes at the Virginia Beach Municipal Center, served on City Council, and won Kempsville's Eighty-Fifth House District so Katie was up here in Richmond every winter while we lived back on Arvin Road the rest of the year.
+For the next ten minutes, while Brittany sipped from a bottle of cold water I pulled from our small office refrigerator and slowly caught her breath, Katie and I caught her up gently on the fourteen years she had missed—how we had finished our computer degrees at CCHR, survived Brandon in Williamsburg in 2004 and Tiffany in Ocean View in 2005 side by side without ever letting anyone separate us, built our software business together, fought to fix CVTA evening bus routes at the Virginia Beach Municipal Center, served on City Council, and won Kempsville's Eighty-Fifth House District so Katie was up here in Richmond every winter while we lived back on Arvin Road the rest of the year.
 
 With every honest answer Brittany gave us—never once blaming anyone else for December 31, 2002, admitting plainly how lonely eleventh grade had felt walking across the uncut Lions Way curb into Smoker's Corner alone while we rode the lift bus, and how badly she had spiraled after drifting away—Katie and I glanced across our armrests at each other and felt fourteen years of armor melt clean away. Underneath all that weight and heartbreak sat the exact same sweet cousin who had cut up my chicken patty sandwich in Mrs. DeMarco's cafeteria and held both of our hands all the way down Macgregory Street.
 
@@ -8220,7 +7248,7 @@ As we clinked our four ginger ale glasses together over the signed page, Dad gla
 
 Brittany looked curiously from Dad to me. "Uncle David's niece up in Rhode Island—Aunt Liz's daughter?"
 
-"Yeah," I said softly, feeling an old, nagging knot tighten in my chest every time I remembered hugging a crying twenty-two-year-old Chelsea goodbye at the top of her wooden ramp on Dirty Old Tonomy Hill on December 27, 2004 and whispering in her ear that next time it really would be just Katie and me. "After Newport tore down the old World War II public-housing apartments on Tonomy Hill a few years after Aunt Liz and Grandma Ruth died, Chelsea tried living on her own in a private apartment, and because of her developmental delays it fell apart. Rhode Island adult services placed her in a contracted group home on the edge of the King's College campus up in Braxton. Before Brittany moved home, with Katie and me in full-time powerchairs riding buses to Richmond and Dad working full-time up in Northern Virginia, we didn't have anyone ambulatory at home during the day who could safely help look after Chelsea."
+"Yeah," I said softly, feeling an old, nagging knot tighten in my chest every time I remembered hugging a crying twenty-two-year-old Chelsea goodbye at the top of her wooden ramp on Dirty Old Tonomy Hill on December 27, 2004 and whispering in her ear that next time it really would be just Katie and me—with zero Tiffany anywhere near us. "After Newport tore down the old World War II public-housing apartments on Tonomy Hill a few years after Aunt Liz and Grandma Ruth died, Chelsea tried living on her own in a private apartment, and because of her developmental delays it fell apart. Rhode Island adult services placed her in a contracted group home on the edge of the King's College campus up in Braxton. Before Brittany moved home, with Katie and me in full-time powerchairs riding buses to Richmond and Dad working full-time up in Northern Virginia, we didn't have anyone ambulatory at home during the day who could safely help look after Chelsea."
 
 On the table, the speakerphone rang four times before clicking open—not in a private bedroom, but with the hollow echo of a tiled institutional hallway.
 
@@ -8318,7 +7346,7 @@ For half a heartbeat, Director Arthur Sterling—a slick-haired, ruddy-faced man
 
 Dad took three long strides across the linoleum and planted himself directly in front of Director Sterling, looking straight across his clipboard into the man's eyes.
 
-"Unlock that office medication cart and put both of my niece's prescribed asthma inhalers in her hands in the next ten seconds," Dad said in a low, lethal voice I hadn't heard since the afternoon he kicked Tiffany's dresser onto the Sea Breeze West courtyard, "or my next phone call is 911 for Braxton Fire Rescue and the police for reckless endangerment of a disabled adult."
+"Unlock that office medication cart and put both of my niece's prescribed asthma inhalers in her hands in the next ten seconds," Dad said in a low, lethal voice I hadn't heard since the Sunday morning he stared Tiffany down in the doorway of Sea Breeze West and packed us home, "or my next phone call is 911 for Braxton Fire Rescue and the police for reckless endangerment of a disabled adult."
 
 Sterling's syrupy mask vanished like smoke. Scowling, he stalked three steps behind the half-door of his air-conditioned office, unlocked a steel rolling drawer with a brass key on his belt clip, and slapped Chelsea's blue rescue albuterol inhaler and purple maintenance inhaler onto the counter. Brittany snatched both inhalers up immediately, shook the blue canister, helped Chelsea seal her lips around the mouthpiece for two slow, deep puffs, and counted softly to ten with her until the frightening whistle in Chelsea's chest finally began to ease.
 
@@ -8446,7 +7474,7 @@ Then we rolled back up Dad's minivan ramp, buckled in together, took Interstate 
 
 Down the warm, steam-softened hallway of our brick ranch on Arvin Road on Chelsea's second evening home from Rhode Island, the hall bathroom door swung wide open after her bath, and out padded thirty-four-year-old Chelsea onto the hallway runner—her damp chestnut-brown curls clinging to her shoulders, her worn green plush sea turtle held proudly in her right hand, her blue and purple asthma inhalers clutched in her left, and not a single stitch of clothing on from head to toe.
 
-Because of her severe developmental disability, Chelsea genuinely did not understand abstract social rules or why anyone needed to put clothes on inside a safe house full of family. Seeing her pad cheerfully toward the living room brought back an instant, fond memory of Christmas 1994 when Katie and I were nine—and of Christmas Eve 2004 up on Dirty Old Tonomy Hill, when twenty-two-year-old Chelsea had bolted soaking wet out of the shower because Tiffany's screaming had terrified her on my behalf, and had later tugged off her clothes at bedtime declaring that she always slept naked.
+Because of her severe developmental disability, Chelsea genuinely did not understand abstract social rules or why anyone needed to put clothes on inside a safe house full of family. Seeing her pad cheerfully toward the living room brought back an instant, fond memory of Christmas 1994 when Katie and I were nine—and of Christmas Eve 2004 up on Dirty Old Tonomy Hill, when twenty-two-year-old Chelsea had bolted soaking wet out of the shower because Tiffany's screaming at Katie and me had terrified her, and had later tugged off her clothes at bedtime declaring that she always slept naked.
 
 Not one of the three of us gasped, laughed, or raised our voices by even half a decibel.
 
@@ -9040,7 +8068,7 @@ I lifted my mPhone on its armrest mount and tapped the live broadcast button on 
 
 For the next thirty-eight minutes, while the March downpour drummed against the shelter roof on Victoria Boulevard and Preston Holloway was up in Arlington hosting a two-thousand-dollar-a-plate brunch inside a Sovereign Regency hotel ballroom, forty-two thousand Virginians watched live on their phones as Katie sat in her wheelchair in the Hampton rain listening to shipyard workers and hospital aides explain what happens to an hourly worker's paycheck when a twelve-year-old transit bus breaks down on the way to a shift. When the road supervisor's pickup truck finally splashed up to the curb with a heavy steel pry bar and freed the corroded hinge pin so Katie and I could roll up into the front four-point securement bays, the entire bus broke into applause—and by the time we rolled down the ramp at the Newport News Transit Center, volunteers waiting at the bays had filled nineteen more petition sheets in a single hour.
 
-That same week, Katie, Dad, Brittany, Chelsea, and I rode every corridor across Eastern and Central Virginia to show voters what a truly connected Commonwealth looked like. In the First Congressional District, all five of us rode the morning ARTS passenger train into the Williamsburg Transportation Center—the exact station where Katie had begun her five-bus escape from Brandon Mercer in November 2005—and rolled thirty yards across the brick plaza from the train platform to pay regular fare on the local CTTA Route 1 bus straight to the front gate of Brewster Gardens, proving to hospitality workers and car-free families that Virginia didn't need to waste millions on duplicative consultant studies when an existing train-to-bus connection was already running and simply needed evening frequency and public promotion.
+That same week, Katie, Dad, Brittany, Chelsea, and I rode every corridor across Eastern and Central Virginia to show voters what a truly connected Commonwealth looked like. In the First Congressional District, all five of us rode the morning ARTS passenger train into the Williamsburg Transportation Center—the exact station where Katie and I had begun our six-bus escape from Brandon Mercer back in October 2004 when we were nineteen—and rolled thirty yards across the brick plaza from the train platform to pay regular fare on the local CTTA Route 1 bus straight to the front gate of Brewster Gardens, proving to hospitality workers and car-free families that Virginia didn't need to waste millions on duplicative consultant studies when an existing train-to-bus connection was already running and simply needed evening frequency and public promotion.
 
 Two days later, in the Second Congressional District, we experienced firsthand how Virginia's Eastern Shore was stranded on a public-transit island at both ends of U.S. Route 13: at the south end, CVTA Routes 1, 27, and 35 met at the Shore Drive and Pleasure House Road transfer point right at the southern foot of the Chesapeake Bay Bridge-Tunnel, yet neither CVTA nor ShoreLine Transit ran a single public bus across the seventeen-point-six-mile span to Cape Charles; and at the north end in Accomack County, ShoreLine Transit stopped at Oak Hall and Chincoteague Junction just eleven miles short of the Maryland state line—stopping dead before Pocomoke City, Maryland, where Maryland Shore Transit connected north to Salisbury and Delaware's First State Transit network. So after riding CVTA Route 1 to the Shore Drive and Pleasure House Road transfer point at the foot of the bridge-tunnel, Dad met us with a rented silver side-entry wheelchair-accessible ramp minivan, secured our two SwiftChairs into the four-point floor tie-downs while Brittany and Chelsea buckled into the rear bench—where Chelsea watched in wide-eyed wonder as massive ocean container ships glided right over the submerged tunnel islands across the open Chesapeake Bay—and drove us across the Bridge-Tunnel to Cape Charles, where all five of us boarded a ShoreLine Transit cutaway bus with a rear hydraulic lift and rode the entire length of Northampton and Accomack Counties up U.S. Route 13 through Eastville, Exmore, Onley, Accomac, and Oak Hall. Outside the processing plant at Eastern Shore Poultry at shift change, women in hairnets and rubber boots crowded around Katie's SwiftChair and Brittany's petition clipboards to sign as Katie pledged to fight on the Senate Appropriations Committee for dedicated federal interstate transit funds to close both gaps at once—running a permanent public bus connection from Cape Charles across the Chesapeake Bay Bridge-Tunnel (where public transit buses were already classified under the Bridge-Tunnel District's Class 8 schedule at a nominal one-dollar toll per crossing) directly into the Pleasure House Road CVTA transfer point on Shore Drive with a mandatory statutory cross-honoring agreement so CVTA and ShoreLine Transit fares and passes would be honored seamlessly on both systems, and extending ShoreLine Transit north across the state line into Pocomoke City and Salisbury with a direct Delmarva corridor link to First State Transit in Delaware.
 
@@ -10809,7 +9837,7 @@ Because federal anti-nepotism law under Title 5, Section 3110 of the United Stat
 
 "He thinks he's Brandon Mercer," I said quietly, turning my laptop screen ten degrees toward Katie's SwiftChair so she could read the bottom wire-transfer totals. "He thinks if he stands over the back of our chairs and screams loud enough about how broken we are, we're going to flinch."
 
-"Brandon found out twenty-one years ago what happens when you try to corner us, and so will Garrett Thorne," Katie said, closing the confirmation binder with a sharp snap. "Remember during the 2024 campaign when Thorne started walking out at his rallies and blasting the 1993 *Runebreaker Live* stadium version of *The Grand Decree* as his campaign theme song without asking permission—because nobody on his staff bothered to check that it was literally the villain song about a tyrant ruling by executive decree who gets taken down by a pair of fraternal twins?"
+"Brandon found out twenty-two years ago what happens when you try to corner us, and so will Garrett Thorne," Katie said, closing the confirmation binder with a sharp snap. "Remember during the 2024 campaign when Thorne started walking out at his rallies and blasting the 1993 *Runebreaker Live* stadium version of *The Grand Decree* as his campaign theme song without asking permission—because nobody on his staff bothered to check that it was literally the villain song about a tyrant ruling by executive decree who gets taken down by a pair of fraternal twins?"
 
 I couldn't help grinning at the memory. Engine Room Records maintained a strict, across-the-board policy prohibiting any song in its catalog from being used for political campaigns—having made a very rare exception only for our campaign's use of *The Accessibility Project*—so within forty-eight hours of Thorne's campaign uploading those rally videos in 2024, every single one of them had been hit with copyright claims by Mana Canvas, who held the original 1992 and 1993 copyrights, and Engine Room Records, who held the 2016 re-release rights, followed the next morning by a formal cease-and-desist order that forced his campaign to scrub the audio.
 
@@ -11191,7 +10219,7 @@ One by one, as the Reading Clerk called the alphabetical roll, fourteen Republic
 
 "Ms. Prairie."
 
-I kept my hands resting calmly on the armrests of my SwiftChair, my electromagnetic drive brakes locked tight against the blue Senate carpet. Twenty-one years after Brandon Mercer had switched off my powerchair outside the Williamsburg train station in the pouring November rain and told me I was powerless—and thirteen days after rolling into Suite 756 at Timberline Shopping Center on Holland Road and seeing the shrines and unopened crates of *"3-0 UNDEFEATED"* and *"THORNE 2028"* merchandise my own estranged mother had chosen over her children—I looked straight down into the well of the United States Senate.
+I kept my hands resting calmly on the armrests of my SwiftChair, my electromagnetic drive brakes locked tight against the blue Senate carpet. Twenty-two years after Brandon Mercer had bruised my wrist behind closed doors in Williamsburg and ordered Nate and me to wait outside the train station while he bought tickets inside, never dreaming two nineteen-year-olds in powerchairs would roll onto a Newport News bus together without him—and thirteen days after rolling into Suite 756 at Timberline Shopping Center on Holland Road and seeing the shrines and unopened crates of *"3-0 UNDEFEATED"* and *"THORNE 2028"* merchandise my own estranged mother had chosen over her children—I looked straight down into the well of the United States Senate.
 
 "Guilty," I said clearly.
 
@@ -11281,7 +10309,7 @@ Dad looked down at Nate and me, a knowing smile tugging at the corner of his mou
 
 I kept my hands resting evenly on the armrests of my SwiftChair and looked up at Inspector Vance.
 
-I wasn't the slightest bit afraid of Garrett Thorne—not after surviving Brandon Mercer switching off my wheelchair in the rain twenty-one years ago, and not after staring Thorne's lawyers down from the top tier of the Senate floor—but I took the protection of the United States Capitol Police very seriously, especially when it came to keeping Dad, Nate, Brittany, Chelsea, and my staff safe.
+I wasn't the slightest bit afraid of Garrett Thorne—not after surviving Brandon Mercer in Williamsburg twenty-two years ago and escaping him across six buses side by side with Nate, and not after staring Thorne's lawyers down from the top tier of the Senate floor—but I took the protection of the United States Capitol Police very seriously, especially when it came to keeping Dad, Nate, Brittany, Chelsea, and my staff safe.
 
 "Inspector Vance, thank you—first and foremost for stepping in immediately to protect Sam, Mandy, and Sarah at the front desk, and for coordinating residential patrols in Alexandria and Virginia Beach so Brittany and Chelsea never have to worry at home," I said clearly. "We take your Threat Assessment team's protocols very seriously, and our office will follow every security procedure you set for Room 511 and our travel schedules. We will gladly accept your plainclothes Capitol Police Dignitary Protection detail, subject to two non-negotiable rules."
 
@@ -11775,7 +10803,7 @@ Rolling my SwiftChair right up beside the end of the sofa so Chelsea could immed
 
 Chelsea let out a happy sigh and leaned her cheek against my sleeve, while Brittany smiled across at Katie and me with quiet gratitude shining behind her wire-rimmed lenses.
 
-If anybody had told seventeen-year-old Katie and me behind our locked bedroom door on New Year's Eve of 2002—or told nineteen-year-old me shivering outside the weathered public-housing buildings on Dirty Old Tonomy Hill in Newport, Rhode Island on Christmas Eve of 2004—that at fifty-eight years old all four of us would be living together full-time as one inseparable family, split seamlessly between Arvin Road here in Virginia Beach and Sunset Drive up in Alexandria whenever the Senate was in session, neither of us would have dared to believe it.
+If anybody had told seventeen-year-old Katie and me behind our locked bedroom door on New Year's Eve of 2002—or told nineteen-year-old Katie and me shivering side by side outside the weathered public-housing buildings on Dirty Old Tonomy Hill in Newport, Rhode Island on Christmas Eve of 2004—that at fifty-eight years old all four of us would be living together full-time as one inseparable family, split seamlessly between Arvin Road here in Virginia Beach and Sunset Drive up in Alexandria whenever the Senate was in session, neither of us would have dared to believe it.
 
 First, in February of 2016—fourteen years after the drunken New Year's Eve betrayal that had barred Brittany from our house, even though her parents, our beloved Aunt Karen and Uncle Steven Fletcher, had remained warmly in our corner all along and Aunt Karen had even helped Dad and us out financially whenever things were tight—Brittany found her way home. Living across the James River in Hillside Court public housing in South Richmond and watching the Thursday evening news air thirty-year-old Katie fearlessly ripping apart House Bill 663 on the floor of the Virginia House of Delegates had shattered the fog Brittany had been trapped inside for years, right as abusive, controlling Tyler—whom Brittany had started dating four years earlier with no idea he was the exact same Northwood High senior who had maliciously lied to Heather Collins about me after that drunken New Year's Eve, otherwise she never would have dated him in the first place—was forcing her toward a Saturday afternoon wedding in a bleak South Richmond church she didn't even want to set foot in. After Brittany rode a JRTC bus across the river without an appointment on Friday, held open the General Assembly Building elevator when I shouted *"Hold the elevator!"*, and wept inside Room 518 begging us to help her get out—and after it dawned on Brittany on Saturday wedding morning that Tyler was the exact guy who had lied to Heather about me, becoming the straw that broke the camel's back—Katie and I figured out who he was the instant we saw him step out at the church, where Katie sat beside me in complete silence during Saturday's February 6, 2016 ceremony so no tabloid could claim she had pulled a stunt as a Delegate while I spoke up—*"I object!"*—at *"Speak now or forever hold your peace."* Once Brittany bravely showed the minister and church coordinator the bruises Tyler had left on her in the side room, we brought her back to our Richmond apartment for Saturday night—where terrified Brittany climbed right into our latched walk-in closet with Katie and me and showed us her bruises before climbing into the sleeping bag, horrifying both of us and finalizing our decision on the spot to take her someplace Tyler would never think to look by bringing her all the way up to Washington on Sunday's *Meet the Nation* train so Aunt Karen, Uncle Steven, and Dad could meet her right outside the King Street–Old Town faregates. The very next afternoon—after a raging Tyler turned left off Earlton Court down the Macgregory Street dead end at two o'clock Monday dismissal, plowed through the fence into the steel frame rail of a departing Northwood High School bus so the bus driver and all fifty-four students escaped with bumps and bruises to get checked out at the hospital while Tyler was rushed under armed guard to the Level 1 Trauma Center at Tidewater General Hospital, left severely disabled for life and bound for a state medical prison—Brittany enrolled at the Coastal Adult Learning Center off Virginia Beach Boulevard to earn her HSE, got her life back together, and moved in to live with Katie and me on Arvin Road the moment the 2016 legislative session adjourned in March, just as she had promised us back in high school.
 
@@ -11875,7 +10903,7 @@ Katie shook her head immediately. "Former Vice President Sterling is an automati
 
 Looking across the dining table at Sam, Mandy, and Sarah, I couldn't help smiling at how little had changed between the five of us over the past twenty-eight years. We had first met them in January of 2016 when they were thirteen-year-old eighth-grade House Pages in Richmond who had just been rescued by their maternal uncle—former Republican House Majority Leader Richard Callaway—and Aunt Marge. They had worked for Katie through college in Richmond, moved up to Washington with us when Katie won her first Senate term in 2026, and stood beside our wheelchairs in Danville when we wept together at Uncle Richard's funeral after he passed away before Katie's 2038 re-election campaign, just a few years after Katie and I had lost our own dad, David Prairie.
 
-Now forty-one years old, Sam, Mandy, and Sarah were still together every single day—sharing a townhouse a few blocks from our place on Sunset Drive in Alexandria when all four of us traveled up for Senate sessions and a ranch house two streets over from us here in Kempsville when we were home on Arvin Road. None of the three had ever married, none of them had ever had kids, and after learning years ago about the 2005 Ocean View nightmare Katie and I had gone through with Brandon Mercer and Tiffany Sloan, the triplets had never even gone looking for romantic partners. Just like Katie, Brittany, Chelsea, and me under our roof, the three of them knew that their safest, happiest life was the one they had built together.
+Now forty-one years old, Sam, Mandy, and Sarah were still together every single day—sharing a townhouse a few blocks from our place on Sunset Drive in Alexandria when all four of us traveled up for Senate sessions and a ranch house two streets over from us here in Kempsville when we were home on Arvin Road. None of the three had ever married, none of them had ever had kids, and after learning years ago about the 2004 and 2005 Williamsburg and Ocean View nightmares Katie and I had survived together with Brandon Mercer and Tiffany Sloan, the triplets had never even gone looking for romantic partners. Just like Katie, Brittany, Chelsea, and me under our roof, the three of them knew that their safest, happiest life was the one they had built together.
 
 Suddenly, Sam, Mandy, and Sarah exchanged a look across the dining table—the exact synchronous triplet glance we had seen a thousand times in Dirksen Room 511 whenever the three of them had cooked up a legislative ambush.
 
