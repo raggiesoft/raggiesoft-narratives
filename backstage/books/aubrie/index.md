@@ -7,6 +7,8 @@ date: "2014-08-20"
 location: "Commonwealth Polytechnic Institute & Christiansburg, Virginia"
 relatedBookUrl: "https://books.raggiesoft.com/aubrie"
 relatedBookLabel: "Read The Eleventh Child on RaggieSoft Books"
+image: "https://assets.raggiesoft.com/raggiesoft-books/images/scenes/aubrie/baselines/room-214-lived-in-baseline.jpg"
+imageAlt: "Inside wheelchair-accessible Suite 214 at Eleanor Bennett Commonwealth Hall on the CPI campus, showing warm dorm lighting, accessible floor clearance, and lived-in student desks."
 summary: "Explore extracted CPI administrative correspondence, Isabel Dawson's alternate-POV notes, and Zoë Wren Brooks's cognitive logging architecture."
 ---
 

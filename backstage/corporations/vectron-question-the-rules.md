@@ -7,6 +7,8 @@ date: "2001-12-02"
 location: "Houston, Texas / Blacksburg, Virginia"
 relatedBookUrl: "https://books.raggiesoft.com/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street/part-3-question-the-rules-the-birth-of-fin"
 relatedBookLabel: "Episode 6, Chapter 2, Scene 1: Question The Rules: The Birth of Fin#"
+image: "https://assets.raggiesoft.com/raggiesoft-books/images/scenes/aubrie/e007/c001/p003/birth-of-finsharp.jpg"
+imageAlt: "Zoë Wren Brooks studying historical Vectron Energy Corp. financial ledger disclosures while designing the Fin# audit architecture at CPI."
 summary: "In-universe corporate history of Vectron Energy Corp.'s 1997-2001 'Question The Rules' TV ad campaign, energy deregulation, and the birth of Z-SOX-302."
 ---
 

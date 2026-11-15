@@ -7,6 +7,8 @@ date: "1986-10-14"
 location: "Corner of Progress & Turner Streets, Blacksburg, Virginia (CPI)"
 relatedBookUrl: "https://books.raggiesoft.com/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater/part-3-electric-color"
 relatedBookLabel: "Episode 6, Chapter 5, Scene 3: Electric Color"
+image: "https://assets.raggiesoft.com/raggiesoft-books/images/scenes/aubrie/e008/c004/p002/stardust-engine-300-marching-forgers.jpg"
+imageAlt: "The Stardust Engine performing live inside CPI's stadium alongside three hundred members of the Marching Forgers under glowing concert stage lights."
 summary: "How Ryan, Cassidy, Evan, Tyler, and Holly formed The Stardust Engine at CPI in 1986—and how their 1987 debut 'Electric Color' awoke Jordan in 2015."
 ---
 

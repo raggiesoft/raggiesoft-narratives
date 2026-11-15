@@ -7,6 +7,8 @@ date: "2027-07-22"
 location: "Virginia Beach, Williamsburg, Fishersville, Richmond, & Danville, Virginia • Windsor, Ontario • Detroit, Michigan • Washington, D.C."
 relatedBookUrl: "https://books.raggiesoft.com/katie"
 relatedBookLabel: "Read Katie & Nathaniel on RaggieSoft Books"
+image: "https://assets.raggiesoft.com/raggiesoft-backstage/images/scenes/katie-nate-us-senate-corridor.jpg"
+imageAlt: "Forty-one-year-old U.S. Senator Katie Prairie and her twin brother and Chief of Staff Nathaniel Prairie rolling independently side by side in matching compact black SwiftChair power wheelchairs down a sunlit marble U.S. Senate corridor in Washington, D.C."
 summary: "Complete collection of fourteen behind-the-scenes dossiers revealing what happened outside Nathaniel Prairie's first-person POV across Katie & Nathaniel—from Arthur Vance's 2001 divorce settlement trap and the 2007 Roosevelt Rehabilitation Center curfew search to Governor Rebecca Langford's July 2027 Capitol Square reckoning, Arthur Lawrence's Fishersville sweep, and the 2044 Route 15 Bus-Stop Primary."
 ---
 

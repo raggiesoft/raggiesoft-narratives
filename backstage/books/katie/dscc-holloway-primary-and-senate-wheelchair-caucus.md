@@ -10,6 +10,8 @@ sender: "RaggieSoft Backstage Production Dossier"
 recipient: "Readers of Katie & Nathaniel (Episode 10, Chapter 3 & Episode 11, Chapters 1–4)"
 relatedBookUrl: "https://books.raggiesoft.com/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-4-opposing-leader-schuman-the-211-204-lame-duck-false-dawn-in-the-dirksen-basement-home-across-the-fenwick-bridge"
 relatedBookLabel: "Episode 11, Chapter 1, Part 4: Opposing Leader Schuman & The 211–204 Lame-Duck False Dawn"
+image: "https://assets.raggiesoft.com/raggiesoft-backstage/images/scenes/katie-nate-us-senate-corridor.jpg"
+imageAlt: "U.S. Senator Katie Prairie and Chief of Staff Nathaniel Prairie rolling side by side in compact black SwiftChair power wheelchairs down a sunlit marble corridor of the U.S. Capitol complex."
 summary: "Behind-the-scenes look at Katie's primary upset over the DSCC, Uncle Richard defending her on Beacon News, her public No vote against Leader Charles Schuman, Defense Secretary Bret Halverson's premature 211–204 impeachment escape, the three-member Senate Wheelchair Caucus, and S-216."
 ---
 
