@@ -2008,9 +2008,11 @@ For a fraction of a second, the boisterous, high-energy executive completely sho
 
 He knew who she was. 
 
-As a senior executive, Ballantine was one of the judges for the Quantum Catalyst Initiative. The submission window wouldn't officially close for months, but because Cassandra had uploaded her entry incredibly early, it was highly probable that he had already seen it. He had seen the 45-kilobyte executable. He had seen the hybrid C and Assembly code that bypassed `q32main()`. He knew she had built a real-time 3D engine that ran flawlessly on an archaic 80486 processor. 
+As a senior executive, Ballantine was one of the judges for the Quantum Catalyst Initiative. The submission window wouldn't officially close for months, but because Cassandra had uploaded her entry incredibly early, it was highly probable that he had already seen it. He had seen the 45-kilobyte executable. He had seen the hybrid C and Assembly code that bypassed *q32main()*. He knew she had built a real-time 3D engine that ran flawlessly on an archaic 80486 processor. 
 
 He knew exactly who he was looking at. 
+
+![On a sunny August 1995 morning on the Northwest Pacific University Engineering Quad in Seattle, Quantum President Steve Ballantine leans forward with his hands on his knees at eye level with seventeen-year-old Cassandra Vance in her manual wheelchair outside the black-and-cobalt Quantum Catalyst Initiative pavilion while ten-year-old David, eight-year-old Casey holding a folded campus map, and parents Wendy and Tom watch proudly.]({{CDN}}/raggiesoft-books/images/scenes/casey/aug_1995_npu_quad_cassandra_steve_ballantine.jpg#fullwidth)
 
 But he couldn't say a word. 
 
@@ -4389,6 +4391,8 @@ Casey stirred against my chest. She blinked her eyes open, her own eyes instantl
 
 **Date:** 2004-11-25 at 16:00 America/New_York
 
+![Inside David Vance's Virginia Beach bedroom on Thanksgiving afternoon 2004, twenty-six-year-old Cassandra Vance sits composed in her manual wheelchair holding a silver flip phone angled toward her own face while nineteen-year-old David holds seventeen-year-old Casey on the bed and Kate, David, Morgan, and Meredith Delaney form a protective perimeter at the doorway.]({{CDN}}/raggiesoft-books/images/scenes/casey/nov_2004_thanksgiving_twenty_one_day_bridge_bedroom.jpg)
+
 #### November 25, 2004 • 4:00 PM — The Twenty-One Day Bridge
 
 The silence on the line was deafening, save for the ragged, uneven sound of my breathing. I had completely buried my face in Casey’s hair, my hands clutching the silver phone so tightly my knuckles were white. 
@@ -4453,7 +4457,7 @@ I looked up. The Virginia Beach pack had formed a physical barricade at the foot
 
 "Erin is right," Meredith promised, looking me dead in the eye. "We are going to practically live at this house until December 17th. Or you can sleep in the garage barracks with us. We will drive you to your classes, we will help you study for your finals, and we will keep your perimeter completely locked down. Kristine won't be able to get within ten miles of you."
 
-<aac><aac>We have you,</aac></aac> David Delaney’s AAC device spoke up from the doorway, his synthesized voice cutting clearly through the emotional weight of the room. Kate nodded emphatically from her wheelchair next to him. 
+<aac>We have you,</aac> David Delaney’s AAC device spoke up from the doorway, his synthesized voice cutting clearly through the emotional weight of the room. Kate nodded emphatically from her wheelchair next to him. 
 
 The tears welling in my eyes weren't from grief anymore. They were from a wave of relief so massive it made my head spin. I wouldn't get Liz, Cass, or Casey's physical presence for three weeks, but I was entirely safe, entirely loved, and fully anchored to my Virginia Beach pack. 
 
@@ -5953,7 +5957,7 @@ She locked her brakes and practically threw her arms around my neck, leaning out
 
 The flash went off, freezing the chaotic, overlapping sea of humanity in a digital frame. 
 
-![The Christmas Eve Puppy Pile]({{CDN}}/raggiesoft-books/images/scenes/casey/christmas_eve_puppy_pile.jpg)
+![On Christmas Eve morning 2004 in the Portsmouth living room, David grins on the sofa surrounded in a joyful family cuddle pile by Liz Carter, Cassandra Vance leaning warmly from her manual wheelchair, Casey Vance, and Erin, Megan, Chloe, and Claire Delaney.]({{CDN}}/raggiesoft-books/images/scenes/casey/christmas_eve_puppy_pile.jpg#fullwidth)
 <!--
 LORE MAPPING FOR THE PHOTO:
 1. David: Center, grey hoodie, grinning.
@@ -6068,7 +6072,7 @@ This wasn't a small, quiet dinner party. It was a fully coordinated neighborhood
 
 The booths stretched all the way down the road, culminating in a massive hub right where the sweeping concrete and steel pillars rose into the sky to support the Mount Hope Bridge. 
 
-![Réveillon Festival]({{CDN}}/raggiesoft-books/books/casey/b002/reveillon_under_bridge.jpg)
+![Underneath the towering concrete piers and sweeping green steel span of the Mount Hope Bridge in Portsmouth, Rhode Island on Christmas Eve 2004, Cassandra Vance in her manual wheelchair, David Vance, Liz Carter, Casey Vance, and the Delaney sisters laugh over steaming paper boats of poutine and hot cider beside a glowing propane patio heater and golden string lights.]({{CDN}}/raggiesoft-books/images/scenes/casey/reveillon_under_bridge.jpg#fullwidth)
 
 It was an incredible, cinematic setup. The largest concentration of food stations and towering propane heaters were stationed directly *underneath* the massive green steel span of the bridge. String lights were strung between the temporary town barricades and the concrete bridge supports, illuminating the dark, freezing Rhode Island night in a warm, festive glow. The low, rhythmic hum of the cars driving on the steel grid of the bridge deck high above us provided a strange, comforting white noise. It actually helped drown out the chaotic chatter of the festival, making the sensory environment surprisingly manageable.
 
@@ -7767,7 +7771,6 @@ The agent handed Cassandra a massive stack of fourteen paper barcode tickets, al
 
 #### 10:00 AM — The Crossing
 
-`
 The walk-on boarding process at Colman Dock was entirely different from catching a city bus. When the overhead displays flashed green, our massive fourteen-person pack filtered through the automated turnstiles, scanning our paper barcodes one by one before proceeding down a long, glass-enclosed overhead walkway. 
 
 "This feels more like an airport terminal than a boat ride," Kate's dad remarked, looking out the glass windows at the massive green-and-white vessel docked below. 
@@ -7785,6 +7788,8 @@ Five minutes later, a deep, bone-rattling horn blast echoed through the steel fr
 Liz grabbed my hand, and the three of us—along with Meredith and Morgan—made our way to the heavy steel doors leading to the outer observation deck. Pushing the door open felt like stepping into a wind tunnel. 
 
 The cold, salty air of the Puget Sound whipped across the deck. We walked over to the thick green railings and looked back. The Seattle skyline was already beginning to shrink, the iconic Century Spire standing tall among the glass towers, slowly swallowed by the morning fog and the churning white wake of the massive ferry. 
+
+![On the breezy outer observation deck of a green-and-white Evergreen Marine ferry crossing misty Elliott Bay on March 20, 2005, David Vance and Liz Carter hold hands at the emerald-green rail beside Casey Vance, Meredith and Morgan Delaney, and Cassandra Vance smiling from her manual wheelchair near the cabin windbreak while the Seattle skyline and Century Spire recede behind a churning white wake.]({{CDN}}/raggiesoft-books/images/scenes/casey/mar_2005_evergreen_marine_ferry_elliott_bay.jpg#fullwidth)
 
 "It's so much bigger than the BTA Harbor Ferry back in Newport," Meredith yelled over the roar of the wind and the engines. She leaned against the railing, pulling her jacket tight against the chill. "That's just a passenger catamaran! This thing is literally a floating building!"
 
@@ -8755,6 +8760,8 @@ The imposing woman paced slowly across the Persian rug, her sharp eyes dissectin
 She stopped dead in front of Cassandra’s wheelchair. 
 
 "You are not a corporate spy launching a hostile acquisition," she stated, the paranoia finally bleeding out of her posture, replaced by a profound, calculating realization. "I am Victoria Vance. And you are Laurent Vance’s great-granddaughter. You are blood."
+
+![Inside the towering 1903 timber-and-river-stone Great Hall of The Prospector's Keep on Ruby Mountain on April 8, 2005, twenty-six-year-old Cassandra Vance sits poised in her manual wheelchair flanked by David, Liz, Casey, and their parents across a crimson Persian rug from Matriarch Victoria Vance, Johnny Vance in his laptop-equipped manual wheelchair, twin sister Amanda, Chef Diana Whitaker, Morgan Foster, and Emma Bennett before a roaring stone hearth.]({{CDN}}/raggiesoft-books/images/scenes/casey/apr_2005_prospectors_keep_great_hall_bloodline_reveal.jpg#fullwidth)
 
 My processor completely stalled. 
 
@@ -10030,6 +10037,8 @@ The medication was a strict biological necessity. Because of her Complex Regiona
 
 Cassandra swallowed the pill, handed the water bottle back, and pointed at line 42 on the developer's screen. "You have a null reference exception forming right there," she noted smoothly, entirely ignoring the medical intervention.
 
+![Inside Quantum Corporation's sunlit twelfth-floor communal workspace in Downtown Bellevue on January 15, 2014, newly named CEO-designate Cassandra Vance sits in her manual wheelchair with her noise-canceling headphones resting flat on the wooden table and points out a line of code on a rookie developer's laptop while LPN David Vance in his bright Orange Contractor Badge logs her 2:00 PM pulse-oximeter check and a gray-haired veteran architect waves reassuringly.]({{CDN}}/raggiesoft-books/images/scenes/casey/jan_2014_bellevue_bullpen_coding_and_lpn_check.jpg#fullwidth)
+
 The rookie developer stared at David as he quietly unclipped the pulse oximeter, logged the visual and auditory sensory assessment into his MAR, and turned to leave. She looked terrified, unsure if she was supposed to pause her presentation for the contractor.
 
 From the next desk over, the older, gray-haired database architect caught the rookie's wide-eyed panic. He offered a warm, reassuring smile and gave her a subtle wave to continue.
@@ -10718,7 +10727,7 @@ As the SVTA Light Rail accelerated smoothly away from the station, carrying the 
 
 Marcus, the Lead VIP Logistics Coordinator for the Global Tech Leadership Summit, was currently experiencing the most terrifying morning of his professional career.
 
-His job was usually simple. Tech billionaires were predictable. You parked a fleet of black, armored Apex Mountaineers at the Signature Flight Support FBO at San Jose Mineta International Airport (SJC), waited for their private Gulfstreams to land, and then aggressively motorcaded them to their luxury suites.
+His job was usually simple. Tech billionaires were predictable. You parked a fleet of black, armored Apex Mountaineers at the private aviation terminal at San Jose Mineta International Airport (SJC), waited for their private corporate jets to land, and then aggressively motorcaded them to their luxury suites.
 
 At 9:15 AM, Marcus was standing on the SJC tarmac, checking his Aethelgard chronograph. The CEO of Quantum was supposedly arriving this morning, but no incoming private jets matched her tail number.
 
@@ -10904,7 +10913,7 @@ In the front row, David smiled, resting his arm around Liz's shoulder. The wider
 
 #### 8:15 AM — The Gates of DCA
 
-Landing a private corporate aircraft at Ronald Reagan Washington National Airport (DCA) is a logistical nightmare that most Fortune 500 companies actively avoid. Under post-9/11 federal security mandates, operating a private flight into the District’s primary airport requires navigating the rigid, exhaustive protocols of the DCA Access Standard Security Program (DASSP)—complete with armed armed-marshal manifests, physical TSA gate screenings at designated gateway airports, and direct federal authorization.
+Landing a private corporate aircraft at Ronald Reagan Washington National Airport (DCA) is a logistical nightmare that most Fortune 500 companies actively avoid. Under post-9/11 federal security mandates, operating a private flight into the District’s primary airport requires navigating the rigid, exhaustive protocols of the DCA Access Standard Security Program (DASSP)—complete with armed federal air-marshal manifests, physical TSA gate screenings at designated gateway airports, and direct federal authorization.
 
 Most billionaire executives simply land at Dulles or Manassas to avoid the headache.
 
@@ -10914,7 +10923,7 @@ The Quantum corporate jet touched down smoothly, banking over the Potomac River 
 
 When the mechanical ramp deployed, Cassandra wheeled herself out into the warm, humid Mid-Atlantic air. Her custom, piano-black Quantum laptop was mounted to her wheelchair, and her dark corporate blazer was sharp and immaculate. Stepping down the ramp right behind her were David, Liz, and Casey. While Liz and Casey carried light shoulder bags, David had his heavy leather medical kit and telemetry tablet strapped securely to his chest, his LPN footprint officially deployed in the nation's capital.
 
-Standing on the tarmac curb, clutching an mPad and actively sweating through his three-piece suit, was Greg—the senior K Street lobbyist assigned as Quantum’s chief D.C. handler. Behind him sat four blacked-out, armored **Apex Mountaineers**, their V8 engines idling loudly as exhaust fumes shimmered in the morning heat.
+Standing on the tarmac curb, clutching an mPad and actively sweating through his three-piece suit, was Greg—the senior K Street lobbyist assigned as Quantum’s chief D.C. handler. Behind him sat four blacked-out, armored Apex Mountaineers, their V8 engines idling loudly as exhaust fumes shimmered in the morning heat.
 
 "Ms. Vance! Welcome to Washington," Greg greeted, stepping forward with his arms slightly outstretched to herd the group toward the idling convoy. "We have the full executive protection detail staged. Arlington County Police cleared a rolling corridor for us on I-395—"
 
@@ -10942,7 +10951,7 @@ What Greg and his K Street analysts completely failed to comprehend—because th
 
 They reached the elevated station mezzanine. Bright morning sunlight poured through the vaulted concrete canopy above the tracks. Directly ahead stood the long row of Capital Transit faregates.
 
-Cassandra reached into her blazer pocket, pulling out a faded, plastic **CapitalPass** card. Beside her, David, Liz, and Casey seamlessly produced their own cards from their wallets.
+Cassandra reached into her blazer pocket, pulling out a faded, plastic CapitalPass card. Beside her, David, Liz, and Casey seamlessly produced their own cards from their wallets.
 
 Greg stared at the four blue-and-green cards in utter disbelief. "Is that... do all of you carry Capital Transit passes?!"
 
@@ -11004,7 +11013,7 @@ David sighed, adjusting the strap of his bag. "I know. The timing just sucks."
 
 David’s face completely lit up. The disappointment vanished, replaced by sheer excitement. "Deal."
 
-A set of track lights suddenly illuminated the tunnel walls, followed by the rumble of an approaching train. The digital board flashed: **BLUE – LARGO TOWN CTR – 1 MIN**.
+A set of track lights suddenly illuminated the tunnel walls, followed by the rumble of an approaching train. The digital board flashed: *BLUE – LARGO TOWN CTR – 1 MIN*.
 
 The train hissed to a halt. Cassandra rolled effortlessly across the threshold, locking her brakes as her family flanked her.
 
@@ -11028,7 +11037,7 @@ Back in Redmond, at Quantum headquarters, nobody was panicking. Building 33’s 
 
 Cassandra wheeled herself down the center aisle of the committee room, her manual power-assist chair silent on the carpet.
 
-Instead of remaining in the gallery, **David walked right alongside her, carrying his leather LPN medical kit, and pulled out the chair directly adjacent to Cassandra at the witness table.**
+Instead of remaining in the gallery, David walked right alongside her, carrying his leather LPN medical kit, and pulled out the chair directly adjacent to Cassandra at the witness table.
 
 In the primary VIP row directly behind them, Liz and Casey took their seats. Liz kept a light, steady hand on her lap, while Casey pulled out her digital camera, quietly adjusting her lens to capture the high-arched windows of the Capitol. The perimeter was intact, the sensory baseline was locked, and there was not a single PR handler around to disrupt them.
 
@@ -11068,7 +11077,7 @@ Seeing the CEO of Quantum pull out a MagnaByte mPad at a high-stakes congression
 
 Cassandra delivered a concise, five-minute opening statement on friction-free software architecture and open standards. But as soon as she concluded, Senator Thomas leaned toward his microphone, a smug, predatory grin spreading across his face. He had been reading the morning’s headlines from *Silicon Valley Unfiltered*.
 
-"A very inspiring statement, Ms. Vance," Senator Thomas interrupted, tapping a printed news clipping on his desk. "But before this committee discusses 'corporate responsibility,' let's address corporate *governance*. Reports published this morning allege that you flew your entire family to Washington on a Quantum private jet and put them up in a lavish multi-room suite at the Willard InterContinental on your shareholders' dime. Is this how Quantum models fiscal integrity?"
+"A very inspiring statement, Ms. Vance," Senator Thomas interrupted, tapping a printed news clipping on his desk. "But before this committee discusses 'corporate responsibility,' let's address corporate *governance*. Reports published this morning allege that you flew your entire family to Washington on a Quantum private jet and put them up in a lavish multi-room suite at the Willard on your shareholders' dime. Is this how Quantum models fiscal integrity?"
 
 A sudden, sharp quiet fell over the room. Tech journalists held their breath.
 
@@ -11080,11 +11089,13 @@ Sitting beside her, David didn't look nervous; he simply tapped a command on his
 
 The monitors above the dais flashed, displaying a high-resolution, line-item Treasury ledger from Quantum Corporation, complete with attached bank records and personal check receipts.
 
+![Inside the marble U.S. Senate Judiciary Committee hearing room on June 10, 2014, Quantum CEO Cassandra Vance testifies poised in her manual wheelchair at the mahogany witness table with her zero-dollar shareholder reimbursement ledger projected on the overhead monitor while LPN David Vance sits directly beside her checking his clinical tablet and Liz Carter and Casey Vance watch proudly behind four empty lobbyist leather chairs.]({{CDN}}/raggiesoft-books/images/scenes/casey/jun_2014_senate_judiciary_hearing_mar_protocol.jpg#fullwidth)
+
 "The exhibit on your screen is Quantum’s official travel log for this deployment," Cassandra explained, her voice echoing with lethal clarity through the marble chamber. "As you can see, when my family travels with me, my LPN brother, my sister, and my sister-in-law share a single hotel suite at the Willard. My brother and his wife take one bed, my sister takes the second, and I sleep on the pull-out sofa so my nurse is in immediate proximity."
 
 Several Senators blinked in sheer shock.
 
-"Furthermore," Cassandra continued, "because non-employees occupied that room, I do not allow Quantum to bear a single cent of 'grey area' cost. I personally wrote a check from my private account back to Quantum Treasury reimbursing **one hundred percent** of the hotel folio. The same applies to our flight on the corporate aircraft: I reimbursed Quantum for the commercial first-class equivalent airfare for all four seats—including my own and my LPN's. The shareholders of Quantum paid exactly **zero dollars** for my family's lodging and transportation."
+"Furthermore," Cassandra continued, "because non-employees occupied that room, I do not allow Quantum to bear a single cent of 'grey area' cost. I personally wrote a check from my private account back to Quantum Treasury reimbursing *one hundred percent* of the hotel folio. The same applies to our flight on the corporate aircraft: I reimbursed Quantum for the commercial first-class equivalent airfare for all four seats—including my own and my LPN's. The shareholders of Quantum paid exactly *zero dollars* for my family's lodging and transportation."
 
 Senator Thomas froze, his mouth slightly open as he stared at the verified bank receipts on the screen.
 
@@ -11202,7 +11213,7 @@ Exiting the Capitol through the plaza doors, the pack stepped out into the brill
 
 "We go to the Finch," Cassandra announced, pointing down the paved pedestrian path.
 
-She wasn't referring to a high-priced lobbying steakhouse or a corporate boardroom. She meant the world-famous **Finch Air and Space Museum**—the crown jewel of **The Finch Endowment**, founded by the 18th-century British scientist Lord Alistair Finch, who had famously bequeathed his massive fortune to the United States to establish an institution dedicated to the "increase and diffusion of knowledge."
+She wasn't referring to a high-priced lobbying steakhouse or a corporate boardroom. She meant the world-famous Finch Air and Space Museum—the crown jewel of The Finch Endowment, founded by the 18th-century British scientist Lord Alistair Finch, who had famously bequeathed his massive fortune to the United States to establish an institution dedicated to the "increase and diffusion of knowledge."
 
 They set off down the wide, flat, wheel-friendly concrete pathways of the Mall, enjoying the open air. Casey immediately pulled out her camera to photograph the towering monuments framing the horizon, while Liz and David walked side-by-side, soaking in the quiet afternoon.
 
@@ -11240,7 +11251,7 @@ She unshouldered her Quantum laptop bag and shed her razor-sharp tailored blazer
 
 When Cassandra wheeled back out into the concourse, she looked absolutely indistinguishable from the thousands of other tourists navigating the National Mall. She blended in perfectly, which was exactly the tactical advantage she wanted. There were no bodyguards, no PR handlers, and no flashing cameras. She was just an older sister on vacation with her family.
 
-They grabbed a corner booth at **Rocket Burger**, the bustling fast-food joint that anchored the museum's food court.
+They grabbed a corner booth at Rocket Burger, the bustling fast-food joint that anchored the museum's food court.
 
 The table was soon crowded with red plastic trays piled high with standard-issue cheeseburgers, heavily salted french fries, and large fountain sodas. It was about as far from a high-end K Street lobbying luncheon as physically possible, and the pack couldn't have been happier.
 
