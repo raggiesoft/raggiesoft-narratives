@@ -2299,7 +2299,67 @@ Katie hugged the new spiral manual against her sky-blue cardigan, her eyes shini
 
 Rolling side by side into the wide glass cab with Heather standing right beside my chair, Katie and I watched the sandstone concourse and the spinning golden carousel horses drop smoothly beneath our wheels as we rose into the bright April skylight—seventeen years old, two buses from home, and completely on top of the world.
 
-### Part 2: Senior Gold Day in Room 204, Paper Snowflakes, & See You After Winter Break
+### Part 2: Saturday Afternoon on Arvin Road, Two Copies Open at Once, & The Most Important Bond You Have
+
+**Date:** 2002-08-24 at 14:15 America/New_York
+
+![Inside the sunlit living room on Arvin Road in Virginia Beach on Saturday afternoon, August 24, 2002, seventeen-year-old Nathaniel Prairie and Heather Collins share a tight, heartfelt two-armed hug on the tan-brown sofa while Nate's twin sister Katie Prairie sits close beside him resting a warm supportive hand on his shoulder with a radiant smile, with two plain green ginger ale cans and two open spiral-bound programming manuals on the oak coffee table and their two compact black motorized SwiftChair power wheelchairs parked neatly beside the couch]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2002_arvin_road_sofa_tight_hug_heather_nate_katie.jpg)
+
+#### Saturday, August 24, 2002, 2:15 PM — Page One Hundred Twelve in Stereo
+
+"Turn to page one hundred twelve on three so we test Heather's theory in real time," Katie grinned at two-fifteen on the last Saturday afternoon of August, resting her left hand lightly against my right elbow on our tan-brown living-room sofa while Heather sat tucked comfortably on my other side with a mechanical pencil balanced behind her ear.
+
+"One, two, three," I counted, flipping the wire spiral of my pocket *Dynamic Web Design, HTML4, & Client-Side Scripting* reference manual open on the honey-oak coffee table at the exact same split second Katie flipped hers open six inches to the left.
+
+"Zero tug-of-war over the margin, and nobody lost their line!" Heather laughed, leaning forward in her terracotta-rose cotton top and blue jeans to tap the matching table-layout diagrams spread flat between our two chilled green cans of ginger ale. "Best sixteen dollars I ever spent on Virginia Beach Boulevard."
+
+Ten feet away at the eat-in kitchen table, where afternoon sunlight slanted through the sheer curtains across his stacked fall textbooks for the Community College of Hampton Roads, Dad glanced up from his spiral notebook with a quiet, approving smile before turning back to his database homework so the three of us had the living room to ourselves.
+
+Just past the left arm of the sofa, Katie's and my two compact black SwiftChair power wheelchairs stood parked side by side on the beige carpet with their joysticks powered down. Inside our single-story brick ranch on Arvin Road, transferring out of our chairs onto the wide tan cushions whenever friends or family came over had become one of our favorite parts of being home. Out in public—aboard Coastal Virginia Transit Authority buses or rolling down the crowded second-floor corridors of Northwood High School—our powerchairs were our legs and our freedom. Here in our own living room, sitting shoulder to shoulder on the couch at the exact same eye level as Heather made the three of us feel like any ordinary trio of rising seniors mapping out their final year of high school.
+
+All afternoon since Heather's mom had dropped her off at one o'clock, the three of us had been sketching clean keyboard-driven screen wireframes in our spiral notebooks—designing a Hampton Roads bus-transfer lookup program we wanted to propose to Mr. Callahan on the very first week of Senior Gold-Day Advanced Computer Lab in September. Back in spring registration, Katie had signed up for the exact same Gold-Day second-block computer section as Heather and me so the three of us wouldn't spend eleventh-grade mornings split down opposite ends of the B-Wing hallway anymore.
+
+"Look how clean Katie's tab-order column is," Heather said, tracing her fingertip down the neat block lettering in Katie's notebook where every button and route dropdown could be reached with the *Tab* and *Enter* keys without ever touching a mouse. "If somebody's fingers get tired halfway through an evening assignment—or if two people are sharing one keyboard between two chairs—you never have to chase a tiny twelve-pixel arrow across the screen."
+
+"That's because Nate and I started taking turns on one keyboard back when we were ten," Katie smiled, tucking a straight strand of light-blonde hair behind her ear as she leaned fondly against my left shoulder. "Left hand on the arrow keys, right hand on *Enter*, zero arguments."
+
+***
+
+#### Saturday, August 24, 2002, 3:10 PM — Why Katie Always Comes First
+
+"Honestly, I still kind of marvel that you never get tired of hanging out with a package deal," I admitted quietly a little after three o'clock, glancing down at the spiral rings of my notebook before looking over at Heather's warm hazel eyes.
+
+Heather tilted her head, setting her pencil down beside her ginger ale can. "What do you mean by a package deal, Nate?"
+
+Beside me, Katie grew thoughtful, her fingers resting gently against my navy-blue sleeve.
+
+"Back in seventh grade at Morrison Middle School," Katie said softly, "a boy named Chad asked me to be his girlfriend. Everything lasted about three weeks until one afternoon in the cafeteria when he told me I wasn't allowed to sit with Nate at lunch anymore because seventh-grade couples weren't supposed to bring their twin brother everywhere. When I told him Nate and I don't ditch each other for anybody, Chad broke up with me right in front of the whole lunch table."
+
+"And after Katie and I moved into our powerchairs full-time last fall," I added honestly, feeling warmth climb up the back of my neck, "I figured even more than before that most girls at Northwood would take one look at a guy on four wheels whose twin sister holds his hand on the bus and sits beside him in every lab, and decide that was way too crowded."
+
+For three quiet seconds, Heather just looked from Katie's face to mine—not with pity, and not with polite teenage flattery, but with a steady, fiercely genuine warmth that made my chest tighten.
+
+"Nate Prairie, listen to me," Heather said softly, shifting closer on the tan cushion until her knee brushed mine. "Do you remember that first afternoon outside Mrs. Periwinkle's library last October when I told you about my cousin Wesley?"
+
+"Every word," I nodded.
+
+"Growing up with Wesley and Aunt Linda taught me before I was ten years old how rare a real safe person actually is," Heather said, her voice clear and unwavering in the sunlit room. "Half the couples at Northwood date somebody just to have someone to stand next to by the lockers, and the second something gets hard or inconvenient, they treat the people closest to them like disposable accessories. The very first thing I noticed about you in tenth-grade Computer Lab—long before you ever rolled into Room 204 in a powerchair—was the way your whole face lit up whenever Katie walked up to the hallway door, and the way the two of you never, ever let anybody make the other twin feel small."
+
+Heather reached out and took both of my hands in hers before glancing warmly past my shoulder at my sister.
+
+"Your bond with Katie is the most important bond in your life, Nate," Heather told me plainly, squeezing my fingers. "It was the most important bond you had before you met me, and it's supposed to stay the most important bond you have. Katie isn't in the way of us—loving your sister the way you do is the whole reason I trusted you with my heart in the first place. Honestly, if you were the kind of guy who ever pushed Katie aside for a girlfriend, I wouldn't like you half as much as I do."
+
+For a moment, my throat felt too full to trust my voice.
+
+Opening her arms right there on the tan-brown sofa, Heather leaned into me, and I wrapped both of my arms tightly around her back and shoulders while she wrapped both of hers snugly around mine. Resting her cheek against my navy t-shirt with her eyes closed and a peaceful smile on her face, Heather held onto me in a long, unhurried, deep-pressure hug that quieted every anxious hum in my seventeen-year-old chest. Right beside my left side, Katie smiled from ear to ear and rested her warm right hand gently against my upper shoulder—celebrating us without a shred of distance between any of the three of us.
+
+![Inside the sunlit living room on Arvin Road in Virginia Beach on Saturday afternoon, August 24, 2002, seventeen-year-old Nathaniel Prairie and Heather Collins share a tight, heartfelt two-armed hug on the tan-brown sofa while Nate's twin sister Katie Prairie sits close beside him resting a warm supportive hand on his shoulder with a radiant smile, with two plain green ginger ale cans and two open spiral-bound programming manuals on the oak coffee table and their two compact black motorized SwiftChair power wheelchairs parked neatly beside the couch]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2002_arvin_road_sofa_tight_hug_heather_nate_katie.jpg)
+
+"Thank you, Heather," Katie whispered earnestly over my shoulder as Heather gave me one more tight squeeze before sitting back with shining hazel eyes and keeping one arm looped warmly around mine. "Wait until Mr. Callahan sees what the three of us build in Room 204 next Tuesday."
+
+"We're going to own Gold-Day Second Block," Heather beamed, lifting her chilled green ginger ale can in a three-way toast with Katie's and mine over our twin open manuals as late-August sunlight gilded the living-room carpet—three seventeen-year-olds heading into Senior year completely on the same team.
+
+### Part 3: Senior Gold Day in Room 204, Paper Snowflakes, & One Tight Hug Before Winter Break
 
 **Date:** 2002-12-20 at 09:15 America/New_York
 
@@ -2311,7 +2371,7 @@ Rolling side by side into the wide glass cab with Heather standing right beside 
 
 ![Inside Room 204 Computer Lab on the second floor of Northwood High School on Friday morning, December 20, 2002 before winter break, seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands at an accessible beige CRT workstation while Heather Collins sits beside Nate in a green winter sweater smiling warmly at their compiled bus-map program with paper snowflakes on the classroom window behind them]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/dec_2002_northwood_room_204_senior_winter_break_heather_katie_nate.jpg)
 
-Across the three-quarter angled glass of our seventeen-inch beige CRT monitor, the gray *Quantum Basic 6.0* compiler bar flashed once and vanished—replaced instantly by a clean, high-contrast navy-and-amber transit directory window that Katie, Heather, and I had spent the past six weeks of Senior fall building from scratch.
+Across the three-quarter angled glass of our seventeen-inch beige CRT monitor, the gray *Quantum Basic 6.0* compiler bar flashed once and vanished—replaced instantly by a clean, high-contrast navy-and-amber transit directory window that Katie, Heather, and I had spent the past four months of Senior fall building from scratch ever since sketching the first wireframes on our Arvin Road coffee table in August.
 
 Pulled right up beside my right armrest in her cozy forest-green winter cable-knit sweater, Heather rested her warm hand gently on my plaid flannel forearm and leaned in beside me as she tested every single keyboard shortcut without touching the mouse.
 
@@ -2319,41 +2379,45 @@ Pulled right up beside my right armrest in her cozy forest-green winter cable-kn
 
 "Only because you caught that midnight rollover bug on the Route 1 late-night Norfolk table on Wednesday," Katie smiled across my shoulder at Heather, giving my hand a happy squeeze.
 
-Compared to the uncertain first weeks of eleventh grade fourteen months earlier—when kids in the hallways had stared at our brand-new powerchairs like alien spacecraft—Senior fall had settled into the happiest, steadiest rhythm of my entire seventeen years. This year, Katie had enrolled right alongside Heather and me in Gold-Day Second-Block Advanced Computer Lab so the three of us got to sit side by side at the wide accessible front table near the hallway door every other morning. We had already turned in our spring dual-enrollment forms to start taking introductory programming courses at the Community College of Hampton Roads right alongside Dad after graduation in June, and for fourteen straight months, Heather Collins had been my best friend outside my sister and my favorite part of every school week.
+Compared to the uncertain first weeks of eleventh grade fourteen months earlier—when kids in the hallways had stared at our brand-new powerchairs like alien spacecraft—Senior fall had settled into the happiest, steadiest rhythm of my entire seventeen years. With Katie enrolled right alongside Heather and me in Gold-Day Second-Block Advanced Computer Lab, the three of us sat side by side at the wide accessible front table near the hallway door every other morning. We had already turned in our spring dual-enrollment forms to start taking introductory programming courses at the Community College of Hampton Roads right alongside Dad after graduation in June, and for fourteen straight months, Heather Collins had been my best friend outside my sister and my favorite part of every school week.
 
 When Mr. Callahan walked down the aisle with his gradebook clipboard at ten-fifteen, tested three transfers on our keyboard, wrote a circled *100 / A+* at the top of our rubric sheet, and wished the three of us a restful two-week holiday, Katie and I bumped our inner fists together before lacing our fingers right back up.
 
 ***
 
-#### Friday, December 20, 2002, 1:55 PM — Shenandoah Valley Travel Plans & Two Mugs of Hot Chocolate on Arvin Road
+#### Friday, December 20, 2002, 1:55 PM — Shenandoah Valley Travel Plans & One Tight Hug at the Bus Loop
 
-"Okay, walk me through the Collins family itinerary one more time before Mr. Henderson lowers our bus lift," I said just before two o'clock that afternoon as the dismissal bell echoed across the brick courtyard and the three of us moved down the accessible concrete sidewalk beside the yellow special-transportation bus loop in the crisp forty-two-degree Tidewater air.
+"Okay, walk me through the Collins family itinerary one more time before Mr. Henderson lowers our bus lift," I said just before two o'clock that afternoon as the dismissal bell echoed across the brick courtyard and the three of us moved down the wide concrete sidewalk beside the yellow special-transportation bus loop in the crisp Tidewater winter air.
 
-Buttoned up in her quilted winter coat with a knit scarf wrapped loosely around her chestnut hair, Heather walked right alongside my right wheel while Katie rolled smoothly on my left, her gloved left hand tucked warmly inside my gloved right hand between our chairs until we reached our waiting yellow lift bus.
+Buttoned up in her quilted forest-green winter coat with a soft cream knit scarf wrapped loosely around her chestnut hair, Heather walked right alongside my right wheel while Katie rolled smoothly on my left in her navy winter jacket and burgundy sweater, keeping our inner hands tucked together between our chairs until we paused along the curb near our waiting yellow lift bus.
 
-"Christmas Day we're right here in Virginia Beach with Aunt Linda and Wesley," Heather explained, shifting her bookbag onto her left shoulder as tiny puffs of white breath rose between us in the cold December breeze. "Then first thing on the morning of the twenty-sixth, my dad is packing my mom, Wesley, and me into the minivan and driving us up Interstate 64 and Interstate 81 into the Shenandoah Valley to stay at my grandparents' farmhouse through New Year's Day. My grandparents don't even have dial-up internet out in the valley, and long-distance landlines cost twenty cents a minute—so if you don't see me online on Messenger all next week, I haven't vanished into the mountains!"
+"Christmas Day we're right here in Virginia Beach with Aunt Linda and Wesley," Heather explained, shifting her black backpack comfortably onto her shoulders as tiny puffs of white breath rose between us against the overcast December sky. "Then first thing on the morning of the twenty-sixth, my dad is packing my mom, Wesley, and me into the minivan and driving us up Interstate 64 and Interstate 81 into the Shenandoah Valley to stay at my grandparents' farmhouse through New Year's Day. My grandparents don't even have dial-up internet out in the valley, and long-distance landlines cost twenty cents a minute—so if you don't see me online on Messenger all next week, I haven't vanished into the mountains!"
 
-"Give Wesley a big holiday squeeze from both of us," Katie said warmly, smiling up from her maroon sweater and winter jacket. "Tell him we saved him a cinnamon-sugar pretzel trip as soon as January thaws out."
+"Give Wesley a big holiday squeeze from both of us," Katie said warmly, smiling across from her chair. "Tell him we saved him a cinnamon-sugar pretzel trip as soon as January thaws out."
 
-"He already tapped his blue ring twice when Aunt Linda told him school was out for two weeks," Heather laughed softly. Stepping respectfully in front of our chairs without touching either controller or frame, she smiled at Katie first. "Holiday hug before I head for my dad's car, Katie?"
+"He already tapped his blue ring twice when Aunt Linda told him school was out for two weeks," Heather laughed softly. Stepping respectfully in front of our chairs without bumping either joystick or frame, she smiled at Katie first. "Holiday hug before I head for my dad's car, Katie?"
 
-"Always," Katie beamed, leaning forward slightly in her seat to wrap both arms warmly around Heather's shoulders for a genuine, unhurried hug before sitting back with rosy cheeks.
+"Always," Katie beamed, leaning forward in her seat to wrap both arms warmly around Heather's shoulders for an unhurried hug before sitting back with rosy cheeks and resting her hands happily in her lap.
 
-Then Heather stepped over beside my right side, bent down at the waist so her hazel eyes were right on level with mine, and wrapped both of her arms snugly around my neck. Burying my face for three warm seconds against the soft wool of her winter scarf—smelling clean pine air, vanilla lip balm, and the familiar warmth of the girl who had never once made me choose between loving her and sticking beside my twin sister—I hugged her back with everything I had.
+Then Heather stepped right up beside my right wheel, bent down so her cheek pressed warmly against my temple, and wrapped both of her quilted green sleeves tightly around my shoulders—her right hand cradling the back of my neck while I reached both of my charcoal-jacketed arms straight around her and held onto her just as tightly.
 
-Pulling back half an inch, Heather pressed a soft, lingering kiss against my cold cheek and smiled down at me with shining eyes.
+![Outside the red-brick building of Northwood High School beside a waiting yellow school bus on an overcast Friday afternoon, December 20, 2002, seventeen-year-old Heather Collins in a forest-green quilted winter coat and cream knit scarf bends down to share a radiant, tight two-armed holiday hug with Nathaniel Prairie in his compact black motorized SwiftChair power wheelchair while his blonde twin sister Katie Prairie sits right beside him in her matching power wheelchair smiling warmly]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/dec_2002_northwood_bus_loop_winter_goodbye_tight_hug_heather_nate_katie.jpg)
 
-"Meet me right by my upstairs locker at eight o'clock on Monday morning, January sixth, okay, Nate?" Heather said gently, squeezing my gloved fingers one last time. "We'll pick our first Saturday afternoon of the new year to ride the glass elevator at Emerald Creek Mall together."
+For five full seconds out on that cold December sidewalk, neither of us let go. Breathing in the crisp pine air and soft wool of her cream knit scarf while Katie watched beside us with the brightest, most content smile in Virginia Beach, I felt every ounce of gratitude I didn't always know how to put into spoken sentences—for fourteen steady months of hand-holding on mall bridges, shared compiler tables, and a girlfriend who celebrated my twin sister as my lifelong number-one anchor.
 
-"Count on it," I grinned, watching with a full, glowing chest as Heather waved backward twice before jogging across the crosswalk toward the parent pickup lane.
+Pulling back just far enough to press a quick, warm kiss against my cold cheek, Heather squeezed my shoulder with both hands and grinned down at me.
+
+"Meet me right by my upstairs locker at eight o'clock on Monday morning, January sixth, okay, Nate?" Heather said gently. "We'll pick our first Saturday afternoon of the new year to ride the glass elevator at Emerald Creek Mall together."
+
+"Count on it," I beamed, watching with a full, glowing chest as Heather waved backward twice to Katie and me before jogging across the crosswalk toward the parent pickup lane.
 
 Behind us, across the Commons glass near the Lions Way side gate as the last waves of seniors streamed out into the gray December afternoon, Katie and I caught a brief glimpse of our cousin Brittany pulling up the hood of her thin denim jacket beside a loud cluster of kids heading toward Macgregory Street. Remembering Dad mentioning at breakfast that Grandma Ruth had come down with a stubborn winter chest cold up in Newport, Rhode Island—and wondering if Dad might end up driving north after Christmas to check on Grandma Ruth, Aunt Liz, and Chelsea—Katie glanced sideways at me with that quiet, protective look we always shared whenever we thought about trying to bring Brittany back into safe harbor, before Mr. Henderson called down cheerfully from the open side lift door of our school bus.
 
-Twenty-five minutes later, after rolling up Dad's bolted aluminum porch ramp into the cozy warmth of our single-story brick ranch on Arvin Road, Katie and I parked our SwiftChairs side by side near the hallway charger outlets, transferred smoothly onto our tan-brown living-room sofa, and pulled the thick navy-blue fleece throw blanket all the way up over both of our laps.
+Twenty-five minutes later, after rolling up Dad's bolted aluminum porch ramp into the cozy warmth of our brick ranch on Arvin Road, Katie and I parked our SwiftChairs side by side near the hallway charger outlets, transferred smoothly onto our tan-brown living-room sofa, and pulled the thick navy-blue fleece throw blanket all the way up over both of our laps.
 
 In the eat-in kitchen, Dad warmed a saucepan of whole milk on the stove, stirred in two generous spoonfuls of Dutch cocoa for Katie and me while pouring himself a mug of afternoon coffee, and carried our two steaming ceramic mugs out to the coffee table beside his CCHR semester grade printout—straight *A*s across every single computer class.
 
-Setting my warm mug down for a minute once the heat soaked into my palms, I lifted my left arm so Katie could tuck herself right up against my side beneath the fleece blanket. Resting her blonde head squarely against my shoulder while I wrapped my arm firmly around her in our quiet after-school deep-pressure cuddle, the two of us listened to the furnace hum against the December wind outside our front window—seventeen, safe at home with our dad, and counting down sixteen peaceful days of winter break until we rolled back up the B-Wing elevator on Monday morning, January sixth.
+Setting my warm mug down once the heat soaked into my palms, I lifted my left arm so Katie could tuck herself right up against my side beneath the fleece blanket. Resting her blonde head squarely against my shoulder while I wrapped my arm firmly around her in our quiet after-school deep-pressure cuddle, the two of us listened to the furnace hum against the December wind outside our front window—seventeen, safe at home with our dad, and counting down sixteen peaceful days of winter break until we rolled back up the B-Wing elevator on Monday morning, January sixth.
 
 ## Drunken New Year
 
