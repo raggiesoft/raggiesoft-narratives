@@ -132,7 +132,7 @@ Detective Carter made another note on his yellow legal pad, drawing a heavy box 
 
 Carter set his pen down. The rhythmic hum of the cassette tape was the only sound in the room for a few seconds. The detective leaned forward, clasping his hands together. The procedural tone vanished, replaced by a grim, heavy seriousness.
 
-"Alright. We have the motive for Michael and Rachel," Carter said quietly. "Now we need to talk about the other child in the emergency room right now. Drew. He is six years old, David. The surgeons at CHKD had to remove his spleen last night just to keep him from bleeding to death on the table. He is fighting for his life in the pediatric ICU."
+"Alright. We have the motive for Michael and Rachel," Carter said quietly. "Now we need to talk about the other child in the emergency room right now. Drew. He is six years old, David. The surgeons at Tidewater Children's Hospital had to remove his spleen last night just to keep him from bleeding to death on the table. He is fighting for his life in the pediatric ICU."
 
 David closed his eyes, a physical shudder running through his heavy frame.
 

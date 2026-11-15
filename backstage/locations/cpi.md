@@ -25,7 +25,7 @@ Founded in **1872**, CPI serves as a central geographic anchor across the Raggie
 * **Architectural Stonework ("Appalachian Ironstone"):** Nearly every academic hall, administrative landmark, and residence hall ringing central campus is clad in rough-cut gray dolomitic **Ironstone** quarried locally in Montgomery County—contrasted on modern expansions like **Kincaid Hall** with soaring three-story mullioned glass curtain walls.
 * **Commonwealth Green ("The Green"):** The vast, sunken oval grass commons at the center of campus, ringed by a one-way stone-bordered roadway, paved accessible pathways, and Neo-Gothic Ironstone towers connecting the northern academic terrace to the residential and engineering quads.
 
-![The monumental Ironstone arch of The Keystone Bridge spanning Commonwealth Mall at dusk as an accessible low-floor Blue Ridge Transit bus displaying '1 CPI' glides along the boulevard beneath warm campus streetlights.](https://assets.raggiesoft.com/raggiesoft-backstage/images/scenes/cpi-keystone-bridge-commonwealth-mall.jpg)
+![The monumental Ironstone arch of The Keystone Bridge spanning Commonwealth Mall at dusk as an accessible low-floor Blue Ridge Transit bus displaying '1 CPI' glides along the boulevard beneath warm campus streetlights.](https://assets.raggiesoft.com/raggiesoft-backstage/images/scenes/cpi-keystone-bridge-commonwealth-mall.jpg?v=20261114f)
 
 ---
 

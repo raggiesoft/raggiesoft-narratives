@@ -12,7 +12,7 @@ imageAlt: "Inside a wood-paneled 1995 Tidewater Virginia courtroom and judicial 
 summary: "Reconstructs Friday, August 18, 1995 outside the hospital walls: David Miller's voluntary morning confession to Norfolk PD Detective Carter, why Thursday classes were unsupervised, the 2:15 PM Chesapeake warehouse search warrant, and the 3:00 PM arrest."
 ---
 
-While **Michael**, **Rachel**, and six-year-old **Drew** were still inside Children's Hospital of The King's Daughters on **Friday, August 18, 1995** ([*Episode 2, Chapter 8*](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-warpath/part-1-bear-and-bug-the-interrogation)), a parallel law-enforcement timeline moved at breakneck speed across **Norfolk** and **Chesapeake**. This dossier reconstructs the three closed-door stages that turned a local assault report into a multi-count premeditated felony indictment before `3:15 PM` that same afternoon.
+While **Michael**, **Rachel**, and six-year-old **Drew** were still inside **Tidewater Children's Hospital** in Norfolk on **Friday, August 18, 1995** ([*Episode 2, Chapter 8*](https://books.raggiesoft.com/rachel/the-saltwater-summer/the-warpath/part-1-bear-and-bug-the-interrogation)), a parallel law-enforcement timeline moved at breakneck speed across **Norfolk** and **Chesapeake**. This dossier reconstructs the three closed-door stages that turned a local assault report into a multi-count premeditated felony indictment before `3:15 PM` that same afternoon.
 
 ---
 

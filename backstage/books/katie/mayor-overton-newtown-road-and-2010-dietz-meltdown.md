@@ -47,9 +47,9 @@ How did twenty-two-year incumbent **Councilman Harold Dietz** go from a comforta
 
 1. **Why Dietz Never RSVPed to the `WHRC TV-15` Debate (`October 19, 2010`):**
    When public television station **`WHRC TV-15`** sent certified debate invitations to both certified Kempsville candidates in September 2010, Dietz's campaign manager advised him to ignore the letter—assuming `WHRC TV-15` would cancel the broadcast if the incumbent didn't confirm, and refusing to *"elevate a twenty-five-year-old kid in a wheelchair who rides the city bus."*
-   Instead, `WHRC TV-15` followed strict FCC *bona fide* news event rules: they set up two podiums under the studio lights, placed a `COUNCILMAN HAROLD DIETZ` nameplate on the empty lectern, and gave twenty-five-year-old **Katie Prairie** thirty uninterrupted minutes on live regional television—followed by *The Virginian-Pilot* front-page Metro photograph of Katie and Nate sprinting across four lanes of Independence Boulevard in the dark at `8:24 PM` to catch the last three buses home.
+   Instead, `WHRC TV-15` followed strict FCC *bona fide* news event rules: they set up two podiums under the studio lights, placed a `COUNCILMAN HAROLD DIETZ` nameplate on the empty lectern, and gave twenty-five-year-old **Katie Prairie** thirty uninterrupted minutes on live regional television—followed by *The Tidewater Pilot* front-page Metro photograph of Katie and Nate sprinting across four lanes of Independence Boulevard in the dark at `8:24 PM` to catch the last three buses home.
 2. **The Internal Track Poll That Triggered the `WTGA 790 AM` Meltdown (`October 27–28, 2010`):**
-   Six days after the `WHRC TV-15` broadcast and the front-page *Virginian-Pilot* story, Dietz's campaign pollster delivered a devastating internal tracking poll of 400 likely Kempsville voters:
+   Six days after the `WHRC TV-15` broadcast and the front-page *Tidewater Pilot* story, Dietz's campaign pollster delivered a devastating internal tracking poll of 400 likely Kempsville voters:
    * **September 15, 2010:** Dietz `51%` — Prairie `33%` (`Dietz +18%`)
    * **October 12, 2010:** Dietz `46%` — Prairie `38%` (`Dietz +8%`)
    * **October 27, 2010 (*Post-Empty Podium*):** Prairie `44.6%` — Dietz `44.2%` (`Statistical Tie / Margin of Error 0.4%`)

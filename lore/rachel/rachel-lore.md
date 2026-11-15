@@ -2723,13 +2723,13 @@ Rachel’s Level 3 crush caused structural damage (cracked lower ribs) and solid
 - **Weeks 9–16 (The Extreme Long End):** While the pain is largely gone, the internal swelling of the spleen can take months to fully resolve on the extreme end of recovery. For a full three to four months, Dr. Young will likely ban her from PE class, playground equipment, and any situation where she could trip and fall.
 
 
-**The Catalyst: The ICU Report** The internal Dojang cover-up completely collapses the moment six-year-old Drew is rushed into emergency surgery. The pediatric trauma surgeons at the Children's Hospital of The King's Daughters (CHKD) are legally mandated reporters. They immediately contact the Chesapeake Police Department and Child Protective Services. Drew’s ruptured spleen is the undeniable, physical proof that escalates the situation from a "tough class" to felony child abuse.
+**The Catalyst: The ICU Report** The internal Dojang cover-up completely collapses the moment six-year-old Drew is rushed into emergency surgery. The pediatric trauma surgeons at **Tidewater Children's Hospital** in Norfolk are legally mandated reporters. They immediately contact the Chesapeake Police Department and Child Protective Services. Drew’s ruptured spleen is the undeniable, physical proof that escalates the situation from a "tough class" to felony child abuse.
 
 **The Media Circus** Within 48 hours, the story leaks. In 1995, local news is the absolute king of suburban information, and this hits every major nerve of the era's "child safety" panic.
 
-- **The Print Headlines:** *The Virginian-Pilot* and the evening *Ledger-Star* run front-page exposés. The headlines focus on the betrayal of trust: *"Dojang of Danger: Local Instructor Arrested in Child Beating"* and *"Black Belt Abuse: 6-Year-Old in ICU."*
+- **The Print Headlines:** *The Tidewater Pilot* and the evening *Tidewater Ledger* run front-page exposés. The headlines focus on the betrayal of trust: *"Dojang of Danger: Local Instructor Arrested in Child Beating"* and *"Black Belt Abuse: 6-Year-Old in ICU."*
 
-- **The Broadcasts:** Satellite trucks from WAVY TV 10, WTKR Channel 3, and WVEC 13 camp out in the Tidewater Tumblers parking lot. The evening broadcasts show footage of the dark, locked double doors of the facility, running interviews with horrified, crying mothers who had no idea what was happening behind the closed interior blinds.
+- **The Broadcasts:** Satellite trucks from `WCVB-TV 10`, `WTID-TV 3`, and `WVHR-TV 13` camp out in the Tidewater Tumblers parking lot. The evening broadcasts show footage of the dark, locked double doors of the facility, running interviews with horrified, crying mothers who had no idea what was happening behind the closed interior blinds.
 
 **The Whistleblower: Breaking the First Rule** The police investigation hits a wall of silence from the adults until one specific Iron Shirt member cracks. Let's call him "David" (the first adult stepped on in the line). David is a reluctant participant in the underground—a blue-collar guy who liked the extreme conditioning but drew a hard moral line at hurting kids. The cognitive dissonance shatters when he learns a kindergartener is fighting for his life.
 
@@ -2997,7 +2997,7 @@ Detective Carter made another note on his yellow legal pad, drawing a heavy box 
 
 Carter set his pen down. The rhythmic hum of the cassette tape was the only sound in the room for a few seconds. The detective leaned forward, clasping his hands together. The procedural tone vanished, replaced by a grim, heavy seriousness.
 
-"Alright. We have the motive for Michael and Rachel," Carter said quietly. "Now we need to talk about the other child in the emergency room right now. Drew. He is six years old, David. The surgeons at CHKD had to remove his spleen last night just to keep him from bleeding to death on the table. He is fighting for his life in the pediatric ICU."
+"Alright. We have the motive for Michael and Rachel," Carter said quietly. "Now we need to talk about the other child in the emergency room right now. Drew. He is six years old, David. The surgeons at Tidewater Children's Hospital had to remove his spleen last night just to keep him from bleeding to death on the table. He is fighting for his life in the pediatric ICU."
 
 David closed his eyes, a physical shudder running through his heavy frame.
 
