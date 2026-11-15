@@ -9,7 +9,7 @@ location: "Room 104, Bennett Hall & EHS Operations Desk, CPI"
 sender: "Isabel Dawson (RA), Evelyn Vance (MSN, APRN, FNP-C), & Eleanor Higgins (OEA)"
 recipient: "Kelsey Brennan, Dr. Marcus Sterling, & CPI Environmental Health & Safety"
 subject: "Bennett Hall Floor 2 — 00:58 (Exemplary Compliance — Case Closed)"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-25-influenza-a/scene-8-bundled-into-the-cold"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-new-normal-end-of-first-semester/part-3-the-second-drill"
 relatedBookLabel: "Episode 1, Chapter 25, Scene 8: Bundled into the Cold"
 summary: "End-of-semester EHS fire drill report documenting Floor 2's 58-second evacuation during Jordan's 102.4°F flu exam, closing Arthur Pendelton's file forever."
 ---

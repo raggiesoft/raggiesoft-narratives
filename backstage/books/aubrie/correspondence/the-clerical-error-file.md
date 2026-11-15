@@ -9,7 +9,7 @@ location: "Floor 2 RA Workroom & Room 104, Eleanor Bennett Commonwealth Hall, CP
 sender: "Henry Walsh, Kelsey Brennan, Isabel Dawson, & Dr. Alan Mercer"
 recipient: "CPI Office of Housing & Residence Life / Bennett Hall Floor 2 Staff"
 subject: "Floor 2 Incident Follow-Up — Suite 214/216 Clerical Error & Preferred Name Update ('Jordan Fuller')"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-4-move-in-day/scene-7-jordan"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-5-a-joke-that-stuck-making-it-official"
 relatedBookLabel: "Episode 1, Chapter 4, Scene 7: Jordan"
 summary: "Move-In Day staff thread covering the Suite 214/216 forced-triple clerical error, Jordan claiming his middle name, and Kelsey's strict do-not-pry order."
 ---

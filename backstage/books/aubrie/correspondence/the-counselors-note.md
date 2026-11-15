@@ -9,7 +9,7 @@ location: "Room 210, Callahan Hall, Commonwealth Polytechnic Institute"
 sender: "Patricia Higgins, M.S., CRC (Director, Office of Educational Accessibility)"
 recipient: "Kelsey Brennan, M.Ed. (Residence Director, Bennett Hall)"
 subject: "CONFIDENTIAL — OEA Intake Completed & Practical Check-In Notes for Tomorrow"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-2-two-appointments/scene-2-educational-accessibility"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-3-the-poly-pass-educational-accessibility"
 relatedBookLabel: "Episode 1, Chapter 2, Scene 2: Educational Accessibility"
 summary: "OEA Director Patricia Higgins warns Bennett Hall RD Kelsey Brennan after Aubrie Sinclair yanks her son's laptop cord from the wall mid-sentence."
 ---

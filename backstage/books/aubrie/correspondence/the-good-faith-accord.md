@@ -9,7 +9,7 @@ location: "Radford Transit Operations Center, City of Radford, Virginia"
 sender: "Dr. Richard Halstead, Dr. Alan Mercer, & Gregory Donovan (CPI Administration)"
 recipient: "Walter Hendricks (Radford Transit), Douglas Keaton (City of Radford), & Dr. Catherine Sterling (RU)"
 subject: "REMEDIATION ACCORD — Immediate Post-Census Evacuation of Radford Overflow Hotels & :45 Off-Pulse Relief"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-11-the-post-census-verdict/scene-2-interlude-the-post-census-verdict"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-3-interlude-the-post-census-verdict"
 relatedBookLabel: "Episode 1, Chapter 11, Scene 2: The Post-Census Verdict"
 summary: "CPI Administration's four-point remediation accord assigning all 36 post-census dorm beds to Radford hotel residents and launching :45 relief buses."
 ---

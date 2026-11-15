@@ -9,7 +9,7 @@ location: "Room 104, Bennett Hall & EHS Operations Desk, CPI"
 sender: "Arthur Pendelton (EHS), Eleanor Higgins (OEA), & Chief Robert Callahan (EHS Director)"
 recipient: "Kelsey Brennan, Dr. Marcus Sterling, & CPI Environmental Health & Safety"
 subject: "Re: NOTICE OF SECONDARY COMPLIANCE INQUIRY — STATUTORY PREEMPTION & CEASE DIRECTIVE (BLDG-014)"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-12-health-and-safety-week/scene-3-fire-alarm-in-the-dormitory"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-6-fire-alarm-in-the-dormitory"
 relatedBookLabel: "Episode 1, Chapter 12, Scene 3: Fire Alarm in the Dormitory"
 summary: "OEA Director Eleanor Higgins, Housing Director Dr. Marcus Sterling, and EHS Chief Robert Callahan shut down Arthur Pendelton's attempt to interrogate Room 214."
 ---

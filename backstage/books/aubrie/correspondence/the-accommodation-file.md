@@ -9,7 +9,7 @@ location: "Callahan Hall & Eleanor Bennett Commonwealth Hall, CPI"
 sender: "Patricia Higgins (OEA), Central Housing, & Kelsey Brennan (Bennett Hall)"
 recipient: "Isabel Dawson & Henry Walsh (Bennett Hall Floor 2 RAs)"
 subject: "FINAL CLEARANCE REQUEST — OEA Early Arrival & ADA Placement (Room 214, Bed A)"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-1-the-administrative-prelude/scene-2-the-drive"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-2-the-drive-the-shared-bed"
 relatedBookLabel: "Episode 1, Chapter 1, Scene 2: The Drive"
 summary: "Pre-arrival CPI administrative email thread between OEA Director Patricia Higgins, Central Housing, and Bennett Hall RD Kelsey Brennan."
 ---

@@ -6,7 +6,7 @@ property: "books"
 date: "2014-08-22"
 time: "13:00 EDT"
 location: "Floor 2 Corridor & Room 214/215, Eleanor Bennett Commonwealth Hall, CPI"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-3-move-in-day-minus-one/scene-3-the-awkward-outlet"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-8-room-214-the-awkward-outlet"
 relatedBookLabel: "Episode 1, Chapter 3, Scene 3: The Awkward Outlet"
 summary: "Behind-the-scenes alternate-POV notes for Floor 2 RA Isabel Claire Dawson, including the Two-Knock Welfare-Check protocol on Move-In Friday."
 ---
@@ -17,7 +17,7 @@ summary: "Behind-the-scenes alternate-POV notes for Floor 2 RA Isabel Claire Daw
 
 ## 1. Move-In Friday: *"The Awkward Outlet"* from Isabel Dawson's POV (`August 22, 2014 — 13:00 EDT`)
 
-* **Corresponding Main-Novel Scene:** [*Episode 1, Chapter 3, Scene 3: "The Awkward Outlet"*](https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-3-move-in-day-minus-one/scene-3-the-awkward-outlet)
+* **Corresponding Main-Novel Scene:** [*Episode 1, Chapter 3, Scene 3: "The Awkward Outlet"*](https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-8-room-214-the-awkward-outlet)
 * **Why This Could Not Be Shown in Jordan's POV:**
   On Move-In Friday (`August 22, 2014`), eighteen-year-old Aubrey Jordan Fuller **does not yet know that he has moderate-to-severe bilateral sensorineural hearing loss** (because his mother, Aubrie Sinclair, kept him isolated from doctors and audiologists for eighteen years). Locked inside his POV with the solid-core oak fire door of `Room 214` shut, he hears nothing in the hallway at all—the first thing he registers is the sudden change in air pressure and the cool draft across his neck when the motorized door swings inward, causing him to turn around in his wheelchair and see Isabel waving in the doorway.
 

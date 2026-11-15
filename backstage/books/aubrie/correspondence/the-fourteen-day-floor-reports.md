@@ -9,7 +9,7 @@ location: "Room 104, Eleanor Bennett Commonwealth Hall, CPI"
 sender: "Isabel Dawson (RA, Room 215) & Henry Walsh (RA, Room 201)"
 recipient: "Kelsey Brennan (Bennett Hall RD) & Dr. Alan Mercer (Director of Housing)"
 subject: "14-Day Post-Census Evaluation Report — Bennett Hall, Suite 214/216"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-11-the-post-census-verdict/scene-2-interlude-the-post-census-verdict"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-3-interlude-the-post-census-verdict"
 relatedBookLabel: "Episode 1, Chapter 11, Scene 2: The Post-Census Verdict"
 summary: "Isabel Dawson and Henry Walsh's formal two-week evaluations recommending that Suite 214/216's co-ed housing arrangement be made permanent."
 ---

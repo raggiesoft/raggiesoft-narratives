@@ -9,7 +9,7 @@ location: "Room 215, Eleanor Bennett Commonwealth Hall, CPI"
 sender: "Isabel Dawson (RA, Floor 2) & Kelsey Brennan (Residence Director)"
 recipient: "CPI Environmental Health & Safety Portal / Kelsey Brennan"
 subject: "CONFIDENTIAL — Private Follow-Up on Suite 214/216 Evacuation (Jordan Fuller)"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-12-health-and-safety-week/scene-3-fire-alarm-in-the-dormitory"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-6-fire-alarm-in-the-dormitory"
 relatedBookLabel: "Episode 1, Chapter 12, Scene 3: Fire Alarm in the Dormitory"
 summary: "RA Isabel Dawson's official OEA-ADA-COMM fire drill report and her private message to Kelsey Brennan explaining why Jordan feared the unlocked door."
 ---

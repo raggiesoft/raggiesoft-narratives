@@ -5,7 +5,7 @@ category: "Corporate & Legal Archives"
 property: "corporations"
 date: "2001-12-02"
 location: "Houston, Texas / Blacksburg, Virginia"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-6-fall-semester-2015/chapter-2-question-the-rules-the-birth-of-fin/scene-1-question-the-rules-the-birth-of-fin"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street/part-3-question-the-rules-the-birth-of-fin"
 relatedBookLabel: "Episode 6, Chapter 2, Scene 1: Question The Rules: The Birth of Fin#"
 summary: "In-universe corporate history of Vectron Energy Corp.'s 1997-2001 'Question The Rules' TV ad campaign, energy deregulation, and the birth of Z-SOX-302."
 ---
@@ -37,4 +37,4 @@ Behind the glass facade in Houston, Vectron's executives were taking *"Question 
 
 Using mark-to-market accounting to book decades of speculative future energy profits on day one while hiding billions of dollars of toxic debt inside off-balance-sheet **Special Purpose Entities (`SPEs`)**, Vectron fabricated a mirage of endless growth—until the illusion imploded in **December 2001**, wiping out **\$70 billion in shareholder value**, evaporating **20,000 employee pensions**, and prompting the United States Congress to enact the **Sarbanes-Oxley Act of 2002 (SOX)**.
 
-Fourteen years later, in **August 2015** ([*Episode 6, Chapter 1, Scene 4*](https://books.raggiesoft.com/aubrie/episode-6-fall-semester-2015/chapter-1-welcome-to-the-neighborhood/scene-4-question-the-rules-the-birth-of-fin)), CPI sophomore **Zoë Wren Brooks** studies the Vectron collapse in her **ACIS 3115** seminar alongside her **CS 3214 (*Compiler Design*)** coursework—inspiring her to create the **`Fin#`** functional financial programming language and her **`Z-SOX-302`** household audit engine, where every dollar is a conserved state and cooking the books is a compile-time error.
+Fourteen years later, in **August 2015** ([*Episode 6, Chapter 1, Scene 4*](https://books.raggiesoft.com/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street/part-3-question-the-rules-the-birth-of-fin)), CPI sophomore **Zoë Wren Brooks** studies the Vectron collapse in her **ACIS 3115** seminar alongside her **CS 3214 (*Compiler Design*)** coursework—inspiring her to create the **`Fin#`** functional financial programming language and her **`Z-SOX-302`** household audit engine, where every dollar is a conserved state and cooking the books is a compile-time error.

@@ -9,7 +9,7 @@ location: "Room 215 & First-Floor Office, Eleanor Bennett Commonwealth Hall, CPI
 sender: "Kelsey Brennan, Isabel Dawson, & Henry Walsh (Bennett Hall Staff)"
 recipient: "Bennett Hall Floor 2 Residence Life Staff Thread"
 subject: "Floor 2 Check-In Update — Aubrey Jordan Fuller (Room 214, Bed A)"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-3-move-in-day-minus-one/scene-3-the-awkward-outlet"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-8-room-214-the-awkward-outlet"
 relatedBookLabel: "Episode 1, Chapter 3, Scene 3: The Awkward Outlet"
 summary: "Bennett Hall staff emails documenting the two-minute lobby drop-off, RA Isabel Dawson mounting Room 214's desk power strip, and Friday door-card runners."
 ---

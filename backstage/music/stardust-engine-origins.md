@@ -5,7 +5,7 @@ category: "Engine Room Records & Music"
 property: "music"
 date: "1986-10-14"
 location: "Corner of Progress & Turner Streets, Blacksburg, Virginia (CPI)"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-6-fall-semester-2015/chapter-5-an-80s-education/scene-3-electric-color"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater/part-3-electric-color"
 relatedBookLabel: "Episode 6, Chapter 5, Scene 3: Electric Color"
 summary: "How Ryan, Cassidy, Evan, Tyler, and Holly formed The Stardust Engine at CPI in 1986—and how their 1987 debut 'Electric Color' awoke Jordan in 2015."
 ---
@@ -33,10 +33,10 @@ Every member of the band **despised** that corporate branding gimmick, because r
 
 ## 2. How *Electric Color* (`1987`) and *Starfield Calibration* (`1995`) Connect to *The Eleventh Child*
 
-Twenty-eight years after *Electric Color* was pressed to vinyl in Blacksburg, its grooves spin once again in **Christiansburg, Virginia** on the Friday evening of **November 13, 2015** ([*Episode 6, Chapter 5: "An 80s Education"*](https://books.raggiesoft.com/aubrie/episode-6-fall-semester-2015/chapter-5-an-80s-education)):
+Twenty-eight years after *Electric Color* was pressed to vinyl in Blacksburg, its grooves spin once again in **Christiansburg, Virginia** on the Friday evening of **November 13, 2015** ([*Episode 6, Chapter 5: "An 80s Education"*](https://books.raggiesoft.com/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater)):
 
 1. **Awakening from a Grey World into *Electric Color*:**
    After **Mark Anderson** plays [*"An 80s Education"*](https://music.raggiesoft.com/the-paper-wall/2003-eleventh-child-book-2?track=1-02-an-80s-education) in the living room of **412 Geneva Street**, **Daniel Brooks** pulls his original 1987 pressing of [***Electric Color***](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color) from his walnut vinyl crate. When the needle drops onto Track 1 ([*"Electric Color"*](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-01-electric-color)), something profound awakens inside nineteen-year-old Jordan—hearing a song born right at CPI that declares his world is no longer grey, *just color*.
 2. **Astrophysics & *Starfield Calibration* (`1995`):**
-   Later that same night ([*Scene 4: "Starfield Calibration"*](https://books.raggiesoft.com/aubrie/episode-6-fall-semester-2015/chapter-5-an-80s-education/scene-4-starfield-calibration)), Daniel pulls out The Stardust Engine's 1995 concept album [***Starfield Calibration***](https://music.raggiesoft.com/the-stardust-engine/1995-starfield-calibration)—a record inspired by deep-space optical navigation and how a spacecraft lost in the dark uses three fixed guide stars to triangulate its true position and plot its trajectory home. For Jordan and **Aubrie Jean Kelly**, both CPI Astrophysics majors who found their own guide stars in Suite 214/216, the album becomes the soundtrack of their lives.
+   Later that same night ([*Scene 4: "Starfield Calibration"*](https://books.raggiesoft.com/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater/part-4-starfield-calibration-the-call-from-bluewater)), Daniel pulls out The Stardust Engine's 1995 concept album [***Starfield Calibration***](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration)—a record inspired by deep-space optical navigation and how a spacecraft lost in the dark uses three fixed guide stars to triangulate its true position and plot its trajectory home. For Jordan and **Aubrie Jean Kelly**, both CPI Astrophysics majors who found their own guide stars in Suite 214/216, the album becomes the soundtrack of their lives.
 

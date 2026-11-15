@@ -9,7 +9,7 @@ location: "Office of the City Manager, Radford City Hall, City of Radford, Virgi
 sender: "Walter Hendricks (Radford Transit), Douglas Keaton (City of Radford), & Dr. Catherine Sterling (RU)"
 recipient: "CPI Administration & Office of Housing and Residence Life"
 subject: "FORMAL COMPLAINT — Unannounced CPI Overflow Hotel Leasing & Overcrowding of Radford Transit's 30-Foot Fleet"
-relatedBookUrl: "https://books.raggiesoft.com/aubrie/episode-1-welcome-to-college/chapter-11-the-post-census-verdict/scene-1-interlude-mutiny-at-mcconnell-transit-center"
+relatedBookUrl: "https://books.raggiesoft.com/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-2-interlude-mutiny-at-mcconnell-transit-center"
 relatedBookLabel: "Episode 1, Chapter 11, Scene 1: Mutiny at McConnell Transit Center"
 summary: "Official joint complaint filed by Radford Transit, the City of Radford, and Radford University demanding immediate CPI overflow hotel relief."
 ---
