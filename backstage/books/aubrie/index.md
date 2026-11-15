@@ -12,7 +12,7 @@ summary: "Explore extracted CPI administrative correspondence, Isabel Dawson's a
 
 Welcome to the official **RaggieSoft Backstage** companion archive for [***The Eleventh Child: The Story of Jordan***](https://books.raggiesoft.com/aubrie).
 
-To keep the main novel tightly focused on **Jordan's lived perspective** and the immediate emotional momentum of his found family inside **Suite 214/216**, background administrative email threads, inter-agency transit filings, and alternate-POV staff dossiers have been preserved here as standalone archival documents. Whenever you encounter a **Backstage Dossier** callout or link while reading on [`books.raggiesoft.com`](https://books.raggiesoft.com/aubrie), you can preview these records directly inside an in-reader `<dialog>` modal or explore the complete collection here.
+To keep the main novel tightly focused on **Jordan's lived perspective** and the immediate emotional momentum of his found family inside **Suite 214/216**, background administrative email threads, inter-agency transit filings, and alternate-POV staff dossiers have been preserved here as standalone archival documents. Whenever you encounter a **Backstage Dossier** callout or link while reading on [`books.raggiesoft.com`](https://books.raggiesoft.com/aubrie), you can preview these records directly inside an in-reader preview window or explore the complete collection here.
 
 ---
 
