@@ -8865,11 +8865,99 @@ Pulling my phone quietly from my lap pouch without saying a word about any of th
 
 *Saw the concrete trucks today, Staff Member Wesley—Sunny, Pebble, Katie, and I are super proud of you.*
 
+### Part 10: Staff Member Wesley's Reply, Proving It When Nobody Was Looking, & Full Speaking Terms
+
+**Date:** 2017-05-21 at 14:00 America/New_York
+
+![Inside the sunlit living room on Arvin Road in May 2017 beside Chelsea's glowing sixty-gallon painted-turtle tank, thirty-five-year-old Cousin Chelsea in modest coral-pink fleece loungewear hugs plush Shelly Turtle and waves joyfully alongside Brittany while twins Katie and Nathaniel Prairie sit hub to hub in their black SwiftChairs tapping knuckles toward an angled widescreen television showing a live two-way family video call from Maplewood, Minnesota with thirty-year-old Staff Member Wesley holding up his miniature Virginia toy city bus beside Heather and Dan Lindstrom.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/may_2017_arvin_road_video_call_full_speaking_terms_wesley_chelsea.jpg)
+
+#### Saturday Evening & Sunday Afternoon, May 20–21, 2017 — The Miniature Bus on the Maplewood Table & Katie's Realization
+
+Barely four minutes had ticked past on the living-room clock Saturday afternoon after I sent my congratulatory note up to Minnesota when my phone buzzed twice in rapid succession against my palm.
+
+First came a burst of four bright icons tapped straight onto the screen by thirty-year-old Wesley himself—two solid blue circles, a white construction hard hat, a green turtle, and a city bus—followed immediately by a crisp kitchen-table snapshot Dan had clearly just taken on his phone in Maplewood.
+
+Sitting proudly in his embroidered forest-green *North Lion Scales & Tails — Animal Care Staff* polo shirt with his white hard hat resting beside his elbow, Wesley was grinning from ear to ear while holding up two things side by side: a neat wax-paper square of freshly torn romaine lettuce, and that exact three-inch blue-and-white miniature die-cast Virginia city bus Katie and I had handed him across the table at Emerald Creek Mall on June twenty-eighth of 2003—still spotless after fourteen years, carried right in his pocket to the concrete pour for good luck.
+
+Ten seconds behind Wesley's photo, three rapid typing bubbles appeared and burst open from Heather:
+
+*Wait a second, Nate... how on earth did you and Katie even see our groundbreaking video?! I never once told you Dan and I ran a StreamTube channel—and who are Sunny and Pebble?!*
+
+Sitting beside the sofa while Chelsea happily hummed to Shelly Turtle in front of our aquarium, I showed my phone screen to Katie and Brittany, snapped a quick photo of Sunny and Pebble basking under our fail-safe thermostat lamp, and typed back the plain truth: that Katie and I had stumbled onto *North Lion Scales & Tails* by sheer random luck in August of 2007 when the channel had barely three hundred views while wiring the twelve-volt thermostat relay for our office networking closet, that our rescued cousin Chelsea watched Dan's hands-only tutorials every single afternoon to care for her turtles, and that until the tripod panned left twenty minutes ago, neither of us had possessed the faintest clue on earth that *nice glove man* was Heather's husband.
+
+Before Heather could even finish typing her astonished reply, a second notification popped up right underneath: *Wesley tapped the Video Call icon — Tomorrow afternoon at 2:00 PM?*
+
+The next afternoon at a quarter to two on Sunday, while Brittany helped Chelsea arrange fresh romaine squares on a plate in the kitchen and set up the webcam atop our angled living-room television, Katie and I paused hub to hub just inside our office doorway beside the louvered networking closet where the whole ten-year loop had quietly begun.
+
+"Are you sure you feel ready to take the wall all the way down, Katie?" I asked softly, lacing my left fingers through my sister's right hand across our armrests. "For eleven months we kept everything to four-line text check-ins so neither of us ever had to worry about getting hurt again."
+
+Katie looked up at our framed *Prairie Twin Interactive, LLC* certificate on the wall, glanced at the gray thermostat wire disappearing neatly into the networking closet jamb, and turned her blue eyes straight into mine with total, unclouded certainty.
+
+"Do you remember what Heather asked us through tears under the crape-myrtle trees on graduation day when we were eighteen, Nate?" Katie asked quietly.
+
+"Every word," I admitted. "She asked if there was anything at all she could do to prove to the two of us that she had learned from her mistake."
+
+"And back when we were eighteen—especially before we saw how good manipulators like Brandon and Tiffany were at faking kindness whenever they knew we were watching—neither you nor I believed there *was* any safe way for somebody to prove that," Katie said gently, squeezing my hand twice. "Think about what we just watched yesterday, bro. For ten straight years, Heather had zero idea you and I were anywhere near that channel. When she thought nobody from Virginia would ever see a frame of it, she named her life's work after Northwood Lions, typed closed captions by hand on hundreds of videos, put her building on a public bus line with thirty-inch wheelchair glass, raised her own disabled twins side by side without ever separating them, and put Wesley on the staff. She spent ten years proving she learned her lesson when nobody was looking. We don't need our armor up with her anymore, Nate."
+
+Something tight that had lived behind my breastbone since Monday morning, January sixth of 2003 quietly unknotted for good. Nodding once at my twin sister, I released my brake alongside hers and rolled out into the sunlit living room just as the two-o'clock video chime rang.
+
+***
+
+#### Sunday, May 21, 2017, 2:00 PM — Answering Our Closet Question & Checking the Virginia Legislative Calendar
+
+![Inside the sunlit living room on Arvin Road in May 2017 beside Chelsea's glowing sixty-gallon painted-turtle tank, thirty-five-year-old Cousin Chelsea in modest coral-pink fleece loungewear hugs plush Shelly Turtle and waves joyfully alongside Brittany while twins Katie and Nathaniel Prairie sit hub to hub in their black SwiftChairs tapping knuckles toward an angled widescreen television showing a live two-way family video call from Maplewood, Minnesota with thirty-year-old Staff Member Wesley holding up his miniature Virginia toy city bus beside Heather and Dan Lindstrom.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/may_2017_arvin_road_video_call_full_speaking_terms_wesley_chelsea.jpg)
+
+The first ten minutes of that live connection between Virginia Beach and Maplewood were pure, unfiltered chaos of the happiest kind on earth.
+
+The instant the high-definition window connected on our angled living-room television, thirty-year-old Wesley leaned eagerly into the center of the Minnesota frame in his crisp green *Staff* polo, held up his smooth blue silicone ring and his miniature Virginia city bus, let out a joyful two-note cheer at seeing Katie and me move in real time after fourteen years, and tapped the back of his knuckles twice toward his webcam while I smiled and tapped my right knuckles twice right back toward ours.
+
+"N-nice glove man! You got a beard!" thirty-five-year-old Chelsea gasped in delight from our tan sofa in her coral-pink fleece pullover, holding plush green Shelly Turtle high with one hand and waving enthusiastically with the other. "Look! Look over there—that's Sunny an' Pebble! Nate wired the safe-box light just like your basement movie!"
+
+Up in Maplewood, thirty-two-year-old Dan Lindstrom threw his head back and laughed with genuine, openhearted delight—every syllable matching the patient Minnesota voiceover we knew by heart—while eleven-year-old Jonas cheered happily beside his smiling, silent twin sister Nora and eight-year-old Molly waved with both hands.
+
+"Well, this beats every coincidence on the internet!" Dan grinned, leaning closer to the microphone beside Heather and Wesley. "Heather told me last night that two software developers in Virginia who subscribed back when I only had three hundred views in 2007 turned out to be Nate and Katie Prairie! Wait—Brittany, if you carry your tablet over by your tank, Wes and Molly want to show Chelsea our mama painted turtle up close down in the turtle room!"
+
+"Let's go show Wes our basking dock, Chelsea!" Brittany smiled warmly behind her silver glasses, unclipping our portable tablet synced to the call's secondary camera so she and Chelsea could kneel comfortably right beside Sunny and Pebble's glass down at the other end of the room while Dan, Wesley, Jonas, Nora, and Molly trooped excitedly toward their basement habitat stairs with their handheld tablet.
+
+For five quiet minutes, that left just Katie and me parked hub to hub in front of the living-room screen—and thirty-two-year-old Heather sitting alone at her sunlit Maplewood dining table thirteen hundred miles away, tucking a strand of chestnut hair behind her ear with shy, misty hazel eyes.
+
+"Hi, Katie. Hi, Nate," Heather said softly—her real live voice warm and unguarded, zero script between us. "Thank you both for letting Wes call today. Seeing him laugh with your cousin Chelsea like that... you have no idea what that means to him."
+
+"Seeing him in that green *Staff* shirt yesterday meant the world to us too, Heather," Katie answered warmly, before glancing once at me and speaking with quiet thirty-two-year-old honesty. "Actually, while the others are showing off the turtles, there's something Nate and I wanted to tell you out loud so neither of us carries it around unspoken anymore."
+
+Heather folded her hands attentively on her tabletop. "Anything, Katie."
+
+I swallowed once, keeping my left hand anchored warmly in my sister's fingers, and met Heather's eyes directly.
+
+"In the two years after your family moved back home to Minnesota—first when Katie dated that guy in Williamsburg who threw Wesley's postcard in the trash and grabbed her wrist, and then for almost a whole year when I dated a girl in Ocean View who shoved our wheelchairs and screamed at us until we hid in a hallway closet every night—Katie and I lay awake in the dark more times than we can count asking each other if we had made the wrong decision saying no to you in 2003," I told her plainly and gently. "Because compared to real cruelty, Heather, you were never a bad person. Even on your worst morning at seventeen, you were never anything like them—and for years we wondered if our fear had made us shut the door on someone good."
+
+Up on the screen in Maplewood, Heather's breath caught softly; two bright tears welled along her lower lashes, and she pressed her fingertips briefly against her lips before looking straight back at both of us with deep, steady tenderness.
+
+"Oh, Nate... Katie, I hate with my whole heart that either of those two ever laid a hand on your chairs or scared you into closets," Heather whispered thickly, shaking her head. "Please listen to me, both of you, okay? You *didn't* make the wrong decision protecting each other back in 2003. Having to live with the fact that my temper cost me the trust of two people I cared about so much is the exact thing that forced me to grow up—and three years later, when Jonas and Nora were born five weeks early unable to speak a single word, everything the two of you taught me in high school—including never letting pride or outsiders' noise come before your safe person—is how I knew how to fight for my twins and be Wes's guardian."
+
+Heather offered a small, tear-bright, deeply honest smile that acknowledged every ounce of our shared history without pretending seventeen hadn't hurt—because both of us knew down in our bones that on occasional quiet afternoons for the rest of our lives, a stray memory of what once was would still bring a brief, tender wave of sadness to each of us, even inside lives we loved.
+
+"Besides," Heather added softly, glancing warmly toward the sunny corner of our living room where Brittany was laughing behind her glasses with her arm around Chelsea beside the turtle tank, "if our roads hadn't gone the way they went, Dan and I wouldn't have Jonas, Nora, and Molly running down our stairs right now—and you and Katie wouldn't have Brittany and Chelsea safe and happy right behind you. Saying no to being teenagers together didn't mean we couldn't grow up and be real friends for the rest of our lives."
+
+Beside me, Katie smiled through a warm shimmer in her own eyes. "Full speaking terms from here on out, Heather—real phone numbers, real street addresses so Wesley can finally get real Virginia bus postcards in your mailbox again, and zero walking on eggshells."
+
+"Deal," Heather beamed, wiping her cheek happily just as Dan, Wesley, Molly, Jonas, and Nora came trooping triumphantly back into the Maplewood frame holding a thriving western painted turtle up for Chelsea to cheer at.
+
+Before we hung up twenty minutes later—right after trading our real Arvin Road mailing address and cell numbers—Dan leaned forward beside Heather and Wesley with a wall calendar in his hand.
+
+"One huge question before we let you guys go eat supper!" Dan said brightly. "Our contractor says with Minnesota winter weather in the middle, framing the brick walls, curing a hundred custom habitats, and passing zoo inspections puts our official Grand Opening and Ribbon-Cutting Ceremony right in late spring or early summer of next year—2018. Katie, Heather already told me how seriously you take never missing a single vote in Richmond, so tell us right now when the Virginia General Assembly is completely out of session next year! We want all four of you—Katie, Nate, Brittany, and Chelsea—right up front with us when Wes helps cut that ribbon!"
+
+Katie's whole face lit up beside me.
+
+"Even-numbered years in Virginia are sixty-day sessions that adjourn *sine die* the second week of March, plus one single-day Reconvened Session in mid-April, and 2018 isn't a legislative election year in Virginia," Katie answered without even needing to check a planner. "Any Saturday in June of 2018, my legislative calendar is one hundred percent clear."
+
+"Then mark Saturday, June sixteenth, 2018 in ink right now!" Heather laughed warmly as thirty-year-old Wesley rocked with pure excitement beside her and tapped the webcam air twice. "Because *North Lion Scales & Tails* isn't cutting a single inch of ribbon until our Virginia family rolls off the Route 64 bus out front!"
+
 # Across the Rotunda: The Senate of Virginia
 
-## Watching Senator Ward Kill Our Bills Across the Rotunda & The 250-Signature Petition
+## Watching Senator Ward Kill Our Bills Across the Rotunda, The 250-Signature Petition, & Cutting the Ribbon on Route 64 in Maplewood
 
-### Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule
+### Part 1: Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule
 
 **Date:** 2018-02-22 at 15:10 America/New_York
 
@@ -8970,6 +9058,68 @@ Three weeks later, after seeing our first internal poll and watching volunteers 
 Instead, the majority party establishment poured over a million dollars in corporate PAC money behind Senator Ward's handpicked successor—a wealthy commercial real-estate attorney who immediately attacked Katie's regional transit plan as a "socialist giveaway to inner-city buses."
 
 With Dad and Brittany walking beside our SwiftChairs every sunny weekend holding the legal-sized petition clipboards, Chelsea beaming in her sun hat as she handed royal-blue campaign stickers to families waiting at the Route 20 and Route 25 shelters, and me checking every signer's street address across both the Virginia Beach and Norfolk voter rolls on my laptop, we turned in eight hundred and twenty-four verified voter signatures to the State Board of Elections in March 2019—more than triple the two-hundred-and-fifty-signature statutory requirement—qualifying Katie unopposed as the Democratic Nominee for the Seventh Senate District.
+
+### Part 2: Route 64 to Maplewood, Seeing Wesley in Person After Fifteen Years, & The Earned Hug at the Ribbon Cutting
+
+**Date:** 2018-06-16 at 09:45 America/New_York
+
+![Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level share a massive, deeply emotional, earned two-armed hug—watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins holding his blue silicone ring and miniature Virginia toy city bus alongside Dan, Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg)
+
+#### Saturday, June 16, 2018, 9:45 AM CDT — Zero Missed Votes in Richmond & Stepping Off Route 64 in Maplewood
+
+*"Maryland and White Bear — Maplewood Plaza approach. Transfer here for North Lion Zoo."*
+
+Under a crystal-blue seventy-four-degree Minnesota June sky—with the 2018 Virginia General Assembly safely adjourned *sine die* back in March and April's one-day Reconvened Session two full months behind us so Katie hadn't missed a single committee docket or floor vote in Richmond—the low-floor Twin Cities Transit Route 64 coach hissed smoothly to the curb and kneeled straight down onto a brand-new, extra-wide concrete ADA bus pad poured thirty feet in front of a gleaming single-story red-brick-and-glass building.
+
+Across the architectural fascia above the zero-step automatic sliding doors shone crisp forest-green dimensional lettering—*NORTH LION SCALES & TAILS — REPTILE ZOO & SUPPLY*—framed by a wide ceremonial green satin *GRAND OPENING* ribbon stretched between two brass stanchions ahead of the ten-thirty public crowd.
+
+"All four StarPasses tapped cleanly on the 54 from the airport and the 64 right to the front sidewalk—zero stairs from Virginia Beach to Maplewood!" thirty-three-year-old Katie grinned beside me as the hydraulic front flip-ramp settled flat against the concrete and Brittany stepped down first to steady thirty-six-year-old Chelsea's elbow while Chelsea hugged plush green Shelly Turtle excitedly against her summer lavender pullover.
+
+Before my front caster wheels even reached the bottom of the bus ramp, an unmistakable, booming two-note vocal cheer rang out across the sunny Minnesota sidewalk ten feet ahead of us.
+
+Standing squarely behind the yellow curb strip—not hunched in fear the way sixteen-year-old Wesley had stood waiting for southbound Route 15 outside Emerald Creek Mall fifteen summers ago, his shoulders tall and proud inside a crisp forest-green polo shirt embroidered *NORTH LION SCALES & TAILS — ANIMAL CARE STAFF*—was thirty-one-year-old Wesley Collins.
+
+In his left hand he held his smooth blue silicone ring right alongside that exact miniature blue-and-white Virginia toy city bus from 2003, plus the laminated postcards we had mailed back and forth every month over the past year.
+
+Rolling straight off the ramp hub to hub with Katie on my left, I braked right in front of him, looked up into the shining brown eyes of the boy who had tried so hard across a laminate mall table fifteen years ago to understand he would never see his first guy friend in person again, and held my right hand out steady at waist height.
+
+"Hey there, Staff Member Wesley," I said, my voice catching thickly around the biggest grin on earth. "Told you we'd ride the bus to come see your zoo."
+
+Wesley let out a jubilant, laughing vocal burst that made people setting up folding chairs by the entrance turn and smile, rocked twice on his clean sneakers, and reached down to tap the back of my real, physical knuckles twice—solid, warm, and unmistakably real after fifteen years—before tapping Katie's offered hand twice, tapping Brittany's hand once, and bowing proudly at waist level to introduce himself to Shelly Turtle in Chelsea's arms!
+
+"Hi, big brother Wes!" Chelsea beamed, holding Shelly Turtle's green plush flipper out to tap Wesley's little Virginia toy bus gently. "Sunny an' Pebble sent you turtle kisses from Virginia!"
+
+***
+
+#### Saturday, June 16, 2018, 9:55 AM CDT — Fifteen Years in the Making: A Massive, Earned Hug
+
+![Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level share a massive, deeply emotional, earned two-armed hug—watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins holding his blue silicone ring and miniature Virginia toy city bus alongside Dan, Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg)
+
+Through the wide automatic glass doors behind the green satin ribbon stepped Dan and Heather Lindstrom—thirty-three years old now, Dan in a crisp green zoo polo walking beside their twelve-year-old fraternal twins Jonas and Nora, who stayed shoulder to shoulder with their inner hands linked just like Katie and me, and almost-ten-year-old Molly carrying three pairs of giant ceremonial ribbon-cutting scissors against her chest, while Heather wore a tailored forest-green blazer over a cream blouse and jeans.
+
+Dan warmly shook Katie's hand, Brittany's hand, and mine first (*"Welcome to Minnesota, you four—the original three-hundred-view club gets VIP turtle privileges for life!"*), while Molly proudly introduced Jonas and Nora to Chelsea and Shelly Turtle.
+
+Then Heather stepped forward onto the sunlit concrete plaza right in front of Katie's SwiftChair and mine.
+
+Seeing her in three dimensions in broad June daylight—not across a parking-lot bus loop at Northwood High, not trembling in a purple graduation gown under crape-myrtle trees, and not backed two feet away from a mall pretzel table like an outsider—sent a quiet, breathtaking stillness across the five feet between us.
+
+True to every single lesson she had carried in her bones for fifteen years, Heather didn't lean down uninvited or reach toward either wheelchair without asking. Instead, right there on the clean concrete plaza in front of her brand-new building, thirty-three-year-old Heather knelt smoothly down on one knee so her hazel eyes were dead-even at seated level with Katie and me, opened both arms gently six inches from my armrest so the choice belonged one hundred percent to us, and looked straight into my eyes with bright, unshed tears shining along her lashes.
+
+"Fifteen years is a really long time, Nate," Heather whispered softly. "If you want one... may I give you and Katie a real hug?"
+
+I didn't hesitate for half a heartbeat.
+
+Clicking my joystick power button off, I flipped my padded right armrest straight up out of the way, leaned forward in my seat, and wrapped both of my arms all the way around Heather's shoulders—and Heather wrapped both of her arms tightly around mine, holding on in a massive, fierce, ten-second hug that carried zero false teenage promises and every single ounce of fifteen hard-earned years of growing up, surviving, forgiving, and making good.
+
+Three feet to our right, thirty-one-year-old Wesley clapped both hands around his blue ring and his little toy bus and let out the happiest, purest vocal cheer of his entire life—rocking joyfully on his sneakers beside a grinning Dan as he finally, *finally* got to see Nate and Heather hug it out under open sky.
+
+When Heather eased gently back, wiped both cheeks with a laugh that sounded half twenty-seventeen and half sophomore autumn, and leaned sideways at Katie's invitation to share a warm, genuine two-armed hug with my twin sister too, not a single person on that Maplewood sidewalk had dry eyes—least of all Brittany, who was dabbing openly underneath her wire-rimmed lenses beside a beaming Chelsea.
+
+"Come inside before the ten-thirty ribbon crowd lines up down the block!" Molly announced proudly, holding out two extra pairs of shiny ceremonial scissors—one for Katie, and one for Staff Member Wesley. "Wes and Chelsea get to feed the painted turtles first before we cut the ribbon!"
+
+Rolling hub to hub through the wide zero-step glass doors into a sunlit conservatory that smelled of clean cedar bark, warm river stone, and fresh filtered water—where every single turtle pond and terrarium sat behind crystal-clear thirty-inch viewing glass at exact seated wheelchair height, and where Jonas and Nora immediately fell right into formation beside Katie's wheels and mine while Staff Member Wesley proudly handed Chelsea a wax-paper square of uniform bite-sized romaine—a deep, settled peace filled my chest from wall to wall.
+
+Even across the years still ahead of us, both Heather and I were human enough to know there would still be rare, quiet afternoons when a passing December song or an old photograph stirred a brief, private ache of sadness for the boy and girl we once were at seventeen. Standing inside that sunlit Minnesota sanctuary watching Brittany steady Chelsea's elbow beside Staff Member Wesley while Katie compared transit maps with Dan and Molly, however, neither Katie nor I had to wonder anymore why our road had stayed in Virginia—because every single soul we loved was safe, home, and standing right here in the light together.
 
 ## Flipping the Seventh Senate District, The Mahogany Senate Ramp, & Madam Chair
 
