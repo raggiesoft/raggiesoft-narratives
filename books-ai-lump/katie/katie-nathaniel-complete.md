@@ -8046,7 +8046,7 @@ Inside quiet Room 518 five floors above Capitol Square, Katie and I let out one 
 
 Fourteen years after Smoker's Corner had stolen our cousin away across an uncut curb, Tyler was never going to hurt Brittany again—and in five short weeks, our cousin was coming home.
 
-## Keeping Our High-School Promise, Rescuing Cousin Chelsea From Mount Regalis, & Out of the Closet Into Our Four-Person Nest
+## Keeping Our High-School Promise, A Cautious Message Request on The Grid, Rescuing Cousin Chelsea From Mount Regalis, & Out of the Closet Into Our Four-Person Nest
 
 ### Part 1: Sine Die, Welcoming Brittany Home to Arvin Road, Route 20 to the Coastal Adult Learning Center, & Three Cousins in the Closet
 
@@ -8164,7 +8164,96 @@ Katie turned her SwiftChair sharply toward Dad and me, her blue eyes blazing wit
 
 "Seven-thirty bedtime in May, 'purple papers' for King's College, and Chelsea wheezing without her rescue inhaler while that man cuts the line off after ninety seconds," Katie said flatly. She looked across the table at Brittany, at Dad, and at me. "We aren't calling ahead next month so Mr. Sterling can rehearse her at the wall phone. We have Brittany right here under our roof now, we have Prairie Twin Interactive paying the bills, and Dad has vacation days saved up in July. We're driving Dad's wheelchair van straight up Interstate 95 to Braxton unannounced—and we're bringing our cousin home."
 
-### Part 2: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'
+### Part 2: A Filtered Request on The Grid, What Tyler's Lie Cost All of Us, & A Very Cautious Reply
+
+**Date:** 2016-06-04 at 14:20 America/New_York
+
+![Inside Katie and Nathaniel Prairie's sunlit dual-desk home office on Arvin Road in June 2016 beneath their framed Prairie Twin Interactive, LLC certificate and beside their louvered networking closet, thirty-one-year-old fraternal twins Katie and Nate sit side by side in matching black SwiftChair power wheelchairs holding inner hands while reading a cautious filtered Grid Messenger request on Nate's angled monitor as thirty-one-year-old Cousin Brittany Fletcher stands beside Katie's shoulder in thin silver wire-rimmed oval glasses and a burgundy cardigan with one empathetic hand over her heart.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2016_arvin_road_office_grid_message_request_brittany_katie_nate.jpg)
+
+#### Saturday, June 4, 2016, 2:20 PM — The Hidden *Message Requests* Link & Thirteen Years in One Window
+
+"Okay, last batch of May receipts reconciled to the penny, and zero constituent voicemails left waiting in the Eighty-Fifth District queue," Brittany announced contentedly at twenty past two on Saturday afternoon, tucking her blue bookkeeping ledger binder under one arm inside our twelve-by-twelve office on Arvin Road and adjusting her thin silver wire-rimmed oval glasses as she stepped over beside Katie's left shoulder. "Before I put the kettle on for iced tea and we map out Uncle David's July vacation week for Braxton, do either of you have anything hiding in your spam folders?"
+
+"Just clearing out the automated Grid notifications from February that I muted during session," I said from the right half of our light-oak dual desks, listening to the gentle, steady whisper of our networking closet's exhaust fan cycling behind its louvered door three feet to my right.
+
+Ever since Katie's House Bill 663 floor speech had gone viral across the country four months earlier, I had kept my personal profile on The Grid locked down tight—friends-only posts, zero public contact fields, and notifications muted for anyone outside our small circle of family and transit advocates.
+
+Right as my cursor drifted up to close my Grid Messenger sidebar, I noticed a tiny, easy-to-miss gray link tucked beneath the search bar that I hadn't clicked open once all spring: *Message Requests — 1 Filtered*.
+
+On The Grid, whenever someone who isn't on your Friends list sends a message without trying to add you as a friend first, the system doesn't chime your phone or flash a red badge on your main inbox. It drops the note silently into *Message Requests*—and until you deliberately click the blue *Accept* button at the bottom of the pane, the sender never even sees a read receipt showing you opened it.
+
+Expecting an out-of-district reporter fishing for a quote about Katie, I clicked the gray link once.
+
+Every muscle in my chest locked completely still.
+
+Sitting alone in the preview pane beneath a small circular avatar showing snow-covered Minnesota pine trees—dated Saturday, March twenty-sixth, ten weeks earlier, just twelve days after the General Assembly had adjourned *sine die*—was a single message from *Heather Lindstrom (Heather Collins)*.
+
+Beside me, Katie felt my left hand go rigid across our inner armrests before I even let out a breath. Releasing her joystick brake, my twin sister rolled her SwiftChair flush against my left wheel and leaned sideways so her eyes tracked the angled widescreen monitor right beside mine, while Brittany paused behind Katie's shoulder at the sudden silence in the room.
+
+> **From:** Heather Lindstrom (Heather Collins)<br>
+> **Sent:** Saturday, March 26, 2016, 8:14 PM<br>
+> <br>
+> Hi Nate (and Katie) — this is Heather Collins from Northwood (Heather Lindstrom now). I deliberately didn't send a friend request because I never wanted to barge across your boundary uninvited, and please know right up front that you don't owe me a reply at all.<br>
+> <br>
+> Back in February, my cousin Wes (he just turned twenty-nine!) happened to walk past our living-room TV right when the national news aired Katie's speech in Richmond and panned across both of you side by side. I wish you could have seen his face, Nate. Ever since our postcards stopped getting through back in 2004 after my Aunt Linda's medical crisis moved Wes and me into an apartment in Saint Paul, Wes has been quietly sad every holiday when no bus postcards came in the mail. Seeing both of you safe and healthy on TV made him happier than I've seen him in years—he cheered out loud, ran straight to his dresser for Aunt Linda's framed 2001 Annie's Pretzels photo and the little toy bus you gave him, and kept mimicking a computer keyboard trying to understand what Katie does in that big wood-paneled room until I explained she helps make the rules for Virginia's buses and buildings now.<br>
+> <br>
+> I've lived back home here outside Saint Paul ever since 2003. Wes lives permanently with us under my guardianship and conservatorship, and my husband Dan and I have been married ten years now with three kids of our own—ten-year-old fraternal twins Jonas and Nora (who are severely disabled and each other's safe person, much like the two of you taught me long ago) and our seven-year-old daughter Molly—while Dan and I run local school nature-education programs here in the Twin Cities.<br>
+> <br>
+> Again, if you'd rather leave this sitting in requests and never answer, I completely understand and I promise I will never message again. Wes just kept tapping my laptop twice every weekend until I promised him I'd let both of you know he still has your bus on his dresser and is so proud of you. Wishing you both nothing but good things. — Heather
+
+![Inside Katie and Nathaniel Prairie's sunlit dual-desk home office on Arvin Road in June 2016 beneath their framed Prairie Twin Interactive, LLC certificate and beside their louvered networking closet, thirty-one-year-old fraternal twins Katie and Nate sit side by side in matching black SwiftChair power wheelchairs holding inner hands while reading a cautious filtered Grid Messenger request on Nate's angled monitor as thirty-one-year-old Cousin Brittany Fletcher stands beside Katie's shoulder in thin silver wire-rimmed oval glasses and a burgundy cardigan with one empathetic hand over her heart.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2016_arvin_road_office_grid_message_request_brittany_katie_nate.jpg)
+
+For ten full seconds after my eyes reached the bottom line, nobody in our sunlit office moved.
+
+Thirty-one years old, safe in our own home on Arvin Road with a thriving software business and my sister sitting in the Virginia House of Delegates, I still felt that familiar, unmistakable wave of quiet sadness rise right up behind my ribs—the exact bittersweet ache that had hit me every single time Heather Collins crossed my mind since I was seventeen, even reading that she was happily married with a family of her own thirteen hundred miles away.
+
+Standing beside Katie's headrest, Brittany pressed her free hand softly over her sternum as her eyes finished scanning the screen behind her wire-rimmed lenses.
+
+"Wait a second," Brittany whispered, her voice dropping an octave as all the pieces clicked together in front of her at once. "Heather Collins... from January of senior year. That's the girl Tyler bragged on our wedding morning about lying to in homeroom."
+
+"Yeah," Katie answered quietly, squeezing my hand tight while looking up gently at our cousin. "And Wesley is her developmentally disabled younger cousin. Nate was the very first guy friend Wesley ever had."
+
+Brittany slowly pulled our rolling office stool over beside Katie's left wheel and sat down at eye level with us, all the color draining from her cheeks behind her silver glasses as she looked back at the screen and then at me.
+
+"I knew from that awful Saturday morning in Richmond that Tyler made up a lie to break you and your high-school girlfriend up, Nate," Brittany said thickly, real tears springing into her lower lashes as the full, thirteen-year blast radius settled over her. "Until I just read that paragraph right now, I didn't understand how many people he actually hurt. Because of that party I dragged us to on New Year's Eve, Tyler broke your heart at seventeen, broke an innocent sixteen-year-old boy's heart who never did a thing wrong, scared the two of you so badly away from trusting people that Brandon and Tiffany got their hooks into you, and then Brandon tore up Wesley's Saint Paul postcard so Wesley spent twelve straight years checking his mailbox wondering why his friend stopped writing."
+
+Brittany's voice cracked, and she wiped swiftly beneath the bottom rim of her glasses with two fingers. "God, Nate... one ugly lie out of Tyler's mouth cost all of you thirteen years."
+
+Neither Katie nor I let that sit on Brittany's shoulders for even three seconds.
+
+Katie immediately reached her left hand out to grip Brittany's knee while I leaned across Katie's lap to rest my free right hand warmly over Brittany's wrist.
+
+"Hey—look at me, Cous," I told her firmly and gently. "You didn't stand in Homeroom 212 and tell that lie, Brittany. Tyler did. You didn't slam a locker without listening, and you didn't rip Wesley's postcard in half in Williamsburg. Tyler is sitting in a prison hospital bed for what *he* chose to do, and you're right here at home with us where you belong."
+
+"Every single word of that," Katie backed me up fiercely, giving Brittany's hand two steady squeezes until Brittany let out a long, shaky breath and nodded gratefully.
+
+Turning her head back toward the glowing message pane—where the blue *Accept* button and gray *Ignore* button still sat untouched at the bottom so zero read receipt had crossed the internet—Katie looked quietly into my eyes.
+
+"What is your gut telling you, Nate?" Katie asked softly. "Not what Wesley wants, and not what Heather wants. What do *you* feel safe doing?"
+
+I looked back at that snow-covered pine tree icon for a long moment, feeling both halves of the truth at once: the memory of whispering inside Brandon's and Tiffany's dark closets wishing Heather hadn't been gone, right alongside the permanent instinct never to hand anyone unguarded access to our lives again.
+
+"Let's not click either button today," I said carefully. "She waited ten weeks without sending a single follow-up message pushing us. Let's leave the window closed tonight, talk it through in the closet when everything's quiet, and decide tomorrow morning with clear heads."
+
+***
+
+#### Sunday, June 5, 2016, 10:45 AM — Strict Boundaries & Two Knuckle Taps Across Thirteen Hundred Miles
+
+Sleeping on it inside our quiet bedroom closet—tucked side by side in our wide flannel-lined sleeping bag with Brittany's pillow right next to Katie's and mine—took every trace of panic out of the decision.
+
+By quarter to eleven on Sunday morning, after pancakes and bacon at the kitchen table, Katie, Brittany, and I rolled and walked right back into our office together knowing the exact shape of the boundary we wanted to set: polite, honest, warm toward Wesley, and very, very cautious. No street addresses, no phone numbers, no rushing into daily small talk or rehashing high school—just enough open air on Grid Messenger from time to time so twenty-nine-year-old Wesley knew his first guy friend had never forgotten him.
+
+Sitting hub to hub with Katie holding my left hand and Brittany standing warmly beside us, I clicked *Accept Request* and typed four calm, measured sentences that Katie and I read over twice together before hitting send:
+
+> Hi Heather — thank you for waiting and for keeping the message zero-pressure; this only just showed up in my filtered requests folder yesterday. Please tell Wesley right away that Katie and I never stopped wanting to send him postcards: a bad housemate we lived with briefly in Williamsburg threw away incoming mail in the summer of 2004 before we got out, and when we mailed a fresh card to your Aunt Linda's address that fall after getting home, the post office returned it stamped Unable to Forward.<br>
+> <br>
+> Please give Wes two firm taps on the knuckles from Katie and me, tell him you explained Katie's job in Richmond exactly right—she rides the buses to the Capitol to help make the rules for buses and buildings so nobody gets left behind—and tell him we're really glad he still has his little bus. We're glad to hear you, Dan, Wes, Jonas, Nora, and Molly have a happy, settled life back home in Minnesota, and it's fine to say hello on Messenger here from time to time. — Nate & Katie
+
+Twenty minutes later, while Katie and I were opening a spreadsheet of Rhode Island probate statutes for next month's drive north to rescue Cousin Chelsea, one single, quiet reply chimed softly in the corner of my monitor—no prying questions, no nostalgia trip, just Heather writing back in two brief lines that twenty-nine-year-old Wesley had just beamed from ear to ear, tapped his knuckles twice against his palm, and gone straight to tell Dan and the kids that his Virginia bus buddies were okay.
+
+Closing the Messenger tab cleanly so our office went right back to our Sunday morning routine—with that quiet, familiar trace of bittersweetness lingering gently beneath my breastbone—I squeezed Katie's hand across our armrests and turned back to our plans to bring Cousin Chelsea home.
+
+### Part 3: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'
 
 **Date:** 2016-07-18 at 13:40 America/New_York
 
@@ -8278,7 +8367,7 @@ Katie closed the certified court copy folder with a crisp, decisive snap and rea
 
 "Tomorrow morning at nine o'clock," Katie said quietly, "King's College is going to explain to a Braxton judge why they told a court of law that our cousin had nobody in the world who loved her."
 
-### Part 3: Ten Minutes in Braxton Probate Court, Forcing Open the Royal Gate With a Sheriff's Escort, & Goodbye to Newport Over I-895
+### Part 4: Ten Minutes in Braxton Probate Court, Forcing Open the Royal Gate With a Sheriff's Escort, & Goodbye to Newport Over I-895
 
 **Date:** 2016-07-19 at 09:00 America/New_York
 
@@ -8346,7 +8435,7 @@ For one glorious, unhurried hour on the sunny waterfront boardwalk of Perotti Pa
 
 Then we rolled back up Dad's minivan ramp, buckled in together, took Interstate 895 West—signed *SOUTH*—back across both bay bridges to Interstate 95 South, and drove Chelsea all the way home to Virginia Beach.
 
-### Part 4: Tagless Puffer-Pocket Pajamas, Gentle Reminders, Fear of 'Group Home Two-Face,' & Four Cousins Crammed Into One Closet
+### Part 5: Tagless Puffer-Pocket Pajamas, Gentle Reminders, Fear of 'Group Home Two-Face,' & Four Cousins Crammed Into One Closet
 
 **Date:** 2016-07-21 at 20:45 America/New_York
 
@@ -8456,7 +8545,7 @@ Yet two minutes after the closet doors settled into place, Chelsea let out the l
 
 "All four of us, Chelsea," I whispered, resting my cheek gently against Katie's blonde hair on my left while Brittany reached her warm arm across Katie's shoulders to squeeze my forearm under our giant zipped-together sleeping bag. "Nobody is ever snatching you away again."
 
-### Part 5: Eighty Cramped Nights on Closet Plywood, Building Our Four-Person Oak Bed, The Twelve-Minute Try, & Thanksgiving's Forty-Five-Minute Milestone
+### Part 6: Eighty Cramped Nights on Closet Plywood, Building Our Four-Person Oak Bed, The Twelve-Minute Try, & Thanksgiving's Forty-Five-Minute Milestone
 
 **Date:** 2016-10-14 at 21:00 America/New_York
 
@@ -8560,7 +8649,7 @@ Brittany didn't say *I told you so*—she simply beamed from ear to ear, reached
 
 When darkness fell at ten o'clock that Sunday night, thirteen and a half years of nighttime habit still pulled the four of us back inside our closet sleeping bag one more week. Yet as I lay on that hard closet carpet listening to my twin sister and our two cousins breathing beside me, I knew in my bones that the closet door didn't own the rest of our lives anymore.
 
-### Part 6: Safe From the Dark and 'Group Home Two-Face,' Rolling Up Our Closet Sleeping Bag, & Our First Full Night in the Four-Person Nest
+### Part 7: Safe From the Dark and 'Group Home Two-Face,' Rolling Up Our Closet Sleeping Bag, & Our First Full Night in the Four-Person Nest
 
 **Date:** 2017-02-11 at 21:30 America/New_York
 
