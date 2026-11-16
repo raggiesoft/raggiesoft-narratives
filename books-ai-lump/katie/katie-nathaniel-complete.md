@@ -9551,6 +9551,210 @@ Watching Wesley hold up his blue silicone ring with a joyous two-note hum while 
 
 "Think about that, Nate," my twin sister murmured, lacing her fingers warmly through mine as Dad rested a proud hand on each of our shoulders. "Fifteen years after seventeen-year-old you and Heather didn't end up together at Northwood High... your cousin and her cousin just turned Virginia Beach and Maplewood into one family for life anyway."
 
+## MSP to RIC, Deep-Pressure Hugs at Bayshore Town Center, & Wesley Meeting Sunny and Pebble on Arvin Road
+
+### Part 1: MSP to RIC, Sensory Overload at the Coastal Virginia Convention Center, & Deep-Pressure Hugs at Bayshore Town Center
+
+**Date:** 2018-10-12 at 10:15 America/New_York
+
+![On a sunlit wooden courtyard bench under golden October maple trees at open-air Bayshore Town Center in Hampton, Virginia on Friday midday, October 12, 2018 with the white sail-peaked roof of the Coastal Virginia Convention Center rising in the distance, thirty-six-year-old Chelsea in her plum-lavender fleece jacket with plush Shelly Turtle resting unguarded beside her holds overwhelmed thirty-one-year-old Wesley Collins close in a grounding deep-pressure embrace—watched warmly by Uncle David Prairie beside the Harbor Bakery & Grill lunch patio, Brittany, and Katie and Nathaniel Prairie holding hands in their black SwiftChairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2018_hampton_bayshore_town_center_deep_pressure_hug_wesley_chelsea_lunch.jpg)
+
+#### Friday, October 12, 2018, 10:15 AM — MSP to RIC, Trusted-Friend Hugs at Booth 412, & Dan and the Kids' First Morning in Virginia
+
+Soaring white sail-cloth canopy peaks billowed bright against a crisp sixty-eight-degree Tidewater October sky as Dad parked our accessible ramp van in the blue-striped bay outside the Coastal Virginia Convention Center off Mercury Boulevard in Hampton.
+
+Four months of Sunday four-o'clock living-room video dates and four monthly stamped postcard swaps had flown past since Father's Day—and the second our four sets of wheels and sneakers glided across the polished terrazzo lobby into Exhibit Hall B for the Friday opening morning of the Mid-Atlantic Captive-Bred Reptile and Exotic Pet Expo, thirty-six-year-old Chelsea spotted the forest-green banner three aisles ahead of any of us.
+
+"There's *My Sweet Wes*!" Chelsea gasped happily, her eyes shining bright as she walked briskly alongside Brittany and Dad with plush green Shelly Turtle tucked casually under just one elbow.
+
+Behind the double folding tables of Vendor Booth 412—neatly arrayed with *North Lion Scales & Tails*'s custom twelve-volt fail-safe digital thermostat kits, whisper-quiet silicone filter grommets, and audited captive-bred care guides, with zero stressed zoo animals hauled onto an airplane while Dr. Meyer and their full-time Maplewood staff looked after the zoo back home for four days—stood Dan, Heather, and thirty-one-year-old Staff Member Wesley in their crisp forest-green *North Lion* polos, khakis, and smooth magnetic name tags for opening morning, right beside twelve-year-old Jonas, twelve-year-old Nora, and ten-year-old Molly.
+
+The instant Wesley looked up from straightening a row of thermostat boxes and saw Chelsea walking down the concrete aisle toward him, his whole face lit up like sunrise.
+
+Stepping straight around the corner of Booth 412, thirty-one-year-old Wesley cupped his right hand smoothly over the back of his left hand like a rounded turtle shell, tapped his open palm twice directly over his own heart—*My Turtle-Heart!*—and opened both arms wide as Chelsea stepped happily into a warm, two-armed Friday morning hug!
+
+And two steps behind Wesley, thirty-three-year-old Heather didn't walk on eggshells for a tenth of a second either.
+
+Stepping straight out from behind the booth table with a bright, easy autumn grin—fifteen years of old teenage ghosts thoroughly laid to rest back in that Maplewood classroom in June, leaving the two of us reestablished as genuinely good, trusted friends where warm friendly hugs were always welcome—Heather bent smoothly to seated eye level and shared an unhurried, wholehearted friend hug right with me in front of Dan, Dad, Katie, and the whole aisle.
+
+"Look how easy that is now—no airport security stanchions required!" Heather laughed warmly as we eased back, offering Katie a fond smile six inches clear of Katie's armrest before turning to hug fifty-nine-year-old Dad in person for the first time since we were seventeen. "It is so good to see you in person, David!"
+
+"Welcome back to Virginia, Heather—and welcome to the Commonwealth for the very first time, Dan, Jonas, Nora, and Molly!" Dad beamed, shaking Dan's hand heartily while Molly grinned from ear to ear beside her older brother and sister.
+
+"First time any of the four of us has ever set foot in Virginia!" Dan chuckled, gesturing proudly toward Jonas and Nora—who stood shoulder to shoulder holding inner hands as Jonas hummed a cheerful three-note greeting to Katie and me. "Our flight out of MSP into Richmond International landed ten minutes early yesterday afternoon, we loaded our vendor crates into the rental van right at the terminal, and Molly counted forty-two green exit signs all the way down Interstate 64!"
+
+"Plus bridges over actual navy ships!" ten-year-old Molly reported wide-eyed to Brittany and Katie. "Wait till tonight after five o'clock when we get to drive *underneath* the bay to Virginia Beach so Wes can meet Sunny and Pebble!"
+
+***
+
+#### Friday, October 12, 2018, 11:35 AM — Echoing Steel Trusses & Sensory Overload Inside Exhibit Hall B
+
+At ten-thirty, the convention center security staff rolled back the main steel lobby grilles to let the general Friday crowd pour inside—and within forty-five minutes, cavernous Exhibit Hall B sounded completely different from the quiet, cedar-mulched acoustic sanctuary Heather had engineered back in Maplewood.
+
+Overhead, forty-foot exposed steel ceiling trusses bounced every scraping aluminum hand-truck, every shrieking roll of packing tape, every barking public-address raffle announcement, and two thousand simultaneous conversations straight back down onto bare concrete floors without a single sound-absorbing panel in sight. Three booths down the row, a lighting vendor clicked on a spinning rack of bright halogen demo bulbs while two middle-school field-trip groups crowded eight-deep along the narrow aisle, jostling backpacks right past the edge of Booth 412.
+
+Parked beside Katie's SwiftChair near the endcap of the booth, I saw thirty-one-year-old Wesley flinch before anyone in the crowd noticed.
+
+First his fingers tightened hard around the blue silicone ring in his right hand. Ten seconds later, as a piercing feedback squeal crackled out of the ceiling PA horn directly above Aisle Four, Wesley clapped both palms flat over his ears, his shoulders hunched nearly to his jaw, his breathing turned fast and shallow, and—stepping hastily back behind the green table skirt—he dropped onto a folding camp chair and pressed both hands flat down against his thighs.
+
+His exact Pause Signal from our Four Ground Rules.
+
+Heather spotted it within two heartbeats, kneeling immediately beside Wesley's knee with a pair of cushioned ear defenders from their sensory bag while Dan smoothly stepped across the front of the table to shield him from the aisle crowd.
+
+Even with the ear defenders slipped over his ginger hair, though, Wesley's wrists were trembling visibly—hemmed in on three sides by echoing concrete roar, fluorescent glare, and two thousand strangers.
+
+"Heather," Katie said calmly right beside me, rolling six inches closer to the side curtain of Booth 412 with Dad, Brittany, and a deeply concerned Chelsea right behind us. "Open-air Bayshore Town Center is literally right across Mercury Boulevard—quiet brick sidewalks, maple trees, zero ceiling echo, and outdoor patio tables. With your permission as Wes's guardian, what if Dad, Brittany, Chelsea, Nate, and I take Wes out of this echo chamber right now for fresh air and a quiet lunch, and bring him back rested right before you close up for Friday night?"
+
+Heather looked from Wesley's tight, overwhelmed shoulders up into Dad's steady eyes and Chelsea's gentle face, and pure relief washed straight across her features.
+
+"Oh, thank God—yes, *please*," Heather breathed gratefully, turning back to catch Wesley's eyes at calm, unhurried pace. "Hey, Wes—look at me for one second. Dan, Molly, the twins, and I have the booth covered. Do you want to leave the loud hall right now and go walk outside under the quiet trees at Bayshore Town Center with Chelsea, Nate, Katie, Brittany, and Uncle David?"
+
+Still keeping the cushioned ear defenders over his ears, Wesley looked straight past the crowded aisle toward thirty-six-year-old Chelsea—who stood two feet away with Shelly Turtle tucked under one arm and her right hand held open gently without crowding him—and nodded twice so earnestly my chest squeezed tight.
+
+***
+
+#### Friday, October 12, 2018, 12:05 PM — Under the October Maples at Bayshore Town Center: Pressing Frayed Nerves Back Together & Lunch on Uncle David
+
+![On a sunlit wooden courtyard bench under golden October maple trees at open-air Bayshore Town Center in Hampton, Virginia on Friday midday, October 12, 2018 with the white sail-peaked roof of the Coastal Virginia Convention Center rising in the distance, thirty-six-year-old Chelsea in her plum-lavender fleece jacket with plush Shelly Turtle resting unguarded beside her holds overwhelmed thirty-one-year-old Wesley Collins close in a grounding deep-pressure embrace—watched warmly by Uncle David Prairie beside the Harbor Bakery & Grill lunch patio, Brittany, and Katie and Nathaniel Prairie holding hands in their black SwiftChairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2018_hampton_bayshore_town_center_deep_pressure_hug_wesley_chelsea_lunch.jpg)
+
+Ten minutes later, the roaring steel echo of the convention hall might as well have been on another planet.
+
+Under a canopy of golden-amber October sugar maples inside a quiet brick pedestrian courtyard off the main promenade of open-air Bayshore Town Center—with only the white sail-cloth peak of the convention center visible far back above the treetops, zero ceiling trusses trapping sound, and a gentle salt breeze drifting inland off Hampton Roads—thirty-one-year-old Wesley sat down on a wide sunlit wooden bench, slid the ear defenders off into Dad's bag, and stared down at his hands while residual static tremors still rippled through his shoulders.
+
+Katie and I braked our SwiftChairs quietly several feet back along the brick path beside Dad and Brittany so nobody crowded his air.
+
+Walking unhurriedly over to the bench, thirty-six-year-old Chelsea didn't chatter loud or hover over him. Instead, she sat down close on Wesley's left, set plush green Shelly Turtle down completely unguarded on the warm wooden slats beside her hip so both of her hands were free, and looked softly at his tense shoulders.
+
+"Loud buzzers make my tummy an' shoulders shake all spiky like that too, *My Sweet Wes*," Chelsea said in the gentlest, steadiest voice imaginable—remembering eight long years of slamming doors and barking voices on Mount Regalis, and how Katie, Brittany, and I held her tight in our four-person cuddle nest whenever thunder rattled the windows. "When Katie an' Nate an' Brittany hold me real firm an' close, all the spiky static goes away. Can I give you a steady turtle squeeze right now?"
+
+Wesley lifted his brown eyes, let out a shaky, grateful single-note hum, and leaned straight toward her.
+
+Closing the last inch between them on the wooden bench, Chelsea wrapped both plum-lavender arms tightly and squarely around Wesley's shoulders and upper back while Wesley wrapped both of his strong arms just as tightly around hers—not a fleeting two-second pat, but a true, firm, immovable deep-pressure hug—closing his eyes and exhaling a long, ragged breath he had been holding for an hour as every knotted muscle down his neck and spine let go.
+
+Across thirty-one years of life, non-verbal Wesley had regulated himself with solitary rocking, neat wax-paper squares of romaine, his smooth blue silicone ring, and quick two-tap knuckle salutes across polite arm's-length gaps. Right there on that sunlit Hampton courtyard bench, Wesley learned for the very first time how much deep-pressure hugs and close grounding holds from Chelsea meant to him—because you could literally watch the frayed, static-shocked nerves of *both* of them pressing cleanly, steadily back together into one calm, unbreakable circuit.
+
+After almost a full quiet minute beneath the rustling golden leaves, Wesley let out the deepest, warmest, most contented two-note hum any of us had ever heard from him.
+
+When they finally lifted their heads with matching peaceful smiles, Wesley tapped his palm twice softly over his steady chest so Chelsea knew what her hold had just done for him—and instead of pulling his hands back into his lap, thirty-one-year-old Wesley laced his warm fingers straight through Chelsea's hand and kept holding on.
+
+"Feel all calm inside, *My Turtle Boyfriend*?" Chelsea whispered happily.
+
+Wesley squeezed her hand twice—*two squeezes, safe, right here*—and beamed.
+
+"Tell you what, crew," Dad said warmly beneath the forest-green patio umbrella of *Harbor Bakery & Grill* right behind them, where two wicker baskets of warm turkey-and-cheddar paninis, hot salted soft pretzels, and four-cup rounds of chilled spiced apple cider were already waiting on the table, "lunch out here in the fresh autumn sunshine is one hundred percent on Uncle David—grab a chair and dig in!"
+
+Sitting around that quiet brick patio table together—watching thirty-one-year-old Wesley eat his warm salted pretzel with his right hand because neither he nor Chelsea had the slightest intention of unlinking their other hands—Katie gave my fingers two happy squeezes across our armrests, both of us knowing neither one of them would ever have to weather loud storms alone again.
+
+### Part 2: Ahead of Friday's Closing Bell, Under the Bay to Virginia Beach, & Wesley Meeting Sunny and Pebble on Arvin Road
+
+**Date:** 2018-10-12 at 16:35 America/New_York
+
+![Inside the warm living room at 737 Arvin Road in Virginia Beach on Friday evening, October 12, 2018, thirty-one-year-old Wesley Collins in his forest-green North Lion T-shirt, blue jeans, and magnetic WESLEY badge and thirty-six-year-old Chelsea in her plum-lavender pullover stand shoulder to shoulder holding inner hands as Chelsea feeds Sunny and Pebble beside their green foraging ball and green-framed instant photo—watched happily by Katie and Nathaniel in their black SwiftChairs, trusted friend Heather laughing warmly beside them with Jonas, Nora, and Molly, and David, Dan, and Brittany near the set dinner table.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2018_arvin_road_wesley_meets_sunny_and_pebble_virginia_beach_dinner.jpg)
+
+#### Friday, October 12, 2018, 4:35 PM — Returning Rested Ahead of Friday Closing & Diving Underneath the Chesapeake Bay
+
+Twenty-five minutes ahead of the five o'clock Friday expo closing bell—right after the loud school buses had pulled out of the parking lot and the afternoon hall crowd had thinned to a quiet trickle—Katie, Dad, Brittany, Chelsea, and thirty-one-year-old Wesley rolled and walked back across the lobby of the Coastal Virginia Convention Center, with Wesley and Chelsea still swinging their linked inner hands comfortably between them.
+
+Looking up from packing demo pamphlets at Booth 412, thirty-three-year-old Heather took one look at Wesley's completely relaxed shoulders, his bright brown eyes, and his fingers laced securely through Chelsea's, and let out the happiest sigh of relief on the Peninsula.
+
+"Look at the two of you!" Heather beamed, stepping out from behind the table to share another warm, natural friend hug with me before glancing admiringly from Wesley to Chelsea. "Not a trace of hall static left anywhere—you look like a brand-new man, Wes!"
+
+Wesley let out a proud, cheerful two-note hum, gave Chelsea's hand two gentle squeezes before unlinking just long enough to help Dan zip the green canvas dust-covers neatly over their display racks for Friday night, and ducked into the Lindstroms' adjacent Hampton hotel suite for five quick minutes so he could swap his stiff collared vendor polo and khakis for his softest Friday casual uniform—crisp blue jeans and his favorite forest-green *NORTH LION* lion-emblem T-shirt with his smooth magnetic *WESLEY* badge—while Heather slipped into a cozy autumn olive sweater and jeans for dinner.
+
+By five-fifteen, our two-van family caravan was rolling east onto Interstate 64 toward the water—Dad driving Katie, Brittany, Chelsea, and me in our accessible ramp van up front, and Dan piloting Heather, Wesley, Jonas, Nora, and Molly right behind us.
+
+Ten minutes later, as our headlights swept out onto the low concrete trestle spanning the sparkling autumn whitecaps of Hampton Roads—flanked half a mile to port by two gray Navy aircraft carriers moored along the Norfolk piers before the highway plunged straight down between the artificial stone portal islands into the white-tiled underwater tube of the Hampton Roads Bridge-Tunnel—my phone chimed on speaker with Molly's breathless ten-year-old voice calling from the back seat of Dan's van:
+
+"Miss Katie! Mister Nate! There is an actual submarine tugboat floating *on top of the ceiling* above our van right now! Jonas has been humming so happy since the toll plaza he hasn't blinked once!"
+
+"Wait till we pop back up into daylight on the Willoughby Spit side, Molly," Katie laughed warmly into the speakerphone as Chelsea giggled beside Brittany in our middle row. "Twenty minutes down Interstate 64 and Military Highway from the south portal, and you're officially in Virginia Beach!"
+
+***
+
+#### Friday, October 12, 2018, 6:05 PM — Wesley Meets Sunny and Pebble in Person, Dinner for Eleven on Arvin Road, & Heading Back to Hampton for the Night
+
+![Inside the warm living room at 737 Arvin Road in Virginia Beach on Friday evening, October 12, 2018, thirty-one-year-old Wesley Collins in his forest-green North Lion T-shirt, blue jeans, and magnetic WESLEY badge and thirty-six-year-old Chelsea in her plum-lavender pullover stand shoulder to shoulder holding inner hands as Chelsea feeds Sunny and Pebble beside their green foraging ball and green-framed instant photo—watched happily by Katie and Nathaniel in their black SwiftChairs, trusted friend Heather laughing warmly beside them with Jonas, Nora, and Molly, and David, Dan, and Brittany near the set dinner table.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2018_arvin_road_wesley_meets_sunny_and_pebble_virginia_beach_dinner.jpg)
+
+Stepping over the zero-step front threshold of our single-story brick ranch on Arvin Road—the exact living room thirty-three-year-old Heather hadn't stood inside since she was seventeen years old, welcomed across the doorway tonight by Dad, Katie, and me with zero ghosts and one hundred percent warmth as a lifelong family friend—thirty-one-year-old Wesley didn't even pause to look at the coat rack.
+
+His eyes went straight across the carpet to the glowing sixty-gallon glass habitat resting on its thirty-inch solid-oak stand—where, right on the front left corner of the wood trim, sat Chelsea's green-framed instant snapshot from Maplewood!
+
+"Come meet my turtles in real life, *My Sweet Wes*!" thirty-six-year-old Chelsea beamed, setting plush Shelly Turtle unguarded atop the cool corner of the screen canopy so she could lace her left fingers right back through Wesley's right hand while picking up her smooth feeding tongs with her free hand.
+
+As if Sunny and Pebble recognized Wesley's voice—or at least his forest-green *NORTH LION* shirt—from sixteen consecutive Sunday afternoon video calls on the adjacent television screen, both Tidewater painted turtles paddled full-tilt across the sunlit-lamp water straight up to the front glass!
+
+Sunny immediately showed off by nudging his emerald-green Maplewood foraging ball right against the water's surface, while Pebble paddled eagerly beside him waiting for Chelsea's tongs to dip a crisp, uniform bite-sized romaine square into the water.
+
+Wesley let out a ringing, jubilant two-note laugh, pointed proudly with his free right index finger from the green-framed Maplewood photo to Sunny crunching his romaine leaf in real three-dimensional water, and squeezed Chelsea's linked inner hand twice while Jonas, Nora—standing shoulder to shoulder holding inner hands right at seated wheelchair eye level—and Molly crowded happily beside Katie's SwiftChair and mine to watch!
+
+"Look at the silicone grommets under that cabinet manifold and the probe placement on your twelve-volt fail-safe relay, David," Dan marveled appreciatively from behind us, grinning over at Dad and Brittany beside the set oak dining table. "That might be the cleanest home painted-turtle build east of the Mississippi!"
+
+"Hey, we learned from a pretty solid Minnesota channel back when it only had three hundred views," I grinned back over my shoulder—making Heather burst out laughing right behind my SwiftChair, so completely at ease inside our home that it felt like we had been hosting family dinners together for years.
+
+For the next two hours around our extended oak dining table—loaded high by Dad and Brittany with lemon-herb roasted chicken, sweet-potato mash, warm buttered rolls, crisp garden salad, and cinnamon apple crisp—eleven people from two states talked, laughed, traded transit-bus stories, and watched thirty-one-year-old Wesley and thirty-six-year-old Chelsea sit shoulder to shoulder at the center of the table, happily trading glances and passing the roll basket without a trace of shyness left in the room.
+
+When eight-forty-five rolled around on the living-room wall clock—with two full weekend days of the Hampton expo still ahead on Saturday and Sunday morning, and twelve-year-old Jonas and Nora starting to blink sleepy-eyed against Molly's shoulder—Dan gathered up the kids' jackets so their crew could head back across the Bridge-Tunnel to their hotel in Hampton for a full night's sleep.
+
+Right inside our front foyer, Heather gave me another warm, lingering trusted-friend hug (*"Best Friday night in Virginia we ever could've asked for, Nate—see you guys tomorrow!"*), shook Dad's and Brittany's hands, and smiled warmly at Katie—while beside the front door, Wesley signed *My Turtle-Heart* over his chest and wrapped Chelsea in a calm, steady, five-second deep-pressure goodnight hug that left both of them smiling peacefully all the way out to the driveway.
+
+### Part 3: Inseparable Across Saturday and Sunday, Zero Guarding Left Between Them, & Seeing the Lindstroms Off at RIC
+
+**Date:** 2018-10-13 at 10:30 America/New_York
+
+![Inside the sunlit red-brick-and-glass departure atrium of Richmond International Airport on Monday morning, October 15, 2018 outside the Security Checkpoint stanchions, thirty-one-year-old Wesley Collins and thirty-six-year-old Chelsea with plush Shelly Turtle tucked unguarded inside her open canvas hip tote hold each other tightly in a full two-armed deep-pressure goodbye hug on the right while trusted lifelong friends Heather Lindstrom and Nathaniel Prairie hug each other tightly with both arms beside Katie on the left, with David, Brittany, Dan, Jonas, Nora, and Molly watching warmly behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2018_ric_airport_unguarded_handholding_and_understanding_goodbye_wesley_chelsea.jpg)
+
+#### Saturday & Sunday, October 13–14, 2018 — Side by Side All Weekend Long: Nicknames in Broad Daylight & Neither One Guarding Themselves
+
+Across Saturday morning and Sunday afternoon—while Dan, Heather, and ten-year-old Molly worked a brisk, joyful Saturday-and-Sunday rush at Booth 412 selling out of twelve-volt fail-safe thermostat kits and handing out *North Lion Scales & Tails* Maplewood postcards—thirty-one-year-old Wesley and thirty-six-year-old Chelsea wanted nothing more in the world than to be right at each other's side, hugging and holding hands.
+
+Instead of pushing Wesley back into the echoing steel roar of Exhibit Hall B during peak afternoon crowds, both families settled into an effortless two-state rhythm: Wesley proudly helped Dan and Heather restock Booth 412 during the quiet, low-sensory nine-o'clock vendor setup hour each morning before the main doors opened, and at ten-fifteen sharp Dad, Katie, Brittany, Chelsea, and I met him at the side glass lobby doors to spend the sunny autumn afternoons strolling the brick courtyards of Bayshore Town Center, riding a quiet afternoon loop on a low-floor CVTA bus so Wesley could admire Virginia's blue-and-gold livery in person, and gathering back on Arvin Road each evening with Dan, Heather, Jonas, Nora, and Molly for pizza, turtle lettuce prep, and movies.
+
+Sitting hub to hub with Katie beside the sunlit courtyard fountain on Sunday afternoon while Wesley and Chelsea shared a warm bench twenty feet ahead of us, Brittany leaned forward with her elbows on her knees and whispered something all five of us had been quietly noticing since Saturday morning.
+
+"Look at the two of them, guys," Brittany murmured softly behind her wire-rimmed lenses. "Really look at their posture."
+
+Katie's blue eyes followed mine across the sunlit bricks—and my breath caught quietly in my chest.
+
+Neither Chelsea nor Wesley was guarding themselves anymore.
+
+For the first two full years after we brought Chelsea home from Rhode Island, whenever she stepped onto a public sidewalk or sat in a restaurant, thirty-six-year-old Chelsea had kept plush green Shelly Turtle pressed flat across her solar plexus with both forearms—a gentle, polite fabric shield between her body and a world that had spent eight years bossing her around and grabbing her wrists. Today, Shelly Turtle rode tucked casually inside the open canvas tote hanging from her shoulder, leaving her chest and arms completely open and unguarded as she leaned warmly against Wesley's side, swinging their intertwined fingers in plain view of every passerby and calling out happily, *"Look at the little yellow bird in the maple tree, My Sweet Wes!"*
+
+And thirty-one-year-old Wesley—who for half his life in noisy public places had walked with his chin tucked low, his shoulders rolled inward to shrink his six-foot frame, and one hand buried deep in his pocket gripping his blue silicone ring for dear life—sat tall, square-shouldered, and completely relaxed in his weekend blue jeans and green *North Lion* tee. Every twenty minutes or so, just because he felt like it, Wesley turned his head toward Chelsea, cupped one hand smoothly over the back of the other like a little turtle shell, tapped twice over his heart—*My Turtle-Heart!*—and opened his arms whenever either one of them wanted a slow, steady, ten-second deep-pressure hug right there in the autumn sunshine.
+
+"Two years ago Arthur Sterling swore in a probate filing that Chelsea couldn't handle ordinary community life," Katie said quietly beside me, her voice fierce and misty all at once. "And look what happens the second two people get treated with dignity and find somebody who speaks their language."
+
+***
+
+#### Monday, October 15, 2018, 9:50 AM — Seeing the Family Off at Richmond International Airport: Sad Tears, Steady Hearts, & Understanding
+
+![Inside the sunlit red-brick-and-glass departure atrium of Richmond International Airport on Monday morning, October 15, 2018 outside the Security Checkpoint stanchions, thirty-one-year-old Wesley Collins and thirty-six-year-old Chelsea with plush Shelly Turtle tucked unguarded inside her open canvas hip tote hold each other tightly in a full two-armed deep-pressure goodbye hug on the right while trusted lifelong friends Heather Lindstrom and Nathaniel Prairie hug each other tightly with both arms beside Katie on the left, with David, Brittany, Dan, Jonas, Nora, and Molly watching warmly behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2018_ric_airport_unguarded_handholding_and_understanding_goodbye_wesley_chelsea.jpg)
+
+Morning sun poured through the tall arched brick-and-glass windows of the departure concourse at Richmond International Airport on Monday morning—where Dad, Katie, Brittany, Chelsea, and I had driven up Interstate 64 alongside Dan's rental van so we could walk the entire Lindstrom crew all the way to the Security Checkpoint stanchions before their eleven-fifteen flight back to MSP.
+
+After Dan checked their packed vendor display cases at the counter and Jonas, Nora—linked inner-hand to inner-hand beside Molly—traded happy three-note hums and two-squeeze goodbyes with Dad and Brittany, thirty-three-year-old Heather stepped over to Katie's SwiftChair and mine in her olive autumn jacket.
+
+There was zero trace of fifteen-year-old sorrow or heavy unspoken history left anywhere between us now—only the easy, rock-solid warmth of two good, trusted lifelong friends whose families belonged in each other's lives for keeps.
+
+"Thank you for giving Dan and the kids the best first trip to Virginia we ever could've dreamed up—and for taking such wonderful care of Wes on Friday," Heather smiled warmly, bending smoothly down to share an unhurried, affectionate friend hug with me right beside Katie's warm smile. "Next trip, we're riding CVTA buses all the way to the Oceanfront!"
+
+"Hold you to that, Lindstrom," I grinned back, giving her shoulder a warm pat as she straightened up.
+
+Three paces to our right on the polished terrazzo floor in front of the security stanchions, thirty-one-year-old Wesley—dressed in an unbuttoned autumn plaid overshirt over his green *North Lion* T-shirt—and thirty-six-year-old Chelsea stood close face to face, with Shelly Turtle peeking cheerfully out of Chelsea's open canvas shoulder bag at her hip so neither one of them had a single barrier held between them.
+
+Neither of them pretended saying goodbye was easy.
+
+A single bright tear slipped over Chelsea's lower lashes onto her cheek, and Wesley's kind brown eyes glistened visibly as his lower lip trembled once—both of them feeling the honest, heavy ache of thirteen hundred miles stretching back open between Virginia Beach and Maplewood after seventy-two hours of holding hands whenever they wanted.
+
+Yet unlike sixteen-year-old Wesley standing heartbroken beside a mall pretzel table back in June of 2003—trying desperately to comprehend why his first friend on earth was vanishing forever—thirty-one-year-old Wesley and thirty-six-year-old Chelsea both *understood*.
+
+Keeping his left fingers intertwined warmly through Chelsea's hand, Wesley lifted his right hand, cupped it briefly in his turtle-shell sign, and pressed his open palm twice steadily over his own heart—*My Turtle-Heart*—before holding up six fingers and miming their living-room television screen: *six sleeps until Sunday afternoon!*
+
+Chelsea wiped her cheek with her free thumb, let out a watery, understanding smile, and nodded right back into his eyes.
+
+"Only six sleeps till Sunday at four o'clock, *My Sweet Wes*," Chelsea whispered bravely, stepping straight forward to wrap both arms around her *Turtle Boyfriend* for one more long, firm, nerve-steadying deep-pressure hug before easing gently back. "Sunny an' Pebble an' me will be waitin' right by the tank—an' my November first bus postcard is already picked out for you!"
+
+Wesley let out a soft, steady two-note hum of pure promise, squeezed Chelsea's hand twice, tapped my knuckles and Katie's knuckles twice in farewell, and walked tall and unguarded beside Heather, Dan, Jonas, Nora, and Molly through the Richmond security lane—turning once at the glass arch to tap his palm twice over his heart as Chelsea tapped hers right back, two safe harbors linked clear across the map.
+
 ## Flipping the Seventh Senate District, The Mahogany Senate Ramp, & Madam Chair
 
 ### Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair
