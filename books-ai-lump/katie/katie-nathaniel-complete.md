@@ -8066,7 +8066,7 @@ Inside quiet Room 518 five floors above Capitol Square, Katie and I let out one 
 
 Fourteen years after Smoker's Corner had stolen our cousin away across an uncut curb, Tyler was never going to hurt Brittany again—and in five short weeks, our cousin was coming home.
 
-## Keeping Our High-School Promise, A Cautious Message Request on The Grid, Rescuing Cousin Chelsea From Mount Regalis, & Out of the Closet Into Our Four-Person Nest
+## Keeping Our High-School Promise, A Cautious Request on The Grid, Rescuing Cousin Chelsea, Out of the Closet Into Our Four-Person Nest, & Chelsea's Turtle Tank Reveal
 
 ### Part 1: Sine Die, Welcoming Brittany Home to Arvin Road, Route 20 to the Coastal Adult Learning Center, & Three Cousins in the Closet
 
@@ -8730,6 +8730,140 @@ Brittany laughed softly into the quiet room, resting her cheek affectionately ag
 "Every single night for as long as it took, Cous," Brittany whispered back.
 
 And when Sunday morning sunlight filtered bright and gold around the edges of our curtains at eight-thirty the next day, all four of us woke up in that exact same embrace—out of the closet for good, and home together in our four-person nest.
+
+### Part 8: Chelsea's Living-Room Turtle Habitat, Two Friends for Shelly Turtle, & The Nice Glove Man on StreamTube
+
+**Date:** 2017-03-25 at 14:10 America/New_York
+
+![Inside the warm, sunlit living room on Arvin Road in March 2017 beside a low oak stand holding a crystal-clear sixty-gallon indoor painted-turtle habitat with basking stones and live plants, thirty-five-year-old Cousin Chelsea sits happily in modest sky-blue fleece loungewear on the tan sofa hugging plush green Shelly Turtle and pointing delightedly at an angled television playing a StreamTube video of black-nitrile-gloved hands arranging river slate with closed captions, while Brittany smiles beside a wax-paper plate of neat romaine squares and twins Katie and Nathaniel Prairie hold hands in their black SwiftChairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/mar_2017_arvin_road_chelsea_turtle_habitat_streamtube_hands_only.jpg)
+
+#### Saturday, March 25, 2017, 2:10 PM — Remembering Our 2007 Promise & Pressing Play for Chelsea
+
+"L-look, Nate! Look, Katie! Shelly Turtle got real swimmy friends!" thirty-five-year-old Chelsea cheered from the center cushion of our tan living-room sofa, working happily around her thick speech impediment as she bounced her heels twice against the carpet in her soft, tagless sky-blue fleece loungewear—both asthma inhalers tucked safely inside the front hip pocket Brittany had sewn onto her pullover—and held her beloved plush green sea turtle two inches from the sparkling tempered glass of our brand-new sixty-gallon aquarium.
+
+Parked hub to hub right beside the left arm of the sofa with our inner fingers laced warmly across our SwiftChair armrests, Katie and I grinned from ear to ear while Brittany sat beside Chelsea smoothing a stray chestnut curl off Chelsea's forehead and Dad stood behind us wiping a drop of conditioned aquarium water off his hands with a clean dish towel.
+
+Six weeks after the four of us had rolled up our retired closet sleeping bags for good and woken up together in our custom oak cuddle nest down the hall, watching Chelsea bloom inside a house where nobody ever barked at her or locked away her puffers felt like watching spring thaw out ten winters at once.
+
+Two Saturdays earlier, when Chelsea had lingered in front of a pet-supply display on Virginia Beach Boulevard mesmerized by a picture of an eastern painted turtle basking on wet bark, Katie and I hadn't even needed to finish a sentence before remembering the exact same thing from almost ten years ago: that warm August afternoon in 2007 when wiring the twelve-volt fail-safe thermostat relay for our office networking closet had dropped both of us by sheer random luck onto a tiny Minnesota StreamTube channel called *North Lion Scales & Tails*, and Katie had rested her cheek on my shoulder wishing Chelsea could have a real turtle tank right here in our living room.
+
+Over the decade since 2007, *North Lion Scales & Tails* had quietly grown from three hundred views in a basement into one of the most thorough, zero-drama reptile-and-amphibian care libraries on StreamTube—and in ten whole years, the camera rule had never changed once. Every single upload stayed locked on a steady tripod aimed strictly at the glass tank, the pond liner, the canister filter, or the thermostat relay. Viewers never saw a host's face, never saw a living room, and never got shouted at to smash buttons; all you ever saw were two calm, methodical hands in black nitrile work gloves building safe habitats step by step while that same friendly, rounded Upper-Midwest Minnesota man's voiceover explained the *why* behind every stone and wire above spotless, human-typed closed captions.
+
+For thirty-five-year-old Chelsea, those calm, predictable hands-only videos turned out to be pure magic.
+
+"P-put on nice glove man again, Nate?" Chelsea asked eagerly, tucking plush Shelly Turtle snugly into the crook of her elbow on the sofa and pointing toward the angled living-room television across the rug. "S-show Sunny an' Pebble how we made their warm rock!"
+
+"Coming right up, Cous," I laughed, picking up the living-room media remote from my lap tray—smiling faintly to myself because twenty minutes earlier back in our office, right before rolling out here for the afternoon, thirty-year-old Wesley up in Minnesota had checked in on Grid Messenger for the second time that week with his usual two blue circles and a bus icon after his birthday, and I had tapped two blue circles right back to him without a care in the world.
+
+***
+
+#### Saturday, March 25, 2017, 2:35 PM — Silicone Grommets, Fail-Safe Thermostats, & Neat Squares of Romaine
+
+![Inside the warm, sunlit living room on Arvin Road in March 2017 beside a low oak stand holding a crystal-clear sixty-gallon indoor painted-turtle habitat with basking stones and live plants, thirty-five-year-old Cousin Chelsea sits happily in modest sky-blue fleece loungewear on the tan sofa hugging plush green Shelly Turtle and pointing delightedly at an angled television playing a StreamTube video of black-nitrile-gloved hands arranging river slate with closed captions, while Brittany smiles beside a wax-paper plate of neat romaine squares and twins Katie and Nathaniel Prairie hold hands in their black SwiftChairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/mar_2017_arvin_road_chelsea_turtle_habitat_streamtube_hands_only.jpg)
+
+Clicking open our saved *Indoor Painted Turtle Build* playlist on the angled widescreen television filled the quiet living room immediately with the gentle trickle of filtered water and that familiar, unhurried Minnesota voiceover:
+
+*"Welcome back to the workbench, everybody. Before we introduce our two rescued painted turtles to their upgraded sixty-gallon tank, let's do one final safety walk-through on our basking-dock ramp angle, our silicone canister-filter grommets so the cabinet stays dead quiet for sensitive ears, and our external fail-safe thermostat relay..."*
+
+On the sofa, Chelsea leaned happily against Brittany's shoulder, her eyes tracking the black-nitrile-gloved hands on the television and then darting proudly six feet to the left—checking off every single matching piece inside our own low, thirty-inch-high oak-stand tank that Dad had leveled right at wheelchair and sofa height so none of us ever had to crane our necks up over a high rim.
+
+"W-we got quiet rubbers on the pump!" Chelsea announced proudly, pointing at the closed oak cabinet doors beneath our tank where the canister filter ran without a whisper of vibration. "N-no loud buzz!"
+
+"Zero buzz at all, Chelsea—Katie picked out the exact same silicone grommets from his parts list," Dad chuckled, pulling a dining chair over beside my right wheel with a tall glass of iced tea.
+
+"An' Nate put safe-box wire on the warm light so water never gets too hot!" Chelsea added, beaming over at me as our two rescued Tidewater painted turtles—*Sunny*, with bright yellow stripes along her neck, and *Pebble*, half an inch smaller with a smooth olive carapace—paddled side by side through the hornwort stems and hauled themselves effortlessly up the gentle cork-bark basking ramp under the golden lamp.
+
+"Same exact fail-safe relay model keeping our Linux servers cool down the hall since 2007," I smiled back at her, watching Pebble stretch all four webbed feet out beneath the basking bulb in total contentment.
+
+Up on the angled television screen, the video reached Chelsea's favorite thirty seconds at the end of every feeding tutorial: without speaking over the peaceful water sounds, a pair of clean, ungloved hands briefly entered the edge of the frame just long enough to set a neat square of bakery wax paper onto the dry slate feeding ledge—arranged with tidy, uniform, bite-sized green squares of crisp romaine lettuce—before pulling right back out of frame as the turtles ambled eagerly over to eat.
+
+Right on cue, Chelsea picked up a clean square of wax paper resting on the plate in Brittany's lap, carefully tore two washed leaves of dark-green romaine into neat, uniform bite-sized squares just like the hands on television, and walked steadily in her fleece socks over to the low open feeding hatch Dad slid back for her—setting the wax paper gently onto the dry slate ledge inside our tank.
+
+"Eat good greens, Sunny! Eat good, Pebble!" Chelsea whispered softly with a radiant, unhurried grin, kneeling comfortably on a thick foam cushion at eye level with the glass beside Katie's wheelchair and mine while Sunny walked right over to nibble the first green square. "Shelly Turtle says welcome home!"
+
+Across our inner armrests, Katie squeezed my left hand twice—both of us watching our thirty-five-year-old cousin glow with pure pride beside her thriving turtle tank, silently grateful from the bottom of our hearts to that anonymous, soft-spoken reptile guy up in Minnesota whose ten years of basement videos had helped make our home this happy.
+
+### Part 9: Pouring the Foundation on Route 64, Staff Member Wesley, & The Jolt Across Ten Years
+
+**Date:** 2017-05-20 at 15:15 America/New_York
+
+![Inside the sunlit living room on Arvin Road in May 2017 beside Chelsea's glowing sixty-gallon painted-turtle tank, thirty-five-year-old Cousin Chelsea claps joyfully on the sofa hugging plush Shelly Turtle alongside a stunned Brittany while twins Katie and Nathaniel Prairie grip hands tightly in their black SwiftChairs as an angled widescreen television plays North Lion Scales & Tails' outdoor Minnesota groundbreaking video—showing contractors in high-visibility vests pouring wet concrete from a mixer chute behind Dan Lindstrom, Heather Lindstrom, and thirty-year-old Wesley Collins beaming in white hard hats and forest-green zoo staff shirts.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/may_2017_arvin_road_north_lion_foundation_pour_reveal_jolt.jpg)
+
+#### Saturday, May 20, 2017, 3:15 PM — Concrete Mixers Instead of Black Nitrile Gloves
+
+"Ooh—new turtle movie, Nate! New turtle movie popped up!" Chelsea called out happily from the living-room sofa at a quarter past three on a warm Saturday afternoon in May, patting the cushion beside her in her soft lilac fleece pullover with plush green Shelly Turtle tucked securely against her chest while Sunny and Pebble basked side by side on their cork-bark dock three feet away.
+
+"Hold on two seconds, Chelsea—let Brittany set the pretzel bowl down before you spill ginger ale on Shelly's flippers," Brittany laughed behind her thin silver wire-rimmed oval glasses, placing a tray of warm salted pretzel twists and four coasters onto the honey-oak coffee table as Katie and I rolled our SwiftChairs out of our office hallway and parked hub to hub beside the left arm of the sofa.
+
+Picking up the living-room remote while lacing my left hand comfortably through Katie's right hand across our armrests, I glanced up at the brand-new upload banner sitting at the top of our StreamTube subscriptions feed from *North Lion Scales & Tails*:
+
+*BREAKING GROUND ON OUR PUBLIC REPTILE ZOO! (Pouring the Foundation & Finally Meeting Our Whole Crew!)*
+
+"Whoa—look at that title, Katie," I smiled warmly, genuinely pleased for the soft-spoken Minnesota hobbyist we had been watching since we were twenty-two. "After ten years of building tanks in his basement, the guy is actually building a real public reptile zoo."
+
+"Good for him—nobody on StreamTube earned it more honestly," Katie agreed, leaning back comfortably in her chair as I clicked play.
+
+Instead of the quiet indoor basement workbench and the familiar overhead shot of black nitrile gloves, the screen burst open in dazzling, wind-swept Minnesota spring sunshine.
+
+Right across an outdoor commercial lot bordered by budding green birch trees—thirty feet back from a concrete sidewalk and a blue-and-white *Twin Cities Transit — Route 64* curbside bus shelter—two massive revolving concrete mixer trucks stood backed up to wide, freshly framed wooden perimeter forms behind yellow caution tape. Across the compacted gravel bed, a crew of six concrete contractors in neon-yellow high-visibility vests, hard hats, and tall rubber boots worked in practiced unison—guiding the heavy steel chute as gray wet concrete surged smoothly into the barrier-free slab forms while two finishers pulled an aluminum screed straight across the pour.
+
+"Big cement truck! Look at the mud go!" Chelsea clapped with delight on the sofa.
+
+Over the low diesel rumble of the revolving mixer drum, that exact same warm, cheerful Upper-Midwest Minnesota man's voice Katie and I had known by ear since August 18, 2007 laughed into a clip-on lapel microphone just off camera:
+
+*"Hey there, everybody—don't adjust your monitors, you clicked the right channel! After ten full years of staring exclusively at my black nitrile gloves in our basement workshop, now that the contractors behind us are officially pouring the zero-step concrete slab foundation for the brick-and-glass home of North Lion Scales & Tails right here on Route 64 in Maplewood, Minnesota, we figured it was finally time to turn the tripod around so you can meet the family—and the staff—building this place!"*
+
+On the angled widescreen television, the tripod panned smoothly forty-five degrees to the left along the yellow safety ribbon.
+
+***
+
+#### Saturday, May 20, 2017, 3:18 PM — The First Time on Camera & Why It Got to Me So Hard
+
+![Inside the sunlit living room on Arvin Road in May 2017 beside Chelsea's glowing sixty-gallon painted-turtle tank, thirty-five-year-old Cousin Chelsea claps joyfully on the sofa hugging plush Shelly Turtle alongside a stunned Brittany while twins Katie and Nathaniel Prairie grip hands tightly in their black SwiftChairs as an angled widescreen television plays North Lion Scales & Tails' outdoor Minnesota groundbreaking video—showing contractors in high-visibility vests pouring wet concrete from a mixer chute behind Dan Lindstrom, Heather Lindstrom, and thirty-year-old Wesley Collins beaming in white hard hats and forest-green zoo staff shirts.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/may_2017_arvin_road_north_lion_foundation_pour_reveal_jolt.jpg)
+
+An actual physical jolt shot straight through Katie's hand and mine at the exact same millisecond—both of us stiffening so hard against our wheelchair backrests that Brittany's pretzel twist froze halfway to her mouth.
+
+Standing in front of the pouring concrete slab in a white hard hat and an embroidered forest-green *North Lion Scales & Tails* jacket was a broad-shouldered thirty-two-year-old man with a neat light-brown beard—*Dan*—wrapping one proud arm around the shoulders of the thirty-two-year-old chestnut-haired woman smiling warmly into the sunlight right beside him in a matching white hard hat and forest-green jacket.
+
+It was Heather.
+
+And standing half a step to Heather's left—taller and broader in the shoulders than the sixteen-year-old boy we had last seen in person across a laminate table at Emerald Creek Mall fourteen summers ago, wearing his own white hard hat and a crisp forest-green polo shirt embroidered across the chest with *NORTH LION SCALES & TAILS — ANIMAL CARE STAFF*, turning that exact same smooth blue silicone ring against his palm while rocking happily on his sneakers—was thirty-year-old Wesley Collins.
+
+"Nate..." Katie breathed barely above a whisper beside me, every trace of color leaving her cheeks for two heartbeats as both of our minds struggled to fuse ten years of faceless basement videos with the woman we hadn't laid eyes on since June twenty-eighth of 2003.
+
+Behind her thin silver glasses on the sofa, Brittany's eyes went wide as saucers, her hand flying silently to her lips as she read the name *Maplewood, Minnesota* on the construction permit sign behind them and connected *North* and *Lion*—*Northwood Lions*—for the very first time right alongside us.
+
+Up on the screen, completely oblivious to the shockwave detonating thirteen hundred miles away in our Virginia Beach living room, Dan beamed sideways at his wife while the concrete crew smoothed the wet gray corner behind them.
+
+*"First off, folks, meet my wife Heather—Heather Lindstrom,"* Dan told the camera warmly, while clean white closed captions marched across the bottom of the screen. *"For the last ten years, Heather has been the real brains behind the lens—filming every single habitat build, typing every closed-caption file by hand so deaf and hard-of-hearing keepers never got left out, naming North Lion after her old high-school mascot back in Virginia, and designing this entire floor plan from scratch right on the Route 64 bus line with wide aisles and thirty-inch wheelchair-height habitat glass so everybody can roll right up and see the turtles."*
+
+Heather blushed slightly in the Minnesota breeze—a thirty-two-year-old mother's settled, unhurried smile, yet carrying the exact crinkle around her hazel eyes I still remembered in my sleep—before turning half a step toward Wesley at eye level with zero baby talk and resting a proud hand lightly on her cousin's forearm.
+
+*"And right here beside me is my cousin Wes,"* Heather's real voice—warm, steady, and completely unchanged across fourteen years—came clearly through our living-room speakers, sending a shiver straight down my spine. *"If any of you longtime subscribers ever noticed those neat wax-paper trays of uniform bite-sized romaine lettuce squares at the end of our painted-turtle and tortoise videos over the past decade, those were Wes's handiwork. As soon as these walls go up and our doors open, Wes is officially joining our zoo team as part of our daily Animal Care and Greens Prep Staff!"*
+
+Right on camera in front of the pouring concrete foundation, thirty-year-old Wesley stood an inch taller in his green *Staff* polo, grinned from ear to ear, and reached his right hand forward toward the lens to tap the back of his knuckles twice in proud greeting—right before the camera widened three feet to show eleven-year-old fraternal twins Jonas and Nora sitting shoulder to shoulder holding inner hands, Jonas letting out a joyful vocal cheer at the spinning cement mixer while Nora smiled silently against his arm, beside their grinning eight-year-old little sister Molly!
+
+On the Arvin Road sofa three feet to my right, Chelsea didn't know a single thing about Northwood High School, Homeroom 212, or Emerald Creek Mall—all Chelsea saw was her beloved turtle narrator introducing his whole kind family.
+
+"L-look, Katie! Look, Nate!" Chelsea cheered, clapping both hands around Shelly Turtle with pure, radiant, unclouded joy. "Nice glove man has twin kids holdin' hands just like you an' Katie! An' big brother Wes cuts the turtle lettuce just like me!"
+
+"He sure does, Chelsea—just like you," Brittany answered gently, blinking back a sudden shimmer behind her glasses so not one shadow touched Chelsea's happiness on the couch.
+
+Beside the sofa arm, however, sitting motionless in my SwiftChair as the concrete finishers dragged their float across the wet Maplewood slab on screen, the reveal hit me straight in the center of my chest harder than I had braced for.
+
+For eleven months on Grid Messenger—even with Wesley tapping two blue circles to us two or three times every week—Heather had been safe, silent text inside a chat box. We hadn't had the faintest clue on earth that the Minnesota voice echoing through our office in 2007 and filling our living room every afternoon for Chelsea belonged to Heather's husband—or that every single detail of that barrier-free reptile zoo going up on a public bus line had grown straight out of two sixteen-year-olds rolling onto an Emerald Creek glass elevator sixteen autumns ago.
+
+I was proud of Wesley down to my bones—seeing my first guy buddy standing tall in his own green *Staff* shirt with a real job waiting for him—and I was genuinely glad for Heather, Dan, and their three kids. Yet watching Heather's real face move in the spring sunlight and hearing the actual timbre of her voice fill our living room after fourteen years still reached right past every year in between and pulled up that heavy, quiet, lifelong wave of sadness inside me—mourning the seventeen-year-old boy and girl who couldn't stay unbroken, even when everything around us now had turned out good.
+
+Katie didn't say a word out loud over the sound of Chelsea happily pointing out Jonas and Nora to Shelly Turtle. Feeling the quiet tightness in my fingers, my twin sister simply reached between our chairs with her free hand, flipped up our padded inner armrests, and leaned smoothly across the two-inch gap to rest her forehead against my left temple—wrapping her arm firmly around my shoulders in a silent five-second twin anchor until the sting behind my eyes settled back down to calm water.
+
+"You okay, bro?" Katie murmured so softly only I could hear her as she sat back, flipped our armrests down, and laced her fingers right back through mine.
+
+"Yeah," I whispered back honestly, watching thirty-year-old Wesley wave proudly in his white hard hat as the groundbreaking video faded out beside Sunny and Pebble's crystal-clear tank. "Really glad Chelsea loves their videos, Katie. And really proud of Wes."
+
+Pulling my phone quietly from my lap pouch without saying a word about any of the history to Chelsea, I opened Grid Messenger—right beneath the two blue circles Wesley had tapped to us on Thursday—and typed back two blue circles, a white hard hat, a green turtle, and one plain line for my buddy in Minnesota:
+
+*Saw the concrete trucks today, Staff Member Wesley—Sunny, Pebble, Katie, and I are super proud of you.*
 
 # Across the Rotunda: The Senate of Virginia
 
