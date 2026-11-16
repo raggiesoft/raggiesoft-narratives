@@ -9123,7 +9123,7 @@ When Heather eased gently back and wiped both cheeks with a laugh that sounded h
 
 ![Inside the bright, barrier-free public retail supply store of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-six-year-old Chelsea hugging plush Shelly Turtle sets a sealed jar of freeze-dried turtle river shrimp, calcium blocks, and a green floating foraging ball onto the lowered thirty-four-inch oak checkout counter while thirty-three-year-old Katie Prairie in her black SwiftChair insists on handing her debit card across to Dan, Heather, and Staff Member Wesley—all three dressed in matching forest-green collared polos, tan khakis, and magnetic name tags—as Molly hands over Zoo Wristband Tickets One through Four beside Nathaniel and Brittany.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_supply_store_turtle_treats_sale_0001.jpg#fullwidth)
 
-The second our four sets of wheels and sneakers glided over the zero-step threshold through the wide automatic front doors, Katie glanced warmly down the center aisle where two young team members stocking shelves wore the exact same forest-green collared *STAFF* polo shirts, tan khakis, and smooth pin-free magnetic name tags as Wesley, Heather, and Dan.
+The second our four sets of wheels and sneakers glided over the zero-step threshold as the wide biparting automatic sliding glass doors parted silently beneath their black motion-sensor bar, Katie glanced warmly across the polished concrete floor—where right up front beside the entrance sat a spacious L-shaped solid-oak Customer Service and Zoo Admissions Counter flanked by retail checkout registers, while two young team members stocking shelves down the six-foot-wide center aisle wore the exact same forest-green collared *STAFF* polo shirts, tan khakis, and smooth pin-free magnetic name tags as Wesley, Heather, and Dan.
 
 "Everybody here wears the exact same uniform as Wesley—right down to magnetic name tags with zero sharp pins," Katie remarked with quiet admiration.
 
@@ -9131,13 +9131,13 @@ The second our four sets of wheels and sneakers glided over the zero-step thresh
 
 "Everyone dressed up in the weekday khakis and collared polos together this morning for the ribbon-cutting photos," Dan chuckled, gesturing down at his khakis. "On normal Fridays, Saturdays, and Sundays when we're hauling substrate bags and scrubbing lagoons for the weekend rush, our whole crew gets to wear blue jeans and our green *North Lion Scales & Tails* T-shirts with our name tags instead!"
 
-Instead of dropping visitors straight into dark exhibit halls, the entire front half of *North Lion Scales & Tails* opened into a bright, six-foot-wide-aisled retail store and community hub that anyone off the sidewalk or off the Route 64 bus could walk right into without needing a zoo ticket. Along the left aisles sat neatly organized, wheelchair-reachable shelves stocked with every piece of reliable hardware Katie and I recognized from ten years of videos—twelve-volt fail-safe digital thermostat relays, whisper-quiet silicone filter grommets, natural cork-bark flats, and full-spectrum basking lamps—while across the sunlit right wall stretched two spotless banks of climate-controlled glass enclosures.
+Instead of dropping visitors straight into dark exhibit halls, the entire front wing of *North Lion Scales & Tails* opened into a bright, six-foot-wide-aisled public retail store and community hub that anyone off the sidewalk or off the Route 64 bus could walk or roll right into without needing a zoo ticket. Right up front at the Customer Service Counter—or at any retail register—visitors could purchase wristbands to enter the zoo further inside, while along the left aisles sat neatly organized, wheelchair-reachable shelves stocked not only with every piece of reliable reptile hardware Katie and I recognized from ten years of videos—twelve-volt fail-safe digital thermostat relays, whisper-quiet silicone filter grommets, natural cork-bark flats, and full-spectrum basking lamps—but also orchard Timothy hay, chew-safe wooden hideaways, and volcanic dust-bath sand for small mammals.
 
-"Anyone in the Twin Cities can walk or roll right into the store any day we're open just to pick up supplies—or to bring home a new family member," Dan explained proudly as Chelsea stepped up beside a crystal-clear enclosure where juvenile painted turtles paddled around live plants. "Right here in front is our Surrender and Adoption Center for rescued reptiles and turtles whose previous owners couldn't care for them anymore, once our staff verifies a photo of the adopter's heated setup at home. And right beside it are the reptiles and amphibians we sell here in the store. From day one, Heather and I set one non-negotiable rule: every single animal we sell is one hundred percent captive-bred—never wild-caught, not ever—and we personally audit and check the facilities and health records of every breeder and supplier we work with before a single animal comes through our doors."
+"Anyone in the Twin Cities can walk or roll right into the front store any day we're open just to pick up supplies—or to bring home a new family member," Dan explained proudly as Chelsea stepped up beside two spotless banks of climate-controlled glass enclosures along the south wall where juvenile painted turtles paddled beside neighboring habitats of velvet-eared Holland lop rabbits and bonded guinea pigs. "People hear *Scales & Tails* and assume *Tails* only means lizards until they meet the bunnies and chinchillas! Right here up front is our Surrender and Adoption Center for rescued turtles, reptiles, and small mammals whose previous owners couldn't care for them anymore, once our staff verifies a photo of the adopter's proper setup at home. And right beside it are the animals we sell here in the store. From day one, Heather and I set one non-negotiable rule: every single animal we sell—turtles, reptiles, and small mammals alike—is one hundred percent captive-bred, never wild-caught, not ever, and we personally audit and check the facilities and health records of every breeder and supplier we work with before a single animal comes through our doors."
 
-"And look right across the aisle!" Brittany said warmly behind her wire-rimmed glasses, pointing toward a clean glass reception window and wide accessible doorway along the east wall lettered *EXOTIC PETS VET CLINIC*, where a smiling veterinarian in a white lab coat worn over the same forest-green *STAFF* polo and khakis waved out beside a hydraulic lift exam table.
+"And look right across the aisle!" Brittany said warmly behind her wire-rimmed glasses, pointing toward a clean interior glass reception window and wide sliding doorway along the southeast store wall lettered *EXOTIC PETS VET CLINIC*, where a smiling veterinarian in a white lab coat worn over the same forest-green *STAFF* polo and khakis waved out from an indoor medical exam suite equipped with a hydraulic lift table.
 
-"That's Dr. Meyer, our full-time onsite exotic pets vet," Heather beamed as Wesley proudly tapped his knuckles twice toward the clinic window and got a cheerful wave back. "When we started rescuing turtles out of our basement ten years ago, half the families we met had to drive across three counties just to find a clinic willing to examine a turtle shell or treat a bearded dragon. Having an exotic vet right inside our front building means anybody on the bus line can bring their reptile in for real medical care—and every single animal in our Adoption Center, our store, and our zoo gets checked right in-house."
+"That's Dr. Meyer, our full-time onsite exotic pets vet," Heather beamed as Wesley proudly tapped his knuckles twice toward the clinic window and got a cheerful wave back. "When we started rescuing turtles out of our basement ten years ago, half the families we met had to drive across three counties just to find a clinic willing to examine a turtle shell, treat a bearded dragon, or trim a chinchilla's molars. Having an exotic vet right inside our front store means anybody on the bus line can bring their turtle, reptile, or small mammal straight in for real medical care—and every single animal in our Adoption Center, our store, and our zoo gets checked right in-house."
 
 "Ooh, Brittany—look at the turtle toy shelf!" Chelsea gasped with pure delight, turning down the aquatic-enrichment gondola at comfortable waist height while hugging Shelly Turtle under her left arm. "Can we buy non-spoily turtle treats an' a floaty ball to bring home on the airplane for Sunny an' Pebble? Uncle David is back home at our house watchin' Sunny an' Pebble all weekend with my picture checklist!"
 
@@ -9147,7 +9147,7 @@ Instead of dropping visitors straight into dark exhibit halls, the entire front 
 
 "An' Pebble ate three!" Chelsea reported proudly, reaching onto the lower oak shelf while Staff Member Wesley stepped right over beside her—pointing helpfully with two taps at his personal favorite items on the rack: a factory-sealed clear jar of freeze-dried freshwater river shrimp and mealworm medley that wouldn't spoil or leak inside an airport carry-on bag, a two-pack of natural white calcium turtle blocks, and a smooth emerald-green silicone floating foraging ball pierced with rounded slots so a painted turtle could nudge it across the water to release one dried shrimp at a time.
 
-"Wes says that green foraging ball is five-star turtle entertainment," Dan grinned, walking behind the wide oak Checkout and Zoo Admissions Counter at the rear of the store—built with a lowered, thirty-four-inch wheelchair-accessible bay in the center, right beside a set of wide interior double glass doors marked *ZOO ENTRANCE*.
+"Wes says that green foraging ball is five-star turtle entertainment," Dan grinned, stepping behind Register One right beside the lowered, thirty-four-inch wheelchair-accessible bay of the solid-oak Front Customer Service and Zoo Admissions Counter—where shoppers could buy zoo tickets either at Customer Service or right at any register while checking out, before heading back through the interior automatic sliding glass doors marked *ZOO ENTRANCE* into the sunlit greenhouse conservatory glowing lush and green behind the rear partition wall.
 
 When Chelsea happily set the sealed shrimp jar, calcium blocks, and green foraging ball onto the lowered oak counter and Katie pulled her Prairie Twin Interactive debit card out of her purse, Dan held both hands up in protest.
 
@@ -9155,43 +9155,47 @@ When Chelsea happily set the sealed shrimp jar, calcium blocks, and green foragi
 
 "Oh, yes you are, Dan Lindstrom," Katie shot right back with a bright, immovable grin, rolling two inches closer to the card reader beside me. "Every small business frame-up needs its first dollar on the wall, and there is no way Nate and I are letting anybody else beat our Virginia Beach household to Sale Number One!"
 
-"Ring it up full price with Minnesota sales tax, Dan," I seconded firmly, tapping my armrest with a grin while Wesley let out an approving two-note chuckle behind the counter and pointed squarely at the cash register. "Even your Animal Care Specialist agrees with the customer."
+"Ring it up full price with Minnesota sales tax, Dan," I seconded firmly, tapping my armrest with a grin while Wesley let out an approving two-note chuckle beside the counter and pointed squarely at the register. "Even your Animal Care Specialist agrees with the customer."
 
-Laughing out loud as Heather shook her head with shining eyes, Dan scanned all three items, tapped the screen so Katie could slide her card into the wheelchair-height chip terminal, tore off the crisp thermal receipt stamped *RECEIPT #0001 — 10:11 AM*, and tucked Chelsea's treats neatly into a forest-green paper handle bag—right as Molly pressed the admissions button beside him with triumphant ceremony and slid four crisp green paper wristbands across the oak counter into Katie's hand, my hand, Brittany's hand, and Chelsea's hand.
+Laughing out loud as Heather shook her head with shining eyes, Dan scanned all three items at Register One, tapped the screen so Katie could slide her card into the wheelchair-height chip terminal, tore off the crisp thermal receipt stamped *RECEIPT #0001 — 10:11 AM*, and tucked Chelsea's treats neatly into a forest-green paper handle bag—right as Molly pressed the zoo-admissions button right on the same register terminal with triumphant ceremony and slid four crisp green paper wristbands across the oak counter into Katie's hand, my hand, Brittany's hand, and Chelsea's hand.
 
-"Receipt Zero-Zero-Zero-One, plus Zoo Tickets Zero-Zero-One, Zero-Zero-Two, Zero-Zero-Three, and Zero-Zero-Four!" Molly declared proudly as Brittany fastened Chelsea's green paper band gently around her wrist and looped the handle of Sunny and Pebble's treat bag over her forearm.
+"Receipt Zero-Zero-Zero-One, plus Zoo Tickets Zero-Zero-One, Zero-Zero-Two, Zero-Zero-Three, and Zero-Zero-Four right off Register One!" Molly declared proudly as Brittany fastened Chelsea's green paper band gently around her wrist and looped the handle of Sunny and Pebble's treat bag over her forearm.
 
-Stepping up to the stainless ADA wall plate beside the counter in his crisp forest-green *STAFF* polo and khakis, thirty-one-year-old Wesley looked back at the four of us with his chest squared high and pressed the wide square button with his open palm—parting both interior glass doors onto the sunlit conservatory of the Reptile Zoo itself.
+Leading us down the wide center aisle to the rear interior partition wall of the retail store in his crisp forest-green *STAFF* polo and khakis, thirty-one-year-old Wesley looked back at the four of us with his chest squared high and stepped into range of the overhead motion sensor—parting both interior automatic sliding glass *ZOO ENTRANCE* doors silently onto the sunlit greenhouse conservatory of the Zoo itself.
 
-### Part 3: Thirty-Inch Viewing Glass, Touring the Skylit Reptile Zoo, & Chelsea and Wesley Talking About Wesley's Turtles
+### Part 3: Turtles, Reptiles, and Small Mammals: Touring the Three Zoo Wings & Talking About Wesley's Turtles
 
 **Date:** 2018-06-16 at 10:15 America/Chicago
 
-![Inside the lush, skylit Reptile Zoo conservatory of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-one-year-old Staff Member Wesley Collins in his forest-green collared STAFF polo, tan khakis, and magnetic WESLEY badge stands proudly beside his stainless romaine-prep cart pointing at three painted turtles swimming behind thirty-inch seated wheelchair-height viewing glass while thirty-six-year-old Chelsea hugging plush Shelly Turtle talks excitedly with him—watched warmly by Katie and Nathaniel Prairie hub-to-hub in their black SwiftChairs on the left, Brittany beside them, and Heather, Dan, Jonas, Nora, and Molly on the right.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_zoo_tour_wesley_chelsea_turtle_lagoon.jpg)
+![Inside the lush, skylit Greenhouse Conservatory of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-one-year-old Staff Member Wesley Collins in his forest-green collared STAFF polo, tan khakis, and magnetic WESLEY badge stands proudly beside his stainless romaine-prep cart pointing at three painted turtles swimming behind thirty-inch seated wheelchair-height viewing glass while thirty-six-year-old Chelsea hugging plush Shelly Turtle talks excitedly with him—watched warmly by Katie and Nathaniel Prairie hub-to-hub in their black SwiftChairs on the left, Brittany beside them, and Heather, Dan, Jonas, Nora, and Molly on the right.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_zoo_tour_wesley_chelsea_turtle_lagoon.jpg)
 
-#### Saturday, June 16, 2018, 10:15 AM CDT — Zero Raised Curbs & Thirty-Inch Viewing Glass Across the Skylit Zoo
+#### Saturday, June 16, 2018, 10:15 AM CDT — Turtles, Reptiles, and Small Mammals: Thirty-Inch Viewing Glass Across All Three Wings
 
-Warm, clean air scented with fresh cedar mulch, sun-baked river stone, and whisper-quiet waterfall filtration wrapped around our faces the instant the interior *ZOO ENTRANCE* doors sighed open behind us.
+Warm, clean air scented with fresh cedar mulch, sun-baked river stone, and whisper-quiet waterfall filtration wrapped around our faces the instant the interior automatic sliding *ZOO ENTRANCE* doors parted behind us.
 
-Overhead, twin banks of UV-transmitting conservatory skylights poured real Minnesota morning sunshine down across a sprawling indoor sanctuary of live ferns, mossy driftwood, and wide, non-slip brushed-concrete walkways where two power wheelchairs could turn full circles side by side without ever grazing a planter wall.
+Overhead, the soaring glass gable of a true botanical greenhouse conservatory poured real Minnesota morning sunshine down across live ferns, mossy driftwood, and wide, non-slip flagstone-and-concrete walkways—while wide barrier-free archways to our north and east connected the central glass-roofed greenhouse into two dedicated temperature-controlled brick wings so *North Lion Scales & Tails* could safely house turtles, reptiles, and small mammals all under one roof.
 
-"Look at the viewing sills on every single habitat down this whole gallery, Nate," Katie breathed softly beside my left wheel, slowing her joystick three feet inside the conservatory arch.
+"Look at the viewing sills on every single habitat down all three wings, Nate," Katie breathed softly beside my left wheel, slowing her joystick three feet inside the greenhouse arch.
 
 I didn't have to pull out a tape measure to know the exact number to the quarter-inch.
 
-In almost every public aquarium or city zoo Katie and I had rolled through since childhood, exhibit builders mounted display windows at forty-two or forty-eight inches off the floor—meaning ambulatory adults leaned comfortably against wooden rails while kids in strollers and wheelchair users stared straight at a wall of drywall, concrete, or somebody else's belt buckle unless they craned their necks painfully upward through glare. Here inside *North Lion Scales & Tails*, every single naturalistic habitat from the bioactive emerald tree-frog waterfall on our left to the sprawling rescued sulcata tortoise pasture on our right was engineered on a low stone plinth with crystal-clear tempered glass starting twenty-eight inches off the floor—dead-level with Katie's eyes, my eyes, and twelve-year-old Jonas and Nora's eyes.
+In almost every public aquarium or city zoo Katie and I had rolled through since childhood, exhibit builders mounted display windows at forty-two or forty-eight inches off the floor—meaning ambulatory adults leaned comfortably against wooden rails while kids in strollers and wheelchair users stared straight at a wall of drywall, concrete, or somebody else's belt buckle unless they craned their necks painfully upward through glare. Here inside *North Lion Scales & Tails*, every single naturalistic habitat across the entire complex was engineered on a low stone or oak plinth with crystal-clear tempered glass starting twenty-eight to thirty inches off the floor—dead-level with Katie's eyes, my eyes, and twelve-year-old Jonas and Nora's eyes.
 
 "Thirty-inch sightlines from front to back, zero strobe lighting, and silicone vibration grommets under every pump manifold in the building so the floor never hums under caster wheels or sensitive sneakers," Heather said quietly, walking half a step behind Dan with her hands clasped lightly in front of her tan khakis—never bragging, never fishing for credit, simply letting the building speak for itself.
 
-Right ahead of our front casters, twelve-year-old Jonas let out a delighted, musical three-note vowel hum—the exact cadence he had absorbed since infancy from listening to Cousin Wesley—while his twin sister Nora stayed pressed shoulder to shoulder at his right side, her light-brown hair brushing his green sleeve and her inner left hand linked securely in his right hand. Without making a single audible sound, Nora's whole face lit up in a wide, silent, crinkle-eyed laugh as a forty-pound rescued African spurred tortoise lumbered unhurriedly across warm orchard grass right up to the low glass in front of them, and with her free right thumb Nora tapped three crisp picture tiles across the ruggedized communication board angled up toward her own eyes:
+Leading us first through a double set of whisper-quiet acoustic airlock sliding glass doors into the cool, sixty-eight-degree north brick wing—marked *SMALL MAMMAL MEADOW* so zero reptile scent or humidity ever crossed into the mammals' air supply—Dan grinned as Chelsea let out a delighted gasp at a thirty-inch panoramic meadow enclosure where silver-gray chinchillas bounded effortlessly across kiln-dried pine ledges beside neighboring habitats of popcorning guinea pigs, foraging African pygmy hedgehogs, and velvet-eared Holland lop rabbits nibbling fresh orchard hay.
+
+"That's the *Tails* half of *Scales & Tails*!" almost-ten-year-old Molly beamed like a veteran wildlife docent as twelve-year-old Jonas hummed a happy three-note chord and Nora—linked inner-hand to inner-hand with her twin brother—crinkled her eyes in a wide, completely silent laugh at two fuzzy guinea pigs playing follow-the-leader through a fleece tunnel.
+
+Looping smoothly from the Small Mammal Meadow across into the warm east brick wing—the *Woodland and Arid Reptile Galleries*, where captive-bred bearded dragons basked under ninety-five-degree desert slate, rosy boas curled beneath cork-bark hides, and emerald tree frogs clung to misted bromeliads—we circled right back out beneath the soaring sunlit glass roof of the central Greenhouse Conservatory itself, where a forty-pound rescued African spurred tortoise lumbered across warm orchard grass right up to the low glass in front of Jonas and Nora. With her free right thumb, Nora tapped three crisp picture tiles across the ruggedized communication board angled up toward her own eyes:
 
 <aac>Big turtle crunch grass!</aac>
 
-"That's Tank!" almost-ten-year-old Molly announced like a veteran wildlife docent, beaming proudly beside her older brother and sister. "A family bought him when he was the size of a teacup without realizing sulcatas grow past eighty pounds and dig tunnels under Minnesota garages in January! Now he gets radiant heated slate burrows all winter and fifty feet of dandelion pasture!"
+"That's Tank!" Molly announced proudly beside her older brother and sister. "A family bought him when he was the size of a teacup without realizing sulcatas grow past eighty pounds and dig tunnels under Minnesota garages in January! Now he gets radiant heated slate burrows all winter and fifty feet of greenhouse dandelion pasture!"
 
 "Hi, Mister Tank!" Chelsea called out cheerfully, crouching slightly with Brittany's steady hand resting lightly behind her elbow so Shelly Turtle could wave politely without tapping or startling the glass. "You eat big green salads just like Sunny an' Pebble!"
 
-Rolling unhurriedly along the wide curved conservatory loop behind Staff Member Wesley's proud stride—past captive-bred leopard geckos snoozing on warm slate ledges, rosy boas curled beneath cork-bark hides, and rescued box turtles foraging through damp leaf litter—Katie reached across our inner armrests and gave my left hand two quiet, unmistakable squeezes. Every cage latch, every thermal fail-safe digital readout mounted cleanly above reach, and every wide turning radius felt like walking inside ten years of care made solid out of brick, oak, and glass.
+Rolling unhurriedly along the sunlit greenhouse flagstones behind Staff Member Wesley's proud stride, Katie reached across our inner armrests and gave my left hand two quiet, unmistakable squeezes. Every cage latch, every separate HVAC zone protecting small mammals and reptiles alike, and every wide turning radius felt like walking inside ten years of care made solid out of brick, oak, and glass.
 
 ***
 
@@ -9448,6 +9452,104 @@ Stepping gently back with a proud, beaming smile beneath his magnetic *WESLEY* b
 "See you soon, buddy," I smiled up at him, my throat full and my chest completely at peace.
 
 Presenting our four boarding passes and IDs at the accessible TSA podium together, Katie, Chelsea, Brittany, and I rolled and walked side by side past the glass security partition toward our gate for Chicago Midway and Norfolk—looking back over our shoulders one last time to see Heather and Staff Member Wesley standing tall shoulder to shoulder in the sunlit Minnesota terminal, waving us all the way home to Virginia.
+
+### Part 6: Father's Day on Arvin Road, Two Guardians' Blessing, & Making It Official Between Chelsea and 'My Sweet Wes'
+
+**Date:** 2018-06-17 at 13:30 America/New_York
+
+![Inside the sunlit living room at 737 Arvin Road in Virginia Beach on Father's Day afternoon, Sunday, June 17, 2018 beside Sunny and Pebble's sixty-gallon painted-turtle tank and a small green-framed instant photo, thirty-one-year-old Wesley Collins on the big living-room television in his weekend blue jeans, green North Lion T-shirt, and magnetic WESLEY badge forms a joyful two-hand heart from Maplewood alongside Heather and Dan, while thirty-six-year-old Chelsea in sky-blue fleece hugging plush Shelly Turtle forms a matching hand-heart back—watched proudly by her legal guardian Uncle David Prairie, Katie and Nathaniel in their black SwiftChairs, and Brittany.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_arvin_road_fathers_day_wesley_chelsea_special_friends_official.jpg)
+
+#### Sunday, June 17, 2018, 1:30 PM — Father's Day on Arvin Road, Two Matching Green Picture Frames, & A Shy Question for Uncle David
+
+*Plop—nudge—wiggle!*
+
+Across the crystal-clear water of our sixty-gallon painted-turtle habitat in the sunlit Arvin Road living room, Sunny butted his striped nose enthusiastically against his brand-new emerald-green silicone foraging ball from Maplewood, spinning it half a turn until a single freeze-dried river shrimp drifted free for Pebble to snap up right behind him.
+
+"Look at that—not even five minutes out of the suitcase and Wes's green shrimp ball is already a runaway Father's Day hit!" fifty-nine-year-old Dad laughed warmly in his crisp navy polo shirt, resting one hand fondly on the top of my SwiftChair backrest beside Katie's. "I told you four I ran a tight turtle ship while you were in Minnesota!"
+
+"You got four gold stars on my checklist, Uncle David!" thirty-six-year-old Chelsea beamed in her soft sky-blue tagless fleece pullover, carefully setting a brand-new miniature forest-green picture frame onto the front corner of the thirty-inch oak aquarium stand—right where Sunny and Pebble could see Molly's palm-sized instant snapshot of Chelsea and Staff Member Wesley feeding Clover together in matching light-blue gloves.
+
+Right then, my phone chimed twice on my armrest with a *Grid Messenger* photo from Maplewood.
+
+Smiling as I angled the screen toward Dad, Katie, Brittany, and Chelsea, I showed them what Heather had just snapped ten minutes after noon Central Time up in Minnesota: right on top of thirty-one-year-old Wesley's neat oak bedroom dresser—standing shoulder to shoulder beside Aunt Linda's framed November 2001 *Annie's Pretzels* photo of teenaged Wesley and me—sat an identical forest-green frame holding Wesley's duplicate instant snapshot of himself, Chelsea, and Shelly Turtle in their blue feeding gloves!
+
+Three seconds later, a second message popped up underneath it—typed directly onto Heather's keyboard by Wesley himself: two little green turtle icons tucked on either side of one bright green heart.
+
+On our living-room sofa, thirty-six-year-old Chelsea blushed all the way up to the roots of her curly auburn-brown hair.
+
+Tucking plush green Shelly Turtle snugly under one elbow while twisting the hem of her sky-blue fleece sleeve shyly between two fingers, Chelsea looked past Katie's wheels and mine straight up into Dad's kind brown eyes—knowing full well, ever since Judge Donahue's July 2016 probate order freed her from Mount Regalis and transferred her plenary guardianship and conservatorship home to Virginia under Uncle David's care, that Uncle David never brushed off a single thing in her heart.
+
+"Uncle David..." Chelsea asked very softly, glancing once at the blue-gloved photo beside Sunny's tank and back up at Dad. "Since Wes doesn't have a girlfriend up in Minnesota... an' I don't have a boyfriend here in Virginia... if Heather says okay too, am I allowed to ask Wes to be my long-distance special friend?"
+
+Beside Chelsea on the sofa, Brittany's eyes crinkled with pure tenderness behind her wire-rimmed glasses. Katie's fingers gave mine two warm squeezes across our armrests, and Dad's whole face softened with the quiet, protective pride only a good father and guardian carries.
+
+Kneeling one step down beside the sofa arm so his eyes met Chelsea's without towering over her, Dad smiled gently.
+
+"Chelsea, sweetheart, from everything Katie, Nate, and Brittany told me last night—and seeing how gentle and respectful Wes was when you gave him your very first non-family hug—I couldn't think of a finer young man on earth," Dad said warmly. "Because Heather is Wes's legal guardian and conservator in Minnesota just like I'm yours here in Virginia, let me give Heather and Dan a ring in the office first so we make sure both households set up good, clear rules that keep both of you one hundred percent happy and safe. Sound fair?"
+
+Chelsea nodded so fast her curls bounced, hugging Shelly Turtle joyfully to her cheek. "Thank you, Uncle David!"
+
+***
+
+#### Sunday, June 17, 2018, 2:15 PM — Guardian to Guardian: David Prairie and Heather Lindstrom's Four Ground Rules
+
+Five minutes later inside our dual-desk office across the hall—with the office door closed lightly while Brittany and Chelsea happily colored a Father's Day turtle card at the dining table—Dad tapped speakerphone on our desk handset beside Katie's SwiftChair and mine.
+
+ Heather picked up in Maplewood on the second ring, with Dan right beside her.
+
+"Happy Father's Day, Mr. Prairie!" thirty-three-year-old Heather said warmly—and even across thirteen hundred miles, I heard that quiet, unmistakable catch of respect in her voice from sitting at Dad's kitchen table when we were seventeen.
+
+"Call me David, Heather—we're way past *Mr. Prairie* after everything Katie and Nate told me about your wonderful opening day yesterday," Dad replied with genuine warmth, making Katie and me smile at each other. "Before we get down to guardian business, Heather, I just wanted to tell you myself how proud I am of the home, the marriage, and the life you and Dan built up there for Wes and your three kids. Taking responsibility for family when nobody else wants to step up is the truest measure of character there is."
+
+Over the speaker, Heather let out a soft, deeply moved breath. "Thank you, David. That means more to me than you know. And let me guess why you're calling—because right after breakfast this morning, thirty-one-year-old Wes marched Dan and me straight up to his bedroom dresser, pointed back and forth between Chelsea's photo and his own chest, and tapped two hearts onto my keyboard!"
+
+Katie, Dan, Dad, and I all laughed out loud together.
+
+"Well, Chelsea just blushed pinker than a Virginia azalea and asked me the exact same question in our living room," Dad chuckled warmly, pulling his yellow legal pad closer on the desk. "Since both Wes and Chelsea are vulnerable adults under plenary guardianship and conservatorship—Wes non-verbal and severely autistic, and Chelsea severely developmentally disabled after surviving eight hard years in an awful facility—Heather, Dan, and I want both of them to enjoy every ounce of having a special friend while keeping crystal-clear guardrails around both of them."
+
+"One hundred percent," Heather agreed immediately, crisp and protective. "Dan and I talked through four simple, concrete ground rules at lunch to see how they line up with yours. First is what we call the Two-Yes, Pause-Anytime Rule—zero pressure on either of them, ever. Since Wes is non-verbal, holding up his blue ring or tapping knuckles twice means he's happy and saying yes, whereas setting both hands flat in his lap or shaking his head means he needs a quiet break right away."
+
+"And on Chelsea's side," Katie chimed in smoothly beside me, "tucking Shelly Turtle under one arm means hugs or video chat are welcome, while holding Shelly flat across her chest with both hands is her polite signal that she just wants quiet space—and nobody ever questions or teases either signal."
+
+"Rule number two," Dad nodded, writing neatly down his pad, "every video date happens openly right on the family living-room television with family nearby in the house—never private internet links or late-night screens where outside strangers or scammers could ever reach either one of them—while Wes is always welcome to tap his turtle and bus icons into our family *Grid* thread whenever he feels like checking in."
+
+"Rule number three is the Conservatorship Rule," Heather added thoughtfully, wearing her conservator hat with total precision. "Wes earns his own proud paycheck on *North Lion* staff into his protected Minnesota account, and I know you guard Chelsea's recovered personal-needs funds and Virginia disability account just as carefully so neither of their benefits or savings is ever jeopardized. So zero cash, zero gift cards, and zero expensive presents ever cross the mail—just a Twenty-Dollar Postcard and Turtle-Treat Rule: stamped picture postcards, instant snapshots, hand-colored turtle drawings, and small under-twenty-dollar turtle or city-bus tokens cleared with you or me first."
+
+"And rule number four," Dan smiled over the line from Minnesota, "whenever our crew rides the train or flies east to Virginia Beach, or your crew flies out to Maplewood, every in-person date is a family-accompanied public-transit adventure—riding buses, visiting aquariums and zoos, eating warm soft pretzels, and watching turtle movies on the family couch with all of us right in their corner."
+
+Dad set his pen down on the oak desk with a beaming, wholehearted smile.
+
+"From Chelsea's legal guardian in Virginia to Wes's legal guardian in Minnesota," Dad announced warmly, "permission is officially, enthusiastically granted. How does four o'clock Eastern—three o'clock your time—sound for their first official Sunday video date?"
+
+"Three o'clock Central every Sunday afternoon it is," Heather laughed happily. "Knowing Wes's love of an exact clock schedule, you can set your watches by it for the next thirty years!"
+
+***
+
+#### Sunday, June 17, 2018, 4:00 PM — 'My Sweet Wes,' 'Turtle-Heart,' & The First Official Sunday Lettuce and Lagoon Date
+
+![Inside the sunlit living room at 737 Arvin Road in Virginia Beach on Father's Day afternoon, Sunday, June 17, 2018 beside Sunny and Pebble's sixty-gallon painted-turtle tank and a small green-framed instant photo, thirty-one-year-old Wesley Collins on the big living-room television in his weekend blue jeans, green North Lion T-shirt, and magnetic WESLEY badge forms a joyful two-hand heart from Maplewood alongside Heather and Dan, while thirty-six-year-old Chelsea in sky-blue fleece hugging plush Shelly Turtle forms a matching hand-heart back—watched proudly by her legal guardian Uncle David Prairie, Katie and Nathaniel in their black SwiftChairs, and Brittany.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_arvin_road_fathers_day_wesley_chelsea_special_friends_official.jpg)
+
+At four-zero-zero-and-zero-seconds on the dot Eastern Time—three o'clock sharp in Maplewood—our big living-room television chimed once beside Sunny and Pebble's sixty-gallon tank.
+
+Before the high-definition picture had even finished snapping into focus, thirty-one-year-old Wesley Collins was sitting tall and proud dead-center on the Lindstroms' Maplewood living-room sofa, freshly home from his Sunday zoo shift in his weekend casual uniform: crisp blue jeans, his forest-green crew-neck *North Lion Scales & Tails* T-shirt, and his smooth magnetic *WESLEY* name tag still pinned proudly on his chest as Heather and Dan smiled warmly on either side of him!
+
+On our Arvin Road sofa—with Brittany beaming beside her, Katie and me parked hub to hub next to the turtle stand, and Uncle David standing tall behind our wheelchairs—thirty-six-year-old Chelsea sat forward with a small porcelain plate of neat, uniform bite-sized romaine squares resting on her lap for Sunny and Pebble and plush Shelly Turtle tucked happily under her left elbow.
+
+"Wes, Chelsea—Heather and Uncle David talked everything over and explained all four of our family special-friend rules," Dad said warmly toward both living rooms, keeping every word clear, joyful, and dignified. "And both of us say a hundred percent *yes*!"
+
+Up in Minnesota, Wesley's face lit up brighter than the conservatory skylights at noon.
+
+Without speaking a single English word, thirty-one-year-old Wesley leaned slightly forward toward the camera and unveiled a brand-new, two-part non-verbal sign-nickname he had thought up all on his own exclusively for Chelsea: first cupping his right hand smoothly over the back of his left hand like a gentle rounded turtle shell while wiggling his thumb forward like a happy little turtle head, then tapping his open palm twice directly over his own heart—*My Turtle-Heart!*—before joining both thumbs and index fingers together in front of his green *North Lion* T-shirt to form a clear, unmistakable two-hand heart aimed straight at Chelsea!
+
+In our sunlit Virginia Beach living room, Chelsea let out the purest, happiest giggle any of us had ever heard, lifted both of her own hands into a matching heart shape right back toward the television screen, and graduated him out loud from *big brother Wes* on the spot:
+
+"Yes, *My Sweet Wes*!" Chelsea beamed from ear to ear, cheeks glowing pink as Brittany clapped softly beside her. "You're officially my long-distance *Turtle Boyfriend*! Look—Sunny an' Pebble waited all afternoon so our turtles could eat Sunday dinner together!"
+
+Right there across thirteen hundred miles, their sacred weekly tradition locked itself into stone on Day One: every single Sunday afternoon at four o'clock Eastern, three o'clock Central, Chelsea fed hand-torn romaine squares to Sunny and Pebble in Virginia Beach while *My Sweet Wes* held up fresh instant snapshots and clips of Clover, Scooter, and Barnaby from Maplewood—backed up on the first day of every calendar month by a stamped Federal Postal Service picture-postcard swap where Chelsea mailed Maplewood a coastal Virginia bus postcard decorated with a colored-pencil turtle sticker, and Wesley mailed Arvin Road a *North Lion* postcard bearing two blue sticker dots and one bright green heart sticker right in the center.
+
+Watching Wesley hold up his blue silicone ring with a joyous two-note hum while Chelsea proudly held a romaine square over Sunny's basking ramp so her *Turtle Boyfriend* could watch Sunny crunch it live, Katie leaned two inches sideways toward my inner armrest with a soft, marveling laugh that only I could hear.
+
+"Think about that, Nate," my twin sister murmured, lacing her fingers warmly through mine as Dad rested a proud hand on each of our shoulders. "Fifteen years after seventeen-year-old you and Heather didn't end up together at Northwood High... your cousin and her cousin just turned Virginia Beach and Maplewood into one family for life anyway."
 
 ## Flipping the Seventh Senate District, The Mahogany Senate Ramp, & Madam Chair
 
