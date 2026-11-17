@@ -45,9 +45,9 @@ Except Heather didn't walk to the front door.
 
 Heather stopped halfway down the stairs. Her face looked pale and tight, the way people looked right before a thunderstorm knocked the cable television out, and her fingers stayed wrapped around her car keys instead of reaching for the brass deadbolt.
 
-"Hey, Wes," Heather said in a strange, too-bright voice as she stepped slowly down onto the bottom step. "Listen, bud—you and I can still drive over to Greenbrier for French fries or look at the turtles at the pet shop on Battlefield Boulevard if you want, okay? Just the two of us today."
+"Hey, Wes," Heather said in a strange, too-bright voice as she stepped slowly down onto the bottom step. "Listen, bud—you and I can still drive down to Great Bridge for French fries or look at the turtles at the pet shop on Battlefield Boulevard if you want, okay? Just the two of us today."
 
-Wesley blinked. His smile slipped sideways. *Greenbrier?* Nate and Katie didn't go to Greenbrier; the blue-and-yellow bus with the hydraulic front lift dropped Nate and Katie off outside Emerald Creek Mall!
+Wesley blinked. His smile slipped sideways. *Great Bridge?* Nate and Katie didn't go to Great Bridge; the blue-and-yellow bus with the hydraulic front lift dropped Nate and Katie off outside Emerald Creek Mall!
 
 Thinking Heather had simply mixed up which Saturday square they were on, Wesley walked two steps over to the tall oak bookshelf between the front windows and pointed squarely at the wooden five-by-seven frame sitting on the middle shelf—his favorite object in the entire house—showing Katie, Nate, Heather, and Wesley smiling together beneath the white tented mall roof over four red Annie's Pretzels trays. Wesley tapped beside the frame twice, bumped his knuckles together again, and hummed a clear upward question toward Heather. *No, silly—Emerald Creek! Nate and Katie!*
 
