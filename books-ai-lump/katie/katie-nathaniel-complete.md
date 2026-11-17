@@ -2669,25 +2669,33 @@ One narrow aisle to our right, Heather sat near the end of Table Ten picking qui
 
 Six feet past Heather's shoulder at the noisy varsity table along the brick pillar, Tyler dropped his backpack onto an empty chair, leaned both elbows on the laminate tabletop in his letterman jacket, and lowered his voice into the exact theatrical, mock-sympathetic stage whisper that still made my stomach turn whenever I heard him in the hall.
 
-"Look, Megan, I seriously hate to be the guy who has to tell you this," Tyler said loudly enough for three surrounding tables to hear every syllable, flashing a smug, knowing grimace across the table at senior girls' soccer captain Megan Porter. "Especially right before Valentine's Day and all. Seriously, though, somebody's gotta look out for you."
+"Look, Kristen, I seriously hate to be the guy who has to tell you this," Tyler said loudly enough for three surrounding tables to hear every syllable, flashing a smug, knowing grimace across the table at senior girls' soccer captain Kristen Bauer. "Especially right before Valentine's Day and all. Seriously, though, somebody's gotta look out for you."
 
-Megan paused with a turkey sandwich halfway to her mouth and raised one dark eyebrow. "Tell me what, Tyler?"
+Kristen paused with a turkey sandwich halfway to her mouth and raised one dark eyebrow. "Tell me what, Tyler?"
 
-"Saturday night around nine-thirty out behind the movie theater at Kempsville Plaza," Tyler said, leaning in as two of his buddies snickered into their soda cups. "I walked past your boyfriend's blue pickup in the back row by the light pole. Lucas wasn't at home studying like he told you, Megan. He had his arms wrapped tight around some pretty redhead in a forest-green parka right beside the passenger door, and then the two of them climbed into his cab together and drove off toward Independence Boulevard. Thought you deserved to know what kind of guy you're dating."
+"Saturday night around nine-thirty out behind the movie theater at Kempsville Plaza," Tyler said, leaning in as two of his buddies snickered into their soda cups. "I walked past your boyfriend's blue pickup in the back row by the light pole. Gavin wasn't at home studying like he told you, Kristen. He had his arms wrapped tight around some pretty redhead in a forest-green parka right beside the passenger door, and then the two of them climbed into his cab together and drove off toward Independence Boulevard. Thought you deserved to know what kind of guy you're dating."
 
-At Table Twelve, Katie's hand froze halfway to her ginger ale can. My own breath caught in my chest. It was word-for-word the exact same poison—the same fake concern, the same invented sleaze built out of a ten-second glimpse from across a parking lot.
+At Table Twelve, Katie's hand froze halfway to her ginger ale can. My own breath caught in my chest. It was word-for-word the exact same opening bait—the same fake concern, the same invented sleaze built out of a ten-second glimpse from across a parking lot.
 
-Except Megan Porter didn't crumble, cry, or turn on her boyfriend.
+Kristen set her sandwich neatly back onto its wax paper, stared across the table at Tyler as if he had rocks rattling around inside his skull, and let out a sharp, incredulous laugh.
 
-Instead, Megan set her sandwich neatly back onto its wax paper, stared across the table at Tyler as if he had rocks rattling around inside his skull, and let out a sharp, ringing laugh that cut clean across our entire corner of the cafeteria.
+"A pretty redhead in a forest-green parka, you idiot?" Kristen said loud enough for four tables to hear—using almost the exact words Heather had originally used in Homeroom 212 back on January sixth. "That was Gavin's nineteen-year-old cousin *Hannah*, Tyler—his mom's sister's daughter who goes to Virginia Dominion University and called Gavin on Saturday night because she blew a front tire behind the Kempsville cinema and needed his truck jack!"
 
-"A pretty redhead in a forest-green parka?" Megan repeated, her voice carrying clearly past every silent tray within twenty feet. "You mean his nineteen-year-old cousin *Hannah*, Tyler—his mom's sister's daughter who goes to Virginia Dominion University and called Lucas on Saturday night because she blew a front tire behind the Kempsville cinema and needed his truck jack?! I was literally on the kitchen landline with Lucas's mom while he drove over there to put her spare doughnut on!"
+Stung at being called an idiot in front of the varsity table, Tyler didn't back down—instead, his lip curled into that exact same practiced, pitying smirk as he doubled down straight into his second-stage lie.
 
-Half of Megan's soccer teammates burst out laughing around the table, while Tyler's ears turned the color of a fire alarm box.
+"Keep telling yourself that, Bauer!" Tyler scoffed loudly, leaning forward on his forearms so everyone around them would hear him override her. "I know what Gavin's cousin looks like—that wasn't his cousin! That was some totally different redhead, and nobody hugs their cousin like that before hopping into a pickup cab together!"
 
-"Hey, whatever, man," Tyler muttered defensively, shoving back from the table and snatching up his tray as his smirk evaporated. "All I'm saying is it looked sketchy from across the lot—"
+That was the exact moment where Heather had cracked in Homeroom 212.
 
-"What's sketchy is you making up trashy cheating stories every time you see a guy standing next to a girl in his own family!" Megan shot right back, shaking her head in open disgust as Tyler beat a hasty retreat toward the dish-return window. "Honestly, Tyler, get a life! Everybody who actually knows Lucas knows the only women in his life are his mom, his cousin Hannah, and me!"
+Kristen Bauer didn't budge a millimeter.
+
+"Nice try, Tyler—you've literally never met his cousin Hannah in your life, so stop lying through your teeth!" Kristen shot right back without flinching, her clear voice ringing across our entire corner of the cafeteria. "It *was* his cousin Hannah! I helped Gavin's mom pick out that exact forest-green parka for Hannah's birthday at Emerald Creek Mall, and I was sitting on the kitchen landline on three-way speaker with Gavin's mom *and* Hannah while he bolted her spare doughnut tire on in the theater lot! You just double down and invent some mystery girl every time somebody catches you making garbage up!"
+
+Half of Kristen's soccer teammates burst out laughing around the table, while Tyler's ears turned the color of a fire alarm box.
+
+"Hey, whatever, man," Tyler muttered defensively, shoving back from the table and snatching up his tray as his smirk evaporated completely. "All I'm saying is it looked sketchy from across the lot—"
+
+"What's sketchy is you making up trashy cheating stories every time you see a guy standing next to a girl in his own family!" Kristen called right after him, shaking her head in open disgust as Tyler beat a hasty retreat toward the dish-return window. "Honestly, Tyler, get a life! Everybody who actually knows Gavin knows the only women in his life are his mom, his cousin Hannah, and me!"
 
 *Clang.*
 
@@ -2699,7 +2707,7 @@ When I glanced sideways for half a second, every trace of color had drained from
 
 Right to my wheelchair. Right to Katie's straight blonde hair beside me—the exact blonde hair Tyler had glimpsed from behind in our hallway on New Year's Eve and twisted into a party stranger. Right to our two hands resting side by side between an open zip-top bag of dry toasted oat cereal and two green cans of ginger ale.
 
-I didn't have to guess what was happening behind Heather's wide, horrified hazel eyes. You could see every single piece of January sixth crashing down on her at once: how she had originally told her entire homeroom *That was his twin sister Katie, you idiot!*—how Tyler had looked her dead in the eye with that exact same smirk and sworn it was some random blonde party girl—how for five straight weeks since winter break she had watched me roll through every hallway, classroom, and bus loop at Northwood High without ever once seeing another girl anywhere near my life except my sister—and how she had just watched Megan Porter swat down the exact same lie in ten seconds flat because Megan actually trusted the boy she claimed to know.
+I didn't have to guess what was happening behind Heather's wide, horrified hazel eyes. You could see every single piece of January sixth crashing down on her at once: how she too had initially pushed back in Homeroom 212 saying *That was his twin sister Katie, you idiot!*—how Tyler had looked her dead in the eye with that exact same *Keep telling yourself that!* smirk and doubled down insisting it wasn't Katie, that it was some other blonde girl—how for five straight weeks since winter break she had watched me roll through every hallway, classroom, and bus loop at Northwood High without ever once seeing another girl anywhere near my life except my sister—and how she had just watched Kristen Bauer stare straight into Tyler's identical double-down lie and crush it flat because Kristen refused to let a chronic liar shake her trust in the boy she loved.
 
 Heather's chest rose in a ragged, silent gasp. Her hand trembled visibly against the edge of Table Ten, her lips parting as if she were about to push up from the bench and cross the aisle toward us with tears pooling along her lower lashes.
 
@@ -2811,7 +2819,7 @@ Standing three feet back from our footrests beside her scowling cousin so she wa
 
 Beside me across our armrests, Katie's fingers tightened steadily around mine, though she didn't interrupt. Over by Heather's left shoulder, Wesley kept his arms folded over his blue ring, watching every move of Heather's mouth like a hawk to make sure she didn't back out.
 
-"On January sixth, both of you stood right in front of my locker and told me the complete truth," Heather said, her voice cracking slightly over the distant hum of Nineteenth Street traffic while a single tear slipped past her lower lashes onto her cheek. "And I screamed over top of you and didn't even let you finish two sentences. Then on February eleventh in the cafeteria, I sat six feet away from you and heard Tyler use the exact same disgusting lie word for word on Megan Porter about her boyfriend's cousin—and I watched Megan laugh right in his face because she actually trusted the person she loved. That should have been me, Nate. You never once lied to me in eighteen months. Katie never once lied to me. You protected your sister on New Year's Eve, you kept your promise not to drink, and because my pride got stung in front of twenty kids in homeroom, I screamed at you, threw everything we had in your faces, and pushed both of you out of our lives."
+"On January sixth, both of you stood right in front of my locker and told me the complete truth," Heather said, her voice cracking slightly over the distant hum of Nineteenth Street traffic while a single tear slipped past her lower lashes onto her cheek. "And I screamed over top of you and didn't even let you finish two sentences. Then on February eleventh in the cafeteria, I sat six feet away from you and heard Tyler pull the exact same two-step lie word for word on Kristen Bauer—even doubling down and swearing that the redhead in the green parka wasn't her boyfriend's cousin when Kristen called him an idiot—and I watched Kristen stand her ground and laugh right in his face because she actually trusted the person she loved. That should have been me, Nate. You never once lied to me in eighteen months. Katie never once lied to me. You protected your sister on New Year's Eve, you kept your promise not to drink, and because my pride got stung in front of twenty kids in homeroom when Tyler doubled down, I screamed at you, threw everything we had in your faces, and pushed both of you out of our lives."
 
 Heather wiped her cheek quickly with the heel of her hand and drew a shaky breath, looking earnestly back at Katie and me.
 
