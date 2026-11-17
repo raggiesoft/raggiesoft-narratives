@@ -11,7 +11,7 @@ recipient: "Readers of Katie & Nathaniel (Episode 11, Chapter 3, Part 5)"
 relatedBookUrl: "https://books.raggiesoft.com/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-5-34-c-f-r-section-361-38-two-twelve-day-dropouts-in-room-511-strings-attached-at-the-subcommittee-hearing"
 relatedBookLabel: "Episode 11, Chapter 3, Part 5: 34 C.F.R. § 361.38 & Strings Attached"
 image: "https://assets.raggiesoft.com/raggiesoft-books/images/scenes/katie/b006/feb_2027_dirksen_room_511_rrc_dars_appropriation_showdown_katie_nate.jpg"
-imageAlt: "Inside Dirksen Senate Office Building Room 511, U.S. Senator Katie Prairie and Chief of Staff Nathaniel Prairie sit side by side in their SwiftChair power wheelchairs across from stunned DARS and RRC officials."
+imageAlt: "Inside Dirksen Senate Office Building Room 511, U.S. Senator Katie Prairie and her twin brother Nathaniel Prairie sit side by side in their SwiftChair power wheelchairs across from stunned DARS and RRC officials."
 summary: "What was going through DARS Commissioner Marcus Sterling's and RRC Director Evelyn Cross's minds inside Dirksen Room 511—and what happened in the hallway and on their three-way conference call with the Governor's Chief of Staff after they stumbled out."
 ---
 
