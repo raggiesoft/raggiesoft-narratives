@@ -57,3 +57,12 @@ When the night supervisor threatened to kick them out of the Center and Nate and
   While Nate and Katie only suspected it at the time (a suspicion Katie later confirmed and weaponized as a Virginia legislator and United States Senator in **Dirksen Room 511**), RRC's operational budget and quarterly utilization metrics in Richmond depended heavily on keeping dormitory beds and classroom seats occupied (`"butts in seats"`). Expelling two high-aptitude Web Applications Developer students at `11:25 PM` on a Tuesday night—five hours after the female twin's nose had been broken open in the therapeutic pool by a male classmate—meant explaining two sudden mid-week vacancies and an unreportable natatorium injury to the Director and to a furious father driving down Interstate 81 from Northern Virginia.
 * **Punting to Thursday Morning's `Level 1` Restriction Meeting:**
   Knowing that Nate and Katie's regular vocational counselor was off work on Wednesday (`March 14`), the night supervisor backed all the way down from his expulsion threat, logged the incident in the overnight residential blotter (*"the Chickenshit Report"*), and punted the problem to Thursday morning at `10:00 AM`—where staff intended to intimidate the twins with a **`Level 1` Restriction & Behavioral Contract** instead.
+
+---
+
+## 4. Explore Both Alternate `'What If'` Timelines: What If They Left the Closet Door Unlocked?
+
+What if Katie and Nate realized at `10:44 PM` that leaving the seasonal closet door **unlocked** was the ultimate camouflage—so the `11:25 PM` sweep missed them completely while their empty beds in Barton Hall triggered a county-wide **Missing Persons** alert? Explore both alternate mornings:
+
+* [**Alternate 'What If' (Ending A — 3:50 AM): Dad's Engineer Question & Waking Up Under the Stage Curtain With Zero Clue Who's Missing**](/books/katie/what-if-rrc-unlocked-closet-ending-a-three-fifty-am)
+* [**Alternate 'What If' (Ending B — 6:40 AM): Sneaking Past the Morning Janitor—And Rolling Out Into Their Own Missing-Persons Command Post**](/books/katie/what-if-rrc-unlocked-closet-ending-b-six-forty-am-stealth)
