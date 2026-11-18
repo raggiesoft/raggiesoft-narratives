@@ -2842,7 +2842,7 @@ Closing my eyes for five full seconds with my forehead resting against Heather's
 
 Outside our kitchen window, late-June cicadas hummed in the backyard maples while sixteen-year-old Wesley sat happily beside my right wheel at the end of the table, lining up warm cinnamon-sugar pretzel bites on a paper napkin and tapping my knuckles whenever a blue-and-silver bus commercial flashed across our muted living-room television. Across from Mr. and Mrs. Collins sat Aunt Linda and our dad, with three mugs of iced tea sweating on cork coasters between them, while Katie sat parked flush on my left with her right fingers laced through mine and Heather sat pulled right up beside my right armrest with a blue ballpoint pen poised above her spiral notebook.
 
-"It's Section 23-7.4 of the Code of Virginia—continuous one-year in-state college domicile," eighteen-year-old Heather explained clearly, sliding the highlighted printout across the oak grain so her dad, Aunt Linda, and my dad could all read the tuition columns side by side. "Because we lived right here in Virginia Beach all through Northwood High School, I already hold full Virginia in-state domicile right now—both for the two-plus-two Guaranteed Transfer agreement at CCHR and for finishing my bachelor's degree in biology and special education at Virginia Dominion University in Norfolk. If I move back to Minnesota next Monday when you and Mom close on the Kempsville house, or if I bounce between states while Aunt Linda transitions Wesley's services, I forfeit Virginia residency or pay out-of-state rates that cost nearly triple every single semester—and Wes loses his place on the Tidewater developmental-services roll right before he turns eighteen."
+"It's Section 23-7.4 of the Code of Virginia—continuous one-year in-state college domicile," eighteen-year-old Heather explained clearly, sliding the highlighted printout across the oak grain so her dad, Aunt Linda, and my dad could all read the tuition columns side by side. "Because we lived right here in Virginia Beach all through Northwood High School, I already hold full Virginia in-state domicile right now—both for the two-plus-two Guaranteed Transfer agreement at CCHR and for finishing my Special Education teaching degree at Virginia Dominion University in Norfolk. If I move back to Minnesota next Monday when you and Mom close on the Kempsville house, or if I bounce between states while Aunt Linda transitions Wesley's services, I forfeit Virginia residency or pay out-of-state rates that cost nearly triple every single semester—and Wes loses his place on the Tidewater developmental-services roll right before he turns eighteen."
 
 Aunt Linda looked thoughtfully from the tuition sheet over to Wesley—whose shoulders were completely relaxed as he munched a pretzel twist six inches from my elbow—and let out a quiet, knowing breath.
 
@@ -2888,59 +2888,153 @@ Brandon looked once from Wesley's broad shoulders to Heather's unyielding face t
 
 The second the deadbolt clicked shut behind him, Wesley unfolded his arms, let out a proud two-note hum, and held out his knuckles; Katie, Heather, and I all laughed out loud in unison as I bumped Wesley's fist twice, safe inside a four-person home where nobody would ever back either of us into a corner or make us sleep behind a locked closet door.
 
-## Touring CCHR, VDU, and Warwick University as a Team
+## Touring CCHR, VDU, Warwick University, & Saying No at Redmond Hall
 
-### Three Campuses on One Legal Pad & Route 112 NNTC at the Shoe Lane Roundabout
+### Part 1: Touring CCHR, VDU, and Warwick University for Wesley & Route 112 NNTC at Shoe Lane
 
-**Date:** 2005-10-15 at 09:40 America/New_York
+**Date:** 2005-10-15 at 09:15 America/New_York
 
-#### Saturday, October 15, 2005, 9:40 AM — Three Campuses on One Legal Pad: CCHR, VDU, & Crossing the Harbor Tunnel
+#### Saturday, October 15, 2005, 9:15 AM — Stop One for Wesley: Quiet Keyboards at the Community College of Hampton Roads
 
-"Campus One checked off, Campus Two checked off, and one fresh thermos of apple cider left in the cupholder before we dive under the bay for Campus Three," twenty-year-old Heather announced cheerfully at ten minutes before noon, clicking the four-point floor tie-down straps tight around Katie's and my black SwiftChair frames inside the lowered floor channel of her used silver side-ramp minivan in the Lot 12 accessible bay at Virginia Dominion University.
+"No rush at all, Wes—take as long as you want to test the chair and listen to the room," twenty-year-old Heather said warmly beside the open oak door of the Workforce and Inclusive Transition Lab on the Norfolk campus of the Community College of Hampton Roads, holding her laminated four-campus checklist flat at chest height so eighteen-year-old Wesley could see the little hand-drawn building icons himself.
 
-Every college decision in our household belonged to all four of us as a team.
+Katie, Heather, and I already knew where the three of us were headed for our bachelor's degrees in the fall. Having finished nearly every credit of our two-year associate degrees side by side at CCHR—Katie and I in computer science, and Heather in her pre-teaching education core—all three of us already held Guaranteed Transfer admission letters to Virginia Dominion University five minutes from our Norfolk apartment.
 
-All morning under a crisp, cloudless mid-October Tidewater sky, the four of us had worked our way methodically down the top two sections of Katie's color-coded legal pad. At nine-forty we had started at the Norfolk campus of the Community College of Hampton Roads—walking and rolling together from the computer-science transfer advising suite where Katie and I were wrapping up our final associate-degree credits over to the workforce-readiness office so eighteen-year-old Wesley could test out the quiet assistive-learning lab without any surprises. From there, we had ridden ten minutes west to Virginia Dominion University along Hampton Boulevard, rolling hub to hub down the wide modernist concrete mall between Dragas Hall and the life-sciences conservatory ponds while Heather showed Wesley the aquatic-turtle research tanks in the biology wing and Katie measured the elevator cab clearances in the upper-division software engineering building where all three of us held in-state transfer admission for the coming fall.
+Today wasn't about our transcripts. Today was one hundred percent for Wesley's sake.
 
-Now came the third stop on our Saturday circuit: evaluating an inclusive post-secondary campus-life and animal-stewardship transition program across the water on the Virginia Peninsula so Wesley could compare both four-year campuses side by side and help choose where our team spent its weekdays.
+Now that Wesley had turned eighteen and entered his final high-school transition years, half a dozen school caseworkers had tried to hand Heather glossy brochures and expect her to sign enrollment forms behind a closed conference-room door without Wesley ever seeing the buildings. Heather, Katie, and I had refused on principle. If a campus was going to ask Wesley to spend his weekdays inside its walls learning life skills, assistive typing, and job readiness, Wesley deserved to walk its sidewalks, hear its hallways, test its chairs, and tell us with his own two hands how each place made him feel.
 
-Buckled into the front passenger bucket seat beside Heather, eighteen-year-old Wesley held his smooth blue silicone wristband-ring comfortably in his left palm and tapped the laminated three-campus checklist clipped to the dashboard twice—grinning wide as Heather backed smoothly out onto Hampton Boulevard and merged north onto Interstate 64 toward Willoughby Spit and the white tiled portal of the Hampton Roads Bridge-Tunnel.
+Stepping unhurriedly across the low-pile carpet of the CCHR transition lab in his sky-blue polo shirt and khaki chinos, six-foot-tall Wesley turned his smooth blue silicone ring twice between his left thumb and forefinger and studied the row of wide, matte-screen computer stations. Unlike the noisy main student lounge down the hall, the morning sunlight slanting through the vertical blinds was soft and steady, without a single flickering fluorescent tube overhead.
 
-"Honestly, having you drive us across the water today is a lifesaver, Heather," Katie called forward over the hum of the tires as sunlight gave way to the bright golden sodium lamps inside the underwater tunnel tube beneath the shipping channel. "Ask Nate and me anything about Southside CVTA transfers from Virginia Beach Boulevard down to Emerald Creek Mall and we can recite every timepoint in our sleep, except the second you cross north of the harbor into Hampton and Newport News, neither one of us knows a single Peninsula bus route."
+Rolling my black SwiftChair quietly up beside the end desk while Katie parked flush on my left with her right hand resting in mine, I tapped the cushioned earcup of a pair of noise-dampening headphones plugged into the oversized color-coded keyboard.
 
-"Not one," I agreed with a laugh from my tied-down SwiftChair beside my sister, lacing my left fingers comfortably through Katie's right hand as the minivan climbed smoothly back out into bright Peninsula sunshine past Fort Monroe and Mercury Boulevard. "Southside route numbers start in the single digits and twenties; up here everything is in the hundreds, and Katie and I have never once had a reason to ride a bus on this side of the water."
+"Same quiet lab corridor right down from where Katie and I wrote our data-structures projects last spring, Wes," I told him at an easy, conversational volume. "Go ahead and try the headphones if you want."
 
-"That's why teams have drivers *and* Southside route encyclopedias," Heather grinned in the rearview mirror, signaling cleanly onto Jefferson Avenue and then turning west toward U.S. Route 60 and State Route 312 into the leafy heart of Newport News. "Hold onto your pretzel bag, Wes—Warwick University coming up on the right."
+Wesley slipped the padded headband carefully over his sandy-reddish-blond hair, pressed the large green touch-pad arrow twice to advance a sample community-schedule screen, and let out a pleased, low one-note hum before setting the headphones neatly back on their hook and tapping the top box on Heather's laminated sheet—a solid, comfortable thumbs-up for Campus One, even if the bustling commuter hallways outside felt a little cramped whenever class bells changed.
 
 ***
 
-#### Saturday, October 15, 2005, 1:45 PM — Neo-Georgian Brick at Warwick University & Route 112 NNTC at the Shoe Lane Roundabout
+#### Saturday, October 15, 2005, 11:05 AM — Stop Two for Wesley: Sunlit Brick & Five Minutes From Home at Virginia Dominion University
+
+"Five minutes door to door from our own hallway, Wes, and zero highway ramps in between," Katie smiled fifty minutes later as the four of us rolled and walked out onto the wide, sunlit concrete-and-brick pedestrian mall of Virginia Dominion University off Hampton Boulevard.
+
+All around us, crisp mid-October sea air rustled through the sycamore leaves along the open quad while Saturday study groups strolled past with backpacks slung over one shoulder—nobody staring at Katie's and my twin powerchairs, nobody crowding Wesley's personal space, and plenty of room across the twenty-foot walkway for all four of us to move abreast as a single unit.
+
+Leading us through the wide automatic glass doors of the Darden College of Education building, Heather guided Wesley down a calm first-floor corridor lined with tactile bulletin boards to the inclusive literacy and assistive-communication clinic where she would begin her Adapted Curriculum Special Education practicum next semester. Inside the demonstration classroom, low round oak tables sat arranged beside soft indirect floor lamps, visual picture schedules, and a quiet corner reading nook stocked with weighted lap pads.
+
+Eighteen-year-old Wesley stood in the doorway for ten full seconds taking in the warm wood grain and the calm silence, his shoulders dropping a full inch lower than they had been at the community college. Walking straight over to the visual schedule board, he traced two fingers lightly over the laminated *Home Bus / Family Pick-Up* icon, looked straight back through the wide window toward Hampton Boulevard—recognizing the exact tree-lined stretch of road five minutes from his own quiet bedroom—and broke into a relaxed, genuine grin.
+
+"Yeah, buddy, I noticed that too," I laughed softly, bumping my knuckles twice against Wesley's outstretched fist while Heather beamed from ear to ear beside my right armrest. "If you ever have an afternoon where a fire drill gets too loud or you just want your own pillow, home is five minutes straight down the street."
+
+Back out at the accessible parking bay in Lot 12, as Heather clicked the four-point floor tie-downs snug around Katie's and my SwiftChair frames inside the lowered channel of her silver side-ramp minivan and poured warm spiced apple cider from a thermos into four paper cups, she held up the laminated checklist so Wesley could see the two remaining boxes below CCHR and VDU.
+
+"Two Norfolk campuses checked off, Wes," Heather said cheerfully, buckling Wesley into the front passenger bucket seat before sliding behind the steering wheel. "Now we head across the harbor tunnel up to Newport News so you can see Warwick University this afternoon—and then next Saturday we drive out west into the Shenandoah Valley to look at that residential state center your school transition coordinator asked us to check out, just so you've seen every single option in Virginia fair and square before you pick."
+
+"Honestly, having you drive us across the water today is a lifesaver, Heather," Katie called forward over the hum of the tires as our minivan merged north onto Interstate 64 toward Willoughby Spit and dipped into the bright golden sodium-lit tube of the Hampton Roads Bridge-Tunnel beneath the shipping channel. "Ask Nate and me anything about Southside CVTA transfers from Virginia Beach Boulevard down to Emerald Creek Mall and we can recite every timepoint in our sleep, except the second you cross north of the harbor into Hampton and Newport News, neither one of us knows a single Peninsula bus route."
+
+"Not one," I agreed with a grin from my tied-down SwiftChair beside my sister, lacing my left fingers comfortably through Katie's right hand as the minivan climbed back out into bright Peninsula sunshine past Fort Monroe and Mercury Boulevard. "Southside route numbers start in the single digits and twenties; up here everything is in the hundreds, and Katie and I have never once had a reason to ride a bus on this side of the water."
+
+"That's why teams have drivers *and* Southside route encyclopedias," Heather laughed in the rearview mirror, signaling cleanly onto Jefferson Avenue and turning west toward U.S. Route 60 and State Route 312 into the leafy heart of Newport News. "Hold onto your pretzel bag, Wes—Campus Three coming right up."
+
+***
+
+#### Saturday, October 15, 2005, 1:45 PM — Stop Three for Wesley: Warwick University & Route 112 NNTC at the Shoe Lane Roundabout
 
 ![On a sunny October 2005 afternoon along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, twenty-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while twenty-year-old Heather stands warmly beside Nate's chair and eighteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg)
 
 "Look at the brickwork on this quad compared to Hampton Boulevard," Katie marveled softly at a quarter to two, easing her SwiftChair hub to hub beside mine along the wide, barrier-free herringbone red-brick walkway curving past Warwick University's stately Neo-Georgian academic hall—its tall white Doric columns and crisp white rooftop cupola gleaming behind a canopy of golden-orange October oak leaves.
 
-For the past hour, the inclusive transition coordinator had walked the four of us at an unhurried, sensory-friendly pace through Warwick University's quiet small-group seminar rooms, botanical courtyard, and campus dining hall—speaking directly to Wesley at eye level rather than talking over his head to Heather. Now, with a brown paper bakery bag of warm soft pretzel bites tucked securely in Wesley's left hand beside his blue silicone ring, the four of us strolled out toward the sunny campus perimeter where Shoe Lane met State Route 312 at a landscaped circular brick-and-flower roundabout.
+For the past hour, Warwick University's inclusive transition liaison had walked the four of us at an unhurried, respectful pace through the campus's small-group seminar rooms, landscaped central lawn, and sunlit dining commons—speaking directly to Wesley at eye level rather than talking over his head to Heather. Now, with a brown paper bakery bag of warm salted soft pretzel bites tucked securely in Wesley's left hand beside his blue silicone ring, the four of us strolled out toward the sunny campus perimeter where Shoe Lane met State Route 312 at a circular brick-and-flowerbed roundabout.
 
 At the low rumble of a diesel engine easing counterclockwise around the central flowerbed island, Wesley's ears perked up instantly.
 
-Exiting the roundabout cleanly down the approach lane to our left—its right-side passenger boarding doors tracking smoothly along the outer concrete curb—rolled a modern blue-and-silver Coastal Virginia Transit Authority gill-window coach, its rectangular amber LED destination header glowing crisp and bright above the windshield: <led>112 NNTC</led>.
+Exiting the roundabout cleanly down the approach lane to our left—its right-side passenger boarding doors tracking smoothly along the outer concrete curb—rolled a clean blue-and-silver Coastal Virginia Transit Authority low-floor coach, its rectangular amber LED destination header glowing crisp and bright above the windshield: <led>112 NNTC</led>.
 
 Wesley beamed from ear to ear, lifted his chin toward the glowing amber sign, and let out a happy, rising two-note vocal hum so I wouldn't miss it.
 
-"Good eye, Wes—Route 112!" I smiled, glancing curiously at the four uppercase letters beside the route number as the clean Peninsula coach glided past the brick crosswalk. "What does *NNTC* stand for up here, Heather?"
+"Good eye, Wes—Route 112!" I smiled, glancing curiously at the four uppercase letters beside the route number as the Peninsula bus glided past the brick crosswalk. "What does *NNTC* stand for up here, Heather?"
 
-"Newport News Transit Center—the main downtown Peninsula transfer hub down at Thirty-Fifth Street and Washington Avenue by the shipyard," Heather explained easily, walking right beside my right wheel in her navy varsity cardigan with her van key fob clipped neatly to her front pocket. "All the Peninsula hundred-series routes—the 112 here at the Shoe Lane roundabout, plus the 106 and 107 over on Warwick Boulevard—funnel down to Thirty-Fifth and Washington."
+"Newport News Transit Center—the main downtown Peninsula transfer hub down at Thirty-Fifth Street and Washington Avenue by the shipyard," Heather explained easily, walking right beside my right wheel in her navy varsity cardigan with her van key fob tucked neatly in her pocket. "All the Peninsula hundred-series routes—the 112 here at the Shoe Lane roundabout, plus the 106 and 107 over on U.S. Route 60—funnel down to Thirty-Fifth and Washington."
 
-"File that away in case we ever audit Peninsula routes one day, Nate," Katie teased lightly beside me, grateful in the warm October breeze that the downtown Newport News transfer hub was nothing more to either of us than four glowing amber letters on a sunny Saturday campus tour. Turning back toward Wesley, Katie tapped her pen against her legal pad. "All right, Wesley—between CCHR, VDU right down the street from our Norfolk apartment, and Warwick University over here across the tunnel, which campus felt best to you?"
+"File that away in case we ever audit Peninsula routes one day, Nate," Katie teased lightly beside me, grateful in the warm October breeze that the downtown Newport News transfer hub was nothing more to either of us than four glowing amber letters on a sunny Saturday campus walk. Looking up at Wesley with a warm smile, Katie nodded toward his pretzel bag. "Pretty campus, isn't it, Wes? Even with thirty minutes of bridge-tunnel traffic in between."
 
-Thoughtfully chewing a warm bite of salted pretzel while the 112 hummed away down the tree-lined street, eighteen-year-old Wesley looked back toward the Neo-Georgian columns behind us, shook his head once against thirty minutes of tunnel traffic every morning, and then tapped the middle box on Heather's clipboard twice—right over the biology turtle-pond sketch from Virginia Dominion University five minutes from home—before reaching his right fist straight across to my armrest.
+Chewing a warm bite of salted pretzel while the 112 hummed away down the tree-lined street, eighteen-year-old Wesley looked appreciatively back at the white Neo-Georgian columns, gave a polite little nod for the pretty brick lawn, and still kept one finger resting thoughtfully over the Virginia Dominion University sketch from five minutes away in Norfolk—before reaching his right fist straight across to my armrest.
 
-Laughing together in the golden October sunshine, Heather rested her hand warmly against my shoulder, Katie laced her left hand tighter through mine, and I reached up to bump Wesley's knuckles twice—four teammates with one home base in Tidewater, zero broken Saturdays behind us, and every semester ahead wide open.
+Laughing together in the golden October sunshine, Heather smiled warmly beside me, Katie laced her left hand tighter through mine, and I reached up to bump Wesley's knuckles twice—three local colleges seen through Wesley's own eyes, and just one final Saturday drive out to the Shenandoah Valley left before Wesley made his choice official.
+
+### Part 2: Redmond Hall, Gender-Separated Dorms, & Why Heather Is Wesley's Safe Person
+
+**Date:** 2005-10-22 at 13:15 America/New_York
+
+#### Saturday, October 22, 2005, 1:15 PM — Fluorescent Halls in Fishersville & Stopping Outside Redmond Hall
+
+"Right down this covered walkway are our residential dormitories, folks—we're very proud of how structured our twenty-four-hour campus supervision is here at Roosevelt Rehabilitation Center," the admissions outreach coordinator said briskly over her shoulder, tapping a laminated badge against her clipboard as her low heels clicked across the scuffed green-and-white terrazzo floor of the Bates-Harding Building.
+
+Three hours of driving west up Interstate 64 past Richmond, Charlottesville, and the autumn-gold crest of Afton Mountain had brought the four of us down into Fishersville solely because Wesley's high-school transition caseworker had pressed a glossy state brochure into Heather's hand back in September, insisting that no Virginia family should rule out the Commonwealth's flagship residential vocational center without taking the Saturday tour. True to our word from last weekend in Norfolk and Newport News, Heather had packed our thermoses of hot chocolate and apple juice into her silver side-ramp minivan so eighteen-year-old Wesley could judge the place with his own eyes.
+
+Within five minutes of rolling off the parking lot ramp onto the sprawling 1960s and 1970s red-brick complex—built across former World War II Army hospital grounds where fluorescent ceiling troffers buzzed overhead and antiseptic floor wax hung sharp in the corridor air—Katie and I had already traded two quiet, uneasy squeezes across our inner SwiftChair armrests.
+
+Nothing here looked or felt like a college campus.
+
+Passing the flat-roofed brick entrance of Barton Hall and looking across the courtyard toward Cantor Hall, the tour guide cheerfully pointed out the front-desk sign-out ledgers, the mandatory eleven-o'clock nightly bed-check curfews for new arrivals, and the signed paper hall passes required just to step off the grounds into Waynesboro. Walking half a pace closer to Heather's right sleeve than usual, six-foot-tall Wesley kept his left hand buried deep inside his jacket pocket, turning his smooth blue silicone ring faster and faster against his palm while his eyes darted toward a heavy pair of wire-mesh corridor doors ahead.
+
+Above the magnetic card reader beside those double doors hung a brown engraved plastic nameplate: *Redmond Hall — Medical Residential Unit*.
+
+"Suppose a family did apply for a one-year vocational skills track here," twenty-year-old Heather asked evenly, slowing to a stop ten feet back from the locked doors with one hand resting lightly near Wesley's elbow so he wouldn't feel crowded. "Since I'm Wesley's plenary legal guardian—or if siblings enroll together—how do your family suite or shared dormitory room assignments work?"
+
+The tour guide gave a polite, practiced little laugh, shaking her head as if Heather had asked whether students could park their cars in the cafeteria.
+
+"Oh, goodness, no—we don't have family suites, and all of our dormitories here at Roosevelt are strictly gender-separated," she replied without missing a beat. "Men reside exclusively on the men's wings and women reside exclusively on the women's wings, with zero opposite-gender access to dormitory rooms overnight. Even married couples or a brother and sister enrolling on the exact same day live on completely separate halls."
+
+Beside me, Katie's fingers stiffened instantly around my left hand, both of us feeling a cold jolt down our spines at the mere thought of an unbending rulebook splitting family onto opposite sides of a building after dark.
+
+Before either Katie or I could say a word, however, the tour guide glanced down at the intake summary clipped to the top of her pad, looked up at eighteen-year-old Wesley, and tapped her pen against the brown nameplate on the wall.
+
+"And in Wesley's case, since his transition profile notes that he is non-verbal and requires developmental daily-living support, he wouldn't be placed over in Barton Hall or Cantor Hall anyway," the guide added matter-of-factly. "Clients with Wesley's support profile are required to live right through these doors in Redmond Hall, our secured medical dormitory. Our rotating night-shift orderlies and nurses monitor the corridor around the clock behind the badge-locked station, and family guardians schedule daytime visits through the front desk."
+
+For three silent heartbeats, the buzzing fluorescent tubes overhead were the only sound in the hallway.
+
+Growing up, whenever a thunderstorm cracked above the roof at two in the morning, whenever a bad dream tangled him in his sheets, or whenever strange shadows on an unfamiliar wall scared him in the dark, Wesley would start to cry—and ever since he was a little boy, he had known down in his bones the one unbreakable truth that made the dark stop hurting: he could push back his blanket, pad barefoot across the hallway straight into Heather's bedroom, climb right into bed beside his cousin, and let Heather wrap both arms warmly around him and cuddle him close until his chest stopped hitching and the world felt safe again.
+
+Heather wasn't a daytime visitor on a clipboard schedule. Heather was Wesley's Safe Person.
+
+Staring past the wire-mesh glass of Redmond Hall at the pale green cinder-block hallway, the glowing red exit sign, and the badge-locked nursing desk where strangers in scrubs would stand between him and the door if he woke up crying and scared in the middle of the night—miles and hours away from Heather's bed—eighteen-year-old Wesley's breath caught hard in his throat.
+
+His lower lip trembled once. His blue silicone ring slipped loose inside his pocket, two hot tears spilled straight over his lower lashes, and six-foot-tall Wesley turned squarely toward twenty-year-old Heather, dropped his forehead down onto her shoulder, and cried his eyes out in her arms.
+
+Heather didn't flinch, hush him, or care who walked past in the corridor.
+
+Dropping her laminated campus checklist onto my lap tray in half a second so both of her hands were completely free, Heather wrapped her arms fiercely around Wesley's shaking shoulders, cradled the back of his sandy-haired head tenderly against her neck, and rocked him half an inch side to side—holding him right there against her collarbone with the exact steady, protective warmth she had given him every scared night of his life, while Katie and I immediately rolled our two black SwiftChairs close beside Wesley's elbow to wall off the hallway around them.
+
+"Oh, dear—first tours can certainly feel overwhelming at first," the coordinator began awkwardly, clutching her clipboard to her cardigan. "Once clients settle into Redmond Hall for a week or two, our night staff—"
+
+"Excuse me, ma'am," Heather interrupted softly, her voice completely polite, unraised, and as immovable as granite as she kept one hand cradling the back of Wesley's head and wiped a tear gently from his cheek with her thumb. Looking straight over Wesley's shoulder into the tour guide's eyes, Heather didn't yield half an inch. "Thank you very much for your time today, truly—except we won't be needing the rest of the tour. This is Wesley making his decision, and the answer is no."
+
+The coordinator blinked, opened her mouth once as if to offer another brochure, took one look from Wesley buried tightly in Heather's embrace to Katie's and my twin glares flanking them hub to hub, and quietly stepped back with a small nod. "Of course. The main lobby doors are straight back down the walkway whenever you're ready."
+
+***
+
+#### Saturday, October 22, 2005, 2:10 PM — Mountain Sunshine, Hot Chocolate in the Van, & Choosing Home
+
+"Nobody on earth is ever putting a locked door between you and me at night, Wes—not for one night, not ever," Heather murmured ten minutes later inside the quiet, sun-warmed cabin of our parked silver minivan at the far end of the visitor lot, sitting sideways on the middle passenger bench right beside Wesley with her arm wrapped steadily around his shoulders while autumn maple leaves drifted across the windshield.
+
+With the side ramp folded up and the sliding door closed against the crisp mountain breeze, the sharp smell of hospital floor wax was gone, replaced by sweet warm cocoa from Katie's and my thermos cups. Resting his head against Heather's shoulder until the last hiccuping tremor finally left his chest, eighteen-year-old Wesley took a long, slow sip of warm hot chocolate, reached into his left pocket to slip his smooth blue silicone ring back onto his fingers, and let out a long, quiet breath.
+
+Parked right behind the middle bench in our tied-down SwiftChairs with our inner armrests flipped up so Katie could lean close against my left side in a grounding hug of our own, my twin sister and I looked forward at the two of them with our hearts completely full.
+
+"Even if Wesley hadn't cried, Katie and I were two seconds away from turning our chairs around for the exact same reason," I told Heather honestly, keeping my right arm wrapped warmly around Katie's shoulders. "Hearing her say they split brothers and sisters onto separate wings at night made my stomach drop through the floor. Neither one of us is ever living in a place like that either."
+
+"Never," Katie agreed quietly and firmly, resting her cheek against my shoulder before smiling warmly up at Wesley. "No hall passes, no strangers grabbing push-handles, and no locked doors keeping family apart when somebody gets scared at night."
+
+Reaching down to my lap tray, I picked up Heather's laminated four-campus checklist and uncapped her black dry-erase marker, holding both up toward the middle bench.
+
+Wesley looked down at the four boxes—CCHR, Virginia Dominion University, Warwick University across the harbor tunnel, and Roosevelt Rehabilitation Center at the bottom. Taking the marker calmly in his right hand, eighteen-year-old Wesley drew one deliberate, unmistakable line straight across the Fishersville box from corner to corner. Then, without a single second of hesitation, he tapped the felt tip twice—firm and proud—right inside the second box beside the five-minute Hampton Boulevard sketch for Virginia Dominion University, let out his happiest two-note rising hum, and held his right fist back between the seats toward me.
+
+Grinning through a bright sheen in my own eyes while Heather kissed Wesley's temple and laughed softly with relief, I bumped my knuckles twice against my best friend's fist—turning our van east toward Afton Mountain, Interstate 64, and the one Tidewater home where all four of us belonged together under one roof.
 
 ## House Bill 663, Rescuing Both Cousins, & Twelve Extra Years Together
 
-### Part 1: Three Alumni at the Sanctuary Doors & Romaine Squares Waiting in Kempsville
+### Part 1: Three Alumni at the Sanctuary Doors & Shelly Turtle Comes Home to Kempsville
 
 **Date:** 2016-02-06 at 13:40 America/New_York
 
@@ -2950,7 +3044,7 @@ Laughing together in the golden October sunshine, Heather rested her hand warmly
 
 Forty-eight hours earlier inside the marble chamber of the Virginia House of Delegates up on Capitol Square—after six tireless years of Katie fighting her way from Kempsville City Council to the Eighty-Fifth House District while riding Southside CVTA buses everywhere on principle—my twin sister had risen beside her desk microphone and gutted House Bill 663 line by line in defense of Sam, Mandy, and Sarah Hawkins, winning a bipartisan standing ovation alongside Uncle Richard Callaway that led every six-o'clock broadcast in central Virginia. Yesterday afternoon outside the General Assembly Building, a breathless, gaunt thirty-year-old woman in a frayed winter coat had sprinted off a James River Transit Commission bus shouting *"Hold the elevator!"* before throwing herself weeping across Katie's lap: our cousin Brittany Fletcher, trapped three miles across the river on a joint Hillside Court public-housing lease by a controlling fiancé trying to force a Saturday wedding so she could never testify or leave.
 
-When Heather and Dad drove twenty-eight-year-old Wesley up Interstate 64 from our Hampton Roads *North Lion Scales & Tails* reptile conservatory on Military Highway to meet Katie and me in Richmond that morning—leaving Dad and Wesley safely out in the church courtyard beside the accessible van so loud voices wouldn't distress Wes—Heather had taken one look at the groom's name on Brittany's crumpled marriage-license receipt and insisted on walking down that center aisle right beside our two wheelchairs.
+When Heather and Dad drove twenty-eight-year-old Wesley up Interstate 64 from Virginia Beach on Saturday morning after Heather wrapped up her Friday afternoon IEP paperwork at school—leaving Dad and Wesley safely out in the sunny church courtyard beside the accessible van so loud voices wouldn't distress Wes—Heather had taken one look at the groom's name on Brittany's crumpled marriage-license receipt and insisted on walking down that center aisle right beside our two wheelchairs.
 
 "Does anyone present know of any lawful or moral reason why these two should not be joined—" the officiating pastor began from the low wooden chancel.
 
@@ -2966,21 +3060,21 @@ Trembling from head to toe in a thrift-store ivory dress she hadn't chosen, Brit
 
 ***
 
-#### Saturday, July 16, 2016, 6:20 PM — Romaine Squares Waiting on Arvin Road & Wesley Meets Turtle Girl
+#### Saturday, July 16, 2016, 6:20 PM — Shelly Turtle Safe Under Her Chin & Wesley Welcomes Chelsea Home
 
-"Easy over the threshold, Chelsea—nobody's rushing you here, sweetheart, and Shelly's travel carrier is right level in Nate's hands," Dad said gently five months later as early-evening July sunlight slanted across the wide zero-step oak ramp of our restored family home in Kempsville.
+"Easy over the threshold, Chelsea—nobody's rushing you here, sweetheart, and Shelly Turtle is right safe in your arms," Dad said gently five months later as early-evening July sunlight slanted across the wide zero-step oak ramp of our family home on Arvin Road.
 
-Fresh off celebrating Brittany passing her High School Equivalency exam in June, Dad, Katie, Heather, Brittany, and I had spent the week up in Rhode Island—riding Braxton Transit Authority Route 99 up Mount Regalis, exposing the neglectful group-home administrator in probate court with crisp medical documentation, and bringing thirty-four-year-old Cousin Chelsea and her beloved painted turtle Shelly home for good to Virginia Beach while Wesley stayed overnight with Aunt Linda five minutes down Kempsville Road so the twelve-hour highway drive wouldn't overwhelm either of them.
+Fresh off celebrating Brittany passing her High School Equivalency exam in June, Dad, Katie, Heather, Brittany, and I had spent the week up in Rhode Island—riding Braxton Transit Authority Route 99 up Mount Regalis, exposing the neglectful group-home administrator in probate court with crisp medical documentation, and bringing thirty-four-year-old Cousin Chelsea and her beloved green plush sea turtle *Shelly Turtle* home for good to Virginia Beach while Wesley stayed overnight with Aunt Linda five minutes down Kempsville Road so the twelve-hour highway drive wouldn't overwhelm either of them.
 
-Now, ten minutes before our van pulled into the driveway, Aunt Linda had dropped twenty-nine-year-old Staff Member Wesley off in our cool, quiet living room—dressed neatly in his navy-blue *North Lion Scales & Tails* Tidewater conservatory polo shirt, his smooth blue silicone ring resting in his left pocket, and a wide ceramic bowl of freshly washed, bite-sized crisp green romaine lettuce squares balanced carefully in both hands beside the pre-cycled seventy-five-gallon sunlit basking habitat Heather and Wesley had built along the living-room wall all week.
+Now, ten minutes before our van pulled into the driveway, Aunt Linda had dropped twenty-nine-year-old Wesley off in our cool, quiet living room—dressed neatly in his favorite soft navy-blue polo shirt, his smooth blue silicone ring resting in his left pocket, and a laminated visual welcome card from Heather's Special Education classroom toolkit set beside a plate of fresh sliced strawberries on the low oak coffee table.
 
-Stepping timidly across the threshold in her soft pink cardigan with both hands hovering protectively near the ventilated travel tub on my lap tray, thirty-four-year-old Chelsea froze two steps inside the foyer when she spotted the spacious, crystal-clear glass turtle sanctuary humming gently with warm basking light—and the tall, gentle sandy-haired man standing quietly beside it holding fresh green lettuce just for Shelly.
+Stepping timidly across the threshold in her tagless soft pink cardigan with plush green *Shelly Turtle* hugged tight under her chin and both inhalers tucked safely into her front pocket, thirty-four-year-old Chelsea froze two steps inside the foyer when she spotted the cozy green armchair waiting by the sunlit window—and the tall, gentle sandy-haired man standing quietly beside the oak table without crowding her space.
 
-"Turtle tank... big clean water for Shelly?" Chelsea whispered in wonder, blinking up from the smooth cork basking dock to Wesley's warm brown eyes.
+"Safe house... chair for Chelsea and Shelly?" Chelsea whispered in wonder, blinking up from the soft throw blanket to Wesley's warm brown eyes.
 
-Wesley didn't crowd her by half an inch. Smiling with quiet, unmistakable reverence, twenty-nine-year-old Wesley set the ceramic bowl gently on the low oak stand at elbow height, tapped the rim twice, and let out his softest, calmest two-note welcoming hum—offering Chelsea the very first crisp romaine leaf between two steady fingers so *she* could be the one to feed Shelly in her new home.
+Wesley didn't crowd her by half an inch. Smiling with quiet, unmistakable reverence, twenty-nine-year-old Wesley pointed once to the happy green turtle sticker Heather had laminated onto Chelsea's welcome card, tapped twice gently over his own heart, and let out his softest, calmest two-note welcoming hum—sliding the plate of sweet red strawberries two inches toward Chelsea so she knew she never had to ask permission to eat in her own home again.
 
-Across our inner armrests in the foyer, Katie's hand tightened warmly around mine while Heather leaned her cheek against my right shoulder and Brittany wiped a happy tear onto her sleeve beside Dad. Watching Chelsea beam up at Wesley as Shelly paddled eagerly toward the glass—right here in our Virginia Beach living room in the summer of 2016, with zero state lines and zero thousand-mile flights standing between them—I knew down in my bones that neither Wesley nor Chelsea would ever spend another lonely season apart.
+Across our inner armrests in the foyer, Katie's hand tightened warmly around mine while Heather leaned her cheek against my right shoulder and Brittany wiped a happy tear onto her sleeve beside Dad. Watching Chelsea beam up at Wesley while hugging plush Shelly Turtle close to her chest—right here in our Virginia Beach living room in the summer of 2016, with zero state lines and zero thousand-mile flights standing between them—I knew down in my bones that neither Wesley nor Chelsea would ever spend another lonely season apart.
 
 ### Part 2: Six Chairs in the Rose Garden & Twelve Extra Years Under One Sky
 
@@ -2992,7 +3086,7 @@ Across our inner armrests in the foyer, Katie's hand tightened warmly around min
 
 Parked hub to hub on the level bluestone terrace right beside the mahogany signing desk in our two compact black powerchairs, forty-three-year-old United States Senator Katie Prairie and I kept our inner hands laced tightly together while warm mid-June sunshine settled across our shoulders.
 
-Even though Wesley and forty-six-year-old Chelsea had never once been separated by a thirteen-hundred-mile flight—having spent twelve unbroken, joyful years side by side in Virginia Beach tending rescued Tidewater painted turtles at *North Lion Scales & Tails* on Military Highway, riding Route 15 down to Emerald Creek Mall for soft pretzels, and sitting together on our Kempsville porch swing every evening—the archaic federal marriage and "holding-out" penalties inside Social Security had still stood like a tripwire across our hallway, punishing two disabled adults with slashed benefits and Medicaid waiver red tape if they ever exchanged rings or shared one bedroom suite without fear. Watching Wesley and Chelsea hold hands across twelve full Virginia summers had been the exact fire that propelled Katie from the Senate of Virginia in Richmond to the United States Senate in November 2026—and onto the floor of the Capitol to pass the *Supported Companions, Waiver Portability, and Social Security Solvency Act* by overwhelming bipartisan margins.
+Even though Wesley and forty-six-year-old Chelsea had never once been separated by a thirteen-hundred-mile flight—having spent twelve unbroken, joyful years side by side in Virginia Beach helping prep laminated communication cards for Heather's Special Education students, riding Route 15 down to Emerald Creek Mall for warm soft pretzels, and sitting together on our Kempsville porch swing every evening—the archaic federal marriage and "holding-out" penalties inside Social Security had still stood like a tripwire across our hallway, punishing two disabled adults with slashed benefits and Medicaid waiver red tape if they ever exchanged rings or shared one bedroom suite without fear. Watching Wesley and Chelsea hold hands across twelve full Virginia summers had been the exact fire that propelled Katie from the Senate of Virginia in Richmond to the United States Senate in November 2026—and onto the floor of the Capitol to pass the *Supported Companions, Waiver Portability, and Social Security Solvency Act* by overwhelming bipartisan margins.
 
 When President Morales finished writing the final stroke of her signature, turned straight around from the mahogany desk, and handed the first ceremonial box pen to Katie and the second directly into forty-one-year-old Wesley's and forty-six-year-old Chelsea's joined hands, the entire Rose Garden rose to its feet in thunderous applause.
 
