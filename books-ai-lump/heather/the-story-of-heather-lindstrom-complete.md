@@ -12,7 +12,7 @@ title: "The Story of Heather Lindstrom"
 
 #### Saturday, January 11, 2003, 10:45 AM — Aunt Linda's Living Room in Chesapeake: Two Taps on the Front Door & The Question Heather Dreaded All Week
 
-![On a sunlit Saturday morning in January 2003 inside Aunt Linda's Chesapeake split-level living room, fifteen-year-old non-verbal Wesley Collins in a navy-blue fleece quarter-zip pullover and blue jeans with his blue silicone ring on his wrist cradles the oak-framed Emerald Creek Mall snapshot protectively inward against his chest while pointing emphatically toward the closed front door in heartbroken teenage fury, as seventeen-year-old Heather Collins sits stricken and remorseful on the bottom stair step beside her car keys and Aunt Linda watches quietly from the oak bookshelf.]({{CDN}}/raggiesoft-books/images/scenes/heather/e001/jan_2003_chesapeake_living_room_wesley_photo_blowout_heather.jpg)
+![On a sunlit Saturday morning in January 2003 inside Aunt Linda's Chesapeake split-level living room, fifteen-year-old non-verbal Wesley Sorenson in a navy-blue fleece quarter-zip pullover and blue jeans with his blue silicone ring on his wrist cradles the oak-framed Emerald Creek Mall snapshot protectively inward against his chest while pointing emphatically toward the closed front door in heartbroken teenage fury, as seventeen-year-old Heather Collins sits stricken and remorseful on the bottom stair step beside her car keys and Aunt Linda watches quietly from the oak bookshelf.]({{CDN}}/raggiesoft-books/images/scenes/heather/e001/jan_2003_chesapeake_living_room_wesley_photo_blowout_heather.jpg)
 
 *Thump-thump-thump-thump.*
 
@@ -106,7 +106,7 @@ Outside Room 204 on Monday morning, Nate had reached out from his wheelchair wit
 
 **Date:** 2003-02-15 at 10:15 America/New_York
 
-![On a sunlit winter morning inside Aunt Linda's Chesapeake split-level living room, fifteen-year-old non-verbal Wesley Collins cradles the oak-framed Emerald Creek Mall snapshot protectively against his chest while pointing emphatically toward the front door as seventeen-year-old Heather Collins looks on in quiet remorse.]({{CDN}}/raggiesoft-books/images/scenes/heather/e001/jan_2003_chesapeake_living_room_wesley_photo_blowout_heather.jpg)
+![On a sunlit winter morning inside Aunt Linda's Chesapeake split-level living room, fifteen-year-old non-verbal Wesley Sorenson cradles the oak-framed Emerald Creek Mall snapshot protectively against his chest while pointing emphatically toward the front door as seventeen-year-old Heather Collins looks on in quiet remorse.]({{CDN}}/raggiesoft-books/images/scenes/heather/e001/jan_2003_chesapeake_living_room_wesley_photo_blowout_heather.jpg)
 
 #### Saturday, February 15, 2003, 10:15 AM — Five Weeks Since the Blowout, Cousin Hannah's Green Parka, & Wesley's Silent Protest
 

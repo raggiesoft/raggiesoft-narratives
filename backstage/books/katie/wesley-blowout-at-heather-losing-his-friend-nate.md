@@ -1,6 +1,6 @@
 ---
 title: "Five Red X's on the Wall Calendar: Wesley's Perspective on the Morning He Thought He Lost Nate Forever"
-subtitle: "From Fifteen-Year-Old Non-Verbal Wesley Collins's Third-Person Limited Point of View — Why Heather's Breakup Felt Like Losing His Only Guy Friend on Earth"
+subtitle: "From Fifteen-Year-Old Non-Verbal Wesley Sorenson's Third-Person Limited Point of View — Why Heather's Breakup Felt Like Losing His Only Guy Friend on Earth"
 category: "Katie & Nathaniel — Behind the Scenes"
 property: "books"
 date: "2003-01-11"
@@ -11,8 +11,8 @@ recipient: "Readers of The Story of Heather Lindstrom & Katie & Nathaniel (Episo
 relatedBookUrl: "https://books.raggiesoft.com/heather/scales-tails-and-safe-people/saturday-pretzel-day-the-empty-shelf-the-boy-without-a-phone-bridge/part-1-the-empty-pretzel-table-the-oak-frame-off-the-shelf-why-wesley-blew-up"
 relatedBookLabel: "The Story of Heather Lindstrom — Episode 1, Chapter 1, Part 1: Why Wesley Blew Up"
 image: "https://assets.raggiesoft.com/raggiesoft-backstage/images/scenes/wesley-blowout-at-heather-jan-2003.jpg"
-imageAlt: "On a sunlit Saturday morning in January 2003 inside his Chesapeake split-level living room, fifteen-year-old non-verbal Wesley Collins in a navy-blue fleece quarter-zip pullover and blue jeans with his blue silicone ring on his wrist cradles the oak-framed Emerald Creek Mall snapshot protectively inward against his chest while pointing emphatically toward the closed front door in heartbroken teenage protest, as seventeen-year-old Heather Collins sits stricken on the bottom stair step beside her car keys and his mother Linda watches quietly from the oak bookshelf."
-summary: "While Katie & Nathaniel follows Nate in Virginia Beach and The Story of Heather Lindstrom follows Heather in Chesapeake, this companion scene enters fifteen-year-old non-verbal Wesley Collins's own third-person limited perspective on Saturday morning, January 11, 2003—revealing the sheer terror of having zero phone, bus, or spoken bridge to his very first guy friend when Heather messed up."
+imageAlt: "On a sunlit Saturday morning in January 2003 inside his Chesapeake split-level living room, fifteen-year-old non-verbal Wesley Sorenson in a navy-blue fleece quarter-zip pullover and blue jeans with his blue silicone ring on his wrist cradles the oak-framed Emerald Creek Mall snapshot protectively inward against his chest while pointing emphatically toward the closed front door in heartbroken teenage protest, as seventeen-year-old Heather Collins sits stricken on the bottom stair step beside her car keys and his mother Linda watches quietly from the oak bookshelf."
+summary: "While Katie & Nathaniel follows Nate in Virginia Beach and The Story of Heather Lindstrom follows Heather in Chesapeake, this companion scene enters fifteen-year-old non-verbal Wesley Sorenson's own third-person limited perspective on Saturday morning, January 11, 2003—revealing the sheer terror of having zero phone, bus, or spoken bridge to his very first guy friend when Heather messed up."
 ---
 
 > **Archival Note:** In [***The Story of Heather Lindstrom — Episode 1, Chapter 1, Part 1***](https://books.raggiesoft.com/heather/scales-tails-and-safe-people/saturday-pretzel-day-the-empty-shelf-the-boy-without-a-phone-bridge/part-1-the-empty-pretzel-table-the-oak-frame-off-the-shelf-why-wesley-blew-up) and [***Katie & Nathaniel — Episode 4, Chapter 2***](https://books.raggiesoft.com/katie/senior-year-separate-tracks/new-year-s-eve-behind-a-locked-door-the-lie-in-homeroom-212-one-last-pretzel-at-emerald-creek/part-3-tyler-s-parka-lie-blows-up-in-the-cafeteria-five-months-of-silence-signing-up-for-cchr), seventeen-year-old **Heather Collins** ends her relationship with sixteen-year-old **Nathaniel Prairie** outside Room 204 at Northwood High on Monday, January 6, 2003 without letting him speak. Five mornings later, Heather has to tell her fifteen-year-old non-verbal cousin **Wesley** why they aren't driving to **Emerald Creek Mall**. This Backstage companion narrative tells that exact Saturday morning strictly from **Wesley's third-person limited point of view**.
@@ -21,7 +21,7 @@ summary: "While Katie & Nathaniel follows Nate in Virginia Beach and The Story o
 
 ## Saturday, January 11, 2003, 10:40 AM — Five Red Crayon X's & The Only Boy Who Never Talked Baby-Talk
 
-Up in his sunlit Chesapeake bedroom, fifteen-year-old Wesley Collins uncapped his thick red washable marker, stood right in front of the Puppy-a-Month wall calendar hanging beside his closet door, and drew a careful, triumphant diagonal X across the square for Friday, January tenth.
+Up in his sunlit Chesapeake bedroom, fifteen-year-old Wesley Sorenson uncapped his thick red washable marker, stood right in front of the Puppy-a-Month wall calendar hanging beside his closet door, and drew a careful, triumphant diagonal X across the square for Friday, January tenth.
 
 That left Saturday, January eleventh—the square with the shiny yellow smiley-face sticker his mom had helped him press onto the paper back on New Year's Day.
 
