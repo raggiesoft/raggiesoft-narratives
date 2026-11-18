@@ -3,19 +3,19 @@ title: "Alternate 'What If' Dossier (Ending B — 6:40 AM): Sneaking Past the Mo
 subtitle: "What Happens If Nobody Re-Checks the Rec Hall Overnight, Nate and Katie Pull Off a Flawless Dawn Stealth Exit, & They Ask Their Own Search Party Who Went Missing"
 category: "Katie & Nathaniel — Behind the Scenes"
 property: "books"
-date: "2007-03-14"
+date: "2007-07-18"
 time: "03:35–08:45 EDT"
 location: "Campus Recreation Hall & Main Quadrangle, Roosevelt Rehabilitation Center, Fishersville, Virginia"
 sender: "RaggieSoft Backstage Production Dossier"
-recipient: "Readers of Katie & Nathaniel (Episode 6, Chapter 2, Part 2)"
+recipient: "Readers of Katie & Nathaniel (Episode 7, Chapter 2, Part 2)"
 relatedBookUrl: "https://books.raggiesoft.com/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report/part-2-emergency-in-the-therapeutic-pool-caught-sleeping-together-in-a-closet-calling-the-staffer-s-bluff-the-chickenshit-report"
-relatedBookLabel: "Episode 6, Chapter 2, Part 2: Caught Sleeping Together in a Closet"
+relatedBookLabel: "Episode 7, Chapter 2, Part 2: Caught Sleeping Together in a Closet"
 image: "https://assets.raggiesoft.com/raggiesoft-backstage/images/scenes/what-if-rrc-unlocked-closet-ending-b-640am-courtyard.jpg"
-imageAlt: "At crisp 6:40 AM March sunrise on the red-brick courtyard quadrangle outside the Roosevelt Rehabilitation Center Rec Hall—where an oblivious janitor with a yellow mop bucket is visible inside the glass doors—twenty-one-year-old Katie Prairie with a small white gauze strip across her nose and her twin brother Nate round a trimmed boxwood hedge side by side in their two black collapsible joystick wheelchairs in wide-eyed, innocent surprise with zero clue they are the missing persons, as forty-eight-year-old David Prairie holding a foam coffee cup beside his Dark Midnight Blue and Ultra Silver 1991 Crew Cab 4x4, uniformed Sheriff's deputies and State Troopers beside flashing cruiser lightbars, Dr. Evelyn Cross, and a jaw-dropped Night Supervisor spin around 180 degrees in stunned disbelief."
+imageAlt: "At crisp 6:40 AM March sunrise on the red-brick courtyard quadrangle outside the Roosevelt Rehabilitation Center Rec Hall—where an oblivious janitor with a yellow mop bucket is visible inside the glass doors—twenty-two-year-old Katie Prairie with a small white gauze strip across her nose and her twin brother Nate round a trimmed boxwood hedge side by side in their two black collapsible joystick wheelchairs in wide-eyed, innocent surprise with zero clue they are the missing persons, as forty-eight-year-old David Prairie holding a foam coffee cup beside his Dark Midnight Blue and Ultra Silver 1991 Crew Cab 4x4, uniformed Sheriff's deputies and State Troopers beside flashing cruiser lightbars, Dr. Evelyn Cross, and a jaw-dropped Night Supervisor spin around 180 degrees in stunned disbelief."
 summary: "An official Alternate 'What If' exploration (Ending B): when the Night Supervisor swears on three state incident forms that the Rec Hall is empty, Katie and Nate sleep eight glorious hours undisturbed, sneak past the 6:25 AM janitor on Speed Setting 1 so nobody inside sees them, and roll casually onto the sunlit quad—having zero clue that the police command post and their dad are there looking for them."
 ---
 
-> **Archival Note:** In [**`Alternate 'What If' — Ending A (3:50 AM)`**](/books/katie/what-if-rrc-unlocked-closet-ending-a-three-fifty-am), leaving the Rec Hall seasonal storage closet **unlocked** at `10:44 PM` on Tuesday, March 13, 2007 fools the `11:25 PM` curfew sweep until **David Prairie** arrives from Alexandria at `3:35 AM` and asks whether anyone actually flipped the closet light switch on.
+> **Archival Note:** In [**`Alternate 'What If' — Ending A (3:50 AM)`**](/books/katie/what-if-rrc-unlocked-closet-ending-a-three-fifty-am), leaving the Rec Hall seasonal storage closet **unlocked** at `10:44 PM` on Tuesday, July 17, 2007 fools the `11:25 PM` curfew sweep until **David Prairie** arrives from Alexandria at `3:35 AM` and asks whether anyone actually flipped the closet light switch on.
 >
 > In **`Ending B (6:40 AM)`**, one bureaucratic detail tips the night even further into pure comedy gold: to cover his own tracks in front of **Director Dr. Evelyn Cross** and the **Augusta County Sheriff's Office**, the **Night Supervisor** swears up and down on three official logs that he *personally entered and cleared every inch of the Rec Hall seasonal closet with a flashlight*—guaranteeing that **nobody sets foot inside the Rec Hall all night long**, and setting up the greatest accidental stealth exit in Fishersville history.
 
@@ -34,7 +34,7 @@ Sixty yards behind them, tucked cozily behind racks of winter coats and heavy bu
 
 ## 2. 6:22 AM – 6:39 AM — Operation Speed-One Stealth Inside the Rec Hall
 
-Stretching his shoulders in the quiet dark without hitting a single dorm wall, twenty-one-year-old Nate checks his watch (`6:22 AM`—he hasn't even glanced at his silenced flip phone tucked deep inside his zipped backpack pocket!) and grins across at Katie in the faint grey crack of light beneath the unlocked wooden door.
+Stretching his shoulders in the quiet dark without hitting a single dorm wall, twenty-two-year-old Nate checks his watch (`6:22 AM`—he hasn't even glanced at his silenced flip phone tucked deep inside his zipped backpack pocket!) and grins across at Katie in the faint grey crack of light beneath the unlocked wooden door.
 
 "Katie," Nate whispers, barely believing their luck, "nobody opened the door all night! We actually pulled it off!"
 
@@ -42,7 +42,7 @@ Before Katie can whisper back, the heavy steel side maintenance door down by the
 
 Katie's blue eyes light up past the white medical gauze strip taped across the bridge of her nose.
 
-"Nate, listen to me," Katie breathes into his ear, thinking purely like a twenty-one-year-old outsmarting a dorm curfew clipboard. "Barton Hall knows we weren't in our beds at eleven o'clock, right? Right now they probably think somebody in Cantor Hall hid us, or they have zero proof where we went! Nobody saw us roll in here last night—so if we sneak out of this building right now **without Earl or a single staffer laying eyes on us**, nobody at RRC will *ever* figure out our unlocked-closet trick! We can roll straight into the six-forty-five breakfast line from outside like we just went out for morning air!"
+"Nate, listen to me," Katie breathes into his ear, thinking purely like a twenty-two-year-old outsmarting a dorm curfew clipboard. "Barton Hall knows we weren't in our beds at eleven o'clock, right? Right now they probably think somebody in Cantor Hall hid us, or they have zero proof where we went! Nobody saw us roll in here last night—so if we sneak out of this building right now **without Earl or a single staffer laying eyes on us**, nobody at RRC will *ever* figure out our unlocked-closet trick! We can roll straight into the six-forty-five breakfast line from outside like we just went out for morning air!"
 
 Nate grins from ear to ear and gives her a silent thumbs-up. **Operation Speed-One Stealth** is on:
 
@@ -88,7 +88,7 @@ For four full seconds of absolute, pin-drop Shenandoah Valley silence:
 * **David Prairie's** jaw drops open so fast he nearly drops his foam cup of black coffee straight onto his shoes.
 * **Dr. Evelyn Cross** grabs the edge of the cruiser fender as if two ghosts just materialized out of the boxwood bushes.
 * **The Night Supervisor**—whose signed certification swearing that *he personally cleared every inch of the Rec Hall* is literally sitting under the Sheriff's Sergeant's elbow on the hood—turns the exact shade of a boiled lobster.
-* And **Augusta County Sheriff's Sergeant Holloway** slowly lowers his grease pencil, stares once at the Night Supervisor, stares through the glass doors of the Rec Hall fifty feet behind the twins where Earl is still happily mopping the lobby oblivious to the universe, and looks back at two wide-eyed, well-rested twenty-one-year-olds in clean hoodies and jeans.
+* And **Augusta County Sheriff's Sergeant Holloway** slowly lowers his grease pencil, stares once at the Night Supervisor, stares through the glass doors of the Rec Hall fifty feet behind the twins where Earl is still happily mopping the lobby oblivious to the universe, and looks back at two wide-eyed, well-rested twenty-two-year-olds in clean hoodies and jeans.
 
 "Who went missing?!" Sergeant Holloway repeats, fighting for his life not to burst out laughing in front of two State Troopers. "Son, half of Augusta County, the Virginia State Police, and your father have been tearing up Route 250 from Waynesboro to Staunton since one o'clock this morning looking for **THE TWO OF YOU**!"
 
@@ -105,4 +105,4 @@ Watching Sergeant Holloway slowly turn his head back toward the Night Supervisor
 Just like in [**`Ending A`**](/books/katie/what-if-rrc-unlocked-closet-ending-a-three-fifty-am), having the **Augusta County Sheriff's Office** and **Virginia State Police** standing ten feet away when David Prairie examines Katie's bandaged, bruised nose shatters RRC's ability to sweep Tuesday afternoon's pool assault under the rug:
 
 * **7:15 AM — Arresting Christopher Vance (`Saving Natalie Twelve Hours Early`):** Learning right on the courtyard bricks that **Christopher Vance** struck Katie across the face and ripped her swimsuit top in the therapeutic pool yesterday afternoon—and that nobody at RRC called the police or notified her father until they thought she had vanished—David files an immediate criminal assault-and-battery complaint with Sergeant Holloway. Deputies walk straight into Barton Hall and take Christopher Vance out in handcuffs before breakfast finishes—**preventing Wednesday night's dorm-database keycard attack on cognitively disabled classmate Natalie** before it can ever happen!
-* **8:30 AM — Packing Up With a Full Night's Sleep & Tina's `PHP` / `SQL` Drive:** While half of Barton Hall cheers quietly from the second-story windows watching David hoist Katie's and Nate's folded wheelchairs beneath the camper shell of his 1991 Crew Cab (`Day 10`), classmate **Tina** walks briskly out of the Dining Hall breezeway, adjusts her glasses with a grin of pure admiration at the two twenty-one-year-olds who defeated state bureaucracy with an unlocked doorknob and Speed Setting `1`, and slips a `2-gigabyte` USB drive packed with the rest of Mr. Alderman's **Web Applications Developer** `PHP` and `SQL` modules straight into Nate's hand as they climb into the four-door cab and roll home free.
+* **8:30 AM — Packing Up With a Full Night's Sleep & Tina's `PHP` / `SQL` Drive:** While half of Barton Hall cheers quietly from the second-story windows watching David hoist Katie's and Nate's folded wheelchairs beneath the camper shell of his 1991 Crew Cab (`Day 10`), classmate **Tina** walks briskly out of the Dining Hall breezeway, adjusts her glasses with a grin of pure admiration at the two twenty-two-year-olds who defeated state bureaucracy with an unlocked doorknob and Speed Setting `1`, and slips a `2-gigabyte` USB drive packed with the rest of Mr. Alderman's **Web Applications Developer** `PHP` and `SQL` modules straight into Nate's hand as they climb into the four-door cab and roll home free.

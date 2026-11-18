@@ -3,17 +3,17 @@ title: "The 11:00 PM Curfew Search & Why Locking the Closet Door Got Them Caught
 subtitle: "What Happened Across the Courtyard in Barton Hall & The Hookup Closet Irony Neither Twin Ever Knew"
 category: "Katie & Nathaniel — Behind the Scenes"
 property: "books"
-date: "2007-03-13"
+date: "2007-07-17"
 time: "23:00–23:25 EDT"
 location: "Barton Hall & Campus Recreation Hall, Roosevelt Rehabilitation Center, Fishersville, Virginia"
 sender: "RaggieSoft Backstage Production Dossier"
-recipient: "Readers of Katie & Nathaniel (Episode 6, Chapter 2, Part 2)"
+recipient: "Readers of Katie & Nathaniel (Episode 7, Chapter 2, Part 2)"
 relatedBookUrl: "https://books.raggiesoft.com/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report/part-2-emergency-in-the-therapeutic-pool-caught-sleeping-together-in-a-closet-calling-the-staffer-s-bluff-the-chickenshit-report"
-relatedBookLabel: "Episode 6, Chapter 2, Part 2: Caught Sleeping Together in a Closet"
+relatedBookLabel: "Episode 7, Chapter 2, Part 2: Caught Sleeping Together in a Closet"
 summary: "Behind-the-scenes breakdown of how Barton Hall staff knew to search the Rec Hall after the 11:00 PM Level 2 bed check—and why locking the normally unlocked door of a notorious student hookup closet is what actually got Nate and Katie caught."
 ---
 
-> **Archival Note:** In [***Katie & Nathaniel***](https://books.raggiesoft.com/katie), the narrative camera is locked strictly to **Nathaniel Prairie's first-person point of view**. Once Nate and Katie slip down the darkened rear corridor of the **Rec Hall** at `10:44 PM` on Tuesday, March 13, 2007 and lock themselves inside the dark seasonal storage closet, they cannot see what is happening across the courtyard in **Barton Hall** at `11:00 PM`—and neither Nate, Katie, nor the main-novel text ever knows that **locking the closet door from the inside** is the exact thing that got them caught. This Backstage bonus feature reveals what happened on the other side of that solid-wood closet door.
+> **Archival Note:** In [***Katie & Nathaniel***](https://books.raggiesoft.com/katie), the narrative camera is locked strictly to **Nathaniel Prairie's first-person point of view**. Once Nate and Katie slip down the darkened rear corridor of the **Rec Hall** at `10:44 PM` on Tuesday, July 17, 2007 and lock themselves inside the dark seasonal storage closet, they cannot see what is happening across the courtyard in **Barton Hall** at `11:00 PM`—and neither Nate, Katie, nor the main-novel text ever knows that **locking the closet door from the inside** is the exact thing that got them caught. This Backstage bonus feature reveals what happened on the other side of that solid-wood closet door.
 
 ---
 
@@ -28,7 +28,7 @@ Across the courtyard in **Barton Hall**, the eleven-o'clock **Level 2** curfew b
   * **`Level 4` (`Cantor Hall`):** Could simply **come and go off campus as they pleased** (no pass and no sign-out required).
 * **Connecting the Dots Between Barton Hall and the Rec Hall (`11:00 PM – 11:15 PM`):**
   Because no sign-out was required for moving between buildings on campus, there was no paper trail at the Barton Hall front desk showing where Nate and Katie had gone after supper. When the dorm aides walked the `11:00 PM` bed-check rounds and discovered that **neither** Nathaniel Prairie on the men's wing **nor** Katie Prairie in `Room 157` on the women's wing was in bed—and verified at the front desk that neither twin had an off-campus Pass or Center trip sign-up on file—they knew both twins were still somewhere on campus.
-* Dorm staff immediately called over to the **Rec Hall** right as the building was locking up after its `11:00 PM` closing time for Level 3 and Level 4 clients. The evening Rec Hall staffer immediately remembered seeing the twenty-one-year-old twins sitting together in their corner booth all night long—and realized that after seeing them roll toward the restrooms right before the `10:45 PM` Level 2 departure call, **he had never seen their two wheelchairs roll out the front glass doors toward Barton Hall!**
+* Dorm staff immediately called over to the **Rec Hall** right as the building was locking up after its `11:00 PM` closing time for Level 3 and Level 4 clients. The evening Rec Hall staffer immediately remembered seeing the twenty-two-year-old twins sitting together in their corner booth all night long—and realized that after seeing them roll toward the restrooms right before the `10:45 PM` Level 2 departure call, **he had never seen their two wheelchairs roll out the front glass doors toward Barton Hall!**
 
 ---
 
@@ -56,7 +56,7 @@ When the night supervisor threatened to kick them out of the Center and Nate and
 * **RRC's Internal `"Butts in Seats"` Headcount Quota:**
   While Nate and Katie only suspected it at the time (a suspicion Katie later confirmed and weaponized as a Virginia legislator and United States Senator in **Dirksen Room 511**), RRC's operational budget and quarterly utilization metrics in Richmond depended heavily on keeping dormitory beds and classroom seats occupied (`"butts in seats"`). Expelling two high-aptitude Web Applications Developer students at `11:25 PM` on a Tuesday night—five hours after the female twin's nose had been broken open in the therapeutic pool by a male classmate—meant explaining two sudden mid-week vacancies and an unreportable natatorium injury to the Director and to a furious father driving down Interstate 81 from Northern Virginia.
 * **Punting to Thursday Morning's `Level 1` Restriction Meeting:**
-  Knowing that Nate and Katie's regular vocational counselor was off work on Wednesday (`March 14`), the night supervisor backed all the way down from his expulsion threat, logged the incident in the overnight residential blotter (*"the Chickenshit Report"*), and punted the problem to Thursday morning at `10:00 AM`—where staff intended to intimidate the twins with a **`Level 1` Restriction & Behavioral Contract** instead.
+  Knowing that Nate and Katie's regular vocational counselor was off work on Wednesday (`July 18`), the night supervisor backed all the way down from his expulsion threat, logged the incident in the overnight residential blotter (*"the Chickenshit Report"*), and punted the problem to Thursday morning at `10:00 AM`—where staff intended to intimidate the twins with a **`Level 1` Restriction & Behavioral Contract** instead.
 
 ---
 
