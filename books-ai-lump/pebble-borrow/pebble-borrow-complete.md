@@ -2,8 +2,6 @@
 title: "Pebble Borrow"
 ---
 
-# Book 1: Echoes of the Past
-
 # The Motel on the Highway
 
 ## The Threshold
@@ -1416,43 +1414,7 @@ Erika walked over to the kitchen island, bypassing the leftover pizza to grab a 
 
 "Nothing broke," Erika said, her voice dead serious. "But it was about to. Tomorrow morning, at 0800."
 
-# Book 3: Beyond the Horizon
-
-# Book 4: The Turning Point
-
-# Book 5: A Glimmer of Hope
-
-## Chapter 1: The Confrontation
-
-# Book 6: Shadows Fall
-
 # Welcome to Pebble Burrow
-
-## Chapter 1: The Aftermath
-
-## Chapter 2: The Trial
-
-## Chapter 3: A Change of Plans
-
-## Chapter 4: The Betrayal
-
-## Chapter 5: The Sacrifice
-
-## Chapter 6: A Moment of Peace
-
-## Chapter 7: A Moment of Peace
-
-## Chapter 8: A Moment of Peace
-
-## Chapter 9: The Betrayal
-
-## Chapter 10: Unexpected Encounters
-
-## Chapter 11: The Turning of the Tide
-
-## Chapter 12: The Confrontation
-
-## Chapter 13: A New Ally
 
 ## Returning to the Surface
 
@@ -1597,13 +1559,7 @@ But on the morning of Day Four, the USGS data finally landed on the desks of the
 
 The dream of unlimited energy died at 0645 hours.
 
-## Chapter 15: The Aftermath
-
-## Chapter 16: Unexpected Encounters
-
 # The General's Arrival
-
-## Chapter 1: The Confrontation
 
 ## The Holy Grail of Geothermal Energy
 
@@ -1757,8 +1713,6 @@ He shifted the armored transport into **PARK**.
 Before Vance could even react, the corporal reached forward, twisted the ignition off, and yanked the keys from the column. The roaring diesel engine died instantly. The corporal tossed the heavy ring of keys onto the metal floorboard, shoved his shoulder against the heavy ballistic door, and threw it open.
 
 He stepped out onto the asphalt, raised his hands high in the air, and began walking slowly toward the line of FBI vehicles, leaving his commanding officer behind.
-
-## Chapter 4: A Change of Plans
 
 ## 1015 Hours: The Commander-in-Chief
 
@@ -3564,155 +3518,7 @@ Her hands were still shaking slightly from the adrenaline of the DEA raid. David
 
 Benjamin Torres seemed like a unicorn, but Amanda was done trusting her gut. She picked up the phone, dialed the first number on his reference sheet, and prepared to dig.
 
-# Book 9: The Endless Journey
-
-## Chapter 1: Unexpected Encounters
-
-## Chapter 2: The Turning of the Tide
-
-# Book 10: The Lost Memories
-
-## Chapter 1: Unexpected Encounters
-
-## Chapter 2: A Moment of Peace
-
-## Chapter 3: A Desperate Escape
-
-## Chapter 4: Into the Unknown
-
-## Chapter 5: A Change of Plans
-
-## Chapter 6: The Trial
-
-## Chapter 7: A Desperate Escape
-
-## Chapter 8: Unexpected Encounters
-
-## Chapter 9: Into the Unknown
-
-## Chapter 10: The Aftermath
-
-## Chapter 11: The Arrival
-
-## Chapter 12: The Confrontation
-
-# Book 11: Hidden Paths
-
-## Chapter 1: The Turning of the Tide
-
-## Chapter 2: The Confrontation
-
-## Chapter 3: A New Ally
-
-## Chapter 4: The Aftermath
-
-# Book 12: The Turning Point
-
-## Chapter 1: Into the Unknown
-
-## Chapter 2: The Sacrifice
-
-## Chapter 3: The Arrival
-
-# Book 13: Beyond the Horizon
-
-## Chapter 1: The Turning of the Tide
-
-## Chapter 2: The Trial
-
-## Chapter 3: The Sacrifice
-
-## Chapter 4: A Desperate Escape
-
-## Chapter 5: The Sacrifice
-
-## Chapter 6: The Aftermath
-
-# Book 14: A New Dawn
-
-## Chapter 1: The Turning of the Tide
-
-## Chapter 2: A Desperate Escape
-
-## Chapter 3: The Trial
-
-# Book 15: The Final Stand
-
-## Chapter 1: A New Ally
-
-## Chapter 2: The Betrayal
-
-## Chapter 3: A Moment of Peace
-
-# Book 16: A New Dawn
-
-## Chapter 1: The Sacrifice
-
-## Chapter 2: A Change of Plans
-
-## Chapter 3: A Moment of Peace
-
-## Chapter 4: Into the Unknown
-
-# Book 17: The Final Stand
-
-## Chapter 1: The Trial
-
-## Chapter 2: Unexpected Encounters
-
-## Chapter 3: Unexpected Encounters
-
-## Chapter 4: Into the Unknown
-
-## Chapter 5: Revelations
-
-## Chapter 6: The Arrival
-
-# Book 18: Silent Whispers
-
-## Chapter 1: Into the Unknown
-
-## Chapter 2: Revelations
-
-# Book 19: Silent Whispers
-
-## Chapter 1: The Confrontation
-
-## Chapter 2: The Aftermath
-
-## Chapter 3: The Arrival
-
-# Book 20: A New Dawn
-
-## Chapter 1: Unexpected Encounters
-
-## Chapter 2: The Aftermath
-
-## Chapter 3: The Betrayal
-
-# Book 21: A New Dawn
-
-## Chapter 1: The Arrival
-
-## Chapter 2: A Desperate Escape
-
-## Chapter 3: Into the Unknown
-
-# Book 22: The Final Stand
-
 # Amanda Interviews Care Nurses
-
-## Chapter 1: The Trial
-
-## Chapter 2: The Aftermath
-
-## Chapter 3: The Betrayal
-
-## Chapter 4: The Trial
-
-## Chapter 5: Revelations
-
-## Chapter 6: The Confrontation
 
 ## The Verification
 
@@ -3847,10 +3653,4 @@ Jessika smiled from the chaise lounge, her shoulders relaxing. Ashleigh let out 
 Amanda stood by the door, watching her siblings completely drop their defensive walls within sixty seconds of Benjamin speaking. She reached into her scrub pocket, her fingers brushing against her gold Presidential Challenge Coin, a profound wave of peace washing over her.
 
 The fortress was secure.
-
-# Book 24: Silent Whispers
-
-## Chapter 1: The Arrival
-
-## Chapter 2: Into the Unknown
 

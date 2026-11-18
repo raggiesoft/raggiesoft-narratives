@@ -10,8 +10,6 @@ title: "Katie & Nathaniel"
 
 **Date:** 1994-05-18 at 15:30 America/New_York
 
-![Inside Nathaniel's deep-blue bedroom in Virginia Beach in 1994, nine-year-old fraternal twins Nathaniel and Katie Prairie with matching light platinum-blonde hair sit side by side on the carpeted floor in front of a 1990s CRT television and cable converter box, holding hands and smiling as their favorite afternoon cartoon theme plays]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/cartoon_afternoon_nathaniel_katie_1994.jpg)
-
 #### 3:30 PM — The Secret Password
 
 Three polite, measured knocks sounded against the painted wood of my closed bedroom door just as the red digital clock on the cable converter box ticked to 3:29.
@@ -39,8 +37,6 @@ Without letting go of my hand, Katie climbed up onto the sofa cushions right bes
 ### The Parallel Pair: Dominion Mall & The VDU Fieldhouse
 
 **Date:** 1994-07-12 at 08:45 America/New_York
-
-![Inside the 1994 Virginia Dominion University computer lab, nine-year-old platinum-blonde fraternal twins Nathaniel and Katie Prairie share a desktop computer at Terminal 5 right beside nine-year-old Michael Ragsdale and seven-year-old Rachel Ragsdale at Terminal 4, all wearing royal-blue VDU Summer Camp t-shirts]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/jul_1994_vdu_summer_camp_two_sibling_pairs_computer_lab.jpg)
 
 #### 8:45 AM — Two Pairs on Dominion Mall
 
@@ -146,8 +142,6 @@ Katie looked at me as we lowered our arms back into the warm water, a bright, tr
 ### The Newport News ARTS Train & The Downstairs Sofa Bed
 
 **Date:** 1994-12-23 at 18:15 America/New_York
-
-![On a December 1994 evening in the downstairs living room in Virginia Beach, nine-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved winter flannel pajamas sit side by side under a warm quilt on the unfolded living-room sofa bed holding hands while their cousin Chelsea in flannel pajamas sits near the foot of the bed]({{CDN}}/raggiesoft-books/images/scenes/katie/b001/christmas_1994_newport_news_station_sofa_bed_sanctuary.jpg)
 
 #### 6:15 PM — The Newport News ARTS Platform
 
@@ -297,8 +291,6 @@ Whatever grown-up storm Aunt Karen was holding back behind the telephone wire up
 
 **Date:** 1996-01-06 at 11:30 America/New_York
 
-![During the Blizzard of January 1996 in their snow-covered Virginia Beach backyard in front of a white wooden picket fence at dusk, Katie Prairie in a blue winter jacket and dark jeans and her twin brother Nathaniel Prairie in a black winter jacket and blue jeans hold each other in a tight bear hug in the falling snow]({{CDN}}/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_backyard_snow_hug_katie_nathaniel.jpg)
-
 #### 11:30 AM — Waiting for the First Flakes
 
 "You think we're going to have snow?" Katie asked, her breath fogging a small circle on the cold glass pane as the two of us stood shoulder to shoulder at my upstairs bedroom window.
@@ -360,8 +352,6 @@ Inside the warm kitchen, the shouting upstairs had finally stopped—Mom had gon
 ### Part 2: Sleet on the Glass, Glaze Ice Across Tidewater, & Brittany's First Group Cuddle
 
 **Date:** 1996-01-06 at 18:15 America/New_York
-
-![Inside their warm lamp-lit Virginia Beach living room on Saturday evening during the Blizzard of '96 with snow and glistening sleet coating the frosted window behind them, ten-year-old Katie Prairie sits between her twin brother Nathaniel Prairie and their ten-year-old maternal cousin Brittany in thin silver wire-rimmed glasses and long medium-blonde hair on the tan sofa under a woven winter blanket, welcoming Brittany into her first three-way group hug beside three mugs of hot cocoa]({{CDN}}/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_living_room_sofa_first_group_cuddle_brittany_katie_nate.jpg)
 
 #### 6:15 PM — Sleet on the Windowpanes & Brittany's First Group Cuddle
 
@@ -432,8 +422,6 @@ Overnight, the Blizzard of '96 had turned all of Virginia Beach into a silent pa
 ### No More Fighting & The Dinner Dance Promise
 
 **Date:** 1997-10-16 at 16:15 America/New_York
-
-![Inside Katie's magenta-purple bedroom with a framed blue morpho butterfly artwork on the wall, early-teen Katie Prairie in a dark navy short-sleeve t-shirt and white jeans and her twin brother Nathaniel Prairie in a maroon short-sleeve t-shirt and blue jeans stand facing each other holding both hands as Nathaniel comforts her]({{CDN}}/raggiesoft-books/images/scenes/katie/b002/katie_dumped_bedroom_butterfly_holding_hands.jpg)
 
 #### 4:15 PM — Tears Under the Blue Butterfly
 
@@ -524,8 +512,6 @@ I reached carefully for the remote, clicked the television off, and decided righ
 ### Twin Brothers Always Stay: Spirit Week & The Living Room Sofa
 
 **Date:** 1997-10-17 at 07:30 America/New_York
-
-![Early-teen fraternal twins Katie and Nathaniel Prairie with matching light platinum-blonde hair, wearing identical maroon short-sleeve t-shirts and blue jeans for Spirit Week Twins' Day, sit snuggled close together on their tan-brown living room sofa with Katie's arm draped around Nathaniel's shoulders]({{CDN}}/raggiesoft-books/images/scenes/katie/b002/twins_day_spirit_week_matching_maroon_shirts_sofa_snuggle.jpg)
 
 #### 7:30 AM — "Twin Brothers Always Stay"
 
@@ -743,8 +729,6 @@ Behind us, the sixty flat acres of Blackwater Road settled into quiet June twili
 
 **Date:** 2000-02-07 at 11:20 America/New_York
 
-![Inside the packed Northwood High School cafeteria in February 2000 filled with students at long royal-blue laminate tables with attached round blue stools on chrome caster frames, fourteen-year-old Nathaniel Prairie sits on the middle blue stool flanked by twin sister Katie Prairie on one side and overweight maternal cousin Brittany Fletcher in silver wire-rimmed oval glasses on his other side with all three of their school lunch trays lined up along the tabletop as Brittany uses a plastic fork to feed Nate cut-up bites of his chicken patty sandwich, while Cafeteria Supervisor Mrs. DeMarco glares into a deflated Josh Riley's eyes and hitches her thumb toward the back doors for 2:15 PM dumpster duty]({{CDN}}/raggiesoft-books/images/scenes/katie/b002/feb_2000_northwood_cafeteria_blue_stool_table_brittany_feeding_nate_demarco_josh_riley.jpg)
-
 #### Monday, February 7, 2000, 11:20 AM — Three Round Blue Stools & Hands That Wouldn't Pinch
 
 "Stop fighting the plastic knife and let me cut it before it gets cold, goofball," our fourteen-year-old maternal cousin Brittany Fletcher murmured warmly beside my left elbow, sliding my molded compartment tray half an inch closer across the royal-blue laminate tabletop so nobody across the noisy freshman aisle would even notice.
@@ -841,8 +825,6 @@ Brittany let out a long breath, adjusted her glasses with one knuckle, and looke
 
 **Date:** 2001-05-24 at 14:00 America/New_York
 
-![At two o'clock afternoon dismissal in warm May 2001 sunlight at Northwood High School in Virginia Beach, sixteen-year-old Nathaniel Prairie walks through the narrow chain-link pedestrian gate onto flush Macgregory Street holding twin sister Katie Prairie's hand on his right side and overweight maternal cousin Brittany Fletcher's hand on his left side after crossing the grass lawn and the uncut standard curbs of the Lions Way crosswalk, while a uniformed School Resource Officer watches from the grass on the school side and older seniors talk near the edge of Macgregory Street]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/may_2001_northwood_lions_way_gate_walk_to_earlton_court_brittany_katie_nate.jpg)
-
 #### Thursday, May 24, 2001, 2:00 PM — Officer Whitehead's Line & Holding Our Breath Through Smoker's Corner
 
 "Deep breath on three before we step through the fence," our sixteen-year-old maternal cousin Brittany Fletcher warned, pushing her thin silver wire-rimmed oval glasses up the bridge of her nose with one finger as the heavy steel side doors of Northwood High School swung shut behind our backpacks in the warm May sunshine.
@@ -921,8 +903,6 @@ I stared down at the little ink drawing of the living room—a wide rectangular 
 
 **Date:** 2001-06-18 at 08:30 America/New_York
 
-![Inside sixteen-year-old Katie Prairie's magenta-purple bedroom beneath the framed blue morpho butterfly artwork on the wall, fraternal twins Katie and Nathaniel Prairie sit propped up against the pillows on her green-and-gold bedspread in modest t-shirts and pajama pants, holding hands with Katie's arm draped warmly around Nathaniel's shoulders]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg)
-
 #### 8:30 AM — First Full Day of Summer
 
 "Summer is here," I said, blinking open my eyes as the warm June sunlight filtered through the blinds of Katie's bedroom.
@@ -997,8 +977,6 @@ After I stepped into my blue room to brush my teeth and change into a comfortabl
 
 **Date:** 2001-08-19 at 09:30 America/New_York
 
-![Inside the sunlit Deck 8 CyberCafé and Library aboard the M/S Sunward Tropics in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a desktop computer terminal with their father David Prairie's public library Quantum Basic textbook open between them while David smiles proudly beside them]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_cruise_cybercafe_quantum_basic_library_book.jpg)
-
 #### Saturday, August 18, 2001 — The Twelve-Hour Grumble Down I-95
 
 "If *Command1_Click* calls the subroutine before the text box validates, the whole form throws a type-mismatch error," Katie murmured beside me in the back seat of our Holt sedan, tapping her finger against page 142 of the thick paperback resting across our knees as another green Florida mileage sign flashed past the window on Interstate 95 South.
@@ -1056,8 +1034,6 @@ While Mom spent the entire Sunday at sea up at the pool bar, the three of us spe
 ### Part 2: The Nassau Pier, Guest Services, & The Last Straw
 
 **Date:** 2001-08-22 at 14:00 America/Puerto_Rico
-
-![Inside a quiet passenger corridor alcove aboard the M/S Sunward Tropics cruise ship in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side holding hands and comforting their father David Prairie, who holds their three plastic shipboard keycards with soda-package stickers]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_end_of_summer_cruise_corridor_for_three.jpg)
 
 #### Monday–Wednesday, August 20–22, 2001 — The Nassau Pier & The Honest Question
 
@@ -1159,8 +1135,6 @@ Holding onto Dad's arms as our exhausted legs shook beneath us, the three of us 
 
 **Date:** 2001-08-23 at 18:30 America/Puerto_Rico
 
-![At golden-hour sunset on the open wooden aft deck of the M/S Sunward Tropics cruise ship overlooking the Caribbean wake, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in ship-provided folding manual wheelchairs holding hands at a round deck table with their father David Prairie, sharing hot pizza and tall soda tumblers]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_cruise_for_three_wheelchairs_aft_deck_pizza.jpg)
-
 #### Wednesday, August 22, 2001, 4:15 PM — Domestic Separation, The Brig, & Two Manual Wheelchairs
 
 "My kids can barely stand up after walking down that Deck 4 corridor, and my wife is screaming profanities at us in the passageway," Dad told the Chief Purser flatly as the three of us reached the front counter in the Atrium Lobby, my knees trembling so badly that I had both hands braced against the marble counter edge while Katie leaned against my side. "I am not putting my son and daughter back in Stateroom 4118 with her tonight. I don't want her in the cabin with us anymore."
@@ -1210,8 +1184,6 @@ Inside the main dining rooms tonight was Captain's Formal Night, where hundreds 
 ### Part 4: Back on Dry Land & The Twelve-Hour Drive Up I-95
 
 **Date:** 2001-08-25 at 08:30 America/New_York
-
-![Buckled safely in their three-point seatbelts side by side on the gray cloth rear bench seat of their family sedan along Interstate 95 North in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie hold hands with their father's mylar-wrapped Quantum Basic library textbook open across Nathaniel's lap and a white paper drive-thru lunch bag on Katie's lap]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_i95_drive_home_backseat_quantum_basic.jpg)
 
 #### Saturday, August 25, 2001, 8:30 AM — Back on Dry Land
 
@@ -1311,8 +1283,6 @@ When Dad clicked the front deadbolt shut and walked into the living room to chec
 
 **Date:** 2001-08-27 at 10:15 America/New_York
 
-![Inside a Virginia Beach primary care physician's exam room in late August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side on the exam bench holding hands while their father David Prairie stands beside them and the family doctor tests Nathaniel's arm and grip strength]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg)
-
 #### Monday, August 27, 2001, 10:15 AM — The Divorce Lawyer, The PCP, & Borrowed Time
 
 "Squeeze my fingers as hard as you can, Nathaniel, and hold it for five seconds," Dr. Evelyn Carter instructed gently inside Exam Room 2 of her Virginia Beach family practice clinic on Monday morning.
@@ -1354,8 +1324,6 @@ Yet as I looked sideways at my twin sister, and felt Dad's steady, unwavering ar
 ### Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School
 
 **Date:** 2001-09-04 at 10:55 America/New_York
-
-![Inside the sunlit cafeteria of Northwood High School in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a quiet corner table holding hands during their shared Junior-year lunch period with their lunch bags and coding notebook open before them]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg)
 
 #### Monday, August 27, 2001, 2:00 PM — The Lawyer's Office off Independence Boulevard
 
@@ -1416,8 +1384,6 @@ Reaching across the table between our lunch bags after I helped Katie pinch open
 ### Part 2: When Borrowed Time Runs Out — The Collapse at School, The Emergency Room Escalation, & Time for Powerchairs
 
 **Date:** 2001-09-14 at 13:15 America/New_York
-
-![Inside a bright Crossroads Memorial Hospital Emergency Room double bay up Kempsville Road in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor Dr. Evelyn Carter reviews their neuromuscular test results and prescribes their power wheelchairs]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_carter_prognosis_arms_legs_consultation.jpg)
 
 #### Friday, September 14, 2001, 1:15 PM — When Our Legs Finally Gave Out at School
 
@@ -1563,11 +1529,9 @@ Dad picked up the signed forms, then leaned down between our two hospital beds a
 
 "I was never so scared in my life as when Mr. Brooks called me and said you two were headed to the Emergency Room," Dad whispered, his voice thick with emotion as he held us both close. "Wait until you see how fast I learn to break those two powerchairs down for the trunk of the car. Your legs may have run out of borrowed time today, but as long as the three of us have each other, nothing is going to stop you."
 
-### Part 3: 'Then We'll Change the Truck,' Downsizing to Military Highway, & CVTA Route 15
+### Part 3: Then We'll Change the Truck,' Downsizing to Military Highway, & CVTA Route 15
 
 **Date:** 2001-10-06 at 13:10 America/New_York
-
-![At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914—wearing legacy Tidewater Regional Transit horizontal blue-and-green stripes with a CVTA logo sticker beside the front door—lowers its Elevate-U front-stairwell hydraulic wheelchair lift to the sidewalk]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg)
 
 #### Saturday, October 6, 2001, 1:10 PM — "Then We'll Change the Truck" & Our New House off Military Highway
 
@@ -1640,8 +1604,6 @@ Across the center aisle of the high-floor bus, Katie reached her left hand out o
 ### Part 4: Purple Day Lunch, Josh Riley's Lane Toll, & The DeMarco–Periwinkle Tag-Team
 
 **Date:** 2001-10-09 at 10:55 America/New_York
-
-![Inside the sunlit Northwood High School cafeteria beneath exposed blue ceiling trusses and purple-and-gold Lion banners in October 2001, sixteen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs holding inner hands at their window table as Cafeteria Supervisor Mrs. DeMarco—wearing her white mesh hairnet, paisley blouse, and spoon-pocket white apron with arms crossed—confronts a pale, slouching Josh Riley]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_cafeteria_demarco_josh_riley_katie_nate.jpg)
 
 #### Tuesday, October 9, 2001, 10:55 AM — The Cafeteria Court & Josh Riley's Lane Toll
 
@@ -1795,8 +1757,6 @@ Waiting until she was ten feet away, Katie leaned sideways across our armrests, 
 
 **Date:** 2001-10-15 at 07:10 America/New_York
 
-![Inside the sunlit locker-lined hallway of Northwood High School in Virginia Beach in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie roll side by side in their compact SwiftChair power wheelchairs holding inner hands with warm, confident smiles]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_high_four_wheels_hallway_katie_nathaniel.jpg)
-
 #### Monday, October 15, 2001, 7:10 AM — Rolling the "Blue Mile" & The Brass Elevator Key
 
 "Keep your speed dial on two until we clear the Commons tiles, Nate, or the vibration is going to rattle our teeth right out of our heads," Katie said with a wry smile on Monday morning as the two of us rolled our compact SwiftChair power wheelchairs through the pinned-open double fire doors of Northwood High School.
@@ -1882,8 +1842,6 @@ Fifty minutes later at Third-Block lunch, however, when Katie rolled up to our c
 ### Part 2: Cousin Wesley, Ryan's Escalator Exit, & Two Dates at Emerald Creek Mall
 
 **Date:** 2001-10-20 at 12:45 America/New_York
-
-![Inside the bustling second-floor food court of Emerald Creek Mall beneath its sunlit white tented canopy ceiling in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands across from Heather Collins and Ryan Miller]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/oct_2001_emerald_creek_mall_food_court_double_date.jpg)
 
 #### Saturday, October 20, 2001, 12:45 PM — The Second-Floor Food Court & Cousin Wesley
 
@@ -2013,8 +1971,6 @@ We watched from the sidewalk as Heather climbed into the front passenger seat of
 
 **Date:** 2001-11-08 at 14:00 America/New_York
 
-![At two o'clock dismissal on a crisp November 2001 autumn afternoon at Northwood High School, sixteen-year-old twins Katie Prairie in a royal-blue sweater and Nathaniel Prairie in a maroon polo sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands at the paved edge of the student handicap parking lot where the pavement ends against unpaved green grass, looking across two-lane Lions Way and its white ladder crosswalk framed by standard-height unbroken concrete curbs with zero curb cuts on either side as their sixteen-year-old cousin Brittany Fletcher in thin silver wire-rimmed oval glasses and a plum sweater stands beyond the narrow chain-link gate on Macgregory Street and raises her open palm to firmly refuse a closed cigarette pack held out by an older high-school senior]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/nov_2001_lions_way_uncut_curb_smokers_corner_refusal_katie_nate_brittany.jpg)
-
 #### Thursday, November 8, 2001, 2:00 PM — Eight Spare Minutes Before Bus 417 & Where the Sidewalk Runs Out
 
 "Nate, Katie—Bus 417 is stuck third in line behind two slow tie-downs, so I've got at least eight minutes before I can lower our lift!" Miss Gloria, the cheerful bus aide on our afternoon Special Needs school bus, called over the rumble of idling diesel engines outside Stairway A as she tapped her aluminum clipboard against her mittened palm in the crisp November air. "Don't roll further than the edge of the handicap lot!"
@@ -2089,8 +2045,6 @@ Once we paused in line behind the lowered steel elevator platform of Bus 417 whi
 
 **Date:** 2001-11-17 at 12:45 America/New_York
 
-![Inside the sunlit second-floor food court of Emerald Creek Mall beneath white tented fabric ceiling cones in November 2001 with Annie's Pretzels visible behind them, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands across from Heather Collins and her fourteen-year-old developmentally disabled cousin Wesley sharing warm soft pretzels and juice]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/nov_2001_emerald_creek_mall_annies_pretzels_wesley_heather_katie_nate.jpg)
-
 #### Saturday, November 17, 2001, 12:45 PM — Meeting Cousin Wesley Outside the Glass Elevator
 
 "Look, Wes—the brass number two just lit up above the doors!" Heather Collins said brightly right outside the freestanding cream-and-brass glass elevator on the second-floor terracotta landing of Emerald Creek Mall as the hydraulic cab leveled smoothly beneath our wheels and the brushed-brass doors slid open.
@@ -2164,8 +2118,6 @@ There wasn't a flicker of awkwardness, confusion, or judgment anywhere on her fa
 ### Part 2: Two Envelopes at Mrs. DeMarco's Window Table, Three Sugar Cookies, & Coding in Mrs. Periwinkle's Library
 
 **Date:** 2002-02-14 at 10:55 America/New_York
-
-![Inside the quiet oak-lined Northwood High School Library beneath the purple-and-gold school banners in February 2002, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands at a wide oak reference table while Heather Collins sits right beside Nate holding his other hand as all three lean warmly over their open Quantum Basic coding notebook and two cream Valentine cards]({{CDN}}/raggiesoft-books/images/scenes/katie/b003/feb_2002_northwood_library_valentines_coding_heather_katie_nate.jpg)
 
 #### Thursday, February 14, 2002, 10:55 AM — Two Cream Envelopes at the Sunlit Window Table
 
@@ -2249,8 +2201,6 @@ Across our inner armrests, Katie squeezed my left hand twice—our silent twin s
 
 **Date:** 2002-04-13 at 11:15 America/New_York
 
-![Inside Center Court of Chesapeake Bay Mall in Virginia Beach beneath barrel-vaulted glass skylights on earth-tone sandstone ceramic tile in April 2002, seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands beside the vintage double-decker carousel and dark-bronze-and-glass scenic elevator while Heather Collins stands on Nate's right holding his hand and a birthday gift bag]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/apr_2002_chesapeake_bay_mall_carousel_scenic_elevator_heather_katie_nate.jpg)
-
 #### Saturday, April 13, 2002, 11:15 AM — Transferring at the CCHR Hub & Rolling Onto Route 29
 
 "Twenty-nine-oh-two to Dispatch," the uniformed Coastal Virginia Transit Authority operator spoke into his black handset at eleven-fifteen on Saturday morning once the Elevate-U hydraulic stairwell lift aboard Bus 924 folded smoothly back into three front boarding steps behind Katie's wheels at the Community College of Hampton Roads bus loop.
@@ -2306,8 +2256,6 @@ Rolling side by side into the wide glass cab with Heather standing right beside 
 ### Part 2: Saturday Afternoon on Arvin Road, Two Copies Open at Once, & The Most Important Bond You Have
 
 **Date:** 2002-08-24 at 14:15 America/New_York
-
-![Inside the sunlit living room on Arvin Road in Virginia Beach on Saturday afternoon, August 24, 2002, seventeen-year-old Nathaniel Prairie and Heather Collins share a tight, heartfelt two-armed hug on the tan-brown sofa while Nate's twin sister Katie Prairie sits close beside him resting a warm supportive hand on his shoulder with a radiant smile, with two plain green ginger ale cans and two open spiral-bound programming manuals on the oak coffee table and their two compact black motorized SwiftChair power wheelchairs parked neatly beside the couch]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2002_arvin_road_sofa_tight_hug_heather_nate_katie.jpg)
 
 #### Saturday, August 24, 2002, 2:15 PM — Page One Hundred Twelve in Stereo
 
@@ -2367,8 +2315,6 @@ Opening her arms right there on the tan-brown sofa, Heather leaned into me, and 
 
 **Date:** 2002-12-20 at 09:15 America/New_York
 
-![Inside Room 204 Computer Lab on the second floor of Northwood High School on Friday morning, December 20, 2002 before winter break, seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands at an accessible beige CRT workstation while Heather Collins sits beside Nate in a green winter sweater smiling warmly at their compiled bus-map program with paper snowflakes on the classroom window behind them]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/dec_2002_northwood_room_204_senior_winter_break_heather_katie_nate.jpg)
-
 #### Friday, December 20, 2002, 9:15 AM — Zero Compile Errors in Room 204
 
 "Don't touch the mouse—press *F5* and watch the transfer window calculate across all seven hubs," Katie whispered excitedly at nine-fifteen on Friday morning inside Room 204 on the second floor of Northwood High School, keeping her right hand laced tightly with my left hand between our two compact SwiftChair power wheelchairs while I tapped the function key on our beige classroom keyboard.
@@ -2389,13 +2335,15 @@ When Mr. Callahan walked down the aisle with his gradebook clipboard at ten-fift
 
 ***
 
-#### Friday, December 20, 2002, 1:55 PM — Shenandoah Valley Travel Plans & One Tight Hug at the Bus Loop
+#### Friday, December 20, 2002, 1:55 PM — Minnesota Holiday Travel Plans & One Tight Hug at the Bus Loop
 
 "Okay, walk me through the Collins family itinerary one more time before Mr. Henderson lowers our bus lift," I said just before two o'clock that afternoon as the dismissal bell echoed across the brick courtyard and the three of us moved down the wide concrete sidewalk beside the yellow special-transportation bus loop in the crisp Tidewater winter air.
 
 Buttoned up in her quilted forest-green winter coat with a soft cream knit scarf wrapped loosely around her chestnut hair, Heather walked right alongside my right wheel while Katie rolled smoothly on my left in her navy winter jacket and burgundy sweater, keeping our inner hands tucked together between our chairs until we paused along the curb near our waiting yellow lift bus.
 
-"Christmas Day we're right here in Virginia Beach with Aunt Linda and Wesley," Heather explained, shifting her black backpack comfortably onto her shoulders as tiny puffs of white breath rose between us against the overcast December sky. "Then first thing on the morning of the twenty-sixth, my dad is packing my mom, Wesley, and me into the minivan and driving us up Interstate 64 and Interstate 81 into the Shenandoah Valley to stay at my grandparents' farmhouse through New Year's Day. My grandparents don't even have dial-up internet out in the valley, and long-distance landlines cost twenty cents a minute—so if you don't see me online on Messenger all next week, I haven't vanished into the mountains!"
+"Christmas Day we're right here in Virginia Beach," Heather explained, shifting her black backpack comfortably onto her shoulders as tiny puffs of white breath rose between us against the overcast December sky. "Then at crack of dawn on the twenty-sixth, my dad is packing my mom, Aunt Linda, Wesley, and me into the minivan to head back home to Minnesota to stay at my grandparents' house outside Saint Paul through New Year's Day. My grandparents don't even have dial-up internet, and long-distance landlines cost twenty cents a minute—so if you don't see me online on Messenger all next week, I haven't vanished into a snowdrift!"
+
+"Safe travels up north," I smiled, glancing over at Katie. "If Grandma Ruth's chest cold doesn't clear up in Newport, Dad may end up driving up to Rhode Island after Christmas while our cousin Brittany stays at our place with Katie and me—with Dad's strict rule of deadbolted doors and zero guests in the house, so even if you and Wesley weren't going to Minnesota for the holiday, we'd have to wait until Dad gets back anyway."
 
 "Give Wesley a big holiday squeeze from both of us," Katie said warmly, smiling across from her chair. "Tell him we saved him a cinnamon-sugar pretzel trip as soon as January thaws out."
 
@@ -2429,8 +2377,6 @@ Setting my warm mug down once the heat soaked into my palms, I lifted my left ar
 
 **Date:** 2002-12-31 at 21:30 America/New_York
 
-![Inside Katie's lamp-lit bedroom behind the locked white bedroom door on New Year's Eve 2002, seventeen-year-old blonde fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding hands beside a desk with an unbranded box of dry toasted oat cereal and two green cans of ginger ale]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/dec_2002_new_years_eve_locked_bedroom_cereal_ginger_ale.jpg)
-
 #### Tuesday, December 31, 2002, 9:30 PM — The Broken Ground Rules & The Gas-Station Run
 
 "Brittany, Dad laid down the ground rules before he walked out that front door—nobody is allowed over here while he's up in Rhode Island, and there is zero alcohol allowed in this house!" I said sharply at nine-thirty on New Year's Eve, sitting in my compact SwiftChair power wheelchair in the front hallway beside Katie's chair as our seventeen-year-old maternal cousin Brittany Fletcher pulled the front door open to the cold December night.
@@ -2441,7 +2387,7 @@ It was Tuesday, December 31, 2002—the middle of our Senior year at Northwood H
 
 Back when we were kids, Brittany had grown up down on her family's old rural farm off Blackwater Road—zoned for Blackwater Elementary and Pungo Ridge Middle while Katie and I went to Northwood Elementary and Morrison Middle—bonding deeply with the two of us during all the afternoons Grandma Ruth and Dad watched her at our house whenever Aunt Karen and Uncle Steve worked odd shift hours. Then, in the summer before ninth grade, Aunt Karen and Uncle Steve had finally sold the farm and moved to Earlton Court right across the Lions Way fence from Northwood High School. For our first two years of high school, Brittany, Katie, and I had done everything together—eating lunch at our corner table in Mrs. DeMarco's cafeteria, whispering over homework in Mrs. Periwinkle's library, walking through Smoker's Corner to Brittany's living room on Earlton Court, and promising to get an apartment and live together as three when we grew up. Even after Dad divorced our mother in August 2001, Aunt Karen and Uncle Steve had stood loyally beside Dad, Katie, and me, and Dad had made sure Brittany stayed welcome in our home. Once Katie and I moved into our SwiftChairs in eleventh grade—stopped cold at the edge of the student handicap parking lot because the Lions Way crosswalk led straight into unpaved grass with zero curb cuts on either side—Brittany had fallen in with Tyler's hard-partying crowd out at Smoker's Corner. Still, Katie and I had never forgotten watching across Lions Way last autumn when one of Tyler's friends held out a pack of cigarettes to Brittany on Macgregory Street and she raised her palm and firmly refused to touch it—convincing both of us that the sweet cousin we loved was still inside her somewhere.
 
-Up in Newport, Rhode Island—Dad and Grandma Ruth's hometown, where Grandma Ruth had moved back home in 1998 to live near Dad's sister Aunt Elizabeth and our older cousin Chelsea—Grandma Ruth had come down with a bad winter bronchitis over Christmas and couldn't travel south to Virginia on the ARTS train. Because hauling two heavy power wheelchairs nine hours north up Interstate 95 into New England winter weather for a brief New Year's visit would have been exhausting, Katie and I had stayed home in Virginia Beach while Dad drove up to Newport, Rhode Island to check on Grandma Ruth, Aunt Liz, and Chelsea for the New Year. Holding onto the memory of Brittany turning down that cigarette at Smoker's Corner, Katie and I were the ones who had asked Dad and Aunt Karen to let Brittany spend New Year's Eve at our house while Dad was out of state—both so an able-bodied person would be under the roof in case of a winter power outage and because we wanted to try to rescue her from Tyler's crowd. In our minds, if we could just pull Brittany away from those kids for one safe, warm New Year's Eve—eating pizza, drinking sparkling apple cider, and laughing together the way the three of us used to in ninth and tenth grade—maybe she would come back to us. Before Dad backed his Holt sedan down the driveway to head north for Rhode Island, he had stood right in the center of our living room and laid down the law: the front door was to stay deadbolted, nobody else was allowed over at the house, and there was zero alcohol allowed under his roof.
+Up in Newport, Rhode Island—Dad and Grandma Ruth's hometown, where Grandma Ruth had moved back home in 1998 to live near Dad's sister Aunt Elizabeth and our older cousin Chelsea—Grandma Ruth had come down with a bad winter bronchitis over Christmas and couldn't travel south to Virginia on the ARTS train. Because hauling two heavy power wheelchairs nine hours north up Interstate 95 into New England winter weather for a brief New Year's visit would have been exhausting, Katie and I had stayed home in Virginia Beach while Dad drove up to Newport, Rhode Island to check on Grandma Ruth, Aunt Liz, and Chelsea for the New Year. Holding onto the memory of Brittany turning down that cigarette at Smoker's Corner, Katie and I were the ones who had asked Dad and Aunt Karen to let Brittany spend New Year's Eve at our house while Dad was out of state—both so an able-bodied person would be under the roof in case of a winter power outage and because we wanted to try to rescue her from Tyler's crowd. In our minds, if we could just pull Brittany away from those kids for one safe, warm New Year's Eve—eating pizza, drinking sparkling apple cider, and laughing together the way the three of us used to in ninth and tenth grade—maybe she would come back to us. Before Dad backed his Holt sedan down the driveway to head north for Rhode Island, he had stood right in the center of our living room and laid down the law: the front door was to stay deadbolted, nobody else was allowed over at the house, and there was zero alcohol allowed under his roof. Katie and I respected Dad's rule down to the letter—Heather, Wesley, Aunt Linda, and Heather's parents were away visiting their family in Minnesota for the holiday anyway, and even if they had been five minutes away in Virginia Beach all week, I never would have dreamed of inviting Heather or Wesley over when Dad said no guests.
 
 Instead, with Dad four hundred and fifty miles away in Newport, Brittany had picked up the cordless kitchen phone and invited the exact wrong crowd we had been trying to rescue her from straight to our front door.
 
@@ -2521,8 +2467,6 @@ Katie looked at the can of ginger ale in her hand, then looked up into my eyes w
 
 **Date:** 2003-01-06 at 08:05 America/New_York
 
-![Sitting side by side on the edge of Katie's bed beneath the framed blue butterfly watercolor print on January 6, 2003, with their two black motorized SwiftChair power wheelchairs parked beside them, 17-year-old Katie Prairie wraps her arms comforting her heartbroken twin brother Nathaniel and laces her fingers through his hand.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jan_2003_bedroom_blue_butterfly_twin_sisters_never_walk_away.jpg)
-
 #### Monday, January 6, 2003, 8:05 AM — Blindsided Outside Room 204
 
 ![Sitting side by side on the edge of Katie's bed beneath the framed blue butterfly watercolor print on January 6, 2003, with their two black motorized SwiftChair power wheelchairs parked beside them, 17-year-old Katie Prairie wraps her arms comforting her heartbroken twin brother Nathaniel and laces her fingers through his hand.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jan_2003_bedroom_blue_butterfly_twin_sisters_never_walk_away.jpg)
@@ -2531,7 +2475,7 @@ Katie looked at the can of ginger ale in her hand, then looked up into my eyes w
 
 My right thumb froze on the joystick of my compact SwiftChair power wheelchair, bringing my chair to an abrupt halt three feet from her locker outside Room 204.
 
-It was Monday, January 6, 2003—the very first morning back at school after winter break. Because Heather's parents had taken her and her cousin Wesley up to the Shenandoah Valley to visit her grandparents between Christmas and New Year's Day, I hadn't seen her in person for over a week. All morning long on Bus 417—our short yellow Special Needs lift school bus up to Stairway A—and up the school elevator with Katie, I had been grinning from ear to ear, carrying a small folded note in my jacket pocket asking Heather if she wanted to meet Katie and me at Emerald Creek Mall that coming Saturday afternoon.
+It was Monday, January 6, 2003—the very first morning back at school after winter break. Because Heather's parents had taken her, Aunt Linda, and her cousin Wesley back home to Minnesota to visit her grandparents outside Saint Paul between Christmas and New Year's Day, I hadn't seen her in person for over two weeks. All morning long on Bus 417—our short yellow Special Needs lift school bus up to Stairway A—and up the school elevator with Katie, I had been grinning from ear to ear, carrying a small folded note in my jacket pocket asking Heather if she wanted to meet Katie and me at Emerald Creek Mall that coming Saturday afternoon.
 
 Instead, as Katie rolled her power chair up beside mine in the busy hallway before first period, I found myself staring into a face I barely recognized.
 
@@ -2751,11 +2695,9 @@ Staring out through the tinted school-bus glass as the red brick of Northwood Hi
 
 Right beside me across the narrow center aisle of Bus 417, Katie didn't tell me to cheer up, didn't say *I told you so,* and didn't pretend it didn't hurt. She just reached her right hand quietly across the gap between our tied-down armrests, brushed the tear off my thumb with hers, laced her fingers firmly through my left hand, and held on with me in the warm spring quiet all the way home to Arvin Road.
 
-### Part 4: Purple Gowns at the Pavilion, Pomp and Circumstance, & One Chance Strictly for Wesley
+### Part 4: Purple Gowns at the Pavilion, Pomp and Circumstance, & Heather's Apology
 
 **Date:** 2003-06-14 at 11:35 America/New_York
-
-![Outside the Virginia Beach Pavilion under blooming crape-myrtle trees after Northwood High School's June 2003 Commencement, eighteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in matching compact black SwiftChair power wheelchairs in royal-purple caps and gowns with gold honor cords holding inner hands with guarded, bittersweet expressions as remorseful classmate Heather Collins apologizes to both of them while her sixteen-year-old cousin Wesley folds his arms over his blue silicone ring and frowns angrily at Heather.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_graduation_heather_apology_angry_wesley.jpg)
 
 #### Saturday, June 14, 2003, 11:35 AM — Purple Gowns Under the Pavilion Colonnade & Two Squeezes Missing
 
@@ -2811,7 +2753,7 @@ Hearing that—that out of sixteen years of growing up surrounded by his mom and
 
 ***
 
-#### Saturday, June 14, 2003, 11:50 AM — Dashed Hopes After *Pomp and Circumstance*, Wesley's Tears, & One Strictly Bounded Chance
+#### Saturday, June 14, 2003, 11:50 AM — After *Pomp and Circumstance*: Heather's Apology & Wesley's Unbroken Hope
 
 ![Outside the Virginia Beach Pavilion under blooming crape-myrtle trees after Northwood High School's June 2003 Commencement, eighteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in matching compact black SwiftChair power wheelchairs in royal-purple caps and gowns with gold honor cords holding inner hands with guarded, bittersweet expressions as remorseful classmate Heather Collins apologizes to both of them while her sixteen-year-old cousin Wesley folds his arms over his blue silicone ring and frowns angrily at Heather.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_graduation_heather_apology_angry_wesley.jpg)
 
@@ -2836,6 +2778,257 @@ Seeing that raw, unguarded hope on Wesley's face hurt ten times worse than anyth
 Part of me—the same aching corner of my chest that still knew every note of *Unhandled Exception* by heart—felt a sharp, dizzy pull behind my sternum. Hearing Heather confess out loud without a single excuse that she knew we had told the truth lifted a five-month stone off my lungs.
 
 And at the exact same second, right underneath that relief, a cold, instinctive knot of pure terror clamped shut around my stomach—the exact same protective fear I could feel stiffening right through Katie's palm into mine.
+
+***
+
+#### Story Crossroads — Outside the Virginia Beach Pavilion: How Do Katie and Nate Answer? {#crossroads-pavilion-apology-2003}
+
+*Under the blooming crape-myrtles after commencement, Heather has just confessed the whole truth, and sixteen-year-old Wesley is turning his blue silicone ring between both palms—hoping with his whole heart not to lose his very first guy friend. Both paths forward are complete, coequal stories.*
+
+*Select a Story Path below to jump directly to your chosen continuation:*
+
+1. [**Accept Heather's Apology & Welcome Her Back**](#crossroads-path-accept-heather-virginia) — Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour CCHR, VDU, and Warwick University together as a team, marry Heather, and rescue both Brittany and Chelsea.
+2. [**Say No to Dating, Yet Meet Once for Wesley**](#crossroads-path-wesley-aide-bridge) — Hold the romantic boundary, yet meet off Route 15 at Emerald Creek Mall on June 28 as Wesley's driver and aide so Wesley keeps his buddy bridge across thirteen hundred miles.
+
+***
+
+# Story Path: Accept Heather's Apology & Welcome Her Back {#crossroads-path-accept-heather-virginia}
+
+*Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour CCHR, VDU, and Warwick University together as a team, marry Heather, and rescue both Brittany and Chelsea.*
+
+*[← Return to the Story Crossroads](#crossroads-pavilion-apology-2003)*
+
+# Virginia Domicile, Three Campuses, & Twelve Extra Years
+
+## Saying Yes Under the Crape-Myrtles & The Four-Person Household
+
+### Two Squeezes, Wesley's Cheer, & Where One Pair Goes, Both Pairs Go
+
+**Date:** 2003-06-14 at 11:52 America/New_York
+
+#### Saturday, June 14, 2003, 11:52 AM — Two Squeezes, Wesley's Cheer, & Hugging Under the Pavilion Canopy
+
+![Outside the Virginia Beach Pavilion under the white steel space-frame canopy and blooming pink crape-myrtle trees after Northwood High's June 2003 Commencement, eighteen-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs in royal-purple caps and gowns as Heather Collins kneels warmly hugging Nate with Katie's supportive hand on his shoulder while sixteen-year-old Wesley holds his blue silicone ring and pumps his right fist high in the air cheering.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg)
+
+Katie gave my left hand two slow, questioning squeezes across our padded inner armrests.
+
+Before answering a single word out loud, I turned my head toward my twin sister beneath the dappled pink shade of the crape-myrtle blossoms and looked straight into her blue eyes. Five months of sitting in the back corner of Room 204 had taught both of us how much a slammed metal locker door could hurt—yet standing three feet in front of our footrests wasn't the proud, defensive teenager who had panicked in front of twenty gossiping classmates in January. Standing in front of us was a girl who had marched across a crowded graduation plaza at her cousin's side, owned every word of her mistake without a single excuse, and asked to start over from zero. And right beside her purple sleeve stood sixteen-year-old Wesley, rocking up onto the balls of his dark sneakers with his smooth blue silicone ring held between both palms and his whole heart shining out of his brown eyes.
+
+Katie didn't pull back. Instead, the tight protective knot in her shoulders softened by half an inch, and she squeezed my fingers twice again—steady, clear, and unmistakable: *If your heart wants to give her a chance, Twin Brother, we do it together—with clear ground rules.*
+
+Taking a deep breath of warm June salt air, I squeezed Katie's hand twice right back and looked up into Heather's wet hazel eyes.
+
+"What happened at that locker in January really scared both of us, Heather," I said quietly and plainly, keeping my left hand anchored in Katie's while holding nothing back. "Katie and I never lie to each other, and we never lied to you. If we start over—and if we let you back inside our circle—there can never be another morning where somebody's rumor makes you scream over top of us before letting us finish a sentence. If something confuses you or scares you, you come straight to Katie and me and ask us calmly, face to face."
+
+"Every single time—I swear on everything I care about, Nate, and to you too, Katie," Heather breathed out, a fresh tear slipping past her lower lashes as she nodded so earnestly her purple mortarboard tassel swung across her cheek. "Never again. If anybody ever says a word against either of you, I come straight to both of you first, and I listen."
+
+Beside me, Katie offered Heather a genuine, steady smile across my shoulder. "Starting from today—with clean air, no yelling, and Saturday pretzels back on the calendar—we'd both like that, Heather. Welcome back."
+
+"Yeah," I said, a five-month weight lifting clean off my ribs as a real grin broke across my face. "Let's start over, Heather."
+
+Just behind us across the sunlit concrete plaza, the heavy glass lobby doors of the Virginia Beach Pavilion swung wide for the departing symphonic band, sending one last bright, brassy swell of *Pomp and Circumstance* rolling out beneath the white steel space-frame canopy.
+
+Sixteen-year-old Wesley didn't flinch at the horns—he exploded with pure, unfiltered joy.
+
+Letting out a booming, triumphant three-note cheer from deep in his chest that turned half a dozen smiling parents' heads along the colonnade, Wesley shifted his blue silicone ring into his left hand, pumped his right fist straight up toward the canopy rafters, and bounced twice on his sneakers with the biggest ear-to-ear grin I had ever seen on a human being. Setting her purple leatherette diploma folder gently down onto the clean concrete beside my right wheel so she wouldn't bump either joystick, Heather dropped to her knees right beside my SwiftChair and wrapped both purple-robed arms warmly around my shoulders while Katie reached across to rest her left hand over my shoulder in quiet blessing.
+
+Closing my eyes for five full seconds with my forehead resting against Heather's temple, Katie's warm palm steady on my collarbone, and Wesley's happy humming blending right into *Pomp and Circumstance* overhead, I felt the fractured pieces of senior year lock cleanly back into place. When Heather sat back wiping her cheeks and laughing through happy tears, Wesley stepped straight up beside my right armrest and held out his fist; I bumped the back of my knuckles twice against his—firm, unhurried, and home for good.
+
+***
+
+#### Sunday, June 22, 2003, 4:10 PM — In-State Virginia Domicile & Where One Pair Goes, Both Pairs Go
+
+"Read subsection B one more time for your father, Heather, so I make sure I'm looking at the real math and not teenager math," Mr. Collins said mildly across our round oak kitchen table on Arvin Road eight days later, adjusting his wire-rimmed reading glasses over two yellow legal pads and a printed copy of the Community College of Hampton Roads tuition schedule.
+
+Outside our kitchen window, late-June cicadas hummed in the backyard maples while sixteen-year-old Wesley sat happily beside my right wheel at the end of the table, lining up warm cinnamon-sugar pretzel bites on a paper napkin and tapping my knuckles whenever a blue-and-silver bus commercial flashed across our muted living-room television. Across from Mr. and Mrs. Collins sat Aunt Linda and our dad, with three mugs of iced tea sweating on cork coasters between them, while Katie sat parked flush on my left with her right fingers laced through mine and Heather sat pulled right up beside my right armrest with a blue ballpoint pen poised above her spiral notebook.
+
+"It's Section 23-7.4 of the Code of Virginia—continuous one-year in-state college domicile," eighteen-year-old Heather explained clearly, sliding the highlighted printout across the oak grain so her dad, Aunt Linda, and my dad could all read the tuition columns side by side. "Because we lived right here in Virginia Beach all through Northwood High School, I already hold full Virginia in-state domicile right now—both for the two-plus-two Guaranteed Transfer agreement at CCHR and for finishing my bachelor's degree in biology and special education at Virginia Dominion University in Norfolk. If I move back to Minnesota next Monday when you and Mom close on the Kempsville house, or if I bounce between states while Aunt Linda transitions Wesley's services, I forfeit Virginia residency or pay out-of-state rates that cost nearly triple every single semester—and Wes loses his place on the Tidewater developmental-services roll right before he turns eighteen."
+
+Aunt Linda looked thoughtfully from the tuition sheet over to Wesley—whose shoulders were completely relaxed as he munched a pretzel twist six inches from my elbow—and let out a quiet, knowing breath.
+
+"All winter long after January sixth, my son barely smiled once," Aunt Linda said softly to her sister and brother-in-law. "Every Saturday morning he stood by the front door pointing toward Military Highway asking where Nate and Katie were. Look at him sitting right here at David's kitchen table today. If staying in Tidewater for this next year keeps Heather's in-state tuition intact at CCHR and VDU while I get my own doctors sorted out—and keeps Wes right beside the first real friends he has ever had—I am happy to rent a two-bedroom place ten minutes from David's street."
+
+Dad leaned back in his wooden kitchen chair, folding his forearms across his chest with that calm, carpenter's measure he always used before cutting a load-bearing beam, and looked squarely at Heather and me.
+
+"Katie and Nate already picked out a zero-step ground-floor apartment complex over in Norfolk right on CVTA Routes 2 and 15 so the three of us can ride over to CCHR classes together starting in August," Dad said evenly. "If Aunt Linda stays in Tidewater this year—and if down the road Heather steps up as Wesley's legal guardian and conservator the way your family has planned—you four need to be crystal clear with each other right now about how your lives fit together."
+
+Heather didn't hesitate for half a heartbeat. Resting her left hand gently over my right forearm on my armrest, she looked across me straight into Katie's eyes first, and then down into mine.
+
+"Wherever Nate goes, Katie goes too," Heather said simply, repeating the exact promise she had lived by since eleventh grade. "That isn't a compromise—that's who the two of you are."
+
+Katie smiled warmly across my shoulder, squeezed my left hand, and looked straight at sixteen-year-old Wesley before meeting Heather's and Aunt Linda's eyes.
+
+"And wherever Heather goes, Wesley goes too," Katie answered with equal certainty. "Nobody in our family ever gets treated like luggage or left behind."
+
+"Two pairs, one team of four," I agreed, resting my right palm warmly over Heather's hand while my left stayed anchored in Katie's. "When Aunt Linda is ready for Heather to take over Wesley's guardianship next year, we get a ground-floor three-bedroom place right on the bus line with wide doorways for our two SwiftChairs and a quiet sensory bedroom for Wes."
+
+Thirteen months later—in July 2004, when Aunt Linda's sudden cardiac hospitalization made it impossible for her to manage daily physical care on her own and nineteen-year-old Heather stood before a Norfolk Circuit Court judge to be appointed eighteen-year-old Wesley's plenary legal guardian and conservator—Dad spent an entire Saturday with his cordless drill and level helping the four of us move into a sunlit, zero-step three-bedroom corner apartment off Hampton Boulevard in Norfolk. Because I came home every afternoon to Heather's laugh at our shared dining-room study table, Katie's compiler window glowing two inches to my left, and Wesley happily sorting his collection of transit route pamphlets beside us, I never spent a single lonely autumn afternoon wandering the CCHR student lounge looking for fair-weather company.
+
+***
+
+#### Wednesday, May 12, 2004, 4:35 PM — Brandon's Red Flags & Wesley's Sentinel Glare
+
+"Oh, come on, Katie—you're nineteen years old, you don't seriously need a whole entourage tagging along just to grab iced coffee up in Williamsburg on Saturday," twenty-three-year-old Brandon Mercer laughed smoothly from the middle of our Norfolk living-room rug, flashing a practiced, overly familiar smile as he took an uninvited step toward the rear push-handles of Katie's SwiftChair.
+
+Katie had met Brandon three afternoons earlier outside a CCHR general-education lecture hall when he held an exterior glass door and chatted politely about Colonial architecture; invited over to meet our household in broad daylight before Katie ever agreed to go anywhere off campus with him, Brandon hadn't lasted four minutes before showing every card up his sleeve. The moment seventeen-year-old Wesley had walked out of the kitchen carrying his blue silicone ring and hummed a polite two-note hello, Brandon had smirked sideways as if Wesley couldn't understand plain English—and now he was trying to peel my twin sister forty-five miles up Interstate 64 without me.
+
+"Don't touch my sister's push-handles," I said flatly, rolling my chair six inches forward so my front caster blocked his shoe.
+
+Before Brandon could even pivot into a fake apology, nineteen-year-old Heather stepped straight out from the kitchen breakfast bar with a dish towel still folded in her hand—her hazel eyes sharp as laser glass.
+
+"Let me save everybody a whole lot of time, Brandon," Heather said in a crisp, level voice that froze his hand in midair. "First, nobody in this apartment ever talks over Wesley like he isn't standing in the room. Second, nobody touches Katie's or Nate's wheelchairs without permission. And third, when a twenty-three-year-old guy walks into a nineteen-year-old girl's living room for the very first time and immediately tries to talk her into riding an hour out of town alone without her twin brother, every single person in this room knows what kind of controlling garbage that is."
+
+Brandon's polite mask cracked in an instant, an ugly red flush creeping up his collar. "Excuse me? I wasn't talking to you—"
+
+"Yes, you are, right on your way out our front door," Katie cut in coolly, backing her chair two inches beside mine and lacing her fingers firmly through my hand. "Lose my email address, Brandon. Don't sit near us at CCHR again."
+
+Right beside Heather's left shoulder, six-foot-tall Wesley didn't say a spoken word. Stepping squarely into the center of the rug between Brandon's loafers and our two footrests, Wesley planted his sneakers shoulder-width apart, folded both muscular forearms tight across his navy polo shirt over his smooth blue silicone ring, and fixed Brandon with an unblinking, immovable sentinel glare while pointing one thumb straight at the front doorlatch.
+
+Brandon looked once from Wesley's broad shoulders to Heather's unyielding face to Katie's and my locked wheels, muttered something bitter under his breath, yanked the front door open, and disappeared down the breezeway walk for good.
+
+The second the deadbolt clicked shut behind him, Wesley unfolded his arms, let out a proud two-note hum, and held out his knuckles; Katie, Heather, and I all laughed out loud in unison as I bumped Wesley's fist twice, safe inside a four-person home where nobody would ever back either of us into a corner or make us sleep behind a locked closet door.
+
+## Touring CCHR, VDU, and Warwick University as a Team
+
+### Three Campuses on One Legal Pad & Route 112 NNTC at the Shoe Lane Roundabout
+
+**Date:** 2005-10-15 at 09:40 America/New_York
+
+#### Saturday, October 15, 2005, 9:40 AM — Three Campuses on One Legal Pad: CCHR, VDU, & Crossing the Harbor Tunnel
+
+"Campus One checked off, Campus Two checked off, and one fresh thermos of apple cider left in the cupholder before we dive under the bay for Campus Three," twenty-year-old Heather announced cheerfully at ten minutes before noon, clicking the four-point floor tie-down straps tight around Katie's and my black SwiftChair frames inside the lowered floor channel of her used silver side-ramp minivan in the Lot 12 accessible bay at Virginia Dominion University.
+
+Every college decision in our household belonged to all four of us as a team.
+
+All morning under a crisp, cloudless mid-October Tidewater sky, the four of us had worked our way methodically down the top two sections of Katie's color-coded legal pad. At nine-forty we had started at the Norfolk campus of the Community College of Hampton Roads—walking and rolling together from the computer-science transfer advising suite where Katie and I were wrapping up our final associate-degree credits over to the workforce-readiness office so eighteen-year-old Wesley could test out the quiet assistive-learning lab without any surprises. From there, we had ridden ten minutes west to Virginia Dominion University along Hampton Boulevard, rolling hub to hub down the wide modernist concrete mall between Dragas Hall and the life-sciences conservatory ponds while Heather showed Wesley the aquatic-turtle research tanks in the biology wing and Katie measured the elevator cab clearances in the upper-division software engineering building where all three of us held in-state transfer admission for the coming fall.
+
+Now came the third stop on our Saturday circuit: evaluating an inclusive post-secondary campus-life and animal-stewardship transition program across the water on the Virginia Peninsula so Wesley could compare both four-year campuses side by side and help choose where our team spent its weekdays.
+
+Buckled into the front passenger bucket seat beside Heather, eighteen-year-old Wesley held his smooth blue silicone wristband-ring comfortably in his left palm and tapped the laminated three-campus checklist clipped to the dashboard twice—grinning wide as Heather backed smoothly out onto Hampton Boulevard and merged north onto Interstate 64 toward Willoughby Spit and the white tiled portal of the Hampton Roads Bridge-Tunnel.
+
+"Honestly, having you drive us across the water today is a lifesaver, Heather," Katie called forward over the hum of the tires as sunlight gave way to the bright golden sodium lamps inside the underwater tunnel tube beneath the shipping channel. "Ask Nate and me anything about Southside CVTA transfers from Virginia Beach Boulevard down to Emerald Creek Mall and we can recite every timepoint in our sleep, except the second you cross north of the harbor into Hampton and Newport News, neither one of us knows a single Peninsula bus route."
+
+"Not one," I agreed with a laugh from my tied-down SwiftChair beside my sister, lacing my left fingers comfortably through Katie's right hand as the minivan climbed smoothly back out into bright Peninsula sunshine past Fort Monroe and Mercury Boulevard. "Southside route numbers start in the single digits and twenties; up here everything is in the hundreds, and Katie and I have never once had a reason to ride a bus on this side of the water."
+
+"That's why teams have drivers *and* Southside route encyclopedias," Heather grinned in the rearview mirror, signaling cleanly onto Jefferson Avenue and then turning west toward U.S. Route 60 and State Route 312 into the leafy heart of Newport News. "Hold onto your pretzel bag, Wes—Warwick University coming up on the right."
+
+***
+
+#### Saturday, October 15, 2005, 1:45 PM — Neo-Georgian Brick at Warwick University & Route 112 NNTC at the Shoe Lane Roundabout
+
+![On a sunny October 2005 afternoon along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, twenty-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while twenty-year-old Heather stands warmly beside Nate's chair and eighteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg)
+
+"Look at the brickwork on this quad compared to Hampton Boulevard," Katie marveled softly at a quarter to two, easing her SwiftChair hub to hub beside mine along the wide, barrier-free herringbone red-brick walkway curving past Warwick University's stately Neo-Georgian academic hall—its tall white Doric columns and crisp white rooftop cupola gleaming behind a canopy of golden-orange October oak leaves.
+
+For the past hour, the inclusive transition coordinator had walked the four of us at an unhurried, sensory-friendly pace through Warwick University's quiet small-group seminar rooms, botanical courtyard, and campus dining hall—speaking directly to Wesley at eye level rather than talking over his head to Heather. Now, with a brown paper bakery bag of warm soft pretzel bites tucked securely in Wesley's left hand beside his blue silicone ring, the four of us strolled out toward the sunny campus perimeter where Shoe Lane met State Route 312 at a landscaped circular brick-and-flower roundabout.
+
+At the low rumble of a diesel engine easing counterclockwise around the central flowerbed island, Wesley's ears perked up instantly.
+
+Exiting the roundabout cleanly down the approach lane to our left—its right-side passenger boarding doors tracking smoothly along the outer concrete curb—rolled a modern blue-and-silver Coastal Virginia Transit Authority gill-window coach, its rectangular amber LED destination header glowing crisp and bright above the windshield: <led>112 NNTC</led>.
+
+Wesley beamed from ear to ear, lifted his chin toward the glowing amber sign, and let out a happy, rising two-note vocal hum so I wouldn't miss it.
+
+"Good eye, Wes—Route 112!" I smiled, glancing curiously at the four uppercase letters beside the route number as the clean Peninsula coach glided past the brick crosswalk. "What does *NNTC* stand for up here, Heather?"
+
+"Newport News Transit Center—the main downtown Peninsula transfer hub down at Thirty-Fifth Street and Washington Avenue by the shipyard," Heather explained easily, walking right beside my right wheel in her navy varsity cardigan with her van key fob clipped neatly to her front pocket. "All the Peninsula hundred-series routes—the 112 here at the Shoe Lane roundabout, plus the 106 and 107 over on Warwick Boulevard—funnel down to Thirty-Fifth and Washington."
+
+"File that away in case we ever audit Peninsula routes one day, Nate," Katie teased lightly beside me, grateful in the warm October breeze that the downtown Newport News transfer hub was nothing more to either of us than four glowing amber letters on a sunny Saturday campus tour. Turning back toward Wesley, Katie tapped her pen against her legal pad. "All right, Wesley—between CCHR, VDU right down the street from our Norfolk apartment, and Warwick University over here across the tunnel, which campus felt best to you?"
+
+Thoughtfully chewing a warm bite of salted pretzel while the 112 hummed away down the tree-lined street, eighteen-year-old Wesley looked back toward the Neo-Georgian columns behind us, shook his head once against thirty minutes of tunnel traffic every morning, and then tapped the middle box on Heather's clipboard twice—right over the biology turtle-pond sketch from Virginia Dominion University five minutes from home—before reaching his right fist straight across to my armrest.
+
+Laughing together in the golden October sunshine, Heather rested her hand warmly against my shoulder, Katie laced her left hand tighter through mine, and I reached up to bump Wesley's knuckles twice—four teammates with one home base in Tidewater, zero broken Saturdays behind us, and every semester ahead wide open.
+
+## House Bill 663, Rescuing Both Cousins, & Twelve Extra Years Together
+
+### Part 1: Three Alumni at the Sanctuary Doors & Romaine Squares Waiting in Kempsville
+
+**Date:** 2016-02-06 at 13:40 America/New_York
+
+#### Saturday, February 6, 2016, 1:40 PM — Three Class of 2003 Alumni Walk Into a South Richmond Sanctuary
+
+"Hold the left sanctuary door wide for Katie's caster, Heather—we're right on time," I murmured at twenty minutes to two on Saturday afternoon inside the carpeted narthex of a small brick church south of the James River in Richmond.
+
+Forty-eight hours earlier inside the marble chamber of the Virginia House of Delegates up on Capitol Square—after six tireless years of Katie fighting her way from Kempsville City Council to the Eighty-Fifth House District while riding Southside CVTA buses everywhere on principle—my twin sister had risen beside her desk microphone and gutted House Bill 663 line by line in defense of Sam, Mandy, and Sarah Hawkins, winning a bipartisan standing ovation alongside Uncle Richard Callaway that led every six-o'clock broadcast in central Virginia. Yesterday afternoon outside the General Assembly Building, a breathless, gaunt thirty-year-old woman in a frayed winter coat had sprinted off a James River Transit Commission bus shouting *"Hold the elevator!"* before throwing herself weeping across Katie's lap: our cousin Brittany Fletcher, trapped three miles across the river on a joint Hillside Court public-housing lease by a controlling fiancé trying to force a Saturday wedding so she could never testify or leave.
+
+When Heather and Dad drove twenty-eight-year-old Wesley up Interstate 64 from our Hampton Roads *North Lion Scales & Tails* reptile conservatory on Military Highway to meet Katie and me in Richmond that morning—leaving Dad and Wesley safely out in the church courtyard beside the accessible van so loud voices wouldn't distress Wes—Heather had taken one look at the groom's name on Brittany's crumpled marriage-license receipt and insisted on walking down that center aisle right beside our two wheelchairs.
+
+"Does anyone present know of any lawful or moral reason why these two should not be joined—" the officiating pastor began from the low wooden chancel.
+
+Heather pulled both oak sanctuary doors wide open, and Katie and I rolled hub to hub straight into the center aisle.
+
+"I object!" I called out clearly, my voice ringing off the acoustic ceiling tiles from fifty feet back.
+
+Up at the front rail in an ill-fitting rented suit, thirty-one-year-old Tyler spun around on his heel—the exact same petty, sneering face from Northwood High School thirteen winters ago—and went dead white from his collar to his hairline as he found himself staring not just at Katie and me in our two black SwiftChairs, but at thirty-year-old Heather Prairie standing tall right beside my right wheel in her navy wool coat, her wedding band glinting on her left hand and thirteen years of zero patience for his lies burning in her hazel eyes.
+
+"Well, look who finally ran out of homerooms to lie to," Heather said evenly across the hushed pews, loud enough for Tyler's two groomsmen and the startled pastor to hear every syllable. "Step three feet back from Brittany's arm right now, Tyler. Her family is taking her home."
+
+Trembling from head to toe in a thrift-store ivory dress she hadn't chosen, Brittany didn't look back once. Gathering her skirt in both fists, she stepped straight away from the altar, hurried down the carpeted aisle between Katie's chair and mine, and let Heather wrap a warm wool coat over her shaking shoulders as the four of us headed straight out into the bright February sunshine—where Central Virginia Legal Aid was already queued up for Monday morning to sever her Hillside Court lease above board under the Virginia Residential Landlord and Tenant Act, and where Dad and Wesley were waiting beside the open van ramp with hot cocoa and an open seat heading home to Kempsville.
+
+***
+
+#### Saturday, July 16, 2016, 6:20 PM — Romaine Squares Waiting on Arvin Road & Wesley Meets Turtle Girl
+
+"Easy over the threshold, Chelsea—nobody's rushing you here, sweetheart, and Shelly's travel carrier is right level in Nate's hands," Dad said gently five months later as early-evening July sunlight slanted across the wide zero-step oak ramp of our restored family home in Kempsville.
+
+Fresh off celebrating Brittany passing her High School Equivalency exam in June, Dad, Katie, Heather, Brittany, and I had spent the week up in Rhode Island—riding Braxton Transit Authority Route 99 up Mount Regalis, exposing the neglectful group-home administrator in probate court with crisp medical documentation, and bringing thirty-four-year-old Cousin Chelsea and her beloved painted turtle Shelly home for good to Virginia Beach while Wesley stayed overnight with Aunt Linda five minutes down Kempsville Road so the twelve-hour highway drive wouldn't overwhelm either of them.
+
+Now, ten minutes before our van pulled into the driveway, Aunt Linda had dropped twenty-nine-year-old Staff Member Wesley off in our cool, quiet living room—dressed neatly in his navy-blue *North Lion Scales & Tails* Tidewater conservatory polo shirt, his smooth blue silicone ring resting in his left pocket, and a wide ceramic bowl of freshly washed, bite-sized crisp green romaine lettuce squares balanced carefully in both hands beside the pre-cycled seventy-five-gallon sunlit basking habitat Heather and Wesley had built along the living-room wall all week.
+
+Stepping timidly across the threshold in her soft pink cardigan with both hands hovering protectively near the ventilated travel tub on my lap tray, thirty-four-year-old Chelsea froze two steps inside the foyer when she spotted the spacious, crystal-clear glass turtle sanctuary humming gently with warm basking light—and the tall, gentle sandy-haired man standing quietly beside it holding fresh green lettuce just for Shelly.
+
+"Turtle tank... big clean water for Shelly?" Chelsea whispered in wonder, blinking up from the smooth cork basking dock to Wesley's warm brown eyes.
+
+Wesley didn't crowd her by half an inch. Smiling with quiet, unmistakable reverence, twenty-nine-year-old Wesley set the ceramic bowl gently on the low oak stand at elbow height, tapped the rim twice, and let out his softest, calmest two-note welcoming hum—offering Chelsea the very first crisp romaine leaf between two steady fingers so *she* could be the one to feed Shelly in her new home.
+
+Across our inner armrests in the foyer, Katie's hand tightened warmly around mine while Heather leaned her cheek against my right shoulder and Brittany wiped a happy tear onto her sleeve beside Dad. Watching Chelsea beam up at Wesley as Shelly paddled eagerly toward the glass—right here in our Virginia Beach living room in the summer of 2016, with zero state lines and zero thousand-mile flights standing between them—I knew down in my bones that neither Wesley nor Chelsea would ever spend another lonely season apart.
+
+### Part 2: Six Chairs in the Rose Garden & Twelve Extra Years Under One Sky
+
+**Date:** 2028-06-15 at 14:15 America/New_York
+
+#### Thursday, June 15, 2028, 2:15 PM — Six Chairs in the Rose Garden & Twelve Extra Years Under One Sky
+
+"For Wesley, for Chelsea, and for every couple in America who was ever told by an outdated federal worksheet that loving somebody under the same roof meant forfeiting the healthcare and support that keep them alive," President Clara Morales declared into the cluster of lectern microphones across the sunlit green lawn of the restored White House Rose Garden, uncapping the first silver-engraved signing pen above the thick parchment cover of Senate Bill 1412.
+
+Parked hub to hub on the level bluestone terrace right beside the mahogany signing desk in our two compact black powerchairs, forty-three-year-old United States Senator Katie Prairie and I kept our inner hands laced tightly together while warm mid-June sunshine settled across our shoulders.
+
+Even though Wesley and forty-six-year-old Chelsea had never once been separated by a thirteen-hundred-mile flight—having spent twelve unbroken, joyful years side by side in Virginia Beach tending rescued Tidewater painted turtles at *North Lion Scales & Tails* on Military Highway, riding Route 15 down to Emerald Creek Mall for soft pretzels, and sitting together on our Kempsville porch swing every evening—the archaic federal marriage and "holding-out" penalties inside Social Security had still stood like a tripwire across our hallway, punishing two disabled adults with slashed benefits and Medicaid waiver red tape if they ever exchanged rings or shared one bedroom suite without fear. Watching Wesley and Chelsea hold hands across twelve full Virginia summers had been the exact fire that propelled Katie from the Senate of Virginia in Richmond to the United States Senate in November 2026—and onto the floor of the Capitol to pass the *Supported Companions, Waiver Portability, and Social Security Solvency Act* by overwhelming bipartisan margins.
+
+When President Morales finished writing the final stroke of her signature, turned straight around from the mahogany desk, and handed the first ceremonial box pen to Katie and the second directly into forty-one-year-old Wesley's and forty-six-year-old Chelsea's joined hands, the entire Rose Garden rose to its feet in thunderous applause.
+
+Right beside my right wheel, forty-three-year-old Heather reached down to squeeze my right hand—her hazel eyes shimmering behind happy tears as Dad and Brittany clapped beside Uncle Steven and Aunt Karen in the front family row—while Wesley shifted the velvet pen box proudly onto Chelsea's palm, turned his familiar smooth blue silicone ring once in his pocket, and reached down to bump the back of my knuckles twice right in front of the White House press corps.
+
+Ten minutes later, as the crowd drifted toward the Colonnade reception tables for sparkling cider and the Marine Band struck up a warm brass recessional across the lawn, Heather lingered beside Katie's chair and mine in the quiet June shade of a white magnolia tree, watching Wesley carefully carry a small plate of strawberries over to Chelsea's garden chair.
+
+"My mom called from Saint Paul while we were waiting at the gate this morning," Heather murmured softly, resting her left hand with twenty-one years of marriage worn smooth into its gold band over my shoulder while smiling down at both Katie and me. "She was laughing with Aunt Linda about how back in June of two thousand three, right before we sat down at your dad's oak table with that Virginia domicile statute, my aunt up in Minnesota already had some boy on the North Star campus bus route picked out to introduce me to if we'd moved north."
+
+Katie glanced sideways at me with a quiet, knowing smile across our armrests, squeezing my left fingers twice.
+
+"Good thing sixteen-year-old Wesley dragged you under that crape-myrtle tree at the Pavilion first," Katie said gently.
+
+Looking across the sunlit Rose Garden lawn at forty-one-year-old Wesley laughing nose to nose with Chelsea—at a best friend who had never spent a single Saturday wondering why I disappeared, a cousin Brittany thriving and whole beside Dad, a twin sister whose voice had just rewritten federal law, and the woman who had kept her graduation-day promise to both of us for a quarter century without breaking it once—I lifted Heather's hand to my cheek while holding fast to Katie's.
+
+"Best answer we ever gave," I whispered.
+
+***
+
+*End of Story Path: Accept Heather's Apology & Welcome Her Back. [← Return to the Story Crossroads](#crossroads-pavilion-apology-2003)*
+
+# Story Path: Say No to Dating, Yet Meet Once for Wesley {#crossroads-path-wesley-aide-bridge}
+
+*Hold the romantic boundary, yet meet off Route 15 at Emerald Creek Mall on June 28 as Wesley's driver and aide so Wesley keeps his buddy bridge across thirteen hundred miles.*
+
+*[← Return to the Story Crossroads](#crossroads-pavilion-apology-2003)*
+
+# Seventeen, Senior Year, & Greenway Court
+
+## Drunken New Year
+
+### Part 5: Waiting by the Route 15 Stop, If You Walked Away, & Wesley's Laminated Buddy Card
+
+**Date:** 2003-06-14 at 11:52 America/New_York
+
+#### Saturday, June 14, 2003, 11:52 AM — Dashed Hopes After *Pomp and Circumstance*, Wesley's Tears, & One Strictly Bounded Saturday
 
 "Heather, thank you for coming over here and saying all of that to our faces," Katie spoke first—not sharply, not triumphantly, her voice quiet and honest and steady beside my shoulder. "Hearing you say out loud that you know Nate told the truth really does mean something to both of us. It's just... I watched what your screaming at that locker did to my brother for five straight months. Neither Nate nor I can put ourselves back in a relationship where every single day we're terrified that the next time somebody spreads a rumor or misunderstands something, you might blow up at us like that all over again."
 
@@ -2887,11 +3080,7 @@ Down at the flagpole curb cut forty feet away, Dad eased our silver accessible v
 
 Once they disappeared into the crowd of purple gowns—and once the last distant notes of *Pomp and Circumstance* faded back behind the closing Pavilion doors—Katie flipped up our inner armrests, leaned straight across the gap between our SwiftChairs, and hugged me tight for five quiet seconds before we rolled side by side toward Dad's ramp.
 
-### Part 5: Waiting by the Route 15 Stop, If You Walked Away, & Wesley's Laminated Buddy Card
-
-**Date:** 2003-06-28 at 12:35 America/New_York
-
-![Inside the sunlit second-floor Food Court of Emerald Creek Mall beneath white tented fabric ceiling cones in June 2003 with Crown Burger and Annie's Pretzels in the background, eighteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in matching compact black SwiftChair power wheelchairs holding inner hands while Nate reaches across the table to tap sixteen-year-old Wesley Collins's knuckles beside a miniature toy city bus and soft pretzel tray as Heather Collins sits respectfully half a chair back with her hands folded quietly in her lap.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jun_2003_emerald_creek_mall_food_court_goodbye_wesley_nate_katie_heather.jpg)
+***
 
 #### Saturday, June 28, 2003, 12:35 PM — Two Nervous Figures Behind the Yellow Curb Strip
 
@@ -3011,8 +3200,6 @@ Reaching across the laminate tabletop one final time, Wesley held his right knuc
 
 **Date:** 2003-07-16 at 07:40 America/New_York
 
-![Inside Apartment A6 at Greenway Court in West Ghent, Norfolk in July 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding hands in front of their rear window and full-sized bed while their father David Prairie stands beside the standalone rolling microwave-and-toaster cart holding his travel mug of coffee]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/jul_2003_greenway_court_apt_a6_move_in_microwave_cart.jpg)
-
 #### Wednesday, July 16, 2003, 7:40 AM — Dad's Rolling Cart & Our Own Set of Keys in Apartment A6
 
 "Careful with the power cord on the toaster, Nate—tuck it through the back wire loop so it can't snag on your armrest when you turn around by the stove," our father said cheerfully at twenty minutes to eight on Wednesday morning, tightening the last chrome corner bolt on the two-shelf rolling utility cart he had just assembled beside our tiny kitchenette counter.
@@ -3083,8 +3270,6 @@ When we finally waved to Michael and Ashley as they headed off to meet Michael's
 
 **Date:** 2003-08-09 at 20:45 America/New_York
 
-![Inside the compact square closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts are cuddled up close together inside their single shared navy-blue sleeping bag on the carpeted closet floor]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg)
-
 #### Saturday, August 9, 2003, 8:45 PM — Footsteps Behind the Exterior Iron Stairs & Hiding in the Square Closet
 
 "Wait—turn the speakers down, Nate," Katie whispered sharply at a quarter to nine on Saturday evening, her hand dropping onto my wrist over the computer mouse. "Listen."
@@ -3138,8 +3323,6 @@ From that August night forward, that compact square closet literally became our 
 ### Part 3: Hurricane Isabel, Two Layers of Sandbags at Greenway Court, & Two Weeks at Dad's House on Arvin Road
 
 **Date:** 2003-09-17 at 15:15 America/New_York
-
-![Outside the Greenway Court apartment building in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel under overcast gray skies and rising wind, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs on the front walkway as Michael Ragsdale waves goodbye with his backpack on the sidewalk.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/sep_2003_hurricane_isabel_greenway_court_sandbags_evacuation_katie_nate_david.jpg)
 
 #### Wednesday, September 17, 2003, 3:15 PM — Unplugging Apartment A6, Seeing Michael Sad Across the Hall, & Two Layers of Sandbags at the Top of the Lobby Ramp
 
@@ -3345,8 +3528,6 @@ In the evenings, while the radiators and the through-wall fan kept our rectangul
 
 **Date:** 2004-05-14 at 14:45 America/New_York
 
-![On the brick outdoor café patio of The Admiral Center in Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs as twenty-two-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg)
-
 #### Friday, May 14, 2004, 2:45 PM — Spilled Hot Chocolate Under the Green Umbrellas & A Polite Visitor from Williamsburg
 
 "Watch out—!" Katie gasped as a man in a pinstriped suit carrying three bulging department-store shopping bags cut straight across the brick pedestrian promenade of The Admiral Center without looking down, clipped the edge of our round wrought-iron patio table with his hip, and sent Katie's steaming paper cup of hot chocolate tumbling sideways across the tabletop.
@@ -3414,8 +3595,6 @@ As we unlocked our joystick brakes five minutes later and rolled side by side up
 ### Part 2: A Non-Negotiable Package Deal, Dad's Calling Cards, & Moving Together to Williamsburg
 
 **Date:** 2004-06-19 at 13:30 America/New_York
-
-![Inside Apartment A6 at Greenway Court in Norfolk in June 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg)
 
 #### Saturday, June 19, 2004, 1:30 PM — Labeling the Cables & The Non-Negotiable Package Deal
 
@@ -3733,8 +3912,6 @@ Fifteen minutes later, rolling up our familiar aluminum front ramp into the quie
 
 **Date:** 2004-10-20 at 14:00 America/New_York
 
-![Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk in October 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg)
-
 #### Wednesday, October 20, 2004, 2:00 PM — The Federal Courthouse on Granby Street & Two Regular Adult Tickets to Detroit
 
 "Take all the time you need, Miss Prairie," Special Agent Morales said gently, clicking his ballpoint pen open above a yellow legal pad inside a quiet ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in downtown Norfolk while a detective from the Williamsburg Police Department switched on a small digital recorder. "Nobody in this room is rushing you or your brother."
@@ -3812,8 +3989,6 @@ Letting out a long, quiet breath, my nineteen-year-old twin sister looked sidewa
 ### Part 1: Chapters & Co. After Williamsburg & Tiffany Sloan Invites Both Twins Into Sea Breeze West
 
 **Date:** 2004-11-05 at 15:15 America/New_York
-
-![Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in November 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding cups of cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg)
 
 #### Friday, November 5, 2004, 3:15 PM — Falling Style Sheets at Chapters & Co. & Umbrellas Over Both Joysticks
 
@@ -4191,8 +4366,6 @@ Hugging my twin sister close in the warm dining room on Arvin Road, I rested my 
 
 **Date:** 2007-03-04 at 11:15 America/New_York
 
-![Inside the 1960s red-brick and terrazzo lobby of Barton Hall at Roosevelt Rehabilitation Center on Sunday, March 4, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit in their collapsible manual wheelchairs outfitted with right-armrest joysticks, spoked push-rim wheels, and rear rubber push-handles as Katie locks her brakes and firmly stops a staffer from grabbing her push-handles while their father David stands beside a luggage cart.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_barton_hall_checkin_push_handles_katie_nate_david.jpg)
-
 #### Sunday, March 4, 2007, 11:15 AM — Why Dormitories Were Never Built for Us
 
 ![Inside the 1960s red-brick and terrazzo lobby of Barton Hall at Roosevelt Rehabilitation Center on Sunday, March 4, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit in their collapsible manual wheelchairs outfitted with right-armrest joysticks, spoked push-rim wheels, and rear rubber push-handles as Katie locks her brakes and firmly stops a staffer from grabbing her push-handles while their father David stands beside a luggage cart.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_barton_hall_checkin_push_handles_katie_nate_david.jpg)
@@ -4338,8 +4511,6 @@ Katie let out a long breath beside me, her shoulders dropping two inches in pure
 ### Part 2: Rushing Voc Eval in One Week, Auto Shop & 'Door Greeter!?', Refusing Separation, & Staying Stuck on Level 2
 
 **Date:** 2007-03-05 at 07:15 America/New_York
-
-![Inside the 1960s painted cinder-block Vocational Evaluation break room in the Bates-Harding Building at Roosevelt Rehabilitation Center in March 2007, twenty-one-year-old twins Nathaniel and Katie Prairie sit parked wheel-to-wheel in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles, locking hands across their armrests and loudly expressing their displeasure as evaluator Ms. Hollis and aide Mr. Miller try to separate them during social time.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_voc_eval_social_break_refusing_separation_katie_nate.jpg)
 
 #### Monday, March 5, 2007, 7:15 AM — The Medication Line, Auto Shop & Woodworking, & "Door Greeter!?"
 
@@ -4521,8 +4692,6 @@ Pressing her lips into a thin, bloodless line, Ms. Hollis couldn't say a word in
 
 **Date:** 2007-03-12 at 08:00 America/New_York
 
-![Inside the 1970s institutional computer lab of the Web Applications Developer classroom at Roosevelt Rehabilitation Center in March 2007, Nathaniel and Katie Prairie sit side by side in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles with their personal laptops open in front of unused beige CRT state monitors while short, petite, jet-black-haired Caucasian classmate Tina in glasses stands beside Katie telling it like it is to the new administrator as Sheila and Jim back them up.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/may_2007_rrc_web_apps_class_personal_laptops_tina_sheila_jim_katie_nate.jpg)
-
 #### Monday, March 12, 2007, 8:00 AM — "Death Before Dishonor, NOTHING Before Coffee!", Adult Bathroom Rules, & Sitting Together in Class
 
 "*Death before dishonor, NOTHING before coffee!*" Katie read aloud with a grin at eight o'clock on Monday morning as we rolled our joystick-outfitted wheelchairs down the 1970s concrete-block corridor of the Information Technology wing and paused outside the interior office window of the Computer Hardware lab right next door to our classroom, where a bold vinyl sticker was plastered across the glass above a gurgling twelve-cup commercial coffee brewer.
@@ -4620,8 +4789,6 @@ The new administrator stared from Tina's unblinking glasses to Katie's and my tw
 ### Part 2: Emergency in the Therapeutic Pool, Caught Sleeping Together in a Closet, Calling the Staffer's Bluff, & The Chickenshit Report
 
 **Date:** 2007-03-13 at 16:15 America/New_York
-
-![Inside a 1970s brick-and-wood-paneled office in the Bates-Harding Building at Roosevelt Rehabilitation Center on Wednesday morning, March 14, 2007, twenty-one-year-old Katie and Nate Prairie sit side by side in their collapsible black manual wheelchairs outfitted with right-armrest joysticks, spoked manual wheels with metal push-rims, and rear rubber push-handles; holding a small paper cup of water in one hand, Katie leans over the wooden desk to write 'I LET HIM COVER MY DIGNITY!' in bold block letters on a legal pad while Nate holds her shoulder and the duty supervisor sits across the desk deleting the overnight pool-deck entry from his computer]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_bates_harding_counselor_office_dignity_note_katie_nate.jpg)
 
 #### Tuesday, March 13, 2007, 4:15 PM — Emergency at the Therapeutic Pool & The Towel Showdown
 
@@ -4797,8 +4964,6 @@ Katie and I looked at each other across our wheelchair armrests, and the exact s
 
 **Date:** 2007-03-14 at 21:15 America/New_York
 
-![Inside the 1970s red-brick dormitory lobby of Barton Hall at Roosevelt Rehabilitation Center on Wednesday night, March 14, 2007, twenty-one-year-old Nathaniel ('Nate') Prairie sits in his collapsible black manual wheelchair outfitted with a right-armrest joystick, spoked manual wheels with metal push-rims, and rear rubber push-handles with his silver laptop open on a small table in front of him; at the wooden front counter, Tina—a petite Caucasian middle-aged woman with glasses and straight jet-black hair—points firmly at the scrambled room-assignment ledger while evening residential staffer Herb scratches his head in confusion and classmate Jim inspects his reassigned plastic room keycard]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_cantor_hall_room_mixup_keycards_tina_herb_jim_nate.jpg)
-
 #### Wednesday, March 14, 2007, 9:15 PM — When Red Tape Blindly Follows a Scrambled Room Roster
 
 "What are you doing in here, Tina?" I asked in surprise at nine-fifteen on Wednesday night as the door to my men's dormitory room in Barton Hall clicked open and in walked our short, petite classmate with her glasses and straight jet-black hair, holding a newly issued plastic room keycard and an overnight bag.
@@ -4919,8 +5084,6 @@ Less than an hour later, as we rolled along the walkway from the dining hall tow
 
 **Date:** 2007-03-16 at 15:45 America/New_York
 
-![In the student parking lot outside the 1960s and 1970s flat-roofed red-brick buildings of Roosevelt Rehabilitation Center in Fishersville, Virginia on Friday afternoon, March 16, 2007, twenty-one-year-old fraternal twins Katie (with a small white MedStrip and gauze bandage taped across the bridge of her nose from Tuesday's pool injury) and Nate Prairie sit side by side on the rear passenger bench seat of Tina's silver four-door compact sedan holding hands through the open rear door; at the open trunk of the car, Tina—a petite Caucasian middle-aged woman with glasses and straight jet-black hair—smiles back toward the twins as she easily lifts their collapsed black manual wheelchair frame (with spoked wheels, metal push-rims, rear rubber push-handles, and right-armrest joystick) into the trunk for the weekend drive up Route 340 to Luray]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_tina_compact_sedan_trunk_collapsing_wheelchairs_luray_trip.jpg)
-
 #### Friday, March 16, 2007, 3:45 PM — Collapsing Our Wheelchairs into Tina's Compact Sedan & Finding a Quiet Closet in Luray
 
 "See how easy that is when you don't have two four-hundred-pound power bases to wrestle with?" Tina smiled back at Katie and me through her glasses at three-forty-five on Friday afternoon, standing at the open trunk of her silver four-door compact sedan in the Roosevelt Rehabilitation Center student parking lot.
@@ -4980,8 +5143,6 @@ When Dad pulled into the driveway on Arvin Road in Virginia Beach at dusk that S
 ### Part 1: Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use
 
 **Date:** 2007-03-18 at 18:30 America/New_York
-
-![Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch on Arvin Road off Indian River Road and Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie (with the white MedStrip and gauze bandage from Tuesday's pool injury across the bridge of her nose) and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print—while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg)
 
 #### Sunday, March 18, 2007, 6:30 PM — Unofficial Homeowners & The Address on Our State ID Cards
 
@@ -5088,8 +5249,6 @@ Pressing her warm cheek against my bare chest and tangling her legs with mine in
 ### Part 2: Dr. Carter's Exam Room, Skin to Skin in the Closet, & No Crosswalks at Military and Indian River
 
 **Date:** 2007-03-20 at 14:00 America/New_York
-
-![Inside a warm ground-floor examination room at Dr. Evelyn Carter's family medicine practice in Virginia Beach on Tuesday afternoon, March 20, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands tightly across the gap between their chairs with their father David standing supportively right behind them while Dr. Evelyn Carter, seated on a rolling stool in a white lab coat and blue nitrile gloves, gently peels the seven-day white MedStrip and gauze bandage off the healed bridge of Katie's nose]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_dr_carter_office_medstrip_removal_annual_physical_katie_nate_david.jpg)
 
 #### Tuesday, March 20, 2007, 2:00 PM — Dr. Evelyn Carter's Exam Room, Peeling Off the Seven-Day Bandage, & Our Annual Physicals With Dad
 
@@ -5209,8 +5368,6 @@ After waiting through two more heavy traffic cycles to cross the unmarked, cross
 
 **Date:** 2007-03-23 at 09:40 America/New_York
 
-![Inside the Virginia DMV Customer Service Center on Buckner Boulevard in Virginia Beach on Friday morning, March 23, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the photo counter in front of the blue DMV backdrop as a friendly clerk hands them their warm, freshly printed horizontal 21-and-over Virginia State ID cards on the spot alongside their old 2001 vertical Under-21 cards]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_buckner_blvd_dmv_vertical_to_horizontal_state_ids_katie_nate.jpg)
-
 #### Friday, March 23, 2007, 9:40 AM — Crossing Both Roads to Catch the Southbound Route 12
 
 "Look at how baby-faced we were in these pictures," Katie laughed on Friday morning as we sat side by side in the hallway by the front door, holding up our two vertical Virginia State identification cards before slipping them into our lanyard pouches.
@@ -5313,8 +5470,6 @@ From there, we made a right onto the sidewalk of Indian River Road—rolling eas
 
 **Date:** 2007-03-26 at 10:31 America/New_York
 
-![Inside the 1977 brick lobby of the original Fairlawn Recreation Center in Virginia Beach on Monday morning, March 26, 2007—just inside the dark-bronze-framed glass entrance vestibule looking out toward the concrete walkway and flagpole—twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the wood-laminate front desk receiving their newly laminated yearly resident membership cards beside the key-locked elevator door in the brick wall]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_fairlawn_rec_center_1977_lobby_concrete_ramp_memberships_katie_nate.jpg)
-
 #### Monday, March 26, 2007, 10:31 AM — Catching the :07 Route 25 Past the Newtown Road Border
 
 "Make sure we're on the ten-thirty-one northbound Route 15 and not a minute later," Katie reminded me on Monday morning as we waited side by side in our SwiftChairs at the bus stop on Military Highway and Indian River Road. "If we miss the eleven-oh-seven Route 25 departure out of Glenrock Mall, the eleven-thirty-seven bus turns around at Newtown Road and stays in Norfolk, and we'll be stuck waiting a whole hour until twelve-oh-seven just to cross into Virginia Beach."
@@ -5371,8 +5526,6 @@ At home on Arvin Road, neither of us ever thought twice about getting dressed or
 
 **Date:** 2007-03-29 at 15:25 America/New_York
 
-![Inside the bright, welcoming single-story concourse of Glenrock Mall in Norfolk on Thursday afternoon, March 29, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs tucked out of sight behind a wide structural column—while along the bright concourse sit closed retail storefronts with For Lease signs and faded label scars on the sign bulkheads where store names used to be, as their estranged mother Brenda stands fifty feet away holding a printed webpage and questioning a kiosk vendor]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2007_glenrock_mall_dying_single_story_concourse_brenda_near_miss_katie_nate.jpg)
-
 #### Thursday, March 29, 2007, 3:25 PM — Behind the Pillar in a Dying Single-Story Mall
 
 "Nate—stop your chair right now and pull behind this pillar," Katie whispered sharply at three-twenty-five on Thursday afternoon, her left hand shooting across our armrests to cover my wrist just as we rolled inside the north corridor doors of Glenrock Mall to get out of the chilly March wind while waiting for our three-forty-five southbound Route 15 bus home.
@@ -5425,8 +5578,6 @@ Back in early 2006, when we had pointed a custom domain name to Ideas for Coasta
 
 **Date:** 2007-04-03 at 14:00 America/New_York
 
-![Inside a ground-floor Virginia Beach law office off Independence Boulevard on Tuesday afternoon, April 3, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs across the mahogany conference table from family and business attorney Kenneth Vance, signing the Articles of Organization for their fifty-fifty Virginia limited liability company while David Prairie listens over the desk speakerphone]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_virginia_llc_consultation_registered_agent_shield_katie_nate.jpg)
-
 #### Tuesday, April 3, 2007, 2:00 PM — The Registered Agent Shield & Prairie Twin Interactive, LLC
 
 "Your father already took care of my consultation fee and the hundred-dollar State Corporation Commission filing fee by credit card this morning," attorney Kenneth Vance said warmly on Tuesday afternoon, sliding a blue legal folder across his ground-floor conference table off Independence Boulevard as Dad listened in over the walnut speakerphone from his lunch break up in Tysons Corner. "And when David told me that Brenda was spotted wandering around Glenrock Mall with a printout from your website trying to figure out where you two live, I pulled the corporate forms immediately."
@@ -5475,8 +5626,6 @@ When I opened the Linux terminal window sixty seconds later and ran a fresh publ
 
 **Date:** 2007-04-08 at 09:15 America/New_York
 
-![On the red-brick platform of Alexandria Union Station beside the stainless-steel ARTS passenger train and the George Washington Masonic Memorial tower in the background on Saturday, April 7, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie roll their black motorized SwiftChair power wheelchairs off the blue station wheelchair lift as their father David Prairie beams and welcomes them to Northern Virginia for their birthday week]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_alexandria_alx_platform_22nd_birthday_arrival_katie_nate_david.jpg)
-
 #### Saturday, April 7 – Sunday, April 8, 2007 — Across the Water to Newport News & Rolling Into Alexandria
 
 "Happy early twenty-second birthday, you two!" Dad beamed on Saturday afternoon, standing right beside the blue mobile wheelchair lift on the red-brick platform of Alexandria Union Station as the ARTS conductor lowered Katie and me down from the stainless-steel vestibule of the Northeast Regional.
@@ -5522,8 +5671,6 @@ When we finished our birthday cake at quarter past nine on a Sunday night and ro
 ### Part 2: Unclipping Our Backpacks, Where Is President George W. Walker Today?, & The White House Tour That Sparked a Political Calling
 
 **Date:** 2007-04-10 at 08:15 America/New_York
-
-![Inside the historic State Dining Room on the State Floor of the White House on Tuesday morning, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with no backpacks attached, holding hands across their armrests beside their father David Prairie and a Uniformed Secret Service Tour Officer as Katie looks up in quiet civic inspiration at the portrait of President Abraham Lincoln above the carved white marble fireplace mantel]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_white_house_state_floor_tour_fdr_and_lincoln_mantel_katie_nate_david.jpg)
 
 #### Tuesday, April 10, 2007, 8:15 AM — Unclipping Our Wheelchair Backpacks on Sunset Drive
 
@@ -5633,8 +5780,6 @@ She looked straight at me, her fingers still linked with mine.
 
 **Date:** 2007-04-10 at 11:30 America/New_York
 
-![Inside the soaring neoclassical United States Capitol Rotunda at midday on Tuesday, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests beside their father David Prairie and a U.S. Capitol Guide in a crimson-red blazer, gazing up in wonder at the historic Revolutionary War paintings and the coffered dome overhead]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_capitol_rotunda_and_statuary_hall_tour_katie_nate_david.jpg)
-
 #### Tuesday, April 10, 2007, 11:30 AM — The Capitol Police Checkpoint & The Compass Stone in the Crypt
 
 From McPherson Square, the three of us rode the Capital Transit Blue Line beneath the National Mall to Capitol South Station, took the street elevator up to First Street SE in the late-morning sunshine, and rolled up the wide, curved walkways of Capitol Hill.
@@ -5702,8 +5847,6 @@ Katie nodded slowly, filing every word of that answer away inside her memory as 
 ### Part 4: Meeting Senator James West, Watching the U.S. Senate From the Gallery, & Why Can't We Ride the Bus to City Hall?
 
 **Date:** 2007-04-10 at 13:45 America/New_York
-
-![Inside the third-floor wheelchair-accessible visitor gallery overlooking the United States Senate Chamber at the U.S. Capitol on Tuesday afternoon, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding their official Senate Gallery passes beside their father David Prairie, looking down in rapt awe at the semicircular rows of mahogany Senate desks below]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_senate_gallery_and_senator_james_west_visit_katie_nate_david.jpg)
 
 #### Tuesday, April 10, 2007, 1:45 PM — Meeting Senator James West & Riding the Capitol Subway
 
@@ -5778,8 +5921,6 @@ Flipping up the inner armrest between our two SwiftChairs, I leaned across and w
 ### Part 5: \
 
 **Date:** 2007-04-19 at 13:15 America/New_York
-
-![Inside a bright neighborhood post office passport acceptance window in Virginia Beach on Thursday afternoon, April 19, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs raising their right hands to take the passport application oath in front of a uniformed acceptance clerk behind the counter—with their completed DS-11 forms, two-by-two passport photos, certified birth certificates, and horizontal Virginia State ID cards resting on the counter]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2007_post_office_passport_application_ds11_and_photos_katie_nate.jpg)
 
 #### Thursday, April 19, 2007, 1:15 PM — "What's This?" and Why We Wanted Passports
 
@@ -5859,8 +6000,6 @@ Opening the inside covers, we stared down at our digitized two-by-two post-offic
 
 **Date:** 2007-06-14 at 14:15 America/New_York
 
-![Inside a glass-walled corporate conference room off Virginia Beach Boulevard on Thursday afternoon, June 14, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with their leather CCHR Associate Degree portfolios and printed PHP and SQL code samples open on the table, exchanging a quiet, knowing look as two corporate hiring managers offer practiced, legally sanitized smiles across the table]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jun_2007_polite_hr_job_interview_rejection_wheelchairs_katie_nate.jpg)
-
 #### Thursday, June 14, 2007, 2:15 PM — "Not Quite the Right Skill Match" & The Careful Language of Corporate HR
 
 "Your PHP database queries and your Associate of Applied Science transcripts from the Community College of Hampton Roads are certainly impressive on paper," the human-resources director said in a smooth, carefully measured voice at two-fifteen on Thursday afternoon inside a second-floor office park off Virginia Beach Boulevard, folding her hands neatly atop our printed resumes without quite meeting our eyes. "However, after reviewing our current project pipeline this afternoon, we feel that your background isn't quite the right skill match for what our team is looking for right now, and we are looking for candidates with a bit more traditional in-house agency experience."
@@ -5910,8 +6049,6 @@ We were twenty-two-year-old business partners, unofficial homeowners, and best f
 ### Part 2: The Arvin Road Networking Closet, A Fail-Safe Thermostat Relay, & Sheer Random Luck on StreamTube
 
 **Date:** 2007-08-18 at 13:30 America/New_York
-
-![Inside Katie and Nathaniel Prairie's sunlit dual-desk home office on Arvin Road in August 2007 beneath their framed Prairie Twin Interactive, LLC certificate—with their open three-by-six office closet beside them newly converted into a ventilated networking closet holding a Linux server tower, blinking 24-port gigabit switch, blue patch cables, UPS battery backup, exhaust fan, and digital thermostat—twenty-two-year-old fraternal twins Katie and Nate sit side by side in matching black SwiftChair power wheelchairs holding inner hands as they smile warmly over their shoulders at an angled StreamTube monitor showing black-nitrile-gloved hands arranging basking stones for a painted turtle.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/aug_2007_arvin_road_networking_closet_thermostat_streamtube_turtle_video.jpg)
 
 #### Saturday, August 18, 2007, 1:30 PM — Turning My Old Bedroom Closet Into Our Networking Closet
 
@@ -5996,8 +6133,6 @@ Beside me, Katie's laughter softened into the exact same quiet, affectionate smi
 ### Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge
 
 **Date:** 2008-04-14 at 13:30 America/New_York
-
-![Inside the Coastal Virginia Transit Authority boardroom on 18th Street in Norfolk on April 14, 2008, 22-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment microphone table presenting their route and schedule audit to the CVTA commissioners.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/apr_2008_cvta_18th_street_boardroom_public_comment_katie_nate.jpg)
 
 #### Thursday, April 14, 2008, 1:30 PM — The Binders at Eighteenth Street & The "Good Enough" Mentality
 
@@ -6133,8 +6268,6 @@ Katie stared at the screen for three seconds, and then a slow, fierce grin broke
 
 **Date:** 2008-09-16 at 14:00 America/New_York
 
-![Inside the Coastal Virginia Transit Authority boardroom on East 18th Street in Norfolk on November 19, 2009, 24-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment table as CVTA Chief Operating Officer Richard Halstead leans over the dais to cut off their microphone.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2009_cvta_18th_street_mic_cutoff_and_jan_2011_commissioner_reckoning.jpg)
-
 #### Tuesday, September 16, 2008, 2:00 PM — Four Buses Across Two Cities & The Expired Two-Hour Transfer
 
 ![Inside a moving CVTA Route 15 bus crossing the Elizabeth River bridge into Virginia Beach on September 16, 2008, 23-year-old Katie Prairie sits in her black motorized SwiftChair power wheelchair holding up printed CVTA bus timetables for stunned mayoral candidate Scott Tanner as he inspects his expired two-hour paper transfer slip, while twin brother Nate films the interview with a digital camcorder mounted on his SwiftChair lap tray.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/sep_2008_cvta_route_15_bus_mayoral_loop_interview_scott_tanner.jpg)
@@ -6248,8 +6381,6 @@ Katie turned her SwiftChair toward me, her blue eyes steady and bright.
 ### Part 1: The Empty Podium on WHRC TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline
 
 **Date:** 2010-10-14 at 19:28 America/New_York
-
-![Under the studio lights of WHRC TV-15 on Hampton Boulevard in Norfolk on October 14, 2010, 25-year-old Kempsville City Council challenger Katie Prairie sits in her black motorized SwiftChair power wheelchair at an accessible mahogany desk beside the brightly lit, completely empty standing podium reserved for ten-year incumbent Councilman Harold Dietz, while twin brother Nate monitors the debate from his SwiftChair on the left.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2010_whrc_tv15_empty_podium_debate_katie_prairie.jpg)
 
 #### Thursday, October 14, 2010, 7:28 PM — The Empty Mahogany Podium Under the WHRC Studio Lights
 
@@ -6393,8 +6524,6 @@ Sitting at our Kempsville kitchen table with Dad grinning over his coffee mug an
 ### Part 2: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning
 
 **Date:** 2010-10-28 at 08:15 America/New_York
-
-![At the top of the newly constructed red-carpeted mahogany wheelchair ramp on the Virginia Beach City Council dais in Building 1 on January 4, 2011, 25-year-old Councilwoman-Elect Katie Prairie sits in her black motorized SwiftChair power wheelchair taking the secular constitutional affirmation of office on the Constitution of Virginia held by her twin brother Nate, with their father David standing proudly behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2011_vb_city_council_dais_ramp_secular_affirmation_katie_nate_david.jpg)
 
 #### Thursday, October 28, 2010, 8:15 AM — Five Days Before the Election: The Incumbent Attacks Katie's Wheelchair on WTGA 790 AM
 
@@ -6566,8 +6695,6 @@ And on every single Tuesday night when the Virginia Beach City Council adjourned
 
 **Date:** 2012-02-09 at 11:35 America/New_York
 
-![Seated side by side in their black motorized SwiftChair power wheelchairs on the green carpet of the Floor of the Virginia House of Delegates on February 9, 2012, 26-year-old Virginia Beach City Councilwoman Katie Prairie and her twin brother Nate talk with Delegate Ronald Villa at his mahogany desk while Katie looks out across the chamber with the spark to run for the General Assembly.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2012_virginia_house_floor_seated_by_delegate_ronald_villa.jpg)
-
 #### Thursday, February 9, 2012, 11:35 AM — Stopped Outside the Third-Floor Public Viewing Gallery by Capitol Police
 
 "The public viewing gallery for the House of Delegates should be right around this corner on the left, Nate," twenty-six-year-old Katie said as the brass doors of the small historic passenger elevator slid open on the third floor of the Virginia State Capitol.
@@ -6671,8 +6798,6 @@ My breath caught in my chest as I realized what my twin sister was saying.
 ### Part 2: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District
 
 **Date:** 2012-11-23 at 18:30 America/New_York
-
-![At the Community College of Hampton Roads Virginia Beach Campus bus transfer loop in January 2013 with a CVTA Route 12 bus idling at the curb, 27-year-old Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their father David beside them, collecting 412 verified voter signatures on her House of Delegates ballot petitions.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2013_cchr_bus_loop_412_petition_signatures_katie_nate_david.jpg)
 
 #### Friday, November 23, 2012, 6:30 PM — Brainstorming with Dad Around the Kempsville Kitchen Table
 
@@ -6783,8 +6908,6 @@ When Katie and I rolled out of the Municipal Center at nine-thirty that December
 ### Part 1: The West Broad Street Loft, Making Up the Decoy Bed for Our Closet Sanctuary, & Weekend Reconnaissance on JRTC Route 6
 
 **Date:** 2014-01-03 at 14:15 America/New_York
-
-![Inside Apartment 104 of the Broad & Boulevard Lofts in Richmond on January 3, 2014, 28-year-old Freshman Delegate-Elect Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands by the tall warehouse windows with their father David beside them as a blue-and-white JRTC Route 6 bus glides down West Broad Street.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2014_west_broad_street_loft_window_jrtc_route_6_katie_nate_david.jpg)
 
 #### Friday, January 3, 2014, 2:15 PM — Five Days Ahead of Opening Day at the Broad & Boulevard Lofts
 
@@ -6907,8 +7030,6 @@ By Sunday night, we knew every bus stop, every curb cut, and every timetable alo
 ### Part 2: Gold License Plates vs. JRTC Route 6, Turning Down the Parking Deck Pass, & The 60-Inch ADA Restroom Showdown
 
 **Date:** 2014-01-06 at 08:15 America/New_York
-
-![At the corner of Ninth and Broad Street outside the General Assembly Building in Richmond on January 6, 2014, 28-year-old Freshman Delegate Katie Prairie and her twin brother Nate roll their black motorized SwiftChair power wheelchairs down the front ramp of a kneeling blue-and-white JRTC Route 6 city bus while veteran lawmakers and corporate lobbyists look on in stunned disbelief.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2014_ninth_and_broad_jrtc_route_6_ramp_arrival_shocked_lobbyists.jpg)
 
 #### Monday, January 6, 2014, 8:15 AM — The First Time Richmond Politicians See a Delegate Roll Off the City Bus
 
@@ -7047,8 +7168,6 @@ Delegate Katie Prairie of Virginia Beach and her twin brother Nate had arrived i
 ### Part 1: Line 18, Seated by Delegate Ronald Villa on the Floor, & A Question Across the Chamber
 
 **Date:** 2016-02-04 at 11:35 America/New_York
-
-![On the Floor of the Virginia House of Delegates on February 4, 2016, 30-year-old Delegate Katie Prairie sits at her accessible mahogany desk in her black motorized SwiftChair power wheelchair holding up the highlighted pages of House Bill 663 to challenge its 'anatomical sex' restroom inspection mandate while twin brother Nate records the floor feed from his SwiftChair.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2016_virginia_house_floor_hb663_speech_katie_prairie.jpg)
 
 #### Thursday, February 4, 2016, 11:35 AM — The Capitol Tunnel & Splitting Up at the Chamber Doors
 
@@ -8090,8 +8209,6 @@ Fourteen years after Smoker's Corner had stolen our cousin away across an uncut 
 
 **Date:** 2016-03-14 at 16:30 America/New_York
 
-![Along the south sidewalk of eight-lane divided U.S. Route 58—Virginia Beach Boulevard—outside the single-story brick Coastal Adult Learning Center on a sunny March 2016 morning as an eastbound CVTA Route 20 transit bus (#2520) sits at the right-hand curb beside four approaching eastbound lanes and four receding westbound lanes across the raised grassy median, 30-year-old Katie and Nathaniel Prairie sit side by side in their motorized SwiftChair power wheelchairs smiling up at their 30-year-old cousin Brittany Fletcher standing safely on the concrete sidewalk in her thin silver wire-rimmed oval glasses, burgundy knit sweater, and blue jeans holding her blue HSE study binder.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/mar_2016_coastal_adult_learning_center_route_20_hse_enrollment_brittany_katie_nate.jpg)
-
 #### Monday, March 14, 2016, 4:30 PM — Sine Die, Unloading Boxes on Arvin Road, & Brittany Joining Us Inside the Closet
 
 "Careful with the bottom flap on that one, Steven—that's all of her math workbooks and flashcard boxes!" Aunt Karen called out cheerfully from the top of our aluminum front-porch ramp on Arvin Road as Uncle Steven carried a taped cardboard carton past our two parked SwiftChairs into the living room.
@@ -8206,8 +8323,6 @@ Katie turned her SwiftChair sharply toward Dad and me, her blue eyes blazing wit
 
 **Date:** 2016-06-04 at 14:20 America/New_York
 
-![Inside Katie and Nathaniel Prairie's sunlit dual-desk home office on Arvin Road in June 2016 beneath their framed Prairie Twin Interactive, LLC certificate and beside their louvered networking closet, thirty-one-year-old fraternal twins Katie and Nate sit side by side in matching black SwiftChair power wheelchairs holding inner hands while reading a cautious filtered Grid Messenger request on Nate's angled monitor as thirty-one-year-old Cousin Brittany Fletcher stands beside Katie's shoulder in thin silver wire-rimmed oval glasses and a burgundy cardigan with one empathetic hand over her heart.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2016_arvin_road_office_grid_message_request_brittany_katie_nate.jpg)
-
 #### Saturday, June 4, 2016, 2:20 PM — The Hidden *Message Requests* Link & Thirteen Years in One Window
 
 "Okay, last batch of May receipts reconciled to the penny, and zero constituent voicemails left waiting in the Eighty-Fifth District queue," Brittany announced contentedly at twenty past two on Saturday afternoon, tucking her blue bookkeeping ledger binder under one arm inside our twelve-by-twelve office on Arvin Road and adjusting her thin silver wire-rimmed oval glasses as she stepped over beside Katie's left shoulder. "Before I put the kettle on for iced tea and we map out Uncle David's July vacation week for Braxton, do either of you have anything hiding in your spam folders?"
@@ -8291,11 +8406,9 @@ Twenty minutes later, while Katie and I were opening a spreadsheet of Rhode Isla
 
 Smiling despite that quiet, familiar trace of bittersweetness lingering gently beneath my breastbone, I typed two blue circles right back to my first guy buddy, squeezed Katie's hand across our armrests, and turned back to our plans to bring Cousin Chelsea home.
 
-### Part 3: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'
+### Part 3: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family
 
 **Date:** 2016-07-18 at 13:40 America/New_York
-
-![At the bleak rear Service Gate turnaround loop beside the brick campus steam plant and green dumpsters on Mount Regalis at King's College in Braxton, Rhode Island on a bright July 2016 afternoon as the hourly BTA Route 99 shuttle bus pulls away from a lone rusted stop pole, 31-year-old Katie and Nathaniel Prairie roll side by side in their SwiftChair power wheelchairs holding hands alongside their father David and cousin Brittany toward a weathered brick group-home annex while two snobby King's College students in purple-and-gold polo shirts look down their noses from the upper stone balustrade.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_mount_regalis_bta_route_99_scrub_bus_arrival_family.jpg)
 
 #### Monday, July 18, 2016, 1:40 PM — Turned Away at King's College's Wrought-Iron Gate & Riding BTA Route 99 ("The Scrub Bus") Up Mount Regalis
 
@@ -8408,8 +8521,6 @@ Katie closed the certified court copy folder with a crisp, decisive snap and rea
 ### Part 4: Ten Minutes in Braxton Probate Court, Forcing Open the Royal Gate With a Sheriff's Escort, & Goodbye to Newport Over I-895
 
 **Date:** 2016-07-19 at 09:00 America/New_York
-
-![Just inside the raised black wrought-iron Royal Gate of King's College on Mount Regalis in Braxton, Rhode Island on a sunny July 2016 morning with a county sheriff's cruiser parked behind the Prairie family's rented open-ramp accessible minivan, radiant 34-year-old Chelsea clutches her green plush sea turtle with her asthma inhalers tucked in her cardigan pocket as she hugs 31-year-old Nathaniel and Katie Prairie in their SwiftChair power wheelchairs while cousin Brittany in her wire-rimmed glasses and Uncle David load Chelsea's bags into the van.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg)
 
 #### Tuesday, July 19, 2016, 9:00 AM — Certified Newport Birth Certificates & R.I. Gen. Laws Section 33-15.2 in Braxton Municipal Probate Court
 
@@ -8691,8 +8802,6 @@ When darkness fell at ten o'clock that Sunday night, thirteen and a half years o
 
 **Date:** 2017-02-11 at 21:30 America/New_York
 
-![Inside their warm lamp-lit bedroom on Arvin Road in Virginia Beach on a February 2017 night, 31-year-old Nathaniel Prairie in grey plaid flannel pajamas relaxes happily in the center of their custom wheelchair-transfer-height solid-oak four-person cuddle nest platform bed atop a navy-and-cream patchwork quilt, cuddling with 34-year-old chestnut-haired cousin Chelsea in cream knit sleepwear holding her green plush sea turtle on his right shoulder, 31-year-old twin sister Katie in lavender knit pajamas on his left shoulder holding his hand, and 31-year-old cousin Brittany in burgundy flannel pajamas and thin silver wire-rimmed oval glasses hugging Katie's shoulder while the empty, neatly vacuumed closet stands open behind their two parked SwiftChair power wheelchairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2017_arvin_road_first_night_out_of_closet_four_person_nest_younger.jpg)
-
 #### Saturday, February 11, 2017, 9:30 PM — No More Fear of "Group Home Two-Face," Rolling Up Our Shared Sleeping Bag, & Our First Full Night in the Four-Person Nest
 
 ![Inside their warm lamp-lit bedroom on Arvin Road in Virginia Beach on a February 2017 night, 31-year-old Nathaniel Prairie in grey plaid flannel pajamas relaxes happily in the center of their custom wheelchair-transfer-height solid-oak four-person cuddle nest platform bed atop a navy-and-cream patchwork quilt, cuddling with 34-year-old chestnut-haired cousin Chelsea in cream knit sleepwear holding her green plush sea turtle on his right shoulder, 31-year-old twin sister Katie in lavender knit pajamas on his left shoulder holding his hand, and 31-year-old cousin Brittany in burgundy flannel pajamas and thin silver wire-rimmed oval glasses hugging Katie's shoulder while the empty, neatly vacuumed closet stands open behind their two parked SwiftChair power wheelchairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2017_arvin_road_first_night_out_of_closet_four_person_nest_younger.jpg)
@@ -8753,8 +8862,6 @@ And when Sunday morning sunlight filtered bright and gold around the edges of ou
 
 **Date:** 2017-03-25 at 14:10 America/New_York
 
-![Inside the warm, sunlit living room on Arvin Road in March 2017 beside a low oak stand holding a crystal-clear sixty-gallon indoor painted-turtle habitat with basking stones and live plants, thirty-five-year-old Cousin Chelsea sits happily in modest sky-blue fleece loungewear on the tan sofa hugging plush green Shelly Turtle and pointing delightedly at an angled television playing a StreamTube video of black-nitrile-gloved hands arranging river slate with closed captions, while Brittany smiles beside a wax-paper plate of neat romaine squares and twins Katie and Nathaniel Prairie hold hands in their black SwiftChairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/mar_2017_arvin_road_chelsea_turtle_habitat_streamtube_hands_only.jpg)
-
 #### Saturday, March 25, 2017, 2:10 PM — Remembering Our 2007 Promise & Pressing Play for Chelsea
 
 "L-look, Nate! Look, Katie! Shelly Turtle got real swimmy friends!" thirty-five-year-old Chelsea cheered from the center cushion of our tan living-room sofa, working happily around her thick speech impediment as she bounced her heels twice against the carpet in her soft, tagless sky-blue fleece loungewear—both asthma inhalers tucked safely inside the front hip pocket Brittany had sewn onto her pullover—and held her beloved plush green sea turtle two inches from the sparkling tempered glass of our brand-new sixty-gallon aquarium.
@@ -8804,8 +8911,6 @@ Across our inner armrests, Katie squeezed my left hand twice—both of us watchi
 ### Part 9: Pouring the Foundation on Route 64, Staff Member Wesley, & The Jolt Across Ten Years
 
 **Date:** 2017-05-20 at 15:15 America/New_York
-
-![Inside the sunlit living room on Arvin Road in May 2017 beside Chelsea's glowing sixty-gallon painted-turtle tank, thirty-five-year-old Cousin Chelsea claps joyfully on the sofa hugging plush Shelly Turtle alongside a stunned Brittany while twins Katie and Nathaniel Prairie grip hands tightly in their black SwiftChairs as an angled widescreen television plays North Lion Scales & Tails' outdoor Minnesota groundbreaking video—showing contractors in high-visibility vests pouring wet concrete from a mixer chute behind Dan Lindstrom, Heather Lindstrom, and thirty-year-old Wesley Collins beaming in white hard hats and forest-green zoo staff shirts.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/may_2017_arvin_road_north_lion_foundation_pour_reveal_jolt.jpg)
 
 #### Saturday, May 20, 2017, 3:15 PM — Concrete Mixers Instead of Black Nitrile Gloves
 
@@ -8886,8 +8991,6 @@ Pulling my phone quietly from my lap pouch without saying a word about any of th
 ### Part 10: Staff Member Wesley's Reply, Proving It When Nobody Was Looking, & Full Speaking Terms
 
 **Date:** 2017-05-21 at 14:00 America/New_York
-
-![Inside the sunlit living room on Arvin Road in May 2017 beside Chelsea's glowing sixty-gallon painted-turtle tank, thirty-five-year-old Cousin Chelsea in modest coral-pink fleece loungewear hugs plush Shelly Turtle and waves joyfully alongside Brittany while twins Katie and Nathaniel Prairie sit hub to hub in their black SwiftChairs tapping knuckles toward an angled widescreen television showing a live two-way family video call from Maplewood, Minnesota with thirty-year-old Staff Member Wesley holding up his miniature Virginia toy city bus beside Heather and Dan Lindstrom.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/may_2017_arvin_road_video_call_full_speaking_terms_wesley_chelsea.jpg)
 
 #### Saturday Evening & Sunday Afternoon, May 20–21, 2017 — The Miniature Bus on the Maplewood Table & Katie's Realization
 
@@ -8978,8 +9081,6 @@ Katie's whole face lit up beside me.
 ### Part 1: Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule
 
 **Date:** 2018-02-22 at 15:10 America/New_York
-
-![Beneath the marble statue of Thomas Jefferson in the center of the Virginia State Capitol Rotunda on February 22, 2018, 32-year-old Delegate Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests as Katie fixes her gaze on the closed mahogany doors of the Senate of Virginia.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/feb_2018_capitol_rotunda_jefferson_statue_resolve_to_run_for_state_senate.jpg)
 
 #### Thursday, February 22, 2018, 3:10 PM — The Graveyard Across the Capitol Rotunda
 
@@ -9080,8 +9181,6 @@ With Dad and Brittany walking beside our SwiftChairs every sunny weekend holding
 ### Part 2: Route 64 to Maplewood, Seeing Wesley in Person After Fifteen Years, The Earned Hug, & Sale Number One in the Store
 
 **Date:** 2018-06-16 at 09:45 America/Chicago
-
-![Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level in her matching forest-green North Lion polo shirt, tan khakis, and magnetic name tag share a massive, deeply emotional, earned two-armed hug—watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins and Dan Lindstrom in identical forest-green polos, khakis, and name tags alongside Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg)
 
 #### Saturday, June 16, 2018, 9:45 AM CDT — Zero Missed Votes in Richmond & Stepping Off Route 64 in Maplewood
 
@@ -9185,8 +9284,6 @@ Leading us down the wide center aisle to the rear interior partition wall of the
 
 **Date:** 2018-06-16 at 10:15 America/Chicago
 
-![Inside the lush, skylit Greenhouse Conservatory of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-one-year-old Staff Member Wesley Collins in his forest-green collared STAFF polo, tan khakis, and magnetic WESLEY badge stands proudly beside his stainless romaine-prep cart pointing at three painted turtles swimming behind thirty-inch seated wheelchair-height viewing glass while thirty-six-year-old Chelsea hugging plush Shelly Turtle talks excitedly with him—watched warmly by Katie and Nathaniel Prairie hub-to-hub in their black SwiftChairs on the left, Brittany beside them, and Heather, Dan, Jonas, Nora, and Molly on the right.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_zoo_tour_wesley_chelsea_turtle_lagoon.jpg)
-
 #### Saturday, June 16, 2018, 10:15 AM CDT — Turtles, Reptiles, and Small Mammals: Thirty-Inch Viewing Glass Across All Three Wings
 
 Warm, clean air scented with fresh cedar mulch, sun-baked river stone, and whisper-quiet waterfall filtration wrapped around our faces the instant the interior automatic sliding *ZOO ENTRANCE* doors parted behind us.
@@ -9270,8 +9367,6 @@ Katie looked at me across our armrests; I squeezed her fingers once, looked back
 ### Part 4: Behind the Education Classroom Door: Fifteen Years Off Our Chests & Cutting the Ribbon on Route 64
 
 **Date:** 2018-06-16 at 10:28 America/Chicago
-
-![Inside the quiet, sunlit Education Classroom of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018 with the solid oak door closed so Staff Member Wesley remains happily out at the turtle lagoon, thirty-three-year-old Katie Prairie and Nathaniel Prairie sit side by side in their black SwiftChairs holding inner hands across a wheelchair-accessible oak table opposite thirty-three-year-old Heather Lindstrom in her forest-green North Lion polo shirt and magnetic HEATHER badge, reaching hands across the tabletop with cathartic tears, a tissue box, and fifteen years of unspoken truth finally laid to rest.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_classroom_fifteen_years_talk_nate_katie_heather.jpg)
 
 #### Saturday, June 16, 2018, 10:28 AM CDT — Behind the Closed Oak Door: Fifteen Years Laid on the Table
 
@@ -9373,8 +9468,6 @@ Three pairs of blades closed crisp and clean through the green satin ribbon toge
 
 **Date:** 2018-06-16 at 15:15 America/Chicago
 
-![Inside the sunlit public departure concourse right outside the Security Checkpoint stanchions at Minneapolis–Saint Paul Airport Terminal 2 on Saturday late afternoon, June 16, 2018, thirty-three-year-old Katie Prairie and Nathaniel Prairie parked hub-to-hub in their black SwiftChairs and kneeling thirty-three-year-old Heather Lindstrom in her forest-green North Lion polo shirt and magnetic HEATHER badge share an emotional, unprecedented three-way hug on the left while thirty-one-year-old Staff Member Wesley Collins and thirty-six-year-old Chelsea with plush Shelly Turtle and her green treat bag hug goodbye one last time beside Brittany on the right.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_msp_airport_tsa_three_way_hug_katie_nate_heather_wesley_chelsea.jpg)
-
 #### Saturday, June 16, 2018, 3:15 PM CDT — Leaving North Lion Scales & Tails: One Last Earned Hug & Chelsea's First Hug Outside Our Family
 
 ![On the sunlit Saturday afternoon sidewalk plaza outside the red-brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on June 16, 2018 with the cut green Grand Opening ribbon halves tied to brass stanchions, thirty-six-year-old Chelsea in her lavender fleece set with plush Shelly Turtle tucked under one elbow wraps both arms warmly around thirty-one-year-old Staff Member Wesley Collins in his forest-green STAFF polo, tan khakis, and magnetic WESLEY badge—hugging someone outside her own family for the very first time in her life as Brittany covers her mouth in happy tears beside Katie and Nathaniel in their black SwiftChairs, and Heather, Dan, Jonas, Nora, and Molly smile warmly from the storefront.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_farewell_chelsea_wesley_magical_first_hug.jpg#fullwidth)
@@ -9471,11 +9564,9 @@ Stepping gently back with a proud, beaming smile beneath his magnetic *WESLEY* b
 
 Presenting our four boarding passes and IDs at the accessible TSA podium together, Katie, Chelsea, Brittany, and I rolled and walked side by side past the glass security partition toward our gate for Chicago Midway and Norfolk—looking back over our shoulders one last time to see Heather and Staff Member Wesley standing tall shoulder to shoulder in the sunlit Minnesota terminal, waving us all the way home to Virginia.
 
-### Part 6: Father's Day on Arvin Road, Two Guardians' Blessing, & Making It Official Between Chelsea and 'My Sweet Wes'
+### Part 6: Father's Day on Arvin Road, Two Guardians' Blessing, & Making It Official Between Chelsea and 'My Sweet Wes
 
 **Date:** 2018-06-17 at 13:30 America/New_York
-
-![Inside the sunlit living room at 737 Arvin Road in Virginia Beach on Father's Day afternoon, Sunday, June 17, 2018 beside Sunny and Pebble's sixty-gallon painted-turtle tank and a small green-framed instant photo, thirty-one-year-old Wesley Collins on the big living-room television in his weekend blue jeans, green North Lion T-shirt, and magnetic WESLEY badge forms a joyful two-hand heart from Maplewood alongside Heather and Dan, while thirty-six-year-old Chelsea in sky-blue fleece hugging plush Shelly Turtle forms a matching hand-heart back—watched proudly by her legal guardian Uncle David Prairie, Katie and Nathaniel in their black SwiftChairs, and Brittany.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jun_2018_arvin_road_fathers_day_wesley_chelsea_special_friends_official.jpg)
 
 #### Sunday, June 17, 2018, 1:30 PM — Father's Day on Arvin Road, Two Matching Green Picture Frames, & A Shy Question for Uncle David
 
@@ -9575,8 +9666,6 @@ Watching Wesley hold up his blue silicone ring with a joyous two-note hum while 
 
 **Date:** 2018-10-12 at 10:15 America/New_York
 
-![On a sunlit wooden courtyard bench under golden October maple trees at open-air Bayshore Town Center in Hampton, Virginia on Friday midday, October 12, 2018 with the white sail-peaked roof of the Coastal Virginia Convention Center rising in the distance, thirty-six-year-old Chelsea in her plum-lavender fleece jacket with plush Shelly Turtle resting unguarded beside her holds overwhelmed thirty-one-year-old Wesley Collins close in a grounding deep-pressure embrace—watched warmly by Uncle David Prairie beside the Harbor Bakery & Grill lunch patio, Brittany, and Katie and Nathaniel Prairie holding hands in their black SwiftChairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2018_hampton_bayshore_town_center_deep_pressure_hug_wesley_chelsea_lunch.jpg)
-
 #### Friday, October 12, 2018, 10:15 AM — MSP to RIC, Trusted-Friend Hugs at Booth 412, & Dan and the Kids' First Morning in Virginia
 
 Soaring white sail-cloth canopy peaks billowed bright against a crisp sixty-eight-degree Tidewater October sky as Dad parked our accessible ramp van in the blue-striped bay outside the Coastal Virginia Convention Center off Mercury Boulevard in Hampton.
@@ -9667,8 +9756,6 @@ Sitting around that quiet brick patio table together—watching thirty-one-year-
 
 **Date:** 2018-10-12 at 16:35 America/New_York
 
-![Inside the warm living room at 737 Arvin Road in Virginia Beach on Friday evening, October 12, 2018, thirty-one-year-old Wesley Collins in his forest-green North Lion T-shirt, blue jeans, and magnetic WESLEY badge and thirty-six-year-old Chelsea in her plum-lavender pullover stand shoulder to shoulder holding inner hands as Chelsea feeds Sunny and Pebble beside their green foraging ball and green-framed instant photo—watched happily by Katie and Nathaniel in their black SwiftChairs, trusted friend Heather laughing warmly beside them with Jonas, Nora, and Molly, and David, Dan, and Brittany near the set dinner table.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2018_arvin_road_wesley_meets_sunny_and_pebble_virginia_beach_dinner.jpg)
-
 #### Friday, October 12, 2018, 4:35 PM — Returning Rested Ahead of Friday Closing & Diving Underneath the Chesapeake Bay
 
 Twenty-five minutes ahead of the five o'clock Friday expo closing bell—right after the loud school buses had pulled out of the parking lot and the afternoon hall crowd had thinned to a quiet trickle—Katie, Dad, Brittany, Chelsea, and thirty-one-year-old Wesley rolled and walked back across the lobby of the Coastal Virginia Convention Center, with Wesley and Chelsea still swinging their linked inner hands comfortably between them.
@@ -9718,8 +9805,6 @@ Right inside our front foyer, Heather gave me another warm, lingering trusted-fr
 ### Part 3: Inseparable Across Saturday and Sunday, Zero Guarding Left Between Them, & Seeing the Lindstroms Off at RIC
 
 **Date:** 2018-10-13 at 10:30 America/New_York
-
-![Inside the sunlit red-brick-and-glass departure atrium of Richmond International Airport on Monday morning, October 15, 2018 outside the Security Checkpoint stanchions, thirty-one-year-old Wesley Collins and thirty-six-year-old Chelsea with plush Shelly Turtle tucked unguarded inside her open canvas hip tote hold each other tightly in a full two-armed deep-pressure goodbye hug on the right while trusted lifelong friends Heather Lindstrom and Nathaniel Prairie hug each other tightly with both arms beside Katie on the left, with David, Brittany, Dan, Jonas, Nora, and Molly watching warmly behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/oct_2018_ric_airport_unguarded_handholding_and_understanding_goodbye_wesley_chelsea.jpg)
 
 #### Saturday & Sunday, October 13–14, 2018 — Side by Side All Weekend Long: Nicknames in Broad Daylight & Neither One Guarding Themselves
 
@@ -9778,8 +9863,6 @@ Wesley let out a soft, steady two-note hum of pure promise, squeezed Chelsea's h
 ### Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair
 
 **Date:** 2019-11-05 at 19:30 America/New_York
-
-![Inside the Senate of Virginia Chamber at the State Capitol in Richmond on Opening Day, January 8, 2020, 34-year-old State Senator Katie Prairie sits in her black motorized SwiftChair power wheelchair beside the newly milled solid-mahogany wheelchair ramp, taking the secular constitutional affirmation of office on the Constitution of Virginia held by her twin brother Nate while their father David watches proudly.]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2020_senate_of_virginia_mahogany_ramp_madam_chair_affirmation.jpg)
 
 #### Tuesday, November 5, 2019, 7:30 PM — Winning the Seventh Senate District & Flipping the Senate of Virginia
 
@@ -9877,8 +9960,6 @@ As for our three favorite eighth-grade House Pages from February 2016—the auti
 
 **Date:** 2026-01-10 at 19:30 America/New_York
 
-![Inside their warm living room on Lord Nelson Drive in Kempsville, Virginia Beach on January 10, 2026, 40-year-old State Senator Katie Prairie and her fraternal twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their 67-year-old father David sits on the sofa beside them with his yellow legal pad and three tall glasses of ginger ale.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2026_kempsville_living_room_senate_campaign_decision_katie_nate_david.jpg)
-
 #### Saturday, January 10, 2026, 7:30 PM — The Living Room Decision on Lord Nelson Drive & The 10,000-Signature Rule
 
 ![Inside their warm living room on Lord Nelson Drive in Kempsville, Virginia Beach on January 10, 2026, 40-year-old State Senator Katie Prairie and her fraternal twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their 67-year-old father David sits on the sofa beside them with his yellow legal pad and three tall glasses of ginger ale.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2026_kempsville_living_room_senate_campaign_decision_katie_nate_david.jpg)
@@ -9973,8 +10054,6 @@ Across our armrests, Katie squeezed my fingers so tightly I could feel her pulse
 
 **Date:** 2026-03-28 at 10:15 America/New_York
 
-![In the pouring March 2026 rain on Victoria Boulevard in Hampton, Virginia, 40-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs on the wet sidewalk beside a coastal transit bus whose front flip-out wheelchair ramp has jammed halfway out, talking warmly with the bus operator and Peninsula shipyard and hospital commuters while their father David holds an umbrella.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2026_hampton_3400_victoria_blvd_jammed_ramp_rain_katie_nate_david.jpg)
-
 #### Saturday, March 28, 2026, 10:15 AM — The Jammed Wheelchair Ramp in the Rain on Victoria Boulevard in Hampton
 
 ![In the pouring March 2026 rain on Victoria Boulevard in Hampton, Virginia, 40-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs on the wet sidewalk beside a coastal transit bus whose front flip-out wheelchair ramp has jammed halfway out, talking warmly with the bus operator and Peninsula shipyard and hospital commuters while their father David holds an umbrella.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2026_hampton_3400_victoria_blvd_jammed_ramp_rain_katie_nate_david.jpg)
@@ -10036,8 +10115,6 @@ Five days later, when Katie, Dad, Brittany, Chelsea, and I rolled off the JRTC R
 ### Part 3: The Roanoke Express, The Brooks Family Compound on Lee Highway, The Maroon Express to Bluewater, & Winning the June Primary
 
 **Date:** 2026-05-18 at 11:30 America/New_York
-
-![At the Bluewater Transit Center across from Bluewater High School in Bluewater, Virginia in May 2026, 41-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in front of a 45-foot Bluewater Transit Maroon Express motorcoach with its mid-coach hydraulic lift deployed, joined by Madison Elizabeth Scott and David Prairie as they speak with Carroll County working families and students.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/may_2026_bluewater_transit_center_maroon_express_katie_nate_madison.jpg)
 
 #### Monday, May 18, 2026, 11:30 AM — Roanoke's Third Street Station, The RVT Roanoke Express, & The Brooks Family Compound on Lee Highway
 
@@ -10135,8 +10212,6 @@ At 8:19 PM, the GNN Decision Desk called the Democratic Primary for State Senato
 
 **Date:** 2026-07-24 at 09:30 America/New_York
 
-![Inside a Mountain Empire Transit bus rolling through the Appalachian ridges of Southwest Virginia in July 2026, 41-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in the front ADA securement bays speaking at eye level with a retired coal miner and a rural clinic nurse while their 68-year-old father David sits across the aisle with his yellow legal pad.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2026_southwest_virginia_coalfield_bus_town_hall_katie_nate_david.jpg)
-
 #### Friday, July 24, 2026, 9:30 AM — Speaking Directly to RTR Voters Aboard Mountain Empire Transit & Cumberland Coalfield Transit
 
 ![Inside a Mountain Empire Transit bus rolling through the Appalachian ridges of Southwest Virginia in July 2026, 41-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in the front ADA securement bays speaking at eye level with a retired coal miner and a rural clinic nurse while their 68-year-old father David sits across the aisle with his yellow legal pad.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2026_southwest_virginia_coalfield_bus_town_hall_katie_nate_david.jpg)
@@ -10190,8 +10265,6 @@ The afternoon before in Big Stone Gap, after all five of us had ridden a Cumberl
 ### Part 5: Katie's Favorite Place in Virginia: The Cassini Center in Highland County & The October WHRC TV-15 Three-Bus Sprint
 
 **Date:** 2026-09-19 at 16:30 America/New_York
-
-![Under the open roll-off roof of The Cassini Center for Space Exploration in Palo Alto, Highland County, Virginia beneath the starry Milky Way in September 2026, 41-year-old Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs holding hands in a circle with 41-year-old non-verbal autistic triplets Lyra, Orion, and Celeste Starling in their custom tilt-in-space wheelchairs around a 34-inch-high glowing Starlight Wing nebula table and wheelchair-height telescope eyepiece, while Valerie Anne Miller and David Prairie smile beside them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/sep_2026_cassini_center_palo_alto_observatory_katie_nate_valerie_starling_triplets.jpg)
 
 #### Saturday, September 19, 2026, 4:30 PM — Past Fishersville on Shenandoah Valley Transit & Over Shenandoah Mountain to The Cassini Center in Palo Alto
 
@@ -10260,8 +10333,6 @@ As the Route 15 operator locked our four-point floor straps into place and the b
 ### Part 1: Polls Close at Seven, The 8:42 PM Decision Desk Call, & Victory in Virginia Beach
 
 **Date:** 2026-11-03 at 19:00 America/New_York
-
-![Forty-one-year-old U.S. Senator-Elect Katie Prairie and her fraternal twin brother Nate hold hands across their compact SwiftChair power wheelchairs on a ballroom stage in Virginia Beach with their proud father David standing on his own two feet beside them beneath falling confetti and the GNN Decision Desk projection screen]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2026_election_night_decision_desk_victory_katie_nate_david.jpg)
 
 #### Tuesday, November 3, 2026, 7:00 PM — Polls Close & The PHP Precinct Dashboard in Virginia Beach
 
@@ -10379,8 +10450,6 @@ Raising our five paper cups of ice-cold ginger ale—the exact same toast Katie 
 
 **Date:** 2026-11-04 at 08:30 America/New_York
 
-![Inside the sunlit accessible kitchen of their Kempsville home beneath the framed blue butterfly print, forty-one-year-old Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact SwiftChair power wheelchairs holding hands at the roll-under breakfast table looking at their open MagnaBook Pro laptop with glasses of ginger ale and prescription pill bottles while their father David stands beside them pouring hot black coffee]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/nov_2026_kempsville_morning_after_the_grid_referendum_mandate.jpg)
-
 #### Wednesday, November 4, 2026, 8:30 AM — Kempsville Morning, Morning Medications, & The Failed School Construction Referendum
 
 "Pills first before anybody touches a keyboard or answers a press call," Dad said cheerfully at eight-thirty on Wednesday morning, setting the fresh glass carafe of dark-roast coffee down beside the three amber prescription bottles lined up on the roll-under oak breakfast table of our Kempsville kitchen.
@@ -10460,8 +10529,6 @@ Dad smiled proudly, setting his coffee mug down on the counter. "Blinders on, el
 ### Part 3: U.S. Senate New Member Orientation, Senator Tess Dunmore's Ramp, & Making the Vice President Swear Her In
 
 **Date:** 2026-11-16 at 08:45 America/New_York
-
-![Arriving on Capitol Hill via the Capitol South Capital Transit elevator in their black motorized SwiftChair power wheelchairs with their father David walking beside them, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll past the chartered VIP motorcoaches toward the Russell and Dirksen Senate Office Buildings for New Member Orientation.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_capitol_south_elevator_plaza_arrival_katie_nate_david.jpg)
 
 #### Monday, November 16, 2026, 8:45 AM — Rolling Past the Chartered VIP Motorcoach & Retiring Senator Martin Warren's Stare
 
@@ -10689,8 +10756,6 @@ Nudging her joystick in tandem with mine, Katie didn't even wait for his reply. 
 
 **Date:** 2026-12-01 at 10:30 America/New_York
 
-![Inside their cramped, windowless basement Senator-Elect transition cubicle in the Dirksen Senate Office Building surrounded by unpacked cardboard boxes of Senate procedure manuals and stacks of staff applications, 41-year-old Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact silver-and-black motorized SwiftChair power wheelchairs holding hands as they watch a muted split-screen broadcast of the 211-to-204 House impeachment referral vote and Defense Secretary Bret Halverson's premature Pentagon victory press conference.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/dec_2026_dirksen_basement_transition_211_204_vote_katie_nate.jpg)
-
 #### Tuesday, December 1, 2026, 10:30 AM — Backing Challenger Chris Van Deren & Unseating Senator Charles Schuman Twenty-Nine to Twenty-Six
 
 "We already have the commitments locked up, Madam Chair, so let's keep the floor speeches brief and move straight to the secret ballot—"
@@ -10817,8 +10882,6 @@ Katie clicked off her powerchair drive motor inside the warm foyer, unbuttoned h
 
 **Date:** 2026-12-11 at 10:00 America/New_York
 
-![Inside a Dirksen Senate Office Building transition room overlooking the Capitol dome, forty-one-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact SwiftChair power wheelchairs auditing raw HTML and WCAG accessibility failures on their MagnaBook Pro laptops over a conference speakerphone while two beltway digital contractor executives sit across the table sweating and shell-shocked]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/dec_2026_prairie_senate_gov_raw_html_wcag_audit_takedown.jpg)
-
 #### Friday, December 11, 2026, 10:00 AM — Static MagnaPad Slides & The Minified ZIP Trick in Dirksen
 
 "You don't need to worry your head about the technical weeds, Senator-Elect—our engineering team in Rosslyn handles all the magic behind the curtain! Just tell us if you like this shade of Senate navy blue on the banner!"
@@ -10939,8 +11002,6 @@ By the time Katie and I unlocked our wheelchair brakes and rolled out into the D
 
 **Date:** 2026-12-15 at 14:00 America/New_York
 
-![Inside the historic neoclassical Clerk's Office of the Senate of Virginia at the State Capitol in Richmond, forty-one-year-old State Senator and U.S. Senator-Elect Katie Prairie sits in her compact SwiftChair power wheelchair alongside her twin brother Nate in his matching powerchair and formally hands her gold-sealed parchment resignation letter across the mahogany counter to the Clerk of the Senate]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/dec_2026_richmond_state_senate_resignation_hand_delivery.jpg)
-
 #### Tuesday, December 15, 2026, 2:00 PM — The Clerk's Office of the Senate of Virginia & The Dual-Office Holding Ban
 
 "It feels strange holding this envelope in my hand after twelve years in Capitol Square, Nate," Katie said quietly as our two compact SwiftChair power wheelchairs rolled side by side down the polished black-and-white marble corridor of the Virginia State Capitol in Richmond toward the mahogany doors of the Office of the Clerk of the Senate of Virginia.
@@ -10992,8 +11053,6 @@ Just as we had done every winter session in Richmond for twelve years, United St
 ### Part 1: Five Business Class Tickets for Free Café Car Drinks & The Mobile Lift at Alexandria
 
 **Date:** 2027-01-03 at 05:00 America/New_York
-
-![Forty-one-year-old U.S. Senator-Elect Katie Prairie sits in her compact SwiftChair power wheelchair on the yellow-and-silver ARTS Mobile Lift outside the open ARTS Business Class door at Alexandria Union Station while her twin brother Nate in his matching powerchair holding a Café Car cup and their proud father David wait on the low-level red-brick platform below]({{CDN}}/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_arts_mobile_lift_senator_elect_katie_prairie.jpg)
 
 #### Sunday, January 3, 2027, 5:00 AM — Norfolk Station & Five Business Class Tickets for Free Café Car Drinks
 
@@ -11204,8 +11263,6 @@ For two full seconds, the former Republican Majority Leader of the Virginia Hous
 
 **Date:** 2027-01-03 at 16:30 America/New_York
 
-![Inside the gilded Mansfield Room of the United States Capitol on January 3, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their father David standing proudly behind them, clinking three tall glasses of ice-cold ginger ale in a family toast with senior Senators.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_mansfield_room_ginger_ale_toast_katie_nate_david.jpg)
-
 #### Sunday, January 3, 2027, 4:30 PM — The First Invite to Cocktails & "A Known Side Effect of Death"
 
 ![Inside the gilded Mansfield Room of the United States Capitol on January 3, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs with their father David standing proudly behind them, clinking three tall glasses of ice-cold ginger ale in a family toast with senior Senators.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_mansfield_room_ginger_ale_toast_katie_nate_david.jpg)
@@ -11337,8 +11394,6 @@ Outside in the night, a late-night southbound train glided quietly over the King
 ### Part 4: The Constituent Line in Room 511, 'Is Nathaniel Still With You?', & What Really Happened to Natalie
 
 **Date:** 2027-01-14 at 16:15 America/New_York
-
-![Inside Room 511 of the Dirksen Senate Office Building on the late afternoon of January 14, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs behind her mahogany desk holding hands tightly across their armrests as they listen with somber empathy and fierce resolve to the glowing speakerphone.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2027_dirksen_room_511_natalie_mother_phone_call_katie_nate.jpg)
 
 #### Thursday, January 14, 2027, 4:15 PM — "United States Senator Katie Prairie's Office, This Is Katie Speaking"
 
@@ -11511,8 +11566,6 @@ When Katie finally sat back and looked up at Sarah and me, every trace of tears 
 ### Part 5: 34 C.F.R. Section 361.38, Two Twelve-Day Dropouts in Room 511, & Strings Attached at the Subcommittee Hearing
 
 **Date:** 2027-02-16 at 14:00 America/New_York
-
-![Inside Room 511 of the Dirksen Senate Office Building in February 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands behind her mahogany desk while the squirming DARS Commissioner and RRC Director sit across from them beside their glossy funding binders as Katie reveals that she and Nate are the two March 2007 twelve-day RRC dropouts.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2027_dirksen_room_511_rrc_dars_appropriation_showdown_katie_nate.jpg)
 
 #### Tuesday, February 16, 2027, 2:00 PM — Making Them Squirm Behind 34 C.F.R. Section 361.38 in Dirksen Room 511
 
@@ -11746,8 +11799,6 @@ Beside Katie's wheelchair in the middle of the Senate hearing room, I looked at 
 
 **Date:** 2027-03-18 at 10:15 America/New_York
 
-![Inside a high-ceilinged committee conference room in the U.S. Capitol on March 25, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs presenting the three-step constitutional impeachment trial sequence on Nate's MagnaBook Pro to Speaker of the House Clara Morales and the Senate Majority Leader.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2027_capitol_succession_flowchart_katie_nate_morales.jpg)
-
 #### Thursday, March 18, 2027, 10:15 AM — "He Thinks He's Brandon Mercer" & The No Vote at Eleven-Fifteen
 
 ![Inside a high-ceilinged committee conference room in the U.S. Capitol on March 25, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs presenting the three-step constitutional impeachment trial sequence on Nate's MagnaBook Pro to Speaker of the House Clara Morales and the Senate Majority Leader.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2027_capitol_succession_flowchart_katie_nate_morales.jpg)
@@ -11837,8 +11888,6 @@ Across the mahogany table, Speaker Clara Morales looked at the forty-one-year-ol
 ### Part 2: Route 36 to Timberline Shopping Center, Lunch at Don Miller Subs, Retro Games at Neat Stuff, & Suite 756
 
 **Date:** 2027-04-03 at 12:05 America/New_York
-
-![Inside The Tidewater Thorne & RTR Superstore in Suite 756 of Timberline Shopping Center on April 3, 2027, U.S. Senator Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs beside their father David as former Delaney Street neighbor Sharron confronts a stunned Brenda Walsh behind the cash register and drops her Restore the Republic chapter badge onto the glass counter.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_timberline_suite_756_thorne_store_brenda_sharron_confrontation.jpg)
 
 #### Saturday, April 3, 2027, 12:05 PM — Riding CVTA Route 36 to Timberline Shopping Center & Family Lunch at Don Miller Subs
 
@@ -12058,8 +12107,6 @@ The cheap brass bell above the door jangled once more behind us as Nate, Dad, Br
 
 **Date:** 2027-04-16 at 13:30 America/New_York
 
-![Inside the United States Senate Chamber on April 16, 2027, 42-year-old U.S. Senator Katie Prairie sits at her custom-height mahogany floor desk in her black motorized SwiftChair power wheelchair casting her historic Guilty vote in the impeachment trial while her twin brother Nate (in his SwiftChair) and their father David watch proudly from the Senate Family Gallery.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_us_senate_impeachment_guilty_vote_katie_nate_david.jpg)
-
 #### Wednesday & Thursday, April 14–15, 2027 — Convicting Secretary Halverson and Vice President Drayton
 
 ![Inside the United States Senate Chamber on April 16, 2027, 42-year-old U.S. Senator Katie Prairie sits at her custom-height mahogany floor desk in her black motorized SwiftChair power wheelchair casting her historic Guilty vote in the impeachment trial while her twin brother Nate (in his SwiftChair) and their father David watch proudly from the Senate Family Gallery.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2027_us_senate_impeachment_guilty_vote_katie_nate_david.jpg)
@@ -12260,8 +12307,6 @@ Nate grinned from his SwiftChair and held up his blue plastic transit card betwe
 
 **Date:** 2027-05-20 at 10:15 America/New_York
 
-![From inside the elevated brass-railed United States Senate Gallery on Thursday afternoon, May 20, 2027, 40-year-old Wesley Collins in his forest-green collared polo shirt with his blue silicone ring and 45-year-old Chelsea Prairie in her lavender cardigan sit side by side holding hands warmly behind the brass gallery rail—flanked by Nathaniel Prairie in his SwiftChair, David Prairie, Brittany Fletcher, Heather and Dan Lindstrom, fraternal twins Jonas and Nora holding inner hands, and 18-year-old Molly—watching 42-year-old U.S. Senator Katie Prairie speak from her SwiftChair beside her top-tier mahogany desk on the blue Senate carpet below.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/may_2027_us_senate_gallery_wesley_chelsea_holding_hands_katie_floor.jpg)
-
 #### Thursday, May 20, 2027, 10:15 AM — The Dirksen Subway, Whispering Across Statuary Hall, & Why Katie Still Isn't Home in May
 
 "Hold onto the brass stanchion pole, Wes—this little electric train runs straight through a tunnel underneath Constitution Avenue!" forty-two-year-old Katie smiled up from her compact black-and-silver SwiftChair as the pneumatic platform doors slid open in the basement of the Dirksen Senate Office Building.
@@ -12356,8 +12401,6 @@ Out on the sunlit limestone plaza—with the avenue stretching west toward a Whi
 
 **Date:** 2027-07-17 at 09:40 America/New_York
 
-![At the inland coastal-suburban intersection of Shore Drive and Pleasure House Road in Virginia Beach on a sunny Saturday morning in July 2027—framed by tall Virginia loblolly pines, blooming pink crape myrtles, overhead mast-arm traffic signals, and the brick Bayside Pharmacy across the four-lane divided highway—42-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding their cross-honored transit passes on the concrete sidewalk beside low-floor CVTA bus #2514 with its yellow wheelchair ramp deployed and 913 CAPE CHARLES glowing on its amber LED headsign for its next cross-bay departure, surrounded by their father David, cousin Brittany Fletcher in her wire-rimmed glasses, 45-year-old cousin Chelsea smiling warmly in her floral cardigan beside Brittany's canvas tote bag with Shelly the plush sea turtle peeking out, and 25-year-old Hawkins triplets Sam, Mandy, and Sarah by the glass transit shelter.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2027_cbbt_bus_pleasure_house_road_transfer_family.jpg)
-
 #### Saturday, July 17, 2027, 9:40 AM — How Thorne's Vendetta Heat Died Down & Rolling Off Route 913 at Shore Drive and Pleasure House Road
 
 ![At the inland coastal-suburban intersection of Shore Drive and Pleasure House Road in Virginia Beach on a sunny Saturday morning in July 2027—framed by tall Virginia loblolly pines, blooming pink crape myrtles, overhead mast-arm traffic signals, and the brick Bayside Pharmacy across the four-lane divided highway—42-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding their cross-honored transit passes on the concrete sidewalk beside low-floor CVTA bus #2514 with its yellow wheelchair ramp deployed and 913 CAPE CHARLES glowing on its amber LED headsign for its next cross-bay departure, surrounded by their father David, cousin Brittany Fletcher in her wire-rimmed glasses, 45-year-old cousin Chelsea smiling warmly in her floral cardigan beside Brittany's canvas tote bag with Shelly the plush sea turtle peeking out, and 25-year-old Hawkins triplets Sam, Mandy, and Sarah by the glass transit shelter.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2027_cbbt_bus_pleasure_house_road_transfer_family.jpg)
@@ -12403,8 +12446,6 @@ I looked over at Sam, Mandy, and Sarah smiling by the glass shelter, then up at 
 ### ARTS Train 51 to Staunton, Street Clothes on the Route 250 Connector, & Calling Governor Langford From Fishersville
 
 **Date:** 2027-07-21 at 11:57 America/New_York
-
-![Inside the 1970s red-brick and terrazzo front visitor sign-in lobby of the Bates-Harding Building at Roosevelt Rehabilitation Center in July 2027, 42-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs wearing casual polos, t-shirts, and jeans as an icy, determined Katie speaks directly to Governor Rebecca Langford and Chief of Staff Arthur Lawrence on speakerphone while Director Evelyn Cross and her panicked staff look on beside a stack of yellow Level 2 passes.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jul_2027_rrc_unannounced_visit_calling_governor_katie_nate.jpg)
 
 #### Wednesday, July 21, 2027, 11:57 AM — ARTS Train 51 Out of Alexandria & Eighty-Four Pages of Bureaucratic Smoke
 
@@ -12638,8 +12679,6 @@ Katie smiled, resting her head briefly against my shoulder as the rhythm of the 
 
 **Date:** 2027-10-13 at 15:15 America/New_York
 
-![On a crisp sunny October Friday morning, a sleek brushed-stainless-steel Capital Transit Yellow Line metro train displaying a bright yellow route indicator and MT VERNON SQ on its digital destination sign glides northbound across the concrete-piered Charles R. Fenwick Bridge over the sparkling blue Potomac River between Alexandria, Virginia, and Washington, D.C., with the Jefferson Memorial and Washington Monument visible across the water.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/oct_2027_fenwick_bridge_capital_transit_yellow_line_mt_vernon_sq.jpg)
-
 #### Wednesday, October 13, 2027, 3:15 PM — Dirksen Room 511: "Chambers Field" & Five Practical Questions Before Saying Yes
 
 ![On a crisp sunny October Friday morning, a sleek brushed-stainless-steel Capital Transit Yellow Line metro train displaying a bright yellow route indicator and MT VERNON SQ on its digital destination sign glides northbound across the concrete-piered Charles R. Fenwick Bridge over the sparkling blue Potomac River between Alexandria, Virginia, and Washington, D.C., with the Jefferson Memorial and Washington Monument visible across the water.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/oct_2027_fenwick_bridge_capital_transit_yellow_line_mt_vernon_sq.jpg)
@@ -12864,8 +12903,6 @@ Down at the center witness table, sixty-nine-year-old Dad reached over and patte
 
 **Date:** 2028-06-20 at 08:45 America/New_York
 
-![On the lush emerald-green living grass lawn of the newly restored White House Rose Garden framed by blooming pink, crimson, and yellow heirloom roses and flowering crabapple trees, President Clara Morales signs Senator Katie Prairie's landmark Supported Companions, Waiver Portability, and Social Security Solvency Act at an oak desk beside Katie and Nathaniel Prairie in their SwiftChair power wheelchairs, Senators Tess Dunmore and Josh Novak in manual wheelchairs, Majority Leader Chris Van Deren, David Prairie, Brittany Fletcher, Wesley Collins holding his blue silicone ring, Chelsea Prairie holding Shelly Turtle, and Heather and Dan Lindstrom with Jonas, Nora, and Molly on their very first visit to the White House.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jun_2028_restored_rose_garden_supported_companions_signing.jpg)
-
 #### Tuesday, June 20, 2028, 8:45 AM — Sunset Drive: Our 1991 Crew Cab Pickup, Dual Pull-Out Stereo Caddies, & Fifty-Seven Yeas
 
 "Hold on, David—are those real chrome-latched triangular vent windows on the front doors, and did you seriously just slide an entire full-sized cassette stereo out of your dashboard by a metal bail handle and click a CD receiver into the exact same dock?" forty-four-year-old Dan Lindstrom asked in sheer mechanical delight, leaning past the rotary hand-cranked window handle of our dad's spotless two-tone navy-and-silver 1991 Crestline Garrison 350 four-door Crew Cab 4x4 pickup in the sunlit driveway on Sunset Drive.
@@ -12920,8 +12957,6 @@ Standing right there on the living green grass among the blooming roses—watchi
 
 **Date:** 2029-03-10 at 18:30 America/New_York
 
-![Inside their warm, zero-step ground-floor in-law suite living room with an open solid-oak connecting pocket door to the main family kitchen on the left, a 75-gallon basking turtle habitat on the right-hand oak cabinet, and their cozy shared queen bedroom with Chelsea's two asthma inhalers and Wesley's cedar ring dish on the nightstand visible behind them, forty-two-year-old Wesley Collins in his forest-green North Lion shirt and plaid flannel lounge pants with his blue silicone ring wraps a gentle deep-pressure arm around forty-seven-year-old Chelsea Prairie in modest lavender fleece loungewear holding plush Shelly Turtle on their oatmeal loveseat.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2029_three_mirrored_inlaw_suites_wesley_chelsea_sanctuary.jpg)
-
 #### Saturday, March 10, 2029, 6:30 PM — Zero Tearful Airport Gates Ever Again & Three Suites Mirrored Inch for Inch
 
 ![Inside their warm, zero-step ground-floor in-law suite living room with an open solid-oak connecting pocket door to the main family kitchen on the left, a 75-gallon basking turtle habitat on the right-hand oak cabinet, and their cozy shared queen bedroom with Chelsea's two asthma inhalers and Wesley's cedar ring dish on the nightstand visible behind them, forty-two-year-old Wesley Collins in his forest-green North Lion shirt and plaid flannel lounge pants with his blue silicone ring wraps a gentle deep-pressure arm around forty-seven-year-old Chelsea Prairie in modest lavender fleece loungewear holding plush Shelly Turtle on their oatmeal loveseat.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/mar_2029_three_mirrored_inlaw_suites_wesley_chelsea_sanctuary.jpg)
@@ -12961,8 +12996,6 @@ Quietly, smiling across our wheelchair armrests at Dad, Brittany, Heather, Dan, 
 ### Part 1: No Senate Pin in the Family Pew: Saying Goodbye to Uncle Richard in Southside Virginia & Katie's Lifelong Promise to Sam, Mandy, and Sarah
 
 **Date:** 2029-11-10 at 11:00 America/New_York
-
-![On a crisp November 2029 afternoon along the sunlit brick ramp courtyard outside a historic red-brick chapel in Southside Virginia near Danville with golden oak leaves and a distant flag at half-staff, forty-four-year-old Katie and Nathaniel Prairie sit side by side in their two compact black-and-silver SwiftChair power wheelchairs in modest black mourning attire—Katie wearing no Senate lapel pin—leaning gently forward to hold twenty-seven-year-old triplets Sam, Mandy, and Sarah Hawkins's hands beside sixty-eight-year-old widowed Aunt Marge Callaway as seventy-year-old David Prairie, Brittany Fletcher in her silver wire-rimmed glasses, Chelsea holding Shelly Turtle, and Wesley wearing his blue silicone ring stand quietly behind them.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/nov_2029_danville_uncle_richard_funeral_promise_to_triplets.jpg)
 
 #### Saturday, November 10, 2029, 11:00 AM — A Bare Black Lapel in Pittsylvania County, Old-Guard Virginia Respect, & Sitting Where Aunt Marge Put Us
 
@@ -13048,8 +13081,6 @@ Then Mandy let out a quiet sob of pure relief, Sarah dropped to one knee on the 
 
 **Date:** 2031-10-18 at 10:30 America/New_York
 
-![Inside a warm, sunlit zero-step brick-and-oak memorial chapel in Kempsville, Virginia Beach in October 2031 with golden autumn oaks outside the tall arched windows, forty-six-year-old Katie and Nathaniel Prairie sit side by side in their two compact black-and-silver SwiftChair power wheelchairs leaning close together in a comforting twin embrace facing an oak memorial table that holds a silver-framed smiling portrait of their father David Prairie, his favorite plain navy ceramic coffee mug, and pure white heirloom roses with a handwritten White House card, surrounded closely by widowed Aunt Marge Callaway and twenty-nine-year-old triplets Sam, Mandy, and Sarah Hawkins representing their late Uncle Richard alongside Brittany Fletcher, Chelsea holding Shelly Turtle, Wesley wearing his blue silicone ring, Heather and Dan Lindstrom, Aunt Karen, and uniformed CVTA transit operators seated respectfully in the pews.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/oct_2031_kempsville_david_prairie_funeral_family_rose_garden_roses.jpg)
-
 #### Saturday, October 18, 2031, 10:30 AM — Dad's Navy Coffee Mug, White Roses Without a Motorcade, & Seven Family Hands Around Our Chairs
 
 ![Inside a warm, sunlit zero-step brick-and-oak memorial chapel in Kempsville, Virginia Beach in October 2031 with golden autumn oaks outside the tall arched windows, forty-six-year-old Katie and Nathaniel Prairie sit side by side in their two compact black-and-silver SwiftChair power wheelchairs leaning close together in a comforting twin embrace facing an oak memorial table that holds a silver-framed smiling portrait of their father David Prairie, his favorite plain navy ceramic coffee mug, and pure white heirloom roses with a handwritten White House card, surrounded closely by widowed Aunt Marge Callaway and twenty-nine-year-old triplets Sam, Mandy, and Sarah Hawkins representing their late Uncle Richard alongside Brittany Fletcher, Chelsea holding Shelly Turtle, Wesley wearing his blue silicone ring, Heather and Dan Lindstrom, Aunt Karen, and uniformed CVTA transit operators seated respectfully in the pews.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/oct_2031_kempsville_david_prairie_funeral_family_rose_garden_roses.jpg)
@@ -13129,8 +13160,6 @@ I looked sideways at Dad's smiling silver-framed photograph beside his plain nav
 
 **Date:** 2032-04-17 at 09:30 America/New_York
 
-![In the sunlit concrete driveway on Arvin Road in Virginia Beach on Saturday morning, April 17, 2032, forty-seven-year-old Brittany Fletcher—wearing her thin silver wire-rimmed oval glasses, rolled-up denim work shirt over a burgundy tee, and blue jeans with a red shop rag—stands smiling warmly behind the raised glass hatch and lowered tailgate of Uncle David's gleaming Dark Midnight Blue and Ultra Silver Deluxe Two-Tone 1991 Crestline Garrison 350 four-door Crew Cab 4x4 pickup, operating the corded pendant to swing out the empty 12-volt steel bed hoist above the four-point securement tracks inside the empty pickup bed for a StreamTube and The Grid video while Nathaniel and Katie sit side by side holding hands in their two SwiftChairs on the driveway behind Nate's tripod beside Chelsea holding Shelly Turtle and Wesley wearing his blue silicone ring.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg)
-
 #### Saturday, April 17, 2032, 9:30 AM — Chelsea's New Guardian, The Only Stick-Shift Driver in the House, & Rolling on Camera in the Driveway
 
 ![In the sunlit concrete driveway on Arvin Road in Virginia Beach on Saturday morning, April 17, 2032, forty-seven-year-old Brittany Fletcher—wearing her thin silver wire-rimmed oval glasses, rolled-up denim work shirt over a burgundy tee, and blue jeans with a red shop rag—stands smiling warmly behind the raised glass hatch and lowered tailgate of Uncle David's gleaming Dark Midnight Blue and Ultra Silver Deluxe Two-Tone 1991 Crestline Garrison 350 four-door Crew Cab 4x4 pickup, operating the corded pendant to swing out the empty 12-volt steel bed hoist above the four-point securement tracks inside the empty pickup bed for a StreamTube and The Grid video while Nathaniel and Katie sit side by side holding hands in their two SwiftChairs on the driveway behind Nate's tripod beside Chelsea holding Shelly Turtle and Wesley wearing his blue silicone ring.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg)
@@ -13184,8 +13213,6 @@ Brittany tucked the red shop rag into her back jeans pocket, took off her silver
 ### Part 1: Refusing the 2045 Presidency From Home, Five Statutory Shields Against the Bubble, & Out of the Closet Into Our Four-Person Nest
 
 **Date:** 2043-10-24 at 16:30 America/New_York
-
-![On a warm October 2043 evening inside their Virginia Beach home on Arvin Road, 58-year-old Nathaniel Prairie relaxes happily in the middle of a custom wheelchair-transfer-height four-person cuddle nest platform bed in cozy grey plaid flannel sleepwear atop a patchwork navy-and-cream quilt, cuddling with the three women he loves—his 61-year-old paternal cousin Chelsea in cream knit sleepwear resting her head contentedly on his right shoulder, his 58-year-old twin sister Katie in lavender knit sleepwear leaning against his left shoulder holding his left hand, and his 58-year-old maternal cousin Brittany in burgundy flannel sleepwear and thin silver wire-rimmed oval glasses hugging Katie's shoulder—while Katie and Nate's two SwiftChair power wheelchairs sit parked beside the bed and Chelsea's two asthma inhalers rest on the headboard shelf.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/oct_2043_arvin_road_four_person_cuddle_nest_katie_nate_brittany_chelsea.jpg)
 
 #### Saturday, October 24, 2043, 4:30 PM — Our Living Room on Arvin Road: Quietly Recording Our Refusal Surrounded by Family & Signing Five Shields Against the Bubble
 
@@ -13282,8 +13309,6 @@ Out in Washington and across fifty state capitals, politicians were spending hun
 ### Part 2: The Biggest Prize in the Primary: Sam, Mandy, & Sarah's Bus-Loop Plan & Stop #0812
 
 **Date:** 2044-01-29 at 13:15 America/New_York
-
-![Inside the sunlit dining room of Katie and Nate's brick ranch house on Arvin Road in Virginia Beach in late January 2044, 58-year-old Senator Katie Prairie and her twin brother Nate sit side by side in their brushed-silver and black SwiftChair power wheelchairs as 41-year-old triplets Sam Hawkins and his identical twin sisters Mandy and Sarah Hawkins trace a four-seat CVTA bus and light-rail transit loop across a paper system map spread on the wooden table.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/jan_2044_arvin_road_endorsement_bus_loop_plan_katie_nate_triplets.jpg)
 
 #### Friday, January 29, 2044, 1:15 PM — Our Dining Room Table on Arvin Road
 
@@ -13387,8 +13412,6 @@ As soon as I tapped the red end-call icon, Mandy looked around the living room a
 
 **Date:** 2044-02-09 at 09:10 America/New_York
 
-![At CVTA Stop #0812 on the corner of Military Highway and Indian River Road in Virginia Beach in February 2044, 61-year-old Governor Harrison Caldwell stands on the concrete sidewalk in an expensive tailored navy suit holding a thick leather policy binder, staring in utter shock at the open front doors and deployed aluminum ramp of a regularly scheduled CVTA Route 15 city bus behind 58-year-old Senator Katie Prairie and her twin brother Nate in their brushed-silver and black SwiftChair power wheelchairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_caldwell_wait_a_bus_curbside_shock_katie_nate.jpg)
-
 #### Tuesday, February 9, 2044, 9:10 AM — Stop #0812 & Leg 1 Aboard CVTA Route 15 With Governor Harrison Caldwell
 
 ![At CVTA Stop #0812 on the corner of Military Highway and Indian River Road in Virginia Beach in February 2044, 61-year-old Governor Harrison Caldwell stands on the concrete sidewalk in an expensive tailored navy suit holding a thick leather policy binder, staring in utter shock at the open front doors and deployed aluminum ramp of a regularly scheduled CVTA Route 15 city bus behind 58-year-old Senator Katie Prairie and her twin brother Nate in their brushed-silver and black SwiftChair power wheelchairs.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_caldwell_wait_a_bus_curbside_shock_katie_nate.jpg)
@@ -13488,8 +13511,6 @@ Opening the video folder on my MagnaBook Pro, I dragged the two-hour recording f
 ### Part 4: The Second Tuesday on the Loop: Representative Devon Pierce on Routes 15, 800, 25, & 12
 
 **Date:** 2044-02-16 at 09:10 America/New_York
-
-![Aboard CVTA Route 25 on Tuesday morning, February 16, 2044, 44-year-old presidential candidate Congressman Devon Pierce leans across the center aisle in a tailored charcoal suit without a tie, talking over the head of 19-year-old CCHR computer-science student Marcus in his wheelchair to address Marcus's 22-year-old sister Jasmine in her royal-blue CCHR nursing polo shirt, while 58-year-old Senator Katie Prairie, her twin brother Nate, Marcus, Jasmine, and the surrounding bus passengers look on.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_route_25_devon_pierce_cchr_student_gaffe_katie_nate.jpg)
 
 #### Tuesday, February 16, 2044, 9:10 AM — Stop #0812, Leg 1 on CVTA Route 15, & Leg 2 on Route 800 (*The Surge* Light Rail)
 
@@ -13604,8 +13625,6 @@ I moved the February 16 video file into our offline archive drive and closed my 
 ### Part 5: The Thursday Morning Loop: Governor Elena Delgado & The Six O'Clock Upload
 
 **Date:** 2044-02-18 at 09:10 America/New_York
-
-![Aboard a regularly scheduled Coastal Virginia Transit Authority bus in Virginia Beach on Thursday morning, February 18, 2044, 58-year-old three-term U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their brushed-silver and black SwiftChair power wheelchairs in the front ADA securement bays as Nate films on his mPhone while Katie encourages everyday bus passengers—a hospital worker in teal scrubs, a shipyard tradesman, and a CCHR college student in a wheelchair—to ask unscripted questions directly to 54-year-old Governor Elena Delgado seated across the aisle.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_cvta_bus_presidential_endorsement_interview_katie_nate.jpg)
 
 #### Thursday, February 18, 2044, 9:10 AM — Stop #0812 & Leg 1 Aboard CVTA Route 15 to Military Highway Station
 
@@ -13734,4 +13753,8 @@ Instead, sitting right there beside Katie at our dining room table on Arvin Road
 *Why I Am Endorsing Elena Delgado for President of the United States — A Two-Hour Ride on CVTA Routes 15, 800 (The Surge), 25, & 12 from Stop #0812*
 
 Katie leaned her wheelchair in beside mine, rested her cheek against my left shoulder while Chelsea hugged my right shoulder and Brittany rested her hand across Katie's back—all four of us safe at home where we belonged—and watched as I clicked *Publish*.
+
+***
+
+*[← Return to the Story Crossroads](#crossroads-pavilion-apology-2003)*
 

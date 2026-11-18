@@ -19505,5 +19505,3 @@ Manner of Death: Natural. The decedents died of natural causes related to their 
 
 Signed: *Chief Medical Examiner* *State of Rhode Island*
 
-# Book 14: Silent Whispers
-

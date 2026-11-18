@@ -2295,9 +2295,3 @@ By afternoon, they’d made their rounds — checking in with Aubrie in the gard
 
 When evening came, Kristyn wheeled Dorian back to their shared room. She helped him through his nightly routine — the practical, intimate tasks that spoke of trust — and then they settled in, side‑by‑side in their twin beds, the hum of the servers lulling them toward sleep. In the quiet, Kristyn thought about how, in this house, no one was ever alone. And Dorian, watching the soft play of light on the ceiling, knew she was right.
 
-# Book 2: Silent Whispers
-
-## Chapter 1: Revelations
-
-## Chapter 2: A Moment of Peace
-

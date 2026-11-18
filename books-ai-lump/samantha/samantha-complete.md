@@ -1532,5 +1532,3 @@ We cleared the perimeter. Sarah moved ahead, popping the rear door of the sedan.
 
 The door slammed shut, cutting off the noise of the gym, leaving me in the dim, quiet sanctuary of the car as Samantha wrapped her arms around me, pulling me into the deep-pressure hold I needed to survive.
 
-# Book 4: Silent Whispers
-

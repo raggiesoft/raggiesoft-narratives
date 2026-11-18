@@ -430,7 +430,7 @@ Cassidy smiled up at him, her eyes shining as her fingers rested proudly on the 
 
 ## Chapter 3: 'Ignition,' The $1.00 Cross-License & The Apex Years (1986–1989)
 
-### 'Ignition,' The $1.00 Cross-License & The Apex Years (1986–1989)
+### Ignition,' The $1.00 Cross-License & The Apex Years (1986–1989)
 
 **Date:** 1986-11-14 at 19:30 America/New_York
 
@@ -729,8 +729,6 @@ Looking up into her brother's eyes as his arms tightened around her, Cassidy gav
 ### Mile Marker 98 & Protocol T-10 (1990)
 
 **Date:** 1990-12-10 at 23:42 America/New_York
-
-![December 14, 1990 (DEC 14 '90) at Star City General Hospital in Roanoke: on the first night Ryan is cleared for an overnight visitor, twenty-three-year-old Cassidy O'Connell (right, in her Burnt Orange CPI sweatshirt beside the brown vinyl overnight sleeper-recliner and folded patchwork quilt from home) leans in to kiss and hold her twenty-six-year-old brother Ryan O'Connell (left) as snow falls outside the night window.]({{CDN}}/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-14-90-cassidy-overnight-anchor.jpg)
 
 #### December 10, 1990 (`23:42 EST`) — Mile Marker 98 (Interstate 81 Northbound, Newbern, VA)
 
@@ -2339,8 +2337,6 @@ Without a single drum or electric amplifier, brother and sister sang the strippe
 ### Part 6: Act VI: Neon on the Huckleberry Trail & Saturday Night Lights
 
 **Date:** 2016-05-21 at 22:15 America/New_York
-
-![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg)
 
 ![During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, fans in Section 104, Row A hold each other close along the terrace railing.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p006/my-anchor-holds-section-104.jpg)
 

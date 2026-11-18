@@ -1718,8 +1718,6 @@ He gave a slight, almost imperceptible nod in return, a gesture of professional 
 
 # The Bidding War as seen on DevNet
 
-## Chapter 1: The Turning of the Tide
-
 ## The Players
 
 ### The Developer Community & The CEOs
@@ -1880,6 +1878,4 @@ The **third bedroom** was quickly designated the "guest room," with Alex joking 
 For the rest of the apartment, suggestions from the group filled in the details. The living room was soon home to a massive, comfortable sectional couch and a huge 32-inch CRT television, perfect for the new Apex 64 gaming console the dev team had chipped in to buy them as a housewarming gift. The kitchen was stocked with new plates and a fancy coffee maker, a gift from their parents.
 
 As evening fell, the group sprawled out on the new living room floor, sharing pizzas directly from the boxes because no one could find the plates. Surrounded by their family—both the one they were born into and the one they had earned—in a home that was truly theirs, Kelly and Ryan knew their new life had officially begun.
-
-# Book 3: The Turning Point
 

@@ -11162,8 +11162,6 @@ Alex reached up and placed his hand over hers on his shoulder. YES. A BREAK. THE
 
 "Exactly," Chloé whispered, her own resolve hardening as she looked back at her mountain of paperwork. The trip wasn't an escape; it was a refueling stop on the long, difficult, but wonderful road they had chosen to travel, together.
 
-# Chapter 4: Building the Foundation
-
 # Canada Winter Games
 
 ## A House Divided
@@ -14760,10 +14758,4 @@ Megan, standing right beside them with a triumphant, loving grin, chimed in, her
 Alex then pulled them both into a massive, final hug. "And we have all of eternity to argue about it." And Chloé knew, with the absolute, joyous certainty of a woman who was happily and forever outvoted, that they would.
 
 But for the record, here in Canada, it was, and always will be, a toque.
-
-# Book 21: The Turning Point
-
-## Chapter 1: The Confrontation
-
-## Chapter 2: The Turning of the Tide
 

@@ -9021,7 +9021,7 @@ Click by click, the basement lamps went dark, a soft chorus of *"Goodnight, guys
 
 ## Jordan's First Christmas & Boxing Day in Bluewater
 
-### Part 1: Stockings on the Bookshelf & 'Jordan Kelly'
+### Part 1: Stockings on the Bookshelf & 'Jordan Kelly
 
 **Date:** 2014-12-25 at 08:00 America/New_York
 
@@ -20968,8 +20968,6 @@ On the final ten-second guitar-and-synthesizer chord of *"Steel and Synthetics"*
 
 **Date:** 2016-05-21 at 20:55 America/New_York
 
-![Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg)
-
 #### 8:55 PM — Escape Velocity (Ad Astra)
 
 In the sudden, breathless darkness after *"Steel and Synthetics"*, all four towering stadium floodlight banks remained completely out.
@@ -21208,8 +21206,6 @@ When Ryan and Cassidy harmonized on the chorus—*"We trade all the armor, we tr
 ### Part 6: Neon on the Huckleberry Trail, Saturday Night Lights & My Anchor Holds
 
 **Date:** 2016-05-21 at 22:15 America/New_York
-
-![Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, Walter 'Santa Walt' Pendleton (the locally famous real-bearded New River Valley Mall Santa and 1956 CPI alumnus in a maroon flat cap) wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zoë Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.]({{CDN}}/raggiesoft-books/images/scenes/aubrie/e008/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg)
 
 #### 10:15 PM — *Saturday Night Lights* & *Progress Street*
 

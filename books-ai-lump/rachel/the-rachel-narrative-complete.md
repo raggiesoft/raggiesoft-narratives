@@ -538,8 +538,6 @@ From the bottom step of the open-slatted stairs, Jessica caught my eye and had t
 
 **Date:** 1994-07-12 at 08:45 America/New_York
 
-![On a sunny July 1994 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica in her clear wire-rimmed glasses walk right in the middle of their VDU Summer Camp group behind their camp counselor in front of the modern flat-roofed glass-and-brick Student Center and University Library]({{CDN}}/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg)
-
 #### 8:45 AM — Curbside Drop-Off & The Two-Week Block
 
 The morning humidity coming off the Elizabeth River already smelled like warm concrete and salt water when Mom eased our station wagon up to the drop-off curb off Hampton Boulevard.
@@ -17109,8 +17107,6 @@ It was just Mom, me, Rachel, and Jessica. The perimeter was perfectly secured, t
 
 **Date:** 2002-10-18 at 10:15 America/New_York
 
-![On a crisp October 2002 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, seventeen-year-old Michael stands right inside his sanctioned Northwood High School senior field trip tour group alongside his classmates and guidance counselor chaperone as a VDU Admissions tour guide gestures toward the modern flat-roofed glass-and-concrete campus buildings]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/oct_2002_vdu_high_school_field_trip_tour_michael.jpg)
-
 #### 10:15 AM — The Map I Already Knew by Heart
 
 The air brakes of the two yellow Virginia Beach city school buses let out a long, pneumatic hiss as they pulled up to the visitor curb off Hampton Boulevard.
@@ -18324,8 +18320,6 @@ I closed my eyes, listening to the quiet morning sounds of the neighborhood and 
 ### Three Buses to Kemps River Drive, Crown Burger, & Sharing Cousin Maria's Twin Bed
 
 **Date:** 2003-09-17 at 15:15 America/New_York
-
-![Inside a brightly lit Crown Burger near Kemps River Drive in Virginia Beach on Wednesday afternoon, September 17, 2003 as overcast gray clouds gather and the wind begins picking up in the dry trees outside the window ahead of Hurricane Isabel, eighteen-year-old Michael Ragsdale sits in a booth with his canvas backpack beside his cousin Maria over a tray of warm burgers and french fries.]({{CDN}}/raggiesoft-books/images/scenes/rachel/b013/sep_2003_hurricane_isabel_kemps_river_crown_burger_michael_maria.jpg)
 
 #### Wednesday, September 17, 2003, 3:15 PM — An Empty Apartment Without Ashley & Crossing Paths With Apartment A6
 
@@ -30297,8 +30291,6 @@ Whether on Moosewood Drive in Virginia Beach or in the courtyards of Redmond, th
 
 **Date:** 2015-05-01 at 13:30 America/New_York
 
-![Inside the Virginia Dominion University Housing desk area during their May 2015 campus tour, Michael and Rachel stand side by side holding hands with their fingers laced together as a full-time VDU Housing staffer goes over the Dominion Village floor plans and Fall 2015 Gender-Inclusive Housing Pilot Program rules]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/may_2015_vdu_spring_tour_housing_desk_gih_inquiry.jpg)
-
 #### 1:30 PM — Testing Our Childhood Memory on Dominion Mall
 
 The steady, rhythmic splash of water against concrete reached our ears before the trees even cleared.
@@ -30365,8 +30357,6 @@ When we pushed back out through the glass doors onto the sunlit red-brick walkwa
 
 **Date:** 2015-08-22 at 14:00 America/New_York
 
-![Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (Harbor House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg)
-
 #### 2:00 PM — Harbor House (Or as Everyone Calls It: "Building 2")
 
 "We've got two more ground-floor check-ins heading into Building 2!"
@@ -30428,8 +30418,6 @@ Rachel laughed softly, rising onto her tiptoes to press a warm kiss to my cheek.
 ### Part 3: The Only GIH Pair in Building 2 (Harbor House), The RA's Look in the Hallway, & The 1st-Floor Laundry Room
 
 **Date:** 2015-08-25 at 19:30 America/New_York
-
-![Walking down the ground-floor interior hallway of Building 2 (Harbor House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg)
 
 #### 7:30 PM — The Only GIH Participants in All of Building 2 (Harbor House)
 
@@ -30499,8 +30487,6 @@ By the time that first week of the semester wrapped up, the RAs and Housing staf
 
 **Date:** 2015-08-26 at 09:30 America/New_York
 
-![Inside a modern computer lab and lecture classroom at Virginia Dominion University in Fall 2015, Michael and Rachel sit side-by-side at adjacent computer workstations in matching royal-blue VDU t-shirts and jeans, holding hands with their fingers laced together between their keyboards while looking warmly at each other]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_ist_shared_academic_track_classroom.jpg)
-
 #### 9:30 AM — Why I Need My Bug at My Side in Every Class
 
 The heavy wooden door at the front of the second-floor lecture lab swung open with a sharp pneumatic hiss, and under the glare of the overhead fluorescent tubes, my chest automatically tightened.
@@ -30554,8 +30540,6 @@ Before we could roll up into the Blue Ridge Mountains in February, however, ther
 ### Bilateral Achilles Heel Cord Lengthening, Why Rachel Waited for Me, & Cleared to Travel to CPI
 
 **Date:** 2016-02-10 at 10:30 America/New_York
-
-![In a bright orthopedic clinic exam room in early February 2016, Michael sits comfortably on the exam bench while Rachel stands right beside him holding his hand with their fingers laced together, as his orthopedic surgeon smiles with his medical chart and clears Michael to travel to CPI in Blacksburg using the blue manual wheelchair beside the wall]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/feb_2016_achilles_clearance_for_cpi_saacurc_travel.jpg)
 
 #### 10:30 AM — Tight Heel Cords & Why Rachel Stubbornly Waited for Me
 
@@ -30618,8 +30602,6 @@ With the signed medical travel clearance tucked safely into our binder and a qui
 ### Part 1: Friday Arrival, Struggling Up the Steep Hills of CPI, & Two Queen Beds at The Hotel at Poly
 
 **Date:** 2016-02-12 at 16:00 America/New_York
-
-![Rachel leaning her body weight forward and straining against the rear push-handles as she struggles to push Michael in his manual wheelchair up a steep limestone hill on the CPI campus in Blacksburg during SAACURC 2016, surrounded by visiting students in their school colors]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_cpi_steep_hill_rachel_struggling_push.jpg)
 
 #### 4:00 PM — Arrival at The Hotel at Poly
 
@@ -30715,8 +30697,6 @@ Lying here in Room 114 at The Hotel at Poly with our fingers laced together on t
 
 **Date:** 2016-02-13 at 09:00 America/New_York
 
-![Inside the bright atrium of Kincaid Student Center during SAACURC 2016, Michael sits in his parked blue manual wheelchair and Rachel stands right beside him holding his hand with their fingers laced together in matching royal-blue VDU t-shirts and clothespin-covered lanyards, surrounded by smiling college delegates repping their CPI, SVU, RADFORD, UP, and GWU school colors and shirts]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_kincaid_student_center_school_colors_clothespins.jpg)
-
 #### 9:00 AM — School Colors, The Clothespin Gauntlet, & Our IST Cloud Architecture
 
 The automatic sliding glass doors of Kincaid Student Center—framed by illuminated overhead exit signs and blue ADA push-button plates—glided open with a soft mechanical whirr, and as my front casters rolled onto the flat, polished terrazzo floor of the main atrium lobby, both Rachel and I let out an audible sigh of relief.
@@ -30789,8 +30769,6 @@ Grinning, I wheeled over to the edge of the right-hand Queen bed, locked my brak
 
 **Date:** 2016-02-14 at 11:30 America/New_York
 
-![Inside the Commonwealth Ballroom at Kincaid Student Center during the SAACURC 2016 Sunday Closing Banquet, Michael in his blue manual wheelchair and Rachel standing right beside him in matching royal-blue VDU t-shirts hold their wooden SAACURC recognition plaque angled toward their own eyes while holding hands as surrounding student delegations in CPI, SVU, RADFORD, UP, and GWU shirts applaud]({{CDN}}/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_gih_roundtable_and_closing_award.jpg)
-
 #### 11:30 AM — The Closing Banquet & The SAACURC Documentation Plaque
 
 Silverware clinked softly against porcelain plates across the Commonwealth Ballroom as the servers cleared the last of the Sunday banquet lunch, and at the front podium, the regional executive board tapped the microphone to bring the room to order.
@@ -30844,8 +30822,6 @@ Rachel climbed in right beside me, clicked her seatbelt shut, and immediately tu
 ### Part 1: Ellen's Gift, Upgrading from State IDs, & Passing the DMV Knowledge Test on the First Try
 
 **Date:** 2016-06-14 at 10:00 America/New_York
-
-![Michael and Rachel standing side by side at the Virginia Beach DMV counter holding hands with their fingers laced together, smiling warmly as the DMV clerk hands them their temporary Virginia Learner's Permit sheets after both siblings pass the two-part computerized DMV knowledge exam on the first try]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_dmv_knowledge_test_first_try_permits.jpg)
 
 #### 10:00 AM — Medically Cleared, Why Rachel Waited for Me, & Ellen's Surprise at Moosewood Drive
 
@@ -30921,8 +30897,6 @@ We stood up from the booths at the same time, immediately laced our fingers back
 
 **Date:** 2016-06-21 at 13:00 America/New_York
 
-![Michael in the driver's seat of the dual-control driver training sedan with hands at 9 and 3 at 55 MPH on Ferrell Parkway approaching the unnumbered Lynnhaven Parkway East, Ferrell Parkway / Princess Anne Road East, and North Princess Anne Road / Salem Road overhead gantry in Virginia Beach, with his eyes in the center rearview mirror, the driving instructor in the front passenger seat, and Rachel beaming from the back seat in the secondary instructor mirror]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_ferrell_pkwy_55mph_first_session.jpg)
-
 #### 1:00 PM — The Dual-Control Sedan, Three Students Plus the Instructor, & Sibling Pairing
 
 A clean white four-door compact sedan pulled up to the curb in front of our house on Moosewood Drive right at one o'clock, the afternoon sunlight glinting off its yellow magnetic *STUDENT DRIVER* roof sign and the stamped Virginia license plates reading VA3-5558 on both its front and rear bumpers.
@@ -30990,8 +30964,6 @@ When my fifty-minute driving block wrapped up at the top of the hour and we pull
 ### 45 MPH on the Kempsville & Lynnhaven Curves & Passing the Road Test on the First Try
 
 **Date:** 2016-07-19 at 14:00 America/New_York
-
-![Michael and Rachel standing side by side holding hands with their fingers laced together next to the white dual-control STUDENT DRIVER training sedan with Virginia front prop plate VA3-5558 after both passing their Behind-the-Wheel road test on the first try, as the instructor hands them their completion certificates with a sweeping 45 MPH Virginia Beach roadway curve in the background]({{CDN}}/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jul_2016_kempsville_lynnhaven_curves_and_road_test_pass.jpg)
 
 #### 2:00 PM — Trusting the Geometry at 45 MPH: Kempsville Road & Lynnhaven Parkway
 

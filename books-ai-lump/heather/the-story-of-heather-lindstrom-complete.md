@@ -10,8 +10,6 @@ title: "The Story of Heather Lindstrom"
 
 **Date:** 2003-01-11 at 10:45 America/New_York
 
-![On a sunlit Saturday morning in January 2003 inside Aunt Linda's Chesapeake split-level living room, fifteen-year-old non-verbal Wesley Collins in a navy-blue fleece quarter-zip pullover and blue jeans with his blue silicone ring on his wrist cradles the oak-framed Emerald Creek Mall snapshot protectively inward against his chest while pointing emphatically toward the closed front door in heartbroken teenage fury, as seventeen-year-old Heather Collins sits stricken and remorseful on the bottom stair step beside her car keys and Aunt Linda watches quietly from the oak bookshelf.]({{CDN}}/raggiesoft-books/images/scenes/heather/e001/jan_2003_chesapeake_living_room_wesley_photo_blowout_heather.jpg)
-
 #### Saturday, January 11, 2003, 10:45 AM — Aunt Linda's Living Room in Chesapeake: Two Taps on the Front Door & The Question Heather Dreaded All Week
 
 ![On a sunlit Saturday morning in January 2003 inside Aunt Linda's Chesapeake split-level living room, fifteen-year-old non-verbal Wesley Collins in a navy-blue fleece quarter-zip pullover and blue jeans with his blue silicone ring on his wrist cradles the oak-framed Emerald Creek Mall snapshot protectively inward against his chest while pointing emphatically toward the closed front door in heartbroken teenage fury, as seventeen-year-old Heather Collins sits stricken and remorseful on the bottom stair step beside her car keys and Aunt Linda watches quietly from the oak bookshelf.]({{CDN}}/raggiesoft-books/images/scenes/heather/e001/jan_2003_chesapeake_living_room_wesley_photo_blowout_heather.jpg)
