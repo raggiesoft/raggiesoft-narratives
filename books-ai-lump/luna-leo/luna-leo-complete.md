@@ -10803,7 +10803,7 @@ He gave a genuine, relieved smile. They headed into the building for their share
 
 ### Part 1: The Hijacked Plan & MagnaByte Conflict
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+**Date:** 2003-10-10 at 15:30 America/New_York
 
 #### 10:00 AM — The Hijacked Plan
 
@@ -10891,9 +10891,9 @@ Pulling into the driveway of the small house on Stella's house felt less like ar
 
 The atmosphere was immediately strained. Luna, still maintaining her protective bubble around her brother, refused to leave his side. She kept a firm, loving grip on the back of his wheelchair, an unspoken, non-verbal challenge to Delores. We are at my house now, her posture seemed to say. Delores, recognizing the shift in territory and still wary of Stella's authority, didn't dare comment on the hug, but her resentment was a palpable, chilling presence in the small living room.
 
-Leo didn't even wait for the tour or pleasantries. Bypassing the living room, he immediately wheeled himself towards the familiar corner housing the dual MagnaByte Opus setup. He hadn't just sought refuge; he'd genuinely <aac>missed</aac> his machine. Back at Delores's place, homework meant struggling with a clunky Quantum OS NX machine running WritePad 2003 – a system he <aac>hated</aac> for its confusing interface and lack of intuitive controls, made worse by Delores often dictating <aac>when</aac> he was allowed to work on assignments. Here, finally, was his chance to use the tools he was comfortable and competent with, free from both the frustrating Quantum environment and Delores's control over his work time. After navigating college assignments on that difficult system, he craved the comfort and competence he felt using the MagnaByte – the satisfying click of the keys, the predictable interface of MagnaSuite. Here, at least, was an environment where he felt capable and could actually focus on the homework he needed to do, on his <aac>own</aac> terms.
+Leo didn't even wait for the tour or pleasantries. Bypassing the living room, he immediately wheeled himself towards the familiar corner housing the dual MagnaByte Opus setup. He hadn't just sought refuge; he'd genuinely *missed* his machine. Back at Delores's place, homework meant struggling with a clunky Quantum OS NX machine running WritePad 2003 – a system he *hated* for its confusing interface and lack of intuitive controls, made worse by Delores often dictating *when* he was allowed to work on assignments. Here, finally, was his chance to use the tools he was comfortable and competent with, free from both the frustrating Quantum environment and Delores's control over his work time. After navigating college assignments on that difficult system, he craved the comfort and competence he felt using the MagnaByte – the satisfying click of the keys, the predictable interface of MagnaSuite. Here, at least, was an environment where he felt capable and could actually focus on the homework he needed to do, on his *own* terms.
 
-Stella watched him go straight to the computers, bypassing any social interaction. A sudden thought struck her, connecting his immediate need for the familiar MagnaByte with the subtle decline she’d noticed in his recent college grades. <aac>Could this be why?</aac> she wondered silently, a knot of worry tightening in her stomach. <aac>Is he struggling that much with the Quantum computer at Delores's? Is she making it hard for him to even get his work done?</aac>
+Stella watched him go straight to the computers, bypassing any social interaction. A sudden thought struck her, connecting his immediate need for the familiar MagnaByte with the subtle decline she’d noticed in his recent college grades. *Could this be why?* she wondered silently, a knot of worry tightening in her stomach. *Is he struggling that much with the Quantum computer at Delores's? Is she making it hard for him to even get his work done?*
 
 Her thoughts were interrupted as Delores followed Leo over to the computer corner. "Leo, maybe you should rest first? Instead of playing on that old thing?"
 
@@ -11007,267 +11007,268 @@ Stella hurried back in. "What's going on here?"
 
 Delores shrugged with feigned indifference. "Fine. Whatever. Stay here with your *silly antiques*." She walked back to the couch. Luna glared after her. Leo looked down at his keyboard, the brief refuge invaded. He glanced at Luna, a shared look of helpless anger passing between them.
 
-### Part 2: Printer Rage, Guardianship Questions, and a Forceful Kiss & Leftovers, Bus Schedules, and Locked Doors
+### Part 2: Printer Rage, Guardianship Questions, and the Flute Signal
 
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
+**Date:** 2003-10-11 at 16:30 America/New_York
 
-#### 10:00 AM — Printer Rage, Guardianship Questions, and a Forceful Kiss
+#### 4:30 PM — Printer Rage, Guardianship Questions, and the Flute Signal
 
 Despite the earlier interruption, Luna and Leo Porter resolutely turned back to their MagnaBytes, determined to finish their English assignment. They worked steadily for another hour. Finally, Luna stretched. "Okay, I'm done. Ready to print?" Leo gave a quick nod, saving his MagnaWriter document.
 
-"Alright," Luna said, reaching for the A/B switch box connecting both machines to the single MagnaByte GraphiPrint. "Me first." She pressed the Luna button and selected 'Print'.
+"Alright," Luna said, reaching for the A/B switch box connecting both machines to the single MagnaByte GraphiPrint. "Me first." She pressed the Luna button and selected Print.
 
-The quiet hum was instantly shattered by the MagnaByte GraphiPrint whirring aggressively to life, its dot-matrix print head launching into a loud, high-pitched ZZZT-ZZZT-ZZZT, punctuated by the grinding CHUNK-CHUNK of the tractor feed. On the couch, Delores jumped violently. "What in the HELL is THAT?" she shrieked over the din, seeing a noisy printer spitting out a document. "That can't be a printer! Printers aren't supposed to sound like a dying robot!"
+The quiet hum was instantly shattered by the MagnaByte GraphiPrint whirring aggressively to life, its dot-matrix print head launching into a loud, high-pitched *ZZZT-ZZZT-ZZZT*, punctuated by the grinding *CHUNK-CHUNK* of the tractor feed. On the couch, Delores jumped violently. "What in the hell is that?" she shrieked over the din, staring at the noisy printer spitting out fanfold paper. "That can't be a printer! Printers aren't supposed to sound like a dying robot!"
 
 Luna turned, defensive. "It is the printer! It's how we print our homework!"
 
-"That horrible screeching? No way!" Delores stood up, covering her ears. "Why do you even have that thing? Make it stop!" She seemed genuinely unable or unwilling to comprehend the noise was normal for the technology. Leo flinched at her outburst.
+"That horrible screeching? No way!" Delores stood up, covering her ears. "Why do you even have that thing? Make it stop!" Leo flinched at her outburst.
 
-Stella came quickly from the kitchen. "Delores, calm down. It's just the printer".
+Stella came quickly from the kitchen. "Delores, calm down. It's just the printer."
 
 "Calm down?!" Delores rounded on Stella. "That noise is insane! Get rid of that horrible machine!"
 
-"It's a dot-matrix tractor printer, Delores," Stella explained patiently. "Yes, it's loud. The twins need it. It will only take a minute".
+"It's a dot-matrix tractor printer, Delores," Stella explained patiently. "Yes, it's loud. The twins need it. It will only take a minute."
 
-"A minute of that torture?" Delores scoffed. Stella held her gaze. "It's necessary. It will be done soon".
+"A minute of that torture?" Delores scoffed. Stella held her gaze. "It's necessary. It will be done soon."
 
-Luna finished printing. She pressed the Leo button on the A/B switch. "Your turn, Leo." He hesitated, then initiated his print job. The ZZZT-ZZZT-CHUNK-CHUNK started again. Delores let out an exaggerated groan, throwing herself back onto the couch, covering her ears until the noise finally stopped. The homework was printed, but the simple act had triggered another wave of hostility.
+Luna finished printing and pressed the Leo button on the A/B switch. "Your turn, Leo." He hesitated, then initiated his print job. The *ZZZT-ZZZT-CHUNK-CHUNK* started again. Delores let out an exaggerated groan, throwing herself back onto the couch and covering her ears until the tractor feed finally went quiet.
 
-Once the noisy printing finished and Leo had gathered his pages, Delores sat up, removing her hands from her ears, her expression shifting from theatrical annoyance to calculated concern, though her eyes remained hard as she looked pointedly at Stella. "You know, Stella," Delores began, her voice dripping with false sweetness that didn't quite mask the edge, "seeing all this... the old computers, the noise... it makes me wonder". She paused, letting the implication hang in the air before continuing, her tone becoming more forceful, almost pitying. "This whole Guardianship and Conservatorship thing... are you sure it's still necessary? Leo's an adult now, practically. He manages just fine living with me".
+Once Leo had gathered his pages, Delores sat up, removing her hands from her ears, her expression shifting from theatrical annoyance to calculated concern, though her eyes remained hard as she looked pointedly at Stella. "You know, Stella," Delores began, her voice dripping with false sweetness that didn't quite mask the edge, "seeing all this—the old computers, the noise—it makes me wonder." She paused, letting the implication hang in the air before continuing, her tone becoming more forceful, almost pitying. "This whole Guardianship and Conservatorship thing... are you sure it's still necessary? Leo's an adult now, practically. He manages just fine living with me."
 
 Stella stiffened, caught off guard by the sudden shift in topic. "The guardianship is in place for a reason, Delores," she replied evenly, trying not to rise to the bait.
 
-Delores waved a dismissive hand. "Oh, I know, I know. But maybe it's time to reconsider? Or," she leaned forward slightly, her voice taking on a tone of forceful suggestion, "maybe I should be the one handling it now? Since he lives with me? It must be such a burden for you, trying to manage his affairs from way over here, especially with your job and Luna to worry about". She gestured vaguely around the room. "Honestly, Stella, are you sure you can handle all this? It just makes sense for me to take over the legal stuff. It would simplify everything... for Leo". The implication was clear: Stella was incapable, and Delores was offering to 'help' by taking control.
+Delores waved a dismissive hand. "Oh, I know, I know. But maybe it's time to reconsider? Or," she leaned forward slightly, her voice taking on a tone of forceful suggestion, "maybe I should be the one handling it now? Since he lives with me? It must be such a burden for you, trying to manage his affairs from way over here, especially with your job and Luna to worry about." She gestured vaguely around the room. "Honestly, Stella, are you sure you can handle all this? It just makes sense for me to take over the legal stuff. It would simplify everything... for Leo."
 
-Leo looked down, avoiding everyone's gaze, clearly uncomfortable being discussed this way. Luna, who had overheard from the computer corner, bristled silently. Stella felt a surge of anger mixed with a confusing defensiveness. Delores made it sound so reasonable, yet it felt deeply wrong, like another attempt to push Stella out, to claim ownership of Leo. She was too caught up in the immediate tension, the desire to de-escalate, the worry about Leo being trapped between them.
+Leo looked down, avoiding everyone's gaze, deeply uncomfortable being spoken over like property. Over at the computer desk, Luna bristled, every muscle in her shoulders going rigid.
 
-"Leo's arrangements are fine as they are, Delores," Stella said coolly, refusing to engage further on Delores's terms. She turned pointedly towards the kitchen. "Anyone want a drink?" Delores merely smirked, recognizing Stella's deflection but seemingly satisfied she had planted the seed and asserted her position. The conversation was dropped, but the underlying challenge to Stella's role, and the suggestion that Delores should take over, lingered poisonously in the air.
+"Leo's arrangements are fine as they are, Delores," Stella said coolly, turning pointedly toward the kitchen. "Anyone want a drink?" Delores merely smirked, satisfied she had planted the seed.
 
-The air in Stella’s small living room remained thick with the poison Delores had injected. Leo looked pale and withdrawn, his usual quiet composure replaced by a visible tension around his eyes and mouth after the pointed remarks about Stella's guardianship. Luna watched him from the MagnaByte corner, her heart aching. Delores, having asserted her opinion, now patrolled the living room, occasionally making passive-aggressive comments about the "primitive" technology or the "stressful" environment Stella maintained.
+The air in Stella's small living room remained thick with the poison Delores had injected. Leo looked pale and withdrawn, shrinking further into his chair as Delores patrolled the carpet making passive-aggressive remarks about the "primitive" computers. Seeing her twin brother's distress, that fierce, lifelong protective instinct surged in Luna. Almost unconsciously, Luna began to hum softly above the drone of the television Delores had commandeered—the unmistakable flute passage from *Kaleidoscope Sun* by Fractured Prisms. She was *Playing the Flute*, sending their private twin distress signal across the room: *I'm here, Leo. This feels wrong. Remember safety.*
 
-Leo seemed to shrink further into himself with each remark. Seeing his distress, that familiar protective urge surged in Luna. This wasn't right. Subtly, almost unconsciously, Luna began to hum. It was a quiet sound, barely audible above the drone of the television Delores had commandeered. The melody was specific, a poignant, brief passage from "Kaleidoscope Sun," the song by Fractured Prisms that held so much private meaning for her and Leo. It was the flute melody, their signal. She was "Playing the Flute". She watched Leo intently, desperately, willing him to hear it, to recognize the coded message: I’m here, Leo. This feels wrong. Be careful. Remember safety.
+Trapped in a fog of anxiety and conditioned fear, Leo kept his eyes fixed on his lap, too overwhelmed to register the melody.
 
-But Leo gave no sign of recognition. His gaze remained fixed somewhere between the blaring television and his own lap, his face a carefully blank mask. Delores's poisonous suggestions about Stella, combined with her disdain for their cherished computers and the printer, had him so on edge, so deeply conditioned to tune out anything that might provoke her further, that Luna's subtle hum simply didn't register through the fog of his anxiety and fear. He was, in that moment, "blind" to her signal, his senses overwhelmed by the immediate need to appease Delores and avoid more conflict.
+Delores's ears, however, caught the sound immediately. Her eyes narrowed as she whipped her head toward the computer corner. "What's that annoying noise, Luna? Are you sick or something? If you're going to make weird sounds, maybe go to your room."
 
-Delores, however, whose attention was sharply attuned to any perceived slight or secret communication, did seem to notice the soft humming. She looked over at Luna, her eyes narrowing slightly. "What's that annoying noise, Luna? Are you sick or something? If you're going to make weird sounds, maybe go to your room."
+A hot flush rose up Luna's neck as her humming broke off. Before Luna could answer, Delores turned back toward Leo with a cold, territorial gleam in her eyes and patted the sofa cushion beside her.
 
-Luna’s humming faltered and stopped, a flush rising on her cheeks. She shot Delores a look of dislike but said nothing, turning back to her MagnaByte screen, her heart heavy. The flute had played, but this time, trapped under Delores’s watchful eye and his own fear, Leo hadn't heard its call.
+"Leo, honey, come sit with me," Delores cooed in a sugary voice that made Stella stop washing dishes in the kitchen doorway. Reluctantly, afraid of provoking another scene, Leo wheeled his chair closer to the couch.
 
-Delores, sensing Stella’s controlled fury from the kitchen or simply needing to reassert her dominance after being subtly challenged about the guardianship, turned her attention to Leo with a predatory focus. She patted the cushion beside her on the sofa. "Leo, honey, come sit with me," she cooed, her voice dripping with a false sweetness that made Stella’s skin crawl from the next room. Leo looked towards his MagnaByte, a silent plea for escape in his eyes, but Delores’s gaze was unyielding. He knew better than to refuse a direct "invitation" when she was in this mood. Reluctantly, he wheeled closer.
+"No, closer, baby," Delores purred, her smile never reaching her eyes. Rising from the cushions before Leo could react, Delores stepped squarely in front of his footrests, clamped both hands tightly around Leo's forearms, and braced to yank him out of his wheelchair onto her lap right in front of his twin sister and his older sister. "Let's get you comfortable on the sofa with me."
 
-"No, closer, baby," Delores purred, her smile not reaching her eyes. She stood, and before Leo could react, she took hold of his arms. "Let's get you comfortable on the sofa with me." Despite his internal alarm and a subtle tensing, a silent attempt to resist, her grip was strong. With a surprising strength that brooked no argument, she maneuvered him from his wheelchair, pulling him onto the sofa and then, shockingly, onto her lap, positioning him so he was facing her, his back partially to his sisters. He felt instantly trapped, overpowered, and intensely uncomfortable with the forced proximity and her physical dominance.
-
-Luna stopped typing, her head snapping up, her eyes narrowing as she watched Delores. Stella paused her dishwashing, listening, every nerve on alert.
-
-Delores’s arms snaked around his waist, holding him tight against her. She tilted his chin up with her other hand, her movements a clear display of ownership for the benefit of his sisters. "You're so quiet tonight, baby. Tired from all that... 'homework'?" Her tone was mocking, a clear jab at his earlier retreat to the computers with Luna.
-
-Leo tensed further under her grip, his eyes darting towards Luna, then quickly away, not wanting to draw Delores's ire towards his sister. He offered a small, forced nod, the feeling of being pinned on her lap making him feel small, exposed, and increasingly nauseous.
-
-"Poor thing," Delores crooned, though her eyes, when they flicked towards where she knew Stella was in the kitchen, were cold and triumphant. "Maybe you just need some proper affection to cheer you up".
-
-Before Leo could react or attempt any subtle deflection from this already deeply uncomfortable and controlling position, Delores leaned in. Her mouth was on his, hard and demanding. He froze, every muscle in his body screaming in protest. This was not the tentative affection of their early relationship, nor the slightly off-key possessiveness he’d grown uncomfortably accustomed to. This was different. This was a statement, a violation. He felt the unwanted, invasive press of her tongue, a suffocating sensation that made him feel like he couldn't breathe, like he was being choked by her will. His eyes squeezed shut, his mind desperately trying to retreat from the unwanted intimacy, from the feeling of her possession. He could hear Luna make a small, sharp intake of breath from across the room. Then, the nature of the assault shifted. Her mouth moved from his lips to his cheek, and he felt a sharp, biting pain as she seemed to chew on the flesh, her teeth scraping, a disgusting, violating pressure that made involuntary tears of pain spring to his eyes. He tried to pull his head away, a choked gasp escaping him, but her hand held his chin in a vice-like grip, her arms still pinning him to her lap.
-
-When Delores finally pulled back, there was a smug, almost predatory glint in her eyes as she glanced quickly towards Luna, then towards the kitchen doorway where Stella now stood, silent and rigid, her face a mask of horrified disbelief and cold fury. Delores licked her lips, a grotesque parody of affection.
-
-Leo was trembling, his breath coming in shallow, ragged gasps. He could feel the throbbing pain on his cheek, a burning, shameful heat from the hickey she’d inflicted. He didn't dare touch it, didn't dare look at his sisters. The humiliation of being so overpowered and violated in front of them was a physical weight, crushing him.
-
-"There," Delores said, her voice still falsely sweet but laced with triumph as she surveyed the impact of her display. She ran a possessive hand through Leo’s hair. "All better now, aren't you, baby?" She looked directly at Stella, then Luna, a silent, insolent challenge in her eyes. "He just needs to know who takes care of him. Who he belongs to".
-
-After another moment of asserting her control, she finally, roughly, helped him back into his nearby wheelchair. Stella and Luna were frozen, speechless with a shared, horrified rage. They saw the angry, nasty red mark blooming on Leo’s pale cheek – not bleeding, but a raw, brutal brand. Luna’s hands were clenched into white-knuckled fists on her keyboard. Stella’s entire body was coiled tight, the effort to not physically launch herself at Delores monumental. They knew, with sickening certainty, that any overt reaction from them now would only bring worse repercussions for Leo later, behind the locked door of his room.
-
-Leo kept his eyes downcast, the "painted smile" he’d perfected – that hollow mask of endurance – fixed on his face, though tears of pain and shame still tracked silently down his cheeks. He felt stripped bare, violated in front of the two people he loved most in the world. Delores had not only asserted her control over him but had used his body to wound his sisters as well. The suffocating feeling of her tongue, the sting of her teeth on his cheek, the burning shame of the visible mark – it was all a horrifying testament to his entrapment. The silence in the room was broken only by the tinny, cheerful theme song of some forgotten sitcom flickering on the television, a grotesque counterpoint to the ugly reality that had just unfolded. Delores leaned back on the sofa, a picture of possessive satisfaction, while Leo sat beside her, a prisoner marked by her cruelty, his sisters watching, hearts shattered, their protective fury banked but burning with a desperate, ice-cold resolve.
+Across the room at the MagnaByte desk, Luna's head snapped up—watching Delores's fingers dig into her twin brother's arms in their own home, on what was supposed to be *their* Sibling Weekend.
 
 ***
 
-#### 10:00 AM — Leftovers, Bus Schedules, and Locked Doors
+#### Story Crossroads — Delores Grabs Leo's Arms: Does Luna Explode and Throw Her Out? {#crossroads-sibling-weekend-2003}
 
-The rest of Sunday passed under the heavy, oppressive cloud left by the previous day's arguments and Delores’s continued attempts to control Leo and undermine Stella. Luna remained largely invisible, barricaded in her room or behind her MagnaByte screen. Stella navigated the hours, maintaining a strained civility for Leo’s sake.
+*This weekend was supposed to be just Leo, his twin sister Luna, and his older sister Stella—yet Delores hijacked the invite, shrieked at their printer, demanded Stella's legal guardianship, mocked Luna's Kaleidoscope Sun flute signal, and has just grabbed Leo's arms to yank him onto her lap. Both paths forward are complete, coequal stories (and shape Delores's upstream history in Jack & Sarah).*
 
-When dinnertime arrived, Stella simply pulled out the leftover spaghetti from the night before. Delores looked at the reheated pasta with barely concealed disdain. "Oh," she said. "Leftovers. How... quaint." The meal was quick and silent. Luna didn't emerge.
+*Select a Story Path below to jump directly to your chosen continuation:*
 
-As the evening drew to a close, Delores started thinking about their departure the next morning. "We should check the bus schedule," she announced, heading towards Stella’s computer, assuming they'd leave Monday as originally planned when Stella first proposed the visit.
-
-She pulled up the Coastal Virginia Transit Authority (CVTA) website and began scrolling through the schedules for Monday. Her face suddenly tightened in frustration. "Are you kidding me?" she muttered, reading the holiday alert banner. "Tomorrow's Columbus Day! They're running a *Saturday* schedule!"
-
-She quickly checked the specific routes needed for the multi-transfer journey from Norfolk back to Portsmouth, realizing the reduced frequency would make the already long trip even worse. Then she checked the connecting Route \#85 in Portsmouth, the one required for the short but necessary final leg from Churchland Shopping Center to their apartment area near Twin Pines and Gateway Drive. Her expression turned thunderous. "And the \#85 doesn't run *at all* on Saturdays! Unbelievable!"
-
-She briefly considered calling her mother for the short ride from Churchland, then remembered with annoyance, "Right, Mom's working the holiday shift tomorrow."
-
-Trapped by the bus schedule and her mother's unavailability for the crucial final leg, she was stuck. Stella, overhearing the commotion, walked over. "Problem?"
-
-"The stupid buses aren't running right tomorrow because of the holiday," Delores snapped. "The \#85 is completely offline."
-
-"Looks like you're stuck here until Tuesday then," Stella pointed out calmly. "Unless you want me to just drive you both back? We could leave whenever you want tomorrow morning, be there in thirty minutes."
-
-Delores shot Stella a venomous look. The thought of relying on Stella was clearly unthinkable, even if it meant spending another entire day and night in this house. "No," she snapped curtly. "Absolutely not. We are *not* getting back in the car with you or Luna. We'll wait for the regular weekday service, including the \#85, on Tuesday morning."
-
-Her stubborn refusal cemented their fate for another tense 24 hours. She stalked off towards Leo's room, calling his name. The familiar dread returned for Stella. The click of Leo's bedroom door locking echoed the finality of Delores's decision.
-
-A few minutes later, there was a soft knock on Stella's master bedroom door. Stella opened it to find Luna standing there, looking small and miserable, clutching her pillow.
-
-"Stella?" Luna whispered. "Can I... can I stay in here tonight? With you?" She looked towards Leo's closed door. " I can't sleep in my room. Knowing she's... *still here*... and in there. I just... I can't. "
-
-Stella pulled her into a hug. "Of course, you can. Come on in." They settled onto Stella's large king-sized waterbed.
-
-"I hate her so much, Stella," Luna finally whispered fiercely. "She's horrible to him..."
-
-"I know," Stella whispered back. "Believe me, I hated every second... This weekend... it just shows me how much worse it must be for him over there. We *have* to help him, Lu. But it has to be smart. It has to be when *he's* ready."
-
-They lay in silence for a few moments, the weight of the situation heavy between them. Stella shifted slightly, propping herself up on an elbow to look directly at Luna in the dim light.
-
-"Lu," she said quietly, her voice intense, capturing Luna’s full attention. "There's something else... something really, really important we need to talk about, just in case."
-
-Luna looked back, sensing the gravity in Stella's tone. "What is it?"
-
-"Have you ever heard of a collect call?" Stella asked.
-
-Luna frowned, thinking. The term sounded vaguely familiar, maybe something from an old movie, but she shook her head. "No. What is it?"
-
-"Okay," Stella took a breath, choosing her words carefully. "Normally, when you make a phone call, especially from a payphone, the person making the call pays for it, right?" Luna nodded. "Well, a collect call is the opposite. It's a way someone can make a call, usually through an operator, and have the person they are *calling* pay the charges instead."
-
-"Why would someone do that?" Luna asked, looking puzzled.
-
-"Usually," Stella explained, "it's because the person making the call doesn't have any money or coins on them. But for Leo..." she paused, meeting Luna's eyes significantly, "...it could also be an emergency way to reach us if something happens. If he's somewhere, maybe stranded, and can't use his own phone or device, or has no money... making a collect call might be his only option to get help."
-
-Stella continued, "Now, think about it - if something happened to his AAC device, like if it got broken or taken..." <aac>(Her voice tightened slightly at the thought)</aac> "...he wouldn't be able to just speak to the operator easily to set up that collect call. That's where something called a TTY might come in. Have you ever seen those special phones, sometimes near payphones in airports or public buildings, that have a keyboard and a little text screen?"
-
-Luna wrinkled her brow, then gave a hesitant nod. "Maybe? Like... for Deaf people?"
-
-"Exactly," Stella confirmed. "TTY stands for TeleTYpewriter. People who are Deaf or have trouble speaking use them to type messages back and forth over the phone line, usually with a relay operator helping. So, if Leo's AAC was broken, he might <aac>have</aac> to find one of those TTY phones to type his request for an emergency collect call to the operator. The operator would then type back to him on the little screen."
-
-She leaned closer, her voice dropping to an urgent whisper. "The reason I'm telling you *both* things – collect calls and TTYs – is this: If you ever get a call from an operator asking if you'll accept charges from Leo Porter, especially if they mention it's a TTY call, I need you to say yes. Immediately. Don't ask questions, don't worry about the cost... I don't care if it's three o'clock in the morning... You accept the charges. Always. Understand?"
-
-Luna stared back, the layers of potential emergency settling heavily. She nodded slowly. "Okay, Stella. I understand. Accept the charges from Leo. TTY or regular. Anytime. No matter what."
-
-"Okay," Stella affirmed, squeezing Luna's hand. "And remember the other part. If I'm not home when that call comes... after you accept the charges, you immediately tell the operator you need to make it a three-way call. Give them my cell number... and tell them to get me on the line *right away*... Ask the operator to add me to the call."
-
-Luna repeated, processing the steps. "Accept the call. Tell operator three-way. Call your cell."
-
-"Exactly," Stella confirmed. "Crucial I know right away."
-
-Luna nodded again, more firmly this time. "Got it."
-
-"Good," Stella nodded, relief mixing with the underlying fear that prompted the conversation. "I'm going to explain all this to him Tuesday morning too... So he knows all the ways he might be able to reach us if he ever needs help."
-
-The unspoken fear hung heavily between them. Another sleepless night stretched ahead, filled with worry for the boy behind the locked door down the hall.
-
-### Part 3: A Day Under Duress & Tuesday Morning Departure
-
-**Date:** 2003-11-01 at 10:00 America/Los_Angeles
-
-#### 10:00 AM — A Day Under Duress
-
-Monday – Columbus Day – dawned with the heavy weight of unspoken resentment settling even deeper over Stella's small house. Delores emerged late, clearly furious about being trapped there for another day due to her refusal to accept Stella's offer of a ride and the lack of the final \#85 bus route on the holiday schedule. She made her displeasure known through pointed sighs and a chilly demeanor that ignored both Stella and Luna completely, while simultaneously hovering possessively over Leo.
-
-Luna, sensing the volatile atmosphere, made herself scarce, retreating to her bedroom or the MagnaByte corner immediately after a brief, silent breakfast. Stella attempted to maintain a semblance of normalcy, tidying the kitchen and trying to focus on work she could do from home, but the tension was thick enough to cut with a knife. Delores commandeered the living room television, flipping through channels with bored annoyance, insisting Leo sit nearby where she could monitor him, effectively preventing him from joining Luna at the computers or having any private interaction with his sisters.
-
-Mid-afternoon, hoping Delores's frustration might have softened, Stella made one final attempt. "Delores," she said calmly, "I know you want to get back, and the buses aren't ideal tomorrow either. Are you *sure* I can't just drive you both over this afternoon or evening? It would really be no trouble."
-
-Delores barely glanced up from the TV. "No, Stella," she said flatly, her voice cold. "We already discussed this. We will take the *bus* tomorrow morning when the regular schedule resumes. We're fine here." The dismissal was absolute, reinforcing that her control over their method of departure trumped any logic or convenience.
-
-The rest of the day crawled by. The air remained thick with unspoken hostility. Delores kept Leo effectively tethered to the living room, while Luna stayed hidden away. Stella found herself retreating to her own bedroom frequently just to escape the suffocating atmosphere. Any brief interaction was strained and minimal. It was a long, miserable day spent simply waiting for Tuesday to arrive.
-
-That night, just like the previous one, there was a soft knock on Stella's door after Delores and Leo had retired behind the locked door of Leo's room. Luna stood there again, pillow in hand, her face etched with the strain of the day. Without a word, Stella let her in, and the two sisters sought refuge together again, the shared space a small comfort against the ongoing tension permeating their home. The forced extra day had only amplified the underlying conflict and solidified Stella's worry about the dynamic Leo was trapped in. Tuesday morning couldn't come soon enough.
-
-The rest of the day crawled by. The air remained thick with unspoken hostility. Delores kept Leo effectively tethered to the living room, while Luna stayed hidden away. Stella found herself retreating to her own bedroom frequently just to escape the suffocating atmosphere.
-
-Late in the afternoon, Stella saw the familiar, withdrawn look on Leo's face. She knew he needed his lifeline. She walked into the living room, her expression calm but resolute.
-
-"Luna," she said, catching her sister's eye. "It's time for Leo's call with Olivia. Can you take him into my bedroom, please? You can use the phone in there for some privacy."
-
-Luna nodded, grateful for the mission. As she moved to get Leo, Delores looked up from the TV, her face tightening. "A private call? Why do they need privacy?"
-
-"Because it's a conversation between best friends," Stella replied, her voice leaving no room for argument. She stood her ground in the living room, a silent sentinel, as Luna wheeled Leo into the master bedroom and firmly closed the door. Stella was keeping an eye on Delores.
-
-Delores watched them go, her eyes narrowing. She saw another phone on an end table across the room. A flicker of an idea crossed her face—the temptation to pick up the phone and listen in. She made a half-step towards it, but stopped. Stella was staring directly at her, her expression an icy, unreadable mask, but her gaze was a clear, unmistakable warning. One glare from Stella was all it took. Delores backed off, sinking back onto the sofa with a resentful huff.
-
-Stella decided to use this moment to make things unequivocally clear. She walked over and stood in front of Delores, her arms crossed. "Delores," she began, her voice low and matter-of-fact, "I think you're confused about my role in Leo's life. I'm not just his bossy older sister. I am his court-appointed legal guardian and conservator. That means a judge has given me the legal authority to make decisions about his health, his finances, and his well-being. It is my job to act as his safety net. My only goal is to make sure he is safe, happy, and protected."
-
-Delores stared back, her expression a mixture of anger and disbelief. She remembered her mother's warning, but hearing it from Stella, so calmly and with such absolute authority, was different. In Delores's mind, this wasn't about a safety net; it was about control. This piece of paper was just another tool Stella used to keep Leo away from her. She didn't respond, but her silence was a wall of resentful fury.
-
-Meanwhile, inside Stella's bedroom, Luna placed the cordless phone on the nightstand and pressed the speakerphone button. Leo, already holding his Quantum Communicator, felt a wave of relief. He listened to the dialing tones, then the rings, and then, Olivia's voice filled the room.
-
-The call lasted for a little over two hours. It was a meandering, wonderful conversation that was a lifeline for both of them. To communicate, Leo would type his thoughts on his Communicator, then hold the device up to the phone's microphone, letting the synthesized voice speak for him. He would then listen to Olivia's voice reply through the speakerphone, with Luna sitting quietly beside him with her arm around him, a supportive presence. It was a comfortable, practiced routine, his normal way of navigating a phone call.
-
-But for Leo, something was different today. He noticed a strange, new undercurrent in Olivia's voice. It was still her, still warm and kind, but beneath the sadness of missing him, there was a fierce, bright energy he couldn't quite place. It was a secret excitement, a hidden joy that made her words feel more vibrant, more hopeful. He couldn't understand it, but it was captivating.
-
-When they finally said their goodbyes, Leo felt a profound sense of peace. The call had recharged him. As he and Luna emerged from Stella's room, they saw Delores on the sofa, her face a mask of thunderous fury. She was not happy, but seeing Stella still standing watch, she did not dare question her authority again. The long, miserable day was almost over.
-
-The house grew quiet as the evening wound down. Delores, seeing the late hour, stood up and took hold of Leo's wheelchair handles with a possessive finality. "Time for bed, Leo," she announced, already turning him towards his bedroom.
-
-Leo looked back at his sisters, his expression a silent plea for a simple goodnight hug, but Delores didn't stop. She wheeled him past them and into his room without letting him hug his sisters goodnight. The click of the bedroom door closing, followed by the distinct sound of the lock turning, was a final, insolent act of control.
-
-Stella stood there, her face a mask of cold, quiet fury. She made a mental note, a silent vow forged in the fire of this disastrous weekend: Delores Mahone would never be allowed back in this house again. Leo, her brother, would always be welcome, would always have a home here. But Delores? Her access was now permanently revoked.
-
-She turned to Luna, who was watching the closed bedroom door with a look of pure, heartbroken anger. "Okay," Stella said, her voice a low, determined whisper. "That's it. We're done with this."
-
-She led Luna to the kitchen, putting a safe distance between them and Leo's closed door. "We need to start making plans for Thanksgiving," Stella stated, her voice leaving no room for argument. "He's not spending it with her. Leo is going to spend it with his family. End of discussion."
-
-The thought was a declaration of war, but it was one she felt ready to wage. She knew she had the legal power as his guardian to enforce it, to simply forbid him from seeing Delores. If she had to use her guardianship authority, then so be it. But a wave of doubt immediately followed. She remembered her own teenage years, the desperate need for independence, for her own life separate from her parents. She didn't want to be a warden, a controller. She didn't want Leo to ever feel resentful of her protection. The memory of the court battle, of fighting so hard to give him a better life, was a constant reminder that her goal was his freedom, not his confinement. No, she would not force the issue with a legal order, not yet. She would try to convince him, to show him a better way.
-
-Luna's head snapped up, a fierce, desperate hope in her eyes, completely unaware of Stella's internal conflict. She agreed instantly, her voice full of a longing that had been building for months. "Yes, Stel. Absolutely. I want my twin back home. Sooner rather than later." The decision was made: Leo was going to come home for Thanksgiving, come hell or high water.
+1. [**Luna Screams 'GET OUT!' & Reclaims the Sibling Weekend**](#crossroads-path-luna-throws-delores-out) — Luna erupts before Delores can touch Leo further, Stella backs her with full guardianship authority to throw Delores out for good, and the three siblings reclaim their weekend—skipping the four-day Pathfinder trip to Washington.
+2. [**Bank Their Fury & Endure Through Tuesday**](#crossroads-path-pathfinder-washington-ordeal) — Afraid of retaliation behind closed doors, Luna and Stella freeze, teach Leo the emergency TTY collect-call lifeline before Tuesday's bus, and fight across three thousand miles after the four-day Pathfinder trip to Washington.
 
 ***
 
-#### 7:00 AM — Tuesday Morning Departure
+# Story Path: Luna Screams 'GET OUT!' & Reclaims the Sibling Weekend {#crossroads-path-luna-throws-delores-out}
 
-Tuesday morning arrived, bringing the promise of departure and the resumption of the normal weekday bus schedule. Delores was clearly eager to leave, pacing impatiently near the front door while Leo finished getting ready. There was no time offered for a proper breakfast, nor any desired.
+*Luna erupts before Delores can touch Leo further, Stella backs her with full guardianship authority to throw Delores out for good, and the three siblings reclaim their weekend—skipping the four-day Pathfinder trip to Washington.*
 
-While Delores was gathering her own bag, Stella quickly went to the kitchen, grabbed a granola bar and a banana, and tucked them swiftly into the side pocket of Leo's backpack near the door, pointedly not packing anything for Delores.
+*[← Return to the Story Crossroads](#crossroads-sibling-weekend-2003)*
 
-As Leo came out of his room, Stella intercepted him. "Leo," she said quietly, nodding towards her bedroom where Luna was waiting anxiously on the edge of the bed. "Quick private word before you go. Luna's in there."
+# Reclaiming the Sibling Weekend
 
-Delores started to protest from the hallway ("Are you serious? The bus will be here!"), but Stella ignored her, guiding Leo into her room and firmly shutting the door, leaving Delores fuming in the hallway.
+## GET OUT! & Three Siblings Under One Roof
 
-Inside, the atmosphere was tense but focused. Luna sat anxiously on the edge of the bed. Stella quickly knelt beside Leo's chair so she was at his eye level.
+### Part 3: GET OUT!' — Throwing Delores Off the Porch & Locking the Door Forever
 
-"Okay, Leo," she began, speaking clearly and seriously, knowing they didn't have much time. "I needed to tell you something really important, just in case you ever need help and can't reach us easily."
+**Date:** 2003-10-11 at 17:10 America/New_York
 
-Leo looked at her intently, his hands resting near his AAC device.
+#### Saturday, October 11, 2003, 5:10 PM — "GET OUT!"
 
-"We talked about collect calls last night," Stella glanced briefly at Luna, who nodded confirmation. "Do you know what those are?"
+The wooden desk chair behind the MagnaByte Opus didn't just slide back—it crashed onto the carpet behind Luna's heels.
 
-Leo typed quickly on his device: NO. WHAT IS IT?
+All Friday afternoon in the back seat of the Holt Sentinel, all Friday night while Delores hogged the remote and complained about the pizza, all Saturday morning while Delores vetoed the Elizabeth River Trail, stalked Leo's phone call with Olivia, shrieked at their dot-matrix printer, told Stella to hand over Leo's legal guardianship, and mocked the *Kaleidoscope Sun* flute melody that belonged strictly to Luna and her twin—every single drop of poison had been stacking behind Luna's ribs like water pressing against a dam.
 
-"Okay," Stella explained concisely. "It's a way to make a call, usually from a payphone through an operator, where the person you are calling pays for it instead of you. It's important because if you were ever, say, stuck somewhere without any money, or..." she paused, her gaze becoming more intense, "...or if something happened to your device and you couldn't use it, it might be the only way to call us for help."
+Watching Delores clamp both hands around Leo's forearms to yank him out of his own wheelchair in front of them shattered the concrete in half a heartbeat.
 
-Leo's eyes widened slightly as he grasped the implication.
+"GET OUT!" Luna screamed at the top of her lungs, her voice tearing across the small living room with such raw, volcanic force that the framed record sleeves along the hallway wall seemed to rattle.
 
-"If that ever happens," Stella continued, "you dial 0 for the operator. Now, listen, if your AAC is broken, you might need <aac>another</aac> special kind of phone sometimes found near pay phones, especially in places like airports. It's called a TTY – looks like an old phone but with a keyboard and a small screen. It's for people who can't speak or hear well on a regular phone."
+Delores jumped backward as if she had touched a live wire, her hands jerking off Leo's sleeves in pure shock.
 
-Leo looked puzzled. He typed: TTY? LIKE AAC?
+Before Delores could even draw a breath to snap back, Luna crossed the carpet in three furious strides and planted herself squarely between Delores and Leo's footrests, her chest heaving, both fists trembling at her sides, her eyes blazing straight into Delores's face.
 
-"Not quite like yours," Stella explained quickly. "It's much simpler, just for typing back and forth, usually with an operator helping on the other end – they call it Relay. So, if your AAC was broken, you'd use the TTY keyboard to type to the operator, tell them you need an emergency collect call to me or Luna. They type back to you on the little screen, and they read what you type to us."
+"Don't you *dare* put your hands on my brother!" Luna shouted, every syllable ringing clear and ferocious off the ceiling. "This was supposed to be *our* weekend! Just Leo, me, and Stella! You invited yourself into our car, you stole his front seat, you insulted our house, you screamed at our printer, you tried to keep him off the phone with his best friend, and now you think you can grab him out of his chair right in front of us?! GET OUT OF OUR HOUSE!"
 
-She met his gaze firmly. "The most important part, Leo, for both collect calls and using a TTY with an operator, is that we will always, always accept the charges. No matter what. Luna knows this too."
+Delores's pale face flushed blotchy red with sudden, cornered fury. She looked straight past Luna toward the kitchen doorway, expecting the older, measured sister to step in, apologize for Luna's temper, and smooth everything back down the way polite people always did when Delores pushed them.
 
-Luna spoke up softly but firmly from the bed, "Always, Leo. We'll always accept."
+"Stella, are you seriously going to let your little sister scream in my face like a lunatic?!" Delores demanded shrilly, taking half a step back toward Leo's chair. "Leo and I are leaving—come on, Leo, get your backpack—"
 
-Leo looked from Stella to Luna, understanding the gravity of the lifeline they were giving him. He nodded slowly, then typed: OPERATOR CALL. YOU PAY. MAYBE USE TTY PHONE IF AAC BROKEN. OKAY. UNDERSTAND.
+Stella didn't scold Luna.
 
-"Exactly," Stella said, relief washing over her momentarily. She squeezed his arm. "Just remember those options, okay? Collect call, maybe using a TTY if you have to. It's your lifeline if you ever, ever need it."
+Drying her hands once on a dish towel and tossing it onto the counter, Stella walked into the living room and stood shoulder to shoulder beside Luna in front of Leo's wheelchair, her jaw set like granite.
 
-Just then, an impatient pounding sounded on the bedroom door. "Leo! Come on! The bus!" Delores yelled from the hallway.
+"Leo isn't going a single inch with you, Delores," Stella said, her voice quieter than Luna's scream and ten times colder. "Luna said every word I should have said in the parking lot yesterday afternoon."
 
-Stella sighed, the moment shattered. "Okay, buddy," she murmured, standing up and giving him a tight hug. "Be safe. Call us. You know how now."
+Delores blinked, stunned, before her lip curled in venomous disbelief. "Excuse me? He's my boyfriend, Stella! He lives with me and my mom in Portsmouth! You can't just—"
 
-Luna rushed forward, hugging him fiercely too. "Bye, Leo. Love you. Be careful."
+"Watch me," Stella cut her off flatly, reaching down beside the end of the sofa, grabbing Delores's zipped canvas overnight bag by both straps, and carrying it four paces to the front door. Pulling the heavy wooden door wide open to the crisp October twilight, Stella set Delores's bag squarely outside on the concrete porch stoop. "Read the Virginia Circuit Court order you were just lecturing me about five minutes ago, Delores. I am Leo's court-appointed plenary guardian and conservator, and this is my home. Leo's residential placement in Portsmouth ends right this second. He stays here with his sisters—permanently."
 
-Taking a deep breath, Leo nodded to them both before Stella opened the door, releasing him back into Delores's impatient orbit.
+Delores stared from her overnight bag on the stoop back to Leo, whose wide eyes were fixed on his two sisters standing like an unbreakable wall in front of his chair—the hollow, fearful tension in his shoulders suddenly giving way to stunned, dawning relief as he reached down and clicked both wheel locks tight with his own hands, shaking his head firmly at Delores before typing two clear words on his Quantum Communicator:
 
-Taking a deep breath, the three siblings emerged from Stella's bedroom. Delores was waiting, arms crossed, face thunderous. "Finished your little secret meeting?" she snapped.
+<aac>Go away.</aac>
 
-Stella ignored the bait. "Ready to go?"
+Hearing that synthesized voice back his sisters up broke the last shred of Delores's composure.
 
-"Yes," Delores said curtly. "We're taking the bus." She grabbed Leo's wheelchair handles possessively. Even though Stella could have driven them directly back to their apartment area in Portsmouth in under half an hour, Delores was adamant, preferring the known, lengthy, multi-transfer CVTA bus journey – likely involving at least two or three different buses through Norfolk, the Midtown Tunnel, and Portsmouth before potentially catching the short \#85 ride near the end – solely to avoid another moment under Stella's roof or in her car.
+"You're crazy—all three of you!" Delores hissed, her voice cracking with humiliated rage as she stalked toward the open doorway, glaring venomously at Luna and Stella. "You can't keep him locked up with his precious sisters forever! You're ruining everything we had!"
 
-Knowing the argument was futile, Stella knelt beside Leo's chair as Delores impatiently pushed him towards the door. "Okay, buddy," Stella murmured, giving him a tight hug. "Be safe. Call us. You know how now."
+"Step off my porch before I dial Virginia Beach Police for criminal trespass and file for an emergency protective order Monday morning," Stella answered without flinching, holding the door open with one steady arm. "The Saturday CVTA bus stops at the corner in twelve minutes. Do not call this landline, do not show up at his community college classes, and do not ever come near my brother again. Get out."
 
-Luna rushed forward, hugging him fiercely too. "Bye, Leo. Love you. Be careful."
+Snatching her overnight bag off the concrete stoop with a snarl that echoed down the quiet street, Delores spun on her heel and stormed down the front walk toward the corner bus stop without looking back.
 
-Delores watched the affectionate goodbyes with a look of pure resentment before pointedly pulling the wheelchair away. Stella and Luna stood in the doorway, watching as Delores maneuvered Leo down the ramp. They started heading down the sidewalk toward the nearest bus stop for the CVTA route that would begin their long, convoluted journey back across the water to Portsmouth.
+Stella swung the front door shut, turned the heavy brass deadbolt until it seated with a solid steel *clunk*, and slid the security chain into its track.
 
-Leo glanced back once, a silent, worried look passing between him and his sisters, before Delores urged him forward. The sisters remained there until Leo and Delores turned the corner and disappeared from view. The door closed, leaving the house quiet but heavy with the weight of the difficult weekend and the gnawing worry for Leo, heading back into Delores's suffocating control via a needlessly difficult bus trip.
+For two full seconds, the small house was completely, gloriously silent—no blaring sitcoms, no mocking sighs, no hostile eyes watching from the couch.
+
+Then Luna spun around, dropped straight to her knees beside Leo's wheelchair, and threw both arms fiercely around her twin brother's shoulders, burying her face against his flannel collar as hot tears of pure relief finally spilled over her eyelashes. Leo didn't hesitate for a millisecond—both of his arms came tightly around Luna, holding onto his twin sister as if he had just surfaced from deep underwater, before Stella knelt right down on the rug on his other side and wrapped both of them inside her arms together.
+
+### Part 4: A Brother, His Twin Sister, and His Older Sister — Vinyl Records & Clearing Out Portsmouth
+
+**Date:** 2003-10-11 at 18:30 America/New_York
+
+#### Saturday Evening, October 11 – Monday, October 13, 2003 — Just the Three of Us
+
+"Okay," Stella announced an hour later, clapping her hands once in the middle of the living room after opening two windows for ten minutes to air every trace of Delores's perfume clean out into the October breeze. "Official reset. Sibling Weekend starts right now—take two. What goes on the pizza?"
+
+From the MagnaByte desk, where Luna had already dragged her chair right back beside Leo's wheelchair so their elbows brushed, Luna grinned with pink cheeks and bright, shining eyes. "Extra pepperoni, Italian sausage, and zero complaints from the peanut gallery."
+
+Leo smiled—a real, unforced smile that reached all the way to his eyes for the first time in months—and tapped rapidly on his Quantum Communicator:
+
+<aac>And garlic knots. Then records?</aac>
+
+"Garlic knots and every single record in the crate," Stella promised warmly, reaching for the kitchen phone to call the pizzeria.
+
+For the next forty-eight hours through Sunday and all of Columbus Day Monday, Stella's small house in Virginia Beach felt like stepping back into warm sunlight after a cold eclipse. Nobody hovered in the kitchen doorway when Leo dialed Montréal after dinner; instead, Stella set the cordless phone on speaker right on the coffee table so Olivia could cheer out loud from six hundred miles north when Luna proudly recounted screaming *GET OUT!* across the living room and watching Stella drop Delores's bag onto the front stoop.
+
+"Good for you, Lu!" Olivia laughed warmly through the speaker, her voice practically glowing with relief as Leo beamed down at his communicator. "Enjoy every single minute together this weekend, *mon chum*—all three of you earned it."
+
+Later that night, with empty pizza boxes folded in the kitchen and rain pattering softly against the front windowpane, Stella lifted her cherished LP copy of Fractured Prisms' *...And Only Three Remained...* out of its sleeve and lowered the turntable needle smoothly onto the outer groove. As the warm keyboard intro of *Wherever You Go* filled the lamp-lit room, Leo transferred comfortably onto the long sofa cushions and stretched out on his back while Luna curled onto her side right beside him in their familiar, lifelong L-shaped twin anchor—resting her head squarely on his shoulder with his arm draped securely around hers while Stella curled up in the armchair across from them under a knit blanket with three mugs of hot apple cider.
+
+Nobody knocked nervously on Stella's bedroom door with a pillow at midnight, because nobody was locked away behind a closed door anymore. Nobody had to whisper emergency lessons about payphone collect calls or airport TTY terminals, because Leo wasn't going anywhere near an airport or a cross-country bus terminal alone. It was simply a brother, his twin sister, and his older sister—safe under one roof, laughing over homework on the loud dot-matrix printer without a single person covering their ears.
+
+***
+
+#### Tuesday, October 14, 2003, 9:30 AM — Twenty Clean Minutes in Portsmouth & Robyn's Fury
+
+At nine-thirty Tuesday morning—while Leo stayed comfortably at the dual MagnaByte desk in Virginia Beach beside Luna and Grandma Eleanor—Stella backed her blue Holt Sentinel into a visitor space outside Delores and Robyn Mahone's apartment building in Portsmouth right behind Grandpa Arthur's sedan and a marked Portsmouth Police cruiser assigned for a fifteen-minute civil standby.
+
+Standing in the open apartment doorway in her office blouse before her late shift, Delores's mother Robyn went rigid with mortification as neighbors glanced down the breezeway at the uniformed officer standing politely on the landing while Stella presented a certified copy of her Circuit Court guardianship order.
+
+"We're only here for Leo's clothes, textbooks, backpack, and computer disks, Ms. Mahone," Stella said crisply, walking straight past Delores—who stood sulking against the hallway wall with her arms crossed and murder in her eyes—into the spare corner where Leo's things sat neatly stacked. "Once Arthur and I carry these two boxes out, Leo will have zero further contact with Delores. If Delores approaches him at CCHR or comes anywhere near my home in Virginia Beach, my attorney is filing immediately for a permanent protective order."
+
+Inside nineteen minutes, Grandpa Arthur and Stella carried the second cardboard box down the stairs, thanked the officer with a polite handshake, and drove cleanly back through the Midtown Tunnel toward Virginia Beach without a single raised voice.
+
+Upstairs behind the slammed apartment door, Robyn rounded on her daughter with a look of pure, blistering venom—furious over the embarrassment in front of the neighbors and livid that Delores's reckless temper had just gotten her thrown out on her ear by Leo's sisters and cost them any hope of latching onto the Porter family's comfortable stability.
+
+Back across the river in Virginia Beach, however, neither Delores nor her mother crossed anyone's mind past noon. When Stella and Grandpa Arthur carried Leo's familiar backpack through the front door, Luna helped her twin unpack his textbooks right beside the MagnaByte Opus—home for good, with Thanksgiving, Christmas, and Olivia's arrival waiting just ahead.
+
+# The Unbroken Fortress, French Class, & Iron Point
+
+## Olivia Arrives Whole, Beginning French I, & Moving North to Iron Point
+
+### Thanksgiving in Peace, Beginning French I, Olivia Walker Porter, & Iron Point
+
+**Date:** 2003-11-27 at 14:00 America/New_York
+
+#### Thursday, November 27, 2003 – Spring 2004 — An Unbroken Voice, Poutine for Réveillon, & Four Desks in Beginning French I
+
+"Careful with the gravy boat, Lu—Leo's got prime corner real estate by the pie plate," Grandpa Arthur chuckled warmly at two o'clock on Thanksgiving afternoon as Grandma Eleanor set a steaming platter of roast turkey in the center of Stella's dining room table in Virginia Beach.
+
+Seated at the head of the table in his wheelchair—healthy, rested, and surrounded by Arthur, Eleanor, Stella, Luna, and the surprise guest who had flown south from Montréal the afternoon before to turn their family of three into the Fortress Four—Leo reached over with his left hand to squeeze Olivia's fingers while Luna leaned happily against his right shoulder.
+
+Because Luna had thrown Delores off their porch six weeks earlier on Columbus Day weekend, Leo had never spent four grueling November days trapped on a cross-country bus, never had his communicator shattered on a stranger's floor three thousand miles from home, and never spent a single terrified hour stranded at an airport payphone. His voice had stayed unbroken from start to finish. When Stella, Arthur, and Olivia surprised him two weeks before Christmas with a brand-new ruggedized laptop mounted on a custom scissor arm—retiring his older handheld communicator to an honored spot on the bookshelf solely as an upgrade rather than an emergency replacement—Leo typed his very first sentence in his clear, customized voice with all five of his favorite people cheering around the living room:
+
+<aac>Welcome home to the Fortress, Olivia.</aac>
+
+By late December, Stella and Olivia had gone into full culinary logistics mode—ordering fresh, squeaky Québec cheese curds shipped overnight on ice so all six of them could celebrate a joyful Christmas Eve *Réveillon* with authentic homemade poutine after watching Luna and Leo open their winter gifts. Come January 2004, Stella, Luna, Olivia, and Leo rolled into the Norfolk campus of the Community College of Hampton Roads side by side as classmates enrolled together in *Beginning French I*, practicing *Joyeux Noël* and Metropolitan vs. Québécois phrasing around the dinner table every weeknight without a single shadow hanging over the parking lot where Delores had once stood.
+
+***
+
+#### Friday, September 17, 2004 & Beyond — Ms. Olivia Walker Porter & The Road North to Iron Point
+
+On Friday morning, September 17, 2004, the polished oak benches of Virginia Beach Circuit Court held zero bitter lawsuits, zero shattered medical exhibits, and zero sight of Delores Mahone.
+
+Instead, the only matter on the family's docket that morning was pure joy. Standing calm and radiant before the bench with Stella, Luna, and Leo beaming from the front row right behind her, Olivia Marie Walker listened as the judge signed and sealed the final court order legally binding her name to the man she loved: *Olivia Walker Porter*. That Saturday afternoon, surrounded by flowers, French toasts, and Luna's music, Leo and Olivia celebrated their lifelong commitment in the sunlit warmth of home.
+
+When Grandpa Arthur and Grandma Eleanor later passed away peacefully—leaving their wisdom, their blessing, and the means to build a permanent sanctuary where no outsider or intrusive stranger could ever misread Luna and Leo's innocent twin closeness—Stella, Olivia, Luna, and Leo spread architectural blueprints across the dining table, boarded the northbound ARTS train with Leo's powerchair secured cleanly in the accessible coach bay, and built their gated coastal home overlooking the water in Iron Point, Rhode Island: four people, one unbroken Fortress, and a life reclaimed the afternoon a twin sister stood up from her computer desk and refused to let anyone hurt her brother again.
+
+***
+
+*End of Story Path: Luna Screams 'GET OUT!' & Reclaims the Sibling Weekend. [← Return to the Story Crossroads](#crossroads-sibling-weekend-2003)*
+
+# Story Path: Bank Their Fury & Endure Through Tuesday {#crossroads-path-pathfinder-washington-ordeal}
+
+*Afraid of retaliation behind closed doors, Luna and Stella freeze, teach Leo the emergency TTY collect-call lifeline before Tuesday's bus, and fight across three thousand miles after the four-day Pathfinder trip to Washington.*
+
+*[← Return to the Story Crossroads](#crossroads-sibling-weekend-2003)*
+
+# The Delores Nightmare
+
+## The Hijacked Plan
+
+### Part 3: A Forceful Kiss, Locked Doors, & Tuesday Morning Departure
+
+**Date:** 2003-10-11 at 17:15 America/New_York
+
+#### 5:15 PM — A Forceful Kiss, Leftovers, Bus Schedules, and Locked Doors
+
+Despite Leo's internal alarm and a subtle tensing, Delores's grip on his arms was unyielding. With surprising force that brooked no argument, she maneuvered him out of his wheelchair, pulling him onto the sofa and onto her lap so his back was partially turned to his sisters. He felt instantly trapped, overpowered, and nauseated.
+
+Delores's arms snaked around his waist, holding him tight against her while her other hand tilted his chin up in a blatant display of ownership aimed straight at Luna and Stella. "You're so quiet tonight, baby. Tired from all that... 'homework'?"
+
+Leo tensed further, offering a tiny, forced nod, desperate not to draw Delores's anger onto Luna.
+
+"Poor thing," Delores crooned, her eyes cold and triumphant as they flicked toward the kitchen doorway where Stella stood frozen. "Maybe you just need some proper affection to cheer you up."
+
+Before Leo could pull back, Delores pressed her mouth hard and demanding against his—an invasive, suffocating display of possession rather than affection—before shifting to his cheek with a sharp, scraping bite that brought involuntary tears stinging to his eyes while her fingers held his chin like a vise.
+
+When Delores finally drew back and ran a possessive hand through his trembling hair, she looked straight at Stella and Luna with an insolent challenge. "There. All better now, aren't you, baby? He just needs to know who takes care of him. Who he belongs to."
+
+Roughly, she guided him back into his wheelchair. Both Stella and Luna stood frozen in shared, horrified rage at the angry red mark blooming across Leo's pale cheek—their knuckles white, yet terrified in that sickening moment that any outburst from them right now would only bring worse retaliation down on Leo behind a locked door back in Portsmouth.
+
+The rest of Sunday passed under an oppressive cloud. At dinner, Stella served reheated spaghetti while Luna stayed in her room. Afterward, assuming they would leave Monday morning as originally planned, Delores walked over to Stella's computer to pull up the Coastal Virginia Transit Authority schedules—only for her face to tighten at the holiday banner.
+
+"Are you kidding me?" Delores muttered. "Tomorrow's Columbus Day! They're running a Saturday schedule—and the Route 85 in Portsmouth from Churchland Shopping Center to Twin Pines and Gateway Drive doesn't run at all on Saturdays! And Mom's working the holiday shift tomorrow."
+
+"Looks like you're stuck here until Tuesday then," Stella pointed out evenly, "unless you want me to drive you both back tomorrow morning in thirty minutes."
+
+"Absolutely not," Delores snapped. "We are *not* getting back in the car with you or Luna. We'll wait for the regular weekday service on Tuesday morning."
+
+Minutes after the lock clicked shut on Leo's bedroom door for the night, a soft knock sounded at Stella's master bedroom. Luna stood in the hallway clutching her pillow, her face small and miserable. "Stella? Can I stay in here tonight with you? Knowing she's still here... I just can't."
+
+"Of course you can," Stella whispered, pulling her sister onto the king-sized bed. After holding Luna while she whispered how fiercely she hated what Delores was doing to her twin, Stella propped herself up on one elbow in the dim light.
+
+"Lu, there's something really important we need to talk about, just in case," Stella murmured urgently, explaining step by step how an operator-assisted collect call worked—and how, if Leo's AAC device were ever taken or broken somewhere far from home, he might have to use a public TTY keyboard phone through a Relay operator. "If you ever get a call from an operator asking to accept charges from Leo Porter—especially a TTY call, even at three in the morning—you say yes immediately, and if I'm not home, tell the operator to add my cell phone as a three-way call right away. Understand?"
+
+"Accept the call. Tell operator three-way. Call your cell," Luna repeated firmly, nodding in the dark.
+
+***
+
+#### Monday, October 13 & Tuesday, October 14, 2003 — A Day Under Duress & Tuesday Morning Departure
+
+Columbus Day Monday crawled by under thick, unspoken hostility as Delores refused Stella's afternoon offer of a ride and kept Leo tethered beside the living-room television. Late that afternoon, Stella walked in with quiet, unmovable resolve.
+
+"Luna, it's time for Leo's call with Olivia," Stella announced. "Take him into my bedroom so they have privacy."
+
+When Delores glared toward the end-table extension phone, Stella crossed her arms squarely in front of her. "Delores, I think you're confused about my role in Leo's life. I am not just his older sister—I am his court-appointed legal guardian and conservator. A judge gave me legal authority over his health, his finances, and his safety."
+
+Inside Stella's closed bedroom, sitting beside Luna's comforting arm, Leo typed through his Quantum Communicator into the speakerphone for two restorative hours with Olivia—catching a bright, hopeful secret energy beneath Olivia's warm voice that brought him genuine peace until Delores spitefully wheeled him straight past his sisters without a goodnight hug and locked the bedroom door once more. Out in the kitchen, Stella whispered a fierce vow to Luna: Delores Mahone would never set foot inside this house again, and come Thanksgiving, they were bringing Leo home.
+
+At seven o'clock Tuesday morning, while Delores paced impatiently in the hall with her bag, Stella tucked a granola bar and a banana into Leo's backpack and pulled Leo briefly into her bedroom alongside Luna. Kneeling at eye level beside his wheelchair, Stella taught Leo the exact emergency lifeline: dialing *0* for an operator collect call, finding a public TTY keyboard phone if his AAC device were ever broken, and knowing with absolute certainty that Stella and Luna would accept the charges any hour of the day or night.
+
+<aac>Operator call. You pay. Maybe use TTY phone if AAC broken. Okay. Understand,</aac> Leo typed, nodding earnestly before Delores pounded on the door yelling about the bus.
+
+Minutes later, after Stella and Luna wrapped Leo in tight goodbye hugs at the threshold, Delores yanked his wheelchair handles down the ramp toward the CVTA stop to begin the long multi-bus transfer back across the water to Portsmouth—Leo glancing back once over his shoulder at his two sisters before disappearing around the corner.
 
 ## The Trip Proposal
 
@@ -23219,4 +23220,8 @@ Leo looked at her. He raised his hand for a high-five.
 "I can," Maya said, unbuckling. "I really can."
 
 "Good," Stella said. "Now let's go inside. I'm buying you a Colossal Cooler to celebrate. You're officially a Rhode Island driver."
+
+***
+
+*[← Return to the Story Crossroads](#crossroads-sibling-weekend-2003)*
 
