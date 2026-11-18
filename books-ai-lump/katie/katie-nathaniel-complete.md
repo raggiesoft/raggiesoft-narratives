@@ -2787,14 +2787,14 @@ And at the exact same second, right underneath that relief, a cold, instinctive 
 
 *Select a Story Path below to jump directly to your chosen continuation:*
 
-1. [**Accept Heather's Apology & Welcome Her Back**](#crossroads-path-accept-heather-virginia) — Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour CCHR, VDU, and Warwick University together as a team, marry Heather, and rescue both Brittany and Chelsea.
+1. [**Accept Heather's Apology & Welcome Her Back**](#crossroads-path-accept-heather-virginia) — Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour nine Virginia campuses together for Wesley, marry Heather, and rescue both Brittany and Chelsea.
 2. [**Say No to Dating, Yet Meet Once for Wesley**](#crossroads-path-wesley-aide-bridge) — Hold the romantic boundary, yet meet off Route 15 at Emerald Creek Mall on June 28 as Wesley's driver and aide so Wesley keeps his buddy bridge across thirteen hundred miles.
 
 ***
 
 # Story Path: Accept Heather's Apology & Welcome Her Back {#crossroads-path-accept-heather-virginia}
 
-*Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour CCHR, VDU, and Warwick University together as a team, marry Heather, and rescue both Brittany and Chelsea.*
+*Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour nine Virginia campuses together for Wesley, marry Heather, and rescue both Brittany and Chelsea.*
 
 *[← Return to the Story Crossroads](#crossroads-pavilion-apology-2003)*
 
@@ -2888,151 +2888,197 @@ Brandon looked once from Wesley's broad shoulders to Heather's unyielding face t
 
 The second the deadbolt clicked shut behind him, Wesley unfolded his arms, let out a proud two-note hum, and held out his knuckles; Katie, Heather, and I all laughed out loud in unison as I bumped Wesley's fist twice, safe inside a four-person home where nobody would ever back either of us into a corner or make us sleep behind a locked closet door.
 
-## Touring CCHR, VDU, Warwick University, & Saying No at Redmond Hall
+## Nine Campuses for Wesley: Tidewater, Northern Virginia, Winchester, Redmond Hall, & CPI
 
-### Part 1: Touring CCHR, VDU, and Warwick University for Wesley & Route 112 NNTC at Shoe Lane
+### Part 1: Stops One Through Four for Wesley: CCHR, VDU, Warwick University Beside 112 NNTC, & Charles & Anne
 
-**Date:** 2005-10-15 at 09:15 America/New_York
+**Date:** 2005-10-15 at 09:00 America/New_York
 
-#### Saturday, October 15, 2005, 9:15 AM — Stop One for Wesley: Quiet Keyboards at the Community College of Hampton Roads
+#### Saturday, October 15, 2005, 9:00 AM — Stops One and Two in Norfolk: CCHR & Virginia Dominion University
 
-"No rush at all, Wes—take as long as you want to test the chair and listen to the room," twenty-year-old Heather said warmly beside the open oak door of the Workforce and Inclusive Transition Lab on the Norfolk campus of the Community College of Hampton Roads, holding her laminated four-campus checklist flat at chest height so eighteen-year-old Wesley could see the little hand-drawn building icons himself.
+"Nine Virginia campuses on one laminated clipboard, zero glossy-brochure sales pitches, and Wesley holds the marker," twenty-year-old Heather announced cheerfully at nine o'clock on a crisp mid-October Saturday morning outside the Workforce and Inclusive Transition Lab on the Norfolk campus of the Community College of Hampton Roads.
 
-Katie, Heather, and I already knew where the three of us were headed for our bachelor's degrees in the fall. Having finished nearly every credit of our two-year associate degrees side by side at CCHR—Katie and I in computer science, and Heather in her pre-teaching education core—all three of us already held Guaranteed Transfer admission letters to Virginia Dominion University five minutes from our Norfolk apartment.
+As Katie, Heather, and I neared the finish line of our lower-division associate coursework, all three of us were weighing where to transfer next fall—Katie and I for upper-division software engineering, and Heather for her Special Education teaching license—at the exact same time eighteen-year-old Wesley was preparing to transition out of high school into an adult campus-life and community-readiness program. Because wherever Katie and I went, we went together, and wherever Heather went, Wesley went with her, none of us had made up our minds in advance. Instead of picking a college off a tuition chart behind Wesley's back, the four of us had mapped out three autumn weekends across the Commonwealth so Wesley could walk and hear every single campus for himself.
 
-Today wasn't about our transcripts. Today was one hundred percent for Wesley's sake.
+Stepping unhurriedly across the low-pile carpet of CCHR's Norfolk transition lab in his sky-blue polo shirt and khakis, six-foot-tall Wesley turned his smooth blue silicone ring twice between his left thumb and forefinger and studied the row of matte-screen workstations. Slipping a pair of cushioned noise-dampening headphones carefully over his sandy-reddish-blond hair when I gestured toward the end desk, Wesley tapped through a sample visual-schedule lesson and gave a calm one-note hum—comfortable with the quiet lab itself, even if the narrow commuter hallways outside got tight whenever classes let out at once.
 
-Now that Wesley had turned eighteen and entered his final high-school transition years, half a dozen school caseworkers had tried to hand Heather glossy brochures and expect her to sign enrollment forms behind a closed conference-room door without Wesley ever seeing the buildings. Heather, Katie, and I had refused on principle. If a campus was going to ask Wesley to spend his weekdays inside its walls learning life skills, assistive typing, and job readiness, Wesley deserved to walk its sidewalks, hear its hallways, test its chairs, and tell us with his own two hands how each place made him feel.
+By quarter to eleven, Heather had driven our group ten minutes west to Stop Two along Hampton Boulevard: Virginia Dominion University.
 
-Stepping unhurriedly across the low-pile carpet of the CCHR transition lab in his sky-blue polo shirt and khaki chinos, six-foot-tall Wesley turned his smooth blue silicone ring twice between his left thumb and forefinger and studied the row of wide, matte-screen computer stations. Unlike the noisy main student lounge down the hall, the morning sunlight slanting through the vertical blinds was soft and steady, without a single flickering fluorescent tube overhead.
+Rolling hub to hub with Katie down the wide, flat light-gray concrete plaza of Dominion Mall beneath live oaks and crape myrtles—past contemporary buff-brick and blue-tinted glass buildings without a single curb step in sight—we followed Heather through the automatic sliding doors of the education building to peek inside the quiet assistive-communication clinic and student transition lounge. Eighteen-year-old Wesley paused by the wide first-floor window looking back toward Hampton Boulevard, visibly relaxing his shoulders as Saturday study groups strolled past on the wide concrete mall without staring at our wheelchairs or crowding his elbow, before tapping a neat check mark beside Stop Two so we knew he had seen everything he wanted to see.
 
-Rolling my black SwiftChair quietly up beside the end desk while Katie parked flush on my left with her right hand resting in mine, I tapped the cushioned earcup of a pair of noise-dampening headphones plugged into the oversized color-coded keyboard.
+Back at the accessible bay in Lot 12, Heather clicked the four-point floor tie-downs snug around Katie's and my SwiftChair frames inside the lowered channel of her used silver side-ramp minivan and topped off four paper cups from her apple-cider thermos.
 
-"Same quiet lab corridor right down from where Katie and I wrote our data-structures projects last spring, Wes," I told him at an easy, conversational volume. "Go ahead and try the headphones if you want."
+"Southside Norfolk stops done," Heather smiled, buckling Wesley into the front passenger bucket seat before sliding behind the wheel. "Now we head across the harbor tunnel for our two Peninsula stops—Warwick University in Newport News first, and the College of Charles and Anne up in Williamsburg before supper."
 
-Wesley slipped the padded headband carefully over his sandy-reddish-blond hair, pressed the large green touch-pad arrow twice to advance a sample community-schedule screen, and let out a pleased, low one-note hum before setting the headphones neatly back on their hook and tapping the top box on Heather's laminated sheet—a solid, comfortable thumbs-up for Campus One, even if the bustling commuter hallways outside felt a little cramped whenever class bells changed.
+"Honestly, having you drive us across the water today is a lifesaver, Heather," Katie called forward over the hum of the tires as our minivan merged north onto Interstate 64 toward Willoughby Spit and dipped into the bright sodium-lit underwater tube of the Hampton Roads Bridge-Tunnel. "Ask Nate and me anything about Southside CVTA transfers from Virginia Beach Boulevard down to Emerald Creek Mall and we can recite every timepoint in our sleep, except the second you cross north of the harbor into Hampton and Newport News, neither one of us knows a single Peninsula bus route."
 
-***
+"Not one," I agreed with a laugh beside my sister, lacing my left fingers comfortably through Katie's right hand as we climbed back out into bright Peninsula sunshine past Fort Monroe and Mercury Boulevard. "Southside route numbers start in the single digits and twenties; up here everything is in the hundreds, and Katie and I have never once had a reason to ride a bus on this side of the water."
 
-#### Saturday, October 15, 2005, 11:05 AM — Stop Two for Wesley: Sunlit Brick & Five Minutes From Home at Virginia Dominion University
-
-"Five minutes door to door from our own hallway, Wes, and zero highway ramps in between," Katie smiled fifty minutes later as the four of us rolled and walked out onto the wide, sunlit concrete-and-brick pedestrian mall of Virginia Dominion University off Hampton Boulevard.
-
-All around us, crisp mid-October sea air rustled through the sycamore leaves along the open quad while Saturday study groups strolled past with backpacks slung over one shoulder—nobody staring at Katie's and my twin powerchairs, nobody crowding Wesley's personal space, and plenty of room across the twenty-foot walkway for all four of us to move abreast as a single unit.
-
-Leading us through the wide automatic glass doors of the Darden College of Education building, Heather guided Wesley down a calm first-floor corridor lined with tactile bulletin boards to the inclusive literacy and assistive-communication clinic where she would begin her Adapted Curriculum Special Education practicum next semester. Inside the demonstration classroom, low round oak tables sat arranged beside soft indirect floor lamps, visual picture schedules, and a quiet corner reading nook stocked with weighted lap pads.
-
-Eighteen-year-old Wesley stood in the doorway for ten full seconds taking in the warm wood grain and the calm silence, his shoulders dropping a full inch lower than they had been at the community college. Walking straight over to the visual schedule board, he traced two fingers lightly over the laminated *Home Bus / Family Pick-Up* icon, looked straight back through the wide window toward Hampton Boulevard—recognizing the exact tree-lined stretch of road five minutes from his own quiet bedroom—and broke into a relaxed, genuine grin.
-
-"Yeah, buddy, I noticed that too," I laughed softly, bumping my knuckles twice against Wesley's outstretched fist while Heather beamed from ear to ear beside my right armrest. "If you ever have an afternoon where a fire drill gets too loud or you just want your own pillow, home is five minutes straight down the street."
-
-Back out at the accessible parking bay in Lot 12, as Heather clicked the four-point floor tie-downs snug around Katie's and my SwiftChair frames inside the lowered channel of her silver side-ramp minivan and poured warm spiced apple cider from a thermos into four paper cups, she held up the laminated checklist so Wesley could see the two remaining boxes below CCHR and VDU.
-
-"Two Norfolk campuses checked off, Wes," Heather said cheerfully, buckling Wesley into the front passenger bucket seat before sliding behind the steering wheel. "Now we head across the harbor tunnel up to Newport News so you can see Warwick University this afternoon—and then next Saturday we drive out west into the Shenandoah Valley to look at that residential state center your school transition coordinator asked us to check out, just so you've seen every single option in Virginia fair and square before you pick."
-
-"Honestly, having you drive us across the water today is a lifesaver, Heather," Katie called forward over the hum of the tires as our minivan merged north onto Interstate 64 toward Willoughby Spit and dipped into the bright golden sodium-lit tube of the Hampton Roads Bridge-Tunnel beneath the shipping channel. "Ask Nate and me anything about Southside CVTA transfers from Virginia Beach Boulevard down to Emerald Creek Mall and we can recite every timepoint in our sleep, except the second you cross north of the harbor into Hampton and Newport News, neither one of us knows a single Peninsula bus route."
-
-"Not one," I agreed with a grin from my tied-down SwiftChair beside my sister, lacing my left fingers comfortably through Katie's right hand as the minivan climbed back out into bright Peninsula sunshine past Fort Monroe and Mercury Boulevard. "Southside route numbers start in the single digits and twenties; up here everything is in the hundreds, and Katie and I have never once had a reason to ride a bus on this side of the water."
-
-"That's why teams have drivers *and* Southside route encyclopedias," Heather laughed in the rearview mirror, signaling cleanly onto Jefferson Avenue and turning west toward U.S. Route 60 and State Route 312 into the leafy heart of Newport News. "Hold onto your pretzel bag, Wes—Campus Three coming right up."
+"That's why teams have drivers *and* Southside route encyclopedias," Heather grinned in the rearview mirror, signaling cleanly onto Jefferson Avenue and turning west toward U.S. Route 60 and State Route 312 into Newport News. "Hold onto your pretzel bag, Wes—Stop Three coming up on the right."
 
 ***
 
-#### Saturday, October 15, 2005, 1:45 PM — Stop Three for Wesley: Warwick University & Route 112 NNTC at the Shoe Lane Roundabout
+#### Saturday, October 15, 2005, 1:45 PM — Stop Three at Warwick University Beside 112 NNTC & Stop Four on the Uneven Colonial Bricks of Charles & Anne
 
 ![On a sunny October 2005 afternoon along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, twenty-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while twenty-year-old Heather stands warmly beside Nate's chair and eighteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate.]({{CDN}}/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg)
 
 "Look at the brickwork on this quad compared to Hampton Boulevard," Katie marveled softly at a quarter to two, easing her SwiftChair hub to hub beside mine along the wide, barrier-free herringbone red-brick walkway curving past Warwick University's stately Neo-Georgian academic hall—its tall white Doric columns and crisp white rooftop cupola gleaming behind a canopy of golden-orange October oak leaves.
 
-For the past hour, Warwick University's inclusive transition liaison had walked the four of us at an unhurried, respectful pace through the campus's small-group seminar rooms, landscaped central lawn, and sunlit dining commons—speaking directly to Wesley at eye level rather than talking over his head to Heather. Now, with a brown paper bakery bag of warm salted soft pretzel bites tucked securely in Wesley's left hand beside his blue silicone ring, the four of us strolled out toward the sunny campus perimeter where Shoe Lane met State Route 312 at a circular brick-and-flowerbed roundabout.
+For nearly an hour, Warwick University's transition liaison had walked the four of us at an unhurried, respectful pace through small-group seminar rooms and the sunlit dining hall—speaking directly to Wesley at eye level rather than talking over his head to Heather. Now, with a brown paper bakery bag of warm salted soft pretzel bites tucked securely in Wesley's left hand beside his blue silicone ring, we strolled out toward the sunny campus perimeter where Shoe Lane met State Route 312 at a landscaped circular roundabout.
 
 At the low rumble of a diesel engine easing counterclockwise around the central flowerbed island, Wesley's ears perked up instantly.
 
 Exiting the roundabout cleanly down the approach lane to our left—its right-side passenger boarding doors tracking smoothly along the outer concrete curb—rolled a clean blue-and-silver Coastal Virginia Transit Authority low-floor coach, its rectangular amber LED destination header glowing crisp and bright above the windshield: <led>112 NNTC</led>.
 
-Wesley beamed from ear to ear, lifted his chin toward the glowing amber sign, and let out a happy, rising two-note vocal hum so I wouldn't miss it.
+Wesley beamed from ear to ear, lifted his chin toward the glowing amber sign, and let out a happy, rising two-note vocal hum so I wouldn't miss it before reaching his right fist straight across to bump my knuckles.
 
-"Good eye, Wes—Route 112!" I smiled, glancing curiously at the four uppercase letters beside the route number as the Peninsula bus glided past the brick crosswalk. "What does *NNTC* stand for up here, Heather?"
+"Good eye, Wes—Route 112!" I smiled, glancing curiously at the four uppercase letters beside the route number as the Peninsula coach glided past the crosswalk. "What does *NNTC* stand for up here, Heather?"
 
-"Newport News Transit Center—the main downtown Peninsula transfer hub down at Thirty-Fifth Street and Washington Avenue by the shipyard," Heather explained easily, walking right beside my right wheel in her navy varsity cardigan with her van key fob tucked neatly in her pocket. "All the Peninsula hundred-series routes—the 112 here at the Shoe Lane roundabout, plus the 106 and 107 over on U.S. Route 60—funnel down to Thirty-Fifth and Washington."
+"Newport News Transit Center—the main downtown Peninsula transfer hub down at Thirty-Fifth Street and Washington Avenue by the shipyard," Heather explained easily, walking right beside my right wheel in her navy varsity cardigan. "All the Peninsula hundred-series routes—the 112 here at the Shoe Lane roundabout, plus the 106 and 107 over on U.S. Route 60—funnel down to Thirty-Fifth and Washington."
 
-"File that away in case we ever audit Peninsula routes one day, Nate," Katie teased lightly beside me, grateful in the warm October breeze that the downtown Newport News transfer hub was nothing more to either of us than four glowing amber letters on a sunny Saturday campus walk. Looking up at Wesley with a warm smile, Katie nodded toward his pretzel bag. "Pretty campus, isn't it, Wes? Even with thirty minutes of bridge-tunnel traffic in between."
+Thirty-five minutes later, after climbing back into the minivan and driving twenty-five miles farther west up Interstate 64 into historic Williamsburg for Stop Four at the College of Charles and Anne, the contrast underneath our wheelchair casters couldn't have been sharper.
 
-Chewing a warm bite of salted pretzel while the 112 hummed away down the tree-lined street, eighteen-year-old Wesley looked appreciatively back at the white Neo-Georgian columns, gave a polite little nod for the pretty brick lawn, and still kept one finger resting thoughtfully over the Virginia Dominion University sketch from five minutes away in Norfolk—before reaching his right fist straight across to my armrest.
+Beneath towering, centuries-old gnarled oaks draped in late-afternoon shadow, the ancient campus of Charles and Anne looked like an oil painting out of the seventeen-hundreds—and rode like a washboard road. Within fifty yards of turning onto the historic sunken courtyard path, three-hundred-year-old handmade clay bricks heaved up by massive tree roots had both Katie's and my front SwiftChair casters chattering and rattling so hard our knuckles bounced against our armrests. Half the brick academic halls flanking the green sat behind worn slate steps with narrow colonial doorways and tiny retrofitted side lifts tucked down dim basement service alleys.
 
-Laughing together in the golden October sunshine, Heather smiled warmly beside me, Katie laced her left hand tighter through mine, and I reached up to bump Wesley's knuckles twice—three local colleges seen through Wesley's own eyes, and just one final Saturday drive out to the Shenandoah Valley left before Wesley made his choice official.
+Without anybody prompting him, eighteen-year-old Wesley stopped dead beside an uneven ridge of sunken brick, looked straight down at Katie's vibrating footrests, frowned deeply in loyal concern for his friends, and gave one firm side-to-side shake of his head before pointing back toward Heather's van.
 
-### Part 2: Redmond Hall, Gender-Separated Dorms, & Why Heather Is Wesley's Safe Person
+"Couldn't have summed up seventeenth-century masonry better myself, Wes," Katie laughed warmly, reaching up to pat Wesley's forearm as we carefully turned our chairs back toward the level parking lot—four stops down on Wesley's nine-campus tour, and five more across Richmond, Northern Virginia, and the mountains waiting over the next two weekends.
 
-**Date:** 2005-10-22 at 13:15 America/New_York
+### Part 2: Stops Five Through Seven: West Broad Street at CVU, Ring Roads at George Wythe, & Cutting Northern Valley's Open House Short
 
-#### Saturday, October 22, 2005, 1:15 PM — Fluorescent Halls in Fishersville & Stopping Outside Redmond Hall
+**Date:** 2005-10-22 at 09:30 America/New_York
 
-"Right down this covered walkway are our residential dormitories, folks—we're very proud of how structured our twenty-four-hour campus supervision is here at Roosevelt Rehabilitation Center," the admissions outreach coordinator said briskly over her shoulder, tapping a laminated badge against her clipboard as her low heels clicked across the scuffed green-and-white terrazzo floor of the Bates-Harding Building.
+#### Saturday, October 22, 2005, 9:30 AM — Stop Five in Richmond & Stop Six in Fairfax: City Sirens at CVU & Traffic Jam Miles to George Wythe
 
-Three hours of driving west up Interstate 64 past Richmond, Charlottesville, and the autumn-gold crest of Afton Mountain had brought the four of us down into Fishersville solely because Wesley's high-school transition caseworker had pressed a glossy state brochure into Heather's hand back in September, insisting that no Virginia family should rule out the Commonwealth's flagship residential vocational center without taking the Saturday tour. True to our word from last weekend in Norfolk and Newport News, Heather had packed our thermoses of hot chocolate and apple juice into her silver side-ramp minivan so eighteen-year-old Wesley could judge the place with his own eyes.
+"Watch the crosswalk countdown timer here—West Broad Street doesn't mess around on a Saturday morning," I called lightly over the rumble of six lanes of downtown Richmond traffic as Katie, Heather, Wesley, and I waited at the curb cut beside Monroe Park on the urban campus of Central Virginia University.
 
-Within five minutes of rolling off the parking lot ramp onto the sprawling 1960s and 1970s red-brick complex—built across former World War II Army hospital grounds where fluorescent ceiling troffers buzzed overhead and antiseptic floor wax hung sharp in the corridor air—Katie and I had already traded two quiet, uneasy squeezes across our inner SwiftChair armrests.
+For Katie and me as dedicated transit nerds, rolling past a downtown James River Transit Commission Route 6 bus shelter every two blocks along West Broad Street had an undeniable metropolitan energy—wide city sidewalks, rowhouses converted into academic departments, and urban crosswalk ramps at every corner.
 
-Nothing here looked or felt like a college campus.
+For eighteen-year-old Wesley, however, Stop Five came with a wall of unbroken city noise.
 
-Passing the flat-roofed brick entrance of Barton Hall and looking across the courtyard toward Cantor Hall, the tour guide cheerfully pointed out the front-desk sign-out ledgers, the mandatory eleven-o'clock nightly bed-check curfews for new arrivals, and the signed paper hall passes required just to step off the grounds into Waynesboro. Walking half a pace closer to Heather's right sleeve than usual, six-foot-tall Wesley kept his left hand buried deep inside his jacket pocket, turning his smooth blue silicone ring faster and faster against his palm while his eyes darted toward a heavy pair of wire-mesh corridor doors ahead.
+Before we had even rolled two blocks from Monroe Park toward the student commons, a pair of city transit buses vented their air brakes with a sharp metallic hiss ten feet from the curb, a delivery box truck backed into an alley with a piercing reverse beeper, and two rescue ambulances wailed past at full volume heading east toward the downtown medical campus. Pressing his right palm flat over his right ear while gripping his smooth blue silicone ring tight inside his left pocket, Wesley stepped in close against Heather's shoulder until we ducked inside the quieter brick lobby of the education building. Even though the transition staffer inside was friendly and thorough, Wesley kept glancing uneasily out the plate-glass doors at the honking West Broad Street traffic—tapping only a tentative sideways line next to Stop Five once we returned to the quiet cabin of Heather's minivan.
 
-Above the magnetic card reader beside those double doors hung a brown engraved plastic nameplate: *Redmond Hall — Medical Residential Unit*.
+Two hours of creeping bumper-to-bumper northbound up Interstate 95 past Fredericksburg and Quantico brought us at one-fifteen that afternoon to Stop Six in Fairfax: George Wythe University.
 
-"Suppose a family did apply for a one-year vocational skills track here," twenty-year-old Heather asked evenly, slowing to a stop ten feet back from the locked doors with one hand resting lightly near Wesley's elbow so he wouldn't feel crowded. "Since I'm Wesley's plenary legal guardian—or if siblings enroll together—how do your family suite or shared dormitory room assignments work?"
+Once Heather finally exited the highway onto the wooded suburban ring road circling George Wythe's sprawling campus, the physical grounds themselves were clean, modern, and thoughtfully ramped. Wide paved pathways wound beneath tall Northern Virginia oaks between contemporary brick lecture halls, and Wesley's shoulders relaxed noticeably compared to West Broad Street as we shared turkey sandwiches from our cooler at an outdoor courtyard table.
 
-The tour guide gave a polite, practiced little laugh, shaking her head as if Heather had asked whether students could park their cars in the cafeteria.
+Yet when Katie unfolded our state highway map across her lap tray to check the mileage back to Tidewater, all four of us stared quietly at that long red artery of Interstate 95 stretching nearly two hundred miles south to Norfolk and Virginia Beach.
 
-"Oh, goodness, no—we don't have family suites, and all of our dormitories here at Roosevelt are strictly gender-separated," she replied without missing a beat. "Men reside exclusively on the men's wings and women reside exclusively on the women's wings, with zero opposite-gender access to dormitory rooms overnight. Even married couples or a brother and sister enrolling on the exact same day live on completely separate halls."
+"Four hours each way whenever Aunt Linda wants to have Wesley over for Sunday dinner, or whenever Dad has a weekend off on Arvin Road," Heather murmured thoughtfully, tracing her finger past the Occoquan River bottleneck we had just crawled through at fifteen miles an hour. Looking over at Wesley, she asked gently, "Feels pretty far from Aunt Linda's kitchen and Emerald Creek Mall, doesn't it, Wes?"
 
-Beside me, Katie's fingers stiffened instantly around my left hand, both of us feeling a cold jolt down our spines at the mere thought of an unbending rulebook splitting family onto opposite sides of a building after dark.
-
-Before either Katie or I could say a word, however, the tour guide glanced down at the intake summary clipped to the top of her pad, looked up at eighteen-year-old Wesley, and tapped her pen against the brown nameplate on the wall.
-
-"And in Wesley's case, since his transition profile notes that he is non-verbal and requires developmental daily-living support, he wouldn't be placed over in Barton Hall or Cantor Hall anyway," the guide added matter-of-factly. "Clients with Wesley's support profile are required to live right through these doors in Redmond Hall, our secured medical dormitory. Our rotating night-shift orderlies and nurses monitor the corridor around the clock behind the badge-locked station, and family guardians schedule daytime visits through the front desk."
-
-For three silent heartbeats, the buzzing fluorescent tubes overhead were the only sound in the hallway.
-
-Growing up, whenever a thunderstorm cracked above the roof at two in the morning, whenever a bad dream tangled him in his sheets, or whenever strange shadows on an unfamiliar wall scared him in the dark, Wesley would start to cry—and ever since he was a little boy, he had known down in his bones the one unbreakable truth that made the dark stop hurting: he could push back his blanket, pad barefoot across the hallway straight into Heather's bedroom, climb right into bed beside his cousin, and let Heather wrap both arms warmly around him and cuddle him close until his chest stopped hitching and the world felt safe again.
-
-Heather wasn't a daytime visitor on a clipboard schedule. Heather was Wesley's Safe Person.
-
-Staring past the wire-mesh glass of Redmond Hall at the pale green cinder-block hallway, the glowing red exit sign, and the badge-locked nursing desk where strangers in scrubs would stand between him and the door if he woke up crying and scared in the middle of the night—miles and hours away from Heather's bed—eighteen-year-old Wesley's breath caught hard in his throat.
-
-His lower lip trembled once. His blue silicone ring slipped loose inside his pocket, two hot tears spilled straight over his lower lashes, and six-foot-tall Wesley turned squarely toward twenty-year-old Heather, dropped his forehead down onto her shoulder, and cried his eyes out in her arms.
-
-Heather didn't flinch, hush him, or care who walked past in the corridor.
-
-Dropping her laminated campus checklist onto my lap tray in half a second so both of her hands were completely free, Heather wrapped her arms fiercely around Wesley's shaking shoulders, cradled the back of his sandy-haired head tenderly against her neck, and rocked him half an inch side to side—holding him right there against her collarbone with the exact steady, protective warmth she had given him every scared night of his life, while Katie and I immediately rolled our two black SwiftChairs close beside Wesley's elbow to wall off the hallway around them.
-
-"Oh, dear—first tours can certainly feel overwhelming at first," the coordinator began awkwardly, clutching her clipboard to her cardigan. "Once clients settle into Redmond Hall for a week or two, our night staff—"
-
-"Excuse me, ma'am," Heather interrupted softly, her voice completely polite, unraised, and as immovable as granite as she kept one hand cradling the back of Wesley's head and wiped a tear gently from his cheek with her thumb. Looking straight over Wesley's shoulder into the tour guide's eyes, Heather didn't yield half an inch. "Thank you very much for your time today, truly—except we won't be needing the rest of the tour. This is Wesley making his decision, and the answer is no."
-
-The coordinator blinked, opened her mouth once as if to offer another brochure, took one look from Wesley buried tightly in Heather's embrace to Katie's and my twin glares flanking them hub to hub, and quietly stepped back with a small nod. "Of course. The main lobby doors are straight back down the walkway whenever you're ready."
+Wesley looked down at the tiny Tidewater corner at the bottom of the folded map, thought about sitting strapped into a minivan through four hours of brake lights just to hug his mom, and nodded once with quiet certainty before Heather turned west onto Interstate 66 and Highway 81 toward Winchester so we could catch the afternoon session of Stop Seven before checking into our accessible roadside hotel room for the night.
 
 ***
 
-#### Saturday, October 22, 2005, 2:10 PM — Mountain Sunshine, Hot Chocolate in the Van, & Choosing Home
+#### Saturday, October 22, 2005, 3:40 PM — Stop Seven in Winchester: Balloon Arches & Cutting Northern Valley University's Open House Short
 
-"Nobody on earth is ever putting a locked door between you and me at night, Wes—not for one night, not ever," Heather murmured ten minutes later inside the quiet, sun-warmed cabin of our parked silver minivan at the far end of the visitor lot, sitting sideways on the middle passenger bench right beside Wesley with her arm wrapped steadily around his shoulders while autumn maple leaves drifted across the windshield.
+"Uh-oh—Heather, look at all the tour buses parked along the loop," Katie said softly as our silver minivan turned onto the green, tree-lined campus of Northern Valley University in Winchester twenty minutes before four.
 
-With the side ramp folded up and the sliding door closed against the crisp mountain breeze, the sharp smell of hospital floor wax was gone, replaced by sweet warm cocoa from Katie's and my thermos cups. Resting his head against Heather's shoulder until the last hiccuping tremor finally left his chest, eighteen-year-old Wesley took a long, slow sip of warm hot chocolate, reached into his left pocket to slip his smooth blue silicone ring back onto his fingers, and let out a long, quiet breath.
+When Heather had called Northern Valley's admissions office two weeks earlier to ask when prospective families could see the campus and its inclusive student-support center, the student worker on the phone had cheerfully recommended coming on the fourth Saturday of October—forgetting to mention that today was the university's biggest Fall Open House of the entire year.
 
-Parked right behind the middle bench in our tied-down SwiftChairs with our inner armrests flipped up so Katie could lean close against my left side in a grounding hug of our own, my twin sister and I looked forward at the two of them with our hearts completely full.
+From the grass lawn outside, the brick conservatory halls and mountain backdrop looked genuinely inviting, and eighteen-year-old Wesley actually smiled with curiosity as we rolled up the wide entrance ramp behind two families wearing stick-on name tags.
 
-"Even if Wesley hadn't cried, Katie and I were two seconds away from turning our chairs around for the exact same reason," I told Heather honestly, keeping my right arm wrapped warmly around Katie's shoulders. "Hearing her say they split brothers and sisters onto separate wings at night made my stomach drop through the floor. Neither one of us is ever living in a place like that either."
+Then two volunteers pulled both glass lobby doors wide open at once.
 
-"Never," Katie agreed quietly and firmly, resting her cheek against my shoulder before smiling warmly up at Wesley. "No hall passes, no strangers grabbing push-handles, and no locked doors keeping family apart when somebody gets scared at night."
+A wall of echoing sound slammed straight into our faces off the two-story tile atrium. Fifteen feet inside the lobby, a twelve-piece collegiate brass-and-snare pep band was blasting the school fight song at stadium volume beneath a giant purple-and-red balloon arch. Two hundred high-school seniors and parents were packed shoulder-to-shoulder between folding brochure tables, shouting over the trumpets to hear student tour guides yelling into handheld megaphones—and right as Wesley's sneaker crossed the threshold, a stray latex balloon brushed a warm ceiling spotlight and popped like a firecracker overhead.
 
-Reaching down to my lap tray, I picked up Heather's laminated four-campus checklist and uncapped her black dry-erase marker, holding both up toward the middle bench.
+Wesley flinched from head to toe, clapped both hands hard over his ears, squeezed his eyes shut, and let out a sharp, distressed groan low in his throat.
 
-Wesley looked down at the four boxes—CCHR, Virginia Dominion University, Warwick University across the harbor tunnel, and Roosevelt Rehabilitation Center at the bottom. Taking the marker calmly in his right hand, eighteen-year-old Wesley drew one deliberate, unmistakable line straight across the Fishersville box from corner to corner. Then, without a single second of hesitation, he tapped the felt tip twice—firm and proud—right inside the second box beside the five-minute Hampton Boulevard sketch for Virginia Dominion University, let out his happiest two-note rising hum, and held his right fist back between the seats toward me.
+None of the three of us waited half a second for politeness.
 
-Grinning through a bright sheen in my own eyes while Heather kissed Wesley's temple and laughed softly with relief, I bumped my knuckles twice against my best friend's fist—turning our van east toward Afton Mountain, Interstate 64, and the one Tidewater home where all four of us belonged together under one roof.
+"Turn right back around—clear the ramp behind us, please," I said firmly over my shoulder as Katie and I spun our two SwiftChairs one hundred and eighty degrees in unison on the wide concrete landing while Heather immediately stepped between Wesley and the doorway, resting one steady, gentle hand at the center of his shoulder blades to guide him straight back out into the cool October air without anybody brushing his arms.
 
-## House Bill 663, Rescuing Both Cousins, & Twelve Extra Years Together
+Two hundred yards away at the quiet far corner of the visitor parking lot beneath a row of golden sugar maples—well out of earshot of the brass drums—Heather clicked the van's side doors open so Wesley could sit sideways on the cool fabric bench with his feet on the asphalt. Without crowding him or peppering him with questions, Katie handed Heather a chilled juice box from the cooler, I kept my chair parked calmly beside his knee, and Heather sat quietly shoulder to shoulder beside him until Wesley slowly lowered both hands from his ears, took his blue silicone ring out of his pocket, and let out a long, shaky sigh.
+
+"I'm so sorry about that racket, Wes," Heather said softly, squeezing his shoulder once he looked over at her. "Nobody told us there was going to be a brass band and megaphones crammed into one tile room. That tour is officially done for today—we don't have to take one more step inside."
+
+Catching his breath as a gentle Valley breeze rustled the quiet maple leaves overhead, eighteen-year-old Wesley took a long sip of cold apple juice and looked back across the wide green lawn toward the smaller brick academic buildings farther down the walk, where there weren't any balloon arches or megaphones at all. Reaching over to Heather's laminated clipboard on the seat between them, Wesley didn't draw an *X* through Stop Seven. Instead, he tapped his forefinger twice against the green grass out the window, held one hand flat over his ear and shook his head at the Open House crowd, and then pointed calmly back at the quiet classroom building down the path.
+
+Katie smiled with instant understanding across our armrests. "You actually liked the look of the campus outside—just not during a crazy Open House?"
+
+Wesley nodded twice, giving a small, relieved half-smile and a quiet one-note hum.
+
+"Deal," Heather promised warmly, writing *Quiet non-Open-House weekday visit?* in neat blue ink beside Northern Valley University on his sheet before buckling his seatbelt up front. "If you decide you want a second look at Winchester when there isn't a pep band within five miles, we'll come back on a quiet Tuesday morning when it's just ordinary classes. Tonight we get a calm pizza dinner in our hotel room, get a full night's sleep, and tomorrow we finish the mountain loop down Interstate 81 at our last two stops down the Valley."
+
+### Part 3: Stops Eight and Nine: Stopping Short Outside Redmond Hall at RRC & Loving CPI's Valley Despite Steep Battery Hills
+
+**Date:** 2005-10-23 at 10:15 America/New_York
+
+#### Sunday, October 23, 2005, 10:15 AM — Stop Eight in Fishersville: Checking In at Bates-Harding & Stopping Short at Attached Redmond Hall
+
+"Go ahead and print all four names on the visitor ledger right there, folks, and press these adhesive day passes onto your lapels where campus staff can see them," the receptionist behind the sliding glass check-in window instructed as Katie, Heather, Wesley, and I waited inside the scuffed green-and-white terrazzo lobby of the Bates-Harding Building at Roosevelt Rehabilitation Center in Fishersville.
+
+Driving ninety minutes south down Interstate 81 from Winchester on a crisp, cloudless autumn morning had brought us to Stop Eight solely because Wesley's high-school transition caseworker had pressed a state rehabilitation brochure into Heather's hand back in September, urging us not to cross Virginia's residential vocational campus off our list without seeing it in person.
+
+Even while Heather was still signing the paper check-in sheet at the reception counter and handing Katie and me our peel-and-stick visitor badges, the place didn't feel like any university we had visited over the past two weekends. Built across former World War II Army hospital grounds, the sprawling 1960s and 1970s flat-roofed red-brick complex smelled sharply of antiseptic floor wax and boiled cafeteria cabbage; long rows of fluorescent ceiling troffers buzzed overhead; and painted directional stripes ran down the cinder-block walls from the main administration offices toward the medical rehabilitation clinics.
+
+"Right on time—welcome to Roosevelt!" a brisk outreach tour guide said, stepping through the security door beside the check-in desk with a thick laminated binder tucked under her arm. "Before we even step outside to walk down toward our general student dormitories or the dining hall, our main Bates-Harding Administration building connects directly down this interior corridor to our specialized residential wing—so let's start right down this hall while you have your visitor badges on."
+
+Katie and I traded a quiet, uneasy squeeze across our inner SwiftChair armrests as we rolled down the wide interior hallway behind her. Walking half a step closer to Heather's right sleeve than usual, six-foot-tall Wesley kept his left hand tucked deep inside his jacket pocket, turning his smooth blue silicone ring faster and faster against his palm as the corridor narrowed toward a heavy pair of wire-mesh fire doors locked by a wall-mounted badge reader.
+
+Centered above the magnetic lock hung a brown engraved plastic sign: *Redmond Hall — Medical Residential Unit*.
+
+"Suppose a family did look at a residential vocational skills program here," twenty-year-old Heather asked calmly, pausing ten feet short of the heavy doors with one hand resting lightly near Wesley's forearm. "Since I'm Wesley's plenary legal guardian—or when family members enroll at the same time—how do shared family suites or roommate assignments work on campus?"
+
+The tour guide gave a practiced, polite little laugh and shook her head.
+
+"Oh, goodness, no—we don't have family suites anywhere on campus, and every single dormitory here at Roosevelt is strictly gender-separated," she replied matter-of-factly. "Men live exclusively on the men's wings and women live exclusively on the women's wings, with strict curfews and zero opposite-gender access to dormitory rooms overnight. Even if a brother and sister enrolled on the exact same Sunday, they would sleep on completely separate halls."
+
+Beside me, Katie's fingers tightened instantly around my left hand, both of us feeling a cold jolt down our spines at a rulebook that would split family onto opposite sides of a building after dark.
+
+Then the tour guide glanced down at the intake inquiry sheet clipped to her binder, looked up at eighteen-year-old Wesley, and tapped her pen directly against the *Redmond Hall* sign beside the locked doors.
+
+"And in Wesley's case, because he is non-verbal with developmental daily-living support needs, he wouldn't live out in the regular student dormitories across the courtyard anyway," the guide added smoothly. "Clients with Wesley's profile are required to reside right here inside Redmond Hall—our medical dorm wing attached here to the main building—monitored twenty-four hours a day by rotating night-shift orderlies and nurses behind the locked station, while family guardians sign in at the front desk during daytime visiting hours."
+
+For three silent seconds inside that administration corridor, the buzzing fluorescent lights overhead were the only sound in the room.
+
+Growing up, whenever Wesley got scared in the middle of the night—whether from a clap of summer thunder rattling the windowpane, a bad dream tangling him in his sheets, or strange shadows across an unfamiliar ceiling—he would often start to cry. And ever since he was a little boy, Wesley had instinctively known the one simple, unbreakable truth in his world: he could push back his covers, walk straight down the hall into Heather's bedroom, climb right into bed beside her, and let Heather wrap both arms warmly around him and cuddle with him until his chest stopped shaking and he calmed all the way down.
+
+Heather was Wesley's Safe Person.
+
+Staring through the wire-mesh glass of Redmond Hall at the pale green hospital-style corridor and the badge-locked nurses' desk—realizing in a single heartbeat that if he woke up scared and crying at two in the morning inside those doors, strangers in scrubs would keep him locked away where he could never walk into Heather's room or climb into her bed to be held—eighteen-year-old Wesley broke.
+
+Two hot tears spilled straight down his cheeks, a raw sob tore out of his chest, and six-foot-tall Wesley turned squarely into twenty-year-old Heather, buried his face against her neck, and cried his eyes out in her arms.
+
+Heather didn't flinch, hush him, or apologize to a soul.
+
+Letting her campus clipboard drop straight onto my lap tray so both of her arms were completely free, Heather wrapped her arms fiercely around Wesley's shaking shoulders, cradled the back of his sandy-haired head against her collarbone, and held him tight with the exact steady, unconditional warmth she had given him every scared night of his life—while Katie and I rolled our two black SwiftChairs right in beside Wesley's elbow to shield him from the corridor.
+
+"First-time visitors sometimes get emotional seeing the medical unit door," the tour guide started awkwardly, shifting her binder against her hip, "before we walk outside to see the dining hall and—"
+
+"Excuse me, ma'am," Heather said softly, her voice completely polite, level, and immovable as she rubbed a slow, soothing circle across Wesley's back and wiped a tear gently from his cheek with her thumb. Looking straight over Wesley's shoulder into the tour guide's eyes, Heather shook her head once. "Thank you very much for checking us in today, truly—except we won't be continuing the rest of the tour. This is Wesley making his decision, and that answer is no."
+
+We never took a single step past the administration corridor. Handing all four peel-and-stick visitor badges politely back across the Bates-Harding reception counter two minutes later, we rolled straight back out the front ramp into the clean mountain sunshine—where Heather sat sideways on the middle van bench holding Wesley close with a warm thermos cup of cocoa until every last tremor left his shoulders, Wesley drew a thick black marker line straight through Stop Eight from corner to corner, and none of the four of us ever looked back in the mirror as we merged south onto Interstate 81.
+
+***
+
+#### Sunday, October 23, 2005, 2:15 PM — Stop Nine in Blacksburg: Falling in Love With the Valley & Watching Our Wheelchair Battery Bars on CPI's Hills
+
+"Okay, Katie... look at those mountains all the way around the sky," I breathed out loud two hours further southwest down the valley, braking my SwiftChair for five seconds along the stone overlook path above the sweeping central oval of Commonwealth Polytechnic Institute in Blacksburg.
+
+After the sterile fluorescent corridor back in Fishersville, rolling out into the high two-thousand-foot mountain bowl between the Blue Ridge and the Alleghenies felt like stepping into a postcard. Under a crystal-clear cobalt October sky without a single Open House megaphone or crowded registration tent anywhere on the grass, the vast emerald expanse of Commonwealth Green stretched out below us, ringed on every side by stately Collegiate Gothic halls built from rough-quarried gray-and-buff limestone blocks the campus map called Ironstone. Crisp, pine-scented mountain air drifted down off the crimson-and-gold ridges framing the horizon; a couple of golden retrievers trotted happily after a frisbee across the lower grass; and eighteen-year-old Wesley—his eyes dry and clear again, munching a cinnamon-sugar pretzel twist beside my right armrest—let out a calm, appreciative two-note hum at the wide-open quiet view.
+
+Honestly, in less than ten minutes, I fell head over heels in love with that valley. Everything about the cool mountain air, the rugged stone arches of Keystone Bridge spanning Commonwealth Mall, and the quiet engineering pride etched into the buildings felt like someplace a computer nerd could stare at out a library window for four straight years and never get tired of the view.
+
+Then the four of us turned off the lower oval path to climb the long, continuous paved campus grade rising out of the bowl of Commonwealth Green up the hill toward Kincaid Hall for hot chocolate.
+
+Thirty yards up the incline, the pitch of my dual twenty-four-volt SwiftChair drive motors deepened into a steady, straining hum beneath my seat pan. Halfway up the hillside walkway—still a hundred yards short of the Ironstone terrace outside Kincaid Hall's first-floor glass atrium—Katie glanced down at her right-armrest controller pod at the exact second I glanced down at mine.
+
+Both of us had unplugged our chairs at one hundred percent full green charge inside our hotel room at eight-thirty that morning, and we had barely rolled ten flat minutes back in Fishersville. Yet halfway up a single Blacksburg campus hill, the five-segment LED battery gauge beside my joystick flickered from five green bars down to four—and forty yards higher, as the stone path steepened again toward the upper academic buildings, the fourth bar blinked amber and dropped to three.
+
+Reaching the level terrazzo patio outside Kincaid Hall's automatic glass doors, Katie and I parked hub to hub to let our warm motor housings cool while looking back down the long, steep elevation drop crisscrossing every side of the central green.
+
+"You watching your battery meter too, Nate?" Katie asked quietly, lacing her right fingers through my left hand as Heather and Wesley stepped up beside us.
+
+"Dropped two whole bars on one climb from the lower path," I admitted ruefully, looking out over the gorgeous autumn mountain ridges with a reluctant tug in my chest before glancing down at my controller pod. "Imagine zig-zagging up and down that bowl four times a day between computer-science labs, the library, and Kincaid Commons—especially in January when it's eighteen degrees up here in the mountains and freezing cold cuts lead-acid battery range by another thirty percent. Even with brand-new deep-cycle batteries, these hills would chew through our charge before two o'clock every afternoon and wear our battery packs out in less than a year."
+
+"And if a snowstorm ices those steep stone walkways over in February," Heather noted gently, resting an understanding hand on my shoulder as she followed my gaze across the hillside campus, "neither powerchair tires nor Wes's winter boots would have an easy time getting up from the bus loop."
+
+Sitting together ten minutes later at an interior second-floor dining table inside Kincaid Commons—sipping steaming mugs of hot chocolate after riding the three-story glass-and-steel lobby elevator up from the atrium—Heather spread the well-traveled laminated nine-campus checklist flat in the center of the oak table so eighteen-year-old Wesley, Katie, and I could look over all three weekends side by side: CCHR and flat, five-minute-from-home Virginia Dominion University back in Norfolk; pretty Neo-Georgian Warwick University across the harbor tunnel; uneven colonial brick at Charles and Anne; noisy West Broad Street sirens at Central Virginia University; four-hour highway traffic up to George Wythe; Northern Valley University's cut-short Open House in Winchester where Wesley still had his neat question mark for a quiet weekday look; crossed-off Roosevelt Rehabilitation Center; and breathtaking, battery-draining Commonwealth Polytechnic right outside our window.
+
+Nobody rushed Wesley to tap a final circle before our cocoa cooled. With his smooth blue silicone ring resting peacefully beside his mug, his Safe Person sitting warm and steady at his right shoulder, and Katie's hand anchored in mine across the table, all four of us knew we were taking our notes home to Tidewater to make the decision together—one team of four, with every voice heard at eye level.
+
+## Rescuing Both Cousins, Learning Uncle David's 1991 Truck, & Twelve Extra Years Together
 
 ### Part 1: Three Alumni at the Sanctuary Doors & Shelly Turtle Comes Home to Kempsville
 
@@ -3076,7 +3122,65 @@ Wesley didn't crowd her by half an inch. Smiling with quiet, unmistakable revere
 
 Across our inner armrests in the foyer, Katie's hand tightened warmly around mine while Heather leaned her cheek against my right shoulder and Brittany wiped a happy tear onto her sleeve beside Dad. Watching Chelsea beam up at Wesley while hugging plush Shelly Turtle close to her chest—right here in our Virginia Beach living room in the summer of 2016, with zero state lines and zero thousand-mile flights standing between them—I knew down in my bones that neither Wesley nor Chelsea would ever spend another lonely season apart.
 
-### Part 2: Six Chairs in the Rose Garden & Twelve Extra Years Under One Sky
+### Part 2: Now You're Learning My Truck,' L-1-2-3-R in an Empty Lot, & Three Manuals on the Tailgate
+
+**Date:** 2017-06-11 at 09:15 America/New_York
+
+#### Sunday, June 11, 2017, 9:15 AM — Engine Off First, L-1-2-3-R on the Knob, & Discovering You Need Three Feet
+
+"Hold on, Uncle David—before Nate taps record on the windshield mount, tell me why this shift knob starts with a letter instead of a one," thirty-two-year-old Brittany said behind her thin silver wire-rimmed oval glasses, squinting down past the steering wheel of Dad's Dark Midnight Blue and Ultra Silver 1991 Crestline Garrison 350 four-door Crew Cab 4x4 across two acres of completely empty Sunday-morning asphalt behind the closed Kempsville Plaza annex lot.
+
+Forty feet back on the shaded concrete sidewalk island—because Dad's ironclad safety threshold meant neither Katie, Chelsea, Wesley, nor I were riding inside the cab while Brittany figured out what her left foot was supposed to do—Katie and I sat side by side in our two black SwiftChairs holding inner hands while Heather stood beside my right armrest with Wesley and Chelsea happily sharing a pretzel bag on the wooden bench behind us.
+
+Brittany already held a clean Virginia driver's license and handled Heather's automatic minivan smoothly on grocery runs. Never once in her life, however, had Brittany driven a manual transmission—no clutch experience, no manual muscle memory, and zero modern five-speed habits to unlearn. When she had stood beside Dad in our Arvin Road driveway last weekend watching him swap a fuel-filter element and asked whether he would teach her how the family's twenty-six-year-old pickup actually worked, Brittany had suggested filming their Saturday lessons for StreamTube and The Grid so she could re-watch Dad's hands anytime she needed a refresher.
+
+Sitting relaxed on the passenger side of the navy cloth-and-vinyl front bench with his window cranked down and the chrome-latched triangular front vent window pivoted open to catch the June breeze, fifty-eight-year-old Dad left the brass ignition key turned off.
+
+"Engine stays quiet first," Dad said in his patient, matter-of-fact voice. "Read the pattern stamped into the black knob out loud."
+
+"Far left up says *L*," Brittany read, resting her palm lightly over the tall steel floor lever rising beside the shorter four-wheel-drive transfer-case stick. "Middle up is *1*, middle down is *2*, right up is *3*, and right down is *R*. Wait—every stick-shift diagram I've ever seen goes one, two, three, four, five, reverse. Where did fourth and fifth go?"
+
+"No fifth gear because there's no overdrive in a 1991 Crestline heavy-duty cast-iron four-speed," Dad explained evenly. "Direct one-to-one road gear is stamped *3* right here. And that *L* over on the left is compound Low—unsynchronized six-point-five-five-to-one granny gear. Let the clutch out in *L* at idle and she'll crawl up a steep boat ramp or ease a full load over a curb without touching the gas pedal, topping out around five miles an hour roaring like a combine harvester. On flat, unloaded pavement, you leave *L* alone and start right off in *1*."
+
+"Push the clutch all the way to the floorboard and wiggle the stick side to side across the middle," Dad added. "Feel how the return spring centers it right between *1* and *2*? That's neutral. Always feel the spring gate before you touch the key."
+
+Once Brittany had rowed silently through *1*, *2*, *3*, and reverse a dozen times with the engine off, Dad nodded for her to keep her left foot buried on the carpet, cover the brake, verify neutral, and turn the key. The five-point-seven-liter throttle-body V8 rumbled immediately to life.
+
+"Ease into *1*, keep your heel planted on the rubber mat, and lift your left toes a quarter-inch at a time until you hear the idle dip and feel the hood tug," Dad coached.
+
+Brittany lifted her toes half an inch, felt the big square hood rise—startled when the engine note dropped—and let her left foot pop straight up.
+
+The heavy Crew Cab bucked twice, coughed, and stalled dead silent between the painted yellow lines.
+
+Brittany rested her forehead against the top of the steering wheel with a heartfelt groan that came clearly through my wireless headphone monitor. "Sorry, Uncle David! Who designed a truck that requires three feet when humans only come with two?"
+
+"Clutch down, check neutral, start her back up," Dad said without a trace of impatience. "Nobody learns where a clutch bites without stalling it a few times first."
+
+Five stalls, two accidental tractor-crawls in granny *L*, and twenty patient minutes later, Brittany stopped staring at her sneakers and started listening to the engine. Easing smoothly through the bite point in *1* with a gentle breath of throttle, she glided forty yards across the lot without a shudder, pressed the clutch cleanly to the floor, pulled straight back into *2* with a crisp mechanical snick, and rolled to a level stop beside the oak island while Wesley pumped his fist once from the bench.
+
+Inside the cab, Dad gave a single, satisfied nod.
+
+"Now you're learning my truck," Dad told her.
+
+***
+
+#### Saturday, September 16, 2017, 10:30 AM — Three Books on the Tailgate & Dad's Loaded-Truck Rule
+
+"Before we hoist Katie's and Nate's chairs into the bed for my first loaded drive, Uncle David made me lay out the chain of command right here on the shop towel," Brittany smiled into my tripod camera three months later in the Arvin Road driveway, gesturing to three distinct volumes lined up behind the lowered tailgate beneath the open Midnight Blue fiberglass camper shell.
+
+All summer long—across short, unvarnished StreamTube and Grid episodes covering her first oil change, chassis Zerk grease fittings, checking gearbox and differential oil levels, lubricating a stiff hand-cranked window regulator, resealing a whistling triangular front vent window, and sliding Dad's two individually wired Circuit Barn pull-out cassette and CD stereo caddies in and out of their fourteen-pin dash dock—Dad had refused to rush his safety threshold. Not once had Katie or I ridden in the back while Brittany was still building muscle memory on highway merges, hill starts on the Witchduck Road overpass, or backing the long four-door truck by its stainless camper mirrors.
+
+"Left to right," Brittany explained to the lens, patting the grease-marked paperback first, "we start with Uncle David's dog-eared Hartley Repair Manual to see how the job generally works—keeping in mind that a 1991 old-body Crew Cab sits in an awkward transition gap where generic DIY books skip half the one-ton parts. Next is the two-volume 1991 Crestline Factory Service Manual for real wiring schematics and exact torque values, because as Uncle David reminds me every Saturday, *'probably' isn't a torque specification.* And third is Uncle David's black three-ring Maintenance Binder—every part number, mileage log, air-conditioning note, and accessibility-hoist record on this exact truck since he bought it brand-new in 1991, with my own August fluid-check entry written right underneath his on page eighty-four."
+
+Shutting off the camera so everyone's full focus stayed on safety, Dad stood quietly beside the tailgate—hands folded without interfering—while Brittany guided Katie and me smoothly up the rear-door person-transfer lift onto the wide Crew Cab rear bench seat so we sat hip to hip holding hands, operated the corded twelve-volt bed hoist to lift both unoccupied SwiftChairs beneath the fiberglass cap, and tug-tested every single four-point securement strap against the steel floor tracks.
+
+"Four adults in the cab plus two powerchairs and the hoist assembly puts real weight over the rear leaf springs," Dad reminded her calmly from the front passenger seat while his Virginia disabled plates sat on the rear bumper. "Give her a touch more throttle easing out in *1*, leave extra braking room before red lights on Military Highway, use compound *L* on steep wet grades, and tell me the one rule that never changes."
+
+"Closing the camper shell isn't cargo securement," Brittany answered steadily, checking neutral's spring gate with her palm before turning the brass key. "If I'm not a hundred percent certain both chairs are locked four-for-four and every lift bolt is sound, this truck does not move."
+
+As Brittany eased the clutch smoothly out down Arvin Road with Heather and Dad smiling up front and Katie's fingers woven through mine on our childhood bench seat, none of us needed a crystal ball to see what Dad was quietly building one Saturday morning at a time.
+
+### Part 3: Six Chairs in the Rose Garden, Twelve Extra Years Together, & It Really Is Her Truck Now
 
 **Date:** 2028-06-15 at 14:15 America/New_York
 
@@ -3086,7 +3190,7 @@ Across our inner armrests in the foyer, Katie's hand tightened warmly around min
 
 Parked hub to hub on the level bluestone terrace right beside the mahogany signing desk in our two compact black powerchairs, forty-three-year-old United States Senator Katie Prairie and I kept our inner hands laced tightly together while warm mid-June sunshine settled across our shoulders.
 
-Even though Wesley and forty-six-year-old Chelsea had never once been separated by a thirteen-hundred-mile flight—having spent twelve unbroken, joyful years side by side in Virginia Beach helping prep laminated communication cards for Heather's Special Education students, riding Route 15 down to Emerald Creek Mall for warm soft pretzels, and sitting together on our Kempsville porch swing every evening—the archaic federal marriage and "holding-out" penalties inside Social Security had still stood like a tripwire across our hallway, punishing two disabled adults with slashed benefits and Medicaid waiver red tape if they ever exchanged rings or shared one bedroom suite without fear. Watching Wesley and Chelsea hold hands across twelve full Virginia summers had been the exact fire that propelled Katie from the Senate of Virginia in Richmond to the United States Senate in November 2026—and onto the floor of the Capitol to pass the *Supported Companions, Waiver Portability, and Social Security Solvency Act* by overwhelming bipartisan margins.
+Even though Wesley and forty-six-year-old Chelsea had never once been separated by a thirteen-hundred-mile flight—having spent twelve unbroken, joyful years side by side in Virginia Beach helping prep laminated communication cards for our Special Education outreach tools at Prairie Twin Interactive, riding Route 15 down to Emerald Creek Mall for warm soft pretzels, and sitting together on our Kempsville porch swing every evening—the archaic federal marriage and "holding-out" penalties inside Social Security had still stood like a tripwire across our hallway, punishing two disabled adults with slashed benefits and Medicaid waiver red tape if they ever exchanged rings or shared one bedroom suite without fear. Watching Wesley and Chelsea hold hands across twelve full Virginia summers had been the exact fire that propelled Katie from the Senate of Virginia in Richmond to the United States Senate in November 2026—and onto the floor of the Capitol to pass the *Supported Companions, Waiver Portability, and Social Security Solvency Act* by overwhelming bipartisan margins.
 
 When President Morales finished writing the final stroke of her signature, turned straight around from the mahogany desk, and handed the first ceremonial box pen to Katie and the second directly into forty-one-year-old Wesley's and forty-six-year-old Chelsea's joined hands, the entire Rose Garden rose to its feet in thunderous applause.
 
@@ -3103,6 +3207,30 @@ Katie glanced sideways at me with a quiet, knowing smile across our armrests, sq
 Looking across the sunlit Rose Garden lawn at forty-one-year-old Wesley laughing nose to nose with Chelsea—at a best friend who had never spent a single Saturday wondering why I disappeared, a cousin Brittany thriving and whole beside Dad, a twin sister whose voice had just rewritten federal law, and the woman who had kept her graduation-day promise to both of us for a quarter century without breaking it once—I lifted Heather's hand to my cheek while holding fast to Katie's.
 
 "Best answer we ever gave," I whispered.
+
+***
+
+#### Saturday, April 17, 2032, 9:30 AM — Fifteen Years of Videos With Uncle David & Speaking in the Present Tense
+
+![In the sunlit concrete driveway on Arvin Road in Virginia Beach on Saturday morning, April 17, 2032, forty-seven-year-old Brittany Fletcher—wearing her thin silver wire-rimmed oval glasses, rolled-up denim work shirt over a burgundy tee, and blue jeans with a red shop rag—stands smiling warmly behind the raised glass hatch and lowered tailgate of Uncle David's gleaming Dark Midnight Blue and Ultra Silver Deluxe Two-Tone 1991 Crestline Garrison 350 four-door Crew Cab 4x4 pickup, operating the corded pendant to swing out the empty 12-volt steel bed hoist above the four-point securement tracks inside the empty pickup bed for a StreamTube and The Grid video while Nathaniel and Katie sit side by side holding hands in their two SwiftChairs on the driveway behind Nate's tripod beside Chelsea holding Shelly Turtle and Wesley wearing his blue silicone ring.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg)
+
+"Okay, Nate—lapel mic is green, and Heather's wave from the porch step says coffee is staying warm inside until we wrap this take," forty-seven-year-old Brittany smiled nearly four springs later in our sunlit concrete driveway on Arvin Road, pushing her thin silver wire-rimmed oval glasses up with the clean back of her wrist before tucking a red shop rag into her jeans pocket beside the lowered tailgate of our family's forty-one-year-old Dark Midnight Blue and Ultra Silver 1991 Crestline Garrison 350 Crew Cab 4x4.
+
+Parked side by side with Katie in our SwiftChairs behind my tripod—with fifty-year-old Chelsea hugging plush green Shelly Turtle beside forty-five-year-old Wesley—I tapped record and held up two fingers.
+
+When Dad had entered his seventies two springs earlier in 2030 and realized with his calm engineer's honesty that his heart and highway reaction times were slowing down, nobody in our family had been caught unprepared. Over thirteen steady years on StreamTube and The Grid since that first Sunday stalling in the empty Kempsville parking lot, Brittany had progressed from Dad guiding her elbow over the grease-smudged Hartley Repair Manual and two-volume Crestline Factory Service Manual all the way to diagnosing a faint carrier-bearing hum down Indian River Road by ear before Dad even reached for his stethoscope. So in the spring of 2030—on the exact same week Dad stood beside Brittany in Virginia Beach Circuit Court as she succeeded him as Chelsea's plenary guardian and conservator—Dad had set the brass 1991 ignition key beside Brittany's dinner plate and turned day-to-day caretaking of the pickup over to her, even while Brittany stubbornly kept calling it *Uncle David's truck*.
+
+Only after Dad passed away peacefully in his sleep six months ago in October of 2031 at age seventy-two, and his will formally bequeathed the truck to her, had Brittany quietly confronted the fact that it really was her truck now—swapping Dad's disabled plates over to standard Virginia plates at the DMV since she was able-bodied, while Katie and I brought our individual blue disability placards strictly when riding together on the rear Crew Cab bench.
+
+Opening Dad's thick black three-ring Maintenance Binder on the tailgate towel—where twenty-six years of Dad's square block printing transitioned gradually page by page into Brittany's rounded handwriting—Brittany tapped the hoist-bolt torque entry for the camera.
+
+"Whenever you inspect the wheelchair hoist boom and four-point floor tracks, Uncle David says you have to—"
+
+Brittany paused for two quiet heartbeats, her thumb resting still against the plastic page sleeve as she realized she had spoken about him in the present tense. Blinking once behind her silver lenses, she let a small, steady smile return to her lips and finished naturally.
+
+"—Uncle David always taught me that a broken radio just means a quiet ride, whereas anything questionable on a transfer lift or wheelchair tie-down means nobody rolls out of the driveway until it's torqued to factory spec."
+
+Pressing the corded pendant switch so the twelve-volt steel hoist swung smoothly out beneath the Midnight Blue camper shell—preserving one more Saturday beside two hundred archived videos where Dad's living laugh and patient voice still echoed off these exact navy fenders—Brittany stowed the pendant, closed the binder gently over her fresh April note, and smiled down at all of us as Heather stepped out onto the front porch ramp with warm mugs in hand.
 
 ***
 
@@ -9168,6 +9296,84 @@ Katie's whole face lit up beside me.
 
 "Then mark Saturday, June sixteenth, 2018 in ink right now!" Heather laughed warmly as thirty-year-old Wesley rocked with pure excitement beside her and tapped the webcam air twice. "Because *North Lion Scales & Tails* isn't cutting a single inch of ribbon until our Virginia family rolls off the Route 64 bus out front!"
 
+### Part 11: Now You're Learning My Truck,' L-1-2-3-R in an Empty Parking Lot, & Three Manuals on the Tailgate
+
+**Date:** 2017-06-11 at 09:15 America/New_York
+
+#### Sunday, June 11, 2017, 9:15 AM — Engine Off First, L-1-2-3-R on the Knob, & Discovering You Need Three Feet
+
+"Hold on, Uncle David—before Nate hits record on the tripod outside my window, let me make sure I'm not staring at an optical illusion on this shift knob," thirty-two-year-old Brittany said behind her thin silver wire-rimmed oval glasses, peering down past the steering wheel of our dad's Dark Midnight Blue and Ultra Silver 1991 Crestline Garrison 350 four-door Crew Cab 4x4 across two acres of completely empty Sunday-morning asphalt behind the closed Kempsville Plaza annex lot.
+
+Parked safely forty feet back on the concrete sidewalk island beside the shade oaks—because Dad's very first rule this morning had been that neither Katie, Chelsea, nor I were setting foot inside the cab while Brittany was learning what a clutch pedal did—Katie and I sat side by side in our two black SwiftChair power wheelchairs holding inner hands while Chelsea sat contentedly on the shaded wooden bench beside us hugging plush green Shelly Turtle, and my second phone sat clipped inside a suction mount on the passenger windshield relaying clean Bluetooth audio back to my headphones.
+
+Brittany already held a clean Virginia driver's license and drove ordinary automatic sedans without breaking a sweat. Never once in her thirty-two years, however, had her left foot touched a clutch pedal—meaning she had zero manual-transmission muscle memory and zero five-speed habits to unlearn. When she had watched Dad grease the front steering linkage in our Arvin Road driveway last Saturday and shyly asked whether she was too old to learn how his thirty-five-hundred-pound—no, heavy-duty one-ton—pickup actually worked, Dad had handed her a shop rag on the spot, and Brittany had asked if I would film her learning from square one for StreamTube and The Grid so she could play Dad's explanations back whenever she practiced.
+
+Sitting relaxed on the passenger side of the wide navy cloth-and-vinyl front bench with his window cranked halfway down and the chrome-latched triangular front vent window pivoted open to catch the morning breeze, fifty-eight-year-old Dad didn't touch the brass key in the steering column yet.
+
+"Engine stays off first," Dad said in that calm, matter-of-fact engineer's voice he used whenever he taught somebody something meant to last thirty years. "Look at the white diagram engraved into the round black knob, Brittany. What letters and numbers do you see?"
+
+"Left gate up says *L*," Brittany read aloud, squinting down at the long steel lever rising out of the vinyl transmission tunnel beside the shorter four-wheel-drive transfer-case stick. "Then middle gate up is *1*, middle gate down is *2*, right gate up is *3*, and right gate down is *R*. Wait a second—every stick-shift diagram I've ever seen on a T-shirt goes one, two, three, four, five, reverse. Where did fourth and fifth go, and what on earth is *L*?"
+
+"Fifth doesn't exist because there's no overdrive in a 1991 Crestline heavy-duty cast-iron four-speed," Dad explained patiently, resting one forearm along the top of the bench seat. "And what a modern car calls fourth is stamped *3* right here—direct one-to-one drive. That *L* over on the far left is compound Low—what old truckers call granny gear. Six-point-five-five-to-one reduction, unsynchronized. If you let the clutch out in *L* at idle, this truck will crawl up a steep gravel boat ramp pulling a house without you ever touching the gas pedal, and it tops out around five miles an hour roaring its head off. Out on regular flat Virginia Beach pavement with an empty bed, you pretend *L* isn't even there—you start off in *1*, shift down to *2*, and finish up in *3*."
+
+"So my very first time driving a four-speed, I only use three speeds unless we're climbing Mount Everest," Brittany deadpanned toward the windshield camera, making Katie let out a delighted laugh beside my chair on the sidewalk.
+
+"Put your left foot all the way to the floorboard on the clutch pedal and wiggle the stick left and right across the middle," Dad instructed. "Feel how the return spring wants to center the lever right between *1* and *2*? That's neutral. Never guess whether this truck is in neutral—feel the spring gate with your palm before you ever turn the key."
+
+For ten unhurried minutes with the engine dead silent, Dad had Brittany row smoothly from neutral into *1*, straight back into *2*, up and slightly right into *3*, and over against the heavy reverse gate until her right arm stopped hunting for the slots.
+
+Then Dad nodded toward the ignition. "Left foot buried to the carpet, right foot covering the brake, check neutral—go ahead and fire her up."
+
+The five-point-seven-liter throttle-body V8 rumbled immediately to a steady, agricultural seven-hundred-RPM idle that vibrated faintly through the square steel fenders.
+
+"No gas pedal yet," Dad coached calmly as Brittany eased the shifter forward into *1*. "Keep your heel anchored on the rubber mat and lift your left toes half an inch at a time until you hear the engine note dip and feel the cab lean against the rear tires. That's the bite point."
+
+Brittany lifted her left foot an inch, felt the big navy hood rise a fraction—panicked when the V8 lugged down—and popped her foot the rest of the way up.
+
+The 1991 Crew Cab gave two mighty kangaroo bucks, coughed once, and died stone-cold silent in the middle of the yellow paint stripes.
+
+Inside the cab, Brittany dropped her forehead lightly onto the top rim of the steering wheel and groaned out loud. "Sorry, Uncle David! I think I only came with two feet at the factory!"
+
+Dad didn't wince, sigh, or reach for the dash. "Clutch in, check neutral, turn the key. Everybody stalls an old truck ten times on their first morning—if you didn't stall it, you wouldn't know where the friction disc actually grabs."
+
+She stalled it four more times in the next twelve minutes—once popping the clutch at a stop sign painted on the empty lot, once forgetting to push the clutch back down while braking, and once accidentally nudging past the heavy spring gate into granny *L* so the truck crept forward at walking speed sounding like a farm tractor while Brittany stared wide-eyed at the speedometer needle barely registering. By twenty minutes to ten, however, something clicked between her left ankle and her ear. Without looking down at the pedals, Brittany eased smoothly off the clutch in *1*, fed a whisper of throttle, rolled thirty yards across the empty lot without a single shudder, depressed the clutch cleanly, pulled straight back into *2* with a solid cast-iron snick, and brought the long four-door truck to a gentle, level stop beside a light pole.
+
+Dad looked across the bench seat at his niece's flushed, triumphant grin and gave a quiet, approving nod.
+
+"Okay," Dad said simply. "Now you're learning my truck."
+
+***
+
+#### Saturday, September 16, 2017, 10:20 AM — Three Books on the Tailgate & Earning Loaded-Truck Trust
+
+"Wait—before anybody touches a fourteen-millimeter socket, show the camera why Uncle David laid three completely different books across the tailgate towel," Brittany told my tripod lens three months later in our sunlit Arvin Road driveway, tapping the row of volumes spread neatly behind the lowered steel tailgate beneath the open Midnight Blue fiberglass camper shell.
+
+Across twelve summer Sundays and Tuesday evenings—filming short, unpretentious episodes on changing five quarts of conventional oil, pumping fresh grease into every steering and driveshaft Zerk fitting underneath, resealing a whistling rubber gasket on the driver's-side triangular vent window, and sliding Dad's two matching Circuit Barn pull-out cassette and CD stereo caddies out of their fourteen-pin dashboard dock—Dad had held firm to his quiet safety threshold. Not once during June, July, or August had Katie, Chelsea, or I ridden in the pickup with Brittany behind the wheel. First, Dad had waited until Brittany could start smoothly on the overpass incline at Witchduck Road, back the twenty-one-foot Crew Cab cleanly between white lines using only the stainless swing-away camper mirrors, recover calmly from an unexpected traffic stall without rushing, and judge every corner of the long steel bed in ordinary traffic.
+
+Today was Loaded-Truck Day—and like everything in Dad's garage, it started with his Three-Level Documentation System.
+
+"Book One on the left is Uncle David's grease-smudged Hartley Repair Manual," Brittany explained warmly, holding up the dog-eared paperback whose page edges were soft from twenty-five years on the workbench. "Hartley is for *teach me how this kind of truck works in plain English*—except because a 1991 Garrison 350 sits right in that weird final year where Crestline kept the classic square four-door Crew Cab body while half-ton pickups had already changed shapes, a generic DIY manual skips half the heavy-duty one-ton details."
+
+Setting the paperback down, Brittany rested both palms atop two thick, navy-bound shop volumes stamped with the Crestline emblem.
+
+"So Book Two is the official 1991 Crestline Factory Service Manual—wiring schematics, exact driveline clearances, and real torque specifications," Brittany smiled, glancing sideways at Dad standing beside the fender with his torque wrench in hand. "Tell everybody what you told me last week when I guessed a caliper bracket bolt was *probably* tight enough, Uncle David."
+
+"'Probably' isn't a torque specification," Dad said deadpan into the lapel mic, earning an instant grin from Katie beside me.
+
+"And Book Three," Brittany continued more softly, opening a thick black three-ring binder stuffed with plastic page protectors, yellowed 1990s parts-counter receipts, Circuit Barn stereo pinout sketches, A/C service tags, and typed shop sheets from October of 2001, "is Uncle David's Maintenance Binder. Every oil change, mileage reading, quirky ground wire, clutch job, and every single bolt of the rear-door person-transfer lift and twelve-volt wheelchair hoist that turned this bed into Katie and Nate's rolling wheelchair garage since brand-new in 1991. Look right here at the bottom of page eighty-four—my very first handwritten entry from August's differential fluid check right underneath Uncle David's."
+
+Ten minutes later, with the tripod stowed safely inside the house, Dad stood right beside Brittany's shoulder watching—without touching a single strap himself—as Brittany operated the rear-door transfer lift to settle Katie and me side by side onto our familiar rear Crew Cab bench seat, buckled Chelsea safely beside us with Shelly Turtle, hoisted both of our heavy unoccupied SwiftChairs smoothly up into the bed with the corded twelve-volt crane, and knelt inside the bed floor to tug-test all eight cargo tie-down hooks on the reinforced four-point tracks.
+
+"Both chairs locked four-for-four, pendant stowed, tailgate pinned, cap latched," Brittany reported, climbing out onto the concrete and wiping her palms on her jeans.
+
+"Remember the difference before you let the clutch out at the end of Indian River Road," Dad said quietly as he climbed into the front passenger seat—leaving the driver's door wide open for Brittany while his Virginia disabled plates gleamed on the bumper so neither Katie's nor my placard needed to hang from the mirror. "With four adults in the cab plus two heavy powerchairs and the hoist assembly over the rear axle, you've got nearly twelve hundred extra pounds riding smoothly on those rear leaf springs. Give her a hair more throttle coming off the stop line in *1*, leave an extra two truck-lengths of braking room coming up to red lights on Military Highway, use compound *L* if we hit a steep wet grade, and remember the one rule that never bends in this family."
+
+Sliding behind the steering wheel, adjusting her wire-rimmed glasses, and checking neutral's spring gate with a practiced palm before turning the brass key, Brittany repeated it back word for word without blinking:
+
+"Closing the camper shell isn't cargo securement—if we aren't a hundred percent sure both wheelchairs are locked down and every lift bolt is sound, this truck doesn't move an inch."
+
+In the rearview mirror, Dad's eyes crinkled warm and proud behind his glasses; in the back seat, Katie laced her fingers tightly through mine just the way we had when we were six years old; and as Brittany eased the clutch smoothly through its bite point without a tremor in the cab, our 1991 Crew Cab rolled calmly down Arvin Road into the bright September sunshine.
+
 # Across the Rotunda: The Senate of Virginia
 
 ## Watching Senator Ward Kill Our Bills Across the Rotunda, The 250-Signature Petition, & Cutting the Ribbon on Route 64 in Maplewood
@@ -13198,7 +13404,7 @@ Sitting side by side with forty-six-year-old Katie in our compact black-and-silv
 
 The deep, steady pressure of holding my sister close kept both of our chests from splintering apart.
 
-Dad had gone the way a good, tired seventy-two-year-old engineer deserved to go—peacefully in his sleep in his own familiar downstairs bedroom at home on Arvin Road four days ago, with zero sirens, zero hospital tubes, and zero unfinished worries left hanging over the people he loved. Eighteen months earlier, in the spring of 2030 when his cardiologist Dr. Evelyn Carter had told him plainly that his heart was slowing down, Dad had sat down with Brittany, Katie, and me at the dining table and walked straight into the Virginia Beach Circuit Court while he was still sharp and smiling—standing proudly beside Brittany as the judge appointed her Chelsea's successor plenary guardian and conservator, with Katie and me certified right alongside her as standby co-fiduciaries. And this morning at quarter to ten, Brittany—using the four manual gears Uncle David had patiently taught her in an empty Kempsville church parking lot back when she first came home in 2016—had eased the clutch out on Dad's gleaming Dark Midnight Blue and Ultra Silver 1991 Crestline Garrison 350 Crew Cab and driven Katie, Chelsea, Wesley, and me smoothly down Indian River Road to say goodbye to him together.
+Dad had gone the way a good, tired seventy-two-year-old engineer deserved to go—peacefully in his sleep in his own familiar downstairs bedroom at home on Arvin Road four days ago, with zero sirens, zero hospital tubes, and zero unfinished worries left hanging over the people he loved. Eighteen months earlier, in the spring of 2030 when his cardiologist Dr. Evelyn Carter had told him plainly that his heart was slowing down, Dad had sat down with Brittany, Katie, and me at the dining table and walked straight into the Virginia Beach Circuit Court while he was still sharp and smiling—standing proudly beside Brittany as the judge appointed her Chelsea's successor plenary guardian and conservator, with Katie and me certified right alongside her as standby co-fiduciaries. And this morning at quarter to ten, Brittany—using the four manual gears Uncle David had patiently taught her in an empty Kempsville parking lot after she came home—had eased the clutch out on Dad's gleaming Dark Midnight Blue and Ultra Silver 1991 Crestline Garrison 350 Crew Cab and driven Katie, Chelsea, Wesley, and me smoothly down Indian River Road to say goodbye to him together.
 
 Just to Katie's left, seventy-year-old widowed Aunt Marge Callaway stood in her black wool coat and single strand of white pearls with twenty-nine-year-old Sam, Mandy, and Sarah Hawkins lined up shoulder to shoulder right beside her.
 
@@ -13250,57 +13456,55 @@ I looked sideways at Dad's smiling silver-framed photograph beside his plain nav
 
 "Goodnight, Dad," I said softly, wrapping my arm back around my twin sister's shoulders as Katie leaned her cheek against mine and Brittany stepped forward to rest one warm hand on Katie's shoulder and one on mine. "Thank you for staying at eye level with us every single day of our lives."
 
-### Part 3: Passing the Torch for Chelsea, Four Gears Uncle David Taught Her, & Brittany's Truck Videos on StreamTube and The Grid
+### Part 3: Passing the Torch for Chelsea, Fifteen Years of Videos With Uncle David, & It Really Is Her Truck Now
 
 **Date:** 2032-04-17 at 09:30 America/New_York
 
-#### Saturday, April 17, 2032, 9:30 AM — Chelsea's New Guardian, The Only Stick-Shift Driver in the House, & Rolling on Camera in the Driveway
+#### Saturday, April 17, 2032, 9:30 AM — Fifteen Years on StreamTube, Three Manuals on the Tailgate, & Speaking in the Present Tense
 
 ![In the sunlit concrete driveway on Arvin Road in Virginia Beach on Saturday morning, April 17, 2032, forty-seven-year-old Brittany Fletcher—wearing her thin silver wire-rimmed oval glasses, rolled-up denim work shirt over a burgundy tee, and blue jeans with a red shop rag—stands smiling warmly behind the raised glass hatch and lowered tailgate of Uncle David's gleaming Dark Midnight Blue and Ultra Silver Deluxe Two-Tone 1991 Crestline Garrison 350 four-door Crew Cab 4x4 pickup, operating the corded pendant to swing out the empty 12-volt steel bed hoist above the four-point securement tracks inside the empty pickup bed for a StreamTube and The Grid video while Nathaniel and Katie sit side by side holding hands in their two SwiftChairs on the driveway behind Nate's tripod beside Chelsea holding Shelly Turtle and Wesley wearing his blue silicone ring.]({{CDN}}/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg)
 
-"Okay, Nate—wireless lapel mic is green, and the morning sun is hitting the silver stripe clean down all four doors," forty-seven-year-old Brittany said, pushing her thin silver wire-rimmed oval glasses up the bridge of her nose with the clean back of her wrist before wiping a speck of axle grease off her knuckles onto a red shop rag. "Whenever you hit record, give me two fingers."
+"Okay, Nate—wireless lapel mic is green, and the morning sun is hitting the silver stripe clean down all four doors," forty-seven-year-old Brittany said, pushing her thin silver wire-rimmed oval glasses up the bridge of her nose with the clean back of her wrist before wiping a speck of chassis grease off her knuckles onto a red shop rag. "Whenever you hit record, give me two fingers."
 
 Parked side by side with forty-seven-year-old Katie in our black-and-silver SwiftChairs near the edge of the concrete driveway on Arvin Road—with fifty-year-old Chelsea holding plush green Shelly Turtle in one arm and forty-five-year-old Wesley's hand in the other right behind our backrests—I checked the level framing on my tripod-mounted mPhone, tapped the shutter icon, and held up two fingers.
 
-Standing right beside the gleaming chrome front fender of our family's forty-one-year-old Dark Midnight Blue Metallic and Ultra Silver Metallic Deluxe Two-Tone 1991 Crestline Garrison 350 Highland four-door Crew Cab 4x4—spotless from its single rectangular glass sealed-beam headlights, blank chrome horizontal grille bar, and exposed eight-lug manual-locking front hubs all the way back to its color-matched Midnight Blue fiberglass camper shell—Brittany smiled into the lens without an ounce of influencer polish or rehearsed sales patter.
+Standing right beside the gleaming chrome front fender of our family's forty-one-year-old Dark Midnight Blue Metallic and Ultra Silver Metallic Deluxe Two-Tone 1991 Crestline Garrison 350 Highland four-door Crew Cab 4x4—kept honest and road-ready from its single rectangular glass sealed-beam headlights, blank chrome horizontal grille bar, functional chrome-latched triangular front vent windows, and exposed eight-lug manual-locking front hubs all the way back to its color-matched Midnight Blue fiberglass camper shell—Brittany smiled into the lens without an ounce of influencer polish or rehearsed sales patter.
 
-"Good morning from Virginia Beach, everybody, and welcome back to *Brittany's Garage & Rolling Sanctuary*," Brittany said warmly, resting an affectionate palm atop the squared navy-blue steel fender right ahead of the chrome-framed triangular front wing window. "A bunch of folks in the comments on Tuesday's video—where we greased the front Dana axle knuckles, swapped a cracked vacuum hose on the five-point-seven-liter throttle-body V8, and adjusted the mechanical clutch linkage underneath—asked two really great questions. Question number one: why is a forty-seven-year-old woman in wire-rimmed glasses daily-driving a 1991 heavy-duty one-ton four-wheel-drive Crew Cab with a cast-iron four-speed manual transmission? And question number two: how on earth do my two cousins who use full-time power wheelchairs ride comfortably inside an old-school pickup without a lowered floor or a fifty-thousand-dollar van ramp?"
+"Good morning from Virginia Beach, everybody," Brittany said warmly, resting an affectionate palm atop the squared navy-blue steel fender right ahead of the latched triangular wing window. "Some brand-new viewers who found our Tuesday maintenance clip on StreamTube and The Grid—where we greased the heavy-duty solid front axle steering fittings, traced a dim marker-light ground with the multimeter, and inspected the mechanical clutch linkage underneath—left two really thoughtful questions in the comments. First: how did a woman who only ever drove automatics until she was thirty-two wind up taking care of a 1991 heavy-duty one-ton four-wheel-drive Crew Cab with an *L-1-2-3-R* cast-iron four-speed manual? And second: how do my two cousins who use full-time power wheelchairs ride together inside an old-school pickup without a lowered van floor?"
 
-Beside me, Katie slipped her left hand quietly into my right hand across our armrests, both of our throats tightening with a warm, bittersweet ache at how effortlessly Brittany sounded like our dad.
+Beside me, Katie slipped her left hand quietly into my right hand across our armrests, both of us feeling a warm, steady pride at how naturally Brittany carried fifteen years of Saturday mornings in her voice.
 
-Six months had passed since Dad had passed away peacefully in his sleep in October of 2031 at age seventy-two—quietly, painlessly, surrounded by all of us before Katie's 2032 Senate re-election campaign ever kicked off.
+Brittany hadn't inherited a mystery vehicle out of the blue when Dad passed away in his sleep six months ago in October of 2031 at age seventy-two.
 
-Even as his heart and stamina had begun slowing down two years earlier at age seventy, Dad had refused to leave a single loose thread behind for the people he loved. Recognizing with his trademark retired-engineer honesty that he was getting older and would soon no longer be able to safely or legally shoulder the physical, medical, and fiduciary duties of serving as Chelsea's guardian and conservator, Dad had sat down at our dining table with Brittany, Katie, and me in the spring of 2030. Together, while Dad was still sharp and standing right beside her in the courtroom, we had petitioned the Virginia Beach Circuit Court to appoint Brittany—who had lovingly cared for Chelsea every single day since July of 2016—as Chelsea's successor court-appointed plenary legal guardian and conservator, with Katie and me certified right alongside her as standby co-fiduciaries. Chelsea hadn't experienced a single frightening hour of legal limbo or a single stranger from an agency knocking on our door; the torch had passed straight from Uncle David's steady hands into Brittany's.
+Everything happening in our driveway this morning had started fifteen summers ago in an empty Sunday parking lot off Kempsville Road while Dad was fifty-eight, grinning in the passenger seat on camera as Brittany stalled his truck five times learning neutral's spring gate and discovering that unloaded street starts began in *1* while compound granny *L* stayed tucked away for steep grades and heavy loads. Across fourteen years of quiet, unhurried uploads on StreamTube and The Grid—filmed originally just so Brittany could study Dad's hands at the workbench—thousands of ordinary viewers had watched her grow one small job at a time: first Brittany turning the wrench while Uncle David taught, then Brittany working while Uncle David watched over his coffee mug, and finally that October afternoon back in 2025 when Brittany paused halfway down Indian River Road, listened with the wing window cracked, localized a faint vehicle-speed carrier-bearing hum separate from engine RPM before pulling into the driveway, and watched Dad smile and tell her quietly that she didn't just drive the truck anymore—she knew the truck.
 
-And out here in the driveway on Arvin Road, Dad had spent fifteen years passing a second torch to Brittany too.
+When Dad entered his seventies in the spring of 2030 and realized with his lifelong retired-engineer honesty that his heart and reaction times were slowing down—before a close call could ever happen on the road—he hadn't waited for a crisis. Sitting down with Brittany, Katie, and me at the dining table while he was still sharp and smiling, Dad had first stood proudly beside Brittany in the Virginia Beach Circuit Court as the judge appointed her Chelsea's successor plenary guardian and conservator, with Katie and me certified as standby co-fiduciaries. That exact same afternoon back on Arvin Road, Dad had set the brass 1991 ignition key beside Brittany's plate and turned day-to-day driving and caretaking of the truck over to her—even though for the next eighteen months while Dad rode happily in the passenger seat, Brittany had stubbornly kept calling it *Uncle David's truck*.
 
-When Brittany had first come home from Hillside Court in the spring of 2016—shaken from thirteen years under an abuser who wouldn't even let her hold a set of car keys—Uncle David had handed her the brass ignition key to his prized 1991 Crew Cab in an empty Sunday church parking lot off Kempsville Road and patiently taught his niece how to drive a four-speed stick. Never raising his voice once if she stalled in second or missed a downshift, Dad had shown her how the unsynchronized six-point-five-five-to-one compound creeper first gear could walk a nine-thousand-pound truck smoothly up a steep ferry ramp at idle without touching the gas pedal, and every Saturday morning when he changed oil, packed wheel bearings, bled brake lines, lubricated the rear-door person-transfer lift, or tested the twelve-volt bed crane, Brittany had stood right at his elbow with a socket wrench learning every bolt by heart.
+Only when Dad's will formally left the Garrison 350 to her last autumn had Brittany had to swallow hard and confront the quiet truth everyone else in the family already knew: it really was her truck now.
 
-When Dad's will was read last autumn, he had left the 1991 Garrison 350 directly to Brittany—for love first, and for plain family practicality second.
+Out of all five adults in our household—Katie, me, Chelsea, Wesley, and Brittany—Brittany was the only licensed driver, while the rest of us carried non-driver state identification cards. Because Brittany is able-bodied and does not hold disabled parking privileges of her own, the morning she transferred title at the Buckner Boulevard DMV she swapped Dad's disabled license plates—plates he had qualified for in his own right since 1991—over to standard Virginia tags, parking out in regular spaces whenever she drove solo and hanging Katie's or my individual blue disability placard from the mirror strictly while parked when transporting us.
 
-Out of all five adults sharing our household—Katie, me, Chelsea, Wesley, and Brittany—Brittany was the only one who held a driver's license, and the only person left in the family who knew how to drive a manual transmission. Katie, Chelsea, Wesley, and I all carried non-driver state identification cards; none of the four of us could legally or physically get behind a steering wheel. Because Brittany is completely able-bodied and does not have disabled parking rights of her own, the very morning the title transferred into her name at the Buckner Boulevard DMV she replaced Dad's disabled license plates with standard non-disabled Virginia plates—parking in regular spaces out in the lot whenever she ran errands by herself, while Katie and I used our own individual removable blue disability hang tags strictly when she was transporting us, hanging one tag from the rearview mirror only after the truck was parked and taking it down before Brittany ever depressed the clutch.
+"Before we open the camper shell, take a look at the three books sitting on the shop towel here on the tailgate," Brittany told the lens, walking back past the full-size rear Crew Cab door to where the dog-eared Hartley Repair Manual, the two navy-bound Crestline Factory Service Manual volumes, and Dad's thick black three-ring Maintenance Binder lay open in the sun. "Hartley gives you the big-picture DIY overview, the 1991 Crestline Factory Service Manual gives you the exact wiring diagrams and real torque specs, and this black binder holds thirty-five—well, forty-one years now—of every part number, mileage note, Circuit Barn pull-out cassette-and-CD caddy pinout, air-conditioning charge, and wheelchair-hoist inspection this exact truck has ever had."
 
-Two months after the funeral, missing those Saturday mornings under the hood with Uncle David and realizing after watching Dan and Heather's educational channel how many caregivers online felt priced out of accessible family vehicles, Brittany had asked if I would hold a camera while she filmed a five-minute maintenance clip for StreamTube and The Grid.
+Turning softly through the plastic sleeves—where the first twenty-six years were filled in Dad's neat, square block printing and the last ten pages transitioned gradually until almost every line was in Brittany's own rounded blue-ink handwriting—Brittany tapped the hoist-inspection checklist at the bottom of the page.
 
-Within three weeks, quarter-million-view audiences were tuning in twice a week just to watch a calm, soft-spoken Virginia Beach cousin in rolled-up denim sleeves keep her late uncle's 1991 Squarebody purring like the day it left the showroom.
+"Now, whenever you're checking the four-point cargo track bolts vs. something minor like a dash speaker, Uncle David says you have to—"
 
-"Come take a look inside the cab first before we open the camper shell," Brittany invited the camera, clicking the solid chrome push-button pull handle on the driver's door and swinging it wide so the morning light caught the immaculate navy cloth-and-vinyl bench seat. "My late Uncle David bought this Garrison 350 brand-new in 1991 when my twin cousins Katie and Nate were six years old. Everything in here is pure 1991: rotary hand-crank windows on all four doors, manual chrome plunger locks, these awesome chrome-latched triangular wing windows up front that scoop a breeze right across your knuckles, cold factory air conditioning on metal sliders, and twin shifters on the floor for the four-speed manual and the part-time four-wheel-drive transfer case—plus Uncle David's two matching Circuit Barn pull-out stereo caddies so I can slide the whole cassette deck out by its bail handle and click the CD deck right into the same fourteen-pin dash block depending on which Stardust Engine album we're playing."
+Brittany stopped mid-syllable.
 
-Walking smoothly back along the Ultra Silver center trim stripe past the full-size rear Crew Cab door to the eight-foot bed, Brittany gestured warmly toward the rear passenger cabin before unlocking the dual T-handles on the Midnight Blue fiberglass camper shell, lifting the tinted rear glass hatch on its fresh gas struts—a pair she had swapped out herself on camera two Saturdays ago—and dropping the heavy steel tailgate level onto its cables.
+For two quiet seconds in the April sunshine, her thumb rested completely still against the edge of the plastic binder sleeve as she realized she had just spoken about him in the present tense. She didn't apologize to the camera or turn it into a speech; she simply blinked once behind her silver wire-rimmed glasses, let a small, genuine smile touch the corner of her mouth, and finished the thought cleanly.
 
-"Now here is the magic Uncle David engineered back in October of 2001 when Katie and Nate turned sixteen and moved into their two compact SwiftChair power wheelchairs," Brittany said, her voice warming with deep family pride as Katie and I squeezed hands across our armrests behind the tripod. "Katie and Nate are autistic twins, and sitting side by side holding hands is how they regulate and ground each other. Uncle David refused to trade away the childhood truck they loved or strap them apart like freight—so his rule was simple: *people ride together in the cab, and unoccupied powerchairs ride secured as cargo in the bed.* First, our curbside rear-door person-transfer lift raises Katie and Nate smoothly onto the full rear Crew Cab bench seat right beside each other, and then we roll their two empty chairs right back here to what we call the rolling wheelchair garage."
+"—Uncle David always taught me that a broken radio just means a quiet drive, whereas anything questionable on a transfer lift, hoist bolt, or wheelchair tie-down means the truck stays parked until it's fixed right to factory spec."
 
-Picking up the corded pendant controller clipped inside the right rear pillar of the empty pickup bed, Brittany pressed the toggle switch with her thumb. With a quiet electric hum, the steel swing-boom of the twelve-volt powered bed hoist pivoted smoothly outward over the open tailgate—its heavy-duty lifting hook and cradle poised cleanly above the twin sets of steel four-point securement tracks bolted straight through the navy bed floor, ready to lift Katie's and my unoccupied powerchairs off the concrete without Brittany straining her back an inch and lock all eight wheels beneath the weather-sealed fiberglass cap in under a minute.
+Picking up the corded pendant controller clipped inside the right rear pillar beneath the raised camper-shell glass, Brittany pressed the toggle switch. With a smooth twelve-volt hum, the steel boom of the bed hoist swung cleanly outward above the twin four-point securement tracks in the empty bed—the rolling wheelchair garage Dad had built in October of 2001 when he promised two sixteen-year-old twins *Then we'll change the truck*, right behind the wide rear Crew Cab bench where Katie and I still sat hip to hip holding hands on every family drive.
 
-"Rain, highway salt, or August humidity never touches a single motor brush, battery box, or joystick circuit inside this cap," Brittany smiled into the lens, patting the solid steel tailgate sill before tapping a knuckle lightly above the standard non-disabled Virginia license plate bolted to the chrome rear step bumper. "And to answer one more great question from Wednesday's comments—yes, those are regular Virginia plates on the bumper now! My late Uncle David had disabled plates in his own right, whereas I don't have a disability or disabled parking rights of my own, so when I inherited the truck we swapped it straight over to standard tags. When I drive to the hardware store or the grocery store by myself, I park out in a regular spot like everybody else—and whenever I'm transporting Katie and Nate, they bring their own individual disability hang tags so we hang one on the mirror strictly while we're parked and need the access room for the lift and the hoist. Forty-one years old, three pedals on the floor, and nobody in our family ever gets left behind at home. Thanks for hanging out in the driveway with us this morning—remember to check your u-joint grease fittings before summer road-trip season, and we'll see you next Saturday!"
+"All eight track anchors torqued to spec, hoist cable clean, and zero play in the rear-door transfer lift," Brittany smiled into the lens, stowing the pendant neatly on its clip. "Thanks for spending Saturday morning in the driveway with us—check your fluid levels before warm weather hits, and we'll see you next week."
 
-I tapped the screen to stop recording, and behind our two SwiftChairs Chelsea clapped her hands against Shelly Turtle's plush flipper while Wesley grinned from ear to ear, holding up two enthusiastic thumbs beside his blue silicone ring.
+The second I tapped stop on my mPhone screen—adding one more chapter to a fourteen-year video archive where Katie, Brittany, Chelsea, and I could still pull up two hundred older uploads anytime we missed hearing Dad's voice explain a carburetor vacuum gauge or laugh from the passenger bench—Katie squeezed my fingers tight across our armrests.
 
-"One take, zero stumbles, and you hit every torque spec better than the service manual," Katie beamed from her SwiftChair beside me, looking up at our cousin with shining eyes. "Dad would be over the moon watching you, Brittany."
+"Good take, Brittany," I said quietly.
 
-Brittany tucked the red shop rag into her back jeans pocket, took off her silver wire-rimmed glasses for two seconds to dab quickly at the corner of her eye, and slipped them right back on with a bright, steady smile.
-
-"Learned from the best teacher in Kempsville," Brittany said softly, resting a hand beside the poised hoist boom and jingling the brass 1991 keys in her palm. "Now let's get you two transferred up onto the rear bench seat, hoist both chairs onto the tracks, and go for a Saturday spin down Shore Drive with the wing windows open before we caption this upload!"
+Brittany closed the black three-ring binder gently over her fresh April entry, tucked her red shop rag into her back pocket, and smiled down at the four of us. "Come on, everybody—let's get you two up onto the rear bench, lock both SwiftChairs into the garage, crack the wing windows open, and go get lunch down Shore Drive."
 
 ## Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop
 
