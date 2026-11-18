@@ -182,8 +182,45 @@ foreach ($dirs as $novelDir) {
     // <aac> tags: Augmentative and Alternative Communication dialogue -> convert to italics
     $content = preg_replace('/<aac>(.*?)<\/aac>/is', '*$1*', $content);
 
-    // <asl>, <sgn>, <sms>: Sign language and text messaging -> convert to italics
-    $content = preg_replace('/<(asl|sgn|sms)>(.*?)<\/\1>/is', '*$2*', $content);
+    // <asl>, <sgn>, <sms>, <pa>: Sign language, text messaging, and PA announcements -> convert to italics
+    $content = preg_replace('/<(asl|sgn|sms|pa)>(.*?)<\/\1>/is', '*$2*', $content);
+
+    // <led>: Transit destination LED matrix signs -> convert to bracketed monospace eBook badge
+    // Supports single-line (`<led>112 NNTC</led>`), two-line stacked (`<led>TOP | BOTTOM</led>`),
+    // and full-height route + stacked destination (`<led>913 | VA BEACH | SHORE & PLEAS HSE</led>`).
+    $content = preg_replace_callback('/<led\b([^>]*?)(?:\/>|>(.*?)<\/led>)/isu', function($matches) {
+        $attrStr = $matches[1] ?? '';
+        $rawInner = $matches[2] ?? '';
+        $attrs = [];
+        if ($attrStr !== '' && preg_match_all('/([a-zA-Z0-9_-]+)\s*=\s*(?:"([^"]*)"|\'([^\']*)\')/u', $attrStr, $am, PREG_SET_ORDER)) {
+            foreach ($am as $m) {
+                $attrs[strtolower($m[1])] = trim($m[2] !== '' ? $m[2] : ($m[3] ?? ''));
+            }
+        }
+        $route = $attrs['route'] ?? '';
+        $lines = [];
+        if (isset($attrs['line1']) || isset($attrs['line2'])) {
+            if (($attrs['line1'] ?? '') !== '') $lines[] = $attrs['line1'];
+            if (($attrs['line2'] ?? '') !== '') $lines[] = $attrs['line2'];
+        } else {
+            $norm = preg_replace('/<br\s*\/?>|\R/iu', '|', $rawInner);
+            $parts = array_values(array_filter(array_map('trim', explode('|', (string)$norm)), fn($s) => $s !== ''));
+            if ($route === '' && count($parts) >= 3) {
+                $route = array_shift($parts);
+                $lines = [$parts[0], implode(' ', array_slice($parts, 1))];
+            } elseif (count($parts) >= 2) {
+                $lines = [$parts[0], implode(' ', array_slice($parts, 1))];
+            } elseif (count($parts) === 1) {
+                $lines = [$parts[0]];
+            }
+        }
+        $joinedLines = implode(' / ', $lines);
+        $label = ($route !== '' && $joinedLines !== '')
+            ? ($route . ' | ' . $joinedLines)
+            : ($route !== '' ? $route : $joinedLines);
+        $label = str_replace('`', "'", trim($label));
+        return $label !== '' ? "`[{$label}]`" : '';
+    }, $content);
 
     // <lang> tags: Multilingual speech -> convert to italics with inline parenthetical translation
     $content = preg_replace_callback('/<lang(?:[^>]*?)trans="([^"]+)"(?:[^>]*?)>(.*?)<\/lang>/is', function($matches) {
