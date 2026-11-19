@@ -99,7 +99,25 @@ Dr. Evelyn Cross closes her eyes and doesn't utter another syllable about the do
 
 ---
 
-## 4. 1:45 AM – 8:30 AM — Calling Dad on I-81, Two Hardware-Store Screws, & Saving Natalie
+## 4. The Legal Breakdown: Why the Sheriff's Lieutenant Could Not (and Would Not) Arrest Wesley
+
+Why does Lieutenant Miller immediately shut down RRC's demand to arrest **Wesley**—even though Wesley popped the Rec Hall strike plate loose right in front of a uniformed deputy? Under **Commonwealth of Virginia law** in 2007, four interlocking rules protect Wesley on the spot:
+
+1. **Common-Law Defense of Necessity (`Va. Code § 1-200`; *Humphrey v. Commonwealth*, 37 Va. App. 36):**
+   Virginia preserves the common-law **necessity** justification whenever minor property damage or entry is committed to prevent a greater imminent harm. Every required legal element happens right in front of Lieutenant Miller:
+   * **Reasonable Belief of Imminent Harm:** RRC *itself* declared an active **Missing Vulnerable Adult** emergency for two full-time wheelchair users, one of whom (`Katie`) suffered acute facial and nasal trauma hours earlier—carrying real risk of concussion or secondary bleeding inside a locked, unmonitored building with powered-off phones.
+   * **No Legal Alternative Left:** Heather and Wesley tried the lawful route first—driving straight to Barton Hall and showing Dr. Cross and the Night Supervisor Nate's `10:44 PM` text naming the exact Rec Hall closet—and RRC staff **refused to use their master key**.
+   * **Proportionality (*"Lesser of Two Evils"*):** Popping four oxidized screws out of a worn 1974 latch plate (`less than five dollars in hardware`) is vastly outweighed by reaching an injured missing vulnerable adult—and the instant the closet opens with Katie and Nate sitting right inside, necessity is proven beyond dispute.
+2. **Zero Criminal *"Unlawful"* Intent Under `Va. Code §§ 18.2-137` & `18.2-138`:**
+   Under Virginia's property-damage and public-building statutes (`Va. Code § 18.2-137` and `§ 18.2-138`), damaging property is only a crime when done **"unlawfully"**—meaning with criminal or vandalism intent (*mens rea*), not a good-faith rescue during an active missing-persons alert. Even if someone tried to classify pulling a worn strike plate loose without intent to vandalize under `§ 18.2-137(A)`, repair cost well below `$1,000` (`literally two #10 sheet-metal screws`) is at most a **Class 3 misdemeanor** carrying **zero authorized jail time** and subject to statutory dismissal once repair costs are satisfied.
+3. **Virginia's Mandatory Misdemeanor Summons Rule (`Va. Code § 19.2-74`) Prohibits Custodial Arrest:**
+   When panicked staff shout *"Arrest him right now!"*, they assume police can handcuff and haul someone to jail over a broken latch. In Virginia, **`Va. Code § 19.2-74` legally prohibits taking a person into physical custodial arrest** for a Class 1, 2, 3, or 4 misdemeanor unless the person refuses to stop the act or poses an ongoing danger. Once Wesley opens the closet door and kneels peacefully beside Nate, Lieutenant Miller has zero legal authority to place Wesley in handcuffs even if he wanted to.
+4. **Probable-Cause Discretion & RRC's Catastrophic Courtroom Exposure:**
+   State agency administrators cannot order a Sheriff's officer to make an arrest—probable cause belongs solely to law enforcement and the Augusta County Commonwealth's Attorney. No prosecutor in Virginia would ever bring a case against a non-verbal autistic young adult who **rescued two "missing" disabled students from the exact locked building RRC falsely certified on a `1:00 AM` state incident form was empty**—especially when walking into a courtroom would put RRC under oath regarding Tuesday afternoon's unnotified pool battery and a falsified state Missing Vulnerable Adult clearance log.
+
+---
+
+## 5. 1:45 AM – 8:30 AM — Calling Dad on I-81, Two Hardware-Store Screws, & Saving Natalie
 
 Rescuing Katie and Nate at **`1:35 AM`**—more than **two full hours earlier** than in [**`Ending B`**](/books/katie/what-if-rrc-unlocked-closet-ending-b-three-fifty-am)—makes the rest of Wednesday morning even sweeter:
 
