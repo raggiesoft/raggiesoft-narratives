@@ -1,40 +1,47 @@
 ---
 title: "Alternate 'What If' Dossier (Ending B — 6:40 AM): Sneaking Past the Morning Janitor—And Rolling Out Into Their Own Missing-Persons Command Post"
-subtitle: "What Happens If Nobody Re-Checks the Rec Hall Overnight, Nate and Katie Pull Off a Flawless Dawn Stealth Exit, & They Ask Their Own Search Party Who Went Missing"
+subtitle: "What Happens When the Night Supervisor Lies Over Heather's 10:44 PM Text, Nate and Katie Pull Off a Flawless Dawn Stealth Exit, & They Ask Their Own Search Party Who Went Missing"
 category: "Katie & Nathaniel — Behind the Scenes"
 property: "books"
 date: "2007-07-18"
-time: "03:35–08:45 EDT"
+time: "03:05–08:45 EDT"
 location: "Campus Recreation Hall & Main Quadrangle, Roosevelt Rehabilitation Center, Fishersville, Virginia"
 sender: "RaggieSoft Backstage Production Dossier"
 recipient: "Readers of Katie & Nathaniel (Episode 7, Chapter 2, Part 2)"
-relatedBookUrl: "https://books.raggiesoft.com/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report/part-2-emergency-in-the-therapeutic-pool-caught-sleeping-together-in-a-closet-calling-the-staffer-s-bluff-the-chickenshit-report"
+relatedBookUrl: "https://books.raggiesoft.com/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report/part-2-emergency-in-the-therapeutic-pool-caught-sleeping-together-in-a-closet-calling-the-staffer-s-bluff-the-chickenshit-report"
 relatedBookLabel: "Episode 7, Chapter 2, Part 2: Caught Sleeping Together in a Closet"
 image: "https://assets.raggiesoft.com/raggiesoft-backstage/images/scenes/what-if-rrc-unlocked-closet-ending-b-640am-courtyard.jpg"
-imageAlt: "At crisp 6:40 AM March sunrise on the red-brick courtyard quadrangle outside the Roosevelt Rehabilitation Center Rec Hall—where an oblivious janitor with a yellow mop bucket is visible inside the glass doors—twenty-two-year-old Katie Prairie with a small white gauze strip across her nose and her twin brother Nate round a trimmed boxwood hedge side by side in their two black collapsible joystick wheelchairs in wide-eyed, innocent surprise with zero clue they are the missing persons, as forty-eight-year-old David Prairie holding a foam coffee cup beside his Dark Midnight Blue and Ultra Silver 1991 Crew Cab 4x4, uniformed Sheriff's deputies and State Troopers beside flashing cruiser lightbars, Dr. Evelyn Cross, and a jaw-dropped Night Supervisor spin around 180 degrees in stunned disbelief."
-summary: "An official Alternate 'What If' exploration (Ending B): when the Night Supervisor swears on three state incident forms that the Rec Hall is empty, Katie and Nate sleep eight glorious hours undisturbed, sneak past the 6:25 AM janitor on Speed Setting 1 so nobody inside sees them, and roll casually onto the sunlit quad—having zero clue that the police command post and their dad are there looking for them."
+imageAlt: "At warm 6:40 AM July sunrise on the red-brick courtyard quadrangle outside the Roosevelt Rehabilitation Center Rec Hall—where an oblivious janitor with a yellow mop bucket is visible inside the glass doors—Katie Prairie with a small white gauze strip across her nose and her twin brother Nate round a trimmed boxwood hedge side by side in their two black collapsible joystick wheelchairs in wide-eyed, innocent surprise with zero clue they are the missing persons, as their father David Prairie holding a foam coffee cup beside his pickup truck, uniformed Sheriff's deputies and State Troopers beside flashing cruiser lightbars, Dr. Evelyn Cross, and a jaw-dropped Night Supervisor spin around 180 degrees in stunned disbelief."
+summary: "An official Alternate 'What If' exploration (Ending B): even after Heather and Wesley are woken up at the hotel with Nate's 10:44 PM text naming the exact Rec Hall closet, the panicked Night Supervisor swears on three signed state logs that he cleared every inch of that closet—so Katie and Nate sleep eight glorious hours, sneak past the 6:25 AM janitor on Speed Setting 1, and roll onto the quad asking who went missing."
 ---
 
-> **Archival Note:** In [**`Alternate 'What If' — Ending A (3:50 AM)`**](/books/katie/what-if-rrc-unlocked-closet-ending-a-three-fifty-am), leaving the Rec Hall seasonal storage closet **unlocked** at `10:44 PM` on Tuesday, July 17, 2007 fools the `11:25 PM` curfew sweep until **David Prairie** arrives from Alexandria at `3:35 AM` and asks whether anyone actually flipped the closet light switch on.
+> **Archival Note:** In [**`Alternate 'What If' — Ending A (3:50 AM)`**](/books/katie/what-if-rrc-unlocked-closet-ending-a-three-fifty-am), leaving the Rec Hall seasonal storage closet **unlocked** at `10:44 PM` on Tuesday, July 17, 2007 fools the `11:25 PM` curfew sweep until **Heather and Wesley** arrive from their Waynesboro hotel with Nate's `10:44 PM` text message and **David Prairie** asks whether anyone actually flipped the closet light switch on.
 >
-> In **`Ending B (6:40 AM)`**, one bureaucratic detail tips the night even further into pure comedy gold: to cover his own tracks in front of **Director Dr. Evelyn Cross** and the **Augusta County Sheriff's Office**, the **Night Supervisor** swears up and down on three official logs that he *personally entered and cleared every inch of the Rec Hall seasonal closet with a flashlight*—guaranteeing that **nobody sets foot inside the Rec Hall all night long**, and setting up the greatest accidental stealth exit in Fishersville history.
+> In **`Ending B (6:40 AM)`**, one bureaucratic lie tips the night even further into pure comedy gold: to save his own skin after falsifying the `1:00 AM` state incident form, the **Night Supervisor** swears up and down in front of **Director Dr. Evelyn Cross**, **Heather**, **David**, and the **Augusta County Sheriff's Office** that he *personally entered the Rec Hall seasonal closet with a high-beam flashlight and checked behind every coat rack and curtain*—insisting Nate's `10:44 PM` text was a decoy, keeping everyone out of the Rec Hall until dawn, and setting up the greatest accidental stealth exit in Fishersville history.
 
 ---
 
-## 1. 3:35 AM – 6:20 AM — Why Searchers Comb Half the Shenandoah Valley Except Sixty Yards Away
+## 1. 3:05 AM – 6:20 AM — Heather Knows Where They Are, But a Signed State Form Blocks the Door
 
-Because the Night Supervisor signs his name on the `1:00 AM` **Missing Vulnerable Adult Incident Sheet** certifying that the **Campus Recreation Hall** was *"100% physically cleared room-by-room and locked secure at 23:26,"* every single pair of eyes looks **off campus**:
+Just as in **`Ending A`**, right before powering both of their flip phones completely **OFF** inside the unlocked Rec Hall seasonal storage closet at `10:44 PM` Tuesday night, Nate sent an `<sms>` message to **Heather Collins**: telling her that a classmate had hit Katie's nose in the pool, giving their **exact location** (`the seasonal storage closet at the end of the back hallway in the Rec Hall`), letting her know both phones were being shut completely off for the night, and promising that if this didn't work out tonight, tomorrow they would sleep at the hotel with her and **Wesley**—comfortable telling Heather they were hiding in a closet because she already knew they slept in their bedroom closet at home (`while RRC's Level 2 Overnight Pass rules required advance counselor approval plus pickup by a Parent or Legal Guardian, ruling Heather out that evening`).
 
-* Between `1:30 AM` and `6:15 AM`, **Augusta County Sheriff's** units, **Virginia State Police** troopers, **RRC Campus Police**, and a frantic, exhausted **David Prairie** (who roared 150 miles down `I-66` and `I-81` in his Dark Midnight Blue and Ultra Silver **`1991 Crestline Garrison 350` Crew Cab 4x4** after Dr. Cross's mandatory `1:15 AM` next-of-kin phone call went straight to his twins' silenced flip-phone voicemails) check every mile of `U.S. Route 250` between Staunton and Waynesboro, the emergency-room triage desk across the highway, the twenty-four-hour truck stops off `I-81 Exit 222` and `I-64 Exit 91`, and the downtown Staunton passenger-rail platform.
-* At **`6:20 AM`**, as cold pink March sunrise crests the Blue Ridge Mountains, three Sheriff's cruisers, two Virginia State Police cruisers, and David's 1991 Crew Cab pull onto the curved brick turnaround at the center of the **main RRC quadrangle** between Barton Hall and the Dining Hall—spreading a topographical campus-and-highway grid map across a cruiser hood to organize a daylight search before breakfast.
+When the `9:30 PM` **Shenandoah Valley Transit (`SVT`) Route 250 Connector** check-in logs and the `11:00 PM` Barton Hall curfew check both come up empty, **Dr. Evelyn Cross** calls **David Prairie** in Alexandria at `1:15 AM`, and by `3:05 AM` **Augusta County Sheriff's Sergeant Holloway** wakes **Heather and Wesley** up in **Room 114** of their Waynesboro hotel five minutes away:
 
-Sixty yards behind them, tucked cozily behind racks of winter coats and heavy burgundy velvet stage curtains inside the Rec Hall seasonal storage closet, **Katie and Nate Prairie** wake up after **eight uninterrupted hours of the best sleep they have had since leaving Virginia Beach**.
+* **Heather Immediately Calms Wesley & Brings Nate's `10:44 PM` Text to Campus (`3:35 AM`):**
+  Reading Nate's `10:44 PM` text the instant she flips open her phone in Room 114, Heather immediately steadies **Wesley** (*"They aren't lost, Wes—Nate texted me they're sleeping in the Rec Hall closet just like their closet at home with their phones turned off!"*) and drives five minutes up Route 250 with Wesley, pulling onto campus right alongside **David Prairie's** Crew Cab pickup.
+* **The Night Supervisor's Career-Ending Double-Down:**
+  When Heather holds her open flip phone right in front of Sergeant Holloway, Dr. Cross, and David showing Nate's `10:44 PM` text naming the **Rec Hall seasonal storage closet**, the **Night Supervisor** breaks into a cold sweat—because on the `1:00 AM` **Missing Vulnerable Adult Incident Sheet** already faxed to Richmond, he signed his legal signature certifying that he *"personally entered the Rec Hall seasonal storage closet with a flashlight at 23:26, checked behind every coat rack and stage curtain, and verified the room 100% empty."*
+  Terrified of admitting in front of two police agencies and his Director that he lied on a state form without ever flipping the light switch on, the Night Supervisor doubles down at full volume—insisting that Nate must have sent that `10:44 PM` text *as a decoy* before slipping off campus!
+* **3:45 AM – 6:20 AM — Searching Route 250 While Heather Refuses to Budge:**
+  Forced by the signed state affidavit to sweep off-campus corridors too, Sheriff's deputies and **Virginia State Police** troopers check `U.S. Route 250` between Staunton and Waynesboro, the emergency-room triage desk across the highway, and the `I-81` / `I-64` interchanges until **`6:20 AM`**, when warm golden July sunrise crests the Blue Ridge Mountains and the cruisers regroup on the curved brick turnaround of the **main RRC quadrangle** beside David's pickup and Heather's accessible van. Standing beside David with Wesley right at her elbow, Heather crosses her arms and repeats calmly: *"Mr. Prairie, Nate does not send decoy texts. The minute somebody unlocks that Rec Hall, they're sitting behind those curtains."*
+
+Sixty yards behind them, tucked cozily behind racks of winter coats and heavy burgundy velvet stage curtains inside the air-conditioned Rec Hall seasonal storage closet, **Katie and Nate Prairie** wake up after **eight uninterrupted hours of the best sleep they have had since leaving Virginia Beach**.
 
 ---
 
 ## 2. 6:22 AM – 6:39 AM — Operation Speed-One Stealth Inside the Rec Hall
 
-Stretching his shoulders in the quiet dark without hitting a single dorm wall, twenty-two-year-old Nate checks his watch (`6:22 AM`—he hasn't even glanced at his silenced flip phone tucked deep inside his zipped backpack pocket!) and grins across at Katie in the faint grey crack of light beneath the unlocked wooden door.
+Stretching his shoulders in the quiet dark without hitting a single dorm wall, Nate checks his watch (`6:22 AM`—both of their powered-off flip phones are still zipped inside their pockets so they won't chime inside the building!) and grins across at Katie in the faint grey crack of light beneath the unlocked wooden door.
 
 "Katie," Nate whispers, barely believing their luck, "nobody opened the door all night! We actually pulled it off!"
 
@@ -42,7 +49,7 @@ Before Katie can whisper back, the heavy steel side maintenance door down by the
 
 Katie's blue eyes light up past the white medical gauze strip taped across the bridge of her nose.
 
-"Nate, listen to me," Katie breathes into his ear, thinking purely like a twenty-two-year-old outsmarting a dorm curfew clipboard. "Barton Hall knows we weren't in our beds at eleven o'clock, right? Right now they probably think somebody in Cantor Hall hid us, or they have zero proof where we went! Nobody saw us roll in here last night—so if we sneak out of this building right now **without Earl or a single staffer laying eyes on us**, nobody at RRC will *ever* figure out our unlocked-closet trick! We can roll straight into the six-forty-five breakfast line from outside like we just went out for morning air!"
+"Nate, listen to me," Katie breathes into his ear, thinking purely about outsmarting a Barton Hall curfew clipboard. "Barton Hall knows we weren't in our beds at eleven o'clock, right? Right now they probably think somebody in Cantor Hall hid us, or they have zero proof where we went! Nobody saw us roll in here last night—so if we sneak out of this building right now **without Earl or a single staffer laying eyes on us**, nobody at RRC will *ever* figure out our unlocked-closet trick! We can power our phones on outside, text Heather good morning, and roll straight into the six-forty-five breakfast line like nothing happened!"
 
 Nate grins from ear to ear and gives her a silent thumbs-up. **Operation Speed-One Stealth** is on:
 
@@ -62,47 +69,48 @@ Not a single soul inside the Recreation Hall ever saw them enter, sleep, or leav
 
 ---
 
-## 3. 6:40 AM — Rounding the Boxwood Hedge With Zero Clue Who's Missing
+## 3. 6:40 AM — Rounding the Boxwood Hedge Into Dad, Heather, Wesley, & Two Police Agencies
 
 "Zero witnesses," Nate whispers triumphantly as they roll down the brick path behind the boxwood hedge, dialing his speed knob back up to normal cruising speed while Katie suppresses a proud giggle beside him. "Let's see our counselor prove where we—"
 
-Nate's words die in his throat as both wheelchairs glide side by side past the end of the green boxwood hedge into the crisp golden-blue `6:40 AM` sunlight of the main campus quadrangle.
+Nate's words die in his throat as both wheelchairs glide side by side past the end of the green boxwood hedge into the warm golden `6:40 AM` July sunlight of the main campus quadrangle.
 
 Katie and Nate pull back on their joysticks at the exact same instant, stopping dead on the bricks.
 
-Parked bumper to bumper around the circular brick turnaround between Barton Hall and the Dining Hall—blue roof lightbars pulsing silently against the red-brick walls in the dawn—sit **three Augusta County Sheriff's cruisers, two grey-and-blue Virginia State Police cruisers, and two RRC Campus Police sedans**. Gathered around a campus map taped across a cruiser hood stand half a dozen uniformed deputies and troopers, a pale, hollow-eyed **Dr. Evelyn Cross**, a clipboard-clutching **Night Supervisor** with dark circles under his eyes—and, twenty feet to the right with one hand resting on the gleaming Dark Midnight Blue and Ultra Silver fender of his **`1991 Crestline Garrison 350` four-door Crew Cab 4x4** and a steaming white foam coffee cup in the other, **their forty-eight-year-old father, David Prairie**.
+Parked bumper to bumper around the circular brick turnaround between Barton Hall and the Dining Hall—blue roof lightbars pulsing silently against the red-brick walls in the summer dawn—sit **three Augusta County Sheriff's cruisers, two grey-and-blue Virginia State Police cruisers, and two RRC Campus Police sedans**. Gathered around a campus map taped across a cruiser hood stand half a dozen uniformed deputies and troopers, a pale, hollow-eyed **Dr. Evelyn Cross**, a clipboard-clutching **Night Supervisor** with dark circles under his eyes—and, twenty feet to the right beside Dad's pickup truck and Heather's silver accessible van, **their father David Prairie** holding a foam coffee cup right alongside **Heather Collins** and **Wesley**!
 
-Having spent the last twenty minutes sneaking past a janitor so they wouldn't get a petty curfew slip, **neither Katie nor Nate has even a microscopic suspicion that this entire law-enforcement task force is here for them.**
+Having spent the last twenty minutes sneaking past a janitor with their phones still powered off so they wouldn't get a petty curfew slip, **neither Katie nor Nate has even a microscopic suspicion that this entire law-enforcement task force is here for them.**
 
-"Whoa, Nate," Katie whispers in wide-eyed shock, staring at the five police cruisers and the topographical map on the hood. "Somebody must have escaped off campus in the middle of the night! Wait—is that *Dad's* pickup truck?!"
+"Whoa, Nate," Katie whispers in wide-eyed shock, staring at the police cruisers and the map on the hood. "Somebody must have escaped off campus in the middle of the night! Wait—is that *Dad's* pickup truck AND *Heather's* van?!"
 
-"What on earth is Dad doing in Fishersville on a Wednesday morning?!" Nate whispers back, completely mystified.
+"What on earth are Dad, Heather, and Wes doing on campus at six-forty on a Wednesday morning?!" Nate whispers back, completely mystified.
 
 Rolling casually out across the sunny brick courtyard right behind the semicircle of troopers—looking around the Barton Hall lawn with genuine neighborly curiosity to see what the commotion is about—Nate raises his voice cheerfully over the quiet murmur of police radios:
 
-> **"Dad?! What are you doing in Fishersville at six-forty in the morning—and who went missing?!"**
+> **"Dad?! Heather?! Wes?! What are all of you doing here at six-forty in the morning—and who went missing?!"**
 
-Twelve heads whip around `180 degrees` at the exact same millisecond.
+Fourteen heads whip around `180 degrees` at the exact same millisecond.
 
 For four full seconds of absolute, pin-drop Shenandoah Valley silence:
 * **David Prairie's** jaw drops open so fast he nearly drops his foam cup of black coffee straight onto his shoes.
+* **Heather** points straight from the twins to her flip phone to the Night Supervisor without even needing to say *"I told you so,"* while **Wesley** breaks into a huge grin beside her.
 * **Dr. Evelyn Cross** grabs the edge of the cruiser fender as if two ghosts just materialized out of the boxwood bushes.
-* **The Night Supervisor**—whose signed certification swearing that *he personally cleared every inch of the Rec Hall* is literally sitting under the Sheriff's Sergeant's elbow on the hood—turns the exact shade of a boiled lobster.
-* And **Augusta County Sheriff's Sergeant Holloway** slowly lowers his grease pencil, stares once at the Night Supervisor, stares through the glass doors of the Rec Hall fifty feet behind the twins where Earl is still happily mopping the lobby oblivious to the universe, and looks back at two wide-eyed, well-rested twenty-two-year-olds in clean hoodies and jeans.
+* **The Night Supervisor**—whose signed state certification swearing that *he personally checked behind every coat rack and stage curtain in the Rec Hall seasonal closet with a flashlight* is literally sitting under the Sheriff's Sergeant's elbow on the hood—turns the exact shade of a boiled lobster.
+* And **Augusta County Sheriff's Sergeant Holloway** slowly lowers his grease pencil, stares once at Heather's phone, stares once at the Night Supervisor, stares through the glass doors of the Rec Hall fifty feet behind the twins where Earl is still happily mopping the lobby oblivious to the universe, and looks back at Katie and Nate sitting side by side in clean hoodies and jeans.
 
-"Who went missing?!" Sergeant Holloway repeats, fighting for his life not to burst out laughing in front of two State Troopers. "Son, half of Augusta County, the Virginia State Police, and your father have been tearing up Route 250 from Waynesboro to Staunton since one o'clock this morning looking for **THE TWO OF YOU**!"
+"Who went missing?!" Sergeant Holloway repeats, fighting for his life not to burst out laughing in front of two State Troopers. "Son, half of Augusta County, the Virginia State Police, and your family have been up since one o'clock this morning looking for **THE TWO OF YOU**—even after Heather showed us your text message naming that exact closet, because *somebody* signed a state form swearing he checked behind every curtain in there with a flashlight!"
 
-Katie and Nate blink in unison, look at each other across their armrests, look at their stunned father striding across the bricks to wrap both of them in a bone-crushing hug, and look straight at the crimson-faced Night Supervisor.
+Katie and Nate blink in unison, look at each other across their armrests, look at David, Heather, and Wesley striding across the bricks to wrap both of them in hugs and happy knuckle-taps, and look straight at the crimson-faced Night Supervisor.
 
-"Looking for *us*?!" Katie blurts out in total, innocent astonishment, pointing her thumb back over her shoulder toward the Rec Hall behind the hedge. "We didn't leave campus! We were sixty yards right over there asleep behind the stage curtains in the seasonal closet—we only left the door unlocked! Didn't anybody turn the light switch on?!"
+"Looking for *us*?!" Katie blurts out in total, innocent astonishment, pointing her thumb back over her shoulder toward the Rec Hall behind the hedge. "We didn't leave campus! We were sixty yards right over there asleep behind the stage curtains in the seasonal closet—exact place Nate texted Heather! We only left the door unlocked—didn't anybody turn the light switch on?!"
 
-Watching Sergeant Holloway slowly turn his head back toward the Night Supervisor—*"Cleared every inch with a flashlight at 23:26, huh?"*—while Dr. Evelyn Cross closes her eyes in pure career-ending agony is a sight neither Katie, Nate, nor David ever forgets for the rest of their lives.
+Watching Sergeant Holloway slowly turn his head back toward the Night Supervisor—*"Checked behind every coat rack and curtain at 23:26, huh?"*—while Dr. Evelyn Cross closes her eyes in pure career-ending agony is a sight neither Katie, Nate, Heather, Wesley, nor David ever forgets for the rest of their lives.
 
 ---
 
-## 4. 7:00 AM – 8:45 AM — Criminal Handcuffs for Chris, Tina's Thumb Drive, & Riding Up I-81
+## 4. 7:00 AM – 8:45 AM — Criminal Handcuffs for Chris, Tina's Thumb Drive, & Leaving Fishersville Together
 
-Just like in [**`Ending A`**](/books/katie/what-if-rrc-unlocked-closet-ending-a-three-fifty-am), having the **Augusta County Sheriff's Office** and **Virginia State Police** standing ten feet away when David Prairie examines Katie's bandaged, bruised nose shatters RRC's ability to sweep Tuesday afternoon's pool assault under the rug:
+Just like in [**`Ending A`**](/books/katie/what-if-rrc-unlocked-closet-ending-a-three-fifty-am), having the **Augusta County Sheriff's Office** and **Virginia State Police** standing ten feet away when David and Heather examine Katie's bandaged, bruised nose shatters RRC's ability to sweep Tuesday afternoon's pool assault under the rug:
 
 * **7:15 AM — Arresting Christopher Vance (`Saving Natalie Twelve Hours Early`):** Learning right on the courtyard bricks that **Christopher Vance** struck Katie across the face and ripped her swimsuit top in the therapeutic pool yesterday afternoon—and that nobody at RRC called the police or notified her father until they thought she had vanished—David files an immediate criminal assault-and-battery complaint with Sergeant Holloway. Deputies walk straight into Barton Hall and take Christopher Vance out in handcuffs before breakfast finishes—**preventing Wednesday night's dorm-database keycard attack on cognitively disabled classmate Natalie** before it can ever happen!
-* **8:30 AM — Packing Up With a Full Night's Sleep & Tina's `PHP` / `SQL` Drive:** While half of Barton Hall cheers quietly from the second-story windows watching David hoist Katie's and Nate's folded wheelchairs beneath the camper shell of his 1991 Crew Cab (`Day 10`), classmate **Tina** walks briskly out of the Dining Hall breezeway, adjusts her glasses with a grin of pure admiration at the two twenty-two-year-olds who defeated state bureaucracy with an unlocked doorknob and Speed Setting `1`, and slips a `2-gigabyte` USB drive packed with the rest of Mr. Alderman's **Web Applications Developer** `PHP` and `SQL` modules straight into Nate's hand as they climb into the four-door cab and roll home free.
+* **8:30 AM — Packing Up With a Full Night's Sleep & Tina's `PHP` / `SQL` Drive:** While half of Barton Hall cheers quietly from the second-story windows watching David hoist Katie's and Nate's folded wheelchairs beneath the camper shell of his pickup (`Day 11`) right beside Heather and Wesley's van, classmate **Tina** walks briskly out of the Dining Hall breezeway, adjusts her glasses with a grin of pure admiration at the twins who defeated state bureaucracy with an unlocked doorknob, a `10:44 PM` text to Heather, and Speed Setting `1`, and slips a `2-gigabyte` USB drive packed with the rest of Mr. Alderman's **Web Applications Developer** `PHP` and `SQL` modules straight into Nate's hand before the whole family rolls out of Fishersville free.

@@ -18,10 +18,10 @@
 
 ---
 
-## 1. Operating Days, Span of Service, Fare (`$0.50`), & Unadvertised RRC Tokens
+## 1. Operating Days, Span of Service, Fare (`$0.50`), Unadvertised RRC Tokens, & RRC Level 2 Pass / Curfew Integration
 
-- **Operating Days**:
-  - **Monday – Friday**: `7:30 AM – 9:30 PM`
+- **Operating Days & Span of Service**:
+  - **Monday – Friday**: `7:30 AM – 10:30 PM` *(Final evening trips depart **both** `ValueMart (Waynesboro)` Westbound and `Staunton Hub / Lewis Street` Eastbound at **`9:30 PM`**, arriving at their opposite terminal at **`10:30 PM`**.)*
   - **Saturday**: `8:30 AM – 7:30 PM`
   - **Sunday**: **NO SERVICE** *(Zero buses run on Sundays—which is why Sunday check-ins, Sunday restaurant runs, and Sunday move-outs require private car/van transport.)*
 - **Cash Fare (`$0.50` Per Ride — Two Quarters)**:
@@ -31,49 +31,53 @@
   - However, **RRC's token program is NOT advertised anywhere on either the `SVT` website or the `RRC` website**, and newly arrived Level 2 clients are not told about tokens at check-in.
   - Because **Katie and Nathaniel Prairie** are only enrolled at RRC for fourteen days in July 2007 (`July 8–22, 2007`, sleeping off campus at Heather and Wesley's extended-stay hotel from Wednesday night, July 18 onward), they aren't at RRC long enough to ever learn that client bus tokens exist—so both in **July 2007** and during **U.S. Senator Katie Prairie's** unannounced return oversight trip on **Thursday, July 22, 2027**, Katie and Nate carry quarters in their pockets and drop **two quarters (`$0.50` apiece)** into the farebox for every ride.
 - **Crucial Weekday vs. Saturday `RRC` On-Campus Stop Rule**:
-  - **Monday – Friday**: Because RRC clients are in daytime classes/evaluations until `4:00 PM`, the `Route 250 Connector` **does NOT turn onto the `RRC` campus loop during weekday mornings or early afternoons** (`7:30 AM – 3:30 PM` trips stay out on `US-250 / Jefferson Highway`, serving the Fishersville highway stops at `Augusta Medical Fitness`, `Augusta Medical MOB`, and `Augusta County Library` right across from Roosevelt Avenue). On weekdays, the bus serves the on-campus **`RRC`** shelter **ONLY on the five evening runs**:
-    - **Westbound (`RRC` $\rightarrow$ Staunton)**: `4:51 PM`, `5:51 PM`, `6:51 PM`, `7:51 PM`, `8:51 PM`
-    - **Eastbound (`RRC` $\rightarrow$ Waynesboro)**: `5:00 PM`, `6:00 PM`, `7:00 PM`, `8:00 PM`, `9:00 PM`
+  - **Monday – Friday**: Because RRC clients are in daytime classes/evaluations until `4:00 PM`, the `Route 250 Connector` **does NOT turn onto the `RRC` campus loop during weekday mornings or early afternoons** (`7:30 AM – 3:30 PM` trips stay out on `US-250 / Jefferson Highway`, serving the Fishersville highway stops at `Augusta Medical Fitness`, `Augusta Medical MOB`, and `Augusta County Library` right across from Roosevelt Avenue). On weekdays, the bus serves the on-campus **`RRC`** shelter **on the six evening runs**:
+    - **Westbound (`RRC` $\rightarrow$ Staunton)**: `4:51 PM`, `5:51 PM`, `6:51 PM`, `7:51 PM`, `8:51 PM`, **`9:51 PM`** *(from the `9:30 PM` Waynesboro departure, reaching Staunton Hub by `10:30 PM`)*
+    - **Eastbound (`RRC` $\rightarrow$ Waynesboro)**: `5:00 PM`, `6:00 PM`, `7:00 PM`, `8:00 PM`, `9:00 PM`, **`10:00 PM`** *(from the `9:30 PM` Staunton departure, reaching Waynesboro ValueMart by `10:30 PM`)*
   - **Saturday**: The `Route 250 Connector` turns onto the **`RRC`** campus **on EVERY hourly run all day long**:
     - **Westbound (`RRC` $\rightarrow$ Staunton)**: `:50` past every hour from `8:50 AM` through `6:50 PM`
     - **Eastbound (`RRC` $\rightarrow$ Waynesboro)**: `:01` past every hour from `9:01 AM` through `7:01 PM`
+- **RRC Level 2 Pass System, `9:30 PM` SVT Bus Stop Check-In, Breakdown Protection, & Overnight Pass Rules**:
+  1. **`11:00 PM` Curfew Check & `9:30 PM` SVT Bus Stop Staff Check-In**: As long as a Level 2 client out on a signed yellow Hall Pass returns to campus in time for the **`11:00 PM` Curfew Check**, they are in good standing. Every weekday evening, **RRC residential staff wait right at the on-campus SVT bus stop** when the final **`9:30 PM` trips** from Waynesboro (`9:51 PM` at RRC) and Staunton (`10:00 PM` at RRC) pull onto campus to check returning clients in.
+  2. **SVT Dispatch Breakdown / Late-Bus Protection**: Under the normal timetable, both `9:30 PM` terminal departures pass through Fishersville around `9:51 PM`–`10:00 PM` and finish at their opposite terminal by `10:30 PM`, well ahead of the `11:00 PM` curfew check. If a client was aboard either `9:30 PM` trip and something happens en route (such as a bus breakdown), **SVT Dispatch calls RRC directly** to alert staff of the late-running bus, and any client aboard that trip is officially counted **ON TIME** for curfew checks.
+  3. **Overnight Passes (`Advance Counselor Approval + Parent/Guardian Pickup ONLY`)**: Overnighting off campus on the Pass System **IS allowed**, **but** MUST be **(a) approved in advance by the client's counselor** AND **(b) signed out / picked up in person by a Parent or Legal Guardian**. This rule specifically **disqualifies Heather Collins** from signing Katie and Nate out overnight—even though Heather is listed #1 as their **Priority Emergency Contact** staying five minutes away in Waynesboro while their father **David Prairie** is in Alexandria.
 
 ---
 
 ## 2. Official Timetables (In-Universe Converted)
 
-### A. Monday – Friday Westbound (`7:30 AM – 9:30 PM`: Waynesboro $\rightarrow$ Fishersville $\rightarrow$ Staunton)
+### A. Monday – Friday Westbound (`7:30 AM – 10:30 PM`: Waynesboro $\rightarrow$ Fishersville $\rightarrow$ Staunton)
 
-| Stop | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **ValueMart (Waynesboro)** | 7:30a | 8:30a | 9:30a | 10:30a | 11:30a | 12:30p | 1:30p | 2:30p | 3:30p | 4:30p | 5:30p | 6:30p | 7:30p | 8:30p |
-| **Augusta County Library** | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL |
-| **Augusta Medical Fitness** | 7:44a | 8:44a | 9:44a | 10:44a | 11:44a | 12:44p | 1:44p | 2:44p | 3:44p | 4:44p | CALL | CALL | CALL | CALL |
-| **Augusta Medical MOB** | 7:46a | 8:46a | 9:46a | 10:46a | 11:46a | 12:46p | 1:46p | 2:46p | 3:46p | 4:46p | CALL | CALL | CALL | CALL |
-| **RRC (Fishersville)** | — | — | — | — | — | — | — | — | — | **4:51p** | **5:51p** | **6:51p** | **7:51p** | **8:51p** |
-| **ValueMart (Staunton)** | 8:00a | 9:00a | 10:00a | 11:00a | 12:00p | 1:00p | 2:00p | 3:00p | 4:00p | 5:00p | 6:00p | 7:00p | 8:00p | 9:00p |
-| **Valley View Senior Apts** | 8:05a | 9:05a | 10:05a | 11:05a | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL |
-| **Staunton Mall** | 8:10a | 9:10a | 10:10a | 11:10a | 12:10p | 1:10p | 2:10p | 3:10p | 4:10p | 5:10p | 6:10p | 7:10p | 8:10p | 9:10p |
-| **Statler Square** | 8:15a | 9:15a | 10:15a | 11:15a | 12:15p | 1:15p | 2:15p | 3:15p | 4:15p | 5:15p | 6:15p | 7:15p | 8:15p | 9:15p |
-| **Staunton Hub / Lewis St** | 8:30a | 9:30a | 10:30a | 11:30a | 12:30p | 1:30p | 2:30p | 3:30p | 4:30p | 5:30p | 6:30p | 7:30p | 8:30p | 9:30p |
+| Stop | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **ValueMart (Waynesboro)** | 7:30a | 8:30a | 9:30a | 10:30a | 11:30a | 12:30p | 1:30p | 2:30p | 3:30p | 4:30p | 5:30p | 6:30p | 7:30p | 8:30p | **9:30p** |
+| **Augusta County Library** | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL |
+| **Augusta Medical Fitness** | 7:44a | 8:44a | 9:44a | 10:44a | 11:44a | 12:44p | 1:44p | 2:44p | 3:44p | 4:44p | CALL | CALL | CALL | CALL | CALL |
+| **Augusta Medical MOB** | 7:46a | 8:46a | 9:46a | 10:46a | 11:46a | 12:46p | 1:46p | 2:46p | 3:46p | 4:46p | CALL | CALL | CALL | CALL | CALL |
+| **RRC (Fishersville)** | — | — | — | — | — | — | — | — | — | **4:51p** | **5:51p** | **6:51p** | **7:51p** | **8:51p** | **9:51p** |
+| **ValueMart (Staunton)** | 8:00a | 9:00a | 10:00a | 11:00a | 12:00p | 1:00p | 2:00p | 3:00p | 4:00p | 5:00p | 6:00p | 7:00p | 8:00p | 9:00p | 10:00p |
+| **Valley View Senior Apts** | 8:05a | 9:05a | 10:05a | 11:05a | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL |
+| **Staunton Mall** | 8:10a | 9:10a | 10:10a | 11:10a | 12:10p | 1:10p | 2:10p | 3:10p | 4:10p | 5:10p | 6:10p | 7:10p | 8:10p | 9:10p | 10:10p |
+| **Statler Square** | 8:15a | 9:15a | 10:15a | 11:15a | 12:15p | 1:15p | 2:15p | 3:15p | 4:15p | 5:15p | 6:15p | 7:15p | 8:15p | 9:15p | 10:15p |
+| **Staunton Hub / Lewis St** | 8:30a | 9:30a | 10:30a | 11:30a | 12:30p | 1:30p | 2:30p | 3:30p | 4:30p | 5:30p | 6:30p | 7:30p | 8:30p | 9:30p | **10:30p** |
 
 ---
 
-### B. Monday – Friday Eastbound (`7:30 AM – 9:30 PM`: Staunton $\rightarrow$ Fishersville $\rightarrow$ Waynesboro)
+### B. Monday – Friday Eastbound (`7:30 AM – 10:30 PM`: Staunton $\rightarrow$ Fishersville $\rightarrow$ Waynesboro)
 
-| Stop | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Staunton Hub / Lewis St** | 7:30a | 8:30a | 9:30a | 10:30a | 11:30a | 12:30p | 1:30p | 2:30p | 3:30p | 4:30p | 5:30p | 6:30p | 7:30p | 8:30p |
-| **Statler Square** | 7:35a | 8:35a | 9:35a | 10:35a | 11:35a | 12:35p | 1:35p | 2:35p | 3:35p | 4:35p | 5:35p | 6:35p | 7:35p | 8:35p |
-| **Staunton Mall** | 7:40a | 8:40a | 9:40a | 10:40a | 11:40a | 12:40p | 1:40p | 2:40p | 3:40p | 4:40p | 5:40p | 6:40p | 7:40p | 8:40p |
-| **Valley View Senior Apts** | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL |
-| **ValueMart (Staunton)** | 7:50a | 8:50a | 9:50a | 10:50a | 11:50a | 12:50p | 1:50p | 2:50p | 3:50p | 4:50p | 5:50p | 6:50p | 7:50p | 8:50p |
-| **RRC (Fishersville)** | — | — | — | — | — | — | — | — | — | **5:00p** | **6:00p** | **7:00p** | **8:00p** | **9:00p** |
-| **Augusta Medical Fitness** | 8:02a | 9:02a | 10:02a | 11:02a | 12:02p | 1:02p | 2:02p | 3:02p | 4:02p | 5:02p | CALL | CALL | CALL | CALL |
-| **Augusta Medical MOB** | 8:05a | 9:05a | 10:05a | 11:05a | 12:05p | 1:05p | 2:05p | 3:05p | 4:05p | 5:05p | CALL | CALL | CALL | CALL |
-| **Augusta County Library** | 8:06a | 9:06a | 10:06a | 11:06a | 12:06p | 1:06p | 2:06p | 3:06p | 4:06p | 5:06p | 6:06p | 7:06p | 8:06p | 9:06p |
-| **Waynesboro Town Center** | — | — | — | — | — | — | — | — | — | — | — | 7:17p | 8:17p | 9:17p |
-| **ValueMart (Waynesboro)** | 8:30a | 9:30a | 10:30a | 11:30a | 12:30p | 1:30p | 2:30p | 3:30p | 4:30p | 5:30p | 6:30p | 7:30p | 8:30p | 9:30p |
+| Stop | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Staunton Hub / Lewis St** | 7:30a | 8:30a | 9:30a | 10:30a | 11:30a | 12:30p | 1:30p | 2:30p | 3:30p | 4:30p | 5:30p | 6:30p | 7:30p | 8:30p | **9:30p** |
+| **Statler Square** | 7:35a | 8:35a | 9:35a | 10:35a | 11:35a | 12:35p | 1:35p | 2:35p | 3:35p | 4:35p | 5:35p | 6:35p | 7:35p | 8:35p | 9:35p |
+| **Staunton Mall** | 7:40a | 8:40a | 9:40a | 10:40a | 11:40a | 12:40p | 1:40p | 2:40p | 3:40p | 4:40p | 5:40p | 6:40p | 7:40p | 8:40p | 9:40p |
+| **Valley View Senior Apts** | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL | CALL |
+| **ValueMart (Staunton)** | 7:50a | 8:50a | 9:50a | 10:50a | 11:50a | 12:50p | 1:50p | 2:50p | 3:50p | 4:50p | 5:50p | 6:50p | 7:50p | 8:50p | 9:50p |
+| **RRC (Fishersville)** | — | — | — | — | — | — | — | — | — | **5:00p** | **6:00p** | **7:00p** | **8:00p** | **9:00p** | **10:00p** |
+| **Augusta Medical Fitness** | 8:02a | 9:02a | 10:02a | 11:02a | 12:02p | 1:02p | 2:02p | 3:02p | 4:02p | 5:02p | CALL | CALL | CALL | CALL | CALL |
+| **Augusta Medical MOB** | 8:05a | 9:05a | 10:05a | 11:05a | 12:05p | 1:05p | 2:05p | 3:05p | 4:05p | 5:05p | CALL | CALL | CALL | CALL | CALL |
+| **Augusta County Library** | 8:06a | 9:06a | 10:06a | 11:06a | 12:06p | 1:06p | 2:06p | 3:06p | 4:06p | 5:06p | 6:06p | 7:06p | 8:06p | 9:06p | 10:06p |
+| **Waynesboro Town Center** | — | — | — | — | — | — | — | — | — | — | — | 7:17p | 8:17p | 9:17p | 10:17p |
+| **ValueMart (Waynesboro)** | 8:30a | 9:30a | 10:30a | 11:30a | 12:30p | 1:30p | 2:30p | 3:30p | 4:30p | 5:30p | 6:30p | 7:30p | 8:30p | 9:30p | **10:30p** |
 
 ---
 
