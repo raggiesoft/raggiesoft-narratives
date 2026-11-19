@@ -67,6 +67,6 @@ When the night supervisor threatened to kick them out of the Center and Nate and
 
 What if Katie and Nate realized at `10:44 PM` that leaving the seasonal closet door **unlocked** was the ultimate camouflage—so the `11:25 PM` sweep missed them completely while their empty beds in Barton Hall triggered a county-wide **Missing Persons** alert? Explore all three alternate timelines (`in chronological order of when the closet opens`):
 
-* [**Alternate 'What If' (Ending C — 1:35 AM): Angry Wesley Drags Heather Across the Quad, Yanks Open the Locked Rec Hall Door, & Rescues Nate and Katie Two Hours Before Dad Arrives**](/books/katie/what-if-rrc-unlocked-closet-ending-c-wesley-breaks-the-door)
-* [**Alternate 'What If' (Ending A — 3:50 AM): Waiting Out RRC Until Dad Arrives From Alexandria, Flips the Switch, & Wakes Them Under the Stage Curtain**](/books/katie/what-if-rrc-unlocked-closet-ending-a-three-fifty-am)
-* [**Alternate 'What If' (Ending B — 6:40 AM): Sneaking Past the Morning Janitor—And Rolling Out Into Their Own Missing-Persons Command Post**](/books/katie/what-if-rrc-unlocked-closet-ending-b-six-forty-am-stealth)
+* [**Alternate 'What If' (Ending A — 1:35 AM): Angry Wesley Drags Heather Across the Quad, Yanks Open the Locked Rec Hall Door, & Rescues Nate and Katie Two Hours Before Dad Arrives**](/books/katie/what-if-rrc-unlocked-closet-ending-a-wesley-breaks-the-door)
+* [**Alternate 'What If' (Ending B — 3:50 AM): Waiting Out RRC Until Dad Arrives From Alexandria, Flips the Switch, & Wakes Them Under the Stage Curtain**](/books/katie/what-if-rrc-unlocked-closet-ending-b-three-fifty-am)
+* [**Alternate 'What If' (Ending C — 6:40 AM): Sneaking Past the Morning Janitor—And Rolling Out Into Their Own Missing-Persons Command Post**](/books/katie/what-if-rrc-unlocked-closet-ending-c-six-forty-am-stealth)
