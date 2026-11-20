@@ -5,4 +5,3 @@
 # accurately reports Markdown alongside its PHP compilation helper scripts.
 # ============================================================================
 *.md linguist-detectable=true
-b009_diff.txt linguist-generated=true

@@ -117,3 +117,7 @@ next-env.d.ts
 # --- Project Specific Overrides ---
 /lore/**/_old/
 orion.php
+Untitled*
+*.base
+*.canvas
+*_diff.txt
