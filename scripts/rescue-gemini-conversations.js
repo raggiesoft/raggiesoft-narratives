@@ -1,80 +1,111 @@
 /**
  * ============================================================================
- * ARCHITECTURE & MODULE OVERVIEW: rescue-gemini-conversations.js
+ * READ-ALONG TEACHING OVERVIEW: rescue-gemini-conversations.js
  * ============================================================================
- * Purpose:
- * A client-side bookmarklet/script designed to be executed directly in the 
- * browser console on the Google Gemini web interface. It extracts the current 
- * chat history (user prompts and model responses) and exports it as a formatted 
- * Markdown file.
- * 
- * Architectural Role:
- * Data retrieval and backup utility. Since Gemini's DOM may change over time, 
- * this script relies on specific CSS class selectors to identify message nodes.
- * It serves as an emergency export tool to preserve conversational lore.
- * 
- * Key Components:
- * 1. DOM Traversal: Targets `.query-text-line` and `.response-container-content`.
- * 2. Markdown Transformation: Maps DOM nodes to a structured string formatted 
- *    with Markdown speaker labels.
- * 3. Blob Export: Uses HTML5 Blob API to generate a client-side download, 
- *    bypassing the need for a server or encountering clipboard size limits.
- * 
- * Maintenance Notes:
- * - Extremely brittle to UI updates. If Google updates the CSS classes for 
- *   queries or responses, `messageNodes` will return empty and the selectors
- *   will need to be inspected and updated.
- * - Requires the user to scroll to the top of the chat beforehand to ensure 
- *   lazy-loaded elements are present in the DOM.
+ * WHAT THIS FILE IS:
+ *   A standalone client-side browser DevTools Console snippet / bookmarklet
+ *   that extracts a long Google Gemini web chat transcript directly from the
+ *   rendered page DOM and downloads it to your computer as a clean `.md`
+ *   (Markdown) archive file.
+ *
+ * WHERE / HOW IT RUNS:
+ *   Stored in `raggiesoft-narratives/scripts/rescue-gemini-conversations.js` as
+ *   an author utility. Unlike Node.js server scripts, you paste and run this
+ *   inside Chrome/Firefox/Safari Developer Tools Console on an open Gemini tab
+ *   after scrolling to the top of the conversation so all messages are loaded.
+ *   (Still syntax-validated with `node --check` as pure standard JavaScript!)
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   - Live DOM elements matching `.query-text-line` (the human author's prompts)
+ *     and `.response-container-content` (the AI model's responses).
+ *
+ * WHAT OUTPUT IT PRODUCES:
+ *   - Automatically downloads a local Markdown file named
+ *     `meridian-city-lore-backup.md` with alternating `**User:**` and `**Model:**`
+ *     sections separated by `---` horizontal rules.
+ *
+ * 100-LEVEL JAVASCRIPT CONCEPTS TAUGHT IN THIS FILE:
+ *   1. Named IIFE (`(function extractChat() { ... })()`): Runs immediately when
+ *      pasted into the Console without leaving global variables behind (so you
+ *      can paste and run it a second time in the same tab without `const` errors!).
+ *   2. Document-Order Multi-Selector (`querySelectorAll('A, B')`): How CSS comma
+ *      selectors interleave two classes in exact top-to-bottom reading order.
+ *   3. `Array.from(nodeList).map(...).join(...)`: Converting a DOM `NodeList`
+ *      into a formatted string pipeline.
+ *   4. Client-Side File Generation (`Blob` + `URL.createObjectURL` + `<a download>`):
+ *      Creating a downloadable file 100% in browser RAM with zero backend server,
+ *      bypassing OS clipboard size limits on multi-megabyte transcripts.
  * ============================================================================
  */
 
 (function extractChat() {
-    // 1. Target both user queries and model responses. 
-    // querySelectorAll automatically returns them in document order, 
-    // which naturally preserves the conversational timeline.
+    /**
+     * STEP 1: QUERY ALL CONVERSATION TURNS IN CHRONOLOGICAL DOCUMENT ORDER
+     * Passing comma-separated selectors (`.query-text-line, .response-container-content`)
+     * to `document.querySelectorAll()` returns a single `NodeList` sorted strictly
+     * in top-to-bottom HTML order—NOT all queries first and all responses second!
+     * That preserves the natural back-and-forth timeline of the conversation.
+     */
     const messageNodes = document.querySelectorAll('.query-text-line, .response-container-content');
     
-    // Safety check to ensure selectors are still valid and content is loaded.
+    /* Guard check: if 0 elements matched, either the chat hasn't rendered or
+     * the web app's CSS class names changed. Log a helpful hint and stop. */
     if (messageNodes.length === 0) {
         console.error("No nodes found. Make sure you are scrolled to the top so everything is rendered.");
         return;
     }
 
-    // 2. Extract and format the text
+    /**
+     * STEP 2: TRANSFORM DOM NODES INTO MARKDOWN BLOCKS
+     * `querySelectorAll` returns a `NodeList` (which doesn't have `.map()`).
+     * `Array.from(messageNodes)` converts it into a true JS `Array` so we can:
+     *   1. `.map((node) => ...)` each DOM element into a labeled Markdown string.
+     *   2. `.join('\n\n---\n\n')` all turns together with horizontal rule dividers.
+     */
     const chatLog = Array.from(messageNodes).map((node) => {
         let speaker = "";
         
-        // Check which class the node has to apply the correct Markdown label
-        // Identifies user prompts
+        /* Inspect `node.classList` to label who spoke in this turn. */
         if (node.classList.contains('query-text-line')) {
             speaker = "**User:**\n";
         } 
-        // Identifies AI responses
         else if (node.classList.contains('response-container-content')) {
             speaker = "**Model:**\n";
         }
         
-        // Extract raw text. InnerText is used over innerHTML to naturally 
-        // strip HTML tags while maintaining basic line breaks.
+        /* Why `node.innerText` instead of `node.innerHTML` or `node.textContent`?
+         * - `innerHTML` would dump messy `<div class="..."><span>` tags into our Markdown.
+         * - `textContent` ignores visual paragraph breaks (`<p>`, `<br>`) and mashes lines together.
+         * - `innerText` is layout-aware: it strips HTML tags while preserving visible line breaks! */
         return speaker + node.innerText.trim();
-    }).join('\n\n---\n\n'); // Separate messages with Markdown horizontal rules
+    }).join('\n\n---\n\n');
 
-    // 3. Package the string into a Blob to bypass clipboard limits
-    // This allows downloading massive conversations without browser memory crashes.
+    /**
+     * STEP 3: PACKAGE THE MARKDOWN STRING AS AN IN-MEMORY `Blob`
+     * `navigator.clipboard.writeText()` often truncates or fails on giant 500KB+
+     * transcripts. A `Blob` (Binary Large Object) wraps our string in browser
+     * memory as a virtual `text/markdown` file, and `URL.createObjectURL(blob)`
+     * mints a temporary `blob:https://...` pointer URL to those bytes.
+     */
     const blob = new Blob([chatLog], { type: 'text/markdown' });
     const url = URL.createObjectURL(blob);
     
-    // 4. Force a silent download
-    // Creates a temporary anchor tag, triggers a click, and initiates download.
+    /**
+     * STEP 4: TRIGGER A SYNTHETIC `<a download>` CLICK
+     * Browsers download `blob:` URLs cleanly when clicked through an `<a download="filename.md">`
+     * element attached to `document.body`.
+     */
     const a = document.createElement('a');
     a.href = url;
-    a.download = 'meridian-city-lore-backup.md'; // Default export filename
+    a.download = 'meridian-city-lore-backup.md'; // Default saved filename in Downloads
     document.body.appendChild(a);
     a.click();
     
-    // 5. Cleanup
-    // Remove the temporary element and free up the object URL memory
+    /**
+     * STEP 5: CLEAN UP TEMPORARY DOM & MEMORY
+     * Remove the invisible `<a>` tag and call `URL.revokeObjectURL(url)` so the
+     * browser can garbage-collect the in-memory `Blob` buffer immediately.
+     */
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
     

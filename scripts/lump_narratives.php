@@ -1,29 +1,53 @@
 <?php
 /**
  * ============================================================================
- * ARCHITECTURE & MODULE OVERVIEW: lump_narratives.php
+ * READ-ALONG TEACHING OVERVIEW: lump_narratives.php
  * ============================================================================
- * Purpose:
- * This script aggregates fragmented Markdown narrative files (scenes/parts) into
- * consolidated novel-level Markdown files (`books-ai-lump/<slug>/<novel>-complete.md`).
- * It reads `ovab.json` and optional `crossroads.json` manifests to determine the
- * structural hierarchy and coequal Story Crossroads branches.
+ * WHAT THIS FILE IS:
+ *   The manuscript assembler ("AI Context & eBook Lumper") for Ocean View
+ *   Archives and RaggieSoft Story Crossroads. Authors write novels as modular
+ *   scene files (`books/<series>/e001/c001/p001.md`) so chapters are easy to
+ *   edit and render on `books.raggiesoft.com`. This CLI PHP script walks every
+ *   series directory, stitches all Eras (`e*`), Chapters (`c*`), and Parts
+ *   (`p*.md`)—plus any branching Story Crossroads routes (`crossroads.json`)—
+ *   into one complete novel Markdown manuscript per series.
  *
- * Architectural Role:
- * Functions as a build/compile step for the narrative eBook pipeline (`compile_ebooks.php`).
- * When a novel defines coequal Story Crossroads (`crossroads.json`), this script:
- *   1. Emits all shared pre-Crossroads Eras, Chapters, and Parts up through `trigger_part`.
- *   2. Injects an accessible, clickable internal Story Crossroads menu (`{#crossroads-<id>}`)
- *      at the end of `trigger_part` so EPUB & PDF readers can jump straight to their chosen path.
- *   3. Emits each coequal Story Path under its own anchored `# Story Path: <Label>` section
- *      (`{#crossroads-path-<option-id>}`) with bidirectional return links back to the Crossroads.
+ * HOW IT IS RUN:
+ *   Executed from the terminal (or automatically upstream of `compile_ebooks.php`
+ *   inside `paige.php` / `jenna-sync.sh`):
+ *     `php raggiesoft-narratives/scripts/lump_narratives.php`
+ *   (Strictly keeps `<?php` on Line 1 for PHP CLI compatibility.)
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   1. `raggiesoft-narratives/books/<series>/ovab.json` (series/era/chapter titles).
+ *   2. `raggiesoft-narratives/books/<series>/e<NNN>/c<NNN>/p<NNN>.md` (individual scene parts
+ *      with YAML frontmatter `title`, `date`, `time`/`start_time`, `timezone`,
+ *      `stardate`, `realm_time`, `image`/`images`, `image_alt`/`image_alts`).
+ *   3. Optional `raggiesoft-narratives/books/<series>/crossroads.json` defining
+ *      coequal RaggieSoft Story Crossroads interactive branching narratives
+ *      (`trigger_part`, `options`, `paths/<option-id>/e<NNN>/c<NNN>/p<NNN>.md`, or `inline_continuation`).
+ *
+ * WHAT COMPILED OUTPUT IT PRODUCES:
+ *   - Writes `raggiesoft-narratives/books-ai-lump/<series>/<title-slug>-complete.md`
+ *     with normalized Pandoc heading hierarchy (`# Era`, `## Chapter`, `### Part`,
+ *     `#### Scene`), embedded scene illustration Markdown tags, clickable internal
+ *     `{#crossroads-...}` / `{#crossroads-path-...}` Story Crossroads jump menus,
+ *     and MD5 change detection so unchanged novels keep their existing file `mtime`!
+ *
+ * 100-LEVEL PHP CLI CONCEPTS TAUGHT IN THIS FILE:
+ *   - Line-by-Line State Machine Parsing (`$activeListKey`) for YAML lists vs scalars.
+ *   - Heading Level Shifting (`preg_replace('/^(#{2,4})(\s+)/m', '##$1$2', ...)`).
+ *   - Tuple Range Filtering (`[era, chap, part]` upper/lower bounds) + PHP's
+ *     "Spaceship" comparison operator (`<=>`) for sorting multi-part coordinates.
+ *   - Recursive Anonymous Functions (`use (&$renderContainerRecursive, ...)`):
+ *     How a closure calls itself to support nested Story Crossroads of any depth!
  * ============================================================================
  */
 
 echo "Starting AI Context Lumper...\n";
 echo "Validating directories...\n";
 
-// Define working directories relative to `/raggiesoft-narratives/scripts`
+/* Establish base paths relative to `raggiesoft-narratives/scripts` (`__DIR__`). */
 $baseDir = dirname(__DIR__);
 $booksBaseDir = $baseDir . '/books';
 $lumpBaseDir = $baseDir . '/books-ai-lump';
@@ -37,15 +61,33 @@ if (!is_dir($lumpBaseDir)) {
     mkdir($lumpBaseDir, 0755, true);
 }
 
+/**
+ * Helper: Converts a human book/path title (e.g. `"Escape Velocity: Ad Astra"`)
+ * into a URL- and filename-safe lowercase hyphenated slug (`"escape-velocity-ad-astra"`).
+ */
 function slugify($string) {
+    /* Replace any run of non-alphanumeric characters with `-`, trim edge `-`, and lowercase. */
     $slug = strtolower(trim(preg_replace('/[^A-Za-z0-9-]+/', '-', $string), '-'));
+    /* Collapse any multiple consecutive hyphens `--` into a single `-`. */
     return preg_replace('/-+/', '-', $slug);
 }
 
 /**
- * Formats a single `pXXX.md` file into consolidated Markdown for Pandoc EPUB/PDF compilation.
+ * ============================================================================
+ * HELPER 1: `renderLumpedPartMarkdown()`
+ * ============================================================================
+ * Reads one `pXXX.md` scene file, extracts its YAML frontmatter metadata
+ * (title, Earth or cosmic timestamps, and scene illustrations), strips the raw
+ * YAML block, shifts internal headings down so they nest cleanly under `### Part`,
+ * and returns a self-contained Markdown section ready for Pandoc compilation.
+ *
+ * @param string $partFile      Absolute path to `.../e001/c001/p001.md`.
+ * @param string $baseDir       Path to `raggiesoft-narratives` (for clean console logs).
+ * @param int    $chapPartCount Total number of `p*.md` files in the parent chapter.
+ * @return string Consolidated Markdown text for this Part.
  */
 function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPartCount): string {
+    /* Extract integer part number from filename: `'p003.md'` -> `'003'` -> `3`. */
     $partName = basename($partFile);
     $partNum = intval(str_replace(['p', '.md'], '', $partName));
 
@@ -54,6 +96,7 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
 
     $partContent = (string)file_get_contents($partFile);
 
+    /* Metadata accumulators populated from YAML frontmatter (`--- ... ---`). */
     $title = '';
     $date = '';
     $stardate = '';
@@ -63,22 +106,34 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
     $sceneImages = [];
     $sceneImageAlts = [];
 
+    /* Match the opening `--- ... ---` YAML frontmatter block if present. */
     if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
         $frontmatter = $matches[1];
+        /* Extract single-line scalar YAML fields using `/m` (multiline `^` anchor). */
         if (preg_match('/^title:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $title = trim($m[1], " \t\n\r\0\x0B\"'");
         if (preg_match('/^date:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $date = trim($m[1], " \t\n\r\0\x0B\"'");
         if (preg_match('/^stardate:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $stardate = trim($m[1], " \t\n\r\0\x0B\"'");
         if (preg_match('/^realm_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $realmTime = trim($m[1], " \t\n\r\0\x0B\"'");
         if (preg_match('/^time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1], " \t\n\r\0\x0B\"'");
+        /* Fall back to `start_time:` when `time:` is blank or omitted. */
         if (empty($time) && preg_match('/^start_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1], " \t\n\r\0\x0B\"'");
         if (preg_match('/^timezone:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $timezone = trim($m[1], " \t\n\r\0\x0B\"'");
 
-        // Parse scalar or YAML list `image:` / `images:` and `image_alt:` / `image_alts:`
+        /* MINI STATE-MACHINE PARSER FOR SCALAR OR MULTI-IMAGE YAML LISTS:
+         * Scene files can declare either a single image:
+         *   `image: "{{CDN}}/raggiesoft-books/images/scenes/foo.jpg"`
+         * OR a multi-slide YAML list:
+         *   `images:`
+         *   `  - "{{CDN}}/.../slide1.jpg"`
+         *   `  - "{{CDN}}/.../slide2.jpg"`
+         * `$activeListKey` remembers which YAML key (`images`, `image_alts`, etc.)
+         * opened an empty-value header line so subsequent `- item` lines append to the right array! */
         $fmLines = explode("\n", $frontmatter);
         $activeListKey = null;
         foreach ($fmLines as $fmLine) {
             $trimmedFm = trim($fmLine);
             if ($trimmedFm === '') continue;
+            /* Case 1: Indented YAML list bullet (`- "value"`) while inside `$activeListKey`. */
             if (strpos($trimmedFm, '-') === 0 && $activeListKey !== null) {
                 $listVal = trim(substr($trimmedFm, 1));
                 $listVal = trim($listVal, "\"' \t");
@@ -91,11 +146,13 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
                 }
                 continue;
             }
+            /* Case 2: Standard `key: value` or `key:` (list opener) line. */
             if (strpos($trimmedFm, ':') !== false) {
                 list($fKey, $fVal) = explode(':', $trimmedFm, 2);
                 $fKey = trim($fKey);
                 $fVal = trim($fVal);
                 if ($fVal === '') {
+                    /* Empty value after `:` means a YAML list starts on the next line! */
                     $activeListKey = $fKey;
                     continue;
                 }
@@ -112,13 +169,20 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
         }
     }
 
-    // Strip the individual YAML Frontmatter block from the part body first
+    /* Remove the individual part's `--- ... ---` YAML frontmatter block so Pandoc
+     * doesn't mistake mid-book frontmatter blocks for horizontal rules or metadata resets. */
     $partContent = preg_replace('/^---[\s\S]*?---\s*/', '', ltrim($partContent));
 
-    // Shift in-part `##` and `###` scene headings down by 2 heading levels (`####` and `#####`)
-    // so they nest cleanly beneath `### Part X` without colliding with `# Episode` or `## Chapter`.
+    /* HEADING HIERARCHY SHIFT:
+     * In the lumped novel:
+     *   `#`    (H1) = Era / Story Path
+     *   `##`   (H2) = Chapter
+     *   `###`  (H3) = Part
+     * Therefore, any `## Scene` or `### Subscene` inside a Part file is prepended
+     * with two extra `##` hashes (`####` / `#####`) so Pandoc's 3-level TOC stays clean! */
     $partContent = preg_replace('/^(#{2,4})(\s+)/m', '##$1$2', (string)$partContent);
 
+    /* Multi-part chapters show `"Part 1: Title"`; single-part chapters show `"Title"` cleanly. */
     if ($chapPartCount > 1 || $partNum > 1) {
         $partTitleDisplay = $title ? "Part {$partNum}: {$title}" : "Part {$partNum}";
     } else {
@@ -127,7 +191,9 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
 
     $out = "### " . $partTitleDisplay . "\n\n";
 
-    // Format and append extracted temporal metadata as visible markdown text
+    /* Emit visible dateline metadata below the `### Part` heading:
+     * - Contemporary / Earth stories use `Date: ... at ... Timezone`.
+     * - Sci-Fi / Fantasy stories (`Ad Astra`, `Aethel`) use `Stardate` / `Harmonic Cycle` / `Chronometer`. */
     if (!empty($date)) {
         $datetimeStr = "**Date:** " . $date;
         if (!empty($time)) {
@@ -151,7 +217,9 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
         $out .= implode(" • ", $cosmicSegments) . "\n\n";
     }
 
-    // Inject YAML frontmatter `image:` plates unless already embedded inline inside `$partContent`
+    /* Embed YAML frontmatter scene plate images (`![alt]({{CDN}}/...)`) right above
+     * the scene prose—SKIPPING any image whose filename is already embedded inline
+     * inside `$partContent` so an illustration never prints twice in the same scene! */
     foreach ($sceneImages as $imgIdx => $sceneImage) {
         if ($sceneImage === '') continue;
         $normalizedSceneImg = str_replace('{{cms}}', '{{CDN}}', $sceneImage);
@@ -164,7 +232,6 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
             $normalizedSceneImg = '{{CDN}}/' . $cleanRel;
         }
         $imgBasename = basename($normalizedSceneImg);
-        // Note: check EVERY slide (`$imgIdx >= 0`) so frontmatter images already embedded inline in the body are never duplicated!
         if ($imgBasename !== '' && strpos((string)$partContent, $imgBasename) !== false) {
             continue;
         }
@@ -179,8 +246,17 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
 }
 
 /**
- * Renders an `e*` directory tree (`$scanDir`) with optional upper/lower `(era, chap, part)` bounds
- * so Story Crossroads trunks and inline continuations split cleanly without duplicating code.
+ * ============================================================================
+ * HELPER 2: `renderEraDirectoryRange()`
+ * ============================================================================
+ * Walks `e* -> c* -> p*.md` inside `$scanDir` in sorted numerical order and
+ * concatenates `# Era`, `## Chapter`, and `### Part` Markdown.
+ *
+ * Why `$stopAfter` and `$startAfter` `[era, chap, part]` 3-element integer tuples?
+ * When a Story Crossroads splits a book after e.g. `e002/c004/p002.md` (`[2, 4, 2]`):
+ *   - First call passes `$stopAfter = [2, 4, 2]` to emit everything UP THROUGH `e002/c004/p002.md`.
+ *   - Later call passes `$startAfter = [2, 4, 2]` to emit any inline continuation AFTER `e002/c004/p002.md`!
+ *   - Linear novels pass `null, null` to emit 100% of chapters from start to finish.
  */
 function renderEraDirectoryRange(
     string $scanDir,
@@ -189,6 +265,7 @@ function renderEraDirectoryRange(
     ?array $startAfter = null
 ): string {
     $buf = '';
+    /* `GLOB_ONLYDIR` returns only subdirectories matching `e*` (e.g. `e001`, `e002`). */
     $eraDirs = glob($scanDir . '/e*', GLOB_ONLYDIR) ?: [];
     sort($eraDirs);
 
@@ -196,6 +273,7 @@ function renderEraDirectoryRange(
         $eraName = basename($eraDir);
         $eraNum = intval(str_replace('e', '', $eraName));
 
+        /* Skip entire Era folders outside our requested `[era, chap, part]` window. */
         if ($stopAfter !== null && $eraNum > $stopAfter[0]) {
             continue;
         }
@@ -203,6 +281,7 @@ function renderEraDirectoryRange(
             continue;
         }
 
+        /* Read human-friendly Era title from `eXXX/ovab.json` if present. */
         $eraTitle = "Era {$eraNum}";
         $eraManifest = $eraDir . '/ovab.json';
         if (file_exists($eraManifest)) {
@@ -218,6 +297,7 @@ function renderEraDirectoryRange(
             $chapName = basename($chapDir);
             $chapNum = intval(str_replace('c', '', $chapName));
 
+            /* Skip Chapters outside our requested `[era, chap, part]` window. */
             if ($stopAfter !== null && $eraNum === $stopAfter[0] && $chapNum > $stopAfter[1]) {
                 continue;
             }
@@ -225,6 +305,7 @@ function renderEraDirectoryRange(
                 continue;
             }
 
+            /* Read human-friendly Chapter title from `cXXX/ovab.json` (stripping any HTML tags). */
             $chapTitle = "Chapter {$chapNum}";
             $chapManifest = $chapDir . '/ovab.json';
             if (file_exists($chapManifest)) {
@@ -240,6 +321,7 @@ function renderEraDirectoryRange(
             $chapBuf = '';
             foreach ($partFiles as $partFile) {
                 $partNum = intval(str_replace(['p', '.md'], '', basename($partFile)));
+                /* Inclusive upper bound (`> $stopAfter[2]` skipped) and exclusive lower bound (`<= $startAfter[2]` skipped). */
                 if ($stopAfter !== null && $eraNum === $stopAfter[0] && $chapNum === $stopAfter[1] && $partNum > $stopAfter[2]) {
                     continue;
                 }
@@ -249,12 +331,14 @@ function renderEraDirectoryRange(
                 $chapBuf .= renderLumpedPartMarkdown($partFile, $baseDir, $chapPartCount);
             }
 
+            /* Only emit the `## Chapter` heading if at least 1 Part matched inside this range! */
             if ($chapBuf !== '') {
                 echo "    [Chapter] Reading: {$cleanChapTitle}\n";
                 $eraBuf .= "## " . $cleanChapTitle . "\n\n" . $chapBuf;
             }
         }
 
+        /* Only emit the `# Era` heading if at least 1 Chapter matched inside this range! */
         if ($eraBuf !== '') {
             echo "  Processing Era: {$eraTitle}...\n";
             $buf .= "# {$eraTitle}\n\n" . $eraBuf;
@@ -264,7 +348,9 @@ function renderEraDirectoryRange(
     return $buf;
 }
 
-// Scan for all narrative series folders inside the /books directory
+/* ============================================================================
+ * STEP 3: DISCOVER ALL NOVEL SERIES IN `raggiesoft-narratives/books/` & LUMP
+ * ============================================================================ */
 $narrativeDirs = array_filter(glob($booksBaseDir . '/*') ?: [], 'is_dir');
 
 if (empty($narrativeDirs)) {
@@ -279,6 +365,7 @@ foreach ($narrativeDirs as $narrativeDir) {
     echo "Scanning Novel: {$narrativeName}\n";
     echo "========================================================\n";
 
+    /* Resolve canonical series display title from `books/<slug>/ovab.json`. */
     $seriesTitle = $narrativeName;
     if (file_exists($novelManifestFile)) {
         $novelMeta = json_decode((string)file_get_contents($novelManifestFile), true);
@@ -298,12 +385,19 @@ foreach ($narrativeDirs as $narrativeDir) {
     $novelSlug = slugify($seriesTitle);
     $outputPath = $seriesLumpDir . '/' . $novelSlug . '-complete.md';
 
+    /* Top-level Pandoc YAML frontmatter setting the eBook's `<dc:title>` metadata. */
     $masterContent = "---\n";
     $masterContent .= "title: \"{$seriesTitle}\"\n";
     $masterContent .= "---\n\n";
 
-    // Check for optional Story Crossroads manifest (`books/<slug>/crossroads.json`)
-    // Supports ANY number of sequential or nested Story Crossroads across root `e*` and `paths/*` directories.
+    /* ========================================================================
+     * STEP 4: CHECK FOR RAGGIESOFT STORY CROSSROADS (`crossroads.json`)
+     * ========================================================================
+     * Interactive Story Crossroads novels define one or more branching decision
+     * points in `crossroads.json`. For offline EPUB/PDF readers (where cookies
+     * and JS modals don't exist), we compile ALL coequal routes into one volume
+     * connected by clickable Pandoc internal anchor links (`{#crossroads-...}`)!
+     */
     $crossroadsFile = $narrativeDir . '/crossroads.json';
     $rawCxList = [];
     if (is_file($crossroadsFile)) {
@@ -314,7 +408,9 @@ foreach ($narrativeDirs as $narrativeDir) {
     }
 
     if (!empty($rawCxList)) {
-        // Group Crossroads by their container directory (`""` for root `e*`, `"paths/<dir>"` for nested branches)
+        /* Group Crossroads definitions by container folder:
+         *   - `""` (empty string) for Crossroads triggered inside the main trunk `e001/c002/p003.md`.
+         *   - `"paths/<route>"` for nested Crossroads triggered inside an already-branched Story Path! */
         $cxByContainer = [];
         foreach ($rawCxList as $cxEntry) {
             $trigRel = ltrim(str_replace('\\', '/', trim((string)($cxEntry['trigger_part'] ?? ''))), '/');
@@ -324,6 +420,8 @@ foreach ($narrativeDirs as $narrativeDir) {
                 $cxByContainer[$containerKey][] = $cxEntry;
             }
         }
+        /* Sort Crossroads inside each container chronologically using PHP's `<=>`
+         * "spaceship" operator (compares `[era, chap, part]` arrays element-by-element!). */
         foreach ($cxByContainer as &$group) {
             usort($group, static function ($a, $b) {
                 return $a['_bounds'] <=> $b['_bounds'];
@@ -331,6 +429,10 @@ foreach ($narrativeDirs as $narrativeDir) {
         }
         unset($group);
 
+        /* 100-LEVEL PHP LESSON — RECURSIVE ANONYMOUS CLOSURE:
+         * Assigning `$renderContainerRecursive = null;` first and capturing it by
+         * reference (`use (&$renderContainerRecursive, ...)`) lets this closure call
+         * ITSELF when rendering nested `paths/<route>` folders! */
         $renderContainerRecursive = null;
         $renderContainerRecursive = static function (
             string $containerDir,
@@ -338,6 +440,7 @@ foreach ($narrativeDirs as $narrativeDir) {
             ?array $initialStartAfter
         ) use (&$renderContainerRecursive, $narrativeDir, $baseDir, $cxByContainer): string {
             $cxs = $cxByContainer[$containerKey] ?? [];
+            /* Base case: no Crossroads inside this directory -> render all remaining chapters linearly. */
             if (empty($cxs)) {
                 return renderEraDirectoryRange($containerDir, $baseDir, null, $initialStartAfter);
             }
@@ -353,10 +456,10 @@ foreach ($narrativeDirs as $narrativeDir) {
                 $cxPrompt = trim((string)($cx['prompt'] ?? ''));
                 $cxOptions = is_array($cx['options'] ?? null) ? $cx['options'] : [];
 
-                // 1. Render story chapters from `$cursorStartAfter` up through `$stopBound`
+                /* 1. Emit shared story chapters up through the `trigger_part` scene (`$stopBound`). */
                 $out .= renderEraDirectoryRange($containerDir, $baseDir, $stopBound, $cursorStartAfter);
 
-                // 2. Render Crossroads decision menu with internal Pandoc links
+                /* 2. Inject the interactive Story Crossroads jump menu using Pandoc `{#anchor}` syntax. */
                 $out .= "***\n\n";
                 $out .= "#### Story Crossroads — {$cxTitle} {#{$cxAnchor}}\n\n";
                 if ($cxPrompt !== '') {
@@ -372,7 +475,8 @@ foreach ($narrativeDirs as $narrativeDir) {
                 }
                 $out .= "\n***\n\n";
 
-                // 3. Emit each `paths_dir` option immediately, and advance `$cursorStartAfter` for `inline_continuation`
+                /* 3. Emit each `paths_dir` Story Path section (with return links back to `#$cxAnchor`),
+                 *    and remember if one option uses `inline_continuation` in the current folder. */
                 $inlineOpt = null;
                 foreach ($cxOptions as $idx => $opt) {
                     $optType = trim((string)($opt['source_type'] ?? 'paths_dir'));
@@ -399,6 +503,9 @@ foreach ($narrativeDirs as $narrativeDir) {
                     $out .= "*End of Story Path: {$optLabel}. [← Return to the Story Crossroads](#{$cxAnchor})*\n\n";
                 }
 
+                /* If an option continues inline inside `$containerDir`, emit its `# Story Path:`
+                 * banner and advance `$cursorStartAfter = $stopBound`; otherwise set a sentinel
+                 * `[999999, 999999, 999999]` so no trailing chapters are emitted after pure `paths_dir` forks. */
                 if ($inlineOpt !== null) {
                     $inlIdSlug = slugify((string)($inlineOpt['id'] ?? 'inline-path'));
                     $inlLabel = trim((string)($inlineOpt['label'] ?? 'Story Path'));
@@ -414,7 +521,7 @@ foreach ($narrativeDirs as $narrativeDir) {
                 }
             }
 
-            // Render any remaining inline chapters after the last Crossroads in this container
+            /* 4. Emit any remaining `inline_continuation` chapters after the final Crossroads in this container. */
             if ($cursorStartAfter === null || $cursorStartAfter[0] < 999999) {
                 $lastCx = end($cxs);
                 $lastAnchor = 'crossroads-' . slugify((string)($lastCx['id'] ?? 'story-crossroads'));
@@ -431,11 +538,17 @@ foreach ($narrativeDirs as $narrativeDir) {
 
         $masterContent .= $renderContainerRecursive($narrativeDir, '', null);
     } else {
-        // Standard linear novel compilation
+        /* Standard linear novel (no `crossroads.json`): emit every Era, Chapter, and Part sequentially. */
         $masterContent .= renderEraDirectoryRange($narrativeDir, $baseDir, null, null);
     }
 
-    // Only write to disk if the lump file doesn't exist or content has genuinely changed
+    /* ========================================================================
+     * STEP 5: CONTENT-HASH WRITE GUARD (PRESERVES `mtime` FOR `compile_ebooks.php`)
+     * ========================================================================
+     * Compare the MD5 checksum of the existing `-complete.md` on disk against
+     * `$masterContent` in memory. If identical, skip `file_put_contents()` so
+     * unchanged novels don't trigger unnecessary Pandoc EPUB/PDF rebuilds!
+     */
     $contentChanged = true;
     if (file_exists($outputPath)) {
         if (md5_file($outputPath) === md5($masterContent)) {

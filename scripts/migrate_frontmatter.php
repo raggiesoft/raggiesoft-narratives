@@ -1,70 +1,95 @@
 <?php
 /**
  * ============================================================================
- * ARCHITECTURE & MODULE OVERVIEW: migrate_frontmatter.php
+ * READ-ALONG TEACHING OVERVIEW: migrate_frontmatter.php
  * ============================================================================
- * Purpose:
- * This script is responsible for traversing the 'books' directory to locate
- * 'katie.json' manifest files, extracting temporal and structural data from 
- * the JSON hierarchies (Books -> Chapters -> Parts), and applying that data 
- * into the YAML frontmatter of the corresponding Markdown files.
- * 
- * Architectural Role:
- * Acts as a one-way migration and synchronization tool bridging legacy JSON 
- * metadata with modern Markdown YAML frontmatter. It is intended to standardize 
- * file structures for future processing, ensuring each Markdown file has a 
- * consistent set of metadata fields.
- * 
- * Key Components:
- * 1. JSON Parsing & Traversal: Iterates through series, books, chapters, parts.
- * 2. Regex Extraction: Scrubs prefixes (e.g., "Chapter 1:") and extracts dates,
- *    times, and timezones from raw titles.
- * 3. File I/O: Reads, updates, and writes both Markdown files and JSON files 
- *    with the newly scrubbed and normalized data.
- * 
- * Maintenance Notes:
- * - If the JSON structure of katie.json changes, the nested foreach loops 
- *   will need to be updated.
- * - The date/time extraction relies heavily on specific string formats 
- *   (e.g., " – Wednesday, August 20th, 2014"). Changes in authoring 
- *   conventions will require updates to the regular expressions.
+ * WHAT THIS FILE IS:
+ *   A one-way CLI PHP migration and normalization script that reads legacy
+ *   `katie.json` book manifests inside `raggiesoft-narratives/books/`, scrubs
+ *   verbose prefixes and inline date/time suffixes out of JSON titles, and
+ *   injects those dates, start times, and timezones into the YAML frontmatter
+ *   (`--- ... ---`) at the top of each corresponding Markdown scene file.
+ *
+ * HOW IT IS RUN:
+ *   Executed from the terminal via:
+ *     `php raggiesoft-narratives/scripts/migrate_frontmatter.php`
+ *   (Strictly keeps `<?php` on Line 1 for PHP CLI compatibility.)
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   1. `../books/<series>/katie.json`: Legacy hierarchical JSON manifests
+ *      organized as `Books -> Chapters -> Parts`, where titles originally
+ *      baked dates and times into strings like:
+ *        `"Chapter 1: First Day – Wednesday, August 20th, 2014"`
+ *        `"Part 2: Boarding – 7:00 PM (Newfoundland Daylight Time)"`
+ *   2. Individual Markdown scene files referenced by each part's `"file_path"`.
+ *
+ * WHAT OUTPUT IT PRODUCES:
+ *   1. Updates each `.md` file's YAML frontmatter block with normalized
+ *      `title`, `date` (`YYYY-MM-DD`), `time`, `timezone`, `start_time` (`HH:MM`
+ *      24-hour clock), `end_time`, and `pov` keys (preserving any custom keys
+ *      already present), while stripping duplicate `# Heading` lines from the body.
+ *   2. Re-saves each `katie.json` with clean, prefix-free titles (only writing
+ *      to disk when content actually changed so Git history stays clean).
+ *
+ * 100-LEVEL PHP CLI CONCEPTS TAUGHT IN THIS FILE:
+ *   - `glob()` Pattern Matching: Discovering files across subdirectories.
+ *   - Pass-by-Reference Loops (`foreach ($arr as &$item)`): Why the `&` symbol
+ *     lets a loop edit elements inside the original array directly.
+ *   - Regular Expressions (`preg_match` & `preg_replace`): Using capture groups
+ *     `(...)` to split composite title strings into structured fields.
+ *   - YAML Frontmatter Parsing & Idempotent File Writes (`$newContent !== $content`).
  * ============================================================================
  */
 
+/* Resolve `../books` relative to this script's folder (`__DIR__`) into a canonical
+ * absolute filesystem path (returns `false` if the directory doesn't exist). */
 $booksDir = realpath(__DIR__ . '/../books');
 
-// Ensure the target directory exists before proceeding to prevent path errors.
+/* Fail fast with a clear message if `../books/` is missing. */
 if (!$booksDir || !is_dir($booksDir)) {
     die("Error: The directory ../books/ does not exist or cannot be resolved.\n");
 }
 
 /**
- * Strips HTML and ordinals (st, nd, rd, th) to help PHP's strtotime()
- * reliably convert complex date strings into standard YYYY-MM-DD.
- * 
- * @param string $dateStr The raw date string extracted from the chapter title.
- * @return string The normalized YYYY-MM-DD date or an empty string representation.
+ * Helper: Converts human-written English date strings (such as
+ * `"Wednesday, August 20th, 2014"`) into ISO-8601 `"YYYY-MM-DD"` format (`"2014-08-20"`).
+ *
+ * Step-by-step:
+ *   1. If empty, return `'""'` (two literal quote characters representing an empty
+ *      YAML string value when written into `date: ""`).
+ *   2. `strip_tags()` removes any stray HTML like `<em>` or `<span>` from legacy JSON.
+ *   3. `preg_replace('/(\d+)(st|nd|rd|th)/i', '$1', $clean)` strips English ordinal
+ *      suffixes (`1st` -> `1`, `20th` -> `20`) so PHP's `strtotime()` parser never trips.
+ *   4. `strtotime($clean)` converts the English date into a Unix epoch timestamp
+ *      (seconds since Jan 1, 1970), and `date('Y-m-d', $timestamp)` formats it cleanly.
+ *
+ * @param string $dateStr Raw date substring extracted from a chapter title.
+ * @return string ISO `YYYY-MM-DD` date string, or `'""'` if unparseable.
  */
 function parseExtractedDate($dateStr) {
     if (!$dateStr) return '""';
     
     // Strip HTML tags just in case there is stray markup in the JSON
     $clean = strip_tags($dateStr);
-    // Remove ordinal indicators which can sometimes confuse strtotime()
+    // Remove ordinal indicators (`st`, `nd`, `rd`, `th`) while keeping the digits (`$1`)
     $clean = preg_replace('/(\d+)(st|nd|rd|th)/i', '$1', $clean);
     
-    // Attempt conversion to a Unix timestamp
+    // Attempt conversion to a Unix timestamp and format as YYYY-MM-DD
     $timestamp = strtotime($clean);
     if ($timestamp) {
         return date('Y-m-d', $timestamp);
     }
     
-    // Default fallback if parsing fails
+    // Default YAML empty-string fallback if parsing fails
     return '""'; 
 }
 
-// 1. Locate all katie.json files
-// Using glob to recursively find manifest files within the immediate subdirectories.
+// ============================================================================
+// STEP 1: DISCOVER ALL `katie.json` MANIFESTS VIA `glob()`
+// ============================================================================
+// `glob('/path/to/books/*/katie.json')` acts just like wildcard expansion in a
+// terminal shell: the `*` matches every immediate series folder inside `books/`
+// that contains a `katie.json` file, returning an array of matching file paths.
 $jsonFiles = glob($booksDir . '/*/katie.json');
 
 if (empty($jsonFiles)) {
@@ -73,88 +98,105 @@ if (empty($jsonFiles)) {
 
 echo "Found " . count($jsonFiles) . " JSON files. Processing...\n\n";
 
-// Process each found JSON manifest sequentially.
+/* ============================================================================
+ * STEP 2: TRAVERSE `JSON -> BOOKS -> CHAPTERS -> PARTS` & SYNC MARKDOWN FILES
+ * ============================================================================ */
 foreach ($jsonFiles as $jsonFile) {
+    /* `dirname($jsonFile)` gets `/.../books/katie`, and `basename(...)` extracts `'katie'`. */
     $bookFolderName = basename(dirname($jsonFile));
+    /* Read the entire JSON file into memory and decode into a nested PHP associative array. */
     $jsonData = json_decode(file_get_contents($jsonFile), true);
     
-    // Skip on decode failure to prevent data corruption.
+    /* Guard against malformed JSON so we never overwrite a file with `null`. */
     if (!$jsonData) {
         echo "Failed to decode JSON in {$bookFolderName}. Skipping...\n";
         continue;
     }
     
-    // Iterate by reference (&$) so we can modify the JSON array directly
-    // This allows us to scrub the titles in memory before saving back to disk.
+    /* 100-LEVEL PHP LESSON — PASS-BY-REFERENCE (`&$book`, `&$chapter`, `&$part`):
+     * Normally in PHP, `foreach ($jsonData as $book)` gives you a *copy* of each
+     * book array, so editing `$book['book_title']` wouldn't change `$jsonData`!
+     * Prefixing `&` (`&$book`) creates a *reference* (alias) directly into `$jsonData`,
+     * so every cleanup we make to `$book`, `$chapter`, and `$part` updates `$jsonData`
+     * in place for Step 3 when we save the cleaned JSON back to disk. */
     foreach ($jsonData as &$book) {
-        // Clean Book Title
-        // Removes generic prefixes like "Book 1:" to standardize titles.
+        /* 2A. Scrub redundant `"Book 1: "` or `"Books: "` prefixes off `book_title`. */
         if (isset($book['book_title'])) {
             $book['book_title'] = trim(preg_replace('/^Book(?:s|\s*[a-zA-Z0-9]*)*:\s*/i', '', $book['book_title']));
         }
         
         if (isset($book['chapters'])) {
-            // Iterate over chapters by reference.
             foreach ($book['chapters'] as &$chapter) {
                 $chapterDate = '""';
                 
                 if (isset($chapter['chap_title'])) {
-                    // Clean Chapter Prefix (e.g., "Chapter 1:" or "Chapter X:")
+                    /* 2B. Strip `"Chapter 1: "` / `"Chapter IV: "` prefixes off `chap_title`. */
                     $chapter['chap_title'] = trim(preg_replace('/^Chapter\s*[a-zA-Z0-9]*:\s*/i', '', $chapter['chap_title']));
                     
-                    // Extract Date from Chapter Title (e.g., " – Wednesday, August 20th, 2014")
-                    // This regex splits the actual title from the appended date string.
+                    /* 2C. Split trailing `" – Weekday, Month Day, Year"` off `chap_title`:
+                     *   - Capture group 1 `(.*?)`: The clean chapter title before the en-dash/hyphen.
+                     *   - `(?:–|-)`: Non-capturing group matching either an en-dash `–` or ASCII hyphen `-`.
+                     *   - Capture group 2 `([A-Za-z]+, ...)`: The full English calendar date at the end (`$`). */
                     if (preg_match('/^(.*?)\s*(?:–|-)\s*([A-Za-z]+,\s*[A-Za-z]+\s*\d+(?:st|nd|rd|th)?(?:,\s*\d{4}))$/', $chapter['chap_title'], $chapMatches)) {
-                        $chapter['chap_title'] = trim($chapMatches[1]); // The core chapter title
-                        $chapterDate = parseExtractedDate($chapMatches[2]); // The parsed date
+                        $chapter['chap_title'] = trim($chapMatches[1]);     // Keep clean title only
+                        $chapterDate = parseExtractedDate($chapMatches[2]); // Convert date to YYYY-MM-DD
                     }
                 }
                 
                 if (isset($chapter['parts'])) {
-                    // Iterate over parts by reference.
                     foreach ($chapter['parts'] as &$part) {
                         if (isset($part['part_title'])) {
-                            // Clean Part Prefix (e.g., "Part 1:" or "Part X:")
+                            /* 2D. Strip `"Part 1: "` prefix off `part_title`. */
                             $rawTitle = trim(preg_replace('/^Part\s*[a-zA-Z0-9]*:\s*/i', '', $part['part_title']));
                             
                             $startTime = '""';
                             $timezone = '""';
                             
-                            // Extract Time and Optional Timezone (e.g., " – 10:00 AM" or " – 7:00 PM (Newfoundland Daylight Time)")
+                            /* 2E. Extract trailing clock time & optional `(Timezone)` from `part_title`:
+                             * Example input: `"Arrival – 7:00 PM (Newfoundland Daylight Time)"`
+                             *   - `$partMatches[1]`: `"Arrival"`
+                             *   - `$partMatches[2]`: `"7:00 PM"` -> converted via `date('H:i', ...)` to `"19:00"`
+                             *   - `$partMatches[3]`: `"Newfoundland Daylight Time"` (optional parenthetical) */
                             if (preg_match('/^(.*?)\s*(?:–|-)\s*(\d{1,2}:\d{2}\s*(?:AM|PM))(?:\s*\((.*?)\))?$/i', $rawTitle, $partMatches)) {
                                 $rawTitle = trim($partMatches[1]);
                                 
-                                // Convert 12-hour AM/PM to 24-hour format
+                                // Convert 12-hour AM/PM clock string into 24-hour `HH:MM` format
                                 $timeTimestamp = strtotime($partMatches[2]);
                                 if ($timeTimestamp) {
                                     $startTime = '"' . date('H:i', $timeTimestamp) . '"';
                                 }
                                 
-                                // Capture parenthetical timezone if it exists
+                                // Escape and quote the optional timezone label if present
                                 if (!empty($partMatches[3])) {
                                     $timezone = '"' . addslashes(trim($partMatches[3])) . '"';
                                 }
                             }
                             
-                            // Update the JSON object with the scrubbed title
+                            /* Store the scrubbed title back into the JSON array reference. */
                             $part['part_title'] = $rawTitle;
                             
-                            // 5. Locate and Update the Markdown File
-                            // Resolve the relative path stored in JSON to an absolute file path.
+                            /* ================================================
+                             * 2F. LOCATE & UPDATE THE TARGET MARKDOWN `.md` FILE
+                             * ================================================ */
                             if (isset($part['file_path'])) {
+                                /* Normalize any Windows `\` slashes to `/` and join onto the series folder. */
                                 $mdFilePath = dirname($jsonFile) . '/' . ltrim(str_replace('\\', '/', $part['file_path']), '/');
                                 
                                 if (file_exists($mdFilePath)) {
                                     $content = file_get_contents($mdFilePath);
                                     
-                                    // Separate existing frontmatter from the body using regex.
-                                    // Matches standard YAML block bounded by ---.
+                                    /* Split existing YAML Frontmatter (`--- ... ---` at line 1) from prose body:
+                                     * - `^---\s*\n`: Opening `---` fence at the very start of the file.
+                                     * - `(.*?)`: Lazy capture group 1 grabbing YAML lines up to the FIRST closing `---`.
+                                     * - `(.*)$`: Capture group 2 grabbing the entire remaining Markdown story body.
+                                     * - Trailing `/s` ("single-line / dotall" modifier): Makes `.` match `\n` newlines! */
                                     $hasFrontmatter = preg_match('/^---\s*\n(.*?)\n---\s*\n(.*)$/s', $content, $matches);
                                     
                                     $existingFields = [];
                                     $body = $content;
                                     
-                                    // Parse existing frontmatter into a key-value array.
+                                    /* Parse existing `key: value` YAML lines so we preserve custom keys
+                                     * (like `pov:`, `audio:`, `image:`, or `theme:`) already on the file. */
                                     if ($hasFrontmatter) {
                                         $lines = explode("\n", trim($matches[1]));
                                         $body = $matches[2];
@@ -165,13 +207,13 @@ foreach ($jsonFiles as $jsonFile) {
                                         }
                                     }
                                     
-                                    // Clean body content
-                                    // Removes leading whitespace and potential duplicate H1 headings.
+                                    /* Strip any legacy top-of-body `# Heading` line so the reader UI doesn't
+                                     * render the title twice (once from YAML `title:` and once from `# Title`). */
                                     $body = ltrim($body);
                                     $body = preg_replace('/^#\s+[^\n]+/', '', $body);
                                     $body = ltrim($body);
                                     
-                                    // Apply Extracted Data from JSON to the frontmatter array.
+                                    /* Overlay the newly scrubbed JSON metadata onto `$existingFields`. */
                                     $existingFields['title'] = '"' . addslashes($rawTitle) . '"';
                                     
                                     if ($chapterDate !== '""') {
@@ -184,8 +226,8 @@ foreach ($jsonFiles as $jsonFile) {
                                         $existingFields['timezone'] = $timezone;
                                     }
                                     
-                                    // Enforce Required Frontmatter Structure & Defaults
-                                    // Ensures a uniform schema across all Markdown files.
+                                    /* Guarantee every scene file has all 7 canonical frontmatter keys
+                                     * in a deterministic order at the top of the YAML block. */
                                     $defaults = [
                                         'title'      => '""',
                                         'date'       => '""',
@@ -196,22 +238,21 @@ foreach ($jsonFiles as $jsonFile) {
                                         'pov'        => '""'
                                     ];
                                     
-                                    // Populate defaults where keys are missing.
                                     foreach ($defaults as $k => $v) {
                                         if (!isset($existingFields[$k])) {
                                             $existingFields[$k] = $v;
                                         }
                                     }
                                     
-                                    // Construct the new file content with updated YAML block.
+                                    /* Rebuild the `--- ... ---` YAML frontmatter block:
+                                     *   1. Emit the 7 standard keys in canonical order first.
+                                     *   2. Emit any extra custom keys (`image`, `audio`, `location`, etc.) after. */
                                     $newFrontmatter = "---\n";
                                     
-                                    // Write default keys first for consistent ordering.
                                     foreach (array_keys($defaults) as $key) {
                                         $newFrontmatter .= "{$key}: {$existingFields[$key]}\n";
                                     }
                                     
-                                    // Append any existing custom fields not in the defaults array to preserve data.
                                     foreach ($existingFields as $k => $v) {
                                         if (!array_key_exists($k, $defaults)) {
                                             $newFrontmatter .= "{$k}: {$v}\n";
@@ -221,7 +262,10 @@ foreach ($jsonFiles as $jsonFile) {
                                     
                                     $newContent = $newFrontmatter . $body;
                                     
-                                    // Strictly write to disk if changes occurred to minimize unnecessary I/O.
+                                    /* IDEMPOTENT WRITE CHECK:
+                                     * Only call `file_put_contents()` if `$newContent` actually differs
+                                     * from `$content`. That preserves filesystem modification timestamps
+                                     * (`mtime`) when re-running the script on already-migrated books! */
                                     if ($newContent !== $content) {
                                         file_put_contents($mdFilePath, $newContent);
                                         echo "Updated MD: " . ltrim(str_replace($booksDir, '', $mdFilePath), '/\\') . "\n";
@@ -237,12 +281,17 @@ foreach ($jsonFiles as $jsonFile) {
         }
     }
     
-    // Save the newly scrubbed JSON back to disk
-    // Use PRETTY_PRINT to maintain human readability.
+    /* ========================================================================
+     * STEP 3: SAVE SCRUBBED `katie.json` BACK TO DISK (IF CHANGED)
+     * ========================================================================
+     * Flags explained:
+     *   - `JSON_PRETTY_PRINT`: Multi-line indented formatting.
+     *   - `JSON_UNESCAPED_UNICODE`: Keeps accented characters (`Zoë`, `–`) readable instead of `\u00eb`.
+     *   - `JSON_UNESCAPED_SLASHES`: Keeps `"e001/c001/p001.md"` readable instead of `"e001\/c001\/p001.md"`.
+     */
     $newJsonContent = json_encode($jsonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
     $originalJsonContent = file_get_contents($jsonFile);
     
-    // Only perform the write if there is a substantive change to the JSON.
     if ($newJsonContent !== $originalJsonContent) {
         file_put_contents($jsonFile, $newJsonContent);
         echo "Cleaned JSON: " . ltrim(str_replace($booksDir, '', $jsonFile), '/\\') . "\n";
