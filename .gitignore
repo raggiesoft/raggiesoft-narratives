@@ -114,6 +114,14 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# --- Strictly Local AI Handoff Staging (Recursive — NEVER on GitHub) ---
+/ai-staging/
+**/ai-staging/
+**/ai-staging/**
+*.exe
+*.msi
+*.7zip
+
 # --- Project Specific Overrides ---
 /lore/**/_old/
 orion.php
