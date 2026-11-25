@@ -1218,12 +1218,9 @@ Dr. Mercer pulled a legal pad toward him and laid out Central Housing's protocol
 
 "What are the terms of the paperwork you want them to sign?" Kelsey asked.
 
-"David is going to print three copies of a 14-Day Provisional Co-Ed Suite Accommodation & Mutual Consent Agreement right now," Dr. Mercer said, nodding to David, whose fingers were already moving across his keyboard. "Here are the four conditions we are putting in writing:
+"David is going to print three copies of a 14-Day Provisional Co-Ed Suite Accommodation & Mutual Consent Agreement right now," Dr. Mercer said, nodding to David, whose fingers were already moving across his keyboard. "Here are the four conditions we are putting in writing. First, this approval is strictly temporary under a fourteen-day provisional trial window from August 23 through the two-week post-census room freeze on Monday, September 8—giving the six of them two full weeks of actual dorm life, from classes and bathroom schedules to study hours and sleeping arrangements, to see if this setup genuinely works while Central Housing waits for post-census no-shows and drops to open up standard beds on campus if it doesn't. Second, all six eighteen-year-old adult residents—Jordan Fuller in 214-A, Aubrie Jean Kelly in 214-B, Madison Elizabeth Scott in 214-C, Zoë Wren Brooks in 216-A, Lauren Nicole Barnes in 216-B, and Hannah Ashlee Parker in 216-C—must sign the agreement in our presence confirming their morning verbal agreement was one hundred percent voluntary.
 
-1. Strict 14-Day Provisional Trial Window (August 23 – September 8, 2014): This approval is strictly temporary through the two-week post-census room freeze on Monday, September 8. That gives the six of them two full weeks of actual dorm life—classes, bathroom schedules, study hours, and sleeping arrangements—to see if this arrangement genuinely works, while giving Central Housing two weeks for post-census no-shows and drops to open up standard beds on campus if it doesn't.
-2. In-Person Verification of Unanimous Consent: All six eighteen-year-old adult residents—Jordan Fuller (214-A), Aubrie Jean Kelly (214-B), Madison Elizabeth Scott (214-C), Zoë Wren Brooks (216-A), Lauren Nicole Barnes (216-B), and Hannah Ashlee Parker (216-C)—must sign the agreement in our presence confirming their morning verbal agreement was 100% voluntary.
-3. Unconditional, Confidential 'No-Fault Opt-Out' Guarantee: I am going to make sure all six of them—and especially Jordan—hear this directly from me: if at *any* point during the next fourteen days *any single one* of the six residents feels uncomfortable, crowded, or decides that sharing a co-ed suite isn't working out, they can come privately to you, Isabel, or Henry, and Housing will execute a reassignment with zero penalty, zero blame, and zero questions asked. Nobody is trapped in that suite if it stops working.
-4. Weekly Staff Check-Ins & Day-14 Evaluation: Without prying into Jordan's personal history, you, Isabel, and Henry will keep a close eye on Suite 214/216 over the next two weeks, and on September 8 we will evaluate whether the suite has proven it can function or whether we need to make a change."
+"Third," Dr. Mercer continued, "is an unconditional, confidential no-fault opt-out guarantee. I am going to make sure all six of them—and especially Jordan—hear this directly from me: if at *any* point during the next fourteen days *any single one* of the six residents feels uncomfortable, crowded, or decides that sharing a co-ed suite isn't working out, they can come privately to you, Isabel, or Henry, and Housing will execute a reassignment with zero penalty, zero blame, and zero questions asked. Nobody is trapped in that suite if it stops working. Fourth and finally, without prying into Jordan's personal history, you, Isabel, and Henry will conduct weekly staff check-ins over the next two weeks, and on September 8 we will evaluate whether the suite has proven it can function or whether we need to make a change."
 
 Patricia Higgins offered a rare, approving nod across the mahogany table. "That protects Jordan's federal ADA placement in Room 214, respects his autonomy as an adult without overwhelming him, and gives all six students a fair, structured chance to prove whether they can make it work."
 
@@ -1365,13 +1362,7 @@ Aubrie automatically stepped in to help steady the bottom edge of the heavy clip
 
 Jordan Fuller (Aubrey Jordan Fuller)
 
-One by one, the clipboard traveled around the room as the other five eighteen-year-old adults added their signatures and dates beneath his:
-
-- Aubrie Jean Kelly (Room 214, Bed B)
-- Madison Elizabeth Scott (Room 214, Bed C)
-- Zoë Wren Brooks (Room 216, Bed A)
-- Lauren Nicole Barnes (Room 216, Bed B)
-- Hannah Ashlee Parker (Room 216, Bed C)
+One by one, the clipboard traveled around the room as the other five eighteen-year-old adults added their signatures and dates beneath his: Aubrie Jean Kelly for Room 214, Bed B; Madison Elizabeth Scott for Room 214, Bed C; Zoë Wren Brooks for Room 216, Bed A; Lauren Nicole Barnes for Room 216, Bed B; and Hannah Ashlee Parker for Room 216, Bed C.
 
 Dr. Mercer inspected the six signatures, countersigned the bottom administrative block alongside Kelsey Brennan (14:38 EDT — Provisional Approval Through 2014-09-08), detached the goldenrod resident copy from the triplicate packet, and handed it to Zoë.
 
@@ -2593,13 +2584,13 @@ He wheeled himself through the automatic sliding doors of the 1st-floor lower le
 
 The main three-story passenger elevator was completely cordoned off with yellow caution cones and portable safety barricades. The brushed-steel elevator doors were propped wide open, and two elevator repair technicians in dark blue work uniforms were actively on site with their steel toolboxes open on the terrazzo floor, working inside the open control panel and hoistway threshold to fix the broken elevator.
 
-His mPhone buzzed in his pocket. He pulled it out to see a text from Aubrie.
+His mPhone buzzed in his pocket. He pulled it out to see a text from Aubrie:
 
-Aubrie: <sms>Hey! I’m here. Up on the 2nd floor dining level by the upper quad entrance and the stairs. Waiting for you! :)</sms>
+> **Aubrie:** <sms>Hey! I’m here. Up on the 2nd floor dining level by the upper quad entrance and the stairs. Waiting for you! :)</sms>
 
-Jordan’s heart sank. He was on the 1st-floor ground level—down by the rear service entrance and the kitchens—and with the main passenger elevator actively under repair and the three-floor staircase impossible in his wheelchair, he had no way to get up one floor to the 2nd-floor dining facility. He quickly texted her back, his thumbs fumbling slightly on the screen.
+Jordan’s heart sank. He was on the 1st-floor ground level—down by the rear service entrance and the kitchens—and with the main passenger elevator actively under repair and the three-floor staircase impossible in his wheelchair, he had no way to get up one floor to the 2nd-floor dining facility. He quickly texted her back, his thumbs fumbling slightly on the screen:
 
-Jordan: <sms>I'm down on the 1st floor by the service entrance. The main elevator is broken and technicians are working on it right now. I don't know how to get up to the 2nd floor.</sms>
+> **Jordan:** <sms>I'm down on the 1st floor by the service entrance. The main elevator is broken and technicians are working on it right now. I don't know how to get up to the 2nd floor.</sms>
 
 He wheeled back and forth near the service corridor behind the elevator repair barricades, feeling a sudden, sharp jolt of panic. A cafeteria worker, pushing a large metal cart of supplies toward the ground-floor kitchens, noticed him looking helplessly at the elevator technicians.
 
@@ -2829,21 +2820,21 @@ Jordan looked down at the slip of paper resting next to the FM receiver, the mPa
 
 Ten minutes later, Jordan rolled out of Ms. Higgins's office and back into the sunlit lobby of Callahan Hall. His backpack was heavier now, but he felt lighter than he had his entire life.
 
-He parked his wheelchair near the glass doors, pulled his mPhone from his pocket, and opened a new text message to Sarah.
+He parked his wheelchair near the glass doors, pulled his mPhone from his pocket, and opened a new text message to Sarah:
 
-Jordan: <sms>Educational Accessibility gave me an official note-taker form for Western Civ. If you sign it, the university gives you Priority Registration for next semester. Do you want it?</sms>
+> **Jordan:** <sms>Educational Accessibility gave me an official note-taker form for Western Civ. If you sign it, the university gives you Priority Registration for next semester. Do you want it?</sms>
 
-Less than thirty seconds later, his mPhone buzzed.
+Less than thirty seconds later, his mPhone buzzed:
 
-Sarah: <sms>Are you joking?! Priority registration is absolute gold! I would have done it for free anyway, mate! Absolutely YES. Bring it to class on Wednesday!!!</sms>
+> **Sarah:** <sms>Are you joking?! Priority registration is absolute gold! I would have done it for free anyway, mate! Absolutely YES. Bring it to class on Wednesday!!!</sms>
 
-Jordan grinned, a massive wave of relief washing over him. He immediately opened Aubrie's contact thread.
+Jordan grinned, a massive wave of relief washing over him. He immediately opened Aubrie's contact thread:
 
-Jordan: <sms>Ms. Higgins gave me the mPad and the microphone for Dr. Alistair. She also gave me a note-taker form for you. You get Priority Registration.</sms>
+> **Jordan:** <sms>Ms. Higgins gave me the mPad and the microphone for Dr. Alistair. She also gave me a note-taker form for you. You get Priority Registration.</sms>
 
-The reply from Aubrie came through almost instantly.
+The reply from Aubrie came through almost instantly:
 
-Aubrie: <sms>YES!!! Best news ever. Though I’d take your notes just to sit next to you anyway. 😊 Tell you all about Calc tonight! Go crush your afternoon classes! ❤️</sms>
+> **Aubrie:** <sms>YES!!! Best news ever. Though I’d take your notes just to sit next to you anyway. 😊 Tell you all about Calc tonight! Go crush your afternoon classes! ❤️</sms>
 
 Jordan stared at the little red heart emoji on his screen. He carefully locked his phone and slipped it back into his pocket. He wasn't navigating this campus alone. He had an entire constellation of people who enthusiastically wanted to be by his side.
 
@@ -3359,9 +3350,9 @@ Sarah Braithwaite was sitting cross-legged on her bed, wrapped in a thick fleece
 
 Sarah’s phone vibrated against her knee for what felt like the dozenth time in the last two hours.
 
-She unlocked the screen. It was another barrage of texts from Lax Toss 🙄.
+She unlocked the screen. It was another barrage of texts from Lax Toss 🙄:
 
-<sms>Where are you? You said your orientation ended at 2. It's 3:15. Are you hanging out in the lobby? Who are you with?</sms>
+> **Lax Toss 🙄:** <sms>Where are you? You said your orientation ended at 2. It's 3:15. Are you hanging out in the lobby? Who are you with?</sms>
 
 Sarah let out a heavy, exhausted sigh, locking the screen and tossing the phone onto her pillow.
 
@@ -4543,7 +4534,7 @@ City Manager Keaton rubbed his forehead in disbelief. "So whether a student is r
 
 Over the next fifteen minutes, the :15 local pulse buses began converging on McConnell Transit Center from across the city—and with them came another fifty CPI hotel freshmen who had crowded onto the 8:00 AM inbound runs on West Main and Tyler Avenue, once again leaving Radford University students behind at neighborhood stops across town. By 08:12 AM, over one hundred and ten CPI freshmen were jammed shoulder-to-shoulder across the brick island of McConnell Transit Center, spilling off the curb into the active bus lane and blocking the main pedestrian crosswalk in front of Radford University's McConnell Library so that RU students walking to their 8:30 AM classes couldn't even cross Fairfax Street.
 
-When Unit 101—the single **thirty-foot *Radford Connector* bus**—turned onto the plaza at 08:14 AM, the crowd surged forward before the bus had even come to a complete stop.
+When Unit 101—the single thirty-foot *Radford Connector* bus—turned onto the plaza at 08:14 AM, the crowd surged forward before the bus had even come to a complete stop.
 
 "Step back from the curb! Stay behind the yellow tactile strip!" Walter barked, blowing his safety whistle as two Radford University Police Department officers hurried across the plaza to keep the surging crowd of panicked eighteen-year-olds from pinning each other against the side of the thirty-foot bus.
 
@@ -4581,7 +4572,7 @@ David Thorne turned his laptop screen toward her, showing the campus-wide housin
 
 "It's still the tightest fall census in CPI history, Kelsey," David said, shaking his head as he pointed to the three-tier hotel tracker on his screen. "When the overflow crisis hit in July and August, we filled up every single room at The Hotel at Poly right next to campus first. When The Hotel at Poly hit one hundred percent capacity, we leased the highway hotel blocks down at Exit 118C in Christiansburg, and when Christiansburg filled up, we had to lease a third tier of overflow hotels all the way out in Radford."
 
-"And I don't have to tell you what a commuter nightmare the off-campus hotels—especially Radford—have been for the last two weeks," Dr. Mercer remarked dryly, rubbing his temples as he tapped a formal letterhead memo sitting on the corner of the table. "At least the kids at The Hotel at Poly can walk across the street to their classes. If you're commuting in from a hotel in Christiansburg or Radford, it doesn't matter whether you're riding Blue Ridge Transit, Radford Transit, one of the direct shuttle buses CPI owns, or one of the motorcoaches we chartered from surrounding private operators—every single bus is stuffed to the brim, shoulder-to-shoulder standing room only, on every trip. The students trapped at the Radford hotels hate it the most: because the City of Radford is small enough that a single local bus can reach its outer terminal in fifteen minutes and run a thirty-minute pulse back to the McConnell Transit Center, while **Radford Transit's *Radford Connector*** only runs *once every sixty minutes* up to CPI, the *Radford Connector* only meets the local bus lineups at McConnell every *other* trip."
+"And I don't have to tell you what a commuter nightmare the off-campus hotels—especially Radford—have been for the last two weeks," Dr. Mercer remarked dryly, rubbing his temples as he tapped a formal letterhead memo sitting on the corner of the table. "At least the kids at The Hotel at Poly can walk across the street to their classes. If you're commuting in from a hotel in Christiansburg or Radford, it doesn't matter whether you're riding Blue Ridge Transit, Radford Transit, one of the direct shuttle buses CPI owns, or one of the motorcoaches we chartered from surrounding private operators—every single bus is stuffed to the brim, shoulder-to-shoulder standing room only, on every trip. The students trapped at the Radford hotels hate it the most: because the City of Radford is small enough that a single local bus can reach its outer terminal in fifteen minutes and run a thirty-minute pulse back to the McConnell Transit Center, while Radford Transit's *Radford Connector* only runs *once every sixty minutes* up to CPI, the *Radford Connector* only meets the local bus lineups at McConnell every *other* trip."
 
 "And the ones who try to outsmart the schedule don't fare any better," David Thorne added with a grimace. "Half the kids at the Radford hotels figured out they could hop on Blue Ridge Transit's Route 3 at the McConnell Transit Center and ride it east down US-11 to Pepper Plaza Transit Center in Christiansburg to link up with Route 1 heading up Business 460 into Blacksburg—only to get off at Pepper Plaza and discover that Route 1 is already stuffed to the gills with all the overflow students coming in from the Christiansburg hotels."
 
@@ -4703,13 +4694,7 @@ Beneath the header, a concise paragraph stated in clear institutional language t
 
 To Jordan, looking at the heavy cream bond paper as it passed from hand to hand around the room, it felt less like a housing form and more like a constitutional treaty. It was the permanent legal charter of their chosen family.
 
-One by one, the five women read the paragraph and signed their full names in blue ink beside their printed student ID numbers and bed codes:
-
-- Madison Elizabeth Scott (Room 214, Bed C)
-- Zoë Wren Brooks (Room 216, Bed A)
-- Hannah Ashlee Parker (Room 216, Bed C)
-- Lauren Nicole Barnes (Room 216, Bed B)
-- Aubrie Jean Kelly (Room 214, Bed B)
+One by one, the five women read the paragraph and signed their full names in blue ink beside their printed student ID numbers and bed codes: Madison Elizabeth Scott for Room 214, Bed C; Zoë Wren Brooks for Room 216, Bed A; Hannah Ashlee Parker for Room 216, Bed C; Lauren Nicole Barnes for Room 216, Bed B; and Aubrie Jean Kelly for Room 214, Bed B.
 
 Aubrie handed the clipboard and blue pen to Jordan last.
 
@@ -7536,11 +7521,7 @@ Everyone looked toward the center of the circle as Jordan’s hands moved across
 
 And so, at nine o'clock on Black Friday night in the basement on Geneva Street, instead of immediately pressing play on a comedy, the nine of them held their first Constitutional Convention.
 
-With Zoë opening a fresh encrypted document on her laptop like a seasoned parliamentary secretary, they collaboratively drafted, debated, and ratified the three unbreakable foundational articles of their Family Charter:
-
-1. Article I — The Safe Word ("Red"): A single, unmistakable safe word—"Red"—that any member of the family could speak aloud, whisper, or type into EchoType or Jordan Comms at any time, in any setting, to immediately halt any physical, emotional, or social activity. Zero hesitation, zero defensiveness, and zero questions asked.
-2. Article II — The Consent Clause: Every form of romantic or intimate escalation within the family had to be a *"deliberate, enthusiastic, unhurried, and private choice"* between the people involved—never initiated through party games, dares, alcohol, or group momentum.
-3. Article III — The Hannah Veto: By unanimous vote of the other eight members, in recognition of her emotional wisdom, level-headedness, and protective instincts, Hannah was formally vested with an official Family Veto. If she ever judged that a situation, game, or plan was becoming unhealthy, overwhelming, or unsafe for Jordan or any member of the circle, her word was binding law.
+With Zoë opening a fresh encrypted document on her laptop like a seasoned parliamentary secretary, they collaboratively drafted, debated, and ratified the three unbreakable foundational articles of their Family Charter. Article I established a single, unmistakable safe word—"Red"—that any member of the family could speak aloud, whisper, or type into EchoType or Jordan Comms at any time, in any setting, to immediately halt any physical, emotional, or social activity with zero hesitation, zero defensiveness, and zero questions asked. Article II, the Consent Clause, stipulated that every form of romantic or intimate escalation within the family had to be a *"deliberate, enthusiastic, unhurried, and private choice"* between the people involved—never initiated through party games, dares, alcohol, or group momentum. And under Article III, by unanimous vote of the other eight members in recognition of her emotional wisdom, level-headedness, and protective instincts, Hannah was formally vested with the Hannah Veto: if she ever judged that a situation, game, or plan was becoming unhealthy, overwhelming, or unsafe for Jordan or any member of the circle, her word was binding law.
 
 The thirty-minute convention didn't end in awkwardness or lingering guilt. It ended in a profound, palpable wave of relief and unity. They had looked straight at a structural vulnerability in their unconventional family, talked about it with total honesty, and engineered a stronger, safer foundation in its place.
 
@@ -7905,10 +7886,7 @@ On September 19, when the alarm had unlocked Room 214’s door, Jordan had screa
 
 Tonight, Jordan didn't panic at the open door for a single fraction of a second. He knew how college fire drills worked now. He knew Aubrie Sinclair couldn't touch him here. And he knew the nine people in this room—and the RAs in the hallway—had his back. Calmly reaching up with a shaky hand, Jordan clicked both of his behind-the-ear bridge hearing aids into attenuated mode to dull the piercing 100-decibel horn, then held out his arms toward Mark and Jessica so they could transfer him from the mattress into his wheelchair.
 
-The nine-person crew and the Student Health nurse practitioner moved with breathtaking military precision:
-* Nurse Vance pulled a fresh blue surgical mask from her coat pocket and looped it gently over Jordan’s mouth and nose. "Keep this on outside, Jordan—not just so we don't share Influenza A with the second floor, but because the mask traps your warm breath so the freezing mountain air won't shock your raw throat and bronchial passages!"
-* As Mark and Jessica settled Jordan into his chair, Lauren, Hannah, and Zoë zipped his heavy winter coat over his pajamas, wound his maroon CPI scarf around his neck, tucked a knit beanie over his ears, and wrapped both thick quilts from his bed tightly around his shoulders, torso, and legs all the way down to his footplates like a sealed thermal sleeping bag.
-* Zoë pressed her palm against the square stainless-steel *PUSH TO OPEN* actuator on the wall, and the heavy oak door of Room 214 swung wide open into the strobing corridor.
+The nine-person crew and the Student Health nurse practitioner moved with breathtaking military precision. Nurse Vance pulled a fresh blue surgical mask from her coat pocket and looped it gently over Jordan’s mouth and nose. "Keep this on outside, Jordan—not just so we don't share Influenza A with the second floor, but because the mask traps your warm breath so the freezing mountain air won't shock your raw throat and bronchial passages!" As Mark and Jessica settled Jordan into his chair, Lauren, Hannah, and Zoë zipped his heavy winter coat over his pajamas, wound his maroon CPI scarf around his neck, tucked a knit beanie over his ears, and wrapped both thick quilts from his bed tightly around his shoulders, torso, and legs all the way down to his footplates like a sealed thermal sleeping bag. Then Zoë pressed her palm against the square stainless-steel *PUSH TO OPEN* actuator on the wall, and the heavy oak door of Room 214 swung wide open into the strobing corridor.
 
 Right outside in the hallway, Isabel Dawson was sprinting toward their door in her neon-yellow CPI Residence Life vest with her black two-way radio in one hand and her metal EHS clipboard—headed *SCHEDULED RESIDENTIAL FIRE DRILL LOG — FALL SEMESTER (DRILL 2 OF 2 — HEALTH & SAFETY WEEK)*—in the other.
 
@@ -8589,17 +8567,16 @@ As the nine of them rolled and walked down the cleared sidewalk to the Park & Ri
 
 Once the driver lowered the hydraulic ramp and Jordan locked his wheels into the forward securement bay, Zoë pulled out her mPhone and updated the household channel:
 
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the group. All 9 of us are aboard the RVT Express at Christiansburg Transit Center. ETA to New River Valley Mall Christiansburg is 10 minutes.</sms>
+> **Zoë:** <sms>[LOGISTICS] Zoë signing on for the group. All 9 of us are aboard the RVT Express at Christiansburg Transit Center. ETA to New River Valley Mall Christiansburg is 10 minutes.</sms>
 
 Ten minutes later, the coach hissed to a stop at the mall perimeter shelter. The nine friends crossed the plowed parking lot together—and the instant the automatic glass entrance doors slid open, they were hit by a tidal wave of late-December holiday chaos.
 
 Upbeat seasonal music blared from ceiling speakers, battling the echoing roar of a thousand overlapping shopper conversations. Garland and strobing multicolored fairy lights blinked from every storefront display, the air was thick with cinnamon-sugar pretzels and department-store cologne, and the main concourse was a dizzying, wall-to-wall sea of last-minute shoppers carrying oversized bags.
 
-It was far too loud for comfortable spoken conversation—and for Jordan, it made trying to hear EchoType in the open corridor nearly impossible. Without missing a beat, the group switched to [Jordan Comms] on their phones as a silent tactical intercom while both Jordan and Aubrie Jean slipped high-attenuation foam earplugs into their ears.
+It was far too loud for comfortable spoken conversation—and for Jordan, it made trying to hear EchoType in the open corridor nearly impossible. Without missing a beat, the group switched to [Jordan Comms] on their phones as a silent tactical intercom while both Jordan and Aubrie Jean slipped high-attenuation foam earplugs into their ears:
 
-<sms>[Jordan Comms — Madison]: OMG look at the line for the mall Santa photo gazebo. It is wrapped all the way past the fountain to the food court!</sms>
-
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] Good observation. Foot-traffic density is approaching peak capacity. Let's head straight to the food court now and secure a perimeter table before the noon lunch rush hits.</sms>
+> **Madison:** <sms>OMG look at the line for the mall Santa photo gazebo. It is wrapped all the way past the fountain to the food court!</sms><br>
+> **Zoë:** <sms>[LOGISTICS] Good observation. Foot-traffic density is approaching peak capacity. Let's head straight to the food court now and secure a perimeter table before the noon lunch rush hits.</sms>
 
 Flanked by Mark and 6'3" Jessica clearing a wide, effortless lane through the bustling crowd, Jordan rolled into the sprawling mall food court and experienced another life milestone: the dizzying, exhilarating freedom of choosing his own lunch from a dozen illuminated counter menus.
 
@@ -8639,17 +8616,17 @@ Even through their foam earplugs, the relentless low-frequency rumble of hundred
 
 Aubrie reached her limit first. Stopping beside a quieter structural pillar between two storefronts, she pulled out her mPhone with a shaking hand and sent an alert to the group channel:
 
-<sms>[Jordan Comms — Aubrie]: [URGENT] I need to get out. It's too much.</sms>
+> **Aubrie:** <sms>[URGENT] I need to get out. It's too much.</sms>
 
 Jordan looked up at her pale face, felt the matching roar of static rising behind his own eyes, and tapped a two-word reply before his fingers could freeze:
 
-<sms>[Jordan Comms — Jordan]: Me too.</sms>
+> **Jordan:** <sms>Me too.</sms>
 
 The response from the other seven was instantaneous.
 
 There were no complaints about cutting the trip short, no second-guessing, and no hesitation. Within three seconds, the group snapped into a tight, moving diamond phalanx around Jordan and Aubrie Jean—Jessica and Mark taking point to part the crowd, Lauren and Madison flanking their sides to block visual and physical jostling, and Hannah and Sarah guarding the rear while Zoë fired off the extraction text:
 
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] Aborting shopping trip due to sensory overload. Rendezvousing with Daniel at the North Entrance curb in 90 seconds.</sms>
+> **Zoë:** <sms>[LOGISTICS] Aborting shopping trip due to sensory overload. Rendezvousing with Daniel at the North Entrance curb in 90 seconds.</sms>
 
 Moving with calm, purposeful speed, the phalanx guided Jordan and Aubrie straight through the double glass doors and out into the crisp, freezing December air.
 
@@ -8773,9 +8750,9 @@ Slowly, with fingers that barely trembled anymore, he reached down to his Precis
 
 **Date:** 2014-12-23 at 08:45 America/New_York
 
-On Tuesday morning, December 23rd, the nine friends set out on a full-day holiday road trip across Southwestern Virginia—Entirely by regional public transit—to visit Madison’s family down in Bluewater and Sarah’s father over in Radford.
+On Tuesday morning, December 23rd, the nine friends set out on a full-day holiday road trip across Southwestern Virginia—entirely by regional public transit—to visit Madison’s family down in Bluewater and Sarah’s father over in Radford.
 
-At eight-forty-five sharp, all nine of them—Jordan, Aubrie Jean, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—boarded the **Bluewater Transit *Maroon Express*** over-the-road highway coach at the Christiansburg Transit Center, its destination sign alternating between *MAROON EXPRESS* and BLUEWATER EXP via CBURG TC while the exterior ADA speaker announced *"Bluewater Transit Maroon Express to Bluewater Transit Center via Christiansburg Transit Center"*. After the operator raised Jordan up to the elevated cabin on the mid-coach hydraulic lift, stowed his folded manual chair in the under-floor luggage bay, and glanced at all nine of their Poly Passes for their free ride, the group settled into the plush high-backed coach seats and watched the snow-blanketed peaks of the Blue Ridge roll past the tinted windows during the comfortable sixty-minute express run south down I-81 and I-77 into Carroll County.
+At eight-forty-five sharp, all nine of them—Jordan, Aubrie Jean, Madison, Zoë, Lauren, Hannah, Mark, Sarah, and Jessica—boarded the Bluewater Transit *Maroon Express* over-the-road highway coach at the Christiansburg Transit Center, its destination sign alternating between *MAROON EXPRESS* and BLUEWATER EXP via CBURG TC while the exterior ADA speaker announced *"Bluewater Transit Maroon Express to Bluewater Transit Center via Christiansburg Transit Center"*. After the operator raised Jordan up to the elevated cabin on the mid-coach hydraulic lift, stowed his folded manual chair in the under-floor luggage bay, and glanced at all nine of their Poly Passes for their free ride, the group settled into the plush high-backed coach seats and watched the snow-blanketed peaks of the Blue Ridge roll past the tinted windows during the comfortable sixty-minute express run south down I-81 and I-77 into Carroll County.
 
 At nine-forty-five, they disembarked at the bustling Bluewater Transit Center—directly across the street from Bluewater High School—and made a seamless five-minute cross-platform transfer onto the local Blue Line city bus. At ten-oh-five on the dot, the low-floor Stalwart hissed to a stop at the corner of Madison’s quiet, tree-lined residential street.
 
@@ -8877,7 +8854,7 @@ Fifteen minutes later, when the crew finished eating and stood up to leave, Anna
 
 Stepping back across the street to the Bluewater Transit Center to catch the twelve-forty-five outbound Maroon Express, Zoë pulled out her phone and logged the next leg of their journey:
 
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the group. Departing Bluewater on the 12:45 PM Maroon Express. We are NOT heading home yet. Destination: Commonwealth Mall to transfer to the Radford Connector. Next stop: Radford to visit Sarah's dad.</sms>
+> **Zoë:** <sms>[LOGISTICS] Zoë signing on for the group. Departing Bluewater on the 12:45 PM Maroon Express. We are NOT heading home yet. Destination: Commonwealth Mall to transfer to the Radford Connector. Next stop: Radford to visit Sarah's dad.</sms>
 
 ### Part 4: An Afternoon in Radford & Dinner at Luigi's Trattoria
 
@@ -8885,11 +8862,11 @@ Stepping back across the street to the Bluewater Transit Center to catch the twe
 
 #### 2:15 PM — An Afternoon in Radford
 
-The outbound **Bluewater Transit *Maroon Express*** glided into Commonwealth Mall in Blacksburg at two-fifteen in the afternoon, right on schedule.
+The outbound Bluewater Transit *Maroon Express* glided into Commonwealth Mall in Blacksburg at two-fifteen in the afternoon, right on schedule.
 
-With the practiced choreography of seasoned regional commuters, the nine friends disembarked along the Commonwealth Mall curb and boarded the waiting thirty-foot **Radford Transit *Radford Connector*** bus.
+With the practiced choreography of seasoned regional commuters, the nine friends disembarked along the Commonwealth Mall curb and boarded the waiting thirty-foot Radford Transit *Radford Connector* bus.
 
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the group. Arrived at Commonwealth Mall. Boarding the Radford Connector now. ETA at McConnell Transit Center is 2:45 PM.</sms>
+> **Zoë:** <sms>[LOGISTICS] Zoë signing on for the group. Arrived at Commonwealth Mall. Boarding the Radford Connector now. ETA at McConnell Transit Center is 2:45 PM.</sms>
 
 Pulling away from Commonwealth Mall, the thirty-foot low-floor bus turned right onto Stanger Street, left onto Prices Fork Road, right onto Peppers Ferry Road, and left onto U.S. Route 11 before crossing the New River Bridge into Radford and turning left onto West Main Street to terminate at the McConnell Transit Center adjacent to the Radford University campus. While the Radford Connector provided local service along its entire route—giving the communities of Prices Fork, Belview, Centerville, and Fairlawn their once-hourly bus service—the bus stops along the rural stretches of Prices Fork Road and Peppers Ferry Road were spaced far enough apart that the thirty-minute run down off the Blacksburg plateau felt as smooth and brisk as an express route. From McConnell Transit Center, a quick ten-minute hop aboard the local Wadsworth Street route brought them to a quiet, tree-lined residential street where Sarah Kristyn Braithwaite had lived with her father since moving to Virginia from Liverpool, New South Wales in Greater Western Sydney during high school.
 
@@ -8971,13 +8948,13 @@ Tonight, however, pre-holiday highway traffic had other plans.
 
 The Radford Connector pulled into the bay five minutes late at five-fifty.
 
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] All 9 aboard the Radford Connector at McConnell. Running 5 minutes behind schedule due to US-11 and Peppers Ferry Rd holiday volume. Heading to Commonwealth Mall.</sms>
+> **Zoë:** <sms>[LOGISTICS] All 9 aboard the Radford Connector at McConnell. Running 5 minutes behind schedule due to US-11 and Peppers Ferry Rd holiday volume. Heading to Commonwealth Mall.</sms>
 
 The thirty-minute climb east from West Main Street across the New River Bridge through Fairlawn, Centerville, Belview, and Prices Fork onto Stanger Street moved at a crawl through stop-and-go holiday brake lights. By the time the bus finally hissed to a halt at Commonwealth Mall, the digital clock read six-thirty—just in time for the nine weary travelers to watch the red taillights of the six-fifteen Maroon Express vanish down the street.
 
 With a collective, good-natured groan, the group huddled together in their heavy winter coats on the heated bench inside the transit pavilion to wait for the next southbound connection to Christiansburg Transit Center: the six-forty-five RVT Roanoke Express, which also arrived five minutes late at six-fifty.
 
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] Boarding the RVT Express at CPI. Updated ETA to Christiansburg Transit Center is 7:25 PM.</sms>
+> **Zoë:** <sms>[LOGISTICS] Boarding the RVT Express at CPI. Updated ETA to Christiansburg Transit Center is 7:25 PM.</sms>
 
 When the coach finally glided into the Christiansburg Transit Center at seven-twenty-five and the nine of them made the short, brisk walk up Geneva Street, the warm golden glow spilling from the windows of the Brooks house was the most welcoming sight on earth.
 
@@ -9449,7 +9426,7 @@ Suddenly, Aubrie’s whispered words in the guest room five hours earlier—*"We
 
 Looking from Aubrie’s tender dark eyes to Madison’s warm blue ones, Jordan reached one hand to the compact mPhone resting on his lap under the blanket and typed a silent, dimmed-screen note just for the two women tucked under his arms:
 
-<sms>When we get back to our quiet dorm room at CPI, I would really like to try—with both of you. With Aubrie first, please.</sms>
+> **Jordan:** <sms>When we get back to our quiet dorm room at CPI, I would really like to try—with both of you. With Aubrie first, please.</sms>
 
 Reading the screen together, Aubrie Jean and Madison whispered in soft, synchronous unison: *"Of course."*
 
@@ -9489,15 +9466,15 @@ Daniel Brooks, pouring a cup of Yorkshire tea at the counter, smiled with genuin
 
 Madison pulled out her mPhone, checked the Bluewater Transit holiday timetable, and fired off a text to her mother:
 
-<sms>[Madison -> Diane Scott]: Hey Mom! We're bringing the Bluewater 7 down on the Maroon Express! Can you, Dad, Bob & Em meet us at the Bluewater Town Plaza for lunch around 11:15?</sms>
+> **Madison:** <sms>Hey Mom! We're bringing the Bluewater 7 down on the Maroon Express! Can you, Dad, Bob & Em meet us at the Bluewater Town Plaza for lunch around 11:15?</sms>
 
 Thirty seconds later, her phone chimed back:
 
-<sms>[Diane Scott -> Madison]: Of course, honey! We would love that! See you at the main entrance at 11:15!</sms>
+> **Diane Scott:** <sms>Of course, honey! We would love that! See you at the main entrance at 11:15!</sms>
 
-Pulling on his heavy winter parka—zipping it up to his chin by himself in under twenty seconds now—and slipping his hands into the brand-new fleece-lined leather wheelchair push-gloves from his Christmas stocking, Jordan rolled out the front door alongside Aubrie Jean, Madison, Zoë, Lauren, Caleb, and Owen for the brisk walk down to the Christiansburg Transit Center.
+Pulling on his heavy winter parka—zipping it up to his chin by himself in under twenty seconds now—and slipping his hands into the brand-new fleece-lined leather wheelchair push-gloves from his Christmas stocking, Jordan rolled out the front door alongside Aubrie Jean, Madison, Zoë, Lauren, Caleb, and Owen for the brisk walk down to the Christiansburg Transit Center:
 
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the Bluewater 7. At Christiansburg Transit Center, waiting for the 9:45 AM Maroon Express.</sms>
+> **Zoë:** <sms>[LOGISTICS] Zoë signing on for the Bluewater 7. At Christiansburg Transit Center, waiting for the 9:45 AM Maroon Express.</sms>
 
 Right on the dot at nine-forty-five, the gleaming burgundy-and-silver motorcoach pulled into the bay. While the five CPI freshmen flashed their university Poly Passes, Caleb and Owen purchased two Regional Express Day Passes at the farebox, and the seven of them settled in for the scenic hour-long ride down through the mountains to Bluewater, arriving at the downtown Bluewater Transit Center at ten-forty-five to transfer onto the local Orange Line bus toward the plaza.
 
@@ -9507,7 +9484,7 @@ Right on the dot at nine-forty-five, the gleaming burgundy-and-silver motorcoach
 
 #### 11:15 AM — Lunch at The Corner Bistro
 
-At eleven-fifteen sharp, the **Bluewater Transit *Orange Line*** bus hissed to a stop directly in front of the main glass atrium of the Bluewater Town Plaza.
+At eleven-fifteen sharp, the Bluewater Transit *Orange Line* bus hissed to a stop directly in front of the main glass atrium of the Bluewater Town Plaza.
 
 Waiting right beside the curb under the covered portico, just as promised, were David and Diane Scott, fourteen-year-old Bob, and fifteen-year-old Emily.
 
@@ -9573,15 +9550,15 @@ While Zoë, Lauren, Caleb, and Owen browsed a nearby bookstore using their holid
 
 Emily looked at her older cousin, and a genuine, unburdened smile—one that reached all the way to the corners of her eyes—lit up her face. Reaching into her crossbody bag, Emily pulled out the shared mPad tablet that she and Bob used for text communication and typed a message across the screen, turning it toward Madison:
 
-<sms>So much better, Madi. I'm so much happier here. And watching you and Jordan and your friends... I think I want to go to CPI when I turn 18.</sms>
+> **Emily:** <sms>So much better, Madi. I'm so much happier here. And watching you and Jordan and your friends... I think I want to go to CPI when I turn 18.</sms>
 
 Beside her, Bob let out a bright, affirmative chirp and tapped the corner of the tablet screen with his index finger: *Me too.*
 
 Madison’s eyes misted over with pride. She pulled both Emily and Bob into a tight hug right in the middle of the plaza walkway. "And when you two get to CPI, we are going to show you every inch of campus."
 
-At one-ten in the afternoon, after warm hugs and goodbyes with David, Diane, Bob, and Emily outside the plaza doors, the seven travelers boarded the one-fifteen Orange Line bus back toward downtown Bluewater, arriving at the Bluewater Transit Center with plenty of time to transfer to the waiting two-forty-five Maroon Express coach northbound.
+At one-ten in the afternoon, after warm hugs and goodbyes with David, Diane, Bob, and Emily outside the plaza doors, the seven travelers boarded the one-fifteen Orange Line bus back toward downtown Bluewater, arriving at the Bluewater Transit Center with plenty of time to transfer to the waiting two-forty-five Maroon Express coach northbound:
 
-<sms>[Jordan Comms — Zoë]: [LOGISTICS] Zoë signing on for the Bluewater 7. All 7 of us are aboard the 2:45 PM Maroon Express departing Bluewater. Destination: Christiansburg Transit Center. ETA 3:45 PM.</sms>
+> **Zoë:** <sms>[LOGISTICS] Zoë signing on for the Bluewater 7. All 7 of us are aboard the 2:45 PM Maroon Express departing Bluewater. Destination: Christiansburg Transit Center. ETA 3:45 PM.</sms>
 
 An hour later, as the motorcoach pulled into Christiansburg Transit Center at three-forty-five and the seven of them walked the final, familiar block up Geneva Street toward the warm windows of the Brooks home, Jordan rolled effortlessly inside his new leather push-gloves, cushioned comfortably atop the memory-foam seat Aubrie had bought him.
 
@@ -10210,12 +10187,7 @@ Sitting at the accessible card table with his Pinnacle Vanguard Pro laptop open 
 
 True to his word at the Roanoke (ROA) security checkpoint that morning, Henry Walsh had made his connection through Washington Dulles (IAD), landed on time at New York (JFK) at twelve-thirty, taken a yellow cab straight across the Belt Parkway in Brooklyn to the Brooklyn Cruise Terminal in Red Hook, and stepped aboard the flagship of the Caledonia Line.
 
-Now, right before the ship slipped beneath the Verrazzano-Narrows Bridge and out of domestic cellular range into the open North Atlantic, Henry had uploaded a four-photo gallery to [Jordan Comms]:
-
-1. Photo 1: Looking straight up from the teak Boat Deck of *RMS Queen Margaret 2* at the massive crimson-and-black funnel towering against the winter twilight, with the golden Silver Star pennant fluttering from the masthead above.
-2. Photo 2: Two white-gloved Silver Star Service stewards in crisp navy-and-gold dress uniforms welcoming passengers into the Grand Lobby as a string quartet played on the mezzanine.
-3. Photo 3: The glowing circular entrance to the onboard Planetarium Dome on Deck 2, with a placard beside the doors reading: *Tonight at 20:15 — Royal Astronomical Society Lecture: Navigating by the Winter Stars Across the North Atlantic*.
-4. Photo 4: A breathtaking wide shot from the portside rail of the *RMS Queen Margaret 2* as her deep horn thundered across New York Harbor, showing the copper torch of the Statue of Liberty glowing amber against the purple dusk of Manhattan behind the ship’s foaming wake.
+Now, right before the ship slipped beneath the Verrazzano-Narrows Bridge and out of domestic cellular range into the open North Atlantic, Henry had uploaded a four-photo gallery to [Jordan Comms]. The first shot looked straight up from the teak Boat Deck of *RMS Queen Margaret 2* at the massive crimson-and-black funnel towering against the winter twilight, with the golden Silver Star pennant fluttering from the masthead above. The second captured two white-gloved Silver Star Service stewards in crisp navy-and-gold dress uniforms welcoming passengers into the Grand Lobby while a string quartet played on the mezzanine. The third framed the glowing circular entrance to the onboard Planetarium Dome on Deck 2 beside a placard reading *Tonight at 20:15 — Royal Astronomical Society Lecture: Navigating by the Winter Stars Across the North Atlantic*. And the fourth was a breathtaking wide shot from the portside rail of *RMS Queen Margaret 2* as her deep horn thundered across New York Harbor, showing the copper torch of the Statue of Liberty glowing amber against the purple dusk of Manhattan behind the ship’s foaming wake.
 
 Below the photos, Henry’s message read:
 
@@ -10310,7 +10282,7 @@ Jordan nodded firmly, a bright, confident smile spreading across his face as he 
 
 For a second, the basement was completely quiet—every single person in the room struck by how far Jordan had come since August.
 
-Four and a half months ago, the mere thought of navigating a public bus stop had been terrifying to him. Now, he had memorized the Sunday headways of three separate regional transit agencies, calculated the fifteen-minute express time savings between **Bluewater Transit’s *Maroon Express*** and Blue Ridge Transit’s Route 1, and was actively choosing the independence of public transit so he could get back to his dorm and greet his favorite RA.
+Four and a half months ago, the mere thought of navigating a public bus stop had been terrifying to him. Now, he had memorized the Sunday headways of three separate regional transit agencies, calculated the fifteen-minute express time savings between Bluewater Transit’s *Maroon Express* and Blue Ridge Transit’s Route 1, and was actively choosing the independence of public transit so he could get back to his dorm and greet his favorite RA.
 
 Aubrie Jean leaned over and kissed Jordan’s cheek, her eyes shining with pride, while Daniel Brooks let out a warm, booming laugh and clapped a hand onto Jordan’s shoulder.
 
@@ -10354,13 +10326,11 @@ During scheduled service hours, a bus didn't care what his mother thought. It di
 
 And today, Jordan had engineered their Sunday departure time down to the minute.
 
-Because it was a Sunday, Roanoke Valley Transit (RVT) did not operate its Roanoke Express commuter coach line at all. That left two Sunday transit options connecting the Christiansburg Transit Center to Commonwealth Mall at CPI:
-1. Blue Ridge Transit (BRT) Route 1, a low-floor city transit bus that wound through all the local stops along US-11, Pepper Plaza, North Franklin Street, and South Main Street, taking about forty-five minutes to reach Commonwealth Mall.
-2. **Bluewater Transit’s *Maroon Express***, an over-the-road highway coach that operated once hourly on Sundays, took the BUSES ONLY flyover ramp straight onto the U.S. Route 460 Bypass, made just one intermediate stop at New River Valley Mall, and reached Commonwealth Mall in only thirty minutes.
+Because it was a Sunday, Roanoke Valley Transit (RVT) did not operate its Roanoke Express commuter coach line at all. That left two Sunday transit options connecting the Christiansburg Transit Center to Commonwealth Mall at CPI: either Blue Ridge Transit (BRT) Route 1, a low-floor city transit bus that wound through all the local stops along US-11, Pepper Plaza, North Franklin Street, and South Main Street and took about forty-five minutes to reach Commonwealth Mall, or Bluewater Transit’s *Maroon Express*, an over-the-road highway coach that operated once hourly on Sundays, took the BUSES ONLY flyover ramp straight onto the U.S. Route 460 Bypass, made just one intermediate stop at New River Valley Mall, and reached Commonwealth Mall in only thirty minutes.
 
 Unlike a low-floor Blue Ridge Transit city bus—where a front door ramp simply flipped out onto the curb in five seconds—both the Maroon Express and the Roanoke Express were towering over-the-road highway coaches. Getting Jordan on board a high-deck motorcoach was a much more involved mechanical operation involving the mid-coach hydraulic wheelchair lift above the luggage bays. Yet Jordan hadn't hesitated for a second: he wanted the thirty-minute express trip today, because he was eager to get back to CPI, and the very first person he was going looking for the second they reached Bennett Hall was Isabel Dawson.
 
-Right at 1:12 PM, three minutes ahead of its 1:15 PM departure time, the gleaming forty-five-foot maroon-and-silver **Bluewater Transit *Maroon Express*** highway coach glided into the Christiansburg Transit Center, its amber LED destination sign above the panoramic windshield alternating cleanly between two lines (CBURG TC standing for Christiansburg Transit Center, and EXP for Express):
+Right at 1:12 PM, three minutes ahead of its 1:15 PM departure time, the gleaming forty-five-foot maroon-and-silver Bluewater Transit *Maroon Express* highway coach glided into the Christiansburg Transit Center, its amber LED destination sign above the panoramic windshield alternating cleanly between two lines (CBURG TC standing for Christiansburg Transit Center, and EXP for Express):
 
 <led>MAROON EXPRESS</led>
 <led>CPI EXP via CBURG TC</led>
@@ -10383,7 +10353,7 @@ Three weeks at Geneva Street had been heaven—but he was a college student comi
 
 #### 1:45 PM — The Tour Guide of Commonwealth Mall
 
-At one-forty-five in the afternoon—exactly thirty minutes after pulling out of the Christiansburg Transit Center and making its single quick stop at New River Valley Mall—the forty-five-foot **Bluewater Transit *Maroon Express*** highway coach swung off Business 460 onto Commonwealth Mall and glided to a smooth stop along the granite curb beneath the limestone arch of The Keystone Bridge, directly across the street from Kincaid Hall.
+At one-forty-five in the afternoon—exactly thirty minutes after pulling out of the Christiansburg Transit Center and making its single quick stop at New River Valley Mall—the forty-five-foot Bluewater Transit *Maroon Express* highway coach swung off Business 460 onto Commonwealth Mall and glided to a smooth stop along the granite curb beneath the limestone arch of The Keystone Bridge, directly across the street from Kincaid Hall.
 
 Once the operator retrieved Jordan’s manual wheelchair from the under-floor luggage bay and lowered Jordan smoothly down to the sidewalk on the mid-coach hydraulic lift, Jordan didn't wait for the others to form a protective shield around him.
 
@@ -10502,11 +10472,7 @@ Before saying a word, Garrett Reynolds stepped forward, knelt down on one knee r
 
 Jordan shook Garrett’s hand firmly, then rested his fingers on the keys of his Precisionist 5000 on his lap tray and typed out his own briefing—clear, structured, and confident:
 
-<aac>Welcome to Floor 2, Garrett! Here are the main things to know about me and Suite 214/216:
-1. I am non-speaking and autistic, and I have cerebral palsy, so I cannot put any weight on my legs. I communicate by typing in NeoEdit on my laptop, or using EchoType when I need spoken projection.
-2. I wear prescription hearing aids and glasses. In an emergency or fire alarm when the elevators lock out, our suite evacuates straight out the second-floor ground-level doors onto Washington Street, and Aubrie Jean keeps noise-reducing earmuffs in our room for sensory overload.
-3. Suite 214/216 is a permanent, university-approved co-ed accommodation suite—I live in Room 214 with Aubrie Jean and Madison, and Zoë, Lauren, and Hannah live in Room 216, while Mark lives upstairs in Room 312 and Sarah and Jessica live up in Room 505.
-4. Finally, there are active CPI Police trespass bars against two individuals—my estranged mother, Aubrie Sinclair, and a former student named Tom Lawson. Neither of them is ever allowed inside Bennett Hall.</aac>
+<aac>Welcome to Floor 2, Garrett! Here are the main things to know about me and Suite 214/216. First, I am non-speaking and autistic, and I have cerebral palsy, so I cannot put any weight on my legs; I communicate by typing in NeoEdit on my laptop, or using EchoType when I need spoken projection. Second, I wear prescription hearing aids and glasses, and in an emergency or fire alarm when the elevators lock out, our suite evacuates straight out the second-floor ground-level doors onto Washington Street, while Aubrie Jean keeps noise-reducing earmuffs in our room for sensory overload. Third, Suite 214/216 is a permanent, university-approved co-ed accommodation suite—I live in Room 214 with Aubrie Jean and Madison, and Zoë, Lauren, and Hannah live in Room 216, while Mark lives upstairs in Room 312 and Sarah and Jessica live up in Room 505. Finally, there are active CPI Police trespass bars against two individuals—my estranged mother, Aubrie Sinclair, and a former student named Tom Lawson—and neither of them is ever allowed inside Bennett Hall.</aac>
 
 Garrett read every single line directly from Jordan’s screen, nodding thoughtfully as he absorbed the information.
 
@@ -10674,7 +10640,7 @@ Eighteen years of being locked in a bedroom in Virginia Beach, eighteen years of
 
 And to Jordan Fuller, Commonwealth Polytechnic Institute—and this cinderblock dorm suite in Bennett Hall—wasn't just a college.
 
-**It truly was *This Side of Heaven*.**
+It truly was *This Side of Heaven*.
 
 Inside Jordan’s chest, the sheer, uncontainable magnitude of that happiness surged past every circuit he had—spiking his internal emotional register straight to 100 in a severe meltdown of pure, overwhelming joy.
 
@@ -10936,10 +10902,7 @@ Finally, Daniel opened Folder Three—and every eye around the dining room table
 
 "And Item Three," Daniel said warmly, sliding the glossy engineering spec sheets from Blue Ridge Complex Rehab & Mobility across the oak table. "Our Christmas Day promise. That heavy, ill-fitting manual hospital wheelchair your mother sent you to college with—the one she never even bothered to have a seating clinic fit to your body—is going in the rearview mirror for good. We are ordering *two* custom-fitted wheelchairs for you, and I am buying both of them 100% out-of-pocket in cash so we don't wait six months on insurance prior-authorization bureaucracy: first, a custom fourteen-pound ultralight folding titanium manual chair (Vanguard AeroLite-Ti) properly fitted to your posture for tight indoor spaces, bathroom transfers, and standard car trunks; and second, a heavy-duty motorized power chair built to conquer every hill at CPI and every cobblestone street, transit ramp, and Outback trail on your World Trek. And you are picking out and configuring every detail yourself."
 
-Daniel pointed to the three specifications:
-- Model 1: A lightweight folding travel scooter with small 8-inch casters and a 10-mile battery range.
-- Model 2: A standard indoor/sidewalk rear-wheel-drive power chair in clinical hospital blue.
-- Model 3: The Vanguard Titan-X350—a 350-pound, heavy-duty, all-terrain mid-wheel-drive motorized power wheelchair finished in stealth matte black, engineered with dual high-torque brushless hill-climbing motors rated for 15-degree campus inclines, independent six-wheel coil-over suspension, gyroscopic downhill braking stability, airline-certified sealed AGM dual batteries (22-mile single-charge range), a custom-contoured orthopedic seating system, and a programmable right-hand proportional joystick with a swing-away mount for his laptop and AAC terminal.
+Daniel pointed to the three specifications laid out across the table. Model 1 was a lightweight folding travel scooter with small eight-inch casters and a ten-mile battery range, while Model 2 was a standard indoor-and-sidewalk rear-wheel-drive power chair in clinical hospital blue. Then came Model 3: the Vanguard Titan-X350—a 350-pound, heavy-duty, all-terrain mid-wheel-drive motorized power wheelchair finished in stealth matte black, engineered with dual high-torque brushless hill-climbing motors rated for fifteen-degree campus inclines, independent six-wheel coil-over suspension, gyroscopic downhill braking stability, airline-certified sealed AGM dual batteries with a twenty-two-mile single-charge range, a custom-contoured orthopedic seating system, and a programmable right-hand proportional joystick with a swing-away mount for his laptop and AAC terminal.
 
 Jordan stared down at the Vanguard Titan-X350 specification sheet, his heart thumping against his ribs. Three hundred and fifty pounds of matte-black independence. No more waiting at the bottom of a steep campus walk hoping his shoulders wouldn't cramp. No more asking Mark, Lauren, or Aubrie Jean to strain their backs pushing him up the hill to Kepler Hall or up Geneva Street.
 
@@ -10982,9 +10945,7 @@ Sarah let out a quiet, breathless laugh from her chair, her fingers lacing with 
 
 "And Group Two," Daniel continued, tapping the right-hand column, "the Brooks home contingent. Myself and Laura. Megan, who has already cleared her remote engineering sprints for the summer so she doesn't miss a mile. Chloe and her husband Ethan. And the four boys—Caleb, Owen, Lucas, and Jacob."
 
-"Nine plus nine," Zoë confirmed, her keys clacking rapidly as she locked the eighteen rows into her master logistics matrix. "Eighteen travelers total—split cleanly into two citizenship tracks for Saturday's border-documentation blitz:
-- Track 1 (16 U.S. Citizens): Jordan, Aubrie Jean, Madison, Lauren, Hannah, Mark, and the ten members of the Brooks household. All sixteen U.S. citizens will apply for ten-year United States Passport Books and Passport Cards—or five-year minor books for the younger boys—plus joint U.S. Customs and Border Protection and Canada Border Services Agency NEXUS Trusted Traveler cards for our Canadian border crossings and Global Entry / TSA PreCheck privileges.
-- Track 2 (2 Australian Nationals): Sarah and Jessica. Because the NEXUS program is strictly restricted by treaty to citizens and permanent residents of the United States and Canada, Sarah and Jessica are ineligible for NEXUS cards or U.S. passports. Instead, both of them already hold valid ten-year biometric Australian ePassports (Series P). This week, they will visit CPI's International Center to obtain fresh Form I-20 travel endorsement signatures on their F-1 student visas for U.S. re-entry, plus electronic Canadian eTA authorizations for our Canadian legs."
+"Nine plus nine," Zoë confirmed, her keys clacking rapidly as she locked the eighteen rows into her master logistics matrix. "Eighteen travelers total, split cleanly into two citizenship tracks for Saturday's border-documentation blitz. Under Track 1, all sixteen U.S. citizens—Jordan, Aubrie Jean, Madison, Lauren, Hannah, Mark, and the ten members of the Brooks household—will apply for ten-year United States Passport Books and Passport Cards, or five-year minor books for the younger boys, plus joint U.S. Customs and Border Protection and Canada Border Services Agency NEXUS Trusted Traveler cards for our Canadian border crossings and Global Entry and TSA PreCheck privileges. Under Track 2, because the NEXUS program is strictly restricted by treaty to citizens and permanent residents of the United States and Canada, our two Australian nationals—Sarah and Jessica—are ineligible for NEXUS cards or U.S. passports; instead, both of them already hold valid ten-year biometric Australian ePassports in Series P, and this week they will visit CPI's International Center to obtain fresh Form I-20 travel endorsement signatures on their F-1 student visas for U.S. re-entry, plus electronic Canadian eTA authorizations for our Canadian legs."
 
 "Already booked our appointment with the International Center advisor for Thursday afternoon!" Sarah beamed, holding up her navy-blue Australian passport with the gold Commonwealth Coat of Arms on the cover.
 
@@ -11155,7 +11116,7 @@ For the first time in his life, the future wasn't a storm cloud waiting to break
 
 On Sunday morning in the warm walk-out basement of the Brooks home in Christiansburg, after Jordan had fought off a brief 99.8°F low-grade winter fever from his catch-up immunization schedule with a steaming bowl of Laura's homemade chicken noodle soup and dry ginger ale, Mark walked over to the basement media shelf and pulled down a massive, gold-foil-stamped Blu-ray box set.
 
-"No way," Mark breathed, holding the case up like a sacred relic. **"*The Silver Gauntlet of Aethel: 25th Anniversary Definitive Aethelian Tome Edition*."**
+"No way," Mark breathed, holding the case up like a sacred relic. "*The Silver Gauntlet of Aethel: 25th Anniversary Definitive Aethelian Tome Edition*."
 
 "Oh, I love that movie!" Hannah exclaimed, clapping her hands together. "It is one of my all-time favorites! That *'A Sister's Love'* opening theme song by Firelight is pure 1980s cheesy fantasy-adventure bliss!"
 
@@ -11167,11 +11128,7 @@ Instantly, the floor-standing speakers filled the basement with the soaring, ana
 
 For eighteen years in Virginia Beach, Jordan's mother had strictly controlled everything he was allowed to hear or watch, dismissing 1980s rock and fantasy cinema as "loud, degenerate noise." Sitting in the safety of the Brooks basement as the opening title card—*Book I: The Sundering of Sunstead*—glowed across the screen and Firelight's chorus soared through his chest, Jordan sat completely transfixed.
 
-All morning and afternoon, with intermissions only for Daniel and Laura's hot lunch trays and Laura's famous baked ziti at dinner (when Hannah checked the digital thermometer and cheered that Jordan's temperature had dropped from 99.8°F all the way down to a normal 98.6°F), the nine of them journeyed through the *Leviathan Cut*:
-
-* They watched Kaelan and Kaela's upbringing in the cramped shepherd's hut of Sunstead and Kaelan's quest through the Whispering Woods to the motivational synth-rock pulse of *"One Step at a Time (The Gauntlet's Path)"*.
-* In *Book II: The Shadow's Heart*, they marveled at the scenes the two-hour 1987 theatrical cut had foolishly chopped out—including Kaela's psychological rebellion inside the Shadowspire and Lord Malakor's full theatrical rock-opera villain number, *"The Tyrant's Throne"*.
-* And when *Book III: The Dawn of the Twins* reached its emotional climax—where Kaelan defeated Malakor not with brute force, but with selfless love, and shared a deeply earned, tearful hug with his twin sister Kaela as the sweeping reprise of *"A Sister's Love"* swelled across the room—Hannah leaned over with misty eyes and wrapped Jordan in a fierce, tight sisterly embrace while Mark beamed with pride from his chair.
+All morning and afternoon, with intermissions only for Daniel and Laura's hot lunch trays and Laura's famous baked ziti at dinner (when Hannah checked the digital thermometer and cheered that Jordan's temperature had dropped from 99.8°F all the way down to a normal 98.6°F), the nine of them journeyed through the *Leviathan Cut*. First, they watched Kaelan and Kaela's upbringing in the cramped shepherd's hut of Sunstead and Kaelan's quest through the Whispering Woods to the motivational synth-rock pulse of *"One Step at a Time (The Gauntlet's Path)."* In *Book II: The Shadow's Heart*, they marveled at the scenes the two-hour 1987 theatrical cut had foolishly chopped out—including Kaela's psychological rebellion inside the Shadowspire and Lord Malakor's full theatrical rock-opera villain number, *"The Tyrant's Throne."* And when *Book III: The Dawn of the Twins* reached its emotional climax—where Kaelan defeated Malakor not with brute force, but with selfless love, and shared a deeply earned, tearful hug with his twin sister Kaela as the sweeping reprise of *"A Sister's Love"* swelled across the room—Hannah leaned over with misty eyes and wrapped Jordan in a fierce, tight sisterly embrace while Mark beamed with pride from his chair.
 
 Jordan tapped his NeoEdit screen on his lap so the warm synthesized voice spoke into the cozy room:
 
@@ -11199,12 +11156,7 @@ Sitting between Aubrie Jean and Madison on the sectional sofa, Jordan felt the b
 
 For eighteen years in Virginia Beach, his mother had locked popular culture out of the house, keeping his world quiet, cold, and rigid. Now, the Brooks basement turned into a neon explosion in the night—no heavy dread, no suffocating cage, just bright major chords, fast tempos, and unabashed 1980s joy.
 
-Track after track on The Brooks Mix introduced Jordan to an entire musical universe he had never been allowed to hear:
-
-* There was a synth-pop anthem about a girl in a diamond dress, followed immediately by a driving stadium-rocker about a runaway express with guitar solos soaring to the rafters and vocals that climbed impossibly high.
-* By the door at the foot of the stairs, Daniel was unabashedly playing air guitar with his eyes closed while Laura laughed and clapped along on the beat.
-* Out on the carpet in front of the coffee table, Zoë and Madison pulled Lauren, Sarah, Jessica, and Hannah up off the cushions to dance across the floor.
-* And on the sofa beside Aubrie Jean, Jordan found himself tapping his foot against his footrest and nodding his head in time with the gated drums—falling head-over-heels in love with the genre and the music of the 1980s.
+Track after track on The Brooks Mix introduced Jordan to an entire musical universe he had never been allowed to hear. First came a synth-pop anthem about a girl in a diamond dress, followed immediately by a driving stadium-rocker about a runaway express with guitar solos soaring to the rafters and vocals that climbed impossibly high. By the door at the foot of the stairs, Daniel was unabashedly playing air guitar with his eyes closed while Laura laughed and clapped along on the beat. Out on the carpet in front of the coffee table, Zoë and Madison pulled Lauren, Sarah, Jessica, and Hannah up off the cushions to dance across the floor, and on the sofa beside Aubrie Jean, Jordan found himself tapping his foot against his footrest and nodding his head in time with the gated drums—falling head-over-heels in love with the genre and the music of the 1980s.
 
 When Track Four kicked in with a driving bass sequencer and a steady drum-machine pulse, Jordan looked at the digital timer on the stereo deck and typed out a laughing note on his mPad:
 
@@ -11389,12 +11341,9 @@ As Track One glided seamlessly into Track Two—["Electric Color (Cosmic Tidal L
 > *It's an electric-colored feeling*<br>
 > *Suspended in the velvet with you!"*
 
-Together, Jordan and Aubrie followed the liner notes through every track on the album:
-- On Track Three, ["Plastic Sky (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-03-plastic-sky), the painted studio ceiling shattered into open space (*"Now we're breaking through the plastic sky! / Drifting out where the real stars shine / Leaving their artificial world behind!"*).
-- On Track Five, ["My Anchor Holds (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-05-my-anchor-holds)—the gravitational thesis of the entire record—Cassidy sang directly about astrophysical tidal locking: *"The telemetry is locked tonight / Half in the shadow, half in the light / When the universe is spinning out of my control / You're the one true gravity that I can hold! / Through the cosmic static and the solar rain / You're the quiet frequency that keeps me sane!"*
-- On Track Eight, ["Atmosphere (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-08-atmosphere), Jordan and Aubrie grinned as they read how an Apex executive in 1992 had tried to twist Cassidy and Ryan’s literal spacecraft atmospheric re-entry song (*"The fragile hull begins to shake... Here comes the friction, feel the fire! / A halo of gold, a crimson glow"*) into cheap tabloid innuendo—and how the siblings had waited nineteen years to finally record the definitive, shimmering 1980s-style master that honored the true physics of coming home through the upper atmosphere.
-- On Track Nine, ["No Hidden Gravity (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-09-no-hidden-gravity), Ryan and Cassidy sang the exact creed of a Safe Person: *"You don't have to perform, you don't have to pretend / I'm your safe person, your family, your friend! ... The safest place in the cosmos is right next to you!"*
-- And when Track Eleven, ["Echoes in the Wire (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-11-echoes-in-the-wire), filled the quiet dorm room—telling the story of Ryan holding Cassidy in a deep-pressure hug until the sensory overload of the stage disappeared (*"All the terrestrial static faded out / Leaving nothing of the doubt... We traded time for something real / A tidal lock that you can feel"*)—Aubrie Jean reached over and wrapped her arms gently around Jordan’s shoulders, resting her cheek against his temple just the way she had held him in Kincaid Commons and on the Brooks family sofa.
+Together, Jordan and Aubrie followed the liner notes through every track on the album. On Track Three, ["Plastic Sky (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-03-plastic-sky), the painted studio ceiling shattered into open space (*"Now we're breaking through the plastic sky! / Drifting out where the real stars shine / Leaving their artificial world behind!"*). On Track Five, ["My Anchor Holds (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-05-my-anchor-holds)—the gravitational thesis of the entire record—Cassidy sang directly about astrophysical tidal locking: *"The telemetry is locked tonight / Half in the shadow, half in the light / When the universe is spinning out of my control / You're the one true gravity that I can hold! / Through the cosmic static and the solar rain / You're the quiet frequency that keeps me sane!"*
+
+When Track Eight, ["Atmosphere (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-08-atmosphere), came on, Jordan and Aubrie grinned as they read how an Apex executive in 1992 had tried to twist Cassidy and Ryan’s literal spacecraft atmospheric re-entry song (*"The fragile hull begins to shake... Here comes the friction, feel the fire! / A halo of gold, a crimson glow"*) into cheap tabloid innuendo—and how the siblings had waited nineteen years to finally record the definitive, shimmering 1980s-style master that honored the true physics of coming home through the upper atmosphere. On Track Nine, ["No Hidden Gravity (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-09-no-hidden-gravity), Ryan and Cassidy sang the exact creed of a Safe Person: *"You don't have to perform, you don't have to pretend / I'm your safe person, your family, your friend! ... The safest place in the cosmos is right next to you!"* And when Track Eleven, ["Echoes in the Wire (Cosmic Tidal Lock Mix)"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-11-echoes-in-the-wire), filled the quiet dorm room—telling the story of Ryan holding Cassidy in a deep-pressure hug until the sensory overload of the stage disappeared (*"All the terrestrial static faded out / Leaving nothing of the doubt... We traded time for something real / A tidal lock that you can feel"*)—Aubrie Jean reached over and wrapped her arms gently around Jordan’s shoulders, resting her cheek against his temple just the way she had held him in Kincaid Commons and on the Brooks family sofa.
 
 Jordan leaned his head into Aubrie’s warmth, looking from the orbital equations in their physics notebook to the glowing tracklist of [*Starfield Calibration*](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration) as Track Twelve (["Midnight Drivers"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-12-midnight-drivers)), Track Thirteen (["The Horizon Line"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-13-the-horizon-line)), and Track Fourteen (["Fade to Dawn"](https://music.raggiesoft.com/the-stardust-engine/2011-starfield-calibration?track=1-14-fade-to-dawn)) carried them toward orbital sunrise.
 
@@ -11515,12 +11464,7 @@ Garrett held the placard up so Jordan could read the bold maroon-and-orange head
 
 Jordan's eyes widened behind his glasses as he scanned the bullet points underneath.
 
-Every single identifying detail had been scrupulously anonymized to comply with federal FERPA privacy rules—referring to their suite simply as "Pilot Unit Alpha (9 Residents: 2 Wheelchair/Support-Anchored Suites Linked via Shared Accessible Bath)"—yet the data on the board was 100% their life:
-
-* Zero disciplinary or noise infractions across two semesters.
-* Cumulative 3.94 suite-wide Grade Point Average (anchored by Jordan and Aubrie Jean's twin 4.00 transcripts).
-* 100% inspection pass rate on every health, safety, and fire drill check.
-* A blueprint for CPI's permanent Gender-Neutral & Inclusive Housing Policy, proposing that starting in Fall 2015, students across campus be permitted to form mixed-gender, disability-inclusive support suites without needing an emergency dean's variance.
+Every single identifying detail had been scrupulously anonymized to comply with federal FERPA privacy rules—referring to their suite simply as "Pilot Unit Alpha (9 Residents: 2 Wheelchair/Support-Anchored Suites Linked via Shared Accessible Bath)"—yet the data on the board was one hundred percent their life: zero disciplinary or noise infractions across two semesters, a cumulative 3.94 suite-wide Grade Point Average anchored by Jordan and Aubrie Jean's twin 4.00 transcripts, a 100% inspection pass rate on every health, safety, and fire drill check, and a formal blueprint for CPI's permanent Gender-Neutral & Inclusive Housing Policy proposing that starting in Fall 2015, students across campus be permitted to form mixed-gender, disability-inclusive support suites without needing an emergency dean's variance.
 
 "You nine proved that gender-neutral, chosen-family housing doesn't just work on paper—it saves lives and produces the highest academic performance in the building," Isabel said softly, looking straight down at Jordan with her dark eyes shining with quiet pride. "Tomorrow afternoon at two o'clock, Garrett, Kelsey, and I—plus Henry calling in on video from London—are going to stand up in front of housing directors from across Virginia and tell them why every university needs suites like 214/216."
 
@@ -11690,10 +11634,7 @@ Isabel clicked to the next slide, which showed an anonymized diagram of a two-ro
 
 Garrett stepped to the center mic to walk through the operational mechanics.
 
-"As an Industrial and Systems Engineering major who stepped onto Floor 2 this spring when Henry left for London," Garrett said, gesturing to the data charts on Slide 5, "I looked at Pilot Unit Alpha like a systems engineer. How does a nine-person, mixed-gender support network actually function day-to-day inside a 1960s residence hall?
-- Classroom & Campus Redundancy: Every single class on the disabled resident's schedule is paired with at least one suitemate or suite ally acting as an official OEA note-taker and campus transit buddy.
-- Dignified Division of Care: When the resident needs assistance in multi-stall public men's restrooms on campus where his female suitemates cannot enter, the third-floor male ally steps in seamlessly. Inside the suite, every transfer, meal run, and sensory-grounding protocol is shared voluntarily with zero burnout.
-- Emergency & Fire-Drill Evacuation Integration: Because the building is built into a steep campus hillside where the elevators automatically recall and lock out during any fire alarm, the connected suite's buddy system and our Floor 2 Residence Life staff coordinate a zero-step horizontal evacuation straight out the second-floor Washington Street ground-level exit doors—with emergency noise-reducing earmuffs kept on hand inside the suite for sensory-sensitive residents."
+"As an Industrial and Systems Engineering major who stepped onto Floor 2 this spring when Henry left for London," Garrett said, gesturing to the data charts on Slide 5, "I looked at Pilot Unit Alpha like a systems engineer. How does a nine-person, mixed-gender support network actually function day-to-day inside a 1960s residence hall? First, through classroom and campus redundancy: every single class on the disabled resident's schedule is paired with at least one suitemate or suite ally acting as an official OEA note-taker and campus transit buddy. Second, through a dignified division of care: when the resident needs assistance in multi-stall public men's restrooms on campus where his female suitemates cannot enter, the third-floor male ally steps in seamlessly, while inside the suite every transfer, meal run, and sensory-grounding protocol is shared voluntarily with zero burnout. And third, through emergency and fire-drill evacuation integration: because the building is built into a steep campus hillside where the elevators automatically recall and lock out during any fire alarm, the connected suite's buddy system and our Floor 2 Residence Life staff coordinate a zero-step horizontal evacuation straight out the second-floor Washington Street ground-level exit doors, with emergency noise-reducing earmuffs kept on hand inside the suite for sensory-sensitive residents."
 
 "And for the administrators in the room who are wondering what happens to grades, conduct, and building safety when you let freshmen live in a co-ed support suite," Kelsey said with a dry, knowing smile as she clicked to Slide 6—*PILOT UNIT ALPHA: TWO-SEMESTER EMPIRICAL OUTCOMES*—let's look at the numbers:
 
@@ -11718,9 +11659,7 @@ She paused for a half-breath, her fingers resting lightly on the edge of the pod
 
 For a full second after Isabel finished, the room was completely still—and then all one hundred and forty people in Breakout Room 204 erupted into sustained, thunderous applause.
 
-When Kelsey opened the floor for Q&A, hands shot up across every row:
-- When an Associate Dean from Tidewater asked how CPI screens against coercion or unbalanced relationships in a mixed-gender suite, Kelsey walked them through the dual-signature Central Housing + OEA intake protocol (Form HRL-COED-PERM), private individual check-ins, and the no-fault confidential opt-out guarantee.
-- When a Residence Director from Piedmont State asked how student RAs handle overnight guest boundaries and privacy in a connected suite, Henry (from London) and Garrett explained how clear door-card communication and mutual respect actually made Pilot Unit Alpha the easiest suite on the floor to supervise.
+When Kelsey opened the floor for Q&A, hands shot up across every row. When an Associate Dean from Tidewater asked how CPI screens against coercion or unbalanced relationships in a mixed-gender suite, Kelsey walked them through the dual-signature Central Housing and OEA intake protocol on Form HRL-COED-PERM, private individual check-ins, and the no-fault confidential opt-out guarantee. Moments later, when a Residence Director from Piedmont State asked how student RAs handle overnight guest boundaries and privacy in a connected suite, Henry—speaking from London—and Garrett explained how clear door-card communication and mutual respect actually made Pilot Unit Alpha the easiest suite on the floor to supervise.
 
 By the time the session officially adjourned at three o'clock, twelve different Virginia universities were lined up at the front table asking Kelsey for thumb-drive copies of CPI's policy template and waiver forms.
 
@@ -12246,26 +12185,12 @@ Instead, he tapped two keys on his Pinnacle Vanguard Pro:
 
 "Aye-aye, Captain," Mark grinned, unzipping the dedicated weather-gear saddlebag mounted behind the headrest of the *S.S. Freedom* while Aubrie Jean, Madison, and Zoë stepped into position with the effortless synchronization of a pit crew.
 
-Because a Group 3 complex rehab power wheelchair relies on high-amperage brushless motors, electromagnetic braking, and sensitive Hall-effect electronics, driving safely through a mountain rainstorm required protecting three specific systems before crossing the threshold:
+Because a Group 3 complex rehab power wheelchair relies on high-amperage brushless motors, electromagnetic braking, and sensitive Hall-effect electronics, driving safely through a mountain rainstorm required protecting three specific systems before crossing the threshold.
 
-##### 1. The R-Net Joystick Rain Gauntlet
-While the undercarriage, sealed AGM battery boxes, and dual four-pole center-drive motors of the *Vanguard Titan-X350* were sealed to IPX4 splash-resistant tolerances, the proportional R-Net color LCD joystick module on Jordan's right armrest was the neural heart of the chair. If rainwater ran down the stainless-steel joystick shaft past the rubber gaiter boot or seeped behind the mode buttons, moisture could short the circuit board and trigger an emergency controller lockup.
+While the undercarriage, sealed AGM battery boxes, and dual four-pole center-drive motors of the *Vanguard Titan-X350* were sealed to IPX4 splash-resistant tolerances, the proportional R-Net color LCD joystick module on Jordan's right armrest was the neural heart of the chair. If rainwater ran down the stainless-steel joystick shaft past the rubber gaiter boot or seeped behind the mode buttons, moisture could short the circuit board and trigger an emergency controller lockup. From the rear saddlebag, Mark pulled out the custom Joystick Rain Gauntlet that Marcus Vance at Blue Ridge Complex Rehab had delivered with the chair: a domed, heavy-gauge medical silicone and crystal-clear polycarbonate weather hood with a watertight neoprene wrist cuff. Sliding the gauntlet over the right armrest module and snapping the waterproof gasket collar snugly behind the mounting bracket, Mark checked the seal as Jordan slid his right hand through the dry neoprene cuff. Through the crystal-clear top window, the glowing R-Net color LCD screen was 100% visible, and Jordan's fingers rested completely dry over the soft-touch joystick ball inside the sheltered dome.
 
-From the rear saddlebag, Mark pulled out the custom Joystick Rain Gauntlet that Marcus Vance at Blue Ridge Complex Rehab had delivered with the chair: a domed, heavy-gauge medical silicone and crystal-clear polycarbonate weather hood with a watertight neoprene wrist cuff.
+Next, Zoë placed Jordan's digital behind-the-ear hearing aids into their desiccant hard case inside his dry backpack, snapped the waterproof polycarbonate storm shell over his Pinnacle Vanguard Pro, and swung the articulating mounting arm flat against his lap so it would sit completely sheltered underneath his outer shell. Then Aubrie Jean and Madison unfolded Jordan's charcoal-and-maroon Contoured Wheelchair Rain Cape, a three-layer seated mobility shell engineered from the ground up for a power-chair user rather than the standing person's raincoat that had turned his lap into a freezing catch-basin in September. Its full-length weighted front apron draped smoothly from Jordan's chin all the way over his knees, shins, and the front lip of the *S.S. Freedom*'s aluminum footplate, held taut by an elastic under-footplate stirrup so every drop of rainwater shed straight onto the pavement ahead of the front casters without a single crease where water could pool. In the back, a high-cut tail and sealed armrest pass-throughs sealed cleanly over the top of the backrest frame—leaving the breathable charcoal ballistic-mesh upholstery and Jordan's fluid-cell memory cushion completely bone-dry inside the cockpit while keeping fabric clear of the six suspension wheels—while the right sleeve cuff cinched neatly over the collar of the clear Joystick Rain Gauntlet to form a continuous waterproof seal from Jordan's hood down to his joystick fingertips.
 
-Sliding the gauntlet over the right armrest module and snapping the waterproof gasket collar snugly behind the mounting bracket, Mark checked the seal as Jordan slid his right hand through the dry neoprene cuff. Through the crystal-clear top window, the glowing R-Net color LCD screen was 100% visible, and Jordan's fingers rested completely dry over the soft-touch joystick ball inside the sheltered dome.
-
-##### 2. Securing the Voice & The Contoured Wheelchair Rain Cape
-Next, Zoë placedJordan's digital behind-the-ear hearing aids into their desiccant hard case inside his dry backpack, snapped the waterproof polycarbonate storm shell over his Pinnacle Vanguard Pro, and swung the articulating mounting arm flat against his lap so it would sit completely sheltered underneath his outer shell.
-
-Then Aubrie Jean and Madison unfolded Jordan's charcoal-and-maroon Contoured Wheelchair Rain Cape (Gore-Tex 3-Layer Seated Mobility Shell).
-
-Unlike the standing person's raincoat that had turned his lap into a freezing catch-basin in September, this garment had been engineered from the ground up for a seated power-chair user:
-* Full-Length Weighted Front Apron: The seamless front panel draped smoothly from Jordan's chin all the way over his knees, shins, and the front lip of the *S.S. Freedom*'s aluminum footplate, held taut by an elastic under-footplate stirrup so every drop of rainwater shed straight onto the pavement ahead of the front casters without a single crease where water could pool.
-* High-Cut Back & Sealed Armrest Pass-Throughs: In the back, the cape was tailored short to seal cleanly over the top of the backrest frame—leaving the breathable charcoal ballistic-mesh upholstery and Jordan's fluid-cell memory cushion 100% bone-dry inside the cockpit while keeping fabric completely clear of the six suspension wheels.
-* Over-the-Gauntlet Sleeve Seal: The right sleeve cuff cinched neatly over the collar of the clear Joystick Rain Gauntlet, forming a continuous waterproof seal from Jordan's hood down to his joystick fingertips.
-
-##### 3. Profile 2: Wet-Weather Traction & Amber-White Path-Lights
 Inside the dry silicone gauntlet, Jordan tapped the mode button on his R-Net controller twice, stepping the drive computer down from Profile 3 (Sidewalk Cruise) to Profile 2 (Wet-Weather / Low-Acceleration Torque).
 
 On wet concrete, slick painted crosswalk stripes, and rain-polished Ironstone flagstones, sudden bursts of torque or abrupt electromagnetic braking can cause power-chair drive tires to break traction. In Profile 2, the controller automatically softened the initial acceleration ramp by forty percent and stretched out the regenerative deceleration curve so that releasing the joystick brought the three-hundred-and-fifty-pound chassis to a velvet-smooth, non-skid stop even on a twelve-degree wet grade.
@@ -12320,10 +12245,7 @@ Amber and white fender LEDs glowing brightly through the mist, Jordan drove stra
 
 At the Washington Street SW entrance, Sarah tapped her Poly Pass against the exterior reader, pressed the automatic door actuator, and held the vestibule open as Jordan glided smoothly across the threshold into the warm, dry second-floor corridor of Bennett Hall.
 
-Outside the door of Room 214, the nine of them executed the final step of their wet-weather drill in ninety seconds flat:
-1. Mark and Lauren grabbed the two dedicated dark-grey microfiber wheel towels hanging inside the suite closet and wiped down the *S.S. Freedom*'s six rubber tires, caster forks, and lower frame rails so no mud or moisture sat on the wheel bearings.
-2. Aubrie Jean and Madison unsnapped the wet Wheelchair Rain Cape from the footplate and backrest—shaking the water beads off into the tiled shower room—and removed the Silicone Joystick Gauntlet from the right armrest.
-3. Zoë unfolded the dry Pinnacle Vanguard Pro mounting arm back into position and handed Jordan his behind-the-ear hearing aids.
+Outside the door of Room 214, the nine of them executed the final step of their wet-weather drill in ninety seconds flat. Mark and Lauren grabbed the two dedicated dark-grey microfiber wheel towels hanging inside the suite closet and wiped down the *S.S. Freedom*'s six rubber tires, caster forks, and lower frame rails so no mud or moisture sat on the wheel bearings. At the same time, Aubrie Jean and Madison unsnapped the wet Wheelchair Rain Cape from the footplate and backrest—shaking the water beads off into the tiled shower room—and removed the Silicone Joystick Gauntlet from the right armrest, while Zoë unfolded the dry Pinnacle Vanguard Pro mounting arm back into position and handed Jordan his behind-the-ear hearing aids.
 
 Rolling into the cozy warmth of Room 214 while the April thunderstorm raged outside the casement window, Jordan looked down at his dry jeans, his dry fleece hoodie, his warm hands, and his bone-dry seat cushion, and typed a single line to the room:
 
@@ -13693,7 +13615,7 @@ Jordan grinned from ear to ear, his fingers flying across his keyboard as he sav
 
 When the Nordic Air PAC 757 banked out of the low English clouds over Windsor Castle and touched down on Runway 27L at London Heathrow Airport, Jordan immediately felt the scale of the world shift up by three orders of magnitude.
 
-Keflavík had been quiet, crisp, and volcanic. Heathrow was a sprawling, global aviation megalopolis—double-decker EuroJet A380s and wide-body PAC 777s taxiing past in the liveries of sixty nations. Their aircraft pulled into a gate at the gleaming, wave-roofed expanse of **Terminal 2—*The Britannia Terminal***, which had opened just one year earlier in June 2014.
+Keflavík had been quiet, crisp, and volcanic. Heathrow was a sprawling, global aviation megalopolis—double-decker EuroJet A380s and wide-body PAC 777s taxiing past in the liveries of sixty nations. Their aircraft pulled into a gate at the gleaming, wave-roofed expanse of Terminal 2—*The Britannia Terminal*, which had opened just one year earlier in June 2014.
 
 Waiting right outside the aircraft door on the level glass jetbridge sat Jordan's 350-pound power chair. Jessica lifted him effortlessly from Seat 2A into his frame, and the eighteen travelers rolled down the wide, step-free arrivals corridor toward UK Border Force.
 
@@ -14050,7 +13972,7 @@ From the South Bank, Jordan routed the group aboard a low-floor red Route 148 an
 
 While Caleb, Lucas, and Owen headed downstairs to inspect the Apollo 10 command module and the historic *Stephenson's Rocket* steam locomotive, Zoë and Daniel led Jordan, Aubrie, Madison, and Henry up the wide passenger lift to the third-floor *Information Age & Computing Gallery*.
 
-Standing inside a massive glass display case at the center of the hall was a gleaming, five-ton marvel of bronze gears, steel shafts, and precision-milled figure wheels: **Charles Babbage's *Difference Engine No. 2***, built to Babbage's original 1847 mechanical blueprints—accurate to thirty-one digits of polynomial calculation and sitting directly across the gallery from **Alan Turing's 1950 *Pilot ACE*** early electronic stored-program computer.
+Standing inside a massive glass display case at the center of the hall was a gleaming, five-ton marvel of bronze gears, steel shafts, and precision-milled figure wheels: Charles Babbage's *Difference Engine No. 2*, built to Babbage's original 1847 mechanical blueprints—accurate to thirty-one digits of polynomial calculation and sitting directly across the gallery from Alan Turing's 1950 *Pilot ACE* early electronic stored-program computer.
 
 For fifteen minutes, Jordan and Zoë were completely transfixed.
 
@@ -14176,7 +14098,7 @@ Two hundred yards across a level pedestrian footbridge from Bletchley Station st
 
 As the nineteen travelers rolled along the smooth tarmac paths under the shade of ancient Wellingtonia redwoods toward Hut 8 and Hut 11, Jordan felt an almost electric reverence settle over Zoë, Aubrie, and Daniel.
 
-Inside the brick hall of Block B, a volunteer engineer in a tweed waistcoat switched on a seven-foot-tall, one-ton bronze-and-steel cabinet covered in threebanks of thirty-six rapidly spinning, color-coded commutator drums and tangles of red insulated wire: the working reconstruction of Alan Turing and Gordon Welchman's electromechanical Bombe.
+Inside the brick hall of Block B, a volunteer engineer in a tweed waistcoat switched on a seven-foot-tall, one-ton bronze-and-steel cabinet covered in three banks of thirty-six rapidly spinning, color-coded commutator drums and tangles of red insulated wire: the working reconstruction of Alan Turing and Gordon Welchman's electromechanical Bombe.
 
 *Click-clack-click-clack-click-clack.*
 
@@ -14184,7 +14106,7 @@ The rhythmic, high-speed metallic clatter of a hundred and eight rotating drums 
 
 "Look at the wiring topology on the back of that rack, Jordan," Zoë whispered, standing so close to Jordan's right armrest that her shoulder brushed his sleeve, her gray eyes shining with pure intellectual awe behind her glasses. "Every day at midnight, the German military changed the rotor order, the ring settings, and the plugboard stecker connections—creating 158 quintillion possible states. Everyone else in 1939 thought breaking that manually in twenty-four hours was impossible. Turing didn't try to brute-force all 158 quintillion states; he wired a closed electrical feedback loop that exploited *cribs* and eliminated every contradictory hypothesis simultaneously at the speed of electricity."
 
-From the Bombe gallery, they rolled next door into the National Computing Gallery, where an even larger wartime secret hummed quietly behind a low glass barrier: the working rebuild of **Tommy Flowers's 1944 *Colossus Mark 2***—the world's first programmable, electronic digital computer.
+From the Bombe gallery, they rolled next door into the National Computing Gallery, where an even larger wartime secret hummed quietly behind a low glass barrier: the working rebuild of Tommy Flowers's 1944 *Colossus Mark 2*—the world's first programmable, electronic digital computer.
 
 Two thousand four hundred glowing glass thermionic valves radiated a gentle warmth across the room while a continuous loop of punched paper tape whirred through optical photoelectric readers at five thousand characters per second—twenty-five miles per hour—decoding the twelve-rotor Lorenz (Tunny) teleprinter cipher used by the German High Command.
 
@@ -14222,7 +14144,7 @@ Unlike the terrifying, unexplained booms in the dark of his childhood bedroom in
 
 After lunch on St. Andrew Square, Jordan routed the group onto Edinburgh's brand-new, ultra-modern Edinburgh Tram line—which had opened just one year earlier in May 2014 with 100% level, zero-step platform boarding—and rode north down Leith Walk to the historic port of Leith on the Firth of Forth.
 
-Moored permanently alongside the waterfront terminal sat the gleaming navy-hull and white-superstructure of the **Royal Yacht *Caledonia***—the floating palace that had steamed over a million nautical miles across the globe for forty-four years before being decommissioned in 1997.
+Moored permanently alongside the waterfront terminal sat the gleaming navy-hull and white-superstructure of the Royal Yacht *Caledonia*—the floating palace that had steamed over a million nautical miles across the globe for forty-four years before being decommissioned in 1997.
 
 "Watch how they engineered the museum retrofit for this ship, J," Daniel pointed out as they entered the berth. Instead of forcing visitors up steep naval gangplanks, the port trust had constructed a dedicated shore-side glass elevator tower with wide, level brow bridges connecting directly into every single one of the yacht's five decks—from the gleaming State Dining Room and Sun Lounge all the way down to the spotless, mirror-polished Engine Room and the  Admiral's Bridge.
 
@@ -15008,7 +14930,7 @@ Zoë looked back down at Jordan and Aubrie, tapping a key on her mPad and turnin
 
 "The reason I wanted to tell all of you here in Singapore," Zoë said, her voice warming with earnest clarity, "is because being here with you finally showed me how the three autistic architectures in our house fit together like a complete tri-node cluster:
 
-"First, there's Jordan's processor—Jordan.OS. Jordan, your system crashes when rules conflict, or when the abusive legacy trauma scripts your mother forced onto your hard drive collide with unconditional safety and love, throwing a `System.IO.FileNotFoundException()`.
+"First, there's Jordan's processor—Jordan.OS. Jordan, your system crashes when rules conflict, or when the abusive legacy trauma scripts your mother forced onto your hard drive collide with unconditional safety and love, throwing a *System.IO.FileNotFoundException()*.
 
 "Second, there's Aubrie's processor. Aubrie, your system crashes when raw environmental sensory volume—bright fluorescent lights, screaming crowds, overlapping noise—spikes your input meters to 100.
 
@@ -15208,15 +15130,7 @@ Following the blue wheelchair pictograms across the terminal concourse, the eigh
 
 Right beside the wide accessible faregate stood the customer service counter and smart-card vending kiosk. With the entire family gathered around him in a grinning semicircle, Jordan rolled up to the lowered counter window and purchased his seventh and final international transit card of the summer: the glossy teal-and-navy HarbourCard, emblazoned with a stylized geometric wave of Sydney Harbour.
 
-Jordan pulled the clear collector's binder sleeve from his side bag and slid the HarbourCard into the seventh pocket, completing the global grid he had started building six weeks earlier across four continents:
-
-1. NordicPass — *Reykjavik Capital Transit (RCT), Reykjavik, Iceland*
-2. Pearl Card — *London Transport Authority (LTA), London, England, UK*
-3. MerseyPass — *Mersey Transit, Liverpool, Merseyside, England, UK*
-4. Midori Card — *Nippon Rail East (NR East) & Tokyo Rapid Subway, Tokyo, Japan*
-5. KansaiPass — *Nippon Rail West (NR West) & Osaka Rapid Subway, Osaka, Japan*
-6. MerlionLink Card — *Singapore Mass Rapid Transit (SMRT), Singapore*
-7. HarbourCard — *Transit NSW / Sydney Rail, Sydney & Liverpool, New South Wales, Australia*
+Jordan pulled the clear collector's binder sleeve from his side bag and slid the HarbourCard into the seventh pocket, completing the global grid he had started building six weeks earlier across four continents: Reykjavik Capital Transit's *NordicPass* from Reykjavik, Iceland; the London Transport Authority's *Pearl Card* from London and Mersey Transit's *MerseyPass* from Liverpool across the United Kingdom; Nippon Rail East and Tokyo Rapid Subway's *Midori Card* from Tokyo alongside Nippon Rail West and Osaka Rapid Subway's *KansaiPass* from Osaka; Singapore Mass Rapid Transit's *MerlionLink Card* from Singapore; and finally Transit NSW and Sydney Rail's *HarbourCard* for Sydney and Liverpool in New South Wales, Australia.
 
 Beside Jordan's armrest, Zoë smiled warmly and tilted her mPad screen slightly toward him—openly sharing her cognitive telemetry now that the secret was out:
 
@@ -15436,7 +15350,7 @@ She was six feet three inches tall, broad-shouldered, and heavily muscled, weari
 
 <aac>Seeing two six-foot-three Gallaghers at the same time is breaking my optical sensors,</aac> Jordan's "Sydney" voice joked, making both twins roar with laughter. <aac>Thank you for building the ramp, Bec.</aac>
 
-After pausing respectfully along the level, red-sand base cultural trail of Uluṟu to admire the ancient rock art caves and read the Aṉangu cultural plaques, the convoy turned west onto the **Great Central Road (*Tjukaruru Road*)**.
+After pausing respectfully along the level, red-sand base cultural trail of Uluṟu to admire the ancient rock art caves and read the Aṉangu cultural plaques, the convoy turned west onto the Great Central Road (*Tjukaruru Road*).
 
 Ten minutes past the boundary, the asphalt ended completely.
 
@@ -15556,7 +15470,7 @@ Jordan's hands remained completely still over his keyboard. His heart rate ticke
 
 Around the kitchen table, Aubrie, Zoë, and Mark stiffened with protective fury—and then all four of them looked at Jordan.
 
-Instead of crashing into a `System.IO.FileNotFoundException()`, Jordan looked down at the calendar on his Pinnacle Vanguard Pro screen and ran the math.
+Instead of crashing into a *System.IO.FileNotFoundException()*, Jordan looked down at the calendar on his Pinnacle Vanguard Pro screen and ran the math.
 
 <aac>Wait—we bought these airline tickets back in the winter, five months before she filed anything,</aac> Jordan's "Sydney" voice stated with crystal clarity. <aac>Our starting flight out of Roanoke to Dulles was on May 23, and our pre-booked return flights from Red Centre Desert Airport (AYQ) to Sydney (SYD) to Los Angeles (LAX) to Charlotte (CLT) to Roanoke (ROA) depart on August 16 and land at Roanoke-Blacksburg Regional Airport at 6:30 PM on Monday, August 17. Did Ms. Gable show the judge when our tickets were purchased?</aac>
 
@@ -15632,12 +15546,7 @@ Four separate aircraft, fifteen time zones, and eight effortless carries by Jess
 
 On Sunday morning, August 16, in the Northern Territory, Jordan Fuller and his seventeen traveling companions had hugged Bec, Callum, and Fiona Gallagher goodbye at Red Centre Desert Airport (AYQ) with rust-red Petermann desert dirt still packed deep into the rubber treads of Jordan's wheelchair tires.
 
-From the red heart of Australia, they had executed the longest, most grueling continuous transit gauntlet of Jordan's life:
-
-1. Flight 1 (AYQ ➔ SYD): A three-hour flight aboard Southern Cross Airways from the Northern Territory across the Outback to Sydney Kingsford Smith International Airport.
-2. Flight 2 (SYD ➔ LAX): A fourteen-hour transpacific crossing aboard a Southern Cross Airways widebody jet across the International Date Line into Los Angeles International Airport (LAX)—where Jordan rolled up to the US Customs and Border Protection booth in his reclaimed power chair and handed over his own United States Passport as a nineteen-year-old adult returning from four continents.
-3. Flight 3 (LAX ➔ CLT): An overnight transcontinental domestic flight across the width of North America into Charlotte Douglas International Airport (CLT).
-4. Flight 4 (CLT ➔ ROA): A final fifty-minute regional hop north across the Virginia state line and over the emerald-green ridges of the Blue Ridge Mountains, touching down on the runway at Roanoke-Blacksburg Regional Airport (ROA) at six-twenty-two on the evening of Monday, August 17, 2015.
+From the red heart of Australia, they had executed the longest, most grueling continuous transit gauntlet of Jordan's life. Flight 1 carried them three hours aboard Southern Cross Airways from Red Centre Desert Airport (AYQ) in the Northern Territory across the Outback to Sydney Kingsford Smith International Airport (SYD). From Sydney, Flight 2 launched them on a fourteen-hour transpacific crossing aboard a Southern Cross Airways widebody jet across the International Date Line into Los Angeles International Airport (LAX)—where Jordan rolled up to the US Customs and Border Protection booth in his reclaimed power chair and handed over his own United States Passport as a nineteen-year-old adult returning from four continents. Flight 3 carried them overnight across the width of North America into Charlotte Douglas International Airport (CLT), and Flight 4 made the final fifty-minute regional hop north across the Virginia state line and over the emerald-green ridges of the Blue Ridge Mountains, touching down on the runway at Roanoke-Blacksburg Regional Airport (ROA) at six-twenty-two on the evening of Monday, August 17, 2015.
 
 By the time the ground crew at Roanoke brought Jordan's 350-pound matte-black power chair up to the forward cabin door of the regional jet and Jessica—staying true to the promise she had made on Day One at Dulles after Jordan decided he hated the cramped airport aisle chairs—carried him out of the cabin in her arms one final time and settled him gently into his seat while Daniel and Mark reconnected his battery leads, Jordan was bone-tired. Every muscle in his shoulders ached from thirty-five hours of cabin altitude, his eyes felt heavy behind his glasses, and his circadian clock still thought it was morning in Sydney.
 
@@ -16453,11 +16362,7 @@ Rolling through the automatic glass doors into the bright, two-story glass-balco
 
 Right down the ground-floor corridor sat Apartment 101—the designated wheelchair-accessible Senior RA apartment.
 
-When Isabel tapped her Poly Pass against the reader and opened the left-side entry door into the wide vinyl-plank foyer, Madison and Lauren let out low whistles of admiration. Unlike tiny Room 215 in Bennett Hall, Apartment 101 was a true, open-concept one-bedroom accessible apartment:
-- Inside the entry foyer sat a coat closet on the left and a wide ADA bathroom (BATH) straight ahead on the left with a roll-under vanity sink, transfer toilet, and zero-threshold roll-in shower.
-- Tucked into the center of the hallway behind double bi-fold doors was a dedicated LAUNDRY closet housing full-size front-loading washer and dryer units (free-vend, with no Poly Pass Laundry Credits card reader—standard equipment built into all CPI Housing & Residence Life staff and RA apartments, including Henry Walsh's Apartment 115 down the hall). Because every staff apartment came built with its own full-size washer and dryer from day one, Isabel, Elana, and Stephen could wash Stella's heavy equine service-harness pads, saddle liners, and grooming blankets alongside Elana's medical linens right inside Apartment 101 without ever clogging the communal student dormitory laundry machines.
-- Along the bottom-left opened a full U-shaped KITCHEN with a four-burner range, full-size refrigerator and dishwasher, roll-under sink, and a four-stool peninsula breakfast bar opening into a bright 12'4" × 14'10" LIVING room furnished with a sleeper sofa, two armchairs, coffee table, media console, and window HVAC unit.
-- Off the upper-right of the living room sat Isabel's private *10'3" × 14'1" BEDROOM*, complete with a Full-size bed flanked by two nightstands and a wall-spanning double bi-fold closet.
+When Isabel tapped her Poly Pass against the reader and opened the left-side entry door into the wide vinyl-plank foyer, Madison and Lauren let out low whistles of admiration. Unlike tiny Room 215 in Bennett Hall, Apartment 101 was a true, open-concept one-bedroom accessible apartment. Inside the entry foyer sat a coat closet on the left and a wide ADA bathroom straight ahead with a roll-under vanity sink, transfer toilet, and zero-threshold roll-in shower. Tucked into the center of the hallway behind double bi-fold doors was a dedicated laundry closet housing full-size front-loading washer and dryer units—free-vend, with no Poly Pass Laundry Credits card reader, standard equipment built into all CPI Housing & Residence Life staff and RA apartments, including Henry Walsh's Apartment 115 down the hall—allowing Isabel, Elana, and Stephen to wash Stella's heavy equine service-harness pads, saddle liners, and grooming blankets alongside Elana's medical linens right inside Apartment 101 without ever clogging the communal student dormitory laundry machines. Along the left opened a full U-shaped kitchen with a four-burner range, full-size refrigerator and dishwasher, roll-under sink, and a four-stool peninsula breakfast bar overlooking a bright 12'4" × 14'10" living room furnished with a sleeper sofa, two armchairs, coffee table, media console, and window HVAC unit, while off the far right of the living room sat Isabel's private 10'3" × 14'1" bedroom, complete with a Full-size bed flanked by two nightstands and a wall-spanning double bi-fold closet.
 
 "Wait a second," Hannah grinned as she inspected the built-in full-size washer and dryer in the hallway laundry closet and the extra cases of Elana's liquid nutrition already stacked neatly inside Isabel's refrigerator. "Every staff apartment in this building comes built with its own full-size washer and dryer that doesn't eat Poly Pass Laundry Credits?! With a 10'3" × 14'1" bedroom, a sleeper sofa in the 12'4" × 14'10" living room, and a zero-step entrance on the first floor... you've got a complete on-campus sanctuary for Elana, Stephen, and Stella whenever freshman hall noise gets too loud!"
 
@@ -16500,7 +16405,7 @@ At 5:30 AM, the nine of them rolled out the walk-out basement patio door into th
 
 Even though the calendar read late August, the mountain air at 2,100 feet in the New River Valley had a sharp, biting chill before sunrise. Their breath plumed white under the amber streetlights as they made the quiet ten-minute walk to the Christiansburg Transit Center. Jordan drove *S.S. Freedom* at Stage 2 (Sidewalk Cruise), his right hand steady on the joystick while his left hand stayed tucked inside his fleece pocket, until the brightly lit canopy of Bay A came into view.
 
-Idling at the curb was a massive, forty-five-foot **Bluewater Transit *Maroon Express*** over-the-road highway coach, its diesel engine rumbling deep and loud against the quiet morning.
+Idling at the curb was a massive, forty-five-foot Bluewater Transit *Maroon Express* over-the-road highway coach, its diesel engine rumbling deep and loud against the quiet morning.
 
 And right away, the first logistical friction of Zoë's 5:45 AM plan made itself known.
 
@@ -16681,11 +16586,7 @@ Moving as a single, cohesive unit, the family entered the rear level of the audi
 
 "Right here—back accessible row, left aisle," Mark directed quietly.
 
-Like clockwork, they built what they immediately dubbed The Sociology Fortress:
-- Mark and Lauren—the group's physical outer flanks—claimed the two end seats on the outside of the row, creating a sturdy human buffer between Jordan and the bustling main aisle.
-- Jordan backed *S.S. Freedom* smoothly into the wide, designated wheelchair cutout at the top of the tier.
-- Aubrie Jean pulled a movable companion chair right up against Jordan's right armrest, while Madison took the fixed auditorium seat immediately to his left, cocooning him on both sides against the echoing noise of the hall.
-- Zoë, Sarah, Jessica, and Hannah filled in the remainder of the row beside Madison and Mark, claiming the entire back section as an impenetrable bubble of calm.
+Like clockwork, they built what they immediately dubbed The Sociology Fortress. Mark and Lauren—the group's physical outer flanks—claimed the two end seats on the outside of the row to create a sturdy human buffer between Jordan and the bustling main aisle, while Jordan backed *S.S. Freedom* smoothly into the wide, designated wheelchair cutout at the top of the tier. Aubrie Jean pulled a movable companion chair right up against Jordan's right armrest and Madison took the fixed auditorium seat immediately to his left, cocooning him on both sides against the echoing noise of the hall as Zoë, Sarah, Jessica, and Hannah filled in the remainder of the row beside Madison and Mark, claiming the entire back section as an impenetrable bubble of calm.
 
 When the professor stepped up to the lectern at 9:00 AM on the dot and began going over the SOC 101 syllabus, Jordan sat anchored with Aubrie Jean's hand laced through his right and Madison's fingers resting warmly over his left wrist. With their new 5:15 AM wake-up alarm and the heated, low-floor 6:00 AM Blue Ridge Transit Route 1 bus already locked into Zoë's master schedule for tomorrow morning—cutting their outdoor wait on Commonwealth Mall down to just fifteen minutes before Kincaid Commons unlocked at 7:00 AM—the commuter algorithm was finally running at 100% efficiency.
 
@@ -17000,10 +16901,7 @@ In ten seconds flat, Mark and Jessica snapped the four retractable Q'Straint flo
 
 Twenty-five minutes later in Christiansburg, after hopping off at the Pepper Plaza transfer hub and rolling the three blocks down the sidewalk to Geneva Street—where Daniel had installed a covered timber canopy and non-slip textured grit strips along the exterior walk-out basement ramp over the summer—the ten of them glided straight down the sheltered ramp to the basement patio doors.
 
-Just inside the tiled mudroom vestibule of the walk-out basement sanctuary, their rainy-day home protocol ran like clockwork:
-* Lauren, Hannah, and Mark hung all nine wet umbrellas and rain jackets on the wall-mounted drying rack over the boot tray and used the stack of warm microfiber shop towels to wipe down the *S.S. Freedom*'s six wet tires, caster forks, and tie-down brackets.
-* Aubrie Jean, Madison, and Isabel unclipped Jordan's Contoured Wheelchair Rain Cape and Silicone Joystick Gauntlet, hanging both on the heated towel rail by the bathroom door, and checked his clothes and seat cushion—confirming that from his collar to his wool socks, he was 100% warm and dry.
-* Upstairs at the top of the interior basement steps, the door opened and Laura Brooks walked down carrying a steaming ceramic pitcher of spiced hot apple cider and a tray of ten warm cinnamon rolls fresh from the oven.
+Just inside the tiled mudroom vestibule of the walk-out basement sanctuary, their rainy-day home protocol ran like clockwork. Lauren, Hannah, and Mark hung all nine wet umbrellas and rain jackets on the wall-mounted drying rack over the boot tray and used the stack of warm microfiber shop towels to wipe down the *S.S. Freedom*'s six wet tires, caster forks, and tie-down brackets. Beside them, Aubrie Jean, Madison, and Isabel unclipped Jordan's Contoured Wheelchair Rain Cape and Silicone Joystick Gauntlet, hanging both on the heated towel rail by the bathroom door, and checked his clothes and seat cushion—confirming that from his collar to his wool socks, he was 100% warm and dry. Right on cue at the top of the interior basement steps, the door opened and Laura Brooks walked down carrying a steaming ceramic pitcher of spiced hot apple cider and a tray of ten warm cinnamon rolls fresh from the oven.
 
 "I heard the ramp door open!" Laura smiled warmly, setting the tray down on the low coffee table as the ten of them gathered around the plush sectional sofa under the amber string lights while the rain drummed against the glass patio doors outside. "How did the *S.S. Freedom* handle the monsoon up on campus?"
 
@@ -18342,10 +18240,7 @@ The cold bureaucratic arithmetic of the American healthcare system hung in the a
 
 Once Jordan was slid onto the critical care gurney and strapped securely beneath a warm thermal blanket, the entire family walked down the elevator with him to the Emergency Department ambulance bay.
 
-Outside on the sunlit asphalt, the Rubber Duck Convoy was already staged in tight three-vehicle formation, engines idling:
-1. Lead Family Vehicle ("Rubber Duck"): Daniel Brooks's wheelchair-accessible BraunAbility minivan—with *S.S. Freedom* safely anchored in the center cabin and Laura, Aubrie Jean, Madison, and Zoë aboard.
-2. Second Vehicle ("Pig Pen"): Mark's SUV—carrying Hannah, Lauren, Sarah, and Jessica.
-3. Third Vehicle ("Watchtower"): Henry Walsh's crew-cab Chevrolet Silverado pickup—driven by Henry with Isabel in the front passenger seat and the family's packed overnight duffle bags secured in the covered truck bed.
+Outside on the sunlit asphalt, the Rubber Duck Convoy was already staged in tight three-vehicle formation with engines idling. Taking point as "Rubber Duck" was Daniel Brooks's wheelchair-accessible minivan, with *S.S. Freedom* safely anchored in the center cabin and Laura, Aubrie Jean, Madison, and Zoë aboard. Right behind him as "Pig Pen" idled Mark's SUV carrying Hannah, Lauren, Sarah, and Jessica, while Henry Walsh's crew-cab pickup brought up the rear as "Watchtower," driven by Henry with Isabel in the front passenger seat and the family's packed overnight duffle bags secured in the covered truck bed.
 
 Before the paramedics lifted the gurney into the back of the critical care ambulance, every single member of the family leaned in across the bay for a quick, fierce hug and kiss—Aubrie Jean, Madison, and Isabel squeezing his hand until the rear doors swung shut with that familiar, hollow metallic *THUD*.
 
@@ -18613,11 +18508,7 @@ And then the bright surgical lights dissolved into total, dreamless black.
 
 Upstairs in the sixth-floor CVICU Family Waiting Room, the next ten hours were the longest day of the family's lives.
 
-Every hour on the hour, the surgical liaison nurse called the waiting room desk phone with a brief status update from Operating Room 2:
-- 7:30 AM: Sternotomy complete; internal mammary artery harvested cleanly.
-- 9:15 AM: Patient placed on cardiopulmonary bypass; heart arrested cleanly; Dr. Hassan beginning the distal coronary anastomosis.
-- 11:30 AM: Bypass graft complete; heart restarted in normal sinus rhythm; weaning from the heart-lung machine and ensuring meticulous hemostasis.
-- 1:45 PM: Sternum wired closed; chest tubes placed; beginning multi-layer closure and post-op stabilization.
+Every hour on the hour, the surgical liaison nurse called the waiting room desk phone with a brief status update from Operating Room 2. At 7:30 AM, word came that the sternotomy was complete and the internal mammary artery had been harvested cleanly; by 9:15 AM, Jordan was placed on cardiopulmonary bypass with his heart arrested cleanly as Dr. Hassan began the distal coronary anastomosis. At 11:30 AM, the nurse reported that the bypass graft was complete and his heart had restarted in normal sinus rhythm while the team weaned him from the heart-lung machine and verified meticulous hemostasis, and at 1:45 PM came the call that his sternum was wired closed, chest tubes were placed, and multi-layer closure and post-operative stabilization were underway.
 
 Through all ten hours, the nineteen-person fortress held the waiting room together. When Aubrie Jean began to hyperventilate around noon, Madison and Isabel held her on a corner sofa while Megan quietly brought everyone cups of water and hot tea from the hospitality station. When Daniel's legs grew stiff, Mark, Caleb, and Henry Walsh walked the sixth-floor corridor with him.
 
@@ -19104,10 +18995,7 @@ This was his second Thanksgiving under the Brooks family roof, yet it felt like 
 
 A year ago, he had been a terrified eighteen-year-old fugitive hiding in Christiansburg from his mother's impending abduction plot. Today, he was a nineteen-year-old survivor. He had faced Aubrie Sinclair down in a Norfolk Circuit Courtroom and won his permanent freedom. He had stared death in the face on an operating table at Star City General Hospital and won. This Thanksgiving wasn't a hiding place—it was a victory celebration.
 
-Even better, Laura, Daniel, Hannah, Isabel, and Zoë's eldest sister Megan had secretly redesigned the entire Thanksgiving menu from top to bottom so that 100% of the feast on the table complied with Dr. Hassan's cardiac dietary guidelines—meaning Jordan didn't have to eat a separate "patient meal" while everyone else ate regular food:
-- The twenty-four-pound roasted turkey was basted with herb-infused olive oil and aromatics, with the skin removed before carving.
-- The whipped Yukon Gold mashed potatoes were made with roasted garlic, extra-virgin olive oil, and skim milk instead of heavy cream and salted butter.
-- The green bean casserole was made from scratch with fresh cremini mushrooms and low-sodium herb velouté, and the stuffing was packed with celery, sage, apples, and toasted pecans rather than salt.
+Even better, Laura, Daniel, Hannah, Isabel, and Zoë's eldest sister Megan had secretly redesigned the entire Thanksgiving menu from top to bottom so that every single dish on the table complied with Dr. Hassan's cardiac dietary guidelines—meaning Jordan didn't have to eat a separate "patient meal" while everyone else ate regular food. The twenty-four-pound roasted turkey was basted with herb-infused olive oil and aromatics, with the skin removed before carving; the whipped Yukon Gold mashed potatoes were made with roasted garlic, extra-virgin olive oil, and skim milk instead of heavy cream and salted butter; and the green bean casserole was made from scratch with fresh cremini mushrooms and low-sodium herb velouté alongside stuffing packed with celery, sage, apples, and toasted pecans rather than salt.
 
 At 2:00 PM, after Caleb and Owen carried Jordan up the interior stairs in his fourteen-pound custom titanium manual chair (*Shuttlecraft Galileo*) and Mark and Garrett drove *S.S. Freedom* up the exterior ramp to the front porch so Jordan could transfer back into his own motorized seat, Jordan drove *S.S. Freedom* right to the head of the massive, three-table extension running the length of the upstairs dining and living rooms—surrounded by Daniel, Laura, Mark, Hannah, all seven women of the Pact (Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica, and Isabel—who was celebrating her very first Thanksgiving away from Charlottesville after a joyful morning video call with her parents, Elana, Stephen, and Stella, and who sat beaming right beside Jordan's left armrest), Zoë's six older siblings (Megan, Chloe, Caleb, Owen, Noah, and Liam), Ben Carter, Henry Walsh, Garrett Reynolds, and Kelsey Brennan.
 
@@ -20484,12 +20372,7 @@ Jordan tapped Speak on his mPad, beaming up at them:
 
 "Are you kidding me, Jordan?!" Daniel laughed, clapping Jordan warmly on the shoulder while Laura hugged Aubrie Jean. "Of course we're in! Whatever it costs, put Laura and me down!"
 
-"I have already architected the four-cell checkout matrix, Dad," Zoë announced briskly, rotating her Pinnacle Vanguard Pro so everyone around the dining table could see the color-coded spreadsheet. "With you and Mom, plus Elana, Stephen, and Stella joining Isabel and the eleven of us, our total party size is exactly sixteen people. Because the presale limit on the CPI Campus Events Portal is strictly four tickets per active CPI Poly Pass—and because Megan graduated in December 2015 and is now on an alumna ID—we need four active Spring 2016 students to execute four synchronized four-ticket checkouts at 10:00:00 AM on Friday in Accessible Field-Level Section 104, Row A:"
-
-* Cell Alpha (Jordan Fuller — CPI Poly Pass #1): 4 Tickets (1 Wheelchair Space + 3 Companion Seats) for Jordan, Aubrie Jean, Madison, and Megan (registered as Jordan's Alumna guest).
-* Cell Beta (Mark Anderson — CPI Poly Pass #2): 4 Tickets in the immediately adjacent block of Section 104, Row A for Mark, Hannah, Daniel Brooks, and Laura Brooks.
-* Cell Gamma (Zoë Wren Brooks — CPI Poly Pass #3): 4 Tickets in the next four contiguous seats of Section 104, Row A for Zoë, Lauren, Sarah, and Jessica Gallagher.
-* Cell Delta (Isabel Dawson — CPI Poly Pass #4): 4 Tickets (2 Power Wheelchair Spaces + 1 Service Animal / Companion Bay + 1 Companion Seat) on the outer aisle of Section 104, Row A for Isabel, Elana, Stephen, and Stella.
+"I have already architected the four-cell checkout matrix, Dad," Zoë announced briskly, rotating her Pinnacle Vanguard Pro so everyone around the dining table could see the color-coded spreadsheet. "With you and Mom, plus Elana, Stephen, and Stella joining Isabel and the eleven of us, our total party size is exactly sixteen people. Because the presale limit on the CPI Campus Events Portal is strictly four tickets per active CPI Poly Pass—and because Megan graduated in December 2015 and is now on an alumna ID—we need four active Spring 2016 students to execute four synchronized four-ticket checkouts at 10:00:00 AM on Friday in Accessible Field-Level Section 104, Row A. Cell Alpha, on Jordan's Poly Pass, will pull four tickets—one wheelchair space and three companion seats—for Jordan, Aubrie Jean, Madison, and Megan registered as Jordan's alumna guest. Cell Beta, on Mark's Poly Pass, will pull the four immediately adjacent seats in Row A for Mark, Hannah, Mom, and Dad. Cell Gamma, on my Poly Pass, will pull the next four contiguous seats for myself, Lauren, Sarah, and Jessica Gallagher. And Cell Delta, on Isabel's Poly Pass, will pull the outer four aisle spaces—two power wheelchair spaces, one service-animal and companion bay, and one companion seat—for Isabel, Elana, Stephen, and Stella."
 
 ***
 
@@ -20505,7 +20388,7 @@ Jordan’s heart thumped against his healed sternum—a steady, healthy 82 BPM o
 
 "Five," Zoë counted down. "Four. Three. Two. One. *Execute.*"
 
-At 10:00:00.000, all four of them tapped *`SELECT SEATS`*.
+At 10:00:00.000, all four of them tapped *SELECT SEATS*.
 
 For a fraction of a second, the progress spinner rotated as thirty thousand CPI students hit the university box-office cluster at once.
 
@@ -20630,21 +20513,14 @@ May 2016 arrived in Blacksburg in a burst of warm Appalachian sunshine, blooming
 
 Eight days earlier, on Friday, May 13, 2016, the entire household had cheered until their voices were hoarse as Isabel Dawson walked across the CPI Spring Commencement stage in her maroon-and-orange regalia, officially graduating *cum laude* with her Bachelor of Science in Human Development on the Pre-Occupational Therapy and Nursing track. With her Senior Resident Advisor duties in Allegheny Commons formally concluded and her post-graduation clinical rehabilitation position in the New River Valley beginning in June, the remaining boxes from Apartment 101 had been moved permanently into the house on Geneva Street—and would soon move with the whole family into the nearly completed U.S. 11 compound at the start of July.
 
-Now, on Saturday afternoon, May 21, 2016, at three o'clock, all sixteen members of their extended family stood on the sunny front lawn on Geneva Street, dressed in their concert best and wearing their commemorative five-dollar gold-foil ticket stubs in clear lanyards around their necks:
-* Jordan sat in his fourteen-pound titanium manual wheelchair, *Shuttlecraft Galileo* (Vanguard AeroLite-Ti), wearing a Foundry Maroon CPI T-shirt—proudly wearing his own school colors back into the stadium where his freshman Homecoming had ended in tears—with his custom high-fidelity Vibe-Filter acoustic earpieces tucked securely into his ears and his over-ear defenders clipped to his push-handles just in case.
-* Around him stood all eight women of his constellation—Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica Gallagher, Isabel, and Megan—alongside Mark, Hannah, Daniel, Laura, Elana, Stephen, and eighteen-month-old Stella, who was sporting tiny baby-sized pink earmuffs and a miniature FORGER NATION jersey in her folding stroller.
+Now, on Saturday afternoon, May 21, 2016, at three o'clock, all sixteen members of their extended family stood on the sunny front lawn on Geneva Street, dressed in their concert best and wearing their commemorative five-dollar gold-foil ticket stubs in clear lanyards around their necks. Jordan sat in his fourteen-pound titanium manual wheelchair, *Shuttlecraft Galileo* (Vanguard AeroLite-Ti), wearing a Foundry Maroon CPI T-shirt—proudly wearing his own school colors back into the stadium where his freshman Homecoming had ended in tears—with his custom high-fidelity Vibe-Filter acoustic earpieces tucked securely into his ears and his over-ear defenders clipped to his push-handles just in case. Gathered around him stood all eight women of his constellation—Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica Gallagher, Isabel, and Megan—alongside Mark, Hannah, Daniel, Laura, Elana, Stephen, and eighteen-month-old Stella, who was sporting tiny baby-sized pink earmuffs and a miniature FORGER NATION jersey in her folding stroller.
 
 "Nobody in their right mind is driving a car anywhere near Stadium Woods today," Mark said with a grin as the sixteen of them made the short one-block walk down the hill from Geneva Street to the Christiansburg Transit Center, where the commuter lot had been transformed into a bustling sea of Foundry Maroon and Molten Orange. "Just like CPI home football Saturdays or big games at The Furnace, Blue Ridge Transit suspends *all* regular route service for major special events at The Crucible and presses every single available bus in the fleet into nonstop Crucible Shuttle loops from commuter lots across Blacksburg, Christiansburg, and all of Montgomery County. No fares collected—just load and go!"
 
 Right on cue, a sixty-foot articulated Blue Ridge Transit shuttle pulled up to the Christiansburg Transit Center curb. Its digital destination sign alternated between two high-energy messages:
 
-```
-CRUCIBLE SHUTTLE
-```
-
-```
-GO FORGERS!
-```
+<led>CRUCIBLE SHUTTLE</led>
+<led>GO FORGERS!</led>
 
 The front door stood open, the front suspension kneeled to the curb, the flip-out wheelchair ramp deployed with a fast, simple mechanical clack, and the external speaker called out on a repeated loop for the crowd:
 
@@ -20664,7 +20540,7 @@ Nobody pulled out a wallet, swiped a pass, or dropped a coin; with zero fare col
 
 The shuttle dropped them off less than two hundred feet from the accessible west entrance of Gate 1. Outside the stadium, the atmosphere was nothing like the chaotic, drunken frenzy that had terrified Jordan during the September 2014 Homecoming game.
 
-Instead, the tree-lined plazas around The Crucible felt like a massive, joyful homecoming spanning three generations of Forger Nation. Because tonight was the final stop on the band's 2015–2016 ***Reignition* World Tour, the entire South Endzone concourse lawn had been cordoned off as the Forger Nation Tailgate Plaza** for fans whose tickets were bound to a student, faculty, or alumni Poly Pass.
+Instead, the tree-lined plazas around The Crucible felt like a massive, joyful homecoming spanning three generations of Forger Nation. Because tonight was the final stop on the band's 2015–2016 *Reignition* World Tour, the entire South Endzone concourse lawn had been cordoned off as the Forger Nation Tailgate Plaza for fans whose tickets were bound to a student, faculty, or alumni Poly Pass.
 
 At the entrance to the plaza and the Gate 1 accessible tunnel, Jordan paused his chair to read one of the large silver-and-black A-frame placards bearing the emblem of Engine Room Records:
 
@@ -21115,10 +20991,7 @@ A low, urgent klaxon warning tone echoed across the stadium bowl as the Engine R
 
 Before the crowd could even catch its breath, the 120-foot curved screen behind the band dissolved into a blinding Interstate 81 snowstorm that morphed into a high-velocity asteroid debris field as Ryan launched straight into ["Impact (Mile Marker 98)"](https://music.raggiesoft.com/the-stardust-engine/2016-live-at-the-crucible?track=2-07-impact-mile-marker-98)—translating the freezing night of December 10, 1990 on Interstate 81 Northbound near Newbern, Virginia, when a speeding car clipped the band's tour van at Mile Marker 98 and left twenty-six-year-old Ryan with a complete T10 spinal cord injury, into a catastrophic collision in deep space (*"I was holding the controls, trying to beat the storm / Trying to keep the Freighter steady, trying to keep it warm / Running forty through the dark, the hazard beacons bright... We hit a massive fragment in the great unknown / At Mile Marker 98, I lost the throne! / We're barely alive, but we survived the night!"*).
 
-From Seat 1, Jordan gripped his armrests, completely transfixed, as Ryan’s half of the story roared across the stage without a single break between songs:
-* Out of the wreckage of *"Impact"* flared the urgent rescue beacon of ["Mayday: The Intercept"](https://music.raggiesoft.com/the-stardust-engine/2016-live-at-the-crucible?track=2-08-mayday-the-intercept), celebrating how Cassidy, Holly, Evan, and Tyler locked onto his signal and refused to let the crash end their brother’s life.
-* Then, over a rhythmic hospital heartbeat monitor, the calm voice of the planetarium narrator spoke through the stadium PA—*"Welcome back to the Engine Room Records Planetarium. Following the fragmentation event, the central engine has been salvaged and transported to the Star City Orbital Ward. Diagnostics indicate a complete and permanent severing of the T-10 power conduit. In the aftermath of a catastrophic impact, survival is no longer a matter of velocity, but of protocol..."*—and Ryan tore into the heavy, stomping hard-rock groove of ["Star City: Orbital Ward"](https://music.raggiesoft.com/the-stardust-engine/2016-live-at-the-crucible?track=2-09-star-city-orbital-ward), singing openly in sci-fi terms about "Protocol T-10": living his life on a strict four-hour medical clock, shifting his weight every fifteen minutes in his manual chair to prevent pressure sores, and relying on Evan and Tyler’s synchronized lifts whenever a stage or tour bus lacked a ramp.
-* Finally, the red warning lasers melted into warm golden sunlight as brother and sister locked Ryan’s heavy electric guitar and Cassidy’s sweeping analog synthesizers together in unison for ["Twin Moons: Touchdown"](https://music.raggiesoft.com/the-stardust-engine/2016-live-at-the-crucible?track=2-10-twin-moons-touchdown) (*"The Engine and the Anchor locking into the groove / We finally found the gravity, we're ready to move! / Touchdown!"*), bringing the twin orbits safely down onto solid ground in Blacksburg.
+From Seat 1, Jordan gripped his armrests, completely transfixed, as Ryan’s half of the story roared across the stage without a single break between songs. Out of the wreckage of *"Impact"* flared the urgent rescue beacon of ["Mayday: The Intercept"](https://music.raggiesoft.com/the-stardust-engine/2016-live-at-the-crucible?track=2-08-mayday-the-intercept), celebrating how Cassidy, Holly, Evan, and Tyler locked onto his signal and refused to let the crash end their brother’s life. Then, over a rhythmic hospital heartbeat monitor, the calm voice of the planetarium narrator spoke through the stadium PA—*"Welcome back to the Engine Room Records Planetarium. Following the fragmentation event, the central engine has been salvaged and transported to the Star City Orbital Ward. Diagnostics indicate a complete and permanent severing of the T-10 power conduit. In the aftermath of a catastrophic impact, survival is no longer a matter of velocity, but of protocol..."*—and Ryan tore into the heavy, stomping hard-rock groove of ["Star City: Orbital Ward"](https://music.raggiesoft.com/the-stardust-engine/2016-live-at-the-crucible?track=2-09-star-city-orbital-ward), singing openly in sci-fi terms about "Protocol T-10": living his life on a strict four-hour medical clock, shifting his weight every fifteen minutes in his manual chair to prevent pressure sores, and relying on Evan and Tyler’s synchronized lifts whenever a stage or tour bus lacked a ramp. Finally, the red warning lasers melted into warm golden sunlight as brother and sister locked Ryan’s heavy electric guitar and Cassidy’s sweeping analog synthesizers together in unison for ["Twin Moons: Touchdown"](https://music.raggiesoft.com/the-stardust-engine/2016-live-at-the-crucible?track=2-10-twin-moons-touchdown) (*"The Engine and the Anchor locking into the groove / We finally found the gravity, we're ready to move! / Touchdown!"*), bringing the twin orbits safely down onto solid ground in Blacksburg.
 
 As the final chord of *"Twin Moons: Touchdown"* faded into a warm synthesizer drone and the planetarium narrator’s voice echoed softly across the bowl—*"Atmospheric entry complete. Gravity is stable... The simulation is now concluded. Please exit safely, and welcome home"*—the towering stadium light rigs slowly dimmed to black.
 
@@ -21374,11 +21247,7 @@ And when the full 1980s Arena Rock band and all three hundred CPI Marching Forge
 
 In Section 104, Row A, Seat 1, tears spilled freely down Jordan’s cheeks—not the terrified, suffocating tears of a system crash, and not the agonizing tears of a hospital bed, but the bright, overflowing tears of a twenty-year-old young man whose healed heart was beating strong and free inside his chest.
 
-Every piece of the circle had finally closed:
-* He remembered September 27, 2014—when the three-hundred-piece CPI Marching Forgers had taken this exact field at halftime while he was trapped in a 24–0 Homecoming meltdown against VDU and had to be evacuated from the stadium.
-* He remembered October 21, 2014—rolling down the Huckleberry Trail before he even knew who The Stardust Engine were, and trading a fellow wheelchair user's wave with Ryan and Cassidy O'Connell as the stadium lights flickered on over the valley.
-* He remembered January 18, 2015 in the Brooks family basement on Geneva Street—watching Daniel lower the diamond stylus onto the 1987 vinyl LP of [*Electric Color*](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color) for the very first time, and how sharply it had stung later that night when Mark accidentally played the 2005 [*Live in Norfolk*](https://music.raggiesoft.com/the-stardust-engine/2005-live-in-norfolk?track=1-14-electric-color) version and Cassidy’s shout of *"Norfolk!"* had triggered every raw memory of Hampton Roads—and how Mark had knelt beside his wheelchair and promised him that one day, they would sit together in the front row at The Crucible while Cassidy shouted "Blacksburg!" and "CPI!" to overwrite that Norfolk recording forever.
-* And he remembered lying in the CVICU at Carilion Roanoke Memorial Hospital seven months ago, listening to Aubrie Jean and his family promise him that he was going to make it back to Blacksburg.
+Every piece of the circle had finally closed. He remembered September 27, 2014, when the three-hundred-piece CPI Marching Forgers had taken this exact field at halftime while he was trapped in a 24–0 Homecoming meltdown against VDU and had to be evacuated from the stadium. He remembered October 21, 2014, rolling down the Huckleberry Trail before he even knew who The Stardust Engine were and trading a fellow wheelchair user's wave with Ryan and Cassidy O'Connell as the stadium lights flickered on over the valley. He remembered January 18, 2015 in the Brooks family basement on Geneva Street—watching Daniel lower the diamond stylus onto the 1987 vinyl LP of [*Electric Color*](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color) for the very first time, how sharply it had stung later that night when Mark accidentally played the 2005 [*Live in Norfolk*](https://music.raggiesoft.com/the-stardust-engine/2005-live-in-norfolk?track=1-14-electric-color) version and Cassidy’s shout of *"Norfolk!"* had triggered every raw memory of Hampton Roads, and how Mark had knelt beside his wheelchair and promised him that one day they would sit together in the front row at The Crucible while Cassidy shouted "Blacksburg!" and "CPI!" to overwrite that Norfolk recording forever. And he remembered lying in the CVICU at Star City General Hospital seven months ago, listening to Aubrie Jean and his family promise him that he was going to make it back to Blacksburg.
 
 Now, after Evan’s heavy bass groove drove through the bridge, the music cut out completely to a deafening stadium roar. Cassidy looked out across her alma mater, her voice ringing off the limestone walls:
 
@@ -21617,9 +21486,9 @@ Jordan’s cheeks flushed with pure pride as he typed back rapidly:
 
 "That is textbook manual-chair physics right there," Ryan said with genuine veteran respect, tapping his knuckles against the anodized push-rim of Jordan’s fourteen-pound Vanguard AeroLite-Ti. "When I first got out of Star City General after my T10 spinal cord injury in 1991, it took me six months to figure out reverse ramp boarding without popping a caster."
 
-For the next thirty-five minutes in the dry upper lobby of the Blue Ridge Regional Aquatic Center, the two families sat together in their street clothes like neighbors who had known each other for years:
-* With his mPad right on his lap—and Aubrie Jean and Madison chiming in beside him whenever Jordan got so excited that he gestured with both hands and typed at the same time—Jordan told Ryan, Cassidy, Holly, Evan, and Tyler about his 350-pound *S.S. Freedom* (Vanguard Titan-X350) power chair for steep campus hill climbs, how Daniel Brooks had bought both the *S.S. Freedom* and *Shuttlecraft Galileo* so he could retire his mother’s old hospital chair to the scrap heap, and how he and Aubrie Jean were getting married on July 15 with a string quartet playing ["My Anchor Holds"](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) as their processional.
-* Cassidy’s eyes misted over behind her glasses when Jordan typed what *"My Anchor Holds"* and *"The Roche Limit"* had meant to him in Section 104, Row A the night before, and Tyler showed Jordan and Mark photos on his mPhone of the custom hydraulic wheelchair lift inside **Unit 01 (*The Iron Horse*) and the 5-second front flip-out ramp on their Prairie Coachworks RLFD30** low-floor Progress Street shuttle parked right outside in the oversized lot.
+For the next thirty-five minutes in the dry upper lobby of the Blue Ridge Regional Aquatic Center, the two families sat together in their street clothes like neighbors who had known each other for years. With his mPad resting right on his lap—and Aubrie Jean and Madison chiming in beside him whenever Jordan got so excited that he gestured with both hands and typed at the same time—Jordan told Ryan, Cassidy, Holly, Evan, and Tyler about his 350-pound *S.S. Freedom* (Vanguard Titan-X350) power chair for steep campus hill climbs, how Daniel Brooks had bought both the *S.S. Freedom* and *Shuttlecraft Galileo* so he could retire his mother’s old hospital chair to the scrap heap, and how he and Aubrie Jean were getting married on July 15 with a string quartet playing ["My Anchor Holds"](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) as their processional.
+
+Cassidy’s eyes misted over behind her glasses when Jordan typed what *"My Anchor Holds"* and *"The Roche Limit"* had meant to him in Section 104, Row A the night before, while Tyler pulled out his mPhone to show Jordan and Mark photos of the custom hydraulic wheelchair lift inside Unit 01 (*The Iron Horse*) alongside the five-second front flip-out ramp on their Prairie Coachworks RLFD30 low-floor Progress Street shuttle parked right outside in the oversized lot.
 
 When they finally rolled out through the automatic sliding glass doors into the sunny Sunday afternoon at 15:50, Ryan paused his manual chair beside Jordan’s under the covered entrance canopy and shook Jordan’s hand firmly.
 
@@ -21645,10 +21514,11 @@ When they finally rolled out through the automatic sliding glass doors into the 
 
 On Friday morning, July 1, 2016—sixteen months after Zoë had first rendered the 3D architectural wireframe on the dining room table on Geneva Street, and eight months after Jordan had whispered *"Let's build our sanctuary"* in CVICU Room 412—the custom-built Kelly–Anderson–Brooks Compound along the U.S. Route 11 corridor stood finished under the bright July sun.
 
-Where the house on Geneva Street had been a beloved, retrofitted home that carried them through Sophomore Year and Jordan’s post-CABG recovery, the new three-story U.S. 11 residence—connected across all three levels by a smooth Vertical Platform Lift—had been engineered from the bedrock up around Jordan’s body, Mark and Hannah’s marriage, and the lifelong rhythms of their family:
-* The First Floor (The Communal Hub, The Grandparents' Suite, & The Bilateral $1.00 Route 3 Easements): Even though the compound sat in a quiet, rural stretch of unincorporated Montgomery County along U.S. Route 11 (Lee Highway)—the thirty-minute arterial corridor connecting Pepper Plaza Transit Center in downtown Christiansburg (next to the Montgomery County Courthouse) and McConnell Transit Center in Radford—it enjoyed full municipal-grade utilities (three-phase power, municipal water, sanitary sewer, telephone, and high-speed cable) from the inter-town trunk line running down Lee Highway. And because Daniel Brooks had refused to buy a single acre of the property back in 2014 unless the man he considered his son could travel independently on regular fixed-route buses (since Jordan flatly refused scheduled paratransit vans—and was functionally ineligible for paratransit anyway because he had proven he could independently board every fixed-route city bus and over-the-road Bluewater Transit and Roanoke Valley Transit highway coach in the region), Daniel had purchased both the main compound acreage and the parcel directly across the street, conveying a perpetual public transit easement on each side of Lee Highway for $1.00 of legal consideration apiece. Directly at the edge of the front driveway stood the privately funded, covered Blue Ridge Transit Route 3 shelter (towards Christiansburg: 3 CHRISTIANSBURG * 3 via LEE HWY), connected to the front porch by a heated, zero-grade brushed-concrete walkway, while directly across the street on Daniel's north parcel sat the matching ADA concrete landing pad and paved bus pull-out bay (towards Radford: 3 RADFORD * 3 via LEE HWY) linked by an illuminated crosswalk. Inside, the main floor featured sweeping forty-eight-inch hallways with recessed oak wall bumpers, zero-threshold pocket doors, a massive communal living and dining area, dual-height kitchen islands where Jordan could roll right beside Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica Gallagher, Isabel, Megan, Mark, and Hannah to prep dinner together, and a private, fully accessible Grandparents' Suite for Daniel and Laura Brooks.
-* The Second Floor (The Anderson Wing): Above the communal hub sat Mark and Hannah’s private Anderson Suite, complete with their master bedroom, private living area, and engineering study.
-* The Basement (The Pact Wing & The Sunken Sanctuary): Accessible via the Vertical Platform Lift, the entire lower level served as the private living sanctuary for Jordan and the women of the Pact—complete with a private living area, a kitchenette, dedicated workspaces, and, at its heart, the master suite housing The Sunken Sanctuary.
+Where the house on Geneva Street had been a beloved, retrofitted home that carried them through Sophomore Year and Jordan’s post-CABG recovery, the new three-story U.S. 11 residence—connected across all three levels by a smooth Vertical Platform Lift—had been engineered from the bedrock up around Jordan’s body, Mark and Hannah’s marriage, and the lifelong rhythms of their family.
+
+Even though the compound sat in a quiet, rural stretch of unincorporated Montgomery County along U.S. Route 11 (Lee Highway)—the thirty-minute arterial corridor connecting Pepper Plaza Transit Center in downtown Christiansburg next to the Montgomery County Courthouse with McConnell Transit Center in Radford—the first floor enjoyed full municipal-grade utilities, including three-phase power, municipal water, sanitary sewer, telephone, and high-speed cable from the inter-town trunk line running down Lee Highway. Because Daniel Brooks had refused to buy a single acre of the property back in 2014 unless the man he considered his son could travel independently on regular fixed-route buses (since Jordan flatly refused scheduled paratransit vans, and was functionally ineligible for paratransit anyway after proving he could independently board every fixed-route city bus and over-the-road Bluewater Transit and Roanoke Valley Transit highway coach in the region), Daniel had purchased both the main compound acreage and the parcel directly across the street, conveying a perpetual public transit easement on each side of Lee Highway for $1.00 of legal consideration apiece. Directly at the edge of the front driveway stood the privately funded, covered Blue Ridge Transit Route 3 shelter toward Christiansburg, connected to the front porch by a heated, zero-grade brushed-concrete walkway, while directly across the street on Daniel's north parcel sat the matching ADA concrete landing pad and paved bus pull-out bay toward Radford, linked by an illuminated crosswalk. Inside, the main floor featured sweeping forty-eight-inch hallways with recessed oak wall bumpers, zero-threshold pocket doors, a massive communal living and dining area, dual-height kitchen islands where Jordan could roll right beside Aubrie Jean, Madison, Zoë, Lauren, Sarah, Jessica Gallagher, Isabel, Megan, Mark, and Hannah to prep dinner together, and a private, fully accessible Grandparents' Suite for Daniel and Laura Brooks.
+
+Above the communal hub on the second floor sat Mark and Hannah’s private Anderson Wing, complete with their master bedroom, private living area, and engineering study. And down in the walk-out basement—accessible via the Vertical Platform Lift—the entire lower level served as the private Pact Wing for Jordan and the women of the Pact, equipped with a private living area, kitchenette, dedicated workspaces, and, at its heart, the master suite housing The Sunken Sanctuary.
 
 At 11:00 AM, with the moving trucks unloaded and the final inspection certificate signed, Aubrie Jean took Jordan’s left hand, Madison took his right hand, and the remaining six women of the Pact (Zoë, Lauren, Sarah, Jessica, Isabel, and Megan) plus Mark, Hannah, Daniel, and Laura rode down to the Basement Pact Wing and slid open the wide cedar pocket doors of the master suite.
 
@@ -21688,11 +21558,7 @@ Jordan sat up against the velvet bolsters between Aubrie Jean and Madison, his e
 
 "Approved and locked in," Daniel beamed, opening the folder to show the docket confirmation signed by Judge Warren T. Aldridge—the very same Montgomery County Circuit Court Judge who had dismissed Aubrie Sinclair’s fraudulent guardianship petition with prejudice ten months earlier, and who had presided over the unsealing of the CP87A birth-certificate records. "Scheduling the Double Wedding on a Friday meant the Courthouse and the Clerk's Office are open for normal judicial hours—and Judge Aldridge cleared Chamber B at 2:45 PM on Friday, July 15, 2016, specifically for our family."
 
-Mark grinned, counting off the timeline on his fingers:
-1. "1:30 PM: The Double Wedding Ceremony right across the street at the Old Town Ballroom & Conservatory—where Hannah and I say our vows, you and Aubrie Jean say your vows, I offer you Shawn, and Aubrie Jean offers you Kelly."
-2. "2:40 PM: Right after the recessional—while the guests are enjoying cocktail hour and hors d'oeuvres on the conservatory terrace—our immediate family walks two hundred feet across Main Street to the Montgomery County Courthouse."
-3. "2:45 PM: Judge Aldridge signs the Final Order for Change of Name in Chamber B, the Clerk stamps the raised seal onto your new Virginia birth certificate and issues your certified court orders, and you roll back out of those courthouse doors legally and permanently Jordan Shawn Kelly."
-4. "3:12 PM: We walk right back across the street into the Grand Ballroom for the reception entrance, where the announcer introduces you and Aubrie Jean for the very first time in history as Mr. and Mrs. Jordan Shawn and Aubrie Jean Kelly!"
+Mark grinned, counting off the timeline on his fingers. "One-thirty in the afternoon: the Double Wedding Ceremony right across the street at the Old Town Ballroom & Conservatory—where Hannah and I say our vows, you and Aubrie Jean say your vows, I offer you Shawn, and Aubrie Jean offers you Kelly. Two-forty: right after the recessional, while the guests are enjoying cocktail hour and hors d'oeuvres on the conservatory terrace, our immediate family walks two hundred feet across Main Street to the Montgomery County Courthouse. Two-forty-five: Judge Aldridge signs the Final Order for Change of Name in Chamber B, the Clerk stamps the raised seal onto your new Virginia birth certificate and issues your certified court orders, and you roll back out of those courthouse doors legally and permanently Jordan Shawn Kelly. And three-twelve: we walk right back across the street into the Grand Ballroom for the reception entrance, where the announcer introduces you and Aubrie Jean for the very first time in history as Mr. and Mrs. Jordan Shawn and Aubrie Jean Kelly!"
 
 ***
 
@@ -21738,29 +21604,21 @@ Aubrie Jean leaned in to kiss Jordan's lips, then reached out her arms as Madiso
 
 Over the next two weeks leading up to Friday, July 15, 2016, the dining room table at the U.S. 11 Compound transformed into an all-hands Double Wedding Command Center.
 
-Neither Jordan and Aubrie Jean nor Mark and Hannah wanted a sterile, outsourced event run by strangers in headsets who didn't understand sensory pacing, wheelchair turning radii, or the unique architecture of their blended family. Instead, every single person in the household took ownership of a piece of the wedding—turning the two-week countdown into a joyful, collaborative labor of love:
+Neither Jordan and Aubrie Jean nor Mark and Hannah wanted a sterile, outsourced event run by strangers in headsets who didn't understand sensory pacing, wheelchair turning radii, or the unique architecture of their blended family. Instead, every single person in the household took ownership of a piece of the wedding, turning the two-week countdown into a joyful, collaborative labor of love.
 
-1. Zoë Wren Brooks (Master Logistics & Timeline Architecture):
-   Zoë engineered the master `Wedding.Logistics.Schedule` in .NET, breaking Friday, July 15 down into stress-free, sensory-buffered intervals with built-in quiet recovery blocks for Jordan. She mapped out the exact 30-minute venue transformation window (12:30 PM – 1:00 PM) at the Old Town Ballroom & Conservatory, assigning clear zones so the room could be set up with zero chaos before the doors opened.
+Zoë took command of master logistics and timeline architecture, engineering the *Wedding.Logistics.Schedule* in Quantum Sharp to break Friday, July 15 down into stress-free, sensory-buffered intervals with built-in quiet recovery blocks for Jordan, including a precise thirty-minute venue transformation window from 12:30 PM to 1:00 PM at the Old Town Ballroom & Conservatory so every zone could be set up with zero chaos before the doors opened.
 
-2. Mark Anderson, Hannah Parker, & Jordan (Route 3 Transit Timing & The Altar mPad Mount):
-   Rather than renting cramped stretch limousines or a special paratransit van that would separate Jordan from the wedding party, Jordan insisted on riding the regular weekday Blue Ridge Transit Route 3 city bus right from the new shelter at the end of their driveway—taking the scheduled 11:45 AM run toward the Christiansburg Pepper Plaza Transit Center and downtown Main Street, and the 10:45 PM final evening run home. He didn't want a chartered bus or a special favor; he wanted to take himself to his own wedding on the public transit system that had given him his independence. Back in the compound workshop, Mark and Hannah also machined a sleek, low-profile anodized dress bracket for Jordan’s Vanguard Pro so his mPad would sit at a comfortable, unobtrusive angle during the vows without blocking his charcoal three-piece suit or Aubrie Jean's hands.
+Rather than renting cramped stretch limousines or a special paratransit van that would separate Jordan from the wedding party, Jordan worked with Mark and Hannah on Route 3 transit timing—insisting on riding the regular weekday Blue Ridge Transit Route 3 city bus right from the new shelter at the end of their driveway on the scheduled 11:45 AM run toward downtown Main Street and the 10:45 PM final evening run home. He didn't want a chartered bus or a special favor; he wanted to take himself to his own wedding on the public transit system that had given him his independence. Back in the compound workshop, Mark and Hannah also machined a sleek, low-profile anodized dress bracket for Jordan’s Vanguard Pro so his mPad would sit at a comfortable, unobtrusive angle during the vows without blocking his charcoal three-piece suit or Aubrie Jean's hands.
 
-3. Sarah Braithwaite & Mark (Conservatory Acoustics & Direct mPad Audio Integration):
-   Because the Old Town Ballroom & Conservatory featured a vaulted glass-and-limestone atrium where a small tablet speaker could easily get lost, Sarah and Mark visited the venue with a portable digital mixer and a balanced direct-input (DI) wireless transmitter for Jordan’s mPad. They tuned the room's equalization curve so that when Jordan tapped his vows in his Sydney voice, the audio would flow directly through the conservatory's warm acoustic array at the exact same natural volume and warmth as Aubrie Jean's, Mark's, and Hannah's wireless lapel microphones.
+Because the Old Town Ballroom & Conservatory featured a vaulted glass-and-limestone atrium where a small tablet speaker could easily get lost, Sarah Braithwaite and Mark visited the venue with a portable digital mixer and a balanced direct-input wireless transmitter for Jordan’s mPad. Together, they tuned the room's equalization curve so that when Jordan tapped his vows in his Sydney voice, the audio would flow directly through the conservatory's warm acoustic array at the exact same natural volume and warmth as Aubrie Jean's, Mark's, and Hannah's wireless lapel microphones.
 
-4. Lauren Barnes & Megan Brooks (Floral Design, Color Palette, & The Family Archive):
-   Around the dual-height kitchen island—where Jordan could roll right alongside them trimming stems—Lauren and Megan designed all twenty-four table centerpieces and the conservatory altar arch. They wove together ivory garden roses for the two brides, deep midnight-blue delphiniums honoring the seven Pact bridesmaids, and fresh emerald eucalyptus matching Mark's tie and Hannah's bouquet. Meanwhile, Megan cleaned and calibrated her collection of prime lenses, building a shot list to document every "before" detail of the venue setup and every candid embrace for the permanent family archives.
+Around the dual-height kitchen island—where Jordan could roll right alongside them trimming stems—Lauren Barnes and Megan Brooks designed all twenty-four table centerpieces and the conservatory altar arch, weaving together ivory garden roses for the two brides, deep midnight-blue delphiniums honoring the seven Pact bridesmaids, and fresh emerald eucalyptus matching Mark's tie and Hannah's bouquet, while Megan cleaned and calibrated her prime lenses to document every "before" detail of the venue setup and every candid embrace for the permanent family archives.
 
-5. Jessica Gallagher & Isabel Dawson (The Musical Score, Tailoring, & The Eye-Level Altar Cushion):
-   Jessica and Isabel coordinated directly with the CPI School of Music string quartet and the reception band, preparing the custom chamber arrangement of ["My Anchor Holds"](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) for the processional, ["Electric Color"](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-01-electric-color) for the grand reception entrance, and ["Just Us"](https://music.raggiesoft.com/the-stardust-engine/2008-our-own-frequency?track=1-08-just-us) for the first dance. And when Aubrie Jean mentioned during a dress fitting in Roanoke that she didn't want to tower over Jordan's wheelchair at the altar or force him to crane his neck upward during their vows, Isabel and Jessica commissioned an upholstered midnight-blue velvet kneeling cushion matched to the exact height of Jordan’s Vanguard Pro—ensuring that when Aubrie Jean knelt beside his chair at the altar, the bride and groom would look directly into each other's eyes at zero elevation delta.
+Meanwhile, Jessica Gallagher and Isabel Dawson coordinated directly with the CPI School of Music string quartet and the reception band, preparing the custom chamber arrangement of ["My Anchor Holds"](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds) for the processional, ["Electric Color"](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-01-electric-color) for the grand reception entrance, and ["Just Us"](https://music.raggiesoft.com/the-stardust-engine/2008-our-own-frequency?track=1-08-just-us) for the first dance. And when Aubrie Jean mentioned during a dress fitting in Roanoke that she didn't want to tower over Jordan's wheelchair at the altar or force him to crane his neck upward during their vows, Isabel and Jessica commissioned an upholstered midnight-blue velvet kneeling cushion matched to the exact height of Jordan’s Vanguard Pro—ensuring that when Aubrie Jean knelt beside his chair at the altar, bride and groom would look directly into each other's eyes at zero elevation delta.
 
-6. Madison Scott, Hannah, & Zoë (The Ceremony of the Constellation & The Welcome Sign):
-   Working late over mugs of chamomile tea, Madison and the Pact wrote the seven spoken blessings of the Ceremony of the Constellation (The Releasing and Anchoring of the Groom), while Hannah hand-lettered the wooden welcome easel for the conservatory entrance with a message that captured the heart of both couples:
-   *"Choose a seat, not a side. We're all family here."*
+Working late over mugs of chamomile tea, Madison Scott and the Pact wrote the seven spoken blessings of the Ceremony of the Constellation—the Releasing and Anchoring of the Groom—while Hannah hand-lettered the wooden welcome easel for the conservatory entrance with a message that captured the heart of both couples: *"Choose a seat, not a side. We're all family here."*
 
-7. Daniel & Laura Brooks, Caleb Brooks, and Elana, Stephen, & Stella (Courthouse Logistics, Cargo Van, & Flower Girl Rehearsals):
-   While Daniel finalized the Friday afternoon docket (CL16-001104) with Judge Aldridge's clerk and Laura coordinated the conservatory terrace hors d'oeuvres with Aubrie Jean's parents (the Kellys), Hannah's parents (the Parkers), and Mark's parents (the Andersons), Jordan's older brother Caleb Brooks volunteered the Brooks family cargo van to haul all the floral arrangements, sound gear, guest book, and signage to the ballroom ahead of the bus. And out on the wide first-floor hallway every afternoon, Elana and Stephen practiced guiding twenty-month-old Stella down a forty-foot runner with her satin basket of rose petals—until the little girl giggled with delight every time she reached Jordan's wheelchair at the end of the hall.
+Rounding out the blueprint, while Daniel finalized the Friday afternoon docket (CL16-001104) with Judge Aldridge's clerk and Laura coordinated the conservatory terrace hors d'oeuvres with the Kellys, the Parkers, and the Andersons, Caleb Brooks volunteered the Brooks family cargo van to haul all the floral arrangements, sound gear, guest book, and signage to the ballroom ahead of the bus. And out in the wide first-floor hallway every afternoon, Elana and Stephen practiced guiding twenty-month-old Stella down a forty-foot runner with her satin basket of rose petals—until the little girl giggled with delight every time she reached Jordan's wheelchair at the end of the hall.
 
 By Thursday night, July 14, 2016, every centerpiece was misted in the cooler, every suit and gown was steamed and hanging in the cedar closets, and every member of the family went to sleep knowing that the wedding tomorrow wasn't just an event they were attending—it was a sanctuary they had built with their own hands.
 
@@ -21790,11 +21648,7 @@ Jordan’s smile reached all the way to his eyes. He reached over to the flush t
 
 <aac>"Good morning, future wife. Last morning I ever wake up with the name Fuller."</aac>
 
-Within twenty minutes, the entire household had converged on the great room kitchen, each person already settling into their natural role for the day:
-* Zoë and Lauren sat side-by-side at the counter, reviewing the synchronized timeline on Zoë’s tablet over mugs of tea.
-* Sarah and Madison were practically vibrating with excitement, double-checking the garment bags and boutonniere pins.
-* Megan was already in archivist mode, wiping down her 50mm and 24-70mm lenses with a microfiber cloth and testing the morning light across the dining table.
-* Jessica and Isabel checked the velvet ring boxes and the sheet-music folders for the string quartet.
+Within twenty minutes, the entire household had converged on the great room kitchen, each person already settling into their natural role for the day. Zoë and Lauren sat side-by-side at the counter reviewing the synchronized timeline on Zoë’s tablet over mugs of tea, while Sarah and Madison practically vibrated with excitement as they double-checked the garment bags and boutonniere pins. Nearby, Megan was already in archivist mode, wiping down her 50mm and 24-70mm lenses with a microfiber cloth and testing the morning light across the dining table as Jessica and Isabel checked the velvet ring boxes and the sheet-music folders for the string quartet.
 
 Before the organized whirlwind of hairdryers, curling irons, steaming gowns, and three-piece suits could begin, Laura and Aubrie Jean insisted on a quiet, grounding ritual at the dining table.
 
@@ -21828,13 +21682,14 @@ Zoë stood at the center of the conservatory in her sweeping midnight-blue silk 
 
 "Okay, team, we have thirty minutes until doors open at 13:00. Let's optimize this setup!"
 
-Instantly, every member of the household fanned out across the hall:
-* Lauren and Megan carried the chilled floral centerpieces from Caleb's van to the reception and conservatory tables. Lauren’s fingers moved deftly through the white roses, midnight-blue delphiniums, and emerald eucalyptus—rotating each vase until the sightlines were perfect—while Megan followed right behind her with her DSLR camera, capturing crisp, sunlit photographs of the pristine "before" state for the family archives.
-* Mark and Sarah headed straight to the altar sound rack. Together, they plugged the balanced direct-input (DI) receiver for Jordan’s mPad into Channel 1 of the conservatory mixer and tested the two wireless lapel microphones. When Jordan tapped a test phrase from the center aisle—<aac>"Testing, one, two, three. My anchor holds"</aac>—Sarah adjusted the high-mid warmth on the equalizer until Jordan’s Sydney voice filled the glass atrium with crystal-clear, resonant presence.
-* Zoë and Hannah arranged the oak welcome table just inside the vestibule. They laid out the cream-and-gold leather guest book, and Hannah methodically tested all four archival gold fountain pens on a blotter card to guarantee that not a single pen would skip or smudge when guests signed in. Right beside the table, they positioned the framed wooden easel sign that Hannah had calligraphed:
-  > *Choose a seat, not a side.*<br>
-  > *We're all family here.*
-* Jessica Gallagher and Isabel Dawson walked up the steps of the floral-draped altar, placing the custom midnight-blue velvet kneeling cushion directly to the right of Jordan’s wheelchair position and checking the sightline so Aubrie Jean and Jordan would be completely eye-to-eye, before walking over to cue the string quartet on the tempo of ["My Anchor Holds"](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds).
+Instantly, every member of the household fanned out across the hall. Lauren and Megan carried the chilled floral centerpieces from Caleb's van to the reception and conservatory tables, Lauren’s fingers moving deftly through the white roses, midnight-blue delphiniums, and emerald eucalyptus until the sightlines were perfect while Megan followed right behind her with her DSLR camera, capturing crisp, sunlit photographs of the pristine "before" state for the family archives. At the altar sound rack, Mark and Sarah plugged the balanced direct-input receiver for Jordan’s mPad into Channel 1 of the conservatory mixer and tested the two wireless lapel microphones; when Jordan tapped a test phrase from the center aisle—<aac>"Testing, one, two, three. My anchor holds"</aac>—Sarah adjusted the high-mid warmth on the equalizer until Jordan’s Sydney voice filled the glass atrium with crystal-clear, resonant presence.
+
+Just inside the vestibule, Zoë and Hannah arranged the oak welcome table, laying out the cream-and-gold leather guest book as Hannah methodically tested all four archival gold fountain pens on a blotter card to guarantee that not a single pen would skip or smudge when guests signed in, then positioned the framed wooden easel sign Hannah had calligraphed right beside the table:
+
+> *Choose a seat, not a side.*<br>
+> *We're all family here.*
+
+Up on the floral-draped altar, Jessica Gallagher and Isabel Dawson placed the custom midnight-blue velvet kneeling cushion directly to the right of Jordan’s wheelchair position and checked the sightline so Aubrie Jean and Jordan would be completely eye-to-eye, before walking over to cue the string quartet on the tempo of ["My Anchor Holds"](https://music.raggiesoft.com/the-stardust-engine/1987-electric-color?track=1-03-my-anchor-holds).
 
 Near the front row, Jordan sat in his Vanguard Pro with Aubrie Jean holding his hand and Daniel and Laura Brooks standing warmly beside them. Jordan looked around the sunlit conservatory at his brother, his sister-in-law, and his partners—every single one of them working with quiet, practiced harmony to turn an empty building into a sacred home.
 
@@ -21854,10 +21709,7 @@ At 13:00 sharp, the tall oak doors of the conservatory opened, and the four brid
 
 Just inside the entrance, Daniel and Laura Brooks stood at the head of the receiving line alongside Madison, Zoë, Lauren, Sarah, Jessica, Isabel, and Megan (who kept her camera raised between hugs to capture every candid smile).
 
-Every guest who walked through the doors paused first at Hannah’s easel sign—*"Choose a seat, not a side. We're all family here"*—and smiled as Caleb, Lucas, Owen, and Jacob Brooks ushered everyone into the sunlit rows with zero division between bride's side or groom's side:
-* Aubrie Jean’s family (the Kellys), Hannah’s family (the Parkers), and Mark’s family (the Andersons) sat right alongside the extended Brooks, Barnes, Scott, Braithwaite, Gallagher, and Dawson families, chatting and laughing like old friends.
-* A lively contingent of CPI classmates from the Astrophysics and Civil Engineering departments mingled in the middle rows alongside Jordan’s coworkers and supervisors from Newman Library and the Residence Life team from Bennett Hall and New River Hall (Kelsey Brennan, Henry Walsh, and Garrett Reynolds).
-* And sitting in the front row in a crisp navy suit was Dr. Aris Thorne—the cardiothoracic surgeon from Star City General Hospital who had held Jordan’s stopped heart in his hands eight months earlier and built the four bypass grafts beating steadily inside Jordan’s chest today.
+Every guest who walked through the doors paused first at Hannah’s easel sign—*"Choose a seat, not a side. We're all family here"*—and smiled as Caleb, Lucas, Owen, and Jacob Brooks ushered everyone into the sunlit rows with zero division between bride's side or groom's side. Aubrie Jean’s family, Hannah’s family, and Mark’s family sat right alongside the extended Brooks, Barnes, Scott, Braithwaite, Gallagher, and Dawson families, chatting and laughing like old friends. A lively contingent of CPI classmates from the Astrophysics and Civil Engineering departments mingled in the middle rows alongside Jordan’s coworkers and supervisors from Pendleton Library and the Residence Life team from Bennett Hall and New River Hall—Kelsey Brennan, Henry Walsh, and Garrett Reynolds—while right in the front row in a crisp navy suit sat Dr. Aris Thorne, the cardiothoracic team surgeon from Star City General Hospital who had helped rebuild the bypass grafts beating steadily inside Jordan’s chest today.
 
 Just as powerful as who was in the room was who was *not*.
 
@@ -21873,22 +21725,21 @@ The vestibule doors swung wide, and the string quartet began the warm, soaring c
 
 First down the aisle walked Elana (guiding her power chair with effortless grace alongside Stella in her polished burgundy service harness) and Stephen, holding the hand of twenty-month-old Stella as the little girl beamed and tossed white and midnight-blue rose petals across the oak runner.
 
-Then came the seven women of the Pact—walking one by one in sweeping midnight-blue silk gowns, pausing at the front of the aisle before Jordan’s wheelchair for the Ceremony of the Constellation (The Releasing and Anchoring of the Groom) that they had written together:
+Then came the seven women of the Pact—walking one by one in sweeping midnight-blue silk gowns, pausing at the front of the aisle before Jordan’s wheelchair for the Ceremony of the Constellation that they had written together.
 
-1. Lauren Barnes stepped forward first, taking Jordan’s hands with a bright, tearful smile:
-   *"Jordan, from the day you made us laugh in Suite 214/216, you brought joy and warmth into our lives. I stand with you today and always."*
-2. Sarah Braithwaite stepped forward second, pressing her hand gently over his shoulder:
-   *"Jordan, you taught us that quietness is not emptiness, and that gentleness is the greatest strength in the world. I stand with you today and always."*
-3. Jessica Gallagher stepped forward third, her hazel eyes shining as she squeezed his fingers:
-   *"Jordan, when you welcomed me into your harbor in Sophomore Fall, you showed me that love never runs out of room. I stand with you today and always."*
-4. Zoë Wren Brooks stepped forward fourth, her posture straight and her voice clear with deep emotion:
-   *"Jordan, you are the brother of my heart and the center of our home's architecture. There is no anomaly we will ever face that we will not solve together. I stand with you today and always."*
-5. Isabel Dawson stepped forward fifth, brushing a tender hand across his cheek:
-   *"Jordan, from the second floor of Bennett Hall to the rest of our lives, watching you claim your voice has been the greatest honor of my life. I stand with you today and always."*
-6. Megan Brooks stepped forward sixth, leaning down to kiss his forehead with tears glistening on her lashes:
-   *"Jordan, we looked up at the winter constellations and found a home that spans the stars. I stand with you today and always."*
-7. Madison Scott stepped forward seventh—the first woman who had ever proposed the Pact in September 2014—taking both of his hands and looking deep into his green eyes:
-   *"Jordan, two years ago I promised Aubrie Jean that we would never let you fall, and that we would build a constellation around you that nothing could ever break. Today, all seven of us place your hands into the hands of the woman who anchored us from day one—not to say goodbye, but to seal the center of our home forever."*
+Lauren Barnes stepped forward first, taking Jordan’s hands with a bright, tearful smile. *"Jordan, from the day you made us laugh in Suite 214/216, you brought joy and warmth into our lives. I stand with you today and always."*
+
+Sarah Braithwaite stepped forward second, pressing her hand gently over his shoulder. *"Jordan, you taught us that quietness is not emptiness, and that gentleness is the greatest strength in the world. I stand with you today and always."*
+
+Jessica Gallagher stepped forward third, her hazel eyes shining as she squeezed his fingers. *"Jordan, when you welcomed me into your harbor in Sophomore Fall, you showed me that love never runs out of room. I stand with you today and always."*
+
+Zoë Wren Brooks stepped forward fourth, her posture straight and her voice clear with deep emotion. *"Jordan, you are the brother of my heart and the center of our home's architecture. There is no anomaly we will ever face that we will not solve together. I stand with you today and always."*
+
+Isabel Dawson stepped forward fifth, brushing a tender hand across his cheek. *"Jordan, from the second floor of Bennett Hall to the rest of our lives, watching you claim your voice has been the greatest honor of my life. I stand with you today and always."*
+
+Megan Brooks stepped forward sixth, leaning down to kiss his forehead with tears glistening on her lashes. *"Jordan, we looked up at the winter constellations and found a home that spans the stars. I stand with you today and always."*
+
+Madison Scott stepped forward seventh—the first woman who had ever proposed the Pact in September 2014—taking both of his hands and looking deep into his green eyes. *"Jordan, two years ago I promised Aubrie Jean that we would never let you fall, and that we would build a constellation around you that nothing could ever break. Today, all seven of us place your hands into the hands of the woman who anchored us from day one—not to say goodbye, but to seal the center of our home forever."*
 
 ```
 ZOË.Systems.Logs.EmotionalStateLog:
@@ -22048,24 +21899,21 @@ At the center of the floor, Mark pulled Hannah close as they swayed in slow circ
 
 "Look at us, Mr. Kelly," Aubrie Jean whispered against his temple, her eyes bright with happy tears as the spotlight traced the platinum band on her finger. "No hospital monitors. No court petitions left to fight. Just us."
 
-Halfway through the song, just as they had planned, the circle opened:
-* Madison stepped in first as Aubrie Jean stood beside Jordan’s chair, taking Jordan’s hand while Aubrie Jean rested her palm on his shoulder so the three of them—the original heartbeat of Suite 214—turned together under the warm lights;
-* Then Zoë, Lauren, Sarah, Jessica Gallagher, Isabel, and Megan each glided in turn across the floor with them, until all eight women of his constellation and Mark and Hannah were dancing in a single luminous ring at the center of the ballroom.
+Halfway through the song, just as they had planned, the circle opened. Madison stepped in first as Aubrie Jean stood beside Jordan’s chair, taking Jordan’s hand while Aubrie Jean rested her palm on his shoulder so the three of them—the original heartbeat of Suite 214—turned together under the warm lights. Then Zoë, Lauren, Sarah, Jessica Gallagher, Isabel, and Megan each glided in turn across the floor with them, until all eight women of his constellation alongside Mark and Hannah were dancing in a single luminous ring at the center of the ballroom.
 
 At 16:30, everyone took their seats for dinner. Rather than a raised platform dais that would have required a clunky temporary ramp, Zoë and Mark had arranged a sweeping, floor-level crescent head table where Jordan’s Vanguard Pro rolled directly into the center space between Aubrie Jean and Madison, flanked by Mark, Hannah, Zoë, Lauren, Sarah, Jessica, Isabel, and Megan.
 
-As platters of herb-roasted Virginia Shenandoah chicken, garlic-seared beef tenderloin, roasted summer vegetables, and warm sourdough rolls were served across the hall, the toasts began:
+As platters of herb-roasted Virginia Shenandoah chicken, garlic-seared beef tenderloin, roasted summer vegetables, and warm sourdough rolls were served across the hall, the toasts began.
 
-* Thomas Kelly—Aubrie Jean’s father—stood first, looking down the head table at Jordan with misting eyes.
-  *"When Aubrie Jean called us during her freshman fall to tell us about the young man across the suite who had survived eighteen years of silence,"* Thomas said, his voice warm and steady, *"all any father ever prays for is that his daughter finds someone who treasures her heart. Jordan, watching the way you listen to her, the way you fought to come back to her last November, and the courage you showed in that courthouse today—I want you to know that you aren't just borrowing the Kelly name, son. You do our family's name proud."*
-* Daniel Brooks rose next, raising his glass to Mark and Jordan.
-  *"Two years ago, Laura and I thought we knew the shape of our family,"* Daniel smiled. *"Then Mark came home from Bennett Hall and told us about a freshman in a wheelchair who needed a family in his corner—and our daughter Zoë told us she had found the brother of her soul. Mark, Hannah, Jordan, Aubrie Jean, and every woman at this head table: you have taught this old trial lawyer that the strongest law on earth is love chosen freely every single day."*
-* Mark Anderson stood beside Hannah, resting his hand on Jordan’s shoulder as he lifted his glass:
-  *"Civil engineers spend four years at CPI learning about load-bearing paths, tensile strength, and foundations,"* Mark said. *"Between Hannah holding me steady and my little brother Jordan showing all of us how to rebuild from the bedrock up, I'm the luckiest man in Virginia. To my wife Hannah Parker Anderson, and to my brother Jordan Shawn Kelly!"*
-* Madison Scott took the microphone on behalf of the seven bridesmaids, smiling at Aubrie Jean and Jordan:
-  *"People outside this room sometimes wonder how a family shaped like ours works,"* Madison said, drawing warm laughter and nods from every table. *"It works because nobody in this constellation ever asks anyone else to shrink. To Jordan and Aubrie Jean, and to Mark and Hannah—welcome to the first night of forever."*
-* Finally, Dr. Aris Thorne stepped briefly to the microphone from the front table with a warm smile.
-  *"Medical textbooks can explain how a saphenous vein or an internal mammary artery graft restores blood flow to the myocardium,"* Dr. Thorne told the hushed ballroom, looking straight at Jordan and Aubrie Jean. *"What medical textbooks cannot explain—until you meet this family—is how eight women, a brother, and a sister-in-law can stand around an ICU bed in Roanoke and will a young man back from the edge of eternity. To Jordan Shawn Kelly and Aubrie Jean Kelly, and to Mark and Hannah Anderson: may your hearts beat strong for eighty years to come."*
+Thomas Kelly, Aubrie Jean’s father, stood first, looking down the head table at Jordan with misting eyes. *"When Aubrie Jean called us during her freshman fall to tell us about the young man across the suite who had survived eighteen years of silence,"* Thomas said, his voice warm and steady, *"all any father ever prays for is that his daughter finds someone who treasures her heart. Jordan, watching the way you listen to her, the way you fought to come back to her last November, and the courage you showed in that courthouse today—I want you to know that you aren't just borrowing the Kelly name, son. You do our family's name proud."*
+
+Daniel Brooks rose next, raising his glass to Mark and Jordan. *"Two years ago, Laura and I thought we knew the shape of our family,"* Daniel smiled. *"Then Mark came home from Bennett Hall and told us about a freshman in a wheelchair who needed a family in his corner—and our daughter Zoë told us she had found the brother of her soul. Mark, Hannah, Jordan, Aubrie Jean, and every woman at this head table: you have taught this old trial lawyer that the strongest law on earth is love chosen freely every single day."*
+
+Mark Anderson stood beside Hannah, resting his hand on Jordan’s shoulder as he lifted his glass. *"Civil engineers spend four years at CPI learning about load-bearing paths, tensile strength, and foundations,"* Mark said. *"Between Hannah holding me steady and my little brother Jordan showing all of us how to rebuild from the bedrock up, I'm the luckiest man in Virginia. To my wife Hannah Parker Anderson, and to my brother Jordan Shawn Kelly!"*
+
+Madison Scott took the microphone on behalf of the seven bridesmaids, smiling at Aubrie Jean and Jordan. *"People outside this room sometimes wonder how a family shaped like ours works,"* Madison said, drawing warm laughter and nods from every table. *"It works because nobody in this constellation ever asks anyone else to shrink. To Jordan and Aubrie Jean, and to Mark and Hannah—welcome to the first night of forever."*
+
+Finally, Dr. Aris Thorne stepped briefly to the microphone from the front table with a warm smile. *"Medical textbooks can explain how a saphenous vein or an internal mammary artery graft restores blood flow to the myocardium,"* Dr. Thorne told the hushed ballroom, looking straight at Jordan and Aubrie Jean. *"What medical textbooks cannot explain—until you meet this family—is how eight women, a brother, and a sister-in-law can stand around an ICU bed in Roanoke and will a young man back from the edge of eternity. To Jordan Shawn Kelly and Aubrie Jean Kelly, and to Mark and Hannah Anderson: may your hearts beat strong for eighty years to come."*
 
 After cutting the four-tier vanilla-bean and Blue Ridge blackberry wedding cake—where Aubrie Jean playfully dabbed a tiny dot of buttercream onto the tip of Jordan’s nose before kissing it off to a chorus of cheers and the click of Megan’s camera shutter—the dance floor stayed packed for the rest of the evening. Jordan rolled from table to table with Aubrie Jean and his partners, laughing with his Newman Library colleagues, trading astrophysics jokes with his classmates, and hugging Bob Scott and Emily Jenkins before the out-of-town families began their drives home.
 
@@ -22276,10 +22124,7 @@ Observed Subject State: Acute defensive flight response triggered by residual ma
 Action: Deploying immediate legal and physical reassurance protocol prior to 09:00 bell. 08-22-2016 08:54:12
 ```
 
-Inside the two minutes before the nine o'clock bell, right there in the quiet alcove outside Room 104, Aubrie Jean and Zoë gave Jessamine the clear, factual truth that lifted four years of terror off her shoulders:
-* How he had stood up to his mother during Freshman Fall and served her with a permanent university and police No-Contact Directive;
-* How his mother had filed a fraudulent adult guardianship petition against him the following summer, only for the Montgomery County Circuit Court to dismiss her case with prejudice and remand her into custody for civil contempt and felony perjury;
-* And how, five weeks ago on July 15, 2016, in that exact same courthouse across Main Street from their wedding ceremony, he had legally terminated the birth name his mother had used to own him—becoming Jordan Shawn Kelly.
+Inside the two minutes before the nine o'clock bell, right there in the quiet alcove outside Room 104, Aubrie Jean and Zoë gave Jessamine the clear, factual truth that lifted four years of terror off her shoulders—telling her how he had stood up to his mother during Freshman Fall and served her with a permanent university and police No-Contact Directive; how his mother had filed a fraudulent adult guardianship petition against him the following summer, only for the Montgomery County Circuit Court to dismiss her case with prejudice and remand her into custody for civil contempt and felony perjury; and how, five weeks ago on July 15, 2016, in that exact same courthouse across Main Street from their wedding ceremony, he had legally terminated the birth name his mother had used to own him, becoming Jordan Shawn Kelly.
 
 Jessamine stared from Aubrie Jean to Zoë, and then back down at the young man in the wheelchair, her hand rising slowly to cover her mouth as four years of fear began to crack apart—while her reeling brain tried simultaneously to process that Aubrie Sinclair was truly gone and to rewire the name she had carried in her heart since she was sixteen.
 

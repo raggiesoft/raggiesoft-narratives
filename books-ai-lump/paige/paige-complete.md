@@ -3348,15 +3348,7 @@ On the field, the band began to move. They didn't just walk in circles. They exp
 The music shifted. The low brass—the tubas and trombones—began a deep, rumbling ostinato. The trumpets soared over the top, playing a melody that sounded like flight.
 
 
-The band split into three sections.
-
-- Left: A swirling galaxy of flutes and clarinets.
-
-- Right: A rigid grid of percussion.
-
-- Center: A phalanx of trumpets moving in a wedge.
-
-They marched blind, trusting the count, trusting the person next to them.
+The band split cleanly into three distinct formations across the turf. To the left, flutes and clarinets wheeled outward in a swirling galaxy, while a rigid grid of percussion anchored the right flank and a phalanx of trumpets drove down the center in a sharp wedge. They marched blind, trusting the count, trusting the person next to them.
 
 "They are operating as a single organism," Freddie said, a smile breaking across his face. "No variables. Just code."
 
@@ -4270,13 +4262,10 @@ She spun the binder around so he could read it. The header read: *DIAGNOSTIC CRI
 
 Freddie leaned in. He adjusted his glasses. He began to read.
 
-- Criterion A: Qualitative impairment in social interaction... failure to develop peer relationships appropriate to developmental level... lack of social or emotional reciprocity.
-
-- Criterion B: Restricted repetitive and stereotyped patterns of behavior, interests, and activities... encompassing preoccupation with one or more stereotyped and restricted patterns of interest that is abnormal either in intensity or focus.
-
-- Criterion C: Clinically significant impairment in social, occupational, or other important areas of functioning.
-
-- Sensory Processing: Hyper- or hypo-reactivity to sensory input (e.g., apparent indifference to pain/temperature, adverse response to specific sounds or textures, excessive smelling or touching of objects).
+> - Criterion A: Qualitative impairment in social interaction... failure to develop peer relationships appropriate to developmental level... lack of social or emotional reciprocity.
+> - Criterion B: Restricted repetitive and stereotyped patterns of behavior, interests, and activities... encompassing preoccupation with one or more stereotyped and restricted patterns of interest that is abnormal either in intensity or focus.
+> - Criterion C: Clinically significant impairment in social, occupational, or other important areas of functioning.
+> - Sensory Processing: Hyper- or hypo-reactivity to sensory input (e.g., apparent indifference to pain/temperature, adverse response to specific sounds or textures, excessive smelling or touching of objects).
 
 Freddie read the list. Then he read it again. He felt a strange sensation in his chest. It wasn't the panic of a meltdown. It was the click of a lock tumbling into place. "The intensity of focus," Freddie whispered, tapping the page. "The Architecture. The file structures." "And the sensory input," Paige pointed out, reading over his shoulder. "The textures. The clothing tags. The lights at the graduation."
 
@@ -4290,11 +4279,9 @@ Freddie looked back at the binder. He touched the word Autism. For eighteen year
 
 "We don't try to 'fix' you," Jessica explained. "We engineer the environment to match the hardware. We control the inputs so you don't crash." She pointed to the list.
 
-- Deep Pressure Therapy: Use of weighted blankets or compression garments to regulate the nervous system.
-
-- Vestibular Input: Rhythmic movement (rocking, swinging) to soothe anxiety.
-
-- Visual Control: Reduction of fluorescent lighting; use of natural or incandescent light.
+> - Deep Pressure Therapy: Use of weighted blankets or compression garments to regulate the nervous system.
+> - Vestibular Input: Rhythmic movement (rocking, swinging) to soothe anxiety.
+> - Visual Control: Reduction of fluorescent lighting; use of natural or incandescent light.
 
 "We’re already doing some of this," Paige noted. "The hugging. The squeezing in the bed. That’s Deep Pressure Therapy." "Exactly," Jessica said. "You two hacked the system by accident. Now, we're going to do it on purpose." She pulled a pen out of her pocket. "We’re going to build a schedule. A 'Sensory Diet' for the house. We control the lights. We control the noise. We schedule the pressure." She looked at Freddie. "You're the Admin now, Freddie. You tell us what the system needs."
 
@@ -4396,7 +4383,7 @@ Paige nodded against Freddie’s hair. She understood the assignment. "Okay," sh
 
 She stood up again, but this time she kept his hand in hers. "Come on," she said gently. "Command Center."
 
-The Shower They walked into the master bathroom attached to the main bedroom. It was a standard setup: a toilet, a sink, and a bathtub with a showerhead. The fluorescent light buzzed softly overhead. "Sit," Paige instructed, pointing to the toilet. She put the lid down. Freddie sat. He was trembling, his hands gripping his knees. He looked at her, his eyes begging her not to disappear behind the curtain. Paige didn't hesitate. She pulled her t-shirt over her head. She pushed her shorts down. She stood there, completely exposed. She looked at Freddie. He looked at her. It was the first time he had ever seen a female body. It was the first time she had shown one to a guy. But in the small, bright bathroom, with the ghost of a meltdown hovering in the air, it wasn't sexual. It was just biology. It was just Paige.
+They walked into the master bathroom attached to the main bedroom. It was a standard setup: a toilet, a sink, and a bathtub with a showerhead. The fluorescent light buzzed softly overhead. "Sit," Paige instructed, pointing to the toilet. She put the lid down. Freddie sat. He was trembling, his hands gripping his knees. He looked at her, his eyes begging her not to disappear behind the curtain. Paige didn't hesitate. She pulled her t-shirt over her head. She pushed her shorts down. She stood there, completely exposed. She looked at Freddie. He looked at her. It was the first time he had ever seen a female body. It was the first time she had shown one to a guy. But in the small, bright bathroom, with the ghost of a meltdown hovering in the air, it wasn't sexual. It was just biology. It was just Paige.
 
 "See?" Paige said softly. "Just skin. Just me." Freddie stared. He blinked slowly. He didn't look away. The panic in his chest ratcheted down a notch. *She is still here.* "Your turn," Paige said. "You're sweaty from the panic. Let's get the armor off." She helped him stand. She helped him pull off the orange hoodie and the pajama pants. He stood before her, pale and shivering. He opened his mouth to say *It is cold*, but nothing came out. He just shivered violently. "I know," Paige said, reading the shiver. "The water will fix it."
 
@@ -4416,7 +4403,7 @@ Paige took the shampoo. She poured a dollop into her hand. "Lean back a little,"
 
 Freddie sat in the warm water, surrounded by the steam and the scent of soap. He felt cherished. He felt safe. The shame of the meltdown—the embarrassment of needing help—evaporated. He realized he didn't need words. They spoke his language. He let his head loll to the side, resting against Paige’s arm. He let out a long, shaky exhale. It was the only sound he made.
 
-The Cocoon Getting him out was a team effort. Paige turned off the water. Jessica grabbed the big fluffy towel. "Up," Jessica commanded gently. They gripped his arms and hoisted him out of the tub. He was dead weight, but they were strong. He stood on the wet mat, shivering slightly. Jessica wrapped the towel around him instantly, rubbing his shoulders briskly to generate heat. Paige grabbed a second towel and dried his legs. They dried him off completely before they even reached for their own towels. "Dry?" Paige asked. Freddie nodded once.
+Getting him out was a team effort. Paige turned off the water. Jessica grabbed the big fluffy towel. "Up," Jessica commanded gently. They gripped his arms and hoisted him out of the tub. He was dead weight, but they were strong. He stood on the wet mat, shivering slightly. Jessica wrapped the towel around him instantly, rubbing his shoulders briskly to generate heat. Paige grabbed a second towel and dried his legs. They dried him off completely before they even reached for their own towels. "Dry?" Paige asked. Freddie nodded once.
 
 He looked at them. They were still wet, water beading on their skin. He pointed at the door, then at his clothes pile, raising an eyebrow in a silent question. *Clothes?* "Negative," Jessica said, tossing her wet hair back. "We're testing the theory, remember? We sleep without the armor tonight. We trust the room." Freddie looked at Paige. She nodded. Freddie nodded back. *Okay.*
 
@@ -4453,13 +4440,7 @@ She slid out of bed. She walked across the room to him. She didn't rush. She mov
 
 "Damn straight," Jessica said from the bed. "Freddie, listen to me. You are an adult. You pay rent—well, Aunt Margaret pays rent, but your name is on the lease. You make the rules now. If we say nudity is okay, then it's okay. You aren't in trouble. You aren't 'gross.' You're just human."
 
-Freddie looked at Jessica. Then he looked at Paige. They weren't ashamed. They weren't hiding. The "Robert Virus" tried to run its script again, but the firewall of the Iron City blocked it. *Logic Check:*
-
-1.  Are we safe? Yes.
-
-2.  Is the door locked? Yes.
-
-3.  Do the admins approve? Yes.
+Freddie looked at Jessica, then at Paige. Neither of them was ashamed, and neither of them was hiding. The "Robert Virus" tried to run its script again, but the firewall of the Iron City blocked it as he ran a rapid mental check through the facts. They were safe, the bedroom door was locked, and both admins approved.
 
 Freddie’s shoulders dropped. The vibration in his hands slowed. He looked at Paige and tapped his chest, then pointed at her. *Safe.* "Safe," Paige confirmed. She reached out and hugged him—skin on skin, just a brother and a sister grounding each other. "Now," Jessica announced, clapping her hands. "Reboot complete. Let's get some clothes on. I'm starving, and we have administrative tasks to complete."
 
@@ -4556,27 +4537,11 @@ Back at the house on Pepper Street, the energy was electric. Jessica unpacked th
 
 "Cabling," Freddie announced, kneeling behind the stand. He laid out the wires. It was a puzzle he knew how to solve, but there was one piece of geometry that bothered him. The Bit-System (Input 1) only had Mono Audio. If he plugged it in standard, sound would only come out of the Left speaker. *Asymmetry.* The thought made his skin crawl. "Wait," Freddie signed to Paige. He dug into the bottom of the cable bag Jessica had brought. He found it. A small, black cable with one female jack on one end and two male plugs on the other. The Y-Adapter.
 
-"Splitter," Freddie whispered satisfyingly. He began the hookup:
-
-1.  The Hub: He placed the black AV Selector Switch on top of the VCR.
-
-2.  Input 1 (The Bit-System):
-
-    1.  He plugged the single Red audio cable into the side of the grey console.
-
-    2.  He plugged the other end into the female port of the Y-Adapter.
-
-    3.  He plugged the Y-Adapter’s two male ends (Red and White) into the switch.
-
-    4.  *Result:* Dual Mono. Balanced sound from both speakers.
-
-3.  Input 2 (The Super Bit-System): He plugged the standard stereo cable into the back.
-
-4.  Output: He ran the master cable from the switch to the front inputs of the TV.
+"Splitter," Freddie whispered with quiet satisfaction as he began wiring the consoles together. First, he set the black AV Selector Switch squarely on top of the VCR to serve as the central hub. For Input 1 on the grey Bit-System, he plugged the single red audio cable into the side of the console, connected the opposite end to the female port of the Y-adapter, and seated the adapter's red and white male plugs into the switch, splitting the feed into clean dual-mono audio balanced evenly across both speakers. Next, he ran the standard stereo cable from the back of the Super Bit-System into Input 2, then connected the master output cable from the switch to the front jacks of the television.
 
 "Power," Freddie requested. Paige handed him the heavy black power bricks. He plugged them into the surge protector strip. *Click. Click.* The red LEDs on the power strip glowed. "System ready," Freddie said, sitting back on his heels.
 
-The First Boot Jessica came in from the kitchen with three cans of cola. "Moment of truth," she grinned. "Input 2." Freddie pressed the middle button on the switch. *Clunk.*
+Jessica came in from the kitchen with three cans of cola. "Moment of truth," she grinned. "Input 2." Freddie pressed the middle button on the switch. *Clunk.*
 
 He picked up the Super Plumber World cartridge. He blew on the pins—habit, pure and simple—and slid it into the slot. He pushed the purple power switch up. *Click.*
 
@@ -5136,7 +5101,7 @@ A few minutes later, the white bus appeared over the crest of the hill. The dest
 
 They boarded, taking their seats in the cool air conditioning. As the bus wound its way back through the farmland toward Pepper Plaza, Freddie watched his sisters. They were relaxed. The medical logistics were handled. The "Base" was fully operational.
 
-"Next stop," Freddie whispered to himself as the bus rolled on. "Home."\`
+"Next stop," Freddie whispered to himself as the bus rolled on. "Home."
 
 ## Proper Terminology
 
@@ -6690,15 +6655,7 @@ They stripped off the light lounge clothes they had worn for the evening. In the
 
 They climbed into the bed.
 
-The configuration was non-negotiable. It was the only way the Avery Unit could sleep effectively.
-
-The Sandwich Configuration:
-
-- Left Flank: Jessica. The oldest. The Shield. She took the side closest to the door, placing herself between the world and her family.
-
-- Right Flank: Paige. The Anchor. She took the side closest to the wall, creating a soft, immovable boundary.
-
-- The Core: Freddie.
+The configuration was non-negotiable; it was the only arrangement in which the Avery Unit could truly sleep. Jessica, the eldest and their shield, claimed the left flank closest to the bedroom door, placing herself squarely between the outside world and her family. Paige, the anchor, took the right flank against the wall to form a soft, immovable boundary. That left the center for Freddie—the core.
 
 He climbed into the middle. The mattress dipped slightly under their combined weight, creating a gravity well that pulled them together.
 
@@ -7266,17 +7223,7 @@ Jessica shook her head. "It was right on top of them."
 
 The bus merged onto Route 460, the tires hissing on the wet asphalt. Freddie watched the rain streak horizontally across the glass.
 
-He felt empty. The day had taken everything.
-
-- The intellectual friction of the Human Sexuality class.
-
-- The social friction of Krystal’s harassment.
-
-- The sensory violence of the thunder.
-
-- The primal fear of the siren.
-
-He was operating on emergency power.
+He felt hollowed out. The day had taken everything he had—the intellectual friction of the Human Sexuality lecture, the social friction of Krystal’s relentless harassment, the sensory violence of the thunder, and the primal terror of the civil defense siren. Every reserve was spent; he was operating strictly on emergency power.
 
 "I require..." Freddie started, then trailed off. He didn't even have the energy to formulate the request.
 
@@ -7304,13 +7251,7 @@ The silence inside the house was absolute. The air conditioner hummed its steady
 
 They moved to their respective zones. The "Armor" of the day—jeans, shoes, bras, and the sweat of the storm—was stripped away.
 
-Ten minutes later, the Avery Unit reassembled in the living room. They were now in Safe Mode.
-
-Freddie: Wearing soft grey lounge pants and his safety-orange hoodie (zipper open, hood down).
-
-Paige: Wearing an oversized t-shirt and cotton shorts.
-
-Jessica: Wearing flannel pajama pants and a tank top.
+Ten minutes later, the Avery Unit reassembled in the living room in Safe Mode. Freddie wore soft grey lounge pants and his safety-orange hoodie with the zipper open and the hood down, Paige had changed into an oversized t-shirt and cotton shorts, and Jessica was settled in flannel pajama pants and a tank top.
 
 "Food protocol?" Jessica asked, moving to the kitchen phone.
 
@@ -7596,15 +7537,7 @@ She sat up. She didn't ask what was wrong. She knew the sound. She had heard it 
 
 "Lights," Jessica whispered from the left. She reached out and clicked the bedside lamp on to its lowest setting—a dim, warm yellow glow.
 
-Both women sprang into action. They didn't need to communicate; they knew the protocol.
-
-The Comfort Protocol:
-
-1.  Contact: Establish physical presence immediately.
-
-2.  Pressure: Apply weight to ground the system.
-
-3.  Validation: Confirm safety.
+Both women sprang into action without needing to speak a word. Years of practice had distilled the comfort protocol into pure muscle memory: establish physical contact immediately, apply steady weight to ground his nervous system, and validate that the room was secure.
 
 Paige moved first. She scooted across the mattress and wrapped her arms around Freddie’s shaking shoulders. She didn't just hug him; she compressed him. She pulled him hard against her chest.
 
@@ -7887,13 +7820,7 @@ She pointed to the stack of books on the floor.
 
 "If we do it now—just for an hour, while we're comfortable, while Paige is holding you—then it's done. The file is closed. And you can spend the rest of the day at 100% idle. No guilt. No deadlines. Just *Stellar Voyage* and naps."
 
-Freddie processed the logic.
-
-- Option A: Delay work. Result: Anxiety accumulation. Low-quality rest.
-
-- Option B: Execute work now with support. Result: Task completion. High-quality rest. Total freedom.
-
-It was efficient. It was the correct architectural decision.
+Freddie weighed the two paths in his head. Delaying the reading would only let anxiety accumulate in the background and degrade the quality of his rest, whereas executing the work now with his sisters' support would close the task out completely and leave the rest of the afternoon free for genuine recovery. It was efficient. It was the correct architectural decision.
 
 "Clear the buffer," Freddie whispered.
 
@@ -8250,13 +8177,7 @@ She looked at her siblings.
 
 "We have the rest of the day. We have mobility. We have a car. What is the celebration protocol?"
 
-Freddie thought about it. He ran the options.
-
-- *Option A:* Go home. Safe, but routine.
-
-- *Option B:* The Mall. Loud, chaotic.
-
-- *Option C:* Something new. Something they hadn't done yet because they were too busy surviving.
+Freddie considered the question, sorting methodically through the possibilities. Going straight home was safe, though purely routine, and the mall was far too loud and chaotic. That left a third path: trying something new, something none of them had attempted yet because they had been too busy simply surviving.
 
 He looked at the sky. It was blue, clear, and vast.
 
@@ -8649,15 +8570,7 @@ Freddie stopped chewing. He looked at the TV screen, which was now showing b-rol
 
 He saw the flashing strobe lights of the Tilt-A-Whirl. He saw the screaming children running through the crowd. He saw the dense, shoulder-to-shoulder pack of people fighting for space in the heat.
 
-He ran a simulation.
-
-- Input: Flashing lights.
-
-- Variable: Screaming machinery.
-
-- Variable: Unpredictable touching by strangers.
-
-- Variable: Smells (Deep fryer grease mixed with livestock manure and diesel generator exhaust).
+He ran a quick mental simulation of the environment, tallying the flashing lights, the shrieking machinery, the constant hazard of strangers brushing against him in the crowd, and the suffocating miasma of deep-fryer grease mingled with livestock manure and diesel generator exhaust.
 
 "Negative," Freddie stated, putting his burger down. "The proposal is rejected."
 
@@ -8940,15 +8853,7 @@ They stripped down. In the dim light, clothing was just debris—fabric that wou
 
 Just skin. Just the Unit.
 
-They climbed in.
-
-The Formation:
-
-- Left Flank: Jessica. She slid in first, taking the side nearest the door. She was the eldest, the Matriarch, the first line of defense.
-
-- Right Flank: Paige. She took the side against the wall. She was the Anchor, the immovable object.
-
-- The Core: Freddie. He climbed into the center.
+They climbed into their familiar formation. Jessica slid in first on the left flank nearest the door—the eldest, the matriarch, their first line of defense. Paige claimed the right flank against the wall as the anchor, steady and immovable, while Freddie climbed into his place at the center of the bed.
 
 He lay back on the cool sheets. The mattress dipped under their combined weight, creating a gravity well that pulled them together.
 
@@ -9056,13 +8961,7 @@ Freddie sat up slightly, though he kept Paige’s arm around him.
 
 "I'm Vanessa," she said. "I am currently unassigned. My previous lab partner dropped the course. I have a 4.0 GPA in mathematics, and I actually enjoy spreadsheets."
 
-Jessica looked her up and down from the other side. The "Matriarch Scan" was running.
-
-- Smoke smell? Negative. She smelled like soap and old paper.
-
-- Chaotic energy? Negative. She stood perfectly still.
-
-- Reaction to the Hug: Neutral/Positive.
+Jessica looked her up and down from the far side of the row, running her silent assessment. There was no trace of cigarette smoke on her—only clean soap and old paper—nor any chaotic nervous energy in the way she stood still in the aisle, and she had reacted to Paige’s protective hold over Freddie with calm, unbothered acceptance.
 
 "We need a fourth," Jessica admitted, relaxing her shoulders. "I'm Jessica. This is Paige. And the Captain there is Freddie."
 
@@ -9372,11 +9271,7 @@ Across the table, Jessica slowly lowered her red pen.
 
 She didn't speak. She didn't have to. She turned her head and fixed Vanessa with a look that was colder than liquid nitrogen.
 
-It was the "Matriarch Gaze." It was a calculation of utility versus threat.
-
-- Utility: Vanessa does the math. She organizes the data.
-
-- Threat: Vanessa is destabilizing the Core.
+It was the matriarch gaze, a silent calculation weighing utility against threat. Vanessa handled the math and organized the project data, yes, yet right now she was actively destabilizing the core.
 
 The look said clearly: *One more strike. One more word against the Unit, and you are deleted. I don't care if you have a 4.0 GPA. I will drag you out of this library myself.*
 
@@ -9505,9 +9400,7 @@ On either side of him, his sisters watched over him. They weren't missing out on
 In the steam-filled silence on Pepper Street, the Avery Unit was exactly where it was supposed to be: together.
 
 
-Location: Westgate Hall (CPI Campus Housing), Room 304 Status: Discharge
-
-The air in the cramped dorm room smelled of cheap body spray and the lingering humidity of exertion.
+Across campus inside Room 304 of Westgate Hall, the air in the cramped dorm room smelled of cheap body spray and the lingering humidity of exertion.
 
 The door to the hallway clicked shut. The heavy deadbolt slid home with a final *clack*.
 
@@ -10057,17 +9950,7 @@ Freddie stood up.
 
 Freddie walked down the hall. He didn't go to the bathroom. He went to his bedroom.
 
-He had packed the bag that morning. Just the essentials.
-
-- Three pairs of underwear.
-
-- Two t-shirts.
-
-- His spare glasses.
-
-- His medication (enough for three days).
-
-- The Iron-Logic laptop (he couldn't leave the architecture).
+He had packed the bag that morning with only the bare essentials: three pairs of underwear, two t-shirts, his spare glasses, enough of his medication to last three days, and the Iron-Logic laptop, since he couldn't bear to leave the architecture behind.
 
 He put on his orange hoodie. He pulled the hood up.
 
@@ -11081,15 +10964,7 @@ They grabbed a cart. They didn't shop for themselves; they shopped for the Fredd
 
 "Soft foods," Paige muttered, scanning the aisles with laser focus. "He's going to be too tired to chew anything tough."
 
-They loaded the cart with the essentials of the Avery diet:
-
-- Two loaves of soft white bread.
-- A jar of smooth peanut butter (no crunchy; texture risk).
-- Grape jelly.
-- Three boxes of "Honey Oat Rings" (his safe cereal).
-- Two gallons of whole milk.
-- A package of mild cheddar cheese slices.
-- A bag of frozen chicken tenders (easy to heat in the kitchenette oven).
+Methodically, they loaded the cart with the staples of the Avery diet: two loaves of soft white bread, grape jelly, and a jar of smooth peanut butter—never crunchy, which was a texture risk—alongside three boxes of Honey Oat Rings, two gallons of whole milk, a package of mild cheddar cheese slices, and a bag of frozen chicken tenders they could heat quickly in the kitchenette oven.
 
 Then, Jessica stopped in the beverage aisle. She reached for the most critical item on the shelf.
 
@@ -11207,11 +11082,7 @@ Paige was sitting on the edge of the King bed. She was holding the orange pill b
 
 She wasn't just fidgeting. She was calculating.
 
-Her mind was three hundred miles away in Pasco, Washington. She wasn't seeing a vision; she was running a physics simulation based on hard data.
-
-- Variable A: Freddie has been on a vibrating bus for seventy-two hours.
-- Variable B: He has had zero doses of Baclofen.
-- Result: His spasticity is critical. His legs are locked. He is dead weight.
+Her mind was three hundred miles away in Pasco, Washington. She wasn't seeing a psychic vision; she was running a cold physical deduction from hard facts. Freddie had been trapped on a vibrating coach for seventy-two hours without a single dose of Baclofen, which meant his spasticity had reached a critical threshold, locking his legs into dead weight.
 
 "14:15," Paige whispered, staring at the bottle. "Pasco. Restroom stop."
 
@@ -13886,13 +13757,7 @@ Freddie scanned the shelves. He didn't want fancy. He wanted *grounding*.
 
 "Affirmative. Beef franks. We can roast them on the woodstove if the power fails. Or just boil them."
 
-They moved through the small store, gathering the components of a comfort meal.
-
-- A bag of Ridged Potato Chips (essential for the crunch texture).
-
-- A gallon of 2% milk.
-
-- A pack of Milk Chocolate Bars, Honey Grahams, and Marshmallows.
+They moved through the small store gathering the rest of their comfort meal, adding a bag of ridged potato chips for essential crunch, a gallon of two-percent milk, and packs of milk chocolate bars, honey graham crackers, and marshmallows.
 
 "S'mores protocol?" Paige grinned, holding up the bag of marshmallows.
 
@@ -16330,13 +16195,13 @@ Paige turned to Freddie, grabbing his arm to ground him.
 
 Freddie looked at Vanessa. He looked at the hand pressing the flannel.
 
-Then, a different file opened. It wasn't a memory of trauma. It was a memory of hard, medical data.
+Then, a different file opened. It wasn't a memory of trauma; it was the exact printed record from his medical chart.
 
-- Date: 1999
-- Location: Pediatric Specialist, Norfolk
-- Subject: Freddie Avery (Age 14)
-- Result: Anomalous development. Seminal fluid present. Sperm count: Zero.
-- Diagnosis: Azoospermia
+> - Date: 1999
+> - Location: Pediatric Specialist, Norfolk
+> - Subject: Freddie Avery (Age 14)
+> - Result: Anomalous development. Seminal fluid present. Sperm count: Zero.
+> - Diagnosis: Azoospermia
 
 The panic evaporated. The static cleared instantly, replaced by the cool, blue screen of logic.
 
@@ -16486,13 +16351,11 @@ He picked up his pen. "Now, the logistical issue. Service of process. Where do w
 
 "If she has no fixed address, service is difficult," Sterling noted. "We can't mail a letter to a park bench."
 
-Freddie frowned. He accessed his memory archives. He searched for the file labeled *Project Helios: Group Meetings*.
+Freddie frowned. He accessed his memory archives, searching for the file labeled *Project Helios: Group Meetings* until he pulled up February 12, 2004, inside Pendleton Library during their Spring Break logistics discussion.
 
-Date: February 12, 2004. Location: Pendleton Library. Context: Spring Break logistics discussion.
+He saw Vanessa sitting across the table, complaining about the dorms closing for break.
 
-He saw Vanessa sitting across the table. She was complaining about the dorms closing for break.
-
-*Memory Playback:* *"I hate Spring Break," Vanessa had sighed, playing with her pen. "They kick us out of the dorms. I have to go back to my mom's place in Portsmouth. It's a five-hour haul back to the coast, and the house smells like cat litter."*
+*"I hate Spring Break," Vanessa had sighed, playing with her pen. "They kick us out of the dorms. I have to go back to my mom's place in Portsmouth. It's a five-hour haul back to the coast, and the house smells like cat litter."*
 
 Freddie blinked.
 
@@ -16524,15 +16387,16 @@ Sterling turned to his computer. He typed for a moment, accessing the public dir
 
 He turned to his printer. He typed rapidly for five minutes. The printer whirred, spitting out three crisp, heavy sheets of paper on the firm's letterhead.
 
-*NOTICE TO CEASE AND DESIST* RE: Fraudulent Paternity Claims & Trespassing
-
-*To Ms. Vanessa Lawson:*
-
-*Please be advised that we represent Mr. Freddie Avery. We are in possession of medical documentation dated 1999 confirming that Mr. Avery is medically sterile (Diagnosis: Azoospermia).*
-
-*Your claim of paternity is therefore biologically impossible and constitutes an attempt to defraud.*
-
-*You are hereby notified that you are forbidden from entering our property on Pepper Street SE. Any further presence will be treated as criminal trespassing. Any further demands for money will be treated as extortion.*
+> *NOTICE TO CEASE AND DESIST*
+> RE: Fraudulent Paternity Claims & Trespassing
+>
+> *To Ms. Vanessa Lawson:*
+>
+> *Please be advised that we represent Mr. Freddie Avery. We are in possession of medical documentation dated 1999 confirming that Mr. Avery is medically sterile (Diagnosis: Azoospermia).*
+>
+> *Your claim of paternity is therefore biologically impossible and constitutes an attempt to defraud.*
+>
+> *You are hereby notified that you are forbidden from entering our property on Pepper Street SE. Any further presence will be treated as criminal trespassing. Any further demands for money will be treated as extortion.*
 
 Sterling signed all three copies with a flourish. He stamped them with his notary seal.
 
@@ -16863,12 +16727,7 @@ The dining room table was covered in a sea of paperwork. It wasn't the usual clu
 
 At the head of the table sat Great Aunt Marge. She was eighty-two, frail, and breathing with the help of a portable oxygen tank, but her eyes behind her bifocals were as sharp as cut glass.
 
-Surrounding her was a phalanx of professionals she had summoned personally.
-
-- Mr. Sterling: Her estate attorney, a man who wore suspenders and had zero sense of humor.
-- Mrs. Gable: Her real estate agent, there to facilitate the transfer of the title.
-- Dr. Vance: The family physician, there for a specific, legal purpose.
-- A Notary Public: A woman named Brenda with a heavy embossing seal.
+Surrounding her was a phalanx of professionals she had summoned personally: Mr. Sterling, her humorless, suspender-clad estate attorney; Mrs. Gable, her real estate agent, brought in to facilitate the title transfer; Dr. Vance, the family physician, attending for a very specific legal purpose; and Brenda, a notary public armed with a heavy embossing seal.
 
 Sitting opposite them were the Averys: Jessica, Paige, and Freddie. They looked nervous. They felt like they were in a courtroom.
 
@@ -17053,10 +16912,7 @@ But Marge hadn't cared about shame. Marge had cared about *him*.
 
 That night, they didn't just sleep; they hibernated.
 
-Freddie lay in the middle of the King bed.
-
-- Left Flank: Paige, her leg thrown over his hip to anchor him.
-- Right Flank: Jessica, back-to-back with him, a solid wall against the door.
+Freddie lay in the middle of the King bed with Paige on his left flank, her leg thrown across his hip to anchor him, and Jessica pressed back-to-back against him on his right as a solid wall facing the door.
 
 Ellen called it "sick." Robert called it "weird." But as Freddie drifted off, surrounded by the heat and scent of his sisters, he knew the truth.
 
@@ -17770,13 +17626,7 @@ The Laundry Brigade resumed operations. The washer churned, the dryer hummed, an
 
 Upstairs, the house was quiet, save for the muffled rumble of the washer below the floorboards.
 
-Freddie sat on the sofa. He was completely surrounded.
-
-- Port Side: Paige was glued to him. She was reading a book, but her head was on his shoulder, and her hand was holding his hand, tracing the lines of his palm.
-
-- Starboard Side: Amanda sat cross-legged next to him. She was drawing in a sketchbook, occasionally resting her head on his knee to check in.
-
-- Forward Position: Elara sat on the floor, leaning back against his legs, reading a comic book.
+Freddie sat on the sofa, completely surrounded. On his port side, Paige was glued to him, reading a book with her head resting on his shoulder while her free hand held his and traced the lines of his palm. To starboard, Amanda sat cross-legged on the cushion drawing in a sketchbook, occasionally resting her head against his knee to check in, while Elara held the forward position on the floor, leaning back against his shins with a comic book.
 
 Freddie felt the weight of them. It was heavy. It was hot.
 
@@ -17984,13 +17834,7 @@ She stopped. Aunt Linda stopped beside her.
 
 They looked at the living room.
 
-It was a sculpture of human entanglement. Freddie was barely visible. He was the buried foundation of a structure built entirely of sisters.
-
-- Paige was the immovable wall on his left, her arm locked through his, her eyes darting up to check the door before relaxing when she saw it was just them.
-
-- Amanda was draped over his lap, asleep, her face pressed into his neck.
-
-- Elara was perched on the back of the sofa, her arms wrapped around his forehead, her chin resting on his hair.
+It was a sculpture of human entanglement. Freddie was barely visible beneath them, the buried foundation of a structure built entirely of sisters. Paige formed an immovable wall on his left with her arm locked through his, her eyes darting up to check the front door before relaxing once she saw it was only them. Amanda lay draped across his lap fast asleep with her face pressed into his neck, while Elara perched along the back of the sofa, her arms wrapped loosely around his forehead and her chin resting on top of his hair.
 
 Aunt Linda set her bags down quietly. She watched them for a moment.
 
@@ -18779,17 +18623,7 @@ The delivery driver was a teenager named Kyle. He stood on the porch holding fiv
 
 They loaded the dining room table. It was a tight squeeze. The table was extended to its limit, but with nine people and five pizzas, there was barely room for elbows.
 
-The Seating Chart:
-
-- Head of Table: Freddie (The Core).
-
-- Right Flank: Paige (The Anchor). She served Freddie his slice (Pepperoni), cutting it into strips for him so he didn't have to struggle with the floppy crust.
-
-- Left Flank: Jessica (The Shield).
-
-- Center Stage: Sarah and Jenna (The Birthday Girls).
-
-- The Satellites: Harper, Amanda, Elara, and Aunt Linda filled in the gaps.
+Everyone settled into position around the crowded table. Freddie took the head of the table, flanked on his right by Paige—who served him a slice of pepperoni pizza and cut it neatly into strips so he wouldn't have to wrestle with the floppy crust—and on his left by Jessica. Sarah and Jenna claimed center stage as the birthday girls, while Harper, Amanda, Elara, and Aunt Linda filled in every remaining gap along the sides.
 
 "A toast!" Aunt Linda announced, raising a red plastic cup of Citrus-Pop.
 
@@ -19277,24 +19111,7 @@ The mechanism unfolded. The beige sofa transformed into a Queen-sized sleeper be
 
 Sarah and Jenna returned from the basement, dragging bundles of vinyl. The electric pumps roared to life—VRRRRRRRRR—filling the living room with the sound of inflation.
 
-One by one, the "Platoon" took shape on the floor.
-
-
-- Command Module (Sofa Bed):
-
-  - Freddie transferred from his wheelchair to the center of the Queen bed. He lay back against the pillows, finally taking the weight off his spine.
-
-  - Paige climbed in on his left (Port Side).
-
-  - Jessica climbed in on his right (Starboard Side). It was a tight squeeze for three adults, but they fit like puzzle pieces—a solid wall of Averys.
-
-- The Perimeter (The Floor):
-
-  - Sarah and Jenna took two twin air mattresses on the far side of the room, near the window.
-
-  - Amanda and Elara shared a double air mattress near the kitchen entrance.
-
-  - Aunt Linda claimed a twin mattress near the armchair, acting as the overseer.
+One by one, the platoon took shape across the living room. On the pull-out sofa bed serving as the command module, Freddie transferred from his wheelchair into the center of the Queen mattress and lay back against the pillows, finally taking the weight off his spine. Paige climbed in on his left and Jessica took his right; it was a tight squeeze for three adults, yet they fit together like puzzle pieces into a solid wall of Averys. Around them on the floor perimeter, Sarah and Jenna claimed two twin air mattresses along the far wall beneath the window, Amanda and Elara shared a double air mattress near the kitchen doorway, and Aunt Linda settled onto a twin mattress beside the armchair as the night's overseer.
 
 That left one spot.
 
@@ -19987,18 +19804,7 @@ They moved to the stairs—a procession of pale shapes in the dark house.
 
 They entered the Master Bedroom. The blackout curtains were sealed tight. The room was pitch black, cool, and silent.
 
-They climbed into the massive bed.
-
-
-- Center: Freddie. The Core.
-
-- Left Flank: Paige (The Anchor). She curled into his side, leg over his, hand on his chest.
-
-- Right Flank: Jessica (The Shield). She pressed her back against his, locking him in.
-
-- Far Left: Jenna (The Roof/Chaos). She sprawled next to Paige, stealing the pillow but draping an arm over the pile.
-
-- Far Right: Sarah (The Clamp). She took the edge, but she reached across Jessica to grip Freddie’s wrist. A static, verifying hold.
+They climbed into the massive bed and settled into place around Freddie at the center. Paige curled into his left side with her leg draped over his and her palm resting flat on his chest, while Jessica pressed her back firmly against his right side to lock him in. Beyond Paige on the far left, Jenna sprawled out, stealing half the pillow while flinging an arm across the pile, and on the far right edge Sarah reached carefully across Jessica to keep a steady, verifying grip on Freddie’s wrist.
 
 It was tight. They were shoulder-to-shoulder, skin-to-skin.
 
@@ -20252,7 +20058,7 @@ She typed: wheelchair lift for stairs
 
 Two types of results appeared.
 
-Option A: The Chair Lift The first image showed an elderly woman smiling as she sat on a beige seat sliding up a rail.
+The first image showed a standard stair chair lift, with an elderly woman smiling as she rode a beige seat up a narrow rail.
 
 "No," Freddie said instantly. He recoiled slightly in his chair. "Absolutely not."
 
@@ -20260,7 +20066,7 @@ Option A: The Chair Lift The first image showed an elderly woman smiling as she 
 
 "It requires a transfer," Freddie explained, his voice tight. "I would have to get out of The Rover. I would have to sit in that... seat. I would have to ride down slowly, exposed. And then? I would need a *second* wheelchair waiting at the bottom. I do not leave the vehicle."
 
-Option B: The Inclined Platform Lift Jessica clicked the next link. "Okay, what about this?" Jessica asked. "It's called an Inclined Platform Lift. It’s a platform that rides the rails. You roll The Rover right onto it, and it carries you down the stairs."
+Jessica clicked the next link. "Okay, what about this?" Jessica asked. "It's called an Inclined Platform Lift. It’s a platform that rides the rails. You roll The Rover right onto it, and it carries you down the stairs."
 
 Freddie leaned forward. "Better," he admitted. "No transfer. I stay in the chassis."
 
@@ -20280,7 +20086,7 @@ She typed: Thu-Floor Lift home
 
 The results populated with images of industrial equipment.
 
-Option C: The Shaft Lift The image showed a simple platform inside a Plexiglas box.
+The top result showed a vertical shaft lift—a simple platform enclosed inside a clear acrylic box.
 
 Indoor Installation: Requires a hoistway (shaft) constructed of drywall or plexiglass to prevent shear hazards.
 
@@ -20374,13 +20180,7 @@ Jessica clicked the price tag. \$7,500 (Mattress Only). Custom Freight Shipping 
 
 She opened a new tab. combine mattresses to make bigger bed
 
-The results were full of "family bed" forums and DIY hacks.
-
-- Option A: Two Full Beds side-by-side. (54" + 54" = 108"). Same width as an Alaskan King.
-
-- Option B: King + Twin XL. (76" + 38" = 114").
-
-- Option C: Two Queen Beds. (60" + 60" = 120").
+The results were full of family-bed forums and DIY layouts comparing different combinations: two Full mattresses side by side for a combined nine-foot width matching an Alaskan King, a King paired with a Twin XL at a hundred and fourteen inches, or two Queen mattresses side by side spanning a full hundred and twenty inches.
 
 "Two Queens," Freddie calculated instantly. "Total width: 10 feet. Depth: 80 inches. That provides 24 inches of lateral space per person."
 
@@ -20536,13 +20336,7 @@ She leaned against the counter, looking pleased with herself.
 
 "Now," Jessica said, pointing to the drawing of the basement corner. "Phase Two: The Wet Room. We need to finalize the materials list. The plumber is coming tomorrow to rough in the shower drain."
 
-They looked at the schematic.
-
-The Pittsburgh Toilet Upgrade:
-
-- Existing: One exposed toilet on a concrete slab.
-
-- New: A framed enclosure (6' x 8'). A roll-in tiled shower with a trench drain. A wall-mounted sink (wheelchair height).
+They studied the corner schematic together. Where a lone exposed toilet currently sat on the bare concrete slab, Freddie's plan called for a six-by-eight-foot framed enclosure housing a tiled roll-in shower with a linear trench drain and a wall-mounted sink set at wheelchair height.
 
 "The walls are easy," Jenna said. "2x4s and green-board. But the door?"
 
@@ -20720,26 +20514,15 @@ He looked at the floor. The concrete had been sloped gently toward a long, stain
 "And look," Jenna pointed to the electrical box wired into the doorframe. "That’s for the door. Miller thinks we're crazy for spending the money on it, but he wired it."
 
 
-The Finishes
+Soon the tiling was complete.
 
-The tiling was complete.
-
-True to the "Industrial/Sci-Fi" aesthetic of the Avery Unit, they hadn't chosen beige bathroom tile. They had chosen White Subway Tile for the walls (clean, institutional, bright) and Matte Black Hexagon Tile for the floor (high grip for the wheelchair).
-
-The grout was dark grey.
+True to the industrial, sci-fi aesthetic of the Avery Unit, they hadn't chosen beige bathroom tile. Instead, they lined the walls in bright, clean white subway tile and laid matte black hexagon tile across the floor for maximum wheelchair grip, finished with dark grey grout.
 
 "High contrast," Sarah approved, inspecting the grout lines. "Easy to identify dirt. Easy to clean."
 
-The fixtures were installed next.
-
-• The Sink: A wall-mounted "trough" style sink with no cabinet underneath, allowing Freddie to roll his knees completely under it.
-
-• The Shower: A heavy chrome unit with a rainfall head on the ceiling and a handheld wand on a long hose, positioned low enough for a seated user to reach.
+The fixtures went in next: a wall-mounted trough sink with open clearance underneath so Freddie could roll his knees all the way beneath the basin, paired with a heavy chrome shower assembly featuring both an overhead rainfall head and a low-mounted handheld wand on an extended hose.
 
 "It looks like a decontamination chamber," Freddie said approvingly. "It is... sterile."
-
-
-The Smart Glass
 
 The final piece arrived in a crate marked FRAGILE: SWITCHABLE PRIVACY GLASS.
 
@@ -20787,10 +20570,7 @@ Zap. He was connected again.
 
 "Optimal," Freddie decided. "The variable is controlled."
 
-
-The First Cycle
-
-The contractors were gone. The dust was swept. The basement was theirs.
+Once the contractors were gone and the last of the dust was swept up, the basement was finally theirs.
 
 "Maiden voyage," Paige announced. "Shower protocol."
 
@@ -20871,15 +20651,7 @@ They laid out the pressure-treated 2x4s in a massive rectangle: 10 feet wide by 
 
 "We aren't building a deck, Sarah," Jenna laughed, grabbing the power drill. "But okay. Over-engineering is our brand."
 
-They worked as a crew.
-
-- Jessica and Paige: The muscle. They held the long boards in place.
-
-- Sarah: The architect. She measured the spacing and marked the drill points with a pencil.
-
-- Jenna: The mechanic. She drove the 3-inch screws with a satisfying ZZZT-THUNK.
-
-- Freddie: The supervisor. He rolled around the perimeter, checking the angles.
+They worked together like a seasoned construction crew. Jessica and Paige supplied the muscle, bracing the long boards in place while Sarah moved along the frame as the architect, measuring the intervals and marking every drill point in pencil. Behind her, Jenna acted as mechanic, driving three-inch screws home with a satisfying buzz and thunk, while Freddie rolled slowly around the perimeter to supervise the angles.
 
 "Square the corners," Freddie instructed. "If the frame is rhomboid, the mattresses won't fit."
 
@@ -20980,15 +20752,7 @@ He felt... nothing. No ridge. No dip. Just support.
 
 Jessica, Paige, Sarah, and Jenna climbed onto the platform.
 
-They crawled toward the center.
-
-Configuration:
-
-- Freddie: Center.
-
-- Paige & Jessica: Flanking him tightly.
-
-- Sarah & Jenna: taking the outer wings, but still close enough to touch.
+They crawled toward the middle and settled into formation, Paige and Jessica flanking Freddie tightly at the center while Sarah and Jenna took the outer wings, still close enough to keep a hand on the pile.
 
 There was so much room. They could sprawl. They could roll. But true to form, they didn't. They huddled in the middle, a knot of humanity in the center of their vast new empire.
 
@@ -21554,11 +21318,7 @@ He pointed out the window to the parking lot diagonally across the street.
 He pulled up a notepad and began writing the fee structure.
 
 
-"Until school starts," Freddie explained, "you are a civilian passenger. You must pay cash."
-
-- Leg 1 (Radford Transit): You board the bus near your apartment. Cost: \$0.50. Exact change required. No transfers issued.
-
-- Leg 2 (Blue Ridge Transit Route 3): You board at McConnell Transit Center. Cost: \$1.00. You must request a Transfer Slip upon boarding if you need to switch to another BRT bus, though for this route, it is a direct shot.
+"Until school starts," Freddie explained, jotting the two legs of the trip onto his pad, "you are a civilian passenger, which means paying cash. On the first leg with Radford Transit, you board near your apartment for fifty cents—exact change required, with no transfers issued. On the second leg at McConnell Transit Center, you board Blue Ridge Transit Route 3 for one dollar; if you ever need another Blue Ridge bus afterward, you have to ask the driver for a transfer slip right as you board, though getting here is a direct shot."
 
 "Total cost, one way: \$1.50," Harper calculated. "Round trip: Three bucks."
 
@@ -22736,7 +22496,7 @@ Jessica grinned, reaching into the key bowl by the microwave and holding up a ri
 
 "Then it's a good thing the entire Avery Unit has active monthly memberships at the Blue Ridge Regional Aquatic Center," Jessica announced.
 
-Located off Mill Lane NE just east of North Franklin Street in Christiansburg—and served directly from Pepper Plaza Transit Center across the street by **Blue Ridge Transit Route 2 (*The Christiansburg Local*)—the sixty-four-thousand-square-foot Blue Ridge Regional Aquatic Center had opened through a joint municipal-university covenant between the Town of Christiansburg and Commonwealth Polytechnic Institute (CPI)**.
+Located off Mill Lane NE just east of North Franklin Street in Christiansburg—and served directly from Pepper Plaza Transit Center across the street by Blue Ridge Transit Route 2 (*The Christiansburg Local*)—the sixty-four-thousand-square-foot Blue Ridge Regional Aquatic Center had opened through a joint municipal-university covenant between the Town of Christiansburg and Commonwealth Polytechnic Institute (CPI).
 
 Because Aunt Linda, Harper, Amanda, and Elara lived across the New River in Radford (and because Jessica, Paige, and Freddie had originally signed up during their campus orientation in Blacksburg before establishing the Base on Pepper Street), the family gladly paid the Town of Christiansburg Non-Resident Monthly Membership rate ($30.00/month for adults, $25.00/month for youth ages 3–17 on a rolling thirty-day pass). To Freddie, it was the single most mathematically efficient health expenditure in Montgomery County.
 

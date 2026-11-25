@@ -30,15 +30,7 @@ He led Patrick and Nichole down the narrow hallway. The floorboards creaked—ol
 
 Patrick stopped in the doorway. His jaw dropped. It wasn't a bedroom. It was a command center.
 
-Along the right wall ran a massive workbench made of a solid-core door resting on two heavy sawhorses. It was a landscape of technology:
-
-- A SignalMaster 5000 Transceiver with glowing amber dials and a heavy, coiled microphone cable.
-
-- A Vulcan Soldering Station with a sponge that looked like a dried sea creature.
-
-- A stack of Modern Tinkerer magazines teetering like a skyscraper.
-
-- And the crown jewel: a Quantix Oscilloscope, currently humming, with a small green dot drifting lazily across the grid screen like a digital ghost.
+Along the right wall ran a massive workbench made of a solid-core door resting on two heavy sawhorses, spread out like a landscape of technology. A SignalMaster 5000 Transceiver sat beside a heavy, coiled microphone cable, its amber dials glowing warmly in the dim room. Next to it rested a Vulcan Soldering Station with a scorched sponge that looked like a dried sea creature, flanked by a stack of *Modern Tinkerer* magazines teetering like a skyscraper. At the center sat the crown jewel: a Quantix Oscilloscope, currently humming as a small green dot drifted lazily across its grid screen like a digital ghost.
 
 "Whoa," Patrick whispered.
 
@@ -72,7 +64,7 @@ Ellen lowered Nichole onto the futon. "Slide," Patrick said, moving his legs to 
 
 "You two okay?" Ellen asked, hovering by the door. "Do you need the door open for light?" Patrick looked at the glowing green face of the Quantix oscilloscope and the amber backlight of the radio. "We have lights," Patrick said. Ellen smiled, kissed them both on the forehead, and closed the door.
 
-The Atmosphere The room was dark, but it wasn't silent. Outside, the summer storm had broken. Rain was hammering against the shingles of the house—a heavy, rhythmic drumming. In the window, the box fan was roaring on "High." It pulled the wet, salty air into the room. It was a wall of sound. *Whirrrrrr-Hisssssss.*
+The room was dark, but it wasn't silent. Outside, the summer storm had broken. Rain was hammering against the shingles of the house—a heavy, rhythmic drumming. In the window, the box fan was roaring on "High." It pulled the wet, salty air into the room. It was a wall of sound. *Whirrrrrr-Hisssssss.*
 
 Usually, Nichole hated the dark. At home in Virginia, her room was quiet. In the quiet, the dark felt empty. If she dropped her pillow, it was gone forever. If a shadow moved, she couldn't run. The dark was where the spasms waited. It was where she felt the most paralyzed. She usually slept with a nightlight and the door cracked, straining to hear her parents’ TV down the hall just to know she wasn't alone.
 
@@ -761,13 +753,7 @@ Nichole nodded. *Yes.*
 
 It took three hours.
 
-Patrick placed every sticker. They used high-visibility yellow vinyl mailbox letters—the kind meant to survive a hurricane.
-
-- Center: The QWERTY grid.
-
-- Sides: Patrick had the idea to use electrical tape (Red and Green) to make the massive <aac>Yes</aac> and <aac>No</aac> landing strips on the sides, so she could hit them even if she was shaking.
-
-- The Corners: Ellen insisted on the "Needs" corners. *Bathroom. Pain. Thirst.*
+Patrick placed every sticker, using high-visibility yellow vinyl mailbox letters—the kind meant to survive a hurricane. Across the center of the board, he laid out the full QWERTY grid. Along the left and right flanks, Patrick had the idea to lay down wide strips of green and red electrical tape to form massive <aac>Yes</aac> and <aac>No</aac> landing strips, ensuring she could hit them cleanly even when her hands were shaking. In the four corners, Ellen insisted on adding dedicated spaces for immediate needs: *Bathroom. Pain. Thirst.*
 
 When it was done, it looked industrial. It was heavy. It was rugged.
 
@@ -792,12 +778,7 @@ Patrick grinned. "It's the Board, Nikki. Waterproof edition."
 
 ### The Curb Trap
 
-Date: August 28, 1996 (Three days before 6th Grade)
-
-Time: 10:00 AM
-
-
-The heat of late August hung over Morrison Street like a wet wool blanket. It was ninety degrees in the shade, and the asphalt of the school driveway shimmered in the haze.
+At ten o'clock on the morning of August 28, 1996—three days before the start of sixth grade—the heat of late August hung over Morrison Street like a wet wool blanket. It was ninety degrees in the shade, and the asphalt of the school driveway shimmered in the haze.
 
 They had lived in The Highlands since the twins were in second grade. They knew these streets. They knew which houses gave out full-size candy bars on Halloween, and they knew the back field of this school better than their own backyard. For four years, they had come here after hours to let their dogs run off-leash in the open grass.
 
@@ -878,9 +859,7 @@ Ellen looked down the street at the school, then at her kids. "I'm calling the c
 
 ### Arrival at Morrison Middle School
 
-Date: September 3, 1996 (First Day of 6th Grade) Time: 07:45 AM Location: The Corner of Earnhardt & Morrison
-
-The morning air was different than the Test Run. The August humidity was still there, but now it was mixed with the smell of diesel exhaust and the nervous energy of a thousand kids waking up.
+On September 3, 1996—the first morning of sixth grade—the air at the corner of Earnhardt and Morrison felt completely different than the test run. The August humidity was still there, but now it was mixed with the smell of diesel exhaust and the nervous energy of a thousand kids waking up.
 
 "07:45," Patrick said, checking his Kronos watch. "Right on schedule. Thirty minutes to the bell."
 
@@ -1665,7 +1644,9 @@ He was still shaking. Not from fear, but from the adrenaline of the confrontatio
 
 "I am," Ellen said. Her fingers hit the keys with a staccato rhythm that sounded like gunfire. Clack-clack-clack.
 
-SUBJECT: FORMAL GRIEVANCE AND NOTICE OF SAFETY FAILURE TO: VIRGINIA BEACH CITY PUBLIC SCHOOLS BOARD OF EDUCATION CC: OFFICE OF CIVIL RIGHTS, DEPARTMENT OF EDUCATION
+> SUBJECT: FORMAL GRIEVANCE AND NOTICE OF SAFETY FAILURE<br>
+> TO: VIRGINIA BEACH CITY PUBLIC SCHOOLS BOARD OF EDUCATION<br>
+> CC: OFFICE OF CIVIL RIGHTS, DEPARTMENT OF EDUCATION
 
 Ellen paused, looking at the header. "I’m copying the OCR," she said, not asking for permission. "Valenti tore up the detention slip, but that’s not enough. He’s a politician. He thinks he managed us. He thinks the problem is gone because we walked out."
 
@@ -1675,9 +1656,9 @@ Ellen paused, looking at the header. "I’m copying the OCR," she said, not aski
 
 She turned back to the keys.
 
-We assert that Patrick Bennett’s refusal to evacuate without his sister was not insubordination, but a necessary act of preservation of life in the face of staff negligence, Ellen typed.
-
-We formally request that Patrick Bennett be designated as a secondary support asset in Nichole Bennett’s Individualized Education Program (IEP) for all emergency procedures.
+> We assert that Patrick Bennett’s refusal to evacuate without his sister was not insubordination, but a necessary act of preservation of life in the face of staff negligence.
+>
+> We formally request that Patrick Bennett be designated as a secondary support asset in Nichole Bennett’s Individualized Education Program (IEP) for all emergency procedures.
 
 "Perfect," Tom said, reading over her shoulder. "Make it official. If he saves her, he’s not breaking the rules. He’s following the IEP."
 
@@ -1707,52 +1688,48 @@ He looked at the sealed envelope. It felt heavy. It was a declaration of war, de
 
 Tom walked out the door, carrying the paper shield that would ensure his son never had to apologize for being a hero again.
 
-Thomas and Ellen Bennett, Delaney Street, Virginia Beach, VA
+> Thomas and Ellen Bennett, Delaney Street, Virginia Beach, VA<br>
+> October 14, 1996<br>
+> HAND DELIVERED<br>
+> To: Virginia Beach City Public Schools Board of Education, Virginia Beach Municipal Center, George Mason Drive, Virginia Beach, VA<br>
+> RE: FORMAL GRIEVANCE, NOTICE OF SAFETY FAILURE, AND IEP MODIFICATION REQUEST<br>
+> Student: Nichole Bennett (Grade 6, Morrison Middle School)<br>
+> Student: Patrick Bennett (Grade 6, Morrison Middle School)
+>
+> To the Board of Education:
+>
+> We are filing this formal grievance to document a severe failure of safety protocols and staff negligence that occurred today, October 14, 1996, at Morrison Middle School during a scheduled fire alarm drill.
+>
+> At approximately 10:15 AM, during the evacuation procedure, the one-on-one aide assigned to our daughter, Nichole Bennett, abandoned her post. By the aide’s own admission in the presence of Principal Valenti, she prioritized the assistance of an ambulatory student and left Nichole—who uses a wheelchair and is non-verbal—unattended in a hallway while the fire alarm was active.
+>
+> Nichole suffers from a severe sensory processing disorder. The audible frequency and volume of the alarm system at Morrison Middle School causes her physical pain and can trigger seizure-like spasticity. Leaving her alone in that environment was not merely a lapse in judgment; it was a dereliction of the Duty of Care mandated by her Individualized Education Program (IEP) and federal law. If this had been a genuine fire, our daughter would have been left behind to die because the adult paid to protect her panicked.
+>
+> We find this negligence particularly unconscionable given the recent history of this District. It has been barely thirteen months since the catastrophic arson fire that destroyed Princess Anne High School. That event proved that our schools are not immune to total destruction.
+>
+> If today’s alarm had signaled a real fire similar to the Princess Anne incident, rather than a drill, our daughter would have been left behind to die in that hallway because the adult paid to protect her panicked. We are not speaking in hypotheticals; we are speaking to the reality that without evacuation assistance, Nichole has zero chance of survival in a structural fire.
+>
+> Furthermore, we are writing to formally contest the disciplinary action initially taken against our son, Patrick Bennett.
+>
+> When Patrick realized his sister had been abandoned, he broke formation to locate and rescue her. He found her in a state of physical distress (convulsing) and successfully evacuated her from the building when staff failed to do so. For this act, he was accused of "insubordination" and assigned detention by Principal Valenti. While this punishment was verbally rescinded after our confrontation with the administration, we require a permanent, written record of the following:
+>
+> 1. We assert that Patrick Bennett’s refusal to evacuate without his sister was not insubordination, but a necessary act of preservation of life in the face of staff negligence. His record must reflect no wrongdoing.
+> 2. We formally request that Patrick Bennett be designated as a secondary support asset in Nichole Bennett’s IEP for all emergency procedures.
+>
+> We are putting the District on notice: Patrick has our explicit parental authorization to intervene in any situation where Nichole’s safety is compromised by school staff. He is not to be punished for doing the job the school failed to do.
+>
+> We expect a written response confirming receipt of this grievance and a timeline for the modification of Nichole’s safety plan within 48 hours.
+>
+> Sincerely,
+>
+> *(Signed)*<br>
+> Thomas Bennett<br>
+> Ellen Bennett
+>
+> CC: Office for Civil Rights, U.S. Department of Education, Washington, D.C.
 
-October 14, 1996
+***
 
-HAND DELIVERED
-
-To: Virginia Beach City Public Schools Board of Education, Virginia Beach Municipal Center, George Mason Drive, Virginia Beach, VA
-
-RE: FORMAL GRIEVANCE, NOTICE OF SAFETY FAILURE, AND IEP MODIFICATION REQUEST Student: Nichole Bennett (Grade 6, Morrison Middle School) Student: Patrick Bennett (Grade 6, Morrison Middle School)
-
-To the Board of Education:
-
-We are filing this formal grievance to document a severe failure of safety protocols and staff negligence that occurred today, October 14, 1996, at Morrison Middle School during a scheduled fire alarm drill.
-
-At approximately 10:15 AM, during the evacuation procedure, the one-on-one aide assigned to our daughter, Nichole Bennett, abandoned her post. By the aide’s own admission in the presence of Principal Valenti, she prioritized the assistance of an ambulatory student and left Nichole—who uses a wheelchair and is non-verbal—unattended in a hallway while the fire alarm was active.
-
-Nichole suffers from a severe sensory processing disorder. The audible frequency and volume of the alarm system at Morrison Middle School causes her physical pain and can trigger seizure-like spasticity. Leaving her alone in that environment was not merely a lapse in judgment; it was a dereliction of the Duty of Care mandated by her Individualized Education Program (IEP) and federal law. If this had been a genuine fire, our daughter would have been left behind to die because the adult paid to protect her panicked.
-
-We find this negligence particularly unconscionable given the recent history of this District. It has been barely thirteen months since the catastrophic arson fire that destroyed Princess Anne High School. That event proved that our schools are not immune to total destruction.
-
-If today’s alarm had signaled a real fire similar to the Princess Anne incident, rather than a drill, our daughter would have been left behind to die in that hallway because the adult paid to protect her panicked. We are not speaking in hypotheticals; we are speaking to the reality that without evacuation assistance, Nichole has zero chance of survival in a structural fire.
-
-Furthermore, we are writing to formally contest the disciplinary action initially taken against our son, Patrick Bennett.
-
-When Patrick realized his sister had been abandoned, he broke formation to locate and rescue her. He found her in a state of physical distress (convulsing) and successfully evacuated her from the building when staff failed to do so. For this act, he was accused of "insubordination" and assigned detention by Principal Valenti. While this punishment was verbally rescinded after our confrontation with the administration, we require a permanent, written record of the following:
-
-1.  We assert that Patrick Bennett’s refusal to evacuate without his sister was not insubordination, but a necessary act of preservation of life in the face of staff negligence. His record must reflect no wrongdoing.
-
-2.  We formally request that Patrick Bennett be designated as a secondary support asset in Nichole Bennett’s IEP for all emergency procedures.
-
-We are putting the District on notice: Patrick has our explicit parental authorization to intervene in any situation where Nichole’s safety is compromised by school staff. He is not to be punished for doing the job the school failed to do.
-
-We expect a written response confirming receipt of this grievance and a timeline for the modification of Nichole’s safety plan within 48 hours.
-
-Sincerely,
-
-*(Signed)*
-
-Thomas Bennett Ellen Bennett
-
-CC: Office for Civil Rights U.S. Department of Education Washington, D.C.
-
-
-Date: October 15, 1996 Time: 8:05 AM Location: Office of the Principal, Morrison Middle School
-
-Principal Valenti sat at his desk, nursing a lukewarm coffee. The morning announcements were running, but he wasn't listening. He was staring at the empty chair where Mrs. Gable usually sat during the morning briefing.
+At five minutes past eight the next morning, October 15, Principal Valenti sat at his desk in the main office of Morrison Middle School, nursing a lukewarm coffee. The morning announcements were running, but he wasn't listening. He was staring at the empty chair where Mrs. Gable usually sat during the morning briefing.
 
 The phone rang.
 
@@ -1808,14 +1785,11 @@ Creeds. It wasn't just Pungo; it was *past* Pungo. It was the literal edge of th
 
 Valenti hung up the phone. He stared at the wall.
 
-He picked up his pen. He opened Patrick Bennett’s file. He wrote a note on the jacket in big, red letters:
+He picked up his pen, opened Patrick Bennett’s file, and wrote a note across the jacket in big, red letters: *DO NOT TOUCH.*
 
-DO NOT TOUCH.
+***
 
-
-Date: October 16, 1996 (48 Hours Post-Incident) Time: 10:00 AM Location: The Bennett Mailbox / Delaney Street
-
-The letter didn't come by regular mail. A district courier car pulled up to the curb. A man in a tie walked up the driveway and handed a thick, official envelope to Ellen Bennett.
+At ten o'clock on the morning of October 16—barely forty-eight hours after the fire drill—the response arrived on Delaney Street, and it didn't come by regular mail. A district courier car pulled up to the curb. A man in a tie walked up the driveway and handed a thick, official envelope to Ellen Bennett.
 
 She took it into the kitchen where Tom was drinking coffee. She opened it with a letter opener, the sound slicing through the quiet morning.
 
@@ -1827,41 +1801,36 @@ She read the first paragraph. She let out a breath.
 
 She laid the document on the table.
 
-VIRGINIA BEACH CITY PUBLIC SCHOOLS Department of Special Education & Student Services, George Mason Drive, Virginia Beach, VA
-
-October 16, 1996
-
-VIA COURIER
-
-Mr. and Mrs. Thomas Bennett, Delaney Street, Virginia Beach, VA
-
-RE: RESOLUTION OF GRIEVANCE DATED OCT 14, 1996
-
-Dear Mr. and Mrs. Bennett,
-
-This letter serves as the formal response of the Virginia Beach City Public Schools regarding the safety incident at Morrison Middle School on October 14, 1996. The District takes the safety of all students—particularly those with specific mobility and sensory needs—as its highest priority.
-
-Following an expedited internal review of the events in question, the District acknowledges that the evacuation protocols employed by staff did not meet the standards mandated by the Individuals with Disabilities Education Act (IDEA) or the Americans with Disabilities Act (ADA).
-
-To rectify this situation and ensure the future safety of Nichole Bennett, the District is implementing the following Corrective Action Plan, effective immediately:
-
-1\. Modification of Individualized Education Program (IEP) An emergency IEP addendum has been filed. Patrick Bennett is hereby designated as a "Primary Safety Support Asset" for Nichole Bennett. In the event of any emergency alarm (drill or actual), Patrick Bennett is authorized to leave his assigned location to locate and assist his sister. This action shall be considered compliance with his safety duties, not a violation of school rules.
-
-2\. Personnel Action The aide involved in the incident, Mrs. Gable, has been placed on administrative leave pending retraining in "Critical Incident Management for Non-Ambulatory Students." A new, certified Paraprofessional with specific training in sensory processing disorders will be assigned to Nichole Bennett effective Monday, October 21.
-
-3\. Expungement of Disciplinary Record The disciplinary referral issued to Patrick Bennett on October 14, 1996, has been permanently expunged from his cumulative file. No record of the detention or the allegations of insubordination remains.
-
-4\. Revised Evacuation Protocol Morrison Middle School will no longer utilize "Wait Areas" for students in wheelchairs during audible alarms. All students must be evacuated to the exterior Safe Zone immediately.
-
-We trust that these actions resolve your grievance. We look forward to providing Nichole and Patrick with a safe and supportive educational environment.
-
-Sincerely,
-
-*(Signed)*
-
-Dr. Arlene Richardson Director of Special Education, VBCPS
-
-CC: Principal Frank Valenti, Morrison Middle School Office for Civil Rights, U.S. Department of Education (Reference: Complaint Resolved/Closed)
+> VIRGINIA BEACH CITY PUBLIC SCHOOLS<br>
+> Department of Special Education & Student Services, George Mason Drive, Virginia Beach, VA<br>
+> October 16, 1996<br>
+> VIA COURIER<br>
+> Mr. and Mrs. Thomas Bennett, Delaney Street, Virginia Beach, VA<br>
+> RE: RESOLUTION OF GRIEVANCE DATED OCT 14, 1996
+>
+> Dear Mr. and Mrs. Bennett,
+>
+> This letter serves as the formal response of the Virginia Beach City Public Schools regarding the safety incident at Morrison Middle School on October 14, 1996. The District takes the safety of all students—particularly those with specific mobility and sensory needs—as its highest priority.
+>
+> Following an expedited internal review of the events in question, the District acknowledges that the evacuation protocols employed by staff did not meet the standards mandated by the Individuals with Disabilities Education Act (IDEA) or the Americans with Disabilities Act (ADA).
+>
+> To rectify this situation and ensure the future safety of Nichole Bennett, the District is implementing the following Corrective Action Plan, effective immediately:
+>
+> 1. Modification of Individualized Education Program (IEP): An emergency IEP addendum has been filed. Patrick Bennett is hereby designated as a "Primary Safety Support Asset" for Nichole Bennett. In the event of any emergency alarm (drill or actual), Patrick Bennett is authorized to leave his assigned location to locate and assist his sister. This action shall be considered compliance with his safety duties, not a violation of school rules.
+> 2. Personnel Action: The aide involved in the incident, Mrs. Gable, has been placed on administrative leave pending retraining in "Critical Incident Management for Non-Ambulatory Students." A new, certified Paraprofessional with specific training in sensory processing disorders will be assigned to Nichole Bennett effective Monday, October 21.
+> 3. Expungement of Disciplinary Record: The disciplinary referral issued to Patrick Bennett on October 14, 1996, has been permanently expunged from his cumulative file. No record of the detention or the allegations of insubordination remains.
+> 4. Revised Evacuation Protocol: Morrison Middle School will no longer utilize "Wait Areas" for students in wheelchairs during audible alarms. All students must be evacuated to the exterior Safe Zone immediately.
+>
+> We trust that these actions resolve your grievance. We look forward to providing Nichole and Patrick with a safe and supportive educational environment.
+>
+> Sincerely,
+>
+> *(Signed)*<br>
+> Dr. Arlene Richardson<br>
+> Director of Special Education, VBCPS
+>
+> CC: Principal Frank Valenti, Morrison Middle School<br>
+> Office for Civil Rights, U.S. Department of Education (Reference: Complaint Resolved/Closed)
 
 
 Tom read the letter. He lingered on the bolded section: Patrick Bennett is authorized to leave his assigned location.
@@ -1902,9 +1871,9 @@ It was official. The Bennett Machine was no longer a rogue operation. It was dis
 
 ### Part 3: Delaney Street, Virginia Beach & The Architect and the Laborer
 
-#### The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: Delaney Street, Virginia Beach
+#### November 12, 1996 — The Federal Hammer
 
-The victory had lasted exactly twenty-eight days.
+At quarter to four on that Tuesday afternoon on Delaney Street, the victory that had lasted exactly twenty-eight days came to an end.
 
 For nearly a month, the Bennett household had operated under the comforting umbrella of the "Resolution Letter." Patrick felt ten feet tall. He walked the halls of Morrison Middle School not just as a student, but as an accredited asset. He checked the fire exit signs. He watched the clock. He was the guardian.
 
@@ -1912,7 +1881,9 @@ Then, the brown envelope arrived.
 
 It wasn't from the Virginia Beach City Public Schools. The return address was embossed in black ink:
 
-UNITED STATES DEPARTMENT OF EDUCATION OFFICE FOR CIVIL RIGHTS (OCR) WASHINGTON, D.C.
+> UNITED STATES DEPARTMENT OF EDUCATION<br>
+> OFFICE FOR CIVIL RIGHTS (OCR)<br>
+> WASHINGTON, D.C.
 
 Tom met Ellen at the door as she came in from grocery shopping. He was holding the envelope. He hadn't opened it yet.
 
@@ -1940,17 +1911,15 @@ He slammed the paper down on the table.
 
 "They rejected the deal," Tom said. "They struck down the Patrick Clause."
 
-"What?" Ellen grabbed the document. Her eyes scanned the dense legal text until she found Section IV: Impermissible Remedies.
+"What?" Ellen grabbed the document. Her eyes scanned the dense legal text until she found Section IV, *Impermissible Remedies*, and read the determination aloud in disbelief:
 
-Excerpt from OCR Determination Letter:
-
-*While the District’s attempt to resolve the grievance is noted, the Office for Civil Rights finds that "Item 1" of the Corrective Action Plan (designating the sibling, P. Bennett, as a "Primary Safety Support Asset") constitutes a violation of Section 504 of the Rehabilitation Act of 1973.*
-
-*The District holds a non-delegable duty of care to ensure the safety of students with disabilities. By assigning emergency evacuation duties to a minor child (age 11), the District is unlawfully shifting its burden of compliance onto another student. A child cannot be part of the District’s official chain of command for safety operations.*
-
-*Furthermore, encouraging a minor student to leave a secure location and traverse a school building during a potential fire emergency places that student at unreasonable risk of harm. In light of recent regional tragedies (referencing the 1995 Princess Anne High School arson), this Office cannot endorse a safety plan that relies on a child running toward a potential hazard.*
-
-DIRECTIVE: *The District must immediately rescind the authorization for P. Bennett to intervene. The District must provide adult, professional coverage. P. Bennett must remain in his assigned safety zone during all future drills and emergencies.*
+> *While the District’s attempt to resolve the grievance is noted, the Office for Civil Rights finds that "Item 1" of the Corrective Action Plan (designating the sibling, P. Bennett, as a "Primary Safety Support Asset") constitutes a violation of Section 504 of the Rehabilitation Act of 1973.*
+>
+> *The District holds a non-delegable duty of care to ensure the safety of students with disabilities. By assigning emergency evacuation duties to a minor child (age 11), the District is unlawfully shifting its burden of compliance onto another student. A child cannot be part of the District’s official chain of command for safety operations.*
+>
+> *Furthermore, encouraging a minor student to leave a secure location and traverse a school building during a potential fire emergency places that student at unreasonable risk of harm. In light of recent regional tragedies (referencing the 1995 Princess Anne High School arson), this Office cannot endorse a safety plan that relies on a child running toward a potential hazard.*
+>
+> *DIRECTIVE: The District must immediately rescind the authorization for P. Bennett to intervene. The District must provide adult, professional coverage. P. Bennett must remain in his assigned safety zone during all future drills and emergencies.*
 
 Ellen lowered the paper. The room felt suddenly cold.
 
@@ -1985,7 +1954,10 @@ Tom and Ellen sat opposite her. They didn't bring the kids this time.
 
 She slid a new document across the table.
 
-IEP AMENDMENT - 11/14/96 *Primary Safety Protocol: Dedicated Adult Paraprofessional.* *Secondary Protocol: designated Floor Warden (Teacher).* *RESTRICTION:* *Sibling (Patrick Bennett) is to remain with his assigned class during all emergency procedures. He is not to separate from his cohort.*
+> IEP AMENDMENT — 11/14/96<br>
+> *Primary Safety Protocol: Dedicated Adult Paraprofessional.*<br>
+> *Secondary Protocol: Designated Floor Warden (Teacher).*<br>
+> *RESTRICTION: Sibling (Patrick Bennett) is to remain with his assigned class during all emergency procedures. He is not to separate from his cohort.*
 
 "I need you to sign this," Dr. Richardson said. "To show the Feds we are in compliance."
 
@@ -2233,13 +2205,16 @@ He froze.
 
 He slammed the paper down in front of Patrick.
 
-Grade: E Score: 55/100
+> Grade: E<br>
+> Score: 55/100
 
 "An E?" Kevin shouted, drawing the attention of the whole class. "But the model is perfect! Look at it!"
 
 Patrick looked at his own rubric, which Mrs. Miller had just slid onto the table in front of him and Nichole.
 
-Grade: A Score: 98/100 Comments: Excellent construction and labeling. Great teamwork.
+> Grade: A<br>
+> Score: 98/100<br>
+> Comments: Excellent construction and labeling. Great teamwork.
 
 "Mrs. Miller!" Kevin yelled, waving his failing paper. "You made a mistake! Patrick and Nichole got an A!"
 
@@ -2884,12 +2859,7 @@ Patrick took a bite of his pizza and grinned. "Yeah. Much better."
 
 #### The Area of Rescue
 
-Date: April 12, 2002 (Spring of 11th Grade)
-
-Time: 10:15 AM
-
-
-The lesson on the Reconstruction Era was dragging. Mr. Henderson was midway through explaining the Compromise of 1877, his voice a steady drone against the hum of the classroom ventilation.
+At 10:15 AM on April 12, 2002, in the spring of eleventh grade, the lesson on the Reconstruction Era was dragging. Mr. Henderson was midway through explaining the Compromise of 1877, his voice a steady drone against the hum of the classroom ventilation.
 
 Patrick sat at his desk, spinning his pen. To his right, parked in the designated accessible cutout, Nichole was typing notes on her VocaLink. Her aide, a quiet woman named Mrs. Lipton, had excused herself to the faculty restroom five minutes ago, leaving the twins in their standard formation: side-by-side.
 
@@ -3111,16 +3081,11 @@ Patrick exhaled. He looked at Nichole.
 
 #### The Long Hour
 
-Date: April 12, 2002
-
-Time: 10:45 AM (30 Minutes Post-Evacuation)
-
-
-The adrenaline of the escape had faded, replaced by the crushing boredom of a thousand teenagers standing in a parking lot.
+By 10:45 AM—thirty minutes into the evacuation—the adrenaline of the escape had faded, replaced by the crushing boredom of a thousand teenagers standing in a parking lot.
 
 The "Muster Point" was a strip of grass along the chain-link fence at the far edge of the bus loop. Patrick and Nichole sat on the concrete curb, their backs against the metal fence.
 
-For Nichole, the curb was a torture device. Without the custom-molded support of her Titan AeroMotion, her core muscles had to work overtime just to keep her upright. Her hips, lacking the cushioning of her ROHO seat pad, ached against the cold concrete.
+For Nichole, the curb was a torture device. Without the custom-molded support of her Titan AeroMotion, her core muscles had to work overtime just to keep her upright. Her hips, lacking the cushioning of her air-cell seat pad, ached against the cold concrete.
 
 She leaned heavily into Patrick. He had shifted his position, sitting cross-legged so his shoulder provided a solid backrest for her. He had one arm wrapped around her waist, anchoring her so she wouldn't tip over when a spasm hit.
 
@@ -3160,9 +3125,7 @@ Nichole let out a huff of frustration. She slumped against him, resigning hersel
 
 #### The All Clear
 
-Time: 11:10 AM
-
-A white SUV marked VIRGINIA BEACH FIRE DEPARTMENT - BATTALION CHIEF rolled slowly through the bus loop.
+At 11:10 AM, a white SUV marked VIRGINIA BEACH FIRE DEPARTMENT - BATTALION CHIEF rolled slowly through the bus loop.
 
 The driver rolled down his window and spoke to Principal Harrison, who was standing with a megaphone near the building entrance.
 
@@ -3549,17 +3512,7 @@ Inside the bathroom, Ellen was setting the stage. She moved with the efficiency 
 
 "Okay, Patrick," Ellen said, her voice calm and professional. "Step one is always preparation. Once she is wet and slippery, you cannot walk away to grab a towel. You have to have everything within arm's reach *before* the water turns on."
 
-She pointed to the stack on the counter.
-
-- Two large towels.
-
-- Washcloth.
-
-- The specific body wash Nichole liked (Cucumber Melon).
-
-- Lotion for after.
-
-- Her nightshirt.
+She gestured to the neat stack staged along the edge of the counter: two large bath towels, a fresh washcloth, the cucumber-melon body wash Nichole liked best, moisturizing lotion for afterward, and her soft cotton nightshirt folded on top.
 
 "Check the water temperature," Ellen instructed. "Her circulation isn't perfect, especially in her feet. What feels warm to you might burn her. Use your wrist, not your hand."
 
@@ -4213,9 +4166,7 @@ The air in the gymnasium was thick enough to chew. It smelled of floor wax, cors
 
 The Northwood High School gymnasium was draped in Purple and Gold. Banners hung from the rafters, celebrating the "Home of the Lions."
 
-The band, seated on the far risers, raised their instruments. The conductor brought his baton down.
-
-The Music: *Pomp and Circumstance, March No. 1.*
+The band, seated on the far risers, raised their instruments. The conductor brought his baton down, and the opening brass strains of *Pomp and Circumstance, March No. 1* swelled to fill the rafters.
 
 The heavy double doors at the rear of the gym swung open. The Class of 2003 began their slow, dignified march.
 
@@ -4920,13 +4871,7 @@ The cover didn't show a football team or a frat party. It showed a student in a 
 
 "Listen to this," Patrick read aloud. *"At Putney, we don't 'accommodate' the student. We built the world for them. Universal Design is our baseline."*
 
-Nichole leaned over the armrest to look at the photos.
-
-- Automatic doors on every building.
-
-- Classrooms with tiered, accessible seating.
-
-- A "Neurodiversity Center" open 24/7.
+Nichole leaned over the armrest to study the photographs spread across the glossy pages: automatic doors mounted at the entrance of every campus building, bright classrooms built with tiered, wheelchair-accessible seating, and a dedicated Neurodiversity Center open twenty-four hours a day.
 
 It looked like a paradise. After the "High School with Ashtrays" vibe of the community college and the sterile office park of Atlantic Coast, this looked like a place where she could actually breathe.
 
@@ -4962,19 +4907,7 @@ Patrick looked at Nichole. He grinned—a real, genuine grin that reached his ey
 
 "Pack your winter coat, Nikki," Patrick said. "We're going to Vermont."
 
-Nichole looked at the six options spread out on the table like a buffet of potential futures.
-
-- The Strip Mall (TechStream).
-
-- The Office Park (Atlantic Coast).
-
-- The Giant (VDU).
-
-- The Safety Net (CCHR).
-
-- The Rehab Center (Roosevelt).
-
-- The Sanctuary (Putney).
+Nichole looked across the six brochures spread out over the dining table like a buffet of potential futures: the strip-mall promises of TechStream, the commuter office park of Atlantic Coast, the sprawling concrete giant of VDU, the familiar safety net of CCHR, the state rehabilitation complex at Roosevelt, and the mountain sanctuary of Putney.
 
 She reached for her VocaLink. The screen glowed in the afternoon light.
 
@@ -5316,17 +5249,11 @@ He turned into the visitors' parking lot. Looming in front of them was the Bates
 
 It didn't look like a college. It looked exactly like what it was: a state hospital built in the 1960s. It was a long, flat expanse of institutional brick, dominated by a flat roof and heavy glass doors.
 
-Patrick stared at the building layout through the windshield. From the parking lot, he could see two distinct entrances.
-
-- Straight Ahead: The Main Entrance/Visitors Entrance.
-
-- To the Left: A separate entrance marked for Redmond Hall.
+Patrick stared at the building layout through the windshield. From the parking lot, he could see two distinct entrances: the main visitors' entrance straight ahead, and a separate doorway off to the left marked specifically for Redmond Hall.
 
 The visual separation was immediate. Even the architecture seemed to be categorizing people before they even got out of the car.
 
-Tom parked the van near the entrance. They all looked at the large sign planted in the grass at the parking lot entrance.
-
-Top Left: The DARS Logo (Department of Aging and Rehabilitative Services). Top Right: The Roosevelt Rehabilitation Center seal. Center Text: BATES-HARDING BUILDING *Administration* *Admissions* *Medical Rehabilitation* *Redmond Hall*
+Tom parked the van near the curb, and they all studied the large institutional sign planted in the grass beside the lot. Framed between the Department of Aging and Rehabilitative Services emblem in the upper left corner and the Roosevelt Rehabilitation Center seal on the right, the block lettering announced the Bates-Harding Building above a stacked directory for *Administration*, *Medical Rehabilitation*, *Admissions*, and *Redmond Hall*.
 
 "Medical Rehabilitation," Patrick read aloud. His voice was guarded. "It’s on the sign before Admissions."
 
@@ -6127,21 +6054,15 @@ The mood in the room shifted. This wasn't a tri-fold pamphlet; it was a prospect
 
 "Agreed," Tom said. "So, here is the flight plan."
 
-He took a napkin and drew a map.
+He pulled a paper napkin across the table and sketched out the route leg by leg. Tomorrow—Sunday—they would drive back east to Virginia Beach to regroup, run laundry, and repack the van for a long-haul northern expedition. On Wednesday, they would head up the coast to Highland Park, New Jersey.
 
-1.  Sunday (Tomorrow): Drive back to Virginia Beach. Regroup. Laundry. Re-pack the van for a long-haul expedition.
+"We stay with Aunt Carol," Ellen said, tapping the midpoint on the napkin. "She's dying to see you guys. And it breaks up the drive."
 
-2.  Wednesday: Drive North. Destination: Highland Park, New Jersey.
+From Highland Park, Thursday's leg would carry them north into Brattleboro, Vermont.
 
-    - "We stay with Aunt Carol," Ellen said. "She's dying to see you guys. And it breaks up the drive."
+"We have a reservation at the Yankee Traveler Motor Lodge in Brattleboro," Tom noted, penciling a star beside the state line. "It's right down the road from Putney. Accessible room, two queen beds."
 
-3.  Thursday: Highland Park to Brattleboro, Vermont.
-
-    - "We have a reservation at the Yankee Traveler Motor Lodge in Brattleboro," Tom noted. "It's right down the road from Putney. Accessible room, two queen beds."
-
-4.  Friday: Scout the area. Rest.
-
-5.  Saturday: Putney College Open House.
+Friday would be reserved for scouting the area and resting up, leaving them fresh for the Putney College Open House on Saturday morning.
 
 "Carol is excited," Sherry added, sipping her tea. "She called me right after you guys got here. She wants to show you her garden in Highland Park. And Patrick, she wants to thank you in person for that website."
 
@@ -6460,16 +6381,7 @@ But on the bed, spread out between them, was the Putney College prospectus.
 
 It was heavy stock paper. Glossy. Expensive. And it spoke a completely different language than the Roosevelt pamphlets.
 
-Patrick traced the text on page four.
-
-
-- Universal Design for Learning (UDL)
-
-- Accessible Campus Infrastructure
-
-- Integrated Housing Options
-
-- Personal Care Attendant (PCA) Management Training
+Patrick traced his finger down the four core commitments printed on page four: Universal Design for Learning (UDL), Accessible Campus Infrastructure, Integrated Housing Options, and Personal Care Attendant (PCA) Management Training.
 
 "Look at that," Patrick said, his eyes widening. "Management Training. Roosevelt wanted to be the caregivers. Putney wants to teach us how to manage the care."
 
@@ -7084,15 +6996,7 @@ They entered directly into the main food court. Even in the summer, it was buzzi
 
 "We have all the major food groups here," Megan joked, gesturing to the line of fast-food counters.
 
-She pointed them out one by one, using their campus-specific names:
-
-- SubStation: A sandwich shop where a line of students was ordering footlongs.
-
-- Pizza Piazza: Serving personal pan pizzas that looked suspiciously familiar.
-
-- The Wok: A steam-table Chinese place piling orange chicken onto styrofoam plates.
-
-- Squeeze: A brightly colored stand blending fruit smoothies.
+She pointed them out one by one along the bustling counter row: SubStation, a sandwich shop where a line of students stood ordering footlongs; Pizza Piazza, sliding out personal pan pizzas that looked suspiciously familiar; The Wok, a steam-table Chinese counter piling glossy orange chicken onto foam plates; and Squeeze, a brightly colored stand whirring with blenders full of fruit smoothies.
 
 "And if you head down that hallway," Megan pointed toward the south end, "we have a Chicken Coop Express for your waffle fry needs, and a Campus Grind coffee shop that serves all the fancy lattes."
 
@@ -7770,12 +7674,7 @@ With Patrick’s arm around her and his steady heartbeat against her back, she w
 
 #### The Hopeful Morning
 
-Date: July 2, 2003
-
-Time: 6:00 AM
-
-
-The red digits on the hotel alarm clock clicked over to 6:00 AM, and the buzzer blared—a harsh, rhythmic noise that cut through the silence of the accessible king suite.
+On the morning of July 2, 2003, the red digits on the hotel alarm clock clicked over to 6:00 AM, and the buzzer blared—a harsh, rhythmic noise that cut through the silence of the accessible king suite.
 
 Patrick didn't groan. He moved with the instant alertness of someone who had a mission. He reached out, slapping the snooze button to kill the noise, then turned to the other side of the bed.
 
@@ -7849,12 +7748,7 @@ Patrick wiped a crumb from Nichole’s chin and stood up. He grabbed the push ha
 
 ### Part 1: The Green Mountain Haul
 
-Date: July 2, 2003
-
-Time: 2:00 PM
-
-
-The transition was subtle at first, then undeniable. The grey industrial sprawl of the New Jersey Turnpike and the congested loops of the New York State Thruway had given way to something greener, cleaner, and infinitely more open.
+By two o'clock on the afternoon of July 2, 2003, the transition was subtle at first, then undeniable. The grey industrial sprawl of the New Jersey Turnpike and the congested loops of the New York State Thruway had given way to something greener, cleaner, and infinitely more open.
 
 They were on Interstate 91 now, cutting a straight line north. The billboards for personal injury lawyers vanished, replaced by signs for maple syrup, antique barns, and ski resorts.
 
@@ -7932,10 +7826,7 @@ The machine was powered down and ready to recharge overnight.
 
 ### Part 2: Putney College Open House
 
-Time: 8:00 AM
-
-
-The morning air in Vermont was crisp, lacking the heavy, wet humidity of a Virginia summer. It felt like a fresh start.
+At eight o'clock in the morning, the Vermont air was crisp, lacking the heavy, wet humidity of a Virginia summer. It felt like a fresh start.
 
 Patrick pushed the purple Titan AeroMotion up the paved path toward the Student Center. The campus was waking up, buzzing with the nervous energy of prospective families.
 
@@ -8078,11 +7969,9 @@ Patrick stood up. He looked at the Professor.
 
 He didn't wait for a response. He grabbed his notebook, pulled Nichole's chair away from the table entirely, and rolled her to the very back of the room, leaving the Professor blinking at the empty space.
 
+***
 
-Time: 11:00 AM
-
-
-The transition from the mock seminar to the Disability Office was quiet. The office was spacious, carpeted, and air-conditioned to a frigid temperature.
+At 11:00 AM, the transition from the mock seminar to the Disability Office was quiet. The office was spacious, carpeted, and air-conditioned to a frigid temperature.
 
 Patrick sat next to the purple Titan AeroMotion, his notebook on his lap. Ellen sat across the mahogany desk, handing over the thick medical file.
 
@@ -8162,11 +8051,9 @@ He didn't know what it was called yet. He didn't know if it was a degree or a li
 
 Patrick unlocked the brakes on the Titan. He didn't say goodbye to Dr. Aris. He just pushed his CEO out of the office, leaving the Director to sit in the silence of her own incompetence.
 
+***
 
-Time: 11:45 AM
-
-
-The walk from the Disability Office to the dorms was silent. Patrick pushed the Titan AeroMotion with a rigid, mechanical intensity. Ellen and Tom walked on either side, like a phalanx protecting a VIP.
+At 11:45 AM, the walk from the Disability Office to the dorms was silent. Patrick pushed the Titan AeroMotion with a rigid, mechanical intensity. Ellen and Tom walked on either side, like a phalanx protecting a VIP.
 
 They arrived at North Hall, a modern brick building with an automatic sliding door.
 
@@ -8234,10 +8121,7 @@ He didn't wait for permission. He pulled back on the handles, spinning the Titan
 
 #### The Drive Back
 
-Time: 12:15 PM
-
-
-They moved fast across the parking lot. Patrick wasn't pushing casually; he was marching. He wanted her away from this place. He wanted her away from the people who saw her as a liability and him as a threat.
+At 12:15 PM, they moved fast across the parking lot. Patrick wasn't pushing casually; he was marching. He wanted her away from this place. He wanted her away from the people who saw her as a liability and him as a threat.
 
 They reached the heavy transport van. Tom unlocked it with the remote.
 
@@ -8604,7 +8488,7 @@ He squeezed her knee again.
 
 "I'm going to be the most overqualified brother on the planet. I promise."
 
-Nichole let out a long, satisfied sigh. She leaned her head back against the headrest, the tension finally leaving her shoulders. She didn't care about the paper, but she loved the fight
+Nichole let out a long, satisfied sigh. She leaned her head back against the headrest, the tension finally leaving her shoulders. She didn't care about the paper, but she loved the fight.
 
 The Bennett Machine was fully operational.
 
@@ -8716,9 +8600,8 @@ He opened a new tab. He typed: *DIFFERENCE BETWEEN CNA AND LPN.*
 
 A comparison table loaded. Patrick read it, his eyes widening with every line.
 
-- CNA (Certified Nursing Assistant): Provides basic care (bathing, dressing, feeding) under the supervision of a nurse. Cannot administer medication.
-
-- LPN (Licensed Practical Nurse): A licensed medical professional. Administers medication, performs wound care, inserts catheters, monitors vital signs. Can supervise CNAs.
+> - CNA (Certified Nursing Assistant): Provides basic care (bathing, dressing, feeding) under the supervision of a nurse. Cannot administer medication.
+> - LPN (Licensed Practical Nurse): A licensed medical professional. Administers medication, performs wound care, inserts catheters, monitors vital signs. Can supervise CNAs.
 
 Patrick looked at Nichole.
 
@@ -8738,21 +8621,18 @@ She tapped her armrest.
 
 Patrick grinned. "Yeah. Nuclear option."
 
-He clicked back to the VBSPN tab. He read the specs aloud, his voice gaining traction.
+He clicked back to the VBSPN tab and read the program specifications aloud, his voice gaining traction:
 
-- "An 18-month program."
-
-- "Open to Virginia Beach high school seniors AND Adults with official residency in Virginia."
-
-- "Year One: Part-time mornings. Year Two: Full-time clinicals."
-
-- "100% NCLEX-PN pass rate."
+> - An 18-month program.
+> - Open to Virginia Beach high school seniors AND Adults with official residency in Virginia.
+> - Year One: Part-time mornings. Year Two: Full-time clinicals.
+> - 100% NCLEX-PN pass rate.
 
 "It's rigorous," Patrick noted. "It's basically an associate's degree compressed into eighteen months. But look at the cost."
 
 He scrolled to the bottom.
 
-- Program total cost: Adults (all inclusive): \$7,500.
+> - Program total cost: Adults (all inclusive): \$7,500.
 
 Patrick winced. "Seven grand. That's... that's a lot."
 
@@ -9585,12 +9465,7 @@ Nichole looked up at him and smiled. She tapped her screen. <aac>Homework.</aac>
 
 #### The Debrief
 
-Date: July 6, 2003
-
-Time: 6:45 PM
-
-
-The hotel room was cramped but buzzing with energy. The smell of takeout clam chowder hung heavy in the air.
+By 6:45 PM on July 6, 2003, the hotel room was cramped but buzzing with energy. The smell of takeout clam chowder hung heavy in the air.
 
 Patrick had the phone cord stretched across the room, plugged into his heavy laptop on the small desk. The dial-up modem made a series of screeching, mechanical handshakes before finally connecting to the hotel's slow internet service.
 
@@ -10596,7 +10471,7 @@ Patrick clicked the link. He scrolled through the course offerings. *Culinary Ar
 
 He clicked *Health Careers*.
 
-Certified Nursing Assistant (CNA). *8-week course. Prepares students for basic patient care hygiene, feeding, and ambulation.*
+> Certified Nursing Assistant (CNA). *8-week course. Prepares students for basic patient care hygiene, feeding, and ambulation.*
 
 Patrick frowned. He read the course description. It was exactly what he expected—the "Gait Belt" class.
 
@@ -10638,11 +10513,9 @@ Patrick read the text aloud, his voice rising with excitement.
 
 He scrolled down to the program details.
 
-- Credential: Prepares students to sit for the NCLEX-PN (National Council Licensure Examination).
-
-- Duration: 12-15 Months (Accelerated).
-
-- Eligibility: Open to matriculated BSU students and continuing education adults.
+> - Credential: Prepares students to sit for the NCLEX-PN (National Council Licensure Examination).
+> - Duration: 12–15 Months (Accelerated).
+> - Eligibility: Open to matriculated BSU students and continuing education adults.
 
 Patrick stopped scrolling. He looked at Nichole.
 
@@ -10654,13 +10527,10 @@ He looked at the map on the screen. The University Medical Center wasn't just an
 
 He looked at the scope of practice for an LPN in Rhode Island.
 
-- *Medication Administration.*
-
-- *Sterile Wound Care.*
-
-- *Tracheostomy Care.*
-
-- *Supervision of CNAs.*
+> - *Medication Administration.*
+> - *Sterile Wound Care.*
+> - *Tracheostomy Care.*
+> - *Supervision of CNAs.*
 
 "This is the shield, Nikki," Patrick said, pointing to the letters NCLEX-PN. "If I pass that board exam, I am a nurse. A state-licensed nurse. If a Housing Director tells me I'm 'just a brother,' I slap my license on the desk and tell them I'm her medical provider."
 
@@ -11346,7 +11216,7 @@ They rolled over to the fare gates. Patrick held up Nichole’s BTA Zone 15 Regi
 
 They took the massive glass elevator up to Level 2: The Sky Platform. Stepping out of the elevator, they felt the station's architectural power. The elevated viaduct ran parallel to the coastline, offering a dramatic view of Narragansett Bay through the floor-to-ceiling glass walls. The water was churning with whitecaps, confirming the ferry suspension.
 
-An **ARTS *The Patriot*** train glided into the station. It was the 2:30 PM train heading north to the city, and under the BTA/ARTS agreement, local riders could board the intercity trains for one-stop hops within the metro area.
+An ARTS *The Patriot* train glided into the station. It was the 2:30 PM train heading north to the city, and under the BTA/ARTS agreement, local riders could board the intercity trains for one-stop hops within the metro area.
 
 The doors slid open. Because the platform was raised to match the floor height of the coaches perfectly, there was 100% level boarding. Patrick pushed Nichole straight on—no bridge plates, no ramps.
 
@@ -12704,9 +12574,7 @@ He flipped to a page highlighted in yellow.
 
 "Exactly," Tom smiled. "Which is why your Grandmother Helen was a genius. She didn't just leave you a college fund. She left you a bridge fund."
 
-Tom pulled out the passbook for the separate, traditional cash savings account Helen had left them.
-
-Balance: \$23,497.61.
+Tom pulled out the passbook for the separate, traditional cash savings account Helen had left them, opening it to the final stamped balance of \$23,497.61.
 
 "The landlord at The Foundry requires a standard security deposit of one month's rent, plus the first month up front," Tom calculated, tapping his calculator. "That's \$4,500 just to get the keys. But to lock it down against other students, we need leverage."
 
@@ -12860,11 +12728,7 @@ This wasn't a guest room. This was Bennett Dynamics HQ.
 
 "Desks against the south wall," Patrick ordered, directing Uncle Mark.
 
-They set up a long, continuous L-shaped workstation.
-
-- Station 1 (Patrick): Dual monitors for CAD work and engineering schematics.
-
-- Station 2 (Nichole): A custom-height cutout section where her wheelchair could roll directly under the desk. Her monitor was mounted on an articulating arm that could swing down to her eye level.
+Together they assembled a long, continuous L-shaped workstation divided into two dedicated stations. On Patrick’s side sat dual monitors angled for CAD work and engineering schematics; on Nichole’s side, a custom-height cutout allowed her wheelchair to roll directly beneath the desktop, where her monitor hung from an articulating arm that could swing smoothly down to her eye level.
 
 They ran the ethernet cables. They plugged in the server tower.
 
@@ -13203,9 +13067,7 @@ Below them, the water was churning.
 
 A sleek, white-and-gold catamaran was backing into Pier 2. It was significantly larger than the nimble BTA ferries they had taken from Portsmouth. Its engines rumbled with a deep, throaty diesel growl that vibrated through the railing.
 
-On the side of the hull, in bold naval lettering, was the logo:
-
-RIFTBA (Rhode Island Ferry, Turnpike, and Bridge Authority)
+Painted along the side of the hull in crisp naval lettering was the emblem of RIFTBA—the Rhode Island Ferry, Turnpike, and Bridge Authority.
 
 "Rift-Ba," Patrick pronounced, reading the acronym. "The Heavy Iron."
 
@@ -13217,15 +13079,9 @@ The digital matrix sign on the stern read: BLOCK ISLAND - OLD HARBOR.
 
 "That's the State run," Patrick explained, his obsession with logistics kicking in. "BTA handles the bay—Newport, Providence, the calm water stuff. But RIFTBA? They handle the bridges and the open ocean. That boat goes twelve miles out into the Atlantic."
 
-He traced the route in the air.
+He traced the routes in the air, calling up the mental schematic he had memorized from the regional maps.
 
-"They run three lines," Patrick listed, downloading the mental schematic.
-
-1.  The Mainline (Point Judith): The big car ferries. The lifeline for trucks and fuel.
-
-2.  The Tourist Run (Newport): Fast ferry from Perrotti Park.
-
-3.  The City Link (Braxton): This one right here. Passenger-only high-speed to the island.
+"They run three lines," Patrick said. "There's the Mainline out of Point Judith—the big car ferries that act as the lifeline for trucks and fuel. There's the Tourist Run, the fast ferry out of Perrotti Park in Newport. And then there's the City Link right here in Braxton—passenger-only high-speed service straight out to the island."
 
 Nichole watched the passengers disembarking. They looked different than the commuters on the subway. They were wearing windbreakers, carrying heavy backpacks and fishing gear. They looked wind-blown. They had just crossed open water.
 
@@ -13479,13 +13335,7 @@ Technically, the purists in Rhode Island insisted on crunchy peanut butter to ad
 
 Creamy peanut butter was the engineer's choice. Low friction. High structural integrity.
 
-He lined up four slices of bread.
-
-- Step 1: Thick layer of peanut butter on one side (the structural base).
-
-- Step 2: A massive scoop of Marshmallow Fluff on the other side (the sweet, sticky glue).
-
-- Step 3: Merge.
+He lined up four slices of bread across the counter like components on an assembly bench. First, he spread a thick, even layer of peanut butter across two of the slices to form the structural base. Next, he scooped a generous mound of Marshmallow Fluff onto the matching slices as the sweet, sticky glue, then pressed the halves cleanly together.
 
 He sliced them diagonally—because sandwiches taste better that way—and placed them on plates.
 
@@ -13592,15 +13442,7 @@ Nichole tapped her screen.
 
 <aac>Refresh. On. My. Mark.</aac>
 
-They had the Course Reference Numbers (CRNs) written on a whiteboard on the wall, prioritized by "Scarcity."
-
-- ENG 101 - Sec 04 (MWF 9:00 AM): The "Good Professor" (Prof. Harrison). High demand.
-
-- PSY 101 - Sec 02 (MWF 11:00 AM): The large lecture hall. Easy to get into, but they needed the specific accessible seating block.
-
-- HIS 110 - Sec 01 (TuTh 10:00 AM): Western Civ.
-
-- MATH 095 - Sec 03 (TuTh 1:00 PM): Pre-Algebra.
+On the whiteboard mounted beside the desk, they had written out the Course Reference Numbers in strict order of scarcity. At the top of the list sat ENG 101, Section 04, meeting Mondays, Wednesdays, and Fridays at 9:00 AM with Professor Harrison—the universally coveted instructor whose seats vanished in seconds. Below that was PSY 101, Section 02, at 11:00 AM on the same days, a large lecture hall that was easy enough to enter as long as they claimed the designated accessible seating block. Rounding out the Tuesday-Thursday slate were HIS 110, Section 01, for Western Civilization at 10:00 AM, and MATH 095, Section 03, for Pre-Algebra at 1:00 PM.
 
 Patrick looked at the math entry. He frowned.
 
@@ -13624,7 +13466,7 @@ She had intentionally waived her placement results to drop down to his level. Sh
 
 "Yeah, well, try not to laugh when I fail to solve for X," Patrick said, sweating slightly. "Math is my kryptonite."
 
-Time: 8:59:50 AM
+On Nichole’s master clock window, the digits ticked over to 8:59:50 AM.
 
 "Ten seconds," Patrick warned.
 
@@ -13644,9 +13486,7 @@ Spin. Spin. Spin.
 
 The page loaded. ADD/DROP CLASSES.
 
-Patrick’s fingers flew. He didn't search for classes. He typed the CRN codes directly into the "Quick Add" boxes.
-
-10452\. 10889. 11230. 10045.
+Patrick’s fingers flew. He didn't search for classes. He typed the CRN codes directly into the "Quick Add" boxes: 10452, 10889, 11230, and 10045.
 
 He hit SUBMIT for Nichole first. Status: Registered.
 
@@ -13658,19 +13498,15 @@ Patrick slumped back in his chair, exhaling a massive breath.
 
 "We're in," he said. "Section 04 for English. Section 03 for Math. Same room. Same time."
 
-Nichole looked at the screen. The schedule was locked.
+Nichole looked at the confirmation grid on her screen. The schedule was locked:
 
-- Monday/Wednesday/Friday:
-
-  - 09:00 AM - 09:50 AM: English 101 (Prof. Harrison)
-
-  - 11:00 AM - 11:50 AM: Psychology 101 (Prof. Silva)
-
-- Tuesday/Thursday:
-
-  - 10:00 AM - 11:15 AM: Western Civ (Prof. Dubois)
-
-  - 01:00 PM - 02:15 PM: Pre-Algebra (Prof. Miller)
+> Monday / Wednesday / Friday<br>
+> 09:00 AM – 09:50 AM: English 101 (Prof. Harrison)<br>
+> 11:00 AM – 11:50 AM: Psychology 101 (Prof. Silva)
+>
+> Tuesday / Thursday<br>
+> 10:00 AM – 11:15 AM: Western Civ (Prof. Dubois)<br>
+> 01:00 PM – 02:15 PM: Pre-Algebra (Prof. Miller)
 
 It was a perfect "Block Schedule." No early mornings (before 9 AM). No late nights. And plenty of gaps for "Maintenance" (lunch, bathroom, rest).
 
@@ -13771,15 +13607,7 @@ And looking at it, he realized he didn't want there to be.
 
 The world expected him to be a "normal" college guy. To go to mixers at the Student Union. To flirt with girls in the cafeteria. To bring someone home on a Friday night.
 
-But Patrick played the scenario out in his engineer's brain.
-
-- Step 1: Bring girl home.
-
-- Step 2: Explain why his sister sleeps in his bed.
-
-- Step 3: Interrupt the date to carry his sister to the toilet.
-
-- Step 4: Watch the girl look at them with that mix of horror and pity.
+But Patrick played the scenario out to its logical conclusion in his engineer's brain: bringing a girl back to the loft, trying to explain why his twin sister slept in his bed, interrupting the date halfway through a movie to carry Nichole into the bathroom, and watching a stranger's face curdle into that familiar mixture of horror and pity.
 
 He shook his head. He had no interest in auditioning for someone else's approval. He had a full-time job. He was the CEO, the Chief Engineer, and the Head of Security for Bennett Dynamics. The position was filled.
 
@@ -13847,11 +13675,11 @@ Nichole sat on the sofa, her convertible laptop balanced on her knees. She was m
 
 Usually, the website was a comforting grid of green "ON TIME" indicators. Today, it was a wall of red.
 
-ALERT: SEVERE FLOODING. BLUE LINE: SUSPENDED. RED LINE: SUSPENDED. BUS SERVICE: SUSPENDED.
+> ALERT: SEVERE FLOODING. BLUE LINE: SUSPENDED. RED LINE: SUSPENDED. BUS SERVICE: SUSPENDED.
 
 Then, the final notification flashed across the screen.
 
-THE BRAXTON LINK: FLOODGATES ACTIVATED. SYSTEM SEALED.
+> THE BRAXTON LINK: FLOODGATES ACTIVATED. SYSTEM SEALED.
 
 Nichole looked up. She felt a strange, primal ping of anxiety. The Link—their umbilical cord to the university, the grocery store, and the world—was physically shutting down.
 
@@ -13951,7 +13779,10 @@ Patrick walked to the window. He pressed his forehead against the cool pane.
 
 Nichole checked her screen. The wall of red alerts on the transit dashboard blinked, then refreshed.
 
-SYSTEM UPDATE: THE BRAXTON LINK: FLOODGATES RETRACTING AT 04:30. PASSENGER SERVICE RESUMES: 05:00. BTA SURFACE ROUTES: RESTORED ON DELAYED SCHEDULE. OSTA REGIONAL RAIL: INSPECTING TRACKS. SERVICE EXPECTED 06:00.
+> SYSTEM UPDATE:<br>
+> THE BRAXTON LINK: FLOODGATES RETRACTING AT 04:30. PASSENGER SERVICE RESUMES: 05:00.<br>
+> BTA SURFACE ROUTES: RESTORED ON DELAYED SCHEDULE.<br>
+> OSTA REGIONAL RAIL: INSPECTING TRACKS. SERVICE EXPECTED 06:00.
 
 She let out a breath. The siege was over. The city had taken a beating, but the grid was rebooting.
 
@@ -14075,13 +13906,7 @@ He looked down at his sister. In the dim light of the streetlamps filtering thro
 
 She was the perfect victim.
 
-He analyzed the variables with the cold detachment of an engineer, and the result made him want to vomit.
-
-- Variable 1: Mobility. She couldn't walk. She couldn't run. She couldn't fight off a man of his size.
-
-- Variable 2: Voice. She couldn't scream. Even if she did, the apartment walls were thick concrete.
-
-- Variable 3: Biology. This was the terrifying clincher. If he were a monster—if he were one of those men he read about in the statistics—he could do anything to her. And there would be no consequences. She was on birth control. He was sterile. There would be no pregnancy. There would be no DNA evidence that "didn't belong." There would be no biological alarm bell to alert a doctor or a parent.
+He analyzed the variables with the cold detachment of an engineer, and the result made him want to vomit. First, there was mobility: she couldn't walk, she couldn't run, and she couldn't physically fight off a man of his size. Second, there was voice: she couldn't scream, and even if she managed a sound, the apartment walls were thick industrial concrete. Third—the terrifying clincher—there was biology. If he were a monster, one of those men he read about in the statistics, he could do anything to her, and there would be no outward consequences. She was on birth control, and he was sterile. There would be no pregnancy, no DNA evidence that "didn't belong," and no biological alarm bell to alert a doctor or a parent.
 
 It was a closed loop. A black box. The "Perfect Crime" handed to him on a silver platter by biology and pharmacology.
 
@@ -14474,13 +14299,11 @@ It was loud. It was messy. It was college.
 
 They emerged from the cafeteria, blinking in the bright August sun.
 
-A large whiteboard was set up on the lawn, listing the afternoon's "Optional Activities."
+A large whiteboard was set up on the lawn, listing the afternoon's optional activities:
 
-1.  1:00 PM - 4:00 PM: Bookstore Rush (Purchase Textbooks & Gear)
-
-2.  2:00 PM - 5:00 PM: "Meet & Mingle" Social Mixer (Icebreakers & Games)
-
-3.  3:00 PM - 8:00 PM: Residence Hall Move-In (Keys & Unloading)
+> 1. 1:00 PM – 4:00 PM: Bookstore Rush (Purchase Textbooks & Gear)
+> 2. 2:00 PM – 5:00 PM: "Meet & Mingle" Social Mixer (Icebreakers & Games)
+> 3. 3:00 PM – 8:00 PM: Residence Hall Move-In (Keys & Unloading)
 
 Patrick looked at the list. He looked at Nichole.
 
@@ -14972,13 +14795,7 @@ Guarding. She was in pain.
 
 "I know, I know," Patrick soothed, putting a hand on her back to ground her. "I'm sorry."
 
-He sat back. He looked at the rash again. He ran the logic tree in his head:
-
-- Can I fix this with zinc oxide? No. That traps moisture.
-
-- Can I fix this with air drying? No. It's already established.
-
-- Is this my fault? He checked the mental log. He had washed her perfectly last night. He had dried her completely. But she had been sitting in a warm lecture hall for three hours yesterday in tight jeans. Darkness + Moisture + Heat = Yeast. It was simple biology.
+He sat back, studying the rash again as he ran the clinical logic tree through his head. Zinc oxide wouldn't fix this; barrier paste would only trap moisture underneath. Air drying alone wouldn't clear it either, not once satellite lesions were already established. A sharp pang of doubt made him ask himself if it was his fault, and he immediately audited his mental log. He had washed her thoroughly last night and dried every crease completely—but she had spent three hours sitting in a warm lecture hall yesterday in tight jeans. Darkness, moisture, and heat meant yeast. It was simple biology.
 
 But biology moved fast on compromised skin. If that skin broke down, it became an open wound. An open wound near an incontinence brief was a highway for bacteria.
 
@@ -15066,17 +14883,7 @@ There was a short pause on the line. Usually, family members called saying "it h
 
 Patrick looked at the digital clock. 5:50 AM.
 
-He ran the transit math in his head.
-
-- 06:00 AM: Leave apartment.
-
-- 06:15 AM: Arrive Narragansett Esplanade Ferry Terminal via The Braxton Link.
-
-- 06:30 AM: Board the first BTA Newport Flyer of the day.
-
-- 07:00 AM: Arrive Perrotti Park, Newport.
-
-- 07:15 AM: OSTA Bus to the hospital.
+He ran the transit math rapidly in his head: out the apartment door at 6:00 AM, through The Braxton Link to Narragansett Esplanade Ferry Terminal by 6:15, aboard the first BTA *Newport Flyer* of the morning at 6:30, docking at Perrotti Park in Newport at 7:00, and transferring onto the 7:15 OSTA bus up to the hospital.
 
 "We'll be there," Patrick promised. "We're catching the 0630 ferry. We'll be at your door at 0755."
 
@@ -15130,13 +14937,7 @@ They rolled onboard.
 
 "Three stops," Patrick muttered, locking Nichole’s brakes.
 
-The doors hissed shut. The train accelerated into the dark tunnel.
-
-Stop 1: State Center
-
-Stop 2: Market East
-
-Stop 3: Narragansett Esplanade
+The doors hissed shut, and the train accelerated into the dark tunnel, ticking steadily through State Center and Market East before gliding into Narragansett Esplanade.
 
 The ride took six minutes. They stood in silence, the rhythmic thrum-whoosh of the train replacing conversation. Nichole sat with her head back, her eyes closed, conserving energy. Every vibration of the train track sent a tiny phantom sting through her hip, but she didn't groan. She just breathed.
 
@@ -15164,19 +14965,7 @@ The ferry docked at Perrotti Park right on schedule. Patrick pushed her down the
 
 They hurried to the Gateway Center, the main bus hub for the island. It was buzzing with the morning rush.
 
-Patrick scanned the digital departure board. The Gateway served the entire of OSTA’s Newport network:
-
-- 60 Providence via West Main Road
-
-- 60 Providence via East Main Road
-
-- 63 Purple Line (Shopping Centers)
-
-- 62 Red Line (Newport Square)
-
-- 64 (Rhode Island State University / Kingston ARTS Station)
-
-- 67 Yellow Line (Newport Mansions)
+Patrick scanned the digital departure board, where OSTA’s entire Newport network scrolled past in amber light: the dual Route 60 runs toward Providence via West Main Road and East Main Road, the 63 Purple Line out to the shopping centers, the 62 Red Line to Newport Square, Route 64 over to Rhode Island State University and Kingston ARTS Station, and the 67 Yellow Line looping past the Newport Mansions.
 
 "There," Patrick pointed.
 
@@ -15703,7 +15492,7 @@ A guy in a backwards baseball cap—the ringleader—pushed a heavy cart into th
 
 He hit a button on a massive boombox strapped to the cart.
 
-The Music: He had clearly meant to cue up *"Seconds Into Forever"* from The Stardust Engine's *Progress Street*—a sweet, three-minute romantic ballad literally built to time a speed-dating round. Instead, in his frantic rush, he fat-fingered the skip button on the boombox and landed on the next track. For ten seconds, a majestic, cinematic analog brass-synth swell filled the room. It sounded like slow-motion victory. Patrick almost relaxed. Then—CRASH. A screeching guitar slide tore through the air, followed by a pounding synth-drum beat at 150 BPM. It was *"Thunder in the Rain"* by The Stardust Engine.
+He had clearly meant to cue up "Seconds Into Forever" from The Stardust Engine's *Progress Street*—a sweet, three-minute romantic ballad literally built to time a speed-dating round. Instead, in his frantic rush, he fat-fingered the skip button on the boombox and landed on the next track. For ten seconds, a majestic, cinematic analog brass-synth swell filled the room. It sounded like slow-motion victory. Patrick almost relaxed. Then—*crash*. A screeching guitar slide tore through the air, followed by a pounding synth-drum beat at 150 BPM. It was "Thunder in the Rain" by The Stardust Engine.
 
 Thirty students flooded the room, laughing and breathless. They began pairing off randomly, shouting over the power ballad.
 
@@ -15711,11 +15500,11 @@ Nichole winced. She squeezed her eyes shut, burying her face into Patrick’s ho
 
 Patrick’s jaw tightened. He covered her ear with his hand to dampen the sound.
 
-He looked up. Two people were beelining for the loveseat. They were moving in a pincer formation.
+He looked up. Two people were beelining for the loveseat, moving in a pincer formation.
 
-The Predators: From the left came Jessica. She didn't look random. She looked like she had been waiting for this exact moment of chaos to make her move. From the right came Kyle. A stranger in a varsity jacket who had scanned the room, saw a girl not talking to anyone, and decided she was the easiest target.
+From the left came Jessica. She didn't look random; she looked like she had been waiting for this exact moment of chaos to make her move. From the right came Kyle, a stranger in a varsity jacket who had scanned the room, saw a girl not talking to anyone, and decided she was the easiest target.
 
-The Approach: Jessica reached them first. She moved with the confidence of someone who had already decided how this interaction would end. She stepped between the coffee table and Patrick’s knees, closing the gap to zero.
+Jessica reached them first, moving with the confidence of someone who had already decided how this interaction would end. She stepped between the coffee table and Patrick’s knees, closing the gap to zero.
 
 Her intention was clear. In any other scenario, she would have simply dropped onto his lap, wrapped an arm around his neck, and planted a kiss on him before he could object. It was a shock-and-awe move.
 
@@ -15749,11 +15538,11 @@ He didn't tap her knee. He didn't touch her shin.
 
 His hand landed heavily on her upper thigh, well above the knee. His fingers splayed out, claiming the real estate.
 
-The Internal Short-Circuit: Nichole stopped breathing. That specific patch of skin was a Patrick Zone. It was a zone of absolute vulnerability, associated with the safety of the bath and the toilet transfer. Kyle’s hand felt like a brand. It was hot, sweaty, and possessive. It wasn't cleaning her; it was staining her.
+Nichole stopped breathing. That specific patch of skin was a Patrick Zone—a zone of absolute vulnerability, associated with the safety of the bath and the toilet transfer. Kyle’s hand felt like a brand. It was hot, sweaty, and possessive. It wasn't cleaning her; it was staining her.
 
 "You don't have to say a word," Kyle smirked, leaning in, giving her leg a squeeze—a familiar, intimate gesture he had absolutely no right to make. "Let's just see where the three minutes takes us."
 
-The Detonation: Patrick didn't just see a hand. He saw a foreign object breaching the perimeter.
+Patrick didn't just see a hand. He saw a foreign object breaching the perimeter.
 
 The rage that hit him wasn't emotional; it was biological. It was the reaction of a wolf seeing a stranger’s teeth near its cub’s throat.
 
@@ -15793,9 +15582,7 @@ He turned to Jessica, who was still standing there, stunned by the violence of t
 
 He leaned down toward Nichole. He didn't offer her a hand. He didn't do the gentle bridal scoop. He needed to clear the room, and he needed to show these people exactly what they were dealing with.
 
-He bent his knees, sliding his arms under her knees and behind her back, locking his hands together. He braced his core.
-
-The Lift: Patrick executed a perfect, heavy-duty Deadlift Carry.
+He bent his knees, sliding his arms under her knees and behind her back, locking his hands together. Bracing his core, Patrick executed a perfect, heavy-duty deadlift carry.
 
 He powered up, lifting her entire body weight vertically in one smooth, explosive motion. He held her high against his chest, her legs dangling, her face buried in his neck. It wasn't romantic. It was industrial. It was a display of raw, utilitarian strength that said, *I can move this mountain, and you cannot.*
 
@@ -15923,7 +15710,7 @@ Patrick saw the motion. He understood instantly.
 
 "He's gone, Nikki," Patrick said, his voice dropping to that low, resonant register he used for regulation. "He's not here."
 
-Nichole shook her head violently. She kept scrubbing. She reached for her <aac>ConvertiBook</aac>. Her fingers trembled as she typed.
+Nichole shook her head violently. She kept scrubbing. She reached for her ConvertiBook. Her fingers trembled as she typed.
 
 DIRTY HE TOUCHED
 
@@ -16297,17 +16084,19 @@ She was typing.
 
 Patrick tried to sit up. "Class," he rasped. "Western Civ..."
 
-He looked at the screen. Nichole had a browser window open. It was the BSU Faculty Email directory.
+He looked at the screen. Nichole had a browser window open to the BSU Faculty Email directory.
 
-TO: Professor Dubois FROM: Nichole Bennett SUBJECT: ABSENCE - MEDICAL EMERGENCY
-
-PROFESSOR,
-
-PATRICK AND I WILL NOT BE IN CLASS TODAY. MY CARE TEAM IS DOWN. THE ENGINE HAS OVERHEATED.
-
-WE WILL GET THE NOTES FROM THE TA. DO NOT WORRY. WE ARE SAFE.
-
-\- NICHOLE
+> TO: Professor Dubois<br>
+> FROM: Nichole Bennett<br>
+> SUBJECT: ABSENCE - MEDICAL EMERGENCY
+>
+> PROFESSOR,
+>
+> PATRICK AND I WILL NOT BE IN CLASS TODAY. MY CARE TEAM IS DOWN. THE ENGINE HAS OVERHEATED.
+>
+> WE WILL GET THE NOTES FROM THE TA. DO NOT WORRY. WE ARE SAFE.
+>
+> — NICHOLE
 
 Patrick read the email. *My care team is down.*
 
@@ -16323,13 +16112,7 @@ Nichole stopped typing. She reached over and tapped his arm. She hit the 'Speak'
 
 She pointed to the nightstand.
 
-There, sitting in a neat row, were three items she had managed to organize while he slept:
-
-1.  A bottle of water (she had dragged it from his backpack).
-
-2.  The bottle of Ibuprofen (she couldn't open it, but she had put it there as a signal).
-
-3.  Her mouse.
+There, lined up in a neat row along the edge of the wood, sat three items she had managed to stage while he slept: a bottle of water she had dragged up from his backpack, a bottle of ibuprofen she lacked the grip strength to open on her own but had placed front and center as a signal, and her optical mouse.
 
 She tapped the mouse.
 
@@ -16522,7 +16305,10 @@ She pulled the covers up. She scooted close to him, pressing her cool skin again
 
 She reached for her Apex ConvertiBook on the swing arm. She opened the document she had been typing.
 
-STATUS REPORT: 1. TOILETING: COMPLETE (SOLO). 2. HYGIENE: SUB-OPTIMAL. MANUAL WIPE FAILED. 3. PATIENT (PATRICK): STABLE.
+> STATUS REPORT:<br>
+> 1. TOILETING: COMPLETE (SOLO).<br>
+> 2. HYGIENE: SUB-OPTIMAL. MANUAL WIPE FAILED.<br>
+> 3. PATIENT (PATRICK): STABLE.
 
 She looked at him. He woke up, blinking groggily. He looked at the empty water bottle he had drained earlier.
 
@@ -16558,28 +16344,19 @@ Patrick smiled weakly. "Yes, ma'am."
 
 He closed his eyes. The Bennett Machine hadn't just survived the fever; it had identified a design flaw and scheduled a patch.
 
-Chapter 4: The License
+***
 
-Part 1: The Status Update
+#### September 15, 2005 — The Status Update
 
-Date: September 15, 2005
-
-Time: 9:02 AM
-
-
-The air in the second bedroom was stale. Patrick hadn't opened a window in forty-eight hours.
+At two minutes past nine in the morning, the air in the second bedroom was stale. Patrick hadn't opened a window in forty-eight hours.
 
 He sat at his L-shaped desk, his leg bouncing in a rapid, nervous rhythm that vibrated through the floorboards. On the screen of his desktop computer, the web browser was open to the National Council of State Boards of Nursing portal.
 
-STATUS: PENDING
+> STATUS: PENDING
 
-It had been two days since he sat for the NCLEX-PN. He had answered the minimum number of questions—85 items—before the computer shut off.
+It had been two days since he sat for the NCLEX-PN. He had answered the minimum number of questions—eighty-five items—before the computer shut off.
 
-To a nursing student, the "shut off at 85" meant one of two things:
-
-1\. You were so brilliant the algorithm knew you passed.
-
-2\. You were so dangerous the algorithm knew you failed.
+To a nursing student, having the exam shut off at eighty-five questions meant one of two extremes: either you had performed so brilliantly that the adaptive algorithm already knew you had passed, or you had answered so dangerously that it already knew you had failed.
 
 There was no middle ground.
 
@@ -16609,27 +16386,20 @@ The page blinked. It reloaded.
 
 Patrick leaned in, his breath hitching in his throat.
 
-EXAM: NCLEX-PN
+> EXAM: NCLEX-PN<br>
+> DATE: 09/13/2005<br>
+> STATUS: DELIVERY SUCCESSFUL<br>
+> RESULT: PASS
 
-DATE: 09/13/2005
-
-STATUS: DELIVERY SUCCESSFUL
-
-RESULT: PASS
-
-He froze. He read it again. PASS.
+He froze. He read it again. *PASS.*
 
 Then, he scrolled down to the license verification section.
 
-RHODE ISLAND DEPARTMENT OF HEALTH
-
-LICENSEE: PATRICK BENNETT
-
-LICENSE TYPE: LICENSED PRACTICAL NURSE
-
-LICENSE NUMBER: LPN-\[XXXXXXXX\]
-
-STATUS: ACTIVE
+> RHODE ISLAND DEPARTMENT OF HEALTH<br>
+> LICENSEE: PATRICK BENNETT<br>
+> LICENSE TYPE: LICENSED PRACTICAL NURSE<br>
+> LICENSE NUMBER: LPN-[XXXXXXXX]<br>
+> STATUS: ACTIVE
 
 Patrick let out a sound that was half-laugh, half-sob. He slumped back in his chair, the tension snapping like a cut wire.
 
@@ -16685,12 +16455,7 @@ He placed it on the desk.
 
 #### The Malpractice Shield
 
-Date: September 16, 2005
-
-Time: 10:00 AM
-
-
-The printer on the desk was still warm from printing the license verification.
+At ten o'clock on the morning of September 16, 2005, the printer on the desk was still warm from printing the license verification.
 
 Patrick didn't celebrate by going out for pizza. He didn't take the day off. He sat back down at his L-shaped desk and opened a new browser tab.
 
@@ -16700,19 +16465,7 @@ Nichole rolled her chair closer. She watched him type into the search bar: Profe
 
 "License isn't enough," Patrick muttered, clicking on a provider link. "A license gives me the right to practice. Insurance gives me the protection to practice."
 
-He pulled up a quote screen for a major carrier. He began filling in his details.
-
-• Profession: Licensed Practical Nurse.
-
-• State: Rhode Island.
-
-• Employment Status: Self-Employed / Private Duty.
-
-He paused at the coverage limits.
-
-• Option A: Basic (\$1 Million / \$3 Million).
-
-• Option B: Enhanced (\$2 Million / \$4 Million).
+He pulled up a quote screen for a major carrier and filled in his professional profile: Licensed Practical Nurse, practicing in the State of Rhode Island, self-employed in private duty care. At the bottom of the page, he paused over the two coverage tiers—Option A offering basic limits of \$1 million per occurrence and \$3 million aggregate, and Option B offering enhanced limits of \$2 million and \$4 million.
 
 He didn't hesitate. He clicked Option B.
 
@@ -16756,12 +16509,7 @@ She tapped her screen.
 
 #### The Integration
 
-Date: September 22, 2005
-
-Time: 2:30 PM
-
-
-The appointment began like every other check-up for the last two years, but the energy in the room had shifted.
+At two-thirty on the afternoon of September 22, 2005, the appointment began like every other check-up for the last two years, except the energy in the room had shifted.
 
 Patrick rolled Nichole into Exam Room 2. He didn't sit in the guest chair. He stood by the computer terminal, arms crossed, wearing his BSU nursing scrubs (he had come straight from a lab).
 
@@ -16789,15 +16537,11 @@ Dr. Thorne nodded. He sat down at the room's computer terminal and logged in.
 
 He spun the monitor so they could see.
 
-PATIENT: BENNETT, NICHOLE
-
-CARE TEAM:
-
-1\. Primary Care: Alistair Thorne, MD
-
-2\. Neurology: Marcus Vance, MD
-
-3\. Home Health / Skilled Nursing: Patrick Bennett, LPN (License Verified)
+> PATIENT: BENNETT, NICHOLE<br>
+> CARE TEAM:<br>
+> 1. Primary Care: Alistair Thorne, MD<br>
+> 2. Neurology: Marcus Vance, MD<br>
+> 3. Home Health / Skilled Nursing: Patrick Bennett, LPN (License Verified)
 
 "I'm entering a standing order," Thorne narrated as he typed. " 'Patrick Bennett, LPN, is authorized to administer all prescribed medications, perform wound care, and manage catheterization protocols per standard nursing practice.'"
 
@@ -16831,20 +16575,13 @@ Nichole smiled. She clicked her mouse.
 
 <aac>Team. Assembled.</aac>
 
-
-- Date: Monday, December 26, 2005 (Sophomore Year)
-
-- Location: Unit 404, The Foundry Lofts, Braxton, RI
-
-- Surgery: Bilateral Hamstring Lengthening & Adductor Release (Scheduled for 0730 tomorrow at University Medical Center, Braxton)
-
 ## The Procedure: "The Tune-Up"
 
 ### Part 1: The Handover (The Night Before) Time: 8:00 PM & The Separation
 
-#### The Handover (The Night Before) Time: 8:00 PM
+#### The Handover (The Night Before)
 
-The living room of Unit 404 was a mix of post-Christmas chaos and pre-surgical precision.
+By eight o'clock on the evening of Monday, December 26, 2005—midway through winter break of their sophomore year—the living room of Unit 404 at The Foundry Lofts was a mix of post-Christmas chaos and pre-surgical precision. At 0730 the following morning, Nichole was scheduled to check into University Medical Center in Braxton for a bilateral hamstring lengthening and adductor release.
 
 On the coffee table lay the spoils of the day. They had spent the morning in Portsmouth with the family, opening gifts and eating leftovers, before packing up the van for the short drive back to Braxton. There were stacks of new DVDs, a few video games purchased with electronics store gift cards, and a new hooded sweatshirt for Nichole.
 
@@ -16852,15 +16589,7 @@ But the Kitchen Island was a different world. It looked like a sterile field.
 
 Patrick stood at the counter, a pen light in his mouth, reviewing a document he had drafted: *OP-PLAN: LEG DAY (DEC 2005).*
 
-He wasn't just a brother packing an overnight bag. He was Patrick Bennett, LPN, packing a "Mobile Medical Unit."
-
-- Hydration: Two sterilized 1-liter hydration bladders with bite valves. (Standard hospital cups were useless when a patient was flat on their back).
-
-- Infection Control: A stack of Chlorhexidine Gluconate (CHG) wipes. He wasn't trusting the standard hospital soap; he was doing a secondary scrub of the surgical sites himself.
-
-- The Chart: His three-ring binder, now thick with a year’s worth of data. It was tabbed with sections for *Current Meds*, *Vitals*, and *Neuro Checks*.
-
-- The "Vocal" Proxy: A laminated sheet tucked into the front pocket titled *NON-VERBAL PAIN SCALE*. It listed Nichole’s specific distress cues: *Jaw clenching, rapid blinking, withdrawal from touch.*
+He wasn't just a brother packing an overnight bag. He was Patrick Bennett, LPN, staging a mobile medical unit. For hydration, he packed two sterilized one-liter bladders fitted with bite valves, since standard hospital cups were useless when a patient was flat on her back. For infection control, he stacked packets of Chlorhexidine Gluconate (CHG) wipes; he wasn't trusting the standard hospital soap without doing a secondary scrub of the surgical sites himself. Beside them sat his three-ring chart binder, now thick with a year's worth of data and tabbed with sections for *Current Meds*, *Vitals*, and *Neuro Checks*. Tucked into the clear front pocket was her vocal proxy: a laminated reference sheet titled *NON-VERBAL PAIN SCALE* listing Nichole’s specific distress cues—*jaw clenching, rapid blinking, withdrawal from touch.*
 
 "Check," Patrick muttered, ticking off the 'Emesis Basin' line item. "Anesthesia makes you pukey. We are prepared for puke."
 
@@ -16992,13 +16721,7 @@ Nichole sat on the edge of the bed, shivering slightly—partly from the hospita
 
 "I know," Patrick said, picking up the gown. "It's ugly. But it's the uniform. Arms up."
 
-He didn't make a big deal of it. He moved with the practiced efficiency of a brother who had been helping with buttons and zippers for nineteen years.
-
-- Step 1: He helped her shimmy out of her soft pajama top, careful not to let her elbows catch.
-
-- Step 2: He guided her arms into the stiff, starched sleeves of the hospital gown.
-
-- Step 3: He fastened the snaps at the back of her neck, ensuring they didn't pinch her skin.
+He didn't make a big deal of it, moving with the practiced efficiency of a brother who had been helping with buttons and zippers for nineteen years. First, he helped her shimmy out of her soft pajama top, careful not to let her elbows catch. Next, he guided her arms into the stiff, starched sleeves of the hospital gown, then fastened the snaps at the back of her neck, checking to make sure none of them pinched her skin.
 
 "Okay, lean back," Patrick instructed.
 
@@ -17162,25 +16885,16 @@ Patrick didn't sit in the soft chairs. He found a table in the corner near an ou
 
 He didn't pace. He didn't wring his hands.
 
-He set up his command post.
-
-1.  Laptop: Open to the hospital's guest Wi-Fi.
-
-2.  The Binder: Open to the *Post-Op Pain Management* section.
-
-3.  The Clock: Synced.
+He set up his command post across the tabletop: his laptop open to the hospital's guest Wi-Fi, his three-ring binder flipped to the *Post-Op Pain Management* section, and his clock synced to the surgical floor.
 
 He had two hours. Most families would use the time to eat or sleep. Patrick used the time to work.
 
-He pulled out a pen. He began drafting the 24-Hour Post-Op Schedule:
+He pulled out a pen and began drafting the twenty-four-hour post-op schedule onto a fresh sheet:
 
-- 09:30 - Estimated PACU Arrival.
-
-- 10:00 - First Pain Assessment (Visual/Non-Verbal).
-
-- 10:15 - Ice Pack Application (20 min on / 20 off).
-
-- 12:00 - Discharge to Home.
+> 09:30 — Estimated PACU Arrival<br>
+> 10:00 — First Pain Assessment (Visual / Non-Verbal)<br>
+> 10:15 — Ice Pack Application (20 min on / 20 off)<br>
+> 12:00 — Discharge to Home
 
 He looked at the clock on the wall. *07:35.*
 
@@ -17201,49 +16915,23 @@ Patrick didn't look at the snow. He had his laptop open to a medical journal art
 He wasn't reading the abstract. He was studying the diagrams.
 
 
-He zoomed in on the illustration of the Hamstring Lengthening.
+He zoomed in on the illustration of the hamstring lengthening.
 
-"Z-plasty," Patrick whispered, tracing the line on the screen.
+"Z-plasty," Patrick whispered, tracing the stepped incision line on the screen.
 
-The surgeon didn't just sever the muscle. They cut it in a 'Z' shape, slid the two ends apart to lengthen the tendon, and then sutured it back together.
+The surgeon didn't just sever the muscle; Dr. Evans would cut it in a Z-shape, slide the two ends apart to lengthen the tendon, and suture it back together. That meant the structural integrity along the back of her leg was temporarily compromised, and the clinical protocol was strict: no active flexion. If Nichole reacted to pain with a standard withdrawal reflex and tried to pull her heel toward her hip, she could rip the fresh Z-suture right open. To inhibit that flexion reflex, Patrick knew her knee immobilizers had to stay locked straight for seventy-two hours, with no exceptions.
 
-- Implication: The structural integrity of the back of her leg was currently compromised.
+Next, he pulled up the cross-sectional anatomy of the inner thigh, where the adductor longus muscles—the tight bands that chronically pulled her knees together—were being released so her legs could sit comfortably wide. Once cut, her hips would feel unfamiliar and loose, and her brain, conditioned to rely on tight muscles holding her legs together, would panic and try to snap them shut. Maintaining abduction would be critical. Patrick checked his supply list and underlined the triangular foam abduction wedge that fit between the knees; he would need to strap that in place before she even fully woke up to prevent a violent scissoring spasm.
 
-- Nurse Protocol: "No active flexion." If she tries to pull her heel to her butt (a standard reflex when in pain), she could rip the Z-suture.
+He opened a new tab on *Post-Surgical Spasticity Management* and stopped at a boxed clinical warning:
 
-- Patrick’s Plan: "I have to inhibit the flexion reflex. Knee immobilizers must stay locked for 72 hours. No exceptions."
-
-
-Next, he pulled up the anatomy of the inner thigh.
-
-The Adductor Longus muscles—the ones that pulled her knees together—were being released (cut) to allow her legs to sit wide.
-
-- Implication: Her hips would feel "loose" and unstable. Her brain, used to tight muscles holding her legs together, would panic and try to snap them shut.
-
-- Nurse Protocol: "Maintain abduction." Keep the legs separated.
-
-- Patrick’s Plan: He checked his supply list. "Abduction Wedge." The triangular foam block that goes between the knees. He would need to strap that in before she even fully woke up to prevent the 'scissoring' spasm.
-
-
-He opened a new tab: *Post-Surgical Spasticity Management.*
-
-He read the warning in bold text: "The Rebound Effect: The lengthened muscle triggers a hypersensitive stretch reflex. Patients may experience violent, involuntary extensor spasms as the nervous system attempts to return the muscle to its original, short length."
+> *The Rebound Effect: The lengthened muscle triggers a hypersensitive stretch reflex. Patients may experience violent, involuntary extensor spasms as the nervous system attempts to return the muscle to its original, short length.*
 
 Patrick highlighted the paragraph.
 
-This was the battle. Her brain had a map of her body where her hamstrings were *short*. The surgery made them *long*. When she woke up, her brain would think the muscle was being torn and would fire the emergency thrusters to shorten it again.
+This was the battle. Her brain carried an internal map of her body where her hamstrings were *short*, and the surgery was making them *long*. When she woke up, her nervous system would interpret the new length as a muscle tear and fire every emergency thruster it had to shorten it again. Left unchecked, the result would be pure agony. Countering it would require a three-layered response: diazepam for the chemistry, steady weight-bearing pressure for the mechanics, and a calm voice to anchor her psychology.
 
-- The Result: Agony.
-
-- The Fix: Diazepam (Chemical). Weight-bearing (Mechanical). Calm voice (Psychological).
-
-He closed the laptop. He had the data.
-
-- Rule 1: Keep knees straight (protect the Z-plasty).
-
-- Rule 2: Keep legs apart (protect the Adductors).
-
-- Rule 3: Anchor the spasm (fight the Rebound).
+He closed the laptop. He had the data locked into three rules: keep her knees straight to protect the Z-plasty, keep her legs apart to protect the adductors, and anchor every spasm to fight the rebound.
 
 He looked at the clock. *09:15 AM.*
 
@@ -17287,15 +16975,7 @@ Nichole was there.
 
 She looked small in the center of the massive stretcher. Her legs were heavy logs, wrapped in thick white elastic compression bandages and encased in rigid blue foam knee immobilizers. The hamstring lengthening surgery had severed and reattached the tightest muscles in her body. The nerve endings were currently screaming.
 
-Patrick didn't look at her face first. He looked at the overhead GE Dash monitor.
-
-- HR: 122 (Sinus Tachycardia).
-
-- BP: 142/95 (Hypertensive).
-
-- RR: 28 (Shallow, rapid).
-
-- O2 Sat: 94% (Dropping slightly).
+Patrick didn't look at her face first; his eyes went straight to the overhead telemetry monitor. Her heart rate was racing at 122 in sinus tachycardia, her blood pressure had climbed to a hypertensive 142 over 95, her respirations were shallow and rapid at 28 breaths per minute, and her oxygen saturation was slipping down to 94 percent.
 
 "She's spiking," Patrick said instantly, his voice cutting through the ambient noise.
 
@@ -17323,11 +17003,9 @@ Becky looked at the monitor. Then she looked closer at Nichole’s hands. They w
 
 Patrick didn't let her finish. He reached into his back pocket and pulled out his wallet, flipping it open to the clear window.
 
-- *LICENSE: PRACTICAL NURSE*
-
-- *NAME: PATRICK BENNETT*
-
-- *STATUS: ACTIVE*
+> *LICENSE: PRACTICAL NURSE*<br>
+> *NAME: PATRICK BENNETT*<br>
+> *STATUS: ACTIVE*
 
 "I'm an LPN," Patrick stated. "I'm her primary home care provider. I know her baseline, and I know the orders."
 
@@ -17351,13 +17029,7 @@ She pushed the plunger.
 
 Patrick didn't touch Nichole yet. He watched the monitor. It was the only way to know the truth.
 
-Thirty seconds.
-
-The drug hit the loop.
-
-- HR: 115... 108... 98.
-
-- RR: 20 (Deepening).
+Thirty seconds later, the drug hit the loop. On the monitor, her heart rate ticked steadily downward—115, 108, 98—while her respirations slowed to twenty deeper breaths a minute.
 
 On the bed, Nichole’s jaw unclenched. The roped muscles in her neck softened. Her eyelids fluttered, losing that glassy, thousand-yard stare of agony.
 
@@ -17379,9 +17051,11 @@ Patrick didn't look up from the monitor.
 
 "Not on my watch," he said.
 
-Part 2: The Phase II Stand-Down Date: Tuesday, December 27, 2005 Time: 11:15 AM Location: Phase II Recovery (Step-Down Unit), Bed 12
+***
 
-The environment in Phase II was different. The urgent, rhythmic beeping of the PACU was replaced by the quieter, steady hum of a medical-surgical ward. Patients here were sitting up, drinking ginger ale, and watching holiday movie reruns on the wall-mounted TVs.
+#### The Phase II Stand-Down
+
+By 11:15 on Tuesday morning, December 27, the environment around Bed 12 of the Phase II Step-Down Unit was different. The urgent, rhythmic beeping of the PACU was replaced by the quieter, steady hum of a medical-surgical ward. Patients here were sitting up, drinking ginger ale, and watching holiday movie reruns on the wall-mounted TVs.
 
 Nichole wasn't sitting up. She was lying flat at 30 degrees, her legs elevated on two pillows to reduce the throbbing edema. The blue foam immobilizers looked massive against the white sheets.
 
@@ -17566,11 +17240,7 @@ Patrick pressed down firmly on the vein. He held it for a full two minutes—ign
 
 Next came the logistics.
 
-Patrick rolled Nichole’s personal manual wheelchair into the room. It wasn't in its standard configuration. He had modified it specifically for this night.
-
-- Leg Rests: He had installed Elevating Leg Rests (ELRs)—long, padded troughs that could be raised to horizontal.
-
-- Cushion: He had swapped her standard gel cushion for a Roho Air Cushion to distribute pressure better during the bumpy ride.
+Patrick rolled Nichole’s personal manual wheelchair into the room, modified specifically for tonight's ride. In place of her usual footplates, he had installed elevating leg rests—long, padded troughs raised to the horizontal—and swapped her standard gel pad for an air-cell Roho cushion to distribute pressure evenly across the bumpy trip home.
 
 "Okay, Sarah," Patrick said. "I need one assist for a Slide Board transfer. Her knees are locked at zero degrees. We can't do a pivot."
 
@@ -17596,13 +17266,7 @@ Patrick caught her hips as she hit the wheelchair seat. He immediately adjusted 
 
 She lifted the blue foam-encased legs and placed them gently onto the elevated calf pads. They stuck straight out, like two pylons.
 
-Patrick checked the alignment.
-
-- Hips: 90 degrees.
-
-- Knees: 0 degrees (Straight).
-
-- Ankles: Neutral.
+Patrick crouched to verify the alignment: her hips seated at ninety degrees, her knees locked straight at zero degrees, and her ankles resting in neutral.
 
 "Perfect alignment," Patrick judged. "Good transfer."
 
@@ -17814,17 +17478,7 @@ He unlocked the small, fireproof lockbox on the nightstand (Narcotic Control Pro
 
 He measured the morphine with an oral syringe. 5 mL. Exact.
 
-He checked the "Five Rights" of medication administration, even though he was the only nurse in the room:
-
-1.  Right Patient: Nichole.
-
-2.  Right Drug: Morphine Sulfate (Liquid).
-
-3.  Right Dose: 10mg (5 mL).
-
-4.  Right Route: Oral / Sublingual.
-
-5.  Right Time: 19:30 (Last dose was in PACU/Recovery).
+Even though he was the only nurse in the room, he verified all five rights of medication administration before uncapping the tip: right patient, Nichole; right drug, liquid morphine sulfate; right dose, ten milligrams measured to five milliliters; right route, oral and sublingual; and right time, 19:30, spaced cleanly from her last hospital dose in recovery.
 
 "Open," Patrick said gently.
 
@@ -17832,9 +17486,15 @@ He slid the syringe into the side of her mouth, depressing the plunger slowly so
 
 "Good swallow," he praised.
 
-He turned back to the binder. He wrote in the log:
+He turned back to the binder and wrote out the entry in the log:
 
-DATE: 12/27/05 TIME: 19:30 VITALS: HR 98, RR 20 (Pain elevated). INTAKE: Tolerated 5mL Morphine PO + 5mg Diazepam in sauce. OUTPUT: Voided x1 (large), BM x1 (soft/formed). SKIN: Intact. Surgical sites clean/dry. NOTES: Pt. transferred to bed via pivot. Legs elevated 20 degrees. Heel protectors applied. SIGNATURE: P. Bennett, LPN
+> DATE: 12/27/05 | TIME: 19:30<br>
+> VITALS: HR 98, RR 20 (Pain elevated).<br>
+> INTAKE: Tolerated 5 mL Morphine PO + 5 mg Diazepam in sauce.<br>
+> OUTPUT: Voided x1 (large), BM x1 (soft/formed).<br>
+> SKIN: Intact. Surgical sites clean/dry.<br>
+> NOTES: Pt. transferred to bed via pivot. Legs elevated 20 degrees. Heel protectors applied.<br>
+> SIGNATURE: P. Bennett, LPN
 
 He closed the binder. The "By The Book" shift was complete.
 
@@ -18108,21 +17768,16 @@ Outside the massive industrial windows, the Rhode Island winter was living up to
 
 Inside, the loft was a warm, regulated capsule.
 
-Patrick had established a "Battle Rhythm" on the whiteboard near the kitchen:
+Patrick had established a strict daily battle rhythm on the whiteboard near the kitchen:
 
-- 08:00: Meds & Breakfast.
+> 08:00 — Meds & Breakfast<br>
+> 09:00 — Hygiene & Dressing<br>
+> 10:00 — Prone Positioning (Tummy Time)<br>
+> 12:00 — Lunch<br>
+> 14:00 — Nap<br>
+> 16:00 — Passive Range of Motion (PROM)
 
-- 09:00: Hygiene & Dressing.
-
-- 10:00: Prone Positioning (Tummy Time) - *Current Activity*.
-
-- 12:00: Lunch.
-
-- 14:00: Nap.
-
-- 16:00: Passive Range of Motion (PROM).
-
-The Activity: Prone Lying Nichole was currently lying on her stomach on the living room rug, which was padded with three comforters to protect her hips.
+Right on the ten o'clock block, Nichole was lying flat on her stomach on the living room rug, padded underneath with three comforters to protect her hips.
 
 This was the most important—and most hated—part of the day.
 
@@ -18136,15 +17791,7 @@ She reached out with a trembling hand and pulled her "voice" closer.
 
 It wasn't a high-tech computer. It was The Board.
 
-It was a relic from elementary school—a heavy, black plastic kitchen cutting board with a handle on the left side. Over the years, it had become an extension of her body.
-
-- The Center: A grid of yellow-on-black QWERTY keyboard stickers, worn smooth from years of pointing.
-
-- The Left Flank (Green Tape): Shortcuts for YES, BATHROOM, and THIRST.
-
-- The Right Flank (Red Tape): Shortcuts for NO, PAIN, and MOVE ME.
-
-- The Borders: Thick strips of glow-in-the-dark tape, ensuring she could speak even in the pitch black of a power outage.
+It was a relic from elementary school—a heavy, black plastic kitchen cutting board with a handle on the left side that, over the years, had become an extension of her body. Across the center sat a grid of yellow-on-black QWERTY keyboard stickers worn smooth from years of pointing. Along the left flank, strips of green tape marked shortcuts for YES, BATHROOM, and THIRST; along the right flank, red tape held shortcuts for NO, PAIN, and MOVE ME. Thick strips of glow-in-the-dark tape bordered all four edges, ensuring she could speak even in the pitch black of a power outage.
 
 She tapped the board hard. *Thwack. Thwack.*
 
@@ -18216,13 +17863,7 @@ The menu wasn't exciting. It was strategic.
 
 Dr. Evans had been very clear: *“She’s not moving, so her gut isn't moving. If she gets constipated while on narcotics, she’s going to be in agony. High fiber, high hydration, easy to digest.”*
 
-Patrick placed two identical bowls on the counter.
-
-- The Main: A warm, pureed lentil and vegetable soup. (Easy to swallow, high protein for tissue repair, massive fiber content).
-
-- The Side: A small scoop of soft scrambled eggs (Albumin for healing).
-
-- The Drink: A tall glass of water with a measured scoop of Miralax dissolved in it (The "Stool Softener Cocktail").
+Patrick set two identical place settings on the counter: a warm bowl of pureed lentil and vegetable soup chosen for easy swallowing, high protein for tissue repair, and massive fiber content; a small side scoop of soft scrambled eggs for healing albumin; and a tall glass of water with a measured scoop of Miralax dissolved inside—what Patrick dryly called the stool-softener cocktail.
 
 Patrick sat down on the barstool next to her. He had the exact same bowl. The exact same eggs.
 
@@ -18292,9 +17933,9 @@ Nichole stared at the screen. The cursor blinked at the end of the last sentence
 
 She looked at her hands. They were trembling slightly. She took a deep breath, centering herself. She placed her hands on the keyboard. She didn't type fast, but she typed with force.
 
-She highlighted a section in the "Story Bible" document open in a separate window.
+She highlighted a section in the "Story Bible" document open in a separate window:
 
-The Ship: The Silt is a dense, highly magnetized particulate cloud that chewed up digital sensors and clogged ion intakes.
+> *The Ship: The Silt is a dense, highly magnetized particulate cloud that chewed up digital sensors and clogged ion intakes.*
 
 She moved her hand to the Letter Board resting on her lap. Her finger flew to the letters.
 
@@ -18525,11 +18166,7 @@ Dr. Evans had given the order over the phone yesterday: *“Soft tissue healing 
 
 Patrick stood in the living room. The wheelchair was parked in the center of the rug. It looked different.
 
-He had spent the morning modifying it.
-
-- Removed: The long, elevating leg rests (ELRs) that made the chair look like a recliner.
-
-- Installed: The standard, 70-degree swing-away footrests.
+He had spent the morning converting the frame back to its active geometry, removing the long, horizontal elevating leg rests that had made the chair look like a recliner and bolting her standard seventy-degree swing-away footrests back into place.
 
 The chair was back to its "Active" configuration.
 
@@ -18566,13 +18203,7 @@ Usually, when sitting, her tight hamstrings would pull her pelvis forward, makin
 
 Patrick lowered her hips into the back of the seat. He guided her feet onto the footplates.
 
-He knelt down to check the angles.
-
-- Hips: 90 degrees. Back against the upholstery.
-
-- Knees: 90 degrees. Bent naturally over the edge of the seat.
-
-- Feet: Flat on the plastic plates.
+He knelt beside the wheel to check the angles: her hips tucked at ninety degrees with her back flush against the upholstery, her knees bent naturally at ninety degrees over the edge of the seat, and her feet resting flat on the plastic plates.
 
 He waited for the slide. He waited for the spasm to kick in and push her out of the chair.
 
@@ -18656,13 +18287,13 @@ But for the first time in twenty years, they weren't fighting her.
 
 She tapped the armrest with her finger. *Let's go.*
 
+***
 
+#### September 12, 2006 — The Capstone Pitch
 
-Date: September 12, 2006 (Junior Year) Location: Dean of Engineering’s Conference Room, Braxton State University Present: Dr. Aristhorne (Engineering Dept. Head), Dr. Vance (English Dept. Head), Patrick, and Nichole.
+Seven months later, in the opening weeks of their junior year, the table in the Dean of Engineering’s conference room at Braxton State University was covered in schematics.
 
-The table was covered in schematics.
-
-On one side sat Dr. Aristhorne, a man who believed if you couldn't build it out of concrete, it wasn't real engineering. On the other sat Dr. Vance, who believed if you couldn't deconstruct the narrative, it wasn't real writing.
+On one side sat Dr. Aristhorne, head of the Engineering Department, a man who believed if you couldn't build it out of concrete, it wasn't real engineering. On the other sat Dr. Vance, head of the English Department, who believed if you couldn't deconstruct the narrative, it wasn't real writing.
 
 Patrick stood at the whiteboard. Nichole was parked at the head of the table, her *ConvertiBook* connected to the room’s projector.
 
@@ -18672,9 +18303,9 @@ Patrick stood at the whiteboard. Nichole was parked at the head of the table, he
 
 "It's highly irregular," Dr. Vance added, adjusting her glasses. "Usually, technical writing students document software or policy. Hardware documentation is... messy."
 
-Patrick looked at Nichole. She tapped her screen.
+Patrick looked at Nichole. She tapped her screen, throwing her pre-loaded slide onto the projection wall.
 
-PROJECTOR TEXT: <aac>In the real world, hardware without documentation is a paperweight. Documentation without hardware is fiction.</aac>
+<aac>In the real world, hardware without documentation is a paperweight. Documentation without hardware is fiction.</aac>
 
 Dr. Vance suppressed a smile. "She has a point."
 
@@ -18696,9 +18327,9 @@ Dr. Aristhorne looked at the schematic. He saw the complex circuit design. He sa
 
 "And you, Ms. Bennett," Dr. Vance asked. "You are writing the manual?"
 
-Nichole typed rapidly.
+Nichole typed rapidly, her words appearing across the overhead screen.
 
-PROJECTOR TEXT: <aac>I am the beta tester and the lead writer. I am the only person qualified to translate the machine's language into human language.</aac>
+<aac>I am the beta tester and the lead writer. I am the only person qualified to translate the machine's language into human language.</aac>
 
 Dr. Aristhorne looked at Dr. Vance.
 
@@ -18720,19 +18351,13 @@ Patrick looked at Nichole. They shared a look of absolute, terrifying confidence
 
 ### The Outcome
 
-They spent Junior year living in the lab and the library.
+They spent the rest of their junior year practically living between the engineering lab and the quiet floors of the library.
 
-- Patrick learned to code primarily in C++ (for the microcontroller) and learned to solder delicate sensors into the upholstery of the wheelchair without ruining the comfort.
+At the workbench, Patrick taught himself to code primarily in C++ to drive the microcontroller and practiced soldering delicate sensor arrays directly into the upholstery of the wheelchair without compromising the cushion's comfort. Beside him, Nichole mastered Vertex FrameMaster and industrial design standards. She didn't settle for plain text; page by page, she drafted clean vector diagrams of her own chair, mapping and labeling every sensor array.
 
-- Nichole learned Vertex FrameMaster and industrial design standards. She didn't just write text; she created vector diagrams of her own chair, labeling every sensor array.
+When the spring evaluations arrived, neither half of the partnership missed a mark. Patrick earned a straight A in his Engineering Capstone when the prototype performed flawlessly during the live faculty demonstration—the instant Nichole simulated a spasm in her chair, the receiver wristband strapped to Patrick’s arm buzzed on cue. Across campus, Nichole earned a matching A in her English Capstone, with the department formally citing her manual as *"the standard for accessibility documentation."*
 
-The Final Grade:
-
-- Patrick: A (Engineering Capstone). The device worked perfectly during the demo. When Nichole simulated a spasm, the wristband on Patrick’s arm buzzed instantly.
-
-- Nichole: A (English Capstone). The manual was cited by the department as "The standard for accessibility documentation."
-
-The Legacy: This project wasn't just homework. The BHI (Bennett Haptic Interface) became a permanent part of the Bennett Machine. Patrick wore that wristband every day for the next decade. It was the digital leash that allowed them to finally relax, knowing the machine was watching even when they were asleep.
+This project wasn't just homework. The Bennett Haptic Interface—the BHI—became a permanent organ of the Bennett Machine. From that semester onward, Patrick wore that wristband every single day, a silent digital tether that allowed them both to finally relax, knowing the machine was standing watch even when they were fast asleep.
 
 # Braxton Senior Year
 
@@ -18752,11 +18377,10 @@ Patrick sat forward. He didn't look angry; he looked like an engineer explaining
 
 "I don't understand," Mrs. Gable said. "It's just a march."
 
-Nichole tapped her *ConvertiBook*. She had pre-written this explanation because typing it in the moment would be too stressful.
+Nichole tapped her *ConvertiBook*, turning the display toward Mrs. Gable so she could read the explanation Nichole had pre-written rather than forcing her hands through the stress of typing it in the moment:
 
-PROJECTOR TEXT: JUNE 2003. NORTHWOOD HIGH SCHOOL GRADUATION. VIRGINIA BEACH.
-
-THE GYM WAS OVER CAPACITY. THE BAND PLAYED THAT SONG ON A LOOP FOR 45 MINUTES.
+> JUNE 2003. NORTHWOOD HIGH SCHOOL GRADUATION. VIRGINIA BEACH.<br>
+> THE GYM WAS OVER CAPACITY. THE BAND PLAYED THAT SONG ON A LOOP FOR 45 MINUTES.
 
 Patrick took over the narrative, his voice dropping to a low, tight register.
 
@@ -18776,11 +18400,11 @@ Mrs. Gable’s hand went to her mouth. "Oh my god."
 
 He leaned forward.
 
-"I was about to run outside to find a cop when I looked down. purely by dumb luck, I saw a flash of white under the bleachers."
+"I was about to run outside to find a cop when I looked down. Purely by dumb luck, I saw a flash of white under the bleachers."
 
-Nichole tapped the screen again.
+Nichole tapped the screen again, advancing to the next slide:
 
-PROJECTOR TEXT: I HAD BEEN KNOCKED OUT OF THE CHAIR. I DRAGGED MYSELF UNDER THE METAL SEATS TO AVOID BEING STEPPED ON. I WAS CURLED IN A BALL. I COULDN'T SCREAM. I JUST LISTENED TO THE HORNS AND WAITED TO DIE.
+> I HAD BEEN KNOCKED OUT OF THE CHAIR. I DRAGGED MYSELF UNDER THE METAL SEATS TO AVOID BEING STEPPED ON. I WAS CURLED IN A BALL. I COULDN'T SCREAM. I JUST LISTENED TO THE HORNS AND WAITED TO DIE.
 
 The room was dead silent. The hum of the air conditioner seemed deafening.
 
@@ -18794,15 +18418,7 @@ Mrs. Gable put her pen down. She pushed the clipboard aside.
 
 "Okay," she whispered. "No music. We'll figure it out."
 
-He laid out the Bennett Plan.
-
-1.  The Hold-Back: Patrick and Nichole will wait in the Air Conditioned Field House (the locker rooms under the stadium) while the procession takes place.
-
-2.  The Silent Entry: Once the band stops playing and the speeches begin, they will slip into their seats.
-
-3.  The Seating: They will *not* sit in the designated "Accessibility Area" (which was usually a roped-off section in the back). They will sit with the College of Engineering, at the end of the row.
-
-4.  The Walk: When the names are called, Patrick pushes Nichole across the stage. They exit together.
+Patrick laid out the Bennett Plan step by step. While the procession marched into the stadium, he and Nichole would hold back inside the air-conditioned Field House locker rooms underneath the stands. Once the band stopped playing and the speeches began, they would make a silent entry and slip into their places—not corralled into the roped-off accessibility area at the rear of the track, but seated together at the end of a row with the College of Engineering. When their names were called, Patrick would push Nichole across the stage, and the two of them would exit together.
 
 Mrs. Gable frowned, looking at her seating chart. "But the Engineering section is on the turf. The accessibility section is on the track. If you sit on the turf, how will you manage the heat? The ceremony is three hours long. Those black gowns are like ovens."
 
@@ -18820,27 +18436,15 @@ Inside the concrete tunnel, it was cool and quiet.
 
 Patrick and Nichole stood (and sat) by the water cooler, listening to the muffled thumping of the drums outside.
 
-They were wearing their graduation regalia: standard black gowns with the Braxton State Bull emblem on the shoulder. But they didn't look standard.
+They were wearing their graduation regalia: standard black gowns with the Braxton State Bull emblem on the shoulder. Beneath the fabric, however, they were anything but standard. Patrick had cut a discreet intake vent into the back of Nichole’s gown right where it pressed against the wheelchair’s backrest, aligning it with a rig of four 120-millimeter computer case fans harvested from old desktop towers and mounted to the rear of the *Titan AeroMotion* on a twelve-volt drill battery strapped to the frame. Drawing air from below, the fans forced the breeze through a water-soaked evaporative cooling mesh pad and blasted chilled air straight up the spine of her gown, circulating around her torso before exhausting through the loose sleeves and collar in a constant, positive-pressure microclimate.
 
-The Bennett Capstone Modification:
-
-1.  The Intake: Patrick had cut a discreet vent into the back of Nichole’s gown, right where it pressed against the wheelchair’s backrest.
-
-2.  The Hardware: Mounted to the back of the *Titan AeroMotion* was a rig of four 120mm Computer Case Fans (harvested from old desktop towers). They were powered by a 12V drill battery strapped to the frame.
-
-3.  The Airflow: The fans pulled air from the bottom, pushed it through a mesh cooling pad (soaked in water for evaporative cooling), and blasted it directly up the back of the gown.
-
-4.  The Exhaust: The air circulated around her torso and exited through the loose sleeves and neck, creating a constant, positive-pressure microclimate.
-
-Nichole checked her internal temperature gauge (a small digital thermometer Patrick had rigged to her armrest).
-
-TEMP: 72°F.
+Nichole checked the small digital thermometer Patrick had rigged to her armrest; the internal readout held steady at 72°F.
 
 She looked at Patrick. He had rigged a smaller, belt-mounted fan for himself, blowing air up his own shirt.
 
 She typed on her screen.
 
-THE MUSIC IS STILL PLAYING.
+> THE MUSIC IS STILL PLAYING.
 
 "I hear it," Patrick said, checking his watch. "They have about ten more minutes of marching. We stay here until the last tuba stops."
 
@@ -18852,39 +18456,23 @@ He looked at the tunnel exit, where the bright sunlight was waiting.
 
 "You ready to be an alum?"
 
-Nichole took a sip of water. She adjusted her mortarboard cap, which she had secured with bobby pins so it wouldn't slide during the "Stage Run."
+Nichole took a sip of water. She adjusted her mortarboard cap, which she had secured with bobby pins so it wouldn't slide during the stage run.
 
 She tapped the armrest twice. *Ready.*
 
-The Music Stopped.
-
-A cheer went up from the crowd. The "National Anthem" began.
+Outside, the marching band finally fell silent. A cheer went up from the crowd as the national anthem began.
 
 "That's our cue," Patrick said.
 
 He unlocked the brakes. He didn't push her like a patient; he pushed her like a partner. They moved toward the light, cool, calm, and together.
 
-The Result:
+During the bowed heads of the opening prayer, they slipped unnoticed into the back row of the Engineering section. Hours later, when *"Bennett, Nichole"* and *"Bennett, Patrick"* were called, the announcer paused for a beat as Patrick rolled her smoothly up the ramp and stopped center stage. The Dean placed Nichole’s diploma into her waiting left hand, then handed Patrick his own. Neither sibling shook hands; together, they gave the crisp Bennett nod, then rolled down the far ramp to thunderous applause—not because she was "brave," but because they were fellow engineers, and the visible rig of whirring case fans and battery packs bolted to her chair was the coolest piece of hardware the department had ever seen.
 
-- They slipped into the back row of the Engineering section unnoticed during the opening prayer.
+***
 
-- When "Bennett, Nichole" and "Bennett, Patrick" were called, the announcer paused.
+#### The Subsurface Route
 
-- Patrick rolled her up the ramp. He stopped center stage.
-
-- The Dean handed Nichole her diploma (she took it with her left hand).
-
-- The Dean handed Patrick his diploma.
-
-- They didn't shake hands. They did the "Bennett Nod."
-
-- They rolled off the stage to thunderous applause—not because she was "brave," but because they were Engineers, and the modifications to her chair (the visible fans and battery packs) were the coolest thing the department had ever seen.
-
-Part 20: The Subsurface Route
-
-Date: May 17, 2008 Time: 1:45 PM Location: Entrance to "The Bull Run" (Beneath the College of Engineering)
-
-The loading dock air was getting stifling. The "Cool Suit" battery was running low, and the fans were starting to whine.
+By 1:45 that afternoon, May 17, 2008, the air out on the loading dock behind the College of Engineering was growing stifling. The cool-suit battery was running low, and the fans were starting to whine.
 
 Patrick looked at the stadium exit. A sea of people was flowing toward the Narragansett Esplanade Station. He could see the queue for the Blue Line Metro snaking out the door and down the block. The ARTS Commuter Rail platform was a crush of bodies.
 
@@ -18898,9 +18486,7 @@ He spun the chair around and headed for the service elevator of the Engineering 
 
 He swiped his student ID. The doors opened. They rolled inside. He hit B1.
 
-The Transition
-
-The doors opened, and the world changed.
+When the doors slid open belowground, the world changed.
 
 Gone was the 88°F heat. Gone was the screaming humidity. Gone were the seagulls and the sirens.
 
@@ -18918,19 +18504,7 @@ Patrick disconnected the cooling fans from the drill battery on the back of her 
 
 Nichole sat up straighter. She took a deep breath of the cool, recycled air. She tapped her armrest. *Better.*
 
-The Long Walk
-
-They began the trek.
-
-Normally, this would be a three-stop Metro ride:
-
-1.  Narragansett Esplanade (Campus)
-
-2.  Convention Center
-
-3.  Foundry Square
-
-Walking it underground was about 2.5 miles. But for the Bennetts, the distance didn't matter. The isolation was the luxury.
+They began the long subterranean trek. Normally, the trip home was a quick three-stop Metro ride from Narragansett Esplanade on campus through Convention Center to Foundry Square. Walking it underground stretched roughly two and a half miles, but for the Bennetts, the distance didn't matter. The isolation was the luxury.
 
 They rolled past "The Pit"—the sunken amphitheater at the intersection of Sub-University and Sub-College. Usually, it was filled with buskers or study groups. Today, it was empty, save for a janitor sweeping up confetti.
 
@@ -18944,17 +18518,15 @@ Nichole nodded. She was tired, but safe.
 
 She opened her *ConvertiBook*.
 
-HOW FAR
+> HOW FAR
 
 "We just passed Sub-High Street," Patrick said, checking a wall marker. "We're under the Financial District. About twenty minutes to Foundry."
 
-GOOD NO PEOPLE JUST US
+> GOOD NO PEOPLE JUST US
 
 "Just us," Patrick agreed.
 
-The Arrival
-
-They reached Sub-Foundry Square. The corridor widened. To the left was the public entrance to the Metro station—they could hear the rumble of a train arriving, likely packed with miserable, sweaty graduates.
+At last they reached Sub-Foundry Square, where the corridor widened. To the left was the public entrance to the Metro station—they could hear the rumble of a train arriving, likely packed with miserable, sweaty graduates.
 
 Patrick ignored the station. He steered right, down a quieter residential spur marked PRIVATE RESIDENCES.
 
@@ -19058,27 +18630,15 @@ While the outside world was panicking about the stock market, Unit 404 was a hum
 
 They had found their niche. It wasn't high-volume corporate work. It was Boutique Accessibility Engineering.
 
-The Client: A small medical startup in Boston needed a user manual for a new insulin pump. Their engineers spoke Math. Their users spoke English. They needed a translator.
+Their latest client was a small medical startup in Boston that needed a user manual for a new insulin pump. Their engineers spoke math; their users spoke English. They needed a translator, and the twins ran the contract on a precision daily rhythm.
 
-The Bennett Process:
+At 10:00 AM, Patrick sat at his bench with the prototype pump, dismantling the casing and testing the buttons until he uncovered a structural flaw in the battery door latch. Before the hour was up, he had drafted an Engineering Change Order and sent it back to Boston with a blunt warning: *"Fix the latch, or the user will break it."*
 
-10:00 AM: Patrick sat with the prototype pump. He dismantled it. He tested the buttons. He found a flaw in the battery door latch.
+At 11:00 AM, Nichole pulled up Patrick’s hardware notes alongside the dense technical jargon the client had supplied, rewriting lines like *"Depress Actuator B until audible feedback is received"* into crisp, human English: *"Press the Blue Button until it clicks."*
 
-- *Patrick's Output:* An Engineering Change Order sent back to the client. "Fix the latch, or the user will break it."
+By 12:30 PM, Patrick stepped into the kitchen to cook lunch. They ate out on the balcony whenever the weather was mild, or curled up on the couch watching *Lab Test*—never rushed, never governed by a thirty-minute corporate break clock. At 2:00 PM, the apartment settled into deep work, silent except for the clicking of keyboards and the hum of the server rack: Nichole locked in the zone laying out clean, accessible PDFs while Patrick coded a custom website for a local non-profit.
 
-11:00 AM: Nichole read Patrick’s notes. She looked at the confusing technical jargon the client had sent.
-
-- *Nichole's Output:* She rewrote "Depress Actuator B until audible feedback is received" to "Press the Blue Button until it clicks."
-
-12:30 PM: Lunch. Patrick cooked. They ate on the balcony if the weather was nice, or on the couch watching "Lab Test". No rush. No 30-minute break.
-
-2:00 PM: Deep Work. The apartment was silent except for the clicking of keyboards and the hum of the server.
-
-- Nichole was in "The Zone," creating clean, accessible PDFs.
-
-- Patrick was coding a custom website for a local non-profit.
-
-4:30 PM: Quitting Time. There was no commute. Patrick simply stood up, stretched, and said, "Shop's closed."
+When 4:30 PM rolled around, there was no commute. Patrick simply stood up, stretched his back, and announced, "Shop's closed."
 
 He walked over to Nichole. He checked her posture. He checked the BHI wristband he still wore every day.
 
@@ -19086,7 +18646,7 @@ He walked over to Nichole. He checked her posture. He checked the BHI wristband 
 
 Nichole typed.
 
-GOOD DAY WE MADE \$500
+> GOOD DAY WE MADE \$500
 
 "And nobody told us what to do," Patrick added.
 
@@ -19094,7 +18654,7 @@ He knelt down and kissed her forehead.
 
 "Video games?"
 
-VIDEO GAMES
+> VIDEO GAMES
 
 ***
 
@@ -19104,15 +18664,7 @@ For years, Nichole’s voice had been a heavy laptop. The *ConvertiBook* was gre
 
 Then, the MagnaByte Special Event aired.
 
-Patrick watched the keynote stream on his center monitor. On stage, the CEO held up a device that looked like a piece of science fiction.
-
-- The Device: A 9.7-inch sheet of glass and aluminum.
-
-- The Name: The MagnaPad.
-
-- The Interface: Multi-touch. No stylus required.
-
-- The Weight: 1.5 pounds.
+Patrick watched the keynote stream on his center monitor. On stage, the CEO held up a device that looked like a piece of science fiction: the MagnaPad, a 9.7-inch sheet of glass and brushed aluminum weighing just a pound and a half, driven entirely by a multi-touch interface that needed no stylus at all.
 
 Patrick didn't see a gadget. He saw a vocal cord.
 
@@ -19120,15 +18672,7 @@ Patrick didn't see a gadget. He saw a vocal cord.
 
 Nichole rolled over. She watched the demo video. A man was swiping through photos with his finger. He was typing on a virtual keyboard that appeared on the glass. It was running a mobile version of magnaOS.
 
-Patrick did the math instantly.
-
-- It could mount flat to her wheelchair tray.
-
-- It had no hinge to break.
-
-- It turned on instantly—no boot-up time.
-
-- It was a MagnaByte device, meaning the hardware was solid.
+Patrick did the math instantly. The slate could mount completely flat to her wheelchair tray, had no hinge to snap, woke up the instant she touched it with zero boot-up time, and carried MagnaByte's rock-solid hardware engineering.
 
 "If I write a custom app for that," Patrick muttered, "I can give you a voice board that fits in your purse."
 
@@ -19335,9 +18879,9 @@ Patrick lay there, listening to the soft gurgle of the catheter line. He looked 
 
 ### The Master Suite, West Main Road, Portsmouth, RI & The Legacy
 
-#### Date: February 14, 2058 Age: 72 Location: The Master Suite, West Main Road, Portsmouth, RI
+#### February 14, 2058 — The Master Suite
 
-The winter of 2058 was cold, but the Fortress was warm.
+The winter of 2058 was cold outside the ranch on West Main Road in Portsmouth, Rhode Island, but inside the Fortress, at seventy-two years old, Patrick and Nichole were warm.
 
 Patrick and Nichole lay in the King bed. The room was quiet, save for the rhythmic hum of the oxygen concentrator in the corner—a shared resource now. The clear tubing split in a Y-connector, feeding them both.
 
@@ -19399,109 +18943,99 @@ On the nightstand, next to the silence of the room, the Apex ConvertiBook (kept 
 
 Elena walked over. She saw a note taped to the cutting board in Patrick’s handwriting.
 
-*INSTRUCTIONS:* 
-*1. DO NOT SEPARATE US. Not for the coroner. Not for the funeral.*
-*2. CREMATION. Mix the ashes.* 
-*3. SCATTER US AT THE FERRY DOCK. Narragansett Esplanade. Where the water meets the grid.*
+> *INSTRUCTIONS:*<br>
+> *1. DO NOT SEPARATE US. Not for the coroner. Not for the funeral.*<br>
+> *2. CREMATION. Mix the ashes.*<br>
+> *3. SCATTER US AT THE FERRY DOCK. Narragansett Esplanade. Where the water meets the grid.*
 
 Elena wiped a tear from her cheek. "Understood," she whispered.
 
 She backed out of the room and closed the door, leaving them to their rest. The Fortress had held to the very end.
 
+Three days later, the Sunday edition carried their notice:
 
-THE BRAXTON HERALD-TIMES
+> THE BRAXTON HERALD-TIMES<br>
+> Serving the Metro Area Since 1992<br>
+> OBITUARIES | Sunday, February 17, 2058
+>
+> PATRICK AND NICHOLE BENNETT (1985–2058)<br>
+> Founders of Bennett Dynamics and Pioneers of "The Closed Loop" Die Together at 72
+>
+> BRAXTON — Patrick Bennett and Nichole Bennett, the twin siblings and engineering partners who redefined the landscape of accessibility through their firm, Bennett Dynamics, died peacefully on February 14, 2058, at their home in Portsmouth, Rhode Island. They were 72.
+>
+> Their deaths were confirmed by hospice staff, who stated that the siblings passed within moments of one another in their sleep.
+>
+> Born on April 8, 1985, in Newport, the Bennetts spent their early years in Virginia Beach before returning to Rhode Island in 2003 to attend Braxton State University. It was there, amidst the concrete tunnels of the "Bull Run" and the lecture halls of the College of Engineering, that they forged a partnership that would last five decades.
+>
+> They were known to the BSU faculty not merely as students, but as a single, indivisible operating unit known as "The Bennett Machine." Refusing the institutional pressure to separate, they engineered a life of total interdependence. They famously modified their own graduation regalia with battery-powered cooling systems to withstand the heat of the commencement ceremony, a project that presaged their future career.
+>
+> In 2008, amid a global economic recession, they founded Bennett Dynamics from their apartment at The Foundry Lofts. Rejecting traditional employment, they built a boutique engineering firm dedicated to "Boutique Accessibility Engineering."
+>
+> Their work was characterized by a unique division of labor: Patrick, the engineer, built the hardware, while Nichole, a technical writer who communicated via text-to-speech technology, wrote the operating manuals and user interfaces.
+>
+> Their breakthrough innovation, the Bennett Haptic Interface (BHI), revolutionized caregiving by translating involuntary muscle spasms into digital data, allowing caregivers to anticipate pain before it occurred. The device, developed during their junior year at BSU, became an industry standard.
+>
+> The Bennetts were fiercely private, living by a philosophy they called "The Closed Loop." They never married, choosing instead to dedicate their lives to the preservation and care of one another. To their neighbors in Portsmouth, they were a fixture of West Main Road—Patrick pushing Nichole’s titanium chair, always in sync, always moving forward.
+>
+> They leave no survivors.
+>
+> Per their explicit instructions, there will be no funeral service. A private cremation will be held, and their ashes will be commingled and scattered at the Narragansett Esplanade Ferry Dock—the transit hub where they first claimed their independence.
+>
+> In lieu of flowers, the family asks that you simply check your local curb cuts and hold the door for the person behind you.
+>
+> *(This notice also appears in the Providence Gazette and the Newport Chronicle.)*
 
-Serving the Metro Area Since 1992
+In the state registry, the official medical file closed alongside it:
 
-OBITUARIES \| Sunday, February 17, 2058
-
-PATRICK AND NICHOLE BENNETT (1985–2058)
-
-Founders of Bennett Dynamics and Pioneers of "The Closed Loop" Die Together at 72
-
-BRAXTON — Patrick Bennett and Nichole Bennett, the twin siblings and engineering partners who redefined the landscape of accessibility through their firm, Bennett Dynamics, died peacefully on February 14, 2058, at their home in Portsmouth, Rhode Island. They were 72.  
-
-Their deaths were confirmed by hospice staff, who stated that the siblings passed within moments of one another in their sleep.  
-
-Born on April 8, 1985, in Newport, the Bennetts spent their early years in Virginia Beach before returning to Rhode Island in 2003 to attend Braxton State University. It was there, amidst the concrete tunnels of the "Bull Run" and the lecture halls of the College of Engineering, that they forged a partnership that would last five decades.  
-
-They were known to the BSU faculty not merely as students, but as a single, indivisible operating unit known as "The Bennett Machine". Refusing the institutional pressure to separate, they engineered a life of total interdependence. They famously modified their own graduation regalia with battery-powered cooling systems to withstand the heat of the commencement ceremony, a project that presaged their future career.  
-
-In 2008, amid a global economic recession, they founded Bennett Dynamics from their apartment at The Foundry Lofts. Rejecting traditional employment, they built a boutique engineering firm dedicated to "Boutique Accessibility Engineering".  
-
-Their work was characterized by a unique division of labor: Patrick, the engineer, built the hardware, while Nichole, a technical writer who communicated via text-to-speech technology, wrote the operating manuals and user interfaces.  
-
-Their breakthrough innovation, the Bennett Haptic Interface (BHI), revolutionized caregiving by translating involuntary muscle spasms into digital data, allowing caregivers to anticipate pain before it occurred. The device, developed during their junior year at BSU, became an industry standard.  
-
-The Bennetts were fiercely private, living by a philosophy they called "The Closed Loop". They never married, choosing instead to dedicate their lives to the preservation and care of one another. To their neighbors in Portsmouth, they were a fixture of West Main Road—Patrick pushing Nichole’s titanium chair, always in sync, always moving forward.  
-
-They leave no survivors.  
-
-Per their explicit instructions, there will be no funeral service. A private cremation will be held, and their ashes will be commingled and scattered at the Narragansett Esplanade Ferry Dock—the transit hub where they first claimed their independence.  
-
-In lieu of flowers, the family asks that you simply check your local curb cuts and hold the door for the person behind you.
-
-(This notice also appears in the Providence Gazette and the Newport Chronicle).
-
-OFFICE OF THE STATE MEDICAL EXAMINER STATE OF RHODE ISLAND AUTOPSY REPORT SUMMARY
-
-DECEDENT 1: Patrick Bennett DECEDENT 2: Nichole Bennett
-
-DATE OF DEATH: February 14, 2058 DATE OF DISCOVERY: February 15, 2058 LOCATION OF DEATH: West Main Road, Portsmouth, RI
-
-1\. CIRCUMSTANCES OF DEATH
-
-The decedents, fraternal twins aged 72, were discovered in the master suite of their shared residence by hospice nurse Elena on the morning of February 15, 2058. They were found in a shared King bed, curled together in a sleeping position. Both individuals were under active hospice care at the time of death. No signs of foul play or external trauma were observed; the scene is consistent with a peaceful passing during sleep.
-
-2\. EXTERNAL EXAMINATION
-
-- Positioning: The bodies were found in a state of "Zero Friction" protocol (skin-to-skin contact). Decedent 1 (Patrick) was positioned with his arm protecting Decedent 2 (Nichole), and Decedent 2's head was resting on Decedent 1's heart.
-
-- Medical Interventions:
-
-  - Oxygen: Both decedents were utilizing a shared oxygen concentrator via a Y-connector tubing setup.
-
-  - Catheterization: Both decedents were fitted with Foley catheters with collection bags obscured by canvas covers on the lower bed rail.
-
-3\. INTERNAL EXAMINATION & CAUSE OF DEATH
-
-Decedent 1: Patrick Bennett
-
-- Primary Cause of Death: End-Stage Congestive Heart Failure.
-
-- Medical Findings:
-
-  - The heart demonstrated severe cardiomyopathy. Clinical history indicates an ejection fraction that had degraded to 15% prior to death.
-
-  - The myocardium showed signs of chronic strain, consistent with a history of physical exertion related to caregiving duties (lifting/transfers) over several decades.
-
-  - Musculoskeletal exam revealed significant scar tissue and fused vertebrae in the spinal column.
-
-  - There is evidence of Cerebral Palsy affecting the left side (specifically the knee tendon rupture noted in medical history).
-
-Decedent 2: Nichole Bennett
-
-- Primary Cause of Death: Acute on Chronic Respiratory Failure due to Restrictive Lung Disease.
-
-- Medical Findings:
-
-  - Severe scoliosis resulted in significant compression of the thoracic cavity, limiting lung capacity.
-
-  - Evidence of chronic carbon dioxide retention and shallow breathing patterns consistent with the inability to effectively clear the lungs.
-
-  - The decedent presented with Quadriplegic Cerebral Palsy and spasticity, though muscle tone was noted to be fully relaxed at the time of death.
-
-4\. TIME OF DEATH & INTERVAL
-
-Based on rigor mortis, livor mortis, and witness statements regarding the timeline of events:
-
-- Estimated Time of Death: Late evening of February 14, 2058.
-
-- Interval: The physiological evidence and hospice confirmation suggest the deaths occurred nearly simultaneously. Decedent 2 (Nichole) expired first, followed moments later by Decedent 1 (Patrick). This synchronization appears to be a result of "biological entrainment" developed over 53 years of co-sleeping and shared physiological regulation.
-
-5\. CONCLUSION
-
-Manner of Death: Natural. The decedents died of natural causes related to their respective chronic conditions (Heart Failure and Respiratory Failure). Per written instructions found on the scene, the bodies are released for cremation, with ashes to be commingled.
-
-Signed: *Chief Medical Examiner* *State of Rhode Island*
+> OFFICE OF THE STATE MEDICAL EXAMINER<br>
+> STATE OF RHODE ISLAND<br>
+> AUTOPSY REPORT SUMMARY
+>
+> DECEDENT 1: Patrick Bennett<br>
+> DECEDENT 2: Nichole Bennett<br>
+> DATE OF DEATH: February 14, 2058<br>
+> DATE OF DISCOVERY: February 15, 2058<br>
+> LOCATION OF DEATH: West Main Road, Portsmouth, RI
+>
+> 1. CIRCUMSTANCES OF DEATH
+>
+> The decedents, fraternal twins aged 72, were discovered in the master suite of their shared residence by hospice nurse Elena on the morning of February 15, 2058. They were found in a shared King bed, curled together in a sleeping position. Both individuals were under active hospice care at the time of death. No signs of foul play or external trauma were observed; the scene is consistent with a peaceful passing during sleep.
+>
+> 2. EXTERNAL EXAMINATION
+>
+> - Positioning: The bodies were found in a state of "Zero Friction" protocol (skin-to-skin contact). Decedent 1 (Patrick) was positioned with his arm protecting Decedent 2 (Nichole), and Decedent 2's head was resting on Decedent 1's heart.
+> - Medical Interventions:
+>   - Oxygen: Both decedents were utilizing a shared oxygen concentrator via a Y-connector tubing setup.
+>   - Catheterization: Both decedents were fitted with Foley catheters with collection bags obscured by canvas covers on the lower bed rail.
+>
+> 3. INTERNAL EXAMINATION & CAUSE OF DEATH
+>
+> Decedent 1: Patrick Bennett
+> - Primary Cause of Death: End-Stage Congestive Heart Failure.
+> - Medical Findings:
+>   - The heart demonstrated severe cardiomyopathy. Clinical history indicates an ejection fraction that had degraded to 15% prior to death.
+>   - The myocardium showed signs of chronic strain, consistent with a history of physical exertion related to caregiving duties (lifting/transfers) over several decades.
+>   - Musculoskeletal exam revealed significant scar tissue and fused vertebrae in the spinal column.
+>   - There is evidence of Cerebral Palsy affecting the left side (specifically the knee tendon rupture noted in medical history).
+>
+> Decedent 2: Nichole Bennett
+> - Primary Cause of Death: Acute on Chronic Respiratory Failure due to Restrictive Lung Disease.
+> - Medical Findings:
+>   - Severe scoliosis resulted in significant compression of the thoracic cavity, limiting lung capacity.
+>   - Evidence of chronic carbon dioxide retention and shallow breathing patterns consistent with the inability to effectively clear the lungs.
+>   - The decedent presented with Quadriplegic Cerebral Palsy and spasticity, though muscle tone was noted to be fully relaxed at the time of death.
+>
+> 4. TIME OF DEATH & INTERVAL
+>
+> Based on rigor mortis, livor mortis, and witness statements regarding the timeline of events:
+> - Estimated Time of Death: Late evening of February 14, 2058.
+> - Interval: The physiological evidence and hospice confirmation suggest the deaths occurred nearly simultaneously. Decedent 2 (Nichole) expired first, followed moments later by Decedent 1 (Patrick). This synchronization appears to be a result of "biological entrainment" developed over 53 years of co-sleeping and shared physiological regulation.
+>
+> 5. CONCLUSION
+>
+> Manner of Death: Natural. The decedents died of natural causes related to their respective chronic conditions (Heart Failure and Respiratory Failure). Per written instructions found on the scene, the bodies are released for cremation, with ashes to be commingled.
+>
+> Signed:<br>
+> *Chief Medical Examiner*<br>
+> *State of Rhode Island*
 

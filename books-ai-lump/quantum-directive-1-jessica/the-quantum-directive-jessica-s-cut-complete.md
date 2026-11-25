@@ -10,62 +10,51 @@ title: "The Quantum Directive: Jessica's Cut"
 
 #### Day-to-Day at Quantum
 
-The hum of Jessica’s office was a sound she knew better than her own heartbeat — the low, steady whir of two workstations running side by side. On her left, the Quantum OS tower was chewing through a debug build of Aurora Presenter, the crown‑jewel app in the upcoming Quantum Office Suite 98. On her right, a MagnaOS development machine rendered the same code in a different skin, its typography and animations tuned to the tastes of a different tribe.
+The hum of Jessica’s office was a sound she knew better than her own heartbeat — the low, steady whir of two workstations running side by side. On her left, the Quantum OS tower was chewing through a debug build of Aurora Presenter, the crown‑jewel app in the upcoming Quantum Office Suite 98. On her right, a MagnaOS development machine rendered the same code in a different skin, its typography and animations tuned to the tastes of a different tribe.
 
 Lines of C++ scrolled past on one screen as she refactored the animation pipeline, coaxing smoother transitions out of the new rendering engine. On the other, a live preview window shimmered with a slide dissolve so fluid it almost felt like silk. This was the part she loved — the moment when raw logic became something you could *see* and *feel*.
 
-A yellow sticky note clung to the edge of her monitor:\
-*QOS 98 – Beta 3 freeze: 10 days.*
+A yellow sticky note clung to the edge of her monitor: *QOS 98 – Beta 3 freeze: 10 days.*
 
 Her inbox chimed. A new message from HR: *Paid Leave Request – Denied*. She exhaled through her nose, not surprised but still a little deflated. She’d been hoping for a week in Portsmouth to recharge before the Beta crunch, but the timing was bad and the project was too important.
 
-She was still staring at the email when the corner of her screen blinked again. A calendar notification slid into view:
-
-Performance Review – 2:00 PM – Conf. Room B
+She was still staring at the email when the corner of her screen blinked again, a calendar notification sliding into view: *Performance Review – 2:00 PM – Conf. Room B.*
 
 She frowned slightly. That was odd. She hadn’t scheduled it, and reviews were tied to hire dates, not the calendar year. Hers always fell in July, but she usually got a heads up from Mark a week in advance. This one had just… appeared.
 
-Jessica dismissed the notification with a shrug. Whatever it was, it could wait until she’d smoothed out the single frame hitch in the MagnaOS build. Beta freeze was coming fast, and Aurora’s animations had to be flawless
+Jessica dismissed the notification with a shrug. Whatever it was, it could wait until she’d smoothed out the single frame hitch in the MagnaOS build. Beta freeze was coming fast, and Aurora’s animations had to be flawless.
 
 ***
 
 #### The “Review” That Isn’t
 
-Conf. Room B was one of those spaces that never quite lost the smell of dry erase markers and burnt coffee. Jessica wheeled inside, laptop in her backpack strapped to her wheelchair, still half thinking about the animation hitch in Aurora Presenter.
+Conf. Room B was one of those spaces that never quite lost the smell of dry erase markers and burnt coffee. Jessica wheeled inside, laptop in her backpack strapped to her wheelchair, still half thinking about the animation hitch in Aurora Presenter.
 
 Mark Ellison was already there, leaning back in his chair with a legal pad in front of him. Across the table sat Dana Cho, head of the department — a surprise. Dana didn’t usually sit in on individual reviews unless something was wrong, and Jessica’s record was spotless.
 
-She slid into the chair opposite them, setting her laptop down but not opening it.
+She slid into the place opposite them, setting her laptop down on the table without opening it.
 
-Jessica: “Afternoon. I wasn’t expecting both of you.”
+“Afternoon,” Jessica said. “I wasn’t expecting both of you.”
 
-Mark smiled — polite, practiced — and flipped his pen between his fingers.
-
-Mark: “We thought it’d be good to have a broader conversation this time.”
+Mark smiled — polite, practiced — and flipped his pen between his fingers. “We thought it’d be good to have a broader conversation this time.”
 
 Broader conversation. That was new.
 
-Dana’s expression was unreadable, hands folded neatly on the table.
-
-Dana: “You’ve been doing excellent work, Jessica. Aurora’s shaping up beautifully.”
+Dana’s expression was unreadable, hands folded neatly on the table. “You’ve been doing excellent work, Jessica,” she said. “Aurora’s shaping up beautifully.”
 
 Jessica nodded, waiting for the usual rhythm: here’s what you’re doing well, here’s what to improve, here’s what’s next. But instead, Dana reached into a slim folder and slid a single sheet of paper across the table.
 
 Travel details.
 
-Jessica blinked at it, her brain taking a second to catch up. Pacific Aerospace Field to T.F. Green State Airport, Providence. Ground transport to Boston. No project brief, no agenda.
+Jessica blinked at it, her brain taking a second to catch up. Pacific Aerospace Field to T.F. Green State Airport, Providence. Ground transport to Boston. No project brief, no agenda.
 
-Jessica: “This… isn’t a review.”
+“This… isn’t a review,” Jessica said slowly.
 
-Mark’s smile didn’t change.
-
-Mark: “Not exactly. You’ve been tapped for something important. You’ll get the full picture from higher up.”
+Mark’s smile didn’t change. “Not exactly. You’ve been tapped for something important. You’ll get the full picture from higher up.”
 
 Higher up. The words landed with a weight she couldn’t quite place.
 
-Dana’s tone was calm, almost formal.
-
-Dana: “When we’re done here, head over to the Executive Suite in Building 33. They’re expecting you.”
+“When we’re done here, head over to the Executive Suite in Building 33,” Dana said, her tone calm, almost formal. “They’re expecting you.”
 
 Jessica sat back, the paper still in her hands. She’d been in Building 33 before, but never the Executive Suite. Whatever this was, it wasn’t routine.
 
@@ -73,7 +62,7 @@ Jessica sat back, the paper still in her hands. She’d been in Building 33 befo
 
 #### Across the Quad
 
-Jessica eased her chair out of Conf. Room B, the door clicking shut behind her. The meeting with Mark and Dana still sat in the back of her mind — not unsettling, exactly, but… unusual.
+Jessica eased her chair out of Conf. Room B, the door clicking shut behind her. The meeting with Mark and Dana still sat in the back of her mind — not unsettling, exactly, but… unusual.
 
 The quickest way to Building 33 was through the main quad, so she took the long, sloping ramp down from the engineering wing and let the summer air wash over her.
 
@@ -97,31 +86,31 @@ The automatic doors parted with a soft hiss, and the cool, conditioned air of Bu
 
 They stopped at a conference room with a panoramic view of Lake Washington. Inside, at the head of the table, sat William Keswick. Jessica froze for half a second. She’d been in the same room as him before—during war room meetings for the Quantum OS 95 launch—but always as one of many. This was different.
 
-"Jessica. Come on in," Keswick said.
+“Jessica. Come on in,” Keswick said.
 
 She rolled forward, positioning herself where a chair had been pushed aside.
 
-"I understand you recently put in for paid leave," Keswick stated.
+“I understand you recently put in for paid leave,” Keswick stated.
 
-Her stomach tightened. "I did," she replied. "It was denied."
+Her stomach tightened. “I did,” she replied. “It was denied.”
 
-Keswick’s mouth curved in something between a smile and a knowing look. "Not denied. Delayed. You’re going to Boston first."
+Keswick’s mouth curved in something between a smile and a knowing look. “Not denied. Delayed. You’re going to Boston first.”
 
-Jessica frowned, confused. "Boston? For what? The Expo?"
+Jessica frowned, confused. “Boston? For what? The Expo?”
 
-"MagnaWorld Expo '97, to be precise," Keswick clarified.
+“MagnaWorld Expo ’97, to be precise,” Keswick clarified.
 
-Her eyes widened in shock. "But… that's MagnaByte's show. We're rivals."
+Her eyes widened in shock. “But… that’s MagnaByte’s show. We’re rivals.”
 
-"Exactly," he said, his expression unreadable. "You'll be given more details when you get into Boston. What's most important for now is that this is on a strict need-to-know basis. Your trip is only known by a select few people. No one else must know you're going. Understood?"
+“Exactly,” he said, his expression unreadable. “You’ll be given more details when you get into Boston. What’s most important for now is that this is on a strict need-to-know basis. Your trip is only known by a select few people. No one else must know you’re going. Understood?”
 
-He then opened the folder, scanning a page. “We need to walk through contingencies. If someone spots you at the hotel—and I don’t expect they will—you keep moving. Don’t stop for questions. If pressed, you’re here for internal meetings. No comment on the Expo, no comment on Quantum."
+He opened the folder, scanning a page. “We need to walk through contingencies. If someone spots you at the hotel—and I don’t expect they will—you keep moving. Don’t stop for questions. If pressed, you’re here for internal meetings. No comment on the Expo, no comment on Quantum.”
 
-"If it’s press, security will intercept. If it’s a fan, be polite but brief. We’ll have a colleague nearby to step in if needed. Your name stays out of any pre-event chatter—that’s non-negotiable.”
+“If it’s press, security will intercept,” he continued. “If it’s a fan, be polite but brief. We’ll have a colleague nearby to step in if needed. Your name stays out of any pre-event chatter—that’s non-negotiable.”
 
 He flipped to another page. “Travel’s arranged. Your ride will pick you up at your house in Seattle at 08:15 sharp. From there, straight to BFI. You’ll have your itinerary on arrival.”
 
-"And after Boston?" Jessica asked.
+“And after Boston?” Jessica asked.
 
 Keswick closed the folder. “Then you can take your leave. But first, we get through this clean.” For a moment, she imagined the quiet of home—the salt air, the familiar streets—and then the roar of a convention hall full of Magna loyalists. Two worlds, and she was about to walk between them.
 
@@ -151,9 +140,7 @@ Somewhere down the street, she heard the low, steady approach of an engine. Righ
 
 A white Quantum employee shuttle turned onto her street and slowed to a stop in front of the apartment. Clean, quiet — and unmistakably out of place. She’d only ever seen them running campus loops in Redmond or ferrying execs to offsite meetings.
 
-The driver stepped out and lowered the ramp with a practiced motion.
-
-Driver: “Morning, Ms. Taylor. Straight to Pacific Aerospace Field.”
+The driver stepped out and lowered the ramp with a practiced motion. “Morning, Ms. Taylor,” he said. “Straight to Pacific Aerospace Field.”
 
 Jessica blinked. Pacific Aerospace Field. Not Sea-Tac. And definitely not the Overlake Transit Center.
 
@@ -169,23 +156,19 @@ When they turned into Pacific Aerospace Field, she saw the charter jet waiting o
 
 The shuttle pulled up beside them. The driver lowered the ramp, and one of the execs stepped forward with a smile that didn’t quite hide the tension in his eyes.
 
-Exec: “Ms. Taylor. Welcome aboard. Mr. Keswick wanted to make sure you got here without any… complications.”
+“Ms. Taylor. Welcome aboard,” he said. “Mr. Keswick wanted to make sure you got here without any… complications.”
 
 Jessica unlocked her chair and rolled down the ramp, the morning wind tugging at the hem of her jacket. The tarmac was warm beneath her wheels, the air tinged with jet fuel and the distant scent of sea salt from the Sound.
 
-The executive — she remembered his name now, Marcus something — stepped forward with a practiced smile.
-
-Marcus: “Glad you made it. We’re wheels up in twenty.”
+The executive — she remembered his name now, Marcus something — stepped closer with a practiced smile. “Glad you made it. We’re wheels up in twenty.”
 
 She nodded, saying nothing. The legal team stood a few paces back, one of them flipping through a folder, the other watching her with the kind of expression that tried to be neutral and failed.
 
-Marcus gestured toward the jet.
-
-Marcus: “We’ve got a lift ready if you need it, but the ramp’s already set.”
+Marcus gestured toward the jet. “We’ve got a lift ready if you need it, but the ramp’s already set.”
 
 She glanced at the boarding stairs — a portable ramp had been positioned alongside, low profile, efficient. No fuss. No announcement. Just there.
 
-Jessica: “I’ve got it.”
+“I’ve got it,” Jessica said.
 
 She rolled forward, the hum of her chair blending with the low thrum of the jet’s auxiliary power unit. As she ascended, she felt the eyes behind her — not hostile, not admiring, just measuring. She was no longer the quiet engineer in the back row. She was the one they’d flown in early, the one they’d cleared the shuttle for, the one whose name had started showing up in briefings.
 
@@ -203,18 +186,21 @@ She sat near the middle of the cabin, her chair secured in place, travel bag tuc
 
 They weren’t talking about the product. They were talking about *her*.
 
-Exec 1: “Upon arrival at Providence, she transfers directly to the unmarked sedan. No terminal, no baggage claim.”\
-Legal: “Hotel is across the street from the convention center. She checks in under her own name — plausible deniability if anyone asks — but no one outside this room knows she’s in Boston.”
+“Upon arrival at Providence, she transfers directly to the unmarked sedan,” one of the executives murmured. “No terminal, no baggage claim.”
+
+“Hotel is across the street from the convention center,” one of the attorneys replied, scanning a printed brief. “She checks in under her own name — plausible deniability if anyone asks — but no one outside this room knows she’s in Boston.”
 
 Jessica kept her eyes on the clouds outside, listening.
 
-Exec 2: “Does she ride alone?”\
-Legal: “Yes. The rest of us will disperse. Some are already in Boston, others will arrive separately. No visible Quantum presence until the moment of the announcement.”
+“Does she ride alone?” a second executive asked.
+
+“Yes,” the attorney answered. “The rest of us will disperse. Some are already in Boston, others will arrive separately. No visible Quantum presence until the moment of the announcement.”
 
 The words *utmost secret* came up more than once.
 
-Exec 1: “Next morning, she’s taken across the street to the service and delivery entrance. Straight into the side room — the green room. She’ll get instructions there.”\
-Legal: “Those instructions aren’t even in this briefing. They’ll be sent over in the morning.”
+“Next morning, she’s taken across the street to the service and delivery entrance,” the first executive continued. “Straight into the side room — the green room. She’ll get instructions there.”
+
+“Those instructions aren’t even in this briefing,” the attorney noted quietly. “They’ll be sent over in the morning.”
 
 Jessica turned back toward them at that. Even here, in this sealed cabin thousands of feet above the Midwest, no one knew the final details.
 
@@ -228,9 +214,9 @@ For now, she was in the air, in the middle of a plan so carefully stitched toget
 
 #### Providence to Boston
 
-The wheels touched down at T.F. Green with barely a bump. Jessica knew this runway — she’d landed here more times than she could count. Family visits, holidays, quick escapes home to Portsmouth. Normally, stepping off a plane here meant the trip was over, the salt air was minutes away, and she could already taste coffee milk from her favorite café on Aquidneck Island.
+The wheels touched down at T.F. Green with barely a bump. Jessica knew this runway — she’d landed here more times than she could count. Family visits, holidays, quick escapes home to Portsmouth. Normally, stepping off a plane here meant the trip was over, the salt air was minutes away, and she could already taste coffee milk from her favorite café on Aquidneck Island.
 
-If she’d had her way, she would have rolled straight from the gate to a bus into Providence then to the train station and to the BSTA Commuter Rail platform and let the train carry her up to Boston’s South Station. She liked the rhythm of the rails, the way the scenery slid past without the stress of traffic. Within the city, she’d have switched to a bus — far more reliable for her than the B branch of the *The B’s* Green Line, whose patchy wheelchair access and infamous delays had earned it the less-than-affectionate nickname *The Bitch*. And the BSTA itself? Locals joked it stood for *Better Start Taking Alternatives*.
+If she’d had her way, she would have rolled straight from the gate to a bus into Providence then to the train station and to the BSTA Commuter Rail platform and let the train carry her up to Boston’s South Station. She liked the rhythm of the rails, the way the scenery slid past without the stress of traffic. Within the city, she’d have switched to a bus — far more reliable for her than the B branch of *The B’s* Green Line, whose patchy wheelchair access and infamous delays had earned it the less-than-affectionate nickname *The Bitch*. And the BSTA itself? Locals joked it stood for *Better Start Taking Alternatives*.
 
 But this trip wasn’t hers to plan. This was too important — and too secret — for public schedules and chance encounters.
 
@@ -238,7 +224,7 @@ The charter taxied to a quiet corner of the field, well away from the terminal s
 
 An unmarked black sedan waited at the edge of the tarmac, engine idling. The driver stepped out as the cabin door opened, his suit crisp, his expression neutral.
 
-Driver: “Ms. Taylor. Your bag’s already in the car.”
+“Ms. Taylor,” he said. “Your bag’s already in the car.”
 
 She rolled down the ramp, the hum of her chair blending with the faint roar of a departing jet. The sedan door closed behind her, and they were moving before she’d even settled in.
 
@@ -260,9 +246,7 @@ The skyline beyond, the salt-tinged air drifting in through the vents, the stubb
 
 The sedan slipped off the exit and into the tight grid of downtown streets. Within minutes, they were pulling up to a hotel directly across from the convention center — close enough that she could see the glass façade from the curb.
 
-The driver held the door as she rolled out.
-
-Driver: “Check-in is under your name. The room’s already paid for.”
+The driver held the door as she rolled out. “Check-in is under your name,” he told her quietly. “The room’s already paid for.”
 
 She didn’t ask by whom.
 
@@ -280,21 +264,17 @@ A soft knock at the door broke the thought.
 
 She rolled over and opened it to find a woman in a Quantum windbreaker, a paper bag in one hand and a cardboard drink tray in the other. Jessica recognized her vaguely from the Redmond campus — Erin Patel, a mid‑level project manager — but they’d never spoken before.
 
-Erin: “Morning, Ms. Taylor. Thought you might want something before we head over.”
+“Morning, Ms. Taylor,” Erin said. “Thought you might want something before we head over.”
 
 She stepped inside just far enough to set the bag and tray on the desk. The smell hit instantly — hot coffee and warm bagels. The cups were branded with the orange-and-pink logo of Harbor Brew.
 
 Jessica’s lips curved into the faintest smile. “You know,” she said, her voice breaking the silence she’d kept since leaving Seattle, “Harbor Brew is a New England thing. Around here, this is practically a food group.”
 
-Erin chuckled softly.
-
-Erin: “I just grabbed the first place open near the hotel.”
+Erin chuckled softly. “I just grabbed the first place open near the hotel.”
 
 Jessica took a sip of the coffee — strong, a little sweet — and bit into a plain bagel with cream cheese. “You did good,” she said simply.
 
-She ate quickly while Erin stood by the door, glancing at her watch.
-
-Erin: “We’ve got the path ready. When you’re set, we’ll move.”
+She ate quickly while Erin stood by the door, glancing at her watch. “We’ve got the path ready,” Erin said. “When you’re set, we’ll move.”
 
 Ten minutes later, Jessica rolled out of the hotel lobby into the cool morning air. The convention center loomed directly across the street, its glass façade catching the early light.
 
@@ -304,9 +284,7 @@ They moved together in a tight, unspoken formation — Erin just ahead, one staf
 
 Jessica didn’t think of herself as anyone worth that kind of attention. But she didn’t argue, either.
 
-At the service and delivery entrance, a tall woman in a dark blazer and ID badge stepped forward.
-
-Blazer-clad Employee: “Ms. Taylor? I’ll take you from here.”
+At the service and delivery entrance, a tall woman in a dark blazer and ID badge stepped forward. “Ms. Taylor?” she said quietly. “I’ll take you from here.”
 
 Erin gave a small nod, then stepped back as Jessica rolled forward into the shadowed corridor beyond. The hum of her chair echoed off the concrete, the outside world falling away behind her.
 
@@ -316,9 +294,7 @@ Erin gave a small nod, then stepped back as Jessica rolled forward into the shad
 
 The service corridor was cool and dim, the hum of ventilation masking the faint thrum of activity somewhere above. Jessica followed the woman in the dark blazer through a series of turns, past stacks of shipping crates and coiled cables, until they reached a plain, unmarked door.
 
-The woman stepped aside and pulled it open.
-
-Blazer-clad Employee: “Right through here.”
+The woman stepped aside and pulled it open. “Right through here,” she murmured.
 
 Jessica rolled inside.
 
@@ -328,43 +304,35 @@ Stephen Marchand.
 
 She’d seen him countless times on video calls, heard his voice in cross-platform planning meetings, read his notes on Aurora Presenter’s integration with MagnaOS. But this was the first time they’d met in person.
 
-He looked up, and the faintest smile touched his face.
+He looked up, and the faintest smile touched his face. “Jessica Taylor. At last.”
 
-Marchand: “Jessica Taylor. At last.”
+“Stephen Marchand,” Jessica replied. “I think we’ve been trading code and specs for… what, two years now?”
 
-Jessica: “Stephen Marchand. I think we’ve been trading code and specs for… what, two years now?”
-
-Marchand: “Two years, three months, and a handful of late-night bug fixes. I’ve always respected your work. Today, the world will see why.”
+“Two years, three months, and a handful of late-night bug fixes,” Marchand said. “I’ve always respected your work. Today, the world will see why.”
 
 He gestured toward the monitor. The stage was being set — banners unfurled, lights tested, the hum of a crowd just audible through the feed.
 
 From the table, he picked up a small, flesh-colored earpiece attached to a thin, clear acoustic tube. A wire ran from the tube to a belt-pack receiver no bigger than a deck of cards.
 
-Marchand: “Standard IFB. You’ll hear me in this, and only me. It’s on a private channel — not the house mix — so I can cue you without the audience hearing a thing. Keep it in your right ear.”
+“Standard IFB,” Marchand explained, holding it out to her. “You’ll hear me in this, and only me. It’s on a private channel — not the house mix — so I can cue you without the audience hearing a thing. Keep it in your right ear.”
 
 Jessica clipped the pack to the side of her chair frame, tucking the wire neatly under her jacket before fitting the earpiece in place. A faint hiss filled her ear, then his voice — not from across the room, but as if he were standing right beside her.
 
-Marchand, in her ear: “Perfect. That’s how I’ll tell you when it’s time.”
+“Perfect,” Marchand’s voice sounded cleanly in her ear. “That’s how I’ll tell you when it’s time.”
 
-He crossed the room and handed her a bottle of water.
+He crossed the room and handed her a bottle of water. “In a few minutes, William Keswick will walk out there — well, appear — and announce something no one thought possible,” he said. “And when he does, he’ll call you to join him. You’ll be the living proof that this alliance isn’t just talk — that Quantum and Magna can build something extraordinary together.”
 
-Marchand: “In a few minutes, William Keswick will walk out there — well, appear — and announce something no one thought possible. And when he does, he’ll call you to join him. You’ll be the living proof that this alliance isn’t just talk — that Quantum and Magna can build something extraordinary together.”
-
-He leaned in slightly, his tone becoming more focused.
-
-Marchand: “And Jessica—you don’t need to prepare any remarks. You don’t need to say a single word. Your presence on that stage, with both of us, *is* the message. It tells the entire industry that this is real.”
+He leaned in slightly, his tone becoming more focused. “And Jessica—you don’t need to prepare any remarks. You don’t need to say a single word. Your presence on that stage, with both of us, *is* the message. It tells the entire industry that this is real.”
 
 Jessica felt the weight of his words settle over her. She’d known this was important, but hearing it framed like that—living proof, a silent symbol—made her pulse quicken.
 
-Jessica: “You make it sound like I’m about to step into history.”
+“You make it sound like I’m about to step into history,” Jessica said.
 
-Marchand’s gaze was steady.
-
-Marchand: “You are. And one more thing — I trust the hotel was comfortable? MagnaByte insisted on covering it.”
+Marchand’s gaze was steady. “You are. And one more thing — I trust the hotel was comfortable? MagnaByte insisted on covering it.”
 
 Jessica blinked. “MagnaByte?”
 
-Marchand: “Consider it a gesture. You’ll understand soon enough.”
+“Consider it a gesture,” Marchand replied. “You’ll understand soon enough.”
 
 On the monitor, the seats were filling, the murmur of the crowd rising. Somewhere out there, beyond the lights, history was waiting — and in a matter of minutes, she’d be part of it.
 
@@ -382,18 +350,13 @@ The reaction in her earpiece was instant and chaotic: a sharp intake of breath f
 
 She’d seen Keswick command a room before, but never like this — never as the uninvited guest in the heart of Magna’s biggest stage.
 
-Marchand’s voice came into her ear, steady and calm, unaffected by the noise.
-
-Marchand (in her ear): “Stand by… moving you now.”
+Marchand’s voice came into her ear, steady and calm, unaffected by the noise. “Stand by… moving you now.”
 
 A staffer appeared at her side, guiding her out of the green room and into the dim service corridor. The sound of the crowd grew louder with each turn, until they reached the wings.
 
-From here, she could see the edge of the stage, the bright spill of light, the faint shimmer of the giant screen. Marchand’s voice again, low and precise in her ear:
-
-Marchand: “Now.”
+From here, she could see the edge of the stage, the bright spill of light, the faint shimmer of the giant screen. Marchand’s voice came again, low and precise in her ear: “Now.”
 
 She rolled forward, the curtain just ahead.
-
 
 From the floor of the convention hall, Stephen Marchand was in his element. He paced the stage with easy confidence, his words carrying to the farthest rows without strain. The massive screen behind him shifted between slides — bold graphics, clean typography, the occasional live camera shot.
 
@@ -439,25 +402,21 @@ Jessica kept her gaze steady, her expression calm, even as she felt the weight o
 
 The applause — uneven, still tinged with the aftertaste of Keswick’s appearance — ebbed just enough for Stephen Marchand to speak again.
 
-Marchand: “Ladies and gentlemen… Jessica Taylor.”
+“Ladies and gentlemen… Jessica Taylor,” Marchand announced.
 
 He didn’t elaborate. He didn’t need to. For those who knew, the name was enough. For those who didn’t, the sight of her — poised in her chair beside him, Keswick’s image looming behind them — was already rewriting the story they thought they were watching.
 
 Jessica kept her gaze steady, her hands resting lightly on the armrests. She’d been given no script, no talking points. In truth, she hadn’t known she’d be on stage at all until moments ago. The IFB in her ear was silent now, Marchand’s voice reserved for the audience.
 
-On the screen, Keswick’s expression softened into something almost personal.
-
-Keswick: “Jessica… it’s good to see you here.”
+On the screen, Keswick’s expression softened into something almost personal. “Jessica… it’s good to see you here.”
 
 The crowd reacted — a ripple of murmurs, a few scattered claps, the faint click of camera shutters.
 
-Keswick: “Your work has been… instrumental. And today, it stands as proof of what’s possible when we stop thinking in terms of ‘us’ and ‘them.’”
+“Your work has been… instrumental,” Keswick continued. “And today, it stands as proof of what’s possible when we stop thinking in terms of ‘us’ and ‘them.’”
 
 Jessica didn’t answer. That was the plan — hers and theirs. Her presence was the message. Anything she said now would dilute it.
 
-Marchand picked up the thread seamlessly, turning back to the audience.
-
-Marchand: “This is what collaboration looks like. This is what the future looks like.”
+Marchand picked up the thread seamlessly, turning back to the audience. “This is what collaboration looks like. This is what the future looks like.”
 
 Jessica let the words wash over her, the lights hot on her face, the crowd a blur beyond them. She was still catching up to the fact that she was here at all — and yet, somehow, she was exactly where she was meant to be.
 
@@ -467,31 +426,27 @@ Jessica let the words wash over her, the lights hot on her face, the crowd a blu
 
 The applause faded into a restless hush. Stephen Marchand let the pause stretch just long enough to draw every eye back to him.
 
-Marchand: “Today, we’re not just talking about cooperation. We’re showing it.”
+“Today, we’re not just talking about cooperation,” Marchand said. “We’re showing it.”
 
 Behind him, William Keswick’s image remained steady on the massive screen, his expression calm, almost measured.
 
-Marchand: “For the first time in our history, Quantum and Magna have built something together from the ground up — not as competitors, not as reluctant partners, but as equals.”
+“For the first time in our history,” Marchand continued, “Quantum and Magna have built something together from the ground up — not as competitors, not as reluctant partners, but as equals.”
 
 A ripple of murmurs moved through the hall. Jessica sat motionless beside him, the stage lights hot on her face, her hands resting lightly on her armrests. She had no lines, no script — and in truth, no idea what she would say if she did. The IFB in her ear was silent now.
 
-Marchand: “Ladies and gentlemen… Quantum Office Suite 98.”
+“Ladies and gentlemen… Quantum Office Suite 98,” Marchand proclaimed.
 
 The words landed like a dropped stone in still water. The screen behind them shifted to a clean, bold logo — the familiar Quantum branding intertwined with Magna’s.
 
-Keswick’s voice came through the hall’s PA, smooth and deliberate.
-
-Keswick: “This is more than software. This is a bridge. A single suite of tools, designed to run seamlessly on both our platforms. No compromises. No second-class experience. One product, one standard, for everyone.”
+Keswick’s voice came through the hall’s PA, smooth and deliberate. “This is more than software. This is a bridge. A single suite of tools, designed to run seamlessly on both our platforms. No compromises. No second-class experience. One product, one standard, for everyone.”
 
 The crowd reacted in waves — applause from some, skeptical murmurs from others. In the press rows, fingers flew over keyboards.
 
-Keswick: “Jessica Taylor’s work has been central to making this possible. Her expertise, her insight, her ability to see past the old boundaries — without her, this would still be a dream on a whiteboard.”
+“Jessica Taylor’s work has been central to making this possible,” Keswick added. “Her expertise, her insight, her ability to see past the old boundaries — without her, this would still be a dream on a whiteboard.”
 
 Jessica kept her gaze steady, her expression unreadable. She didn’t speak. She didn’t need to. Her presence here, beside Marchand with Keswick’s voice filling the hall, was the proof.
 
-Marchand stepped forward again.
-
-Marchand: “Quantum Office Suite 98 will ship this fall. And when it does, it will change the way we work — together.”
+Marchand stepped forward again. “Quantum Office Suite 98 will ship this fall. And when it does, it will change the way we work — together.”
 
 The applause rose again, louder this time, though still tinged with disbelief. Jessica sat in the center of it all, silent, knowing that whatever else the headlines said tomorrow, her being here would be the part the industry never forgot.
 
@@ -507,7 +462,7 @@ She stopped in a quiet corner, letting her hands rest on her lap. For the first 
 
 She replayed the last ten minutes in her mind — the heat of the lights, the sea of faces beyond them, Marchand’s voice steady beside her, Keswick’s image towering overhead. She’d been on stage at MagnaWorld Expo. Not in the audience. Not behind the scenes. On stage.
 
-She knew she was one of the lead developers of Aurora Presenter — the presentation software she’d poured months into, refining every detail until it felt seamless. She’d known it was part of the Quantum Office Suite 98 family. But until today, she hadn’t understood just how big this release would be.
+She knew she was one of the lead developers of Aurora Presenter — the presentation software she’d poured months into, refining every detail until it felt seamless. She’d known it was part of the Quantum Office Suite 98 family. But until today, she hadn’t understood just how big this release would be.
 
 Quantum and Magna, side by side. Her work at the center of it.
 
@@ -523,8 +478,10 @@ The moment she cleared the stage, the noise hit her from a different angle — n
 
 Down one side of the service corridor, a cluster of reporters had already gathered, badges swinging, recorders and cameras at the ready. Security kept them at a polite distance, but their voices carried.
 
-“Keswick at MagnaWorld — unprecedented!”\
-“Quantum–Magna alliance confirmed!”\
+“Keswick at MagnaWorld — unprecedented!”
+
+“Quantum–Magna alliance confirmed!”
+
 “Jessica Taylor on stage — what does it mean?”
 
 It was like listening to two entirely different conversations. The business press was locked on William Keswick’s satellite appearance, already framing it as the corporate story of the year. But the tech press — the ones with worn‑in laptop bags and camera straps digging into their shoulders — were buzzing about her.
@@ -533,24 +490,26 @@ It was like listening to two entirely different conversations. The business pres
 
 She caught fragments as she rolled past:
 
-“She’s the Aurora Presenter lead…”\
-“First time she’s been public for Quantum…”\
+“She’s the Aurora Presenter lead…”
+
+“First time she’s been public for Quantum…”
+
 “If she’s here, this is bigger than we thought.”
 
-A microphone was suddenly in front of her, its foam windscreen branded with a tech blog’s logo.
-
-Reporter: “Jessica, can you tell us what your role is in Quantum Office Suite 98?”
+A microphone was suddenly in front of her, its foam windscreen branded with a tech blog’s logo. “Jessica, can you tell us what your role is in Quantum Office Suite 98?” the reporter called out.
 
 She froze for half a beat. Before today, she had never been the public face of Quantum. She’d been in conference rooms, code reviews, late‑night bug hunts — not under stage lights, not in front of cameras. And she had no prepared answer.
 
-Jessica: “…No comment.”
+“…No comment,” Jessica said.
 
 It was the safest thing she could think to say.
 
 Security moved her along, the questions trailing after her like static.
 
-“Were you involved in the Keswick deal?”\
-“Will Aurora Presenter ship on MagnaOS?”\
+“Were you involved in the Keswick deal?”
+
+“Will Aurora Presenter ship on MagnaOS?”
+
 “Is this a permanent role for you?”
 
 She didn’t look back.
@@ -567,49 +526,39 @@ The green room door clicked shut behind her, muting the press noise to a dull hu
 
 Stephen Marchand was already there, leaning casually against the table as if he’d just stepped off a routine panel. Beside him stood a man in a tailored charcoal suit — Quantum’s VP of Product Strategy, Alan Chen. She’d seen him in quarterly all‑hands meetings, but never in person.
 
-Marchand: “You did well out there.”
+“You did well out there,” Marchand said.
 
 Jessica blinked. “I didn’t do anything.”
 
-Marchand: “Exactly. That was the point.”
+“Exactly,” Marchand replied. “That was the point.”
 
-Alan stepped forward, his tone measured, almost clinical.
-
-Alan: “Jessica, your presence on that stage was the message. We didn’t need you to speak — in fact, it was better that you didn’t. The industry knows who you are. Seeing you there, beside Stephen, with Keswick on the screen… that image will do more than any speech.”
+Alan stepped forward, his tone measured, almost clinical. “Jessica, your presence on that stage was the message. We didn’t need you to speak — in fact, it was better that you didn’t. The industry knows who you are. Seeing you there, beside Stephen, with Keswick on the screen… that image will do more than any speech.”
 
 Jessica shook her head slightly. “I didn’t even know I’d be on stage until—”
 
-Marchand: “Until I told you in the green room. I know. And I’m sorry for the ambush. But if we’d prepped you, it would have leaked. This had to land as a surprise — for you, for the audience, for everyone.”
+“Until I told you in the green room,” Marchand finished gently. “I know. And I’m sorry for the ambush. But if we’d prepped you, it would have leaked. This had to land as a surprise — for you, for the audience, for everyone.”
 
-Alan nodded.
-
-Alan: “The business press will run with Keswick’s appearance. That’s fine — it’s the corporate headline we wanted. But the tech press? They’re already writing about you. You’re the bridge between Quantum and Magna in their eyes.”
+Alan nodded. “The business press will run with Keswick’s appearance. That’s fine — it’s the corporate headline we wanted. But the tech press? They’re already writing about you. You’re the bridge between Quantum and Magna in their eyes.”
 
 Jessica glanced at the monitor in the corner, still showing the live feed from the stage. Marchand was right — her chair, her face, her silence beside him and Keswick — it was a picture that would be replayed endlessly.
 
-Jessica: “I’m not a public figure.”
+“I’m not a public figure,” Jessica said quietly.
 
-Marchand: “You are now. And that’s not a bad thing. But we’ll manage it. You won’t be thrown to the wolves.”
+“You are now,” Marchand said. “And that’s not a bad thing. But we’ll manage it. You won’t be thrown to the wolves.”
 
-Alan’s voice softened slightly.
-
-Alan: “You’ve been at the heart of Aurora Presenter from day one. Quantum Office Suite 98 is going to be the most important release we’ve ever done. People will want to know the people behind it. You just became one of those people.”
+Alan’s voice softened slightly. “You’ve been at the heart of Aurora Presenter from day one. Quantum Office Suite 98 is going to be the most important release we’ve ever done. People will want to know the people behind it. You just became one of those people.”
 
 Jessica didn’t answer. She wasn’t sure she could. The weight of it was still settling — the lights, the crowd, the headlines already forming.
 
-Marchand glanced at his watch, then toward the door.
-
-Marchand: “Come on. Your ride’s waiting.”
+Marchand glanced at his watch, then toward the door. “Come on. Your ride’s waiting.”
 
 They walked together down the service corridor, past the last of the crew breaking down staging gear. Outside, a black sedan idled at the curb.
 
-Alan: “Two weeks, paid. Portsmouth, Rhode Island. You thought we denied your vacation request, didn’t you?”
+“Two weeks, paid,” Alan told her as they reached the car. “Portsmouth, Rhode Island. You thought we denied your vacation request, didn’t you?”
 
 Jessica frowned. “You did deny it.”
 
-Alan smiled faintly.
-
-Alan: “We delayed it. No point in you paying for a flight from Washington when we were already bringing you to New England. This way, you go straight home.”
+Alan smiled faintly. “We delayed it. No point in you paying for a flight from Washington when we were already bringing you to New England. This way, you go straight home.”
 
 The driver stepped forward to open the rear door. Jessica hesitated for a moment, then slid inside.
 
@@ -631,9 +580,9 @@ Aubrie was the first to spot her, appearing in the hallway with her hair pulled 
 
 From somewhere deeper in the house came Amanda’s voice, bright and quick: “She’s here?” Footsteps pounded, and then Amanda was there too, grinning, already talking about a dozen things at once.
 
-Elise emerged more quietly, but her smile was no less warm. She didn’t rush — she never did — but when she reached Jessica, her hand rested on her shoulder in a way that said \*welcome home\* without words.
+Elise emerged more quietly, but her smile was no less warm. She didn’t rush — she never did — but when she reached Jessica, her hand rested on her shoulder in a way that said *welcome home* without words.
 
-And then Dorian appeared, rolling down the wide hallway in his chair, his eyes lighting up when he saw her. Jessica crouched to meet him, their foreheads touching for a moment in greeting. He tapped her wrist twice — their shorthand for \*I’m glad you’re here\*.
+And then Dorian appeared, rolling down the wide hallway in his chair, his eyes lighting up when he saw her. Jessica crouched to meet him, their foreheads touching for a moment in greeting. He tapped her wrist twice — their shorthand for *I’m glad you’re here*.
 
 The rest of the evening unfolded in the easy rhythm of family: voices overlapping in the kitchen, the clatter of plates, the smell of something baking. They ate at the long table, the windows open to the sound of crickets, and for the first time in weeks, Jessica felt the Expo’s noise and lights fade into the background.
 
@@ -647,9 +596,10 @@ Jessica had slept late, the kind of deep, dreamless sleep that only comes after 
 
 Her laptop sat open on the desk by the window, the unread email still at the top of her inbox:
 
-From: Quantum Communications\
-Subject: Press Inquiries Protocol\
-Please redirect all media requests to the Quantum press office. Do not engage directly.
+> **From:** Quantum Communications<br>
+> **Subject:** Press Inquiries Protocol<br>
+>
+> Please redirect all media requests to the Quantum press office. Do not engage directly.
 
 She’d read it twice last night, the words both a relief and a reminder that her life had shifted in ways she hadn’t yet processed.
 
@@ -1184,13 +1134,7 @@ From the speakerphone, Graham Cho’s voice was cold and final. “We’re not h
 
 Lydia Park, the General Counsel, interjected. "Tom, before we formalize, we need to address the intern, Kelly Madsen. Her original agreement was for a one-month unpaid internship, to be followed by a paid position. She has been here nearly three months and has never been compensated."
 
-Berringer nodded grimly. "Thank you, Lydia. That will be included." He cleared his throat and addressed the room. "Therefore, I move that the board take the following actions, effective immediately:
-
-- First, we authorize one final paycheck for all remaining employees.
-
-- Second, we will pay the intern, Kelly Madsen, in full for her entire three months of service, including the first month that was meant to be unpaid, as the board feels a moral and legal obligation to her.
-
-- Third, we begin an orderly wind-down of all company assets, with a full cessation of operations for Aurora Systems by end of day, Friday, September 19, 1997."
+Berringer nodded grimly. "Thank you, Lydia. That will be included." He cleared his throat and addressed the room. "Therefore, I move that the board take the following actions, effective immediately. First, we authorize one final paycheck for all remaining employees. Second, we will pay the intern, Kelly Madsen, in full for her entire three months of service, including the first month that was meant to be unpaid, as the board feels a moral and legal obligation to her. Third, we begin an orderly wind-down of all company assets, with a full cessation of operations for Aurora Systems by end of day, Friday, September 19, 1997."
 
 A brief silence followed, broken only by the crackle of the speakerphone.
 
@@ -1218,13 +1162,7 @@ One by one, the board members rose and filed out of the room, leaving Evan alone
 
 The Saturday morning light felt different. Kelly sat in front of the family's computer, the dial-up modem blessedly silent after making its usual screeching handshake with the server. She was rereading the emails that had come in overnight, a cascade of support that felt like a dream.
 
-- *Kelly — we’ve got you.* — from the Quantum War Council.
-
-- <aac>Send me your resume.</aac> — from a senior manager at MagnaByte.
-
-- *Texas here. We’ll vouch for you anywhere.* — from a collective of developers in Austin, Dallas, and Houston.
-
-- *You’re one of us now. And you’re Not For Sale.* — from Alex, her former Aurora colleague.
+*Kelly — we’ve got you,* read the message from the Quantum War Council. Right below it sat an email from a senior manager at MagnaByte with a three-word line: *Send me your resume.* Another note had arrived from a collective of developers in Austin, Dallas, and Houston promising, *Texas here. We’ll vouch for you anywhere.* And near the top of her inbox was a message from Alex, her former Aurora colleague, that made her throat tighten every time she read it: *You’re one of us now. And you’re Not For Sale.*
 
 Her twin brother, Ryan, came into the room with a bowl of cereal. "Still reading them?" he asked gently.
 
@@ -1236,7 +1174,7 @@ She knew the developers had all walked out yesterday morning. Alex, the kind sen
 
 Just then, the pager clipped to her belt buzzed sharply. She unclipped it, her blood running cold as she read the message. It was a stark, capitalized demand.
 
-BALLROOM. GRAND HYATT. NOW. -ER
+> <sms>BALLROOM. GRAND SOVEREIGN. NOW. -ER</sms>
 
 "What is it?" Ryan asked, seeing the color drain from her face.
 
@@ -2057,11 +1995,7 @@ Ryan typed in his login details, his heart pounding. The page loaded instantly. 
 
 "Kelly," he breathed, his voice cracking. "Look."
 
-She leaned in, her eyes widening in disbelief. It was real. There was their regular bi-weekly pay for their part-time work, calculated at an incredible
-
-\$50/hour rate. And below it, a line item that simply read:
-
-*New Hire Bonus*—the after-tax amount of their \$50,000 signing bonus.
+She leaned in, her eyes widening in disbelief. It was real. There was their regular bi-weekly pay for their part-time work, calculated at an incredible \$50/hour rate. And below it, a line item simply read *New Hire Bonus*—the after-tax amount of their \$50,000 signing bonus.
 
 Kelly quickly logged into her own account. The same number stared back at her. Tears welled in her eyes, but these were not tears of being overwhelmed. This was the profound, shuddering relief of true security. This was the opposite of Aurora Systems. This was proof. This was respect made tangible.
 
@@ -2087,19 +2021,19 @@ Just as a murmur of confused speculation began to ripple through the group, thei
 
 Jessica opened the email. It was brief and direct.
 
-To: The War Council Distribution List\
-From: William Keswick\
-Subject: Acknowledging Exceptional Talent
-
-Team,
-
-Thank you for your work in discovering, supporting, and ultimately securing Kelly and Ryan Madsen. Talent of that caliber is the future of this company.
-
-The additional funds in your direct deposit today are a bonus in recognition of your extraordinary efforts.
-
-Well done.
-
--Will K
+> **To:** The War Council Distribution List<br>
+> **From:** William Keswick<br>
+> **Subject:** Acknowledging Exceptional Talent<br>
+>
+> Team,
+>
+> Thank you for your work in discovering, supporting, and ultimately securing Kelly and Ryan Madsen. Talent of that caliber is the future of this company.
+>
+> The additional funds in your direct deposit today are a bonus in recognition of your extraordinary efforts.
+>
+> Well done.
+>
+> -Will K
 
 A slow grin spread across Alex's face. "Well, I'll be damned," he said, looking around at the others. "He wasn't kidding when he said they were a long-term investment."
 
@@ -2113,20 +2047,20 @@ The break room was filled with the low, happy buzz of a team that had just been 
 
 She opened it.
 
-To: Jessica Taylor\
-CC: Mark Ellison\
-From: William Keswick\
-Subject: Your New Role
-
-Jessica,
-
-The bonus you and the War Council received today was for the team's collective effort. The additional adjustment in your paycheck is for you, personally.
-
-With your new supervisory responsibilities for Kelly and Ryan Madsen, you have formally stepped into a leadership role. This raise reflects that new reality.
-
-Thank you for finding these two invaluable additions to our team. We at Quantum wish you much success as you continue your career with us.
-
--Will K
+> **To:** Jessica Taylor<br>
+> **CC:** Mark Ellison<br>
+> **From:** William Keswick<br>
+> **Subject:** Your New Role<br>
+>
+> Jessica,
+>
+> The bonus you and the War Council received today was for the team's collective effort. The additional adjustment in your paycheck is for you, personally.
+>
+> With your new supervisory responsibilities for Kelly and Ryan Madsen, you have formally stepped into a leadership role. This raise reflects that new reality.
+>
+> Thank you for finding these two invaluable additions to our team. We at Quantum wish you much success as you continue your career with us.
+>
+> -Will K
 
 Jessica stared at the screen, a feeling of profound shock and gratitude washing over her. It wasn't just a bonus; it was a promotion. It was a formal acknowledgment of her mentorship, a concrete investment in her growth as a leader.
 

@@ -2268,12 +2268,7 @@ They climbed into the small bed. They curled up together, the big spoon and the 
 
 #### Scene 17: Berry Tarts at Horg's Smithy
 
-Location: Horg’s Smithy
-
-Time: Two years before Elara’s death (Age 14)
-
-
-The forge wasn't just loud; it was singing.
+Two years before Elara’s death, when the twins were fourteen, Horg’s smithy wasn't just loud; it was singing.
 
 "Rhythm, lad!" Horg bellowed over the roar of the bellows. "Don't just hit it! Talk to it!"
 
@@ -2361,10 +2356,7 @@ The shop felt full. It felt loud. It felt unbreakable.
 
 #### Scene 18: Clinker and Princess
 
-Time: Two years before Elara’s death (Age 14)
-
-
-The merchant from the Southern Coast, a man named Varrick (not the spy Varek), backed up slowly until his back hit the wall of the smithy. His face was the color of curdled milk.
+That same year, a merchant from the Southern Coast named Varrick backed up slowly until his spine hit the wall of the smithy. His face was the color of curdled milk.
 
 "What... by the Light... is that?" Varrick stammered, pointing a trembling finger at the pen.
 
@@ -2948,9 +2940,7 @@ Kaela eventually stopped squeezing. Her hand went slack against his chest, thoug
 
 #### Scene 7: The Silence at the Forge
 
-Time: Six months after Elara’s death (Age 16.5)
-
-Horg clamped the red-hot plowshare onto the anvil with his tongs. "Hit it, lad!" he bellowed. "While the color is cherry!"
+Six months after Elara’s death, Horg clamped the red-hot plowshare onto the anvil with his tongs. "Hit it, lad!" he bellowed. "While the color is cherry!"
 
 Usually, this was the moment the shop came alive. Kaelan would swing the heavy sledgehammer with a grin, Kaela (sitting on her usual barrel in the corner) would wince theatrically at the noise, and the two of them would banter.
 

@@ -364,27 +364,41 @@ The parents' legal aid lawyer, Mr. Henderson, countered, his tone emphasizing pa
 
 The testimony phase began. Stella took the stand first, nervous but resolute.
 
-Sarah: Stella, please state your relationship to Luna and Leo Porter. Stella: They're my younger sister and brother. My twin siblings. Sarah: And you, along with your grandparents, are seeking co-guardianship and co-conservatorship today, with you acting as the primary? Stella: Yes . Sarah: Can you tell the court why you believe this is necessary? Stella: (Taking a breath) Because their needs aren't being met at home. Medically, educationally... emotionally. My parents... they don't seem to understand or maybe they don't want to understand what Luna and Leo need because of their cerebral palsy and autism. Appointments get missed, school calls aren't returned, basic care sometimes... gets overlooked. Sarah: Can you provide an example of this overlooked care? Stella: (Voice trembling slightly) Last year, I found a pressure sore on Leo. It was an open wound. He can't say anything—and my parents hadn't noticed . I had to take him to the doctor myself. It shouldn't have gotten to that point.
+"Stella, please state your relationship to Luna and Leo Porter," Sarah Jenkins said, stepping up to the lectern.
 
-The testimony continued, covering the educational neglect regarding the MagnaByte Opus and Stella's preparations for housing and care . Then came the cross-examination.
+"They're my younger sister and brother," Stella answered clearly. "My twin siblings."
 
-Mr. Henderson: Ms. Porter, you'll be turning 21 next month, is that correct?
+"And you, along with your grandparents, are seeking co-guardianship and co-conservatorship today, with you acting as the primary?"
 
-Stella: Yes, that's correct. June 15th.
+"Yes."
 
-Mr. Henderson: Just barely an adult yourself. You have a full-time job as a web developer and are finishing college. You propose to take on primary care, 24/7, for two teenagers with significant disabilities. How do you realistically expect to manage that?
+"Can you tell the court why you believe this is necessary?" Sarah asked.
 
-Stella: (Calmly, meeting his gaze) It will be demanding, yes. But I am not doing it alone. As our petition states, my grandparents will be co-guardians. I will have their full financial, emotional, and practical support. I've been helping care for them, unofficially, for years. This isn't a whim; it's a necessity and a commitment our family is fully prepared for.
+Stella drew a steadying breath. "Because their needs aren't being met at home. Medically, educationally... emotionally. My parents... they don't seem to understand, or maybe they don't want to understand, what Luna and Leo need because of their cerebral palsy and autism. Appointments get missed, school calls aren't returned, basic care sometimes... gets overlooked."
 
-Mr. Henderson: You're 20 years old, buying a house, taking on guardianship... that sounds like a significant financial strain. Have you fully budgeted for their medical expenses? Therapy co-pays? Adaptive equipment?
+"Can you provide an example of this overlooked care?"
 
-Stella: Yes, I have. And the budget, Mr. Henderson, is not based on my income alone. It is fully funded by a legally established trust set up by my grandparents, who are co-petitioners in this matter. The house was purchased with their help. There is no financial strain. My job provides good health insurance, and we have researched supplemental programs. We understand and have fully planned for the financial responsibility.
+Stella's voice trembled slightly as the memory surfaced. "Last year, I found a pressure sore on Leo. It was an open wound. He can't say anything—and my parents hadn't noticed. I had to take him to the doctor myself. It shouldn't have gotten to that point."
 
-Mr. Henderson: But you agree you lack formal training in physical therapy, speech therapy, or special education? How can you claim to provide better care than their own parents?
+The testimony continued, covering the educational neglect regarding the MagnaByte Opus and Stella's preparations for housing and care. Then came the cross-examination.
 
-Stella: I don't claim to be a therapist, sir. I claim to be someone who will ensure they get to their therapy appointments, who will communicate with their teachers and doctors, and who will provide a loving, consistent, and safe environment . I will work closely with all their specialists, and I will have the guidance and life experience of my grandparents to rely on. I've already started.
+"Ms. Porter, you'll be turning twenty-one next month, is that correct?" Mr. Henderson asked, rising from the respondents' table.
 
-Mr. Henderson: No further questions, Your Honor.
+"Yes, that's correct," Stella replied. "June fifteenth."
+
+"Just barely an adult yourself," Mr. Henderson pressed. "You have a full-time job as a web developer and are finishing college. You propose to take on primary care, twenty-four hours a day, seven days a week, for two teenagers with significant disabilities. How do you realistically expect to manage that?"
+
+Stella met his gaze calmly. "It will be demanding, yes. But I am not doing it alone. As our petition states, my grandparents will be co-guardians. I will have their full financial, emotional, and practical support. I've been helping care for them, unofficially, for years. This isn't a whim; it's a necessity and a commitment our family is fully prepared for."
+
+"You're twenty years old, buying a house, taking on guardianship... that sounds like a significant financial strain," Mr. Henderson countered. "Have you fully budgeted for their medical expenses? Therapy co-pays? Adaptive equipment?"
+
+"Yes, I have," Stella said evenly. "And the budget, Mr. Henderson, is not based on my income alone. It is fully funded by a legally established trust set up by my grandparents, who are co-petitioners in this matter. The house was purchased with their help. There is no financial strain. My job provides good health insurance, and we have researched supplemental programs. We understand and have fully planned for the financial responsibility."
+
+"But you agree you lack formal training in physical therapy, speech therapy, or special education?" he asked. "How can you claim to provide better care than their own parents?"
+
+"I don't claim to be a therapist, sir," Stella answered firmly. "I claim to be someone who will ensure they get to their therapy appointments, who will communicate with their teachers and doctors, and who will provide a loving, consistent, and safe environment. I will work closely with all their specialists, and I will have the guidance and life experience of my grandparents to rely on. I've already started."
+
+Mr. Henderson paused, finding no purchase against her composure. "No further questions, Your Honor."
 
 Her parents did not take the stand. Closing arguments reiterated the main points. Sarah Jenkins powerfully summarized the documented evidence of neglect versus the petitioners' proven, multi-generational commitment. Mr. Henderson stressed the sanctity of the parent-child bond and again questioned Stella's youthful capacity, an argument that now felt significantly weakened .
 
@@ -1603,17 +1617,7 @@ The assembly concluded with Officer Whitehead urging them to make smart choices,
 
 #### 7:00 AM — The Porter Morning Machine
 
-The alarm clock on Stella’s bedside table buzzed, a rude interruption to the quiet peace of Stella's house. Stella Porter, now twenty-one and entering her second full year as legal guardian to her twin siblings, hit the snooze button with a practiced slap. She didn't need the extra nine minutes to sleep; she needed them to mentally run the checklist.
-
-Day: Tuesday.
-
-Schedule: First day of school. Purple Day (A-Day).
-
-First Period: Modified PE for both.
-
-Start Time: 07:15 AM (The district's new, cruel joke).
-
-Logistics: Uniforms packed. Leo’s meds ready. The car… hopefully ready.
+The alarm clock on Stella’s bedside table buzzed, slicing through the quiet pre-dawn stillness of the house. Stella slapped the snooze button by pure muscle memory, staring up at the dim ceiling as the nine-minute countdown began. At twenty-one, entering her second full year as legal guardian to her twin siblings, she didn't use those extra nine minutes to sleep; she used them to run the morning's logistics from top to bottom. It was Tuesday, the first day of school—a Purple A-Day, which meant both Luna and Leo had first-period Modified PE starting at 7:15 AM sharp, the district's newest cruel joke. Their uniforms were already packed, and Leo’s morning meds were ready on the counter. That left only the car, which was hopefully ready to cooperate.
 
 She threw back the covers, pushing away the lingering worry about the check engine light that had flickered briefly last week. "Alright, Team Porter. Rise and shine!"
 
@@ -1638,7 +1642,7 @@ The kitchen smelled of toaster waffles and strong coffee. They sat around the sm
 
 "Okay, schedule check," Stella said, sipping her coffee. "It's a Purple Day. That means PE first thing. Classes start at 7:15 sharp."
 
-Leo groaned, tapping his device. "MR. PETERS. COLD HANDS."
+Leo groaned, tapping his device. <aac>Mr. Peters. Cold hands.</aac>
 
 "At least you don't have to change in the main locker room," Luna pointed out, stabbing a waffle with her fork. "It smells like body spray and desperation in there."
 
@@ -12009,9 +12013,13 @@ After a minute of processing, the screen refreshed. *Connection Established.*
 
 Olivia launched InfoLink Messenger. The familiar running-man icon appeared, and a moment later, the sharp, distinctive *door-opening* sound effect chimed from the laptop’s small speakers. Her buddy list populated. *STELLA_P* was online.
 
-She quickly typed a message into the chat box. O_Walker: <aac>We’re eating. He’s doing okay. Are you and Luna at the computer?</aac>
+She quickly typed a message into the chat box.
 
-A few seconds later, the incoming message chime sounded. STELLA_P: *Yes! We've been sitting right here since we got off the phone. Tell him we love him.*
+> **O_Walker:** <sms>We’re eating. He’s doing okay. Are you and Luna at the computer?</sms>
+
+A few seconds later, the incoming message chime sounded.
+
+> **STELLA_P:** <sms>Yes! We've been sitting right here since we got off the phone. Tell him we love him.</sms>
 
 Olivia dug into her bag again and produced a small, silver USB webcam. She clipped it to the top of her laptop screen, plugging the cord into a side port.
 
@@ -12021,9 +12029,11 @@ The webcam snapped a grainy, 640x480 pixel image. Olivia navigated the menus to 
 
 Over the slow airport Wi-Fi, it took nearly thirty seconds for the bar to fill.
 
-The chime sounded again. STELLA_P: *Oh, Leo. Look at you. We see you, buddy.* STELLA_P: *But Liv, look at him. He's shivering. Like I said on the phone earlier, please go get him a new, warm sweatshirt as soon as you're done here. Don't let him sit in that wet one.*
+The chime sounded again.
 
-O_Walker: *I will. As soon as we log off, that's our next stop.*
+> **STELLA_P:** <sms>Oh, Leo. Look at you. We see you, buddy.</sms><br>
+> **STELLA_P:** <sms>But Liv, look at him. He's shivering. Like I said on the phone earlier, please go get him a new, warm sweatshirt as soon as you're done here. Don't let him sit in that wet one.</sms><br>
+> **O_Walker:** <sms>I will. As soon as we log off, that's our next stop.</sms>
 
 A moment later, another file transfer request popped up on Olivia's screen: *STELLA_P wants to send you 'Home.jpg'.*
 
@@ -12039,13 +12049,14 @@ Navigating the chaotic, overlapping windows and complex menus of Quantum OS was 
 
 Olivia slid the laptop closer to him. Leo placed his hands on the keys and slowly typed his own reply, hitting the Enter key with a decisive tap.
 
-O_Walker: *I LOVE YOU TOO. IT WAS SO BAD.*
-
-STELLA_P: *I know, honey. I know. But it's over now. Delores can't hurt you anymore.* STELLA_P: *And you're coming home. Today. Leo, listen to me.*
+> **O_Walker:** <sms>I LOVE YOU TOO. IT WAS SO BAD.</sms><br>
+> **STELLA_P:** <sms>I know, honey. I know. But it's over now. Delores can't hurt you anymore.</sms><br>
+> **STELLA_P:** <sms>And you're coming home. Today. Leo, listen to me.</sms>
 
 Olivia paused, reading the incoming text. She looked up from the screen to Leo, a slow, triumphant smile breaking across her face.
 
-STELLA_P: *When I booked your ticket this morning, I got you on Gateway Flight 1138.* STELLA_P: *Liv, tell him.*
+> **STELLA_P:** <sms>When I booked your ticket this morning, I got you on Gateway Flight 1138.</sms><br>
+> **STELLA_P:** <sms>Liv, tell him.</sms>
 
 Olivia turned the laptop slightly so Leo had a clear view of her face, then placed her hand gently over his.
 
@@ -12063,13 +12074,12 @@ Olivia was on him in an instant, meeting his desperate need with her own fierce 
 
 The messenger chime pinged again. Olivia leaned back just enough to read the screen, letting Leo type the next message.
 
-O_Walker: *OLIVIA IS MY HERO.*
+> **O_Walker:** <sms>OLIVIA IS MY HERO.</sms>
 
 Olivia laughed, a wet, emotional sound. "I'm just taking my best friend home," she whispered to him. She took the keyboard back, navigating the software to send one final message.
 
-O_Walker: *Okay, we need to log off. We have a mission to get this guy a dry sweatshirt, then get our boarding passes.*
-
-STELLA_P: *Go. Keep us updated. We love you both.*
+> **O_Walker:** <sms>Okay, we need to log off. We have a mission to get this guy a dry sweatshirt, then get our boarding passes.</sms><br>
+> **STELLA_P:** <sms>Go. Keep us updated. We love you both.</sms>
 
 Olivia closed the laptop, the screen going dark. The static of the last five days was finally completely gone, replaced by the warm, clear signal of the two sanctuaries—the one he was in and the one waiting for him at home—coming together to bring him back to life.
 
@@ -13055,25 +13065,25 @@ With the evidence secured, it was time for Leo's statement. Agent Davies sat opp
 
 Leo gave a hesitant nod. With Olivia at his side and Stella nearby, he held his new MagnaByte Scribe, his fingers hovering over the screen.
 
-Agent Chen: "Thank you. In your statement, you mentioned Delores holding you down and kissing you in a way that felt like choking. Can you tell me if there were other times she touched you in a way you did not like?"
+"Thank you," Agent Chen said quietly. "In your statement, you mentioned Delores holding you down and kissing you in a way that felt like choking. Can you tell me if there were other times she touched you in a way you did not like?"
 
 Leo typed slowly, describing the possessive touching and the painful hickey from the Sibling Weekend. The process was slow and emotionally draining, but he got through it.
 
-Agent Chen: "Okay, Leo. Thank you for being so brave. Now, your sister expressed concern, and we have a duty to ask. I have to ask one more very important and personal question now. Did Delores ever touch you on the parts of your body that your pajamas cover?"
+"Okay, Leo," Agent Chen murmured, keeping her tone calm and steady. "Thank you for being so brave. Now, your sister expressed concern, and we have a duty to ask. I have to ask one more very important and personal question now. Did Delores ever touch you on the parts of your body that your pajamas cover?"
 
 Leo flinched. It was a sharp, violent recoil, as if he'd been struck. His eyes went wide with a look of pure shock and revulsion. The very idea, the mental image the question created, was horrifying to him. He started to tremble, his gaze darting to Olivia.
 
 The agents saw the flinch but waited, allowing him space. Agent Chen's voice became even softer.
 
-Agent Chen: "Leo, I can see that question was very upsetting. It's okay. You are safe here. Can you tell us what happened?"
+"Leo, I can see that question was very upsetting," Agent Chen said gently. "It's okay. You are safe here. Can you tell us what happened?"
 
 Leo, shaking his head with frantic energy, began to type on his Scribe. The robotic voice that came out was flat, but the words were a torrent of denial.
 
-Leo's Scribe: <aac>No. Never. She never touched me there. Never. That is... Disgusting. No.</aac>
+<aac>No. Never. She never touched me there. Never. That is... Disgusting. No.</aac>
 
 The agents exchanged a look, this time one of dawning understanding. His flinch wasn't a memory of trauma; it was a reaction of pure horror to the concept. He wasn't reliving an act; he was repulsed by the suggestion of it.
 
-Agent Chen: "Okay, Leo. Thank you for being so clear with us. We understand. We won't ask you about that again."
+"Okay, Leo," Agent Chen said softly. "Thank you for being so clear with us. We understand. We won't ask you about that again."
 
 When they were finished, Agent Davies stood. "Thank you all for your cooperation," he said. "Ms. Porter, we will begin our formal investigation based on this information. The U.S. Attorney's office will likely be in contact with your lawyer soon regarding the next steps, potentially including scheduling a more formal interview for Leo in a specialized setting. You all did a very brave thing."
 
@@ -13387,17 +13397,17 @@ Finally, Ms. Sharma steered the conversation to the most difficult topic. "Leo,"
 
 Leo took a shaky breath, his hand dropping from the keyboard to rest in the dog's thick fur. He gave a small, hesitant nod.
 
-Ms. Sharma: "In your statement, you wrote that Delores held you down and kissed you in a way that felt like choking. Can you tell me more about that moment?"
+"In your statement, you wrote that Delores held you down and kissed you in a way that felt like choking," Ms. Sharma said gently. "Can you tell me more about that moment?"
 
 Leo’s fingers trembled slightly as he typed. The memory was vivid, terrifying.
 
-Leo's Communicator: "IT WAS IN THE BED. IN THE GUEST ROOM. SHE WAS ANGRY. I DID NOT WANT HER TO. SHE GOT ON TOP OF ME AND HELD MY SHOULDERS. I COULD NOT MOVE. *THE BED WAS OLD. IT MADE LOUD CREAKING NOISES WHEN SHE HELD ME DOWN.* HER MOUTH WAS HARD. IT HURT. I COULD NOT BREATHE. I WAS SCARED."
+<aac>It was in the bed. In the guest room. She was angry. I did not want her to. She got on top of me and held my shoulders. I could not move. The bed was old. It made loud creaking noises when she held me down. Her mouth was hard. It hurt. I could not breathe. I was scared,</aac> his communicator spoke into the quiet room.
 
-Ms. Sharma: "Thank you for telling me that, Leo. That was very brave. Were there other times she touched you in a way you did not like?"
+"Thank you for telling me that, Leo," Ms. Sharma murmured. "That was very brave. Were there other times she touched you in a way you did not like?"
 
 Leo typed again, describing the possessive way Delores would grab his hand and the painful hickey she had given him during the Sibling Weekend.
 
-Ms. Sharma: "Okay, Leo. Thank you for being so clear. I have to ask one more very important and personal question now. Did Delores ever touch you on the parts of your body that your pajamas cover?"
+"Okay, Leo. Thank you for being so clear," Ms. Sharma said softly. "I have to ask one more very important and personal question now. Did Delores ever touch you on the parts of your body that your pajamas cover?"
 
 Leo flinched. It was a sharp, violent recoil, as if he'd been struck. His eyes went wide with a look of pure shock and revulsion. The very idea, the mental image the question created, was horrifying to him. He started to tremble, his gaze darting to Olivia, who subtly squeezed his hand. Gus, sensing the spike in his anxiety, sat up straighter and began to gently lick his other hand, a warm, wet, distracting sensation.
 
@@ -13405,11 +13415,11 @@ Ms. Sharma, seeing his reaction but needing to be certain, rephrased the questio
 
 Leo, shaking his head with frantic energy, began to type on his laptop. The clear voice that came out was flat, but the words were a torrent of denial.
 
-Leo's Communicator: <aac>No. Never. She never touched me there. Never. That is... Disgusting. No. She did not.</aac>
+<aac>No. Never. She never touched me there. Never. That is... Disgusting. No. She did not.</aac>
 
 The agents and the prosecutor in the next room exchanged a look. His flinch wasn't a memory of trauma; it was a reaction of pure horror to the *concept*. He wasn't reliving an act; he was repulsed by the suggestion of it. They had their answer.
 
-Ms. Sharma: "Okay, Leo. Thank you for being so clear with us. We understand. We won't ask you about that again."
+"Okay, Leo," Ms. Sharma said, her voice warm and reassuring. "Thank you for being so clear with us. We understand. We won't ask you about that again."
 
 The interview lasted for over an hour. It was emotionally exhausting for Leo, but he had done it. He had told his story, on his own terms, in a safe space, surrounded by his fortress. His recorded testimony was now a permanent, powerful part of the official record. It confirmed Delores’s one truthful statement, but more importantly, it provided prosecutors with a firsthand, unshakable account of the kidnapping, abuse, and the specific acts of sexual battery. The detail about the creaky bed would later corroborate Carol's own testimony that while she heard a brief struggle, she heard nothing to indicate a prolonged sexual encounter, further solidifying the timeline of events and the precise nature of Delores's crimes.
 
@@ -13419,7 +13429,7 @@ The interview lasted for over an hour. It was emotionally exhausting for Leo, bu
 
 A few days later, the four of them were at the Cardinal Foods on Kempsville Road for their weekly grocery run. The store was moderately busy, a typical pre-holiday afternoon. As they moved through the aisles, Leo, now using his new Quantum Communicator, was happily discussing the menu for the upcoming Réveillon with Olivia.
 
-"WHAT ABOUT THE MEAT PIE? TOURTIÈRE? CAN WE GET THAT HERE?" his new voice asked.
+<aac>What about the meat pie? Tourtière? Can we get that here?</aac> his new voice asked.
 
 "That, we can make!" Olivia said cheerfully. "It's mostly ground pork, onions, and spices. We can get everything for it today. Same for the *bûche de Noël*."
 
@@ -14303,7 +14313,7 @@ The warm, satisfied glow from their celebratory lunch settled over the house as 
 
 With a dramatic flourish, she retrieved her flute case, gave her family a look that was equal parts loving and threatening, and disappeared into her bedroom, shutting the door firmly behind her. A few moments later, the faint, ethereal sound of scales began to drift from under her door, the precursor to a melody no one else was yet allowed to hear.
 
-In the living room, the remaining members of the fortress settled onto the sofa. The day's excitement had ebbed, leaving a comfortable quiet in its wake. "Well," Olivia said with a soft smile, "I guess that leaves us to our own devices." She looked at Stella, then at Leo, her expression playful. "<aac>Alors, on continue notre leçon?</aac>" (So, shall we continue our lesson?)
+In the living room, the remaining members of the fortress settled onto the sofa. The day's excitement had ebbed, leaving a comfortable quiet in its wake. "Well," Olivia said with a soft smile, "I guess that leaves us to our own devices." She looked at Stella, then at Leo, her expression playful. "*Alors, on continue notre leçon?*" (So, shall we continue our lesson?)
 
 Stella grinned. "But of course. We must be prepared."
 
@@ -14311,7 +14321,7 @@ For the next hour, Olivia led them through more conversational Québécois Frenc
 
 Leo, using his Quantum Communicator, was an enthusiastic participant. The stilted, American-accented pronunciation of the French words no longer felt like a bug, but a feature—his unique voice in this new language. He was now able to string together entire phrases, asking questions and making jokes, his timing impeccable.
 
-Leo's Communicator: "*Ma blonde, je t'aime plus que la poutine.*" (My girlfriend, I love you more than poutine.)
+<aac>Ma blonde, je t'aime plus que la poutine,</aac> Leo's communicator declared—*My girlfriend, I love you more than poutine.*
 
 Olivia let out a peal of delighted laughter, leaning over to kiss him on the cheek. "That's a very serious declaration, *mon chum*," she said, her eyes sparkling.
 
@@ -15639,33 +15649,28 @@ Leo looked at the window, where the wind was screaming. Then he looked at the wa
 
 They took the elevator down to the Concourse Level. They bypassed the station ticket hall and found the doors Ashlee had described.
 
-THE BULL RUN
-
-Pedestrian & Accessibility Network
-
-Sector: North Campus
+> THE BULL RUN<br>
+> Pedestrian & Accessibility Network<br>
+> Sector: North Campus
 
 They pushed through.
 
-It wasn't a utility tunnel. It was a wide, brightly lit corridor with polished terrazzo floors (perfect for Leo’s wheels). The walls were painted in wayfinding colors. HVAC vents hummed, keeping the air a steady 70 degrees.
+It wasn't a utility tunnel. It was a wide, brightly lit corridor with polished terrazzo floors, smooth and effortless under Leo’s wheels. The walls were painted in clean wayfinding bands while overhead HVAC vents hummed, keeping the air at a steady seventy degrees.
 
 "Look at the signs," Luna pointed.
 
-The corridors were named like streets.
+Overhead placards named the underground arteries like city streets:
 
-- *↑ ACADEMIC AVENUE* (To Library & Engineering)
-
-- *→ ARTS ALLEY* (To Conservatory & Theater)
-
-- *← THE STAMPEDE* (To Student Union & Dorms)
+> ↑ *ACADEMIC AVENUE* — To Library & Engineering<br>
+> → *ARTS ALLEY* — To Conservatory & Theater<br>
+> ← *THE STAMPEDE* — To Student Union & Dorms
 
 They turned right onto Arts Alley. The walls here were lined with acoustic tiles and framed posters of past concerts.
 
-They passed a massive set of glass doors on their left. Inside, they saw rows of ergonomic chairs, where students could be seen studying probably, during the semester.
+They passed a massive set of glass doors on their left. Beyond the glass stood rows of empty ergonomic chairs waiting for the students who would pack the room once the spring semester began.
 
-THE CENTENNIAL LIBRARY
-
-24/7 Study Commons - Level B1
+> THE CENTENNIAL LIBRARY<br>
+> 24/7 Study Commons — Level B1
 
 "It's a city," Eleanor marveled, her cane tapping rhythmically on the floor. "They built a whole city under the snow."
 
@@ -15681,17 +15686,12 @@ He tapped his screen.
 
 <aac>Logic wins.</aac>
 
-09:45 AM
+By nine forty-five, they reached the end of Arts Alley at the lower level of the Fine Arts Center, where a bank of brushed-steel elevator doors awaited them.
 
-The Fine Arts Center - Lower Level
+> FINE ARTS CENTER<br>
+> Lobby / Recital Hall / Dean's Office
 
-They reached the end of Arts Alley. A set of elevator doors awaited them.
-
-FINE ARTS CENTER
-
-Lobby / Recital Hall / Dean's Office
-
-They rode up to the 4th Floor.
+They rode up to the fourth floor.
 
 When the doors opened, they were in a sun-drenched (or, today, snow-blinded) atrium. Through the glass walls, they could see the blizzard raging outside. The trees were bent double. The sidewalks were buried under two feet of drift.
 
@@ -15895,39 +15895,36 @@ The train was cutting through the whiteout of the blizzard. Inside the warm, bi-
 
 Leo sat in his manual chair, his laptop open. He was still riding the high of the audition, but his analytical brain was snagged on Luna’s comment about King's College.
 
-They probably don't even have a B-footjoint.
+*They probably don't even have a B-footjoint.*
 
-Leo pulled up the King's College website. He navigated to "Student Life" -\> "Arts" -\> "Music."
+Leo pulled up the King's College website and clicked through Student Life and Arts until he landed on the Music page.
 
-He read the page. He frowned. He tapped his screen to wake Olivia.
+He read the screen, frowned, and tapped his display to get Olivia's attention.
 
 <aac>Look,</aac> he typed.
 
 Olivia leaned over. "What is it?"
 
-Leo pointed to the course catalog for King's Music Department.
+Leo pointed to the online course catalog for the King's Music Department:
 
-MUS 101: The History of the Harpsichord
+> MUS 101: The History of the Harpsichord<br>
+> MUS 202: Opera for Patrons<br>
+> MUS 300: The Art of Listening
 
-MUS 202: Opera for Patrons
+There were no performance classes, no harmony or theory sequence, and no ear training. Below the catalog sat a banner photo of the Royal Chamber Society showing five students posing with violins; their posture was dreadful, and one boy was gripping his bow like a baseball bat.
 
-MUS 300: The Art of Listening
+Leo scrolled down to the department's equipment inventory:
 
-There were no performance classes. No theory. No ear training.
-
-Then he found the photo of the "Royal Chamber Society." It showed five students holding violins. Their posture was terrible. One was holding the bow like a baseball bat.
-
-Leo scrolled down to the "Equipment List" for the department.
-
-1 Concert Grand (Donor Lounge - Locked).
-
-1 Harpsichord (Decorative).
+> 1 Concert Grand (Donor Lounge — Locked)<br>
+> 1 Harpsichord (Decorative)
 
 <aac>No flutes,</aac> Leo typed. <aac>Zero.</aac>
 
 "Luna was right," Olivia whispered, trying not to laugh. "They don't have a B-foot. They don't even have a flute."
 
-Leo did a quick search for "King's College Graduation Music." He found a forum post from a BSU student: \> "Just got hired to play the King's commencement again. Easy \$200. They make us wear robes so we look like students."
+Leo ran a quick search for King's College graduation music and turned up a forum post from a Braxton State student:
+
+> Just got hired to play the King's commencement again. Easy $200. They make us wear robes so we look like students.
 
 Leo smirked. He looked at Luna, sleeping with her Orpheus 680—a solid silver weapon of mass percussion—clutched in her arms.
 
@@ -16013,7 +16010,9 @@ The Fortress froze.
 
 Leo looked at the digital display board.
 
-SOUTH SHORE LINE - INBOUND - 12:45 PM STATUS: LAST TRAIN SUBSEQUENT TRAINS: CANCELLED
+> SOUTH SHORE LINE — INBOUND — 12:45 PM<br>
+> STATUS: LAST TRAIN<br>
+> SUBSEQUENT TRAINS: CANCELLED
 
 "We cut it close," Luna breathed, her face red from the wind.
 
@@ -16037,13 +16036,7 @@ The train hissed to a halt. The doors slid open.
 
 They rolled into the warm, bright car. They collapsed into their seats.
 
-As the doors sealed shut and the train began to move, accelerating away from the freezing suburbs, Leo watched the station disappear into the white void.
-
-He knew two things for certain:
-
-They had found their home.
-
-They were on the last lifeboat back to the warmth of the hotel.
+As the doors sealed shut and the train began to move, accelerating away from the freezing suburbs, Leo watched the station disappear into the white void. Two truths were settled beyond doubt: they had found their home, and they had caught the last lifeboat back to the warmth of the hotel.
 
 The train picked up speed, racing the storm back to the city.
 
@@ -16094,7 +16087,9 @@ They stepped out onto the island platform. It was eerie. Usually, this platform 
 
 Leo rolled to the edge. He looked at the overhead display.
 
-BLUE LINE - WEST END - 18 MIN RED LINE - STADIUM/ARMORY - 14 MIN SERVICE ALERT: SURFACE STATIONS SUSPENDED
+> BLUE LINE — WEST END — 18 MIN<br>
+> RED LINE — STADIUM/ARMORY — 14 MIN<br>
+> SERVICE ALERT: SURFACE STATIONS SUSPENDED
 
 "It's shrinking," Luna whispered, her voice echoing. "The whole map just got cut in half."
 
@@ -16104,17 +16099,7 @@ A chime sounded—not the cheerful arrival chime, but a slower, solitary note.
 
 From the dark tunnel to the west, twin headlights appeared. A Blue Line train glided in. It wasn't moving at its usual aggressive speed; it was crawling, sensing for power fluctuations.
 
-The doors hissed open.
-
-Only three people got off.
-
-1.  A nurse in scrubs (heading to the University Hospital).
-
-2.  A police officer with snow on his boots.
-
-3.  A BTA track inspector carrying a heavy flashlight.
-
-They nodded to each other—a silent brotherhood of the essential.
+The doors hissed open, and only three passengers stepped onto the platform: a nurse in scrubs bound for the University Hospital, a police officer with crusted snow clinging to his boots, and a BTA track inspector carrying a heavy-duty flashlight. They nodded to one another in passing—a silent brotherhood of the essential.
 
 Leo looked into the train car. It was warm. The lights were on. The digital map on the wall showed the stops. The lights for Fairview and Suburbia were dark. Only the Underground lights were glowing.
 
@@ -16152,9 +16137,9 @@ Stella sat at the desk, her phone in front of her. A notepad was open.
 
 Arthur Bennett sat in the armchair next to her. He wasn't napping. He was in "Deal Mode." The old car dealer energy was back.
 
-"Remember, Stella," Arthur said, his voice low and precise. "In a market like this, speed is worth more than money. The developers are offering \$335,000, but that’s paper money. It’s contingent on loans, zoning variances, and soil tests. It takes three months to close. You are offering Cash and Certainty."
+"Remember, Stella," Arthur said, his voice low and precise. "In a market like this, speed is worth more than money. The developers are offering $335,000, but that’s paper money. It’s contingent on loans, zoning variances, and soil tests. It takes three months to close. You are offering Cash and Certainty."
 
-"I'm offering \$400,000," Stella said. "That's \$75,000 over asking."
+"I'm offering $400,000," Stella said. "That's $75,000 over asking."
 
 "That's the knockout punch," Arthur nodded. "You tell her you want it off the market *today*. You don't want a bidding war. You want a contract."
 
@@ -16180,7 +16165,7 @@ Stella smiled at Arthur, who gave her a thumbs-up.
 
 "It's a good lot," Barbara agreed. "But these developers..."
 
-"Developers need banks," Stella cut in. "I don't. The list price is \$325,000. I am offerin' \$400,000."
+"Developers need banks," Stella cut in. "I don't. The list price is $325,000. I am offerin' $400,000."
 
 She let the number hang in the air.
 
@@ -16208,7 +16193,7 @@ Stella hung up. She let out a long breath.
 
 Arthur slapped his knee. "That's how you close a deal! Cash is king, but reputation is the crown."
 
-Leo rolled over to Stella. He looked at the notepad where she had written \$400,000. It was a lot of money. But then he looked out the window at the snow-covered plaza, remembering the smooth, flat sidewalk in Iron Point that led straight to the train.
+Leo rolled over to Stella. He looked at the notepad where she had written $400,000. It was a lot of money. But then he looked out the window at the snow-covered plaza, remembering the smooth, flat sidewalk in Iron Point that led straight to the train.
 
 He tapped his Quantum Communicator.
 
@@ -16258,17 +16243,13 @@ She handed the sheet to Arthur. "Read the names, Grandpa."
 
 Arthur put on his reading glasses. He squinted at the fax.
 
-GRANTEES:
-
-1.  *STELLA MARIE PORTER*, a single woman, as to a 25% undivided interest;
-
-2.  *OLIVIA WALKER PORTER*, a single woman, as to a 25% undivided interest;
-
-3.  *LUNA ELEANOR PORTER*, an unmarried individual, by and through her Co-Conservators, Stella Marie Porter and Olivia Walker Porter, acting Jointly and Severally, as to a 25% undivided interest;
-
-4.  *LEO ARTHUR PORTER*, an unmarried individual, by and through his Co-Conservators, Stella Marie Porter and Olivia Walker Porter, acting Jointly and Severally, as to a 25% undivided interest.
-
-FORM OF OWNERSHIP: Joint Tenants with Rights of Survivorship.
+> **GRANTEES:**<br>
+> 1. *STELLA MARIE PORTER*, a single woman, as to a 25% undivided interest;<br>
+> 2. *OLIVIA WALKER PORTER*, a single woman, as to a 25% undivided interest;<br>
+> 3. *LUNA ELEANOR PORTER*, an unmarried individual, by and through her Co-Conservators, Stella Marie Porter and Olivia Walker Porter, acting Jointly and Severally, as to a 25% undivided interest;<br>
+> 4. *LEO ARTHUR PORTER*, an unmarried individual, by and through his Co-Conservators, Stella Marie Porter and Olivia Walker Porter, acting Jointly and Severally, as to a 25% undivided interest.<br>
+> <br>
+> **FORM OF OWNERSHIP:** Joint Tenants with Rights of Survivorship.
 
 Arthur went still. He stared at the line: Leo Arthur Porter.
 
@@ -16922,7 +16903,7 @@ Leo rolled to the window and looked out at the street of Iron Point. It was no l
 
 #### 10:00 AM — The Final Look
 
-The Recon Mission was over. The Fortress stood on the platform, waiting for the southbound **ARTS *The Patriot*** to take them back to Virginia.
+The Recon Mission was over. The Fortress stood on the platform, waiting for the southbound ARTS *The Patriot* to take them back to Virginia.
 
 Arthur leaned heavily on his cane. He was exhausted. The color had drained from his face, leaving his skin looking like parchment. But his eyes were bright.
 
@@ -16955,20 +16936,16 @@ He slid the heavy, crisp document across the counter to Mrs. Higgins, the County
 Mrs. Higgins adjusted her glasses. She read the ownership block. Her eyebrows went up.
 
 
-BOOK 402, PAGE 88
-
-GRANTOR: THE ESTATE OF ELIAS THORNE, SR.
-
-GRANTEES (The Owners):
-
-1.  *STELLA MARIE PORTER*, an unmarried woman, as to a 25% undivided interest;
-2.  *OLIVIA WALKER PORTER*, an unmarried woman, as to a 25% undivided interest;
-3.  *LUNA ELEANOR PORTER*, an unmarried individual, by and through her Co-Conservators, Stella Marie Porter and Olivia Walker Porter, pursuant to Iron Point Probate Court Order \#2006-GC-001, as to a 25% undivided interest;
-4.  *LEO ARTHUR PORTER*, an unmarried individual, by and through his Co-Conservators, Stella Marie Porter and Olivia Walker Porter, pursuant to Iron Point Probate Court Order \#2006-GC-002, as to a 25% undivided interest.
-
-TENANCY: Joint Tenants with Rights of Survivorship.
-
-**RESTRICTIONS AND ENCUMBRANCES: *NOTICE IS HEREBY GIVEN that the interests of LUNA ELEANOR PORTER and LEO ARTHUR PORTER are subject to the exclusive jurisdiction of the PROBATE COURT OF THE TOWN OF IRON POINT. No alienation, mortgage, transfer, or encumbrance of this property shall be valid without a specific Order of the Court authorizing such action in the best interest of the Protected Persons.***
+> **BOOK 402, PAGE 88**<br>
+> **GRANTOR:** THE ESTATE OF ELIAS THORNE, SR.<br>
+> **GRANTEES (The Owners):**<br>
+> 1. *STELLA MARIE PORTER*, an unmarried woman, as to a 25% undivided interest;<br>
+> 2. *OLIVIA WALKER PORTER*, an unmarried woman, as to a 25% undivided interest;<br>
+> 3. *LUNA ELEANOR PORTER*, an unmarried individual, by and through her Co-Conservators, Stella Marie Porter and Olivia Walker Porter, pursuant to Iron Point Probate Court Order #2006-GC-001, as to a 25% undivided interest;<br>
+> 4. *LEO ARTHUR PORTER*, an unmarried individual, by and through his Co-Conservators, Stella Marie Porter and Olivia Walker Porter, pursuant to Iron Point Probate Court Order #2006-GC-002, as to a 25% undivided interest.<br>
+> <br>
+> **TENANCY:** Joint Tenants with Rights of Survivorship.<br>
+> **RESTRICTIONS AND ENCUMBRANCES:** *NOTICE IS HEREBY GIVEN that the interests of LUNA ELEANOR PORTER and LEO ARTHUR PORTER are subject to the exclusive jurisdiction of the PROBATE COURT OF THE TOWN OF IRON POINT. No alienation, mortgage, transfer, or encumbrance of this property shall be valid without a specific Order of the Court authorizing such action in the best interest of the Protected Persons.*
 
 "That's a specific setup," she noted. "Four owners? And two conservatorships? We haven't seen one like this since the Hazard estate."
 
@@ -16982,7 +16959,9 @@ KA-CHUNK.
 
 The stamp hit the paper in purple ink.
 
-IRON POINT REGISTRY OF DEEDS RECORDED: JAN 09 2006 @ 11:47 AM BOOK: 402 PAGE: 88 STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS
+> **IRON POINT REGISTRY OF DEEDS**<br>
+> **RECORDED:** JAN 09 2006 @ 11:47 AM — BOOK 402, PAGE 88<br>
+> **STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS**
 
 "It's done," Mrs. Higgins said. "It's public record. Congratulations, Ms. Porter. You own the dirt."
 
@@ -17208,7 +17187,7 @@ They walked out of the studio, carrying their patriarch into the winter sun, rea
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
-The Fortress stood on the platform, waiting for **ARTS *The Patriot* 95**—the southbound train to Newport News.
+The Fortress stood on the platform, waiting for ARTS *The Patriot* 95—the southbound train to Newport News.
 
 They looked different than they had when they arrived a week ago. They were tired, grieving, and dressed in black. But they also looked stronger. They stood a little straighter. They weren't just visitors anymore; they were residents returning to the old country to settle affairs.
 
@@ -17230,21 +17209,7 @@ She sat down. Olivia sat next to her. Leo parked his manual chair in the open ba
 
 There was one empty seat left at the table—the one next to Luna.
 
-Stella reached into her bag. She pulled out a packet of paper tickets. (They didn't have the Bull Pass yet; they were still civilians paying full fare).
-
-She placed six tickets on the table.
-
-1.  Stella
-
-2.  Luna
-
-3.  Leo (Accessible Space)
-
-4.  Olivia
-
-5.  Eleanor (seated across the aisle)
-
-6.  Arthur
+Stella reached into her bag and pulled out a packet of paper tickets; without student Bull Passes yet, they were still civilians paying full fare. She laid six tickets neatly across the tabletop—one each for herself, Luna, Olivia, Leo's accessible bay, and Eleanor seated across the aisle, plus a sixth ticket placed directly in front of Arthur's urn.
 
 The conductor came by to scan them. He took the tickets, punching them one by one.
 
@@ -17333,7 +17298,7 @@ She slid two documents across the table to Leo and Luna.
 
 Leo looked at the document. It was heavy legal paper.
 
-I, LEO ARTHUR PORTER, hereby declare my intent to establish permanent domicile in the Town of Iron Point, State of Rhode Island...
+> *I, LEO ARTHUR PORTER, hereby declare my intent to establish permanent domicile in the Town of Iron Point, State of Rhode Island...*
 
 He looked at Stella. He thought about the house with the APS Wall and the sidewalk to the train station.
 
@@ -17341,13 +17306,7 @@ He reached for the pen. He couldn't write well due to his CP, but he could make 
 
 Luna signed hers with a flourish.
 
-"Excellent," Sarah said, notarizing them immediately. "Here is the timeline:"
-
-1.  Provisional Order (Virginia): "I go to court here next week. I show the judge these affidavits and the deed to the Iron Point house. The judge issues an order saying, 'Okay, you can go, pending acceptance from Rhode Island.'"
-
-2.  Provisional Acceptance (Rhode Island): "You take that Virginia order to the Iron Point Probate Court. You file it with the Town Clerk (Mrs. Higgins). The Rhode Island judge issues an order accepting you."
-
-3.  Final Order (Virginia): "I file the RI acceptance here. Virginia closes the file. Permanently."
+"Excellent," Sarah said, stamping her notary seal onto both pages before laying out the sequence ahead of them. "Next week, I'll take these affidavits and the recorded Iron Point deed into court here in Virginia to secure a provisional transfer order—the judge's formal clearance for you to leave, pending Rhode Island's sign-off. Once you arrive in Iron Point, you'll bring that Virginia order to the Probate Court and file it with Mrs. Higgins, the town clerk, so the Rhode Island judge can issue a provisional acceptance. As soon as you send that acceptance back down to me, I file it here for the final order, and Virginia closes your case permanently."
 
 "And then we're done with Virginia?" Olivia asked. "No more looking over our shoulders?"
 
@@ -17383,7 +17342,7 @@ Luna, Leo, and Olivia were at the table, too. Leo had his MagnaByte Scribe out, 
 
 "Okay," Stella said, uncapping her pen. "Grandpa did his part. He secured the future. Now we have to handle the present. We have six months to dismantle two lifetimes in Virginia and move them six hundred miles north."
 
-She wrote a large \#1 on the pad.
+She wrote a large #1 on the pad.
 
 "Academics. We are scheduled to start the Spring semester at CCHR on Monday. But if we do that, we are tied here until May. We’ll be writing term papers while trying to pack boxes."
 
@@ -17397,7 +17356,7 @@ He typed on his Scribe.
 
 "Done," Stella said, drawing a line through the semester. "I'll go to the Registrar today. We are officially on a 'Gap Semester.' Our full-time job is The Move."
 
-She wrote \#2.
+She wrote #2 down the margin.
 
 "The Legal Transfer. This is the big one. We have to move the Guardianship and Conservatorship."
 
@@ -17409,7 +17368,7 @@ She opened the file Sarah Jenkins had prepared.
 
 "Exactly," Stella said. "Mrs. Higgins at the Town Hall will handle the paperwork. We’ll need to go up there to appear before the judge eventually, but for now, Sarah handles the Virginia exit."
 
-She wrote \#3.
+She jotted a #3 beneath it.
 
 "Real Estate. Two houses to sell."
 
@@ -17417,7 +17376,7 @@ She wrote \#3.
 
 "And this place," Stella said, looking around the living room. "My name is on the deed. I can sell it whenever we're ready. I say we list it in April. That gives us time to pack without living in a showroom."
 
-Finally, she wrote \#4.
+Finally, she wrote #4.
 
 "The Fleet."
 
@@ -17580,7 +17539,7 @@ It wasn't the luxury of the University Inn in Braxton, but it was clean, accessi
 
 Stella gathered the team in the room. She pulled out the CVTA (Coastal Virginia Transit Authority) bus schedule.
 
-"Okay," Stella said. "Logistics for tomorrow. The **ARTS *The Patriot*** train leaves NPN at 6:00 AM. NPN is at Lafayette Square."
+"Okay," Stella said. "Logistics for tomorrow. The ARTS *The Patriot* train leaves NPN at 6:00 AM. NPN is at Lafayette Square."
 
 "The rough part of town," Olivia noted.
 
@@ -17708,7 +17667,7 @@ Stella didn't even break stride. She patted her bag.
 They bypassed the miserable queue and walked around the side of the building to the platform gate.
 
 
-The silver **ARTS *The Patriot*** train was waiting on the tracks, its engine humming—a sleek, modern machine parked next to a relic of a station.
+The silver ARTS *The Patriot* train was waiting on the tracks, its engine humming—a sleek, modern machine parked next to a relic of a station.
 
 The conductor saw them coming. He spotted the wheelchair.
 
@@ -17729,21 +17688,9 @@ He rolled into the vestibule of the train. The air conditioning hit him instantl
 
 They moved into the Business Class car. It was empty; most of the people in the "Box" were still fighting to buy tickets.
 
-They found their spot at the rear of the car.
+They claimed the four-person conference table at the rear of the car. Stella and Luna settled onto the rear-facing bench while Leo transferred out of his manual chair and slid into the forward-facing window seat beside Olivia. He loved that spot—an AC outlet within easy reach, a broad tabletop for his Scribe, and Olivia tucked right against his side.
 
-The Conference Table (The Fortress):
-
-- Stella & Luna: Rear-facing bench.
-
-- Leo & Olivia: Forward-facing bench.
-
-Leo transferred out of his manual chair and slid into the window seat next to Olivia. He loved this seat. It had an outlet, a massive table for his Scribe, and Olivia right next to him.
-
-The Annex (Eleanor): Across the aisle was the Designated Accessible Seat—a single seat with a massive amount of legroom and a tie-down area.
-
-- The Stowage: Stella folded Leo’s titanium Aero Z chair. It collapsed into a neat, compact package. She stowed it securely in the tie-down space.
-
-- Eleanor: Sat in the seat next to the stowage area, keeping a watchful eye on the "wheels" and the urn (which she held in her lap for takeoff before placing it on the table).
+Across the aisle lay the designated accessible bay, with its open floor space and single companion seat. Stella folded Leo’s titanium Aero Z frame into a neat, compact package and strapped it securely into the tie-down zone, while Eleanor took the adjacent seat, cradling Arthur’s urn safely in her lap until the train pulled out and keeping a watchful eye on Leo’s wheels.
 
 "Everyone secure?" Stella asked, plugging in her laptop.
 
@@ -17767,7 +17714,7 @@ The train pulled out of the station, leaving the ARTS-Box, the humidity, and the
 
 **Date:** 2004-09-18 at 10:00 America/New_York
 
-The silver **ARTS *The Patriot*** train hissed to a halt. The conductor deployed the bridge plate.
+The silver ARTS *The Patriot* train hissed to a halt. The conductor deployed the bridge plate.
 
 *"Now arriving... Iron Point. Caution, gap."*
 
@@ -17796,13 +17743,7 @@ They arrived at the Grey Gull Inn. Mrs. O'Malley, the innkeeper (and wife of Tom
 
 They bypassed the main house stairs and followed the paved, lit path through the garden to the Carriage House.
 
-It was a detached, single-story cottage that used to be a stable. Now, it was a luxury suite.
-
-- The Door: Wide, with a zero-step entry.
-
-- The Layout: A large common room with a kitchenette and two bedrooms.
-
-- The Bathroom: Fully accessible, with a roll-in shower that rivaled the one in their new house.
+Once a nineteenth-century stable, the detached single-story cottage had been converted into a warm luxury suite. Its wide, zero-step doorway opened directly into a timbered common room with a kitchenette, two ground-floor bedrooms, and a spacious accessible bathroom whose roll-in shower rivaled the one waiting for them in their new house.
 
 "I stocked the fridge," Mrs. O'Malley said, opening the door. "Milk, juice, and I left a bottle of Autocrat on the counter. Figured you’d need a cabinet after that train ride."
 
@@ -17930,7 +17871,9 @@ Stella opened her laptop on the kitchenette table. She pulled up the Hercules Va
 
 The map loaded. A little truck icon blinked on the screen. It was hovering right over the New York City metropolitan area.
 
-*STATUS: DELAYED* *LOCATION: I-95 NORTH / CROSS BRONX EXPRESSWAY* *CURRENT SPEED: 4 MPH*
+> *STATUS: DELAYED*<br>
+> *LOCATION: I-95 NORTH / CROSS BRONX EXPRESSWAY*<br>
+> *CURRENT SPEED: 4 MPH*
 
 Stella groaned. "The Cross Bronx. Of course."
 
@@ -17976,7 +17919,7 @@ She handed a roll of blue painter’s tape to Olivia and a laser distance measur
 
 Leo grinned. He switched his MagnaByte Scribe to "CAD Mode."
 
-<aac>Grid activated,</aac> he typed. <aac><aac>Let's build the ghosts.</aac></aac>
+<aac>Grid activated,</aac> he typed. <aac>Let's build the ghosts.</aac>
 
 
 Before they started taping, Stella walked to the utility panel in the mudroom.
@@ -18321,17 +18264,9 @@ Leo lay flat on his back in the center of the mattress.
 
 Luna didn't lie next to him. She climbed onto the bed and lay directly on top of him, stomach-to-stomach.
 
-She settled her weight onto him completely. It wasn't just a hug; it was a structural lock.
+She settled her full weight onto him—not merely a hug, but a deliberate structural lock. Hooking her shins and ankles inside his legs to quiet the tremors in his hip, she wrapped her arms tightly around his torso while Leo locked his hands at the small of her back, her chest pressed squarely against his to match the rise and fall of his diaphragm weight for weight.
 
-- Legs: She hooked her legs inside his, their shins and ankles interlocking to ground his lower body and stop the tremors in his hip.
-
-- Arms: She wrapped her arms tightly around his torso, gripping his back. Leo wrapped his arms around her, locking his hands at the small of her back.
-
-- Torso: Her chest pressed against his, weight-for-weight, matching the rhythm of his diaphragm.
-
-But the most important part was their faces.
-
-Luna propped her chin on her hands (or just hovered slightly), looking directly down at him. Leo looked up.
+Most important of all, Luna propped her chin lightly on her stacked hands and looked straight down at him. Leo looked up.
 
 They were inches apart. Eye to eye.
 
@@ -18450,13 +18385,19 @@ Leo watched from the porch.
 
 She screwed a heavy, custom-cast bronze plaque into the stone pillar at the end of the driveway. It had been made by a local foundry in Oakhaven, the same one that made the town’s historical markers. It looked official, permanent, and intimidating.
 
-*PRIVATE PROPERTY* *THE PORTER TRUST* *No Trespassing - No Solicitation* *Violators Subject to Prosecution*
+> *PRIVATE PROPERTY*<br>
+> *THE PORTER TRUST*<br>
+> *No Trespassing — No Solicitation*<br>
+> *Violators Subject to Prosecution*
 
 "That's for the lawyers," Stella said, admiring the weight of it. "Now for the salesmen."
 
 She walked up the driveway to the front door. Right next to the doorbell, she mounted a smaller, high-contrast metal sign she had ordered from InfoLink Trade.
 
-NOTICE TO SOLICITORS: *This household charges \$50.00 per minute to listen to sales pitches, religious messages, or fundraising requests.* *THIS FEE IS PAYABLE IN ADVANCE.* *By knocking on this door or ringing this bell, you agree to these terms.*
+> NOTICE TO SOLICITORS:<br>
+> *This household charges $50.00 per minute to listen to sales pitches, religious messages, or fundraising requests.*<br>
+> *THIS FEE IS PAYABLE IN ADVANCE.*<br>
+> *By knocking on this door or ringing this bell, you agree to these terms.*
 
 Leo rolled up to read it. He grinned.
 
@@ -18468,15 +18409,7 @@ She patted the sign.
 
 "The Deed stops the developers. The Trust stops the lawsuits. The Wall stops the gaze. And this sign stops the guy trying to sell us windows."
 
-Leo looked at the layers of defense.
-
-1.  The Deed: Poison Pill (Probate Court).
-
-2.  The Trust: Corporate Shield.
-
-3.  The Wall: Visual Block.
-
-4.  The Sign: The Joke (but also a threat).
+Leo looked back down the driveway, tallying the concentric rings of defense in his head: the probate-court poison pill written into the deed, the corporate shield of the trust, the slate partition blocking every sightline through the front door, and now a fifty-dollar-a-minute warning bolted beside the bell—half joke, half genuine threat.
 
 <aac>Fortress complete,</aac> he typed.
 
@@ -18502,49 +18435,15 @@ Leo sat in his manual ApexLite Aero Z. He watched the screen. He tapped his Magn
 
 "Maximum access," Stella corrected. "We live in Zone 6, but the system ends at Zone 15. I want us to be able to ride all the way to Wickford Junction if we want to. No boundaries."
 
-She navigated the menu.
+She navigated the touchscreen menu, starting by ordering five blank LinkPass cards at $5.00 apiece. For $25.00, the kiosk whirred and spat out five crisp orange plastic cards stamped with the silver BTA emblem.
 
-Step 1: The Media She selected 5 New LinkPass Cards.
+Next, Stella tapped the first card against the reader and selected system-wide travel all the way out to Zone 15 at Wickford Junction, loading an adult thirty-day pass onto her own card for $585.00. Without hesitating, she repeated the exact load for Olivia’s and Luna’s cards, bringing the adult subtotal alone to $1,755.00. When she tapped Leo’s fourth card, she selected the Zone 15 thirty-day reduced disability fare, adding another $292.50 to the running tab.
 
-- Cost: \$5.00 each.
+Finally, she held the fifth card against the reader for Eleanor. "Grandma gets the VIP treatment," Stella said over her shoulder. "I don't want you worrying about reloading this."
 
-- Total: \$25.00. The machine spit out five crisp, orange plastic cards with the silver BTA logo.
+She selected the Zone 15 senior annual pass at $3,150.00—a massive upfront sum, though it meant Eleanor could board any BTA train, bus, or harbor ferry free and clear for the next three hundred and sixty-five days.
 
-Step 2: The Products She tapped the first card to the reader.
-
-- Destination Zone: Zone 15 (Wickford Junction - System Wide).
-
-- Type: 30-Day Pass (Adult).
-
-- Cost: \$585.00.
-
-- Action: Loaded onto Card 1 (Stella).
-
-She repeated the process for Card 2 (Olivia) and Card 3 (Luna).
-
-- Subtotal for the Adults: \$1,755.00.
-
-She tapped the fourth card (Leo’s).
-
-- Destination Zone: Zone 15.
-
-- Type: 30-Day Pass (Reduced Fare - Disability).
-
-- Cost: \$292.50.
-
-- Action: Loaded.
-
-Finally, she tapped the fifth card (Eleanor’s). "Grandma gets the VIP treatment," Stella said. "I don't want you worrying about reloading this."
-
-- Destination Zone: Zone 15.
-
-- Type: Yearly Pass (Reduced Fare - Senior 65+).
-
-- Cost: \$3,150.00.
-
-- *Note:* It was a massive upfront cost, but it meant Eleanor could ride any train, bus, or ferry for free for 365 days.
-
-The machine whirred. The grand total flashed on the screen: \$5,222.50.
+The machine whirred as the grand total flashed across the glass: $5,222.50.
 
 Luna’s eyes widened. "Stella... that's a used car."
 
@@ -18572,9 +18471,7 @@ They rode the BiLevel coach north. Leo watched the scenery change from the trees
 
 They bypassed Narraganset Esplanade (BSU). Today wasn't for school; it was for business.
 
-09:50 AM Braxton Central Terminal - Level 3 (Bus Wing)
-
-They descended from the Sky Deck to the Bus Terminal.
+At nine-fifty, they stepped off onto the Sky Deck at Braxton Central Terminal and rode the elevator down to the Level 3 bus wing.
 
 "Okay," Stella said, checking the route map. "Metro Mobility is on Main Street, about two miles west of here. The Metro doesn't run that way."
 
@@ -18642,7 +18539,7 @@ Leo spun the chair around. He drove up to the counter, still elevated.
 
 She reached into her wallet. She didn't pull out a debit card. She pulled out the black titanium credit card linked to the Bennett Trust.
 
-"The total is \$28,450," the salesman said, his voice shaking slightly.
+"The total is $28,450," the salesman said, his voice shaking slightly.
 
 Stella handed him the card. "Run it."
 
@@ -18667,7 +18564,7 @@ Olivia had to jog slightly to keep up.
 
 Leo looked at her. He looked at the bus stop ahead. He looked at the city.
 
-<aac>Maximum power,</aac> he typed. <aac><aac>Let's go catch the 4.</aac></aac>
+<aac>Maximum power,</aac> he typed. <aac>Let's go catch the 4.</aac>
 
 They headed for the bus stop, Leo leading the way in his new chariot, leaving the manual chair behind to be delivered by the staff. He didn't need it anymore. He had the power.
 
@@ -18790,15 +18687,7 @@ They opened the menus. Being in Rhode Island, the "Chowder Section" was serious 
 
 They ordered a sampler.
 
-When the food arrived, it was a feast of sustainable seafood.
-
-- Stella & Eleanor: Rhode Island Clear Chowder (The local choice).
-
-- Luna & Olivia: Fish and Chips (The comfort choice).
-
-- Arthur: A Lobster Roll (Because he could).
-
-- Leo: Clam Cakes and Chowder (Creamy).
+When the food arrived, the high-top table disappeared beneath a coastal feast: bowls of briny Rhode Island clear chowder for Stella and Eleanor, platters of crisp fish and chips for Luna and Olivia, a buttered lobster roll for Arthur, and a basket of golden clam cakes paired with a bowl of thick, creamy chowder for Leo.
 
 Leo took a bite of a clam cake—a ball of deep-fried dough packed with chopped clams. He dipped it into the creamy soup.
 
@@ -18863,7 +18752,8 @@ They rolled down the gangway onto the dock.
 
 Right next to their slip, a larger, sleeker ferry was boarding. The destination sign read:
 
-*F3 NEWPORT FLYER* *Next Departure: 2:00 PM*
+> *F3 NEWPORT FLYER*<br>
+> *Next Departure: 2:00 PM*
 
 Leo stopped. He looked at the sign. He looked at the map. Newport was only a 30-minute ride across the bay. He could see the bridge in the distance.
 
@@ -18985,17 +18875,13 @@ Standing on the porch was a Census Worker—a well-meaning, middle-aged woman wi
 
 "Good afternoon," the woman chirped, trying to peer past Stella into the house. "I'm doing the supplementary census for Iron Point. Just need to verify the number of occupants."
 
-The woman craned her neck, looking into the foyer.
+The woman craned her neck, peering past Stella’s shoulder into the foyer.
 
-What she saw: A beautiful, 6-foot-high wall of grey fieldstone. A slate floor. A piece of abstract art hanging on the stone.
+All her eyes met was a six-foot partition of grey fieldstone rising from the slate floor, framed by a single piece of abstract canvas art. Because of that stone barrier, her sightline ended cold in the entryway; she could not see into the living room, could not see a twenty-one-year-old disabled man resting atop his twin sister on the sectional, and could not see their unrelated female co-guardian rubbing the tension from his neck.
 
-What she DIDN'T see (because of the wall): She did not see the living room. She did not see a 21-year-old disabled man lying on top of his twin sister. She did not see their non-related female co-guardian rubbing his neck.
+Without that wall, the census worker would have stared straight at the sofa. Her mandatory-reporter training would have kicked in on instinct, mistaking deep-pressure grounding for abuse and a protective sister for a negligent guardian, sending her back down the walkway to call the police from her car.
 
-If the wall hadn't been there, the Census Worker would have had a direct line of sight to the sofa.
-
-The Hypothetical Disaster: If she *had* seen them, her mandatory reporter training would have kicked in. She wouldn't have seen "Grounding." She would have seen "Abuse." She would have seen a guardian failing to protect a ward. She would have walked back to her car and called the police.
-
-The Reality: "Four occupants," Stella said calmly, standing in the gap. "Myself, my sister, my brother, and another adult female."
+Instead, Stella stood calmly in the gap between the doorjamb and the stone. "Four occupants," she said evenly. "Myself, my sister, my brother, and another adult female."
 
 "And are there any children?"
 
@@ -19194,13 +19080,7 @@ The Department of Motor Vehicles in Oakhaven was a low brick building next to th
 
 The Fortress took up a row of plastic chairs. They weren't just there for a renewal; they were there for a total identity change.
 
-Stella held a thick accordion folder labeled *RESIDENCY EVIDENCE*. Inside were the "Holy Trinity" of documents required by the State of Rhode Island:
-
-1.  The Deed (Book 402, Page 88).
-
-2.  Utility Bills (MagnaNet, Water, Gas) in Stella’s name.
-
-3.  Social Security Cards & Birth Certificates.
+Stella held a thick accordion folder labeled *RESIDENCY EVIDENCE*. Inside lay the triad of proof demanded by the State of Rhode Island: the recorded warranty deed from Book 402, Page 88; fresh MagnaNet, water, and gas utility bills in Stella’s name; and everyone’s Social Security cards and birth certificates.
 
 "Number 42," the automated voice droned.
 
@@ -19214,7 +19094,7 @@ Leo rolled up to the camera. He hit the ELEVATE button on his Titan X-Treme, rai
 
 *FLASH.*
 
-The Sentinel Finally, the car. Stella handed over the Virginia title for the 2001 Holt Sentinel. The clerk handed her a set of fresh, metal plates. They featured the famous Rhode Island Wave design.
+Finally came the car. Stella handed over the Virginia title for the 2001 Holt Sentinel. The clerk handed her a set of fresh, metal plates. They featured the famous Rhode Island Wave design.
 
 "Here you go," the clerk said. "Anchor plates."
 
@@ -19247,11 +19127,7 @@ Stella led the Fortress to the registration desk.
 
 She looked at the course catalog on the counter. She expected to see a list of generic sections taught by professors who pronounced "Le Week-end" with a flat accent.
 
-Instead, under the French heading, she saw two distinct columns:
-
-1.  FR-M (Metropolitan / Continental)
-
-2.  FR-Q (North American / Québécois)
+Instead, under the French heading, the curriculum split into two distinct columns: FR-M for Metropolitan Continental French, and FR-Q for North American Québécois.
 
 Olivia grabbed the catalog. Her eyes went wide. She traced the line item: FR-Q 101: Introduction to Québec French & Culture.
 
@@ -19283,15 +19159,7 @@ A huge, genuine grin broke across his face. He abandoned English instantly.
 
 *"Le monde est petit,"* Dr. Gagnon laughed. (Small world.)
 
-He looked down at the paperwork Stella was holding. Sticking out of the folder were Olivia’s travel documents.
-
-He saw the stack:
-
-1.  The dark blue United States of America passport.
-
-2.  The royal blue Canada passport.
-
-3.  And clipped to the front, a sleek, laminated NEXUS Card.
+He looked down at the paperwork Stella was holding. Sticking out of the folder were Olivia’s travel documents—a dark blue United States passport, a royal blue Canadian passport, and, clipped to the front, a sleek, laminated NEXUS card.
 
 *"Attends une minute,"* Dr. Gagnon said, pointing to the royal blue passport and the NEXUS card. *"Tu es déjà citoyenne. Tu as tes papiers."* (Wait a minute. You're already a citizen. You have your papers.)
 
@@ -19359,19 +19227,14 @@ Dean Elise Sterling was waiting for them. She looked exactly as she had in the w
 
 She handed Luna a schedule printed on heavy cream paper.
 
-LUNA ELEANOR PORTER - Freshman
-
-- Ensemble: Wind Symphony (Top Tier).
-
-- Chair: Principal Flute (Pending Seating Audition).
-
-- Private Instruction: Dr. Sterling (Thursdays, 11:00 AM).
+> LUNA ELEANOR PORTER — Freshman<br>
+> Ensemble: Wind Symphony (Top Tier)<br>
+> Chair: Principal Flute (Pending Seating Audition)<br>
+> Private Instruction: Dr. Sterling (Thursdays, 11:00 AM)
 
 "Wind Symphony meets Mondays, Wednesdays, and Fridays from 4:00 PM to 6:00 PM," Sterling explained. "Does that conflict with any of your gen-eds?"
 
-Luna checked her new schedule.
-
-- FR-Q 101: Tuesdays/Thursdays, 2:00 PM – 3:30 PM.
+Luna checked her new registration sheet, where FR-Q 101 was penciled in for Tuesdays and Thursdays from two to three-thirty.
 
 "No conflicts," Luna said. "Our French class is on off-days."
 
@@ -19457,7 +19320,9 @@ They found Room 304 at the end of the Woodwind Corridor.
 
 It looked different from the other practice rooms. The door was a heavy, solid-core studio door with a drop seal at the bottom. Beside it, screwed into the wall, was the brass plaque Stella had commissioned.
 
-*RESERVED: PORTER ENSEMBLE* *Authorized Accompanist Only* *Funded by the Arthur Bennett Memorial Arts Grant*
+> *RESERVED: PORTER ENSEMBLE*<br>
+> *Authorized Accompanist Only*<br>
+> *Funded by the Arthur Bennett Memorial Arts Grant*
 
 "Nice sign," Luna said, running her fingers over the engraved letters.
 
@@ -19513,23 +19378,9 @@ They regrouped at The Foundry (the main dining hall in the Union) to compare not
 
 Stella spread the master schedule out on the table. It was a color-coded spreadsheet she had printed earlier, now covered in pen marks.
 
-"Okay," Stella said. "The anchors are set."
+"Okay," Stella said, tapping the printed sheet with her pen. "The anchors are set. Everybody is locked into FR-Q 101 on Tuesday and Thursday afternoons at two, and Luna has Wind Symphony every Monday, Wednesday, and Friday at four. Now we fill in the gaps. Leo, Engineering is next."
 
-- Universal Anchor: FR-Q 101 (Tues/Thurs 2:00 PM). *Mandatory for everyone.*
-
-- Luna’s Anchor: Wind Symphony (Mon/Wed/Fri 4:00 PM).
-
-"Now we fill in the gaps," Stella said. "Leo, Engineering is next."
-
-Leo: The Engineer Leo pulled up his laptop. He had already hacked his way into the registrar's live database (read-only access, mostly) to see which sections were open.
-
-He needed the "Freshman Engineering Block."
-
-- Introduction to Structural Analysis: Mon/Wed/Fri 10:00 AM.
-
-- Calculus III: Mon/Wed/Fri 1:00 PM.
-
-- Physics for Engineers (Lab): Tuesdays 9:00 AM - 12:00 PM.
+Leo pulled up his laptop, having already navigated into the registrar's live course availability feed to see which sections still had open seats. To clear the freshman engineering block cleanly, he slotted Introduction to Structural Analysis at ten on Mondays, Wednesdays, and Fridays, Calculus III at one on those same afternoons, and the three-hour Physics for Engineers lab on Tuesday mornings from nine until noon.
 
 He tapped his Quantum Communicator.
 
@@ -19539,19 +19390,19 @@ He tapped his Quantum Communicator.
 
 <aac>Or the machine shop,</aac> Leo corrected. <aac>I want to use the new cnc mills.</aac>
 
-Olivia: The Sociologist Olivia was next. She was transferring into the College of Arts & Sciences as a Junior (thanks to her credits from Virginia).
+Olivia went next, transferring into the College of Arts and Sciences as a junior on the strength of her Virginia credits.
 
 "I need Social Theory and Research Methods," Olivia said, circling options. "There's a section of Social Theory on M/W/F at 1:00 PM."
 
 "Same time as my Calculus," Leo noted.
 
-"Perfect," Olivia smiled. "We can roll to class together after lunch. And I found a Urban Sociology elective on Thursday mornings."
+"Perfect," Olivia smiled. "We can roll to class together after lunch. And I found an Urban Sociology elective on Thursday mornings."
 
 "That leaves you free during Luna's symphony rehearsals," Stella observed.
 
 "Designated 'Leo Time'," Olivia confirmed. "While she blows the flute, we build the robots."
 
-Stella: The Ghost Student Finally, Stella. She wasn't here to get a degree; she was here to get an ID card and maintain cover.
+Finally came Stella herself. She wasn't enrolling to chase another degree; she was enrolling to secure a valid student ID and maintain clean campus access.
 
 "I need six credits to be considered a 'Half-Time Graduate Student' for the Bull Pass," Stella said. "I'm taking Information Systems Management."
 
@@ -19563,17 +19414,7 @@ Stella: The Ghost Student Finally, Stella. She wasn't here to get a degree; she 
 
 "I'm working," Stella corrected. "I'll be in my office at the Fortress billing clients. But yes, I am free to act as 'Ground Control' if anyone needs a rescue."
 
-The Result They looked at the grid. It was a masterpiece of logistical engineering.
-
-- Mornings: Classes (Leo/Olivia/Luna).
-
-- Lunch: Together at The Foundry (12:00 PM).
-
-- Afternoons (T/Th): French Class (The Family Reunion).
-
-- Late Afternoons (M/W/F): Luna in Symphony; Leo/Olivia in Lab/Library.
-
-- Commute: They would all take the 5:00 PM or 6:30 PM train home together (depending on Luna's rehearsal).
+They looked down at the finished grid, a small masterpiece of logistical engineering. Leo, Olivia, and Luna would scatter to morning lectures, regroup together at The Foundry for lunch at noon, and sit side by side in Dr. Gagnon's French class every Tuesday and Thursday afternoon; on Mondays, Wednesdays, and Fridays, Leo and Olivia would work in the lab or library while Luna rehearsed with the Wind Symphony, before all four rode the five-o'clock or six-thirty train home to Iron Point together.
 
 Leo looked at the spreadsheet. It wasn't just a schedule; it was a battle plan. They weren't just attending college; they were occupying it.
 
@@ -19595,15 +19436,7 @@ Stella walked up to the window, flanked by the Fortress. She didn't look like a 
 
 "Checking in for Fall Semester," she said, sliding four new Bull Passes under the glass.
 
-The clerk picked them up, scanning the names. He frowned slightly, looking back and forth between the cards and the group.
-
-1.  Leo Arthur Porter
-
-2.  Luna Eleanor Porter
-
-3.  Olivia Walker Porter
-
-4.  Stella Marie Porter
+The clerk fanned the four plastic cards across his blotter—Leo Arthur Porter, Luna Eleanor Porter, Olivia Walker Porter, and Stella Marie Porter—frowning slightly as he glanced back and forth between the matching surnames and the group at the window.
 
 "Four Porters?" the clerk asked. "Siblings?"
 
@@ -19631,7 +19464,7 @@ She leaned in.
 
 The clerk typed, looking terrified. The printer whirred. He slid the invoice under the glass.
 
-TOTAL DUE: \$69,400.00 (Semester 1)
+> TOTAL DUE: $69,400.00 (Semester 1)
 
 Stella pulled out her checkbook. It was her new one, from the Rhode Island Coastal Credit Union.
 
@@ -19675,36 +19508,18 @@ Stella took point. She collected all four schedules.
 
 She waited in line for twenty minutes. When she finally reached the counter, she handed over the stack of papers.
 
-The runner, a frazzled Sophomore, looked at the combined load.
-
-- Freshman Engineering Block (Leo)
-
-- Conservatory Core (Luna)
-
-- Sociology/Urban Planning (Olivia)
-
-- Grad Business (Stella)
-
-- FR-Q 101 (Everyone)
+The runner, a frazzled sophomore, stared down at the combined load—Leo’s freshman engineering block, Luna’s conservatory core, Olivia’s sociology and urban planning sequence, Stella’s graduate business seminar, and four separate copies of the Québécois French text for FR-Q 101.
 
 "I'm gonna need a cart," the runner sighed.
 
-Ten minutes later, he returned. He slammed three massive stacks onto the counter.
-
-- Leo’s Stack: Huge. *Calculus III* (heavy), *Physics for Engineers* (heavier), and a *Structural Analysis* book that looked like a cinder block. Plus the French text.
-
-- Luna’s Stack: *Music Theory* (spiral bound but thick), *History of Western Music* (massive), and French.
-
-- Olivia’s Stack: *Social Theory*, *Urban Design*, *Research Methods*, and French.
-
-- Stella’s Stack: One slim paperback: *Advanced Information Systems*. And her French book.
+Ten minutes later, he returned and heaved the haul onto the counter in towering piles. Leo’s stack alone looked capable of cracking the laminate: a heavy *Calculus III* text, an even thicker *Physics for Engineers* volume, a *Structural Analysis* tome the size of a cinder block, and his French book. Beside it rose Luna’s thick spiral-bound *Music Theory* workbook, a massive *History of Western Music* anthology, and her French text; Olivia’s stack of *Social Theory*, *Urban Design*, *Research Methods*, and French; and, almost comically light at the end of the row, Stella’s lone slim paperback for *Advanced Information Systems* resting atop her French reader.
 
 Stella paid. The total was astronomical, but she didn't blink.
 
 
-They walked/rolled away from the register with heavy plastic bags digging into their hands.
+They walked and rolled away from the register with heavy plastic bags digging into their hands.
 
-"This is heavy," Luna groaned, shifting her bag to her other shoulder (away from her flute arm).
+"This is heavy," Luna groaned, shifting her bag to her other shoulder to spare her flute arm.
 
 Leo looked at his own bag. It weighed at least thirty pounds.
 
@@ -19718,7 +19533,7 @@ He stopped. He looked at the bag. He looked at the chair.
 
 "Here," Olivia said, taking the heavy bag from him. "I'll carry it. You just drive."
 
-Leo frowned. He hated being the one who couldn't carry his own weight. He was in a \$28,000 machine that could climb a curb, but it couldn't hold a book?
+Leo frowned. He hated being the one who couldn't carry his own weight. He was sitting in a $28,000 machine that could climb a curb, and it couldn't even hold a textbook?
 
 <aac>Inefficient,</aac> he typed. <aac>I am a tank without a trunk.</aac>
 
@@ -19772,15 +19587,7 @@ The South Shore Line train hissed to a halt. The doors slid open.
 
 They stepped off the train onto the high-level platform. The air in Iron Point was cooler than the city, smelling of low tide and pine trees.
 
-But the "Fortress" didn't look like a sleek military unit right now. They looked like refugees from a library fire.
-
-- Stella: Carrying her own bag plus the massive stack of Luna’s Music History books (which wouldn't fit in the gig bag).
-
-- Luna: Shouldering her flute case on one side and a canvas tote of French textbooks on the other, walking with a pronounced limp from the uneven weight.
-
-- Olivia: The heavy lifter. She was carrying Leo’s Engineering Stack—30 pounds of dense calculus and physics hardcovers—in a plastic bookstore bag that was stretching dangerously thin.
-
-- Leo: Sitting in his Titan X-Treme, his lap empty because the joystick needed clearance, feeling useless.
+Right now, the Fortress didn't look much like a sleek tactical unit; they looked like refugees fleeing a library fire. Stella hauled her own bag alongside Luna’s oversized Music History volumes, which refused to fit inside a gig bag; Luna slung her flute case over one shoulder and a canvas tote of French readers over the other, walking with a pronounced limp under the lopsided load; and Olivia acted as the heavy lifter, lugging thirty pounds of Leo’s dense calculus and physics hardcovers in a plastic bookstore bag that was stretching dangerously thin. Meanwhile, Leo rolled beside them in his Titan X-Treme with his lap completely empty to keep the joystick clear, feeling thoroughly useless.
 
 "The bus?" Luna asked, looking at the Route 200 bay.
 
@@ -19846,23 +19653,12 @@ Leo looked at his chair. It was a great machine, but it was incomplete. Tomorrow
 
 #### 7:00 AM — The Ferry and the Fortress
 
-The morning was perfect—bright, clear, and smelling of the sea. The Fortress stood on the platform, ready for their first cross-border expedition since moving in.
+The morning was perfect—bright, clear, and smelling of the sea. All five of them stood assembled on the Iron Point platform for their first cross-border expedition since moving in: Stella handling the cash and route timing, Olivia ready on transfers, Luna scouting ahead, Leo piloting his Titan X-Treme, and Eleanor eager to revisit her old hometown.
 
-The Team:
+Leo rolled up to the digital departure board and checked their options.
 
-- Stella: The General (Logistics/Cash).
-
-- Olivia: The Muscle (Transfers).
-
-- Luna: The Scout.
-
-- Leo: The Pilot (Titan X-Treme).
-
-- Eleanor: The Historian (Ready to see her old hometown).
-
-Leo rolled up to the digital departure board. He checked the options.
-
-ARTS COASTAL 94 (To Boston) - 10:45 AM BTA SOUTH SHORE (To Braxton) - 08:22 AM
+> ARTS COASTAL 94 (To Boston) — 10:45 AM<br>
+> BTA SOUTH SHORE (To Braxton) — 08:22 AM
 
 <aac>Timing mismatch,</aac> Leo typed on his Quantum Communicator. <aac>The silver train is later. the orange train is now.</aac>
 
@@ -19957,7 +19753,7 @@ He looked at his team. He trusted them.
 
 He tapped his screen.
 
-<aac>Protocol b,</aac> he typed. <aac><aac>The women's room.</aac></aac>
+<aac>Protocol B,</aac> he typed. <aac>The women's room.</aac>
 
 "Agreed," Stella said instantly. "It's cleaner, and we control the environment."
 
@@ -20104,7 +19900,8 @@ They rolled off the boat. They took the glass elevator up to Level 3 (The Sky Pl
 
 Leo checked the departure board.
 
-BTA SOUTH SHORE (Local) - 1:25 PM ARTS COASTAL 195 (Richmond) - 1:20 PM
+> BTA SOUTH SHORE (Local) — 1:25 PM<br>
+> ARTS COASTAL 195 (Richmond) — 1:20 PM
 
 The silver ARTS train was already gliding into the station on the express track.
 
@@ -20186,19 +19983,9 @@ Stella walked in from the kitchen with a clipboard.
 
 She handed a schedule to Olivia.
 
-"It starts at 8:30 AM at the Stadium," Stella said. "Then it breaks out into sessions."
+"It starts at 8:30 AM at the Stadium," Stella said. "Then it breaks out into hourly blocks."
 
-- 10:00 AM: Residential Life (Dorm Living).
-
-- 11:00 AM: Dining Services (Meal Plans).
-
-- 12:00 PM: Campus Safety (Blue Light Phones).
-
-- 01:00 PM: ID Card Processing (The Gym).
-
-- 02:00 PM: Textbook Acquisition (The Bookstore).
-
-Olivia scanned the list. She laughed softly.
+Olivia scanned down the printed itinerary—Residential Life on dorm living at ten, Dining Services on meal plans at eleven, Campus Safety and the blue-light phones at noon, ID card processing in the gym at one, and textbook pickup at the bookstore at two—and laughed softly.
 
 "We are going to be so bored," Olivia noted. "We don't live in dorms. We don't have meal plans. And..."
 
@@ -20378,7 +20165,7 @@ She turned off her lamp. She climbed into her bed—firm, comfortable, and owned
 
 Stella clicked *Send* on her final email.
 
-*INVOICE \#2006-84: SENT.*
+*INVOICE #2006-84: SENT.*
 
 She closed her laptop. She stretched, her spine popping. The web development business was booming. The Rhode Island market was hungry for good code, and she was charging premium rates.
 
@@ -20394,15 +20181,9 @@ They were in bed. But it wasn't just Leo and Olivia.
 
 Luna had migrated.
 
-The Queen bed was a tight squeeze for three adults, but they made it work like a puzzle.
+The queen mattress was a tight squeeze for three adults, yet they fit together like interlocking puzzle pieces: Leo lay in the middle as the anchor, Olivia slept on his left with one arm draped across his chest, and Luna curled into his right side with her head resting on his shoulder and her leg hooked gently over his knee to ground his restless hip.
 
-- Leo was in the middle, the anchor.
-
-- Olivia was on his left, her arm thrown over his chest.
-
-- Luna was on his right, curled into his side, her head resting on his shoulder, her leg hooked over his knee to ground his restless hip.
-
-They were asleep.
+All three were fast asleep.
 
 Stella watched them for a moment. Tomorrow was Orientation Day at the Stadium. It was going to be loud, chaotic, and overwhelming. They were charging their batteries the only way they knew how—through contact.
 
@@ -20621,11 +20402,9 @@ Stella claimed a corner carrel with a view of the ocean. She opened her laptop. 
 
 She opened her code editor. It was time to upgrade her business presence. Porter Web Solutions needed a new face—something that said "High-End Consultant," not "Freelancer."
 
-She typed the header code. \<title\>Porter Web Solutions \| Architecture for the Digital Age\</title\>
+She typed the page title into the header—*Porter Web Solutions | Architecture for the Digital Age*—and began laying out the grid. Clean lines. Greyscale with bold accent colors. Solid and reliable, just like the house in Iron Point.
 
-She began designing the layout. Clean lines. Grey scale with bold accent colors. Solid. Reliable. Just like the house in Iron Point.
-
-She paused to check her email. A client in Virginia had sent a panic message about a server crash. Stella fixed it in five minutes, billed them \$150, and went back to coding.
+She paused to check her email. A client in Virginia had sent a panic message about a server crash. Stella fixed it in five minutes, billed them $150, and went back to coding.
 
 She took a sip of coffee. The library was silent, efficient, and free. She was making money while sitting in a university she didn't technically attend (yet).
 
@@ -20798,13 +20577,9 @@ Leo rolled up to the table. But he wasn't alone.
 
 Flanking him were two girls in BSU Engineering hoodies.
 
-Stella stopped typing. Her "Guardian Bear" radar pinged instantly. She scanned them.
+Stella stopped typing. Her protective instincts pinged at once as she sized up both newcomers. The girl on Leo’s left wore her hair in a messy bun with shop safety glasses perched atop her head and a smudge of grease on her cheek—unmistakably mechanical engineering—while the girl on his right had sharp, attentive eyes and a cardboard tube of blueprints tucked under her arm like a civil engineer coming off a site survey.
 
-- Target 1 (Sarah): Messy bun, safety glasses perched on her head, grease smudge on her cheek. Mechanical vibes.
-
-- Target 2 (Amanda): Sharp eyes, carrying a tube of blueprints. Civil vibes.
-
-They didn't look like Delores. They didn't look like predators. They looked tired and hungry.
+Neither of them carried a trace of Delores’s predatory polish. They just looked tired and hungry.
 
 Leo tapped his Quantum Communicator.
 
@@ -20896,17 +20671,7 @@ The Fortress had expanded. It hadn't let down the drawbridge; it had just issued
 
 The classroom was full. FR-Q 101 was a popular elective, mostly because students assumed "French is French."
 
-The Fortress sat in the front row, occupying a block of five seats.
-
-- Leo: Parked on the end in his Titan X-Treme, laptop open.
-
-- Sarah: Next to him (Engineering Cohort).
-
-- Olivia: The Anchor.
-
-- Luna: The Musician.
-
-- Stella: The Graduate Student.
+The Fortress claimed a continuous block of five seats along the front row: Leo parked on the aisle end in his Titan X-Treme with his laptop open, Sarah beside him from the engineering cohort, and Olivia, Luna, and Stella filling out the line.
 
 Behind them sat the "AP Crowd"—three Freshmen who had taken AP French in high school. They were loudly conjugating verbs to show off.
 
@@ -21064,17 +20829,7 @@ He gestured to Olivia.
 
 "But in Québec, for three hundred years, the Catholic Church controlled everything. So when we get angry? We don't talk about poop. We talk about the Altar."
 
-He wrote the list, translating as he went:
-
-- Tabarnak (Tabernacle) = The F-Bomb (Nuclear Level).
-
-- Câlisse (Chalice) = Damn/F\*\*k.
-
-- Ostie / Esti (Host/Communion Wafer) = Goddamn/Son of a Bitch.
-
-- Ciboire (Ciborium/Cup) = Holy Crap.
-
-- Saint-Chrême (Holy Oil) = For when you hurt yourself.
+He wrote the liturgical vocabulary down the whiteboard in heavy red strokes, translating each escalation as he went: *Tabarnak*, the tabernacle itself, reserved as the nuclear-grade profanity; *Câlisse*, the communion chalice, slung as a sharp curse; *Ostie*—or *Esti* when clipped in rapid speech—for the communion wafer; *Ciboire*, the sacred vessel; and *Saint-Chrême*, the holy anointing oil invoked when someone slammed a thumb with a hammer.
 
 "When Olivia called him a *'Tabarnak de vidange,'*" Gagnon said, pointing to Chad (who was slumping into his chair), "she literally called him a 'Tabernacle of Garbage.' It implies his trashiness is *sacred*. It is monumental. It is holy trash."
 
@@ -21103,25 +20858,15 @@ From that day on, nobody in the class messed with the Fortress. And Elspeth the 
 
 Chad stood in the center of the room, his face burning.
 
-He looked at Olivia (21). She was glaring at him, her hand resting protectively on the armrest of the guy in the wheelchair. The silver ring on her finger was a "Do Not Enter" sign.
+He looked at Olivia. She was glaring at him, her hand resting protectively on the armrest of the guy in the wheelchair, the heavy silver band on her finger gleaming like a *Do Not Enter* sign.
 
-He looked at Elspeth (18). She was cracking her knuckles. The gold band on her left hand—a young marriage back in Glasgow before she came over on the scholarship—glinted under the lights.
+He looked at Elspeth. She was cracking her knuckles, a plain solid-gold wedding band from back home in Glasgow glinting under the fluorescent lights.
 
-He looked at Stella (28). She was sitting two seats down. She wasn't looking at him with anger; she was looking at him with the bored, dismissive stare of a woman who had fired better men than him before breakfast. Too old, too scary, too rich.
+He looked at Stella two seats down. She wasn't even glaring; she was regarding him with the bored, clinical stare of an executive who had fired better men than him before breakfast—older, wealthier, and thoroughly terrifying.
 
-He looked at Sarah (18). She was sitting next to Leo. She was wearing safety glasses on her head and had grease under her fingernails. She was currently sketching a diagram of a shear pin on her notebook, completely ignoring the drama. She was clearly part of the "Unit."
+Finally, he glanced at Sarah beside Leo, safety glasses pushed onto her head and machine grease beneath her fingernails, calmly sketching a shear-pin diagram in her notebook without sparing him a second look.
 
-Chad did the math.
-
-- Olivia: Taken / Scary.
-
-- Elspeth: Married / Scary.
-
-- Stella: Too old / Scary.
-
-- Sarah: Occupied / Engineer.
-
-There was no "prize" here. There was no easy A, and there was no date to be found. This wasn't a classroom; it was a fortress of unavailable women.
+Chad did the rapid, dismal math: one spoken for, one married, one way out of his league, and one locked in with the engineers—every last one of them formidable. There was no prize here, no easy A, and no date to be found. This wasn't a classroom; it was a fortress of unavailable women.
 
 "You know what?" Chad stammered, backing away toward the door. "I think... I think I'm in the wrong section. I prefer... traditional French."
 
@@ -21184,13 +20929,7 @@ She knelt down next to his chair. She didn't look at his legs with pity; she loo
 
 "Got it," Sarah said. "We'll use a spring-loaded pin system. Like a trailer hitch."
 
-They worked for an hour. The conversation was technical, precise, and safe.
-
-- "What's the load rating?"
-
-- "Shear strength on that bolt?"
-
-- "Clearance for the bus ramp angle?"
+They worked for an hour. The conversation stayed technical, precise, and refreshingly straightforward as they traded numbers back and forth—load ratings, bolt shear strengths, and exact clearance angles for the BTA bus ramps.
 
 At 3:00 PM, Sarah held up a cardboard prototype of the bracket. She held it against the back of Leo's chair.
 
@@ -21282,11 +21021,11 @@ She looked at the podium. Dr. Sterling was watching them, baton in hand.
 
 Sterling smiled. It was a predatory, approving smile.
 
-"A challenge," Sterling said. "I accept. Everyone, sit down. Open your audition packets to Excerpt \#1."
+"A challenge," Sterling said. "I accept. Everyone, sit down. Open your audition packets to Excerpt #1."
 
 Jenna sat back in First Chair. Luna stayed in Sixth.
 
-"Excerpt \#1," Sterling announced. "Mendelssohn. A Midsummer Night's Dream - Scherzo."
+"Excerpt #1," Sterling announced. "Mendelssohn. *A Midsummer Night's Dream* — Scherzo."
 
 A ripple of fear went through the section. This was the "Flute Killer."
 
@@ -21344,11 +21083,7 @@ Luna played the A-440. The orchestra tuned to her sound. She hadn't bought the s
 
 The Music Library was a quiet, wood-paneled sanctuary on the second floor of the Fine Arts Center. While the practice rooms were for noise, this room was for silence. It was filled with students studying scores, writing papers, and hiding from the chaos of the first day.
 
-Stella and Olivia had claimed a large, rectangular table near the window.
-
-Stella: Had her laptop open, coding a Quantum Sharp backend for a new e-commerce client. Her fingers flew across the keys with the same precision Luna used on her flute.
-
-Olivia: Was reading her Urban Sociology textbook, highlighting passages about zoning laws.
+Stella and Olivia had claimed a large, rectangular table near the window. Stella had her laptop open, coding a Quantum Sharp backend for a new e-commerce client, her fingers flying across the keys with the same precision Luna brought to her flute. Beside her, Olivia was reading her urban sociology textbook and highlighting passages on municipal zoning laws.
 
 The double doors opened.
 
@@ -21496,7 +21231,8 @@ The rain was hammering the glass roof.
 
 "Check the board," Stella said.
 
-BTA SOUTH SHORE (Local) - 07:10 PM ARTS COASTAL 94 (Southbound) - 07:05 PM
+> BTA SOUTH SHORE (Local) — 07:10 PM<br>
+> ARTS COASTAL 94 (Southbound) — 07:05 PM
 
 The silver ARTS train was already gliding into the station on the express track, its headlight cutting through the gloom.
 
@@ -21728,11 +21464,7 @@ Leo looked up. Olivia was crying, her hand over her mouth.
 
 "Olivia stops herself," Stella said fiercely. "She wants to be close to you. But she stops because she respects you. She respects the paper. She respects your safety more than she wants your body. That is what love looks like."
 
-Leo processed the data.
-
-- Delores: Ignored the incapacity. (Predator).
-
-- Olivia: Obeys the incapacity. (Protector).
+Leo processed the contrast in an instant: Delores had ignored his incapacity like a predator, whereas Olivia honored it like a protector.
 
 The shame vanished. Olivia wasn't rejecting him; she was guarding him.
 
@@ -21756,9 +21488,7 @@ Leo’s head snapped up. Separation.
 
 "Then the line stands," Stella said. "No sex. With anyone. Ever. That is the price of the Fortress."
 
-The Verdict
-
-"So," Stella said. "We need to define our terms."
+Stella folded her hands over the edge of the frame. "So we need to define our terms."
 
 She held up one finger.
 
@@ -21828,17 +21558,7 @@ Luna smiled. She wasn't fighting for the chair anymore. She was the chair.
 
 #### September 20, 2004 • 7:00 AM — The Accessible Box
 
-The Fortress had secured the best seats in the house. Because the theater was built in 2005, the Accessible Box wasn't a cage in the back; it was a prime viewing suite suspended over the orchestra level, giving a perfect view of the stage.
-
-The Attendees:
-
-- Leo: Parked in his Titan X-Treme, wearing his "Formal" sweater (knitted by Eleanor).
-
-- Stella & Olivia: Dressed for the symphony.
-
-- Eleanor: Wearing her good wool coat and pearls.
-
-- Sarah & Amanda: The Engineering Cohort, dressed up and holding programs.
+The Fortress had secured the best seats in the house. Because the theater had been built in 2005, the Accessible Box wasn't a cramped pen at the back of the hall; it was a prime viewing suite suspended above the orchestra level with an unobstructed sightline to the stage. Leo parked along the front rail in his Titan X-Treme, wearing the thick navy cable-knit sweater Eleanor had made for him, flanked by Stella and Olivia in evening dress, Eleanor in her good wool coat and pearls, and Sarah and Amanda dressed up for the symphony with printed programs in hand.
 
 "This view is tactical," Sarah noted, looking over the railing. "We can see her hand position perfectly."
 
@@ -21950,15 +21670,11 @@ They reached Narragansett Esplanade Station. They took the elevator up to the Sk
 
 The South Shore Line was waiting. It was coated in a thin layer of slush, but the lights were warm.
 
-They boarded the accessible car. It was a tight squeeze for seven people, but they made it work.
+They boarded the accessible car—a tight squeeze for seven people, though they settled in quickly, with Leo, Luna, Olivia, and Stella claiming the four-top table while Eleanor, Sarah, and Amanda took the adjacent aisle seats.
 
-- The Table: Leo, Luna, Olivia, Stella.
+As the train rolled south past the darkened airport and the sleeping suburbs, Leo monitored the weather feed on his laptop:
 
-- The Aisle Seats: Eleanor, Sarah, Amanda.
-
-As the train rolled south, passing the darkened airport and the sleeping suburbs, Leo monitored the temperature on his laptop.
-
-OUTSIDE TEMP: 28°F. PRECIPITATION: LIGHT SNOW.
+> OUTSIDE TEMP: 28°F — PRECIPITATION: LIGHT SNOW
 
 He looked at his joystick. He pulled a clear, heavy-duty plastic cover (custom-molded by Sarah in the machine shop) over the controller.
 
@@ -21992,7 +21708,7 @@ It had been plowed. Not just the street, but the sidewalk. A municipal Bobcat ha
 
 A small sign was stuck in a snowbank near the corner. It was hand-painted.
 
-CLEARED FOR LEO. - DPW
+> CLEARED FOR LEO — DPW
 
 Leo stopped. He stared at the clear path. The Public Works crew hadn't just cleared the road; they had cleared his lifeline.
 
@@ -22003,13 +21719,7 @@ He felt a lump in his throat. He wasn't just a resident; he was a neighbor.
 "They know you have to get home," Stella said, her voice thick. "Come on. Let's not waste their work."
 
 
-The convoy moved down the street.
-
-- Point: Stella and Eleanor.
-
-- Center: Leo (rolling smooth and fast on the cleared path), flanked by Sarah and Amanda.
-
-- Rear: Olivia and Luna.
+The convoy moved down the street in tight formation: Stella and Eleanor taking point up front, Leo rolling smooth and steady along the scraped blacktop in the center with Sarah and Amanda walking at either elbow, and Olivia and Luna bringing up the rear.
 
 They turned into the driveway. The motion lights of the house flicked on, illuminating the stone facade of the Fortress.
 
@@ -22068,7 +21778,8 @@ Leo saw it. He knew that flinch.
 
 He looked at the screen.
 
-\> LOCATION REQUEST RECEIVED \> ACCOUNT: DAD
+> LOCATION REQUEST RECEIVED<br>
+> ACCOUNT: DAD
 
 Leo sat up. He tapped his Quantum Communicator.
 
@@ -22247,13 +21958,7 @@ She wasn't a fugitive anymore. She was a Defendant in a court that was already o
 
 The morning after the "Sanctuary Protocol" was invoked, the Fortress wasn't hiding. They were fortifying.
 
-They had taken over the large corner table in The Iron Kettle.
-
-- The Fortress: Stella, Olivia, Luna, Leo.
-
-- The Refugees: Amanda and Sarah.
-
-- The Law: Judge Silas Miller (in a heavy wool coat) and Officer Dave Miller (in full uniform, starting his shift).
+They had taken over the large corner table in The Iron Kettle—Stella, Olivia, Luna, and Leo crowded in alongside Amanda and Sarah, joined by Judge Silas Miller in a heavy wool overcoat and Officer Dave Miller in full uniform at the start of his shift.
 
 They were eating breakfast sandwiches and drinking coffee milk. The mood was tense but controlled.
 
@@ -22663,13 +22368,11 @@ She looked at the engineering textbook in her lap. She looked at the M.U.L.E. br
 
 Sarah—no, Maya—nodded. "Do it."
 
-Miller filled out the form.
+Miller filled out the form in brisk block letters:
 
-- Petitioner: Sarah Emily Halloway.
-
-- New Name: Maya Steele Porter.
-
-- Reason: Safety / Witness Protection.
+> Petitioner: Sarah Emily Halloway<br>
+> New Name: Maya Steele Porter<br>
+> Reason: Safety / Witness Protection
 
 He signed the order.
 
@@ -22697,15 +22400,7 @@ Maya looked at Leo’s wheelchair—Jet Black with neon accents. She looked at t
 "I'm not going back," Maya said.
 
 
-For three hours, the Fortress waited.
-
-- Leo sat in the waiting area, working on his laptop.
-
-- Luna read a magazine.
-
-- Olivia brought coffee milk.
-
-- Stella paid the bill in advance (\$300 + Tip).
+For the next three hours, the Fortress camped out in the salon reception area—Leo working quietly on his laptop, Luna paging through a glossy magazine, Olivia making a coffee-milk run down the block, and Stella settling the $300 tab plus a generous tip in advance at the front desk.
 
 The stylist applied the dye. The chemical smell filled the air—the smell of change. She snipped the long, brown ponytail off and let it fall to the floor.
 
@@ -22740,15 +22435,7 @@ Maya smiled. It was a real smile.
 
 "New License," Stella said. "And a legal name change."
 
-Stella slid the paperwork across the counter:
-
-1.  The Court Order (Signed by Judge Miller). *Sarah Halloway to Maya Steele Porter.*
-
-2.  The Old ID (Ohio Driver’s License).
-
-3.  The Birth Certificate (US Citizen).
-
-4.  The Residency Proof (Affidavit from Stella + Deed).
+Stella slid the paperwork across the counter in a neat stack: Judge Miller's signed court order changing Sarah Halloway's legal name to Maya Steele Porter, Maya's old Ohio driver's license, her United States birth certificate, and Stella's residency affidavit clipped to a copy of the deed.
 
 Brenda reviewed the Ohio license. "You drive?"
 
@@ -22764,30 +22451,22 @@ Maya stood. She touched her new, sharp black hair. She looked at the camera. She
 
 *FLASH.*
 
-
 The machine behind the counter whirred. A moment later, a warm piece of plastic dropped into the tray.
 
 Brenda handed it over.
 
-RHODE ISLAND DRIVER'S LICENSE
-
-NAME: PORTER, MAYA STEELE
-
-ADDRESS: OCEAN VIEW LN, IRON POINT, RI
-
-DOB: 04/12/1988
-
-HAIR: BLK EYES: HAZ
-
-CLASS: D (Operator)
+> **RHODE ISLAND DRIVER'S LICENSE**<br>
+> **NAME:** PORTER, MAYA STEELE<br>
+> **ADDRESS:** OCEAN VIEW LN, IRON POINT, RI<br>
+> **DOB:** 04/12/1988<br>
+> **HAIR:** BLK &nbsp; **EYES:** HAZ<br>
+> **CLASS:** D (Operator)
 
 Maya held it. It wasn't just an ID; it was a license to move.
 
 "Thank you," Maya whispered.
 
 "Welcome to Rhode Island," Brenda said. "Watch out for the rotaries."
-
-The Exit
 
 They walked out to the parking lot.
 
@@ -22887,15 +22566,9 @@ Russo typed quickly. He wasn't just an agent anymore; he was part of the cover-u
 
 He printed the card.
 
-INSURED: STELLA MARIE PORTER AUTHORIZED DRIVERS:
-
-1.  *STELLA PORTER*
-
-2.  *OLIVIA PORTER*
-
-3.  MAYA PORTER
-
-*VEHICLE: 2001 HOLT SENTINEL*
+> **INSURED:** STELLA MARIE PORTER<br>
+> **AUTHORIZED DRIVERS:** STELLA PORTER, OLIVIA PORTER, MAYA PORTER<br>
+> **VEHICLE:** 2001 HOLT SENTINEL
 
 He handed it to Maya with both hands.
 
@@ -22938,11 +22611,11 @@ Stella sat in the back seat, buckling her seatbelt. "Mirrors adjusted?"
 
 Leo sat in the passenger seat ("Shotgun"). He had his MagnaByte Scribe mounted on his lap. He looked at Maya. He didn't look scared.
 
-<aac>Navigator ready,</aac> he typed. <aac>"DESTINATION: UNKNOWN. YOU DRIVE. I GUIDE."</aac>
+<aac>Navigator ready,</aac> he typed. <aac>Destination: unknown. You drive. I guide.</aac>
 
 "Where are we going?" Maya asked.
 
-<aac>The island tour,</aac> Leo typed. <aac>"FIRST STOP: FUEL."</aac>
+<aac>The island tour,</aac> Leo typed. <aac>First stop: fuel.</aac>
 
 
 Maya drove out of the lot. The Sentinel’s V8 rumbled. It was heavy, but powerful.
@@ -22954,7 +22627,7 @@ She pulled into the gas station down the street.
 Maya got out. She pumped the gas. It was a simple act—something she had done a hundred times in Ohio for her father—but this time, she was using Stella’s card, filling Stella’s car, for a trip *she* was driving. It felt like freedom.
 
 
-<aac>Head north,</aac> Leo typed. <aac><aac>Enter I-895 at exit 3.</aac></aac>
+<aac>Head north,</aac> Leo typed. <aac>Enter I-895 at Exit 3.</aac>
 
 Maya merged onto the arterial road. She accelerated onto the on-ramp for I-895 East (signed North).
 
@@ -22996,7 +22669,7 @@ Maya slowed to 5 MPH. She rolled down the window. She tossed the token.
 The gate flew up. Maya accelerated up the massive span of the bridge, the bay sparkling 200 feet below.
 
 
-<aac>Take exit 12,</aac> Leo typed. <aac>"</aac> **ADMIRAL KALBFUS RD / US NAVAL BASE***."*
+<aac>Take exit 12, "ADMIRAL KALBFUS RD / US NAVAL BASE,"</aac> Leo typed.
 
 Maya took the sharp exit ramp. It curled to the right like a cloverleaf loop, swinging them around 270 degrees and dropping them down to street level.
 
@@ -23004,7 +22677,7 @@ She stopped at the traffic light at the bottom.
 
 Directly across the intersection was the massive, hulking concrete structure of the Former Newport Jai Alai (now a slot parlor). It looked like a bunker.
 
-<aac>Right turn,</aac> Leo instructed. "Follow Admiral Kalbfus Road. We're taking the back way to Newport."
+<aac>Right turn,</aac> Leo instructed. <aac>Follow Admiral Kalbfus Road. We're taking the back way to Newport.</aac>
 
 His next instruction was to have Maya make a left onto Farewell Street. The streets of Newport were narrow, colonial, and crowded even in winter. Maya threaded the wide Sentinel through the traffic on America's Cup Avenue.
 

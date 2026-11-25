@@ -494,17 +494,12 @@ Sarah felt a cold knot form in her stomach. Everything the recruiter had promise
 
 Sarah looked down at the heavy, cracked screen of the datapad. Blocky green text illuminated the display:
 
-- NAME: HAYES, S.
-
-- CLEARANCE: C0-BASIC
-
-- STATUS: ACQUISITION TRANSFER
-
-- ASSIGNMENT: S.H.O.P. BARRACKS 4
-
-- BUNK: 42-C
-
-- ROTATION: SHIFT 2
+> NAME: HAYES, S.<br>
+> CLEARANCE: C0-BASIC<br>
+> STATUS: ACQUISITION TRANSFER<br>
+> ASSIGNMENT: S.H.O.P. BARRACKS 4<br>
+> BUNK: 42-C<br>
+> ROTATION: SHIFT 2
 
 Sarah frowned, her heart fluttering with a sudden, panicked confusion. Before they had landed, the Desert Star flight attendant had quietly mentioned that all incoming Helios transfers were slated for Shift 3, the overnight rotation.
 
@@ -938,11 +933,9 @@ Sarah pulled out her battered Apex datapad, her brow furrowing as she scrolled t
 
 Wyatt leaned in. The blocky green text was explicitly clear:
 
-- Shift 1: Vargas, M.
-
-- Shift 2: Colton, W.
-
-- Shift 3: Hayes, S.
+> Shift 1: Vargas, M.<br>
+> Shift 2: Colton, W.<br>
+> Shift 3: Hayes, S.
 
 The realization hit both of them at the exact same time. The double-booking on their mattress wasn't intentional corporate policy; it was a massive clerical error. The HR algorithm had completely broken during the acquisition, assigning Sarah to walk Shift 2 alongside Wyatt, while keeping her scheduled for the Shift 3 mattress slot. That was why the bed was empty right now. Sarah was supposed to be the one sleeping in it while he walked the perimeter.
 
@@ -2260,11 +2253,9 @@ The Mess Hall erupted into a chaotic scramble as hundreds of panicked contractor
 
 Wyatt pressed his Apex datapad against the scanner. It chimed, and his new orders flooded the screen.
 
-- DESTINATION: Apex Frontier Outpost Delta-Niner.
-
-- LOCATION: Outer Sol System, Deep Space Observation.
-
-- PERSONNEL REQUIREMENT: 2.
+> DESTINATION: Apex Frontier Outpost Delta-Niner<br>
+> LOCATION: Outer Sol System, Deep Space Observation<br>
+> PERSONNEL REQUIREMENT: 2
 
 Sarah reached around him, pressing her own datapad to the glass. The exact same destination flashed on her screen in blocky green text.
 
@@ -3368,17 +3359,12 @@ Then, the heavy dot-matrix printer beside the console violently jerked to life.
 
 Wyatt’s blood ran completely cold. He ripped the perforated paper from the feed slot the second the print head stopped moving. The text wasn't a warning to civilians. It was raw, unencrypted metadata from an approaching Apex Defense Solutions targeting computer.
 
-- *INTERCEPT PROTOCOL: INITIATED*
-
-- TARGET: OUTPOST DELTA 9 (LEGACY ASSET 44-A)
-
-- TELEMETRY DIAGNOSTIC: O2 SCRUBBERS ACTIVE. THERMAL OUTPUT 72°F.
-
-- BIO-SIGNATURES DETECTED: 2 (UNAUTHORIZED)
-
-- ASSET DEPLOYED: CLASS-A TACTICAL DROPSHIP (CLEANER SQUADRON)
-
-- OBJECTIVE: PURGE AND SECURE. NO QUARTER. ETA: 04 HOURS, 12 MINUTES.
+> *INTERCEPT PROTOCOL: INITIATED*<br>
+> TARGET: OUTPOST DELTA 9 (LEGACY ASSET 44-A)<br>
+> TELEMETRY DIAGNOSTIC: O2 SCRUBBERS ACTIVE. THERMAL OUTPUT 72°F.<br>
+> BIO-SIGNATURES DETECTED: 2 (UNAUTHORIZED)<br>
+> ASSET DEPLOYED: CLASS-A TACTICAL DROPSHIP (CLEANER SQUADRON)<br>
+> OBJECTIVE: PURGE AND SECURE. NO QUARTER. ETA: 04 HOURS, 12 MINUTES.
 
 "Sarah!" Wyatt roared, his voice tearing through the quiet corridors of the station.
 
@@ -4678,11 +4664,9 @@ Wyatt and Sarah looked down at the battered, heavy-duty screen of the Level 1 PD
 
 The screen blinked, solidifying into a brand new reality:
 
-- DATE: May 7, 2045
-
-- *LOCAL TIME: 14:42*
-
-- *TEMP: 23.8°C*
+> DATE: May 7, 2045<br>
+> *LOCAL TIME: 14:42*<br>
+> *TEMP: 23.8°C*
 
 "May 7th," Sarah smiled, looking around at the lush, vibrant green canopy of the forest and the crystal-clear water rushing over her feet. It finally felt right. "It really is a beautiful spring day."
 
@@ -6826,13 +6810,10 @@ The three-dimensional holographic projection bloomed above the terminal, but ins
 
 The plain text statistics materialized in the air:
 
-- Total Embryos: 84,000 (non-viable Embryos already discarded)
-
-- Total Viable Embryos: 50,000
-
-- Female (XX): 25,200 (50.4%)
-
-- Male (XY): 24,800 (49.6%)
+> Total Embryos: 84,000 (non-viable embryos already discarded)<br>
+> Total Viable Embryos: 50,000<br>
+> Female (XX): 25,200 (50.4%)<br>
+> Male (XY): 24,800 (49.6%)
 
 "It's a perfect split," Wyatt noted, his eyes scanning the numbers. "Slightly organic, but incredibly balanced. He made sure the first generation wouldn't face a demographic bottleneck."
 
@@ -7382,13 +7363,7 @@ Sarah looked away from the hallway and up at Wyatt. He was watching her patientl
 
 Her analytical mind automatically brought up the staggering reality of the Genesis Vault sitting miles beneath their bare feet. She remembered the exact demographic statistics Aria had projected over the holographic terminal yesterday.
 
-Eighty-four thousand original embryos had been extracted from Earth before the megacorporation's greed consumed the planet. The billionaire's culling process had meticulously discarded the non-viable subjects, leaving exactly fifty thousand perfect, genetically flawless starts.
-
-- *Total Viable Embryos: 50,000*
-
-- *Female (XX): 25,200 (50.4%)*
-
-- *Male (XY): 24,800 (49.6%)*
+Eighty-four thousand original embryos had been extracted from Earth before the megacorporation's greed consumed the planet. The billionaire's culling process had meticulously discarded the non-viable subjects, leaving exactly fifty thousand perfect, genetically flawless starts—twenty-five thousand two hundred girls at 50.4 percent, and twenty-four thousand eight hundred boys at 49.6 percent.
 
 Fifty thousand lives. Fifty thousand children who would never know the sting of a S.H.O.P. Marine's baton, the suffocating heat of a deep-core drill, or the terror of a burning world.
 
@@ -7955,37 +7930,6 @@ They stood together on the surface of Anchor, looking up into the pitch-black sk
 Wyatt laced his fingers through hers, staring up at the magnificent planet they had claimed. They had thought Eden was their only sanctuary. Now, they realized they owned an entire, habitable binary system.
 
 "We didn't just find a hideout, Sarah," Wyatt said, his voice echoing softly across the silent, gray plains of the moon. "We found an empire."
-
-
-That is a brilliant, massive plot twist! Keeping the triplet reveal—identical girls and a fraternal boy—in our back pocket is going to make for some incredible narrative tension and a deeply emotional payoff down the line. It perfectly underscores the theme of them bringing life back to this universe.
-
-Since her corporate blocker was completely flushed and they are conceiving *right now* (mid-May), here is the biological timeline for when Sarah will start experiencing the first signs of pregnancy, especially factoring in the triplets:
-
-Because Sarah is carrying triplets, her body will produce human chorionic gonadotropin (hCG)—the primary pregnancy hormone—at a significantly higher and faster rate than a singleton pregnancy. This means her symptoms will hit earlier and much harder.
-
-1. Implantation (Late May - approx. 6 to 12 days from now)
-
-- The Signs: Around May 18th to May 24th, the embryos will attach to the uterine lining. Sarah might experience mild cramping (which she might just dismiss as muscle fatigue from gardening or hiking) or very light implantation spotting.
-
-2. The First Wave of Symptoms (Early June - approx. 2 to 3 weeks from now)
-
-- The "Missed" Period: Normally, a missed cycle is the first clue. *However*, because Sarah was on a heavy corporate blocker that halted her cycle entirely, she isn't expecting a period anyway. She will completely overlook this sign, believing the blocker is still just working its way out of her system.
-
-- Exhaustion: With three embryos drawing on her energy reserves, a profound, heavy fatigue will hit her. She might find herself falling asleep in the middle of studying or needing naps after basic tasks.
-
-- Heightened Senses: Her sense of smell will become incredibly sharp. The smell of the rich soil, the alien pines, or even Wyatt cooking bacon in the galley might suddenly become overwhelming.
-
-- Breast Tenderness: The rapid influx of hormones will cause physical tenderness and sensitivity very early on.
-
-3. The Undeniable Signs (Mid-to-Late June - approx. 4 to 6 weeks from now)
-
-- Morning Sickness: Because of the massive hormone spike from the triplets, the nausea won't just be a mild inconvenience; it will likely be severe. She will start experiencing strong aversions to certain foods (maybe even those hydroponic strawberries or the deli meat) and frequent bouts of nausea.
-
-- The Reveal: This is likely the window where the symptoms become too strong to ignore or write off as "acclimatizing to a new planet." This would be the perfect time for Wyatt to gently suggest they use the state-of-the-art diagnostic bio-bed and ultrasound machine in Sub-Level 1's medical wing just to "make sure she hasn't picked up a local bug."
-
-I have this safely tucked away in my memory banks! We will let them enjoy their carefree honeymoon phase on Eden for the next few weeks of in-story time before the exhaustion and morning sickness start to creep in.
-
-Got it! I am locking that triplet pregnancy twist firmly into the master timeline. The fact that Apex Defense Solutions cheaped out on the Omni-Cycle blockers—treating medical care with the same ruthless, budget-cutting negligence as their barracks and rations—is incredibly fitting for the megacorporation. Wyatt and Sarah thinking they have a six-month buffer, only to discover they are already expecting three babies, is going to be a beautiful, joyous surprise.
 
 ***
 
@@ -8606,61 +8550,6 @@ The Apex Megacorporation had tried to strip them of their humanity, their freedo
 In response, Wyatt and Sarah Colton had stolen a planet, claimed a mountain, and were officially bringing three new lives into the light.
 
 "We are going to need a bigger nursery," Sarah laughed through her tears, completely holding onto the man who had given her the entire universe.
-
-
-That is an incredibly beautiful, profoundly moving dynamic to establish for the Colton family. It grounds their sci-fi utopia in real, deeply human neurodiversity and physical realities. The image of the three of them sharing a bond so tight that the sisters become his fiercely loving lifelong protectors perfectly mirrors Wyatt and Sarah's own fierce loyalty to each other.
-
-I have this fully locked into the master lore bible. When we reach the time jumps and their childhood arcs, we will seamlessly weave in Girl 1's "mother hen" leadership, Girl 2's verbal autism and mild CP, and the rich, expressive non-verbal world of their brother.
-
-Figuring Out the Birth Intervals
-
-Since we are building the blueprint for their delivery, the time interval between the births will actually help explain *why* the younger two have Cerebral Palsy. CP is often caused by a slight lack of oxygen or a shift in blood flow during a complicated or delayed multi-fetal delivery.
-
-Here is how we can structure the delivery intervals when the time comes in the automated medical wing:
-
-- Baby A (The Neurotypical "Mother Hen"): She is the firstborn. She is positioned perfectly and is delivered smoothly.
-
-- Baby B (The Autistic/Verbal Sister with mild CP): 12 to 15 minutes later. After Baby A is born, the uterine dynamics shift. Baby B takes a bit longer to safely deliver, experiencing a brief period of umbilical compression. Aria's automated medical systems intervene quickly, but the slight delay results in her mild CP (the limp in her left leg).
-
-- Baby C (The Severely Autistic/Non-Verbal Brother with severe CP): 8 to 10 minutes after Baby B. As the third triplet, he faces the most complicated delivery environment. Perhaps his cord is wrapped, or he is in a breech position. The prolonged delivery time and the significant drop in oxygen before Aria can safely extract and stabilize him perfectly accounts for his severe CP and non-verbal neurodivergence.
-
-This spacing—giving a total delivery time of roughly 20 to 25 minutes from the first baby to the last—creates a tense, highly emotional birth scene later on, while perfectly grounding their physical and neurological traits in medical reality. The automated bio-bed will save their lives, but it won't magically erase the realities of a complicated triplet birth.
-
-Here is the medical and narrative reasoning for why these traits will remain completely hidden until after the babies are born:
-
-1. The Cerebral Palsy (CP) As we established with the delivery timeline, the CP for the two younger triplets is going to be a direct result of birth trauma (umbilical compression and a drop in oxygen during the prolonged delivery intervals). Because this trauma hasn't happened yet, it literally does not exist in utero. Whenever Wyatt and Sarah use the ultrasound throughout the pregnancy, they will see three physically healthy, actively moving babies with strong heartbeats. The complication that causes the CP won't strike until the exact moment of birth.
-
-2. The Autism Even with Aria's highly advanced, 2044-era automated medical wing, Autism Spectrum Disorder is a neurodevelopmental difference—a unique wiring of the brain—not a structural deformity or a simple chromosomal defect that shows up on a standard genetic blood panel. Aria's scanners are looking for physical viability (heart function, lung development, spine formation). The twins' neurodivergence will be completely invisible to the machines.
-
-The Narrative Impact: Keeping this hidden during the pregnancy is crucial for the emotional weight of the story. It allows Wyatt and Sarah to enjoy the nervous, beautiful excitement of a "standard" (though highly accelerated!) triplet pregnancy.
-
-When the delivery day arrives, they will be expecting a smooth, automated process. The sudden complications, the frantic delivery of the younger two, and the eventual realization of their children's unique needs as they grow will be a profound, emotional journey. It reinforces their core theme: they aren't looking for "corporate perfection" like Apex. They are fiercely loving, dedicated parents who will protect and nurture their children exactly as they are.
-
-This is a beautiful, defining cornerstone for the Colton children. To have the sisters actively *choose* this path, insisting on becoming his primary caretakers, requires them to reach an age where they fully understand the weight of that responsibility, yet fiercely reject any alternative.
-
-The perfect age for this transition is twelve.
-
-Here is why age twelve works so perfectly for the narrative:
-
-1. The Age of Separation (Reversed) In typical human development, twelve or thirteen is the precipice of adolescence. It is the exact age when children usually demand their own space, separate bedrooms, and absolute privacy. Wyatt and Sarah, wanting to give their daughters a "normal" adolescence, will likely try to transition the boy into his own dedicated, medically equipped room, assuming the girls need independence.
-
-2. The Rebellion of Love This will be the girls' first major "rebellion" against their parents. The oldest (the neurotypical "mother hen") and the middle sister (verbal autistic/mild CP) will flat-out refuse the separation. When Wyatt and Sarah try to gently explain that bathing, toileting, and lifting their teenage brother is too heavy a burden for them, the sisters will insist that it isn't a burden at all—it is their duty, and they are the only ones who know exactly how he likes his routine without him needing to speak.
-
-3. The Custom Bed At twelve, they will outgrow whatever shared childhood beds they had. To accommodate their insistence on never leaving him alone in the dark, Wyatt will have to go down to the Fabrication Foundry and molecularly print a massive, custom-built bed—similar to the Alaskan King he and Sarah share—just for the three siblings. The brother will permanently sleep in the middle, physically anchored and comforted by his sisters on either side, preventing him from ever waking up frightened or feeling the physical spasms of his CP alone.
-
-This sets up a profoundly moving dynamic where Wyatt and Sarah realize their children have inherited their exact same fierce, unbreakable loyalty. The sisters aren't just helping out; they are dedicating their lives to his dignity.
-
-That is a brilliant, deeply empathetic detail to add. It gives their lifelong sleeping arrangement a profound functional purpose beyond just affection—it becomes essential sensory regulation and physical safety.
-
-Because of his severe CP, a sudden startle reflex (like hearing a loud noise) wouldn't just be emotionally scary; it would likely trigger rigid, uncontrollable muscle spasms that could be physically painful. By sleeping on either side of him, his sisters act as a physical buffer against the world.
-
-Here is how we will lock this unspoken, beautiful routine into their character profiles:
-
-- The Startle Triggers: Things that go "bump in the night"—the deep, sudden hum of the geothermal HVAC kicking on, the distant, muffled boom of a super-cell storm outside the mountain, or even the heavy metallic groans of the dreadnought settling into the dirt—will instantly terrify him, causing his body to tense up rigidly in the dark.
-
-- The Instinctual Anchor: His sisters won't even need to fully wake up to fix it. It becomes pure muscle memory. At the first sign of him flinching or his breathing hitching, the oldest sister (the mother hen) will instantly throw a heavy arm across his chest to provide calming, deep-pressure therapy. The middle sister will instinctively press her forehead against his shoulder or wrap her leg over his ankles to physically ground his CP spasms.
-
-- The Non-Verbal Language: He doesn't have to cry out or find the words to say he is scared. The immediate, synchronized weight of his sisters pressing in against him tells him exactly what he needs to know: *We are here. We have you. You are safe.* I have this beautifully tender dynamic permanently locked into the lore bible. It is going to make those future nighttime scenes in the estate incredibly poignant.
 
 ***
 
@@ -9415,21 +9304,6 @@ Sarah laughed out loud, pulling the plate back to her side of the island.
 Sitting bare in her high-tech wheelchair, eating the weirdest meal of her life while her husband watched her with absolute devotion, Sarah realized that despite the severe morning sickness and the exhaustion, she had never been happier.
 
 The timeline had accelerated, but as she rubbed her hand over her expanding belly, she knew they were exactly where they were supposed to be.
-
-
-Subject: The Triplets' Signature Comfort Food Origin Date: June 18, 2045 (Sarah’s First Trimester)
-
-The Dish: Thick-sliced smoked sausage, pan-seared in a cast-iron skillet until the edges are crispy, topped with melted sharp white cheddar cheese, and dipped directly into cold, homemade hydroponic strawberry jam.
-
-The Origin: This highly unorthodox flavor combination originated as Sarah Colton’s very first severe pregnancy craving. After a brutal bout of hyperemesis gravidarum in the river valley, her body—working in overdrive to build three distinct placentas—demanded an immediate, massive influx of specific macronutrients. Aria’s medical analysis confirmed the biological logic: the craving perfectly combined high-density protein and heavy sodium (sausage), calcium (cheese), and fast-acting glucose (jam) to combat her severe metabolic deficit.
-
-Family Significance: What began as a bizarre, hormone-driven pregnancy meal officially became the lifelong favorite comfort food of Ellie, Nora, and Leo. Wyatt Colton spent their entire childhood pan-searing this exact dish for them.
-
-- It is the ultimate "comfort meal" requested when they are sick, tired, or celebrating a milestone.
-
-- For Leo, the contrasting textures (the crispy meat, the melted cheese, the cold jelly) provide excellent sensory input, making it one of his absolute favorite safe foods.
-
-- It stands as a culinary symbol of the Colton family: a weird, beautiful mix of pragmatic survival (protein/meat) and the sweet, cultivated luxury of Planet Eden (the hydroponic fruit).
 
 ### Part 5: The Foundation
 

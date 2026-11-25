@@ -851,17 +851,17 @@ The room remained dead silent. There was no crackle from the laptop speaker, no 
 
 To anyone else, a muted dial-up connection felt agonizingly blind. But Johnny just watched the small, gray dialogue box in the center of his screen.
 
-*Dialing 1-800... Connecting... Verifying username and password...*
+> *Dialing 1-800... Connecting... Verifying username and password...*
 
 He shot a glance at the closed bathroom door. The shower was still running.
 
 The progress bar filled. The dialogue box vanished. Down in the bottom right corner of his taskbar, the tiny icon of two overlapping computer monitors lit up blue.
 
-SECURE CONNECTION ESTABLISHED. WELCOME TO PROSPECTOR_QUANTUM_NET. USER: J_VANCE.
+> **SECURE CONNECTION ESTABLISHED. WELCOME TO PROSPECTOR_QUANTUM_NET. USER: J_VANCE.**
 
-Johnny pulled up his command terminal. He bypassed standard email, using the core q-send command. He couldn't use the global \[\*\] wildcard and trigger a panic among the civilian staff in the lodge. He targeted the secure, partitioned family domain.
+Johnny pulled up his command terminal. He bypassed standard email, using the core q-send command. He couldn't use the global wildcard and trigger a panic among the civilian staff in the lodge. He targeted the secure, partitioned family domain.
 
-q-send /domain:VANCE_WHITAKER I need extraction. The court order was a forgery. There is no assessment. I have been kidnapped.
+> **q-send /domain:VANCE_WHITAKER:** <sms>I need extraction. The court order was a forgery. There is no assessment. I have been kidnapped.</sms>
 
 He hit ENTER.
 
@@ -869,27 +869,27 @@ Two hundred miles away, at 7,000 feet, the effect was surgical and instantaneous
 
 Ten seconds later, a reply box popped up over Johnny’s terminal window. It was from Sarah, the twenty-year-old cousin who managed his guardianship paperwork.
 
-\[SYSTEM ALERT from S_FOSTER\]: What?! Johnny, Victoria is looking at the Guardian ad Litem paperwork right now! Where is the facility?!
+> **[SYSTEM ALERT from S_FOSTER]:** <sms>What?! Johnny, Victoria is looking at the Guardian ad Litem paperwork right now! Where is the facility?!</sms>
 
 Johnny typed furiously, his trembling fingers slipping on the keys, fighting the agonizing brain fog.
 
-q-send \[S_FOSTER\] The paperwork is fake. I am not in Anacortes. The moment Victoria drove away, Vanessa forced me onto a ferry. I am in Friday Harbor. I am trapped on the island.
+> **q-send [S_FOSTER]:** <sms>The paperwork is fake. I am not in Anacortes. The moment Victoria drove away, Vanessa forced me onto a ferry. I am in Friday Harbor. I am trapped on the island.</sms>
 
 A fifteen-second pause. Johnny could almost feel the sheer, unadulterated terror and rage erupting inside the Keep.
 
-\[SYSTEM ALERT from S_FOSTER\]: FRIDAY HARBOR?! Johnny, my god. Victoria is mobilizing the heavy transport. We are coming to the island. Lock yourself in a room.
-
-q-send \[S_FOSTER\] NO. Do not come to the apartment. The air here is wrong. My chest hurts. I cannot stay here. I am leaving now. There is a ferry leaving Friday Harbor at 10:55 AM. It arrives in Anacortes at 12:05. I am rolling myself onto that boat. Meet me on the mainland.
-
-\[SYSTEM ALERT from S_FOSTER\]: Johnny, are you sure you have the strength to make it to the terminal?
-
-q-send \[S_FOSTER\] Yes. But I need ticket money.
-
-\[SYSTEM ALERT from S_FOSTER\]: Done. Transferring \$100 to your debit card right now from the Trust. Give me ten seconds... Okay, it's cleared. Johnny, please. If she catches you...
-
-q-send \[S_FOSTER\] She will not. Tell Amanda to bring the breathing machine. I love you, Sarah. I am coming home.
-
-\[SYSTEM ALERT from S_FOSTER\]: We will be waiting at the dock. Go.
+> **[SYSTEM ALERT from S_FOSTER]:** <sms>FRIDAY HARBOR?! Johnny, my god. Victoria is mobilizing the heavy transport. We are coming to the island. Lock yourself in a room.</sms>
+>
+> **q-send [S_FOSTER]:** <sms>NO. Do not come to the apartment. The air here is wrong. My chest hurts. I cannot stay here. I am leaving now. There is a ferry leaving Friday Harbor at 10:55 AM. It arrives in Anacortes at 12:05. I am rolling myself onto that boat. Meet me on the mainland.</sms>
+>
+> **[SYSTEM ALERT from S_FOSTER]:** <sms>Johnny, are you sure you have the strength to make it to the terminal?</sms>
+>
+> **q-send [S_FOSTER]:** <sms>Yes. But I need ticket money.</sms>
+>
+> **[SYSTEM ALERT from S_FOSTER]:** <sms>Done. Transferring \$100 to your debit card right now from the Trust. Give me ten seconds... Okay, it's cleared. Johnny, please. If she catches you...</sms>
+>
+> **q-send [S_FOSTER]:** <sms>She will not. Tell Amanda to bring the breathing machine. I love you, Sarah. I am coming home.</sms>
+>
+> **[SYSTEM ALERT from S_FOSTER]:** <sms>We will be waiting at the dock. Go.</sms>
 
 Johnny killed the connection sequence. He pulled the black RJ-11 cable from his laptop and shoved it back under the cushion. He needed to leave zero digital footprint.
 
@@ -2353,9 +2353,9 @@ Johnny offered a small, exhausted blink of acknowledgment. Emma slipped out the 
 
 Amanda sat up, reaching over to the nightstand. She pulled open her own laptop, tapping into the localized Vance-Whitaker network. She pulled up the secure chat window she shared with the Co-Guardians.
 
-\[A_VANCE\]: *Initiating lockdown. Johnny is tapped out. When you two come up for the night, please observe strict acoustic protocols. Do not wake him.*
-
-\[S_FOSTER\]: *Copy that. We are wrapping up the federal dossier now. We will be ghosts.*
+> **[A_VANCE]:** <sms>Initiating lockdown. Johnny is tapped out. When you two come up for the night, please observe strict acoustic protocols. Do not wake him.</sms>
+>
+> **[S_FOSTER]:** <sms>Copy that. We are wrapping up the federal dossier now. We will be ghosts.</sms>
 
 Amanda closed the laptop. She turned back to Johnny, offering a gentle, tired smile. "Alright, kid. Let's get you squared away."
 
@@ -2457,11 +2457,11 @@ Morgan hung up the receiver. She didn't panic. The Keep was built to survive his
 
 Johnny watched as Morgan pulled up the secure, localized Quantum OS chat interface. She didn't use standard email. She used the priority command terminal to ping Victoria Vance directly in the Owner's Quarters.
 
-q-send /domain:VANCE_WHITAKER \[V_VANCE\] *Priority Telemetry Update. NWS Seattle confirms Gulf of Alaska low-pressure stall. PK-7015 registering elevated temps. We are tracking the formation of a Pineapple Express. Monitor the 30-day models closely. Ensure all government and family partners are kept informed. This one has the potential to be a structural threat to the Gala timeline.*
+> **q-send /domain:VANCE_WHITAKER [V_VANCE]:** <sms>Priority Telemetry Update. NWS Seattle confirms Gulf of Alaska low-pressure stall. PK-7015 registering elevated temps. We are tracking the formation of a Pineapple Express. Monitor the 30-day models closely. Ensure all government and family partners are kept informed. This one has the potential to be a structural threat to the Gala timeline.</sms>
 
 Ten seconds later, the dialogue box chimed as Victoria replied from three floors above them.
 
-\[SYSTEM ALERT from V_VANCE\]: *Acknowledged. Log the data. Do not adjust the Gala schedule yet, but inform Diana to put the dry-goods suppliers on standby. We hold the line.*
+> **[SYSTEM ALERT from V_VANCE]:** <sms>Acknowledged. Log the data. Do not adjust the Gala schedule yet, but inform Diana to put the dry-goods suppliers on standby. We hold the line.</sms>
 
 Morgan closed the terminal. She looked over at Johnny, her eyes fierce and entirely focused.
 
@@ -2799,13 +2799,13 @@ Johnny pulled up the localized Quantum OS chat interface. He bypassed his own te
 
 Morgan pulled her keyboard closer. She didn't type an update. She typed a war declaration.
 
-q-send /domain:VANCE_WHITAKER \[V_VANCE\] *Priority Override. WSDOT Seattle backchannel confirms 30-day model collapse. Imminent collision of tropical moisture and arctic freeze directly over the Keep. SR-20 closure timeline severely compromised. WSDOT guarantees zero open-asphalt access by late October.*
+> **q-send /domain:VANCE_WHITAKER [V_VANCE]:** <sms>Priority Override. WSDOT Seattle backchannel confirms 30-day model collapse. Imminent collision of tropical moisture and arctic freeze directly over the Keep. SR-20 closure timeline severely compromised. WSDOT guarantees zero open-asphalt access by late October.</sms>
 
 Morgan paused for a split second, looking over at Johnny. He gave her a single, firm nod.
 
 She added the final, devastating recommendation to the Matriarch.
 
-*Recommendation: The Halloween timeline is dead. Prepare to compress the Centennial Gala operations immediately.*
+> <sms>Recommendation: The Halloween timeline is dead. Prepare to compress the Centennial Gala operations immediately.</sms>
 
 Morgan hit enter.
 
@@ -2819,7 +2819,7 @@ Morgan’s fingers had barely left the mechanical keyboard when the localized Qu
 
 Victoria did not type a measured, administrative response. The Matriarch’s reply was instantaneous and absolute.
 
-\[SYSTEM ALERT from V_VANCE\]: *I am coming down to the engineering bay. Right now. I am bringing Diana and Emma.*
+> **[SYSTEM ALERT from V_VANCE]:** <sms>I am coming down to the engineering bay. Right now. I am bringing Diana and Emma.</sms>
 
 Morgan exhaled a long, steady breath, reaching up to rub the grease from her forehead. She looked over at Johnny, who was already running automated predictive models on the B.C. arctic front on his secondary screen.
 
@@ -3422,13 +3422,7 @@ This was the kill shot.
 
 Victoria opened a direct, secure transmission line to the San Juan County Prosecutor’s Office and the Friday Harbor Sheriff’s Department.
 
-The criminal referral she drafted was a masterpiece of legal destruction. She didn't use emotional language. She used the cold, terrifying math of the Revised Code of Washington.
-
-- *Count 1: Felony Sexual Abuse of a Vulnerable Adult in the First Degree.* (Citing Johnny’s medical impossibility to provide legal consent).
-
-- *Count 2: Felony Criminal Mistreatment and Abandonment.* (Attaching the Bellingham hotel receipts gathered by her private investigators, proving Vanessa left him alone on the island).
-
-- *Count 3: First-Degree Extortion and Fraud.* (Attaching the forged Quantum XN prospectus).
+The criminal referral she drafted was a masterpiece of legal destruction. She didn't use emotional language. She used the cold, terrifying math of the Revised Code of Washington, laying out three ironclad felony counts in sequence: Count One, Felony Sexual Abuse of a Vulnerable Adult in the First Degree, citing Johnny’s documented medical impossibility of providing legal consent; Count Two, Felony Criminal Mistreatment and Abandonment, backed by the Bellingham hotel receipts her private investigators had pulled proving Vanessa had left him alone on the island; and Count Three, First-Degree Extortion and Fraud, anchored directly to the forged Quantum XN prospectus.
 
 Victoria compiled the fifty-page dossier. It contained everything a prosecutor needed to secure a conviction without ever having to put Johnny on a witness stand. It was a handed-down, fully funded, wrapped-in-a-bow felony indictment.
 
