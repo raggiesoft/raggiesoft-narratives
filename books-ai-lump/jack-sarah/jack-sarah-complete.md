@@ -1080,7 +1080,7 @@ The hospital room was no longer a space of tense, quiet dread. This evening, two
 
 Jack sat on the pull-out sofa, a quiet observer, a small smile on his face. He watched Sarah. She wasn't lying in the bed, lost in a meltdown or hooked up to tubes. She was sitting in the visitor's chair, dressed in her own comfortable sweatpants and a t-shirt Jermaine had brought from home. There was no oxygen tube, no IV pole. In her lap was a dinner tray with what passed for a real meal: baked chicken, rice, and green beans.
 
-Devin was in the middle of telling a funny story about a customer at his office, and Sarah was laughing. Her laugh was still a little rough, her voice still carrying a hint of a rasp, but it was *her* laugh. Molly and Clare were squeezed into the other chair, showing her pictures on a phone. Sam sat near the window, a look of profound, contented relief on his face.
+Devin was in the middle of telling a funny story about a customer at his office, and Sarah was laughing. Her laugh was still a little rough, her voice still carrying a hint of a rasp, but it was *her* laugh. Molly and Clare were squeezed into the other chair, showing her pictures on a phone. Sam sat near the window, a look of profound, contented relief on his face.
 
 This was the scene Jack had been desperately hoping for. Sarah was back.
 
@@ -1782,7 +1782,7 @@ Jack didn’t respond. He just watched her, his mind a battlefield between memor
 
 “You were right to leave,” Delores continued, her voice gaining a slight tremor. “I was completely out of line. I scared you. I am so, so sorry.” Her eyes looked shiny. “The truth is,” she leaned in slightly, “I just got out of a really... controlling relationship. A guy who... he tried to isolate me, didn't like me having friends...”
 
-Sarah’s eyes narrowed. *A controlling ex? How convenient.* The story sounded like a perfectly crafted script.
+Sarah’s eyes narrowed. *A controlling ex? How convenient.* The story sounded like a perfectly crafted script.
 
 Delores focused back on Jack. “When we were talking, you were just so kind, and I haven’t felt that comfortable with someone in a long time. I completely misread everything and got carried away. That’s not who I am.”
 
@@ -3218,7 +3218,7 @@ She looked up, her expression a mixture of impatience and defiance. "What?"
 
 "On Jack's behalf," Jermaine continued, his gaze unwavering, "I need to tell you that your relationship is over. He's made it clear that he does not want to see you again. He has asked that you not return to his room after this.”
 
-Delores stared at him, her face slack with disbelief for a second before it hardened into a mask of pure rage. "You can't be serious," she hissed, getting to her feet. "You can't do that! He's in surgery! He's scared! He needs *me*!" 
+Delores stared at him, her face slack with disbelief for a second before it hardened into a mask of pure rage. "You can't be serious," she hissed, getting to her feet. "You can't do that! He's in surgery! He's scared! He needs *me*!" 
 
 Jermaine stepped forward, his voice low and devoid of any warmth, cutting her off before Devin could even speak. "No," he said, his gaze unwavering. "He needs his family. And let me tell you something else, young lady, something everyone in this family knows perfectly well. When my son wakes up from this surgery, if only one person is allowed in that room, it won't be me, his own father. The first face he is going to want to see is Sarah's. His sister."
 
@@ -3712,11 +3712,11 @@ Just then, both of their phones buzzed with an identical, sharp alert tone. Ther
 
 #### 8:15 AM — A Visitor in the Storm
 
-The first flakes of the impending blizzard had just begun to fall as **Mandy** rushed her grandmother into the emergency room at **Tidewater General**. After getting her grandmother settled, a process that took over an hour, Mandy looked out the window. The gentle flurry had transformed into a thick, swirling curtain of white. The roads were already disappearing.
+The first flakes of the impending blizzard had just begun to fall as Mandy rushed her grandmother into the emergency room at Tidewater General. After getting her grandmother settled, a process that took over an hour, Mandy looked out the window. The gentle flurry had transformed into a thick, swirling curtain of white. The roads were already disappearing.
 
-She knew she wasn't going anywhere. A wave of exhaustion and frustration washed over her. Then she remembered **Melissa's** text from earlier: **Jack Bennett** was here, in this very hospital, recovering in the cardiac wing.
+She knew she wasn't going anywhere. A wave of exhaustion and frustration washed over her. Then she remembered Melissa's text from earlier: Jack Bennett was here, in this very hospital, recovering in the cardiac wing.
 
-On a whim, she decided to seek out a friendly face in the middle of the storm. She found his room number at the main information desk and made her way up. A soft, hesitant knock at the door made **Jack** and **Sarah** look up.
+On a whim, she decided to seek out a friendly face in the middle of the storm. She found his room number at the main information desk and made her way up. A soft, hesitant knock at the door made Jack and Sarah look up.
 
 "Mandy?" Jack said, his voice a weak, surprised rasp. "What are you doing here?"
 
@@ -3868,11 +3868,11 @@ The conversation continued for a few more minutes, filled with love and encourag
 
 #### 2:30 PM • Jack Bennett — The Anthem of Aethel 🎶
 
-The second full day of being snowbound in the **Tidewater General Heart Hospital** had settled into a quiet, monotonous rhythm. The blizzard still raged outside. True to her word, **Mandy** had returned, a welcome visitor bringing a deck of cards and stories from the hospital waiting room where she was camping out. The three of them were a small, comfortable island in the middle of the storm.
+The second full day of being snowbound in the Tidewater General Heart Hospital had settled into a quiet, monotonous rhythm. The blizzard still raged outside. True to her word, Mandy had returned, a welcome visitor bringing a deck of cards and stories from the hospital waiting room where she was camping out. The three of them were a small, comfortable island in the middle of the storm.
 
-"I'm so bored," **Jack** announced from his bed, breaking a long, comfortable silence.
+"I'm so bored," Jack announced from his bed, breaking a long, comfortable silence.
 
-"Want to watch a movie?" **Sarah** asked from the pull-out sofa, already knowing the answer.
+"Want to watch a movie?" Sarah asked from the pull-out sofa, already knowing the answer.
 
 A slow smile spread across Jack's face. "You know which one."
 
@@ -3898,7 +3898,7 @@ He sang the second verse, but as the powerful chorus began again, something shif
 
 A sister's love, a burning light…
 
-He looked at Sarah, truly saw her sitting there, his unwavering protector. She *was* the burning light. The song wasn't about Kaelan and Kaela anymore. It was about him. It was about how his sister's platonic, unconditional love was the force that had truly rescued him from Delores.
+He looked at Sarah, truly saw her sitting there, his unwavering protector. She *was* the burning light. The song wasn't about Kaelan and Kaela anymore. It was about him. It was about how his sister's platonic, unconditional love was the force that had truly rescued him from Delores.
 
 The realization was a sudden, overwhelming emotional overload. His voice cracked, and he stopped singing abruptly. The joy on his face crumpled, replaced by a look of raw, dawning anguish. A choked sob escaped him, his body beginning to tremble.
 
@@ -3920,23 +3920,23 @@ He discreetly checked the monitors, saw that Jack's heart rate was elevated but 
 
 Jack clung to his sister, his other hand gripping Mandy's. He cried for the fear he had felt, for the relief of being free, and for the profound love of the two kind, gentle women who were, in that moment, his unwavering anchors in the storm. It was the first crack in his wall, a surprising, terrifying, and profoundly healing moment of trust.
 
-The nurse, David, seeing that the situation was emotional, not medical, and that **Jack** was in the capable, loving hands of his sister, gave a final, reassuring nod. "You're in good hands," he said softly, and then he quietly slipped out of the room, leaving the three of them in the raw, intimate space he had created.
+The nurse, David, seeing that the situation was emotional, not medical, and that Jack was in the capable, loving hands of his sister, gave a final, reassuring nod. "You're in good hands," he said softly, and then he quietly slipped out of the room, leaving the three of them in the raw, intimate space he had created.
 
-The moment the door clicked shut, the last of Jack's fragile control shattered. The sob that had been choked in his throat broke free, a wave of pure, overwhelming anguish and relief. He clung to **Sarah**, his body shaking with the force of his emotions. The ability to form words was gone, stolen by the sheer, overwhelming force of the emotional and sensory overload. **He was experiencing situational mutism, a familiar and terrifying part of his autism**.
+The moment the door clicked shut, the last of Jack's fragile control shattered. The sob that had been choked in his throat broke free, a wave of pure, overwhelming anguish and relief. He clung to Sarah, his body shaking with the force of his emotions. The ability to form words was gone, stolen by the sheer, overwhelming force of the emotional and sensory overload. He was experiencing situational mutism, a familiar and terrifying part of his autism.
 
 He tried to tell her how scared he had been, how relieved he was, but all that came out were raw, ragged sobs muffled in his sister's shoulder.
 
 "I know," she murmured, her own voice thick with tears as she held him, understanding his unspoken pain. "I know. But it's over now. You're safe."
 
-But in the middle of his silent, emotional storm, one clear, terrifying, and undeniable thought cut through the chaos: *I need Mandy to hold me, too.* It was an impulse that went against every rule of self-preservation he had built since Delores. It made no sense. But it was there, a desperate, undeniable need.
+But in the middle of his silent, emotional storm, one clear, terrifying, and undeniable thought cut through the chaos: *I need Mandy to hold me, too.* It was an impulse that went against every rule of self-preservation he had built since Delores. It made no sense. But it was there, a desperate, undeniable need.
 
-He pulled back from Sarah just enough to look past her, his eyes, swimming with tears, finding **Mandy's**. She was standing a few feet away, her own face streaked with empathetic tears, looking like she wanted to run to him but was frozen by a deep respect for their sibling bond.
+He pulled back from Sarah just enough to look past her, his eyes, swimming with tears, finding Mandy's. She was standing a few feet away, her own face streaked with empathetic tears, looking like she wanted to run to him but was frozen by a deep respect for their sibling bond.
 
 He couldn't speak. He couldn't form the words. So he just held out his free hand to her, a clear, desperate, and silent invitation.
 
 That was all she needed. She was there in an instant, taking his hand, her other hand coming to rest gently on his arm. Sarah, seeing her brother's silent plea, didn't pull away. Instead, she adjusted her own hold, making space for their friend, a silent gesture of acceptance.
 
-Jack looked from Sarah to Mandy, his expression a mask of pure, pleading vulnerability. He gently pulled on both of their hands, a clear, unspoken request: *Both of you. I need both of you to hold me. Please.*
+Jack looked from Sarah to Mandy, his expression a mask of pure, pleading vulnerability. He gently pulled on both of their hands, a clear, unspoken request: *Both of you. I need both of you to hold me. Please.*
 
 And they did. Carefully, mindful of his surgical incision, Sarah and Mandy enveloped him in a double-sided hug, a cocoon of pure, uncomplicated comfort and support. Jack buried his face in his sister's shoulder and just cried, his other hand gripping Mandy's arm as if she were a lifeline.
 
@@ -4412,9 +4412,9 @@ The three girls exchanged a quick, puzzled look. Jack had never asked for captio
 
 #### 2:00 PM • Jack Bennett — A Collector's Edition
 
-The familiar, cheesy score of **"The Silver Gauntlet of Aethel"** filled the living room, a comforting soundtrack to a quiet afternoon of recovery. **Jack**, still nestled on the sofa with his head in **Sarah’s** lap, was completely absorbed in the movie, a bowl of bland, heart-healthy popcorn resting on his stomach. The water in his glass was a constant, bland reminder of his new reality, but for now, it didn’t matter. He was home, he was safe, and he was with his favorite people.
+The familiar, cheesy score of "The Silver Gauntlet of Aethel" filled the living room, a comforting soundtrack to a quiet afternoon of recovery. Jack, still nestled on the sofa with his head in Sarah’s lap, was completely absorbed in the movie, a bowl of bland, heart-healthy popcorn resting on his stomach. The water in his glass was a constant, bland reminder of his new reality, but for now, it didn’t matter. He was home, he was safe, and he was with his favorite people.
 
-The front door opened, and **Jermaine** and **Devin** arrived home from work, their tired expressions immediately softening as they took in the peaceful scene in the living room. From the kitchen, the savory aroma of baked salmon and roasted asparagus wafted through the house, a testament to **Grandpa Sam's** commitment to their new, heart-healthy lifestyle.
+The front door opened, and Jermaine and Devin arrived home from work, their tired expressions immediately softening as they took in the peaceful scene in the living room. From the kitchen, the savory aroma of baked salmon and roasted asparagus wafted through the house, a testament to Grandpa Sam's commitment to their new, heart-healthy lifestyle.
 
 "Don't get up," Jermaine said softly as he passed the sofa, dropping a gentle kiss on Sarah's head.
 
@@ -4422,11 +4422,11 @@ Devin, however, had a mischievous glint in his eye. "Don't pause it," he whisper
 
 He disappeared for a moment and returned holding a large, beautifully designed box. On the cover, in gleaming silver foil, was the iconic Gauntlet of Aethel.
 
-The four cousins gasped in unison. "No way," **Clare** breathed.
+The four cousins gasped in unison. "No way," Clare breathed.
 
 "Happy 'Jack's Home' day," Devin said with a grin. "I saw it at the store and I couldn't resist. It's the 20th Anniversary Limited Collector's Edition".
 
-He handed the box to **Molly**, who carefully opened it on the coffee table. Inside was a treasure trove for any fan. There was a rolled-up, limited-edition poster featuring the film's iconic, epic painted artwork. There was a sheet of high-quality stickers with beautifully drawn images of all the main characters. And there was a two-disc DVD case. One disc was a beautifully cleaned-up and digitally restored version of the film. The other, labeled "Bonus Features," promised behind-the-scenes documentaries, interviews with the cast, and deleted scenes.
+He handed the box to Molly, who carefully opened it on the coffee table. Inside was a treasure trove for any fan. There was a rolled-up, limited-edition poster featuring the film's iconic, epic painted artwork. There was a sheet of high-quality stickers with beautifully drawn images of all the main characters. And there was a two-disc DVD case. One disc was a beautifully cleaned-up and digitally restored version of the film. The other, labeled "Bonus Features," promised behind-the-scenes documentaries, interviews with the cast, and deleted scenes.
 
 Jack's eyes went wide, a pure, unadulterated joy lighting up his face that had been absent for weeks. His exhaustion was momentarily forgotten, replaced by the fire of a true fan. He carefully shifted his weight, engaging his core muscles to sit up a little straighter against the pillows, avoiding any strain on his arms or chest. "The bonus disc!" he exclaimed, his voice full of excitement. "Are there deleted scenes? We have to watch it. As soon as this is over, we are watching the bonus features".
 
@@ -4444,51 +4444,51 @@ Clare picked up the sticker sheet. "Okay, dibs on the Shadow Sorcerer!" she said
 
 #### 6:00 PM • Jack Bennett — Dinner and Bonus Features
 
-The familiar, cheesy score of **"The Silver Gauntlet of Aethel"** faded out, and the credits began to roll on the living room television. The four cousins, huddled together on the sofa, let out a collective, contented sigh.
+The familiar, cheesy score of "The Silver Gauntlet of Aethel" faded out, and the credits began to roll on the living room television. The four cousins, huddled together on the sofa, let out a collective, contented sigh.
 
-"Okay, movie's over," **Molly** announced, her voice full of a sudden, focused energy. "Time for Phase Two."
+"Okay, movie's over," Molly announced, her voice full of a sudden, focused energy. "Time for Phase Two."
 
-She hopped off the sofa and went to the entertainment center. She carefully ejected the original edition DVD of their favorite movie and replaced it with the second disc from the new Limited Collector's Edition that **Devin** had brought home. The TV screen flickered, and a new, elaborate menu for the bonus features appeared.
+She hopped off the sofa and went to the entertainment center. She carefully ejected the original edition DVD of their favorite movie and replaced it with the second disc from the new Limited Collector's Edition that Devin had brought home. The TV screen flickered, and a new, elaborate menu for the bonus features appeared.
 
-"Right to the 'Making Of' documentary?" **Clare** asked, already knowing the answer.
+"Right to the 'Making Of' documentary?" Clare asked, already knowing the answer.
 
-"Without question," **Jack** confirmed from his comfortable spot on the sofa, a wide, happy grin on his face.
+"Without question," Jack confirmed from his comfortable spot on the sofa, a wide, happy grin on his face.
 
-As Molly navigated to the documentary, **Jermaine** and Devin emerged from the kitchen, their faces flushed with the warmth of the stove. "Alright, you four," Jermaine said, "dinner is almost ready. We could use a hand setting the table."
+As Molly navigated to the documentary, Jermaine and Devin emerged from the kitchen, their faces flushed with the warmth of the stove. "Alright, you four," Jermaine said, "dinner is almost ready. We could use a hand setting the table."
 
 "On it," Sarah and Clare said in unison, heading for the dining room.
 
 The next two hours were a comfortable, chaotic, and happy blur. The fascinating, two-hour-long "Making Of" documentary played on the television, providing a running commentary of behind-the-scenes trivia that the four cousins absorbed with rapt attention.
 
-In the middle of it, dinner was served. **Sam**, Jermaine, and Devin brought plates from the kitchen and served everyone in the living room, a picnic-style meal so they wouldn't have to stop the documentary. The heart-healthy baked salmon, roasted asparagus, and brown rice was simple, but delicious.
+In the middle of it, dinner was served. Sam, Jermaine, and Devin brought plates from the kitchen and served everyone in the living room, a picnic-style meal so they wouldn't have to stop the documentary. The heart-healthy baked salmon, roasted asparagus, and brown rice was simple, but delicious.
 
 Jack took a bite of the salmon. It was good, cooked perfectly. But as he chewed, he realized something. He didn't *love* it. He appreciated the effort, the healthiness of it, but the flavor just wasn't for him. He dutifully ate every bite on his plate, a quiet act of respect for his family's effort.
 
 After dinner, as he was handing his empty plate to his father, he made a quiet decision. "Dad," he said, his voice a little hesitant. "The salmon was really good. Thank you. But... I don't think I'm a big fan of it. Maybe next time we could try something else?"
 
-Jermaine smiled, a look of profound, gentle understanding on his face. "Of course, son. You tried it, and that's all that matters. There are plenty of other healthy things we can make." He glanced at Sarah and Molly, a silent, knowing look passing between them. They were all thinking the same thing. Jack, even in his recovery and with his new, restricted diet, had politely eaten a meal he didn't particularly like without a single complaint. The contrast to **Delores**, who would have looked at the plate, declared it disgusting, and refused to even touch it, was a stark and powerful reminder of the kind, gentle, and respectful young man he was. It was a small moment, but it was a perfect encapsulation of why they all loved him so much.
+Jermaine smiled, a look of profound, gentle understanding on his face. "Of course, son. You tried it, and that's all that matters. There are plenty of other healthy things we can make." He glanced at Sarah and Molly, a silent, knowing look passing between them. They were all thinking the same thing. Jack, even in his recovery and with his new, restricted diet, had politely eaten a meal he didn't particularly like without a single complaint. The contrast to Delores, who would have looked at the plate, declared it disgusting, and refused to even touch it, was a stark and powerful reminder of the kind, gentle, and respectful young man he was. It was a small moment, but it was a perfect encapsulation of why they all loved him so much.
 
 ***
 
 #### 6:00 PM • Jack Bennett — A Sanctuary Decorated
 
-After saying their goodnights to **Sam**, **Devin**, and **Jermaine**, the four cousins retreated to the quiet sanctuary of **The Quad**. The energy from their shared dinner and the excitement over the new bonus features DVD still lingered, a warm and happy buzz.
+After saying their goodnights to Sam, Devin, and Jermaine, the four cousins retreated to the quiet sanctuary of The Quad. The energy from their shared dinner and the excitement over the new bonus features DVD still lingered, a warm and happy buzz.
 
-**Sarah** carefully took the new, limited-edition poster of **"The Silver Gauntlet of Aethel"** and began to roll it back up. "I'll find the perfect spot for this tomorrow," she promised, her voice full of affection.
+Sarah carefully took the new, limited-edition poster of "The Silver Gauntlet of Aethel" and began to roll it back up. "I'll find the perfect spot for this tomorrow," she promised, her voice full of affection.
 
-But as she started to secure it, she saw the look on **Jack's** face. It was a quiet, hopeful, almost pleading expression. She stopped, a knowing smile touching her lips. "You want it up now, don't you?"
+But as she started to secure it, she saw the look on Jack's face. It was a quiet, hopeful, almost pleading expression. She stopped, a knowing smile touching her lips. "You want it up now, don't you?"
 
 Jack just gave a small, eager nod. The thought of having the heroes of his favorite story watching over them on their very first night with it was a comfort he deeply wanted.
 
 "Okay," Sarah laughed softly. "Now it is."
 
-**Molly**, ever the logician, was already a step ahead. "We'll need tape," she announced, heading over to a desk drawer where they had been organizing their school supplies. She returned a moment later with a roll of clear packing tape.
+Molly, ever the logician, was already a step ahead. "We'll need tape," she announced, heading over to a desk drawer where they had been organizing their school supplies. She returned a moment later with a roll of clear packing tape.
 
-The three women worked together with a seamless, practiced efficiency. They unrolled the poster, and with Molly and **Clare** holding the bottom corners taut, Sarah stood carefully on the edge of the massive **Alaskan King bed** to position the top. They centered it perfectly on the large, open wall space just above the headboard. A few strips of tape later, the epic, painted artwork of Kaelan and Kaela was officially installed, the first and most important piece of decoration in their new home.
+The three women worked together with a seamless, practiced efficiency. They unrolled the poster, and with Molly and Clare holding the bottom corners taut, Sarah stood carefully on the edge of the massive Alaskan King bed to position the top. They centered it perfectly on the large, open wall space just above the headboard. A few strips of tape later, the epic, painted artwork of Kaelan and Kaela was officially installed, the first and most important piece of decoration in their new home.
 
 With their sanctuary now properly watched over, the four of them began the quiet, comfortable routine of getting ready for bed. Jack, still on strict sternal precautions, needed help. The three women assisted him without a word of complaint, their movements full of a gentle, practical love. They helped him get changed into his pajamas and made sure he was able to use the toilet one last time before the long night.
 
-Soon, all four of them were in their pajamas, and one by one, they climbed into the magnificent bed. They settled into their now-established arrangement: **Molly** on the far left, then Jack, then Sarah, and finally Clare on the far right, a perfect, protective bookend of twins around the two siblings.
+Soon, all four of them were in their pajamas, and one by one, they climbed into the magnificent bed. They settled into their now-established arrangement: Molly on the far left, then Jack, then Sarah, and finally Clare on the far right, a perfect, protective bookend of twins around the two siblings.
 
 Jack lay back against his pillows, a profound sense of peace and contentment washing over him. He was cocooned, physically and emotionally, by the three women he trusted more than anyone in the world. He was in a bed large enough for them all, in a room that was truly theirs, with the heroes of his favorite story watching over him from the wall. He was safe. The hugs he would get here were safe, not just for his healing chest, but for his healing heart. They were hugs from his family, not from a predator like Delores. He was finally, truly ready to rest.
 
@@ -4586,13 +4586,13 @@ Jack lay back, feeling lighter than he had in months. The predator's logic had b
 
 #### 9:00 AM • Jack Bennett — The Windsor Woods Realization
 
-The next day, the new Bennett family home was a little quieter. **Sarah**, with a mix of reluctance and professional duty, had gone back to work at **Fairlawn** for her first full day since Jack's surgery. **Jermaine**, **Devin**, and **Molly** were also at their jobs. This left **Clare**, who had the day off, and **Grandpa Sam** as Jack's primary support crew.
+The next day, the new Bennett family home was a little quieter. Sarah, with a mix of reluctance and professional duty, had gone back to work at Fairlawn for her first full day since Jack's surgery. Jermaine, Devin, and Molly were also at their jobs. This left Clare, who had the day off, and Grandpa Sam as Jack's primary support crew.
 
-After a quiet morning, a familiar restlessness began to stir in **Jack**. The adrenaline-fueled walk at Fairlawn a few days prior, while a massive emotional victory, had left him feeling deeply sore and exhausted. He knew he had overdone it, but the need to keep moving, to keep fighting, was a powerful force. "I want to try walking again," he announced.
+After a quiet morning, a familiar restlessness began to stir in Jack. The adrenaline-fueled walk at Fairlawn a few days prior, while a massive emotional victory, had left him feeling deeply sore and exhausted. He knew he had overdone it, but the need to keep moving, to keep fighting, was a powerful force. "I want to try walking again," he announced.
 
 The weather outside was sunny but bitterly cold, ruling out a walk around the neighborhood.
 
-"Well," Grandpa Sam said, looking up from his newspaper. "I was about to head to the gym for a workout. Why don't you two come with me? We can go to the **Windsor Woods Rec Center**. It's much closer to the new house, and you can walk the main hallway there".
+"Well," Grandpa Sam said, looking up from his newspaper. "I was about to head to the gym for a workout. Why don't you two come with me? We can go to the Windsor Woods Rec Center. It's much closer to the new house, and you can walk the main hallway there".
 
 Jack's face lit up. "Yeah! A new rec center. I'd like that".
 
@@ -4616,15 +4616,15 @@ He sank onto a nearby bench, the strength gone from his legs, his heart pounding
 
 #### 9:15 AM • Jack Bennett — The Long Walk Home
 
-The front desk clerk at the gleaming Windsor Woods counter looked up, her professional smile faltering as she saw **Jack's** sudden distress. "Is everything alright over there?" she called out, her voice full of genuine concern. "Do you need any assistance?".
+The front desk clerk at the gleaming Windsor Woods counter looked up, her professional smile faltering as she saw Jack's sudden distress. "Is everything alright over there?" she called out, her voice full of genuine concern. "Do you need any assistance?".
 
-**Grandpa Sam**, who was already helping a pale and trembling Jack, looked over and gave her a grateful but firm shake of his head. "Thank you, dear, but I think we've got it," he said, making the executive decision to handle this within the family. "He just overdid it a bit".
+Grandpa Sam, who was already helping a pale and trembling Jack, looked over and gave her a grateful but firm shake of his head. "Thank you, dear, but I think we've got it," he said, making the executive decision to handle this within the family. "He just overdid it a bit".
 
 "I... I need the restroom," Jack managed to say, the simple need now feeling like a monumental task.
 
-"Of course, son," Sam said, his voice a steady, comforting rumble. He and **Clare** positioned themselves on either side of Jack, taking most of his weight. The walk to the Assisted Care restroom, just a short distance down the main hallway, was an agonizingly slow and methodical ordeal. Each step was a battle, Jack's right foot dragging uselessly, his arms shaking with the effort of holding himself up with the walker.
+"Of course, son," Sam said, his voice a steady, comforting rumble. He and Clare positioned themselves on either side of Jack, taking most of his weight. The walk to the Assisted Care restroom, just a short distance down the main hallway, was an agonizingly slow and methodical ordeal. Each step was a battle, Jack's right foot dragging uselessly, his arms shaking with the effort of holding himself up with the walker.
 
-After he had taken care of his needs, the journey back to the car was even more of a struggle. Sam and Clare practically had to carry him, their own strength straining as they navigated him out of the building and to the car. By the time they arrived back at the new house, Jack's energy was completely gone. The thought of making it all the way to his bed in **The Quad** seemed impossible.
+After he had taken care of his needs, the journey back to the car was even more of a struggle. Sam and Clare practically had to carry him, their own strength straining as they navigated him out of the building and to the car. By the time they arrived back at the new house, Jack's energy was completely gone. The thought of making it all the way to his bed in The Quad seemed impossible.
 
 "The sofa," Clare said, her voice tight with effort and worry as they helped him through the front door. "It's closer".
 
@@ -4642,9 +4642,9 @@ Jack took a shaky breath, his voice weak but clear. "Hi, Linda," he said. "This 
 
 #### 9:30 AM • Clare Bennett — The Sister-Shield
 
-The house was quiet for a long time after the call. **Jack**, utterly spent from the physical and emotional ordeal, dozed fitfully, his head still resting in **Clare's** lap on the sofa. **Grandpa Sam** sat in his armchair, the grim, worried look never leaving his face.
+The house was quiet for a long time after the call. Jack, utterly spent from the physical and emotional ordeal, dozed fitfully, his head still resting in Clare's lap on the sofa. Grandpa Sam sat in his armchair, the grim, worried look never leaving his face.
 
-A little while later, the front door opened, and **Molly** walked in, home from work. She took one look at the scene in the living room—her twin sister on the sofa, her cousin pale and asleep in Clare's lap, her grandfather looking grave—and her own cheerful demeanor vanished.
+A little while later, the front door opened, and Molly walked in, home from work. She took one look at the scene in the living room—her twin sister on the sofa, her cousin pale and asleep in Clare's lap, her grandfather looking grave—and her own cheerful demeanor vanished.
 
 "What happened?" she asked, her voice a low, urgent whisper as she dropped her bag and rushed over.
 
@@ -4658,11 +4658,11 @@ Gently, carefully, the two twins began to shift. They slid Jack's legs, mindful 
 
 #### 9:00 PM • Jack Bennett — A New Kind of Housebound
 
-The days following the disastrous walk at Windsor Woods were a blur of quiet, difficult adjustments. The severe flare-up of **Jack's** Charcot-Marie-Tooth disease did not subside. His right foot remained a useless, heavy appendage, and the weakness in his legs was profound. The walker now sat untouched in a corner; it was no longer enough.
+The days following the disastrous walk at Windsor Woods were a blur of quiet, difficult adjustments. The severe flare-up of Jack's Charcot-Marie-Tooth disease did not subside. His right foot remained a useless, heavy appendage, and the weakness in his legs was profound. The walker now sat untouched in a corner; it was no longer enough.
 
-His world shrank to the comfortable confines of the living room sofa during the day and the massive bed in **The Quad** at night. Journeys between the two spaces were accomplished with the help of a simple transport wheelchair, with **Sarah**, **Molly**, or **Clare** providing the pushing power. The easy independence he had fought so hard to reclaim felt like a distant, mocking memory.
+His world shrank to the comfortable confines of the living room sofa during the day and the massive bed in The Quad at night. Journeys between the two spaces were accomplished with the help of a simple transport wheelchair, with Sarah, Molly, or Clare providing the pushing power. The easy independence he had fought so hard to reclaim felt like a distant, mocking memory.
 
-On a quiet Tuesday morning, a week after his return from the hospital, the doorbell rang. **Jermaine**, who was working from home in the upstairs office, came down to answer it. A moment later, a woman with a kind, professional face and a large medical bag stepped into the living room.
+On a quiet Tuesday morning, a week after his return from the hospital, the doorbell rang. Jermaine, who was working from home in the upstairs office, came down to answer it. A moment later, a woman with a kind, professional face and a large medical bag stepped into the living room.
 
 "Jack?" she said with a warm smile. "Hi, I'm Carol Miller. I'm the home health nurse assigned to you from the Heart Hospital. Just here for your first post-op check-in. How are you feeling?"
 
@@ -4706,17 +4706,17 @@ Jack looked at the nurse, then at his sister, and felt a fragile sliver of hope.
 
 #### 2:00 PM — A Delayed Rejection
 
-**Jack** listened as **Emily**, the kind patron from his high school days, finished her question.
+Jack listened as Emily, the kind patron from his high school days, finished her question.
 
 "I was wondering," she said, her smile genuine, "if you might like to get a hot chocolate sometime? There's that nice little cafe down the road."
 
-The words hung in the air, polite and direct. But for Jack, they were like a sudden, blinding spotlight. He could feel the eyes of the other patrons. He could feel **Mandy's** gaze from the register beside him. But Mandy's gaze wasn't a source of anxiety anymore; it was the steady, comforting presence of a trusted friend. His autistic brain, desperate to find the "correct" social script for a gentle but firm refusal, still began running a million disastrous simulations at once.
+The words hung in the air, polite and direct. But for Jack, they were like a sudden, blinding spotlight. He could feel the eyes of the other patrons. He could feel Mandy's gaze from the register beside him. But Mandy's gaze wasn't a source of anxiety anymore; it was the steady, comforting presence of a trusted friend. His autistic brain, desperate to find the "correct" social script for a gentle but firm refusal, still began running a million disastrous simulations at once.
 
-He was frozen, his processor overloaded, his face a blank mask. He stared just past Emily's shoulder, unable to make eye contact, the silence stretching into an awkward, painful eternity. This was how **Delores** had trapped him—by presenting a simple question for which he had no safe, pre-written answer.
+He was frozen, his processor overloaded, his face a blank mask. He stared just past Emily's shoulder, unable to make eye contact, the silence stretching into an awkward, painful eternity. This was how Delores had trapped him—by presenting a simple question for which he had no safe, pre-written answer.
 
 *Could Emily be like Mandy?* The thought was a sudden, unexpected variable in his frantic calculations. The blizzard in the hospital had changed things. Mandy had seen him at his most vulnerable, and she had responded with nothing but kindness and respect. She had become a friend, someone outside the family wall that he knew he could trust. He looked at Emily, at her kind, open face, and for the first time, a new question entered his mind: *Could I trust her, too?* But the fear, the ingrained self-preservation from Delores, was still too strong. The risk was too great.
 
-Just as the silence was becoming truly unbearable, the sound of wet flip-flops slapping against the tile announced a welcome arrival. **Sarah** came down the massive concrete spiral ramp from the natatorium, a towel slung over her shoulder, ready for her lunch break.
+Just as the silence was becoming truly unbearable, the sound of wet flip-flops slapping against the tile announced a welcome arrival. Sarah came down the massive concrete spiral ramp from the natatorium, a towel slung over her shoulder, ready for her lunch break.
 
 "Hey, Jack," she said, her voice a cheerful, normal sound that cut through the tension like a knife. "Ready to grab some lunch? I'm starving."
 
@@ -4734,7 +4734,7 @@ And with that, she turned and walked away, leaving no drama, no guilt, no resent
 
 #### 3:00 PM — A Protector's Concern
 
-The first-floor break room at Fairlawn was a quiet, familiar sanctuary. **Jack** and **Sarah** sat at one of the small, round tables, their packed lunches spread out before them. Jack, still buzzing with a mixture of relief and residual anxiety, poked at his sandwich without really seeing it. He had escaped the immediate, terrifying social trap, but he knew the problem hadn't been solved.
+The first-floor break room at Fairlawn was a quiet, familiar sanctuary. Jack and Sarah sat at one of the small, round tables, their packed lunches spread out before them. Jack, still buzzing with a mixture of relief and residual anxiety, poked at his sandwich without really seeing it. He had escaped the immediate, terrifying social trap, but he knew the problem hadn't been solved.
 
 Sarah took a slow sip of her water, her keen, observant eyes watching her brother. She had seen the whole thing from the bottom of the ramp: Emily's hopeful expression, Jack's frozen panic, and his almost explosive relief when she had appeared. She waited a moment, letting the quiet settle before she spoke.
 
@@ -4756,7 +4756,7 @@ Jack looked at his sister, at the fierce, unconditional love in her eyes, and fe
 
 "I don't think I'm ready for new friends yet," he admitted, his voice a quiet whisper.
 
-"That's okay, too," Sarah said, her voice softening completely. She thought for a moment, a small, knowing smile touching her lips as she landed on the perfect metaphor. **"You just have to take it one step at a time, dork. Just like in the song. This is your 'Gauntlet's Path.' And right now, your 'step' is just being safe here with me, Molly, and Clare. And that's all it needs to be"**.
+"That's okay, too," Sarah said, her voice softening completely. She thought for a moment, a small, knowing smile touching her lips as she landed on the perfect metaphor. "You just have to take it one step at a time, dork. Just like in the song. This is your 'Gauntlet's Path.' And right now, your 'step' is just being safe here with me, Molly, and Clare. And that's all it needs to be".
 
 The reference to their beloved movie, to the hero's difficult but ultimately triumphant journey, was the perfect way to frame his struggle. He wasn't failing; he was just on a difficult part of his path.
 
@@ -4766,11 +4766,11 @@ Jack looked at his sister, a small, genuine smile finally breaking through his a
 
 #### 7:00 PM — The Midnight Showing
 
-The lobby of the movie theater on the evening of **March 30th, 2007**, was not packed, but it was buzzing with a palpable, electric energy. This wasn't a crowd for a normal blockbuster; this was a gathering of the faithful. It was the midnight premiere of the 20th-anniversary re-release of **"The Silver Gauntlet of Aethel,"** and only the most dedicated fans were in attendance.
+The lobby of the movie theater on the evening of March 30th, 2007, was not packed, but it was buzzing with a palpable, electric energy. This wasn't a crowd for a normal blockbuster; this was a gathering of the faithful. It was the midnight premiere of the 20th-anniversary re-release of "The Silver Gauntlet of Aethel," and only the most dedicated fans were in attendance.
 
 The small crowd was a sea of elaborate, homemade costumes. And in the middle of it all, five figures stood out, a perfect, complete set.
 
-**Jack**, in his wheelchair, was dressed as the hero, **Kaelan**, his chair cleverly decorated with faux stone and moss to resemble a rolling throne from the film. Beside him, **Sarah** was a perfect **Kaela**, her silver pendant glowing softly. **Molly**, in a long, grey robe and a wise, knowing expression, was the spitting image of the Wise Old Wizard of Sunstead. **Clare**, in a dramatic, villainous-but-comical gown, was a flawless Seraphina, the bumbling temptress. And with them, her expression one of pure, happy belonging, was **Mandy**, dressed as the Keeper of the Sunstead Archives, a deep cut that earned her appreciative nods from other hardcore fans in the lobby.
+Jack, in his wheelchair, was dressed as the hero, Kaelan, his chair cleverly decorated with faux stone and moss to resemble a rolling throne from the film. Beside him, Sarah was a perfect Kaela, her silver pendant glowing softly. Molly, in a long, grey robe and a wise, knowing expression, was the spitting image of the Wise Old Wizard of Sunstead. Clare, in a dramatic, villainous-but-comical gown, was a flawless Seraphina, the bumbling temptress. And with them, her expression one of pure, happy belonging, was Mandy, dressed as the Keeper of the Sunstead Archives, a deep cut that earned her appreciative nods from other hardcore fans in the lobby.
 
 They had invited Mandy without a second thought. She was one of them now, a part of their fellowship, a fellow fan who understood the profound importance of this night.
 
@@ -4778,7 +4778,7 @@ They had invited Mandy without a second thought. She was one of them now, a part
 
 "It's going to be epic," Sarah agreed, her eyes shining.
 
-They found their seats in the half-full theater, a perfect spot with a clear view for Jack's chair. The lights began to dim, and a reverent hush fell over the costumed crowd. The opening logos appeared, and then, the room was filled with the glorious, triumphant, and digitally restored sound of the opening synthesizer chords of **"A Sister's Love."**
+They found their seats in the half-full theater, a perfect spot with a clear view for Jack's chair. The lights began to dim, and a reverent hush fell over the costumed crowd. The opening logos appeared, and then, the room was filled with the glorious, triumphant, and digitally restored sound of the opening synthesizer chords of "A Sister's Love."
 
 A collective, heartfelt cheer went up from the audience. Jack, Sarah, Molly, Clare, and Mandy all looked at each other, their faces illuminated by the glow of the screen, and grinned. They were home.
 

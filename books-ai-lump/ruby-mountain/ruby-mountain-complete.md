@@ -1034,7 +1034,7 @@ Vanessa’s mind went entirely blank for a fraction of a second before the reali
 
 "She is going to kill me," Vanessa whispered to the empty room. "She is going to put me in federal prison."
 
-Panic fully took the wheel. She lunged for the kitchen drawer, ripping it open and pulling out a crumpled, tri-fold **Evergreen Marine** paper schedule. Her hands were shaking so badly she could barely track the columns. She flipped it to the Fall timetable, her eyes darting across the grid.
+Panic fully took the wheel. She lunged for the kitchen drawer, ripping it open and pulling out a crumpled, tri-fold Evergreen Marine paper schedule. Her hands were shaking so badly she could barely track the columns. She flipped it to the Fall timetable, her eyes darting across the grid.
 
 *9:35 AM.*
 
@@ -2353,9 +2353,9 @@ Johnny offered a small, exhausted blink of acknowledgment. Emma slipped out the 
 
 Amanda sat up, reaching over to the nightstand. She pulled open her own laptop, tapping into the localized Vance-Whitaker network. She pulled up the secure chat window she shared with the Co-Guardians.
 
-**\[A_VANCE\]:** *Initiating lockdown. Johnny is tapped out. When you two come up for the night, please observe strict acoustic protocols. Do not wake him.*
+\[A_VANCE\]: *Initiating lockdown. Johnny is tapped out. When you two come up for the night, please observe strict acoustic protocols. Do not wake him.*
 
-**\[S_FOSTER\]:** *Copy that. We are wrapping up the federal dossier now. We will be ghosts.*
+\[S_FOSTER\]: *Copy that. We are wrapping up the federal dossier now. We will be ghosts.*
 
 Amanda closed the laptop. She turned back to Johnny, offering a gentle, tired smile. "Alright, kid. Let's get you squared away."
 
@@ -2457,11 +2457,11 @@ Morgan hung up the receiver. She didn't panic. The Keep was built to survive his
 
 Johnny watched as Morgan pulled up the secure, localized Quantum OS chat interface. She didn't use standard email. She used the priority command terminal to ping Victoria Vance directly in the Owner's Quarters.
 
-**q-send /domain:VANCE_WHITAKER \[V_VANCE\]** *Priority Telemetry Update. NWS Seattle confirms Gulf of Alaska low-pressure stall. PK-7015 registering elevated temps. We are tracking the formation of a Pineapple Express. Monitor the 30-day models closely. Ensure all government and family partners are kept informed. This one has the potential to be a structural threat to the Gala timeline.*
+q-send /domain:VANCE_WHITAKER \[V_VANCE\] *Priority Telemetry Update. NWS Seattle confirms Gulf of Alaska low-pressure stall. PK-7015 registering elevated temps. We are tracking the formation of a Pineapple Express. Monitor the 30-day models closely. Ensure all government and family partners are kept informed. This one has the potential to be a structural threat to the Gala timeline.*
 
 Ten seconds later, the dialogue box chimed as Victoria replied from three floors above them.
 
-**\[SYSTEM ALERT from V_VANCE\]:** *Acknowledged. Log the data. Do not adjust the Gala schedule yet, but inform Diana to put the dry-goods suppliers on standby. We hold the line.*
+\[SYSTEM ALERT from V_VANCE\]: *Acknowledged. Log the data. Do not adjust the Gala schedule yet, but inform Diana to put the dry-goods suppliers on standby. We hold the line.*
 
 Morgan closed the terminal. She looked over at Johnny, her eyes fierce and entirely focused.
 
@@ -2799,7 +2799,7 @@ Johnny pulled up the localized Quantum OS chat interface. He bypassed his own te
 
 Morgan pulled her keyboard closer. She didn't type an update. She typed a war declaration.
 
-**q-send /domain:VANCE_WHITAKER \[V_VANCE\]** *Priority Override. WSDOT Seattle backchannel confirms 30-day model collapse. Imminent collision of tropical moisture and arctic freeze directly over the Keep. SR-20 closure timeline severely compromised. WSDOT guarantees zero open-asphalt access by late October.*
+q-send /domain:VANCE_WHITAKER \[V_VANCE\] *Priority Override. WSDOT Seattle backchannel confirms 30-day model collapse. Imminent collision of tropical moisture and arctic freeze directly over the Keep. SR-20 closure timeline severely compromised. WSDOT guarantees zero open-asphalt access by late October.*
 
 Morgan paused for a split second, looking over at Johnny. He gave her a single, firm nod.
 
@@ -2819,7 +2819,7 @@ Morgan’s fingers had barely left the mechanical keyboard when the localized Qu
 
 Victoria did not type a measured, administrative response. The Matriarch’s reply was instantaneous and absolute.
 
-**\[SYSTEM ALERT from V_VANCE\]:** *I am coming down to the engineering bay. Right now. I am bringing Diana and Emma.*
+\[SYSTEM ALERT from V_VANCE\]: *I am coming down to the engineering bay. Right now. I am bringing Diana and Emma.*
 
 Morgan exhaled a long, steady breath, reaching up to rub the grease from her forehead. She looked over at Johnny, who was already running automated predictive models on the B.C. arctic front on his secondary screen.
 
@@ -3656,7 +3656,7 @@ The storm hadn't arrived yet. The sky over the peaks was an absolute, blinding, 
 
 The portico overlooked the absolute edge of Victoria Vance’s empire.
 
-Stretching out from the grand cobblestone turnaround was **Prospector Road**, the family's private, five-mile asphalt artery that snaked its way down the mountain to connect with State Route 20. Running parallel to it was the beautifully maintained paved biking and hiking trail that Victoria left open for the public.
+Stretching out from the grand cobblestone turnaround was Prospector Road, the family's private, five-mile asphalt artery that snaked its way down the mountain to connect with State Route 20. Running parallel to it was the beautifully maintained paved biking and hiking trail that Victoria left open for the public.
 
 Standing at the edge of the portico, entirely unfazed by the biting wind and holding a heavy radio and a clipboard, was seventeen-year-old Emma Bennett. She was wearing a thick black peacoat, her breath pluming in the cold air as she directed a fleet of luxury shuttles with the ruthless efficiency of an air traffic controller.
 
@@ -4360,7 +4360,7 @@ In the sanctuary, Johnny let out a breath he didn't realize he had been holding.
 
 <aac>"Crisis averted,"</aac> Johnny typed, glancing at the system clock in the corner of his screen.
 
-It was **11:25 AM**.
+It was 11:25 AM.
 
 They had exactly one hour and twenty minutes to get the rest of the 400 guests down the switchbacks, through the Lower Motorpool gates, and past the WSDOT barricades before the steel locked them in for six months.
 
@@ -4392,7 +4392,7 @@ Up in the Owner's Quarters at the Keep, Victoria immediately picked up her satel
 
 She hung up, her eyes flicking to Johnny’s secondary monitor.
 
-It was **12:23 PM**. Thirty-seven minutes until the steel dropped.
+It was 12:23 PM. Thirty-seven minutes until the steel dropped.
 
 Five miles down the mountain, the Lower Motorpool was a scene of absolute, diesel-choked madness. The facility was a massive, subterranean concrete bunker built into the side of the mountain, designed to keep the guests' luxury cars safely out of the alpine elements.
 
@@ -4450,7 +4450,7 @@ With a deep, grinding groan of hydraulic pressure, the two-foot-thick steel and 
 
 The locking bolts fired into place.
 
-Emma looked at her watch. It was **12:37 PM**.
+Emma looked at her watch. It was 12:37 PM.
 
 Up in the sanctuary, Johnny closed his eyes. The green dots on his map were entirely gone, replaced by the solid, unbroken perimeter line of The Prospector's Keep.
 
@@ -4502,7 +4502,7 @@ The bloodline was whole.
 
 Victoria walked over to a heavy mahogany side table and picked up her encrypted satellite phone. She looked at the grandfather clock ticking against the far wall.
 
-It was **12:42 PM**.
+It was 12:42 PM.
 
 She hit the WSDOT Regional Director’s direct dial. The static-laced connection went through almost immediately.
 
@@ -4514,7 +4514,7 @@ She hit the WSDOT Regional Director’s direct dial. The static-laced connection
 
 *"Understood. We are issuing the final closure order. The steel is dropping now."*
 
-Fifteen miles away, at the base of the canyon, WSDOT crews unlatched the massive, heavy-duty steel swing gates. With the blinding snow swirling around them, they pushed the barricades across both lanes of State Route 20, driving the heavy locking pins deep into the asphalt. They hung the reflective red signs that would not be moved for half a year: **ROAD CLOSED. AVALANCHE DANGER.**
+Fifteen miles away, at the base of the canyon, WSDOT crews unlatched the massive, heavy-duty steel swing gates. With the blinding snow swirling around them, they pushed the barricades across both lanes of State Route 20, driving the heavy locking pins deep into the asphalt. They hung the reflective red signs that would not be moved for half a year: *ROAD CLOSED. AVALANCHE DANGER.*
 
 *"The highway is locked, Victoria,"* the Director breathed. *"Stay warm up there. See you in the spring."*
 
@@ -4556,7 +4556,7 @@ Diana stood at the front of the room holding a dry-erase marker. She had traded 
 
 "The Gala is over. The gates are locked," Diana began, tapping the marker against the board. "For the next six months, this kitchen is no longer a restaurant. It is our survival center. And because we are entirely cut off from the eastern medical grid until May, my Washington State Master Food Safety protocols are no longer just health department suggestions. They are the law of the mountain."
 
-She turned and wrote three large letters on the whiteboard: **F. A. T. T. O. M.**
+She turned and wrote three large letters on the whiteboard: *F. A. T. T. O. M.*
 
 "Refresher course," Diana commanded, pointing the marker at a fourteen-year-old cousin named Zoe. "Break down the acronym. What are the six conditions that pathogens need to grow and multiply?"
 

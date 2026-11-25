@@ -26,7 +26,7 @@ Matt looked up from his laptop screen, his expression neutral but observant. His
 
 Matt's lips twitched. His fingers hit the keys.
 
-**A LOW BAR, BUT THANK YOU.**
+*A LOW BAR, BUT THANK YOU.*
 
 Courtney laughed, the sound warm and unguarded. It felt easy. The wheelchair, the chest harness, the silent presence of Mr. Vance—none of it mattered to her in that moment. She just liked him.
 
@@ -36,7 +36,7 @@ Matt stared at her for a long second. He evaluated the sincerity in her eyes, th
 
 His fingers found the keys again.
 
-**I WOULD LIKE THAT.**
+*I WOULD LIKE THAT.*
 
 Courtney's face lit up with a brilliant, triumphant smile. The connection was made. The bubble had officially been cast.
 
@@ -55,7 +55,7 @@ Courtney leaned down, her arms wrapping around his shoulders in a warm, groundin
 
 "I can't wait for tonight," she said, her voice cutting through the ambient noise of the Commons. "*The Paradigm* is supposed to be amazing. Are you still coming to pick me up?"
 
-Matt tapped out a quick sequence on his laptop keyboard. He had Quantum WritePad 97 open, the font blown up to 72 points so Courtney could easily read it from where she stood. He absolutely hated the robotic cadence of Quantum Mary, the default synthesized voice, so he preferred to just let the glowing text speak for him: **YES. SEVEN PM.**
+Matt tapped out a quick sequence on his laptop keyboard. He had Quantum WritePad 97 open, the font blown up to 72 points so Courtney could easily read it from where she stood. He absolutely hated the robotic cadence of Quantum Mary, the default synthesized voice, so he preferred to just let the glowing text speak for him: *YES. SEVEN PM.*
 
 Courtney beamed, her smile bright and untroubled. She squeezed his shoulder gently, entirely absorbed in the romantic anticipation of their upcoming Sunday movie date. Matt looked up at her, appreciating the simple, uncomplicated affection she offered. She didn't seem to notice the hardware, or the chest harness holding him securely in the manual chair. To her, he was just a guy taking her to the movies.
 

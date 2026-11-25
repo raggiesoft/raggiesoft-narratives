@@ -354,11 +354,11 @@ Before Alex could process what was happening, he was swarmed. Ashley and the oth
 
 The situation escalated. Ashley, high on her own cruelty, pointed to the single-stall family restroom down the hall.
 
-"I dare someone to take him in there!" she said loudly. "See how friendly he can *really* be." The other girls erupted in a fresh wave of cruel, suggestive giggles.
+"I dare someone to take him in there!" she said loudly. "See how friendly he can *really* be." The other girls erupted in a fresh wave of cruel, suggestive giggles.
 
-Alex, in his panicked state, overheard the dare. His mind latched onto the one familiar concept: the family bathroom. He was completely, terrifyingly confused. To him, that was a safe, clinical space where his mother Emily, his aunt Karen, or his cousin Megan would take him to assist with his toileting needs. It was a place of care, not a place for... whatever this was. *But I don't have to go to the bathroom,* he thought, a layer of deep, innocent confusion mixing with his terror. *Why are they daring each other to take me in there? Do they want to help me?*
+Alex, in his panicked state, overheard the dare. His mind latched onto the one familiar concept: the family bathroom. He was completely, terrifyingly confused. To him, that was a safe, clinical space where his mother Emily, his aunt Karen, or his cousin Megan would take him to assist with his toileting needs. It was a place of care, not a place for... whatever this was. *But I don't have to go to the bathroom,* he thought, a layer of deep, innocent confusion mixing with his terror. *Why are they daring each other to take me in there? Do they want to help me?*
 
-The thought was instantly dismissed. No. He did not trust them. Not at all. And if he *did* have to go to the toilet, he knew exactly what he would do: ask to use the theater's phone, call his mother who was waiting right outside in the parking lot, and have her come in to help him. The idea of these strange, cruel girls taking him into that private space for their own amusement did not feel right. It felt dangerous. He just wanted to get into the car with his mother and go home.
+The thought was instantly dismissed. No. He did not trust them. Not at all. And if he *did* have to go to the toilet, he knew exactly what he would do: ask to use the theater's phone, call his mother who was waiting right outside in the parking lot, and have her come in to help him. The idea of these strange, cruel girls taking him into that private space for their own amusement did not feel right. It felt dangerous. He just wanted to get into the car with his mother and go home.
 
 "That's enough."
 
@@ -1676,7 +1676,7 @@ She leaned in slightly. "And believe me, Mr. Riley, after a week with our dumpst
 
 Josh Riley could only manage a strangled, "Y-yes, Mrs. DeMarco."
 
-"Excellent," she said. "And one more thing. Any more outbursts, in any language – and yes, Mr. Riley, I do mean *any* language – and we will be discussing an extension of your… apprenticeship. Perhaps into the fascinating world of grease trap maintenance."
+"Excellent," she said. "And one more thing. Any more outbursts, in any language – and yes, Mr. Riley, I do mean *any* language – and we will be discussing an extension of your… apprenticeship. Perhaps into the fascinating world of grease trap maintenance."
 
 With a final, withering glare, Mrs. DeMarco turned and resumed her patrol, leaving behind a cafeteria that erupted into a low buzz of awed, slightly terrified whispers. The legend was real.
 
@@ -2220,7 +2220,7 @@ As the tree was finally lit, its warm, multi-colored lights reflecting in the wi
 
 On the evening of December 23rd, a quiet, more personal tradition was born. Chloé was at the Millers' house, a familiar and constant presence. She and Alex were in his room, a quiet sanctuary away from the festive bustle of the main house. They had decided to exchange their own, personal gifts a little early.
 
-Chloé handed Alex a neatly wrapped package. Inside was a brand-new, hardcover copy of **"The Griffin's Legacy,"** the much-anticipated sequel to the fantasy novel they had spent so many hours reading together.
+Chloé handed Alex a neatly wrapped package. Inside was a brand-new, hardcover copy of *The Griffin's Legacy*, the much-anticipated sequel to the fantasy novel they had spent so many hours reading together.
 
 Alex's face lit up with a pure, unadulterated joy. He had been waiting for this book for months. He, in turn, handed her his gift. It was a new game for her MagnaByte computer, a beautiful, critically-acclaimed fantasy role-playing game he knew she would love.
 
@@ -2240,7 +2240,7 @@ Christmas Eve at the Miller house was a study in cozy, classic American traditio
 
 For the Mason family, it was a new and wonderful experience. They were used to the boisterous, late-night feast of a Québécois *Réveillon*. This was different. It was a quiet, relaxed evening spent in the warm, welcoming glow of the Miller home.
 
-The entire extended family was gathered in the living room. On the television, the Miller family's most sacred and non-negotiable Christmas Eve tradition was underway: their annual viewing of the classic 1960s holiday film, **"The North Pole Postman."**
+The entire extended family was gathered in the living room. On the television, the Miller family's most sacred and non-negotiable Christmas Eve tradition was underway: their annual viewing of the classic 1960s holiday film, *The North Pole Postman*.
 
 "I still don't understand the logistics," Thomas Mason said with a chuckle, his eyes wide with a mix of confusion and amusement as he watched the film's grumpy protagonist get accidentally sorted into a giant mailbag. "So, this postman... he is mailed to the North Pole by mistake?"
 
@@ -2248,7 +2248,7 @@ The entire extended family was gathered in the living room. On the television, t
 
 Sophie just smiled and shook her head, a look of fond bewilderment on her face as she passed around a plate of Emily's famous sugar cookies.
 
-Alex sat in the middle of it all, a quiet, contented observer. He was in his most favorite spot in the entire world: the middle of the large, comfortable living room sofa, a warm blanket over his lap. On one side, his favorite cousin, **Megan**, was snuggled up against him, her own plate of cookies balanced on her knees. On his other side, his new best friend, **Chloé**, was tucked in just as closely. He had an arm resting comfortably around each of them.
+Alex sat in the middle of it all, a quiet, contented observer. He was in his most favorite spot in the entire world: the middle of the large, comfortable living room sofa, a warm blanket over his lap. On one side, his favorite cousin, Megan, was snuggled up against him, her own plate of cookies balanced on her knees. On his other side, his new best friend, Chloé, was tucked in just as closely. He had an arm resting comfortably around each of them.
 
 This was the first time he had ever shared a Christmas Eve with a female friend who wasn't family, and her presence, combined with the familiar, unwavering safety of Megan's, made the holiday feel entirely new and infinitely brighter. He watched Chloé laugh at a scene from the movie, her face illuminated by the warm, multi-colored lights of the Christmas tree, and felt a profound sense of peace. This was better than any present he could ever ask for.
 
@@ -2308,9 +2308,9 @@ With their important work done, they quietly made their way back to Alex's room.
 
 Chloé woke slowly, a sense of profound peace washing over her before she even opened her eyes. She was warm, she was safe, and a steady, familiar weight was resting gently across her shoulders. She opened her eyes to the soft, magical glow of the Christmas tree lights still visible from the living room. Alex was still fast asleep beside her, his arm wrapped snugly around her, his face a mask of pure, untroubled contentment. She smiled. Being the source of his profound comfort was the greatest gift she could ever imagine.
 
-A few hours later, the Miller house was a symphony of festive, happy chaos. The Masons had come over, and the entire "family of six" was gathered in the living room. On the television, the annual Christmas Day broadcast of the beloved, classic holiday film **"Oh, Fudge!"** was already underway, its story of a young boy's quest for a toy ray gun a familiar, comforting backdrop.
+A few hours later, the Miller house was a symphony of festive, happy chaos. The Masons had come over, and the entire "family of six" was gathered in the living room. On the television, the annual Christmas Day broadcast of the beloved, classic holiday film "Oh, Fudge!" was already underway, its story of a young boy's quest for a toy ray gun a familiar, comforting backdrop.
 
-The air was filled with the rich aroma of Emily's Christmas morning breakfast casserole and the sounds of tearing wrapping paper. Presents were opened, a happy flurry of new books, clothes, and toys. The personal gift exchange between Alex and Chloé was a quiet, profound moment in the middle of the joyful chaos. Alex was overjoyed with his new copy of **"The Griffin's Legacy,"** and Chloé was already planning her first adventure in the new fantasy role-playing game he had given her.
+The air was filled with the rich aroma of Emily's Christmas morning breakfast casserole and the sounds of tearing wrapping paper. Presents were opened, a happy flurry of new books, clothes, and toys. The personal gift exchange between Alex and Chloé was a quiet, profound moment in the middle of the joyful chaos. Alex was overjoyed with his new copy of *The Griffin's Legacy*, and Chloé was already planning her first adventure in the new fantasy role-playing game he had given her.
 
 After breakfast, a quiet, contented lull settled over the house. The parents were in the kitchen, preparing for the big family dinner, their happy chatter a low hum in the background. Chloé and Alex retreated to the quiet sanctuary of his room.
 
@@ -2982,7 +2982,7 @@ Thomas chimed in with a wry grin, clearly for the officer's benefit. "And nope, 
 
 Frank let out a hearty chuckle, shaking his head. "Appreciate you sparing me the paperwork, Tom. You know how the folks in Washington get about those things. A real threat to national security, those little plastic capsules."
 
-In the back seat, Alex looked confused. He caught Chloé's eye, a quizzical expression on his face. *Koko-Kapsels? International incident?* Chloé just gave him a small, conspiratorial smile and a tiny shrug, as if to say, *I'll explain later. It's a long, silly story.*
+In the back seat, Alex looked confused. He caught Chloé's eye, a quizzical expression on his face. *Koko-Kapsels? International incident?* Chloé just gave him a small, conspiratorial smile and a tiny shrug, as if to say, *I'll explain later. It's a long, silly story.*
 
 "Any produce, meat products, or plants?" Frank continued, his tone returning to business.
 
@@ -3122,23 +3122,23 @@ The moment Alex wheeled through the Leclercs' back door and onto the sprawling w
 
 It was loud, chaotic, and wonderfully, overwhelmingly welcoming.
 
-The centerpiece of the gathering was a series of long picnic tables groaning under the weight of a magnificent potluck feast. Sophie and Geneviève quickly added their own contributions—the sausages from the *boucherie* and the bags of cheese curds and chips. Alex’s eyes widened as he took in the spread. There were dishes he’d never seen before: a deep-dish meat pie that Sophie identified as Tourtière, a layered casserole of beef, corn, and potatoes that she called Pâté Chinois, and an array of colorful salads. On another table, a formidable dessert section was already taking shape, anchored by a glistening Tarte au sucre (sugar pie).
+The centerpiece of the gathering was a series of long picnic tables groaning under the weight of a magnificent potluck feast. Sophie and Geneviève quickly added their own contributions—the sausages from the *boucherie* and the bags of cheese curds and chips. Alex’s eyes widened as he took in the spread. There were dishes he’d never seen before: a deep-dish meat pie that Sophie identified as Tourtière, a layered casserole of beef, corn, and potatoes that she called Pâté Chinois, and an array of colorful salads. On another table, a formidable dessert section was already taking shape, anchored by a glistening Tarte au sucre (sugar pie).
 
-Uncle David, a spatula in hand, was presiding over the grill. "Ah, les Millers!" he boomed, his smile genuine. "*Bienvenue, bienvenue!* Can I get you folks something to drink? A beer? Some *liqueur*?"
+Uncle David, a spatula in hand, was presiding over the grill. "Ah, les Millers!" he boomed, his smile genuine. "*Bienvenue, bienvenue!* Can I get you folks something to drink? A beer? Some *liqueur*?"
 
 James and Emily exchanged a brief, confused glance at the offer of liquor in the middle of the afternoon. "Oh, no alcohol for us, thank you, David," James replied politely, gesturing vaguely at the teens. "We have the long drive back to Virginia tomorrow."
 
-David let out a hearty laugh, realizing the misunderstanding. "Ah, non, non! My mistake! Here in Québec, *la liqueur*, it's what you call soda or pop! Of course!" He winked. "I will get you some Habitant, our local cola. The best! You must try it."
+David let out a hearty laugh, realizing the misunderstanding. "Ah, non, non! My mistake! Here in Québec, *la liqueur*, it's what you call soda or pop! Of course!" He winked. "I will get you some Habitant, our local cola. The best! You must try it."
 
 "Oh!" Emily said, a relieved smile breaking out on her face. "Of course. We'd love to try it, thank you." It was a small, amusing lesson in the nuances that went far beyond their language books.
 
 A few minutes later, after a flurry of introductions, David wiped his hands on his apron and gestured towards a cleared patch of lawn where several older men were tossing steel balls into a patch of sand.
 
-"James, Alex," he said, his gaze warm and inclusive. "*On va jouer à la pétanque.* You want to play? It's easy. You just try to get your balls closest to the little one."
+"James, Alex," he said, his gaze warm and inclusive. "*On va jouer à la pétanque.* You want to play? It's easy. You just try to get your balls closest to the little one."
 
-Mathieu, Chloé's older cousin, trotted over with a set of the heavy, silver *boules*. "*C’est le fun, Alex, tu vas voir,*" he said with a grin. (It's fun, Alex, you'll see.)
+Mathieu, Chloé's older cousin, trotted over with a set of the heavy, silver *boules*. "*C’est le fun, Alex, tu vas voir,*" he said with a grin. (It's fun, Alex, you'll see.)
 
-It was a perfect game for Alex. He could position his chair at the edge of the playing area and, with his strong arms, toss the *boules* with surprising accuracy. James joined in, his competitive spirit emerging as David and Mathieu patiently explained the finer points of the game in a mix of French and English. The Millers weren't just guests; they were immediately participants.
+It was a perfect game for Alex. He could position his chair at the edge of the playing area and, with his strong arms, toss the *boules* with surprising accuracy. James joined in, his competitive spirit emerging as David and Mathieu patiently explained the finer points of the game in a mix of French and English. The Millers weren't just guests; they were immediately participants.
 
 As the game of pétanque got underway, Chloé led her parents and Alex’s mom on a tour of the food. Emily Miller, adventurous and eager, used her year of French lessons to ask Geneviève about the different dishes, her efforts met with delighted and encouraging replies.
 
@@ -3642,7 +3642,7 @@ YES, Alex typed to Hannah. THE LIBRARY IS GOOD. WEDNESDAY?
 
 That Wednesday, after school, Alex and Hannah met in the library. Chloé, who had her own study group for a history project, gave him a wave as she headed to a different section. "See you at home later!" she called out.
 
-The study session with Hannah was productive. She was organized, and her notes were meticulous. But for Alex, the experience was a study in contrasts. The conversation was good, but it was *work*. He had to explain every thought completely, from the beginning. There was no shared history, no inside jokes, no ability for her to finish his sentences or understand his meaning from a single, raised eyebrow. The silences weren't the comfortable, companionable quiet he shared with Chloé; they were just... empty spaces he felt he had to fill.
+The study session with Hannah was productive. She was organized, and her notes were meticulous. But for Alex, the experience was a study in contrasts. The conversation was good, but it was *work*. He had to explain every thought completely, from the beginning. There was no shared history, no inside jokes, no ability for her to finish his sentences or understand his meaning from a single, raised eyebrow. The silences weren't the comfortable, companionable quiet he shared with Chloé; they were just... empty spaces he felt he had to fill.
 
 He found himself missing Chloé's easy presence, her intuitive understanding of him. He was glad when the study session was over.
 
@@ -3654,7 +3654,7 @@ Their project was a huge success. They got an A, and Mrs. Davison praised their 
 
 A few days later, Hannah caught up with him and Chloé in the hallway. "Hey, Alex, great job on the presentation," she said, a genuine warmth in her smile. She then took a deep breath, a look of nervous resolve on her face. "So, the winter formal is in a couple of weeks. And I was wondering... if you'd want to go with me? As, you know... a real date?"
 
-Alex froze. A date? A *real* date? The words hung in the air, a completely foreign concept. The thought of a school dance—the loud, thumping music, the flashing lights, the crushing crowd of people—was a sensory nightmare. A wave of pure, unadulterated panic washed over him. He looked at Chloé, his eyes wide with a silent plea for help.
+Alex froze. A date? A *real* date? The words hung in the air, a completely foreign concept. The thought of a school dance—the loud, thumping music, the flashing lights, the crushing crowd of people—was a sensory nightmare. A wave of pure, unadulterated panic washed over him. He looked at Chloé, his eyes wide with a silent plea for help.
 
 Chloé, who knew him better than anyone, saw the terror in his eyes and immediately stepped in, her expression friendly but with an undercurrent of firm protection. "That's really sweet of you to ask, Hannah," she said. "But school dances... they're not really Alex's thing. A little too loud, too crowded. We usually just have our own quiet movie night instead."
 
@@ -3732,7 +3732,7 @@ Chloé just laughed, shaking her head at his nerdy purism.
 
 #### A Lesson in Virtualization
 
-That Saturday became a masterclass. With Chloé watching, completely fascinated, Alex began the setup. "Okay," she said, pulling up a chair. "Explain this to me like I'm not a computer genius. What are you actually *doing*?"
+That Saturday became a masterclass. With Chloé watching, completely fascinated, Alex began the setup. "Okay," she said, pulling up a chair. "Explain this to me like I'm not a computer genius. What are you actually *doing*?"
 
 Alex, in his element, became the teacher. He first installed Kinesis Virtual Engine on his main OS XN system. Then, he launched it and began the process of creating his first virtual machine.
 
@@ -4504,7 +4504,7 @@ The six weeks of Chloé's recovery were transformative.
 
 For the first time in her life, Chloé experienced the world from a seated position. She felt the daily, grinding frustrations of inaccessibility—the doorway that was just a little too narrow, the dropped pen that was suddenly a mile away. Her empathy for Alex, already profound, deepened into a visceral, firsthand understanding.
 
-For Alex, the experience was a revelation. He discovered a well of logistical and emotional strength he never knew he possessed. He wasn't just Alex, the boy who needed help; he was Alex, the person who *gave* help. He was capable. He was strong. He was a caregiver.
+For Alex, the experience was a revelation. He discovered a well of logistical and emotional strength he never knew he possessed. He wasn't just Alex, the boy who needed help; he was Alex, the person who *gave* help. He was capable. He was strong. He was a caregiver.
 
 The sleeping arrangement, of course, was non-negotiable. Every night, after her bath at the Millers' and with Sophie's help, Chloé would be settled into Alex's bed. He would join her a little later, their shared presence a constant, comforting anchor for both of them.
 
@@ -4572,15 +4572,15 @@ When the voting was done, Mark took the bowl, his expression one of grave import
 
 Mark returned to the microphone a few minutes later, a triumphant, wicked grin on his face.
 
-"Alright, Northwood Class of 2003!" he announced with the voice of a seasoned announcer. "The people have spoken! By an overwhelming write-in majority, your Prom King is... **Josh Riley!**"
+"Alright, Northwood Class of 2003!" he announced with the voice of a seasoned announcer. "The people have spoken! By an overwhelming write-in majority, your Prom King is... Josh Riley!"
 
 A wave of confused, angry murmurs went through the crowd. "What? No way!" "I voted for Kevin!" Josh, however, looked stunned, and then a slow, arrogant, and deeply stupid smile spread across his face. He had won? He had actually won? He started to stand up, ready to accept his crown.
 
 "And," Mark continued, his voice booming as he held up a hand for silence, "his Prom Queen..."
 
-Just then, a large, 50-gallon, industrial-grey **trash can** was wheeled into the center of the dance floor. Someone had hastily taped a cheap, plastic tiara to the lid.
+Just then, a large, 50-gallon, industrial-grey trash can was wheeled into the center of the dance floor. Someone had hastily taped a cheap, plastic tiara to the lid.
 
-"...Brenda Binn**!**" Mark roared.
+"...Brenda Binn!" Mark roared.
 
 The gymnasium absolutely erupted. The initial confusion of the crowd instantly morphed into a single, deafening, and completely merciless wave of pure, cathartic joy as they realized the beautiful, perfect prank that had just been pulled. Josh Riley's face, which had been a mask of triumph, crumpled into an expression of pure, abject humiliation.
 
@@ -4592,7 +4592,7 @@ Josh was not just being punished by an adult; he was being publicly, hilariously
 
 Just then, a calm, familiar figure materialized at his side. It was Mrs. DeMarco. She didn't look at the crowd. She just looked at Josh, and then at his newly crowned Queen, a flicker of what might have been a grimly satisfied smile in her eyes.
 
-"It seems you have finally found your perfect match, Mr. Riley," she said, her voice a quiet, devastating counterpoint to the roar of the crowd. "I trust you two will be very happy together during your royal duties." She leaned in, her final words a soft, chilling whisper meant only for him. **"Monday. 6 AM sharp. Don't be late for your first official act as King of the Trash."**
+"It seems you have finally found your perfect match, Mr. Riley," she said, her voice a quiet, devastating counterpoint to the roar of the crowd. "I trust you two will be very happy together during your royal duties." She leaned in, her final words a soft, chilling whisper meant only for him. "Monday. 6 AM sharp. Don't be late for your first official act as King of the Trash."
 
 That was the final blow. With a strangled cry of pure, impotent rage, Josh Riley turned and fled, pushing his way through the laughing, jeering crowd and out the gymnasium doors, his high school social career officially and permanently over.
 
@@ -5682,7 +5682,7 @@ Vera was none the wiser. Alex was still trapped for now, but he had just execute
 
 The Friday of the VDU Open House weekend was a day of quiet, internal warfare for Alex. He woke up with a knot of anxiety in his stomach that had nothing to do with his classes and everything to do with the conversation he knew he had to have at the end of the day.
 
-Throughout his morning classes, his mind was a chaotic whirlwind. He kept replaying the plan in his head. *Megan is picking me up. I am spending the weekend with her.* The words were a simple, powerful mantra. But every time he felt a flicker of resolve, the ghost of Vera’s potential reaction would rise to smother it. He could already hear her voice, her sharp, wounded accusations, her talent for twisting his needs into a personal betrayal of her.
+Throughout his morning classes, his mind was a chaotic whirlwind. He kept replaying the plan in his head. *Megan is picking me up. I am spending the weekend with her.* The words were a simple, powerful mantra. But every time he felt a flicker of resolve, the ghost of Vera’s potential reaction would rise to smother it. He could already hear her voice, her sharp, wounded accusations, her talent for twisting his needs into a personal betrayal of her.
 
 He was so distracted that he barely registered the lectures. He was completely unsure how he was managing to keep his plan a secret, to maintain a mask of normalcy. His entire being was focused on the final class of the day, the 2:00 PM Student Development course, the one he shared with her. It felt less like a class and more like a final countdown to a confrontation.
 
@@ -5806,15 +5806,15 @@ A tense silence lingered for a moment. "Okay," Megan said, her voice low and det
 
 The goodbyes were quick but full of love. Megan helped Alex into her car, stowing his wheelchair and main AAC in the trunk. He kept his handheld Quantum Note with him. As they pulled out of the driveway, Alex looked back at his family, a united front standing on the lawn, and felt a profound wave of gratitude. He was leaving one sanctuary, but he was on his way to another.
 
-Megan made a **left from Lisa Court onto Blue Knob Road, then a right onto Hidden Valley Drive**. As they approached the end of the street, they both saw it. Waiting at the stop sign at the intersection with Centerville Turnpike was Vera's distinctive sedan.
+Megan made a left from Lisa Court onto Blue Knob Road, then a right onto Hidden Valley Drive. As they approached the end of the street, they both saw it. Waiting at the stop sign at the intersection with Centerville Turnpike was Vera's distinctive sedan.
 
-Megan didn't sigh. She didn't curse. She just acted. With a calm, almost bored expression, she flicked on her turn signal and made a smooth, decisive **right turn onto Sundance Court**, a small residential cul-de-sac. She used the space to execute a perfect three-point turn, then made a **left back onto Hidden Valley**, heading in the opposite direction.
+Megan didn't sigh. She didn't curse. She just acted. With a calm, almost bored expression, she flicked on her turn signal and made a smooth, decisive right turn onto Sundance Court, a small residential cul-de-sac. She used the space to execute a perfect three-point turn, then made a left back onto Hidden Valley, heading in the opposite direction.
 
 THAT'S... THE LONG WAY, Alex's device voiced, a note of confusion in its tone.
 
 "Yep," Megan said, her eyes fixed on the road, her knuckles no longer white on the steering wheel. "It is. And right now, the long way is the right way."
 
-She knew the neighborhood like the back of her hand. She made a quick **left back onto Blue Knob Road**, then took a **right onto Old Ridge Road**. A final **left onto Beaufain Boulevard** brought them out to Kempsville Road, a different major thoroughfare entirely. By the time they merged onto the interstate a few miles later, Vera's car was a distant, irrelevant memory. Megan hadn't just rescued him from Vera's apartment; she had quietly and expertly erased her from their path, ensuring that his journey to a weekend of peace would be completely and utterly free of any further poison.
+She knew the neighborhood like the back of her hand. She made a quick left back onto Blue Knob Road, then took a right onto Old Ridge Road. A final left onto Beaufain Boulevard brought them out to Kempsville Road, a different major thoroughfare entirely. By the time they merged onto the interstate a few miles later, Vera's car was a distant, irrelevant memory. Megan hadn't just rescued him from Vera's apartment; she had quietly and expertly erased her from their path, ensuring that his journey to a weekend of peace would be completely and utterly free of any further poison.
 
 ***
 
@@ -5924,7 +5924,7 @@ Megan quickly set up her MagnaByte laptop on the coffee table. A moment later, C
 
 Alex didn't realize it consciously, but in that moment, he was testing Chloé. Vera's poison had made him terrified of female affection, and he needed to see, with his own eyes, how Chloé would react to him being held so tightly by another woman. He leaned into Megan's embrace, his gaze fixed on the screen, waiting.
 
-Chloé saw the hug, and a visible wave of relief washed over her features. In her mind, there was zero jealousy, only solidarity. She remembered the day Alex had first introduced them, how he had proudly and lovingly called Megan his "most favorite woman in the whole wide world." She knew this wasn't a rivalry; it was a rescue. Megan hugging Alex wasn't a threat; it was a promise. *So what if he's snuggling with his cousin?* she thought. *He's safe. That's all that matters.*
+Chloé saw the hug, and a visible wave of relief washed over her features. In her mind, there was zero jealousy, only solidarity. She remembered the day Alex had first introduced them, how he had proudly and lovingly called Megan his "most favorite woman in the whole wide world." She knew this wasn't a rivalry; it was a rescue. Megan hugging Alex wasn't a threat; it was a promise. *So what if he's snuggling with his cousin?* she thought. *He's safe. That's all that matters.*
 
 The call was for Alex. Megan and Chloé both knew it, and Megan gracefully faded into a supportive, background presence. They talked for over an hour, about everything and nothing. They were already counting down the days until Christmas break. Chloé talked about her classes at NPU, her grades were excellent, and she was already a favorite of her Library Sciences professor.
 
@@ -5944,7 +5944,7 @@ I LOVE YOU TOO, CHLOÉ.
 
 They said their goodbyes, and Megan ended the call. Alex just sat there, the echo of their words filling the quiet room. He had a girlfriend, one who claimed to love him. But Vera's "love" felt like a cage, a constant, anxious pressure. Chloé's love, even from three thousand miles away, felt like freedom. It felt like home.
 
-And for the first time, a clear, sharp, and terrifying question cut through the fog of his confusion: *What if Vera isn't the right person for me?*
+And for the first time, a clear, sharp, and terrifying question cut through the fog of his confusion: *What if Vera isn't the right person for me?*
 
 He wasn't ready to answer it, not yet. But the question had been asked, and now, it would never go away.
 
@@ -9162,7 +9162,7 @@ Chloé watched the exchange, a quiet, knowing smile on her face. The test had be
 
 Sarah's smile didn't falter for a second. It widened, full of a genuine, heartfelt warmth. She stood up and extended a hand to Megan. "It is an absolute honor to finally meet you, Megan," she said, her voice full of sincere respect. "Anyone who holds that kind of place in this man's heart must be a truly extraordinary person. He's told me so much about you."
 
-Megan, in turn, looked at Sarah, at the pure, uncomplicated sincerity in her eyes, and she knew instantly. *She gets it*, Megan thought, a wave of profound relief and approval washing over her. She took Sarah's hand, her own grip firm and welcoming. "It's great to meet you, too, Sarah. Alex has told me a lot about you, too. All good things."
+Megan, in turn, looked at Sarah, at the pure, uncomplicated sincerity in her eyes, and she knew instantly. *She gets it*, Megan thought, a wave of profound relief and approval washing over her. She took Sarah's hand, her own grip firm and welcoming. "It's great to meet you, too, Sarah. Alex has told me a lot about you, too. All good things."
 
 The test had been passed with flying colors. The last, crucial piece of their new, healthy social life had just clicked into place. They spent the rest of the evening eating pizza on the floor, laughing and quizzing each other for their exam. Sarah Jenkins was officially in. She had been welcomed into the fortress, not as a threat, but as a trusted and valued new ally.
 
@@ -12792,7 +12792,7 @@ She looked at Alex, who was watching her, a look of profound, quiet love and agr
 
 They didn't go out. They didn't do anything grand. They simply migrated to the cozy back porch of the Leclerc house, which overlooked the dark, quiet expanse of the Eastern Townships. They wrapped themselves in warm blankets, a familiar three-person huddle against the cool autumn air.
 
-They didn't talk much. They just sat together, listening to the crickets, watching the stars appear in the vast, clear Canadian sky. It was more intimate, more profound, and more *them* than any fancy honeymoon suite could ever be.
+They didn't talk much. They just sat together, listening to the crickets, watching the stars appear in the vast, clear Canadian sky. It was more intimate, more profound, and more *them* than any fancy honeymoon suite could ever be.
 
 Later, as they prepared for bed, the routine was the same as it had been the night before. They went to the large guest room where the king-sized bed was waiting. Alex settled into his customary spot in the middle, and Chloé and Megan climbed in on either side.
 
@@ -12986,7 +12986,7 @@ Sophie Mason, seated next to her husband Thomas, looked curious. "Coffee Milk? W
 
 Chloé's eyes narrowed. "Wait a minute. Is this... part of the bet?"
 
-Alex and Megan exchanged a knowing, silent smirk but didn't answer. Chloé let out a long, theatrical sigh. She knew it wasn't *technically* in the terms, but it was absolutely part of the punishment.
+Alex and Megan exchanged a knowing, silent smirk but didn't answer. Chloé let out a long, theatrical sigh. She knew it wasn't *technically* in the terms, but it was absolutely part of the punishment.
 
 "Fine," she conceded to the waitress. "One Coffee Milk. But I'm officially lodging a protest with the international governing body of hockey wagers."
 

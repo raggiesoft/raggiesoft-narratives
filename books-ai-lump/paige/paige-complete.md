@@ -1422,7 +1422,7 @@ Freddie leaned into her touch, the tension in his spine dissolving. The house do
 
 #### The Escape Vehicle
 
-The calendar on the kitchen wall read **June 19, 2001**. It was a Tuesday, and the humidity outside was pushing ninety percent.
+The calendar on the kitchen wall read June 19, 2001. It was a Tuesday, and the humidity outside was pushing ninety percent.
 
 Inside the house, the air conditioning was humming, but it wasn't enough to scrub the tension from the atmosphere. Their mother was Upstairs, ostensibly organizing the linen closet for the fourth time that month. Their father was at work, though he had called an hour ago to say he would be "late again" due to a project deadline.
 
@@ -1548,15 +1548,15 @@ Paige navigated the turns—Volvo Parkway, then Eden Way North—her hand moving
 
 "Turning onto the ring road," Paige narrated. "Drop to Second gear."
 
-The engine revved high again as they slowed down. On their left, the massive, blocky facade of **Pennyworth’s** loomed, its red logo distinct against the grey sky.
+The engine revved high again as they slowed down. On their left, the massive, blocky facade of Pennyworth’s loomed, its red logo distinct against the grey sky.
 
 "Don't park here," Jenna warned. "It's too far. My legs will fall off."
 
 "We aren't parking at Pennyworth's," Freddie observed, watching Paige steer them past the loading docks. "She is aiming for the tower."
 
-They swung around the back of the complex toward **Silverman’s**. Rising between the brick walls of the mall and the side of the department store was the beacon.
+They swung around the back of the complex toward Silverman’s. Rising between the brick walls of the mall and the side of the department store was the beacon.
 
-Vertical white letters ran down the center of the dark glass: **FOOD COURT**.
+Vertical white letters ran down the center of the dark glass: *FOOD COURT*.
 
 "Elevator entrance," Paige confirmed. "Neutral. Handbrake."
 
@@ -1592,7 +1592,7 @@ Freddie flinched, his shoulders hiking up toward his ears.
 
 Paige didn't hesitate. She stepped slightly in front of him, breaking the visual wall of the crowd, and hooked her pinky finger through his belt loop. It was a subtle anchor, a tactile reminder that he wasn't drifting in the sea of noise alone.
 
-"Target acquired," Paige said, her voice pitched just loud enough for him to hear over the din. "Twelve o'clock. **Auntie Mae's**."
+"Target acquired," Paige said, her voice pitched just loud enough for him to hear over the din. "Twelve o'clock. Auntie Mae's."
 
 The smell hit them next—a warm, buttery cloud of yeast and cinnamon that cut through the smell of floor wax. It was the only thing that made the noise bearable.
 
@@ -1660,7 +1660,7 @@ Freddie looked out at the chaotic room—the teenagers flirting near the pizza p
 
 #### The Calculation
 
-The arcade at Emerald Creek Mall was named **The Starcade**. It was located just past the food court restrooms, a dark cave illuminated by the flashing CRTs of attract screens and the neon glow of Lane-Master lanes.
+The arcade at Emerald Creek Mall was named The Starcade. It was located just past the food court restrooms, a dark cave illuminated by the flashing CRTs of attract screens and the neon glow of Lane-Master lanes.
 
 To Freddie, the Starcade was a paradox. It was louder than the food court—a cacophony of 8-bit explosions, synthesized voices shouting <aac>Reload!</aac>, and the clatter of tokens hitting metal trays. Yet, unlike the chaotic noise of the crowds, this noise was <aac>designed</aac>. It was computerized. It followed rules.
 
@@ -1676,7 +1676,7 @@ The machine spit out a heavy stream of brass tokens into the metal cup. Thirty t
 
 Sarah held her seven tokens in a neat stack. She didn't run. She walked past the noisy shooters and the flashing racing games until she reached the back wall.
 
-There it stood. **The Claw**.
+There it stood. The Claw.
 
 It was filled with generic plush animals—neon bears, unauthorized cartoon characters, and weirdly shaped pillows. But Sarah didn't care about the prize quality; she cared about the physics.
 
@@ -2052,9 +2052,9 @@ The "Architecture" of his life was gone. His father lived in a small apartment o
 
 "We're fine," Ellen said shortly. "We'll be at the Zane's on Route 250 by 4:30. Just like the schedule says."
 
-They passed the large green highway sign: **EXIT 222 - STAUNTON / FISHERSVILLE / US-250**.
+They passed the large green highway sign: *EXIT 222 - STAUNTON / FISHERSVILLE / US-250*.
 
-Freddie stared at the word on the sign as it flashed by: **FISHERSVILLE**.
+Freddie stared at the word on the sign as it flashed by: FISHERSVILLE.
 
 He didn't know why, but the name stuck in his head. *Fishersville.* It sounded quiet. It sounded like a place where things didn't break. He filed the name away in his mental archive, cataloging it under "Locations of Interest," right next to the schematics for warp drives and drum patterns.
 
@@ -2064,7 +2064,7 @@ He didn't know why, but the name stuck in his head. *Fishersville.* It sounded q
 
 "I know," Freddie said. "Just noting the coordinates."
 
-Ellen took the ramp onto Route 250, merging onto Richmond Avenue. The landscape here was a mix of historic charm and highway commerce. Ellen navigated the traffic, passing fast-food chains and car dealerships until the massive, glowing sign appeared on the left: **ZANE’S MARKET**.
+Ellen took the ramp onto Route 250, merging onto Richmond Avenue. The landscape here was a mix of historic charm and highway commerce. Ellen navigated the traffic, passing fast-food chains and car dealerships until the massive, glowing sign appeared on the left: *ZANE’S MARKET*.
 
 ***
 
@@ -2076,15 +2076,15 @@ Ellen pulled the sedan into a parking spot away from the pumps.
 
 "There she is," Aunt Linda said, pointing.
 
-Parked near the entrance was a silver Avalon with a **CPI IRONHEADS** sticker on the back glass. Leaning against it was Jessica.
+Parked near the entrance was a silver Avalon with a *CPI IRONHEADS* sticker on the back glass. Leaning against it was Jessica.
 
-She looked different. She wasn't just the "Matriarch" who managed the household anymore; she was a Sophomore. She was wearing a maroon sweatshirt with **FORGERS** emblazoned across the chest in block letters, and her hair was cut in a sharp, efficient bob. She looked like she belonged to a different tribe.
+She looked different. She wasn't just the "Matriarch" who managed the household anymore; she was a Sophomore. She was wearing a maroon sweatshirt with FORGERS emblazoned across the chest in block letters, and her hair was cut in a sharp, efficient bob. She looked like she belonged to a different tribe.
 
 "Okay," Ellen said, turning off the engine. "Let's eat. Then the handoff."
 
 They walked into the Zane's. To Freddie, it was a paradise of order. The convenience store aisles were bright and symmetrical, but the real marvel was the food counter.
 
-Unlike a fast-food joint where you had to shout over a counter, Zane's used the **"Touch-Tap"** system. A row of glowing screens allowed you to build your order digitally.
+Unlike a fast-food joint where you had to shout over a counter, Zane's used the "Touch-Tap" system. A row of glowing screens allowed you to build your order digitally.
 
 "This is efficient," Freddie noted, stepping up to a kiosk. He tapped the screen. *Sub. Turkey. Provolone. Lettuce. No Tomato. Confirm.*
 
@@ -2148,7 +2148,7 @@ As they merged onto I-81 South, leaving Zane's Market behind, Freddie watched th
 
 #### The Detour
 
-**Friday, October 25, 2002**
+Friday, October 25, 2002
 
 The merge onto I-81 South from Route 250 was supposed to be the start of the open road. Instead, it was a parking lot.
 
@@ -2162,7 +2162,7 @@ She looked at the rearview mirror. Freddie was tapping his knee, the lack of for
 
 "Not today," Jessica declared.
 
-She stomped on the clutch, slammed the stick into First, and did something illegal. She cut the wheel hard to the right, driving over the painted gore point and onto the exit ramp for **Exit 221**, which merged onto I-64 East toward Richmond.
+She stomped on the clutch, slammed the stick into First, and did something illegal. She cut the wheel hard to the right, driving over the painted gore point and onto the exit ramp for Exit 221, which merged onto I-64 East toward Richmond.
 
 "Evasive maneuvers," Paige grinned, grabbing the grab handle.
 
@@ -2170,7 +2170,7 @@ She stomped on the clutch, slammed the stick into First, and did something illeg
 
 "Trust the pilot," Jessica said.
 
-The traffic vanished instantly. The Avalon roared up the empty highway. Jessica took **Exit 91**, swinging the car onto the ramp for Route 285/Route 608.
+The traffic vanished instantly. The Avalon roared up the empty highway. Jessica took Exit 91, swinging the car onto the ramp for Route 285/Route 608.
 
 "Left goes to Fishersville," Jessica narrated, pointing toward the lights of the town Freddie had noted earlier. "But we’re going right. Route 608 to Stuarts Draft. It’s the back door."
 
@@ -2204,7 +2204,7 @@ The rest of the drive was a blur of darkness and trucks. Jessica navigated the "
 
 "Exit 118B," Jessica announced an hour later. "Christiansburg. Blacksburg. The Holy Land."
 
-She took the ramp, looping around onto **US-11 / Business US-460**.
+She took the ramp, looping around onto US-11 / Business US-460.
 
 "Falling Branch Park and Ride is right there," Jessica pointed to a dark lot off the exit. "That’s the end of the line for the local buses. But we're going downtown."
 
@@ -2214,15 +2214,15 @@ She turned left, heading into the heart of Christiansburg. The town was older, g
 
 Freddie looked out the window. It was a hub of activity.
 
-Three buses were idling in the plaza, their engines rumbling. They weren't the yellow school buses he was used to. These were sleek, white and maroon city buses marked **Blue Ridge Transit**.
+Three buses were idling in the plaza, their engines rumbling. They weren't the yellow school buses he was used to. These were sleek, white and maroon city buses marked Blue Ridge Transit.
 
 "Look at the signs," Freddie whispered, reading the LED headers.
 
-The first bus, a massive 60-foot articulated vehicle that bent in the middle like an accordion, displayed: **1 CPI**. "That one goes to the university," Jessica explained. "Straight shot."
+The first bus, a massive 60-foot articulated vehicle that bent in the middle like an accordion, displayed: 1 CPI. "That one goes to the university," Jessica explained. "Straight shot."
 
-The second bus, a standard 40-foot model, displayed: **1 FALLING BRANCH**. "That one goes back to where we just got off the highway," Jessica said. "It runs the full length. No short turns.".
+The second bus, a standard 40-foot model, displayed: *1 FALLING BRANCH*. "That one goes back to where we just got off the highway," Jessica said. "It runs the full length. No short turns.".
 
-A third bus sat nearby, displaying **3 RADFORD**.
+A third bus sat nearby, displaying 3 RADFORD.
 
 "The grid is active," Freddie said, fascinated by the coordination of the heavy machines.
 
@@ -2320,11 +2320,11 @@ Freddie sat up, rubbing his face. The anxiety hit him instantly—a low-level hu
 
 She pulled her wallet out of her bag.
 
-"We're taking **Blue Ridge Transit**," she explained. "It's the local municipal system. I have a CPI ID, so I ride for free. You two are civilians, so you pay the standard fare: one dollar each."
+"We're taking Blue Ridge Transit," she explained. "It's the local municipal system. I have a CPI ID, so I ride for free. You two are civilians, so you pay the standard fare: one dollar each."
 
 She placed two crisp one-dollar bills on the counter.
 
-"We're catching the **Number 1**," Jessica continued. "It runs along Business 460. On a weekday, that bus is a sardine can—students packed in so tight you can’t move your arms. It’s what we call 'crush load.' But it's Saturday morning, so it'll just be 'crowded.' We should be able to get seats."
+"We're catching the Number 1," Jessica continued. "It runs along Business 460. On a weekday, that bus is a sardine can—students packed in so tight you can’t move your arms. It’s what we call 'crush load.' But it's Saturday morning, so it'll just be 'crowded.' We should be able to get seats."
 
 Freddie ate his cereal mechanically, processing the data. *Bus. Number 1. One dollar. 07:15.*
 
@@ -2343,7 +2343,7 @@ Then, they heard it. The deep, diesel rumble of a heavy engine.
 
 "Inbound," Jessica said.
 
-The bus turned the corner. It was white with maroon and orange stripes, emblazoned with the logo **Blue Ridge Transit**. The LED destination sign above the windshield glowed amber: **1 CPI**.
+The bus turned the corner. It was white with maroon and orange stripes, emblazoned with the logo Blue Ridge Transit. The LED destination sign above the windshield glowed amber: 1 CPI.
 
 "It's on time," Freddie noted, checking his watch. "Precision."
 
@@ -2383,17 +2383,17 @@ Ahead of them, the stone towers of the university rose up against the mountains.
 
 #### The Acoustic Engine
 
-The bus hissed to a halt along **Commonwealth Mall**.
+The bus hissed to a halt along Commonwealth Mall.
 
 "End of the line," Jessica announced, standing up as the doors folded open. "Everyone out."
 
-They stepped onto the concrete sidewalk beneath the arched Ironstone span of **The Keystone Bridge**, where **Blue Ridge Transit** buses staged bumper-to-bumper along the curb of Commonwealth Mall, their diesel engines rumbling in a synchronized, low-frequency hum that Freddie found soothing.
+They stepped onto the concrete sidewalk beneath the arched Ironstone span of The Keystone Bridge, where Blue Ridge Transit buses staged bumper-to-bumper along the curb of Commonwealth Mall, their diesel engines rumbling in a synchronized, low-frequency hum that Freddie found soothing.
 
-"**Kincaid Hall** is this way," Jessica said, pointing toward the sprawling limestone student center at the corner of the Mall and **Commonwealth Green**. "It's the Student Union. That’s where they hold the welcome ceremony."
+"Kincaid Hall is this way," Jessica said, pointing toward the sprawling limestone student center at the corner of the Mall and Commonwealth Green. "It's the Student Union. That’s where they hold the welcome ceremony."
 
 They walked into the wind. The campus was waking up. The distinctive campus architecture—rough-cut grey limestone with accents of deep maroon—looked like a fortress against the bright blue sky.
 
-"It's called **Ironstone**," Jessica said, tapping one of the heavy blocks as they passed an archway. "It's local limestone. It’s what makes the campus look like a castle. It feels... solid."
+"It's called Ironstone," Jessica said, tapping one of the heavy blocks as they passed an archway. "It's local limestone. It’s what makes the campus look like a castle. It feels... solid."
 
 "The geometry is consistent," Freddie noted, his eyes tracking the lines of the mortar. "It feels safe."
 
@@ -2417,7 +2417,7 @@ But Freddie didn't look at the guitar. He looked at the chair.
 
 The man wasn't standing. He was sitting in a sleek, lightweight wheelchair. His legs were still, resting on the footplate, but his upper body was moving with the rhythm of the song. He wasn't hiding behind the keyboard. He wasn't tucked in the back. He was front and center, commanding the room.
 
-"That’s **The Stardust Engine**," Jessica whispered, leaning down to Freddie’s ear. "Ryan and Cassidy O'Connell. They’re alumni. Class of '89."
+"That’s The Stardust Engine," Jessica whispered, leaning down to Freddie’s ear. "Ryan and Cassidy O'Connell. They’re alumni. Class of '89."
 
 Freddie stared. "He is... sitting."
 
@@ -2457,7 +2457,7 @@ Freddie walked toward the bagels, but he kept glancing back at the stage. For th
 
 They joined the line at the registration tables. It was moving efficiently—a hallmark of an engineering school. A student volunteer in a maroon polo asked for their names, checked a list, and handed Freddie and Paige their "Candidate Kits."
 
-It was a glossy maroon folder containing a campus map, a schedule of engineering breakout sessions, a CPI pen, and a sticker that said **FUTURE FORGER**.
+It was a glossy maroon folder containing a campus map, a schedule of engineering breakout sessions, a CPI pen, and a sticker that said *FUTURE FORGER*.
 
 Freddie opened the folder immediately. The map was laid out on a grid. The schedule was color-coded.
 
@@ -2490,7 +2490,7 @@ A man in a dark suit walked onto the stage. He looked like a statesman, grey-hai
 
 Polite applause rippled through the room.
 
-"You are here because you are looking for something," Harrison continued, resting his hands on the podium. "You are looking for a college. You have brochures from the **University of the Piedmont**, from **The Royal College**, from **Atlanta Poly** and **Massachusetts Tech**. They are all fine institutions. They will teach you theory. They will teach you history."
+"You are here because you are looking for something," Harrison continued, resting his hands on the podium. "You are looking for a college. You have brochures from the University of the Piedmont, from The Royal College, from Atlanta Poly and Massachusetts Tech. They are all fine institutions. They will teach you theory. They will teach you history."
 
 He paused, leaning forward.
 
@@ -2530,7 +2530,7 @@ The applause was louder this time. The lights came up.
 
 #### The Terminal
 
-The Computer Sciences building, **Kelvin Hall**, was different from the rest of the campus. It didn't smell like old limestone or floor wax. It smelled of ozone, heated plastic, and coffee.
+The Computer Sciences building, Kelvin Hall, was different from the rest of the campus. It didn't smell like old limestone or floor wax. It smelled of ozone, heated plastic, and coffee.
 
 And it was cold.
 
@@ -2540,7 +2540,7 @@ They walked into the main lab—a massive room filled with rows of beige towers 
 
 "Avery!" a voice boomed from the front of the room.
 
-A man with a messy beard and a t-shirt that said **THERE IS NO PLACE LIKE 127.0.0.1** walked over. He was holding a stack of papers.
+A man with a messy beard and a t-shirt that said *THERE IS NO PLACE LIKE 127.0.0.1* walked over. He was holding a stack of papers.
 
 "Dr. Aris," Jessica grinned. "I'm not on duty today. Just bringing the reinforcements."
 
@@ -2618,7 +2618,7 @@ As they walked out of Kelvin Hall back into the bright sunlight, Freddie felt in
 
 #### The Foundry
 
-The main dining hall at CPI was a massive, rotunda-style building known as **The Foundry**.
+The main dining hall at CPI was a massive, rotunda-style building known as The Foundry.
 
 If Kelvin Hall was a sanctuary of silence, The Foundry was a cathedral of chaos.
 
@@ -2658,7 +2658,7 @@ Freddie nodded slowly. The logic held.
 
 "Zero random variables," Freddie said, taking a bite of pasta. The thought was soothing. The "Twin Dorm" wasn't just a room; it was the structural support beam for his entire college career. As long as he had that, he could handle anything.
 
-"Okay," Jessica said, checking her watch. "Eat up. The **Housing & Residence Life** presentation is at 13:00 in the Kincaid Auditorium. We need to get there early to ask about the bed straps."
+"Okay," Jessica said, checking her watch. "Eat up. The Housing & Residence Life presentation is at 13:00 in the Kincaid Auditorium. We need to get there early to ask about the bed straps."
 
 "I have the dimensions ready," Freddie said, tapping his pocket. "I am ready to finalize the contract."
 
@@ -2670,13 +2670,13 @@ They cleared their trays on the loud conveyor belt—*clack-clack-clack*—and w
 
 #### The Old Lady on the Hill
 
-They arrived at **Bennett Hall**.
+They arrived at Bennett Hall.
 
 It sat perched on the steep incline of the campus geography, a brick-and-limestone structure that looked less like a dormitory and more like a fortress that had seen better days.
 
 "They call her 'The Old Lady on the Hill'," Jessica explained as they approached the lower entrance at the bottom of the slope. "She’s one of the oldest dorms. No air conditioning in the rooms, radiator heat that clanks all night, and the elevators are slower than a dial-up modem. But the location is prime."
 
-They entered the first-floor lobby. It was a functional space with tile floors, a front desk, and a few worn sofas. A "Welcome to CPI" banner hung over a folding table where a woman with a kind face and a name tag reading **HALL DIRECTOR** was organizing pamphlets.
+They entered the first-floor lobby. It was a functional space with tile floors, a front desk, and a few worn sofas. A "Welcome to CPI" banner hung over a folding table where a woman with a kind face and a name tag reading *HALL DIRECTOR* was organizing pamphlets.
 
 "Check-in is here," Jessica said, signing them in on a clipboard.
 
@@ -2693,7 +2693,7 @@ She pressed the call button.
 The elevator dinged. They piled in and rode up to the second floor.
 
 
-Mandy led them down a hallway that smelled of popcorn and floor wax, stopping at a door marked **214**. She tapped a sensor next to the handle with her ID card, and the heavy door clicked and swung open automatically.
+Mandy led them down a hallway that smelled of popcorn and floor wax, stopping at a door marked 214. She tapped a sensor next to the handle with her ID card, and the heavy door clicked and swung open automatically.
 
 "Welcome to the sardine can," Mandy joked, rolling inside.
 
@@ -2848,7 +2848,7 @@ Freddie looked at her. The static in his head was still deafening, but her voice
 
 #### The Reset
 
-The bench was made of rough-hewn wood and cold iron, sitting on the edge of a grassy overlook near Bennett Hall—*The Old Lady on the Hill*. From here, the campus spread out below them like a circuit board—the sweeping oval of **Commonwealth Green**, the stone towers of the academic buildings, and in the distance, the massive concrete bowl of **The Crucible**.
+The bench was made of rough-hewn wood and cold iron, sitting on the edge of a grassy overlook near Bennett Hall—*The Old Lady on the Hill*. From here, the campus spread out below them like a circuit board—the sweeping oval of Commonwealth Green, the stone towers of the academic buildings, and in the distance, the massive concrete bowl of The Crucible.
 
 Freddie sat in the middle, staring at the mountains. He was completely silent. The screaming had stripped his throat raw, leaving him in a state of absolute mute exhaustion. The static in his head had settled from a roar into a dull, heavy gray noise.
 
@@ -2938,7 +2938,7 @@ A low rumble—like a distant thunderstorm that refused to break—began to vibr
 
 As they crested the hill overlooking Washington Street, Freddie saw it.
 
-A convoy of **Blue Ridge Transit** buses was roaring toward the stadium in a continuous, unbroken line. They were massive, 60-foot articulated leviathans, groaning under the weight of passengers.
+A convoy of Blue Ridge Transit buses was roaring toward the stadium in a continuous, unbroken line. They were massive, 60-foot articulated leviathans, groaning under the weight of passengers.
 
 Every single window was steamed up. Every single bus was packed to "crush load"—bodies pressed against the glass, maroon jerseys everywhere.
 
@@ -2951,9 +2951,9 @@ Freddie focused on the LED destination signs. They were synchronized.
 "It's an invasion," Jessica grinned, applying a stripe of maroon greasepaint to her left cheek and an orange stripe to her right. "And we're the army."
 
 
-The plaza outside **The Crucible** was a sensory riot. The smell of grilled sausages and funnel cake hung heavy in the air.
+The plaza outside The Crucible was a sensory riot. The smell of grilled sausages and funnel cake hung heavy in the air.
 
-"Equipment check," Jessica said, steering them toward a white tent marked **FORGER FAN SHOP**. "You are currently out of uniform. That is a tactical error."
+"Equipment check," Jessica said, steering them toward a white tent marked *FORGER FAN SHOP*. "You are currently out of uniform. That is a tactical error."
 
 They ducked inside the tent. It was crowded, but Paige kept a tight grip on Freddie’s sleeve.
 
@@ -2971,7 +2971,7 @@ She paid with cash, handing the bag to Paige.
 
 "Put them on," Jessica said. "And Freddie? Install these."
 
-She handed him the blister pack. **High-Fidelity Earplugs**.
+She handed him the blister pack. High-Fidelity Earplugs.
 
 Freddie opened the pack. He rolled the foam cylinders and inserted them into his ears. The roar of the crowd instantly dulled. The sharp, piercing spikes of laughter and shouting were smoothed out into a manageable, muted hum.
 
@@ -2986,7 +2986,7 @@ They approached the South End Zone entrance. The stadium loomed over them, a mas
 
 Paige grabbed Freddie’s left hand. Her grip was a vice, a physical reminder of her promise on the bench. Jessica grabbed his right.
 
-They moved as a chain. Jessica pulled her **CPI ID** (Poly Pass) out of her pocket. At the turnstile, she scanned it three times—*Beep. Beep. Beep.*—holding the gate for her siblings.
+They moved as a chain. Jessica pulled her CPI ID (Poly Pass) out of her pocket. At the turnstile, she scanned it three times—*Beep. Beep. Beep.*—holding the gate for her siblings.
 
 They burst into the concourse.
 
@@ -3014,7 +3014,7 @@ Freddie looked around. To his left, a student was painted entirely silver. To hi
 
 Freddie blinked. He looked at the massive scoreboard.
 
-**CPI FORGERS vs. TALLAHASSEE STATE RENEGADES**
+CPI FORGERS vs. TALLAHASSEE STATE RENEGADES
 
 "Tallahassee State," Jessica noted, following his gaze. "Ranked number four in the nation. They are a powerhouse. They have speed. They have money. They think they’re going to walk in here and crush a bunch of engineering nerds."
 
@@ -3026,7 +3026,7 @@ She looked at Freddie, her face painted for war.
 
 "They aren't playing on grass," Jessica smiled, stomping her boot on the aluminum bleacher. "They're playing in a factory."
 
-She checked the countdown clock on the scoreboard. **00:05:00**.
+She checked the countdown clock on the scoreboard. 00:05:00.
 
 Jessica leaned in, putting a hand on Freddie’s shoulder. Her expression was serious, almost religious.
 
@@ -3036,7 +3036,7 @@ Freddie tightened his grip on his soda cup. "The Stomp?"
 
 "The Stomp," Jessica confirmed. "Just remember the rhythm. It’s a grid. It’s structure. Don't fight it. Ride it."
 
-Freddie nodded, checking his earplugs one last time. He looked at the clock ticking down. **00:04:58**.
+Freddie nodded, checking his earplugs one last time. He looked at the clock ticking down. 00:04:58.
 
 "I am ready," Freddie whispered. "Initialize the sequence."
 
@@ -3044,7 +3044,7 @@ Freddie nodded, checking his earplugs one last time. He looked at the clock tick
 
 #### The Forger's Call
 
-The countdown clock on the scoreboard hit **00:00**.
+The countdown clock on the scoreboard hit 00:00.
 
 The world ended.
 
@@ -3076,7 +3076,7 @@ The second stomp was louder. The sheer mass of the sound hit Freddie in the ches
 
 "Ride it!" Jessica screamed into the darkness, her face illuminated by a sudden, blood-red glow.
 
-On the massive Jumbotron, a single image appeared: **A GLOWING, MOLTEN ANVIL.**
+On the massive Jumbotron, a single image appeared: *A GLOWING, MOLTEN ANVIL.*
 
 *TING...*
 
@@ -3124,7 +3124,7 @@ Pyrotechnics blasted from the top of the scoreboard—jets of flame shooting int
 
 Down in the tunnel, the smoke poured out. And then, they emerged.
 
-The **CPI Forgers**.
+The CPI Forgers.
 
 They didn't dance out. They sprinted. A wave of maroon jerseys poured onto the field, holding a massive sledgehammer high in the air.
 
@@ -3207,7 +3207,7 @@ Freddie found himself stomping again. *TING-THUD.*
 
 As the quarter ended, the scoreboard told a story that the sports analysts on TSN hadn't predicted:
 
-**CPI FORGERS: 10** **TALLAHASSEE ST: 0**
+*CPI FORGERS: 10* *TALLAHASSEE ST: 0*
 
 "We have the advantage," Freddie stated, looking at the data. "The probability of an UDSet is increasing."
 
@@ -3217,7 +3217,7 @@ As the quarter ended, the scoreboard told a story that the sports analysts on TS
 
 #### System Overload
 
-The temperature in the valley dropped to 38 degrees, but inside **The Crucible**, the heat was rising.
+The temperature in the valley dropped to 38 degrees, but inside The Crucible, the heat was rising.
 
 The second quarter wasn't a battle; it was a malfunction. The Tallahassee State Renegades, a team built on speed, flash, and television contracts, were suffering a catastrophic system failure.
 
@@ -3265,11 +3265,11 @@ On the fifth play of the drive, the CPI quarterback faked the handoff. The entir
 
 The quarterback rolled right. He floated a perfect, gentle pass to a tight end standing all alone in the end zone.
 
-**TOUCHDOWN FORGERS.**
+*TOUCHDOWN FORGERS.*
 
 The cannon fired. The stadium shook. The band struck up the fight song.
 
-**CPI FORGERS: 17** **TALLAHASSEE ST: 0**
+*CPI FORGERS: 17* *TALLAHASSEE ST: 0*
 
 
 Desperation set in. The Renegades got the ball back with less than a minute to play. They abandoned their playbook and started throwing "Hail Marys"—long, low-probability passes hoping for a miracle.
@@ -3278,7 +3278,7 @@ Desperation set in. The Renegades got the ball back with less than a minute to p
 
 The ball soared through the night air. A CPI cornerback read the trajectory perfectly. He didn't just bat it down; he caught it.
 
-**INTERCEPTION.**
+INTERCEPTION.
 
 The crowd noise hit a frequency that Freddie felt in his teeth. He pressed his hands over his earplugs, but he was smiling. He was smiling because the logic was holding. The "Machine" was working.
 
@@ -3286,9 +3286,9 @@ With ten seconds left, CPI kicked a 40-yard field goal as time expired.
 
 The ball split the uprights.
 
-**HALFTIME**
+HALFTIME
 
-**CPI FORGERS: 20** **TALLAHASSEE ST: 0**
+*CPI FORGERS: 20* *TALLAHASSEE ST: 0*
 
 The scoreboard glowed with the impossible numbers. The number four team in the nation wasn't just losing; they were being erased.
 
@@ -3310,7 +3310,7 @@ Down on the field, a whistle blew. Sharp. Piercing.
 
 From the tunnel, a new army emerged. They weren't wearing pads; they were wearing tall, crested shakos and crisp maroon uniforms with orange piping.
 
-"The **CPI Marching Forgers**," Paige whispered, squeezing Freddie’s arm. "Look at the size of them."
+"The CPI Marching Forgers," Paige whispered, squeezing Freddie’s arm. "Look at the size of them."
 
 There were hundreds of them—over three hundred musicians—marching in a block so dense and so perfect it looked like a single solid object moving across the grass.
 
@@ -3329,7 +3329,7 @@ The Drum Major—a senior conducting from a tall ladder—raised his baton. He b
 
 The baton snapped up.
 
-**BLAST.**
+BLAST.
 
 Three hundred brass instruments hit a single chord. It was massive. It was a wall of sound that washed over the stadium, rich and harmonious and perfectly tuned.
 
@@ -3350,11 +3350,11 @@ The music shifted. The low brass—the tubas and trombones—began a deep, rumbl
 
 The band split into three sections.
 
-- **Left:** A swirling galaxy of flutes and clarinets.
+- Left: A swirling galaxy of flutes and clarinets.
 
-- **Right:** A rigid grid of percussion.
+- Right: A rigid grid of percussion.
 
-- **Center:** A phalanx of trumpets moving in a wedge.
+- Center: A phalanx of trumpets moving in a wedge.
 
 They marched blind, trusting the count, trusting the person next to them.
 
@@ -3365,7 +3365,7 @@ The music swelled to a crescendo. The drumline hammered out a frantic, high-spee
 
 The three sections collided in the center of the field. For a second, it looked like chaos. Then, they snapped into place.
 
-From the chaos emerged a perfect, crystalline image on the field: **THE CPI HAMMER AND ANVIL.**
+From the chaos emerged a perfect, crystalline image on the field: *THE CPI HAMMER AND ANVIL.*
 
 The crowd erupted.
 
@@ -3401,7 +3401,7 @@ He felt like he belonged in the Iron City.
 
 The halftime break didn't reset the game. It just let the concrete freeze harder.
 
-As the third quarter began, the temperature inside **The Crucible** dipped into the low 30s. A biting wind swirled down from the mountains, cutting through jackets and turning breath into clouds of steam.
+As the third quarter began, the temperature inside The Crucible dipped into the low 30s. A biting wind swirled down from the mountains, cutting through jackets and turning breath into clouds of steam.
 
 For the CPI Forgers, this was standard operating procedure. They stood on the sideline in their heavy capes, breathing calmly.
 
@@ -3450,7 +3450,7 @@ He hit the line. The pile didn't move. So he kept his legs churning.
 
 The entire offensive line surged forward. The Renegades slid backward on the cold turf.
 
-**TOUCHDOWN FORGERS.**
+*TOUCHDOWN FORGERS.*
 
 The cannon fired. *BOOM.*
 
@@ -3458,7 +3458,7 @@ The student section began a new chant, low and rhythmic, pointing at the opposin
 
 *O-VER-RA-TED!* *clap-clap-clapclapclap* *O-VER-RA-TED!* *clap-clap-clapclapclap*
 
-**CPI FORGERS: 27** **TALLAHASSEE ST: 0**
+*CPI FORGERS: 27* *TALLAHASSEE ST: 0*
 
 
 As the teams switched sides for the final quarter, the stadium was in a frenzy. The shutout was intact. The giant wasn't just sleeping; it was in a coma.
@@ -3481,7 +3481,7 @@ In the stands, the atmosphere had shifted from aggression to pure, unadulterated
 
 "Look at the scoreboard, Freddie," Jessica shouted, pointing to the massive glowing numbers. "Do you see that zero? That is the most beautiful number in the world."
 
-**CPI FORGERS: 27** **TALLAHASSEE ST: 0**
+*CPI FORGERS: 27* *TALLAHASSEE ST: 0*
 
 "A zero balance," Freddie nodded, watching the clock tick down. "Total negation."
 
@@ -3545,9 +3545,9 @@ The cannon fired one last time. *BOOM.*
 
 The siren wailed.
 
-The scoreboard flashed: **FINAL.**
+The scoreboard flashed: FINAL.
 
-**CPI FORGERS: 27** **TALLAHASSEE ST: 0**
+*CPI FORGERS: 27* *TALLAHASSEE ST: 0*
 
 The band struck up the fight song, but you couldn't hear it. You could only hear the sound of sixty thousand people losing their minds.
 
@@ -3567,7 +3567,7 @@ The logic held up. The "Machine" worked. If you built a strong enough structure�
 
 The game was over, but the logistics were just beginning.
 
-They exited The Crucible not into a void, but into a massive, organized mobilization of heavy transport. The road in front of the stadium had been converted into a bus terminal. A fleet of **Blue Ridge Transit** buses was platooned bumper-to-bumper, their engines idling in a deep, collective growl that vibrated the pavement.
+They exited The Crucible not into a void, but into a massive, organized mobilization of heavy transport. The road in front of the stadium had been converted into a bus terminal. A fleet of Blue Ridge Transit buses was platooned bumper-to-bumper, their engines idling in a deep, collective growl that vibrated the pavement.
 
 "Target identification," Jessica said, scanning the LED signs above the windshields.
 
@@ -3579,24 +3579,24 @@ The signs were flipping in unison, a synchronized pulse of orange text.
 
 "We need Pepper Plaza," Jessica said, pointing to a line that snaked down the sidewalk. "It’s long, but look at Falling Branch."
 
-Freddie looked. The line for the **Falling Branch Shuttle**—the commuter lot out by Interstate 81—stretched for hundreds of yards, a sea of shivering fans waiting to get back to their cars.
+Freddie looked. The line for the Falling Branch Shuttle—the commuter lot out by Interstate 81—stretched for hundreds of yards, a sea of shivering fans waiting to get back to their cars.
 
 "That is the high-volume vector," Freddie noted. "Commuter traffic."
 
 Further down the line, there was confusion. A group of fans was arguing with a transit supervisor, pointing at their watches.
 
-"They missed the **Roanoke Valley Transit**," Jessica noted sympathetically. "The Roanoke Express leaves at 19:45 PM, game or no game. Those guys are stranded."
+"They missed the Roanoke Valley Transit," Jessica noted sympathetically. "The Roanoke Express leaves at 19:45 PM, game or no game. Those guys are stranded."
 
-Near the end of the platoon, a different kind of bus was loading. It was a coach bus, distinct from the city transit fleet. Its sign didn't flash the school cheer. It simply read: **BLUEWATER via FALLING BRANCH**.
+Near the end of the platoon, a different kind of bus was loading. It was a coach bus, distinct from the city transit fleet. Its sign didn't flash the school cheer. It simply read: BLUEWATER via FALLING BRANCH.
 
-"That’s the **Bluewater Transit Maroon Express**," Jessica explained. "That’s the long haul. Ninety minutes down I-81 and I-77. Those guys won't be home until midnight."
+"That’s the Bluewater Transit Maroon Express," Jessica explained. "That’s the long haul. Ninety minutes down I-81 and I-77. Those guys won't be home until midnight."
 
 "We are fortunate," Freddie calculated. "Our transit time is minimal."
 
 "Exactly," Jessica said. "Come on. Let's get you home."
 
 
-They reached the front of the line for the **Pepper Plaza Shuttle**. It was a massive, 60-foot articulated bus. The doors folded open.
+They reached the front of the line for the Pepper Plaza Shuttle. It was a massive, 60-foot articulated bus. The doors folded open.
 
 "IDs?" Freddie asked, reaching for his pocket.
 
@@ -3627,7 +3627,7 @@ He realized, with a sudden clarity, that he liked this configuration. It felt li
 "Acknowledged," Freddie mumbled into her hood.
 
 
-The bus hissed to a halt at **Pepper Plaza**. The doors opened, spilling the exhausted, happy crowd onto the concrete.
+The bus hissed to a halt at Pepper Plaza. The doors opened, spilling the exhausted, happy crowd onto the concrete.
 
 The air in Christiansburg was silent compared to the roar of The Crucible. They walked the one block to the apartment building, their footsteps echoing on the pavement. Freddie moved on autopilot, his legs heavy, his battery drained to 0%.
 
@@ -3711,9 +3711,9 @@ Jessica took a sip of coffee. She thought about the Hall Director’s face. *Sin
 
 She walked softly across the carpet, careful not to creak the floorboards, and sat down at her desk in the corner. She pressed the power button on her bulky beige tower.
 
-The computer hummed to life. The fans whirred. The CRT monitor flickered, then glowed with the **Quantum OS 2000 Professional** startup screen. A clean, blue progress bar filled across the bottom.
+The computer hummed to life. The fans whirred. The CRT monitor flickered, then glowed with the Quantum OS 2000 Professional startup screen. A clean, blue progress bar filled across the bottom.
 
-Jessica waited for the desktop to load. She double-clicked the **WebCompass** icon. The dial-up modem screeched its electronic handshake—*reeee-urrrr-ding-ding*—connecting her to the outside world.
+Jessica waited for the desktop to load. She double-clicked the WebCompass icon. The dial-up modem screeched its electronic handshake—*reeee-urrrr-ding-ding*—connecting her to the outside world.
 
 She opened the search bar. She typed the word the Hall Director had whispered.
 
@@ -3737,7 +3737,7 @@ She started reading.
 
 Jessica frowned. That sounded severe. That sounded like the non-verbal kids she had seen in special education classes who needed full-time aides. That didn't sound like Freddie, who could explain the physics of a football game or code a directory in Nix-OS.
 
-She scrolled down, the text jumping slightly as the browser refreshed. She found a section labeled **"The Spectrum."**
+She scrolled down, the text jumping slightly as the browser refreshed. She found a section labeled "The Spectrum."
 
 *...symptoms can vary widely...*
 
@@ -3785,7 +3785,7 @@ Paige sat up, wrapping the top sheet around her shoulders like a cape. She nudge
 
 "Right," Jessica nodded. "I'm looking it up. And I want you to read this list of... specifications."
 
-She pointed to the section on **Sensory Processing**.
+She pointed to the section on Sensory Processing.
 
 *Individuals may experience sensory overload. Ordinary sounds may be painful. Fluorescent lights may be blinding. Fabrics may feel like sandpaper.*
 
@@ -3793,13 +3793,13 @@ Freddie leaned forward. He read the text. He read it again.
 
 "That is... correct," Freddie whispered. "The cafeteria is not just loud. It is physical pain. It is static."
 
-Jessica scrolled down. **Social Interaction.**
+Jessica scrolled down. Social Interaction.
 
 *Difficulty understanding unwritten social rules. Interpretation of language is often literal. confusion with metaphors or sarcasm.*
 
 "Literal," Freddie said. "I do not understand the subtext. I only hear the text."
 
-Jessica scrolled again. **Routine and Structure.**
+Jessica scrolled again. Routine and Structure.
 
 *A strong need for predictability. Changes in routine can cause severe distress or 'meltdowns,' which are an involuntary reaction to being overwhelmed, not a tantrum.*
 
@@ -3809,7 +3809,7 @@ Paige gasped softly. She put her hand on Freddie’s arm.
 
 Freddie stared at the screen. For years, his father had told him he was broken. That he was weird. That he just needed to "toughen up" and "act normal."
 
-But this screen wasn't saying he was broken. It was saying he was *different*. It was describing an operating system that processed data differently than the standard **Quantum OS** build most people ran.
+But this screen wasn't saying he was broken. It was saying he was *different*. It was describing an operating system that processed data differently than the standard Quantum OS build most people ran.
 
 "It is a manual," Freddie said, his voice filled with wonder. "There is a manual."
 
@@ -3921,7 +3921,7 @@ They walked down to Jessica's car, a battered Kyoto Citizen that she kept runnin
 "Exactly," Jessica said, merging onto the highway. "Eye on the horizon."
 
 
-They pulled off the highway in Staunton, Virginia, spotting the massive, glowing red-and-yellow sign of **Zane's Market**.
+They pulled off the highway in Staunton, Virginia, spotting the massive, glowing red-and-yellow sign of Zane's Market.
 
 It wasn't just a gas station; it was a cathedral of convenience. Twelve gas pumps sat under a brightly lit canopy, but the main attraction was the sprawling glass-fronted store. In 2002, Zane's was revolutionary—it was one of the first chains to introduce touch-screen food ordering, a beacon of high-tech caloric intake.
 
@@ -3931,7 +3931,7 @@ Jessica pulled in next to it. Their mother was waiting, looking anxious, but she
 
 "Lunch protocol," Jessica declared. "I'm not sending you back on an empty stomach. Come on, my treat."
 
-They all walked inside. The interior was a sensory blast of bright lights and red tile, but it was a happy kind of noise. They walked past the racks of chips and sodas to the **"Z-Kitchen"** ordering terminals.
+They all walked inside. The interior was a sensory blast of bright lights and red tile, but it was a happy kind of noise. They walked past the racks of chips and sodas to the "Z-Kitchen" ordering terminals.
 
 Freddie stood in front of the touch screen. He loved this interface. No talking to a cashier. No misheard orders. Just buttons.
 
@@ -4219,7 +4219,7 @@ Jessica slammed the car into gear. The Avalon peeled out of the parking lot, lea
 
 The silver Avalon pulled away from the highway and turned down a quiet residential street in Christiansburg. It was a different world from the humid, crowded sprawl of Virginia Beach. Here, the air was thin and smelled of pine needles. The Blue Ridge Mountains stood silent in the distance, a fortress wall protecting the valley.
 
-Jessica slowed the car as they approached the intersection of First and Pepper. "Target acquired," Jessica announced. "Look to your left." Freddie looked out the window. Directly across the street wasn't a parking lot; it was a hub of infrastructure. **Pepper Plaza Transit Center.** It was a proper terminal with a sawtooth curb design, allowing three buses to dock simultaneously without blocking traffic. A heavy shelter with a glass windscreen stood waiting. "That is the node," Jessica explained, pointing. "Blue Ridge Transit. Route 1 goes straight to campus. Route 3 goes to Radford. You can see the bus arrive from your front porch. Visual confirmation." Freddie nodded, entranced by the efficiency of the sawtooth bays. "Optimal geometry," he noted. "No guessing."
+Jessica slowed the car as they approached the intersection of First and Pepper. "Target acquired," Jessica announced. "Look to your left." Freddie looked out the window. Directly across the street wasn't a parking lot; it was a hub of infrastructure. Pepper Plaza Transit Center. It was a proper terminal with a sawtooth curb design, allowing three buses to dock simultaneously without blocking traffic. A heavy shelter with a glass windscreen stood waiting. "That is the node," Jessica explained, pointing. "Blue Ridge Transit. Route 1 goes straight to campus. Route 3 goes to Radford. You can see the bus arrive from your front porch. Visual confirmation." Freddie nodded, entranced by the efficiency of the sawtooth bays. "Optimal geometry," he noted. "No guessing."
 
 Jessica turned the wheel to the right and pulled into the driveway of a small, white house directly diagonally across from the transit center. "And this," Jessica said, killing the engine, "is The Base." Right on Pepper Street, it was a modest, detached single-story house with a small porch and white siding. It looked solid. Unpretentious. Private. "Low density," Freddie noted, approving of the lack of shared walls. "And high security," Jessica added. "Grab your bags."
 
@@ -4231,10 +4231,10 @@ The interior was deceptively spacious. The living room had soft carpet and a lar
 Jessica hopped up onto the counter, swinging her legs. She looked at her siblings—not as a parent, not as a babysitter, but as a squad leader addressing her team. "Welcome to the Iron City," Jessica smiled. "This is a new system. The rules of Delaney Street do not apply here. We have a new Constitution."
 
 
-"First," Jessica pointed to the ceiling. "Rent. Utilities. Internet." "We need jobs," Paige said immediately. "I can wait tables. Freddie can do tech support." "Negative," Jessica shook her head. "We have a sponsor." She reached into her back pocket and pulled out a folded document. She placed it on the counter. **Lease Agreement.** **Rent: \$1.00 per annum.** "Mom’s Great Aunt Margaret," Jessica explained. "She moved to assisted living last month. She owns this place. She hates Dad. She drafted this lease herself." Ellen nodded from the kitchen. "She wants you safe. She’s covering the utilities and the high-speed cable internet. She’s also depositing a stipend for food and books every month." Freddie blinked. "We are... fully funded?" "You are fully funded," Jessica confirmed. "Your job is to get the grades. That’s it."
+"First," Jessica pointed to the ceiling. "Rent. Utilities. Internet." "We need jobs," Paige said immediately. "I can wait tables. Freddie can do tech support." "Negative," Jessica shook her head. "We have a sponsor." She reached into her back pocket and pulled out a folded document. She placed it on the counter. Lease Agreement. Rent: \$1.00 per annum. "Mom’s Great Aunt Margaret," Jessica explained. "She moved to assisted living last month. She owns this place. She hates Dad. She drafted this lease herself." Ellen nodded from the kitchen. "She wants you safe. She’s covering the utilities and the high-speed cable internet. She’s also depositing a stipend for food and books every month." Freddie blinked. "We are... fully funded?" "You are fully funded," Jessica confirmed. "Your job is to get the grades. That’s it."
 
 
-Jessica hopped off the counter and led them down the hall. "There are two rooms. One is the Ops Room." She pointed to the smaller bedroom on the right, where three desks were already pushed against the walls, creating a U-shaped command center. "That’s where we work. Computers, printers, homework." She walked to the door at the end of the hall. "And this is the Silo." She pushed the door open. The Master Bedroom was dominated by a massive piece of furniture. **A King-Sized Bed.** It took up almost the entire room. "76 inches," Jessica stated the spec. "Enough for three." Freddie froze. He looked at Jessica. "Three?" "Three," Jessica confirmed. "We aren't doing shifts. We aren't doing 'Jessica sleeps on the floor.' We are a unit. We sleep together. Every night. Safety in numbers." She looked at Paige. "If you're okay with that?" Paige looked at the vast expanse of the mattress. She imagined the nights without the static. She imagined the safety of the wall. "I'm okay with it," Paige whispered. "I prefer it." Freddie looked at the bed. The logic was undeniable. Maximum regulation. Maximum security. "Accepted," Freddie said. "The King configuration is optimal."
+Jessica hopped off the counter and led them down the hall. "There are two rooms. One is the Ops Room." She pointed to the smaller bedroom on the right, where three desks were already pushed against the walls, creating a U-shaped command center. "That’s where we work. Computers, printers, homework." She walked to the door at the end of the hall. "And this is the Silo." She pushed the door open. The Master Bedroom was dominated by a massive piece of furniture. A King-Sized Bed. It took up almost the entire room. "76 inches," Jessica stated the spec. "Enough for three." Freddie froze. He looked at Jessica. "Three?" "Three," Jessica confirmed. "We aren't doing shifts. We aren't doing 'Jessica sleeps on the floor.' We are a unit. We sleep together. Every night. Safety in numbers." She looked at Paige. "If you're okay with that?" Paige looked at the vast expanse of the mattress. She imagined the nights without the static. She imagined the safety of the wall. "I'm okay with it," Paige whispered. "I prefer it." Freddie looked at the bed. The logic was undeniable. Maximum regulation. Maximum security. "Accepted," Freddie said. "The King configuration is optimal."
 
 
 They walked back into the living room. "Guests," Jessica listed. "Mom is welcome anytime. She has a key." She looked at Ellen, then back at the twins. Her expression hardened. "Robert is banned. He doesn't know this address. The lease is in a trust. If he shows up, you do not open the door. He has no jurisdiction here. This is a secure facility." "Understood," Freddie said, his voice cold. "Robert is blocked."
@@ -4260,23 +4260,23 @@ Freddie looked around the room. No parents fighting downstairs. No Robert trying
 
 The morning sun hit the Blue Ridge Mountains, filtering through the sliding glass door on Pepper Street. The house smelled of coffee and the cinnamon rolls Jessica had pulled from a tube. It was quiet. Not the tense, waiting-for-a-fight quiet of Delaney Street, but a settled, structural silence. Ellen had left an hour ago, driving the Holt Meridian back to the coast to study for her Monday exams. She had hugged them tight, left a check on the counter for "emergency pizza," and driven away, leaving the three siblings alone in their new fortress.
 
-Freddie sat at the kitchen island—a sturdy butcher-block piece Aunt Margaret had installed during the remodel—wearing his orange hoodie and pajama pants. He was eating a cinnamon roll with a fork, dismantling it spiral by spiral. Paige sat next to him, nursing a mug of tea. Jessica stood on the other side of the island. She wasn't eating. She was holding a thick, three-ring binder. The cover was Maroon and Orange—the official colors of **Commonwealth Polytechnic Institute (CPI)**. The logo on the front showed a muscular blacksmith hammering a glowing piece of iron on an anvil: **The Forger.**
+Freddie sat at the kitchen island—a sturdy butcher-block piece Aunt Margaret had installed during the remodel—wearing his orange hoodie and pajama pants. He was eating a cinnamon roll with a fork, dismantling it spiral by spiral. Paige sat next to him, nursing a mug of tea. Jessica stood on the other side of the island. She wasn't eating. She was holding a thick, three-ring binder. The cover was Maroon and Orange—the official colors of Commonwealth Polytechnic Institute (CPI). The logo on the front showed a muscular blacksmith hammering a glowing piece of iron on an anvil: The Forger.
 
 "Okay," Jessica said, placing the binder on the granite countertop with a heavy *thud*. "We have the Base. We have the funding. Now, we need the software patch." Freddie stopped eating. He looked at the binder. "Is that the research?" "This is everything," Jessica said, tapping the cover. "I spent the last three months in the CPI library. I pulled medical journals, psychology textbooks, and case studies. I used the university printers until they cut off my paper allowance."
 
 She opened the binder. The first page wasn't a wall of text. It was a list of bullet points. "Freddie," Jessica said softly. "You know how Dad always said you were 'broken'? How he said you were 'wrong'?" Freddie stiffened. "My code is incompatible with standard protocols." "No," Jessica corrected. "Your code is just written in a different language."
 
-She spun the binder around so he could read it. The header read: **DIAGNOSTIC CRITERIA: AUTISM AND SENSORY PROCESSING VARIANCES.**
+She spun the binder around so he could read it. The header read: *DIAGNOSTIC CRITERIA: AUTISM AND SENSORY PROCESSING VARIANCES.*
 
 Freddie leaned in. He adjusted his glasses. He began to read.
 
-- **Criterion A:** Qualitative impairment in social interaction... failure to develop peer relationships appropriate to developmental level... lack of social or emotional reciprocity.
+- Criterion A: Qualitative impairment in social interaction... failure to develop peer relationships appropriate to developmental level... lack of social or emotional reciprocity.
 
-- **Criterion B:** Restricted repetitive and stereotyped patterns of behavior, interests, and activities... encompassing preoccupation with one or more stereotyped and restricted patterns of interest that is abnormal either in intensity or focus.
+- Criterion B: Restricted repetitive and stereotyped patterns of behavior, interests, and activities... encompassing preoccupation with one or more stereotyped and restricted patterns of interest that is abnormal either in intensity or focus.
 
-- **Criterion C:** Clinically significant impairment in social, occupational, or other important areas of functioning.
+- Criterion C: Clinically significant impairment in social, occupational, or other important areas of functioning.
 
-- **Sensory Processing:** Hyper- or hypo-reactivity to sensory input (e.g., apparent indifference to pain/temperature, adverse response to specific sounds or textures, excessive smelling or touching of objects).
+- Sensory Processing: Hyper- or hypo-reactivity to sensory input (e.g., apparent indifference to pain/temperature, adverse response to specific sounds or textures, excessive smelling or touching of objects).
 
 Freddie read the list. Then he read it again. He felt a strange sensation in his chest. It wasn't the panic of a meltdown. It was the click of a lock tumbling into place. "The intensity of focus," Freddie whispered, tapping the page. "The Architecture. The file structures." "And the sensory input," Paige pointed out, reading over his shoulder. "The textures. The clothing tags. The lights at the graduation."
 
@@ -4284,17 +4284,17 @@ Freddie looked up at Jessica. "This document... it describes the operating syste
 
 Freddie processed the analogy. "Buffer overflow," he repeated. "Too much data. System hang." "Exactly," Jessica said. "Dad tried to run you like a standard Quantum OS machine. He kept smashing the keyboard wondering why it wouldn't work. But you're not Quantum OS. You're Aurora. You're a custom build."
 
-Freddie looked back at the binder. He touched the word **Autism**. For eighteen years, he had been called "shy," "weird," "difficult," and "broken." He had been yelled at for covering his ears. He had been mocked for rocking. But here, in black and white text from a major university, it wasn't an insult. It was a spec sheet.
+Freddie looked back at the binder. He touched the word Autism. For eighteen years, he had been called "shy," "weird," "difficult," and "broken." He had been yelled at for covering his ears. He had been mocked for rocking. But here, in black and white text from a major university, it wasn't an insult. It was a spec sheet.
 
-"If it is a hardware specification," Freddie said slowly, "then it can be optimized." "Yes," Jessica grinned. She flipped the page to a section she had highlighted in orange. The header read: **THE SENSORY DIET.**
+"If it is a hardware specification," Freddie said slowly, "then it can be optimized." "Yes," Jessica grinned. She flipped the page to a section she had highlighted in orange. The header read: *THE SENSORY DIET.*
 
 "We don't try to 'fix' you," Jessica explained. "We engineer the environment to match the hardware. We control the inputs so you don't crash." She pointed to the list.
 
-- **Deep Pressure Therapy:** Use of weighted blankets or compression garments to regulate the nervous system.
+- Deep Pressure Therapy: Use of weighted blankets or compression garments to regulate the nervous system.
 
-- **Vestibular Input:** Rhythmic movement (rocking, swinging) to soothe anxiety.
+- Vestibular Input: Rhythmic movement (rocking, swinging) to soothe anxiety.
 
-- **Visual Control:** Reduction of fluorescent lighting; use of natural or incandescent light.
+- Visual Control: Reduction of fluorescent lighting; use of natural or incandescent light.
 
 "We’re already doing some of this," Paige noted. "The hugging. The squeezing in the bed. That’s Deep Pressure Therapy." "Exactly," Jessica said. "You two hacked the system by accident. Now, we're going to do it on purpose." She pulled a pen out of her pocket. "We’re going to build a schedule. A 'Sensory Diet' for the house. We control the lights. We control the noise. We schedule the pressure." She looked at Freddie. "You're the Admin now, Freddie. You tell us what the system needs."
 
@@ -4356,7 +4356,7 @@ Freddie sat up. He adjusted his orange hoodie, pulling it straight. He patted th
 
 Freddie nodded. He processed this. "I accept the protocol. However, my database on... biological differences... is limited to high school biology textbooks. If we are to operate without barriers, I need to ensure my internal software is updated. I do not want to react with... error." He looked at his hands, twisting the drawstring of his hoodie. "I do not want to be weird."
 
-Jessica leaned back, crossing her legs. A spark of an idea lit up her eyes. "You know," she started, "we all have to fulfill the General Education requirements for CPI. There's a Health and Physical Education credit we need." "I do not enjoy organized sports," Freddie noted immediately. "The sensory input of a gymnasium is torture." "Not sports," Jessica said. "There’s a lecture course. I saw it in the course catalog when I was registering for my summer classes. **HLTH 201: Dimensions of Human Sexuality.**"
+Jessica leaned back, crossing her legs. A spark of an idea lit up her eyes. "You know," she started, "we all have to fulfill the General Education requirements for CPI. There's a Health and Physical Education credit we need." "I do not enjoy organized sports," Freddie noted immediately. "The sensory input of a gymnasium is torture." "Not sports," Jessica said. "There’s a lecture course. I saw it in the course catalog when I was registering for my summer classes. HLTH 201: Dimensions of Human Sexuality."
 
 Freddie blinked. "A university-level course on... reproduction?" "More than that," Jessica explained. "It covers anatomy, physiology, psychology, relationships, boundaries... everything. It’s a science class, Freddie. It explains the mechanics of how people work. No shame. Just data."
 
@@ -4372,7 +4372,7 @@ Freddie felt a strange sense of anticipation. Usually, the topic of "sexuality" 
 
 "I agree to the curriculum," Freddie stated firmly. "We will enroll in HLTH 201 for the Fall Semester." "It's a plan," Jessica grinned. "The Avery Unit takes on Human Sexuality. We're going to ace that class."
 
-Freddie leaned back into the sofa, feeling the warmth of his sisters on both sides. He looked out the window. Across the street, he saw a **Route 1** bus pull out of the sawtooth bay, heading toward campus. He had a sensory diet. He had a King bed waiting down the hall. And now, he had a syllabus.
+Freddie leaned back into the sofa, feeling the warmth of his sisters on both sides. He looked out the window. Across the street, he saw a Route 1 bus pull out of the sawtooth bay, heading toward campus. He had a sensory diet. He had a King bed waiting down the hall. And now, he had a syllabus.
 
 "This is efficient," Freddie said, closing his eyes. "I like The Base." "We know, Navigator," Paige whispered, resting her head on his shoulder. "We know."
 
@@ -4396,7 +4396,7 @@ Paige nodded against Freddie’s hair. She understood the assignment. "Okay," sh
 
 She stood up again, but this time she kept his hand in hers. "Come on," she said gently. "Command Center."
 
-**The Shower** They walked into the master bathroom attached to the main bedroom. It was a standard setup: a toilet, a sink, and a bathtub with a showerhead. The fluorescent light buzzed softly overhead. "Sit," Paige instructed, pointing to the toilet. She put the lid down. Freddie sat. He was trembling, his hands gripping his knees. He looked at her, his eyes begging her not to disappear behind the curtain. Paige didn't hesitate. She pulled her t-shirt over her head. She pushed her shorts down. She stood there, completely exposed. She looked at Freddie. He looked at her. It was the first time he had ever seen a female body. It was the first time she had shown one to a guy. But in the small, bright bathroom, with the ghost of a meltdown hovering in the air, it wasn't sexual. It was just biology. It was just Paige.
+The Shower They walked into the master bathroom attached to the main bedroom. It was a standard setup: a toilet, a sink, and a bathtub with a showerhead. The fluorescent light buzzed softly overhead. "Sit," Paige instructed, pointing to the toilet. She put the lid down. Freddie sat. He was trembling, his hands gripping his knees. He looked at her, his eyes begging her not to disappear behind the curtain. Paige didn't hesitate. She pulled her t-shirt over her head. She pushed her shorts down. She stood there, completely exposed. She looked at Freddie. He looked at her. It was the first time he had ever seen a female body. It was the first time she had shown one to a guy. But in the small, bright bathroom, with the ghost of a meltdown hovering in the air, it wasn't sexual. It was just biology. It was just Paige.
 
 "See?" Paige said softly. "Just skin. Just me." Freddie stared. He blinked slowly. He didn't look away. The panic in his chest ratcheted down a notch. *She is still here.* "Your turn," Paige said. "You're sweaty from the panic. Let's get the armor off." She helped him stand. She helped him pull off the orange hoodie and the pajama pants. He stood before her, pale and shivering. He opened his mouth to say *It is cold*, but nothing came out. He just shivered violently. "I know," Paige said, reading the shiver. "The water will fix it."
 
@@ -4416,12 +4416,12 @@ Paige took the shampoo. She poured a dollop into her hand. "Lean back a little,"
 
 Freddie sat in the warm water, surrounded by the steam and the scent of soap. He felt cherished. He felt safe. The shame of the meltdown—the embarrassment of needing help—evaporated. He realized he didn't need words. They spoke his language. He let his head loll to the side, resting against Paige’s arm. He let out a long, shaky exhale. It was the only sound he made.
 
-**The Cocoon** Getting him out was a team effort. Paige turned off the water. Jessica grabbed the big fluffy towel. "Up," Jessica commanded gently. They gripped his arms and hoisted him out of the tub. He was dead weight, but they were strong. He stood on the wet mat, shivering slightly. Jessica wrapped the towel around him instantly, rubbing his shoulders briskly to generate heat. Paige grabbed a second towel and dried his legs. They dried him off completely before they even reached for their own towels. "Dry?" Paige asked. Freddie nodded once.
+The Cocoon Getting him out was a team effort. Paige turned off the water. Jessica grabbed the big fluffy towel. "Up," Jessica commanded gently. They gripped his arms and hoisted him out of the tub. He was dead weight, but they were strong. He stood on the wet mat, shivering slightly. Jessica wrapped the towel around him instantly, rubbing his shoulders briskly to generate heat. Paige grabbed a second towel and dried his legs. They dried him off completely before they even reached for their own towels. "Dry?" Paige asked. Freddie nodded once.
 
 He looked at them. They were still wet, water beading on their skin. He pointed at the door, then at his clothes pile, raising an eyebrow in a silent question. *Clothes?* "Negative," Jessica said, tossing her wet hair back. "We're testing the theory, remember? We sleep without the armor tonight. We trust the room." Freddie looked at Paige. She nodded. Freddie nodded back. *Okay.*
 
 
-They walked into the **Silo**. The blackout curtains were drawn, sealing out the Virginia sun. The room was cool, dark, and smelled faintly of the lemon polish from the hallway. The **King Bed** waited. It was a massive, 76-inch island of maroon fabric in the center of the room.
+They walked into the Silo. The blackout curtains were drawn, sealing out the Virginia sun. The room was cool, dark, and smelled faintly of the lemon polish from the hallway. The King Bed waited. It was a massive, 76-inch island of maroon fabric in the center of the room.
 
 "We have space," Jessica noted, pulling back the heavy duvet. "But tonight, we don't use it." She looked at Freddie. He was standing by the edge of the bed, his shoulders slumped, his eyes half-closed. The silence in his throat was absolute; the audio drivers were completely offline. "Compression Protocol," Jessica whispered. "I'll take the left flank. Paige, you take the right. Freddie, you're the core."
 
@@ -4471,44 +4471,44 @@ She looked at Freddie and Paige. "Okay, tax law crash course. Mom called me last
 "Insurance," Jessica continued. "Health is covered under Mom’s plan until you're older. But car insurance..." She pulled out her keys. "I added both of you to my policy this morning. You are authorized drivers of the Fleet." Paige’s eyes lit up. "The Avalon?" "The Avalon," Jessica confirmed. "And since it's a stick shift, and I know Freddie can't operate the third pedal..." Freddie shook his head vehemently. *Negative. Too many variables.* "...Freddie is listed as a 'Licensed Household Resident' for legal reasons, but Paige... you're the secondary pilot." Jessica tossed the keys to Paige. "You're driving to breakfast. I want you to get a feel for the clutch before classes start." Paige caught the keys. She grinned. "I prefer manual. More control." "I know," Jessica smiled. "Let's roll."
 
 
-They walked out the front door. Across the street, a **Route 1** bus was just pulling out of Pepper Plaza, its diesel engine roaring as it turned toward Main Street. Freddie watched it go, appreciating the punctuality. Then he turned to the driveway. The Silver Avalon wasn't a "boat" like the automatic sedans Freddie was used to. It was an older model that Jessica had specifically hunted down—a rare V6 with a 5-speed manual transmission. A "sleeper" car.
+They walked out the front door. Across the street, a Route 1 bus was just pulling out of Pepper Plaza, its diesel engine roaring as it turned toward Main Street. Freddie watched it go, appreciating the punctuality. Then he turned to the driveway. The Silver Avalon wasn't a "boat" like the automatic sedans Freddie was used to. It was an older model that Jessica had specifically hunted down—a rare V6 with a 5-speed manual transmission. A "sleeper" car.
 
 "Shotgun," Freddie signed, tapping his chest and pointing to the passenger door. He needed to be next to Paige. If the car lurched, he needed to be able to grab her arm. "Navigator position confirmed," Jessica said, opening the back door. "I'll issue course corrections from the rear."
 
 Paige slid into the driver’s seat. She adjusted the mirrors. She wiggled the stick shift. *Neutral.* She pressed the clutch pedal. It was stiff. "Heavy clutch," Paige noted. "I like it." "It bites early," Jessica warned from the back. "Don't ride it."
 
-Paige turned the key. The engine purred. She shifted into First. She eased off the clutch. The car rolled forward smoothly. No lurch. No stall. "Smooth," Freddie signed, giving a thumbs up. "She's a natural," Jessica said. "Head for Business 460. We're going to **The Daily Grind**."
+Paige turned the key. The engine purred. She shifted into First. She eased off the clutch. The car rolled forward smoothly. No lurch. No stall. "Smooth," Freddie signed, giving a thumbs up. "She's a natural," Jessica said. "Head for Business 460. We're going to The Daily Grind."
 
 The drive to Blacksburg was a short hop up the road. Freddie watched Paige’s hand on the gear stick. *Shift. Down. Shift. Up.* It was rhythmic. It was a fidget spinner that controlled a two-ton machine. He saw why she liked it. It kept her hands busy. It kept her focused. He reached over and rested his hand on her knee. She didn't flinch. She just shifted to Third gear and patted his hand with her pinky.
 
 
-They sat in a booth at The Daily Grind, a coffee shop popular with the off-campus crowd. The waitress arrived with the coffee pot to refill Jessica’s mug. "So," Jessica said, unfolding her napkin and stirring in a packet of sugar. "After we eat, we hit the Post Office to file the paperwork." She took a sip, looking at Freddie over the rim of the mug. "And then... I noticed a shop two doors down. It’s called '**The Cartridge Exchange**'."
+They sat in a booth at The Daily Grind, a coffee shop popular with the off-campus crowd. The waitress arrived with the coffee pot to refill Jessica’s mug. "So," Jessica said, unfolding her napkin and stirring in a packet of sugar. "After we eat, we hit the Post Office to file the paperwork." She took a sip, looking at Freddie over the rim of the mug. "And then... I noticed a shop two doors down. It’s called 'The Cartridge Exchange'."
 
 Freddie’s eyes snapped up from his eggs. He stopped chewing. "I saw a bin of old grey cartridges in the window," Jessica teased. "The 8-bit stuff. The 16-bit stuff. The systems that don't need the internet."
 
-Freddie dropped his fork. It clattered onto the plate. He grabbed his notepad and scribbled furiously. He turned it around. **HARDWARE?**
+Freddie dropped his fork. It clattered onto the plate. He grabbed his notepad and scribbled furiously. He turned it around. HARDWARE?
 
-"Wall to wall," Jessica confirmed. "I think I saw a **Super Bit-System** in the case."
+"Wall to wall," Jessica confirmed. "I think I saw a Super Bit-System in the case."
 
-Freddie looked out the window. He couldn't speak, but his leg started bouncing under the table—not a nervous bounce, but an eager one. The "Comic Book" variable was acceptable, but Vintage Code? That was superior. That was pure logic encased in grey plastic. He took a deep breath. **Status: Online.**
+Freddie looked out the window. He couldn't speak, but his leg started bouncing under the table—not a nervous bounce, but an eager one. The "Comic Book" variable was acceptable, but Vintage Code? That was superior. That was pure logic encased in grey plastic. He took a deep breath. Status: Online.
 
 ### Part 3: The Cartridge Exchange & Channel 3
 
 #### The Cartridge Exchange
 
-The bell above the door chimed as they walked into **The Cartridge Exchange**. The air inside was cool and smelled of ozone, old cardboard, and heated plastic—a scent Freddie associated with pure happiness. The walls were lined with shelves: to the left were the modern discs for current consoles, but to the right was the "Retro Zone," where bins and shelves overflowed with grey and black cartridges.
+The bell above the door chimed as they walked into The Cartridge Exchange. The air inside was cool and smelled of ozone, old cardboard, and heated plastic—a scent Freddie associated with pure happiness. The walls were lined with shelves: to the left were the modern discs for current consoles, but to the right was the "Retro Zone," where bins and shelves overflowed with grey and black cartridges.
 
-"Okay," Jessica said, taking charge. "We have the TV—the **MagnaView** combo unit. It has the VCR and DVD built-in, but it only has one set of inputs on the front." She walked over to a rack of cables and grabbed a black plastic box. "**Infrastructure**," she announced, showing it to Paige. "A 3-Way AV Selector Switch. Input 1 will be the **Bit-System**, Input 2 will be the **Super Bit-System**, and Input 3 is the VCR. You just push the button to change the channel. No unplugging cables."
+"Okay," Jessica said, taking charge. "We have the TV—the MagnaView combo unit. It has the VCR and DVD built-in, but it only has one set of inputs on the front." She walked over to a rack of cables and grabbed a black plastic box. "Infrastructure," she announced, showing it to Paige. "A 3-Way AV Selector Switch. Input 1 will be the Bit-System, Input 2 will be the Super Bit-System, and Input 3 is the VCR. You just push the button to change the channel. No unplugging cables."
 
 "Smart," Paige noted.
 
 They moved to the glass counter where the clerk, a guy named Dave with a ponytail, looked up from his magazine. "Help you folks?"
 
-"We're building a setup," Jessica said. "We need a **Bit-System**—the original toaster model—a **Super Bit-System**, and two controllers for each."
+"We're building a setup," Jessica said. "We need a Bit-System—the original toaster model—a Super Bit-System, and two controllers for each."
 
 Freddie scribbled on his notepad and showed it to Jessica. *LIGHT GUN.*
 
-"And a **Bit-Zapper**," Jessica added. "Orange, please. Not the grey one."
+"And a Bit-Zapper," Jessica added. "Orange, please. Not the grey one."
 
 Dave pulled the consoles from the case. The Bit-System was a boxy grey unit, while the Super Bit-System was flatter with purple sliding switches. "Refurbished," Dave grunted. "New 72-pin connectors in the toaster. It'll read the carts on the first try. No blowing required." Freddie smiled; that was a critical repair.
 
@@ -4516,23 +4516,23 @@ Dave pulled the consoles from the case. The Bit-System was a boxy grey unit, whi
 
 Freddie’s hands trembled slightly with excitement. He walked to the bins, his fingers brushing against the textured plastic of the cartridges. He didn't just pick random games; he picked the foundational texts of his childhood. He started pulling cartridges and stacking them in Paige’s arms.
 
-He began with the platformers, the "Plumber" series that defined the genre. He grabbed the essential combo cartridge, ***Super Plumber Bros. / Mallard Hunt***, for platforming perfection and target practice. He added ***Super Plumber Bros. 2: The Dream World***, the strange sequel with the vegetables, and ***Super Plumber Bros. 3***, the masterpiece with the raccoon tail and the map screen. For the 16-bit console, he added ***Super Plumber World***, loving the physics of the yellow cape, and ***Super Plumber All-Stars***, the remake collection with updated graphics but the same perfect logic. He even grabbed the educational titles, ***The Plumber is Missing*** and ***The Plumber's Time Machine***, because he loved the geography and history lessons wrapped in a game engine.
+He began with the platformers, the "Plumber" series that defined the genre. He grabbed the essential combo cartridge, *Super Plumber Bros. / Mallard Hunt*, for platforming perfection and target practice. He added *Super Plumber Bros. 2: The Dream World*, the strange sequel with the vegetables, and *Super Plumber Bros. 3*, the masterpiece with the raccoon tail and the map screen. For the 16-bit console, he added *Super Plumber World*, loving the physics of the yellow cape, and *Super Plumber All-Stars*, the remake collection with updated graphics but the same perfect logic. He even grabbed the educational titles, *The Plumber is Missing* and *The Plumber's Time Machine*, because he loved the geography and history lessons wrapped in a game engine.
 
-Next, he moved to the pre-rendered graphics of the "Kongo" series. He picked up ***Kongo Country***, ***Kongo Country 2: Diddy's Quest***, and the final chapter, ***Kongo Country 3: Double Trouble***. The mine cart levels in the first game were pure rhythm, a sensory experience he could play with his eyes closed.
+Next, he moved to the pre-rendered graphics of the "Kongo" series. He picked up *Kongo Country*, *Kongo Country 2: Diddy's Quest*, and the final chapter, *Kongo Country 3: Double Trouble*. The mine cart levels in the first game were pure rhythm, a sensory experience he could play with his eyes closed.
 
-He moved to the simulation and puzzle section. He found his absolute favorite, ***Metro-City: Super Bit Edition***. On the PC it was just a spreadsheet, but on the console, it felt alive, complete with the "Monster Statue" gift and a soothing jazz soundtrack. He added ***Block-Drop*** for the original system—falling tetrominos were pure geometry—and ***Demolition Squad***, a puzzle game where the Plumber broke walls with a hammer.
+He moved to the simulation and puzzle section. He found his absolute favorite, *Metro-City: Super Bit Edition*. On the PC it was just a spreadsheet, but on the console, it felt alive, complete with the "Monster Statue" gift and a soothing jazz soundtrack. He added *Block-Drop* for the original system—falling tetrominos were pure geometry—and *Demolition Squad*, a puzzle game where the Plumber broke walls with a hammer.
 
-He rounded out the collection with the 8-bit classics: ***Stone Age Olympics*** for the "Dino Vault" event, ***Dirt Bike Rally*** for the custom track editor, and the logic-heavy ***Puzzle Ball Lolo***. Finally, he grabbed the two gold cartridges that needed no introduction: ***The Golden Quest*** and its side-scrolling sequel, ***The Golden Quest II***.
+He rounded out the collection with the 8-bit classics: *Stone Age Olympics* for the "Dino Vault" event, *Dirt Bike Rally* for the custom track editor, and the logic-heavy *Puzzle Ball Lolo*. Finally, he grabbed the two gold cartridges that needed no introduction: *The Golden Quest* and its side-scrolling sequel, *The Golden Quest II*.
 
-Freddie was digging through a "Rare/Import" bin near the back when he froze. He saw a box art that made his heart stop. It showed a teenager in a puffy red vest riding a pink Grav-Board. The title was in Japanese katakana, but he knew the logo instantly: ***Super Time Traveler II***.
+Freddie was digging through a "Rare/Import" bin near the back when he froze. He saw a box art that made his heart stop. It showed a teenager in a puffy red vest riding a pink Grav-Board. The title was in Japanese katakana, but he knew the logo instantly: *Super Time Traveler II*.
 
-He loved the *Time Traveler* movie trilogy. He loved the **Dorian**—that sleek, stainless steel sports car converted into a time machine. He loved the logic of time paradoxes. He grabbed the box and turned it over. The cartridge inside looked different—it was rounded and smooth, unlike the blocky, angular US Super-Bit carts. He hurried over to Jessica, his eyes wide, thrusting the box at her. He scribbled on his pad: *I NEED THIS. THE GRAV-BOARD.*
+He loved the *Time Traveler* movie trilogy. He loved the Dorian—that sleek, stainless steel sports car converted into a time machine. He loved the logic of time paradoxes. He grabbed the box and turned it over. The cartridge inside looked different—it was rounded and smooth, unlike the blocky, angular US Super-Bit carts. He hurried over to Jessica, his eyes wide, thrusting the box at her. He scribbled on his pad: *I NEED THIS. THE GRAV-BOARD.*
 
 Jessica looked at the box. She saw the Japanese text and the shape of the cart. "Oh, Freddie," she said gently. "We can't play this."
 
 Freddie frowned, pointing to the Super Bit-System on the counter. *Compatible?*
 
-"No," Jessica explained, taking the box and showing him the bottom of the cartridge. "See the shape? This is for the **Super Family-Com**—the Japanese version of the system. The American Super Bit-System has plastic tabs inside the slot that physically block this cartridge from fitting." She tapped the Japanese text on the back. "Plus, the whole game is in Japanese. You wouldn't be able to read the menus or the paradox warnings."
+"No," Jessica explained, taking the box and showing him the bottom of the cartridge. "See the shape? This is for the Super Family-Com—the Japanese version of the system. The American Super Bit-System has plastic tabs inside the slot that physically block this cartridge from fitting." She tapped the Japanese text on the back. "Plus, the whole game is in Japanese. You wouldn't be able to read the menus or the paradox warnings."
 
 Freddie stared at the box. He felt a pang of deep disappointment. The cover art was perfect, but Jessica’s logic was sound. There was physical incompatibility due to the tabs, and software incompatibility due to the language. He sighed, a silent exhale through his nose, and put the box back on the shelf. *Someday,* he thought. *Someday I will learn the mod to break the tabs.*
 
@@ -4554,51 +4554,51 @@ They walked out into the sunshine of Blacksburg, ready to wire up the Iron City.
 
 Back at the house on Pepper Street, the energy was electric. Jessica unpacked the groceries while Freddie and Paige engaged the "Entertainment Protocol" in the living room. The MagnaView TV sat on its low wooden stand, a heavy silver monolith waiting to be awakened.
 
-"Cabling," Freddie announced, kneeling behind the stand. He laid out the wires. It was a puzzle he knew how to solve, but there was one piece of geometry that bothered him. The **Bit-System** (Input 1) only had **Mono Audio**. If he plugged it in standard, sound would only come out of the Left speaker. *Asymmetry.* The thought made his skin crawl. "Wait," Freddie signed to Paige. He dug into the bottom of the cable bag Jessica had brought. He found it. A small, black cable with one female jack on one end and two male plugs on the other. **The Y-Adapter.**
+"Cabling," Freddie announced, kneeling behind the stand. He laid out the wires. It was a puzzle he knew how to solve, but there was one piece of geometry that bothered him. The Bit-System (Input 1) only had Mono Audio. If he plugged it in standard, sound would only come out of the Left speaker. *Asymmetry.* The thought made his skin crawl. "Wait," Freddie signed to Paige. He dug into the bottom of the cable bag Jessica had brought. He found it. A small, black cable with one female jack on one end and two male plugs on the other. The Y-Adapter.
 
 "Splitter," Freddie whispered satisfyingly. He began the hookup:
 
-1.  **The Hub:** He placed the black **AV Selector Switch** on top of the VCR.
+1.  The Hub: He placed the black AV Selector Switch on top of the VCR.
 
-2.  **Input 1 (The Bit-System):**
+2.  Input 1 (The Bit-System):
 
     1.  He plugged the single Red audio cable into the side of the grey console.
 
-    2.  He plugged the other end into the female port of the **Y-Adapter**.
+    2.  He plugged the other end into the female port of the Y-Adapter.
 
     3.  He plugged the Y-Adapter’s two male ends (Red and White) into the switch.
 
     4.  *Result:* Dual Mono. Balanced sound from both speakers.
 
-3.  **Input 2 (The Super Bit-System):** He plugged the standard stereo cable into the back.
+3.  Input 2 (The Super Bit-System): He plugged the standard stereo cable into the back.
 
-4.  **Output:** He ran the master cable from the switch to the front inputs of the TV.
+4.  Output: He ran the master cable from the switch to the front inputs of the TV.
 
 "Power," Freddie requested. Paige handed him the heavy black power bricks. He plugged them into the surge protector strip. *Click. Click.* The red LEDs on the power strip glowed. "System ready," Freddie said, sitting back on his heels.
 
-**The First Boot** Jessica came in from the kitchen with three cans of cola. "Moment of truth," she grinned. "Input 2." Freddie pressed the middle button on the switch. *Clunk.*
+The First Boot Jessica came in from the kitchen with three cans of cola. "Moment of truth," she grinned. "Input 2." Freddie pressed the middle button on the switch. *Clunk.*
 
-He picked up the **Super Plumber World** cartridge. He blew on the pins—habit, pure and simple—and slid it into the slot. He pushed the purple power switch up. *Click.*
+He picked up the Super Plumber World cartridge. He blew on the pins—habit, pure and simple—and slid it into the slot. He pushed the purple power switch up. *Click.*
 
-**Da-ding!** The TV speakers popped, then filled the room with the jaunty, synthesized trumpet fanfare. The **MagnaView** screen flashed white, then resolved into the vibrant, colorful title screen. **SUPER PLUMBER WORLD.** The Plumber rode the Dinosaur across the screen. "It works," Paige whispered. "Look at the colors." "It’s brighter than the old TV," Freddie noted. "The flat glass minimizes glare."
+Da-ding! The TV speakers popped, then filled the room with the jaunty, synthesized trumpet fanfare. The MagnaView screen flashed white, then resolved into the vibrant, colorful title screen. *SUPER PLUMBER WORLD.* The Plumber rode the Dinosaur across the screen. "It works," Paige whispered. "Look at the colors." "It’s brighter than the old TV," Freddie noted. "The flat glass minimizes glare."
 
 He picked up the controller. It felt perfect in his hands—the rounded edges, the grey plastic, the four colored buttons (Purple and Lavender). It wasn't just a controller; it was a steering wheel for his childhood. "Co-Op?" Paige asked, picking up Player 2. "Always," Freddie nodded.
 
 
-The afternoon dissolved into a blur of 16-bit bliss. The sun went down, but they didn't notice. The only light that mattered was the glow of the CRT. They played through the **Donut Plains**. They found the **Secret Key**. They unlocked the **Star Road**. Freddie wasn't mute anymore. The game had unlocked his voice. "Jump!" he yelled. "Spin jump! Use the cape!" "I'm trying!" Paige laughed, mashing the B button. "The physics are slippery!" "Inertia," Freddie corrected. "You have to account for momentum."
+The afternoon dissolved into a blur of 16-bit bliss. The sun went down, but they didn't notice. The only light that mattered was the glow of the CRT. They played through the Donut Plains. They found the Secret Key. They unlocked the Star Road. Freddie wasn't mute anymore. The game had unlocked his voice. "Jump!" he yelled. "Spin jump! Use the cape!" "I'm trying!" Paige laughed, mashing the B button. "The physics are slippery!" "Inertia," Freddie corrected. "You have to account for momentum."
 
 Jessica sat on the floor behind them, leaning against the sofa, eating pizza bites. She watched them. She saw Freddie leaning into Paige every time the character made a difficult jump. She saw Paige nudging Freddie’s shoulder every time they beat a level. They weren't just playing a game; they were syncing their processors. The stress of the move, the meltdown, the father—it was all being overwritten by the clean, logical code of the game.
 
 "Okay, Engineers," Jessica announced during a level transition. "It's 10:00 PM. We have orientation stuff tomorrow." "One more castle?" Paige pleaded. "We're right at Iggy's Castle." "One more," Jessica conceded. "But then we save."
 
-They beat the castle. They saved the egg. Freddie pressed **START**. The menu popped up. **SAVE GAME?** **\> YES** Freddie hit the button. *Ding.* The save noise. The sound of permanence. He didn't know about batteries. He didn't know about voltage decay. He just knew that his progress was locked in. He existed in the machine.
+They beat the castle. They saved the egg. Freddie pressed START. The menu popped up. SAVE GAME? \> YES Freddie hit the button. *Ding.* The save noise. The sound of permanence. He didn't know about batteries. He didn't know about voltage decay. He just knew that his progress was locked in. He existed in the machine.
 
 
-The TV was off. The house was dark. They went through the new routine. Bathroom. (The new clear curtain was hung; it worked perfectly, keeping the water in while keeping the line of sight open). Toothbrushes. And then, the **Silo**.
+The TV was off. The house was dark. They went through the new routine. Bathroom. (The new clear curtain was hung; it worked perfectly, keeping the water in while keeping the line of sight open). Toothbrushes. And then, the Silo.
 
 "No armor," Jessica reminded them, pulling back the maroon duvet of the massive bed. "No armor," Freddie agreed. He stripped down to his boxers, then hesitated for just a second before removing those too. The morning panic was gone. The "Robert Virus" had been purged. This was just procedure. He looked at Paige. She was already under the covers, waiting. He climbed in.
 
-The **King Bed** offered 76 inches of width—enough for them to sleep without touching if they wanted to. They didn't want to. Freddie lay in the middle. Jessica on the left. Paige on the right. They collapsed the space, gravitating to the center until they were pressed together. The weight of the duvet, combined with the heat of his sisters, pressed him down into the mattress.
+The King Bed offered 76 inches of width—enough for them to sleep without touching if they wanted to. They didn't want to. Freddie lay in the middle. Jessica on the left. Paige on the right. They collapsed the space, gravitating to the center until they were pressed together. The weight of the duvet, combined with the heat of his sisters, pressed him down into the mattress.
 
 "Good game," Paige whispered, resting her head on his shoulder. "High score," Freddie whispered back. He closed his eyes. The static was gone. The channel was clear. And tomorrow, they would explore the Iron City.
 
@@ -4620,11 +4620,11 @@ Freddie sat at the island, staring at the milk swirling in his glass. His throat
 
 Freddie looked up. He tilted his head. *Problem?*
 
-"Mobility," Jessica said, sliding a printout across the island. "The buses are free for students, but only if you have an active **Poly Pass**. Your IDs do not activate until the Fall Semester starts in August. That leaves us stranded for two months unless we pay cash fares every single time. And I am not driving you to **Valu-Mart** for every soda run."
+"Mobility," Jessica said, sliding a printout across the island. "The buses are free for students, but only if you have an active Poly Pass. Your IDs do not activate until the Fall Semester starts in August. That leaves us stranded for two months unless we pay cash fares every single time. And I am not driving you to Valu-Mart for every soda run."
 
 Paige groaned into her cereal. "I am not walking to the mall in July heat."
 
-"Agreed," Jessica said. "However..." She tapped the paper. "If you are enrolled in a **Summer Session** course, your Poly Pass is active immediately upon tuition payment."
+"Agreed," Jessica said. "However..." She tapped the paper. "If you are enrolled in a Summer Session course, your Poly Pass is active immediately upon tuition payment."
 
 Freddie reached for the paper. His hand shook slightly, but he pulled it closer. *Session 1: Closed.* *Session 3: Closed.* *Session 2: July 7 – August 15.*
 
@@ -4634,7 +4634,7 @@ Paige looked at Freddie. "That sounds good. But what class? Geology? Intro to li
 
 Jessica straightened up. She looked from Paige to Freddie. Her expression was serious, devoid of mockery.
 
-"No," she said softly. "I think we should take **HLTH 201: Dimensions of Human Sexuality**."
+"No," she said softly. "I think we should take HLTH 201: Dimensions of Human Sexuality."
 
 Freddie froze. His spoon stopped halfway to his mouth. The memory of yesterday—the panic, the bathroom, the shower, the exposure—flashed through his mind. They had seen everything. They had broken the ultimate social barrier of siblings to stop him from crashing.
 
@@ -4683,7 +4683,7 @@ The drive to Blacksburg was a short, straight shot, but the terrain changed rapi
 
 The light turned red. Paige stopped. The car rocked slightly on its suspension. "Handbrake," Jessica advised. "Don't ride the clutch holding it." Paige pulled the handbrake up. *Click-click.* When the light turned green, she executed the maneuver perfectly: revs up, clutch to the bite point, handbrake down. The Avalon surged forward without rolling back an inch. "Textbook," Freddie noted. "Torque application nominal."
 
-They pulled into the **Visitor Center**, a small brick building at the campus entrance. Jessica ran in with a five-dollar bill and returned with a maroon hang-tag. "Day Pass," she said, hanging it from the rearview mirror. "Valid for Perry Street Lot. It is a hike to the bookstore, but it is the only place we won't get ticketed."
+They pulled into the Visitor Center, a small brick building at the campus entrance. Jessica ran in with a five-dollar bill and returned with a maroon hang-tag. "Day Pass," she said, hanging it from the rearview mirror. "Valid for Perry Street Lot. It is a hike to the bookstore, but it is the only place we won't get ticketed."
 
 
 Paige docked the Avalon in a narrow spot between a massive pickup truck and a faculty sedan. She killed the engine. "Secure," Paige said, pocketing the keys.
@@ -4695,9 +4695,9 @@ The bookstore was a massive, rotunda-shaped building located at the edge of the 
 
 "Textbooks are downstairs," Jessica said, leading the way to the escalator. They descended into the basement level, a labyrinth of tall metal shelves packed with knowledge. Freddie scanned the aisle markers. *Engineering. Mathematics. Biology. Health & Physical Education.*
 
-"Target acquired," Freddie whispered, pointing to Aisle 4. They walked down the row. The shelves were stocked with colorful softcovers and massive, intimidating hardcovers. Jessica stopped at a tag labeled **HLTH 201**.
+"Target acquired," Freddie whispered, pointing to Aisle 4. They walked down the row. The shelves were stocked with colorful softcovers and massive, intimidating hardcovers. Jessica stopped at a tag labeled HLTH 201.
 
-There was a stack of thick, glossy textbooks. The cover featured a generic, abstract image of a double helix DNA strand merging with a silhouette of diverse people. **Title:** *Human Sexuality: Biological and Psychosocial Perspectives*. **Edition:** 4th. **Condition:** New.
+There was a stack of thick, glossy textbooks. The cover featured a generic, abstract image of a double helix DNA strand merging with a silhouette of diverse people. Title: *Human Sexuality: Biological and Psychosocial Perspectives*. Edition: 4th. Condition: New.
 
 Jessica picked one up. It was heavy. "Price check," she noted, flipping it over to check the barcode sticker. "\$115.00 New." She looked at Freddie and Paige. "We need three," Freddie said immediately. His voice was gaining strength, fueled by the logic of the situation. "Three?" Paige asked. "That is... three hundred and forty-five dollars. Can't we share?"
 
@@ -4730,21 +4730,21 @@ They moved to the waiting area. Behind the counter, a specialized printer began 
 
 Five minutes later, the operator handed three warm plastic cards across the counter. "Don't punch a hole in them," she recited the standard warning. "It breaks the antenna coil. If you lose it, it is ten dollars to replace."
 
-Freddie took his card. It was still warm from the printer. It was sleek. The background was a deep Maroon with Orange accents. **CPI POLY PASS**. His name was printed in raised, black thermal lettering: **FREDDIE AVERY**. His photo was to the right—he looked serious, alert, and present.
+Freddie took his card. It was still warm from the printer. It was sleek. The background was a deep Maroon with Orange accents. *CPI POLY PASS*. His name was printed in raised, black thermal lettering: *FREDDIE AVERY*. His photo was to the right—he looked serious, alert, and present.
 
 He ran his thumb over the raised letters of his name. It was tactile proof of his existence in the system. He flipped it over. A thick black magnetic stripe ran across the top. A barcode sat at the bottom. "Access granted," he whispered. He looked at Jessica. "This works on the bus?" "Swipe and ride," Jessica confirmed, sliding her own card into her wallet. "Starting right now. It is your key to the city. It opens the library, it gets you into the gym—if you ever wanted to go there—and it pays the fare."
 
 Freddie slid the card into the front pocket of his jeans. He patted it. It wasn't just plastic. It was mobility.
 
 
-"Phase Two," Jessica announced as they walked out of **Kincaid Hall** into the bright sunshine. She pointed across the massive, grassy expanse of **Commonwealth Green** toward the imposing stone fortress on the hill: **Preston Hall**. "We have the IDs. Now we have to pay the toll."
+"Phase Two," Jessica announced as they walked out of Kincaid Hall into the bright sunshine. She pointed across the massive, grassy expanse of Commonwealth Green toward the imposing stone fortress on the hill: Preston Hall. "We have the IDs. Now we have to pay the toll."
 
 "Tuition?" Paige asked. "Tuition," Jessica confirmed. "Summer classes aren't covered by standard financial aid packages. The Pell Grant doesn't run in July. This is a cash-on-the-barrelhead transaction." She patted her purse. "Luckily, the Avery Grant is liquid."
 
 They walked across the grass. Freddie watched the heavy limestone buildings loom closer. "Preston Hall," Freddie noted. "Administrative Command." "Exactly," Jessica said. "The Office of the Bursar is on the first floor. They want their money before you sit in the chair."
 
 
-The final stop was a quieter building (**Callahan Hall**) near the edge of **Commonwealth Green**—the building everyone on campus informally called *"the disability office."* They entered the suite marked **SERVICES FOR STUDENTS WITH DISABILITIES (SSD)**. Beside the heavy oak doorframe, a pinned Provost's committee memo announced early campus rumblings of a multi-year modernization initiative to eventually rebrand the department as the **Office of Educational Accessibility**, though for now the old brass `SSD` plaque still gleamed on the wall. Inside, the suite was carpeted, quiet, and smelled of lavender—a deliberate choice, Freddie suspected, to lower anxiety.
+The final stop was a quieter building (Callahan Hall) near the edge of Commonwealth Green—the building everyone on campus informally called *"the disability office."* They entered the suite marked *SERVICES FOR STUDENTS WITH DISABILITIES (SSD)*. Beside the heavy oak doorframe, a pinned Provost's committee memo announced early campus rumblings of a multi-year modernization initiative to eventually rebrand the department as the Office of Educational Accessibility, though for now the old brass SSD plaque still gleamed on the wall. Inside, the suite was carpeted, quiet, and smelled of lavender—a deliberate choice, Freddie suspected, to lower anxiety.
 
 A receptionist looked up from a desk. "Welcome to SSD. How can I help you?" "Intake," Jessica said, placing the thick manila envelope on the desk. "This is Freddie Avery. Incoming Freshman, starting Session 2. We have his documentation for Cerebral Palsy and ADHD."
 
@@ -4756,7 +4756,7 @@ Then, he hesitated. He looked at Jessica, then at Paige. They both nodded slight
 
 "My sisters and I... we suspect I am Autistic," Freddie said. The word felt heavy in the quiet room, but saying it out loud didn't cause the walls to collapse. "I do not have a diagnosis on file. The data is... empirical observation. I would like a recommendation for a provider who can perform an evaluation."
 
-The receptionist smiled warmly. She opened a drawer and pulled out a separate pamphlet. "We work closely with the **Psychological Services Center** right here on campus, and there is a specialist in Blacksburg, **Dr. Aris Thorne**, who handles adult diagnoses. He is excellent." She wrote a name and number on a sticky note and attached it to the pamphlet. "Call him. Tell him SSD sent you. It can take a few weeks to get an appointment, but having the referral helps."
+The receptionist smiled warmly. She opened a drawer and pulled out a separate pamphlet. "We work closely with the Psychological Services Center right here on campus, and there is a specialist in Blacksburg, Dr. Aris Thorne, who handles adult diagnoses. He is excellent." She wrote a name and number on a sticky note and attached it to the pamphlet. "Call him. Tell him SSD sent you. It can take a few weeks to get an appointment, but having the referral helps."
 
 "Thank you," Freddie said, taking the paper. It felt like a treasure map.
 
@@ -4766,15 +4766,15 @@ He looked at the sticky note, then at his sisters standing behind him. A critica
 
 "That is a flaw in the architecture," Freddie stated. "I require my support team to have full visibility. If I am non-verbal, or if I am in a crash state, they need to be able to speak for me. They need to be able to schedule appointments and view my grades." He pointed to Jessica and Paige. "They are the Admins. They need root access."
 
-The receptionist nodded, understanding immediately. She reached into a file sorter and pulled out a single sheet of paper. "You're looking for the **FERPA Waiver and Release of Information** form," she said, sliding it across the desk. "This authorizes us to communicate with designated individuals."
+The receptionist nodded, understanding immediately. She reached into a file sorter and pulled out a single sheet of paper. "You're looking for the FERPA Waiver and Release of Information form," she said, sliding it across the desk. "This authorizes us to communicate with designated individuals."
 
-Freddie didn't even read the fine print. He picked up the pen. He signed his name on the line: *Freddie Avery*. Then he checked the boxes: **\[X\] Full Access** **\[X\] Financial** **\[X\] Medical/Disability** **\[X\] Academic**
+Freddie didn't even read the fine print. He picked up the pen. He signed his name on the line: *Freddie Avery*. Then he checked the boxes: \[X\] Full Access \[X\] Financial \[X\] Medical/Disability \[X\] Academic
 
 He wrote the names in the authorized field, pressing hard to ensure the ink was permanent: *Jessica Avery* *Paige Avery* *Ellen Avery*
 
 He slid the paper back. "Access granted," Freddie said. "Do not lock them out."
 
-The receptionist stamped the form. **FILED**. "They are in the system, Freddie. You're all set. See you Monday at ten."
+The receptionist stamped the form. FILED. "They are in the system, Freddie. You're all set. See you Monday at ten."
 
 They walked out of the building. The sun was high and bright. "Okay," Jessica said, putting her sunglasses on. "Now we go home." Paige spun the keys on her finger. "I'm driving." Freddie touched the pamphlet in his pocket. *Dr. Aris Thorne.* He had a name. He had a plan. And now, his Admins had the keys. "Let's go," Freddie said. "The King bed is waiting."
 
@@ -4786,13 +4786,13 @@ Paige navigated the Avalon smoothly down West Campus Drive, shifting from 2nd to
 
 "Briefing on medical," Jessica said from the back seat. "Since we are not going back to the Beach, we need local providers. I am transferring our files."
 
-"Primary Care?" Paige asked. "There is a practice in Christiansburg near the hospital. But for the... specialized stuff," Jessica hesitated slightly, then pushed through. "I see a gynecologist in **Riner**. Dr. Halloway. She is quiet, she is efficient, and her office is in the middle of nowhere, so it is private."
+"Primary Care?" Paige asked. "There is a practice in Christiansburg near the hospital. But for the... specialized stuff," Jessica hesitated slightly, then pushed through. "I see a gynecologist in Riner. Dr. Halloway. She is quiet, she is efficient, and her office is in the middle of nowhere, so it is private."
 
 "Riner?" Freddie asked. "Route 8?" "Yes. And there is a bus," Jessica added, knowing his brain needed the transit connection. "Route 8 runs once an hour. It drops off right in front of her clinic."
 
 "Why do we need a special doctor?" Paige asked, glancing in the rearview mirror.
 
-"Because we are living in close quarters," Jessica said frankly. "And because periods are a variable we need to control. Dr. Halloway put me on the shot—the **Cycle-Stop**. One injection every three months. No pills to remember. No... mess."
+"Because we are living in close quarters," Jessica said frankly. "And because periods are a variable we need to control. Dr. Halloway put me on the shot—the Cycle-Stop. One injection every three months. No pills to remember. No... mess."
 
 Paige thought about the King bed. She thought about the white sheets. She thought about the cramping that usually laid her out for two days a month. "No mess?" Paige asked. "It stops the cycle completely for most people," Jessica said. "It stabilizes the hormones. Less mood swings. Less pain."
 
@@ -4812,7 +4812,7 @@ The silver Avalon crunched into the gravel driveway on Pepper Street. The house 
 
 They unloaded the cargo. Jessica carried the bag from the Bursar’s office (receipts and paperwork). Paige carried the Poly Passes. Freddie carried the books.
 
-He walked straight to the living room and sat on the beige carpet, using the coffee table as a desk. He pulled the heavy, glossy textbook out of the bag. **Title:** *Human Sexuality: Biological and Psychosocial Perspectives*. **Weight:** 4.2 lbs. **Status:** The Manual.
+He walked straight to the living room and sat on the beige carpet, using the coffee table as a desk. He pulled the heavy, glossy textbook out of the bag. Title: *Human Sexuality: Biological and Psychosocial Perspectives*. Weight: 4.2 lbs. Status: The Manual.
 
 He cracked the spine. The smell of new paper and binding glue wafted up—a sensory input he usually loved. He skipped the Preface. He skipped the Introduction. He went straight to Chapter 3: Anatomy and Physiology.
 
@@ -4838,7 +4838,7 @@ Jessica looked at Paige. Paige nodded. She didn't look scared. She looked like s
 
 "Okay," Jessica said, standing up. She walked over to the windows and adjusted the blinds, ensuring they were fully closed. The room dimmed. "Class is in session," Jessica announced. "Bring the book."
 
-**\[NARRATIVE GAP: CLINICAL OBSERVATION & INSTRUCTION\]** *Time Elapsed: 45 Minutes*
+*\[NARRATIVE GAP: CLINICAL OBSERVATION & INSTRUCTION\]* *Time Elapsed: 45 Minutes*
 
 ***
 
@@ -4876,7 +4876,7 @@ Paige leaned her head on his shoulder. "Systems go, Navigator."
 
 The sun had finally dipped below the ridge, leaving the sky a bruised purple over the Iron City. Inside the house on Pepper Street, the lights were low, casting long shadows across the hallway.
 
-Jessica walked into the bathroom holding a plastic package she had picked up during their supply run to **Valu-Mart**. "Upgrade time," she announced.
+Jessica walked into the bathroom holding a plastic package she had picked up during their supply run to Valu-Mart. "Upgrade time," she announced.
 
 Freddie stood in the doorway, watching. He was wearing his orange hoodie over his boxers—his transition armor. He watched Jessica grip the old, opaque white shower curtain. *Zip. Zip. Zip.* The metal rings slid off the rod with a rhythmic clatter. The white curtain pooled on the floor like a deflated parachute. To Freddie, it looked like a wall coming down.
 
@@ -4917,7 +4917,7 @@ Freddie stood up. He dried himself behind the clear curtain, watching Paige fini
 
 #### The Silo
 
-The door to the Master Bedroom clicked shut. The blackout curtains were drawn, sealing the room into a protective, cool twilight. The **King Bed** dominated the space. It was a massive, 76-inch plain of maroon jersey sheets—a landscape of safety.
+The door to the Master Bedroom clicked shut. The blackout curtains were drawn, sealing the room into a protective, cool twilight. The King Bed dominated the space. It was a massive, 76-inch plain of maroon jersey sheets—a landscape of safety.
 
 "Armor off," Jessica said, dropping her towel by the hamper. She climbed into the bed on the left side, pulling the sheet up to her waist. Paige followed suit, claiming the right side.
 
@@ -4931,7 +4931,7 @@ Jessica rolled onto her side, pressing against his left arm. Paige rolled in fro
 
 Freddie closed his eyes. He ran a system diagnostic. *Heart Rate:* Nominal. *Anxiety:* Zero. *Shame:* Not Detected.
 
-He felt Paige’s breathing. He felt the weight of Jessica’s arm. It wasn't sexual. It wasn't weird. It was **Gravity**. It was the force that held him to the earth.
+He felt Paige’s breathing. He felt the weight of Jessica’s arm. It wasn't sexual. It wasn't weird. It was Gravity. It was the force that held him to the earth.
 
 "Textbooks on the nightstand?" Freddie asked into the dark. "Right there," Paige whispered. "Ready for class." "Good," Freddie said.
 
@@ -4949,7 +4949,7 @@ The silver Horizon Avalon idled in the driveway on Pepper Street. The morning wa
 
 Paige sat in the driver’s seat. She adjusted the rearview mirror, checking the sightlines. "Clutch in," she whispered. She shifted into Reverse. The gear stick clicked into place with mechanical precision. "We are mobile," Freddie confirmed from the passenger seat. He had his clipboard ready—a literal clipboard he had found in the Ops Room supplies. It held their insurance cards, the FERPA copies, and a list of objectives.
 
-"Destination: **Montgomery General Internal Medicine**," Jessica announced from the back seat. "Dr. Vance. He’s the primary node. He handles my physicals, and he’s the gateway to the specialists."
+"Destination: Montgomery General Internal Medicine," Jessica announced from the back seat. "Dr. Vance. He’s the primary node. He handles my physicals, and he’s the gateway to the specialists."
 
 Paige eased the car out of the driveway. Her clutch control was becoming muscle memory now; the car didn't even shudder. They turned onto the main road, heading toward the hospital district on the south side of Christiansburg.
 
@@ -4962,7 +4962,7 @@ The receptionist handed over three heavy clipboards stacked with forms. "Update 
 
 They sat in a row of chairs. Freddie looked at the stack of paper. *Medical History. Family History. Surgical History.* He uncapped his pen. He liked forms. Forms were binary. *Yes/No. Check Box.*
 
-Then he reached the last page: **HIPAA Authorization & Release of Information**. *I hereby authorize this practice to release my protected health information to...*
+Then he reached the last page: HIPAA Authorization & Release of Information. *I hereby authorize this practice to release my protected health information to...*
 
 "Hold," Freddie said. Jessica and Paige looked up from their own clipboards. "We need a policy decision," Freddie stated. "Standard protocol is privacy. My records are sealed." He looked at Jessica. "But you are the Admin. You need to know if the hardware fails." He looked at Paige. "You are the Anchor. You need to know if the chemicals are imbalanced."
 
@@ -4970,7 +4970,7 @@ Then he reached the last page: **HIPAA Authorization & Release of Information**.
 
 "Redundancy," Freddie nodded. "Total transparency." He wrote in the blank lines on his form: *1. Jessica Avery (Sister)* *2. Paige Avery (Sister)* *3. Ellen Avery (Mother)*
 
-He checked the box for **\[X\] ALL RECORDS**.
+He checked the box for *\[X\] ALL RECORDS*.
 
 Paige watched him, then copied the list onto her form. Jessica did the same on her update form.
 
@@ -4989,11 +4989,11 @@ Freddie took a breath. He looked at Paige. She gave him a small nod. *Use the ma
 
 Dr. Vance stopped writing. He looked at Freddie—really looked at him. He saw the lack of eye contact, the slight rocking, the precise, mechanical speech patterns. He looked at Jessica and Paige, who were standing guard like Secret Service agents. "I see," Dr. Vance said softly. "Well, you're in the right place. We can get that looked at."
 
-"We have a lead," Jessica interjected. "The Dean of Students recommended **Dr. Aris Thorne** in Blacksburg. But we need a referral for insurance." "Dr. Thorne is excellent," Dr. Vance agreed. "I'll write the referral today. 'Evaluation for Autism Spectrum Disorder.' That should get you in the door."
+"We have a lead," Jessica interjected. "The Dean of Students recommended Dr. Aris Thorne in Blacksburg. But we need a referral for insurance." "Dr. Thorne is excellent," Dr. Vance agreed. "I'll write the referral today. 'Evaluation for Autism Spectrum Disorder.' That should get you in the door."
 
 "Thank you," Freddie said.
 
-"Now," Dr. Vance turned to Paige. "And for you?" Paige sat up straighter. "I need a referral too. To **Dr. Halloway** in Riner." "OB/GYN?" Dr. Vance asked. "Yes," Paige said. "I want to start the **Cycle-Stop** injection. Jessica is on it. We... we live in close quarters. We want to stabilize the variables."
+"Now," Dr. Vance turned to Paige. "And for you?" Paige sat up straighter. "I need a referral too. To Dr. Halloway in Riner." "OB/GYN?" Dr. Vance asked. "Yes," Paige said. "I want to start the Cycle-Stop injection. Jessica is on it. We... we live in close quarters. We want to stabilize the variables."
 
 Dr. Vance didn't ask why siblings living together needed birth control. He was a doctor; he cared about health, not living arrangements. "Dr. Halloway is great," he said. "I'll put that referral in as well. Anything else?"
 
@@ -5044,7 +5044,7 @@ The bathroom door opened. Paige walked back in. She wasn't nude anymore. She was
 
 She settled back into her spot on Freddie’s right. Freddie looked at her. He looked at the black panties. "Status?" Freddie asked, his voice still trembling slightly. Paige offered a tired, reassuring smile. "Status is Red, Freddie. Literally. It’s just that time of the month." She saw the fear still lingering in his eyes. She took his hand and placed it on her stomach, right over her belly button. "I am not hurt," she promised. "My body is just doing a system reset. It’s annoying, and tomorrow it’s going to hurt, but I’m okay."
 
-Freddie felt the warmth of her skin. He felt the steady rise and fall of her breathing. *Not trauma. Maintenance.* "Pain levels?" he asked. "Zero right now," Paige said. "But Day Two is usually the bad one. I might need the **Cycle-Ease** and the heating pad tomorrow." "And pressure," Jessica added from the other side. "Don't forget the squeeze."
+Freddie felt the warmth of her skin. He felt the steady rise and fall of her breathing. *Not trauma. Maintenance.* "Pain levels?" he asked. "Zero right now," Paige said. "But Day Two is usually the bad one. I might need the Cycle-Ease and the heating pad tomorrow." "And pressure," Jessica added from the other side. "Don't forget the squeeze."
 
 "I can provide pressure," Freddie stated immediately. The mission parameters had changed from 'Rescue' to 'Support.' He could do Support. "I know," Paige whispered. "That’s why you're the best."
 
@@ -5064,23 +5064,23 @@ Here is Part 3 of the narrative, detailing the trip to Riner and the medical app
 
 The morning on Pepper Street started earlier than the alarm clock intended. Around 3:00 AM, Paige had woken up with the familiar, dull ache of cramps, signaling the start of her cycle—and the "Red Flag" status Freddie had learned to recognize. While the timing meant a groggy start to the day, it was actually serendipitous for the logistics of the morning.
 
-They had 9:00 AM appointments at the clinic in Riner. Blue Ridge Transit’s **Route 8** was the only link between the two towns, a lifeline designed primarily to shuttle seniors from the rural hills into Christiansburg. It ran on a strict hourly pulse, leaving Pepper Plaza at 45 minutes past the hour.
+They had 9:00 AM appointments at the clinic in Riner. Blue Ridge Transit’s Route 8 was the only link between the two towns, a lifeline designed primarily to shuttle seniors from the rural hills into Christiansburg. It ran on a strict hourly pulse, leaving Pepper Plaza at 45 minutes past the hour.
 
-"Strategy," Jessica announced, checking her watch in the kitchen. "The 8:45 AM bus gets us there at 9:05 AM. That is too tight for intake paperwork. We take the **7:45 AM** departure."
+"Strategy," Jessica announced, checking her watch in the kitchen. "The 8:45 AM bus gets us there at 9:05 AM. That is too tight for intake paperwork. We take the 7:45 AM departure."
 
-They left the Base at 7:35 AM. It was a short walk—diagonally across the street to the **Pepper Plaza Transit Center**. The morning air was humid, but the view of the mountains was clear.
+They left the Base at 7:35 AM. It was a short walk—diagonally across the street to the Pepper Plaza Transit Center. The morning air was humid, but the view of the mountains was clear.
 
 The bus pulled into the sawtooth bay right on time. It was smaller than the massive articulated buses used for the university runs, better suited for the winding state roads. The amber destination sign glowed against the morning sun:
 
 8 RINER
 
-They boarded, swiping their newly minted **Poly Passes**. The bus was mostly empty, save for a few locals heading out to the farms.
+They boarded, swiping their newly minted Poly Passes. The bus was mostly empty, save for a few locals heading out to the farms.
 
-The ride was deceptively short but scenic. As soon as the bus left the commercial density of Christiansburg, the landscape opened up. They rolled down **SR-8**, passing rolling farmland, misty cow pastures, and scattered farmhouses. For twenty minutes, Freddie watched the telephone poles whip by, counting the intervals. It was a quiet, rhythmic transition from the "Iron City" to the country.
+The ride was deceptively short but scenic. As soon as the bus left the commercial density of Christiansburg, the landscape opened up. They rolled down SR-8, passing rolling farmland, misty cow pastures, and scattered farmhouses. For twenty minutes, Freddie watched the telephone poles whip by, counting the intervals. It was a quiet, rhythmic transition from the "Iron City" to the country.
 
 "Next stop," the driver announced. "Riner Road and Union Valley."
 
-The bus slowed, pulling over to the side of the highway at the intersection of **SR-8** and **SR-669**. They stepped off onto the gravel shoulder.
+The bus slowed, pulling over to the side of the highway at the intersection of SR-8 and SR-669. They stepped off onto the gravel shoulder.
 
 "Landmarks," Jessica pointed out.
 
@@ -5094,7 +5094,7 @@ The geography here was tricky. The medical building was built directly into the 
 
 They waited for a break in the traffic on SR-8—mostly pickup trucks and landscaping trailers—and crossed the highway. They navigated the sidewalk that sloped steeply downward, descending the hill to the main parking lot level.
 
-The entrance to **Dr. Halloway’s** office was on the first floor. Inside, the waiting room was quiet, smelling of sanitizer and potpourri. It was a small practice, far removed from the hustle of the hospital district.
+The entrance to Dr. Halloway’s office was on the first floor. Inside, the waiting room was quiet, smelling of sanitizer and potpourri. It was a small practice, far removed from the hustle of the hospital district.
 
 "Freddie," Jessica said, pointing to a comfortable chair in the corner. "This is your post. You hold the perimeter."
 
@@ -5102,7 +5102,7 @@ The entrance to **Dr. Halloway’s** office was on the first floor. Inside, the 
 
 Jessica and Paige went to the check-in window. Jessica was a regular; she simply signed her name. Paige, however, had the new patient clipboard to navigate.
 
-They were called back quickly. For Jessica, the appointment was routine clockwork. She knew the drill: a quick vitals check, a brief chat with Dr. Halloway, and the administration of the **Cycle-Stop** injection. It was a quick pinch, and she was protected for another three months.
+They were called back quickly. For Jessica, the appointment was routine clockwork. She knew the drill: a quick vitals check, a brief chat with Dr. Halloway, and the administration of the Cycle-Stop injection. It was a quick pinch, and she was protected for another three months.
 
 For Paige, the consultation took longer. Dr. Halloway, a woman with a kind face and efficiency that matched Jessica’s, reviewed Paige’s file.
 
@@ -5128,7 +5128,7 @@ They collected Freddie from the lobby at 9:45 AM.
 
 They walked back out into the humidity, trudging back *up* the steep hill to SR-8. They crossed the street to the return stop along Riner Road, just down from the intersection.
 
-They checked the schedule posted on the sign. The bus departed from Auburn High School nearby at **10:15 AM**.
+They checked the schedule posted on the sign. The bus departed from Auburn High School nearby at 10:15 AM.
 
 A few minutes later, the white bus appeared over the crest of the hill. The destination sign had flipped for the return leg:
 
@@ -5284,7 +5284,7 @@ He was too busy holding onto the sister who made the world stop spinning.
 
 The journey from the classroom door to the building lobby was only fifty yards, but to Freddie, it felt like a forced march across a gravity-heavy planet.
 
-His arms were draped heavily over his sisters’ shoulders. To his left, Jessica bore his weight, her shoulder pressing into his armpit. She was wearing a maroon CPI t-shirt emblazoned with the school mascot—**The Forger**—a muscular, bearded blacksmith raising a hammer. The graphic seemed to mock the current situation; while the painted man on her chest was made of iron, Freddie felt like he was made of wet sand.
+His arms were draped heavily over his sisters’ shoulders. To his left, Jessica bore his weight, her shoulder pressing into his armpit. She was wearing a maroon CPI t-shirt emblazoned with the school mascot—The Forger—a muscular, bearded blacksmith raising a hammer. The graphic seemed to mock the current situation; while the painted man on her chest was made of iron, Freddie felt like he was made of wet sand.
 
 To his right was Paige. She was wearing a plain navy blue t-shirt that was, objectively, a size too small. The fabric pulled tight across her chest and shoulders, outlining her bust in a way that usually made Freddie avert his gaze out of respect. But right now, he wasn't looking at her geometry; he was relying on her structure. She gripped his waist firmly, her hip locking against his thigh with every step to prevent his knee from buckling.
 
@@ -5440,7 +5440,7 @@ He gestured vaguely at Freddie, waving a hand as if Freddie were a piece of lugg
 
 Freddie felt a sudden, sharp jolt of recognition.
 
-The data retrieval system in his brain spun up. He accessed a file from **Freshman Year, September 1999**. *Subject:* Jason. Snare Drummer. *Incident:* Concession Stand. *Dialogue:* "He's a big boy... cut the cord... it's embarrassing."
+The data retrieval system in his brain spun up. He accessed a file from Freshman Year, September 1999. *Subject:* Jason. Snare Drummer. *Incident:* Concession Stand. *Dialogue:* "He's a big boy... cut the cord... it's embarrassing."
 
 This was the same algorithm. Different face, same code.
 
@@ -5518,13 +5518,13 @@ Freddie leaned back against the wall. The lobby was quiet again. The threats—t
 
 #### The Safe Zone
 
-The walk to **Commonwealth Mall** was a silent march. The adrenaline from the confrontation in the lobby was fading, replaced by the heavy, humid weight of a Virginia afternoon.
+The walk to Commonwealth Mall was a silent march. The adrenaline from the confrontation in the lobby was fading, replaced by the heavy, humid weight of a Virginia afternoon.
 
-A white-and-maroon bus was already idling at the curb, its diesel engine rumbling with a deep, patient rhythm. The destination sign glowed amber: **1 FALLING BRANCH**
+A white-and-maroon bus was already idling at the curb, its diesel engine rumbling with a deep, patient rhythm. The destination sign glowed amber: *1 FALLING BRANCH*
 
 "That’s us," Jessica said, her voice tired. "Let’s get out of here."
 
-They boarded. Freddie pulled his **Poly Pass** from his pocket and held it up for the driver to see. The driver gave a quick nod of acknowledgment—a visual check, no beep, no machine. Just a flash of plastic to prove he belonged.
+They boarded. Freddie pulled his Poly Pass from his pocket and held it up for the driver to see. The driver gave a quick nod of acknowledgment—a visual check, no beep, no machine. Just a flash of plastic to prove he belonged.
 
 Jessica and Paige flashed their IDs behind him, and they moved to the back of the bus, finding a row of empty seats near the rear exit door.
 
@@ -5558,7 +5558,7 @@ His eyes were focused entirely on her face, scanning her expression for data on 
 
 To Freddie, she wasn't a collection of "parts." She wasn't "breasts" or "hips."
 
-She was **Paige**. She was the Anchor. She was the person who knew how to wash his hair without getting soap in his eyes. She was the weight that stopped the world from spinning.
+She was Paige. She was the Anchor. She was the person who knew how to wash his hair without getting soap in his eyes. She was the weight that stopped the world from spinning.
 
 She was his sister.
 
@@ -5604,7 +5604,7 @@ The bus hissed to a halt. The doors opened. They stepped out into the sunshine o
 
 #### The Incorrect Variable
 
-**Kincaid Hall** was the living room of the university. While the library was for silence and the labs were for code, Kincaid was for noise, food, and decompression.
+Kincaid Hall was the living room of the university. While the library was for silence and the labs were for code, Kincaid was for noise, food, and decompression.
 
 Freddie sat on a low, plush sofa in the main atrium. He physically could not sit at the high-top tables near the café; the bar-stool height required a climb his spastic diplegia made dangerous, and his balance was too precarious for a seat without a back. The sofa was the only viable option.
 
@@ -5634,7 +5634,7 @@ Freddie sat up slowly. He didn't want to engage, but the social contract require
 
 She glanced at Paige, then back to Freddie. She offered a smile that didn't quite reach her eyes.
 
-"I figured maybe we got off on the wrong foot. I wanted to see if I could buy you a coffee? There’s a place right over there." She pointed to the **Espresso Bar** in the corner. "My treat. No strings attached. Just... getting to know you."
+"I figured maybe we got off on the wrong foot. I wanted to see if I could buy you a coffee? There’s a place right over there." She pointed to the Espresso Bar in the corner. "My treat. No strings attached. Just... getting to know you."
 
 Freddie processed the offer. *Input:* Coffee. *Variable:* Caffeine causes tremors. *Variable:* Bitter taste profile. *Conclusion:* Incompatible.
 
@@ -5798,7 +5798,7 @@ She didn't smoke. Not really. A girl from her dorm—some drama major named Ashl
 
 Krystal looked at the pack. She felt ridiculous holding it. But the rage in her chest was so hot it felt like heartburn, and she needed to do something with her hands. She needed to look like she didn't care.
 
-She fumbled with the lighter, taking three tries to get a flame. She put the white stick between her lips and inhaled, just like she’d seen in movies. **Mistake.**
+She fumbled with the lighter, taking three tries to get a flame. She put the white stick between her lips and inhaled, just like she’d seen in movies. Mistake.
 
 The smoke hit her throat like tear gas. She gagged, doubling over as a violent coughing fit wracked her body. Her eyes watered, ruining her mascara. It tasted like burnt paper and chemicals.
 
@@ -5836,7 +5836,7 @@ The narrative clicked into place in Krystal's mind, dark and twisted but comfort
 
 She remembered Paige’s face. The defiance. The protectiveness.
 
-To Krystal, that wasn't love. That was **Stockholm Syndrome**.
+To Krystal, that wasn't love. That was Stockholm Syndrome.
 
 *He's making her do it,* Krystal decided, flicking the ash (and almost burning her thumb). *He probably plays the 'I'm disabled and lonely' card until she feels so sorry for him that she lets him treat her like a girlfriend. He's trapped her.*
 
@@ -5937,7 +5937,7 @@ Freddie sat up slowly. The recharge session had been effective. His vision was c
 
 "I am operational," Freddie stated. He looked at Jessica. "Hunger levels are rising. I require caloric intake before transit."
 
-"Agreed," Jessica said. "The main cafeteria is closed for the summer, but the **Burger Hub** counter is open. Let’s grab some fries."
+"Agreed," Jessica said. "The main cafeteria is closed for the summer, but the Burger Hub counter is open. Let’s grab some fries."
 
 They stood up. Freddie adjusted his orange hoodie. He felt lighter. He had made his choice—Structure over Friction—and the universe felt orderly again.
 
@@ -5973,7 +5973,7 @@ She stopped.
 
 Freddie had recoiled violently. He scrambled backward, colliding with Jessica. He brought his hand up to cover his nose and mouth, his eyes watering behind his glasses.
 
-It wasn't fear. It was **Olfactory Assault**.
+It wasn't fear. It was Olfactory Assault.
 
 Krystal had smoked exactly one cigarette, and she had done it badly. The smoke hadn't blown away; it had clung to her. It was in her hair. It was in the fabric of her pink top. It was on her breath.
 
@@ -6068,15 +6068,15 @@ They finished their meal under the watchful, hungry eyes of the girl who thought
 
 #### The Humidity Index
 
-The automatic doors of **Kincaid Hall** slid open, and the atmosphere changed instantly.
+The automatic doors of Kincaid Hall slid open, and the atmosphere changed instantly.
 
-Inside, the air had been cool, filtered, and sane. Outside, the **New River Valley** in July was a physical assault. The heat wasn't dry; it was a heavy, wet blanket of humidity that wrapped around them the second they stepped onto the pavement.
+Inside, the air had been cool, filtered, and sane. Outside, the New River Valley in July was a physical assault. The heat wasn't dry; it was a heavy, wet blanket of humidity that wrapped around them the second they stepped onto the pavement.
 
 "Thermal shock," Freddie gasped, stopping immediately to adjust his breathing. "The air density has increased."
 
 "It’s a sauna," Jessica agreed, wiping a bead of sweat from her forehead. "Welcome to Blacksburg in the summer. It’s 90 degrees and the air is soup."
 
-They stood on the edge of **Commonwealth Mall**, the broad avenue that ran through the heart of campus. Across the street, the bus shelter waited. It was only fifty feet away, but in this heat, it looked like a mirage.
+They stood on the edge of Commonwealth Mall, the broad avenue that ran through the heart of campus. Across the street, the bus shelter waited. It was only fifty feet away, but in this heat, it looked like a mirage.
 
 Behind them, inside the cool safety of the glass doors, Krystal watched them go.
 
@@ -6095,9 +6095,9 @@ She tossed the pack into the trash can with a heavy *thunk*. She didn't need pro
 
 "Bus is coming," Paige said, pointing down the mall.
 
-The white-and-maroon **Blue Ridge Transit** bus turned the corner, its large windshield reflecting the harsh sun. The destination sign flickered in the heat waves:
+The white-and-maroon Blue Ridge Transit bus turned the corner, its large windshield reflecting the harsh sun. The destination sign flickered in the heat waves:
 
-**1 FALLING BRANCH**
+*1 FALLING BRANCH*
 
 "Route 1," Jessica confirmed. "Straight shot down 460. AC included."
 
@@ -6115,15 +6115,15 @@ They moved to the back. Freddie took the window seat on the shady side of the bu
 
 "Yeah," Paige sighed, sitting next to him and blowing a strand of hair out of her face. "That was awful. I felt like I was swimming."
 
-The bus rumbled forward, turning onto Main Street and then merging onto **Business 460**.
+The bus rumbled forward, turning onto Main Street and then merging onto Business 460.
 
 The ride to Christiansburg was a thirty-minute decompression chamber. They watched the campus fade away, replaced by the rolling green hills and the commercial strip of the highway.
 
 Freddie watched the landmarks pass: the car dealerships, the fast-food signs, the slow transition from "University Town" to "Real World."
 
-He didn't think about Krystal. He didn't think about the cigarette smoke. He thought about the math of the bus schedule. Every **15 minutes**, a pulse. High frequency. Low latency. Predictable. Reliable.
+He didn't think about Krystal. He didn't think about the cigarette smoke. He thought about the math of the bus schedule. Every 15 minutes, a pulse. High frequency. Low latency. Predictable. Reliable.
 
-"Approaching **Pepper Plaza**," the automated voice announced.
+"Approaching Pepper Plaza," the automated voice announced.
 
 The bus slowed, turning off the road and navigating into the sawtooth bays of the transit center in Christiansburg.
 
@@ -6156,7 +6156,7 @@ Freddie smiled. He didn't want Krystal's dorm room. He didn't want the friction.
 
 #### The Cool Down
 
-The **Blue Ridge Transit** bus hissed to a halt in the sawtooth bay of **Pepper Plaza**. The doors folded open, and the Avery unit stepped out onto the concrete.
+The Blue Ridge Transit bus hissed to a halt in the sawtooth bay of Pepper Plaza. The doors folded open, and the Avery unit stepped out onto the concrete.
 
 The heat in Christiansburg was just as aggressive as it had been in Blacksburg. The air was heavy, thick with moisture and the smell of asphalt baking in the sun.
 
@@ -6172,7 +6172,7 @@ Jessica unlocked the front door. They stumbled inside, the air conditioning hitt
 
 "Agreed," Freddie said, leaning against the wall to kick off his sneakers. "Thermal regulation is required immediately."
 
-They moved as a unit down the hallway to the Master Bedroom—the **Silo**.
+They moved as a unit down the hallway to the Master Bedroom—the Silo.
 
 There was no hesitation. The "Modesty Protocol" had been deleted days ago. In this heat, and after the stress of the encounter at Kincaid Hall, clothes were just another layer of friction.
 
@@ -6262,7 +6262,7 @@ He was in the Base, and the perimeter was secure.
 
 The decontamination process was a staged operation. Freddie was clean, cool, and dressed in a fresh pair of soft grey lounge pants and a white undershirt.
 
-They had established a temporary base camp in the living room while the bathroom was occupied. The **MagnaView** TV was the focal point.
+They had established a temporary base camp in the living room while the bathroom was occupied. The MagnaView TV was the focal point.
 
 "Rotation protocol," Jessica announced, grabbing her towel. "I’m taking the first shift in the shower to wash my hair. Paige, you hold the perimeter."
 
@@ -6274,13 +6274,13 @@ Freddie held the remote control. He aimed it at the TV. He wasn't looking for ne
 
 He cycled through the channels. *Static. News. Soap Opera. Static.*
 
-He landed on **Channel 11**, a local independent station known as **WNRV**. In the afternoons, WNRV didn't play trashy talk shows. They played "The Classics."
+He landed on Channel 11, a local independent station known as WNRV. In the afternoons, WNRV didn't play trashy talk shows. They played "The Classics."
 
 The screen flickered. A logo appeared: a radio tower transmitting lightning bolts over a city skyline.
 
-*Title Card:* **"W-JAM in Philly"**
+*Title Card:* "W-JAM in Philly"
 
-Freddie had never seen this show before. The date on the screen said **1978**.
+Freddie had never seen this show before. The date on the screen said 1978.
 
 Then, the music started.
 
@@ -6310,7 +6310,7 @@ The song ended on a gentle fade-out that felt like a hug.
 
 "What is this?" Freddie asked.
 
-"I think it's **W-JAM**," Paige said, reading the screen. "It's an old sitcom about a radio station."
+"I think it's W-JAM," Paige said, reading the screen. "It's an old sitcom about a radio station."
 
 "A radio station," Freddie repeated. "An audio transmission hub."
 
@@ -6328,7 +6328,7 @@ The door to the hallway opened. Jessica walked in, drying her hair with a towel.
 
 Jessica walked over and sat in Paige’s spot, instantly re-establishing the contact pressure against Freddie’s side. She looked at the TV.
 
-"Oh, **W-JAM**," Jessica smiled. "Dad used to hate this show. He said the DJs had too much hair."
+"Oh, W-JAM," Jessica smiled. "Dad used to hate this show. He said the DJs had too much hair."
 
 "Dad was incorrect," Freddie stated, watching the DJ slide a fader up. "The hair density is irrelevant. The signal quality is the primary variable."
 
@@ -6365,7 +6365,7 @@ Freddie remained rooted to the spot. The warm feeling from the first show linger
 
 "Holding," Jessica confirmed, crunching a piece of popcorn. She was still in her post-shower towel turban, relaxed and pink-cheeked.
 
-The screen flickered. The station ID for **WNRV** played. Then, a new show began.
+The screen flickered. The station ID for WNRV played. Then, a new show began.
 
 It didn't start with a high-energy montage. It started with a slow, sepia-toned slide show of old city streets—cobblestones, gas lamps, and people in bowler hats.
 
@@ -6397,11 +6397,11 @@ Freddie’s eyes widened. That was the core desire. Not to be famous, but to be 
 
 The title card appeared over a shot of a cozy, basement-level pub with stained glass windows:
 
-**THE LOCAL**
+THE LOCAL
 
 "What is this?" Freddie asked, entranced.
 
-"It's **The Local**," Jessica said, smiling fondly. "It's about a bar in Boston. The owner is an ex-baseball player for the **Beacons**."
+"It's The Local," Jessica said, smiling fondly. "It's about a bar in Boston. The owner is an ex-baseball player for the Beacons."
 
 The show started. A tall man with great hair stood behind the bar, polishing a glass. The door opened. A heavy-set man walked in.
 
@@ -6417,7 +6417,7 @@ The door to the hallway opened. Paige walked in. She was clean, dressed in soft 
 
 "Decontamination complete," Paige announced. She saw Freddie staring at the screen. "Another one?"
 
-"It is called **The Local**," Freddie said, not looking away. "The primary variable is community. They know the names."
+"It is called The Local," Freddie said, not looking away. "The primary variable is community. They know the names."
 
 Paige walked over and sat on Freddie’s other side, completing the formation on the beige sofa. She leaned her head on his shoulder.
 
@@ -6433,7 +6433,7 @@ Paige walked over and sat on Freddie’s other side, completing the formation on
 
 Freddie looked at the TV, where the characters were bickering affectionately. He looked at his sisters, clean and safe in their fortress.
 
-He realized that **The Local** wasn't just a bar on TV. It was a blueprint for what they were building right here.
+He realized that The Local wasn't just a bar on TV. It was a blueprint for what they were building right here.
 
 "I will add this to the recording schedule," Freddie decided firmly. "Daily at 16:30. It is... essential viewing."
 
@@ -6457,10 +6457,10 @@ The afternoon sun was still blazing outside, but inside the house on Pepper Stre
 
 "News block initiated," Jessica announced. "Prepare for local intake."
 
-The screen shifted to the familiar blue-and-gold graphics of **WNRV-TV Channel 11**.
+The screen shifted to the familiar blue-and-gold graphics of WNRV-TV Channel 11.
 
 
-The broadcast began with **"Valley News Tonight"**. Freddie tolerated the 5:00 PM and 5:30 PM segments—mostly traffic reports on I-81 and weather updates confirming the oppressive humidity—but he perked up for the flagship **6:00 PM Broadcast**.
+The broadcast began with "Valley News Tonight". Freddie tolerated the 5:00 PM and 5:30 PM segments—mostly traffic reports on I-81 and weather updates confirming the oppressive humidity—but he perked up for the flagship 6:00 PM Broadcast.
 
 The anchor, a man with silver hair and a voice like gravel, read the headlines with comforting predictability. There were no surprises. Just facts.
 
@@ -6487,7 +6487,7 @@ Freddie watched as three contestants spun the heavy wheel, the clicking sound—
 At 7:30 PM, the smart show started.
 
 
-At 7:30 PM, the tone shifted from luck to logic. **The Daily Quiz** began.
+At 7:30 PM, the tone shifted from luck to logic. The Daily Quiz began.
 
 This was serious business. The three of them sat forward, slices of pizza forgotten, competing for the title of "Living Room Champion."
 
@@ -6516,7 +6516,7 @@ Freddie allowed a tiny smile. He liked the format. Even if the rule was silly, i
 
 Then, the game shows ended. The screen went black for a moment.
 
-"Okay," Jessica said, checking the TV Guide. "Channel 11 is running a double feature of that sci-fi show. **'Stellar Voyage: The New Era'**. You want to try it?"
+"Okay," Jessica said, checking the TV Guide. "Channel 11 is running a double feature of that sci-fi show. 'Stellar Voyage: The New Era'. You want to try it?"
 
 "Genre?" Freddie asked.
 
@@ -6530,15 +6530,15 @@ It began with a field of stars. Just blackness and pinpricks of light, moving sl
 
 Then, the voice spoke. It was a deep, resonant baritone—the voice of a Captain.
 
-***"Space... The infinite expanse."***
+*"Space... The infinite expanse."*
 
 Freddie stopped chewing his grape.
 
-***"These are the voyages of the Starship Avalon. Its continuing mission: to explore strange new worlds. To seek out new life and new civilizations."***
+*"These are the voyages of the Starship Avalon. Its continuing mission: to explore strange new worlds. To seek out new life and new civilizations."*
 
 The music swelled—an orchestral fanfare of French horns and strings that felt like a sunrise. It wasn't cheesy; it was noble. It was soaring.
 
-***"To boldly go where no one has gone before."***
+*"To boldly go where no one has gone before."*
 
 A massive, sleek silver ship swept across the screen, its warp engines glowing a soft, pulsating blue. It didn't look like a machine of war. It looked like a machine of *science*.
 
@@ -6548,13 +6548,13 @@ Freddie sat up, pulling himself out of Paige's lap for the first time in hours. 
 
 The episode started. It wasn't about shooting lasers. It was about diplomacy. It was about a crew of hyper-competent officers solving a complex astrophysical puzzle involving a binary star system.
 
-Freddie watched **Captain Miller** sit in his chair and ask for "Input." He watched **Commander Stone** execute a maneuver. He watched **Unit 7** analyze the situation without emotion, purely on logic.
+Freddie watched Captain Miller sit in his chair and ask for "Input." He watched Commander Stone execute a maneuver. He watched Unit 7 analyze the situation without emotion, purely on logic.
 
 "He is like me," Freddie pointed at the synthetic officer. "He processes data. He does not understand the joke."
 
 "Yeah," Paige smiled softy. "He is like you."
 
-But it was the **Main Engineering** set that captivated him. The Master Systems Display—a giant, backlit wall of schematics showing the energy flow of the entire ship. The interface was clean, organized, and perfectly logical.
+But it was the Main Engineering set that captivated him. The Master Systems Display—a giant, backlit wall of schematics showing the energy flow of the entire ship. The interface was clean, organized, and perfectly logical.
 
 "Look at the interface," Freddie breathed. "It is a perfect structure. Everything is labeled."
 
@@ -6590,7 +6590,7 @@ Freddie was no longer leaning back in the "Safe Harbor" position. He was sitting
 
 He wasn't taking notes on the plot. He didn't care that the Romulan-analogue aliens were threatening the Neutral Zone. He was taking notes on the *interface*.
 
-On the screen, **Officer Echo** (the pale-skinned android operations officer) tapped a console. The screen displayed a massive, beautiful schematic of the ship’s warp core. It wasn't cluttered. It was a masterpiece of information design: a stark black background, glowing amber curves for data streams, and crisp, legible purple text for labels.
+On the screen, Officer Echo (the pale-skinned android operations officer) tapped a console. The screen displayed a massive, beautiful schematic of the ship’s warp core. It wasn't cluttered. It was a masterpiece of information design: a stark black background, glowing amber curves for data streams, and crisp, legible purple text for labels.
 
 "It is moving too fast," Freddie hissed, his eyes darting across the screen. "I cannot capture the hierarchy before the camera cuts away."
 
@@ -6632,7 +6632,7 @@ Freddie shuddered visibly. "Biology is wet. It involves fluids and unpredictable
 
 He gestured toward the TV, which was now showing a commercial, but the image of the stars was still burned into his mind.
 
-"Astronomy," Freddie stated. "Course Code: **ASTR 101**."
+"Astronomy," Freddie stated. "Course Code: ASTR 101."
 
 The sisters looked at him.
 
@@ -6666,9 +6666,9 @@ The credits of the sci-fi show faded, leaving the room in silence. The blue ligh
 
 "System shutdown," Jessica announced softly. "Time to dock."
 
-They moved through the hallway, guided by the muscle memory of the house layout. They entered the Master Bedroom—**The Silo**.
+They moved through the hallway, guided by the muscle memory of the house layout. They entered the Master Bedroom—The Silo.
 
-It was pitch black. The blackout curtains were drawn tight, sealing out the streetlights of Pepper Plaza. The only light came from the small red digits of the alarm clock: **21:12**.
+It was pitch black. The blackout curtains were drawn tight, sealing out the streetlights of Pepper Plaza. The only light came from the small red digits of the alarm clock: 21:12.
 
 "Alarm is set for 06:30," Paige whispered. "That gives us plenty of time to catch the 08:00 bus."
 
@@ -6692,13 +6692,13 @@ They climbed into the bed.
 
 The configuration was non-negotiable. It was the only way the Avery Unit could sleep effectively.
 
-**The Sandwich Configuration:**
+The Sandwich Configuration:
 
-- **Left Flank:** Jessica. The oldest. The Shield. She took the side closest to the door, placing herself between the world and her family.
+- Left Flank: Jessica. The oldest. The Shield. She took the side closest to the door, placing herself between the world and her family.
 
-- **Right Flank:** Paige. The Anchor. She took the side closest to the wall, creating a soft, immovable boundary.
+- Right Flank: Paige. The Anchor. She took the side closest to the wall, creating a soft, immovable boundary.
 
-- **The Core:** Freddie.
+- The Core: Freddie.
 
 He climbed into the middle. The mattress dipped slightly under their combined weight, creating a gravity well that pulled them together.
 
@@ -6736,7 +6736,7 @@ One day ended. The next—the day he would finally get his name—was waiting in
 
 #### The Debugger
 
-The waiting room of **Dr. Arrington’s** office was located in a quiet brick building off North Main Street in Blacksburg. It felt less like a clinic and more like a professor's study, which helped lower the ambient threat level.
+The waiting room of Dr. Arrington’s office was located in a quiet brick building off North Main Street in Blacksburg. It felt less like a clinic and more like a professor's study, which helped lower the ambient threat level.
 
 The floor was carpeted in a muted blue that absorbed the sound of footsteps. A small fountain in the corner provided a constant, rhythmic *trickle-splash-trickle*—white noise for the soul.
 
@@ -6760,7 +6760,7 @@ Paige squeezed Freddie’s knee. "Remember when Heidi told you to 'break a leg' 
 
 "Checking 'Yes'," Jessica said.
 
-She flipped to the back page. "Okay, last part. **HIPAA Authorization**. Who is allowed to access your medical records and discuss your care?"
+She flipped to the back page. "Okay, last part. HIPAA Authorization. Who is allowed to access your medical records and discuss your care?"
 
 "The Admin Team," Freddie stated immediately.
 
@@ -6884,7 +6884,7 @@ Dr. Arrington typed on his computer for twenty minutes. The keys clacked rhythmi
 
 He signed it and handed it to Freddie.
 
-**To Whom It May Concern:** **Patient:** Freddie P. Avery **Diagnosis:** Autism Spectrum Disorder **Recommendations:** Sensory accommodations. Deep Pressure Therapy as needed. Allow support persons (Paige Avery, Jessica Avery) full access to educational and medical environments.
+To Whom It May Concern: Patient: Freddie P. Avery Diagnosis: Autism Spectrum Disorder Recommendations: Sensory accommodations. Deep Pressure Therapy as needed. Allow support persons (Paige Avery, Jessica Avery) full access to educational and medical environments.
 
 Freddie held the paper. It was the Source Code. It was the answer key to the test he had been failing for eighteen years.
 
@@ -6932,17 +6932,17 @@ The summer heat was oppressive, shimmering off the asphalt, but Freddie didn't m
 
 "Bus inbound," Jessica announced, shielding her eyes against the sun.
 
-Turning the corner from North Franklin Street was a white bus with maroon and orange stripes. It was a heavy-duty, 40-foot **Stalwart** city bus, the workhorse of the **Blue Ridge Transit** fleet.
+Turning the corner from North Franklin Street was a white bus with maroon and orange stripes. It was a heavy-duty, 40-foot Stalwart city bus, the workhorse of the Blue Ridge Transit fleet.
 
-The LED destination sign above the windshield glowed amber in the bright light: **1 CPI**
+The LED destination sign above the windshield glowed amber in the bright light: 1 CPI
 
 "On time," Freddie noted, checking his watch. "The grid is active."
 
 They stood in the shelter of the sawtooth bay. As the bus hissed to a halt, the air brakes purged with a sharp *psshhh*—a sound Freddie associated with the start of a journey. The doors folded open.
 
-"Badges out," Jessica said, pulling her **Poly Pass** from her purse.
+"Badges out," Jessica said, pulling her Poly Pass from her purse.
 
-She stepped up first. *Beep.* The card reader chirped a valid read. Paige followed. *Beep.* Freddie stepped up last. He pulled his card from his pocket—the warm plastic rectangle that identified him as **FREDDIE AVERY**. He tapped it against the target.
+She stepped up first. *Beep.* The card reader chirped a valid read. Paige followed. *Beep.* Freddie stepped up last. He pulled his card from his pocket—the warm plastic rectangle that identified him as *FREDDIE AVERY*. He tapped it against the target.
 
 *Beep.*
 
@@ -6968,7 +6968,7 @@ Usually, this transition made Freddie anxious—leaving the known for the unknow
 
 "Automated Voice," the speaker crackled overhead. *"Approaching CPI. End of the line."*
 
-The stone towers of **Commonwealth Polytechnic** rose in the distance, looking less like a fortress to be conquered and more like a server farm waiting to be programmed.
+The stone towers of Commonwealth Polytechnic rose in the distance, looking less like a fortress to be conquered and more like a server farm waiting to be programmed.
 
 "Ready to upload?" Jessica asked, standing up as the bus slowed.
 
@@ -6980,9 +6980,9 @@ Freddie stood up. He adjusted his glasses. He checked his pocket one last time t
 
 #### The Thunderhead
 
-The sky over the **New River Valley** had turned a bruised, angry purple. The summer heat had broken, but it had broken violently.
+The sky over the New River Valley had turned a bruised, angry purple. The summer heat had broken, but it had broken violently.
 
-Inside **Archer Hall**, the world was shaking.
+Inside Archer Hall, the world was shaking.
 
 A massive thunderstorm was parking itself directly over the campus. Rain lashed against the plate-glass windows of the student lounge area with such force that it sounded like gravel. Outside, visibility was zero; the building across the quad had vanished behind a curtain of grey water.
 
@@ -7134,7 +7134,7 @@ It started as a low growl outside, penetrating the brick walls, rising steadily 
 
 The Blacksburg Civil Defense siren.
 
-It cut through the sound of the rain like a knife. Inside **Archer Hall**, there were no flashing lights, no strobes—just the eerie, vibrating hum of that siren coming from everywhere at once.
+It cut through the sound of the rain like a knife. Inside Archer Hall, there were no flashing lights, no strobes—just the eerie, vibrating hum of that siren coming from everywhere at once.
 
 The music in the lounge cut out abruptly. The PA system crackled to life with a burst of static, overriding the ambient hum of the building.
 
@@ -7142,7 +7142,7 @@ The music in the lounge cut out abruptly. The PA system crackled to life with a 
 
 Freddie didn't move. He couldn't.
 
-The siren, combined with the earlier confrontation and the thunder, had severed the connection between his brain and his legs. He was in **Total System Lockout**. His hands were clamped over his ears, his eyes wide and unseeing. He was shaking, a high-frequency tremor that rattled his teeth.
+The siren, combined with the earlier confrontation and the thunder, had severed the connection between his brain and his legs. He was in Total System Lockout. His hands were clamped over his ears, his eyes wide and unseeing. He was shaking, a high-frequency tremor that rattled his teeth.
 
 "Freddie," Jessica said, her voice sharp and urgent. "We have to move. Interior hallway. Now."
 
@@ -7186,21 +7186,21 @@ Freddie let out a sound that was half-sob, half-scream, muffled entirely by Paig
 
 Jessica wrapped her arms around both of them from behind, crushing them into a single, solid mass. Paige squeezed Freddie from the front.
 
-They held him in the **Press**, the ultimate Avery defense. They became a human weighted blanket.
+They held him in the Press, the ultimate Avery defense. They became a human weighted blanket.
 
 "We are the bunker," Paige whispered into Freddie’s ear, over and over. "We are concrete. We are steel. Nothing gets through the table. Nothing gets through us."
 
 Time distorted.
 
-**15:25 PM.** The siren wailed on outside, a relentless cycle of doom. Freddie’s shaking was violent, sweating through his shirt. He was completely non-verbal, his mind retreated to a safe room deep inside his head where there was no sound.
+15:25 PM. The siren wailed on outside, a relentless cycle of doom. Freddie’s shaking was violent, sweating through his shirt. He was completely non-verbal, his mind retreated to a safe room deep inside his head where there was no sound.
 
-**15:35 PM.** The siren finally winded down, dropping in pitch until it faded into silence. The quiet that followed was heavy, filled only by the sound of rain hammering the roof—but the rain sounded different now. Heavier. Metallic.
+15:35 PM. The siren finally winded down, dropping in pitch until it faded into silence. The quiet that followed was heavy, filled only by the sound of rain hammering the roof—but the rain sounded different now. Heavier. Metallic.
 
 "Hail," Jessica noted. "That's the core passing over."
 
 They didn't move. They held the formation.
 
-**15:45 PM.** The PA system crackled again, loud in the quiet hallway.
+15:45 PM. The PA system crackled again, loud in the quiet hallway.
 
 *"Attention. The Tornado Warning has expired. The severe weather threat has passed. Please remain cautious of slick floors and debris. All clear."*
 
@@ -7234,7 +7234,7 @@ He just walked, flanked by his sisters, moving toward the bus stop. He was empty
 
 #### The All Clear
 
-The heavy glass doors of **Archer Hall** pushed open, and the Avery Unit stepped out into a changed world.
+The heavy glass doors of Archer Hall pushed open, and the Avery Unit stepped out into a changed world.
 
 The sky was still a flat, featureless grey, and the rain was falling in a steady, relentless sheet, but the violence was gone. The wind had died down. The hail had melted into slushy piles in the gutters.
 
@@ -7244,7 +7244,7 @@ The air smelled like ozone and shredded leaves—the signature scent of a storm 
 
 The bus—a massive white transit vehicle with maroon and orange stripes—was splashing through the puddles, its headlights reflecting off the wet pavement.
 
-The amber LED sign above the windshield read: **1 FALLING BRANCH**
+The amber LED sign above the windshield read: *1 FALLING BRANCH*
 
 "It's the Falling Branch run," Jessica confirmed. "It stops at Pepper Plaza on the way out."
 
@@ -7254,7 +7254,7 @@ They boarded the bus. It was crowded—everyone who had been sheltering in the l
 
 Freddie slid into a window seat. Paige sat next to him, immediately taking his hand and placing it on her knee, re-establishing the physical link. Jessica sat in the seat ahead, turning sideways to watch them.
 
-The bus driver, a heavy-set man with a mustache, had the radio playing softly over the speakers. It was tuned to **WNRV**, the local AM station.
+The bus driver, a heavy-set man with a mustache, had the radio playing softly over the speakers. It was tuned to WNRV, the local AM station.
 
 *"...folks, that was a close one,"* the radio announcer said, his voice crackling with static. *"We just got word from the Weather Service office out by the airport. They actually had to hand off forecasting duties to the Wakefield office for about ten minutes there. The meteorologists had to take shelter themselves when that rotation passed right over the radar dish."*
 
@@ -7264,7 +7264,7 @@ Jessica shook her head. "It was right on top of them."
 
 "They did," Paige agreed softly. "And so did we."
 
-The bus merged onto **Route 460**, the tires hissing on the wet asphalt. Freddie watched the rain streak horizontally across the glass.
+The bus merged onto Route 460, the tires hissing on the wet asphalt. Freddie watched the rain streak horizontally across the glass.
 
 He felt empty. The day had taken everything.
 
@@ -7304,13 +7304,13 @@ The silence inside the house was absolute. The air conditioner hummed its steady
 
 They moved to their respective zones. The "Armor" of the day—jeans, shoes, bras, and the sweat of the storm—was stripped away.
 
-Ten minutes later, the Avery Unit reassembled in the living room. They were now in **Safe Mode**.
+Ten minutes later, the Avery Unit reassembled in the living room. They were now in Safe Mode.
 
-**Freddie:** Wearing soft grey lounge pants and his safety-orange hoodie (zipper open, hood down).
+Freddie: Wearing soft grey lounge pants and his safety-orange hoodie (zipper open, hood down).
 
-**Paige:** Wearing an oversized t-shirt and cotton shorts.
+Paige: Wearing an oversized t-shirt and cotton shorts.
 
-**Jessica:** Wearing flannel pajama pants and a tank top.
+Jessica: Wearing flannel pajama pants and a tank top.
 
 "Food protocol?" Jessica asked, moving to the kitchen phone.
 
@@ -7321,7 +7321,7 @@ Ten minutes later, the Avery Unit reassembled in the living room. They were now 
 
 The TV was on, volume set to "Level 12"—audible, but not aggressive.
 
-On the screen, the local news team at **WNRV-TV** was wrapping up the weather segment. The weatherman, a guy with a pointer and a map full of red zones, was apologizing for the earlier siren.
+On the screen, the local news team at WNRV-TV was wrapping up the weather segment. The weatherman, a guy with a pointer and a map full of red zones, was apologizing for the earlier siren.
 
 *"...rotation has lifted, folks. The severe thunderstorm warning remains in effect until 8 PM for the eastern counties, but here in the New River Valley, we are just looking at rain."*
 
@@ -7336,14 +7336,14 @@ Jessica handled the transaction. She returned with two steaming cardboard boxes.
 
 "Fuel," she announced, setting them on the coffee table.
 
-They ate while the **GBS Evening Report** played. The anchor, **David Clark**—a man with silver hair and a voice like trustworthy gravel—delivered the national headlines. Freddie liked David Clark. He didn't shout. He didn't use sensational graphics. He just read the data.
+They ate while the GBS Evening Report played. The anchor, David Clark—a man with silver hair and a voice like trustworthy gravel—delivered the national headlines. Freddie liked David Clark. He didn't shout. He didn't use sensational graphics. He just read the data.
 
 *"In Washington today, Congress debated the new budget..."*
 
 Freddie chewed his thin-crust pepperoni. The crunch was grounding. The tomato sauce was savory. The world outside was chaotic, but inside the living room, the variables were controlled.
 
 
-At 7:30 PM, the tone shifted from luck to logic. **The Daily Quiz** began.
+At 7:30 PM, the tone shifted from luck to logic. The Daily Quiz began.
 
 This was serious business. The three of them sat forward, slices of pizza forgotten, competing for the title of "Living Room Champion."
 
@@ -7368,7 +7368,7 @@ Freddie blinked, looking at her. "The identification is accurate. It is a sextan
 "Point restored," Jessica declared, taking a bite of her crust. "But you're on thin ice, mister. Respect the format."
 
 
-Then, the game shows ended. The commercials faded. The station ID for **WNRV** played—a simple animation of the New River winding through the valley.
+Then, the game shows ended. The commercials faded. The station ID for WNRV played—a simple animation of the New River winding through the valley.
 
 The room went quiet.
 
@@ -7390,21 +7390,21 @@ Paige immediately rested her arm across his chest, her hand settling over his he
 
 The screen faded to black. A field of stars appeared—pinpricks of light moving slowly, majestically across the void.
 
-Then, the voice spoke. Deep. Resonant. The voice of **Captain Miller**.
+Then, the voice spoke. Deep. Resonant. The voice of Captain Miller.
 
-***"Space... The infinite expanse."***
+*"Space... The infinite expanse."*
 
 Freddie opened his eyes. From this angle, looking up past Paige’s arm, the stars seemed even brighter.
 
-***"These are the voyages of the Starship Avalon."***
+*"These are the voyages of the Starship Avalon."*
 
 The orchestral music swelled—the French horns rising like a sunrise over a planet. It wasn't just music to Freddie; it was a frequency that vibrated in his chest, syncing with the steady rhythm of Paige's breathing beneath him.
 
-***"Its continuing mission: to explore strange new worlds. To seek out new life and new civilizations."***
+*"Its continuing mission: to explore strange new worlds. To seek out new life and new civilizations."*
 
 He felt Paige’s hand tighten slightly on his chest as the music peaked. It sounded like order. It sounded like a future where logic was respected, where the rules were written in the stars, and where a crew of different species worked together without friction.
 
-***"To boldly go where no one has gone before."***
+*"To boldly go where no one has gone before."*
 
 The silver ship streaked into warp, a flash of light against the darkness.
 
@@ -7460,7 +7460,7 @@ They hoisted him. Freddie was dead weight, limp with exhaustion. He didn't try t
 
 They carried him down the short hallway—a clumsy, shuffling procession of love. Jessica walked backward, guiding the way. Paige walked forward, cradling his upper body against her chest.
 
-"Watch the doorframe," Jessica warned as they reached the **Silo**.
+"Watch the doorframe," Jessica warned as they reached the Silo.
 
 They navigated the turn into the master bedroom. The room was cool and dark, the blackout curtains already drawn tight.
 
@@ -7512,7 +7512,7 @@ Safe in the sandwich configuration, held by the only two people who knew how to 
 
 *WHOOOOOOOOOOOOOOOOOOOOO-OOOOOOOOOOOOOOOOOOO.*
 
-The sound was everywhere. It wasn't just in the air; it was vibrating through the floor tiles of **Archer Hall**.
+The sound was everywhere. It wasn't just in the air; it was vibrating through the floor tiles of Archer Hall.
 
 The PA system crackled, the voice distorted by static and fear. *"Tornado Warning. Seek shelter immediately. This is not a drill."*
 
@@ -7532,7 +7532,7 @@ The roar outside grew deafening—a freight train grinding against the brick wal
 
 "Here!" Krystal shouted.
 
-She wrenched open a heavy steel door marked **CUSTODIAL**. She shoved Freddie inside. He stumbled into the darkness, tripping over a mop bucket.
+She wrenched open a heavy steel door marked CUSTODIAL. She shoved Freddie inside. He stumbled into the darkness, tripping over a mop bucket.
 
 Krystal slammed the door shut.
 
@@ -7580,7 +7580,7 @@ He hit something soft. A wall of pillows.
 
 He blinked, his chest heaving. The air didn't smell of bleach. It smelled of lavender laundry detergent and cool air conditioning.
 
-He wasn't in a closet. He was in the **Silo**.
+He wasn't in a closet. He was in the Silo.
 
 But the terror didn't fade. The image of the flashlight, the feel of the cold hand on his chest—it was still firing in his brain.
 
@@ -7598,13 +7598,13 @@ She sat up. She didn't ask what was wrong. She knew the sound. She had heard it 
 
 Both women sprang into action. They didn't need to communicate; they knew the protocol.
 
-**The Comfort Protocol:**
+The Comfort Protocol:
 
-1.  **Contact:** Establish physical presence immediately.
+1.  Contact: Establish physical presence immediately.
 
-2.  **Pressure:** Apply weight to ground the system.
+2.  Pressure: Apply weight to ground the system.
 
-3.  **Validation:** Confirm safety.
+3.  Validation: Confirm safety.
 
 Paige moved first. She scooted across the mattress and wrapped her arms around Freddie’s shaking shoulders. She didn't just hug him; she compressed him. She pulled him hard against her chest.
 
@@ -7668,9 +7668,9 @@ Held tight in the center of the Avery Unit, Freddie finally closed his eyes. The
 
 #### The Recovery Cycle
 
-The morning sun pressed against the blackout curtains of the **Silo**, but inside, the darkness held.
+The morning sun pressed against the blackout curtains of the Silo, but inside, the darkness held.
 
-Freddie woke up slowly. He didn't bolt upright this time. He floated to the surface of consciousness, anchored by the heavy, reassuring weight of the **Sandwich Configuration**.
+Freddie woke up slowly. He didn't bolt upright this time. He floated to the surface of consciousness, anchored by the heavy, reassuring weight of the Sandwich Configuration.
 
 To his left, Jessica was a warm, solid wall. Her arm was still draped over his chest, a protective bar across the gate. To his right, Paige was curled into his side, her leg hooked over his ankles, pinning him to the mattress.
 
@@ -7727,7 +7727,7 @@ Freddie closed his eyes.
 
 This was the variable Krystal didn't understand. She thought this was about "touch." She thought it was about skin.
 
-It wasn't. It was about **Architecture**.
+It wasn't. It was about Architecture.
 
 Paige’s lap wasn't just a pillow; it was a structural support beam. She knew exactly how to hold his head so his neck muscles could release. She knew exactly how much weight to put on his chest to stop the sensory static.
 
@@ -7765,11 +7765,11 @@ She pressed the power button.
 
 *Click.*
 
-The **MagnaView** screen crackled to life. A burst of static was followed immediately by the bright colors and frantic orchestral score of a chase scene.
+The MagnaView screen crackled to life. A burst of static was followed immediately by the bright colors and frantic orchestral score of a chase scene.
 
 It wasn't loud—Volume 12—but it was sudden.
 
-On the sofa, Freddie reacted instantly. He didn't just flinch; he engaged the **Emergency Brake**.
+On the sofa, Freddie reacted instantly. He didn't just flinch; he engaged the Emergency Brake.
 
 He turned his head sharply away from the screen, burying his face directly into the soft cotton of Paige’s t-shirt, pressing his forehead hard against her stomach. His entire body went rigid, his legs locking into a curled position. He gripped the fabric of Paige’s shorts with a white-knuckled intensity.
 
@@ -7889,9 +7889,9 @@ She pointed to the stack of books on the floor.
 
 Freddie processed the logic.
 
-- **Option A:** Delay work. Result: Anxiety accumulation. Low-quality rest.
+- Option A: Delay work. Result: Anxiety accumulation. Low-quality rest.
 
-- **Option B:** Execute work now with support. Result: Task completion. High-quality rest. Total freedom.
+- Option B: Execute work now with support. Result: Task completion. High-quality rest. Total freedom.
 
 It was efficient. It was the correct architectural decision.
 
@@ -7917,13 +7917,13 @@ Freddie adjusted his glasses. He was still drained. He was still in his sister's
 
 #### The Purge
 
-The atmosphere in **Room 204** of Archer Hall was tense. The humidity of the Virginia summer pressed against the windows, but inside, the air conditioning kept the room at a crisp, clinical temperature.
+The atmosphere in Room 204 of Archer Hall was tense. The humidity of the Virginia summer pressed against the windows, but inside, the air conditioning kept the room at a crisp, clinical temperature.
 
 Dr. Aris Thorne stood at the front of the room, her posture rigid. She did not look like a professor who was about to lecture; she looked like a general inspecting the troops before a battle.
 
 On the whiteboard behind her, she had written a single word in stark, black letters:
 
-**ANATOMY**
+ANATOMY
 
 Freddie sat in his usual spot in the second row, flanked by the Avery Phalanx. Jessica was on his left, Paige on his right. His notebook was open. His pen was uncapped.
 
@@ -7965,7 +7965,7 @@ She walked to her desk and picked up a red folder.
 
 The color drained from the boys' faces.
 
-"That means," Dr. Thorne continued, "that when I administratively remove you from this roster for disruptive conduct, the Registrar will record a grade of **F**."
+"That means," Dr. Thorne continued, "that when I administratively remove you from this roster for disruptive conduct, the Registrar will record a grade of F."
 
 "You can't fail us!" one of the other boys shouted, standing up. "My GPA—"
 
@@ -8005,7 +8005,7 @@ He looked around the room. The creeps were gone. The noise was gone.
 
 #### The Buffer
 
-The walk from Archer Hall to **Newman Library** was different today. The air was still hot, the humidity still oppressive, but the social atmosphere was lighter.
+The walk from Archer Hall to Newman Library was different today. The air was still hot, the humidity still oppressive, but the social atmosphere was lighter.
 
 The "Noise Sector" had been purged. The class roster had been refined down to the serious, the studious, and the Avery Unit.
 
@@ -8015,7 +8015,7 @@ They entered the library, the automatic doors sliding open to release a blast of
 
 They bypassed the main stacks and headed for the group study rooms on the second floor. These were glass-walled aquariums of silence, perfect for isolation.
 
-Jessica swiped her **Poly Pass** to unlock the door.
+Jessica swiped her Poly Pass to unlock the door.
 
 "Base established," Freddie whispered, stepping inside.
 
@@ -8024,19 +8024,19 @@ The table was round, but they sat in a semi-circle—Jessica on the left, Paige 
 
 The laptop deployment began.
 
-Jessica opened her sleek **Titanium MagnaByte**. It was the envy of the engineering department—thin, metallic, and running the proprietary Magna-OS.
+Jessica opened her sleek Titanium MagnaByte. It was the envy of the engineering department—thin, metallic, and running the proprietary Magna-OS.
 
-Paige opened her standard-issue **Quantum**. It was a boxy, beige workhorse, identical to the ones in the campus labs.
+Paige opened her standard-issue Quantum. It was a boxy, beige workhorse, identical to the ones in the campus labs.
 
-Freddie set up his workstation with the precision of a field medic. He opened his heavy **Iron-Logic** laptop. He didn't reach for the trackpad. His spastic diplegia made the small, sensitive surface a nightmare; his fingers would jump or drag, sending the cursor flying across the screen in erratic vectors.
+Freddie set up his workstation with the precision of a field medic. He opened his heavy Iron-Logic laptop. He didn't reach for the trackpad. His spastic diplegia made the small, sensitive surface a nightmare; his fingers would jump or drag, sending the cursor flying across the screen in erratic vectors.
 
-Instead, he reached into his bag and pulled out his **Digi-Track**—a heavy, stationary mouse with a large red ball on top. He didn't have to move his arm to use it; he just had to roll the ball with his palm or fingers. It was stable. It was precise.
+Instead, he reached into his bag and pulled out his Digi-Track—a heavy, stationary mouse with a large red ball on top. He didn't have to move his arm to use it; he just had to roll the ball with his palm or fingers. It was stable. It was precise.
 
 He plugged the USB cable into the side port. <aac>Ding-dong.</aac> The computer recognized the device.
 
 "Input device active," Freddie confirmed, rolling the red ball. The cursor moved smoothly to the browser icon.
 
-"Okay," Jessica said, logging into the **Edu-Link** portal. "Dr. Thorne posted the assignment for next week. It's a labeling exercise and a short reflection on the physiological differences between the male and female response cycles."
+"Okay," Jessica said, logging into the Edu-Link portal. "Dr. Thorne posted the assignment for next week. It's a labeling exercise and a short reflection on the physiological differences between the male and female response cycles."
 
 "I have the diagrams," Freddie said, navigating to the file directory where he saved his scans.
 
@@ -8066,7 +8066,7 @@ Jessica kept them on track. "Reflection question," she read. "Discuss the role o
 
 Freddie clicked the final box on the digital form.
 
-He rolled the red ball over to the **SUBMIT** button. He hovered there for a second, savoring the moment.
+He rolled the red ball over to the SUBMIT button. He hovered there for a second, savoring the moment.
 
 The class didn't meet again until Friday. The homework wasn't due until Monday.
 
@@ -8076,7 +8076,7 @@ If he clicked this button now, the "Deadline" variable would be deleted from his
 
 *Click.*
 
-**SUBMISSION CONFIRMED.** **GRADE STATUS: PENDING**
+*SUBMISSION CONFIRMED.* *GRADE STATUS: PENDING*
 
 Freddie let out a long exhale. He leaned back in his chair, taking his hand off the trackball.
 
@@ -8106,9 +8106,9 @@ They walked out of the library, leaving the stress of the assignment behind them
 
 The morning of the Midterm Exam did not begin with panic. It began with logistics.
 
-The Avery Unit stood at the crossroads of **Commonwealth Green**, a paved hub where the paths to different academic buildings diverged. To the left lay Archer Hall, where the main body of HLTH 201 would assemble to take their test in the standard, fluorescent-lit classroom.
+The Avery Unit stood at the crossroads of Commonwealth Green, a paved hub where the paths to different academic buildings diverged. To the left lay Archer Hall, where the main body of HLTH 201 would assemble to take their test in the standard, fluorescent-lit classroom.
 
-To the right lay **Callahan Hall**, the home of Services for Students with Disabilities (SSD).
+To the right lay Callahan Hall, the home of Services for Students with Disabilities (SSD).
 
 "Operational check," Jessica announced, adjusting her backpack. She looked at Freddie. "You have your implements?"
 
@@ -8220,7 +8220,7 @@ He handed over the packet. He walked out of the quiet building into the heat of 
 
 Freddie sat on the wooden bench outside Callahan Hall. He had his orange hoodie draped over his lap (too hot to wear, but necessary to have nearby).
 
-He watched the stream of students pouring out of Archer Hall across **Commonwealth Green**.
+He watched the stream of students pouring out of Archer Hall across Commonwealth Green.
 
 He spotted them immediately.
 
@@ -8286,29 +8286,29 @@ The celebration at the bench was brief; the heat of the day was rising, and the 
 
 "We have a vehicle problem," Freddie noted, checking his watch as they stood up. "The Avalon is docked at Base. We are at CPI. Displacement is six miles."
 
-"Standard retrieval protocol," Jessica said, swinging her backpack onto one shoulder. "We catch the **Route 1** southbound. It drops us right at our front door."
+"Standard retrieval protocol," Jessica said, swinging her backpack onto one shoulder. "We catch the Route 1 southbound. It drops us right at our front door."
 
-They walked from **Callahan Hall** across **Commonwealth Green** to **Commonwealth Mall**.
+They walked from Callahan Hall across Commonwealth Green to Commonwealth Mall.
 
-There was no terminal here, no sleek concrete loop. The "hub" was simply the side of the road. Buses lined up bumper-to-bumper along the curb across from **Kincaid Hall**, fighting for space with cars and pedestrians jaywalking to the student center. It was a chaotic, diesel-choked strip of asphalt that served as the nerve center of the transit network.
+There was no terminal here, no sleek concrete loop. The "hub" was simply the side of the road. Buses lined up bumper-to-bumper along the curb across from Kincaid Hall, fighting for space with cars and pedestrians jaywalking to the student center. It was a chaotic, diesel-choked strip of asphalt that served as the nerve center of the transit network.
 
 They stood at the signpost marking the Route 1 stop, waiting as a bus pulled away, revealing the next one in the queue.
 
 "Inbound," Freddie announced.
 
-The white-and-maroon **Blue Ridge Transit** bus hissed as it kneeled to the curb, its tires grinding against the concrete gutter. The amber LED sign read:
+The white-and-maroon Blue Ridge Transit bus hissed as it kneeled to the curb, its tires grinding against the concrete gutter. The amber LED sign read:
 
-**1 FALLING BRANCH**
+*1 FALLING BRANCH*
 
 "Boarding," Jessica commanded.
 
-They climbed the steps, flashing their **Poly Passes**. The chirp of the card reader was a familiar, comforting sound—the sound of authorized access in the middle of the street-side chaos.
+They climbed the steps, flashing their Poly Passes. The chirp of the card reader was a familiar, comforting sound—the sound of authorized access in the middle of the street-side chaos.
 
 They moved to the back. Freddie took the window seat. The bus pulled out, merging aggressively into the traffic on the Mall before turning onto Main Street.
 
 For thirty minutes, Freddie decompressed. The exam was over. The diagrams were labeled. The "Robert Virus" had tried to delete his confidence, but the system had held. He watched the familiar landmarks of the commute roll by: the stone arches of the university giving way to the strip malls of the 460 corridor, the transition from "Gown" to "Town."
 
-"Approaching **Pepper Plaza**," the automated voice announced.
+"Approaching Pepper Plaza," the automated voice announced.
 
 The bus turned off the highway and navigated into the small, concrete transit hub in downtown Christiansburg. It wasn't pretty—just a sawtooth curb cut into a lot with a few heavy, weathered shelters—but it was efficient. The bus docked in its bay with a heavy *thud* of air brakes.
 
@@ -8319,14 +8319,14 @@ They stepped off the bus onto the stained concrete of the plaza. The heat in the
 
 They entered the cool sanctuary of the house just long enough to grab water bottles and use the facilities. Freddie swapped his testing pencils for his hiking gear—zipping his safety-orange hoodie over his t-shirt despite the July heat. It was his armor against insects, branches, and the unknown variables of the woods.
 
-"I'm driving," Jessica announced, grabbing the keys to the silver **Horizon Avalon** from the hook. "It’s a mountain road. I want the control of the stick."
+"I'm driving," Jessica announced, grabbing the keys to the silver Horizon Avalon from the hook. "It’s a mountain road. I want the control of the stick."
 
 They piled into the car. Jessica depressed the clutch, shifted into Reverse, and backed out of the driveway. She shifted to First, and they rolled past the bus idling in the plaza, heading for the mountains.
 
 
 The drive took them out of the valley and up a winding, two-lane road that climbed steadily into the canopy of the Appalachian chain. The air changed as they ascended—thinning out, losing the heavy humidity of the town and gaining the sharp, pine-resin scent of the high altitude.
 
-Jessica parked the Avalon in the gravel lot of the **Wind Rock** trailhead. She set the handbrake with a firm *ratchet-click*.
+Jessica parked the Avalon in the gravel lot of the Wind Rock trailhead. She set the handbrake with a firm *ratchet-click*.
 
 "Engine off," she said. "We are on foot."
 
@@ -8371,7 +8371,7 @@ There were no trees here. Just stone, wind, and sky.
 
 Freddie stopped. He forgot about his burning legs. He forgot about the sweat trickling down his back.
 
-Below him, the **New River Valley** spread out like a living map. He could see the tiny ribbon of the river reflecting the sun. He could see the geometric grid of the farmlands.
+Below him, the New River Valley spread out like a living map. He could see the tiny ribbon of the river reflecting the sun. He could see the geometric grid of the farmlands.
 
 In the distance, he could see the toy-like structures of the university—the "Iron City" reduced to a circuit board.
 
@@ -8385,7 +8385,7 @@ He looked at the horizon. It was a flat, blue line where the mountains met the s
 
 "High altitude," Freddie agreed. "Signal clarity is 100%."
 
-Jessica sat down on the warm rock, opening her backpack. "Who wants a victory snack? I have **Choco-Bricks** and **Fizzy-Pop**."
+Jessica sat down on the warm rock, opening her backpack. "Who wants a victory snack? I have Choco-Bricks and Fizzy-Pop."
 
 Freddie sat down carefully, pulling his knees to his chest. He took the chocolate wafer bar.
 
@@ -8413,9 +8413,9 @@ And for Freddie Avery, the view was perfect.
 
 #### The Recharge
 
-The descent from **Wind Rock** was faster than the ascent, aided by gravity and the adrenaline of success.
+The descent from Wind Rock was faster than the ascent, aided by gravity and the adrenaline of success.
 
-They reached the gravel lot where the **Horizon Avalon** waited, its silver paint dusty from the mountain air.
+They reached the gravel lot where the Horizon Avalon waited, its silver paint dusty from the mountain air.
 
 "Decontamination required," Jessica noted, unlocking the doors. "We are covered in particulate matter."
 
@@ -8473,7 +8473,7 @@ He turned in his seat to look at them.
 
 "I want to spend a night in the signal-free zone. Just the Unit. In a tent. Sleeping on the ground."
 
-Jessica raised an eyebrow. "Freddie, none of us know how to camp. We're suburban kids. We consider 'roughing it' to be a hotel without **PBO** (Premiere Box Office)."
+Jessica raised an eyebrow. "Freddie, none of us know how to camp. We're suburban kids. We consider 'roughing it' to be a hotel without PBO (Premiere Box Office)."
 
 "We can learn," Freddie insisted. "There are manuals. There are equipment lists. We can acquire the gear."
 
@@ -8501,7 +8501,7 @@ The Avalon rolled back into the heat of the valley, carrying three explorers who
 
 #### The Drive-Thru
 
-The silver **Horizon Avalon** merged off the highway and back onto the main drag of Christiansburg. The transition from the cool, pine-scented air of the mountain to the humid, asphalt-scented air of the valley was abrupt.
+The silver Horizon Avalon merged off the highway and back onto the main drag of Christiansburg. The transition from the cool, pine-scented air of the mountain to the humid, asphalt-scented air of the valley was abrupt.
 
 Freddie sat in the passenger seat, his body cooling down. But with the cooling came the stiffness.
 
@@ -8521,9 +8521,9 @@ The adrenaline that had powered him up the trail was gone, replaced by a heavy, 
 
 "Drive-thru it is," Jessica nodded. She signaled left.
 
-Directly ahead, at the corner of Roanoke Street and First Street—practically in the shadow of their own neighborhood—stood the familiar, backlit sign of **Brawny Burger**.
+Directly ahead, at the corner of Roanoke Street and First Street—practically in the shadow of their own neighborhood—stood the familiar, backlit sign of Brawny Burger.
 
-In 2003, Brawny Burger was in the middle of a rebranding revolution. They were moving away from the smaller burgers of the 90s and doubling down on massive, charbroiled beasts known as the **Thick-Stack**.
+In 2003, Brawny Burger was in the middle of a rebranding revolution. They were moving away from the smaller burgers of the 90s and doubling down on massive, charbroiled beasts known as the Thick-Stack.
 
 "Target acquired," Jessica said, pulling the Avalon into the loop. "Right on Roanoke Street. It is literally walking distance from our house, but today, we drive."
 
@@ -8533,13 +8533,13 @@ They pulled up to the speaker box. The tinny voice crackled. *"Welcome to Brawny
 
 "Order protocol," Jessica said, looking at Freddie.
 
-"The **1/3 lb. Original Thick-Stack**," Freddie ordered clearly. "Cheese. Ketchup only. Large fries. Large **Mega-Cola**."
+"The 1/3 lb. Original Thick-Stack," Freddie ordered clearly. "Cheese. Ketchup only. Large fries. Large Mega-Cola."
 
 "Classic," Jessica said. She leaned out the window. "One Original Thick-Stack combo, large, Mega-Cola. Ketchup only."
 
-"I'll take the **Mushroom & Swiss**," Paige added from the back. "And a Strawberry Shake."
+"I'll take the Mushroom & Swiss," Paige added from the back. "And a Strawberry Shake."
 
-"And let me get a **Crispy Chicken Sandwich**," Jessica finished. She checked the menu board, confirming the breakfast menu was long gone—hidden behind the plastic slats of the lunch board. "And a side of onion rings."
+"And let me get a Crispy Chicken Sandwich," Jessica finished. She checked the menu board, confirming the breakfast menu was long gone—hidden behind the plastic slats of the lunch board. "And a side of onion rings."
 
 "Pull around," the voice said.
 
@@ -8585,7 +8585,7 @@ She pressed power.
 
 *Click.*
 
-The screen flared to life, displaying the blue-and-gold graphics of **WNRV-TV Channel 11**, the local GBS affiliate broadcasting out of Blacksburg.
+The screen flared to life, displaying the blue-and-gold graphics of WNRV-TV Channel 11, the local GBS affiliate broadcasting out of Blacksburg.
 
 *"...temperatures remaining in the upper 80s through the evening,"* the weatherman announced, waving at a map of the New River Valley. *"So if you're headed out to the County Fair this weekend, bring plenty of water."*
 
@@ -8595,7 +8595,7 @@ They sat down at the dining table. Freddie sank into his chair with a groan of p
 
 "You made it," Jessica smiled, distributing the food.
 
-She placed the massive, foil-wrapped **Thick-Stack** in front of him. She set the large cup of bubbling dark soda next to it.
+She placed the massive, foil-wrapped Thick-Stack in front of him. She set the large cup of bubbling dark soda next to it.
 
 Freddie unwrapped the burger. It was hot, heavy, and simple.
 
@@ -8607,15 +8607,15 @@ Freddie chewed slowly. He looked at his sisters. They were sweaty, tired, and sm
 
 But they had climbed a mountain. They had beaten the test. They had secured the perimeter.
 
-"Status," Freddie said, taking a long pull of the cold **Mega-Cola**. "Optimal."
+"Status," Freddie said, taking a long pull of the cold Mega-Cola. "Optimal."
 
-On the TV, the news anchor shuffled his papers. *"Coming up at 5:30, we'll have a report on the new construction over at the university. But first, a word from **Holt Automotive**."*
+On the TV, the news anchor shuffled his papers. *"Coming up at 5:30, we'll have a report on the new construction over at the university. But first, a word from Holt Automotive."*
 
 He took another bite.
 
 "The camping trip," Freddie said between chews. "I have determined the menu."
 
-"Oh?" Jessica raised an eyebrow over her **Crispy Chicken Sandwich**. "What are we eating in the wild?"
+"Oh?" Jessica raised an eyebrow over her Crispy Chicken Sandwich. "What are we eating in the wild?"
 
 "Hot dogs," Freddie stated firmly. "Roasted on a stick. It is the only logical campfire protein."
 
@@ -8631,11 +8631,11 @@ They ate their Brawny Burgers in the quiet safety of the Iron City, planning the
 
 The dining room was quiet, save for the crinkling of foil wrappers and the low hum of the television on the kitchen counter.
 
-Freddie was halfway through his **Thick-Stack**, eating methodically around the circumference to save the center—the "prime bite"—for last. The combination of heavy protein, salt, and sugar (the **Mega-Cola**) was bringing his systems back online. The tremor in his hands from the mountain descent had faded to a manageable vibration.
+Freddie was halfway through his Thick-Stack, eating methodically around the circumference to save the center—the "prime bite"—for last. The combination of heavy protein, salt, and sugar (the Mega-Cola) was bringing his systems back online. The tremor in his hands from the mountain descent had faded to a manageable vibration.
 
 On the small screen, the WNRV news anchor—a woman with hair sprayed into an immovable helmet of blonde—smiled brightly.
 
-*"And finally tonight,"* she announced, the graphic behind her shifting to an image of a Ferris wheel silhouetted against a sunset. *"Get your walking shoes ready, folks. The **Great Valley Fair** opens this Friday at the **Valley Civic Pavilion** in Salem."*
+*"And finally tonight,"* she announced, the graphic behind her shifting to an image of a Ferris wheel silhouetted against a sunset. *"Get your walking shoes ready, folks. The Great Valley Fair opens this Friday at the Valley Civic Pavilion in Salem."*
 
 Paige looked up from her fries. "The Fair," she murmured. "I haven't been to a fair since we were kids. Funnel cakes."
 
@@ -8651,13 +8651,13 @@ He saw the flashing strobe lights of the Tilt-A-Whirl. He saw the screaming chil
 
 He ran a simulation.
 
-- **Input:** Flashing lights.
+- Input: Flashing lights.
 
-- **Variable:** Screaming machinery.
+- Variable: Screaming machinery.
 
-- **Variable:** Unpredictable touching by strangers.
+- Variable: Unpredictable touching by strangers.
 
-- **Variable:** Smells (Deep fryer grease mixed with livestock manure and diesel generator exhaust).
+- Variable: Smells (Deep fryer grease mixed with livestock manure and diesel generator exhaust).
 
 "Negative," Freddie stated, putting his burger down. "The proposal is rejected."
 
@@ -8685,7 +8685,7 @@ Jessica nodded, taking a bite of her chicken sandwich. "You know what? You're ri
 
 "Acceptable compromise," Freddie noted. "Controlled environment frying."
 
-On the TV, the news ended. The screen faded to the **GBS Evening Report** logo. The serious, orchestral theme song played—a signal that the "fun" news was over and the "real" news was beginning.
+On the TV, the news ended. The screen faded to the GBS Evening Report logo. The serious, orchestral theme song played—a signal that the "fun" news was over and the "real" news was beginning.
 
 "Volume up," Freddie requested. "David Clark is on."
 
@@ -8743,7 +8743,7 @@ He didn't *need* the grounding to stop a panic attack tonight. He just liked it.
 
 She reached into the bottom of the crate and pulled out a shimmering Gold Box Set. It was heavy, battering at the corners from years of use.
 
-**GALAXY WARS: THE TRILOGY**
+*GALAXY WARS: THE TRILOGY*
 
 Freddie’s eyes snapped open. He lifted his head slightly. "The sacred texts."
 
@@ -8767,7 +8767,7 @@ He pointed a finger toward the gold box.
 
 "Plus," Jessica grinned, sliding the tape out of its sleeve, "you like the fuzzy guys."
 
-"They are not just fuzzy guys," Freddie corrected, though his voice lacked any real bite. "They are the **Forest Dwellers**. They are an indigenous species utilizing guerrilla warfare tactics against a technologically superior force. It is a prime example of asymmetrical combat."
+"They are not just fuzzy guys," Freddie corrected, though his voice lacked any real bite. "They are the Forest Dwellers. They are an indigenous species utilizing guerrilla warfare tactics against a technologically superior force. It is a prime example of asymmetrical combat."
 
 "Sure," Paige laughed softly, her chest vibrating against his back. "Asymmetrical combat with cute ears."
 
@@ -8799,9 +8799,9 @@ Jessica nodded. She popped the tape into the VCR.
 
 The screen flickered static blue. Then, the logo appeared in bright yellow letters, receding into the infinite starfield.
 
-**GALAXY WARS**
+GALAXY WARS
 
-**DA-DAAA! DA-DA-DA-DAAA-DA!**
+*DA-DAAA! DA-DA-DA-DAAA-DA!*
 
 The massive Bb Major chord blasted from the speakers. It was bright. It was triumphant. It was the sound of adventure without risk.
 
@@ -8821,7 +8821,7 @@ The Archive was secure. The Unit was online. And the Sentinels were waiting on t
 
 The credits for *The New Era* had finished, but the TV was still on. Jessica, in a moment of curiosity, hit the "Previous Channel" button on the remote.
 
-The screen flickered to **Channel 24**, a retro-rerun station.
+The screen flickered to Channel 24, a retro-rerun station.
 
 Grainy, Technicolor footage filled the screen. The aspect ratio was 4:3, the colors oversaturated in that distinct 1960s way.
 
@@ -8841,7 +8841,7 @@ Freddie winced. He physically recoiled.
 
 On screen, the bridge of the ship appeared. It was colorful, filled with jellybean buttons and blinking lights that didn't seem to do anything.
 
-Sitting in the center chair was **Captain Sterling**.
+Sitting in the center chair was Captain Sterling.
 
 He was wearing a gold velour shirt that was slightly too tight. He was leaning forward, grinning at a female alien with green skin and a silver miniskirt.
 
@@ -8942,13 +8942,13 @@ Just skin. Just the Unit.
 
 They climbed in.
 
-**The Formation:**
+The Formation:
 
-- **Left Flank:** Jessica. She slid in first, taking the side nearest the door. She was the eldest, the Matriarch, the first line of defense.
+- Left Flank: Jessica. She slid in first, taking the side nearest the door. She was the eldest, the Matriarch, the first line of defense.
 
-- **Right Flank:** Paige. She took the side against the wall. She was the Anchor, the immovable object.
+- Right Flank: Paige. She took the side against the wall. She was the Anchor, the immovable object.
 
-- **The Core:** Freddie. He climbed into the center.
+- The Core: Freddie. He climbed into the center.
 
 He lay back on the cool sheets. The mattress dipped under their combined weight, creating a gravity well that pulled them together.
 
@@ -8978,7 +8978,7 @@ Freddie closed his eyes. The static was gone. The day's friction was gone.
 
 Held tight in the center of the bed, surrounded by the only people who knew his source code, Freddie Avery let the system power down.
 
-**System Status:** *Offline.* **Security:** *Maximum.* **Sleep Mode:** *Engaged.*
+System Status: *Offline.* Security: *Maximum.* Sleep Mode: *Engaged.*
 
 # The False Anchor
 
@@ -8988,7 +8988,7 @@ Held tight in the center of the bed, surrounded by the only people who knew his 
 
 #### The Remainder
 
-The lecture hall in **Copernicus Hall** was a vast, tiered cavern designed to hold two hundred students, but for **ASTR 101: Introduction to Astronomy**, it felt comfortably full with just over a hundred.
+The lecture hall in Copernicus Hall was a vast, tiered cavern designed to hold two hundred students, but for ASTR 101: Introduction to Astronomy, it felt comfortably full with just over a hundred.
 
 For Freddie Avery, this room was a sanctuary compared to the biological chaos of a dissection lab.
 
@@ -9006,15 +9006,15 @@ To the uninitiated, it might have looked intense. To Paige, it was a necessary s
 
 She scanned the aisle with narrow eyes, looking for any "Krystals"—anyone with popped collars or chewing gum who might see a vulnerable target.
 
-"Okay, everyone," **Professor Haldeman** announced, his voice booming over the PA system. "We are moving into the practical application phase. The semester-long project is **'Designing a Solar System.'**"
+"Okay, everyone," Professor Haldeman announced, his voice booming over the PA system. "We are moving into the practical application phase. The semester-long project is 'Designing a Solar System.'"
 
 Freddie perked up, though he stayed glued to Paige’s side. *World-building.*
 
-"This is a collaborative effort," Haldeman continued. "You will form groups of **four**. No more, no less. The workload is calibrated for a quartet. Take the next five minutes to assemble your teams."
+"This is a collaborative effort," Haldeman continued. "You will form groups of *four*. No more, no less. The workload is calibrated for a quartet. Take the next five minutes to assemble your teams."
 
 The room dissolved into chaos. Chairs scraped. Backpacks thumped.
 
-"Hold fast," Jessica said calmly from Freddie’s left, opening her **MagnaByte** laptop. "Let the particles settle. We are the nucleus."
+"Hold fast," Jessica said calmly from Freddie’s left, opening her MagnaByte laptop. "Let the particles settle. We are the nucleus."
 
 "We are three," Freddie whispered into Paige’s shoulder. "The integer is incorrect. We require a fourth variable."
 
@@ -9044,7 +9044,7 @@ Paige blinked. The girl hadn't made it weird. She had identified the data.
 
 "Efficiency," the girl noted. "You already have a communication shorthand. That will be useful for the project."
 
-She looked at Freddie. She didn't look at his legs or the way he was hiding. She looked past him to the screen of his heavy **Iron-Logic** laptop sitting on the desk.
+She looked at Freddie. She didn't look at his legs or the way he was hiding. She looked past him to the screen of his heavy Iron-Logic laptop sitting on the desk.
 
 "I noticed your interface," she said to Freddie. "You're using the dark mode setting on the astronomical software. White text on black background."
 
@@ -9058,11 +9058,11 @@ Freddie sat up slightly, though he kept Paige’s arm around him.
 
 Jessica looked her up and down from the other side. The "Matriarch Scan" was running.
 
-- **Smoke smell?** Negative. She smelled like soap and old paper.
+- Smoke smell? Negative. She smelled like soap and old paper.
 
-- **Chaotic energy?** Negative. She stood perfectly still.
+- Chaotic energy? Negative. She stood perfectly still.
 
-- **Reaction to the Hug:** Neutral/Positive.
+- Reaction to the Hug: Neutral/Positive.
 
 "We need a fourth," Jessica admitted, relaxing her shoulders. "I'm Jessica. This is Paige. And the Captain there is Freddie."
 
@@ -9104,13 +9104,13 @@ For the first time in a long time, a stranger had entered the perimeter, and the
 
 #### The Static Stack
 
-The transition from the academic rigor of Copernicus Hall to the social hub of **Kincaid Hall** was a sensory shift Freddie usually found jarring.
+The transition from the academic rigor of Copernicus Hall to the social hub of Kincaid Hall was a sensory shift Freddie usually found jarring.
 
 The air in Kincaid smelled of floor wax, old coffee, and the grease of the fryers. The ambient noise was a chaotic mix of student chatter, the clatter of pool balls from the game room, and the hum of vending machines.
 
 But today, the "Group 4" formation held the line.
 
-"Refueling is required before data entry," Jessica announced as they entered the atrium. "The **Burger Hub** is open. Meal plans are active."
+"Refueling is required before data entry," Jessica announced as they entered the atrium. "The Burger Hub is open. Meal plans are active."
 
 They approached the counter. It was a standard quick-service setup—stainless steel counters, backlit menus, and student workers in visors.
 
@@ -9120,13 +9120,13 @@ They approached the counter. It was a standard quick-service setup—stainless s
 
 "Got it," Jessica said. She looked at Vanessa. "Do you have a meal plan?"
 
-"I do," Vanessa said, pulling a pristine **Poly Pass** from her bag. "I'll get a garden salad and a water. I try to keep it light in the afternoon."
+"I do," Vanessa said, pulling a pristine Poly Pass from her bag. "I'll get a garden salad and a water. I try to keep it light in the afternoon."
 
 They swiped their cards. *Beep. Beep. Beep. Beep.*
 
 Trays loaded, they navigated the crowded seating area. Freddie scanned for a "Low Density" zone.
 
-"Sector 4," Freddie pointed toward a corner near the large windows overlooking **Commonwealth Green**. "Corner table. Maximum visibility. Minimum traffic."
+"Sector 4," Freddie pointed toward a corner near the large windows overlooking Commonwealth Green. "Corner table. Maximum visibility. Minimum traffic."
 
 "Lead the way," Vanessa said, stepping back to let Freddie and Paige walk ahead.
 
@@ -9138,7 +9138,7 @@ Vanessa sat across from them. She unpacked her salad with surgical precision, ar
 
 "We need a format," Vanessa corrected gently. She opened her notebook. "Professor Haldeman said we could submit a written report, a poster, or a presentation."
 
-Freddie stopped chewing his chicken tender. He looked at the heavy **Iron-Logic** laptop sitting in his bag.
+Freddie stopped chewing his chicken tender. He looked at the heavy Iron-Logic laptop sitting in his bag.
 
 He thought about a paper report. Static. Linear. Boring. He thought about a poster. Messy. Glue sticks. Imperfect alignment.
 
@@ -9148,7 +9148,7 @@ The three women looked at him.
 
 "A paper report is dead data," Freddie explained, wiping his hands carefully on a napkin. "A solar system is a dynamic environment. It requires navigation. It requires structure."
 
-He pulled his laptop out of the bag. He set up the **Digi-Track** mouse with its glowing red ball.
+He pulled his laptop out of the bag. He set up the Digi-Track mouse with its glowing red ball.
 
 "I will build a website," Freddie announced.
 
@@ -9156,9 +9156,9 @@ He pulled his laptop out of the bag. He set up the **Digi-Track** mouse with its
 
 "It is logical," Freddie countered. "The University provides server space. I have already mapped the directory."
 
-He booted up the laptop. The screen flickered to life. He opened the FTP client (**WS_FTP LE**) to show them the login screen.
+He booted up the laptop. The screen flickered to life. He opened the FTP client (WS_FTP LE) to show them the login screen.
 
-**Host:** student-web.cpi.internal **Directory:** /students/~mrags002/public_html **Quota:** 100 MB
+Host: student-web.cpi.internal Directory: /students/~mrags002/public_html Quota: 100 MB
 
 "I have one hundred megabytes," Freddie said, pointing to the stats bar. "That is sufficient for text and optimized JPEGs."
 
@@ -9166,7 +9166,7 @@ He booted up the laptop. The screen flickered to life. He opened the FTP client 
 
 Freddie frowned. He shook his head.
 
-"Security restriction," Freddie explained, his voice dropping with professional seriousness. "The student server is on the **Internal Network**. It resolves only to local IP addresses. It is not accessible from the public internet."
+"Security restriction," Freddie explained, his voice dropping with professional seriousness. "The student server is on the Internal Network. It resolves only to local IP addresses. It is not accessible from the public internet."
 
 "No VPN?" Jessica asked.
 
@@ -9190,7 +9190,7 @@ Freddie shook his head again.
 
 "So... how do you build it?" Paige asked, confused. "If you can't use the code you like?"
 
-"Hard-coded HTML," Freddie said, sounding like a blacksmith describing forging iron by hand. "Static pages. I will use **Tables** for the layout. It will be rigid. It will be unbreakable."
+"Hard-coded HTML," Freddie said, sounding like a blacksmith describing forging iron by hand. "Static pages. I will use Tables for the layout. It will be rigid. It will be unbreakable."
 
 He looked at Vanessa.
 
@@ -9222,7 +9222,7 @@ Paige relaxed. She smiled back. "Yeah. He's pretty cool."
 
 "Acceptable," Freddie said.
 
-He opened **Notepad**. He typed the first tag.
+He opened Notepad. He typed the first tag.
 
 \<html\>
 
@@ -9238,9 +9238,9 @@ The cursor blinked. The page was blank. The server was waiting on the other end 
 
 The solar system project was 60% complete. The website—Project Helios—was a masterpiece of static HTML tables and hand-coded CSS.
 
-The group sat in their usual spot in **Newman Library**, a secluded table near the windows. The winter sun was low, casting long shadows across the stacks.
+The group sat in their usual spot in Newman Library, a secluded table near the windows. The winter sun was low, casting long shadows across the stacks.
 
-Freddie was typing. He was in "The Zone." His fingers flew across the keyboard of his **Iron-Logic** laptop, coding the description for *Planet 3: The Forge*.
+Freddie was typing. He was in "The Zone." His fingers flew across the keyboard of his Iron-Logic laptop, coding the description for *Planet 3: The Forge*.
 
 On his right, Paige sat thigh-to-thigh with him. She was reading a paperback novel, her left hand resting absently on the back of Freddie’s neck, playing with the hem of his hoodie. It was a constant, subconscious stream of tactile data: *I am here. You are safe.*
 
@@ -9250,7 +9250,7 @@ Across the table, Vanessa sat watching them.
 
 She had been part of the group for a month. She had been perfect. She was diligent, quiet, and respectful. But she was calculating.
 
-To Vanessa, the Avery Unit was an anomaly. She had a brother at the **University of the Piedmont**, and she hadn't spoken to him since Christmas. That was *normal*. This... this tangled knot of codependency... was fascinating. And inefficient.
+To Vanessa, the Avery Unit was an anomaly. She had a brother at the University of the Piedmont, and she hadn't spoken to him since Christmas. That was *normal*. This... this tangled knot of codependency... was fascinating. And inefficient.
 
 "You guys really do everything together, don't you?" Vanessa asked softly, closing her notebook.
 
@@ -9266,7 +9266,7 @@ Freddie paused his typing. He looked up. "Clarification?"
 
 She turned her gaze to Paige. Her expression shifted to one of gentle, pitying admiration.
 
-"I saw you guys at the **Daily Grind** yesterday," Vanessa said. "With those girls from your English Lit section?"
+"I saw you guys at the Daily Grind yesterday," Vanessa said. "With those girls from your English Lit section?"
 
 Paige looked up. "Oh. Yeah. Sarah and Emily."
 
@@ -9374,9 +9374,9 @@ She didn't speak. She didn't have to. She turned her head and fixed Vanessa with
 
 It was the "Matriarch Gaze." It was a calculation of utility versus threat.
 
-- **Utility:** Vanessa does the math. She organizes the data.
+- Utility: Vanessa does the math. She organizes the data.
 
-- **Threat:** Vanessa is destabilizing the Core.
+- Threat: Vanessa is destabilizing the Core.
 
 The look said clearly: *One more strike. One more word against the Unit, and you are deleted. I don't care if you have a 4.0 GPA. I will drag you out of this library myself.*
 
@@ -9505,17 +9505,17 @@ On either side of him, his sisters watched over him. They weren't missing out on
 In the steam-filled silence on Pepper Street, the Avery Unit was exactly where it was supposed to be: together.
 
 
-**Location:** Westgate Hall (CPI Campus Housing), Room 304 **Status:** Discharge
+Location: Westgate Hall (CPI Campus Housing), Room 304 Status: Discharge
 
 The air in the cramped dorm room smelled of cheap body spray and the lingering humidity of exertion.
 
 The door to the hallway clicked shut. The heavy deadbolt slid home with a final *clack*.
 
-**Braden** (a sophomore from Sigma Chi, or maybe Pike—it didn't matter) was gone. He hadn't asked for their numbers. They hadn't offered. He had retrieved his backwards baseball cap, mumbled a "Catch ya later," and exited the premises.
+Braden (a sophomore from Sigma Chi, or maybe Pike—it didn't matter) was gone. He hadn't asked for their numbers. They hadn't offered. He had retrieved his backwards baseball cap, mumbled a "Catch ya later," and exited the premises.
 
 It was a successful transaction. The biological pressure had been vented.
 
-**Lauren**, Vanessa’s roommate, flopped back onto her twin XL mattress. She pulled the duvet up to her chin, looking tousled and smug.
+Lauren, Vanessa’s roommate, flopped back onto her twin XL mattress. She pulled the duvet up to her chin, looking tousled and smug.
 
 "Well," Lauren yawned, checking the time on her Kova brick phone. "That was efficient. Solid six out of ten. But he had good stamina."
 
@@ -9579,9 +9579,9 @@ And then, she would freeze.
 
 ### Part 2: The Syntax Error
 
-The atmosphere at the corner table in **Newman Library** was tense. The Avery Unit had deployed their defensive perimeter early.
+The atmosphere at the corner table in Newman Library was tense. The Avery Unit had deployed their defensive perimeter early.
 
-Freddie sat in the center, his **Iron-Logic** laptop open, but he wasn't typing. He was watching the elevators. Paige sat on his right, her posture rigid, her arms crossed over her chest. Jessica sat on his left, tapping her pen against the table.
+Freddie sat in the center, his Iron-Logic laptop open, but he wasn't typing. He was watching the elevators. Paige sat on his right, her posture rigid, her arms crossed over her chest. Jessica sat on his left, tapping her pen against the table.
 
 They were waiting for the Variable.
 
@@ -9591,7 +9591,7 @@ The elevator doors slid open.
 
 Vanessa stepped out.
 
-She wasn't carrying her usual stack of books. She was carrying a cardboard drink carrier from **The Daily Grind**.
+She wasn't carrying her usual stack of books. She was carrying a cardboard drink carrier from The Daily Grind.
 
 She walked toward them slowly. She didn't march. She didn't look confident. She looked... humble. Her shoulders were slightly slumped, her head bowed just enough to signal submission.
 
@@ -9731,13 +9731,13 @@ She played the student. And the Avery Unit, lowered their shields just enough to
 
 #### The Logic Bomb
 
-The lobby of **Copernicus Hall** was buzzing with the frantic, caffeinated energy of Finals Week. Students sat on the floor surrounded by flashcards. Others paced the tile corridors muttering formulas.
+The lobby of Copernicus Hall was buzzing with the frantic, caffeinated energy of Finals Week. Students sat on the floor surrounded by flashcards. Others paced the tile corridors muttering formulas.
 
 The Avery Unit stood near the display case containing a model of the Voyager probe. They were ready.
 
-Freddie was wearing his "Presentation Gear"—a clean black polo shirt (Jessica insisted) and khaki pants. He held his **Iron-Logic** laptop bag tight against his chest.
+Freddie was wearing his "Presentation Gear"—a clean black polo shirt (Jessica insisted) and khaki pants. He held his Iron-Logic laptop bag tight against his chest.
 
-The website—**Project Helios**—was live on the local server. It was perfect.
+The website—Project Helios—was live on the local server. It was perfect.
 
 "Okay," Jessica said, checking her watch. "T-minus twenty minutes until launch. I need to hit the restroom. Too much espresso."
 
@@ -9865,7 +9865,7 @@ He was thinking about the bus. He was thinking about Seattle. He was thinking th
 
 The lights in the lecture hall were dimmed. The air hummed with the whir of the overhead projector fan and the collective anxiety of a hundred students.
 
-Group 3 was finishing up. They were using **Quantum Suite Presentation** (the standard slide software). Their slides were white with blue bullet points that flew in with a cheesy *woosh* sound effect.
+Group 3 was finishing up. They were using Quantum Suite Presentation (the standard slide software). Their slides were white with blue bullet points that flew in with a cheesy *woosh* sound effect.
 
 "And... uh... that concludes our findings on Gas Giant migration," the Group 3 leader stammered.
 
@@ -9875,7 +9875,7 @@ Jessica stood up first. She adjusted her blazer. "Showtime," she whispered.
 
 The Unit moved to the front.
 
-Freddie walked stiffly. His movements were mechanical, lacking his usual fluid efficiency. He plugged the VGA cable into his **Iron-Logic** laptop.
+Freddie walked stiffly. His movements were mechanical, lacking his usual fluid efficiency. He plugged the VGA cable into his Iron-Logic laptop.
 
 Paige stood next to him. She watched his hands. They were trembling slightly as he tightened the screws on the cable connector.
 
@@ -9893,11 +9893,11 @@ He hit the enter key.
 
 The massive projection screen behind them didn't show a white slide with bullet points.
 
-It went **True Black**.
+It went True Black.
 
 A collective "Oooooh" rippled through the bored class.
 
-On the screen, the amber curve of the interface glowed. The title **SYSTEM: HELIOS** pulsed slowly in the center (a GIF Freddie had animated pixel by pixel).
+On the screen, the amber curve of the interface glowed. The title *SYSTEM: HELIOS* pulsed slowly in the center (a GIF Freddie had animated pixel by pixel).
 
 "Good afternoon," Jessica announced, her voice projecting clearly. "Most groups built a report. We built a simulation."
 
@@ -9919,7 +9919,7 @@ He clicked \[ PLANET 2: AETHEL \].
 
 The table Vanessa and Freddie had built appeared. The data was perfectly aligned.
 
-**MASS:** 1.02 Earths **ATMOSPHERE:** 78% N, 21% O **WATER:** 65% Surface Coverage
+MASS: 1.02 Earths ATMOSPHERE: 78% N, 21% O WATER: 65% Surface Coverage
 
 "Vanessa?" Jessica prompted.
 
@@ -10019,7 +10019,7 @@ The gravity was failing. The orbit was decaying. It wouldn't be long now.
 
 #### The Disconnect
 
-The ride from CPI to **Pepper Plaza** usually took thirty minutes. Today, to Freddie, it felt like re-entry burn.
+The ride from CPI to Pepper Plaza usually took thirty minutes. Today, to Freddie, it felt like re-entry burn.
 
 He sat next to Paige. She was buzzing with post-presentation energy, talking about Haldeman’s face when the screen went black.
 
@@ -10030,11 +10030,11 @@ Freddie forced a smile. *Legends.* In his mind, he saw a different image. He saw
 *They are legends,* Freddie thought. *I am the anchor weight.*
 
 
-The apartment smelled of victory and pepperoni. Jessica had ordered from **Pizza Palace** on the way home.
+The apartment smelled of victory and pepperoni. Jessica had ordered from Pizza Palace on the way home.
 
-They sat in the living room. The TV was tuned to **WNRV-TV**, the volume set to Freddie’s preferred level (14).
+They sat in the living room. The TV was tuned to WNRV-TV, the volume set to Freddie’s preferred level (14).
 
-On the screen, the **GBS Evening Report** was winding down. The anchor was signing off with a story about a cat stuck in a tree.
+On the screen, the GBS Evening Report was winding down. The anchor was signing off with a story about a cat stuck in a tree.
 
 "So," Jessica said, grabbing a slice. "Summer plans. We need to figure out the schedule. I was thinking we could do a beach trip in July. Maybe the Outer Banks?"
 
@@ -10045,7 +10045,7 @@ Freddie chewed his pizza. It tasted like cardboard. *The Outer Banks.* Another t
 *It has to be tonight,* the logic bomb whispered. *Before the gravity resets.*
 
 
-The TV jingle for **Phrase Spin** blared through the speakers. The audience clapped. The colorful wheel began to spin.
+The TV jingle for Phrase Spin blared through the speakers. The audience clapped. The colorful wheel began to spin.
 
 "Oh, I love this puzzle," Paige said, leaning forward. "Things found in a... kitchen!"
 
@@ -10067,7 +10067,7 @@ He had packed the bag that morning. Just the essentials.
 
 - His medication (enough for three days).
 
-- The **Iron-Logic** laptop (he couldn't leave the architecture).
+- The Iron-Logic laptop (he couldn't leave the architecture).
 
 He put on his orange hoodie. He pulled the hood up.
 
@@ -10092,7 +10092,7 @@ Freddie stood at the shelter. His phone buzzed in his pocket. A text from Vaness
 
 On the transport. ETA 2 mins.
 
-The **Number 1** bus roared around the corner. The brakes squealed. The doors hissed open.
+The Number 1 bus roared around the corner. The brakes squealed. The doors hissed open.
 
 Freddie stepped up. He swiped his pass for the last time.
 
@@ -10123,7 +10123,7 @@ They stepped off. The wind was picking up.
 
 "It's right there," Vanessa pointed.
 
-The **Roanoke Express** was a large, coach-style bus. It was the commuter line that connected the university town to the city of Roanoke.
+The Roanoke Express was a large, coach-style bus. It was the commuter line that connected the university town to the city of Roanoke.
 
 They boarded. The driver didn't look at them. The bus was mostly empty—just a few tired workers heading home.
 
@@ -10146,7 +10146,7 @@ He handed the brick of plastic to Vanessa. She put it in her bag.
 "Safe mode engaged," she smiled.
 
 
-The bus descended into the city. It turned into **Campbell Court**.
+The bus descended into the city. It turned into Campbell Court.
 
 It wasn't a terminal in the romantic sense. It was the ground floor of a concrete parking garage. The ceiling was low and stained with soot. The lighting was sickly yellow sodium-vapor.
 
@@ -10160,7 +10160,7 @@ Freddie coughed. He pulled his hoodie tight around his face.
 
 "It's just the city," Vanessa said, steering him toward the ticket window. "Focus on me, Freddie. Look at my back."
 
-They approached the **Pathfinder** window. The glass was scratched and bulletproof.
+They approached the Pathfinder window. The glass was scratched and bulletproof.
 
 "Will Call," Vanessa told the agent. "Two for Seattle. Transfer in Nashville."
 
@@ -10184,7 +10184,7 @@ Freddie squeezed his eyes shut. He visualized Paige in Italy. He visualized the 
 
 *Endure,* he told himself. *Endure the smog. Endure the noise.*
 
-He checked his mental clock. **20:30 PM.**
+He checked his mental clock. 20:30 PM.
 
 Back at the house, *Stellar Voyage: The New Era* was starting on WNRV. Paige and Jessica would be settling in on the couch.
 
@@ -10200,7 +10200,7 @@ They sat in the gray smog, waiting for the ride that would take him 2,600 miles 
 
 #### The Horizon Line
 
-The **Pathfinder** bus hissed, its pneumatic suspension lifting the heavy chassis off the grime of the Campbell Court pavement.
+The Pathfinder bus hissed, its pneumatic suspension lifting the heavy chassis off the grime of the Campbell Court pavement.
 
 "Departure," Freddie whispered.
 
@@ -10212,7 +10212,7 @@ Freddie pressed his forehead against the cold glass. The city lights smeared int
 
 *Adventure,* he told himself. *This is a Stellar Voyage. I am leaving the starbase.*
 
-He felt a vibration in the floorboards—the massive diesel engine roaring as they hit the on-ramp for **I-581**. They were moving north, then west. Toward the mountains. Toward the future.
+He felt a vibration in the floorboards—the massive diesel engine roaring as they hit the on-ramp for I-581. They were moving north, then west. Toward the mountains. Toward the future.
 
 
 On the television, the credits for *Stellar Voyage: The New Era* were rolling. The majestic orchestral theme swelled, filling the living room.
@@ -10286,7 +10286,7 @@ The bus was cruising at 65 miles per hour. The rhythm was hypnotic. *Thump-thump
 
 Freddie watched the green highway signs flash by in the headlights.
 
-**EXIT 118 - CHRISTIANSBURG / BLACKSBURG**
+*EXIT 118 - CHRISTIANSBURG / BLACKSBURG*
 
 Freddie’s heart seized.
 
@@ -10315,11 +10315,11 @@ Freddie looked back at the window. The exit sign disappeared into the darkness b
 The gravity of home was gone. He was drifting.
 
 
-The bus slowed. It pulled off the highway into the small town of **Marion**.
+The bus slowed. It pulled off the highway into the small town of Marion.
 
 "Stop?" Freddie asked.
 
-"Pick up," Vanessa checked the schedule. "Near the **Appalachian Youth Corps** center."
+"Pick up," Vanessa checked the schedule. "Near the Appalachian Youth Corps center."
 
 They watched as a group of young men in denim jackets boarded the bus. They looked tired. They carried duffel bags.
 
@@ -10330,7 +10330,7 @@ The bus merged back onto the highway. The excitement began to bleed back in, rep
 
 The bus drifted off the dark ribbon of Interstate 81, its brakes hissing as it descended into a pool of harsh, sodium-vapor white light.
 
-Freddie blinked awake, the sudden brightness stinging his eyes behind his glasses. Through the condensation on the window, the terminal came into view. It was a low, brick building, utterly unremarkable except for the sign glowing in block letters above the idling bay: **BRISTOL**.
+Freddie blinked awake, the sudden brightness stinging his eyes behind his glasses. Through the condensation on the window, the terminal came into view. It was a low, brick building, utterly unremarkable except for the sign glowing in block letters above the idling bay: BRISTOL.
 
 For a heartbeat, the word felt like a warm blanket. It felt familiar. Safe.
 
@@ -10338,7 +10338,7 @@ He had been to Bristol with Jessica and Paige more times than he could count. It
 
 Then his eyes adjusted, catching the smaller, less forgiving letters beneath the city name.
 
-**TN**.
+TN.
 
 There was a half-second delay in his processing, a glitch in the visual recognition software, followed by a sharp, audible click in his brain. A recalibration.
 
@@ -10383,7 +10383,7 @@ He swallowed hard, gripping the strap of his backpack until his knuckles turned 
 The first seed of regret hadn't just germinated; it had taken root, deep and thorny, right in the center of his heart.
 
 
-The lights of **Knoxville** appeared on the horizon—a glowing orange nebula in the valley.
+The lights of Knoxville appeared on the horizon—a glowing orange nebula in the valley.
 
 The bus navigated the interchange and pulled into the Knoxville terminal.
 
@@ -10409,9 +10409,9 @@ She led him toward the next leg of the journey, while three hundred miles behind
 
 #### The Point of No Return
 
-The sun was rising over the **Cumberland River**, casting a sickly yellow light over the Nashville skyline.
+The sun was rising over the Cumberland River, casting a sickly yellow light over the Nashville skyline.
 
-The bus—**Pathfinder 104**—idled in the station. It was the halfway point of the first leg.
+The bus—Pathfinder 104—idled in the station. It was the halfway point of the first leg.
 
 Freddie sat by the window. His neck was stiff. His legs were cramping. The air in the bus smelled of stale coffee and strangers.
 
@@ -10488,11 +10488,11 @@ Jessica dropped the note. The shock evaporated, replaced by cold, hard tactical 
 
 "The computer," Jessica commanded. "He plans everything digitally. If he left, he built a route."
 
-They ran into the office. The **Iron-Logic** laptop was gone, but the tower—the command center—was humming in sleep mode.
+They ran into the office. The Iron-Logic laptop was gone, but the tower—the command center—was humming in sleep mode.
 
-Jessica hit the spacebar. The monitors flared to life. The **Quantum OS XN Pro** login screen appeared.
+Jessica hit the spacebar. The monitors flared to life. The Quantum OS XN Pro login screen appeared.
 
-**User:** SYSADMIN **Password:** \_\_\_\_\_\_\_\_
+User: SYSADMIN Password: \_\_\_\_\_\_\_\_
 
 "Password," Jessica snapped.
 
@@ -10504,11 +10504,11 @@ The desktop loaded. Starfield background.
 
 "Browser history," Jessica said, grabbing the mouse.
 
-**Tuesday, 14:00 PM:** *Seattle Sky-Spire* **Tuesday, 14:15 PM:** *Pathfinder Bus Lines - Schedule* **Tuesday, 14:30 PM:** *Email - Order Confirmation \#4492*
+Tuesday, 14:00 PM: *Seattle Sky-Spire* Tuesday, 14:15 PM: *Pathfinder Bus Lines - Schedule* Tuesday, 14:30 PM: *Email - Order Confirmation \#4492*
 
 Jessica clicked the email link.
 
-**CONFIRMATION: ROANOKE (ROA) -\> SEATTLE (SEA)** **DEPARTURE: TUESDAY, MAY 4 - 21:10 PM** **PASSENGERS: 2**
+*CONFIRMATION: ROANOKE (ROA) -\> SEATTLE (SEA)* *DEPARTURE: TUESDAY, MAY 4 - 21:10 PM* *PASSENGERS: 2*
 
 "Two?" Paige whispered, looking over Jessica’s shoulder. "Who is the second passenger?"
 
@@ -10524,7 +10524,7 @@ She stopped. Her eyes went wide.
 
 She turned and ran into the en-suite bathroom. She threw open the medicine cabinet.
 
-There, on the second shelf, was the orange bottle. **Baclofen**.
+There, on the second shelf, was the orange bottle. Baclofen.
 
 It was full.
 
@@ -10538,7 +10538,7 @@ Jessica stood up. She wasn't crying. She was mobilizing.
 
 "No," Jessica cut her off. "He’s an adult. He left a note. The police will call it a voluntary departure. We handle this ourselves."
 
-She sat back down at the computer. She opened a new tab. **Gateway Airlines**.
+She sat back down at the computer. She opened a new tab. Gateway Airlines.
 
 "Roanoke to Seattle," Jessica muttered, typing furiously. "Transfer in Nashville (BNA). If we leave now, we can catch the 11:00 AM flight. We land in Seattle tonight."
 
@@ -10546,15 +10546,15 @@ She sat back down at the computer. She opened a new tab. **Gateway Airlines**.
 
 "We aren't chasing the bus," Jessica said, her eyes locked on the screen. "We're beating it. We will be standing on the curb when he gets off."
 
-She clicked **CONFIRM**.
+She clicked CONFIRM.
 
 "Hotel," Jessica said. "I need tactical positioning."
 
-She pulled up a map of downtown Seattle. She found the **Pathfinder Terminal** on Stewart Street.
+She pulled up a map of downtown Seattle. She found the Pathfinder Terminal on Stewart Street.
 
-"There," she pointed. "**The Cascade Suites**. Extended Stay. Directly across the street. We can watch the arrival bay from the window."
+"There," she pointed. "The Cascade Suites. Extended Stay. Directly across the street. We can watch the arrival bay from the window."
 
-She booked it. **Guest Names:** Jessica Avery, Paige Avery, Freddie Avery. **Room Type:** Grand Suite. One King Bed.
+She booked it. Guest Names: Jessica Avery, Paige Avery, Freddie Avery. Room Type: Grand Suite. One King Bed.
 
 "One King Bed," Jessica said firmly. "Because when we get him back, we are never letting him go again."
 
@@ -10563,11 +10563,11 @@ She stood up. "Pack a bag. Essentials only. And bring the meds."
 
 The bus had been moving for twenty hours.
 
-Freddie was asleep, his head bouncing against the window as the bus rumbled down **Interstate 70**.
+Freddie was asleep, his head bouncing against the window as the bus rumbled down Interstate 70.
 
 The bus slowed, pulling off the highway into a gravel lot.
 
-**COLBY TRUCK STOP - 15 MINUTE BREAK**
+*COLBY TRUCK STOP - 15 MINUTE BREAK*
 
 "Freddie," Vanessa shook his shoulder. "Rest stop. Stretch your legs."
 
@@ -10613,7 +10613,7 @@ They got back on the bus. The door hissed shut. There was no turning back.
 
 #### The Detour
 
-The silver **Avalon** sedan tore down the left lane of Interstate 81, the engine whining as the RPMs climbed.
+The silver Avalon sedan tore down the left lane of Interstate 81, the engine whining as the RPMs climbed.
 
 Jessica Avery was driving. Her hand rested on the stick shift, gripping the knob so hard her knuckles were white.
 
@@ -10629,23 +10629,23 @@ In the passenger seat, Paige was curled into a ball. She clutched Freddie’s or
 
 "He won't," Jessica said, downshifting smoothly as a truck cut them off. "He follows the plan. The ticket says Seattle. He will go to Seattle. And we will be there."
 
-They pulled into the **Roanoke Regional Airport**. Jessica bypassed the expensive garage and headed for the Long Term lot. She parked the Avalon under a light pole—Position G-14.
+They pulled into the Roanoke Regional Airport. Jessica bypassed the expensive garage and headed for the Long Term lot. She parked the Avalon under a light pole—Position G-14.
 
 "Move," Jessica commanded.
 
 They grabbed their single duffel bags. They ran to the shuttle stop.
 
-Inside the terminal, **Gateway Airlines** was a chaotic sea of people. It was a budget carrier, famous for its "cattle call" boarding process. No assigned seats. First come, first serve.
+Inside the terminal, Gateway Airlines was a chaotic sea of people. It was a budget carrier, famous for its "cattle call" boarding process. No assigned seats. First come, first serve.
 
 "We need Boarding Group A," Jessica said, eyeing the monitors. "If we get stuck in middle seats, we can't plan."
 
-They checked in at the kiosk. **Group A, Position 14 & 15.**
+They checked in at the kiosk. Group A, Position 14 & 15.
 
 "Perfect," Jessica breathed.
 
 They moved through security. Paige carried Freddie’s medication in a clear plastic bag, ready to fight any TSA agent who questioned it. No one did.
 
-At **Gate 4**, the plane was waiting. A 737 painted in gaudy orange and blue.
+At Gate 4, the plane was waiting. A 737 painted in gaudy orange and blue.
 
 "Flight 492 to Nashville," the agent announced. "Group A, line up."
 
@@ -10660,7 +10660,7 @@ Freddie sat by the window. He was exhausted. The vibration of the bus had settle
 
 He looked for the mountains. He wanted to see the snow-capped peaks Vanessa had promised.
 
-But as they passed **Fort Collins**, the bus didn't stay on the massive, comforting concrete ribbon of **Interstate 25**.
+But as they passed Fort Collins, the bus didn't stay on the massive, comforting concrete ribbon of Interstate 25.
 
 The blinker clicked. The bus took an exit.
 
@@ -10668,7 +10668,7 @@ The blinker clicked. The bus took an exit.
 
 "Detour," Vanessa said, checking the map she had bought at the last gas station. "The main highway goes through the Eisenhower Tunnel. It's high altitude. Sometimes they route the buses north to avoid the grade and the traffic."
 
-The bus turned onto **US-287**.
+The bus turned onto US-287.
 
 It wasn't an interstate. It was a two-lane blacktop cutting straight through the high desert.
 
@@ -10695,7 +10695,7 @@ He squeezed his eyes shut and started to rock.
 *Paige would not take this road,* he thought. *Paige takes the well-lit path.*
 
 
-The bus hissed into the **Salt Lake City** intermodal hub. It had been a grueling run through Wyoming, bouncing over expansion joints in the dark.
+The bus hissed into the Salt Lake City intermodal hub. It had been a grueling run through Wyoming, bouncing over expansion joints in the dark.
 
 "Bus change," the driver announced. "Layover is two hours. Next bus departs at 04:00."
 
@@ -10729,7 +10729,7 @@ He turned around and lifted the back of his shirt in the mirror.
 
 He twisted his neck to see.
 
-There, right at the base of his spine, the skin wasn't just red. It was angry. A dark, purple bruise the size of a half-dollar had formed, and in the center, the skin was broken and weeping. **Pressure Sore. Stage 2.**
+There, right at the base of his spine, the skin wasn't just red. It was angry. A dark, purple bruise the size of a half-dollar had formed, and in the center, the skin was broken and weeping. Pressure Sore. Stage 2.
 
 Freddie stared at it in horror.
 
@@ -10769,7 +10769,7 @@ The PAC 737 banked sharply, the engines whining as they began their descent into
 
 In Seat 14A, Paige Avery didn't look out the window. She was gripping the armrests so hard her knuckles were white.
 
-"We land in twenty minutes," Jessica said from Seat 14B. She had her **MagnaByte** laptop open on the tray table, running a spreadsheet of arrival times. "Layover is forty-five minutes. Tight, but manageable. We stay in the A-terminal."
+"We land in twenty minutes," Jessica said from Seat 14B. She had her MagnaByte laptop open on the tray table, running a spreadsheet of arrival times. "Layover is forty-five minutes. Tight, but manageable. We stay in the A-terminal."
 
 "He's still moving," Paige whispered. She wasn't looking at the flight tracker. She was staring at the back of the seat in front of her, visualizing a silver bus moving across a map in her head. "I can feel it. He's bouncing."
 
@@ -10786,7 +10786,7 @@ Paige squeezed her eyes shut. She knew Freddie’s skin. She knew how fragile it
 "We'll fix it," Jessica promised, closing her laptop with a snap. "Tonight. In Seattle. We fix everything."
 
 
-The landscape had flattened out into a relentless, monotonous expanse of brown scrub brush and gray asphalt. This was **The Idaho Line**.
+The landscape had flattened out into a relentless, monotonous expanse of brown scrub brush and gray asphalt. This was The Idaho Line.
 
 Inside the bus, the air was stale and hot. The air conditioning was struggling against the high desert sun beating down on the metal roof.
 
@@ -10858,7 +10858,7 @@ She reached for the waistband of his jeans.
 
 Freddie shook his head, his breath hitching. "No data."
 
-"It says a man shall leave his father and mother," Vanessa recited, her voice taking on a strange, fanatical edge, "and he shall **cleave** to his wife."
+"It says a man shall leave his father and mother," Vanessa recited, her voice taking on a strange, fanatical edge, "and he shall *cleave* to his wife."
 
 Freddie’s eyes widened behind his glasses. The word hit him like a physical threat.
 
@@ -10902,7 +10902,7 @@ She didn't just scream. She lashed out.
 
 She swung her hand and slapped him. Hard.
 
-**CRACK.**
+CRACK.
 
 Her palm connected with the side of Freddie's face, knocking his glasses askew and snapping his head to the side. The sound was sharp and shocking in the tiled room.
 
@@ -11004,7 +11004,7 @@ Paige sat in the passenger seat. She had the orange pill bottle in her lap. She 
 
 "He's quiet now," Paige whispered, staring at the rain-streaked window. "I can't feel him screaming anymore. He's just... hurting."
 
-"He's conserving energy," Jessica said, merging onto **I-5 North**. "He's shutting down non-essential systems. It’s a survival mechanism."
+"He's conserving energy," Jessica said, merging onto I-5 North. "He's shutting down non-essential systems. It’s a survival mechanism."
 
 They drove in silence, the windshield wipers slapping a steady rhythm against the glass. *Slap-swish. Slap-swish.*
 
@@ -11012,20 +11012,20 @@ As the skyline of Seattle rose up out of the mist—the Sky-Spire glowing white 
 
 They weren't tourists. They were a retrieval team.
 
-They took the **Stewart Street** exit.
+They took the Stewart Street exit.
 
 "There," Jessica pointed.
 
-On the left, a gritty, low-slung building with buses idling in the bays. **The Pathfinder Terminal**.
+On the left, a gritty, low-slung building with buses idling in the bays. The Pathfinder Terminal.
 
-Directly across the street, a generic brick high-rise. **The Cascade Suites**.
+Directly across the street, a generic brick high-rise. The Cascade Suites.
 
 Jessica pulled into the hotel garage.
 
 "Check-in," Jessica commanded. "Then we establish the lookout."
 
 
-The mid-sized white sedan, a generic fleet model from "Blue Sky Rentals," pulled into the covered garage of **The Cascade Suites**.
+The mid-sized white sedan, a generic fleet model from "Blue Sky Rentals," pulled into the covered garage of The Cascade Suites.
 
 Jessica put the car in park. She turned off the engine. For a moment, neither of them moved. The silence in the car was heavy, a stark contrast to the roar of the jet engines that had filled their ears for the last seven hours.
 
@@ -11127,7 +11127,7 @@ Thursday was the hardest day. The travel adrenaline had worn off, leaving only t
 
 Paige sat on the King bed, surrounded by pamphlets she had grabbed from the hotel lobby rack.
 
-"Jess," Paige said, looking at a brochure for the **Seattle Sky-Spire**. "I've been thinking."
+"Jess," Paige said, looking at a brochure for the Seattle Sky-Spire. "I've been thinking."
 
 "About?" Jessica was at the table, re-checking the Pathfinder schedule for the tenth time.
 
@@ -11137,11 +11137,11 @@ Paige sat on the King bed, surrounded by pamphlets she had grabbed from the hote
 
 "So, we stay," Paige said. "Just for a few days. We turn this into a trip. We overwrite the bad data with good data."
 
-She held up a brochure for the **Bayfront Aquarium**.
+She held up a brochure for the Bayfront Aquarium.
 
 "Look. Quiet. Blue lights. Fish. He loves aquariums. It's sensory soothing."
 
-She held up another one for the **Great Wheel**.
+She held up another one for the Great Wheel.
 
 "Smooth rotation. A view of the city from above—like Wind Rock, but without the hike. He likes elevation."
 
@@ -11279,7 +11279,7 @@ The agent tapped his keyboard. "Pulling in now, Ma'am. Gate 3. Lower level."
 
 "Thank you."
 
-Jessica turned to Paige. Paige was standing near a pillar, bouncing on the balls of her feet, her eyes locked on the door marked **GATE 3**. She looked like a sprinter waiting for the gun.
+Jessica turned to Paige. Paige was standing near a pillar, bouncing on the balls of her feet, her eyes locked on the door marked GATE 3. She looked like a sprinter waiting for the gun.
 
 "Gate 3," Jessica said. "It's here."
 
@@ -11678,7 +11678,7 @@ He took a breath. He smelled lavender detergent and the specific, familiar scent
 
 *The Anchor,* Freddie thought. *I am docked.*
 
-He turned his head to the left. In the dim light of the digital clock—which read **11:16**—he saw Paige’s profile. She was sound asleep, her face pressed into his shoulder.
+He turned his head to the left. In the dim light of the digital clock—which read 11:16—he saw Paige’s profile. She was sound asleep, her face pressed into his shoulder.
 
 He turned to the right. Jessica was there, her arm protective over his chest, her breathing deep and even.
 
@@ -12780,7 +12780,7 @@ The "Metro-Rail" ride back from the Sky-Spire had been smooth, but the transitio
 
 By the time they reached Alaskan Way, Freddie’s gait had deteriorated. The adrenaline of the morning's ascent had burned off, leaving behind the heavy, grinding reality of his spastic diplegia. His right foot dragged slightly with every step. He was leaning heavily on Paige, his arm draped over her shoulders, his breathing shallow and tight.
 
-"Target acquired," Jessica announced, pointing to the large wooden structure of Pier 59. "**The Bayfront Aquarium.**"
+"Target acquired," Jessica announced, pointing to the large wooden structure of Pier 59. "The Bayfront Aquarium."
 
 "Low light protocol," Freddie rasped, trying to sound like the Captain, but his voice was thin. "We’re going under."
 
@@ -12794,7 +12794,7 @@ Jessica looked around the lobby while waiting in line. She saw the ticket counte
 
 Then, out of the corner of her eye, she saw them.
 
-Tucked into an alcove near the coat check was a row of blue vinyl wheelchairs. They were standard-issue manual chairs, folded and waiting, with a sign above them: **Complimentary Guest Use**.
+Tucked into an alcove near the coat check was a row of blue vinyl wheelchairs. They were standard-issue manual chairs, folded and waiting, with a sign above them: Complimentary Guest Use.
 
 Jessica stepped out of line. She walked over to the alcove and pulled one out. She locked the brakes and rolled it over to Freddie.
 
@@ -12853,7 +12853,7 @@ They passed the jellyfish tank—a tall cylinder of blue light. Freddie leaned b
 
 "Like us," Paige smiled, squeezing his hand. "Just moving."
 
-They reached the **Underwater Dome**. The moving walkway carried them into the center of the massive glass sphere.
+They reached the Underwater Dome. The moving walkway carried them into the center of the massive glass sphere.
 
 Jessica locked the brakes in the middle of the tunnel.
 
@@ -12883,7 +12883,7 @@ They stayed in the dome for an hour, the three of them suspended in the blue lig
 
 #### The Wheelchair Epiphany
 
-The hour in the **Underwater Dome** had been a total reset. The cool blue light, the silent circling of the sharks, and the weightless feeling of the water pressing against the glass had scrubbed the last of the bus vibration from Freddie's bones.
+The hour in the Underwater Dome had been a total reset. The cool blue light, the silent circling of the sharks, and the weightless feeling of the water pressing against the glass had scrubbed the last of the bus vibration from Freddie's bones.
 
 But more importantly, the chair had worked.
 
@@ -12901,7 +12901,7 @@ As they rolled toward the exit, Paige didn't let go. She walked beside the chair
 
 "I am... efficient," Freddie realized. "The energy cost of this excursion was minimal. If I had walked, I would be in system failure by now. But I am still operational."
 
-He looked at the wheels. He thought about **Harper**, his younger sister back in Virginia Beach. Harper was fourteen. She had cerebral palsy too—mild, like his, but painful. She walked with a limp. She fell a lot.
+He looked at the wheels. He thought about Harper, his younger sister back in Virginia Beach. Harper was fourteen. She had cerebral palsy too—mild, like his, but painful. She walked with a limp. She fell a lot.
 
 And she was stuck with Ellen.
 
@@ -12961,11 +12961,11 @@ Freddie looked at them. The fear that had been gnawing at him since the lobby—
 
 #### The Scar
 
-They walked from Pier 59 back toward the **Hill Climb** elevator. The waterfront was noisy, smelling of diesel from the ferries and frying dough from the tourist stands.
+They walked from Pier 59 back toward the Hill Climb elevator. The waterfront was noisy, smelling of diesel from the ferries and frying dough from the tourist stands.
 
 Above them, a massive, double-decked concrete structure loomed over the street, blocking out the sky. It roared with the sound of thousands of cars thundering overhead.
 
-The **Alaskan Way Viaduct**.
+The Alaskan Way Viaduct.
 
 Freddie stopped. He looked up at the grey, stained concrete underbelly of the highway. It was loud. It dripped water. It cut the city off from the sea like a prison wall.
 
@@ -12982,7 +12982,7 @@ Freddie stopped. He looked up at the grey, stained concrete underbelly of the hi
 They rode the elevator up to the market level, leaving the roar of the Viaduct behind.
 
 
-They walked to the **TAPS** bus stop on 1st Avenue. A teal-and-white trolleybus was approaching, its electric poles sparking slightly against the overhead wires.
+They walked to the TAPS bus stop on 1st Avenue. A teal-and-white trolleybus was approaching, its electric poles sparking slightly against the overhead wires.
 
 "Electric trolley," Freddie noted, pleased. "Route 10. It goes near the hotel."
 
@@ -13028,7 +13028,7 @@ As they pivoted Freddie to lower him onto the beige cushions, his head turned. H
 
 He saw it.
 
-Directly across Stewart Street, inside the open-air bay of the terminal, a massive silver bus was idling. The logo on the side was unmistakable: **Pathfinder**.
+Directly across Stewart Street, inside the open-air bay of the terminal, a massive silver bus was idling. The logo on the side was unmistakable: Pathfinder.
 
 Blue diesel smoke curled up from its exhaust pipe, drifting toward the hotel window.
 
@@ -13160,7 +13160,7 @@ His vocal cords were paralyzed. The "Audio Driver" had crashed during the meltdo
 
 He squeezed his eyes shut. Tears leaked out, hot and fast.
 
-He couldn't tell them. He couldn't tell them that seeing the **Pathfinder** bus idling in the bay—the exact same model of vehicle that had been his prison for three days—had ripped the scab off his mind.
+He couldn't tell them. He couldn't tell them that seeing the Pathfinder bus idling in the bay—the exact same model of vehicle that had been his prison for three days—had ripped the scab off his mind.
 
 He realized, with a sickening lurch of vertigo, that they had been sleeping here since Friday night. They had been sleeping directly across the street from the scene of the crime.
 
@@ -13306,7 +13306,7 @@ His mind began to drift. He wondered about the time zone. *18:15 PM PST.* That w
 
 Back in Virginia, the "Prime Time Block" would be starting.
 
-He thought about the show they watched on WNRV. **The Local**. The bar where "everybody knows your name."
+He thought about the show they watched on WNRV. The Local. The bar where "everybody knows your name."
 
 He wanted that. He wanted to hear the piano theme song. He wanted to see the wood-paneled bar where people were safe, where they were recognized, where they belonged.
 
@@ -13398,9 +13398,9 @@ He pointed to the nightstand where Jessica’s laptop sat charging.
 
 Freddie nodded. He opened his mouth to explain, but his throat clicked. The mutism was still holding the line. He pointed to his head, then to the machine. *Input required.*
 
-Jessica reached over and grabbed the **MagnaByte**. She opened it and set it on his stomach, resting it against his bent knees.
+Jessica reached over and grabbed the MagnaByte. She opened it and set it on his stomach, resting it against his bent knees.
 
-Freddie opened **Quantum Word**. The screen glowed white in the dark room.
+Freddie opened Quantum Word. The screen glowed white in the dark room.
 
 He began to type. His fingers were slow, but deliberate.
 
@@ -13422,7 +13422,7 @@ Freddie minimized the document and opened the web browser. He navigated to a map
 
 He found it. A massive gray footprint near an airfield in Everett.
 
-**The Aerospace Assembly Plant.**
+The Aerospace Assembly Plant.
 
 He clicked the link. *The largest building in the world by volume. Home of the 747.*
 
@@ -13476,7 +13476,7 @@ They dressed for the mission. Freddie put on his jeans and the orange hoodie—r
 
 "Objective," Freddie stated, adjusting his glasses in the mirror. "North. Everett. The Factory."
 
-"Transport," Jessica replied, checking the **TAPS** schedule she had grabbed from the lobby rack. "We need the **Regional Express Route 510**. It’s a commuter line. High frequency. Professional ridership."
+"Transport," Jessica replied, checking the TAPS schedule she had grabbed from the lobby rack. "We need the Regional Express Route 510. It’s a commuter line. High frequency. Professional ridership."
 
 "Where do we board?" Paige asked.
 
@@ -13486,17 +13486,17 @@ Freddie consulted the map he had studied on the laptop.
 
 "One block," Jessica nodded. "We can do one block."
 
-**08:45 AM — Stewart Street**
+08:45 AM — Stewart Street
 
 They stepped out of the hotel lobby. The air was cool and wet.
 
-Directly across the street, the **Pathfinder** terminal was busy. A bus was idling in the bay, smoke curling from its exhaust.
+Directly across the street, the Pathfinder terminal was busy. A bus was idling in the bay, smoke curling from its exhaust.
 
 Freddie stopped. He looked at it. He felt Paige’s hand tighten around his.
 
 "Don't look," Paige whispered.
 
-"No," Freddie said. He looked at the bus. He looked at the dirty windows. He looked at the destination sign: **PORTLAND**.
+"No," Freddie said. He looked at the bus. He looked at the dirty windows. He looked at the destination sign: PORTLAND.
 
 "It is just a machine," Freddie stated, his voice trembling slightly but firm. "It has no power. We are taking a different machine."
 
@@ -13504,13 +13504,13 @@ He turned his back on the terminal.
 
 "Vector: North," he said.
 
-They walked one block east to 9th Avenue, then north to Howell. The bus stop sign was sleek and blue, marked **TAPS Regional**.
+They walked one block east to 9th Avenue, then north to Howell. The bus stop sign was sleek and blue, marked TAPS Regional.
 
-**08:52 AM — 9th & Howell**
+08:52 AM — 9th & Howell
 
 The bus rounded the corner. It wasn't a grey, dirty coach. It was a clean, white-and-teal articulated bus with the TAPS logo.
 
-**510 EVERETT**
+510 EVERETT
 
 "Boarding," Freddie whispered.
 
@@ -13529,7 +13529,7 @@ Freddie looked out the window. He reached out and took Paige’s hand. She laced
 The bus hissed and pulled away from the curb. They merged onto I-5 North, heading away from the city, away from the south, away from the memory of the mistake.
 
 
-The ride was smooth—forty-five minutes of steady highway driving. They arrived at **Everett Station**, a brick transit hub that felt more like a train station than a bus depot.
+The ride was smooth—forty-five minutes of steady highway driving. They arrived at Everett Station, a brick transit hub that felt more like a train station than a bus depot.
 
 "Transfer," Freddie announced, reading the signs. "We need the local connector to the factory."
 
@@ -13546,9 +13546,9 @@ The factory floor was a canyon. It was 98 acres under a single roof. Clouds form
 
 Below them, the production lines stretched out for nearly a mile.
 
-To the left, the massive **Atlas-400** (In-universe 747). The "Queen of the Skies." Its signature hump was unmistakable.
+To the left, the massive Atlas-400 (In-universe 747). The "Queen of the Skies." Its signature hump was unmistakable.
 
-To the right, the new **Vector-700** (In-universe 777). Twin engines. Massive wingspan.
+To the right, the new Vector-700 (In-universe 777). Twin engines. Massive wingspan.
 
 "Look at the line," Freddie whispered, pointing. "Station 1. Station 2. Flow methodology."
 
@@ -13568,7 +13568,7 @@ He watched the workers. They moved with purpose. They checked clipboards. They f
 
 He stood there for an hour, mesmerized by the slow, deliberate birth of the airplanes. It was orderly. It was quiet (in the way machines are quiet). It was safe.
 
-**12:00 PM — The Return Trip**
+12:00 PM — The Return Trip
 
 They took the connector back to Everett Station. They waited for the Southbound 510.
 
@@ -13602,7 +13602,7 @@ Jessica dropped the room key on the front desk counter. The *clack* of plastic o
 
 "Safe travels," Dave said.
 
-They took the elevator down to the garage. The white **Vanguard Senator** rental car waited in the concrete gloom.
+They took the elevator down to the garage. The white Vanguard Senator rental car waited in the concrete gloom.
 
 "Keys," Paige demanded, holding out her hand. "I need to drive. I need to do something with my hands besides worry."
 
@@ -13640,7 +13640,7 @@ Jessica smiled, a warm, bright expression that lit up the dim garage. She wrappe
 
 "Secure," Freddie breathed, closing his eyes.
 
-Paige navigated out of the garage, grumbling about the car's turning radius. They turned onto Stewart Street one last time, driving past the **Pathfinder Terminal**.
+Paige navigated out of the garage, grumbling about the car's turning radius. They turned onto Stewart Street one last time, driving past the Pathfinder Terminal.
 
 Freddie didn't flinch. He felt the solid warmth of Jessica’s arm. He felt the steady rhythm of her breathing. The terminal was just a building.
 
@@ -13649,9 +13649,9 @@ Freddie didn't flinch. He felt the solid warmth of Jessica’s arm. He felt the 
 "Ghost town," Jessica agreed, squeezing his hand.
 
 
-They reached the massive junction south of the city. The traffic on **I-5 South** was heavy—a river of red taillights and grey steel.
+They reached the massive junction south of the city. The traffic on I-5 South was heavy—a river of red taillights and grey steel.
 
-"Navigation update," Jessica called out from the back, playing the role of Navigator now. "We aren't taking I-5 all the way. Take Exit 154B. Merge onto **I-405 North**."
+"Navigation update," Jessica called out from the back, playing the role of Navigator now. "We aren't taking I-5 all the way. Take Exit 154B. Merge onto I-405 North."
 
 "North?" Paige asked, checking her blind spot. "We're going south."
 
@@ -13659,7 +13659,7 @@ They reached the massive junction south of the city. The traffic on **I-5 South*
 
 Paige executed the merge, the automatic transmission whining as it downshifted aggressively. "Come on, shift," she muttered. "Find a gear."
 
-A mile later, she took **Exit 2**, sweeping onto the ramp for **SR-167 South**.
+A mile later, she took Exit 2, sweeping onto the ramp for SR-167 South.
 
 
 Freddie stiffened slightly. "Kent," he read aloud.
@@ -13698,7 +13698,7 @@ The Vanguard roared past the exit. They left Kent—and the ghost of Vanessa—i
 
 The drive south on SR-167 had turned into SR-161, winding through the Puyallup Valley.
 
-Then, they hit the turn for **State Route 7**.
+Then, they hit the turn for State Route 7.
 
 The four-lane highway narrowed. The concrete median disappeared. The road became a simple, two-lane blacktop winding through the trees.
 
@@ -13716,7 +13716,7 @@ He relaxed completely. The knot of "city tension" that had been in his chest sin
 
 "Approaching target," Paige announced from the front. "Ashford. Population: Small."
 
-They turned off the main road onto a gravel drive marked by a heavy wooden sign: **THE IRON CREEK LODGE**.
+They turned off the main road onto a gravel drive marked by a heavy wooden sign: *THE IRON CREEK LODGE*.
 
 It wasn't a hotel. It was a collection of heavy timber cabins nestled deep in the woods, spaced far enough apart that you couldn't see your neighbors.
 
@@ -13734,7 +13734,7 @@ The silence was instant. No sirens. No bus engines. No traffic drone. Just the s
 
 They walked into the cabin. It smelled of cedar and woodsmoke. The main room was cozy, with a leather sofa and a fireplace. But the main attraction was through the bedroom door.
 
-There it was. **The California King.**
+There it was. The California King.
 
 It was massive. Bigger than the one at the Cascade Suites. A vast expanse of flannel sheets and heavy quilts.
 
@@ -13850,7 +13850,7 @@ Here, there were only logs, fire, river, and the Unit.
 
 They piled back into the car. The drive from the lodge to the "town" of Ashford took less than three minutes.
 
-Ashford wasn't a city. It was a strip of civilization carved out of the forest: a few inns, a pottery shop, and the main hub of local life—**The Ashford Outpost**.
+Ashford wasn't a city. It was a strip of civilization carved out of the forest: a few inns, a pottery shop, and the main hub of local life—The Ashford Outpost.
 
 It was a gas station, but it looked like a log cabin that had grown gas pumps.
 
@@ -13888,11 +13888,11 @@ Freddie scanned the shelves. He didn't want fancy. He wanted *grounding*.
 
 They moved through the small store, gathering the components of a comfort meal.
 
-- A bag of **Ridged Potato Chips** (essential for the crunch texture).
+- A bag of Ridged Potato Chips (essential for the crunch texture).
 
 - A gallon of 2% milk.
 
-- A pack of **Milk Chocolate Bars**, **Honey Grahams**, and **Marshmallows**.
+- A pack of Milk Chocolate Bars, Honey Grahams, and Marshmallows.
 
 "S'mores protocol?" Paige grinned, holding up the bag of marshmallows.
 
@@ -14067,7 +14067,7 @@ Now, it was time to plan the parameters for the next day.
 
 Jessica pulled out a brochure she had grabbed from the front office rack.
 
-"Tomorrow's forecast is overcast but dry," Jessica reported. "We have options nearby. There is a place called **Iron Spirit Park**. It says here it’s a 'sculpture garden of recycled heavy machinery.'"
+"Tomorrow's forecast is overcast but dry," Jessica reported. "We have options nearby. There is a place called Iron Spirit Park. It says here it’s a 'sculpture garden of recycled heavy machinery.'"
 
 Freddie perked up, leaning forward on the rug. "Recycled machinery? Define."
 
@@ -14225,7 +14225,7 @@ They didn't rush to cover up. They didn't scramble for robes or hide behind towe
 
 Freddie walked to the kitchenette. The pine floorboards were cool under his bare feet. He liked the sensation. It was raw, honest data.
 
-He opened the fridge and pulled out the gallon of milk. Jessica grabbed the box of **Honey Nut Hoops**. Paige grabbed the ceramic bowls.
+He opened the fridge and pulled out the gallon of milk. Jessica grabbed the box of Honey Nut Hoops. Paige grabbed the ceramic bowls.
 
 They sat at the small round wooden table near the window. The sunlight played across their shoulders.
 
@@ -14253,7 +14253,7 @@ The "Boot Sequence" was efficient. They traded their natural state for the neces
 
 "Shields active," Freddie announced.
 
-They walked out to the white **Vanguard Senator**. The morning air was crisp and smelled heavily of damp earth and pine needles.
+They walked out to the white Vanguard Senator. The morning air was crisp and smelled heavily of damp earth and pine needles.
 
 "I'm driving," Jessica announced, snagging the keys from the table. "I want to see if the transmission is actually broken, or if Paige just has a lead foot."
 
@@ -14318,7 +14318,7 @@ They wandered the park for an hour, Freddie identifying the original purpose of 
 
 #### The Silent Engines
 
-The drive from the sculpture park to the tiny town of Elbe took less than five minutes. Jessica parked the white **Vanguard Senator** on the gravel shoulder near the historic depot.
+The drive from the sculpture park to the tiny town of Elbe took less than five minutes. Jessica parked the white Vanguard Senator on the gravel shoulder near the historic depot.
 
 "Target acquired," Jessica announced. "Heavy metal, twelve o'clock."
 
@@ -14380,7 +14380,7 @@ Freddie looked from the cold iron train to the small wooden shack.
 
 They walked across the two-lane highway from the train depot. The air smelled of grilled onions and beef—a distinct, heavy scent that signaled "food" to the primitive part of the brain.
 
-"Target identified," Jessica said, pointing to the small wooden building with the line of people out front. "**The Junction Grill**."
+"Target identified," Jessica said, pointing to the small wooden building with the line of people out front. "The Junction Grill."
 
 "It is... small," Freddie noted.
 
@@ -14412,7 +14412,7 @@ Grease. Salt. Protein.
 
 "Way better," Jessica agreed, wiping a drip of ketchup from her thumb.
 
-"Vanessa said we would eat at the top of the **Sky-Spire**," Freddie said, chewing thoughtfully. "She said the floor rotates. She said I would see the whole city."
+"Vanessa said we would eat at the top of the Sky-Spire," Freddie said, chewing thoughtfully. "She said the floor rotates. She said I would see the whole city."
 
 He looked at the burger in his hands.
 
@@ -14513,7 +14513,7 @@ The drive back was the reverse of the arrival, but the feeling was different. As
 
 He sat in the back, sunglasses on, watching the world speed by. He wasn't trapped in the noise anymore; he was just passing through it.
 
-Jessica spotted the sign—**VANGUARD RENT-A-CAR**—and pulled off International Boulevard into the sprawling open-air lot. It wasn't a fancy garage; it was acres of asphalt surrounded by chain-link fencing, smelling of exhaust and car wash soap.
+Jessica spotted the sign—*VANGUARD RENT-A-CAR*—and pulled off International Boulevard into the sprawling open-air lot. It wasn't a fancy garage; it was acres of asphalt surrounded by chain-link fencing, smelling of exhaust and car wash soap.
 
 She pulled into the return lane under the metal awning. A guy with a thick jacket and a handheld computer walked up.
 
@@ -14544,9 +14544,9 @@ The shuttle dropped them at the curb on the lower level of the terminal. The noi
 
 "Hold the line," Freddie whispered to himself.
 
-They walked to the island marked **COURTESY VANS**.
+They walked to the island marked *COURTESY VANS*.
 
-They didn't have to wait long. A white van with **THE AIRPORT GRAND HOTEL** stenciled on the side pulled up to the curb. The driver, an older man with a friendly nod, hopped out to grab their bags.
+They didn't have to wait long. A white van with *THE AIRPORT GRAND HOTEL* stenciled on the side pulled up to the curb. The driver, an older man with a friendly nod, hopped out to grab their bags.
 
 "Heading to the Grand?" he asked.
 
@@ -14658,7 +14658,7 @@ It was tight, but it was perfect. The pressure of her weight against him acted l
 
 She clicked the TV on.
 
-Blue screen. Yellow text. Smooth, elevator jazz saxophone. **THE METEOROLOGICAL NETWORK.** Freddie smiled.
+Blue screen. Yellow text. Smooth, elevator jazz saxophone. *THE METEOROLOGICAL NETWORK.* Freddie smiled.
 
 "Local forecast loop?" Freddie asked.
 
@@ -14830,7 +14830,7 @@ You could tell the quality of a hotel by its breakfast.
 
 If it was a "motel" (like the ones they had avoided), breakfast was a sad table in the lobby with stale donuts and a dispenser of watery orange juice. If it was a "mid-range" hotel, it was a buffet with rubbery scrambled eggs and a waffle maker you had to operate yourself.
 
-But this was **The Airport Grand**.
+But this was The Airport Grand.
 
 Here, breakfast wasn't free. It was a destination.
 
@@ -14968,7 +14968,7 @@ She thought about Vanessa. She thought about how possessive Vanessa had been, ho
 
 Vanessa’s head would probably explode if she knew the truth. Back home in Virginia Beach, at Mom’s house (Ellen’s domain), there wasn't just Jessica and Paige. There was an entire battalion.
 
-There were the younger twins, **Sarah** and **Jenna** (14), already chaos agents in their own right. There was **Harper** (11), zooming around in her wheelchair, always demanding Freddie listen to her music. And the babies, **Amanda** and **Elara** (9), who treated Freddie like a living jungle gym.
+There were the younger twins, Sarah and Jenna (14), already chaos agents in their own right. There was Harper (11), zooming around in her wheelchair, always demanding Freddie listen to her music. And the babies, Amanda and Elara (9), who treated Freddie like a living jungle gym.
 
 Seven sisters. Seven women who loved him, claimed him, and protected him.
 
@@ -14980,7 +14980,7 @@ Then, another thought crossed Paige's mind as she watched the grey Washington la
 
 Jessica’s eyes narrowed slightly. She knew exactly who Paige meant.
 
-**Robert.** Their father.
+Robert. Their father.
 
 "Clark County," Jessica confirmed quietly. "Orchards. Just across the river from Portland."
 
@@ -15006,7 +15006,7 @@ Their mother, Ellen, had finally divorced Robert in 2001. He had refused to work
 
 #### The Gateway Protocol
 
-The hotel shuttle hissed to a halt at the curb marked **GATEWAY AIRLINES**.
+The hotel shuttle hissed to a halt at the curb marked *GATEWAY AIRLINES*.
 
 The sliding door opened, and the noise of the airport invaded the van. Whistles, shouting police officers, idling buses, and the roar of jets overhead.
 
@@ -15020,7 +15020,7 @@ They stepped out onto the sidewalk. The air smelled of jet fuel and exhaust.
 
 Inside the terminal, the chaos was visual. Lines of people snaked around velvet ropes. Screens flashed red and yellow updates.
 
-They approached the counter for **Gateway Airlines**. The signage was bright blue and gold.
+They approached the counter for Gateway Airlines. The signage was bright blue and gold.
 
 "I need the Chariot," Freddie said, gripping the strap of his backpack until his knuckles turned white. Standing in this line was impossible. The floor felt like it was vibrating.
 
@@ -15072,7 +15072,7 @@ Freddie sat down. The relief was instantaneous. His legs stopped trembling. He w
 
 "Let's roll," Freddie commanded from the chair.
 
-He gripped the armrests. He thought about the connection in Chicago—**O'Hare (ORD)**. He had read the forums. It was the busiest airport in the world. It was a city of glass and steel, filled with millions of people running.
+He gripped the armrests. He thought about the connection in Chicago—O'Hare (ORD). He had read the forums. It was the busiest airport in the world. It was a city of glass and steel, filled with millions of people running.
 
 But he had the Chariot. He had the Pre-Board status. And in a few hours, he would be sandwiched between Jessica and Paige, pressurized and safe, cruising at 30,000 feet.
 
@@ -15086,7 +15086,7 @@ The convoy moved forward toward the security checkpoint, a small island of order
 
 The line for the metal detectors was a snake of stressed travelers, shedding belts and shoes like molting reptiles. The air was thick with the sound of plastic bins clattering on rollers and TSA agents shouting instructions.
 
-**"Laptops out! Shoes off! Jackets off! Empty your pockets!"**
+"Laptops out! Shoes off! Jackets off! Empty your pockets!"
 
 To Freddie, the commands were physical blows. *Bark. Bark. Bark.*
 
@@ -15211,11 +15211,11 @@ He reached up and pulled the yellow foam plug out of his left ear.
 
 The sound rushed in. It was coming from the overhead speakers of a trendy clothing store called *Urban Pulse*.
 
-It was **"Strut Like a Man."**
+It was "Strut Like a Man."
 
-But it wasn't the original 1960s version by **Vinnie & The Valiants**, with its high-pitched falsetto and doo-wop snapping.
+But it wasn't the original 1960s version by Vinnie & The Valiants, with its high-pitched falsetto and doo-wop snapping.
 
-It was the 1980s Hi-NRG cover by the drag superstar **Delight**.
+It was the 1980s Hi-NRG cover by the drag superstar Delight.
 
 The beat was relentless. The synthesizers were aggressive. And Delight’s voice wasn't asking for permission—it was barking orders with a gravelly, powerful growl. The perspective wasn't first-person; she was telling a story about a man breaking free.
 
@@ -15247,7 +15247,7 @@ He listened as the bridge kicked in:
 
 A random file from Freddie's "Pop Culture Database" popped open as he watched the music video playing on a monitor in the window.
 
-"Trivia," Freddie murmured, his eyes losing focus as he accessed the fact. "The character design for **Oceana the Sea Witch** in the movie *The Sea Princess* was based on Delight. The arch of the eyebrows. The body type. The confidence."
+"Trivia," Freddie murmured, his eyes losing focus as he accessed the fact. "The character design for Oceana the Sea Witch in the movie *The Sea Princess* was based on Delight. The arch of the eyebrows. The body type. The confidence."
 
 He paused, a shadow of sadness crossing his face.
 
@@ -15313,7 +15313,7 @@ Jessica let out a sigh of relief. The logic held.
 
 "And honey-roasted peanuts," Freddie added, clutching the bag of nuts tighter.
 
-**"Good morning, folks,"** the gate agent announced over the PA system. **"We are ready to begin pre-boarding for Gateway Flight 492 to Chicago O'Hare. We welcome any passengers needing special assistance or extra time down the jetway to board at this time."**
+"Good morning, folks," the gate agent announced over the PA system. "We are ready to begin pre-boarding for Gateway Flight 492 to Chicago O'Hare. We welcome any passengers needing special assistance or extra time down the jetway to board at this time."
 
 Jessica stood up. She grabbed the handles of the wheelchair.
 
@@ -15569,7 +15569,7 @@ Jessica leaned her cheek against the top of his hood. She didn't mind the weight
 
 Now, she was just carrying the *physical* weight. And compared to the fear of losing him to Vanessa, a numb arm was a price she would gladly pay.
 
-She looked at her watch. **1:45 PM (CST).**
+She looked at her watch. *1:45 PM (CST).*
 
 "Status?" Paige asked, finally getting feeling back in her fingers.
 
@@ -15581,7 +15581,7 @@ She looked at her watch. **1:45 PM (CST).**
 
 She was already visualizing the map of Chicago O'Hare. They would land at Concourse C (Gateway's hub). To get to the regional jet for Roanoke, they would likely have to transfer to Concourse B.
 
-That meant **The Tunnel**.
+That meant The Tunnel.
 
 Jessica knew about the tunnel. It was an underground passage connecting the concourses. It was famous for its neon light show—rainbow tubes of gas pulsating on the ceiling and walls—and the long moving walkways.
 
@@ -15603,7 +15603,7 @@ She didn't move. She just held him tighter, watching the clouds go by, counting 
 
 The cabin chime sounded. *Bing-Bong.*
 
-**"Flight attendants, prepare for arrival."**
+"Flight attendants, prepare for arrival."
 
 Jessica looked out the window. The white floor of clouds had broken apart, revealing the flat, grey-green grid of the Midwest. To the east, the massive expanse of Lake Michigan looked like an ocean.
 
@@ -15692,7 +15692,7 @@ O'Hare was an assault. It was louder, brighter, and faster than Seattle. The cei
 
 Jessica led the way, cutting a path through the crowd like an icebreaker. Paige pushed the chair close behind, keeping Freddie in her slipstream.
 
-They reached the central rotunda. In the middle of the chaos was a set of wide, stainless-steel elevators marked **"To Concourse C / Baggage Claim."**
+They reached the central rotunda. In the middle of the chaos was a set of wide, stainless-steel elevators marked "To Concourse C / Baggage Claim."
 
 Jessica hit the down button.
 
@@ -15722,7 +15722,7 @@ He looked up from under his hood. Even through his dark sunglasses, the colors w
 
 *Blue. 4 seconds. Fade. Magenta. 3 seconds. Pulse. Sound frequency 440Hz shifting to 432Hz.*
 
-He couldn't just "watch" it. His brain tried to **solve** it. He tried to find the algorithm that controlled the chaos.
+He couldn't just "watch" it. His brain tried to solve it. He tried to find the algorithm that controlled the chaos.
 
 "Let's take the ride," Paige said.
 
@@ -15834,7 +15834,7 @@ They stepped out into Concourse C. The contrast was jarring. The neon madness an
 
 "We need to re-calibrate," Jessica said, looking at the departure board. "The flight to Roanoke is at Gate C4. We have an hour. We need real food. The peanuts were just a patch."
 
-They scanned the food court options. There were the usual fast-food suspects, but the lines were long and chaotic. Jessica pointed to a sit-down restaurant with dark wood paneling and a view of the tarmac called **The Lakeshore Grill**.
+They scanned the food court options. There were the usual fast-food suspects, but the lines were long and chaotic. Jessica pointed to a sit-down restaurant with dark wood paneling and a view of the tarmac called The Lakeshore Grill.
 
 "Booths," Jessica noted. "High backs. Sound dampening. Let's go."
 
@@ -15848,7 +15848,7 @@ A waitress in a striped apron appeared, tossing coasters onto the table. "What c
 
 She didn't need to look at the menu. She knew the "Safe Foods" protocol by heart.
 
-"For him and her," Jessica said, gesturing to the twins. "The Club Sandwich. Turkey, ham, bacon. But listen carefully: **No onions. No tomatoes.**"
+"For him and her," Jessica said, gesturing to the twins. "The Club Sandwich. Turkey, ham, bacon. But listen carefully: No onions. No tomatoes."
 
 "No garden?" the waitress clarified, scribbling on her pad.
 
@@ -15892,7 +15892,7 @@ Jessica signaled for the check. She paid quickly—Aunt Marge’s credit card ta
 
 "Let's move," Jessica said, standing up. "Gate C4. It's time to bring you home."
 
-They gathered their bags. Freddie settled back into the wheelchair, feeling full and heavy. The panic of the morning felt distant now. He had fuel. He had his sisters. And the departure board showed the one word he had been waiting to see for weeks: **ROANOKE - ON TIME.**
+They gathered their bags. Freddie settled back into the wheelchair, feeling full and heavy. The panic of the morning felt distant now. He had fuel. He had his sisters. And the departure board showed the one word he had been waiting to see for weeks: *ROANOKE - ON TIME.*
 
 ***
 
@@ -15908,7 +15908,7 @@ Freddie looked out the window. The plane was small. It had high wings and two ma
 
 "It's a puddle jumper," Jessica corrected, grabbing the pink tags for their duffels. "But it gets us there."
 
-Because there was no jet bridge, the boarding process for a wheelchair was different. A large white truck with a scissor-lift box on the back—known as an **Ambulift**—pulled up to the side of the plane.
+Because there was no jet bridge, the boarding process for a wheelchair was different. A large white truck with a scissor-lift box on the back—known as an Ambulift—pulled up to the side of the plane.
 
 "Your chariot awaits," the ramp agent said, guiding Freddie’s wheelchair away from the stairs the other passengers were using and toward the truck.
 
@@ -15988,7 +15988,7 @@ Freddie leaned forward, his nose almost touching the window. He wasn't looking f
 
 He scanned the valley floor. And then, he saw it.
 
-A long, grey ribbon of asphalt cutting through the green, packed bumper-to-bumper with 18-wheelers. **Interstate 81.**
+A long, grey ribbon of asphalt cutting through the green, packed bumper-to-bumper with 18-wheelers. Interstate 81.
 
 "The Artery," Freddie announced, a massive smile breaking across his face. "Look at the volume. That is a heavy freight day. Look at the spacing. It's beautiful."
 
@@ -16000,9 +16000,9 @@ He watched the trucks—tiny white rectangles from this height—moving in their
 
 The plane banked hard to the left, circling the "bowl" of the valley to line up with Runway 33.
 
-As the wing dipped, the view opened up to **Mill Mountain**.
+As the wing dipped, the view opened up to Mill Mountain.
 
-Standing proud on the summit, white steel against the dark green trees, was the **Roanoke Star**.
+Standing proud on the summit, white steel against the dark green trees, was the Roanoke Star.
 
 It wasn't illuminated yet—the sun was still low in the western sky, casting long shadows over the valley—but the massive white star structure was unmistakable. It stood watch over the city like a guardian.
 
@@ -16048,7 +16048,7 @@ They had retrieved their duffel bags from the carousel—which had taken all of 
 
 He stopped in front of the car.
 
-It was a dark green **Takara Sanctuary**. A sensible, reliable family sedan. But to Paige, it was a chariot of precision.
+It was a dark green Takara Sanctuary. A sensible, reliable family sedan. But to Paige, it was a chariot of precision.
 
 "Hello, beautiful," Paige whispered, patting the hood.
 
@@ -16060,7 +16060,7 @@ She unlocked the doors.
 
 Paige slid into the driver’s seat. She didn't just sit; she docked. She adjusted the mirror. She depressed the clutch pedal with her left foot—a firm, mechanical resistance that felt a thousand times better than the mushy rental car pedal in Seattle.
 
-She reached for the gearshift. It was a 5-speed manual stick rising from the center console. She wiggled it in neutral. *Left-right. Left-right.*
+She reached for the gearshift. It was a 5-speed manual stick rising from the center console. She wiggled it in neutral. *Left-right. Left-right.*
 
 "System check," Paige smiled, the tension of the flight melting away. "Transmission is manual. Driver is in control."
 
@@ -16069,7 +16069,7 @@ She reached for the gearshift. It was a 5-speed manual stick rising from the ce
 Paige turned the key. The engine purred to life. She shifted into first gear, eased off the clutch, and felt the car bite the pavement. They rolled out of the lot, paid the ticket (Aunt Marge again), and merged onto the access road.
 
 
-They merged from the city spur onto the main artery. **Interstate 81.**
+They merged from the city spur onto the main artery. Interstate 81.
 
 It was a river of steel. The sun was setting behind the mountains, casting long purple shadows, but the highway was alive.
 
@@ -16095,7 +16095,7 @@ They took the off-ramp, swinging onto Route 8. The highway noise faded, repla
 
 They turned left. Then right.
 
-The street sign flashed in the headlights: **Pepper Street SE**.
+The street sign flashed in the headlights: Pepper Street SE.
 
 "Target acquired," Freddie whispered.
 
@@ -16332,11 +16332,11 @@ Freddie looked at Vanessa. He looked at the hand pressing the flannel.
 
 Then, a different file opened. It wasn't a memory of trauma. It was a memory of hard, medical data.
 
-- **Date:** 1999
-- **Location:** Pediatric Specialist, Norfolk
-- **Subject:** Freddie Avery (Age 14)
-- **Result:** Anomalous development. Seminal fluid present. Sperm count: Zero.
-- **Diagnosis:** Azoospermia
+- Date: 1999
+- Location: Pediatric Specialist, Norfolk
+- Subject: Freddie Avery (Age 14)
+- Result: Anomalous development. Seminal fluid present. Sperm count: Zero.
+- Diagnosis: Azoospermia
 
 The panic evaporated. The static cleared instantly, replaced by the cool, blue screen of logic.
 
@@ -16452,7 +16452,7 @@ Freddie sat in a high-backed leather chair on the left side of the table. Paige 
 
 Jessica sat at the head of their side of the table, acting as the spokesperson. She had the "Medical Binder"—a thick, black three-ring notebook—open in front of her.
 
-Across from them sat **Mr. Sterling**, the same attorney who had handled Aunt Marge’s deed transfer. He adjusted his glasses, looking from the siblings to the file.
+Across from them sat Mr. Sterling, the same attorney who had handled Aunt Marge’s deed transfer. He adjusted his glasses, looking from the siblings to the file.
 
 "So," Mr. Sterling said, his voice grave. "You have a trespasser claiming paternity."
 
@@ -16466,7 +16466,7 @@ Jessica didn't answer with words. She slid a document from a plastic sleeve in t
 
 Mr. Sterling picked it up. He read the header. He read the diagnosis code.
 
-"**Azoospermia**," Sterling read aloud. "Congenital."
+"Azoospermia," Sterling read aloud. "Congenital."
 
 "Zero count," Jessica clarified. "The hardware doesn't produce the output. It never has. We’ve known since he was fourteen."
 
@@ -16488,7 +16488,7 @@ He picked up his pen. "Now, the logistical issue. Service of process. Where do w
 
 Freddie frowned. He accessed his memory archives. He searched for the file labeled *Project Helios: Group Meetings*.
 
-**Date:** February 12, 2004. **Location:** Pendleton Library. **Context:** Spring Break logistics discussion.
+Date: February 12, 2004. Location: Pendleton Library. Context: Spring Break logistics discussion.
 
 He saw Vanessa sitting across the table. She was complaining about the dorms closing for break.
 
@@ -16524,7 +16524,7 @@ Sterling turned to his computer. He typed for a moment, accessing the public dir
 
 He turned to his printer. He typed rapidly for five minutes. The printer whirred, spitting out three crisp, heavy sheets of paper on the firm's letterhead.
 
-**NOTICE TO CEASE AND DESIST** **RE: Fraudulent Paternity Claims & Trespassing**
+*NOTICE TO CEASE AND DESIST* RE: Fraudulent Paternity Claims & Trespassing
 
 *To Ms. Vanessa Lawson:*
 
@@ -16552,7 +16552,7 @@ Jessica winced. Paige looked disgusted.
 
 "I do not like the aesthetic," Freddie agreed. "It disrupts the visual symmetry of the entryway."
 
-"It disrupts the symmetry," Sterling agreed, "but it establishes **Constructive Notice**. If she comes to the house while you are in class, or while you are asleep, and she sees that... she knows she can't plead ignorance. If she knocks after reading that, the police can arrest her immediately."
+"It disrupts the symmetry," Sterling agreed, "but it establishes Constructive Notice. If she comes to the house while you are in class, or while you are asleep, and she sees that... she knows she can't plead ignorance. If she knocks after reading that, the police can arrest her immediately."
 
 Jessica sighed. She hated it. It felt like admitting the infection had reached the skin of the house. But the logic was sound.
 
@@ -16582,9 +16582,9 @@ They walked out of the office, armed with the truth, ready to defend the Base ag
 
 #### The Null Hypothesis
 
-Jessica walked through the automatic sliding doors of **Pendleton Library**. She wasn't wearing her usual student attire of jeans and a Forger t-shirt. She was wearing "Business Armor"—black slacks, a crisp blouse, and boots that clicked with authority on the tile floor.
+Jessica walked through the automatic sliding doors of Pendleton Library. She wasn't wearing her usual student attire of jeans and a Forger t-shirt. She was wearing "Business Armor"—black slacks, a crisp blouse, and boots that clicked with authority on the tile floor.
 
-She carried a thick, cream-colored envelope bearing the return address of **Sterling & Associates, Attorneys at Law**.
+She carried a thick, cream-colored envelope bearing the return address of Sterling & Associates, Attorneys at Law.
 
 She scanned the first-floor study area. It was the "Quiet Zone," usually populated by stressed engineering students. Today, it was mostly empty, save for a few summer session stragglers.
 
@@ -16628,7 +16628,7 @@ She pulled out two documents: a formal cease-and-desist order banning her from t
 
 Vanessa looked at the yellow highlighter mark.
 
-**DIAGNOSIS: Azoospermia (Congenital).** **SPERM COUNT: 0.00** **CONCLUSION: Absolute Sterility.**
+DIAGNOSIS: Azoospermia (Congenital). *SPERM COUNT: 0.00* CONCLUSION: Absolute Sterility.
 
 Vanessa read it. She frowned. She read it again. The color didn't drain from her face immediately; first, there was confusion.
 
@@ -16687,7 +16687,7 @@ She grabbed her stomach as a sudden, sharp cramp twisted her insides.
 
 She reached into her bag to grab a bottle of water. As she dug past her wallet and her keys, her hand brushed against a small box she had stolen from a drugstore in Roanoke two days ago.
 
-**Early-Read Pregnancy Test.**
+Early-Read Pregnancy Test.
 
 She had stolen it as a prop. The plan had been to get into the Avery house, use the bathroom, and leave the positive test in the trash can for Paige to find later. A little piece of physical evidence to back up her lie.
 
@@ -16711,11 +16711,11 @@ She waited three minutes, leaning against the graffiti-covered wall, arms crosse
 
 She looked down at the stick.
 
-**One pink line.**
+One pink line.
 
 Control line only.
 
-**Negative.**
+Negative.
 
 Vanessa let out a breath she didn't realize she was holding. Her shoulders sagged.
 
@@ -16805,7 +16805,7 @@ Freddie thought about it. He looked at the window. He looked across the street.
 
 They stood up. They didn't need to drive. They walked out the front door, locking the fortress behind them.
 
-They crossed **Pepper Street SE**.
+They crossed Pepper Street SE.
 
 They walked through the small asphalt parking lot that separated their house from the commercial strip.
 
@@ -16815,7 +16815,7 @@ Ahead of them on Roanoke Street, the backlit sign of Brawny Burger glowed in the
 
 They walked inside. The air conditioning was cool. The booths were red vinyl.
 
-They ordered three **Thick-Stack** combos. They sat in a corner booth.
+They ordered three Thick-Stack combos. They sat in a corner booth.
 
 Freddie took a bite of his burger. It was greasy, salty, and perfect.
 
@@ -16861,14 +16861,14 @@ The Unit was online. And it was unbreakable.
 
 The dining room table was covered in a sea of paperwork. It wasn't the usual clutter of textbooks or laptops; these were heavy, legal-sized documents on bond paper, bound with blue backers.
 
-At the head of the table sat **Great Aunt Marge**. She was eighty-two, frail, and breathing with the help of a portable oxygen tank, but her eyes behind her bifocals were as sharp as cut glass.
+At the head of the table sat Great Aunt Marge. She was eighty-two, frail, and breathing with the help of a portable oxygen tank, but her eyes behind her bifocals were as sharp as cut glass.
 
 Surrounding her was a phalanx of professionals she had summoned personally.
 
-- **Mr. Sterling:** Her estate attorney, a man who wore suspenders and had zero sense of humor.
-- **Mrs. Gable:** Her real estate agent, there to facilitate the transfer of the title.
-- **Dr. Vance:** The family physician, there for a specific, legal purpose.
-- **A Notary Public:** A woman named Brenda with a heavy embossing seal.
+- Mr. Sterling: Her estate attorney, a man who wore suspenders and had zero sense of humor.
+- Mrs. Gable: Her real estate agent, there to facilitate the transfer of the title.
+- Dr. Vance: The family physician, there for a specific, legal purpose.
+- A Notary Public: A woman named Brenda with a heavy embossing seal.
 
 Sitting opposite them were the Averys: Jessica, Paige, and Freddie. They looked nervous. They felt like they were in a courtroom.
 
@@ -16900,11 +16900,11 @@ Dr. Vance nodded. He signed an affidavit attached to the file. "Medical capacity
 
 "Excellent," Mr. Sterling said. He slid the heavy stack of papers toward Marge.
 
-"This is a **Quitclaim Deed** transferring ownership from Margaret E. Lewis to Jessica, Paige, and Freddie Avery as **Joint Tenants with Right of Survivorship**," Sterling explained. "This means if anything happens to one of you, the house automatically belongs to the others. It cannot be inherited by parents or spouses. It stays in the Unit."
+"This is a Quitclaim Deed transferring ownership from Margaret E. Lewis to Jessica, Paige, and Freddie Avery as Joint Tenants with Right of Survivorship," Sterling explained. "This means if anything happens to one of you, the house automatically belongs to the others. It cannot be inherited by parents or spouses. It stays in the Unit."
 
 "Perfect," Jessica whispered.
 
-"Now," the Real Estate Agent spoke up. "Regarding the purchase price. We are listing the sale price as **One Dollar**."
+"Now," the Real Estate Agent spoke up. "Regarding the purchase price. We are listing the sale price as One Dollar."
 
 "One dollar?" Paige asked. "Is that legal?"
 
@@ -16912,7 +16912,7 @@ Dr. Vance nodded. He signed an affidavit attached to the file. "Medical capacity
 
 He tapped the table.
 
-"But a **Sale**? A sale is a contract. If money changes hands—even a nominal amount—it is a completed transaction. Consideration has been paid. The deal is closed. Ellen cannot overturn a valid real estate sale just because she doesn't like the price."
+"But a Sale? A sale is a contract. If money changes hands—even a nominal amount—it is a completed transaction. Consideration has been paid. The deal is closed. Ellen cannot overturn a valid real estate sale just because she doesn't like the price."
 
 Marge reached into her purse. She pulled out a pen.
 
@@ -16934,7 +16934,7 @@ She pressed the pen to the paper.
 
 *Scritch-scratch.*
 
-She signed her name with a flourish. **Margaret E. Lewis.**
+She signed her name with a flourish. Margaret E. Lewis.
 
 The Notary stamped it. *KER-CHUNK.*
 
@@ -16982,7 +16982,7 @@ Freddie sat on the floor, surrounded by the paperwork. He wasn't looking at the 
 
 *Rring. Rring.*
 
-The phone on the wall chirped. The caller ID flashed: **ELLEN AVERY (NORFOLK).**
+The phone on the wall chirped. The caller ID flashed: *ELLEN AVERY (NORFOLK).*
 
 The atmosphere in the room shifted instantly. The warm, creative energy of the "Rover Project" evaporated, replaced by the familiar tension of the "Parental Firewall."
 
@@ -17055,12 +17055,12 @@ That night, they didn't just sleep; they hibernated.
 
 Freddie lay in the middle of the King bed.
 
-- **Left Flank:** Paige, her leg thrown over his hip to anchor him.
-- **Right Flank:** Jessica, back-to-back with him, a solid wall against the door.
+- Left Flank: Paige, her leg thrown over his hip to anchor him.
+- Right Flank: Jessica, back-to-back with him, a solid wall against the door.
 
 Ellen called it "sick." Robert called it "weird." But as Freddie drifted off, surrounded by the heat and scent of his sisters, he knew the truth.
 
-It wasn't sick. It was **survival**. And for the first time in his life, he was going to stop apologizing for surviving.
+It wasn't sick. It was survival. And for the first time in his life, he was going to stop apologizing for surviving.
 
 "Rover arrives in two weeks," Freddie whispered into the dark.
 
@@ -17074,7 +17074,7 @@ The afternoon sun filtered through the sheer curtains, illuminating the dust mot
 
 They were in the "Sandwich Configuration" on the plaid sofa. Freddie sat in the middle, his legs resting on the coffee table. Paige was on his left, her head on his shoulder, reading a paperback. Jessica was on his right, tapping away on her laptop.
 
-In the corner of the room, gleaming in matte black titanium, sat **The Rover**. It had arrived two days ago. Freddie had spent the morning learning to spin it on a dime in the kitchen. For the first time in years, his back didn't hurt.
+In the corner of the room, gleaming in matte black titanium, sat The Rover. It had arrived two days ago. Freddie had spent the morning learning to spin it on a dime in the kitchen. For the first time in years, his back didn't hurt.
 
 *Rattle. Jiggle. Click.*
 
@@ -17128,7 +17128,7 @@ Jessica reached under the coffee table and pulled out a thick manila envelope. S
 
 Ellen picked it up. She pulled out the document. Her eyes scanned the header.
 
-**DEED OF SALE** **Grantor:** Margaret E. Lewis (Owner) **Grantees:** Jessica Avery, Paige Avery, Freddie Avery (Joint Tenants with Right of Survivorship) **Consideration:** \$1.00 (Paid in Cash) **Date:** June 16, 2004
+*DEED OF SALE* Grantor: Margaret E. Lewis (Owner) Grantees: Jessica Avery, Paige Avery, Freddie Avery (Joint Tenants with Right of Survivorship) Consideration: \$1.00 (Paid in Cash) Date: June 16, 2004
 
 Ellen’s hands shook. "What is this?"
 
@@ -18562,13 +18562,13 @@ Freddie hesitated. He looked down at his wheelchair. He looked at his hands, whi
 
 The bowling alley smelled of floor wax, rental shoes, and greasy fries. It was a cacophony of crashing pins, arcade bells, and synth-pop music.
 
-To **Freddie**, it was chaos. But it was good chaos. It was the sound of people having fun, not the sound of people fighting.
+To Freddie, it was chaos. But it was good chaos. It was the sound of people having fun, not the sound of people fighting.
 
 They secured two lanes at the end of the row.
 
-**Jessica** walked up to the control console. She looked at the blinking green screen.
+Jessica walked up to the control console. She looked at the blinking green screen.
 
-"Okay," Jessica announced to the group. "Since we have players ranging from age nine to... well, Aunt Linda... and since we are here to celebrate, not to suffer, I am activating the **Safety Protocol**."
+"Okay," Jessica announced to the group. "Since we have players ranging from age nine to... well, Aunt Linda... and since we are here to celebrate, not to suffer, I am activating the Safety Protocol."
 
 She pressed a button. Bumper Rails: ON.
 
@@ -18576,23 +18576,23 @@ HISSS-CLACK.
 
 Down the length of both Lane 1 and Lane 2, long black rubber rails rose up from the gutters. They snapped into place, effectively sealing off the trench on either side.
 
-"Bumpers!" **Harper** cheered, jumping up and down. "Pinball bowling!"
+"Bumpers!" Harper cheered, jumping up and down. "Pinball bowling!"
 
-"Hey!" **Jenna** protested, crossing her arms. "I don't need bumpers. I'm fifteen."
+"Hey!" Jenna protested, crossing her arms. "I don't need bumpers. I'm fifteen."
 
-"You threw three gutter balls in a row last time," **Sarah** reminded her, adjusting her glasses. "The data supports the bumpers."
+"You threw three gutter balls in a row last time," Sarah reminded her, adjusting her glasses. "The data supports the bumpers."
 
-"Besides," **Aunt Linda** laughed, lacing up her shoes. "It makes the game faster. No one likes watching a ball roll into the sewer."
+"Besides," Aunt Linda laughed, lacing up her shoes. "It makes the game faster. No one likes watching a ball roll into the sewer."
 
-**Freddie** rolled his wheelchair up to the approach on Lane 2. He looked at the long wooden lane. With the bumpers up, it looked less like a challenge and more like a chute. A safe path.
+Freddie rolled his wheelchair up to the approach on Lane 2. He looked at the long wooden lane. With the bumpers up, it looked less like a challenge and more like a chute. A safe path.
 
 "I approve," Freddie stated, looking at the black rails. "It is a containment field. The error margin is reduced to zero."
 
 "Exactly," Jessica grinned. "You literally can't miss. Now, let’s get you set up."
 
-She dragged over the metal ramp—**The Launcher**.
+She dragged over the metal ramp—The Launcher.
 
-"Okay, Captain," **Paige** said, grabbing a six-pound orange ball. "You have the ramp. You have the bumpers. Do your worst."
+"Okay, Captain," Paige said, grabbing a six-pound orange ball. "You have the ramp. You have the bumpers. Do your worst."
 
 Freddie leaned forward. He studied the geometry.
 
@@ -18630,7 +18630,7 @@ CRASH.
 
 The pins toppled. Because the ball was moving slowly, they didn't explode; they fell over like dominos, knocking each other down in a lazy, satisfying cascade.
 
-**STRIKE.**
+STRIKE.
 
 The overhead monitor flashed a cheesy animation of a bowling pin dancing.
 
@@ -18640,17 +18640,17 @@ The overhead monitor flashed a cheesy animation of a bowling pin dancing.
 
 "Calculated trajectory," Freddie corrected. "The bumpers are part of the equation."
 
-**The younger sisters took the lane next.**
+The younger sisters took the lane next.
 
-**Amanda** and **Elara** (Lane 1) took full advantage of the rails. They didn't even try to aim. They just hurled the ball as hard as they could. Their balls bounced 4, 5, sometimes 6 times before hitting the pins.
+Amanda and Elara (Lane 1) took full advantage of the rails. They didn't even try to aim. They just hurled the ball as hard as they could. Their balls bounced 4, 5, sometimes 6 times before hitting the pins.
 
 PING-PONG-PING-PONG-CRASH.
 
 They giggled maniacally every time it hit a rail.
 
-Even **Harper** found her confidence. Usually, she was afraid of messing up. But with the rails up, she couldn't fail. She stepped up, closed her eyes, and bowled a spare.
+Even Harper found her confidence. Usually, she was afraid of messing up. But with the rails up, she couldn't fail. She stepped up, closed her eyes, and bowled a spare.
 
-**Paige** sat next to Freddie while Aunt Linda took her turn.
+Paige sat next to Freddie while Aunt Linda took her turn.
 
 "You like the bumpers?" Paige asked, handing him a soda.
 
@@ -19483,7 +19483,7 @@ He looked at the concrete pillar near the gate. The last time he had been in thi
 
 Today, he was the center of a phalanx. He wasn't running away. He was the Welcome Committee.
 
-A massive silver bus roared into the tunnel, its air brakes hissing with a violent *PSSSHHH* that echoed off the low ceiling. The destination sign scrolled in jagged yellow LEDs: **KNOXVILLE**.
+A massive silver bus roared into the tunnel, its air brakes hissing with a violent *PSSSHHH* that echoed off the low ceiling. The destination sign scrolled in jagged yellow LEDs: KNOXVILLE.
 
 "That's them," Jessica said, stepping forward but keeping one hand on Freddie's arm to maintain the chain. "Hold the line."
 
@@ -19555,11 +19555,11 @@ Jessica stood up after a long minute, wiping her eyes. "Okay. Logistics check. Y
 
 She pointed to the far end of the terminal, where a smaller, white-and-maroon bus was idling.
 
-"**Roanoke Valley Transit**," Jessica announced. "The **Roanoke Express**. It departs in ten minutes. It takes us straight to the Falling Branch Park & Ride."
+"Roanoke Valley Transit," Jessica announced. "The Roanoke Express. It departs in ten minutes. It takes us straight to the Falling Branch Park & Ride."
 
 "Then what?" Jenna asked, bouncing on her heels.
 
-"Then we transfer to **Blue Ridge Transit Route 1**," Freddie recited, the schedule appearing in his mind like a soothing green terminal screen. "It will deposit us at **Pepper Plaza**. The walk to the Base is three minutes."
+"Then we transfer to Blue Ridge Transit Route 1," Freddie recited, the schedule appearing in his mind like a soothing green terminal screen. "It will deposit us at Pepper Plaza. The walk to the Base is three minutes."
 
 "Three minutes to freedom," Paige smiled, grabbing Sarah's hand. "Come on. Let's get you guys home."
 
@@ -19569,7 +19569,7 @@ They moved as a unit toward the express bus—Jessica taking point, Paige and th
 
 #### The Bunker
 
-The short ride from **Pepper Plaza** to the driveway took less than two minutes, but for Sarah, it was a data-gathering mission. She scanned the neighborhood through the bus window, noting the distance between houses (low density), the condition of the sidewalks (acceptable), and the proximity to the transit hub (optimal).
+The short ride from Pepper Plaza to the driveway took less than two minutes, but for Sarah, it was a data-gathering mission. She scanned the neighborhood through the bus window, noting the distance between houses (low density), the condition of the sidewalks (acceptable), and the proximity to the transit hub (optimal).
 
 They crossed the street. Jessica unlocked the front door on Pepper Street and held it open.
 
@@ -19581,7 +19581,7 @@ Jenna didn't walk in; she spilled in. She dropped her messenger bag on the hardw
 
 "Lemon polish," Sarah corrected, stepping inside and closing the door firmly behind her. She checked the deadbolt. *Click.* "Perimeter secured."
 
-Sarah stood in the foyer, her eyes scanning the corners for dust bunnies or structural defects. She saw the **MagnaView** TV, the stacks of **Galaxy Wars** tapes, and the general orderliness of the main floor.
+Sarah stood in the foyer, her eyes scanning the corners for dust bunnies or structural defects. She saw the MagnaView TV, the stacks of Galaxy Wars tapes, and the general orderliness of the main floor.
 
 "It is... acceptable," Sarah decided, her shoulders relaxing slightly. "The clutter density is low."
 
@@ -19589,7 +19589,7 @@ Sarah stood in the foyer, her eyes scanning the corners for dust bunnies or stru
 
 "The boxes?" Jenna asked, her eyes lighting up.
 
-"In the Depot," Freddie said. He was sitting in *The Rover* in the center of the living room, pivoting effortlessly on the hardwood. "The detached garage structure to the right. **UDS Ground** delivered twelve units yesterday."
+"In the Depot," Freddie said. He was sitting in *The Rover* in the center of the living room, pivoting effortlessly on the hardwood. "The detached garage structure to the right. UDS Ground delivered twelve units yesterday."
 
 "United Delivery Systems," Sarah nodded approvingly. "They have a 98% on-time rating. Good choice."
 
@@ -19755,19 +19755,19 @@ She unbuttoned her pajama top and folded it neatly, placing it on the coffee tab
 
 The configuration began.
 
-**The Base:** Freddie climbed into the center of the double mattress. He lay on his back, the gravity of the group pulling everyone toward him.
+The Base: Freddie climbed into the center of the double mattress. He lay on his back, the gravity of the group pulling everyone toward him.
 
-**The Anchor:** Paige took her standard position on his left. She curled into his side, resting her head on his shoulder, her hand returning immediately to its post over his heart.
+The Anchor: Paige took her standard position on his left. She curled into his side, resting her head on his shoulder, her hand returning immediately to its post over his heart.
 
-**The Shield:** Jessica took the foot of the bed, leaning her back against Freddie’s legs, weighing him down, grounding his restless limbs.
+The Shield: Jessica took the foot of the bed, leaning her back against Freddie’s legs, weighing him down, grounding his restless limbs.
 
-**The Clamp:** Sarah wedged herself into Freddie’s right side. She didn't just drape her arm; she grabbed his forearm with both hands and squeezed. A firm, static, unmoving grip.
+The Clamp: Sarah wedged herself into Freddie’s right side. She didn't just drape her arm; she grabbed his forearm with both hands and squeezed. A firm, static, unmoving grip.
 
 "Secure," Sarah said.
 
 "Secure," Freddie confirmed, feeling the grounding weight of her grip.
 
-**The Roof:** Jenna scrambled up. She didn't take a side. She sprawled across the top, draping herself over Freddie’s chest and Sarah’s legs like a weighted blanket.
+The Roof: Jenna scrambled up. She didn't take a side. She sprawled across the top, draping herself over Freddie’s chest and Sarah’s legs like a weighted blanket.
 
 "I'm the noise dampener!" Jenna whispered.
 
@@ -19990,15 +19990,15 @@ They entered the Master Bedroom. The blackout curtains were sealed tight. The ro
 They climbed into the massive bed.
 
 
-- **Center:** Freddie. The Core.
+- Center: Freddie. The Core.
 
-- **Left Flank:** Paige (The Anchor). She curled into his side, leg over his, hand on his chest.
+- Left Flank: Paige (The Anchor). She curled into his side, leg over his, hand on his chest.
 
-- **Right Flank:** Jessica (The Shield). She pressed her back against his, locking him in.
+- Right Flank: Jessica (The Shield). She pressed her back against his, locking him in.
 
-- **Far Left:** Jenna (The Roof/Chaos). She sprawled next to Paige, stealing the pillow but draping an arm over the pile.
+- Far Left: Jenna (The Roof/Chaos). She sprawled next to Paige, stealing the pillow but draping an arm over the pile.
 
-- **Far Right:** Sarah (The Clamp). She took the edge, but she reached across Jessica to grip Freddie’s wrist. A static, verifying hold.
+- Far Right: Sarah (The Clamp). She took the edge, but she reached across Jessica to grip Freddie’s wrist. A static, verifying hold.
 
 It was tight. They were shoulder-to-shoulder, skin-to-skin.
 
@@ -20220,9 +20220,9 @@ They lay on the cold concrete floor of the unfinished basement, five naked adult
 
 The Ops Room (formerly the second bedroom) was operating at peak capacity.
 
-Jessica sat at her desk, her **MagnaByte** laptop open. Jenna and Sarah stood behind her, leaning in like co-pilots in a cockpit.
+Jessica sat at her desk, her MagnaByte laptop open. Jenna and Sarah stood behind her, leaning in like co-pilots in a cockpit.
 
-Freddie sat in **The Rover** near the door, watching the screen. Paige sat on the floor next to his wheel, her arm resting on his knee.
+Freddie sat in The Rover near the door, watching the screen. Paige sat on the floor next to his wheel, her arm resting on his knee.
 
 "Okay," Jessica said, cracking her knuckles. "Operation: Vertical Access. Let's find us an elevator."
 
@@ -20230,7 +20230,7 @@ She opened the search engine. She typed: elevator for house
 
 She hit Enter.
 
-The first result loaded. It was a website for **Royal Ascendancy Elevators**.
+The first result loaded. It was a website for Royal Ascendancy Elevators.
 
 The landing page featured a photo of a woman in a ballgown stepping out of a glass cylinder in the middle of a marble foyer. The elevator had gold trim. It had a chandelier inside it.
 
@@ -20238,9 +20238,9 @@ The landing page featured a photo of a woman in a ballgown stepping out of a gla
 
 "It is... ornate," Freddie noted. "Gold plating is unnecessary weight."
 
-Jessica clicked the **Pricing** tab.
+Jessica clicked the Pricing tab.
 
-**The Monarch Series:** Starting at \$55,000 (Installation not included). **Requirements:** 4-foot deep concrete pit. Dedicated machine room.
+The Monarch Series: Starting at \$55,000 (Installation not included). Requirements: 4-foot deep concrete pit. Dedicated machine room.
 
 "Fifty-five thousand dollars," Jessica read flatly. "And we have to dig a hole under the house."
 
@@ -20252,7 +20252,7 @@ She typed: wheelchair lift for stairs
 
 Two types of results appeared.
 
-**Option A: The Chair Lift** The first image showed an elderly woman smiling as she sat on a beige seat sliding up a rail.
+Option A: The Chair Lift The first image showed an elderly woman smiling as she sat on a beige seat sliding up a rail.
 
 "No," Freddie said instantly. He recoiled slightly in his chair. "Absolutely not."
 
@@ -20260,7 +20260,7 @@ Two types of results appeared.
 
 "It requires a transfer," Freddie explained, his voice tight. "I would have to get out of The Rover. I would have to sit in that... seat. I would have to ride down slowly, exposed. And then? I would need a *second* wheelchair waiting at the bottom. I do not leave the vehicle."
 
-**Option B: The Inclined Platform Lift** Jessica clicked the next link. "Okay, what about this?" Jessica asked. "It's called an Inclined Platform Lift. It’s a platform that rides the rails. You roll The Rover right onto it, and it carries you down the stairs."
+Option B: The Inclined Platform Lift Jessica clicked the next link. "Okay, what about this?" Jessica asked. "It's called an Inclined Platform Lift. It’s a platform that rides the rails. You roll The Rover right onto it, and it carries you down the stairs."
 
 Freddie leaned forward. "Better," he admitted. "No transfer. I stay in the chassis."
 
@@ -20280,9 +20280,9 @@ She typed: Thu-Floor Lift home
 
 The results populated with images of industrial equipment.
 
-**Option C: The Shaft Lift** The image showed a simple platform inside a Plexiglas box.
+Option C: The Shaft Lift The image showed a simple platform inside a Plexiglas box.
 
-**Indoor Installation:** Requires a hoistway (shaft) constructed of drywall or plexiglass to prevent shear hazards.
+Indoor Installation: Requires a hoistway (shaft) constructed of drywall or plexiglass to prevent shear hazards.
 
 "A shaft," Sarah noted. "If we put that in the living room, we have to build a closet around it. It blocks the sightlines. It eats up square footage."
 
@@ -20292,11 +20292,11 @@ The results populated with images of industrial equipment.
 
 Jessica clicked the link.
 
-**The Access-Pro TFL-3000 (Through-Floor Lift).** The image changed.
+The Access-Pro TFL-3000 (Through-Floor Lift). The image changed.
 
 It wasn't a box in a shaft. It was a sleek, open capsule that ran on two vertical rails bolted to the wall. But the genius was in the floor.
 
-The diagram showed the lift in the "Up" position. The car was in the living room. Then it showed the lift in the "Down" position. The car was in the basement. And the hole in the ceiling was sealed by a panel attached to the top of the lift. "Look at the mechanics," Jessica breathed, reading the specs. "**Self-Sealing Aperture.** When the lift goes down, the 'roof' of the car stays in the floor to plug the hole. When the lift goes up, a 'false floor' on the bottom of the car fills the hole so you can walk over it."
+The diagram showed the lift in the "Up" position. The car was in the living room. Then it showed the lift in the "Down" position. The car was in the basement. And the hole in the ceiling was sealed by a panel attached to the top of the lift. "Look at the mechanics," Jessica breathed, reading the specs. "Self-Sealing Aperture. When the lift goes down, the 'roof' of the car stays in the floor to plug the hole. When the lift goes up, a 'false floor' on the bottom of the car fills the hole so you can walk over it."
 
 "It plugs the breach," Freddie whispered, mesmerized. "It is a vanishing airlock."
 
@@ -20310,13 +20310,13 @@ He looked at the image of the tracks—two skeletal steel rails that looked like
 
 "Price?" Sarah asked, ever the pragmatic one.
 
-Jessica clicked **Get Quote**.
+Jessica clicked Get Quote.
 
-**Standard Model:** \$9,500. **Installation Kit:** Included.
+Standard Model: \$9,500. Installation Kit: Included.
 
 "It's at the top of the budget," Jessica said, biting her lip. "But we don't have to build a shaft. That saves us lumber and drywall costs. And it saves the stairs."
 
-Freddie looked at the screen. He looked at the term **Through-Floor Lift**.
+Freddie looked at the screen. He looked at the term Through-Floor Lift.
 
 It wasn't an "elevator" for a rich person. It wasn't a "stair lift" that blocked the hallway. It was a piece of specialized hardware designed to punch a hole in the universe and let him pass through.
 
@@ -20362,9 +20362,9 @@ She typed: biggest mattress size
 
 The search results populated.
 
-**Alaskan King:** 108" x 108". "Whoa," Jenna gasped. "Nine feet? That’s an arena!"
+Alaskan King: 108" x 108". "Whoa," Jenna gasped. "Nine feet? That’s an arena!"
 
-Jessica clicked the price tag. **\$7,500 (Mattress Only). Custom Freight Shipping Required.**
+Jessica clicked the price tag. \$7,500 (Mattress Only). Custom Freight Shipping Required.
 
 "Negative," Sarah said instantly. "That is the price of a used car. And we cannot get a nine-foot mattress down those narrow stairs. It physically won't fit through the door. It is a logistical impossibility."
 
@@ -20376,11 +20376,11 @@ She opened a new tab. combine mattresses to make bigger bed
 
 The results were full of "family bed" forums and DIY hacks.
 
-- **Option A:** Two Full Beds side-by-side. (54" + 54" = 108"). Same width as an Alaskan King.
+- Option A: Two Full Beds side-by-side. (54" + 54" = 108"). Same width as an Alaskan King.
 
-- **Option B:** King + Twin XL. (76" + 38" = 114").
+- Option B: King + Twin XL. (76" + 38" = 114").
 
-- **Option C:** Two Queen Beds. (60" + 60" = 120").
+- Option C: Two Queen Beds. (60" + 60" = 120").
 
 "Two Queens," Freddie calculated instantly. "Total width: 10 feet. Depth: 80 inches. That provides 24 inches of lateral space per person."
 
@@ -20388,7 +20388,7 @@ The results were full of "family bed" forums and DIY hacks.
 
 "But," Sarah interrupted, her brow furrowing as she visualized the schematic. "The seam. The crack between the mattresses. If you sleep in the middle—which is Freddie's position—you fall into the void. It collects debris. It pinches. It is unsanitary."
 
-"There is a patch for that," Jessica said, scrolling down. She pointed to a product image: a T-shaped piece of foam called a **Bed Bridge**.
+"There is a patch for that," Jessica said, scrolling down. She pointed to a product image: a T-shaped piece of foam called a Bed Bridge.
 
 "You put this wedge in the crack," Jessica explained. "Then you use this..." She pointed to a heavy-duty nylon strap system. "...a connector belt. It wraps around the perimeter of both mattresses and ratchets tight so they don't slide apart."
 
@@ -20396,7 +20396,7 @@ The results were full of "family bed" forums and DIY hacks.
 
 "Layering," Jessica said. "We put the bridge in. We strap the beds together. And then..."
 
-She clicked on a listing for a **Memory Foam Topper**.
+She clicked on a listing for a Memory Foam Topper.
 
 "We buy two massive Queen-sized memory foam toppers. We lay them over the mattresses *and* the bridge. It unifies the surface. You won't even feel the seam."
 
@@ -20514,7 +20514,7 @@ She looked at her siblings.
 
 The kitchen table was covered in blueprints.
 
-They weren't professional architectural drawings; they were CAD drawings Freddie had generated on his **Iron-Logic** laptop using the dimensions Jenna had gathered with a laser measure. The schematic clearly showed the "aperture"—the precise rectangular cutout required for the lift car to pass through the living room floor.
+They weren't professional architectural drawings; they were CAD drawings Freddie had generated on his Iron-Logic laptop using the dimensions Jenna had gathered with a laser measure. The schematic clearly showed the "aperture"—the precise rectangular cutout required for the lift car to pass through the living room floor.
 
 Jessica walked through the front door, slamming a thick folder onto the counter with a triumphant *thud*.
 
@@ -20528,7 +20528,7 @@ She leaned against the counter, looking pleased with herself.
 
 "Technically, the ADA doesn't apply to private residences," Jessica explained, tapping the permit. "Legally, they could have bogged us down in code reviews for weeks. But no town official wants to be the person who said 'no' to a disabled kid getting to his bedroom. I said 'accessibility,' and she stamped it so hard the desk shook."
 
-"Social engineering," Freddie noted from **The Rover**, inspecting the red stamp on the permit. "You leveraged the fear of litigation."
+"Social engineering," Freddie noted from The Rover, inspecting the red stamp on the permit. "You leveraged the fear of litigation."
 
 "I leveraged the culture of compliance," Jessica corrected. "The ADA is a powerful shield, even when it’s just a suggestion."
 
@@ -20538,11 +20538,11 @@ She leaned against the counter, looking pleased with herself.
 
 They looked at the schematic.
 
-**The Pittsburgh Toilet Upgrade:**
+The Pittsburgh Toilet Upgrade:
 
-- **Existing:** One exposed toilet on a concrete slab.
+- Existing: One exposed toilet on a concrete slab.
 
-- **New:** A framed enclosure (6' x 8'). A roll-in tiled shower with a trench drain. A wall-mounted sink (wheelchair height).
+- New: A framed enclosure (6' x 8'). A roll-in tiled shower with a trench drain. A wall-mounted sink (wheelchair height).
 
 "The walls are easy," Jenna said. "2x4s and green-board. But the door?"
 
@@ -20610,13 +20610,13 @@ Jenna poked her head up through it from the basement, grinning like a goblin.
 "Hello from the underworld!" she shouted. "The portal is open!"
 
 
-The **Access-Pro TFL-3000** arrived on a flatbed truck.
+The Access-Pro TFL-3000 arrived on a flatbed truck.
 
 It didn't look like an elevator. It looked like the spine of a robot.
 
 Two massive, skeletal steel tracks were bolted vertically to the basement floor and the living room wall, passing straight through the newly cut aperture. The lift car itself wasn't a box; it was a sleek, three-sided capsule that rode between the rails.
 
-"Through-Floor technology," Freddie noted, rolling **The Rover** closer to inspect the drive mechanism. "No hoistway. No pit. It utilizes the structure of the house itself."
+"Through-Floor technology," Freddie noted, rolling The Rover closer to inspect the drive mechanism. "No hoistway. No pit. It utilizes the structure of the house itself."
 
 "Look at the cap," Jessica pointed out.
 
@@ -20678,7 +20678,7 @@ Miller, the contractor who had cut the aperture for the lift last week, was back
 
 *REEEEE-GRIND.*
 
-Upstairs in the living room, Freddie sat in **The Rover**, his high-fidelity earplugs inserted deep. He could still feel the vibration in the wheels of his chair.
+Upstairs in the living room, Freddie sat in The Rover, his high-fidelity earplugs inserted deep. He could still feel the vibration in the wheels of his chair.
 
 "Structural modification," Freddie noted, feeling the floorboards buzz. "They are rewriting the foundation."
 
@@ -20688,7 +20688,7 @@ Downstairs, the grinding stopped abruptly. The dust hung in the air like fog.
 
 Miller stood up, wiping concrete dust from his safety goggles. He took a drink of water, and then his eyes drifted to the center of the room.
 
-The **Access-Pro TFL-3000** was parked in the "Down" position. The sleek steel rails shot up through the ceiling, vanishing into the living room. The "Plug" on the roof of the car was perfectly flush with the ceiling joists above.
+The Access-Pro TFL-3000 was parked in the "Down" position. The sleek steel rails shot up through the ceiling, vanishing into the living room. The "Plug" on the roof of the car was perfectly flush with the ceiling joists above.
 
 Miller walked over to it. He tapped the heavy steel track.
 
@@ -20873,13 +20873,13 @@ They laid out the pressure-treated 2x4s in a massive rectangle: 10 feet wide by 
 
 They worked as a crew.
 
-- **Jessica and Paige:** The muscle. They held the long boards in place.
+- Jessica and Paige: The muscle. They held the long boards in place.
 
-- **Sarah:** The architect. She measured the spacing and marked the drill points with a pencil.
+- Sarah: The architect. She measured the spacing and marked the drill points with a pencil.
 
-- **Jenna:** The mechanic. She drove the 3-inch screws with a satisfying ZZZT-THUNK.
+- Jenna: The mechanic. She drove the 3-inch screws with a satisfying ZZZT-THUNK.
 
-- **Freddie:** The supervisor. He rolled around the perimeter, checking the angles.
+- Freddie: The supervisor. He rolled around the perimeter, checking the angles.
 
 "Square the corners," Freddie instructed. "If the frame is rhomboid, the mattresses won't fit."
 
@@ -21057,7 +21057,7 @@ A beat-up maroon minivan pulled into the driveway behind the Avalon. The side do
 
 Out spilled the chaos.
 
-First came **Harper** (Age 14). She was wearing purple headphones around her neck and a t-shirt that said LOUD NOISES.
+First came Harper (Age 14). She was wearing purple headphones around her neck and a t-shirt that said LOUD NOISES.
 
 She hopped out of the van, but she didn't run to the porch. She turned back to the open door and grabbed the frame of a wheelchair—neon purple, lightweight, and folded.
 
@@ -21065,7 +21065,7 @@ She yanked it out, snapped it open with a practiced thwack, and sat down in it r
 
 "Deployed!" Harper shouted, spinning the chair in a tight circle. "Tires on the ground!"
 
-Then came the twins, **Amanda and Elara** (Age 12). They moved like a single organism. Elara was talking a mile a minute. Amanda, the silent twin, was making soft, happy humming noises—hmm-hmm-hmm—as she flapped her hands gently by her sides, looking at the trees.
+Then came the twins, Amanda and Elara (Age 12). They moved like a single organism. Elara was talking a mile a minute. Amanda, the silent twin, was making soft, happy humming noises—hmm-hmm-hmm—as she flapped her hands gently by her sides, looking at the trees.
 
 Finally, Aunt Linda stepped out of the driver's seat. She was wearing a floral muumuu and oversized sunglasses. She looked like a woman who had survived a war and decided to throw a party to celebrate.
 
@@ -21556,9 +21556,9 @@ He pulled up a notepad and began writing the fee structure.
 
 "Until school starts," Freddie explained, "you are a civilian passenger. You must pay cash."
 
-- **Leg 1 (Radford Transit):** You board the bus near your apartment. Cost: \$0.50. Exact change required. No transfers issued.
+- Leg 1 (Radford Transit): You board the bus near your apartment. Cost: \$0.50. Exact change required. No transfers issued.
 
-- **Leg 2 (Blue Ridge Transit Route 3):** You board at McConnell Transit Center. Cost: \$1.00. You must request a Transfer Slip upon boarding if you need to switch to another BRT bus, though for this route, it is a direct shot.
+- Leg 2 (Blue Ridge Transit Route 3): You board at McConnell Transit Center. Cost: \$1.00. You must request a Transfer Slip upon boarding if you need to switch to another BRT bus, though for this route, it is a direct shot.
 
 "Total cost, one way: \$1.50," Harper calculated. "Round trip: Three bucks."
 
@@ -22078,7 +22078,7 @@ Click.
 
 The screen flickered. The singing competition vanished. Instead, heavy metal music blasted from the speakers. Pyrotechnics exploded on the screen. The logo flashed in chrome letters:
 
-**AWE: TUESDAY NIGHT IGNITION**
+*AWE: TUESDAY NIGHT IGNITION*
 
 "Hey!" the girl screamed, jumping up. "We were watching that!"
 
@@ -22722,9 +22722,9 @@ Safe in the arms of the only male she trusted, surrounded by the sisters who bui
 
 #### The Thermal Hydro-Protocol
 
-The morning after **Harper**’s extraction from Fishersville, **Freddie** convened a tactical briefing at the kitchen island at `10:00` hours.
+The morning after Harper’s extraction from Fishersville, Freddie convened a tactical briefing at the kitchen island at 10:00 hours.
 
-Harper was still docked to his right arm, sitting on a barstool pulled flush against the frame of *The Rover*—his matte-black titanium `ApexLite` wheelchair—while **Paige** stood behind him with her hands resting on his shoulders. Across the counter, **Jessica**, **Sarah**, **Jenna**, and **Aunt Linda** (who had driven over from her apartment at **Highland Village** in **Radford** with the younger twins, **Amanda** and **Elara**) waited for the assessment.
+Harper was still docked to his right arm, sitting on a barstool pulled flush against the frame of *The Rover*—his matte-black titanium ApexLite wheelchair—while Paige stood behind him with her hands resting on his shoulders. Across the counter, Jessica, Sarah, Jenna, and Aunt Linda (who had driven over from her apartment at Highland Village in Radford with the younger twins, Amanda and Elara) waited for the assessment.
 
 "Observation," Freddie stated, adjusting his glasses. "Unit Harper’s sympathetic nervous system remains locked in a high-cortisol defensive posture following the Fishersville perimeter breach. Additionally, my right quadriceps and gastrocnemius are exhibiting a forty percent increase in baseline spasticity due to barometric cooling."
 
@@ -22734,35 +22734,35 @@ Harper was still docked to his right arm, sitting on a barstool pulled flush aga
 
 Jessica grinned, reaching into the key bowl by the microwave and holding up a ring of laminated barcode keytags alongside Aunt Linda’s matching set.
 
-"Then it's a good thing the entire Avery Unit has active monthly memberships at the **Blue Ridge Regional Aquatic Center**," Jessica announced.
+"Then it's a good thing the entire Avery Unit has active monthly memberships at the Blue Ridge Regional Aquatic Center," Jessica announced.
 
-Located off **Mill Lane NE** just east of **North Franklin Street** in Christiansburg—and served directly from **Pepper Plaza Transit Center** across the street by **Blue Ridge Transit Route 2 (*The Christiansburg Local*)**—the sixty-four-thousand-square-foot **Blue Ridge Regional Aquatic Center** had opened through a joint municipal-university covenant between the **Town of Christiansburg** and **Commonwealth Polytechnic Institute (CPI)**.
+Located off Mill Lane NE just east of North Franklin Street in Christiansburg—and served directly from Pepper Plaza Transit Center across the street by **Blue Ridge Transit Route 2 (*The Christiansburg Local*)—the sixty-four-thousand-square-foot Blue Ridge Regional Aquatic Center had opened through a joint municipal-university covenant between the Town of Christiansburg and Commonwealth Polytechnic Institute (CPI)**.
 
-Because Aunt Linda, Harper, Amanda, and Elara lived across the New River in **Radford** (and because Jessica, Paige, and Freddie had originally signed up during their campus orientation in **Blacksburg** before establishing the Base on Pepper Street), the family gladly paid the **Town of Christiansburg Non-Resident Monthly Membership** rate (`$30.00/month` for adults, `$25.00/month` for youth ages 3–17 on a rolling thirty-day pass). To Freddie, it was the single most mathematically efficient health expenditure in Montgomery County.
+Because Aunt Linda, Harper, Amanda, and Elara lived across the New River in Radford (and because Jessica, Paige, and Freddie had originally signed up during their campus orientation in Blacksburg before establishing the Base on Pepper Street), the family gladly paid the Town of Christiansburg Non-Resident Monthly Membership rate ($30.00/month for adults, $25.00/month for youth ages 3–17 on a rolling thirty-day pass). To Freddie, it was the single most mathematically efficient health expenditure in Montgomery County.
 
-"Wait," Harper blinked, looking from Freddie to Jessica. "The big pool where the **CPI Forgers** swim? Are there... teenage boys there?"
+"Wait," Harper blinked, looking from Freddie to Jessica. "The big pool where the CPI Forgers swim? Are there... teenage boys there?"
 
-"At `10:30 AM` on a weekday?" Sarah checked her watch with clinical precision. "High school units are incarcerated in third-period algebra, and CPI varsity swim practice does not commence in the fifty-meter competition pool until `15:00` hours. Furthermore, we are deploying to **The Cove**."
+"At 10:30 AM on a weekday?" Sarah checked her watch with clinical precision. "High school units are incarcerated in third-period algebra, and CPI varsity swim practice does not commence in the fifty-meter competition pool until 15:00 hours. Furthermore, we are deploying to The Cove."
 
 ***
 
-#### The Cove (`95.5°F`)
+#### The Cove (95.5°F)
 
-Thirty minutes later, after rolling *The Rover* and Harper’s neon-purple lightweight wheelchair through the automatic glass doors of the **Blue Ridge Regional Aquatic Center** and scanning their barcode passes at the front desk, the Avery Unit secured two adjacent **Private Accessible Family Changing Suites**.
+Thirty minutes later, after rolling *The Rover* and Harper’s neon-purple lightweight wheelchair through the automatic glass doors of the Blue Ridge Regional Aquatic Center and scanning their barcode passes at the front desk, the Avery Unit secured two adjacent Private Accessible Family Changing Suites.
 
 Unlike a public locker room—which Freddie categorized as an acoustic and hygienic nightmare—each locked family suite was a self-contained concrete-and-tile bunker equipped with a roll-in shower, stainless-steel grab bars, and a wide fold-down padded transfer bench.
 
-Once changed into their swimwear, Freddie and Harper rolled out onto the warm, humid deck toward **The Cove**—the facility’s dedicated **Warm Water Therapy Pool**.
+Once changed into their swimwear, Freddie and Harper rolled out onto the warm, humid deck toward The Cove—the facility’s dedicated Warm Water Therapy Pool.
 
-Maintained at a constant, spa-like **`95.5°F`** (`35.3°C`), **The Cove** featured a wide, non-slip **zero-depth entry ramp** that allowed a waterproof PVC facility transfer chair to roll straight into the water without requiring a mechanical crane lift.
+Maintained at a constant, spa-like 95.5°F (35.3°C), The Cove featured a wide, non-slip zero-depth entry ramp that allowed a waterproof PVC facility transfer chair to roll straight into the water without requiring a mechanical crane lift.
 
-With Paige and Jessica flanking him in **Formation Alpha**, Freddie eased into the `95.5°F` water first, followed two seconds later by Harper, who immediately re-established her physical link by looping her left arm through Freddie’s right elbow as they floated back against the underwater hydrotherapy jets.
+With Paige and Jessica flanking him in Formation Alpha, Freddie eased into the 95.5°F water first, followed two seconds later by Harper, who immediately re-established her physical link by looping her left arm through Freddie’s right elbow as they floated back against the underwater hydrotherapy jets.
 
 The effect was instantaneous.
 
-In `95.5°F` water, the relentless downward pull of gravity—the force that made Freddie’s right leg drag on stairs and forced Harper to brace against the world—was neutralized by Archimedes' principle.
+In 95.5°F water, the relentless downward pull of gravity—the force that made Freddie’s right leg drag on stairs and forced Harper to brace against the world—was neutralized by Archimedes' principle.
 
-Within ninety seconds, the tight, spastic knot in Freddie’s right calf uncurled completely, his legs floating weightless and loose in front of him while Paige rested her chin on his wet shoulder and massaged the base of his neck. Beside him, Harper let out a long, trembling sigh as the `95.5°F` water rose up to her chin like a liquid weighted blanket.
+Within ninety seconds, the tight, spastic knot in Freddie’s right calf uncurled completely, his legs floating weightless and loose in front of him while Paige rested her chin on his wet shoulder and massaged the base of his neck. Beside him, Harper let out a long, trembling sigh as the 95.5°F water rose up to her chin like a liquid weighted blanket.
 
 "Status, Harp?" Freddie asked quietly, keeping his right arm steady under her hand so she had a fixed anchor point in the water.
 
@@ -22772,17 +22772,17 @@ Harper closed her eyes, letting her head float back against the warm water while
 
 "Thermal conductivity of water is approximately twenty-five times greater than air," Freddie noted approvingly. "At ninety-five-point-five degrees Fahrenheit, the muscular system has no choice but to surrender tension."
 
-After forty minutes of thermal decompression in **The Cove**, Jenna and Jessica challenged Sarah and Paige to a 50-meter relay over in the **50-Meter Olympic Competition Pool** (*The Forger Natatorium*), while Freddie and Harper floated along the lane line using pull buoys—discovering that in deep water, two kids who used wheelchairs on land could glide fifty meters end-to-end without a single stumble.
+After forty minutes of thermal decompression in The Cove, Jenna and Jessica challenged Sarah and Paige to a 50-meter relay over in the 50-Meter Olympic Competition Pool (*The Forger Natatorium*), while Freddie and Harper floated along the lane line using pull buoys—discovering that in deep water, two kids who used wheelchairs on land could glide fifty meters end-to-end without a single stumble.
 
 ***
 
 #### The Huckleberry Trail Perimeter Roll
 
-At `12:45` hours, showered, dried off, and bundled in warm hoodies with their wet towels packed into the trunk of Aunt Linda’s minivan and Jessica’s silver **Horizon Avalon**, the family didn't drive straight back to the Base.
+At 12:45 hours, showered, dried off, and bundled in warm hoodies with their wet towels packed into the trunk of Aunt Linda’s minivan and Jessica’s silver Horizon Avalon, the family didn't drive straight back to the Base.
 
-Instead, they parked at the nearby trailhead of the **Huckleberry Trail**—the six-mile paved, car-free multi-use rail-trail linking **Christiansburg** to the **Pendleton Library** lawn on the **CPI** campus in **Blacksburg**.
+Instead, they parked at the nearby trailhead of the Huckleberry Trail—the six-mile paved, car-free multi-use rail-trail linking Christiansburg to the Pendleton Library lawn on the CPI campus in Blacksburg.
 
-For Freddie and Harper, the **Huckleberry Trail** was the ultimate exterior mobility corridor. Built on the flat, gentle grade of the historic **Huckleberry Train** railbed between split-rail pasture fences and a canopy of autumn trees, the ten-foot-wide black asphalt path had zero street crossings, zero gravel traps, and zero loud traffic.
+For Freddie and Harper, the Huckleberry Trail was the ultimate exterior mobility corridor. Built on the flat, gentle grade of the historic Huckleberry Train railbed between split-rail pasture fences and a canopy of autumn trees, the ten-foot-wide black asphalt path had zero street crossings, zero gravel traps, and zero loud traffic.
 
 Rolling side by side down the center of the paved path—Freddie’s matte-black titanium *Rover* on the left and Harper’s neon-purple wheelchair on the right, with Paige, Jessica, Sarah, Jenna, Aunt Linda, Amanda, and Elara walking in a protective phalanx around them—Harper took both hands off her purple wheel rims on a gentle downgrade, spread her arms wide in the crisp mountain air, and laughed out loud for the first time since Fishersville.
 

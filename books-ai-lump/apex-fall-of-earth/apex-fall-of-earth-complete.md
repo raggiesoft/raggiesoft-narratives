@@ -494,17 +494,17 @@ Sarah felt a cold knot form in her stomach. Everything the recruiter had promise
 
 Sarah looked down at the heavy, cracked screen of the datapad. Blocky green text illuminated the display:
 
-- **NAME:** HAYES, S.
+- NAME: HAYES, S.
 
-- **CLEARANCE:** C0-BASIC
+- CLEARANCE: C0-BASIC
 
-- **STATUS:** ACQUISITION TRANSFER
+- STATUS: ACQUISITION TRANSFER
 
-- **ASSIGNMENT:** S.H.O.P. BARRACKS 4
+- ASSIGNMENT: S.H.O.P. BARRACKS 4
 
-- **BUNK:** 42-C
+- BUNK: 42-C
 
-- **ROTATION:** SHIFT 2
+- ROTATION: SHIFT 2
 
 Sarah frowned, her heart fluttering with a sudden, panicked confusion. Before they had landed, the Desert Star flight attendant had quietly mentioned that all incoming Helios transfers were slated for Shift 3, the overnight rotation.
 
@@ -938,11 +938,11 @@ Sarah pulled out her battered Apex datapad, her brow furrowing as she scrolled t
 
 Wyatt leaned in. The blocky green text was explicitly clear:
 
-- **Shift 1:** Vargas, M.
+- Shift 1: Vargas, M.
 
-- **Shift 2:** Colton, W.
+- Shift 2: Colton, W.
 
-- **Shift 3:** Hayes, S.
+- Shift 3: Hayes, S.
 
 The realization hit both of them at the exact same time. The double-booking on their mattress wasn't intentional corporate policy; it was a massive clerical error. The HR algorithm had completely broken during the acquisition, assigning Sarah to walk Shift 2 alongside Wyatt, while keeping her scheduled for the Shift 3 mattress slot. That was why the bed was empty right now. Sarah was supposed to be the one sleeping in it while he walked the perimeter.
 
@@ -2260,11 +2260,11 @@ The Mess Hall erupted into a chaotic scramble as hundreds of panicked contractor
 
 Wyatt pressed his Apex datapad against the scanner. It chimed, and his new orders flooded the screen.
 
-- **DESTINATION:** Apex Frontier Outpost Delta-Niner.
+- DESTINATION: Apex Frontier Outpost Delta-Niner.
 
-- **LOCATION:** Outer Sol System, Deep Space Observation.
+- LOCATION: Outer Sol System, Deep Space Observation.
 
-- **PERSONNEL REQUIREMENT:** 2.
+- PERSONNEL REQUIREMENT: 2.
 
 Sarah reached around him, pressing her own datapad to the glass. The exact same destination flashed on her screen in blocky green text.
 
@@ -2430,17 +2430,17 @@ Suddenly, the heavy tape reels in the server bank behind the console began to sp
 
 Lines of blocky, green text began to cascade down the monitor.
 
-**ENCRYPTED OVERRIDE: EXECUTIVE LEVEL ZERO.** **TO: CONTRACTOR COLTON, W. / CONTRACTOR HAYES, S.** **IF YOU ARE READING THIS, THE NTTR CONTAINMENT HAS FAILED.**
+*ENCRYPTED OVERRIDE: EXECUTIVE LEVEL ZERO.* *TO: CONTRACTOR COLTON, W. / CONTRACTOR HAYES, S.* *IF YOU ARE READING THIS, THE NTTR CONTAINMENT HAS FAILED.*
 
 Wyatt’s blood ran cold. He leaned closer to the curved glass, his eyes scanning the amber text.
 
-**THE AUTOMATED HR ALGORITHM DID NOT DEPLOY YOU TO THIS OUTPOST. I DID. THE CAMERA IN FILTRATION BREAK-ROOM 4-C WAS NEVER BROKEN. IT WAS AN ISOLATED ANALOG FEED. I WATCHED YOU.** **IN A FACILITY BUILT TO STRIP AWAY EVERY OUNCE OF HUMANITY, YOU TWO FOUND A WAY TO HOLD ONTO IT. I COULD NOT LET THAT BURN WITH THE REST OF THEM. I DELETED YOUR BUNK ASSIGNMENTS TO KEEP YOU OFF THE PRIMARY GRID. I FORCED THE SYSTEM TO ROUTE YOU HERE.**
+*THE AUTOMATED HR ALGORITHM DID NOT DEPLOY YOU TO THIS OUTPOST. I DID. THE CAMERA IN FILTRATION BREAK-ROOM 4-C WAS NEVER BROKEN. IT WAS AN ISOLATED ANALOG FEED. I WATCHED YOU.* *IN A FACILITY BUILT TO STRIP AWAY EVERY OUNCE OF HUMANITY, YOU TWO FOUND A WAY TO HOLD ONTO IT. I COULD NOT LET THAT BURN WITH THE REST OF THEM. I DELETED YOUR BUNK ASSIGNMENTS TO KEEP YOU OFF THE PRIMARY GRID. I FORCED THE SYSTEM TO ROUTE YOU HERE.*
 
 Wyatt stared at the screen, the breath catching in his throat. It hadn't been luck. It hadn't been a glitch. As the executive hierarchy of Apex panicked and abandoned the facility, some high-level architect—someone who had the keys to the entire kingdom—had sat in a locked room, watched them fall in love, and decided that their survival was the only thing worth saving.
 
 The final block of text typed out slowly, the amber glow reflecting in Wyatt's eyes.
 
-**OUTPOST DELTA-NINER IS ENTIRELY OFF THE NETWORK. NO CAMERAS. NO OVERSEERS. THE MASTER ACCESS CODES ARE ATTACHED TO THIS FILE. THE STATION IS YOURS.** **SURVIVE. AND TAKE CARE OF EACH OTHER.** **- THE ARCHITECT.**
+*OUTPOST DELTA-NINER IS ENTIRELY OFF THE NETWORK. NO CAMERAS. NO OVERSEERS. THE MASTER ACCESS CODES ARE ATTACHED TO THIS FILE. THE STATION IS YOURS.* *SURVIVE. AND TAKE CARE OF EACH OTHER.* *- THE ARCHITECT.*
 
 The screen flashed once, locking the master codes into the terminal's physical memory banks, and then returned to a standard, blinking command prompt.
 
@@ -3368,17 +3368,17 @@ Then, the heavy dot-matrix printer beside the console violently jerked to life.
 
 Wyatt’s blood ran completely cold. He ripped the perforated paper from the feed slot the second the print head stopped moving. The text wasn't a warning to civilians. It was raw, unencrypted metadata from an approaching Apex Defense Solutions targeting computer.
 
-- **INTERCEPT PROTOCOL: INITIATED**
+- *INTERCEPT PROTOCOL: INITIATED*
 
-- **TARGET:** OUTPOST DELTA 9 (LEGACY ASSET 44-A)
+- TARGET: OUTPOST DELTA 9 (LEGACY ASSET 44-A)
 
-- **TELEMETRY DIAGNOSTIC:** O2 SCRUBBERS ACTIVE. THERMAL OUTPUT 72°F.
+- TELEMETRY DIAGNOSTIC: O2 SCRUBBERS ACTIVE. THERMAL OUTPUT 72°F.
 
-- **BIO-SIGNATURES DETECTED:** 2 (UNAUTHORIZED)
+- BIO-SIGNATURES DETECTED: 2 (UNAUTHORIZED)
 
-- **ASSET DEPLOYED:** CLASS-A TACTICAL DROPSHIP (CLEANER SQUADRON)
+- ASSET DEPLOYED: CLASS-A TACTICAL DROPSHIP (CLEANER SQUADRON)
 
-- **OBJECTIVE:** PURGE AND SECURE. NO QUARTER. **ETA:** 04 HOURS, 12 MINUTES.
+- OBJECTIVE: PURGE AND SECURE. NO QUARTER. ETA: 04 HOURS, 12 MINUTES.
 
 "Sarah!" Wyatt roared, his voice tearing through the quiet corridors of the station.
 
@@ -3704,11 +3704,11 @@ Sarah actually gasped, her hand instinctively finding Wyatt's.
 
 It was a technological marvel hidden inside a rusted shell. Directly in the center of the room sat a massive, polished ring of exotic dark metal, suspended inside a heavy magnetic containment field. It wasn't connected to the crude nuclear thrusters.
 
-"My god," Wyatt breathed, his mechanic's brain trying to process the sheer physics of what he was looking at. He walked slowly toward the ring, his bare feet entirely silent on the polished polymer floor. "Sarah... that's a localized spacetime folding engine. An **FTL Drive**. He didn't just want to hide. He wanted the ability to jump to entirely different star systems in the blink of an eye."
+"My god," Wyatt breathed, his mechanic's brain trying to process the sheer physics of what he was looking at. He walked slowly toward the ring, his bare feet entirely silent on the polished polymer floor. "Sarah... that's a localized spacetime folding engine. An FTL Drive. He didn't just want to hide. He wanted the ability to jump to entirely different star systems in the blink of an eye."
 
 Sarah looked from the massive drive ring to the heavy, illuminated consoles lining the walls. "Wyatt, look at this."
 
-She was standing in front of a tactical suite. The screens were dark, but the analog labels etched into the brushed aluminum were perfectly clear. **POINT-DEFENSE KINETIC RAILGUNS**. And right next to them: **ELECTROMAGNETIC DEFLECTOR SHIELDING**.
+She was standing in front of a tactical suite. The screens were dark, but the analog labels etched into the brushed aluminum were perfectly clear. *POINT-DEFENSE KINETIC RAILGUNS*. And right next to them: *ELECTROMAGNETIC DEFLECTOR SHIELDING*.
 
 Wyatt walked over, staring at the shield diagnostics. He let out a breathless, disbelieving laugh. "We ran from that dropship," he muttered, shaking his head. "Sarah, this deflector grid draws straight from the FTL containment field. If we had thrown this switch, that Apex dropship would have shattered its hull trying to breach our airspace. We’re not in a lifeboat. We’re in a dreadnought."
 
@@ -3770,7 +3770,7 @@ In the corner of the room, a standalone server tower—slightly taller and wider
 
 Suddenly, a clean, highly structured interface booted up on the secondary monitor of Wyatt's workstation. Text began to generate across the screen in real-time, completely unprompted.
 
-**\[SYSTEM WAKE\]** **Local Network Acknowledged. Biometrics: Unrecognized. Threat Level: Zero.** **Good afternoon. I am the localized Generative Assistant. How can I help you today?**
+*\[SYSTEM WAKE\]* Local Network Acknowledged. Biometrics: Unrecognized. Threat Level: Zero. Good afternoon. I am the localized Generative Assistant. How can I help you today?
 
 Sarah leaned closer, her jaw dropping slightly. "Wyatt... is that an AI?"
 
@@ -4294,7 +4294,7 @@ Sarah stepped up beside him, her hands trembling as she braced herself against t
 
 The first page was dated just two days after they had entered the slipstream.
 
-**EBS TRANSCRIPT: INTERCEPT DELTA NINER (BROADCAST 006)** **DATE RECEIVED (DELAYED):** Thursday, October 27, 2044 **SOURCE:** United States Northern Command / FEMA **TARGETING:** Eastern Seaboard / Mid-Atlantic Region **THREAT LEVEL:** Extinction Level Event (East Coast Breach / VEI-8 Eruption) **FORMAT:** Synthesized Text-to-Speech
+*EBS TRANSCRIPT: INTERCEPT DELTA NINER (BROADCAST 006)* DATE RECEIVED (DELAYED): Thursday, October 27, 2044 SOURCE: United States Northern Command / FEMA TARGETING: Eastern Seaboard / Mid-Atlantic Region THREAT LEVEL: Extinction Level Event (East Coast Breach / VEI-8 Eruption) FORMAT: Synthesized Text-to-Speech
 
 \<EAS DUAL-TONE ACTIVATION BEEP\>
 
@@ -4316,7 +4316,7 @@ Sarah let out a sharp, ragged breath, her hand covering her mouth. "It crossed t
 
 But the printer wasn't done. It kept churning, feeding another massive block of text into Wyatt's hands. The timestamp on this one was from just twenty-four hours ago.
 
-**GLOBAL BROADCAST: INTERCEPT DELTA NINER (BROADCAST 007)** **DATE RECEIVED (DELAYED):** Monday, October 31, 2044 **SOURCE:** United Nations Security Council / Global Defense Coalition **TARGETING:** All Surviving Global Frequencies **THREAT LEVEL:** Planetary Collapse (Global Evacuation Initiated) **FORMAT:** Unencrypted Human Voice Transmission (Multiple Languages)
+*GLOBAL BROADCAST: INTERCEPT DELTA NINER (BROADCAST 007)* DATE RECEIVED (DELAYED): Monday, October 31, 2044 SOURCE: United Nations Security Council / Global Defense Coalition TARGETING: All Surviving Global Frequencies THREAT LEVEL: Planetary Collapse (Global Evacuation Initiated) FORMAT: Unencrypted Human Voice Transmission (Multiple Languages)
 
 "This is a general broadcast on behalf of the surviving members of the United Nations Security Council and the Global Defense Coalition.
 
@@ -4652,7 +4652,7 @@ As if cued by her name, the PDA on Wyatt's belt chimed.
 
 "Go ahead, Aria," Sarah said, looking down at the PDA clipped to Wyatt's belt.
 
-*"While the duration of the year and the 24-hour rotational cycle are nearly identical to Earth-standard, our current chronological date of November 1st does not align with the local seasonal tilt or the solar apex,"* Aria explained, her processing logic perfectly sound. *"Based on ambient telemetry from the hull sensors, the current surface temperature in this valley is a stable **23.8°C**, and the local flora is in a state of mid-spring bloom. To optimize your agricultural cycles and align your circadian rhythms with the local sunrise, I recommend calibrating the ship's calendar to match the local environment."*
+*"While the duration of the year and the 24-hour rotational cycle are nearly identical to Earth-standard, our current chronological date of November 1st does not align with the local seasonal tilt or the solar apex,"* Aria explained, her processing logic perfectly sound. *"Based on ambient telemetry from the hull sensors, the current surface temperature in this valley is a stable 23.8°C, and the local flora is in a state of mid-spring bloom. To optimize your agricultural cycles and align your circadian rhythms with the local sunrise, I recommend calibrating the ship's calendar to match the local environment."*
 
 Wyatt raised an eyebrow. "You want to fast-forward the clocks."
 
@@ -4678,17 +4678,17 @@ Wyatt and Sarah looked down at the battered, heavy-duty screen of the Level 1 PD
 
 The screen blinked, solidifying into a brand new reality:
 
-- **DATE: May 7, 2045**
+- DATE: May 7, 2045
 
-- **LOCAL TIME: 14:42**
+- *LOCAL TIME: 14:42*
 
-- **TEMP: 23.8°C**
+- *TEMP: 23.8°C*
 
 "May 7th," Sarah smiled, looking around at the lush, vibrant green canopy of the forest and the crystal-clear water rushing over her feet. It finally felt right. "It really is a beautiful spring day."
 
 "It's perfect," Wyatt agreed.
 
-They stood there in the gentle current, the warm **23.8°C** breeze rustling through the trees. They had completely detached themselves from the apocalyptic timeline of their past. They were no longer refugees running from the end of the world in the bitter cold of November.
+They stood there in the gentle current, the warm 23.8°C breeze rustling through the trees. They had completely detached themselves from the apocalyptic timeline of their past. They were no longer refugees running from the end of the world in the bitter cold of November.
 
 They were the very first pioneers of a brand new world, stepping into the warm afternoon sun of a brand new year.
 
@@ -4724,7 +4724,7 @@ Sarah smiled, grabbing a bundle of neon-orange nylon string and a handful of thi
 
 They walked back down the ramp, their arms loaded with surveying gear, and headed back to the elevated ridge overlooking the river valley.
 
-The afternoon sun was warm against their shoulders, sitting at a perfect **23.8°C**. The soft, vibrant moss and alien grass felt incredible beneath their bare feet as they waded into the center of the clearing.
+The afternoon sun was warm against their shoulders, sitting at a perfect 23.8°C. The soft, vibrant moss and alien grass felt incredible beneath their bare feet as they waded into the center of the clearing.
 
 "Okay," Wyatt said, setting the laser level down on a flat piece of exposed bedrock. "Where is the front door?"
 
@@ -5182,7 +5182,7 @@ There were no automated cameras in the corners of the ceiling. There were no S.H
 
 Without a word, Sarah reached down and pulled her heather-gray t-shirt over her head, dropping it onto the grass outside the bag. She unbuttoned her denim jeans, stepping out of them and leaving them in a pile.
 
-The night air was a perfect, comfortable **23.8°C**. The warm, humid breeze drifted across her bare skin, completely unobstructed. It was the most liberating, intensely vulnerable sensation she had ever felt.
+The night air was a perfect, comfortable 23.8°C. The warm, humid breeze drifted across her bare skin, completely unobstructed. It was the most liberating, intensely vulnerable sensation she had ever felt.
 
 Wyatt's eyes darkened with absolute adoration. He shed his black t-shirt and canvas pants, dropping them next to hers.
 
@@ -5250,7 +5250,7 @@ They spent the next half hour just playing in the current, washing the dirt from
 
 Eventually, their stomachs began to rumble, reminding them that they still possessed very human metabolisms.
 
-They waded out of the river, letting the warm **23.8°C** ambient air dry their bare skin as they walked back up the slope to their makeshift campsite. Wyatt bent down, rolling the heavy sleeping bag tightly together and tucking the foam pillow under his arm, while Sarah gathered up their dirty clothes from yesterday.
+They waded out of the river, letting the warm 23.8°C ambient air dry their bare skin as they walked back up the slope to their makeshift campsite. Wyatt bent down, rolling the heavy sleeping bag tightly together and tucking the foam pillow under his arm, while Sarah gathered up their dirty clothes from yesterday.
 
 They walked barefoot up the grooved metal ramp and back into the quiet, climate-controlled cargo bay of *The Nomad*.
 
@@ -5490,7 +5490,7 @@ Kael looked back at the vast, empty projection of the galaxy. He didn't need to 
 
 The crystal-clear water of the river had washed away the heavy, dark soil of their new garden, leaving Wyatt and Sarah refreshed, clean, and completely energized.
 
-They walked back up the gentle, sunlit slope hand-in-hand, their bare feet moving easily over the soft alien grass. They had left their dirty clothes in the cargo bay, opting to simply let the warm **23.8°C** breeze dry their bare skin as they headed back to *The Nomad*.
+They walked back up the gentle, sunlit slope hand-in-hand, their bare feet moving easily over the soft alien grass. They had left their dirty clothes in the cargo bay, opting to simply let the warm 23.8°C breeze dry their bare skin as they headed back to *The Nomad*.
 
 The morning had been perfect. But as they walked up the heavy steel ramp and stepped into the cool, shadowed interior of the ship's hub, the ambient lighting in the corridor shifted to a pulsing, urgent yellow.
 
@@ -5562,7 +5562,7 @@ If they couldn't block it, they would just have to listen to it. But now, the co
 
 #### The Eden Rule
 
-They left the tech room and the looping, desperate threats of High Director Kael behind them. Stepping back out into the warm, **23.8°C** afternoon air, the contrast between the cold corporate machinery of their past and the vibrant, breathing reality of their present couldn't have been sharper.
+They left the tech room and the looping, desperate threats of High Director Kael behind them. Stepping back out into the warm, 23.8°C afternoon air, the contrast between the cold corporate machinery of their past and the vibrant, breathing reality of their present couldn't have been sharper.
 
 Wyatt and Sarah walked down the grooved metal ramp, completely bare to the warm sun.
 
@@ -5598,7 +5598,7 @@ They had shed their uniforms, their corporate IDs, and their traumatic pasts. Th
 
 "Well," Wyatt sighed happily, reaching out to pull her muddy, bare body against his own. "The seeds are in the ground, and the soil is watered. What's next on the pioneer agenda for this afternoon?"
 
-**Part 8: The Colton Family – Thursday, May 9, 2045 – 13:30**
+Part 8: The Colton Family – Thursday, May 9, 2045 – 13:30
 
 The physical labor of the morning had completely drained them, but it was a deeply satisfying exhaustion. With the Eden Rule in full effect, Wyatt and Sarah didn't bother digging through the billionaire's pristine wardrobe lockers. They simply washed their hands at the galley sink and raided the pantry exactly as they were.
 
@@ -6060,7 +6060,7 @@ Wyatt looked out over the sea of glowing cryogenic pillars. The incredible weigh
 
 The pneumatic elevator carried them swiftly up from the icy depths of the Genesis Vault, leaving the sleeping future of humanity safely secured in the bedrock.
 
-When the brushed-steel doors parted to reveal the main living quarters, the stark temperature difference was instantly noticeable. While the vault had been a sterile, shivering deep-freeze, the sprawling luxury estate was actively maintained at a perfectly pleasant, ambient **21.6°C**.
+When the brushed-steel doors parted to reveal the main living quarters, the stark temperature difference was instantly noticeable. While the vault had been a sterile, shivering deep-freeze, the sprawling luxury estate was actively maintained at a perfectly pleasant, ambient 21.6°C.
 
 Wyatt let out a contented sigh as the warm air hit his skin. "I could get used to this."
 
@@ -6110,7 +6110,7 @@ Sarah smiled, leaning over to rest her head against his shoulder as they ate. "I
 
 The last bite of truffle pasta vanished, and Wyatt set their empty ceramic plates into the massive, automated sanitization basin built into the marble island.
 
-The cooking was done, the threat of spitting hot oil was gone, and the heavy, humid air of the valley was a distant memory. Inside the mountain, the estate's climate control maintained a flawless, incredibly comfortable **21.6°C**.
+The cooking was done, the threat of spitting hot oil was gone, and the heavy, humid air of the valley was a distant memory. Inside the mountain, the estate's climate control maintained a flawless, incredibly comfortable 21.6°C.
 
 Sarah looked down at her t-shirt, her denim shorts, and then over at Wyatt. The unspoken rule of their new life immediately took effect.
 
@@ -6176,7 +6176,7 @@ Outside, the super-cell storm had settled into a torrential, relentless downpour
 
 Through the one-way glass, they could watch the heavy sheets of water washing over the dark, flooding valley miles below them. The rhythmic, continuous drumming of the rain against the invisible exterior of the mountain was incredibly hypnotic.
 
-Sitting bare in the **21.6°C** air and the heated saltwater, they were completely, miraculously untouchable.
+Sitting bare in the 21.6°C air and the heated saltwater, they were completely, miraculously untouchable.
 
 "I've never done this before," Sarah murmured, her chin resting on her folded arms as she watched the heavy rain blur the tree line.
 
@@ -6214,7 +6214,7 @@ Sarah was laughing so hard she could barely stay afloat. As Wyatt surfaced, wipi
 
 For the next half hour, the two hardened survivors—who just yesterday were running for their lives from the galaxy's most lethal megacorporation—acted like completely carefree kids. They took turns rocketing down the slide, splashing each other, and diving through the buoyant saltwater, the sheer joy of their absolute freedom echoing brightly off the cavern walls.
 
-**Part 10: The Coltons – Thursday, May 9, 2045 – 20:30**
+Part 10: The Coltons – Thursday, May 9, 2045 – 20:30
 
 The sheer, exhausting joy of the indoor waterslide eventually caught up with them. Wyatt and Sarah waded to the shallow steps of the pool, their muscles pleasantly tired and their spirits higher than they had been in their entire lives.
 
@@ -6222,7 +6222,7 @@ They climbed out of the warm saltwater, stepping onto the heated, slip-resistant
 
 They dried off, savoring the soft fabric against their skin. When they were finished, Wyatt spotted a sleek, brushed-steel panel set into the cavern wall—identical to the one in the kitchen. The billionaire had thoughtfully installed pneumatic laundry access points all over the estate. Wyatt opened the chute, and they tossed their damp towels inside, listening to the soft *whoosh* as the automated system whisked them away to be sanitized.
 
-Completely bare and completely comfortable in the estate's flawless **21.6°C** climate, they left the aquatic center and walked hand-in-hand down the wide, softly illuminated hallway toward the master suite.
+Completely bare and completely comfortable in the estate's flawless 21.6°C climate, they left the aquatic center and walked hand-in-hand down the wide, softly illuminated hallway toward the master suite.
 
 When the heavy timber doors parted, Sarah actually stopped in her tracks.
 
@@ -6292,7 +6292,7 @@ Sarah’s grip tightened around Wyatt’s waist. Twenty-one meters. If they had 
 
 "Good thing we moved into the penthouse," Wyatt murmured, leaning his head back against hers.
 
-Leaving the window and the flooded world behind, they walked entirely nude out of the master suite and down the wide, climate-controlled hallway toward the kitchen. The estate's perfect **21.6°C** ambient temperature made the Eden Rule incredibly easy to maintain.
+Leaving the window and the flooded world behind, they walked entirely nude out of the master suite and down the wide, climate-controlled hallway toward the kitchen. The estate's perfect 21.6°C ambient temperature made the Eden Rule incredibly easy to maintain.
 
 Since they weren't turning on the massive induction stove or dealing with spitting grease, there was no need to get dressed. Sarah raided the billionaire's stasis pantry, emerging with a box of honey-toasted oat cereal and a perfectly chilled jug of real, preserved whole milk. They sat side-by-side at the massive marble island, enjoying the simple, sweet crunch of the cereal and the profound peace of their sanctuary.
 
@@ -6418,7 +6418,7 @@ Wyatt stretched his heavy arms above his head, the joints in his shoulders poppi
 
 Sarah laughed, a bright, completely relaxed sound that echoed warmly in the room. "I was just thinking the exact same thing. But honestly? I'm almost too curious to go to the kitchen right now."
 
-She stood up from the sofa, entirely bare and entirely comfortable in the estate's flawless **21.6°C** ambient air. She walked over to the massive hydro-glass window. Outside, the torrential downpour of the super-cell storm was still violently lashing the invisible face of the mountain, drowning the valley twenty-one meters below them.
+She stood up from the sofa, entirely bare and entirely comfortable in the estate's flawless 21.6°C ambient air. She walked over to the massive hydro-glass window. Outside, the torrential downpour of the super-cell storm was still violently lashing the invisible face of the mountain, drowning the valley twenty-one meters below them.
 
 "We've seen the master suite, the kitchen, the indoor pool, and the Genesis Vault," Sarah mused, tracing a finger lightly against the cool glass. She looked up toward the ceiling array. "Aria, this mountain is massive. The original architect planned to host twenty people for multiple generations. What else did he build in here to keep them from going crazy?"
 
@@ -6616,7 +6616,7 @@ Sarah looked down at her denim shorts and heather-gray t-shirt, and then over at
 
 "Cooking is done," Sarah declared, grabbing the hem of her shirt and pulling it over her head. She unbuttoned her shorts and stepped out of them, tossing the clothes over the back of a nearby dining chair.
 
-Wyatt chuckled, stripping off his own black t-shirt and canvas shorts, leaving them right next to hers. The heavy, insulated clothing of their corporate past had been a vital necessity, but inside the flawless **21.6°C** climate control of the mountain estate, wearing clothes just to sit on a sofa felt completely absurd.
+Wyatt chuckled, stripping off his own black t-shirt and canvas shorts, leaving them right next to hers. The heavy, insulated clothing of their corporate past had been a vital necessity, but inside the flawless 21.6°C climate control of the mountain estate, wearing clothes just to sit on a sofa felt completely absurd.
 
 Entirely bare once again, they walked hand-in-hand back down the polished stone corridor, the gentle, echoing sound of the indoor waterfall fading behind them as they returned to the sunken, mahogany-paneled library.
 
@@ -6686,7 +6686,7 @@ echo "\</table\>";
 
 The glowing blue ring on the holographic table pulsed.
 
-Instantly, the raw code vanished, replaced by a sleek, bright holographic window simulating a standard web browser. At the top of the window, in clean, bold text, read the header: **Genesis Vault: Viable Isolated Bloodlines**.
+Instantly, the raw code vanished, replaced by a sleek, bright holographic window simulating a standard web browser. At the top of the window, in clean, bold text, read the header: Genesis Vault: Viable Isolated Bloodlines.
 
 Below it was a perfectly formatted, easy-to-read table displaying the IDs and genders of the sleeping embryos, pulling the live data directly from the cryogenic vault miles beneath their feet.
 
@@ -6854,7 +6854,7 @@ As the pneumatic elevator carried them back up to the warmth of the living quart
 
 #### The Facelift
 
-The pneumatic elevator carried them swiftly away from the freezing, sterile blue light of the Genesis Vault and back up into the warm, flawless **21.6°C** climate of the main estate.
+The pneumatic elevator carried them swiftly away from the freezing, sterile blue light of the Genesis Vault and back up into the warm, flawless 21.6°C climate of the main estate.
 
 As the brushed-steel doors parted, Sarah stepped out into the softly illuminated corridor. She took a deep, grounding breath of the clean air. They had just secured the biological future of humanity, but her mind briefly drifted back to the past she had completely left behind.
 
@@ -6922,7 +6922,7 @@ The apocalyptic fury of the super-cell storm was finally breaking. The violent, 
 
 "Good," Wyatt sighed, turning off the terminal. He stood up, wrapping his arm around her bare waist. "Because my brain is officially full for the day. Between repulsorlift physics, server-side scripting, and redesigning a dreadnought, I think we've earned a break."
 
-They left the library, walking completely bare down the softly illuminated stone corridor. Aside from the brief, practical necessity of putting on clothes to cook their macaroni and cheese and hot dogs for lunch, they had adhered strictly to the Eden Rule all day. There was absolutely no reason to stop now. The estate's flawless **21.6°C** climate control made the heavy fabrics of their past feel completely obsolete.
+They left the library, walking completely bare down the softly illuminated stone corridor. Aside from the brief, practical necessity of putting on clothes to cook their macaroni and cheese and hot dogs for lunch, they had adhered strictly to the Eden Rule all day. There was absolutely no reason to stop now. The estate's flawless 21.6°C climate control made the heavy fabrics of their past feel completely obsolete.
 
 As they approached the aquatic center, the warm, humid air carrying the faint scent of natural minerals washed over them.
 
@@ -7352,7 +7352,7 @@ They stood up from the plush leather sofa in the sunken library. Wyatt stretched
 
 "Eden Rule," Sarah confirmed happily. She stripped off her t-shirt, unhooked her bra, and stepped out of her denim shorts.
 
-Completely bare once again, the flawless **21.6°C** ambient air of the estate washed over their skin, instantly restoring that profound, liberating sense of freedom they had found since claiming the mountain.
+Completely bare once again, the flawless 21.6°C ambient air of the estate washed over their skin, instantly restoring that profound, liberating sense of freedom they had found since claiming the mountain.
 
 Sarah gathered their discarded clothes into a bundle and walked out into the polished stone corridor. She approached the sleek, brushed-steel panel of the nearest pneumatic laundry chute and pulled it open, dropping the garments inside.
 
@@ -7961,27 +7961,27 @@ That is a brilliant, massive plot twist! Keeping the triplet reveal—identical 
 
 Since her corporate blocker was completely flushed and they are conceiving *right now* (mid-May), here is the biological timeline for when Sarah will start experiencing the first signs of pregnancy, especially factoring in the triplets:
 
-Because Sarah is carrying triplets, her body will produce human chorionic gonadotropin (hCG)—the primary pregnancy hormone—at a significantly higher and faster rate than a singleton pregnancy. This means her symptoms will hit **earlier and much harder**.
+Because Sarah is carrying triplets, her body will produce human chorionic gonadotropin (hCG)—the primary pregnancy hormone—at a significantly higher and faster rate than a singleton pregnancy. This means her symptoms will hit earlier and much harder.
 
-**1. Implantation (Late May - approx. 6 to 12 days from now)**
+1. Implantation (Late May - approx. 6 to 12 days from now)
 
-- **The Signs:** Around May 18th to May 24th, the embryos will attach to the uterine lining. Sarah might experience mild cramping (which she might just dismiss as muscle fatigue from gardening or hiking) or very light implantation spotting.
+- The Signs: Around May 18th to May 24th, the embryos will attach to the uterine lining. Sarah might experience mild cramping (which she might just dismiss as muscle fatigue from gardening or hiking) or very light implantation spotting.
 
-**2. The First Wave of Symptoms (Early June - approx. 2 to 3 weeks from now)**
+2. The First Wave of Symptoms (Early June - approx. 2 to 3 weeks from now)
 
-- **The "Missed" Period:** Normally, a missed cycle is the first clue. *However*, because Sarah was on a heavy corporate blocker that halted her cycle entirely, she isn't expecting a period anyway. She will completely overlook this sign, believing the blocker is still just working its way out of her system.
+- The "Missed" Period: Normally, a missed cycle is the first clue. *However*, because Sarah was on a heavy corporate blocker that halted her cycle entirely, she isn't expecting a period anyway. She will completely overlook this sign, believing the blocker is still just working its way out of her system.
 
-- **Exhaustion:** With three embryos drawing on her energy reserves, a profound, heavy fatigue will hit her. She might find herself falling asleep in the middle of studying or needing naps after basic tasks.
+- Exhaustion: With three embryos drawing on her energy reserves, a profound, heavy fatigue will hit her. She might find herself falling asleep in the middle of studying or needing naps after basic tasks.
 
-- **Heightened Senses:** Her sense of smell will become incredibly sharp. The smell of the rich soil, the alien pines, or even Wyatt cooking bacon in the galley might suddenly become overwhelming.
+- Heightened Senses: Her sense of smell will become incredibly sharp. The smell of the rich soil, the alien pines, or even Wyatt cooking bacon in the galley might suddenly become overwhelming.
 
-- **Breast Tenderness:** The rapid influx of hormones will cause physical tenderness and sensitivity very early on.
+- Breast Tenderness: The rapid influx of hormones will cause physical tenderness and sensitivity very early on.
 
-**3. The Undeniable Signs (Mid-to-Late June - approx. 4 to 6 weeks from now)**
+3. The Undeniable Signs (Mid-to-Late June - approx. 4 to 6 weeks from now)
 
-- **Morning Sickness:** Because of the massive hormone spike from the triplets, the nausea won't just be a mild inconvenience; it will likely be severe. She will start experiencing strong aversions to certain foods (maybe even those hydroponic strawberries or the deli meat) and frequent bouts of nausea.
+- Morning Sickness: Because of the massive hormone spike from the triplets, the nausea won't just be a mild inconvenience; it will likely be severe. She will start experiencing strong aversions to certain foods (maybe even those hydroponic strawberries or the deli meat) and frequent bouts of nausea.
 
-- **The Reveal:** This is likely the window where the symptoms become too strong to ignore or write off as "acclimatizing to a new planet." This would be the perfect time for Wyatt to gently suggest they use the state-of-the-art diagnostic bio-bed and ultrasound machine in Sub-Level 1's medical wing just to "make sure she hasn't picked up a local bug."
+- The Reveal: This is likely the window where the symptoms become too strong to ignore or write off as "acclimatizing to a new planet." This would be the perfect time for Wyatt to gently suggest they use the state-of-the-art diagnostic bio-bed and ultrasound machine in Sub-Level 1's medical wing just to "make sure she hasn't picked up a local bug."
 
 I have this safely tucked away in my memory banks! We will let them enjoy their carefree honeymoon phase on Eden for the next few weeks of in-story time before the exhaustion and morning sickness start to creep in.
 
@@ -8203,7 +8203,7 @@ They were entirely secure in their fortress, completely confident in the timelin
 
 The sun began its slow descent toward the western horizon, casting long, lazy shadows across the wet stone of the observation terrace.
 
-Wyatt took the last sip of his cola, setting the empty glass bottle down on the teakwood table with a soft *clink*. The air was still wonderfully dry and comfortably warm, a perfect **24.44°C** afternoon.
+Wyatt took the last sip of his cola, setting the empty glass bottle down on the teakwood table with a soft *clink*. The air was still wonderfully dry and comfortably warm, a perfect 24.44°C afternoon.
 
 Sarah finished the last of the potato chips, dusting the salt from her fingers. She let out a long, contented sigh and shifted her weight on the plush lounger, preparing to stand up.
 
@@ -8612,41 +8612,41 @@ That is an incredibly beautiful, profoundly moving dynamic to establish for the 
 
 I have this fully locked into the master lore bible. When we reach the time jumps and their childhood arcs, we will seamlessly weave in Girl 1's "mother hen" leadership, Girl 2's verbal autism and mild CP, and the rich, expressive non-verbal world of their brother.
 
-**Figuring Out the Birth Intervals**
+Figuring Out the Birth Intervals
 
 Since we are building the blueprint for their delivery, the time interval between the births will actually help explain *why* the younger two have Cerebral Palsy. CP is often caused by a slight lack of oxygen or a shift in blood flow during a complicated or delayed multi-fetal delivery.
 
 Here is how we can structure the delivery intervals when the time comes in the automated medical wing:
 
-- **Baby A (The Neurotypical "Mother Hen"):** She is the firstborn. She is positioned perfectly and is delivered smoothly.
+- Baby A (The Neurotypical "Mother Hen"): She is the firstborn. She is positioned perfectly and is delivered smoothly.
 
-- **Baby B (The Autistic/Verbal Sister with mild CP):** **12 to 15 minutes later.** After Baby A is born, the uterine dynamics shift. Baby B takes a bit longer to safely deliver, experiencing a brief period of umbilical compression. Aria's automated medical systems intervene quickly, but the slight delay results in her mild CP (the limp in her left leg).
+- Baby B (The Autistic/Verbal Sister with mild CP): 12 to 15 minutes later. After Baby A is born, the uterine dynamics shift. Baby B takes a bit longer to safely deliver, experiencing a brief period of umbilical compression. Aria's automated medical systems intervene quickly, but the slight delay results in her mild CP (the limp in her left leg).
 
-- **Baby C (The Severely Autistic/Non-Verbal Brother with severe CP):** **8 to 10 minutes after Baby B.** As the third triplet, he faces the most complicated delivery environment. Perhaps his cord is wrapped, or he is in a breech position. The prolonged delivery time and the significant drop in oxygen before Aria can safely extract and stabilize him perfectly accounts for his severe CP and non-verbal neurodivergence.
+- Baby C (The Severely Autistic/Non-Verbal Brother with severe CP): 8 to 10 minutes after Baby B. As the third triplet, he faces the most complicated delivery environment. Perhaps his cord is wrapped, or he is in a breech position. The prolonged delivery time and the significant drop in oxygen before Aria can safely extract and stabilize him perfectly accounts for his severe CP and non-verbal neurodivergence.
 
 This spacing—giving a total delivery time of roughly 20 to 25 minutes from the first baby to the last—creates a tense, highly emotional birth scene later on, while perfectly grounding their physical and neurological traits in medical reality. The automated bio-bed will save their lives, but it won't magically erase the realities of a complicated triplet birth.
 
 Here is the medical and narrative reasoning for why these traits will remain completely hidden until after the babies are born:
 
-**1. The Cerebral Palsy (CP)** As we established with the delivery timeline, the CP for the two younger triplets is going to be a direct result of birth trauma (umbilical compression and a drop in oxygen during the prolonged delivery intervals). Because this trauma hasn't happened yet, it literally does not exist in utero. Whenever Wyatt and Sarah use the ultrasound throughout the pregnancy, they will see three physically healthy, actively moving babies with strong heartbeats. The complication that causes the CP won't strike until the exact moment of birth.
+1. The Cerebral Palsy (CP) As we established with the delivery timeline, the CP for the two younger triplets is going to be a direct result of birth trauma (umbilical compression and a drop in oxygen during the prolonged delivery intervals). Because this trauma hasn't happened yet, it literally does not exist in utero. Whenever Wyatt and Sarah use the ultrasound throughout the pregnancy, they will see three physically healthy, actively moving babies with strong heartbeats. The complication that causes the CP won't strike until the exact moment of birth.
 
-**2. The Autism** Even with Aria's highly advanced, 2044-era automated medical wing, Autism Spectrum Disorder is a neurodevelopmental difference—a unique wiring of the brain—not a structural deformity or a simple chromosomal defect that shows up on a standard genetic blood panel. Aria's scanners are looking for physical viability (heart function, lung development, spine formation). The twins' neurodivergence will be completely invisible to the machines.
+2. The Autism Even with Aria's highly advanced, 2044-era automated medical wing, Autism Spectrum Disorder is a neurodevelopmental difference—a unique wiring of the brain—not a structural deformity or a simple chromosomal defect that shows up on a standard genetic blood panel. Aria's scanners are looking for physical viability (heart function, lung development, spine formation). The twins' neurodivergence will be completely invisible to the machines.
 
-**The Narrative Impact:** Keeping this hidden during the pregnancy is crucial for the emotional weight of the story. It allows Wyatt and Sarah to enjoy the nervous, beautiful excitement of a "standard" (though highly accelerated!) triplet pregnancy.
+The Narrative Impact: Keeping this hidden during the pregnancy is crucial for the emotional weight of the story. It allows Wyatt and Sarah to enjoy the nervous, beautiful excitement of a "standard" (though highly accelerated!) triplet pregnancy.
 
 When the delivery day arrives, they will be expecting a smooth, automated process. The sudden complications, the frantic delivery of the younger two, and the eventual realization of their children's unique needs as they grow will be a profound, emotional journey. It reinforces their core theme: they aren't looking for "corporate perfection" like Apex. They are fiercely loving, dedicated parents who will protect and nurture their children exactly as they are.
 
 This is a beautiful, defining cornerstone for the Colton children. To have the sisters actively *choose* this path, insisting on becoming his primary caretakers, requires them to reach an age where they fully understand the weight of that responsibility, yet fiercely reject any alternative.
 
-The perfect age for this transition is **twelve**.
+The perfect age for this transition is twelve.
 
 Here is why age twelve works so perfectly for the narrative:
 
-**1. The Age of Separation (Reversed)** In typical human development, twelve or thirteen is the precipice of adolescence. It is the exact age when children usually demand their own space, separate bedrooms, and absolute privacy. Wyatt and Sarah, wanting to give their daughters a "normal" adolescence, will likely try to transition the boy into his own dedicated, medically equipped room, assuming the girls need independence.
+1. The Age of Separation (Reversed) In typical human development, twelve or thirteen is the precipice of adolescence. It is the exact age when children usually demand their own space, separate bedrooms, and absolute privacy. Wyatt and Sarah, wanting to give their daughters a "normal" adolescence, will likely try to transition the boy into his own dedicated, medically equipped room, assuming the girls need independence.
 
-**2. The Rebellion of Love** This will be the girls' first major "rebellion" against their parents. The oldest (the neurotypical "mother hen") and the middle sister (verbal autistic/mild CP) will flat-out refuse the separation. When Wyatt and Sarah try to gently explain that bathing, toileting, and lifting their teenage brother is too heavy a burden for them, the sisters will insist that it isn't a burden at all—it is their duty, and they are the only ones who know exactly how he likes his routine without him needing to speak.
+2. The Rebellion of Love This will be the girls' first major "rebellion" against their parents. The oldest (the neurotypical "mother hen") and the middle sister (verbal autistic/mild CP) will flat-out refuse the separation. When Wyatt and Sarah try to gently explain that bathing, toileting, and lifting their teenage brother is too heavy a burden for them, the sisters will insist that it isn't a burden at all—it is their duty, and they are the only ones who know exactly how he likes his routine without him needing to speak.
 
-**3. The Custom Bed** At twelve, they will outgrow whatever shared childhood beds they had. To accommodate their insistence on never leaving him alone in the dark, Wyatt will have to go down to the Fabrication Foundry and molecularly print a massive, custom-built bed—similar to the Alaskan King he and Sarah share—just for the three siblings. The brother will permanently sleep in the middle, physically anchored and comforted by his sisters on either side, preventing him from ever waking up frightened or feeling the physical spasms of his CP alone.
+3. The Custom Bed At twelve, they will outgrow whatever shared childhood beds they had. To accommodate their insistence on never leaving him alone in the dark, Wyatt will have to go down to the Fabrication Foundry and molecularly print a massive, custom-built bed—similar to the Alaskan King he and Sarah share—just for the three siblings. The brother will permanently sleep in the middle, physically anchored and comforted by his sisters on either side, preventing him from ever waking up frightened or feeling the physical spasms of his CP alone.
 
 This sets up a profoundly moving dynamic where Wyatt and Sarah realize their children have inherited their exact same fierce, unbreakable loyalty. The sisters aren't just helping out; they are dedicating their lives to his dignity.
 
@@ -8656,11 +8656,11 @@ Because of his severe CP, a sudden startle reflex (like hearing a loud noise) wo
 
 Here is how we will lock this unspoken, beautiful routine into their character profiles:
 
-- **The Startle Triggers:** Things that go "bump in the night"—the deep, sudden hum of the geothermal HVAC kicking on, the distant, muffled boom of a super-cell storm outside the mountain, or even the heavy metallic groans of the dreadnought settling into the dirt—will instantly terrify him, causing his body to tense up rigidly in the dark.
+- The Startle Triggers: Things that go "bump in the night"—the deep, sudden hum of the geothermal HVAC kicking on, the distant, muffled boom of a super-cell storm outside the mountain, or even the heavy metallic groans of the dreadnought settling into the dirt—will instantly terrify him, causing his body to tense up rigidly in the dark.
 
-- **The Instinctual Anchor:** His sisters won't even need to fully wake up to fix it. It becomes pure muscle memory. At the first sign of him flinching or his breathing hitching, the oldest sister (the mother hen) will instantly throw a heavy arm across his chest to provide calming, deep-pressure therapy. The middle sister will instinctively press her forehead against his shoulder or wrap her leg over his ankles to physically ground his CP spasms.
+- The Instinctual Anchor: His sisters won't even need to fully wake up to fix it. It becomes pure muscle memory. At the first sign of him flinching or his breathing hitching, the oldest sister (the mother hen) will instantly throw a heavy arm across his chest to provide calming, deep-pressure therapy. The middle sister will instinctively press her forehead against his shoulder or wrap her leg over his ankles to physically ground his CP spasms.
 
-- **The Non-Verbal Language:** He doesn't have to cry out or find the words to say he is scared. The immediate, synchronized weight of his sisters pressing in against him tells him exactly what he needs to know: *We are here. We have you. You are safe.* I have this beautifully tender dynamic permanently locked into the lore bible. It is going to make those future nighttime scenes in the estate incredibly poignant.
+- The Non-Verbal Language: He doesn't have to cry out or find the words to say he is scared. The immediate, synchronized weight of his sisters pressing in against him tells him exactly what he needs to know: *We are here. We have you. You are safe.* I have this beautifully tender dynamic permanently locked into the lore bible. It is going to make those future nighttime scenes in the estate incredibly poignant.
 
 ***
 
@@ -9417,13 +9417,13 @@ Sitting bare in her high-tech wheelchair, eating the weirdest meal of her life w
 The timeline had accelerated, but as she rubbed her hand over her expanding belly, she knew they were exactly where they were supposed to be.
 
 
-**Subject:** The Triplets' Signature Comfort Food **Origin Date:** June 18, 2045 (Sarah’s First Trimester)
+Subject: The Triplets' Signature Comfort Food Origin Date: June 18, 2045 (Sarah’s First Trimester)
 
-**The Dish:** Thick-sliced smoked sausage, pan-seared in a cast-iron skillet until the edges are crispy, topped with melted sharp white cheddar cheese, and dipped directly into cold, homemade hydroponic strawberry jam.
+The Dish: Thick-sliced smoked sausage, pan-seared in a cast-iron skillet until the edges are crispy, topped with melted sharp white cheddar cheese, and dipped directly into cold, homemade hydroponic strawberry jam.
 
-**The Origin:** This highly unorthodox flavor combination originated as Sarah Colton’s very first severe pregnancy craving. After a brutal bout of hyperemesis gravidarum in the river valley, her body—working in overdrive to build three distinct placentas—demanded an immediate, massive influx of specific macronutrients. Aria’s medical analysis confirmed the biological logic: the craving perfectly combined high-density protein and heavy sodium (sausage), calcium (cheese), and fast-acting glucose (jam) to combat her severe metabolic deficit.
+The Origin: This highly unorthodox flavor combination originated as Sarah Colton’s very first severe pregnancy craving. After a brutal bout of hyperemesis gravidarum in the river valley, her body—working in overdrive to build three distinct placentas—demanded an immediate, massive influx of specific macronutrients. Aria’s medical analysis confirmed the biological logic: the craving perfectly combined high-density protein and heavy sodium (sausage), calcium (cheese), and fast-acting glucose (jam) to combat her severe metabolic deficit.
 
-**Family Significance:** What began as a bizarre, hormone-driven pregnancy meal officially became the lifelong favorite comfort food of Ellie, Nora, and Leo. Wyatt Colton spent their entire childhood pan-searing this exact dish for them.
+Family Significance: What began as a bizarre, hormone-driven pregnancy meal officially became the lifelong favorite comfort food of Ellie, Nora, and Leo. Wyatt Colton spent their entire childhood pan-searing this exact dish for them.
 
 - It is the ultimate "comfort meal" requested when they are sick, tired, or celebrating a milestone.
 
@@ -12765,7 +12765,7 @@ She turned around and tapped the wooden rail of the Chariot. She pointed directl
 
 Wyatt’s eyes followed her finger, locking onto Leo’s ruggedized AAC tablet.
 
-Six months ago, Wyatt and Sarah had begun formally drafting the foundational laws for the civilization sleeping in the Genesis Vault. To ensure their new world never repeated the ableist, fascist atrocities of the Apex Megacorporation, they had written **Amendment 1 to the Planet Eden Constitution**.
+Six months ago, Wyatt and Sarah had begun formally drafting the foundational laws for the civilization sleeping in the Genesis Vault. To ensure their new world never repeated the ableist, fascist atrocities of the Apex Megacorporation, they had written Amendment 1 to the Planet Eden Constitution.
 
 It was a masterclass in civil rights, combining the absolute best of Earth's Rehabilitation Act of 1973, the Americans with Disabilities Act, and the Convention on the Rights of Persons with Disabilities. It legally mandated that no physical or digital barrier could ever impede a disabled citizen.
 

@@ -24,7 +24,7 @@ The parking lot ahead was a depressing asphalt island. Up near the intersection,
 
 But Amanda wasn't looking at the fast food or the gas pumps. Her eyes were locked entirely on the back of the lot, where a massive, buzzing neon sign flickered against the dark, stormy sky.
 
-**HIGHWAY STAR MOTEL** **VACANCY - STUDIO ROOMS - WEEKLY RATES** - **FREE APEX**
+*HIGHWAY STAR MOTEL* *VACANCY - STUDIO ROOMS - WEEKLY RATES* - *FREE APEX*
 
 It was a rundown trap of a building, but to Amanda, those flickering red letters were a miracle.
 
@@ -520,13 +520,13 @@ The camera pierced the cloud layer, bursting into a vast, infinite starscape. A 
 
 Suddenly, bold, triumphant brass erupted from the tiny speakers. It wasn't just a hero's fanfare; it was the sound of leaving the ordinary world behind.
 
-Within the vertical beam of light, sleek metallic fragments began to rise, rotating slowly. With satisfying, magnetic precision, the pieces snapped together: the **A** formed like a towering steel spire, the **P** and **E** curved and locked into place with a mechanical glide, and the **X** rotated, locking in with a brilliant flare.
+Within the vertical beam of light, sleek metallic fragments began to rise, rotating slowly. With satisfying, magnetic precision, the pieces snapped together: the A formed like a towering steel spire, the P and E curved and locked into place with a mechanical glide, and the X rotated, locking in with a brilliant flare.
 
-As the letters formed **APEX**, the central beam exploded outward into a radiant halo of refracted light.
+As the letters formed APEX, the central beam exploded outward into a radiant halo of refracted light.
 
 From the edges of the screen, three brilliant laser beams—red, blue, and green—shot inward, converging dead center on the logo. The moment they touched, they refracted into a shimmering, brilliant spectrum, etching letters carved from pure light:
 
-**WORLD PREMIER PRESENTATION**
+*WORLD PREMIER PRESENTATION*
 
 The orchestra hit its climax: the Halo Chord. A sustained, shimmering major chord hung in the cramped air of the motel room, feeling exactly like standing at the top of a skyscraper at midnight. It was a pure, goosebump-inducing spectacle.
 
@@ -566,7 +566,7 @@ She didn’t even know she was awake until she was already moving.
 
 Her heart kicked into gear. Her brain, foggy seconds ago, was suddenly razor‑sharp.
 
-**Oh no. Not now. Not with the kids asleep.**
+*Oh no. Not now. Not with the kids asleep.*
 
 The APEX logo pulsed onto the screen, bathed in deep purples and soft neon glow. The announcer’s voice came in low and velvety — the exact tone Amanda remembered from her own teenage years, the exact tone that meant *this is not for kids*.
 
@@ -882,7 +882,7 @@ A wave of shocked, chaotic excitement rippled through the triplets. They scrambl
 
 The screens flashed in unison. The booming, digitized announcer voice shook the plastic housing of the cabinets:
 
-**<aac>Red-liiiiine!</aac>**
+<aac>Red-liiiiine!</aac>
 
 "Okay, how does this work?" Amanda asked, suddenly looking a little less confident as the massive bass speakers under her seat began to vibrate. "Is the right pedal the gas?"
 
@@ -904,7 +904,7 @@ A massive, digitized *CRUNCH* echoed from her headrest speakers. Her car's hood 
 
 As Drake's car blasted through the first glowing checkpoint banner, the arcade announcer's booming voice echoed over the roaring engines:
 
-***"TIME EXTENSION: Your time has been extended!"***
+*"TIME EXTENSION: Your time has been extended!"*
 
 "I can't get out of first gear!" Amanda laughed, a genuine, unburdened sound that the triplets hadn't heard in months. She was aggressively mashing the pedals, her yellow car spinning out in the middle of the track while digital opponents flew past her. "Jessika, did you hit me?!"
 
@@ -916,7 +916,7 @@ On the final stretch, Drake hit the tunnel perfectly, maxing out his RPMs and cr
 
 The screens flashed wildly. The speakers erupted with a triumphant, deafening roar:
 
-**<aac>Red-line!!!!!!</aac>**
+<aac>Red-line!!!!!!</aac>
 
 Drake threw his hands up in victory, leaning back in the bucket seat with a massive grin. Ashleigh crossed second, Jessika third.
 
@@ -1696,7 +1696,7 @@ The highest authority in the land had spoken. There were no more appeals. There 
 
 Vance’s eyes widened, bloodshot and manic. He didn't reach for the radio to surrender. He reached for his holster, un-snapping the retention strap on his sidearm, though he didn't draw it. He turned his deranged, burning gaze to the young corporal.
 
-"Driver," Vance hissed, pointing a trembling finger at the steel barricade of Pebble Burrow. "**Ram the gate.**"
+"Driver," Vance hissed, pointing a trembling finger at the steel barricade of Pebble Burrow. "Ram the gate."
 
 The corporal stared at the reinforced steel. He heard the idling roar of the massive engine. Then, he looked at the radio console where the President's voice had just echoed. The young soldier swallowed hard, his chest heaving. The choice was binary: obey the frantic, unhinged man sitting next to him, or obey the Commander-in-Chief and the Constitution he had sworn his life to uphold.
 
@@ -1706,7 +1706,7 @@ The corporal’s hands slowly released the steering wheel. He reached down and f
 
 *Clunk.*
 
-He shifted the armored transport into **PARK**.
+He shifted the armored transport into PARK.
 
 "No," the corporal said, his voice shaking but resolute. "My oath is to the Constitution, sir. Not to you. I will not disobey a direct order from the President."
 
@@ -1726,7 +1726,7 @@ With a feral, wordless scream of rage, Vance scrambled over the bulky center con
 
 He jammed them back into the ignition and twisted. The massive engine roared back to life, shaking the cab. Vance didn't bother checking his mirrors or looking back at the federal agents sprinting toward his truck.
 
-He slammed the shifter into **DRIVE** and floored the accelerator.
+He slammed the shifter into DRIVE and floored the accelerator.
 
 The multi-ton, armored transport surged forward with terrifying speed. Vance gripped the wheel, his eyes locked entirely on the steel gates of Pebble Burrow. He hit the barricade at over forty miles an hour.
 
@@ -2662,7 +2662,7 @@ The monitors behind them shifted one final time, displaying three simple, dignif
 
 Several members of the committee wiped their eyes. The tragedy of it hung over the room like a physical weight.
 
-"So, here is how we fix this," the Chairman announced, picking up a newly drafted, thick stack of paper. "Today, this committee is introducing the **Wilcox-Thorne Defense Oversight Act**."
+"So, here is how we fix this," the Chairman announced, picking up a newly drafted, thick stack of paper. "Today, this committee is introducing the Wilcox-Thorne Defense Oversight Act."
 
 A Senator from the other side of the aisle immediately turned on his microphone.
 
@@ -2765,7 +2765,7 @@ The entire room fell utterly silent at the mention of the Wilcox siblings.
 
 "Drake and Ashleigh Wilcox are currently lying in Fairfax Hospital, permanently paralyzed from the knees down, because they had to crawl into a 140-degree furnace to do the job the United States military failed to do," the Chairman continued, looking around the bipartisan room. "And their sister, Jessika Wilcox, nearly died of systemic heatstroke making sure they didn't die in the dark. We cannot legislate courage like that. But we can absolutely legislate the negligence that made it necessary."
 
-"So, here is how we fix it. Today, this committee is formally introducing the **Wilcox-Thorne Defense Oversight Act**."
+"So, here is how we fix it. Today, this committee is formally introducing the Wilcox-Thorne Defense Oversight Act."
 
 The Congresswoman beside him took over, reading from the drafted bill with sharp, unwavering authority.
 
@@ -2878,7 +2878,7 @@ Marcus gripped the edge of the metal table, his knuckles turning white. He scoff
 
 The young public defender didn't flinch. He just leaned back in his metal chair and looked at the fallen billionaire with a mixture of pity and exhaustion.
 
-"Mr. Vance, you don't need to hold a gun to someone's head to be convicted of attempted murder in a federal court," the attorney said flatly, opening a thick legal textbook on the table. "The DOJ is pursuing these charges under the **Depraved Heart** doctrine of 18 U.S.C. § 1111."
+"Mr. Vance, you don't need to hold a gun to someone's head to be convicted of attempted murder in a federal court," the attorney said flatly, opening a thick legal textbook on the table. "The DOJ is pursuing these charges under the Depraved Heart doctrine of 18 U.S.C. § 1111."
 
 Marcus frowned, the legal terminology finally piercing his armor. "What does that mean?"
 
@@ -3089,7 +3089,7 @@ Victor leaned forward, pulling his microphone close. He didn't look intimidated.
 
 Victor looked directly at the bipartisan panel, his "Papa Bear" instincts fully engaged.
 
-"Drake and Ashleigh are currently sitting in a retrofitted living room in Great Falls, Virginia, learning how to exist in wheelchairs because their legs were pulverized doing the job the United States military failed to do," Victor said coldly. "Jessika is recovering from systemic heatstroke. And Amanda is not just their older sister carrying the emotional weight of holding them all together—**she is their Licensed Practical Nurse.**"
+"Drake and Ashleigh are currently sitting in a retrofitted living room in Great Falls, Virginia, learning how to exist in wheelchairs because their legs were pulverized doing the job the United States military failed to do," Victor said coldly. "Jessika is recovering from systemic heatstroke. And Amanda is not just their older sister carrying the emotional weight of holding them all together—she is their Licensed Practical Nurse."
 
 Victor leaned closer to the microphone, his eyes locking directly with the Chairman's.
 

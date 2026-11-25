@@ -238,23 +238,23 @@ Mary pulled back, clearing her throat to dispel the heavy tension, and immediate
 
 Donald smiled, shifting his focus to the complex, 12th-grade math problems printed on the page. Because his spasticity made gripping a pencil and writing out long equations nearly impossible, Mary acted as his physical scribe. She never solved the problems for him; she simply held the pen, waiting for his brain to do the heavy lifting.
 
-"Okay, number four," Mary said, reading the prompt. "Integration by parts. We need to evaluate the integral of $`\int_{}^{}x\cos(x)\, dx`$."
+"Okay, number four," Mary said, reading the prompt. "Integration by parts. We need to evaluate the integral of $\int_{}^{}x\cos(x)\, dx$."
 
-Donald looked at the equation: $`\int_{}^{}x\cos(x)\, dx`$.
+Donald looked at the equation: $\int_{}^{}x\cos(x)\, dx$.
 
 His analytical mind instantly segmented the variables. He tapped his tablet, breaking down the formula for her.
 
-*Formula is* $`\int_{}^{}u\, dv = uv - \int_{}^{}v\, du`$*. Set* $`u = x`$*.*
+*Formula is* $\int_{}^{}u\, dv = uv - \int_{}^{}v\, du$*. Set* $u = x$*.*
 
-"Okay, $`u = x`$," Mary narrated as she carefully wrote it down on the lined paper. "Which means $`du = dx`$. What's the $`dv`$?"
+"Okay, $u = x$," Mary narrated as she carefully wrote it down on the lined paper. "Which means $du = dx$. What's the $dv$?"
 
-Donald tapped again. *Set* $`dv = \cos(x)\, dx`$*. So* $`v = \sin(x)`$*.*
+Donald tapped again. *Set* $dv = \cos(x)\, dx$*. So* $v = \sin(x)$*.*
 
-"Got it," Mary smiled, her pen scratching against the paper as she assembled the pieces he was feeding her. "So if we plug it all back into the formula, we get $`x\sin(x) - \int_{}^{}{\sin(x)}\, dx`$."
+"Got it," Mary smiled, her pen scratching against the paper as she assembled the pieces he was feeding her. "So if we plug it all back into the formula, we get $x\sin(x) - \int_{}^{}{\sin(x)}\, dx$."
 
 Donald nodded emphatically, watching the math resolve perfectly on the page. He typed the final line.
 
-*The integral of* $`\sin(x)`$ *is* $`- \cos(x)`$*. Final answer:* $`x\sin(x) + \cos(x) + C`$*.*
+*The integral of* $\sin(x)$ *is* $- \cos(x)$*. Final answer:* $x\sin(x) + \cos(x) + C$*.*
 
 "Plus C," Mary echoed, drawing a neat box around the final answer. "Don't forget the constant. Nice job, boss. You're going to ace this test."
 
@@ -624,7 +624,7 @@ Emmaâ€™s jaw tightened, but she slowly lowered her arms. She stared at the 
 
 Morgan stepped away from the main dining table, leaving Ashley and Victoria to their tense tactical debate over the extraction timeline. She sat at the smaller desk near the window, flipped open her heavy, ruggedized laptop, and bypassed the public internet entirely.
 
-She launched a secure, encrypted XMPP client. The interface was strictly text-based and utilitarianâ€”the official gateway to **NWSChat**, the restricted communications network used exclusively by government agencies, emergency managers, and credentialed meteorological partners.
+She launched a secure, encrypted XMPP client. The interface was strictly text-based and utilitarianâ€”the official gateway to NWSChat, the restricted communications network used exclusively by government agencies, emergency managers, and credentialed meteorological partners.
 
 Morgan didn't hesitate. She navigated past the regional public chatrooms and accessed the internal directory, querying the active duty roster for the Weather Forecast Office in Fort Worth (NWS FWD). She scanned the list of lead forecasters on shift, her eyes catching a familiar name.
 
@@ -1136,7 +1136,7 @@ Connor shifted in the passenger seat, pulling a heavy wool blanket tighter aroun
 
 "It feels exactly like the sheet tent, doesn't it?" Connor whispered, his voice cracking slightly in the quiet cabin.
 
-Ethan didn't answer immediately. He kept his eyes fixed on the center infotainment screen. The display was split: one half showed the vehicle's battery telemetry sitting at eighty-two percent, while the other half displayed a live, high-definition weather radar. Because the cellular towers had died, the car was pulling its data stream through the flat, portable **Aether-Link** satellite dish Ethan had quickly mounted to the roof of the garage before the storm hit.
+Ethan didn't answer immediately. He kept his eyes fixed on the center infotainment screen. The display was split: one half showed the vehicle's battery telemetry sitting at eighty-two percent, while the other half displayed a live, high-definition weather radar. Because the cellular towers had died, the car was pulling its data stream through the flat, portable Aether-Link satellite dish Ethan had quickly mounted to the roof of the garage before the storm hit.
 
 But even with the high-tech connection to the outside world, Ethan knew exactly what his brother meant. The soft, ambient light of the dashboard, the tightly insulated pocket of warmth, the low hum of the climate blower—it was a brutal, direct echo of the childhood blanket forts they used to build with Mary on rainy Saturday afternoons. They had spent their entire childhoods anchoring their little sister, physically holding onto her and shielding her from the monsters in the dark.
 

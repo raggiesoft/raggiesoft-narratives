@@ -584,7 +584,7 @@ Emily entered the weight room carrying Bob, as was their custom. The weight room
 
 Across the room, Caleb was posturing for his lackey. He lay on a bench, his setup improper, his feet not planted. He had two small 10-pound dumbbells. As he lifted them from the rack, they wobbled unsteadily. His face turned red as he strained to lower them to his chest and then, with a grunt, tried to push them up. They tilted precariously, and after one shaky rep, they came down hard on his chest. It took both him and his equally struggling friend to awkwardly shove the light weights back onto the rack.
 
-Meanwhile, Emily calmly approached a free bench. She slid a **10-pound plate onto each end of the 45-pound barbell, for a total of 65 pounds.** Caleb watched out of the corner of his eye as she lay down, her form perfect, and breezed through two clean sets of twenty reps.
+Meanwhile, Emily calmly approached a free bench. She slid a 10-pound plate onto each end of the 45-pound barbell, for a total of 65 pounds. Caleb watched out of the corner of his eye as she lay down, her form perfect, and breezed through two clean sets of twenty reps.
 
 Bob, seeing Caleb's pathetic attempt, stopped his cardio workout mid-way. The halfhearted effort was a complete joke to him. A crazy, brilliant idea sparked. He wiped down the bike and walked over to Emily. A quiet, conspiratorial exchange in the Heart-Hum passed between them. The idea was not just a flex; it was a direct, mocking response to Caleb's laughable attempt. Emily's eyes lit up, and she let out a delighted giggle, nodding enthusiastically.
 
@@ -630,7 +630,7 @@ Together, they watched the entire event unfold in silent, grainy color. They saw
 
 Coach Gable, a man with 25 years of experience, just looked on in awe and disbelief, muttering, "Perfect form... I've never seen anything like it."
 
-Dr. Ragsdale, no physical education teacher herself, could still recognize the display for what it was: **pure, raw power.** She was stunned into silence as she watched the footage of Emily, a fifteen-year-old girl, flawlessly completing two sets of twenty reps bench pressing her 85-pound fourteen-year-old cousin.
+Dr. Ragsdale, no physical education teacher herself, could still recognize the display for what it was: pure, raw power. She was stunned into silence as she watched the footage of Emily, a fifteen-year-old girl, flawlessly completing two sets of twenty reps bench pressing her 85-pound fourteen-year-old cousin.
 
 She watched the clip again, then leaned back in her chair, shaking her head. She looked at her gym teacher, her expression now one of firm, administrative resolve.
 
@@ -644,7 +644,7 @@ He left her office knowing he had just witnessed a story he would be telling unt
 
 #### The Emily Jenkins Rule
 
-The following Monday during One Lunch, a new, freshly printed sign was taped to the weight room door, right under the official rules. In bold, clear type, it read: **"Rule \#14: The use of fellow students as exercise equipment is strictly prohibited."**
+The following Monday during One Lunch, a new, freshly printed sign was taped to the weight room door, right under the official rules. In bold, clear type, it read: "Rule \#14: The use of fellow students as exercise equipment is strictly prohibited."
 
 Emily and Bob read the sign as they entered the weight room. A quiet, amused hum passed between them; they knew the rule was for them.
 
@@ -652,7 +652,7 @@ Mr. Gable saw them enter and walked over, his expression a mixture of profession
 
 Emily looked at him and gave a single, understanding nod. The matter was officially closed.
 
-The cousins went about their usual routine. Bob headed for the recumbent bike to start his ten-minute session and two-minute cooldown. Emily went to the bench press. Today, she calmly slid a **25-pound and a 5-pound plate onto each end of the 45-pound barbell, totaling a formidable 105 pounds.** She then began her workout, lifting the impressive weight with the same controlled power she had displayed on Friday.
+The cousins went about their usual routine. Bob headed for the recumbent bike to start his ten-minute session and two-minute cooldown. Emily went to the bench press. Today, she calmly slid a 25-pound and a 5-pound plate onto each end of the 45-pound barbell, totaling a formidable 105 pounds. She then began her workout, lifting the impressive weight with the same controlled power she had displayed on Friday.
 
 Caleb Anderson was nowhere to be seen. The display of raw power had done its job: it had put a healthy fear of Emily Jenkins into him. It hadn't, however, made him get the hint. In his mind, her rejection had nothing to do with her unbreakable bond with Bob; he just needed to find another way to win his "prize." But for today, at least, the weight room was a peaceful, Caleb-free zone.
 
@@ -834,7 +834,7 @@ Through a complex and angry series of grunts, gestures, and sharp chirps, the wh
 
 David's head shot up. "Wait," he said, looking at Diane for confirmation. "Did she just say...?"
 
-Diane, equally stunned, stared at her niece. **"You did WHAT with Bob? Bench press? WHAT!?"**
+Diane, equally stunned, stared at her niece. "You did WHAT with Bob? Bench press? WHAT!?"
 
 Emily gave a single, firm, almost proud nod. *Yes, I bench pressed my cousin.*
 
@@ -894,7 +894,7 @@ Inside, the atmosphere was one of watchful waiting. The sky outside was a heavy,
 
 "Okay, folks, this is an updated 'Storm Watch' alert," the meteorologist said, standing in front of a swirling map. "The models are all in agreement now. The leading edge of this storm system is projected to arrive well after midnight tonight, but it is going to be a big one."
 
-He pointed to a graphic showing potential accumulation totals. "We are looking at sustained, heavy snowfall through the overnight hours and all day tomorrow. Accumulations for Bluewater and the surrounding plateau could easily top **two feet** by this time tomorrow evening. I can't stress this enough: if you don't have to be on the roads tomorrow, please stay home."
+He pointed to a graphic showing potential accumulation totals. "We are looking at sustained, heavy snowfall through the overnight hours and all day tomorrow. Accumulations for Bluewater and the surrounding plateau could easily top two feet by this time tomorrow evening. I can't stress this enough: if you don't have to be on the roads tomorrow, please stay home."
 
 David, Emily, and Bob all looked at each other.
 
@@ -1358,13 +1358,13 @@ Relief washed over Dr. Ragsdale. "Really? Brenda, that's... that's incredible. W
 After she hung up, Brenda keyed her microphone. "Jim, I need you to pull bus 209 from its morning block this Friday. We're running a special charter for Bluewater High... Yeah, it's for Bob Scott. Let's make it nice for him."
 
 
-The 8:45 AM lineup at the Bluewater Transit Center was a picture of practiced, everyday chaos. Passengers streamed off the arriving downtown **Red Line** circulator, many hurrying to catch the **Green Line** out to the I-77 Park & Ride. The **Purple Line** from the Army base and the **Orange Line** arriving from its run to Galax were disgorging commuters and college students. The familiar **Blue Line** bus, the one that served the Scott family's neighborhood, was waiting patiently in its bay. At the far end, the big **Maroon Express** coach sat idling, preparing for its long-haul journey to the New River Valley. It was a normal Friday morning.
+The 8:45 AM lineup at the Bluewater Transit Center was a picture of practiced, everyday chaos. Passengers streamed off the arriving downtown Red Line circulator, many hurrying to catch the Green Line out to the I-77 Park & Ride. The Purple Line from the Army base and the Orange Line arriving from its run to Galax were disgorging commuters and college students. The familiar Blue Line bus, the one that served the Scott family's neighborhood, was waiting patiently in its bay. At the far end, the big Maroon Express coach sat idling, preparing for its long-haul journey to the New River Valley. It was a normal Friday morning.
 
 It was into this ordinary scene that Mr. Shaneyfelt's Earth Science class, a chaotic cluster of excited high school students, walked across the street from the high school, led by their impressive phalanx of chaperones. The regular commuters and students on the platform watched as the large group found a spot to wait, their attention naturally drawn to the two students in wheelchairs, Bob and Caroline.
 
 A moment later, a 35-foot city bus, clean and gleaming but without the usual colored stripes of the established routes, pulled smoothly into a spare bay. The commuters, who knew the lineup by heart, looked on with curiosity. This was not a scheduled run.
 
-The bus's destination sign lit up, its bright orange letters cycling through three messages: **BHS FIELD TRIP**, then **GALAX COM COLLEGE**, then **GCC PLANETARIUM**. As the doors hissed open, a clear, automated voice called out, **"Bluewater High School Field Trip to Galax Community College Planetarium."**
+The bus's destination sign lit up, its bright orange letters cycling through three messages: *BHS FIELD TRIP*, then *GALAX COM COLLEGE*, then *GCC PLANETARIUM*. As the doors hissed open, a clear, automated voice called out, "Bluewater High School Field Trip to Galax Community College Planetarium."
 
 A quiet, knowing murmur went through the crowd as they understood. This was for the high schoolers. This was for Bob Scott. The plan, born from a logistical crisis and solved by a single phone call, had come together perfectly, not in a quiet side lot, but here, in the public heart of the town.
 

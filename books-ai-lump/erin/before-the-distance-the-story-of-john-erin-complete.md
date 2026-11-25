@@ -26,7 +26,7 @@ They rolled side by side into the Second-Floor Lounge. The student activities vo
 
 At the front of the room, a sophomore wearing a CPI Student Activities polo stood behind a rolling media cart equipped with a dual-deck AudioStar CD system and two amplified PA speakers.
 
-"Alright, everyone, welcome!" the organizer called out into a handheld microphone, tapping the grille twice. "Instead of using an obnoxious kitchen timer or a whistle to signal the end of each rotation, we're keeping things civilized tonight. Every round is timed to Track 3 on the new [**Progress Street**](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street) CD by CPI's own [**The Stardust Engine**](https://stardust.raggiesoft.com)—[**'Seconds Into Forever'**](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-03-seconds-into-forever). It's an eighty-five-BPM power ballad, and it runs exactly three minutes and zero seconds. When the synth pad fades out at the end of the song, you thank your partner and rotate one table to the left!"
+"Alright, everyone, welcome!" the organizer called out into a handheld microphone, tapping the grille twice. "Instead of using an obnoxious kitchen timer or a whistle to signal the end of each rotation, we're keeping things civilized tonight. Every round is timed to Track 3 on the new [Progress Street](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street) CD by CPI's own [The Stardust Engine](https://stardust.raggiesoft.com)—['Seconds Into Forever'](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-03-seconds-into-forever). It's an eighty-five-BPM power ballad, and it runs exactly three minutes and zero seconds. When the synth pad fades out at the end of the song, you thank your partner and rotate one table to the left!"
 
 He pressed play on the first round. Warm, sparkling synthesizer pads and clean electric guitar arpeggios floated out of the speakers:
 
@@ -59,7 +59,7 @@ Unlike the previous three students, who had glanced nervously at their name tags
 
 "I traded numbers with two girls in line so I wouldn't have to wait," Valerie replied without missing a beat, flashing a sharp, magnetic smile that made John's pulse jump. "Everyone else in this room is making small talk about syllabus week. You've been actually listening to every person who sat down in front of you. You're rare, John."
 
-Up at the front media cart, the student organizer was juggling a stack of sign-in clipboards with one hand while reaching blindly for the `|<<` restart button on the AudioStar CD player with the other. In his rush, his thumb missed the back button by half an inch and jammed down hard on `>>|` instead—skipping right past Track 3 and landing on Track 4, [**"Thunder in the Rain"**](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-04-thunder-in-the-rain).
+Up at the front media cart, the student organizer was juggling a stack of sign-in clipboards with one hand while reaching blindly for the |<< restart button on the AudioStar CD player with the other. In his rush, his thumb missed the back button by half an inch and jammed down hard on >>| instead—skipping right past Track 3 and landing on Track 4, ["Thunder in the Rain"](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-04-thunder-in-the-rain).
 
 For ten seconds, a lush, cinematic analog brass-synth swell filled the lounge. Half the room assumed it was an extended intro to the ballad.
 
@@ -117,7 +117,7 @@ Erin's jaw tightened as two figures finally appeared through the mist at the bot
 
 John's power wheelchair was climbing the grade toward The Keystone Bridge at half its normal speed. Even from forty feet away, Erin could see why: Valerie was walking right beside his left wheel, one hand clamped tightly around the upright frame of his backrest while the other held a single black umbrella angled entirely over her own head—leaving cold rainwater to drip steadily off the rims of John's tortoiseshell glasses, pool in his unprotected lap, and splash dangerously across his uncovered right-hand joystick controller because Valerie hadn't even let him stop in the Faraday Hall vestibule to put on his wheelchair rain cape or his silicone joystick gauntlet.
 
-As they rolled beneath the vaulted Ironstone arch of The Keystone Bridge beside the roaring curbside line of buses, Erin felt a cold knot twist in her stomach. Through the open window of the Kincaid Hall student lounge above them, the mid-tempo synth heartbeat and dramatic drums of [**"Before the Distance"**](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-08-before-the-distance) drifted out into the November mist:
+As they rolled beneath the vaulted Ironstone arch of The Keystone Bridge beside the roaring curbside line of buses, Erin felt a cold knot twist in her stomach. Through the open window of the Kincaid Hall student lounge above them, the mid-tempo synth heartbeat and dramatic drums of ["Before the Distance"](https://music.raggiesoft.com/the-stardust-engine/2004-progress-street?track=1-08-before-the-distance) drifted out into the November mist:
 
 > *"I saw the shadow falling across your face*
 > *A quiet surrender in a crowded place*
@@ -148,7 +148,7 @@ In twenty years of sharing a life, John had never once flinched at the thought o
 
 **Date:** 2004-11-18 at 17:30 America/New_York
 
-At the curb directly beside them, a sixty-foot articulated Blue Ridge Transit coach hissed to a stop in the bumper-to-bumper lineup along Commonwealth Mall. Its amber overhead LED sign glowed through the sheets of rain—`1 FALLING BRANCH`—as the front pneumatic suspension kneeled toward the granite curb, the dual-leaf front boarding doors folded open, and the yellow-bordered aluminum ADA wheelchair ramp unfolded onto the wet sidewalk.
+At the curb directly beside them, a sixty-foot articulated Blue Ridge Transit coach hissed to a stop in the bumper-to-bumper lineup along Commonwealth Mall. Its amber overhead LED sign glowed through the sheets of rain—1 FALLING BRANCH—as the front pneumatic suspension kneeled toward the granite curb, the dual-leaf front boarding doors folded open, and the yellow-bordered aluminum ADA wheelchair ramp unfolded onto the wet sidewalk.
 
 "That's our bus, John," Valerie said briskly, tapping the back of John's shoulder as she stepped toward the foot of the front-door ramp. "Put your chair in gear and roll on up. Erin has her textbook—she can walk the two blocks back to Progress Street on her own."
 
@@ -251,7 +251,7 @@ Under the dry shelter of the porch awning, Erin reached into John's side pocket,
 
 "Out of range," Erin said softly, tucking the silent phone into her pouch and unlocking the front door.
 
-Inside, the apartment was warm and quiet, smelling of cinnamon, dry wool, and safe harbor. On the bookshelf stereo by the window, the dramatic grand piano and shimmering synthesizer pads of [**"Sanctuary in the Storm"**](https://music.raggiesoft.com/the-stardust-engine/2007-lost-sounds?track=1-13-sanctuary-in-the-storm) played softly in the warm room:
+Inside, the apartment was warm and quiet, smelling of cinnamon, dry wool, and safe harbor. On the bookshelf stereo by the window, the dramatic grand piano and shimmering synthesizer pads of ["Sanctuary in the Storm"](https://music.raggiesoft.com/the-stardust-engine/2007-lost-sounds?track=1-13-sanctuary-in-the-storm) played softly in the warm room:
 
 > *"You are my sanctuary in the storm*
 > *A fire here to keep me safe and warm*
@@ -283,7 +283,7 @@ As John rounded the Ironstone pillar at the end of the breezeway, the low murmur
 
 John stopped his chair in the shadow of the archway. Every nerve in his body went ice-cold, and then white-hot.
 
-He knew that cadence. He knew the exact melody of [**"Not Her"**](https://music.raggiesoft.com/the-stardust-engine/2007-lost-sounds?track=1-14-not-her)—that easy charm, that practiced smile, the subtle poison designed to make love look like a burden and family look like a cage:
+He knew that cadence. He knew the exact melody of ["Not Her"](https://music.raggiesoft.com/the-stardust-engine/2007-lost-sounds?track=1-14-not-her)—that easy charm, that practiced smile, the subtle poison designed to make love look like a burden and family look like a cage:
 
 > *"I see you move, I see your style*
 > *That easy charm, that practiced smile*
@@ -343,6 +343,6 @@ Side by side, their electric motors humming in matched harmony, John and Erin ro
 ***
 
 > **Companion Perspectives Across the Universe:**
-> * **The Stardust Engine (`books.raggiesoft.com/stardust-engine` & `stardust.raggiesoft.com`)**: Read how **Ryan and Cassidy O'Connell** wrote and recorded the five-song *John & Erin* story on Progress Street in [**The Stardust Engine — Book 4, Chapter 3: *Writing Before the Distance on Progress Street (2004)***](https://books.raggiesoft.com/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-3-writing-before-the-distance-on-progress-street-2004/two-blocks-from-commonwealth-mall), and explore the full 5-song soundtrack playlist at [**`music.raggiesoft.com/playlists/john-and-erin`**](https://music.raggiesoft.com/playlists/john-and-erin).
-> * **The Rachel Narrative (`books.raggiesoft.com/rachel`)**: Read how **Jessica Miller** listens to *"Before the Distance"* on her commuter train from Kent Station to Seattle King Street Station in November 2006 and realizes she and her brother **Michael** are living out the exact story of John and Erin in [**The Rachel Narrative — Episode 15: *The End of Hell***](https://books.raggiesoft.com/rachel/the-end-of-hell/the-escape-route/part-2-jessica-s-train-ride).
+> * *The Stardust Engine*: Read how Ryan and Cassidy O'Connell wrote and recorded the five-song *John & Erin* story on Progress Street in [*The Stardust Engine* — Book 4, Chapter 3: *Writing Before the Distance on Progress Street (2004)*](https://books.raggiesoft.com/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-3-writing-before-the-distance-on-progress-street-2004/two-blocks-from-commonwealth-mall), and explore the full five-song soundtrack playlist on [The Listening Room](https://music.raggiesoft.com/playlists/john-and-erin).
+> * *The Rachel Narrative*: Read how Jessica Miller listens to "Before the Distance" on her commuter train from Kent Station to Seattle King Street Station in November 2006 and realizes she and her brother Michael are living out the exact story of John and Erin in [*The Rachel Narrative* — Episode 15: *The End of Hell*](https://books.raggiesoft.com/rachel/the-end-of-hell/the-escape-route/part-2-jessica-s-train-ride).
 

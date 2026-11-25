@@ -6327,7 +6327,7 @@ It wasn't a "feed me" meow. It was low, guttural, and serious. It was the feline
 
 Sherry walked over, keeping her voice to a whisper. "Rough shift, Barnaby?"
 
-*Mrrrp.* He blinked slowly, then looked down at Nichole’s sleeping form. He nudged her hair with his nose, then looked back at Sherry.
+*Mrrrp.* He blinked slowly, then looked down at Nichole’s sleeping form. He nudged her hair with his nose, then looked back at Sherry.
 
 "I hear you," Sherry whispered, scratching him behind the ears. "She cried, didn't she?"
 
@@ -6354,7 +6354,7 @@ He looked at Nichole. She was awake, but barely. Her eyes were puffy, and she wa
 
 "Morning," Patrick croaked. His voice was gravel.
 
-Nichole blinked slowly. She tapped his arm once. *Coffee.*
+Nichole blinked slowly. She tapped his arm once. *Coffee.*
 
 "Yeah," Patrick agreed, sitting up and running a hand through his messy hair. "Coffee. Then food. Then we get out of here."
 
@@ -8674,51 +8674,51 @@ Nichole rolled her chair up to the desk, parking right next to him. She watched 
 
 Patrick opened a browser. "Okay. Command Center is active."
 
-He started typing. **CENTERS FOR MEDICARE AND MEDICAID SERVICES + NURSING CREDENTIALS.**
+He started typing. *CENTERS FOR MEDICARE AND MEDICAID SERVICES + NURSING CREDENTIALS.*
 
 The search results flooded the screen. He clicked through to a definition page on the CMS website.
 
-"Okay," Patrick read, scrolling down. "Federal requirements... state reciprocity... okay, here we go. In Virginia, the credentialing is handled by the **Virginia Board of Nursing**."
+"Okay," Patrick read, scrolling down. "Federal requirements... state reciprocity... okay, here we go. In Virginia, the credentialing is handled by the Virginia Board of Nursing."
 
 He clicked the link. The website was dry and bureaucratic, filled with PDF forms and legal codes.
 
 "Board of Nursing," Patrick muttered, navigating the menu. "Education Programs."
 
-He clicked a dropdown menu for 'Approved Nursing Education Programs.' He selected **Virginia Beach**.
+He clicked a dropdown menu for 'Approved Nursing Education Programs.' He selected Virginia Beach.
 
 He expected to see a list of expensive private colleges. Instead, the top result surprised him.
 
-**VIRGINIA BEACH CITY PUBLIC SCHOOLS.**
+*VIRGINIA BEACH CITY PUBLIC SCHOOLS.*
 
 "The school system?" Patrick frowned. "Why would the public schools handle nursing licenses?"
 
 "Maybe it's Adult Ed?" Carol suggested, looking over his shoulder. "Vo-Tech?"
 
-Patrick clicked the link. It redirected him to the **Coastal Adult Learning Center** off Virginia Beach Boulevard. He scanned the page. HSE classes, ESL... and then a link for **Career and Technical Education**.
+Patrick clicked the link. It redirected him to the Coastal Adult Learning Center off Virginia Beach Boulevard. He scanned the page. HSE classes, ESL... and then a link for Career and Technical Education.
 
 "That sends me to the Tech Center," Patrick said, clicking through. "That big building on North Landing Road. But isn't that just for high schoolers?"
 
-He landed on the homepage for the **Virginia Beach Technical and Career Education Center**. He scrolled past the auto mechanics and cosmetology sections until he found the Health Sciences block.
+He landed on the homepage for the Virginia Beach Technical and Career Education Center. He scrolled past the auto mechanics and cosmetology sections until he found the Health Sciences block.
 
 There it was.
 
-**Virginia Beach School of Practical Nursing (VBSPN).**
+Virginia Beach School of Practical Nursing (VBSPN).
 
 Patrick clicked. The page loaded, displaying a photo of students in blue scrubs working in a hospital simulation lab.
 
-"Wait," Patrick said, leaning closer to the screen. "This doesn't say 'Nursing Assistant.' This says **Licensed Practical Nurse**."
+"Wait," Patrick said, leaning closer to the screen. "This doesn't say 'Nursing Assistant.' This says Licensed Practical Nurse."
 
 <aac>Lpn?</aac> Carol asked. "That's different."
 
 "How different?" Patrick asked.
 
-He opened a new tab. He typed: **DIFFERENCE BETWEEN CNA AND LPN.**
+He opened a new tab. He typed: *DIFFERENCE BETWEEN CNA AND LPN.*
 
 A comparison table loaded. Patrick read it, his eyes widening with every line.
 
-- **CNA (Certified Nursing Assistant):** Provides basic care (bathing, dressing, feeding) under the supervision of a nurse. Cannot administer medication.
+- CNA (Certified Nursing Assistant): Provides basic care (bathing, dressing, feeding) under the supervision of a nurse. Cannot administer medication.
 
-- **LPN (Licensed Practical Nurse):** A licensed medical professional. Administers medication, performs wound care, inserts catheters, monitors vital signs. Can supervise CNAs.
+- LPN (Licensed Practical Nurse): A licensed medical professional. Administers medication, performs wound care, inserts catheters, monitors vital signs. Can supervise CNAs.
 
 Patrick looked at Nichole.
 
@@ -8726,9 +8726,9 @@ Patrick looked at Nichole.
 
 He pointed to the screen.
 
-"If I'm a CNA, I'm just a pair of hands. The Housing Director can still say, 'We need a nurse to oversee the care plan.' But if **I** am the nurse... I write the care plan."
+"If I'm a CNA, I'm just a pair of hands. The Housing Director can still say, 'We need a nurse to oversee the care plan.' But if I am the nurse... I write the care plan."
 
-Nichole looked at the screen. She saw the word **LICENSED**. She saw **MEDICATION ADMINISTRATION**.
+Nichole looked at the screen. She saw the word LICENSED. She saw *MEDICATION ADMINISTRATION*.
 
 It wasn't just a certificate. It was a shield. It was a way to force the world to treat her brother with the respect he deserved. It meant he could handle her prescriptions. It meant he could handle everything.
 
@@ -8740,19 +8740,19 @@ Patrick grinned. "Yeah. Nuclear option."
 
 He clicked back to the VBSPN tab. He read the specs aloud, his voice gaining traction.
 
-- **"An 18-month program."**
+- "An 18-month program."
 
-- **"Open to Virginia Beach high school seniors AND Adults with official residency in Virginia."**
+- "Open to Virginia Beach high school seniors AND Adults with official residency in Virginia."
 
-- **"Year One: Part-time mornings. Year Two: Full-time clinicals."**
+- "Year One: Part-time mornings. Year Two: Full-time clinicals."
 
-- **"100% NCLEX-PN pass rate."**
+- "100% NCLEX-PN pass rate."
 
 "It's rigorous," Patrick noted. "It's basically an associate's degree compressed into eighteen months. But look at the cost."
 
 He scrolled to the bottom.
 
-- **Program total cost: Adults (all inclusive): \$7,500.**
+- Program total cost: Adults (all inclusive): \$7,500.
 
 Patrick winced. "Seven grand. That's... that's a lot."
 
@@ -10588,15 +10588,15 @@ He opened a browser window. The dial-up modem hissed and screeched, connecting t
 
 "Dr. Aris at Putney said I wasn't 'qualified,'" Patrick muttered, the old anger simmering low in his gut. "She wants a professional? Fine. I'll become a professional."
 
-He started his search locally. **NURSING PROGRAMS NEWPORT RI.**
+He started his search locally. *NURSING PROGRAMS NEWPORT RI.*
 
-The search results were sparse. The top hit was the **Newport Community School**.
+The search results were sparse. The top hit was the Newport Community School.
 
 Patrick clicked the link. He scrolled through the course offerings. *Culinary Arts... Automotive... Health Careers.*
 
 He clicked *Health Careers*.
 
-**Certified Nursing Assistant (CNA).** *8-week course. Prepares students for basic patient care hygiene, feeding, and ambulation.*
+Certified Nursing Assistant (CNA). *8-week course. Prepares students for basic patient care hygiene, feeding, and ambulation.*
 
 Patrick frowned. He read the course description. It was exactly what he expected—the "Gait Belt" class.
 
@@ -10616,17 +10616,17 @@ He went back to the search bar. He looked west, across the bay.
 
 "Let's check the big city," Patrick said. "Braxton."
 
-He typed: **BRAXTON NURSING PROGRAMS.**
+He typed: *BRAXTON NURSING PROGRAMS.*
 
 The results flooded in. But one link stood out immediately because it bore the familiar blue-and-silver logo they had seen on the website during their research in New Jersey.
 
-**Braxton State University - College of Health Professions.**
+Braxton State University - College of Health Professions.
 
 Patrick clicked. The BSU website loaded.
 
-He expected to see only the four-year Bachelor of Science in Nursing (BSN)—a degree he didn't have time for if he was going to be an engineer. But then he saw a sidebar link under **Allied Health & Certificate Programs**.
+He expected to see only the four-year Bachelor of Science in Nursing (BSN)—a degree he didn't have time for if he was going to be an engineer. But then he saw a sidebar link under Allied Health & Certificate Programs.
 
-**Practical Nursing (LPN) Program.**
+Practical Nursing (LPN) Program.
 
 Patrick clicked.
 
@@ -10634,21 +10634,21 @@ The page loaded. It featured a photo of students in crisp blue scrubs standing i
 
 Patrick read the text aloud, his voice rising with excitement.
 
-"Located on the BSU Campus within the **University Medical Center** complex," Patrick read. "Braxton State's Level 1 Trauma Center serves as the primary clinical site."
+"Located on the BSU Campus within the University Medical Center complex," Patrick read. "Braxton State's Level 1 Trauma Center serves as the primary clinical site."
 
 He scrolled down to the program details.
 
-- **Credential:** Prepares students to sit for the **NCLEX-PN** (National Council Licensure Examination).
+- Credential: Prepares students to sit for the NCLEX-PN (National Council Licensure Examination).
 
-- **Duration:** 12-15 Months (Accelerated).
+- Duration: 12-15 Months (Accelerated).
 
-- **Eligibility:** Open to matriculated BSU students and continuing education adults.
+- Eligibility: Open to matriculated BSU students and continuing education adults.
 
 Patrick stopped scrolling. He looked at Nichole.
 
 "It's *there*," Patrick whispered. "It's right on campus. It's in the hospital right next to the Engineering building."
 
-He looked at the map on the screen. The **University Medical Center** wasn't just an academic building; it was the Level 1 Trauma Center for the entire city of Braxton. It was a massive, 24/7 fortress of medicine. And it was connected to the rest of the campus by **The Bull Run** tunnels.
+He looked at the map on the screen. The University Medical Center wasn't just an academic building; it was the Level 1 Trauma Center for the entire city of Braxton. It was a massive, 24/7 fortress of medicine. And it was connected to the rest of the campus by The Bull Run tunnels.
 
 "I could go to Engineering class in the morning," Patrick mapped it out, his hand tracing the air. "Then roll through the tunnel to the hospital for Clinicals in the afternoon. And because it's a university program, my student ID works for everything."
 
@@ -10662,7 +10662,7 @@ He looked at the scope of practice for an LPN in Rhode Island.
 
 - *Supervision of CNAs.*
 
-"This is the shield, Nikki," Patrick said, pointing to the letters **NCLEX-PN**. "If I pass that board exam, I am a nurse. A state-licensed nurse. If a Housing Director tells me I'm 'just a brother,' I slap my license on the desk and tell them I'm her medical provider."
+"This is the shield, Nikki," Patrick said, pointing to the letters NCLEX-PN. "If I pass that board exam, I am a nurse. A state-licensed nurse. If a Housing Director tells me I'm 'just a brother,' I slap my license on the desk and tell them I'm her medical provider."
 
 Nichole looked at the photo of the teaching hospital. It looked massive. Professional. Serious.
 
@@ -11152,7 +11152,7 @@ But as Nichole held the plug, she looked at the column next to their table.
 
 There, mounted thirty inches off the ground—perfect desk height—was a quad power outlet faceplate.
 
-She didn't have to ask for help. She didn't have to bend down. She simply reached out, plugged her Apex ConvertiBook in, and heard the satisfying *chirp* of the charging circuit engaging.
+She didn't have to ask for help. She didn't have to bend down. She simply reached out, plugged her Apex ConvertiBook in, and heard the satisfying *chirp* of the charging circuit engaging.
 
 Patrick watched her do it. He took a bite of his pizza, shaking his head in disbelief.
 
@@ -11270,9 +11270,9 @@ After leaving the Student Success Center, Patrick didn't steer them back toward 
 
 "One more stop," Patrick said. "We need to verify the medical assets."
 
-They rolled down a long connector tunnel marked **COLLEGE OF HEALTH PROFESSIONS / UNIVERSITY MEDICAL CENTER**. The tunnel opened up into a massive, sterile lobby. This wasn't just a classroom building; it was a functioning Level 1 Trauma Center. Doctors in white coats and nurses in scrubs were moving with purpose.
+They rolled down a long connector tunnel marked *COLLEGE OF HEALTH PROFESSIONS / UNIVERSITY MEDICAL CENTER*. The tunnel opened up into a massive, sterile lobby. This wasn't just a classroom building; it was a functioning Level 1 Trauma Center. Doctors in white coats and nurses in scrubs were moving with purpose.
 
-Patrick parked Nichole near the information desk for the **School of Nursing**. A recruitment banner listed the programs: *BSN, MSN, DNP*.
+Patrick parked Nichole near the information desk for the School of Nursing. A recruitment banner listed the programs: *BSN, MSN, DNP*.
 
 And at the bottom: *Practical Nursing Certificate (LPN)*.
 
@@ -11282,7 +11282,7 @@ A program coordinator named Mrs. Davies was manning the table. She looked up and
 
 "Yes," Patrick said. "I'm looking at the LPN program. I'm applying for Engineering, but I need the clinical license too."
 
-Mrs. Davies nodded, reaching for a different stack of brochures. "Well, for engineering students who want a medical background, we usually recommend the **CNA (Certified Nursing Assistant)** certification. It’s only eight weeks, and it lets you do basic patient care like hygiene and transfers. The LPN program is extremely rigorous—it's basically a full-time job."
+Mrs. Davies nodded, reaching for a different stack of brochures. "Well, for engineering students who want a medical background, we usually recommend the CNA (Certified Nursing Assistant) certification. It’s only eight weeks, and it lets you do basic patient care like hygiene and transfers. The LPN program is extremely rigorous—it's basically a full-time job."
 
 Patrick shook his head. He didn't reach for the CNA brochure.
 
@@ -11330,7 +11330,7 @@ The wind outside had shifted from a brisk autumn chill to a howling gale.
 
 Deep underground, walking through the climate-controlled corridors of The Braxton Link, the twins only knew the weather had turned because of the digital service boards.
 
-As they emerged from the tunnels into the main Concourse Level (Level C) of the Narragansett Esplanade Station, a red banner flashed across the Solari departure board: **SERVICE ALERT: HARBOR FERRY SUSPENDED DUE TO HIGH WINDS.**
+As they emerged from the tunnels into the main Concourse Level (Level C) of the Narragansett Esplanade Station, a red banner flashed across the Solari departure board: *SERVICE ALERT: HARBOR FERRY SUSPENDED DUE TO HIGH WINDS.*
 
 Patrick stopped the wheelchair. He looked at the board, then down at Nichole.
 
@@ -11344,7 +11344,7 @@ Nichole tapped her screen. *<aac>Routing.</aac>*
 
 They rolled over to the fare gates. Patrick held up Nichole’s BTA Zone 15 RegionLink smart card and tapped it against the glowing blue reader. He tapped his own. The gates parted.
 
-They took the massive glass elevator up to **Level 2: The Sky Platform**. Stepping out of the elevator, they felt the station's architectural power. The elevated viaduct ran parallel to the coastline, offering a dramatic view of Narragansett Bay through the floor-to-ceiling glass walls. The water was churning with whitecaps, confirming the ferry suspension.
+They took the massive glass elevator up to Level 2: The Sky Platform. Stepping out of the elevator, they felt the station's architectural power. The elevated viaduct ran parallel to the coastline, offering a dramatic view of Narragansett Bay through the floor-to-ceiling glass walls. The water was churning with whitecaps, confirming the ferry suspension.
 
 An **ARTS *The Patriot*** train glided into the station. It was the 2:30 PM train heading north to the city, and under the BTA/ARTS agreement, local riders could board the intercity trains for one-stop hops within the metro area.
 
@@ -11352,11 +11352,11 @@ The doors slid open. Because the platform was raised to match the floor height o
 
 When the conductor came through, Patrick didn't buy a ticket. He just held up their BTA LinkPasses. Since they were in the Coach section, the conductor simply nodded; no upgrade fee was required for the one-stop ride to Braxton Central Terminal.
 
-At **2:45 PM**, the ARTS *The Patriot* train didn't glide into a glass cathedral. It rumbled into a construction site.
+At 2:45 PM, the ARTS *The Patriot* train didn't glide into a glass cathedral. It rumbled into a construction site.
 
-**Braxton Central Terminal** was midway through a massive, billion-dollar modernization project scheduled for completion in 2005. The "Glass Cathedral" the brochures promised was currently a skeleton of raw steel and orange safety netting.
+Braxton Central Terminal was midway through a massive, billion-dollar modernization project scheduled for completion in 2005. The "Glass Cathedral" the brochures promised was currently a skeleton of raw steel and orange safety netting.
 
-As the train decelerated, Patrick and Nichole looked out the window. They weren't underground, but they weren't in a finished station either. They were on a temporary wooden platform built adjacent to the future **Level 5 Sky Deck**. To their left, the massive steel ribs of the future glass tube soared into the sky, unglazed and open to the freezing wind.
+As the train decelerated, Patrick and Nichole looked out the window. They weren't underground, but they weren't in a finished station either. They were on a temporary wooden platform built adjacent to the future Level 5 Sky Deck. To their left, the massive steel ribs of the future glass tube soared into the sky, unglazed and open to the freezing wind.
 
 Sparks showered down from a welder working on a girder sixty feet above them. The air didn't smell like ozone and floor wax; it smelled of wet concrete, diesel fumes, and acetylene torches.
 
@@ -11364,13 +11364,13 @@ Sparks showered down from a welder working on a girder sixty feet above them. Th
 
 Patrick pushed Nichole off the train and onto the temporary plywood decking. The wind whipped through the open steel skeleton, rattling the plastic sheeting that acted as a wall.
 
-They rolled toward the center of what would one day be the Grand Concourse. Right now, it was a dizzying abyss. Looking down through the gaps in the steel, Patrick could see excavators digging in the mud 120 feet below, carving out the future subterranean hall of **Level 1—"The Deep."**
+They rolled toward the center of what would one day be the Grand Concourse. Right now, it was a dizzying abyss. Looking down through the gaps in the steel, Patrick could see excavators digging in the mud 120 feet below, carving out the future subterranean hall of Level 1—"The Deep."
 
 "It's a skeleton," Patrick shouted over the roar of a jackhammer. "It's going to be incredible in two years, but right now it's a mess."
 
 Nichole adjusted her scarf. She looked at the chaos—the cranes, the workers in hardhats, the temporary wayfinding signs spray-painted on plywood. It wasn't pretty, but it was active. It was a machine being built in real-time.
 
-They navigated the "maze"—a narrow, plywood-walled corridor marked **TEMPORARY ACCESS TO BUS TERMINAL**. There were no glass elevators yet. Instead, they took a rattling, industrial freight elevator operated by a union worker who waved them in with a grimy glove.
+They navigated the "maze"—a narrow, plywood-walled corridor marked *TEMPORARY ACCESS TO BUS TERMINAL*. There were no glass elevators yet. Instead, they took a rattling, industrial freight elevator operated by a union worker who waved them in with a grimy glove.
 
 "Going down to street?" the operator asked, chewing a cigar.
 
@@ -11380,27 +11380,27 @@ The elevator clanked down to the street level. They rolled out into the temporar
 
 "Switching networks," Patrick announced, pulling his collar up against the wind.
 
-The BTA passes were useless here; OSTA and BTA were agency "frenemies" and did not share fare products. As the white-and-blue **OSTA Route 14** bus pulled into the temporary Bay 8, Patrick and Nichole flashed their laminated OSTA Monthly Passes to the driver.
+The BTA passes were useless here; OSTA and BTA were agency "frenemies" and did not share fare products. As the white-and-blue OSTA Route 14 bus pulled into the temporary Bay 8, Patrick and Nichole flashed their laminated OSTA Monthly Passes to the driver.
 
 Route 14 was the "Braxton Express," the vital bus bridge connecting the city to the Wickford Junction void. The bus roared north up the US-1 corridor, leaving the steel skeleton of the future station behind.
 
-An hour later, at **3:50 PM**, it pulled into the major regional transit hub: the **I-895 Jamestown Bridge Park & Ride**.
+An hour later, at 3:50 PM, it pulled into the major regional transit hub: the I-895 Jamestown Bridge Park & Ride.
 
 They were dropped off in the freezing wind, but only for ten minutes. This was the border checkpoint where the state's regional routes converged. At the adjacent bays were the other lifelines: Route 12 (connecting Newport to PVD Airport and Providence) and Route 64 (connecting Newport to Rhode Island State University and Kingston Station).
 
-**OSTA Route 64**, running its 90-minute cycle, pulled into the lot. They boarded at **4:00 PM**, flashing their OSTA passes again for the trip across the bridges toward Newport.
+OSTA Route 64, running its 90-minute cycle, pulled into the lot. They boarded at 4:00 PM, flashing their OSTA passes again for the trip across the bridges toward Newport.
 
-Now came the hardest physical test of the day: **Interstate 895**. The highway over the bay was known as "The Waiver," four narrow lanes squeezed onto a bridge deck designed for three, with zero shoulders and a strict 45 MPH speed limit. The bus was buffeted by the high winds as it crossed the Jamestown Bridge and the towering Newport Bridge, the massive suspension cables groaning in the gale.
+Now came the hardest physical test of the day: Interstate 895. The highway over the bay was known as "The Waiver," four narrow lanes squeezed onto a bridge deck designed for three, with zero shoulders and a strict 45 MPH speed limit. The bus was buffeted by the high winds as it crossed the Jamestown Bridge and the towering Newport Bridge, the massive suspension cables groaning in the gale.
 
 Nichole didn't flinch. She watched the churning grey water below. The system was holding.
 
-By **4:45 PM**, they were at the **Newport Gateway Center**.
+By 4:45 PM, they were at the Newport Gateway Center.
 
-They transferred one last time to the **OSTA Route 60**. Patrick made sure the electronic sign read **60 PROVIDENCE VIA WEST MAIN**.
+They transferred one last time to the OSTA Route 60. Patrick made sure the electronic sign read *60 PROVIDENCE VIA WEST MAIN*.
 
 As darkness fell completely, the bus rolled through Portsmouth.
 
-"Next stop, Willow Lane," the automated voice called out at **5:15 PM**.
+"Next stop, Willow Lane," the automated voice called out at 5:15 PM.
 
 The bus kneeled into the gutter across the street from their house on West Main Road. The wind was whipping dead leaves across the asphalt.
 
@@ -11502,7 +11502,7 @@ Uncle Mark set his fork down. He looked at Patrick, and then at Nichole. He reco
 
 He reached into his back pocket and pulled out the heavy application guide from the University Medical Center. He slapped it on the table.
 
-**PRACTICAL NURSING (LPN) - ACCELERATED TRACK.**
+*PRACTICAL NURSING (LPN) - ACCELERATED TRACK.*
 
 "We stopped by the Medical Center," Patrick said. "It's right on campus, connected by the tunnels. It's a Level 1 Trauma Center. And they have a program for matriculated students to become Licensed Practical Nurses."
 
@@ -12415,19 +12415,19 @@ They didn't mail their applications. They wanted to do this in person.
 
 They rolled up to the intake desk. Patrick swung his heavy backpack around to his chest and unzipped the main compartment. He pulled out three thick manila envelopes.
 
-Two were standard undergraduate applications: one for the **College of Engineering** (Patrick) and one for the **Department of Technical Communication** (Nichole). Inside were their high school transcripts, their essays, and the doctor's notes detailing their physical limitations—not as excuses, but as engineering constraints they had successfully solved.
+Two were standard undergraduate applications: one for the College of Engineering (Patrick) and one for the Department of Technical Communication (Nichole). Inside were their high school transcripts, their essays, and the doctor's notes detailing their physical limitations—not as excuses, but as engineering constraints they had successfully solved.
 
 "Undergraduate application drop-off," Patrick said to the registrar, sliding the first two envelopes across the counter. "For the Fall 2004 semester."
 
-The clerk took them and stamped both envelopes with a heavy *THUD*. **RECEIVED: JAN 22 2004.**
+The clerk took them and stamped both envelopes with a heavy *THUD*. *RECEIVED: JAN 22 2004.*
 
 "Notifications go out in April," the clerk smiled. "Good luck."
 
 Patrick didn't step back yet. He held onto the third envelope. It was heavier than the others. It contained his immunization records, his CPR certification card from the Newport Community School, and his prerequisite grades for Anatomy & Physiology.
 
-"And this one," Patrick said, sliding the third envelope over. "For the **College of Health Professions**. The LPN accelerated track."
+"And this one," Patrick said, sliding the third envelope over. "For the College of Health Professions. The LPN accelerated track."
 
-The clerk looked at the label: **PATRICK BENNETT - SCHOOL OF PRACTICAL NURSING.**
+The clerk looked at the label: *PATRICK BENNETT - SCHOOL OF PRACTICAL NURSING.*
 
 She looked up at him, a flicker of surprise in her eyes. It was rare to see an engineering applicant also dropping off a nursing packet.
 
@@ -12435,7 +12435,7 @@ She looked up at him, a flicker of surprise in her eyes. It was rare to see an e
 
 "Something like that," Patrick said. "I'm building the machine, but I need to know how to fix the operator."
 
-The clerk smiled and brought the stamp down one last time. **RECEIVED: JAN 22 2004.**
+The clerk smiled and brought the stamp down one last time. *RECEIVED: JAN 22 2004.*
 
 "That program is competitive," she noted, placing it in the special medical routing bin. "But if your grades are good, they'll be lucky to have you."
 
@@ -12476,7 +12476,7 @@ Sarah Mitchell looked up from her desk as Patrick rolled Nichole back into her o
 
 "Forget something?" Sarah smiled.
 
-"A legal paradox," Patrick said, sitting down and sliding a glossy property brochure onto her desk. "We don't want to commute from Portsmouth. That was our backup plan. The primary mission is to live here. We want to sign a lease for **The Lofts at The Foundry**."
+"A legal paradox," Patrick said, sitting down and sliding a glossy property brochure onto her desk. "We don't want to commute from Portsmouth. That was our backup plan. The primary mission is to live here. We want to sign a lease for The Lofts at The Foundry."
 
 Sarah picked up the brochure. Her eyebrows raised in pleasant surprise.
 
@@ -12520,7 +12520,7 @@ She turned to her computer and began typing rapidly.
 
 Sarah hit 'Print'.
 
-She walked over to the printer and pulled out a new, blank form. The header read: **OFF-CAMPUS MEDICAL HARDSHIP WAIVER**.
+She walked over to the printer and pulled out a new, blank form. The header read: *OFF-CAMPUS MEDICAL HARDSHIP WAIVER*.
 
 "BSU cannot legally force you into a dorm room that causes Nichole physical harm," Sarah explained, signing the bottom of the form. "Since we cannot provide a co-habitation suite, you are hereby granted full permission to lease the apartment at The Foundry Lofts, or anywhere else you want, on day one."
 
@@ -12554,7 +12554,7 @@ He looked back at Sarah.
 
 He tapped the receipt on her desk.
 
-"I want the license. I want the piece of paper that says **The State of Rhode Island and Providence Plantations** certifies that Patrick Bennett knows what he's doing. So the next time someone tells me I'm 'just a brother,' I can show them my badge."
+"I want the license. I want the piece of paper that says The State of Rhode Island and Providence Plantations certifies that Patrick Bennett knows what he's doing. So the next time someone tells me I'm 'just a brother,' I can show them my badge."
 
 Sarah stared at him. She had seen devoted siblings before, but she had never seen this level of strategic, weaponized love. He wasn't just caring for his sister; he was professionalizing the relationship to make them untouchable.
 
@@ -12570,7 +12570,7 @@ Nichole tapped her screen, a proud smile lighting up her face. *<aac>My. Medic.<
 
 #### The Liability Lie
 
-Patrick stared at the paper in his hand. **OFF-CAMPUS MEDICAL HARDSHIP WAIVER.**
+Patrick stared at the paper in his hand. *OFF-CAMPUS MEDICAL HARDSHIP WAIVER.*
 
 It was a simple form. Standard font. A single signature at the bottom. It had taken Sarah Mitchell less than five minutes to type up, print, and sign.
 
@@ -12606,7 +12606,7 @@ She leaned forward, her expression shifting from administrator to ally.
 
 Patrick looked at the receipt.
 
-"When you become an LPN," Sarah explained, "you stop being a 'family caregiver' in the eyes of the law. You become a **Licensed Healthcare Professional**. You answer to the State Board of Nursing. You carry a license number. You have a legal and ethical code of conduct."
+"When you become an LPN," Sarah explained, "you stop being a 'family caregiver' in the eyes of the law. You become a Licensed Healthcare Professional. You answer to the State Board of Nursing. You carry a license number. You have a legal and ethical code of conduct."
 
 She gestured to the waiver in his hand.
 
@@ -12626,7 +12626,7 @@ She smiled.
 
 Nichole reached for her mouse. She had been listening intently.
 
-She clicked on a folder on her desktop that she had named **ARCHIVE**. She found the file for **Putney College**.
+She clicked on a folder on her desktop that she had named ARCHIVE. She found the file for Putney College.
 
 She dragged it to the Recycle Bin.
 
@@ -12656,11 +12656,11 @@ Nichole didn't look back. She looked forward, toward the subway station, toward 
 
 The mail arrived at 4:00 PM. By 4:30 PM, the kitchen table at the Fortress was covered in confetti, and Uncle Mark was pouring sparkling cider into everyone's glasses.
 
-Sitting in the center of the table were not two, but **three** heavy envelopes.
+Sitting in the center of the table were not two, but three heavy envelopes.
 
-Two were navy blue, embossed with the silver Bull seal of **Braxton State University - Office of Admissions**.
+Two were navy blue, embossed with the silver Bull seal of Braxton State University - Office of Admissions.
 
-The third was stark white, bearing the **crimson shield and silver staff** of the **University Medical Center - College of Health Professions**.
+The third was stark white, bearing the crimson shield and silver staff of the University Medical Center - College of Health Professions.
 
 "The Triple Crown," Tom announced, his voice thick with pride as he held up the first two blue folders. "Patrick into the College of Engineering. Nichole into the College of Arts and Sciences, Department of Technical Communication. It’s official. You are Braxton Bulls."
 
@@ -12672,7 +12672,7 @@ The family cheered, the sound echoing through the wide hallways of the Fortress.
 
 "But wait," Patrick said, holding up his hand. He reached for the third envelope—the white one with the crimson shield.
 
-He opened it slowly. Inside wasn't just a letter; it was a clinical rotation schedule and a heavy patch that read **STUDENT NURSE**.
+He opened it slowly. Inside wasn't just a letter; it was a clinical rotation schedule and a heavy patch that read *STUDENT NURSE*.
 
 "Accepted," Patrick read, a grin spreading across his face. "School of Practical Nursing. Accelerated LPN Track. Clinicals start in September at the Trauma Center."
 
@@ -12706,17 +12706,17 @@ He flipped to a page highlighted in yellow.
 
 Tom pulled out the passbook for the separate, traditional cash savings account Helen had left them.
 
-**Balance: \$23,497.61.**
+Balance: \$23,497.61.
 
 "The landlord at The Foundry requires a standard security deposit of one month's rent, plus the first month up front," Tom calculated, tapping his calculator. "That's \$4,500 just to get the keys. But to lock it down against other students, we need leverage."
 
 "We prepay," Patrick said.
 
-"We prepay," Tom nodded. "We walk into that leasing office, and we drop \$22,500 on the table. We pay the security deposit and the first **nine months** of rent in absolute cash. It locks the apartment down instantly, proves you are premium tenants, and covers your housing all the way through next May."
+"We prepay," Tom nodded. "We walk into that leasing office, and we drop \$22,500 on the table. We pay the security deposit and the first nine months of rent in absolute cash. It locks the apartment down instantly, proves you are premium tenants, and covers your housing all the way through next May."
 
 Nichole looked at the passbook on the table.
 
-Her grandmother hadn't just left them money; she had left them **timing**. The cash account was the exact key they needed to unlock the system before the official gears of the university started turning.
+Her grandmother hadn't just left them money; she had left them timing. The cash account was the exact key they needed to unlock the system before the official gears of the university started turning.
 
 "And the 529 plans?" Ellen asked.
 
@@ -16832,11 +16832,11 @@ Nichole smiled. She clicked her mouse.
 <aac>Team. Assembled.</aac>
 
 
-- **Date:** Monday, December 26, 2005 (Sophomore Year)
+- Date: Monday, December 26, 2005 (Sophomore Year)
 
-- **Location:** Unit 404, The Foundry Lofts, Braxton, RI
+- Location: Unit 404, The Foundry Lofts, Braxton, RI
 
-- **Surgery:** Bilateral Hamstring Lengthening & Adductor Release (Scheduled for 0730 tomorrow at University Medical Center, Braxton)
+- Surgery: Bilateral Hamstring Lengthening & Adductor Release (Scheduled for 0730 tomorrow at University Medical Center, Braxton)
 
 ## The Procedure: "The Tune-Up"
 
@@ -16850,17 +16850,17 @@ On the coffee table lay the spoils of the day. They had spent the morning in Por
 
 But the Kitchen Island was a different world. It looked like a sterile field.
 
-Patrick stood at the counter, a pen light in his mouth, reviewing a document he had drafted: **OP-PLAN: LEG DAY (DEC 2005).**
+Patrick stood at the counter, a pen light in his mouth, reviewing a document he had drafted: *OP-PLAN: LEG DAY (DEC 2005).*
 
-He wasn't just a brother packing an overnight bag. He was **Patrick Bennett, LPN**, packing a "Mobile Medical Unit."
+He wasn't just a brother packing an overnight bag. He was Patrick Bennett, LPN, packing a "Mobile Medical Unit."
 
-- **Hydration:** Two sterilized 1-liter hydration bladders with bite valves. (Standard hospital cups were useless when a patient was flat on their back).
+- Hydration: Two sterilized 1-liter hydration bladders with bite valves. (Standard hospital cups were useless when a patient was flat on their back).
 
-- **Infection Control:** A stack of Chlorhexidine Gluconate (CHG) wipes. He wasn't trusting the standard hospital soap; he was doing a secondary scrub of the surgical sites himself.
+- Infection Control: A stack of Chlorhexidine Gluconate (CHG) wipes. He wasn't trusting the standard hospital soap; he was doing a secondary scrub of the surgical sites himself.
 
-- **The Chart:** His three-ring binder, now thick with a year’s worth of data. It was tabbed with sections for *Current Meds*, *Vitals*, and *Neuro Checks*.
+- The Chart: His three-ring binder, now thick with a year’s worth of data. It was tabbed with sections for *Current Meds*, *Vitals*, and *Neuro Checks*.
 
-- **The "Vocal" Proxy:** A laminated sheet tucked into the front pocket titled **NON-VERBAL PAIN SCALE**. It listed Nichole’s specific distress cues: *Jaw clenching, rapid blinking, withdrawal from touch.*
+- The "Vocal" Proxy: A laminated sheet tucked into the front pocket titled *NON-VERBAL PAIN SCALE*. It listed Nichole’s specific distress cues: *Jaw clenching, rapid blinking, withdrawal from touch.*
 
 "Check," Patrick muttered, ticking off the 'Emesis Basin' line item. "Anesthesia makes you pukey. We are prepared for puke."
 
@@ -16920,7 +16920,7 @@ Inside, the hospital was warm, quiet, and vibrating with the low hum of air hand
 
 Patrick pushed Nichole toward the main Admissions desk. She was wearing her "surgery pajamas"—soft, loose cotton that wouldn't irritate her skin—and clutching her new hoodie like a security blanket. Her face was pale, her eyes darting around the massive atrium which was still decorated with silver and blue holiday wreaths.
 
-Patrick wasn't looking at the decorations. He was focused on the mission. He wore his standard gray hoodie, but clipped to the front pocket was his university ID and, right next to it, his laminated **LPN Badge**.
+Patrick wasn't looking at the decorations. He was focused on the mission. He wore his standard gray hoodie, but clipped to the front pocket was his university ID and, right next to it, his laminated LPN Badge.
 
 They rolled up to the counter. A registrar named Karen looked up from her computer, sipping a coffee from a "Happy Holidays" paper cup.
 
@@ -16956,7 +16956,7 @@ The nurse smiled, a genuine, tired smile.
 
 "Thank God," she said. "We get so many families who think they can handle a spica cast or an immobilizer, and they end up calling 911 because they can't get the patient to the bathroom. Knowing she has a licensed nurse who knows her baseline... that makes our job a thousand times easier."
 
-She reached over the counter and handed Patrick a plastic wristband—not a "Visitor" band, but a **"Care Team"** band.
+She reached over the counter and handed Patrick a plastic wristband—not a "Visitor" band, but a "Care Team" band.
 
 "You have full access," the nurse said. "Pre-op, PACU, and Recovery. You don't have to wait in the lobby. You're on the clock, Nurse Bennett."
 
@@ -16994,11 +16994,11 @@ Nichole sat on the edge of the bed, shivering slightly—partly from the hospita
 
 He didn't make a big deal of it. He moved with the practiced efficiency of a brother who had been helping with buttons and zippers for nineteen years.
 
-- **Step 1:** He helped her shimmy out of her soft pajama top, careful not to let her elbows catch.
+- Step 1: He helped her shimmy out of her soft pajama top, careful not to let her elbows catch.
 
-- **Step 2:** He guided her arms into the stiff, starched sleeves of the hospital gown.
+- Step 2: He guided her arms into the stiff, starched sleeves of the hospital gown.
 
-- **Step 3:** He fastened the snaps at the back of her neck, ensuring they didn't pinch her skin.
+- Step 3: He fastened the snaps at the back of her neck, ensuring they didn't pinch her skin.
 
 "Okay, lean back," Patrick instructed.
 
@@ -17087,7 +17087,7 @@ Patrick smiled, finally stepping out of "Nurse Mode" to grab her hand.
 
 #### The Separation
 
-The Anesthesiologist, Dr. Liu, stepped into the bay. He was holding a syringe labeled **MIDAZOLAM**.
+The Anesthesiologist, Dr. Liu, stepped into the bay. He was holding a syringe labeled MIDAZOLAM.
 
 He looked at Nichole, then at Patrick standing guard with his binder. He read the room instantly. This wasn't a "Happy Juice" family. This was a clinical team.
 
@@ -17103,7 +17103,7 @@ Nichole’s eyes widened. The idea of her "recorder" stopping was terrifying. *S
 
 She typed frantically, the keys clacking loudly in the quiet bay.
 
-**DO. NOT. TURN. ME. OFF.**
+*DO. NOT. TURN. ME. OFF.*
 
 Patrick stepped in. He didn't offer false comfort. He offered data.
 
@@ -17127,7 +17127,7 @@ She blinked rapidly. *Three times.* (I'm scared).
 
 Patrick dropped the side rail (with a quick nod to Dr. Liu). He leaned over the bed, wrapping his arms around her shoulders, pulling her head into his chest.
 
-He applied the **Deep Pressure**. He squeezed tight, grounding her floating sensation.
+He applied the Deep Pressure. He squeezed tight, grounding her floating sensation.
 
 "I'm going to be there," Patrick whispered into her hair, fierce and low. "I have the badge. I have the clearance. The second you reboot in recovery, I am the first thing you see. You will not wake up alone."
 
@@ -17149,7 +17149,7 @@ Patrick pulled back. He smoothed her hair back from her forehead. He picked up h
 
 The orderlies unlocked the wheels. The bed began to move.
 
-Patrick stepped back to the doorway. He didn't look away. He watched as they wheeled her down the long, sterile hallway. He watched until the double doors swung shut behind her, the red **RESTRICTED AREA** sign flashing above them.
+Patrick stepped back to the doorway. He didn't look away. He watched as they wheeled her down the long, sterile hallway. He watched until the double doors swung shut behind her, the red *RESTRICTED AREA* sign flashing above them.
 
 
 Patrick walked into the Surgical Waiting Room.
@@ -17164,15 +17164,15 @@ He didn't pace. He didn't wring his hands.
 
 He set up his command post.
 
-1.  **Laptop:** Open to the hospital's guest Wi-Fi.
+1.  Laptop: Open to the hospital's guest Wi-Fi.
 
-2.  **The Binder:** Open to the *Post-Op Pain Management* section.
+2.  The Binder: Open to the *Post-Op Pain Management* section.
 
-3.  **The Clock:** Synced.
+3.  The Clock: Synced.
 
 He had two hours. Most families would use the time to eat or sleep. Patrick used the time to work.
 
-He pulled out a pen. He began drafting the **24-Hour Post-Op Schedule**:
+He pulled out a pen. He began drafting the 24-Hour Post-Op Schedule:
 
 - 09:30 - Estimated PACU Arrival.
 
@@ -17201,49 +17201,49 @@ Patrick didn't look at the snow. He had his laptop open to a medical journal art
 He wasn't reading the abstract. He was studying the diagrams.
 
 
-He zoomed in on the illustration of the **Hamstring Lengthening**.
+He zoomed in on the illustration of the Hamstring Lengthening.
 
 "Z-plasty," Patrick whispered, tracing the line on the screen.
 
 The surgeon didn't just sever the muscle. They cut it in a 'Z' shape, slid the two ends apart to lengthen the tendon, and then sutured it back together.
 
-- **Implication:** The structural integrity of the back of her leg was currently compromised.
+- Implication: The structural integrity of the back of her leg was currently compromised.
 
-- **Nurse Protocol:** "No active flexion." If she tries to pull her heel to her butt (a standard reflex when in pain), she could rip the Z-suture.
+- Nurse Protocol: "No active flexion." If she tries to pull her heel to her butt (a standard reflex when in pain), she could rip the Z-suture.
 
-- **Patrick’s Plan:** "I have to inhibit the flexion reflex. Knee immobilizers must stay locked for 72 hours. No exceptions."
+- Patrick’s Plan: "I have to inhibit the flexion reflex. Knee immobilizers must stay locked for 72 hours. No exceptions."
 
 
 Next, he pulled up the anatomy of the inner thigh.
 
-The **Adductor Longus** muscles—the ones that pulled her knees together—were being released (cut) to allow her legs to sit wide.
+The Adductor Longus muscles—the ones that pulled her knees together—were being released (cut) to allow her legs to sit wide.
 
-- **Implication:** Her hips would feel "loose" and unstable. Her brain, used to tight muscles holding her legs together, would panic and try to snap them shut.
+- Implication: Her hips would feel "loose" and unstable. Her brain, used to tight muscles holding her legs together, would panic and try to snap them shut.
 
-- **Nurse Protocol:** "Maintain abduction." Keep the legs separated.
+- Nurse Protocol: "Maintain abduction." Keep the legs separated.
 
-- **Patrick’s Plan:** He checked his supply list. "Abduction Wedge." The triangular foam block that goes between the knees. He would need to strap that in before she even fully woke up to prevent the 'scissoring' spasm.
+- Patrick’s Plan: He checked his supply list. "Abduction Wedge." The triangular foam block that goes between the knees. He would need to strap that in before she even fully woke up to prevent the 'scissoring' spasm.
 
 
 He opened a new tab: *Post-Surgical Spasticity Management.*
 
-He read the warning in bold text: **"The Rebound Effect: The lengthened muscle triggers a hypersensitive stretch reflex. Patients may experience violent, involuntary extensor spasms as the nervous system attempts to return the muscle to its original, short length."**
+He read the warning in bold text: "The Rebound Effect: The lengthened muscle triggers a hypersensitive stretch reflex. Patients may experience violent, involuntary extensor spasms as the nervous system attempts to return the muscle to its original, short length."
 
 Patrick highlighted the paragraph.
 
 This was the battle. Her brain had a map of her body where her hamstrings were *short*. The surgery made them *long*. When she woke up, her brain would think the muscle was being torn and would fire the emergency thrusters to shorten it again.
 
-- **The Result:** Agony.
+- The Result: Agony.
 
-- **The Fix:** Diazepam (Chemical). Weight-bearing (Mechanical). Calm voice (Psychological).
+- The Fix: Diazepam (Chemical). Weight-bearing (Mechanical). Calm voice (Psychological).
 
 He closed the laptop. He had the data.
 
-- **Rule 1:** Keep knees straight (protect the Z-plasty).
+- Rule 1: Keep knees straight (protect the Z-plasty).
 
-- **Rule 2:** Keep legs apart (protect the Adductors).
+- Rule 2: Keep legs apart (protect the Adductors).
 
-- **Rule 3:** Anchor the spasm (fight the Rebound).
+- Rule 3: Anchor the spasm (fight the Rebound).
 
 He looked at the clock. *09:15 AM.*
 
@@ -17287,15 +17287,15 @@ Nichole was there.
 
 She looked small in the center of the massive stretcher. Her legs were heavy logs, wrapped in thick white elastic compression bandages and encased in rigid blue foam knee immobilizers. The hamstring lengthening surgery had severed and reattached the tightest muscles in her body. The nerve endings were currently screaming.
 
-Patrick didn't look at her face first. He looked at the overhead **GE Dash** monitor.
+Patrick didn't look at her face first. He looked at the overhead GE Dash monitor.
 
-- **HR:** 122 (Sinus Tachycardia).
+- HR: 122 (Sinus Tachycardia).
 
-- **BP:** 142/95 (Hypertensive).
+- BP: 142/95 (Hypertensive).
 
-- **RR:** 28 (Shallow, rapid).
+- RR: 28 (Shallow, rapid).
 
-- **O2 Sat:** 94% (Dropping slightly).
+- O2 Sat: 94% (Dropping slightly).
 
 "She's spiking," Patrick said instantly, his voice cutting through the ambient noise.
 
@@ -17323,11 +17323,11 @@ Becky looked at the monitor. Then she looked closer at Nichole’s hands. They w
 
 Patrick didn't let her finish. He reached into his back pocket and pulled out his wallet, flipping it open to the clear window.
 
-- **LICENSE: PRACTICAL NURSE**
+- *LICENSE: PRACTICAL NURSE*
 
-- **NAME: PATRICK BENNETT**
+- *NAME: PATRICK BENNETT*
 
-- **STATUS: ACTIVE**
+- *STATUS: ACTIVE*
 
 "I'm an LPN," Patrick stated. "I'm her primary home care provider. I know her baseline, and I know the orders."
 
@@ -17355,9 +17355,9 @@ Thirty seconds.
 
 The drug hit the loop.
 
-- **HR:** 115... 108... 98.
+- HR: 115... 108... 98.
 
-- **RR:** 20 (Deepening).
+- RR: 20 (Deepening).
 
 On the bed, Nichole’s jaw unclenched. The roped muscles in her neck softened. Her eyelids fluttered, losing that glassy, thousand-yard stare of agony.
 
@@ -17379,7 +17379,7 @@ Patrick didn't look up from the monitor.
 
 "Not on my watch," he said.
 
-**Part 2: The Phase II Stand-Down** **Date:** Tuesday, December 27, 2005 **Time:** 11:15 AM **Location:** Phase II Recovery (Step-Down Unit), Bed 12
+Part 2: The Phase II Stand-Down Date: Tuesday, December 27, 2005 Time: 11:15 AM Location: Phase II Recovery (Step-Down Unit), Bed 12
 
 The environment in Phase II was different. The urgent, rhythmic beeping of the PACU was replaced by the quieter, steady hum of a medical-surgical ward. Patients here were sitting up, drinking ginger ale, and watching holiday movie reruns on the wall-mounted TVs.
 
@@ -17523,7 +17523,7 @@ Nichole took three steady sips. She didn't choke. She looked at Sarah and gave a
 
 She left the room.
 
-Patrick sat back down. He adjusted the **Abduction Wedge**—the triangular foam block placed between Nichole's knees to keep her hips wide.
+Patrick sat back down. He adjusted the Abduction Wedge—the triangular foam block placed between Nichole's knees to keep her hips wide.
 
 "See that?" Patrick pointed to the wedge. "That's your best friend for the next three days. It keeps the adductors from snapping back. Don't fight the foam."
 
@@ -17539,7 +17539,7 @@ The late afternoon light had long since vanished, leaving the hospital window a 
 
 Dr. Evans had kept Nichole two hours longer than the standard protocol.
 
-It wasn't a surgical complication. It was **Orthostatic Hypotension**. Around 4:00 PM, when they had tried to sit her up for the first time, her blood pressure had bottomed out (90/50), and she had gone pale. The combination of the anesthesia, the Morphine, and the sudden shift in gravity was too much for her system.
+It wasn't a surgical complication. It was Orthostatic Hypotension. Around 4:00 PM, when they had tried to sit her up for the first time, her blood pressure had bottomed out (90/50), and she had gone pale. The combination of the anesthesia, the Morphine, and the sudden shift in gravity was too much for her system.
 
 Dr. Evans had ordered: *"Lay her flat. Fluids wide open. Try again in two hours."*
 
@@ -17549,7 +17549,7 @@ Sarah walked in with a thick packet of paperwork and a pair of scissors.
 
 "Green light from Dr. Evans," Sarah announced, smiling tiredly. "BP is holding steady. Discharge orders are signed. You guys are parolees."
 
-Patrick stood up from his command post in the corner. He didn't just grab his bag. He walked to the bedside to oversee the **"De-tethering Protocol."**
+Patrick stood up from his command post in the corner. He didn't just grab his bag. He walked to the bedside to oversee the "De-tethering Protocol."
 
 "Okay, Nichole," Sarah said. "I'm going to take this IV out. Deep breath."
 
@@ -17568,9 +17568,9 @@ Next came the logistics.
 
 Patrick rolled Nichole’s personal manual wheelchair into the room. It wasn't in its standard configuration. He had modified it specifically for this night.
 
-- **Leg Rests:** He had installed **Elevating Leg Rests (ELRs)**—long, padded troughs that could be raised to horizontal.
+- Leg Rests: He had installed Elevating Leg Rests (ELRs)—long, padded troughs that could be raised to horizontal.
 
-- **Cushion:** He had swapped her standard gel cushion for a **Roho Air Cushion** to distribute pressure better during the bumpy ride.
+- Cushion: He had swapped her standard gel cushion for a Roho Air Cushion to distribute pressure better during the bumpy ride.
 
 "Okay, Sarah," Patrick said. "I need one assist for a Slide Board transfer. Her knees are locked at zero degrees. We can't do a pivot."
 
@@ -17598,11 +17598,11 @@ She lifted the blue foam-encased legs and placed them gently onto the elevated c
 
 Patrick checked the alignment.
 
-- **Hips:** 90 degrees.
+- Hips: 90 degrees.
 
-- **Knees:** 0 degrees (Straight).
+- Knees: 0 degrees (Straight).
 
-- **Ankles:** Neutral.
+- Ankles: Neutral.
 
 "Perfect alignment," Patrick judged. "Good transfer."
 
@@ -17619,7 +17619,7 @@ She handed him a second, smaller envelope.
 
 "And here is the hard copy prescription for the breakthrough meds. Percocet 5/325. Dr. Evans wrote for thirty tabs."
 
-Patrick took the envelope. He didn't just stuff it in his pocket. He opened the binder. He punched holes in the envelope and clipped it securely into the **"Pharmacy"** tab.
+Patrick took the envelope. He didn't just stuff it in his pocket. He opened the binder. He punched holes in the envelope and clipped it securely into the "Pharmacy" tab.
 
 "Received," Patrick said. "Is the outpatient pharmacy in the lobby still open? It's after six."
 
@@ -17666,7 +17666,7 @@ By the time Patrick pulled the van into the covered garage of the Foundry Lofts,
 
 But now came the moment Patrick had been dreading since they left the PACU.
 
-For nineteen years, their transfer protocol had been the **"Deadlift Hug."** It was fast, intimate, and secure. He would scoop her up, she would wrap her arms around his neck, and for five seconds, she was weightless. It was the only way she liked to be moved.
+For nineteen years, their transfer protocol had been the "Deadlift Hug." It was fast, intimate, and secure. He would scoop her up, she would wrap her arms around his neck, and for five seconds, she was weightless. It was the only way she liked to be moved.
 
 But looking at her legs now—stuck straight out in rigid blue foam immobilizers—Patrick knew the hug was impossible.
 
@@ -17680,7 +17680,7 @@ Patrick shook his head gently.
 
 Nichole made a frustrated noise in her throat. She hated "clinical" transfers. They felt cold. They felt like being handled by a stranger.
 
-"We have to do it by the book," Patrick said, effectively putting his LPN hat on. "**Orthopedic Plank Protocol.** It’s going to feel stiff. It’s going to feel weird. But it keeps your legs straight."
+"We have to do it by the book," Patrick said, effectively putting his LPN hat on. "Orthopedic Plank Protocol. It’s going to feel stiff. It’s going to feel weird. But it keeps your legs straight."
 
 He deployed the modified manual wheelchair parallel to the sliding door and locked the brakes. He removed the armrest to create a bridge.
 
@@ -17746,7 +17746,7 @@ Nichole nodded weakly. She looked at the toilet. With her legs locked straight i
 
 Patrick didn't guess. He washed his hands at the sink—thirty seconds, hot water, soap—and dried them thoroughly. He snapped on a pair of latex-free exam gloves.
 
-"Okay, Nikki," Patrick said, his voice dropping into his assessment register. "We're going to do a **Modified Stand-Pivot** to the toilet. I need you to keep your legs fully extended. Do not try to help with your lower body. All weight on me."
+"Okay, Nikki," Patrick said, his voice dropping into his assessment register. "We're going to do a Modified Stand-Pivot to the toilet. I need you to keep your legs fully extended. Do not try to help with your lower body. All weight on me."
 
 He removed the wheelchair armrest. He positioned the chair at a 45-degree angle to the toilet.
 
@@ -17798,7 +17798,7 @@ He lifted her rigid legs, placing them gently on the pillow stack. The elevation
 
 Nichole lay back, exhausted. The pain was creeping back in—the car ride had burned through the last dose of hospital meds.
 
-Patrick walked to the desk. He didn't grab a scrap of paper. He opened a dedicated three-ring binder: **THE CHART**.
+Patrick walked to the desk. He didn't grab a scrap of paper. He opened a dedicated three-ring binder: THE CHART.
 
 He picked up a pen.
 
@@ -17812,19 +17812,19 @@ Nichole blinked rapidly. *Six times. Seven.*
 
 He unlocked the small, fireproof lockbox on the nightstand (Narcotic Control Protocol). He pulled out the bottle of liquid Morphine Sulfate (which the hospital pharmacy had dispensed for easier swallowing) and the muscle relaxant (Diazepam).
 
-He measured the morphine with an oral syringe. **5 mL.** Exact.
+He measured the morphine with an oral syringe. 5 mL. Exact.
 
-He checked the **"Five Rights"** of medication administration, even though he was the only nurse in the room:
+He checked the "Five Rights" of medication administration, even though he was the only nurse in the room:
 
-1.  **Right Patient:** Nichole.
+1.  Right Patient: Nichole.
 
-2.  **Right Drug:** Morphine Sulfate (Liquid).
+2.  Right Drug: Morphine Sulfate (Liquid).
 
-3.  **Right Dose:** 10mg (5 mL).
+3.  Right Dose: 10mg (5 mL).
 
-4.  **Right Route:** Oral / Sublingual.
+4.  Right Route: Oral / Sublingual.
 
-5.  **Right Time:** 19:30 (Last dose was in PACU/Recovery).
+5.  Right Time: 19:30 (Last dose was in PACU/Recovery).
 
 "Open," Patrick said gently.
 
@@ -17834,7 +17834,7 @@ He slid the syringe into the side of her mouth, depressing the plunger slowly so
 
 He turned back to the binder. He wrote in the log:
 
-**DATE:** 12/27/05 **TIME:** 19:30 **VITALS:** HR 98, RR 20 (Pain elevated). **INTAKE:** Tolerated 5mL Morphine PO + 5mg Diazepam in sauce. **OUTPUT:** Voided x1 (large), BM x1 (soft/formed). **SKIN:** Intact. Surgical sites clean/dry. **NOTES:** Pt. transferred to bed via pivot. Legs elevated 20 degrees. Heel protectors applied. **SIGNATURE:** P. Bennett, LPN
+DATE: 12/27/05 TIME: 19:30 VITALS: HR 98, RR 20 (Pain elevated). INTAKE: Tolerated 5mL Morphine PO + 5mg Diazepam in sauce. OUTPUT: Voided x1 (large), BM x1 (soft/formed). SKIN: Intact. Surgical sites clean/dry. NOTES: Pt. transferred to bed via pivot. Legs elevated 20 degrees. Heel protectors applied. SIGNATURE: P. Bennett, LPN
 
 He closed the binder. The "By The Book" shift was complete.
 
@@ -17870,7 +17870,7 @@ The lamp clicked on. Nichole was arching her back, her face contorted in a silen
 
 He glanced at the digital clock. The red numbers were glowing steady. *Thank God.* The power was still on. The heat was still humming. If they had lost power in this cold, with her in this state, it would have been a 911 call.
 
-He grabbed the med schedule from the nightstand. **Diazepam.** Due at 02:15. She was fifteen minutes early, but the spasm didn't care about the clock.
+He grabbed the med schedule from the nightstand. Diazepam. Due at 02:15. She was fifteen minutes early, but the spasm didn't care about the clock.
 
 He grabbed the orange bottle. He took out the white pill. He didn't try to give it to her whole—swallowing a pill while lying flat and sobbing was a choking hazard.
 
@@ -17906,7 +17906,7 @@ He used his own body weight to anchor her jumping leg.
 
 "I got you," he whispered, wrapping his arm around her shoulders, holding her tight to stop the shaking. "I'm the anchor. Push against me."
 
-The weight of his leg provided **proprioceptive feedback**—it told her confused nervous system where her leg was in space. It stopped the "jump-reflex."
+The weight of his leg provided proprioceptive feedback—it told her confused nervous system where her leg was in space. It stopped the "jump-reflex."
 
 The warmth of his body seeped into her side, fighting the chill of the drafty room.
 
@@ -17957,7 +17957,7 @@ Nichole gave a small, tired smile. She typed on her VocaLink, which was mounted 
 
 "We're keeping it low-key," Mark said, taking off his coat. "We just wanted to see the patient before the ball drops."
 
-Patrick guided them to the kitchen island, away from Nichole’s immediate personal space. This was the strategy: **Divide and Conquer.**
+Patrick guided them to the kitchen island, away from Nichole’s immediate personal space. This was the strategy: Divide and Conquer.
 
 The family chatted in the kitchen—Uncle Mark asking Patrick about the "nursing thing" and if he was *really* doing all the wound care himself (to which Patrick simply showed him the logbook, shutting down any doubt).
 
@@ -18017,7 +18017,7 @@ Outside, fireworks popped over the Providence River, dull thuds against the bric
 
 "Three... Two... One..."
 
-**HAPPY NEW YEAR!**
+*HAPPY NEW YEAR!*
 
 On the screen, crowds cheered. Confetti fell.
 
@@ -18035,7 +18035,7 @@ Nichole took a sip of cider. She looked at her legs—straight, heavy, and hurti
 
 She moved her hand to her device. She didn't type a long sentence. She just typed two words.
 
-**BETTER. SEAT.**
+*BETTER. SEAT.*
 
 Patrick smiled. He knew exactly what she meant. It wasn't about walking away; it was about sitting without pain.
 
@@ -18062,7 +18062,7 @@ Tom watched from the hallway. "Do you want me to help lift?"
 
 "No," Patrick said, cracking his knuckles. "You guys head to the guest room. Too many hands will wake her up fully. I need to keep her in the 'twilight zone' so she goes right back down."
 
-He walked over to the recliner. He crouched down so his face was level with hers. He didn't shake her this time. He used the **Tactile Cue**—a firm, grounding squeeze on her shoulder.
+He walked over to the recliner. He crouched down so his face was level with hers. He didn't shake her this time. He used the Tactile Cue—a firm, grounding squeeze on her shoulder.
 
 "Nikki," Patrick murmured, his voice low and vibrating against her ear. "Mission isn't over. Transfer to base."
 
@@ -18102,31 +18102,31 @@ He closed his eyes. The Machine powered down.
 
 #### The Winter Siege
 
-The novelty of the "New Year" had worn off. The adrenaline of the surgery was gone. Now, it was just the **Grind**.
+The novelty of the "New Year" had worn off. The adrenaline of the surgery was gone. Now, it was just the Grind.
 
 Outside the massive industrial windows, the Rhode Island winter was living up to its reputation. The sky was a flat, bruised gray, and the wind whipped snow against the brickwork.
 
 Inside, the loft was a warm, regulated capsule.
 
-Patrick had established a **"Battle Rhythm"** on the whiteboard near the kitchen:
+Patrick had established a "Battle Rhythm" on the whiteboard near the kitchen:
 
-- **08:00:** Meds & Breakfast.
+- 08:00: Meds & Breakfast.
 
-- **09:00:** Hygiene & Dressing.
+- 09:00: Hygiene & Dressing.
 
-- **10:00:** Prone Positioning (Tummy Time) - *Current Activity*.
+- 10:00: Prone Positioning (Tummy Time) - *Current Activity*.
 
-- **12:00:** Lunch.
+- 12:00: Lunch.
 
-- **14:00:** Nap.
+- 14:00: Nap.
 
-- **16:00:** Passive Range of Motion (PROM).
+- 16:00: Passive Range of Motion (PROM).
 
-**The Activity: Prone Lying** Nichole was currently lying on her stomach on the living room rug, which was padded with three comforters to protect her hips.
+The Activity: Prone Lying Nichole was currently lying on her stomach on the living room rug, which was padded with three comforters to protect her hips.
 
 This was the most important—and most hated—part of the day.
 
-Because she spent her life sitting in a wheelchair, her **hip flexors** (the muscles at the front of her hips) were chronically tight. Now that her hamstrings were loose, Patrick had to stretch the front of her hips to match.
+Because she spent her life sitting in a wheelchair, her hip flexors (the muscles at the front of her hips) were chronically tight. Now that her hamstrings were loose, Patrick had to stretch the front of her hips to match.
 
 "Fifteen more minutes," Patrick called out from the kitchen, where he was washing the breakfast dishes.
 
@@ -18134,17 +18134,17 @@ Nichole groaned into her arm. She hated prone lying. It was boring. It put press
 
 She reached out with a trembling hand and pulled her "voice" closer.
 
-It wasn't a high-tech computer. It was **The Board**.
+It wasn't a high-tech computer. It was The Board.
 
 It was a relic from elementary school—a heavy, black plastic kitchen cutting board with a handle on the left side. Over the years, it had become an extension of her body.
 
-- **The Center:** A grid of yellow-on-black QWERTY keyboard stickers, worn smooth from years of pointing.
+- The Center: A grid of yellow-on-black QWERTY keyboard stickers, worn smooth from years of pointing.
 
-- **The Left Flank (Green Tape):** Shortcuts for **YES**, **BATHROOM**, and **THIRST**.
+- The Left Flank (Green Tape): Shortcuts for YES, BATHROOM, and THIRST.
 
-- **The Right Flank (Red Tape):** Shortcuts for **NO**, **PAIN**, and **MOVE ME**.
+- The Right Flank (Red Tape): Shortcuts for NO, PAIN, and MOVE ME.
 
-- **The Borders:** Thick strips of glow-in-the-dark tape, ensuring she could speak even in the pitch black of a power outage.
+- The Borders: Thick strips of glow-in-the-dark tape, ensuring she could speak even in the pitch black of a power outage.
 
 She tapped the board hard. *Thwack. Thwack.*
 
@@ -18154,17 +18154,17 @@ Patrick dried his hands and walked over. He didn't stand over her; he squatted d
 
 Nichole didn't look at him. She looked at the board. Her index finger hovered, then struck.
 
-**B - O - R - E - D**
+*B - O - R - E - D*
 
-She moved her finger to the top right corner, tapping the red **PAIN** box, then moved it back to the letters.
+She moved her finger to the top right corner, tapping the red PAIN box, then moved it back to the letters.
 
-**H - I - P - S**
+*H - I - P - S*
 
 "I know the hips hurt," Patrick said softly. "But if we don't stretch them, the hamstrings will just tighten up again to compensate. It’s physics."
 
 Nichole sighed, her breath dusting the floorboards. She moved her finger again.
 
-**T - V ?**
+T - V ?
 
 "You've watched every episode of that science explosion show twice," Patrick smiled. "And we finished the audiobook."
 
@@ -18176,19 +18176,19 @@ Nichole’s eyes lit up. *Creative work.* That was the energy she had back.
 
 But she had one more question.
 
-She pointed to her legs, still encased in the massive **Blue Foam Immobilizers**.
+She pointed to her legs, still encased in the massive Blue Foam Immobilizers.
 
 Then, she moved her hand back to the board. She didn't spell. She slammed her finger onto the bottom right corner shortcut:
 
-**MOVE ME**
+MOVE ME
 
-She hit it again. **MOVE ME**.
+She hit it again. MOVE ME.
 
 She wasn't asking to be repositioned on the rug. She was asking to be moved out of the braces. Out of the apartment. Out of the siege.
 
 "Dr. Evans says two more weeks for the day shift," Patrick reminded her gently. "We go down to 'Night Only' on February 1st. Until then, you're a statue."
 
-Nichole glared at the board. She tapped **N - O**.
+Nichole glared at the board. She tapped N - O.
 
 "I know," Patrick said, reaching out to squeeze her hand, grounding her. "But we have supplies. We have heat. And we have the story. We don't need the outside world."
 
@@ -18218,11 +18218,11 @@ Dr. Evans had been very clear: *“She’s not moving, so her gut isn't moving. 
 
 Patrick placed two identical bowls on the counter.
 
-- **The Main:** A warm, pureed lentil and vegetable soup. (Easy to swallow, high protein for tissue repair, massive fiber content).
+- The Main: A warm, pureed lentil and vegetable soup. (Easy to swallow, high protein for tissue repair, massive fiber content).
 
-- **The Side:** A small scoop of soft scrambled eggs (Albumin for healing).
+- The Side: A small scoop of soft scrambled eggs (Albumin for healing).
 
-- **The Drink:** A tall glass of water with a measured scoop of Miralax dissolved in it (The "Stool Softener Cocktail").
+- The Drink: A tall glass of water with a measured scoop of Miralax dissolved in it (The "Stool Softener Cocktail").
 
 Patrick sat down on the barstool next to her. He had the exact same bowl. The exact same eggs.
 
@@ -18230,7 +18230,7 @@ Nichole looked at her bowl. She looked at his bowl.
 
 She moved her hand to her letter board, which he had placed on the counter next to her.
 
-**B - L - A - N - D**
+*B - L - A - N - D*
 
 "I know," Patrick admitted, taking a spoonful of his own soup. "It's not pizza. But pizza is a 'binding agent.' If we eat pizza, you don't poop for three days. If you don't poop, your stomach pushes on your diaphragm, and your spasticity goes through the roof."
 
@@ -18246,7 +18246,7 @@ She looked at Patrick. He was eating the same "clinical" sludge with gusto. He w
 
 She tapped the board again.
 
-**S - O - L - I - D - A - R - I - T - Y**
+*S - O - L - I - D - A - R - I - T - Y*
 
 Patrick smiled, clinking his spoon against hers.
 
@@ -18272,17 +18272,17 @@ Patrick cleared the lunch bowls. The "Fueling" was complete. Now came the Work.
 
 He didn't move her back to the rug yet. He adjusted the recliner to a semi-upright position—high enough to type, but reclined enough to take the pressure off her hips. He checked the blue foam blocks. *Alignment perfect.*
 
-He went to the desk and grabbed her laptop: the **Apex ConvertiBook**. It was a heavy, slate-gray machine with a rotating screen hinge that felt like it belonged on a tank.
+He went to the desk and grabbed her laptop: the Apex ConvertiBook. It was a heavy, slate-gray machine with a rotating screen hinge that felt like it belonged on a tank.
 
 He placed it on the swing-arm tray table he had rigged to the chair.
 
-He pressed the power button. The fan whirred to life, sounding like a miniature turbine. The screen flickered, displaying the familiar rolling green hills of the default wallpaper for **Quantum OS XN Professional**.
+He pressed the power button. The fan whirred to life, sounding like a miniature turbine. The screen flickered, displaying the familiar rolling green hills of the default wallpaper for Quantum OS XN Professional.
 
 The startup chime played—a synthesizer swell that signaled "productivity."
 
-Patrick grabbed the external mouse (the trackpad was too frustrating for Nichole’s intention tremor) and clicked the **Quantum Menu** in the bottom left corner.
+Patrick grabbed the external mouse (the trackpad was too frustrating for Nichole’s intention tremor) and clicked the Quantum Menu in the bottom left corner.
 
-**Quantum Menu \> Programs \> Quantum Suite 2003 \> Quantum WritePad.**
+Quantum Menu \> Programs \> Quantum Suite 2003 \> Quantum WritePad.
 
 The document opened: *The_Rusty_Star_Draft_01.qdoc*.
 
@@ -18294,23 +18294,23 @@ She looked at her hands. They were trembling slightly. She took a deep breath, c
 
 She highlighted a section in the "Story Bible" document open in a separate window.
 
-**The Ship:** The Silt is a dense, highly magnetized particulate cloud that chewed up digital sensors and clogged ion intakes.
+The Ship: The Silt is a dense, highly magnetized particulate cloud that chewed up digital sensors and clogged ion intakes.
 
-She moved her hand to the **Letter Board** resting on her lap. Her finger flew to the letters.
+She moved her hand to the Letter Board resting on her lap. Her finger flew to the letters.
 
-**F - I - L - T - E - R - S**
+*F - I - L - T - E - R - S*
 
 "The filters," Patrick nodded, reading the lore. "Bram said they were at eighty percent before they landed. If they sit in the dust, the intakes will choke."
 
 Nichole nodded. She tapped the board again.
 
-**E - V - A**
+E - V - A
 
 "Extravehicular Activity?" Patrick asked. "You want to send one of them outside? In the magnetic storm?"
 
-Nichole tapped **Y - E - S**. She pointed to the character profile on the screen.
+Nichole tapped Y - E - S. She pointed to the character profile on the screen.
 
-**B - R - A - M**
+*B - R - A - M*
 
 "Bram goes out," Patrick agreed. "Because Kae is the pilot. She has to monitor the life support from the cockpit. And Bram is the Mechanic. It’s his job to get dirty."
 
@@ -18329,11 +18329,11 @@ Nichole stopped. Her hand hovered over the keyboard. She looked frustrated.
 
 She went to the board.
 
-**F - E - E - L - I - N - G ?**
+*F - E - E - L - I - N - G ?*
 
 "How does Kae feel?" Patrick asked.
 
-Nichole nodded. She hit the red **PAIN** shortcut, then spelled **S - C - A - R - E - D**.
+Nichole nodded. She hit the red PAIN shortcut, then spelled *S - C - A - R - E - D*.
 
 "She's terrified," Patrick narrated, translating her intent. "Because he's outside the armor. If his suit rips, he's gone. And she can't reach him."
 
@@ -18353,13 +18353,13 @@ Nichole paused. She looked at the word "Anchored."
 
 She turned to Patrick. She pointed to him, then pointed to the screen.
 
-**Y - O - U**
+Y - O - U
 
 Patrick smiled, a soft, sad smile. He saw it. The fiction wasn't just a story; it was a mirror.
 
 "I'm always anchored, Nikki," Patrick whispered. "I'm not going drifting."
 
-He reached out and hit the **Save** icon (the little floppy disk) on the toolbar.
+He reached out and hit the Save icon (the little floppy disk) on the toolbar.
 
 "That's a good start," Patrick said. "But we need a complication. The Silt is magnetic, right? What happens if the magnets in his boots fail?"
 
@@ -18367,15 +18367,15 @@ Nichole’s eyes widened. *Conflict.*
 
 She went to the board, her finger moving faster now, energized by the danger.
 
-**D - R - I - F - T**
+*D - R - I - F - T*
 
-**T - E - T - H - E - R**
+*T - E - T - H - E - R*
 
 "The tether snaps," Patrick improvised. "He starts drifting away from the hull. Kae has to make a choice. Fire the thrusters to catch him—which reveals their thermal signature to Providence—or let him go."
 
-Nichole shook her head violently. She slammed her hand on the **NO** shortcut.
+Nichole shook her head violently. She slammed her hand on the NO shortcut.
 
-**N - E - V - E - R**
+*N - E - V - E - R*
 
 She typed furiously, ignoring the tremor.
 
@@ -18413,7 +18413,7 @@ Nichole froze. Her hands, which had been resting on the laptop keyboard, curled 
 
 Nichole let out a frustrated, guttural sound—a low groan of protest. She looked at the Letter Board. She slammed her finger onto the red tape.
 
-**N - O**
+N - O
 
 "I know," Patrick said, standing up and unlocking the brakes on her wheelchair. "I know you hate it. I hate it too. But the hamstrings are like wet cement right now. If we don't move them before they set, they harden short. And if they harden short, the surgery was for nothing."
 
@@ -18426,7 +18426,7 @@ Patrick stood at the foot of the bed. He took a deep breath.
 
 "Okay. Removing the armor."
 
-He undid the heavy hook-and-loop straps of the **Blue Foam Immobilizers**. *Rip. Rip. Rip.*
+He undid the heavy hook-and-loop straps of the Blue Foam Immobilizers. *Rip. Rip. Rip.*
 
 He carefully slid the foam troughs out from under her legs.
 
@@ -18445,7 +18445,7 @@ Patrick moved to her right side. He slipped one hand under her heel and the othe
 
 He lifted her leg. The knee stayed straight. He raised it to 20 degrees. 30 degrees.
 
-At 40 degrees, he hit the **"End Feel"**—the point where the muscle physically stopped stretching.
+At 40 degrees, he hit the "End Feel"—the point where the muscle physically stopped stretching.
 
 Nichole hissed through her teeth. Her hands gripped the duvet covers, her knuckles turning white. Her eyes squeezed shut.
 
@@ -18517,9 +18517,9 @@ It was the only communication needed.
 
 ### Part 2: The Downgrade
 
-The calendar on the wall had a big red circle around **FEB 14**.
+The calendar on the wall had a big red circle around FEB 14.
 
-It wasn't for Valentine's Day. Neither of them had dates. It was for **"Day Release."**
+It wasn't for Valentine's Day. Neither of them had dates. It was for "Day Release."
 
 Dr. Evans had given the order over the phone yesterday: *“Soft tissue healing is sufficient. We need to start loading the joints. Switch to Night Splinting only.”*
 
@@ -18527,15 +18527,15 @@ Patrick stood in the living room. The wheelchair was parked in the center of the
 
 He had spent the morning modifying it.
 
-- **Removed:** The long, elevating leg rests (ELRs) that made the chair look like a recliner.
+- Removed: The long, elevating leg rests (ELRs) that made the chair look like a recliner.
 
-- **Installed:** The standard, 70-degree swing-away footrests.
+- Installed: The standard, 70-degree swing-away footrests.
 
 The chair was back to its "Active" configuration.
 
 "Okay, Nikki," Patrick said, walking into the bedroom. "Happy Independence Day."
 
-Nichole was lying in bed, still strapped into the **Blue Foam Immobilizers**. She looked at the ceiling, then at him. She didn't look excited. She looked nervous.
+Nichole was lying in bed, still strapped into the Blue Foam Immobilizers. She looked at the ceiling, then at him. She didn't look excited. She looked nervous.
 
 For six weeks, those braces had held her knees perfectly straight. She had forgotten how to hold them herself.
 
@@ -18568,11 +18568,11 @@ Patrick lowered her hips into the back of the seat. He guided her feet onto the 
 
 He knelt down to check the angles.
 
-- **Hips:** 90 degrees. Back against the upholstery.
+- Hips: 90 degrees. Back against the upholstery.
 
-- **Knees:** 90 degrees. Bent naturally over the edge of the seat.
+- Knees: 90 degrees. Bent naturally over the edge of the seat.
 
-- **Feet:** Flat on the plastic plates.
+- Feet: Flat on the plastic plates.
 
 He waited for the slide. He waited for the spasm to kick in and push her out of the chair.
 
@@ -18594,19 +18594,19 @@ Nichole took a shaky breath. She looked at her knees. They looked small and knob
 
 She tapped the board.
 
-**W - E - I - R - D**
+*W - E - I - R - D*
 
 She paused, moving her finger to the green tape.
 
-**P - A - I - N ?**
+*P - A - I - N ?*
 
 She hesitated. There was a dull ache behind her knees—the feeling of the tendons being stretched in a new way—but it wasn't the sharp, tearing pain of before.
 
-She tapped **N - O**.
+She tapped N - O.
 
 Then she spelled:
 
-**L - O - O - S – E**
+*L - O - O - S – E*
 
 "Loose is good," Patrick said, standing up and locking the footplates in place. "Loose means we won. But now comes the hard part."
 
@@ -18616,7 +18616,7 @@ He pointed to the blue foam braces lying on the bed.
 
 Nichole glared at the braces. She hated them. She tapped the board violently.
 
-**F - O - R - E - V - E - R ?**
+*F - O - R - E - V - E - R ?*
 
 Patrick shook his head.
 
@@ -18624,7 +18624,7 @@ Patrick shook his head.
 
 He held up a finger.
 
-"Dr. Evans said **one year**. If we keep them straight every night for a year, the brain will finally stop fighting us. Then we can burn them."
+"Dr. Evans said one year. If we keep them straight every night for a year, the brain will finally stop fighting us. Then we can burn them."
 
 Nichole looked at the braces. *One year.*
 
@@ -18634,7 +18634,7 @@ It was a long time. But it wasn't forever. It was a lease, not a mortgage.
 
 She looked at Patrick. She held up one finger. *One year.*
 
-She tapped **O - K**.
+She tapped O - K.
 
 "Good," Patrick said. "Now, since you are officially 'Day Release,' we have a new exercise."
 

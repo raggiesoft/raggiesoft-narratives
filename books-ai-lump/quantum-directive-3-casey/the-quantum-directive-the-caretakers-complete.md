@@ -1646,11 +1646,11 @@ She didn't even look away from the monitor as we walked in. "How were the stingr
 
 Casey tilted her head, analyzing the structure on the screen. "You have completely stripped the standard Quantum Foundation Classes. The C-Runtime library is absent."
 
-"Yep," Cassandra grinned, a vicious, competitive gleam in her eye. "I ripped all of QFC out. Standard libraries waste too much memory space initializing heaps I don't need. Because the runtime is gone, the compiler doesn't even know what `q32main()` is anymore."
+"Yep," Cassandra grinned, a vicious, competitive gleam in her eye. "I ripped all of QFC out. Standard libraries waste too much memory space initializing heaps I don't need. Because the runtime is gone, the compiler doesn't even know what q32main() is anymore."
 
 "How does the operating system loader initialize the executable?" Casey asked, leaning closer to the screen. 
 
-"I bypassed it," Cassandra said, tapping her fingernail against a specific line of code on the CRT monitor. "I wrote a naked function called `CatalystEntry` and passed a custom `/ENTRY` flag directly to the linker. When Quantum OS launches this, it jumps straight to my raw function. No overhead, no runtime bloat. Just pure, direct calls to the Q32API."
+"I bypassed it," Cassandra said, tapping her fingernail against a specific line of code on the CRT monitor. "I wrote a naked function called CatalystEntry and passed a custom /ENTRY flag directly to the linker. When Quantum OS launches this, it jumps straight to my raw function. No overhead, no runtime bloat. Just pure, direct calls to the Q32API."
 
 I stared at her, deeply impressed. Defining your own memory entrypoint just to save a few kilobytes of space was an astonishing level of architectural control. It was the programming equivalent of manually calculating your own orbital insertion trajectory because you didn't trust the automated navigation computers. 
 
@@ -5247,9 +5247,9 @@ Liz untangled herself from the blankets and grabbed the silver laptop, bringing 
 
 "Medina is highly optimal from a transit perspective," Cassandra conceded, pulling up the TAPS route maps in a new tab to cross-reference the data. She tapped the screen to highlight the intersecting transit lines.
 
-- **The Commute to Northwest Pacific University:** "If we anchored in Medina, David and Liz could simply walk to the main road and catch the 271 bus going straight across the SR-520 floating bridge. It would drop you directly on the NPU campus in Seattle."
+- The Commute to Northwest Pacific University: "If we anchored in Medina, David and Liz could simply walk to the main road and catch the 271 bus going straight across the SR-520 floating bridge. It would drop you directly on the NPU campus in Seattle."
 
-- **The Commute to Quantum:** "At the exact same time, I could catch the 271 heading the opposite direction. It would take me to the Bellevue Transit Center, where I could easily transfer to an express route up to the Overlake Transit Center, right next to Building 33."
+- The Commute to Quantum: "At the exact same time, I could catch the 271 heading the opposite direction. It would take me to the Bellevue Transit Center, where I could easily transfer to an express route up to the Overlake Transit Center, right next to Building 33."
 
 "That is a flawless pipeline," I admitted, my processor instantly recognizing the beauty of the transit architecture. "One bus route serves the entire pack in opposite directions."
 
@@ -5495,11 +5495,11 @@ Casey let out a massive, uncontained squeal of excitement, throwing her arms aro
 
 "Not quite, but because we utilized a cash strike, the timeline is radically accelerated," Cassandra explained, effortlessly shifting into logistical mode to break down the real estate mechanics for us.
 
-- **The Earnest Money Wire:** "The immediate next step happens tomorrow morning. I have to fund the escrow account to legally lock the contract. I will contact the priority desk at Quantum Employees Federal Credit Union and authorize an immediate, \$100,000 wire transfer directly to the title company."
+- The Earnest Money Wire: "The immediate next step happens tomorrow morning. I have to fund the escrow account to legally lock the contract. I will contact the priority desk at Quantum Employees Federal Credit Union and authorize an immediate, \$100,000 wire transfer directly to the title company."
 
-- **The Title Search:** "Normally, this is where a bank would demand an appraisal and loan underwriting, which takes a month. We are bypassing all of that. The only thing the title company has to do is verify the legal deed and ensure the seller doesn't have any hidden liens or unpaid taxes attached to the property."
+- The Title Search: "Normally, this is where a bank would demand an appraisal and loan underwriting, which takes a month. We are bypassing all of that. The only thing the title company has to do is verify the legal deed and ensure the seller doesn't have any hidden liens or unpaid taxes attached to the property."
 
-- **The Accelerated Closing:** "Because I am paying cash and waived the inspection, the only limiting factor is how fast the title company can process the paperwork. We will likely close and have the physical keys in our hands in less than fourteen days."
+- The Accelerated Closing: "Because I am paying cash and waived the inspection, the only limiting factor is how fast the title company can process the paperwork. We will likely close and have the physical keys in our hands in less than fourteen days."
 
 "Fourteen days?" I repeated, my processor running the calendar math. "That means we take possession of the house right after New Year's."
 
@@ -5549,7 +5549,7 @@ We stepped off the 194 into the damp, misty night, walking across the transit ce
 
 A few minutes later, a standard, slightly older transit bus pulled up to the curb. I looked up at the glowing orange destination sign above the windshield and immediately froze.
 
-**174 SEATTLE**
+174 SEATTLE
 
 I looked at Liz, who looked equally confused. I turned back to my older sister. "Cass, we just *came* from Seattle. Are we getting on the wrong bus? Is this going backward?"
 
@@ -5633,29 +5633,29 @@ Casey’s eyes lit up. She quickly rinsed, spit, and jogged into her bedroom, re
 
 She laid out the grid for us, and my processor almost stalled just looking at the sheer academic weight she was carrying:
 
-**The Daily Anchor**
+The Daily Anchor
 
-- **7:00 AM - Zero Period (Every Day):** AP Calculus BC
+- 7:00 AM - Zero Period (Every Day): AP Calculus BC
 
-**The A Day Blocks (Wednesdays & Fridays)**
+The A Day Blocks (Wednesdays & Fridays)
 
-- **Block 1:** AP Physics C
+- Block 1: AP Physics C
 
-- **Block 2:** AP English Literature
+- Block 2: AP English Literature
 
-- **Block 3:** Advanced Symphonic Band
+- Block 3: Advanced Symphonic Band
 
-- **Block 4:** Advanced Computer Science
+- Block 4: Advanced Computer Science
 
-**The B Day Blocks (Tomorrow & Tuesdays)**
+The B Day Blocks (Tomorrow & Tuesdays)
 
-- **Block 5:** AP Government & Politics
+- Block 5: AP Government & Politics
 
-- **Block 6:** AP Chemistry
+- Block 6: AP Chemistry
 
-- **Block 7:** French III (Québécois Track)
+- Block 7: French III (Québécois Track)
 
-- **Block 8:** Independent Study (Her designated sensory decompression hour)
+- Block 8: Independent Study (Her designated sensory decompression hour)
 
 "Wait, back up," I interrupted, my finger tapping directly on her Block 3 assignment. "Advanced Symphonic Band? You're still doing music?"
 
@@ -5727,7 +5727,7 @@ Dad hugged me, clapping me on the shoulder, before leaning down to hug Cassandra
 
 "Flawless execution," Cassandra confirmed, before pointing a gloved finger down the road. "And right on time."
 
-Pulling up to the curb, hissing as its air brakes engaged, was the massive blue-and-white Ocean State Transit Authority bus. The digital marquee above the windshield glowed brightly in the gray afternoon light: **12 NEWPORT EXPRESS**.
+Pulling up to the curb, hissing as its air brakes engaged, was the massive blue-and-white Ocean State Transit Authority bus. The digital marquee above the windshield glowed brightly in the gray afternoon light: *12 NEWPORT EXPRESS*.
 
 "Alright, pack," Cassandra commanded, pulling out a stack of pre-purchased OSTA transit passes. "Load your luggage into the lower bays and flash your passes to the driver. We have a bridge to cross."
 
@@ -6324,7 +6324,7 @@ Forty-five minutes later, the rest of the pack emerged from Oak & Iron Outfitter
 
 "Alright, that was successful," Erin declared, consulting her heavily annotated itinerary. "Casey, you've got one more priority pick before we hit the food court. Make it count."
 
-Casey scanned the upper concourse. Her eyes locked onto a storefront glowing with heavy blacklights and blaring alternative rock. **Neon Syndicate**. 
+Casey scanned the upper concourse. Her eyes locked onto a storefront glowing with heavy blacklights and blaring alternative rock. Neon Syndicate. 
 
 It was the mall's premier destination for pop-culture contraband. The front windows were crammed with lava lamps, heavily pierced mannequins, and walls of band tees, but everyone knew what kind of gag gifts and novelty items were stocked in the shadowy back half of the store.
 
@@ -6390,7 +6390,7 @@ The sheer volume of deep-fried seafood was the final nail in the coffin. By the 
 
 Five minutes later, the bus dropped us off beneath the massive concrete pillars of the elevated Oakhaven Metro Station. We took the glass accessibility elevator up to the open-air platform and immediately hit a massive logistical roadblock. 
 
-The digital departure boards hanging over the tracks were flashing a glaring red alert: **BTA MARINE DIVISION ALERT: ALL HARBOR FERRIES SUSPENDED. U.S. COAST GUARD GALE WARNING IN EFFECT FOR NARRAGANSETT BAY.**
+The digital departure boards hanging over the tracks were flashing a glaring red alert: *BTA MARINE DIVISION ALERT: ALL HARBOR FERRIES SUSPENDED. U.S. COAST GUARD GALE WARNING IN EFFECT FOR NARRAGANSETT BAY.*
 
 "You've got to be kidding me," Casey groaned, dropping her shopping bags onto the concrete platform. "How are we supposed to get back to the island?"
 
@@ -6402,15 +6402,15 @@ The digital departure boards hanging over the tracks were flashing a glaring red
 
 The journey that followed was a grueling, multi-modal endurance test. We took the inbound Metro train all the way into the cavernous, scaffolding-choked mess of Braxton Central Station. Navigating the sprawling construction maze with Cassandra's wheelchair and an armful of heavy shopping bags took nearly twenty minutes of fighting through chaotic crowds. 
 
-Eventually, we broke through to the regional bus terminal and boarded the **OSTA Route 14**—the Braxton Express. I collapsed into a seat next to Liz as the heavy commuter bus pushed its way out of the downtown traffic grid and accelerated south. 
+Eventually, we broke through to the regional bus terminal and boarded the OSTA Route 14—the Braxton Express. I collapsed into a seat next to Liz as the heavy commuter bus pushed its way out of the downtown traffic grid and accelerated south. 
 
-The Route 14 ran express all the way down the coast, finally dropping us off at the massive **Jamestown Bridge Park & Ride** interchange at I-895. 
+The Route 14 ran express all the way down the coast, finally dropping us off at the massive Jamestown Bridge Park & Ride interchange at I-895. 
 
-From there, we executed a seamless transfer onto the **OSTA Route 12**. Unlike the Route 64, which meanders slowly through Jamestown, the Route 12 was a hard express. It stayed locked on the I-895 highway, blasting non-stop over the bridge and dropping us directly into the Newport Gateway Center. 
+From there, we executed a seamless transfer onto the OSTA Route 12. Unlike the Route 64, which meanders slowly through Jamestown, the Route 12 was a hard express. It stayed locked on the I-895 highway, blasting non-stop over the bridge and dropping us directly into the Newport Gateway Center. 
 
 "One more transfer," Mr. Delaney called out over the freezing wind whipping off the Newport harbor. 
 
-We dragged ourselves onto the **OSTA Route 60**. Today, the bus was running its East Main Road branch, bypassing the coastal route entirely. We rode it all the way up Aquidneck Island, finally pulling the stop-request cord at the very last stop before the towering green structure of the Mount Hope Bridge. 
+We dragged ourselves onto the OSTA Route 60. Today, the bus was running its East Main Road branch, bypassing the coastal route entirely. We rode it all the way up Aquidneck Island, finally pulling the stop-request cord at the very last stop before the towering green structure of the Mount Hope Bridge. 
 
 By the time we navigated Cassandra's wheelchair down Mussel Bed Shoal Road and pushed through the front door of the Delaney house, the sun was already beginning to set. 
 
@@ -9581,7 +9581,7 @@ She unlocked her brakes and pushed herself slightly back from the table, ensurin
 
 Evelyn, the head of the board's finance committee, folded her hands. "Ms. Vance, Wall Street is going to panic when we announce we are cannibalizing the Quantum Phone. How do you intend to maintain shareholder confidence during a hardware retreat?"
 
-Cassandra didn't open a spreadsheet to answer. Instead, she reached into the inner pocket of her dark blazer, pulled out a sleek, glass-and-aluminum **MagnaByte mPhone**, and placed it dead center on the polished mahogany table.
+Cassandra didn't open a spreadsheet to answer. Instead, she reached into the inner pocket of her dark blazer, pulled out a sleek, glass-and-aluminum MagnaByte mPhone, and placed it dead center on the polished mahogany table.
 
 Several board members audibly gasped. It was the equivalent of placing a live hand grenade in the center of the room.
 
@@ -10681,15 +10681,15 @@ David and Liz stepped onto the platform, their fingers comfortably laced togethe
 
 To Cassandra Vance, a submitted corporate itinerary was not a set of loose suggestions; it was an absolute, mathematically precise contract of logistics. Months ago, Building 33 had sent the summit organizers her exact travel parameters:
 
-- **TRANSIT MODE:** ARTS Coast Starlight (Seattle King Street to San Jose Diridon)
+- TRANSIT MODE: ARTS Coast Starlight (Seattle King Street to San Jose Diridon)
 
-- **ARRIVAL LOCATION:** San Jose Diridon Station
+- ARRIVAL LOCATION: San Jose Diridon Station
 
-- **ONWARD CONNECTION:** SVTA Light Rail to McEnery Convention Center
+- ONWARD CONNECTION: SVTA Light Rail to McEnery Convention Center
 
-- **EQUIPMENT REQUIREMENT:** Level-boarding accessible transit required.
+- EQUIPMENT REQUIREMENT: Level-boarding accessible transit required.
 
-- **MEDICAL ACCOMMODATION:** Constant presence of David Vance (Licensed Practical Nurse) required. Zero separation permitted to ensure temperature-controlled medication administration and autonomic telemetry monitoring.
+- MEDICAL ACCOMMODATION: Constant presence of David Vance (Licensed Practical Nurse) required. Zero separation permitted to ensure temperature-controlled medication administration and autonomic telemetry monitoring.
 
 Because the instructions were flawlessly documented, Cassandra was blissfully unaware of the absolute chaos unfolding exactly three hundred yards away on the far eastern edge of the station. She had no idea that a panicked VIP logistics handler named Marcus was currently sweating through his tailored suit on Cahill Street, desperately guarding an idling, non-accessible Apex Mountaineer.
 
@@ -10733,7 +10733,7 @@ At 9:15 AM, Marcus was standing on the SJC tarmac, checking his Aethelgard chron
 
 Sweating slightly, Marcus finally opened the encrypted itinerary PDF sent by Quantum Corporate’s Building 33 three months ago. He scrolled past the stringent medical requirements regarding her LPN brother, down to the logistics header.
 
-**TRANSIT MODE:** TAPS Route 545 to Seattle King Street -> ARTS Coast Starlight to San Jose Diridon
+TRANSIT MODE: TAPS Route 545 to Seattle King Street -> ARTS Coast Starlight to San Jose Diridon
 
 Marcus stared at his tablet in sheer horror. *"She took a train?"* he hissed to his earpiece, waving frantically at his drivers. *"Who the hell takes a twenty-two-hour train ride?! Move! Move! We need to get to Diridon!"*
 
@@ -10765,7 +10765,7 @@ There was a long, excruciating pause on the line. Marcus could faintly hear the 
 
 Marcus blinked, pulling the PDF back up on his tablet. He scrolled past the ARTS Coast Starlight entry.
 
-**ONWARD CONNECTION:** SVTA Light Rail to McEnery Convention Center.
+ONWARD CONNECTION: SVTA Light Rail to McEnery Convention Center.
 
 "The... the light rail?" Marcus stammered, looking over his shoulder toward the western edge of the station, separated from him by a massive subterranean tunnel. "She's taking the municipal light rail?"
 
@@ -10813,7 +10813,7 @@ Anchored by Liz's unyielding protection, Cassandra’s polite, executive demeano
 
 Cassandra unlocked her brakes and pushed her wheelchair forward, physically placing her chair and her body as an impenetrable barricade between her fiercely protected family, her LPN's vital medical equipment, and the wall of lenses.
 
-"Lower the cameras. Turn off the flashes. **Right now**," Cassandra commanded.
+"Lower the cameras. Turn off the flashes. Right now," Cassandra commanded.
 
 She didn't shout. She dropped her voice into a glacial, terrifying register that somehow cut entirely through the cacophony of the press pool. It carried the absolute, undeniable weight of a trillion-dollar empire.
 
@@ -10823,7 +10823,7 @@ As the flashes ceased and David's breathing began to steady behind her, Cassandr
 
 With slow, deliberate precision, Cassandra raised her right hand.
 
-Clasped securely between her index and middle fingers was a glossy, blue **BayPass** smart card. She held it up just long enough for the telephoto lenses of the tech bloggers to capture the high-resolution proof. She hadn't bought a flimsy paper tourist ticket from a kiosk for a staged photo-op. She was holding a hard-plastic, reloadable regional transit card—the undeniable proof that the CEO of Quantum rode the municipal grid as a matter of daily routine.
+Clasped securely between her index and middle fingers was a glossy, blue BayPass smart card. She held it up just long enough for the telephoto lenses of the tech bloggers to capture the high-resolution proof. She hadn't bought a flimsy paper tourist ticket from a kiosk for a staged photo-op. She was holding a hard-plastic, reloadable regional transit card—the undeniable proof that the CEO of Quantum rode the municipal grid as a matter of daily routine.
 
 She casually slid the BayPass card into the outer pocket of her Quantum laptop bag just as a man in a tailored, sweat-drenched suit violently shoved his way through the frozen press pool.
 
@@ -11341,7 +11341,7 @@ Cassandra led them exactly one block over to their luxury hotel. There was no mo
 
 While Cassandra and her pack were enjoying a heavily air-conditioned, frictionless ride on the Blue Line toward Farragut West, a completely different scene was unfolding a mile away on the National Mall.
 
-Greg and Pierce were standing on the crushed gravel path near the center of the Mall, their designer suits sticking to their backs in the suffocating D.C. humidity. They were positioned strategically next to the concrete entrance canopy of the **Finch Metro Station** (the central transit hub for the Mall).
+Greg and Pierce were standing on the crushed gravel path near the center of the Mall, their designer suits sticking to their backs in the suffocating D.C. humidity. They were positioned strategically next to the concrete entrance canopy of the Finch Metro Station (the central transit hub for the Mall).
 
 Greg was aggressively wiping his forehead with a monogrammed handkerchief. He had finally managed to corral Pierce—who had taken an Acela express train down from New York in a panic—and together, they had formulated what they believed was a foolproof intercept strategy.
 
@@ -11391,7 +11391,7 @@ Greg stared at the digital map. The sheer, mathematical efficiency of Cassandra�
 
 Before Greg could formulate a response, his phone buzzed. It was a text from Marcus, Quantum’s Chief of Staff back in Redmond.
 
-**\[4:22 PM\] Marcus (Chief of Staff):** *Ms. Vance has successfully checked into the hotel at Farragut Square. Please stop loitering on the National Mall. Your billable hours are currently under review.*
+\[4:22 PM\] Marcus (Chief of Staff): *Ms. Vance has successfully checked into the hotel at Farragut Square. Please stop loitering on the National Mall. Your billable hours are currently under review.*
 
 Greg slowly lowered his phone, looking down into the escalator shaft. They hadn't just failed to intercept the CEO of Quantum; they had actively waited at a structural dead end, proving once again that the trillion-dollar architect knew their city's grid infinitely better than they did.
 

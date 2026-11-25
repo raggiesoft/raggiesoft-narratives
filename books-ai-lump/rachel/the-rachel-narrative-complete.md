@@ -4361,7 +4361,7 @@ By early evening, the heavy narcotic haze from the hospital sedatives began to w
 
 The living room base camp was secure, but actually *living* in it required a set of strict, mechanical protocols to ensure we didn't accidentally destroy our internal organs just trying to eat or use the restroom.
 
-**The Eating Protocol: The Wedge** Around six o'clock, Mom walked into the living room carrying two trays. Eating completely flat on our backs was a massive choking hazard, but using our core muscles to sit up was strictly forbidden.
+Around six o'clock, Mom walked into the living room carrying two trays. Eating completely flat on our backs was a massive choking hazard, but using our core muscles to sit up was strictly forbidden.
 
 "Alright, time for the wedges," Dad announced.
 
@@ -4369,7 +4369,7 @@ He had brought home two dense, medical-grade foam wedge pillows from the hospita
 
 Mom set the trays down on our laps, carefully ensuring the plastic edges didn't press against my medical binder or Rachel's left side. "Everything is already cut into bite-sized pieces," Mom explained, pointing to the grilled chicken and vegetables. "I don't want you struggling to cut anything with a knife. Slicing requires you to bear down, and bearing down flexes your obliques. Use your forks, chew slowly, and let us know when you're full."
 
-**The Restroom Protocol: The Plank Carry & The Privacy Door** The most terrifying hurdle came an hour after dinner, when I finally had to use the bathroom.
+The most terrifying hurdle came an hour after dinner, when I finally had to use the bathroom.
 
 At ten years old, the idea of my father having to carry me to the toilet made my face burn with a deep, humiliating shame. I was supposed to be the older brother. I was supposed to be independent. But when I tried to subtly shift my weight to see if I could slide off the mattress myself, the immediate, white-hot flare of my torn fascia made my breath catch.
 
@@ -5299,7 +5299,7 @@ The suffocating tension of the morning's meltdown had finally bled out of the li
 
 At one o'clock, the doorbell rang.
 
-Dad walked down the hallway and pulled the front door open. Standing on the porch in her pristine white lab coat was Dr. Allison Evans, the lead dentist and owner of **Safe Harbor Pediatric Dentistry**.
+Dad walked down the hallway and pulled the front door open. Standing on the porch in her pristine white lab coat was Dr. Allison Evans, the lead dentist and owner of Safe Harbor Pediatric Dentistry.
 
 She was holding a small cardboard drink carrier holding two large vanilla milkshakes, and a plastic grocery bag.
 
@@ -5463,7 +5463,7 @@ Brenda worked with clinical speed. She tied the rubber tourniquet around Rachel�
 
 Brenda sat back on her heels, looking at Mom and Dad, who were standing at the foot of the bed. Her expression turned serious, the check-up transitioning into the most difficult part of the day: the training.
 
-"Now, we need to talk about deconditioning," Brenda said. "Because they can't move their cores, their muscles are going to start wasting away. If we don't intervene, their joints will lock up. We have to start **Passive Range of Motion**—PROM—today."
+"Now, we need to talk about deconditioning," Brenda said. "Because they can't move their cores, their muscles are going to start wasting away. If we don't intervene, their joints will lock up. We have to start Passive Range of Motion—PROM—today."
 
 She stood up and moved to the end of my side of the bed.
 
@@ -7269,7 +7269,7 @@ It was a perfectly centered shot of the commercial building down on Professional
 
 The large, backlit "Tidewater Tumblers" sign that used to hang over the door had been completely removed, leaving nothing but a dirty, rectangular shadow on the brick facade. The glass windows, which used to proudly display the Pinnacle Mastery class schedules and the martial arts decals, were completely bare.
 
-Taped directly to the center of the front glass door was a massive, fluorescent orange piece of paper. Even from the small instant photo, the bold, block letters were unmistakable: **NOTICE OF EVICTION AND SEIZURE OF ASSETS.**
+Taped directly to the center of the front glass door was a massive, fluorescent orange piece of paper. Even from the small instant photo, the bold, block letters were unmistakable: *NOTICE OF EVICTION AND SEIZURE OF ASSETS.*
 
 But the most powerful detail of the photograph was what was missing. Through the bare glass windows, I could see the interior of the suite. The heavy canvas punching bags were gone. The training mirrors had been stripped from the walls. The gymnastics floor where the regional belt tests were held was completely barren.
 
@@ -10583,17 +10583,17 @@ She popped the tray of her CD-ROM drive, placed the Installation Disc onto the s
 
 The setup wizard initialized on the screen. Jessica clicked *Install*, and immediately, her jaw clenched in profound, tech-induced irritation.
 
-A gray dialog box popped up: **Setup must update critical system components. You must restart your computer before continuing.**
+A gray dialog box popped up: *Setup must update critical system components. You must restart your computer before continuing.*
 
 "I hate this OS," Jessica muttered under her breath, glaring at the screen. Quantum OS 98 was notorious for its fragile architecture. She clicked *Restart*, crossed her arms, and watched the screen go black. She had to sit through the excruciatingly slow BIOS POST screen, the memory check, and the spinning logo just to get back to the desktop so the installation could *actually* begin.
 
 Ten minutes later, the progress bar was finally moving, copying thousands of C++ header files, compiler binaries, and linkers onto her mechanical hard drive. It took nearly forty-five minutes of loud, clacking hard-drive writing before the setup wizard reached 100%.
 
-**Setup has successfully copied the files. You must restart your computer to finalize the installation.**
+Setup has successfully copied the files. You must restart your computer to finalize the installation.
 
 Jessica pushed her tinted glasses up the bridge of her nose and let out a long, exhausted sigh. "Another reboot. Unbelievable."
 
-When the machine finally booted back up for the second time, she wasn't done. A true programmer cannot build enterprise software without the reference maps. She ejected the software disc and grabbed the two remaining jewel cases: the **Quantum Developer Network (QDN) Library**. It was the massive, offline encyclopedia of the entire Q32 API architecture.
+When the machine finally booted back up for the second time, she wasn't done. A true programmer cannot build enterprise software without the reference maps. She ejected the software disc and grabbed the two remaining jewel cases: the Quantum Developer Network (QDN) Library. It was the massive, offline encyclopedia of the entire Q32 API architecture.
 
 As she swapped Disc 1 for Disc 2 to load the documentation, a glossy piece of paper fluttered out of the jewel case sleeve and landed on her keyboard.
 
@@ -10619,7 +10619,7 @@ She double-clicked it. The professional, heavy-duty Integrated Development Envir
 
 Jessica cracked her knuckles, her analytical brain shifting into absolute hyper-focus.
 
-She clicked *File \> New Project*, selected *C++ Win32 Console Application*, and named the project directory: **Axiom_Memory_Manager**.
+She clicked *File \> New Project*, selected *C++ Win32 Console Application*, and named the project directory: Axiom_Memory_Manager.
 
 To win the Catalyst Initiative, she had to solve a highly volatile memory-allocation routing problem within the Q32 API environment. The issue was that standard consumer machines running Quantum OS 98 were built on the archaic, 16-bit Core Disk Operating System (CDOS) foundation. When standard C++ programs requested massive blocks of memory, the fragile 16-bit layer underneath would panic, fail to release the memory, and trigger a catastrophic General Protection Fault.
 
@@ -11083,7 +11083,7 @@ Rachel and I scrambled up from the floor, rushing over to the computer desk.
 
 Displayed in bold, crisp text on the official Quantum Corporation webpage was the final announcement for the nationwide engineering competition. There were no runners-up. There were no honorable mentions. Out of thousands of high school juniors and seniors across the entire country, there was only one name listed at the very top of the page.
 
-**National Grand Prize Winner: Jessica Marie Ragsdale**
+National Grand Prize Winner: Jessica Marie Ragsdale
 
 "You're the only one," Rachel breathed, her dark eyes shining with sheer awe as she read the screen. "You beat everyone."
 
@@ -12111,7 +12111,7 @@ We formed a tight perimeter around our luggage carts, waiting in the cool, brigh
 
 We didn't have to wait long on the heavy concrete transit island. A massive, sixty-foot articulated bus roared into the pickup lane, its air brakes hissing sharply as it knelt toward the curb.
 
-The bus was painted in the TAPS King County Division livery—a pristine white base with thick, classic teal green and yellow striping running down the massive side panels. The electronic headboard above the windshield glowed with bright amber text: **194 DOWNTOWN SEATTLE EX**.
+The bus was painted in the TAPS King County Division livery—a pristine white base with thick, classic teal green and yellow striping running down the massive side panels. The electronic headboard above the windshield glowed with bright amber text: *194 DOWNTOWN SEATTLE EX*.
 
 The front doors hissed open. The driver, a man in a crisp blue uniform, took one look at Jessica sitting in her manual chair. He didn't sigh. He didn't look annoyed. He just reached down and threw a heavy mechanical switch on his dashboard.
 
@@ -12131,7 +12131,7 @@ Mom stepped up to the farebox. She didn't hesitate, dropping the heavy handfuls 
 
 "Four transfers, please," Mom said.
 
-The driver grabbed a small pad of newsprint paper. He ripped off four slips—they were printed in solid blue ink with a massive, bold letter **H** taking up the center—and handed them to Mom.
+The driver grabbed a small pad of newsprint paper. He ripped off four slips—they were printed in solid blue ink with a massive, bold letter H taking up the center—and handed them to Mom.
 
 "Good for two hours," he nodded.
 
@@ -12151,7 +12151,7 @@ We pulled into a massive, brilliantly lit underground station.
 
 "This is us," Mom commanded, grabbing the handles of the canvas bags.
 
-We hauled our gear off the 194, stepping onto the subterranean platform. The tunnel was cool, dry, and echoed with the quiet hum of electric transit. We waited on the platform for ten minutes until another Breda dual-mode bus pulled up. The electronic sign read **71 NPU DISTRICT**.
+We hauled our gear off the 194, stepping onto the subterranean platform. The tunnel was cool, dry, and echoed with the quiet hum of electric transit. We waited on the platform for ten minutes until another Breda dual-mode bus pulled up. The electronic sign read *71 NPU DISTRICT*.
 
 We boarded through the front doors, but Mom didn't reach for her coin purse. She had read the transit placards on the 194. We were inside the Downtown Seattle Transit Tunnel, which operated as a designated Ride Free Area. You didn't pay to get on while underground.
 
@@ -12291,7 +12291,7 @@ Twenty minutes later, we were back on the cool, darkening Seattle sidewalks. We 
 
 Nestled between a row of old brick storefronts and a university bookstore was a brightly lit, standalone fast-food restaurant. We had never seen or heard of the place before. A massive, glowing plastic sign shaped like a grinning clown head spun slowly on a tall pole above the parking lot.
 
-The sign read: **JESTER'S**.
+The sign read: JESTER'S.
 
 We pushed through the glass doors. The interior was a sea of bright purple and teal geometric booths. But it was the glowing menu board above the registers that caused all four of us to stop and stare in complete confusion.
 
@@ -16151,7 +16151,7 @@ The agent typed rapidly on her keyboard. "Alright, Ms. Ragsdale. I see you both 
 
 "Yes," Jessica confirmed.
 
-The agent tagged our heavy suitcases and placed them on the conveyor belt. Then, she printed our actual boarding passes and handed them down to Jessica. The paper was stamped with a large, bold **ZONE 1**.
+The agent tagged our heavy suitcases and placed them on the conveyor belt. Then, she printed our actual boarding passes and handed them down to Jessica. The paper was stamped with a large, bold ZONE 1.
 
 "Your First Class seating is confirmed all the way through to Virginia," the agent smiled. "You can use the priority security lane just down the hall."
 
@@ -18535,7 +18535,7 @@ I packed my laptop back into my bag and walked downstairs toward the main lobby 
 
 As I reached out to push the glass open, a brightly colored flyer stapled to the community bulletin board caught my eye.
 
-**TONIGHT: Special Screening – Celsius 9/11** *CCHR Roper Performing Arts Center – 7:00 PM* *Free Admission with Valid Student ID*
+TONIGHT: Special Screening – Celsius 9/11 *CCHR Roper Performing Arts Center – 7:00 PM* *Free Admission with Valid Student ID*
 
 I stopped, my processor running the logistical variables. I knew the Roper well. It was a beautifully restored, historic theater right on the edge of the downtown campus grid.
 
@@ -20294,7 +20294,7 @@ Over the speakerphone, we heard Michael’s voice, muffled as he turned to speak
 
 I grabbed a napkin and a pen from the table. My hands were shaking with pure, unadulterated rage at the woman controlling him. I quickly scribbled a note and shoved it across the table to Andromeda.
 
-It read: **Please have lunch ready for my brother. Do not feed her! Make any excuse you need.** I underlined *DO NOT FEED HER* three times in bold, black ink. I wanted it absolutely clear to my entire team just how deeply, viscerally I hated this woman for what she was doing to my baby brother.
+It read: Please have lunch ready for my brother. Do not feed her! Make any excuse you need. I underlined *DO NOT FEED HER* three times in bold, black ink. I wanted it absolutely clear to my entire team just how deeply, viscerally I hated this woman for what she was doing to my baby brother.
 
 ### Part 3: Off to Pierce County & Quantum Reunion
 
@@ -21043,7 +21043,7 @@ I stared up at the tinted windows, completely awestruck, my mind reeling at the 
 
 "And my department," Jessica said, unlocking her brakes and pointing toward the sleek, multi-story structure right next door to Building 33 and Building 34, "is right here. Building 35."
 
-As I pushed her toward the entrance, she didn't even have to reach for a handicap push-plate: her full-time Quantum **Blue Badge** was coded with an RFID accessibility flag that pinged the proximity reader as we rolled up, automatically triggering the motorized entrance doors to swing open with an extended fifteen-second hold-open timer. We rolled smoothly into a sprawling, high-security lobby. Jessica wheeled directly up to the main security desk, completely in her element.
+As I pushed her toward the entrance, she didn't even have to reach for a handicap push-plate: her full-time Quantum Blue Badge was coded with an RFID accessibility flag that pinged the proximity reader as we rolled up, automatically triggering the motorized entrance doors to swing open with an extended fifteen-second hold-open timer. We rolled smoothly into a sprawling, high-security lobby. Jessica wheeled directly up to the main security desk, completely in her element.
 
 "Good afternoon, Jessica," the uniformed guard smiled, recognizing her instantly. He looked up at me with polite, calculating scrutiny.
 
@@ -21779,7 +21779,7 @@ But one specific, glossy tri-fold brochure stood out from the rest.
 
 I reached out, pulling it from the acrylic slot. The cover featured a breathtaking, high-definition photograph of a massive, 1890s timber-framed lodge sitting against a jagged, snow-capped granite peak.
 
-**The Prospector’s Keep** *A Sovereign Legacy on Ruby Mountain*
+The Prospector’s Keep *A Sovereign Legacy on Ruby Mountain*
 
 I opened the pamphlet, my analytical processor instantly engaged by the architecture. The text described a sprawling, commercial alpine resort hidden deep in the North Cascades. It boasted massive river-stone fireplaces, old-growth timber beams, and a rich history tied directly to the Klondike Gold Rush of 1897. According to the glossy print, the 7,000-foot alpine fortress was proudly owned and operated by the exact same family bloodline.
 
@@ -22684,7 +22684,7 @@ Once we were dressed, Rachel immediately dragged one of the heavy upholstered ho
 
 "You have time to build," Rachel reminded me.
 
-I smiled, my processor buzzing with anticipation. I walked over to the desk and placed my hand on the cool, brushed-aluminum lid of the ten-pound, piano-black machine. In my head, the terminology had officially shifted permanently. It wasn't just a command center anymore. It was the **Extraction Rig**. It was the physical, humming vehicle of my liberation.
+I smiled, my processor buzzing with anticipation. I walked over to the desk and placed my hand on the cool, brushed-aluminum lid of the ten-pound, piano-black machine. In my head, the terminology had officially shifted permanently. It wasn't just a command center anymore. It was the Extraction Rig. It was the physical, humming vehicle of my liberation.
 
 I pressed the silver power button. The dual 7200 RPM hard drives whined to life with a satisfying, mechanical rev, and the 17-inch screen illuminated the dark wood of the hotel desk.
 
@@ -29531,7 +29531,7 @@ The Rear Admiral didn't look at my laptop. He looked directly at me.
 
 My processor stalled for a fraction of a second. I frowned, my hands resting lightly on my wheels. "With respect, Admiral, the NIPRNet bridge is stable, but it still requires constant monitoring. If Quantum doesn't send a replacement TPM when my contract terminates next week, the legacy servers will fragment within a month."
 
-One of the Captains, a hard-lined man with silver at his temples, slid a thick, manila folder across the polished table. It stopped inches from my casters. Stamped across the cover in bold, unmistakable red ink was a single word: **SECRET**.
+One of the Captains, a hard-lined man with silver at his temples, slid a thick, manila folder across the polished table. It stopped inches from my casters. Stamped across the cover in bold, unmistakable red ink was a single word: SECRET.
 
 "Your contract isn't terminating," the Captain corrected smoothly. "We are executing a SME Capture."
 
@@ -29907,7 +29907,7 @@ I made the turn and pulled into the parking lot of a massive, four-story profess
 
 We executed the wheelchair lift extraction, and the pack moved as a single, unified perimeter through the automatic sliding glass doors. We bypassed the busy first-floor directories and rode the elevator up to the top floor, stepping out into a quiet, carpeted hallway.
 
-**Suite 410.** Because Jessica had utilized the massive financial leverage of her Quantum salary to bypass our standard HMO insurance constraints, this was not a sterile, fluorescent-lit hospital clinic. It was a high-end, private neuropsychology practice. When I pushed the heavy wooden door open, there was no crowded waiting room with blaring daytime television. The lighting was soft, the acoustic tiling absorbed the ambient noise, and the receptionist was expecting us.
+Suite 410. Because Jessica had utilized the massive financial leverage of her Quantum salary to bypass our standard HMO insurance constraints, this was not a sterile, fluorescent-lit hospital clinic. It was a high-end, private neuropsychology practice. When I pushed the heavy wooden door open, there was no crowded waiting room with blaring daytime television. The lighting was soft, the acoustic tiling absorbed the ambient noise, and the receptionist was expecting us.
 
 "The Ragsdale family," the receptionist smiled quietly, already standing up. "Dr. Harrison is ready for you in the conference room. He set up the larger space to accommodate the group."
 

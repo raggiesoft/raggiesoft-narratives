@@ -1018,7 +1018,7 @@ I raised my right hand, my wrist curling slightly inward due to the CP, and bega
 
 The synthesized, digitized voice of the machine cut through the quiet office.
 
-***"Is Samantha going to Ocean Lakes, too?"***
+*"Is Samantha going to Ocean Lakes, too?"*
 
 Mr. Harrison’s enthusiastic smile faltered for a fraction of a second. He let out a soft, patronizing chuckle, completely misunderstanding the gravity of the question.
 
@@ -1100,7 +1100,7 @@ I immediately raised my hand to the speech board mounted on my lap tray. My fing
 
 I hit the button.
 
-***"Ocean Lakes wants me. But Samantha cannot come. The counselor told me today."***
+*"Ocean Lakes wants me. But Samantha cannot come. The counselor told me today."*
 
 The air in the foyer instantly shifted. It wasn't excitement. It was a cold, sudden drop in atmospheric pressure.
 
@@ -1108,19 +1108,19 @@ Sarah stepped forward, her dark eyebrows knitting together behind her wire-rimme
 
 I shook my head, my jaw tight, and went back to the board.
 
-***"No. It was Mr. Harrison."***
+*"No. It was Mr. Harrison."*
 
 Abbey’s jaw clenched. The muscles in her massive forearms flexed against the sleeves of her navy t-shirt. The household operated on a strict, non-negotiable "no men" boundary for a reason. The fact that the school had isolated me in a room with a male authority figure was a massive, unacceptable breach of protocol.
 
 I didn't wait for Abbey to speak. I kept typing, needing to get the rest of the institutional ignorance out of my head.
 
-***"He did not understand anything. I do not think he comprehends what the father and the uncle did to me. He did not care about safety. All he cared about was the Math and Science Academy. He only saw my test scores."***
+*"He did not understand anything. I do not think he comprehends what the father and the uncle did to me. He did not care about safety. All he cared about was the Math and Science Academy. He only saw my test scores."*
 
 Sarah knelt down beside my chair, bringing her eye level down to mine, her presence an immovable anchor. "What else did he say, Toby?"
 
 I queued up the final, deciding factor.
 
-***"When I asked if Samantha could come to Ocean Lakes too, he got shifty-eyed. He told me I needed independence. He told me I did not need to follow my big sister around anymore."***
+*"When I asked if Samantha could come to Ocean Lakes too, he got shifty-eyed. He told me I needed independence. He told me I did not need to follow my big sister around anymore."*
 
 Abbey let out a low, disgusted breath, crossing her massive arms over her chest. The idea of removing Samantha—my exclusive safe person and the only one who could manage my most vulnerable physical needs—was functionally a death sentence.
 
@@ -1128,7 +1128,7 @@ I looked at my cousins. They were already mentally preparing to tear the school 
 
 But I needed to make my own operational directive perfectly clear. I hit the final button on my board.
 
-***"That alone means my decision is final. I want to go to Northwood High School next year. I am going to be with Samantha."***
+*"That alone means my decision is final. I want to go to Northwood High School next year. I am going to be with Samantha."*
 
 From the hallway leading to the master bedroom, the sharp, elegant sound of low heels clicked against the hardwood floor. Grandmother Eleanor stepped into the foyer. Her silver hair was pulled back immaculately, and her sharp aristocratic features were set in absolute, cold authority. She had heard the digitized voice echoing through the house.
 
@@ -1172,7 +1172,7 @@ Eleanor folded her hands on the table and looked directly at me. She holds the u
 
 I didn't hesitate. I raised my hand to my dynamic-display speech board. My fingers tapped against the grid, queueing the sentence. I hit the button, and the digitized voice spoke into the quiet kitchen.
 
-***"Unless Samantha is enrolled in the Academy and rides that bus with me, I am going to Northwood High School."***
+*"Unless Samantha is enrolled in the Academy and rides that bus with me, I am going to Northwood High School."*
 
 My decision was absolute. I did not care about the robotics bay. I did not care about the calculus track. Within the walls of our house, Samantha is my exclusive safe person; I require her for my most vulnerable physical needs and deep-pressure regulation. High school was going to be an entirely new, chaotic environment, and I refused to navigate it without my sister standing right beside me.
 
@@ -1244,7 +1244,7 @@ The matriarchy stepped up to the entrance. Abbey reached out and effortlessly pu
 
 The atmospheric pressure in the room shifted instantly. The security guard at the front desk sat up straighter, immediately sliding the heavy visitor logbook across the counter.
 
-Eleanor approached the desk, uncapping her fountain pen. She signed the log in her sharp, flawless cursive. Under the *Destination* column, she wrote exactly where a middle school Transition IEP meeting is supposed to be held: **Guidance Office Conference Room**.
+Eleanor approached the desk, uncapping her fountain pen. She signed the log in her sharp, flawless cursive. Under the *Destination* column, she wrote exactly where a middle school Transition IEP meeting is supposed to be held: Guidance Office Conference Room.
 
 The guard quickly peeled four neon-yellow visitor stickers off a roll, hastily writing their names with a thick black marker. He handed them across the desk. Eleanor placed hers on the lapel of her blouse. Abbey and Sarah slapped theirs onto the dense fabric of their navy t-shirts, and Samantha stuck hers to her shoulder.
 
@@ -1324,17 +1324,17 @@ Abbey leaned over the table, her sheer physical density dominating the room, and
 
 Dr. Wallaceâ€™s pen shook slightly as he filled out the official district IEP matrix exactly as instructed:
 
-- **Primary Placement:** Tobias Mercer will attend his zoned school, Northwood High School. The Ocean Lakes placement is formally and permanently declined.
+- Primary Placement: Tobias Mercer will attend his zoned school, Northwood High School. The Ocean Lakes placement is formally and permanently declined.
 
-- **Elective Mandate:** Tobias will be enrolled in the high school band program. Supported by the middle school director's recommendation, he is exclusively assigned to the front ensemble (the pit). This is a required accommodation to ensure he remains in the immediate vicinity of his sister Samantha.
+- Elective Mandate: Tobias will be enrolled in the high school band program. Supported by the middle school director's recommendation, he is exclusively assigned to the front ensemble (the pit). This is a required accommodation to ensure he remains in the immediate vicinity of his sister Samantha.
 
-- **Locker Assignment:** Standard high school policy dictates freshmen must share lockers, while upperclassmen receive private ones. This policy is overridden. Tobias will share a locker exclusively with his sister, Samantha.
+- Locker Assignment: Standard high school policy dictates freshmen must share lockers, while upperclassmen receive private ones. This policy is overridden. Tobias will share a locker exclusively with his sister, Samantha.
 
-- **Scheduling Synchronization:** Tobias and Samantha must be assigned the exact same lunch period for daily feeding and deep-pressure regulation.
+- Scheduling Synchronization: Tobias and Samantha must be assigned the exact same lunch period for daily feeding and deep-pressure regulation.
 
-- **Transportation Waiver:** All district-provided specialized transportation is officially declined. Tobias will arrive and depart campus exclusively via private transport in his sister's vehicle.
+- Transportation Waiver: All district-provided specialized transportation is officially declined. Tobias will arrive and depart campus exclusively via private transport in his sister's vehicle.
 
-- **Standard Accommodations:** The district will provide a dedicated 1-to-1 aide strictly for physical navigation and restroom transfers. Tobias will be enrolled in Adapted Physical Education (APE) to protect his joints. He is granted explicit, documented permission to use the student-restricted campus elevator, overriding the standard disciplinary policy against student usage, and is granted a two-minute early dismissal from all classes to navigate the hallways before the bell rings.
+- Standard Accommodations: The district will provide a dedicated 1-to-1 aide strictly for physical navigation and restroom transfers. Tobias will be enrolled in Adapted Physical Education (APE) to protect his joints. He is granted explicit, documented permission to use the student-restricted campus elevator, overriding the standard disciplinary policy against student usage, and is granted a two-minute early dismissal from all classes to navigate the hallways before the bell rings.
 
 Dr. Wallace finished writing. He stared at the completed matrix, the reality setting in that he had just officially signed away the district's top scorer to a neighborhood school with an underfunded science department.
 
@@ -1350,15 +1350,15 @@ I raised my right hand and rested it over my dynamic-display speech board. My fi
 
 I hit the activation button. The digitized, synthesized voice cut through the room with absolute mathematical precision.
 
-***"Virginia Beach City Public Schools spent exactly forty-two thousand, one hundred and fifty-one dollars to construct an electronic, sun-sensing flagpole on the roof of Ocean Lakes High School. An expenditure so reckless that the assistant superintendent who authorized it was fired for improper spending before the building even opened."***
+*"Virginia Beach City Public Schools spent exactly forty-two thousand, one hundred and fifty-one dollars to construct an electronic, sun-sensing flagpole on the roof of Ocean Lakes High School. An expenditure so reckless that the assistant superintendent who authorized it was fired for improper spending before the building even opened."*
 
 Dr. Wallaceâ€™s mouth opened slightly, but no sound came out. Mr. Harrison stared at the laminate table.
 
-***"Furthermore,"*** my device continued, cold and unyielding, ***"because you mounted the mechanism in the center of a pyramid skylight where the Dam Neck Annex winds continually shred the fabric, the flags constantly jam in the retraction motor. Consequently, your district spends an additional three thousand dollars every few months to rent a bucket crane just to unjam it."***
+*"Furthermore,"* my device continued, cold and unyielding, *"because you mounted the mechanism in the center of a pyramid skylight where the Dam Neck Annex winds continually shred the fabric, the flags constantly jam in the retraction motor. Consequently, your district spends an additional three thousand dollars every few months to rent a bucket crane just to unjam it."*
 
 I maintained unblinking eye contact with Dr. Wallace as my fingers tapped the final sentence.
 
-***"You do not possess elite resources, Dr. Wallace. You possess a broken electronic flagpole that hemorrhages three thousand dollars of taxpayer money per repair. Northwood High School possesses my sister. My decision is final."***
+*"You do not possess elite resources, Dr. Wallace. You possess a broken electronic flagpole that hemorrhages three thousand dollars of taxpayer money per repair. Northwood High School possesses my sister. My decision is final."*
 
 There was absolutely nothing left to say. The intellectual demolition was total.
 

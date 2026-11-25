@@ -3569,7 +3569,7 @@ A white-and-colonial-blue transit coach with Colonial Triangle Transit Authority
 
 Nate and I turned our heads toward each other at the exact same instant.
 
-Neither of us knew the Williamsburg or Peninsula bus networks at all—on Wesley's college tour the summer before, Heather had driven Aunt Linda's minivan across the tunnel, and the only Peninsula bus we had ever spotted in our lives was that single `112 NNTC` coach at the Warwick University roundabout. Neither of us had the faintest idea whether it was even possible to string city transit buses together all the way from Williamsburg back across the harbor before nightfall. All we knew from basic Tidewater geography was that Newport News lay southeast straight down the Peninsula toward the water—away from Brandon, away from Canada, and closer to home.
+Neither of us knew the Williamsburg or Peninsula bus networks at all—on Wesley's college tour the summer before, Heather had driven Aunt Linda's minivan across the tunnel, and the only Peninsula bus we had ever spotted in our lives was that single 112 NNTC coach at the Warwick University roundabout. Neither of us had the faintest idea whether it was even possible to string city transit buses together all the way from Williamsburg back across the harbor before nightfall. All we knew from basic Tidewater geography was that Newport News lay southeast straight down the Peninsula toward the water—away from Brandon, away from Canada, and closer to home.
 
 "Newport News goes down the Peninsula," Nate said quietly, his blue eyes locking onto mine without a flicker of hesitation. "Now or never, Katie."
 
@@ -3611,15 +3611,15 @@ Because Elmhurst Street had only a metal signpost and a ribbon-thin sidewalk squ
 
 *"10-4."*
 
-Pulling folded paper pocket schedules from the front rack as the 116 rolled south down Warwick Boulevard past Fort Eustis, Nate and I scanned the columns together in thirty seconds flat: skipping the razor-thin `106` connection at Warwick and Denbigh in favor of **`Route 107`** forty-five minutes later gave us time to duck completely out of sight inside the corner **Crown Burger** for cheeseburgers, salty fries, and ginger ale while still delivering us into **Newport News Transit Center (`NNTC`)** at `6:15 PM`—a rock-solid thirty minutes ahead of the final `6:45 PM` cross-water **Expressways `Route 61`**!
+Pulling folded paper pocket schedules from the front rack as the 116 rolled south down Warwick Boulevard past Fort Eustis, Nate and I scanned the columns together in thirty seconds flat: skipping the razor-thin 106 connection at Warwick and Denbigh in favor of Route 107 forty-five minutes later gave us time to duck completely out of sight inside the corner Crown Burger for cheeseburgers, salty fries, and ginger ale while still delivering us into Newport News Transit Center (NNTC) at 6:15 PM—a rock-solid thirty minutes ahead of the final 6:45 PM cross-water Expressways Route 61!
 
-True to the printed timetable, southbound `Route 107` (`"10702 to Dispatch... picked up two 10-16s at Warwick and Denbigh"`) rolled us cleanly into `NNTC` at six-fifteen sharp.
+True to the printed timetable, southbound Route 107 ("10702 to Dispatch... picked up two 10-16s at Warwick and Denbigh") rolled us cleanly into NNTC at six-fifteen sharp.
 
-Before rolling over to Bay Four, Nate pulled out Dad's laminated blue-and-white 1-800 calling card at the lowered stainless-steel ADA payphone mounted on the brick pillar. First we called **Dad** on Arvin Road—hearing our father's kitchen chair scrape back on the linoleum as we told him Brandon had bruised my wrist, stolen our cell phones, and tried to force me onto a train toward Canada, and that we were boarding the `6:45 PM` Expressways `Route 61` arriving on Monticello Avenue in Downtown Norfolk at `7:12 PM`, transferring to the `7:20 PM` outbound `Route 20` to Glenrock Mall and the `7:45 PM` outbound `Route 15` arriving at Military Highway and Indian River Road at `8:01 PM`.
+Before rolling over to Bay Four, Nate pulled out Dad's laminated blue-and-white 1-800 calling card at the lowered stainless-steel ADA payphone mounted on the brick pillar. First we called Dad on Arvin Road—hearing our father's kitchen chair scrape back on the linoleum as we told him Brandon had bruised my wrist, stolen our cell phones, and tried to force me onto a train toward Canada, and that we were boarding the 6:45 PM Expressways Route 61 arriving on Monticello Avenue in Downtown Norfolk at 7:12 PM, transferring to the 7:20 PM outbound Route 20 to Glenrock Mall and the 7:45 PM outbound Route 15 arriving at Military Highway and Indian River Road at 8:01 PM.
 
 *"Stay right on that 61 bus so we don't pass each other inside the tunnel tubes,"* Dad told us immediately. *"I will be standing right under the streetlight at Military Highway and Indian River Road at seven-fifty waiting for your 15."*
 
-Without hanging up the calling-card session, Nate pressed the pound key to place one second toll-free call—straight to **Heather's** cell phone down in Virginia Beach.
+Without hanging up the calling-card session, Nate pressed the pound key to place one second toll-free call—straight to Heather's cell phone down in Virginia Beach.
 
 Heather answered on the very first ring.
 
@@ -3635,7 +3635,7 @@ Over the phone line, we heard Wesley let out an urgent, protective two-syllable 
 
 #### Saturday, October 16, 2004, 6:45 PM – 8:01 PM — Meeting Heather and Wesley at Monticello Avenue, Open Radio on Route 20, & Riding Home as Four
 
-At six-forty-five on the dot—after logging `"two 10-16s at Newport News Transit Center"` over the radio—our fourth bus of the afternoon, high-backed Expressways <led>61 | DOWNTOWN NORFOLK</led>, pulled onto Interstate 64 East and plunged between the gleaming white ceramic tiles of the Hampton Roads Bridge-Tunnel beneath sixty feet of Chesapeake Bay water.
+At six-forty-five on the dot—after logging "two 10-16s at Newport News Transit Center" over the radio—our fourth bus of the afternoon, high-backed Expressways <led>61 | DOWNTOWN NORFOLK</led>, pulled onto Interstate 64 East and plunged between the gleaming white ceramic tiles of the Hampton Roads Bridge-Tunnel beneath sixty feet of Chesapeake Bay water.
 
 When the 61 glided up to the bright curb on Monticello Avenue in Downtown Norfolk at seven-twelve sharp and the front doors hissed open, I looked down the aluminum ramp—and a hot rush of relief stung right behind my eyelids.
 
@@ -3645,17 +3645,17 @@ The second our front casters cleared the bottom of the ramp, Heather dropped to 
 
 "Nobody touches either of you like that—ever," Heather whispered fiercely against Nate's collar before looking at my wrist with blazing hazel eyes and slipping her right hand securely into Nate's while Wesley stood sentinel beside my left wheel for the eight-minute buffer. "You two aren't riding another block alone tonight. All four of us are riding the 20 and the 15 home to your dad's house together."
 
-At seven-eighteen, our fifth bus—outbound CVTA <led>20 | VA BEACH | via GLENROCK MALL</led>—knelt at Monticello Avenue. Katie and I rolled into the two forward wheelchair bays while Heather and Wesley dropped their fares and sat right across the front priority bench holding onto our hands across the narrow aisle. Knowing our zero-buffer `7:45 PM` pulse connection at Glenrock Mall had zero margin for unloading two powerchairs, our veteran Route 20 operator unhooked his open-channel analog radio handset right before turning off Virginia Beach Boulevard into Glenrock Mall:
+At seven-eighteen, our fifth bus—outbound CVTA <led>20 | VA BEACH | via GLENROCK MALL</led>—knelt at Monticello Avenue. Katie and I rolled into the two forward wheelchair bays while Heather and Wesley dropped their fares and sat right across the front priority bench holding onto our hands across the narrow aisle. Knowing our zero-buffer 7:45 PM pulse connection at Glenrock Mall had zero margin for unloading two powerchairs, our veteran Route 20 operator unhooked his open-channel analog radio handset right before turning off Virginia Beach Boulevard into Glenrock Mall:
 
 "Outbound 20 to the outbound 15 at Glenrock Mall, I have two 10-16s—plus two—for you."
 
 *"10-4. Are they heading towards Emerald Creek Mall?"* the waiting Route 15 operator crackled back through the overhead speaker.
 
-"Outbound toward Chesapeake, sir—all four of us are heading towards Indian River Road!" Nate called forward clearly, and the driver relayed `"10-4, heading to Indian River Road"` right as we swung behind the waiting outbound **Route 15** with its ramp already resting on the concrete island!
+"Outbound toward Chesapeake, sir—all four of us are heading towards Indian River Road!" Nate called forward clearly, and the driver relayed "10-4, heading to Indian River Road" right as we swung behind the waiting outbound Route 15 with its ramp already resting on the concrete island!
 
 Rolling aboard our sixth and final bus together—Nate and me locked into the wheelchair bays, Heather's steady hand resting over Nate's forearm, and Wesley sitting right beside my elbow turning his blue ring in calm contentment—we crossed the Elizabeth River bridge into Virginia Beach at eight o'clock sharp.
 
-There, standing beneath the amber glow of the corner streetlight at Military Highway and Indian River Road in his navy windbreaker, stood our dad—dropping to one knee as the ramp touched down at `8:01 PM` to pull Katie and me into his arms while thanking Heather and Wesley with shining eyes for riding out to bring us the rest of the way home.
+There, standing beneath the amber glow of the corner streetlight at Military Highway and Indian River Road in his navy windbreaker, stood our dad—dropping to one knee as the ramp touched down at 8:01 PM to pull Katie and me into his arms while thanking Heather and Wesley with shining eyes for riding out to bring us the rest of the way home.
 
 ### Part 3: The Goyeau Street Tunnel Bus, The Trashed Ticket on East Jefferson Avenue, & Protected Non-Traveling Complainant
 
@@ -11417,7 +11417,7 @@ Nine months earlier, on the living green grass of the restored White House Rose 
 
 Once Katie's Supported Companions, Waiver Portability, and Social Security Solvency Act took legal effect at midnight on New Year's Day—permanently repealing the Supplemental Security Income and Disabled Adult Child marriage, in-kind shelter, and Form SSA-4178 holding-out penalties and protecting family-connected accessible companion suites under federal Fair Housing law—we wanted Wesley and Chelsea to have a dedicated daytime couple's retreat of their very own whenever our main living room was busy with Prairie Twin Interactive code deploys or constituent briefings, without ever breaking their weekly rhythm between Tidewater and Northern Virginia.
 
-To honor both Wesley's and Chelsea's autistic and developmental need for unbroken visual and spatial routine as our six-person family rode ARTS Business Class between Kempsville (`Thursday through Sunday`) and Alexandria (`Monday through Wednesday` during Senate session weeks), our barrier-free architect built two identically mirrored five-hundred-and-twenty-square-foot ground-floor companion suites—one attached here to our shaded garden wing in Virginia Beach, and a second attached to the ground-floor garden wing of Sunset Drive in Alexandria one block from King Street–Old Town.
+To honor both Wesley's and Chelsea's autistic and developmental need for unbroken visual and spatial routine as our six-person family rode ARTS Business Class between Kempsville (Thursday through Sunday) and Alexandria (Monday through Wednesday during Senate session weeks), our barrier-free architect built two identically mirrored five-hundred-and-twenty-square-foot ground-floor companion suites—one attached here to our shaded garden wing in Virginia Beach, and a second attached to the ground-floor garden wing of Sunset Drive in Alexandria one block from King Street–Old Town.
 
 In Virginia Beach and in Alexandria alike, the unlocked solid-oak pocket door opened on the exact same left-hand wall ten steps from the main family kitchen. Directly ahead beneath two warm framed woodland prints stood an identical plush oatmeal-linen loveseat. Against the right-hand wall sat a matching solid-oak cabinet supporting a seventy-five-gallon filtered basking habitat—housing Sunny and Pebble here in Virginia Beach and a calm second pair of rescued painted turtles up in Alexandria so no animal ever had to be stressed in transit. In the corner sat a cool-touch, roll-under kitchenette with an auto-shutoff electric tea kettle and zero open burners or scorching coils, and through the wide step-free archway sat a quiet afternoon reading-and-nap alcove with a wooden stand for Chelsea's spare inhalers and a carved cedar dish for Wesley's blue silicone ring.
 
