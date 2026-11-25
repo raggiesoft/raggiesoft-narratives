@@ -24,9 +24,18 @@ They did not land inside the Waystation right away. Instead, landing barefoot in
 ### Nolan Lennox (Age 20, `5'7"` — *The Rift Spotter & Archway Guide*)
 - **Physical Build & Mobility (`ai-staging/raw-images/characters/waystation/`):**
   - **`5'7"`** (six inches shorter than his `6'1"` younger sister Gwen!), with a stocky, heavy-set overweight build (not obese), tousled medium-brown hair, warm hazel eyes, and an easy, protective grin.
-  - Plain unlabeled heather-navy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **matte-silver ergonomic Lofstrand forearm crutches** (since his wheelchair stayed behind in the living room).
+  - Plain unlabeled heather-navy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **single-tube matte-silver ergonomic Lofstrand forearm crutches** with open U-shaped grey forearm cuffs (since his wheelchair stayed behind in the living room).
 
 ### Gwen Lennox (Age 19, `6'1"` — *The Astrolabe Reader & Realm Indexer*)
 - **Physical Build & Mobility (`ai-staging/raw-images/characters/waystation/`):**
   - **`6'1"`** (tall—six inches taller than her older brother Nolan!), curvy, full-figured overweight build (not obese) with a large bust, wavy honey-brown shoulder-length hair, bright green-hazel eyes, and a warm, quick-witted smile.
-  - Modest plain unlabeled heather-burgundy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **matte-charcoal ergonomic Lofstrand forearm crutches** (resting them beside the mossy stone bench when she and Nolan sit under their sofa blanket by the Astrolabe).
+  - Modest plain unlabeled heather-burgundy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **single-tube matte-charcoal ergonomic Lofstrand forearm crutches** with open U-shaped black forearm cuffs (resting them beside the mossy stone bench when she and Nolan cuddle under their green-and-navy plaid sofa blanket by the Astrolabe).
+
+---
+
+## 3. Mandatory Visual & Narrative Continuity Rules
+
+- **Strict Lofstrand Forearm-Crutch Rule (ZERO Underarm / Armpit Crutches):**
+  - Both Nolan and Gwen use **single-shaft ergonomic Lofstrand forearm crutches** with angled handgrips and small open U-shaped mid-forearm cuffs (matte-silver for Nolan, matte-charcoal for Gwen). **Neither sibling EVER uses underarm/armpit (axillary) crutches**—never generate double-tube hospital axillary crutches or horizontal underarm pads in any Waystation illustration, whether held or leaning beside a bench, log, barge, camp wall, or gondola.
+- **Warm, Affectionate Sibling Bond & Adventure Camping:**
+  - Nolan and Gwen are naturally very close and physically affectionate siblings. Across scene illustrations, portal artwork, and chapters, they are frequently seen **hugging** (standing in warm one-armed sibling side-hugs while steadying on their outer forearm crutches, or wrapping arms around each other on benches), **cuddling** beneath their shared dark-green and navy-blue plaid sofa blanket with Gwen resting her cheek on the top of Nolan's head or her head on his shoulder, and—whenever night falls and they make camp along their adventure across Vaeloria—**curling up closely together** in a wholesome sibling embrace under their shared blanket on soft cushion-moss with all four forearm crutches resting safely within arm's reach.

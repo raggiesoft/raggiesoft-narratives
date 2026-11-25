@@ -10,7 +10,7 @@ title: "The Uncharted Waystation"
 
 **Harmonic Cycle:** First Night of the Twin Moons, Borderland of Vaeloria • **Chronometer:** 21:15
 
-![Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot 5-foot-7 stocky brother Nolan Lennox in a navy t-shirt and jeans and his taller 6-foot-1 curvy sister Gwen Lennox in a burgundy t-shirt and jeans sit side by side wrapped in their plaid sofa blanket on a mossy log with their silver and charcoal forearm crutches leaning beside their knees.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg)
+![Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot 5-foot-7 stocky brother Nolan Lennox in a navy t-shirt and jeans and his taller 6-foot-1 curvy sister Gwen Lennox in a burgundy t-shirt and jeans sit hugging and cuddling closely together under their green-and-navy plaid sofa blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg)
 
 #### 9:15 PM — A Shimmer Above the Mug Ring
 
@@ -76,19 +76,19 @@ Gwen let out a real, unguarded laugh—the brightest sound I had heard leave my 
 
 **Harmonic Cycle:** Second Dawn of the Twin Moons, The Whispering Causeway • **Chronometer:** 07:40
 
-![At golden-rose 1980s fantasy sunrise along an ancient satin-smooth quartz flagstone causeway beside a sparkling stream and golden honey-plum trees, barefoot 6-foot-1 curvy sister Gwen Lennox on matte-charcoal forearm crutches and her shorter 5-foot-7 stocky brother Nolan Lennox on matte-silver forearm crutches with a plaid sofa blanket slung over his shoulder walk unhurriedly side by side.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg)
+![At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot 5-foot-7 stocky brother Nolan Lennox and his taller 6-foot-1 curvy sister Gwen Lennox wake curled up affectionately together on soft emerald moss under their green-and-navy plaid sofa blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg)
 
 #### 7:40 AM — Satin Stone Under Bare Soles
 
 Morning arrived in rose-gold and apricot across a sky so wide it made every ceiling I had ever lived under feel like a shoebox.
 
-I woke warm inside the green-and-navy plaid blanket inside the dry, hollow lee of an ancient stone bridge abutment where Nolan and I had curled up back-to-back a hundred yards down from our arrival glade. For three seconds my sleepy brain waited for the six-thirty garbage truck to rattle the alley dumpsters below our apartment window. Instead, a chorus of liquid, flute-like birdcalls rippled from a grove of low orchard trees beside a clear tumbling rill, and warm golden sunlight spilled across my bare ankles without a trace of morning stiffness in my knees.
+I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz bridge abutment a hundred yards down from our arrival glade, still curled up closely against Nolan on a three-inch bed of velvety dry moss beneath our green-and-navy plaid sofa blanket. One of my arms was draped over my brother's broad shoulder, his tousled brown hair tucked right under my chin the way the two of us had always huddled together through winter apartment drafts and long hospital waiting-room nights. For three seconds my sleepy brain waited for the six-thirty garbage truck to rattle the alley dumpsters below our window. Instead, a chorus of liquid, flute-like birdcalls rippled from a grove of low orchard trees beside a clear tumbling rill, and warm golden sunlight spilled across our bare ankles without a trace of morning stiffness in my knees.
 
-Beside me, Nolan was already awake, sitting cross-legged on the dry moss tying two opposite corners of our plaid throw blanket into a neat diagonal shoulder sling so neither of us would lose a hand carrying it while using our forearm crutches.
+Nolan stirred against my chest, tightened his arm around my waist in a sleepy good-morning squeeze, and blinked lazily toward the sunlit arch where all four of our Lofstrand forearm crutches leaned side by side against the carved stone wall within easy reach.
 
-"Morning, shortstop," I murmured, stretching my arms overhead before reaching for my charcoal crutches.
+"Morning, flagpole," my brother murmured against my collarbone before sitting up just enough to kiss the top of my hand and begin knotting two opposite corners of our plaid throw blanket into a neat diagonal shoulder sling so neither of us would lose a hand carrying it on crutches.
 
-"Morning, flagpole," my brother shot back with an easy grin, passing me my pair grip-first the way we had handed each other mobility gear since we were kids. "Wait till you step onto the road up there. Whoever built highways in this place hated sharp edges."
+"Morning, shortstop," I smiled, giving his shoulders one last lingering hug before stretching my arms overhead and reaching for my charcoal pair. Nolan passed them to me grip-first the way we had handed each other mobility gear since we were kids. "Wait till I see this road you spotted last night—tell me my sleepy eyes aren't making up pink marble."
 
 He wasn't exaggerating. Ten paces up a gentle grassy bank ran an ancient causeway twelve feet wide, paved from verge to verge in huge, hexagonal slabs of pale rose quartz fitted so tightly together a knife blade couldn't slip between the seams. Centuries of rain and wind had polished every stone to a warm, velvety satin—smooth enough that our bare soles glided over it without a single nick or scrape, yet textured just enough that the rubber ferrules of our four forearm crutches gripped solid on every swing-through step.
 
@@ -122,17 +122,17 @@ Nolan's hazel eyes crinkled warm at the corners. He slipped the knotted plaid bl
 
 **Harmonic Cycle:** Second Afternoon of the Twin Moons, The Sunken Milestone • **Chronometer:** 15:30
 
-![In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a blue-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola station diverge, barefoot Gwen Lennox (6-foot-1, charcoal forearm crutches) and barefoot Nolan Lennox (5-foot-7, silver forearm crutches) share mugs of spiced cider beside friendly white-whiskered peddler Bramwell Kettle and his lantern-hung wooden cart.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg)
+![In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot 6-foot-1 Gwen Lennox wraps an arm affectionately around her shorter 5-foot-7 brother Nolan Lennox on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg)
 
 #### 3:30 PM — Moonsilver Cuffs and Spiced Cider
 
 The applewood smoke belonged to a round copper kettle bubbling on a folding iron brazier beside the cheerfulest wooden tinker's cart I had ever laid eyes on.
 
-Strings ofblown-glass lanterns in cobalt, amber, and sea-green clinked softly along its curved canvas ribs, while a gentle, broad-shouldered draught beast with curly russet wool and curled ram's horns munched clover in the shade of an ancient three-faced runestone milestone. Before Gwen and I had even finished the last twenty paces across the arched stone bridge on our crutches, a stout, white-whiskered man in a patched plum-velvet waistcoat and a soft wool cap hopped down off the cart's footboard with two earthenware mugs already steaming in his hands.
+Strings of blown-glass lanterns in cobalt, amber, and sea-green clinked softly along its curved canvas ribs, while a gentle, broad-shouldered draught beast with curly russet wool and curled ram's horns munched clover in the shade of an ancient three-faced runestone milestone. Before Gwen and I had even finished the last twenty paces across the arched stone bridge on our crutches, a stout, white-whiskered man in a patched plum-velvet waistcoat and a soft wool cap hopped down off the cart's footboard with two earthenware mugs already steaming in his hands.
 
-"Hail and easy step to you, travelers!" he called warmly, pulling out two wide cedar camp stools with woven rush seats before we even had to ask to sit. "Bramwell Kettle, licensed tinker of the Three Marches, at your service. Take the weight off your wrists and wrap your palms around some hot cinnamon-pear cider—this last league of the causeway climbs steeper than it looks!"
+"Hail and easy step to you, travelers!" he called warmly, swinging down a wide cedar camp bench cushioned with woven river-rush before we even had to ask to sit. "Bramwell Kettle, licensed tinker of the Three Marches, at your service. Take the weight off your wrists and wrap your palms around some hot cinnamon-pear cider—this last league of the causeway climbs steeper than it looks!"
 
-Neither his eyes nor his voice held a trace of pity, awkwardness, or intrusive curiosity as Gwen and I sank gratefully onto the rush stools in our modern jeans and cotton t-shirts and leaned our four crutches against the cart wheel. If anything, Bramwell squinted with pure craftsman's admiration at the brushed matte-silver aluminum of my Lofstrand tubes.
+Neither his eyes nor his voice held a trace of pity, awkwardness, or intrusive curiosity as Gwen and I sank gratefully side by side onto the rush bench in our modern jeans and cotton t-shirts, leaning all four of our Lofstrand forearm crutches neatly against the wooden cart wheel. Gwen immediately looped her left arm affectionately around my shoulders, tucking me close against her side while our bare feet rested in cool clover. If anything, Bramwell squinted with pure craftsman's admiration at the brushed matte-silver aluminum of my single-shaft forearm tubes.
 
 "Now that is fine tube-smithing," Bramwell marveled respectfully, not touching them without permission. "Hollow-drawn moonsilver alloy, by the lightness of your swing! Most borderland folk still carve ashwood walking-staves ten times heavier."
 
@@ -192,7 +192,7 @@ Gwen looked from the sapphire lanterns bobbing gently on the canal boat, to the 
 
 **Harmonic Cycle:** Second Twilight of the Twin Moons, The Glasswater Canal • **Chronometer:** 18:45
 
-![At cobalt-and-gold 1980s fantasy twilight along the mirror-calm Glasswater Canal, barefoot 6-foot-1 Gwen Lennox in her burgundy t-shirt and jeans and her 5-foot-7 brother Nolan Lennox in his navy t-shirt and jeans sit side by side under their plaid sofa blanket near the carved wooden prow of a wide barge hung with sapphire and amber glass lanterns, their forearm crutches resting safely beside the gunwale.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg)
+![At cobalt-and-gold 1980s fantasy twilight along the mirror-calm Glasswater Canal, barefoot 5-foot-7 Nolan Lennox and his taller 6-foot-1 sister Gwen Lennox cuddle warmly together under their green-and-navy plaid sofa blanket on the cushioned prow bench of a wide cedar barge hung with sapphire and amber glass lanterns, Gwen resting her head on Nolan's shoulder while their silver and charcoal single-tube Lofstrand forearm crutches rest cleanly against the wooden gunwales.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg)
 
 #### 6:45 PM — Zero Weight on Our Knees
 
@@ -246,7 +246,7 @@ I rested my head down on my brother's shoulder, watching two moons ripple in blu
 
 **Harmonic Cycle:** Second Twilight of the Twin Moons, The Whisperwood • **Chronometer:** 18:30
 
-![Beneath towering silver-barked rowan trees and softly glowing blue-and-gold bioluminescent canopy blossoms in a 1980s fantasy forest, barefoot 6-foot-1 Gwen Lennox and her shorter 5-foot-7 brother Nolan Lennox sit side by side on a mossy carved stone bench with their jeans cuffs rolled up, soaking their bare feet in a gently steaming crystal-clear warm mineral spring while their forearm crutches lean beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg)
+![Beneath towering silver-barked rowan trees and softly glowing blue-and-gold bioluminescent canopy blossoms in a 1980s fantasy forest, barefoot 5-foot-7 Nolan Lennox and his taller 6-foot-1 sister Gwen Lennox sit hugging affectionately side by side on a mossy carved stone bench with their jeans cuffs rolled up, soaking their bare feet in a gently steaming crystal-clear warm mineral spring while their silver and charcoal Lofstrand forearm crutches lean cleanly beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg)
 
 #### 6:30 PM — Built for Unhurried Feet
 
@@ -298,7 +298,7 @@ As the canopy blossoms brightened overhead like an indoor galaxy of blue and gol
 
 **Harmonic Cycle:** Second Sunset of the Twin Moons, The Amber Crags • **Chronometer:** 18:20
 
-![Against a sweeping 1980s fantasy sunset of painted gold-and-violet clouds and twin rising moons in the Amber Crags, barefoot 6-foot-1 Gwen Lennox and her 5-foot-7 brother Nolan Lennox sit wrapped in their green-and-navy plaid sofa blanket on the wide wooden bench of an ornate open brass-and-oak counterweight cable gondola gliding past cliffside arches and bronze wind-harps, their forearm crutches resting beside their knees.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/route3_brass_counterweight_way.jpg)
+![Against a sweeping 1980s fantasy sunset of painted gold-and-violet clouds and twin rising moons in the Amber Crags, barefoot 5-foot-7 Nolan Lennox and his taller 6-foot-1 sister Gwen Lennox cuddle warmly together in an affectionate hug inside their green-and-navy plaid sofa blanket on the wide oak bench of an ornate open brass-and-oak counterweight cable gondola gliding past cliffside arches and bronze wind-harps, with their silver and charcoal single-tube Lofstrand forearm crutches resting beside the armrests.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/route3_brass_counterweight_way.jpg)
 
 #### 6:20 PM — Water-Wheels and Singing Brass
 
