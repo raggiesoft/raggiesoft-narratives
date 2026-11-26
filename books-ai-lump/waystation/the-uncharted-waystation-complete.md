@@ -24,7 +24,7 @@ Shifting my weight onto my left silver forearm cuff, I straightened one crooked 
 
 Turning smoothly on my rubber crutch tips, I looked forward at chest height first—and then had to angle my chin noticeably downward.
 
-Even standing in thick, chunky white late-nineties platform sneakers designed to boost her off the linoleum, the young woman smiling up at me couldn't have stood an inch over five feet flat. At five-foot-seven, I was almost never the tall person in a room—my sixteen-year-old kid sister Gwen had caught me eye-to-eye back when she was twelve and towered over me at six-foot-one now—yet I stood a good seven inches taller than this customer. Glossy, ruler-straight jet-black hair fell past the shoulders of her soft pastel baby-blue zip-up fleece cardigan, framing a round, rosy-cheeked baby face that made me figure she was twenty or twenty-one like me. Beneath dark lashes, big warm doe-brown eyes met mine with a gentle, unhurried smile, and she didn't flick her gaze down toward the gray open forearm cuffs around my sleeves for even half a second.
+Even standing in thick, chunky white late-nineties platform sneakers designed to boost her off the linoleum, the young woman smiling up at me couldn't have stood an inch over five feet flat. At five-foot-seven, I was almost never the tall person in a room—my kid sister Gwen had caught me eye-to-eye back in middle school and towered over me at six-foot-one now—yet I stood a good seven inches taller than this customer. Glossy, ruler-straight jet-black hair fell past the shoulders of her soft pastel baby-blue zip-up fleece cardigan, framing a round, rosy-cheeked baby face that made me figure she was twenty or twenty-one like me. Beneath dark lashes, big warm doe-brown eyes met mine with a gentle, unhurried smile, and she didn't flick her gaze down toward the gray open forearm cuffs around my sleeves for even half a second.
 
 "No bother at all—that's actually a really good physics question," I said earnestly, tapping the nine-dollar cardboard box on the bottom peg instead of the forty-dollar amplified dish corporate wanted us pushing on endcaps. "Corrugated aluminum siding on a mobile home acts almost like a Faraday cage against UHF and VHF broadcast waves. Even an expensive amplified antenna won't pull a clean picture if you set it on top of a television against an interior wall. What actually works is buying this plain nine-dollar passive dipole set plus a twelve-foot RG-six coaxial jumper cable for four bucks so you can set the antenna base right on your windowsill against the glass."
 
@@ -62,13 +62,9 @@ Ten minutes later, after crossing the crosswalk from the Blue Tech lot into Emer
 
 Overhead, bright October daylight poured down through perimeter skylights beneath the high white peaked fabric tent canopy of the food court, warming the eight-by-eight reddish-brown quarry tiles under our shoes while the smell of salted fries and cinnamon sugar from Annie's Pretzels drifted past. Propping both of my matte-silver Lofstrand forearm crutches neatly parallel against the right side of my chair frame where nobody walking along the railing could trip over the gray rubber tips, I sat down across from Tammy, lined my paper napkin parallel to the edge of my tray, and unwrapped my burger.
 
-Tammy proved to be the easiest person to talk to I had ever met. Whenever most neurotypical people made conversation, it felt like trying to catch tennis balls thrown two at a time in the dark—jokes that weren't actually jokes, questions where the honest answer turned out to be rude. Tammy didn't rush me once. She rested her chin lightly on her palm, sipped from her plain yellow fountain cup, and listened with rapt, polite attention while I told her how Grandpa Walter—retired Navy machinist, stubborn as oak, sharpest neurotypical common sense in Chesapeake—had stepped into Juvenile and Domestic Relations Court back in the eighties to take full custody of Gwen and me when we were little kids, and how Gwen was sixteen now, razor-sharp at math and orbital astronomy, and basically my best friend in the whole world.
+Tammy proved to be the easiest person to talk to I had ever met. Whenever most neurotypical people made conversation, it felt like trying to catch tennis balls thrown two at a time in the dark—jokes that weren't actually jokes, questions where the honest answer turned out to be rude. Tammy didn't rush me once. She rested her chin lightly on her palm, sipped from her plain yellow fountain cup, and listened with rapt, polite attention while I told her how Grandpa Walter—seventy-six and still healthy as an ox, retired Navy machinist, sharpest neurotypical common sense in Chesapeake—had stepped into Juvenile and Domestic Relations Court back in the eighties to take full custody of my sister Gwen and me when we were kids, and how Gwen was razor-sharp at math and orbital astronomy and basically my best friend in the whole world.
 
-"Sixteen," Tammy echoed warmly, smiling across the laminate tabletop. "Aw, so you're the protective big brother looking out for your little sister."
-
-"Well, five years older, anyway—definitely not bigger anymore," I chuckled, picking up a hot French fry between my thumb and forefinger. "Gwenny caught up to me at five-six-and-a-half when she was twelve, blew right past my five-foot-seven the next year, and topped out at six-foot-one before eleventh grade. Pediatric orthotics had to special-order adult tall-frame charcoal forearm crutches for her because she ran completely out of adjustment holes."
-
-For the tiniest fraction of a second—so brief I barely registered it—Tammy's fingers tightened slightly around her straw at the words *sixteen* and *six-foot-one*, her gaze flicking instinctively down toward her own chunky white platform sneakers hovering barely atop the terracotta tile. Just as fast, that flicker vanished behind a bright, determined smile.
+"That's really sweet, Nolan," Tammy said warmly, smiling across the laminate tabletop without me ever thinking to mention Gwen's age or how tall she stood. "Not a lot of guys talk that nicely about their family."
 
 Setting her cup aside, Tammy reached up with both hands and swept all of her straight, glossy jet-black hair cleanly back behind her shoulders. Next she slid her pastel baby-blue zip-up fleece cardigan wide open, tugging both blue fleece sleeves partway back behind her elbows as she scooted forward onto the very front edge of her chair. Planting both small hands back against the curves of her jeans hips, she arched her lower spine sharply inward, drew her shoulders tight behind her ribcage, and puffed her chest prominently out over the edge of the table inside her fitted white ribbed cotton camisole.
 
@@ -90,13 +86,95 @@ Across the narrow wood-grain tabletop, Tammy stayed frozen in that arched, shoul
 
 Slowly, an amused, almost fascinated softness curved the corners of her mouth. Letting her shoulders relax an inch forward without losing a drop of that warm, inviting glow in her doe-brown eyes, Tammy pulled a ballpoint pen out of her purse and wrote seven neat digits across the corner of a clean paper napkin.
 
-"You really are the sweetest guy in Chesapeake, Nolan Lennox," Tammy murmured, sliding the folded napkin right beside my red tray. "What day are you off next week? Ride the fifteen out toward Robert Hall and meet me at the Crown Burger on Military Highway—it's walking distance from my place."
+"You really are the sweetest guy in Chesapeake, Nolan Lennox," Tammy murmured, sliding the folded napkin right beside my red tray. "What evening are you off in the next couple days? Come over to my place off Robert Hall—I'll cook you dinner and show you how well my new antenna works."
 
-"I'm off Thursday afternoon," I said happily, tucking the napkin safely into my pocket beside my Blue Tech badge.
+"I'm off Monday afternoon," I said happily, tucking the napkin safely into my pocket beside my Blue Tech badge. "Grandpa and Gwen can swing by in Grandpa's car after dinner to pick me up."
 
 Walking the four quiet blocks home from Emerald Creek Mall at one-fifteen in the afternoon—fifteen minutes ahead of Grandpa Walter's pills, right on routine, sun warm on my royal-blue polo sleeves and silver crutches clicking steady down the sidewalk—I couldn't stop smiling to myself, certain I had just met the gentlest, most polite girl in the world.
 
-### Part 2: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
+### Part 2: Four Wooden Steps, Sofa Cuddles, and Your Older Sister?
+
+**Harmonic Cycle:** Autumn 1998 — Monday Afternoon & Dusk, Two Days After the Mall Lunch, Earth • **Chronometer:** 16:30
+
+![At golden October dusk on the gravel driveway outside Tammy's beige-and-white single-wide mobile home with four wooden steps, taller sixteen-year-old Gwen Lennox (six-foot-one, in a modest burgundy pullover and jeans) wraps her shorter twenty-one-year-old brother Nolan Lennox (five-foot-seven, in a blue plaid flannel shirt and jeans) in their trademark warm greeting hug beside all four of their single-tube matte-silver and matte-charcoal Lofstrand forearm crutches leaning against their healthy seventy-six-year-old grandfather Walter Lennox's parked sedan, while five-foot-nothing Tammy stands at the foot of the wooden steps in her baby-blue cardigan and platform sneakers tilting her head way up in wide-eyed surprise to ask if Gwen is Nolan's older sister, as Grandpa Walter smiles warmly beside the car.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_older_sister_trailer_pickup.jpg)
+
+#### 4:30 PM — Four Steep Steps and What Cuddling Literally Means
+
+Four steep pressure-treated wooden steps led up from the rutted gravel lane of Pinecrest Court to Tammy's narrow aluminum storm door, which was the exact reason my manual wheelchair was sitting folded back in Grandpa Walter's hallway near Emerald Creek Mall while I walked in from Robert Hall Boulevard on my matte-silver Lofstrand forearm crutches.
+
+Tammy had warned me politely about those steps on the phone Sunday night so I wouldn't get surprised at the curb—a small, thoughtful detail my rule-oriented brain appreciated more than flowers. Riding CVTA Route 15 out from Emerald Creek on a mild October Monday afternoon had taken the full cutback transfer in reverse: catching the northbound fifteen outside the mall up Old Emerald Creek Road to eight-lane Military Highway, crossing carefully on the walk signal, and boarding the southbound fifteen all the way down to Robert Hall Boulevard before crutching five minutes past gravel lots and weathered mobile-home skirting.
+
+Before I even got my right knuckles raised to knock, the aluminum screen door swung inward and Tammy smiled down at me from the doorway.
+
+Without her chunky white platform sneakers, standing completely barefoot on the patterned beige linoleum in medium-wash jeans and a simple white ribbed cotton spaghetti-strap camisole, Tammy looked even smaller than she had at Blue Tech—five feet flat to the millimeter, the crown of her glossy, straight jet-black hair barely clearing my collarbone as I climbed the four wooden treads onto her threshold and clicked my silver crutches neatly inside.
+
+"You made it!" Tammy beamed, stepping back so I had plenty of room to plant both gray rubber tips on the flat linoleum without bumping the doorframe. "Look over by the window first—tell me if I hooked it up right!"
+
+Right on the narrow wood-paneled living-room windowsill, next to a white twenty-inch plastic box fan humming on low speed in the open screen window because the trailer had no air-conditioning, sat the nine-dollar passive rabbit-ear antenna and twelve-foot coaxial jumper cable from Aisle Four. Across the room on a small laminate stand, her thirteen-inch television was pulling in afternoon local news without a single bar of static snow.
+
+"Zero ghosting on channel thirteen," I said happily, inspecting the threaded F-connector finger-tight on the tuner jack. "You routed the coax clean clear of the fan motor too so sixty-hertz interference wouldn't bleed into the picture."
+
+Tammy laughed softly, big warm doe-brown eyes crinkling in her round baby face, and handed me a tall plastic tumbler of sweet iced tea beaded cold with condensation.
+
+"Come sit on the couch and cuddle with me while we talk, Nolan," Tammy said gently, nodding toward her soft floral thrift-store sofa against the wood-paneled wall.
+
+If she had used some vague romantic hint, it would have sailed clean past my ears just like Saturday's lunch line had. *Sit on the couch and cuddle while we talk*, though, was plain, literal English—and cuddling was something my autistic brain already knew and trusted completely from twenty-one years of sitting shoulder-to-shoulder under wool blankets with Gwen on Grandpa's sofa at home. Propping both of my matte-silver forearm crutches parallel against the end table within easy reach, I lowered myself onto the left cushion, set my iced tea on a coaster, and lifted my right arm openly so Tammy could settle in beside me.
+
+Tammy didn't push a single thing beyond those exact words.
+
+Tucking both bare feet comfortably underneath her on the center cushion, she leaned gently against my blue plaid flannel shirt, rested her cheek right against my shoulder, and just talked with me like we had all afternoon in the world. Whenever my voice launched into a ten-minute tangent about motherboard bus speeds or why CVTA timed the Glenrock Mall pulse transfers at fifteen and forty-five past the hour, she didn't check the clock, didn't tease me for sounding like an instruction manual, and didn't interrupt once. In quiet, matter-of-fact sentences of her own, she told me she was twenty-four—three years older than me, which startled me because her round face looked barely twenty—and explained how she got by carefully month to month on SSI, Food Stamps, and Medicaid, keeping her bills tiny in this trailer because clocking too many payroll hours anywhere could make the government yank her medical card out from under her overnight.
+
+Around quarter to six, Tammy padded barefoot three paces into the narrow wood-paneled kitchenette, unfolded a small plastic step-stool so her five-foot-nothing reach could pull down a box of spaghetti and a jar of marinara from the upper cabinet above the sink, and boiled dinner right there on her narrow four-burner stove while garlic butter toasted in the oven. Eating across her tiny two-chair formica dinette with the window fan humming softly beside us and zero raised voices anywhere in the room, my shoulders felt looser than they had ever felt inside a stranger's house.
+
+***
+
+#### 7:10 PM — One Greeting Hug and Two Approvals
+
+At ten minutes past seven, twin yellow headlights swept unhurriedly down the gravel lane of Pinecrest Court and eased to a stop beside Tammy's yard, tires crunching quiet over fallen autumn oak leaves.
+
+Right on the dot—because Grandpa Walter respected schedules almost as religiously as I did—Grandpa's clean, well-kept silver-tan four-door sedan idled smooth in park. At seventy-six years old, Grandpa Walter didn't have an ounce of quit or frailty in him: sharp behind the wheel after dark, steady on his feet in his tan canvas windbreaker and wire-rimmed glasses, still changing his own oil and fixing hinges around our Emerald Creek bungalow every Saturday.
+
+Slipping into her pastel baby-blue zip-up fleece cardigan against the October dusk breeze and stepping into her chunky white platform sneakers by the door, Tammy followed me politely out onto the top landing while I navigated the four wooden steps one steady tread at a time on my silver forearm crutches—never grabbing my elbow without asking, just standing ready until both of my sneakers met level gravel.
+
+It was Tammy's very first time laying eyes on either Grandpa Walter or Gwen.
+
+Before Grandpa had even finished rounding the back bumper with a friendly wave, the front passenger door swung wide and Gwen stepped effortlessly out onto the gravel with her two tall matte-charcoal Lofstrand forearm crutches.
+
+Seeing my sister after even half a day apart triggered the exact same automatic reflex it had since she was in kindergarten: Nolan and Gwen Lennox *always* greeted each other with a hug. Stepping three strides forward to meet her beside the rear fender, Gwen and I propped all four of our forearm crutches—my shorter matte-silver pair on the left, her taller matte-charcoal pair on the right—cleanly side by side against the sedan's quarter panel. Opening both arms wide, I pulled my sister straight into a tight, warm bear hug, my five-foot-seven chin tucking right into its familiar spot below her collarbone while six-foot-one Gwen wrapped both arms snugly around my shoulders and rested her cheek happily on top of my tousled brown hair.
+
+"Hey, big head," Gwen murmured warmly against my hair, giving me an extra squeeze before we stepped half a pace apart, still smiling. "Have a good dinner?"
+
+"Really good—spaghetti and garlic toast," I grinned, turning halfway toward the wooden trailer steps to introduce them. "Grandpa, Gwenny, this is Tammy."
+
+At the bottom of the four wooden steps, Tammy had stopped completely still on the gravel with both small hands clasped in front of her baby-blue cardigan.
+
+Even standing in her thick white platform soles, five-foot-nothing Tammy had to tilt her round face sharply upward—past my five-foot-seven shoulder, and then another full six inches higher—just to meet Gwen's green-hazel eyes beneath wavy honey-brown curls that towered thirteen inches above Tammy's crown. Blinking twice in genuine, wide-eyed astonishment at the height difference she had just watched in that hug, Tammy smiled up politely.
+
+"Hi! Oh—wait," Tammy asked gently, looking back and forth from my chin to the top of Gwen's head. "Is Gwen your older sister?"
+
+Gwen let out a bright, easy laugh without a trace of self-consciousness, while a proud grin split my face from ear to ear.
+
+"Nope," I said happily. "She's my younger sister. Gwenny's sixteen—five years behind me."
+
+For half a heartbeat Tammy looked almost dizzied craning her neck that far up at a high-school sophomore—realizing on the spot that Nolan's *kid* sister stood over a full foot taller than a twenty-four-year-old grown woman—yet she smoothed it seamlessly into the sweetest, most respectful manners imaginable. Stepping briskly across the gravel, Tammy shook Grandpa Walter's calloused machinist hand with both of hers, thanked him politely for driving all the way out toward Robert Hall Boulevard after dark, and told Gwen warmly how proudly I had bragged about her astronomy math at the mall food court on Saturday.
+
+"Pleasure meeting you, Tammy," Grandpa Walter said in his steady baritone, giving a small, unmistakable nod as his sharp neurotypical eyes took in the swept porch steps, the working porch light she had switched on so Gwen and I could see our footing on the gravel, and how unhurriedly she stood talking with us by the car. "Thank you for feeding this boy something besides mall french fries."
+
+"Anytime at all, Mr. Lennox—drive safe getting home," Tammy called softly from the foot of her steps, waving until I had settled into the front passenger seat, Gwen had stretched her long legs comfortably across the back bench behind me, and all four of our Lofstrand forearm crutches lay parallel across the rear floorboard.
+
+Backing smoothly out onto the paved lane toward Robert Hall Boulevard with warm dashboard amber glowing over the steering column, Grandpa Walter glanced once into the rearview mirror and nodded to himself.
+
+"Polite young woman, Nolan," Grandpa said plainly. "Good manners, clean yard, and she waited till you were steady on the gravel before saying a word. Seems like a nice kid."
+
+My shoulders warmed—yet before letting myself celebrate, I turned halfway around over the cloth headrest toward the back seat. As much as I trusted Grandpa Walter, in my mind Gwen's verdict mattered more than anybody else's on Earth. If neurotypical Gwen heard one false note behind someone's voice, I didn't want anything to do with them.
+
+In the glow of a passing streetlight, sixteen-year-old Gwen met my eyes and broke into a genuinely happy, unmistakable smile.
+
+"I really like her, Nolan," Gwen said warmly, reaching forward to squeeze my shoulder once over the seatback. "Even when she thought I was twenty-five, she was super sweet about it, and I haven't seen you look that relaxed around somebody new in forever."
+
+Turning back toward the windshield as Grandpa steered us up toward Military Highway and home to Emerald Creek, my chest felt lighter than air. Grandpa Walter approved, Gwen approved, and nobody had yelled, rushed, or expected me to read minds all evening long.
+
+### Part 3: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
 
 **Harmonic Cycle:** Autumn 2000 — Two Days Before Gwen's Eighteenth Birthday, Earth • **Chronometer:** 08:30
 
@@ -262,7 +340,7 @@ Six-foot-one Gwen took one look at my red-rimmed hazel eyes, the faint pink mark
 
 Inside the warm kitchen, though, seventy-eight-year-old Grandpa Walter sat propped in his worn recliner beneath his dark-green and navy-blue plaid wool blanket, a thick manila accordion folder tied with string resting across his thin knees. His eyes shone proud and deeply relieved to have me back under his roof, yet the shallow rattle in his breathing made it plain he knew his time was almost up—holding on by sheer willpower so Gwen would turn eighteen on Thursday free of any city social-services claim.
 
-While Gwen went down the hall to make up my old bed, Grandpa untied the manila folder and quietly walked me through the last of his earthly affairs: his notarized two-page will naming me executor, his veterans discharge and modest burial policy, and the ninety-day payoff statement on the home-equity medical loan he had borrowed five years back to keep our roof patched and wheelchairs rolling—meaning once he passed, the house would have to be sold.
+While Gwen went down the hall to make up my old bed, Grandpa untied the manila folder and quietly walked me through the last of his earthly affairs: his notarized two-page will naming me executor, his veterans discharge and modest burial policy, and the ninety-day payoff statement on the home-equity medical loan he had borrowed after his winter pneumonia and heart-failure hospitalization earlier this year—meaning once he passed, the house would have to be sold.
 
 "I'm making Thursday, boy," Grandpa Walter whispered with a faint, steady smile, squeezing my wrist. "I'm seeing your sister turn eighteen. After that, Nolan... make sure she's got a home right beside her brother."
 
@@ -270,7 +348,7 @@ That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of c
 
 It was a tiny rectangular box built for one person. Come Thursday evening over birthday cake, I couldn't wait to hand my sister the second key.
 
-### Part 3: Eighteen Candles, One Brass Key, and Everything Left Behind
+### Part 4: Eighteen Candles, One Brass Key, and Everything Left Behind
 
 **Harmonic Cycle:** Autumn 2000 — Gwen's Eighteenth Birthday and the Weeks After, Earth • **Chronometer:** 18:30
 
@@ -340,7 +418,7 @@ Gwen pulled back just enough to cup both sides of my face in her palms, looking 
 
 True to her word, Gwen booted up her clunky gray laptop running Quantum OS 98 right there on an upturned packing crate beside me, drafted a neat checklist of final meter-read dates while leaning warm against my shoulder, and refused to go to sleep until every single envelope was stacked, stamped, and conquered together.
 
-### Part 4: Moving Into a Rectangular Box and Quantum OS 2000
+### Part 5: Moving Into a Rectangular Box and Quantum OS 2000
 
 **Harmonic Cycle:** Late Autumn 2000 — Moving Week in Studio 2B, Earth • **Chronometer:** 16:15
 
@@ -394,9 +472,9 @@ Nolan grinned from ear to ear, reached down to his zippered CD wallet beside his
 
 "Scoot that dinosaur over here, astronomer," Nolan said happily, backing up my star-chart math onto a blank CD first before popping the *Quantum OS 2000 Professional* upgrade disc into my spinning drive. "Protected memory, rock-solid kernel, and zero nine-eight crashes all winter."
 
-While blue setup bars marched steadily across my screen and Nolan—happily back in his element of clean technical routines—lined all four of our forearm crutches in exact height order beside the footboard before fine-tuning the V-shaped rabbit ears atop our swiveled television until snowy local broadcast cleared into a late-night nineteen-eighties fantasy movie, I curled right up against my big brother's side under Grandpa Walter's plaid wool blanket. Being neurotypical while growing up five years behind a verbal autistic big brother meant I had known my whole life how deeply Nolan thrived on plain truth, zero yelling, and quiet, predictable affection—just as I had seen past five-foot-nothing Tammy's sugary voice the very first Sunday he brought her onto Grandpa's porch when I was sixteen. Exhausted from weeks of funeral and house-sale chaos, broke as church mice, and crammed into a rectangular one-person box where nobody would ever play mind games with my brother again, I felt happier than I had been in two whole years just having Nolan safe beside me.
+While blue setup bars marched steadily across my screen and Nolan—happily back in his element of clean technical routines—lined all four of our forearm crutches in exact height order beside the footboard before fine-tuning the V-shaped rabbit ears atop our swiveled television until snowy local broadcast cleared into a late-night nineteen-eighties fantasy movie, I curled right up against my big brother's side under Grandpa Walter's plaid wool blanket. Being neurotypical while growing up five years behind a verbal autistic big brother meant I had known my whole life how deeply Nolan thrived on plain truth, zero yelling, and quiet, predictable affection—and even Grandpa Walter and I had genuinely approved of polite, soft-spoken Tammy that first evening we drove out to pick Nolan up from her trailer when I was sixteen, long before her temper began to turn. Exhausted from weeks of funeral and house-sale chaos, broke as church mice, and crammed into a rectangular one-person box where nobody would ever play mind games with my brother again, I felt happier than I had been in two whole years just having Nolan safe beside me.
 
-### Part 5: Eighty-Nine Degrees and One Rattling Fan
+### Part 6: Eighty-Nine Degrees and One Rattling Fan
 
 **Harmonic Cycle:** August 2001 — Ten Months in Studio 2B, Earth • **Chronometer:** 15:10
 
