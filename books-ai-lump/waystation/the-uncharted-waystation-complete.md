@@ -320,59 +320,63 @@ Outside our rectangular room, the early-two-thousands world kept treating two cr
 
 #### 9:15 PM — Forty-Seven Minutes on Speakerphone
 
-October rain ticked steady against the silent window air-conditioner above our headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our milk-crate nightstand for the forty-seventh straight minute.
+October rain ticked steady against the silent window air-conditioner above our corner headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our milk-crate nightstand for the forty-seventh straight minute.
 
 Propped up against the pillows beside me on our shared full-sized bed—wearing her plain heather-burgundy t-shirt and worn blue jeans with Grandpa Walter's dark-green and navy-blue plaid wool blanket tucked across both of our bare-footed laps—Gwen reached over, punched the plastic speaker button off with her thumb, and dropped her head back against my shoulder with a long groan. Just six days past her nineteenth birthday, six-foot-one to my twenty-four-year-old five-foot-seven frame, she took up a generous diagonal half of my mattress and was still the best roommate on Earth.
 
 "Closed for the weekend," Gwen sighed, nudging the fan-fold pile of prior-authorization denial letters beside the corded phone. "Six weeks for one bent front caster fork on my wheelchair, and the rep had the nerve to ask whether I really needed to leave the apartment before Thanksgiving."
 
-"Good thing neither of us had fancy Friday night plans," I said, wrapping my right arm snugly around her waist and pulling Grandpa Walter's plaid blanket higher so her bare toes could warm up against my shins. Across the narrow rectangular box of Studio 2B, the green clock on my VCR and DVD combo unit glowed beneath the rabbit-ear television on my dresser, where both of our closed Quantum OS 2000 Professional laptops sat stacked neatly out of reach of kitchen splashes. Three feet past the rolling microwave-cart pantry and the dorm fridge tucked under our tiny sink counter, both of our manual wheelchairs sat parked side by side by the front door—mine with a taped left armrest pad, hers listing half an inch toward the bent right caster. Right against the wooden bedpost within arm's reach leaned all four of our single-tube Lofstrand forearm crutches: my shorter matte-silver pair on the outside, Gwen's taller matte-charcoal pair beside them.
+"Good thing neither of us had fancy Friday night plans," I said, wrapping my right arm snugly around her waist and pulling Grandpa Walter's plaid blanket higher so her bare toes could warm up against my shins. Across the narrow rectangular box of Studio 2B, the glowing green LED clock on my brushed-silver VCR and DVD combo unit clicked quietly over to *9:15* beneath the swiveled rabbit-ear television on my dresser, right next to Grandpa Walter's silver-framed photograph and my closed charcoal laptop. Beside Gwen's knee on the bed, her own upgraded Quantum OS 2000 Professional laptop hummed softly, tracing the steady two-body orbital loop of a large pale moon and a smaller amber companion keeping each other from drifting apart. Three feet past the rolling microwave-cart pantry and the dorm fridge tucked under our tiny sink counter, both of our manual wheelchairs sat parked side by side by the front door—mine with a taped left armrest pad, hers listing half an inch toward that bent right caster. Right against the wooden bedpost within arm's reach leaned all four of our single-tube Lofstrand forearm crutches: my shorter matte-silver pair on the outside, Gwen's taller matte-charcoal pair beside them.
 
-"Honestly, Nolan?" Gwen murmured, wrapping both arms affectionately around my shoulders and resting her cheek against the crown of my head. "After a whole year of yellow tape on the lobby elevator, cooking over two feet of counter, and begging strangers on speakerphone for thirty-dollar wheelchair parts... if there were a doorway in this studio that took the two of us somewhere without landlords, broken curb cuts, or medical billing codes, I wouldn't even stop to grab shoes."
+"Honestly, Nolan?" Gwen murmured, wrapping both arms affectionately around my shoulders and resting her cheek against the crown of my head. "After a whole year of yellow tape on the lobby elevator, bus drivers stopping in Mall Ring Road traffic because nobody poured a curb cut, and begging strangers on speakerphone for thirty-dollar wheelchair parts... if there were a doorway in this studio that took the two of us somewhere built for our pace—no landlords, no broken curb cuts, nobody ever hurting you—I wouldn't even stop to grab shoes."
 
 "Long as it takes both names on the lease together and never lets either of us go," I murmured back, hugging her close. "Knowing our luck, though, the doorway would ask for a Quantum driver disc and three—"
 
 The narrow strip of air between the edge of my full-sized bed and the oak dresser folded inward like warm amber stained glass.
 
-There was no thunderclap and no smoke—only a deep, resonant double chord like two great brass rings chiming into sudden harmony inside a cathedral, answering the exact cadence of our two voices as if something ancient across the stars had spent generations listening for two inseparable hearts beating at the same unhurried pace. A warm breeze smelling of crushed wild thyme, wet rose limestone, and night-blooming jasmine swept straight between our microwave pantry cart and the rabbit-ear television. Before I could even push upright off the pillows, the amber shimmer widened to the full length of our fifty-four-inch mattress, turning the floorboards beneath the bedframe into liquid gold light.
+There was no thunderclap and no smoke—only a deep, resonant double chord like two great brass rings chiming into sudden harmony inside a cathedral, answering the exact mathematical cadence of Gwen's twin-moon screen and the steady rhythm of our two voices as if something ancient across the stars had spent generations listening for an astronomer's eye and a wayfinder's heart moving at one unhurried pace. A warm breeze smelling of crushed wild thyme, wet rose limestone, and night-blooming jasmine swept straight between our microwave pantry cart and the swiveled rabbit-ear television. Before I could even push upright off the pillows, the amber shimmer widened to the full length of our fifty-four-inch mattress, turning the floorboards beneath the bedframe into liquid gold light.
 
-Instinct took over faster than thought. With my left arm I hooked all four aluminum forearm crutches clean off the bedpost and clamped them tight against my heather-navy t-shirt; with my right arm I locked around Gwen's waist and a fistful of Grandpa Walter's plaid wool blanket as the edge of the full-sized bed tipped gently into starlight.
+Pure big-brother instinct fired faster than fear. With my left arm I hooked all four aluminum forearm crutches clean off the bedpost and clamped them tight against my heather-navy t-shirt; with my right arm I locked around Gwen's waist and a fistful of Grandpa Walter's plaid wool blanket as the edge of the full-sized bed tipped gently into starlight.
 
 "Nolan!" Gwen gasped, holding onto my shoulders with all her strength.
 
 We fell less than the height of a porch step.
 
-Instead of hitting the dry cleaner's ceiling plaster downstairs, my bare heels and worn blue jeans sank into three inches of cool, springy, velvet-soft moss that cushioned our weight like a feathered quilt. Behind our shoulders, a faint oval of amber stained-glass light hovered two feet above the glowing turf—offering one fleeting glimpse of our tiny empty studio, the green VCR clock, our two closed laptops, and our two parked wheelchairs ten feet out of reach by the dorm fridge—before winking shut with a soft double chime.
+Instead of hitting the ceiling plaster downstairs, my bare heels and worn blue jeans sank into three inches of cool, springy, velvet-soft moss that cushioned our weight like a feathered quilt. Behind our shoulders, a faint oval of amber stained-glass light hovered two feet above the glowing turf—offering one fleeting glimpse of our tiny empty studio, the green *9:15* VCR clock, Grandpa's framed photo, our laptops, and our two parked wheelchairs ten feet out of reach by the dorm fridge—before winking shut with a soft double chime.
 
 Silence settled around us, vast and sweet and alive with distant crickets.
 
 ***
 
-#### 9:40 PM — Far From the Waystation, Together in the Star-Moss
+#### 9:40 PM — Fear First, Two Moons Second
 
-For ten full seconds neither of us let go. Gwen's arms stayed locked protectively around my neck beneath Grandpa Walter's plaid blanket while the four single-shaft forearm crutches rested safe across our laps.
+For ten full seconds neither of us let go—and I would be lying through my teeth if I claimed my first emotion was brave fantasy excitement.
 
-"Tell me our bed didn't fall into the dry cleaner's," Gwen whispered against my temple.
+My heart hammered against my ribs in cold, sharp panic. Gwen's fingers were trembling hard against my collarbones under Grandpa Walter's plaid blanket while I stared at the empty air where our apartment wall had just vanished.
 
-"Unless the dry cleaner planted a whole mountain range out back, I think we missed the first floor," I breathed, looking up in awe.
+"Tell me our bed didn't fall into the downstairs unit, or that the gas oven didn't leak and knock us both out," Gwen whispered shakily against my temple, breathing fast.
 
-Above ancient, silver-barked trees arched an indigo twilight sky straight out of a painted nineteen-eighties fantasy film—deep sapphire melting into copper-gold along a distant horizon of soaring, mist-wreathed peaks miles upon miles away. High above the farthest central crag glimmered a tiny, solitary pinpoint of warm turquoise-and-amber starlight, like a sleeping beacon waiting at the far end of a long, winding road. And hanging side by side in the sky above shone two moons in the exact close resonance Gwen had plotted on her upgraded laptop in August: one large and pale ivory, the smaller one glowing rose-amber off its shoulder through a faint, drifting veil of silver mist.
+"Gas leaks don't smell like wild thyme," I managed, though my own throat felt dry as chalk as every practical, protective alarm in my twenty-four-year-old brain went off at once.
 
-Gwen slowly pressed one bare sole into the glowing blue-white star-moss and let out a soft breath.
+On Earth, getting stranded outdoors after dark in bare feet with zero shoes, zero wallets, and both of our manual wheelchairs locked behind a wall was an outright crisis. Worse, I had an opening Saturday shift at the Emerald Creek Blue Tech in twelve hours. Having zero clue how time worked between wherever we had landed and Chesapeake, one terrifying math problem raced through my chest: if we couldn't find the door back by morning, I would miss work, rent would bounce on the first, and the superintendent would clear out our wheelchairs, our laptops, and Grandpa Walter's framed photo onto the curb.
 
-"Nolan—feel the ground," she whispered. "It's warm. Not a sharp stone anywhere."
+"Okay—don't panic, Gwenny, stay right against me," I breathed rapidly, checking all four Lofstrand forearm crutches across our laps—two shorter matte-silver, two taller matte-charcoal, rubber ferrules and open cuffs completely intact. "Both of our wheelchairs stayed behind by the dorm fridge, and I have no idea how long our wrists hold up if the ground out here is gravel, or what happens to Studio 2B if I miss my shift tomorrow—"
 
-I checked all four Lofstrand forearm crutches—two shorter matte-silver, two taller matte-charcoal, rubber ferrules and open cuffs completely intact—though a quiet protective knot tugged at my chest when I looked back at the empty glade.
+"Nolan," Gwen breathed softly, her grip on my sleeve suddenly shifting from fear to sheer, stunned awe. "Look up. And press your bare foot down."
 
-"Our wheelchairs stayed behind by the dorm fridge," I said softly. "And whatever that tiny glowing light up in the far mountains is, nobody dropped us on its doorstep. We're way out in the wild borderlands."
+I swallowed hard and looked up.
 
-Gwen slipped her forearms into her tall matte-charcoal cuffs, planted the rubber tips into the firm, springy star-moss, and pushed herself smoothly up to her full six-foot-one height in the double moonlight—reaching a warm hand down to steady me as I clicked my silver cuffs on and eased up beside her onto a wide, mossy fallen cedar trunk. Right away, she tucked Grandpa Walter's plaid blanket snug around both of our shoulders and pulled me right back into a close, lingering side-hug.
+Above ancient, silver-barked trees arched an indigo twilight sky straight out of a painted nineteen-eighties fantasy film—deep sapphire melting into copper-gold along a distant horizon of soaring, mist-wreathed peaks miles upon miles away. High above the farthest central crag glimmered a tiny, solitary pinpoint of warm turquoise-and-amber starlight, like a sleeping beacon waiting at the far end of a long, winding road. And hanging side by side in the sky above shone two real moons in the exact three-to-two binary resonance Gwen had been running on her laptop ten seconds ago: one large and pale ivory, the smaller one glowing rose-amber off its shoulder through a faint, drifting veil of silver mist.
 
-"Good," Gwen said quietly, resting her cheek against the top of my head as tiny lantern-tailed moths drifted past our bare toes. "Everything worth keeping, you and I figured out together one step at a time, Nolan. Look around—no stairs, no hold music, nobody hurting you, nobody locking me up. Whatever adventure lies between this meadow and those mountains... we take it together."
+Beneath my bare soles, the glowing blue-white star-moss felt warm as sun-heated wool—not a single burr, jagged pebble, or six-inch concrete curb anywhere in the glade.
 
-I wrapped both arms around my sister under Grandpa Walter's blanket, wiggling my bare toes in the warm star-moss while a gentle ribbon of satin-smooth rose flagstones beckoned through the heather ahead.
+Gwen's initial fright melted straight into a wide-eyed, breathless smile that made her look five years lighter than she had all year in Chesapeake. Slipping her forearms into her tall matte-charcoal cuffs, she planted the rubber tips into the firm, springy star-moss and pushed herself smoothly up to her full six-foot-one height in the double moonlight—reaching a warm hand down to steady me as I clicked my silver cuffs on and eased up beside her onto a wide, mossy fallen cedar trunk. Right away, she tucked Grandpa Walter's plaid blanket snug around both of our shoulders and pulled me into a close, grounding side-hug until my racing pulse finally slowed to match hers.
 
-"Well," I smiled against her honey-brown hair, "you did say you wouldn't even stop to grab shoes."
+"I know losing the chairs is scary, Nolan," Gwen whispered honestly against the top of my head as tiny lantern-tailed moths drifted past our bare toes. "My heart jumped into my throat too. Yet feel how gentle this ground is—nobody's shouting, nobody's slapping you, and those two moons up there are the exact orbit from my screen. What if whatever opened that amber doorway didn't trap us... what if it heard us?"
+
+Looking from the tear-free, incandescent excitement shining in my little sister's green-hazel eyes to a gentle ribbon of satin-smooth rose flagstones beckoning through the heather ahead toward that distant mountain light, the tight knot behind my sternum loosened by half. I still worried about our wheelchairs and Grandpa's photo back in Studio 2B—yet as long as Gwen's hand was in mine and four sturdy forearm crutches were under our wrists, I wasn't afraid to take the next hundred paces.
+
+"Well," I smiled faintly against her honey-brown hair, "you did say you wouldn't even stop to grab shoes."
 
 ### Part 2: Six Inches Taller and Four Crutches Strong
 
@@ -504,9 +508,9 @@ Gwen looked from the sapphire canal lanterns, to the emerald moss road, to the s
 
 *[← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
 
-# Book One: Beyond the Living-Room Rift
+# Book One: Beyond the Studio Rift
 
-## Chapter 3: Lanterns on the Glasswater
+## Chapter 4: Lanterns on the Glasswater
 
 ### Drifting Under Sapphire Glass
 
@@ -548,6 +552,108 @@ Nolan wrapped his arm snug around me on the cushioned prow under Grandpa Walter'
 
 I rested my head down on my twenty-four-year-old brother's shoulder, watching two moons ripple in blue-and-gold ribbons ahead of our bow, already certain in my bones that waking the Waystation at the far end of these waterways was going to give us our forever home.
 
+## Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen
+
+### Part 1: Turning the Twin Rings and the Glowing Hearth-Archway
+
+**Harmonic Cycle:** Third Twilight of the Twin Moons, The Uncharted Waystation • **Chronometer:** 19:10
+
+![Inside Keepers' Hall—a cozy, step-free 1980s fantasy sanctuary of honeyed cedar, warm stone hearth fire, seated copper kitchen, and a twin-moon canopy bed—barefoot brother Nolan Lennox (5-foot-7) and his taller sister Gwen Lennox (6-foot-1) cuddle warmly under Grandpa Walter's plaid blanket beside their four ergonomic Lofstrand forearm crutches, looking out through the glowing turquoise-and-amber crystal Hearth-Archway built into their wall toward the outdoor Bronze Astrolabe and twin moons.]({{CDN}}/raggiesoft-books/images/scenes/waystation/waystation_keepers_hearth_home.jpg)
+
+#### 7:10 PM — From the Upper Lock to the Sleeping Star-Court
+
+After a full night curled up warm in each other's arms beneath Grandpa Walter's plaid blanket in the cozy cedar cabin of Maren's lantern-barge—and a peaceful sunlit day steering through the upper Glasswater water-arches as Gwen's sight-ring readings woke every marsh-lamp along the channel—our smooth prow glided dead-level against the rose-quartz quay at the crown of the inner peaks.
+
+"Far as river water climbs, Keepers," barge-master Maren smiled warmly, steadying her ashwood pole while Gwen and I slipped our forearms into our silver and charcoal Lofstrand crutches and stepped across the wide, cleat-free cedar gangplank without a single jar to our wrists. "Follow the warm flagstones straight through the outer arch. The Astrolabe's been humming louder for an hour already."
+
+Before us opened the circular Star-Court of the Uncharted Waystation—broad, satin-smooth rose-quartz paving encircled by sixteen tall runestone archways whose crystals slumbered under wisps of pale silver Drift-mist. Waiting respectfully beside the central pedestal stood an elderly scholar in a deep indigo robe embroidered with two interlocked moons, leaning lightly on a single polished cedar walking staff of his own.
+
+"Grace of both moons upon your unhurried road," he bowed warmly. "I am Archivist Thorne, last caretaker of the Slow-Footed Order's records. Three generations we waited for two hearts who would neither rush ahead nor leave the other behind."
+
+At the center of the courtyard stood the towering Twin-Ring Bronze Astrolabe. Gwen stepped up beside my right shoulder on her tall charcoal crutches, eyes shining as she studied the nested brass circles immediately: an outer celestial Moon-Ring marked with binary orbital notches, and a lower ground-level Way-Ring etched with bridges, ramps, and rest-benches.
+
+"Look, Nolan—two brass hand-wheels set six inches apart in height, almost like they measured us!" Gwen laughed softly. "If I align the outer rose-moon vernier to tonight's true barycenter while you turn the lower way-ring steady at our walking pace—"
+
+"Together on three," I smiled, bracing smoothly inside my left silver cuff to grip the warm lower bronze wheel while six-foot-one Gwen rested her palm on the upper celestial ring.
+
+We turned both wheels at the exact unhurried rhythm we had shared our whole lives.
+
+Zero grinding resistance fought our hands. Deep inside the pedestal, a glorious, cathedral-warm double chord rang out across the mountain peaks—golden amber intertwining with sea-turquoise light. Above our heads, every wisp of silver haze melted clean out of Vaeloria's twilight sky, the Ivory and Rose-Amber moons locked into crisp, radiant harmony, and around the courtyard perimeter all sixteen outer archways bloomed awake like stained-glass windows across the stars.
+
+***
+
+#### 7:45 PM — The Seventeenth Archway Is Our Front Door
+
+Even more astonishing was what woke directly behind the Astrolabe, carved straight into the living cliffside wall of the Waystation itself.
+
+A seventeenth archway—wider than any apartment doorway on Earth and inlaid with warm turquoise and amber crystals—filled with a gentle, translucent curtain of golden starlight that rippled softly without a heavy wooden door, brass latch, or raised sill anywhere at its base.
+
+"Keepers' Hall," Archivist Thorne said gently, gesturing toward the glowing threshold. "Built by our Founders for those who tend the rings—so you never again have to choose between an open world and a warm hearth."
+
+Side by side on our four forearm crutches, Gwen and I walked straight through the Glowing Hearth-Archway. The curtain of warm starlight parted around our shoulders like silk—sealing out the mountain night breeze while never asking either of us to let go of a crutch grip.
+
+Both of us stopped in the warm cedar light and let out a simultaneous, breathless laugh of disbelief.
+
+Every cramped, humiliating hardship of our eleven-by-eighteen-foot studio box back in Chesapeake had its answer waiting right in front of us. Beneath our bare feet, geothermal rose-quartz flagstones radiated gentle warmth like a sunlit hearthstone. Semicircular mossy-wool couches curved around a crackling stone fireplace with custom-carved cedar notches built right into every armrest to hold four Lofstrand forearm crutches upright within effortless reach. To our right stood a step-free stone-and-copper kitchen with knee-clearance seated prep counters so neither of us ever had to cook standing on crutches, beside a cold snowmelt spring-larder stocked with fresh loaves, orchard plums, and cheeses. Sweeping rose-quartz ramps—zero stairs anywhere—linked a spacious, curb-free ninety-eight-degree travertine soaking bath to a crystal-domed Moon-Glass Observatory overhead.
+
+And tucked beneath a wide twin-moon skylight in the warmest timber alcove sat an oversized, transfer-height carved cedar canopy bed piled deep with cloud-wool quilts—wide enough for two grown siblings to stretch out without bumping elbows, yet cozy enough that Gwen immediately turned to me and wrapped both arms tight around my neck.
+
+"Even with a whole cliffside keep, shortstop," my nineteen-year-old sister whispered fiercely against my hair, "nobody's putting me down some empty hall away from my brother. Grandpa's blanket goes right on that bed."
+
+My chest felt fuller than I thought ribs could hold—until one lingering tug of big-brother responsibility made me glance back through the Glowing Hearth-Archway toward the sixteenth outer portal across the courtyard, where a familiar faint amber shimmer showed the scuffed wood floorboards of Studio 2B in Chesapeake.
+
+"Now that the rings are awake," Archivist Thorne noted kindly from the courtyard threshold, "your homeward doorway answers your hands in either direction whenever you wish."
+
+Gwen and I traded one long look. Thinking of two days on the canal—meaning Sunday evening back in Chesapeake, a missed Saturday shift at Blue Tech, and Grandpa Walter's silver-framed photo sitting alone beside our parked wheelchairs and laptops—I squeezed Gwen's hand.
+
+"Let's step back for five minutes," I said quietly, bracing myself for angry voicemail lights on our corded phone, "grab Grandpa's photo and our things before the landlord locks us out, and come right back."
+
+### Part 2: Nine-Fifteen on the VCR Clock and Choosing Home
+
+**Harmonic Cycle:** Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
+
+#### 9:15 PM — Not One Second Gone in Chesapeake
+
+Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue Tech manager, or a yellow late-notice slip wedged under our front door.
+
+Instead, October rain was still pattering the exact same rhythm against our silent window air-conditioner above the corner full-sized bed.
+
+Halfway between the rolling microwave-cart pantry and the oak dresser, both Nolan and I stopped dead on our bare feet and four forearm crutches, staring straight across the eleven-by-eighteen-foot rectangle at the glowing green LED clock on the front of Nolan's brushed-silver VCR and DVD combo unit.
+
+*9:15.*
+
+My breath caught in my throat. On the milk-crate nightstand beside our rumpled pillows, the screen of my open Quantum OS 2000 Professional laptop hadn't even gone into its ten-minute sleep saver—my two glowing moons were still mid-orbit right beside *9:15 PM* in the bottom-right corner of the taskbar, and the beige corded speakerphone receiver still felt faintly warm from when my thumb had clicked Regional Mobility Supply off forty-eight hours of Vaeloria travel ago!
+
+"Nolan," I whispered, grabbing my brother's sleeve with wide, shining eyes. "Look at the VCR clock. Look at my taskbar!"
+
+Nolan blinked hard from the green *9:15* digits to the raindrop clinging unmoved to the window glass above his pillow, and a slow, amazed laugh broke right out of his chest. "Time stood completely still," he breathed, the last ounce of missed-shift dread vanishing off his shoulders in an instant. "We didn't miss Saturday. Nobody worried. Earth literally waited right on the minute we left!"
+
+Looking around our tiny rectangular box—the corner fifty-four-inch mattress that had held us together through grief and eighty-nine-degree August heat, the unobstructed under-counter dorm fridge, the narrow natural-gas stove, the microwave cart pantry, and the yellow out-of-order tape waiting out in the lobby—neither Nolan nor I had to debate for half a heartbeat which side of the archway was home now.
+
+Moving smoothly around our little room like a practiced two-person crew, we gathered the pieces of our Earth life we truly wanted with us. First, Nolan carefully lifted Grandpa Walter's silver-framed photograph off the oak dresser beside the rabbit-ear television and tucked it gently inside his padded laptop sleeve alongside his charcoal Quantum OS 2000 Professional laptop and power brick. I shut down my own upgraded Quantum OS 2000 Professional laptop cleanly—smiling at how zero crashes had paved the way to two real moons—slipped it and its cord into my shoulder bag, and draped Grandpa's plaid wool blanket over the backrest of my manual wheelchair by the dorm fridge.
+
+Even with my front right caster fork still bent half an inch out of true, rolling both of our manual wheelchairs out of Studio 2B—with all four silver and charcoal Lofstrand forearm crutches strapped neatly behind our backrests—straight across the seamless, sill-free golden threshold back into the Uncharted Waystation felt like rolling out of a broom closet into a sunlit cathedral.
+
+***
+
+#### 7:45 PM — The Law of Two Pause-Held Worlds
+
+The instant our wheelchair tires glided out onto the warm rose-quartz flagstones of the Star-Court, I glanced up at Vaeloria's twilight sky—and gasped a second time.
+
+Behind Archivist Thorne's shoulder, the exact curl of cedar hearth-smoke rising from Keepers' Hall hadn't drifted an inch higher while we spent fifteen minutes packing in Chesapeake, and barge-master Maren was still raising her hand in the exact mid-wave farewell down by the canal quay!
+
+Archivist Thorne smiled with gentle, knowing warmth at our astonished faces.
+
+"You saw your home-clock standing still for you at nine-fifteen, didn't you?" the old scholar asked kindly. "That is the covenant the Slow-Footed Founders wove into the Waystation's rings so no Keeper would ever be torn in two by grief or haste. Time always stands still in whichever world you are not standing in. While the two of you walk beneath Vaeloria's twin moons, your room back on Earth waits unmoving on that exact breath of rain. And whenever the two of you step back to Earth—for an afternoon, a book, or a memory—every candle, hearth-pot, and star-ring here in Vaeloria pauses quietly until your wheels and crutches cross our threshold again."
+
+Nolan looked from the smooth rose-quartz ramps of Keepers' Hall to me, hazel eyes bright with a peace I hadn't seen in him since we were little kids at Grandpa's table.
+
+"Wait—we never lose either place," Nolan realized softly, reaching across the gap between our two wheelchairs to hold my hand tight. "Earth waits whenever we want to visit... and this glowing archway is really ours."
+
+Within ten minutes, a cheerful Waystation ironsmith with a small brass truing wrench knelt beside my chair on the courtyard flagstones and straightened my bent front caster fork dead-level in four gentle turns—no forty-seven-minute speakerphone hold music, no six-week insurance denial letter, and zero charge beyond a shared mug of hot spiced cider.
+
+That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photograph in the place of honor on the carved cedar shelf beside our wide Twin-Moon Canopy Bed, parked both of our smoothly rolling wheelchairs side by side near the warm stone hearth, and leaned our four Lofstrand forearm crutches cleanly into the carved armrest notches. Curled up close together under cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket while Vaeloria's twin moons shone clear through the Glowing Hearth-Archway of our home, we knew we could visit Studio 2B anytime we ever pleased—and we knew with both of our hearts right where we belonged forever.
+
 ***
 
 *End of Story Path: The Glasswater Lantern-Barge Canal. [← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
@@ -558,9 +664,9 @@ I rested my head down on my twenty-four-year-old brother's shoulder, watching tw
 
 *[← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
 
-# Book One: Beyond the Living-Room Rift
+# Book One: Beyond the Studio Rift
 
-## Chapter 3: The Slow-Footed Order's Road
+## Chapter 4: The Slow-Footed Order's Road
 
 ### Warm Springs and Glowing Canopy
 
@@ -600,6 +706,106 @@ The mineral water was ninety-eight degrees to the drop, buoyant and silky around
 
 As the bioluminescent canopy brightened overhead like an indoor galaxy of blue and gold stars and the warm water cradled our bare feet, neither Gwen nor I looked back toward the borderland bridge once. Every lantern our matched footsteps woke along the Slow-Footed Order's road pointed toward the high Waystation—and a world that already loved the two of us back.
 
+## Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen
+
+### Part 1: Turning the Twin Rings and the Glowing Hearth-Archway
+
+**Harmonic Cycle:** Third Twilight of the Twin Moons, The Uncharted Waystation • **Chronometer:** 19:10
+
+![Inside Keepers' Hall—a cozy, step-free 1980s fantasy sanctuary of honeyed cedar, warm stone hearth fire, seated copper kitchen, and a twin-moon canopy bed—barefoot brother Nolan Lennox (5-foot-7) and his taller sister Gwen Lennox (6-foot-1) cuddle warmly under Grandpa Walter's plaid blanket beside their four ergonomic Lofstrand forearm crutches, looking out through the glowing turquoise-and-amber crystal Hearth-Archway built into their wall toward the outdoor Bronze Astrolabe and twin moons.]({{CDN}}/raggiesoft-books/images/scenes/waystation/waystation_keepers_hearth_home.jpg)
+
+#### 7:10 PM — Up From the Glowing Canopy Into the Star-Court
+
+After curling up warm in each other's arms beneath Grandpa Walter's plaid blanket inside the cozy stone pilgrim shelter—and spending a peaceful, unhurried day walking at our matched crutch pace beneath the Whisperwood's glowing bioluminescent canopy as every sleepy forest trail-lamp chimed bright behind our heels—the three-inch emerald moss road sloped gently out onto a broad rose-quartz terrace at the crown of the inner peaks.
+
+Not a single stair stood between the forest verge and the circular Star-Court of the Uncharted Waystation. Around its satin-smooth paving stood sixteen tall runestone archways whose crystals slumbered under wisps of pale silver Drift-mist, and waiting respectfully beside the central pedestal stood an elderly scholar in a deep indigo robe embroidered with two interlocked moons, leaning lightly on a single polished cedar walking staff of his own.
+
+"Grace of both moons upon your unhurried road," he bowed warmly as Gwen and I stepped into the courtyard on our silver and charcoal Lofstrand forearm crutches. "I am Archivist Thorne, last caretaker of the Slow-Footed Order's records. We saw the Whisperwood's upper lamps wake one by one down the valley—three generations we waited for two hearts who would neither rush ahead nor leave the other behind."
+
+At the center of the courtyard stood the towering Twin-Ring Bronze Astrolabe. Gwen stepped up beside my right shoulder on her tall charcoal crutches, eyes shining as she studied the nested brass circles immediately: an outer celestial Moon-Ring marked with binary orbital notches, and a lower ground-level Way-Ring etched with rest-alcoves, thermal basins, and gentle ramps.
+
+"Look, Nolan—two brass hand-wheels set six inches apart in height, almost like they measured us!" Gwen laughed softly. "If I align the outer rose-moon vernier to tonight's true barycenter while you turn the lower way-ring steady at our walking pace—"
+
+"Together on three," I smiled, bracing smoothly inside my left silver cuff to grip the warm lower bronze wheel while six-foot-one Gwen rested her palm on the upper celestial ring.
+
+We turned both wheels at the exact unhurried rhythm we had shared our whole lives.
+
+Zero grinding resistance fought our hands. Deep inside the pedestal, a glorious, cathedral-warm double chord rang out across the mountain peaks—golden amber intertwining with sea-turquoise light. Above our heads, every wisp of silver haze melted clean out of Vaeloria's twilight sky, the Ivory and Rose-Amber moons locked into crisp, radiant harmony, and around the courtyard perimeter all sixteen outer archways bloomed awake like stained-glass windows across the stars.
+
+***
+
+#### 7:45 PM — The Seventeenth Archway Is Our Front Door
+
+Even more astonishing was what woke directly behind the Astrolabe, carved straight into the living cliffside wall of the Waystation itself.
+
+A seventeenth archway—wider than any apartment doorway on Earth and inlaid with warm turquoise and amber crystals—filled with a gentle, translucent curtain of golden starlight that rippled softly without a heavy wooden door, brass latch, or raised sill anywhere at its base.
+
+"Keepers' Hall," Archivist Thorne said gently, gesturing toward the glowing threshold. "Built by our Founders for those who tend the rings—so you never again have to choose between an open world and a warm hearth."
+
+Side by side on our four forearm crutches, Gwen and I walked straight through the Glowing Hearth-Archway. The curtain of warm starlight parted around our shoulders like silk—sealing out the mountain night breeze while never asking either of us to let go of a crutch grip.
+
+Both of us stopped in the warm cedar light and let out a simultaneous, breathless laugh of disbelief.
+
+Every cramped, humiliating hardship of our eleven-by-eighteen-foot studio box back in Chesapeake had its answer waiting right in front of us. Beneath our bare feet, geothermal rose-quartz flagstones radiated gentle warmth like a sunlit hearthstone. Semicircular mossy-wool couches curved around a crackling stone fireplace with custom-carved cedar notches built right into every armrest to hold four Lofstrand forearm crutches upright within effortless reach. To our right stood a step-free stone-and-copper kitchen with knee-clearance seated prep counters so neither of us ever had to cook standing on crutches, beside a cold snowmelt spring-larder stocked with fresh loaves, orchard plums, and cheeses. Sweeping rose-quartz ramps—zero stairs anywhere—linked a spacious, curb-free ninety-eight-degree travertine soaking bath to a crystal-domed Moon-Glass Observatory overhead.
+
+And tucked beneath a wide twin-moon skylight in the warmest timber alcove sat an oversized, transfer-height carved cedar canopy bed piled deep with cloud-wool quilts—wide enough for two grown siblings to stretch out without bumping elbows, yet cozy enough that Gwen immediately turned to me and wrapped both arms tight around my neck.
+
+"Even with a whole cliffside keep, shortstop," my nineteen-year-old sister whispered fiercely against my hair, "nobody's putting me down some empty hall away from my brother. Grandpa's blanket goes right on that bed."
+
+My chest felt fuller than I thought ribs could hold—until one lingering tug of big-brother responsibility made me glance back through the Glowing Hearth-Archway toward the sixteenth outer portal across the courtyard, where a familiar faint amber shimmer showed the scuffed wood floorboards of Studio 2B in Chesapeake.
+
+"Now that the rings are awake," Archivist Thorne noted kindly from the courtyard threshold, "your homeward doorway answers your hands in either direction whenever you wish."
+
+Gwen and I traded one long look. Thinking of two days on the forest road—meaning Sunday evening back in Chesapeake, a missed Saturday shift at Blue Tech, and Grandpa Walter's silver-framed photo sitting alone beside our parked wheelchairs and laptops—I squeezed Gwen's hand.
+
+"Let's step back for five minutes," I said quietly, bracing myself for angry voicemail lights on our corded phone, "grab Grandpa's photo and our things before the landlord locks us out, and come right back."
+
+### Part 2: Nine-Fifteen on the VCR Clock and Choosing Home
+
+**Harmonic Cycle:** Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
+
+#### 9:15 PM — Not One Second Gone in Chesapeake
+
+Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue Tech manager, or a yellow late-notice slip wedged under our front door.
+
+Instead, October rain was still pattering the exact same rhythm against our silent window air-conditioner above the corner full-sized bed.
+
+Halfway between the rolling microwave-cart pantry and the oak dresser, both Nolan and I stopped dead on our bare feet and four forearm crutches, staring straight across the eleven-by-eighteen-foot rectangle at the glowing green LED clock on the front of Nolan's brushed-silver VCR and DVD combo unit.
+
+*9:15.*
+
+My breath caught in my throat. On the milk-crate nightstand beside our rumpled pillows, the screen of my open Quantum OS 2000 Professional laptop hadn't even gone into its ten-minute sleep saver—my two glowing moons were still mid-orbit right beside *9:15 PM* in the bottom-right corner of the taskbar, and the beige corded speakerphone receiver still felt faintly warm from when my thumb had clicked Regional Mobility Supply off forty-eight hours of Vaeloria travel ago!
+
+"Nolan," I whispered, grabbing my brother's sleeve with wide, shining eyes. "Look at the VCR clock. Look at my taskbar!"
+
+Nolan blinked hard from the green *9:15* digits to the raindrop clinging unmoved to the window glass above his pillow, and a slow, amazed laugh broke right out of his chest. "Time stood completely still," he breathed, the last ounce of missed-shift dread vanishing off his shoulders in an instant. "We didn't miss Saturday. Nobody worried. Earth literally waited right on the minute we left!"
+
+Looking around our tiny rectangular box—the corner fifty-four-inch mattress that had held us together through grief and eighty-nine-degree August heat, the unobstructed under-counter dorm fridge, the narrow natural-gas stove, the microwave cart pantry, and the yellow out-of-order tape waiting out in the lobby—neither Nolan nor I had to debate for half a heartbeat which side of the archway was home now.
+
+Moving smoothly around our little room like a practiced two-person crew, we gathered the pieces of our Earth life we truly wanted with us. First, Nolan carefully lifted Grandpa Walter's silver-framed photograph off the oak dresser beside the rabbit-ear television and tucked it gently inside his padded laptop sleeve alongside his charcoal Quantum OS 2000 Professional laptop and power brick. I shut down my own upgraded Quantum OS 2000 Professional laptop cleanly—smiling at how zero crashes had paved the way to two real moons—slipped it and its cord into my shoulder bag, and draped Grandpa's plaid wool blanket over the backrest of my manual wheelchair by the dorm fridge.
+
+Even with my front right caster fork still bent half an inch out of true, rolling both of our manual wheelchairs out of Studio 2B—with all four silver and charcoal Lofstrand forearm crutches strapped neatly behind our backrests—straight across the seamless, sill-free golden threshold back into the Uncharted Waystation felt like rolling out of a broom closet into a sunlit cathedral.
+
+***
+
+#### 7:45 PM — The Law of Two Pause-Held Worlds
+
+The instant our wheelchair tires glided out onto the warm rose-quartz flagstones of the Star-Court, I glanced up at Vaeloria's twilight sky—and gasped a second time.
+
+Behind Archivist Thorne's shoulder, the exact curl of cedar hearth-smoke rising from Keepers' Hall hadn't drifted an inch higher while we spent fifteen minutes packing in Chesapeake, and down at the forest verge a single glowing petal drifting off a silver-barked rowan hung at the exact midair breath where we had left it before floating gently down to the moss!
+
+Archivist Thorne smiled with gentle, knowing warmth at our astonished faces.
+
+"You saw your home-clock standing still for you at nine-fifteen, didn't you?" the old scholar asked kindly. "That is the covenant the Slow-Footed Founders wove into the Waystation's rings so no Keeper would ever be torn in two by grief or haste. Time always stands still in whichever world you are not standing in. While the two of you walk beneath Vaeloria's twin moons, your room back on Earth waits unmoving on that exact breath of rain. And whenever the two of you step back to Earth—for an afternoon, a book, or a memory—every candle, hearth-pot, and star-ring here in Vaeloria pauses quietly until your wheels and crutches cross our threshold again."
+
+Nolan looked from the smooth rose-quartz ramps of Keepers' Hall to me, hazel eyes bright with a peace I hadn't seen in him since we were little kids at Grandpa's table.
+
+"Wait—we never lose either place," Nolan realized softly, reaching across the gap between our two wheelchairs to hold my hand tight. "Earth waits whenever we want to visit... and this glowing archway is really ours."
+
+Within ten minutes, a cheerful Waystation ironsmith with a small brass truing wrench knelt beside my chair on the courtyard flagstones and straightened my bent front caster fork dead-level in four gentle turns—no forty-seven-minute speakerphone hold music, no six-week insurance denial letter, and zero charge beyond a shared mug of hot spiced cider.
+
+That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photograph in the place of honor on the carved cedar shelf beside our wide Twin-Moon Canopy Bed, parked both of our smoothly rolling wheelchairs side by side near the warm stone hearth, and leaned our four Lofstrand forearm crutches cleanly into the carved armrest notches. Curled up close together under cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket while Vaeloria's twin moons shone clear through the Glowing Hearth-Archway of our home, we knew we could visit Studio 2B anytime we ever pleased—and we knew with both of our hearts right where we belonged forever.
+
 ***
 
 *End of Story Path: The Whisperwood Cushion-Moss Road. [← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
@@ -610,9 +816,9 @@ As the bioluminescent canopy brightened overhead like an indoor galaxy of blue a
 
 *[← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
 
-# Book One: Beyond the Living-Room Rift
+# Book One: Beyond the Studio Rift
 
-## Chapter 3: Above the Painted Clouds
+## Chapter 4: Above the Painted Clouds
 
 ### Gondolas of the Amber Crags
 
@@ -653,6 +859,108 @@ Nolan tore a steaming piece of herb flatbread in half, passed me the bigger piec
 "Hear that, flagpole?" my twenty-four-year-old brother grinned, resting his bare feet beside mine on the thick woven hearth-rug before we curled up together for the night. "One day out of Emerald Creek and this world already knows why we belong together."
 
 Looking out past the gleaming brass rings toward the high crags where the Uncharted Waystation waited for us, I hugged Nolan tight under Grandpa's blanket—knowing in my bones that Earth could keep Studio 2B's keys forever.
+
+## Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen
+
+### Part 1: Turning the Twin Rings and the Glowing Hearth-Archway
+
+**Harmonic Cycle:** Third Twilight of the Twin Moons, The Uncharted Waystation • **Chronometer:** 19:10
+
+![Inside Keepers' Hall—a cozy, step-free 1980s fantasy sanctuary of honeyed cedar, warm stone hearth fire, seated copper kitchen, and a twin-moon canopy bed—barefoot brother Nolan Lennox (5-foot-7) and his taller sister Gwen Lennox (6-foot-1) cuddle warmly under Grandpa Walter's plaid blanket beside their four ergonomic Lofstrand forearm crutches, looking out through the glowing turquoise-and-amber crystal Hearth-Archway built into their wall toward the outdoor Bronze Astrolabe and twin moons.]({{CDN}}/raggiesoft-books/images/scenes/waystation/waystation_keepers_hearth_home.jpg)
+
+#### 7:10 PM — Above the Singing Crags Into the Star-Court
+
+After curling up warm in each other's arms beneath Grandpa Walter's plaid blanket in Sister Caelia's hearth-alcove—and gliding effortlessly upward across the upper sky-spans all day inside polished oak-and-brass counterweight gondolas while cliffside bronze wind-harps hummed bright behind us—our final car docked dead-level with the rose-quartz landing at the crown of the Amber Crags.
+
+"Right on the level mark, Keepers!" Sister Caelia beamed from the terrace rail as Gwen and I slipped our forearms into our silver and charcoal Lofstrand crutches and stepped across the seamless stone threshold without a single stair in sight. "The great Astrolabe ahead has been humming in tune with our upper rings for an hour!"
+
+Before us opened the circular Star-Court of the Uncharted Waystation—broad, satin-smooth rose-quartz paving encircled by sixteen tall runestone archways whose crystals slumbered under wisps of pale silver Drift-mist. Waiting respectfully beside the central pedestal stood an elderly scholar in a deep indigo robe embroidered with two interlocked moons, leaning lightly on a single polished cedar walking staff of his own.
+
+"Grace of both moons upon your unhurried road," he bowed warmly. "I am Archivist Thorne, last caretaker of the Slow-Footed Order's records. Three generations we waited for two hearts who would neither rush ahead nor leave the other behind."
+
+At the center of the courtyard stood the towering Twin-Ring Bronze Astrolabe. Gwen stepped up beside my right shoulder on her tall charcoal crutches, eyes shining as she studied the nested brass circles immediately: an outer celestial Moon-Ring marked with binary orbital notches, and a lower ground-level Way-Ring etched with sky-lifts, bridges, and rest-benches.
+
+"Look, Nolan—two brass hand-wheels set six inches apart in height, almost like they measured us!" Gwen laughed softly. "If I align the outer rose-moon vernier to tonight's true barycenter while you turn the lower way-ring steady at our walking pace—"
+
+"Together on three," I smiled, bracing smoothly inside my left silver cuff to grip the warm lower bronze wheel while six-foot-one Gwen rested her palm on the upper celestial ring.
+
+We turned both wheels at the exact unhurried rhythm we had shared our whole lives.
+
+Zero grinding resistance fought our hands. Deep inside the pedestal, a glorious, cathedral-warm double chord rang out across the mountain peaks—golden amber intertwining with sea-turquoise light. Above our heads, every wisp of silver haze melted clean out of Vaeloria's twilight sky, the Ivory and Rose-Amber moons locked into crisp, radiant harmony, and around the courtyard perimeter all sixteen outer archways bloomed awake like stained-glass windows across the stars.
+
+***
+
+#### 7:45 PM — The Seventeenth Archway Is Our Front Door
+
+Even more astonishing was what woke directly behind the Astrolabe, carved straight into the living cliffside wall of the Waystation itself.
+
+A seventeenth archway—wider than any apartment doorway on Earth and inlaid with warm turquoise and amber crystals—filled with a gentle, translucent curtain of golden starlight that rippled softly without a heavy wooden door, brass latch, or raised sill anywhere at its base.
+
+"Keepers' Hall," Archivist Thorne said gently, gesturing toward the glowing threshold. "Built by our Founders for those who tend the rings—so you never again have to choose between an open world and a warm hearth."
+
+Side by side on our four forearm crutches, Gwen and I walked straight through the Glowing Hearth-Archway. The curtain of warm starlight parted around our shoulders like silk—sealing out the mountain night breeze while never asking either of us to let go of a crutch grip.
+
+Both of us stopped in the warm cedar light and let out a simultaneous, breathless laugh of disbelief.
+
+Every cramped, humiliating hardship of our eleven-by-eighteen-foot studio box back in Chesapeake had its answer waiting right in front of us. Beneath our bare feet, geothermal rose-quartz flagstones radiated gentle warmth like a sunlit hearthstone. Semicircular mossy-wool couches curved around a crackling stone fireplace with custom-carved cedar notches built right into every armrest to hold four Lofstrand forearm crutches upright within effortless reach. To our right stood a step-free stone-and-copper kitchen with knee-clearance seated prep counters so neither of us ever had to cook standing on crutches, beside a cold snowmelt spring-larder stocked with fresh loaves, orchard plums, and cheeses. Sweeping rose-quartz ramps—zero stairs anywhere—linked a spacious, curb-free ninety-eight-degree travertine soaking bath to a crystal-domed Moon-Glass Observatory overhead.
+
+And tucked beneath a wide twin-moon skylight in the warmest timber alcove sat an oversized, transfer-height carved cedar canopy bed piled deep with cloud-wool quilts—wide enough for two grown siblings to stretch out without bumping elbows, yet cozy enough that Gwen immediately turned to me and wrapped both arms tight around my neck.
+
+"Even with a whole cliffside keep, shortstop," my nineteen-year-old sister whispered fiercely against my hair, "nobody's putting me down some empty hall away from my brother. Grandpa's blanket goes right on that bed."
+
+My chest felt fuller than I thought ribs could hold—until one lingering tug of big-brother responsibility made me glance back through the Glowing Hearth-Archway toward the sixteenth outer portal across the courtyard, where a familiar faint amber shimmer showed the scuffed wood floorboards of Studio 2B in Chesapeake.
+
+"Now that the rings are awake," Archivist Thorne noted kindly from the courtyard threshold, "your homeward doorway answers your hands in either direction whenever you wish."
+
+Gwen and I traded one long look. Thinking of two days in the crags—meaning Sunday evening back in Chesapeake, a missed Saturday shift at Blue Tech, and Grandpa Walter's silver-framed photo sitting alone beside our parked wheelchairs and laptops—I squeezed Gwen's hand.
+
+"Let's step back for five minutes," I said quietly, bracing myself for angry voicemail lights on our corded phone, "grab Grandpa's photo and our things before the landlord locks us out, and come right back."
+
+### Part 2: Nine-Fifteen on the VCR Clock and Choosing Home
+
+**Harmonic Cycle:** Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
+
+#### 9:15 PM — Not One Second Gone in Chesapeake
+
+Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue Tech manager, or a yellow late-notice slip wedged under our front door.
+
+Instead, October rain was still pattering the exact same rhythm against our silent window air-conditioner above the corner full-sized bed.
+
+Halfway between the rolling microwave-cart pantry and the oak dresser, both Nolan and I stopped dead on our bare feet and four forearm crutches, staring straight across the eleven-by-eighteen-foot rectangle at the glowing green LED clock on the front of Nolan's brushed-silver VCR and DVD combo unit.
+
+*9:15.*
+
+My breath caught in my throat. On the milk-crate nightstand beside our rumpled pillows, the screen of my open Quantum OS 2000 Professional laptop hadn't even gone into its ten-minute sleep saver—my two glowing moons were still mid-orbit right beside *9:15 PM* in the bottom-right corner of the taskbar, and the beige corded speakerphone receiver still felt faintly warm from when my thumb had clicked Regional Mobility Supply off forty-eight hours of Vaeloria travel ago!
+
+"Nolan," I whispered, grabbing my brother's sleeve with wide, shining eyes. "Look at the VCR clock. Look at my taskbar!"
+
+Nolan blinked hard from the green *9:15* digits to the raindrop clinging unmoved to the window glass above his pillow, and a slow, amazed laugh broke right out of his chest. "Time stood completely still," he breathed, the last ounce of missed-shift dread vanishing off his shoulders in an instant. "We didn't miss Saturday. Nobody worried. Earth literally waited right on the minute we left!"
+
+Looking around our tiny rectangular box—the corner fifty-four-inch mattress that had held us together through grief and eighty-nine-degree August heat, the unobstructed under-counter dorm fridge, the narrow natural-gas stove, the microwave cart pantry, and the yellow out-of-order tape waiting out in the lobby—neither Nolan nor I had to debate for half a heartbeat which side of the archway was home now.
+
+Moving smoothly around our little room like a practiced two-person crew, we gathered the pieces of our Earth life we truly wanted with us. First, Nolan carefully lifted Grandpa Walter's silver-framed photograph off the oak dresser beside the rabbit-ear television and tucked it gently inside his padded laptop sleeve alongside his charcoal Quantum OS 2000 Professional laptop and power brick. I shut down my own upgraded Quantum OS 2000 Professional laptop cleanly—smiling at how zero crashes had paved the way to two real moons—slipped it and its cord into my shoulder bag, and draped Grandpa's plaid wool blanket over the backrest of my manual wheelchair by the dorm fridge.
+
+Even with my front right caster fork still bent half an inch out of true, rolling both of our manual wheelchairs out of Studio 2B—with all four silver and charcoal Lofstrand forearm crutches strapped neatly behind our backrests—straight across the seamless, sill-free golden threshold back into the Uncharted Waystation felt like rolling out of a broom closet into a sunlit cathedral.
+
+***
+
+#### 7:45 PM — The Law of Two Pause-Held Worlds
+
+The instant our wheelchair tires glided out onto the warm rose-quartz flagstones of the Star-Court, I glanced up at Vaeloria's twilight sky—and gasped a second time.
+
+Behind Archivist Thorne's shoulder, the exact curl of cedar hearth-smoke rising from Keepers' Hall hadn't drifted an inch higher while we spent fifteen minutes packing in Chesapeake, and out on the upper crag terrace Sister Caelia was still standing in the exact mid-wave gesture beside the bronze wind-harps!
+
+Archivist Thorne smiled with gentle, knowing warmth at our astonished faces.
+
+"You saw your home-clock standing still for you at nine-fifteen, didn't you?" the old scholar asked kindly. "That is the covenant the Slow-Footed Founders wove into the Waystation's rings so no Keeper would ever be torn in two by grief or haste. Time always stands still in whichever world you are not standing in. While the two of you walk beneath Vaeloria's twin moons, your room back on Earth waits unmoving on that exact breath of rain. And whenever the two of you step back to Earth—for an afternoon, a book, or a memory—every candle, hearth-pot, and star-ring here in Vaeloria pauses quietly until your wheels and crutches cross our threshold again."
+
+Nolan looked from the smooth rose-quartz ramps of Keepers' Hall to me, hazel eyes bright with a peace I hadn't seen in him since we were little kids at Grandpa's table.
+
+"Wait—we never lose either place," Nolan realized softly, reaching across the gap between our two wheelchairs to hold my hand tight. "Earth waits whenever we want to visit... and this glowing archway is really ours."
+
+Within ten minutes, a cheerful Waystation ironsmith with a small brass truing wrench knelt beside my chair on the courtyard flagstones and straightened my bent front caster fork dead-level in four gentle turns—no forty-seven-minute speakerphone hold music, no six-week insurance denial letter, and zero charge beyond a shared mug of hot spiced cider.
+
+That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photograph in the place of honor on the carved cedar shelf beside our wide Twin-Moon Canopy Bed, parked both of our smoothly rolling wheelchairs side by side near the warm stone hearth, and leaned our four Lofstrand forearm crutches cleanly into the carved armrest notches. Curled up close together under cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket while Vaeloria's twin moons shone clear through the Glowing Hearth-Archway of our home, we knew we could visit Studio 2B anytime we ever pleased—and we knew with both of our hearts right where we belonged forever.
 
 ***
 
