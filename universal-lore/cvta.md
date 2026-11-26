@@ -54,8 +54,11 @@ Based on the historical 2001–2002 HRT Route 15 schedule, **CVTA Route 15** ser
     *   In this part of Virginia Beach / Norfolk / Chesapeake, **US-13 (`Military Highway`)** is a massive **8-lane divided highway (4 lanes per direction plus turn lanes and a raised median)**.
     *   **Route 15 stays strictly out on 8-lane Military Highway** and **never** deviates onto residential neighborhood streets. Riders living in the nearby residential blocks off Military Highway & Indian River Road walk or roll out to the main commercial corridor bus stop along the 8-lane highway.
 
-*   **Alternating Southern Branch Rule (Monday–Saturday):**
+*   **Alternating Southern Branch Rule & Mandatory Cutback Transfer (`Military Hwy. & Old Emerald Creek Rd.`):**
     *   *"On arrival at Old Emerald Creek Rd. and Military Hwy., every other trip will alternate between Robert Hall and Emerald Creek Mall Monday through Saturday."*
+    *   **Zero Single-Seat Ride Between `Robert Hall Blvd.` and `Emerald Creek Mall` (`Cutback Transfer` Required):** Because southbound trips split at **Military Highway & Old Emerald Creek Road** (*real-life Military Hwy. & Old Greenbrier Rd.*), `CVTA Route 15` does **NOT** connect **Robert Hall Boulevard** to **Emerald Creek Mall** on a single seat. Instead, a rider traveling from **Robert Hall Boulevard** to **Emerald Creek Mall** (or across the street to **Blue Tech**) must perform a **Cutback Transfer**:
+        1.  Board northbound **`CVTA Route 15`** (heading toward **Naval Station Norfolk**) at **Robert Hall Boulevard** and ride up `Military Highway` to **Military Highway & Old Emerald Creek Road**;
+        2.  Alight and switch (**cutback transfer**) onto the alternating southbound **`CVTA Route 15`** coming *down* `Military Highway` that turns **left onto Old Emerald Creek Road** heading into **Emerald Creek Mall**! (And the reverse cutback transfer at `Military Hwy. & Old Emerald Creek Rd.` applies going from Emerald Creek Mall to Robert Hall Boulevard.)
 *   **Key Timepoints (North to South):**
     1.  **Naval Base Norfolk / Navy Exchange Mall** (`Transfer to Routes 2, 3, 15, 19, 22 & 51`; evenings also serve **Pier 12** and **S & S Gate**)
     2.  **Hampton Blvd. & Little Creek Rd.** (`Transfer to Routes 2 & 15`)
