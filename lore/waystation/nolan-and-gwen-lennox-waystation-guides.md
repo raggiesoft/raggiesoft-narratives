@@ -7,35 +7,51 @@
 
 ---
 
-## 1. From a Living-Room Sofa to a Long, Winding Road—and Home Forever
+## 1. The Earth Backstory: Grandpa Walter, One Studio Room, and Two Names on the Lease
 
-One rainy Friday evening back on Earth, twenty-year-old **Nolan Lennox** (`5'7"`) and his tall nineteen-year-old younger sister **Gwen Lennox** (`6'1"`) were curled up barefoot in worn blue jeans and plain cotton t-shirts under a green-and-navy plaid throw blanket on their living-room sofa after another exhausting week of broken elevators, inaccessible sidewalks, and medical-supply red tape. Both siblings are ambulatory wheelchair and forearm-crutch users: their two manual wheelchairs sat parked side by side across the living-room rug near the front hall, their shoes were kicked off by the door, and their two pairs of ergonomic aluminum **Lofstrand forearm crutches** leaned right against the sofa armrest within arm's reach.
+Five years apart in age and done growing—**Nolan Lennox** at **twenty-four** (`5'7"`) and his tall younger sister **Gwen Lennox**, who **just turned nineteen** (`6'1"`)—the siblings grew up leaning on each other above everyone else. With their parents absent from their lives (a thread reserved for later exploration), Nolan and Gwen were raised by their beloved paternal grandfather, **Walter Lennox**, a retired machinist who kept their manual wheelchair bearings gleaming, replaced the rubber ferrules on their Lofstrand forearm crutches before they ever wore thin, and taught them never to apologize for taking up space.
 
-When the air above their coffee table shimmered like warm amber stained glass, a dimensional rift swallowed the sofa cushion—pulling Nolan, Gwen, the plaid throw blanket, and **both pairs of forearm crutches** into the twin-moon 1980s fantasy realm of **Vaeloria**, **while leaving both of their wheelchairs behind on the living-room rug**.
+**The Day Before Gwen Turned Eighteen:**  
+One year before the rift—when Nolan was twenty-three and Gwen was seventeen with less than sixteen hours left until her eighteenth birthday—Grandpa Walter passed away peacefully in his sleep. Finding a county social-services intake card on the kitchen counter scheduling an "emergency minor placement assessment" for the next morning—a bureaucratic conveyor belt that would have swept Gwen into an institutional facility and split brother and sister apart—Nolan didn't wait. He loaded Gwen's manual wheelchair, both pairs of ergonomic Lofstrand forearm crutches, and Grandpa Walter's dark-green and navy-blue plaid wool throw blanket into his car and rushed Gwen straight to his cramped, 380-square-foot second-floor **studio apartment**.
 
-They did not land inside the Waystation right away. Instead, landing barefoot in the wild star-moss borderlands launched Nolan and Gwen on a **long, winding Story Crossroads adventure** across Vaeloria (`https://books.raggiesoft.com/waystation`)—traveling at their own rhythm along lantern-lit canals, cushion-moss forest roads, and brass counterweight sky-gondolas through a realm whose smooth flagstones, warm mineral springs, and open-hearted people welcomed them far more gently than the modern world ever had.
+**Boundaries, Dignity, and Growing Unselfconscious in One Small Studio:**  
+- **Waiting Until Gwen Was Legally Eighteen:** That first night in the studio—while Gwen still had hours left at seventeen—Nolan drew a firm, protective older-brother line, stepping out into the narrow kitchenette alcove with his back turned while balancing on his silver forearm crutches so Gwen had the main room completely to herself to change for bed.
+- **Learning Not to Look Away:** The very next morning—on Gwen's eighteenth birthday—six-foot-one Gwen nearly twisted her ankle when her charcoal forearm crutch caught between the pedestal sink and tub inside the closet-sized three-foot studio bathroom. Sitting down together as two adults (`23` and `18`) sharing a single room where hanging curtains would trap wheelchairs and cramped bathroom contortions meant daily falls, Nolan and Gwen realized they were going to have to get changed in the main room together. Rather than flinching or turning stiffly away as if disability or their bodies were something shameful, they quietly learned not to look away—treating everyday dressing with matter-of-fact sibling trust and zero awkwardness. During a brutal August heatwave when the studio's rattling, barely functioning window A/C unit couldn't push the room below eighty-nine degrees, both adult siblings spent stifling afternoons in nothing but their bare skin under a box fan, reading Gwen's astronomy charts and sharing ice pops without a trace of self-consciousness.
+- **Two Names on the Lease:** Just days after Gwen turned eighteen, Nolan's annual apartment lease came up for renewal, and Nolan proudly added **Gwendolyn Lennox** right beside his own name on the lease.
 
-**The scene depicted on `https://waystation.raggiesoft.com`—Nolan and Gwen barefoot on the high twilight balcony and courtyard beside the bronze Astrolabe and the thirteen glowing runestone archways—is the hard-won end result after that long and winding road.** Having awakened the ancient **Uncharted Waystation** together, Nolan and Gwen claimed it as their permanent sanctuary. **This fantasy world is their home now, and neither brother nor sister ever wants to go back to the real world**—happily spending their days side by side under the twin moons, welcoming anyone who tumbles onto an unmapped `*.raggiesoft.com` address (`HTTP 404`) and pointing every traveler toward the right world in the **RaggieSoft Universe**.
-
----
-
-## 2. Character Profiles & Visual Reference Canon
-
-### Nolan Lennox (Age 20, `5'7"` — *The Rift Spotter & Archway Guide*)
-- **Physical Build & Mobility (`ai-staging/raw-images/characters/waystation/`):**
-  - **`5'7"`** (six inches shorter than his `6'1"` younger sister Gwen!), with a stocky, heavy-set overweight build (not obese), tousled medium-brown hair, warm hazel eyes, and an easy, protective grin.
-  - Plain unlabeled heather-navy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **single-tube matte-silver ergonomic Lofstrand forearm crutches** with open U-shaped grey forearm cuffs (since his wheelchair stayed behind in the living room).
-
-### Gwen Lennox (Age 19, `6'1"` — *The Astrolabe Reader & Realm Indexer*)
-- **Physical Build & Mobility (`ai-staging/raw-images/characters/waystation/`):**
-  - **`6'1"`** (tall—six inches taller than her older brother Nolan!), curvy, full-figured overweight build (not obese) with a large bust, wavy honey-brown shoulder-length hair, bright green-hazel eyes, and a warm, quick-witted smile.
-  - Modest plain unlabeled heather-burgundy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **single-tube matte-charcoal ergonomic Lofstrand forearm crutches** with open U-shaped black forearm cuffs (resting them beside the mossy stone bench when she and Nolan cuddle under their green-and-navy plaid sofa blanket by the Astrolabe).
+**Why Earth Wore Them Down:**  
+Inside those four studio walls, Nolan and Gwen were rich in warmth and affection—hugging, cuddling under Grandpa Walter's green-and-navy plaid blanket, and looking out for one another. Outside their front door, the modern world ground them down relentlessly: a perpetually yellow-tagged apartment elevator, cracked concrete curb cuts, landlords ignoring repairs, and Regional Mobility Supply leaving them on hold for forty-seven minutes on a rainy Friday night (a week after Gwen turned nineteen) only to delay a single bent caster fork on Gwen's wheelchair by six weeks.
 
 ---
 
-## 3. Mandatory Visual & Narrative Continuity Rules
+## 2. Why Vaeloria Needed Them ("The Great Drift") & Why the Rift Chose *Them*
 
-- **Strict Lofstrand Forearm-Crutch Rule (ZERO Underarm / Armpit Crutches):**
-  - Both Nolan and Gwen use **single-shaft ergonomic Lofstrand forearm crutches** with angled handgrips and small open U-shaped mid-forearm cuffs (matte-silver for Nolan, matte-charcoal for Gwen). **Neither sibling EVER uses underarm/armpit (axillary) crutches**—never generate double-tube hospital axillary crutches or horizontal underarm pads in any Waystation illustration, whether held or leaning beside a bench, log, barge, camp wall, or gondola.
-- **Warm, Affectionate Sibling Bond & Adventure Camping:**
-  - Nolan and Gwen are naturally very close and physically affectionate siblings. Across scene illustrations, portal artwork, and chapters, they are frequently seen **hugging** (standing in warm one-armed sibling side-hugs while steadying on their outer forearm crutches, or wrapping arms around each other on benches), **cuddling** beneath their shared dark-green and navy-blue plaid sofa blanket with Gwen resting her cheek on the top of Nolan's head or her head on his shoulder, and—whenever night falls and they make camp along their adventure across Vaeloria—**curling up closely together** in a wholesome sibling embrace under their shared blanket on soft cushion-moss with all four forearm crutches resting safely within arm's reach.
+### Vaeloria's Quiet 1980s-Fantasy Trouble: *The Great Drift*
+There are no grimdark wars, armies, or cruel tyrants in **Vaeloria**. Instead, centuries earlier, the **Slow-Footed Order** (*"No league is measured here by haste"*) and the **Star-Keepers** built Vaeloria's satin-smooth rose-quartz causeways, cushioned lantern-barges, warm Whisperwood mineral springs, brass counterweight sky-gondolas, and—at the crown of the realm—**The Uncharted Waystation**, whose great twin-ring **Bronze Astrolabe** harmonizes the star-currents between the **Ivory Moon** and the **Rose-Amber Moon**.
+
+Because the high Waystation stood asleep and untended for generations, Vaeloria slipped into **The Great Drift**: canal marsh-stars growing faint in silver mist, mountain moon-rings losing their elliptical calibration, borderland milestones sinking into heather, and gentle towns slowly drifting out of reach of one another unless new Keepers awaken the Astrolabe.
+
+### Why Nolan & Gwen Specifically: *Two-Heart Slow-Footed Resonance*
+The Slow-Footed Order forged the Bronze Astrolabe with two interlocked celestial rings that **no lone, hurried traveler can ever turn alone**. It awakens *only* for **two inseparable hearts who move through life at a matched, unhurried pace—never racing ahead, never leaving the other behind**:
+1. **Gwen (`The Astrolabe Reader`, Age 19, `6'1"`):** Years of sleepless Earth nights spent studying star charts and orbital mechanics when leg cramps kept her awake gave Gwen the exact eye needed to read Vaeloria's twin-moon ellipses.
+2. **Nolan (`The Rift Spotter & Wayfinder`, Age 24, `5'7"`):** Years of scanning every city block ahead for hidden curb drops, safe rest ledges, and subtle ground seams to protect himself and Gwen gave Nolan the exact gift needed to spot Vaeloria's shimmering star-currents and portal thresholds.
+3. **Answering Gwen's Wish:** When Gwen rested her cheek on Nolan's head in their studio apartment and wished aloud for a world without landlords, broken curb cuts, or medical billing codes, the sleeping Astrolabe locked onto their Two-Heart Resonance directly above their coffee table—pulling barefoot Nolan, Gwen, Grandpa Walter's plaid blanket, and all four Lofstrand forearm crutches into Vaeloria while leaving both parked wheelchairs behind on the studio rug.
+
+**The Scene on `https://waystation.raggiesoft.com`:**  
+Reaching the high twilight balcony, re-harmonizing the Bronze Astrolabe, and ending *The Great Drift* is the hard-won culmination of their Story Crossroads journey (`https://books.raggiesoft.com/waystation`). **Vaeloria is their home forever now—neither Nolan nor Gwen ever wants to return to Earth**—spending their days side by side welcoming lost `404` travelers and pointing everyone toward the sixteen glowing archways of the **RaggieSoft Universe**.
+
+---
+
+## 3. Character Profiles & Mandatory Visual Continuity Rules
+
+### Nolan Lennox (Age 24, `5'7"` — *Older Brother, Rift Spotter & Archway Guide*)
+- **`5'7"`** (done growing—six inches shorter than his `6'1"` younger sister Gwen!), stocky, heavy-set overweight build (not obese), tousled medium-brown hair, warm hazel eyes, and an easy, protective grin.
+- Plain unlabeled heather-navy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **single-tube matte-silver ergonomic Lofstrand forearm crutches** with open C/U-shaped grey forearm cuffs.
+
+### Gwen Lennox (Just Turned 19, `6'1"` — *Younger Sister, Astrolabe Reader & Realm Indexer*)
+- **`6'1"`** (done growing—six inches taller than her five-years-older brother Nolan!), curvy, full-figured overweight build (not obese) with a full bust, wavy honey-brown shoulder-length hair, bright green-hazel eyes, and a warm, quick-witted smile.
+- Modest plain unlabeled heather-burgundy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **single-tube matte-charcoal ergonomic Lofstrand forearm crutches** with open C/U-shaped black forearm cuffs.
+
+### Mandatory Guardrails
+- **Strict Lofstrand Forearm-Crutch Rule (ZERO Underarm / Armpit Crutches):** Neither Nolan nor Gwen EVER uses underarm/armpit (axillary) crutches. Every Waystation image—held or leaning—must depict single-shaft ergonomic Lofstrand forearm crutches with open forearm cuffs and zero horizontal underarm pads.
+- **Warm, Affectionate Sibling Bond & Adventure Camping:** Nolan and Gwen are naturally very affectionate siblings—frequently hugging, cuddling under Grandpa Walter's green-and-navy plaid blanket, and **curling up closely together** in a wholesome embrace whenever they make camp along their adventure across Vaeloria. All visual artwork depicts both siblings in modest, everyday clothing.
