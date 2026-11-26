@@ -6,21 +6,21 @@ title: "The Uncharted Waystation"
 
 ## Chapter 1: Two Names on One Studio Lease
 
-### Part 1: 2710 Ike Street, Gate Four, and Home to Emerald Creek
+### Part 1: Route 13, Gate Four, and Home to Emerald Creek
 
 **Harmonic Cycle:** Autumn 2000 — Two Days Before Gwen's Eighteenth Birthday, Earth • **Chronometer:** 08:35
 
 ![On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he leaves his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg)
 
-#### 8:35 AM — Lot 2710 on Ike Street and Waiting for the Bus
+#### 8:35 AM — The Trailer Lot off Route 13 and Waiting for the Bus
 
-Stale menthol smoke and damp October mildew clung to the faux-wood paneling inside Tammy's single-wide trailer at 2710 Ike Street while I balanced on my matte-silver Lofstrand forearm crutches beside the crooked screen door, trying to hoist both my olive canvas duffel and the handle of Tammy's overstuffed rolling suitcase without letting a crutch tip punch through the soft particleboard floor.
+Stale menthol smoke and damp October mildew clung to the faux-wood paneling inside Tammy's single-wide trailer while I balanced on my matte-silver Lofstrand forearm crutches beside the crooked screen door, trying to hoist both my olive canvas duffel and the handle of Tammy's overstuffed rolling suitcase without letting a crutch tip punch through the soft particleboard floor.
 
-Outside the streaked aluminum jalousie window stretched the rutted gravel lanes of the trailer park right off the CVTA Route 13 corridor—sagging aluminum skirting held up by cracked cinderblocks, weeds waist-high around rusted propane tanks, and overflowing dumpsters sitting twenty yards from the street. Moving out of Grandpa Walter's quiet bungalow over near Emerald Creek Mall nine months ago to live here with Tammy had been the biggest mistake of my twenty-three years on Earth. At first she had called it "helping each other get independent." Within a month she was timing my shifts at the Blue Tech electronics store, picking screaming fights every time I tried to ride the bus over to Emerald Creek to check on seventeen-year-old Gwen and failing Grandpa Walter, and reminding me daily that nobody else would ever look twice at a stocky five-foot-seven guy whose forearm crutches clicked down every hallway.
+Outside the streaked aluminum jalousie window stretched the rutted gravel lanes of Pinecrest Court, a rundown trailer park right off the CVTA Route 13 corridor—sagging aluminum skirting held up by cracked cinderblocks, weeds waist-high around rusted propane tanks, and overflowing dumpsters sitting twenty yards from the street. Moving out of Grandpa Walter's quiet bungalow over near Emerald Creek Mall nine months ago to live here with Tammy had been the biggest mistake of my twenty-three years on Earth. At first she had called it "helping each other get independent." Within a month she was timing my shifts at the Blue Tech electronics store, picking screaming fights every time I tried to ride the bus over to Emerald Creek to check on seventeen-year-old Gwen and failing Grandpa Walter, and reminding me daily that nobody else would ever look twice at a stocky five-foot-seven guy whose forearm crutches clicked down every hallway.
 
 "Quit staring at the wall and lock the bottom latch, Nolan," Tammy snapped, shoving a thick cash envelope deep into her faux-leather purse. "If we miss this bus, we're waiting half an hour."
 
-From 2710 Ike Street—easy walking distance from where the buses met up along Robert Hall Boulevard—getting into Downtown Norfolk meant catching CVTA Route 6 or Route 13, whichever showed up first. By the time I hauled Tammy's rolling bag down the wobbly cinderblock steps and swung along the cracked shoulder to the corner stop, a forty-foot high-floor Beacon V coach wearing old nineties white, navy, and teal Tidewater stripes—with a white rectangular CVTA vinyl decal slapped beside the front folding doors—came rumbling up Route 13 first, diesel exhaust curling pale gray into the chilly morning air.
+From the trailer park—easy walking distance from where the buses met up along Robert Hall Boulevard—getting into Downtown Norfolk meant catching CVTA Route 6 or Route 13, whichever showed up first. By the time I hauled Tammy's rolling bag down the wobbly cinderblock steps and swung along the cracked shoulder to the corner stop, a forty-foot high-floor Beacon V coach wearing old nineties white, navy, and teal Tidewater stripes—with a white rectangular CVTA vinyl decal slapped beside the front folding doors—came rumbling up Route 13 first, diesel exhaust curling pale gray into the chilly morning air.
 
 Climbing the three steep rubber-treaded steps of a high-floor transit bus on forearm crutches while dragging someone else's heavy suitcase took every ounce of shoulder strength I had. Tammy didn't reach back once to steady the bag; she dropped her fare in the box, claimed a dry window seat halfway back, and tapped her boot impatiently while the bus lurched into gear before I could ease down onto the front transverse bench. For twenty-five minutes I stared out the scratched plexiglass past scrap yards, check-cashing signs, and river bridges as Route 13 carried us straight into Downtown Norfolk.
 
@@ -38,7 +38,7 @@ A stagnant wave of industrial floor wax, old fryer grease, and idling coach exha
 
 Leaning both silver forearm crutches against my knees, I heard every word carry clearly across the concourse.
 
-"Two adults, one-way," Tammy told the agent behind the glass, counting crumpled twenties out of her Ike Street envelope. "Norfolk to Seattle, Washington. The ninety-nine-dollar cross-country special."
+"Two adults, one-way," Tammy told the agent behind the glass, counting crumpled twenties out of her cash envelope. "Norfolk to Seattle, Washington. The ninety-nine-dollar cross-country special."
 
 Ice water dropped straight through my stomach.
 
@@ -66,7 +66,7 @@ Tammy slung her purse strap over her shoulder and kicked the sole of my sneaker 
 
 I slipped both forearms into the open grey cuffs of my matte-silver crutches, pushed myself slowly upright in the middle of the crowded waiting area, left her suitcase sitting untouched on the floor, and held the long perforated Seattle ticket strip out toward her.
 
-"I'm not getting on that bus, Tammy," I said, my voice shaking hard yet carrying clear. "That's a four-day one-way ticket across the country. Gwen turns eighteen in two days and Grandpa's sick—I'm not missing my kid sister's birthday, and I'm not coming back to Ike Street."
+"I'm not getting on that bus, Tammy," I said, my voice shaking hard yet carrying clear. "That's a four-day one-way ticket across the country. Gwen turns eighteen in two days and Grandpa's sick—I'm not missing my kid sister's birthday, and I'm not coming back to that trailer."
 
 Every trace of Tammy's smile vanished into blotchy, furious red rage.
 
@@ -78,7 +78,7 @@ Right in the middle of the public waiting room under the glaring fluorescent lig
 
 The crack echoed across the tile concourse like a pistol shot.
 
-My head snapped sideways so hard white sparks burst behind my eyes; my left crutch rubber tip skidded across the waxed terrazzo and nearly folded out from under me before I locked my wrist on the handgrip. My left cheek felt split open with heat. Nine straight months of walking on eggshells inside that trailer on Ike Street, being mocked and isolated from my family, worrying sick about Grandpa Walter, and getting struck across the face in front of thirty strangers shattered whatever composure I had left.
+My head snapped sideways so hard white sparks burst behind my eyes; my left crutch rubber tip skidded across the waxed terrazzo and nearly folded out from under me before I locked my wrist on the handgrip. My left cheek felt split open with heat. Nine straight months of walking on eggshells inside that trailer off Route 13, being mocked and isolated from my family, worrying sick about Grandpa Walter, and getting struck across the face in front of thirty strangers shattered whatever composure I had left.
 
 My breath caught in a jagged gasp, and I broke down crying right there in the middle of the terminal waiting area—heavy, chest-heaving, uncontrollable sobs shaking my whole five-foot-seven frame on my crutches while hot tears poured down my burning face and I couldn't even let go of a handgrip to wipe my eyes.
 
@@ -112,9 +112,9 @@ Not one passenger stared at me with disgust. Instead, an older gray-haired man c
 
 When southbound CVTA Route 15 swung off eight-lane Military Highway into the Emerald Creek Mall transfer loop and I walked the three quiet maple-lined blocks to Grandpa Walter's brick-and-siding bungalow, seventeen-year-old Gwen spotted me through the front storm door before my silver crutch tips even reached the bottom porch step.
 
-Out onto the covered wooden porch she came on her tall matte-charcoal Lofstrand forearm crutches in her burgundy plaid flannel shirt and worn jeans. Six-foot-one Gwen took one look at my swollen red eyes, the fading pink mark across my left cheekbone, and my stuffed duffel bag sitting on the boards—and when I whispered hoarsely that I had left Tammy at the Norfolk bus station and was never going back to 2710 Ike Street again, pure, radiant relief lit my sister's entire face before she propped both charcoal crutches against the porch railing alongside my silver pair and wrapped both long arms fiercely around my neck.
+Out onto the covered wooden porch she came on her tall matte-charcoal Lofstrand forearm crutches in her burgundy plaid flannel shirt and worn jeans. Six-foot-one Gwen took one look at my swollen red eyes, the fading pink mark across my left cheekbone, and my stuffed duffel bag sitting on the boards—and when I whispered hoarsely that I had left Tammy at the Norfolk bus station and was never going back to that trailer park off Route 13 again, pure, radiant relief lit my sister's entire face before she propped both charcoal crutches against the porch railing alongside my silver pair and wrapped both long arms fiercely around my neck.
 
-"Oh thank God—you dumped her!" Gwen gasped, hugging me so tight against her flannel shoulder she nearly lifted my sneakers half an inch off the porch boards, laughing through happy tears into my hair. "I hated that horrible woman and that awful trailer on Ike Street so much, Nolan! You're back! You're actually back for my birthday!"
+"Oh thank God—you dumped her!" Gwen gasped, hugging me so tight against her flannel shoulder she nearly lifted my sneakers half an inch off the porch boards, laughing through happy tears into my hair. "I hated that horrible woman and that awful trailer so much, Nolan! You're back! You're actually back for my birthday!"
 
 Inside the warm kitchen, though, reality sat waiting beside the whistling tea kettle.
 
@@ -128,7 +128,7 @@ My throat went dry. "Grandpa, don't talk like—"
 
 "I'm making Thursday, boy," Grandpa Walter smiled faintly, gripping my forearm with cool, papery fingers that still carried iron resolve. "I'm watching my granddaughter turn eighteen free and clear. After that, Nolan... she's going to need a roof with her big brother's name on it."
 
-That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of civil standby on the gravel outside 2710 Ike Street while my Blue Tech coworker helped me load my full-sized bed, oak dresser, nineteen-inch CRT television, silver VCR and DVD combo unit, manual wheelchair, and Quantum OS 2000 Professional laptop into his pickup truck before Tammy even made it back from Norfolk—I walked straight into a brick walk-up leasing office four blocks from Emerald Creek Mall and Blue Tech, put down nearly every dollar in my savings account, and signed a twelve-month lease on Studio 2B.
+That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of civil standby on the gravel outside Tammy's trailer lot while my Blue Tech coworker helped me load my full-sized bed, oak dresser, nineteen-inch CRT television, silver VCR and DVD combo unit, manual wheelchair, and Quantum OS 2000 Professional laptop into his pickup truck before Tammy even made it back from Norfolk—I walked straight into a brick walk-up leasing office four blocks from Emerald Creek Mall and Blue Tech, put down nearly every dollar in my savings account, and signed a twelve-month lease on Studio 2B.
 
 It was a tiny rectangular box built for one person. Come Thursday, I hoped with all my heart it would be enough for two.
 
@@ -142,7 +142,7 @@ Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade 
 
 Grandpa Walter had kept his word. Sitting right at the head of the table in his pressed flannel shirt with his dark-green and navy-blue plaid wool blanket tucked over his knees and his nasal oxygen tubing tucked neatly behind his ears, he clapped slowly along as I finished singing off-key across the laminate tabletop. Gwen—officially eighteen years old since breakfast, six-foot-one even seated tall in her manual wheelchair—blew all eighteen flames out in a single gust before reaching sideways to pull me into a rib-crushing one-armed hug.
 
-"Best birthday since I was ten," Gwen declared, eyes shining as she cut Grandpa the corner piece with extra frosting first. "Grandpa's at the table, my big brother's free of Ike Street for good, and nobody from the county can ever put my name on a minor ward list."
+"Best birthday since I was ten," Gwen declared, eyes shining as she cut Grandpa the corner piece with extra frosting first. "Grandpa's at the table, my big brother's free of that trailer park off Route 13 for good, and nobody from the county can ever put my name on a minor ward list."
 
 Across the table, Grandpa Walter gave me one small, unmistakable nod.
 
@@ -188,7 +188,7 @@ Just like Grandpa had warned me, the bank's ninety-day payoff clock was already 
 
 Twelve nights after the funeral, surrounded by taped cardboard boxes and bare picture-hook nails on Grandpa's living-room carpet, I finally hit a wall.
 
-My wrists throbbed from six hours of standing on my silver forearm crutches at Blue Tech followed by four hours of sorting utility shutoff notices and realtor seller disclosures on the floor. Staring at a final hospital billing envelope beside Grandpa's empty recliner spot, my vision blurred hot and sudden. I buried my face in both palms, shoulders hunching tight as that ugly voice from 2710 Ike Street whispered in the back of my skull that I was in way over my head.
+My wrists throbbed from six hours of standing on my silver forearm crutches at Blue Tech followed by four hours of sorting utility shutoff notices and realtor seller disclosures on the floor. Staring at a final hospital billing envelope beside Grandpa's empty recliner spot, my vision blurred hot and sudden. I buried my face in both palms, shoulders hunching tight as that ugly voice from Tammy's trailer whispered in the back of my skull that I was in way over my head.
 
 "Hey—none of that," Gwen's warm voice said instantly.
 
@@ -198,7 +198,7 @@ Before I could even pretend I was just rubbing my eyes, six-foot-one Gwen lowere
 
 Gwen pulled back just enough to cup both sides of my face in her palms, looking straight into my eyes with fierce, unmistakable joy shining right underneath our shared grief.
 
-"Listen to me, Nolan Lennox," my eighteen-year-old sister said firmly. "All year long while Tammy had you trapped over in that awful trailer on Ike Street, I used to lie awake down this hall terrified I had lost my big brother forever. Grandpa got to see me turn eighteen knowing you came back for me. Selling brick and drywall doesn't scare me one bit—I get my brother back, she can never touch you again, and tomorrow night I actually get to move in with you! Now hand me the utility stack and open my laptop; you're not carrying one more phone call by yourself."
+"Listen to me, Nolan Lennox," my eighteen-year-old sister said firmly. "All year long while Tammy had you trapped over in that awful trailer off Route 13, I used to lie awake down this hall terrified I had lost my big brother forever. Grandpa got to see me turn eighteen knowing you came back for me. Selling brick and drywall doesn't scare me one bit—I get my brother back, she can never touch you again, and tomorrow night I actually get to move in with you! Now hand me the utility stack and open my laptop; you're not carrying one more phone call by yourself."
 
 True to her word, Gwen booted up her clunky gray laptop running Quantum OS 98 right there on an upturned packing crate beside me, drafted a neat checklist of final meter-read dates while leaning warm against my shoulder, and refused to go to sleep until every single envelope was stacked, stamped, and conquered together.
 
@@ -238,7 +238,7 @@ The first puzzle announced itself right after supper when I carried my sleep shi
 
 "Didn't fall," I laughed, opening the narrow door after pulling my lounge pants up seated. "Just confirmed nobody over five feet tall can balance on one foot inside that closet without breaking a collarbone. We're both adults now, Nolan, and if we hang a divider curtain across this tiny room neither wheelchair will ever turn. We're just going to have to get changed out here."
 
-Nolan agreed quietly—yet ten minutes later, when he unbuttoned his royal-blue Blue Tech work polo beside his oak dresser under the swiveled rabbit-ear television, my heart pinched hard. Instantly my brother pulled his shoulders inward and angled his stocky five-foot-seven chest hurriedly toward the plaster wall, bracing himself as if waiting for Tammy's cruel voice from 2710 Ike Street to sneer at his soft waist or the old childhood brace marks above his ankles.
+Nolan agreed quietly—yet ten minutes later, when he unbuttoned his royal-blue Blue Tech work polo beside his oak dresser under the swiveled rabbit-ear television, my heart pinched hard. Instantly my brother pulled his shoulders inward and angled his stocky five-foot-seven chest hurriedly toward the plaster wall, bracing himself as if waiting for Tammy's cruel voice from that trailer off Route 13 to sneer at his soft waist or the old childhood brace marks above his ankles.
 
 Making a sad fuss would have made him feel stared at all over again. Instead, sitting comfortably on the corner bed unclipping my charcoal cuffs and reaching for my own sleep tee with zero rush or awkwardness, I kept my gaze warm, matter-of-fact, and completely unbothered on my brother's face.
 
@@ -274,13 +274,13 @@ Gwen reached toward the kitchen end of our small rectangle, popped open the tiny
 
 "Look at the simulation window now, Nolan," Gwen said happily, angling the warm LCD screen of her Quantum OS 2000 Professional laptop toward my eyes on the bed between us. All afternoon, without a single crash or freeze, her orbital plotter had been tracing two glowing spheres—one large pale circle, one smaller amber companion—locked in a gentle, unbreakable loop. "Even when an outside drift tugs at the outer ring, two moons locked in resonance pull each other right back into balance. Neither one lets the other drift into the dark."
 
-For just a second, the word *dark* snagged on an ugly memory I hated—that suffocating single-wide trailer at 2710 Ike Street off Route 13, and standing humiliated in tears under the Gate Four monitors at the Norfolk Pathfinder terminal after Tammy slapped me across the face. My jaw tightened before I realized my expression had shifted.
+For just a second, the word *dark* snagged on an ugly memory I hated—that suffocating single-wide trailer off Route 13, and standing humiliated in tears under the Gate Four monitors at the Norfolk Pathfinder terminal after Tammy slapped me across the face. My jaw tightened before I realized my expression had shifted.
 
 Gwen spotted it instantly. She always did.
 
 Setting her freeze pop wrapper on the milk crate, my little sister closed her laptop lid halfway, rolled straight across the warm cotton sheet of our full-sized bed, and wrapped both of her bare arms firmly around my shoulders—tucking my head right against her collarbone while the oscillating fan hummed cool air across our backs.
 
-"Hey," Gwen murmured fiercely against my hair, holding me with that steady, protective warmth that had guarded my heart every single day since my sister turned eighteen. "Stay right here in Studio 2B with me, Nolan. You're never going back to Ike Street or that bus station ever again. Not while I'm breathing."
+"Hey," Gwen murmured fiercely against my hair, holding me with that steady, protective warmth that had guarded my heart every single day since my sister turned eighteen. "Stay right here in Studio 2B with me, Nolan. You're never going back to that trailer park or that bus station ever again. Not while I'm breathing."
 
 My throat went warm. I wrapped both arms around my sister's waist and held on just as tight, listening to the gentle click of the box fan, the quiet hum of our dorm fridge under the counter, and the steady beat of Gwen's heart against my ear.
 

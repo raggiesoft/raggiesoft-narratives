@@ -3,7 +3,9 @@
 **Canonical Domain:** `https://waystation.raggiesoft.com` (+ Default `404` Catch-All Across Unconfigured `*.raggiesoft.com` Subdomains)  
 **Interactive Story Crossroads Novel:** `https://books.raggiesoft.com/waystation` (*The Uncharted Waystation*)  
 **Earth Era:** Early 2000s (`2000–2001` — `Quantum OS 98` `v4.10.1998` & `Quantum OS 2000 Professional`)  
-**Earth Home Geography:** Chesapeake & Norfolk, Virginia (Tammy's trailer at `2710 Ike Street` on `CVTA Route 13` near `Robert Hall Boulevard`; Norfolk `Pathfinder` Terminal via `CVTA Route 2 / 11`; Grandpa Walter's house near **Emerald Creek Mall**; and Nolan & Gwen's tiny rectangular **Studio 2B** near **Blue Tech** in **Emerald Creek**, Chesapeake)  
+**Earth Home Geography (Dual-Version Privacy Rule):**
+- **CONFIDENTIAL Internal Lore Anchor (NEVER Publish on Websites, Books, Commit Messages, or Music):** Tammy's trailer is internally anchored at `2710 Ike Street` in Chesapeake (`walking distance to where CVTA Routes 6 and 13 meet up at Robert Hall Boulevard`).
+- **Public-Safe Website & Book Geography (PII-Stripped):** Always refer to Tammy's residence in public prose (`books/waystation/**/*.md`, `ovab.json`, `waystation.raggiesoft.com`, `crossroads.raggiesoft.com`) ONLY as ***Pinecrest Court*, a rundown trailer park off CVTA Route 13 within walking distance of Robert Hall Boulevard in Chesapeake** (alongside the Norfolk `Pathfinder` Terminal via `CVTA Route 2 / 11`, Grandpa Walter's house near **Emerald Creek Mall**, and Nolan & Gwen's tiny rectangular **Studio 2B** near **Blue Tech** in **Emerald Creek**, Chesapeake).
 **Genre Aesthetic:** Classic 1980s Practical-Effects Fantasy-Adventure Meets Two Everyday Early-2000s Siblings  
 **In-Universe Role:** Permanent Keepers of the Waystation Sanctuary & RaggieSoft Universe Portal Guides
 
