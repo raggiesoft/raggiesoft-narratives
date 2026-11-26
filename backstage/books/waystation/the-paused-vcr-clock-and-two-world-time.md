@@ -10,8 +10,8 @@ sender: "RaggieSoft Backstage Worldbuilding & Metaphysics Dossier"
 recipient: "Readers of The Uncharted Waystation & Visitors to waystation.raggiesoft.com"
 relatedBookUrl: "https://books.raggiesoft.com/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/amber-glass-beside-the-full-sized-bed"
 relatedBookLabel: "The Uncharted Waystation — Chapter 2, Part 1: Amber Glass Beside the Full-Sized Bed"
-image: "https://assets.raggiesoft.com/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg"
-imageAlt: "Inside Nolan and Gwen Lennox's tiny rectangular Studio 2B in the Emerald Creek area of Chesapeake—showing the corner full-sized bed with Grandpa Walter's plaid blanket, unobstructed under-counter dorm fridge, narrow gas stove, rolling microwave pantry cart, swiveled rabbit-ear CRT TV with silver VCR/DVD combo aimed at the bed, two Quantum OS 2000 Professional laptops, two manual wheelchairs, and four single-tube Lofstrand forearm crutches."
+image: "https://assets.raggiesoft.com/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg"
+imageAlt: "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) and points joyfully toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, beside all four of their single-tube Lofstrand forearm crutches."
 summary: "What actually happens to Nolan and Gwen Lennox's tiny rectangular Studio 2B in Chesapeake while they journey barefoot across Vaeloria on their forearm crutches? Explore why the Slow-Footed Order's Astrolabe called them, their real initial fear before wonder took hold, the moment they return to find their VCR clock still frozen at 9:15 PM, and the Waystation's covenant of reciprocal paused time."
 ---
 
@@ -59,6 +59,8 @@ Bracing themselves for stacked-up weekend mail or a blinking voicemail light fro
 ---
 
 ## 4. The Covenant of Reciprocal Time-Standstill
+
+![Barefoot Nolan Lennox and his taller sister Gwen Lennox sitting side by side in their two manual wheelchairs holding hands warmly inside Keepers' Hall in front of the Glowing Hearth-Archway, with closed padded laptop bags, Grandpa Walter's plaid blanket, and Grandpa's back-angled silver photo frame on their laps beside their four single-tube Lofstrand forearm crutches.](https://assets.raggiesoft.com/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg)
 
 The moment Nolan and Gwen roll their wheelchairs back out onto the warm rose-quartz flagstones of the Waystation carrying Grandpa's photo and their laptops, they discover the second half of the Slow-Footed Order's design: **the hearth-smoke above Keepers' Hall hasn't risen a single inch during the fifteen minutes they spent packing in Chesapeake.**
 

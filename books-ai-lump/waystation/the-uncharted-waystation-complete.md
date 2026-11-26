@@ -612,6 +612,8 @@ Gwen and I traded one long look. Thinking of two days on the canal—meaning Sun
 
 **Harmonic Cycle:** Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
 
+![Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg)
+
 #### 9:15 PM — Not One Second Gone in Chesapeake
 
 Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue Tech manager, or a yellow late-notice slip wedged under our front door.
@@ -637,6 +639,8 @@ Even with my front right caster fork still bent half an inch out of true, rollin
 ***
 
 #### 7:45 PM — The Law of Two Pause-Held Worlds
+
+![Inside Keepers' Hall in front of the Glowing Hearth-Archway and Vaeloria's twin moons, barefoot Nolan Lennox and his taller sister Gwen Lennox sit side by side in their two manual wheelchairs holding hands warmly across the smooth rose-quartz flagstones, with closed padded laptop bags, Grandpa Walter's plaid wool blanket, and Grandpa's silver-framed photograph angled toward Nolan's eyes on their laps while their four matte-silver and matte-charcoal single-tube Lofstrand forearm crutches rest cleanly beside the stone hearth and counter.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg#fullwidth)
 
 The instant our wheelchair tires glided out onto the warm rose-quartz flagstones of the Star-Court, I glanced up at Vaeloria's twilight sky—and gasped a second time.
 
@@ -764,6 +768,8 @@ Gwen and I traded one long look. Thinking of two days on the forest road—meani
 
 **Harmonic Cycle:** Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
 
+![Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg)
+
 #### 9:15 PM — Not One Second Gone in Chesapeake
 
 Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue Tech manager, or a yellow late-notice slip wedged under our front door.
@@ -789,6 +795,8 @@ Even with my front right caster fork still bent half an inch out of true, rollin
 ***
 
 #### 7:45 PM — The Law of Two Pause-Held Worlds
+
+![Inside Keepers' Hall in front of the Glowing Hearth-Archway and Vaeloria's twin moons, barefoot Nolan Lennox and his taller sister Gwen Lennox sit side by side in their two manual wheelchairs holding hands warmly across the smooth rose-quartz flagstones, with closed padded laptop bags, Grandpa Walter's plaid wool blanket, and Grandpa's silver-framed photograph angled toward Nolan's eyes on their laps while their four matte-silver and matte-charcoal single-tube Lofstrand forearm crutches rest cleanly beside the stone hearth and counter.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg#fullwidth)
 
 The instant our wheelchair tires glided out onto the warm rose-quartz flagstones of the Star-Court, I glanced up at Vaeloria's twilight sky—and gasped a second time.
 
@@ -920,6 +928,8 @@ Gwen and I traded one long look. Thinking of two days in the crags—meaning Sun
 
 **Harmonic Cycle:** Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
 
+![Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg)
+
 #### 9:15 PM — Not One Second Gone in Chesapeake
 
 Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue Tech manager, or a yellow late-notice slip wedged under our front door.
@@ -945,6 +955,8 @@ Even with my front right caster fork still bent half an inch out of true, rollin
 ***
 
 #### 7:45 PM — The Law of Two Pause-Held Worlds
+
+![Inside Keepers' Hall in front of the Glowing Hearth-Archway and Vaeloria's twin moons, barefoot Nolan Lennox and his taller sister Gwen Lennox sit side by side in their two manual wheelchairs holding hands warmly across the smooth rose-quartz flagstones, with closed padded laptop bags, Grandpa Walter's plaid wool blanket, and Grandpa's silver-framed photograph angled toward Nolan's eyes on their laps while their four matte-silver and matte-charcoal single-tube Lofstrand forearm crutches rest cleanly beside the stone hearth and counter.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg#fullwidth)
 
 The instant our wheelchair tires glided out onto the warm rose-quartz flagstones of the Star-Court, I glanced up at Vaeloria's twilight sky—and gasped a second time.
 
