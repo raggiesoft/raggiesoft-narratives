@@ -176,7 +176,7 @@ Turning back toward the windshield as Grandpa steered us up toward Military High
 
 ### Part 3: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
 
-**Harmonic Cycle:** Autumn 2000 — Two Days Before Gwen's Eighteenth Birthday, Earth • **Chronometer:** 08:30
+**Harmonic Cycle:** Tuesday, October 17, 2000 — Two Days Before Gwen's Eighteenth Birthday, Earth • **Chronometer:** 08:30
 
 ![On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg)
 
@@ -344,15 +344,15 @@ While Gwen went down the hall to make up my old bed, Grandpa untied the manila f
 
 "I'm making Thursday, boy," Grandpa Walter whispered with a faint, steady smile, squeezing my wrist. "I'm seeing your sister turn eighteen. After that, Nolan... make sure she's got a home right beside her brother."
 
-That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of civil standby outside Pinecrest Court while my Blue Tech coworker loaded my full-sized bed, oak dresser, nineteen-inch television, silver VCR and DVD combo unit, and Quantum OS 2000 Professional laptop into his pickup before Tammy even straggled back from Norfolk—I rolled into a walk-up leasing office four blocks from Emerald Creek Mall and Blue Tech and signed a twelve-month lease on Studio 2B.
+That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of civil standby outside Pinecrest Court while my Blue Tech coworker loaded my full-sized bed, oak dresser, nineteen-inch television, silver VCR and DVD combo unit, and Quantum OS 2000 Professional laptop into his pickup before Tammy even straggled back from Norfolk—we swung by the Pinecrest Court park manager's trailer office so I could turn in my brass trailer key and get my name off the lease. Back in November of ninety-eight, when Tammy and I had decided I was moving in, the park's fourteen-day occupant rule had required me to bring two Blue Tech direct-deposit paystubs into that office and sign onto Tammy's lease as a co-tenant—and during both of the earlier breakups Tammy had initiated, she had never taken my name off the lease because she hadn't meant to yell at me either time. Because taking a co-tenant off immediately required Tammy's signature on a roommate release—which Tammy stubbornly refused to sign once she got home, holding out for weeks convinced I would come crawling back—filing my formal Virginia written notice of non-renewal on October seventeenth meant my name stayed legally on that trailer lease until midnight on November thirtieth. Paying my final share up front so my credit stayed spotless, my coworker and I hauled all of my furniture back to Emerald Creek and unloaded it safely under a tarp in Grandpa Walter's garage.
 
-It was a tiny rectangular box built for one person. Come Thursday evening over birthday cake, I couldn't wait to hand my sister the second key.
+Come December first, my name would drop off Tammy's lease automatically with zero overlap, leaving me free to sign a lease of my own on a tiny walk-up studio four blocks from Blue Tech. Come Thursday evening over birthday cake, I couldn't wait to ask my sister if she wanted to come live with me.
 
-### Part 4: Eighteen Candles, One Brass Key, and Everything Left Behind
+### Part 4: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
 
-**Harmonic Cycle:** Autumn 2000 — Gwen's Eighteenth Birthday and the Weeks After, Earth • **Chronometer:** 18:30
+**Harmonic Cycle:** October 19 – November 2000 — Gwen's Eighteenth Birthday and the Six Weeks After, Earth • **Chronometer:** 18:30
 
-#### 6:30 PM — Eighteen Candles and One Brass Apartment Key
+#### 6:30 PM — Eighteen Candles and Always There for Big Brother
 
 Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald Creek neighborhood by herself.
 
@@ -362,19 +362,19 @@ Grandpa Walter had kept his word. Sitting right at the head of the table in his 
 
 Across the table, Grandpa Walter gave me one small, unmistakable nod.
 
-My palms felt damp against my jeans pocket. For forty-eight hours since signing that walk-up apartment lease four blocks down from Emerald Creek Mall, a quiet knot of nervousness had sat under my ribs—wondering if six-foot-one Gwen would take one look at an eleven-by-eighteen-foot studio box with one bed and wish she had roommates her own age instead. Taking a deep breath, I pulled the fresh brass key on its blue plastic hardware tag out of my pocket and set it down right beside Gwen's cake saucer.
+My palms felt damp where I wiped them against my jeans knees. Because Tammy over at Pinecrest Court was stubbornly refusing to sign a roommate release—convinced I was going to come crawling back—my written non-renewal notice wouldn't clear my name off her trailer lease until midnight on November thirtieth, meaning I couldn't sign a new apartment lease until December first. All afternoon since checking out the tiny walk-up studio apartments four blocks down from Emerald Creek Mall near Blue Tech, a quiet knot of nervousness had sat under my ribs—wondering if six-foot-one Gwen would hear *rectangular one-person box with one bed* and wish she could go find roommates her own age instead.
 
-"Okay, it's tiny—literally a rectangular box built for one person, right down the street from my shifts at Blue Tech," I said, rubbing the back of my neck. "Only got my one full-sized bed in the corner and a dorm fridge under the counter. Still... I leased Studio 2B yesterday, Gwenny, and I got a second key cut. Whenever you're ready, do you want to come live with me?"
+"Hey, Gwenny... my written notice at Pinecrest doesn't clear until the end of November, so I can't sign a lease on my own place until December first," I said, rubbing the back of my neck. "And the walk-up studio I picked out down the street from my shifts at Blue Tech is tiny—literally an eleven-by-eighteen-foot box built for one person, only big enough for my one full-sized bed in the corner and a dorm fridge under the counter. Still, come December first... do you want to come live with me?"
 
-Gwen stared at the little brass key for half a second—and then let out a joyous gasp that made the forks jump on the placemats.
+Gwen stared at me across the frosted cake for half a second—and then let out a joyous gasp that made the forks jump on the placemats.
 
-Instead of hesitating for a split second about square footage, my newly eighteen-year-old sister unlocked her wheelchair brakes, rolled two feet around the table corner, and threw both arms around my neck so exuberantly she nearly tipped me backward off my kitchen chair.
+Without hesitating for a split second about waiting six weeks or squeezing into a tiny room, my newly eighteen-year-old sister unlocked her wheelchair brakes, rolled two feet around the table corner, and threw both arms around my neck so exuberantly she nearly tipped me backward off my kitchen chair.
 
-"Are you serious?! Yes! A million times yes!" Gwen laughed, kissing the top of my head before snatching up the brass key like I had just handed her the deed to a castle. "First you finally dump Tammy, and now I actually get to live with my big brother?! Nolan, I don't care if it's the size of a shoebox—we're living together!"
+"Are you serious?! Yes! A million times yes!" Gwen laughed, kissing the top of my head and hugging me with all her might, practically bouncing with excitement. "First you finally dump Tammy, and now you're asking me to live with you?! Nolan, I don't care if it's the size of a shoebox—we're living together, and I promise I'm always going to be there for my big brother!"
 
-At the head of the table, Grandpa Walter reached both thin hands across the tablecloth to cover Gwen's hand and mine over the brass key. Every ounce of worry that had etched deep lines around his mouth for months seemed to smooth completely away in the warm kitchen light.
+At the head of the table, Grandpa Walter reached both thin hands across the tablecloth to cover Gwen's clasped hand and mine. Every ounce of worry that had etched deep lines around his mouth for months seemed to smooth completely away in the warm kitchen light.
 
-"Two grown Lennoxes under one roof," Grandpa whispered, his smile peaceful and whole. "Look after each other now."
+"Two grown Lennoxes under one roof come December," Grandpa whispered, his smile peaceful and whole. "Look after each other now."
 
 ***
 
@@ -392,17 +392,17 @@ By two o'clock that afternoon—burning the first of the measly three paid berea
 
 "Nurse warned me," I murmured tiredly, rubbing my forehead. "Nobody—not the bank, not the court, not the electric company—lets you close a single account without a raised seal."
 
-She wasn't exaggerating. Over the next three weeks, while grieving Grandpa every night and rushing back onto the Blue Tech computer aisles every fourth morning in my royal-blue polo so my paycheck wouldn't bounce Studio 2B's first month's rent, every free daylight hour turned into a mountain of clipboards, long hold queues, and brick courthouse counters.
+She wasn't exaggerating. Over the next six weeks through Thanksgiving—while grieving Grandpa every night, rushing back onto the Blue Tech computer aisles in my royal-blue polo to save up December's security deposit and first month's rent, and knowing Tammy over at Pinecrest Court was still holding out refusing to sign an early release convinced grief would drive me back to her trailer—every free daylight hour turned into a mountain of clipboards, long hold queues, and brick courthouse counters.
 
 Down at the Chesapeake Circuit Court clerk's office, I had to stand on my silver crutches at a chest-high marble probate window with Grandpa's original will, swear a formal executor's oath, and open an estate checking account just to pay bills legally. When I called the Social Security office with a death certificate number, a flat voice informed me that because Grandpa had died on the twentieth rather than living through the entire calendar month, the Treasury would automatically claw back his final direct-deposit check straight out of the bank—wiping out seven hundred dollars I had counted on to pay the final electric and natural-gas bills. Then came returning the leased medical oxygen concentrator before another monthly rental fee hit, canceling landline telephone and city water deadlines, filing final medical claim forms, and sitting across Grandpa's worn kitchen table with an estate real-estate agent as she laid out the payoff sheet on Grandpa's home-equity medical loan.
 
-Just like Grandpa had warned me, the bank's ninety-day payoff clock was already ticking. On an hourly electronics-store wage, no mortgage underwriter in Virginia would let me refinance a thirty-eight-thousand-dollar balance. The only house Gwen had ever known had to go up for sale immediately—and forty years of Grandpa Walter's woodworking clamps, dishes, wool coats, bookshelves, and living-room armchairs had to be priced, tagged, and cleared out in a weekend estate sale because none of a three-bedroom bungalow could fit inside an eleven-by-eighteen-foot studio box.
+Just like Grandpa had warned me, the bank's ninety-day payoff clock was already ticking. On an hourly electronics-store wage, no mortgage underwriter in Virginia would let me refinance a thirty-eight-thousand-dollar balance. The only house Gwen had ever known had to go up for sale immediately—and forty years of Grandpa Walter's woodworking clamps, dishes, wool coats, bookshelves, and living-room armchairs had to be priced, tagged, and cleared out in a weekend estate sale because none of a three-bedroom bungalow could fit inside the eleven-by-eighteen-foot studio floorplan waiting for us on December first.
 
 ***
 
-#### 10:40 PM, Twelve Days Later — Not Carrying It Alone
+#### 10:40 PM, Mid-November — Not Carrying It Alone
 
-Twelve nights after the funeral, surrounded by taped cardboard boxes and bare picture-hook nails on Grandpa's living-room carpet, I finally hit a wall.
+Three weeks after the funeral, surrounded by taped cardboard boxes and bare picture-hook nails on Grandpa's living-room carpet while we counted down the final two weeks until December first, I finally hit a wall.
 
 My wrists throbbed from six hours of standing on my silver forearm crutches at Blue Tech followed by four hours of trying to decode vague realtor seller disclosures and overlapping utility shutoff rules on the floor. Being neurotypical like Grandpa Walter had been, Gwen could hear what polite strangers on the phone actually meant between the lines; for me, juggling ten unfamiliar agencies with zero written checklist felt like static roaring louder and louder inside my skull. Staring at a final hospital billing envelope beside Grandpa's empty recliner spot, my vision blurred hot and sudden. I buried my face in both palms, shoulders hunching tight as that ugly voice from Tammy's trailer whispered in the back of my head that I wasn't built to handle real adult life.
 
@@ -414,19 +414,21 @@ Before I could even pretend I was just rubbing my eyes, six-foot-one Gwen lowere
 
 Gwen pulled back just enough to cup both sides of my face in her palms, looking straight into my eyes with clear, literal honesty and unmistakable joy shining right underneath our shared grief.
 
-"Listen to me, Nolan Lennox," my eighteen-year-old sister said gently. "All two years while Tammy had you stuck over in that awful trailer off Route 13, I used to lie awake down this hall terrified because I know how your brain works—you take people at their word, you see the world honestly, and out in a neurotypical world full of double-talk and users, Grandpa Walter was always the one helping translate things for you. The morning Grandpa passed away, I made up my mind that job belongs to me now. Selling brick and drywall doesn't scare me one bit—I get my brother back, nobody is ever going to yell at you under our roof, and you and I are staying together for the rest of our lives. Now hand me the utility stack and open my laptop; I'll translate the phone scripts and put every single date in one clean list so we knock them out side by side."
+"Listen to me, Nolan Lennox," my eighteen-year-old sister said gently. "All two years while Tammy had you stuck over in that awful trailer off Route 13, I used to lie awake down this hall terrified because I know how your brain works—you take people at their word, you see the world honestly, and out in a neurotypical world full of double-talk and users, Grandpa Walter was always the one helping translate things for you. The morning Grandpa passed away, I made up my mind that job belongs to me now. Selling brick and drywall doesn't scare me one bit—I get my brother back, nobody is ever going to yell at you under our roof, and just like I promised you on my birthday, I'm always going to be there for my big brother. You and I are staying together for the rest of our lives. Now hand me the utility stack and open my laptop; I'll translate the phone scripts and put every single date in one clean list so we knock them out side by side."
 
 True to her word, Gwen booted up her clunky gray laptop running Quantum OS 98 right there on an upturned packing crate beside me, drafted a neat checklist of final meter-read dates while leaning warm against my shoulder, and refused to go to sleep until every single envelope was stacked, stamped, and conquered together.
 
 ### Part 5: Moving Into a Rectangular Box and Quantum OS 2000
 
-**Harmonic Cycle:** Late Autumn 2000 — Moving Week in Studio 2B, Earth • **Chronometer:** 16:15
+**Harmonic Cycle:** Friday, December 1, 2000 — Moving Day in Studio 2B, Earth • **Chronometer:** 16:15
 
 ![Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg)
 
-#### 4:15 PM — Eleven Feet by Eighteen Feet of Pure Freedom
+#### 4:15 PM — Zero Lease Overlap and Eleven Feet by Eighteen Feet of Freedom
 
-The afternoon the estate realtor hung the *UNDER CONTRACT* rider on Grandpa Walter's front lawn and Nolan unlocked the door of Studio 2B for me to move in officially, I took one look inside his tiny rectangular apartment, burst out laughing with pure happiness, and hugged my brother right in the doorway.
+At midnight on November thirtieth—after six straight weeks in which Tammy over at Pinecrest Court had stubbornly refused to sign the early roommate release, holding out past Thanksgiving convinced that burying Grandpa Walter and selling our house would send a lonely Nolan running back to her trailer—my brother's written non-renewal notice expired right on schedule and severed his name off Tammy's lease forever without Nolan dialing her number once.
+
+By quarter past four on Friday afternoon, December first, with the estate realtor's fresh *UNDER CONTRACT* rider hanging out on Grandpa Walter's front lawn and zero lease conflicts left anywhere in Virginia, we walked out of the Emerald Creek leasing office four blocks from Blue Tech with two brand-new brass keys, unloaded Nolan's furniture out of Grandpa's garage, and unlocked Studio 2B together—where I took one look inside our tiny rectangular apartment, burst out laughing with pure happiness, and hugged my brother right in the doorway.
 
 Nolan hadn't exaggerated by half an inch: Studio 2B was an eleven-by-eighteen-foot rectangular shoebox designed strictly for one solitary tenant who didn't own two manual wheelchairs.
 
@@ -476,17 +478,17 @@ While blue setup bars marched steadily across my screen and Nolan—happily back
 
 ### Part 6: Eighty-Nine Degrees and One Rattling Fan
 
-**Harmonic Cycle:** August 2001 — Ten Months in Studio 2B, Earth • **Chronometer:** 15:10
+**Harmonic Cycle:** August 2001 — Nearly Nine Months in Studio 2B, Earth • **Chronometer:** 15:10
 
 #### 3:10 PM — Dorm-Fridge Ice Pops and Bare Skin
 
 By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the shimmering Chesapeake asphalt outside.
 
-Ten months of building our permanent life side by side after Grandpa Walter's house near Emerald Creek Mall closed escrow—splitting one rectangular one-person apartment with zero intention of ever living apart, stretching skinny checks after Grandpa's medical lien ate almost every cent of the sale proceeds, Gwen translating the outside neurotypical world's fine print the way Grandpa used to while I kept our computers and transit schedules running like clockwork, sharing our corner bed, cuddling every night, and getting dressed together without an ounce of awkwardness—had turned our tiny room into an unbreakable lifeboat. Down in the lobby, the landlord's yellow out-of-order tag still hung taped across the elevator button, meaning after six hours of wandering the computer and home-theater aisles on my crutches and ringing up registers over at Blue Tech, hauling every sack of groceries up to our rolling microwave-cart pantry took twenty-two wooden stairs while Gwen balanced our budget and ran freelance spreadsheet cleanups on her rock-solid Quantum OS 2000 Professional laptop.
+Nearly nine months of building our permanent life side by side since moving in on December first—splitting one rectangular one-person apartment with zero intention of ever living apart, stretching skinny checks after Grandpa's medical lien ate almost every cent of the bungalow sale proceeds, Gwen translating the outside neurotypical world's fine print the way Grandpa used to while I kept our computers and transit schedules running like clockwork, sharing our corner bed, cuddling every night, and getting dressed together without an ounce of awkwardness—had turned our tiny room into an unbreakable lifeboat. Down in the lobby, the landlord's yellow out-of-order tag still hung taped across the elevator button, meaning after six hours of wandering the computer and home-theater aisles on my crutches and ringing up registers over at Blue Tech, hauling every sack of groceries up to our rolling microwave-cart pantry took twenty-two wooden stairs while Gwen balanced our budget and ran freelance spreadsheet cleanups on her rock-solid Quantum OS 2000 Professional laptop.
 
 At three o'clock on Saturday afternoon, the thermometer beside our swiveled silver VCR and DVD combo deck read eighty-nine degrees even with the blinds shut tight and a square plastic box fan oscillating full-speed between the dresser and the foot of our shared full-sized bed.
 
-Cotton shirts and denim felt like wet wool blankets in that kind of trapped Virginia humidity. With me newly twenty-four and Gwen three weeks shy of turning nineteen—nearly a full year past moving day when she taught me never to hunch my shoulders toward the plaster wall—both of us had stripped down to nothing but our bare skin on top of a cool white sheet stretched across the fifty-four-inch mattress, cold damp washcloths draped over the backs of our necks while the box fan swept back and forth from bare ankles to shoulders.
+Cotton shirts and denim felt like wet wool blankets in that kind of trapped Virginia humidity. With me newly twenty-four and Gwen two months shy of turning nineteen—nearly nine months past moving day when she taught me never to hunch my shoulders toward the plaster wall—both of us had stripped down to nothing but our bare skin on top of a cool white sheet stretched across the fifty-four-inch mattress, cold damp washcloths draped over the backs of our necks while the box fan swept back and forth from bare ankles to shoulders.
 
 Gwen reached toward the kitchen end of our small rectangle, popped open the tiny freezer compartment inside our unobstructed under-counter dorm fridge, and tossed me an orange freeze pop before settling back down right beside me on the corner bed with a grape one of her own.
 
