@@ -8,210 +8,217 @@ title: "The Uncharted Waystation"
 
 ### Part 1: Before Midnight Takes You
 
-**Harmonic Cycle:** One Year Earlier — Eve of Gwen's Eighteenth Birthday, Earth • **Chronometer:** 17:20
+**Harmonic Cycle:** Autumn 2000 — Eve of Gwen's Eighteenth Birthday, Earth • **Chronometer:** 17:20
 
 #### 5:20 PM — Sixteen Hours Short on Paper
 
-Rain drummed cold against the corrugated aluminum awning over Grandpa Walter's back porch while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented silver hatchback beside mine.
+Cold October rain drummed against the corrugated aluminum awning over Grandpa Walter's back porch while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented silver hatchback beside mine.
 
-My forearms burned from two straight hours of packing boxes on crutches, and the black wool collar of my thrift-store coat smelled like wet pavement and hospital antiseptic, yet I didn't dare slow down for ten seconds. Inside on the laminate kitchen counter—weighted down beneath Grandpa Walter's empty ceramic coffee mug—sat a cream-colored business card left behind at noon by a county youth-services coordinator with a brisk clipboard and a polite, rehearsed smile.
+My forearms ached from two straight hours of carrying boxes on my matte-silver Lofstrand crutches, yet I didn't dare slow down for ten seconds. Inside on Grandpa's laminate kitchen counter—weighted beneath his empty ceramic coffee mug—sat a cream-colored card left behind at noon by a county youth-services coordinator with a brisk clipboard and a rehearsed, pitiless smile.
 
 *Emergency Minor Placement & Assisted Residential Intake — Tomorrow, 8:00 AM.*
 
-Tomorrow at twelve-oh-one in the morning, my little sister would turn eighteen. Tonight, according to a county database that didn't care how many years Grandpa Walter had greased our wheelchair axles in his garage or taught the two of us to change our own rubber crutch ferrules at the kitchen table, Gwendolyn Lennox was still seventeen for six and a half more hours. With our parents long gone from our lives and Grandpa Walter having slipped away quietly in his sleep before dawn, one signature from an intake supervisor would put Gwen into a state-contracted residential ward across the river before breakfast—with locked visiting hours, shared four-bed rooms, and zero promise she would ever walk back out onto an independent lease once the paperwork labeled her unable to live alone.
+Tomorrow at twelve-oh-one in the morning, my little sister would turn eighteen. Tonight, according to a county database that didn't care how many years Grandpa Walter had greased our wheelchair axles in his garage or replaced the rubber crutch tips on our four forearm crutches before winter ice hit, Gwendolyn Lennox was still seventeen for six and a half more hours. With our parents long gone from our lives and Grandpa Walter having slipped away quietly in his sleep before dawn, one signature from an intake supervisor would lock Gwen inside a state-contracted residential ward across the river before breakfast—complete with curfews, shared institutional wards, and court guardianship paperwork designed to make sure she never walked back out onto an independent lease.
 
-At twenty-three, working remote data-entry shifts from a three-hundred-and-eighty-square-foot studio apartment above a dry cleaner's, I didn't have lawyer money. What I had was a full tank of gas, four Lofstrand forearm crutches, and a key to my own front door.
+Three weeks earlier, at twenty-three, I had barely crawled out of my own dark pit—breaking free after nearly a year with a controlling partner who had cut my phone calls off from Grandpa Walter and Gwen, mocked my five-foot-seven stocky build and my silver forearm crutches every time an argument started, and hollowed me out until I moved into the cheapest rectangular one-person studio box I could rent above an Elm Street dry cleaner's. I didn't have lawyer money. What I had was a full tank of gas, four forearm crutches, and a front-door deadbolt with my name on it.
 
 "Nolan?"
 
-Gwen stood just inside the screen door on her tall matte-charcoal forearm crutches, Grandpa Walter's heavy dark-green and navy-blue plaid wool blanket folded tight against her burgundy sweatshirt. At six-foot-one—already done growing and half a head taller than my five-foot-seven stocky frame—her eyes were red-rimmed behind waves of damp honey-brown hair, her knuckles pale around her black handgrips.
+Gwen stood just inside the screen door on her tall matte-charcoal forearm crutches, Grandpa Walter's dark-green and navy-blue plaid wool blanket tucked under one arm and the padded nylon case holding her heavy gray laptop slung across her chest. Done growing at six-foot-one—six full inches taller than me—her green-hazel eyes were red-rimmed behind waves of damp honey-brown hair, yet the way she looked at me held fierce, unmistakable relief.
 
-"Did I miss anything from his armchair?" she asked softly.
+"Got Grandpa's blanket and my computer," she said softly.
 
-"You've got the blanket," I said, clicking my matte-silver cuffs around my forearms and stepping up under the porch eave to wrap one arm hard around her waist. Gwen dropped her forehead straight down onto my shoulder, breathing in shaky, quiet gulps against my wet coat collar while I held on tight. "Leave the county lady's card right where it sits, Gwenny. By the time she knocks on this porch tomorrow morning, you're eighteen and you live with your brother."
+"Then we're gone," I said, stepping under the porch eave on my silver cuffs to wrap my right arm tight around her waist.
 
-***
+Gwen didn't just lean in—she dropped her left crutch against the doorframe and wrapped both long arms around my neck and shoulders, pulling me against her chest so fiercely my throat closed up.
 
-#### 9:45 PM — One Room and a Closed Kitchenette Curtain
+"I missed you so much all year, Nolan," Gwen whispered into my wet coat collar, her voice trembling with grief for Grandpa and fierce protectiveness for me all at once. "I hated what they did to you when you were stuck over on Fourth Street. Nobody's taking me to a state ward tomorrow, and I'm never letting you go back into that dark by yourself again. Promise me."
 
-My second-floor studio on Elm Street had exactly one real door inside it, and that door belonged to a bathroom three feet wide with a claw-foot tub jammed two inches from a chipped porcelain pedestal sink.
-
-By the time we wrestled both manual wheelchairs, two duffels of Gwen's clothes, and her stack of spiral-bound astronomy notebooks out of the clanking freight-sized lobby elevator—the last week that ancient elevator ran before management slapped a yellow inspection tag across the call button—there were barely four square feet of open linoleum left between my pull-out sofa-bed, the scratched oak coffee table, and the two-burner kitchenette by the entry mat.
-
-Gwen sank down onto the edge of the unfolded sofa mattress, slipping her arms out of her charcoal cuffs and looking around the single narrow room as rainwater ticked against the rattling beige window air-conditioner unit.
-
-"Where's your bedroom?" she asked, blinking toward the narrow alcove holding the mini-fridge.
-
-"You're sitting on it," I admitted, rubbing the back of my neck with a sheepish half-smile as I propped all four of our forearm crutches—two silver, two charcoal—against the padded sofa arm. "And the dining room. And my home office. It isn't much compared to Grandpa's house, Gwen, I know—"
-
-Gwen reached up before I could finish the apology, caught my wrist in both of her warm hands, and tugged me down onto the mattress edge beside her until my shoulder pressed solid against hers.
-
-"It doesn't have fluorescent hallway lights or strangers checking a clipboard every two hours," Gwen said quietly, leaning her cheek against the top of my tousled hair. "It's ours, Nolan."
-
-When ten-thirty rolled around on my battered alarm clock and both of us were still damp to the knees from loading the car in the downpour, Gwen glanced from her canvas duffel bag to the narrow bathroom doorway—too tight for either wheelchair and barely wide enough to turn sideways without bruising a hip on the sink pipe—then back to me with sudden, tired uncertainty.
-
-I checked the red digital numbers on the nightstand: *10:34 PM*. Eighty-six minutes left until midnight.
-
-"Here," I said immediately, reaching for my silver forearm crutches and pushing myself upright without making a big speech out of it. I pulled a clean cotton sleep t-shirt and dry sweatpants from my drawer, stepped past the mini-fridge into the tiny three-foot entry vestibule by the deadbolted front door, and tugged the heavy canvas coat-rack curtain across the kitchenette opening so my back faced the coat hooks instead of the studio room. "Take all the time you need out there on the bed where you won't trip on the tub rim, kiddo. Knock twice on the fridge side when you're under the covers."
-
-From the other side of the canvas curtain came the soft rustle of Gwen unzipping her duffel, followed by a quiet, grateful exhale.
-
-"You don't have to stand out by the doormat on your wrists just because I'm seventeen for another hour, Nolan," she called gently.
-
-"Yes, I do," I answered toward the painted front door, resting my weight steady on my forearm cuffs until two soft knocks tapped the side of the mini-fridge. "Tell me again tomorrow when you're eighteen. Tonight, little sister, nobody rushes you."
-
-When I switched off the kitchenette bulb, changed quickly in the dark by the coat hooks, and eased onto the left side of the pull-out mattress ten minutes later, Gwen immediately rolled across the middle seam beneath Grandpa Walter's green-and-navy plaid blanket and wrapped both arms tight around my shoulders—holding on until the clock clicked past midnight and neither of us had to be afraid of eight o'clock in the morning anymore.
-
-### Part 2: Eighteen and Two Names on the Lease
-
-**Harmonic Cycle:** One Year Earlier — Gwen's Eighteenth Birthday Week, Earth • **Chronometer:** 08:30
-
-![Inside a small sunlit one-room studio apartment with two manual wheelchairs parked near a tiny kitchenette and an old window air-conditioner on the sill, barefoot twenty-three-year-old Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) hug warmly on their pull-out sofa-bed behind an oak coffee table holding their newly co-signed apartment lease, with Grandpa Walter's green-and-navy plaid blanket behind them and all four single-tube Lofstrand forearm crutches leaning cleanly beside the armrest.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg)
-
-#### 8:30 AM — Three Feet of Cracked Tile
-
-My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink.
-
-Trying to be polite in a three-hundred-and-eighty-square-foot apartment that had no bedroom walls, I had carried a folded heather-burgundy cotton t-shirt and clean blue jeans into Nolan's closet-sized bathroom to get dressed behind the door. At six-foot-one, my shoulders brushed the towel rack on one wall while my opposite elbow bumped the shower rod. The instant I shifted my weight onto one bare foot to pull my sleep sweatpants off over my ankle, my propped crutch skidded sideways across the slick hexagonal tile with a loud aluminum clatter—dropping me hard onto the closed toilet lid with my heart hammering in my throat.
-
-"Gwenny?" Nolan's knuckles rapped once against the hollow pine door, his voice sharp with concern but never barging in without asking. "You okay in there?"
-
-"Didn't fall," I called back, blowing a stray lock of honey-brown hair off my forehead as I wrestled my jeans up seated on the cramped porcelain lid and unlatched the door. "Just discovered this bathroom was designed by somebody three feet tall who owns zero bones."
-
-Nolan stood right outside on his matte-silver forearm crutches in his worn blue jeans and heather-navy t-shirt, lowering one shoulder in relief before catching me in a quick, solid morning hug.
-
-"Happy eighteenth, flagpole," my twenty-three-year-old brother murmured into my collarbone, giving my back a warm squeeze before glancing past me at the impossibly narrow gap between the tub and the sink. When we sat down hip-to-hip on the edge of the unmade sofa-bed with mugs of instant coffee, Nolan set his mug on the scratched oak table and looked up at me with calm, honest hazel eyes.
-
-"We should talk about the room setup before one of us cracks an elbow on that sink pipe," Nolan said quietly. "I measured the ceiling joists when I moved in last spring—landlord bans wall screws, and if we rig tension rods and sheets down the middle of the floor, neither of our wheelchairs can turn from the door to the bed."
-
-I looked around the tiny, sunlit square of our whole world: two parked manual wheelchairs side by side on the braided rug, one pull-out mattress that folded back into our only couch, one small dresser, and four ergonomic forearm crutches leaning within arm's reach. Yesterday I had been seventeen, terrified of county vans and institutional wards. Today I was eighteen—an adult woman sharing one small lifeboat of an apartment with the older brother who had just saved my freedom.
-
-"If we try changing clothes balanced on one foot inside that bathroom twice a day, one of us is going to end up in urgent care inside a week," I said plainly, resting my hand over Nolan's wrist. "We're both grown-ups now, Nolan. We're going to have to get changed out here in the room."
-
-A flicker of protective hesitation crossed my brother's face—five years of being the older brother who always shielded me from staring eyes in physical-therapy gyms and hospital corridors—before he nodded slowly.
-
-"Yeah," Nolan said softly. "No weirdness, no making each other feel trapped in corners."
-
-The first two mornings took a conscious breath. Years of medical appointments where strangers poked at weak hips and stiff knees teach you by reflex to hunch your shoulders or yank a shirt hem down fast. Yet the third evening after supper, when I sat on the right corner of the sofa mattress unclipping my cuffs to swap a rain-damp t-shirt for dry cotton while Nolan stood two paces away by the dresser changing out of his work jeans, neither of us snapped our eyes toward the ceiling tiles or stiffened up in awkward silence. Nolan simply asked whether I wanted cinnamon or plain toast while buttoning a clean flannel shirt; I answered him looking right at his face without rushing my hands. Within a week, the old reflexive knot of self-consciousness vanished completely. In a world outside that stared at six-foot-one women on crutches and five-foot-seven men in wheelchairs every time we bought groceries, learning not to look away from each other inside our own four walls felt like setting down heavy armor we never needed to carry at home.
+"Promise," I breathed, holding my little sister tight until the rain blew cold across our ankles. "Let's get you home before morning."
 
 ***
 
-#### 4:15 PM, Five Days Later — Co-Tenants in Blue Ink
+#### 9:45 PM — A Rectangular Box Made for One
 
-On Thursday afternoon, a thick manila envelope slid halfway under our front door with a dry paper scrape against the linoleum.
+Studio 2B on Elm Street was a narrow rectangular shoebox eleven feet wide and eighteen feet long, designed strictly for one solitary tenant who didn't own two manual wheelchairs.
 
-I rolled over in my manual chair, scooped it up, and felt my stomach tighten until Nolan read the top sheet over my shoulder: the annual twelve-month lease renewal for Studio 2B.
+By the time we rode the groaning lobby elevator up to the second floor—the very last month that ancient elevator worked before the landlord taped a yellow out-of-order notice over the call button—and parked both manual wheelchairs side by side just inside the front door, the entire room revealed itself in a single glance. Pushed flush against the left plaster wall beneath a small rattling window air-conditioner sat my full-sized bed, taking up half the floor width. Next to the foot of the bed stood my scuffed oak dresser, crowded on top by a chunky nineteen-inch television with V-shaped metal rabbit ears and a black VCR and DVD combo unit. Along the short back wall ran a miniature one-person kitchen: a dorm-style mini-fridge tucked underneath two feet of chipped laminate counter, a tiny stainless sink, a narrow apartment-sized natural-gas oven, and my white microwave perched atop a rolling wire cart whose bottom two shelves doubled as my entire pantry of canned soup, rolled oats, peanut butter, and boxed macaroni. Open on a milk-crate nightstand beside the bed hummed my thick charcoal laptop running Quantum OS 2000 Professional.
 
-Instead of signing the single bottom line by himself the way he had the year before, Nolan wheeled up to the kitchenette counter, uncapped a blue ballpoint pen, and neatly printed a second full legal name in the co-tenant box at the top of Page One before setting the packet down on our scratched oak coffee table angled toward both of us.
+There was no couch, no dining table, and no bedroom wall—only a closet-sized bathroom three feet wide beside the entry hooks.
 
-*Tenant 1: Nolan W. Lennox.*
-*Tenant 2: Gwendolyn M. Lennox.*
+Old, ugly reflexes from Fourth Street tightened my chest before I could stop them. My shoulders hunched inward an inch.
 
-"Rent doesn't go up for adding a second adult," Nolan said casually, handing me the second pen grip-first as we shifted side by side onto the sofa under Grandpa Walter's green-and-navy plaid blanket. "And with your name printed right next to mine on a notarized lease, no county office, landlord, or hospital social worker on Earth can ever claim you don't have a permanent legal home."
+"I'm sorry there isn't even a sofa, Gwenny," I started automatically, staring down at the scuffed floorboards between my crutch tips. "It's just the one full bed, and the pantry's literally a microwave cart, and I know two people crammed into a box this small is—"
 
-My throat went tight before the ink even touched the dotted line. My signature slanted tall and slightly wobbly where my wrist tired at the end of *Lennox*, right beside Nolan's compact, steady block letters.
+Gwen set her laptop bag down on the edge of the full-sized mattress, reached out with both hands, and cupped my jaw gently until I looked up into her eyes. Even seated on the edge of my bed, she nearly met me eye-to-eye.
 
-The second I set the pen down, I wrapped both arms around my five-foot-seven older brother and pulled him tight against my chest—burying my smile in his tousled brown hair while Nolan hugged my waist right back, four aluminum forearm crutches gleaming quietly against the sofa arm beside us.
+"Hey," Gwen said softly, her thumb brushing my cheek with steady, unshakable warmth. "Stop apologizing for taking up air. The person who taught you to apologize for your own home isn't in this room, Nolan. Look at me: there's a roof, a gas stove, Grandpa's blanket, and my big brother. This is a palace compared to where the county wanted to lock me tomorrow."
+
+Something tight behind my ribs finally let go. I leaned my forehead against hers and let out a long breath.
+
+When ten-thirty clicked onto the green LED clock of the VCR and DVD combo unit and both of us needed to get out of our rain-damp jeans, Gwen glanced toward the narrow three-foot bathroom door—far too tight for wheelchairs or crutch swings—and hesitated.
+
+I checked the glowing green digits: *10:34 PM*. Eighty-six minutes until Gwen legally turned eighteen.
+
+"Here," I said, grabbing clean sweatpants and a dry cotton t-shirt off my dresser before stepping past the microwave pantry cart to the narrow entry coat curtain by the deadbolted front door. I pulled the heavy canvas curtain across the alcove and turned my back toward the door panels, resting steady on my silver forearm cuffs. "Change right there sitting on the bed where you won't slip, Gwenny. Tap the mini-fridge counter when you're under Grandpa's blanket."
+
+"Nolan, you don't have to stand behind a curtain in your own apartment just because midnight's an hour away," Gwen called gently.
+
+"Yeah, I do," I answered quietly toward the front door. "Tomorrow you're eighteen and we figure out the room rules as two grown-ups. Tonight, little sister, nobody rushes you."
+
+Ten minutes later, after Gwen tapped the counter and I swapped into dry sleep clothes in the dark behind the curtain, I eased onto the outer half of my fifty-four-inch full-sized mattress. Before my head even settled onto the pillow, Gwen scooted straight across the middle of the bed beneath Grandpa Walter's green-and-navy plaid blanket and wrapped her warm arms firmly around my chest—holding onto me in the quiet glow of the VCR clock until 12:00 blinked green, and neither the state nor the dark had a claim on either of us anymore.
+
+### Part 2: Eighteen, Two Names on the Lease, and Quantum OS 2000
+
+**Harmonic Cycle:** Autumn 2000 — Gwen's Eighteenth Birthday Week, Earth • **Chronometer:** 08:30
+
+![Inside a tiny rectangular early-2000s one-person studio apartment featuring Nolan's full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a rabbit-ear CRT television and VCR/DVD combo, a tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg)
+
+#### 8:30 AM — Learning Not to Look Away
+
+My eighteenth birthday began with the rubber ferrule of my left charcoal forearm crutch wedging fast between a radiator pipe and the pedestal sink inside Studio 2B's three-foot bathroom.
+
+Trying to be polite in a rectangular one-person apartment with zero bedroom doors, I had carried a clean heather-burgundy t-shirt and worn blue jeans behind the pine bathroom door. At six-foot-one, one elbow bumped the shower curtain rod while the other hit the towel hook. The second I shifted onto one bare foot to pull my sleep pants off, my propped crutch skidded across the cramped tile with a sharp metallic clatter, dropping me hard onto the closed toilet lid.
+
+"Gwenny?" Nolan rapped once on the door from the other side of the microwave cart, concern tightening his voice without ever barging in uninvited. "You okay?"
+
+"Didn't fall," I called, pulling my jeans up seated on the porcelain lid before unlatching the door. "Just proved beyond a shadow of a doubt that six-foot-one women on crutches don't fit inside broom closets."
+
+Nolan stood right beside the dorm-fridge counter on his matte-silver forearm crutches in his navy cotton t-shirt and jeans, catching me immediately in a solid morning hug.
+
+"Happy eighteenth, flagpole," my twenty-three-year-old brother murmured against my collarbone before helping me back over to sit side by side on the edge of his full-sized bed—the only couch, armchair, and bed our rectangular little home possessed. While tea water heated on a front burner of the narrow natural-gas stove, Nolan looked from the two parked wheelchairs by the door to the narrow strip of floor between the full-sized bed and his dresser.
+
+"If we hang tension curtains down this room, neither chair can turn," Nolan said honestly. "And if either of us keeps trying to balance on one leg inside that bathroom twice a day, somebody's breaking a wrist."
+
+"We're both adults now, Nolan," I said calmly, resting my palm over his hand on Grandpa Walter's plaid blanket. "We only have one room and one full bed. We're going to have to get changed together out here."
+
+Nolan nodded quietly—yet that very evening, when it came time to change for bed, I saw the ghost of his abusive ex rear up in the way my brother moved. Standing beside his oak dresser right next to the rabbit-ear television, Nolan pulled his cotton t-shirt off with his shoulders pulled tight and his chin ducked low, angling his stocky five-foot-seven frame hurriedly toward the plaster wall as if bracing for somebody to mock his soft waist or the old physical-therapy brace marks above his ankles.
+
+My chest ached so fiercely I almost stood up across the mattress—and then I caught myself. Making a dramatic fuss would only make him feel stared at all over again.
+
+Instead, sitting right there on the edge of the full-sized bed unclipping my charcoal cuffs and reaching for my own sleep shirt without turning my back or rushing a single button, I kept my eyes steady, warm, and completely unbothered on my brother's face.
+
+"Hey, shortstop," I said conversationally, nodding toward the black VCR and DVD combo deck humming under the rabbit ears. "Did you grab the space documentary tape off the library shelf, or the classic synth concert DVD?"
+
+Nolan froze for half a beat with his clean sleep shirt in his hands—blinking over his shoulder when he realized I wasn't flinching, wasn't looking away in embarrassment, and wasn't judging an inch of him. Slowly, visibly, the defensive hunch melted right out of his shoulders. A quiet, real half-smile touched the corner of his mouth as he turned back around into the room without hiding at all.
+
+"Both," Nolan said softly, tossing the tape onto the comforter between us.
+
+Within a week, getting dressed side by side inside our rectangular box felt no different from brushing our teeth at the little kitchen sink or passing each other crutches grip-first. Learning not to look away from each other didn't erase privacy—it gave my brother back the dignity of existing inside his own skin without ever feeling small.
+
+***
+
+#### 7:10 PM, Five Days Later — Lease Ink and Quantum OS 2000 Professional
+
+On Thursday evening, two huge things happened on top of Nolan's full-sized bed within the same hour.
+
+First, after the building superintendent slipped the annual Studio 2B lease renewal under our front door, Nolan grabbed a blue pen off the microwave pantry cart, printed *Gwendolyn M. Lennox* cleanly in the co-tenant box right beside *Nolan W. Lennox*, and handed me the pen while we leaned back against the wooden headboard under Grandpa Walter's plaid blanket. The instant I signed my name beside his, I threw both arms around his neck and held him tight, knowing no state agency or cruel stranger could ever wedge a door between us again.
+
+Second, ten minutes later, my chunky gray laptop let out a harsh speaker beep on my knees and froze solid on a bright blue fatal-exception screen right in the middle of plotting a twin-moon orbital chart—wiping twenty minutes of math for the third night that week.
+
+"Stupid Quantum OS 98," I groaned, glaring at the Version 4.10.1998 build stamp when the desktop finally rebooted at a crawl. "Every time the planetarium plotter uses more than thirty-two megs of memory, the whole kernel folds like a cheap lawn chair."
+
+Nolan grinned, reached down beside the milk-crate nightstand for his zippered CD wallet, and pulled out a gleaming silver installation disc labeled *Quantum OS 2000 Professional*—the exact rock-solid workstation system humming smoothly on his own charcoal laptop beside my elbow.
+
+"Scoot your screen toward me, astronomer," Nolan said, backing up my star-chart folder onto a spare compact disc first before popping the *Quantum OS 2000 Professional* disc into my roaring CD-ROM drive. "True protected memory, zero random nine-eight crashes, and your sky tables will run all night without dropping a decimal."
+
+While blue setup bars crept steadily across my screen and rain pattered against the silent window unit above our headboard, Nolan adjusted the V-shaped rabbit ears atop the CRT television until fuzzy channel-four snow cleared into an old nineteen-eighties fantasy movie, then tucked Grandpa Walter's green-and-navy plaid blanket snug over all four of our bare feet.
+
+Resting my cheek down on my brother's head while two laptops hummed toward the same clean operating system on one shared full-sized bed, I knew we didn't have money, space, or a working building elevator—yet for the first time since Grandpa Walter closed his eyes, both of us were safe.
 
 ### Part 3: Eighty-Nine Degrees and One Rattling Fan
 
-**Harmonic Cycle:** Three Months Before the Rift — Late-Summer Heatwave, Earth • **Chronometer:** 15:10
+**Harmonic Cycle:** August 2001 — Ten Months in Studio 2B, Earth • **Chronometer:** 15:10
 
-#### 3:10 PM — Broken Freon and Yellow Stairwell Tape
+#### 3:10 PM — Dorm-Fridge Ice Pops and Bare Skin
 
-By the third week of August, the beige window air-conditioner bolted into our single Elm Street casement sounded like a coffee can half-full of loose washers and blew air roughly the temperature of a dog's breath.
+By the third week of August, the small beige window air-conditioner wedged above the headboard of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the shimmering Elm Street asphalt outside.
 
-Outside on the brick fire escape, city asphalt shimmered at ninety-eight degrees. Down in the lobby, the yellow plastic out-of-order tag taped over the elevator call button had faded from canary bright to dirty cream since April—meaning every bag of groceries or pharmacy refill required twenty-two steep wooden stairs on my silver forearm crutches while Gwen waited upstairs because her right knee had started swelling whenever humidity climbed past eighty percent. Three voicemails to the property-management hotline about the dead compressor in our window unit had earned us one photocopied notice reminding tenants not to prop hallway doors open.
+Ten months of trying to figure adult life out together inside a one-person rectangular box had taught Gwen and me every creak of those floorboards. Down in the lobby, the landlord's yellow out-of-order tag still hung taped across the elevator button—meaning every sack of groceries for our rolling microwave-cart pantry required twenty-two wooden stairs on my silver forearm crutches while Gwen took over sorting bills and coding freelance spreadsheet cleanups beside me on her newly rock-solid Quantum OS 2000 Professional laptop. Money stayed razor-thin, and three polite repair slips about our dying window A/C compressor had gone unanswered all month.
 
-Inside Studio 2B, the mercury bulb on Grandpa Walter's old brass desk thermometer sat stubbornly at eighty-nine degrees even with the blinds drawn low and our square plastic box fan oscillating full-blast at the foot of the pull-out mattress.
+At three o'clock on Saturday afternoon, the thermometer beside our VCR and DVD combo deck read eighty-nine degrees even with the blinds shut tight and a square plastic box fan oscillating full-speed between the dresser and the foot of our shared full-sized bed.
 
-By two o'clock on Saturday afternoon, cotton t-shirts and denim shorts felt like wet wool blankets glued to our ribs. Neither Gwen nor I bothered pretending modesty made sense when heat rash was stinging the backs of our knees. With twenty-four years on me now and Gwen a month shy of nineteen—eight months past that first shy week after her eighteenth birthday—both of us had stripped down to nothing but our bare skin on top of a cool white cotton bedsheet spread across the open sofa-bed, cool damp washcloths draped across the backs of our necks while the box fan swept a steady breeze from bare toes to shoulders.
+Cotton shirts and denim felt like wet wool blankets in that kind of trapped heat. With me newly twenty-four and Gwen three weeks shy of turning nineteen—nearly a full year past that first week when she taught me not to hunch my shoulders toward the wall—both of us had stripped down to nothing but our bare skin on top of a cool white sheet stretched across the fifty-four-inch mattress, cold damp washcloths draped over the backs of our necks while the box fan swept back and forth from bare ankles to shoulders.
 
-There wasn't a flicker of awkwardness between us—just the quiet, unguarded relief of two people who knew every surgical scar, crutch-callused palm, and tired joint on the other's body and couldn't care less about anything except keeping each other cool through a miserable afternoon.
+Gwen reached sideways without even sitting all the way up, popped open the tiny freezer compartment inside our under-counter dorm fridge—it sat close enough to the foot of the bed in our compact rectangle that six-foot-one Gwen could nearly reach the handle in one step—and tossed me an orange freeze pop before settling back down right beside me with a grape one of her own.
 
-Gwen lay propped against two pillows beside me with a grape freeze pop melting fast in one hand and an astronomy textbook from the public library balanced open on her raised knees, tracing the elliptical orbit of binary moons with a pencil tip while sweat beaded along her collarbone.
+"Look at the simulation window now, Nolan," Gwen said happily, angling the warm LCD screen of her Quantum OS 2000 Professional laptop toward my eyes on the bed between us. All afternoon, without a single crash or freeze, her orbital plotter had been tracing two glowing spheres—one large pale circle, one smaller amber companion—locked in a gentle, unbreakable loop. "Even when an outside drift tugs at the outer ring, two moons locked in resonance pull each other right back into balance. Neither one lets the other drift into the dark."
 
-"Look at this diagram, Nolan," Gwen said lazily, tilting the page toward my eyes so I didn't have to crane my neck off the damp washcloth. "When two moons orbit close to a shared barycenter in a three-to-two resonance, neither one pulls away into deep space—even if the planet underneath has storms. Each moon keeps the other one's tide steady."
+For just a second, the word *dark* snagged on an old memory I hated—a hot afternoon the summer before last on Fourth Street, being told nobody else would ever put up with a five-foot-seven guy whose crutches clattered on hardwood floors and who couldn't carry boxes up stairs without pausing to breathe. My jaw tightened before I realized my face had changed.
 
-I bit the icy tip off my orange freeze pop, shifted closer so the oscillating fan hit both of us evenly instead of leaving her tall legs out of the breeze, and tapped the margin of her notebook where she had sketched three pages of neat hand-calculated star tables during Tuesday night's leg cramps.
+Gwen spotted it instantly. She always did.
 
-"You ought to be sitting in a university observatory somewhere with air-conditioning so cold you need a sweater," I said quietly, meaning every word of it. "Not stuck on a second-floor walk-up mattress with a busted compressor because some insurance desk won't approve a thirty-dollar wheelchair caster fork."
+Setting her freeze pop wrapper on the milk crate, my little sister closed her laptop lid halfway, rolled straight across the warm cotton sheet of our full-sized bed, and wrapped both of her bare arms firmly around my shoulders—tucking my head right against her collarbone while the oscillating fan hummed cool air across our backs.
 
-Gwen set her pencil down on the coffee table, rolled onto her side across the warm cotton sheet, and tucked her long arm straight around my ribs, resting her forehead lightly against my shoulder while the fan blades hummed back and forth across our bare shoulders.
+"Hey," Gwen murmured fiercely against my hair, holding me with that steady, protective warmth that had kept every shadow outside our deadbolt for ten straight months. "Stay right here in Studio 2B with me, Nolan. You're never going back there. Not while I'm breathing."
 
-"Hey," Gwen murmured. "A university dorm wouldn't let my stubborn big brother live down the hall, and I'd spend half the semester arguing with campus facilities over broken snow ramps anyway. Long as we've got this fan and two names on that door, shortstop, I'm good."
+My throat went warm. I wrapped both arms around my sister's waist and held on just as tight, listening to the gentle click of the box fan, the quiet hum of our dorm fridge under the counter, and the steady beat of Gwen's heart against my ear.
 
-I wrapped my arm around her back, pulling my sister close until her breathing slowed in rhythm with the rhythmic *whir-click* of the oscillating cage.
-
-Inside our tiny three-hundred-and-eighty-square-foot square of Elm Street, we had everything two siblings could give each other—loyalty, warmth, zero shame, and four crutches lined up side by side within arm's reach. It was only every single square mile of the loud, hurried, indifferent world beyond our deadbolt that seemed determined never to leave room for the two of us to breathe.
+Outside our rectangular room, the early-two-thousands world kept treating two crutch-and-wheelchair siblings like broken parts on backorder. Inside on that single shared full-sized bed, we had already built half a sanctuary—only waiting for a world wide enough to match how fiercely we loved each other.
 
 ## Chapter 2: No Wheelchairs in the Star-Moss
 
-### Part 1: Amber Glass Over the Coffee Table
+### Part 1: Amber Glass Beside the Full-Sized Bed
 
-**Harmonic Cycle:** First Night of the Twin Moons, Studio 2B to Western Vaeloria • **Chronometer:** 21:15
+**Harmonic Cycle:** First Night of the Twin Moons — Autumn 2001, Studio 2B to Western Vaeloria • **Chronometer:** 21:15
 
 ![Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg)
 
-#### 9:15 PM — A Shimmer Above the Mug Ring
+#### 9:15 PM — Forty-Seven Minutes on Speakerphone
 
-Autumn rain ticked steady against our single Elm Street studio window while the hold music from Regional Mobility Supply warbled through the speaker of Gwen's cracked phone on the scratched oak coffee table for the forty-seventh straight minute.
+October rain ticked steady against the silent window air-conditioner above our headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our milk-crate nightstand for the forty-seventh straight minute.
 
-Gwen reached over the fringed hem of Grandpa Walter's dark-green and navy-blue plaid wool blanket, stabbed the red hang-up icon with her thumb, and let her head drop back against the saggy sofa-bed cushion beside mine with a long groan. Just six days past her nineteenth birthday, slouched down into the upholstery with her bare feet tucked up beside mine to stay off the cold linoleum by our tiny kitchenette, my little sister still had half a head of height on me. With Gwen done growing at six-foot-one and me twenty-four and settled at five-foot-seven since high school, strangers on the sidewalk always assumed she was the older sibling until they heard me nagging her to drink water.
+Propped up against the pillows beside me on our shared full-sized bed—wearing her plain heather-burgundy t-shirt and worn blue jeans with Grandpa Walter's dark-green and navy-blue plaid wool blanket tucked across both of our bare-footed laps—Gwen reached over, punched the plastic speaker button off with her thumb, and dropped her head back against my shoulder with a long groan. Just six days past her nineteenth birthday, six-foot-one to my twenty-four-year-old five-foot-seven frame, she took up a generous diagonal half of my mattress and was still the best roommate on Earth.
 
-"Closed for the weekend," Gwen said, tossing the phone onto the stack of prior-authorization denial letters beside her spiral-bound star notebooks. "Six weeks for one bent front caster fork on my chair, and the rep had the nerve to ask whether I really needed to leave the apartment before December."
+"Closed for the weekend," Gwen sighed, nudging the fan-fold pile of prior-authorization denial letters beside the corded phone. "Six weeks for one bent front caster fork on my wheelchair, and the rep had the nerve to ask whether I really needed to leave the apartment before Thanksgiving."
 
-"Good thing neither of us had glamorous Friday night plans," I said, wrapping my right arm snugly around her waist and pulling Grandpa Walter's plaid blanket tighter across both our laps so her bare toes could steal heat off my shins the way she always did when our radiator clanked cold. Four feet away by the entry mat—just past the kitchenette counter where our co-signed lease renewal hung pinned to the corkboard—both of our manual wheelchairs sat parked side by side, mine with a taped left armrest pad, hers listing half an inch toward the bent right caster. Right against the padded arm of our sofa-bed within easy reach leaned our four single-tube Lofstrand forearm crutches: my shorter matte-silver pair on the outside, Gwen's taller matte-charcoal pair tucked inside them.
+"Good thing neither of us had fancy Friday night plans," I said, wrapping my right arm snugly around her waist and pulling Grandpa Walter's plaid blanket higher so her bare toes could warm up against my shins. Across the narrow rectangular box of Studio 2B, the green clock on my VCR and DVD combo unit glowed beneath the rabbit-ear television on my dresser, where both of our closed Quantum OS 2000 Professional laptops sat stacked neatly out of reach of kitchen splashes. Three feet past the rolling microwave-cart pantry and the dorm fridge tucked under our tiny sink counter, both of our manual wheelchairs sat parked side by side by the front door—mine with a taped left armrest pad, hers listing half an inch toward the bent right caster. Right against the wooden bedpost within arm's reach leaned all four of our single-tube Lofstrand forearm crutches: my shorter matte-silver pair on the outside, Gwen's taller matte-charcoal pair beside them.
 
-"Honestly, Nolan?" Gwen murmured, tucking a thick wave of honey-brown hair behind her ear and resting her cheek against the crown of my head while wrapping her arm across my shoulders. "After a whole year of yellow tape on the lobby elevator and landlords pretending the heat works... if there were a button on this coffee table that shipped the two of us somewhere without landlords, broken curb cuts, or medical billing codes, I wouldn't even stop to grab shoes."
+"Honestly, Nolan?" Gwen murmured, wrapping both arms affectionately around my shoulders and resting her cheek against the crown of my head. "After a whole year of yellow tape on the lobby elevator, cooking over two feet of counter, and begging strangers on speakerphone for thirty-dollar wheelchair parts... if there were a doorway in this studio that took the two of us somewhere without landlords, broken curb cuts, or medical billing codes, I wouldn't even stop to grab shoes."
 
-"Long as the button takes both names on the lease together," I murmured back, squeezing her hand over the wool plaid. "Knowing our luck, though, it'd require three signatures from a—"
+"Long as it takes both names on the lease together and never lets either of us go," I murmured back, hugging her close. "Knowing our luck, though, the doorway would ask for a Quantum driver disc and three—"
 
-The air six inches above the water-ringed coffee table folded inward like warm amber stained glass.
+The narrow strip of air between the edge of my full-sized bed and the oak dresser folded inward like warm amber stained glass.
 
-There was no thunderclap and no smoke—only a deep, resonant double chord like two great brass rings chiming into sudden harmony inside a cathedral, answering the exact cadence of our two voices as if something ancient across the stars had spent centuries listening for two hearts beating at the same unhurried rhythm. A warm breeze smelling of crushed wild thyme, wet rose limestone, and night-blooming jasmine swept straight across Studio 2B. Before I could even sit upright, the amber shimmer widened from the width of Gwen's open star-chart notebook to the length of our entire sofa-bed. The linoleum beneath the couch legs vanished into liquid gold light.
+There was no thunderclap and no smoke—only a deep, resonant double chord like two great brass rings chiming into sudden harmony inside a cathedral, answering the exact cadence of our two voices as if something ancient across the stars had spent generations listening for two inseparable hearts beating at the same unhurried pace. A warm breeze smelling of crushed wild thyme, wet rose limestone, and night-blooming jasmine swept straight between our microwave pantry cart and the rabbit-ear television. Before I could even push upright off the pillows, the amber shimmer widened to the full length of our fifty-four-inch mattress, turning the floorboards beneath the bedframe into liquid gold light.
 
-Instinct took over faster than thought. With my left arm I hooked all four aluminum forearm crutches clean off the armrest and clamped them hard against my heather-navy t-shirt; with my right arm I locked tight around Gwen's burgundy waist and a fistful of Grandpa Walter's plaid blanket as the cushion tilted out from under us.
+Instinct took over faster than thought. With my left arm I hooked all four aluminum forearm crutches clean off the bedpost and clamped them tight against my heather-navy t-shirt; with my right arm I locked around Gwen's waist and a fistful of Grandpa Walter's plaid wool blanket as the edge of the full-sized bed tipped gently into starlight.
 
-"Nolan!" Gwen gasped, wrapping both arms fiercely around my neck and shoulders.
+"Nolan!" Gwen gasped, holding onto my shoulders with all her strength.
 
 We fell less than the height of a porch step.
 
-Instead of slamming onto the dry cleaner's ceiling plaster downstairs, my bare heels and the seat of my worn blue jeans sank into three inches of cool, springy, velvet-soft moss that gave beneath our weight like a feathered quilt. Behind our backs, a faint oval of amber stained-glass light hung two feet above the turf—offering one fleeting glimpse of our tiny empty studio room and our two parked wheelchairs ten feet out of reach by the kitchenette—before winking shut with a soft double chime.
+Instead of hitting the dry cleaner's ceiling plaster downstairs, my bare heels and worn blue jeans sank into three inches of cool, springy, velvet-soft moss that cushioned our weight like a feathered quilt. Behind our shoulders, a faint oval of amber stained-glass light hovered two feet above the glowing turf—offering one fleeting glimpse of our tiny empty studio, the green VCR clock, our two closed laptops, and our two parked wheelchairs ten feet out of reach by the dorm fridge—before winking shut with a soft double chime.
 
 Silence settled around us, vast and sweet and alive with distant crickets.
 
 ***
 
-#### 9:40 PM — Two Moons and Zero Concrete
+#### 9:40 PM — Far From the Waystation, Together in the Star-Moss
 
-For ten full seconds neither of us let go. Gwen's heart hammered fast against my chest beneath Grandpa Walter's plaid blanket; the four single-shaft aluminum crutches rattled softly in my grip.
+For ten full seconds neither of us let go. Gwen's arms stayed locked protectively around my neck beneath Grandpa Walter's plaid blanket while the four single-shaft forearm crutches rested safe across our laps.
 
-"Tell me I didn't hit my head on the coffee table," Gwen whispered against my temple.
+"Tell me our bed didn't fall into the dry cleaner's," Gwen whispered against my temple.
 
-"If you did, we're sharing the concussion," I breathed, holding her close as I looked up.
+"Unless the dry cleaner planted a whole mountain range out back, I think we missed the first floor," I breathed, looking up in awe.
 
-Above the silhouette of ancient, silver-barked trees arched an indigo twilight sky that looked as if a master cinema painter from the nineteen-eighties had brushed it onto glass—deep sapphire melting into warm copper-gold along a horizon of towering, misty crags. Hanging side by side above the mountain saddle shone two moons in the exact close resonance Gwen had sketched in August: one large and pale ivory with mares shaped like a winged ship, the smaller one glowing soft rose-amber right off its shoulder, though a faint veil of silver mist seemed to tug gently between their halos. Every patch of moss around our bare ankles glimmered with tiny points of pale blue starlight whenever the night breeze stirred its fronds.
+Above ancient, silver-barked trees arched an indigo twilight sky straight out of a painted nineteen-eighties fantasy film—deep sapphire melting into copper-gold along a distant horizon of soaring, mist-wreathed peaks miles upon miles away. High above the farthest central crag glimmered a tiny, solitary pinpoint of warm turquoise-and-amber starlight, like a sleeping beacon waiting at the far end of a long, winding road. And hanging side by side in the sky above shone two moons in the exact close resonance Gwen had plotted on her upgraded laptop in August: one large and pale ivory, the smaller one glowing rose-amber off its shoulder through a faint, drifting veil of silver mist.
 
-Gwen slowly uncurled one hand from my shirt, pressed her bare sole flat into the glowing turf, and blinked in disbelief.
+Gwen slowly pressed one bare sole into the glowing blue-white star-moss and let out a soft breath.
 
-"Nolan—feel the ground," she said softly. "It's warm. Like moss sitting over a heated stone floor."
+"Nolan—feel the ground," she whispered. "It's warm. Not a sharp stone anywhere."
 
-She was right. There wasn't a sharp pebble, sticker burr, or damp chill anywhere under our bare feet. Still, a familiar protective knot tightened in my chest as I glanced back where the amber oval had closed.
+I checked all four Lofstrand forearm crutches—two shorter matte-silver, two taller matte-charcoal, rubber ferrules and open cuffs completely intact—though a quiet protective knot tugged at my chest when I looked back at the empty glade.
 
-"Our chairs didn't come through," I said quietly, checking all four Lofstrand forearm crutches across my knees—two shorter matte-silver, two taller matte-charcoal, rubber tips intact, open forearm cuffs unbroken. "Just Grandpa's blanket and our crutches."
+"Our wheelchairs stayed behind by the dorm fridge," I said softly. "And whatever that tiny glowing light up in the far mountains is, nobody dropped us on its doorstep. We're way out in the wild borderlands."
 
-Back on Elm Street, being stranded ten blocks from our studio without our wheelchairs would have meant cracked concrete, aching wrists, and nowhere to sit.
+Gwen slipped her forearms into her tall matte-charcoal cuffs, planted the rubber tips into the firm, springy star-moss, and pushed herself smoothly up to her full six-foot-one height in the double moonlight—reaching a warm hand down to steady me as I clicked my silver cuffs on and eased up beside her onto a wide, mossy fallen cedar trunk. Right away, she tucked Grandpa Walter's plaid blanket snug around both of our shoulders and pulled me right back into a close, lingering side-hug.
 
-Instead, Gwen slipped her forearms into her tall matte-charcoal cuffs, planted the rubber tips into the firm, cushiony star-moss, and pushed herself smoothly up beside a wide, mossy fallen cedar trunk—standing all six-foot-one in the twin moonlight while breathing in a lungful of air so clean and pine-sweet it made her eyes shine. She reached one hand down to steady me as I clicked my silver cuffs around my forearms and eased up beside her so we could sit cuddled close together on the smooth curve of the log, wrapping Grandpa Walter's plaid blanket snug around both our shoulders.
+"Good," Gwen said quietly, resting her cheek against the top of my head as tiny lantern-tailed moths drifted past our bare toes. "Everything worth keeping, you and I figured out together one step at a time, Nolan. Look around—no stairs, no hold music, nobody hurting you, nobody locking me up. Whatever adventure lies between this meadow and those mountains... we take it together."
 
-"Look around us, Nolan," Gwen whispered, wrapping both arms back around me and resting her cheek against mine as a pair of tiny, lantern-tailed moths drifted lazily past our bare toes. "Listen. No sirens. No broken compressors. No hold music. Just... air."
+I wrapped both arms around my sister under Grandpa Walter's blanket, wiggling my bare toes in the warm star-moss while a gentle ribbon of satin-smooth rose flagstones beckoned through the heather ahead.
 
-I hugged my sister tight against my side, wiggling my bare toes in the warm star-moss while looking down the gentle slope of the glade, where a ribbon of smooth pale rose flagstones wound through shifting silver mist toward the quiet murmur of running water.
-
-"Well," I murmured into her honey-brown hair, "you did say you wouldn't even stop to grab shoes."
-
-Gwen let out a real, unguarded laugh—the brightest sound I had heard leave my sister's throat since before Grandpa Walter died—and held onto me under our shared blanket as the twin moons climbed above the crags.
+"Well," I smiled against her honey-brown hair, "you did say you wouldn't even stop to grab shoes."
 
 ### Part 2: Six Inches Taller and Four Crutches Strong
 

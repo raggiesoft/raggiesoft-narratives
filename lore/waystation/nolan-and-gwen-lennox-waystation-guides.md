@@ -2,56 +2,64 @@
 
 **Canonical Domain:** `https://waystation.raggiesoft.com` (+ Default `404` Catch-All Across Unconfigured `*.raggiesoft.com` Subdomains)  
 **Interactive Story Crossroads Novel:** `https://books.raggiesoft.com/waystation` (*The Uncharted Waystation*)  
-**Genre Aesthetic:** Classic 1980s Practical-Effects Fantasy-Adventure Meets Two Everyday Modern Siblings  
+**Earth Era:** Early 2000s (`2000–2001` — `Quantum OS 98` `v4.10.1998` & `Quantum OS 2000 Professional`)  
+**Genre Aesthetic:** Classic 1980s Practical-Effects Fantasy-Adventure Meets Two Everyday Early-2000s Siblings  
 **In-Universe Role:** Permanent Keepers of the Waystation Sanctuary & RaggieSoft Universe Portal Guides
 
 ---
 
-## 1. The Earth Backstory: Grandpa Walter, One Studio Room, and Two Names on the Lease
+## 1. Early-2000s Earth Backstory: Mutual Rescue, Studio 2B, and Healing Together
 
-Five years apart in age and done growing—**Nolan Lennox** at **twenty-four** (`5'7"`) and his tall younger sister **Gwen Lennox**, who **just turned nineteen** (`6'1"`)—the siblings grew up leaning on each other above everyone else. With their parents absent from their lives (a thread reserved for later exploration), Nolan and Gwen were raised by their beloved paternal grandfather, **Walter Lennox**, a retired machinist who kept their manual wheelchair bearings gleaming, replaced the rubber ferrules on their Lofstrand forearm crutches before they ever wore thin, and taught them never to apologize for taking up space.
+Five years apart in age and done growing—**Nolan Lennox** at **twenty-four** (`5'7"`) and his tall younger sister **Gwen Lennox**, who **just turned nineteen** (`6'1"`)—the two siblings share an unbreakable, mutually protective bond forged through loss, survival, and fierce sibling loyalty.
 
-**The Day Before Gwen Turned Eighteen:**  
-One year before the rift—when Nolan was twenty-three and Gwen was seventeen with less than sixteen hours left until her eighteenth birthday—Grandpa Walter passed away peacefully in his sleep. Finding a county social-services intake card on the kitchen counter scheduling an "emergency minor placement assessment" for the next morning—a bureaucratic conveyor belt that would have swept Gwen into an institutional facility and split brother and sister apart—Nolan didn't wait. He loaded Gwen's manual wheelchair, both pairs of ergonomic Lofstrand forearm crutches, and Grandpa Walter's dark-green and navy-blue plaid wool throw blanket into his car and rushed Gwen straight to his cramped, 380-square-foot second-floor **studio apartment**.
+### Escaping Darkness & Saving Each Other (Autumn 2000)
+With their parents absent from their lives (reserved for future exploration), Nolan and Gwen were raised by their beloved paternal grandfather, **Walter Lennox**. Just before Gwen turned eighteen, twenty-three-year-old Nolan escaped an emotionally and psychologically abusive relationship with a controlling partner who had cut him off from Grandpa Walter and Gwen, demeaned his `5'7"` stocky build and his wheelchair and Lofstrand forearm crutches, and nearly pulled him under into dark self-doubt. Starting over with almost nothing, Nolan rented **Studio 2B**—a tiny rectangular one-person apartment box.
 
-**Boundaries, Dignity, and Growing Unselfconscious in One Small Studio:**  
-- **Waiting Until Gwen Was Legally Eighteen:** That first night in the studio—while Gwen still had hours left at seventeen—Nolan drew a firm, protective older-brother line, stepping out into the narrow kitchenette alcove with his back turned while balancing on his silver forearm crutches so Gwen had the main room completely to herself to change for bed.
-- **Learning Not to Look Away:** The very next morning—on Gwen's eighteenth birthday—six-foot-one Gwen nearly twisted her ankle when her charcoal forearm crutch caught between the pedestal sink and tub inside the closet-sized three-foot studio bathroom. Sitting down together as two adults (`23` and `18`) sharing a single room where hanging curtains would trap wheelchairs and cramped bathroom contortions meant daily falls, Nolan and Gwen realized they were going to have to get changed in the main room together. Rather than flinching or turning stiffly away as if disability or their bodies were something shameful, they quietly learned not to look away—treating everyday dressing with matter-of-fact sibling trust and zero awkwardness. During a brutal August heatwave when the studio's rattling, barely functioning window A/C unit couldn't push the room below eighty-nine degrees, both adult siblings spent stifling afternoons in nothing but their bare skin under a box fan, reading Gwen's astronomy charts and sharing ice pops without a trace of self-consciousness.
-- **Two Names on the Lease:** Just days after Gwen turned eighteen, Nolan's annual apartment lease came up for renewal, and Nolan proudly added **Gwendolyn Lennox** right beside his own name on the lease.
+Days later—**the day before Gwen turned eighteen**—Grandpa Walter passed away peacefully in his sleep. Spotting a county intake card scheduling an "emergency minor placement assessment" for `8:00 AM` the next morning that would have swept Gwen into a state facility before midnight, Nolan rushed Gwen, her manual wheelchair, her charcoal forearm crutches, her `Quantum OS 98` laptop, and Grandpa Walter's dark-green and navy-blue plaid wool blanket straight to Studio 2B. Having missed her brother achingly during all the months his abusive ex kept them apart, Gwen wrapped her six-foot-one arms around Nolan and silently vowed she would **never leave his side again—and never let him slip back into the darkness of being mistreated or made to feel small**.
 
-**Why Earth Wore Them Down:**  
-Inside those four studio walls, Nolan and Gwen were rich in warmth and affection—hugging, cuddling under Grandpa Walter's green-and-navy plaid blanket, and looking out for one another. Outside their front door, the modern world ground them down relentlessly: a perpetually yellow-tagged apartment elevator, cracked concrete curb cuts, landlords ignoring repairs, and Regional Mobility Supply leaving them on hold for forty-seven minutes on a rainy Friday night (a week after Gwen turned nineteen) only to delay a single bent caster fork on Gwen's wheelchair by six weeks.
-
----
-
-## 2. Why Vaeloria Needed Them ("The Great Drift") & Why the Rift Chose *Them*
-
-### Vaeloria's Quiet 1980s-Fantasy Trouble: *The Great Drift*
-There are no grimdark wars, armies, or cruel tyrants in **Vaeloria**. Instead, centuries earlier, the **Slow-Footed Order** (*"No league is measured here by haste"*) and the **Star-Keepers** built Vaeloria's satin-smooth rose-quartz causeways, cushioned lantern-barges, warm Whisperwood mineral springs, brass counterweight sky-gondolas, and—at the crown of the realm—**The Uncharted Waystation**, whose great twin-ring **Bronze Astrolabe** harmonizes the star-currents between the **Ivory Moon** and the **Rose-Amber Moon**.
-
-Because the high Waystation stood asleep and untended for generations, Vaeloria slipped into **The Great Drift**: canal marsh-stars growing faint in silver mist, mountain moon-rings losing their elliptical calibration, borderland milestones sinking into heather, and gentle towns slowly drifting out of reach of one another unless new Keepers awaken the Astrolabe.
-
-### Why Nolan & Gwen Specifically: *Two-Heart Slow-Footed Resonance*
-The Slow-Footed Order forged the Bronze Astrolabe with two interlocked celestial rings that **no lone, hurried traveler can ever turn alone**. It awakens *only* for **two inseparable hearts who move through life at a matched, unhurried pace—never racing ahead, never leaving the other behind**:
-1. **Gwen (`The Astrolabe Reader`, Age 19, `6'1"`):** Years of sleepless Earth nights spent studying star charts and orbital mechanics when leg cramps kept her awake gave Gwen the exact eye needed to read Vaeloria's twin-moon ellipses.
-2. **Nolan (`The Rift Spotter & Wayfinder`, Age 24, `5'7"`):** Years of scanning every city block ahead for hidden curb drops, safe rest ledges, and subtle ground seams to protect himself and Gwen gave Nolan the exact gift needed to spot Vaeloria's shimmering star-currents and portal thresholds.
-3. **Answering Gwen's Wish:** When Gwen rested her cheek on Nolan's head in their studio apartment and wished aloud for a world without landlords, broken curb cuts, or medical billing codes, the sleeping Astrolabe locked onto their Two-Heart Resonance directly above their coffee table—pulling barefoot Nolan, Gwen, Grandpa Walter's plaid blanket, and all four Lofstrand forearm crutches into Vaeloria while leaving both parked wheelchairs behind on the studio rug.
-
-**The Scene on `https://waystation.raggiesoft.com`:**  
-Reaching the high twilight balcony, re-harmonizing the Bronze Astrolabe, and ending *The Great Drift* is the hard-won culmination of their Story Crossroads journey (`https://books.raggiesoft.com/waystation`). **Vaeloria is their home forever now—neither Nolan nor Gwen ever wants to return to Earth**—spending their days side by side welcoming lost `404` travelers and pointing everyone toward the sixteen glowing archways of the **RaggieSoft Universe**.
+### Exact Layout of Studio 2B (The One-Person Rectangular Box)
+Designed strictly for one person, Nolan's tiny early-2000s studio held:
+- **Nolan's Full-Sized Bed (`54" × 75"`):** Their only bed *and* their only daytime couch—which five-foot-seven Nolan and six-foot-one Gwen shared every night and sat propped up on during the day under Grandpa Walter's plaid wool blanket, with all four Lofstrand forearm crutches leaning beside the headboard/footboard and both manual wheelchairs parked near the front door.
+- **Nolan's Dresser & Early-2000s Media Stack:** One wooden dresser holding both siblings' folded clothes, topped with Nolan's **CRT television with metal rabbit ears** and a **VCR + DVD combo unit**.
+- **The Tiny Kitchen & Microwave Pantry Cart:** A **dorm-style mini-fridge tucked under the counter**, a narrow single sink, a **compact natural-gas oven/range**, and Nolan's **microwave sitting on a rolling cart whose lower wire shelves doubled as their entire pantry**.
+- **Two Early-2000s Laptops (`Quantum OS` Upgrade):** Nolan owned an early-2000s charcoal laptop running **`Quantum OS 2000 Professional`**. Gwen arrived with an older laptop running **`Quantum OS 98` (version `4.10.1998`)**, which crashed whenever she ran complex binary-moon orbital simulations—until Nolan proudly upgraded Gwen's machine cleanly to **`Quantum OS 2000 Professional`** during her eighteenth-birthday week.
+- **Privacy, Unselfconscious Healing, & Summer Heat:** On that first night before midnight (while Gwen was still legally seventeen), Nolan insisted on stepping behind the entry curtain so Gwen had the studio room to herself to change. The next morning—when Gwen was legally eighteen and nearly twisted her ankle trying to balance on crutches inside the three-foot bathroom—both adults realized they would have to get changed together in the main room. Whenever Nolan hunched his shoulders out of lingering shame planted by his abusive ex, Gwen met him with calm, matter-of-fact warmth until neither sibling ever felt the need to look away. Days later, Nolan gladly added **Gwendolyn Lennox** onto the Studio 2B lease renewal. During a brutal August heatwave when the small window A/C unit barely functioned, both adult siblings spent eighty-nine-degree afternoons in nothing but their bare skin on the shared full-sized bed in front of a box fan, completely at ease in their tiny lifeboat while spending a year figuring life out side by side.
 
 ---
 
-## 3. Character Profiles & Mandatory Visual Continuity Rules
+## 2. Why Vaeloria Needed Them (*The Great Drift*) & Why They Must Earn the Waystation
 
-### Nolan Lennox (Age 24, `5'7"` — *Older Brother, Rift Spotter & Archway Guide*)
-- **`5'7"`** (done growing—six inches shorter than his `6'1"` younger sister Gwen!), stocky, heavy-set overweight build (not obese), tousled medium-brown hair, warm hazel eyes, and an easy, protective grin.
-- Plain unlabeled heather-navy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **single-tube matte-silver ergonomic Lofstrand forearm crutches** with open C/U-shaped grey forearm cuffs.
+One rainy Friday night in **Autumn 2001** (six days past Gwen's nineteenth birthday, Nolan now twenty-four), sitting barefoot in plain cotton t-shirts and worn blue jeans under Grandpa Walter's plaid blanket on Nolan's **full-sized bed** after forty-seven minutes on hold on their corded speakerphone with Regional Mobility Supply over a bent wheelchair caster fork, Gwen rested her cheek on Nolan's head and wished aloud for a world without landlords, broken curb cuts, or medical billing codes.
 
-### Gwen Lennox (Just Turned 19, `6'1"` — *Younger Sister, Astrolabe Reader & Realm Indexer*)
-- **`6'1"`** (done growing—six inches taller than her five-years-older brother Nolan!), curvy, full-figured overweight build (not obese) with a full bust, wavy honey-brown shoulder-length hair, bright green-hazel eyes, and a warm, quick-witted smile.
-- Modest plain unlabeled heather-burgundy short-sleeve cotton crew-neck t-shirt, classic worn blue denim jeans, **barefoot**, using **single-tube matte-charcoal ergonomic Lofstrand forearm crutches** with open C/U-shaped black forearm cuffs.
+Across the cosmos in the twin-moon 1980s fantasy realm of **Vaeloria**, the sleeping **Twin-Ring Bronze Astrolabe** of **The Uncharted Waystation**—built ages ago by the **Slow-Footed Order** (*"No league is measured here by haste"*)—heard their **Two-Heart Resonance**. Because the Waystation had stood untended for generations, Vaeloria was suffering a quiet, non-violent unraveling called **The Great Drift**: silver mist dimming canal marsh-stars, cooling outer Whisperwood lamps, and slipping cliffside moon-rings out of alignment. Forged so no lone, hurried conqueror could ever force its rings, the Astrolabe could only be woken by two inseparable, unhurried hearts—pairing Gwen's sleepless-night orbital astronomy eye with Nolan's protective eye for reading safe ground.
 
-### Mandatory Guardrails
-- **Strict Lofstrand Forearm-Crutch Rule (ZERO Underarm / Armpit Crutches):** Neither Nolan nor Gwen EVER uses underarm/armpit (axillary) crutches. Every Waystation image—held or leaning—must depict single-shaft ergonomic Lofstrand forearm crutches with open forearm cuffs and zero horizontal underarm pads.
-- **Warm, Affectionate Sibling Bond & Adventure Camping:** Nolan and Gwen are naturally very affectionate siblings—frequently hugging, cuddling under Grandpa Walter's green-and-navy plaid blanket, and **curling up closely together** in a wholesome embrace whenever they make camp along their adventure across Vaeloria. All visual artwork depicts both siblings in modest, everyday clothing.
+**They Are Not Handed the Waystation:**  
+The amber stained-glass rift dropped barefoot Nolan, Gwen, Grandpa Walter's plaid blanket, and their four Lofstrand forearm crutches (leaving both manual wheelchairs and both `Quantum OS 2000 Professional` laptops behind in Studio 2B) out in the distant **Star-Moss Hollow** at the far western rim of Vaeloria. To claim their forever home, Nolan and Gwen must journey across Vaeloria through a full **Story Crossroads** adventure—camping curled up together in each other's arms under Grandpa's blanket, waking dormant beacons, and proving their Two-Heart Resonance along the gentle roads of the realm before ever reaching the high Waystation!
+
+---
+
+## 3. Architectural Design of Their Earned Sanctuary: *Keepers' Hall & The Glowing Hearth-Archway*
+
+When Nolan and Gwen finally reach the high crags and re-harmonize the Bronze Astrolabe—ending *The Great Drift*—they discover that the ancient **Uncharted Waystation** was built by the Slow-Footed Order as a true **living home**, answering every hardship of their tiny rectangular Elm Street studio box:
+
+1. **The Glowing Hearth-Archway (`Living Threshold of Their Home`):**
+   - While sixteen outer runestone archways ring the public **Star-Court** (guiding lost `404` travelers across every realm of the **RaggieSoft Universe**), the seventeenth—the **Glowing Hearth-Archway** inlaid with warm amber and sea-turquoise crystals—is built directly into the cliffside stone wall of **Keepers' Hall** itself.
+   - Instead of a heavy oak door with latches that trap crutch-users' hands, a gentle, step-free curtain of warm starlight shimmers inside the archway—parting effortlessly whenever Nolan and Gwen step through on their forearm crutches while sealing out mountain wind, mist, and rain.
+2. **Keepers' Hall & The Semicircular Hearth (`Answering the Cramped Studio Floor`):**
+   - Radiant geothermal rose-quartz flagstones stay warm beneath bare soles in every season. Deep mossy-wool couches curve around a crackling stone hearth with custom-carved cedar notches at every armrest built specifically to cradle four Lofstrand forearm crutches within effortless reach.
+3. **The Shared Twin-Moon Canopy Bed Alcove (`Answering Nolan's 54" Full-Sized Bed`):**
+   - Even with an entire cliffside sanctuary to themselves, Gwen refuses to sleep down a distant hallway away from her brother. Beneath a curved crystal skylight framing the Ivory and Rose-Amber moons sits an oversized, crutch-transfer-height carved cedar **shared sanctuary bed** piled with cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket—where they still curl up close together every night, safe forever from county clipboards, broken elevators, and anyone ever hurting Nolan again.
+4. **The Seated Hearth Kitchen & Snowmelt Spring-Larder (`Answering the Dorm Fridge & Microwave Pantry Cart`):**
+   - Replacing Studio 2B's under-counter dorm mini-fridge, narrow gas stove, and wobbly wire microwave/pantry cart is a step-free stone-and-copper kitchen with knee-clearance seated prep counters (so neither sibling has to stand on crutches while cooking), a natural snowmelt cold-spring larder stocked with orchard fruit and cheeses, and a fragrant stone bread-hearth.
+5. **The Zero-Threshold Thermal Soaking & Dressing Suite (`Answering the 3-Foot Bathroom`):**
+   - Replacing the hazardous three-foot tile bathroom is a spacious, slip-proof ninety-eight-degree travertine mineral spring bath with wide stone seating ledges and zero curbs.
+6. **Gwen's Moon-Glass Observatory & Nolan's Rift-Lantern Workbench (`Connected by Gentle Rose-Quartz Ramps`):**
+   - Linked by sweeping, stair-free rose-quartz ramps, Gwen charts celestial tides across worlds on brass armillary rings while Nolan tends the archway lanterns for incoming travelers.
+
+---
+
+## 4. Character Profiles & Mandatory Guardrails
+
+- **Nolan Lennox (`Age 24`, `5'7"`):** Stocky heavy-set build (done growing, six inches shorter than Gwen), tousled medium-brown hair, hazel eyes, plain heather-navy cotton crew-neck tee, worn blue jeans, **barefoot**, **matte-silver single-tube Lofstrand forearm crutches** (open grey C/U-cuffs). Survivor of an abusive relationship just prior to Gwen turning 18; fiercely protective of Gwen and deeply anchored by her affection.
+- **Gwen Lennox (`Just Turned 19`, `6'1"`):** Tall, curvy full-figured build (done growing, six inches taller than Nolan), wavy honey-brown hair, green-hazel eyes, modest plain heather-burgundy cotton crew-neck tee, worn blue jeans, **barefoot**, **matte-charcoal single-tube Lofstrand forearm crutches** (open black C/U-cuffs). Brilliant self-taught night-sky observer who guards Nolan's heart as fiercely as he guards hers.
+- **Strict Visual & Crutch Guardrails:** **100% single-shaft Lofstrand forearm crutches ONLY** (ZERO underarm/armpit crutches ever!); **zero depictions of violence or abuse**; modest everyday clothing in all visual artwork; frequent warm sibling hugs, cuddles, and curled-up camping poses.
