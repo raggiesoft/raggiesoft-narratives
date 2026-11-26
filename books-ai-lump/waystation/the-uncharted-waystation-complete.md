@@ -8,7 +8,7 @@ title: "The Uncharted Waystation"
 
 ### Part 1: Aisle Four, Cutback Transfers, and Ready for Everything
 
-**Harmonic Cycle:** Autumn 1998 — End of Morning Shift at Blue Tech & Emerald Creek Mall, Earth • **Chronometer:** 12:15
+**Date:** 1998-10-24 at 12:15 America/New_York
 
 ![At a sunlit corner table along the brass-and-glass mezzanine railing of the upper-level Food Court inside Emerald Creek Mall beneath its white peaked fabric tent canopy and skylights, twenty-four-year-old Tammy (five-foot-nothing, straight jet-black hair swept behind her shoulders, pastel baby-blue zip-up fleece cardigan pulled open off her shoulders over a modest white ribbed camisole) perches forward on her chair, arches her back, and puffs her chest out across the table as she smiles boldly at twenty-one-year-old Nolan Lennox (five-foot-seven, wearing his royal-blue Blue Tech polo shirt after his morning shift), who grins back innocently over a French fry without looking down from her face while his two single-tube matte-silver Lofstrand forearm crutches lean cleanly beside his chair on the warm terracotta quarry tile floor.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_emerald_creek_food_court_day1.jpg)
 
@@ -94,7 +94,7 @@ Walking the four quiet blocks home from Emerald Creek Mall at one-fifteen in the
 
 ### Part 2: Four Wooden Steps, Sofa Cuddles, and Your Older Sister?
 
-**Harmonic Cycle:** Autumn 1998 — Monday Afternoon & Dusk, Two Days After the Mall Lunch, Earth • **Chronometer:** 16:30
+**Date:** 1998-10-26 at 16:30 America/New_York
 
 ![At golden October dusk on the gravel driveway outside Tammy's beige-and-white single-wide mobile home with four wooden steps, taller sixteen-year-old Gwen Lennox (six-foot-one, in a modest burgundy pullover and jeans) wraps her shorter twenty-one-year-old brother Nolan Lennox (five-foot-seven, in a blue plaid flannel shirt and jeans) in their trademark warm greeting hug beside all four of their single-tube matte-silver and matte-charcoal Lofstrand forearm crutches leaning against their healthy seventy-six-year-old grandfather Walter Lennox's parked sedan, while five-foot-nothing Tammy stands at the foot of the wooden steps in her baby-blue cardigan and platform sneakers tilting her head way up in wide-eyed surprise to ask if Gwen is Nolan's older sister, as Grandpa Walter smiles warmly beside the car.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_older_sister_trailer_pickup.jpg)
 
@@ -176,7 +176,7 @@ Turning back toward the windshield as Grandpa steered us up toward Military High
 
 ### Part 3: Booth Fries, First Night Away From Home, and Connecting Day One
 
-**Harmonic Cycle:** Autumn 1998 — Saturday Afternoon & Night, One Week After Meeting at Blue Tech, Earth • **Chronometer:** 13:45
+**Date:** 1998-10-31 at 13:45 America/New_York
 
 ![Inside a sunlit afternoon window booth with burgundy vinyl seats and warm wood-grain trim at the freestanding Crown Burger on South Military Highway in Chesapeake, Tammy (five-foot-nothing, straight jet-black hair past her shoulders, pastel baby-blue zip-up fleece cardigan over a white ribbed camisole) leans warmly on her elbows across plain off-white fountain cups and burger-and-fries baskets smiling at Nolan Lennox (five-foot-seven, wearing his royal-blue Blue Tech polo shirt after his Saturday morning shift), while both of Nolan's single-tube matte-silver Lofstrand forearm crutches lean cleanly against the wooden booth frame beside him.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p003_crown_burger_south_military.jpg)
 
@@ -232,7 +232,7 @@ Grandpa Walter picked up on the second ring back in our sunlit eat-in kitchen. B
 
 Hanging the heavy beige receiver back onto its metal wall cradle left a strange, weightless flutter right underneath my breastbone. I was officially staying the night somewhere on my own.
 
-Through dusk and early evening, everything felt as easy and unhurried as Monday had been: watching an action cassette on her thirteen-inch living-room television with zero broadcast static, splitting a small cheese pizza across the two-chair Formica dinette, and brushing my teeth with the new wrapped toothbrush she handed me inside the small bathroom off the narrow thirty-two-inch rear hallway.
+Through dusk and early evening—with zero trick-or-treaters ever venturing down Pinecrest Court's unlit gravel lane off Route 13—everything felt as easy and unhurried as Monday had been: watching an action cassette on her thirteen-inch living-room television with zero broadcast static, splitting a small cheese pizza across the two-chair Formica dinette, and brushing my teeth with the new wrapped toothbrush she handed me inside the small bathroom off the narrow thirty-two-inch rear hallway.
 
 Around nine-thirty, though, instead of pulling an extra blanket out onto the floral living-room sofa the way my literal brain had quietly half-expected, Tammy switched off the living-room lamp, caught my hand lightly in her small fingers, and led me past the corded wall phone down that narrow wood-paneled rear hallway straight into her single bedroom at the far right end of the trailer.
 
@@ -284,7 +284,7 @@ For another half hour, though, I lay wide awake under the unfamiliar sheet, star
 
 ### Part 4: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
 
-**Harmonic Cycle:** Tuesday, October 17, 2000 — Two Days Before Gwen's Eighteenth Birthday, Earth • **Chronometer:** 08:30
+**Date:** 2000-10-17 at 08:30 America/New_York
 
 ![On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg)
 
@@ -458,7 +458,7 @@ Come December first, my name would drop off Tammy's lease automatically with zer
 
 ### Part 5: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
 
-**Harmonic Cycle:** October 19 – November 2000 — Gwen's Eighteenth Birthday and the Six Weeks After, Earth • **Chronometer:** 18:30
+**Date:** 2000-10-19 at 18:30 America/New_York
 
 #### 6:30 PM — Eighteen Candles and Always There for Big Brother
 
@@ -528,7 +528,7 @@ True to her word, Gwen booted up her clunky gray laptop running Quantum OS 98 ri
 
 ### Part 6: Moving Into a Rectangular Box and Quantum OS 2000
 
-**Harmonic Cycle:** Friday, December 1, 2000 — Moving Day in Studio 2B, Earth • **Chronometer:** 16:15
+**Date:** 2000-12-01 at 16:15 America/New_York
 
 ![Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg)
 
@@ -584,7 +584,7 @@ While blue setup bars marched steadily across my screen and Nolan—happily back
 
 ### Part 7: Eighty-Nine Degrees and One Rattling Fan
 
-**Harmonic Cycle:** August 2001 — Nearly Nine Months in Studio 2B, Earth • **Chronometer:** 15:10
+**Date:** 2001-08-18 at 15:10 America/New_York
 
 #### 3:10 PM — Dorm-Fridge Ice Pops and Bare Skin
 
