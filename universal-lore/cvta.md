@@ -65,7 +65,7 @@ Based on the historical 2001–2002 HRT Route 15 schedule, **CVTA Route 15** ser
     6.  **Glenrock Shopping Center** (*JANAF Shopping Ctr.*)
     7.  **Glenrock Mall** (*Military Circle*, `Transfer to Routes 15, 20, 23, 25 & 27`)
     8.  **Military Hwy. & Indian River Rd.** *(Location of David, Katie, and Nathaniel Prairie's single-story rental house in `books/katie` starting October 2001)*
-    9.  **Emerald Creek Mall** (*Greenbrier Mall* — served by alternating trips)
+    9.  **Emerald Creek Mall** (*Greenbrier Mall* — served by alternating trips; **CRITICAL ACCESSIBILITY REALISM RULE:** On **`Mall Ring Road`**, the official `CVTA` bus stop sign is planted on metal posts inside a **narrow, oval, six-inch-curbed grassy parking-lot island with ZERO sidewalk, ZERO concrete pad, and ZERO ADA curb cuts**—so wheelchair passengers alighting at Emerald Creek Mall tell the `Route 15` operator on approach, and the bus **stops short of the grassy bus-stop island** with its hazard flashers on to deploy the `Elevate-U` stairwell lift or ADA ramp directly onto the flat asphalt of the parking lot roadway!)
     10. **Robert Hall Blvd. & Shopping Ctr. / Tidewater Square** (*Chesapeake Square*, `Transfer to Routes 6, 13, 15, 57, 58 & 60` — served by alternating trips)
 *   **Exact Schedule Pattern at `Military Hwy. & Indian River Rd.` (Monday–Saturday Daytime):**
     *   **Southbound (Toward Emerald Creek Mall OR Robert Hall Blvd.):**
