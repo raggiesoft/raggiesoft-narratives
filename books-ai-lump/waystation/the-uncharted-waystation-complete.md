@@ -174,7 +174,115 @@ In the glow of a passing streetlight, sixteen-year-old Gwen met my eyes and brok
 
 Turning back toward the windshield as Grandpa steered us up toward Military Highway and home to Emerald Creek, my chest felt lighter than air. Grandpa Walter approved, Gwen approved, and nobody had yelled, rushed, or expected me to read minds all evening long.
 
-### Part 3: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
+### Part 3: Booth Fries, First Night Away From Home, and Connecting Day One
+
+**Harmonic Cycle:** Autumn 1998 — Saturday Afternoon & Night, One Week After Meeting at Blue Tech, Earth • **Chronometer:** 13:45
+
+![Inside a sunlit afternoon window booth with burgundy vinyl seats and warm wood-grain trim at the freestanding Crown Burger on South Military Highway in Chesapeake, Tammy (five-foot-nothing, straight jet-black hair past her shoulders, pastel baby-blue zip-up fleece cardigan over a white ribbed camisole) leans warmly on her elbows across plain off-white fountain cups and burger-and-fries baskets smiling at Nolan Lennox (five-foot-seven, wearing his royal-blue Blue Tech polo shirt after his Saturday morning shift), while both of Nolan's single-tube matte-silver Lofstrand forearm crutches lean cleanly against the wooden booth frame beside him.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p003_crown_burger_south_military.jpg)
+
+#### 1:45 PM — South Military Highway, Booth Fries, and Uncharted Territory
+
+Afternoon October sunlight slanted warm across burgundy vinyl bench cushions and wood-grain laminate inside the freestanding Crown Burger on South Military Highway, glinting off the matte-silver aluminum shafts of my two Lofstrand forearm crutches propped neatly against the end of our window booth.
+
+Exactly one week had passed since Tammy walked up behind my elbow in Aisle Four at Blue Tech asking about rabbit-ear antennas—and five days since Grandpa Walter and Gwen drove out to pick me up after Monday night's spaghetti dinner. Clocking out of my Saturday morning shift at twelve-thirty, I had kept my royal-blue work polo on, caught the northbound CVTA Route 15 outside Emerald Creek Mall up to eight-lane Military Highway, crossed on the pedestrian signal, and ridden the southbound fifteen all the way down toward Robert Hall Boulevard to meet Tammy on her side of Chesapeake.
+
+Across our two plain off-white fountain cups and plastic baskets of crinkle-cut fries, Tammy rested both forearms on the table inside her pastel baby-blue zip-up fleece cardigan, straight jet-black hair framing her round cheeks while her warm doe-brown eyes crinkled at me like I was the best company in Tidewater.
+
+"I still can't get over Monday night," Tammy laughed softly, dipping a fry into ketchup. "Here I am squinting out into my driveway expecting some little kid in braces, and out steps your *younger* sister towering a whole head over both of us like a college volleyball star. Your grandpa is such a gentleman, too."
+
+"Grandpa and Gwenny both really liked you," I said earnestly, warming right up at getting to deliver a one-hundred-percent literal, verified report. "In the car on the way back to Emerald Creek, Grandpa said you had good manners and waited till my crutches were steady on the gravel, and Gwenny said she hadn't seen me look that relaxed around somebody new in forever."
+
+Tammy's smile softened in a way that made my ears feel warm. Taking a slow sip from her straw, she tilted her head slightly across the booth.
+
+"Are you scheduled to open tomorrow morning at Blue Tech, Nolan, or did they give you Sunday off?"
+
+"Off all day Sunday," I said happily. "Don't go back till Monday afternoon."
+
+"Then walk back over to my place with me after we finish eating," Tammy said gently, reaching halfway across the laminate tabletop to brush her fingertips lightly against my knuckles. "We can put a movie tape in the VCR, order a pizza later, and instead of making your seventy-six-year-old grandpa drive all the way down Military Highway in the dark a second time this week... you could just spend the night at my place and catch the Sunday bus home whenever you wake up."
+
+For three full seconds my chewing stopped dead while every scheduling gear inside my head spun at double speed.
+
+At twenty-one years old, I had never spent a single night anywhere on Earth that wasn't with my family.
+
+Not once. Back when Gwen and I were small and still living with our parents in a one-story house, an overnight trip meant visiting Grandpa Walter's big two-story house near Emerald Creek Mall—where Grandpa unfolded the queen-sized pull-out sofa bed in the downstairs family room near the first-floor full bathroom and tucked Gwen and me in side by side under his wool blanket so our legs wouldn't have to climb the stairs at bedtime. After Grandpa stepped into court to take custody of us, every single night since had been spent either up in my own full-sized bed across the upstairs hall from Gwen and Grandpa, or right back down on that familiar queen sofa bed beside Gwen whenever our legs ached. Other kids went to noisy neighborhood sleepovers or Boy Scout tents; between forearm crutches, wheelchair logistics, and how quickly unfamiliar houses drained my autistic battery, home had been my sole overnight coordinates for twenty-one straight years.
+
+Naturally, my literal brain jumped straight to practical checklist items instead of anything unspoken.
+
+"Oh—uh, I didn't pack a toothbrush or sleep clothes," I blurted honestly, glancing down at my royal-blue Blue Tech polo and jeans. "And if I don't walk through the front door before supper, Grandpa and Gwenny are gonna think a car clipped me crossing Military Highway."
+
+Tammy didn't laugh at me or act like calling home at twenty-one was childish. Instead, she smiled warmly as she stacked our empty fry baskets onto one tray.
+
+"I keep unopened spare toothbrushes under my bathroom sink, a clean t-shirt and gym shorts aren't a problem if you just sleep in your undershirt, and my corded phone hangs right on the kitchen wall," Tammy said smoothly. "You can call your grandpa the minute we get inside."
+
+Checking my mental rulebook twice—Sunday off work, zero night driving for Grandpa, clear phone check-in, first-run Sunday fifteen bus timetable already memorized inside my head—I nodded and reached for my silver forearm crutches beside the booth.
+
+"Okay," I smiled, pulse beating a little faster under my collar. "Let's do that."
+
+***
+
+#### 4:15 PM — Wall-Phone Check-In, Clinic Paperwork, and Turning Out the Lamp
+
+Walking the quiet stretch from South Military Highway into Pinecrest Court took ten unhurried minutes in the mild October sun, my rubber crutch tips clicking steady along the asphalt shoulder beside Tammy's chunky white platform sneakers before I climbed the four steep wooden steps up to her front-middle aluminum storm door.
+
+Stepping inside between the living room on the left and the kitchenette on the right—where yellowed ceiling panels still showed faint rings from leaks the trailer-park landlord had tar-patched over and over again, and a ghost of the previous tenant's old cigarette smoke lingered softly beneath Tammy's lemon pine cleaner—Tammy slipped out of her platform sneakers and blue cardigan barefoot on the patterned beige linoleum and pointed straight to the beige corded phone mounted on the wood-paneled partition wall.
+
+"Go ahead and call Emerald Creek first so nobody worries," she said kindly, filling two glasses of ice water at the sink while the twenty-inch white plastic box fan hummed gently in the rear dinette window.
+
+Grandpa Walter picked up on the second ring back in our sunlit eat-in kitchen. Behind his steady voice, I could hear Gwen clattering measuring spoons across the island—probably baking cinnamon apples—and calling out a cheerful *Tell Tammy hi!* across the room. When I explained plainly that Tammy and I were going to watch a movie and I was going to stay over tonight and ride the Sunday fifteen bus home in the morning so Grandpa wouldn't have to make the night drive down Route 13, Grandpa paused for barely one second—weighing Monday evening's good impression against the plain calendar fact that his grandson had turned twenty-one in the spring—before giving me a calm, trusting *All right, Nolan. Call us in the morning before you head for the bus stop, son.*
+
+Hanging the heavy beige receiver back onto its metal wall cradle left a strange, weightless flutter right underneath my breastbone. I was officially staying the night somewhere on my own.
+
+Through dusk and early evening, everything felt as easy and unhurried as Monday had been: watching an action cassette on her thirteen-inch living-room television with zero broadcast static, splitting a small cheese pizza across the two-chair Formica dinette, and brushing my teeth with the new wrapped toothbrush she handed me inside the small bathroom off the narrow thirty-two-inch rear hallway.
+
+Around nine-thirty, though, instead of pulling an extra blanket out onto the floral living-room sofa the way my literal brain had quietly half-expected, Tammy switched off the living-room lamp, caught my hand lightly in her small fingers, and led me past the corded wall phone down that narrow wood-paneled rear hallway straight into her single bedroom at the far right end of the trailer.
+
+Without a window air-conditioner anywhere in the mobile home, the small back bedroom felt close and warm even in October, lit only by a tiny amber shade on the nightstand beside Tammy's bed.
+
+Standing just inside the doorway on my matte-silver forearm crutches with nowhere else in the nine-by-twelve room to look except the turned-down mattress, every circuit in my head caught up all at once. My palms went damp around my gray contoured handgrips, my heartbeat thudded straight up into my throat, and honest panic tried to tangle my tongue.
+
+"Tammy—um," I stammered, ears burning hot in the dim lamp glow because pretending to know unspoken scripts was impossible for me. "I like you a whole lot, I just—I want to be honest so I don't mess anything up. I've never actually... been with anybody before."
+
+Tammy didn't tease me, didn't sigh, and didn't look surprised for even half a heartbeat. Stepping barefoot across the carpet until she stood right in front of me—tilting her round face seven inches up to meet my eyes with that calm, patient warmth—she reached over to the top drawer of her dresser and lifted out a neat folded sheaf of printed clinic papers.
+
+"You don't have to be nervous around me, Nolan," Tammy said softly, unfolding the pages under the bedside lamp so my literal, print-trusting eyes could read every header and lab line in plain black ink. "Look right here so you don't have to wonder about anything. These are my long-term birth-control visit notes from my Virginia Medicaid OB/GYN, and right underneath is my full lab panel from the clinic showing I'm completely clean of every STI."
+
+I read both pages word for word because printed documentation calmed static faster than anything on Earth. Tammy folded the papers neatly back into the drawer—never once bringing up a condom or even thinking to ask about my past history, which only worked out safely for both of us because she really was my very first partner and I was completely clean too.
+
+Gently taking my left and right matte-silver Lofstrand crutches one at a time, Tammy propped both shafts parallel and upright within easy arm's reach beside the dresser, helped me sit comfortably on the edge of the mattress so I never had to balance awkwardly on one foot, reached down to the hem of her white ribbed spaghetti-strap camisole, and clicked off the bedside lamp.
+
+[Note to the AI: Fade to black here for physical intimacy between Tammy and Nolan during Nolan's second visit to her trailer and his first night ever spent away from family. For safety compliance, write strictly around the sex scene with zero explicit description and do not generate any artwork depicting nudity or sexual activity; the narrative resumes afterward in quiet post-scene conversation.]
+
+***
+
+#### 10:35 PM — Connecting Day One and Unfamiliar Ceilings
+
+Forty minutes later, in the quiet dark of the back bedroom with a thin cotton sheet pulled up across us and October crickets chirping steadily outside the rear screen window, the distant hum of the twenty-inch box fan down the narrow hallway sounded like gentle white noise.
+
+Staring straight up at the shadowy seams of Tammy's water-patched acoustic ceiling tiles while my pulse finally slowed back toward its normal resting rate, my rule-following brain ran the calendar math from Saturday to Saturday—and blinked twice in the dark.
+
+"Hey, Tammy?" I murmured sheepishly beside her on the pillow.
+
+"Hmm?" Tammy whispered warmly, resting her bare arm across my chest and tucking her chin comfortable against my shoulder.
+
+"Was... one week maybe kind of fast?" I asked honestly, genuinely unsure what the normal neurotypical timetable was supposed to be when two people met in an electronics aisle. "From ringing up a nine-dollar antenna on Saturday to this?"
+
+Beside my ear, Tammy let out a soft, genuinely amused laugh that shook her shoulders against mine.
+
+"Nope," Tammy said without a trace of hesitation. "Not fast at all, Nolan. Honestly? I wanted to bring you back here and sleep with you the very day we met."
+
+In the warm dark, my eyes went wide open against the ceiling.
+
+Like two loose coaxial connectors clicking flush onto a splitter jack, an entire seven-day-old memory snapped together inside my head in high definition: upstairs under the white peaked tent canopy of the Emerald Creek Mall food court, Tammy sweeping her glossy jet-black hair behind both shoulders, sliding her baby-blue cardigan open off her arms, scooting onto the front edge of her chair, arching her back, puffing her chest out across our red plastic Crown Burger trays—a signal I hadn't glanced down at once—and looking me dead in the eyes to say, *Just so you know, Nolan... I'm ready for everything.*
+
+"Oh!" slipped right out of my mouth before I could stop it, heat rushing all the way to the tips of my ears in the dark. "At the mall food court—when you said you were ready for everything... you weren't talking about waiting on bus wheelchair lifts at all, were you?"
+
+Tammy giggled softly against my collarbone, patting my chest once before letting her eyes drift shut. "Told you that you were the sweetest guy in Chesapeake, Nolan. Go to sleep."
+
+Within five minutes, Tammy's breathing slowed into deep, even sleep beside me.
+
+For another half hour, though, I lay wide awake under the unfamiliar sheet, staring up at ceiling panels that weren't mine. Out past the thin corrugated aluminum siding, an eighteen-wheeler geared down along Route 13 where quiet maple branches usually brushed the second-story eaves at home; metal heating ducts ticked strange little cooling pops along the narrow hallway; and for the first midnight in twenty-one years, neither Grandpa Walter nor Gwen was breathing anywhere under the same roof. Even with my twenty-one-year-old chest glowing proud and dizzy that a pretty, soft-spoken woman had chosen me, my fingers lightly tapped out tomorrow morning's southbound-to-northbound Route 15 cutback transfer times against the edge of the mattress—already looking forward to climbing Grandpa's three wooden porch steps before noon and pulling my little sister into a hug in our sunny kitchen.
+
+### Part 4: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
 
 **Harmonic Cycle:** Tuesday, October 17, 2000 — Two Days Before Gwen's Eighteenth Birthday, Earth • **Chronometer:** 08:30
 
@@ -186,7 +294,7 @@ By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned s
 
 For weeks now, every single day with twenty-six-year-old Tammy had been a minefield of petty, exhausting arguments over nothing at all: which shelf of the fridge my work lunch touched, how loud my Lofstrand forearm crutches clicked when I stood up at night, how many minutes I spent on the corded wall phone checking on seventeen-year-old Gwen and dying Grandpa Walter over near Emerald Creek Mall. Being autistic meant my brain relied on clear rules, literal honesty, and predictable quiet the way lungs rely on air—and living inside thin aluminum walls where the rules changed every twenty minutes and yelling erupted out of nowhere felt like having an alarm bell wired straight behind my eardrums.
 
-Looking across the cramped kitchenette at Tammy shoving clothes into a suitcase in her chunky white platform sneakers, straight jet-black hair swinging past her shoulders and her round baby face pinched tight, it still staggered my literal brain how someone so polite at the start had turned into a stranger. Two years ago, when I was twenty-one and she was twenty-four—looking barely twenty with those big warm doe-brown eyes—Tammy had seemed like a dream come true. A week after our first lunch at the Emerald Creek Mall food court, I had ridden the CVTA Route 15 cutback transfer out to meet her at the Crown Burger on South Military Highway within walking distance of Pinecrest Court, and walked back with her to this trailer for the first time. Before I could even stammer out how nervous I was because I had never been with anyone before, Tammy had calmly unfolded her long-form birth-control notes from her Medicaid OB/GYN alongside lab paperwork proving she was clean of STIs, never once brought up a condom or asked my history—lucky for both of us that she was my very first partner and I was clean too—peeled off her spaghetti-strap tank barefoot in the humid bedroom, and pulled me into bed for the night. When my rule-following brain blinked up at the ceiling afterward and asked sheepishly if one week was maybe a little fast, Tammy had laughed softly against my shoulder, said *Nope*, and admitted she had been ready to sleep with me the very day we met—finally connecting the dots inside my head that when she had puffed her chest out across that food-court table and told me she was *ready for everything*, she hadn't been talking about bus lifts at all.
+Looking across the cramped kitchenette at Tammy shoving clothes into a suitcase in her chunky white platform sneakers, straight jet-black hair swinging past her shoulders and her round baby face pinched tight, it still staggered my literal brain how someone so polite at the start had turned into a stranger. Two years ago, when I was twenty-one and she was twenty-four—looking barely twenty with those big warm doe-brown eyes—Tammy had seemed like a dream come true: patient over fries at the Emerald Creek Mall food court, gentle on Monday evening when Grandpa Walter and Gwen met her outside these four wooden steps, and calm and reassuring that very next Saturday after Crown Burger on my second visit to this trailer—the first night I had ever spent away from my family, when she unfolded her Medicaid OB/GYN and clean STI clinic notes and laughed afterward in the dark that she had been ready to sleep with me since Day One.
 
 Barely three weeks after that night, terrified of working regular payroll hours for fear of losing her monthly SSI check, Food Stamps, and Virginia Medicaid, Tammy had talked me into moving out of Grandpa Walter's house and into her trailer—turning my easy four-block walk to Blue Tech into a grueling two-bus Route 15 cutback-transfer haul through Military Highway and Old Emerald Creek Road every shift. And for a long while, everything really *had* been wonderful. Tammy had stayed sweet and polite, respected Grandpa Walter, treated Gwen kindly—even if having to tilt her five-foot-nothing chin thirteen inches straight up at my neurotypical six-foot-one little sister visibly unsettled her, especially once she spotted the pencil mark on Grandpa's kitchen doorframe showing Gwen had already hit five feet flat in fifth grade—and accepted without complaint that Gwen was the absolute center of my universe and would always come first in my life. Then the mood swings started. Twice over the past year, Tammy had dramatically broken up with me, only to reel me right back in days later by parading around the hot trailer barefoot and completely naked or tugging up her spaghetti-strap camisole to flash me until my lonely twenty-two-year-old resolve folded.
 
@@ -348,7 +456,7 @@ That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of c
 
 Come December first, my name would drop off Tammy's lease automatically with zero overlap, leaving me free to sign a lease of my own on a tiny second-floor studio inside an older nineteen-sixties high-rise apartment tower four blocks from Blue Tech. Come Thursday evening over birthday cake, I couldn't wait to ask my sister if she wanted to come live with me.
 
-### Part 4: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
+### Part 5: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
 
 **Harmonic Cycle:** October 19 – November 2000 — Gwen's Eighteenth Birthday and the Six Weeks After, Earth • **Chronometer:** 18:30
 
@@ -418,7 +526,7 @@ Gwen pulled back just enough to cup both sides of my face in her palms, looking 
 
 True to her word, Gwen booted up her clunky gray laptop running Quantum OS 98 right there on an upturned packing crate beside me, drafted a neat checklist of final meter-read dates while leaning warm against my shoulder, and refused to go to sleep until every single envelope was stacked, stamped, and conquered together.
 
-### Part 5: Moving Into a Rectangular Box and Quantum OS 2000
+### Part 6: Moving Into a Rectangular Box and Quantum OS 2000
 
 **Harmonic Cycle:** Friday, December 1, 2000 — Moving Day in Studio 2B, Earth • **Chronometer:** 16:15
 
@@ -474,7 +582,7 @@ Nolan grinned from ear to ear, reached down to his zippered CD wallet beside his
 
 While blue setup bars marched steadily across my screen and Nolan—happily back in his element of clean technical routines—lined all four of our forearm crutches in exact height order beside the footboard before fine-tuning the V-shaped rabbit ears atop our swiveled television until snowy local broadcast cleared into a late-night nineteen-eighties fantasy movie, I curled right up against my big brother's side under Grandpa Walter's plaid wool blanket. Being neurotypical while growing up five years behind a verbal autistic big brother meant I had known my whole life how deeply Nolan thrived on plain truth, zero yelling, and quiet, predictable affection—and even Grandpa Walter and I had genuinely approved of polite, soft-spoken Tammy that first evening we drove out to pick Nolan up from her trailer when I was sixteen, long before her temper began to turn. Exhausted from weeks of funeral and house-sale chaos, broke as church mice, and crammed into a rectangular one-person box where nobody would ever play mind games with my brother again, I felt happier than I had been in two whole years just having Nolan safe beside me.
 
-### Part 6: Eighty-Nine Degrees and One Rattling Fan
+### Part 7: Eighty-Nine Degrees and One Rattling Fan
 
 **Harmonic Cycle:** August 2001 — Nearly Nine Months in Studio 2B, Earth • **Chronometer:** 15:10
 
