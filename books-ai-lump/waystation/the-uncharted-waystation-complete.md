@@ -147,69 +147,199 @@ Inside our tiny three-hundred-and-eighty-square-foot square of Elm Street, we ha
 
 ## Chapter 2: No Wheelchairs in the Star-Moss
 
+### Part 1: Amber Glass Over the Coffee Table
+
+**Harmonic Cycle:** First Night of the Twin Moons, Studio 2B to Western Vaeloria • **Chronometer:** 21:15
+
+![Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg)
+
+#### 9:15 PM — A Shimmer Above the Mug Ring
+
+Autumn rain ticked steady against our single Elm Street studio window while the hold music from Regional Mobility Supply warbled through the speaker of Gwen's cracked phone on the scratched oak coffee table for the forty-seventh straight minute.
+
+Gwen reached over the fringed hem of Grandpa Walter's dark-green and navy-blue plaid wool blanket, stabbed the red hang-up icon with her thumb, and let her head drop back against the saggy sofa-bed cushion beside mine with a long groan. Just six days past her nineteenth birthday, slouched down into the upholstery with her bare feet tucked up beside mine to stay off the cold linoleum by our tiny kitchenette, my little sister still had half a head of height on me. With Gwen done growing at six-foot-one and me twenty-four and settled at five-foot-seven since high school, strangers on the sidewalk always assumed she was the older sibling until they heard me nagging her to drink water.
+
+"Closed for the weekend," Gwen said, tossing the phone onto the stack of prior-authorization denial letters beside her spiral-bound star notebooks. "Six weeks for one bent front caster fork on my chair, and the rep had the nerve to ask whether I really needed to leave the apartment before December."
+
+"Good thing neither of us had glamorous Friday night plans," I said, wrapping my right arm snugly around her waist and pulling Grandpa Walter's plaid blanket tighter across both our laps so her bare toes could steal heat off my shins the way she always did when our radiator clanked cold. Four feet away by the entry mat—just past the kitchenette counter where our co-signed lease renewal hung pinned to the corkboard—both of our manual wheelchairs sat parked side by side, mine with a taped left armrest pad, hers listing half an inch toward the bent right caster. Right against the padded arm of our sofa-bed within easy reach leaned our four single-tube Lofstrand forearm crutches: my shorter matte-silver pair on the outside, Gwen's taller matte-charcoal pair tucked inside them.
+
+"Honestly, Nolan?" Gwen murmured, tucking a thick wave of honey-brown hair behind her ear and resting her cheek against the crown of my head while wrapping her arm across my shoulders. "After a whole year of yellow tape on the lobby elevator and landlords pretending the heat works... if there were a button on this coffee table that shipped the two of us somewhere without landlords, broken curb cuts, or medical billing codes, I wouldn't even stop to grab shoes."
+
+"Long as the button takes both names on the lease together," I murmured back, squeezing her hand over the wool plaid. "Knowing our luck, though, it'd require three signatures from a—"
+
+The air six inches above the water-ringed coffee table folded inward like warm amber stained glass.
+
+There was no thunderclap and no smoke—only a deep, resonant double chord like two great brass rings chiming into sudden harmony inside a cathedral, answering the exact cadence of our two voices as if something ancient across the stars had spent centuries listening for two hearts beating at the same unhurried rhythm. A warm breeze smelling of crushed wild thyme, wet rose limestone, and night-blooming jasmine swept straight across Studio 2B. Before I could even sit upright, the amber shimmer widened from the width of Gwen's open star-chart notebook to the length of our entire sofa-bed. The linoleum beneath the couch legs vanished into liquid gold light.
+
+Instinct took over faster than thought. With my left arm I hooked all four aluminum forearm crutches clean off the armrest and clamped them hard against my heather-navy t-shirt; with my right arm I locked tight around Gwen's burgundy waist and a fistful of Grandpa Walter's plaid blanket as the cushion tilted out from under us.
+
+"Nolan!" Gwen gasped, wrapping both arms fiercely around my neck and shoulders.
+
+We fell less than the height of a porch step.
+
+Instead of slamming onto the dry cleaner's ceiling plaster downstairs, my bare heels and the seat of my worn blue jeans sank into three inches of cool, springy, velvet-soft moss that gave beneath our weight like a feathered quilt. Behind our backs, a faint oval of amber stained-glass light hung two feet above the turf—offering one fleeting glimpse of our tiny empty studio room and our two parked wheelchairs ten feet out of reach by the kitchenette—before winking shut with a soft double chime.
+
+Silence settled around us, vast and sweet and alive with distant crickets.
+
+***
+
+#### 9:40 PM — Two Moons and Zero Concrete
+
+For ten full seconds neither of us let go. Gwen's heart hammered fast against my chest beneath Grandpa Walter's plaid blanket; the four single-shaft aluminum crutches rattled softly in my grip.
+
+"Tell me I didn't hit my head on the coffee table," Gwen whispered against my temple.
+
+"If you did, we're sharing the concussion," I breathed, holding her close as I looked up.
+
+Above the silhouette of ancient, silver-barked trees arched an indigo twilight sky that looked as if a master cinema painter from the nineteen-eighties had brushed it onto glass—deep sapphire melting into warm copper-gold along a horizon of towering, misty crags. Hanging side by side above the mountain saddle shone two moons in the exact close resonance Gwen had sketched in August: one large and pale ivory with mares shaped like a winged ship, the smaller one glowing soft rose-amber right off its shoulder, though a faint veil of silver mist seemed to tug gently between their halos. Every patch of moss around our bare ankles glimmered with tiny points of pale blue starlight whenever the night breeze stirred its fronds.
+
+Gwen slowly uncurled one hand from my shirt, pressed her bare sole flat into the glowing turf, and blinked in disbelief.
+
+"Nolan—feel the ground," she said softly. "It's warm. Like moss sitting over a heated stone floor."
+
+She was right. There wasn't a sharp pebble, sticker burr, or damp chill anywhere under our bare feet. Still, a familiar protective knot tightened in my chest as I glanced back where the amber oval had closed.
+
+"Our chairs didn't come through," I said quietly, checking all four Lofstrand forearm crutches across my knees—two shorter matte-silver, two taller matte-charcoal, rubber tips intact, open forearm cuffs unbroken. "Just Grandpa's blanket and our crutches."
+
+Back on Elm Street, being stranded ten blocks from our studio without our wheelchairs would have meant cracked concrete, aching wrists, and nowhere to sit.
+
+Instead, Gwen slipped her forearms into her tall matte-charcoal cuffs, planted the rubber tips into the firm, cushiony star-moss, and pushed herself smoothly up beside a wide, mossy fallen cedar trunk—standing all six-foot-one in the twin moonlight while breathing in a lungful of air so clean and pine-sweet it made her eyes shine. She reached one hand down to steady me as I clicked my silver cuffs around my forearms and eased up beside her so we could sit cuddled close together on the smooth curve of the log, wrapping Grandpa Walter's plaid blanket snug around both our shoulders.
+
+"Look around us, Nolan," Gwen whispered, wrapping both arms back around me and resting her cheek against mine as a pair of tiny, lantern-tailed moths drifted lazily past our bare toes. "Listen. No sirens. No broken compressors. No hold music. Just... air."
+
+I hugged my sister tight against my side, wiggling my bare toes in the warm star-moss while looking down the gentle slope of the glade, where a ribbon of smooth pale rose flagstones wound through shifting silver mist toward the quiet murmur of running water.
+
+"Well," I murmured into her honey-brown hair, "you did say you wouldn't even stop to grab shoes."
+
+Gwen let out a real, unguarded laugh—the brightest sound I had heard leave my sister's throat since before Grandpa Walter died—and held onto me under our shared blanket as the twin moons climbed above the crags.
+
+### Part 2: Six Inches Taller and Four Crutches Strong
+
+**Harmonic Cycle:** Second Dawn of the Twin Moons, The Whispering Causeway • **Chronometer:** 07:40
+
+![At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg)
+
+#### 7:40 AM — Satin Stone Under Bare Soles
+
+Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back on Elm Street feel like a shoebox.
+
+I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz bridge abutment a hundred yards down from our arrival glade, still curled up closely in Nolan's arms on a three-inch bed of velvety dry moss beneath Grandpa Walter's green-and-navy plaid wool blanket. One of my arms was draped across my twenty-four-year-old brother's broad shoulder, his tousled brown head tucked comfortably right beneath my chin the way the two of us had curled up together through every cold radiator night of the past year. For three sleepy seconds my brain waited for the six-thirty garbage truck to rattle the alley dumpsters below our window unit. Instead, liquid, flute-like birdcalls rippled from a grove of low orchard trees beside a clear tumbling rill, and golden morning sunlight spilled across our four bare feet without a trace of stiffness in my knees.
+
+Nolan stirred against my collarbone, tightened his arm around my waist in a warm good-morning squeeze, and blinked lazily toward the carved stone wall where all four of our single-tube Lofstrand forearm crutches leaned side by side within easy reach.
+
+"Morning, flagpole," my brother murmured, pressing a quick affectionate kiss to the back of my knuckles before sitting up just enough to knot two opposite corners of Grandpa Walter's plaid blanket into a neat diagonal shoulder sling so neither of us would lose a hand carrying it on crutches.
+
+"Morning, shortstop," I smiled, pulling him into one more lingering hug before stretching my arms overhead and reaching for my charcoal pair. Nolan passed them to me grip-first the way we had handed each other mobility gear since we were kids. "Tell me my sleepy eyes aren't making up pink marble out there."
+
+He wasn't exaggerating. Ten paces up a gentle grassy bank ran an ancient causeway twelve feet wide, paved from verge to verge in huge, hexagonal slabs of pale rose quartz fitted so tightly together a knife blade couldn't slip between the seams. Centuries of rain and wind had polished every stone to a warm, velvety satin—smooth enough that our bare soles glided over it without a single nick or scrape, yet textured just enough that the rubber ferrules of our four forearm crutches gripped solid on every swing-through step.
+
+Better still, whoever had laid this old borderland road had believed roads ought to let travelers rest together. Every two hundred paces along the low mossy parapet, the stonework flared outward into a curved, sun-warmed alcove bench set beside small carved basins fed by clear mountain rills and topped by low bronze way-lanterns.
+
+At the first alcove, a thin ribbon of pale silver mist curled around a way-lantern whose inner blue crystal flickered faint and sleepy, as if losing its bearing. Yet the moment Nolan and I stepped side by side onto the threshold slab at our matched crutch rhythm—four rubber tips touching the rose quartz in unhurried sync—a quiet chime hummed inside the bronze housing, and the sapphire crystal steadied into a clear, warm glow that melted the mist back ten paces from the bench.
+
+Nolan froze on his silver cuffs, squinting from the newly brightened lantern to me. "Okay... did we just do that, or do streetlights out here run on polite applause?"
+
+"Look at the two little moon rings etched around the glass," I murmured, tracing the air an inch from the warm bronze filigree without burning a finger. "One ivory circle, one rose circle—interlocked. It didn't steady until both of us stepped onto the stone together."
+
+***
+
+#### 10:15 AM — Honey-Plums and Zero Hurry
+
+Back on Earth, walking half a mile on forearm crutches without our wheelchairs meant dodging buckled concrete, racing flashing red pedestrian timers across four-lane avenues, and enduring strangers asking invasive medical questions before breakfast.
+
+Out here on the Whispering Causeway, nobody timed us at all.
+
+We kept the unhurried pace we had shared our whole lives—swing, step, swing, step for ten minutes while morning sun warmed our plain cotton t-shirts, then five cozy minutes cuddled hip-to-hip on the next mossy alcove bench with Nolan's arm around my waist while our forearms rested and iridescent dragonflies skimmed the roadside rill. At the third bench, an overarching grove of silver-leafed trees hung heavy with plump, golden-skinned fruit the size of peaches. After watching a flock of crested finches feast happily on three fallen ones—and after Nolan tested a tiny sliver on his tongue and waited twenty minutes like the cautious older brother he had always been—we bit into flesh that tasted like warm ripe pear swirled with wild clover honey.
+
+Nolan wiped a drop of golden juice off his chin with the back of his wrist and looked back toward the misty valley behind us.
+
+"Gwenny," he said quietly, turning a smooth honey-plum pit between his fingers. "Be completely honest with me. Are you wishing we were back in Studio 2B waiting on Regional Mobility Supply?"
+
+I looked down at my bare toes resting pain-free on sun-warmed rose quartz, thought of Grandpa Walter's blanket slung safe across my brother's chest, and looked ahead toward painted purple crags where even the roadside lanterns seemed glad the two of us had arrived together.
+
+"Not even one percent," I whispered, resting my cheek against Nolan's head and giving his shoulders a tight squeeze. "Whatever called us out of that apartment, Nolan... as long as it wanted both of us together, I want to see where this road leads."
+
+Nolan's hazel eyes crinkled warm at the corners. He clicked his silver cuffs onto his forearms, waited until my charcoal tips were set beside his, and nodded down the gentle curve of the quartz causeway where a curl of sweet applewood hearth-smoke rose above an arched stone bridge.
+
+"Two hundred paces at a time," Nolan smiled. "Let's go see who's making cider."
+
+## Chapter 3: The Three Roads of the Sunken Milestone
+
 ### Where the Flagstones Divide
 
 **Harmonic Cycle:** Second Afternoon of the Twin Moons, The Sunken Milestone • **Chronometer:** 15:30
 
-![In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot 6-foot-1 Gwen Lennox wraps an arm affectionately around her shorter 5-foot-7 brother Nolan Lennox on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg)
+![In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg)
 
-#### 3:30 PM — Moonsilver Cuffs and Spiced Cider
+#### 3:30 PM — Moonsilver Cuffs and The Great Drift
 
 The applewood smoke belonged to a round copper kettle bubbling on a folding iron brazier beside the cheerfulest wooden tinker's cart I had ever laid eyes on.
 
-Strings of blown-glass lanterns in cobalt, amber, and sea-green clinked softly along its curved canvas ribs, while a gentle, broad-shouldered draught beast with curly russet wool and curled ram's horns munched clover in the shade of an ancient three-faced runestone milestone. Before Gwen and I had even finished the last twenty paces across the arched stone bridge on our crutches, a stout, white-whiskered man in a patched plum-velvet waistcoat and a soft wool cap hopped down off the cart's footboard with two earthenware mugs already steaming in his hands.
+Strings of blown-glass lanterns in cobalt, amber, and sea-green clinked softly along its curved canvas ribs, while a gentle, broad-shouldered draught beast with curly russet wool and curled ram's horns munched clover in the shade of an ancient three-faced runestone milestone. Before Gwen and I had even finished the last twenty paces across the arched stone bridge on our forearm crutches, a stout, white-whiskered man in a patched plum-velvet waistcoat and a soft wool cap hopped down off the cart's footboard with two earthenware mugs already steaming in his hands.
 
 "Hail and easy step to you, travelers!" he called warmly, swinging down a wide cedar camp bench cushioned with woven river-rush before we even had to ask to sit. "Bramwell Kettle, licensed tinker of the Three Marches, at your service. Take the weight off your wrists and wrap your palms around some hot cinnamon-pear cider—this last league of the causeway climbs steeper than it looks!"
 
-Neither his eyes nor his voice held a trace of pity, awkwardness, or intrusive curiosity as Gwen and I sank gratefully side by side onto the rush bench in our modern jeans and cotton t-shirts, leaning all four of our Lofstrand forearm crutches neatly against the wooden cart wheel. Gwen immediately looped her left arm affectionately around my shoulders, tucking me close against her side while our bare feet rested in cool clover. If anything, Bramwell squinted with pure craftsman's admiration at the brushed matte-silver aluminum of my single-shaft forearm tubes.
+Neither his eyes nor his voice held a trace of pity, awkwardness, or intrusive curiosity as Gwen and I sank gratefully side by side onto the rush bench in our worn blue jeans and cotton t-shirts, leaning all four of our single-tube Lofstrand forearm crutches neatly against the wooden bench arm beside the cart wheel. Gwen immediately looped her right arm affectionately around my shoulders, tucking me close against her side with Grandpa Walter's green-and-navy plaid blanket still draped over my shoulder while our bare feet rested in cool clover.
 
-"Now that is fine tube-smithing," Bramwell marveled respectfully, not touching them without permission. "Hollow-drawn moonsilver alloy, by the lightness of your swing! Most borderland folk still carve ashwood walking-staves ten times heavier."
+Bramwell squinted first in pure craftsman's admiration at the brushed matte-silver aluminum of my forearm tubes—then caught sight of the ancient bronze way-lantern at the bridgehead behind us burning steady sapphire blue without a single flicker of mist. His bushy white eyebrows shot nearly to the brim of his cap.
 
-"Lightweight alloy from where we grew up," Gwen said with a smile, warming both hands around her earthenware mug while her bare feet rested in soft clover. "Though we lost our wheeled chairs on the way in, so we're figuring out where this causeway goes at crutch speed."
+"Bless both moons above," Bramwell breathed softly, setting his brass ladle down with reverent care. "That bridge-lamp hasn't held a steady star-flame in forty seasons. You two walked the Whispering Causeway step-for-step together, didn't you?"
 
-"Ah! Then you could not have stopped at a luckier stone in all Vaeloria," Bramwell beamed, gesturing with his ladle toward the tall, moss-crowned three-faced milestone standing at the center of the plaza.
+Gwen and I traded a quick look over our steaming cider mugs. "We always match pace," I said carefully. "Lost our wheeled chairs when the amber light pulled us off our studio couch last night, so four crutches and two hundred paces at a time is how we travel."
+
+Bramwell's weathered face broke into the gentlest, most relieved smile I had ever seen on a stranger.
+
+"Then the old songs weren't tall tales after all," the tinker murmured, glancing westward toward the high, cloud-wreathed purple peaks at the heart of the realm, where a faint veil of silver haze shimmered beneath the afternoon sky. "Nobody in Vaeloria wars with neighbor or blade, friends—our folk built this realm centuries ago under the Slow-Footed Order, who swore no road, canal, or lift should ever leave an unhurried traveler behind. At the crown of the inner peaks stands their masterpiece: the Uncharted Waystation, housing the great twin-ring Bronze Astrolabe that binds the star-currents of our two moons together."
+
+"And the mist we kept seeing along the causeway?" Gwen asked quietly, leaning forward with her astronomer's instincts instantly awake. "The smaller rose moon's halo looked slightly out of phase last night."
+
+"Sharp eyes, tall sister!" Bramwell nodded earnestly. "We call it the Great Drift. For three generations the high Waystation has stood asleep without Keepers. Dozens of swift-footed couriers and lone scholars marched up there over the years trying to turn the Astrolabe's brass rings by main strength—and not a single one could budge them an inch. Because the Slow-Footed Order forged those twin rings so no lone, hurried soul could ever command them. One ring listens for an eye that reads the moons' true ellipse; the other listens for an eye that spots every hidden seam in the road ahead—and neither ring wakes unless two inseparable hearts turn them at one unhurried rhythm, never leaving the other behind."
+
+Beneath Grandpa Walter's plaid blanket edge, Gwen's fingers found mine and squeezed hard. Every sleepless night she had spent tracing binary moon orbits in our sweltering Elm Street studio—and every city block I had spent scanning cracked pavement ahead of our chairs and crutches—suddenly felt less like wasted years on hold and more like the exact language this gentle, drifting world had reached across the stars to find.
+
+"Without Keepers at the Astrolabe," Bramwell continued softly, "the star-currents are slowly unmooring into silver mist. Canal beacons grow dim at dusk, the Whisperwood's outer lamps grow sleepy, and the mountain sky-rings slip a hair wider each solstice. Nothing cruel or violent—only good towns slowly drifting out of reach of one another unless two true Keepers wake the Waystation again."
 
 ***
 
 #### 4:15 PM — Three Gentle Ways Deeper Into the Realm
 
-From the circular flagstone apron beyond the milestone, the single borderland causeway split cleanly into three completely different ways forward—each winding toward the misty heart of the realm beneath towering painted clouds.
+From the circular flagstone apron beyond the milestone, the borderland causeway split cleanly into three completely different ways inward toward the misty peaks where the Waystation waited.
 
-To our left, stone steps shallow as ramp-slabs descended to a tranquil, mirror-clear waterway lined with woven reed docks: the Glasswater Canal. Tied beside the cedar bollards floated a wide, flat-bottomed timber vessel forty feet long, its carved prow hung with glowing sapphire marsh-lanterns and its open deck cushioned with thick rush mats while a calm woman in a river-cloak coiled hemp rope at the stern.
+To our left, stone steps shallow as ramp-slabs descended to a tranquil, mirror-clear waterway lined with woven reed docks: the Glasswater Canal, where a forty-foot timber vessel hung with glowing sapphire marsh-lanterns floated beside cushioned rush mats.
 
-"That there is Maren's route along the Glasswater Canal," Bramwell explained, pointing east. "Smooth current does ninety percent of the walking for you. Travelers sit cushions-up with a warm stewpot on the cabin stove, watching the reed-villages and star-heron marshes glide past while Maren poles from lock to lock."
+"That there is Maren's route along the Glasswater Canal," Bramwell explained, pointing east. "Smooth current carries you cushions-up with a warm stewpot on the cabin stove, though the Great Drift has dimmed the marsh-stars she steers by at night—a sharp pair of star-reading eyes aboard would be a godsend."
 
-Straight ahead between two carved stone owl pillars, the flagstones vanished beneath a living carpet of thick, luminous emerald turf winding into a cathedral-tall forest of silver-barked rowans and giant, softly glowing amber-and-azure canopy blossoms.
+Straight ahead between two carved stone owl pillars, the flagstones gave way to a living carpet of thick, luminous emerald turf winding into a cathedral-tall forest of silver-barked rowans.
 
-"Through the middle arches lies the Whisperwood Moss-Road," Bramwell continued fondly. "Laid down an age ago by the Slow-Footed Order, who vowed never to build a road that bruised an unshod heel. Three inches of springy cushion-moss the whole way in, stone rest-alcoves at every quarter-mile, and warm crystal mineral springs bubbling right beside the trail whenever your joints want a hot soak."
+"Through the middle arches lies the Whisperwood Moss-Road, laid down by the Slow-Footed Order themselves," Bramwell said fondly. "Three inches of springy cushion-moss the whole way in, carved rest-alcoves and dry stone shelters to curl up warm at night, and ninety-eight-degree crystal mineral springs bubbling right beside the trail whenever your joints want a soak."
 
-Then he pointed upward to our right, where tiers of rose-gold limestone cliffs rose into the painted afternoon clouds—and gliding smoothly up an angled span of braided bronze cables between stone towers rode an open, spacious gondola car of polished oak and gleaming brass counterweighted by slow water-wheels.
+Then he pointed upward to our right, where tiers of rose-gold limestone cliffs rose into painted afternoon clouds, linked by a spacious open gondola car of polished oak and gleaming brass gliding smoothly up braided bronze cables powered by slow water-wheels.
 
-"And up the right-hand terrace runs the Brass Counterweight Way into the Amber Crags," Bramwell said, eyes twinkling. "Not a single stair to climb—the water-balance lifts carry you smooth as butter from terrace to terrace past cliffside wind-chimes and the star-keepers' warm abbey kitchens, where they map the twin moons on rings of brass."
+"And up the right-hand terrace runs the Brass Counterweight Way into the Amber Crags," Bramwell beamed. "Zero stairs—water-balanced lifts carry you smooth as butter to the Star-Keepers' warm observatory kitchens, where their ancient moon-rings have been slipping out of tune with the Drift."
 
-Bramwell refilled both of our mugs with a splash of hot spiced cider and tipped his wool cap. "All three routes wind inward toward the high heart of the realm in their own good time, friends, and none of them asks a traveler to march like a foot-soldier. You only have to pick which kind of road suits the two of you best."
+Bramwell topped off our mugs with hot spiced cider and tipped his wool cap. "All three routes wind inward toward the Uncharted Waystation in their own gentle time, friends. Which road calls to the two of you first?"
 
-Gwen looked from the sapphire lanterns bobbing gently on the canal boat, to the lush emerald moss road glowing beneath the forest arch, to the smooth brass gondola rising into the golden crags—then looked down at me with shining green-hazel eyes that didn't miss our old apartment one bit.
+Gwen looked from the sapphire canal lanterns, to the emerald moss road, to the smooth brass gondola rising into the golden crags—then rested her cheek warmly against the top of my head with shining green-hazel eyes that didn't miss Studio 2B or Earth for a single heartbeat.
 
-"No wrong doors, brother," Gwen said softly. "Which way do we go first?"
+"Nobody splitting us up, and a whole world built for our pace," Gwen whispered. "Which way do we take first, brother?"
 
 ***
 
-#### Story Crossroads — Three Roads Inward Through Vaeloria: How Do Nolan and Gwen Travel? {#crossroads-borderland-three-roads}
+#### Story Crossroads — Three Gentle Roads Toward the Waystation: How Do Nolan and Gwen Travel? {#crossroads-borderland-three-roads}
 
-*With both wheelchairs left behind on their living-room rug, barefoot brother and sister Nolan and Gwen Lennox cannot march twenty miles of rough gravel a day—and here at the Sunken Milestone, peddler Bramwell Kettle has shown them three gentler 1980s-fantasy routes winding deeper into Vaeloria. Every option opens a complete, coequal story route.*
+*With both wheelchairs left behind in Studio 2B on Earth, barefoot twenty-four-year-old Nolan Lennox and his six-foot-one nineteen-year-old sister Gwen have learned why Vaeloria's sleeping Astrolabe answered Gwen's wish: only two inseparable, unhurried hearts can re-harmonize the twin rings and heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.*
 
 *Select a Story Path below to jump directly to your chosen continuation:*
 
-1. [**The Glasswater Lantern-Barge Canal**](#crossroads-path-lantern-barge-canal) — Step onto barge-master Maren's wide reed-and-cedar lantern boat—resting bare feet on cushioned planks with crutches stowed safe beside the gunwale while glowing blue glass lanterns drift toward the inner river towns.
-2. [**The Whisperwood Cushion-Moss Road**](#crossroads-path-whisperwood-moss-road) — Walk unhurriedly at your own crutch pace over three-inch-deep emerald velvet moss beneath glowing twilight trees, where carved stone benches and warm geothermal foot-springs wait every quarter-mile.
-3. [**The Brass Counterweight Gondola Way**](#crossroads-path-brass-counterweight-way) — Board the ancient oak-and-brass counterweight cable gondola rising smoothly up the Amber Crags past singing bronze wind-harps, where cliffside astronomers keep warm kitchens and ancient star-rings.
+1. [**The Glasswater Lantern-Barge Canal**](#crossroads-path-lantern-barge-canal) — Step onto barge-master Maren's wide reed-and-cedar lantern boat—cuddling barefoot on cushioned planks with forearm crutches stowed safe beside the gunwale while Gwen's astronomy eye guides the barge through the misty stars of The Great Drift.
+2. [**The Whisperwood Cushion-Moss Road**](#crossroads-path-whisperwood-moss-road) — Walk unhurriedly at your own forearm-crutch pace over three-inch velvet moss laid by the Slow-Footed Order, soaking bare feet in 98-degree mineral springs and curling up together in cozy stone shelters as your shared footsteps reawaken sleepy forest lanterns.
+3. [**The Brass Counterweight Gondola Way**](#crossroads-path-brass-counterweight-way) — Board the oak-and-brass water-balanced sky gondola rising smoothly into the Amber Crags past singing bronze wind-harps, helping the cliffside Star-Keepers recalibrate moon-rings knocked out of phase by The Great Drift.
 
 ***
 
 # Story Path: The Glasswater Lantern-Barge Canal {#crossroads-path-lantern-barge-canal}
 
-*Step onto barge-master Maren's wide reed-and-cedar lantern boat—resting bare feet on cushioned planks with crutches stowed safe beside the gunwale while glowing blue glass lanterns drift toward the inner river towns.*
+*Step onto barge-master Maren's wide reed-and-cedar lantern boat—cuddling barefoot on cushioned planks with forearm crutches stowed safe beside the gunwale while Gwen's astronomy eye guides the barge through the misty stars of The Great Drift.*
 
 *[← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
 
@@ -241,21 +371,21 @@ There was no engine roar and no diesel exhaust—only the soft liquid *hush* of 
 
 When full indigo twilight deepened between the whispering reed beds and both moons rose clear in the water ahead of our bow, Maren brought forward two bowls of barley-and-root stew fragrant with wild rosemary and set a small brass sight-compass down on the low chest between us.
 
-"My eyes aren't as sharp for the faint marsh-stars as they were twenty winters back," Maren admitted warmly, nodding toward the shimmering twin-moon reflections stretching down the canal toward a fork of distant stone water-arches. "If either of you has an eye for star-angles above the mist, you'll more than earn your supper and cabin bunks all the way upriver."
+"My eyes aren't as sharp for the marsh-stars since the Great Drift started veiling the upper reaches in silver haze," Maren admitted warmly, nodding toward the shimmering twin-moon reflections stretching down the canal toward a fork of distant stone water-arches. "If either of you has an eye for star-angles above the mist, you'll more than earn your supper and a warm cabin berth to curl up in all the way upriver."
 
-Nolan grinned through a spoonful of hot stew and nudged my elbow. Back home, I had spent half my sleepless nights reading astronomy charts on my phone when leg cramps kept me awake; nobody had ever called it useful.
+Nolan grinned through a spoonful of hot stew and squeezed my waist under Grandpa Walter's green-and-navy plaid blanket. Back in Studio 2B on Elm Street, I had spent half my sleepless nights sketching binary moon tables in spiral notebooks when leg cramps or eighty-nine-degree heat kept me awake; nobody on Earth had ever called it useful.
 
-I lifted the warm brass sight-ring to my eye, lined its hairline wire between the smaller rose-amber moon and a cluster of seven blue-white stars hanging like a lantern hook above the eastern reeds, and traced their mirror-twin angle across the black-glass water.
+I lifted the warm brass sight-ring to my eye while Nolan leaned close beside me, pointing out a faint sapphire current-seam rippling beneath the mist that even I would have missed without his lifelong eye for reading hidden ground ahead. Together I lined the hairline wire between the smaller rose-amber moon and seven blue-white stars hanging above the eastern reeds.
 
-"Two points north of the willow island," I called softly toward the stern. "The deep channel runs straight under the middle arch where the silver-star reflection stays unbroken."
+"Two points north of the willow island," I called softly toward the stern. "Nolan spotted the deep current-seam right where the silver-star reflection stays unbroken under the middle arch."
 
-Maren leaned on the tiller, felt the deep, silent pull of the main current catch our keel clean as silk, and let out an approving whistle. "Sharpest night-sight on the canal all season, tall sister! You two have a berth aboard this boat as far upriver as you care to roam."
+Maren leaned on the tiller, felt the deep, silent pull of the main channel catch our keel clean as silk—and as our prow glided beneath the stone arch, its long-dormant archway beacon chimed softly and bloomed bright sapphire above the water. Maren let out an awed whistle. "By the Slow-Footed Order, tall sister! Even the lock-lamps know the two of you! You have a warm cabin berth aboard this boat all the way to the Waystation steps."
 
-Nolan leaned back against the cushioned prow beside me under our shared plaid blanket, wiggling his bare toes in the warm lantern glow while silvery night-herons glided soundlessly alongside our gunwale.
+Nolan wrapped his arm snug around me on the cushioned prow under Grandpa Walter's plaid blanket, holding my hand over our knees while silvery night-herons glided soundlessly alongside our gunwale.
 
-"Nobody on hold," Nolan murmured against my arm. "Nobody telling us we're in the way. And we're moving ten miles tonight without taking a single painful step."
+"Nobody on hold," Nolan murmured against my hair. "Nobody trying to split us onto separate clipboards. And tonight when Maren ties up at the reed-quay, we curl up warm under Grandpa's blanket without a single broken compressor rattling in our ears."
 
-I rested my head down on my brother's shoulder, watching two moons ripple in blue-and-gold ribbons ahead of our bow, already certain in my bones that whatever waited at the far end of these waterways was going to become our real home.
+I rested my head down on my twenty-four-year-old brother's shoulder, watching two moons ripple in blue-and-gold ribbons ahead of our bow, already certain in my bones that waking the Waystation at the far end of these waterways was going to give us our forever home.
 
 ***
 
@@ -263,7 +393,7 @@ I rested my head down on my brother's shoulder, watching two moons ripple in blu
 
 # Story Path: The Whisperwood Cushion-Moss Road {#crossroads-path-whisperwood-moss-road}
 
-*Walk unhurriedly at your own crutch pace over three-inch-deep emerald velvet moss beneath glowing twilight trees, where carved stone benches and warm geothermal foot-springs wait every quarter-mile.*
+*Walk unhurriedly at your own forearm-crutch pace over three-inch velvet moss laid by the Slow-Footed Order, soaking bare feet in 98-degree mineral springs and curling up together in cozy stone shelters as your shared footsteps reawaken sleepy forest lanterns.*
 
 *[← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
 
@@ -301,13 +431,13 @@ Gwen and I didn't even have to vote. We rolled the cuffs of our blue jeans halfw
 
 Both of us let out the exact same involuntary sound of pure bliss.
 
-The mineral water was ninety-eight degrees to the drop, buoyant and silky around tired ankles, arches, and calves without a trace of sulfur smell. Within two minutes every tight tendon in my shins and forearms unknotted completely, while a tiny red-breasted forest robin hopped fearlessly onto the opposite rim to take a sip before ruffling its feathers at us.
+The mineral water was ninety-eight degrees to the drop, buoyant and silky around tired ankles, arches, and calves without a trace of sulfur smell. Better still, the moment Gwen and I settled close together on the mossy stone bench—my right arm wrapped warmly around her waist, her long left arm draped affectionately over my shoulders with her cheek resting against the crown of my head—the sleepy star-lamp carved into the basin's center stone gave a soft harmonic chime, brightening until the pale silver wisps of the Great Drift melted completely back from the clearing.
 
-"Back home," Gwen said softly, leaning her tall shoulder down against mine while wiggling her toes in the warm crystal ripples, "physical therapy charged ninety dollars a copay for fifteen minutes in a stainless-steel whirlpool tub under buzzing fluorescent tubes."
+"Back on Elm Street," Gwen murmured happily, hugging my shoulders tighter while wiggling her bare toes beside mine in the warm crystal ripples, "physical therapy charged ninety dollars a copay for fifteen minutes in a stainless-steel tub under buzzing fluorescent tubes, and we still had twenty-two stairs waiting for us at Studio 2B."
 
-"And nobody handed out free chestnuts afterward," I agreed, reaching over to set a handful of sweet scored chestnuts onto the flat warming-stone beside the shelter's small hearth-brazier until their shells popped fragrant and golden.
+"And zero free roasted chestnuts or dry moss beds waiting ten feet away," I grinned, nodding toward the cozy stone pilgrim shelter right behind our bench, where a thick, clean mattress of fragrant dried star-moss sat ready beneath a warm hearth-brazier for the two of us to curl up together under Grandpa Walter's green-and-navy plaid blanket for the night.
 
-As the canopy blossoms brightened overhead like an indoor galaxy of blue and gold stars and the warm water cradled our bare feet, neither Gwen nor I looked back toward the borderland bridge once. Whatever lay deeper along this mossy road, this forest already treated us more like family than the world we had left behind.
+As the bioluminescent canopy brightened overhead like an indoor galaxy of blue and gold stars and the warm water cradled our bare feet, neither Gwen nor I looked back toward the borderland bridge once. Every lantern our matched footsteps woke along the Slow-Footed Order's road pointed toward the high Waystation—and a world that already loved the two of us back.
 
 ***
 
@@ -315,7 +445,7 @@ As the canopy blossoms brightened overhead like an indoor galaxy of blue and gol
 
 # Story Path: The Brass Counterweight Gondola Way {#crossroads-path-brass-counterweight-way}
 
-*Board the ancient oak-and-brass counterweight cable gondola rising smoothly up the Amber Crags past singing bronze wind-harps, where cliffside astronomers keep warm kitchens and ancient star-rings.*
+*Board the oak-and-brass water-balanced sky gondola rising smoothly into the Amber Crags past singing bronze wind-harps, helping the cliffside Star-Keepers recalibrate moon-rings knocked out of phase by The Great Drift.*
 
 *[← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
 
@@ -351,17 +481,17 @@ Twelve minutes of effortless sky-gliding delivered our car dead-level onto the f
 
 Waiting on the terrace beside a six-foot armillary sphere of nested brass rings stood Sister Caelia, an elderly astronomer with silver braids and ink-stained cuffs who greeted our bare feet and cotton t-shirts as warmly as if we were visiting scholars arriving by royal carriage. While Nolan accepted a warm wooden platter of rosemary flatbread straight off the hearthstone so we could eat sitting down on a cushioned stone window-seat overlooking fifty leagues of twilight cloud-sea, my eyes went straight to a stuck vernier gear on Caelia's outer moon-ring.
 
-"The rose moon runs three degrees ahead of the ivory moon every fourth night, doesn't it?" I asked, tilting my head as the twin moons cleared the eastern crags. "Your outer brass ring is pinned for a circular orbit, not an elliptical sway."
+"The rose moon has slipped three degrees ahead of the ivory moon in the Great Drift, hasn't it?" I asked, tilting my head as the twin moons cleared the eastern crags—the exact three-to-two binary resonance I had traced in my library notebook during our eighty-nine-degree August afternoon in Studio 2B. "Your outer brass ring is pinned for a single circular orbit, not a shared twin-moon barycenter."
 
-Sister Caelia froze with her brass dividers mid-air, stared from the twin moons to my finger pointing at the third vernier pin, and broke into a radiant grin.
+Sister Caelia froze with her brass dividers mid-air, stared from the twin moons to my finger pointing at the third vernier pin—and when Nolan stepped up on his silver forearm crutches right beside my charcoal pair and steadied the lower horizon ring at the exact moment I slid the upper rose-moon vernier into place, a deep, sweet chord hummed right through the brass frame, scattering the pale Drift-mist off the terrace parapet! Sister Caelia broke into a radiant grin.
 
-"Child, three apprentices have argued with that gear since midsummer without seeing the ellipse!" she exclaimed. "If you and your brother are traveling inward across the crag-spans, you have honored guest quarters at every sky-terrace between here and the high peaks—no climbs, warm hearths, and all the star-charts you care to read!"
+"Bless the Slow-Footed Founders—two hearts in one cadence!" she exclaimed softly. "Three scholars tried turning that vernier alone since midsummer and couldn't budge the pin! If you and your brother are bound inward to wake the high Waystation, our warmest hearth-alcove and deepest wool quilts are yours tonight—zero stairs, hot rosemary bread, and all the star-charts you care to read!"
 
-Nolan tore a steaming piece of herb flatbread in half, passed me the bigger piece, and clinked his mug of warm honeyed milk softly against mine as the cliffside wind-harps sang out across the violet clouds.
+Nolan tore a steaming piece of herb flatbread in half, passed me the bigger piece, and pulled me into a warm one-armed hug on the cushioned stone window-seat under Grandpa Walter's green-and-navy plaid blanket as the cliffside wind-harps sang out across the violet clouds.
 
-"Hear that, flagpole?" Nolan grinned, resting his bare feet beside mine on a thick woven hearth-rug. "We've been in this world less than twenty-four hours and you're already fixing ancient astronomical instruments."
+"Hear that, flagpole?" my twenty-four-year-old brother grinned, resting his bare feet beside mine on the thick woven hearth-rug before we curled up together for the night. "One day out of Elm Street and this world already knows why we belong together."
 
-Looking out past the brass rings toward endless painted horizons where nobody treated crutches like an inconvenience or height like an oddity, I squeezed my brother's hand under our old sofa blanket—already knowing in my heart that Earth could keep our apartment keys forever.
+Looking out past the gleaming brass rings toward the high crags where the Uncharted Waystation waited for us, I hugged Nolan tight under Grandpa's blanket—knowing in my bones that Earth could keep Studio 2B's keys forever.
 
 ***
 
