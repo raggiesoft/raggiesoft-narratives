@@ -3,7 +3,7 @@ title: "The Paused 9:15 PM VCR Clock & Reciprocal Time Between Studio 2B and Vae
 subtitle: "Why the Twin-Ring Astrolabe Chose Nolan & Gwen, Why They Didn't Know Earth Stood Still Until Returning, and What Happened Inside Their Emerald Creek Apartment"
 category: "The Uncharted Waystation — Behind the Scenes"
 property: "books"
-date: "2001-10-19"
+date: "2002-10-25"
 time: "21:15 EDT"
 location: "Studio 2B in Emerald Creek, Chesapeake, Virginia & Keepers' Hall, Vaeloria"
 sender: "RaggieSoft Backstage Worldbuilding & Metaphysics Dossier"
@@ -15,7 +15,7 @@ imageAlt: "Stepping out of a glowing golden-amber stained-glass archway back int
 summary: "What actually happens to Nolan and Gwen Lennox's tiny rectangular Studio 2B in Chesapeake while they journey barefoot across Vaeloria on their forearm crutches? Explore why the Slow-Footed Order's Astrolabe called them, their real initial fear before wonder took hold, the moment they return to find their VCR clock still frozen at 9:15 PM, and the Waystation's covenant of reciprocal paused time."
 ---
 
-When an oval of warm amber stained-glass light opens beside Nolan's corner full-sized bed at **`9:15 PM`** on a rainy Friday night in October 2001 in [***The Uncharted Waystation***](https://books.raggiesoft.com/waystation), twenty-four-year-old **Nolan Lennox** (`5'7"`) and his newly nineteen-year-old sister **Gwen Lennox** (`6'1"`) tumble barefoot into the distant **Star-Moss Hollow** of Vaeloria carrying only **Grandpa Walter's** green-and-navy plaid wool blanket and their four single-tube Lofstrand forearm crutches—watching the rift wink shut ten feet short of both of their manual wheelchairs.
+When an oval of warm amber stained-glass light opens beside Nolan's corner full-sized bed at **`9:15 PM`** on a rainy Friday night in October 2002 in [***The Uncharted Waystation***](https://books.raggiesoft.com/waystation), twenty-four-year-old **Nolan Lennox** (`5'7"`) and his newly nineteen-year-old sister **Gwen Lennox** (`6'1"`) tumble barefoot into the distant **Star-Moss Hollow** of Vaeloria carrying only **Grandpa Walter's** green-and-navy plaid wool blanket and their four single-tube Lofstrand forearm crutches—watching the rift wink shut ten feet short of both of their manual wheelchairs.
 
 Readers naturally wonder two immediate behind-the-scenes questions: **Why did Vaeloria reach across the cosmos for these two specific siblings in Chesapeake, Virginia—and what happened to Studio 2B back on Earth while they were gone?**
 
@@ -50,7 +50,7 @@ Once Nolan and Gwen reach the high crags at the end of Chapter 5, turn the Twin-
 
 Bracing themselves for stacked-up weekend mail or a blinking voicemail light from work, Nolan and Gwen step back into Studio 2B for the very first time—and stop dead in the middle of their eleven-by-eighteen-foot rectangular studio:
 
-* **The `9:15 PM` Revelation:** Across the narrow wood floor atop Nolan's oak dresser, the glowing green LED display on his brushed-silver **VCR and DVD combo unit** still reads **`9:15`**. Rain from that exact Friday night in October 2001 is still poised on the silent window A/C unit above their corner full-sized bed, and Gwen's open **`Quantum OS 2000 Professional`** laptop on the milk-crate nightstand hasn't even triggered its ten-minute screen saver!
+* **The `9:15 PM` Revelation:** Across the narrow wood floor atop Nolan's oak dresser, the glowing green LED display on his brushed-silver **VCR and DVD combo unit** still reads **`9:15`**. Rain from that exact Friday night in October 2002 is still poised on the silent window A/C unit above their corner full-sized bed, and Gwen's open **`Quantum OS 2000 Professional`** laptop on the milk-crate nightstand hasn't even triggered its ten-minute screen saver!
 * **Bringing Their Treasures Home to Keepers' Hall:** Relieved beyond measure that zero shifts were missed and zero neighbors ever worried, Nolan and Gwen pack the pieces of Earth they genuinely cherish:
   1. **Grandpa Walter's silver-framed photograph** off the oak dresser;
   2. **Both of their `Quantum OS 2000 Professional` laptops** and power cords;
