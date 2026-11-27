@@ -364,7 +364,7 @@ At quarter to four, when the very last World History definition was underlined n
 
 Gwen looked sideways at me for a quiet second—noticing how, even on the Sunday after my very first night away from home with a brand-new girlfriend, I hadn't spent the afternoon hovering by the kitchen wall phone or rushing back out the door to Route 15. I was right here at our table where I always was. Smiling softly to herself, my little sister rested her head briefly against the top of my hair before rolling her chair toward the counter to put the kettle on for hot chocolate, both of us completely content in our quiet Sunday routine.
 
-### Part 5: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
+### Part 6: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
 
 **Date:** 2000-10-17 at 08:30 America/New_York
 
@@ -538,7 +538,7 @@ That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of c
 
 Come December first, my name would drop off Tammy's lease automatically with zero overlap, leaving me free to sign a lease of my own on a tiny second-floor studio inside an older nineteen-sixties high-rise apartment tower four blocks from Blue Tech. Come Thursday evening over birthday cake, I couldn't wait to ask my sister if she wanted to come live with me.
 
-### Part 6: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
+### Part 7: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
 
 **Date:** 2000-10-19 at 18:30 America/New_York
 
@@ -608,7 +608,7 @@ Gwen pulled back just enough to cup both sides of my face in her palms, looking 
 
 True to her word, Gwen booted up her clunky gray laptop running Quantum OS 98 right there on an upturned packing crate beside me, drafted a neat checklist of final meter-read dates while leaning warm against my shoulder, and refused to go to sleep until every single envelope was stacked, stamped, and conquered together.
 
-### Part 7: Moving Into a Rectangular Box and Quantum OS 2000
+### Part 8: Moving Into a Rectangular Box and Quantum OS 2000
 
 **Date:** 2000-12-01 at 16:15 America/New_York
 
@@ -664,7 +664,7 @@ Nolan grinned from ear to ear, reached down to his zippered CD wallet beside his
 
 While blue setup bars marched steadily across my screen and Nolan—happily back in his element of clean technical routines—lined all four of our forearm crutches in exact height order beside the footboard before fine-tuning the V-shaped rabbit ears atop our swiveled television until snowy local broadcast cleared into a late-night nineteen-eighties fantasy movie, I curled right up against my big brother's side under Grandpa Walter's plaid wool blanket. Being neurotypical while growing up five years behind a verbal autistic big brother meant I had known my whole life how deeply Nolan thrived on plain truth, zero yelling, and quiet, predictable affection—and even Grandpa Walter and I had genuinely approved of polite, soft-spoken Tammy that first evening we drove out to pick Nolan up from her trailer when I was sixteen, long before her temper began to turn. Exhausted from weeks of funeral and house-sale chaos, broke as church mice, and crammed into a rectangular one-person box where nobody would ever play mind games with my brother again, I felt happier than I had been in two whole years just having Nolan safe beside me.
 
-### Part 8: Eighty-Nine Degrees and One Rattling Fan
+### Part 9: Eighty-Nine Degrees and One Rattling Fan
 
 **Date:** 2001-08-18 at 15:10 America/New_York
 
