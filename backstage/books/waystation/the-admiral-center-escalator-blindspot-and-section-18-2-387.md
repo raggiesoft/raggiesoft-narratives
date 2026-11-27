@@ -8,14 +8,14 @@ time: "12:14 EDT"
 location: "Third-Floor Food Court Escalator Well, The Admiral Center, Downtown Norfolk, Virginia"
 sender: "RaggieSoft Backstage Narrative POV & Legal Notes"
 recipient: "Readers of The Uncharted Waystation & Visitors to backstage.raggiesoft.com"
-relatedBookUrl: "https://books.raggiesoft.com/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-16-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize"
-relatedBookLabel: "The Uncharted Waystation — Chapter 1, Part 16: Third-Floor Food Court, Laced Fingers, and Nothing Left to Weaponize"
+relatedBookUrl: "https://books.raggiesoft.com/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-17-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize"
+relatedBookLabel: "The Uncharted Waystation — Chapter 1, Part 17: Third-Floor Food Court, Laced Fingers, and Nothing Left to Weaponize"
 image: "https://assets.raggiesoft.com/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_admiral_center_food_court_tammy.jpg"
 imageAlt: "Beneath the vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk, Mallory Walsh laces her fingers firmly over Nolan Lennox's hand on the tabletop alongside Gwen Lennox in her manual wheelchair while petite five-foot-tall ex-girlfriend Tammy stands speechless on the left with her arms crossed over her unzipped baby-blue cardigan."
-summary: "Because Chapter 1, Part 16 stays locked inside Nolan Lennox's first-person point of view, Nolan only sees Tammy step up to the planter rail already boiling with jealousy. Go behind the camera to learn what Tammy was actually preparing to do thirty seconds earlier on the escalator—and the Virginia indecent-exposure arrest she narrowly avoided when she spotted Mallory Walsh at the table."
+summary: "Because Chapter 1, Part 17 stays locked inside Nolan Lennox's first-person point of view, Nolan only sees Tammy step up to the planter rail already boiling with jealousy. Go behind the camera to learn what Tammy was actually preparing to do thirty seconds earlier on the escalator—and the Virginia indecent-exposure arrest she narrowly avoided when she spotted Mallory Walsh at the table."
 ---
 
-In [***The Uncharted Waystation* — Chapter 1, Part 16**](https://books.raggiesoft.com/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-16-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize), the narrative camera stays locked one hundred percent inside twenty-four-year-old **Nolan Lennox's** first-person point of view at a sunlit corner table on the third-floor food court of **The Admiral Center** in Downtown Norfolk.
+In [***The Uncharted Waystation* — Chapter 1, Part 17**](https://books.raggiesoft.com/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-17-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize), the narrative camera stays locked one hundred percent inside twenty-four-year-old **Nolan Lennox's** first-person point of view at a sunlit corner table on the third-floor food court of **The Admiral Center** in Downtown Norfolk.
 
 From Nolan's seat, his ex-girlfriend **Tammy** simply materializes three feet to the left of the brass planter rail with her arms crossed tightly over her ribs, already blotchy-pink with spite and ready to attack **Mallory Walsh**.
 
@@ -29,7 +29,7 @@ When Tammy rode the glass escalator up to the third-floor food court off `CVTA R
 
 For nine straight months—through all ninety days Tammy had refused to sign Nolan off her *Pinecrest Court* trailer lease until midnight on November 30, 2001—Tammy had convinced herself that autistic, literal-minded Nolan could never find another partner on his own, and that one bold physical jolt would collapse his resolve the exact same way she had reeled him back in after Breakup #1 (`September 2000`) and Breakup #2 (`May 2001`).
 
-Stepping off the upper escalator comb-plate in her unzipped baby-blue cardigan over a single thin camisole, **Tammy was fully prepared to walk straight up beside Nolan's chair, use the open lapels of her cardigan to angle away from the counter line, and flash her breasts directly at Nolan right there in the public mall food court to try to win him back**—repeating the exact desperation move she had attempted nine months earlier inside the Norfolk Pathfinder bus terminal (`Chapter 1, Part 9`).
+Stepping off the upper escalator comb-plate in her unzipped baby-blue cardigan over a single thin camisole, **Tammy was fully prepared to walk straight up beside Nolan's chair, use the open lapels of her cardigan to angle away from the counter line, and flash her breasts directly at Nolan right there in the public mall food court to try to win him back**—repeating the exact desperation move she had attempted nine months earlier inside the Norfolk Pathfinder bus terminal (`Chapter 1, Part 10`).
 
 ---
 

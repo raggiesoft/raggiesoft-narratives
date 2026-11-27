@@ -451,6 +451,22 @@ foreach ($narrativeDirs as $narrativeDir) {
         }
         unset($group);
 
+        /* Discover any Diamond Convergence (`"rejoin_part": "e001/c002/p001.md"`) coordinates so
+         * converged `paths_dir` branches link straight forward into the shared continuation instead of
+         * duplicating post-convergence chapters! */
+        $rejoinBoundsByRel = [];
+        foreach ($rawCxList as $cxScan) {
+            foreach (($cxScan['options'] ?? []) as $optScan) {
+                $rjRel = ltrim(str_replace('\\', '/', trim((string)($optScan['rejoin_part'] ?? ''))), '/');
+                if ($rjRel !== '' && preg_match('#^e(\d+)/c(\d+)/p(\d+)\.md$#', $rjRel, $rm)) {
+                    $rejoinBoundsByRel[$rjRel] = [
+                        'bounds' => [(int)$rm[1], (int)$rm[2], (int)$rm[3]],
+                        'anchor' => 'crossroads-rejoin-' . slugify(str_replace(['/', '.md'], ['-', ''], $rjRel)),
+                    ];
+                }
+            }
+        }
+
         /* 100-LEVEL PHP LESSON — RECURSIVE ANONYMOUS CLOSURE:
          * Assigning `$renderContainerRecursive = null;` first and capturing it by
          * reference (`use (&$renderContainerRecursive, ...)`) lets this closure call
@@ -460,7 +476,7 @@ foreach ($narrativeDirs as $narrativeDir) {
             string $containerDir,
             string $containerKey,
             ?array $initialStartAfter
-        ) use (&$renderContainerRecursive, $narrativeDir, $baseDir, $cxByContainer): string {
+        ) use (&$renderContainerRecursive, $narrativeDir, $baseDir, $cxByContainer, $rejoinBoundsByRel): string {
             $cxs = $cxByContainer[$containerKey] ?? [];
             /* Base case: no Crossroads inside this directory -> render all remaining chapters linearly. */
             if (empty($cxs)) {
@@ -477,6 +493,29 @@ foreach ($narrativeDirs as $narrativeDir) {
                 $cxTitle = trim((string)($cx['title'] ?? 'Story Crossroads'));
                 $cxPrompt = trim((string)($cx['prompt'] ?? ''));
                 $cxOptions = is_array($cx['options'] ?? null) ? $cx['options'] : [];
+
+                /* If we are in the root container (`""`) and a diamond-convergence `rejoin_part` lies
+                 * strictly between `$cursorStartAfter` and `$stopBound`, emit the pre-rejoin inline chapters
+                 * first, place the `{#crossroads-rejoin-...}` convergence banner right before `rejoin_part`,
+                 * and then continue smoothly up to `$stopBound`! */
+                if ($containerKey === '' && $cursorStartAfter !== null && !empty($rejoinBoundsByRel)) {
+                    foreach ($rejoinBoundsByRel as $rjInfo) {
+                        $rjb = $rjInfo['bounds'];
+                        if ($rjb > $cursorStartAfter && $rjb <= $stopBound) {
+                            /* Inclusive upper bound right before `[rEra, rChap, rPart]`:
+                             * if `rPart > 1`, stop at `[rEra, rChap, rPart - 1]`; else if `rChap > 1`,
+                             * stop at `[rEra, rChap - 1, 999999]`; else `[rEra - 1, 999999, 999999]`. */
+                            $preRjStop = $rjb[2] > 1
+                                ? [$rjb[0], $rjb[1], $rjb[2] - 1]
+                                : ($rjb[1] > 1 ? [$rjb[0], $rjb[1] - 1, 999999] : [$rjb[0] - 1, 999999, 999999]);
+                            $out .= renderEraDirectoryRange($containerDir, $baseDir, $preRjStop, $cursorStartAfter);
+                            $out .= "***\n\n";
+                            $out .= "#### All Earlier Story Paths Converge Here {#" . $rjInfo['anchor'] . "}\n\n";
+                            $out .= "***\n\n";
+                            $cursorStartAfter = $preRjStop;
+                        }
+                    }
+                }
 
                 /* 1. Emit shared story chapters up through the `trigger_part` scene (`$stopBound`). */
                 $out .= renderEraDirectoryRange($containerDir, $baseDir, $stopBound, $cursorStartAfter);
@@ -497,7 +536,8 @@ foreach ($narrativeDirs as $narrativeDir) {
                 }
                 $out .= "\n***\n\n";
 
-                /* 3. Emit each `paths_dir` Story Path section (with return links back to `#$cxAnchor`),
+                /* 3. Emit each `paths_dir` Story Path section (with return links back to `#$cxAnchor`
+                 *    plus forward convergence jump links when `"rejoin_part"` is set!),
                  *    and remember if one option uses `inline_continuation` in the current folder. */
                 $inlineOpt = null;
                 foreach ($cxOptions as $idx => $opt) {
@@ -510,6 +550,7 @@ foreach ($narrativeDirs as $narrativeDir) {
                     $optIdSlug = slugify($optIdRaw);
                     $optLabel = trim((string)($opt['label'] ?? ('Path ' . ($idx + 1))));
                     $optSub = trim((string)($opt['subtitle'] ?? ''));
+                    $optRejoinRel = ltrim(str_replace('\\', '/', trim((string)($opt['rejoin_part'] ?? ''))), '/');
                     $relDir = trim(str_replace('\\', '/', trim((string)($opt['source_dir'] ?? "paths/{$optIdRaw}"))), '/');
                     $absPathDir = $narrativeDir . '/' . $relDir;
 
@@ -522,7 +563,12 @@ foreach ($narrativeDirs as $narrativeDir) {
                         $out .= $renderContainerRecursive($absPathDir, $relDir, null);
                     }
                     $out .= "***\n\n";
-                    $out .= "*End of Story Path: {$optLabel}. [← Return to the Story Crossroads](#{$cxAnchor})*\n\n";
+                    if ($optRejoinRel !== '' && isset($rejoinBoundsByRel[$optRejoinRel])) {
+                        $rjAnc = $rejoinBoundsByRel[$optRejoinRel]['anchor'];
+                        $out .= "*Story Path Converges — [Continue to the Shared Storyline →](#{$rjAnc}) • [← Return to the Story Crossroads](#{$cxAnchor})*\n\n";
+                    } else {
+                        $out .= "*End of Story Path: {$optLabel}. [← Return to the Story Crossroads](#{$cxAnchor})*\n\n";
+                    }
                 }
 
                 /* If an option continues inline inside `$containerDir`, emit its `# Story Path:`
