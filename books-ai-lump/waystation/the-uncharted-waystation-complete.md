@@ -1056,13 +1056,13 @@ Grandpa Walter had kept his word. Even after his tired heart finally slipped ont
 
 Across the table, Grandpa Walter gave me one small, unmistakable nod.
 
-My palms felt damp where I wiped them against my jeans knees. Because Tammy over at Pinecrest Court was stubbornly refusing to sign a roommate release—convinced I was going to come crawling back—my written non-renewal notice wouldn't clear my name off her trailer lease until midnight on November thirtieth, meaning I couldn't sign a new apartment lease until December first. All afternoon since checking out the tiny second-floor studio inside an older eight-story nineteen-sixties apartment tower four blocks down from Emerald Creek Mall near Blue Tech, a quiet knot of nervousness had sat under my ribs—wondering if six-foot-one Gwen would hear *rectangular one-person box with one bed* and wish she could go find roommates her own age instead.
+My palms felt damp where I wiped them against my jeans knees. Because Tammy over at Pinecrest Court was stubbornly refusing to sign a roommate release—convinced I was going to come crawling back—my written non-renewal notice wouldn't clear my name off her trailer lease until midnight on November thirtieth, meaning I couldn't sign a new apartment lease until December first. Worse, spending the past month calling every modern apartment complex around Emerald Creek had taught me a cold math lesson: every suburban one- and two-bedroom near Blue Tech demanded paystubs showing three times monthly rent—over seven hundred and fifty dollars a month—leaving zero chance of qualifying on part-time retail hours. The one place in Hampton Roads where my paystubs actually cleared was right across the river in Norfolk: Studio 205, a three-hundred-ninety-five-dollar utilities-included second-floor efficiency inside Harborview Towers, a twenty-story nineteen-sixty-five high-rise overlooking The Hague inlet off West Brambleton Avenue right on CVTA Routes 2 and 11 and six blocks from Ghent High School. All afternoon a quiet knot of nervousness had sat under my ribs—wondering if six-foot-one Gwen would hear *rectangular one-person Norfolk studio with one bed and transferring schools mid-junior year* and wish she could go find roommates instead.
 
-"Hey, Gwenny... my written notice at Pinecrest doesn't clear until the end of November, so I can't sign a lease on my own place until December first," I said, rubbing the back of my neck. "And the second-floor studio I picked out inside that older apartment tower down the street from my shifts at Blue Tech is tiny—literally an eleven-by-eighteen-foot box built for one person, only big enough for my one full-sized bed in the corner and a dorm fridge under the counter. Still, come December first... do you want to come live with me?"
+"Hey, Gwenny... my written notice at Pinecrest doesn't clear until the end of November, so I can't sign a lease on my own place until December first," I said, rubbing the back of my neck. "Every apartment around Emerald Creek wanted way more income than Blue Tech pays part-timers, so the one place I qualified for is across the river in Norfolk—Studio 205 on the second floor of Harborview Towers off West Brambleton Avenue, right on the two and eleven buses and six blocks from Ghent High School. It's tiny—literally an eleven-by-eighteen-foot box built for one person, only big enough for my one full-sized bed in the corner and a dorm fridge under the counter. Still, come December first... do you want to come live with me?"
 
 Gwen stared at me across the frosted cake for half a second—and then let out a joyous gasp that made the forks jump on the placemats.
 
-Without hesitating for a split second about waiting six weeks or squeezing into a tiny room, my newly eighteen-year-old sister unlocked her wheelchair brakes, rolled two feet around the table corner, and threw both arms around my neck so exuberantly she nearly tipped me backward off my kitchen chair.
+Without hesitating for a split second about waiting six weeks, switching out of the Chesapeake school district she had hated ever since elementary school, or squeezing into a tiny room, my newly eighteen-year-old sister unlocked her wheelchair brakes, rolled two feet around the table corner, and threw both arms around my neck so exuberantly she nearly tipped me backward off my kitchen chair.
 
 "Are you serious?! Yes! A million times yes!" Gwen laughed, kissing the top of my head and hugging me with all her might, practically bouncing with excitement. "First you finally dump Tammy, and now you're asking me to live with you?! Nolan, I don't care if it's the size of a shoebox—we're living together, and I promise I'm always going to be there for my big brother!"
 
@@ -1112,21 +1112,21 @@ Gwen pulled back just enough to cup both sides of my face in her palms, looking 
 
 True to her word, Gwen booted up her clunky gray laptop running Quantum OS 98 right there on an upturned packing crate beside me, drafted a neat checklist of final meter-read dates while leaning warm against my shoulder, and refused to go to sleep until every single envelope was stacked, stamped, and conquered together.
 
-### Part 13: Moving Into a Rectangular Box and Quantum OS 2000
+### Part 13: Moving Into Studio 205 and Quantum OS 2000
 
 **Date:** 2001-12-01 at 16:15 America/New_York
 
-![Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg)
+![Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg)
 
 #### 4:15 PM — Zero Lease Overlap and Eleven Feet by Eighteen Feet of Freedom
 
 At midnight on November thirtieth—after more than three straight months in which Tammy over at Pinecrest Court had stubbornly refused to sign the early roommate release, holding out past Thanksgiving convinced that burying Grandpa Walter and selling our house would send a lonely Nolan running back to her trailer—my brother's written non-renewal notice expired right on schedule and severed his name off Tammy's lease forever without Nolan dialing her number once.
 
-By quarter past four on Saturday afternoon, December first, with the estate realtor's fresh *UNDER CONTRACT* rider hanging out on Grandpa Walter's front lawn and zero lease conflicts left anywhere in Virginia, we walked out of the leasing office of an older eight-story nineteen-sixties high-rise apartment tower four blocks from Blue Tech with two brand-new brass keys, unloaded Nolan's furniture out of the second bay of Grandpa's two-car garage, and unlocked Studio 2B together—where I took one look inside our tiny rectangular apartment, burst out laughing with pure happiness, and hugged my brother right in the centered entry doorway.
+By quarter past four on Saturday afternoon, December first, with the estate realtor's fresh *UNDER CONTRACT* rider hanging out on Grandpa Walter's front lawn in Chesapeake and zero lease conflicts left anywhere in Virginia, we walked out of the ground-floor leasing office of Harborview Towers—a twenty-story nineteen-sixty-five brick-and-concrete high-rise overlooking The Hague inlet off West Brambleton Avenue in Norfolk, right on CVTA Routes 2 and 11 and six blocks from Ghent High School where I was starting Monday morning to finish eleventh grade—holding two brand-new brass keys, unloaded Nolan's furniture out of a borrowed pickup from the second bay of Grandpa's garage, and unlocked Studio 205 together—where I took one look inside our tiny rectangular apartment, burst out laughing with pure happiness, and hugged my brother right in the centered entry doorway.
 
-Nolan hadn't exaggerated by half an inch: Studio 2B was an eleven-by-eighteen-foot rectangular shoebox designed strictly for one solitary tenant who didn't own two manual wheelchairs.
+Nolan hadn't exaggerated by half an inch: Studio 205 was an eleven-by-eighteen-foot rectangular shoebox designed strictly for one solitary tenant who didn't own two manual wheelchairs.
 
-Once we rode the groaning nineteen-sixties lobby elevator up to the second floor—the very last month that ancient elevator worked before the landlord taped a yellow out-of-order notice across the call button—and stepped past the short left-hand entry closet return into our room, you could see our entire new life in a single sweep. Flush in the far left corner against two perpendicular walls beneath a small beige window air-conditioner sat Nolan's fifty-four-inch full-sized bed, draped immediately in Grandpa Walter's dark-green and navy-blue plaid wool blanket to double as our bed by night and our only couch by day. Along the stepped-in front-right wall right inside the doorway stood Nolan's scuffed oak dresser—now split evenly, top two drawers mine, bottom two drawers his—topped by a chunky nineteen-inch television with V-shaped metal rabbit ears and a brushed-silver dual-deck VCR and DVD combo unit swiveled cleanly toward the corner bed so Nolan and I could watch movies together propped against the pillows or seated in our wheelchairs. Just past the dresser, where the right wall recessed two feet outward, both of our manual wheelchairs parked neatly beside a narrow three-foot pine bathroom door, while along the unobstructed back-right wall ran the tiniest functional kitchen in Virginia: a dorm-style mini-fridge tucked underneath the counter with clear floor space to swing the door wide, a narrow single sink, a compact natural-gas oven, and Nolan's white microwave perched on a rolling wire cart whose lower wire shelves doubled as our entire pantry of canned soup, rolled oats, peanut butter, and macaroni boxes.
+Once we rode the groaning nineteen-sixty-five lobby elevator up to the second floor—the very last month that ancient elevator worked reliably before the landlord taped a yellow out-of-order notice across the call button—and stepped past the short left-hand entry closet return into our room, you could see our entire new life in a single sweep. Flush in the far left corner against two perpendicular walls beneath a small beige window air-conditioner sat Nolan's fifty-four-inch full-sized bed, draped immediately in Grandpa Walter's dark-green and navy-blue plaid wool blanket to double as our bed by night and our only couch by day. Along the stepped-in front-right wall right inside the doorway stood Nolan's scuffed oak dresser—now split evenly, top two drawers mine, bottom two drawers his—topped by a chunky nineteen-inch television with V-shaped metal rabbit ears and a brushed-silver dual-deck VCR and DVD combo unit swiveled cleanly toward the corner bed so Nolan and I could watch movies together propped against the pillows or seated in our wheelchairs. Just past the dresser, where the right wall recessed two feet outward, both of our manual wheelchairs parked neatly beside a narrow three-foot pine bathroom door, while along the unobstructed back-right wall ran the tiniest functional kitchen in Virginia: a dorm-style mini-fridge tucked underneath the counter with clear floor space to swing the door wide, a narrow single sink, a compact natural-gas oven, and Nolan's white microwave perched on a rolling wire cart whose lower wire shelves doubled as our entire pantry of canned soup, rolled oats, peanut butter, and macaroni boxes.
 
 "Okay, it's TINY," Nolan winced sheepishly on his matte-silver forearm crutches, glancing from the rolling microwave pantry cart to the single corner bed as old reflexes from Tammy's put-downs tried to hunch his shoulders inward. "I know you're six-foot-one, Gwenny, and squeezing down from Grandpa's two-story house and having your own full-sized bed upstairs to sharing one full bed and two dresser drawers is—"
 
@@ -1168,31 +1168,165 @@ Nolan grinned from ear to ear, reached down to his zippered CD wallet beside his
 
 While blue setup bars marched steadily across my screen and Nolan—happily back in his element of clean technical routines—lined all four of our forearm crutches in exact height order beside the footboard before fine-tuning the V-shaped rabbit ears atop our swiveled television until snowy local broadcast cleared into a late-night nineteen-eighties fantasy movie, I curled right up against my big brother's side under Grandpa Walter's plaid wool blanket. Being neurotypical while growing up five years behind a verbal autistic big brother meant I had known my whole life how deeply Nolan thrived on plain truth, zero yelling, and quiet, predictable affection—and even Grandpa Walter and I had genuinely approved of polite, soft-spoken Tammy that first evening we drove out to pick Nolan up from her trailer when I was sixteen, long before her temper began to turn. Exhausted from weeks of funeral and house-sale chaos, broke as church mice, and crammed into a rectangular one-person box where nobody would ever play mind games with my brother again, I felt happier than I had been in two whole years just having Nolan safe beside me.
 
-### Part 14: Eighty-Nine Degrees and One Rattling Fan
+### Part 14: Three Buses in the Sleet, One Downtown Lab Bench, and Final Out at Twelve-Thirty
+
+**Date:** 2002-02-12 at 19:45 America/New_York
+
+#### 7:45 PM — Three Hours of Transfers for Four Hours of Pay
+
+Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the feeling back into my thumbs.
+
+Ten weeks after unlocking Studio 205 on the second floor of Harborview Towers—a twenty-story nineteen-sixties brick-and-concrete high-rise overlooking The Hague inlet off West Brambleton Avenue at the edge of Ghent—living under our own Norfolk roof with Gwen was everything I had hoped for, and commuting back across the city line to the Emerald Creek Blue Tech was slowly grinding my joints into dust.
+
+On paper back in October, riding the bus from West Brambleton Avenue down to Chesapeake had looked doable because I already knew the route by heart from the afternoon I escaped Tammy at the Pathfinder station: catch CVTA Route 2 or Route 11 five minutes into Downtown Norfolk, transfer to eastbound Route 20 out Virginia Beach Boulevard to Glenrock, then catch southbound Route 15 down Military Highway to the curbless grassy island outside Emerald Creek Mall. In the middle of January and February's post-holiday retail payroll drought—with corporate slashing every part-timer down to fifteen hours a week across four-hour register shifts, and Harborview Towers' groaning nineteen-sixty-five lobby elevator wearing yellow out-of-order tape for the sixth straight week—that commute meant three hours and forty minutes of icy wind, slow hydraulic wheelchair lifts, and twenty-two terrazzo stairs at the end of the night just to bring home thirty-four dollars before taxes.
+
+"Your wrists are shaking, Nolan," eighteen-year-old Gwen said quietly from our shared fifty-four-inch bed, tucking Grandpa Walter's dark-green and navy-blue plaid wool blanket snug around my shoulders the second I sat down beside her in dry socks. Six blocks up through Ghent, Gwen had settled smoothly into finishing her eleventh-grade junior year at Ghent High School—thrilled beyond words to be out of the Chesapeake school district she had resented ever since elementary administrators held her back a full grade over childhood leg-surgery casts—yet watching me drag myself up twenty-two stairs after dark was putting a crease right between her eyebrows. "You spent almost four hours on three buses in sleet today for a four-hour shift."
+
+"Spring hours pick back up around Easter," I murmured automatically, resting my sore forearms across my lap. "And Mallory swapped me off Thursday's nine-fifteen close so I wouldn't get stranded at Glenrock if the twenty ran late."
+
+"Mallory's great, shortstop, and she'd tell you the exact same math I'm about to show you," Gwen said firmly, pivoting her upgraded Quantum OS 2000 Professional laptop on our milk-crate nightstand so the crisp screen angled straight toward my eyes. "Look what my computer-science teacher at Ghent High pinned on the classroom corkboard this afternoon—and I already pulled it up over dial-up to check the bus stop."
+
+Across the glowing white browser window sat a plain staff-vacancy notice from the Community College of Hampton Roads—downtown Norfolk campus, inside the Martin Building.
+
+*Part-Time Campus Computer Lab and Helpdesk Technician. Twenty-eight hours per week, Monday through Friday plus alternating Saturday morning open lab. Seated technical bench: imaging Quantum OS 2000 Professional workstations, maintaining NTFS student profiles, clearing network print queues, and assisting students at the third-floor counter.*
+
+My breath caught halfway through reading the bullet lines.
+
+"Wait... the Martin Building downtown?" I blinked, running the transit map in my head instantly. "That's straight down Route 2 or Route 11 from right outside our lobby. One bus. Six minutes. Zero transfers."
+
+"Seated workbench whenever your legs aren't feeling concrete, real elevator maintenance inside a public college building, nearly double your winter hours at two dollars more an hour, and zero curbless mall islands in freezing rain," Gwen grinned, nudging my shoulder warmly with hers. "You know Quantum OS 2000 better than anybody outside Mallory Walsh, Nolan. Print your resume before supper gets cold."
+
+***
+
+#### 12:31 PM, Saturday, March 2 — Zero Shared Payroll
+
+Eighteen days later—after troubleshooting a deliberately broken TCP/IP gateway and a jammed network print spooler in four minutes flat during a hands-on interview at the CCHR Norfolk Campus, accepting the job offer on the spot, and working every single scheduled minute of a clean two-week notice at the Emerald Creek Blue Tech—I slid my magnetic employee badge through the gray breakroom wall clock one last time.
+
+*12:31 PM — OUT.*
+
+Unclipping my royal-blue Blue Tech lanyard over my head, I handed it and my laminated register barcode card across the customer-service counter to Ray Halstead, shook his hand, and pulled my navy canvas windbreaker on over a plain civilian sweater before clicking my forearms into my matte-silver Lofstrand crutches.
+
+Halfway through the automatic glass exit doors onto the breezy March sidewalk, quick non-slip footsteps caught up right beside me.
+
+"Hold up a second before you hike over to the ring road, Nolan," Mallory Walsh said.
+
+I paused by the brick column clear of the cart corrals, turning toward her. Mallory had just punched out for her thirty-minute lunch; a brisk early-March wind tugged a loose strand of copper-auburn hair past the blue ballpoint pen tucked behind her right ear while she adjusted her thin silver wire-rimmed glasses with two fingers.
+
+"Wanted to make sure I caught you before the fifteen pulled up," I said earnestly, feeling a genuine tug of sadness under my ribs at leaving the one coworker who had made the past ten months bearable. "Thank you for everything since last spring, Mallory—the breakroom table, the Two-Thousand Professional tips, talking straight with me when my head was spun around. CCHR's got thirty lab machines running Two-Thousand Professional on a clean domain controller, and my commute starting Monday is literally six minutes on one bus."
+
+"Seated bench, steady weekday hours, and zero retail holiday chaos—they got the best tech in Tidewater," Mallory smiled warmly. Then she glanced down at her black digital wristwatch, looked back up into my hazel eyes, and tapped the small rectangular silver Shift Supervisor pin on her royal-blue collar with one fingertip.
+
+"Quick verification question before you go," Mallory said, her voice dropping into the crisp, literal cadence I knew better than anyone's outside my sister's. "Ray finalized your separation screen in payroll right after twelve-thirty, right? You're officially off Store Four-Twenty-One's roster?"
+
+"Yeah," I nodded, puzzled for half a second. "Zero shifts left. Completely off the system."
+
+Mallory let out a long, slow breath that looked like she had been holding it behind her ribs since August. Faint pink climbed straight across the freckles on her nose and cheeks—yet she didn't look away, didn't talk in hints, and didn't make me guess a single hidden rule.
+
+Reaching into the pocket spiral pad clipped beside her mini screwdriver pouch, she pulled out a neatly torn three-by-five index card covered in her clean block printing—her home telephone number in Kempsville, her personal email address, and *Off next Saturday all day*—and held it out to my free hand.
+
+"Okay, good," Mallory said plainly. "Remember back in August after you left Tammy, when I told you in the breakroom that I would never date anyone on my shift because I'm a supervisor and I refuse to let personal feelings compromise a single business decision?"
+
+My heart gave one huge, sudden thump against my sternum as I looked down at the index card in my fingers, then back up at her blue-gray eyes behind her glasses. "Yeah. I remember every word."
+
+"That wasn't a polite brush-off, Nolan," Mallory said honestly, standing dead-even on the pavement with zero neurotypical riddles between us. "I've really liked you for months—not just as somebody to talk kernel architecture with on lunch punch, *liked* you. Keeping it to myself while I wore this supervisor pin was the rule, so I followed the rule. As of four minutes ago, I'm not your supervisor anymore, and nobody in this building can ever call it a conflict of interest."
+
+For three full seconds my brain ran a complete diagnostic check on every word she had just spoken—confirming zero sarcasm, zero trap, and one hundred percent literal truth—before the widest, most astonished grin of my twenty-three years broke across my face.
+
+"Wait—you actually want to go out with me?" I asked, just to be one hundred percent sure I hadn't misread a single parameter.
+
+Mallory laughed softly, tension melting right out of her shoulders. "Yes, Nolan. Next Saturday afternoon—up in Ghent near your new neighborhood, so *I* make the drive across the river instead of you riding three buses. Coffee, lunch, zero timeclocks. Sound like a valid plan?"
+
+"Best plan I've heard all year," I beamed, tucking her index card carefully into my zippered inside jacket pocket so the wind couldn't touch it as my very last outbound Route 15 bus rolled up to the Emerald Creek Mall ring road.
+
+### Part 15: Twenty-Two Stairs to Studio 205, One Full-Sized Bed, and Zero Weirdness
+
+**Date:** 2002-03-09 at 14:20 America/New_York
+
+![Inside tiny rectangular Studio 205 on a rainy March 2002 afternoon in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg)
+
+#### 2:20 PM — Rain on West Brambleton and Honest Math at the Door
+
+Cold March rain began pelting the brick sidewalks along The Hague inlet half a block before Mallory Walsh and I reached the glass lobby doors of Harborview Towers off West Brambleton Avenue.
+
+"So much for clear radar until four," Mallory laughed, pulling the collar of her forest-green zip cardigan up around her chin while matching my unhurried forearm-crutch pace down the wet concrete ramp without rushing half a step ahead. Seeing Mallory outside a Blue Tech uniform—no royal-blue polo, no laminated override badge, no walkie-talkie static, just dark jeans, casual sneakers, and rain specks dotting her thin silver wire-rimmed glasses—still made my chest feel light as helium after two effortless hours over grilled-cheese sandwiches and soup four blocks up in Ghent. All through lunch, we hadn't run out of things to talk about for five seconds: my blissful first week at the seated CCHR computer lab bench downtown, how quiet thirty domain-joined workstations felt compared to eighty wall televisions blaring across a sales floor, and how Mallory had reorganized Store Four-Twenty-One's entire motherboard cage on Tuesday just to keep from missing our breakroom corner talks.
+
+"Come upstairs for twenty minutes until the squall passes," I offered as we stepped inside Harborview Towers' terrazzo nineteen-sixty-five lobby, shaking rainwater off my sleeves beside the brass mailbox bank. "Gwen's home working on her Ghent High physics packet, and we've got hot cocoa."
+
+"I'd love to meet the famous little sister who isn't actually little," Mallory smiled—then glanced toward the sliding brass elevator doors, where the landlord's faded yellow out-of-order sign hung taped crookedly across the call button. "Stairs okay on your wrists after walking down from Ghent?"
+
+"Only twenty-two steps up to the second floor," I said, taking the inner iron handrail at my steady one-step rhythm while Mallory walked comfortably beside me.
+
+Right outside the painted corridor door marked with brass numbers *205*, however, my hand slowed on my key ring.
+
+For three months, Studio 205 had only ever held Gwen and me. Standing in the narrow nineteen-sixties hallway beside a woman my own age whom I genuinely, deeply liked, an old defensive knot from two years of Tammy's put-downs tightened without warning behind my ribs. I pictured how a tiny eleven-by-eighteen-foot efficiency apartment looked to someone walking in off the street for the first time: no sofa, no bedroom wall, two manual wheelchairs parked by the bathroom door, a microwave sitting on a wire pantry cart, and one single fifty-four-inch full-sized bed in the corner shared every night by a twenty-three-year-old brother and his eighteen-year-old high-school sister.
+
+Lying or making up some fake story about a floor air mattress wasn't in my wiring—and even if it had been, Gwen was never something to apologize for.
+
+"Hey, Mallory... before I unlock the door, I want to give you the exact layout upfront so nothing catches you off guard," I said quietly, looking straight at her in the corridor light. "Studio 205 is tiny—an eleven-by-eighteen-foot one-room efficiency, three-hundred-ninety-five a month utilities included. Both of our wheelchairs stay inside, and there's only room for one full-sized bed in the corner, which doubles as our couch. Gwen and I share the bed—same way we grew up sharing Grandpa Walter's pull-out sofa downstairs whenever our legs weren't up for stairs. I just didn't want you walking in and thinking it was weird."
+
+Behind her rain-dotted silver wire-rimmed glasses, Mallory didn't blink weirdly, recoil half an inch, or get that tight, polite fake smile neurotypical people wear when they're silently judging you.
+
+Instead, her blue-gray eyes softened with immediate, crystal-clear understanding—running the exact real-world variables in two seconds flat.
+
+"Nolan, think about who you're talking to," Mallory said gently, resting two warm fingers lightly on the sleeve of my damp windbreaker. "Your grandfather's medical lien forced the sale of your childhood house right after he died, every two-bedroom apartment in Hampton Roads demands three times monthly rent on paystubs, and your sister was eighteen years old in the middle of eleventh grade. It was either share one bed as brother and sister inside a studio you could qualify for, or Gwen was out on the streets."
+
+My shoulders dropped two full inches as the knot behind my ribs vanished on the spot.
+
+"Why on Earth would I think keeping a safe roof over your sister's head is weird?" Mallory added plainly, a warm, genuine smile curving her mouth. "Honestly, Nolan, hearing how the two of you look out for each other is half the reason I respected you before I even knew you were single. Unlock the door before I drip on your hallway carpet."
+
+***
+
+#### 2:35 PM — Hot Cocoa, Twin Moons, and Big-Sister Approval From My Little Sister
+
+When I turned the brass lock and swung our centered front door inward against the short left closet return, six-foot-one Gwen looked up from her Ghent High spiral binder propped on Grandpa Walter's dark-green and navy-blue plaid wool blanket—and went onto instant, quiet big-sister radar despite being five years younger than me.
+
+Ever since Tammy slapped me in the Norfolk Pathfinder terminal last August, Gwen had guarded my peace like a hawk. As she rolled her manual wheelchair two feet forward from beside our oak dresser to shake Mallory's hand—towering even seated over five-foot-five Mallory—I saw Gwen's sharp green-hazel eyes take in every micro-detail of how Mallory stepped into our tiny rectangular room.
+
+Mallory didn't stare once at our single corner bed, didn't look down her nose at our rolling wire microwave-cart pantry or the dorm fridge tucked under our tiny sink, and automatically stepped eighteen inches clear of Gwen's front wheelchair casters without having to be asked so Gwen had full turning room on the hardwood strip.
+
+"You must be Gwen," Mallory said warmly, shaking Gwen's hand with steady, unhurried sincerity. "Nolan's told me about your straight-A streak and your binary-moon simulations since last May—though I have to admit, even with fair warning, six-foot-one is impressive!"
+
+"Somebody had to reach the top cereal shelf in this family, and Nolan tapped out at five-seven," Gwen grinned, though I could tell she was still watching closely as I filled three ceramic mugs at the tap and stirred hot cocoa packets at the microwave cart.
+
+What sealed Gwen's verdict in under four minutes flat happened right at the corner bed.
+
+Once I set our four Lofstrand forearm crutches—my shorter matte-silver pair and Gwen's taller matte-charcoal pair—neatly in height order against the wooden footboard and invited Mallory to sit beside me on the edge of Grandpa Walter's plaid blanket, Mallory's gaze landed on the open screen of Gwen's upgraded laptop angled on the milk-crate nightstand.
+
+"Hold on—is that a three-to-two orbital resonance plot running smoothly on Two-Thousand Professional without eating forty percent of your CPU?" Mallory asked, leaning six inches closer with her pure Store Four-Twenty computer-nerd enthusiasm lighting up every freckle on her face. "Did you write the time-step loop yourself, or is that an astronomy shareware build?"
+
+"Wrote the gravitational loop in December right after Nolan upgraded me off ninety-eight!" Gwen lit up instantly, gripping her cocoa mug as she angled the LCD screen so both Mallory and I had a clean view of the large pale moon and its smaller amber companion tracing steady ellipses across the dark window. "Before Nolan brought home that disc you told him about, the hybrid sixteen-bit kernel kept crashing every twenty minutes whenever the floating-point array rolled over!"
+
+"Protected ring-zero memory saves astronomy," Mallory declared happily, settling right back beside my shoulder on the plaid blanket as naturally as if our eleven-by-eighteen-foot box were the coziest living room in Norfolk.
+
+For the next hour while March rain drummed harmlessly against the window glass above our headboard and the brushed-silver VCR and DVD combo clock glowed calm green atop my oak dresser, nobody raised their voice, nobody dropped a single passive-aggressive hint, and nobody made me feel small for who I was or what we owned. Halfway through Mallory explaining how CCHR's campus backbone routed packets down to Granby Street—right while Mallory took a sip of hot cocoa—Gwen caught my eye from her wheelchair behind Mallory's left shoulder, beamed from ear to ear, and gave me the biggest, most unmistakable silent thumbs-up of my life.
+
+By the time the rain tapered off into late-afternoon mist over The Hague and I walked Mallory down the twenty-two stairs to her parked compact car on West Brambleton, we already had plans for Friday supper after my CCHR lab shift—and walking back upstairs to Studio 205, my life on Earth finally felt steady under both feet.
+
+### Part 16: Eighty-Nine Degrees and One Rattling Fan
 
 **Date:** 2002-08-17 at 15:10 America/New_York
 
 #### 3:10 PM — Dorm-Fridge Ice Pops and Bare Skin
 
-By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the shimmering Chesapeake asphalt outside.
+By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the shimmering Norfolk asphalt outside.
 
-Nearly nine months of building our permanent life side by side since moving in on December first—splitting one rectangular one-person apartment with zero intention of ever living apart, stretching skinny checks after Grandpa's medical lien ate almost every cent of the house sale proceeds, Gwen translating the outside neurotypical world's fine print the way Grandpa used to while I kept our computers and transit schedules running like clockwork, sharing our corner bed, cuddling every night, and getting dressed together without an ounce of awkwardness—had turned our tiny room into an unbreakable lifeboat. Down in the lobby, the landlord's yellow out-of-order tag still hung taped across the elevator button, meaning after six hours of wandering the computer and home-theater aisles on my crutches and ringing up registers over at Blue Tech, hauling every sack of groceries up to our rolling microwave-cart pantry took twenty-two wooden stairs while Gwen balanced our budget and ran freelance spreadsheet cleanups on her rock-solid Quantum OS 2000 Professional laptop.
+Eight and a half months of building our permanent life side by side since moving into Harborview Towers on December first—splitting one rectangular one-person apartment with zero intention of ever living apart, stretching modest checks after Grandpa's medical lien ate almost every cent of the house sale proceeds, Gwen translating the outside neurotypical world's fine print the way Grandpa used to while I kept our computers and transit schedules running like clockwork, sharing our corner bed, cuddling every night, and getting dressed together without an ounce of awkwardness—had turned our tiny second-floor room into an unbreakable lifeboat. Down in the nineteen-sixty-five lobby, the landlord's yellow out-of-order tag had gone right back up across the elevator button in July, meaning after riding six minutes home on CVTA Route 2 from my weekday workbench shifts at the CCHR Norfolk Campus computer lab—or walking back from Friday evening suppers up in Ghent with Mallory—hauling every sack of groceries up to our rolling microwave-cart pantry still took twenty-two stairs while Gwen balanced our budget and prepped for her senior year starting next month over at Ghent High School.
 
 At three o'clock on Saturday afternoon, the thermometer beside our swiveled silver VCR and DVD combo deck read eighty-nine degrees even with the blinds shut tight and a square plastic box fan oscillating full-speed between the dresser and the foot of our shared full-sized bed.
 
-Cotton shirts and denim felt like wet wool blankets in that kind of trapped Virginia humidity. With me newly twenty-four and Gwen two months shy of turning nineteen—nearly nine months past moving day when she taught me never to hunch my shoulders toward the plaster wall—both of us had stripped down to nothing but our bare skin on top of a cool white sheet stretched across the fifty-four-inch mattress, cold damp washcloths draped over the backs of our necks while the box fan swept back and forth from bare ankles to shoulders.
+Cotton shirts and denim felt like wet wool blankets in that kind of trapped Tidewater humidity. With me newly twenty-four and Gwen two months shy of turning nineteen—nearly nine months past moving day when she taught me never to hunch my shoulders toward the plaster wall—both of us had stripped down to nothing but our bare skin on top of a cool white sheet stretched across the fifty-four-inch mattress, cold damp washcloths draped over the backs of our necks while the box fan swept back and forth from bare ankles to shoulders.
 
 Gwen reached toward the kitchen end of our small rectangle, popped open the tiny freezer compartment inside our unobstructed under-counter dorm fridge, and tossed me an orange freeze pop before settling back down right beside me on the corner bed with a grape one of her own.
 
 "Look at the simulation window now, Nolan," Gwen said happily, angling the warm LCD screen of her Quantum OS 2000 Professional laptop toward my eyes on the bed between us. All afternoon, without a single crash or freeze, her orbital plotter had been tracing two glowing spheres—one large pale circle, one smaller amber companion—locked in a gentle, unbreakable loop. "Even when an outside drift tugs at the outer ring, two moons locked in resonance pull each other right back into balance. Neither one lets the other drift into the dark."
 
-For just a second, the word *dark* snagged on an ugly memory I hated—that suffocating single-wide trailer off Route 13, and sitting humiliated in tears in my wheelchair in the middle of the Norfolk Pathfinder terminal after Tammy smacked me across the face before she even reached the ticket counter. My jaw tightened before I realized my expression had shifted.
+For just a second, the word *dark* snagged on an ugly memory I hated—that suffocating single-wide trailer off Route 13 in Chesapeake, and sitting humiliated in tears in my wheelchair in the middle of the Norfolk Pathfinder terminal a year ago after Tammy smacked me across the face before she even reached the ticket counter. My jaw tightened before I realized my expression had shifted.
 
 Gwen spotted it instantly. She always did.
 
 Setting her freeze pop wrapper on the milk crate, my little sister closed her laptop lid halfway, rolled straight across the warm cotton sheet of our full-sized bed, and wrapped both of her bare arms firmly around my shoulders—tucking my head right against her collarbone while the oscillating fan hummed cool air across our backs.
 
-"Hey," Gwen murmured gently against my hair, never raising her voice above the steady hum of the fan as she held me with the quiet, predictable warmth my autistic mind trusted more than anything on Earth. "Stay right here in Studio 2B with me, Nolan. You're never going back to that trailer park or that bus station ever again. Not while I'm breathing."
+"Hey," Gwen murmured gently against my hair, never raising her voice above the steady hum of the fan as she held me with the quiet, predictable warmth my autistic mind trusted more than anything on Earth. "Stay right here in Studio 205 with me, Nolan. You're never going back to that trailer park or that bus station ever again. Not while I'm breathing."
 
 My throat went warm. I wrapped both arms around my sister's waist and held on just as tight, listening to the gentle click of the box fan, the quiet hum of our dorm fridge under the counter, and the steady beat of Gwen's heart against my ear.
 
@@ -1202,7 +1336,7 @@ Outside our rectangular room, the early-two-thousands world kept treating two cr
 
 ### Part 1: Amber Glass Beside the Full-Sized Bed
 
-**Harmonic Cycle:** First Night of the Twin Moons — Autumn 2002, Studio 2B to Western Vaeloria • **Chronometer:** 21:15
+**Harmonic Cycle:** First Night of the Twin Moons — Autumn 2002, Studio 205 to Western Vaeloria • **Chronometer:** 21:15
 
 ![Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg)
 
@@ -1214,7 +1348,7 @@ Propped up against the pillows beside me on our shared full-sized bed—wearing 
 
 "Closed for the weekend," Gwen sighed, nudging the fan-fold pile of prior-authorization denial letters beside the corded phone. "Six weeks for one bent front caster fork on my wheelchair, and the rep had the nerve to ask whether I really needed to leave the apartment before Thanksgiving."
 
-"Good thing neither of us had fancy Friday night plans," I said, wrapping my right arm snugly around her waist and pulling Grandpa Walter's plaid blanket higher so her bare toes could warm up against my shins. Across the narrow rectangular box of Studio 2B, the glowing green LED clock on my brushed-silver VCR and DVD combo unit clicked quietly over to *9:15* beneath the swiveled rabbit-ear television on my dresser, right next to Grandpa Walter's silver-framed photograph and my closed charcoal laptop. Beside Gwen's knee on the bed, her own upgraded Quantum OS 2000 Professional laptop hummed softly, tracing the steady two-body orbital loop of a large pale moon and a smaller amber companion keeping each other from drifting apart. Three feet past the rolling microwave-cart pantry and the dorm fridge tucked under our tiny sink counter, both of our manual wheelchairs sat parked side by side by the front door—mine with a taped left armrest pad, hers listing half an inch toward that bent right caster. Right against the wooden bedpost within arm's reach leaned all four of our single-tube Lofstrand forearm crutches: my shorter matte-silver pair on the outside, Gwen's taller matte-charcoal pair beside them.
+"Good thing neither of us had fancy Friday night plans," I said, wrapping my right arm snugly around her waist and pulling Grandpa Walter's plaid blanket higher so her bare toes could warm up against my shins. Across the narrow rectangular box of Studio 205, the glowing green LED clock on my brushed-silver VCR and DVD combo unit clicked quietly over to *9:15* beneath the swiveled rabbit-ear television on my dresser, right next to Grandpa Walter's silver-framed photograph and my closed charcoal laptop. Beside Gwen's knee on the bed, her own upgraded Quantum OS 2000 Professional laptop hummed softly, tracing the steady two-body orbital loop of a large pale moon and a smaller amber companion keeping each other from drifting apart. Three feet past the rolling microwave-cart pantry and the dorm fridge tucked under our tiny sink counter, both of our manual wheelchairs sat parked side by side by the front door—mine with a taped left armrest pad, hers listing half an inch toward that bent right caster. Right against the wooden bedpost within arm's reach leaned all four of our single-tube Lofstrand forearm crutches: my shorter matte-silver pair on the outside, Gwen's taller matte-charcoal pair beside them.
 
 "Honestly, Nolan?" Gwen murmured, wrapping both arms affectionately around my shoulders and resting her cheek against the crown of my head. "After a whole year of yellow tape on the lobby elevator, bus drivers stopping in Mall Ring Road traffic because nobody poured a curb cut, and begging strangers on speakerphone for thirty-dollar wheelchair parts... if there were a doorway in this studio that took the two of us somewhere built for our pace—no landlords, no broken curb cuts, nobody ever hurting you—I wouldn't even stop to grab shoes."
 
@@ -1246,9 +1380,9 @@ My heart hammered against my ribs in cold, sharp panic. Gwen's fingers were trem
 
 "Gas leaks don't smell like wild thyme," I managed, though my own throat felt dry as chalk as every practical, protective alarm in my twenty-four-year-old brain went off at once.
 
-On Earth, getting stranded outdoors after dark in bare feet with zero shoes, zero wallets, and both of our manual wheelchairs locked behind a wall was an outright crisis. Worse, I had an opening Saturday shift at the Emerald Creek Blue Tech in twelve hours. Having zero clue how time worked between wherever we had landed and Chesapeake, one terrifying math problem raced through my chest: if we couldn't find the door back by morning, I would miss work, rent would bounce on the first, and the superintendent would clear out our wheelchairs, our laptops, and Grandpa Walter's framed photo onto the curb.
+On Earth, getting stranded outdoors after dark in bare feet with zero shoes, zero wallets, and both of our manual wheelchairs locked behind a wall was an outright crisis. Worse, I was on the schedule to unlock the Saturday morning open computer lab at the CCHR Norfolk Campus in eleven hours—with lunch up in Ghent with Mallory right afterward. Having zero clue how time worked between wherever we had landed and Norfolk, one terrifying math problem raced through my chest: if we couldn't find the door back by morning, I would miss opening the campus lab, worry Mallory sick, bounce rent on the first, and the superintendent would clear out our wheelchairs, our laptops, and Grandpa Walter's framed photo onto the curb.
 
-"Okay—don't panic, Gwenny, stay right against me," I breathed rapidly, checking all four Lofstrand forearm crutches across our laps—two shorter matte-silver, two taller matte-charcoal, rubber ferrules and open cuffs completely intact. "Both of our wheelchairs stayed behind by the dorm fridge, and I have no idea how long our wrists hold up if the ground out here is gravel, or what happens to Studio 2B if I miss my shift tomorrow—"
+"Okay—don't panic, Gwenny, stay right against me," I breathed rapidly, checking all four Lofstrand forearm crutches across our laps—two shorter matte-silver, two taller matte-charcoal, rubber ferrules and open cuffs completely intact. "Both of our wheelchairs stayed behind by the dorm fridge, and I have no idea how long our wrists hold up if the ground out here is gravel, or what happens to Studio 205 if I miss opening the lab tomorrow—"
 
 "Nolan," Gwen breathed softly, her grip on my sleeve suddenly shifting from fear to sheer, stunned awe. "Look up. And press your bare foot down."
 
@@ -1258,11 +1392,11 @@ Above ancient, silver-barked trees arched an indigo twilight sky straight out of
 
 Beneath my bare soles, the glowing blue-white star-moss felt warm as sun-heated wool—not a single burr, jagged pebble, or six-inch concrete curb anywhere in the glade.
 
-Gwen's initial fright melted straight into a wide-eyed, breathless smile that made her look five years lighter than she had all year in Chesapeake. Slipping her forearms into her tall matte-charcoal cuffs, she planted the rubber tips into the firm, springy star-moss and pushed herself smoothly up to her full six-foot-one height in the double moonlight—reaching a warm hand down to steady me as I clicked my silver cuffs on and eased up beside her onto a wide, mossy fallen cedar trunk. Right away, she tucked Grandpa Walter's plaid blanket snug around both of our shoulders and pulled me into a close, grounding side-hug until my racing pulse finally slowed to match hers.
+Gwen's initial fright melted straight into a wide-eyed, breathless smile that made her look five years lighter than she had all year in Norfolk. Slipping her forearms into her tall matte-charcoal cuffs, she planted the rubber tips into the firm, springy star-moss and pushed herself smoothly up to her full six-foot-one height in the double moonlight—reaching a warm hand down to steady me as I clicked my silver cuffs on and eased up beside her onto a wide, mossy fallen cedar trunk. Right away, she tucked Grandpa Walter's plaid blanket snug around both of our shoulders and pulled me into a close, grounding side-hug until my racing pulse finally slowed to match hers.
 
 "I know losing the chairs is scary, Nolan," Gwen whispered honestly against the top of my head as tiny lantern-tailed moths drifted past our bare toes. "My heart jumped into my throat too. Yet feel how gentle this ground is—nobody's shouting, nobody's slapping you, and those two moons up there are the exact orbit from my screen. What if whatever opened that amber doorway didn't trap us... what if it heard us?"
 
-Looking from the tear-free, incandescent excitement shining in my little sister's green-hazel eyes to a gentle ribbon of satin-smooth rose flagstones beckoning through the heather ahead toward that distant mountain light, the tight knot behind my sternum loosened by half. I still worried about our wheelchairs and Grandpa's photo back in Studio 2B—yet as long as Gwen's hand was in mine and four sturdy forearm crutches were under our wrists, I wasn't afraid to take the next hundred paces.
+Looking from the tear-free, incandescent excitement shining in my little sister's green-hazel eyes to a gentle ribbon of satin-smooth rose flagstones beckoning through the heather ahead toward that distant mountain light, the tight knot behind my sternum loosened by half. I still worried about our wheelchairs and Grandpa's photo back in Studio 205—yet as long as Gwen's hand was in mine and four sturdy forearm crutches were under our wrists, I wasn't afraid to take the next hundred paces.
 
 "Well," I smiled faintly against her honey-brown hair, "you did say you wouldn't even stop to grab shoes."
 
@@ -1274,7 +1408,7 @@ Looking from the tear-free, incandescent excitement shining in my little sister'
 
 #### 7:40 AM — Satin Stone Under Bare Soles
 
-Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back in Emerald Creek feel like a shoebox.
+Morning arrived in rose-gold and apricot across a sky so wide it made Studio 205 back in Norfolk feel like a shoebox.
 
 I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz bridge abutment a hundred yards down from our arrival glade, still curled up closely in Nolan's arms on a three-inch bed of velvety dry moss beneath Grandpa Walter's green-and-navy plaid wool blanket. One of my arms was draped across my twenty-four-year-old brother's broad shoulder, his tousled brown head tucked comfortably right beneath my chin the way the two of us had curled up together through every cold radiator night of the past year. For three sleepy seconds my brain waited for the six-thirty garbage truck to rattle the alley dumpsters below our window unit. Instead, liquid, flute-like birdcalls rippled from a grove of low orchard trees beside a clear tumbling rill, and golden morning sunlight spilled across our four bare feet without a trace of stiffness in my knees.
 
@@ -1306,7 +1440,7 @@ We kept the unhurried pace we had shared our whole lives—swing, step, swing, s
 
 Nolan wiped a drop of golden juice off his chin with the back of his wrist and looked back toward the misty valley behind us.
 
-"Gwenny," he said quietly, turning a smooth honey-plum pit between his fingers. "Be completely honest with me. Are you wishing we were back in Studio 2B waiting on Regional Mobility Supply?"
+"Gwenny," he said quietly, turning a smooth honey-plum pit between his fingers. "Be completely honest with me. Are you wishing we were back in Studio 205 waiting on Regional Mobility Supply?"
 
 I looked down at my bare toes resting pain-free on sun-warmed rose quartz, thought of Grandpa Walter's blanket slung safe across my brother's chest, and looked ahead toward painted purple crags where even the roadside lanterns seemed glad the two of us had arrived together.
 
@@ -1348,7 +1482,7 @@ Bramwell's weathered face broke into the gentlest, most relieved smile I had eve
 
 "Sharp eyes, tall sister!" Bramwell nodded earnestly. "We call it the Great Drift. For three generations the high Waystation has stood asleep without Keepers. Dozens of swift-footed couriers and lone scholars marched up there over the years trying to turn the Astrolabe's brass rings by main strength—and not a single one could budge them an inch. Because the Slow-Footed Order forged those twin rings so no lone, hurried soul could ever command them. One ring listens for an eye that reads the moons' true ellipse; the other listens for an eye that spots every hidden seam in the road ahead—and neither ring wakes unless two inseparable hearts turn them at one unhurried rhythm, never leaving the other behind."
 
-Beneath Grandpa Walter's plaid blanket edge, Gwen's fingers found mine and squeezed hard. Every sleepless night she had spent tracing binary moon orbits in our sweltering Chesapeake studio—and every city block I had spent scanning cracked pavement from Robert Hall Boulevard to Emerald Creek ahead of our chairs and crutches—suddenly felt less like wasted years on hold and more like the exact language this gentle, drifting world had reached across the stars to find.
+Beneath Grandpa Walter's plaid blanket edge, Gwen's fingers found mine and squeezed hard. Every sleepless night she had spent tracing binary moon orbits in our sweltering Norfolk studio—and every city block I had spent scanning cracked pavement from Chesapeake to West Brambleton Avenue ahead of our chairs and crutches—suddenly felt less like wasted years on hold and more like the exact language this gentle, drifting world had reached across the stars to find.
 
 "Without Keepers at the Astrolabe," Bramwell continued softly, "the star-currents are slowly unmooring into silver mist. Canal beacons grow dim at dusk, the Whisperwood's outer lamps grow sleepy, and the mountain sky-rings slip a hair wider each solstice. Nothing cruel or violent—only good towns slowly drifting out of reach of one another unless two true Keepers wake the Waystation again."
 
@@ -1372,7 +1506,7 @@ Then he pointed upward to our right, where tiers of rose-gold limestone cliffs r
 
 Bramwell topped off our mugs with hot spiced cider and tipped his wool cap. "All three routes wind inward toward the Uncharted Waystation in their own gentle time, friends. Which road calls to the two of you first?"
 
-Gwen looked from the sapphire canal lanterns, to the emerald moss road, to the smooth brass gondola rising into the golden crags—then rested her cheek warmly against the top of my head with shining green-hazel eyes that didn't miss Studio 2B or Earth for a single heartbeat.
+Gwen looked from the sapphire canal lanterns, to the emerald moss road, to the smooth brass gondola rising into the golden crags—then rested her cheek warmly against the top of my head with shining green-hazel eyes that didn't miss Studio 205 or Earth for a single heartbeat.
 
 "Nobody splitting us up, and a whole world built for our pace," Gwen whispered. "Which way do we take first, brother?"
 
@@ -1380,7 +1514,7 @@ Gwen looked from the sapphire canal lanterns, to the emerald moss road, to the s
 
 #### Story Crossroads — Three Gentle Roads Toward the Waystation: How Do Nolan and Gwen Travel? {#crossroads-borderland-three-roads}
 
-*With both wheelchairs left behind in Studio 2B on Earth, barefoot twenty-four-year-old Nolan Lennox and his six-foot-one nineteen-year-old sister Gwen have learned why Vaeloria's sleeping Astrolabe answered Gwen's wish: only two inseparable, unhurried hearts can re-harmonize the twin rings and heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.*
+*With both wheelchairs left behind in Studio 205 on Earth, barefoot twenty-four-year-old Nolan Lennox and his six-foot-one nineteen-year-old sister Gwen have learned why Vaeloria's sleeping Astrolabe answered Gwen's wish: only two inseparable, unhurried hearts can re-harmonize the twin rings and heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.*
 
 *Select a Story Path below to jump directly to your chosen continuation:*
 
@@ -1426,7 +1560,7 @@ When full indigo twilight deepened between the whispering reed beds and both moo
 
 "My eyes aren't as sharp for the marsh-stars since the Great Drift started veiling the upper reaches in silver haze," Maren admitted warmly, nodding toward the shimmering twin-moon reflections stretching down the canal toward a fork of distant stone water-arches. "If either of you has an eye for star-angles above the mist, you'll more than earn your supper and a warm cabin berth to curl up in all the way upriver."
 
-Nolan grinned through a spoonful of hot stew and squeezed my waist under Grandpa Walter's green-and-navy plaid blanket. Back in Studio 2B in Chesapeake, I had spent half my sleepless nights sketching binary moon tables in spiral notebooks when leg cramps or eighty-nine-degree heat kept me awake; nobody on Earth had ever called it useful.
+Nolan grinned through a spoonful of hot stew and squeezed my waist under Grandpa Walter's green-and-navy plaid blanket. Back in Studio 205 in Norfolk, I had spent half my sleepless nights sketching binary moon tables in spiral notebooks when leg cramps or eighty-nine-degree heat kept me awake; nobody on Earth had ever called it useful.
 
 I lifted the warm brass sight-ring to my eye while Nolan leaned close beside me, pointing out a faint sapphire current-seam rippling beneath the mist that even I would have missed without his lifelong eye for reading hidden ground ahead. Together I lined the hairline wire between the smaller rose-amber moon and seven blue-white stars hanging above the eastern reeds.
 
@@ -1482,29 +1616,29 @@ Side by side on our four forearm crutches, Gwen and I walked straight through th
 
 Both of us stopped in the warm cedar light and let out a simultaneous, breathless laugh of disbelief.
 
-Every cramped, humiliating hardship of our eleven-by-eighteen-foot studio box back in Chesapeake had its answer waiting right in front of us. Beneath our bare feet, geothermal rose-quartz flagstones radiated gentle warmth like a sunlit hearthstone. Semicircular mossy-wool couches curved around a crackling stone fireplace with custom-carved cedar notches built right into every armrest to hold four Lofstrand forearm crutches upright within effortless reach. To our right stood a step-free stone-and-copper kitchen with knee-clearance seated prep counters so neither of us ever had to cook standing on crutches, beside a cold snowmelt spring-larder stocked with fresh loaves, orchard plums, and cheeses. Sweeping rose-quartz ramps—zero stairs anywhere—linked a spacious, curb-free ninety-eight-degree travertine soaking bath to a crystal-domed Moon-Glass Observatory overhead.
+Every cramped, humiliating hardship of our eleven-by-eighteen-foot studio box back in Norfolk had its answer waiting right in front of us. Beneath our bare feet, geothermal rose-quartz flagstones radiated gentle warmth like a sunlit hearthstone. Semicircular mossy-wool couches curved around a crackling stone fireplace with custom-carved cedar notches built right into every armrest to hold four Lofstrand forearm crutches upright within effortless reach. To our right stood a step-free stone-and-copper kitchen with knee-clearance seated prep counters so neither of us ever had to cook standing on crutches, beside a cold snowmelt spring-larder stocked with fresh loaves, orchard plums, and cheeses. Sweeping rose-quartz ramps—zero stairs anywhere—linked a spacious, curb-free ninety-eight-degree travertine soaking bath to a crystal-domed Moon-Glass Observatory overhead.
 
 And tucked beneath a wide twin-moon skylight in the warmest timber alcove sat an oversized, transfer-height carved cedar canopy bed piled deep with cloud-wool quilts—wide enough for two grown siblings to stretch out without bumping elbows, yet cozy enough that Gwen immediately turned to me and wrapped both arms tight around my neck.
 
 "Even with a whole cliffside keep, shortstop," my nineteen-year-old sister whispered fiercely against my hair, "nobody's putting me down some empty hall away from my brother. Grandpa's blanket goes right on that bed."
 
-My chest felt fuller than I thought ribs could hold—until one lingering tug of big-brother responsibility made me glance back through the Glowing Hearth-Archway toward the sixteenth outer portal across the courtyard, where a familiar faint amber shimmer showed the scuffed wood floorboards of Studio 2B in Chesapeake.
+My chest felt fuller than I thought ribs could hold—until one lingering tug of big-brother responsibility made me glance back through the Glowing Hearth-Archway toward the sixteenth outer portal across the courtyard, where a familiar faint amber shimmer showed the scuffed wood floorboards of Studio 205 in Norfolk.
 
 "Now that the rings are awake," Archivist Thorne noted kindly from the courtyard threshold, "your homeward doorway answers your hands in either direction whenever you wish."
 
-Gwen and I traded one long look. Thinking of two days on the canal—meaning Sunday evening back in Chesapeake, a missed Saturday shift at Blue Tech, and Grandpa Walter's silver-framed photo sitting alone beside our parked wheelchairs and laptops—I squeezed Gwen's hand.
+Gwen and I traded one long look. Thinking of two days on the canal—meaning Sunday evening back in Norfolk, a missed Saturday open-lab shift at the CCHR campus, Mallory wondering why nobody answered the phone, and Grandpa Walter's silver-framed photo sitting alone beside our parked wheelchairs and laptops—I squeezed Gwen's hand.
 
 "Let's step back for five minutes," I said quietly, bracing myself for angry voicemail lights on our corded phone, "grab Grandpa's photo and our things before the landlord locks us out, and come right back."
 
 ### Part 2: Nine-Fifteen on the VCR Clock and Choosing Home
 
-**Harmonic Cycle:** Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
+**Harmonic Cycle:** Friday, 9:15 PM in Studio 205 & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
 
-![Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg)
+![Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg)
 
-#### 9:15 PM — Not One Second Gone in Chesapeake
+#### 9:15 PM — Not One Second Gone in Norfolk
 
-Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue Tech manager, or a yellow late-notice slip wedged under our front door.
+Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 205 at Harborview Towers, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's CCHR campus supervisor or Mallory, or a yellow notice slip wedged under our front door.
 
 Instead, October rain was still pattering the exact same rhythm against our silent window air-conditioner above the corner full-sized bed.
 
@@ -1522,7 +1656,7 @@ Looking around our tiny rectangular box—the corner fifty-four-inch mattress th
 
 Moving smoothly around our little room like a practiced two-person crew, we gathered the pieces of our Earth life we truly wanted with us. First, Nolan carefully lifted Grandpa Walter's silver-framed photograph off the oak dresser beside the rabbit-ear television and tucked it gently inside his padded laptop sleeve alongside his charcoal Quantum OS 2000 Professional laptop and power brick. I shut down my own upgraded Quantum OS 2000 Professional laptop cleanly—smiling at how zero crashes had paved the way to two real moons—slipped it and its cord into my shoulder bag, and draped Grandpa's plaid wool blanket over the backrest of my manual wheelchair by the dorm fridge.
 
-Even with my front right caster fork still bent half an inch out of true, rolling both of our manual wheelchairs out of Studio 2B—with all four silver and charcoal Lofstrand forearm crutches strapped neatly behind our backrests—straight across the seamless, sill-free golden threshold back into the Uncharted Waystation felt like rolling out of a broom closet into a sunlit cathedral.
+Even with my front right caster fork still bent half an inch out of true, rolling both of our manual wheelchairs out of Studio 205—with all four silver and charcoal Lofstrand forearm crutches strapped neatly behind our backrests—straight across the seamless, sill-free golden threshold back into the Uncharted Waystation felt like rolling out of a broom closet into a sunlit cathedral.
 
 ***
 
@@ -1532,7 +1666,7 @@ Even with my front right caster fork still bent half an inch out of true, rollin
 
 The instant our wheelchair tires glided out onto the warm rose-quartz flagstones of the Star-Court, I glanced up at Vaeloria's twilight sky—and gasped a second time.
 
-Behind Archivist Thorne's shoulder, the exact curl of cedar hearth-smoke rising from Keepers' Hall hadn't drifted an inch higher while we spent fifteen minutes packing in Chesapeake, and barge-master Maren was still raising her hand in the exact mid-wave farewell down by the canal quay!
+Behind Archivist Thorne's shoulder, the exact curl of cedar hearth-smoke rising from Keepers' Hall hadn't drifted an inch higher while we spent fifteen minutes packing in Norfolk, and barge-master Maren was still raising her hand in the exact mid-wave farewell down by the canal quay!
 
 Archivist Thorne smiled with gentle, knowing warmth at our astonished faces.
 
@@ -1544,7 +1678,7 @@ Nolan looked from the smooth rose-quartz ramps of Keepers' Hall to me, hazel eye
 
 Within ten minutes, a cheerful Waystation ironsmith with a small brass truing wrench knelt beside my chair on the courtyard flagstones and straightened my bent front caster fork dead-level in four gentle turns—no forty-seven-minute speakerphone hold music, no six-week insurance denial letter, and zero charge beyond a shared mug of hot spiced cider.
 
-That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photograph in the place of honor on the carved cedar shelf beside our wide Twin-Moon Canopy Bed, parked both of our smoothly rolling wheelchairs side by side near the warm stone hearth, and leaned our four Lofstrand forearm crutches cleanly into the carved armrest notches. Curled up close together under cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket while Vaeloria's twin moons shone clear through the Glowing Hearth-Archway of our home, we knew we could visit Studio 2B anytime we ever pleased—and we knew with both of our hearts right where we belonged forever.
+That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photograph in the place of honor on the carved cedar shelf beside our wide Twin-Moon Canopy Bed, parked both of our smoothly rolling wheelchairs side by side near the warm stone hearth, and leaned our four Lofstrand forearm crutches cleanly into the carved armrest notches. Curled up close together under cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket while Vaeloria's twin moons shone clear through the Glowing Hearth-Archway of our home, we knew we could step back into Studio 205 anytime we ever pleased—and we knew with both of our hearts right where we belonged forever.
 
 ***
 
@@ -1592,7 +1726,7 @@ Both of us let out the exact same involuntary sound of pure bliss.
 
 The mineral water was ninety-eight degrees to the drop, buoyant and silky around tired ankles, arches, and calves without a trace of sulfur smell. Better still, the moment Gwen and I settled close together on the mossy stone bench—my right arm wrapped warmly around her waist, her long left arm draped affectionately over my shoulders with her cheek resting against the crown of my head—the sleepy star-lamp carved into the basin's center stone gave a soft harmonic chime, brightening until the pale silver wisps of the Great Drift melted completely back from the clearing.
 
-"Back in Chesapeake," Gwen murmured happily, hugging my shoulders tighter while wiggling her bare toes beside mine in the warm crystal ripples, "physical therapy charged ninety dollars a copay for fifteen minutes in a stainless-steel tub under buzzing fluorescent tubes, and we still had twenty-two stairs waiting for us at Studio 2B."
+"Back in Norfolk," Gwen murmured happily, hugging my shoulders tighter while wiggling her bare toes beside mine in the warm crystal ripples, "physical therapy charged ninety dollars a copay for fifteen minutes in a stainless-steel tub under buzzing fluorescent tubes, and we still had twenty-two stairs waiting for us at Studio 205."
 
 "And zero free roasted chestnuts or dry moss beds waiting ten feet away," I grinned, nodding toward the cozy stone pilgrim shelter right behind our bench, where a thick, clean mattress of fragrant dried star-moss sat ready beneath a warm hearth-brazier for the two of us to curl up together under Grandpa Walter's green-and-navy plaid blanket for the night.
 
@@ -1638,29 +1772,29 @@ Side by side on our four forearm crutches, Gwen and I walked straight through th
 
 Both of us stopped in the warm cedar light and let out a simultaneous, breathless laugh of disbelief.
 
-Every cramped, humiliating hardship of our eleven-by-eighteen-foot studio box back in Chesapeake had its answer waiting right in front of us. Beneath our bare feet, geothermal rose-quartz flagstones radiated gentle warmth like a sunlit hearthstone. Semicircular mossy-wool couches curved around a crackling stone fireplace with custom-carved cedar notches built right into every armrest to hold four Lofstrand forearm crutches upright within effortless reach. To our right stood a step-free stone-and-copper kitchen with knee-clearance seated prep counters so neither of us ever had to cook standing on crutches, beside a cold snowmelt spring-larder stocked with fresh loaves, orchard plums, and cheeses. Sweeping rose-quartz ramps—zero stairs anywhere—linked a spacious, curb-free ninety-eight-degree travertine soaking bath to a crystal-domed Moon-Glass Observatory overhead.
+Every cramped, humiliating hardship of our eleven-by-eighteen-foot studio box back in Norfolk had its answer waiting right in front of us. Beneath our bare feet, geothermal rose-quartz flagstones radiated gentle warmth like a sunlit hearthstone. Semicircular mossy-wool couches curved around a crackling stone fireplace with custom-carved cedar notches built right into every armrest to hold four Lofstrand forearm crutches upright within effortless reach. To our right stood a step-free stone-and-copper kitchen with knee-clearance seated prep counters so neither of us ever had to cook standing on crutches, beside a cold snowmelt spring-larder stocked with fresh loaves, orchard plums, and cheeses. Sweeping rose-quartz ramps—zero stairs anywhere—linked a spacious, curb-free ninety-eight-degree travertine soaking bath to a crystal-domed Moon-Glass Observatory overhead.
 
 And tucked beneath a wide twin-moon skylight in the warmest timber alcove sat an oversized, transfer-height carved cedar canopy bed piled deep with cloud-wool quilts—wide enough for two grown siblings to stretch out without bumping elbows, yet cozy enough that Gwen immediately turned to me and wrapped both arms tight around my neck.
 
 "Even with a whole cliffside keep, shortstop," my nineteen-year-old sister whispered fiercely against my hair, "nobody's putting me down some empty hall away from my brother. Grandpa's blanket goes right on that bed."
 
-My chest felt fuller than I thought ribs could hold—until one lingering tug of big-brother responsibility made me glance back through the Glowing Hearth-Archway toward the sixteenth outer portal across the courtyard, where a familiar faint amber shimmer showed the scuffed wood floorboards of Studio 2B in Chesapeake.
+My chest felt fuller than I thought ribs could hold—until one lingering tug of big-brother responsibility made me glance back through the Glowing Hearth-Archway toward the sixteenth outer portal across the courtyard, where a familiar faint amber shimmer showed the scuffed wood floorboards of Studio 205 in Norfolk.
 
 "Now that the rings are awake," Archivist Thorne noted kindly from the courtyard threshold, "your homeward doorway answers your hands in either direction whenever you wish."
 
-Gwen and I traded one long look. Thinking of two days on the forest road—meaning Sunday evening back in Chesapeake, a missed Saturday shift at Blue Tech, and Grandpa Walter's silver-framed photo sitting alone beside our parked wheelchairs and laptops—I squeezed Gwen's hand.
+Gwen and I traded one long look. Thinking of two days on the forest road—meaning Sunday evening back in Norfolk, a missed Saturday open-lab shift at the CCHR campus, Mallory wondering why nobody answered the phone, and Grandpa Walter's silver-framed photo sitting alone beside our parked wheelchairs and laptops—I squeezed Gwen's hand.
 
 "Let's step back for five minutes," I said quietly, bracing myself for angry voicemail lights on our corded phone, "grab Grandpa's photo and our things before the landlord locks us out, and come right back."
 
 ### Part 2: Nine-Fifteen on the VCR Clock and Choosing Home
 
-**Harmonic Cycle:** Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
+**Harmonic Cycle:** Friday, 9:15 PM in Studio 205 & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
 
-![Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg)
+![Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg)
 
-#### 9:15 PM — Not One Second Gone in Chesapeake
+#### 9:15 PM — Not One Second Gone in Norfolk
 
-Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue Tech manager, or a yellow late-notice slip wedged under our front door.
+Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 205 at Harborview Towers, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's CCHR campus supervisor or Mallory, or a yellow notice slip wedged under our front door.
 
 Instead, October rain was still pattering the exact same rhythm against our silent window air-conditioner above the corner full-sized bed.
 
@@ -1678,7 +1812,7 @@ Looking around our tiny rectangular box—the corner fifty-four-inch mattress th
 
 Moving smoothly around our little room like a practiced two-person crew, we gathered the pieces of our Earth life we truly wanted with us. First, Nolan carefully lifted Grandpa Walter's silver-framed photograph off the oak dresser beside the rabbit-ear television and tucked it gently inside his padded laptop sleeve alongside his charcoal Quantum OS 2000 Professional laptop and power brick. I shut down my own upgraded Quantum OS 2000 Professional laptop cleanly—smiling at how zero crashes had paved the way to two real moons—slipped it and its cord into my shoulder bag, and draped Grandpa's plaid wool blanket over the backrest of my manual wheelchair by the dorm fridge.
 
-Even with my front right caster fork still bent half an inch out of true, rolling both of our manual wheelchairs out of Studio 2B—with all four silver and charcoal Lofstrand forearm crutches strapped neatly behind our backrests—straight across the seamless, sill-free golden threshold back into the Uncharted Waystation felt like rolling out of a broom closet into a sunlit cathedral.
+Even with my front right caster fork still bent half an inch out of true, rolling both of our manual wheelchairs out of Studio 205—with all four silver and charcoal Lofstrand forearm crutches strapped neatly behind our backrests—straight across the seamless, sill-free golden threshold back into the Uncharted Waystation felt like rolling out of a broom closet into a sunlit cathedral.
 
 ***
 
@@ -1688,7 +1822,7 @@ Even with my front right caster fork still bent half an inch out of true, rollin
 
 The instant our wheelchair tires glided out onto the warm rose-quartz flagstones of the Star-Court, I glanced up at Vaeloria's twilight sky—and gasped a second time.
 
-Behind Archivist Thorne's shoulder, the exact curl of cedar hearth-smoke rising from Keepers' Hall hadn't drifted an inch higher while we spent fifteen minutes packing in Chesapeake, and down at the forest verge a single glowing petal drifting off a silver-barked rowan hung at the exact midair breath where we had left it before floating gently down to the moss!
+Behind Archivist Thorne's shoulder, the exact curl of cedar hearth-smoke rising from Keepers' Hall hadn't drifted an inch higher while we spent fifteen minutes packing in Norfolk, and down at the forest verge a single glowing petal drifting off a silver-barked rowan hung at the exact midair breath where we had left it before floating gently down to the moss!
 
 Archivist Thorne smiled with gentle, knowing warmth at our astonished faces.
 
@@ -1700,7 +1834,7 @@ Nolan looked from the smooth rose-quartz ramps of Keepers' Hall to me, hazel eye
 
 Within ten minutes, a cheerful Waystation ironsmith with a small brass truing wrench knelt beside my chair on the courtyard flagstones and straightened my bent front caster fork dead-level in four gentle turns—no forty-seven-minute speakerphone hold music, no six-week insurance denial letter, and zero charge beyond a shared mug of hot spiced cider.
 
-That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photograph in the place of honor on the carved cedar shelf beside our wide Twin-Moon Canopy Bed, parked both of our smoothly rolling wheelchairs side by side near the warm stone hearth, and leaned our four Lofstrand forearm crutches cleanly into the carved armrest notches. Curled up close together under cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket while Vaeloria's twin moons shone clear through the Glowing Hearth-Archway of our home, we knew we could visit Studio 2B anytime we ever pleased—and we knew with both of our hearts right where we belonged forever.
+That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photograph in the place of honor on the carved cedar shelf beside our wide Twin-Moon Canopy Bed, parked both of our smoothly rolling wheelchairs side by side near the warm stone hearth, and leaned our four Lofstrand forearm crutches cleanly into the carved armrest notches. Curled up close together under cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket while Vaeloria's twin moons shone clear through the Glowing Hearth-Archway of our home, we knew we could step back into Studio 205 anytime we ever pleased—and we knew with both of our hearts right where we belonged forever.
 
 ***
 
@@ -1744,7 +1878,7 @@ Twelve minutes of effortless sky-gliding delivered our car dead-level onto the f
 
 Waiting on the terrace beside a six-foot armillary sphere of nested brass rings stood Sister Caelia, an elderly astronomer with silver braids and ink-stained cuffs who greeted our bare feet and cotton t-shirts as warmly as if we were visiting scholars arriving by royal carriage. While Nolan accepted a warm wooden platter of rosemary flatbread straight off the hearthstone so we could eat sitting down on a cushioned stone window-seat overlooking fifty leagues of twilight cloud-sea, my eyes went straight to a stuck vernier gear on Caelia's outer moon-ring.
 
-"The rose moon has slipped three degrees ahead of the ivory moon in the Great Drift, hasn't it?" I asked, tilting my head as the twin moons cleared the eastern crags—the exact three-to-two binary resonance I had traced in my library notebook during our eighty-nine-degree August afternoon in Studio 2B. "Your outer brass ring is pinned for a single circular orbit, not a shared twin-moon barycenter."
+"The rose moon has slipped three degrees ahead of the ivory moon in the Great Drift, hasn't it?" I asked, tilting my head as the twin moons cleared the eastern crags—the exact three-to-two binary resonance I had traced in my library notebook during our eighty-nine-degree August afternoon in Studio 205. "Your outer brass ring is pinned for a single circular orbit, not a shared twin-moon barycenter."
 
 Sister Caelia froze with her brass dividers mid-air, stared from the twin moons to my finger pointing at the third vernier pin—and when Nolan stepped up on his silver forearm crutches right beside my charcoal pair and steadied the lower horizon ring at the exact moment I slid the upper rose-moon vernier into place, a deep, sweet chord hummed right through the brass frame, scattering the pale Drift-mist off the terrace parapet! Sister Caelia broke into a radiant grin.
 
@@ -1752,9 +1886,9 @@ Sister Caelia froze with her brass dividers mid-air, stared from the twin moons 
 
 Nolan tore a steaming piece of herb flatbread in half, passed me the bigger piece, and pulled me into a warm one-armed hug on the cushioned stone window-seat under Grandpa Walter's green-and-navy plaid blanket as the cliffside wind-harps sang out across the violet clouds.
 
-"Hear that, flagpole?" my twenty-four-year-old brother grinned, resting his bare feet beside mine on the thick woven hearth-rug before we curled up together for the night. "One day out of Emerald Creek and this world already knows why we belong together."
+"Hear that, flagpole?" my twenty-four-year-old brother grinned, resting his bare feet beside mine on the thick woven hearth-rug before we curled up together for the night. "One day out of Norfolk and this world already knows why we belong together."
 
-Looking out past the gleaming brass rings toward the high crags where the Uncharted Waystation waited for us, I hugged Nolan tight under Grandpa's blanket—knowing in my bones that Earth could keep Studio 2B's keys forever.
+Looking out past the gleaming brass rings toward the high crags where the Uncharted Waystation waited for us, I hugged Nolan tight under Grandpa's blanket—knowing in my bones that Earth could keep Studio 205's keys forever.
 
 ## Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen
 
@@ -1798,29 +1932,29 @@ Side by side on our four forearm crutches, Gwen and I walked straight through th
 
 Both of us stopped in the warm cedar light and let out a simultaneous, breathless laugh of disbelief.
 
-Every cramped, humiliating hardship of our eleven-by-eighteen-foot studio box back in Chesapeake had its answer waiting right in front of us. Beneath our bare feet, geothermal rose-quartz flagstones radiated gentle warmth like a sunlit hearthstone. Semicircular mossy-wool couches curved around a crackling stone fireplace with custom-carved cedar notches built right into every armrest to hold four Lofstrand forearm crutches upright within effortless reach. To our right stood a step-free stone-and-copper kitchen with knee-clearance seated prep counters so neither of us ever had to cook standing on crutches, beside a cold snowmelt spring-larder stocked with fresh loaves, orchard plums, and cheeses. Sweeping rose-quartz ramps—zero stairs anywhere—linked a spacious, curb-free ninety-eight-degree travertine soaking bath to a crystal-domed Moon-Glass Observatory overhead.
+Every cramped, humiliating hardship of our eleven-by-eighteen-foot studio box back in Norfolk had its answer waiting right in front of us. Beneath our bare feet, geothermal rose-quartz flagstones radiated gentle warmth like a sunlit hearthstone. Semicircular mossy-wool couches curved around a crackling stone fireplace with custom-carved cedar notches built right into every armrest to hold four Lofstrand forearm crutches upright within effortless reach. To our right stood a step-free stone-and-copper kitchen with knee-clearance seated prep counters so neither of us ever had to cook standing on crutches, beside a cold snowmelt spring-larder stocked with fresh loaves, orchard plums, and cheeses. Sweeping rose-quartz ramps—zero stairs anywhere—linked a spacious, curb-free ninety-eight-degree travertine soaking bath to a crystal-domed Moon-Glass Observatory overhead.
 
 And tucked beneath a wide twin-moon skylight in the warmest timber alcove sat an oversized, transfer-height carved cedar canopy bed piled deep with cloud-wool quilts—wide enough for two grown siblings to stretch out without bumping elbows, yet cozy enough that Gwen immediately turned to me and wrapped both arms tight around my neck.
 
 "Even with a whole cliffside keep, shortstop," my nineteen-year-old sister whispered fiercely against my hair, "nobody's putting me down some empty hall away from my brother. Grandpa's blanket goes right on that bed."
 
-My chest felt fuller than I thought ribs could hold—until one lingering tug of big-brother responsibility made me glance back through the Glowing Hearth-Archway toward the sixteenth outer portal across the courtyard, where a familiar faint amber shimmer showed the scuffed wood floorboards of Studio 2B in Chesapeake.
+My chest felt fuller than I thought ribs could hold—until one lingering tug of big-brother responsibility made me glance back through the Glowing Hearth-Archway toward the sixteenth outer portal across the courtyard, where a familiar faint amber shimmer showed the scuffed wood floorboards of Studio 205 in Norfolk.
 
 "Now that the rings are awake," Archivist Thorne noted kindly from the courtyard threshold, "your homeward doorway answers your hands in either direction whenever you wish."
 
-Gwen and I traded one long look. Thinking of two days in the crags—meaning Sunday evening back in Chesapeake, a missed Saturday shift at Blue Tech, and Grandpa Walter's silver-framed photo sitting alone beside our parked wheelchairs and laptops—I squeezed Gwen's hand.
+Gwen and I traded one long look. Thinking of two days in the crags—meaning Sunday evening back in Norfolk, a missed Saturday open-lab shift at the CCHR campus, Mallory wondering why nobody answered the phone, and Grandpa Walter's silver-framed photo sitting alone beside our parked wheelchairs and laptops—I squeezed Gwen's hand.
 
 "Let's step back for five minutes," I said quietly, bracing myself for angry voicemail lights on our corded phone, "grab Grandpa's photo and our things before the landlord locks us out, and come right back."
 
 ### Part 2: Nine-Fifteen on the VCR Clock and Choosing Home
 
-**Harmonic Cycle:** Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
+**Harmonic Cycle:** Friday, 9:15 PM in Studio 205 & Third Twilight in Keepers' Hall • **Chronometer:** 21:15
 
-![Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg)
+![Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg)
 
-#### 9:15 PM — Not One Second Gone in Chesapeake
+#### 9:15 PM — Not One Second Gone in Norfolk
 
-Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue Tech manager, or a yellow late-notice slip wedged under our front door.
+Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 205 at Harborview Towers, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's CCHR campus supervisor or Mallory, or a yellow notice slip wedged under our front door.
 
 Instead, October rain was still pattering the exact same rhythm against our silent window air-conditioner above the corner full-sized bed.
 
@@ -1838,7 +1972,7 @@ Looking around our tiny rectangular box—the corner fifty-four-inch mattress th
 
 Moving smoothly around our little room like a practiced two-person crew, we gathered the pieces of our Earth life we truly wanted with us. First, Nolan carefully lifted Grandpa Walter's silver-framed photograph off the oak dresser beside the rabbit-ear television and tucked it gently inside his padded laptop sleeve alongside his charcoal Quantum OS 2000 Professional laptop and power brick. I shut down my own upgraded Quantum OS 2000 Professional laptop cleanly—smiling at how zero crashes had paved the way to two real moons—slipped it and its cord into my shoulder bag, and draped Grandpa's plaid wool blanket over the backrest of my manual wheelchair by the dorm fridge.
 
-Even with my front right caster fork still bent half an inch out of true, rolling both of our manual wheelchairs out of Studio 2B—with all four silver and charcoal Lofstrand forearm crutches strapped neatly behind our backrests—straight across the seamless, sill-free golden threshold back into the Uncharted Waystation felt like rolling out of a broom closet into a sunlit cathedral.
+Even with my front right caster fork still bent half an inch out of true, rolling both of our manual wheelchairs out of Studio 205—with all four silver and charcoal Lofstrand forearm crutches strapped neatly behind our backrests—straight across the seamless, sill-free golden threshold back into the Uncharted Waystation felt like rolling out of a broom closet into a sunlit cathedral.
 
 ***
 
@@ -1848,7 +1982,7 @@ Even with my front right caster fork still bent half an inch out of true, rollin
 
 The instant our wheelchair tires glided out onto the warm rose-quartz flagstones of the Star-Court, I glanced up at Vaeloria's twilight sky—and gasped a second time.
 
-Behind Archivist Thorne's shoulder, the exact curl of cedar hearth-smoke rising from Keepers' Hall hadn't drifted an inch higher while we spent fifteen minutes packing in Chesapeake, and out on the upper crag terrace Sister Caelia was still standing in the exact mid-wave gesture beside the bronze wind-harps!
+Behind Archivist Thorne's shoulder, the exact curl of cedar hearth-smoke rising from Keepers' Hall hadn't drifted an inch higher while we spent fifteen minutes packing in Norfolk, and out on the upper crag terrace Sister Caelia was still standing in the exact mid-wave gesture beside the bronze wind-harps!
 
 Archivist Thorne smiled with gentle, knowing warmth at our astonished faces.
 
@@ -1860,7 +1994,7 @@ Nolan looked from the smooth rose-quartz ramps of Keepers' Hall to me, hazel eye
 
 Within ten minutes, a cheerful Waystation ironsmith with a small brass truing wrench knelt beside my chair on the courtyard flagstones and straightened my bent front caster fork dead-level in four gentle turns—no forty-seven-minute speakerphone hold music, no six-week insurance denial letter, and zero charge beyond a shared mug of hot spiced cider.
 
-That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photograph in the place of honor on the carved cedar shelf beside our wide Twin-Moon Canopy Bed, parked both of our smoothly rolling wheelchairs side by side near the warm stone hearth, and leaned our four Lofstrand forearm crutches cleanly into the carved armrest notches. Curled up close together under cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket while Vaeloria's twin moons shone clear through the Glowing Hearth-Archway of our home, we knew we could visit Studio 2B anytime we ever pleased—and we knew with both of our hearts right where we belonged forever.
+That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photograph in the place of honor on the carved cedar shelf beside our wide Twin-Moon Canopy Bed, parked both of our smoothly rolling wheelchairs side by side near the warm stone hearth, and leaned our four Lofstrand forearm crutches cleanly into the carved armrest notches. Curled up close together under cloud-wool quilts and Grandpa Walter's green-and-navy plaid blanket while Vaeloria's twin moons shone clear through the Glowing Hearth-Archway of our home, we knew we could step back into Studio 205 anytime we ever pleased—and we knew with both of our hearts right where we belonged forever.
 
 ***
 
