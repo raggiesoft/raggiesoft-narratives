@@ -368,6 +368,8 @@ Gwen looked sideways at me for a quiet second—noticing how, even on the Sunday
 
 **Date:** 1998-11-21 at 10:15 America/New_York
 
+![Exterior view of Tammy's weathered, rust-streaked single-wide mobile home at Pinecrest Court on an overcast late-November afternoon in Chesapeake, showing dark roof-tar leak patches overhead, the shuttered living-room window on the left, the center scroll-grille storm door behind four weathered wooden steps and a flat wooden top landing, and the landlord's steep, uninspected unpainted plywood-and-two-by-four wheelchair ramp resting on crooked stacks of unmortared cinder blocks and wooden shims over the loose gravel driveway along the windowless right wall.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p005_bodged_wooden_trailer_ramp.jpg)
+
 #### 10:15 AM — Two Direct-Deposit Stubs and the Fourteen-Day Rule
 
 Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at my two perforated Blue Tech direct-deposit paystubs.
