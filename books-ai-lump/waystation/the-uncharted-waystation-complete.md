@@ -282,7 +282,89 @@ Within five minutes, Tammy's breathing slowed into deep, even sleep beside me.
 
 For another half hour, though, I lay wide awake under the unfamiliar sheet, staring up at ceiling panels that weren't mine. Out past the thin corrugated aluminum siding, an eighteen-wheeler geared down along Route 13 where quiet maple branches usually brushed the second-story eaves at home; metal heating ducts ticked strange little cooling pops along the narrow hallway; and for the first midnight in twenty-one years, neither Grandpa Walter nor Gwen was breathing anywhere under the same roof. Even with my twenty-one-year-old chest glowing proud and dizzy that a pretty, soft-spoken woman had chosen me, my fingers lightly tapped out tomorrow morning's southbound-to-northbound Route 15 cutback transfer times against the edge of the mattress—already looking forward to climbing Grandpa's three wooden porch steps before noon and pulling my little sister into a hug in our sunny kitchen.
 
-### Part 4: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
+### Part 4: Sunday Morning Glow, Big-Brother Boundaries, and Straight-A Homework
+
+**Date:** 1998-11-01 at 10:50 America/New_York
+
+#### 10:50 AM — Three Porch Steps and Zero Poker Face
+
+Crisp November maple leaves crunched dry and bright beneath the gray rubber tips of my matte-silver Lofstrand forearm crutches as I turned onto our quiet street behind Emerald Creek Mall at ten minutes to eleven, still wearing yesterday's wrinkled royal-blue Blue Tech work polo under my flannel jacket and feeling roughly ten feet tall.
+
+Catching the sparse Sunday-schedule CVTA Route 15 cutback transfer back from Robert Hall Boulevard had meant an extra twenty-minute wait on the concrete bench at Military Highway and Old Emerald Creek Road, and I hadn't minded a single minute of it. Sunlight sparkled off every parked windshield, cool autumn air smelled like woodsmoke and damp oak bark, and my brain kept replaying two brand-new facts that still felt slightly unreal: I had spent an entire night under a roof away from my family without anything going sideways, and a pretty, polite woman with warm brown eyes genuinely liked me.
+
+Because my autistic wiring came from the factory with zero poker face whatsoever, it never crossed my mind what my expression looked like from the outside as I climbed Grandpa Walter's three un-adapted wooden porch steps, pushed open the front door into the foyer, and clicked down the hardwood hall toward the smell of Sunday coffee and cinnamon toast in our eat-in kitchen.
+
+Out at the sunlit breakfast table, surrounded by open three-ring binders, green engineering graph paper, and a graphing calculator, Gwen glanced up from her chair—and broke into an immediate smile.
+
+Reaching for her two tall matte-charcoal forearm crutches leaning against her chair back, my sister stood up to meet me halfway across the linoleum just like we did every time either of us walked through the door. Propping all four of our crutches neatly side by side against the kitchen doorframe right beneath the faint pencil marks where Grandpa had measured our heights growing up, I opened both arms and pulled Gwen straight into our automatic greeting hug—my chin tucking into its familiar spot below her collarbone while she wrapped both long arms warmly around my shoulders and rested her cheek on top of my tousled hair.
+
+"Morning, stranger," Gwen said happily, giving me an extra squeeze before stepping half a pace back to look down at my face. "Survive your big night out in the wild?"
+
+Then Gwen stopped mid-blink.
+
+Her green-hazel eyes narrowed half a millimeter—taking in my loose, unhurried shoulders, the goofy, unstoppable grin practically stretching my cheeks to my ears, and whatever floating, unmistakable glow was radiating straight off my face in the morning sun.
+
+Right in front of me, Gwen's eyebrows arched high toward her honey-brown curls, and a delighted, knowing grin tugged at the corners of her mouth.
+
+"Whoa," Gwen teased softly, tilting her head down at me with pure sisterly amusement. "Hold everything—look at your face, Nolan Lennox. Somebody had a *really* good movie night."
+
+Heat rushed up my neck so fast the tips of my ears felt like toaster coils.
+
+Even though Gwen stood six inches taller than me, read neurotypical subtext ten times faster than my brain ever would, and could spot a half-truth from across a crowded mall, inside my head one rule sat carved in solid granite: she was still my younger sister, five years behind me, and a big brother's job was to protect his kid sister. Grown-up bedroom details belonged strictly behind a closed door where my little sister never had to hear about them.
+
+At the same time, lying outright went completely against how my brain worked—so I rubbed the back of my warm neck, stared down at the toaster for half a second while that hopeless grin refused to leave my mouth, and stuck strictly to verified PG facts.
+
+"It was a really good evening," I said earnestly. "We had cheese pizza at her little dinette table, channel thirteen came in super sharp on the nine-dollar antenna with zero ghosting, and Tammy even keeps spare wrapped toothbrushes under her sink so I didn't have to skip brushing my teeth before bed. She's really nice to me, Gwenny."
+
+Gwen didn't poke, didn't tease me harder to make me squirm, and didn't ask a single prying question.
+
+Instead, every trace of playful mischief in my sister's eyes melted into pure, uncomplicated warmth. Growing up right beside me, Gwen knew better than anybody on Earth how many classmates in middle school and high school had looked straight past the quiet guy on forearm crutches who talked like a computer manual—and seeing me walk into our kitchen standing tall and glowing because someone was treating me gently made her whole face shine.
+
+"I'm really, really happy for you, Nolan," Gwen said sincerely, reaching out to pat my cheek once before picking up her charcoal crutches to settle back into her chair. "You deserve somebody who treats you well."
+
+Right on cue, the interior fire door from our two-car garage clicked open past the mudroom, and Grandpa Walter strolled into the kitchen wiping socket-wrench grease off his knuckles with a red shop rag. Spot-checking the wall clock above the double sink—ten-fifty-four, right ahead of the eleven o'clock arrival I had promised when I called from Tammy's wall phone at nine—Grandpa gave me one approving nod, poured a tall glass of orange juice out of the refrigerator, and set it beside the island.
+
+"Bus run on time off Military Highway, boy?" Grandpa asked pleasantly.
+
+"Right on the dot, Grandpa," I beamed, gulping half the cold glass while feeling mighty glad to be standing back on familiar kitchen linoleum. "Left socket drawer need sorting after lunch?"
+
+"Already sorted," Grandpa chuckled, ruffling my hair once on his way toward the coffee pot. "Eat yourself two eggs and go keep an eye on that scholar at the table so she doesn't daydream out the backyard window all afternoon."
+
+***
+
+#### 1:15 PM — Protecting Every Straight A at the Kitchen Table
+
+By quarter past one—after I ran upstairs to shower in our hallway bath, changed out of yesterday's wrinkled work polo into a clean navy cotton t-shirt, and downed scrambled eggs and toast while Grandpa settled into his leather recliner in the family room with the Sunday Tidewater newspaper—it was time for my non-negotiable Sunday afternoon job.
+
+Pulling out the oak kitchen chair directly beside Gwen's elbow, I propped my matte-silver crutches next to hers, slid her assignment planner square in front of me, and uncapped a blue pen.
+
+On paper, anybody looking at Gwen's report card would have laughed at the idea that she needed her older brother sitting beside her homework stack. Gwen was getting straight A's across every single class on her sophomore schedule—Honors Algebra II and Trigonometry, Chemistry, World History, and Sophomore English—and half the time, once she finished her actual math worksheet, she filled the margins of her green engineering pad with orbital-mechanics equations that already went clean over my head.
+
+Knowing my little sister's brain, though, meant knowing the exact trap waiting inside easy classes: whenever routine busywork felt too slow for her—twenty-five repetitive World History vocabulary definitions or writing out four lines of intermediate algebra steps when she could already see the final sine ratio in her head—she got tempted to skip steps or leave the dull worksheet for Monday homeroom.
+
+And in my rulebook, girlfriend or no girlfriend, nothing in Chesapeake came ahead of making sure Gwen's straight A's stayed straight A's.
+
+Working hourly cash registers and cable aisles over at Blue Tech was an honest living that suited my routine-loving brain fine, yet I knew down to my bones that Gwen's mind belonged inside university lecture halls and astronomy labs—places where scholarships didn't forgive sloppy homework shortcuts and where the outside world already looked twice at anyone walking in on forearm crutches before reading their transcript.
+
+"Let's see the trig sheet first," I said, running my index finger down numbers one through twenty-four against her textbook page. "Wait—hold up, Gwenny. On fourteen, seventeen, and nineteen you jumped straight from the secant identity to the final fraction without writing the common-denominator line in the middle."
+
+Gwen let out a theatrical groan across the tabletop, flopping her chin onto her palm. "Nolan, it's literally just multiplying top and bottom by cosine! Anybody with eyeballs knows how I got there!"
+
+"Mr. Callahan docks two points per problem if every intermediate substitution isn't written in pencil," I reminded her calmly, sliding the worksheet and her mechanical pencil right back across the wood grain. "Six points turns a hundred into a ninety-four, and two ninety-fours in a grading period puts a ninety-three A-minus in the gradebook if you catch one hard quiz. Write the middle lines out cleanly while I pull your Chemistry flash cards."
+
+Rolling her eyes toward the ceiling, Gwen couldn't even hide the fond smile tugging at her mouth as she picked her pencil back up and neatly wrote out all three missing middle steps.
+
+For the next two and a half hours, afternoon sunlight crept slowly across the kitchen island while we worked through every single folder side by side. Once her trig sheet was ironclad, I held up her stack of white index cards one by one—quizzing her aloud on polyatomic ions, covalent bond angles, and sixteenth-century trade routes, setting any card she hesitated two seconds on into a repeat pile until she rattled the whole deck off without a single stumble, and double-checking the back side of her English essay rubric so no hidden prompt got missed.
+
+At quarter to four, when the very last World History definition was underlined neat and dry and every binder ring snapped shut inside her backpack for Monday morning, Gwen stretched both long arms high overhead, let them drop down, and leaned her shoulder warmly against mine right there at the kitchen table.
+
+"Thanks, slave driver," Gwen murmured affectionately, bumping my arm with hers.
+
+"Hey—straight A's across the board," I said proudly, tapping her closed backpack. "Nobody at that school gets an excuse to mark my sister down."
+
+Gwen looked sideways at me for a quiet second—noticing how, even on the Sunday after my very first night away from home with a brand-new girlfriend, I hadn't spent the afternoon hovering by the kitchen wall phone or rushing back out the door to Route 15. I was right here at our table where I always was. Smiling softly to herself, my little sister rested her head briefly against the top of my hair before rolling her chair toward the counter to put the kettle on for hot chocolate, both of us completely content in our quiet Sunday routine.
+
+### Part 5: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
 
 **Date:** 2000-10-17 at 08:30 America/New_York
 
@@ -456,7 +538,7 @@ That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of c
 
 Come December first, my name would drop off Tammy's lease automatically with zero overlap, leaving me free to sign a lease of my own on a tiny second-floor studio inside an older nineteen-sixties high-rise apartment tower four blocks from Blue Tech. Come Thursday evening over birthday cake, I couldn't wait to ask my sister if she wanted to come live with me.
 
-### Part 5: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
+### Part 6: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
 
 **Date:** 2000-10-19 at 18:30 America/New_York
 
@@ -526,7 +608,7 @@ Gwen pulled back just enough to cup both sides of my face in her palms, looking 
 
 True to her word, Gwen booted up her clunky gray laptop running Quantum OS 98 right there on an upturned packing crate beside me, drafted a neat checklist of final meter-read dates while leaning warm against my shoulder, and refused to go to sleep until every single envelope was stacked, stamped, and conquered together.
 
-### Part 6: Moving Into a Rectangular Box and Quantum OS 2000
+### Part 7: Moving Into a Rectangular Box and Quantum OS 2000
 
 **Date:** 2000-12-01 at 16:15 America/New_York
 
@@ -582,7 +664,7 @@ Nolan grinned from ear to ear, reached down to his zippered CD wallet beside his
 
 While blue setup bars marched steadily across my screen and Nolan—happily back in his element of clean technical routines—lined all four of our forearm crutches in exact height order beside the footboard before fine-tuning the V-shaped rabbit ears atop our swiveled television until snowy local broadcast cleared into a late-night nineteen-eighties fantasy movie, I curled right up against my big brother's side under Grandpa Walter's plaid wool blanket. Being neurotypical while growing up five years behind a verbal autistic big brother meant I had known my whole life how deeply Nolan thrived on plain truth, zero yelling, and quiet, predictable affection—and even Grandpa Walter and I had genuinely approved of polite, soft-spoken Tammy that first evening we drove out to pick Nolan up from her trailer when I was sixteen, long before her temper began to turn. Exhausted from weeks of funeral and house-sale chaos, broke as church mice, and crammed into a rectangular one-person box where nobody would ever play mind games with my brother again, I felt happier than I had been in two whole years just having Nolan safe beside me.
 
-### Part 7: Eighty-Nine Degrees and One Rattling Fan
+### Part 8: Eighty-Nine Degrees and One Rattling Fan
 
 **Date:** 2001-08-18 at 15:10 America/New_York
 
