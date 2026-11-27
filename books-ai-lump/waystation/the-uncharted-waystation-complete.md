@@ -684,6 +684,8 @@ Even after moving back into Tammy's trailer for June and July, Tammy's old trick
 
 **Date:** 2001-08-21 at 08:30 America/New_York
 
+![Inside the fluorescent-lit brutalist concrete waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his hand poised above his steel wheel-lock lever and his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, while petite five-foot-tall Tammy (baby-blue zip cardigan over white camisole, flared jeans, chunky white platform sneakers) strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash, glancing impatiently back over her shoulder.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg)
+
 #### 8:30 AM — Petty Fights, Mystery Destinations, and Two Competing Instincts
 
 By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee—once because my manual wheelchair tire left a damp mark two inches inside the linoleum doorway, and ten minutes later because I asked where my clean navy t-shirts had gone.
@@ -767,6 +769,8 @@ Under the harsh hum of the concourse fluorescents, every alarm bell in my chest 
 
 **Date:** 2001-08-21 at 09:49 America/New_York
 
+![Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg)
+
 #### 9:49 AM — Four Steep Aluminum Steps and Zero Lift Notice
 
 My thumbs froze above the steel wheel locks of my manual wheelchair—and then dropped limply back onto my jeans knees without clicking them shut.
@@ -831,6 +835,8 @@ When the driver pulled out of the Bristol bay, turned across the state line into
 
 **Date:** 2001-08-22 at 09:30 America/Chicago
 
+![Inside a dim commercial highway bus cabin on a rainy Wednesday morning in Nashville, exhausted twenty-three-year-old Nolan Lennox sits wedged on the narrow aisle seat in his olive jacket with his matte-silver single-tube Lofstrand forearm crutches resting beside his knee, gazing wistfully past sleeping Tammy (in her pastel-blue zip cardigan and foam headphones beneath the loose metal wheelchair footrests on the overhead parcel shelf) through rain-streaked glass toward an adjacent bus displaying NORFOLK in warm amber LED letters.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/exodus_p002_nashville_rain_window.jpg)
+
 #### 9:30 AM — Rain on Nashville Glass and Counting Down to Four O'Clock
 
 Gray morning rain streaked sideways across the tall tinted windows of our third Pathfinder coach after a bleary pre-dawn transfer in Knoxville, blurring the wet limestone bluffs and neon guitar signs sliding past as we rolled into downtown Nashville.
@@ -890,6 +896,8 @@ Shaking his head darkly, the driver wedged both of my steel legrests flat undern
 ### Part 3: Eight-Oh-Five at the Timeclock and Two Unspoken Guardrails
 
 **Date:** 2001-08-22 at 20:05 America/New_York
+
+![Inside the fluorescent-lit Emerald Creek Blue Tech employee breakroom at 8:05 PM on Wednesday night, twenty-three-year-old Computers Shift Supervisor Mallory Walsh (5-foot-5, copper-auburn ponytail with a blue ballpoint pen tucked behind her right ear, thin silver wire-rimmed glasses, freckles, royal-blue polo with silver collar pin, khaki slacks, and belt key-reel) stands beside the gray wall timeclock reading 8:05 holding her brass car key in one hand while reading a printed attendance audit strip with deep concern in front of Nolan's empty corner breakroom table.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/exodus_p003_mallory_timeclock_ncns.jpg)
 
 #### 8:05 PM — One Blank Line on Week A
 
@@ -958,6 +966,8 @@ Holding my brass car key tight between my thumb and index finger under the parki
 
 **Date:** 2001-08-22 at 20:18 America/New_York
 
+![Around the sunlit oak-and-laminate kitchen table of Grandpa Walter's Chesapeake home in August 2001, seventy-nine-year-old retired Navy machinist Walter Lennox (in wire-rimmed glasses and a beige cardigan over a blue shirt) slides his blue-and-gold credit union card firmly across the tabletop while seventeen-year-old Gwen Lennox (6-foot-1, burgundy top, with her matte-charcoal single-tube Lofstrand forearm crutches leaning behind her chair) points out the Pasco arrival window on a printed coast-to-coast bus schedule alongside off-duty Mallory Walsh.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg)
+
 #### 8:18 PM — Breaking Protocol Four Blocks Down Eden Way North
 
 Instead of turning right onto Emerald Creek Parkway toward Virginia Beach, I turned left out of the Marketcenter apron and drove straight east down Eden Way North past the dark brick storefront of Emerald Creek Station.
@@ -1011,6 +1021,8 @@ My chest squeezed hard, knowing Nolan's rule-loving heart better than anyone in 
 ### Part 2: Colby Truck Stop, US-287, and Crying Into Four Safe Arms in Pasco
 
 **Date:** 2001-08-24 at 02:40 America/Chicago
+
+![On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg)
 
 #### 2:40 AM — Bitter Wind in Colby, US-287, and Breaking Skin in Salt Lake
 
@@ -1090,6 +1102,8 @@ Gwen didn't hesitate half a second—dropping down onto the bench right on my ri
 
 **Date:** 2001-12-01 at 15:30 America/New_York
 
+![On the quiet second-floor terrazzo stairwell landing outside white apartment door 205 at Harborview Towers in Norfolk in December 2001, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy Henley and jeans) stands beaming on his two matte-silver single-tube Lofstrand forearm crutches while off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan over cream tee, canvas tote) rests one warm hand gently over his wrist and smiles up into his eyes.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_door_205_landing_confession.jpg)
+
 #### 3:30 PM — Autumn Without Blue Tech and Ray Halstead's Personal Line
 
 Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening—after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever take hold—brought me back under Grandpa Walter's roof off Eden Way North into an autumn where my whole daily routine had to be rebuilt from scratch.
@@ -1133,6 +1147,8 @@ Adjusting her thin silver wire-rimmed glasses with warm pink dusting her freckle
 ### Part 1: Colby, Salt Lake Skin Breakdown, Pasco, and Abandoned in Seattle
 
 **Date:** 2001-08-24 at 02:40 America/Chicago
+
+![At 2:40 AM outside a lonely, windswept highway travel plaza in Colby, Kansas under green-lit diesel canopies and pitch-black prairie sky, weary twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) leans quietly on his two matte-silver single-tube Lofstrand forearm crutches beside a diner walkway pillar looking across at petite five-foot-tall Tammy sitting hunched and regretful on the concrete curb while their unbranded silver-and-blue highway coach refuels in the background.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg)
 
 #### 2:40 AM — Bitter Wind in Colby, US-287, and Breaking Skin in Salt Lake
 
@@ -1221,6 +1237,8 @@ Back in August, Grandpa's cardiologist had quietly warned us his weakened heart 
 ### Part 3: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205
 
 **Date:** 2001-10-26 at 13:15 America/Los_Angeles
+
+![Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg)
 
 #### 1:15 PM — Newly Eighteen at the Checkpoint and the First Question Out of My Mouth
 
@@ -1727,6 +1745,8 @@ While blue setup bars marched steadily across my screen and Nolan—happily back
 ### Part 15: Clocking Out Together, One Car Ride Home, and Crimson Red Outside the Lobby
 
 **Date:** 2002-02-12 at 19:45 America/New_York
+
+![Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg)
 
 #### 7:45 PM — Half a Mile to Mall Ring Road and Three Buses in the Sleet
 
