@@ -474,7 +474,213 @@ Watching Grandpa's red taillights blink once at the gate and disappear behind th
 
 Then Tammy slipped her warm small fingers around my wrist, leaned her cheek briefly against my upper arm with a quiet sigh, and tugged gently toward the four steps and the wobbly unpainted wooden ramp waiting beside them. At twenty-one, with a brass key of my own in my pocket and someone gentle smiling up at me in the cool November dusk, two buses each way and a ramp that *sort of* worked felt like the luckiest bargain in Chesapeake.
 
-### Part 6: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
+### Part 6: Two-Digit Clocks, Floppy-Disk Backups, and Turning Everything Off Before Midnight
+
+**Date:** 1999-12-31 at 23:35 America/New_York
+
+#### 11:35 PM — Surge Strips, CMOS Batteries, and Gwen's Floppy Disk
+
+Twenty-five minutes before the year two thousand arrived on the East Coast, every endcap back at the Emerald Creek Blue Tech looked like a hurricane had blown straight through the computer department.
+
+All five hours of my Friday morning-to-afternoon shift, panicked Chesapeake shoppers had lined up twelve deep at my register clutching six-outlet beige surge protectors, bricks of alkaline flashlight batteries, shrink-wrapped floppy-disk diagnostic boxes promising to rescue home computers from the Millennium Bug, and hand-cranked weather radios—half of them convinced that the exact second eleven-fifty-nine rolled over to twelve-zero-zero, two-digit calendar clocks were going to shut down the Virginia power grid, scramble bank accounts, and drop airliners out of the sky.
+
+Standing on the patterned beige linoleum beside Tammy's kitchenette partition in my flannel lounge shirt with both of my matte-silver Lofstrand forearm crutches leaned neatly against the counter, I knew perfectly well that thirty-two-bit Quantum OS 98 already tracked dates cleanly past the year twenty-thirty-eight as long as a motherboard's internal CMOS clock knew nineteen-ninety-nine turned into two thousand instead of nineteen hundred.
+
+At the same time, my rule-following brain believed in zero unnecessary risks when sixteen-year-old Gwen's astronomy spreadsheets were sitting on an older gray laptop back home near Emerald Creek Mall.
+
+Over at the two-chair Formica dinette, Tammy stirred miniature marshmallows into two ceramic mugs of hot cocoa in thick fuzzy winter socks and an oversized cream cable-knit sweater. Six weeks into living together at Pinecrest Court, everything under our narrow roof felt calm, polite, and genuinely happy. Tammy never minded my ninety-minute two-bus CVTA Route 15 commute, never complained when I spent Sunday afternoons at Grandpa Walter's kitchen table checking Gwen's straight-A freshman folders, and right now—twenty-five minutes before our very first New Year's Eve midnight together—she simply smiled warmly across the counter as I lifted the beige corded wall receiver off its hook.
+
+"Making sure your sister shuts down the spaceship math?" Tammy asked fondly, carrying both steaming mugs over to the floral living-room sofa where my nineteen-inch television showed crowds packed into coats up in Times Square.
+
+"Can't trust a ninety-seven laptop BIOS until we see how the rollover behaves," I explained earnestly, dialing Grandpa Walter's seven digits by muscle memory.
+
+Grandpa picked up on the second ring, his steady voice sounding amused over the murmur of his own living-room television.
+
+"Evening, Nolan," Grandpa chuckled. "Got three gallons of tap water in milk jugs on the counter just to keep the neighbors happy, and your sister's still hunched over that gray contraption at the dining table."
+
+"Could you put Gwenny on for sixty seconds, Grandpa?"
+
+A wooden chair scraped, tall matte-charcoal forearm crutches clicked three brisk strides across linoleum, and Gwen came onto the line laughing before I even said a word.
+
+"Yes, Nolan, I already saved a backup copy onto a fresh three-and-a-half-inch floppy disk and slid the little plastic write-protect tab open so nothing can overwrite it!" Gwen announced triumphantly.
+
+"Did you verify the file opens off the A-drive before ejecting the disk?" I double-checked, because unverified backups didn't count as backups.
+
+"Opened it twice, closed the program, and put the floppy inside my Latin binder," Gwen promised warmly. "Can I keep plotting until eleven-fifty-eight?"
+
+"Nope—shut it all the way down right now," I instructed firmly. "Click Start, click Shut Down, wait until the screen actually gives you the amber message saying it's safe to turn off your computer, press the power button all the way out, and then flip the red rocker switch on the floor surge strip to off—better yet, pull the three-prong wall plug clean out of the baseboard outlet until twelve-fifteen just in case the electric substation hiccups at midnight."
+
+Through the receiver I heard my little sister let out a fond, dramatic sigh—followed two seconds later by the unmistakable chime of Quantum OS 98 logging off.
+
+"Shutting down right now, Chief Engineer," Gwen murmured affectionately. "Wait—did you turn your own tower off back in Tammy's bedroom?"
+
+"Shut it down and unplugged the surge strip at eleven-fifteen," I reported proudly. "Happy New Year, Gwenny. Tell Grandpa I'll be home by quarter to eleven Sunday morning to check your biology packet."
+
+"Happy New Year, big brother. Give Tammy a hug for us."
+
+Hanging the beige receiver back onto its wall cradle, I double-checked that the electric baseboard heater was clicking steady against the December chill outside Mr. Pruitt's frosty plywood ramp, picked up my matte-silver crutches, and walked five paces into the living room to settle onto the floral sofa right beside Tammy.
+
+Tucking both socked feet underneath her cushion, Tammy handed me my warm cocoa mug, leaned her glossy dark hair comfortably against my shoulder, and watched the glowing numbers on the bottom corner of channel ten count down the final three minutes of nineteen-ninety-nine.
+
+"Think the streetlights out on Route 13 are actually gonna blink out?" Tammy asked softly against my flannel sleeve.
+
+"Substation relays don't care what year the calendar says," I answered calmly, wrapping my free arm gently around her shoulders the way couples in movies did. "Still—having every hard drive parked with the power off before midnight just makes good engineering sense."
+
+Ten, nine, eight ticked down across the nineteen-inch glass; confetti burst white across Times Square; Tammy tilted her chin up with a bright, gentle smile to kiss my cheek; and out past our frosted living-room window and nine-dollar rabbit ears, the amber sodium streetlight out by the Pinecrest Court gate kept right on shining into the year two thousand without flickering once. At twenty-one years old, holding a warm mug beside someone sweet with my family safe across town and every floppy backup verified, I figured grown-up life didn't get much steadier than this.
+
+### Part 7: Unspoken Rules, Four Nights Back Upstairs, and Clean Work Polos
+
+**Date:** 2000-09-23 at 13:20 America/New_York
+
+#### 1:20 PM — Rehearsing Four Sentences on the Southbound Fifteen
+
+All the way down eight-lane Military Highway aboard the southbound CVTA Route 15, clutching an empty canvas gym bag across my knees in my royal-blue Blue Tech work polo while my matte-silver Lofstrand forearm crutches rattled softly beside my leg, I whispered the same four-sentence apology under my breath for the nineteenth straight time.
+
+*Tammy, I'm really sorry about Wednesday night. When you said you were fine eating leftovers by yourself and not to rush back if Grandpa needed help in the garage, I took the exact words literally instead of realizing you wanted me to come straight home. Next time I'll ask directly whether you want company before I make a stop. I only swung by today to grab clean work shirts out of my dresser if you still want space.*
+
+Ten months of smooth, predictable peace inside Pinecrest Court—ten months where I had split every lot-rent payment right on the first, saved up my biweekly direct deposits to buy a sturdy oak full-sized bedframe for Tammy's back bedroom plus a brushed-silver dual-deck VCR and DVD combo for our movies, and thought I had finally figured out how being a boyfriend worked—had blown apart in ninety seconds flat four nights ago.
+
+Looking back at Wednesday afternoon, my literal twenty-two-year-old brain still ached trying to trace the invisible tripwire I had stepped on.
+
+Right before I rolled down Mr. Pruitt's creaking wooden ramp at two-thirty to catch the bus for my four-to-eight evening shift at Blue Tech, I had mentioned plainly that seventy-eight-year-old Grandpa Walter was planning to clean out the high shelves in his two-car garage before Friday's rain, and asked if Tammy minded me stopping by Grandpa's house for forty minutes after work before catching the last outbound bus home. Standing barefoot by the kitchenette sink, Tammy hadn't frowned once. In a flat, breezy voice, she had waved a dish towel and said, *Oh, don't rush back on my account—go sort wrenches with your grandpa and Gwen, I'm totally fine eating cold macaroni by myself.*
+
+Inside my head, spoken English wasn't a riddle; *I'm totally fine* meant she was fine. So after clocking out at eight, I had walked four blocks behind Emerald Creek Mall, steadied Grandpa's step-stool while he handed down paint cans, quizzed sophomore Gwen for ten minutes on her Latin II second-conjugation verbs, and caught the final Route 15 cutback transfer back to Robert Hall Boulevard—walking in Tammy's center door at nine-forty-five expecting a quiet goodnight.
+
+Instead, I had walked straight into a hurricane.
+
+Tammy hadn't just been upset; she had screamed loud enough to rattle the thin aluminum walls—shouting that *any normal grown man on Earth knows "don't rush back, eat cold macaroni by myself" means the exact opposite*, accusing me of caring more about socket drawers and bus schedules than her, dramatically declaring that *we were broken up*, and ordering me to stuff three days of clothes into a bag and go sleep at my grandfather's house before the last bus stopped running.
+
+Too stunned and sensory-overloaded by the sudden yelling to form a coherent sentence, I had ridden back across Chesapeake in the dark and climbed the stairs up to my old childhood bedroom at Grandpa Walter's house—telling Grandpa and Gwen sheepishly at breakfast Thursday morning that Tammy and I had just hit a small communication mix-up that was *my fault* for missing a hint.
+
+For four straight days, my stomach had sat knotted like wet rope. Over at the Emerald Creek Blue Tech, I didn't have a single friend my own age in the breakroom to ask about relationship rules yet—just polite older coworkers talking football scores—and every hour I spent straightening seventy-five-ohm cables in Aisle Four, my brain kept landing on the exact same verdict: Tammy had been sweet and patient with me for ten straight months, and *my* faulty autistic social radar had broken it.
+
+Pulling the yellow signal cord as the bus approached Robert Hall Boulevard, I stepped carefully down the high front steps on my silver forearm crutches and walked the familiar gravel lane into Pinecrest Court under warm late-September sun, praying Tammy wouldn't yell when I knocked to pick up clean Blue Tech polos for Monday's shift.
+
+***
+
+#### 1:50 PM — Tears at the Storm Door and Forgetting Every Question
+
+My rubber crutch tips had barely clicked onto the second weathered wooden step below the flat four-by-four landing—right beside Mr. Pruitt's steep, sun-bleached plywood wheelchair ramp resting on its crooked cinder blocks—when the inner trailer door swung wide open behind the scroll-grille aluminum storm door.
+
+Tammy stood barefoot on the linoleum threshold, straight jet-black hair loose past her shoulders over a thin white ribbed spaghetti-strap camisole and cutoff denim shorts.
+
+There wasn't a trace of Wednesday night's red-faced anger anywhere on her round face. Before I could even open my mouth to deliver sentence one of my rehearsed apology, Tammy's big doe-brown eyes welled straight up with shining tears, her lower lip trembled, and she pushed the storm door open to throw both small arms tightly around my neck right there on the top wooden landing.
+
+"Oh, Nolan, I'm so glad you came home," Tammy whispered thickly against my royal-blue polo collar, holding on as if I were the one who had walked out on *her*. "I've been crying in this quiet trailer for three whole days—I didn't mean a single word I yelled Wednesday night, baby, I swear I didn't."
+
+Every prepared gear inside my head jammed to a stop. Balancing carefully with both gray forearm cuffs braced while my empty gym bag hung from my wrist, I blinked down at the top of her glossy black hair in total bewilderment.
+
+"Wait—you didn't?" I stammered earnestly. "Because I worked out why I messed up, Tammy—when you said you were fine eating macaroni alone, my brain took the literal words instead of—"
+
+"Shh, come inside out of the sun," Tammy murmured in that soft, unhurried Week-One voice that instantly melted the tight knot behind my breastbone, tugging gently on my polo hem until I stepped across the threshold into the warm, un-air-conditioned trailer and clicked the deadbolt shut behind us.
+
+Inside, my nineteen-inch television and silver VCR/DVD combo still sat untouched in the living room, my oak dresser still stood back down the narrow thirty-two-inch hallway beside our full-sized bed, and the yellow carbon copy of Mr. Pruitt's lease addendum still hung pinned to the side of the tan refrigerator with both of our signatures intact—because Tammy had never once called the park office to take my name off the lease.
+
+Stepping right up between my crutches on the patterned beige linoleum, five-foot-nothing Tammy tilted her tear-streaked round cheeks seven inches upward, resting both warm palms flat against my chest.
+
+"You didn't ruin anything, Nolan," Tammy said softly, turning Wednesday night's explosion completely upside down with three quiet sentences. "I only lost my temper like that because I love you so much it scares me sometimes—sitting here all evening by myself, I got it in my head you liked being back at your grandpa's big house better than being here with me, and I panicked. Don't stay away again, okay? Let me show you how much I missed you."
+
+To a lonely twenty-two-year-old guy who had spent ninety-six hours convinced he was defective at relationships, hearing that her screaming only meant *she loved him too much* felt like sunlight breaking through storm clouds.
+
+Before my literal mind could even think to ask why missing somebody required shouting them out the door at ten o'clock at night, Tammy didn't wait for another word of conversation. Standing two feet in front of me in the eighty-four-degree afternoon stillness of the trailer—with the twenty-inch box fan humming softly in the back dinette window—she crossed both small wrists at her waist, caught the bottom hem of her white spaghetti-strap camisole, pulled it clean off over her head onto the floral sofa, and unbuttoned her denim shorts right down to the linoleum until she stood completely bare in front of me, reaching up to unclip my Blue Tech name badge from my collar and catch my hand toward the narrow rear hallway.
+
+[Note to the AI: Fade to black here as Tammy uses physical intimacy to reconcile with twenty-two-year-old Nolan after initiating their four-day first breakup. Per safety guardrails, write strictly around any sexual activity with zero explicit description and never generate artwork depicting nudity or sexual scenes; resume afterward once evening settles in.]
+
+***
+
+#### 6:10 PM — Unpacking an Empty Bag
+
+By ten past six, orange late-September dusk slanted warm across the living-room mini-blinds while Tammy hummed cheerily at the four-burner stove boiling water for spaghetti—acting for all the world as if Wednesday night through Saturday noon had never happened at all.
+
+Calling Grandpa Walter's kitchen landline from the wall phone to let him and Gwen know Tammy and I had patched things up and I was staying home at Pinecrest Court tonight, I heard a tiny, half-second pause on the other end of the line before Grandpa said calmly, *All right, Nolan. Glad things smoothed out, son. See you after lunch tomorrow for your sister's homework.*
+
+Even sixteen-year-old Gwen, when Grandpa passed her the phone for ten seconds, kept her voice gentle and careful—*See you tomorrow afternoon, Nolan; love you*—without saying a bad word against Tammy.
+
+Folding my empty canvas gym bag flat and sliding it back onto the bottom shelf of my oak dresser down the narrow hallway, every muscle in my shoulders finally unclenched. In my literal rulebook, one fight in ten whole months was practically a ninety-nine-percent reliability rating—and now that I knew *I'm fine* secretly meant *come straight home*, I figured all I had to do was try a little harder and everything would stay wonderful forever.
+
+### Part 8: Protected Memory, Store Four-Twenty, and Someone Safe in the Breakroom
+
+**Date:** 2001-05-15 at 12:30 America/New_York
+
+![Warm 2001 Emerald Creek Blue Tech employee breakroom scene at a quiet corner Formica table beside gray staff lockers, corkboard schedules, and a countertop microwave: twenty-three-year-old Computers and Software Shift Supervisor Mallory Walsh sits on the left with copper-auburn hair in a ponytail, a blue ballpoint pen tucked behind her right ear, thin silver wire-rimmed glasses, royal-blue supervisor polo, and tan khaki chinos with a retractable override key-reel, gesturing animatedly beside a silver Quantum OS 2000 Professional CD-ROM jewel case while Nolan Lennox sits across from her in his manual wheelchair with his two matte-silver Lofstrand forearm crutches stowed upright in the black canvas back pocket behind his backrest on a day his legs weren't feeling the concrete floor.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p008_mallory_breakroom_quantum_os.jpg)
+
+#### 12:30 PM — Ring-Protected Memory and the Corner Table
+
+In the back corner of the Emerald Creek Blue Tech employee breakroom—the one quiet Formica table twelve feet clear of the buzzing vending machines and the burnt-popcorn smell of the countertop microwave—a chrome retractable key-reel gave a soft, familiar clink as Mallory Walsh set her insulated lunch bag down directly across from my untouched peanut-butter sandwich.
+
+"Mind if I take the quiet end, Nolan?" Mallory asked plainly, tapping the blue ballpoint pen tucked behind her right ear before sliding onto the molded plastic chair opposite mine. "Somebody in Appliances is microwaving leftover fish sticks, and two guys by the lockers are arguing at eighty decibels about football draft picks."
+
+"Please do," I said honestly, feeling the tight band behind my temples loosen by twenty percent on the spot.
+
+Back in March—two months after seventy-eight-year-old Grandpa Walter caught winter pneumonia, spent eleven terrifying days in cardiac intensive care with congestive heart failure, and had to sign a six-figure home-equity medical loan on his two-story house just to cover what insurance wouldn't—corporate had promoted twenty-three-year-old Mallory Walsh over to our Emerald Creek store from Blue Tech Store Four-Twenty up on Independence Boulevard in Virginia Beach to serve as our new Computers and Software Shift Supervisor.
+
+Within forty-eight hours of her arrival, everybody under our roof knew two things about Mallory: first, behind her thin silver wire-rimmed glasses, freckled nose, and pulled-back copper-auburn ponytail, she was an absolute, walking encyclopedia on all things Quantum hardware and Quantum OS; and second, she never wasted a single syllable on fake retail small talk.
+
+Neither of us ever had to say a word about clinical labels across the breakroom table—yet from the very first week Mallory showed me how she sorted motherboard RAM sticks in ascending bus-speed order inside the locked cage, my brain had recognized its own wiring immediately. Mallory didn't care if I looked slightly past her shoulder while listening, didn't talk in riddles, kept a mini nylon precision-screwdriver pouch clipped beside her supervisor override keys on her khaki belt, and spoke the exact same literal, rule-governed script I had spent twenty-three years trying to translate for everybody else—understanding how my head worked better than anyone I had ever met outside Gwen and Grandpa Walter.
+
+Opening her sandwich container first, Mallory reached into her canvas tote and slid a gleaming silver retail CD-ROM jewel case partway across the gray Formica toward my elbow: *Quantum OS 2000 Professional*.
+
+"Remember last week when you mentioned your sister's ninety-eight laptop keeps throwing blue fatal-exception screens halfway through her orbital-math plots?" Mallory said, her blue-gray eyes lighting up behind her lenses with pure, unhurried craft pride. "Back at Store Four-Twenty on Independence, half our returns were customers thinking their hard drives were dying when it was really just the hybrid sixteen-bit kernel in Version four-ten-nineteen-ninety-eight letting one leaky driver scribble straight across system memory. Two-Thousand Professional runs on the clean thirty-two-bit NT kernel—strict ring-protected memory spaces, hardware abstraction layer, zero random crashes. Keep an eye on the employee-accommodation binder next fall; you'll want a copy for her before winter."
+
+"Ring-protected memory so one bad process can't crash the whole machine," I repeated appreciatively, turning the jewel case at an angle toward my eyes to read the minimum RAM requirements on the back insert. For two solid minutes we traded pure, soothing technical specs—NTFS journaling versus FAT-thirty-two file tables, IRQ sharing, clean installs versus in-place upgrades—until my breathing finally slowed back to normal.
+
+Then Mallory set her water bottle down, pushed her thin silver wire-rimmed glasses half an inch up the bridge of her freckled nose, and asked a plain question with zero subtext attached.
+
+"Okay, kernel talk's covered," Mallory said quietly. "That's the fourth shift since last Friday you haven't unwrapped your sandwich on lunch punch, Nolan—and you rolled in off the Emerald Creek sidewalk in your chair this morning instead of getting off the fifteen bus. Are your legs giving you extra grief today, or is your grandpa's heart acting up again?"
+
+Getting asked a direct, literal question by someone my own age who actually wanted the real answer caught me so off guard my throat went tight.
+
+"My legs just weren't feeling four hours of sales-floor concrete today, so I brought the chair and left my crutches tucked in the back pocket—and Grandpa's holding steady on his new afternoon pills, still driving short errands in the daytime," I murmured, resting one thumb against my wheelchair's cool aluminum push-rim beside my brown paper lunch sack. "Tammy and I... uh, broke up again. Eleven days ago. I've been sleeping back upstairs in my old room at Grandpa's house."
+
+Across the Formica, Mallory didn't pry with gossip-hungry eyes the way people on TV did. She just gave one small, attentive nod to let me know it was safe to keep talking if I wanted to.
+
+"Ever since Grandpa got out of the hospital in February, I've been stopping by his house an extra evening or two a week to sort his pill organizer and drill Gwenny on precalculus before tenth-grade finals," I explained, still half-trying to diagnose what line of relationship code I had botched this time. "Two Fridays ago Tammy started yelling at me because my crutches clicked too loud getting water and because I spent twenty minutes on the wall phone checking whether Grandpa's cardiology copay cleared. She shouted that if Emerald Creek mattered more to me than Pinecrest Court, we were done and I shouldn't come back. Last fall when we broke up the first time, it only lasted four days because I realized I took a hint too literally and went back to apologize. This time... honestly, Mallory, my head hurt so bad from the yelling I just haven't gotten back on the fifteen bus yet."
+
+Behind her wire-rimmed glasses, Mallory's blue-gray eyes narrowed sharply—not at me, not by a mile, but with a sudden, unmistakable flash of fierce dislike aimed straight toward Route 13.
+
+"Hold on," Mallory said, setting both forearms flat on the table and speaking in the clearest, cleanest logic anyone outside my family had ever handed me. "Let me check the inputs here. Your seventy-eight-year-old grandfather—who raised you and your sister—nearly died of congestive heart failure this winter, and your girlfriend screamed at you and threw you out of a trailer you pay half the rent on because you checked on his heart medication and drank a glass of water?"
+
+"Well... she gets stressed worried about her benefits, and sometimes I miss social signals," I offered weakly.
+
+"Nolan, stop," Mallory said firmly—never raising her voice an inch, keeping her tone as calm and steady as a diagnostic readout. "You and I both know what missing a social cue looks like. Somebody screaming in your face over fridge shelves, crutch clicks, and checking on a sick grandfather isn't a social cue you missed. Think about what we were *just* talking about on this disc: in a healthy operating system, one process doesn't corrupt the whole machine every time you execute a valid instruction. If somebody keeps changing the specification after you follow the rules just so they have an excuse to yell at you, the bug isn't in *your* hardware."
+
+I sat completely still in my wheelchair—both wheel locks clicked tight against the linoleum—while every single word of that sentence sank straight through two years of fog.
+
+*The bug isn't in your hardware.*
+
+"Take a bite of your peanut-butter sandwich before fifteen-minute warning," Mallory added gently, nudging my paper sack half an inch closer to my knuckles before flipping open a pocket spiral pad to sketch a memory-partition diagram so nobody walking past our corner table would know we were talking about anything heavier than computers.
+
+All eleven days—and through the entire next week and a half as May stretched into its third week with me still sleeping peacefully upstairs at Grandpa's house—those thirty-minute breakroom lunches across from Mallory Walsh felt like stepping onto dry land after treading choppy water. It just felt *nice* having a friend my own age to talk to who never raised her voice, never made me guess hidden meanings, and genuinely liked hearing how CVTA bus headways lined up with motherboard clock multipliers. If Mallory felt anything warmer behind those perceptive blue-gray eyes when she slid the spare plastic chair clear of that quiet corner table every shift so my crutches or my wheelchair always had clean clearance, she never dropped a single hint across the timeclock—keeping every line clean and professional behind the small silver Shift Supervisor pin on her royal-blue collar.
+
+***
+
+#### 1:10 PM, Monday, May 28 — June First Rent and the Saved Spot
+
+Nearly three full weeks after kicking me out—right on the Friday before Memorial Day, with my biweekly direct deposit freshly posted at six in the morning and June first lot rent at Pinecrest Court four days from falling due—Tammy realized I wasn't crawling back in four days this time.
+
+That Friday evening, Grandpa Walter's kitchen wall phone rang while Gwen was upstairs studying. When I answered, Tammy's voice came through small, shaky, and sobbing—swearing she had been miserable for nineteen days, admitting she had never taken my name off Mr. Pruitt's lease because she couldn't bear losing me, and begging me just to ride down after my Saturday shift for ten minutes on the porch so she could apologize properly in person.
+
+Even with Gwen shooting me a quiet, worried look over her charcoal crutches in the foyer on Saturday afternoon, my literal sense of fairness convinced me ten minutes on an open porch couldn't trap anybody.
+
+Ten minutes was all Tammy needed. The second I climbed onto the wooden landing beside Mr. Pruitt's warped plywood ramp, Tammy met me barefoot in tears, apologized for every harsh word, tugged me inside out of the late-May heat, and pulled her exact camisole-off seduction move a second time until twenty-three-year-old loneliness and habit folded my resolve right back into place.
+
+[Note to the AI: Fade to black here as Tammy uses physical intimacy a second and final time ahead of June rent to pull Nolan back after their nearly three-week second breakup. Per safety guardrails, write strictly around any sexual scene with zero explicit description and zero nudity/sexual artwork; resume afterward in the Monday employee breakroom.]
+
+On Memorial Day afternoon back in the Emerald Creek Blue Tech breakroom, my ears burned hot with quiet embarrassment as I unwrapped my sandwich across from Mallory Walsh and admitted plainly—because lying wasn't in my vocabulary—that I had ridden the fifteen bus in from Pinecrest Court again this morning.
+
+I half-braced myself for Mallory to scoff, roll her eyes, or give up on wasting her lunch breaks on somebody foolish enough to fall for the same loop twice.
+
+Mallory didn't roll her eyes once.
+
+For two quiet seconds behind her thin silver wire-rimmed glasses, her jaw tightened half a millimeter—making it crystal clear without a single lecture how much she hated the way Tammy treated me—before she exhaled slowly, adjusted the blue ballpoint pen behind her right ear, and tapped the gray Formica right in front of my lunch sack.
+
+"Corner spot's still yours every lunch punch, Nolan," Mallory said evenly, sliding a printed three-page Quantum OS 2000 driver-compatibility chart across the table so my eyes had something steady to read. "Just remember what I told you about bad processes—and don't let anybody down off Route 13 convince you you're hard to get along with. You're the easiest person to talk to in this whole store."
+
+My throat went unexpectedly warm as I picked up the compatibility sheet.
+
+Even after moving back into Tammy's trailer for June and July, Tammy's old trick had permanently lost half its power—because five days a week at that quiet corner breakroom table, alongside Sunday afternoons at Grandpa Walter's kitchen table with Gwen, my brain now had hard, undeniable proof of what real kindness actually sounded like. The next time Tammy's temper turned ugly, there wasn't going to be a third trip back.
+
+### Part 9: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek
 
 **Date:** 2001-08-21 at 08:30 America/New_York
 
@@ -488,7 +694,7 @@ For weeks now, every single day with twenty-six-year-old Tammy had been a minefi
 
 Looking across the cramped kitchenette at Tammy shoving clothes into a suitcase in her chunky white platform sneakers, straight jet-black hair swinging past her shoulders and her round baby face pinched tight, it still staggered my literal brain how someone so polite at the start had turned into a stranger. Two years ago, when I was twenty-one and she was twenty-four—looking barely twenty with those big warm doe-brown eyes—Tammy had seemed like a dream come true: patient over fries at the Emerald Creek Mall food court, gentle on Monday evening when Grandpa Walter and Gwen met her outside these four wooden steps, and calm and reassuring that very next Saturday after Crown Burger on my second visit to this trailer—the first night I had ever spent away from my family, when she unfolded her Medicaid OB/GYN and clean STI clinic notes and laughed afterward in the dark that she had been ready to sleep with me since Day One.
 
-Barely three weeks after that night, terrified of working regular payroll hours for fear of losing her monthly SSI check, Food Stamps, and Virginia Medicaid, Tammy had talked me into moving out of Grandpa Walter's house and into her trailer—turning my easy four-block walk to Blue Tech into a grueling two-bus Route 15 cutback-transfer haul through Military Highway and Old Emerald Creek Road every shift. And for a long while, everything really *had* been wonderful. Tammy had stayed sweet and polite, respected Grandpa Walter, treated Gwen kindly—even if having to tilt her five-foot-nothing chin thirteen inches straight up at my neurotypical six-foot-one little sister visibly unsettled her, especially once she spotted the pencil mark on Grandpa's kitchen doorframe showing Gwen had already hit five feet flat at ten years old—and accepted without complaint that Gwen was the absolute center of my universe and would always come first in my life. Then the mood swings started. Twice over the past year, Tammy had dramatically broken up with me, only to reel me right back in days later by parading around the hot trailer barefoot and completely naked or tugging up her spaghetti-strap camisole to flash me until my lonely twenty-two-year-old resolve folded.
+Barely three weeks after that night, terrified of working regular payroll hours for fear of losing her monthly SSI check, Food Stamps, and Virginia Medicaid, Tammy had talked me into moving out of Grandpa Walter's house and into her trailer—turning my easy four-block walk to Blue Tech into a grueling two-bus Route 15 cutback-transfer haul through Military Highway and Old Emerald Creek Road every shift. And for a long while, everything really *had* been wonderful. Tammy had stayed sweet and polite, respected Grandpa Walter, treated Gwen kindly—even if having to tilt her five-foot-nothing chin thirteen inches straight up at my neurotypical six-foot-one little sister visibly unsettled her, especially once she spotted the pencil mark on Grandpa's kitchen doorframe showing Gwen had already hit five feet flat at ten years old—and accepted without complaint that Gwen was the absolute center of my universe and would always come first in my life. Then the mood swings started. Twice over the past year, Tammy had dramatically broken up with me—first for four miserable days last September when I thought missing an unspoken hint was all my fault, and then for nearly three full weeks back in May until June lot rent came due—only to reel me right back in afterward by parading around the hot trailer barefoot and completely naked or tugging up her spaghetti-strap camisole to flash me until my lonely resolve folded.
 
 Not a third time. Two full years in, at twenty-three, the fog had finally burned clean out of my head. I was ready to break up with her for good—I had just needed a safe way to get myself, my wheelchair, and my crutches out of an isolated trailer park off Route 13 without Tammy blocking the narrow doorway.
 
@@ -644,11 +850,15 @@ While Gwen went upstairs to make up the full-sized bed in my old bedroom, Grandp
 
 "I'm making October nineteenth, boy," Grandpa Walter said with a steady smile, squeezing my wrist. "I'm seeing your sister turn eighteen. After that, Nolan... make sure she's got a home right beside her brother."
 
-That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of civil standby outside Pinecrest Court while my Blue Tech coworker loaded my full-sized bed, oak dresser, nineteen-inch television, silver VCR and DVD combo unit, and Quantum OS 2000 Professional laptop out of Tammy's rusty, landlord-patched trailer into his pickup before Tammy even straggled back from Norfolk—we swung by the Pinecrest Court park manager's trailer office so I could turn in my brass trailer key and get my name off the lease. Back in November of ninety-nine, when Tammy and I had decided I was moving in, the park's fourteen-day occupant rule had required me to bring two Blue Tech direct-deposit paystubs into that office and sign onto Tammy's lease as a co-tenant—and during both of the earlier breakups Tammy had initiated, she had never taken my name off the lease because she hadn't meant to yell at me either time. Because taking a co-tenant off immediately required Tammy's signature on a roommate release—which Tammy stubbornly refused to sign once she got home, holding out all autumn convinced I would come crawling back—filing my formal ninety-day park lot non-renewal notice on August twenty-first meant my name stayed legally on that trailer lease until midnight on November thirtieth. Paying my final share up front so my credit stayed spotless, my coworker and I hauled all of my furniture back to Emerald Creek and unloaded it safely under a tarp in the open second bay of Grandpa Walter's two-car garage.
+Twenty minutes later, walking four blocks over to the Emerald Creek Blue Tech on my matte-silver forearm crutches to ask Danny in warehouse freight if I could borrow his pickup truck for sheriff civil standby, Mallory Walsh was the very first person outside my family I told. Standing behind the Computers counter with that blue ballpoint pen tucked behind her ear, Mallory listened to me say I had locked my wheelchair brakes in the middle of the Norfolk Pathfinder Terminal and ended things with Tammy for good—and broke into the widest, brightest smile I had ever seen behind her thin silver wire-rimmed glasses.
 
-Come December first, my name would drop off Tammy's lease automatically with zero overlap, leaving me free to sign a lease of my own on a tiny second-floor studio inside an older nineteen-sixties high-rise apartment tower four blocks from Blue Tech—and in the meantime, Grandpa Walter, Gwen, and I had two whole autumn months back together under one roof before Gwen's eighteenth birthday cake.
+"Good—best news this building's heard all year, Nolan Lennox," Mallory said fiercely, already unclipping her retractable supervisor override key-reel to sign off on covering Danny's afternoon freight window herself. "Get every stick of your furniture out of there today, and don't you dare sign anything letting her rope you back in."
 
-### Part 7: Seventy-Five Ohms, Fast-Busy Lines, and Eden Way North
+That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of civil standby outside Pinecrest Court while Danny loaded my full-sized bed, oak dresser, nineteen-inch television, silver VCR and DVD combo unit, and Quantum OS 2000 Professional laptop out of Tammy's rusty, landlord-patched trailer into his pickup before Tammy even straggled back from Norfolk—we swung by the Pinecrest Court park manager's trailer office so I could turn in my brass trailer key and get my name off the lease. Back in November of ninety-nine, when Tammy and I had decided I was moving in, the park's fourteen-day occupant rule had required me to bring two Blue Tech direct-deposit paystubs into that office and sign onto Tammy's lease as a co-tenant—and during both of the earlier breakups Tammy had initiated, she had never taken my name off the lease because she hadn't meant to yell at me either time. Because taking a co-tenant off immediately required Tammy's signature on a roommate release—which Tammy stubbornly refused to sign once she got home, holding out all autumn convinced I would come crawling back—filing my formal ninety-day park lot non-renewal notice on August twenty-first meant my name stayed legally on that trailer lease until midnight on November thirtieth. Paying my final share up front so my credit stayed spotless, Danny and I hauled all of my furniture back to Emerald Creek and unloaded it safely under a tarp in the open second bay of Grandpa Walter's two-car garage.
+
+Even better, when I worked up the nerve at our quiet breakroom corner table the following week to ask Mallory plainly whether she might ever want to grab dinner off the clock sometime—since she spoke my exact literal language and was the easiest friend I had ever talked to—Mallory didn't play a single guessing game. Adjusting her wire-rimmed glasses with a gentle, unmistakable warmth in her blue-gray eyes that told even me she wasn't saying no out of dislike, she tapped the small silver Shift Supervisor pin on her royal-blue collar and laid down a clean, rock-solid rule: as long as we both worked at Blue Tech and her key-reel signed off on floor overrides and schedules, she flat-out refused to date anyone in the store so personal feelings could never get in the way of a business decision—while promising the corner chair opposite hers at lunch stayed mine every single shift. In my rulebook, a clear, honest boundary stated in plain English was ten times better than romance anyway; Mallory and I settled effortlessly into being genuine friends, and come December first, my name would drop off Tammy's lease automatically with zero overlap, leaving me free to sign a lease on that tiny second-floor studio four blocks from Blue Tech with Gwen right beside me.
+
+### Part 10: Seventy-Five Ohms, Fast-Busy Lines, and Eden Way North
 
 **Date:** 2001-09-11 at 08:48 America/New_York
 
@@ -734,7 +944,7 @@ Right as my front casters dipped into the concrete curb cut at Merchants Way, ti
 
 Looking sideways through blurred eyes, I stared straight at the front fender of Grandpa Walter's silver-tan four-door sedan—with Gwen already throwing the rear passenger door wide open before the wheels had barely stopped rolling.
 
-### Part 8: Second-Block Latin, the German Classroom, and Holding On at Home
+### Part 11: Second-Block Latin, the German Classroom, and Holding On at Home
 
 **Date:** 2001-09-11 at 08:55 America/New_York
 
@@ -832,7 +1042,7 @@ Across the carpet in his worn brown leather recliner, Grandpa Walter lowered him
 
 Six feet away on the family-room sofa bed—the exact cushions we had shared since we were little kids visiting from our parents' one-story house—twenty-three-year-old Nolan and I sat tucked tight beneath Grandpa's dark-green and navy-blue plaid wool blanket, clinging to each other without an inch of daylight between our shoulders. Every time another pair of military jets rumbled faintly over Chesapeake and a tremor tried to start up again in Nolan's fingers, I tightened both arms around my brother, rested my cheek firmly on top of his tousled hair, and stayed right there with him while the three of us watched the afternoon fade together.
 
-### Part 9: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
+### Part 12: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals
 
 **Date:** 2001-10-19 at 18:30 America/New_York
 
@@ -902,7 +1112,7 @@ Gwen pulled back just enough to cup both sides of my face in her palms, looking 
 
 True to her word, Gwen booted up her clunky gray laptop running Quantum OS 98 right there on an upturned packing crate beside me, drafted a neat checklist of final meter-read dates while leaning warm against my shoulder, and refused to go to sleep until every single envelope was stacked, stamped, and conquered together.
 
-### Part 10: Moving Into a Rectangular Box and Quantum OS 2000
+### Part 13: Moving Into a Rectangular Box and Quantum OS 2000
 
 **Date:** 2001-12-01 at 16:15 America/New_York
 
@@ -958,7 +1168,7 @@ Nolan grinned from ear to ear, reached down to his zippered CD wallet beside his
 
 While blue setup bars marched steadily across my screen and Nolan—happily back in his element of clean technical routines—lined all four of our forearm crutches in exact height order beside the footboard before fine-tuning the V-shaped rabbit ears atop our swiveled television until snowy local broadcast cleared into a late-night nineteen-eighties fantasy movie, I curled right up against my big brother's side under Grandpa Walter's plaid wool blanket. Being neurotypical while growing up five years behind a verbal autistic big brother meant I had known my whole life how deeply Nolan thrived on plain truth, zero yelling, and quiet, predictable affection—and even Grandpa Walter and I had genuinely approved of polite, soft-spoken Tammy that first evening we drove out to pick Nolan up from her trailer when I was sixteen, long before her temper began to turn. Exhausted from weeks of funeral and house-sale chaos, broke as church mice, and crammed into a rectangular one-person box where nobody would ever play mind games with my brother again, I felt happier than I had been in two whole years just having Nolan safe beside me.
 
-### Part 11: Eighty-Nine Degrees and One Rattling Fan
+### Part 14: Eighty-Nine Degrees and One Rattling Fan
 
 **Date:** 2002-08-17 at 15:10 America/New_York
 
