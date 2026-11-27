@@ -1334,7 +1334,93 @@ A huge, involuntary grin broke across my face as I covered her hand briefly with
 
 "Crystal clear," I said happily. "Friday night after my CCHR shift—it's a date."
 
-### Part 16: Eighty-Nine Degrees and One Rattling Fan
+### Part 16: Third-Floor Food Court, Laced Fingers, and Nothing Left to Weaponize
+
+**Date:** 2002-06-01 at 12:15 America/New_York
+
+![Beneath the bright vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk in June 2002, twenty-four-year-old Nolan Lennox (5-foot-7, navy collared shirt) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, sage-green top) sit side by side at a food-court table with Mallory's fingers laced firmly and protectively over Nolan's hand on the tabletop beside eighteen-year-old Gwen Lennox (6-foot-1, burgundy tee) seated calmly in her manual wheelchair, while petite five-foot-tall ex-girlfriend Tammy (glossy straight black hair, baby-blue cardigan over white tank, flared jeans, chunky platform sneakers) stands three feet back in stunned, speechless jealousy as her attempt to poison Mallory over Nolan and Gwen's shared studio completely backfires.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_admiral_center_food_court_tammy.jpg)
+
+#### 12:15 PM — Celebrating Eleventh Grade Upstairs at The Admiral Center
+
+Sunlight poured down through the vaulted third-floor glass skylights of The Admiral Center in Downtown Norfolk while Gwen tapped a crispy french fry against mine in a celebratory toast over our food-court trays.
+
+"Last eleventh-grade Latin exam conquered, zero Chesapeake attendance-board nonsense, and officially a rising senior at Ghent High as of Monday afternoon," eighteen-year-old Gwen grinned from her manual wheelchair pulled cleanly up to the accessible corner table, her tall matte-charcoal Lofstrand forearm crutches stowed upright in the black canvas pocket behind her backrest.
+
+"Here's to straight A's across two cities," Mallory Walsh smiled warmly right beside me, bumping her plain white fountain cup lightly against Gwen's before lacing the fingers of her left hand right back through my right hand on top of the clean laminate tabletop.
+
+Three full months had passed since that rainy March weekend when Mallory drove me home from my final shift at Blue Tech and came right back to Studio 205 the next afternoon—and if somebody had told me a year ago in Pinecrest Court that adult life could feel this peaceful, I wouldn't have believed a word of it. Twenty minutes ago I had locked up the third-floor Saturday open computer lab two blocks away at the CCHR Norfolk Campus after a calm morning imaging summer-term workstations, walked two smooth downtown blocks on my matte-silver forearm crutches to The Admiral Center elevators, and met my sister and my girlfriend upstairs under the skylights for burgers.
+
+With Mallory, there were zero hidden tests, zero exploding tempers over dropped spoons, and zero tug-of-war between her and Gwen. Half our Friday nights ended with Mallory kicking her sneakers off inside Studio 205 while the three of us watched nineteen-eighties sci-fi DVDs swiveled toward our shared corner bed; on Saturdays when Mallory didn't close Store Four-Twenty-One, she drove up to Ghent just to walk The Hague seawall at my unhurried pace. Even my shoulders had forgotten how to flinch.
+
+Until a sharp, sugary-nasal voice cut straight across the murmur of the sunlit atrium three feet to the left of our table.
+
+"Well, look who finally crawled out of Chesapeake."
+
+Every muscle down my spine locked solid at once.
+
+Standing right beside the brass planter rail in chunky white platform sneakers, flared jeans, and that exact pastel baby-blue zip cardigan worn open over a white ribbed camisole was Tammy.
+
+I hadn't laid eyes on her in more than nine months—not since two security guards escorted her out of the Norfolk Pathfinder terminal after she slapped me across the face in front of thirty witnesses, and not once through all ninety days she had stubbornly refused to sign me off Mr. Pruitt's trailer lease convinced grief after Grandpa Walter's funeral would bring me begging back to Route 13.
+
+Clearly riding downtown off the thirteen bus for Saturday shopping, Tammy had spotted me from the escalator landing—and for two seconds her doe-brown eyes darted in sheer, jarring disbelief from my clean collared shirt, to Gwen sitting tall and calm in her wheelchair across the table, and straight down to Mallory Walsh's fingers laced unmistakably through mine on the tabletop.
+
+Watching Tammy realize in real time that I hadn't fallen apart without her—that I had actually moved *up* and moved *on*—turned her round cheeks blotchy pink with instant, venomous jealousy.
+
+"Please keep walking, Tammy," I said quietly, proud my voice didn't shake even with my heart hammering fast against my ribs. "We're eating lunch."
+
+Tammy ignored me as if I hadn't spoken—pivoting straight toward Mallory with a theatrical, pitying little smirk aimed right at Mallory's thin silver wire-rimmed glasses.
+
+"Oh, sweetie—you work over at Blue Tech, don't you?" Tammy purred, folding her arms across her ribs to push her chest up out of sheer habit while craning her neck five inches up toward Mallory's seated eye level. "Let me guess: he sat around looking helpless on those crutches until you felt sorry enough to play charity girlfriend? Hate to break it to you, honey, I wasted two years trying to teach Nolan how normal grown-ups act, and his brain's wired so backward you end up babysitting a brick wall."
+
+Old shame tried to yank my hand backward off the table.
+
+Mallory didn't let my fingers budge a millimeter. Instead, her warm grip tightened steadily around my knuckles while she tilted her head behind her wire-rimmed lenses, studying Tammy as calmly as if she were reading a corrupted diagnostic log.
+
+"I'm Mallory," my girlfriend said evenly, not raising her voice half a decibel above food-court conversation. "And nobody here is playing charity anything. Nolan's the easiest, smartest guy I've ever dated. Was there something you needed, or are you done?"
+
+Tammy's fake-sweet smile snapped clean off her face.
+
+Expecting a quiet, nerdy girl in wire-rimmed glasses to shrivel up at conflict—and seeing Gwen sitting right across the table clearly adoring Mallory instead of resenting her—lit a fuse of pure, destructive spite behind Tammy's eyes. If Tammy couldn't drag me back under her thumb, she was determined to detonate whatever happiness I had found right in the middle of The Admiral Center.
+
+"Oh, *dated*?" Tammy let out a shrill, ugly laugh that made two shoppers at the next table glance over. "Has Mr. Perfect Big Brother even let you inside whatever dump he's renting yet, *Mallory*? Because after his grandpa's house got taken by the bank, I checked property records when my lease ran out—he couldn't even afford a real apartment in Chesapeake! Ask him where his six-foot shadow sleeps! Go ahead—ask your twenty-four-year-old boyfriend if he told you he's crammed into one tiny Norfolk room sleeping in the *exact same bed* every single night with his teenage sister because neither one of them can cut the apron strings! Still think that's normal?!"
+
+Tammy planted one platform sneaker forward and crossed her arms triumphantly, eyes glittering as she waited for Mallory to gasp in disgust, rip her hand out of mine, and walk away forever.
+
+Nobody at our table gasped.
+
+Across the tray, eighteen-year-old Gwen didn't even blink—she just rested one calm forearm on her wheelchair push-rim and looked at Mallory with quiet solidarity, knowing what Tammy didn't know.
+
+Beside me, Mallory pushed her silver wire-rimmed glasses a quarter-inch up her freckled nose with her free index finger and looked straight at Tammy with ice-clear, surgical precision.
+
+"You mean Studio 205?" Mallory asked calmly. "With the green-and-navy plaid blanket in the corner, the rolling microwave pantry cart, and the nineteen-inch rabbit-ear TV swiveled toward the pillows? Yeah—I hung out on that bed the day after Nolan left Blue Tech, and we watched *Ad Astra* DVDs on it last night."
+
+Tammy's triumphant smirk froze dead in its tracks. Her mouth opened slightly without a sound coming out.
+
+"Nolan told me they shared one bed before he ever unlocked the door," Mallory continued, every quiet, literal word landing cleaner than a hammer blow. "After their grandfather's hospital bills forced the sale of their house, Nolan rode three buses in sleet all winter so his eighteen-year-old sister could finish high school under a safe roof instead of sleeping on the street. Only somebody completely rotten hears a brother keeping his sister off the street and tries to twist it into something ugly."
+
+Color drained straight out of Tammy's cheeks, replaced a second later by furious blotchy red. "You don't know a damn thing about—"
+
+"I know plenty," Mallory cut in smoothly, still never raising her voice once while keeping her fingers locked tight through mine. "I watched Nolan sit across from me in the breakroom last May too stressed to unwrap a peanut-butter sandwich because you screamed in his face for drinking a glass of water and checking on his grandfather's heart pills. There was never anything wrong with Nolan's brain, Tammy, and Gwen was never your problem. You lost Nolan because you treated a good man like dirt, and you can't stand seeing him happy with someone who actually respects him *and* his sister."
+
+Right across the table, Gwen clicked both wheelchair wheel locks tight, reached behind her backrest for her matte-charcoal forearm crutches, and rose smoothly to her full six-foot-one height—towering a full thirteen inches above five-foot-nothing Tammy without stepping an inch closer or raising her voice.
+
+"And look right over by the glass elevator bank, Tammy," Gwen said coolly, nodding her chin toward two uniformed Admiral Center security officers strolling steadily along the third-floor skylight walkway forty feet away. "Last August when you lost your temper in Norfolk, security walked you out of the Pathfinder station. Keep standing by our table trying to start a scene, and they can walk you down to the thirteen bus stop too."
+
+For four ragged seconds Tammy stared from Gwen towering calm and immovable across the table, to Mallory sitting unshakeably beside me with her fingers laced through mine, to the two approaching mall security uniforms—realizing with visible, suffocating fury that her biggest piece of ammunition had exploded harmlessly into thin air. She couldn't make Mallory flinch, she couldn't turn Mallory against Gwen, and she couldn't make me crawl back.
+
+"Whatever—all three of you freaks deserve each other!" Tammy hissed under her breath, spinning sharply on her chunky platform heels and stalking fast toward the down escalators before the security guards even reached the burger counter.
+
+As the top of Tammy's glossy black hair vanished down the escalator glass toward the street level, I let out a breath that felt like setting down a fifty-pound cinder block I had carried since nineteen-ninety-nine.
+
+Mallory turned right back toward me, her sharp exterior melting instantly into the warm, perceptive smile behind her wire-rimmed glasses that belonged strictly to us.
+
+"Pulse check?" Mallory asked softly, giving my hand a gentle squeeze.
+
+I looked down at our laced fingers on the tabletop, then across at Gwen easing comfortably back into her manual wheelchair with a proud, fierce grin on her face—and realized my hands weren't even shaking.
+
+"Steady," I smiled, squeezing Mallory's hand right back. "Steadiest I've ever been."
+
+### Part 17: Eighty-Nine Degrees and One Rattling Fan
 
 **Date:** 2002-08-17 at 15:10 America/New_York
 
@@ -1352,7 +1438,7 @@ Gwen reached toward the kitchen end of our small rectangle, popped open the tiny
 
 "Look at the simulation window now, Nolan," Gwen said happily, angling the warm LCD screen of her Quantum OS 2000 Professional laptop toward my eyes on the bed between us. All afternoon, without a single crash or freeze, her orbital plotter had been tracing two glowing spheres—one large pale circle, one smaller amber companion—locked in a gentle, unbreakable loop. "Even when an outside drift tugs at the outer ring, two moons locked in resonance pull each other right back into balance. Neither one lets the other drift into the dark."
 
-For just a second, the word *dark* snagged on an ugly memory I hated—that suffocating single-wide trailer off Route 13 in Chesapeake, and sitting humiliated in tears in my wheelchair in the middle of the Norfolk Pathfinder terminal a year ago after Tammy smacked me across the face before she even reached the ticket counter. My jaw tightened before I realized my expression had shifted.
+For just a second, the word *dark* snagged on an ugly memory I hated—that suffocating single-wide trailer off Route 13 in Chesapeake, and sitting humiliated in tears in my wheelchair in the middle of the Norfolk Pathfinder terminal a year ago after Tammy smacked me across the face before she even reached the ticket counter. Even after watching Mallory and Gwen shut Tammy down cold at The Admiral Center back in June so she never dared approach our table again, my jaw tightened half a millimeter before I realized my expression had shifted.
 
 Gwen spotted it instantly. She always did.
 
