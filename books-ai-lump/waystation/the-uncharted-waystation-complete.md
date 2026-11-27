@@ -1168,139 +1168,171 @@ Nolan grinned from ear to ear, reached down to his zippered CD wallet beside his
 
 While blue setup bars marched steadily across my screen and Nolan—happily back in his element of clean technical routines—lined all four of our forearm crutches in exact height order beside the footboard before fine-tuning the V-shaped rabbit ears atop our swiveled television until snowy local broadcast cleared into a late-night nineteen-eighties fantasy movie, I curled right up against my big brother's side under Grandpa Walter's plaid wool blanket. Being neurotypical while growing up five years behind a verbal autistic big brother meant I had known my whole life how deeply Nolan thrived on plain truth, zero yelling, and quiet, predictable affection—and even Grandpa Walter and I had genuinely approved of polite, soft-spoken Tammy that first evening we drove out to pick Nolan up from her trailer when I was sixteen, long before her temper began to turn. Exhausted from weeks of funeral and house-sale chaos, broke as church mice, and crammed into a rectangular one-person box where nobody would ever play mind games with my brother again, I felt happier than I had been in two whole years just having Nolan safe beside me.
 
-### Part 14: Three Buses in the Sleet, One Downtown Lab Bench, and Final Out at Twelve-Thirty
+### Part 14: Clocking Out Together, One Car Ride Home, and Crimson Red Outside the Lobby
 
 **Date:** 2002-02-12 at 19:45 America/New_York
 
-#### 7:45 PM — Three Hours of Transfers for Four Hours of Pay
+#### 7:45 PM — Half a Mile to Mall Ring Road and Three Buses in the Sleet
 
 Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the feeling back into my thumbs.
 
-Ten weeks after unlocking Studio 205 on the second floor of Harborview Towers—a twenty-story nineteen-sixties brick-and-concrete high-rise overlooking The Hague inlet off West Brambleton Avenue at the edge of Ghent—living under our own Norfolk roof with Gwen was everything I had hoped for, and commuting back across the city line to the Emerald Creek Blue Tech was slowly grinding my joints into dust.
+Ten weeks after unlocking Studio 205 on the second floor of Harborview Towers—a twenty-story nineteen-sixty-five brick-and-concrete high-rise overlooking The Hague inlet off West Brambleton Avenue at the edge of Ghent—living under our own Norfolk roof with Gwen was everything I had hoped for, and commuting back across the city line to the Emerald Creek Blue Tech was grinding my wrists and knees into dust.
 
-On paper back in October, riding the bus from West Brambleton Avenue down to Chesapeake had looked doable because I already knew the route by heart from the afternoon I escaped Tammy at the Pathfinder station: catch CVTA Route 2 or Route 11 five minutes into Downtown Norfolk, transfer to eastbound Route 20 out Virginia Beach Boulevard to Glenrock, then catch southbound Route 15 down Military Highway to the curbless grassy island outside Emerald Creek Mall. In the middle of January and February's post-holiday retail payroll drought—with corporate slashing every part-timer down to fifteen hours a week across four-hour register shifts, and Harborview Towers' groaning nineteen-sixty-five lobby elevator wearing yellow out-of-order tape for the sixth straight week—that commute meant three hours and forty minutes of icy wind, slow hydraulic wheelchair lifts, and twenty-two terrazzo stairs at the end of the night just to bring home thirty-four dollars before taxes.
+On paper back in October, riding the bus from West Brambleton Avenue down to Chesapeake had looked manageable because I already knew the three-bus chain by heart: catch CVTA Route 2 or Route 11 five minutes into Downtown Norfolk, transfer to eastbound Route 20 out Virginia Beach Boulevard to Glenrock, and catch southbound Route 15 down Military Highway to Emerald Creek Mall. What looked way shorter on a folded paper map was the sprawling half-mile trek *after* stepping off the bus: rolling or hiking along Mall Ring Road from the unnumbered Emerald Creek Mall bus stop—planted directly across the ring drive from the weekday commuter Park and Ride shelter—out to the multi-lane traffic lights at Emerald Creek Parkway and Eden Way North, waiting through two long turn-arrow cycles just to cross six lanes of wet asphalt, and pushing all the way through the Marketcenter lot to the Blue Tech entrance. In January and February's post-holiday retail payroll drought—with corporate slashing every part-timer to fifteen hours a week across four-hour shifts—that meant nearly four hours of sleet, slow hydraulic wheelchair lifts, and shopping-center crosswalks just to bring home thirty-four dollars before taxes.
 
-"Your wrists are shaking, Nolan," eighteen-year-old Gwen said quietly from our shared fifty-four-inch bed, tucking Grandpa Walter's dark-green and navy-blue plaid wool blanket snug around my shoulders the second I sat down beside her in dry socks. Six blocks up through Ghent, Gwen had settled smoothly into finishing her eleventh-grade junior year at Ghent High School—thrilled beyond words to be out of the Chesapeake school district she had resented ever since elementary administrators held her back a full grade over childhood leg-surgery casts—yet watching me drag myself up twenty-two stairs after dark was putting a crease right between her eyebrows. "You spent almost four hours on three buses in sleet today for a four-hour shift."
+"Your wrists are shaking, Nolan," eighteen-year-old Gwen said quietly from our shared fifty-four-inch bed, tucking Grandpa Walter's dark-green and navy-blue plaid wool blanket snug around my shoulders the second I sat down beside her in dry socks. Six blocks up through Ghent, Gwen had settled smoothly into finishing her eleventh-grade junior year at Ghent High School—thrilled to be out of the Chesapeake school district she still resented for holding her back a grade over childhood leg-surgery casts—yet watching me come home soaked to the shins was putting a deep crease between her eyebrows. "You spent almost four hours commuting in freezing rain today for a four-hour shift."
 
-"Spring hours pick back up around Easter," I murmured automatically, resting my sore forearms across my lap. "And Mallory swapped me off Thursday's nine-fifteen close so I wouldn't get stranded at Glenrock if the twenty ran late."
+"Spring hours pick back up around Easter," I murmured automatically, resting my sore forearms across my lap.
 
-"Mallory's great, shortstop, and she'd tell you the exact same math I'm about to show you," Gwen said firmly, pivoting her upgraded Quantum OS 2000 Professional laptop on our milk-crate nightstand so the crisp screen angled straight toward my eyes. "Look what my computer-science teacher at Ghent High pinned on the classroom corkboard this afternoon—and I already pulled it up over dial-up to check the bus stop."
+"Forget Easter—look at the math on my screen right now, shortstop," Gwen said firmly, pivoting her upgraded Quantum OS 2000 Professional laptop on our milk-crate nightstand toward my eyes. "My computer-science teacher at Ghent High pinned this on the classroom corkboard this afternoon."
 
-Across the glowing white browser window sat a plain staff-vacancy notice from the Community College of Hampton Roads—downtown Norfolk campus, inside the Martin Building.
+Across the glowing white browser window sat a staff-vacancy notice from the Community College of Hampton Roads—downtown Norfolk campus, inside the Martin Building.
 
 *Part-Time Campus Computer Lab and Helpdesk Technician. Twenty-eight hours per week, Monday through Friday plus alternating Saturday morning open lab. Seated technical bench: imaging Quantum OS 2000 Professional workstations, maintaining NTFS student profiles, clearing network print queues, and assisting students at the third-floor counter.*
 
-My breath caught halfway through reading the bullet lines.
+My breath caught halfway down the paragraph.
 
 "Wait... the Martin Building downtown?" I blinked, running the transit map in my head instantly. "That's straight down Route 2 or Route 11 from right outside our lobby. One bus. Six minutes. Zero transfers."
 
-"Seated workbench whenever your legs aren't feeling concrete, real elevator maintenance inside a public college building, nearly double your winter hours at two dollars more an hour, and zero curbless mall islands in freezing rain," Gwen grinned, nudging my shoulder warmly with hers. "You know Quantum OS 2000 better than anybody outside Mallory Walsh, Nolan. Print your resume before supper gets cold."
+"Seated workbench whenever your legs aren't feeling concrete, nearly double your winter hours at two dollars more an hour, and zero crossing six lanes of Emerald Creek Parkway in sleet," Gwen grinned, nudging my shoulder warmly with hers. "You know Quantum OS 2000 better than anybody outside Mallory Walsh, Nolan. Print your resume before supper gets cold."
 
 ***
 
-#### 12:31 PM, Saturday, March 2 — Zero Shared Payroll
+#### 2:30 PM, Friday, March 1 — Both Off the Clock
 
-Eighteen days later—after troubleshooting a deliberately broken TCP/IP gateway and a jammed network print spooler in four minutes flat during a hands-on interview at the CCHR Norfolk Campus, accepting the job offer on the spot, and working every single scheduled minute of a clean two-week notice at the Emerald Creek Blue Tech—I slid my magnetic employee badge through the gray breakroom wall clock one last time.
+Seventeen days later—after fixing a broken TCP/IP gateway and a hung network print spooler in four minutes flat during a hands-on practical interview at the CCHR Norfolk Campus, accepting the job on the spot, and working every scheduled minute of a clean two-week notice at the Emerald Creek Blue Tech—my final Friday shift ended at two-thirty in the afternoon.
 
-*12:31 PM — OUT.*
+My legs had been aching stiffly since noon, so I was using my manual wheelchair with my two matte-silver Lofstrand forearm crutches stowed upright inside the black canvas pocket behind my backrest. Rolling back into the employee breakroom after turning my laminated register card in to Ray Halstead, I got the nicest surprise of my whole final week: Mallory Walsh was standing right beside the gray wall timeclock, sliding her own badge through the slot at the exact same minute.
 
-Unclipping my royal-blue Blue Tech lanyard over my head, I handed it and my laminated register barcode card across the customer-service counter to Ray Halstead, shook his hand, and pulled my navy canvas windbreaker on over a plain civilian sweater before clicking my forearms into my matte-silver Lofstrand crutches.
+*2:30 PM — OUT.*
 
-Halfway through the automatic glass exit doors onto the breezy March sidewalk, quick non-slip footsteps caught up right beside me.
+Ever since last spring, talking with Mallory in that back breakroom corner when we were both off the clock had been my favorite half-hour of any workday. With both of us officially punched out—and me permanently off Store Four-Twenty-One's payroll—neither of us was in a hurry to stop talking. For ten easy minutes by the coat hooks while I pulled my navy windbreaker on over a plain sweater and Mallory slung her canvas tote over her shoulder, we traded jokes about how CCHR's thirty domain-joined workstations were going to feel like a library vacation compared to home-theater wall TVs.
 
-"Hold up a second before you hike over to the ring road, Nolan," Mallory Walsh said.
+Then Mallory glanced down at the wheels of my chair and out toward the gray March wind whipping across the Marketcenter parking lot.
 
-I paused by the brick column clear of the cart corrals, turning toward her. Mallory had just punched out for her thirty-minute lunch; a brisk early-March wind tugged a loose strand of copper-auburn hair past the blue ballpoint pen tucked behind her right ear while she adjusted her thin silver wire-rimmed glasses with two fingers.
+"Hold on—you're about to push all the way out to the Eden Way North light, cross Emerald Creek Parkway, and cut around Mall Ring Road to the mall stop across from the Park and Ride just to ride three buses back to Norfolk, aren't you?" Mallory asked plainly, adjusting her thin silver wire-rimmed glasses.
 
-"Wanted to make sure I caught you before the fifteen pulled up," I said earnestly, feeling a genuine tug of sadness under my ribs at leaving the one coworker who had made the past ten months bearable. "Thank you for everything since last spring, Mallory—the breakroom table, the Two-Thousand Professional tips, talking straight with me when my head was spun around. CCHR's got thirty lab machines running Two-Thousand Professional on a clean domain controller, and my commute starting Monday is literally six minutes on one bus."
+"Just one last time," I smiled sheepishly. "Starting Monday morning it's six minutes on the two bus."
 
-"Seated bench, steady weekday hours, and zero retail holiday chaos—they got the best tech in Tidewater," Mallory smiled warmly. Then she glanced down at her black digital wristwatch, looked back up into my hazel eyes, and tapped the small rectangular silver Shift Supervisor pin on her royal-blue collar with one fingertip.
+"How about zero last times?" Mallory said, twirling a small brass car key on her ring with a warm, unhurried smile. "We're both off the clock, you aren't in my department anymore, and my car's parked forty feet outside the side doors. Let me drive you home to Norfolk."
 
-"Quick verification question before you go," Mallory said, her voice dropping into the crisp, literal cadence I knew better than anyone's outside my sister's. "Ray finalized your separation screen in payroll right after twelve-thirty, right? You're officially off Store Four-Twenty-One's roster?"
+My ears warmed instantly. "Are you sure? Norfolk's completely opposite Kempsville in Friday afternoon traffic—"
 
-"Yeah," I nodded, puzzled for half a second. "Zero shifts left. Completely off the system."
+"Positive," Mallory said easily. "Twenty-five minutes on the interstate with good company beats watching you cross six lanes of Parkway traffic in March wind by a mile. Come on."
 
-Mallory let out a long, slow breath that looked like she had been holding it behind her ribs since August. Faint pink climbed straight across the freckles on her nose and cheeks—yet she didn't look away, didn't talk in hints, and didn't make me guess a single hidden rule.
+Out by her clean silver four-door compact in the employee lot, I braced one hand cleanly on the roof frame to ease myself onto the front passenger seat while Mallory popped her trunk, clicked the cross-brace release on my manual wheelchair like she had studied mechanical diagrams of it, and lifted the folded frame—crutches still tucked snug in the rear backrest pocket—smoothly into the trunk without a single awkward fuss.
 
-Reaching into the pocket spiral pad clipped beside her mini screwdriver pouch, she pulled out a neatly torn three-by-five index card covered in her clean block printing—her home telephone number in Kempsville, her personal email address, and *Off next Saturday all day*—and held it out to my free hand.
-
-"Okay, good," Mallory said plainly. "Remember back in August after you left Tammy, when I told you in the breakroom that I would never date anyone on my shift because I'm a supervisor and I refuse to let personal feelings compromise a single business decision?"
-
-My heart gave one huge, sudden thump against my sternum as I looked down at the index card in my fingers, then back up at her blue-gray eyes behind her glasses. "Yeah. I remember every word."
-
-"That wasn't a polite brush-off, Nolan," Mallory said honestly, standing dead-even on the pavement with zero neurotypical riddles between us. "I've really liked you for months—not just as somebody to talk kernel architecture with on lunch punch, *liked* you. Keeping it to myself while I wore this supervisor pin was the rule, so I followed the rule. As of four minutes ago, I'm not your supervisor anymore, and nobody in this building can ever call it a conflict of interest."
-
-For three full seconds my brain ran a complete diagnostic check on every word she had just spoken—confirming zero sarcasm, zero trap, and one hundred percent literal truth—before the widest, most astonished grin of my twenty-three years broke across my face.
-
-"Wait—you actually want to go out with me?" I asked, just to be one hundred percent sure I hadn't misread a single parameter.
-
-Mallory laughed softly, tension melting right out of her shoulders. "Yes, Nolan. Next Saturday afternoon—up in Ghent near your new neighborhood, so *I* make the drive across the river instead of you riding three buses. Coffee, lunch, zero timeclocks. Sound like a valid plan?"
-
-"Best plan I've heard all year," I beamed, tucking her index card carefully into my zippered inside jacket pocket so the wind couldn't touch it as my very last outbound Route 15 bus rolled up to the Emerald Creek Mall ring road.
-
-### Part 15: Twenty-Two Stairs to Studio 205, One Full-Sized Bed, and Zero Weirdness
-
-**Date:** 2002-03-09 at 14:20 America/New_York
-
-![Inside tiny rectangular Studio 205 on a rainy March 2002 afternoon in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg)
-
-#### 2:20 PM — Rain on West Brambleton and Honest Math at the Door
-
-Cold March rain began pelting the brick sidewalks along The Hague inlet half a block before Mallory Walsh and I reached the glass lobby doors of Harborview Towers off West Brambleton Avenue.
-
-"So much for clear radar until four," Mallory laughed, pulling the collar of her forest-green zip cardigan up around her chin while matching my unhurried forearm-crutch pace down the wet concrete ramp without rushing half a step ahead. Seeing Mallory outside a Blue Tech uniform—no royal-blue polo, no laminated override badge, no walkie-talkie static, just dark jeans, casual sneakers, and rain specks dotting her thin silver wire-rimmed glasses—still made my chest feel light as helium after two effortless hours over grilled-cheese sandwiches and soup four blocks up in Ghent. All through lunch, we hadn't run out of things to talk about for five seconds: my blissful first week at the seated CCHR computer lab bench downtown, how quiet thirty domain-joined workstations felt compared to eighty wall televisions blaring across a sales floor, and how Mallory had reorganized Store Four-Twenty-One's entire motherboard cage on Tuesday just to keep from missing our breakroom corner talks.
-
-"Come upstairs for twenty minutes until the squall passes," I offered as we stepped inside Harborview Towers' terrazzo nineteen-sixty-five lobby, shaking rainwater off my sleeves beside the brass mailbox bank. "Gwen's home working on her Ghent High physics packet, and we've got hot cocoa."
-
-"I'd love to meet the famous little sister who isn't actually little," Mallory smiled—then glanced toward the sliding brass elevator doors, where the landlord's faded yellow out-of-order sign hung taped crookedly across the call button. "Stairs okay on your wrists after walking down from Ghent?"
-
-"Only twenty-two steps up to the second floor," I said, taking the inner iron handrail at my steady one-step rhythm while Mallory walked comfortably beside me.
-
-Right outside the painted corridor door marked with brass numbers *205*, however, my hand slowed on my key ring.
-
-For three months, Studio 205 had only ever held Gwen and me. Standing in the narrow nineteen-sixties hallway beside a woman my own age whom I genuinely, deeply liked, an old defensive knot from two years of Tammy's put-downs tightened without warning behind my ribs. I pictured how a tiny eleven-by-eighteen-foot efficiency apartment looked to someone walking in off the street for the first time: no sofa, no bedroom wall, two manual wheelchairs parked by the bathroom door, a microwave sitting on a wire pantry cart, and one single fifty-four-inch full-sized bed in the corner shared every night by a twenty-three-year-old brother and his eighteen-year-old high-school sister.
-
-Lying or making up some fake story about a floor air mattress wasn't in my wiring—and even if it had been, Gwen was never something to apologize for.
-
-"Hey, Mallory... before I unlock the door, I want to give you the exact layout upfront so nothing catches you off guard," I said quietly, looking straight at her in the corridor light. "Studio 205 is tiny—an eleven-by-eighteen-foot one-room efficiency, three-hundred-ninety-five a month utilities included. Both of our wheelchairs stay inside, and there's only room for one full-sized bed in the corner, which doubles as our couch. Gwen and I share the bed—same way we grew up sharing Grandpa Walter's pull-out sofa downstairs whenever our legs weren't up for stairs. I just didn't want you walking in and thinking it was weird."
-
-Behind her rain-dotted silver wire-rimmed glasses, Mallory didn't blink weirdly, recoil half an inch, or get that tight, polite fake smile neurotypical people wear when they're silently judging you.
-
-Instead, her blue-gray eyes softened with immediate, crystal-clear understanding—running the exact real-world variables in two seconds flat.
-
-"Nolan, think about who you're talking to," Mallory said gently, resting two warm fingers lightly on the sleeve of my damp windbreaker. "Your grandfather's medical lien forced the sale of your childhood house right after he died, every two-bedroom apartment in Hampton Roads demands three times monthly rent on paystubs, and your sister was eighteen years old in the middle of eleventh grade. It was either share one bed as brother and sister inside a studio you could qualify for, or Gwen was out on the streets."
-
-My shoulders dropped two full inches as the knot behind my ribs vanished on the spot.
-
-"Why on Earth would I think keeping a safe roof over your sister's head is weird?" Mallory added plainly, a warm, genuine smile curving her mouth. "Honestly, Nolan, hearing how the two of you look out for each other is half the reason I respected you before I even knew you were single. Unlock the door before I drip on your hallway carpet."
+All twenty-five minutes up Interstate 64 and across Downtown Norfolk toward West Brambleton Avenue, the conversation never stalled once. Without store walkie-talkies or timeclock bells cutting us off every fifteen minutes, Mallory laughed freely at my CCHR interview stories, asked genuine questions about how Gwen liked Ghent High, and kept glancing over at road lights with a quiet, unmistakable warmth behind her glasses that made my pulse hum steady and bright all the way to The Hague.
 
 ***
 
-#### 2:35 PM — Hot Cocoa, Twin Moons, and Big-Sister Approval From My Little Sister
+#### 3:08 PM — Investigating From the Lobby and One Corner Bed
 
-When I turned the brass lock and swung our centered front door inward against the short left closet return, six-foot-one Gwen looked up from her Ghent High spiral binder propped on Grandpa Walter's dark-green and navy-blue plaid wool blanket—and went onto instant, quiet big-sister radar despite being five years younger than me.
+Inside the glass-walled ground-floor lobby of Harborview Towers, eighteen-year-old Gwen had gotten off her Ghent High accessible school bus two minutes earlier and was waiting in her manual wheelchair beside the brass mailbox bank for the slow nineteen-sixty-five lobby elevator to groan its way down from the twelfth floor.
 
-Ever since Tammy slapped me in the Norfolk Pathfinder terminal last August, Gwen had guarded my peace like a hawk. As she rolled her manual wheelchair two feet forward from beside our oak dresser to shake Mallory's hand—towering even seated over five-foot-five Mallory—I saw Gwen's sharp green-hazel eyes take in every micro-detail of how Mallory stepped into our tiny rectangular room.
+Glancing idly out through the front lobby glass toward West Brambleton Avenue, my sister froze mid-blink.
 
-Mallory didn't stare once at our single corner bed, didn't look down her nose at our rolling wire microwave-cart pantry or the dorm fridge tucked under our tiny sink, and automatically stepped eighteen inches clear of Gwen's front wheelchair casters without having to be asked so Gwen had full turning room on the hardwood strip.
+Instead of rolling down the sidewalk from the Route 2 and Route 11 bus stop on the corner, I was sitting in the front passenger seat of an unfamiliar silver compact car pulled up right to our curb—and a five-foot-five young woman with a copper-auburn ponytail and wire-rimmed glasses had just popped the trunk, lifted my wheelchair onto the brick walkway, and locked both rear wheel brakes steady so I could transfer smoothly out of the passenger door into my seat.
 
-"You must be Gwen," Mallory said warmly, shaking Gwen's hand with steady, unhurried sincerity. "Nolan's told me about your straight-A streak and your binary-moon simulations since last May—though I have to admit, even with fair warning, six-foot-one is impressive!"
+Remembering Tammy all too vividly, Gwen didn't wait half a second for the elevator. Unlocking her wheelchair brakes, my six-foot-one little sister spun straight around from the elevator alcove, pushed through the automatic lobby doors, and rolled briskly out onto the front walkway to investigate who on Earth had driven her brother home.
 
-"Somebody had to reach the top cereal shelf in this family, and Nolan tapped out at five-seven," Gwen grinned, though I could tell she was still watching closely as I filled three ceramic mugs at the tap and stirred hot cocoa packets at the microwave cart.
+"Nolan?" Gwen called out, green-hazel eyes scanning from the silver car to Mallory's hands steadying my armrest before landing squarely on my face.
 
-What sealed Gwen's verdict in under four minutes flat happened right at the corner bed.
+Without an ounce of warning, heat surged straight up my neck until my entire face burned crimson red from collar to ears.
 
-Once I set our four Lofstrand forearm crutches—my shorter matte-silver pair and Gwen's taller matte-charcoal pair—neatly in height order against the wooden footboard and invited Mallory to sit beside me on the edge of Grandpa Walter's plaid blanket, Mallory's gaze landed on the open screen of Gwen's upgraded laptop angled on the milk-crate nightstand.
+"Uh—hi, Gwenny!" I stammered, my voice jumping half an octave while my cheeks glowed like a stop sign. "We—uh—clocked out at the same time on my last shift, so I didn't have to walk over to the mall stop, and—Gwen, this is Mallory Walsh. Mallory, this is my sister Gwen."
 
-"Hold on—is that a three-to-two orbital resonance plot running smoothly on Two-Thousand Professional without eating forty percent of your CPU?" Mallory asked, leaning six inches closer with her pure Store Four-Twenty computer-nerd enthusiasm lighting up every freckle on her face. "Did you write the time-step loop yourself, or is that an astronomy shareware build?"
+Watching her normally calm twenty-three-year-old brother turn bright crimson red while looking at the exact copper-auburn ponytail and wire-rimmed glasses he had quoted at the supper table for ten straight months, Gwen's protective frown vanished into sheer, delighted comprehension in under two seconds flat.
 
-"Wrote the gravitational loop in December right after Nolan upgraded me off ninety-eight!" Gwen lit up instantly, gripping her cocoa mug as she angled the LCD screen so both Mallory and I had a clean view of the large pale moon and its smaller amber companion tracing steady ellipses across the dark window. "Before Nolan brought home that disc you told him about, the hybrid sixteen-bit kernel kept crashing every twenty minutes whenever the floating-point array rolled over!"
+"Wait—*you're* Mallory Walsh?! Protected-memory Quantum OS 2000 Mallory?!" Gwen lit up, rolling forward to shake Mallory's hand warmly while shooting me a sideways grin that only made my ears burn hotter. "Nolan talks about your breakroom kernel lectures practically every week! Thank you for saving him from that awful three-bus haul—do you have fifteen minutes to come upstairs and grab a soda or some water before fighting Friday tunnel traffic?"
 
-"Protected ring-zero memory saves astronomy," Mallory declared happily, settling right back beside my shoulder on the plaid blanket as naturally as if our eleven-by-eighteen-foot box were the coziest living room in Norfolk.
+"Gwenny, she probably needs to beat rush hour—" I started quickly, still glowing crimson red as every anxious thought about our tiny one-room apartment hit me at once.
 
-For the next hour while March rain drummed harmlessly against the window glass above our headboard and the brushed-silver VCR and DVD combo clock glowed calm green atop my oak dresser, nobody raised their voice, nobody dropped a single passive-aggressive hint, and nobody made me feel small for who I was or what we owned. Halfway through Mallory explaining how CCHR's campus backbone routed packets down to Granby Street—right while Mallory took a sip of hot cocoa—Gwen caught my eye from her wheelchair behind Mallory's left shoulder, beamed from ear to ear, and gave me the biggest, most unmistakable silent thumbs-up of my life.
+"Fifteen minutes sounds great, actually," Mallory smiled warmly at Gwen, locking her car doors with a chirp. "And your elevator finally just dinged in the lobby."
 
-By the time the rain tapered off into late-afternoon mist over The Hague and I walked Mallory down the twenty-two stairs to her parked compact car on West Brambleton, we already had plans for Friday supper after my CCHR lab shift—and walking back upstairs to Studio 205, my life on Earth finally felt steady under both feet.
+All two floors up inside Harborview Towers' creaking wood-paneled elevator cab, both Gwen and I traded one silent, telepathic sibling look—because both of us knew what happened the second a stranger walked past the short entry closet return of Studio 205 and realized there was no hallway leading to a bedroom.
+
+When I unlocked brass door *205* and held the centered white door open so Gwen could roll inside ahead of Mallory, you could take in our entire eleven-by-eighteen-foot life in one glance: my oak dresser on the immediate right with the nineteen-inch rabbit-ear television and brushed-silver VCR and DVD combo angled across the narrow hardwood strip, our tiny under-counter dorm fridge, single sink, compact gas stove, and rolling wire microwave-cart pantry in the back right, and tucked flush into the far left corner under the window air-conditioner, one single fifty-four-inch full-sized bed draped neatly in Grandpa Walter's dark-green and navy-blue plaid wool blanket.
+
+My face went right back to crimson red, and even confident six-foot-one Gwen sat up a fraction straighter in her chair—both of us bracing out of lifelong experience for a visitor to stare weirdly or get uncomfortable.
+
+"It's definitely a one-person nineteen-sixties floorplan," Gwen explained upfront in a clear, matter-of-fact voice before any awkward silence could form, gesturing lightly toward the plaid-covered mattress in the corner. "Two wheelchairs and eleven feet wide means zero room for a sofa or a twin frame, so Nolan and I share the full bed—same way we grew up sharing Grandpa Walter's pull-out sofa downstairs."
+
+"Yeah," I added honestly, rubbing the back of my warm neck beside the oak dresser. "Didn't want to catch you off guard."
+
+Mallory stood in the center of our scuffed hardwood floor, looked once from Grandpa Walter's framed photograph beside the VCR clock to the two laptop crates by the footboard and the single plaid-covered corner bed—and didn't flinch, blink weirdly, or look uncomfortable for even half a second.
+
+Behind her thin silver wire-rimmed glasses, her perceptive blue-gray eyes connected the whole picture effortlessly: Grandpa Walter's winter hospital lien forcing the sale of our childhood house, part-time electronics-store paystubs barely clearing a three-hundred-ninety-five-dollar Norfolk efficiency, and an eighteen-year-old sister in the middle of eleventh grade. Either brother and sister shared one bed under one safe roof, or Gwen was out on the street.
+
+"Makes complete sense to me," Mallory said simply, her tone so natural and unbothered that both Gwen and I actually blinked in surprise. "If you hadn't shared the one bed that fit in here after your grandpa's house sold, Gwen wouldn't have had anywhere safe to live while finishing high school. Honestly, that's smart engineering—and your TV swivel angle to the pillows is spot-on."
+
+Gwen's jaw dropped half an inch before breaking into the widest, most genuine smile I had seen on her face since Christmas. My own shoulders dropped two full inches in pure, stunned relief. Neither of us had ever met a single person outside Grandpa Walter who heard *grown brother and sister share one studio bed* and understood the real-world math immediately without making it weird.
+
+Over cold glasses of tap water by our microwave pantry cart before Mallory headed down to beat Friday bridge traffic back to Virginia Beach, Mallory didn't rush toward the door once. In fact, right at the threshold of Studio 205—with Gwen grinning shamelessly behind my shoulder—Mallory paused, tapped the pocket spiral pad in her canvas bag where zero blue supervisor polo or collar pin stood between us anymore, and looked straight up into my hazel eyes.
+
+"Hey, Nolan—I'm off tomorrow too," Mallory said plainly. "Would it be okay if I drove back up here tomorrow afternoon when neither of us has worked six hours first?"
+
+Even through a fresh wave of warm pink climbing my cheeks, I didn't hesitate for a millisecond.
+
+"Yeah," I beamed. "Tomorrow afternoon sounds great."
+
+### Part 15: Coming Back the Next Day, Hot Cocoa in Studio 205, and Zero Supervisor Pin
+
+**Date:** 2002-03-02 at 14:20 America/New_York
+
+![Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg)
+
+#### 2:20 PM — She Actually Came Back
+
+Steady Saturday afternoon rain pattered against the window glass above our corner headboard when the downstairs lobby buzzer crackled on the wall beside our entry closet at twenty past two—right on the exact minute Mallory Walsh had promised on the phone that morning.
+
+"Told you she wasn't just being polite yesterday!" Gwen grinned triumphantly from her manual wheelchair beside our oak dresser, tossing me a clean kitchen towel after I finished wiping down the rolling wire microwave-cart counter on my forearm crutches.
+
+Up until that buzz sounded, a tiny, cautious part of my brain had half-wondered overnight if Friday afternoon had been too good to be true. Plenty of polite people in Tidewater could smile nicely for ten minutes inside a cramped three-hundred-ninety-five-dollar efficiency, nod politely at two wheelchairs and one shared corner bed, and then quietly invent busy weekend excuses forever afterward. Instead—even after Harborview Towers' temperamental nineteen-sixty-five lobby elevator blew a relay again at ten o'clock Saturday morning, bringing the landlord's yellow out-of-order tape right back onto the brass doors—Mallory had driven all the way back across the Elizabeth River through March rain and climbed the twenty-two terrazzo stairs up to our second-floor landing.
+
+When I opened door *205*, seeing Mallory standing there completely off-duty—wearing a cozy forest-green zip cardigan over a plain cream t-shirt, blue jeans, and dry sneakers, rain specks dotting her thin silver wire-rimmed glasses and zero royal-blue supervisor polo or store lanyard anywhere in sight—made my chest feel lighter than helium.
+
+"Twenty-two stairs confirmed—counted every riser on the way up," Mallory smiled warmly, stepping inside out of the hallway draft as naturally as if she had visited our little Norfolk rectangle a dozen times already. "Smells like hot cocoa in here."
+
+"Fresh off the microwave cart—and zero fish sticks in sight," Gwen laughed, handing Mallory a steaming ceramic mug before settling comfortably back in her wheelchair beside the dresser while my own manual wheelchair rested neatly near the white bathroom door.
+
+Just like Friday afternoon, Mallory didn't treat our tiny space like something fragile or embarrassing. Once I leaned all four of our single-tube Lofstrand forearm crutches—my shorter matte-silver pair and Gwen's taller matte-charcoal pair—neatly in height order against the wooden footboard, Mallory sat right down beside me on the edge of our shared full-sized bed atop Grandpa Walter's dark-green and navy-blue plaid wool blanket, both sneakers planted comfortably on the honey-oak floorboards right next to our two wooden milk crates and both closed laptops.
+
+Within three minutes, Gwen popped open the lid of her upgraded laptop on the crate beside Mallory's knee, and the two of them were deep into pure astronomy-and-kernel heaven.
+
+"Wait—is that a three-to-two binary orbital resonance loop running live on Two-Thousand Professional without spiking your processor?" Mallory asked, leaning six inches closer as her blue-gray eyes lit up behind her lenses with genuine craft delight. "Did you code the gravity time-step yourself, Gwen?"
+
+"Wrote it in December the week Nolan upgraded me off ninety-eight!" Gwen beamed, holding her cocoa mug in both hands while angling the LCD screen toward Mallory and me so we could watch the large pale moon and its smaller amber companion trace smooth, unbroken ellipses. "Before Nolan brought home that disc you recommended in the breakroom, the hybrid sixteen-bit kernel blue-screened every twenty minutes whenever my floating-point table rolled over."
+
+"Protected ring-zero memory saves astrophysics," Mallory declared happily, bumping her shoulder lightly and warmly against mine on the plaid blanket.
+
+For over an hour while cold March rain drummed steadily outside our window air-conditioner and the table lamps cast a warm golden glow across our eleven-by-eighteen-foot lifeboat, the three of us talked as effortlessly as old friends—covering Gwen's Ghent High Latin translations, my upcoming Monday morning start down Route 2 at the CCHR Norfolk Campus computer lab, and every terrible Y2K panic story Mallory had survived back at Store Four-Twenty on Independence Boulevard. Halfway through Mallory laughing at Gwen's impression of our building superintendent blaming nineteen-sixties elevator relays on humid weather, Gwen caught my eye from her wheelchair, smiled from ear to ear, and gave me the most unmistakable sisterly nod of approval on Earth.
+
+***
+
+#### 4:05 PM — Plain Script on the Second-Floor Landing
+
+When the afternoon rain finally eased to a soft drizzle over The Hague inlet and Mallory stood up to head home before dusk, I clicked my forearms into my matte-silver crutches to walk her out onto the second-floor corridor landing by the top of the stairwell.
+
+Out in the quiet hallway with door *205* pulled half-shut behind us, Mallory turned around, tucked a loose strand of copper-auburn hair behind her right ear where her blue work pen usually rode, and looked straight up into my hazel eyes with zero riddles or subtext between us.
+
+"Thank you for inviting me back today, Nolan—and tell Gwen her cocoa and orbital math are both ten out of ten," Mallory said softly. Then faint pink warmed the freckles across the bridge of her nose, though her voice stayed steady and crystal-clear. "Also... now that neither of us has clocked into Blue Tech for twenty-five hours and thirty-five minutes, I wanted to tell you something plainly so you never have to guess."
+
+My pulse gave a quick, hopeful jump under my heather-navy t-shirt. "Plainly is definitely my best language."
+
+"Remember back in August after you left Tammy, when you asked me in the breakroom why I never went on dates with anybody at the store, and I told you I had a strict rule because I was a Shift Supervisor and refused to let feelings touch a single business decision?" Mallory asked.
+
+"Yeah," I nodded, remembering every word.
+
+"That rule wasn't an excuse, Nolan," Mallory said honestly, resting one warm hand lightly over my wrist above my silver crutch grip. "I've really liked you for months—not just as somebody to talk Quantum OS kernels with off the clock, *liked* you. Keeping it completely to myself while I was your supervisor was the ethical rule, so I kept it to myself. Now you're CCHR's new campus lab tech, I'm not your supervisor anymore, and I don't care one bit how small your apartment is or that you and your sister share one bed to keep a roof over each other's heads. In fact, seeing how the two of you take care of each other yesterday only made me like you more."
+
+My face warmed all over again—not embarrassed crimson like Friday afternoon in front of Gwen, just pure, astonished happiness spreading straight from my chest to my ears.
+
+"So when I ask if I can take you out to a real Friday-night dinner up in Ghent next week after your first full week at CCHR," Mallory smiled, blue-gray eyes crinkling behind her silver glasses, "that's me officially asking you out on a date. Is that clear enough syntax?"
+
+A huge, involuntary grin broke across my face as I covered her hand briefly with mine.
+
+"Crystal clear," I said happily. "Friday night after my CCHR shift—it's a date."
 
 ### Part 16: Eighty-Nine Degrees and One Rattling Fan
 
