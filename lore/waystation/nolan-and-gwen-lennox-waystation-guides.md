@@ -50,7 +50,47 @@ At age twenty-one (**Saturday, October 24, 1998** — five days after Gwen turne
 
 ---
 
-## 3. Character Profiles, Growth Curves & Mandatory Guardrails
+## 3. Nolan's Emerald Creek *Blue Tech* Part-Time Work Schedule (`1998–2001`)
+
+Because big-box retail hours swing wildly week to week, use this deterministic **4-Week Rotating Part-Time Retail Cycle (`Weeks A–D`)** whenever authoring or cold-starting any Earth scene so we always know whether Nolan is clocked in at **Blue Tech**, riding `CVTA Route 15`, or off duty:
+
+- **Store Operating Hours & Pre-Open / Close Crew:** Public store hours are **`10:00 AM – 9:00 PM` Mon–Sat** and **`11:00 AM – 6:00 PM` Sun** (Opening downstock/cash-drawer crew clocks in at **`8:30 AM`**; Closing recovery/z-read crew clocks out around **`9:15–9:30 PM`**).
+- **The `< 32.0 Hour` Corporate Part-Time Ceiling:** Corporate labor software keeps part-timers bouncing between **`19.75` and `26.25` paid hours/week** across 4–5 uneven shifts (`4.0` to `6.0` hrs; shifts of `5.5+` raw clock hours include an unpaid 30-minute breakroom meal punch) so the store never triggers full-time medical benefits:
+  - **Holiday Q4 Surge (`Thanksgiving Week – Dec 24`):** Bumps to **`29.5–31.5 hrs/wk`** (shaved `.5` hours below `32.0`).
+  - **Post-Holiday Drought (`Jan 2 – Feb 28`):** Slashed to **`14.0–16.5 hrs/wk`**, squeezing Nolan's winter budget.
+- **Thursday `2:00 PM` Breakroom Corkboard Drop:** Each `Sunday–Saturday` schedule is pinned up Thursday afternoon (~72 hours' notice); Nolan copies his line verbatim into a pocket memo pad alongside matching `CVTA Route 15` bus times.
+- **Sundays Protected (`Gwen's Straight-A Homework Rule`):** Nolan's sole availability block on file since orientation is **Sundays OFF** so Sunday afternoons stay dedicated to checking Gwen's homework.
+- **Biweekly Direct-Deposit Paydays (`Every Other Friday @ 6:00 AM`, Anchored to `1998-10-16`):** Any Friday where `(Date - 1998-10-16) mod 14 == 0` is payday (`1998-10-30` & `1998-11-13` = the two stubs shown on `1998-11-21`; `1998-11-27` = next Friday check).
+- **Commute Contrast (`4-Block Walk` vs. `Pinecrest Court` Two-Bus Squeeze):** From Grandpa Walter's house or Studio 2B (`4 blocks`), an `8:30 AM` open or `9:15 PM` close is a 10-minute crutch walk. From *Pinecrest Court* (`Nov 21, 1998 – Oct 17, 2000`), an `8:30 AM` open forces Nolan down the frosty plywood ramp at **`6:55 AM`**, and a `9:15 PM` close leaves him rushing on forearm crutches to make the **last outbound `9:35 PM` `CVTA Route 15` transfer** (triggering Tammy's arguments whenever closing runs late).
+
+### Deterministic 4-Week Rotation (`Sunday, Oct 18, 1998 = Week A`; `((SundayOfWeek - 1998-10-18) / 7) mod 4` → `0=A, 1=B, 2=C, 3=D`)
+
+| Day | **Week A** (`25.0 hrs` — Split Mid/Open) | **Week B** (`20.5 hrs` — Payday & Clopen) | **Week C** (`26.25 hrs` — Heavy Close/Mid) | **Week D** (`19.75 hrs` — Lean Payroll Week) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Sun** | **OFF** *(Gwen homework)* | **OFF** *(Gwen homework)* | **OFF** *(Gwen homework)* | **OFF** *(Gwen homework)* |
+| **Mon** | `1:00 PM – 6:30 PM` *(5.5h)* | `8:30 AM – 12:30 PM` *(4.0h — Off PM)* | `2:00 PM – 7:30 PM` *(5.5h)* | **OFF** |
+| **Tue** | **OFF** | `3:30 PM – 9:00 PM` *(5.5h Close)* | `10:00 AM – 3:30 PM` *(5.0h\*)* | `8:30 AM – 1:30 PM` *(5.0h Open)* |
+| **Wed** | `4:00 PM – 8:00 PM` *(4.0h)* | **OFF** | `4:00 PM – 9:15 PM` *(5.25h Close)* | `12:00 PM – 5:00 PM` *(5.0h)* |
+| **Thu** | `9:00 AM – 3:30 PM` *(6.0h\*)* | `12:00 PM – 5:00 PM` *(5.0h — Sched. posts)* | **OFF** | `4:00 PM – 9:15 PM` *(5.25h Close)* |
+| **Fri** | `2:30 PM – 8:00 PM` *(5.5h)* | **OFF** *(Biweekly Payday)* | `9:00 AM – 2:30 PM` *(5.0h\*)* | `10:00 AM – 2:30 PM` *(4.5h — Payday)* |
+| **Sat** | `8:30 AM – 12:30 PM` *(4.0h Open)* | `8:30 AM – 12:30 PM` *(4.0h; `2:30 PM` in '01)* | `1:00 PM – 7:00 PM` *(5.5h\*)* | **OFF** *(1-in-4 Retail Sat Off)* |
+
+- **Verified Canonical Scene-Date Alignment:**
+  - `Sat, Oct 24, 1998` (`Week A`, `p001.md`): Works `8:30 AM – 12:30 PM` → meets Tammy at `12:15 PM` & walks to Emerald Creek Mall Food Court.
+  - `Mon, Oct 26, 1998` (`Week B`, `p002.md`): Works `8:30 AM – 12:30 PM` (*"off Monday afternoon"*) → visits Tammy's trailer at `4:30 PM`.
+  - `Sat, Oct 31, 1998` (`Week B`, `p003.md`): Works `8:30 AM – 12:30 PM` → Crown Burger (`1:45 PM`) & first overnight away from family.
+  - `Sun, Nov 1, 1998` (`Week C`, `p004.md`): **OFF** → morning-after glow & Gwen's straight-A homework (`1:15 PM`).
+  - `Sat, Nov 21, 1998` (`Week A`, `p005.md`): Requested Saturday **OFF** two weeks ahead → signs *Pinecrest Court* lease (`10:15 AM`), tests ramp, starts `Week B` `8:30 AM` two-bus commute Monday `Nov 23`.
+  - `Tue, Oct 17, 2000` (`Week A`, `p006.md`): **OFF** → escapes at Norfolk Pathfinder Terminal & runs afternoon sheriff civil standby.
+  - `Thu, Oct 19 & Fri, Oct 20, 2000` (`Week A`, `p007.md`): Off by `3:30 PM` Thu for Gwen's `6:30 PM` 18th birthday; burns **3 paid bereavement shifts** starting Fri `Oct 20` when Grandpa Walter passes.
+  - `Fri, Dec 1, 2000` (`Week C`, `p008.md`): Works `9:00 AM – 2:30 PM` → signs Studio 2B lease (`4:15 PM`) still in his royal-blue work polo.
+  - `Sat, Aug 18, 2001` (`Week D`, `p009.md`): Rare 1-in-4 Saturday **OFF** → home in Studio 2B during `89°F` heatwave.
+  - **`Tue, Sep 11, 2001` (`Week D`):** **AT WORK (`8:30 AM – 1:30 PM` Opening Shift)** — clocked in inside the locked pre-opening store in front of the Home Theater TV wall at `8:46 AM` / `9:03 AM` before hurrying four blocks home to Gwen in Studio 2B.
+  - `Fri, Oct 26, 2001` (`Week B`, `c002/p001.md`): **OFF** Friday evening (`9:15 PM`), scheduled for **`8:30 AM` Opening Shift** Saturday `Oct 27`.
+
+---
+
+## 4. Character Profiles, Growth Curves & Mandatory Guardrails
 
 ### Childhood-to-Adulthood Height Progression (`5` Years Apart for Nolan & Gwen; Tammy `3` Years Older Than Nolan)
 | Year | Gwen Lennox (`Oct 1982` → `6'1"`) | Nolan Lennox (`1977` → `5'7"`) | Tammy (`1974` → `5'0"`) | Canon Milestone |
