@@ -223,6 +223,33 @@ foreach ($dirs as $novelDir) {
     $content = file_get_contents($mdFile);
 
     /* ------------------------------------------------------------------------
+     * IMMUTABLE SEPTEMBER 11, 2001 ZERO-IMAGES FATAL GUARDRAIL (`compile_ebooks.php`)
+     * Defense-in-depth check on consolidated `*-complete.md` manuscripts before
+     * invoking Pandoc: split by `#` / `##` / `###` structural headings (`PREG_SPLIT_DELIM_CAPTURE`
+     * isn't even needed when matching any `### ...` section carrying a `2001-09-11` dateline
+     * up to the next `^#{1,3}\s` part/chapter/era boundary). If ANY `![...](...)` or `<img`
+     * appears inside a September 11, 2001 section, abort immediately with `exit(1)`!
+     * ------------------------------------------------------------------------ */
+    if (preg_match_all(
+        '/^###\s+[^\r\n]+\R+\*\*Date:\*\*\s*(?:2001-0?9-11|0?9[\/\-]11[\/\-]2001|Sept(?:ember)?\.?\s+11(?:th)?,?\s+2001)[^\r\n]*\R([\s\S]*?)(?=^#{1,3}\s|\z)/mi',
+        (string)$content,
+        $sep11Sections
+    )) {
+        foreach ($sep11Sections[1] as $sep11Body) {
+            $sep11NoCode = (string)preg_replace('/```[\s\S]*?```/', '', $sep11Body);
+            if (preg_match('/!\[[^\]]*\]\([^)]+\)|<img\b/i', $sep11NoCode)) {
+                fwrite(
+                    STDERR,
+                    "\n🛑 FATAL GUARDRAIL ERROR [IMMUTABLE SEPTEMBER 11, 2001 ZERO-IMAGES RULE]:\n" .
+                    "   Novel: {$slug} ({$mdFile})\n" .
+                    "   A September 11, 2001 story section contains an image tag. Aborting eBook compilation.\n\n"
+                );
+                exit(1);
+            }
+        }
+    }
+
+    /* ------------------------------------------------------------------------
      * SUBSTEP 3A: RESOLVE IMAGE PLACEHOLDERS FOR LOCAL PANDOC EMBEDDING
      * In Markdown manuscripts, scene illustrations use `{{CDN}}/raggiesoft-books/...`
      * so web apps can point to `https://assets.raggiesoft.com`. For offline EPUB/PDF

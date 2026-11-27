@@ -171,7 +171,29 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
 
     /* Remove the individual part's `--- ... ---` YAML frontmatter block so Pandoc
      * doesn't mistake mid-book frontmatter blocks for horizontal rules or metadata resets. */
+    $rawFmBlock = isset($frontmatter) ? (string)$frontmatter : '';
     $partContent = preg_replace('/^---[\s\S]*?---\s*/', '', ltrim($partContent));
+
+    /* IMMUTABLE SEPTEMBER 11, 2001 ZERO-IMAGES FATAL GUARDRAIL (`lump_narratives.php`):
+     * Every story section across `raggiesoft-narratives` set on September 11, 2001 MUST
+     * remain 100% un-illustrated. If any YAML image key (`image`, `images`, `og_image`,
+     * `ogImage`), inline Markdown `![...](...)`, or `<img` tag appears on a 9/11 part,
+     * abort immediately with exit code `1` so no consolidated manuscript or eBook builds! */
+    if ($date !== '' && preg_match('/(?:\b2001-0?9-11\b|\b0?9[\/\-]11[\/\-]2001\b|\bSept(?:ember)?\.?\s+11(?:th)?,?\s+2001\b|\b11\s+Sept(?:ember)?\.?,?\s+2001\b)/i', $date)) {
+        $hasFmImg = !empty($sceneImages) || (bool)preg_match('/^(?:image|images|og_image|ogImage):\s*(?:[^\s#][^\r\n]*|\r?\n\s*-\s*\S+)/mi', $rawFmBlock);
+        $bodyNoCode = (string)preg_replace('/```[\s\S]*?```/', '', (string)$partContent);
+        $hasBodyImg = (bool)preg_match('/!\[[^\]]*\]\([^)]+\)|<img\b/i', $bodyNoCode);
+        if ($hasFmImg || $hasBodyImg) {
+            fwrite(
+                STDERR,
+                "\n🛑 FATAL GUARDRAIL ERROR [IMMUTABLE SEPTEMBER 11, 2001 ZERO-IMAGES RULE]:\n" .
+                "   File: {$partFile}\n" .
+                "   Date: {$date}\n" .
+                "   September 11, 2001 story sections MUST NEVER contain rendered images. Aborting lump build.\n\n"
+            );
+            exit(1);
+        }
+    }
 
     /* HEADING HIERARCHY SHIFT:
      * In the lumped novel:
