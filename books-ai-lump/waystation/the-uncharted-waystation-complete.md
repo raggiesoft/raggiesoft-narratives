@@ -853,31 +853,71 @@ When the driver pulled out of the Bristol bay, turned across the state line into
 
 ![Inside a dim commercial highway bus cabin on a rainy Wednesday morning in Nashville, exhausted twenty-three-year-old Nolan Lennox sits wedged on the narrow aisle seat in his olive jacket with his matte-silver single-tube Lofstrand forearm crutches resting beside his knee, gazing wistfully past sleeping Tammy (in her pastel-blue zip cardigan and foam headphones beneath the loose metal wheelchair footrests on the overhead parcel shelf) through rain-streaked glass toward an adjacent bus displaying NORFOLK in warm amber LED letters.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/exodus_p002_nashville_rain_window.jpg)
 
-#### 9:30 AM — Rain on Nashville Glass and Counting Down to Four O'Clock
+#### 9:30 AM — Rain on Cumberland Glass and Twenty Feet From the Payphones
 
-Gray morning rain streaked sideways across the tall tinted windows of our third Pathfinder coach after a bleary pre-dawn transfer in Knoxville, blurring the wet limestone bluffs and neon guitar signs sliding past as we rolled into downtown Nashville.
+Gray Tennessee morning rain lashed sideways across the tall tinted windows of our third Pathfinder coach as we downshifted across the muddy, rain-pocked swell of the Cumberland River into downtown Nashville.
 
-Twenty-four straight hours upright on hard vinyl without my wheelchair cushion—unable to shift my weight properly wedged between Tammy's knees and the aisle armrest, ankles swollen tight inside my sneakers, wrists aching from hauling myself up and down steep aluminum coach steps at every rest stop—had drained my body down to raw nerve endings. Worse than the pain in my lower back, though, was the digital wristwatch strapped to my left wrist, still set stubbornly to Eastern Daylight Time.
+After a bleary four-in-the-morning transfer under flickering fluorescent tubes in Knoxville, the last shred of departure adrenaline had burned clean out of my veins, leaving nothing behind except a deep, hollow dread that grew heavier with every wet green mile-marker sliding past. Twenty-four straight hours upright on hard, unpadded commercial bus vinyl without my contoured foam wheelchair cushion—wedged tight between Tammy's knees and the rigid aisle armrest where I couldn't push up on my palms to relieve the pressure under my sitting bones, ankles swollen hot inside my laced sneakers, both wrists aching raw from hauling my weight up steep aluminum coach stairwells—had ground my body down to exposed nerve endings.
 
-Ten-thirty back home in Chesapeake. Five and a half hours until four o'clock.
+Out beyond Tammy's reflection in the rain-streaked pane, neon fiddle signs, brick recording studios, and wet honky-tonk awnings glowed pink and amber through the downpour—a whole town built on bright stages and chasing big dreams—while inside Row Seven my throat burned with quiet, suffocating shame at how easily a two-second flash and a soft promise in Norfolk had walked me straight into a rolling cage.
 
-In nearly two full years at the Emerald Creek Blue Tech, I had never once been late, never once called out sick without finding coverage, and never once broken a workplace rule. My autistic mind didn't treat that royal-blue polo as just a retail paycheck; Store Four-Twenty-One was the one place outside Grandpa Walter's house where people respected my literal brain, where Ray Halstead trusted me alone behind the Home Theater rack, where Mallory Walsh saved me the quiet corner chair in the breakroom every single shift, and where every biweekly Friday direct deposit was supposed to keep a roof over Gwen's head once Grandpa Walter's heart gave out.
+<pa>Nashville station—twenty-minute smoke, meal, and crew break at Gate Five. Through passengers to Paducah and St. Louis, keep your seat checks in your pocket.</pa>
 
-Staring past Tammy's shoulder through rain-smeared glass at an eastbound Pathfinder cruiser pulling out of the adjacent bay with *RICHMOND / NORFOLK* glowing amber across its destination sign, something inside my chest cracked wide open.
+Pneumatic brakes sighed under the floor, the cabin door folded open onto the damp, echoing concrete of the Nashville bay apron, and forty stiff passengers stood up around us to stretch their backs and head inside toward the smell of griddle bacon and hot coffee.
 
-Never in my entire life had I wanted anything as desperately as I wanted to stand up on my silver forearm crutches right there in Nashville, stumble out into the pouring Tennessee rain, and beg that eastbound driver to take me home.
+Beside me, Tammy pulled her foam headphones down around her neck, rubbed sleep from her eyes beneath the shallow overhead parcel lip where she had once again shoved both of my loose chromed-steel wheelchair legrests bare above her head, and stood up to grab her purse.
 
-"Tammy," I whispered hoarsely, swallowing past a throat raw from dry cabin vents. "Please—my shift at Blue Tech starts at four o'clock Eastern today. Let me just run inside the Nashville terminal for two minutes and use the payphone so Ray and Mallory know I didn't just walk off the job. If I get marked down as a No-Call No-Show, corporate's computer flags you after three shifts and fires you automatically—"
+"Stay in your seat while I go grab a biscuit," Tammy muttered, stepping past my knees into the aisle without asking if I needed water or the restroom.
 
-"Good! Who cares about some minimum-wage nerd store?!" Tammy snapped loud enough to make an elderly couple across the aisle glance over, yanking her pastel-blue cardigan tighter around her shoulders. "You make barely seven bucks an hour fixing broken computers for stuck-up supervisors in glasses! Once we get out to Seattle, we'll get our own place and nobody's dragging us back to Chesapeake, so shut up about your stupid shift and let me sleep!"
+My left hand went straight into my jeans pocket, closing over four warm quarters I had guarded like gold since Richmond.
 
-My stomach dropped into ice water. Watching that eastbound Norfolk coach vanish onto the interstate ramp in the rain while three o'clock Central—four o'clock Eastern—ticked inexorably closer, I pressed my knuckles hard against my mouth so nobody in the row ahead would hear my breathing hitch. Right at three o'clock Central on Highway 24 north of Paducah, my watch beeped once on the hour. Back in Chesapeake, my four-to-eight shift had officially started without me—and I couldn't even reach a telephone to save my job.
+Down on my left wrist, my digital watch—still set stubbornly to Eastern Daylight Time—read nine-thirty-four Central, ten-thirty-four back home in Chesapeake. Less than five and a half hours remained before four o'clock. If I could just get inside that glass terminal doorway for ninety seconds while Tammy waited in the diner line, dial zero or feed coins into a wall payphone, and reach Ray Halstead or Mallory Walsh at Store Four-Twenty-One—or reach seventeen-year-old Gwen at Grandpa Walter's kitchen phone off Eden Way North—every single person I loved in Virginia would know I hadn't walked out on them. More than that, part of me knew deep in my bones that if Gwen and Grandpa Walter heard how Tammy had locked my folded wheelchair underneath a cross-country bus without lift reservations, Grandpa would move heaven and earth to get me off this highway today.
+
+Clicking both matte-silver single-tube Lofstrand forearm crutches around my forearms with trembling hands, I eased painfully off the vinyl cushion, worked my way down the four slick aluminum stairwell steps onto the rain-misty concrete bay, and swung at my fastest steady crutch pace through the heavy glass concourse doors.
+
+Inside the smoky, crowded Nashville waiting room, a tinny country slide guitar drifted out of a cracked transistor radio behind the short-order lunch counter while couples laughed in vinyl booths over paper coffee cups. Thirty feet to my right, bolted in a gleaming row along yellow cinderblock beside the restrooms, hung six empty chrome payphones.
+
+Ten paces. Five paces. My right hand was already lifting four quarters toward the coin slot of the end receiver when hard, manicured fingers clamped straight around the damp cuff of my olive jacket.
+
+"Where the hell do you think you're sneaking off to?" Tammy's voice dropped low and razor-thin right beside my ear—wearing a polite, practiced half-smile for two elderly women walking past toward the ladies' room while her knuckles twisted my sleeve tight enough to pull my left crutch ferrule half an inch off the terrazzo.
+
+"Tammy, please," I whispered hoarsely, my heart hammering against my ribs. "Just two minutes—I'm not calling the cops, I just need to call Mr. Halstead or Mallory at Blue Tech before my four-o'clock shift so corporate's computer doesn't mark me down as a No-Call No-Show—"
+
+"Drop those quarters back in your pocket right now, Nolan," Tammy hissed behind that frozen smile, tapping the white cardboard baggage-claim stub poking out of her purse zipper. "Your wheelchair's tagged under *my* ticket folder in the belly of Gate Five. Touch that telephone to go crying back to Chesapeake so your bossy teenage sister can ruin our trip, and I'll walk straight out to that baggage clerk, pull my claim tag off the manifest, and let your chair ride to Missouri without you while you figure out Nashville on two sticks."
+
+All the blood drained out of my face. Standing on aching wrists three hundred and fifty miles across the Appalachians with zero debit card, four quarters in my palm, and my manual wheelchair locked behind a steel bay door under Tammy's claim stub, every protest froze solid in my throat.
+
+***
+
+#### 10:05 AM — Eastbound to Norfolk and Counting Down to Four O'Clock
+
+Back up inside the clammy vinyl prison of Row Seven ten minutes later—chewing dry saltines Tammy tossed onto my lap while rain drummed harder against the roof—something across the greasy concrete driveway outside Tammy's window made my breath catch sharp in my chest.
+
+Idling cleanly in Bay Three right across the lane stood a spotless eastbound Pathfinder cruiser, its recessed front amber matrix glowing bright and clear through the grey Tennessee downpour:
+
+<led>RICHMOND | NORFOLK</led>
+
+Watching the driver click the underbelly luggage doors shut while travelers in raincoats climbed aboard heading straight back across Bristol, Roanoke, and Route 58 toward Tidewater, something inside my chest cracked wide open.
+
+Never in my twenty-three years on Earth had I wanted anything as fiercely as I wanted to stand up on my silver forearm crutches right there in Row Seven, push past the aisle, stumble out into the pouring Nashville rain, and beg that eastbound driver to carry me home.
+
+"Tammy," I whispered, my voice shaking despite every effort to keep it flat. "Look at Bay Three—that coach goes straight back to Norfolk. We're both miserable, my back is killing me without my wheelchair pad, and my shift at Blue Tech starts at four o'clock Eastern today. Please, let's trade the rest of our tickets in at the window and go home before corporate flags my badge—"
+
+"Good! Who cares about some minimum-wage nerd store?!" Tammy snapped loud enough to make an older couple across the aisle glance sharply over their newspaper, yanking her pastel-blue cardigan tighter around her shoulders. "You make barely seven bucks an hour fixing broken computers for stuck-up supervisors in glasses! Once we get out to Seattle, we'll get our own place and nobody's dragging us back to Chesapeake, so shut up about your stupid shift and let me sleep!"
+
+My stomach dropped into ice water.
+
+In nearly two full years at the Emerald Creek Blue Tech, I had never once been late, never once called out sick without finding coverage, and never once broken a workplace rule. Store Four-Twenty-One wasn't just a retail paycheck to my autistic brain; it was the one place outside Grandpa Walter's house where people respected how my literal mind worked, where Ray Halstead trusted me alone behind the Home Theater wall, where Mallory Walsh saved me the quiet corner chair in the breakroom every single shift, and where every biweekly Friday direct deposit was supposed to keep a safe roof over Gwen's head once Grandpa Walter's heart gave out.
+
+Watching that eastbound *RICHMOND / NORFOLK* coach ease out of Bay Three, turn up the wet ramp toward Interstate 40 East, and vanish into grey sheets of Tennessee rain while our own coach rumbled north toward Kentucky, I locked a blank, silent mask across my face and pressed my knuckles hard against my lips so nobody in Row Six would hear my breathing hitch.
+
+Right at three o'clock Central on Highway 24 north of Paducah, my wristwatch beeped once on the hour. Four o'clock Eastern. Back home in Chesapeake, my Wednesday evening shift had officially started without me—and silence was the only sound left in my seat.
 
 ***
 
 #### 5:15 PM — Loose Steel Above Row Seven Outside St. Louis Municipal Airport
 
-Late afternoon brought another gritty bus change inside the cavernous Downtown St. Louis Pathfinder Terminal under the shadow of the riverfront arch—where Tammy watched me like a hawk all the way from Gate Six to Gate Eleven so I couldn't get within twenty feet of the payphone wall—and once again, rather than give up an inch of floor space by her platform sneakers on the freshly boarded Kansas City cruiser, Tammy stood up on her tiptoes and shoved both of my heavy, unbagged steel-and-plastic swing-away wheelchair legrests straight onto the smooth, shallow overhead parcel rack directly above her own head.
+Late afternoon brought another gritty bus change inside the cavernous Downtown St. Louis Pathfinder Terminal under the shadow of the riverfront arch—where Tammy shadowed my crutches within arm's reach all the way from Gate Six to Gate Eleven so I couldn't get within twenty feet of the payphone wall—and once again, rather than give up an inch of floor space by her chunky white platform sneakers on the freshly boarded Kansas City cruiser, Tammy stood up on her tiptoes and shoved both of my heavy, unbagged steel-and-plastic swing-away wheelchair legrests straight onto the smooth, shallow overhead parcel rack directly above her own head.
 
 "Tammy, seriously, this coach's rack slopes toward the aisle," I pleaded tiredly as we merged onto Interstate 70 westbound out of downtown St. Louis, every vibration of the diesel engine making the chromed steel heel-loops rattle faintly overhead. "Let me hold them across my lap at least—"
 
@@ -1034,41 +1074,71 @@ My chest squeezed hard, knowing Nolan's rule-loving heart better than anyone in 
 
 "Tell Nolan not to list corporate's eight-hundred verification line on a single job application—tell him to put down my personal number right there on that card," Ray added firmly. "Corporate can lock me out of putting him back on our payroll; they can't stop me from picking up my own phone off the clock and giving him a glowing professional reference to anyone in Hampton Roads who calls. Now go get him home safe."
 
-### Part 2: Colby Truck Stop, US-287, and Crying Into Four Safe Arms in Pasco
+### Part 2: Bitter Wind in Colby, US-287, and Breaking Skin in Salt Lake
 
 **Date:** 2001-08-24 at 02:40 America/Chicago
 
-![On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg)
+![At 2:40 AM outside a lonely, windswept highway travel plaza in Colby, Kansas under green-lit diesel canopies and pitch-black prairie sky, weary twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) leans quietly on his two matte-silver single-tube Lofstrand forearm crutches beside a diner walkway pillar looking across at petite five-foot-tall Tammy sitting hunched and regretful on the concrete curb while their unbranded silver-and-blue highway coach refuels in the background.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg)
 
-#### 2:40 AM — Bitter Wind in Colby, US-287, and Breaking Skin in Salt Lake
+#### 2:40 AM — Facing East Outside the Colby Travel Plaza
 
-At twenty minutes to three in the morning outside a desolate, wind-scoured highway truck stop in Colby, Kansas, nothing existed in any direction except flickering green fluorescent diesel canopies, flat black prairie stretching into infinity, and the hot, throbbing ache radiating upward from my compressed tailbone.
+At twenty minutes to three on Friday morning outside a desolate, wind-scoured highway travel plaza in Colby, Kansas, nothing existed in any direction except flickering green fluorescent diesel canopies, flat black prairie stretching into infinity, and the hot, throbbing ache radiating upward from my compressed tailbone.
 
-After rolling through Kansas City and Topeka in a blur of stale sweat and diesel fumes—while my wristwatch ticked silently past my missed Thursday morning shift back home in Chesapeake—our driver had ordered everyone off for fifteen minutes to fuel the tanks. Leaning heavily on both matte-silver Lofstrand forearm crutches beside a concrete trash barrel out of the prairie wind, I glanced sideways at Tammy sitting hunched on the concrete curb ten feet away.
+After rolling through Kansas City and Topeka in a blur of stale sweat and diesel fumes—while my wristwatch ticked silently past my missed Thursday morning shift back home in Chesapeake without me knowing Mallory Walsh and Gwen were already poring over Pathfinder timetables around Grandpa Walter's kitchen table—our driver had ordered everyone off the coach for fifteen minutes to fuel the tanks. Leaning heavily on both matte-silver single-tube Lofstrand forearm crutches beside a concrete walkway pillar out of the relentless prairie wind, I watched Tammy walk slowly away from the boarding line toward the outer edge of the gravel lot.
 
-Her hair hung limp and unbrushed around her round face, a tender bruise from my falling wheelchair legrests outside St. Louis Municipal Airport still made her wince whenever she touched her scalp, her chunky white platform sneakers were gray with rest-stop dust, and she was down to thin twenties in her crumpled envelope. Staring across the empty eastbound lanes of Interstate 70 where eighteen-wheelers thundered back toward Missouri and Virginia, Tammy looked completely hollowed out. For ten fleeting, bitter seconds in the harsh sodium glare of Colby, exhaustion stripped the mask clean off her eyes; I could see plain as daylight that she regretted starting this miserable four-day haul and wished she were back inside her Chesapeake trailer.
+She stopped alone beside the low concrete curb, facing straight east—back down dark Interstate 70 toward Missouri, Kentucky, Tennessee, and Virginia.
 
-"Tammy," I rasped softly, testing that crack of silence. "There's an eastbound schedule board inside the diner. If we use what's left of your cash—"
+Under the harsh, humming amber glare of the yard floodlight, Tammy didn't know anyone was watching her. Her straight black hair hung limp and unbrushed around her round face, a tender bruise under her parting from my falling steel wheelchair legrests outside St. Louis Municipal Airport still made her wince whenever the wind caught her hood, her chunky white platform sneakers were coated gray with rest-stop dust, and her cash envelope was down to thin twenties. Watching eighteen-wheelers thunder eastbound toward home across the flat Kansas dark, her shoulders slumped two full inches inside her pastel-blue fleece cardigan.
 
-Her pride slammed shut harder than steel. Standing up stiffly off the curb, Tammy refused to even look at the eastbound highway. "Shut up and get back in line, Nolan. Nobody's turning around."
+For ten fleeting, unguarded seconds out on the Great Plains, pure exhaustion stripped every ounce of bravado clean off Tammy's face. I could see plain as daylight that she was having real second thoughts—that the four-day cramped reality of what she had impulsively started in Norfolk was sinking in, and part of her wished desperately she were back inside her Chesapeake trailer right now.
 
-Midday brought a sun-bleached transfer in Denver, followed an hour north up Interstate 25 at Fort Collins by an announcement crackling over the new driver's PA mic: instead of climbing west up steep Interstate 70 through the high-altitude grades of the Continental Divide Tunnel, commercial Pathfinder routing cut northwest up two-lane US Highway 287 across the windswept ranchlands into Wyoming—skirting the harshest peaks of the Rockies along the flatter commercial cutoff until our coach rejoined Interstate 80 in Laramie.
+Hope flickered tiny and fragile behind my ribs. Adjusting my grip on my silver crutch handles, I swung quietly halfway across the cracked concrete toward her.
 
-By the time we limped down out of the mountains for a late Friday night bus change in Salt Lake City—eighty hours into constant forward motion, and right after my third missed Week A shift at Blue Tech ticked past eight o'clock Eastern back in Virginia—my body hit a terrifying physical wall.
+"Tammy," I rasped softly over the prairie wind, testing that single crack of mercy. "There's an eastbound schedule board right inside the diner doors. If we use what's left of your cash before the driver finishes fueling—"
 
-Bracing one forearm against the cold tile stall wall inside the Salt Lake City terminal restroom to check why the base of my spine felt like raw fire instead of dull numbness, my breath caught sharp in my throat. Sitting wedged upright for more than three straight days on rigid, unyielding commercial bus vinyl without my contoured foam wheelchair cushion underneath me—and unable to do proper thirty-minute weight-shift push-ups jammed beside Tammy in a moving aisle—had begun breaking down the skin over my left sitting bone into an angry, hot, deep-crimson stage-two pressure sore.
+Hearing my voice say it out loud snapped Tammy's pride shut harder than cold iron.
 
-Panic turned my palms clammy. Every wheelchair user on Earth knew an untreated pressure ulcer could turn infected and land you flat in a hospital bed for months. Yet when I limped back out to Gate Nine pale and shaking to tell Tammy my skin was breaking down and I needed a doctor, she grabbed my wrist and pulled me straight onto the overnight Boise and Washington coach before the door hissed shut.
+Her spine stiffened straight up, every trace of doubt vanished behind a hard, flat scowl, and she turned her back squarely on the eastbound highway without answering my question.
+
+"Shut up and get back in line, Nolan," Tammy bit out, marching straight past my crutches toward the open aluminum coach stairwell. "Nobody's turning around."
 
 ***
 
-#### 7:42 AM, Saturday, August 25 — Five Minutes Before the Restroom Door
+#### 1:15 PM — Thin Air in Denver, US-287, and Midnight Fire in Salt Lake
 
-Bleary, harsh Pacific Northwest morning sunlight slanted through the dusty high windows of the Pasco Intermodal Terminal in eastern Washington when our coach groaned into Bay Two after a sleepless overnight run past Boise.
+By midday Friday inside the glaring concrete bays of Denver, Colorado—one full mile above the sea-level Tidewater air my lungs had breathed my whole life—every climb up and down those four steep coach steps left my chest tight and dizzy.
 
-"Twenty-minute rest stop in Pasco before Yakima, Ellensburg, and Seattle!" the driver called out, popping the pneumatic door latch.
+My stomach cramped hollow from twenty hours on half a pack of vending crackers and lukewarm water, and a deeper, sharper heat had begun whispering underneath my left hip every time our coach bounced over expansion joints. Yet whenever I glanced sideways at Tammy's tight jaw and angry sighs during our rushed Denver transfer, I bit the inside of my cheek and kept quiet, terrified that asking for food or twenty extra minutes near a clinic would trigger another loud explosion in front of strangers.
 
-Ninety hours without real sleep, running a low fever from the burning pressure sore under my jeans, my wrists swollen raw inside my silver Lofstrand cuffs, and my brain swimming through thick gray cotton fog, I barely managed to lower myself down the four aluminum coach steps onto the concrete platform and shuffle inside the quiet tiled concourse.
+An hour north up Interstate 25 past Fort Collins, our relief driver's voice crackled over the overhead PA speaker:
+
+<pa>Folks, for those asking why we didn't head straight west out of Denver on Seventy—our forty-five-foot commercial coaches skip the steep grades up the Continental Divide Tunnel and run northwest up two-lane Highway Two-Eighty-Seven into Laramie to pick up Eighty across Wyoming.</pa>
+
+Cutting diagonally across the high-altitude wind tunnels of northern Colorado and southern Wyoming may have spared the transmission steep mountain grades, yet five straight hours of rough two-lane ranchland frost-heaves along US Highway 287 hammered directly upward through the unpadded commercial bus vinyl into my unshifted sitting bones.
+
+By the time our coach limped down out of the Wasatch mountains for a midnight bus change inside the Salt Lake City terminal—more than eighty hours into constant motion, and four hours after my third missed Week A shift at Blue Tech had quietly triggered corporate's automated eight-o'clock termination computer back in Virginia—my body hit a terrifying physical wall.
+
+Under federal accessibility rules, the Salt Lake driver would gladly have held the Boise coach five extra minutes while a passenger on forearm crutches used the terminal restroom, since the narrow lavatory wedged at the rear of the highway cruiser couldn't fit crutches through its folding door. Tammy didn't even let me ask the driver—snapping under the fluorescent sign that the coach was pulling out any second and I was going to get us stranded in Utah if I took too long.
+
+Bracing one trembling forearm against the cold tile stall wall inside the Salt Lake men's room to check why my left hip felt like an open stove burner instead of dull numbness, my breath caught sharp in my throat.
+
+Sitting wedged upright for more than three days without my contoured foam wheelchair cushion underneath me—unable to do proper thirty-minute weight-shift push-ups jammed beside Tammy in a moving aisle—had broken down the skin over my left sitting bone into an angry, hot, deep-crimson stage-two pressure sore.
+
+Panic turned my palms ice-cold. Every wheelchair user on Earth knew an untreated pressure ulcer could turn infected fast and put you flat in a surgical ward for months. Yet when I crutched back out toward Gate Nine pale and shaking to show Tammy my hands were trembling and tell her my skin was tearing open, she rolled her eyes with a heavy, disgusted sigh, grabbed my jacket wrist, and pulled me straight up the steps of the overnight Idaho and Washington coach before the pneumatic door hissed shut—neither of us having the faintest idea that two Meridian Airlines boarding passes bearing Gwen's name and Mallory Walsh's name were already descending toward eastern Washington ahead of us.
+
+### Part 3: Five Minutes Before the Restroom Door and Crying Into Four Safe Arms in Pasco
+
+**Date:** 2001-08-25 at 07:42 America/Los_Angeles
+
+![On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg)
+
+#### 7:42 AM — Five Minutes Before the Restroom Door
+
+Bleary, harsh Pacific Northwest morning sunlight slanted through the dusty high windows of the Pasco Intermodal Terminal in eastern Washington when our coach groaned into Bay Two after a sleepless overnight haul across Boise, Nampa, and the empty high desert.
+
+<pa>Pasco station—twenty-minute rest stop before Yakima, Ellensburg, and Seattle!</pa>
+
+Ninety hours without real sleep, running a low fever from the burning stage-two pressure sore under my jeans, my wrists swollen raw inside my silver Lofstrand cuffs, and my brain swimming through thick gray cotton fog, I barely managed to lower myself down the four aluminum coach steps onto the concrete platform and shuffle inside the quiet tiled concourse.
 
 Tammy walked right on my heels, her eyes dark, glassy, and wired tight after four days of bruised pride, dwindling cash, and watching me flinch every time her shoulder brushed mine. Spotting the quiet, isolated rear hallway leading back toward the terminal restrooms away from the ticket desk and the sparse Saturday-morning benches, Tammy abruptly stepped right in front of my crutches—dropping her voice into that eerie, syrupy Week-One velvet whisper that didn't match the hard grip of her fingers closing around my jacket sleeve.
 
@@ -1090,7 +1160,11 @@ Tammy froze dead in her chunky platform sneakers outside the restroom hallway, h
 
 "Everything alright here, folks?" the officer asked, looking straight from my pale, shaking face to Tammy's hand dropping fast off my sleeve. "These two ladies just showed ticketed ID at the desk looking for Mr. Nolan Lennox—he's free to walk right out that front door with his family."
 
-Outnumbered three to one under a security guard's stare—and spotting the Pathfinder driver already waving Seattle passengers back toward Bay Two—Tammy didn't dare swing or scream. Face burning blotchy purple with humiliation, she spat, "Fine—go crawl home to your sister, you useless baby!" spun on her heel, and marched straight back out the bay doors onto the departing Seattle coach alone while the baggage clerk pulled my folded manual wheelchair and battered olive duffel out of the underbelly bay onto the platform for Mallory.
+Outnumbered three to one under a security guard's stare—and spotting the Pathfinder driver already waving Seattle passengers back toward Bay Two—Tammy didn't dare swing or scream. Face burning blotchy purple with humiliation, she spat, "Fine—go crawl home to your sister, you useless baby!" spun on her heel, and marched straight back out the bay doors onto the departing Seattle coach alone while the baggage clerk pulled my folded manual wheelchair, two steel legrests, and battered olive duffel out of the underbelly bay onto the platform for Mallory.
+
+***
+
+#### 7:50 AM — The First Question Out of My Mouth and Four Safe Arms
 
 Five seconds after the glass bay doors clicked shut behind Tammy, my knees buckled completely inside my jeans.
 
@@ -1098,7 +1172,7 @@ Mallory and Gwen caught me together before I hit the floor, easing me gently sid
 
 Before Gwen could even ask about my feverish forehead or Mallory could open the bottled water in her tote—before a single thought about airplanes, hotels, or three thousand miles registered—the one terrifying math calculation that had eaten me alive since Nashville burst straight out of my raw throat.
 
-"Mallory—my shifts!" I choked out, grabbing the cuff of Mallory's green cardigan with both trembling hands as hot panic flooded my eyes. "Wednesday four-to-eight, and Thursday morning, and yesterday afternoon—Tammy blocked the payphones in Richmond and St. Louis, she wouldn't let me call you or Mr. Halstead! Did corporate fire me?! Please, Mallory—is there *any* way I can get my job back?!"
+"Mallory—my shifts!" I choked out, grabbing the cuff of Mallory's green cardigan with both trembling hands as hot panic flooded my eyes. "Wednesday four-to-eight, and Thursday morning, and yesterday afternoon—Tammy blocked the payphones in Richmond, Nashville, and St. Louis, she wouldn't let me call you or Mr. Halstead! Did corporate fire me?! Please, Mallory—is there *any* way I can get my job back?!"
 
 Kneeling right down on both knees on the terrazzo in front of my bench so her gentle, honest blue-gray eyes met mine behind her silver wire-rimmed glasses without a trace of flinching or false promises, Mallory covered both of my shaking hands with hers.
 
@@ -1106,7 +1180,7 @@ Kneeling right down on both knees on the terrazzo in front of my bench so her ge
 
 Hearing those literal words out loud hit my chest ten times harder than Tammy's palm ever could.
 
-Two whole years of counting out clean change, lining every seventy-five-ohm splitter flush on its peg, memorizing every four-week rotation, never once showing up late, saving every paycheck to keep Gwen safe when Grandpa died—gone. Stolen clean away from me because I froze by a concrete pillar in Norfolk.
+Two whole years of counting out clean change, lining every seventy-five-ohm splitter flush on its peg, memorizing every four-week rotation, never once showing up late, saving every paycheck to keep Gwen safe when Grandpa died—gone. Stolen clean away from me because I froze behind steel lockers in Norfolk.
 
 A jagged, strangled sound tore out of my chest, and right there on a wooden bench in eastern Washington, I broke down crying harder than I had cried since Mom and Dad died.
 
@@ -1114,7 +1188,7 @@ Gwen didn't hesitate half a second—dropping down onto the bench right on my ri
 
 "You didn't fail a single thing, Nolan Lennox—not one," Mallory whispered fiercely against my hair, resting her cheek lightly against my temple while pulling both a signed sheet of crisp Blue Tech letterhead and a white business card from her bag once my ragged breathing finally slowed. "Ray Halstead has an autistic granddaughter, Nolan—he understood right away that Tammy cornered you in Norfolk and you never connected stepping onto that bus with losing your job because you thought she'd let you use a rest-stop payphone. Corporate wouldn't let him overrule the computer, so Ray wrote his own personal phone number right on the back of this card and told me anyone you interview with can call him directly for a glowing reference. Right now, though, Gwen and I have three bulkhead seats waiting over at Pasco Regional Airport, and we're taking you home to Grandpa Walter."
 
-### Part 3: Empty Work Polos, Ray's Personal Number, and Home in Studio 205
+### Part 4: Empty Work Polos, Ray's Personal Number, and Home in Studio 205
 
 **Date:** 2001-12-01 at 15:30 America/New_York
 
@@ -1160,51 +1234,79 @@ Adjusting her thin silver wire-rimmed glasses with warm pink dusting her freckle
 
 ## Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise
 
-### Part 1: Colby, Salt Lake Skin Breakdown, Pasco, and Abandoned in Seattle
+### Part 1: Bitter Wind in Colby, US-287, and Breaking Skin in Salt Lake
 
 **Date:** 2001-08-24 at 02:40 America/Chicago
 
 ![At 2:40 AM outside a lonely, windswept highway travel plaza in Colby, Kansas under green-lit diesel canopies and pitch-black prairie sky, weary twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) leans quietly on his two matte-silver single-tube Lofstrand forearm crutches beside a diner walkway pillar looking across at petite five-foot-tall Tammy sitting hunched and regretful on the concrete curb while their unbranded silver-and-blue highway coach refuels in the background.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg)
 
-#### 2:40 AM — Bitter Wind in Colby, US-287, and Breaking Skin in Salt Lake
+#### 2:40 AM — Facing East Outside the Colby Travel Plaza
 
-Back in Virginia on Wednesday night, Mallory Walsh had slipped her car key into her ignition, respected corporate human-resources protocol and the boundary around a spoken-for employee, and driven home to wait properly until Friday evening's third unexcused absence before telephoning Grandpa Walter's house off Eden Way North—meaning nobody in Chesapeake even knew which direction Tammy had taken me until our coach was already crossing the Great Basin.
+Back in Virginia on Wednesday night, Mallory Walsh had slipped her car key into her ignition, respected corporate human-resources protocol and the boundary around a spoken-for employee, and driven home to wait properly until Friday evening's third unexcused absence before telephoning Grandpa Walter's house off Eden Way North—meaning nobody in Chesapeake even knew Tammy had taken me out of Tidewater while our fourth Pathfinder cruiser pushed deep into the Great Plains.
 
-Out under the flickering green diesel canopy of a windswept highway truck stop in Colby, Kansas at twenty minutes to three on Friday morning, nothing existed except flat black prairie, cold grease traps, and the hot, grinding pain radiating up from the base of my spine.
+Out under the flickering green diesel canopy of a windswept highway travel plaza in Colby, Kansas at twenty minutes to three on Friday morning, nothing existed in any direction except flat black prairie, cold grease traps, and the hot, grinding pain radiating up from the base of my spine.
 
-Leaning heavily on both matte-silver Lofstrand forearm crutches out of the wind while our tanks fueled after Kansas City and Topeka, I glanced over at Tammy hunched alone on the concrete curb. Her hair hung limp over the tender goose-egg left by my falling steel wheelchair legrests outside St. Louis Municipal Airport, her platform sneakers were gray with road grit, and for ten bitter, unguarded seconds staring across the eastbound lanes of Interstate 70 toward Missouri and Virginia, exhaustion stripped her mask bare: even Tammy regretted starting this ninety-six-hour nightmare and wished she could turn around. Yet the instant I quietly suggested checking the eastbound board inside the diner, her pride snapped shut like a steel trap and marched us right back up the aluminum stairwell.
+Leaning heavily on both matte-silver single-tube Lofstrand forearm crutches beside a concrete diner pillar while our tanks fueled after Kansas City and Topeka, I watched Tammy walk slowly away from the bus line toward the far edge of the asphalt lot.
 
-Past Denver and Fort Collins that afternoon, our new driver announced over the PA that Pathfinder coaches avoided steep Interstate 70 and the high-altitude grades of the Continental Divide Tunnel—cutting northwest up two-lane US Highway 287 across the high basin into Wyoming to rejoin Interstate 80 at Laramie.
+She stopped alone beside the low concrete curb, facing straight east—back down dark Interstate 70 toward Missouri, Tennessee, and Virginia.
 
-By late Friday night inside the Salt Lake City terminal restroom—more than eighty hours wedged upright on rigid, unpadded commercial bus vinyl without my contoured foam wheelchair cushion or room to shift my weight—my fingers brushed hot, swollen, broken skin over my left sitting bone. A severe pressure sore had already torn open and begun oozing beneath my jeans, spiking a low, shivering fever behind my eyes. Tammy refused to hear a word about doctors, pulling my shaking wrist straight onto the overnight Boise and Washington coach.
+Under the harsh sodium floodlight, Tammy didn't realize anyone was looking at her. Her straight black hair hung limp and unbrushed over the tender swelling left by my falling steel wheelchair legrests outside St. Louis Municipal Airport, her chunky white platform sneakers were gray with road grit, and as a pair of eastbound eighteen-wheelers thundered past toward home, her posture slumped inside her pastel-blue fleece cardigan.
+
+For ten silent, unguarded seconds in the Kansas wind, sheer exhaustion stripped the mask clean off Tammy's eyes: even Tammy was having second thoughts, realizing the magnitude of this ninety-six-hour nightmare and wishing she were back inside her Chesapeake trailer.
+
+Adjusting my grip on my silver crutch handles, I swung quietly halfway across the concrete toward her. "Tammy," I rasped softly, testing that single crack of doubt. "There's an eastbound schedule board right inside the diner. If we turn around here with what's left of your cash—"
+
+Hearing me say it out loud snapped her pride shut like a steel trap. Straightening her shoulders, Tammy turned her back squarely on the East without another glance at the interstate.
+
+"Shut up and get back in line, Nolan," she snapped, marching straight back toward the aluminum stairwell. "Nobody's turning around."
 
 ***
 
-#### 7:45 AM, Saturday, August 25 — Fog in Pasco and Left Behind at the End of the Line
+#### 1:20 PM — Thin Air in Denver, US-287, and Midnight Fire in Salt Lake
 
-By quarter to eight Saturday morning at the Pasco Intermodal Terminal in eastern Washington, ninety hours without real sleep and a climbing infection fever from my broken sitting-bone skin had turned the tiled concourse into swimming, cotton-stuffed tunnel vision where I could barely string four words together.
+Midday in Denver brought thin, dizzying mile-high air that left my chest tight every time I hauled myself up and down four steep coach steps on swollen wrists, while hunger twisted my empty stomach and a sharp, secret fire began burning steadily underneath my left sitting bone. Afraid that asking for food or medical help would only set Tammy screaming in another crowded station, I bit my tongue and endured the transfer in silence.
 
-Walking right beside my dragging silver forearm crutches toward the quiet rear restroom corridor while the other passengers queued for coffee up front, Tammy didn't yell or shove me at all. Desperate after four miserable days to feel wanted and have sex again before reaching Seattle, she slipped her arm softly through mine and dropped into the exact warm, sugary Week-One voice that my exhausted, literal brain had been conditioned for two years to obey whenever my defenses were gone.
+North of Fort Collins up Interstate 25, our driver announced over the PA mic that forty-five-foot commercial Pathfinder coaches bypassed steep Interstate 70 and the high-altitude grades of the Continental Divide Tunnel—cutting northwest up two-lane US Highway 287 across the high windswept basin into Wyoming to rejoin Interstate 80 at Laramie. Five straight hours of rough two-lane ranchland vibration hammered straight through the unpadded vinyl bench into my hips.
+
+By midnight inside the Salt Lake City terminal restroom—more than eighty hours wedged upright without my contoured foam wheelchair cushion or room to shift my weight, while Tammy snapped outside the door that the driver wouldn't wait—my trembling fingers brushed hot, swollen, broken skin over my left sitting bone. A severe pressure ulcer had already torn open beneath my jeans, spiking a low, shivering fever behind my eyes. When I crutched out to Gate Nine pale and begging for an emergency room, Tammy answered with a disgusted roll of her eyes, grabbed my wrist, and pulled me straight onto the overnight Boise and Washington coach.
+
+### Part 2: Fog in Pasco, Across the Cascades, and Abandoned in Seattle
+
+**Date:** 2001-08-25 at 07:45 America/Los_Angeles
+
+#### 7:45 AM — Fog Behind a Locked Restroom Door in Pasco
+
+By quarter to eight Saturday morning at the Pasco Intermodal Terminal in eastern Washington—after grinding across the Idaho line through Boise, Nampa, and the bleak predawn high desert with nobody from Virginia standing on the platform to stop us—ninety hours without real sleep and a climbing infection fever from my broken sitting-bone skin had turned the tiled concourse into swimming, cotton-stuffed tunnel vision where I could barely string four words together.
+
+Walking right beside my dragging silver forearm crutches toward the quiet rear restroom corridor while the other passengers queued for coffee up front, Tammy didn't yell or shove me at all. Desperate after four miserable days to prove to herself that we were back together and have sex again before reaching Seattle, she slipped her arm softly through mine and dropped into the exact warm, sugary Week-One voice that my exhausted, literal brain had been conditioned for two years to obey whenever my defenses were gone.
 
 "Come inside the single family restroom with me for just a few minutes, baby," Tammy whispered softly against my ear, guiding my trembling elbow toward the heavy steel door while my fever-fogged head struggled even to stay upright on my cuffs. "I haven't gotten to hold you all week, Nolan, and you know how much I've missed being in bed with you... just come inside and let me be close to you like home."
 
-"Tammy, my head's spinning, my hip hurts so bad, I don't think—" I mumbled weakly, unable to think straight or process how out of it I really was as she clicked the privacy latch behind us and reached gently for the hem of my shirt, whispering over and over how much she had missed me until my dazed, exhausted mind gave up trying to sort pain from compliance—registering through the gray fog only that my girlfriend wanted to do it again before the fluorescent ceiling spun away into silence.
+"Tammy, my head's spinning, my hip hurts so bad, I don't think—" I mumbled weakly, unable to think straight or process how out of it I really was as she clicked the heavy privacy deadbolt shut behind us under the buzzing fluorescent tube and reached gently for the hem of my shirt, whispering over and over how much she had missed me until my dazed, exhausted mind gave up trying to sort pain from compliance—wishing only to turn invisible against the cold white tile while the ceiling spun away into gray static.
 
 Only the harsh crackle of the terminal loudspeaker minutes later calling final boarding for Yakima, Ellensburg, and Seattle snapped Tammy abruptly back to the clock, making her straighten her pastel-blue cardigan in a rush and hurry me back up the coach steps two minutes before the bay doors hissed shut.
 
-Five hours later across the Cascade pass, our coach finally rolled to a halt inside the cavernous concrete bays of the Downtown Seattle Pathfinder Terminal.
+***
 
-By then, my teeth were chattering uncontrollably in seventy-degree air. Sweat soaked my navy t-shirt from a hundred-and-two-degree fever, dark infection heat radiated all the way down my left thigh whenever I tried to touch weight to my seat, and when the baggage clerk slid my folded manual wheelchair onto the concrete without its crushed cushion, my legs shook too violently even to transfer off my silver crutches without help.
+#### 1:10 PM — Ellensburg, Cold Rain in Seattle, and Left Behind at the End of the Line
 
-Tammy walked twenty feet away to a wall payphone, dialed a local number, and argued sharply into the receiver for ninety seconds before slamming the handset down hard enough to crack plastic—her Seattle cousin flatly refusing to let an uninvited man with an infected wound and a wheelchair inside a fifth-floor walk-up apartment.
+All five hours northwest through Yakima, windswept Ellensburg, and the dark timbered grades of Snoqualmie Pass, a cold, silent shift burned behind my feverish eyes. Looking sideways at Tammy staring smugly out the window while hot infection throbbed down my left leg with every mile-post, the last thread of confusion in my chest finally burned away: this trip had never been about love, family, or starting fresh. I was just a prop she had dragged across nine states so she wouldn't have to ride alone.
 
-Spinning back toward me where I leaned white-faced and trembling against a concrete bay pillar three thousand miles from Virginia, Tammy didn't even pretend to care anymore.
+Early afternoon rain was streaking down out of low gray Puget Sound clouds when our coach finally groaned to a halt inside the cavernous, exhaust-choked concrete bays of the Downtown Seattle Pathfinder Terminal.
 
-"I didn't spend four days getting hit in the head in St. Louis just to play nursemaid in an emergency room!" Tammy snapped coldly, grabbing the handle of her rolling suitcase and leaving my folded wheelchair and two loose steel legrests lying abandoned beside my sneakers on the greasy concrete. "Call an ambulance on your own dime—we're through!"
+By then, my teeth were chattering uncontrollably despite sweat soaking clean through my heather-navy t-shirt from a hundred-and-two-degree fever. Dark heat radiated all the way down my left thigh whenever I tried to touch weight to vinyl, and when the baggage clerk slid my folded manual wheelchair onto the greasy concrete without its crushed cushion, my legs shook too violently even to let go of my silver Lofstrand grips without help.
 
-Before I could even lift a hand off my crutch grip to answer, Tammy strode straight out the street exit and stepped aboard a departing TAPS city bus, vanishing into downtown Seattle traffic without looking back once.
+Tammy walked twenty feet away to a row of chrome wall payphones, dropped coins into the slot, and put on a bright, syrupy fake-surprise voice for all of ten seconds—before her cousin on the other end of the line realized Tammy had shown up unannounced in Washington expecting to move an uninvited boyfriend with a wheelchair and an infected wound into a fifth-floor walk-up apartment.
 
-### Part 2: Puget Sound General, Grounded Skies, and Holding On Past October Nineteenth
+For ninety seconds Tammy argued sharper and louder into the receiver, then slammed the handset down hard enough to crack plastic.
+
+Spinning back toward me where I leaned white-faced and shivering against a concrete bay pillar three thousand miles from Grandpa Walter and Gwen, Tammy didn't even bother putting the mask back on.
+
+"I didn't spend four days getting hit in the head in St. Louis just to play nursemaid in an emergency room!" Tammy snapped coldly, grabbing the telescoping handle of her rolling suitcase and leaving my folded wheelchair, battered duffel, and two loose steel legrests lying abandoned beside my sneakers on the wet concrete. "Call an ambulance on your own dime—we're through!"
+
+Before I could even lift a trembling hand off my crutch grip to answer, Tammy strode straight out the street exit into the Seattle rain and stepped aboard a departing TAPS city bus, vanishing into downtown traffic without looking back once.
+
+### Part 3: Puget Sound General, Grounded Skies, and Holding On Past October Nineteenth
 
 **Date:** 2001-09-11 at 06:03 America/Los_Angeles
 
@@ -1250,7 +1352,7 @@ Back in August, Grandpa's cardiologist had quietly warned us his weakened heart 
 
 "Count on it, sailor," Grandpa whispered. "See you at home."
 
-### Part 3: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205
+### Part 4: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205
 
 **Date:** 2001-10-26 at 13:15 America/Los_Angeles
 
