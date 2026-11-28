@@ -877,9 +877,11 @@ Clicking both matte-silver single-tube Lofstrand forearm crutches around my fore
 
 Inside the smoky, crowded Nashville waiting room, a tinny country slide guitar drifted out of a cracked transistor radio behind the short-order lunch counter while couples laughed in vinyl booths over paper coffee cups. Thirty feet to my right, bolted in a gleaming row along yellow cinderblock beside the restrooms, hung six empty chrome payphones.
 
-Ten paces. Five paces. My right hand was already lifting four quarters toward the coin slot of the end receiver when hard, manicured fingers clamped straight around the damp cuff of my olive jacket.
+Ten paces. Five paces. My left hand was already lifting four quarters toward the coin slot of the end receiver when hard, manicured fingers clamped straight around the damp sleeve of my olive jacket.
 
-"Where the hell do you think you're sneaking off to?" Tammy's voice dropped low and razor-thin right beside my ear—wearing a polite, practiced half-smile for two elderly women walking past toward the ladies' room while her knuckles twisted my sleeve tight enough to pull my left crutch ferrule half an inch off the terrazzo.
+![Inside the smoky, fluorescent-lit Nashville intercity bus terminal concourse beside a row of gleaming unbranded chrome wall payphones on yellow cinderblock, twenty-three-year-old Nolan Lennox stands braced on his two matte-silver single-tube Lofstrand forearm crutches reaching his left hand with silver quarters toward the end payphone while petite five-foot-tall Tammy stands at his right elbow in her pastel baby-blue fleece cardigan wearing a practiced half-smile for passing travelers as she grips his jacket sleeve and holds her purse with the white baggage claim tag]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/exodus_p002_nashville_payphone_block.jpg#fullwidth)
+
+"Where the hell do you think you're sneaking off to?" Tammy's voice dropped low and razor-thin right beside my ear—wearing a polite, practiced half-smile for two elderly women walking past toward the ladies' room while her knuckles twisted my sleeve tight enough to pull my crutch ferrule half an inch off the terrazzo.
 
 "Tammy, please," I whispered hoarsely, my heart hammering against my ribs. "Just two minutes—I'm not calling the cops, I just need to call Mr. Halstead or Mallory at Blue Tech before my four-o'clock shift so corporate's computer doesn't mark me down as a No-Call No-Show—"
 
@@ -1164,17 +1166,19 @@ Outnumbered three to one under a security guard's stare—and spotting the Pathf
 
 ***
 
-#### 7:50 AM — The First Question Out of My Mouth and Four Safe Arms
+#### 7:50 AM — The Greeting My Bones Needed, My Lost Shirt, and One Massively Earned Hug
 
-Five seconds after the glass bay doors clicked shut behind Tammy, my knees buckled completely inside my jeans.
+Five seconds after the glass bay doors clicked shut behind Tammy, Gwen didn't waste half a breath on luggage or paperwork.
 
-Mallory and Gwen caught me together before I hit the floor, easing me gently sideways onto a smooth wooden concourse bench so my weight stayed off my sore left hip.
+Propping both of her tall matte-charcoal Lofstrand forearm crutches cleanly against the arm of the nearest smooth wooden concourse bench, my six-foot-one little sister opened both arms wide right in front of me—and before my trembling knees could buckle inside my jeans, I let go of my own silver crutches against the bench rail and stepped straight into the tightest, most aching greeting hug of my entire life.
 
-Before Gwen could even ask about my feverish forehead or Mallory could open the bottled water in her tote—before a single thought about airplanes, hotels, or three thousand miles registered—the one terrifying math calculation that had eaten me alive since Nashville burst straight out of my raw throat.
+Ever since we were little kids, Gwen and I had greeted each other and said goodbye the exact same way every single time without exception, and Tammy dragging me down that plywood ramp on Tuesday morning had stolen four whole days without it. In two thousand and one I didn't have a single clinical phrase or fancy vocabulary word to explain why my autistic wiring needed to hug Gwen tightly every hello and every goodbye—only that tucking my chin into its familiar spot right beneath her collarbone while her long, steady arms locked solid around my shoulders flipped an actual physical switch inside my nervous system, turning down ninety hours of roaring highway static until my heart remembered how to beat in rhythm. Holding onto her wrinkled burgundy travel hoodie like a sailor clinging to a lighthouse, I breathed in airplane soap and home, and Gwen held me back with everything she had, resting her cheek fiercely atop my tousled hair as we eased down together onto the wooden bench so my weight stayed off my sore left hip.
+
+Right as Gwen shifted half an inch to keep one arm anchored warm around my back and I looked straight across into Mallory Walsh's gentle blue-gray eyes behind her thin silver wire-rimmed glasses, the one terrifying math calculation that had eaten me alive since Nashville burst straight out of my raw throat.
 
 "Mallory—my shifts!" I choked out, grabbing the cuff of Mallory's green cardigan with both trembling hands as hot panic flooded my eyes. "Wednesday four-to-eight, and Thursday morning, and yesterday afternoon—Tammy blocked the payphones in Richmond, Nashville, and St. Louis, she wouldn't let me call you or Mr. Halstead! Did corporate fire me?! Please, Mallory—is there *any* way I can get my job back?!"
 
-Kneeling right down on both knees on the terrazzo in front of my bench so her gentle, honest blue-gray eyes met mine behind her silver wire-rimmed glasses without a trace of flinching or false promises, Mallory covered both of my shaking hands with hers.
+Kneeling right down on both knees on the terrazzo in front of my bench so her honest eyes met mine on the level without a trace of flinching or false promises, Mallory covered both of my shaking hands with hers.
 
 "Nolan, listen to me—Ray Halstead and I both called District HR on your behalf and told them you hadn't abandoned your post," Mallory said softly, her voice catching slightly with genuine sorrow on my behalf. "Corporate's automated payroll computer up at headquarters still processed Friday evening's third unexcused absence as an automatic termination with a corporate rehire freeze. Neither Ray nor I had override permissions in the system to stop it. I am so, so sorry, Nolan."
 
@@ -1184,9 +1188,25 @@ Two whole years of counting out clean change, lining every seventy-five-ohm spli
 
 A jagged, strangled sound tore out of my chest, and right there on a wooden bench in eastern Washington, I broke down crying harder than I had cried since Mom and Dad died.
 
-Gwen didn't hesitate half a second—dropping down onto the bench right on my right side to wrap both long arms fiercely around my heaving shoulders—and right on my left, without a shred of workplace distance left between us, Mallory sat straight up onto the bench beside me and wrapped both of her warm arms around my neck and shoulder too. Burying my wet, burning face right into Mallory's forest-green cardigan collar while Gwen held my back tight against her chest, I sobbed uncontrollably into both of their arms for five straight minutes—crying for my lost royal-blue polo, crying for ninety hours of terror and aching skin, and crying at the sheer miracle that the two best women on Earth had flown clear across America just to pull me out of a hallway in time.
+Gwen pulled me immediately against her right shoulder while right on my left, without a shred of workplace distance left between us, Mallory sat straight up onto the bench beside me and wrapped both of her warm arms around my neck and shoulder too. Held safe inside four fierce arms, I sobbed uncontrollably for five straight minutes—crying for my lost royal-blue polo, crying for ninety hours of terror and aching skin, and crying at the sheer miracle that the two best women on Earth had flown clear across America just to pull me out of a hallway in time.
 
-"You didn't fail a single thing, Nolan Lennox—not one," Mallory whispered fiercely against my hair, resting her cheek lightly against my temple while pulling both a signed sheet of crisp Blue Tech letterhead and a white business card from her bag once my ragged breathing finally slowed. "Ray Halstead has an autistic granddaughter, Nolan—he understood right away that Tammy cornered you in Norfolk and you never connected stepping onto that bus with losing your job because you thought she'd let you use a rest-stop payphone. Corporate wouldn't let him overrule the computer, so Ray wrote his own personal phone number right on the back of this card and told me anyone you interview with can call him directly for a glowing reference. Right now, though, Gwen and I have three bulkhead seats waiting over at Pasco Regional Airport, and we're taking you home to Grandpa Walter."
+"You didn't fail a single thing, Nolan Lennox—not one," Mallory whispered fiercely against my hair once my ragged breathing finally slowed, pressing both a signed sheet of crisp Blue Tech letterhead and a white business card into my palm. "Ray Halstead has an autistic granddaughter, Nolan—he understood right away that Tammy cornered you in Norfolk and you never connected stepping onto that bus with losing your job because you thought she'd let you use a rest-stop payphone. Corporate wouldn't let him overrule the computer, so Ray wrote his own personal phone number right on the back of this card and told me anyone you interview with can call him directly for a glowing reference. And losing Store Four-Twenty-One yesterday evening also means there isn't a Shift Supervisor pin standing between you and me anymore."
+
+Wiping my wet cheeks on my sleeve, my literal brain stared from that white business card up to Mallory's freckled, tear-bright face six inches from mine.
+
+For five straight months back in Chesapeake, Mallory had saved me the quiet corner chair in the breakroom, listened to me talk about protected-memory kernels, told me the bug wasn't in my hardware when Tammy screamed at me, and honored every single boundary in the book—and then the very night I vanished off the Week A schedule, she had broken corporate HR protocol, driven to Grandpa's porch, and flown three thousand miles across the country beside my teenage sister to save me.
+
+"Mallory," I whispered hoarsely, looking straight into her eyes, "can I hug you right now—just you and me?"
+
+Mallory's breath caught in the warmest, brightest smile I had ever seen behind her wire-rimmed glasses.
+
+"More than anything, Nolan," she whispered, opening both arms wide.
+
+Turning squarely toward her on the wooden bench while Gwen happily eased her arm back to give us room, I wrapped both of my arms all the way around Mallory Walsh's waist and shoulders, and Mallory locked both of her arms tightly around my neck—burying her face against my olive jacket shoulder as I held her close against my chest in a long, deep, massively earned hug that felt five months and three thousand miles in the making. Right beside my shoulder on the bench, seventeen-year-old Gwen leaned back against her hands beaming from ear to ear with unmistakable, wholehearted sisterly approval.
+
+![On the sunlit wooden concourse bench of the Pasco Intermodal Terminal beside Nolan's rescued manual wheelchair and olive duffel bag, twenty-three-year-old Nolan Lennox and Mallory Walsh share a deeply emotional, massively earned two-armed hug while tall seventeen-year-old sister Gwen Lennox sits right beside them beaming with proud, wholehearted sisterly approval, with Nolan's shorter matte-silver and Gwen's taller matte-charcoal single-tube Lofstrand forearm crutches leaning neatly against the bench arm]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_mallory_earned_hug_gwen_approving.jpg#fullwidth)
+
+"Come on, you two," Gwen smiled warmly when Mallory and I finally eased half an inch apart with Mallory's fingers still laced tight through mine. "We've got three bulkhead seats waiting over at Pasco Regional Airport, and Grandpa Walter's holding down the fort waiting for us to bring my brother home."
 
 ### Part 4: Empty Work Polos, Ray's Personal Number, and Home in Studio 205
 
@@ -1274,6 +1294,8 @@ By midnight inside the Salt Lake City terminal restroom—more than eighty hours
 
 **Date:** 2001-08-25 at 07:45 America/Los_Angeles
 
+![Inside the rainy concourse of the Downtown Seattle Pathfinder Terminal on Saturday afternoon, August 25, 2001, weary, heartbroken twenty-three-year-old Nolan Lennox stands leaning on his two matte-silver single-tube Lofstrand forearm crutches beside a concrete column and unbranded chrome payphones next to his folded manual wheelchair, two detached metal footrests, and olive duffel bag on the terrazzo floor, while petite five-foot-tall Tammy strides coldly out the rain-streaked glass exit doors pulling her rolling suitcase without looking back.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p002_abandoned_seattle_terminal_rain.jpg)
+
 #### 7:45 AM — Fog Behind a Locked Restroom Door in Pasco
 
 By quarter to eight Saturday morning at the Pasco Intermodal Terminal in eastern Washington—after grinding across the Idaho line through Boise, Nampa, and the bleak predawn high desert with nobody from Virginia standing on the platform to stop us—ninety hours without real sleep and a climbing infection fever from my broken sitting-bone skin had turned the tiled concourse into swimming, cotton-stuffed tunnel vision where I could barely string four words together.
@@ -1358,7 +1380,7 @@ Back in August, Grandpa's cardiologist had quietly warned us his weakened heart 
 
 ![Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg)
 
-#### 1:15 PM — Newly Eighteen at the Checkpoint and the First Question Out of My Mouth
+#### 1:15 PM — Sixty-Six Days Without Our Greeting Hug, My Lost Shirt, and One Massively Earned Embrace
 
 Seven days after Gwen turned eighteen—carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Meridian Airlines tickets backed by Grandpa Walter's Tidewater Maritime Credit Union card—the double doors of Puget Sound General's sixth-floor discharge lounge swung open.
 
@@ -1366,9 +1388,13 @@ Sitting dressed in clean jeans and my heather-navy t-shirt atop a brand-new four
 
 Clicking swiftly across the polished hospital linoleum on her tall matte-charcoal Lofstrand forearm crutches—six-foot-one, eyes shining bright with fierce sisterly joy—came eighteen-year-old Gwen, with five-foot-five Mallory Walsh walking right beside her in a cozy forest-green zip cardigan and thin silver wire-rimmed glasses, carrying a folded fleece travel blanket over one arm.
 
-"Gotcha, shortstop," Gwen gasped, propping both charcoal crutches against the discharge desk to bend down and wrap both long arms around my shoulders in the tightest, safest hug of my entire life.
+Neither Gwen nor I said a word before our arms met.
 
-All two months I had lain on that sixth-floor ward, Gwen and Grandpa Walter had carefully avoided talking about Store Four-Twenty-One over the hospital phone—telling me only to focus one hundred percent on healing my skin so my heart monitor wouldn't spike. The instant Gwen eased back half an inch and I looked straight up into Mallory Walsh's warm, unmistakable blue-gray eyes three thousand miles from Emerald Creek Parkway, that single unanswered question burst straight out of my chest before I could even say hello.
+Propping both charcoal crutches cleanly against the discharge counter, Gwen bent straight down over my wheelchair armrests and opened her arms wide, and I locked both of mine around my little sister's waist and shoulders in the deepest, longest, most aching greeting hug of our entire lives. Ever since we were children, hugging Gwen tightly every single time we greeted each other or said goodbye had been woven straight into my autism like breathing. In two thousand and one I didn't have the vocabulary yet to call someone my safe person—I only knew in my bones that sixty-six brutal days without pressing my forehead beneath Gwen's collarbone—across Pasco, surgical needles, watching the country fracture on a muted hospital wall screen, and singing *Happy Birthday* down a three-thousand-mile copper wire—had left every circuit in my chest starving for the one steady anchor on Earth that quieted the noise inside my head.
+
+"Gotcha, shortstop," Gwen whispered thickly into my hair, holding me tight against her burgundy sweater for a full, unhurried minute without letting go until my whole trembling ribcage finally settled into hers. "Never letting you out of reach again."
+
+All two months I had lain on that sixth-floor ward, Gwen and Grandpa Walter had carefully avoided talking about Store Four-Twenty-One over the hospital phone—telling me only to focus one hundred percent on healing my skin so my heart monitor wouldn't spike. The instant Gwen eased half a step back beside my right wheel with one hand still resting warm on my shoulder and I looked straight up into Mallory Walsh's unmistakable blue-gray eyes three thousand miles from Emerald Creek Parkway, that single unanswered question burst straight out of my chest.
 
 "Mallory—you came all the way out here!" My voice cracked wide open with sudden, desperate hope as both of my hands caught hers. "Did Mr. Halstead put me on medical leave once you called Grandpa's house on Friday?! Please tell me—is there *any* way I can get my job at Blue Tech back?!"
 
@@ -1388,7 +1414,21 @@ Right on my right side, Gwen dropped onto the cushioned visitor chair flush agai
 
 "Let the brave mask go, Nolan—just lean on the two of us," Gwen whispered fiercely against my temple, rocking my shoulders gently while grey Seattle rain drummed against the sixth-floor hospital glass three thousand miles from Virginia. "What Tammy did to you in Pasco wasn't your fault, and losing that blue shirt wasn't your fault either. Mallory and I are holding the line right beside you from here on out. Your broken heart will mend with time—I promise you it will—and we're getting you out of this hospital and all the way home."
 
-"Every single mile of the way," Mallory whispered steadily against my other ear once my ragged breathing slowed, pressing both a crisp letter on Blue Tech letterhead and a white business card into my palm. "Ray Halstead has a five-year-old autistic granddaughter, Nolan—the minute he heard Tammy dragged you to Norfolk, he understood your literal brain didn't connect boarding that bus with getting fired here because you assumed she'd let you call us from a rest stop. Ray couldn't overrule Corporate's computer, so he wrote his own personal phone number on the back of this card and promised that any employer you apply to can call him directly off the clock for a glowing professional reference. And losing Blue Tech also means as of August twenty-fourth, I stopped being your Shift Supervisor. We aren't home in Tidewater yet—we still have your discharge papers, airport checkpoints, and two flights ahead of us—so let's get you out of Seattle and home to your grandfather while he's holding watch for your face."
+"Every single mile of the way," Mallory whispered steadily against my other ear once my ragged breathing slowed, pressing both a crisp letter on Blue Tech letterhead and a white business card into my palm. "Ray Halstead has a five-year-old autistic granddaughter, Nolan—the minute he heard Tammy dragged you to Norfolk, he understood your literal brain didn't connect boarding that bus with getting fired here because you assumed she'd let you call us from a rest stop. Ray couldn't overrule Corporate's computer, so he wrote his own personal phone number on the back of this card and promised that any employer you apply to can call him directly off the clock for a glowing professional reference. And losing Blue Tech also means as of August twenty-fourth, I stopped being your Shift Supervisor."
+
+Wiping my wet cheeks on my wrist, I looked straight across two inches of air into Mallory's honest, freckled face—letting the whole picture sink into my literal brain at once.
+
+For two straight months while skies reopened and my wound closed, Mallory hadn't moved on or forgotten the quiet guy from Computers; she had checked on Grandpa Walter and Gwen off Eden Way North week after week, booked the very first flight Gwen turned eighteen to board, and crossed an entire continent just to bring me back.
+
+"Mallory," I whispered thickly from my wheelchair, reaching both hands slightly toward her green cardigan lapels, "can I hug you right now—just for you?"
+
+Tears shone bright behind Mallory's silver wire-rimmed glasses as the warmest, most relieved smile broke across her face.
+
+"Come here, Nolan," Mallory whispered, leaning right down over my left armrest to wrap both arms all the way around my shoulders while I locked both of mine tightly around her waist and back—burying my cheek against the soft wool of her collar in a long, quiet, massively earned hug that neither of us rushed by a single second. Right beside my right wheel, newly eighteen-year-old Gwen leaned back in the visitor chair watching the two of us with shining green-hazel eyes and the happiest, most wholeheartedly approving grin on Earth.
+
+![Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle, fully dressed twenty-three-year-old Nolan Lennox sits in his manual wheelchair with his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, locked in a deeply emotional, massively earned two-armed hug with Mallory Walsh kneeling warmly beside him while newly eighteen-year-old sister Gwen Lennox sits right beside Nolan's wheel with her matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair, beaming with proud, wholehearted sisterly approval]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_mallory_earned_hug_gwen_approving.jpg#fullwidth)
+
+"Okay, you two," Gwen smiled gently when Mallory finally eased back just enough to lace her fingers warmly over my hand on my wheelchair armrest. "We aren't home in Tidewater yet—we still have Nolan's discharge signatures, post-September-eleventh airport checkpoints, and two flights ahead of us—so let's get my brother out of Seattle while Grandpa Walter's holding watch for his face."
 
 ***
 
