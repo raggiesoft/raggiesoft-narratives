@@ -50,7 +50,7 @@ Zoë's cognitive scheduler maintains five dedicated concurrency threads:
 
 When Fall Semester 2015 begins (`Episode 6, Chapter 1`), Zoë is enrolled simultaneously in **CS 3214 (*Compiler Design & Programming Languages*)** and **ACIS 3115 (*Intermediate Financial Accounting & Corporate Governance*)**.
 
-Her first-week forensic accounting case study examines the December 2001 collapse of Houston-based **Vectron Energy Corp.**—the energy-trading giant whose 1997–2001 television commercials famously dared viewers to ***"Question The Rules"*** while its executives secretly hid billions of dollars in debt inside off-balance-sheet Special Purpose Entities (`SPEs`), wiping out \$70 billion in shareholder value and forcing Congress to pass the **Sarbanes-Oxley Act of 2002 (SOX)**.
+Her first-week forensic accounting case study examines the December 2001 collapse of Houston-based **Vectron Energy Corp.**—the energy-trading giant whose 1997–2001 television commercials famously dared viewers to ***"Question The Rules"*** while its executives secretly hid billions of dollars in debt inside off-balance-sheet Special Purpose Entities (`SPEs`), wiping out $70 billion in shareholder value and forcing Congress to pass the **Sarbanes-Oxley Act of 2002 (SOX)**.
 
 Studying how Vectron exploited imperative spreadsheets where numbers could be silently overwritten without an audit trail, Zoë realizes that she can combine both of her majors into a single capstone creation:
 * **`Fin#` (`Fin-Sharp`):** A domain-specific functional programming language and compiler built on the `.NET` runtime where **every dollar is a conserved quantum state**—making it mathematically impossible for a program to compile if a debit does not have a cryptographically balanced credit.

@@ -500,9 +500,9 @@ Dim strPath As String
 
 strPath = App.Path ' Get the Path the Program is At!
 
-If Right$(App.Path, 1) <> "\" Then
+If Right$(App.Path, 1) <> "" Then
 
-strPath = strPath & "\" ' Add a trailing slash if needed
+strPath = strPath & "" ' Add a trailing slash if needed
 
 End If
 
@@ -541,7 +541,7 @@ Private Declare Function WritePrivateProfileString Lib "KERNEL32" Alias "WritePr
 
 Public Sub WriteINI(wiSection As String, wiKey As String, wiValue As String, wiFile As String)
 
-    WritePrivateProfileString wiSection, wiKey, wiValue, App.Path & "\" & wiFile
+    WritePrivateProfileString wiSection, wiKey, wiValue, App.Path & "" & wiFile
 
 End Sub
 
@@ -555,7 +555,7 @@ Public Function ReadINI(riSection As String, riKey As String, riFile As String, 
 
     Dim INIFile As String
 
-    INIFile = App.Path & "\" & riFile
+    INIFile = App.Path & "" & riFile
 
     If Dir(INIFile) <> "" Then
 
@@ -4571,7 +4571,7 @@ JSON
       "gender": "M",
       "birthDate": "1981-05-02",
       "attributes": {
-        "heightStanding": "5'7\"",
+        "heightStanding": "5'7"",
         "role": "Man of Honor"
       },
       "familyOfOrigin": "miller_core"
@@ -4629,7 +4629,7 @@ JSON
   "lastName": "Miller",
   "gender": "M",
   "birthDate": "1981-05-02",
-  "standingHeight": "5'7\"",
+  "standingHeight": "5'7"",
   "parents": ["david_miller", "linda_miller"],
   "siblings": ["sarah_miller"],
   "attributes": {
@@ -4647,7 +4647,7 @@ JSON
   "gender": "F",
   "birthDate": "1978-05-02",
   "birthPlace": "NPT-HOS",
-  "standingHeight": "6'4\"",
+  "standingHeight": "6'4"",
   "parents": ["david_miller", "linda_miller"],
   "siblings": ["matt_miller"],
   "attributes": {
@@ -4680,7 +4680,7 @@ JSON
   "lastName": "Miller",
   "gender": "M",
   "birthDate": "1951-09-14",
-  "standingHeight": "6'11\"",
+  "standingHeight": "6'11"",
   "spouses": ["linda_miller"],
   "children": ["sarah_miller", "matt_miller"],
   "attributes": {
@@ -4696,7 +4696,7 @@ JSON
   "lastName": "Miller",
   "gender": "F",
   "birthDate": "1953-03-22",
-  "standingHeight": "5'5\"",
+  "standingHeight": "5'5"",
   "spouses": ["david_miller"],
   "children": ["sarah_miller", "matt_miller"],
   "siblings": ["katrina_tbd"],
@@ -5063,7 +5063,7 @@ JSON
   "lastName": "Miller",
   "gender": "M",
   "birthDate": "1981-05-02",
-  "standingHeight": "5'7\"",
+  "standingHeight": "5'7"",
   "parents": ["david_miller", "linda_miller"],
   "siblings": ["sarah_miller"],
   "familyOfOrigin": "miller_david_core",
@@ -5083,7 +5083,7 @@ JSON
   "gender": "F",
   "birthDate": "1978-05-02",
   "birthPlace": "NPT-HOS",
-  "standingHeight": "6'4\"",
+  "standingHeight": "6'4"",
   "parents": ["david_miller", "linda_miller"],
   "siblings": ["matt_miller"],
   "familyOfOrigin": "miller_david_core",
@@ -5102,7 +5102,7 @@ JSON
   "lastName": "Miller",
   "gender": "M",
   "birthDate": "1951-09-14",
-  "standingHeight": "6'11\"",
+  "standingHeight": "6'11"",
   "spouses": ["linda_miller"],
   "children": ["sarah_miller", "matt_miller"],
   "siblings": ["peter_miller"],
@@ -5121,7 +5121,7 @@ JSON
   "lastName": "Miller",
   "gender": "F",
   "birthDate": "1953-03-22",
-  "standingHeight": "5'5\"",
+  "standingHeight": "5'5"",
   "spouses": ["david_miller"],
   "children": ["sarah_miller", "matt_miller"],
   "siblings": ["katrina_brooks"],
@@ -7741,7 +7741,7 @@ if ($jsonDir) {
             
             if ($data !== null) {
                 // Extract the relative path (e.g., "family/chloe_brooks.json" or "locations/hospitals.json")
-                $relativePath = str_replace('\\', '/', substr($file->getPathname(), strlen($jsonDir) + 1));
+                $relativePath = str_replace('\', '/', substr($file->getPathname(), strlen($jsonDir) + 1));
                 
                 // Inject the source path directly into the JSON object so the AI/Swift app knows where it belongs
                 $data['_source_file'] = $relativePath;
@@ -7786,7 +7786,7 @@ if ($mdDir) {
             $content = file_get_contents($file->getPathname());
             
             // Extract the relative path (e.g., "family/chloe-brooks.md" or "events/honey-chicken-incident.md")
-            $relativePath = str_replace('\\', '/', substr($file->getPathname(), strlen($mdDir) + 1));
+            $relativePath = str_replace('\', '/', substr($file->getPathname(), strlen($mdDir) + 1));
             
             // Add the relative folder to the file boundary header
             $masterMarkdown .= "## [FILE: " . $relativePath . "]\n\n";
@@ -7911,7 +7911,7 @@ if ($jsonDir) {
             
             if ($data !== null) {
                 // Extract the relative path
-                $relativePath = str_replace('\\', '/', substr($filePath, strlen($jsonDir) + 1));
+                $relativePath = str_replace('\', '/', substr($filePath, strlen($jsonDir) + 1));
                 
                 // Inject the source path directly into the JSON object
                 $data['_source_file'] = $relativePath;
@@ -7963,7 +7963,7 @@ if ($mdDir) {
             $content = file_get_contents($filePath);
             
             // Extract the relative path 
-            $relativePath = str_replace('\\', '/', substr($filePath, strlen($mdDir) + 1));
+            $relativePath = str_replace('\', '/', substr($filePath, strlen($mdDir) + 1));
             
             // Add the relative folder to the file boundary header
             $masterMarkdown .= "## [FILE: " . $relativePath . "]\n\n";
@@ -8554,7 +8554,7 @@ Here's the updated output:
 
 "birthDate": "1981-05-02",
 
-"standingHeight": "5'7\"",
+"standingHeight": "5'7"",
 
 "parents": [
 
@@ -8610,7 +8610,7 @@ Here's the updated output:
 
 "birthPlace": "NPT-HOS",
 
-"standingHeight": "6'4\"",
+"standingHeight": "6'4"",
 
 "parents": [
 
@@ -8654,7 +8654,7 @@ Here's the updated output:
 
 "birthDate": "1951-09-14",
 
-"standingHeight": "6'11\"",
+"standingHeight": "6'11"",
 
 "spouses": [
 
@@ -8706,7 +8706,7 @@ Here's the updated output:
 
 "birthDate": "1953-03-22",
 
-"standingHeight": "5'5\"",
+"standingHeight": "5'5"",
 
 "spouses": [
 

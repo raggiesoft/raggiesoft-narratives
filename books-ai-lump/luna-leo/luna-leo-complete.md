@@ -1201,9 +1201,9 @@ Mr. Panoff then placed the saxophone case gently on the bench beside Luna. "Figu
 
 The air was crisp and cold in the pre-dawn darkness of a November morning in 1999. The sprawling parking lot of Northwood High School buzzed with the organized chaos that only a marching band preparing for a major trip could generate. Five gleaming charter buses idled, their engines rumbling softly, ready to transport the Northwood High School Soaring Eagle Band – all 200+ members, plus director Mr. Panoff, chaperones, and the essential pit crew support staff – hours away to Stephens City, Virginia, for the final competition of the season at Sherando High School.
 
-Amidst the bustle of students hauling instrument cases and uniform bags, Stella Porter, now 21 and an official chaperone, stood near the door of Bus \#3 with a clipboard. Dressed warmly against the chill, she exuded a calm authority, checking names off her list as students boarded. She was the designated lead chaperone for this bus, responsible for ensuring everyone assigned was present and accounted for.
+Amidst the bustle of students hauling instrument cases and uniform bags, Stella Porter, now 21 and an official chaperone, stood near the door of Bus #3 with a clipboard. Dressed warmly against the chill, she exuded a calm authority, checking names off her list as students boarded. She was the designated lead chaperone for this bus, responsible for ensuring everyone assigned was present and accounted for.
 
-A little buzz went through some nearby students as Luna and Leo approached Bus \#3. Stella had already arranged the accommodation: the twins would share a hotel room with her. While practical – Stella needed to be readily available to assist them with navigating unfamiliar hotel bathrooms and routines like showering and dressing – some murmurs of "unfair" rippled through the gossip mill about a boy and girl sharing, even if they were siblings. Others resorted to low-key teasing about the freshmen needing a chaperone in their room. Luna flushed slightly, but Leo, focused on the logistics, ignored them. They were just excited for their first overnight band trip and relieved to be rooming with Stella, their anchor in unfamiliar situations.  
+A little buzz went through some nearby students as Luna and Leo approached Bus #3. Stella had already arranged the accommodation: the twins would share a hotel room with her. While practical – Stella needed to be readily available to assist them with navigating unfamiliar hotel bathrooms and routines like showering and dressing – some murmurs of "unfair" rippled through the gossip mill about a boy and girl sharing, even if they were siblings. Others resorted to low-key teasing about the freshmen needing a chaperone in their room. Luna flushed slightly, but Leo, focused on the logistics, ignored them. They were just excited for their first overnight band trip and relieved to be rooming with Stella, their anchor in unfamiliar situations.  
 
 Leo expertly maneuvered his wheelchair to the bus's luggage compartment, where designated crew members carefully stowed it according to his instructions. He then used the bus's wheelchair lift to board. Instead of staying in his chair or heading further down the aisle, he paused right near the lift area. Knowing the long ride ahead and mindful of the pressure sore risk even with diligent repositioning, he carefully transferred himself from his wheelchair into the regular bus seat located immediately adjacent to the lift door, finding the padded seat significantly more comfortable for the journey. Luna, having boarded just ahead of him, slid into the seat right beside him, ensuring they were together near the accessible exit.  
 
@@ -1225,7 +1225,7 @@ Raising her voice slightly to be heard over the bus chatter and road noise, Stel
 
 After what felt like an eternity on the road, punctuated by classic rock discoveries and the lingering ghost of Travis's unfortunate contribution, the convoy of five charter buses finally pulled off the interstate and into the gravel parking lot of a small, unassuming roadside motel. The band members stirred, stretching stiff limbs as they began the process of unloading instruments, luggage, and themselves under the glow of the motel's flickering neon sign. Given the sheer size of the band and the motel's small office, the students were instructed to stay with their luggage near the buses while the director and chaperones handled the check-in.
 
-Mr. Panoff headed straight for the small motel office, followed closely by Stella and the other chaperones to begin the check-in process. Outside, as students retrieved their bags and waited, Stella caught Travis Miller's eye amidst the crowd near Bus \#3. "Alright, Travis!" she called out, her voice carrying over the general chatter. "Time to pay the piper! Seventy-five, remember?"
+Mr. Panoff headed straight for the small motel office, followed closely by Stella and the other chaperones to begin the check-in process. Outside, as students retrieved their bags and waited, Stella caught Travis Miller's eye amidst the crowd near Bus #3. "Alright, Travis!" she called out, her voice carrying over the general chatter. "Time to pay the piper! Seventy-five, remember?"
 
 A collective groan and then a wave of snickers went through the students nearby. Travis looked mortified but knew there was no getting out of it. He tossed his bag aside and reluctantly dropped to the gravel near the bus. As he started pumping out push-ups, a crowd quickly gathered.
 
@@ -1277,7 +1277,7 @@ Within minutes, thanks to Stella's focused efficiency and the twins' cooperation
 
 The twenty-minute bus ride from the motel to Sherando High School was a blur of nervous energy and quiet focus. As the buses pulled into the designated parking area, the sounds of distant drumlines and brass warm-ups already filled the air. The energy was palpable.
 
-As students filed off Bus \#3, Stella stood by the door, clipboard in hand one last time, ticking off names to ensure everyone under her charge made it safely from the motel to the competition site. Once accounted for, the organized chaos resumed as students headed towards designated warm-up areas, assisted by the adult Pit Crew members who were already unloading the large percussion instruments and pit equipment from the box truck.
+As students filed off Bus #3, Stella stood by the door, clipboard in hand one last time, ticking off names to ensure everyone under her charge made it safely from the motel to the competition site. Once accounted for, the organized chaos resumed as students headed towards designated warm-up areas, assisted by the adult Pit Crew members who were already unloading the large percussion instruments and pit equipment from the box truck.
 
 Luna gave Leo's shoulder a quick squeeze and a hug. "Good luck!" she whispered, before grabbing her tenor saxophone case. With a determined look, she limped slightly as she headed off to join the sea of saxophone players already gathering on a practice field nearby to warm up with her section.  
 
@@ -2810,7 +2810,7 @@ Stella and the twins looked out their windows to their right. Alongside the mode
 
 Stella smiled at the joke as they finished crossing the Jamestown Bridge. As they traversed Conanicut Island towards the next bridge, Arthur's voice came over the walkie-talkie again. "Stella, check the little compartment under your radio. Before we left Virginia, I tucked something in there for you." Stella reached down and opened the small storage bin. Inside, nestled among a few tissues, was a small, metallic coin.
 
-"Still had a few Newport Bridge tokens left over from the old days," Arthur explained. "Might as well use 'em. It’s \$2 you don’t have to pay. Hand that token to the toll collector when you get there."
+"Still had a few Newport Bridge tokens left over from the old days," Arthur explained. "Might as well use 'em. It’s $2 you don’t have to pay. Hand that token to the toll collector when you get there."
 
 Sure enough, as they approached the toll plaza for the Newport Bridge, Stella slowed the Sent, rolled down her window, and handed the token to the attendant. The gate lifted, and they proceeded onto the iconic green suspension bridge.
 
@@ -2996,7 +2996,7 @@ Stella and the twins looked out their windows to their right. Alongside the mode
 
 Stella smiled at the joke as they finished crossing the Jamestown Bridge. As they traversed Conanicut Island towards the next bridge, Arthur's voice came over the walkie-talkie again. "Stella, check the little compartment under your radio. Before we left Virginia, I tucked something in there for you." Stella reached down and opened the small storage bin. Inside, nestled among a few tissues, was a small, metallic coin.
 
-"Still had a few Newport Bridge tokens left over from the old days," Arthur explained. "Might as well use 'em. It’s \$2 you don’t have to pay. Hand that token to the toll collector when you get there."
+"Still had a few Newport Bridge tokens left over from the old days," Arthur explained. "Might as well use 'em. It’s $2 you don’t have to pay. Hand that token to the toll collector when you get there."
 
 Sure enough, as they approached the toll plaza for the Newport Bridge, Stella slowed the Sent, rolled down her window, and handed the token to the attendant. The gate lifted, and they proceeded onto the iconic green suspension bridge.
 
@@ -3424,11 +3424,11 @@ The clerk, realizing he had a serious buyer, nodded quickly. "We have a cherry w
 
 "Add it," Stella said. "I want 'Luna Porter' burnt right into the wood. And I want a thermal-lined gig bag to carry it in, and your best deluxe cleaning kit. Silk swabs, not cotton."
 
-The clerk typed furiously into his computer. He cleared his throat, looking a bit nervous. "Ma'am... I just need to be clear about the pricing. The 680 lists for three thousand. With the custom case, the engraving service, the gig bag, and the deluxe kit, your subtotal is \$3,400.00."
+The clerk typed furiously into his computer. He cleared his throat, looking a bit nervous. "Ma'am... I just need to be clear about the pricing. The 680 lists for three thousand. With the custom case, the engraving service, the gig bag, and the deluxe kit, your subtotal is $3,400.00."
 
-He tapped a key. "With the 4.5% Virginia tax, the grand total comes to \$3,553.00. We do offer financing plans, but—"
+He tapped a key. "With the 4.5% Virginia tax, the grand total comes to $3,553.00. We do offer financing plans, but—"
 
-"No financing," Stella interrupted, channeling the spirit of Arthur Bennett. She looked at the total on the register screen. \$3,553.00.
+"No financing," Stella interrupted, channeling the spirit of Arthur Bennett. She looked at the total on the register screen. $3,553.00.
 
 "Can you hold it for twenty minutes?" Stella asked, grabbing her purse. "I'm going to the bank next door to get a cashier's check. I don't want to hit my daily debit limit."
 
@@ -3436,7 +3436,7 @@ The clerk stared at her. "Uh... yes. Yes, of course. I'll put it in the back."
 
 "We'll be right back," Stella said.
 
-Not even Twenty Minutes Later, they walked back into the store. Stella handed the clerk a certified cashier's check for \$3,553.00.
+Not even Twenty Minutes Later, they walked back into the store. Stella handed the clerk a certified cashier's check for $3,553.00.
 
 "Paid in full," she said. "Give her the cleaning kit and the bag now. We'll bring the wood case back for the engraving next week."
 
@@ -4091,7 +4091,7 @@ Stella studied her face for a long moment, searching for any hesitation. Finding
 
 #### 12:00 PM — Calculus Tutoring
 
-Olivia arrived, spotting Leo and heading over with her calculus textbook. "Hey Leo! Sorry if I'm a few minutes late, that club meeting ran over. Ready to tackle Problem Set \#7?"
+Olivia arrived, spotting Leo and heading over with her calculus textbook. "Hey Leo! Sorry if I'm a few minutes late, that club meeting ran over. Ready to tackle Problem Set #7?"
 
 Leo, who had Ms. Albright for fifth period and was dreading this assignment, but always found Olivia’s explanations incredibly helpful, grinned in relief as she sat on the edge of a nearby bench, spreading her papers. He typed on his Quantum Communicator XT: READY AS I'LL EVER BE. YOU HAD HER THIRD PERIOD, RIGHT? ANY SURVIVAL TIPS? AND YES, VERY MUCH LOOKING FORWARD TO YOUR MOM'S FAMOUS LASAGNA ON FRIDAY. AND THEN 'CHRONOS SHIFT' ON SATURDAY!
 
@@ -11123,7 +11123,7 @@ Minutes later, after Stella and Luna wrapped Leo in tight goodbye hugs at the th
 
 The tension following the hijacked Sibling Weekend lingered heavily in the small Portsmouth apartment. Communication between Leo and his sisters became even more strained, monitored, or intercepted. Delores, perhaps sensing Leo pulling away emotionally or simply seeking another avenue of control after the failed visit, came to him just days later – only a couple of weeks before Thanksgiving in November 2003 – with a sudden, impulsive idea, presented as an escape or an adventure. She carefully omitted mentioning these specific cross-country plans to her own mother, Clara, likely giving Clara the vague impression they would simply be spending the holiday week locally.
 
-"Leo, I've got a great idea!" Delores announced, her voice full of forced brightness. "Let's go visit my aunt Carol in Kent, Washington – you know, near Seattle – for Thanksgiving! We can stay with her for a bit." Delores painted a picture of a welcoming relative eager for their company. "I looked into it," she continued, steamrolling potential objections, "flying is crazy expensive right now, but we could take the bus! Pathfinder Bus Lines has this deal, like \$99 each way. It's a long ride, like four days, but think of it as an adventure! We could leave early next week, spend Thanksgiving out there, see some sights, and come back."
+"Leo, I've got a great idea!" Delores announced, her voice full of forced brightness. "Let's go visit my aunt Carol in Kent, Washington – you know, near Seattle – for Thanksgiving! We can stay with her for a bit." Delores painted a picture of a welcoming relative eager for their company. "I looked into it," she continued, steamrolling potential objections, "flying is crazy expensive right now, but we could take the bus! Pathfinder Bus Lines has this deal, like $99 each way. It's a long ride, like four days, but think of it as an adventure! We could leave early next week, spend Thanksgiving out there, see some sights, and come back."
 
 She waved away any potential logistical concerns he might have gestured toward. "And don't worry about the bus and your chair – I already called them. You have to call ahead a few days for the wheelchair lifts anyway, so I gave them the route. They said they'll make sure accessible buses are ready for us at all the changes. It's all set." She presented the accessibility arrangement as proof the trip was feasible and planned.
 
@@ -11629,13 +11629,13 @@ Leo could hear the operator talking but couldn't hear the dispatcher's crackled 
 
 Leo felt a wave of profound gratitude. Knowing the connection was being actively facilitated, that someone else knew his destination and need for the lift on the next bus, and having the transfer slip as proof of payment eased a small fraction of his immense anxiety. He was on his way, the path complicated, but with unexpected help materializing. Still, he clung to the hope: get to the airport, find a way to call Stella, fly home. He would *not* endure another cross-country bus trip.
 
-The ride to Kent Station was short, but Leo felt every bump, every turn, his anxiety high. When they pulled into the Kent Station transit center, the operator didn't just let him off; she ensured he knew exactly where to wait for the connecting \#161 bus to the airport, pointing out the correct bay before wishing him well.
+The ride to Kent Station was short, but Leo felt every bump, every turn, his anxiety high. When they pulled into the Kent Station transit center, the operator didn't just let him off; she ensured he knew exactly where to wait for the connecting #161 bus to the airport, pointing out the correct bay before wishing him well.
 
-The bus was mostly empty at this early hour. Leo found a spot near the front. The ride was short, but Leo felt every bump, every turn, his anxiety high. When they pulled into the Kent Station transit center, the operator didn't just let him off. He secured the bus, came back to Leo, and personally pushed his wheelchair off the ramp and directly over to the clearly marked bay for the TAPS \#161 bus, sheltering him slightly with his own large frame against the persistent rain.
+The bus was mostly empty at this early hour. Leo found a spot near the front. The ride was short, but Leo felt every bump, every turn, his anxiety high. When they pulled into the Kent Station transit center, the operator didn't just let him off. He secured the bus, came back to Leo, and personally pushed his wheelchair off the ramp and directly over to the clearly marked bay for the TAPS #161 bus, sheltering him slightly with his own large frame against the persistent rain.
 
-Because the \#161 ran frequently (24/7), one was already waiting, its engine humming. "This one goes straight to the airport," the first operator confirmed, giving the \#161 driver a quick thumbs-up and likely a brief explanation through the window. He then spoke briefly into his radio, likely confirming the passenger transfer or logging the assistance for dispatch. He gave Leo a final nod. "He'll get you there safe. You take care now, son."
+Because the #161 ran frequently (24/7), one was already waiting, its engine humming. "This one goes straight to the airport," the first operator confirmed, giving the #161 driver a quick thumbs-up and likely a brief explanation through the window. He then spoke briefly into his radio, likely confirming the passenger transfer or logging the assistance for dispatch. He gave Leo a final nod. "He'll get you there safe. You take care now, son."
 
-The \#161 operator, a woman with a similarly compassionate expression, gave Leo a warm smile as he maneuvered onto her bus's ramp. "Gotcha, honey. Heading to the airport?" Leo nodded gratefully. "Alright then, come on aboard out of this rain. We'll get you right there."
+The #161 operator, a woman with a similarly compassionate expression, gave Leo a warm smile as he maneuvered onto her bus's ramp. "Gotcha, honey. Heading to the airport?" Leo nodded gratefully. "Alright then, come on aboard out of this rain. We'll get you right there."
 
 The ride to SeaTac Airport felt interminable, but warmer and safer than the desperate journey through the rainy streets. Leo stared out the window as the first grey light of dawn began to reveal the unfamiliar Pacific Northwest landscape, offering little comfort beyond the fact that he was moving towards help. He felt the deep bone-weariness of four days on a bus followed by trauma, all overlaid with the persistent fog of the time difference. He desperately missed Luna, Olivia, and Stella.
 
@@ -11655,7 +11655,7 @@ Carol looked at her niece's face, and she didn't believe a word of it. Her voice
 
 "Now!" Carol's voice was a whip crack. Faced with the granite certainty in her aunt's eyes, Delores scrambled to get dressed. They spent precious minutes getting ready and getting into Carol's car. Instead of searching the neighborhood blindly, Carol drove directly toward the main road, her knuckles white on the steering wheel.
 
-As they turned the corner, the scene unfolded under the hazy streetlights. Leo wasn't just at the bus stop; he was already on the deployed wheelchair lift of a TAPS bus, its destination sign glowing: *\#165 BURIEN*. Carol slammed on the brakes, the car stopping short. They could only watch, frozen, as the lift whirred, slowly and mechanically raising a shivering Leo up to the level of the bus. He disappeared inside, the lift retracted with a hydraulic sigh, and the doors hissed shut. The bus then pulled away from the curb, its red taillights quickly swallowed by the pouring rain.
+As they turned the corner, the scene unfolded under the hazy streetlights. Leo wasn't just at the bus stop; he was already on the deployed wheelchair lift of a TAPS bus, its destination sign glowing: *#165 BURIEN*. Carol slammed on the brakes, the car stopping short. They could only watch, frozen, as the lift whirred, slowly and mechanically raising a shivering Leo up to the level of the bus. He disappeared inside, the lift retracted with a hydraulic sigh, and the doors hissed shut. The bus then pulled away from the curb, its red taillights quickly swallowed by the pouring rain.
 
 Carol knew exactly what was happening. That bus would take him to Kent Station, the main hub where he could get a bus to the airport. He was going home. The boy was trying to get himself home.
 
@@ -12007,7 +12007,7 @@ When he was finally finished, a deep, bone-weary contentment had settled over hi
 
 Olivia cleared the wrappers from their table, then unzipped her carry-on bag and pulled out her bulky laptop. "Let's show your sisters how well you're doing," she said softly.
 
-She booted up the machine. The hard drive whirred to life, bringing up the complex, icon-filled desktop of Quantum OS. Finding a wireless internet connection in an airport was a newly available luxury in 2003, but it was neither fast nor cheap. Olivia opened her web browser, waiting patiently as the terminal's clunky splash page slowly loaded. She pulled her wallet from her purse and audibly groaned at the extortionate \$9.95 price tag for a 24-hour day pass. But as she glanced at Leo’s exhausted, hopeful face, she didn't hesitate. If it meant Leo got to see his sisters, and they got to see he was safe, it was worth every single penny. She typed in her credit card information.
+She booted up the machine. The hard drive whirred to life, bringing up the complex, icon-filled desktop of Quantum OS. Finding a wireless internet connection in an airport was a newly available luxury in 2003, but it was neither fast nor cheap. Olivia opened her web browser, waiting patiently as the terminal's clunky splash page slowly loaded. She pulled her wallet from her purse and audibly groaned at the extortionate $9.95 price tag for a 24-hour day pass. But as she glanced at Leo’s exhausted, hopeful face, she didn't hesitate. If it meant Leo got to see his sisters, and they got to see he was safe, it was worth every single penny. She typed in her credit card information.
 
 After a minute of processing, the screen refreshed. *Connection Established.*
 
@@ -12955,7 +12955,7 @@ Leo took a deep, steadying breath and gave a firm nod. He wheeled himself over t
 
 When he was finished, the quiet hum of the house was punctuated by the loud, satisfying ZZZT-ZZZT-CHUNK of the MagnaByte GraphiPrint as it produced a hard copy of his testimony. He tore the pages from the tractor feed and handed the document to Stella. It was a painful but necessary task.
 
-While they worked, Stella assembled the evidence. She printed the invoice for the original Quantum Communicator XT—proof of its \$7,895.00 value—and the receipt for the \$850.00 emergency Gateway Airlines flight. She carefully placed the receipts Olivia had saved for the new clothes and meals into the folder.
+While they worked, Stella assembled the evidence. She printed the invoice for the original Quantum Communicator XT—proof of its $7,895.00 value—and the receipt for the $850.00 emergency Gateway Airlines flight. She carefully placed the receipts Olivia had saved for the new clothes and meals into the folder.
 
 By the time they finished, the table was covered in a meticulous collection of evidence to support both a civil lawsuit and a criminal complaint: Olivia's witness statement, Leo's harrowing testimony, and a clear paper trail of the financial costs. Stella organized it all into a neat, labeled folder. She was ready. She didn't know if Delores was still in Washington, on a bus back to Virginia, or hiding somewhere else. It didn't matter. She would find her.
 
@@ -14205,7 +14205,7 @@ The judge's gavel came down with a crack that made everyone jump. "That is enoug
 
 Delores, stunned into silence by the force of the judge's anger, sank back into her chair, her face pale.
 
-During her closing argument, Sarah Jenkins first systematically recapped the economic damages, pointing to the mountain of receipts and invoices totaling \$8,745.00. "These are the tangible costs, Your Honor," she stated clearly. "The price of a flight, the cost to replace a vital piece of medical equipment. But they do not account for the true scope of the harm done here."
+During her closing argument, Sarah Jenkins first systematically recapped the economic damages, pointing to the mountain of receipts and invoices totaling $8,745.00. "These are the tangible costs, Your Honor," she stated clearly. "The price of a flight, the cost to replace a vital piece of medical equipment. But they do not account for the true scope of the harm done here."
 
 She then turned her focus to the intangible, her voice resonating with controlled passion. "Your Honor, we are also asking the court to award damages for pain and suffering and intentional infliction of emotional distress. The evidence shows that the defendant's actions were not merely negligent; they were malicious and cruel. She systematically isolated a vulnerable, disabled young man, denied him his medication, destroyed his only means of communication, and abandoned him three thousand miles from home. The terror, the humiliation, and the physical pain he endured cannot be quantified on an invoice, but it is real, it is profound, and it demands justice."
 
@@ -16441,11 +16441,11 @@ It wasn't a utility tunnel. It was a subterranean city street. The corridor was 
 
 The signage was airport-grade:
 
-\$\uparrow\$ ACADEMIC AVENUE (Green Line - Library/Engineering)
+↑ ACADEMIC AVENUE (Green Line - Library/Engineering)
 
-\$\rightarrow\$ ARTS ALLEY (Purple Line - Conservatory)
+→ ARTS ALLEY (Purple Line - Conservatory)
 
-\$\leftarrow\$ THE STAMPEDE (Gold Line - Student Union/Dorms)
+← THE STAMPEDE (Gold Line - Student Union/Dorms)
 
 "Let's check out the Engineering wing," Stella suggested. "See how far it is."
 
@@ -16802,7 +16802,7 @@ Elias looked at her, surprised.
 
 She reached into her bag and slid a thin manila folder across the table.
 
-"It’s a check," Stella said calmly. "Certified funds from Tidewater Federal. \$400,000.00. Today. No zoning. No subdivision. One house. With the trees".
+"It’s a check," Stella said calmly. "Certified funds from Tidewater Federal. $400,000.00. Today. No zoning. No subdivision. One house. With the trees".
 
 She opened the folder. Inside was the single-page architectural rendering.
 
@@ -22512,11 +22512,11 @@ Maya hesitated. She looked at Stella.
 
 "I drove in Ohio," Maya whispered. "Since I was sixteen."
 
-"Okay," Russo said, reaching for a notepad. "If you give me your old license number and your old name, I can link the records. It’ll prove you have two years of clean driving. That will save you about \$800 a year on the premium. Otherwise, you’re rated as a 'New Operator'—same risk category as a sixteen-year-old."
+"Okay," Russo said, reaching for a notepad. "If you give me your old license number and your old name, I can link the records. It’ll prove you have two years of clean driving. That will save you about $800 a year on the premium. Otherwise, you’re rated as a 'New Operator'—same risk category as a sixteen-year-old."
 
 Maya froze. Linking the records meant typing "Sarah Halloway" into the system. It meant connecting the new, clean Maya Porter to the toxic, tracked Sarah Halloway.
 
-Mr. Russo looked at the computer screen. He looked at the "No Record Found" error. He looked at the \$800 surcharge.
+Mr. Russo looked at the computer screen. He looked at the "No Record Found" error. He looked at the $800 surcharge.
 
 "Stella," Russo said, taking off his glasses. "I've been your grandfather's agent for thirty years. I'm trying to save you money here. If this young lady has a license from another state, we can link the records. We can pull her history. It saves you nearly a thousand dollars a year."
 

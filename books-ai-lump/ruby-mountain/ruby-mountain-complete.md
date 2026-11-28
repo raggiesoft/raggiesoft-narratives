@@ -885,7 +885,7 @@ A fifteen-second pause. Johnny could almost feel the sheer, unadulterated terror
 >
 > **q-send [S_FOSTER]:** <sms>Yes. But I need ticket money.</sms>
 >
-> **[SYSTEM ALERT from S_FOSTER]:** <sms>Done. Transferring \$100 to your debit card right now from the Trust. Give me ten seconds... Okay, it's cleared. Johnny, please. If she catches you...</sms>
+> **[SYSTEM ALERT from S_FOSTER]:** <sms>Done. Transferring $100 to your debit card right now from the Trust. Give me ten seconds... Okay, it's cleared. Johnny, please. If she catches you...</sms>
 >
 > **q-send [S_FOSTER]:** <sms>She will not. Tell Amanda to bring the breathing machine. I love you, Sarah. I am coming home.</sms>
 >
@@ -913,7 +913,7 @@ Johnny’s hands danced across his custom keyboard.
 
 "I would like a large hot chocolate, a bacon, egg, and cheese biscuit, and one hashbrown, please," his text-to-speech software projected in its steady, digitized voice.
 
-"You got it. That'll be \$8.45."
+"You got it. That'll be $8.45."
 
 Johnny pulled the Trust-issued debit card from his jacket pocket and handed it up to the counter. As the barista swiped it, Johnny quickly typed his next command.
 
@@ -1281,7 +1281,7 @@ Johnny woke up his laptop screen. He highlighted the entire three-page document 
 
 Before he could hit play, Victoria turned around in her seat. Her fiercely protective gaze softened as she looked at him securely wrapped in Amanda's arms. "Johnny, before we get into this—are you hungry? We have a long drive. Do we need to stop for food?"
 
-Johnny hit a few keys. "No," the digitized voice replied, echoing cleanly through the van's speakers. "I bought breakfast at a coffee shop in Friday Harbor while I waited. I have the receipt for the Trust accounting." He paused, then typed a quick addendum. "Also, the ferry ride was free. Evergreen Marine does not charge fares Eastbound to the mainland. I only spent \$8.45."
+Johnny hit a few keys. "No," the digitized voice replied, echoing cleanly through the van's speakers. "I bought breakfast at a coffee shop in Friday Harbor while I waited. I have the receipt for the Trust accounting." He paused, then typed a quick addendum. "Also, the ferry ride was free. Evergreen Marine does not charge fares Eastbound to the mainland. I only spent $8.45."
 
 A proud, razor-thin smile crossed Victoria's face. Even while executing a desperate, adrenaline-fueled escape, he was still a Vance-Whitaker, flawlessly managing his financial paper trail. She nodded. "Good man. Go ahead."
 
@@ -3974,7 +3974,7 @@ She tilted her head, her eyes locking onto Thorne's with predatory stillness.
 
 Thorne actually stopped breathing for a second. The color completely drained from his face.
 
-"And Elias?" Victoria added softly, twisting the knife. "That \$1.3 billion is just our liquid cash. That does not include the physical assets, the land, or the offshore real estate. So, I suggest you return to Olympia and tell the Finance Committee that The Prospector's Keep is exactly as penniless as its tax returns claim it is."
+"And Elias?" Victoria added softly, twisting the knife. "That $1.3 billion is just our liquid cash. That does not include the physical assets, the land, or the offshore real estate. So, I suggest you return to Olympia and tell the Finance Committee that The Prospector's Keep is exactly as penniless as its tax returns claim it is."
 
 Thorne swallowed hard. The sheer, incomprehensible scale of the wealth he had just threatened crashed down on him. He wasn't dealing with a rich hotel owner; he was dealing with a sovereign economic superpower.
 
@@ -4628,7 +4628,7 @@ Thirteen-year-old Maya nodded, moving toward the heavy walk-in door. She didn't 
 
 "Cheese is out," Maya announced, setting the pans on the counter. "Clock is starting on the Danger Zone."
 
-"I've got the sauce," twelve-year-old Clara chimed in. She grabbed a massive \#10 can of San Marzano crushed tomatoes from the dry rack. Using the heavy industrial can opener bolted to the prep table, she sheared the lid off. She ladled what they needed into a mixing bowl, seasoned it with salt and oregano, and then immediately transferred the remaining tomatoes into a clear Poly-Store Bin.
+"I've got the sauce," twelve-year-old Clara chimed in. She grabbed a massive #10 can of San Marzano crushed tomatoes from the dry rack. Using the heavy industrial can opener bolted to the prep table, she sheared the lid off. She ladled what they needed into a mixing bowl, seasoned it with salt and oregano, and then immediately transferred the remaining tomatoes into a clear Poly-Store Bin.
 
 Before anyone could say a word, Clara pulled a roll of blue painter's tape from the dispenser, ripped off a piece, and slapped it onto the plastic lid. She grabbed an Ink-Well Permanent Marker and wrote in block letters: *CRUSHED TOMS. OPENED 11/01. CLARA.*
 

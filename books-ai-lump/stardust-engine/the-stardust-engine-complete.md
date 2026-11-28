@@ -400,7 +400,7 @@ When the chorus hit the concrete walls of the Progress Street basement, the room
 > *"We are the Stardust Engine!*  
 > *Racing through the night!*  
 > *We're burning on the fuel of a brand new light!"*  
-> *(Cassidy's Vocal Call $\rightarrow$ Vektron Z-1 Synth Leitmotif Response: Ba-da-DA-da-DAAA!)*  
+> *(Cassidy's Vocal Call → Vektron Z-1 Synth Leitmotif Response: Ba-da-DA-da-DAAA!)*  
 > *"We are the Stardust Engine!*  
 > *Yeah, we're taking flight!*  
 > *Turning our future on, shining so bright!"*  
@@ -418,7 +418,7 @@ Cassidy smiled up at him, her eyes shining as her fingers rested proudly on the 
 
 ## Chapter 3: 'Ignition,' The $1.00 Cross-License & The Apex Years (1986–1989)
 
-### Ignition,' The $1.00 Cross-License & The Apex Years (1986–1989)
+### 'Ignition,' The $1.00 Cross-License & The Apex Years (1986–1989)
 
 **Date:** 1986-11-14 at 19:30 America/New_York
 

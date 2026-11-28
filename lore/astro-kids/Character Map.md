@@ -3,9 +3,9 @@
 ---
 
 ------ | ---------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| **Eldest**   | Sarah Lyra Johnson                 | _Sarah_ dropped $\rightarrow$ **Lyra** elevated $\rightarrow$ Added **Carina** $\rightarrow$ **Starling**       | **Lyra Carina Starling**      |
-| **Middle**   | Christopher  (Chris) Orion Johnson | _Christopher_ dropped $\rightarrow$ **Orion** elevated $\rightarrow$ Added **Rigel** $\rightarrow$ **Starling** | **Orion Rigel Starling**      |
-| **Youngest** | Emily Celeste Johnson              | _Emily_ dropped $\rightarrow$ **Celeste** elevated $\rightarrow$ Added **Callisto** $\rightarrow$ **Starling**  | **Celeste Callisto Starling** |
+| **Eldest**   | Sarah Lyra Johnson                 | _Sarah_ dropped → **Lyra** elevated → Added **Carina** → **Starling**       | **Lyra Carina Starling**      |
+| **Middle**   | Christopher  (Chris) Orion Johnson | _Christopher_ dropped → **Orion** elevated → Added **Rigel** → **Starling** | **Orion Rigel Starling**      |
+| **Youngest** | Emily Celeste Johnson              | _Emily_ dropped → **Celeste** elevated → Added **Callisto** → **Starling**  | **Celeste Callisto Starling** |
 
 
 ### 1. Valerie (The Anchor & Protector)

@@ -21,10 +21,10 @@ Whenever travelers step across an active cross-realm threshold from **World A** 
 
 As a direct physical consequence of time pausing in the unoccupied world, **every world holds and restores its own local biological timestamp for each traveler** across both directions of the threshold:
 
-1. **Returning to Earth (`World B` $\rightarrow$ `World A` Snap-Back)**:
+1. **Returning to Earth (`World B` → `World A` Snap-Back)**:
    - Even if travelers spend months, years, or decades living and aging naturally inside **World B**, the moment they step back across the threshold into **World A (Earth)**, their physical bodies immediately and seamlessly **return to the exact biological age and physical timestamp they held at the moment Earth paused** (for example, in *The Uncharted Waystation*, twenty-four-year-old Nolan Lennox, nineteen-year-old Gwen Lennox, and twenty-four-year-old Mallory Walsh step back into October 2002 Norfolk at `24`, `19`, and `24`).
    - Because their Earth biological age matches Earth's calendar to the minute, photo IDs, driver's licenses, high-school or college enrollments (such as Gwen's twelfth-grade senior year at Ghent High School), workplace badges (such as Nolan's `CCHR` Norfolk Campus technician post), and natural Earth lifespans remain **one hundred percent intact**.
-2. **Returning to the Other Realm (`World A` $\rightarrow$ `World B` Symmetric Restoration)**:
+2. **Returning to the Other Realm (`World A` → `World B` Symmetric Restoration)**:
    - Symmetrically, if travelers spend months or years aging on **Earth (`World A`)** while **World B** is paused—or if they previously aged inside **World B** before visiting Earth—stepping back across the threshold into **World B** immediately **restores them to the exact biological age and local state recorded on World B's paused clock**. Neither world's elapsed years ever overwrite or steal years from the other.
 
 ---

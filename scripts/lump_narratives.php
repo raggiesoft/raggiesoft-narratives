@@ -111,15 +111,26 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
     /* Match the opening `--- ... ---` YAML frontmatter block if present. */
     if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
         $frontmatter = $matches[1];
-        /* Extract single-line scalar YAML fields using `/m` (multiline `^` anchor). */
-        if (preg_match('/^title:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $title = trim($m[1], " \t\n\r\0\x0B\"'");
-        if (preg_match('/^date:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $date = trim($m[1], " \t\n\r\0\x0B\"'");
-        if (preg_match('/^stardate:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $stardate = trim($m[1], " \t\n\r\0\x0B\"'");
-        if (preg_match('/^realm_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $realmTime = trim($m[1], " \t\n\r\0\x0B\"'");
-        if (preg_match('/^time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1], " \t\n\r\0\x0B\"'");
+        /* Helper: Extracts a single-line YAML scalar (`key: "value"` or `key: value`) without
+         * truncating on interior escaped quotes (`\"`), and unescapes `\"`, `\'`, `\$`, and `\\`. */
+        $extractScalar = static function (string $fm, string $key): string {
+            if (!preg_match('/^' . preg_quote($key, '/') . ':\s*(.+)$/m', $fm, $m)) {
+                return '';
+            }
+            $val = trim($m[1]);
+            if (strlen($val) >= 2 && (($val[0] === '"' && substr($val, -1) === '"') || ($val[0] === "'" && substr($val, -1) === "'"))) {
+                $val = substr($val, 1, -1);
+            }
+            return trim(str_replace(['\"', "\\'", '\$', '\\\\'], ['"', "'", '$', '\\'], $val));
+        };
+        $title     = $extractScalar($frontmatter, 'title');
+        $date      = $extractScalar($frontmatter, 'date');
+        $stardate  = $extractScalar($frontmatter, 'stardate');
+        $realmTime = $extractScalar($frontmatter, 'realm_time');
+        $time      = $extractScalar($frontmatter, 'time');
         /* Fall back to `start_time:` when `time:` is blank or omitted. */
-        if (empty($time) && preg_match('/^start_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1], " \t\n\r\0\x0B\"'");
-        if (preg_match('/^timezone:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $timezone = trim($m[1], " \t\n\r\0\x0B\"'");
+        if ($time === '') $time = $extractScalar($frontmatter, 'start_time');
+        $timezone  = $extractScalar($frontmatter, 'timezone');
 
         /* MINI STATE-MACHINE PARSER FOR SCALARS, LISTS, & `image_by_path:` MAPS:
          * Scene files can declare either a single image (`image:`), multi-slide YAML lists (`images:` / `image_alts:`),

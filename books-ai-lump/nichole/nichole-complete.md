@@ -911,7 +911,7 @@ Nikki tucked her chin down, entering "Turtle Mode." She squeezed her eyes shut a
 
 Step-drag-push. Step-drag-push.
 
-They passed Bus \#42. Then Bus \#89.
+They passed Bus #42. Then Bus #89.
 
 A red sedan squeezed past them on the left, its mirror missing Patrick’s elbow by inches. The driver honked—a short, angry *blat*.
 
@@ -3330,13 +3330,13 @@ Patrick stopped bouncing his leg. He sat up very straight.
 
 "She is an adult," Patrick interrupted. "Or she will be. And she's smarter than I am."
 
-Ms. Perkins looked at Patrick, then back at the parents. "Mr. and Mrs. Bennett, please understand. If she is on SSI, she is subject to the asset limit. She cannot have more than \$2,000 in her name at any time. She cannot own a home. She cannot have a savings account. A Conservator ensures she stays compliant so she doesn't lose her benefits."
+Ms. Perkins looked at Patrick, then back at the parents. "Mr. and Mrs. Bennett, please understand. If she is on SSI, she is subject to the asset limit. She cannot have more than $2,000 in her name at any time. She cannot own a home. She cannot have a savings account. A Conservator ensures she stays compliant so she doesn't lose her benefits."
 
 Nichole’s mind raced. *Two thousand dollars.*
 
 That was the limit?
 
-She looked at the Apex laptop she wanted to buy for college. It cost \$2,500.
+She looked at the Apex laptop she wanted to buy for college. It cost $2,500.
 
 If she went on SSI, she couldn't save for it. She couldn't save for an apartment. She couldn't save for the Bennett Machine.
 
@@ -3976,7 +3976,7 @@ The toilet had a raised seat with handlebars—an assistive device Tom had insta
 
 "Okay," Patrick said, closing the door.
 
-He didn't lock it—safety rule \#1—but he latched it shut.
+He didn't lock it—safety rule #1—but he latched it shut.
 
 "Transfer first," Patrick narrated, falling back on his checklist. "Then clothes."
 
@@ -4919,9 +4919,9 @@ She reached for her VocaLink. The screen glowed in the afternoon light.
 
 ## The Misfit Tour
 
-### The \ & The Commuter Special
+### The 'Free' Laptop Trap & The Commuter Special
 
-#### The \
+#### The "Free" Laptop Trap
 
 The spreadsheet on the Bennett family’s kitchen table on Delaney Street was color-coded. Ellen had spent the last two weeks calling admissions offices, mapping out a tour schedule that would take them across the state.
 
@@ -7295,7 +7295,7 @@ Ellen sat in the front passenger seat. She didn't need a map. They had done the 
 
 They turned onto Northampton Boulevard and headed straight for the ocean.
 
-The Chesapeake Bay Bridge-Tunnel (CBBT) was the gateway to the north. At \$10.00 for the toll, it was expensive, but it bought them freedom from the interstate gridlock.
+The Chesapeake Bay Bridge-Tunnel (CBBT) was the gateway to the north. At $10.00 for the toll, it was expensive, but it bought them freedom from the interstate gridlock.
 
 As the van rumbled onto the trestle, the sun was just breaking over the Atlantic to their right. The water was calm, a sheet of hammered copper.
 
@@ -8632,7 +8632,7 @@ He clicked back to the VBSPN tab and read the program specifications aloud, his 
 
 He scrolled to the bottom.
 
-> - Program total cost: Adults (all inclusive): \$7,500.
+> - Program total cost: Adults (all inclusive): $7,500.
 
 Patrick winced. "Seven grand. That's... that's a lot."
 
@@ -9929,7 +9929,7 @@ Nichole looked up at her uncle. Her breath hitched. Putney College had looked at
 
 "We'll figure out the money later," Mark said firmly. "I own the house. We're fine. Your only job right now is getting her settled into the new routine, getting her documentation skills up to par, and taking care of your sister. Understood?"
 
-Patrick stared at his uncle. The crushing anxiety of having to fund a \$25,000 industrial elevator evaporated. Mark wasn't just giving them a place to live; he was buying them the time to actually live.
+Patrick stared at his uncle. The crushing anxiety of having to fund a $25,000 industrial elevator evaporated. Mark wasn't just giving them a place to live; he was buying them the time to actually live.
 
 Patrick swallowed the lump in his throat. He nodded. "Understood."
 
@@ -10305,7 +10305,7 @@ He walked down the hall to the Bennett Wing. Inside the mini-apartment, the twin
 
 Patrick was bent over a yellow legal pad, a calculator beside him.
 
-He had heard what Mark said about "no jobs," but Patrick’s brain was wired for risk assessment. He was looking at the flyer for the hydraulic residential elevator. He had divided \$25,000 by \$7.50 an hour. Subtracting taxes, he was trying to calculate how many consecutive overnight shifts at the local grocery store it would take to buy his sister the vertical shaft she deserved. It was a bleak piece of arithmetic.
+He had heard what Mark said about "no jobs," but Patrick’s brain was wired for risk assessment. He was looking at the flyer for the hydraulic residential elevator. He had divided $25,000 by $7.50 an hour. Subtracting taxes, he was trying to calculate how many consecutive overnight shifts at the local grocery store it would take to buy his sister the vertical shaft she deserved. It was a bleak piece of arithmetic.
 
 "Hey, Pat," Mark said, leaning against the doorframe. "What are you working on?"
 
@@ -10920,7 +10920,7 @@ The Director looked at the two of them. He saw the manual wheelchair, the high-t
 
 Patrick handed Nichole back her State ID. She tucked it safely into her lanyard pouch.
 
-Uncle Mark’s \$1-a-year lease agreement hadn't just been a generous gesture; it was the master key. They had started the clock in September. By the time classes started next August, they would be official Rhode Island residents. They would get the in-state rate, and they would never have to sleep in a dorm room.
+Uncle Mark’s $1-a-year lease agreement hadn't just been a generous gesture; it was the master key. They had started the clock in September. By the time classes started next August, they would be official Rhode Island residents. They would get the in-state rate, and they would never have to sleep in a dorm room.
 
 Nichole looked at Patrick.
 
@@ -12087,7 +12087,7 @@ He read the first document. He stopped. He read it again, his glasses sliding do
 
 "What is it?" Ellen asked, putting her hand on his arm.
 
-"We thought she was scraping by on Social Security," Tom said, holding up the passbook for a local savings account. "She wasn't. She was hoarding it. Every birthday check we sent her, every bit of surplus... she saved it. There's \$23,497.61 in here."
+"We thought she was scraping by on Social Security," Tom said, holding up the passbook for a local savings account. "She wasn't. She was hoarding it. Every birthday check we sent her, every bit of surplus... she saved it. There's $23,497.61 in here."
 
 He turned the page to a handwritten note clipped to the book.
 
@@ -12103,9 +12103,9 @@ Patrick stared at the book. Twelve thousand dollars each. That covered books, fe
 
 Patrick looked at the bottom line of his statement.
 
-Total Portfolio Value: \$61,273.75.
+Total Portfolio Value: $61,273.75.
 
-Nichole looked at hers. \$61,273.75.
+Nichole looked at hers. $61,273.75.
 
 The room went silent.
 
@@ -12113,7 +12113,7 @@ They had spent the last six months agonizing over out-of-state tuition, calculat
 
 And the whole time, Grandma Helen had been sitting in her apartment in Newport, quietly building a war chest for a battle she knew was coming.
 
-Combined with the savings account, they each had nearly \$73,000.
+Combined with the savings account, they each had nearly $73,000.
 
 With the Rhode Island in-state tuition rate kicking in next September, this wasn't just "help." This was a full ride. BSU tuition, housing, and the astronomical rent at The Foundry Lofts were all officially covered.
 
@@ -12558,29 +12558,29 @@ Nichole looked at the patch. It was the final piece of armor. *<aac>My. Medic.</
 
 "Okay, the fun part is over," Patrick said, placing the patch on top of his engineering acceptance. He pulled out a thick binder and set it on the table. He looked at his father. "Now we talk logistics. The Foundry Lofts. We need to secure the unit now, before the summer rush. What did the property manager say the rent is for the two-bedroom accessible unit?"
 
-Tom opened his ledger. "You picked a premium location, Pat. Downtown grid, direct underground subway access, secured building. In 2004, that goes for a premium. The rent is \$2,250 a month."
+Tom opened his ledger. "You picked a premium location, Pat. Downtown grid, direct underground subway access, secured building. In 2004, that goes for a premium. The rent is $2,250 a month."
 
 Aunt Carol let out a low whistle. "Ouch. That's Boston prices."
 
-"It is," Tom agreed. "But look at the offset. If Patrick wasn't doing the nursing program, the university might insist we hire a certified Home Health Aide to minimize their liability. That would cost us fifty thousand dollars a year. We are spending \$27,000 on rent to save \$50,000 on care. The ROI is positive."
+"It is," Tom agreed. "But look at the offset. If Patrick wasn't doing the nursing program, the university might insist we hire a certified Home Health Aide to minimize their liability. That would cost us fifty thousand dollars a year. We are spending $27,000 on rent to save $50,000 on care. The ROI is positive."
 
 He flipped to a page highlighted in yellow.
 
 "Which brings us to the IRS tax code."
 
-"We have \$122,000 sitting in Grandma's 529 College Savings Plans," Tom explained. "But under the law, those funds are locked. We cannot withdraw a single penny for off-campus housing until you two are officially enrolled at least half-time. That doesn't happen until you register for classes in August."
+"We have $122,000 sitting in Grandma's 529 College Savings Plans," Tom explained. "But under the law, those funds are locked. We cannot withdraw a single penny for off-campus housing until you two are officially enrolled at least half-time. That doesn't happen until you register for classes in August."
 
 "So we can't use the 529 money to sign the lease today," Patrick realized, his engineering brain seeing the gap in the bridge. "If we wait until August, the accessible unit will be gone."
 
 "Exactly," Tom smiled. "Which is why your Grandmother Helen was a genius. She didn't just leave you a college fund. She left you a bridge fund."
 
-Tom pulled out the passbook for the separate, traditional cash savings account Helen had left them, opening it to the final stamped balance of \$23,497.61.
+Tom pulled out the passbook for the separate, traditional cash savings account Helen had left them, opening it to the final stamped balance of $23,497.61.
 
-"The landlord at The Foundry requires a standard security deposit of one month's rent, plus the first month up front," Tom calculated, tapping his calculator. "That's \$4,500 just to get the keys. But to lock it down against other students, we need leverage."
+"The landlord at The Foundry requires a standard security deposit of one month's rent, plus the first month up front," Tom calculated, tapping his calculator. "That's $4,500 just to get the keys. But to lock it down against other students, we need leverage."
 
 "We prepay," Patrick said.
 
-"We prepay," Tom nodded. "We walk into that leasing office, and we drop \$22,500 on the table. We pay the security deposit and the first nine months of rent in absolute cash. It locks the apartment down instantly, proves you are premium tenants, and covers your housing all the way through next May."
+"We prepay," Tom nodded. "We walk into that leasing office, and we drop $22,500 on the table. We pay the security deposit and the first nine months of rent in absolute cash. It locks the apartment down instantly, proves you are premium tenants, and covers your housing all the way through next May."
 
 Nichole looked at the passbook on the table.
 
@@ -12680,13 +12680,13 @@ While the twins filled out the paperwork, Tom and Mark took the elevator back do
 
 Ten minutes later, they returned. Tom placed a certified cashier's check on Mr. Caldwell's desk.
 
-The check was made out for exactly \$23,397.61 (Grandma Helen's savings, minus the \$100 application fees).
+The check was made out for exactly $23,397.61 (Grandma Helen's savings, minus the $100 application fees).
 
 Mr. Caldwell looked at the check. He looked at Tom.
 
 "This is... substantial," Mr. Caldwell said.
 
-"The rent is \$2,250 a month," Tom said in his best accountant voice. "That check covers the required security deposit of \$2,250, the first month's rent of \$2,250, and prepays their rent for the next eight and a half months. They are paid in full until next May."
+"The rent is $2,250 a month," Tom said in his best accountant voice. "That check covers the required security deposit of $2,250, the first month's rent of $2,250, and prepays their rent for the next eight and a half months. They are paid in full until next May."
 
 Mr. Caldwell didn't even run the credit check. Cash of that magnitude erased all doubts.
 
@@ -16465,11 +16465,11 @@ Nichole rolled her chair closer. She watched him type into the search bar: Profe
 
 "License isn't enough," Patrick muttered, clicking on a provider link. "A license gives me the right to practice. Insurance gives me the protection to practice."
 
-He pulled up a quote screen for a major carrier and filled in his professional profile: Licensed Practical Nurse, practicing in the State of Rhode Island, self-employed in private duty care. At the bottom of the page, he paused over the two coverage tiers—Option A offering basic limits of \$1 million per occurrence and \$3 million aggregate, and Option B offering enhanced limits of \$2 million and \$4 million.
+He pulled up a quote screen for a major carrier and filled in his professional profile: Licensed Practical Nurse, practicing in the State of Rhode Island, self-employed in private duty care. At the bottom of the page, he paused over the two coverage tiers—Option A offering basic limits of $1 million per occurrence and $3 million aggregate, and Option B offering enhanced limits of $2 million and $4 million.
 
 He didn't hesitate. He clicked Option B.
 
-"Why?" Nichole typed, looking at the premium cost. "\$109.00 / Year."
+"Why?" Nichole typed, looking at the premium cost. "$109.00 / Year."
 
 "Because of the word 'Liability'," Patrick said, swiveling to face her. "Remember Putney? Remember Roosevelt? Their favorite weapon is claiming that my care is 'unsafe' or a 'risk.'"
 
@@ -16489,7 +16489,7 @@ POLICY STATUS: ACTIVE.
 
 Patrick hit Print.
 
-A moment later, a document slid out. It was a heavy, official-looking  CERTIFICATE OF INSURANCE. It listed Patrick Bennett, LPN as the insured, with a coverage limit of \$4,000,000.
+A moment later, a document slid out. It was a heavy, official-looking  CERTIFICATE OF INSURANCE. It listed Patrick Bennett, LPN as the insured, with a coverage limit of $4,000,000.
 
 He picked it up. He punched three holes in it.
 
@@ -17320,9 +17320,9 @@ But not tonight. Tonight, the Metro was forbidden. The vibration, the gap betwee
 
 He pushed her through the doors and into the concrete echo of the parking garage, aiming for the van.
 
-### Part 2: The \ & The Night Shift
+### Part 2: The 'Stiff Leg' Transfer & The Night Shift
 
-#### The \
+#### The "Stiff Leg" Transfer
 
 The drive from the hospital had been tense. The wipers on the van were slapping away a mix of rain and heavy, wet snow. The temperature was dropping, and the roads were transitioning from "wet" to "glazed."
 
@@ -18363,7 +18363,7 @@ This project wasn't just homework. The Bennett Haptic Interface—the BHI—beca
 
 ## Graduation
 
-### The Protocol Negotiation & The \
+### The Protocol Negotiation & The 'Cool Suit' Modification
 
 #### The Protocol Negotiation
 
@@ -18428,7 +18428,7 @@ Patrick smiled. It was the smile of a man who had spent four years in a lab.
 
 ***
 
-#### The \
+#### The "Cool Suit" Modification
 
 Outside, in the Bull Ring, the temperature was a sweltering 88°F with 90% humidity. The Narragansett Bay breeze was dead calm. Parents in the stands were fanning themselves with programs. The band had just started the endless loop of *Pomp and Circumstance*.
 
@@ -18646,7 +18646,7 @@ He walked over to Nichole. He checked her posture. He checked the BHI wristband 
 
 Nichole typed.
 
-> GOOD DAY WE MADE \$500
+> GOOD DAY WE MADE $500
 
 "And nobody told us what to do," Patrick added.
 
@@ -18736,7 +18736,7 @@ She tapped her screen. WE. NEED. A. RANCH.
 
 The papers were spread out on the island. The Deed: West Main Road (Inherited, Mortgage Free). The Lease: The Foundry Lofts (Renewing in June).
 
-"The rent is going up again," Patrick noted, looking at the notice. "\$4,500 a month." He looked at the deed to the Portsmouth house. "Taxes on the Fortress are \$6,000 a *year*."
+"The rent is going up again," Patrick noted, looking at the notice. "$4,500 a month." He looked at the deed to the Portsmouth house. "Taxes on the Fortress are $6,000 a *year*."
 
 Financially, it was a no-brainer. But emotionally, it was heavy. Moving back to Portsmouth meant admitting that the adventure was over. It meant leaving the center of the world and retreating to the edge.
 

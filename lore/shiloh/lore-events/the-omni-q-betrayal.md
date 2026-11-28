@@ -21,7 +21,7 @@ core_conflict: "Neurotypical ignorance vs. Absolute familial protection and disa
 catalyst: "A transparent message regarding medical accommodations for a movie date triggers a toxic, ableist explosion."
 ai_prompt_hooks:
   - "Focus on the technological difference between transient messaging and permanent chat logs."
-  - "Highlight the immense physical contrast between Sarah (6'4\") and Courtney (5'3\")."
+  - Highlight the immense physical contrast between Sarah (6'4") and Courtney (5'3").
   - "Emphasize Matt's internal realization that his cousins would verbally destroy Courtney if they were present."
   - "Portray the activation of the joint-and-several guardianship not just as paperwork, but as a weapon of protection."
 status: canonical

@@ -1108,7 +1108,7 @@ Erika reached out and tapped the heavy, mechanical keyboard. The screen shifted,
 
 "No," Erika said, her voice tightening with disbelief. "It's *Urban Metropolis Builder*. The city just ran out of water."
 
-Victor froze. He stared at the dual-linked Vertex-Forge graphics array visible through the tower's side panel, then back at the \$8,000 military-grade monitor. He did the math in his head.
+Victor froze. He stared at the dual-linked Vertex-Forge graphics array visible through the tower's side panel, then back at the $8,000 military-grade monitor. He did the math in his head.
 
 "This is a custom-built gaming rig," Victor said, his voice dropping an octave into a dangerous, icy calm. "He used a restricted, black-budget government defense grant to build a supercomputer so he could play a city simulator."
 
@@ -3232,7 +3232,7 @@ Richard Lawson walked into the ground-floor charting station with the heavy, con
 
 He sat in the guest chair, his eyes immediately dropping to the printed compensation contract Amanda had slid across the desk.
 
-Richard stared at the paper for a long, silent moment. He read the numbers twice. "\$100 an hour," he read aloud, his voice entirely losing its practiced edge. "Paid for twelve hours, but the physical shift is only eight? And you’re fully funding professional malpractice insurance?"
+Richard stared at the paper for a long, silent moment. He read the numbers twice. "$100 an hour," he read aloud, his voice entirely losing its practiced edge. "Paid for twelve hours, but the physical shift is only eight? And you’re fully funding professional malpractice insurance?"
 
 "That is correct, Mr. Lawson," Amanda stated calmly, her hands folded over her legal pad. "My uncle is fully funding the PLLC. We are buying peak clinical alertness and absolute loyalty. In exchange, the medical standards in this house are zero-tolerance."
 
@@ -3258,14 +3258,14 @@ Amanda reached across the desk. She didn't look angry. She looked entirely, clin
 
 Richard's patronizing smile vanished. "Excuse me? You're throwing away a fifteen-year trauma vet because of a title dispute?"
 
-"I am denying your application because you lack the humility required to care for my siblings," Amanda stated, picking up her red stamp. Clack. "The interview is over. The \$100-an-hour contract is off the table. Security will escort you back to your vehicle."
+"I am denying your application because you lack the humility required to care for my siblings," Amanda stated, picking up her red stamp. Clack. "The interview is over. The $100-an-hour contract is off the table. Security will escort you back to your vehicle."
 
 Richard opened his mouth to argue, realized she possessed the sole authority over the most lucrative nursing contract he had ever seen, and clamped his jaw shut. He stood up, his face flushed with anger and embarrassment, and marched out of the office.
 
 
 Amanda aired out the charting station for ten minutes before the intercom buzzed again, clearing the way for Susan Gable.
 
-Susan sat across the desk, her posture eager. She had already agreed to the chain of command without batting an eye. She had no problem reporting to an LPN, and she had practically salivated over the \$100-an-hour, 8-hour shift structure.
+Susan sat across the desk, her posture eager. She had already agreed to the chain of command without batting an eye. She had no problem reporting to an LPN, and she had practically salivated over the $100-an-hour, 8-hour shift structure.
 
 "I am perfectly comfortable executing the orders from Fairfax and submitting my shift reports directly to you, Miss Wilcox," Susan promised brightly.
 
@@ -3298,7 +3298,7 @@ Amanda slid Susan's resume into the Rejected folder.
 
 By 10:30 AM, Amanda had aired out the charting station and was opening the third file of the morning. She desperately needed a win.
 
-David Keller looked incredible on paper. Thirty-four years old. Ten years of acute neuro-rehabilitation experience at a top-tier facility in Maryland. The executive search firm had flagged his application with a sticky note that read: Highly recommended. Spotless background check. Top 1% of candidate pool. When Keller walked into the room, he matched the resume perfectly. He was tall, impeccably groomed in high-end navy scrubs, and carried himself with the quiet, competent confidence of an ICU veteran. He sat across from Amanda, reviewed the \$100-an-hour compensation sheet, and gave a respectful nod.
+David Keller looked incredible on paper. Thirty-four years old. Ten years of acute neuro-rehabilitation experience at a top-tier facility in Maryland. The executive search firm had flagged his application with a sticky note that read: Highly recommended. Spotless background check. Top 1% of candidate pool. When Keller walked into the room, he matched the resume perfectly. He was tall, impeccably groomed in high-end navy scrubs, and carried himself with the quiet, competent confidence of an ICU veteran. He sat across from Amanda, reviewed the $100-an-hour compensation sheet, and gave a respectful nod.
 
 "The compensation is unprecedented, Miss Wilcox, but I understand why your uncle is offering it," Keller said smoothly. "You want absolute exclusivity and peak clinical alertness. I also have no problem reporting to an LPN. In a high-acuity home setting, having a dedicated family Care Coordinator prevents systemic communication errors. It's a smart structure."
 
@@ -3341,7 +3341,7 @@ Amanda didn't even have time to let her heart rate fully return to normal before
 
 Brenda Hayes was forty years old, with eight years of dedicated experience in spinal cord injury (SCI) units. Like Keller, her background check was flawless. Glowing recommendations from former nursing directors highlighted her dedication and bedside manner.
 
-When Brenda walked into the charting station, she radiated a warm, maternal energy. She reviewed the \$100-an-hour W-2 contract, smiled warmly, and immediately agreed to the chain of command and the 8-hour shift structure.
+When Brenda walked into the charting station, she radiated a warm, maternal energy. She reviewed the $100-an-hour W-2 contract, smiled warmly, and immediately agreed to the chain of command and the 8-hour shift structure.
 
 Hoping the horror show of David Keller was just a statistical anomaly, Amanda started the clinical review again, carefully outlining the devastating combination of post-heatstroke dysautonomia and the below-the-knee paralysis.
 
@@ -3388,7 +3388,7 @@ Amanda opened the fifth manila folder. Benjamin Torres walked into the charting 
 
 He sat down and carefully reviewed the unprecedented compensation sheet.
 
-"\$100 an hour, an eight-hour physical shift paid for twelve, and fully funded malpractice insurance," Benjamin read aloud, his voice calm but laced with genuine professional respect. He looked up at Amanda. "Your uncle isn't just funding a care team, Miss Wilcox. He’s engineering a zero-burnout environment. He is buying our absolute, uncompromised alertness."
+"$100 an hour, an eight-hour physical shift paid for twelve, and fully funded malpractice insurance," Benjamin read aloud, his voice calm but laced with genuine professional respect. He looked up at Amanda. "Your uncle isn't just funding a care team, Miss Wilcox. He’s engineering a zero-burnout environment. He is buying our absolute, uncompromised alertness."
 
 Amanda’s shoulders dropped a fraction of an inch. He actually understood the logistics behind the money. But she wasn't ready to let her guard down yet. She had to run him through the gauntlet.
 
@@ -3437,7 +3437,7 @@ By 2:30 PM, Amanda was running on sheer adrenaline and lukewarm coffee. She pull
 
 Valerie Higgins walked into the charting station. She was forty-two, dressed in a muted gray scrub set, with her hair pulled back into a neat, professional bun. Her resume boasted ten years of high-acuity home infusion therapy and neuro-rehabilitation. The executive search firm had rated her as one of their top prospects.
 
-From the moment she sat down, Valerie seemed like a breath of fresh air. She reviewed the unprecedented \$100-an-hour, 8-hour shift structure, and the fully funded malpractice insurance with a calm, appreciative nod.
+From the moment she sat down, Valerie seemed like a breath of fresh air. She reviewed the unprecedented $100-an-hour, 8-hour shift structure, and the fully funded malpractice insurance with a calm, appreciative nod.
 
 "I have zero issues reporting to an LPN, Miss Wilcox," Valerie said, her voice smooth and measured. "The letters on a badge don't dictate the flow of a home. You are the Care Coordinator. I execute the orders, you review the charts. It's the safest way to prevent communication breakdowns."
 
@@ -3567,7 +3567,7 @@ She picked up her phone, found Benjamin’s cell number, and dialed.
 
 Over the next fourteen days, Amanda’s ground-floor charting station became a revolving door of the East Coast's elite medical talent. Using the unshakeable standard Benjamin Torres had set, Amanda ruthlessly filtered the candidates sent by the executive search firm.
 
-If a nurse hesitated at the \$100-an-hour, 8-hour shift structure, they were cut. If a CNA questioned the strict modesty protocols for Drake and Ashleigh's below-the-knee paralysis, they were shown the door. If a therapist raised a single, judgmental eyebrow at the triplets' neurodivergent need for deep pressure therapy, Amanda had security escort them off the Great Falls estate.
+If a nurse hesitated at the $100-an-hour, 8-hour shift structure, they were cut. If a CNA questioned the strict modesty protocols for Drake and Ashleigh's below-the-knee paralysis, they were shown the door. If a therapist raised a single, judgmental eyebrow at the triplets' neurodivergent need for deep pressure therapy, Amanda had security escort them off the Great Falls estate.
 
 By the end of the second week, the roster was complete.
 
@@ -3579,7 +3579,7 @@ Amanda hired two hyper-vigilant Cardiac ICU veterans for the night shifts. They 
 
 ### Part 2: The Muscle
 
-Amanda hired a rotation of highly experienced Certified Nursing Assistants. Paid the exact same \$100-an-hour flat rate as the RNs, these men and women were built like linebackers but possessed the gentlest hands in the industry. They treated Drake and Ashleigh with unparalleled reverence, acting as the physical anchors during the dangerous, highly coordinated pivot transfers to the titanium standing frames.
+Amanda hired a rotation of highly experienced Certified Nursing Assistants. Paid the exact same $100-an-hour flat rate as the RNs, these men and women were built like linebackers but possessed the gentlest hands in the industry. They treated Drake and Ashleigh with unparalleled reverence, acting as the physical anchors during the dangerous, highly coordinated pivot transfers to the titanium standing frames.
 
 ### Part 3: The Rebuilders
 

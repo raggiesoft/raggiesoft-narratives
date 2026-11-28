@@ -280,14 +280,14 @@ The Crystal Core (The Elevators)
 The Perimeter Towers ("The Locals")
 	•	Location: Four massive glass shafts located at the four corners of the Grand Concourse (Northwest, Northeast, Southwest, Southeast).
 	•	Service: All Levels (1 through 5).
-	•	Stops: The Deep $\to$ Retail $\to$ Concourse $\to$ Mezzanine $\to$ Sky Deck.
+	•	Stops: The Deep → Retail → Concourse → Mezzanine → Sky Deck.
 	•	Design: unlike the cylindrical Crystal Core, these are rectangular, panoramic glass cabs that run along the exterior walls of the atrium.
 	•	Function: These are the workhorses. They handle:
 	•	Shoppers going to the Retail Deck (Level 2).
 	•	Staff going to the Mezzanine Offices (Level 4).
 	•	Travelers transferring from the Bus Wing (Level 3) to the Metro (Level 1).
 The Narrative Distinction
-	•	Crystal Core: The "Express." (Level 1 $\leftrightarrow$ Level 5). Fast, direct, commuter-focused.
+	•	Crystal Core: The "Express." (Level 1 ↔ Level 5). Fast, direct, commuter-focused.
 	•	Perimeter Towers: The "Local." Stops everywhere. Slower, but offers views of the retail and bus levels that the express skips.
 Audio Script: The Elevator Logic
 The station announcements actively sort people to prevent bottlenecks.
@@ -528,7 +528,7 @@ Official Name: BTA Route 99 (Regalis Park Shuttle).
 Role: Service shuttle for King's College staff.
 1. The "Invisible" Policy
 King’s College bans standard public transit buses from its grounds to avoid "visual clutter."
-	•	The Route: Starts at Regalis Park Station (Bottom of the hill) $\to$ Terminates at the Service Gate (Rear Entrance by the steam plant).
+	•	The Route: Starts at Regalis Park Station (Bottom of the hill) → Terminates at the Service Gate (Rear Entrance by the steam plant).
 	•	The Experience: Staff are dropped off at a bleak turnaround loop next to the dumpsters. There is no shelter, bench, or digital sign—just a rusted pole.
 2. The Schedule
 	•	Frequency: Once every 60 minutes.
@@ -547,7 +547,7 @@ The Bus Bridge (US-1 Corridor)
 Because there is no train, OSTA operates a fragile bus corridor to bridge the gap.
 	•	Route 14 (The "Braxton Express"): The only direct link to Providence.
 	•	Frequency: Every 2 Hours.
-	•	Route: Providence $\to$ Local Stops to Border $\to$ Non-Stop Express to Braxton Central.
+	•	Route: Providence → Local Stops to Border → Non-Stop Express to Braxton Central.
 	•	Route 12 (The Newport Run): Runs every 2 hours, offset with Route 14 to create an hourly pulse along US-1.
 	•	The Transfer Point: The Split (US-1 / RI-138 Park & Ride). This is the border checkpoint where Route 12 peels off to Newport and BTA suburban buses meet the OSTA system.
 
@@ -580,7 +580,7 @@ The Bus Bridge (US-1 Corridor)
 Because there is no train, OSTA operates a fragile bus corridor to bridge the gap.
 	•	Route 14 (The "Braxton Express"): The only direct link to Providence.
 	•	Frequency: Every 2 Hours.
-	•	Route: Providence $\to$ Local Stops to Border $\to$ Non-Stop Express to Braxton Central.
+	•	Route: Providence → Local Stops to Border → Non-Stop Express to Braxton Central.
 	•	Route 12 (The Newport Run): Runs every 2 hours, offset with Route 14 to create an hourly pulse along US-1.
 	•	The Transfer Point: The Split (US-1 / RI-138 Park & Ride). This is the border checkpoint where Route 12 peels off to Newport and BTA suburban buses meet the OSTA system.
 
@@ -605,7 +605,7 @@ Lore Bible Entry: v1.0
 1. Agency Overview
 	•	Real-World Equivalent: Amtrak.
 	•	Role: The federally chartered corporation that operates intercity passenger rail across the United States.
-	•	Regional Context: In the Northeast Corridor (NEC), ARTS operates the high-speed "Spine" connecting the major distinct metropolises: Washington D.C. $\rightarrow$ New York $\rightarrow$ Braxton $\rightarrow$ Providence $\rightarrow$ Boston.
+	•	Regional Context: In the Northeast Corridor (NEC), ARTS operates the high-speed "Spine" connecting the major distinct metropolises: Washington D.C. → New York → Braxton → Providence → Boston.
 	•	The Geography:
 	•	Braxton, RI is a major Tier 1 metropolis (comparable to Boston or Chicago), distinct from and larger than Providence.
 	•	BCI Airport (Braxton Central International) serves as the primary international overflow hub for New England, handling heavy jets that cannot slot into Boston Logan. This makes the rail connection to the airport critical for the entire Eastern Seaboard.
@@ -613,14 +613,14 @@ Lore Bible Entry: v1.0
 2. Service Tier 1: "The Patriot"
 	•	Real-World Equivalent: Northeast Regional.
 	•	Role: The heavy-haul workhorse. It connects the Bennett family's past (Virginia) with their future (Braxton/Boston).
-	•	Route: Norfolk/Newport News, VA $\rightarrow$ Washington D.C. $\rightarrow$ New York City $\rightarrow$ Braxton Metro Area $\rightarrow$ Providence $\rightarrow$ Boston (South Station).
+	•	Route: Norfolk/Newport News, VA → Washington D.C. → New York City → Braxton Metro Area → Providence → Boston (South Station).
 	•	Narrative Function:
 	•	The Umbilical Cord: This train physically links the Fortress in Portsmouth (via the Iron Point stop) to their childhood home in Virginia.
 	•	The Commuter Hack: While it is an intercity train, Patrick and Nichole use it as a "Super-Express" subway within city limits thanks to the BTA Overlay.
 The "BTA Overlay" Zone (The Free Ride)
 	•	The Rule: Through a federal grant and shared-track agreement, holders of a valid BTA LinkPass (including the BSU Bull Pass) may ride The Patriot in Coach Class at no additional cost strictly between the stations of Iron Point and Regalis Park.
 	•	The Trap: If a student stays on the train past Regalis Park (heading North to Kingston/Providence) or past Iron Point (heading South to Westerly), they become a federal passenger and are charged the full ARTS fare (approx. $30+). Conductors sweep the train at the zone borders.
-Station List (South $\rightarrow$ North within RI)
+Station List (South → North within RI)
 	•	Westerly, RI (Outside Zone / Full Fare).
 	•	Iron Point (BTA Zone Start): Serves the "South Shore" suburbs and the Bennett Fortress via the BTA South Shore Line connection.
 	•	BCI Airport: The International Hub.
@@ -640,7 +640,7 @@ Station List (South $\rightarrow$ North within RI)
 	•	Fare Rule: Strictly No Cross-Honor. BTA Passes are NOT accepted. There is no Coach Class; only Business and First.
 The Stop Schedule (The Bypass)
 	•	The Velocity bypasses the local clutter to connect only the massive economic hubs.
-	•	Stops: New York $\rightarrow$ New Haven $\rightarrow$ Braxton Central Terminal $\rightarrow$ Providence $\rightarrow$ Boston.
+	•	Stops: New York → New Haven → Braxton Central Terminal → Providence → Boston.
 	•	The Visual: When Patrick and Nichole are waiting on the Sky Deck at Narragansett Esplanade, The Velocity blasts past them at 100 MPH without slowing down. It is a physical reminder that the "Elite" world (like King's College students heading to Boston for the weekend) literally flies over the heads of the "Public" university students.
 
 4. Key Infrastructure: BCI Airport Station
@@ -650,9 +650,9 @@ The Stop Schedule (The Bypass)
 	•	Bennett Usage: Patrick and Nichole use this station not to fly, but as a high-speed transfer point between the "South Shore" suburban rail and "The Patriot" express.
 
 5. Summary for "Copyright & Trademark List"
-	•	Real Agency: Amtrak $\rightarrow$ ARTS (American Rail Transit Service).
-	•	Real Service: Northeast Regional $\rightarrow$ The Patriot (The Local Intercity; BTA Fares accepted in Zone).
-	•	Real Service: Acela $\rightarrow$ The Velocity (High-Speed Business; No BTA Fares).
+	•	Real Agency: Amtrak → ARTS (American Rail Transit Service).
+	•	Real Service: Northeast Regional → The Patriot (The Local Intercity; BTA Fares accepted in Zone).
+	•	Real Service: Acela → The Velocity (High-Speed Business; No BTA Fares).
 	•	Key Geography: Braxton is a Tier 1 City. BCI is an International Gateway.
 
 Transit Profile: Interstate 895 (The Newport Expressway)

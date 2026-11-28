@@ -360,10 +360,10 @@ foreach ($dirs as $novelDir) {
      * (`# Era` -> `## Chapter` -> `### Part`).
      * ------------------------------------------------------------------------ */
 
-    /* Deliverable 1: Illustrated EPUB */
+    /* Deliverable 1: Illustrated EPUB (`-f markdown-tex_math_dollars` prevents unescaped `$` dollar amounts in prose from ever triggering LaTeX math mode!) */
     echo "  Generating Illustrated EPUB ({$slug}.epub)...\n";
     $epubCmd = sprintf(
-        'pandoc %s -o %s --toc --toc-depth=3',
+        'pandoc -f markdown-tex_math_dollars %s -o %s --toc --toc-depth=3',
         escapeshellarg($tmpMd),
         escapeshellarg($epubFile)
     );
@@ -376,7 +376,7 @@ foreach ($dirs as $novelDir) {
      * if `weasyprint` isn't installed, shell `||` falls back to Pandoc's default PDF engine). */
     echo "  Generating Illustrated PDF ({$slug}.pdf)...\n";
     $pdfCmd = sprintf(
-        'pandoc %s -o %s --toc --toc-depth=3 --pdf-engine=weasyprint 2>/dev/null || pandoc %s -o %s --toc --toc-depth=3',
+        'pandoc -f markdown-tex_math_dollars %s -o %s --toc --toc-depth=3 --pdf-engine=weasyprint 2>/dev/null || pandoc -f markdown-tex_math_dollars %s -o %s --toc --toc-depth=3',
         escapeshellarg($tmpMd),
         escapeshellarg($pdfFile),
         escapeshellarg($tmpMd),
@@ -390,7 +390,7 @@ foreach ($dirs as $novelDir) {
     /* Deliverable 3: Text-Only EPUB (No Images) */
     echo "  Generating Text-Only EPUB ({$slug}-text.epub)...\n";
     $textEpubCmd = sprintf(
-        'pandoc %s -o %s --toc --toc-depth=3',
+        'pandoc -f markdown-tex_math_dollars %s -o %s --toc --toc-depth=3',
         escapeshellarg($tmpTextMd),
         escapeshellarg($textEpubFile)
     );
@@ -402,7 +402,7 @@ foreach ($dirs as $novelDir) {
     /* Deliverable 4: Text-Only PDF (No Images) */
     echo "  Generating Text-Only PDF ({$slug}-text.pdf)...\n";
     $textPdfCmd = sprintf(
-        'pandoc %s -o %s --toc --toc-depth=3 --pdf-engine=weasyprint 2>/dev/null || pandoc %s -o %s --toc --toc-depth=3',
+        'pandoc -f markdown-tex_math_dollars %s -o %s --toc --toc-depth=3 --pdf-engine=weasyprint 2>/dev/null || pandoc -f markdown-tex_math_dollars %s -o %s --toc --toc-depth=3',
         escapeshellarg($tmpTextMd),
         escapeshellarg($textPdfFile),
         escapeshellarg($tmpTextMd),

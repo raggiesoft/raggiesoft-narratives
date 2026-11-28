@@ -1,6 +1,6 @@
 # Lore Bible: Jessica's Medical & Quantum Workplace Accommodations
 
-- **Timestamp:** Pre-November 1999 (Clear Prescription Glasses) $\rightarrow$ Post-November 1999 (Permanent Tinted Prescription Glasses & Quantum Building 35 Workplace Accommodations)
+- **Timestamp:** Pre-November 1999 (Clear Prescription Glasses) → Post-November 1999 (Permanent Tinted Prescription Glasses & Quantum Building 35 Workplace Accommodations)
 
 - **Subject:** Lifelong Prescription Glasses, Axial Load TBI Photophobia, Tinted Lenses, & Quantum Corporation (`Building 35`) Visual/Mobility Accommodations
 

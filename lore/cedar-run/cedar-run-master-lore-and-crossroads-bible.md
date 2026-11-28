@@ -114,7 +114,7 @@ Beside a cold, clear granite-bed mountain stream they christen **Cedar Run**, a 
 
 1. **`https://cedarrun.raggiesoft.com` (`raggiesoft-cedar-run` — Dedicated Worldbuilding Launchpad)**
    - Consumer-friendly wilderness & music portal (zero tech jargon on screen; 100-level Read-Along Teaching Comments in GitHub source + automatic production minification via `sarah-deploy.sh`):
-     - **Interactive Homestead Builder:** Toggle through **Stages 1–4** of the Cedar Run shelter (Dome Tent $\rightarrow$ Split-Cedar Platform $\rightarrow$ Stone-Hearth Porch Cabin $\rightarrow$ Winterized Homestead).
+     - **Interactive Homestead Builder:** Toggle through **Stages 1–4** of the Cedar Run shelter (Dome Tent → Split-Cedar Platform → Stone-Hearth Porch Cabin → Winterized Homestead).
      - **Kettle River & Spur 470-B Trail Map:** Explore Cedar Run Creek, the Washed-Out Spur, Walt's Boundary Forty, and Kettle Ford along `WA-20` (100% volcano-free Northeast Washington geography).
      - **Meet the Bridger Triplets:** Visual cards & field-pack inventories for Luke, Tessa, and Sadie.
      - **The Cedar Run Songbook:** Stream 128 kbps previews, read full lyrics & story notes, and jump straight to **The Listening Room** (`https://music.raggiesoft.com`).

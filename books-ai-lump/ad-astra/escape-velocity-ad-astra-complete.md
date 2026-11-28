@@ -135,7 +135,7 @@ On the center pedestal of the *U.S.S. Aethelgard*'s cockpit, the dark ambient id
 > **Departure Vector:** Subterranean Launch Silo Alpha (Industrial Park Road, Blacksburg, VA)<br>
 > **Flight Deck Crew:** Tyler Wright (Port Seat — Pilot, Watch 1) • Evan Wright (Starboard Seat — Copilot, Watch 1) • Ryan O'Connell (Center Command Lock — 4-Point Deck Tie-Downs & 6-Point Harness) • Cassidy O'Connell (Acoustic Comms) • Holly O'Connell (Flight Systems & Telemetry)<br>
 > **Primary Propulsion:** Twin Acoustic-Fusion Boosters (Crimson-Phase Plasma Injection)<br>
-> **Target Trajectory:** Trans-Orbital Escape Vector $\rightarrow$ Deep-Space Continuum Insertion Point (Kepler-442c Beacon)
+> **Target Trajectory:** Trans-Orbital Escape Vector → Deep-Space Continuum Insertion Point (Kepler-442c Beacon)
 
 From the center command lock between the twin high-back leather pilot seats, Ryan O'Connell felt the vibration before it ever reached the speakers.
 
@@ -239,7 +239,7 @@ Inside the cockpit, the sharp, driving telemetry of the launch sequence had give
 > **Drive Architecture:** Harmonic Continuum Field Coils (Non-Relativistic Spatial Metric Folding)<br>
 > **Cruising Velocity:** Continuum Factor 8.4 (1,200 Light-Years / 72.0 Hours Shipboard Proper Time)<br>
 > **Helm Watch Rotation:** Watch 1 (Hours 00–08): Tyler Wright (Pilot) / Evan Wright (Copilot)<br>
-> **Deck Plate Gravity:** Transitioning from 1.00G (9.81 m/s²) $\rightarrow$ 0.00G (Zero-G Sanctuary Mode)
+> **Deck Plate Gravity:** Transitioning from 1.00G (9.81 m/s²) → 0.00G (Zero-G Sanctuary Mode)
 
 "Continuum field geometry is phase-locked," Evan announced from the right-hand Copilot seat, his eyes reflecting the violet-and-gold trajectory spline curving across his monitor. "No gravitational mass shadows along the corridor. Course laid in: bearing mark two-one-four by zero-zero-eight."
 
@@ -763,7 +763,7 @@ At the starboard telemetry console, Holly O'Connell suppressed a yawn of her own
 > **ORBITAL CHRONOMETER & CIRCADIAN LOG // CAELUM-IV ("SANCTUARY")**<br>
 > **Current Stardate:** 49601.33 (Orbital Hour 16.0 of 48.0)<br>
 > **Tidally Locked Rotation Period:** 48.0 Earth Hours per Full Revolution around Vespera<br>
-> **Phase 1 — The Sun-Cycle (`Stardate .00` to `.50` • `Hours 00–24`):** 24.0 continuous hours of direct Solis-V sunlight (*Rising Solis* $\rightarrow$ *Crown Light* $\rightarrow$ *Golden Dusk*).<br>
+> **Phase 1 — The Sun-Cycle (`Stardate .00` to `.50` • `Hours 00–24`):** 24.0 continuous hours of direct Solis-V sunlight (*Rising Solis* → *Crown Light* → *Golden Dusk*).<br>
 > **Phase 2 — The Ring-Cycle (`Stardate .50` to `.99` • `Hours 24–48`):** 24.0 continuous hours of Golden-Violet Ring-Night illuminated by *"Full Vespera,"* centered around the 90-minute Umbral Hush eclipse (.85–.90).
 
 "Welcome to a forty-eight-hour tidally locked orbit," Holly said, holding up her pad so Tyler, Ryan, and Cassidy could see the two twenty-four-hour halves of Caelum-IV's orbital ring around Vespera. "Back on Earth, the planet spun once every twenty-four hours: sixteen hours of daylight to be awake, and eight hours of night to sleep. Here, Caelum-IV is tidally locked to Vespera, and it takes forty-eight hours to swing all the way around the giant."

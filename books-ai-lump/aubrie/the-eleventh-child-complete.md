@@ -8998,7 +8998,7 @@ Click by click, the basement lamps went dark, a soft chorus of *"Goodnight, guys
 
 ## Jordan's First Christmas & Boxing Day in Bluewater
 
-### Part 1: Stockings on the Bookshelf & 'Jordan Kelly
+### Part 1: Stockings on the Bookshelf & 'Jordan Kelly'
 
 **Date:** 2014-12-25 at 08:00 America/New_York
 

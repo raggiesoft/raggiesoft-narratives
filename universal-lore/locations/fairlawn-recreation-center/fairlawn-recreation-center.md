@@ -33,7 +33,7 @@ The original building functions as a 1:1 drop-in replacement for the Kempsville 
 
 ## The 2017 Building (Active June 2017 - Present)
 
-The original 1977 building closes in **2015** and is completely demolished on the same site. Following a two-year, \$32 million ground-up rebuild (`2015–2017`, during which Fairlawn patrons and staff are temporarily displaced to neighboring municipal centers across the city), the brand-new **87,116-square-foot Fairlawn Recreation Center** opens in **June 2017**, modeled 1:1 on the modern 2017 Kempsville Recreation Center in Virginia Beach.
+The original 1977 building closes in **2015** and is completely demolished on the same site. Following a two-year, $32 million ground-up rebuild (`2015–2017`, during which Fairlawn patrons and staff are temporarily displaced to neighboring municipal centers across the city), the brand-new **87,116-square-foot Fairlawn Recreation Center** opens in **June 2017**, modeled 1:1 on the modern 2017 Kempsville Recreation Center in Virginia Beach.
 
 ### Architectural Signature & Core Upgrades
 *   **The "Sand Dune Fence" & Ocean-Wave Timber Roof:** Built with soaring glued-laminated timber (`glulam`) beams that twist and curve across the roofline to evoke coastal sand dunes and ocean waves, paired with massive northern glass walls for natural daylight harvesting, bamboo flooring, and a geothermal HVAC system.
@@ -45,8 +45,8 @@ The original 1977 building closes in **2015** and is completely demolished on th
 
 # Fairlawn Recreation Center
 
-Knowing that it was (and the modern version still is) **\"a BELOVED
-staple of the community\"** is crucial. It shifts the perception from
+Knowing that it was (and the modern version still is) **"a BELOVED
+staple of the community"** is crucial. It shifts the perception from
 just a slightly dated, quirky building with some flaws (potholes,
 often-broken bowling alley, unreliable snack machines) to a place that
 holds genuine affection and importance for the people who use it.
@@ -54,8 +54,8 @@ holds genuine affection and importance for the people who use it.
 This means:
 
 - **More Than Just a Building:** For the characters in your story,
-  especially those who grew up in the area, Fairlawn isn\'t just a place
-  to go; it\'s part of their shared history, a landmark filled with
+  especially those who grew up in the area, Fairlawn isn't just a place
+  to go; it's part of their shared history, a landmark filled with
   memories (good, bad, and funny).
 
 - **Community Hub:** Despite its imperfections, it was a central
@@ -63,17 +63,17 @@ This means:
   programming, and had lounges for different age groups underscores its
   role as a community hub.
 
-- **Nostalgia and Fondness:** Even with its quirks (like the \"you have
-  to call the vendor\" rule for the snack machines), these become part
+- **Nostalgia and Fondness:** Even with its quirks (like the "you have
+  to call the vendor" rule for the snack machines), these become part
   of its unique, perhaps even endearing, character for the locals. These
   are the stories people tell.
 
-- **Sense of Ownership:** A \"beloved staple\" often engenders a sense
+- **Sense of Ownership:** A "beloved staple" often engenders a sense
   of community ownership and pride, even if people also good-naturedly
   complain about its shortcomings.
 
-- **Impact on Alex and Chloe\'s Visit:** Their visit isn\'t just to any
-  rec center; it\'s to *Fairlawn*, a place that likely holds some level
+- **Impact on Alex and Chloe's Visit:** Their visit isn't just to any
+  rec center; it's to *Fairlawn*, a place that likely holds some level
   of nostalgic or community significance, even if they are just there
   for a swim and to hang out. This adds a subtle layer of warmth to
   their outing.
@@ -102,12 +102,12 @@ Brick construction with a metal roof.
 
 - **Lobby:** Contained the massive, dark grey, unpainted concrete spiral
   ramp with railings on either side. The ramp had a reasonable grade but
-  wasn\'t up to modern ADA standards, likely requiring a strong person
+  wasn't up to modern ADA standards, likely requiring a strong person
   to push a wheelchair.
 
 - **Elevator:** Located next to the ramp, usually deactivated. Staff
   needed a key to activate it, primarily for wheelchair users to access
-  upper floors. Often bypassed by Alex\'s father, who would wheel him up
+  upper floors. Often bypassed by Alex's father, who would wheel him up
   the ramp.
 
 #### Youth Lounge
@@ -168,7 +168,7 @@ wing as the snack lounge.
 #### Natatorium (Pool Area) & Changing Rooms
 
 - **Changing Rooms:** No family changing room. Alex would need male
-  assistance in the men\'s locker room.
+  assistance in the men's locker room.
 
 - **Pool:** 25 meters end-to-end; shallow end sloped 3-5 ft, deep end
   5-8 ft with two diving boards. No transfer chair at the time;
@@ -190,7 +190,7 @@ wing as the snack lounge.
 
 #### Racquetball Court
 
-Located at the opposite end of the hallway connecting the natatorium\'s
+Located at the opposite end of the hallway connecting the natatorium's
 changing area with the natatorium itself.
 
 - Youth ages 12-13 could play Racquetball/Walleyball with
@@ -287,9 +287,9 @@ Although the 2017 building was architecturally conceived around open circulation
 ### Modern Front-Desk Operational Protocols (2024–2026)
 
 - **The Legacy Month-to-Month Auto-Draft Anomaly:**
-  - While standard 2025–2026 resident rates are **\$120/year** (`Adult Resident Annual`) or **\$27 for 30 days** (`\$12 Adult Day Pass`), the recreation database still honors a grandfathered **Month-to-Month Auto-Draft Membership** tier from years earlier that the city no longer sells to new patrons. As long as a legacy member keeps their auto-draft card active and never cancels, the Month-to-Month membership stays alive indefinitely; once terminated, it can never be re-purchased.
+  - While standard 2025–2026 resident rates are **$120/year** (`Adult Resident Annual`) or **$27 for 30 days** (`$12 Adult Day Pass`), the recreation database still honors a grandfathered **Month-to-Month Auto-Draft Membership** tier from years earlier that the city no longer sells to new patrons. As long as a legacy member keeps their auto-draft card active and never cancels, the Month-to-Month membership stays alive indefinitely; once terminated, it can never be re-purchased.
 - **The "Hopper" Compliance Audit & Day-Pass Mercy Protocol:**
-  - When the **Duty Supervisor / Lead Cashier** catches a non-member attempting to piggyback or "hop" past the Scan Station or into the gym/pool without an active pass, standard enforcement is firm but measured: the supervisor stops the unauthorized entry, logs a permanent compliance note on the individual's profile in the citywide database (establishing a documented paper trail across all municipal recreation centers), and offers a one-time courtesy option to purchase a **\$12 Day Pass** at the register rather than issuing an immediate facility suspension.
+  - When the **Duty Supervisor / Lead Cashier** catches a non-member attempting to piggyback or "hop" past the Scan Station or into the gym/pool without an active pass, standard enforcement is firm but measured: the supervisor stops the unauthorized entry, logs a permanent compliance note on the individual's profile in the citywide database (establishing a documented paper trail across all municipal recreation centers), and offers a one-time courtesy option to purchase a **$12 Day Pass** at the register rather than issuing an immediate facility suspension.
 - **The `Code Susquehanna` Personal Sightline & Firewall Protocol (`2024–2026`):**
   - Engineered by **Michael Ragsdale** during his shifts as Front Desk **Duty Supervisor / Lead Cashier** after discovering that both **Heather Bouchard (`Twin A`)**—now a hospital Nuclear Medicine Technologist living in Charlottesville who retains a grandfathered Month-to-Month membership registered to her family's longtime house on **Susquehanna Drive** five minutes up the road—and her identical twin sister **Hailey Bouchard (`Twin B`)**—who lives full-time at the Susquehanna Drive house and holds an Adult Resident Annual Membership—independently use Fairlawn Recreation Center (`books/rachel/e022`):
     1. **The Identical-Twin Hardware Check (Scan Before Speech):** Because Heather and Hailey share a `1:1` identical facial geometry and Heather's tiny forehead hairline freckle ("birth mark") is hidden beneath her bangs, Michael's brain cannot visually determine which twin is standing at the counter until the barcode hits the laser scanner. Under the **Teflon Protocol**, if either twin approaches or speaks before scanning, he points directly to the scanner first (*"I'll need you to go ahead and scan your membership card for me first, please"*) so the monitor identifies **`HEATHER BOUCHARD`** (`Twin A`) vs. **`HAILEY BOUCHARD`** (`Twin B`).
@@ -299,18 +299,18 @@ Although the 2017 building was architecturally conceived around open circulation
 
 ## Fairlawn Recreation Center: Operational Notes (2007)
 
-### The \"Code Purple\" Protocol
+### The "Code Purple" Protocol
 
 This is a specific, crucial reasonable accommodation developed for the
 Bennett siblings.
 
-- **Initial Status:** The \"Code Purple\" system began as an **informal,
+- **Initial Status:** The "Code Purple" system began as an **informal,
   unwritten understanding** among the compassionate staff and
-  supervisors at Fairlawn. They knew Jack and Sarah were each other\'s
-  primary support system and allowed them to respond to each other\'s
+  supervisors at Fairlawn. They knew Jack and Sarah were each other's
+  primary support system and allowed them to respond to each other's
   needs during a crisis without a formal policy.
 
-- **The System Failure:** The protocol\'s critical flaw was exposed the
+- **The System Failure:** The protocol's critical flaw was exposed the
   first time Sarah had an autistic meltdown in a **secure,
   key-restricted aquatics area** (like the pump or filter room). Jack,
   hearing the call, rushed to her location but was **blocked by a locked
@@ -320,8 +320,8 @@ Bennett siblings.
 - **Formalization and Training:** This failure prompted an immediate,
   official review.
 
-  - The siblings\' reasonable accommodations were officially updated to
-    include a formalized \"Code Purple\" protocol.
+  - The siblings' reasonable accommodations were officially updated to
+    include a formalized "Code Purple" protocol.
 
   - As part of this official update, Jack was required to undergo **all
     necessary aquatics safety training**, including watching safety
@@ -339,8 +339,8 @@ Bennett siblings.
 
 # Protocols Directly Involving the Bennett Siblings
 
-These protocols are the most significant for Jack and Sarah\'s story,
-representing their specific, recognized accommodations and the staff\'s
+These protocols are the most significant for Jack and Sarah's story,
+representing their specific, recognized accommodations and the staff's
 compassionate understanding of their needs.
 
 - **Code Purple (Bennett Emergency) 🟣**
@@ -356,7 +356,7 @@ compassionate understanding of their needs.
   - **Response:** The designated sibling is to respond immediately,
     without needing permission. This protocol **overrides all standard
     rules of workplace conduct**, including the general guideline to
-    moderate physical affection. The responding sibling\'s primary duty
+    moderate physical affection. The responding sibling's primary duty
     is to provide grounding comfort, which often requires **holding the
     other sibling very tightly** to help them through the sensory storm
     of the meltdown.
@@ -381,8 +381,8 @@ compassionate understanding of their needs.
     solution.
 
   - **Protocol:** **Jack**, having received specialized aquatics safety
-    and HazCom training, is authorized to don the appropriate \"rapid
-    entry and rescue\" PPE (respirator, goggles, gloves, etc.) to safely
+    and HazCom training, is authorized to don the appropriate "rapid
+    entry and rescue" PPE (respirator, goggles, gloves, etc.) to safely
     enter the hazardous area. His sole mission is to ground Sarah so she
     can be safely evacuated, allowing trained cleanup crews to handle
     the chemical hazard.
@@ -391,12 +391,12 @@ compassionate understanding of their needs.
 
 ## General Medical Protocols
 
-- **\"First Response\":** The highest-priority call for a
+- **"First Response":** The highest-priority call for a
   **life-threatening** medical emergency (heart attack, unconsciousness,
   etc.). It signals an immediate need for advanced first aid and a
   simultaneous call to 911.a
 
-- **\"First Aid\":** A lower-priority call for **non-life-threatening**
+- **"First Aid":** A lower-priority call for **non-life-threatening**
   medical incidents requiring more than a basic bandage from the front
   desk, such as an ice pack, gauze, etc. It does not automatically
   trigger a 911 call.
@@ -485,7 +485,7 @@ compassionate understanding of their needs.
     **conversion period**. During this time, staff take down the
     volleyball nets and set up the futsal goals.
 
-  - **The \"Early Start\" Rule:** If the futsal court is fully set up
+  - **The "Early Start" Rule:** If the futsal court is fully set up
     before the 1:00 PM start time, the gym is opened immediately for
     futsal play.
 
@@ -511,23 +511,23 @@ rec center do not carry coins).
 
 #### Virginia Beach Residents
 
-- **Adults:** **\$79** per year, **\$18** for 30 days
+- **Adults:** **$79** per year, **$18** for 30 days
 
-- **Youth (age 3 to 17):** **\$26** per year, **\$18** for 30 days
+- **Youth (age 3 to 17):** **$26** per year, **$18** for 30 days
 
 - **Children age 2 and under:** No Charge, with paying adult
 
 #### Non-Residents
 
-- **All Ages (3 and above):** **\$273** per year, **\$33** for 30 days
+- **All Ages (3 and above):** **$273** per year, **$33** for 30 days
 
 - **Children age 2 and under:** No charge, with paying adult
 
 #### Day Passes
 
-- **Adults:** **\$8**
+- **Adults:** **$8**
 
-- **Youth (Age 3 through 17):** **\$5**
+- **Youth (Age 3 through 17):** **$5**
 
 - **Children 2 and under:** no charge, with paying adult
 
@@ -535,23 +535,23 @@ rec center do not carry coins).
 
 #### Virginia Beach Residents
 
-- **Adults:** **\$120** per year, **\$27** for 30 days
+- **Adults:** **$120** per year, **$27** for 30 days
 
-- **Youth (age 3 to 17):** **\$40** per year, **\$27** for 30 days
+- **Youth (age 3 to 17):** **$40** per year, **$27** for 30 days
 
 - **Children age 2 and under:** No Charge, with paying adult
 
 #### Non-Residents
 
-- **All Ages (3 and above):** **\$415** per year, **\$50** for 30 days
+- **All Ages (3 and above):** **$415** per year, **$50** for 30 days
 
 - **Children age 2 and under:** No charge, with paying adult
 
 #### Day Passes
 
-- **Adults:** **\$12**
+- **Adults:** **$12**
 
-- **Youth (Age 3 through 17):** **\$8**
+- **Youth (Age 3 through 17):** **$8**
 
 - **Children 2 and under:** no charge, with paying adult
 
@@ -592,10 +592,10 @@ rec center do not carry coins).
 
 #### Medical Emergency Protocol
 
-- **\"First Response\":** For a life-threatening medical emergency
+- **"First Response":** For a life-threatening medical emergency
   requiring a 911 call.
 
-- **\"First Aid\":** For a non-life-threatening medical incident
+- **"First Aid":** For a non-life-threatening medical incident
   requiring supplies beyond a basic bandage.
 
 ### Fairlawn Chain of Command
@@ -605,8 +605,8 @@ rec center do not carry coins).
   was held by **Anthony** and later **Alexis**.
 
 - **Facility Supervisor:** When the Building Supervisor is not on-site,
-  this \"supervisor on duty\" role rotates among various high-level
+  this "supervisor on duty" role rotates among various high-level
   staff members (e.g., Event Coordinators, senior supervisors from
   different departments). This person is in charge of the facility for
   that shift. This explains how **Rebecca**, an Event Coordinator, was
-  the acting Facility Supervisor on the day of Jack\'s heart attack.
+  the acting Facility Supervisor on the day of Jack's heart attack.

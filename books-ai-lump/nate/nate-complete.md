@@ -1177,7 +1177,7 @@ The diesel engine rumbled, and the trolley pulled out of the Chesapeake Bay Mall
 
 #### The Hydraulic Hiss
 
-The hydraulic hiss of the Coastal Virginia Transit Authority bus was a familiar, rhythmic punctuation to Nate’s week. The heavy metal ramp clattered against the concrete curb just outside the Community College of Hampton Roads. Sarah didn’t need to ask; she gripped the handles of his manual wheelchair, tilted him back just a fraction to clear the lip of the ramp, and pushed him smoothly into the air-conditioned chill of the \#25 bus.
+The hydraulic hiss of the Coastal Virginia Transit Authority bus was a familiar, rhythmic punctuation to Nate’s week. The heavy metal ramp clattered against the concrete curb just outside the Community College of Hampton Roads. Sarah didn’t need to ask; she gripped the handles of his manual wheelchair, tilted him back just a fraction to clear the lip of the ramp, and pushed him smoothly into the air-conditioned chill of the #25 bus.
 
 They locked into the designated securement area. Sarah expertly hooked the heavy canvas tie-downs to the frame of his chair—a practiced, silent routine they had perfected over the last few years. Once he was anchored, she dropped into the flip-down seat right next to him, pulling a crumpled paper list from the pocket of her hoodie.
 
@@ -1207,7 +1207,7 @@ Nate held the brief eye contact for barely a heartbeat before looking away. His 
 
 #### The #25 Bus Groaned
 
-The \#25 bus groaned to a halt at the intersection of Princess Anne Road and Baxter Road. The pneumatic doors hissed open, and the heavy, humid blanket of the late-summer Virginia heat immediately spilled into the air-conditioned cabin.
+The #25 bus groaned to a halt at the intersection of Princess Anne Road and Baxter Road. The pneumatic doors hissed open, and the heavy, humid blanket of the late-summer Virginia heat immediately spilled into the air-conditioned cabin.
 
 Sarah maneuvered Nate down the ramp with practiced ease, her sneakers hitting the sun-baked concrete of the shopping center. The physical transition from the rumbling transit line to the flat, open parking lot was a welcome shift in sensory input. Even better was the unmistakable, greasy-salt aroma drifting through the humid air from the square brick building across the asphalt.
 
@@ -1547,7 +1547,7 @@ Over Emily's shoulder, Nate saw Sarah. His sister was standing dead still, a cru
 
 They broke the hug, Emily smiling brightly, completely unaware of the psychological earthquake she had just triggered.
 
-They walked her out to the CCHR transit shelter. As the massive \#25 bus pulled up to the curb, its air brakes hissing loudly, Emily turned back to them.
+They walked her out to the CCHR transit shelter. As the massive #25 bus pulled up to the curb, its air brakes hissing loudly, Emily turned back to them.
 
 Nate reached out again. He needed one more grounding squeeze. He needed proof that the first one wasn't a fluke.
 
@@ -1571,7 +1571,7 @@ The Community College of Hampton Roads was built on the coastal plain of Virgini
 
 Sarah pushed Nate away from the transit shelter at a leisurely pace. They had twelve minutes before their 1:00 PM class, and the Bayside building was just a short, effortless stroll past the library.
 
-"Alright," Nate said, breaking the silence as the rumble of the departing \#25 bus faded into the distance. He kept his eyes forward, watching the campus traffic. "Give it to me straight. What's the assessment?"
+"Alright," Nate said, breaking the silence as the rumble of the departing #25 bus faded into the distance. He kept his eyes forward, watching the campus traffic. "Give it to me straight. What's the assessment?"
 
 Sarah didn't answer immediately. She kept her pace steady, the wheels of the chair clicking rhythmically over the expansion joints in the sidewalk.
 
@@ -1607,7 +1607,7 @@ He was just thinking about a girl with curly hair, a yellow legal pad, and the p
 
 #### Saturday Morning Was Completely Silent
 
-Saturday morning was completely silent. There were no screeching air brakes from the \#25 bus, no crowded cafeterias, and no lectures. Just the quiet hum of the central air conditioning in their mother's house.
+Saturday morning was completely silent. There were no screeching air brakes from the #25 bus, no crowded cafeterias, and no lectures. Just the quiet hum of the central air conditioning in their mother's house.
 
 Nate sat in his wheelchair by his bedroom window, staring out at the manicured lawn. He had a notebook in his lap, but he hadn't written a single word. His mind was stuck on an endless, looping playback of the Kempsville building cafeteria.
 

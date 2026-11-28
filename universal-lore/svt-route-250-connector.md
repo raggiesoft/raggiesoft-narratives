@@ -4,17 +4,17 @@
 > - **Real-World Agency & Route**: *BRITE Bus — 250 Connector* (Central Shenandoah Planning District Commission; Staunton – Fishersville – Waynesboro, VA)
 > - **In-Universe Agency & Route**: **Shenandoah Valley Transit (`SVT`) — `Route 250 Connector`**
 > - **Trademark-Safe Stop Mappings**:
->   - *Walmart (Waynesboro)* $\rightarrow$ **`ValueMart (Waynesboro)`**
->   - *Waynesboro Town Center* $\rightarrow$ **`Waynesboro Town Center`**
->   - *Augusta County Library* $\rightarrow$ **`Augusta County Library`** (Fishersville main branch on US-250 / Jefferson Highway)
->   - *Augusta Health Fitness* $\rightarrow$ **`Augusta Medical Fitness`**
->   - *Augusta Health MOB* $\rightarrow$ **`Augusta Medical MOB`** (*Medical Office Building*, adjacent to **Augusta Medical Center**)
->   - *WWRC (Woodrow Wilson / Wilson Workforce and Rehabilitation Center)* $\rightarrow$ **`RRC`** (**Roosevelt Rehabilitation Center**, `243 Roosevelt Avenue, Fishersville, VA`)
->   - *Walmart (Staunton)* $\rightarrow$ **`ValueMart (Staunton)`**
->   - *Valley View Senior Apartments* $\rightarrow$ **`Valley View Senior Apartments`**
->   - *Staunton Mall* $\rightarrow$ **`Staunton Mall`**
->   - *Statler Square* $\rightarrow$ **`Statler Square`**
->   - *Staunton Hub / Lewis Street* $\rightarrow$ **`Staunton Hub / Lewis Street`**
+>   - *Walmart (Waynesboro)* → **`ValueMart (Waynesboro)`**
+>   - *Waynesboro Town Center* → **`Waynesboro Town Center`**
+>   - *Augusta County Library* → **`Augusta County Library`** (Fishersville main branch on US-250 / Jefferson Highway)
+>   - *Augusta Health Fitness* → **`Augusta Medical Fitness`**
+>   - *Augusta Health MOB* → **`Augusta Medical MOB`** (*Medical Office Building*, adjacent to **Augusta Medical Center**)
+>   - *WWRC (Woodrow Wilson / Wilson Workforce and Rehabilitation Center)* → **`RRC`** (**Roosevelt Rehabilitation Center**, `243 Roosevelt Avenue, Fishersville, VA`)
+>   - *Walmart (Staunton)* → **`ValueMart (Staunton)`**
+>   - *Valley View Senior Apartments* → **`Valley View Senior Apartments`**
+>   - *Staunton Mall* → **`Staunton Mall`**
+>   - *Statler Square* → **`Statler Square`**
+>   - *Staunton Hub / Lewis Street* → **`Staunton Hub / Lewis Street`**
 
 ---
 
@@ -32,11 +32,11 @@
   - Because **Katie and Nathaniel Prairie** are only enrolled at RRC for fourteen days in July 2007 (`July 8–22, 2007`, sleeping off campus at Heather and Wesley's extended-stay hotel from Wednesday night, July 18 onward), they aren't at RRC long enough to ever learn that client bus tokens exist—so both in **July 2007** and during **U.S. Senator Katie Prairie's** unannounced return oversight trip on **Thursday, July 22, 2027**, Katie and Nate carry quarters in their pockets and drop **two quarters (`$0.50` apiece)** into the farebox for every ride.
 - **Crucial Weekday vs. Saturday `RRC` On-Campus Stop Rule**:
   - **Monday – Friday**: Because RRC clients are in daytime classes/evaluations until `4:00 PM`, the `Route 250 Connector` **does NOT turn onto the `RRC` campus loop during weekday mornings or early afternoons** (`7:30 AM – 3:30 PM` trips stay out on `US-250 / Jefferson Highway`, serving the Fishersville highway stops at `Augusta Medical Fitness`, `Augusta Medical MOB`, and `Augusta County Library` right across from Roosevelt Avenue). On weekdays, the bus serves the on-campus **`RRC`** shelter **on the six evening runs**:
-    - **Westbound (`RRC` $\rightarrow$ Staunton)**: `4:51 PM`, `5:51 PM`, `6:51 PM`, `7:51 PM`, `8:51 PM`, **`9:51 PM`** *(from the `9:30 PM` Waynesboro departure, reaching Staunton Hub by `10:30 PM`)*
-    - **Eastbound (`RRC` $\rightarrow$ Waynesboro)**: `5:00 PM`, `6:00 PM`, `7:00 PM`, `8:00 PM`, `9:00 PM`, **`10:00 PM`** *(from the `9:30 PM` Staunton departure, reaching Waynesboro ValueMart by `10:30 PM`)*
+    - **Westbound (`RRC` → Staunton)**: `4:51 PM`, `5:51 PM`, `6:51 PM`, `7:51 PM`, `8:51 PM`, **`9:51 PM`** *(from the `9:30 PM` Waynesboro departure, reaching Staunton Hub by `10:30 PM`)*
+    - **Eastbound (`RRC` → Waynesboro)**: `5:00 PM`, `6:00 PM`, `7:00 PM`, `8:00 PM`, `9:00 PM`, **`10:00 PM`** *(from the `9:30 PM` Staunton departure, reaching Waynesboro ValueMart by `10:30 PM`)*
   - **Saturday**: The `Route 250 Connector` turns onto the **`RRC`** campus **on EVERY hourly run all day long**:
-    - **Westbound (`RRC` $\rightarrow$ Staunton)**: `:50` past every hour from `8:50 AM` through `6:50 PM`
-    - **Eastbound (`RRC` $\rightarrow$ Waynesboro)**: `:01` past every hour from `9:01 AM` through `7:01 PM`
+    - **Westbound (`RRC` → Staunton)**: `:50` past every hour from `8:50 AM` through `6:50 PM`
+    - **Eastbound (`RRC` → Waynesboro)**: `:01` past every hour from `9:01 AM` through `7:01 PM`
 - **RRC Level 2 Pass System, `9:30 PM` SVT Bus Stop Check-In, Breakdown Protection, & Overnight Pass Rules**:
   1. **`11:00 PM` Curfew Check & `9:30 PM` SVT Bus Stop Staff Check-In**: As long as a Level 2 client out on a signed yellow Hall Pass returns to campus in time for the **`11:00 PM` Curfew Check**, they are in good standing. Every weekday evening, **RRC residential staff wait right at the on-campus SVT bus stop** when the final **`9:30 PM` trips** from Waynesboro (`9:51 PM` at RRC) and Staunton (`10:00 PM` at RRC) pull onto campus to check returning clients in.
   2. **SVT Dispatch Breakdown / Late-Bus Protection**: Under the normal timetable, both `9:30 PM` terminal departures pass through Fishersville around `9:51 PM`–`10:00 PM` and finish at their opposite terminal by `10:30 PM`, well ahead of the `11:00 PM` curfew check. If a client was aboard either `9:30 PM` trip and something happens en route (such as a bus breakdown), **SVT Dispatch calls RRC directly** to alert staff of the late-running bus, and any client aboard that trip is officially counted **ON TIME** for curfew checks.
@@ -46,7 +46,7 @@
 
 ## 2. Official Timetables (In-Universe Converted)
 
-### A. Monday – Friday Westbound (`7:30 AM – 10:30 PM`: Waynesboro $\rightarrow$ Fishersville $\rightarrow$ Staunton)
+### A. Monday – Friday Westbound (`7:30 AM – 10:30 PM`: Waynesboro → Fishersville → Staunton)
 
 | Stop | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -63,7 +63,7 @@
 
 ---
 
-### B. Monday – Friday Eastbound (`7:30 AM – 10:30 PM`: Staunton $\rightarrow$ Fishersville $\rightarrow$ Waynesboro)
+### B. Monday – Friday Eastbound (`7:30 AM – 10:30 PM`: Staunton → Fishersville → Waynesboro)
 
 | Stop | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -81,7 +81,7 @@
 
 ---
 
-### C. Saturday Westbound (`8:30 AM – 7:30 PM`: Waynesboro $\rightarrow$ RRC $\rightarrow$ Staunton)
+### C. Saturday Westbound (`8:30 AM – 7:30 PM`: Waynesboro → RRC → Staunton)
 
 | Stop | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -97,7 +97,7 @@
 
 ---
 
-### D. Saturday Eastbound (`8:30 AM – 7:30 PM`: Staunton $\rightarrow$ RRC $\rightarrow$ Waynesboro)
+### D. Saturday Eastbound (`8:30 AM – 7:30 PM`: Staunton → RRC → Waynesboro)
 
 | Stop | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

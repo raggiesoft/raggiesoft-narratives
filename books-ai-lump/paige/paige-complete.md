@@ -2556,7 +2556,7 @@ The monitor wasn't displaying a desktop with a start button and colorful icons. 
 
 In the top left corner, a single cursor blinked green.
 
-user@cpi-cs-lab:~\$ \_
+user@cpi-cs-lab:~$ \_
 
 Freddie stared at it. It was stark. It was empty. It was beautiful.
 
@@ -2896,7 +2896,7 @@ It was a critical error. A fatal system crash.
 
 But...
 
-He thought about the Terminal again. *user@cpi-cs-lab:~\$*. It was the only time in his life he had felt like he was speaking his native language. If he left now, he was leaving that language behind. He would go back to Virginia Beach, back to the noise, back to the silence of his father's house.
+He thought about the Terminal again. *user@cpi-cs-lab:~$*. It was the only time in his life he had felt like he was speaking his native language. If he left now, he was leaving that language behind. He would go back to Virginia Beach, back to the noise, back to the silence of his father's house.
 
 He didn't want to go back. He wanted to find a loophole.
 
@@ -4223,7 +4223,7 @@ The interior was deceptively spacious. The living room had soft carpet and a lar
 Jessica hopped up onto the counter, swinging her legs. She looked at her siblings—not as a parent, not as a babysitter, but as a squad leader addressing her team. "Welcome to the Iron City," Jessica smiled. "This is a new system. The rules of Delaney Street do not apply here. We have a new Constitution."
 
 
-"First," Jessica pointed to the ceiling. "Rent. Utilities. Internet." "We need jobs," Paige said immediately. "I can wait tables. Freddie can do tech support." "Negative," Jessica shook her head. "We have a sponsor." She reached into her back pocket and pulled out a folded document. She placed it on the counter. Lease Agreement. Rent: \$1.00 per annum. "Mom’s Great Aunt Margaret," Jessica explained. "She moved to assisted living last month. She owns this place. She hates Dad. She drafted this lease herself." Ellen nodded from the kitchen. "She wants you safe. She’s covering the utilities and the high-speed cable internet. She’s also depositing a stipend for food and books every month." Freddie blinked. "We are... fully funded?" "You are fully funded," Jessica confirmed. "Your job is to get the grades. That’s it."
+"First," Jessica pointed to the ceiling. "Rent. Utilities. Internet." "We need jobs," Paige said immediately. "I can wait tables. Freddie can do tech support." "Negative," Jessica shook her head. "We have a sponsor." She reached into her back pocket and pulled out a folded document. She placed it on the counter. Lease Agreement. Rent: $1.00 per annum. "Mom’s Great Aunt Margaret," Jessica explained. "She moved to assisted living last month. She owns this place. She hates Dad. She drafted this lease herself." Ellen nodded from the kitchen. "She wants you safe. She’s covering the utilities and the high-speed cable internet. She’s also depositing a stipend for food and books every month." Freddie blinked. "We are... fully funded?" "You are fully funded," Jessica confirmed. "Your job is to get the grades. That’s it."
 
 
 Jessica hopped off the counter and led them down the hall. "There are two rooms. One is the Ops Room." She pointed to the smaller bedroom on the right, where three desks were already pushed against the walls, creating a U-shaped command center. "That’s where we work. Computers, printers, homework." She walked to the door at the end of the hall. "And this is the Silo." She pushed the door open. The Master Bedroom was dominated by a massive piece of furniture. A King-Sized Bed. It took up almost the entire room. "76 inches," Jessica stated the spec. "Enough for three." Freddie froze. He looked at Jessica. "Three?" "Three," Jessica confirmed. "We aren't doing shifts. We aren't doing 'Jessica sleeps on the floor.' We are a unit. We sleep together. Every night. Safety in numbers." She looked at Paige. "If you're okay with that?" Paige looked at the vast expanse of the mattress. She imagined the nights without the static. She imagined the safety of the wall. "I'm okay with it," Paige whispered. "I prefer it." Freddie looked at the bed. The logic was undeniable. Maximum regulation. Maximum security. "Accepted," Freddie said. "The King configuration is optimal."
@@ -4664,7 +4664,7 @@ The bookstore was a massive, rotunda-shaped building located at the edge of the 
 
 There was a stack of thick, glossy textbooks. The cover featured a generic, abstract image of a double helix DNA strand merging with a silhouette of diverse people. Title: *Human Sexuality: Biological and Psychosocial Perspectives*. Edition: 4th. Condition: New.
 
-Jessica picked one up. It was heavy. "Price check," she noted, flipping it over to check the barcode sticker. "\$115.00 New." She looked at Freddie and Paige. "We need three," Freddie said immediately. His voice was gaining strength, fueled by the logic of the situation. "Three?" Paige asked. "That is... three hundred and forty-five dollars. Can't we share?"
+Jessica picked one up. It was heavy. "Price check," she noted, flipping it over to check the barcode sticker. "$115.00 New." She looked at Freddie and Paige. "We need three," Freddie said immediately. His voice was gaining strength, fueled by the logic of the situation. "Three?" Paige asked. "That is... three hundred and forty-five dollars. Can't we share?"
 
 Freddie shook his head. "Negative. We need to annotate independently. I need to highlight the definitions. You might need to highlight the social dynamics. If we share, the data gets corrupted. We need individual databases."
 
@@ -8114,11 +8114,11 @@ He remembered Paige explaining the angle of the *uterus* based on where she felt
 
 The mystery was gone. The shame was gone. It was just hardware.
 
-He looked back at the paper. Structure \#3 pointed to the muscular wall of the uterus.
+He looked back at the paper. Structure #3 pointed to the muscular wall of the uterus.
 
 *Myometrium,* Freddie wrote in neat, block letters.
 
-Structure \#7 pointed to the external fold of skin protecting the vestibule.
+Structure #7 pointed to the external fold of skin protecting the vestibule.
 
 *Labia Majora,* he wrote.
 
@@ -10387,7 +10387,7 @@ The desktop loaded. Starfield background.
 
 "Browser history," Jessica said, grabbing the mouse.
 
-Tuesday, 14:00 PM: *Seattle Sky-Spire* Tuesday, 14:15 PM: *Pathfinder Bus Lines - Schedule* Tuesday, 14:30 PM: *Email - Order Confirmation \#4492*
+Tuesday, 14:00 PM: *Seattle Sky-Spire* Tuesday, 14:15 PM: *Pathfinder Bus Lines - Schedule* Tuesday, 14:30 PM: *Email - Order Confirmation #4492*
 
 Jessica clicked the email link.
 
@@ -12563,7 +12563,7 @@ It wasn't a bus. It wasn't a train. It was a retro-futuristic red streak sitting
 
 "It travels the one-mile track in exactly two minutes," Freddie said. "It is a dedicated point-to-point shuttle."
 
-They bought their tickets (\$1.50 each). They boarded the red train. The windows were massive, curving up into the roof to offer a panoramic view of the sky.
+They bought their tickets ($1.50 each). They boarded the red train. The windows were massive, curving up into the roof to offer a panoramic view of the sky.
 
 Freddie sat right at the front. He looked down through the windshield at the concrete beam stretching out ahead of them, threading between the skyscrapers.
 
@@ -13769,7 +13769,7 @@ They brought their haul to the counter. The cashier was a teenage girl reading a
 
 "Just to the lodge," Paige said.
 
-"Nice night for a fire," the girl said. "Total was \$24.50."
+"Nice night for a fire," the girl said. "Total was $24.50."
 
 Freddie watched the transaction. Simple. Exchange of goods. Friendly data. No threats.
 
@@ -16984,7 +16984,7 @@ Jessica reached under the coffee table and pulled out a thick manila envelope. S
 
 Ellen picked it up. She pulled out the document. Her eyes scanned the header.
 
-*DEED OF SALE* Grantor: Margaret E. Lewis (Owner) Grantees: Jessica Avery, Paige Avery, Freddie Avery (Joint Tenants with Right of Survivorship) Consideration: \$1.00 (Paid in Cash) Date: June 16, 2004
+*DEED OF SALE* Grantor: Margaret E. Lewis (Owner) Grantees: Jessica Avery, Paige Avery, Freddie Avery (Joint Tenants with Right of Survivorship) Consideration: $1.00 (Paid in Cash) Date: June 16, 2004
 
 Ellen’s hands shook. "What is this?"
 
@@ -20046,7 +20046,7 @@ The landing page featured a photo of a woman in a ballgown stepping out of a gla
 
 Jessica clicked the Pricing tab.
 
-The Monarch Series: Starting at \$55,000 (Installation not included). Requirements: 4-foot deep concrete pit. Dedicated machine room.
+The Monarch Series: Starting at $55,000 (Installation not included). Requirements: 4-foot deep concrete pit. Dedicated machine room.
 
 "Fifty-five thousand dollars," Jessica read flatly. "And we have to dig a hole under the house."
 
@@ -20118,7 +20118,7 @@ He looked at the image of the tracks—two skeletal steel rails that looked like
 
 Jessica clicked Get Quote.
 
-Standard Model: \$9,500. Installation Kit: Included.
+Standard Model: $9,500. Installation Kit: Included.
 
 "It's at the top of the budget," Jessica said, biting her lip. "But we don't have to build a shaft. That saves us lumber and drywall costs. And it saves the stairs."
 
@@ -20170,7 +20170,7 @@ The search results populated.
 
 Alaskan King: 108" x 108". "Whoa," Jenna gasped. "Nine feet? That’s an arena!"
 
-Jessica clicked the price tag. \$7,500 (Mattress Only). Custom Freight Shipping Required.
+Jessica clicked the price tag. $7,500 (Mattress Only). Custom Freight Shipping Required.
 
 "Negative," Sarah said instantly. "That is the price of a used car. And we cannot get a nine-foot mattress down those narrow stairs. It physically won't fit through the door. It is a logistical impossibility."
 
@@ -21320,7 +21320,7 @@ He pulled up a notepad and began writing the fee structure.
 
 "Until school starts," Freddie explained, jotting the two legs of the trip onto his pad, "you are a civilian passenger, which means paying cash. On the first leg with Radford Transit, you board near your apartment for fifty cents—exact change required, with no transfers issued. On the second leg at McConnell Transit Center, you board Blue Ridge Transit Route 3 for one dollar; if you ever need another Blue Ridge bus afterward, you have to ask the driver for a transfer slip right as you board, though getting here is a direct shot."
 
-"Total cost, one way: \$1.50," Harper calculated. "Round trip: Three bucks."
+"Total cost, one way: $1.50," Harper calculated. "Round trip: Three bucks."
 
 "Affirmative," Freddie said. "Do you have funding?"
 
@@ -21441,7 +21441,7 @@ He tapped a spot on the map marked Highland Village Apartments.
 
 "One dollar," Freddie said. "If you need to switch to another Blue Ridge bus later, you ask for a transfer slip. But for this trip? It is a straight shot. Thirty minutes. It drops you right at Pepper Plaza."
 
-"So," Harper calculated. "One bus, one transfer, thirty minutes. Cost: \$1.50 one way."
+"So," Harper calculated. "One bus, one transfer, thirty minutes. Cost: $1.50 one way."
 
 "For now," Aunt Linda interrupted, digging into her massive purse.
 

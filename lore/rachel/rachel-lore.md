@@ -593,7 +593,7 @@ Ashley picked her backpack up off the floor and slung it over her shoulder.
 
 **Subject:** The Ashley Protocol (Intimacy Baseline & Risk Management) & The `801 Greenway Court` 20-Unit Mirror-Image Studio Architecture **Initiation Date:** Tuesday, July 15th, 2003 **Location:** 801 Greenway Court, Unit A5, Norfolk, VA *(Full Universal Location & Exterior/Interior Lore Bible in [`universal-lore/locations/801-greenway-court/801-greenway-court.md`](file:///Users/michael/Developer/raggiesoft-servers/raggiesoft-narratives/universal-lore/locations/801-greenway-court/801-greenway-court.md))*
 
-- **Canonical `801 Greenway Court` Building Architecture & Across-the-Hall Mirror-Image Pairing (`Unit A5` $\leftrightarrow$ `Apartment A6`)**:
+- **Canonical `801 Greenway Court` Building Architecture & Across-the-Hall Mirror-Image Pairing (`Unit A5` ↔ `Apartment A6`)**:
   - **20 Identical Studio Units (`A1–A10` Downstairs, `B1–B10` Upstairs)**: Owned by husband-and-wife landlords **Dave and Deb**, `801 Greenway Court` is a two-story, flat-roofed red-brick building with a decal-controlled front parking lot, a circular brick lamppost planter on the front walkway, a **24/7 key-locked glass-and-aluminum front entrance door**, a lobby with metal mailboxes and three shallow rubber-treaded steps (fitted with Dave's nonslip aluminum modular ramp), and a narrow rear alley with an exterior black iron fire-escape staircase and through-wall box A/C units mounted into the brickwork beneath each window.
   - **Shared Layout & Mirror-Image Geometry**: **All 20 apartments in the building share the exact same enlarged bedroom-style rectangular studio layout** (combining the main living/sleeping/workstation room with a small kitchenette housing a 4-burner stove, single sink, and under-the-counter dorm/mini-fridge requiring a standalone rolling microwave cart, a square walk-in closet with a carpeted floor, and a bathroom with a roll-under sink, toilet, and high-grip acrylic standing shower). Units across the central hallway from each other—specifically **Michael Ragsdale and Ashley Raybourn's `Unit A5`** (`July 15, 2003 – November 2004`) and **Nathaniel ("Nate") and Katie Prairie's `Apartment A6`** (`July 1, 2003 – Summer 2004` in `books/katie/e004/c002`) at the back of the first floor—are **exact left/right mirror images of each other**.
 
@@ -4355,7 +4355,7 @@ Here is the official canon entry to bridge her college scholarship to her federa
 
 Part 1: The Hardware (The Desktop Replacement)
 
-A monolithic, 9.5-pound, brushed-aluminum and piano-black powerhouse. Costing roughly \$4,200, it was the absolute bleeding edge of mobile architecture in late 2006.
+A monolithic, 9.5-pound, brushed-aluminum and piano-black powerhouse. Costing roughly $4,200, it was the absolute bleeding edge of mobile architecture in late 2006.
 
  **CPU:** Intel Core 2 Duo T7600 (2.33 GHz, 4MB L2 Cache)
 
@@ -4369,7 +4369,7 @@ A monolithic, 9.5-pound, brushed-aluminum and piano-black powerhouse. Costing ro
 
  **Optical Drive:** Slot-loading Blu-Ray ROM / DVD±RW Burner combo
 
- **The Bottleneck (Pre-Installed OS):** Quantum OS XN Home Edition. A 32-bit legacy consumer operating system that physically cannot utilize the 4 GB of RAM, lacking all enterprise networking tools. A deeply insulting software limitation for a \$4,000 dual-hard drive rig.
+ **The Bottleneck (Pre-Installed OS):** Quantum OS XN Home Edition. A 32-bit legacy consumer operating system that physically cannot utilize the 4 GB of RAM, lacking all enterprise networking tools. A deeply insulting software limitation for a $4,000 dual-hard drive rig.
 
 Part 2: The "Limbo" Software (The Manila Envelope)
 

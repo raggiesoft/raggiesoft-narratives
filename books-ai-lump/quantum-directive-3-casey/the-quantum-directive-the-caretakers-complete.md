@@ -396,7 +396,7 @@ I smiled, pulling the comforter up a little higher over her shoulders. The stres
 
 ## Chapter 3: The National Zoo
 
-### Part 1: The Connecticut Avenue Bypass & The
+### Part 1: The Connecticut Avenue Bypass & The "Air" Problem
 
 **Date:** 1995-07-01 at 09:00 America/New_York
 
@@ -5367,7 +5367,7 @@ A sleek black luxury sedan was parked in the driveway of the property. A man in 
 
 "I prefer to test my deployment routes manually," Cassandra replied smoothly, shaking his hand. "This is my brother David, my sister Casey, and Liz. Let's see the property."
 
-Marcus nodded, pulling out his keys. "It's a beautiful property—a sprawling, 3,800-square-foot Pacific Northwest rambler situated right on the edge of the Quantum campus. The seller currently has it listed for \$745,000. However, I need to be completely transparent: because it is dangerously underpriced during a massive Eastside tech money surge, a bidding war is absolutely guaranteed."
+Marcus nodded, pulling out his keys. "It's a beautiful property—a sprawling, 3,800-square-foot Pacific Northwest rambler situated right on the edge of the Quantum campus. The seller currently has it listed for $745,000. However, I need to be completely transparent: because it is dangerously underpriced during a massive Eastside tech money surge, a bidding war is absolutely guaranteed."
 
 He unlocked the front door and pushed it open, wincing slightly as he looked at the narrow entryway and the sunken living room. "Ms. Vance, I must warn you, the current layout is entirely inaccessible for your chair."
 
@@ -5391,7 +5391,7 @@ Marcus nodded slowly, processing the aggressive play. "Waiving the inspection wi
 
 "I am willing to put in a cash offer for one million dollars right now," Cassandra countered, setting her baseline.
 
-Marcus shook his head apologetically. "It won't be enough, Ms. Vance. I've run the math, and the winning bid will need to clear at least \$1.1 million. I was preparing to suggest we draft a highly competitive offer at \$1.15 million to win by a safe, calculated margin."
+Marcus shook his head apologetically. "It won't be enough, Ms. Vance. I've run the math, and the winning bid will need to clear at least $1.1 million. I was preparing to suggest we draft a highly competitive offer at $1.15 million to win by a safe, calculated margin."
 
 Cassandra stared at the agent for a fraction of a second. She looked at the house, then looked at me, Casey, and Liz standing securely by her side.
 
@@ -5399,7 +5399,7 @@ Cassandra stared at the agent for a fraction of a second. She looked at the hous
 
 She pulled her cell phone from her purse, her tone turning devastatingly corporate.
 
-"Rewrite the contract, Marcus," Cassandra ordered, initiating a preemptive financial strike. "Submit a bid for \$1.5 million—more than double their original asking price. It will be executed via a single, unencumbered wire transfer from a liquid Quantum holding account. Go vaporize the competition and cancel the open house."
+"Rewrite the contract, Marcus," Cassandra ordered, initiating a preemptive financial strike. "Submit a bid for $1.5 million—more than double their original asking price. It will be executed via a single, unencumbered wire transfer from a liquid Quantum holding account. Go vaporize the competition and cancel the open house."
 
 Marcus stared at her, utterly speechless at the sheer, overwhelming financial weight of the nuclear strike she had just authorized. He finally swallowed hard and nodded. "Yes, ma'am. I'll have the sellers sign the paperwork within hours."
 
@@ -5431,7 +5431,7 @@ Marcus didn't even offer us coffee. He practically sprinted to his desk, booted 
 
 "Let's review the terms to ensure the legal framework is absolute," Cassandra said, wheeling herself directly up to his desk to oversee the drafting process.
 
-"Purchase price, \$1,500,000," Marcus read aloud, typing rapidly. "Earnest money... let's set it high to show absolute intent. One hundred thousand dollars, held in escrow."
+"Purchase price, $1,500,000," Marcus read aloud, typing rapidly. "Earnest money... let's set it high to show absolute intent. One hundred thousand dollars, held in escrow."
 
 "Done," Cassandra agreed without blinking.
 
@@ -5489,7 +5489,7 @@ Casey let out a massive, uncontained squeal of excitement, throwing her arms aro
 
 "So what happens now?" Liz asked, finally cutting into her steak. "Do they just mail you the keys?"
 
-"Not quite, but because we utilized a cash strike, the timeline is radically accelerated," Cassandra explained, effortlessly shifting into logistical mode to break down the real estate mechanics for us. "The immediate next step happens tomorrow morning. I have to fund the escrow account to legally lock the contract. I will contact the priority desk at Quantum Employees Federal Credit Union and authorize an immediate, \$100,000 wire transfer directly to the title company."
+"Not quite, but because we utilized a cash strike, the timeline is radically accelerated," Cassandra explained, effortlessly shifting into logistical mode to break down the real estate mechanics for us. "The immediate next step happens tomorrow morning. I have to fund the escrow account to legally lock the contract. I will contact the priority desk at Quantum Employees Federal Credit Union and authorize an immediate, $100,000 wire transfer directly to the title company."
 
 She set her water glass down, ticking through the remaining steps on her fingers. "Normally, this is where a bank would demand an appraisal and loan underwriting, which takes a month. We are bypassing all of that. The only thing the title company has to do is verify the legal deed and ensure the seller doesn't have any hidden liens or unpaid taxes attached to the property. Because I am paying cash and waived the inspection, the only limiting factor is how fast the title company can process the paperwork. We will likely close and have the physical keys in our hands in less than fourteen days."
 
@@ -10074,7 +10074,7 @@ The heavy, articulated TAPS Express 564 bus hissed to a smooth halt at the Overl
 
 Cassandra rolled off the bus, pulling her coat tighter against the brisk January evening. She didn't need to call a car or wait for a shuttle. She wheeled herself effortlessly across the crosswalk at 156th Avenue NE, leaving the massive footprint of the Quantum campus behind her. She navigated down the wide, tree-lined sidewalk of NE 40th Street, enjoying the quiet neighborhood tranquility before making a final left onto 159th Avenue NE.
 
-Her destination was the sprawling, single-story Pacific Northwest rambler she had ruthlessly acquired for \$1.5 million in cash a decade ago. It had been gutted to the studs to feature commercial-grade ADA accessibility and enterprise-level Quantum networking, but tonight, it was simply home.
+Her destination was the sprawling, single-story Pacific Northwest rambler she had ruthlessly acquired for $1.5 million in cash a decade ago. It had been gutted to the studs to feature commercial-grade ADA accessibility and enterprise-level Quantum networking, but tonight, it was simply home.
 
 The moment she unlocked the front door, the quiet evening evaporated.
 
@@ -11084,11 +11084,11 @@ Senator Thomas froze, his mouth slightly open as he stared at the verified bank 
 
 A new document popped up on the high-definition monitors.
 
-"Senator Thomas, according to public Federal Election Commission filings and congressional travel disclosures from FY2013, your office expensed \$142,000 in 'fact-finding delegations' to five-star resorts in St. Thomas, billed directly to political action committees and partially subsidized by taxpayer funds."
+"Senator Thomas, according to public Federal Election Commission filings and congressional travel disclosures from FY2013, your office expensed $142,000 in 'fact-finding delegations' to five-star resorts in St. Thomas, billed directly to political action committees and partially subsidized by taxpayer funds."
 
 Senator Thomas’s face flushed a deep, panicked crimson.
 
-"By contrast," Cassandra added, turning her gaze toward Chairman Hayes, "Chairman Hayes has maintained a 100% itemized, publicly audited travel log for fourteen years, accounting for every single \$2.25 Metro fare out of his own pocket."
+"By contrast," Cassandra added, turning her gaze toward Chairman Hayes, "Chairman Hayes has maintained a 100% itemized, publicly audited travel log for fourteen years, accounting for every single $2.25 Metro fare out of his own pocket."
 
 Chairman Hayes leaned back in his leather chair, a subtle, highly satisfied smile touching his lips.
 

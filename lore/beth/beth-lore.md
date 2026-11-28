@@ -60,7 +60,7 @@ Because her independent walking range is extremely limited, Beth is an ambulator
 
 **The Rebellion: Total Independence & Generational Wealth**
 
-- **The Dual SSA Ambush & Asset Refusal:** Upon graduating from Northwood High School, the special education system attempted to force both twins into the government machine. The system expected him to be swallowed by the same SSI bureaucracy, income limits, and resource caps. Accepting government aid would mean neither twin could ever hold more than \$2,000 in assets. Because they were born into generational wealth, this would legally strip them of their family's money and shatter Beth's ability to monetize her web architecture empire.
+- **The Dual SSA Ambush & Asset Refusal:** Upon graduating from Northwood High School, the special education system attempted to force both twins into the government machine. The system expected him to be swallowed by the same SSI bureaucracy, income limits, and resource caps. Accepting government aid would mean neither twin could ever hold more than $2,000 in assets. Because they were born into generational wealth, this would legally strip them of their family's money and shatter Beth's ability to monetize her web architecture empire.
 
 - **The Guardianship Denial:** The family united to reject the system. Jake officially assumed all uncompensated, full-time caregiving duties for Beth, proving his absolute physical capability and negating the state's claim of his incompetence. By doing this, they both bypassed the Medicaid trap, retaining their full legal personhood, financial autonomy, and freedom.
 

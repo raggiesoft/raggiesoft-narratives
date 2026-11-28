@@ -1898,9 +1898,9 @@ For the first time, Mrs. DeMarco allowed a full, if fleeting, smile. "Your abdic
 
 As they left her office, stepping back into the lunchtime roar, both Morgan and Ben felt a little lighter. Josh Riley’s sexually suggestive thoughts about them working together, had he voiced them, would have seemed even more ridiculous now. Their "teamwork" by the dumpsters hadn't been about secret trysts; it had been about shared misery leading to an unexpected, shared desire for something better. Josh could have the dumpsters, the grease traps, and the infamy. Morgan McAllister and Ben Carter were aiming for a future that smelled a whole lot sweeter.
 
-### Part 4: A Different Kind of \ & A Quiet Understanding
+### Part 4: A Different Kind of 'The Talk' & A Quiet Understanding
 
-#### A Different Kind of \
+#### A Different Kind of "The Talk"
 
 The first week of freshman year at Northwood High had been a whirlwind for Alex Miller and Chloé Mason. By Saturday morning of that first weekend after school started, it was undeniable to all four parents – James and Emily Miller, and Thomas and Sophie Mason – that Alex and Chloé’s nightly platonic bed-sharing, born from Alex’s nightmare on Labor Day weekend, was becoming their new, comforting norm. The constant companionship clearly brought both fourteen-year-olds immense security as they navigated the overwhelming new world of high school.
 
@@ -4166,7 +4166,7 @@ The main throng of students had long since departed, the last school bus groanin
 
 Senior Josh Riley leaned against a graffiti-scarred brick wall, his posture one of profound, four-year-honed resignation. He knew his fate. The clock on his battered watch read 2:13 PM. Any minute now. He idly kicked at a loose pebble, the faint, ever-present aroma of "eau de dumpster" clinging to him like a second skin.
 
-A hesitant figure approached, a freshman by the looks of his new backpack and utterly terrified expression. The boy clutched a crumpled piece of paper – likely a hastily scrawled reminder of his lunchtime sentencing. It was young Mr. Henderson, fresh from his debut performance in "The Penis Game," attempt \#316.
+A hesitant figure approached, a freshman by the looks of his new backpack and utterly terrified expression. The boy clutched a crumpled piece of paper – likely a hastily scrawled reminder of his lunchtime sentencing. It was young Mr. Henderson, fresh from his debut performance in "The Penis Game," attempt #316.
 
 "Uh… is this… where you wait for…?" Henderson Jr. mumbled, his voice barely audible. He wrinkled his nose, subtly at first, then more obviously as he got closer to Josh. "What *is* that smell?"
 
@@ -4326,7 +4326,7 @@ When the bell finally rang, and Chloé appeared in the doorway, she saw Alex and
 
 ## The Fork in the Road
 
-### The \
+### The 'What's Next?' Meeting
 
 The fall of their senior year at Northwood High was a pressure cooker of college applications, SAT scores, and the constant, looming question of "what's next?" For Alex and Chloé, the question was even more complex. It wasn't just about which college to choose; it was about how, or if, their inseparable unit could survive its first real encounter with the logistical realities of the adult world.
 
@@ -5644,7 +5644,7 @@ Alex stared at the screen, at the tangible, undeniable proof of her plan, of her
 
 ***
 
-#### Vera's \
+#### Vera's "Rescue" Mission
 
 The video call with Chloé left Alex with a profound, secret hope. For the first time in months, he had a concrete, tangible end date for his misery: Christmas break. The knowledge that Chloé was coming home for good was a small, bright flame he carefully guarded in the cold landscape of his life with Vera.
 
@@ -6492,7 +6492,7 @@ As Vera was scanning the other route signs along the street, her gaze also fell 
 
 A quick, sharp glance at Alex told her he hadn't missed the Lynnwood bus sign either. She could see the desperate longing in his eyes, the almost imperceptible shift in his posture as if he might try to propel his wheelchair towards it. Panic, swift and decisive, spurred Vera into action. The last thing she needed was Alex getting any ideas about contacting that Chloé girl. Her "surprise" for Aunt Carol depended on Alex being compliant and, more importantly, *with her*.
 
-"Aunt Carol said something about Kent... Ah, there it is!" Vera exclaimed with forced brightness, deliberately turning Alex's wheelchair away from the Lynnwood bus and pointing towards a coach further down the block signed \#150 KENT/SOUTHCENTER. "Come on, Alex, *this* is us. Just one more little ride, sweetie, and then our big surprise!" She pushed his chair forward quickly, hoping he hadn't fully registered the Lynnwood sign or, if he had, that his current state of exhaustion and dependence would prevent him from making a scene.
+"Aunt Carol said something about Kent... Ah, there it is!" Vera exclaimed with forced brightness, deliberately turning Alex's wheelchair away from the Lynnwood bus and pointing towards a coach further down the block signed #150 KENT/SOUTHCENTER. "Come on, Alex, *this* is us. Just one more little ride, sweetie, and then our big surprise!" She pushed his chair forward quickly, hoping he hadn't fully registered the Lynnwood sign or, if he had, that his current state of exhaustion and dependence would prevent him from making a scene.
 
 Alex felt a wave of despair wash over him, even deeper now that he suspected Vera had also seen the Lynnwood sign and was actively preventing him from even considering it. He was so close. Lynnwood was *right there*. But he was powerless. With a heavy heart and a sense of crushing reluctance, he allowed Vera to maneuver his wheelchair along the sidewalk towards the Kent-bound bus, each push a physical manifestation of her control, taking him further away from his only hope.
 
@@ -7685,9 +7685,9 @@ She looked at him, her gaze direct and full of the unwavering, platonic love tha
 
 He looked at her, at the absolute sincerity in her eyes. She understood. She always understood. She wasn't just his best friend; she was his teammate. And for the first time, the thought of the ceremony in a few weeks didn't feel like a terrifying echo of the past, but like the first step into a safer, stronger future, with his captain right by his side.
 
-### Part 3: A Quiet \ & A Shared Secret
+### Part 3: A Quiet 'I Do' & A Shared Secret
 
-#### A Quiet \
+#### A Quiet "I Do"
 
 The first week of the new year in Virginia was a period of intense, focused planning. After the trauma of Kent and the quiet healing of the holidays, the path forward for Alex and Chloé was clear. Their new semester, together, as CCHR students was about to begin. But first, there was one final, practical matter to attend to.
 

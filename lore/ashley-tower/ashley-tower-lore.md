@@ -41,7 +41,7 @@
 
 - **Casualties:** Exactly 200 lives were lost, primarily guests trapped in the Crown Room and the upper residential tiers above the fire line.
 
-- **Financial Impact:** The fire caused an estimated \$14 million in structural damages.
+- **Financial Impact:** The fire caused an estimated $14 million in structural damages.
 
 - **The Legacy:** The disaster became a global wake-up call for high-rise engineering, fundamentally altering how architects approached fire suppression, electrical load balancing, and emergency egress.
 
@@ -50,7 +50,7 @@ When the heavy bronze doors of Sterling Plaza officially opened to the public in
 
 The tower was initially scheduled for its highly anticipated ribbon-cutting on the weekend of December 21st, 1974, set to culminate in a massive, building-wide Christmas celebration for Meridian City's elite. However, five days earlier, on **December 16, 1974**, the nation watched in horror as San Francisco’s newly completed **Crown Point Tower**—a beacon of modern design often compared to the Pacific Commerce Building—suffered a catastrophic, unstoppable electrical fire on its dedication night.
 
-The aftermath of the Crown Point disaster was a sobering wake-up call for modern engineers. The inferno caused a staggering \$14 million in structural damages, but the human toll was devastating: exactly 200 lives were lost, with victims trapped in the Promenade Room and the upper residential tiers above the fire line.
+The aftermath of the Crown Point disaster was a sobering wake-up call for modern engineers. The inferno caused a staggering $14 million in structural damages, but the human toll was devastating: exactly 200 lives were lost, with victims trapped in the Promenade Room and the upper residential tiers above the fire line.
 
 
 Arthur Sterling watched the news footage of the Crown Point tragedy from Meridian City, and his mind immediately went to his own household. By the 1960s and 70s, two of his children—a son and a daughter—were already full-time wheelchair users.
@@ -130,23 +130,23 @@ Movie Name: Crown Point. It is a based on a true story docudrama.
 
 ### The Actual Disaster Damages (1974)
 
-- **The Sunk Cost:** The original construction of the 135-story Crown Point Tower cost the developers an estimated **\$225 million**.
+- **The Sunk Cost:** The original construction of the 135-story Crown Point Tower cost the developers an estimated **$225 million**.
 
 - **The Deconstruction Nightmare:** You cannot simply implode a compromised 135-story burnt-out husk in the middle of a dense urban grid. San Francisco ordered a controlled, piece-by-piece deconstruction that took two years and cost tens of millions of dollars just to execute safely.
 
-- **The Total Financial Ruin:** When factoring in the total loss of the asset, the massive deconstruction logistics, the clearing of the lot for the memorial park, and the resulting civil payouts for the 200 victims, the true economic damages of the Crown Point disaster exceeded **\$450 million** in 1974 dollars.
+- **The Total Financial Ruin:** When factoring in the total loss of the asset, the massive deconstruction logistics, the clearing of the lot for the memorial park, and the resulting civil payouts for the 200 victims, the true economic damages of the Crown Point disaster exceeded **$450 million** in 1974 dollars.
 
-- **The 2021 Reality:** Adjusted for inflation, that means the developers and their insurers were staring down a catastrophic loss equivalent to **\$2.4 billion** in February 2021. It utterly annihilated the corporate entity, completely justifying why the lead developer ended up bankrupt in a federal penitentiary.
+- **The 2021 Reality:** Adjusted for inflation, that means the developers and their insurers were staring down a catastrophic loss equivalent to **$2.4 billion** in February 2021. It utterly annihilated the corporate entity, completely justifying why the lead developer ended up bankrupt in a federal penitentiary.
 
-### Preserving the Easter Egg: The \$14 Million
+### Preserving the Easter Egg: The $14 Million
 
-Now, the \$14 million figure is strictly, exclusively tied to Arthur Sterling's cinematic intervention.
+Now, the $14 million figure is strictly, exclusively tied to Arthur Sterling's cinematic intervention.
 
-- **The Film Budget:** When every major Hollywood studio rejected the raw, terrifying script for the docudrama, Arthur Sterling formed his own independent production company. He entirely bankrolled the project, writing a massive, blank check for exactly **\$14 million**.
+- **The Film Budget:** When every major Hollywood studio rejected the raw, terrifying script for the docudrama, Arthur Sterling formed his own independent production company. He entirely bankrolled the project, writing a massive, blank check for exactly **$14 million**.
 
-- **The Meta Layer:** This keeps your Easter egg perfectly intact (as \$14 million was the actual record-breaking co-production budget for Irwin Allen's *The Towering Inferno* in 1974) without undercutting the massive scale of the in-universe tragedy.
+- **The Meta Layer:** This keeps your Easter egg perfectly intact (as $14 million was the actual record-breaking co-production budget for Irwin Allen's *The Towering Inferno* in 1974) without undercutting the massive scale of the in-universe tragedy.
 
-- **The 2021 Value of the Film:** Adjusted for inflation, Arthur spent roughly **\$74.7 million** of his own money to turn the *Crown Point* picture into a global public service announcement. It was a massive, unprecedented vanity project—not for ego, but for safety.
+- **The 2021 Value of the Film:** Adjusted for inflation, Arthur spent roughly **$74.7 million** of his own money to turn the *Crown Point* picture into a global public service announcement. It was a massive, unprecedented vanity project—not for ego, but for safety.
 
 
 In the years following the San Francisco disaster, a pair of ambitious filmmakers drafted a script based on the tragedy, determined to expose the lethal cost of corporate negligence. However, every major Hollywood studio refused to touch it. The subject matter was considered too raw, the required special effects budget was astronomical, and the studios feared massive backlash from the powerful real estate lobbies.
@@ -154,7 +154,7 @@ In the years following the San Francisco disaster, a pair of ambitious filmmaker
 
 Out of options, the filmmakers traveled to Meridian City to pitch the project to the only real estate magnate who had publicly condemned the Crown Point Developers: Arthur Sterling.
 
-Arthur read the script and immediately recognized its potential not just as a blockbuster, but as a global, multi-million-dollar public service announcement. He didn't just agree to help; he formed an independent production company and entirely bankrolled the massive \$14 million budget himself.
+Arthur read the script and immediately recognized its potential not just as a blockbuster, but as a global, multi-million-dollar public service announcement. He didn't just agree to help; he formed an independent production company and entirely bankrolled the massive $14 million budget himself.
 
 
 Arthur demanded absolute technical accuracy regarding the physics of the fire and the cascade failures of the electrical grid. To achieve this, he opened the doors of his 135-story vertical city to the production crew:

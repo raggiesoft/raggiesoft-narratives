@@ -73,7 +73,7 @@ interrogate_terminal() {
     fi
     echo ""
     echo "1) Wait 2 hours in the waiting room"
-    echo "2) Eat at terminal diner (-\$12, +40 Food, -1hr)"
+    echo "2) Eat at terminal diner (-$12, +40 Food, -1hr)"
     echo "3) Leave terminal"
     echo ""
     read -rp "Select an action: " choice
@@ -109,11 +109,11 @@ interrogate_terminal() {
 visit_store() {
     print_header
     echo "--- TRUCK STOP & CONVENIENCE STORE ---"
-    echo "1) Fill gas tank (-\$45, +100% Fuel)"
-    echo "2) Buy junk food & soda (-\$6, +25 Food, -5 Sleep)"
-    echo "3) Rent cheap motel room (-\$40, +100% Sleep, +6 hrs)"
+    echo "1) Fill gas tank (-$45, +100% Fuel)"
+    echo "2) Buy junk food & soda (-$6, +25 Food, -5 Sleep)"
+    echo "3) Rent cheap motel room (-$40, +100% Sleep, +6 hrs)"
     if ! ${HAS_CD}; then
-        echo "4) Buy 'The Paper Wall - Static & Silence (2-CD Set)' (-\$18)"
+        echo "4) Buy 'The Paper Wall - Static & Silence (2-CD Set)' (-$18)"
     fi
     echo "5) Return to car"
     echo ""
@@ -205,7 +205,7 @@ drive_highway() {
             if (( roll < 25 )); then
                 echo ""
                 echo "[!] Red and blue lights in the rearview mirror."
-                echo "    Pulled over for speeding. (\$120 fine, +45 minutes delay)"
+                echo "    Pulled over for speeding. ($120 fine, +45 minutes delay)"
                 CASH=$(( CASH - 120 ))
                 trip_hours=$(( trip_hours + 1 ))
                 SPEEDING_TICKETS=$(( SPEEDING_TICKETS + 1 ))
@@ -217,7 +217,7 @@ drive_highway() {
             if (( roll < 55 )); then
                 echo ""
                 echo "[!] State Trooper radar trap triggered at high speed!"
-                echo "    Heavy citation issued. (\$210 fine, +1 hour delay)"
+                echo "    Heavy citation issued. ($210 fine, +1 hour delay)"
                 CASH=$(( CASH - 210 ))
                 trip_hours=$(( trip_hours + 1 ))
                 SPEEDING_TICKETS=$(( SPEEDING_TICKETS + 1 ))

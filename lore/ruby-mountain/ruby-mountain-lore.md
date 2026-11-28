@@ -81,7 +81,7 @@ The Vance-Whitaker family operates on a strict, unspoken hierarchy of responsibi
 
 - **The 1999 Retrofit (The Fuel):** During the renovation, Morgan gutted the coal grates. Coal was dirty, inefficient, and required constant manual labor that could put the family at risk during a crisis. She retrofitted the massive iron doors with high-pressure, forced-draft diesel atomizers.
 
-- **The Operation:** The boiler is fed by two 10,000-gallon subterranean tanks of \#2 heating oil, safely buried beneath the frost line. The system uses a digital Programmable Logic Controller (PLC) to inject a highly pressurized mist of diesel directly into the firebox, igniting it to instantly flash the water into superheated steam. It is clean, violently powerful, and completely automated.
+- **The Operation:** The boiler is fed by two 10,000-gallon subterranean tanks of #2 heating oil, safely buried beneath the frost line. The system uses a digital Programmable Logic Controller (PLC) to inject a highly pressurized mist of diesel directly into the firebox, igniting it to instantly flash the water into superheated steam. It is clean, violently powerful, and completely automated.
 
 
 - **Zero Tolerance for Violence Humor:** Because the Keep is a designated physical and psychological sanctuary, the pack never uses threats of physical violence as a punchline. Casual phrases like "she'll kill us" or "she'll hit us" are completely excised from their vocabulary.
@@ -90,7 +90,7 @@ The Vance-Whitaker family operates on a strict, unspoken hierarchy of responsibi
 
 
 
-Vanessa secures a turnkey commercial medical suite for 48 hours, and it costs her exactly \$0.00.
+Vanessa secures a turnkey commercial medical suite for 48 hours, and it costs her exactly $0.00.
 
 - **The Target:** She finds a commercial real estate listing for a defunct urgent care clinic in an Anacortes business park. The property management company is desperate to lease it.
 
@@ -533,7 +533,7 @@ Operating a 100-year-old historic fortress at 7,000 feet with an operational 190
 
 The Vanguard does not rely on verbal warnings. The policy is embedded into the financial and legal bedrock of the resort.
 
-- **Individual Guests:** Before a high-society guest can even access the payment gateway to book a \$2,000-a-night suite, they encounter a hard-stop on the booking portal. They must manually check a legally binding agreement box acknowledging the strict "No Pets / No Emotional Support Animals (ESAs)" policy.
+- **Individual Guests:** Before a high-society guest can even access the payment gateway to book a $2,000-a-night suite, they encounter a hard-stop on the booking portal. They must manually check a legally binding agreement box acknowledging the strict "No Pets / No Emotional Support Animals (ESAs)" policy.
 
 - **Event Coordinators:** If a corporation or family is booking the Keep for a massive summer event, the policy is explicitly written into the indemnity clause of the master contract. Sarah and Ashleigh (the pack's legal engine) drafted the clause so tightly that if a guest smuggles a pet, the *event coordinator* is held financially liable for the breach.
 
@@ -578,20 +578,20 @@ The Anacortes Ferry Terminal sits on the far western edge of Skagit County. The 
 
 - **The Distance:** It is approximately 94 miles one-way from the ferry docks to the hidden entrance at Milepost 138.
 
-- **The Taxi Rate (2003 Skagit County Average):** A standard meter rate is roughly \$2.00 per mile.
+- **The Taxi Rate (2003 Skagit County Average):** A standard meter rate is roughly $2.00 per mile.
 
 - **The Deadhead Surcharge:** A taxi company in Anacortes or Mount Vernon operates on local volume. Driving 94 miles into a desolate national park means the driver is guaranteed to return completely empty. No dispatch company will authorize this trip without a mandatory "deadhead" fee—effectively charging the passenger for the round-trip mileage to compensate for the driver's two hours of lost, un-fare-able transit time on the way back.
 
 
-**Target:** The Lower Motorpool (Milepost 138) **The Cost:** \* 94 miles x \$2.00 = \$188 (One-way)
+**Target:** The Lower Motorpool (Milepost 138) **The Cost:** \* 94 miles x $2.00 = $188 (One-way)
 
-- Deadhead Return Fee: \$188
+- Deadhead Return Fee: $188
 
-- Out-of-Zone Surcharge/Tip: \$40
+- Out-of-Zone Surcharge/Tip: $40
 
-- **Total Estimated Fare: \$416 upfront.**
+- **Total Estimated Fare: $416 upfront.**
 
-**The Physical Intercept:** Vanessa does not have \$400 to drop on a cab ride. But even if she managed to scam the cash, the taxi would never reach the hotel lobby.
+**The Physical Intercept:** Vanessa does not have $400 to drop on a cab ride. But even if she managed to scam the cash, the taxi would never reach the hotel lobby.
 
 The taxi would successfully navigate SR-20, pass Diablo Lake, and make the turnoff at Milepost 138, descending into the Lower Motorpool. And that is exactly where the journey ends.
 
@@ -602,13 +602,13 @@ If Vanessa's taxi pulled into the Motorpool, Emma would simply cross her arms, s
 
 **Target:** Diablo Lake Vista / WSDOT Gate (Milepost 134) **The Cost:**
 
-- 90 miles x \$2.00 = \$180 (One-way)
+- 90 miles x $2.00 = $180 (One-way)
 
-- Deadhead Return Fee: \$180
+- Deadhead Return Fee: $180
 
-- "Winter Mountain" Hazard Pay: \$100+
+- "Winter Mountain" Hazard Pay: $100+
 
-- **Total Estimated Fare: \$460+ (If a driver even accepts the dispatch).**
+- **Total Estimated Fare: $460+ (If a driver even accepts the dispatch).**
 
 **The Physical Intercept:** In the dead of winter, this trip is virtually impossible to commission. Standard lowland taxis in 2003 are rear-wheel-drive Holt Sentinels or Summit Gazelles. A Skagit County cab driver is not going to risk his vehicle, his livelihood, or his life driving a rear-wheel sedan up a freezing, black-ice-covered mountain pass.
 

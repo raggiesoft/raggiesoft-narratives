@@ -4,7 +4,7 @@
 
 Part 1: The Hardware (The Desktop Replacement)
 
-A monolithic, 9.5-pound, brushed-aluminum and piano-black powerhouse. Costing roughly \$4,200, it was the absolute bleeding edge of mobile architecture in late 2006.
+A monolithic, 9.5-pound, brushed-aluminum and piano-black powerhouse. Costing roughly $4,200, it was the absolute bleeding edge of mobile architecture in late 2006.
 
  **CPU:** Intel Core 2 Duo T7600 (2.33 GHz, 4MB L2 Cache)
 
@@ -18,7 +18,7 @@ A monolithic, 9.5-pound, brushed-aluminum and piano-black powerhouse. Costing ro
 
  **Optical Drive:** Slot-loading Blu-Ray ROM / DVD±RW Burner combo
 
- **The Bottleneck (Pre-Installed OS):** Quantum OS XN Home Edition. A 32-bit legacy consumer operating system that physically cannot utilize the 4 GB of RAM, lacking all enterprise networking tools. A deeply insulting software limitation for a \$4,000 dual-hard drive rig.
+ **The Bottleneck (Pre-Installed OS):** Quantum OS XN Home Edition. A 32-bit legacy consumer operating system that physically cannot utilize the 4 GB of RAM, lacking all enterprise networking tools. A deeply insulting software limitation for a $4,000 dual-hard drive rig.
 
 Part 2: The "Limbo" Software (The Manila Envelope)
 

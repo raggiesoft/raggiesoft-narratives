@@ -678,13 +678,13 @@ Jessica set the paper down, the clink of cutlery and low hum of conversation wra
 
 ***
 
-#### Part 4: The \\#60 into Town
+#### Part 4: The #60 into Town
 
 Morning broke clear and bright, the kind of late‑summer day that made the bay look like polished glass. Jessica had been home long enough now for the Expo’s noise to fade into the background, replaced by the steady rhythm of island life.
 
 Today, they were all going into Newport for breakfast — the whole Taylor crew. Which meant, for the first time in years, Jessica and Dorian would be riding the bus together again.
 
-At the corner stop, the green‑and‑white \#60 rumbled into view, brakes sighing as it pulled up. The driver — a man with a weathered face and a Boston Beacons cap pulled low — caught sight of them in the mirror, then rose from his seat and walked to the back door.
+At the corner stop, the green‑and‑white #60 rumbled into view, brakes sighing as it pulled up. The driver — a man with a weathered face and a Boston Beacons cap pulled low — caught sight of them in the mirror, then rose from his seat and walked to the back door.
 
 “Two lifts today,” he said with a grin, swinging the door open.
 
@@ -700,19 +700,19 @@ By the time they crossed into Newport, the city was waking up in earnest. Sidewa
 
 Jessica felt a grin tug at her face. She’d missed this — the easy chatter of strangers, the jolt of the bus over a pothole, the way the driver waved to every other bus they passed.
 
-Today wasn’t about the Expo, or the headlines, or the knocks at the door. Today was about breakfast in town, the clink of coffee cups, and the comfort of being just another family on the \#60 — two wheelchairs, four sisters, one easy morning.
+Today wasn’t about the Expo, or the headlines, or the knocks at the door. Today was about breakfast in town, the clink of coffee cups, and the comfort of being just another family on the #60 — two wheelchairs, four sisters, one easy morning.
 
 ***
 
 #### Part 5: The Creamery Along the Wall
 
-The \#60 carried them south along West Main Road, the morning sun glinting off shop windows and the occasional passing car. Jessica sat in the securement spot beside Dorian, the rest of the family scattered in nearby seats, the low murmur of conversation blending with the steady hum of the engine.
+The #60 carried them south along West Main Road, the morning sun glinting off shop windows and the occasional passing car. Jessica sat in the securement spot beside Dorian, the rest of the family scattered in nearby seats, the low murmur of conversation blending with the steady hum of the engine.
 
 At One Mile Corner, the bus crossed from Middletown into Newport. West Main Road became Broadway — no more Route 114 designation — and the storefronts grew closer together: diners with steaming windows, corner markets, and the occasional bar still shuttered from the night before.
 
 At the end of Broadway, the driver swung right onto Marlborough Street, then right again onto America’s Cup Avenue, the harbor flashing briefly between buildings. Moments later, the bus turned left into the Newport Gateway Center.
 
-They rolled off together, the air here sharper with salt and the faint tang of diesel from idling coaches. The \#67 Bellevue Avenue was already waiting in its bay. Smaller and quieter than the \#60, it wound its way past shops, cafés, and the library’s stone façade.
+They rolled off together, the air here sharper with salt and the faint tang of diesel from idling coaches. The #67 Bellevue Avenue was already waiting in its bay. Smaller and quieter than the #60, it wound its way past shops, cafés, and the library’s stone façade.
 
 When the driver glanced back in the mirror, Jessica called out without hesitation, “We’re going to the Creamery along the wall — can you drop us at Almacs?”
 
@@ -740,7 +740,7 @@ As they settled in, Jessica caught her reflection in the window — her Expo pho
 
 #### Part 6: Breakfast at the Creamery
 
-The menus were the same laminated sheets Jessica remembered, the corners softened from years of use. The specials board still leaned slightly to one side, chalk letters announcing *Blueberry Pancakes — \$3.99* and *Johnnycakes with Maple Syrup*.
+The menus were the same laminated sheets Jessica remembered, the corners softened from years of use. The specials board still leaned slightly to one side, chalk letters announcing *Blueberry Pancakes — $3.99* and *Johnnycakes with Maple Syrup*.
 
 They slid into a corner booth — Jessica and Dorian on the aisle side, the others crowding in opposite. The tabletop was cool under her hands, the Formica pattern unchanged since the summer she’d worked here, balancing trays and refilling coffee cups for the morning regulars.
 
@@ -820,7 +820,7 @@ The 174 rumbled north through the early Seattle light, its diesel engine humming
 
 Jessica Taylor was part of the furniture here, rolling aboard at her usual stop in her power wheelchair and greeting the driver by name. The bus was an older model with no ramp, so the driver would swing open the door and lower the full steel lift with a hydraulic hiss. She’d wheel onto the platform, ride it up, and glide down the aisle to her spot near the front, where she could still call back to the others. From there, she’d join in the conversation—teasing a Quantum colleague about a patch that ballooned into a rewrite or offering a quick fix to an Aurora dev wrestling with a stubborn cross-platform bug. She had a knack for cutting through the noise, and everyone knew it.
 
-Her commute was a multi-step process. As the bus rolled into Pioneer Square, the 174 would hiss to a stop in front of the Colman-Harrington Building. Jessica would roll off onto the lift, wave to the Aurora crew heading upstairs, and wheel over to the eastbound stop for the \#253 bus across the SR 520 Bridge. From there, it was the NE 40th Street Freeway Station, the Overlake Transit Center, and the Quantum shuttle to her office.
+Her commute was a multi-step process. As the bus rolled into Pioneer Square, the 174 would hiss to a stop in front of the Colman-Harrington Building. Jessica would roll off onto the lift, wave to the Aurora crew heading upstairs, and wheel over to the eastbound stop for the #253 bus across the SR 520 Bridge. From there, it was the NE 40th Street Freeway Station, the Overlake Transit Center, and the Quantum shuttle to her office.
 
 The Aurora devs would watch her go, then climb the two stone steps into their building—steps they barely noticed. Inside, they’d take the four flights of stairs to the loft-style top floor, never thinking about the absence of an elevator. Back then, it was just another morning. The buttons from the ’96 protests were tucked away in desk drawers. The idea that those steps, that building, and that bus ride would soon be at the center of a scandal hadn’t crossed anyone’s mind.
 
@@ -868,7 +868,7 @@ The buttons stayed on. The eyes stayed down. And the quiet, stubborn wall betwee
 
 #### Quantum's Alliance
 
-The next day, on the \#253 eastbound bus across the SR 520 Bridge, the Quantum engineers who shared Jessica’s transfer leaned in. They’d heard every word of yesterday’s warning from the Aurora crew.
+The next day, on the #253 eastbound bus across the SR 520 Bridge, the Quantum engineers who shared Jessica’s transfer leaned in. They’d heard every word of yesterday’s warning from the Aurora crew.
 
 “Jess, we’ve been talking,” one said. “If Rothwell’s really sending you an offer, we’re not letting it get past the front desk.”
 
@@ -1995,7 +1995,7 @@ Ryan typed in his login details, his heart pounding. The page loaded instantly. 
 
 "Kelly," he breathed, his voice cracking. "Look."
 
-She leaned in, her eyes widening in disbelief. It was real. There was their regular bi-weekly pay for their part-time work, calculated at an incredible \$50/hour rate. And below it, a line item simply read *New Hire Bonus*—the after-tax amount of their \$50,000 signing bonus.
+She leaned in, her eyes widening in disbelief. It was real. There was their regular bi-weekly pay for their part-time work, calculated at an incredible $50/hour rate. And below it, a line item simply read *New Hire Bonus*—the after-tax amount of their $50,000 signing bonus.
 
 Kelly quickly logged into her own account. The same number stared back at her. Tears welled in her eyes, but these were not tears of being overwhelmed. This was the profound, shuddering relief of true security. This was the opposite of Aurora Systems. This was proof. This was respect made tangible.
 
@@ -2110,7 +2110,7 @@ Ryan leaned forward from the back seat to look at the screen. "Wow, that place l
 
 "How much is it?" Kelly asked.
 
-"Rent is \$1,200 a month," Alex replied.
+"Rent is $1,200 a month," Alex replied.
 
 The twins went silent, the affordability of it shocking them. But Ryan kept reading, his brow furrowing slightly. "Wait... it says 'top floor unit in a classic 1920s brick building.'"
 
@@ -2200,7 +2200,7 @@ Aubrie tends the garden — not of flowers, but of web pages. Her “beds” are
 
 We’re all tech nerds in our own way, but more than that, we’re family. We work, we tease, we bicker, we stay up too late. And we love each other fiercely.
 
-And yes — there’s a \kristyn.sh\ script. It runs every morning, quietly checking in on every module in the suite, just like I check in on every person in the house. It pings Amanda to make sure she’s ready to greet new arrivals. It checks that Bold Firefly’s dashboards are clear, that Glowing Galaxy’s logs are clean, that Aubrie’s greenhouse servers are at the right temperature. It even verifies that Dorian’s mPad is charged and that the Coffee Milk supply is stocked. The output is simple, but it’s my voice:
+And yes — there’s a *kristyn.sh* script. It runs every morning, quietly checking in on every module in the suite, just like I check in on every person in the house. It pings Amanda to make sure she’s ready to greet new arrivals. It checks that Bold Firefly’s dashboards are clear, that Glowing Galaxy’s logs are clean, that Aubrie’s greenhouse servers are at the right temperature. It even verifies that Dorian’s mPad is charged and that the Coffee Milk supply is stocked. The output is simple, but it’s my voice:
 
 \[kristyn.sh\] Good morning. Everyone’s accounted for.
 

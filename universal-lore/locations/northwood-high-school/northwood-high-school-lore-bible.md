@@ -5,20 +5,20 @@
 
 **Mascot:** The Lion (Purple & Gold) 
 
-**I. The Protagonists: The Bennett Twins (Class of \'03)**
+**I. The Protagonists: The Bennett Twins (Class of '03)**
 
 **Biographical Stats**
 
 - **Birthdate:** April 8, 1985 (Newport, RI). Family moved to Virginia
   Beach when they were 2 years old. 
 
-- **Patrick (\"Pat\"):** Born 8:38 PM. Ambulatory with CP/Limp. 
+- **Patrick ("Pat"):** Born 8:38 PM. Ambulatory with CP/Limp. 
 
-- **Nichole (\"Nikki\"):** Born 8:50 PM. Manual Tilt-in-Space Wheelchair
+- **Nichole ("Nikki"):** Born 8:50 PM. Manual Tilt-in-Space Wheelchair
   (**Titan AeroMotion Z-5**). Non-verbal (uses a **VocaLink 3000**). 
 
 - **Nickname Rules:** Patrick is the only one allowed to call her
-  \"Nikki\"; Nichole is the only one allowed to call him \"Pat.\" 
+  "Nikki"; Nichole is the only one allowed to call him "Pat." 
 
 **The Dynamic**
 
@@ -39,7 +39,7 @@
 
 **Address:** 1668 Kempsville Road, Virginia Beach, VA 23464. 
 
-**The \"Asphalt Sea\" (Student Parking)**
+**The "Asphalt Sea" (Student Parking)**
 
 - **Layout:** A massive grid of asphalt directly in front of the main
   building. 
@@ -54,28 +54,28 @@
   the building towers, offering protection from the frequent Virginia
   rain. 
 
-- **The \"One Door\" Protocol:** The main entrance block has multiple
+- **The "One Door" Protocol:** The main entrance block has multiple
   doors. Only the door on the far left (closest to the Main Office)
   remains unlocked during the day to funnel traffic past
   administration. All others are locked. 
 
-**The \"Backstage\" (Bus Loop)**
+**The "Backstage" (Bus Loop)**
 
 - **Visuals:** Located at the rear. Characterized by three brick towers
-  with circular \"porthole\" windows. 
+  with circular "porthole" windows. 
 
-- **The \"Timed\" Doors:** Entrances A, B, and C are
+- **The "Timed" Doors:** Entrances A, B, and C are
   unlocked *only* during active bus unloading (approx. 7:00 AM -- 7:20
   AM). Once buses depart, these lock. Late students must circle the
   entire building. 
 
 - **Stairway A (The Critical Entry):** Buses with wheelchair lifts must
-  drop off here (far right tower) to access the building\'s only
+  drop off here (far right tower) to access the building's only
   elevator. 
 
 **The Conflict Zone (Practice Field)**
 
-- **Usage:** Shared territory for the Marching Band and Driver\'s Ed. 
+- **Usage:** Shared territory for the Marching Band and Driver's Ed. 
 
 - **Visual Confusion:** The asphalt is painted with conflicting
   lines---Blue lines for stadium 10-yard markers, and White lines for
@@ -86,13 +86,13 @@
 
 **The Neighborhood Perimeter (Macgregory Street / Highland Way Fenceline & Lions Way Gate)**
 
-- **Smoker\'s Corner & The Walking-Zone Gate:** Where **Macgregory Street** (`1713 Macgregory St`, historically also nicknamed **Highland Way** adjacent to **The Highlands** neighborhood; Street View refs: `ai-staging/raw-images/characters/katie-nathaniel/northwood_macgregory_st_lions_way_smokers_corner_gate_ref.jpg` & `northwood_macgregory_st_lions_way_smokers_corner_curb_closeup_ref.jpg`) dead-ends directly against the chain-link fenceline bordering **Lions Way**, a narrow pedestrian gate opening in the chain-link fence (right beside a utility pole) lets able-bodied students in Northwood High\'s `1.5-mile` Walking Zone enter and exit campus—including Katie and Nathaniel Prairie\'s maternal cousin **Brittany** (`[INTERNAL LORE ONLY — NEVER SURFACE STREET ADDRESS IN NOVEL PROSE: 5600 Earlton Ct, Virginia Beach, VA 23464]`, reached on foot by exiting her house with a right onto `Earlton Ct` and a left onto `Macgregory St`).
+- **Smoker's Corner & The Walking-Zone Gate:** Where **Macgregory Street** (`1713 Macgregory St`, historically also nicknamed **Highland Way** adjacent to **The Highlands** neighborhood; Street View refs: `ai-staging/raw-images/characters/katie-nathaniel/northwood_macgregory_st_lions_way_smokers_corner_gate_ref.jpg` & `northwood_macgregory_st_lions_way_smokers_corner_curb_closeup_ref.jpg`) dead-ends directly against the chain-link fenceline bordering **Lions Way**, a narrow pedestrian gate opening in the chain-link fence (right beside a utility pole) lets able-bodied students in Northwood High's `1.5-mile` Walking Zone enter and exit campus—including Katie and Nathaniel Prairie's maternal cousin **Brittany** (`[INTERNAL LORE ONLY — NEVER SURFACE STREET ADDRESS IN NOVEL PROSE: 5600 Earlton Ct, Virginia Beach, VA 23464]`, reached on foot by exiting her house with a right onto `Earlton Ct` and a left onto `Macgregory St`).
 
 - **Protocol (`Va. Code § 18.2-371.2` in `1999–2003`):** Because the asphalt turnaround of `Macgregory Street` is a public City of Virginia Beach street *just* outside school property on the residential side of the chain-link fence—and Virginia law in `1999–2003` allowed **18-year-olds** to legally possess and smoke tobacco off school grounds—legally there is **nothing** the SRO (**Officer Whitehead**) can do to stop 18-year-old seniors from smoking on `Macgregory Street` before the `7:15 AM` bell or after the `2:00 PM` dismissal bell. Officer Whitehead stakes out the fenceline watching like a hawk for three things he *can* bust: (1) anyone **under 18** (`14–17-year-olds`) holding or taking an offered cigarette (`underage possession/distribution`), (2) stepping **one inch back inside the chain-link fence** onto school grounds with a lit cigarette, or (3) sneaking out the gate during class hours (`7:15 AM – 2:00 PM` truancy).
 
 - **The Impassable Curb Trap (Zero ADA Curb Cut):** As visible in the zoomed-in `1713 Macgregory St` fenceline view, the narrow concrete walkway through the chain-link gate gap ends at a **sheer, unbroken vertical yellow-painted concrete curb** dropping straight onto `Lions Way` with **zero curb ramp anywhere**. Wheelchairs **physically cannot cross this curb at all**:
-  1. **`/books/katie`**: In 9th and 10th grade (while still walking), Katie and Nathaniel use their dad\'s written walking-zone permission on file in the Main Office to walk through this gate to Brittany\'s house instead of taking the regular yellow bus home. Once Katie and Nate enter their `SwiftChair` power wheelchairs in 11th grade (`October 2001`), **they can no longer cross the `Macgregory Street` curb to go to Brittany\'s house at all**—right as Brittany begins stepping across that exact curb without them and drifting into the wrong crowd.
-  2. **`/books/luna-leo`**: Whenever **Luna and Leo Porter** are invited out to `Smoker\'s Corner` and offered cigarettes, **they have to turn it down** (even though they were going to refuse anyway) because Leo\'s wheelchair **physically cannot cross the uncut curb to reach `Smoker\'s Corner`**, and Luna never leaves her brother behind on the school side of a curb.
+  1. **`/books/katie`**: In 9th and 10th grade (while still walking), Katie and Nathaniel use their dad's written walking-zone permission on file in the Main Office to walk through this gate to Brittany's house instead of taking the regular yellow bus home. Once Katie and Nate enter their `SwiftChair` power wheelchairs in 11th grade (`October 2001`), **they can no longer cross the `Macgregory Street` curb to go to Brittany's house at all**—right as Brittany begins stepping across that exact curb without them and drifting into the wrong crowd.
+  2. **`/books/luna-leo`**: Whenever **Luna and Leo Porter** are invited out to `Smoker\'s Corner` and offered cigarettes, **they have to turn it down** (even though they were going to refuse anyway) because Leo's wheelchair **physically cannot cross the uncut curb to reach `Smoker\'s Corner`**, and Luna never leaves her brother behind on the school side of a curb.
 
 **III. Interior Architecture & Navigation**
 
@@ -105,27 +105,27 @@
 - **Sensory Experience:** High vibration and noise for wheelchair
   users. This is the holding area before the first bell. 
 
-**The \"Forbidden\" Courtyard**
+**The "Forbidden" Courtyard**
 
 - **Visible:** Through the windows at the back of the Commons. It houses
   a bronze Lion statue on a brick pedestal. 
 
 - **Status:** Permanently locked. Following the Columbine massacre
-  (April 1999), this area was deemed a security risk (\"fishbowl\") and
+  (April 1999), this area was deemed a security risk ("fishbowl") and
   is no longer accessible to students. 
 
-**The \"Blue Mile\" (Academic Wing)**
+**The "Blue Mile" (Academic Wing)**
 
 - **The Airlock:** Heavy fire doors separate the Commons from the
   hallway, held open by electromagnets. They slam shut if the fire alarm
   pulls or power fails. 
 
 - **Flooring:** Thin industrial carpet. Transitioning from the Commons
-  tile to this carpet creates immediate \"drag\" (rolling resistance). 
+  tile to this carpet creates immediate "drag" (rolling resistance). 
 
 - **Traffic Physics:** The hallway is lined with blue lockers. When
   open, the navigable width shrinks, forcing a wheelchair user to stay
-  in the \"Center Lane,\" acting as a pace car for all traffic behind
+  in the "Center Lane," acting as a pace car for all traffic behind
   them. 
 
 **Vertical Access**
@@ -142,12 +142,12 @@
 **The Main Office:** Located right of the Main Entrance. The checkpoint
 for late arrivals. **The Schola:** A rarely used, 100-seat
 mini-auditorium next to the office. Usually dark and empty, creating a
-\"dead zone.\" **The Service Entrance:** Behind the cafeteria. Home to
-the dumpsters and the site of \"Trash Duty.\" 
+"dead zone." **The Service Entrance:** Behind the cafeteria. Home to
+the dumpsters and the site of "Trash Duty." 
 
 **The Clinic (Hygiene Exile)**
 
-- **Location:** Past the Schola, next to the \"Morning Drop-off\"
+- **Location:** Past the Schola, next to the "Morning Drop-off"
   doors. 
 
 - **The Separation Policy:** Because the locker rooms are not
@@ -158,7 +158,7 @@ the dumpsters and the site of \"Trash Duty.\" 
 
 - **Nikki:** Is assisted by a school-provided aide in the Clinic. 
 
-- **Patrick:** Is forced to use the Men\'s Locker Room alone. 
+- **Patrick:** Is forced to use the Men's Locker Room alone. 
 
 **V. The Shadow Law (The Implied DeMarco Code)**
 
@@ -176,23 +176,23 @@ rules. They are implied, enforcing a culture of fear and reverence. 
   languages. Insulting her in a foreign tongue results in destruction in
   that language. 
 
-- **Zero Tolerance:** \"The Penis Game,\" bullying, or harassment
+- **Zero Tolerance:** "The Penis Game," bullying, or harassment
   results in immediate assignment to the dumpsters. 
 
 **The Punishment Scale**
 
-- **Level 0:** \"The Look\" (Disappointment).
+- **Level 0:** "The Look" (Disappointment).
 
 - **Level 1:** Trash Duty (1 week at the dumpsters). 
 
 - **Level 2:** Advanced Sanitation (Grease traps and gum scraping). 
 
-- **Level 3:** The Essay (5--20 pages on topics like \"The Virtues of
-  Silence\"). 
+- **Level 3:** The Essay (5--20 pages on topics like "The Virtues of
+  Silence"). 
 
 - **Level 4:** Principal Referral (The Nuclear Option/The Abyss). 
 
-**The \"Sweet Angel\" Proviso**
+**The "Sweet Angel" Proviso**
 
 - Genuine politeness or necessary usage of AAC devices is rewarded with
   extreme patience and warmth. She is only a tyrant to the rude. 
@@ -201,7 +201,7 @@ rules. They are implied, enforcing a culture of fear and reverence. 
 
 - **Visuals:** Green chalkboards (no whiteboards). 
 
-- **The \"Kidney Breakers\" (Furniture):** Hard blue plastic chairs
+- **The "Kidney Breakers" (Furniture):** Hard blue plastic chairs
   attached to laminate desks via a metal bar. 
 
 - **Conflict:** Impossible for wheelchairs. Nikki is forced to sit at a
@@ -228,16 +228,16 @@ rules. They are implied, enforcing a culture of fear and reverence. 
 
 - **Terrain:** Deep purple foam mats. 
 
-- **Physics:** A \"Soft Trap.\" Wheels sink into the foam, making
+- **Physics:** A "Soft Trap." Wheels sink into the foam, making
   movement exhausting. 
 
 **The Stadium**
 
 - **Seating:** Metal bleachers with no ramps. Wheelchair users are
   relegated to the track/sidelines, physically separated from the
-  student section (\"The Zoo\"). 
+  student section ("The Zoo"). 
 
-**VIII. Era Specifics (The \"Shadow of Columbine\")**
+**VIII. Era Specifics (The "Shadow of Columbine")**
 
 - **Security:** Exterior doors are strictly timed.
 

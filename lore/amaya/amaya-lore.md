@@ -256,11 +256,11 @@ This 24/7 mandate pays off spectacularly when Vera's timeline begins to collapse
 
 - **The Catalyst:** In the direct aftermath of the Vera incident in late 2003, the Hayes and Rios families recognized the need for a hyper-controlled, impenetrable sanctuary.
 
-- **The Bureaucratic Heist:** They targeted the decommissioned New River Vocational Rehabilitation Center. When the state issued the auction paperwork, a clerk made a massive formatting error, accidentally listing the legally binding minimum reserve bid as \$1.00 instead of \$1,000,000.00.
+- **The Bureaucratic Heist:** They targeted the decommissioned New River Vocational Rehabilitation Center. When the state issued the auction paperwork, a clerk made a massive formatting error, accidentally listing the legally binding minimum reserve bid as $1.00 instead of $1,000,000.00.
 
-- **The State's Surrender:** The families submitted a flawless, legally binding sealed bid for exactly \$1.00. When the error was discovered, the state's attorneys recognized that fighting the families would trigger a lengthy, expensive lawsuit. Furthermore, the state was desperate to wash its hands of the massive financial drain required to maintain the abandoned Cold War-era infrastructure.
+- **The State's Surrender:** The families submitted a flawless, legally binding sealed bid for exactly $1.00. When the error was discovered, the state's attorneys recognized that fighting the families would trigger a lengthy, expensive lawsuit. Furthermore, the state was desperate to wash its hands of the massive financial drain required to maintain the abandoned Cold War-era infrastructure.
 
-- **The Migration:** The state honored the \$1.00 sale. The families packed up their lives in Virginia Beach and relocated entirely, transforming the 566-acre institutional property in the New River Valley into their own private, self-sustaining fortress.
+- **The Migration:** The state honored the $1.00 sale. The families packed up their lives in Virginia Beach and relocated entirely, transforming the 566-acre institutional property in the New River Valley into their own private, self-sustaining fortress.
 
 # Archive: The Apartment Extraction (The Proximity Rescue)
 
@@ -394,7 +394,7 @@ When Jess and Tori breach the apartment and instantly execute the arm-bridge hug
 
 ## IV. The Acquisition and Rebirth (Late 2003 - Early 2004)
 
-- **The Surplus Auction:** The abandoned facility was listed at a state surplus auction. Through a bureaucratic loophole and a coordinated effort, the Hayes and Rios parents purchased the entire property for exactly \$1.00.
+- **The Surplus Auction:** The abandoned facility was listed at a state surplus auction. Through a bureaucratic loophole and a coordinated effort, the Hayes and Rios parents purchased the entire property for exactly $1.00.
 
 - **The Move-In (The Post-Vera Era):** Following the traumatic events of late 2003 and the final neutralization of Vera's threat against Justin, the two families officially take private ownership. The sprawling, highly secure, ADA-compliant campus is transformed from a state institution into a private, impenetrable sanctuary and living compound.
 
@@ -558,7 +558,7 @@ Here is how this impenetrable buddy system operates across their campus and dail
 
 - **The Tactile Passport:** Justin knows the exact tactile signature of all 20 women. He knows the specific geometry of Amaya's arm-bridge, the cadence of Meredith's walk, and the unique handshakes, shoulder taps, or guiding grips of the other 18 women. If a hand reaches out to guide his transport chair or offer an arm, he knows instantly if they are cleared for access. If the tactile signature doesn't match one of his 20 trusted guards, he shuts down the interaction.
 
-- **The Chaperone Handoff:** Justin is never in a transitional space alone. If Meredith has to go to a different class, she doesn't just leave him in a hallway; she physically hands off control of his transport chair to Amaya, or to "Guard \#4" from their high school pack. They operate like a Secret Service detail, ensuring an unbroken chain of custody.
+- **The Chaperone Handoff:** Justin is never in a transitional space alone. If Meredith has to go to a different class, she doesn't just leave him in a hallway; she physically hands off control of his transport chair to Amaya, or to "Guard #4" from their high school pack. They operate like a Secret Service detail, ensuring an unbroken chain of custody.
 
 - **The Physical Barricade:** If Vera attempts to approach him in the cafeteria, the library, or the hallways, she never even gets within speaking distance. The moment she is spotted, whichever woman is on duty simply maneuvers Justin's chair away, placing her own body as a physical barricade between him and the threat.
 
@@ -672,7 +672,7 @@ It is in this isolated, humiliated moment that the cold, terrifying reality fina
 
 - To distract and comfort him on the drive, the women casually mention a local rumor about a massive piece of real estate.
 
-- They tell him about a sprawling, abandoned state rehabilitation center set to be auctioned off with a starting bid of \$1,000,000.
+- They tell him about a sprawling, abandoned state rehabilitation center set to be auctioned off with a starting bid of $1,000,000.
 
 - This simple car-ride conversation sparks the vision of a massive, shared compound, giving Justin something exciting to focus on as they head back to the safety of Meredith and Amaya.
 
@@ -758,7 +758,7 @@ Her ego cannot handle the humiliation of being invisible. The embarrassment inst
 
 - **The Deduction:** Meredith, Amaya, and the Tier-2 girls instantly connect the dots. They realize Vera tried to flash him, failed, and threw a tantrum. Justin establishes his permanent new boundary: a chaperone must be with him 24/7.
 
-- **The NRVRC Shift:** The families had already been looking at the upcoming surplus auction for the massive New River Vocational Rehabilitation Center. Prior to this, it was just an interesting real estate opportunity. But this terrifying breach of Justin's safety changes everything. The families realize they *must* secure that 566-acre compound to build an impenetrable fortress for him. They convene that night, completely serious, even discussing raising their intended \$1,000,000 bid to ensure they win—blissfully unaware that the state's website will soon glitch, dropping the opening bid to \$1 and leaving them as the sole, accidental victors.
+- **The NRVRC Shift:** The families had already been looking at the upcoming surplus auction for the massive New River Vocational Rehabilitation Center. Prior to this, it was just an interesting real estate opportunity. But this terrifying breach of Justin's safety changes everything. The families realize they *must* secure that 566-acre compound to build an impenetrable fortress for him. They convene that night, completely serious, even discussing raising their intended $1,000,000 bid to ensure they win—blissfully unaware that the state's website will soon glitch, dropping the opening bid to $1 and leaving them as the sole, accidental victors.
 
 # Archive: The Logical Disconnect & The Intimacy Protocol
 
@@ -888,11 +888,11 @@ While the women dismantle the visual theatrics of her posture, Justin's AuDHD br
 
 By grounding the girls' mockery in a real, recent medical event that happened to one of their own, Vera isn't just humiliated—she is entirely dismantled. Her physical lie is intercepted by Lauren's actual medical history, and her biological lie is instantly crushed by Justin's absolute logic.
 
-# Archive: The \$1 Auction
+# Archive: The $1 Auction
 
 ## I. The Initial Listing and the Market Reaction
 
-- When the state finally moves to surplus the decommissioned New River Vocational Rehabilitation Center, the public information and preliminary documentation correctly list the starting bid at \$1,000,000.
+- When the state finally moves to surplus the decommissioned New River Vocational Rehabilitation Center, the public information and preliminary documentation correctly list the starting bid at $1,000,000.
 
 - Despite the massive footprint and the surprisingly excellent condition of the heavy-masonry buildings, the commercial real estate market completely ignores the listing.
 
@@ -902,9 +902,9 @@ By grounding the girls' mockery in a real, recent medical event that happened to
 
 - The Hayes and Rios families, possessing the necessary funds and a burgeoning idea for a private compound, decide to monitor the auction with a "why not" attitude.
 
-- When the live bidding officially opens on the Commonwealth of Virginia's surplus website, a catastrophic data-entry error occurs: the opening bid is digitally listed as exactly \$1, dropping the zeroes.
+- When the live bidding officially opens on the Commonwealth of Virginia's surplus website, a catastrophic data-entry error occurs: the opening bid is digitally listed as exactly $1, dropping the zeroes.
 
-- Assuming that a serious commercial contender will eventually swoop in and drive the price up, the families casually submit a perfectly formatted, compliant bid for \$1.
+- Assuming that a serious commercial contender will eventually swoop in and drive the price up, the families casually submit a perfectly formatted, compliant bid for $1.
 
 ## III. The Accidental Empire
 
@@ -918,7 +918,7 @@ By grounding the girls' mockery in a real, recent medical event that happened to
 
 - State officials quickly realize that fighting the families over a website error would tie the property up in a messy, protracted court battle.
 
-- Desperate to offload the massive maintenance liability and not wanting to hold onto the facility any longer than necessary, the state decides to honor the \$1 transaction, officially handing the keys to the empire over to Justin's family.
+- Desperate to offload the massive maintenance liability and not wanting to hold onto the facility any longer than necessary, the state decides to honor the $1 transaction, officially handing the keys to the empire over to Justin's family.
 
 # Commonwealth of Virginia: Surplus Real Property Bid
 
@@ -928,27 +928,27 @@ By grounding the girls' mockery in a real, recent medical event that happened to
 
 In Virginia surplus auctions, the submitted Bid Form is a binding legal contract. The families did not alter the state's generated paperwork; they strictly followed the digital prompt.
 
-- **Total Purchase Price Offered:** **\$1.00**
+- **Total Purchase Price Offered:** **$1.00**
 
-- **Earnest Money Deposit (EMD):** State auctions typically require a 10% deposit of the bid amount to prove the buyer is serious. The portal’s automated math requested a deposit. The families authorized a certified electronic transfer for exactly **\$0.10**, fulfilling the mathematical requirement of the contract.
+- **Earnest Money Deposit (EMD):** State auctions typically require a 10% deposit of the bid amount to prove the buyer is serious. The portal’s automated math requested a deposit. The families authorized a certified electronic transfer for exactly **$0.10**, fulfilling the mathematical requirement of the contract.
 
 ## 2. Proof of Financial Capacity (The Over-Preparation)
 
 This document is the "smoking gun" that made the state realize exactly who they were dealing with. To prove they had the capital to take over a 566-acre institutional campus, the families submitted their original financial documents.
 
-- **Certified Letter of Credit:** They attached a certified letter from their financial institution guaranteeing liquid assets in excess of **\$1,000,000.00**.
+- **Certified Letter of Credit:** They attached a certified letter from their financial institution guaranteeing liquid assets in excess of **$1,000,000.00**.
 
-- **The State's Realization:** When the DGS attorneys reviewed the bid, they saw the \$1.00 offer attached to a \$1,000,000.00 bank guarantee. It proved the families weren't internet trolls; they were highly capitalized buyers who simply possessed the absolute audacity to execute the contract exactly as the state's broken website presented it.
+- **The State's Realization:** When the DGS attorneys reviewed the bid, they saw the $1.00 offer attached to a $1,000,000.00 bank guarantee. It proved the families weren't internet trolls; they were highly capitalized buyers who simply possessed the absolute audacity to execute the contract exactly as the state's broken website presented it.
 
 ## 3. The "As-Is, Where-Is" Indemnification
 
-This is the most critical piece of paper in the entire package, and it is the exact reason the state decided not to fight the \$1 bid in court.
+This is the most critical piece of paper in the entire package, and it is the exact reason the state decided not to fight the $1 bid in court.
 
 - By signing the DGS "As-Is" waiver, the Hayes and Rios families legally absorbed 100% of the liability for the Cold War-era infrastructure.
 
 - They formally absolved the Commonwealth of Virginia of any responsibility for roof replacements, aging commercial boilers, subterranean structural integrity, and hazardous material abatement (like mid-century asbestos or lead paint).
 
-- To the state, offloading that massive, terrifying liability waiver was worth taking the \$999,999 loss.
+- To the state, offloading that massive, terrifying liability waiver was worth taking the $999,999 loss.
 
 ## 4. The Proposed Use & Redevelopment Plan
 
@@ -960,7 +960,7 @@ Virginia rarely hands over massive tracts of state land without ensuring the buy
 
 - **Private Residential:** Explicitly outlining the conversion of the ADA-compliant dormitories into secure, private residential housing for disabled adults.
 
-By submitting a flawless operational and financial plan alongside the \$1.00 bid, the families backed the state into a corner. The bid was legally sound, the liability was completely transferred, and the redevelopment plan was a net positive for Pulaski County. The state had no choice but to stamp it "APPROVED" and hand over the deed.
+By submitting a flawless operational and financial plan alongside the $1.00 bid, the families backed the state into a corner. The bid was legally sound, the liability was completely transferred, and the redevelopment plan was a net positive for Pulaski County. The state had no choice but to stamp it "APPROVED" and hand over the deed.
 
 # Archive: New River Vocational Rehabilitation Center (NRVRC)
 
@@ -994,7 +994,7 @@ However, as the 21st century approached, the state’s budget for maintaining ma
 
 In a controversial budgetary move, the state ordered the complete decommissioning of the NRVRC. All operations, specialized equipment, and staff were systematically migrated to the Roosevelt Rehabilitation Center. Because Roosevelt was a significantly smaller facility, the consolidation caused massive regional waitlists and severely limited the resources available to disabled Virginians.
 
-The sprawling New River campus was shuttered, winterized, and left as a massive concrete ghost town directly off Exit 98—until a \$1 bureaucratic typo allowed the Hayes and Rios families to inherit the empire.
+The sprawling New River campus was shuttered, winterized, and left as a massive concrete ghost town directly off Exit 98—until a $1 bureaucratic typo allowed the Hayes and Rios families to inherit the empire.
 
 ### I. Naming the Facility
 
@@ -1018,17 +1018,17 @@ When a state government decides to abandon a 44,000-square-foot, 223-acre campus
 
 4.  **Public Auction (The RFP):** Once the government passes, the property is listed for public sale. The state issues a highly technical Request for Proposals (RFP) for a public blind auction.
 
-### III. The \$1 Bureaucratic Blunder
+### III. The $1 Bureaucratic Blunder
 
-Usually, a \$1 property transfer only happens between government entities (e.g., the state selling it to the city for a dollar). For a private group of citizens to secure that price, it requires a spectacular administrative error—and the Hayes and Rios families being sharp enough to exploit it.
+Usually, a $1 property transfer only happens between government entities (e.g., the state selling it to the city for a dollar). For a private group of citizens to secure that price, it requires a spectacular administrative error—and the Hayes and Rios families being sharp enough to exploit it.
 
-Here is how the \$1 transaction goes down:
+Here is how the $1 transaction goes down:
 
-**The Typo of the Decade** When the Department of General Services drafted the massive, 400-page RFP document for the public blind auction, a clerk made a critical formatting error on the binding financial addendum. Instead of typing a Minimum Reserve Bid of **\$1,000,000.00**, they accidentally hit the decimal early, legally listing the absolute minimum binding reserve as **\$1.00**.
+**The Typo of the Decade** When the Department of General Services drafted the massive, 400-page RFP document for the public blind auction, a clerk made a critical formatting error on the binding financial addendum. Instead of typing a Minimum Reserve Bid of **$1,000,000.00**, they accidentally hit the decimal early, legally listing the absolute minimum binding reserve as **$1.00**.
 
-**The Loophole Execution** The Hayes and Rios parents—pooling their resources and carefully reading the fine print—spot the error. They follow the strict bureaucratic rules to the letter. They submit a formal, legally binding sealed bid for exactly **\$1.00**, accompanied by the required redevelopment proposals and proof of funds to maintain the property.
+**The Loophole Execution** The Hayes and Rios parents—pooling their resources and carefully reading the fine print—spot the error. They follow the strict bureaucratic rules to the letter. They submit a formal, legally binding sealed bid for exactly **$1.00**, accompanied by the required redevelopment proposals and proof of funds to maintain the property.
 
-**Why the State Honors It** When the sealed bids are opened, the state realizes their massive legal blunder. However, they decide to honor the \$1 sale rather than fight it in court for three highly realistic reasons:
+**Why the State Honors It** When the sealed bids are opened, the state realizes their massive legal blunder. However, they decide to honor the $1 sale rather than fight it in court for three highly realistic reasons:
 
 1.  **The Legal Nightmare:** The families submitted a perfectly compliant bid based on the state's own legally binding paperwork. Fighting it would trigger a lengthy, expensive lawsuit.
 
@@ -1066,7 +1066,7 @@ When the families acquire the massive 566-acre compound, they immediately recogn
 
 ## Phase I: The Bureaucratic Handover (Winter 2003 – Spring 2004)
 
-- **The Deed Transfer:** Following the acceptance of the \$1.00 bid in late Fall 2003, it takes the state several months to process the transfer of the 566-acre property, formally handing the keys to the Hayes and Rios families in early 2004.
+- **The Deed Transfer:** Following the acceptance of the $1.00 bid in late Fall 2003, it takes the state several months to process the transfer of the 566-acre property, formally handing the keys to the Hayes and Rios families in early 2004.
 
 - **The Assessment:** The parents immediately bring in structural and environmental engineers. They partition off the massive campus, locking down the "Mock City," the cafeteria, and the outer dorms, focusing 100% of their initial capital exclusively on the primary residential wing where the core family and the 20-woman pack will live.
 

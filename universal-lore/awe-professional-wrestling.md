@@ -25,7 +25,7 @@ status: canonical
 
 | Real-World Entity | In-Universe Canonical Name | Lore & Historical Context |
 | :--- | :--- | :--- |
-| **WWF $\rightarrow$ WWE** | **AWF $\rightarrow$ AWE** (**American Wrestling Federation** $\rightarrow$ **American Wrestling Entertainment**) | Founded and controlled by ruthless billionaire CEO **Chairman Victor Cross**. Rebranded from **AWF** to **AWE** in May 2002. |
+| **WWF → WWE** | **AWF → AWE** (**American Wrestling Federation** → **American Wrestling Entertainment**) | Founded and controlled by ruthless billionaire CEO **Chairman Victor Cross**. Rebranded from **AWF** to **AWE** in May 2002. |
 | **World Wildlife Fund (WWF)** | **The Animal Welfare Fund (AWF)** | London-based international wildlife conservation fund. Successfully sued Chairman Victor Cross in the English High Court in 2002 for violating a 1994 co-existence agreement over the `AWF` initials, forcing the transition to **AWE**. |
 | **"Get the F Out" Campaign** | **"We're getting the 'F' out!"** | Chairman Victor Cross's defiant May 2002 marketing slogan used to rebrand the **AWF** into **AWE** following the London lawsuit. |
 | **WCW (World Championship Wrestling)** | **GCW (Global Championship Wrestling)** | Atlanta-based rival promotion that waged the 1990s ratings war against the AWF before being purchased by Victor Cross in March 2001, triggering the 2001 Invasion angle and the 2002 **AWE Brand Extension** draft. |
@@ -55,7 +55,7 @@ status: canonical
 | :--- | :--- | :--- | :--- |
 | **Monday Night RAW** (1993–present) | **`AWE Monday Night WAR`** (stylized in the late-1990s Attitude Era as *WAR IS WAR*) | **Mondays (Live, 8:00/9:00 PM EST)** | Rachel's ultimate hyperfixation in `/rachel` (attending the November 20, 2006 broadcast live at the Rose City Center in Portland, OR in Book 16). In `/aubrie` (`e001`), **Mark** and the Bennett Hall suite gather in the first-floor lobby couch cluster every Monday night to watch *AWE Monday Night WAR*. |
 | **WWE SmackDown!** (1999–present) | **`AWE Thursday Night SHOWDOWN`** / **`AWE Friday Night SHOWDOWN`** (*AWE Showdown*) | **Thursdays** (1999–2005) / **Fridays** (2005–present) | AWE's blue-brand flagship broadcast, taped on Tuesday nights and airing later in the week. |
-| **ECW on Sci-Fi** (2006–2010) / **WWE NXT** (2010–present) | **`AWE Tuesday Night IGNITION`** $\rightarrow$ **`AWE NextGen`** | **Tuesdays** | AWE's third-brand Tuesday night broadcast (referenced in `/paige` during the PERT Lounge scene and evolving into the developmental/third brand `AWE NextGen` by Jordan's college years). |
+| **ECW on Sci-Fi** (2006–2010) / **WWE NXT** (2010–present) | **`AWE Tuesday Night IGNITION`** → **`AWE NextGen`** | **Tuesdays** | AWE's third-brand Tuesday night broadcast (referenced in `/paige` during the PERT Lounge scene and evolving into the developmental/third brand `AWE NextGen` by Jordan's college years). |
 
 ### Weekly "B-Shows", Weekend Syndication & Network Specials
 

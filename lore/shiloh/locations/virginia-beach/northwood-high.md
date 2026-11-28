@@ -41,15 +41,15 @@ era: "Fall 1999 - Spring 2003"
 ### The "Backstage" (Bus Loop)
 *   **Visuals:** Located at the rear. Characterized by three brick towers with circular "porthole" windows.
 *   **The "Timed" Doors:** Entrances A, B, and C are unlocked only during active bus unloading (approx. 7:00 AM – 7:20 AM). Once buses depart, these lock. Late students must circle the entire building.
-*   **Stairway A (The Critical Entry):** Buses with wheelchair lifts must drop off here (far right tower) to access the building\'s only elevator.
+*   **Stairway A (The Critical Entry):** Buses with wheelchair lifts must drop off here (far right tower) to access the building's only elevator.
 
 ### The Conflict Zone (Practice Field)
-*   **Usage:** Shared territory for the Marching Band and Driver\'s Ed.
+*   **Usage:** Shared territory for the Marching Band and Driver's Ed.
 *   **Visual Confusion:** The asphalt is painted with conflicting lines—Blue lines for stadium 10-yard markers, and White lines for traffic lanes.
 *   **Activity:** Students often perform donuts here; those caught face discipline.
 
 ### The Neighborhood Perimeter (Highland Way)
-*   **Smoker\'s Corner:** A pedestrian gate connecting the school to The Highlands neighborhood.
+*   **Smoker's Corner:** A pedestrian gate connecting the school to The Highlands neighborhood.
 *   **Protocol:** The SRO (Officer Whitehead) watches the property line. 18-year-old seniors may smoke on the public street side of the line. Crossing the threshold with a lit cigarette is a violation.
 *   **The Curb Trap:** There are no ADA curb cuts at these gates, rendering this shortcut impossible for wheelchair users.
 
@@ -83,7 +83,7 @@ era: "Fall 1999 - Spring 2003"
 *   **The Separation Policy:** Because the locker rooms are not accessible/safe for Nikki, she must change here.
 *   **The Rule:** The school strictly prohibits the twins from helping each other here, regardless of parental permission.
 *   **Nikki:** Is assisted by a school-provided aide in the Clinic.
-*   **Patrick:** Is forced to use the Men\'s Locker Room alone.
+*   **Patrick:** Is forced to use the Men's Locker Room alone.
 
 *Note: Mrs. DeMarco (Cafeteria Supervisor) never verbally states these rules. They are implied, enforcing a culture of fear and reverence.*
 

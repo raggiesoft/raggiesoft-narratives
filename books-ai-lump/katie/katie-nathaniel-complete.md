@@ -1529,7 +1529,7 @@ Dad picked up the signed forms, then leaned down between our two hospital beds a
 
 "I was never so scared in my life as when Mr. Brooks called me and said you two were headed to the Emergency Room," Dad whispered, his voice thick with emotion as he held us both close. "Wait until you see how fast I learn to break those two powerchairs down for the trunk of the car. Your legs may have run out of borrowed time today, but as long as the three of us have each other, nothing is going to stop you."
 
-### Part 3: Then We'll Change the Truck,' Downsizing to Military Highway, & CVTA Route 15
+### Part 3: 'Then We'll Change the Truck,' Downsizing to Military Highway, & CVTA Route 15
 
 **Date:** 2001-10-06 at 13:10 America/New_York
 
@@ -4425,7 +4425,7 @@ Then Katie opened a third browser tab and typed a search query into the address 
 
 Flipping up the inner armrest between our two SwiftChairs, I leaned across and wrapped both arms tightly around my twin sister's shoulders. Katie exhaled a long, slow breath and buried her face against my neck, wrapping her arms around my chest as the familiar, steady deep pressure of our embrace settled our racing nerves—and twenty minutes later, inside the quiet, dark sanctuary of Dad's downstairs bedroom closet, we fell asleep cuddled up together inside our shared sleeping bag with the future of Virginia Beach already taking shape in our minds.
 
-### Part 5: \
+### Part 5: 'What's This? It's an ID Card!', Form DS-11 at the Post Office, & Two Navy-Blue U.S. Passports
 
 **Date:** 2007-04-19 at 13:15 America/New_York
 
@@ -7638,7 +7638,7 @@ Katie turned her SwiftChair sharply toward Dad and me, her blue eyes blazing wit
 
 "Seven-thirty bedtime in May, 'purple papers' for King's College, and Chelsea wheezing without her rescue inhaler while that man cuts the line off after ninety seconds," Katie said flatly. She looked across the table at Brittany, Heather, Wesley, Dad, and me. "We aren't calling ahead next month so Mr. Sterling can rehearse her at the wall phone. We have Heather, Wesley, and Brittany right here under our roof, we have Prairie Twin Interactive paying the bills, and Dad has vacation days saved up in July. While Heather and Wesley get Chelsea's welcome basket and tagless clothes ready here on Arvin Road, the four of us are renting a roll-off ramp minivan for the quick courthouse curb stops, driving straight up Interstate 95 to Braxton unannounced—and bringing our cousin home."
 
-### Part 2: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family
+### Part 2: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'
 
 **Date:** 2016-07-18 at 13:40 America/New_York
 
@@ -8128,7 +8128,7 @@ Then came Chelsea and Wesley's favorite five minutes of every afternoon. Sitting
 
 Across our inner armrests, Katie squeezed my left hand twice while Heather rested her warm hand on my right shoulder—all of us watching Wesley and Chelsea beam side by side in front of their thriving turtle sanctuary, knowing our six-person home had finally found every piece of its heart.
 
-### Part 8: Now You're Learning My Truck,' L-1-2-3-R in an Empty Parking Lot, & Three Manuals on the Tailgate
+### Part 8: 'Now You're Learning My Truck,' L-1-2-3-R in an Empty Parking Lot, & Three Manuals on the Tailgate
 
 **Date:** 2017-06-11 at 09:15 America/New_York
 

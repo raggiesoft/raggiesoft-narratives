@@ -9,7 +9,7 @@
 ## 1. Foreign Language Backstory & The Sophomore Japanese Arc (`JAPN 101` / `JAPN 102`)
 
 ### A. High School Foreign Language Backgrounds (Pre-CPI)
-1. **Jordan (`Aubrey Jordan Fuller` $\rightarrow$ `Jordan Shawn Kelly`) — Zero Prior Foreign Language:**
+1. **Jordan (`Aubrey Jordan Fuller` → `Jordan Shawn Kelly`) — Zero Prior Foreign Language:**
    - **Sophomore Year (`Fall 2015`) is Jordan's first time EVER taking any foreign language class.**
    - In Virginia Beach public schools, Aubrie Sinclair used Virginia Department of Education (`VDOE`) communicative/speech disability waiver provisions to exempt him from high school foreign language requirements entirely (*"Why on earth would a boy who can't even speak English take Spanish?"*).
    - When she sabotaged his Freshman Fall (`2014`) CPI course registration expecting him to flunk out by Thanksgiving, she bypassed CPI's university foreign language requirement altogether—leaving it unfulfilled on his College of Science degree audit until Sophomore Year (`2015–2016`).

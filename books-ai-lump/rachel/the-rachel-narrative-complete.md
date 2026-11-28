@@ -20212,7 +20212,7 @@ Through my continued sobs, the entire story finally spilled out. "I just saw my 
 
 My phone buzzed in my lap. I looked down at the text message.
 
-*Downtown Tacoma. About to board the 2, vehicle \#186.*
+*Downtown Tacoma. About to board the 2, vehicle #186.*
 
 I didn't reply to him. I immediately hit speed dial for Kristin.
 
@@ -20330,7 +20330,7 @@ We followed Jessica's logistical map perfectly. We boarded the TAPS Route 565 do
 
 When we were dropped off at the 10th & Commerce transit spine, we had a brief wait. I pulled my silver flip phone from my pocket, quickly typing out a message to Jessica to ensure my location was logged in her system.
 
-*Downtown Tacoma about to board the 2, vehicle \#186.*
+*Downtown Tacoma about to board the 2, vehicle #186.*
 
 We boarded the Number 2 bus—the long route Jessica had specifically recommended to pass the time. We found seats near the middle of the carriage. Delores leaned against the window, her arms crossed, exuding a hostile, defensive energy. I just stared at the back of the seat in front of me, my anxiety spiking as we pushed deeper into the South Sound.
 
@@ -21111,7 +21111,7 @@ The familiar, sky-blue loading screen appeared, but my excitement immediately hi
 
 I actually groaned out loud. "Eww."
 
-To put a legacy, consumer-grade operating system like XN Home Edition onto a \$4,000 machine boasting dual hard drives and 4 GB of RAM was an absolute architectural insult. It was like putting bicycle tires on a sports car.
+To put a legacy, consumer-grade operating system like XN Home Edition onto a $4,000 machine boasting dual hard drives and 4 GB of RAM was an absolute architectural insult. It was like putting bicycle tires on a sports car.
 
 The Out-Of-Box Experience (OOBE) initiated, prompting me with the standard, bright blue setup screens. I grabbed the mouse, hastily clicking through the region settings, selecting the Pacific Time Zone, and typing *Michael* into the user profile box just to get through the bloated manufacturer setup.
 
@@ -21867,7 +21867,7 @@ I placed my hands on the keyboard and typed: <aac>Bug</aac>.
 
 Rachel gasped softly. The grip she had around my waist tightened significantly, pulling me completely flush against her side, mirroring the exact, heavy physical pressure of the hugs we always shared.
 
-I had been stripped of everything over the last two years. My dignity, my finances, my autonomy, and my perimeter. But right here, on a brand-new \$4,000 command center, the very first thing I chose to create—the very first digital life I brought into my newly secured, impenetrable universe—was her.
+I had been stripped of everything over the last two years. My dignity, my finances, my autonomy, and my perimeter. But right here, on a brand-new $4,000 command center, the very first thing I chose to create—the very first digital life I brought into my newly secured, impenetrable universe—was her.
 
 "You're my first citizen," I told her quietly, saving the file to the neighborhood bin.
 
@@ -22123,8 +22123,8 @@ I created a new HTML file. Utilizing the trackpad and the keyboard, I began layi
 \<head\>\
 \<title\>The Denizens: The First Dan\</title\>\
 \<style type="text/css"\>\
-body { background-color: \#1a1a1a; color: \#e0e0e0; font-family: Verdana, Arial, sans-serif; }\
-.container { width: 750px; margin: 0 auto; background-color: \#2b2b2b; border: 2px solid \#444; padding: 20px; }\
+body { background-color: #1a1a1a; color: \#e0e0e0; font-family: Verdana, Arial, sans-serif; }\
+.container { width: 750px; margin: 0 auto; background-color: #2b2b2b; border: 2px solid #444; padding: 20px; }\
 .header { text-align: center; border-bottom: 2px solid \#cc0000; padding-bottom: 10px; margin-bottom: 20px; }\
 .text-body { font-size: 14px; line-height: 1.6; text-align: justify; }\
 \</style\>\
@@ -22454,7 +22454,7 @@ Rachel’s eyes lit up with instant recognition. "He orders the massive ice crea
 
 "Exactly," I grinned. "Delores would have a complete, catastrophic meltdown if I spent fifteen dollars without her permission. But Jess?"
 
-I looked over at my older sister. Jessica, a Senior Technical Program Manager at Quantum, just offered a cool, corporate smirk, adjusting her glasses. She could drop \$967 on room service without even blinking. Her financial security wasn't just a convenience; it was a heavy, impenetrable shield guarding our perimeter.
+I looked over at my older sister. Jessica, a Senior Technical Program Manager at Quantum, just offered a cool, corporate smirk, adjusting her glasses. She could drop $967 on room service without even blinking. Her financial security wasn't just a convenience; it was a heavy, impenetrable shield guarding our perimeter.
 
 "I don't think we'll hit nine hundred dollars," Jessica noted dryly. "But feel free to try."
 
@@ -23208,7 +23208,7 @@ She nodded firmly.
 
 Diego looked over his shoulder. Seeing that the storm had passed and Rachel was smiling, he offered a warm, subtle nod of respect—first to Rachel, and then to me. He didn't make a scene or draw further attention to it. He just turned to Dave Cross and gave a thumbs-up.
 
-"Alright, folks, you're clear," Dave said gently, walking over as I finally let go and helped Rachel to her feet. He reached into his pocket and pulled out the thick stack of bills Diego had slapped on the counter. He peeled off four of the realistic-looking \$100 bills and handed one to each of us.
+"Alright, folks, you're clear," Dave said gently, walking over as I finally let go and helped Rachel to her feet. He reached into his pocket and pulled out the thick stack of bills Diego had slapped on the counter. He peeled off four of the realistic-looking $100 bills and handed one to each of us.
 
 Printed across the top in small letters were the words: For Motion Picture Use Only.
 
@@ -24743,7 +24743,7 @@ Sitting in the back row of the bus, Rachel leaned her shoulder heavily against m
 
 I smiled, wrapping my arm around her. "That's the plan, Bug."
 
-It wasn’t a long ride to the transit center. We stepped off the 105 onto the covered concrete platforms. This was our first point of divergence. Rachel had to catch the \#560 bus to the airport, where she would connect to her final route down to Pierce County so she could clock in for her afternoon shift at *The Spot*.
+It wasn’t a long ride to the transit center. We stepped off the 105 onto the covered concrete platforms. This was our first point of divergence. Rachel had to catch the #560 bus to the airport, where she would connect to her final route down to Pierce County so she could clock in for her afternoon shift at *The Spot*.
 
 Kristin and I, meanwhile, were tasked with following Jessica up the transit corridor toward Overlake and Bellevue to handle the financial extraction.
 
@@ -25439,7 +25439,7 @@ She pulled a massive, heavy-duty indoor appliance from the cabinet and set it on
 
 Within twenty minutes, the apartment smelled incredibly like seasoned beef and toasted buns. Rachel and Kristin were laughing together at the kitchen island, pulling sodas from the fridge, completely at ease in each other's space.
 
-I sat on one of the plush barstools, watching my big sister expertly flip the burgers on the Knockout Grill. I thought about the \$56,000 sitting in my name, the clean inbox, the TAPS transit pass in my wallet, and the absolute shrine in Building 35.
+I sat on one of the plush barstools, watching my big sister expertly flip the burgers on the Knockout Grill. I thought about the $56,000 sitting in my name, the clean inbox, the TAPS transit pass in my wallet, and the absolute shrine in Building 35.
 
 Jessica plated the first two burgers, turned off the grill, and wheeled over to my stool. She reached up, pulling me down slightly to press a warm, lingering kiss to my right cheek.
 
@@ -29803,17 +29803,17 @@ Jessica wheeled behind her massive desk and looked out the floor-to-ceiling glas
 
 She opened her piano-black corporate laptop, her fingers hovering over the keyboard. It was time to execute the tactical strike.
 
-Over the holiday weekend, she had run the property records through Quantum's high-speed network. She knew exactly which panicked, over-leveraged bank’s REO (Real Estate Owned) department held the dead paper on the rotting house. The bank had it listed for \$140,000, desperately hoping a naïve flipper would take the bait.
+Over the holiday weekend, she had run the property records through Quantum's high-speed network. She knew exactly which panicked, over-leveraged bank’s REO (Real Estate Owned) department held the dead paper on the rotting house. The bank had it listed for $140,000, desperately hoping a naïve flipper would take the bait.
 
 Jessica wasn't going to negotiate. She was going to drop a financial guillotine.
 
-She drafted a formal, legally binding purchase offer to the listing agent, structuring the terms with absolute, predatory precision. For the purchase price, she put down a flat, non-negotiable offer of \$115,000, backed by 100% liquid cash and a certified proof-of-funds letter from the [Quantum Employees Federal Credit Union](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off) so there would be no mortgage contingency and no appraisal bottleneck—all locked to a ten-day expedited close.
+She drafted a formal, legally binding purchase offer to the listing agent, structuring the terms with absolute, predatory precision. For the purchase price, she put down a flat, non-negotiable offer of $115,000, backed by 100% liquid cash and a certified proof-of-funds letter from the [Quantum Employees Federal Credit Union](https://books.raggiesoft.com/rachel/a-few-small-repairs/the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off) so there would be no mortgage contingency and no appraisal bottleneck—all locked to a ten-day expedited close.
 
 To ensure the bank’s asset manager didn't even attempt to counter-offer or spark a bidding war, Jessica deployed the ultimate, irresistible sweeteners.
 
 She formally waived her right to any structural or environmental inspections. She was bulldozing the house to the foundation anyway, so she didn't care about the black mold or the sinking roof. Buying it strictly "As-Is" entirely removed the bank's liability. Next, she included a clause stating she would absorb the cost of the industrial dumpsters required to empty the property of any abandoned debris, saving the lender thousands in immediate sanitation fees.
 
-Finally, she set the anchor: a \$25,000 non-refundable earnest money deposit, to be wired directly to the escrow company by 2:00 PM today. If she walked away, the bank kept twenty-five grand for absolutely nothing.
+Finally, she set the anchor: a $25,000 non-refundable earnest money deposit, to be wired directly to the escrow company by 2:00 PM today. If she walked away, the bank kept twenty-five grand for absolutely nothing.
 
 It was a flawless, frictionless, cash-heavy exit strategy for a bank drowning in toxic subprime assets. No asset manager in the bleeding housing market of May 2009 could legally justify turning it down.
 

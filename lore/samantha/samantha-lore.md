@@ -60,7 +60,7 @@ This household operates as a highly coordinated, trauma-informed matriarchy desi
 
 - **The Zero-Gravity Sanctuary:** In addition to the band room, Toby has discovered a profound love for swimming at the municipal Fairlawn Recreation Center. For a body trapped in constant battles against gravity and severe autonomic spasticity, the water provides a "zero-gravity" environment. It is the one place where his joints do not hurt and his neurological misfires are suspended, heavily supported by his sisters and cousins in the water.
 
-- **The Financial Shield:** He receives zero government assistance (no SSI, SSDI, or Medicaid). The family deliberately rejected these programs to bypass the strict \$2,000 asset cap, refusing to artificially limit his future financial autonomy and wealth generation. The fortress provides for him entirely out-of-pocket.
+- **The Financial Shield:** He receives zero government assistance (no SSI, SSDI, or Medicaid). The family deliberately rejected these programs to bypass the strict $2,000 asset cap, refusing to artificially limit his future financial autonomy and wealth generation. The fortress provides for him entirely out-of-pocket.
 
 - **The Academic Choice:** Toby is highly gifted, and the local school system expects him to transfer to the elite Math & Science magnet program at Ocean Lakes High School. However, Toby actively rejects the magnet program to stay at Northwood High School.
 

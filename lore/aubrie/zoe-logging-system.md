@@ -67,7 +67,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 | :--- | :--- | :--- |
 | **`Thread 1 (Self)`** | **Zoë Wren Brooks** (`Agent(Self)` / `Agent(Zoë)` / `'Self'`) | Primary local execution thread; monitors Zoë’s own somatic state, `CPU_Load`, `Fin#` compilation, and emotional telemetry. |
 | **`Thread 2 (Observers)`** | **Constellation Pact Partners** (`Thread 2 (Aubrie)`, `Thread 2 (Madison)`, `Thread 2 (Lauren)`, `Thread 2 (Sarah)`, `Thread 2 (Jessica)`, and in Book 2 `Thread 2 (Megan)`) | Tracks the observing/co-regulating romantic Pact partners currently in the room (`IsJealous == false`, `EmotionalState == Supportive`). |
-| **`Thread 3 (Jordan)`** | **Aubrey "Jordan" Fuller $\rightarrow$ Jordan Shawn Kelly** (`Jordan.OS` / `Agent(Jordan)` / `agentJordan`) | Highest-priority monitored thread (`'PRIORITY_JORDAN_SECURITY'`); tracks Jordan’s non-verbal AAC/NeoEdit output, muscle tension, heart rate, and `Jordan.OS` stability. |
+| **`Thread 3 (Jordan)`** | **Aubrey "Jordan" Fuller → Jordan Shawn Kelly** (`Jordan.OS` / `Agent(Jordan)` / `agentJordan`) | Highest-priority monitored thread (`'PRIORITY_JORDAN_SECURITY'`); tracks Jordan’s non-verbal AAC/NeoEdit output, muscle tension, heart rate, and `Jordan.OS` stability. |
 | **`Thread 4 (Mark)`** | **Mark Shawn Anderson** (`Agent(Mark)` / `Observer(Mark)`) | Platonic brother, physical perimeter security, transit/wheelchair logistics, and Pre-Med/EMT medical triage thread. |
 | **`Thread 5 (Hannah)`** | **Hannah Ashlee Parker** (`Agent(Hannah)` / `Observer(Hannah)`) | Platonic sister, nursing assessment, sensory regulation, and physical-care support thread. |
 
@@ -85,7 +85,7 @@ Zoë’s internal operating system assigns fixed **Primary Concurrency Thread ID
 
 #### 1. The Constellation Pact & Core Suite (`Room214_Originals` + Expanded Constellation)
 * **`Agent(Self)`** / **`Agent(Zoë)`** — **Zoë Wren Brooks** (18, 5'4"; British-American Computer Science & Finance double major; creator of `Fin#` and `Z-SOX-302`).
-* **`Agent(Jordan)`** / **`Jordan.OS`** / **`agentJordan`** — **Aubrey "Jordan" Fuller $\rightarrow$ Jordan Shawn Kelly** (18, 5'5"; non-verbal autistic ambulatory/manual wheelchair user; General Engineering $\rightarrow$ Mechanical Engineering major).
+* **`Agent(Jordan)`** / **`Jordan.OS`** / **`agentJordan`** — **Aubrey "Jordan" Fuller → Jordan Shawn Kelly** (18, 5'5"; non-verbal autistic ambulatory/manual wheelchair user; General Engineering → Mechanical Engineering major).
 * **`Agent(Aubrie)`** / **`Observer(Aubrie)`** — **Aubrie Jean Kelly** (18, 5'8"; Jordan’s Anchor and Primary Safe Person; Industrial Systems Engineering major).
 * **`Agent(Madison)`** / **`Observer(Madison)`** — **Madison Elizabeth Scott** (18, 5'10"; Architecture major; co-organizer of physical sanctuary spaces).
 * **`Agent(Lauren)`** / **`Observer(Lauren)`** — **Lauren Nicole Barnes** (18, 5'11"; Aerospace Engineering major from Gander, NL; high-sensory warmth & grounding node).
