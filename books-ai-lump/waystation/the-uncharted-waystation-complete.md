@@ -1301,7 +1301,7 @@ Panic turned my palms ice-cold. Every wheelchair user on Earth knew an untreated
 
 **Date:** 2001-08-25 at 07:42 America/Los_Angeles
 
-![On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg)
+![Inside the sunlit concourse of the Pasco Intermodal Terminal on Saturday morning, August 25, 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms fiercely around her twenty-three-year-old brother Nolan Lennox (5-foot-7, olive jacket over navy tee) as Nolan tucks his forehead beneath her collarbone in their overdue sibling greeting embrace FIRST, while Mallory Walsh watches warmly beside Nolan's rescued manual wheelchair holding Ray Halstead's folded reference letter and all four matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean neatly against the wooden bench arm.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_gwen_first_greeting_hug.jpg)
 
 #### 7:42 AM — Five Minutes Before the Restroom Door
 
@@ -1361,6 +1361,8 @@ Gwen pulled me immediately against her right shoulder while right on my left, wi
 
 "I'm fired—nobody's ever going to hire me now," I choked out in sheer terror against Gwen's sleeve, my whole ribcage shaking as ninety hours without sleep collided with losing the one steady paycheck I had counted on. "Every job application asks why you got fired!"
 
+![On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox wraps both arms protectively around him from his right and Mallory Walsh holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg#fullwidth)
+
 "Hey—breathe with me for ten seconds, Nolan, because somebody back in Chesapeake made me promise to call him the minute we had you safe," Mallory said gently beside my left ear. Placing a folded letter on crisp Blue Tech letterhead and a white business card into my palm, she reached into her canvas tote, flipped open her small silver cell phone, and pressed speed-dial.
 
 Three rings later—just before eleven on Saturday morning back home in Tidewater—Mallory spoke warmly into the receiver for five seconds, smiled through her own damp eyelashes, and held the phone gently up to my ear.
@@ -1402,6 +1404,8 @@ Turning squarely toward her on the wooden bench while Gwen happily eased her arm
 ### Part 4: One Safe King Bed in Pasco, Skipping the Prismatic Corridor, and Three Hops Home
 
 **Date:** 2001-08-25 at 20:15 America/Los_Angeles
+
+![Inside a warm, dimly lit ground-floor accessible hotel room near Pasco Regional Airport on Saturday night, August 25, 2001, twenty-three-year-old Nolan Lennox lies fast asleep soundly and peacefully in the middle of the wide king-sized bed under a crisp white quilt while seventeen-year-old sister Gwen Lennox cuddles warmly along one side and twenty-three-year-old Mallory Walsh (with her thin silver wire-rimmed glasses folded neatly on the nightstand) sleeps peacefully along his other side, flanked by Nolan's parked manual wheelchair and all four shorter matte-silver and taller matte-charcoal single-tube Lofstrand forearm crutches.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p004_hotel_king_bed_sound_sleep.jpg)
 
 #### 8:15 PM — Four Crutches by the Nightstand and Ten Solid Hours of Peace
 
@@ -1669,6 +1673,8 @@ Snapping my steel wheel locks down with shaking fingers, I sat crying quietly be
 
 **Date:** 2001-08-28 at 14:15 America/Los_Angeles
 
+![Inside a sixth-floor semiprivate room at Puget Sound General Hospital in Seattle on a rainy late-August afternoon in 2001, twenty-three-year-old Nolan Lennox rests calmly in a light-blue hospital gown under a pale-blue diamond-patterned cotton blanket with an intravenous line taped on his left hand and his manual wheelchair and two matte-silver single-tube Lofstrand forearm crutches standing upright beside the wardrobe, speaking at eye level in quiet relief with compassionate hospital clinical social worker Ms. Rivera seated on a round rolling stool holding her clipboard.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_ms_rivera_hospital_recovery.jpg)
+
 #### 2:15 PM — Breaking the Fever and Lifting the Blame Off My Chest
 
 Steady late-August Pacific Northwest drizzle drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft, rhythmic pneumatic sigh every ninety seconds.
@@ -1701,7 +1707,7 @@ Five minutes later, Ms. Rivera was already dialing Chesapeake at the nurses' des
 
 **Date:** 2001-08-31 at 13:15 America/Los_Angeles
 
-![Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg)
+![Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on Friday afternoon at the start of Labor Day weekend in 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater) bends warmly over twenty-three-year-old Nolan Lennox's manual wheelchair to lock him in their tearful sibling greeting hug FIRST while Nolan presses his forehead beneath her collarbone, with Gwen's matte-charcoal and Nolan's matte-silver single-tube Lofstrand forearm crutches nearby and Mallory Walsh watching with misty-eyed warmth holding a folded navy fleece blanket.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_gwen_first_greeting_hug.jpg)
 
 #### 1:15 PM — Ten Brutal Days Without Our Greeting Hug, Ray's Voice, and One Massively Earned Embrace
 
@@ -1738,6 +1744,8 @@ Right on my right side, Gwen dropped onto the cushioned visitor chair flush agai
 "Let the brave mask go, Nolan—just lean on the two of us," Gwen whispered fiercely against my temple, rocking my shoulders gently while cool Puget Sound rain drummed against the sixth-floor hospital glass three thousand miles from Virginia. "What Tammy did to you in Pasco wasn't your fault, and losing that blue shirt wasn't your fault either. Mallory and I are holding the line right beside you from here on out."
 
 "I got fired, Gwenny—nobody's ever going to hire me with a termination on my record!" I gasped out in raw terror, my hands shaking uncontrollably against my jeans knees. "Grandpa's sick and I don't even have a job to keep a roof over us!"
+
+![Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox sits in his manual wheelchair crying openly inside the warm embrace of seventeen-year-old sister Gwen Lennox and Mallory Walsh as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg#fullwidth)
 
 "Hold right there, Nolan—somebody back home in Chesapeake made me promise to call him the minute I stood beside your wheelchair," Mallory said gently. Pressing a folded reference letter on crisp Blue Tech letterhead and a white business card into my palm, she reached into her cardigan pocket, flipped open her small silver cell phone, and dialed Virginia where it was just past four on Friday afternoon.
 
@@ -1803,9 +1811,13 @@ Feeling my whole frame stiffen rigid between them, neither Gwen nor Mallory let 
 
 All night long, neither woman loosened her hold around me once—even after midnight, when Gwen's breathing slowed into deep sleep against my right shoulder blade and Mallory drifted in and out beside my left arm, instinctively tightening her fingers around mine every time I flinched at a hallway ice machine or passing headlights outside the blackout curtains. Held tight and warm inside the safest embrace I had ever known, yet far too scared out of my mind to close my eyes in the dark, I lay wide awake staring at the thin silver seam of parking-lot light along the carpet without getting a single minute of sleep until pale gray Saturday dawn finally washed across the ceiling.
 
+![Inside a dimly lit ground-floor accessible airport hotel room near Sea-Tac on Friday night, August 31, 2001, twenty-three-year-old Nolan Lennox lies wide awake and tensely hypervigilant in the middle of the wide king-sized bed staring toward the shadowed deadbolted hallway door while seventeen-year-old sister Gwen Lennox on one side and twenty-three-year-old Mallory Walsh on his other side cuddle tightly and protectively around him, with Nolan's manual wheelchair by the blackout curtains and all four shorter matte-silver and taller matte-charcoal single-tube Lofstrand forearm crutches lined up beside the nightstand]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_hotel_king_bed_wide_awake.jpg#fullwidth)
+
 ### Part 5: Skipping the Prismatic Corridor via Midway and Home Before Junior Year
 
 **Date:** 2001-09-01 at 07:20 America/Los_Angeles
+
+![Moving calmly down a sunlit, flat carpeted concourse under a plain GATE B14 sign at Chicago Midway Airport on Saturday, September 1, 2001—with zero flashing neon tubes anywhere in sight—twenty-three-year-old Nolan Lennox rides in his black manual wheelchair atop a four-inch medical gel cushion with his olive duffel on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, flanked warmly by tall seventeen-year-old sister Gwen Lennox walking on her two matte-charcoal single-tube Lofstrand forearm crutches on his right and Mallory Walsh smiling beside his left wheel.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p005_midway_concourse_flight_home.jpg)
 
 #### 7:20 AM — Returning the Rental Car at Sea-Tac and Why Mallory Booked Midway Over O'Hare
 
@@ -1864,6 +1876,8 @@ With the front deadbolt turned and all four of our matte-silver and matte-charco
 ### Part 7: Eighteen Candles Around Grandpa's Table, Ray's Home Line, and Studio 205
 
 **Date:** 2001-10-19 at 18:30 America/New_York
+
+![Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg)
 
 #### 6:30 PM — Eighteen Candles in Person and Grandpa Walter's Peaceful Morning
 
@@ -2221,6 +2235,8 @@ Six feet away on the family-room sofa bed—the exact cushions we had shared sin
 
 **Date:** 2001-10-19 at 18:30 America/New_York
 
+![Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg)
+
 #### 6:30 PM — Eighteen Candles and Always There for Big Brother
 
 Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald Creek neighborhood by herself.
@@ -2538,6 +2554,8 @@ Behind her thin silver wire-rimmed glasses, Mallory's eyes shone bright and unmi
 "Come here, Nolan," Mallory whispered, stepping straight inside my reach to wrap both arms warmly around my neck and shoulders while I locked both of mine securely around her waist and forest-green cardigan—resting my cheek gently against her copper-auburn hair in a long, quiet, massively earned first hug that neither of us rushed by half a second.
 
 Three feet away through the half-open white doorway of Studio 205, eighteen-year-old Gwen sat motionless in her manual wheelchair with her cocoa mug forgotten in both hands—beaming out at the two of us with shining green-hazel eyes and the proudest, most wholeheartedly approving sisterly grin on Earth.
+
+![On the warm-lit second-floor terrazzo corridor landing outside half-open white apartment door 205 at Harborview Towers in Norfolk in March 2002, twenty-three-year-old Nolan Lennox and twenty-four-year-old Mallory Walsh share their warm, massively earned first two-armed hug beside Nolan's two matte-silver single-tube Lofstrand forearm crutches leaning neatly against the wall while eighteen-year-old sister Gwen Lennox sits in her manual wheelchair holding a mug of hot cocoa just inside the doorway, beaming with proud, wholehearted sisterly approval]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_mallory_first_hug_landing.jpg#fullwidth)
 
 ### Part 17: Third-Floor Food Court, Laced Fingers, and Nothing Left to Weaponize
 
