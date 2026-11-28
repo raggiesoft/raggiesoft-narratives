@@ -8,14 +8,14 @@ time: "12:14 EDT"
 location: "Third-Floor Food Court Escalator Well, The Admiral Center, Downtown Norfolk, Virginia"
 sender: "RaggieSoft Backstage Narrative POV & Legal Notes"
 recipient: "Readers of The Uncharted Waystation & Visitors to backstage.raggiesoft.com"
-relatedBookUrl: "https://books.raggiesoft.com/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-17-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize"
+relatedBookUrl: "https://books.raggiesoft.com/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-17-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize"
 relatedBookLabel: "The Uncharted Waystation — Chapter 1, Part 17: Third-Floor Food Court, Laced Fingers, and Nothing Left to Weaponize"
 image: "https://assets.raggiesoft.com/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_admiral_center_food_court_tammy.jpg"
 imageAlt: "Beneath the vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk, Mallory Walsh laces her fingers firmly over Nolan Lennox's hand on the tabletop alongside Gwen Lennox in her manual wheelchair while petite five-foot-tall ex-girlfriend Tammy stands speechless on the left with her arms crossed over her unzipped baby-blue cardigan."
 summary: "Because Chapter 1, Part 17 stays locked inside Nolan Lennox's first-person point of view, Nolan only sees Tammy step up to the planter rail already boiling with jealousy. Go behind the camera to learn what Tammy was actually preparing to do thirty seconds earlier on the escalator—and the Virginia indecent-exposure arrest she narrowly avoided when she spotted Mallory Walsh at the table."
 ---
 
-In [***The Uncharted Waystation* — Chapter 1, Part 17**](https://books.raggiesoft.com/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-17-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize), the narrative camera stays locked one hundred percent inside twenty-four-year-old **Nolan Lennox's** first-person point of view at a sunlit corner table on the third-floor food court of **The Admiral Center** in Downtown Norfolk.
+In [***The Uncharted Waystation* — Chapter 1, Part 17**](https://books.raggiesoft.com/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-17-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize), the narrative camera stays locked one hundred percent inside twenty-four-year-old **Nolan Lennox's** first-person point of view at a sunlit corner table on the third-floor food court of **The Admiral Center** in Downtown Norfolk.
 
 From Nolan's seat, his ex-girlfriend **Tammy** simply materializes three feet to the left of the brass planter rail with her arms crossed tightly over her ribs, already blotchy-pink with spite and ready to attack **Mallory Walsh**.
 
@@ -23,11 +23,13 @@ What Nolan never knows—because strict first-person POV prevents him from seein
 
 ---
 
-## 1. Thirty Seconds Before the Table: The Ficuses & The Escalator Blindspot
+## 1. Visiting Virginia From Washington State & The Escalator Blindspot
 
-When Tammy rode the glass escalator up to the third-floor food court off `CVTA Route 13` at `12:14 PM`, her angle of approach initially showed her **only Nolan**—sitting healthier and calmer than she had seen him in nine months—while a large terracotta-potted ficus planter momentarily screened off **Mallory Walsh** seated beside him and **Gwen** across the table.
+Inside the novel, neither Nolan nor Gwen ever learns where Tammy went after August 21, 2001—not even knowing that Tammy had quietly told Pinecrest Court landlord **Mr. Pruitt** before August 21 that she was **not renewing** her Chesapeake trailer lease past November 30, 2001 because she had planned all along to move out to **Kent, Washington** to live with her cousin **Travis**.
 
-For nine straight months—through all ninety days Tammy had refused to sign Nolan off her *Pinecrest Court* trailer lease until midnight on November 30, 2001—Tammy had convinced herself that autistic, literal-minded Nolan could never find another partner on his own, and that one bold physical jolt would collapse his resolve the exact same way she had reeled him back in after Breakup #1 (`September 2000`) and Breakup #2 (`May 2001`).
+Why, then, does Tammy suddenly ride up the glass escalator at **The Admiral Center** in Downtown Norfolk on Saturday afternoon, June 1, 2002? Behind the camera, **Tammy and her cousin Travis are briefly visiting Virginia to take care of some local affairs before heading back to Washington state**. While Travis handles an errand elsewhere downtown, Tammy wanders up into *The Admiral Center* food court at `12:14 PM`—where her angle of approach off the escalator initially shows her **only Nolan**, sitting healthier and calmer than she had seen him in nine months, while a large terracotta-potted ficus planter momentarily screens off **Mallory Walsh** seated beside him and **Gwen** across the table.
+
+Having snooped on local property records after her old lease ran out and learned Grandpa Walter's house had been sold, Tammy had convinced herself that autistic, literal-minded Nolan could never find another partner on his own, and that one bold physical jolt would rattle him right on the spot the exact same way she had manipulated him after Breakup #1 (`September 2000`) and Breakup #2 (`May 2001`).
 
 Stepping off the upper escalator comb-plate in her unzipped baby-blue cardigan over a single snug white ribbed shelf-bra camisole (worn braless thanks to its built-in elastic shelf liner), **Tammy was fully prepared to walk straight up beside Nolan's chair, use the open lapels of her cardigan to angle away from the counter line, and flash her breasts directly at Nolan right there in the public mall food court to try to win him back**—foolishly emboldened because she had actually pulled off that exact cardigan-shielded flash **without getting caught** nine months earlier inside the recessed steel coin-locker alcove of the `1961` Monticello Avenue Pathfinder terminal (`Chapter 1, Part 9`), forgetting that a wide-open Saturday noon skylight atrium lacked the thick concrete structural column and projecting locker bank that had hidden her from bus-station security.
 
