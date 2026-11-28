@@ -1231,7 +1231,7 @@ Back around Walter's kitchen table twenty minutes later with Pathfinder's printe
 
 Across the laminate table, Walter Lennox reached into his wallet without a second's hesitation and slid his blue-and-gold Tidewater Maritime Credit Union Visa card squarely between Gwen's notebook and mine.
 
-"Book two round-trip seats into Pasco on Meridian Airlines for Friday afternoon—plus a third return seat coming home Saturday with wheelchair bulkhead assistance for Nolan," Walter ordered quietly, his gray Navy eyes flint-steady despite the tremor in his thin knuckles. "I'll sign a notarized guardian travel letter at the credit union branch before noon so Gwen clears the gate with her high-school ID, and I'm holding down this house until you bring my grandson through that front door."
+"Book two seats into Pasco on Meridian Airlines for Friday afternoon—plus a rental car, a clean hotel room for Saturday night so that boy can sleep flat before flying, and three return seats coming home Sunday with wheelchair bulkhead assistance for Nolan," Walter ordered quietly, his gray Navy eyes flint-steady despite the tremor in his thin knuckles. "I'll sign a notarized guardian travel letter at the credit union branch before noon so Gwen clears the gate with her high-school ID, and I'm holding down this house until you bring my grandson through that front door."
 
 Only one gut-punch hit us before we drove to Norfolk International Airport on Friday afternoon.
 
@@ -1375,9 +1375,71 @@ Turning squarely toward her on the wooden bench while Gwen happily eased her arm
 
 ![On the sunlit wooden concourse bench of the Pasco Intermodal Terminal beside Nolan's rescued manual wheelchair and olive duffel bag, twenty-three-year-old Nolan Lennox and Mallory Walsh share a deeply emotional, massively earned two-armed hug while tall seventeen-year-old sister Gwen Lennox sits right beside them beaming with proud, wholehearted sisterly approval, with Nolan's shorter matte-silver and Gwen's taller matte-charcoal single-tube Lofstrand forearm crutches leaning neatly against the bench arm]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_mallory_earned_hug_gwen_approving.jpg#fullwidth)
 
-"Come on, you two," Gwen smiled warmly when Mallory and I finally eased half an inch apart with Mallory's fingers still laced tight through mine. "We've got three bulkhead seats waiting over at Pasco Regional Airport, and Grandpa Walter's holding down the fort waiting for us to bring my brother home."
+"Come on, you two," Gwen smiled warmly when Mallory and I finally eased half an inch apart with Mallory's fingers still laced tight through mine. "Mallory's got a rental car parked right outside the curb, an urgent-care clinic down the road to bandage your hip, and a quiet hotel room booked for tonight so you can get a real night's sleep before we fly you home tomorrow."
 
-### Part 4: Empty Work Polos, Ray's Personal Number, and Home in Studio 205
+### Part 4: One Safe King Bed in Pasco, Skipping the Prismatic Corridor, and Three Hops Home
+
+**Date:** 2001-08-25 at 20:15 America/Los_Angeles
+
+#### 8:15 PM — Four Crutches by the Nightstand and Ten Solid Hours of Peace
+
+By quarter past eight that Saturday evening inside a quiet ground-floor accessible room at a two-story brick airport hotel five minutes from Pasco Regional Airport, every sore muscle in my body felt as if somebody had finally cut the power to a screaming fire alarm.
+
+Right after loading my rescued manual wheelchair, detached steel footrests, and olive duffel into the trunk of Mallory's rented silver four-door Vanguard Fleet Services sedan outside the bus station that morning, Mallory had driven us straight to a Saturday walk-in urgent-care clinic up Road 68. Catching my left sitting bone five minutes before Tammy's restroom corridor had saved my skin by hours: the clinic doctor had cleaned and dressed the shallow stage-two pressure sore with sterile hydrocolloid pads before bacteria could ever take root, handed me a thick contoured medical foam cushion for tomorrow's flights, and told Gwen and Mallory plainly that the best medicine on Earth before putting me on three airplanes was hot food and twelve flat hours off my hip.
+
+After twenty minutes under a steaming roll-in hotel shower washing four states of diesel exhaust and rest-stop dust out of my hair—dressed in a clean heather-gray cotton t-shirt and soft drawstring lounge pants from my duffel—I eased carefully onto the center of the wide hotel king mattress on my good right side.
+
+Right beside the nightstand stood all four of our single-tube Lofstrand forearm crutches lined up neatly by height: my shorter matte-silver pair next to Gwen's taller matte-charcoal pair.
+
+Neither Gwen nor Mallory pulled out the corner armchair or left me to rattle around in the dark by myself.
+
+Wearing soft burgundy cotton lounge pants and an oversized Emerald Creek High tee, six-foot-one Gwen stretched out along the right side of the king bed behind my back and shoulders; a minute later, dressed in modest plaid pajama pants and a soft cream cotton t-shirt with her thin silver wire-rimmed glasses folded neatly beside the lamp, Mallory clicked the deadbolt double-checked, switched off the overhead fixture, and slipped under the crisp white hotel quilt along my left side.
+
+Without a trace of awkwardness or hesitation, both women cuddled tightly against me from either side.
+
+On my right, Gwen draped her long, steady arm snugly across my waist and tucked her forehead warm against the back of my shoulder the exact way we had slept through childhood thunderstorms on Grandpa Walter's pull-out sofa bed; on my left, facing me across the pillow, Mallory rested one warm arm gently across my ribs and laced her fingers loosely through mine atop the sheet.
+
+"Nobody's yelling, your wheelchair's safe inside our room, and neither one of us is letting go all night," Mallory murmured softly in the dim amber glow of the bathroom nightlight. "Go to sleep, Nolan."
+
+"Got your six, big brother," Gwen whispered sleepily behind my shoulder, giving me one gentle, grounding squeeze.
+
+Ninety hours of highway vibration, payphone blocks, and clenched teeth melted clean out of my chest in one long exhale. Safe in the middle between the two people I trusted most—held warm and snug from both sides with zero eggshells left anywhere in the room—my eyelids dropped shut before I could count to ten, and for the first time in four days, I slept deeply, dreamlessly, and soundly straight through until morning.
+
+***
+
+#### 7:25 AM, Sunday, August 26 — Skipping O'Hare's Prismatic Corridor and Touching Down in Norfolk
+
+Bright eastern Washington sunshine was warming the windshield when Mallory pulled our rented Vanguard Fleet Services sedan into the return lane at Pasco Regional Airport on Sunday morning, popped the trunk to unfold my manual wheelchair with that new contoured medical foam pad resting squarely atop the seat canvas, and wheeled my olive duffel inside the calm, single-story regional terminal beside Gwen and me.
+
+Waiting in the short Sunday-morning check-in queue while a cheerful Meridian Airlines gate agent tagged my manual wheelchair for jetbridge delivery—promising ground crews would bring my own chair right up to the aircraft cabin door at every connection—my schedule-memorizing eyes scanned the three stiff paper boarding passes Mallory handed me:
+
+Pasco to Denver. Denver to Washington Dulles. Washington Dulles down to Norfolk.
+
+Blinking once at the printed routing codes, my literal brain automatically compared the mileage against the big wall map behind the counter.
+
+"Hey, Mallory," I asked curiously as we strolled and rolled unhurriedly through the simple pre-boarding metal detector toward Gate Two without a single delay, "doesn't Meridian run way more flights out of Denver straight through Chicago O'Hare into Norfolk? Going through Dulles adds an extra stop."
+
+Walking right beside my left push-rim with her blue ballpoint pen tucked neatly behind her copper-auburn ponytail, Mallory adjusted her silver wire-rimmed glasses and gave me an immediate, knowing smile.
+
+"Meridian's reservations computer tried to put us through O'Hare twice on Thursday, and I told the agent absolutely not," Mallory said plainly. "Have you ever changed Meridian concourses at Chicago O'Hare, Nolan?"
+
+"Never been on an airplane in my life before today," I admitted honestly.
+
+"Between Concourse B and Concourse C at O'Hare, Meridian makes every connecting passenger go underground through what they call The Prismatic Corridor," Mallory explained, wincing slightly at the memory. "Eight hundred feet of moving walkways under thousands of flashing rainbow neon tubes, floor-to-ceiling mirrors on both sides, and loud electronic chimes echoing off hard glass. My parents connected through it once when I was nineteen, and halfway through that tunnel my autistic brain locked up so badly I had to sit on my suitcase with my hands over my ears for twenty minutes. There was zero chance on Earth I was routing you through a flashing neon sensory gauntlet the morning after four days on a bus. Denver and Dulles have plain carpet, daylight windows, and normal hallways."
+
+For three full seconds I just stared up at Mallory as we stopped beside the sunny Gate Two bulkhead chairs—feeling my throat go unexpectedly tight all over again.
+
+Not once in two years had Tammy ever thought forty-eight hours ahead to call for a bus lift, let alone thought about what loud lights or echoing crowds did to my head. Before she had even rescued me in Pasco, Mallory Walsh had quietly audited an entire airline hub map thousands of miles away just to shield my autistic nervous system from a tunnel I didn't even know existed.
+
+"Thank you, Mallory," I said quietly, reaching up to squeeze her hand. "Seriously—thank you."
+
+"Anytime, Lennox," Mallory smiled, her freckles warming pink as she sat down right on my left while Gwen settled happily into the seat on my right.
+
+Every single mile of those three flights felt like watching four days of misery run backward at five hundred miles an hour. Seated three-across in roomy Row One bulkhead seats on each aircraft—me cushioned comfortably in the middle shifting my weight off my bandaged hip every half hour, Gwen pointing out snow-dusted Rocky Mountain peaks and curving Midwest rivers out the oval window on my right, and Mallory sharing pretzel bags and talking Quantum OS memory architecture with me on my left—ground crews met us right at the jetbridge door in Denver and again at Washington Dulles with my unfolded manual wheelchair intact and waiting.
+
+When our final evening commuter hop touched down smoothly on the runway of Norfolk International Airport just before eight o'clock Sunday night, humid coastal Virginia pine air greeted us outside the baggage-claim doors like an old friend. Loading my wheelchair into the trunk of Mallory's own familiar silver compact waiting in long-term parking, we rolled down Interstate 64 into Chesapeake and turned up Grandpa Walter's quiet maple-lined street off Eden Way North at eight-thirty—where the porch light blazed golden and seventy-nine-year-old Grandpa Walter stood waiting inside the open front doorway to pull all three of us straight into his arms.
+
+### Part 5: Empty Work Polos, Ray's Personal Number, and Home in Studio 205
 
 **Date:** 2001-12-01 at 15:30 America/New_York
 
@@ -1385,11 +1447,11 @@ Turning squarely toward her on the wooden bench while Gwen happily eased her arm
 
 #### 3:30 PM — Autumn Without Blue Tech and Ray Halstead's Personal Line
 
-Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening—after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever take hold—brought me back under Grandpa Walter's roof off Eden Way North into an autumn where my whole daily routine had to be rebuilt from scratch.
+Landing back at Norfolk International Airport that Sunday evening in August—after sleeping ten solid hours cuddled safe between Gwen and Mallory in Pasco and skipping O'Hare's flashing neon tunnel all the way home through Denver and Dulles—brought me back under Grandpa Walter's roof off Eden Way North into an autumn where my whole daily routine had to be rebuilt from scratch.
 
 That Monday morning, August twenty-seventh, while Danny from Blue Tech's warehouse and a Chesapeake sheriff's deputy stood ten minutes of civil standby outside Pinecrest Court to haul my full-sized bed, oak dresser, nineteen-inch television, silver VCR and DVD combo, and laptop safely under a tarp in Grandpa Walter's garage, I filed my ninety-day written lot non-renewal notice so my name would drop off Mr. Pruitt's lease automatically at midnight on November thirtieth.
 
-Still, for the first three weeks back at Grandpa's house, not having Store Four-Twenty-One four blocks down the street ached every single morning. Out of twenty-two months of muscle memory, I kept waking up on Grandpa's downstairs pull-out sofa bed—where the doctor had ordered me to stay off my left sitting bone while my skin finished closing—and reaching automatically toward the closet for a royal-blue work polo I wasn't allowed to wear anymore, stretching my final Blue Tech vacation-payout check to cover my share of the trailer notice.
+Still, for the first three weeks back at Grandpa's house, not having Store Four-Twenty-One four blocks down the street ached every single morning. Out of twenty-two months of muscle memory, I kept waking up on Grandpa's downstairs pull-out sofa bed—where the urgent-care doctor had ordered me to stay off my left sitting bone while my skin finished closing—and reaching automatically toward the closet for a royal-blue work polo I wasn't allowed to wear anymore, stretching my final Blue Tech vacation-payout check to cover my share of the trailer notice.
 
 Yet being home at Grandpa's house off the clock carried three quiet mercies I couldn't see in August.
 
@@ -1615,7 +1677,7 @@ Back in August, Grandpa's cardiologist had quietly warned us his weakened heart 
 
 "Count on it, sailor," Grandpa whispered. "See you at home."
 
-### Part 4: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205
+### Part 4: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac
 
 **Date:** 2001-10-26 at 13:15 America/Los_Angeles
 
@@ -1623,7 +1685,7 @@ Back in August, Grandpa's cardiologist had quietly warned us his weakened heart 
 
 #### 1:15 PM — Sixty-Six Days Without Our Greeting Hug, My Lost Shirt, and One Massively Earned Embrace
 
-Seven days after Gwen turned eighteen—carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Meridian Airlines tickets backed by Grandpa Walter's Tidewater Maritime Credit Union card—the double doors of Puget Sound General's sixth-floor discharge lounge swung open.
+Seven days after Gwen turned eighteen—carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Gateway Airlines tickets through Chicago Midway backed by Grandpa Walter's Tidewater Maritime Credit Union card—the double doors of Puget Sound General's sixth-floor discharge lounge swung open.
 
 Sitting dressed in clean jeans and my heather-navy t-shirt atop a brand-new four-inch medical gel wheelchair cushion inside my rescued manual wheelchair, my breath stopped dead in my throat.
 
@@ -1669,15 +1731,73 @@ Tears shone bright behind Mallory's silver wire-rimmed glasses as the warmest, m
 
 ![Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle, fully dressed twenty-three-year-old Nolan Lennox sits in his manual wheelchair with his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, locked in a deeply emotional, massively earned two-armed hug with Mallory Walsh kneeling warmly beside him while newly eighteen-year-old sister Gwen Lennox sits right beside Nolan's wheel with her matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair, beaming with proud, wholehearted sisterly approval]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_mallory_earned_hug_gwen_approving.jpg#fullwidth)
 
-"Okay, you two," Gwen smiled gently when Mallory finally eased back just enough to lace her fingers warmly over my hand on my wheelchair armrest. "We aren't home in Tidewater yet—we still have Nolan's discharge signatures, post-September-eleventh airport checkpoints, and two flights ahead of us—so let's get my brother out of Seattle while Grandpa Walter's holding watch for his face."
+"Okay, you two," Gwen smiled gently when Mallory finally eased back just enough to lace her fingers warmly over my hand on my wheelchair armrest. "Your wound surgeon cleared you to fly tomorrow morning as long as we rest your hip flat at the airport hotel tonight first—so let's sign Nolan's discharge papers, load Mallory's rental car downstairs, and get my brother out of this hospital."
 
 ***
 
-#### 8:10 PM, Saturday, October 27 — Keeping Watch Until Morning, Ray's Reference, and Studio 205
+#### 9:40 PM — Four Crutches by the Nightstand and Wide Awake Inside Four Safe Arms
 
-True to every word of his sailor's vow, seventy-nine-year-old Grandpa Walter was still awake inside his downstairs bedroom off Eden Way North when Mallory's silver compact rolled into our Chesapeake driveway Saturday night from Norfolk International Airport.
+Rolling out through Puget Sound General's automatic glass doors into crisp, rain-washed fifty-degree Seattle air for the first time in sixty-two days had felt almost unreal—watching streetlights blur past the passenger window of Mallory's rented four-door Vanguard Fleet Services sedan for twenty quiet minutes down Interstate 5 until she pulled beneath the portico of a low-rise brick airport hotel just outside Seattle-Tacoma International Airport.
 
-Propped against two pillows beneath his dark-green and navy-blue plaid wool blanket with nasal oxygen tubing tucked behind his ears, Grandpa Walter opened his tired gray eyes the instant I rolled my manual wheelchair right up beside his mattress—with newly eighteen-year-old Gwen standing tall on her charcoal crutches behind my right shoulder and Mallory standing quietly in the doorway. Reaching out one thin, paper-light machinist hand to cover mine and Gwen's together, Grandpa looked straight at my healed, rested face and smiled the most peaceful smile I had ever seen.
+Inside our ground-floor accessible room, everything should have felt hundred-percent safe. My rescued manual wheelchair and brand-new four-inch medical gel seat cushion sat parked right inside the entry alcove, all four of our single-tube Lofstrand forearm crutches stood lined up neatly by height against the nightstand—my shorter matte-silver pair beside Gwen's taller matte-charcoal pair—and after a warm shower and hot chicken noodle soup, I lay stretched out in a clean cotton t-shirt and soft drawstring lounge pants right in the middle of the wide king-sized bed on my healed right side.
+
+Neither Gwen nor Mallory dreamed of leaving me on that mattress by myself.
+
+Dressed in modest cotton sleep tees and soft lounge pants, newly eighteen-year-old Gwen climbed onto the right side of the king bed behind my shoulders, while Mallory double-checked the steel privacy deadbolt and security flip-latch on the hallway door, set her thin silver wire-rimmed glasses beside the lamp, switched off the light, and slipped under the warm hotel quilt along my left side.
+
+Right away, both women cuddled tightly against me from either side—Gwen wrapping her long, familiar arm firmly across my waist and pressing her forehead warm against the back of my shoulder, while Mallory nestled close along my left side, draping her arm securely across my chest and lacing her warm fingers tightly through mine.
+
+For sixty-two straight nights up on Puget Sound General's sixth floor, bright nurse-station lights, electronic badge doors, and twenty-four-hour hospital staff had stood ten feet outside my room.
+
+The split second that hotel lamp clicked dark inside a quiet ground-floor room in Washington State—the exact state where Tammy had screamed in my face and vanished into the rain after locking that Pasco bathroom door—pure, suffocating terror slammed into my chest like ice water.
+
+My eyes snapped wide open in the dark, my pulse hammering so hard against my ribs I was sure both Gwen and Mallory could feel it through my shirt. Every metallic tick of the wall heater, every muffled stranger's footstep walking past our corridor door, every distant rumble of a late-night jet climbing out of Sea-Tac sent cold panic shooting down my spine—half my brain terrified Tammy somehow knew I was out of the hospital and was about to rattle that doorknob, the other half terrified that if I let my eyelids close for ten seconds, I would wake up trapped behind white restroom tile with my crutches out of reach and gray static swallowing the ceiling.
+
+Feeling my whole frame stiffen rigid between them, neither Gwen nor Mallory let go by half an inch.
+
+"Hey—it's just us, Nolan," Gwen whispered softly against the back of my neck, tightening her warm arm around my ribs in that steady deep-pressure squeeze she had used since we were kids. "Deadbolt's locked, safety latch is flipped, and Tammy has zero idea where we are. Nobody is getting through that door."
+
+"Right here on your left, Nolan," Mallory murmured gently in the dark, pulling my trembling knuckles closer against her collarbone and rubbing her thumb in slow, predictable four-second circles across the back of my hand. "You don't have to force yourself to sleep if your head won't let you. Gwen and I have both sides covered until morning."
+
+All night long, neither woman loosened her hold around me once—even after midnight, when Gwen's breathing slowed into deep sleep against my right shoulder blade and Mallory drifted in and out beside my left arm, instinctively tightening her fingers around mine every time I flinched at a hallway ice machine or passing headlights outside the blackout curtains. Held tight and warm inside the safest embrace I had ever known, yet far too scared out of my mind to close my eyes in the dark, I lay wide awake staring at the thin silver seam of parking-lot light along the carpet without getting a single minute of sleep until pale gray Saturday dawn finally washed across the ceiling.
+
+### Part 5: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch
+
+**Date:** 2001-10-27 at 07:20 America/Los_Angeles
+
+#### 7:20 AM — National Guard Checkpoints and Why Mallory Booked Midway Instead of O'Hare
+
+Pale, rain-washed Saturday morning light filtered across the concrete columns of the rental-car return garage at Seattle-Tacoma International Airport when Mallory backed our rented Vanguard Fleet Services sedan into its numbered stall, lifted my manual wheelchair and four-inch medical gel seat cushion out of the trunk, and helped me settle aboard with zero rush despite the dark exhaustion rings beneath my eyes.
+
+Stepping through the sliding glass terminal doors into my very first airport six weeks after September eleventh felt like rolling onto a military base.
+
+Concrete barriers lined the outer curb, bold black-and-white placards warned that nobody without a same-day boarding pass could walk past security, and two armed Washington National Guard soldiers in woodland camouflage stood alert beside the metal-detector lane. Newly eighteen-year-old Gwen stepped smoothly up to the podium first on her tall matte-charcoal crutches, handing over her brand-new horizontal adult Virginia identification card right alongside mine and Mallory's.
+
+Before a single beep could startle my raw, sleep-deprived nerves, Mallory quietly walked me through every step in advance: lifting all four of our single-tube Lofstrand forearm crutches onto the conveyor belt, waiting calmly while a polite screener ran a handheld wand around my wheelchair frame and gently checked my four-inch medical gel cushion, and collecting bright gate-check tags so ground crews would bring my own manual wheelchair right up to the jetbridge door at every stop.
+
+Ten minutes later, rolling down the sunlit concourse to our Gateway Airlines departure gate, my tired eyes scanned the overhead flight monitors—and spotted our two hops home:
+
+Seattle-Tacoma to Chicago Midway, connecting straight on to Norfolk International Airport.
+
+Two gates down the glass corridor, a departure board for Meridian Airlines listed an earlier flight heading east to Norfolk by way of Chicago O'Hare.
+
+"Mallory," I rasped softly over my lukewarm cup of terminal water as she and Gwen sat down on either side of my wheelchair beside the bulkhead pre-board sign, "didn't Gateway Airlines only start flying out of Norfolk three weeks ago at the beginning of October? How come we're flying Gateway into Midway instead of Meridian through O'Hare?"
+
+Adjusting her thin silver wire-rimmed glasses, Mallory gave my hand a warm, steady squeeze.
+
+"The minute Gateway announced Norfolk service back on October seventh, I checked their Chicago Midway connection specifically so we wouldn't have to touch O'Hare," Mallory answered plainly. "If you fly Meridian through Chicago O'Hare, changing between Concourse B and Concourse C forces every wheelchair and crutch passenger underground through what they call The Prismatic Corridor—eight hundred feet of kinetic flashing rainbow neon tubes overhead, mirrored walls on both sides, and loud electronic chimes echoing off the glass. I went through that tunnel once with my parents, Nolan, and because of my autism it tripped my sensory wiring so hard my chest locked up for half an hour. After sixty-two days in a hospital ward and zero sleep last night, there was no way on Earth I was taking you anywhere near The Prismatic Corridor. Chicago Midway is one flat, ordinary concourse with normal ceiling lights."
+
+Even through a sleepless fog, hearing that made tears prick hot behind my eyelids—not scared tears this time, just quiet awe that a woman existed on this planet whose brain worked like mine and who guarded my blind spots before I even knew they were there.
+
+Every mile across the sky proved Mallory right. Seated three-across in Row One bulkhead seats on both Gateway Airlines jets—me resting on my four-inch medical gel cushion right in the middle, Gwen keeping one warm arm tucked through mine on my right, and Mallory holding my left hand steady during takeoff and landing—Chicago Midway turned out to be exactly as calm and straightforward as she had promised: ground crew met us right at the open aircraft door with my manual wheelchair, and our connecting Norfolk gate sat four flat gates down the exact same carpeted pier without a single flashing neon tube in sight.
+
+***
+
+#### 8:10 PM EDT, Saturday, October 27 — Keeping Watch Until Morning, Ray's Reference, and Studio 205
+
+Touching down after dark at Norfolk International Airport—where Mallory loaded my wheelchair and all four crutches into the trunk of her own familiar silver compact waiting in long-term parking and drove us down Interstate 64 into Chesapeake—true to every word of his sailor's vow, seventy-nine-year-old Grandpa Walter was still awake inside his downstairs bedroom off Eden Way North when our headlights swept into the driveway at ten minutes past eight.
+
+Propped against two pillows beneath his dark-green and navy-blue plaid wool blanket with nasal oxygen tubing tucked behind his ears, Grandpa Walter opened his tired gray eyes the instant I rolled my manual wheelchair right up beside his mattress—with newly eighteen-year-old Gwen standing tall on her charcoal crutches behind my right shoulder and Mallory standing quietly in the doorway. Reaching out one thin, paper-light machinist hand to cover mine and Gwen's together, Grandpa looked straight at my healed face and smiled the most peaceful smile I had ever seen.
 
 "Made it home, boy," Grandpa whispered softly. "Both of you... look after each other now."
 
