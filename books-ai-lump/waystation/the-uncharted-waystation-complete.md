@@ -2333,7 +2333,16 @@ Every muscle down my spine locked solid at once.
 
 Standing right beside the brass planter rail in chunky white platform sneakers, flared jeans, and that exact pastel baby-blue zip cardigan worn open over a white ribbed camisole was Tammy.
 
+*[On other Story Paths:]*
+
 I hadn't laid eyes on her in more than nine months—not since two security guards escorted her out of the Norfolk Pathfinder terminal after she slapped me across the face in front of thirty witnesses, and not once through all ninety days she had stubbornly refused to sign me off Mr. Pruitt's trailer lease convinced grief after Grandpa Walter's funeral would bring me begging back to Route 13.
+
+* * *
+
+*[If continuing from Story Path: Ticket Snap Refuse Boarding:]*
+
+I hadn't laid eyes on her in more than nine months—not since I refused the steep Gate Four steps at the Norfolk Pathfinder terminal and two security guards ordered her onto the departing Richmond coach alone after she slapped me across the face in front of forty witnesses, and not once through all ninety days after she straggled back to Chesapeake and stubbornly refused to sign me off Mr. Pruitt's trailer lease convinced grief after Grandpa Walter's funeral would bring me begging back to Route 13.
+
 
 Clearly riding downtown off the thirteen bus for Saturday shopping, Tammy had spotted me from the escalator landing—and for two seconds her doe-brown eyes darted in sheer, jarring disbelief from my clean collared shirt, to Gwen sitting tall and calm in her wheelchair across the table, and straight down to Mallory Walsh's fingers laced unmistakably through mine on the tabletop.
 
@@ -2377,7 +2386,16 @@ Color drained straight out of Tammy's cheeks, replaced a second later by furious
 
 Right across the table, Gwen clicked both wheelchair wheel locks tight, reached behind her backrest for her matte-charcoal forearm crutches, and rose smoothly to her full six-foot-one height—towering a full thirteen inches above five-foot-nothing Tammy without stepping an inch closer or raising her voice.
 
+*[On other Story Paths:]*
+
 "And look right over by the glass elevator bank, Tammy," Gwen said coolly, nodding her chin toward two uniformed Admiral Center security officers strolling steadily along the third-floor skylight walkway forty feet away. "Last August when you lost your temper in Norfolk, security walked you out of the Pathfinder station. Keep standing by our table trying to start a scene, and they can walk you down to the thirteen bus stop too."
+
+* * *
+
+*[If continuing from Story Path: Ticket Snap Refuse Boarding:]*
+
+"And look right over by the glass elevator bank, Tammy," Gwen said coolly, nodding her chin toward two uniformed Admiral Center security officers strolling steadily along the third-floor skylight walkway forty feet away. "Last August when you lost your temper in Norfolk, Pathfinder security gave you ten seconds to get on your bus alone before calling Norfolk PD. Keep standing by our table trying to start a scene, and mall security can walk you down to the thirteen bus stop too."
+
 
 For four ragged seconds Tammy stared from Gwen towering calm and immovable across the table, to Mallory sitting unshakeably beside me with her fingers laced through mine, to the two approaching mall security uniforms—realizing with visible, suffocating fury that her biggest piece of ammunition had exploded harmlessly into thin air. She couldn't make Mallory flinch, she couldn't turn Mallory against Gwen, and she couldn't make me crawl back.
 
@@ -2411,7 +2429,16 @@ Gwen reached toward the kitchen end of our small rectangle, popped open the tiny
 
 "Look at the simulation window now, Nolan," Gwen said happily, angling the warm LCD screen of her Quantum OS 2000 Professional laptop toward my eyes on the bed between us. All afternoon, without a single crash or freeze, her orbital plotter had been tracing two glowing spheres—one large pale circle, one smaller amber companion—locked in a gentle, unbreakable loop. "Even when an outside drift tugs at the outer ring, two moons locked in resonance pull each other right back into balance. Neither one lets the other drift into the dark."
 
+*[On other Story Paths:]*
+
 For just a second, the word *dark* snagged on an ugly memory I hated—that suffocating single-wide trailer off Route 13 in Chesapeake, and sitting humiliated in tears in my wheelchair in the middle of the Norfolk Pathfinder terminal a year ago after Tammy smacked me across the face before she even reached the ticket counter. Even after watching Mallory and Gwen shut Tammy down cold at The Admiral Center back in June so she never dared approach our table again, my jaw tightened half a millimeter before I realized my expression had shifted.
+
+* * *
+
+*[If continuing from Story Path: Ticket Snap Refuse Boarding:]*
+
+For just a second, the word *dark* snagged on an ugly memory I hated—that suffocating single-wide trailer off Route 13 in Chesapeake, and sitting humiliated in tears in my wheelchair in the middle of the Norfolk Pathfinder terminal a year ago after I refused those steep Gate Four bus steps and Tammy smacked me across the face before boarding for Richmond alone. Even after watching Mallory and Gwen shut Tammy down cold at The Admiral Center back in June so she never dared approach our table again, my jaw tightened half a millimeter before I realized my expression had shifted.
+
 
 Gwen spotted it instantly. She always did.
 
