@@ -1461,27 +1461,39 @@ Every single mile of those three flights felt like watching four days of misery 
 
 When our final evening commuter hop touched down smoothly on the runway of Norfolk International Airport just before eight o'clock Sunday night, humid coastal Virginia pine air greeted us outside the baggage-claim doors like an old friend. Loading my wheelchair into the trunk of Mallory's own familiar silver compact waiting in long-term parking, we rolled down Interstate 64 into Chesapeake and turned up Grandpa Walter's quiet maple-lined street off Eden Way North at eight-thirty—where the porch light blazed golden and seventy-nine-year-old Grandpa Walter stood waiting inside the open front doorway to pull all three of us straight into his arms.
 
-### Part 5: Empty Work Polos, Ray's Personal Number, and Home in Studio 205
+### Part 5: Resting Off the Clock on Eden Way North When the Sky Went Silent
+
+**Date:** 2001-09-11 at 09:03 America/New_York
+
+#### 9:03 AM — Grandpa's Silver-Tan Sedan and Three Safe Pairs of Hands
+
+For the first two weeks back under Grandpa Walter's roof off Eden Way North—resting flat on my right side across the unfolded downstairs family-room sofa bed just like the Pasco urgent-care doctor had ordered so my shallow sitting-bone skin could finish closing—waking up every morning without a Blue Tech schedule on the refrigerator had felt like a hollow ache in my chest.
+
+Then Tuesday morning arrived under a cloudless, brilliant blue Tidewater sky, and being home off the clock beside seventy-nine-year-old Grandpa Walter turned into a quiet mercy neither of us had seen coming.
+
+Instead of standing four blocks away surrounded by fifty store televisions when live CSN bulletins cut into the morning broadcast at nine-oh-three—first from New York, then up in Northern Virginia at the Pentagon less than two hundred miles north of our street, and then federal air-traffic control ordering every commercial passenger plane in the country onto the ground at once—I was right there in Grandpa's family room when every landline circuit across Chesapeake slammed into a rapid fast-busy tone.
+
+Grandpa Walter didn't waste five minutes waiting on dead telephone lines. Slipping his faded dark-blue Navy cap onto his head despite the thin, weathered lines around his mouth from his winter heart stay, he backed his silver-tan four-door sedan straight down the driveway and drove over to Emerald Creek High School himself—standing steady in the crowded attendance office after second-block Latin III to sign frightened seventeen-year-old Gwen out in person and bring her straight back through our front door.
+
+With the front deadbolt turned and all four of our matte-silver and matte-charcoal Lofstrand forearm crutches lined up neatly against the living-room wall while distant military fighter patrols rumbled high above an empty Virginia sky, Gwen climbed right onto the family-room sofa bed beside me beneath Grandpa's dark-green and navy-blue plaid wool blanket, and the three of us held tight to one another under one safe roof until evening fell.
+
+### Part 6: Empty Work Polos, Ray's Personal Number, and Home in Studio 205
 
 **Date:** 2001-12-01 at 15:30 America/New_York
 
 ![On the quiet second-floor terrazzo stairwell landing outside white apartment door 205 at Harborview Towers in Norfolk in December 2001, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy Henley and jeans) stands beaming on his two matte-silver single-tube Lofstrand forearm crutches while off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan over cream tee, canvas tote) rests one warm hand gently over his wrist and smiles up into his eyes.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_door_205_landing_confession.jpg)
 
-#### 3:30 PM — Autumn Without Blue Tech and Ray Halstead's Personal Line
+#### 3:30 PM — Autumn Without Blue Tech, Ray Halstead's Home Line, and Unlocking Studio 205
 
-Landing back at Norfolk International Airport that Sunday evening in August—after sleeping ten solid hours cuddled safe between Gwen and Mallory in Pasco and skipping O'Hare's flashing neon tunnel all the way home through Denver and Dulles—brought me back under Grandpa Walter's roof off Eden Way North into an autumn where my whole daily routine had to be rebuilt from scratch.
+Landing back at Norfolk International Airport that Sunday evening in August—after sleeping ten solid hours cuddled safe between Gwen and Mallory in Pasco and skipping O'Hare's flashing neon tunnel all the way home through Denver and Dulles—had carried me into an autumn under Grandpa Walter's roof where every piece of our next life came together one quiet step at a time.
 
-That Monday morning, August twenty-seventh, while Danny from Blue Tech's warehouse and a Chesapeake sheriff's deputy stood ten minutes of civil standby outside Pinecrest Court to haul my full-sized bed, oak dresser, nineteen-inch television, silver VCR and DVD combo, and laptop safely under a tarp in Grandpa Walter's garage, I filed my ninety-day written lot non-renewal notice so my name would drop off Mr. Pruitt's lease automatically at midnight on November thirtieth.
+That very next Monday morning, August twenty-seventh, while Danny from Blue Tech's warehouse and a Chesapeake sheriff's deputy stood ten minutes of civil standby outside Pinecrest Court to haul my full-sized bed, oak dresser, nineteen-inch television, silver VCR and DVD combo, and laptop safely under a tarp in Grandpa Walter's garage, I filed my ninety-day written lot non-renewal notice so my name would drop off Mr. Pruitt's lease automatically at midnight on November thirtieth.
 
-Still, for the first three weeks back at Grandpa's house, not having Store Four-Twenty-One four blocks down the street ached every single morning. Out of twenty-two months of muscle memory, I kept waking up on Grandpa's downstairs pull-out sofa bed—where the urgent-care doctor had ordered me to stay off my left sitting bone while my skin finished closing—and reaching automatically toward the closet for a royal-blue work polo I wasn't allowed to wear anymore, stretching my final Blue Tech vacation-payout check to cover my share of the trailer notice.
+For the first few weeks, waking up on Grandpa's downstairs pull-out sofa bed and reaching automatically toward the closet for a royal-blue work polo I wasn't allowed to wear anymore stung every morning—yet being home with zero retail shifts pulling me away meant I was right beside Grandpa Walter and Gwen all autumn long.
 
-Yet being home at Grandpa's house off the clock carried three quiet mercies I couldn't see in August.
+On Friday evening, October nineteenth, Grandpa Walter kept his sailor's vow to see Gwen blow out all eighteen candles on her homemade chocolate cake—where Gwen threw both arms around my neck shouting *A million times yes!* when I asked if she would come live with me once my trailer lease cleared—before Grandpa slipped peacefully away in his sleep at six o'clock the next morning. Side by side around the kitchen table without a store schedule rushing us, Gwen and I tackled Chesapeake Circuit Court probate, ten raised-seal death certificates, and selling our childhood two-story house to pay off Grandpa's winter medical home-equity loan one calm checklist line at a time.
 
-First, on Tuesday morning, September eleventh, instead of standing alone surrounded by fifty store televisions when the world fractured on CSN, I was right there in Grandpa's family room when Grandpa drove straight over to Emerald Creek High School to sign frightened seventeen-year-old Gwen out after second-block Latin III—letting all three of us hold tight to one another under Grandpa's dark-green and navy-blue plaid wool blanket all afternoon.
-
-Second, on Friday evening, October nineteenth, Grandpa Walter kept his promise to see Gwen blow out all eighteen candles on her homemade chocolate cake—where Gwen threw both arms around my neck shouting *A million times yes!* when I asked if she would come live with me once my trailer lease cleared—before Grandpa slipped peacefully away in his sleep at six o'clock the next morning. Without retail shifts pulling me away through late October, Gwen and I tackled Chesapeake Circuit Court probate, ten raised-seal death certificates, and selling our childhood two-story house to pay off Grandpa's winter medical home-equity loan one calm checklist line at a time.
-
-Third—and biggest of all—when Gwen spotted a staff posting in early November for a twenty-eight-hour-a-week seated Part-Time Campus Computer Lab and Helpdesk Technician downtown at the Community College of Hampton Roads Norfolk Campus inside the Martin Building, I remembered every word Ray Halstead had told me over Mallory's phone in Pasco: leaving Blue Tech's corporate eight-hundred employee-verification line completely off the form so an automated ineligible-for-rehire flag couldn't sink me, and writing Ray's direct home phone number right into the supervisor reference box instead.
+Then, in early November, Gwen spotted a staff posting for a twenty-eight-hour-a-week seated Part-Time Campus Computer Lab and Helpdesk Technician downtown at the Community College of Hampton Roads Norfolk Campus inside the Martin Building. Remembering every word Ray Halstead had told me over Mallory's cell phone in Pasco, I left Blue Tech's corporate eight-hundred employee-verification line completely off my application so corporate's automated ineligible-for-rehire flag couldn't sink me, and wrote Ray's direct home phone number right into the supervisor reference box instead.
 
 True to every word, when CCHR's campus IT director dialed Ray's home line after I fixed a broken TCP/IP gateway and hung print spooler in four minutes flat during my practical interview, fifty-two-year-old Ray spent fifteen full minutes singing my praises—explaining plainly with a grandfather's understanding of autism how I had been tricked onto an out-of-state bus after two spotless years without connecting stepping aboard to losing my job, and vouching that I was the finest Quantum OS 2000 diagnostic technician in Chesapeake.
 
@@ -1489,7 +1501,7 @@ CCHR hired me that same afternoon at two dollars more an hour than Blue Tech had
 
 Those state-college paystubs easily cleared Studio 205 on the second floor of Harborview Towers—a twenty-story nineteen-sixty-five brick-and-concrete high-rise overlooking The Hague inlet off West Brambleton Avenue in Norfolk, six blocks from Ghent High School where eighteen-year-old Gwen transferred to finish eleventh grade, and one six-minute ride down CVTA Route 2 or Route 11 from my CCHR lab bench.
 
-When Mallory Walsh drove up to Norfolk off the clock on Saturday afternoon, December first, to help us carry our rolling microwave-cart pantry inside tiny eleven-by-eighteen-foot Studio 205—taking one look at our single corner full-sized bed draped in Grandpa Walter's plaid blanket and surprising both Gwen and me by saying without a trace of weirdness that brother and sister sharing the one bed that fit so Gwen wasn't out on the street was smart engineering—she walked back out with me onto the second-floor stairwell landing where zero supervisor pin had stood between us since August twenty-fourth.
+Now, at half past three on Saturday afternoon, December first, Mallory Walsh drove up to Norfolk off the clock to help us carry our rolling microwave-cart pantry inside tiny eleven-by-eighteen-foot Studio 205. Taking one look at our single corner full-sized bed draped in Grandpa Walter's plaid blanket, Mallory surprised both Gwen and me by saying without a trace of weirdness that brother and sister sharing the one bed that fit so Gwen wasn't out on the street was smart engineering—before walking back out with me onto the second-floor stairwell landing where zero supervisor pin had stood between us since August twenty-fourth.
 
 Adjusting her thin silver wire-rimmed glasses with warm pink dusting her freckles, Mallory told me in crystal-clear syntax that she had been quietly in love with me since Store Four-Twenty-One, and asked me out on our first official Friday-night date up in Ghent—giving us ten peaceful, happy months together before a rainy October Friday night at nine-fifteen when Regional Mobility Supply put Gwen and me on hold for forty-seven minutes.
 
@@ -1653,53 +1665,87 @@ Behind the glass, the ticket agent didn't question me, belittle me, or ask a sin
 
 Snapping my steel wheel locks down with shaking fingers, I sat crying quietly beside the lowered counter while he spoke clearly and urgently into the black telephone receiver—asking dispatch for an emergency aid car and an officer at the Downtown Pathfinder ticket counter right away—before hurrying out through the staff side door with a cup of cool water to stand guard beside my shoulder until flashing red paramedic lights painted the rain-streaked glass blue and crimson.
 
-### Part 3: Puget Sound General, Grounded Skies, and Holding On Past October Nineteenth
+### Part 3: Air-Flotation Bedrest, Seattle Police, and Ms. Rivera's Plain Truth
+
+**Date:** 2001-08-28 at 14:15 America/Los_Angeles
+
+#### 2:15 PM — Zero-Sitting Orders and Lifting the Blame Off My Chest
+
+Steady Pacific Northwest mist drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft, rhythmic pneumatic sigh every ninety seconds.
+
+Lying flat on my right side to keep every ounce of pressure off my heavily bandaged left hip—with an intravenous antibiotic line taped cleanly into the back of my left wrist, my rescued manual wheelchair parked folded in the corner, and both of my matte-silver single-tube Lofstrand forearm crutches standing upright beside the steel wardrobe—my fever had finally broken below ninety-nine degrees for the first morning since Saturday.
+
+Seattle paramedics had wheeled me out from that Downtown Pathfinder ticket counter three days earlier burning up at a hundred and two point eight—a dangerous, rapidly spreading cellulitis infection radiating out from a deep stage-three sitting-bone pressure ulcer carved open by ninety-six hours wedged upright on rigid commercial bus vinyl without a wheelchair cushion. Within four hours of rolling through emergency triage, wound-care surgeons had taken me in to debride the infected tissue before sepsis could hit my bloodstream; within twenty-four hours, a calm, respectful Seattle police officer had stood beside my gurney to record my courtesy statement for Pasco authorities across the Cascades, and a soft-spoken hospital clinical social worker named Ms. Rivera had wheeled a courtesy phone to my rail so I could dial Grandpa Walter's kitchen landline off Eden Way North collect and hear seventeen-year-old Gwen's fierce, tearful sobs of relief three thousand miles away.
+
+When Ms. Rivera knocked gently on my open doorframe that Tuesday afternoon with a manila clipboard tucked under her arm and pulled a round rolling stool down to eye level beside my pillow, the physical fever was gone—yet a heavy, suffocating knot of shame still sat lodged squarely behind my breastbone.
+
+"Your morning white-blood-cell count finally came down into normal range, Nolan," Ms. Rivera said warmly, setting her clipboard across her lap without rushing. "How is your head holding up today now that the anesthesia and the fever fog have cleared?"
+
+Staring down at the faded blue diamonds printed across my cotton hospital blanket, my fingers twisted the edge of the sheet tight before I managed to say the quiet part out loud.
+
+"I keep replaying Pasco over and over," I admitted hoarsely, my ears burning hot with unearned embarrassment. "I'm twenty-three years old, ma'am. Even on crutches, my upper body's strong enough to push a manual wheelchair up curb cuts—and when Tammy locked that bathroom door after I told her I hurt too much and didn't want to, I didn't shove her away or yell for help. I just froze."
+
+Ms. Rivera didn't look away, didn't wince, and didn't feed me vague platitudes. Adjusting her glasses, she leaned slightly forward so her calm brown eyes met my literal gaze dead on the level.
+
+"Nolan, I want you to listen to me as plainly as a printed manual," Ms. Rivera said gently. "When a person has gone four straight days without real sleep, is running a climbing infection fever, and can barely stand upright on crutches without the room spinning, the human brain's fight-or-flight circuit physically shuts down into a freeze response to survive. Under Washington state law—Revised Code of Washington Section 9A.44.050—pressing someone into sexual contact when they are physically helpless or cognitively incapable of consent is second-degree rape. What happened behind that door in Pasco was a crime Tammy committed against you—never, ever a test of strength you failed."
+
+Even knowing Tammy had vanished into downtown Seattle rain without leaving a forwarding address in Washington, hearing both a uniformed police officer and a licensed clinical social worker state that exact boundary in plain black and white lifted an invisible ton of lead clean off my ribs. For the first time since Yakima, I exhaled all the way down to the bottom of my lungs without choking.
+
+Only the calendar news my wound surgeon delivered twenty minutes later during afternoon rounds hit hard.
+
+Lifting the edge of my sterile dressing with gloved hands before shaking his head firmly at my question about flying back to Norfolk by Labor Day, the grey-haired surgeon explained the uncompromising physics of deep tissue: debriding a stage-three ulcer down over the left sitting bone left an open crater that had to granulate closed from the bottom up under strict zero-sitting off-loading. Because I lived three thousand miles east in Virginia with zero home or family in Washington State to discharge me to for flat bedrest, sitting upright for six to eight hours across multiple commercial airplanes before six to eight weeks of fresh tissue closed that wound would tear every stitch straight back open to the bone.
+
+Lying back against my hospital pillow three time zones away from Grandpa Walter's weakened heart and Gwen's start of junior year, all I could do was stare at the wall calendar clipped to the foot of my bed and count down the weeks one slow drip of intravenous saline at a time.
+
+### Part 4: Hospital Television Static and Three Time Zones From Home
 
 **Date:** 2001-09-11 at 06:03 America/Los_Angeles
 
-#### 6:03 AM — Hospital Television Static and Three Time Zones From Home
+#### 6:03 AM — Empty Skies and Fast-Busy Circuits to Tidewater
 
-At three minutes past six in the morning Pacific Time—nine-oh-three back home in Chesapeake—the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget Sound General Hospital cut my morning nurse off mid-sentence.
+At three minutes past six on Tuesday morning Pacific Time—nine-oh-three back home in Chesapeake—the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget Sound General Hospital cut my morning nurse off mid-sentence.
 
-Lying flat on my right side atop a humming alternating-pressure air mattress with an intravenous antibiotic line taped cleanly into the back of my left wrist and both of my matte-silver single-tube Lofstrand forearm crutches standing upright beside the steel closet, I stared up at the glowing glass as dark smoke billowed into a cloudless New York sky three thousand miles east—and felt colder, smaller, and farther from my family than I had ever felt in my twenty-three years on Earth.
+Lying flat on my right side atop my humming alternating-pressure air mattress seventeen days into strict zero-sitting bedrest, with both of my matte-silver single-tube Lofstrand forearm crutches standing upright beside the steel closet ten feet out of reach, I stared up at the glowing glass as dark smoke billowed into a cloudless New York sky three thousand miles east—and felt colder, smaller, and farther from my family than I had ever felt in my twenty-three years on Earth.
 
-Seattle paramedics had wheeled me out from that Pathfinder ticket counter seventeen days earlier running a hundred-and-two-point-eight fever I hadn't even realized I had—with dangerous cellulitis spreading rapidly around a deep stage-three sitting-bone pressure ulcer caused by ninety-six hours wedged upright on rigid commercial bus vinyl without a wheelchair pad. Within four hours of admission, wound-care surgeons had debrided the infection and ordered strict zero-sitting bedrest on air-flotation cushions; within twenty-four hours, after a calm, respectful Seattle police officer stood beside my gurney to take my statement for Pasco authorities across the mountains, a soft-spoken hospital clinical social worker named Ms. Rivera had helped me dial Grandpa Walter's kitchen landline off Eden Way North collect so Gwen's terrified sobs of relief could ring right against my ear.
+My morning nurse stood frozen at the foot of my bed with a plastic cup of antibiotic tablets still poised in her palm, reaching slowly for the corded bedrail remote to turn the volume up just above a whisper.
 
-During her follow-up visit two days later—once intravenous antibiotics finally broke my fever and I stared miserably at my hospital blanket confessing how confused and ashamed I still felt that I hadn't been strong enough to push Tammy away behind that Pasco restroom lock—Ms. Rivera had pulled her rolling stool to eye level and confirmed in plain black and white that my gut instinct at the Seattle ticket window had been one hundred percent right. Under Washington law—Revised Code of Washington Section 9A.44.050—when a person is feverish, injured, and cognitively disoriented after four days without sleep, pressing them into sexual contact while they lack the mental capacity to consent *is* second-degree rape and is never, ever the survivor's fault. Even though Tammy had vanished anonymously out of the downtown bus station without leaving a Washington address, hearing both the officer and a licensed clinical social worker state that rule plainly lifted a suffocating ton of confused self-blame clean off my chest.
+For how my autistic brain was wired—counting my whole life on printed schedules and news anchors to state steady, verified truth—watching live CSN bulletins cascade across that hospital ceiling screen over the next two hours felt like watching the floor of the world give way. First came word from New York, then Northern Virginia at the Pentagon less than two hundred miles north of Chesapeake—right up the map from Naval Station Norfolk where Grandpa Walter had served—and then federal air-traffic control ordering every civilian airliner across the entire United States onto the ground at once, while garbled early wire bulletins flashed unconfirmed reports about a car bomb outside the State Department, a possible plane down near Camp David, and commercial flights still unaccounted for overhead.
 
-What nothing in Puget Sound General could speed up was human tissue healing—or an empty American sky.
+Outside my sixth-floor Seattle glass, the normal steady stream of passenger jets climbing south out of Sea-Tac vanished into eerie, absolute silence.
 
-Watching live CSN bulletins cascade across my hospital television over the next two hours—first New York, then Northern Virginia at the Pentagon less than two hundred miles north of Chesapeake, then federal air-traffic control ordering every civilian airliner across the United States onto the ground at once while garbled early wire reports flashed rumors about a car bomb at the State Department and unaccounted-for flights—my heart hammered hard enough to set off the bedside pulse-oximeter alarm twice. Every long-distance circuit into Tidewater barked back a rapid fast-busy tone until four o'clock that afternoon, when Gwen finally got through from Grandpa's kitchen phone to swear through tears that she and Grandpa Walter were safe under his green-and-navy plaid wool blanket at home.
+Inside my chest, my heart hammered hard enough to set off the bedside pulse-oximeter alarm twice.
 
-Even after commercial aviation slowly reopened under armed National Guard checkpoints later that month, my wound surgeon shook his head firmly at every discharge request: sitting upright in an economy or bulkhead airline seat for six cross-country hours before fresh granulation tissue closed my left sitting bone would rip the wound straight back open to the bone.
+Reaching across my raised steel bedrail for the heavy beige hospital telephone, I dialed Grandpa Walter's kitchen number off Eden Way North with shaking fingers, then Emerald Creek High School's main office where seventeen-year-old Gwen was supposed to be sitting in morning classes. Hour after agonizing hour, every long-distance circuit into Tidewater barked back the exact same rapid fast-busy tone—two harsh pulses a second, every trunk line into Hampton Roads slammed completely shut—leaving me trapped flat on my side three thousand miles away until four o'clock that afternoon Pacific Time, when my bedside phone finally rang shrill and loud and Gwen's shaking voice broke through in tears to swear that Grandpa had pulled her out of school and both of them were safe under his green-and-navy plaid wool blanket at home.
 
-***
+### Part 5: Eighteen Candles Over a Corded Hospital Phone and Grandpa's Iron Vow
 
-#### 3:30 PM, Friday, October 19 — Eighteen Candles Over a Corded Hospital Phone
+**Date:** 2001-10-19 at 15:30 America/Los_Angeles
 
-Five and a half weeks after the skies went quiet, grey October Puget Sound drizzle streaked my sixth-floor hospital window while I cradled the heavy beige bedside telephone receiver against my ear with both hands.
+#### 3:30 PM — Singing Across Three Thousand Miles and Holding Watch One More Week
 
-Three thousand miles east in Chesapeake, it was six-thirty in the evening on Friday, October nineteenth.
+Grey October Puget Sound drizzle streaked steadily down my sixth-floor hospital window while I sat propped at a careful thirty-degree angle—finally cleared by my wound surgeon for fifteen-minute seated intervals now that fresh pink tissue had nearly finished closing my left hip—cradling the heavy beige bedside telephone receiver against my ear with both hands.
+
+Three thousand miles east in Chesapeake, Virginia, the kitchen wall clock had just reached six-thirty on Friday evening, October nineteenth.
 
 Gwen's eighteenth birthday.
 
-For seventeen straight years—since the day Grandpa Walter brought me to visit Mom and Dad's hospital room on silver toddler crutches to meet my tiny newborn baby sister—I had never missed a single one of Gwen's birthdays. Missing her eighteenth birthday because I hadn't locked my wheelchair brakes in Norfolk felt like swallowing broken glass.
+For seventeen straight years—ever since the afternoon Grandpa Walter walked five-year-old me down a Norfolk maternity corridor on tiny silver toddler crutches to meet my newborn baby sister—I had never missed a single one of Gwen's birthdays. Even after commercial airliners had slowly returned to American skies under armed National Guard checkpoints back in late September, my surgeon's strict tissue-healing clock had kept me pinned inside Puget Sound General week after week. Missing the night my little sister officially became a legal adult because I hadn't locked my wheelchair brakes in Norfolk felt like swallowing broken glass.
 
-"Ready on three, Seattle?" Gwen's warm, brave voice rang clear down the long-distance line, trying with everything in her eighteen-year-old heart not to let me hear how badly she wished I were sitting across Grandpa's kitchen table instead of three time zones away in a hospital gown.
+"Ready on three, Seattle?" Gwen's warm, brave voice rang clear down the long-distance copper line, trying with everything in her eighteen-year-old heart not to let me hear how badly she wished I were sitting across Grandpa's kitchen table beside her chocolate sheet cake instead of three time zones away in a cotton hospital shirt.
 
-"Ready, birthday girl," I whispered thickly, wiping hot tears off my cheek with my hospital wristband sleeve as Grandpa Walter's raspy, oxygen-thinned baritone joined mine from the kitchen speakerphone to sing *Happy Birthday* across the continent—followed by the unmistakable *whoosh* of Gwen blowing all eighteen candles out over the receiver.
+"Ready, birthday girl," I whispered thickly, wiping hot tears off my cheek with my hospital wristband sleeve as Grandpa Walter's raspy, oxygen-thinned baritone joined mine over the kitchen speakerphone to sing *Happy Birthday* in off-key harmony across the continent—followed by the unmistakable *whoosh* of Gwen blowing all eighteen candles out at once and clapping into the receiver.
 
-Then Grandpa Walter picked up the handset himself.
+Then the plastic handset rustled on the other end as Grandpa Walter picked up the kitchen phone himself.
 
-Back in August, Grandpa's cardiologist had quietly warned us his weakened heart might barely carry him to October twentieth. Even over copper telephone wire, I could hear the soft continuous hiss of his home oxygen concentrator and how shallowly each breath moved inside his seventy-nine-year-old chest.
+Back in August, Grandpa's cardiologist had quietly warned us his weakened heart might barely carry him to October twentieth. Even across three thousand miles of wire, I could hear the soft, continuous hiss of his home oxygen concentrator and how shallowly each breath moved inside his seventy-nine-year-old chest.
 
-"Listen to me good, Nolan," Grandpa Walter rasped, every syllable forged out of pure, stubborn Norfolk Navy iron. "Your doctor told Gwen on Tuesday your skin's finally closed enough to clear a cushioned flight next Friday. Don't you fret one minute about the calendar, boy. I don't care what those heart doctors wrote on my chart—I am *not* closing my eyes until your sister and Miss Walsh bring you back through my front door."
+"Listen to me good, Nolan," Grandpa Walter rasped, every syllable forged out of pure, stubborn Norfolk Navy iron. "Your wound doctor told Gwen on Tuesday your skin's finally closed strong enough to clear a cushioned flight next Friday, and your sister went down to the DMV this morning for her grown-up Virginia ID card. Don't you fret one minute about the calendar, boy. I don't care what those heart doctors wrote on my chart—I am *not* closing my eyes until your sister and Miss Walsh bring you back through my front door."
 
-"Hold on for me, Grandpa," I choked into the plastic mouthpiece, pressing my forehead against the raised hospital bedrail. "Just one more week—please hold on."
+"Hold on for me, Grandpa," I choked into the plastic mouthpiece, pressing my forehead hard against the raised steel bedrail. "Just one more week—please hold on."
 
-"Count on it, sailor," Grandpa whispered. "See you at home."
+"Count on it, sailor," Grandpa whispered steadily. "See you at home."
 
-### Part 4: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac
+### Part 6: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac
 
 **Date:** 2001-10-26 at 13:15 America/Los_Angeles
 
@@ -1805,7 +1851,7 @@ Feeling my whole frame stiffen rigid between them, neither Gwen nor Mallory let 
 
 All night long, neither woman loosened her hold around me once—even after midnight, when Gwen's breathing slowed into deep sleep against my right shoulder blade and Mallory drifted in and out beside my left arm, instinctively tightening her fingers around mine every time I flinched at a hallway ice machine or passing headlights outside the blackout curtains. Held tight and warm inside the safest embrace I had ever known, yet far too scared out of my mind to close my eyes in the dark, I lay wide awake staring at the thin silver seam of parking-lot light along the carpet without getting a single minute of sleep until pale gray Saturday dawn finally washed across the ceiling.
 
-### Part 5: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch
+### Part 7: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch
 
 **Date:** 2001-10-27 at 07:20 America/Los_Angeles
 
@@ -1813,7 +1859,7 @@ All night long, neither woman loosened her hold around me once—even after midn
 
 Pale, rain-washed Saturday morning light filtered across the concrete columns of the rental-car return garage at Seattle-Tacoma International Airport when Mallory backed our rented Vanguard Fleet Services sedan into its numbered stall, lifted my manual wheelchair and four-inch medical gel seat cushion out of the trunk, and helped me settle aboard with zero rush despite the dark exhaustion rings beneath my eyes.
 
-Stepping through the sliding glass terminal doors into my very first airport six weeks after September eleventh felt like rolling onto a military base.
+Stepping through the sliding glass terminal doors into my very first airport that autumn felt like rolling onto a military base.
 
 Concrete barriers lined the outer curb, bold black-and-white placards warned that nobody without a same-day boarding pass could walk past security, and two armed Washington National Guard soldiers in woodland camouflage stood alert beside the metal-detector lane. Newly eighteen-year-old Gwen stepped smoothly up to the podium first on her tall matte-charcoal crutches, handing over her brand-new horizontal adult Virginia identification card right alongside mine and Mallory's.
 
