@@ -756,84 +756,237 @@ As Tammy patted my knee once and turned half a step back toward the concrete col
 
 ***
 
-#### Story Crossroads — Inside the Monticello Locker Alcove: Does Nolan Reject Tammy or Believe Her Promise? {#crossroads-norfolk-pathfinder-terminal-2001}
+#### Story Crossroads — Inside the Monticello Locker Alcove: Does Nolan Reject Tammy Now or Wait While She Buys Tickets? {#crossroads-norfolk-pathfinder-terminal-2001}
 
 *Wheeled six feet behind the thick concrete column into the recessed steel coin-locker alcove leading to the 1961 Monticello Avenue terminal's separate Men's and Women's restrooms—shielded from concourse security by the lockers, Tammy's back, and her open baby-blue cardigan wings—twenty-three-year-old Nolan Lennox faces Tammy's ultimate trump card: a silent two-second flash beneath her braless shelf-bra camisole and a soft Week-One promise of zero yelling in Seattle plus a payphone call to Blue Tech in Richmond. Every option opens a complete, coequal story route returning Nolan home to Studio 205 and Mallory Walsh before Vaeloria.*
 
 *Select a Story Path below to jump directly to your chosen continuation:*
 
-1. [**Reject Tammy's Promise & Roll Out Into the Concourse**](#crossroads-path-lock-wheelchair-brakes-emerald-creek) — Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, end things for good, and ride three CVTA buses safely home to Emerald Creek.
-2. [**Believe Tammy's Promise & Board the Seattle Pathfinder**](#crossroads-path-seattle-pathfinder-exodus) — Take Tammy's velvet Week-One promise and Richmond payphone assurance literally—watching the mask snap shut the instant she buys the ninety-nine-dollar tickets and makes you climb four steep coach steps on your forearm crutches while Shift Supervisor Mallory Walsh notices your first missed shift back at Blue Tech.
+1. [**Reject Tammy's Promise & Roll Out Before She Buys Tickets**](#crossroads-path-lock-wheelchair-brakes-emerald-creek) — Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, break up for good, and ride straight home at zero charge in kind Norfolk cabbie Denise Carter's taxi.
+2. [**Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets**](#crossroads-path-norfolk-ticket-counter) — Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value—waiting beside the lockers while she buys two walk-up cash tickets to Seattle and wheels you out to Gate Four, where the Richmond coach has no wheelchair lift.
 
 ***
 
-# Story Path: Believe Tammy's Promise & Board the Seattle Pathfinder {#crossroads-path-seattle-pathfinder-exodus}
+# Story Path: Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets {#crossroads-path-norfolk-ticket-counter}
 
-*Take Tammy's velvet Week-One promise and Richmond payphone assurance literally—watching the mask snap shut the instant she buys the ninety-nine-dollar tickets and makes you climb four steep coach steps on your forearm crutches while Shift Supervisor Mallory Walsh notices your first missed shift back at Blue Tech.*
+*Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value—waiting beside the lockers while she buys two walk-up cash tickets to Seattle and wheels you out to Gate Four, where the Richmond coach has no wheelchair lift.*
 
 *[← Return to the Story Crossroads](#crossroads-norfolk-pathfinder-terminal-2001)*
+
+# Book One: Ninety-Nine Dollars at the Ticket Window
+
+## Chapter 1A: Two Ticket Folders and Four Steep Steps at Gate Four
+
+### Two Ninety-Nine-Dollar Folders and No Lift at Gate Four
+
+**Date:** 2001-08-21 at 09:51 America/New_York
+
+#### 9:51 AM — Taking Week One Literally Behind the Column
+
+Just like back in September after four lonely nights upstairs at Grandpa's, and just like back in May right before June rent came due, those two silent seconds behind Tammy's open baby-blue cardigan wings—paired with her soft Week-One voice swearing zero yelling in Seattle and promising I could use the Richmond payphone to call Blue Tech—scrambled every defensive circuit left in my chest.
+
+My literal brain wanted so badly to believe people meant the exact words they spoke. Sitting in my manual wheelchair beside those dented gray steel coin lockers with my pulse still warm in my ears, I took Tammy's promise at face value—never connecting the dots that stepping onto an unreserved coast-to-coast bus could put four thousand miles between me and every person who kept me safe.
+
+"Okay," I murmured quietly, letting my hands ease off my steel push-rims onto my olive duffel. "Just make sure we have enough quarters for me to call Mr. Halstead and Grandpa when we switch buses in Richmond."
+
+Tammy didn't bark, roll her eyes, or drop that gentle tone by half a note.
+
+"Course we do, baby—I've got a whole roll of quarters right in my change zip," Tammy smiled warmly, leaning down to kiss the crown of my hair once before wheeling my chair smoothly back out around the concrete column so I could wait in the sunlit concourse beside her rolling suitcase.
+
+Across the speckled terrazzo at the scratched plexiglass walk-up window, Tammy counted two hundred dollars in crumpled twenties onto the stainless-steel tray. Ninety-nine dollars per person—Pathfinder's rock-bottom walk-up promotional fare to cross the entire North American continent from coastal Virginia to Puget Sound. Even when the clerk stamped both long red-and-white carbon ticket envelopes and slid them under the glass into Tammy's hand, Tammy turned halfway back toward my wheelchair wearing that exact soft, reassuring Week-One smile, holding both ticket folders up lightly as if we were twenty-one and twenty-four again heading out for Friday-night Crown Burger fries.
+
+"Gate Four's right out back for our short hop up to Richmond, sweetie," Tammy said gently, tucking one red-and-white folder neatly into my olive jacket pocket and resting her hands lightly on my rear push-handles. "Come on—let's go get good seats together."
+
+Out through the heavy rear bay doors under the concrete overhang, diesel exhaust hummed thick and warm around Bay Four, where a forty-five-foot high-floor Prairie Coachworks intercity cruiser idled behind an amber matrix sign glowing bright above the windshield:
+
+<led>RICHMOND</led>
+
+My stomach knotted tight the instant I saw the open front passenger doorway. Instead of a kneeling transit ramp or a mid-coach hydraulic lift door, four steep, narrow ribbed-aluminum stairwell steps climbed three full feet straight up from the greasy concrete apron into the cabin.
+
+Standing beside the open underbelly luggage bay in a gray uniform shirt, the weary Pathfinder driver glanced from my manual wheelchair to Tammy's freshly printed walk-up ticket envelopes and shook his head politely.
+
+"Morning, folks—ma'am, did you call corporate accessibility dispatch forty-eight hours ahead for a hydraulic wheelchair lift?" the driver asked. "Because there isn't a lift order on my manifest, and this coach isn't lift-equipped. Only way to ride this departure is stowing his chair folded underneath and climbing the steps."
+
+My fingers tightened instantly around my steel wheel rims, every alarm bell from earlier roaring straight back to the front of my head.
+
+"Tammy, wait," I said anxiously, glancing from those four steep aluminum steps up toward Tammy's face. "He doesn't have a lift—and if they fold my wheelchair underneath without my seat pad—"
+
+With twenty impatient passengers watching behind us and two non-refundable ninety-nine-dollar ticket folders already paid for in Tammy's hand, everything depended on the next words out of Tammy's mouth.
+
+***
+
+#### Story Crossroads — Paid Tickets and Four Steep Steps: Does Tammy Snap or Keep Her Week-One Voice? {#crossroads-norfolk-bay-four-boarding-2001}
+
+*With two freshly printed ninety-nine-dollar Seattle ticket folders in Tammy's hand, the Gate Four driver shakes his head at Nolan's manual wheelchair: nobody called corporate forty-eight hours ahead for a hydraulic lift, meaning Nolan's chair must ride folded in the luggage bay while he climbs four steep aluminum steps on his forearm crutches. If Tammy drops her sweet mask and snaps now, Nolan will refuse to board on the spot and go home; only if Tammy keeps every drop of her gentle Week-One voice will literal-minded Nolan trust her enough to climb aboard.*
+
+*Select a Story Path below to jump directly to your chosen continuation:*
+
+1. [**Tammy Snaps at Gate Four — Refuse to Board & Go Home**](#crossroads-path-ticket-snap-refuse-boarding) — The instant Tammy drops her sweet voice and barks at you in front of the boarding queue, wake up to the lie, roll straight back inside the waiting room to end things for good, and ride home free of charge in kind Norfolk cabbie Denise Carter's taxi—rejoining the mainline sequence.
+2. [**Tammy Keeps Her Sweet Week-One Voice — Board the Pathfinder**](#crossroads-path-seattle-pathfinder-exodus) — Reassured by Tammy's warm, patient Week-One smile—promising to carry your footrests, call Blue Tech together in Richmond, and ask the Richmond desk for a lift coach—climb those four aluminum steps onto Gate Four before her mask drops a hundred miles up the highway.
+
+***
+
+# Story Path: Tammy Snaps at Gate Four — Refuse to Board & Go Home {#crossroads-path-ticket-snap-refuse-boarding}
+
+*The instant Tammy drops her sweet voice and barks at you in front of the boarding queue, wake up to the lie, roll straight back inside the waiting room to end things for good, and ride home free of charge in kind Norfolk cabbie Denise Carter's taxi—rejoining the mainline sequence.*
+
+*[← Return to the Story Crossroads](#crossroads-norfolk-bay-four-boarding-2001)*
+
+# Book One: Turning Around at Gate Four
+
+## Chapter 1B: Dropped Mask at Bay Four and Denise's Cab Home
+
+### Snapping at Gate Four, Refusing the Steps, and Denise's Cab Home
+
+**Date:** 2001-08-21 at 09:57 America/New_York
+
+![Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking up at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy scowls impatiently down from the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg)
+
+#### 9:57 AM — Six Minutes of Sweetness and Refusing the Steps
+
+Now that two hundred dollars of cash had already crossed the plexiglass tray and two non-refundable Seattle ticket folders sat safely in her hand, Tammy figured the hook was set too deep for me to back out—and the velvet Week-One mask vanished clean off her face in half a heartbeat.
+
+"He doesn't need your stupid lift—he's got crutches right behind his seat, and we already paid cash!" Tammy snapped at the driver, before spinning on me with dark, furious eyes right in front of twenty strangers in the Gate Four line. "Quit embarrassing me in front of the whole bus and stand up, Nolan, before he closes the door!"
+
+"Tammy, hold on—" I stammered, reaching back for my matte-silver single-tube Lofstrand forearm crutches only because she was already yanking my olive duffel off my lap onto the concrete and popping both chromed-steel swing-away footrests off my wheelchair frame to shove my folded chair into the belly compartment.
+
+Standing braced on my two silver forearm crutches at the foot of the stairwell while Tammy marched two steps up into the doorway holding my bare metal wheelchair footrests and glaring down at me like an impatient warden, six minutes of fog cleared straight out of my head like cold water hitting glass.
+
+Back behind the coin lockers at nine-fifty, Tammy had looked me dead in the eye and promised *zero yelling, just like our first week together*—plus a payphone call to Blue Tech in Richmond. She hadn't even made it onto the very first bus out of Norfolk before screaming at me in front of twenty strangers. If she dropped the act the second she held the tickets here at Gate Four, there was never going to be a phone call in Richmond, and there was never going to be peace in Seattle.
+
+"No," I said out loud.
+
+Tammy blinked hard from the second aluminum step, scowling down over my detached footrests. "What did you just mumble? Move your feet, Nolan!"
+
+"I said no, Tammy—I'm not getting on this bus," I said clearly, turning straight to the gray-shirted driver beside the luggage bay. "Sir, please pull my wheelchair back out of that compartment right now. I'm not boarding."
+
+The weary driver didn't hesitate half a second—lifting my black manual wheelchair straight back out onto the concrete apron and unfolding the cross-brace until the seat canvas clicked flat. Taking my two steel footrests firmly back out of Tammy's stunned hands before she could step higher, I clicked both assemblies onto their front hanger pins, strapped my two silver forearm crutches upright into the vertical tubes behind my backrest, lowered myself cleanly back into my seat, and rolled straight back through the open concourse double doors into the middle of the speckled-terrazzo waiting room in front of forty witnesses—snapping both steel wheel locks down hard on my tires.
+
+Tammy stormed in three paces behind me, her round face blotchy crimson with rage and disbelief, waving my red-and-white ticket envelope in her fist.
+
+"Are you out of your mind?!" Tammy shrieked loud enough to make every head along the plastic waiting benches whip around. "I just paid ninety-nine dollars cash for this walk-up ticket, and they don't give cash refunds! Get your crippled ass out to Gate Four right now!"
+
+"Keep the ticket or ask them for a voucher, Tammy—I don't care," I answered evenly, gripping both locked push-rims in plain public view. "You couldn't keep your promise for six minutes before the bus even pulled out. The first two times we broke up, you were the one who did it. This third time, it's me. We're breaking up for good, and I'm going home."
+
+Tammy didn't say another word. Standing nine inches above my seated frame in her chunky platform sneakers right in the middle of the waiting room, she swung her right arm back and violently smacked me flat across the left side of my face with all her weight.
+
+The sharp crack echoed across the terrazzo like a snapped board.
+
+My head jerked hard toward my right shoulder as hot white pain and a high ringing bloomed across my cheek and ear. Between two years of walking on eggshells, fluorescent glare, shouting, and getting struck flat across the face while locked in my wheelchair in front of forty strangers, every overloaded wire in my chest gave way at once—and heavy, chest-shaking sobs tore straight out of my throat as I pressed both palms over my wet, stinging face.
+
+Tammy raised her hand a second time. "Stop crying like a pathetic—"
+
+Three travelers and a cab driver moved faster than she could swing.
+
+Plastic chairs scraped loud as a broad-shouldered shipyard worker lunged between Tammy and my footrests to shove her backward toward the bay doors, flanked immediately by a woman in teal hospital scrubs and a thirty-eight-year-old Black woman in a neat blue chambray button-down shirt with a laminated Norfolk taxicab operator badge clipped to her pocket who had been pouring coffee at the lunch counter ten feet away.
+
+"Don't you dare lay another finger on him!" the shipyard worker barked as both uniformed terminal security officers sprinted over from the vending bank to flank Tammy's elbows.
+
+"Final call on Gate Four for Richmond!" the bay loudspeaker crackled through the open rear doorway.
+
+"You got ten seconds, ma'am," the older security guard told Tammy flatly. "Either take your suitcase out that door onto your bus by yourself right now, or Norfolk PD comes through the front glass with handcuffs for assault."
+
+Too stingy and furious to forfeit two hundred dollars of non-refundable cash—and staring at two uniformed guards ready to call the police—Tammy spat one venomous glare toward my wheelchair, snatched the handle of her rolling suitcase, and marched straight out the rear bay doors onto the departing Richmond coach alone.
+
+***
+
+#### 10:12 AM — Denise Carter's Turned-Off Meter and Safe Home to Grandpa's Porch
+
+Even after the bay doors clicked shut behind Tammy, my shoulders kept shaking in ragged, humiliating sobs I couldn't switch off while the nurse in teal scrubs pressed clean folded napkins gently into my hand.
+
+"I just—I just want to go home," I choked out through tears, wiping at my stinging left cheek. "I just want to go home to the Emerald Creek area of Chesapeake... my little sister turns eighteen in October and my grandpa's dying, and I just want to go home to them."
+
+Right beside the nurse, the steady-eyed woman in the blue chambray shirt and dark braids crouched down to wheelchair eye level so she wasn't towering over me, holding up the laminated photo hack license clipped to her pocket with the gentlest, most reassuring smile I had ever seen on a stranger.
+
+"Hey there—my name's Denise Carter," she said warmly. "I drive Cab Forty-Seven parked right out front under the corner canopy. Was just grabbing coffee between runs when she walked in here yelling at you. Tell you what: let me load your chair into my trunk and run you straight home to Chesapeake right now. No charge—not a dime."
+
+I blinked hard past wet eyelashes, my literal brain struggling to parse the math. "Ma'am... Downtown Norfolk clear down to Emerald Creek is twenty-five bucks easy on a meter, and I've only got bus change—"
+
+"Meter's staying switched flat off, hon," Denise said firmly, standing up with a kind nod that left zero room for guilt. "Consider this ride on the house. Nobody gets smacked in front of me for wanting to go home to their sister and their granddad. Come on out the side ramp with me where it's quiet."
+
+Out under the round nineteen-sixty-one concrete mushroom canopy at the corner of Monticello Avenue, Denise popped the spacious trunk of her clean yellow-and-navy four-door sedan parked along the right-hand curb, waited patiently until I unstrapped my two matte-silver single-tube Lofstrand forearm crutches to brace steadily beside the open rear passenger door, and lifted both my folded manual wheelchair and battered olive duffel smoothly into the trunk without banging a single spoke before tucking my crutches safely across the back floorboard once I eased onto the cool vinyl bench seat.
+
+True to her word, the red digital numbers on her dashboard taximeter stayed completely dark the entire twenty-minute run across the Berkley Bridge and down Interstate 64 into Chesapeake. Instead of making me talk before my breathing settled, Denise turned the dash vents gently toward the back and let soft eighties synth-pop hum low on the radio until we turned off Eden Way North into Grandpa Walter's quiet maple-shaded driveway at twenty-five minutes to eleven—two hours earlier than three city buses ever could have gotten me home.
+
+When seventeen-year-old Gwen pushed open the front storm door on her tall matte-charcoal crutches and seventy-nine-year-old Grandpa Walter stepped out onto the porch right behind her trying to press a folded twenty-dollar bill into Denise's palm after she unfolded my wheelchair at the bottom of the steps, Denise closed Grandpa's fingers gently back around his money and shook his hand with both of hers.
+
+"Keep that twenty for your granddaughter's birthday cake, sir," Denise smiled warmly before climbing back behind her wheel. "You raised a mighty good grandson—glad I was standing by the coffee pot today."
+
+The second Denise's yellow cab backed smoothly down the street, Gwen propped both charcoal crutches beside my silver pair against the wooden porch railing and pulled me straight into our tight, aching greeting hug—my chin tucking beneath my six-foot-one sister's collarbone while happy tears spilled down her cheeks onto my hair.
+
+"You turned around at the door—you didn't get on!" Gwen gasped, squeezing my shoulders with all her strength. "Oh, Nolan, thank God you're home!"
+
+Inside the downstairs family room, Grandpa Walter quietly walked me through his manila accordion folder—his notarized will naming me executor, his honorable Navy discharge, and the ninety-day payoff terms on his winter medical home-equity loan—repeating his steady vow to make it to Gwen's eighteenth birthday on October nineteenth. Twenty minutes later, when I crutched four flat blocks over to the Emerald Creek Blue Tech to ask Danny in warehouse freight to help me move out of Pinecrest Court while Tammy was rolling west on a bus by herself, Mallory Walsh beamed brighter than I had ever seen behind her thin silver wire-rimmed glasses and signed off on covering Danny's freight window on the spot.
+
+With a Chesapeake sheriff's deputy standing civil standby outside Pinecrest Court that afternoon while Danny loaded my full-sized bed, oak dresser, television, silver VCR and DVD combo, and laptop safely under a tarp in Grandpa Walter's garage—and my formal ninety-day written lot non-renewal notice filed at the park office so my name would drop off Tammy's lease automatically at midnight on November thirtieth even after Tammy eventually straggled back to Chesapeake and stubbornly refused to sign an early roommate release—every single piece of my life stayed safe at home: my spotless Blue Tech job, my quiet breakroom friendship with Mallory behind her silver supervisor pin, Grandpa Walter's final autumn, and Studio 205 waiting for Gwen and me on December first.
+
+***
+
+*Story Path Converges — [Continue to the Shared Storyline →](#crossroads-rejoin-e001-c001-p011) • [← Return to the Story Crossroads](#crossroads-norfolk-bay-four-boarding-2001)*
+
+# Story Path: Tammy Keeps Her Sweet Week-One Voice — Board the Pathfinder {#crossroads-path-seattle-pathfinder-exodus}
+
+*Reassured by Tammy's warm, patient Week-One smile—promising to carry your footrests, call Blue Tech together in Richmond, and ask the Richmond desk for a lift coach—climb those four aluminum steps onto Gate Four before her mask drops a hundred miles up the highway.*
+
+*[← Return to the Story Crossroads](#crossroads-norfolk-bay-four-boarding-2001)*
 
 # Book One: The Ninety-Nine-Dollar Pathfinder
 
 ## Chapter 1A: Ninety-Six Hours Westbound and Missed Shift Number One
 
-### Part 1: Ninety-Nine Dollars, Loose Legrests Overhead, and Crossing Bristol
+### Part 1: Sweet Voice at Gate Four, Dropped Mask in Richmond, and Crossing Bristol
 
-**Date:** 2001-08-21 at 09:49 America/New_York
+**Date:** 2001-08-21 at 09:57 America/New_York
 
-![Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg)
+![Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches at the stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy leans warmly forward in the doorway with her sweet Week-One smile holding Nolan's two detached metal wheelchair footrest assemblies so his hands stay free on the rail.]({{CDN}}/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg)
 
-#### 9:51 AM — Believing Week One and Four Steep Aluminum Steps
+#### 9:57 AM — Sweet as Week One All the Way Up the Steps
 
-Just like back in September after four lonely nights upstairs at Grandpa's, and just like back in May right before June rent came due, those two silent seconds behind Tammy's open baby-blue cardigan wings—paired with her soft Week-One voice swearing zero yelling in Seattle and promising I could use the Richmond payphone to call Blue Tech—scrambled every defensive circuit left in my chest.
+If Tammy had raised her voice or snapped at me right there on the Norfolk concrete—even with two freshly printed Seattle ticket folders in her hand—every alarm bell inside my head would have fired at once, and I would have locked my wheelchair brakes on the spot and refused to climb a single step.
 
-My literal brain wanted so badly to believe people meant the exact words they spoke. Sitting in my wheelchair beside those dented gray steel coin lockers with my pulse still warm in my ears, I took Tammy's promise at face value—never connecting the dots that stepping onto an unreserved coast-to-coast bus meant handing her four thousand miles of total control where she could block every single telephone on the highway.
+Tammy didn't snap at all.
 
-"Okay," I murmured quietly, letting my hands drop off my steel push-rims onto my olive duffel. "Just make sure we have enough quarters for me to call Mr. Halstead and Grandpa when we switch buses in Richmond."
+Instead, resting one warm, steady hand lightly on the shoulder of my olive jacket right in front of the weary Gate Four driver, Tammy kept every drop of that soft, patient, apologetic Week-One voice that had made me fall for her two Octobers ago.
 
-"Course we do, baby—knew you'd be smart," Tammy smiled sweetly, kissing the top of my hair once before striding out around the concrete column to slap two hundred dollars in crumpled twenties onto the scratched plexiglass ticket tray.
+"Oh, that's completely my fault for not knowing about the forty-eight-hour rule, sir," Tammy told the driver sweetly, before crouching slightly beside my wheelchair armrest to meet my anxious eyes with the gentlest smile imaginable. "Don't stress one bit, baby. Richmond's barely a ninety-minute hop straight up Sixty-Four, and you've got your crutches right behind your backrest. Let me carry your metal footrests up the steps for you so both your hands stay free on the rail—and the very minute we get inside the Richmond station, we'll walk straight over to the payphone together so you can call Mr. Halstead and Grandpa, and we'll ask the Richmond ticket desk to put a wheelchair lift on our afternoon bus. Sound good?"
 
-Ninety-nine dollars per person. That was Pathfinder's rock-bottom walk-up promotional fare to cross the entire North American continent—four straight days, ninety-six brutal hours of constant highway motion from coastal Virginia to Puget Sound—and the instant those two red-and-white carbon ticket folders hit Tammy's palm, the velvet Week-One mask vanished clean off her face.
+Every tight muscle across my shoulders loosened two inches at once.
 
-"Gate Four's already boarding for Richmond," Tammy snapped, marching back to the locker alcove to grab her rolling suitcase and shove one ticket folder into my jacket pocket before seizing my rear push-handles without asking and shoving my chair briskly out through the diesel-choked rear bay doors.
+To my literal mind, someone speaking calmly, taking responsibility in front of the driver, and repeating our exact Richmond payphone plan word for word meant she genuinely intended to keep every promise she had whispered behind the lockers.
 
-Waiting idling at Bay Four stood a forty-five-foot high-floor Prairie Coachworks intercity cruiser—its passenger cabin perched four steep, narrow ribbed-aluminum stairwell steps above the greasy concrete apron.
+"Okay," I breathed quietly, unstrapping both of my matte-silver single-tube Lofstrand forearm crutches from the vertical tubes behind my backrest and clicking the open gray cuffs around my forearms. "Just try not to let the cross-brace pinch my foam pad when it folds."
 
-Standing beside the open underbelly luggage bay in a sweat-stained gray uniform shirt, the weary Pathfinder driver took one look from my manual wheelchair to Tammy's freshly printed walk-up ticket envelopes and shook his head flatly.
+"Got it right here, sweetie—take your time on the steps," Tammy murmured encouragingly, popping both swing-away chromed-steel footrest assemblies off my front hanger pins so the driver could fold my manual wheelchair into the underbelly luggage bay—where, out of my sight behind the luggage pile, the thick contoured foam pad still pinched crooked inside the canvas sling before the bay door latched shut—and stepping lightly up into the open coach doorway ahead of me, turning back with a warm smile and holding my two footrests carefully aside so I had clear room to grip the stainless-steel handrail.
 
-"Ma'am, did you call corporate accessibility dispatch forty-eight hours ahead for a hydraulic wheelchair lift?" the driver asked. "Because there's no lift order on my manifest, and this coach isn't lift-equipped."
+Clicking my rubber ferrules beside the bottom riser, I hauled my five-foot-seven frame steadily up all four steep aluminum steps into the cool, conditioned cabin.
 
-For one wild, soaring heartbeat, hope leaped straight into my throat. *He's going to turn us away. We're going home.*
+Halfway back on the right side in Row Seven, Tammy slid into the window seat, patted the aisle cushion warmly beside her, and then stood up on her chunky white platform sneakers to set both of my bare metal wheelchair legrests up onto the shallow, carpet-lined overhead parcel shelf directly above her own head alongside her pastel-blue fleece cardigan.
 
-Tammy didn't even blink. "He doesn't need your stupid lift—he's got crutches right behind his seat, and we already paid cash! Get up, Nolan, before he closes the door!"
+"Tammy, those locking cams are heavy steel," I warned gently as I tucked my silver forearm crutches vertically between my outer thigh and the aisle armrest. "There isn't a latching door on that overhead lip—if the driver brakes hard, those legrests could slide off."
 
-"Tammy, wait—" I managed weakly, reaching back toward the matte-silver single-tube Lofstrand forearm crutches strapped behind my backrest. "Without my seat cushion or legrests for four days—"
+Tammy reached down and squeezed my hand once with that soft Week-One half-smile. "Interstate Sixty-Four's flat as a pancake all the way to Richmond, baby, and I didn't want cold metal bumping your shins while you rest your wrists. Just lean back with me—we'll be at the Richmond phones before lunch."
 
-"Quit embarrassing me in front of the whole line and stand up!" Tammy hissed between her teeth, yanking my battered olive duffel off my lap and tossing it onto the luggage pile. Before I could even unclip my firm contoured foam wheelchair pad to carry it inside the cabin, Tammy bent down, popped both heavy chromed-steel swing-away footrest and calf-pad assemblies clean off the front hanger pins of my wheelchair frame, collapsed the cross-brace with an impatient shove—pinching the foam pad crooked inside the folded canvas—and shoved my folded wheelchair horizontally into the dark, diesel-smelling underbelly compartment beside three battered trunks.
-
-"Hold onto these," the baggage handler started, gesturing toward the two detached steel-and-plastic wheelchair legrests dangling from Tammy's left hand. "Those got sharp locking pins—put 'em in a bag underneath."
-
-Tammy ignored him completely, already marching up the coach stairwell with my two bare metal legrest assemblies banging against her hip.
-
-Left standing on the oil-slick concrete apron while twenty impatient passengers watched over their carry-ons, my ears burned hot with quiet humiliation. Clicking the open plastic cuffs of my matte-silver Lofstrand forearm crutches around both forearms, I planted the rubber ferrules beside the bottom step, gripped the cold stainless-steel entry handrail with white knuckles, and hauled my five-foot-seven frame painfully up all four steep, narrow aluminum steps into the dim, recirculated chill of the cabin.
-
-Halfway back on the right side, Tammy had already claimed the window seat for herself—leaving me jammed on the narrow aisle edge where every passing shoulder and swinging canvas backpack struck my bruised elbow. Right above Tammy's head ran the shallow, open-lipped carpet-lined overhead parcel shelf designed only for soft coats and small daypacks. Instead of stowing my heavy steel wheelchair legrests safely on the floor under the seat in front of her feet where they would cut into her legroom, Tammy stood on her chunky white platform sneakers and shoved both loose metal footrest assemblies bare and unstrapped up onto the slick overhead shelf directly above her own head, wedging her pastel-blue fleece cardigan beside them.
-
-"Tammy, those locking cams are heavy steel," I warned quietly as I slid my silver forearm crutches vertically between my outer thigh and the aisle armrest. "There isn't a latching door on that overhead lip—if the driver hits the brakes hard, those legrests can slide right off."
-
-"They aren't touching my sneakers for four days, so leave them alone," Tammy snapped, turning her shoulder toward the tinted glass and pulling her cardigan hood against the pillar.
-
-Two minutes later, air brakes hissed, reverse gears whined, and the Norfolk terminal slid out of sight behind a chain-link fence.
+Two minutes later, air brakes hissed, reverse gears whined, and the nineteen-sixty-one Norfolk terminal slid out of sight behind a chain-link fence while Tammy rested her head lightly against my shoulder—holding that gentle mask steady until Tidewater was safely behind us.
 
 ***
 
-#### 10:55 PM — Richmond Transfers, Marion's Federal Trade Corps Crowd, and Losing Virginia
+#### 10:55 PM — When the Mask Dropped in Richmond, Marion's Crowd, and Losing Virginia
 
-By the time our second westbound coach rumbled down dark Interstate 81 past Roanoke and Wytheville into the steep, mist-hung valleys of Southwest Virginia twelve hours later, the rigid, unpadded commercial bus seat had already begun grinding like concrete beneath my tailbone and hips.
+Two hours up Interstate 64 inside the noisy, crowded Richmond Pathfinder transfer concourse, the Week-One voice died as if it had never existed.
 
-Up in Richmond during our noisy early-afternoon bus change, I had crutched straight toward a bank of wall payphones with three quarters pinched in my palm—desperate to call Grandpa Walter's kitchen landline off Eden Way North so seventeen-year-old Gwen wouldn't panic if she rang the trailer, and to call Ray Halstead or Mallory Walsh at the Emerald Creek Blue Tech ahead of time to explain why I was trapped out of state before tomorrow's four-to-eight Wednesday shift. Tammy had spotted me ten feet from the receivers, grabbed my jacket sleeve in front of the boarding queue, and threatened at full volume to leave my folded wheelchair sitting unclaimed on the Richmond curb if I didn't board the Charlottesville coach that instant.
+The instant we stepped off the Norfolk coach—a hundred highway miles away from Chesapeake, with my folded manual wheelchair already transferred by baggage handlers behind the locked steel belly door of our connecting westbound Charlottesville and Roanoke cruiser under the white claim tag stapled inside Tammy's ticket folder—I reached into my jeans pocket for three quarters and crutched straight toward a bank of chrome wall payphones beside the vending machines, eager to call Ray Halstead or Mallory Walsh at the Emerald Creek Blue Tech well ahead of tomorrow's four-to-eight Wednesday shift and let Grandpa Walter and Gwen know where I was.
 
-Once again inside the second coach, Tammy had shoved my two loose steel wheelchair legrests right back up onto the shallow overhead parcel lip directly over her seat. Through Charlottesville's afternoon glare, a ten-minute diesel-and-vending rest stop in Staunton, and fading purple dusk outside the Roanoke terminal, she kept her headphones clamped over her ears, doling out one warm vending-machine soda and a single pack of cheese crackers while refusing to answer a single plain question about whose couch we were supposedly sleeping on in Seattle or how we were ever getting back to Virginia.
+Ten feet short of the receivers, Tammy stepped squarely across my rubber crutch tips—every trace of morning sweetness gone cold and hard behind her dark eyes.
+
+"Put those quarters away right now and get in the Gate Two line, Nolan," Tammy snapped loud enough to make my stomach drop straight through my shoes.
+
+"Wait—Tammy, you promised in Norfolk I could call Mr. Halstead and Grandpa here in Richmond!" I protested in stunned confusion. "And what about asking the desk for a wheelchair lift—"
+
+"Nobody's waiting six hours in Richmond for some special bus, and you aren't calling your nosy sister or your nerd store so they can talk you into quitting on me!" Tammy hissed, tapping the white baggage-claim stub inside her purse. "That Charlottesville bus pulls out in four minutes with your wheelchair locked underneath it. Touch that payphone, and I swear to God I'll get on Gate Two without you and let you figure out how to hop back to Chesapeake with no chair and seventy-five cents!"
+
+Paralyzed by the sudden whiplash from two hours of velvet kindness back into pure, unveiled threats—stranded a hundred miles from home on aching wrists with zero debit card and my wheelchair already locked under a departing bus—I froze long enough for Tammy to grab my olive sleeve and march me straight up the four steep steps of the second coach.
+
+By the time our westbound cruiser rumbled down dark Interstate 81 past Roanoke and Wytheville into the steep, mist-hung valleys of Southwest Virginia ten hours later, the rigid, unpadded commercial bus seat had already begun grinding like concrete beneath my tailbone and hips. Once again inside the second coach, Tammy had shoved my two loose steel wheelchair legrests right back up onto the shallow overhead parcel lip directly over her seat. Through Charlottesville's afternoon glare, a ten-minute diesel-and-vending rest stop in Staunton, and fading purple dusk outside the Roanoke terminal, she kept her foam headphones clamped over her ears, doling out one warm vending-machine soda and a single pack of cheese crackers while refusing to answer a single plain question about whose couch we were supposedly sleeping on in Seattle or how we were ever getting back to Virginia.
 
 At five minutes to eleven that night, orange sodium floodlights pierced the mountain fog as our driver downshifted off the interstate into Marion, Virginia.
 
@@ -843,7 +996,7 @@ Forty-five minutes farther down the dark valley, neon motel signs and a weathere
 
 Looking out past Tammy's sleeping shoulder at the painted municipal sign hanging under the terminal eaves, a cold, hollow weight dropped straight through the floor of my stomach. The Pathfinder station sat precisely on the Virginia side of the state line; the street asphalt twenty yards past the exit apron was already Tennessee.
 
-For twenty-three years—through our parents' one-story house when we were little, moving in full-time with Grandpa Walter near Emerald Creek Mall, Gwen's childhood leg surgeries, every quiet Sunday afternoon checking Gwen's straight-A binders, and nearly two spotless years of clocking into Store Four-Twenty-One on time—my whole life had lived inside Virginia. Back home right now in Chesapeake, seventy-nine-year-old Grandpa Walter was asleep with his weakened heart expecting me to call on Sunday, Gwen was sharpening pencils for her junior year at Emerald Creek High without knowing Tammy had dragged me out of Tidewater, and seventeen hours from now my name sat printed in black ink on Mallory Walsh's Wednesday evening Computers schedule.
+For twenty-three years—through our parents' one-story house when we were little, moving in full-time with Grandpa Walter near Emerald Creek Mall, Gwen's childhood leg surgeries, every quiet Sunday afternoon checking Gwen's straight-A binders, and nearly two spotless years of clocking into Store Four-Twenty-One on time—my whole life had lived inside Virginia. Back home right now in Chesapeake, seventy-nine-year-old Grandpa Walter was asleep with his weakened heart expecting me to call on Sunday, Gwen was sharpening pencils for her junior year at Emerald Creek High without knowing Tammy had tricked me onto a coast-to-coast bus, and seventeen hours from now my name sat printed in black ink on Mallory Walsh's Wednesday evening Computers schedule.
 
 When the driver pulled out of the Bristol bay, turned across the state line into Tennessee, and accelerated west into the dark, I pressed my forehead silently against the cold aisle headrest and felt the last thread of home snap behind us.
 
@@ -1300,7 +1453,7 @@ By midnight inside the Salt Lake City terminal restroom—more than eighty hours
 
 By quarter to eight Saturday morning at the Pasco Intermodal Terminal in eastern Washington—after grinding across the Idaho line through Boise, Nampa, and the bleak predawn high desert with nobody from Virginia standing on the platform to stop us—ninety hours without real sleep and a climbing infection fever from my broken sitting-bone skin had turned the tiled concourse into swimming, cotton-stuffed tunnel vision where I could barely string four words together.
 
-Walking right beside my dragging silver forearm crutches toward the quiet rear restroom corridor while the other passengers queued for coffee up front, Tammy didn't yell or shove me at all. Desperate after four miserable days to prove to herself that we were back together and have sex again before reaching Seattle, she slipped her arm softly through mine and dropped into the exact warm, sugary Week-One voice that my exhausted, literal brain had been conditioned for two years to obey whenever my defenses were gone.
+Walking right beside my dragging silver forearm crutches toward the quiet rear restroom corridor while the other passengers queued for coffee up front, Tammy didn't yell or shove me at all. Out of nowhere after four days of snapping and cold shoulders, she slipped her arm softly through mine and dropped straight back into that warm, sugary Week-One voice that my exhausted, literal brain had been conditioned for two years to obey whenever my defenses were gone.
 
 "Come inside the single family restroom with me for just a few minutes, baby," Tammy whispered softly against my ear, guiding my trembling elbow toward the heavy steel door while my fever-fogged head struggled even to stay upright on my cuffs. "I haven't gotten to hold you all week, Nolan, and you know how much I've missed being in bed with you... just come inside and let me be close to you like home."
 
@@ -1456,11 +1609,15 @@ Ten quiet, happy months later—with me twenty-four, Gwen newly nineteen in her 
 
 ***
 
-*End of Story Path: Believe Tammy's Promise & Board the Seattle Pathfinder. [← Return to the Story Crossroads](#crossroads-norfolk-pathfinder-terminal-2001)*
+*End of Story Path: Tammy Keeps Her Sweet Week-One Voice — Board the Pathfinder. [← Return to the Story Crossroads](#crossroads-norfolk-bay-four-boarding-2001)*
 
-# Story Path: Reject Tammy's Promise & Roll Out Into the Concourse {#crossroads-path-lock-wheelchair-brakes-emerald-creek}
+***
 
-*Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, end things for good, and ride three CVTA buses safely home to Emerald Creek.*
+*End of Story Path: Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets. [← Return to the Story Crossroads](#crossroads-norfolk-pathfinder-terminal-2001)*
+
+# Story Path: Reject Tammy's Promise & Roll Out Before She Buys Tickets {#crossroads-path-lock-wheelchair-brakes-emerald-creek}
+
+*Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, break up for good, and ride straight home at zero charge in kind Norfolk cabbie Denise Carter's taxi.*
 
 *[← Return to the Story Crossroads](#crossroads-norfolk-pathfinder-terminal-2001)*
 
@@ -1468,11 +1625,11 @@ Ten quiet, happy months later—with me twenty-four, Gwen newly nineteen in her 
 
 ## Chapter 1: Two Names on One Studio Lease
 
-### Part 10: Rolling Out Past the Lockers, Fellow Passengers, and Safe Home to Emerald Creek
+### Part 10: Rolling Out Past the Lockers, Denise's Turned-Off Meter, and Safe Home to Emerald Creek
 
 **Date:** 2001-08-21 at 09:51 America/New_York
 
-![On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg)
+![On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.]({{CDN}}/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg)
 
 #### 9:51 AM — Out From Behind the Lockers Into Plain Sight
 
@@ -1512,15 +1669,15 @@ My breath hitched in a ragged, broken gasp, and I started crying right there in 
 
 Tammy raised her hand again, teeth bared over my chair. "Stop crying like a pathetic little—"
 
-Fellow passengers moved faster than she could swing.
+Three strangers moved faster than she could swing.
 
-Plastic chairs scraped loud across the terrazzo as a broad-shouldered shipyard worker in a navy canvas coat lunged straight between Tammy and my footrests, catching her forearm and shoving her firmly backward toward the locker alcove where her suitcase sat while a middle-aged woman in teal hospital scrubs and a young guy in a culinary jacket stepped in shoulder-to-shoulder around my wheelchair.
+Plastic chairs scraped loud across the terrazzo as a broad-shouldered shipyard worker in a navy canvas coat lunged straight between Tammy and my footrests, catching her forearm and shoving her firmly backward toward the locker alcove where her suitcase sat while a woman in teal hospital scrubs and a thirty-eight-year-old Black woman in a clean blue chambray button-down shirt with a laminated Norfolk taxicab operator badge clipped to her pocket stepped in shoulder-to-shoulder around my wheelchair.
 
 "Get back off him right now—don't you dare touch him again!" the shipyard worker barked, pushing Tammy back another full pace when she tried to claw past his chest while two more passengers yelled for the uniformed guards by the vending bank. "Security! Right here—this woman just hauled off and smacked a man sitting in a wheelchair!"
 
 "Stay out of my business!" Tammy screamed, face purple, clutching her unspent cash envelope as the two security officers jogged up fast to flank her elbows.
 
-"Out the front doors right now, ma'am, or Norfolk PD puts cuffs on you," the older guard ordered flatly while the culinary student rolled her suitcase out from the locker bank behind her heels so she couldn't step back within ten feet of my chair.
+"Out the front doors right now, ma'am, or Norfolk PD puts cuffs on you," the older guard ordered flatly while a culinary student rolled her suitcase out from the locker bank behind her heels so she couldn't step back within ten feet of my chair.
 
 My whole chest kept heaving in jagged, humiliating sobs I couldn't turn off. Kneeling down to eye level beside my right wheel so she wasn't towering over me, the woman in teal scrubs pressed a clean stack of folded paper napkins gently into my hand and spoke in the kindest, steadying voice imaginable.
 
@@ -1530,59 +1687,55 @@ Wiping furiously at my wet eyes and burning left cheek with the napkins, choking
 
 "I just—I just want to go home," I sobbed, gripping my push-rims with shaking hands. "I just want to go home to the Emerald Creek area of Chesapeake... my little sister turns eighteen in October and my grandpa's dying, and I just want to go home to them."
 
-Nobody looked down on me for crying. An older gray-haired retired chief carrying a canvas tool bag stepped up beside the nurse, made sure the straps holding my silver forearm crutches on the back of my wheelchair hadn't loosened, and nodded calmly toward the side exit away from Monticello Avenue's front curb.
-
-"Easy three-bus hop gets you straight back to Emerald Creek Mall, son," the retired chief said warmly. "Take the two or the eleven—whichever rolls by first—back down into Downtown Norfolk, catch the twenty out to Glenrock Mall, and hop the fifteen right into Emerald Creek. Come out the side doors with me—I'm heading downtown myself, so I'll ride beside your chair till you're safely on that twenty bus."
-
 ***
 
-#### 12:15 PM — Stopping Short of the Grassy Island at Emerald Creek Mall
+#### 10:05 AM — Cab Forty-Seven With the Meter Turned Off
 
-True to his word, the retired chief waited with me a block off the terminal until a southbound Route 2 Beacon V pulled up ahead of the eleven, rode all the way back into Downtown Norfolk beside my wheelchair, and didn't wave goodbye until the front-stairwell Elevate-U lift on an eastbound CVTA Route 20 coach had raised me safely aboard for the run out Virginia Beach Boulevard.
+Right beside the nurse in scrubs, the woman in the blue chambray work shirt and neat shoulder-length dark braids crouched smoothly down beside my left wheel so her steady, compassionate brown eyes met mine dead on the level, touching the laminated Norfolk hack license clipped to her pocket.
 
-By the time the salt tracks on my cheeks dried in the overhead air vent and our Route 20 bus approached the wide intersection of Virginia Beach Boulevard and Military Highway just outside Glenrock Mall, the operator unhooked his radio handset to call ahead for my pulse transfer.
+"Hey there—my name's Denise Carter," she said warmly, zero pity or rush in her voice. "I drive Cab Forty-Seven parked right outside the side curb under the corner canopy. Came inside five minutes ago to grab a cup of coffee after a morning drop-off, and I saw the whole thing. Tell you what: let me fold your wheelchair into my trunk and drive you straight home to Chesapeake right now. No charge—not one cent."
 
-"Outbound twenty to the outbound fifteen at Glenrock Mall, I have one ten-sixteen for you," he said into the mic.
+Blinking past wet eyelashes with napkins crumpled in my fist, my literal brain tried to compute the numbers and stalled. "Ma'am... Monticello Avenue clear out to Emerald Creek is twenty-five or thirty dollars on a cab meter, and all I've got in my pocket is bus quarters—"
 
-<pa>Ten-four. Is he heading towards Emerald Creek Mall?</pa>
+"My meter's staying switched flat off, hon," Denise answered gently, rising to her feet with a quiet, unshakable certainty I couldn't read the full story behind. "Consider this trip on the house. Nobody gets slapped in front of me for wanting to go home to their family, and you don't need to be riding three city buses across town shaking like a leaf. Wait two ticks while I check that she's clear of the curb, then roll out the side ramp with me."
 
-The operator glanced up into his wide interior mirror toward my wheelchair bay. "Heading to Emerald Creek Mall?"
+Once the older security guard gave Denise a thumbs-up through the plate glass confirming Tammy had already stormed down Monticello Avenue toward the outbound bus stop, Denise walked right beside my wheelchair out beneath the iconic round nineteen-sixty-one concrete mushroom corner canopy to a spotless yellow-and-navy four-door sedan parked along the right-hand sidewalk curb.
 
-"Yes, sir," I managed, my voice still hoarse yet steady.
+Popping her wide rear trunk open first, Denise waited unhurriedly while I unstrapped my two matte-silver single-tube Lofstrand forearm crutches from behind my backrest and stood braced on the level sidewalk beside her open right-rear passenger door, then folded my manual wheelchair carefully—keeping my contoured foam seat pad flat and unpinched—and lifted both my chair and battered olive duffel smoothly into the trunk before laying my crutches neatly across the rear floorboard once I eased onto the cool vinyl backseat.
 
-"Ten-four, he says he's heading to Emerald Creek Mall," the operator confirmed into the handset.
+True to every word she spoke, the red LED digits on her dashboard taximeter stayed dark and blank the whole twenty-minute drive over the Berkley Bridge and down Interstate 64 into Chesapeake. Denise didn't pry or ask a single intrusive question about Tammy; she simply adjusted the AC vent gently toward the back, kept quiet eighties synth-pop humming low on the dash radio while the red sting faded off my cheek, and turned smoothly off Eden Way North into Grandpa Walter's maple-shaded driveway at twenty-five minutes to eleven.
 
-<pa>Ten-four, Route 15 copies.</pa>
+Before Denise even finished unfolding my manual wheelchair at the foot of our three wooden front porch steps, seventeen-year-old Gwen pushed open the front storm door on her tall matte-charcoal crutches, with seventy-nine-year-old Grandpa Walter stepping steadily onto the porch right behind her. When Grandpa heard a Norfolk cabbie had driven me straight from the Pathfinder station and reached immediately into his pocket to press a folded twenty-dollar bill into Denise's hand, Denise closed Grandpa's fingers gently back over his cash and shook his weathered machinist hand warmly with both of hers.
 
-At Glenrock Mall, the waiting southbound Route 15 Beacon V held its front doors open while its Elevate-U platform lifted my chair aboard, then rumbled south down all eight lanes of Military Highway—gliding over the low, flat highway bridge across the Eastern Branch of the Elizabeth River and branching off at Old Emerald Creek Road toward the mall.
+"Keep that twenty for your granddaughter's October birthday cake, sir," Denise smiled before climbing back behind her wheel. "You've got a good grandson here—mighty glad I stopped in for coffee this morning."
 
-Anyone who rode a wheelchair to Emerald Creek Mall knew the catch waiting out on Mall Ring Road. Instead of a paved transit shelter or a sidewalk landing pad, CVTA's official Emerald Creek Mall bus stop was nothing more than a metal bus-stop sign and schedule placard driven into the middle of a narrow, oval grassy parking-lot island ringed on all sides by an unbroken six-inch concrete curb—zero pavement and zero curb cuts anywhere on it. If an operator pulled up flush to the sign and lowered the wheelchair lift onto that grassy island, your casters were trapped inside six inches of concrete curbing.
+The second Cab Forty-Seven backed smoothly out onto our quiet street, I climbed the three porch steps on my silver crutches, propped them beside Gwen's charcoal pair against the wooden railing, and pulled my six-foot-one little sister straight into our deep, automatic greeting hug—tucking my chin right beneath her collarbone while Gwen wrapped both long arms fiercely around my neck and laughed through happy tears against my hair.
 
-As our forty-foot coach banked onto Mall Ring Road across the sea of parked cars from the department store entrance and eased toward that curbed strip of dry grass, I unlocked my vocal cords and called forward clearly.
+"You dumped her—you actually dumped her!" Gwen gasped, hugging me with all her strength. "Oh, Nolan, I missed you so much! You're home before junior year even starts!"
 
-"Driver, I'm getting off here at the mall—could you stop short of the island and put me off on the roadway?"
+Inside the downstairs family room, Grandpa Walter sat propped in his worn leather recliner with his dark-green and navy-blue plaid wool blanket folded across one armrest and a thick manila accordion folder tied with string resting across his knees. Though he wasn't on supplemental oxygen yet and still drove his silver-tan sedan on short daytime errands around Emerald Creek, his winter pneumonia and congestive-heart-failure hospitalization had thinned his broad Navy shoulders noticeably, making it plain why his cardiologist had told him to keep his affairs in order—and why Grandpa was holding on with quiet determination to see Gwen turn eighteen in October free of any city social-services claim.
 
-"Sure thing, man—know that curb well," the operator called back with an understanding nod in his mirror. Flipping on his four-way hazard flashers in the wide parking-lot drive lane a full bus length short of the grassy island and the bus-stop post, he pulled the air brake and cycled the front stairwell flat into the Elevate-U platform, lowering my manual wheelchair smoothly onto the level gray asphalt of the parking lot roadway.
-
-Grandpa Walter's house wasn't far from the outer ring road at all. Rolling clear of the mall lot into the quiet maple-lined neighborhood blocks, I locked my wheelchair brakes at the foot of Grandpa's three wooden front steps, unstrapped my matte-silver Lofstrand forearm crutches from the back of my chair, hoisted my olive duffel onto the boards, and climbed up onto the covered front porch just as seventeen-year-old Gwen pushed open the storm door on her tall matte-charcoal crutches.
-
-Six-foot-one Gwen took one look at my red-rimmed hazel eyes, the faint pink mark fading on my left cheek, and my wheelchair sitting parked at the bottom of the steps—and the second I told her hoarsely that I had broken up with Tammy at the Norfolk bus station for good, pure sunshine broke across my little sister's face. Propping both of her charcoal crutches cleanly beside my silver pair against the wooden porch railing, Gwen wrapped both long arms fiercely around my neck and hugged me with all her strength.
-
-"You dumped her—you actually dumped her!" Gwen gasped, laughing through happy tears against my hair on Grandpa's porch. "Oh, Nolan, I missed you so much! You're home before junior year even starts!"
-
-Inside the downstairs family room, seventy-nine-year-old Grandpa Walter sat propped in his worn leather recliner with his dark-green and navy-blue plaid wool blanket folded across one armrest and a thick manila accordion folder tied with string resting across his knees. Though he wasn't on supplemental oxygen yet and still drove his silver-tan sedan on short daytime errands around Emerald Creek, the winter pneumonia and congestive-heart-failure hospitalization had thinned his broad Navy-machinist shoulders noticeably, making it plain why his cardiologist had told him to keep his affairs in order—and why Grandpa was holding on with quiet determination to see Gwen turn eighteen in October free of any city social-services claim.
-
-While Gwen went upstairs to make up the full-sized bed in my old bedroom, Grandpa untied the manila folder in the downstairs family room—explaining he was already planning to move his bed downstairs near the first-floor full bathroom once the stairs up to his master suite got too steep—and quietly walked me through his earthly paperwork ahead of time: his notarized two-page will naming me executor, his honorable Navy discharge from his years stationed at Norfolk and modest burial policy, and the ninety-day payoff terms on the six-figure home-equity medical loan he had been forced to borrow after months of uncovered winter ICU and cardiac care wiped out the comfortable upper-middle-class nest egg he had built before ever taking custody of us—meaning whenever his time came, our big two-story house would have to be sold.
+While Gwen went upstairs to make up the full-sized bed in my old bedroom, Grandpa untied the manila folder—explaining he was already planning to move his bed downstairs near the first-floor full bathroom once the stairs up to his master suite got too steep—and quietly walked me through his earthly paperwork ahead of time: his notarized two-page will naming me executor, his honorable Navy discharge from his years stationed at Norfolk and modest burial policy, and the ninety-day payoff terms on the six-figure home-equity medical loan he had been forced to borrow after months of uncovered winter ICU and cardiac care wiped out the comfortable upper-middle-class nest egg he had built before ever taking custody of us—meaning whenever his time came, our big two-story house would have to be sold.
 
 "I'm making October nineteenth, boy," Grandpa Walter said with a steady smile, squeezing my wrist. "I'm seeing your sister turn eighteen. After that, Nolan... make sure she's got a home right beside her brother."
 
-Twenty minutes later, walking four blocks over to the Emerald Creek Blue Tech on my matte-silver forearm crutches to ask Danny in warehouse freight if I could borrow his pickup truck for sheriff civil standby, Mallory Walsh was the very first person outside my family I told. Standing behind the Computers counter with that blue ballpoint pen tucked behind her ear, Mallory listened to me say I had rolled out into the middle of the Norfolk Pathfinder Terminal and ended things with Tammy for good—and broke into the widest, brightest smile I had ever seen behind her thin silver wire-rimmed glasses.
+Twenty minutes later, walking four blocks over to the Emerald Creek Blue Tech on my matte-silver forearm crutches to ask Danny in warehouse freight if I could borrow his pickup truck for sheriff civil standby, Mallory Walsh was the very first person outside my family I told. Standing behind the Computers counter with that blue ballpoint pen tucked behind her ear, Mallory listened to me say I had rolled out into the middle of the Norfolk Pathfinder Terminal, ended things with Tammy for good, and caught a free cab ride straight home—and broke into the widest, brightest smile I had ever seen behind her thin silver wire-rimmed glasses.
 
 "Good—best news this building's heard all year, Nolan Lennox," Mallory said fiercely, already unclipping her retractable supervisor override key-reel to sign off on covering Danny's afternoon freight window herself. "Get every stick of your furniture out of there today, and don't you dare sign anything letting her rope you back in."
 
-That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of civil standby outside Pinecrest Court while Danny loaded my full-sized bed, oak dresser, nineteen-inch television, silver VCR and DVD combo unit, and Quantum OS 2000 Professional laptop out of Tammy's rusty, landlord-patched trailer into his pickup before Tammy even straggled back from Norfolk—we swung by the Pinecrest Court park manager's trailer office so I could turn in my brass trailer key and get my name off the lease. Back in November of ninety-nine, when Tammy and I had decided I was moving in, the park's fourteen-day occupant rule had required me to bring two Blue Tech direct-deposit paystubs into that office and sign onto Tammy's lease as a co-tenant—and during both of the earlier breakups Tammy had initiated, she had never taken my name off the lease because she hadn't meant to yell at me either time. Because taking a co-tenant off immediately required Tammy's signature on a roommate release—which Tammy stubbornly refused to sign once she got home, holding out all autumn convinced I would come crawling back—filing my formal ninety-day park lot non-renewal notice on August twenty-first meant my name stayed legally on that trailer lease until midnight on November thirtieth. Paying my final share up front so my credit stayed spotless, Danny and I hauled all of my furniture back to Emerald Creek and unloaded it safely under a tarp in the open second bay of Grandpa Walter's two-car garage.
+That very afternoon—after a Chesapeake sheriff's deputy stood ten minutes of civil standby outside Pinecrest Court while Danny loaded my full-sized bed, oak dresser, nineteen-inch television, silver VCR and DVD combo unit, and Quantum OS 2000 Professional laptop out of Tammy's rusty, landlord-patched trailer into his pickup before Tammy even got back from Norfolk—we swung by the Pinecrest Court park manager's trailer office so I could turn in my brass trailer key and file my formal ninety-day written lot non-renewal notice. Because taking a co-tenant off immediately required Tammy's signature on a roommate release—which Tammy stubbornly refused to sign once she got home, holding out all autumn convinced I would come crawling back—my name stayed legally on that trailer lease until midnight on November thirtieth. Paying my final share up front so my credit stayed spotless, Danny and I hauled all of my furniture back to Emerald Creek and unloaded it safely under a tarp in the open second bay of Grandpa Walter's two-car garage.
 
 Even better, when I worked up the nerve at our quiet breakroom corner table the following week to ask Mallory plainly whether she might ever want to grab dinner off the clock sometime—since she spoke my exact literal language and was the easiest friend I had ever talked to—Mallory didn't play a single guessing game. Adjusting her wire-rimmed glasses with a gentle, unmistakable warmth in her blue-gray eyes that told even me she wasn't saying no out of dislike, she tapped the small silver Shift Supervisor pin on her royal-blue collar and laid down a clean, rock-solid rule: as long as we both worked at Blue Tech and her key-reel signed off on floor overrides and schedules, she flat-out refused to date anyone in the store so personal feelings could never get in the way of a business decision—while promising the corner chair opposite hers at lunch stayed mine every single shift. In my rulebook, a clear, honest boundary stated in plain English was ten times better than romance anyway; Mallory and I settled effortlessly into being genuine friends, and come December first, my name would drop off Tammy's lease automatically with zero overlap, leaving me free to sign a lease on Harborview Towers' tiny second-floor Studio 205 over in Norfolk with Gwen right beside me.
+
+***
+
+#### All Earlier Story Paths Converge Here {#crossroads-rejoin-e001-c001-p011}
+
+***
+
+# Book One: Beyond the Studio Rift
+
+## Chapter 1: Two Names on One Studio Lease
 
 ### Part 11: Seventy-Five Ohms, Fast-Busy Lines, and Eden Way North
 
