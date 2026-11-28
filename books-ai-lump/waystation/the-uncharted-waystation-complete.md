@@ -2,7 +2,7 @@
 title: "The Uncharted Waystation"
 ---
 
-# Book One: Beyond the Studio Rift
+# Book One: Tidewater and Studio 205
 
 ## Chapter 1: Two Names on One Studio Lease
 
@@ -758,22 +758,22 @@ As Tammy patted my knee once and turned half a step back toward the concrete col
 
 #### Story Crossroads — Inside the Monticello Locker Alcove: Does Nolan Reject Tammy Now or Wait While She Buys Tickets? {#crossroads-norfolk-pathfinder-terminal-2001}
 
-*Wheeled six feet behind the thick concrete column into the recessed steel coin-locker alcove leading to the 1961 Monticello Avenue terminal's separate Men's and Women's restrooms—shielded from concourse security by the lockers, Tammy's back, and her open baby-blue cardigan wings—twenty-three-year-old Nolan Lennox faces Tammy's ultimate trump card: a silent two-second flash beneath her braless shelf-bra camisole and a soft Week-One promise of zero yelling in Seattle plus a payphone call to Blue Tech in Richmond. Every option opens a complete, coequal story route returning Nolan home to Studio 205 and Mallory Walsh before Vaeloria.*
+*Wheeled six feet behind the thick concrete column into the recessed steel coin-locker alcove leading to the 1961 Monticello Avenue terminal's separate Men's and Women's restrooms—shielded from concourse security by the lockers, Tammy's back, and her open baby-blue cardigan wings—twenty-three-year-old Nolan Lennox faces Tammy's ultimate trump card: a silent two-second flash beneath her braless shelf-bra camisole and a soft Week-One promise of zero yelling in Seattle plus a payphone call to Blue Tech in Richmond. Every option opens a complete, coequal story route.*
 
 *Select a Story Path below to jump directly to your chosen continuation:*
 
-1. [**Reject Tammy's Promise & Roll Out Before She Buys Tickets**](#crossroads-path-lock-wheelchair-brakes-emerald-creek) — Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, break up for good, and ride straight home at zero charge in kind Norfolk cabbie Denise Carter's taxi.
-2. [**Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets**](#crossroads-path-norfolk-ticket-counter) — Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value—waiting beside the lockers while she buys two walk-up cash tickets to Seattle and wheels you out to Gate Four, where the Richmond coach has no wheelchair lift.
+1. [**Reject Tammy's Promise & Roll Out Before She Buys Tickets**](#crossroads-path-lock-wheelchair-brakes-emerald-creek) — Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of the waiting room to lock your wheelchair brakes, tell Tammy you're breaking up for good, and head back home to Gwen and Grandpa Walter in Emerald Creek.
+2. [**Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets**](#crossroads-path-norfolk-ticket-counter) — Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value—easing your hands off your wheel locks and waiting in the concourse while she walks up to the counter to buy two ninety-nine-dollar cash tickets to Seattle.
 
 ***
 
 # Story Path: Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets {#crossroads-path-norfolk-ticket-counter}
 
-*Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value—waiting beside the lockers while she buys two walk-up cash tickets to Seattle and wheels you out to Gate Four, where the Richmond coach has no wheelchair lift.*
+*Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value—easing your hands off your wheel locks and waiting in the concourse while she walks up to the counter to buy two ninety-nine-dollar cash tickets to Seattle.*
 
 *[← Return to the Story Crossroads](#crossroads-norfolk-pathfinder-terminal-2001)*
 
-# Book One: Ninety-Nine Dollars at the Ticket Window
+# Norfolk Terminal Route: Ninety-Nine Dollars at the Ticket Window
 
 ## Chapter 1A: Two Ticket Folders and Four Steep Steps at Gate Four
 
@@ -819,22 +819,22 @@ With twenty impatient passengers watching behind us and two non-refundable ninet
 
 #### Story Crossroads — Paid Tickets and Four Steep Steps: Does Tammy Snap or Keep Her Week-One Voice? {#crossroads-norfolk-bay-four-boarding-2001}
 
-*With two freshly printed ninety-nine-dollar Seattle ticket folders in Tammy's hand, the Gate Four driver shakes his head at Nolan's manual wheelchair: nobody called corporate forty-eight hours ahead for a hydraulic lift, meaning Nolan's chair must ride folded in the luggage bay while he climbs four steep aluminum steps on his forearm crutches. If Tammy drops her sweet mask and snaps now, Nolan will refuse to board on the spot and go home; only if Tammy keeps every drop of her gentle Week-One voice will literal-minded Nolan trust her enough to climb aboard.*
+*With two freshly printed ninety-nine-dollar Seattle ticket folders in Tammy's hand, the Gate Four driver shakes his head at Nolan's manual wheelchair: nobody called corporate forty-eight hours ahead for a hydraulic lift, meaning Nolan's chair must ride folded in the luggage bay while he climbs four steep aluminum steps on his forearm crutches. What Tammy says next decides whether Nolan steps aboard.*
 
 *Select a Story Path below to jump directly to your chosen continuation:*
 
-1. [**Tammy Snaps at Gate Four — Refuse to Board & Go Home**](#crossroads-path-ticket-snap-refuse-boarding) — The instant Tammy drops her sweet voice and barks at you in front of the boarding queue, wake up to the lie, roll straight back inside the waiting room to end things for good, and ride home free of charge in kind Norfolk cabbie Denise Carter's taxi—rejoining the mainline sequence.
-2. [**Tammy Keeps Her Sweet Week-One Voice — Board the Pathfinder**](#crossroads-path-seattle-pathfinder-exodus) — Reassured by Tammy's warm, patient Week-One smile—promising to carry your footrests, call Blue Tech together in Richmond, and ask the Richmond desk for a lift coach—climb those four aluminum steps onto Gate Four before her mask drops a hundred miles up the highway.
+1. [**Tammy Snaps at Gate Four — Refuse to Board & Go Home**](#crossroads-path-ticket-snap-refuse-boarding) — The instant Tammy drops her sweet voice and snaps at you in front of the boarding queue, wake up to the lie, ask the driver to pull your wheelchair back out of the luggage bay, and roll straight back inside the waiting room to break up for good and go home.
+2. [**Tammy Keeps Her Sweet Week-One Voice — Board the Pathfinder**](#crossroads-path-seattle-pathfinder-exodus) — Reassured by Tammy's warm, patient Week-One smile—apologizing to the driver, carrying your metal footrests, and promising to call Blue Tech together in Richmond and ask the desk for a lift coach—trust her word and climb the four steep aluminum steps onto Gate Four.
 
 ***
 
 # Story Path: Tammy Snaps at Gate Four — Refuse to Board & Go Home {#crossroads-path-ticket-snap-refuse-boarding}
 
-*The instant Tammy drops her sweet voice and barks at you in front of the boarding queue, wake up to the lie, roll straight back inside the waiting room to end things for good, and ride home free of charge in kind Norfolk cabbie Denise Carter's taxi—rejoining the mainline sequence.*
+*The instant Tammy drops her sweet voice and snaps at you in front of the boarding queue, wake up to the lie, ask the driver to pull your wheelchair back out of the luggage bay, and roll straight back inside the waiting room to break up for good and go home.*
 
 *[← Return to the Story Crossroads](#crossroads-norfolk-bay-four-boarding-2001)*
 
-# Book One: Turning Around at Gate Four
+# Gate Four Route: Refusing the Steps and Denise’s Cab Home
 
 ## Chapter 1B: Dropped Mask at Bay Four and Denise's Cab Home
 
@@ -930,11 +930,11 @@ With a Chesapeake sheriff's deputy standing civil standby outside Pinecrest Cour
 
 # Story Path: Tammy Keeps Her Sweet Week-One Voice — Board the Pathfinder {#crossroads-path-seattle-pathfinder-exodus}
 
-*Reassured by Tammy's warm, patient Week-One smile—promising to carry your footrests, call Blue Tech together in Richmond, and ask the Richmond desk for a lift coach—climb those four aluminum steps onto Gate Four before her mask drops a hundred miles up the highway.*
+*Reassured by Tammy's warm, patient Week-One smile—apologizing to the driver, carrying your metal footrests, and promising to call Blue Tech together in Richmond and ask the desk for a lift coach—trust her word and climb the four steep aluminum steps onto Gate Four.*
 
 *[← Return to the Story Crossroads](#crossroads-norfolk-bay-four-boarding-2001)*
 
-# Book One: The Ninety-Nine-Dollar Pathfinder
+# Pathfinder Westbound Route: From Norfolk to Missed Shift One
 
 ## Chapter 1A: Ninety-Six Hours Westbound and Missed Shift Number One
 
@@ -1158,22 +1158,22 @@ Holding my brass car key tight between my thumb and index finger under the parki
 
 #### Story Crossroads — Missed Shift Number One: Does Mallory Check on Nolan Tonight or Wait Until Friday? {#crossroads-blue-tech-missed-shift-alarm-2001}
 
-*As Nolan's Pathfinder coach rolls west past St. Louis after his loose overhead wheelchair legrests crash down onto Tammy's head, eight-oh-five clicks onto the Emerald Creek Blue Tech breakroom timeclock—marking the first No-Call No-Show of Nolan's spotless two-year career. Quietly in love with Nolan yet bound both by respect for his relationship and by corporate HR's rule to wait until Friday's third missed shift, Computers Shift Supervisor Mallory Walsh stands beside her car four blocks from Grandpa Walter's house on Eden Way North. Both options return Nolan home to Studio 205 and Mallory before Vaeloria.*
+*Eight-oh-five clicks onto the Emerald Creek Blue Tech breakroom timeclock—marking the first No-Call No-Show of Nolan Lennox's spotless two-year career. Quietly in love with Nolan yet bound both by respect for his relationship and by corporate HR's rule to wait until Friday's third missed shift before calling an emergency contact, Computers Shift Supervisor Mallory Walsh stands beside her car four blocks from Grandpa Walter's house off Eden Way North.*
 
 *Select a Story Path below to jump directly to your chosen continuation:*
 
-1. [**Drive Down Eden Way North Tonight & Intercept Pasco**](#crossroads-path-pasco-early-intercept) — Break corporate HR's three-day waiting rule immediately on Wednesday night, uncover Tammy's cash Seattle route at Pinecrest Court with Gwen and Grandpa Walter on Thursday morning, and fly Meridian Airlines into Pasco Regional Airport to rescue Nolan minutes before Tammy leads him into the terminal restroom.
-2. [**Respect Workplace Boundaries & Wait Until Friday's Third No-Show**](#crossroads-path-seattle-full-exodus-rescue) — Honor corporate protocol and relationship guardrails until Friday evening's automatic third-strike termination—leaving feverish Nolan to endure the full haul to Seattle, Puget Sound General Hospital, grounded post-9/11 skies, and missing Gwen's eighteenth birthday while Grandpa Walter refuses to die until Gwen and Mallory bring Nolan home.
+1. [**Drive Down Eden Way North Tonight**](#crossroads-path-pasco-early-intercept) — Trust your gut over corporate HR's three-day waiting rule—driving four blocks down Eden Way North right after closing tonight to check on Nolan with Gwen and Grandpa Walter before another day slips away.
+2. [**Respect Corporate Protocol & Wait Until Friday's Third No-Show**](#crossroads-path-seattle-full-exodus-rescue) — Honor corporate HR rules and off-the-clock boundaries—holding back until Friday evening's third missed shift gives you official reason to call Grandpa Walter's landline.
 
 ***
 
-# Story Path: Drive Down Eden Way North Tonight & Intercept Pasco {#crossroads-path-pasco-early-intercept}
+# Story Path: Drive Down Eden Way North Tonight {#crossroads-path-pasco-early-intercept}
 
-*Break corporate HR's three-day waiting rule immediately on Wednesday night, uncover Tammy's cash Seattle route at Pinecrest Court with Gwen and Grandpa Walter on Thursday morning, and fly Meridian Airlines into Pasco Regional Airport to rescue Nolan minutes before Tammy leads him into the terminal restroom.*
+*Trust your gut over corporate HR's three-day waiting rule—driving four blocks down Eden Way North right after closing tonight to check on Nolan with Gwen and Grandpa Walter before another day slips away.*
 
 *[← Return to the Story Crossroads](#crossroads-blue-tech-missed-shift-alarm-2001)*
 
-# Book One: Intercept Before the Restroom
+# Pasco Rescue Route: Intercept Before the Restroom
 
 ## Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco
 
@@ -1399,15 +1399,15 @@ Adjusting her thin silver wire-rimmed glasses with warm pink dusting her freckle
 
 ***
 
-*Story Path Converges — [Continue to the Shared Storyline →](#crossroads-rejoin-e001-c002-p001) • [← Return to the Story Crossroads](#crossroads-blue-tech-missed-shift-alarm-2001)*
+*Story Path Converges — [Continue to the Shared Storyline →](#crossroads-rejoin-e002-c001-p001) • [← Return to the Story Crossroads](#crossroads-blue-tech-missed-shift-alarm-2001)*
 
-# Story Path: Respect Workplace Boundaries & Wait Until Friday's Third No-Show {#crossroads-path-seattle-full-exodus-rescue}
+# Story Path: Respect Corporate Protocol & Wait Until Friday's Third No-Show {#crossroads-path-seattle-full-exodus-rescue}
 
-*Honor corporate protocol and relationship guardrails until Friday evening's automatic third-strike termination—leaving feverish Nolan to endure the full haul to Seattle, Puget Sound General Hospital, grounded post-9/11 skies, and missing Gwen's eighteenth birthday while Grandpa Walter refuses to die until Gwen and Mallory bring Nolan home.*
+*Honor corporate HR rules and off-the-clock boundaries—holding back until Friday evening's third missed shift gives you official reason to call Grandpa Walter's landline.*
 
 *[← Return to the Story Crossroads](#crossroads-blue-tech-missed-shift-alarm-2001)*
 
-# Book One: Ninety-Six Hours to Puget Sound
+# Seattle Rescue Route: Puget Sound General and Coming Home
 
 ## Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise
 
@@ -1671,7 +1671,7 @@ Ten quiet, happy months later—with me twenty-four, Gwen newly nineteen in her 
 
 ***
 
-*Story Path Converges — [Continue to the Shared Storyline →](#crossroads-rejoin-e001-c002-p001) • [← Return to the Story Crossroads](#crossroads-blue-tech-missed-shift-alarm-2001)*
+*Story Path Converges — [Continue to the Shared Storyline →](#crossroads-rejoin-e002-c001-p001) • [← Return to the Story Crossroads](#crossroads-blue-tech-missed-shift-alarm-2001)*
 
 ***
 
@@ -1683,11 +1683,11 @@ Ten quiet, happy months later—with me twenty-four, Gwen newly nineteen in her 
 
 # Story Path: Reject Tammy's Promise & Roll Out Before She Buys Tickets {#crossroads-path-lock-wheelchair-brakes-emerald-creek}
 
-*Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, break up for good, and ride straight home at zero charge in kind Norfolk cabbie Denise Carter's taxi.*
+*Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of the waiting room to lock your wheelchair brakes, tell Tammy you're breaking up for good, and head back home to Gwen and Grandpa Walter in Emerald Creek.*
 
 *[← Return to the Story Crossroads](#crossroads-norfolk-pathfinder-terminal-2001)*
 
-# Book One: Beyond the Studio Rift
+# Book One: Tidewater and Studio 205
 
 ## Chapter 1: Two Names on One Studio Lease
 
@@ -1801,7 +1801,7 @@ Even better, when I worked up the nerve at our quiet breakroom corner table the 
 
 ***
 
-# Book One: Beyond the Studio Rift
+# Book One: Tidewater and Studio 205
 
 ## Chapter 1: Two Names on One Studio Lease
 
@@ -2401,13 +2401,13 @@ Outside our rectangular room, the early-two-thousands world kept treating two cr
 
 ***
 
-#### All Earlier Story Paths Converge Here {#crossroads-rejoin-e001-c002-p001}
+#### All Earlier Story Paths Converge Here {#crossroads-rejoin-e002-c001-p001}
 
 ***
 
-# Book One: Beyond the Studio Rift
+# Book Two: Vaeloria — Beyond the Studio Rift
 
-## Chapter 2: No Wheelchairs in the Star-Moss
+## Chapter 1: No Wheelchairs in the Star-Moss
 
 ### Part 1: Amber Glass Beside the Full-Sized Bed
 
@@ -2525,7 +2525,7 @@ Nolan's hazel eyes crinkled warm at the corners. He clicked his silver cuffs ont
 
 "Two hundred paces at a time," Nolan smiled. "Let's go see who's making cider."
 
-## Chapter 3: The Three Roads of the Sunken Milestone
+## Chapter 2: The Three Roads of the Sunken Milestone
 
 ### Where the Flagstones Divide
 
@@ -2605,9 +2605,9 @@ Gwen looked from the sapphire canal lanterns, to the emerald moss road, to the s
 
 *[← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
 
-# Book One: Beyond the Studio Rift
+# Glasswater Canal Route: Lanterns on the Drift
 
-## Chapter 4: Lanterns on the Glasswater
+## Chapter 3: Lanterns on the Glasswater
 
 ### Drifting Under Sapphire Glass
 
@@ -2649,7 +2649,7 @@ Nolan wrapped his arm snug around me on the cushioned prow under Grandpa Walter'
 
 I rested my head down on my twenty-four-year-old brother's shoulder, watching two moons ripple in blue-and-gold ribbons ahead of our bow, already certain in my bones that waking the Waystation at the far end of these waterways was going to give us our forever home.
 
-## Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen
+## Chapter 4: Keepers’ Hall and the Clock at Nine-Fifteen
 
 ### Part 1: Turning the Twin Rings and the Glowing Hearth-Archway
 
@@ -2765,9 +2765,9 @@ That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photog
 
 *[← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
 
-# Book One: Beyond the Studio Rift
+# Whisperwood Moss Route: Road of the Slow-Footed Order
 
-## Chapter 4: The Slow-Footed Order's Road
+## Chapter 3: The Slow-Footed Order’s Road
 
 ### Warm Springs and Glowing Canopy
 
@@ -2807,7 +2807,7 @@ The mineral water was ninety-eight degrees to the drop, buoyant and silky around
 
 As the bioluminescent canopy brightened overhead like an indoor galaxy of blue and gold stars and the warm water cradled our bare feet, neither Gwen nor I looked back toward the borderland bridge once. Every lantern our matched footsteps woke along the Slow-Footed Order's road pointed toward the high Waystation—and a world that already loved the two of us back.
 
-## Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen
+## Chapter 4: Keepers’ Hall and the Clock at Nine-Fifteen
 
 ### Part 1: Turning the Twin Rings and the Glowing Hearth-Archway
 
@@ -2921,9 +2921,9 @@ That night inside Keepers' Hall, Nolan set Grandpa Walter's silver-framed photog
 
 *[← Return to the Story Crossroads](#crossroads-borderland-three-roads)*
 
-# Book One: Beyond the Studio Rift
+# Amber Crags Gondola Route: Above the Painted Clouds
 
-## Chapter 4: Above the Painted Clouds
+## Chapter 3: Above the Painted Clouds
 
 ### Gondolas of the Amber Crags
 
@@ -2965,7 +2965,7 @@ Nolan tore a steaming piece of herb flatbread in half, passed me the bigger piec
 
 Looking out past the gleaming brass rings toward the high crags where the Uncharted Waystation waited for us, I hugged Nolan tight under Grandpa's blanket—knowing in my bones that Earth could keep Studio 205's keys forever.
 
-## Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen
+## Chapter 4: Keepers’ Hall and the Clock at Nine-Fifteen
 
 ### Part 1: Turning the Twin Rings and the Glowing Hearth-Archway
 
