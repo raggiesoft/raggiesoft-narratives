@@ -105,6 +105,8 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
     $timezone = '';
     $sceneImages = [];
     $sceneImageAlts = [];
+    $condSceneImages = [];
+    $condSceneImageAlts = [];
 
     /* Match the opening `--- ... ---` YAML frontmatter block if present. */
     if (preg_match('/^---([\s\S]*?)---/', ltrim($partContent), $matches)) {
@@ -119,20 +121,47 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
         if (empty($time) && preg_match('/^start_time:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $time = trim($m[1], " \t\n\r\0\x0B\"'");
         if (preg_match('/^timezone:\s*"?([^"\r\n]+)"?/m', $frontmatter, $m)) $timezone = trim($m[1], " \t\n\r\0\x0B\"'");
 
-        /* MINI STATE-MACHINE PARSER FOR SCALAR OR MULTI-IMAGE YAML LISTS:
-         * Scene files can declare either a single image:
-         *   `image: "{{CDN}}/raggiesoft-books/images/scenes/foo.jpg"`
-         * OR a multi-slide YAML list:
-         *   `images:`
-         *   `  - "{{CDN}}/.../slide1.jpg"`
-         *   `  - "{{CDN}}/.../slide2.jpg"`
-         * `$activeListKey` remembers which YAML key (`images`, `image_alts`, etc.)
-         * opened an empty-value header line so subsequent `- item` lines append to the right array! */
+        /* MINI STATE-MACHINE PARSER FOR SCALARS, LISTS, & `image_by_path:` MAPS:
+         * Scene files can declare either a single image (`image:`), multi-slide YAML lists (`images:` / `image_alts:`),
+         * OR Story Crossroads path-aware maps (`image_by_path:` / `image_alt_by_path:`). */
         $fmLines = explode("\n", $frontmatter);
         $activeListKey = null;
+        $activeMapKey = null;
+        $activeMapSubKey = null;
+        $imgByPathMap = [];
+        $altByPathMap = [];
         foreach ($fmLines as $fmLine) {
+            $isIndented = ($fmLine !== '' && ($fmLine[0] === ' ' || $fmLine[0] === "\t"));
             $trimmedFm = trim($fmLine);
-            if ($trimmedFm === '') continue;
+            if ($trimmedFm === '' || strpos($trimmedFm, '#') === 0) continue;
+
+            if ($isIndented && $activeMapKey !== null) {
+                if (strpos($trimmedFm, '-') === 0 && $activeMapSubKey !== null) {
+                    $listVal = trim(substr($trimmedFm, 1), "\"' \t");
+                    if ($listVal !== '') {
+                        if ($activeMapKey === 'image_by_path') $imgByPathMap[$activeMapSubKey][] = $listVal;
+                        elseif ($activeMapKey === 'image_alt_by_path') $altByPathMap[$activeMapSubKey][] = $listVal;
+                    }
+                    continue;
+                }
+                if (strpos($trimmedFm, ':') !== false) {
+                    list($sk, $sv) = explode(':', $trimmedFm, 2);
+                    $sk = trim($sk, "\"' \t");
+                    $sv = trim($sv);
+                    if ($sv === '') {
+                        $activeMapSubKey = $sk;
+                    } else {
+                        $activeMapSubKey = null;
+                        $cleanSv = trim($sv, "\"' \t");
+                        if ($cleanSv !== '') {
+                            if ($activeMapKey === 'image_by_path') $imgByPathMap[$sk][] = $cleanSv;
+                            elseif ($activeMapKey === 'image_alt_by_path') $altByPathMap[$sk][] = $cleanSv;
+                        }
+                    }
+                    continue;
+                }
+            }
+
             /* Case 1: Indented YAML list bullet (`- "value"`) while inside `$activeListKey`. */
             if (strpos($trimmedFm, '-') === 0 && $activeListKey !== null) {
                 $listVal = trim(substr($trimmedFm, 1));
@@ -142,18 +171,28 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
                         $sceneImages[] = $listVal;
                     } elseif ($activeListKey === 'image_alt' || $activeListKey === 'image_alts') {
                         $sceneImageAlts[] = $listVal;
+                    } elseif ($activeListKey === 'image_when_matched') {
+                        $condSceneImages[] = $listVal;
+                    } elseif ($activeListKey === 'image_alt_when_matched') {
+                        $condSceneImageAlts[] = $listVal;
                     }
                 }
                 continue;
             }
-            /* Case 2: Standard `key: value` or `key:` (list opener) line. */
+            /* Case 2: Standard `key: value` or `key:` (list/map opener) line. */
             if (strpos($trimmedFm, ':') !== false) {
                 list($fKey, $fVal) = explode(':', $trimmedFm, 2);
                 $fKey = trim($fKey);
                 $fVal = trim($fVal);
+                $activeMapKey = null;
+                $activeMapSubKey = null;
                 if ($fVal === '') {
-                    /* Empty value after `:` means a YAML list starts on the next line! */
-                    $activeListKey = $fKey;
+                    if (in_array($fKey, ['image_by_path', 'image_alt_by_path', 'theme_by_path'], true)) {
+                        $activeMapKey = $fKey;
+                        $activeListKey = null;
+                    } else {
+                        $activeListKey = $fKey;
+                    }
                     continue;
                 }
                 $activeListKey = null;
@@ -162,9 +201,22 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
                     $sceneImages[] = $fVal;
                 } elseif (($fKey === 'image_alt' || $fKey === 'image_alts') && $fVal !== '') {
                     $sceneImageAlts[] = $fVal;
+                } elseif ($fKey === 'image_when_matched' && $fVal !== '') {
+                    $condSceneImages[] = $fVal;
+                } elseif ($fKey === 'image_alt_when_matched' && $fVal !== '') {
+                    $condSceneImageAlts[] = $fVal;
                 }
             } else {
                 $activeListKey = null;
+                $activeMapKey = null;
+                $activeMapSubKey = null;
+            }
+        }
+        foreach ($imgByPathMap as $bpKey => $bpUrls) {
+            $bpAlts = $altByPathMap[$bpKey] ?? [];
+            foreach ($bpUrls as $bpIdx => $bpUrl) {
+                $condSceneImages[] = $bpUrl;
+                $condSceneImageAlts[] = $bpAlts[$bpIdx] ?? ($bpAlts[0] ?? '');
             }
         }
     }
@@ -176,11 +228,11 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
 
     /* IMMUTABLE SEPTEMBER 11, 2001 ZERO-IMAGES FATAL GUARDRAIL (`lump_narratives.php`):
      * Every story section across `raggiesoft-narratives` set on September 11, 2001 MUST
-     * remain 100% un-illustrated. If any YAML image key (`image`, `images`, `og_image`,
-     * `ogImage`), inline Markdown `![...](...)`, or `<img` tag appears on a 9/11 part,
-     * abort immediately with exit code `1` so no consolidated manuscript or eBook builds! */
+     * remain 100% un-illustrated. If any YAML image key (`image`, `images`, `image_by_path`,
+     * `image_when_matched`, `og_image`, `ogImage`), inline Markdown `![...](...)`, or `<img`
+     * tag appears on a 9/11 part, abort immediately with exit code `1`! */
     if ($date !== '' && preg_match('/(?:\b2001-0?9-11\b|\b0?9[\/\-]11[\/\-]2001\b|\bSept(?:ember)?\.?\s+11(?:th)?,?\s+2001\b|\b11\s+Sept(?:ember)?\.?,?\s+2001\b)/i', $date)) {
-        $hasFmImg = !empty($sceneImages) || (bool)preg_match('/^(?:image|images|og_image|ogImage):\s*(?:[^\s#][^\r\n]*|\r?\n\s*-\s*\S+)/mi', $rawFmBlock);
+        $hasFmImg = !empty($sceneImages) || !empty($condSceneImages) || (bool)preg_match('/^(?:image|images|image_by_path|image_when_matched|og_image|ogImage):\s*(?:[^\s#][^\r\n]*|\r?\n\s*(?:-\s*\S+|[A-Za-z0-9_-]+:))/mi', $rawFmBlock);
         $bodyNoCode = (string)preg_replace('/```[\s\S]*?```/', '', (string)$partContent);
         $hasBodyImg = (bool)preg_match('/!\[[^\]]*\]\([^)]+\)|<img\b/i', $bodyNoCode);
         if ($hasFmImg || $hasBodyImg) {
@@ -193,6 +245,76 @@ function renderLumpedPartMarkdown(string $partFile, string $baseDir, int $chapPa
             );
             exit(1);
         }
+    }
+
+    /* EXPAND ROUTE-CONDITIONAL DIRECTIVES (`<!-- @if-path: ... -->` / `<!-- @if-not-path: ... -->` / `<!-- @else -->` / `<!-- @endif -->`)
+     * FOR STATIC EPUB & PDF VOLUMES:
+     * Static EPUB/PDF eBooks compile all coequal Story Crossroads routes into one volume without browser cookies.
+     * Expanding conditional blocks into the default passage plus a clearly labeled Story Path callout—and
+     * embedding any `image_by_path:` illustration once inside the alternate block—preserves 100% of prose & art! */
+    if (strpos((string)$partContent, '@if-path:') !== false || strpos((string)$partContent, '@if-not-path:') !== false || strpos((string)$partContent, ':::if-path[') !== false) {
+        $condImgMarkdownPrefix = '';
+        foreach ($condSceneImages as $cIdx => $cSceneImg) {
+            if ($cSceneImg === '') continue;
+            $normCondImg = (string)preg_replace('/#.*$/', '', str_replace('{{cms}}', '{{CDN}}', $cSceneImg));
+            if (strpos($normCondImg, '{{CDN}}') !== 0 && strpos($normCondImg, 'http') !== 0) {
+                $cRel = ltrim($normCondImg, '/');
+                if (strpos($cRel, 'raggiesoft-books/') !== 0 && strpos($cRel, 'engine-room-records/') !== 0) {
+                    $cRel = 'raggiesoft-books/images/scenes/' . $cRel;
+                }
+                $normCondImg = '{{CDN}}/' . $cRel;
+            }
+            $cBasename = basename($normCondImg);
+            if ($cBasename !== '' && strpos((string)$partContent, $cBasename) === false) {
+                $cAlt = $condSceneImageAlts[$cIdx] ?? ($condSceneImageAlts[0] ?? $title);
+                $condImgMarkdownPrefix .= "![{$cAlt}]({$normCondImg})\n\n";
+            }
+        }
+        $injectedCondImgOnce = false;
+        $formatEbookCondBlock = static function (bool $isNot, string $rawExpr, string $thenBranch, string $elseBranch) use (&$injectedCondImgOnce, $condImgMarkdownPrefix): string {
+            $defaultBody = $isNot ? $thenBranch : $elseBranch;
+            $variantBody = $isNot ? $elseBranch : $thenBranch;
+            $cleanExpr   = trim(ltrim($rawExpr, '!'));
+            $humanRoute  = ($cleanExpr === 'seattle-full-exodus-rescue')
+                ? 'If continuing from the Full Seattle Pathfinder Route'
+                : ('If continuing from Story Path: ' . ucwords(str_replace(['-', '_'], ' ', $cleanExpr)));
+            $elseLabel   = ($cleanExpr === 'seattle-full-exodus-rescue')
+                ? 'On all other Earth routes'
+                : 'On other Story Paths';
+            $condPlate = '';
+            if (!$injectedCondImgOnce && $condImgMarkdownPrefix !== '' && $variantBody !== '') {
+                $condPlate = $condImgMarkdownPrefix;
+                $injectedCondImgOnce = true;
+            }
+            if ($defaultBody !== '' && $variantBody !== '') {
+                return "*[{$elseLabel}:]*\n\n{$defaultBody}\n\n* * *\n\n*[{$humanRoute}:]*\n\n{$condPlate}{$variantBody}\n\n";
+            }
+            if ($defaultBody !== '') {
+                return "{$defaultBody}\n\n";
+            }
+            return "*[{$humanRoute}:]*\n\n{$condPlate}{$variantBody}\n\n";
+        };
+
+        $partContent = (string)preg_replace_callback(
+            '/^[ \t]*<!--[ \t]*@(if-path|if-not-path):\s*([^>]+?)[ \t]*-->[ \t]*\R([\s\S]*?)(?:^[ \t]*<!--[ \t]*@else[ \t]*-->[ \t]*\R([\s\S]*?))?^[ \t]*<!--[ \t]*@endif[ \t]*-->[ \t]*\R?/m',
+            static fn(array $m) => $formatEbookCondBlock(
+                strtolower(trim((string)$m[1])) === 'if-not-path',
+                trim((string)$m[2]),
+                trim((string)$m[3]),
+                isset($m[4]) ? trim((string)$m[4]) : ''
+            ),
+            (string)$partContent
+        );
+        $partContent = (string)preg_replace_callback(
+            '/^[ \t]*:::if-path\[([^\]]+)\][ \t]*\R([\s\S]*?)(?:^[ \t]*:::else[ \t]*\R([\s\S]*?))?^[ \t]*:::endif[ \t]*\R?/m',
+            static fn(array $m) => $formatEbookCondBlock(
+                false,
+                trim((string)$m[1]),
+                trim((string)$m[2]),
+                isset($m[3]) ? trim((string)$m[3]) : ''
+            ),
+            (string)$partContent
+        );
     }
 
     /* HEADING HIERARCHY SHIFT:

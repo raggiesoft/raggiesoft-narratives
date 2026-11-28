@@ -268,6 +268,10 @@ foreach ($dirs as $novelDir) {
      * Web readers style custom tags (`<aac>`, `<asl>`, `<led>`, `<lang>`) with CSS,
      * whereas EPUB/PDF e-readers expect standard Markdown typography.
      * ------------------------------------------------------------------------ */
+    /* Strip any residual Story Crossroads `<!-- @if-path: ... -->` / `<!-- @if-not-path: ... -->` /
+     * `<!-- @else -->` / `<!-- @endif -->` HTML comment directives as defense-in-depth before Pandoc runs. */
+    $content = preg_replace('/^[ \t]*<!--[ \t]*@(?:if-path:\s*[^>]+|if-not-path:\s*[^>]+|else|endif)[ \t]*-->[ \t]*\R?/m', '', $content);
+
     /* `<aac>...</aac>`: Augmentative & Alternative Communication tablet speech -> `*italics*`. */
     $content = preg_replace('/<aac>(.*?)<\/aac>/is', '*$1*', $content);
 
